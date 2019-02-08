@@ -2,6 +2,60 @@
 
 ## 14.1 Non-Squamous NSCLC
 
+Initial Treatment in Combination with Pembrolizumab and Platinum
+
+The efficacy of ALIMTA in combination with pembrolizumab and platinum chemotherapy was investigated in Study KEYNOTE-189 (NCT02578680), a randomized, multicenter, double-blind, active-controlled trial conducted in patients with metastatic non-squamous NSCLC, regardless of PD-L1 tumor expression status, who had not previously received systemic therapy for metastatic disease and in whom there were no EGFR or ALK genomic tumor aberrations.
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
+Randomization was stratified by smoking status (never versus former/current), choice of platinum (cisplatin versus carboplatin), and tumor PD-L1 status (TPS <1% [negative] versus TPS ≥1%).
+Patients were randomized (2:1) to one of the following treatment arms:
+
+- ALIMTA 500 mg/m2, pembrolizumab 200 mg, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by ALIMTA 500 mg/m2 and pembrolizumab 200 mg intravenously every 3 weeks.
+  ALIMTA was administered after pembrolizumab and prior to platinum chemotherapy on Day 1.
+- Placebo, ALIMTA 500 mg/m2, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by placebo and ALIMTA 500 mg/m2 intravenously every 3 weeks.
+
+Treatment with ALIMTA continued until RECIST v1.1 (modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ)-defined progression of disease as determined by the investigator or unacceptable toxicity.
+
+Patients randomized to placebo, ALIMTA, and platinum chemotherapy were offered pembrolizumab as a single agent at the time of disease progression.
+
+Assessment of tumor status was performed at Week 6, Week 12, and then every 9 weeks thereafter.
+The main efficacy outcome measures were OS and PFS as assessed by BICR RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of five target lesions per organ.
+Additional efficacy outcome measures were ORR and duration of response, as assessed by the BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+
+A total of 616 patients were randomized: 410 patients to the ALIMTA, pembrolizumab, and platinum chemotherapy arm and 206 to the placebo, ALIMTA, and platinum chemotherapy arm.
+The study population characteristics were: median age of 64 years (range: 34 to 84); 49% age 65 or older; 59% male; 94% White and 3% Asian; 56% ECOG performance status of 1; and 18% with history of brain metastases.
+Thirty-one percent had tumor PD-L1 expression TPS <1%.
+Seventy-two percent received carboplatin and 12% were never smokers.
+A total of 85 patients in the placebo, ALIMTA, and chemotherapy arm received an anti-PD-1/PD-L1 monoclonal antibody at the time of disease progression.
+
+The trial demonstrated a statistically significant improvement in OS and PFS for patients randomized to ALIMTA in combination with pembrolizumab and platinum chemotherapy compared with placebo, ALIMTA, and platinum chemotherapy (see Table 10 and Figure 1).
+
+Table 10: Efficacy Results of KEYNOTE-189
+
+| Endpoint | ALIMTA Pembrolizumab Platinum Chemotherapy n=410 | Placebo ALIMTA Platinum Chemotherapy n=206 |
+| --- | --- | --- |
+| OS |  |  |
+| Number (%) of patients with event | 127 (31%) | 108 (52%) |
+| Median in months (95% CI) | NR (NR, NR) | 11.3 (8.7, 15.1) |
+| Hazard ratioa (95% CI) | 0.49 (0.38, 0.64) |  |
+| p-valueb | <0.0001 |  |
+| PFS |  |  |
+| Number of patients with event (%) | 244 (60%) | 166 (81%) |
+| Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
+| Hazard ratioa (95% CI) | 0.52 (0.43, 0.64) |  |
+| p-valueb | <0.0001 |  |
+| ORR |  |  |
+| Overall response ratec (95% CI) | 48% (43, 53) | 19% (14, 25) |
+| Complete response | 0.5% | 0.5% |
+| Partial response | 47% | 18% |
+| p-valued | <0.0001 |  |
+| Duration of Response |  |  |
+| Median in months (range) | 11.2 (1.1+, 18.0+) | 7.8 (2.1+, 16.4+) |
+| a Based on the stratified Cox proportional hazard model. |  |  |
+| b Based on stratified log-rank test. |  |  |
+| c Response: Best objective response as confirmed complete response or partial response. |  |  |
+| d Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status. |  |  |
+| NR = not reached |  |  |
+
 Initial Treatment in Combination with Cisplatin
 
 The efficacy of ALIMTA was evaluated in Study JMDB (NCT00087711), a multi-center, randomized (1:1), open-label study conducted in 1725 chemotherapy-naive patients with Stage IIIb/IV NSCLC.
@@ -18,9 +72,9 @@ Among patients for whom ECOG PS (n=1722) and smoking history (n=1516) were colle
 For tumor characteristics, 73% had non-squamous NSCLC and 27% had squamous NSCLC; 76% had Stage IV disease.
 Among 1252 patients with non-squamous NSCLC histology, 68% had a diagnosis of adenocarcinoma, 12% had large cell histology and 20% had other histologic subtypes.
 
-Efficacy results in Study JMDB are presented in Table 10 and Figure 1.
+Efficacy results in Study JMDB are presented in Table 11 and Figure 2.
 
-Table 10: Efficacy Results in Study JMDB
+Table 11: Efficacy Results in Study JMDB
 
 | Efficacy Parameter | ALIMTA plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
@@ -35,10 +89,10 @@ Table 10: Efficacy Results in Study JMDB
 | b Adjusted for gender, stage, basis of diagnosis, and performance status. |  |  |
 
 In pre-specified analyses assessing the impact of NSCLC histology on overall survival, clinically relevant differences in survival according to histology were observed.
-These subgroup analyses are shown in Table 11 and Figures 2 and 3.
+These subgroup analyses are shown in Table 12 and Figures 3 and 4.
 This difference in treatment effect for ALIMTA based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in Studies JMEN and JMEI.
 
-Table 11: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
+Table 12: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
 
 | Histologic Subgroups | ALIMTA plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
@@ -51,75 +105,14 @@ Table 11: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
 | Large Cell (N=153) |  |  |
 | Median (months) (95% CI) | 10.4 (8.6-14.1) | 6.7 (5.5-9.0) |
 | HRa,b (95% CI) | 0.67 (0.48-0.96) |  |
-| Otherc (N=252) |  |  |
+| Non-squamous, not otherwise specified (N=252) |  |  |
 | Median (months) (95% CI) | 8.6 (6.8-10.2) | 9.2 (8.1-10.6) |
 | HRa,b (95% CI) | 1.08 (0.81-1.45) |  |
-| Squamous Cellc (N=473) |  |  |
+| Squamous Cell (N=473) |  |  |
 | Median (months) (95% CI) | 9.4 (8.4-10.2) | 10.8 (9.5-12.1) |
 | HRa,b (95% CI) | 1.23 (1.00-1.51) |  |
 | a Unadjusted for multiple comparisons. |  |  |
 | b Adjusted for ECOG PS, gender, disease stage, and basis for pathological diagnosis (histopathological/cytopathological). |  |  |
-| c Includes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |
-
-First-Line Treatment of Metastatic Non-Squamous NSCLC with Carboplatin and Pembrolizumab
-
-The efficacy of ALIMTA administered with carboplatin and pembrolizumab was investigated in patients enrolled in an open-label, multicenter, multi-cohort study, Study KEYNOTE-021 (NCT02039674); the efficacy data are limited to patients with metastatic non-squamous NSCLC randomized within a single cohort (Cohort G1).
-The key eligibility criteria for this cohort were locally advanced or metastatic non-squamous NSCLC, regardless of tumor PD-L1 expression status, and no prior systemic treatment for metastatic disease.
-Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
-Randomization was stratified by PD-L1 tumor expression (TPS <1% versus TPS ≥1%).
-Patients were randomized (1:1) to one of the following treatment arms:
-
-- Pembrolizumab 200 mg, ALIMTA 500 mg/m2, and carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by pembrolizumab 200 mg intravenously every 3 weeks.
-  Pembrolizumab was administered prior to chemotherapy on Day 1.
-- ALIMTA 500 mg/m2 and carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles.
-
-At the investigator's discretion, maintenance ALIMTA 500 mg/m2 every 3 weeks was permitted in both treatment arms and continued until RECIST1.1-defined progression of disease or unacceptable toxicity.
-
-Pembrolizumab was continued until RECIST 1.1-defined progression of disease as determined by blinded independent central review (BICR), unacceptable toxicity, or a maximum of 24 months.
-Administration of pembrolizumab in the pembrolizumab-containing arm was permitted beyond RECIST-defined disease progression if the patient was clinically stable and deriving clinical benefit as determined by the investigator.
-
-Patients on ALIMTA with carboplatin were offered pembrolizumab as a single agent at the time of disease progression.
-
-Assessment of tumor status was performed every 6 weeks through Week 18 and every 9 weeks thereafter.
-The major efficacy outcome measure was objective response rate (ORR) as assessed by BICR using RECIST 1.1.
-Additional efficacy outcome measures were progression-free survival (PFS) as assessed by BICR using RECIST 1.1, duration of response, and overall survival (OS).
-
-A total of 123 patients were randomized: 60 patients to the ALIMTA with carboplatin and pembrolizumab arm and 63 to the ALIMTA with carboplatin arm.
-The study population characteristics were: median age of 64 years (range 37 to 80 years); 48% age 65 or older; 39% male; 87% White and 8% Asian; ECOG performance status of 0 (41%) and 1 (56%); 97% had metastatic disease; and 12% had brain metastases.
-Thirty-six percent had tumor PD-L1 expression TPS <1%; no patients had sensitizing EGFR or ALK genomic aberrations.
-A total of 20 (32%) patients in the ALIMTA with carboplatin arm received pembrolizumab at the time of disease progression and 12 (19%) additional patients received a checkpoint inhibitor as subsequent therapy.
-
-In Cohort G1 of KEYNOTE-021, there was a statistically significant improvement in ORR in patients randomized to ALIMTA with carboplatin and pembrolizumab compared to ALIMTA with carboplatin alone (see Table 12).
-
-Table 12: Efficacy Results in Cohort G1 of KEYNOTE-021
-
-| Endpoint | ALIMTA Carboplatin Pembrolizumab n=60 | ALIMTA Carboplatin n=63 |
-| --- | --- | --- |
-| Overall Response Rate |  |  |
-| Overall Response Rate | 55% | 29% |
-| (95% CI) | (42, 68) | (18, 41) |
-| Complete Response | 0% | 0% |
-| Partial Response | 55% | 29% |
-| p-valuea | 0.0032 |  |
-| Duration of Response |  |  |
-| % with duration ≥6 monthsb | 93% | 81% |
-| Range (months) | 1.4+ to 13.0+ | 1.4+ to 15.2+ |
-| PFS |  |  |
-| Number of events (%) | 23 (38%) | 33 (52%) |
-| Progressive Disease | 15 (25%) | 27 (43%) |
-| Death | 8 (13%) | 6 (10%) |
-| Median in months (95% CI) | 13 (8.3, NE) | 8.9 (4.4, 10.3) |
-| Hazard ratioc (95% CI) | 0.53 (0.31, 0.91) |  |
-| p-valued | 0.020 |  |
-| a Based on Miettinen-Nurminen method stratified by PD-L1 status (TPS <1% versus TPS ≥1%). |  |  |
-| b Based on Kaplan-Meier estimation. |  |  |
-| c Based on the Cox proportional hazard model stratified by PD-L1 status (TPS <1% versus TPS ≥1%). |  |  |
-| d Based on the log-rank test stratified by PD-L1 status (TPS <1% versus TPS ≥1%). |  |  |
-| NE = not estimable. |  |  |
-
-Exploratory analyses for ORR were conducted in subgroups defined by the stratification variable, PD-L1 tumor expression (TPS <1% and TPS ≥1%).
-In the TPS <1% subgroup, the ORR was 57% in the ALIMTA with carboplatin and pembrolizumab arm and 13% in the ALIMTA with carboplatin arm.
-In the TPS ≥1% subgroup, the ORR was 54% in the ALIMTA with carboplatin and pembrolizumab arm and 38% in the ALIMTA with carboplatin arm.
 
 Maintenance Treatment Following First-line Non-ALIMTA Containing Platinum-Based Chemotherapy
 
@@ -135,7 +128,7 @@ Median time from initiation of platinum-based chemotherapy to randomization was 
 With regard to tumor characteristics, 81% had Stage IV disease, 73% had non-squamous NSCLC and 27% had squamous NSCLC.
 Among the 481 patients with non-squamous NSCLC, 68% had adenocarcinoma, 4% had large cell, and 28% had other histologies.
 
-Efficacy results are presented in Table 13 and Figure 4.
+Efficacy results are presented in Table 13 and Figure 5.
 
 Table 13: Efficacy Results in Study JMEN
 
@@ -151,7 +144,7 @@ Table 13: Efficacy Results in Study JMEN
 | p-value | p<0.00001 |  |
 | a Hazard ratios are adjusted for multiplicity but not for stratification variables. |  |  |
 
-The results of pre-specified subgroup analyses by NSCLC histology are presented in Table 14 and Figures 5 and 6.
+The results of pre-specified subgroup analyses by NSCLC histology are presented in Table 14 and Figures 6 and 7.
 
 Table 14: Efficacy Results in Study JMEN by Histologic Subgroup
 
@@ -160,20 +153,25 @@ Table 14: Efficacy Results in Study JMEN by Histologic Subgroup
 | ALIMTA (N=441) | Placebo (N=222) | ALIMTA (N=387) | Placebo (N=194) |  |
 | Non-squamous NSCLC (n=481) |  |  |  |  |
 | Median (months) | 15.5 | 10.3 | 4.4 | 1.8 |
-| HRa (95% CI) | 0.70 (0.56-0.88) |  | 0.47 (0.37-0.60) |  |
+| HRa | 0.70 |  | 0.47 |  |
+| (95% CI) | (0.56-0.88) |  | (0.37-0.60) |  |
 | Adenocarcinoma (n=328) |  |  |  |  |
-| Median (months | 16.8 | 11.5 | 4.6 | 2.7 |
-| HRa (95% CI) | 0.73 (0.56-0.96) |  | 0.51 (0.38-0.68) |  |
+| Median (months) | 16.8 | 11.5 | 4.6 | 2.7 |
+| HRa | 0.73 |  | 0.51 |  |
+| (95% CI) | (0.56-0.96) |  | (0.38-0.68) |  |
 | Large cell carcinoma (n=20) |  |  |  |  |
 | Median (months) | 8.4 | 7.9 | 4.5 | 1.5 |
-| HRa (95% CI) | 0.98 (0.36-2.65) |  | 0.40 (0.12-1.29) |  |
+| HRa | 0.98 |  | 0.40 |  |
+| (95% CI) | (0.36-2.65) |  | (0.12-1.29) |  |
 | Otherb (n=133) |  |  |  |  |
 | Median (months) | 11.3 | 7.7 | 4.1 | 1.6 |
-| HRa (95% CI) | 0.61 (0.40-0.94) |  | 0.44 (0.28-0.68) |  |
+| HRa | 0.61 |  | 0.44 |  |
+| (95% CI) | (0.40-0.94) |  | (0.28-0.68) |  |
 | Squamous cell NSCLC (n=182) |  |  |  |  |
 | Median (months) | 9.9 | 10.8 | 2.4 | 2.5 |
-| HRa (95% CI) | 1.07 (0.77-1.50) |  | 1.03 (0.71-1.49) |  |
-| a Hazard ratios are not adjusted for multiplicity. |  |  |  |  |
+| HRa | 1.07 |  | 1.03 |  |
+| (95% CI) | (0.77-1.50) |  | (0.71-1.49) |  |
+| a Hazard ratios are not adjusted for multiplicity |  |  |  |  |
 | b Primary diagnosis of NSCLC not specified as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma. |  |  |  |  |
 
 Maintenance Treatment Following First-line ALIMTA Plus Platinum Chemotherapy
@@ -189,7 +187,7 @@ A total of 539 patients were enrolled with 359 patients randomized to ALIMTA and
 The median age was 61 years (range 32 to 83 years); 58% were male; 95% were White, 4.5% were Asian, and <1% were Black or African American; 67% had an ECOG PS of 1; 78% were current or former smokers; and 43% of the population achieved a partial or complete response to first-line, platinum-based chemotherapy.
 With regard to tumor characteristics, 91% had Stage IV disease, 87% had adenocarcinoma, 7% had large cell, and 6% had other histologies.
 
-Efficacy results for PARAMOUNT are presented in Table 15 and Figure 7.
+Efficacy results for PARAMOUNT are presented in Table 15 and Figure 8.
 
 Table 15: Efficacy Results in PARAMOUNT
 
@@ -270,7 +268,7 @@ Across the study population, the median age was 61 years (range: 20 to 86 years)
 With regard to tumor characteristics, 46% had Stage IV disease, 31% Stage III, 15% Stage II, and 7% Stage I disease at baseline; the histologic subtype of mesothelioma was epithelial in 68% of patients, mixed in 16%, sarcomatoid in 10% and other histologic subtypes in 6%.
 The baseline demographics and tumor characteristics of the subgroup of fully supplemented patients was similar to the overall study population.
 
-The efficacy results from Study JMCH are summarized in Table 18 and Figure 8.
+The efficacy results from Study JMCH are summarized in Table 18 and Figure 9.
 
 Table 18: Efficacy Results in Study JMCH
 

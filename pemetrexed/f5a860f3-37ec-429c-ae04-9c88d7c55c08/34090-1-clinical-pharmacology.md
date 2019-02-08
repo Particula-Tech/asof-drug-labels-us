@@ -77,11 +77,11 @@ In Vitro Studies
 
 Pemetrexed is a substrate for OAT3.
 Ibuprofen, an OAT3 inhibitor inhibited the uptake of pemetrexed in OAT3-expressing cell cultures with an average [Iu]/IC50 ratio of 0.38.
-In vitro data predict that at clinically relevant concentrations, other NSAIDs (naproxen, diclofenac, celocoxib) would not inhibit the uptake of pemetrexed by OAT3 and would not increase the AUC of pemetrexed to a clinically significant extent.
+In vitro data predict that at clinically relevant concentrations, other NSAIDs (naproxen, diclofenac, celecoxib) would not inhibit the uptake of pemetrexed by OAT3 and would not increase the AUC of pemetrexed to a clinically significant extent.
 [see Drug Interactions (7)].
 
 Pemetrexed is a substrate for OAT4.
-In vitro, ibuprofen and other NSAIDs (naproxen, diclofenac, celocoxib) are not inhibitors of OAT4 at clinically relevant concentrations.
+In vitro, ibuprofen and other NSAIDs (naproxen, diclofenac, celecoxib) are not inhibitors of OAT4 at clinically relevant concentrations.
 
 Aspirin
 

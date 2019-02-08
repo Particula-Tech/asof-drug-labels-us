@@ -28,7 +28,7 @@ Advise males with female partners of reproductive potential to use effective con
 
 Lactation: Advise women not to breastfeed during treatment with ALIMTA and for 1 week after the final dose [see Use in Specific Populations (8.2)].
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 2004, 2018 Eli Lilly and Company.
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 2004, 2019, Eli Lilly and Company.
 All rights reserved.
 
-ALM-0003-USPI-20180615
+ALM-0004-USPI-20190130

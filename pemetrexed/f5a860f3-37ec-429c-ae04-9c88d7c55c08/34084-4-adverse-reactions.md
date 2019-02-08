@@ -14,8 +14,77 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 In clinical trials, the most common adverse reactions (incidence ≥20%) of ALIMTA, when administered as a single agent, are fatigue, nausea, and anorexia.
 The most common adverse reactions (incidence ≥20%) of ALIMTA, when administered in combination with cisplatin are vomiting, neutropenia, anemia, stomatitis/pharyngitis, thrombocytopenia, and constipation.
+The most common adverse reactions (incidence ≥20%) of ALIMTA, when administered in combination with pembrolizumab and platinum chemotherapy, are fatigue/asthenia, nausea, constipation, diarrhea, decreased appetite, rash, vomiting, cough, dyspnea, and pyrexia.
 
 Non-Squamous NSCLC
+
+First-line Treatment of Metastatic Non-squamous NSCLC with Pembrolizumab and Platinum Chemotherapy
+
+The safety of ALIMTA, in combination with pembrolizumab and investigator's choice of platinum (either carboplatin or cisplatin), was investigated in Study KEYNOTE-189, a multicenter, double-blind, randomized (2:1), active-controlled trial in patients with previously untreated, metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations.
+A total of 607 patients received ALIMTA, pembrolizumab, and platinum every 3 weeks for 4 cycles followed by ALIMTA and pembrolizumab (n=405), or placebo, ALIMTA, and platinum every 3 weeks for 4 cycles followed by placebo and ALIMTA (n=202).
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible [see Clinical Studies (14.1)].
+
+The median duration of exposure to ALIMTA was 7.2 months (range: 1 day to 1.7 years).
+Seventy-two percent of patients received carboplatin.
+The study population characteristics were: median age of 64 years (range: 34 to 84), 49% age 65 years or older, 59% male, 94% White and 3% Asian, and 18% with history of brain metastases at baseline.
+
+ALIMTA was discontinued for adverse reactions in 23% of patients in the ALIMTA, pembrolizumab, and platinum arm.
+The most common adverse reactions resulting in discontinuation of ALIMTA in this arm were acute kidney injury (3%) and pneumonitis (2%).
+Adverse reactions leading to interruption of ALIMTA occurred in 49% of patients in the ALIMTA, pembrolizumab, and platinum arm.
+The most common adverse reactions or laboratory abnormalities leading to interruption of ALIMTA in this arm (≥2%) were neutropenia (12%), anemia (7%), asthenia (4%), pneumonia (4%), thrombocytopenia (4%), increased blood creatinine (3%), diarrhea (3%), and fatigue (3%).
+
+Table 2 summarizes the adverse reactions that occurred in ≥20% of patients treated with ALIMTA, pembrolizumab, and platinum.
+
+Table 2: Adverse Reactions Occurring in ≥20% of Patients in KEYNOTE-189
+
+|  | ALIMTA Pembrolizumab Platinum Chemotherapy n=405 |  |  | Placebo ALIMTA Platinum Chemotherapy n=202 |  |
+| --- | --- | --- | --- | --- | --- |
+| Adverse Reaction | All Gradesa (%) |  | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
+| Gastrointestinal Disorders |  |  |  |  |  |
+| Nausea | 56 |  | 3.5 | 52 | 3.5 |
+| Constipation | 35 |  | 1.0 | 32 | 0.5 |
+| Diarrhea | 31 |  | 5 | 21 | 3.0 |
+| Vomiting | 24 |  | 3.7 | 23 | 3.0 |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |
+| Fatigueb | 56 |  | 12 | 58 | 6 |
+| Pyrexia | 20 |  | 0.2 | 15 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |
+| Decreased appetite |  | 28 | 1.5 | 30 | 0.5 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |
+| Rashc | 25 |  | 2.0 | 17 | 2.5 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |
+| Cough | 21 |  | 0 | 28 | 0 |
+| Dyspnea | 21 |  | 3.7 | 26 | 5 |
+| a Graded per NCI CTCAE version 4.03. |  |  |  |  |  |
+| b Includes asthenia and fatigue. |  |  |  |  |  |
+| c Includes genital rash, rash, rash generalized, rash macular, rash maculo-papular, rash papular, rash pruritic, and rash pustular. |  |  |  |  |  |
+
+Table 3 summarizes the laboratory abnormalities that worsened from baseline in at least 20% of patients treated with ALIMTA, pembrolizumab, and platinum.
+
+Table 3: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients in KEYNOTE-189
+
+|  | ALIMTA Pembrolizumab Platinum Chemotherapy |  | Placebo ALIMTA Platinum Chemotherapy |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Testa | All Gradesb % | Grades 3-4 % | All Grades % | Grades 3-4 % |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 63 | 9 | 60 | 7 |
+| Increased ALT | 47 | 3.8 | 42 | 2.6 |
+| Increased AST | 47 | 2.8 | 40 | 1.0 |
+| Hypoalbuminemia | 39 | 2.8 | 39 | 1.1 |
+| Increased creatinine | 37 | 4.2 | 25 | 1.0 |
+| Hyponatremia | 32 | 7 | 23 | 6 |
+| Hypophosphatemia | 30 | 10 | 28 | 14 |
+| Increased alkaline phosphatase | 26 | 1.8 | 29 | 2.1 |
+| Hypocalcemia | 24 | 2.8 | 17 | 0.5 |
+| Hyperkalemia | 24 | 2.8 | 19 | 3.1 |
+| Hypokalemia | 21 | 5 | 20 | 5 |
+| Hematology |  |  |  |  |
+| Anemia | 85 | 17 | 81 | 18 |
+| Lymphopenia | 64 | 22 | 64 | 25 |
+| Neutropenia | 48 | 20 | 41 | 19 |
+| Thrombocytopenia | 30 | 12 | 29 | 8 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: ALIMTA/pembrolizumab/platinum chemotherapy (range: 381 to 401 patients) and placebo/ALIMTA/platinum chemotherapy (range: 184 to 197 patients). |  |  |  |  |
+| b Graded per NCI CTCAE version 4.03. |  |  |  |  |
 
 Initial Treatment in Combination with Cisplatin
 
@@ -27,13 +96,13 @@ Study JMDB excluded patients with an Eastern Cooperative Oncology Group Performa
 Patients unable to stop using aspirin or other non-steroidal anti-inflammatory drugs or unable to take folic acid, vitamin B12 or corticosteroids were also excluded from the study.
 
 The data described below reflect exposure to ALIMTA plus cisplatin in 839 patients in Study JMDB.
-Median age was 61 years (range 26-83 years); 70% of patients were men; 78% were White,16% were Asian, 2.9% were Hispanic or Latino, 2.1% were Black or African American, and <1% were other ethnicities; 36% had an ECOG PS 0.
+Median age was 61 years (range 26-83 years); 70% of patients were men; 78% were White, 16% were Asian, 2.9% were Hispanic or Latino, 2.1% were Black or African American, and <1% were other ethnicities; 36% had an ECOG PS 0.
 Patients received a median of 5 cycles of ALIMTA.
 
-Table 2 provides the frequency and severity of adverse reactions that occurred in ≥5% of 839 patients receiving ALIMTA in combination with cisplatin in Study JMDB.
-Study JMDB was not designed to demonstrate a statistically significant reduction in adverse reaction rates for ALIMTA, as compared to the control arm, for any specified adverse reaction listed in Table 2.
+Table 4 provides the frequency and severity of adverse reactions that occurred in ≥5% of 839 patients receiving ALIMTA in combination with cisplatin in Study JMDB.
+Study JMDB was not designed to demonstrate a statistically significant reduction in adverse reaction rates for ALIMTA, as compared to the control arm, for any specified adverse reaction listed in Table 4.
 
-Table 2: Adverse Reactions Occurring in ≥5% of Fully Vitamin-Supplemented Patients Receiving ALIMTA in Combination with Cisplatin Chemotherapy in Study JMDB
+Table 4: Adverse Reactions Occurring in ≥5% of Fully Vitamin-Supplemented Patients Receiving ALIMTA in Combination with Cisplatin Chemotherapy in Study JMDB
 
 | Adverse Reactiona | ALIMTA/Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
 | --- | --- | --- | --- | --- |
@@ -67,27 +136,18 @@ Table 2: Adverse Reactions Occurring in ≥5% of Fully Vitamin-Supplemented Pati
 
 The following additional adverse reactions of ALIMTA were observed.
 
-Incidence 1% to <5%
-
-Body as a Whole — febrile neutropenia, infection, pyrexia
-
-General Disorders — dehydration
-
-Metabolism and Nutrition — increased AST, increased ALT
-
-Renal —renal failure
-
-Eye Disorder — conjunctivitis
-
-Incidence <1%
-
-Cardiovascular — arrhythmia
-
-General Disorders — chest pain
-
-Metabolism and Nutrition — increased GGT
-
-Neurology — motor neuropathy
+- Incidence 1% to <5%
+- Body as a Whole — febrile neutropenia, infection, pyrexia
+- General Disorders — dehydration
+- Metabolism and Nutrition — increased AST, increased ALT
+- Renal —renal failure
+- Eye Disorder — conjunctivitis
+- 
+- Incidence <1%
+- Cardiovascular — arrhythmia
+- General Disorders — chest pain
+- Metabolism and Nutrition — increased GGT
+- Neurology — motor neuropathy
 
 Maintenance Treatment Following First-line Non-ALIMTA Containing Platinum-Based Chemotherapy
 
@@ -103,9 +163,9 @@ Median age was 61 years (range 26-83 years), 73% of patients were men; 65% were 
 Patients received a median of 5 cycles of ALIMTA and a relative dose intensity of ALIMTA of 96%.
 Approximately half the patients (48%) completed at least six, 21-day cycles and 23% completed ten or more 21-day cycles of ALIMTA.
 
-Table 3 provides the frequency and severity of adverse reactions reported in ≥5% of the 438 ALIMTA-treated patients in Study JMEN.
+Table 5 provides the frequency and severity of adverse reactions reported in ≥5% of the 438 ALIMTA-treated patients in Study JMEN.
 
-Table 3: Adverse Reactions Occurring in ≥5% of Patients Receiving ALIMTA in Study JMEN
+Table 5: Adverse Reactions Occurring in ≥5% of Patients Receiving ALIMTA in Study JMEN
 
 | Adverse Reactiona | ALIMTA (N=438) |  | Placebo (N=218) |  |
 | --- | --- | --- | --- | --- |
@@ -138,29 +198,19 @@ The requirement for transfusions (9.5% versus 3.2%), primarily red blood cell tr
 
 The following additional adverse reactions were observed in patients who received ALIMTA.
 
-Incidence 1% to<5%
-
-Dermatology/Skin — alopecia, pruritus/itching
-
-Gastrointestinal — constipation
-
-General Disorders — edema, fever
-
-Hematologic — thrombocytopenia
-
-Eye Disorder — ocular surface disease (including conjunctivitis), increased lacrimation
-
-Incidence <1%
-
-Cardiovascular — supraventricular arrhythmia
-
-Dermatology/Skin — erythema multiforme
-
-General Disorders — febrile neutropenia, allergic reaction/hypersensitivity
-
-Neurology — motor neuropathy
-
-Renal — renal failure
+- Incidence 1% to<5%
+- Dermatology/Skin — alopecia, pruritus/itching
+- Gastrointestinal — constipation
+- General Disorders — edema, fever
+- Hematologic — thrombocytopenia
+- Eye Disorder — ocular surface disease (including conjunctivitis), increased lacrimation
+- 
+- Incidence <1%
+- Cardiovascular — supraventricular arrhythmia
+- Dermatology/Skin — erythema multiforme
+- General Disorders — febrile neutropenia, allergic reaction/hypersensitivity
+- Neurology — motor neuropathy
+- Renal — renal failure
 
 Maintenance Treatment Following First-line ALIMTA Plus Platinum Chemotherapy
 
@@ -177,9 +227,9 @@ The median number of maintenance cycles was 4 for ALIMTA and placebo arms.
 Dose reductions for adverse reactions occurred in 3.3% of patients in the ALIMTA arm and 0.6% in the placebo arm.
 Dose delays for adverse reactions occurred in 22% of patients in the ALIMTA arm and 16% in the placebo arm.
 
-Table 4 provides the frequency and severity of adverse reactions reported in ≥5% of the 333 ALIMTA-treated patients in PARAMOUNT.
+Table 6 provides the frequency and severity of adverse reactions reported in ≥5% of the 333 ALIMTA-treated patients in PARAMOUNT.
 
-Table 4: Adverse Reactions Occurring in ≥5% of Patients Receiving ALIMTA in PARAMOUNT
+Table 6: Adverse Reactions Occurring in ≥5% of Patients Receiving ALIMTA in PARAMOUNT
 
 | Adverse Reactiona | ALIMTA (N=333) |  | Placebo (N=167) |  |
 | --- | --- | --- | --- | --- |
@@ -204,25 +254,17 @@ The requirement for red blood cell (13% versus 4.8%) and platelet (1.5% versus 0
 
 The following additional Grade 3 or 4 adverse reactions were observed more frequently in the ALIMTA arm.
 
-Incidence 1% to <5%
-
-Blood/Bone Marrow — thrombocytopenia
-
-General Disorders — febrile neutropenia
-
-Incidence <1%
-
-Cardiovascular — ventricular tachycardia, syncope
-
-General Disorders — pain
-
-Gastrointestinal — gastrointestinal obstruction
-
-Neurologic — depression
-
-Renal — renal failure
-
-Vascular — pulmonary embolism
+- Incidence 1% to <5%
+- Blood/Bone Marrow — thrombocytopenia
+- General Disorders — febrile neutropenia
+- 
+- Incidence <1%
+- Cardiovascular — ventricular tachycardia, syncope
+- General Disorders — pain
+- Gastrointestinal — gastrointestinal obstruction
+- Neurologic — depression
+- Renal — renal failure
+- Vascular — pulmonary embolism
 
 Treatment of Recurrent Disease After Prior Chemotherapy
 
@@ -236,10 +278,10 @@ Patients unable to discontinue aspirin or other non-steroidal anti-inflammatory 
 The data described below reflect exposure to ALIMTA in 265 patients in Study JMEI.
 Median age was 58 years (range 22 to 87 years); 73% of patients were men; 70% were White, 24% were Asian, 2.6% were Black or African American, 1.8% were Hispanic or Latino, and <2% were other ethnicities; 19% had an ECOG PS 0.
 
-Table 5 provides the frequency and severity of adverse reactions reported in ≥5% of the 265 ALIMTA-treated patients in Study JMEI.
-Study JMEI is not designed to demonstrate a statistically significant reduction in adverse reaction rates for ALIMTA, as compared to the control arm, for any specified adverse reaction listed in the Table 5 below.
+Table 7 provides the frequency and severity of adverse reactions reported in ≥5% of the 265 ALIMTA-treated patients in Study JMEI.
+Study JMEI is not designed to demonstrate a statistically significant reduction in adverse reaction rates for ALIMTA, as compared to the control arm, for any specified adverse reaction listed in the Table 7 below.
 
-Table 5: Adverse Reactions Occurring in ≥5% of Fully Supplemented Patients Receiving ALIMTA in Study JMEI
+Table 7: Adverse Reactions Occurring in ≥5% of Fully Supplemented Patients Receiving ALIMTA in Study JMEI
 
 | Adverse Reactiona | ALIMTA (N=265) |  | Docetaxel (N=276) |  |
 | --- | --- | --- | --- | --- |
@@ -271,95 +313,14 @@ Table 5: Adverse Reactions Occurring in ≥5% of Fully Supplemented Patients Rec
 
 The following additional adverse reactions were observed in patients assigned to receive ALIMTA.
 
-Incidence 1% to <5%
-
-Body as a Whole — abdominal pain, allergic reaction/hypersensitivity, febrile neutropenia, infection
-
-Dermatology/Skin — erythema multiforme
-
-Neurology — motor neuropathy, sensory neuropathy
-
-Incidence <1%
-
-Cardiovascular — supraventricular arrhythmias
-
-Renal — renal failure
-
-First-line Treatment of Non-squamous NSCLC, with Carboplatin and Pembrolizumab
-
-The safety of ALIMTA administered with carboplatin and pembrolizumab was investigated in a randomized (1:1) open-label cohort in Study KEYNOTE-021.
-Patients with previously untreated, metastatic non-squamous NSCLC received ALIMTA with carboplatin and pembrolizumab (n=59) or ALIMTA with carboplatin alone (n=62).
-Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible [see Clinical Studies (14.1)].
-
-The median number of cycles of ALIMTA was 11 (range, 1-24).
-The study population characteristics were: median age of 64 years (range: 37 to 80), 48% age 65 years or older, 39% Male, 87% White and 8% Asian, 97% with metastatic disease, and 12% with brain metastases.
-
-ALIMTA was discontinued for adverse reactions in 9% of patients.
-The most common adverse reaction resulting in discontinuation of ALIMTA (≥2%) was acute kidney injury (3.4%).
-Adverse reactions leading to interruption of ALIMTA occurred in 36% of patients; the most common (≥2%) were fatigue (9%), neutrophil count decreased (9%), anemia (7%), dyspnea (3.4%), and pneumonitis (3.4%).
-
-Table 6 summarizes the adverse reactions that occurred in at least 20% of patients in KEYNOTE-021.
-KEYNOTE-021 was not designed to demonstrate a statistically significant difference in adverse reactions between study arms for any specified reaction listed in Table 6.
-
-Table 6: Adverse Reactions Occurring in ≥20% of Patients in KEYNOTE-021
-
-|  | ALIMTA Carboplatin Pembrolizumab n=59 |  | ALIMTA Carboplatin n=62 |  |
-| --- | --- | --- | --- | --- |
-| Adverse Reaction | All Gradesa Toxicity (%) | Grade 3-4a Toxicity (%) | All Gradesa Toxicity (%) | Grades 3-4a Toxicity (%) |
-| General Disorders and Administration Site Conditions |  |  |  |  |
-| Fatigue | 71 | 3.4 | 50 | 0 |
-| Peripheral Edema | 22 | 0 | 18 | 0 |
-| Gastrointestinal Disorders |  |  |  |  |
-| Nausea | 68 | 1.7 | 56 | 0 |
-| Constipation | 51 | 0 | 37 | 1.6 |
-| Vomiting | 39 | 1.7 | 27 | 0 |
-| Diarrhea | 37 | 1.7 | 23 | 1.6 |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| Rashb | 42 | 1.7 | 21 | 1.6 |
-| Pruritus | 24 | 0 | 4.8 | 0 |
-| Alopecia | 20 | 0 | 3.2 | 0 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| Dyspnea | 39 | 3.4 | 21 | 0 |
-| Cough | 24 | 0 | 18 | 0 |
-| Metabolism and Nutrition Disorders |  |  |  |  |
-| Decreased Appetite | 31 | 0 | 23 | 0 |
-| Nervous System Disorders |  |  |  |  |
-| Headache | 31 | 0 | 16 | 1.6 |
-| Dizziness | 24 | 0 | 16 | 0 |
-| Dysgeusia | 20 | 0 | 11 | 0 |
-| Psychiatric Disorders |  |  |  |  |
-| Insomnia | 24 | 0 | 15 | 0 |
-| Infections and Infestations |  |  |  |  |
-| Upper respiratory tract infection | 20 | 0 | 3.2 | 0 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
-| Arthralgia | 15 | 0 | 24 | 1.6 |
-| a Graded per NCI CTCAE v4.0. |  |  |  |  |
-| b Includes rash, rash generalized, rash macular, rash maculo-papular, and rash pruritic. |  |  |  |  |
-
-Table 7: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients in KEYNOTE-021
-
-|  | ALIMTA Carboplatin Pembrolizumab |  | ALIMTA Carboplatin |  |
-| --- | --- | --- | --- | --- |
-| Laboratory Testa | All Gradesb Toxicity (%) | Grade 3-4b Toxicity (%) | All Gradesb Toxicity (%) | Grades 3-4b Toxicity (%) |
-| Chemistry |  |  |  |  |
-| Hyperglycemia | 74 | 9 | 61 | 5 |
-| Lymphocytes decreased | 53 | 23 | 60 | 28 |
-| Aspartate aminotransferase increased | 51 | 3.5 | 46 | 1.7 |
-| Hypertriglyceridemia | 50 | 0 | 43 | 0 |
-| Alanine aminotransferase increased | 40 | 3.5 | 32 | 1.7 |
-| Creatinine increased | 34 | 3.4 | 19 | 1.7 |
-| Hyponatremia | 33 | 5 | 35 | 3.5 |
-| Hypoalbuminemia | 32 | 0 | 31 | 0 |
-| Hypocalcemia | 30 | 5 | 19 | 1.7 |
-| Hypokalemia | 29 | 5 | 22 | 1.7 |
-| Hypophosphatemia | 29 | 5 | 24 | 11 |
-| Alkaline phosphatase increased | 28 | 0 | 9 | 0 |
-| Hematology |  |  |  |  |
-| Hemoglobin decreased | 83 | 17 | 84 | 19 |
-| Neutrophils decreased | 47 | 14 | 43 | 8 |
-| Platelets decreased | 24 | 9 | 36 | 10 |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: ALIMTA carboplatin pembrolizumab (range: 56 to 58 patients) and ALIMTA carboplatin (range: 55 to 61 patients). |  |  |  |  |
-| b Graded per NCI CTCAE v 4.0. |  |  |  |  |
+- Incidence 1% to <5%
+- Body as a Whole — abdominal pain, allergic reaction/hypersensitivity, febrile neutropenia, infection
+- Dermatology/Skin — erythema multiforme
+- Neurology — motor neuropathy, sensory neuropathy
+- 
+- Incidence <1%
+- Cardiovascular — supraventricular arrhythmias
+- Renal — renal failure
 
 Mesothelioma
 
@@ -419,23 +380,16 @@ Table 8: Adverse Reactions Occurring in ≥5% of Fully Supplemented Subgroup of 
 
 The following additional adverse reactions were observed in patients receiving ALIMTA plus cisplatin:
 
-Incidence 1% to <5%
-
-Body as a Whole — febrile neutropenia, infection, pyrexia
-
-Dermatology/Skin — urticaria
-
-General Disorders — chest pain
-
-Metabolism and Nutrition — increased AST, increased ALT, increased GGT
-
-Renal — renal failure
-
-Incidence <1%
-
-Cardiovascular — arrhythmia
-
-Neurology — motor neuropathy
+- Incidence 1% to <5%
+- Body as a Whole — febrile neutropenia, infection, pyrexia
+- Dermatology/Skin — urticaria
+- General Disorders — chest pain
+- Metabolism and Nutrition — increased AST, increased ALT, increased GGT
+- Renal — renal failure
+- 
+- Incidence <1%
+- Cardiovascular — arrhythmia
+- Neurology — motor neuropathy
 
 Exploratory Subgroup Analyses based on Vitamin Supplementation
 
@@ -461,23 +415,17 @@ The following adverse reactions occurred more frequently in patients who were fu
 
 Additional Experience Across Clinical Trials
 
-Sepsis, with or without neutropenia, including fatal cases: 1%
-
-Severe esophagitis, resulting in hospitalization: <1%
+- Sepsis, with or without neutropenia, including fatal cases: 1%
+- Severe esophagitis, resulting in hospitalization: <1%
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ALIMTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System — immune-mediated hemolytic anemia
-
-Gastrointestinal — colitis, pancreatitis
-
-General Disorders and Administration Site Conditions — edema
-
-Injury, poisoning, and procedural complications — radiation recall
-
-Respiratory — interstitial pneumonitis
-
-Skin — Serious and fatal bullous skin conditions, Stevens-Johnson syndrome, and toxic epidermal necrolysis
+- Blood and Lymphatic System — immune-mediated hemolytic anemia
+- Gastrointestinal — colitis, pancreatitis
+- General Disorders and Administration Site Conditions — edema
+- Injury, poisoning, and procedural complications — radiation recall
+- Respiratory — interstitial pneumonitis
+- Skin — Serious and fatal bullous skin conditions, Stevens-Johnson syndrome, and toxic epidermal necrolysis
