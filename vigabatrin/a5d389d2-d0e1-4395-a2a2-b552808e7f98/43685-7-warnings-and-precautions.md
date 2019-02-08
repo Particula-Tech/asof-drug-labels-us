@@ -101,6 +101,8 @@ Administration of vigabatrin to female rats during pregnancy and lactation at do
 Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated for IS with vigabatrin.
 Studies of the effects of vigabatrin on MRI and EP in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
 
+Intramyelinic Edema (IME) has been reported very rarely in postmortem examination of vigabatrin treated infants.
+
 ## 5.5 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including SABRIL, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
