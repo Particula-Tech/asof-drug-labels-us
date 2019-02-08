@@ -24,7 +24,7 @@ The incidence of adverse reactions was determined in three randomized kidney tra
 One of the trials used azathioprine (AZA) and corticosteroids and two of the trials used mycophenolate mofetil (MMF) and corticosteroids concomitantly for maintenance immunosuppression.
 
 Tacrolimus-based immunosuppression in conjunction with azathioprine and corticosteroids following kidney transplantation was assessed in a trial where 205 patients received tacrolimus-based immunosuppression and 207 patients received cyclosporine-based immunosuppression.
-The trial population had a mean age of 43 years (mean ± SD was 43 ± 13 years on tacrolimus and 44 ± 12 years on cyclosporine arm), the distribution was 61% male, and the composition was White (58%), African-American (25%), Hispanic (12%) and Other (5%).
+The trial population had a mean age of 43 years (mean ± SD was 43 ± 13 years on tacrolimus and 44 ± 12 years on cyclosporine arm), the distribution was 61% male, and the composition was White (58%), African-American (25%), Hispanic (12%), and Other (5%).
 The 12-month post-transplant information from this trial is presented below.
 
 The most common adverse reactions (≥ 30%) observed in tacrolimus-treated kidney transplant patients are: infection, tremor, hypertension, abnormal renal function, constipation, diarrhea, headache, abdominal pain, insomnia, nausea, hypomagnesemia, urinary tract infection, hypophosphatemia, peripheral edema, asthenia, pain, hyperlipidemia, hyperkalemia, and anemia.
@@ -275,7 +275,7 @@ New Onset Diabetes After Transplant
 ### Kidney Transplantation
 
 New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥ 126 mg/dL, HbA1C ≥ 6%, insulin use ≥ 30 days, or oral hypoglycemic use.
-In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the tacrolimus-treated and 61% in the NEORAL-treated patients without pre-transplant history of diabetes mellitus (Table 10) [see Clinical Studies (14.1)].
+In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the tacrolimus-treated and 61% in the NEORAL®-treated patients without pre-transplant history of diabetes mellitus (Table 10) [see Clinical Studies (14.1)].
 
 Table 10.
 Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2)
@@ -336,7 +336,7 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Live
 
 ### Heart Transplantation
 
-Insulin-dependent PTDM was reported in 13% and 22% of tacrolimus-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 13).
+Insulin-dependent PTDM was reported in 13% and 22% of tacrolimus-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 14).
 Hyperglycemia defined as two fasting plasma glucose levels ≥ 126 mg/dL was reported with the use of tacrolimus plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
 
 Table 14.
@@ -378,6 +378,7 @@ Other reactions include:
 - •Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy, (PVAN) including graft loss [see Warnings and Precautions (5.2)]
 - •Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased
 - •Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
+- •Musculoskeletal and Connective Tissue Disorders: Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
 - •Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.6)], progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.2)], quadriplegia, speech disorder, syncope
 - •Respiratory: Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 - •Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis

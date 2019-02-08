@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Tacrolimus binds to an intracellular protein, FKBP-12.
-A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (a ubiquitous mammalian intracellular enzyme) is then formed, afterwhich the phosphatase activity of calcineurin inhibited.
+A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (a ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin inhibited.
 Such inhibition prevents the dephosphorylation and translocation of various factors such as the nuclear factor of activated T-cells (NF-AT), and nuclear factor kappa-light-chain enhancer of activated B-cells (NF-κB).
 
 Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony stimulating factor.
@@ -20,7 +20,7 @@ Pharmacokinetics Parameters (mean ± S.D.) of Tacrolimus in Healthy Volunteers a
 
 | Population | N | Route (Dose) | Parameters |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Cmax (ng/mL) | Tmax(hr) | AUC (ng•hr/mL) | t1/2 (hr) | CL (L/hr/kg) | V (L/kg) |
+| Cmax (ng/mL) | Tmax(hr) | AUC (ng•hr/mL) | t1/2 (hr) | CL (L/hr/kg) | V (L/kg) |  |  |  |
 | Healthy Volunteers | 8 | IV (0.025 mg/kg/4hr) | not applicable |  | 652AUC0-inf ± 156 | 34.2 ± 7.7 | 0.040 ± 0.009 | 1.91 ± 0.31 |
 | 30 | PO (5 mg) (granules) | 35.6 ± 10.9 | 1.3 ± 0.5 | 320 ± 164 | 32.1 ± 5.9 | not available |  |  |
 | PO (5 mg) (capsules) | 28.8 ± 8.9 | 1.5 ± 0.7 | 266± 95 | 32.3 ± 8.8 |  |  |  |  |
@@ -87,7 +87,7 @@ In in vitro studies, a 31-demethyl metabolite has been reported to have the same
 
 ### Excretion
 
-The mean clearance following IV administration of tacrolimus is 0.040, 0.083, and 0.053, and 0.051 L/hr/kg in healthy volunteers, adult kidney transplant patients, adult liver transplant patients, and adult heart transplant patients, respectively.
+The mean clearance following IV administration of tacrolimus is 0.040, 0.083, 0.053, and 0.051 L/hr/kg in healthy volunteers, adult kidney transplant patients, adult liver transplant patients, and adult heart transplant patients, respectively.
 In man, less than 1% of the dose administered is excreted unchanged in urine.
 
 In a mass balance study of IV-administered radiolabeled tacrolimus to 6 healthy volunteers, the mean recovery of radiolabel was 77.8 ± 12.7%.

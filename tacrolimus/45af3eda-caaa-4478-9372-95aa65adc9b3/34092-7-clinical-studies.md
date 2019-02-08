@@ -102,7 +102,7 @@ Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 2
 
 The protocol-specified target tacrolimus whole blood trough concentrations (Ctrough,Tac) in Study 2 were 7-16 ng/mL for the first three months and 5-15 ng/mL thereafter.
 The observed median Ctroughs,Tac approximated 10 ng/mL during the first three months and 8 ng/mL from month 4 to month 12 (Table 25).
-Approximately 80% of patients maintained tacrolimus whole trough blood concentrations between 6 to 16 ng/mL during months 1 through 3 and, then, between 5 to 12 ng/mL from month 4 through 1 year.
+Approximately 80% of patients maintained tacrolimus whole blood trough concentrations between 6 to 16 ng/mL during months 1 through 3 and, then, between 5 to 12 ng/mL from month 4 through 1 year.
 
 Table 25.
 Tacrolimus Whole Blood Trough Concentration Range (Study 2)

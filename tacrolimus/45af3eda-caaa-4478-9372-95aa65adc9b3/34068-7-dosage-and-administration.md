@@ -64,6 +64,8 @@ Comparative Dose and Trough Concentrations Based on Race
 | Month 6 | 0.14 | 11.8 | 0.24 | 11.5 |
 | Month 12 | 0.13 | 10.1 | 0.19 | 11.0 |
 
+### Intravenous Injection
+
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as tacrolimus injection.
 Therefore, monitoring for signs and symptoms of anaphylaxis is recommended [see Warnings and Precautions (5.9)].
 
@@ -76,7 +78,7 @@ Recommendations for the initial oral dosing for pediatric transplant patients an
 Perform TDM to ensure that patients are within the ranges listed in Table 3.
 
 Table 3.
-Summary of Initial Tacrolimus Capsules Dosing Recommendations and Whole Blood Trough Concentration Range in Children
+Summary of Initial Tacrolimus Capsule Dosing Recommendations and Whole Blood Trough Concentration Range in Children
 
 | Patient Population | Initial Tacrolimus Capsule Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |

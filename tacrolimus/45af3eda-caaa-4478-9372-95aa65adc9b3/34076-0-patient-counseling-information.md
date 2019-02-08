@@ -43,14 +43,14 @@ Advise patients to avoid grapefruit and grapefruit juice [see Drug Interactions 
 
 ## 17.8 Pregnancy, Lactation and Infertility
 
-Inform women of childbearing potential that tacrolimus capsules can harm the fetus.
+Inform women of childbearing potential that tacrolimus can harm the fetus.
 Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
 Also, discuss with pregnant patients the risks and benefits of breastfeeding their infant [see Use in Specific Populations (8.1, 8.2, 8.3)].
 
 Encourage female transplant patients who become pregnant and male patients who have fathered a pregnancy, exposed to immunosuppressants including tacrolimus, to enroll in the voluntary Transplantation Pregnancy Registry International.
 To enroll or register, patients can call the toll free number 1-877-955-6877 or https://www.transplantpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
-Based on animal studies, tacrolimus capsules may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
+Based on animal studies, tacrolimus may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
 ## 17.9 Myocardial Hypertrophy
 
@@ -58,4 +58,4 @@ Inform patients to report symptoms of tiredness, swelling, and/or shortness of b
 
 ## 17.10 Immunizations
 
-Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
+Inform patients that tacrolimus can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
