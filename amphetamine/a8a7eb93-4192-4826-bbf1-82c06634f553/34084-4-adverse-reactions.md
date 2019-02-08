@@ -1,16 +1,15 @@
 # 6. ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling:
-
-- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
-- Hypersensitivity to amphetamine, or other components of DYANAVEL XR [see Contraindications (4)]
-- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
-- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
-- Serotonin Syndrome [see Warnings and Precautions (5.7)]
+- The following adverse reactions are discussed in greater detail in other sections of the labeling:
+  - Drug Dependence [seeBoxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+  - Hypersensitivity to amphetamine, or other components of DYANAVEL XR [seeContraindications(4)]
+  - Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [seeContraindications (4) and Drug Interactions (7.1)]
+  - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
+  - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+  - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
+  - Long-Term Suppression of Growth [see Warnings and Precautions (5.5)]
+  - Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
+  - Serotonin Syndrome [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -39,7 +38,7 @@ Clinical Trials Experience with DYANAVEL XR in Pediatric Patients with ADHD
 
 There is limited experience with DYANAVEL XR in controlled trials.
 Based on this limited experience, the adverse reaction profile of DYANAVEL XR appears similar to other amphetamine extended-release products.
-The most common (≥2% in the DYANAVEL XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted in 108 patients with ADHD (aged 6–12 years) were: epistaxis, allergic rhinitis and upper abdominal pain.
+The most common (≥2% in the DYANAVEL XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted in 108 patients with ADHD (aged 6 to 12 years) were: epistaxis, allergic rhinitis and upper abdominal pain.
 
 Table 1.
 Common adverse reactions occurring in ≥2% of Subjects on DYANAVEL XR and greater than Placebo during the double blind phase.
@@ -57,8 +56,24 @@ Common adverse reactions occurring in ≥2% of Subjects on DYANAVEL XR and great
 The following adverse reactions have been identified during post approval use of other amphetamine products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Endocrine: frequent or prolonged erections.
+Allergic: urticaria, rash, hypersensitivity reactions including angioedema and anaphylaxis.
+Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necrolysis have been reported.
+
+Cardiovascular: palpitations, sudden death, myocardial infarction.
+There have been isolated reports of cardiomyopathy associated with chronic amphetamine use.
+
+Central Nervous System: restlessness, irritability, euphoria, dyskinesia, dysphoria, depression, tremor, aggression, anger, logorrhea, and paresthesia (including formication).
+
+Endocrine: impotence, changes in libido, frequent or prolonged erections.
+
+Eye Disorders: vision blurred, mydriasis
+
+Gastrointestinal: unpleasant taste, constipation, other gastrointestinal disturbances.
 
 Musculoskeletal, Connective Tissue, and Bone Disorders: rhabdomyolysis.
 
-Psychiatric Disorders: dermatillomania.
+Psychiatric Disorders: dermatillomania, bruxism.
+
+Skin: alopecia
+
+Vascular Disorders: Raynaud’s phenomenon

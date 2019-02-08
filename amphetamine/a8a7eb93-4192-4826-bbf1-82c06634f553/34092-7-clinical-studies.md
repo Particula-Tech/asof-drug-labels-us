@@ -11,7 +11,7 @@ Each item is rated on a 7-point impairment scale.
 The primary efficacy endpoint was change from pre-dose in the SKAMP-Combined score at 4 hours post-dosing.
 The key secondary efficacy parameters were onset and duration of clinical effect.
 The change scores from pre-dose SKAMP-Combined scores at post-dose time points (1, 2, 4, 6, 8, 10, 12 and 13 hours) were used to evaluate the key secondary efficacy.
-Results from the double-blind, placebo-controlled week of the study are summarized in Table 3 and Figure 1.
+Results from the double-blind, placebo-controlled week of the study are summarized in Table 3 and Figure 2.
 
 SKAMP-Combined change scores from pre-dose demonstrated a statistically significant improvement at all time points (1, 2, 4, 6, 8, 10, 12, 13 hours) post-dosing with DYANAVEL XR compared to placebo.
 
@@ -24,5 +24,5 @@ Table 3: Primary efficacy result.
 |  | Placebo | 15.5 (7.35) | 6.0 (1.19) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. a Difference (drug minus placebo) in least-squares mean change from pre-dose. |  |  |  |  |
 
-Figure 1.
+Figure 2.
 Change from pre-dose in SKAMP-Combined Score after treatment with DYANAVEL XR or Placebo.

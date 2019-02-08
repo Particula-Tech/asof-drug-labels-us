@@ -1,3 +1,3 @@
-# 1.INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
-DYANAVEL XR is a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) [see Clinical Studies (14)].
+DYANAVEL XR is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients 6 years and older [see Clinical Studies (14)].

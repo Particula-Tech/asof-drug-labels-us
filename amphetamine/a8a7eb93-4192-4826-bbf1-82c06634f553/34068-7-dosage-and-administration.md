@@ -1,29 +1,29 @@
-# 2.DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 ## 2.1 Important Information Prior to Initiating Treatment
 
-Prior to treating children, adolescents, and adults with CNS stimulants, including DYANAVEL XR, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+Prior to initiating treatment with DYANAVEL XR, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
 
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for DYANAVEL XR use [see Warnings and Precautions (5.1), and Drug Abuse and Dependence (9)].
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for DYANAVEL XR use [see Precautions (5.1), and Drug Abuse and Dependence (9)].
 
-## 2.2General Dosing Information
+## 2.2 General Dosing Information
 
-DYANAVEL XR should be orally administered once daily in the morning with or without food.
+DYANAVELXR should be orally administered once daily in the morning with or without food.
 The dose should be individualized according to the needs and responses of the patient.
-Before administering the dose, shake the bottle of DYANAVEL XR.
+Before administering the dose, shake the bottle of DYANAVELXR.
 
-In children 6 years of age and older, start with 2.5 mg or 5 mg once daily in the morning.
+In patients 6 years of age and older, start with 2.5 mg or 5 mg once daily in the morning.
 The dose may be increased in increments of 2.5 mg to 10 mg per day every 4 to 7 days up to a maximum dose of 20 mg per day.
 
 Pharmacological treatment of ADHD may be needed for extended periods.
 Healthcare providers should periodically re-evaluate the long-term use of DYANAVEL XR, and adjust dosage as needed.
 
-## 2.3Switching from other Amphetamine Products
+## 2.3 Switching from other Amphetamine Products
 
 If switching from other amphetamine products, discontinue that treatment, and titrate with DYANAVEL XR using the above titration schedule.
 
-Do not substitute for other amphetamine products on a milligram-per-milligram basis, because of different amphetamine base compositions and differing pharmacokinetic profiles [see Description (11), Clinical Pharmacology (12.3)].
+Do not substitute for other amphetamine products on a milligram-per-milligram basis, because of different amphetamine salt compositions and differing pharmacokinetic profiles [see Description (11), Clinical Pharmacology (12.3)].
 
 ## 2.4 Dosage Modifications due to Drug Interactions
 

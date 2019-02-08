@@ -8,13 +8,13 @@ Assess the risk of abuse prior to prescribing, and monitor for signs of abuse an
 ## 5.2 Serious Cardiovascular Reactions
 
 Sudden death, stroke and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
-Sudden death has been reported in children and adolescents with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
+Sudden death has been reported in pediatric patients with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
 Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious heart arrhythmia, coronary artery disease, and other serious heart problems.
 Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during DYANAVEL XR treatment.
 
 ## 5.3 Blood Pressure and Heart Rate Increases
 
-CNS stimulants cause an increase in blood pressure (mean increase about 2-4 mm Hg) and heart rate (mean increase about 3-6 bpm).
+CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
 Monitor all patients for potential tachycardia and hypertension.
 
 ## 5.4 Psychiatric Adverse Reactions
@@ -59,5 +59,5 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 
 Concomitant use of DYANAVEL XR with MAOI drugs is contraindicated [see Contraindications (4)].
 
-If symptoms of serotonin syndrome occur, discontinue all serotonergic agents immediately, and initiate supportive symptomatic treatment.
+Discontinue treatment with DYANAVEL XR and any concomitant serotonergic agents immediately if symptoms of serotonin syndrome occur, and initiate supportive symptomatic treatment.
 If concomitant use of DYANAVEL XR with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate DYANAVEL XR with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.

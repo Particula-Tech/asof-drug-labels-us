@@ -51,22 +51,32 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome with concomitant use of DYANAVEL XR and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
+Caution patients about the risk of serotonin syndrome with concomitant use of DYANAVEL XR and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].
+Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
 
 Concomitant Medications
 
 Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
 
-Pregnancy
+Pregnancy Registry
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DYANAVEL XR.
 Advise patients of the potential fetal effects from the use of DYANAVEL XR during pregnancy [see Use in Specific Populations (8.1)].
 
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DYANAVELXR.
+Advise patients of the potential fetal effects from the use of DYANAVELXR during pregnancy [see Use in Specific Populations (8.1)].
+
 Lactation
 
-Patients should be advised not to breastfeed if they are taking DYANAVEL XR [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed if they are taking DYANAVEL XR [see Use in Specific Populations (8.2)].
 
 Alcohol
 
 Advise patients to avoid alcohol while taking DYANAVEL XR.
 Consumption of alcohol while taking DYANAVEL XR may result in a more rapid release of the dose of amphetamine [see Clinical Pharmacology (12.3)].
+
+Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
+
+LB8417 02/2019

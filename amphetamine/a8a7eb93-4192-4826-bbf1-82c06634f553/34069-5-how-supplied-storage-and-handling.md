@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-DYANAVEL XR (amphetamine) extended-release oral suspension, the concentration is 2.5 mg/mL amphetamine base and is supplied as light beige to tan viscous suspension with bubblegum flavor in bottles of 464 mL (NDC 27808-102-01).
+DYANAVEL XR (amphetamine) extended-release oral suspension,the concentration is 2.5 mg/mL amphetamine base equivalents and is supplied as light beige to tan viscous suspension with bubblegum flavor in bottles of 464 mL (NDC 27808-102-01).
 
 The product is provided in a carton.
 Each carton also contains four oral dispensers and four bottle adapters.
