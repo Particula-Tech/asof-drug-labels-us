@@ -137,6 +137,7 @@ Ask if you are not sure.
 Before starting citalopram oral solution, tell your healthcare provider if you
 
 - Are taking certain drugs such as:
+  - Amphetamines
   - Medicines for heart problems
   - Medicines that lower your potassium or magnesium levels in your body
   - Cimetidine
@@ -233,4 +234,4 @@ Active ingredient: citalopram hydrobromide Inactive ingredients: non crystallizi
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 10/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2019

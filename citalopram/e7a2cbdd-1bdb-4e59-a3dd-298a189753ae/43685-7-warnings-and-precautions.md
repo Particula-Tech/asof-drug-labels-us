@@ -158,12 +158,12 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-Serotonergic Drugs Based on the mechanism of action of SNRIs, and SSRIs, including citalopram hydrochloride, and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
+Serotonergic Drugs Based on the mechanism of action of SNRIs and SSRIs, including citalopram hydrochloride, and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
 Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome).
 CNS Drugs - Given the primary CNS effects of citalopram, caution should be used when it is taken in combination with other centrally acting drugs.
 Alcohol - Although citalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by depressed patients taking citalopram is not recommended.
-Monoamine Oxidase Inhibitors (MAOIs) -See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
+Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) - Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.

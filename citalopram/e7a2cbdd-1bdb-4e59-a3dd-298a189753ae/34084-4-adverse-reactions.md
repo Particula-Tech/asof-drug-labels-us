@@ -80,9 +80,7 @@ TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 
 Dose Dependency of Adverse Events The potential relationship between the dose of citalopram administered and the incidence of adverse events was examined in a fixed-dose study in depressed patients receiving placebo or citalopram 10, 20, 40, and 60 mg.
 Jonckheere’s trend test revealed a positive dose response (p<0.05) for the following adverse events: fatigue, impotence, insomnia, sweating increased, somnolence, and yawning.
-Male and Female Sexual Dysfunction with SSRIs
-
-Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
+Male and Female Sexual Dysfunction with SSRIs Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
