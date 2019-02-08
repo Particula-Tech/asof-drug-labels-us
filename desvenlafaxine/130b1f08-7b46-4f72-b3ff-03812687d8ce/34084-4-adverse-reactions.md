@@ -3,10 +3,10 @@
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
 - Hypersensitivity [see Contraindications (4)]
-- Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
+- Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- Abnormal Bleeding [see Warnings and Precautions (5.4)]
+- Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
 - Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
@@ -16,7 +16,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 ## 6.1 Clinical Studies Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 ### Patient exposure
 
@@ -39,7 +39,7 @@ The most commonly observed adverse reactions in desvenlafaxine treated MDD patie
 
 Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients and twice the rate of placebo at any dose in the pooled 8-week, placebo-controlled, fixed dose clinical studies
 
-Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pooled MDD 8‑Week Placebo-Controlled Studies
+Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pooled MDD 8-Week Placebo-Controlled Studies
 
 | System Organ Class Preferred Term | Placebo (n=636) | 50 mg (n=317) | 100 mg (n=424) | 200 mg (n=307) | 400 mg (n=317) |
 | --- | --- | --- | --- | --- | --- |
@@ -110,7 +110,7 @@ Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desven
 
 Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine were:
 
-Cardiac disorders – tachycardia.
+Cardiac disorders – Tachycardia.
 
 General disorders and administration site conditions – Asthenia.
 
@@ -133,7 +133,7 @@ More patients experienced these events during desvenlafaxine treatment as compar
 
 The following changes were observed in placebo-controlled, short-term MDD studies with desvenlafaxine.
 
-#### Lipids
+Lipids
 
 Elevations in fasting serum total cholesterol, LDL (low density lipoproteins) cholesterol, and triglycerides occurred in the controlled studies.
 Some of these abnormalities were considered potentially clinically significant.
@@ -142,9 +142,9 @@ The percentage of patients who exceeded a predetermined threshold value is shown
 
 Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinical Significance*
 
-|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
-| --- | --- | --- | --- | --- | --- |
 |  |  | Desvenlafaxine |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | Total Cholesterol | 2 | 3 | 4 | 4 | 10 |
 | *(Increase of ≥ 50 mg/dl and an absolute value of ≥ 261 mg/dl) |  |  |  |  |  |
 | LDL Cholesterol | 0 | 1 | 0 | 1 | 2 |
@@ -152,27 +152,27 @@ Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinica
 | Triglycerides, fasting | 3 | 2 | 1 | 4 | 6 |
 | *(Fasting: ≥ 327 mg/dl) |  |  |  |  |  |
 
-#### Proteinuria
+Proteinuria
 
 Proteinuria, greater than or equal to trace, was observed in the fixed-dose controlled studies (see Table 5).
 This proteinuria was not associated with increases in BUN or creatinine and was generally transient.
 
 Table 5: Incidence (%) of Patients with Proteinuria in the Fixed-dose Clinical Studies
 
-|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
-| --- | --- | --- | --- | --- | --- |
 |  |  | Desvenlafaxine |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | Proteinuria | 4 | 6 | 8 | 5 | 7 |
 
-#### Vital sign changes
+Vital sign changes
 
 Table 6 summarizes the changes that were observed in placebo-controlled, short-term, pre-marketing studies with desvenlafaxine in patients with MDD (doses 50 to 400 mg).
 
 Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fixed-dose Controlled Studies
 
-|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
-| --- | --- | --- | --- | --- | --- |
 |  |  | Desvenlafaxine |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | Blood pressure |  |  |  |  |  |
 | Supine systolic bp (mm Hg) | -1.4 | 1.2 | 2.0 | 2.5 | 2.1 |
 | Supine diastolic bp (mm Hg) | -0.6 | 0.7 | 0.8 | 1.8 | 2.3 |
@@ -194,7 +194,7 @@ Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blo
 | Desvenlafaxine 200 mg/day | 1.1% |
 | Desvenlafaxine 400 mg/day | 2.3% |
 
-#### Orthostatic hypotension
+Orthostatic hypotension
 
 In the short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease ≥30 mm Hg from supine to standing position) occurred more frequently in patients ≥65 years of age receiving desvenlafaxine (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients <65 years of age receiving desvenlafaxine (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
 
@@ -203,8 +203,8 @@ In the short-term, placebo-controlled clinical studies with doses of 50 to 400 m
 The following adverse reaction has been identified during post-approval use of desvenlafaxine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Cardiovaslcular System – Takotsubo cardiomyopathy.
-
 Skin and subcutaneous tissue disorders-Stevens-Johnson syndrome.
 
 Gastrointestinal disorders-Pancreatitis acute.
+
+Cardiovaslcular System – Takotsubo cardiomyopathy.

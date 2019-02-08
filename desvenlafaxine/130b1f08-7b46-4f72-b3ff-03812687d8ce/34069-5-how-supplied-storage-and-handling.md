@@ -12,7 +12,7 @@ NDC 65224-880-90, bottle of 90 tablets in unit-of-use package
 
 NDC 65224-890-31, bottle of 30 tablets in unit-of-use package
 
-NDC65224-890-90, bottle of 90 tablets in unit-of-use package
+NDC 65224-890-90, bottle of 90 tablets in unit-of-use package
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 

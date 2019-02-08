@@ -1,36 +1,39 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Monoamine Oxidase Inhibitors (MAOIs)
+## 7.1 Drugs Having Clinically Important Interactions with KHEDEZLA
 
-Adverse reactions, some of which were serious, have been reported in patients who have recently been discontinued from a monoamine oxidase inhibitor (MAOI) and started on antidepressants with pharmacological properties similar to desvenlafaxine (SNRIs or SSRIs), or who have recently had SNRI or SSRI therapy discontinued prior to initiation of an MAOI.
-[see Dosage and Administration (2.6), Contraindications (4) and Warnings and Precautions (5.2)]
+Table 8: Clinically Important Drug Interactions with KHEDEZLA
 
-## 7.2 Serotonergic Drugs
+| Monoamine Oxidase Inhibitors (MAOI) |  |
+| --- | --- |
+| Clinical Impact | The concomitant use of SSRIs and SNRIs including KHEDEZLA with MAOIs increases the risk of serotonin syndrome. |
+| Intervention | Concomitant use of KHEDEZLA is contraindicated: With an MAOI intended to treat psychiatric disorders or within 7 days of stopping treatment with KHEDEZLA.Within 14 days of stopping an MAOI intended to treat psychiatric disorders.In a patient who is being treated with linezolid or intravenous methylene blue. [see Dosage and Administration (2.7), Contraindications (4) and Warnings and Precautions (5.2)]. |
+| Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
+| Other Serotonergic Drugs |  |
+| Clinical Impact | Concomitant use of KHEDEZLA with other serotonergic drugs increases the risk of serotonin syndrome. |
+| Intervention | Monitor for symptoms of serotonin syndrome when KHEDEZLA is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems. If serotonin syndrome occurs, consider discontinuation of KHEDEZLA and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
+| Examples | Other SNRIs, SSRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John’s Wort |
+| Drugs that Interfere with Hemostasis |  |
+| Clinical Impact | Concomitant use of KHEDEZLA with an antiplatelet or anticoagulant drug may potentiate the risk of bleeding. This may be due to the effect of KHEDEZLA on the release of serotonin by platelets. |
+| Intervention | Closely monitor for bleeding for patients receiving an antiplatelet or anticoagulant drug when KHEDEZLA is initiated or discontinued [see Warnings and Precautions (5.4)]. |
+| Examples | NSAIDs, aspirin, and warfarin |
+| Drugs that are Primarily Metabolized by CYP2D6 |  |
+| Clinical Impact | Concomitant use of KHEDEZLA increases Cmax and AUC of a drug primarily metabolized by CYP2D6 which may increase the risk of toxicity of the CYP2D6 substrate drug [see Clinical Pharmacology (12.3)]. |
+| Intervention | Original dose should be taken when co-administered with KHEDEZLA 100 mg or lower. Reduce the dose of these drugs by up to one-half if co-administered with 400 mg of KHEDEZLA. |
+| Examples | desipramine, atomoxetine, dextromethorphan, metoprolol, nebivolol, perphenazine, tolterodine |
 
-Based on the mechanism of action of KHEDEZLA and the potential for serotonin syndrome, caution is advised when KHEDEZLA is co-administered with other drugs that may affect the serotonergic neurotransmitter systems.
-[see Dosage and Administration (2.6), Contraindications (4) and Warnings and Precautions (5.2)]
+## 7.2 Drugs Having No Clinically Important Interactions with KHEDEZLA
 
-## 7.3 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
+Based on pharmacokinetic studies, no dosage adjustment is required for drugs that are mainly metabolized by CYP3A4 (e.g., midazolam), or for drugs that are metabolized by both CYP2D6 and CYP3A4 (e.g., tamoxifen, aripiprazole), when administered concomitantly with KHEDEZLA [see Clinical Pharmacology (12.3)].
 
-Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
-These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are co-administered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when KHEDEZLA is initiated or discontinued [see Warnings and Precautions (5.4)].
-
-## 7.4 Potential for Desvenlafaxine to Affect Other Drugs
-
-Clinical studies have shown that desvenlafaxine does not have a clinically relevant effect on CYP2D6 metabolism at the dose of 100 mg daily.
-Substrates primarily metabolized by CYP2D6 (e.g., desipramine, atomoxetine, dextromethorphan, metoprolol, nebivolol, perphenazine, tolterodine) should be dosed at the original level when co-administered with KHEDEZLA 100 mg or lower.
-Reduce the dose of these substrates by one-half if co-administered with 400 mg of KHEDEZLA.
-The substrate dose should be increased to the original level when 400 mg of KHEDEZLA is discontinued.
-
-## 7.5 Other Drugs Containing Desvenlafaxine or Venlafaxine
-
-Avoid use of KHEDEZLA with other desvenlafaxine-containing products or venlafaxine products.
-The concomitant use of KHEDEZLA with other desvenlafaxine-containing products or venlafaxine will increase desvenlafaxine blood levels and increase dose-related adverse reactions [see Adverse Reactions (6)].
-
-## 7.6 Ethanol
+## 7.3 Alcohol
 
 A clinical study has shown that desvenlafaxine does not increase the impairment of mental and motor skills caused by ethanol.
 However, as with all CNS-active drugs, patients should be advised to avoid alcohol consumption while taking KHEDEZLA.
+
+## 7.4 Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking desvenlafaxine.
+This is due to lack of specificity of the screening tests.
+False positive test results may be expected for several days following discontinuation of desvenlafaxine therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish desvenlafaxine from PCP and amphetamine.
