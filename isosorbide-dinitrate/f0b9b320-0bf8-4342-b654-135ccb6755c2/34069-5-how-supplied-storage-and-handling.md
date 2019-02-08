@@ -22,4 +22,4 @@ Box 182400 Amman 11118 – Jordan
 
 Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 
-Revised December 2017
+Revised January 2019
