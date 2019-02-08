@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206286"
+  ],
+  "inn": "tadalafil",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-880-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tadalafil",
+      "name": "Tadalafil"
+    }
+  ],
+  "setid": "a0ecc7cf-20dd-485a-b4dd-1bbc587280a7",
+  "source": "dailymed"
+}

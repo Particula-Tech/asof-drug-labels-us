@@ -1,0 +1,3 @@
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 20 mg (60 Tablets Bottle)
+
+NDC 65862-880-60 Rx only Tadalafil Tablets USP 20 mg AUROBINDO 60 Tablets
