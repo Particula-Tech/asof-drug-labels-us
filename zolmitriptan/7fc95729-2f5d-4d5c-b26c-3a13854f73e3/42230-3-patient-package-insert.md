@@ -1,6 +1,6 @@
 Patient Information
 
-Zolmitriptan Orally Disintegrating Tablets
+Zolmitriptan (zole'' mi trip' tan) Orally Disintegrating Tablets, USP
 
 Please read this information before you start taking zolmitriptan and each time you renew your prescription just in case anything has changed.
 Remember, this summary does not take the place of discussions with your doctor.
@@ -35,6 +35,7 @@ Zolmitriptan blocks the release of substances from nerve endings that cause more
 It is thought that these actions contribute to relief of your symptoms by zolmitriptan.
 
 Who should not take zolmitriptan?
+
 Do not take zolmitriptan if you:
 
 - Have heart disease or a history of heart disease Have uncontrolled high blood pressure
@@ -61,7 +62,12 @@ Your doctor will decide if you can take zolmitriptan with your other medicines.
 
 Tell your doctor if you know that you have any of the following: risk factors for heart disease like high cholesterol, diabetes, smoking, obesity (overweight), menopause, or a family history of heart disease or stroke.
 
-Tell your doctor if you are pregnant, planning to become pregnant, breastfeeding, planning to breastfeed, or not using effective birth control.
+Tell your doctor if you are pregnant or plan to become pregnant.
+It is not known if zolmitriptan orally disintegrating tablets will harm your unborn baby.
+Tell your doctor if you are breast feeding or plan to breast feed.
+It is not known if zolmitriptan passes into your breast milk.
+
+Talk to your doctor about the best way to feed your baby while using zolmitriptan orally disintegrating tablets.
 
 How should I take zolmitriptan?
 
@@ -85,7 +91,7 @@ The side effects are usually mild and do not last long.
 
 The most common side effects of zolmitriptan are:
 
-- Pain, pressure or tightness in the neck, throat or jaw
+- pain, pressure or tightness in the neck, throat or jaw
 - dizziness
 - tingling or other abnormal sensations
 - tiredness
@@ -129,11 +135,11 @@ This leaflet summarizes the most important information about zolmitriptan.
 If you would like more information about zolmitriptan, talk to your doctor.
 You can ask your doctor or pharmacist for information on zolmitriptan that is written for healthcare professionals.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 What are the Ingredients in zolmitriptan orally disintegrating tablets?
 
-Active ingredient: zolmitriptan
+Active ingredient: zolmitriptan, USP
 
 Inactive ingredients: anhydrous citric acid, aspartame, colloidal silicon dioxide, crospovidone, gelatin, magnesium stearate, mannitol, microcrystalline cellulose, orange flavor, polacrilin potassium and sodium stearyl fumarate.
 
@@ -155,6 +161,4 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-Rev.: 03/13
-
-Revision Date: 03/09/13
+Rev.: 02/19

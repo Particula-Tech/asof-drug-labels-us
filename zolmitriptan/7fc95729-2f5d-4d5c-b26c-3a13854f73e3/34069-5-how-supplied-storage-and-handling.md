@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Zolmitriptan Orally Disintegrating Tablets, 2.5 mg are white/mottled white to cream white, round, flat-faced, uncoated tablet, debossed with '715' on one side and plain on the other side and are supplied as follows:
+Zolmitriptan Orally Disintegrating Tablets USP, 2.5 mg are white/mottled white to cream white, round, flat-faced, uncoated tablet, debossed with '715' on one side and plain on the other side and are supplied as follows:
 
 NDC 68382-715-06 in bottle of 30 tablets
 
@@ -14,7 +14,7 @@ NDC 68382-715-86 in unit-dose blister cartons of 6 (1 x 6) unit dose tablets
 
 NDC 68382-715-77 in unit-dose blister cartons of 100 (10 x 10) unit dose tablets
 
-Zolmitriptan Orally Disintegrating Tablets, 5 mg are white/mottled white to cream white, round, biconvex, beveled, uncoated tablet, debossed with '717' on one side and plain on the other side and are supplied as follows:
+Zolmitriptan Orally Disintegrating Tablets USP, 5 mg are white/mottled white to cream white, round, biconvex, beveled, uncoated tablet, debossed with '717' on one side and plain on the other side and are supplied as follows:
 
 NDC 68382-717-06 in bottle of 30 tablets
 

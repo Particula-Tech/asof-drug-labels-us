@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA Approved Patient Labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Myocardial Ischemia and/or Infarction, Prinzmetal's angina, Other Vasospastic Reactions, and Cerebrovascular Events
+Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospastic Reactions, and Cerebrovascular Events
 
 Inform patients that zolmitriptan may cause serious cardiovascular adverse reactions such as myocardial infarction or stroke, which may result in hospitalization and even death.
 Although serious cardiovascular reactions can occur without warning symptoms, instruct patients to be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and instruct them to ask for medical advice when observing any indicative sign or symptoms.
@@ -18,15 +18,15 @@ Inform patients about the risk of serotonin syndrome with the use of zolmitripta
 
 Pregnancy
 
-Inform patients that zolmitriptan should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
+Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
-Nursing Mothers
+Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
+Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 
 Handling of Zolmitriptan Orally Disintegrating Tablets
 
-Inform patients not to break zolmitriptan oral disintegrating tablets.
+Inform patients not to break zolmitriptan orally disintegrating tablets.
 Inform patients that the orally disintegrating tablet is packaged in a blister.
 Instruct patients not to remove the oral disintegrating tablet from the blister until just prior to dosing.
 Instruct patients that prior to dosing, peel open the blister pack and place the orally disintegrating tablet on the tongue, where it will dissolve and be swallowed with the saliva [see Dosage and Administration (2.2)].

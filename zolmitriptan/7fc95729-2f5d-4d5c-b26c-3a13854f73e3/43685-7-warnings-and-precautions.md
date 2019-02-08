@@ -7,7 +7,7 @@ There have been rare reports of serious cardiac adverse reactions, including acu
 Some of these reactions occurred in patients without known CAD.
 5-HT1 agonists including zolmitriptan may cause coronary artery vasospasm (Prinzmetal Angina), even in patients without a history of CAD.
 
-Perform a cardiovascular evaluation in triptan-nave patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving zolmitriptan.
+Perform a cardiovascular evaluation in triptan-naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving zolmitriptan.
 Do not administer zolmitriptan if there is evidence of CAD or coronary artery vasospasm [see Contraindications (4)].
 For patients with multiple cardiovascular risk factors who have a negative cardiovascular evaluation, consider administrating the first zolmitriptan dose in a medically-supervised setting and performing an electrocardiogram (ECG) immediately following zolmitriptan administration.
 For such patients, consider periodic cardiovascular evaluation in intermittent long-term users of zolmitriptan.

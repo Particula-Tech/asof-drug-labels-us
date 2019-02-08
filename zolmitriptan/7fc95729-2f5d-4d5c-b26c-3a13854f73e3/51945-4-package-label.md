@@ -1,6 +1,6 @@
 NDC 68382-715-06
 
-Zolmitriptan Orally Disintegrating Tablets, 2.5 mg
+Zolmitriptan Orally Disintegrating Tablets USP, 2.5 mg
 
 Rx only
 
@@ -10,7 +10,7 @@ ZYDUS
 
 NDC 68382-715-69
 
-Zolmitriptan Orally Disintegrating Tablets, 2.5 mg
+Zolmitriptan Orally Disintegrating Tablets USP, 2.5 mg
 
 Rx only
 
@@ -20,7 +20,7 @@ ZYDUS
 
 NDC 68382-715-86
 
-Zolmitriptan Orally Disintegrating Tablets, 2.5 mg
+Zolmitriptan Orally Disintegrating Tablets USP, 2.5 mg
 
 Rx only
 
@@ -30,7 +30,7 @@ ZYDUS
 
 NDC 68382-717-06
 
-Zolmitriptan Orally Disintegrating Tablets, 5 mg
+Zolmitriptan Orally Disintegrating Tablets USP, 5 mg
 
 Rx only
 
@@ -40,7 +40,7 @@ ZYDUS
 
 NDC 68382-717-87
 
-Zolmitriptan Orally Disintegrating Tablets, 5 mg
+Zolmitriptan Orally Disintegrating Tablets USP, 5 mg
 
 Rx only
 
@@ -50,7 +50,7 @@ ZYDUS
 
 NDC 68382-717-82
 
-Zolmitriptan Orally Disintegrating Tablets, 5 mg
+Zolmitriptan Orally Disintegrating Tablets USP, 5 mg
 
 Rx only
 

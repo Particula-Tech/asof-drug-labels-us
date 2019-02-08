@@ -10,9 +10,9 @@ In controlled clinical trials, a greater proportion of patients had headache res
 There was little added benefit from the 5 mg dose compared to the 2.5 mg dose, but adverse reactions were more frequent with the 5 mg dose.
 
 If the migraine has not resolved by 2 hours after taking zolmitriptan, or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose.
-The maximum daily dose is 10 mg in any 24 hour period.
+The maximum daily dose is 10 mg in any 24-hour period.
 
-The safety of zolmitriptan in the treatment of an average of more than three migraines in a 30 day period has not been established.
+The safety of zolmitriptan in the treatment of an average of more than three migraines in a 30-day period has not been established.
 
 ## 2.2 Administration of Zolmitriptan Orally Disintegrating Tablets
 
@@ -29,7 +29,7 @@ Subsequently, instruct patients to peel the blister pack open, and to place the 
 The recommended dose of zolmitriptan in patients with moderate to severe hepatic impairment is 1.25 mg (one-half of one 2.5 mg zolmitriptan tablet) because of increased zolmitriptan blood levels in these patients and elevation of blood pressure in some of these patients.
 Limit the total daily dose in patients with severe hepatic impairment to no more than 5 mg per day.
 
-The use of zolmitriptan orally disintegrating tablets is not recommended in patients with moderate or severe hepatic impairment because these orally disintegrating tablets should not be broken in half [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+The use of zolmitriptan orally disintegrating tablets is not recommended in patients with moderate or severe hepatic impairment because these orally disintegrating tablets should not be broken in half [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Dosing in Patients taking Cimetidine
 
