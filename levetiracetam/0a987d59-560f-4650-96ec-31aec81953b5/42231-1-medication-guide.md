@@ -163,14 +163,14 @@ How should I store levetiracetam tablets?
 General information about levetiracetam tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use levetiracetam tablets for a condition for which it was not prescribed.
+Do not use levetiracetam tablets for a condition for which they were not prescribed.
 Do not give levetiracetam tablets to other people, even if they have the same symptoms that you have.
-It may harm them.
+They may harm them.
 
 This Medication Guide summarizes the most important information about levetiracetam tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
-You can also get information about levetiracetam tablets by calling Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+You can also get information about levetiracetam tablets by calling Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients of levetiracetam tablets?
 
@@ -178,10 +178,12 @@ Active ingredient: levetiracetam
 
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 
-Levetiracetam tablets do not contain lactose or gluten.
+Levetiracetam tablets do not contain lactose.
+
+Contains no ingredient made from a gluten-containing grain (wheat, barley, or rye).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 1/2018 LVTC:R15mpbmh/MG:LVTC:R10mpb/ MG:LVTC:R11mh
+Revised: 1/2019 LVTC:R16mpbmh/MG:LVTC:R11mpb/MG:LVTC:R12mh
