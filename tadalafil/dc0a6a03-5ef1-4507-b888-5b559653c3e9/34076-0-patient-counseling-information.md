@@ -1,0 +1,11 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+See FDA-Approved Patient Labeling (Patient Information) • Inform patients of contraindication of tadalafil tablets with any use of organic nitrates or GC stimulators. • Inform patients that tadalafil is also marketed as CIALIS for erectile dysfunction (ED) and for the signs and symptoms of benign prostatic hyperplasia (BPH).
+Advise patients taking tadalafil tablets not to take CIALIS or other PDE5 inhibitors. • Advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes while taking tadalafil tablets.
+Such an event may be a sign of NAION. • Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking tadalafil tablets.
+These events may be accompanied by tinnitus and dizziness.
+
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854.
+
+By: HETEROTM HETERO LABS LIMITED 2051855 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
+Revised: 01/2019

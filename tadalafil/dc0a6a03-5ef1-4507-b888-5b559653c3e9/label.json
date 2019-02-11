@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209907"
+  ],
+  "inn": "tadalafil",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-647-30",
+    "31722-647-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tadalafil",
+      "name": "Tadalafil"
+    }
+  ],
+  "setid": "dc0a6a03-5ef1-4507-b888-5b559653c3e9",
+  "source": "dailymed"
+}
