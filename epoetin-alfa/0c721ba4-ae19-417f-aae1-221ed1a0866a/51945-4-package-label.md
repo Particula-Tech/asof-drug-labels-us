@@ -102,13 +102,13 @@ PRINCIPAL DISPLAY PANEL - 20,000 Units/2 mL Vial Carton
 
 20,000 Units/2 mL (10,000 Units/mL)
 
-NDC 59676-312-04 4-2 mL Multidose Vials
+NDC 59676-312-04 4-2 mL Multiple-dose Vials
 
 PROCRIT® EPOETIN ALFA
 
 20,000 Units/2 mL (10,000 Units/mL)
 
-Multidose Vials
+Multiple-dose Vials
 
 Sterile solution — Preserved.
 10,000 Units/mL For Intravenous or Subcutaneous Use Only.
@@ -124,13 +124,13 @@ PRINCIPAL DISPLAY PANEL - 20,000 Unit Vial Carton
 
 20,000 Units/mL
 
-NDC 59676-320-04 4-1 mL Multidose Vials
+NDC 59676-320-04 4-1 mL Multiple-dose Vials
 
 PROCRIT® EPOETIN ALFA
 
 20,000 Units/mL
 
-Multidose Vials
+Multiple-dose Vials
 
 Sterile solution — Preserved.
 20,000 Units/mL For Intravenous or Subcutaneous Use Only
