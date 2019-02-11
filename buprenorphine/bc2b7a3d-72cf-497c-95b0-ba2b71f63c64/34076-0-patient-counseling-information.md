@@ -90,4 +90,4 @@ To dispose of unused BELBUCA film, inform the patient to:
 
 Instruct patients not to flush BELBUCA down the toilet in the foil packages or cartons [see Dosage and Administration (2.8)].
 
-Healthcare professionals can telephone BioDelivery Sciences International, Inc. at1-800-469-0261 or access www.BELBUCA.com for information on this product.
+Healthcare professionals can telephone BioDelivery Sciences International, Inc. at 1-800-469-0261 or access www.BELBUCA.com for information on this product.

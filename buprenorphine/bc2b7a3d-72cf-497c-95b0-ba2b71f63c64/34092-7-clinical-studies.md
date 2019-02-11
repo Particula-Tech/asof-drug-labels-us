@@ -41,7 +41,7 @@ Patients were permitted to take hydrocodone/acetaminophen 5/325 mg as analgesic 
 After a dose was reached with adequate analgesia and tolerable adverse effects for a period of 2 weeks, patients were randomized to continue their titrated dose of BELBUCA or matching placebo.
 Sixty-three percent (63%) of the patients who entered the open-label titration period were able to titrate to a tolerable and effective dose and were randomized into a 12-week double-blind treatment phase.
 Ten percent (10%) of patients discontinued due to an adverse event, 8% discontinued due to lack of a therapeutic effect, and 0.1% discontinued due to opioid withdrawal during the open-label titration period.
-The remaining 20% of patients discontinued due to various non drug related administrative reasons.
+The remaining 20% of patients discontinued due to various non-drug related administrative reasons.
 
 During the double-blind period, patients were permitted to take up to 2 doses of 5/325 mg or 10/650 mg of hydrocodone/acetaminophen per day for the first 2 weeks to minimize opioid withdrawal symptoms in patients randomized to placebo.
 After the first 2 weeks, patients were permitted to take 1 dose of 5/325 mg or 10/650 mg per day.

@@ -50,5 +50,5 @@ Table 5: Clinically Significant Drug Interactions
 | Examples: | efavirenz, nevirapine, etravirine, delavirdine |
 | Antiretrovirals: Protease inhibitors (PIs) |  |
 | Clinical Impact: | Studies have shown some antiretroviral protease inhibitors (PIs) with CYP3A4 inhibitory activity (nelfinavir, lopinavir/ritonavir, ritonavir) have little effect on buprenorphine pharmacokinetic and no significant pharmacodynamic effects. Other PIs with CYP3A4 inhibitory activity (atazanavir and atazanavir/ritonavir) resulted in elevated levels of buprenorphine and norbuprenorphine, and patients in one study reported increased sedation. Symptoms of opioid excess have been found in post-marketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly. |
-| Intervention: | Monitor patients taking BELBUCA and atazanavir with and without ritonavir, and dose reduction of BELBUCA may be warranted. |
+| Intervention: | Monitor patients taking BELBUCA and atazanavir with and without ritonavir, and reduce the dose of BELBUCA if warranted. |
 | Examples: | atazanavir, ritonavir |

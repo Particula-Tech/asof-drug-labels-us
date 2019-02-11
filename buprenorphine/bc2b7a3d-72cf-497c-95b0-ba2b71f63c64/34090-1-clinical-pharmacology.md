@@ -79,7 +79,7 @@ Table 7: Mean (± SD) BELBUCA Pharmacokinetic Parameters
 Following the multiple dose administration (60 to 240 mcg every 12 hours) of BELBUCA, apparent steady-state buprenorphine plasma concentrations were achieved prior to the 6th dose.
 Buprenorphine steady-state Cmax and AUC increased proportional to dose.
 
-Systemic exposure to buprenorphine from BELBUCA film was reduced by 23-27% by the ingestion of liquids (cold, hot and room temperature water) during film administration; additionally coadministration with low pH liquid, such as decaffeinated cola, decreased buprenorphine exposure from BELBUCA by approximately 37%.
+Systemic exposure to buprenorphine from BELBUCA film was reduced by 23-27% by the ingestion of liquids (cold, hot and room temperature water) during film administration; additionally, coadministration with low pH liquid, such as decaffeinated cola, decreased buprenorphine exposure from BELBUCA by approximately 37%.
 The consumption of liquids should be avoided until the buccal film has completely dissolved [see Dosage and Administration (2.7)].
 
 Distribution
@@ -141,9 +141,9 @@ The disposition of buprenorphine in patients with hepatic impairment was compare
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
 No dose adjustment is needed in patients with mild hepatic impairment.
 
-For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased [see Dosage and Administration (2.5), Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 8) [see Dosage and Administration (2.5), Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
 
-Table 8: Changes in Pharmacokinetic Parameters in Subjects With Moderate and Severe Hepatic Impairment
+Table 8: Changes in Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
 
 | Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects |
 | --- | --- | --- |

@@ -26,7 +26,7 @@ The most common serious adverse drug reactions (all ≤ 0.2%) occurring during c
 
 The most common adverse events (≥ 2%) leading to discontinuation were nausea, vomiting, and liver function test abnormality.
 
-The most common adverse events (≥ 5%) reported by opioid naïve, opioid experienced, and overall patients exposed to BELBUCA in clinical trials and compared against placebo are shown in Tables 2, 3 and 4:
+The most common adverse events (≥ 5%) reported by opioid-naïve, opioid-experienced, and overall patients exposed to BELBUCA in clinical trials and compared against placebo are shown in Table 2, Table 3 and Table 4:
 
 Table 2: Adverse Events Reported in ≥ 5% of Patients during the Open-Label Titration Phase and Double-Blind Treatment Phase of Controlled Studies: Opioid-Naïve Patients
 
@@ -73,17 +73,27 @@ Most common adverse reactions (≥ 5%): nausea, constipation, headache, vomiting
 
 Common (≥ 1% to < 5%) adverse reactions (organized by MedDRA [Medical Dictionary for Regulatory Activities] System Organ Class):
 
-- Blood and lymphatic system disorders: anemia
-- Gastrointestinal disorders: abdominal pain
-- General disorders and administration site conditions: peripheral edema, pyrexia, drug withdrawal syndrome
-- Infections and infestations: urinary tract infection, nasopharyngitis, sinusitis, bronchitis, gastroenteritis
-- Injury, poisoning, and procedural complications: contusion, fall
-- Metabolism and nutrition disorders: decreased appetite
-- Musculoskeletal and connective tissue disorders: muscle spasms, back pain
-- Psychiatric disorders: anxiety, insomnia, depression
-- Respiratory, thoracic and mediastinal disorders: oropharyngeal pain, sinus congestion
-- Skin and subcutaneous tissue disorders: hyperhidrosis, pruritus, rash
-- Vascular disorders: hot flush, hypertension
+Blood and lymphatic system disorders: anemia
+
+Gastrointestinal disorders: abdominal pain
+
+General disorders and administration site conditions: peripheral edema, pyrexia, drug withdrawal syndrome
+
+Infections and infestations: urinary tract infection, nasopharyngitis, sinusitis, bronchitis, gastroenteritis
+
+Injury, poisoning, and procedural complications: contusion, fall
+
+Metabolism and nutrition disorders: decreased appetite
+
+Musculoskeletal and connective tissue disorders: muscle spasms, back pain
+
+Psychiatric disorders: anxiety, insomnia, depression
+
+Respiratory, thoracic and mediastinal disorders: oropharyngeal pain, sinus congestion
+
+Skin and subcutaneous tissue disorders: hyperhidrosis, pruritus, rash
+
+Vascular disorders: hot flush, hypertension
 
 Least common (<1%) adverse reactions:
 

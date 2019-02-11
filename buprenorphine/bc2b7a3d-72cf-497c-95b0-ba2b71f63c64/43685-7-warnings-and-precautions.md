@@ -100,7 +100,7 @@ The information available does not identify any particular opioids as being more
 BELBUCA has been observed to prolong the QTc interval in some subjects participating in clinical trials.
 Consider these observations in clinical decisions when prescribing BELBUCA to patients with hypokalemia, hypomagnesemia, or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
 Periodic electrocardiographic (ECG) monitoring is recommended in these patients.
-Avoid the use of BELBUCA in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.2)].
+Avoid the use of BELBUCA in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 
 ## 5.9 Severe Hypotension
 
@@ -125,7 +125,7 @@ The spectrum of abnormalities ranges from transient asymptomatic elevations in h
 In many cases, the presence of pre-existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injection drug abuse may have played a causative or contributory role.
 For patients at increased risk of hepatotoxicity (e.g., patients with a history of excessive alcohol intake, intravenous drug abuse or liver disease), obtain baseline liver enzyme levels and monitor periodically during treatment with BELBUCA.
 
-## 5.12 Risk of Overdose in Patients With Moderate to Severe Hepatic Impairment
+## 5.12 Risk of Overdose in Patients with Moderate to Severe Hepatic Impairment
 
 In a pharmacokinetic study in subjects dosed with buprenorphine sublingual tablets, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].

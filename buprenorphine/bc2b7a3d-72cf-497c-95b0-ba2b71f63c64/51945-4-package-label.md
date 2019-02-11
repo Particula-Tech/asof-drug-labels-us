@@ -4,7 +4,7 @@ NDC 59385-021-60
 
 CIII
 
-Belbuca® (buprenorphine hydrochloride) buccal film
+Belbuca® (buprenorphine buccal film)
 
 Push To Open
 
@@ -28,7 +28,7 @@ NDC 59385-022-60
 
 CIII
 
-Belbuca® (buprenorphine hydrochloride) buccal film
+Belbuca® (buprenorphine buccal film)
 
 Push To Open
 
@@ -52,7 +52,7 @@ NDC 59385-023-60
 
 CIII
 
-Belbuca® (buprenorphine hydrochloride) buccal film
+Belbuca® (buprenorphine buccal film)
 
 Push To Open
 
@@ -76,7 +76,7 @@ NDC 59385-024-60
 
 CIII
 
-Belbuca® (buprenorphine hydrochloride) buccal film
+Belbuca® (buprenorphine buccal film)
 
 Push To Open
 
@@ -100,7 +100,7 @@ NDC 59385-025-60
 
 CIII
 
-Belbuca® (buprenorphine hydrochloride) buccal film
+Belbuca® (buprenorphine buccal film)
 
 Push To Open
 
@@ -124,7 +124,7 @@ NDC 59385-026-60
 
 CIII
 
-Belbuca® (buprenorphine hydrochloride) buccal film
+Belbuca® (buprenorphine buccal film)
 
 Push To Open
 
@@ -148,7 +148,7 @@ NDC 59385-027-60
 
 CIII
 
-Belbuca® (buprenorphine hydrochloride) buccal film
+Belbuca® (buprenorphine buccal film)
 
 Push To Open
 

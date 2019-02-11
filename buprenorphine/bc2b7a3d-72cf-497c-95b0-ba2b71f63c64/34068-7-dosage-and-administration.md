@@ -4,7 +4,7 @@
 
 BELBUCA should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patients treatment goals [see Warnings and Precautions (5)].
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with BELBUCA and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
@@ -14,11 +14,11 @@ Instruct patients not to use BELBUCA if the pouch seal is broken or the buccal f
 
 ## 2.2 Initial Dosing
 
-Use of BELBUCA as the Initial Opioid Analgesic (opioid naïve patients) or in Patients who are not Opioid Tolerant (opioid-non-tolerant patients)
+Use of BELBUCA as the Initial Opioid Analgesic (opioid-naïve patients) or in Patients who are not Opioid Tolerant (opioid-non-tolerant patients)
 
 Initiate treatment in opioid-naïve and opioid-non-tolerant patients with a 75 mcg film once daily or, if tolerated, every 12 hours (see Table 1) for at least 4 days, then increase dose to 150 mcg every 12 hours.
 Individual titration to a dose that provides adequate analgesia and minimizes adverse reactions should proceed in increments of 150 mcg every 12 hours, no more frequently than every 4 days.
-Doses up to 450 mcg every 12 hours were studied in opioid naïve patients in the clinical trials [see Clinical Studies (14)].
+Doses up to 450 mcg every 12 hours were studied in opioid-naïve patients in the clinical trials [see Clinical Studies (14)].
 
 Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.3)].
 
@@ -36,9 +36,9 @@ Consider the use of an alternate analgesic.
 
 There is inter-patient variability in the relative potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of BELBUCA.
-It is safer to underestimate a patient's 24 hour oral buprenorphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24 hour buprenorphine dosage and manage an adverse reaction due to overdose.
+It is safer to underestimate a patient's 24-hour oral buprenorphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour buprenorphine dosage and manage an adverse reaction due to overdose.
 
-In a BELBUCA clinical trial with open-label titration period, patients were converted from their prior opioid to BELBUCA using Table 1 as a guide for the initial BELBUCA dose.
+In a BELBUCA clinical trial with an open-label titration period, patients were converted from their prior opioid to BELBUCA using Table 1 as a guide for the initial BELBUCA dose.
 
 Table 1: Initial BELBUCA Dose Based on Prior Opioid Expressed as Oral Morphine Sulfate Equivalents
 
@@ -72,7 +72,7 @@ The minimum titration interval of BELBUCA is 4 days, based on the pharmacokineti
 Individual titration should proceed in increments of no more than 150 mcg every 12 hours.
 
 The maximum BELBUCA dose is 900 mcg every 12 hours.
-Do not exceed a dose of BELBUCA 900 mcg every 12 hours due to the potential for QTc interval prolongation[see Warnings and Precautions (5.8), Adverse Reactions (6.1), and Clinical Pharmacology (12.2)].
+Do not exceed a dose of BELBUCA 900 mcg every 12 hours due to the potential for QTc interval prolongation[see Warnings and Precautions (5.8), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 If pain is not adequately managed on BELBUCA 900 mcg, consider an alternate analgesic.
 
 If unacceptable opioid-related adverse reactions are observed, adjust the dose to obtain an appropriate balance between the management of pain and opioid-related adverse reactions.
@@ -89,7 +89,7 @@ In patients with severe hepatic impairment (i.e., Child-Pugh C), reduce the star
 
 ## 2.6 Dosage Modifications in Patients with Oral Mucositis
 
-In patients with known or suspected mucositis, reduce the starting dosage and titration incremental dosage by half compared to patients without mucositis [see Warnings and Precautions (5.16) Clinical Pharmacology (12.3)].
+In patients with known or suspected mucositis, reduce the starting dosage and titration incremental dosage by half compared to patients without mucositis [see Warnings and Precautions (5.16), Clinical Pharmacology (12.3)].
 
 ## 2.7 Administration of BELBUCA
 

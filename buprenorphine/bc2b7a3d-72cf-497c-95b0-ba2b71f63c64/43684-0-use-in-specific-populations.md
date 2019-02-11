@@ -73,7 +73,7 @@ Because of the potential for serious adverse reactions, including excess sedatio
 Clinical Considerations
 
 Monitor infants exposed to BELBUCA through breast milk for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breast-feeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breastfeeding is stopped.
 
 Data
 
