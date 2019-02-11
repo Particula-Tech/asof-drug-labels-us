@@ -2,6 +2,6 @@
 
 Locoid® (hydrocortisone butyrate) Cream, 0.1% is supplied in tubes containing:
 
-15 g (NDC 16781-382-15)
+NDC 16781-382-15 15 g tube
 
-45 g (NDC 16781-382- 45)
+NDC 16781-382-45 45 g tube

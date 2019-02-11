@@ -1,10 +1,8 @@
-For topical use
+FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE
 
 # STORAGE
 
 Store at controlled temperature between 15º to 25ºC (59º to 77ºF).
-
-Rx only
 
 Manufactured for:
 
@@ -16,12 +14,14 @@ By:
 
 Ferndale Laboratories, Inc.
 
-Ferndale, MI 48220
+Ferndale, MI 48220 USA
 
-Locoid is a registered trademark of Astellas Pharma Europe B.V. under license.
+Locoid is a trademark of Leo Pharma A/S used under license.
 
-© Valeant Pharmaceuticals International.
+Ortho Dermatologics is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-9420600
+© 2018 Valeant Pharmaceuticals North America LLC
 
-Revised: 10/2014
+9420601
+
+Revised: 10/2018

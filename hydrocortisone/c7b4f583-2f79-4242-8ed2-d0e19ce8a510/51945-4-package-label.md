@@ -2,15 +2,15 @@
 
 NDC 16781-382-15
 
+Rx only
+
 Locoid® (hydrocortisone butyrate)
 
 Cream, 0.1%
 
-For topical use only.
+FOR TOPICAL USE ONLY
 
-Not for ophthalmic use.
-
-Rx only
+NOT FOR OPHTHALMIC USE
 
 Net Wt.
-15 grams
+15 g
