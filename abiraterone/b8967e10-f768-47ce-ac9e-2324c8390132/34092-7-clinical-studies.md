@@ -24,20 +24,20 @@ Results from this analysis were consistent with those from the interim analysis 
 
 Table 5 Overall Survival of Patients Treated with Either Abiraterone Acetate or Placebo in Combination with Corticosteroid in Study 1 (Intent-to-Treat Analysis)
 
-|  | Abiraterone Acetate with Corticosteroid(N=797) |  | Placebo withCorticosteroid(N=398) |  |
-| --- | --- | --- | --- | --- |
-| Primary Survival Analysis |  |  |  |  |
-| Deaths (%) | 333 (42%) |  | 219 (55%) |  |
-| Median survival (months) | 14.8 (14.1, 15.4) |  | 10.9 (10.2, 12.0) |  |
-| (95% CI)p-value1 |  | <0.0001 |  |  |
-| Hazard ratio (95% CI)2 |  | 0.646 (0.543, 0.768) |  |  |
-| Updated Survival Analysis |  |  |  |  |
-| Deaths (%) | 501 (63%) |  | 274 (69%) |  |
-| Median survival (months) | 15.8 (14.8, 17.0) |  | 11.2 (10.4, 13.1) |  |
-| (95% CI) |  |  |  |  |
-| Hazard ratio (95% CI)2 |  | 0.740 (0.638, 0.859) |  |  |
-| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic) |  |  |  |  |
-| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate |  |  |  |  |
+|  | Abiraterone Acetate with Corticosteroid(N=797) | Placebo withCorticosteroid(N=398) |  |
+| --- | --- | --- | --- |
+| Primary Survival Analysis |  |  |  |
+| Deaths (%) | 333 (42%) | 219 (55%) |  |
+| Median survival (months) | 14.8 (14.1, 15.4) | 10.9 (10.2, 12.0) |  |
+| (95% CI)p-value1 |  | <0.0001 |  |
+| Hazard ratio (95% CI)2 |  | 0.646 (0.543, 0.768) |  |
+| Updated Survival Analysis |  |  |  |
+| Deaths (%) | 501 (63%) | 274 (69%) |  |
+| Median survival (months) | 15.8 (14.8, 17.0) | 11.2 (10.4, 13.1) |  |
+| (95% CI) |  |  |  |
+| Hazard ratio (95% CI)2 |  | 0.740 (0.638, 0.859) |  |
+| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic) |  |  |  |
+| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate |  |  |  |
 
 Figure 1 Kaplan-Meier Overall Survival Curves in Study 1 (Intent-to-Treat Analysis)
 

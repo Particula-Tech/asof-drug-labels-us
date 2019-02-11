@@ -31,8 +31,8 @@ Before you take YONSA, tell your healthcare provider about all of your medical c
 - •have a history of adrenal problems
 - •have a history of pituitary problems
 - •have a partner who is pregnant or may become pregnant.
-- oMen who are sexually active with a woman who may become pregnant must use effective birth control during treatment and for at least 3 weeks after the final dose of YONSA.
-- oMen who are sexually active with a woman who is pregnant must use a condom.
+- •Men who are sexually active with a woman who may become pregnant must use effective birth control during treatment and for at least 3 weeks after the final dose of YONSA.
+- •Men who are sexually active with a woman who is pregnant must use a condom.
 - Talk with your healthcare provider if you have questions about birth control.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
@@ -50,10 +50,10 @@ How should I take YONSA?
   Take your prescribed dose of methylprednisolone 2 times a day.
 - •YONSA contains abiraterone acetate.
   YONSA and other medicines that contain abiraterone acetate may not be the same.
-- oDo not switch between YONSA and other medicines that contain abiraterone acetate unless your healthcare provider tells you to.
-- oFollow your healthcare provider’s instructions carefully if you are switching between YONSA and another medicine that contains abiraterone acetate.
-- oDo not take YONSA and other medicines that contain abiraterone acetate on the same day.
-- oIf you do not have enough YONSA to take your full dose or if you have any other questions about YONSA, talk with your healthcare provider or pharmacist.
+- •Do not switch between YONSA and other medicines that contain abiraterone acetate unless your healthcare provider tells you to.
+- •Follow your healthcare provider’s instructions carefully if you are switching between YONSA and another medicine that contains abiraterone acetate.
+- •Do not take YONSA and other medicines that contain abiraterone acetate on the same day.
+- •If you do not have enough YONSA to take your full dose or if you have any other questions about YONSA, talk with your healthcare provider or pharmacist.
 - •Your healthcare provider may change your dose of YONSA if needed.
 - •Do not stop taking your prescribed dose of YONSA or methylprednisolone without talking with your healthcare provider first.
 - •Take YONSA with or without food.
@@ -74,11 +74,11 @@ YONSA may cause serious side effects, including:
 - (edema).
   Tell your healthcare provider if you get any of the following symptoms:
 
-| odizziness | oconfusion |
+| •dizziness | •confusion |
 | --- | --- |
-| ofast heartbeats | omuscle weakness |
-| ofeel faint or lightheaded | opain in your legs |
-| oheadache | oswelling in your legs or feet |
+| •fast heartbeats | •muscle weakness |
+| •feel faint or lightheaded | •pain in your legs |
+| •headache | •swelling in your legs or feet |
 
 - •Adrenal problems may happen if you stop taking methylprednisolone, get an infection, or are under stress.
 - •Liver problems.
@@ -86,9 +86,9 @@ YONSA may cause serious side effects, including:
   Your healthcare provider will do blood tests to check your liver before treatment with YONSA and during treatment with YONSA.
   Liver failure may occur, which can lead to death.
   Tell your healthcare provider if you notice any of the following changes:
-- oyellowing of the skin or eyes
-- odarkening of the urine
-- osevere nausea or vomiting
+- •yellowing of the skin or eyes
+- •darkening of the urine
+- •severe nausea or vomiting
 
 The most common side effects of YONSA include:
 
