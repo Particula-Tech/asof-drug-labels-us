@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018603"
+  ],
+  "inn": "acyclovir",
+  "labeler": "GlaxoSmithKline LLC",
+  "package_ndcs": [
+    "0173-0952-01",
+    "0173-0995-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "acyclovir sodium",
+      "name": "ZOVIRAX"
+    }
+  ],
+  "setid": "6363b189-b9cb-4a17-87ef-12e43e1fdf31",
+  "source": "dailymed"
+}
