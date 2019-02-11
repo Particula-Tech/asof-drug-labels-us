@@ -17,11 +17,12 @@ Table 1: Dilution Instructions for DYSPORT Vials (500 Units and 300 Units)
 | 2 mL | 25 Units | -- | -- |
 | 2.5 mL | 20 Units | 1.5 mL | 20 Units |
 | -- | -- | 2.5 mL | 12 Units |
-| 5 mLWhen using 5 mL of diluent for a 500 Unit vial of DYSPORT, complete the following steps [see Dosing in Spasticity in Adults (2.4)]: Reconstitute a 500 Unit vial of DYSPORT® with 2.5 mL of Preservative-free 0.9% Sodium Chloride Injection, USP, gently mix, and set the vial aside.Withdraw 2.5 mL of Preservative-free 0.9% Sodium Chloride Injection, USP, into a 5 mL syringe.Take the 5 mL syringe with 2.5 mL Preservative-free 0.9% Sodium Chloride Injection, USP, and draw up the DYSPORT solution from the reconstituted vial without inverting and mix gently. The resulting concentration will be 10 units/0.1 mL.Use immediately after reconstitution in the syringe. Dispose of any unused saline. | 10 Units | 3 mL | 10 Units |
+| 5 mLWhen using 5 mL of diluent for a 500 Unit vial of DYSPORT, complete the following steps [see Dosing in Spasticity in Adults (2.4)]: Reconstitute a 500 Unit vial of DYSPORT with 2.5 mL of Preservative-free 0.9% Sodium Chloride Injection, USP, gently mix, and set the vial aside.Withdraw 2.5 mL of Preservative-free 0.9% Sodium Chloride Injection, USP, into a 5 mL syringe.Take the 5 mL syringe with 2.5 mL Preservative-free 0.9% Sodium Chloride Injection, USP, and draw up the DYSPORT solution from the reconstituted vial without inverting and mix gently. The resulting concentration will be 10 units/0.1 mL.Use immediately after reconstitution in the syringe. Dispose of any unused saline. | 10 Units | 3 mL | 10 Units |
 | Note: These dilutions are calculated for an injection volume of 0.1 mL. A decrease or increase in the DYSPORT dose is also possible by administering a smaller or larger injection volume (i.e., 0.05 mL (50% decrease in dose), 0.08 mL (20% decrease in dose) or 0.15 mL (50% increase in dose). |  |  |  |
 
 After reconstitution, DYSPORT should be used for only one injection session and for only one patient.
-Once reconstituted, DYSPORT should be stored in the original container, in a refrigerator at 2°C to 8°C (36°F to 46°F), protected from light for up to 24 hours.
+Discard any unused portion.
+Once reconstituted, unused DYSPORT may be stored in the original container, in a refrigerator at 2°C to 8°C (36°F to 46°F), protected from light for up to 24 hours until time of use.
 It must be discarded if not used within 24 hours.
 Do not freeze reconstituted DYSPORT.
 Discard the vial and needle in accordance with local regulations.
@@ -45,12 +46,12 @@ The starting dose of 500 Units recommended for cervical dystonia is applicable t
 
 Instructions for Preparation and Administration for the Treatment of Cervical Dystonia
 
-DYSPORT is supplied as a single-use vial.
+DYSPORT is supplied as a single-dose vial.
 Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT.
-Each 500 Unit vial of DYSPORT is to be reconstituted with 1 mL of preservative-free 0.9% Sodium Chloride Injection USP to yield a solution of 50 Units per 0.1 mL or reconstituted with 2 mL of preservative-free 0.9% Sodium Chloride Injection USP to yield a solution of 25 Units per 0.1 mL.
-Each 300 Unit vial of DYSPORT is to be reconstituted with 0.6 mL of preservative-free 0.9% Sodium Chloride Injection USP to yield a solution equivalent to 50 Units per 0.1 mL.
+Each 500 Unit vial of DYSPORT is to be reconstituted with 1 mL of preservative-free 0.9% Sodium Chloride Injection, USP to yield a solution of 50 Units per 0.1 mL or reconstituted with 2 mL of preservative-free 0.9% Sodium Chloride Injection, USP to yield a solution of 25 Units per 0.1 mL.
+Each 300 Unit vial of DYSPORT is to be reconstituted with 0.6 mL of preservative-free 0.9% Sodium Chloride Injection, USP to yield a solution equivalent to 50 Units per 0.1 mL.
 
-Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 2 mL or 1 mL of sterile, preservative- free 0.9% Sodium Chloride Injection USP for the 500 Unit vial or 0.6 mL of sterile, preservative-free 0.9% Sodium Chloride Injection USP for the 300 Unit vial.
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 2 mL or 1 mL of sterile, preservative-free 0.9% Sodium Chloride Injection, USP for the 500 Unit vial or 0.6 mL of sterile, preservative-free 0.9% Sodium Chloride Injection, USP for the 300 Unit vial.
 Insert the needle into the DYSPORT vial.
 The partial vacuum will begin to pull the saline into the vial.
 Any remaining required saline should be expressed into the vial manually.
@@ -77,13 +78,13 @@ When used for re-treatment, DYSPORT should be reconstituted and injected using t
 
 Instructions for Preparation and Administration for the Treatment of Glabellar Lines
 
-DYSPORT is supplied as a single-use vial.
+DYSPORT is supplied as a single-dose vial.
 Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT.
-Each 300 Unit vial of DYSPORT is to be reconstituted with 2.5 mL of preservative-free 0.9% Sodium Chloride Injection USP prior to injection.
+Each 300 Unit vial of DYSPORT is to be reconstituted with 2.5 mL of preservative-free 0.9% Sodium Chloride Injection, USP prior to injection.
 The concentration of the resulting solution will be 10 Units per 0.08 mL (12 Units per 0.1 mL) to be delivered in five equally divided aliquots of 0.08 mL each.
-DYSPORT may also be reconstituted with 1.5 mL of preservative-free 0.9% Sodium Chloride Injection USP for a solution of 10 Units per 0.05 mL (20 Units per 0.1 mL) to be delivered in five equally divided aliquots of 0.05 mL each.
+DYSPORT may also be reconstituted with 1.5 mL of preservative-free 0.9% Sodium Chloride Injection, USP for a solution of 10 Units per 0.05 mL (20 Units per 0.1 mL) to be delivered in five equally divided aliquots of 0.05 mL each.
 
-Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 2.5 mL or 1.5 mL of preservative-free 0.9% Sodium Chloride Injection USP Insert the needle into the DYSPORT vial.
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 2.5 mL or 1.5 mL of preservative-free 0.9% Sodium Chloride Injection, USP Insert the needle into the DYSPORT vial.
 The partial vacuum will begin to pull the saline into the vial.
 Any remaining required saline should be expressed into the vial manually.
 Do not use the vial if no vacuum is observed.
@@ -178,10 +179,10 @@ The degree and pattern of muscle spasticity at the time of re-injection may nece
 
 Instructions for Preparation and Administration for the Treatment of Spasticity in Adults
 
-DYSPORT is supplied as a single-use vial.
+DYSPORT is supplied as a single-dose vial.
 Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT.
-The recommended concentration is 100 Units/mL or 200 Units/mL with preservative-free 0.9% Sodium Chloride Injection USP) (see Table 1).
-Using an appropriately sized sterile syringe, needle and aseptic technique, draw up the required volume (see Table 1) of preservative-free 0.9% Sodium Chloride Injection USP.
+The recommended concentration is 100 Units/mL or 200 Units/mL with preservative-free 0.9% Sodium Chloride Injection, USP) (see Table 1).
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up the required volume (see Table 1) of preservative-free 0.9% Sodium Chloride Injection, USP.
 
 Insert the needle into the DYSPORT vial.
 The partial vacuum will begin to pull the saline into the vial.
@@ -237,7 +238,7 @@ The safety and effectiveness of DYSPORT in the treatment of upper limb spasticit
 
 Instructions for Preparation and Administration for the Treatment of Lower Limb Spasticity in Pediatric Patients 2 years and older
 
-DYSPORT is supplied as single-use 300Unit or 500Unit vials.
+DYSPORT is supplied as single-dose 300 Unit or 500 Unit vials.
 Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT.
 Each 500 Unit vial of DYSPORT is to be reconstituted with 2.5 mL of preservative-free 0.9% Sodium Chloride Injection, USP prior to injection.
 Each 300 Unit vial of DYSPORT is to be reconstituted with 1.5 mL of preservative-free 0.9% Sodium Chloride Injection, USP prior to injection.

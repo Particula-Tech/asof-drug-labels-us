@@ -143,7 +143,7 @@ Spasticity in Adults
 
 Injection Site Reactions
 
-Injection site reactions (e.g., pain, bruising, haemorrhage, erythema/haematoma etc.) have occurred following administration of DYSPORT in adults treated for spasticity.
+Injection site reactions (e.g., pain, bruising, hemorrhage, erythema/hematoma etc.) have occurred following administration of DYSPORT in adults treated for spasticity.
 
 Upper Limb Spasticity in Adults
 
@@ -169,7 +169,7 @@ Table 8: Most Common Adverse Reactions Observed in at Least 2% of Patients Treat
 | Dizziness | 3 | 1 | 1 |
 | Convulsion | 2 | 2 | 1 |
 | Syncope | 1 | 2 | 0 |
-| Hypoaesthesia | 0 | 2 | <1 |
+| Hypoesthesia | 0 | 2 | <1 |
 | Partial seizures | 0 | 2 | 0 |
 | General disorders and administration site conditions |  |  |  |
 | Fatigue | 2 | 2 | 0 |
@@ -197,9 +197,9 @@ In a pooled analysis of clinical studies, adverse reactions with an incidence of
 
 Lower Limb Spasticity in Adults
 
-The data described below reflect exposure to DYSPORT in 255 adult patient with lower limb spasticity.
+The data described below reflect exposure to DYSPORT in 255 adult patients with lower limb spasticity.
 Of this population, 89% were Caucasian, 66% male, and the median age was 55 years (range 23–77 years).
-Table 9 lists the adverse reactions that occurred in ≥2% of patients in any DYSPORT dose group and more frequent than placebo in the double blind study evaluating the treatment of lower limb spasticity in adults.
+Table 9 lists the adverse reactions that occurred in ≥2% of patients in any DYSPORT dose group and more frequent than placebo in the double-blind study evaluating the treatment of lower limb spasticity in adults.
 The most common of these adverse reactions (≥5%) in any DYSPORT dose group were falls, muscular weakness, and pain in extremity.
 
 Table 9: Adverse Reactions Observed in at Least 2% of Patients Treated in the Double-Blind Trial of Adult Patients with Lower Limb Spasticity and Reported More Frequently than with Placebo
@@ -242,7 +242,7 @@ Falls were reported more frequently in patients 65 years of age and over [see Us
 Lower Limb Spasticity in Pediatric Patients
 
 Table 10 reflects exposure to DYSPORT in 160 patients, 2 to 17 years of age, who were evaluated in the randomized, placebo-controlled clinical study that assessed the use of DYSPORT for the treatment of unilateral or bilateral lower limb spasticity in pediatric cerebral palsy patients [see Clinical Studies (14.4)].
-The most commonly observed adverse reactions (≥10% of patients) are: upper respiratory tract infection, nasopharyngitis, influenza, pharyngitis, cough and pyrexia.
+The most commonly observed adverse reactions (≥10% of patients) were: upper respiratory tract infection, nasopharyngitis, influenza, pharyngitis, cough and pyrexia.
 
 Table 10: Adverse Reactions Observed in ≥ 4% of Patients Treated in the Double-Blind Trial of Pediatric Patients with Lower Limb Spasticity and Reported More Frequently than with Placebo
 
@@ -311,7 +311,7 @@ An additional 51 subjects from a separate repeat-dose study were tested for the 
 None of the subjects tested positive.
 
 In total, from the 281 subjects treated in the long-term studies and tested for the presence of neutralizing antibodies, 3.6% developed neutralizing antibodies after treatment.
-In the presence of binding and neutralizing antibodies to DYSPORT some patients continue to experience clinical benefit.
+In the presence of binding and neutralizing antibodies to DYSPORT some patients continued to experience clinical benefit.
 
 Lower Limb Spasticity
 
@@ -320,7 +320,7 @@ No subjects developed neutralizing antibodies.
 An additional 85 subjects from two separate studies were tested for the presence of neutralizing antibodies only.
 One subject tested positive for the presence of neutralizing antibodies.
 
-In total, from the 452 subjects treated in with DYSPORT and tested for the presence of neutralizing antibodies, 0.2% developed neutralizing antibodies after treatment.
+In total, from the 452 subjects treated with DYSPORT and tested for the presence of neutralizing antibodies, 0.2% developed neutralizing antibodies after treatment.
 
 Lower Limb Spasticity in Pediatric Patients
 
