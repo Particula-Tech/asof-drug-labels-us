@@ -96,6 +96,7 @@ Before you take quetiapine, tell your healthcare provider if you have or have ha
   Quetiapine can pass into your breast milk.
   You and your healthcare provider should decide if you will take quetiapine or breastfeed.
   You should not do both.
+- •If you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
 
@@ -178,12 +179,13 @@ Quetiapine can cause serious side effects, including:
 - •Increases in blood pressure in children and teenagers.
   Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine and during therapy.
 - •Low white blood cell count.
+  Tell your healthcare provider as soon as possible if you have a fever, flu-like symptoms, or any other infection, as this could be a result of a very low white blood cell count.
+  Your healthcare provider may check your white blood cell level to determine if further treatment or other action is needed.
 - •Cataracts
 - •Seizures
 - •Abnormal thyroid tests.
   Your healthcare provider may do blood tests to check your thyroid hormone level.
 - •Increases in prolactin levels.
-  Your healthcare provider may do blood tests to check your prolactin levels.
 - •Sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities.
 - •Increased body temperature.
 - •Difficulty swallowing.
@@ -194,22 +196,30 @@ The most common side effects of quetiapine include:
 
 In Adults:
 
-- •Dry mouth
-- •Dizziness
-- •Weakness
-- •Abdominal pain
-- •Constipation
-- •Sore throat
-- •Difficulty moving
+- •drowsiness
+- •sudden drop in blood pressure upon standing
+- •weight gain
+- •sluggishness
+- •abnormal liver tests
+- •upset stomach
+- •dry mouth
+- •dizziness
+- •weakness
+- •abdominal pain
+- •constipation
+- •sore throat
 
 In Children and Adolescents:
 
-- •Nausea
-- •Dry mouth
-- •Weight gain
-- •Increased appetite
-- •Vomiting
-- •Rapid heart beat
+- •drowsiness
+- •dizziness
+- •fatigue
+- •nausea
+- •dry mouth
+- •weight gain
+- •increased appetite
+- •vomiting
+- •rapid heart beat
 
 These are not all the possible side effects of quetiapine.
 For more information, ask your healthcare provider or pharmacist.
@@ -246,6 +256,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/04
+10004966/05
 
-Revised March 2017
+Revised January 2019

@@ -71,7 +71,7 @@ Since quetiapine is extensively metabolized by the liver, higher plasma levels a
 
 Drug-Drug Interaction Studies: The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)].
 
-Table: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
+Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
 | Coadministered Drug | Dose Schedules |  | Effect on Quetiapine Pharmacokinetics |
 | --- | --- | --- | --- |
@@ -89,7 +89,7 @@ Table: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6 and 3A4.
 Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam (Table 18) [see Drug Interactions (7.2)].
 
-Table: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
+Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 
 | Coadministered Drug | Dose Schedules |  | Effects on Other Drugs Pharmacokinetics |
 | --- | --- | --- | --- |
