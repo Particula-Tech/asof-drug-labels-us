@@ -8,7 +8,7 @@ These hemodynamic changes may have protean manifestations, including increased i
 Laboratory determinations of serum levels of isosorbide dinitrate and its metabolites are not widely available, and such determinations have, in any event, no established role in the management of isosorbide dinitrate overdose.
 
 There are no data suggesting what dose of isosorbide dinitrate is likely to be life-threatening in humans.
-In rats, the median acute lethal dose (LD 50) was found to be 1100 mg/kg.
+In rats, the median acute lethal dose (LD50) was found to be 1100 mg/kg.
 
 No data are available to suggest physiological maneuvers (e.g., maneuvers to change the pH of the urine) that might accelerate elimination of isosorbide dinitrate and its active metabolites.
 Similarly, it is not known which, if any, of these substances can usefully be removed from the body by hemodialysis.

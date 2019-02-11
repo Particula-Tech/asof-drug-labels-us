@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 5 mg Label
 
-NDC 0187-0152-01
+NDC
 
 Rx only
 

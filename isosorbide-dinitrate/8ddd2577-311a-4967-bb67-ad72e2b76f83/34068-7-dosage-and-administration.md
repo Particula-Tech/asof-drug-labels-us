@@ -9,8 +9,8 @@ As also noted under CLINICAL PHARMACOLOGY, the effects of the second and later d
 Large controlled studies with other nitrates suggest that no dosing regimen with Isordil Titradose tablets should be expected to provide more than about 12 hours of continuous anti-anginal efficacy per day.
 
 As with all titratable drugs, it is important to administer the minimum dose which produces the desired clinical effect.
-The usual starting dose of Isordil Titradose is 5 mg to 20 mg, two or three times daily.
-For maintenance therapy, 10 mg to 40 mg, two or three times daily is recommended.
+The usual starting dose of Isordil Titradose is 5 mg to 20 mg two or three times daily.
+For maintenance therapy, 10 mg to 40 mg two or three times daily is recommended.
 Some patients may require higher doses.
 A daily dose-free interval of at least 14 hours is advisable to minimize tolerance.
 The optimal interval will vary with the individual patient, dose and regimen.

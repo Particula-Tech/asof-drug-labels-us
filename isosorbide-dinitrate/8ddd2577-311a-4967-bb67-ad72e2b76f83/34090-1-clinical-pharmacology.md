@@ -8,7 +8,7 @@ The relative importance of preload reduction, afterload reduction, and coronary 
 
 Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration.
 This strategy is inappropriate for organic nitrates.
-Several well-controlled clinical trials have used exercise testing to assess the anti-anginal efficacy of continuously-delivered nitrates.
+Several well-controlled clinical trials have used exercise testing to assess the anti-anginal efficacy of continuously delivered nitrates.
 In the large majority of these trials, active agents were no more effective than placebo after 24 hours (or less) of continuous therapy.
 Attempts to overcome nitrate tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed.
 Only after nitrates have been absent from the body for several hours has their anti-anginal efficacy been restored.
@@ -21,7 +21,7 @@ The average bioavailability of ISDN is about 25%; most studies have observed pro
 
 Once absorbed, the volume of distribution of isosorbide dinitrate is 2 to 4 L/kg, and this volume is cleared at the rate of 2 to 4 L/min, so ISDN's half-life in serum is about an hour.
 Since the clearance exceeds hepatic blood flow, considerable extra hepatic metabolism must also occur.
-Clearance is affected primarily by denitration to the 2-mononitrate (15 to 25%) and the 5-mononitrate (75 to 85%).
+Clearance is affected primarily by denitration to the 2-mononitrate (15% to 25%) and the 5-mononitrate (75% to 85%).
 
 Both metabolites have biological activity, especially the 5-mononitrate.
 With an overall half-life of about 5 hours, the 5-mononitrate is cleared from the serum by denitration to isosorbide, glucuronidation to the 5-mononitrate glucuronide, and denitration/hydration to sorbitol.
@@ -42,9 +42,9 @@ Controlled trials of single oral doses of isosorbide dinitrate have demonstrated
 Anti-anginal activity is present about 1 hour after dosing.
 
 Most controlled trials of multiple-dose oral ISDN taken every 12 hours (or more frequently) for several weeks have shown statistically significant anti-anginal efficacy for only 2 hours after dosing.
-Once-daily regimens, and regimens with one daily dose-free interval of at least 14 hours (e.g., a regimen providing doses at 0800, 1400, and 1800 hours), have shown efficacy after the first dose of each day that was similar to that shown in the single-dose studies cited above.
+Once-daily regimens, and regimens with one daily dose-free interval of at least 14 hours (e.g., a regimen providing doses at 8 am, 2 pm, and 6 pm), have shown efficacy after the first dose of each day that was similar to that shown in the single-dose studies cited above.
 The effects of the second and later doses have been smaller and shorter-lasting than the effect of the first.
 
 From large, well-controlled studies of other nitrates, it is reasonable to believe that the maximal achievable daily duration of anti-anginal effect from isosorbide dinitrate is about 12 hours.
 No dosing regimen for isosorbide dinitrate, however, has ever actually been shown to achieve this duration of effect.
-One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 0800, 1300, and 1800 hours for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24 hour period.
+One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 8 am, 1 pm, and 6 pm for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24-hour period.
