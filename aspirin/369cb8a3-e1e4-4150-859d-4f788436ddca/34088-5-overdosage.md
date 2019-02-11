@@ -25,7 +25,7 @@ Administer replacement fluid intravenously and augment with correction of acidos
 Treatment may require the use of a vasopressor.
 Infusion of glucose may be required to control hypoglycemia.
 
-Administration of xanthine derivatives (e.g., aminophylline) may reverse the hemodynamic effects of dipyridamole overdose.
+Administration of xanthine derivatives (e.g., aminophylline) may reverse the vasodilatory effects of dipyridamole overdose.
 Plasma electrolytes and pH should be monitored serially to promote alkaline diuresis of salicylate if renal function is normal.
 In patients with renal insufficiency or in cases of life-threatening intoxication, dialysis is usually required to treat salicylic overdose; however, since dipyridamole is highly protein bound, dialysis is not likely to remove dipyridamole.
 Exchange transfusion may be indicated in infants and young children.

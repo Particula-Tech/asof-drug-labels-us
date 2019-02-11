@@ -9,7 +9,7 @@ Adjustment of adenosine dosage may be necessary.
 
 Angiotensin Converting Enzyme (ACE) Inhibitors
 
-Due to the indirect effect of aspirin on the renin-angiotensin conversion pathway, the hyponatremic and hypotensive effects of ACE inhibitors may be diminished by concomitant administration of aspirin.
+Because of the indirect effect of aspirin on the renin-angiotensin conversion pathway, the hyponatremic and hypotensive effects of ACE inhibitors may be diminished by concomitant administration of aspirin.
 
 Acetazolamide
 

@@ -6,9 +6,9 @@ Aspirin and extended-release dipyridamole capsules are contraindicated in patien
 
 ## 4.2 Allergy
 
-Aspirin, USP is contraindicated in patients with known allergy to nonsteroidal anti-inflammatory drug (NSAID) products and in patients with the syndrome of asthma, rhinitis and nasal polyps.
-Aspirin, USP may cause severe urticaria, angioedema or bronchospasm.
+Aspirin is contraindicated in patients with known allergy to nonsteroidal anti-inflammatory drug (NSAID) products and in patients with the syndrome of asthma, rhinitis and nasal polyps.
+Aspirin may cause severe urticaria, angioedema or bronchospasm.
 
 ## 4.3 Reye Syndrome
 
-Do not use aspirin, USP in children or teenagers with viral infections because of the risk of Reye syndrome.
+Do not use aspirin in children or teenagers with viral infections because of the risk of Reye syndrome.

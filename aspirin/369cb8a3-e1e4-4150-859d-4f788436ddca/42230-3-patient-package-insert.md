@@ -1,7 +1,5 @@
 # Patient Information
 
-Patient Information
-
 Aspirin (AS-pir-in) and Extended-release Dipyridamole (dye-pir-ID-a-mole) Capsules
 
 Read this Patient Information before you start taking aspirin and extended-release dipyridamole capsules and each time you get a refill.
@@ -40,14 +38,13 @@ Before taking aspirin and extended-release dipyridamole capsules, tell your heal
 - have myasthenia gravis
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  Aspirin and extended-release dipyridamole capsules can harm your unborn baby, especially if you take it in the last (third) trimester of pregnancy.
   You should not take aspirin and extended-release dipyridamole capsules during pregnancy without first talking to your healthcare provider.
   Tell your healthcare provider right away if you become pregnant while taking aspirin and extended-release dipyridamole capsules.
 - are breast-feeding or plan to breast-feed.
-  Aspirin and extended-release dipyridamole can pass into your milk and may harm your baby.
+  Aspirin and extended-release dipyridamole can pass into your milk.
   Talk to your healthcare provider about the best way to feed your baby if you take aspirin and extended-release dipyridamole capsules.
 
-Tell your doctor about all the medicines you take, including, prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Aspirin and extended-release dipyridamole capsules and other medicines may affect each other causing side effects.
 Aspirin and extended-release dipyridamole capsules may affect the way other medicines work, and other medicines may affect how aspirin and extended-release dipyridamole capsules works.
 
@@ -101,26 +98,26 @@ What should I avoid while using aspirin and extended-release dipyridamole capsul
 
 - heavy alcohol use.
   People who drink three or more alcoholic drinks every day have a higher risk of bleeding during treatment with aspirin and extended-release dipyridamole capsules, because it contains aspirin.
-
-What are the possible side effects of aspirin and extended-release dipyridamole capsules?
-
-Aspirin and extended-release dipyridamole capsules may cause serious side effects, including:
-
+  What are the possible side effects of aspirin and extended-release dipyridamole capsules?
+  Aspirin and extended-release dipyridamole capsules may cause serious side effects, including:
 - increased risk of bleeding.
   You may bleed more easily during aspirin and extended-release dipyridamole capsules treatment, and it may take longer than usual for bleeding to stop.
   This can include:
 - bleeding into your brain (intracranial hemorrhage).
   This can be a medical emergency.
   Get medical help right away if you have any of these symptoms while taking aspirin and extended-release dipyridamole capsules:
+
 - severe headache with drowsiness
 - confusion or memory change
 - pass out (become unconscious)
+
 - bleeding in your stomach or intestine.
 - stomach pain
 - heartburn or nausea
 - vomiting blood or vomit looks like “coffee grounds”
 - red or bloody stools
 - black stools that look like tar
+
 - new or worsening chest pain in some people with heart disease.
   Tell your healthcare provider if you have new chest pain or have any change in your chest pain during treatment with aspirin and extended-release dipyridamole capsules.
 - liver problems, including increased liver function tests and liver failure.
@@ -148,9 +145,8 @@ You may report side effects to FDA at 1-800-FDA­-1088.
 
 How should I store aspirin and extended-release dipyridamole capsules?
 
-- Store aspirin and extended-release dipyridamole capsules at 59°F to 86°F (15°C to 30°C).
+- Store aspirin and extended-release dipyridamole capsules at 68° to 77°F (20° to 25°C).
 - Keep aspirin and extended-release dipyridamole capsules dry.
-- Safely throw away medicine that is out of date or no longer needed.
 
 Keep aspirin and extended-release dipyridamole capsules and all medicines out of the reach of children.
 
@@ -176,7 +172,7 @@ Each capsule shell contains D&C Yellow #10, gelatin, iron oxide red, iron oxide 
 
 The imprinting inks contain butyl alcohol, D&C Yellow #10, dehydrated alcohol, FD&C Red #40, isopropyl alcohol, povidone, propylene glycol, shellac, sodium hydroxide and titanium dioxide.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2015-00
+01-2019-01
