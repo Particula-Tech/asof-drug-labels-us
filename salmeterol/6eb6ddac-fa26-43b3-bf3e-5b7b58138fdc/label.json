@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021077"
+  ],
+  "inn": "salmeterol",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-584-97",
+    "66993-585-97",
+    "66993-586-97"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone propionate and salmeterol",
+      "name": "Fluticasone Propionate and Salmeterol"
+    }
+  ],
+  "setid": "6eb6ddac-fa26-43b3-bf3e-5b7b58138fdc",
+  "source": "dailymed"
+}
