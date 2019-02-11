@@ -8,7 +8,7 @@ Entecavir tablets should be administered on an empty stomach (at least 2 hours a
 
 Compensated Liver Disease
 
-The recommended dose of entecavir tablets for chronic hepatitis B virus infection in nucleoside- inhibitor-treatment-naÏve adults and adolescents 16 years of age and older is 0.5 mg once daily.
+The recommended dose of entecavir tablets for chronic hepatitis B virus infection in nucleoside- inhibitor-treatment-naïve adults and adolescents 16 years of age and older is 0.5 mg once daily.
 
 The recommended dose of entecavir tablets in adults and adolescents (at least 16 years of age) with a history of hepatitis B viremia while receiving lamivudine or known lamivudine or telbivudine resistance substitutions rtM204I/V with or without rtL180M, rtL80I/V, or rtV173L is 1 mg once daily.
 

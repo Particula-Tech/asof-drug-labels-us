@@ -5,9 +5,11 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Exacerbations of hepatitis after discontinuation of treatment [seeBoxed Warning, Warnings and Precautions (5.1)].
 - Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 
-## 6.1 Clinical Trial Experience in Adults
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Clinical Trial Experience in Adults
 
 Compensated Liver Disease
 
@@ -49,9 +51,9 @@ Frequencies of selected treatment-emergent laboratory abnormalities reported dur
 
 | Table 4: | Selected Treatment-Emergent a Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Nucleoside- Inhibitor-Naïve b |  | Lamivudine- Refractory c |  |
+|  | Nucleoside- Inhibitor-Naïveb |  | Lamivudine- Refractoryc |  |
 | Test | Entecavir 0.5mg n= 679 | Lamivudine 100mg n= 668 | Entecavir 1mg n= 183 | Lamivudine 100mg n= 190 |
-| Any Grade 3-4 laboratory abnormality d | 35% | 36% | 37% | 45% |
+| Any Grade 3-4 laboratory abnormalityd | 35% | 36% | 37% | 45% |
 | ALT>10 x ULN and >2 x baseline | 2% | 4% | 2% | 11% |
 | ALT>5 x ULN | 11% | 16% | 12% | 24% |
 | Albumin <2.5g/dL | <1% | <1% | 0 | 2% |
@@ -60,8 +62,8 @@ Frequencies of selected treatment-emergent laboratory abnormalities reported dur
 | Creatinine >3 x ULN | 0 | 0 | 0 | 0 |
 | Confirmed creatinine increase ≥0.5mg/dL | 1% | 1% | 2% | 1% |
 | Hyperglycemia, fasting >250mg/dL | 2% | 1% | 3% | 1% |
-| Glycosuria e | 4% | 3% | 4% | 6% |
-| Hematuria f | 9% | 10% | 9% | 6% |
+| Glycosuriae | 4% | 3% | 4% | 6% |
+| Hematuriaf | 9% | 10% | 9% | 6% |
 | Platelets<50,000/mm3 | <1% | <1% | <1% | <1% |
 | a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase ≥0.5 mg/dL, and ALT >10 X ULN and >2 X baseline. |  |  |  |  |
 | b Studies AI463022 and AI463027. |  |  |  |  |
@@ -75,17 +77,17 @@ Among entecavir -treated subjects in these studies, on-treatment ALT elevations 
 A majority of these exacerbations were associated with a ≥2 log10/mL reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment.
 
-Exacerbations of Hepatitis after Discontinuation of Treatment
+Exacerbations of Hepatitis After Discontinuation of Treatment
 
 An exacerbation of hepatitis or ALT flare was defined as ALT greater than 10 times ULN and greater than 2 times the subject's reference level (minimum of the baseline or last measurement at end of dosing).
 For all subjects who discontinued treatment (regardless of reason), Table 5 presents the proportion of subjects in each study who experienced post-treatment ALT flares.
 In these studies, a subset of subjects was allowed to discontinue treatment at or after 52 weeks if they achieved a protocol-defined response to therapy.
 If entecavir is discontinued without regard to treatment response, the rate of post-treatment flares could be higher.
-[See Warnings and Precautions (5.1).]
+[See Warnings and Precautions (5.1)].
 
 | Table 5: | Exacerbations of Hepatitis During Subjects in Studies AI463022, |  | Off-Treatment Follow-up, AI463027, and AI463026 |
 | --- | --- | --- | --- |
-|  | Subjects with ALT Elevations >10 | x ULN and >2 x Reference a |  |
+|  | Subjects with ALT Elevations >10 | x ULN and >2 x Referencea |  |
 |  | Entecavir | Lamivudine |  |
 | Nucleoside-inhibitor-naïve |  |  |  |
 | HBeAg-positive | 4/174 (2%) | 13/147 (9%) |  |
@@ -113,17 +115,9 @@ The safety profile of entecavir 1 mg (n=51) in HIV/HBV co-infected subjects enro
 
 Liver Transplant Recipients
 
-Among 65 subjects receiving entecavir in an open-label, post-liver transplant trial [see Use
+Among 65 subjects receiving entecavir in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 
-in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with
-
-those expected in patients who have received a liver transplant and the known safety profile of
-
-entecavir.
-
-## 6.2 Clinical Trial Experience in Pediatric Subjects
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Clinical Trial Experience in Pediatric Subjects
 
 The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
 These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.

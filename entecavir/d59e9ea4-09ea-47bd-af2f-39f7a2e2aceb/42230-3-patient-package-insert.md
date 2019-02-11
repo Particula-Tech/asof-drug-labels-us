@@ -181,4 +181,4 @@ Suite 130, Sunrise, FL 33323
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 7/2018
+Revised: 01/2019
