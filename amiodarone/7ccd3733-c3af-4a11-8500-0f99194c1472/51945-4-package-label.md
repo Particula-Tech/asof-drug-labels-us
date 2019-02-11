@@ -16,9 +16,9 @@ Rx only
 
 TARO
 
-NDC 51672-4025-3
+NDC 51672-4025-4
 
-1000 Tablets
+60 Tablets
 
 Amiodarone HCl Tablets 200 mg
 
