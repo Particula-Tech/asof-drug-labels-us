@@ -1,5 +1,17 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-# Package/Label Display Panel
+Codeine Sulfate Tablets USP, 15 mg
 
-# Package/Label Display Panel
+0054-0243-24, Rx only
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Codeine Sulfate Tablets USP, 30 mg
+
+0054-0244-25, Rx only
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Codeine Sulfate Tablets USP, 60 mg
+
+0054-0245-25, Rx only

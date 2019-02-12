@@ -4,11 +4,11 @@ Codeine Sulfate Tablets USP
 
 15 mg tablet:supplied as white to off-white biconvex tablets with “15” debossed on the scored side and “54 613” debossed on the other side.
 
-NDC 0054-0243-24: 100 (4 blister packs per carton x 25 tablets per blister pack) Unit-Dose Tablets
+NDC 0054-0243-24: 10 x 10 Unit-Dose
 
 30 mg tablet: supplied as white to off-white biconvex tablets with “30” debossed on the scored side and “54 783” debossed on the other side.
 
-NDC 0054-0244-24: 100 (4 blister packs per carton x 25 tablets per blister pack) Unit-Dose Tablets
+NDC 0054-0244-24: 10 x 10 Unit-Dose
 
 NDC 0054-0244-25: Bottle of 100 Tablets
 
