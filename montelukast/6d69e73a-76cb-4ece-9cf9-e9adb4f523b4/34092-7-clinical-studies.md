@@ -6,7 +6,7 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 
 Clinical trials in adults and adolescents 15 years of age and older demonstrated there is no additional clinical benefit to montelukast doses above 10 mg once daily.
 
-The efficacy of montelukast sodium for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1,576 patients (795 treated with montelukast, sodium 530 treated with placebo, and 251 treated with active control).
+The efficacy of montelukast sodium for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1,576 patients (795 treated with montelukast sodium, 530 treated with placebo, and 251 treated with active control).
 The median age was 33 years (range 15 to 85); 56.8% were females and 43.2% were males.
 The ethnic/racial distribution in these studies was 71.6% Caucasian, 17.7% Hispanic, 7.2% other origins and 3.5% Black.
 Patients had mild or moderate asthma and were non-smokers who required approximately 5 puffs of inhaled β-agonist per day on an “as-needed” basis.
@@ -97,7 +97,7 @@ The effect of montelukast sodium on the bronchoconstrictor response to aspirin o
 
 Exercise-Induced Bronchoconstriction (Adults, Adolescents, and Pediatric Patients 6 years of age and older)
 
-The efficacy of montelukast sodium, 10 mg, when given as a single dose 2 hours before exercise for the prevention of EIB was investigated in three (U.S. and Multinational), randomized, double-blind, placebo-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with EIB.
+The efficacy of montelukast sodium 10 mg, when given as a single dose 2 hours before exercise for the prevention of EIB was investigated in three (U.S. and Multinational), randomized, double-blind, placebo-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with EIB.
 Exercise challenge testing was conducted at 2 hours, 8.5 or 12 hours, and 24 hours following administration of a single dose of study drug (montelukast sodium 10 mg or placebo).
 The primary endpoint was the mean maximum percent fall in FEV1 following the 2 hours post-dose exercise challenge in all three studies (Study A, Study B, and Study C). In Study A, a single dose of montelukast sodium 10 mg demonstrated a statistically significant protective benefit against EIB when taken 2 hours prior to exercise.
 Some patients were protected from EIB at 8.5 and 24 hours after administration; however, some patients were not.
@@ -122,7 +122,7 @@ Similar results were shown at 24 hours post-dose (a secondary endpoint).
 Some patients were protected from EIB at 24 hours after administration; however, some patients were not.
 No timepoints were assessed between 2 and 24 hours post-dose.
 
-Table 4: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Pediatric Patients (N=64) ANOVA Model
+TABLE 4: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Pediatric Patients (N=64) ANOVA Model
 
 | Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for montelukast sodium versus Placebo (95% CI)* |
 | --- | --- | --- | --- |

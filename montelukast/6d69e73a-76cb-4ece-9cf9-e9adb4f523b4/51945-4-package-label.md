@@ -8,8 +8,6 @@ For Pediatric Patients 6 to 14 years of age
 
 5 mg
 
-PHARMACIST: Please dispense with Patient Information provided separately
-
 30 Tablets
 
 # Principal Display Panel
@@ -22,8 +20,6 @@ For Adults 15 years of Age and older
 
 10 mg
 
-PHARMACIST: Please dispense with Patient Information provided separately
-
 30 Tablets
 
 # Principal Display Panel
@@ -35,7 +31,5 @@ Montelukast Sodium Chewable Tablets
 For Pediatric Patients 2 to 5 years of age
 
 4 mg
-
-PHARMACIST: Please dispense with Patient Information provided separately
 
 30 Tablets

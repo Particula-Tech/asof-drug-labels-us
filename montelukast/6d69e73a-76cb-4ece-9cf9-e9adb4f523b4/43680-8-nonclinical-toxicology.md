@@ -11,11 +11,3 @@ Montelukast demonstrated no evidence of mutagenic or clastogenic activity in the
 In fertility studies in female rats, montelukast produced reductions in fertility and fecundity indices at an oral dose of 200 mg/kg (estimated exposure was approximately 70 times the AUC for adults at the maximum recommended daily oral dose).
 No effects on female fertility or fecundity were observed at an oral dose of 100 mg/kg (estimated exposure was approximately 20 times the AUC for adults at the maximum recommended daily oral dose).
 Montelukast had no effects on fertility in male rats at oral doses up to 800 mg/kg (estimated exposure was approximately 160 times the AUC for adults at the maximum recommended daily oral dose).
-
-## 13.2 Animal Toxicology and/or Pharmacology
-
-Reproductive Toxicology Studies
-
-No teratogenicity was observed at oral doses up to 400 mg/kg/day and 300 mg/kg/day in rats and rabbits, respectively.
-These doses were approximately 100 and 110 times the maximum recommended daily oral dose in adults, respectively, based on AUCs.
-Montelukast crosses the placenta following oral dosing in rats and rabbits [see Pregnancy (8.1)].

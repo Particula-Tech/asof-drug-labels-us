@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-SeeFDA-Approved Patient Labeling (Patient Information).
+Advise the patient to read the FDA-Approved Patient Labeling (Patient Information).
 
 Information for Patients
 
@@ -29,7 +29,7 @@ What is montelukast sodium tablet?
 
 - •Montelukast sodium tablet is a prescription medicine that blocks substances in the body called leukotrienes.
   This may help to improve symptoms of asthma and allergic rhinitis.
-  Montelukast sodium tablet does not contain a steroid.
+  Montelukast sodium tablets does not contain a steroid.
 
 Montelukast sodium tablet is used to:
 
@@ -57,13 +57,13 @@ Before taking montelukast sodium tablets, tell your healthcare provider if you:
   Montelukast sodium chewable tablets contain aspartame, a source of phenylalanine
 - •have any other medical conditions
 - •are pregnant or plan to become pregnant.
-  Talk to your doctor if you are pregnant or plan to become pregnant, montelukast sodium tablets may not be right for you.
+  Talk to your doctor if you are pregnant or plan to become pregnant, as montelukast sodium tablets may not be right for you.
 - •are breast-feeding or plan to breast-feed.
   It is not known if montelukast sodium passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking montelukast sodium tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Some medicines may affect how montelukast sodium tablets works, or montelukast sodium tablets may affect how your other medicines work.
+Some medicines may affect how montelukast sodium works, or montelukast sodium may affect how your other medicines work.
 
 How should I take montelukast sodium tablets?
 
@@ -73,9 +73,9 @@ For anyone who takes montelukast sodium tablets:
   Your healthcare provider will tell you how much montelukast sodium tablets to take, and when to take it.
 - •Do not stop taking montelukast sodium tablets or change when you take it without talking with your healthcare provider.
 - •You can take montelukast sodium tablets with food or without food.
-- •If you or your child misses a dose of montelukast sodium tablets just take the next dose at your regular time.
+- •If you or your child misses a dose of montelukast sodium tablets, just take the next dose at your regular time.
   Do not take 2 doses at the same time.
-- •If you take too many montelukast sodium tablets call your healthcare provider or a Poison Control Center right away.
+- •If you take too many montelukast sodium tablets, call your healthcare provider or a Poison Control Center right away.
 
 For adults and children 2 years of age and older with asthma:
 
@@ -103,7 +103,7 @@ What is the dose of montelukast sodium tablets?
 
 The dose of montelukast sodium tablets prescribed for your or your child's condition is based on age:
 
-- •2 to 5 years: one 4 mg chewable tablet
+- •2 to 5 years: one 4 mg chewable tablet.
 - •6 to 14 years: one 5 mg chewable tablet.
 - •15 years and older: one 10 mg tablet.
 
@@ -126,6 +126,7 @@ Montelukast sodium tablets may cause serious side effects.
 - •hallucinations (seeing or hearing things that are not really there)
 - •irritability
 - •memory problems
+- •obsessive-compulsive symptoms
 - •restlessness
 - •sleep walking
 - •suicidal thoughts and actions (including suicide)
@@ -204,15 +205,15 @@ Inactive ingredients:
 
 10 mg tablet: croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, red ferric oxide, titanium dioxide, and yellow ferric oxide.
 
-4 mg and 5 mg chewable tablets: artificial cherry durarome flavor, aspartame, cherry flavor croscarmellose sodium, hydroxypropyl cellulose, magnesium stearate, mannitol, microcrystalline cellulose, and red ferric oxide.
+4 mg and 5 mg chewable tablets: artificial cherry durarome flavor, aspartame, cherry flavor, croscarmellose sodium, hydroxypropyl cellulose, magnesium stearate, mannitol, microcrystalline cellulose, and red ferric oxide.
 
-The artificial cherry durarome flavor contain: artificial flavors, maltodextrin, red # 40, silicon dioxide, soy lecithin and sugar.
+The artificial cherry durarome flavor contains artificial flavors, maltodextrin, red # 40, silicon dioxide, soy lecithin and sugar.
 
-The cherry flavor contain: artificial flavors, benzyl alcohol, lactic acid, and maltodextrin.
+The cherry flavor contains: artificial flavors, benzyl alcohol, lactic acid, and maltodextrin.
 
 Manufactured in India by Sandoz Private Ltd.
 
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-February 2017
+January 2019
