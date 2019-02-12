@@ -412,3 +412,8 @@ Based on its mechanism of action and data from animal studies, OPDIVO can cause 
 In animal reproduction studies, administration of nivolumab to cynomolgus monkeys from the onset of organogenesis through delivery resulted in increased abortion and premature infant death.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with an OPDIVO-containing regimen and for at least 5 months after the last dose of OPDIVO [see Use in Specific Populations (8.1, 8.3)].
+
+## 5.12 Increased Mortality in Patients with Multiple Myeloma when OPDIVO Is Added to a Thalidomide Analogue and Dexamethasone
+
+In randomized clinical trials in patients with multiple myeloma, the addition of a PD-1 blocking antibody, including OPDIVO, to a thalidomide analogue plus dexamethasone, a use for which no PD-1 or PD-L1 blocking antibody is indicated, resulted in increased mortality.
+Treatment of patients with multiple myeloma with a PD-1 or PD-L1 blocking antibody in combination with a thalidomide analogue plus dexamethasone is not recommended outside of controlled clinical trials.
