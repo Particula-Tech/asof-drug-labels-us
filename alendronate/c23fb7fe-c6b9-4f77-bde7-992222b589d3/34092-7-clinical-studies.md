@@ -19,7 +19,7 @@ In both studies of FIT, 96% of randomized patients completed the studies (i.e., 
 
 Fracture Intervention Trial: Three-Year Study (patients with at least one baseline radiographic vertebral fracture)
 
-This randomized, double-blind, placebo-controlled, 2027-patient study (alendronate sodium, n=1022; placebo, n=1005) demonstrated that treatment with alendronate sodium resulted in statistically significant reductions in fracture incidence at three years as shown in Table 6.
+This randomized, double-blind, placebo-controlled, 2027 patient study (alendronate sodium, n = 1022; placebo, n = 1005) demonstrated that treatment with alendronate sodium resulted in statistically significant reductions in fracture incidence at three years as shown in Table 6.
 
 Table 6: Effect of Alendronate Sodium on Fracture Incidence in the Three-Year Study of FIT (Patients With Vertebral Fracture at Baseline)
 
@@ -27,18 +27,18 @@ Table 6: Effect of Alendronate Sodium on Fracture Incidence in the Three-Year St
 | --- | --- | --- | --- | --- |
 |  | Alendronate Sodium (n = 1022) | Placebo (n = 1005) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk % |
 | Patients with: |  |  |  |  |
-| Vertebral fractures (diagnosed by X-ray)Number evaluable for vertebral fractures: alendronate sodium, n=984; placebo, n=966 |  |  |  |  |
-| ≥ 1 new vertebral fracture | 7.9 | 15.0 | 7.1 | 47p<0.001, |
+| Vertebral fractures (diagnosed by X-ray)Number evaluable for vertebral fractures: alendronate sodium, n = 984; placebo, n = 966 |  |  |  |  |
+| ≥ 1 new vertebral fracture | 7.9 | 15.0 | 7.1 | 47p < 0.001 |
 | ≥ 2 new vertebral fractures | 0.5 | 4.9 | 4.4 | 90 |
 | Clinical (symptomatic) fractures |  |  |  |  |
-| Any clinical symptomatic) fracture | 13.8 | 18.1 | 4.3 | 26p=0.007, |
-| ≥ 1 clinical (symptomatic) vertebral fracture | 2.3 | 5.0 | 2.7 | 54p<0.01, |
-| Hip fracture | 1.1 | 2.2 | 1.1 | 51p<0.05 |
+| Any clinical symptomatic) fracture | 13.8 | 18.1 | 4.3 | 26p = 0.007 |
+| ≥ 1 clinical (symptomatic) vertebral fracture | 2.3 | 5.0 | 2.7 | 54p < 0.01 |
+| Hip fracture | 1.1 | 2.2 | 1.1 | 51p < 0.05 |
 | Wrist (forearm) fracture | 2.2 | 4.1 | 1.9 | 48 |
 
-Furthermore, in this population of patients with baseline vertebral fracture, treatment with Alendronate sodium significantly reduced the incidence of hospitalizations (25.0% vs. 30.7%).
+Furthermore, in this population of patients with baseline vertebral fracture, treatment with alendronate sodium significantly reduced the incidence of hospitalizations (25.0% vs. 30.7%).
 
-In the Three-Year Study of FIT, fractures of the hip occurred in 22 (2.2%) of 1005 patients on placebo and 11 (1.1%) of 1022 patients on alendronate sodium, p=0.047.
+In the Three-Year Study of FIT, fractures of the hip occurred in 22 (2.2%) of 1005 patients on placebo and 11 (1.1%) of 1022 patients on alendronate sodium, p = 0.047.
 Figure 1 displays the cumulative incidence of hip fractures in this study.
 
 Figure 1: Cumulative Incidence of Hip Fractures in the Three-Year Study of FIT (Patients With Radiographic Vertebral Fracture at Baseline)
@@ -50,17 +50,17 @@ The intent of the study was to recruit women with osteoporosis, defined as a bas
 However, due to subsequent revisions to the normative values for femoral neck BMD, 31% of patients were found not to meet this entry criterion and thus this study included both osteoporotic and non-osteoporotic women.
 The results are shown in Table 7 for the patients with osteoporosis.
 
-Table 7: Effect of Alendronate Sodium on Fracture Incidence in OsteoporoticBaseline femoral neck BMD at least 2 SD below the mean for young adult womenPatients in the Four-Year Study of FIT (Patients Without Vertebral Fracture at Baseline)
+Table 7: Effect of Alendronate Sodium on Fracture Incidence in Osteoporotic* Patients in the Four-Year Study of FIT (Patients Without Vertebral Fracture at Baseline)
 
 |  | Percent of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Alendronate Sodium (n = 1545) | Placebo (n = 1521) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk (%) |
 | Patients with: |  |  |  |  |
-| Vertebral fractures (diagnosed by X-ray)Number evaluable for vertebral fractures: alendronate sodium, n=1426; placebo, n=1428 |  |  |  |  |
-| ≥ 1 new vertebral fracture | 2.5 | 4.8 | 2.3 | 48p<0.001, |
-| ≥ 2 new vertebral fractures | 0.1 | 0.6 | 0.5 | 78p=0.035, |
+| Vertebral fractures (diagnosed by X-ray)Number evaluable for vertebral fractures: alendronate sodium, n = 1426; placebo, n = 1428 |  |  |  |  |
+| ≥ 1 new vertebral fracture | 2.5 | 4.8 | 2.3 | 48p < 0.001 |
+| ≥ 2 new vertebral fractures | 0.1 | 0.6 | 0.5 | 78p = 0.035 |
 | Clinical (symptomatic) fractures |  |  |  |  |
-| Any clinical (symptomatic) fracture | 12.9 | 16.2 | 3.3 | 22p=0.01 |
+| Any clinical (symptomatic) fracture | 12.9 | 16.2 | 3.3 | 22p = 0.01 |
 | ≥ 1 clinical (symptomatic) vertebral fracture | 1.0 | 1.6 | 0.6 | 41 (NS)Not significant. This study was not powered to detect differences at these sites. |
 | Hip fracture | 1.0 | 1.4 | 0.4 | 29 (NS) |
 | Wrist (forearm) fracture | 3.9 | 3.8 | -0.1 | NS |

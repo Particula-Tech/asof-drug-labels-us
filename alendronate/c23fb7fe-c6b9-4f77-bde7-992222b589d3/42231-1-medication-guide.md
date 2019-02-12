@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 ALENDRONATE (a-LEN-droe-nate) SODIUM TABLETS USP
 
@@ -119,7 +119,10 @@ How should I take alendronate sodium tablets?
 
 - Take alendronate sodium tablets exactly as your doctor tells you.
 - Alendronate sodium tablets work only if taken on an empty stomach.
+- Take alendronate sodium tablets, after you get up for the day and before taking your first food, drink, or other medicine.
 - Take alendronate sodium tablets while you are sitting or standing.
+- Do not chew or suck on a tablet of alendronate sodium.
+- Swallow alendronate sodium tablets with a full glass (6 to 8 oz) of plain water only.
 - Do not take alendronate sodium tablets with mineral water, coffee, tea, soda, or juice.
   - If you take Alendronate Daily:
     - Take 1 alendronate tablet one time a day, every day after you get for the day and before taking your first food, drink, or other medicine

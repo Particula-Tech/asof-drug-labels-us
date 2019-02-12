@@ -14,7 +14,7 @@ The recommended dosage is:
 - one 35 mg tablet once weekly or
 - one 5 mg tablet once daily
 
-## 2.3 Treatment to Increase Bone Mass in Men with Osteoporosis
+## 2.3 Treatment to Increase Bone Mass in Men With Osteoporosis
 
 The recommended dosage is:
 
@@ -31,7 +31,7 @@ The recommended treatment regimen is 40 mg once a day for six months.
 
 Re-treatment of Paget's Disease
 
-Re-treatment with alendronate sodium tablets may be considered, following a six-month post-treatment evaluation period in patients who have relapsed, based on increases in serum alkaline phosphatase, which should be measured periodically.
+Re-treatment with alendronate sodium tablets may be considered, following a six month post-treatment evaluation period in patients who have relapsed, based on increases in serum alkaline phosphatase, which should be measured periodically.
 Re-treatment may also be considered in those who failed to normalize their serum alkaline phosphatase.
 
 ## 2.6 Important Administration Instructions

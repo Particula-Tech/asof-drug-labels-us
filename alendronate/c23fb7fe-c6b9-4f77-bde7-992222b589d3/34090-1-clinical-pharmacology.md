@@ -6,7 +6,7 @@ Animal studies have indicated the following mode of action.
 At the cellular level, alendronate shows preferential localization to sites of bone resorption, specifically under osteoclasts.
 The osteoclasts adhere normally to the bone surface but lack the ruffled border that is indicative of active resorption.
 Alendronate does not interfere with osteoclast recruitment or attachment, but it does inhibit osteoclast activity.
-Studies in mice on the localization of radioactive [3H]alendronate in bone showed about 10-fold higher uptake on osteoclast surfaces than on osteoblast surfaces.
+Studies in mice on the localization of radioactive [3H]alendronate in bone showed about 10 fold higher uptake on osteoclast surfaces than on osteoblast surfaces.
 Bones examined 6 and 49 days after [3H]alendronate administration in rats and mice, respectively, showed that normal bone was formed on top of the alendronate, which was incorporated inside the matrix.
 While incorporated in bone matrix, alendronate is not pharmacologically active.
 Thus, alendronate must be continuously administered to suppress osteoclasts on newly formed resorption surfaces.

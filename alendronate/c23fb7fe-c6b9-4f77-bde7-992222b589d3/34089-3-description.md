@@ -3,7 +3,7 @@
 Alendronate Sodium Tablets USP is a bisphosphonate that acts as a specific inhibitor of osteoclast-mediated bone resorption.
 Bisphosphonates are synthetic analogs of pyrophosphate that bind to the hydroxyapatite found in bone.
 
-Alendronate sodium is chemically described as (4-amino-1-hydroxybutylidene) bisphosphonic acid monosodium salt trihydrate.
+Alendronate sodium, USP is chemically described as (4-amino-1-hydroxybutylidene) bisphosphonic acid monosodium salt trihydrate.
 
 The structural formula is:
 

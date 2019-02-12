@@ -9,7 +9,7 @@ Therefore, instruct patients to wait at least one-half hour after taking alendro
 
 In clinical studies, the incidence of upper gastrointestinal adverse events was increased in patients receiving concomitant therapy with daily doses of alendronate, the free acid greater than 10 mg and aspirin-containing products.
 
-## 7.3 Nonsteroidal Anti-Inflammatory Drugs
+## 7.3 Non-Steroidal Anti-Inflammatory Drugs
 
 Alendronate sodium may be administered to patients taking non-steroidal anti-inflammatory drugs (NSAIDs).
 In a 3 year, controlled, clinical study (n = 2027) during which a majority of patients received concomitant NSAIDs, the incidence of upper gastrointestinal adverse events was similar in patients taking alendronate, the free acid 5 or 10 mg/day compared to those taking placebo.

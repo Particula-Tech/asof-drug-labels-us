@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category C:
+Teratogenic Effects Pregnancy category C
 
 There are no studies in pregnant women.
 Alendronate sodium should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
@@ -49,12 +49,11 @@ However, there was an increased occurrence of vomiting in osteogenesis imperfect
 During the 24 month treatment period, vomiting was observed in 32 of 109 (29.4%) patients treated with alendronate sodium and 3 of 30 (10%) patients treated with placebo.
 
 In a pharmacokinetic study, 6 of 24 pediatric osteogenesis imperfecta patients who received a single oral dose of alendronate, the free acid 35 or 70 mg developed fever, flu-like symptoms, and/or mild lymphocytopenia within 24 to 48 hours after administration.
-These events, lasting no more than 2 to 3 days and responding to acetaminophen, are consistent with an acute-phase response that has been reported in patients receiving bisphosphonates, including alendronate sodium.
-[See Adverse Reactions (6.2).]
+These events, lasting no more than 2 to 3 days and responding to acetaminophen, are consistent with an acute-phase response that has been reported in patients receiving bisphosphonates, including alendronate sodium [see Adverse Reactions (6.2)].
 
 ## 8.5 Geriatric Use
 
-Of the patients receiving alendronate sodium in the Fracture Intervention Trial (FIT), 71% (n=2302) were greater than or equal to 65 years of age and 17% (n=550) were greater than or equal to 75 years of age.
+Of the patients receiving alendronate sodium in the Fracture Intervention Trial (FIT), 71% (n = 2302) were greater than or equal to 65 years of age and 17% (n = 550) were greater than or equal to 75 years of age.
 Of the patients receiving alendronate sodium in the United States and Multinational osteoporosis treatment studies in women, osteoporosis studies in men, glucocorticoid-induced osteoporosis studies, and Paget's disease studies [see Clinical Studies (14.1), (14.3), (14.4), (14.5)], 45%, 54%, 37%, and 70%, respectively, were 65 years of age or over.
 No overall differences in efficacy or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

@@ -9,9 +9,9 @@ Treatment of Osteoporosis in Postmenopausal Women
 Daily Dosing
 
 The safety of alendronate sodium in the treatment of postmenopausal osteoporosis was assessed in four clinical trials that enrolled 7453 women aged 44 to 84 years.
-Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n=994); Study 3 was the three-year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n=2027) and Study 4 was the four-year clinical fracture cohort of FIT (n=4432).
+Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n = 994); Study 3 was the three-year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n = 2027) and Study 4 was the four-year clinical fracture cohort of FIT (n = 4432).
 Overall, 3620 patients were exposed to placebo and 3432 patients exposed to alendronate sodium.
-Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials.
+Patients with preexisting gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials.
 In Study 1 and Study 2 all women received 500 mg elemental calcium as carbonate.
 In Study 3 and Study 4 all women with dietary calcium intake less than 1000 mg per day received 500 mg calcium and 250 international units Vitamin D per day.
 
@@ -51,13 +51,10 @@ Rash and erythema have occurred.
 
 Gastrointestinal Adverse Reactions: One patient treated with alendronate, the free acid (10 mg/day), who had a history of peptic ulcer disease and gastrectomy and who was taking concomitant aspirin, developed an anastomotic ulcer with mild hemorrhage, which was considered drug related.
 Aspirin and alendronate sodium were discontinued and the patient recovered.
-In the Study 1 and Study 2 populations, 49-54% had a history of gastrointestinal disorders at baseline and 54-89% used nonsteroidal anti-inflammatory drugs or aspirin at some time during the studies.
-[See Warnings and Precautions (5.1).]
+In the Study 1 and Study 2 populations, 49 to 54% had a history of gastrointestinal disorders at baseline and 54 to 89% used non-steroidal anti-inflammatory drugs or aspirin at some time during the studies [see Warnings and Precautions (5.1)].
 
 Laboratory Test Findings: In double-blind, multicenter, controlled studies, asymptomatic, mild, and transient decreases in serum calcium and phosphate were observed in approximately 18% and 10%, respectively, of patients taking alendronate sodium versus approximately 12% and 3% of those taking placebo.
 However, the incidences of decreases in serum calcium to less than 8 mg/dL (2 mM) and serum phosphate to less than or equal to 2 mg/dL (0.65 mM) were similar in both treatment groups.
-
-#### ​
 
 Weekly Dosing
 
@@ -116,7 +113,7 @@ Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactio
 
 Concomitant Use with Estrogen/Hormone Replacement Therapy
 
-In two studies (of one and two years' duration) of postmenopausal osteoporotic women (total: n=853), the safety and tolerability profile of combined treatment with alendronate, the free acid 10 mg once daily and estrogen ± progestin (n=354) was consistent with those of the individual treatments.
+In two studies (of one and two years' duration) of postmenopausal osteoporotic women (total: n= 853), the safety and tolerability profile of combined treatment with alendronate, the free acid 10 mg once daily and estrogen ± progestin (n = 354) was consistent with those of the individual treatments.
 
 Osteoporosis in Men
 
@@ -127,7 +124,7 @@ Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Prob
 
 |  | Two-year Study |  | One-year Study |  |
 | --- | --- | --- | --- | --- |
-|  | Alendronate, the free acid 10 mg/day% (n = 146) | Placebo% (n = 95) | Once Weekly Alendronate, the free acid 70 mg % (n = 109) | Placebo % (n = 58) |
+|  | Alendronate, the free acid 10 mg/day% (n = 146) | Placebo % (n = 95) | Once Weekly Alendronate, the free acid 70 mg % (n = 109) | Placebo % (n = 58) |
 | Gastrointestinal |  |  |  |  |
 | acid regurgitation | 4.1 | 3.2 | 0.0 | 0.0 |
 | flatulence | 4.1 | 1.1 | 0.0 | 0.0 |
@@ -142,9 +139,9 @@ Glucocorticoid-Induced Osteoporosis
 In two, one-year, placebo-controlled, double-blind, multicenter studies in patients receiving glucocorticoid treatment, the overall safety and tolerability profiles of alendronate, the free acid 5 and 10 mg/day were generally similar to that of placebo.
 The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate, the free acid 5 or 10 mg/day or placebo are presented in Table 5.
 
-Table 5: One-Year Studies in Glucocorticoid-Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
+Table 5: One Year Studies in Glucocorticoid-Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
-|  | Alendronate, the free acid 10 mg/day % (n=157) | Alendronate, the free acid 5 mg/day % (n=161) | Placebo % (n=159) |
+|  | Alendronate, the free acid 10 mg/day % (n = 157) | Alendronate, the free acid 5 mg/day % (n = 161) | Placebo % (n = 159) |
 | --- | --- | --- | --- |
 | Gastrointestinal |  |  |  |
 | abdominal pain | 3.2 | 1.9 | 0.0 |
@@ -156,7 +153,7 @@ Table 5: One-Year Studies in Glucocorticoid-Treated Patients Adverse Reactions C
 | Nervous System/Psychiatric |  |  |  |
 | headache | 0.6 | 0.0 | 1.3 |
 
-The overall safety and tolerability profile in the glucocorticoid-induced osteoporosis population that continued therapy for the second year of the studies (alendronate sodium: n=147) was consistent with that observed in the first year.
+The overall safety and tolerability profile in the glucocorticoid-induced osteoporosis population that continued therapy for the second year of the studies (alendronate sodium: n = 147) was consistent with that observed in the first year.
 
 Paget's Disease of Bone
 
@@ -167,7 +164,7 @@ One case of esophagitis and two cases of gastritis resulted in discontinuation o
 Additionally, musculoskeletal (bone, muscle or joint) pain, which has been described in patients with Paget's disease treated with other bisphosphonates, was considered by the investigators as possibly, probably, or definitely drug related in approximately 6% of patients treated with alendronate, the free acid 40 mg/day versus approximately 1% of patients treated with placebo, but rarely resulted in discontinuation of therapy.
 Discontinuation of therapy due to any clinical adverse events occurred in 6.4% of patients with Paget's disease treated with alendronate, the free acid 40 mg/day and 2.4% of patients treated with placebo.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of alendronate sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
