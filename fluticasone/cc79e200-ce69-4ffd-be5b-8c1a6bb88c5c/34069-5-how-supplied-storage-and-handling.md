@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CUTIVATE® (fluticasone propionate) Lotion, 0.05% is white to off-white in color, and supplied as follows:
+CUTIVATE® (fluticasone propionate) Lotion USP, 0.05% is white to off-white in color, and supplied as follows:
 
 120 mL bottle NDC 10337-434-04
 

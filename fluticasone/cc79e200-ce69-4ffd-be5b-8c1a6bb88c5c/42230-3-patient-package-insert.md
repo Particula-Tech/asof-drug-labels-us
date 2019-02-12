@@ -1,4 +1,4 @@
-# PATIENT INFORMATION CUTIVATE® (CUE' ti vāt) (fluticasone propionate) Lotion, 0.05%
+# PATIENT INFORMATION CUTIVATE® (CUE' ti vāt) (fluticasone propionate) Lotion USP, 0.05%
 
 Important: CUTIVATE® Lotion is for use on skin only (topical).
 Do not get CUTIVATE® Lotion near or in your eyes, mouth, or vagina.
@@ -70,9 +70,9 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about CUTIVATE® Lotion that is written for health professionals.
 
 What are the ingredients in CUTIVATE® Lotion?
-Active ingredient: fluticasone propionate Inactive ingredients: cetomacrogol 1000, cetostearyl alcohol, citric acid monohydrate, dimethicone 350, imidurea, isopropyl myristate, methylparaben, propylene glycol, propylparaben, purified water, and sodium citrate
+Active ingredient: fluticasone propionate, USP Inactive ingredients: cetomacrogol 1000, cetostearyl alcohol, citric acid monohydrate, dimethicone 350, imidurea, isopropyl myristate, methylparaben, propylene glycol, propylparaben, purified water, and sodium citrate
 
-Manufactured by: PharmaDerm® A division of Fougera PHARMACEUTICAL INC. Melville, New York 11747 www.pharmaderm.com For more information, go to www.pharmaderm.com or call 1-800-645-9833.
+Manufactured by: For more information, go to www.pharmaderm.com or call 1-800-645-9833.
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-46154831B/46155409B Revised: 07/2015 #192
+46154831C/46155409C Revised: 08/2018 #192
