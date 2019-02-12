@@ -5,8 +5,11 @@
   "inn": "vancomycin",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-203-01",
     "63323-203-20",
+    "63323-221-01",
     "63323-221-10",
+    "63323-284-01",
     "63323-284-20"
   ],
   "products": [
