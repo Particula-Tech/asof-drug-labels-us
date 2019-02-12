@@ -63,7 +63,7 @@ Escitalopram AUC and half-life were increased by approximately 50% in elderly su
 
 Gender
 
-Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults and adolescents, no dosage adjustment on the basis of gender is needed.
+Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults, and adolescents, no dosage adjustment on the basis of gender is needed.
 
 Reduced hepatic function
 

@@ -7,7 +7,7 @@ There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
 
-What is the most important information I should know about Escitalopram Tablets?
+What is the most important information I should know about escitalopram tablets?
 
 Escitalopram tablets and other antidepressant medicines may cause serious side effects, including:
 
@@ -17,8 +17,8 @@ Suicidal thoughts or actions:
 - Escitalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
-  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when escitalopram tablet is started or when the dose is changed.
+- New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+- Pay particular attention to such changes when escitalopram tablet is started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
@@ -59,7 +59,7 @@ Severe allergic reactions:
 4.
 Abnormal bleeding:
 
-Escitalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Escitalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal antiinflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 5.
 Seizures or convulsions
@@ -123,10 +123,10 @@ Do not take escitalopram tablet if you:
 
 - are allergic to escitalopram oxalate or citalopram hydrobromide or any of the ingredients in escitalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in escitalopram tablets.
-- take a monoamine oxidase inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - Do not take an MAOI within 2 weeks of stopping escitalopram tablets unless directed to do so by your physician.
-  - Do not start escitalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+- Take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or a pharmacist if you are not sure if you take an MAOI, including linezolid.
+- Do not take an MAOI within 2 weeks of stopping escitalopram tablets unless directed to do so by your physician.
+- Do not start escitalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take escitalopram tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -138,7 +138,7 @@ Get medical help right away if you have any of these symptoms:
 - confusion
 - loss of consciousness (pass out)
 
-- take the antipsychotic medicine pimozide (Orap®) because taking this drug with escitalopram tabletscan cause serious heart problems.
+- Do not take escitalopram tablets with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
 
 What should I tell my healthcare provider before taking escitalopram tablets?
 Ask if you are not sure.
@@ -146,10 +146,10 @@ Ask if you are not sure.
 Before starting escitalopram tablets, tell your healthcare provider if you:
 
 - Are taking certain drugs such as:
-  - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-  - Tramadol
-  - Over-the-counter supplements such as tryptophan or St. John's Wort
+- Triptans used to treat migraine headache
+- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+- Tramadol
+- Over-the-counter supplements such as tryptophan or St. John's Wort
 
 - have liver problems
 - have kidney problems
@@ -229,7 +229,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store escitalopram tablets?
 
-- Store escitalopram tablets at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store escitalopram tablets at 68°F to 77°F (20°C to 25°C);excursions permitted to 59°F to 86°F (15°C to30°C)
 - Keep escitalopram tablets bottle closed tightly.
 
 Keep escitalopram tablets and all medicines out of the reach of children.
@@ -275,4 +275,4 @@ Goa 403 722
 
 INDIA
 
-Revised: February 02, 2017 ID#: 250693
+Revised: March 2019 ID#: 259341

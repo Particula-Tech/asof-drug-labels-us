@@ -9,4 +9,4 @@ Families and caregivers should be advised of the need for close observation and 
 Escitalopram tablet is not approved for use in pediatric patients less than 12 years of age.
 [see WARNINGS AND PRECAUTIONS: Clinical Worsening and Suicide Risk (5.1), PATIENT COUNSELING INFORMATION: Information for Patients (17.1), and USE IN SPECIFIC POPULATIONS: Pediatric Use (8.4)].
 
-If you take escitalopram tablets, you should not take any other medicines that contain escitalopram oxalate or citalopram hydrobromide including: Celexa®.
+If you take escitalopram tablets, you should not take any other medicines that contain escitalopram or citalopram including: Celexa®.
