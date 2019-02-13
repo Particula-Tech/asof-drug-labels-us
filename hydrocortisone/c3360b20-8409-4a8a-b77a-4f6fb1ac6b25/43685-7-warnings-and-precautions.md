@@ -5,15 +5,14 @@
 Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria in some patients.
 Conditions which augment systemic absorption include the application of the more potent corticosteroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 
-Therefore, patients receiving a large dose of a potent topical corticosteroid applied to a large surface area or under an occlusive dressing should be evaluated periodically for evidence of HPA axis suppression by using ACTH stimulation tests.
+Therefore, patients receiving a large dose of a potent topical corticosteroid applied to a large surface area or under an occlusive dressing should be evaluated periodically for evidence of HPA-axis suppression by using ACTH stimulation tests.
 
-If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent corticosteroid.
+If HPA-axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent corticosteroid.
 
-Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
+Recovery of HPA-axis function is generally prompt and complete upon discontinuation of the drug.
 Infrequently, signs and symptoms of corticosteroid withdrawal may occur, requiring supplemental systemic corticosteroids.
 
-Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity.
-(See PRECAUTIONS - Pediatric Use).
+Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity [See PRECAUTIONS, Pediatric Use].
 
 If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted.
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
@@ -23,13 +22,13 @@ If a favorable response does not occur promptly, the corticosteroid should be di
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-- •This medication is to be used as directed by the physician.
-  It is for external use only.
-  Avoid contact with the eyes.
-- •Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
-- •The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
-- •Patients should report any signs of local adverse reactions especially under occlusive dressing.
-- •Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
+1. 1.This medication is to be used as directed by the physician.
+   It is for external use only.
+   Avoid contact with the eyes.
+2. 2.Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
+3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
+4. 4.Patients should report any signs of local adverse reactions especially under occlusive dressing.
+5. 5.Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -41,9 +40,9 @@ No drug-related tumors were noted in this study up to the highest doses evaluate
 Hydrocortisone butyrate revealed no evidence of mutagenic or clastogenic potential based on the results of two in vitro genotoxicity tests (Ames test and L5178Y/TK+/- mouse lymphoma assay) and one in vivo genotoxicity test (mouse micronucleus assay).
 
 No evidence of impairment of fertility or effect on mating performance was observed in a fertility and general reproductive performance study conducted in male and female rats at subcutaneous doses up to and including 1.8 mg/kg/day (0.7X MTHD).
-Mild effects on maternal animals, such as reduced food consumption and a subsequent reduction in body weight gain, were seen at doses >0.6 mg/kg/day (0.2X MTHD).
+Mild effects on maternal animals, such as reduced food consumption and a subsequent reduction in body weight gain, were seen at doses ≥0.6 mg/kg/day (0.2X MTHD).
 
-## Pregnancy Category C
+## Teratogenic Effects
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
@@ -53,20 +52,20 @@ Therefore, topical corticosteroids should be used during pregnancy only if the p
 Drugs of this class should not be used extensively on pregnant patients, in large amounts, or for prolonged periods of time.
 
 Systemic embryofetal development studies were conducted in rats and rabbits.
-Subcutaneous doses of 0.6, 1.8 and 5.4 mg/kg/day hydrocortisone butyrate were administered to pregnant female rats during gestation days 6 – 17.
+Subcutaneous doses of 0.6, 1.8, and 5.4 mg/kg/day hydrocortisone butyrate were administered to pregnant female rats during gestation days 6 – 17.
 In the presence of maternal toxicity, fetal effects noted at 5.4 mg/kg/day (2X MTHD) included an increased incidence of ossification variations and unossified sternebra.
 No treatment-related effects on embryofetal toxicity or teratogenicity were noted at doses of 5.4 and 1.8 mg/kg/day, respectively (2X MTHD and 0.7X MTHD, respectively).
 
 Subcutaneous doses of 0.1, 0.2 and 0.3 mg/kg/day hydrocortisone butyrate were administered to pregnant female rabbits during gestation days 7 – 20.
 An increased incidence of abortion was noted at 0.3 mg/kg/day (0.2X MTHD).
-In the absence of maternal toxicity, a dose-dependent decrease in fetal body weight was noted at doses >0.1 mg/kg/day (0.1X MTHD).
-Additional indicators of embryofetal toxicity (reduction in litter size, decreased number of viable fetuses, increased post-implantation loss) were noted at doses >0.2 mg/kg/day (0.2X MTHD).
-Additional fetal effects noted in this study included delayed ossification noted at doses >0.1 mg/kg/day and an increased incidence of fetal malformations (primarily skeletal malformations) noted at doses >0.2 mg/kg/day.
+In the absence of maternal toxicity, a dose-dependent decrease in fetal body weight was noted at doses ≥0.1 mg/kg/day (0.1X MTHD).
+Additional indicators of embryofetal toxicity (reduction in litter size, decreased number of viable fetuses, increased post-implantation loss) were noted at doses ≥0.2 mg/kg/day (0.2X MTHD).
+Additional fetal effects noted in this study included delayed ossification noted at doses ≥0.1 mg/kg/day and an increased incidence of fetal malformations (primarily skeletal malformations) noted at doses ≥0.2 mg/kg/day.
 A dose at which no treatment-related effects on embryofetal toxicity or teratogenicity were observed was not established in this study.
 
 Additional systemic embryofetal development studies were conducted in rats and mice.
 Subcutaneous doses of 0.1 and 9 mg/kg/day hydrocortisone butyrate were administered to pregnant female rats during gestation days 9 – 15.
-In the presence of maternal toxicity, an increase in fetal deaths and fetal resorptions and an increase in the number of ossifications in caudal vertebrae were noted at a dose of 9 mg/kg/day (3X MTHD).
+In the presence of maternal toxicity, an increase in fetal deaths, fetal resorptions, and an increase in the number of ossifications in caudal vertebrae were noted at a dose of 9 mg/kg/day (3X MTHD).
 No treatment-related effects on embryofetal toxicity or teratogenicity were noted at 0.1 mg/kg/day (0.1X MTHD).
 
 Subcutaneous doses of 0.2 and 1 mg/kg/day hydrocortisone butyrate were administered to pregnant female mice during gestation days 7 – 13.
@@ -81,9 +80,9 @@ No treatment-related effects on embryofetal toxicity were noted at the 1% hydroc
 A dose at which no treatment-related effects on embryofetal toxicity were observed in rabbits after topical administration of hydrocortisone butyrate ointment was not established in this study.
 No treatment-related effects on teratogenicity were noted at a dose of 10% hydrocortisone butyrate ointment in rats or rabbits (80X MTHD and 2X MTHD, respectively).
 
-A peri- and post-natal development study was conducted in rats.
-Subcutaneous doses of 0.6, 1.8 and 5.4 mg/kg/day hydrocortisone butyrate were administered to pregnant female rats from gestation day 6 – lactation day 20.
-In the presence of maternal toxicity, a dose-dependent decrease in fetal weight was noted at doses >1.8 mg/kg/day (0.7X MTHD).
+A peri- and postnatal development study was conducted in rats.
+Subcutaneous doses of 0.6, 1.8, and 5.4 mg/kg/day hydrocortisone butyrate were administered to pregnant female rats from gestation day 6 – lactation day 20.
+In the presence of maternal toxicity, a dose-dependent decrease in fetal weight was noted at doses ≥1.8 mg/kg/day (0.7X MTHD).
 No treatment-related effects on fetal toxicity were noted at 0.6 mg/kg/day (0.2X MTHD).
 A delay in sexual maturation was noted at 5.4 mg/kg/day (2X MTHD).
 No treatment-related effects on sexual maturation were noted at 1.8 mg/kg/day.
@@ -97,7 +96,7 @@ Nevertheless, caution should be exercised when topical corticosteroids are admin
 
 ## Pediatric Use
 
-Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing’s syndrome than mature patients because of a larger skin surface area to body weight ratio.
+Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA-axis suppression and Cushing’s syndrome than mature patients because of a larger skin-surface-area-to-body-weight ratio.
 
 Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing’s syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
 

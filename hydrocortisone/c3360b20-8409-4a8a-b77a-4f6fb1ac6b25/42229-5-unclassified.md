@@ -1,1 +1,1 @@
-For topical use
+FOR TOPICAL USE ONLY

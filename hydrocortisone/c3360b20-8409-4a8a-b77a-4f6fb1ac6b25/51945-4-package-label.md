@@ -2,12 +2,16 @@
 
 NDC 16781-391-60
 
+Rx only
+
 Locoid®
 
 (hydrocortisone butyrate)
 
 Solution, 0.1%
 
-Rx only
+FOR TOPICAL USE ONLY
+
+NOT FOR OPHTHALMIC USE
 
 60 mL

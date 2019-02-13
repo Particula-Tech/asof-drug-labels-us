@@ -5,4 +5,4 @@ It has the chemical name: 11β,17,21-Trihydroxypregn-4-ene-3,20-dione 17-butyrat
 
 Its structural formula is:
 
-Each mL of Locoid® Solution contains 1 mg of hydrocortisone butyrate in a vehicle consisting of isopropyl alcohol (50% v/v), glycerin, povidone, anhydrous citric acid, sodium citrate and purified water.
+Each mL of Locoid Solution contains 1 mg of hydrocortisone butyrate in a vehicle consisting of anhydrous citric acid, glycerin, isopropyl alcohol (50% v/v), povidone, purified water, and sodium citrate.
