@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA203779"
+  ],
+  "inn": "ammonia-n-13",
+  "labeler": "3D Imaging Drug Design and Development LLC",
+  "package_ndcs": [
+    "76451-013-10",
+    "76451-013-11",
+    "76451-013-51"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ammonia n-13",
+      "name": "Ammonia"
+    }
+  ],
+  "setid": "fce62c22-a1e2-4193-8de5-e1961d9b94a5",
+  "source": "dailymed"
+}
