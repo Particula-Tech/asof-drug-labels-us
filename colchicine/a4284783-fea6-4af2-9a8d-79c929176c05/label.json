@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA211250"
+  ],
+  "inn": "colchicine",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-589-01",
+    "67877-589-05",
+    "67877-589-10",
+    "67877-589-30",
+    "67877-589-33",
+    "67877-589-60",
+    "67877-589-86"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "colchicine",
+      "name": "colchicine"
+    }
+  ],
+  "setid": "a4284783-fea6-4af2-9a8d-79c929176c05",
+  "source": "dailymed"
+}
