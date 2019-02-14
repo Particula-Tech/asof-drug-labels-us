@@ -34,11 +34,15 @@ Concomitant Medications
 
 Advise patients to inform their health care providers if they are taking, or plan to take any prescription or over-the-counter medications since there is a potential for interactions [see Drug Interactions (7.1)].
 
+Pregnancy Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with trazodone.
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to trazodone during pregnancy [see Use in Special Populations (8.1)].
+
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 5,6 and 7, Pharmez, Nr.
+Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 5 to 14, Pharmez, Nr.
 Village Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 213, India.
 
-51 2487 0 714511
+51 2487 1 718000
 
-Issued November 2017
+Issued November 2018

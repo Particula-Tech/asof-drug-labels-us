@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Trazodone Hydrochloride Tablets, USP
+Trazodone Hydrochloride Tablets
 
 (traz-oh-done hye-droe-klor-ide)
 
@@ -78,11 +78,13 @@ Before you take trazodone hydrochloride tablets tell your healthcare provider ab
 - have liver or kidney problems
 - have other serious medical conditions
 - are pregnant or plan to become pregnant.
-  Trazodone hydrochloride tablets may harm your unborn baby.
-  Talk to your healthcare provider if you are pregnant or plan to become pregnant.
+  It is not known if trazodone hydrochloride tablets will harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take trazodone hydrochloride tablets.
+  - If you become pregnant during treatment with trazodone hydrochloride tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-844-405-6185.
 - are breastfeeding or plan to breastfeed.
-  It is not known if trazodone hydrochloride passes into your breast milk.
-  You and your healthcare provider should decide if you will take trazodone hydrochloride tablets or breastfeed.
+  Trazodone hydrochloride passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you take trazodone hydrochloride tablets.
 - have taken a Monoamine Oxidase Inhibitor (MAOI) or if you have stopped taking an MAOI in the last 2 weeks.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -193,13 +195,13 @@ Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrysta
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication guide available at www.accordhealthcare.us/products.
+Medication guide available at www.accordhealthcare.us/medication-guides
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 5,6 and 7, Pharmez, Nr.
+Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 5 to 14, Pharmez, Nr.
 Village Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 213, India.
 
-51 2487 0 714511
+51 2487 1 718000
 
-Issued November 2017
+Issued November 2018
