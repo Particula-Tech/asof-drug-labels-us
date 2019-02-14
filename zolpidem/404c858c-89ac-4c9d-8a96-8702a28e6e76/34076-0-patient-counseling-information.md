@@ -12,6 +12,7 @@ CNS-Depressant Effects and Next-Day Impairment
 Tell patients that AMBIEN CR can cause next-day impairment even when used as prescribed, and that this risk is increased if dosing instructions are not carefully followed.
 Caution patients against driving and other activities requiring complete mental alertness the day after use.
 Inform patients that impairment can be present despite feeling fully awake.
+Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients.
 
 Severe Anaphylactic and Anaphylactoid Reactions
 

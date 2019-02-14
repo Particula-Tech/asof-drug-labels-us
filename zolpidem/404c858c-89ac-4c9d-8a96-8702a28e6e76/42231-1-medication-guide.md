@@ -73,7 +73,8 @@ Before starting AMBIEN CR, tell your healthcare provider about all of your healt
 - Using AMBIEN CR in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
   Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if AMBIEN CR is taken late in pregnancy.
 - are breastfeeding or plan to breastfeed.
-  AMBIEN CR passes into your breast milk Talk to your healthcare provider about the best way to feed your baby while you take AMBIEN CR.
+  AMBIEN CR passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby while you take AMBIEN CR.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
@@ -112,7 +113,6 @@ AMBIEN CR may cause serious side effects including:
 - severe allergic reactions.
   Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking AMBIEN CR.
-- falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using AMBIEN CR.
 
@@ -175,6 +175,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-September 2018
+Revised: February 2019
 
-© 2018 sanofi-aventis U.S. LLC
+©2019 sanofi-aventis U.S. LLC

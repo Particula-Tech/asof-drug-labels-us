@@ -2,7 +2,7 @@
 
 ## 14.1 Controlled Clinical Trials
 
-AMBIEN CR was evaluated in three placebo-controlled studies for the treatment of patients with chronic primary insomnia (as defined in the APA Diagnostic and Statistical Manual of Mental Disorders, DSM IV).
+AMBIEN CR was evaluated in three placebo-controlled studies for the treatment of patients with chronic primary insomnia (as defined in the APA Diagnostic and Statistical Manual of Mental Disorders, DSM IV™).
 
 Adult outpatients (18–64 years) with primary insomnia (N=212) were evaluated in a double-blind, randomized, parallel-group, 3-week trial comparing AMBIEN CR 12.5 mg and placebo.
 AMBIEN CR 12.5 mg decreased wake time after sleep onset (WASO) for the first 7 hours during the first 2 nights and for the first 5 hours after 2 weeks of treatment.
