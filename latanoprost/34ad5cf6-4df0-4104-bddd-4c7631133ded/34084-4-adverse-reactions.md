@@ -29,8 +29,6 @@ Ocular Adverse Reactions Reported by ≥ 1% of Subjects Receiving XELPROS
 | Eyelid edema | 7 (2%) |
 | Conjunctival edema | 5 (1%) |
 
-1. 
-
 ## 6.2 Postmarketing Experience
 
 The following reactions have been identified during postmarketing use of topical latanoprost products in clinical practice.
