@@ -12,7 +12,7 @@ Topiramate is designated chemically as 2,3:4,5-Di-O-isopropylidene-β-D-fructopy
 Each topiramate tablet intended for oral administration contains 25 mg or 50 mg or 100 mg or 200 mg of topiramate.
 In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, hypromellose, lactose anhydrous, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium starch glycolate, talc and titanium dioxide.
 
-Each topiramate capsules, USP intended for oral administration contains 15 mg or 25 mg of topiramate.
+Each topiramate capsule, USP intended for oral administration contains 15 mg or 25 mg of topiramate.
 In addition, each capsule contains the following inactive ingredients: cellulose acetate, gelatin, hypromellose, povidone, sodium lauryl sulfate, sugar spheres, talc and titanium dioxide.
 Each capsule is printed with black pharmaceutical ink.
 

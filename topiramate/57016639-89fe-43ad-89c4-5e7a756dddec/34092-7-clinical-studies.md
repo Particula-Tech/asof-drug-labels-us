@@ -55,7 +55,7 @@ Patients who experienced at least six partial onset seizures, with or without se
 
 Following randomization, patients began the doubleblind phase of treatment.
 Patients received active drug beginning at 25 or 50 mg/day; the dose was then increased by 25 mg to 150 mg/day increments every other week until the assigned dosage of 125, 175, 225, or 400 mg/day based on patients' weight to approximate a dosage of 6 mg/kg/day was reached, unless intolerance prevented increases.
-After titration, patients entered an 8 week stabilization period.
+After titration, patients entered an 8- week stabilization period.
 
 Patients With Primary Generalized Tonic-Clonic Seizures
 
@@ -76,7 +76,7 @@ The effectiveness of topiramate as an adjunctive treatment for seizures associat
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4-week baseline phase.
 Following baseline, patients were randomly assigned to placebo or topiramate in addition to their other AEDs.
-Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then increased to 3 mg/kg/day for one week then to 6 mg/kg/day.
+Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then increased to 3 mg/kg/day for one week, then to 6 mg/kg/day.
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
@@ -112,49 +112,49 @@ As described above, a global improvement in seizure severity was also assessed i
 
 Table 12 Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy Trials
 
-| Protocol Efficacy Results |  | Target Topiramate Dosage (mg/day) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Placebo | 200 | 400 | 600 | 800 |  | 1,000 | ≈ 6 mg/kg/day* |
-| Partial Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |  |
-| 1 | N | 45 | 45 | 45 | 46 | - |  | - | - |
-|  | Median % Reduction | 12 | 27a | 48b | 45c | - |  | - | - |
-|  | % Responders | 18 | 24 | 44d | 46d | - |  | - | - |
-| 2 | N | 47 | - | - | 48 | 48 |  | 47 | - |
-|  | Median % Reduction | 2 | - | - | 41c | 41c |  | 36c | - |
-|  | % Responders | 9 | - | - | 40c | 41c |  | 36d | - |
-| 3 | N | 24 | - | 23 | - | - |  | - | - |
-|  | Median % Reduction | 1 | - | 41e | - | - |  | - | - |
-|  | % Responders | 8 | - | 35d | - | - |  | - | - |
-| 4 | N | 30 | - | - | 30 | - |  | - | - |
-|  | Median % Reduction | -12 | - | - | 46f | - |  | - | - |
-|  | % Responders | 10 | - | - | 47c | - |  | - | - |
-| 5 | N | 28 | - | - | - | 28 |  | - | - |
-|  | Median % Reduction | -21 | - | - | - | 24c |  | - | - |
-|  | % Responders | 0 | - | - | - | 43c |  | - | - |
-| 6 | N | 91 | 168 | - | - | - |  | - | - |
-|  | Median % Reduction | 20 | 44c | - | - | - |  | - | - |
-|  | % Responders | 24 | 45c | - | - | - |  | - | - |
-| Studies in Pediatric Patients |  |  |  |  |  |  |  |  |  |
-| 7 | N | 45 | - | - | - | - |  | - | 41 |
-|  | Median % Reduction | 11 | - | - | - | - |  | - | 33d |
-|  | % Responders | 20 | - | - | - | - |  | - | 39 |
-| Primary Generalized Tonic-Clonich |  |  |  |  |  |  |  |  |  |
-| 8 | N | 40 | - | - | - | - |  | - | 39 |
-|  | Median % Reduction | 9 | - | - | - | - |  | - | 57d |
-|  | % Responders | 20 | - | - | - | - |  | - | 56c |
-| Lennox-Gastaut Syndromei |  |  |  |  |  |  |  |  |  |
-| 9 | N | 49 | - | - | - | - |  | - | 46 |
-|  | Median % Reduction | -5 | - | - | - | - |  | - | 15d |
-|  | % Responders | 14 | - | - | - | - |  | - | 28g |
-| Improvement in Seizure Severityj |  | 28 | - |  | - | - |  | - | 52d |
-| Comparisons with placebo: ap = 0.080; bp ≤ 0.010; cp ≤ 0.001; dp ≤ 0.050;e p = 0.065; fp ≤ 0.005; gp = 0.071; |  |  |  |  |  |  |  |  |  |
-| h Median % reduction and % responders are reported for PGTC Seizures; |  |  |  |  |  |  |  |  |  |
-| i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; |  |  |  |  |  |  |  |  |  |
-| j Percent of patients who were minimally, much, or very much improved from baseline |  |  |  |  |  |  |  |  |  |
-| * For Protocols 7 and 8, protocol-specified target dosages (< 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |  |
+| Protocol Efficacy Results |  | Target Topiramate Dosage (mg/day) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈ 6 mg/kg/day* |
+| Partial Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
+| 1 | N | 45 | 45 | 45 | 46 | - | - | - |
+|  | Median % Reduction | 12 | 27a | 48b | 45c | - | - | - |
+|  | % Responders | 18 | 24 | 44d | 46d | - | - | - |
+| 2 | N | 47 | - | - | 48 | 48 | 47 | - |
+|  | Median % Reduction | 2 | - | - | 41c | 41c | 36c | - |
+|  | % Responders | 9 | - | - | 40c | 41c | 36d | - |
+| 3 | N | 24 | - | 23 | - | - | - | - |
+|  | Median % Reduction | 1 | - | 41e | - | - | - | - |
+|  | % Responders | 8 | - | 35d | - | - | - | - |
+| 4 | N | 30 | - | - | 30 | - | - | - |
+|  | Median % Reduction | -12 | - | - | 46f | - | - | - |
+|  | % Responders | 10 | - | - | 47c | - | - | - |
+| 5 | N | 28 | - | - | - | 28 | - | - |
+|  | Median % Reduction | -21 | - | - | - | 24c | - | - |
+|  | % Responders | 0 | - | - | - | 43c | - | - |
+| 6 | N | 91 | 168 | - | - | - | - | - |
+|  | Median % Reduction | 20 | 44c | - | - | - | - | - |
+|  | % Responders | 24 | 45c | - | - | - | - | - |
+| Studies in Pediatric Patients |  |  |  |  |  |  |  |  |
+| 7 | N | 45 | - | - | - | - | - | 41 |
+|  | Median % Reduction | 11 | - | - | - | - | - | 33d |
+|  | % Responders | 20 | - | - | - | - | - | 39 |
+| Primary Generalized Tonic-Clonich |  |  |  |  |  |  |  |  |
+| 8 | N | 40 | - | - | - | - | - | 39 |
+|  | Median % Reduction | 9 | - | - | - | - | - | 57d |
+|  | % Responders | 20 | - | - | - | - | - | 56c |
+| Lennox-Gastaut Syndromei |  |  |  |  |  |  |  |  |
+| 9 | N | 49 | - | - | - | - | - | 46 |
+|  | Median % Reduction | -5 | - | - | - | - | - | 15d |
+|  | % Responders | 14 | - | - | - | - | - | 28g |
+| Improvement in Seizure Severityj |  | 28 | - |  | - | - | - | 52d |
+| Comparisons with placebo: a p = 0.080; b p ≤ 0.010; c p ≤ 0.001; d p ≤ 0.050;e p = 0.065; f p ≤ 0.005; g p = 0.071; |  |  |  |  |  |  |  |  |
+| h Median % reduction and % responders are reported for PGTC Seizures; |  |  |  |  |  |  |  |  |
+| i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; |  |  |  |  |  |  |  |  |
+| j Percent of patients who were minimally, much, or very much improved from baseline |  |  |  |  |  |  |  |  |
+| * For Protocols 7 and 8, protocol-specified target dosages (< 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
-In clinical trials for epilepsy, daily dosages were decreased in weekly intervals by 50 to 100 mg/day in adults and over a 2 to 8 week period in pediatric patients; transition was permitted to a new antiepileptic regimen when clinically indicated.
+In clinical trials for epilepsy, daily dosages were decreased in weekly intervals by 50 to 100 mg/day in adults and over a 2- to 8- week period in pediatric patients; transition was permitted to a new antiepileptic regimen when clinically indicated.
 
 ## 14.3 Migraine Prophylaxis
 

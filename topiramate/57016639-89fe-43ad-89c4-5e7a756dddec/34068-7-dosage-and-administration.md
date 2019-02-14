@@ -48,7 +48,7 @@ Adults (17 Years of Age and Over)
 The recommended total daily dose of topiramate as adjunctive therapy in adults with partial onset seizures or Lennox-Gastaut Syndrome is 200 mg/day to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
 Topiramate should be initiated at 25 mg/day to 50 mg/day followed by titration to an effective dose in increments of 25 mg/day to 50 mg/day every week.
 Titrating in increments of 25 mg/day every week may delay the time to reach an effective dose.
-Doses above 400 mg/day have not been shown to improve responses in dose-response studies in adults with partial onset seizures.
+Doses above 400 mg/day have not been shown to improve responses in adults with partial onset seizures.
 
 Pediatric Patients 2 to 16 Years of Age
 
