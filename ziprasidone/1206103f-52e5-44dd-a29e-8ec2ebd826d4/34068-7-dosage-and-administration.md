@@ -27,9 +27,3 @@ Any unused portion should be discarded.
 Since no preservative or bacteriostatic agent is present in this product, aseptic technique must be used in preparation of the final solution.
 This medicinal product must not be mixed with other medicinal products or solvents other than Sterile Water for Injection.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-## 2.2 Dosing in Special Populations
-
-Intramuscular: Ziprasidone intramuscular has not been systematically evaluated in elderly patients or in patients with hepatic or renal impairment.
-As the cyclodextrin excipient is cleared by renal filtration, ziprasidone intramuscular should be administered with caution to patients with impaired renal function.
-Dosing adjustments are not required on the basis of gender or race [see Use in Specific Populations (8)].
