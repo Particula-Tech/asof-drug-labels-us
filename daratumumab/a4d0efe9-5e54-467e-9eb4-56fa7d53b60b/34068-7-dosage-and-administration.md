@@ -61,13 +61,20 @@ Infusion Rates and Management of Infusion Reactions
 Administer DARZALEX infusion intravenously at the infusion rate described below in Table 4.
 Consider incremental escalation of the infusion rate only in the absence of infusion reactions.
 
-Table 4: Infusion rates for DARZALEX administration
+To facilitate administration, the first prescribed 16 mg/kg dose at Week 1 may be split over two consecutive days i.e. 8 mg/kg on Day 1 and Day 2 respectively, see Table 4 below.
+
+Table 4: Infusion rates for DARZALEX (16 mg/kg) administration
 
 |  | Dilution volume | Initial rate (first hour) | Rate incrementConsider incremental escalation of the infusion rate only in the absence of infusion reactions. | Maximum rate |
 | --- | --- | --- | --- | --- |
-| First infusion | 1000 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
-| Second infusionUse a dilution volume of 500 mL only if there were no infusion reactions during the first 3 hours of the first infusion. Otherwise, continue to use a dilution volume of 1000 mL and instructions for the first infusion. | 500 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
-| Subsequent infusionsUse a modified initial rate for subsequent infusions (i.e. third infusion onwards) only if there were no infusion reactions during a final infusion rate of ≥100 mL/hr in the first two infusions. Otherwise, continue to use instructions for the second infusion. | 500 mL | 100 mL/hour | 50 mL/hour every hour | 200 mL/hour |
+| Week 1 Infusion |  |  |  |  |
+| Option 1 (Single dose infusion) |  |  |  |  |
+| Week 1 Day 1 (16 mg/kg) | 1000 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
+| Option 2 (Split dose infusion) |  |  |  |  |
+| Week 1 Day 1 (8 mg/kg) | 500 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
+| Week 1 Day 2 (8 mg/kg) | 500 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
+| Week 2 (16 mg/kg) infusionUse a dilution volume of 500 mL for the 16 mg/kg dose only if there were no infusion reactions the previous week. Otherwise, use a dilution volume of 1000 mL. | 500 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
+| Subsequent (Week 3 onwards, 16 mg/kg) infusionsUse a modified initial rate (100 mL/hour) for subsequent infusions (i.e. Week 3 onwards) only if there were no infusion reactions during the previous infusion. Otherwise, continue to use instructions indicated in the table for the Week 2 infusion rate. | 500 mL | 100 mL/hour | 50 mL/hour every hour | 200 mL/hour |
 
 For infusion reactions of any grade/severity, immediately interrupt the DARZALEX infusion and manage symptoms.
 Management of infusion reactions may further require reduction in the rate of infusion, or treatment discontinuation of DARZALEX as outlined below [see Warnings and Precautions (5.1)].
@@ -103,7 +110,7 @@ Administer oral corticosteroid (20 mg methylprednisolone or equivalent dose of a
 
 Combination therapy:
 
-Consider administering low-dose oral methylprednisolone (≤ 20 mg) or equivalent, the day after the DARZALEX infusion.
+Consider administering low-dose oral methylprednisolone (≤20 mg) or equivalent, the day after the DARZALEX infusion.
 
 However, if a background regimen-specific corticosteroid (e.g. dexamethasone, prednisone) is administered the day after the DARZALEX infusion, additional post-infusion medications may not be needed [see Clinical Studies (14)].
 
@@ -141,7 +148,7 @@ Prepare the solution for infusion using aseptic technique as follows:
   Do not use if visibly opaque particles, discoloration or foreign particles are observed.
 - Since DARZALEX does not contain a preservative, administer the diluted solution immediately at room temperature 15°C–25°C (59°F–77°F) and in room light.
   Diluted solution may be kept at room temperature for a maximum of 15 hours (including infusion time).
-- If not used immediately, the diluted solution can be stored prior to administration for up to 24 hours at refrigerated conditions 2°C – 8°C (36°F–46°F) and protected from light.
+- If not used immediately, the diluted solution can be stored prior to administration for up to 24 hours at refrigerated conditions 2°C–8°C (36°F–46°F) and protected from light.
   Do not freeze.
 
 ## 2.5 Administration

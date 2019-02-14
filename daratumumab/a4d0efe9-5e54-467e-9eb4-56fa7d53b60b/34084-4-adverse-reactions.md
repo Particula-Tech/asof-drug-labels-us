@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are also described elsewhere in the labeling:
+The following clinically significant adverse reactions are also described elsewhere in the labeling:
 
 - Infusion reactions [see Warning and Precautions (5.1)].
 - Neutropenia [see Warning and Precautions (5.3)].
@@ -108,7 +108,7 @@ Serious adverse reactions with at least a 2% greater incidence in the DVd arm co
 
 Adverse reactions resulted in discontinuations for 7% (n=18) of patients in the DVd arm versus 9% (n=22) in the Vd arm.
 
-Table 9: Adverse reactions reported in ≥ 10% of patients and with at least a 5% greater frequency in the DVd arm CASTOR
+Table 9: Adverse reactions reported in ≥10% of patients and with at least a 5% greater frequency in the DVd arm CASTOR
 
 | Any Grade | Grade 3 | Grade 4 | Any Grade | Grade 3 | Grade 4 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -270,16 +270,22 @@ Table 14: Treatment emergent Grade 3–4 laboratory abnormalities (≥10%)
 
 Infusion Reactions
 
-In clinical trials (monotherapy and combination treatments; N=1166) the incidence of any grade infusion reactions was 40% with the first infusion of DARZALEX, 2% with the second infusion, and 4% with subsequent infusions.
-Less than 1% of patients had a Grade 3 infusion reaction with second or subsequent infusions.
+In clinical trials (monotherapy and combination treatments; N=1166) the incidence of any grade infusion reactions was 40% with the first (16 mg/kg, Week 1) infusion of DARZALEX, 2% with the Week 2 infusion, and 4% with subsequent infusions.
+Less than 1% of patients had a Grade 3 infusion reaction at Week 2 or subsequent infusions.
 Grade 4 infusion reactions were reported in 2/1166 (0.2%) of patients.
 
 The median time to onset of a reaction was 1.4 hours (range: 0 to 72.8 hours).
 The incidence of infusion modification due to reactions was 37%.
-Median durations of infusion for the 1st, 2nd and subsequent infusions were 7.0, 4.3, and 3.4 hours respectively.
+Median durations of 16 mg/kg infusions for the 1st week, 2nd week and subsequent infusions were 7.0, 4.3, and 3.4 hours respectively.
 
 Severe infusion reactions included bronchospasm, dyspnea, laryngeal edema, pulmonary edema, hypoxia, and hypertension.
 Other adverse infusion reactions included nasal congestion, cough, chills, throat irritation, vomiting and nausea.
+
+In EQUULEUS, patients receiving daratumumab combination treatment (n=97) were administered the first 16 mg/kg daratumumab dose at Week 1 split over two days i.e. 8 mg/kg on Day 1 and Day 2 respectively.
+The incidence of any grade infusion-related reactions was 42%, with 36% of patients experiencing infusion reactions on Day 1 of Week 1, 4% on Day 2 of Week 1, and 8% with subsequent infusions.
+The median time to onset of a reaction was 1.8 hours (range: 0.1 to 5.4 hours).
+The incidence of infusion interruptions due to reactions was 30%.
+Median durations of infusions were 4.2 h for Week 1-Day 1, 4.2 h for Week 1-Day 2, and 3.4 hours for the subsequent infusions.
 
 Herpes Zoster Virus Reactivation
 

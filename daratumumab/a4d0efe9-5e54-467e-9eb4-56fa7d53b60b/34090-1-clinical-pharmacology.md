@@ -22,6 +22,8 @@ Over the dose range from 1 to 24 mg/kg as monotherapy or 1 to 16 mg/kg of DARZAL
 
 Following the recommended dose of 16 mg/kg when DARZALEX was administered as monotherapy or in combination therapy, the mean serum maximal concentration (Cmax) value at the end of weekly dosing, was approximately 2.7 to 3-fold higher compared to the mean serum Cmax following the first dose.
 The mean ± standard deviation (SD) trough serum concentration (Cmin) at the end of weekly dosing was 573 ± 332 µg/mL when DARZALEX was administered as monotherapy and 502 ± 196 to 607 ± 231 µg/mL when DARZALEX was administered as combination therapy.
+Split dosing of the first dose resulted in a different PK profile in the first day compared to single dosing; however, similar Cmax and Cmin concentrations were both predicted and observed following the administration of the second split dose on Week 1 Day 2.
+
 When DARZALEX was administered as monotherapy, daratumumab steady state was achieved approximately 5 months into the every 4-week dosing period (by the 21st infusion), and the mean ± SD ratio of Cmax at steady-state to Cmax after the first dose was 1.6 ± 0.5.
 
 Distribution
