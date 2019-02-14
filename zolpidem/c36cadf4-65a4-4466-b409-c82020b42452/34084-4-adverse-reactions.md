@@ -35,9 +35,9 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Table 1: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (percentage of patients reporting)
+Table 1: Incidences of Treatment-Emergent Adverse Reactions in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (percentage of patients reporting)
 
-| Body System Adverse EventReactions reported by at least 1% of patients treated with AMBIEN and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
+| Body System Adverse ReactionReactions reported by at least 1% of patients treated with AMBIEN and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
@@ -110,7 +110,8 @@ Rare: allergic reaction, allergy aggravated, anaphylactic shock, face edema, hot
 Cardiovascular system: Infrequent: cerebrovascular disorder, hypertension, tachycardia.
 Rare: angina pectoris, arrhythmia, arteritis, circulatory failure, extrasystoles, hypertension aggravated, myocardial infarction, phlebitis, pulmonary embolism, pulmonary edema, varicose veins, ventricular tachycardia.
 
-Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
+Central and peripheral nervous system: Frequent: ataxia, confusion, euphoria, headache, insomnia, vertigo.
+Infrequent: agitation, anxiety, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness, paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
 Rare: abnormal gait, abnormal thinking, aggressive reaction, apathy, appetite increased, decreased libido, delusion, dementia, depersonalization, dysphasia, feeling strange, hypokinesia, hypotonia, hysteria, intoxicated feeling, manic reaction, neuralgia, neuritis, neuropathy, neurosis, panic attacks, paresis, personality disorder, somnambulism, suicide attempts, tetany, yawning.
 
 Gastrointestinal system: Frequent: dyspepsia, hiccup, nausea.
