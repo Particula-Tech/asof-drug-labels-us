@@ -73,8 +73,7 @@ Topiramate can harm your unborn baby.
 - Tell your healthcare provider right away if you become pregnant while taking topiramate.
   You and your healthcare provider should decide if you will continue to take topiramate while you are pregnant.
 - If you take topiramate during pregnancy, your baby may be smaller than expected at birth.
-  The long-term effects of this are not known.
-  Talk to your healthcare provider if you have questions about this risk during pregnancy.
+  The long-term effects of this are not known.Talk to your healthcare provider if you have questions about this risk during pregnancy.
 - Metabolic acidosis may have harmful effects on your baby.
   Talk to your healthcare provider if topiramate has caused metabolic acidosis during your pregnancy.
 - Pregnancy Registry: If you become pregnant while taking topiramate, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -86,7 +85,7 @@ What is topiramate?
 Topiramate is a prescription medicine used:
 
 - to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
-- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older.
+- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
 - to prevent migraine headaches in adults and adolescents 12 years and older.
 
 Before taking topiramate, tell your healthcare provider about all of your medical conditions, including if you:
@@ -100,12 +99,13 @@ Before taking topiramate, tell your healthcare provider about all of your medica
 - have eye problems, especially glaucoma.
 - have diarrhea.
 - have a growth problem.
-- are on a diet high in fat and low in carbohydrates, which is called a ketogenic diet
+- are on a diet high in fat and low in carbohydrates, which is called a ketogenic diet.
 - are having surgery.
 - are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breastfeed.
   Topiramate passes into breast milk.
-  It is not known if the topiramate that passes into breast milk can harm your baby.
+  Breastfed babies may be sleepy or have diarrhea.
+  It is not known if the topiramate that passes into breast milk can cause other serious harm to your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take topiramate.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -174,7 +174,7 @@ See "What is the most important information I should know about topiramate?"
 - Kidney stones.
   Drink plenty of fluids when taking topiramate to decrease your chances of getting kidney stones.
 - Low body temperature.
-  Taking topiramate when you are also taking valproic acid can cause a drop in body temperature to less than 95○F, feeling tired, confusion, or coma.
+  Taking topiramate when you are also taking valproic acid can cause a drop in body temperature to less than 95°F, or can cause tiredness, confusion, or coma.
 
 Call your healthcare provider right away if you have any of the symptoms above.
 
@@ -207,10 +207,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store topiramate?
 
-- Store topiramate at 20o to 25o C (68o to 77o F) [See USP Controlled Room Temperature].
+- Store topiramate at 20oto 25oC (68oto 77oF) [See USP Controlled Room Temperature].
 - Keep topiramate in a tightly closed container.
 - Keep topiramate dry and away from moisture.
-- Keep topiramate and all medicines out of the reach of children.
+
+Keep topiramate and all medicines out of the reach of children.
 
 General information about the safe and effective use topiramate.
 

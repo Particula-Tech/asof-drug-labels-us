@@ -38,75 +38,76 @@ Table 5 presents the incidence of adverse reactions occurring in at least 3% of 
 
 Table 5 Adverse Reactions in the High Dose Group As Compared to the Low Dose Group, in Monotherapy Epilepsy Trials in Adult and Pediatric Patients
 
-|  |  | Age Group |  |  |
-| --- | --- | --- | --- | --- |
-|  | Pediatric (6 to 15 Years) |  | Adult (Age ≥16 Years) |  |
-|  | TOPIRAMATE Daily Dosage Group (mg/day) |  |  |  |
-| Body System Adverse Reaction | (N=74) % | (N=77) % | (N=160) % | (N=159) % |
-| Body as a Whole - General Disorders |  |  |  |  |
-| Asthenia | 0 | 3 | 4 | 6 |
-| Fever | 1 | 12 |  |  |
-| Leg pain |  |  | 2 | 3 |
-| Central & Peripheral Nervous System Disorders |  |  |  |  |
-| Paresthesia | 3 | 12 | 21 | 40 |
-| Dizziness |  |  | 13 | 14 |
-| Ataxia |  |  | 3 | 4 |
-| Hypoesthesia |  |  | 4 | 5 |
-| Hypertonia |  |  | 0 | 3 |
-| Involuntary muscle contractions | 0 | 3 |  |  |
-| Vertigo | 0 | 3 |  |  |
-| Gastro-Intestinal System Disorders |  |  |  |  |
-| Constipation |  |  | 1 | 4 |
-| Diarrhea | 8 | 9 |  |  |
-| Gastritis |  |  | 0 | 3 |
-| Dry mouth |  |  | 1 | 3 |
-| Liver and Biliary System Disorders |  |  |  |  |
-| Increase Gamma-GT |  |  | 1 | 3 |
-| Metabolic and Nutritional Disorders |  |  |  |  |
-| Weight loss | 7 | 17 | 6 | 17 |
-| Platelet, Bleeding & Clotting Disorders |  |  |  |  |
-| Epistaxis | 0 | 4 |  |  |
-| Psychiatric Disorders |  |  |  |  |
-| Anorexia |  |  | 4 | 14 |
-| Anxiety |  |  | 4 | 6 |
-| Cognitive problems | 1 | 6 | 1 | 4 |
-| Confusion | 0 | 3 |  |  |
-| Depression | 0 | 3 | 7 | 9 |
-| Difficulty with concentration/attention | 7 | 10 | 7 | 8 |
-| Difficulty with memory | 1 | 3 | 6 | 11 |
-| Insomnia |  |  | 8 | 9 |
-| Decrease in libido |  |  | 0 | 3 |
-| Mood problems | 1 | 8 | 2 | 5 |
-| Personality disorder (behavior problems) | 0 | 3 |  |  |
-| Psychomotor slowing |  |  | 3 | 5 |
-| Somnolence |  |  | 10 | 15 |
-| Red Blood Cell Disorders |  |  |  |  |
-| Anemia | 1 | 3 |  |  |
-| Reproductive Disorders, Female† |  |  |  |  |
-| Intermenstrual Bleeding | 0 | 3 |  |  |
-| Vaginal Hemorrhage |  |  | 0 | 3 |
-| Resistance Mechanism Disorders |  |  |  |  |
-| Infection | 3 | 8 | 2 | 3 |
-| Viral infection | 3 | 6 | 6 | 8 |
-| Respiratory System Disorders |  |  |  |  |
-| Bronchitis | 1 | 5 | 3 | 4 |
-| Upper respiratory tract infection | 16 | 18 |  |  |
-| Rhinitis | 5 | 6 | 2 | 4 |
-| Sinusitis | 1 | 4 |  |  |
-| Skin and Appendages Disorders |  |  |  |  |
-| Alopecia | 1 | 4 | 3 | 4 |
-| Pruritus |  |  | 1 | 4 |
-| Rash | 3 | 4 | 1 | 4 |
-| Acne |  |  | 2 | 3 |
-| Special Senses Other, Disorders |  |  |  |  |
-| Taste perversion |  |  | 3 | 5 |
-| Urinary System Disorders |  |  |  |  |
-| Cystitis |  |  | 1 | 3 |
-| Micturition frequency | 0 | 3 |  |  |
-| Renal calculus |  |  | 0 | 3 |
-| Urinary incontinence | 1 | 3 |  |  |
-| Vascular (Extracardiac) Disorders |  |  |  |  |
-| Flushing | 0 | 5 |  |  |
+|  | Age Group |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Pediatric (6 to 15 Years) |  |  | Adult (Age ≥ 16 Years) |  |  |
+| Topiramate Daily Dosage Group (mg/day) |  |  |  |  |  |
+| 50 | 400 | 50 |  | 400 |  |
+| Body System Adverse Reaction | (N=74) % | (N=77) % | (N=160) % |  | (N=159) % |
+| Body as a Whole - General Disorders |  |  |  |  |  |
+| Asthenia | 0 | 3 | 4 |  | 6 |
+| Fever | 1 | 12 |  |  |  |
+| Leg pain |  |  | 2 |  | 3 |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |  |
+| Paresthesia | 3 | 12 | 21 |  | 40 |
+| Dizziness |  |  | 13 |  | 14 |
+| Ataxia |  |  | 3 |  | 4 |
+| Hypoesthesia |  |  | 4 |  | 5 |
+| Hypertonia |  |  | 0 |  | 3 |
+| Involuntary muscle contractions | 0 | 3 |  |  |  |
+| Vertigo | 0 | 3 |  |  |  |
+| Gastro-Intestinal System Disorders |  |  |  |  |  |
+| Constipation |  |  | 1 |  | 4 |
+| Diarrhea | 8 | 9 |  |  |  |
+| Gastritis |  |  | 0 |  | 3 |
+| Dry mouth |  |  | 1 |  | 3 |
+| Liver and Biliary System Disorders |  |  |  |  |  |
+| Increase Gamma-GT |  |  | 1 |  | 3 |
+| Metabolic and Nutritional Disorders |  |  |  |  |  |
+| Weight loss | 7 | 17 | 6 |  | 17 |
+| Platelet, Bleeding & Clotting Disorders |  |  |  |  |  |
+| Epistaxis | 0 | 4 |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |
+| Anorexia |  |  | 4 |  | 14 |
+| Anxiety |  |  | 4 |  | 6 |
+| Cognitive problems | 1 | 6 | 1 |  | 4 |
+| Confusion | 0 | 3 |  |  |  |
+| Depression | 0 | 3 | 7 |  | 9 |
+| Difficulty with concentration or attention | 7 | 10 | 7 |  | 8 |
+| Difficulty with memory | 1 | 3 | 6 |  | 11 |
+| Insomnia |  |  | 8 |  | 9 |
+| Decrease in libido |  |  | 0 |  | 3 |
+| Mood problems | 1 | 8 | 2 |  | 5 |
+| Personality disorder (behavior problems) | 0 | 3 |  |  |  |
+| Psychomotor slowing |  |  | 3 |  | 5 |
+| Somnolence |  |  | 10 |  | 15 |
+| Red Blood Cell Disorders |  |  |  |  |  |
+| Anemia | 1 | 3 |  |  |  |
+| Reproductive Disorders, Female |  |  |  |  |  |
+| Intermenstrual Bleeding | 0 | 3 |  |  |  |
+| Vaginal Hemorrhage |  |  | 0 |  | 3 |
+| Resistance Mechanism Disorders |  |  |  |  |  |
+| Infection | 3 | 8 | 2 |  | 3 |
+| Viral Infection | 3 | 6 | 6 |  | 8 |
+| Respiratory System Disorders |  |  |  |  |  |
+| Bronchitis | 1 | 5 | 3 |  | 4 |
+| Upper respiratory tract infection | 16 | 18 |  |  |  |
+| Rhinitis | 5 | 6 | 2 |  | 4 |
+| Sinusitis | 1 | 4 |  |  |  |
+| Skin and Appendages Disorders |  |  |  |  |  |
+| Alopecia | 1 | 4 | 3 |  | 4 |
+| Pruritus |  |  | 1 |  | 4 |
+| Rash | 3 | 4 | 1 |  | 4 |
+| Acne |  |  | 2 |  | 3 |
+| Special Senses Other, Disorders |  |  |  |  |  |
+| Taste perversion |  |  | 3 |  | 5 |
+| Urinary System Disorders |  |  |  |  |  |
+| Cystitis |  |  | 1 |  | 3 |
+| Micturition frequency | 0 | 3 |  |  |  |
+| Renal calculus |  |  | 0 |  | 3 |
+| Urinary incontinence | 1 | 3 |  |  |  |
+| Vascular (Extracardiac) Disorders |  |  |  |  |  |
+| Flushing | 0 | 5 |  |  |  |
 
 Adjunctive Therapy Epilepsy
 
@@ -171,7 +172,7 @@ Table 6 Most Common Adverse Reactions in Pooled Placebo-Controlled, Add-On Epile
 | Vision Disorders |  |  |
 | Vision abnormal | 2 | 13 |
 | Diplopia | 5 | 10 |
-| aPatients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. |  |  |
+| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. |  |  |
 
 In controlled clinical trials in adults, 11% of patients receiving topiramate 200 to 400 mg/day as adjunctive therapy discontinued due to adverse reactions.
 This rate appeared to increase at dosages above 400 mg/day.
@@ -269,8 +270,6 @@ Table 8 Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adul
 | Weight loss | 1 | 6 | 9 |
 | Musculoskeletal System Disorders |  |  |  |
 | Arthralgia | 2 | 7 | 3 |
-| Neoplasms |  |  |  |
-| Neoplasm | <1 | 2 | <1 |
 | Psychiatric Disorders |  |  |  |
 | Anorexia | 6 | 9 | 15 |
 | Somnolence | 5 | 8 | 7 |
