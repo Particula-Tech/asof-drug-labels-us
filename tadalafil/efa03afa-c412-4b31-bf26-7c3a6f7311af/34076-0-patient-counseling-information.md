@@ -1,0 +1,31 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+See FDA-Approved Patient Labeling (Patient Information)
+
+- Inform patients of contraindication of tadalafil with any use of organic nitrates or GC stimulators.
+- Inform patients that tadalafil is also marketed as CIALIS for erectile dysfunction (ED) and for the signs and symptoms of benign prostatic hyperplasia (BPH).
+  Advise patients taking tadalafil not to take CIALIS or other PDE5 inhibitors.
+- Advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes while taking tadalafil.
+  Such an event may be a sign of NAION.
+- Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking tadalafil.
+  These events may be accompanied by tinnitus and dizziness.
+
+The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
+
+Manufactured for:
+
+Lupin Pharmaceuticals, Inc.
+
+Baltimore, Maryland 21202
+
+United States
+
+Manufactured by:
+
+Lupin Limited
+
+Nagpur 441 108
+
+INDIA
+
+October 2018 ID#: 256372

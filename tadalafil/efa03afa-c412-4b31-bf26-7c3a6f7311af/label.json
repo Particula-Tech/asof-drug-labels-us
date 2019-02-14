@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210572"
+  ],
+  "inn": "tadalafil",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-914-06",
+    "68180-914-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tadalafil",
+      "name": "Tadalafil"
+    }
+  ],
+  "setid": "efa03afa-c412-4b31-bf26-7c3a6f7311af",
+  "source": "dailymed"
+}

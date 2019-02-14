@@ -1,0 +1,9 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 68180-914-06
+
+Tadalafil Tablets USP
+
+20 mg
+
+Pack of 30 tablets
