@@ -21,17 +21,11 @@ In women, the average Cmax and AUC of the 1.75 mg Intermezzo dose were 37 ng/mL 
 Food decreased the overall Cmax and AUC of Intermezzo 3.5 mg by 42% and 19%, respectively, and increased the time to peak exposure (Tmax) to nearly 3 hours.
 For optimal effect, Intermezzo should not be administered with or immediately after a meal.
 
-### Distribution
+Distribution Based on data obtained with oral zolpidem, the total protein binding was found to be 93% ± 0.1% and remained constant independent of concentration between 40 ng/mL and 790 ng/mL.
 
-Based on data obtained with oral zolpidem, the total protein binding was found to be 93% ± 0.1% and remained constant independent of concentration between 40 ng/mL and 790 ng/mL.
+Metabolism Based on data obtained with oral zolpidem, zolpidem tartrate is converted to inactive metabolites that are eliminated primarily by renal excretion.
 
-### Metabolism
-
-Based on data obtained with oral zolpidem, zolpidem tartrate is converted to inactive metabolites that are eliminated primarily by renal excretion.
-
-### Elimination
-
-The elimination half-life of a single dose of a 3.5 mg Intermezzo sublingual tablet is approximately 2.5 hours (range 1.4 to 3.6 hours).
+Elimination The elimination half-life of a single dose of a 3.5 mg Intermezzo sublingual tablet is approximately 2.5 hours (range 1.4 to 3.6 hours).
 
 Special Populations
 
@@ -54,9 +48,7 @@ No dosage adjustment is necessary in patients with renal impairment.
 
 Drug Interactions
 
-### CNS-depressants
-
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].
+CNS-depressants Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
 Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.
@@ -73,9 +65,7 @@ A single-dose interaction study with zolpidem tartrate 10 mg and fluoxetine 20 m
 When multiple doses of zolpidem and fluoxetine were given at steady state and the concentrations evaluated in healthy females, an increase in the zolpidem half-life (17%) was observed.
 There was no evidence of an additive effect in psychomotor performance.
 
-### Drugs that Affect Drug Metabolism via Cytochrome P450
-
-Some compounds known to inhibit CYP3A may increase exposure to zolpidem.
+Drugs that Affect Drug Metabolism via Cytochrome P450 Some compounds known to inhibit CYP3A may increase exposure to zolpidem.
 The effect of inhibitors of other P450 enzymes on the pharmacokinetics of zolpidem is unknown.
 
 A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 200 mg at steady-state levels in male volunteers resulted in a 34% increase in AUC0-∞ of zolpidem tartrate.
@@ -87,8 +77,6 @@ Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharma
 A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30%) along with an increase in the pharmacodynamic effects of zolpidem.
 Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
 
-### Other Drugs with No Interactions with Zolpidem
-
-A study involving cimetidine/zolpidem tartrate and ranitidine/zolpidem tartrate combinations revealed no effect of either drug on the pharmacokinetics or pharmacodynamics of zolpidem.
+Other Drugs with No Interactions with Zolpidem A study involving cimetidine/zolpidem tartrate and ranitidine/zolpidem tartrate combinations revealed no effect of either drug on the pharmacokinetics or pharmacodynamics of zolpidem.
 
 Zolpidem tartrate had no effect on digoxin pharmacokinetics and did not affect prothrombin time when given with warfarin in healthy subjects.

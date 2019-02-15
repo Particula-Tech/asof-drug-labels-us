@@ -10,6 +10,8 @@ The use of Intermezzo with other sedative-hypnotics (including other zolpidem pr
 In a driving study, healthy subjects who received Intermezzo with fewer than four hours of bedtime remaining had evidence of impaired driving compared to subjects who received placebo [see Clinical Studies (14.2)].
 The risk of next-day driving impairment (and psychomotor impairment) is increased if Intermezzo is taken with less than 4 hours of bedtime remaining, if higher than recommended dose is taken, if co-administered with other CNS depressants, or co-administered with other drugs that increase the blood levels of zolpidem.
 
+Because Intermezzo can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at a higher risk of falls.
+
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
 
 Because sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient.

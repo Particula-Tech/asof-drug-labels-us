@@ -7,27 +7,18 @@ Inform patients of the availability of a Medication Guide and instruct them to r
 Review the Intermezzo Medication Guide with every patient prior to initiation of treatment.
 Instruct patients or caregivers that Intermezzo should be taken only as prescribed.
 
-### CNS depressant Effects and Next-Day Impairment
-
-Tell patients that Intermezzo has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
+CNS depressant Effects and Next-Day Impairment Tell patients that Intermezzo has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
 Tell patients to wait for at least 4 hours after dosing and until they feel fully awake before driving or engaging in other activities requiring full mental alertness.
+Advise patients the increased drowsiness and decreased consciousness may increase the risk of falls in some patients.
 
-### Severe Anaphylactic and Anaphylactoid Reactions
-
-Inform patients that severe anaphylactic and anaphylactoid reactions have occurred with zolpidem.
+Severe Anaphylactic and Anaphylactoid Reactions Inform patients that severe anaphylactic and anaphylactoid reactions have occurred with zolpidem.
 Describe the signs/symptoms of these reactions and advise patients to seek medical attention immediately if any of them occur.
 
-### Sleep-driving and Other Complex Behaviors
+Sleep-driving and Other Complex Behaviors Instruct patients to inform their families that zolpidem has been associated with “sleep-driving” and other complex behaviors while not being fully awake (preparing and eating food, making phone calls, or having sex), and tell patients and their families to call their healthcare providers immediately if they develop any of these symptoms.
 
-Instruct patients to inform their families that zolpidem has been associated with “sleep-driving” and other complex behaviors while not being fully awake (preparing and eating food, making phone calls, or having sex), and tell patients and their families to call their healthcare providers immediately if they develop any of these symptoms.
+Suicide Tell patients to immediately report any suicidal thoughts.
 
-### Suicide
-
-Tell patients to immediately report any suicidal thoughts.
-
-### Administration Instructions
-
-For detailed instructions on how to use Intermezzo, tell patients to refer to the Patient Instructions for Use.
+Administration Instructions For detailed instructions on how to use Intermezzo, tell patients to refer to the Patient Instructions for Use.
 
 Tell patients that Intermezzo is to be taken only once per night if needed if they wake in the middle of the night and have difficulty returning to sleep.
 Tell patients that Intermezzo should only be taken if they have 4 hours of bedtime remaining before the planned time of waking.
@@ -45,6 +36,6 @@ Healthcare professionals can telephone Purdue Pharma’s Medical Services Depart
 
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: Patheon Pharmaceuticals, Inc., Cincinnati, OH 45237
 
-U.S. Patent Numbers 7658945; 7682628; 8,242,131; 8,252,809
+U.S. Patent Numbers 7,658,945; 7,682,628; 8,242,131; 8,252,809
 
-©2015, Purdue Pharma L.P.
+©2018, Purdue Pharma L.P.

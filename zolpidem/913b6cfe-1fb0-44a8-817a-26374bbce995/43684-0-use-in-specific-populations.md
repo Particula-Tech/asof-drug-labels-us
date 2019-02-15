@@ -48,16 +48,14 @@ Table 2: Adverse Reactions in Geriatric Patients in Pooled Trials of 5 mg to 10 
 | Drowsiness | 5% | 2% |
 | Diarrhea | 3% | 1% |
 
-### Falls in geriatric patients:
-
-A total of 30/1,959 (2%) non-U.S. patients receiving other zolpidem formulations (5 mg to 10 mg oral zolpidem tartrate) reported falls, including 28/30 (93%) who were ≥ 70 years of age.
+Falls in geriatric patients: A total of 30/1,959 (2%) non-U.S. patients receiving other zolpidem formulations (5 mg to 10 mg oral zolpidem tartrate) reported falls, including 28/30 (93%) who were ≥ 70 years of age.
 Of these 28 patients, 23 (82%) were receiving zolpidem tartrate doses > 10 mg.
 A total of 24/1,959 (1%) non-U.S. patients receiving zolpidem reported confusion, including 18/24 (75%) who were ≥70 years of age.
 Of these 18 patients, 14 (78%) were receiving zolpidem tartrate doses >10 mg.
 
 The dose of Intermezzo in elderly patients is 1.75 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative-hypnotic drugs.
 
-## 8.6 Gender Difference in Pharmacokinetics
+## 8.6 Gender Differences in Pharmacokinetics
 
 Women cleared zolpidem tartrate from the body after sublingual administration of a 3.5 mg dose of Intermezzo at a lower rate than men (2.7 mL/min/kg vs. 4.0 mL/min/kg).
 Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
