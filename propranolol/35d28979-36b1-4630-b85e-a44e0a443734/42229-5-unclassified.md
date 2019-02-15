@@ -1,6 +1,6 @@
 # PHARMACOKINETICS AND DRUG METABOLISM
 
-Absorption
+## Absorption
 
 Propranolol is highly lipophilic and almost completely absorbed after oral administration.
 However, it undergoes high first pass metabolism by the liver and on average, only about 25% of propranolol reaches the systemic circulation.
@@ -9,7 +9,7 @@ Peak blood levels following dosing with Inderal LA occur at about 6 hours.
 
 The effect of food on Inderal LA bioavailability has not been investigated.
 
-Distribution
+## Distribution
 
 Approximately 90% of circulating propranolol is bound to plasma proteins (albumin and alpha-1-acid glycoprotein).
 The binding is enantiomer-selective.
@@ -18,7 +18,7 @@ The volume of distribution of propranolol is approximately 4 liters/kg.
 
 Propranolol crosses the blood-brain barrier and the placenta, and is distributed into breast milk.
 
-Metabolism and Elimination
+## Metabolism and Elimination
 
 Propranolol is extensively metabolized with most metabolites appearing in the urine.
 Propranolol is metabolized through three primary routes: aromatic hydroxylation (mainly 4-hydroxylation), N-dealkylation followed by further side-chain oxidation, and direct glucuronidation.
@@ -40,14 +40,14 @@ The lower AUCs for the Inderal LA capsules are due to greater hepatic metabolism
 Over a twenty-four (24) hour period, blood levels are fairly constant for about twelve (12) hours, then decline exponentially.
 The apparent plasma half-life is about 10 hours.
 
-Enantiomers
+## Enantiomers
 
 Propranolol is a racemic mixture of two enantiomers, R(+) and S(-).
 The S(-)-enantiomer is approximately 100 times as potent as the R(+)-enantiomer in blocking beta-adrenergic receptors.
 In normal subjects receiving oral doses of racemic propranolol, S(-)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40 to 90% as a result of stereoselective hepatic metabolism.
 Clearance of the pharmacologically active S(-)-propranolol is lower than R(+)-propranolol after intravenous and oral doses.
 
-Special Population
+## Special Population
 
 Geriatric
 
@@ -96,7 +96,7 @@ Propranolol is extensively metabolized by the liver.
 In a study conducted in 6 patients with cirrhosis and 7 healthy subjects receiving 160 mg of a long-acting preparation of propranolol once a day for 7 days, the steady-state propranolol concentration in patients with cirrhosis was increased 2.5-fold in comparison to controls.
 In the patients with cirrhosis, the half-life obtained after a single intravenous dose of 10 mg propranolol increased to 7.2 hours compared to 2.9 hours in control (see PRECAUTIONS).
 
-Drug Interactions
+## Drug Interactions
 
 All drug interaction studies were conducted with propranolol.
 There are no data on drug interactions with Inderal LA capsules.
@@ -186,7 +186,7 @@ Concomitant administration of propranolol and warfarin has been shown to increas
 
 # PHARMACODYNAMICS AND CLINICAL EFFECTS
 
-Hypertension
+## Hypertension
 
 In a retrospective, uncontrolled study, 107 patients with diastolic blood pressure 110 to 150 mmHg received propranolol 120 mg t.i.d. for at least 6 months, in addition to diuretics and potassium, but with no other hypertensive agent.
 Propranolol contributed to control of diastolic blood pressure, but the magnitude of the effect of propranolol on blood pressure cannot be ascertained.
@@ -196,7 +196,7 @@ Three of these studies were conducted over a 4-week treatment period.
 One study was assessed after a 24-hour period.
 Inderal LA was as effective as propranolol in controlling hypertension (pulse rate, systolic and diastolic blood pressure) in each of these trials.
 
-Angina Pectoris
+## Angina Pectoris
 
 In a double-blind, placebo-controlled study of 32 patients of both sexes, aged 32 to 69 years, with stable angina, propranolol 100 mg t.i.d. was administered for 4 weeks and shown to be more effective than placebo in reducing the rate of angina episodes and in prolonging total exercise time.
 
@@ -210,12 +210,12 @@ In another double-blind, randomized, crossover trial, the effectiveness of propr
 ECG's were recorded while patients exercised until angina developed.
 Inderal LA was as effective as conventional propranolol for amount of exercise performed, ST-segment depression, number of anginal attacks, amount of nitroglycerine consumed, systolic and diastolic blood pressures and heart rate at rest and after exercise.
 
-Migraine
+## Migraine
 
 In a 34-week, placebo-controlled, 4-period, dose-finding crossover study with a double-blind randomized treatment sequence, 62 patients with migraine received propranolol 20 to 80 mg 3 or 4 times daily.
 The headache unit index, a composite of the number of days with headache and the associated severity of the headache, was significantly reduced for patients receiving propranolol as compared to those on placebo.
 
-Hypertrophic Subaortic Stenosis
+## Hypertrophic Subaortic Stenosis
 
 In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol 40 to 80 mg t.i.d. was administered and patients were followed for up to 17 months.
 Propranolol was associated with improved NYHA class for most patients.

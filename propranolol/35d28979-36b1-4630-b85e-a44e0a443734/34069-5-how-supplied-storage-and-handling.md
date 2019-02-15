@@ -23,6 +23,4 @@ Manufactured by: Pfizer Ireland Pharmaceuticals Little Connell, Newbridge, Co. K
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-PAA108046
-
-9909 Rev 05/18
+9909 Rev 08/18
