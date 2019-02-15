@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 VEMLIDY is a tablet containing tenofovir alafenamide for oral administration.
-Tenofovir alafenamide, a hepatitis B virus (HBV) nucleoside analog reverse transcriptase inhibitor, is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
+Tenofovir alafenamide, a hepatitis B virus (HBV) nucleoside analog reverse transcriptase inhibitor, is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
 
 Each tablet contains 25 mg of tenofovir alafenamide (equivalent to 28 mg of tenofovir alafenamide fumarate).
 The tablets include the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.

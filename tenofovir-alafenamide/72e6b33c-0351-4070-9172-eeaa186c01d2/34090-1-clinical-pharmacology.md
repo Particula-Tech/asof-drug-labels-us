@@ -53,8 +53,16 @@ Limited data in subjects aged 65 and over suggest a lack of clinically relevant 
 
 Patients with Renal Impairment
 
-Relative to subjects with normal renal function (estimated creatinine clearance ≥90 mL/min), the tenofovir alafenamide and tenofovir systemic exposures in subjects with severe renal impairment were 1.9-fold and 5.7-fold higher, respectively.
-The pharmacokinetics of tenofovir alafenamide have not been evaluated in patients with creatinine clearance less than 15 mL per minute.
+In a Phase 1, open-label study, tenofovir alafenamide and tenofovir systemic exposures (AUCinf) were evaluated in subjects with severe renal impairment and in subjects with normal renal function (Table 7).
+In an open-label trial of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg, tenofovir alafenamide and tenofovir AUC was evaluated in a subset of virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis (Table 7) [see Use in Specific Populations (8.6)].
+
+Table 7 Pharmacokinetics of Tenofovir Alafenamide and its Metabolite Tenofovir in Subjects with Renal Impairment as Compared to Subjects with Normal Renal Function
+
+| Estimated Creatinine ClearanceBy Cockcroft-Gault method. | ≥90 mL per minute 25 mg TAF (N=13)PK assessed on a single dose of TAF 25 mg in subjects with severe renal impairment and healthy subjects. | 15–29 mL per minute 25 mg TAF (N=14) | <15 mL per minute 10 mg TAFExposures from TAF 25 mg = exposures from TAF 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. (N=12)PK assessed prior to hemodialysis following 3 consecutive daily doses of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide in HIV-infected subjects. |
+| --- | --- | --- | --- |
+|  | AUC (mcg∙hour per mL) Mean (CV%) |  |  |
+| Tenofovir alafenamide | 0.27 (49.2)AUCinf. | 0.51 (47.3) | 0.23 (53.2)AUClast. |
+| Tenofovir | 0.34 (27.2) | 2.07 (47.1) | 8.72 (39.4)AUCtau.,N=10. |
 
 Patients with Hepatic Impairment
 
@@ -68,23 +76,23 @@ Drug Interaction Studies
 
 [see Drug Interactions (7)]
 
-The effects of coadministered drugs on the exposure of tenofovir alafenamide are shown in Table 7.
-The effects of tenofovir alafenamide on the exposure of coadministered drugs are shown in Table 8 [For information regarding clinical recommendations, see Drug Interactions (7)].
+The effects of coadministered drugs on the exposure of tenofovir alafenamide are shown in Table 8.
+The effects of tenofovir alafenamide on the exposure of coadministered drugs are shown in Table 9 [For information regarding clinical recommendations, see Drug Interactions (7)].
 Information regarding potential drug-drug interactions with HIV antiretrovirals is not provided (see the prescribing information for emtricitabine/tenofovir alafenamide for interactions with HIV antiretrovirals).
 
-Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide in the Presence of the Coadministered DrugAll interaction studies conducted in healthy subjects.
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide in the Presence of the Coadministered DrugAll interaction studies conducted in healthy subjects.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Tenofovir Alafenamide (mg) | N | Geometric Mean Ratio of TAF Pharmacokinetic Parameters (90% CI)All no effect boundaries are 70%–143%.; No effect = 1.00 |  |  |
 | Carbamazepine | 300 twice daily | 25 once dailyStudy conducted with emtricitabine/tenofovir alafenamide. | 26 | 0.43 (0.36, 0.51) | 0.45 (0.40, 0.51) | NC |
 | CobicistatA representative inhibitor of P-glycoprotein. | 150 once daily | 8 once daily | 12 | 2.83 (2.20, 3.65) | 2.65 (2.29, 3.07) | NC |
-| Ledipasvir/Sofosbuvir | 90/400 once daily | 25 once dailyStudy conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 42 | 1.03 (0.94, 1.14) | 1.32 (1.25, 1.40) | NC |
+| Ledipasvir/ Sofosbuvir | 90/400 once daily | 25 once dailyStudy conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 42 | 1.03 (0.94, 1.14) | 1.32 (1.25, 1.40) | NC |
 | Sertraline | 50 single dose | 10 once dailyStudy conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 19 | 1.00 (0.86, 1.16) | 0.96 (0.89, 1.03) | NC |
 | Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100+ 100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | 1.32 (1.17, 1.48) | 1.52 (1.43, 1.61) | NC |
 | NC = not calculated |  |  |  |  |  |  |
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir AlafenamideAll interaction studies conducted in healthy subjects.
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir AlafenamideAll interaction studies conducted in healthy subjects.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

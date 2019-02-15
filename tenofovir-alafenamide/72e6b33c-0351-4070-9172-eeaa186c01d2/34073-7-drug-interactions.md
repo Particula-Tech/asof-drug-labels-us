@@ -25,8 +25,8 @@ Table 4 Established and Other Potentially Significant Drug InteractionsThis tabl
 | --- | --- | --- |
 | Anticonvulsants: carbamazepineIndicates that a drug interaction study was conducted.P-gp inducer oxcarbazepine phenobarbital phenytoin | ↓ tenofovir alafenamide | When coadministered with carbamazepine, the tenofovir alafenamide dose should be increased to two tablets once daily. Coadministration of VEMLIDY with oxcarbazepine, phenobarbital, or phenytoin is not recommended. |
 | Antimycobacterial: Rifabutin Rifampin Rifapentine | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with rifabutin, rifampin or rifapentine is not recommended. |
-| Herbal Products: St. John's wort(Hypericum perforatum) | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with St. John's wort is not recommended. |
+| Herbal Products: St. John's wort (Hypericum perforatum) | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with St. John's wort is not recommended. |
 
 ## 7.4 Drugs without Clinically Significant Interactions with VEMLIDY
 
-Based on drug interaction studies conducted with VEMLIDY, no clinically significant drug interactions have been observed with: ethinyl estradiol, sofosbuvir, sofosbuvir/velpatasvir, ledipasvir/sofosbuvir, midazolam, norgestimate, sertraline, and sofosbuvir/velpatasvir/voxilaprevir.
+Based on drug interaction studies conducted with VEMLIDY, no clinically significant drug interactions have been observed with: ethinyl estradiol, ledipasvir/sofosbuvir, midazolam, norgestimate, sertraline, sofosbuvir, sofosbuvir/velpatasvir, and sofosbuvir/velpatasvir/voxilaprevir.

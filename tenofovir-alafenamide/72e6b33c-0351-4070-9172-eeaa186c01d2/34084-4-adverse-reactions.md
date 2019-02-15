@@ -42,13 +42,14 @@ The safety profile of VEMLIDY in subjects who remained on VEMLIDY in the open-la
 
 Renal Laboratory Tests
 
-In a pooled analysis of Studies 108 and 110 in adult subjects with chronic hepatitis B and a median baseline eGFR of 106 and 105 mL per minute (for the VEMLIDY and TDF groups, respectively), mean serum creatinine increased by less than 0.1 mg/dL and median serum phosphorus decreased by 0.1 mg/ dL in both treatment groups at Week 96.
-Median change from baseline to Week 96 in eGFR was -1.2 mL per minute in the VEMLIDY group and -4.8 mL per minute in those receiving TDF.
-The long-term clinical significance of these renal laboratory changes on adverse reaction frequencies between VEMLIDY and TDF is not known.
+In a pooled analysis of Studies 108 and 110 in adult subjects with chronic hepatitis B and a median baseline estimated creatinine clearance between 106 and 105 mL per minute (for the VEMLIDY and TDF groups, respectively), mean serum creatinine increased by less than 0.1 mg/dL and median serum phosphorus decreased by 0.1 mg/dL in both treatment groups at Week 96.
+Median change from baseline to Week 96 in estimated creatinine clearance was -1.2 mL per minute in the VEMLIDY group and -4.8 mL per minute in those receiving TDF.
 
 In subjects who remained on blinded treatment beyond Week 96 in Studies 108 and 110, change from baseline in renal laboratory parameter values in each group at Week 120 were similar to those at Week 96.
 In the open-label phase, median change in eGFR from Week 96 to Week 120 was -0.6 mL per minute in subjects who remained on VEMLIDY and 1.8 mL per minute in those who switched from TDF to VEMLIDY at Week 96.
 Mean serum creatinine and median serum phosphorus values at Week 120 were similar to those at Week 96 in subjects who remained on VEMLIDY and in subjects who switched from TDF to VEMLIDY.
+
+The long-term clinical significance of these renal laboratory changes on adverse reaction frequencies between VEMLIDY and TDF is not known.
 
 Bone Mineral Density Effects
 
@@ -108,3 +109,12 @@ Table 3 Lipid Abnormalities: Mean Change from Baseline in Lipid Parameters in Pa
 
 In the open-label phase, lipid parameters at Week 120 in subjects who remained on VEMLIDY were similar to those at Week 96.
 In subjects who switched from TDF to VEMLIDY, mean change from Week 96 to Week 120 in total cholesterol was 23 mg/dL, HDL-cholesterol was 5 mg/dL, LDL-cholesterol was 16 mg/dL, triglycerides was 30 mg/dL, and total cholesterol to HDL ratio was 0 mg/dL.
+
+## 6.2 Postmarketing Experience
+
+The following events have been identified during post approval use of VEMLIDY.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Subcutaneous Tissue Disorders
+
+Angioedema, urticaria

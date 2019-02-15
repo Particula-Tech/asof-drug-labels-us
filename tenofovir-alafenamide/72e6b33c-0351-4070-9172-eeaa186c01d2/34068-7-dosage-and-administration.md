@@ -14,8 +14,10 @@ The recommended dosage of VEMLIDY is 25 mg (one tablet) taken orally once daily 
 
 ## 2.3 Dosage in Patients with Renal Impairment
 
-No dosage adjustment of VEMLIDY is required in patients with mild, moderate, or severe renal impairment.
-VEMLIDY is not recommended in patients with end stage renal disease (estimated creatinine clearance below 15 mL per minute) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No dosage adjustment of VEMLIDY is required in patients with estimated creatinine clearance greater than or equal to 15 mL per minute, or in patients with end stage renal disease (ESRD; estimated creatinine clearance below 15 mL per minute) who are receiving chronic hemodialysis.
+On days of hemodialysis, administer VEMLIDY after completion of hemodialysis treatment.
+
+VEMLIDY is not recommended in patients with ESRD who are not receiving chronic hemodialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.4 Dosage in Patients with Hepatic Impairment
 

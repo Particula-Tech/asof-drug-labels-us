@@ -21,9 +21,9 @@ In both studies, randomization was stratified on prior treatment history (nucleo
 The efficacy endpoint in both trials was the proportion of subjects with plasma HBV DNA levels below 29 IU/mL at Week 48.
 Additional efficacy endpoints include the proportion of subjects with ALT normalization, HBsAg loss and seroconversion, and HBeAg loss and seroconversion in Study 110.
 
-Treatment outcomes of Studies 108 and 110 at Week 48 are presented in Table 9 and Table 10.
+Treatment outcomes of Studies 108 and 110 at Week 48 are presented in Table 10 and Table 11.
 
-Table 9 Studies 108 and 110: HBV DNA Virologic Outcome at Week 48Missing = failure analysis in Patients with Chronic HBV Infection and Compensated Liver Disease
+Table 10 Studies 108 and 110: HBV DNA Virologic Outcome at Week 48Missing = failure analysis in Patients with Chronic HBV Infection and Compensated Liver Disease
 
 |  | VEMLIDY (N=285) | Tenofovir Disoproxil Fumarate (N=140) | VEMLIDY (N=581) | Tenofovir Disoproxil Fumarate (N=292) |
 | --- | --- | --- | --- | --- |
@@ -31,21 +31,28 @@ Table 9 Studies 108 and 110: HBV DNA Virologic Outcome at Week 48Missing = failu
 | HBV DNA <29 IU/mL | 94% | 93% | 64% | 67% |
 | Treatment DifferenceAdjusted by baseline plasma HBV DNA categories and oral antiviral treatment status strata. | 1.8% (95% CI = -3.6% to 7.2%) |  | -3.6% (95% CI = -9.8% to 2.6%) |  |
 | HBV DNA ≥ 29 IU/mL | 2% | 3% | 31% | 30% |
-| Baseline HBV DNA <7 log10 IU/mL ≥7 log10 IU/mL | 96% (221/230) 85% (47/55) | 92% (107/116) 96% (23/24) | N/A | N/A |
-| Baseline HBV DNA <8 log10 IU/mL ≥8 log10 IU/mL | N/A | N/A | 82% (254/309) 43% (117/272) | 82% (123/150) 51% (72/142) |
-| Nucleoside NaïveTreatment-naïve subjects received <12 weeks of oral antiviral treatment with any nucleoside or nucleotide analog including TDF or VEMLIDY. Nucleoside Experienced | 94% (212/225) 93% (56/60) | 93% (102/110) 93% (28/30) | 68% (302/444) 50% (69/137) | 70% (156/223) 57% (39/69) |
+| Baseline HBV DNA |  |  |  |  |
+| <7 log10 IU/mL | 96% (221/230) | 92% (107/116) | N/A | N/A |
+| ≥7 log10 IU/mL | 85% (47/55) | 96% (23/24) |  |  |
+| Baseline HBV DNA |  |  |  |  |
+| <8 log10 IU/mL | N/A | N/A | 82% (254/309) | 82% (123/150) |
+| ≥8 log10 IU/mL |  |  | 43% (117/272) | 51% (72/142) |
+| Nucleoside NaïveTreatment-naïve subjects received <12 weeks of oral antiviral treatment with any nucleoside or nucleotide analog including TDF or VEMLIDY. | 94% (212/225) | 93% (102/110) | 68% (302/444) | 70% (156/223) |
+| Nucleoside Experienced | 93% (56/60) | 93% (28/30) | 50% (69/137) | 57% (39/69) |
 | No Virologic Data at Week 48Includes subjects who discontinued due to lack of efficacy, adverse event or death, for reasons other than an AE, death or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up, etc., or missing data during Week 48 window but still on study drug. | 4% | 4% | 5% | 3% |
 
 In Study 108, the proportion of subjects with cirrhosis who achieved HBV DNA <29 IU/mL at Week 48 was 92% (22/24) in the VEMLIDY group and 93% (13/14) in the TDF group.
 The corresponding proportions in Study 110 were 63% (26/41) and 67% (16/24) in the VEMLIDY and TDF groups, respectively.
 
-Table 10 Additional Efficacy Parameters at Week 48Missing = failure analysis
+Table 11 Additional Efficacy Parameters at Week 48Missing = failure analysis
 
 |  | VEMLIDY (N=285) | Tenofovir Disoproxil Fumarate (N=140) | VEMLIDY (N=581) | Tenofovir Disoproxil Fumarate (N=292) |
 | --- | --- | --- | --- | --- |
 |  | Study 108 (HBeAg-Negative) |  | Study 110 (HBeAg-Positive) |  |
-| ALT Normalized ALT (Central Lab)The population used for analysis of ALT normalization included only subjects with ALT above upper limit of normal (ULN) of the central laboratory range (>43 U/L for males aged 18 to <69 years and >35 U/L for males ≥69 years; >34 U/L for females 18 to <69 years and >32 U/L for females ≥69 years) at baseline. | 83% | 75% | 72% | 67% |
+| ALT |  |  |  |  |
+| Normalized ALT (Central Lab)The population used for analysis of ALT normalization included only subjects with ALT above upper limit of normal (ULN) of the central laboratory range (>43 U/L for males aged 18 to <69 years and >35 U/L for males ≥69 years; >34 U/L for females 18 to <69 years and >32 U/L for females ≥69 years) at baseline. | 83% | 75% | 72% | 67% |
 | Normalized ALT (AASLD)The population used for analysis of ALT normalization included only subjects with ALT above ULN of the American Association of the Study of Liver Diseases (AASLD) criteria (>30 U/L males and >19 U/L females) at baseline. | 50% | 32% | 45% | 36% |
-| Serology HBeAg Loss / SeroconversionThe population used for serology analysis included only subjects with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline. | N/A | N/A | 14% / 10% | 12% / 8% |
+| Serology |  |  |  |  |
+| HBeAg Loss / SeroconversionThe population used for serology analysis included only subjects with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline. | N/A | N/A | 14% / 10% | 12% / 8% |
 | HBsAg Loss / Seroconversion | 0 / 0 | 0 / 0 | 1% / 1% | <1% / 0 |
 | N/A = not applicable |  |  |  |  |

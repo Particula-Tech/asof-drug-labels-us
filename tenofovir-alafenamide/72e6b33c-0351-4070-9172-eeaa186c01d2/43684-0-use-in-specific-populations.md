@@ -57,8 +57,14 @@ Clinical trials of VEMLIDY did not include sufficient numbers of subjects aged 6
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of VEMLIDY is required in patients with mild, moderate, or severe renal impairment.
-VEMLIDY is not recommended in patients with end stage renal disease (estimated creatinine clearance below 15 mL per minute) [see Clinical Pharmacology (12.3)].
+No dosage adjustment of VEMLIDY is required in patients with mild, moderate, or severe renal impairment, or in patients with ESRD (estimated creatinine clearance below 15 mL per minute) who are receiving chronic hemodialysis.
+On days of hemodialysis, administer VEMLIDY after completion of hemodialysis treatment [see Dosage and Administration (2.3)].
+
+The pharmacokinetics and safety of tenofovir alafenamide were studied in HIV-1 infected adults with ESRD (estimated creatinine clearance below 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis in an open-label trial of 55 subjects who received elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg.
+Tenofovir alafenamide 10 mg, given in this combination, achieves similar exposures as tenofovir alafenamide 25 mg alone [see Clinical Pharmacology (12.3)].
+The safety profile of subjects in this trial was consistent with that expected in patients with ESRD on chronic hemodialysis and HIV-1 infection.
+
+VEMLIDY is not recommended in patients with ESRD (estimated creatinine clearance below 15 mL per minute by Cockcroft-Gault method) who are not receiving chronic hemodialysis as the safety of VEMLIDY has not been established in this population [see Dosage and Administration (2.3), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
