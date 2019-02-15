@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Risk of Thyroid C-cell Tumors
 
-Inform patients that liraglutide, one of the components of XULTOPHY 100/3.6 causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding is unknown.
+Inform patients that liraglutide, one of the components of XULTOPHY 100/3.6, causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding is unknown.
 Patients should be counseled to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Dehydration and Renal Failure
@@ -17,6 +17,11 @@ Pancreatitis
 Inform patients of the potential risk for pancreatitis.
 Explain that persistent severe abdominal pain that may radiate to the back and which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Instruct patients to discontinue XULTOPHY 100/3.6 promptly and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
+
+Acute Gallbladder Disease
+
+Inform patients of the potential risk for cholelithiasis or cholecystitis.
+Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up.
 
 Overdose due to Medication Errors
 
@@ -67,13 +72,13 @@ Advise patients that XULTOPHY 100/3.6 must NOT be diluted or mixed with any othe
 Inform patients that the dose counter of the XULTOPHY 100/3.6 pen shows the number of units of insulin degludec to be injected.
 Patients can inject doses from 10 to 50 units in a single injection (with each unit of insulin degludec, the pen also delivers 0.036 mg of liraglutide).
 
-Date of Issue: November 21, 2016
+Date of Issue: February 2019
 
-Version: 1
+Version: 2
 
-© 2016 Novo Nordisk
+© 2016-2019 Novo Nordisk
 
-Novo Nordisk®, SAXENDA®, TRESIBA®, VICTOZA® and XULTOPHY® 100/3.6 are registered trademarks of Novo Nordisk A/S.
+Novo Nordisk®, VICTOZA®,TRESIBA® and XULTOPHY® 100/3.6 are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 

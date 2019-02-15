@@ -14,7 +14,7 @@ For insulin degludec, rats and rabbits were exposed in animal reproduction studi
 No adverse outcomes were observed for pregnant animals and offspring [see Data].
 
 For liraglutide, animal reproduction studies identified increased adverse developmental outcomes from exposure during pregnancy.
-Liraglutide exposure was associated with an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 1.8 mg/day and early embryonic deaths at 11-fold clinical exposures at the MRHD.
+Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 1.8 mg/day.
 In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Data].
 
 The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20–25% in women with a HbA1c >10.
@@ -25,8 +25,8 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
-Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Poorly controlled diabetes mellitus increases the fetal risk for major birth defects, stillbirth, macrosomia related morbidity.
 
 Data
 
@@ -41,14 +41,13 @@ Overall the effects of insulin degludec were similar to those observed with huma
 
 Liraglutide
 
-Female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide beginning 2 weeks before mating, during mating and the period of organogenesis, through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the human exposure at the MRHD based on plasma AUC comparison.
+Female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the human exposure at the MRHD based on plasma AUC comparison.
 The number of early embryonic deaths in the 1 mg/kg/day group increased slightly.
 Fetal abnormalities and variations in kidneys and blood vessels, irregular ossification of the skull, and a more complete state of ossification occurred at all doses.
 Mottled liver and minimally kinked ribs occurred at the highest dose.
 The incidence of fetal malformations in liraglutide-treated groups exceeding concurrent and historical controls were misshapen oropharynx and/or narrowed opening into larynx at 0.1 mg/kg/day and umbilical hernia at 0.1 and 0.25 mg/kg/day.
 
-Pregnant rabbits given subcutaneous doses of 0.01, 0.025 and 0.05 mg/kg/day liraglutide from gestation day 6 through day 18, had estimated systemic exposures less than the human exposure at the MRHD of 1.8 mg/day at all doses, based on plasma AUC.
-Liraglutide decreased maternal body weight gain during the dosing period.
+Pregnant rabbits given subcutaneous doses of 0.01, 0.025 and 0.05 mg/kg/day liraglutide from gestation day 6 through day 18 inclusive, had estimated systemic exposures less than the human exposure at the MRHD of 1.8 mg/day at all doses, based on plasma AUC.
 Liraglutide decreased fetal weight and dose dependently increased the incidence of total major fetal abnormalities at all doses.
 The incidence of malformations exceeded concurrent and historical controls at 0.01 mg/kg/day (kidneys, scapula), ≥ 0.01 mg/kg/day (eyes, forelimb), 0.025 mg/kg/day (brain, tail and sacral vertebrae, major blood vessels and heart, umbilicus), ≥ 0.025 mg/kg/day (sternum) and at 0.05 mg/kg/day (parietal bones, major blood vessels).
 Irregular ossification and/or skeletal abnormalities occurred in the skull and jaw, vertebrae and ribs, sternum, pelvis, tail, and scapula; and dose-dependent minor skeletal variations were observed.
@@ -108,7 +107,10 @@ No clinically relevant difference in the pharmacokinetics of insulin degludec wa
 Liraglutide
 
 The safety and efficacy of liraglutide was evaluated in a 26 week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73 m2).
-There is limited experience with liraglutide in patients with severe renal impairment including end stage renal disease.
+In the liraglutide treatment arm of a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.2)], 1932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
+No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.
+
+There is limited experience with liraglutide in patients with end stage renal disease.
 There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.7) and Adverse Reactions (6.3)].
 
 ## 8.7 Hepatic Impairment

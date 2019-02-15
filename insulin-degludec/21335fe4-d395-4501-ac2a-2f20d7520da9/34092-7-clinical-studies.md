@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Glycemic Control trials in Adults with Type 2 Diabetes Mellitus
+
 A total of 1393 patients with type 2 diabetes participated in 3 randomized, parallel and active-controlled phase 3 trials of 26 weeks duration.
 
 One study, Study A, was conducted in subjects converting from liraglutide up to 1.8 mg (Table 5); Study B was conducted in patients converting from any basal insulin (Table 6), and Study C was conducted in patients converting from insulin glargine U-100 (Table 7).
@@ -158,3 +160,36 @@ Multiple imputation modelled “return to baseline” of the treatment effect fo
 When applying the multiple imputation method described in (#) above, the estimated percents achieving HbA1c<7% were 71.9% and 45.1% for XULTOPHY 100/3.6 and insulin glargine U-100 respectively when adjusting for region and baseline HbA1c.
 
 There were 10.1% of subjects in the XULTOPHY 100/3.6 arm and 4.7% in the insulin glargine U-100 arm for whom HbA1c data was missing at week 26.
+
+## 14.2 Cardiovascular Outcomes Trials in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease Conducted with Liraglutide 1.8 mg and Insulin Degludec
+
+The effect of XULTOPHY 100/3.6 on the risk of cardiovascular outcomes in patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease has not been established.
+The studies below were conducted with liraglutide 1.8 mg and insulin degludec, individually.
+
+VICTOZA (liraglutide 1.8 mg)
+
+The LEADER trial (NCT01179048) randomized 9340 patients with inadequately controlled type 2 diabetes and cardiovascular disease to liraglutide 1.8 mg or placebo in addition to standard of care treatments for type 2 diabetes for a median follow up of 3.5 years.
+
+Patients either were 50 years of age or older with established, stable cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or chronic heart failure (80% of patients) or were 60 years of age or older and had other specified risk factors for cardiovascular disease (20% of patients).
+The population was 64% male, 78% Caucasian, 10% Asian, and 8% Black; 12% of the population was Hispanic or Latino.
+The mean duration of type 2 diabetes was 13 years, the mean HbA1c was 8.7% and the mean BMI was 33 kg/m2; the mean eGFR at baseline was 79 mL/min/1.73 m2.
+
+In total, 96.8% of the patients completed the trial; vital status was available for 99.7%.
+The primary endpoint was the time from randomization to first occurrence of a major adverse cardiovascular event (MACE) defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
+No increased risk for MACE was observed with liraglutide 1.8 mg.
+The total number of primary component MACE endpoints was 1302 (608[13.0%] with liraglutide 1.8 mg and 694 [14.9%] with placebo).
+
+TRESIBA (insulin degludec)
+
+The DEVOTE trial (NCT01959529) randomized 7,637 patients with inadequately controlled type 2 diabetes and cardiovascular disease to either insulin degludec or insulin glargine U-100.
+Each was administered once-daily in addition to standard of care treatments for diabetes for a median duration of follow up of 2 years.
+
+Patients either were 50 years of age or older and had established, stable cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or chronic heart failure (85% of patients) or were 60 years of age or older and had other specified risk factors for cardiovascular disease (15% of patients).
+The population was 63% male, 76% White 11% Black or African American, and 10% Asian; 15% of the population was Hispanic or Latino.
+The mean HbA1c was 8.4% and the mean BMI was 33.6 kg/m2.
+The baseline mean estimated glomular filtration rate (eGFR) was 68 mL/min/1.73m2.
+
+In total, 98% of the patients completed the trial; vital status was known at the end of the trial for 99%.
+The primary endpoint was the time from randomization to the first occurrence of a major adverse cardiovascular event (MACE), defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
+No increased risk for MACE was observed with insulin degludec when compared to insulin glargine U-100.
+The total number of primary MACE endpoints was 681 (325 [8.5%] with insulin degludec and 356 [9.3%] with insulin glargine).
