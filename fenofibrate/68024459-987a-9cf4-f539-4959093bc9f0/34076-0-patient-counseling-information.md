@@ -3,7 +3,7 @@
 Patients should be advised:
 
 - of the potential benefits and risks of fenofibrate capsules.
-- not to use fenofibrate capsules if there is a known hypersensitivity to fenofibrate or fenofibric acid.
+- not to use fenofibrate capsules if there is a known hypersensitivity to fenofibrate capsules or fenofibric acid.
 - that if they are taking coumarin anticoagulants, fenofibrate capsules may increase their anticoagulant effect, and increased monitoring may be necessary.
 - of medications that should not be taken in combination with fenofibrate capsules.
 - to continue to follow an appropriate lipid-modifying diet while taking fenofibrate capsules.
@@ -25,7 +25,7 @@ FENOFIBRATE CAPSULES, USP
 | Toronto, ON | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: June 2018
+Revised: November 2018
 
 Rev.
-7
+8

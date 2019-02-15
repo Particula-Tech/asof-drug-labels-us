@@ -1,3 +1,5 @@
+# PRINCIPAL DISPLAY PANEL - 43 mg
+
 Representative sample of labeling (see HOW SUPPLIEDsection for complete listing):
 
 PRINCIPAL DISPLAY PANEL - 43 mg
@@ -11,6 +13,8 @@ Fenofibrate Capsules
 Rx
 
 30 count
+
+# PRINCIPAL DISPLAY PANEL - 130 mg
 
 Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
