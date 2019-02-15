@@ -22,4 +22,4 @@ The possibility that DCT, a principal metabolite in humans, may prolong the QT i
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10003824/13 Revised January 2017
+10003824/14 Revised January 2019

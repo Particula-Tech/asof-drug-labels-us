@@ -128,7 +128,7 @@ Who should not take citalopram?
 
 Do not take citalopram if you:
 
-- •are allergic to citalopram or escitalopram oxalate or any of the ingredients in citalopram oral solution.
+- •are allergic to citalopram or escitalopram oxalate or any of the ingredients in Citalopram Oral Solution.
   See the end of this Medication Guide for a complete list of ingredients in Citalopram Oral Solution.
 - •If you take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
@@ -151,6 +151,7 @@ Ask if you are not sure.
 Before starting citalopram, tell your healthcare provider if you:
 
 - •Are taking certain drugs such as:
+  - •Amphetamines
   - •Medicines for heart problems
   - •Medicines that lower your potassium or magnesium levels in your body
   - •Cimetidine
@@ -273,4 +274,4 @@ Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
 For more information, please call 1-800-962-8362.
 
-10003824/13 Revised January 2017
+10003824/14 Revised January 2019

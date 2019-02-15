@@ -15,7 +15,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs. placebo), however, were relatively stable with age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk difference (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in TABLE 1.
 
 TABLE 1
@@ -52,7 +52,7 @@ Individually corrected QTc (QTcNi) interval was evaluated in a randomized, place
 The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21) msec or 20 mg and 60 mg citalopram, respectively.
 Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
 
-Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not begiven at doses above 40 mg/day.
+Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not be given at doses above 40 mg/day.
 
 It is recommended that citalopram should not be used in patients with congenital long QT syndrome, bradycardia, hypokalemia or hypomagnesemia, recent acute myocardial infarction, or uncompensated heart failure.
 Citalopram should also not be used in patients who are taking other drugs that prolong the QTc interval.
@@ -193,7 +193,7 @@ The complete text of the Medication Guide is reprinted with this document.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking citalopram.
 
-Patients should be advised that taking citalopramcan cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Patients should be advised that taking citalopram can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.

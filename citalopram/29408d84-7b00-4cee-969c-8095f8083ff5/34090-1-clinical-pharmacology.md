@@ -16,7 +16,7 @@ The single- and multiple-dose pharmacokinetics of citalopram are linear and dose
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.
 With once daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of citalopram in plasma, based on the half-life, is expected to be 2.5 times the plasma concentrations observed after a single dose.
-The tablet and oral solution dosage forms of citalopram are bioequivalent
+The tablet and oral solution dosage forms of citalopram are bioequivalent.
 
 Absorption and Distribution
 
@@ -29,7 +29,7 @@ Metabolism and Elimination
 Following intravenous administrations of citalopram, the fraction of drug recovered in the urine as citalopram and DCT was about 10% and 5%, respectively.
 The systemic clearance of citalopram was 330 mL/min, with approximately 20% of that due to renal clearance.
 
-Citalopram is metabolized to demethylcitalopram (DCT), didemethylcitalopram (DDCT), citalopram-N-oxide and a deaminated propionic acid derivative.
+Citalopram is metabolized to demethylcitalopram (DCT), didemethylcitalopram (DDCT), citalopram-N-oxide, and a deaminated propionic acid derivative.
 In humans, unchanged citalopram is the predominant compound in plasma.
 At steady state, the concentrations of citalopram’s metabolites, DCT and DDCT, in plasma are approximately one-half and one-tenth, respectively, that of the parent drug.
 In vitro studies show that citalopram is at least 8 times more potent than its metabolites in the inhibition of serotonin reuptake, suggesting that the metabolites evaluated do not likely contribute significantly to the antidepressant actions of citalopram.
