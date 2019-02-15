@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761085"
+  ],
+  "inn": "botulinum-toxin-type-a",
+  "labeler": "Evolus, Inc.",
+  "package_ndcs": [
+    "72301-595-10"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "prabotulinum toxin type a",
+      "name": "Jeuveau"
+    }
+  ],
+  "setid": "17a914c1-e54b-4b50-965d-b0fd9111bba4",
+  "source": "dailymed"
+}
