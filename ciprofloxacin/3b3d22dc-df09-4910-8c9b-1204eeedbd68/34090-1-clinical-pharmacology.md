@@ -40,10 +40,10 @@ Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of
 
 1.AUC 0–12h
 
-2.AUC24h=AUC0–12hx2
+2.AUC24h=AUC0–12h x2
 
 3.
-AUC24h=AUC0–8hx3
+AUC24h=AUC0–8h x3
 
 Food
 

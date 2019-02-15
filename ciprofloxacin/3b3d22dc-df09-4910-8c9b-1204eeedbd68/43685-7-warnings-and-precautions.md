@@ -67,7 +67,7 @@ Clinical manifestations may include one or more of the following:
 - Hepatitis; jaundice; acute hepatic necrosis or failure;
 - Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-Discontinued ciprofloxacin tablets immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Adverse Reactions (6.1, 6.2)].
+Discontinue ciprofloxacin tablets immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.7 Hypersensitivity Reactions
 
@@ -156,7 +156,7 @@ Hydrate patients well to prevent the formation of highly concentrated urine [see
 
 ## 5.18 Blood Glucose Disturbances
 
-Fluroquinolones, including ciprofloxacin tablets have been associated with disturbances of blood glucose, including hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin.
+Fluroquinolones, including ciprofloxacin tablets have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
 
 Severe cases of hypoglycemia resulting in coma or death have been reported.

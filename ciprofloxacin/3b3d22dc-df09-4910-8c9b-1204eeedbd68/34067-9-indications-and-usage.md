@@ -51,7 +51,7 @@ Ciprofloxacin tablets are not a drug of first choice in the treatment of presume
 
 Ciprofloxacin tablets are indicated for the treatment of acute exacerbations of chronic bronchitis (AECB) caused by Moraxella catarrhalis.
 
-Because fluoroquinolones, including ciprofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.15)] and for some patients AECB is self-limiting, reserve ciprofloxacin tablets, USP for treatment of AECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.15)] and for some patients AECB is self-limiting, reserve ciprofloxacin tablets for treatment of AECB in patients who have no alternative treatment options.
 
 ## 1.11 Urinary Tract Infections
 
@@ -63,14 +63,14 @@ Acute Uncomplicated Cystitis
 
 Ciprofloxacin tablets are indicated in adult female patients for treatment of acute uncomplicated cystitis caused by Escherichia coli or Staphylococcus saprophyticus.
 
-Because fluoroquinolones, including ciprofloxacin tablets, USP, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients acute uncomplicated cystitis is self-limiting, reserve ciprofloxacin tablets, USP for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin tablets have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients acute uncomplicated cystitis is self-limiting, reserve ciprofloxacin tablets for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
 
 Complicated Urinary Tract Infection and Pyelonephritis in Pediatric Patients
 
 Ciprofloxacin tablets are indicated in pediatric patients aged one to 17 years of age for treatment of complicated urinary tract infections (cUTI) and pyelonephritis due to Escherichia coli [see Use in Specific Populations (8.4)].
 
 Although effective in clinical trials, ciprofloxacin tablets are not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues.
-Ciprofloxacin tablets, USP, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.12), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
+Ciprofloxacin tablets like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.12), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
 
 ## 1.12 Acute Sinusitis
 
@@ -80,7 +80,7 @@ Because fluoroquinolones, including ciprofloxacin tablets have been associated w
 
 ## 1.13 Usage
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ciprofloxacin tablets, USP and other antibacterial drugs, ciprofloxacin tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ciprofloxacin tablets and other antibacterial drugs, ciprofloxacin tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 

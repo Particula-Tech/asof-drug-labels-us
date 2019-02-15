@@ -28,7 +28,7 @@ In this model, mice treated with ciprofloxacin tablets alone did not develop ski
 There are no data from similar models using pigmented mice and/or fully haired mice.
 The clinical significance of these findings to humans is unknown.
 
-Fertility studies in rats at oral doses of ciprofloxacin tablets up to 100 mg/kg (approximately 0.7-times the highest recommended therapeutic dose based upon body surface area) revealed no evidence of impairment.
+Fertility studies performed in rats at oral doses of ciprofloxacin tablets up to 100 mg/kg (approximately 0.7-times the highest recommended therapeutic dose based upon body surface area) revealed no evidence of impairment.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

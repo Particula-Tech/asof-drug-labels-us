@@ -62,7 +62,7 @@ Ciprofloxacin tablets should not be taken with dairy products (like milk or yogu
 
 Drug Interactions Oral Antidiabetic Agents
 
-Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with ciprofloxacin tablets instruct them to consult their physician and that their antibacterial medicine may need to be changed.
+Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with ciprofloxacin tablets, instruct them to consult their physician and that their antibacterial medicine may need to be changed.
 
 Anthrax and Plague Studies
 

@@ -122,7 +122,7 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 Changes in laboratory parameters while on ciprofloxacin tablets are listed below.
 
-Hepatic - Elevations of ALT (SGPT), AST (SGOT), alkaline phosphate, LDH, serum bilirubin.
+Hepatic - Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
 Hematologic - Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 

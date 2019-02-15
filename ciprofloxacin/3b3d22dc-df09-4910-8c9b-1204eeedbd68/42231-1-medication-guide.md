@@ -7,18 +7,16 @@ This information does not take the place of talking to your healthcare provider 
 What is the most important information I should know about ciprofloxacin tablets?
 
 Ciprofloxacin tablets a fluoroquinolone antibacterial medicine, can cause serious side effects.
-Some of these serious side effects could result in death.
+Some of these serious side effects can happen at the same time and could result in death.
 
-If you should get any of the following serious side effects while you take ciprofloxacin tablets, you should stop taking ciprofloxacin tablets immediately and get medical help right away.
+If you get any of the following serious side effects while you take ciprofloxacin tablets, you should stop taking ciprofloxacin tablets immediately and get medical help right away.
 
 1.
 Tendon rupture or swelling of the tendon (tendinitis).
 
 • Tendon problems can happen in people of all ages who take ciprofloxacin tablets.
 
-Tendons are tough cords of tissue that connect muscles to bones.
-
-Symptoms of tendon problems may include:
+Tendons are tough cords of tissue that connect muscles to bones.Symptoms of tendon problems may include:
 
 ○ Pain, swelling, tears and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 
@@ -140,9 +138,9 @@ You should not do both.
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 - Ciprofloxacin tablets and other medicines can affect each other causing side effects.
-- Especially tell your healthcare provider if you take: ○ a steroid medicine ○ an anti-psychotic medicine ○ a tricyclic antidepressant ○ a water pill (diuretic) ○ theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®) ○ a medicine to control your heart rate or rhythm (antiarrhythmics) ○ an oral anti-diabetes medicine ○ phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®) ○ cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®). ○ a blood thinner (such as warfarin, Coumadin®, Jantoven®) ○ methotrexate (Trexall®) ○ ropinirole (Requip®) ○ a Non-Steroidal Anti-Inflammatory Drug (NSAID).
+- Especially tell your healthcare provider if you take: o a steroid medicine o an anti-psychotic medicine o a tricyclic antidepressant o a water pill (diuretic) o theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®) o a medicine to control your heart rate or rhythm (antiarrhythmics) o an oral anti-diabetes medicine o phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®) o cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®). o a blood thinner (such as warfarin, Coumadin®, Jantoven®) o methotrexate (Trexall®) o ropinirole (Requip®) o clozapine (Clozaril®, Fazaclo® ODT®) o a Non-Steroidal Anti-Inflammatory Drug (NSAID).
   Many common medicines for pain relief are NSAIDs.
-  Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures. ○ sildenafil (Viagra®, Revatio®) ○ duloxetin ○ products that contain caffeine ○ probenecid (Probalan®, Col-probenecid®)
+  Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures. o sildenafil (Viagra®, Revatio®) o duloxetine o products that contain caffeine o probenecid (Probalan®, Col-probenecid ®)
 - Certain medicines may keep Ciprofloxacin tablets, from working correctly.
   Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
 - an antacid, multivitamin, or other medicine or supplements that has magnesium,calcium, aluminum, iron, or zinc
@@ -157,7 +155,7 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 How should I take ciprofloxacin tablets?
 
 - Take ciprofloxacin tablets exactly as your healthcare provider tells you to take it.
-- Your healthcare provider will tell you how much ciprofloxacin tablets to take and when to take them.
+- Your healthcare provider will tell you how many ciprofloxacin tablets to take and when to take them.
 - Take ciprofloxacin tablets in the morning and evening at about the same time each day.
   Swallow the tablet whole.
   Do not split, crush or chew the tablet.
@@ -175,7 +173,7 @@ Taking all of your ciprofloxacin tablets doses will help make sure that all of t
 Taking all of your ciprofloxacin tablets doses will help lower the chance that the bacteria will become resistant to ciprofloxacin tablets.
 If you become resistant to ciprofloxacin tablets, ciprofloxacin tablets and other antibacterial medicines may not work for you in the future.
 
-• If you take too much ciprofloxacin tablets, call your healthcare provider or get medical help right away.
+• If you take too many ciprofloxacin tablets, call your healthcare provider or get medical help right away.
 
 What should I avoid while taking ciprofloxacin tablets?
 

@@ -11,4 +11,5 @@ It is a faintly yellowish to light yellow crystalline substance and its chemical
 
 Ciprofloxacin film-coated tablets are available in 250 mg, 500 mg and 750 mg (ciprofloxacin equivalent) strengths.
 Ciprofloxacin tablets, USP are white to slightly yellowish.
-The inactive ingredients are colloidal silicon dioxide, corn starch, hydrogenated vegetable oil, hypromellose, magnesium stearate, microcrystalline cellulose, polyacrylate dispersion (methylacrylate and ethylacrylate copolymer), polyethylene glycol, purified water, simethicone emulsion, sodium starch glycolate, talc, and titanium dioxide.
+The inactive ingredients are colloidal silicon dioxide, corn starch, hydrogenated vegetable oil, magnesium stearate, microcrystalline cellulose, purified water, sodium starch glycolate.
+The film-coating suspension (Opadry white 321A180025) contains the following inactive ingredients: glycerol monocaprylocaprate, macrogol (PEG) polyvinyl alcohol graft copolymer, polyvinyl alcohol, talc and titanium dioxide.
