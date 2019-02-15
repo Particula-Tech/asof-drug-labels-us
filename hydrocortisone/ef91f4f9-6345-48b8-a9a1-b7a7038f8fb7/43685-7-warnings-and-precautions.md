@@ -31,12 +31,12 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 ### General
 
-Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infection with any pathogen (viral, bacterial, fungal, protozoan or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
-These infections may be mild to severe.
-With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
-Corticosteroids may also mask some signs of current infection.
+1. Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
+   There may be decreased resistance and inability to localize infection when corticosteroids are used.
+   Infection with any pathogen (viral, bacterial, fungal, protozoan or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
+   These infections may be mild to severe.
+   With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
+   Corticosteroids may also mask some signs of current infection.
 
 ### Fungal infections
 
