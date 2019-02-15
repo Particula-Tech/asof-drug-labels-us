@@ -1,16 +1,20 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Adrenalin® 1 mL Single-Use Vials:
+Adrenalin 1 mg/mL Single Dose Vials:
 
-Each carton contains 25 single-use vials containing 1 mL Adrenalin® (epinephrine injection, USP) solution 1 mg/mL in a 3 mL clear glass vial.
+Each carton contains 25 single dose vials containing 1 mg/mL Adrenalin (epinephrine injection, USP) solution in a 3 mL clear glass vial.
 
-NDC 42023-159-25 1 mL vial
+NDC 42023-159-01 1 mL Single Dose Vial
 
-Adrenalin® 30 mL Multi-Dose Vials:
+NDC 42023-159-25 25 Single Dose Vials x 1 mL each
 
-Each carton contains 1 multiple-dose vial containing 30 mL Adrenalin® (epinephrine injection, USP) solution 1 mg/mL in a 36 mL amber glass vial.
+Discard unused portion.
 
-NDC 42023-168-01 30 mL vial
+Adrenalin 30 mg/30 mL (1 mg/mL) Multiple Dose Vials:
+
+Each carton contains 1 multiple dose vial containing 30 mg/30 mL (1 mg/mL) Adrenalin (epinephrine injection, USP) solution in a 36 mL amber glass vial.
+
+NDC 42023-168-01 30 mL Multiple Dose Vial
 
 Vial and contents must be discarded 30 days after initial use.
 

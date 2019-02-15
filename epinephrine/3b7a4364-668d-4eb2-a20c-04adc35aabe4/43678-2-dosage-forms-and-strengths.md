@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Adrenalin® 1 mg/mL epinephrine injection, 1 mL solution in a single-use clear glass vial and 30 mL solution in a multiple-dose amber glass vial.
+Adrenalin injection: clear, colorless solution supplied as 1 mg/1 mL in a single dose clear glass vial and as 30 mg/30 mL (1 mg/mL) in a multiple dose amber glass vial.

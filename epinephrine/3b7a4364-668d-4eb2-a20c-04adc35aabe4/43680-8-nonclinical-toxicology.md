@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long- term studies to evaluate the carcinogenic potential of epinephrine have not been conducted.
+Long-term studies to evaluate the carcinogenic potential of epinephrine have not been conducted.
 
 Epinephrine and other catecholamines have been shown to have mutagenic potential in vitro.
 Epinephrine was positive in the Salmonella bacterial reverse mutation assay, positive in the mouse lymphoma assay, and negative in the in vivo micronucleus assay.

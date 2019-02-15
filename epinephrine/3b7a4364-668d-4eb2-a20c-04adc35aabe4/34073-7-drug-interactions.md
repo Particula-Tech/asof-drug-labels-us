@@ -1,17 +1,39 @@
 # 7 DRUG INTERACTIONS
 
-Epinephrine should be administered cautiously to patients taking other sympathomimetic agents because of the possibility of additive effects.
+## 7.1 Drugs Antagonizing Pressor Effects of Epinephrine
 
-Patients who are concomitantly receiving cardiac glycosides, digitalis, diuretics, quinidine, and other antiarrhythmics should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.3) and Adverse Reactions (6)].
+- α-blockers, such as phentolamine
+- Vasodilators, such as nitrates
+- Diuretics
+- Antihypertensives
+- Ergot alkaloids
+- Phenothiazine antipsychotics
 
-Administer epinephrine cautiously to patients receiving halogenated hydrocarbon general anesthetics, such as halothane, as coadministration may result in arrhythmias.
+## 7.2 Drugs Potentiating Pressor Effects of Epinephrine
 
-The effects of epinephrine may be potentiated by tricyclic antidepressants such as imipramine, monoamine oxidase inhibitors (MAOI), levothyroxine sodium, and certain antihistamines, notably diphenhydramine, tripelannamine, and dexchlorpheniramine.
+- Sympathomimetics
+- β-blockers, such as propranolol
+- Tricyclic anti-depressants
+- Monoamine oxidase (MAO) inhibitors
+- Catechol-O-methyl transferase (COMT) inhibitors, such as entacapone
+- Clonidine
+- Doxapram
+- Oxytocin
 
-The cardiostimulating and bronchodilating effects of epinephrine are antagonized by beta-adrenergic blocking drugs, such as propranolol.
+## 7.3 Drugs Potentiating Arrhythmogenic Effects of Epinephrine
 
-The vasoconstricting and hypertensive effects of epinephrine are antagonized by alpha-adrenergic blocking drugs, such as phentolamine.
+Cardiac arrhythmias are more common among patients receiving any of the following drugs [see Warnings and Precautions (5.7) and Adverse Reactions (6)].
 
-Ergot alkaloids may reverse the pressor effects of epinephrine.
+- β-blockers, such as propranolol
+- Cyclopropane or halogenated hydrocarbon anesthetics, such as halothane
+- Antihistamines
+- Thyroid hormones
+- Diuretics
+- Cardiac glycosides, such as digitalis glycosides
+- Quinidine
 
-Epinephrine should not be used to counteract circulatory collapse or hypotension caused by phenothiazines, as a reversal of the pressor effects of epinephrine may result in further lowering of blood pressure.
+## 7.4 Drugs Potentiating Hypokalemic Effects of Epinephrine
+
+- Potassium depleting diuretics
+- Corticosteroids
+- Theophylline

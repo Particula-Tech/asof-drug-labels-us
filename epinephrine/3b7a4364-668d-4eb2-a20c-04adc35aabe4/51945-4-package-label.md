@@ -1,14 +1,16 @@
 PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
 
-NDC 42023-159-25 Rx Only
+NDC 42023-159-01 Rx Only
 
 Adrenalin® (epinephrine injection, USP)
 
 1 mg/mL
 
+For Intravenous Infusion, Intramuscular and Subcutaneous Use
+
 NOT for Ophthalmic Use
 
-1 mL Single-Use Vial
+1 mL Single Dose Vial
 
 PRINCIPAL DISPLAY PANEL - 30 mL Vial Label
 
@@ -16,11 +18,11 @@ NDC 42023-168-01 Rx Only
 
 Adrenalin® (epinephrine injection, USP)
 
-1 mg/mL
+30 mg/30 mL
 
-(30 mg/30 mL)
+(1 mg/mL)
 
-For Intramuscular or Subcutaneous Use
+For Intravenous Infusion, Intramuscular and Subcutaneous Use
 
 NOT for Ophthalmic Use
 
