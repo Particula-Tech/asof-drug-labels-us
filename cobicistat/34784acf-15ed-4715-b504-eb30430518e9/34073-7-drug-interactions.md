@@ -75,7 +75,7 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 | Immuno-suppressants: e.g., cyclosporine (CsA) sirolimus tacrolimus | ↑ immuno-suppressants ↑ elvitegravir (with CsA) ↑ cobicistat (with CsA) | Therapeutic monitoring of the immunosuppressive agents is recommended upon coadministration with GENVOYA. Monitor for adverse events associated with GENVOYA when coadministered with cyclosporine. |
 | Lipid-modifying Agents: |  |  |
 | HMG-CoA Reductase Inhibitors: lovastatin simvastatin | ↑ lovastatin ↑ simvastatin | Coadministration with lovastatin or simvastatin is contraindicated due to potential for serious reactions such as myopathy including rhabdomyolysis. |
-| atorvastatin | ↑ atorvastatin | Initiate atorvastatin with the lowest starting dose of atorvastatin and titrate carefully while monitoring for safety. |
+| atorvastatin | ↑ atorvastatin | Initiate atorvastatin with the lowest starting dose of atorvastatin and titrate carefully while monitoring for safety (e.g., myopathy). Do not exceed a dosage of atorvastatin 20 mg daily. |
 | Other Lipid-modifying Agents: lomitapide | ↑ lomitapide | Coadministration with lomitapide is contraindicated due to potential for markedly increased transaminases. |
 | Narcotic Analgesics: buprenorphine/ naloxone | ↑ buprenorphine ↑ norbuprenorphine ↓ naloxone | No dosage adjustment of buprenorphine/naloxone is required upon coadministration with GENVOYA. Patients should be closely monitored for sedation and cognitive effects. |
 | fentanyl | ↑ fentanyl | Careful monitoring of therapeutic and adverse effects of fentanyl (including potentially fatal respiratory depression) is recommended with coadministration. |
