@@ -72,3 +72,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Injection site reactions
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
 - Aortitis [see Warnings and Precautions (5.9)]
+- Alveolar hemorrhage
