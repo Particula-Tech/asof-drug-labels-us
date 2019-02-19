@@ -22,4 +22,4 @@
 9. Distributed by:
 10. Sun Pharmaceutical Industries, Inc.
 11. Cranbury, NJ 08512
-12. April 2018 FDA-10
+12. August 2018 FDA-11
