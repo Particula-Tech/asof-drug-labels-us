@@ -3,14 +3,14 @@
 ## Hypertension
 
 In patients who are currently being treated with a diuretic, symptomatic hypotension occasionally may occur following the initial dose of enalapril maleate.
-The diuretic should, if possible, be discontinued for two to three days before beginning therapy with enalapril maleate to reduce the likelihood of hypotension (see WARNINGS).
+The diuretic should, if possible, be discontinued for two to three days before beginning therapy with enalapril maleate to reduce the likelihood of hypotension (see WARNINGS, Hypotension).
 If the patient's blood pressure is not controlled with enalapril maleate alone, diuretic therapy may be resumed.
 
-If the diuretic cannot be discontinued an initial dose of 2.5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and PRECAUTIONS, Drug Interactions).
+If the diuretic cannot be discontinued an initial dose of 2.5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS, Hypotension and PRECAUTIONS, Drug Interactions).
 
 The recommended initial dose in patients not on diuretics is 5 mg once a day.
 Dosage should be adjusted according to blood pressure response.
-The usual dosage range is 10 to 40 mg per day administered in a single dose or two divided doses.
+The usual dosage range is 10 mg to 40 mg per day administered in a single dose or two divided doses.
 In some patients treated once daily, the antihypertensive effect may diminish toward the end of the dosing interval.
 In such patients, an increase in dosage or twice daily administration should be considered.
 If blood pressure is not controlled with enalapril maleate alone, a diuretic may be added.
@@ -22,18 +22,17 @@ The usual dose of enalapril is recommended for patients with a creatinine cleara
 For patients with creatinine clearance less than or equal to 30 mL/min (serum creatinine more than or equal to 3 mg/dL), the first dose is 2.5 mg once daily.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
 
-| Renal Status | Creatinine-Clearance mL/min | Initial Dose mg/day |
+| Renal Status | Creatinine Clearance mL/min | Initial Dose mg/day |
 | --- | --- | --- |
-| Normal Renal Function | > 80 mL/min | 5 mg |
-| Mild Impairment | ≤ 80 > 30 mL/min | 5 mg |
-| Moderate to Severe Impairment | ≤ 30 mL/min | 2.5 mg |
-| Dialysis PatientsSee WARNINGS, Anaphylactoid reactions during membrane exposure |  | 2.5 mg on dialysis daysDosage on nondialysis days should be adjusted depending on the blood pressure response. |
+| Normal Renal Function | >80 mL/min | 5 mg |
+| Mild Impairment | ≤80 >30 mL/min | 5 mg |
+| Moderate to Severe Impairment | ≤30 mL/min | 2.5 mg |
+| Dialysis PatientsSee WARNINGS, Anaphylactoid Reactions during Membrane Exposure |  | 2.5 mg on dialysis daysDosage on nondialysis days should be adjusted depending on the blood pressure response. |
 
 ## Heart Failure
 
 Enalapril maleate is indicated for the treatment of symptomatic heart failure, usually in combination with diuretics and digitalis.
 In the placebo-controlled studies that demonstrated improved survival, patients were titrated as tolerated up to 40 mg, administered in two divided doses.
-
 The recommended initial dose is 2.5 mg.
 The recommended dosing range is 2.5 to 20 mg given twice a day.
 Doses should be titrated upward, as tolerated, over a period of a few days or weeks.
@@ -67,9 +66,9 @@ Enalapril maleate is not recommended in neonates and in pediatric patients with 
 
 ## Preparation of Suspension (for 200 mL of a 1.0 mg/mL suspension)
 
-Add 50 mL of Bicitra®Registered trademark of Alza Corporation to a polyethylene terephthalate (PET) bottle containing ten 20 mg tablets of enalapril maleate and shake for at least 2 minutes.
+Add 50 mL of sodium citrate and citric acid oral solution, USP to a polyethylene terephthalate (PET) bottle containing ten 20 mg tablets of enalapril maleate and shake for at least 2 minutes.
 Let concentrate stand for 60 minutes.
 Following the 60-minute hold time, shake the concentrate for an additional minute.
-Add 150 mL of Ora-Sweet SF™Trademark of Paddock Laboratories, Inc. to the concentrate in the PET bottle and shake the suspension to disperse the ingredients.
-The suspension should be refrigerated at 2 to 8°C (36 to 46°F) and can be stored for up to 30 days.
+Add 150 mL of Ora-Sweet SF to the concentrate in the PET bottle and shake the suspension to disperse the ingredients.
+The suspension should be refrigerated at 2° to 8°C (36° to 46°F) and can be stored for up to 30 days.
 Shake the suspension before each use.

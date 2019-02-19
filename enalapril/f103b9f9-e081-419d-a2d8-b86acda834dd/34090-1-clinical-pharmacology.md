@@ -23,7 +23,7 @@ Although enalapril maleate was antihypertensive in all races studied, black hype
 Following oral administration of enalapril maleate, peak serum concentrations of enalapril occur within about one hour.
 Based on urinary recovery, the extent of absorption of enalapril is approximately 60 percent.
 Enalapril absorption is not influenced by the presence of food in the gastrointestinal tract.
-Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
+Following absorption, enalapril is hydrolyzed to enalaprilat, which is a more potent angiotensin-converting enzyme inhibitor than enalapril; enalaprilat is poorly absorbed when administered orally.
 Peak serum concentrations of enalaprilat occur three to four hours after an oral dose of enalapril maleate.
 Excretion of enalapril maleate is primarily renal.
 Approximately 94 percent of the dose is recovered in the urine and feces as enalaprilat or enalapril.
@@ -34,7 +34,7 @@ The serum concentration profile of enalaprilat exhibits a prolonged terminal pha
 The amount bound does not increase with dose, indicating a saturable site of binding.
 The effective half-life for accumulation of enalaprilat following multiple doses of enalapril maleate is 11 hours.
 The disposition of enalapril and enalaprilat in patients with renal insufficiency is similar to that in patients with normal renal function until the glomerular filtration rate is 30 mL/min or less.
-With glomerular filtration rate ≤ 30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases and time to steady state may be delayed.
+With glomerular filtration rate ≤30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases and time to steady state may be delayed.
 The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency (see DOSAGE AND ADMINISTRATION).
 Enalaprilat is dialyzable at the rate of 62 mL/min.
 
@@ -48,12 +48,12 @@ Radioactivity was found to cross the placenta following administration of labele
 ### Hypertension
 
 Administration of enalapril maleate to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure usually with no orthostatic component.
-Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS).
+Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients (see WARNINGS, Hypotension).
 
 In most patients studied, after oral administration of a single dose of enalapril, onset of antihypertensive activity was seen at one hour with peak reduction of blood pressure achieved by four to six hours.
 
 At recommended doses, antihypertensive effects have been maintained for at least 24 hours.
-In some patients the effects may diminish toward the end of the dosing interval (see DOSAGE AND ADMINISTRATION).
+In some patients the effects may diminish toward the end of the dosing interval (see DOSAGE AND ADMINISTRATION, Hypertension).
 
 In some patients achievement of optimal blood pressure reduction may require several weeks of therapy.
 
@@ -63,7 +63,6 @@ Abrupt withdrawal of enalapril maleate has not been associated with a rapid incr
 In hemodynamic studies in patients with essential hypertension, blood pressure reduction was accompanied by a reduction in peripheral arterial resistance with an increase in cardiac output and little or no change in heart rate.
 Following administration of enalapril maleate, there is an increase in renal blood flow; glomerular filtration rate is usually unchanged.
 The effects appear to be similar in patients with renovascular hypertension.
-
 When given together with thiazide-type diuretics, the blood pressure lowering effects of enalapril maleate are approximately additive.
 
 In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving enalapril maleate.
@@ -110,7 +109,7 @@ The results are shown in the following table.
 
 In both CONSENSUS and SOLVD-Treatment trials, patients were also usually receiving digitalis, diuretics or both.
 
-### Clinical Pharmacology in Pediatric Patients
+## Clinical Pharmacology in Pediatric Patients
 
 A multiple dose pharmacokinetic study was conducted in 40 hypertensive male and female pediatric patients aged 2 months to ≤16 years following daily oral administration of 0.07 to 0.14 mg/kg enalapril maleate.
 At steady state, the mean effective half-life for accumulation of enalaprilat was 14 hours, and the mean urinary recovery of total enalapril and enalaprilat in 24 hours was 68% of the administered dose.

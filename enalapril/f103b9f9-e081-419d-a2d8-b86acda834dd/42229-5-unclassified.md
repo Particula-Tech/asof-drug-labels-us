@@ -1,7 +1,7 @@
 Rx only
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761
+Manufactured by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761
 
-Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Revised: November, 2017 89639-1117-10
+Revised: January, 2019 89639-0119-11
