@@ -18,4 +18,4 @@ In the post-marketing experience with carisoprodol, cases of dependence, withdra
 If the musculoskeletal symptoms still persist, patients should contact their healthcare provider for further evaluation.
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA Rev.
-07/13
+01/19

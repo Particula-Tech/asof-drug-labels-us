@@ -5,6 +5,8 @@
   "inn": "carisoprodol",
   "labeler": "ScieGen Pharmaceuticals, Inc.",
   "package_ndcs": [
+    "50228-109-01",
+    "50228-109-05",
     "50228-109-10",
     "50228-109-30"
   ],

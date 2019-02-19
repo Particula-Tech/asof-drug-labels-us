@@ -1,11 +1,49 @@
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 350 mg (30 tablet Bottle)
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL
 
-50228-109-30
+NDC 50228-109-30
+
+Carisoprodol Tablets, USP
+
+CIV
+
+350 mg
+
+30 Tablets RX Only
+
+ScieGen Pharmaceuticals Inc.
+
+NDC 50228-109-01
+
+Carisoprodol Tablets, USP
+
+CIV
 
 350 mg
 
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 350 mg (1000 tablet Bottle)
+100 Tablets RX Only
 
-50228-109-10
+ScieGen Pharmaceuticals Inc.
+
+NDC 50228-109-05
+
+Carisoprodol Tablets, USP
+
+CIV
 
 350 mg
+
+500 Tablets RX Only
+
+ScieGen Pharmaceuticals Inc.
+
+NDC 50228-109-10
+
+Carisoprodol Tablets, USP
+
+CIV
+
+350 mg
+
+1,000 Tablets RX Only
+
+ScieGen Pharmaceuticals Inc.
