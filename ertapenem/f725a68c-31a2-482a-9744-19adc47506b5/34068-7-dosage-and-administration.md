@@ -4,15 +4,15 @@
 
 For Intravenous or Intramuscular Use DO NOT MIX OR CO-INFUSE ERTAPENEM FOR INJECTION WITH OTHER MEDICATIONS.
 DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
-Ertapenem for Injection may be administered by intravenous infusion for up to 14 days or intramuscular injection for up to 7 days.
-When administered intravenously, Ertapenem for Injection should be infused over a period of 30 minutes.
-Intramuscular administration of Ertapenem for Injection may be used as an alternative to intravenous administration in the treatment of those infections for which intramuscular therapy is appropriate.
+Ertapenem for injection may be administered by intravenous infusion for up to 14 days or intramuscular injection for up to 7 days.
+When administered intravenously, ertapenem for injection should be infused over a period of 30 minutes.
+Intramuscular administration of ertapenem for injection may be used as an alternative to intravenous administration in the treatment of those infections for which intramuscular therapy is appropriate.
 
 ## 2.2 Treatment Regimen
 
-13 years of age and older The dose of Ertapenem for Injection in patients 13 years of age and older is 1 gram (g) given once a day [see Clinical Pharmacology (12.3)].
-3 months to 12 years of age The dose of Ertapenem for Injection in patients 3 months to 12 years of age is 15 mg/kg twice daily (not to exceed 1 g/day).
-Table 1 presents treatment guidelines for Ertapenem for Injection.
+13 years of age and older The dose of ertapenem for injection in patients 13 years of age and older is 1 gram (g) given once a day [see Clinical Pharmacology (12.3)].
+3 months to 12 years of age The dose of ertapenem for injection in patients 3 months to 12 years of age is 15 mg/kg twice daily (not to exceed 1 g/day).
+Table 1 presents treatment guidelines for ertapenem for injection.
 
 Table 1
 
@@ -24,11 +24,11 @@ Table 1
 | Community acquired pneumonia | 1 g | 15 mg/kg twice daily‡ | 10 to 14 days# |
 | Complicated urinary tract infections, including pyelonephritis | 1 g | 15 mg/kg twice daily‡ | 10 to 14 days# |
 | Acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections | 1 g | 15 mg/kg twice daily‡ | 3 to 10 days |
-| * defined as creatinine clearance >90 mL/min/1.73 m2 † due to the designated pathogens [see Indications and Usage (1)] ‡ not to exceed 1 g/day § Ertapenem for Injection has not been studied in diabetic foot infections with concomitant osteomyelitis [see Clinical Studies (14.1)]. ¶ adult patients with diabetic foot infections received up to 28 days of treatment (parenteral or parenteral plus oral switch therapy) # duration includes a possible switch to an appropriate oral therapy, after at least 3 days of parenteral therapy, once clinical improvement has been demonstrated. |  |  |  |
+| * defined as creatinine clearance >90 mL/min/1.73 m2 † due to the designated pathogens [see Indications and Usage (1)] ‡ not to exceed 1 g/day § ertapenem for injection has not been studied in diabetic foot infections with concomitant osteomyelitis [see Clinical Studies (14.1)]. ¶ adult patients with diabetic foot infections received up to 28 days of treatment (parenteral or parenteral plus oral switch therapy) # duration includes a possible switch to an appropriate oral therapy, after at least 3 days of parenteral therapy, once clinical improvement has been demonstrated. |  |  |  |
 
 ## 2.3 Prophylactic Regimen in Adults
 
-Table 2 presents prophylaxis guidelines for Ertapenem for Injection.
+Table 2 presents prophylaxis guidelines for ertapenem for injection.
 
 Table 2
 
@@ -39,7 +39,7 @@ Table 2
 
 ## 2.4 Patients with Renal Impairment
 
-Ertapenem for Injection may be used for the treatment of infections in adult patients with renal impairment.
+Ertapenem for injection may be used for the treatment of infections in adult patients with renal impairment.
 In patients whose creatinine clearance is >30 mL/min/1.73 m2, no dosage adjustment is necessary.
 Adult patients with severe renal impairment (creatinine clearance ≤30 mL/min/1.73 m2) and end-stage renal disease (creatinine clearance ≤10 mL/min/1.73 m2) should receive 500 mg daily.
 A supplementary dose of 150 mg is recommended if ertapenem is administered within 6 hours prior to hemodialysis.
@@ -47,8 +47,8 @@ There are no data in pediatric patients with renal impairment.
 
 ## 2.5 Patients on Hemodialysis
 
-When adult patients on hemodialysis are given the recommended daily dose of 500 mg of Ertapenem for Injection within 6 hours prior to hemodialysis, a supplementary dose of 150 mg is recommended following the hemodialysis session.
-If Ertapenem for Injection is given at least 6 hours prior to hemodialysis, no supplementary dose is needed.
+When adult patients on hemodialysis are given the recommended daily dose of 500 mg of ertapenem for injection within 6 hours prior to hemodialysis, a supplementary dose of 150 mg is recommended following the hemodialysis session.
+If ertapenem for injection is given at least 6 hours prior to hemodialysis, no supplementary dose is needed.
 There are no data in patients undergoing peritoneal dialysis or hemofiltration.
 There are no data in pediatric patients on hemodialysis.
 When only the serum creatinine is available, the following formula1 may be used to estimate creatinine clearance.
@@ -65,7 +65,8 @@ Vials Adults and pediatric patients 13 years of age and older Preparation for in
 DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
 ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINISTRATION.
 
-1. Reconstitute the contents of a 1 g vial of Ertapenem for Injection with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection.
+1. Reconstitute the contents of a 1 g vial of ertapenem for injection with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection, using a syringe equipped with a 21-gauge or smaller diameter needle.
+   NOTE: Use with a needleless IV system is not recommended.
    The resultant concentration is approximately 100 mg/mL.
 2. Shake well to dissolve and immediately transfer contents of the reconstituted vial to 50 mL of 0.9% Sodium Chloride Injection.
    The resultant concentration is approximately 20 mg/mL.
@@ -73,7 +74,7 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINIST
 
 Preparation for intramuscular administration: ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 
-1. Reconstitute the contents of a 1 g vial of Ertapenem for Injection with 3.2 mL of 1.0% lidocaine HCl injection2 (without epinephrine).
+1. Reconstitute the contents of a 1 g vial of ertapenem for injection with 3.2 mL of 1.0% lidocaine HCl injection2 (without epinephrine).
    Shake vial thoroughly to form solution.
    The resultant concentration is approximately 280 mg/mL.
 2. Immediately withdraw the contents of the vial and administer by deep intramuscular injection into a large muscle mass (such as the gluteal muscles or lateral part of the thigh).
@@ -88,20 +89,24 @@ Pediatric patients 3 months to 12 years of age Preparation for intravenous admin
 DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
 ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINISTRATION.
 
-1. Reconstitute the contents of a 1 g vial of Ertapenem for Injection with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection.
+1. Reconstitute the contents of a 1 g vial of ertapenem for injection with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection, using a syringe equipped with a 21-gauge or smaller diameter needle.
+   NOTE: Use with a needleless IV system is not recommended.
    The resultant concentration is approximately 100 mg/mL.
 2. Shake well to dissolve and immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and dilute in 0.9% Sodium Chloride Injection to a final concentration of 20 mg/mL or less.
 3. Complete the infusion within 6 hours of reconstitution.
 
 Preparation for intramuscular administration: ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 
-1. Reconstitute the contents of a 1 g vial of Ertapenem for Injection with 3.2 mL of 1.0% lidocaine HCl injection (without epinephrine).
+1. Reconstitute the contents of a 1 g vial of ertapenem for injection with 3.2 mL of 1.0% lidocaine HCl injection (without epinephrine).
    Shake vial thoroughly to form solution.
    The resultant concentration is approximately 280 mg/mL.
 2. Immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and administer by deep intramuscular injection into a large muscle mass (such as the gluteal muscles or lateral part of the thigh).
 3. The reconstituted IM solution should be used within 1 hour after preparation.
    NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
 
+Storage When prepared with the diluent, ertapenem for injection maintains satisfactory potency for 6 hours at room temperature (25°C) or for 24 hours under refrigeration (5°C) and used within 4 hours after removal from refrigeration.
+Solutions of ertapenem for injection should not be frozen.
+Before administering, see accompanying package circular for ertapenem for injection.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to use, whenever solution and container permit.
-Solutions of Ertapenem for Injection range from colorless to pale yellow.
+Solutions of ertapenem for injection range from colorless to pale yellow.
 Variations of color within this range do not affect the potency of the product.
