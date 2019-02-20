@@ -34,8 +34,8 @@ The container closure is not made with natural rubber latex.
 
 SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2017 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2018 Sagent Pharmaceuticals, Inc.
 
-July 2017
+Revised: December 2018
 
 SAGENT Pharmaceuticals®

@@ -12,7 +12,7 @@ Historically, pregnant patients were reported to have a high risk for cardiac ar
 
 Prior to receiving major blocks the general condition of the patient should be optimized and the patient should have an intravenous line inserted.
 All necessary precautions should be taken to avoid intravascular injection.
-Local anesthetics should only be administered by clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed, and then only after insuring the immediate without delay availability of oxygen, other resuscitative drugs, cardiopulmonary resuscitative equipment, and the personnel resources needed for proper management of toxic reactions and related emergencies (see also ADVERSE REACTIONS, PRECAUTIONS and MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES).
+Local anesthetics should only be administered by clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed, and then only after insuring the (immediate without delay) availability of oxygen, other resuscitative drugs, cardiopulmonary resuscitative equipment, and the personnel resources needed for proper management of toxic reactions and related emergencies (see also ADVERSE REACTIONS, PRECAUTIONS and MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES).
 Delay in proper management of dose-related toxicity, underventilation from any cause, and/or altered sensitivity may lead to the development of acidosis, cardiac arrest and, possibly, death.
 Solutions of ropivacaine hydrochloride should not be used for the production of obstetrical paracervical block anesthesia, retrobulbar block, or spinal anesthesia (subarachnoid block) due to insufficient data to support such use.
 Intravenous regional anesthesia (bier block) should not be performed due to a lack of clinical experience and the risk of attaining toxic blood levels of ropivacaine.
@@ -34,7 +34,19 @@ The results of these two clinical studies showed that a 3 mL dose did not produc
 
 Ropivacaine hydrochloride should be used with caution in patients receiving other local anesthetics or agents structurally related to amide-type local anesthetics, since the toxic effects of these drugs are additive.
 
-Patients treated with class III antiarrhythmic drugs (eg, amiodarone) should be under close surveillance and ECG monitoring considered, since cardiac effects may be additive.
+Patients treated with class III antiarrhythmic drugs (e.g., amiodarone) should be under close surveillance and ECG monitoring considered, since cardiac effects may be additive.
+
+## Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue ropivacaine hydrochloride and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
 # PRECAUTIONS
 
@@ -76,7 +88,7 @@ The sedated patient may exhibit only a pulse rate increase of 20 or more beats p
 Therefore, following the test dose, the heart should be continuously monitored for a heart rate increase.
 Patients on beta-blockers may not manifest changes in heart rate, but blood pressure monitoring can detect a rise in systolic blood pressure.
 A test dose of a short-acting amide anesthetic such as lidocaine is recommended to detect an unintentional intrathecal administration.
-This will be manifested within a few minutes by signs of spinal block (eg, decreased sensation of the buttocks, paresis of the legs, or, in the sedated patient, absent knee jerk).
+This will be manifested within a few minutes by signs of spinal block (e.g., decreased sensation of the buttocks, paresis of the legs, or, in the sedated patient, absent knee jerk).
 An intravascular or subarachnoid injection is still possible even if results of the test dose are negative.
 The test dose itself may produce a systemic toxic reaction, high spinal or epinephrine-induced cardiovascular effects.
 
@@ -112,9 +124,12 @@ Until appropriate experience is gained, the use of ropivacaine hydrochloride for
 When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity in the anesthetized part of the body following proper administration of lumbar epidural anesthesia.
 Also, when appropriate, the physician should discuss other information including adverse reactions in the ropivacaine hydrochloride package insert.
 
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+
 ## Drug Interactions
 
-Specific trials studying the interaction between ropivacaine and class III antiarrhythmic drugs (eg, amiodarone) have not been performed, but caution is advised (see WARNINGS).
+Specific trials studying the interaction between ropivacaine and class III antiarrhythmic drugs (e.g., amiodarone) have not been performed, but caution is advised (see WARNINGS).
 
 Ropivacaine hydrochloride should be used with caution in patients receiving other local anesthetics or agents structurally related to amide-type local anesthetics, since the toxic effects of these drugs are additive.
 Cytochrome P4501A2 is involved in the formation of 3-hydroxy ropivacaine, the major metabolite.
@@ -123,6 +138,20 @@ Thus strong inhibitors of cytochrome P4501A2, such as fluvoxamine, given concomi
 Caution should be exercised when CYP1A2 inhibitors are coadministered.
 Possible interactions with drugs known to be metabolized by CYP1A2 via competitive inhibition such as theophylline and imipramine may also occur.
 Coadministration of a selective and potent inhibitor of CYP3A4, ketoconazole (100 mg bid for 2 days with ropivacaine infusion administered 1 hour after ketoconazole) caused a 15% reduction in in vivo plasma clearance of ropivacaine.
+
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

@@ -4,4 +4,4 @@ Ropivacaine Hydrochloride Injection is indicated for the production of local or 
 
 Surgical Anesthesia: epidural block for surgery including cesarean section; major nerve block; local infiltration
 
-Acute Pain Management: epidural continuous infusion or intermittent bolus, eg, postoperative or labor; local infiltration
+Acute Pain Management: epidural continuous infusion or intermittent bolus, e.g., postoperative or labor; local infiltration

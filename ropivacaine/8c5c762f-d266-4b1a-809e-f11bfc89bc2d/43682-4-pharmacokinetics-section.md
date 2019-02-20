@@ -24,8 +24,8 @@ Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
 | † Epidural anesthesia with 7.5 mg/mL (0.75%) for cesarean delivery. |  |  |  |  |  |  |  |
 | ‡ Brachial plexus block with 7.5 mg/mL (0.75%) ropivacaine. |  |  |  |  |  |  |  |
 | § 20 minute intravenous infusion to volunteers (40 mg). |  |  |  |  |  |  |  |
-| ¶ Cmax measured at the end of infusion (ie, at 72 hr). |  |  |  |  |  |  |  |
-| # Cmax measured at the end of infusion (ie, at 20 minutes). |  |  |  |  |  |  |  |
+| ¶ Cmax measured at the end of infusion (i.e., at 72 hr). |  |  |  |  |  |  |  |
+| # Cmax measured at the end of infusion (i.e., at 20 minutes). |  |  |  |  |  |  |  |
 | ♠ n/a=not applicable |  |  |  |  |  |  |  |
 | ♥ t1/2 is the true terminal elimination half-life. On the other hand, t1/2 follows absorption-dependent elimination (flip-flop) after non-intravenous administration. |  |  |  |  |  |  |  |
 
@@ -37,7 +37,7 @@ At a dose of greater than 300 mg, for local infiltration, the terminal half-life
 After intravascular infusion, ropivacaine has a steady-state volume of distribution of 41 ± 7 liters.
 Ropivacaine is 94% protein bound, mainly to α1-acid glycoprotein.
 An increase in total plasma concentrations during continuous epidural infusion has been observed, related to a postoperative increase of α1-acid glycoprotein.
-Variations in unbound, ie, pharmacologically active, concentrations have been less than in total plasma concentration.
+Variations in unbound, i.e., pharmacologically active, concentrations have been less than in total plasma concentration.
 Ropivacaine readily crosses the placenta and equilibrium in regard to unbound concentration will be rapidly reached (see PRECAUTIONS, Labor and Delivery).
 
 ## Metabolism
@@ -74,7 +74,7 @@ Apparent central stimulation is usually manifested as restlessness, tremors and 
 However, the local anesthetics have a primary depressant effect on the medulla and on higher centers.
 The depressed stage may occur without a prior excited stage.
 
-In 2 clinical pharmacology studies (total n=24) ropivacaine and bupivacaine were infused (10 mg/min) in human volunteers until the appearance of CNS symptoms, eg, visual or hearing disturbances, perioral numbness, tingling and others.
+In 2 clinical pharmacology studies (total n=24) ropivacaine and bupivacaine were infused (10 mg/min) in human volunteers until the appearance of CNS symptoms, e.g., visual or hearing disturbances, perioral numbness, tingling and others.
 Similar symptoms were seen with both drugs.
 In 1 study, the mean ± SD maximum tolerated intravenous dose of ropivacaine infused (124 ± 38 mg) was significantly higher than that of bupivacaine (99 ± 30 mg) while in the other study the doses were not different (115 ± 29 mg of ropivacaine and 103 ± 30 mg of bupivacaine).
 In the latter study, the number of subjects reporting each symptom was similar for both drugs with the exception of muscle twitching which was reported by more subjects with bupivacaine than ropivacaine at comparable intravenous doses.

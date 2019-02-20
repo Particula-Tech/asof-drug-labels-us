@@ -110,52 +110,33 @@ Table 4 is based on data from trials in the U.S. and other countries where ropiv
 
 Table 4 Common Events (Epidural Administration)
 
-| Adverse Reaction | Ropivacaine Hydrochloride |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5 mg/mL total N=256 |  |  | 7.5 mg/mL total N=297 |  | 10 mg/mL total N=207 |  |  |  |
-|  | N | (%) |  | N | (%) | N |  | (%) |
-| hypotension | 99 | (38.7) |  | 146 | (49.2) | 113 |  | (54.6) |
-| nausea | 34 | (13.3) |  | 68 | (22.9) |  |  |  |
-| bradycardia | 29 | (11.3) |  | 58 | (19.5) | 40 |  | (19.3) |
-| back pain | 18 | (7) |  | 23 | (7.7) | 34 |  | (16.4) |
-| vomiting | 18 | (7) |  | 33 | (11.1) | 23 |  | (11.1) |
-| headache | 12 | (4.7) |  | 20 | (6.7) | 16 |  | (7.7) |
-| fever | 8 | (3.1) |  | 5 | (1.7) | 18 |  | (8.7) |
-| chills | 6 | (2.3) |  | 7 | (2.4) | 6 |  | (2.9) |
-| urinary retention | 5 | (2) |  | 8 | (2.7) | 10 |  | (4.8) |
-| paresthesia | 5 | (2) |  | 10 | (3.4) | 5 |  | (2.4) |
-| pruritus |  |  |  | 14 | (4.7) | 3 |  | (1.4) |
-| Adverse Reaction | Bupivacaine |  |  |  |  |  |  |  |
-| 5 mg/mL total N=236 |  |  |  | 7.5 mg/mL total N=174 |  |  |  |  |
-| N |  | (%) |  | N |  | (%) |  |  |
-| hypotension | 91 |  | (38.6) |  | 89 |  | (51.1) |  |
-| nausea | 41 |  | (17.4) |  | 36 |  | (20.7) |  |
-| bradycardia | 32 |  | (13.6) |  | 25 |  | (14.4) |  |
-| back pain | 21 |  | (8.9) |  | 23 |  | (13.2) |  |
-| vomiting | 19 |  | (8.1) |  | 14 |  | (8) |  |
-| headache | 13 |  | (5.5) |  | 9 |  | (5.2) |  |
-| fever | 11 |  | (4.7) |  |  |  |  |  |
-| chills | 4 |  | (1.7) |  | 3 |  | (1.7) |  |
-| urinary retention | 10 |  | (4.2) |  |  |  |  |  |
-| paresthesia | 7 |  | (3) |  |  |  |  |  |
-| pruritus |  |  |  |  | 7 |  | (4) |  |
+| Adverse Reaction | Ropivacaine Hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 mg/mL total N=256 |  | 7.5 mg/mL total N=297 |  | 10 mg/mL total N=207 |  | 5 mg/mL total N=236 |  | 7.5 mg/mL total N=174 |  |  |
+|  | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |
+| hypotension | 99 | (38.7) | 146 | (49.2) | 113 | (54.6) | 91 | (38.6) | 89 | (51.1) |
+| nausea | 34 | (13.3) | 68 | (22.9) |  |  | 41 | (17.4) | 36 | (20.7) |
+| bradycardia | 29 | (11.3) | 58 | (19.5) | 40 | (19.3) | 32 | (13.6) | 25 | (14.4) |
+| back pain | 18 | (7) | 23 | (7.7) | 34 | (16.4) | 21 | (8.9) | 23 | (13.2) |
+| vomiting | 18 | (7) | 33 | (11.1) | 23 | (11.1) | 19 | (8.1) | 14 | (8) |
+| headache | 12 | (4.7) | 20 | (6.7) | 16 | (7.7) | 13 | (5.5) | 9 | (5.2) |
+| fever | 8 | (3.1) | 5 | (1.7) | 18 | (8.7) | 11 | (4.7) |  |  |
+| chills | 6 | (2.3) | 7 | (2.4) | 6 | (2.9) | 4 | (1.7) | 3 | (1.7) |
+| urinary retention | 5 | (2) | 8 | (2.7) | 10 | (4.8) | 10 | (4.2) |  |  |
+| paresthesia | 5 | (2) | 10 | (3.4) | 5 | (2.4) | 7 | (3) |  |  |
+| pruritus |  |  | 14 | (4.7) | 3 | (1.4) |  |  | 7 | (4) |
 
 Using data from the same studies, the number (%) of patients experiencing hypotension is displayed by patient age, drug and concentration in Table 5.
 In Table 6, the adverse events for ropivacaine hydrochloride are broken down by gender.
 
 Table 5 Effects of Age on Hypotension (Epidural Administration) Total N: Ropivacaine Hydrochloride = 760, Bupivacaine = 410
 
-|  | Ropivacaine Hydrochloride |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AGE | 5 mg/mL |  |  | 7.5 mg/mL |  | 10 mg/mL |  |  |
-|  | N | (%) |  | N | (%) | N |  | (%) |
-| <65 | 68 | (32.2) |  | 99 | (43.2) | 87 |  | (51.5) |
-| ≥65 | 31 | (68.9) |  | 47 | (69.1) | 26 |  | (68.4) |
-|  | Bupivacaine |  |  |  |  |  |  |  |
-| AGE | 5 mg/mL |  |  |  | 7.5 mg/mL |  |  |  |
-|  | N |  | (%) |  | N |  | (%) |  |
-| <65 | 64 |  | (33.5) |  | 73 |  | (48.3) |  |
-| ≥65 | 27 |  | (60) |  | 16 |  | (69.6) |  |
+| AGE | Ropivacaine Hydrochloride |  |  |  |  |  | Bupivacaine |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 mg/mL |  | 7.5 mg/mL |  | 10 mg/mL |  | 5 mg/mL |  | 7.5 mg/mL |  |  |
+|  | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |
+| <65 | 68 | (32.2) | 99 | (43.2) | 87 | (51.5) | 64 | (33.5) | 73 | (48.3) |
+| ≥65 | 31 | (68.9) | 47 | (69.1) | 26 | (68.4) | 27 | (60) | 16 | (69.6) |
 
 Table 6 Most Common Adverse Events by Gender (Epidural Administration) Total N: Females = 405, Males = 355
 
