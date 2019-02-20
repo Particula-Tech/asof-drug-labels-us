@@ -55,3 +55,10 @@ Arsenic trioxide was embryolethal and teratogenic in rats when administered on g
 A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m² basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m² basis.
 Advise pregnant women of the potential risk to a fetus.
 Advise females and males of reproductive potential to use effective contraception during and after treatment with TRISENOX [see Use in Specific Populations (8.1, 8.3)].
+
+## 5.6 Encephalopathy
+
+Cases of encephalopathy were reported with treatment with arsenic trioxide.
+Wernicke encephalopathy after arsenic trioxide treatment were reported in patients with vitamin B1 deficiency.
+Patients at risk of B1 deficiency should be closely monitored for signs and symptoms of encephalopathy after arsenic trioxide initiation.
+Some cases recovered with vitamin B1 supplementation.

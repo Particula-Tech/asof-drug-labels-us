@@ -231,7 +231,7 @@ Because they are reported from a population of unknown size, precise estimates o
 
 Cardiac disorders: Ventricular extrasystoles in association with QT prolongation, ventricular tachycardia in association with QT prolongation, including torsade de pointes, atrioventricular block, and congestive heart failure
 
-Nervous system disorders: Peripheral neuropathy, paresis, seizures, confusion
+Nervous system disorders: Peripheral neuropathy, paresis, seizures, confusion, encephalopathy
 
 Hematologic disorders: Pancytopenia, bone marrow necrosis
 
