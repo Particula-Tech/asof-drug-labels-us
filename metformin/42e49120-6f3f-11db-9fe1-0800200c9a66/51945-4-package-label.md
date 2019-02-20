@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL 15 mg / 500 mg 60 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 15 mg/500 mg Tablet Bottle Label
 
 NDC 64764-155-60 60 Tablets
 
@@ -10,11 +10,11 @@ Each film-coated tablet contains pioglitazone hydrochloride equivalent to 15 mg 
 
 Dispense with Medication Guide available in package insert or at www.actoplusmet.com
 
-Takeda Logo
+Takeda
 
 Rx Only
 
-PRINCIPAL DISPLAY PANEL 15 mg / 850 mg 60 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 15 mg/850 mg Tablet Bottle Label
 
 NDC 64764-158-60 60 Tablets
 
@@ -26,6 +26,6 @@ Each film-coated tablet contains pioglitazone hydrochloride equivalent to 15 mg 
 
 Dispense with Medication Guide available in package insert or at www.actoplusmet.com
 
-Takeda Logo
+Takeda
 
 Rx Only
