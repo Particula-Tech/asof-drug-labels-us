@@ -8,7 +8,7 @@ Alogliptin and Pioglitazone Tablets 12.5 mg/15 mg
 
 Dispense with Medication Guide
 
-1. 30 Tablets Perrigo®
+30 Tablets Perrigo®
 
 # PRINCIPAL DISPLAY PANEL - 12.5 mg/30 mg Tablet Bottle Label
 
@@ -20,7 +20,7 @@ Alogliptin and Pioglitazone Tablets 12.5 mg/30 mg
 
 Dispense with Medication Guide
 
-1. 30 Tablets Perrigo ®
+30 Tablets Perrigo®
 
 # PRINCIPAL DISPLAY PANEL - 12.5 mg/45 mg Tablet Bottle Label
 
@@ -32,7 +32,7 @@ Alogliptin and Pioglitazone Tablets 12.5 mg/45 mg
 
 Dispense with Medication Guide
 
-1. 30 Tablets Perrigo ®
+30 Tablets Perrigo®
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/15 mg Tablet Bottle Label
 
@@ -44,7 +44,7 @@ Alogliptin and Pioglitazone Tablets 25 mg/15 mg
 
 Dispense with Medication Guide
 
-1. 30 Tablets Perrigo ®
+30 Tablets Perrigo®
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/30 mg Tablet Bottle Label
 
@@ -56,7 +56,7 @@ Alogliptin and Pioglitazone Tablets 25 mg/30 mg
 
 Dispense with Medication Guide
 
-1. 30 Tablets Perrigo ®
+30 Tablets Perrigo®
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/45 mg Tablet Bottle Label
 
@@ -68,4 +68,4 @@ Alogliptin and Pioglitazone Tablets 25 mg/45 mg
 
 Dispense with Medication Guide
 
-1. 30 Tablets Perrigo ®
+30 Tablets Perrigo®
