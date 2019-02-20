@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Morphine Sulfate Extended-release Capsules, USP contain white to off-white or tan colored polymer coated pellets, have an outer opaque capsule with colors as identified below and are available in seven dose strengths:
+Morphine sulfate extended-release capsules contain white to off-white or tan colored polymer coated pellets, have an outer opaque capsule with colors as identified below and are available in seven dose strengths:
 
 10 mg size 4 capsule, light blue opaque cap and body printed with "UPSHER-SMITH" over "0225" on the cap and "10 mg" on the body in black ink.
 

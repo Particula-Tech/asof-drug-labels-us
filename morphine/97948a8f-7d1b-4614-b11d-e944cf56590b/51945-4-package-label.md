@@ -2,11 +2,13 @@
 
 NDC 0832-0225-00
 
-Morphine Sulfate Extended-release Capsules, USP
+Morphine Sulfate Extended-Release Capsules, USP
+
+CII
 
 (Once or twice Daily Formulation)
 
-10 mg CII
+10 mg
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
@@ -18,11 +20,13 @@ UPSHER-SMITH
 
 NDC 0832-0226-00
 
-Morphine Sulfate Extended-release Capsules, USP
+Morphine Sulfate Extended-Release Capsules, USP
+
+CII
 
 (Once or twice Daily Formulation)
 
-20 mg CII
+20 mg
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
@@ -34,11 +38,13 @@ UPSHER-SMITH
 
 NDC 0832-0227-00
 
-Morphine Sulfate Extended-release Capsules, USP
+Morphine Sulfate Extended-Release Capsules, USP
+
+CII
 
 (Once or twice Daily Formulation)
 
-30 mg CII
+30 mg
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
@@ -50,11 +56,13 @@ UPSHER-SMITH
 
 NDC 0832-0228-00
 
-Morphine Sulfate Extended-release Capsules, USP
+Morphine Sulfate Extended-Release Capsules, USP
+
+CII
 
 (Once or twice Daily Formulation)
 
-50 mg CII
+50 mg
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
@@ -66,11 +74,13 @@ UPSHER-SMITH
 
 NDC 0832-0229-00
 
-Morphine Sulfate Extended-release Capsules, USP
+Morphine Sulfate Extended-Release Capsules, USP
+
+CII
 
 (Once or twice Daily Formulation)
 
-60 mg CII
+60 mg
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
@@ -82,11 +92,13 @@ UPSHER-SMITH
 
 NDC 0832-0230-00
 
-Morphine Sulfate Extended-release Capsules, USP
+Morphine Sulfate Extended-Release Capsules, USP
+
+CII
 
 (Once or twice Daily Formulation)
 
-80 mg CII
+80 mg
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
@@ -98,11 +110,13 @@ UPSHER-SMITH
 
 NDC 0832-0233-00
 
-Morphine Sulfate Extended-release Capsules, USP
+Morphine Sulfate Extended-Release Capsules, USP
+
+CII
 
 (Once or twice Daily Formulation)
 
-100 mg CII
+100 mg
 
 For Use in Opioid-Tolerant Patients Only
 
