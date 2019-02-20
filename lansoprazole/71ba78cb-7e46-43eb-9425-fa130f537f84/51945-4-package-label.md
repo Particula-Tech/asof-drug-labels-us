@@ -1,32 +1,28 @@
-PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
+# PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
 
-NDC 64764-541-19 1000 Capsules
+NDC 64764-541-30 30 Capsules
 
 PREVACID® LANSOPRAZOLE DELAYED-RELEASE CAPSULES
 
 15 mg
 
-Rx only
+Dispense the accompanying Medication Guide to each patient.
 
-Dispense the accompanying Medication Guide to each patient
+# PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
 
-Takeda logo
-
-PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
-
-NDC 64764-046-19 1000 Capsules
+NDC 64764-046-13 100 Capsules
 
 PREVACID® LANSOPRAZOLE DELAYED-RELEASE CAPSULES
 
 30 mg
 
+Dispense the accompanying Medication Guide to each patient.
+
+Takeda
+
 Rx only
 
-Dispense the accompanying Medication Guide to each patient
-
-Takeda logo
-
-PRINCIPAL DISPLAY PANEL - 15 mg SoluTab Blister Carton
+# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Blister Pack Carton
 
 NDC 64764-543-11
 
@@ -36,15 +32,13 @@ PREVACID® SoluTab™ LANSOPRAZOLE Delayed-Release Orally Disintegrating Tablets
 
 Rx only
 
-Dispense the enclosed Medication Guide to each patient
+Takeda
 
-Takeda logo
-
-PACKAGE NOT CHILD-RESISTANT Dispense in a child-resistant container-closure package
+Dispense the enclosed Medication Guide to each patient.
 
 100 Tablets Contains: 10 Packs of 10 Tablets Each
 
-PRINCIPAL DISPLAY PANEL - 30 mg SoluTab Blister Carton
+# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Blister Pack Carton
 
 NDC 64764-544-11
 
@@ -54,10 +48,8 @@ PREVACID® SoluTab™ LANSOPRAZOLE Delayed-Release Orally Disintegrating Tablets
 
 Rx only
 
-Dispense the enclosed Medication Guide to each patient
+Takeda
 
-Takeda logo
-
-PACKAGE NOT CHILD-RESISTANT Dispense in a child-resistant container-closure package
+Dispense the enclosed Medication Guide to each patient.
 
 100 Tablets Contains: 10 Packs of 10 Tablets Each
