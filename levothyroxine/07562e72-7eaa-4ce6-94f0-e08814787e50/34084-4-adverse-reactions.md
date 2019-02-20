@@ -1,33 +1,35 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse reactions associated with levothyroxine therapy are primarily those of hyperthyroidism due to therapeutic overdosage (see PRECAUTIONS and OVERDOSAGE).
+Common adverse reactions with UNITHROID therapy are primarily those of hyperthyroidism due to therapeutic overdosage [see Warnings and Precautions (5.4) and Overdosage (10)].
 They include the following:
 
-General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating;
+General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating
 
-Central nervous system: headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia;
+Central nervous system: headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia
 
-Musculoskeletal: tremors, muscle weakness;
+Musculoskeletal: tremors, muscle weakness and cramps
 
-Cardiovascular: palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest;
+Cardiovascular: palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest
 
-Respiratory: dyspnea;
+Respiratory: dyspnea
 
-Gastrointestinal: diarrhea, vomiting, abdominal cramps and elevation in liver function tests;
+Gastrointestinal: diarrhea, vomiting, abdominal cramps, elevations in liver function tests
 
-Dermatologic: hair loss; flushing;
+Dermatologic: hair loss, flushing
 
-Endocrine: decreased bone mineral density;
+Endocrine: decreased bone mineral density
 
-Reproductive: menstrual irregularities, impaired fertility.
+Reproductive: menstrual irregularities, impaired fertility
 
-Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in children receiving levothyroxine therapy.
-Overtreatment may result in craniosynostosis in infants and premature closure of the epiphyses in children with resultant compromised height.
+Seizures have been reported rarely with levothyroxine therapy.
 
-Seizures have been reported rarely with the institution of levothyroxine therapy.
+Adverse Reactions in Pediatric Patients
 
-Inadequate levothyroxine dosage will produce or fail to ameliorate the signs and symptoms of hypothyroidism.
+Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in pediatric patients receiving levothyroxine therapy.
+Overtreatment may result in craniosynostosis in infants and premature closure of the epiphyses in pediatric patients with resultant compromised adult height.
+
+Hypersensitivity Reactions
 
 Hypersensitivity reactions to inactive ingredients have occurred in patients treated with thyroid hormone products.
-These include urticaria, pruritus, skin rash, flushing, angioedema, various Gl symptoms (abdominal pain, nausea, vomiting and diarrhea), fever, arthralgia, serum sickness and wheezing.
+These include urticaria, pruritus, skin rash, flushing, angioedema, various gastrointestinal symptoms (abdominal pain, nausea, vomiting and diarrhea), fever, arthralgia, serum sickness and wheezing.
 Hypersensitivity to levothyroxine itself is not known to occur.
