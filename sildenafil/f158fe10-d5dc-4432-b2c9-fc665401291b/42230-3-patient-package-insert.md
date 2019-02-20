@@ -177,4 +177,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-LAB-0335-11.0 February 2018
+LAB-0335-12.0 January 2019
