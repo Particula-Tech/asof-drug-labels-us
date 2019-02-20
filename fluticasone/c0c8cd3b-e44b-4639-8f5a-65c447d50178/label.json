@@ -3,14 +3,14 @@
     "NDA019957"
   ],
   "inn": "fluticasone",
-  "labeler": "PharmaDerm, A division of Fougera Pharmaceuticals Inc.",
+  "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
   "package_ndcs": [
     "10337-333-30",
     "10337-333-60"
   ],
   "products": [
     {
-      "form": "Ointment",
+      "form": "OINTMENT",
       "generic": "fluticasone propionate",
       "name": "Cutivate"
     }

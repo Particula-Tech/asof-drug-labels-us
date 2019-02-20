@@ -4,7 +4,7 @@ PharmaDerm® NDC 10337-333-30
 
 Cutivate® (fluticasone propionate) Ointment, 0.005%
 
-For topical use only – Not for ophthalmic use.
+1. For topical use only – Not for ophthalmic use.
 
 Rx only
 
@@ -16,7 +16,7 @@ PharmaDerm® NDC 10337-333-30
 
 Cutivate® (fluticasone propionate) Ointment, 0.005%
 
-For topical use only – Not for ophthalmic use.
+1. For topical use only – Not for ophthalmic use.
 
 Rx only
 

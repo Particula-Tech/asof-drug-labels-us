@@ -14,16 +14,16 @@ CUTIVATE® Ointment is not recommended for use in children.
 
 Before using CUTIVATE® Ointment, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have an allergy to any of the ingredients in CUTIVATE® Ointment
-- have a skin infection at the site to be treated.
+- • have an allergy to any of the ingredients in CUTIVATE® Ointment
+- • have a skin infection at the site to be treated.
   You may also need medicine to treat the skin infection.
-- have adrenal gland problems
-- have liver problems
-- have diabetes
-- have thinning skin (atrophy) at the site to be treated
-- are pregnant or plan to become pregnant.
+- • have adrenal gland problems
+- • have liver problems
+- • have diabetes
+- • have thinning skin (atrophy) at the site to be treated
+- • are pregnant or plan to become pregnant.
   It is not known if CUTIVATE® Ointment will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
+- • are breastfeeding or plan to breastfeed.
   It is not known if CUTIVATE® Ointment can pass into your breast milk and harm your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -31,21 +31,21 @@ Especially tell your healthcare provider if you take other corticosteroid medici
 
 How should I use CUTIVATE® Ointment?
 
-- Use CUTIVATE® Ointment exactly as your healthcare provider tells you to use it.
-- Apply a thin film of CUTIVATE® Ointment to the affected area 2 times each day.
+- • Use CUTIVATE® Ointment exactly as your healthcare provider tells you to use it.
+- • Apply a thin film of CUTIVATE® Ointment to the affected area 2 times each day.
   Gently rub into your skin.
-- Do not bandage, cover, or wrap the treated area unless your healthcare provider tells you to.
-- Do not use CUTIVATE® Ointment on your face, groin, underarms (armpits), unless your healthcare provider tells you to.
-- Wash your hands after applying CUTIVATE® Ointment, unless your hands are being treated.
-- Tell your healthcare provider if your symptoms get worse with CUTIVATE® Ointment or if your symptoms do not improve after 2 weeks of treatment.
+- • Do not bandage, cover, or wrap the treated area unless your healthcare provider tells you to.
+- • Do not use CUTIVATE® Ointment on your face, groin, underarms (armpits), unless your healthcare provider tells you to.
+- • Wash your hands after applying CUTIVATE® Ointment, unless your hands are being treated.
+- • Tell your healthcare provider if your symptoms get worse with CUTIVATE® Ointment or if your symptoms do not improve after 2 weeks of treatment.
 
 What are possible side effects with CUTIVATE® Ointment?
 CUTIVATE® Ointment may cause serious side effects, including:
 
-- CUTIVATE® Ointment can pass through your skin and may cause adrenal gland problems.
+- •CUTIVATE® Ointment can pass through your skin and may cause adrenal gland problems.
   This is more likely to happen if you use CUTIVATE® Ointment for too long, use it over a large treatment area, use it with other topical medicines that contain corticosteroids, cover the treated area, or have liver failure.
   Your healthcare provider may do blood tests to check your adrenal gland function during and after treatment with CUTIVATE® Ointment.
-- Skin problems, including skin reactions or thinning of your skin (atrophy), skin infections, and allergic reactions (allergic contact dermatitis) at the treatment site.
+- •Skin problems, including skin reactions or thinning of your skin (atrophy), skin infections, and allergic reactions (allergic contact dermatitis) at the treatment site.
   Tell your healthcare provider if you get any skin reactions such as pain, tenderness, swelling, or healing problems.
 
 The most common side effects of CUTIVATE® Ointment include itching, burning, excessive hair growth, skin redness, hives, and lightheadedness.
@@ -55,7 +55,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store CUTIVATE® Ointment?
 
-- Store CUTIVATE® Ointment between 36°F to 86°F (2°C to 30°C).
+- • Store CUTIVATE® Ointment between 36°F to 86°F (2°C to 30°C).
 
 Keep CUTIVATE® Ointment and all medicines out of the reach of children.
 
