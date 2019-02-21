@@ -1,10 +1,9 @@
 # WARNINGS
 
-The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
-
-This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.
+The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow­gray­brown).
+This adverse reaction is more common during long­term use of the drugs, but it has been observed following repeated short­term courses.
 Enamel hypoplasia has also been reported.
-Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
+Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life­threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including doxycycline hyclate capsules, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -16,6 +15,10 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 
 If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens­Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
+(See ADVERSE REACTIONS.)
+If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline hyclate capsules.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
@@ -65,8 +68,8 @@ Patients taking doxycycline for malaria prophylaxis should be advised:
 All patients taking doxycycline should be advised:
 
 - to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (e.g., skin eruption, etc.) occurs.
-Sunscreen or sunblock should be considered (See WARNINGS). - to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration (See ADVERSE REACTIONS). - that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.
-However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk (See Drug Interactions). - that the absorption of tetracyclines is reduced when taking bismuth subsalicylate (See Drug Interactions). - that the use of doxycycline might increase the incidence of vaginal candidiasis.
+Sunscreen or sunblock should be considered (See WARNINGS.) - to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration (See ADVERSE REACTIONS.) - that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.
+However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk (See DRUG INTERACTION.) - that the absorption of tetracyclines is reduced when taking bismuth subsalicylate (See DRUG INTERACTIONS.) - that the use of doxycycline might increase the incidence of vaginal candidiasis.
 
 Patients should be counseled that antibacterial drugs, including doxycycline hyclate capsules should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -113,24 +116,19 @@ Likewise, although mutagenicity studies of doxycycline have not been conducted, 
 Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats.
 Effect on male fertility has not been studied.
 
-## Pregnancy
-
-Teratogenic Effects.
-Pregnancy Category D
+## Pregnancy: Teratogenic Effects.
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
 There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women, such as that proposed for treatment of anthrax exposure.
-An expert review of published data on experiences with doxycycline use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk.8 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
+An expert review of published data on experiences with doxycycline use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk.1 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
 Sixty-three (0.19%) of the controls and fifty-six (0.30%) of the cases were treated with doxycycline.
-This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed cases.9
+This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed cases.2
 
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
-All mothers reported their exposed infants were normal at 1 year of age.10
+All mothers reported their exposed infants were normal at 1 year of age.3
 
-## Nonteratogenic Effects
-
-See WARNINGS.
+## Nonteratogenic Effects: (see WARNINGS)
 
 ## Labor and Delivery
 
