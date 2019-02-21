@@ -10,7 +10,7 @@ Renal Impairment
 
 • Inform patients of the importance of getting their blood tests (serum creatinine) during the course of their zoledronic acid therapy [see Warnings and Precautions (5.3)].
 
-Osteonecrosis of the Jaw
+Osteonecrosis of the Jaw (ONJ)
 
 • Advise patients to have a dental examination prior to treatment with zoledronic acid and to avoid invasive dental procedures during treatment.
 
@@ -32,13 +32,17 @@ Patients with Asthma
 • There have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates, including zoledronic acid.
 Before being given zoledronic acid, instruct patients to tell their doctor if they are aspirin-sensitive [see Warnings and Precautions (5.7)]
 
-Embryo-Fetal Toxicity
-
-• Zoledronic acid should not be given if the patient is pregnant or plans to become pregnant, or if she is breastfeeding [see Warnings and Precautions (5.9)].
-
 Hypocalcemia
 
-• Advise patients with multiple myeloma and bone metastasis of solid tumors to take an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily [see Warnings and Precautions (5.10)].
+• Advise patients with multiple myeloma and bone metastasis of solid tumors to take an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily [see Warnings and Precautions (5.9)].
+
+Embryo-Fetal Toxicity
+
+• Zoledronic acid should not be given if the patient is pregnant or plans to become pregnant.
+Inform female patients of the risk to a fetus and potential loss of the pregnancy [see Warnings and Precautions (5.10)].
+
+• Advise females of reproductive potential to use effective contraception during and after treatment with Zoledronic acid [see Warnings and Precautions (5.10), Use in Specific Populations (8.1, 8.3)]."
+Lactation • Advise lactating women not to breastfeed during and after treatment with Zoledronic acid [see Use in Specific Populations (8.2)].
 
 Common Adverse Reactions
 
@@ -51,6 +55,6 @@ Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTU
 
 Distributed by: WEST-WARD PHARMACEUTICALS CORP. A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Revised: January 2017
+Revised: January 2019
 
-PIN307-WES/6
+PIN307-WES/7

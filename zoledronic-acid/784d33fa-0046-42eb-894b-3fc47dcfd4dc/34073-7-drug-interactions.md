@@ -19,6 +19,6 @@ Caution is indicated when zoledronic acid is used with other potentially nephrot
 
 ## 7.4 Thalidomide
 
-No dose adjustment for zoledronic acid 4 mg is needed when co-administered with thalidomide.
+No dose adjustment for zoledronic acid 4 mg is needed when coadministered with thalidomide.
 In a pharmacokinetic study of 24 patients with multiple myeloma, zoledronic acid 4 mg given as a 15-minute infusion was administered either alone or with thalidomide (100 mg once daily on days 1 to 14 and 200 mg once daily on days 15 to 28).
-Co‑administration of thalidomide with zoledronic acid did not significantly change the pharmacokinetics of zoledronic acid or creatinine clearance.
+Coadministration of thalidomide with zoledronic acid did not significantly change the pharmacokinetics of zoledronic acid or creatinine clearance.

@@ -5,10 +5,10 @@ Parenteral drug products should be inspected visually for particulate matter and
 ## 2.1 Hypercalcemia of Malignancy
 
 The maximum recommended dose of zoledronic acid in hypercalcemia of malignancy (albumin‑corrected serum calcium greater than or equal to 12 mg/dL [3 mmol/L]) is 4 mg.
-The 4-mg dose must be given as a single-dose intravenous infusion over no less than 15 minutes.
+The 4 mg dose must be given as a single-dose intravenous infusion over no less than 15 minutes.
 Patients who receive zoledronic acid should have serum creatinine assessed prior to each treatment.
 
-Dose adjustments of zoledronic acid are not necessary in treating patients for hypercalcemia of malignancy presenting with mild-to-moderate renal impairment prior to initiation of therapy (serum creatinine less than 400 mcmol/L or less than 4.5 mg/dL).
+Dose adjustments of zoledronic acid are not necessary in treating patients for hypercalcemia of malignancy presenting with mild-to-moderate renal impairment prior to initiation of therapy (serum creatinine less than 400 μmol/L or less than 4.5 mg/dL).
 
 Patients should be adequately rehydrated prior to administration of zoledronic acid [see Warnings and Precautions (5.2)].
 
@@ -58,9 +58,9 @@ Zoledronic acid must not be mixed with calcium or other divalent cation-containi
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
 Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
 
-To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid concentrate from the vial for the dose required (see Table 3).
+To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid concentrate from the vial for the dose required (see Table 2).
 
-Table 3: Preparation of Reduced Doses - Zoledronic Acid Injection Concentrate
+Table 2: Preparation of Reduced Doses - Zoledronic Acid Injection Concentrate
 
 | Remove and Use Zoledronic Acid Injection Volume (mL) | Dose (mg) |
 | --- | --- |

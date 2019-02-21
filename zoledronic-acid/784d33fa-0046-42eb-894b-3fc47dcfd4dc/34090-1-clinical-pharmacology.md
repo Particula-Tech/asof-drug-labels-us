@@ -34,7 +34,7 @@ Therefore, adjustment of the total serum calcium value for differences in albumi
 Pharmacokinetic data in patients with hypercalcemia are not available.
 
 Distribution Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
-The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours post-infusion with population half‑lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
+The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours postinfusion with population half‑lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
 The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 postinfusion, and a terminal elimination half-life t1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0 to 24h) of zoledronic acid was dose proportional from 2 to 16 mg.
 The accumulation of zoledronic acid measured over three cycles was low, with mean AUC0 to 24h ratios for cycles 2 and 3 versus 1 of 1.13 ± 0.30 and 1.16 ± 0.36, respectively.
@@ -50,13 +50,13 @@ Following an intravenous dose of 20 nCi 14C-zoledronic acid in a patient with ca
 Excretion In 64 patients with cancer and bone metastases, on average (± SD) 39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post-Day 2.
 The cumulative percent of drug excreted in the urine over 0 to 24 hours was independent of dose.
 The balance of drug not recovered in urine over 0 to 24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
-The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2 L/h.
+The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2.0 L/h.
 
 Zoledronic acid clearance was independent of dose but dependent upon the patient’s creatinine clearance.
 In a study in patients with cancer and bone metastases, increasing the infusion time of a 4-mg dose of zoledronic acid from 5 minutes (n=5) to 15 minutes (n=7) resulted in a 34% decrease in the zoledronic acid concentration at the end of the infusion ([mean ± SD] 403 ± 118 ng/‌mL versus 264 ± 86 ng/mL) and a 10% increase in the total AUC (378 ± 116 ng × h/mL versus 420 ± 218 ng × h/‌mL).
 The difference between the AUC means was not statistically significant.
 
-Special Populations Pediatrics Zoledronic acid is not indicated for use in children [see Use in Specific Populations, Pediatric Use (8.4)].
+Special Populations Pediatrics Zoledronic acid is not indicated for use in children [see Use in Specific Populations (8.4)].
 
 Geriatrics The pharmacokinetics of zoledronic acid were not affected by age in patients with cancer and bone metastases who ranged in age from 38 years to 84 years.
 

@@ -6,7 +6,7 @@ Zoledronic acid is designated chemically as (1-Hydroxy-2-imidazol-1-yl-phosphono
 Zoledronic acid is a white crystalline powder.
 Its molecular formula is C5H10N2O7P2 • H2O and its molar mass is 290.1 g/‌mol.
 Zoledronic acid is highly soluble in 0.1N sodium hydroxide solution, sparingly soluble in water and 0.1N hydrochloric acid, and practically insoluble in organic solvents.
-The pH of a 0.7% solution of zoledronic acid in water is approximately 2.
+The pH of a 0.7% solution of zoledronic acid in water is approximately 2.0.
 
 Zoledronic acid injection is available in 5 mL vials as a sterile liquid concentrate solution for intravenous infusion.
 

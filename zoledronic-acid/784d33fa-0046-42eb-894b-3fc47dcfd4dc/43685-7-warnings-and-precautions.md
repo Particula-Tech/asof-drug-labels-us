@@ -23,10 +23,10 @@ Factors predisposing to renal deterioration, such as dehydration or the use of o
 
 Zoledronic acid treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
 [see Dosage and Administration (2.1)].
-In the clinical studies, patients with serum creatinine greater than 400 mcmol/L or greater than 4.5 mg/dL were excluded.
+In the clinical studies, patients with serum creatinine greater than 400 μmol/L or greater than 4.5 mg/dL were excluded.
 
 Zoledronic acid treatment is not recommended in patients with bone metastases with severe renal impairment.
-In the clinical studies, patients with serum creatinine greater than 265 mcmol/L or greater than 3 mg/dL were excluded and there were only 8 of 564 patients treated with zoledronic acid 4 mg by 15-minute infusion with a baseline creatinine greater than 2 mg/dL.
+In the clinical studies, patients with serum creatinine greater than 265 μmol/L or greater than 3 mg/dL were excluded and there were only 8 of 564 patients treated with zoledronic acid 4 mg by 15-minute infusion with a baseline creatinine greater than 2 mg/dL.
 Limited pharmacokinetic data exists in patients with creatinine clearance less than 30 mL/min [see Clinical Pharmacology (12.3)].
 
 ## 5.4 Osteonecrosis of the Jaw
@@ -76,17 +76,7 @@ While not observed in clinical trials with zoledronic acid, there have been repo
 
 Only limited clinical data are available for use of zoledronic acid to treat hypercalcemia of malignancy in patients with hepatic insufficiency, and these data are not adequate to provide guidance on dosage selection or how to safely use zoledronic acid in these patients.
 
-## 5.9 Use in Pregnancy
-
-Bisphosphonates, such as zoledronic acid, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
-There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
-
-Zoledronic acid may cause fetal harm when administered to a pregnant woman.
-In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and post‑implantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
-There are no adequate and well-controlled studies in pregnant women.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
-
-## 5.10 Hypocalcemia
+## 5.9 Hypocalcemia
 
 Hypocalcemia has been reported in patients treated with zoledronic acid.
 Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
@@ -94,3 +84,12 @@ In some instances, hypocalcemia may be life-threatening.
 Caution is advised when zoledronic acid is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [see Drug Interactions (7)].
 Serum calcium should be measured and hypocalcemia must be corrected before initiating zoledronic acid.
 Adequately supplement patients with calcium and vitamin D.
+
+## 5.10 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and its mechanism of action, Zoledronic acid can cause fetal harm when administered to a pregnant woman.
+In animal reproduction studies, administration of zoledronic acid to pregnant rats during organogenesis resulted in fetal malformations and embryo-fetal lethality at maternal exposures that were greater than or equal to 2.4 times the human clinical exposure based on area under the curve (AUC).
+Bisphosphonates, such as Zoledronic acid, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
+There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during and after Zoledronic acid treatment [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].
