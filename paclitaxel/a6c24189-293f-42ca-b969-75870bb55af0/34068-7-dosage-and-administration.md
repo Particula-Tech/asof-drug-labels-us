@@ -14,9 +14,9 @@ For patients with carcinoma of the ovary, the following regimens are recommended
 For previously untreated patients with carcinoma of the ovary, one of the following recommended regimens may be given every 3 weeks.
 In selecting the appropriate regimen, differences in toxicities should be considered (see TABLE 11 in ADVERSE REACTIONS, Disease-Specific Adverse Event Experiences).
 
-1 Paclitaxel administered intravenously over 3 hours at a dose of 175 mg/m2 followed by cisplatin at a dose of 75 mg/m2; or
-
-2 Paclitaxel administered intravenously over 24 hours at a dose of 135 mg/m2 followed by cisplatin at a dose of 75 mg/m2.
+1.
+Paclitaxel administered intravenously over 3 hours at a dose of 175 mg/m2 followed by cisplatin at a dose of 75 mg/m2; or 2.
+Paclitaxel administered intravenously over 24 hours at a dose of 135 mg/m2 followed by cisplatin at a dose of 75 mg/m2.
 
 2.
 In patients previously treated with chemotherapy for carcinoma of the ovary, paclitaxel has been used at several doses and schedules; however, the optimal regimen is not yet clear.
@@ -38,9 +38,7 @@ For patients with AIDS-related Kaposi’s sarcoma, paclitaxel administered at a 
 In the 2 clinical trials evaluating these schedules (see CLINICAL STUDIES, AIDS-Related Kaposi'sSarcoma), the former schedule (135 mg/m2 every 3 weeks) was more toxic than the latter.
 In addition, all patients with low performance status were treated with the latter schedule (100 mg/m2 every 2 weeks).
 
-Based upon the immunosuppression in patients with advanced HIV disease, the following modifications are recommended in these patients:
-
-1.
+Based upon the immunosuppression in patients with advanced HIV disease, the following modifications are recommended in these patients: 1.
 Reduce the dose of dexamethasone as 1 of the 3 premedication drugs to 10 mg PO (instead of 20 mg PO);
 
 2.
@@ -56,7 +54,6 @@ For the therapy of patients with solid tumors (ovary, breast and NSCLC), courses
 Paclitaxel should not be given to patients with AIDS-related Kaposi’s sarcoma if the baseline or subsequent neutrophil count is less than 1,000 cells/mm3.
 Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week or longer) or severe peripheral neuropathy during paclitaxel therapy should have dosage reduced by 20% for subsequent courses of paclitaxel.
 The incidence of neurotoxicity and the severity of neutropenia increase with dose.
-
 Preparation and Administration Precautions:
 
 Paclitaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised in handling paclitaxel.

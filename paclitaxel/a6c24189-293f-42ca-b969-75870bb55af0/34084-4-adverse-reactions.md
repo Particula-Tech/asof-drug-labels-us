@@ -64,7 +64,7 @@ First-Line Ovary in Combination
 For the 1,084 patients who were evaluable for safety in the Phase 3 first-line ovary combination therapy studies, TABLE 11 shows the incidence of important adverse events.
 For both studies, the analysis of safety was based on all courses of therapy (6 courses for the GOG-111 study and up to 9 courses for the Intergroup study).
 
-TABLE 11: FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 FIRST-LINE OVARIAN CARCINOMA
+TABLE 11: FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 FIRST-LINE OVARIAN CARCINOMA STUDIES
 
 |  | Percent of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -170,10 +170,9 @@ During paclitaxel treatment, Grade IV neutropenia was reported for 15% of patien
 
 The incidences of severe hematologic toxicities, infections, mucositis, and cardiovascular events increased with higher doses of doxorubicin.
 
-## Breast Cancer After Failure of Initial Chemotherapy:
+## Breast Cancer After Failure of Initial Chemotherapy
 
 For the 458 patients who received single-agent paclitaxel in the Phase 3 breast carcinoma study, the following table shows the incidence of important adverse events by treatment arm (each arm was administered by a 3-hour infusion).
-
 TABLE 14: FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 STUDY OF BREAST CANCER AFTER FAILURE OF INITIAL CHEMOTHERAPY OR WITHIN 6 MONTHS OF ADJUVANT CHEMOTHERAPY
 
 |  | Percent of Patients |  |
@@ -388,7 +387,6 @@ Atrial fibrillation and supraventricular tachycardia have been reported.
 Respiratory
 
 Interstitial pneumonia, lung fibrosis, and pulmonary embolism have been reported.
-
 Radiation pneumonitis has been reported in patients receiving concurrent radiotherapy.
 
 Pleural effusion and respiratory failure have been reported.
@@ -422,7 +420,6 @@ Other than peripheral neuropathy, serious neurologic events following paclitaxel
 Autonomic neuropathy resulting in paralytic ileus has been reported.
 Optic nerve and/or visual disturbances (scintillating scotomata) have also been reported, particularly in patients who have received higher doses than those recommended.
 These effects generally have been reversible.
-
 However, reports in the literature of abnormal visual evoked potentials in patients have suggested persistent optic nerve damage.
 Postmarketing reports of ototoxicity (hearing loss and tinnitus) have also been received.
 

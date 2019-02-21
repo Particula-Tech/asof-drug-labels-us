@@ -8,9 +8,7 @@ Following intravenous administration of paclitaxel, paclitaxel plasma concentrat
 The initial rapid decline represents distribution to the peripheral compartment and elimination of the drug.
 The later phase is due, in part, to a relatively slow efflux of paclitaxel from the peripheral compartment.
 
-Pharmacokinetic parameters of paclitaxel following 3- and 24-hour infusions of paclitaxel at dose levels of 135 and 175 mg/m2 were determined in a Phase 3 randomized study in ovarian cancer patients and are summarized in the following table:
-
-TABLE 1.
+Pharmacokinetic parameters of paclitaxel following 3- and 24-hour infusions of paclitaxel at dose levels of 135 and 175 mg/m2 were determined in a Phase 3 randomized study in ovarian cancer patients and are summarized in the following table: TABLE 1.
 SUMMARY OF PHARMACOKINETIC PARAMETERS – MEAN VALUES
 
 | Dose (mg/m2) | Infusion Duration (h) | N (patients) | Cmax (ng/mL) | AUC(0-∞) (ng•h/mL) | T-HALF (h) | CLT (L/h/m2) |

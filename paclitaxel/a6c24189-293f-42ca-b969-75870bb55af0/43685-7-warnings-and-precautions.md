@@ -14,9 +14,7 @@ Patients should not be re-treated with subsequent cycles of paclitaxel until neu
 Severe conduction abnormalities have been documented in <1% of patients during paclitaxel therapy and in some cases requiring pacemaker placement.
 If patients develop significant conduction abnormalities during paclitaxel infusion, appropriate therapy should be administered and continuous cardiac monitoring should be performed during subsequent therapy with paclitaxel.
 
-Pregnancy
-
-Paclitaxel can cause fetal harm when administered to a pregnant woman.
+Pregnancy Paclitaxel can cause fetal harm when administered to a pregnant woman.
 Administration of paclitaxel during the period of organogenesis to rabbits at doses of 3 mg/kg/day (about 0.2 the daily maximum recommended human dose on a mg/m2 basis) caused embryo-and fetotoxicity, as indicated by intrauterine mortality, increased resorptions, and increased fetal deaths.
 Maternal toxicity was also observed at this dose.
 No teratogenic effects were observed at 1 mg/kg/day (about 1/15 the daily maximum recommended human dose on a mg/m2 basis); teratogenic potential could not be assessed at higher doses due to extensive fetal mortality.
@@ -56,7 +54,6 @@ Patients should not be re-treated with subsequent cycles of paclitaxel until neu
 In the case of severe neutropenia (<500 cells/mm3 for 7 days or more) during a course of paclitaxel therapy, a 20% reduction in dose for subsequent courses of therapy is recommended.
 
 For patients with advanced HIV disease and poor-risk AIDS-related Kaposi's sarcoma, paclitaxel, at the recommended dose for this disease, can be initiated and repeated if the neutrophil count is at least 1,000 cells/mm3.
-
 Hypersensitivity Reactions
 
 Patients with a history of severe hypersensitivity reactions to products containing polyoxyl 35 castor oil (e.g., cyclosporin for injection concentrate and teniposide for injection concentrate) should not be treated with paclitaxel.
@@ -79,19 +76,15 @@ Although the occurrence of peripheral neuropathy is frequent, the development of
 
 Paclitaxel contains dehydrated alcohol USP, 396 mg/mL; consideration should be given to possible CNS and other effects of alcohol (see PRECAUTIONS, Pediatric Use).
 
-Hepatic
-
-There is limited evidence that the myelotoxicity of paclitaxel may be exacerbated in patients with serum total bilirubin >2 times ULN (see CLINICAL PHARMACOLOGY).
+Hepatic There is limited evidence that the myelotoxicity of paclitaxel may be exacerbated in patients with serum total bilirubin >2 times ULN (see CLINICAL PHARMACOLOGY).
 Extreme caution should be exercised when administering paclitaxel to such patients, with dose reduction as recommended in DOSAGE AND ADMINISTRATION, TABLE 17.
 
-Injection Site Reaction
-
-Injection site reactions, including reactions secondary to extravasation, were usually mild and consisted of erythema, tenderness, skin discoloration, or swelling at the injection site.
+Injection Site Reaction Injection site reactions, including reactions secondary to extravasation, were usually mild and consisted of erythema, tenderness, skin discoloration, or swelling at the injection site.
 These reactions have been observed more frequently with the 24-hour infusion than with the 3-hour infusion.
 Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel at a different site, i.e., “recall”, has been reported.
 
 More severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis, and fibrosis have been reported.
-In some cases the onset of the injection site reaction either occurred during a prolonged infusion or was delayed by a week to 10 days.
+In some cases, the onset of the injection site reaction either occurred during a prolonged infusion or was delayed by a week to 10 days.
 
 A specific treatment for extravasation reactions is unknown at this time.
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
@@ -134,7 +127,6 @@ In 2 clinical studies in NSCLC, the elderly patients treated with paclitaxel had
 Estimates of efficacy appeared similar in elderly patients and in younger patients; however, comparative efficacy cannot be determined with confidence due to the small number of elderly patients studied.
 In a study of first-line treatment of ovarian cancer, elderly patients had a lower median survival than younger patients, but no other efficacy parameters favored the younger group.
 TABLE 9 presents the incidences of Grade IV neutropenia and severe neuropathy in clinical studies according to age.
-
 TABLE 9: SELECTED ADVERSE EVENTS IN GERIATRIC PATIENTS RECEIVING PACLITAXEL IN CLINICAL STUDIES
 
 | (Study/Regimen) | ≥65 | <65 | ≥65 | <65 |

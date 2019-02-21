@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-## Ovarian Carcinoma:
+## Ovarian Carcinoma
 
 First-Line Data
 
@@ -12,7 +12,6 @@ In a study conducted by the Gynecological Oncology Group (GOG), 410 patients wit
 In both studies, patients treated with paclitaxel in combination with cisplatin had significantly higher response rate, longer time to progression, and longer survival time compared with standard therapy.
 These differences were also significant for the subset of patients in the Intergroup study with non-optimally debulked disease, although the study was not fully powered for subset analyses (TABLES 2A and 2B).
 Kaplan- Meier survival curves for each study are shown in FIGURES 1 and 2.
-
 TABLE 2A.
 EFFICACY IN THE PHASE 3 FIRST-LINE OVARIAN CARCINOMA STUDIES
 
@@ -86,7 +85,7 @@ The results of this randomized study support the use of paclitaxel at doses of 1
 The same doses administered by 24-hour infusion were more toxic.
 However, the study had insufficient power to determine whether a particular dose and schedule produced superior efficacy.
 
-## Breast Carcinoma:
+## Breast Carcinoma
 
 Adjuvant Therapy
 
@@ -118,10 +117,10 @@ SUBSET ANALYSES — ADJUVANT BREAST CARCINOMA STUDY
 |  |  | Disease-Free Survival |  | Overall Survival |  |
 | --- | --- | --- | --- | --- | --- |
 | Patient Subset | No. of Patients | No. of Recurrences | Hazard Ratio (95% CI) | No. of Deaths | Hazard Ratio (95% CI) |
-| • No. of Positive Nodes 1 to 3 4 to 9 10+ | 1,4491 1,310 360 | 221 274 129 | 0.72 (0.55 to 0.94) 0.78 (0.61 to 0.99) 0.93 (0.66 to 1.31) | 107 148 87 | 0.76 (0.52 to 1.12) 0.66 (0.47 to 0.91) 0.90 (0.59 to 1.36) |
-| • Tumor Size (cm) ≤2 >2 and ≤5 >5 | 1,096 1,611 397 | 153 358 111 | 0.79 (0.57 to 1.08) 0.79 (0.64 to 0.97) 0.75 (0.51 to 1.08) | 67 201 72 | 0.73 (0.45 to 1.18) 0.74 (0.56 to 0.98) 0.73 (0.46 to 1.16) |
-| • Menopausal Status Pre Post | 1,929 1,183 | 374 250 | 0.83 (0.67 to 1.01) 0.73 (0.57 to 0.93) | 187 155 | 0.72 (0.54 to 0.97) 0.77 (0.56 to 1.06) |
-| • Receptor Status Positivea Negative/Unknownb | 2,066 1,055 | 293 331 | 0.92 (0.73 to 1.16) 0.68 (0.55 to 0.85) | 126 216 | 0.83 (0.59 to 1.18) 0.71 (0.54 to 0.93) |
+| • No. of Positive Nodes 1 to 3 4 to 9 10+ | 1,4491 1,310 360 | 221 274 129 | 0.72 (0.55 to 0.94) 0.78 (0.61 to 0.99) 0.93 (0.66 to 1.31) | 107 148 87 | 0.76 (0.52-1.12) 0.66 (0.47-0.91) 0.90 (0.59-1.36) |
+| • Tumor Size (cm) ≤2 >2 and ≤5 >5 | 1,096 1,611 397 | 153 358 111 | 0.79 (0.57 to 1.08) 0.79 (0.64 to 0.97) 0.75 (0.51 to 1.08) | 67 201 72 | 0.73 (0.45-1.18) 0.74 (0.56-0.98) 0.73 (0.46-1.16) |
+| • Menopausal Status Pre Post | 1,929 1,183 | 374 250 | 0.83 (0.67 to 1.01) 0.73 (0.57 to 0.93) | 187 155 | 0.72 (0.54-0.97) 0.77 (0.56-1.06) |
+| • Receptor Status Positivea Negative/Unknownb | 2,066 1,055 | 293 331 | 0.92 (0.73 to 1.16) 0.68 (0.55 to 0.85) | 126 216 | 0.83 (0.59-1.18) 0.71 (0.54-0.93) |
 | a Positive for either estrogen or progesterone receptors. b Negative or missing for both estrogen and progesterone receptors (both missing: n=15). |  |  |  |  |  |
 
 These retrospective subgroup analyses suggest that the beneficial effect of paclitaxel is clearly established in the receptor-negative subgroup, but the benefit in receptor-positive patients is not yet clear.
@@ -194,7 +193,7 @@ For all other factors, there was no difference in the treatment groups.
 The adverse event profile for patients who received paclitaxel in combination with cisplatin in this study was generally consistent with that seen for the pooled analysis of data from 812 patients treated with single-agent paclitaxel in 10 clinical studies.
 These adverse events and adverse events from the Phase 3 first-line NSCLC study are described in the ADVERSE REACTIONSsection in tabular (TABLES 10 and 15) and narrative form.
 
-AIDS- Related Kaposi's Sarcoma
+AIDS-Related Kaposi's Sarcoma
 
 Data from 2, Phase 2 open-label studies support the use of paclitaxel as second-line therapy in patients with AIDS-related Kaposi's sarcoma.
 Fifty-nine of the 85 patients enrolled in these studies had previously received systemic therapy, including interferon alpha (32%), Dauno Xome® (31%), DOXIL® (2%), and doxorubicin containing chemotherapy (42%), with 64% having received prior anthracyclines.

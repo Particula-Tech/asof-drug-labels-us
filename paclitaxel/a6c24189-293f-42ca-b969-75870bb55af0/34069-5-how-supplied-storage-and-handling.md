@@ -2,11 +2,11 @@
 
 Paclitaxel Injection, USP (6 mg per mL) is supplied in the following:
 
-| Product No. | NDC No. | Strength |  |
-| --- | --- | --- | --- |
-| 760305 | 63323-763-05 | 30 mg per 5 mL (6 mg per ml) | Multiple dose vial, packaged individually. |
-| 760316 | 63323-763-16 | 100 mg per 16.7 mL (6 mg per mL) | Multiple dose vial, packaged individually. |
-| 760350 | 63323-763-50 | 300 mg per 50 mL (6 mg per mL) | Multiple dose vial, packaged individually. |
+| Product Code | Unit of Sale | Strength |
+| --- | --- | --- |
+| 760305 | NDC 63323-763-05 Multiple dose vial, packaged individually | 30 mg per 5 mL (6 mg per mL) |
+| 760316 | NDC 63323-763-16 Multiple dose vial, packaged individually | 100 mg per 16.7 mL (6 mg per mL) |
+| 760350 | NDC 63323-763-50 Multiple dose vial, packaged individually | 300 mg per 50 mL (6 mg per mL) |
 
 The container closure is not made with natural rubber latex.
 
