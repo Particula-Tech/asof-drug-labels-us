@@ -5,7 +5,7 @@
 ADULTS
 
 The recommended initial dose for patients not receiving a diuretic is 10 mg once a day.
-The usual maintenance dosage range is 20 mg to 40 mg per day administered as a single dose or in two equally divided doses.
+The usual maintenance dosage range is 20 to 40 mg per day administered as a single dose or in two equally divided doses.
 A dose of 80 mg gives an increased response, but experience with this dose is limited.
 The divided regimen was more effective in controlling trough (pre-dosing) blood pressure than the same dose given as a once-daily regimen.
 
@@ -24,7 +24,7 @@ Benazepril hydrochloride tablets are not recommended in pediatric patients less 
 
 ## 2.2 Dose Adjustment for Renal Impairment
 
-For adults with a GFR <30 mL/min/1.73 m2 (serum creatinine >3 mg/dL), the recommended initial dose is 5 mg benazepril hydrochloride tablet once daily.
+For adults with a GFR < 30 mL/min/1.73 m2 (serum creatinine > 3 mg/dL), the recommended initial dose is 5 mg benazepril hydrochloride tablet once daily.
 Dosage may be titrated upward until blood pressure is controlled or to a maximum total daily dose of 40 mg.
 Benazepril hydrochloride tablets can also worsen renal function [see Warnings and Precautions (5.3)].
 

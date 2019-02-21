@@ -29,7 +29,7 @@ Benazepril, like other ACE inhibitors, has had less than additive effects with b
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of benazepril are approximately dose-proportional within the dosage range of 10 mg to 80 mg.
+The pharmacokinetics of benazepril are approximately dose-proportional within the dosage range of 10 to 80 mg.
 
 Following oral administration of benazepril, peak plasma concentrations of benazepril, and its active metabolite benazeprilat are reached within 0.5 to 1 hours and 1 to 2 hours, respectively.
 While the bioavailability of benazepril is not affected by food, time to peak plasma concentrations of benazeprilat is delayed to 2 to 4 hours.
@@ -51,8 +51,8 @@ Specific Populations
 
 Renal impairment
 
-The pharmacokinetics of systemic exposure to benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance >30 mL/min) is similar to that in patients with normal renal function.
-In patients with creatinine clearance ≤30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady- state may be delayed [see DOSAGE AND ADMINISTRATION (2)].
+The pharmacokinetics of systemic exposure to benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance > 30 mL/min) is similar to that in patients with normal renal function.
+In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady-state may be delayed [see Dosage and Administration (2)].
 
 When dialysis was started 2 hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.
@@ -64,7 +64,7 @@ In patients with hepatic insufficiency (due to cirrhosis), the pharmacokinetics 
 Drug Interactions
 
 The pharmacokinetics of benazepril are not affected by the following drugs: hydrochlorothiazide, furosemide, chlorthalidone, digoxin, propranolol, atenolol, nifedipine, amlodipine, naproxen, acetylsalicylic acid, or cimetidine.
-Likewise the administration of benazepril does not substantially affect the pharmacokinetics of these medications (cimetidine kinetics were not studied)
+Likewise the administration of benazepril does not substantially affect the pharmacokinetics of these medications (cimetidine kinetics were not studied).
 
 Pediatrics
 
@@ -72,7 +72,7 @@ The pharmacokinetics of benazeprilat, evaluated in pediatric patients with hyper
 
 | Age group | Cmax (ng/mL) | Tmax* (h) | AUC0-inf (ng/mL*h) | CL/F/wt (L/h/Kg) | T1/2 (h) |
 | --- | --- | --- | --- | --- | --- |
-| >1 to ≤ 24 months n=5 | 277 (192, 391) | 1 (0.6, 2) | 1328 (773, 2117) | 0.26 (0.18, 0.4) | 5 (4, 5.8) |
-| >2 to ≤ 6 years n=7 | 200 (168, 244) | 2 (1.4, 2.4) | 978 (842, 1152) | 0.36 (0.31, 0.42) | 5.5 (4.7, 6.5) |
-| >6 to ≤ 12 years n=7 | 221 (194, 258) | 2 (1.2, 2.2) | 1041 (855, 1313) | 0.25 (0.21, 0.31) | 5.5 (4.7, 6.5) |
-| >12 to ≤ 17 years n=8 | 287 (217, 420) | 2 (1.3, 2.3) | 1794 (1478, 2340) | 0.16 (0.13, 0.21) | 5.1 (4.2, 5.7) |
+| > 1 to ≤ 24 months n=5 | 277 (192, 391) | 1 (0.6, 2) | 1328 (773, 2117) | 0.26 (0.18, 0.4) | 5 (4, 5.8) |
+| > 2 to ≤ 6 years n=7 | 200 (168, 244) | 2 (1.4, 2.4) | 978 (842, 1152) | 0.36 (0.31, 0.42) | 5.5 (4.7, 6.5) |
+| > 6 to ≤ 12 years n=7 | 221 (194, 258) | 2 (1.2, 2.2) | 1041 (855, 1313) | 0.25 (0.21, 0.31) | 5.5 (4.7, 6.5) |
+| > 12 to ≤ 17 years n=8 | 287 (217, 420) | 2 (1.3, 2.3) | 1794 (1478, 2340) | 0.16 (0.13, 0.21) | 5.1 (4.2, 5.7) |

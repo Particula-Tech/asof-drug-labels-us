@@ -2,8 +2,7 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D
-
+Benazepril can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
@@ -11,15 +10,13 @@ When pregnancy is detected, discontinue benazepril as soon as possible [see Use 
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
-Angioedema
-
-Head and Neck Angioedema
+Angioedema Head and Neck Angioedema
 
 Angioedema of the face, extremities, lips, tongue, glottis, and/or larynx including some fatal reactions, have occurred in patients treated with benazepril.
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Benazepril should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
 
-Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see CONTRAINDICATIONS (4)].
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
 ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
 
 Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema [see Drug Interactions (7.7)].
@@ -53,8 +50,8 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 ## 5.4 Hypotension
 
-Benazepril can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia acute renal failure or death.
-Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mmHg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
+Benazepril can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia, acute renal failure, or death.
+Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mm Hg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
 
 In such patients, follow closely for the first 2 weeks of treatment and whenever the dose of benazepril or diuretic is increased.
 Avoid use of benazepril in patients who are hemodynamically unstable after acute MI.
