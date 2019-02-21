@@ -134,7 +134,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3a
 | Back pain | 10 |  | 0.4 | 9 |  | 0.7 |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
 | FatigueIncludes fatigue, asthenia. | 22 | 1.8 |  | 40 | 5.1 |  |
-| a NCI CTCAE v4.0. |  |  |  |  |  |  |
+| aNCI CTCAE v4.0. |  |  |  |  |  |  |
 
 Table 5.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
