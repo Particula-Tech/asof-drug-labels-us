@@ -1,12 +1,10 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 69097-533-02 RX only
+RX only
 
-Tenofovir
+NDC 69097-533-02
 
-Disoproxil Fumarate
-
-Tablets
+Tenofovir Disoproxil Fumarate Tablets
 
 300mg*
 
