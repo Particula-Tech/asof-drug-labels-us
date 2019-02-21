@@ -2,7 +2,7 @@
 
 Powder for Solution for Injection
 
-VFEND I.V. for Injection is supplied in a single use vial as a sterile lyophilized powder equivalent to 200 mg VFEND and 3200 mg sulfobutyl ether beta-cyclodextrin sodium (SBECD).
+VFEND I.V. for Injection is supplied in a single-dose vial as a sterile lyophilized powder equivalent to 200 mg voriconazole and 3,200 mg sulfobutyl ether beta-cyclodextrin sodium (SBECD).
 
 Tablets
 
@@ -13,6 +13,6 @@ VFEND 200 mg tablets; white, film-coated, capsule shaped, debossed with "Pfizer"
 Powder for Oral Suspension
 
 VFEND for Oral Suspension is supplied in 100 mL high density polyethylene (HDPE) bottles.
-Each bottle contains 45 g of powder for oral suspension.
+Each bottle contains 45 grams of powder for oral suspension.
 Following reconstitution, the volume of the suspension is 75 mL, providing a usable volume of 70 mL (40 mg voriconazole/mL).
 A 5 mL oral dispenser and a press-in bottle adaptor are also provided.
