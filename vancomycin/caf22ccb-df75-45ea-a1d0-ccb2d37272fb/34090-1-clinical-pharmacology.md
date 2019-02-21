@@ -23,7 +23,9 @@ Vancomycin does not readily diffuse across normal meninges into the spinal fluid
 
 Elimination
 
-Mean plasma clearance is about 0.058 L/kg/h, and mean renal clearance is about 0.048 L/kg/h.The mean elimination half-life of vancomycin from plasma is 4 to 6 hours in subjects with normal renal function.
+Mean plasma clearance is about 0.058 L/kg/h, and mean renal clearance is about 0.048 L/kg/h.
+
+The mean elimination half-life of vancomycin from plasma is 4 to 6 hours in subjects with normal renal function.
 In anephric patients, the mean elimination half-life is 7.5 days.
 Total body and renal clearance of vancomycin may be reduced in the elderly.
 
@@ -69,7 +71,7 @@ Enterococcus spp.
 
 Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates)
 
-Coagulase negative staphylococci (including S. epidermidis and methicillin-resistant isolates)
+Coagulase negative staphylococci (including S.epidermidis and methicillin-resistant isolates)
 
 Streptococcus gallolyticus (previously known as Streptococcus bovis)
 

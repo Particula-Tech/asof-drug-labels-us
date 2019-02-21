@@ -77,7 +77,7 @@ Discard reconstituted and diluted solutions 14 days after initial reconstitution
 
 ## 2.6 Compatibility with Intravenous Fluids
 
-The following diluents are physically and chemically compatible with 5 g/L vancomycin hydrochloride-:
+The following diluents are physically and chemically compatible with 5 g/L vancomycin hydrochloride:
 
 5% Dextrose Injection, USP
 
