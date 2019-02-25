@@ -44,7 +44,7 @@ Both metabolites lack pharmacological activity at the concentrations observed.
 
 Direct glucuronidation and cytochrome P450 (CYP) mediated oxidation are the primary metabolic pathways for olanzapine.
 In vitro studies suggest that CYPs 1A2 and 2D6, and the flavin-containing monooxygenase system are involved in olanzapine oxidation.
-CYP2D6 mediated oxidation appears to be a minor metabolic pathway in vivo, because the clearance of olanzapine is not reduced in subjects who are deficient in this enzyme
+CYP2D6 mediated oxidation appears to be a minor metabolic pathway in vivo, because the clearance of olanzapine is not reduced in subjects who are deficient in this enzyme.
 
 Intramuscular Administration
 
@@ -71,7 +71,7 @@ Although the presence of hepatic impairment may be expected to reduce the cleara
 Geriatric
 
 In a study involving 24 healthy subjects, the mean elimination half-life of olanzapine was about 1.5 times greater in elderly (≥65 years) than in nonelderly subjects (<65 years).
-Caution should be used in dosing the elderly, especially if there are other factors that might additively influence drug metabolism and/or pharmacodynamic sensitivity [see DOSAGE AND ADMINISTRATION (2)].
+Caution should be used in dosing the elderly, especially if there are other factors that might additively influence drug metabolism and/or pharmacodynamic sensitivity [see Dosage and Administration(2)].
 
 Gender
 
@@ -92,6 +92,6 @@ Combined Effects
 
 The combined effects of age, smoking, and gender could lead to substantial pharmacokinetic differences in populations.
 The clearance in young smoking males, for example, may be 3 times higher than that in elderly nonsmoking females.
-Dosing modification may be necessary in patients who exhibit a combination of factors that may result in slower metabolism of olanzapine [see DOSAGE AND ADMINISTRATION (2)].
+Dosing modification may be necessary in patients who exhibit a combination of factors that may result in slower metabolism of olanzapine [see Dosage and Administration(2)].
 
 Adolescents (ages 13 to 17 years) — In clinical studies, most adolescents were nonsmokers and this population had a lower average body weight, which resulted in higher average olanzapine exposure compared to adults.
