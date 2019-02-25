@@ -6,13 +6,12 @@ This information does not take the place of talking to your doctor about your me
 
 Unless otherwise stated, the information in the Patient Information leaflet applies to both rizatriptan benzoate tablets and to rizatriptan benzoate orally disintegrating tablets.
 
-## What is rizatriptan benzoate?
+What is rizatriptan benzoate?
 
 Rizatriptan benzoate is a prescription medicine that belongs to a class of medicines called Triptans.
-
 Rizatriptan benzoate is available as a traditional tablet and as an orally disintegrating tablet.
 
-Rizatriptan benzoate orally disintegrating tablets are used to treat migraine attacks with or without aura in adults
+Rizatriptan benzoate orally disintegrating tablets are used to treat migraine attacks with or without aura in adults and in children 6 to 17 years of age.
 
 Rizatriptan benzoate is not to be used to prevent migraine attacks.
 
@@ -20,9 +19,11 @@ Rizatriptan benzoate is not for the treatment of hemiplegic or basilar migraines
 
 It is not known if rizatriptan benzoate is safe and effective for the treatment of cluster headaches.
 
+It is not known if taking more than 1 dose of rizatriptan benzoate in 24 hours is safe and effective in children 6 to 17 years of age.
+
 It is not known if rizatriptan benzoate is safe and effective in children under 6 years of age.
 
-## Who should not take rizatriptan benzoate orally disintegrating tablets?
+Who should not take rizatriptan benzoate orally disintegrating tablets?
 
 Do not take rizatriptan benzoate orally disintegrating tablets if you:
 
@@ -39,7 +40,7 @@ Do not take rizatriptan benzoate orally disintegrating tablets if you:
 
 Talk to your doctor before taking this medicine if you have any of the conditions listed above or if you are not sure if you take any of these medicines.
 
-## What should I tell my doctor before taking rizatriptan benzoate orally disintegrating tablets?
+What should I tell my doctor before taking rizatriptan benzoate orally disintegrating tablets?
 
 Before you take rizatriptan benzoate orally disintegrating tablets, tell your doctor if you:
 
@@ -79,7 +80,7 @@ Ask your doctor or pharmacist for a list of these medicines, if you are not sure
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
-## How should I take rizatriptan benzoate orally disintegrating tablets?
+How should I take rizatriptan benzoate orally disintegrating tablets?
 
 - •Take rizatriptan benzoate orally disintegrating tablets exactly as your doctor tells you to take it.
 - •Your doctor will tell you how much rizatriptan benzoate to take and when to take it.
@@ -92,16 +93,18 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
   The tablet will dissolve and be swallowed with your saliva.
   No liquid is needed to take the orally disintegrating tablet.
 - •If your headache comes back after your first rizatriptan benzoate orally disintegrating tablets dose:
-  - oFor adults: a second dose may be taken 2 hours after the first dose.
-    Do not take more than 30 mg of rizatriptan benzoate orally disintegrating tablets in a 24-hour period (for example, do not take more than three 10 mg tablets in a 24-hour period).
+- oFor adults: a second dose may be taken 2 hours after the first dose.
+  Do not take more than 30 mg of rizatriptan benzoate orally disintegrating tablets in a 24-hour period (for example, do not take more than three 10 mg tablets in a 24-hour period).
+- oFor children 6 to 17 years of age: It is not known if taking more than 1 dose of rizatriptan benzoate orally disintegrating tablets in 24 hours is safe and effective.
+  Talk to your doctor about what to do if your headache does not go away or comes back.
 - •If you take too much rizatriptan benzoate, call your doctor or go to the nearest hospital emergency room right away.
 
-## What should I avoid while taking rizatriptan benzoate orally disintegrating tablets?
+What should I avoid while taking rizatriptan benzoate orally disintegrating tablets?
 
 Rizatriptan benzoate orally disintegrating tablets may cause dizziness, weakness, or fainting.
 If you have these symptoms, do not drive a car, use machinery, or do anything that needs you to be alert.
 
-## What are the possible side effects of rizatriptan benzoate orally disintegrating tablets?
+What are the possible side effects of rizatriptan benzoate orally disintegrating tablets?
 
 Rizatriptan benzoate orally disintegrating tablets may cause serious side effects.
 Call your doctor or go to the nearest hospital emergency room right away if you think you are having any of the serious side effects of rizatriptan benzoate orally disintegrating tablets including:
@@ -115,31 +118,31 @@ Call your doctor or go to the nearest hospital emergency room right away if you 
 - obreaking out in a cold sweat
 - onausea or vomiting
 - ofeeling lightheaded
-- •stroke.
+- ostroke.
   Symptoms of a stroke may include the following sudden symptoms:
-  - onumbness or weakness in your face, arm or leg, especially on one side of your body
-  - oconfusion, problems speaking or understanding
-  - oproblems seeing in one or both of your eyes
-  - oproblems walking, dizziness, loss of balance or coordination
-  - osevere headache with no known cause
+- onumbness or weakness in your face, arm or leg, especially on one side of your body
+- oconfusion, problems speaking or understanding
+- oproblems seeing in one or both of your eyes
+- oproblems walking, dizziness, loss of balance or coordination
+- osevere headache with no known cause
 - •blood vessel problems.
   Symptoms of blood vessel problems may include:
-  - ostomach pain
-  - obloody diarrhea
-  - ovision problems
-  - ocoldness and numbness of hands and feet
+- ostomach pain
+- obloody diarrhea
+- ovision problems
+- ocoldness and numbness of hands and feet
 - •serotonin syndrome.
   A condition called serotonin syndrome can happen when Triptan medicines such as rizatriptan benzoate orally disintegrating tablets are taken with certain other medicines.
   Symptoms of serotonin syndrome may include:
-  - oagitation
-  - ohallucinations
-  - ocoma
-  - ofast heartbeat
-  - ofast changes in your blood pressure
-  - oincreased body temperature
-  - omuscle spasm
-  - oloss of coordination
-  - onausea, vomiting or diarrhea
+- oagitation
+- ohallucinations
+- ocoma
+- ofast heartbeat
+- ofast changes in your blood pressure
+- oincreased body temperature
+- omuscle spasm
+- oloss of coordination
+- onausea, vomiting or diarrhea
 - •increased blood pressure
 
 The most common side effects of rizatriptan benzoate orally disintegrating tablets in adults include:
@@ -159,14 +162,14 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-## How should I store rizatriptan benzoate orally disintegrating tablets?
+How should I store rizatriptan benzoate orally disintegrating tablets?
 
 - •Store rizatriptan benzoate orally disintegrating tablets between 68°F to 77°F (20°C to 25°C).
 - •Safely throw away medicine that is out of date or no longer needed.
 
 Keep rizatriptan benzoate orally disintegrating tablets and all medicines out of the reach of children.
 
-## General Information about the safe and effective use of rizatriptan benzoate tablets.
+General Information about the safe and effective use of rizatriptan benzoate tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use rizatriptan benzoate for a condition for which it was not prescribed.
@@ -177,9 +180,9 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk to your doctor.
 You can ask your pharmacist or doctor for information about rizatriptan benzoate orally disintegrating tablets that is written for health professionals.
 
-For more information, call 1(888)721-7115.
+For more information, go to www.glenmarkpharmaceuticals.com or call 1(888)721-7115.
 
-## What are the ingredients in rizatriptan benzoate orally disintegrating tablets?
+What are the ingredients in rizatriptan benzoate orally disintegrating tablets?
 
 Active ingredient in rizatriptan benzoate orally disintegrating tablets: rizatriptan benzoate USP.
 
@@ -191,9 +194,6 @@ Phenylketonurics:
 
 Rizatriptan benzoate orally disintegrating tablets 5 mg contain 2.24 mg of phenylalanine.
 Rizatriptan benzoate orally disintegrating tablets 10 mg contain 4.49 mg of phenylalanine.
-
-Information related to the usage of rizatriptan benzoate tablets and rizatriptan benzoate orally disintegrating tablets for pediatric patients aged 6 to 17 years is approved for Merck & Co., Inc.’s Rizatriptan Benzoate Orally Disintegrating Tablets.
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 The brands listed are the trademarks of their respective owners.
 
@@ -216,4 +216,4 @@ Questions?
 
 www.glenmarkpharma.com/usa
 
-October 2014
+February 2019

@@ -48,14 +48,14 @@ Rizatriptan is not an inhibitor of the activities of human liver cytochrome P450
 
 Geriatric: Rizatriptan pharmacokinetics in healthy elderly non-migraineur volunteers (age 65 to 77 years) were similar to those in younger non-migraineur volunteers (age 18 to 45 years).
 
-Pediatric:: Information related to the pharmacokinetics of rizatriptan in pediatric migraineurs 6 to 17 years of age is approved for Merck & Co., Inc.’s Rizatriptan Benzoate Orally Disintegrating Tablets.
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric: The pharmacokinetics of rizatriptan was determined in pediatric migraineurs 6 to 17 years of age.
+Exposures following single dose administration of 5 mg rizatriptan to pediatric patients weighing 20 to 39 kg (44 to 87 lb) or 10 mg rizatriptan to pediatric patients weighing ≥40 kg (88 lb) were similar to those observed following single dose administration of 10 mg rizatriptan to adults.
 
-Gender: The mean AUC0-∞ and Cmax of rizatriptan (10 mg orally) were about 30% and 11% higher in females as compared to males, respectively, while Tmax occurred at approximately the same time.
+Gender: The mean AUC0 to ∞ and Cmax of rizatriptan (10 mg orally) were about 30% and 11% higher in females as compared to males, respectively, while Tmax occurred at approximately the same time.
 
 Hepatic impairment: Following oral administration in patients with hepatic impairment caused by mild to moderate alcoholic cirrhosis of the liver, plasma concentrations of rizatriptan were similar in patients with mild hepatic insufficiency compared to a control group of subjects with normal hepatic function; plasma concentrations of rizatriptan were approximately 30% greater in patients with moderate hepatic insufficiency.
 
-Renal impairment: In patients with renal impairment (creatinine clearance 10 to 60 mL/min/1.73 m2), the AUC0-∞ of rizatriptan was not significantly different from that in subjects with normal renal function.
+Renal impairment: In patients with renal impairment (creatinine clearance 10 to 60 mL/min/1.73 m2), the AUC0 to ∞ of rizatriptan was not significantly different from that in subjects with normal renal function.
 In hemodialysis patients, (creatinine clearance <2 mL/min/1.73 m2), however, the AUC for rizatriptan was approximately 44% greater than that in patients with normal renal function.
 
 Race: Pharmacokinetic data revealed no significant differences between African American and Caucasian subjects.

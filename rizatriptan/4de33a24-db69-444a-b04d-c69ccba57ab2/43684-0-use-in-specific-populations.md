@@ -8,7 +8,7 @@ There are no adequate and well-controlled studies in pregnant women.
 Rizatriptan benzoate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 In a general reproductive study in rats, birth weights and pre- and post-weaning weight gain were reduced in the offspring of females treated prior to and during mating and throughout gestation and lactation with doses of 10 and 100 mg/kg/day.
-In a pre- and postnatal developmental toxicity study in rats, an increase in mortality of the offspring at birth and for the first three days after birth, a decrease in pre- and post-weaning weight gain, and decreased performance in a passive avoidance test (which indicates a decrease in learning capacity of the offspring) were observed at doses of 100 and 250 mg/kg/day.
+In a pre- and post-natal developmental toxicity study in rats, an increase in mortality of the offspring at birth and for the first three days after birth, a decrease in pre- and post-weaning weight gain, and decreased performance in a passive avoidance test (which indicates a decrease in learning capacity of the offspring) were observed at doses of 100 and 250 mg/kg/day.
 The no-effect dose for all of these effects was 5 mg/kg/day, associated with a maternal plasma exposure (AUC) approximately 7.5 times that in humans receiving the MRDD.
 With doses of 100 and 250 mg/kg/day, the decreases in average weight of both the male and female offspring persisted into adulthood.
 All effects on the offspring in both studies occurred in the absence of any apparent maternal toxicity.
@@ -28,9 +28,10 @@ Rizatriptan is extensively excreted in rat milk, with levels in milk at least 5-
 
 Safety and effectiveness in pediatric patients under 6 years of age have not been established.
 
-Information related to the efficacy and safety of rizatriptan benzoate in the acute treatment of migraine in patients aged 6 to 17 years is approved for Merck & Co., Inc.’s Rizatriptan Benzoate Orally Disintegrating Tablets.
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
-[see Clinical Studies (14.2)].
+The efficacy and safety of rizatriptan benzoate in the acute treatment of migraine in patients aged 6 to 17 years was established in an adequate and well-controlled study [see Clinical Studies (14.2)].
+
+The incidence of adverse reactions reported for pediatric patients in the acute clinical trial was similar in patients who received rizatriptan benzoate to those who received placebo.
+The adverse reaction pattern in pediatric patients is expected to be similar to that in adults.
 
 ## 8.5 Geriatric Use
 

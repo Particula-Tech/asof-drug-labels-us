@@ -25,7 +25,7 @@ These adverse reactions appeared to be dose related.
 
 Table 1 lists the adverse reactions (incidence ≥2% and greater than placebo) after a single dose of rizatriptan benzoate in adults.
 
-Table 1: Incidence (≥2% and Greater than Placebo) of Adverse Reactions After a Single Dose of Rizatriptan Benzoate Tablets or Placebo in Adults
+Table 1: Incidence (≥2% and Greater than Placebo) of Adverse Reactions after a Single Dose of Rizatriptan Benzoate Tablets or Placebo in Adults
 
 |  | % of Patients |  |  |
 | --- | --- | --- | --- |
@@ -94,8 +94,31 @@ The adverse reaction profile seen with rizatriptan benzoate orally disintegratin
 
 ### Pediatric Patients 6 to 17 Years of Age
 
-Information relating to adverse reactions to rizatriptan benzoate orally disintegrating tablets in a controlled clinical trial is approved for Merck & Co., Inc.’s Rizatriptan Benzoate Orally Disintegrating Tablets in pediatric patients (6 to 17 years old).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Incidence in Controlled Clinical Trials in Pediatric Patients
+
+Adverse reactions to rizatriptan benzoate were assessed in a controlled clinical trial in the acute treatment of migraines (Study 7) that included a total of 1382 pediatric patients 6-17 years of age, of which 977 (72%) administered at least one dose of study treatment (rizatriptan benzoate and/or placebo) [see Clinical Studies (14.2)].
+The incidence of adverse reactions reported for pediatric patients in the acute clinical trial was similar in patients who received rizatriptan benzoate to those who received placebo.
+The adverse reaction pattern in pediatric patients is expected to be similar to that in adults.
+
+Other Events Observed in Association with the Administration of rizatriptan benzoate in Pediatric Patients
+
+In the following section, the frequencies of less commonly reported adverse events are presented.
+Because the reports include events observed in open studies, the role of rizatriptan benzoate in their causation cannot be reliably determined.
+Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, limit the value of the quantitative frequency estimates provided.
+
+Event frequencies are calculated as the number of pediatric patients 6 to 17 years of age who used rizatriptan benzoate and reported an event divided by the total number of patients exposed to rizatriptan benzoate (N=1068).
+All reported events occurred at an incidence ≥1%, or are believed to be reasonably associated with the use of the drug.
+Events are further classified within system organ class and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those occurring in (>)1/100 pediatric patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 pediatric patients; and rare adverse experiences are those occurring in fewer than 1/1000 patients.
+
+General: Frequent was fatigue.
+
+Ear and labyrinth disorders: Infrequent was hypoacusis.
+
+Gastrointestinal disorders: Frequent was abdominal discomfort.
+
+Nervous system disorders: Infrequent were coordination abnormal, disturbance in attention, and presyncope.
+
+Psychiatric disorders: Infrequent was hallucination.
 
 ## 6.2 Postmarketing Experience
 
