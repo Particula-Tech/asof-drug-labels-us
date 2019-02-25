@@ -19,7 +19,7 @@ In patients who do require chronic treatment, the smallest dose and the shortest
 The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
-For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONSand ADVERSE REACTIONS.
+For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONS and ADVERSE REACTIONS.
 
 Neuroleptic Malignant Syndrome (NMS): A potentially fatal syndrome complex sometimes referred to as neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmias).
@@ -99,6 +99,7 @@ Drugs which lower the seizure threshold, including phenothiazine derivatives sho
 As with other phenothiazine derivatives, prochlorperazine should be discontinued at least 48 hours before myelography, should not be resumed for at least 24 hours postprocedure, and should not be used for the control of nausea and vomiting occurring either prior to myelography with Amipaque, or post-procedure.
 
 Geriatric Use: Clinical studies of Prochlorperazine did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
-Geriatric patients are more sensitive to the side effects of antipsychotics, including Prochlorperazine.These adverse events include hypotension, anticholinergic effects (such as urinary retention, constipation, and confusion), and neuromuscular reactions (such as parkinsonism and tardive dyskinesia)(see PRECAUTIONS and ADVERSE REACTIONS).
+Geriatric patients are more sensitive to the side effects of antipsychotics, including Prochlorperazine.
+These adverse events include hypotension, anticholinergic effects (such as urinary retention, constipation, and confusion), and neuromuscular reactions (such as parkinsonism and tardive dyskinesia)(see PRECAUTIONS and ADVERSE REACTIONS).
 Also, postmarketing safety experience suggests that the incidence of agranulocytosis may be higher in geriatric patients compared to younger individuals who received Prochlorperazine.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, andof concomitant disease or other drug therapy (see DOSAGE AND ADMINISTRATION).
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see DOSAGE AND ADMINISTRATION).

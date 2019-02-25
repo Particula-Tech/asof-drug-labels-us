@@ -19,7 +19,7 @@ Although response ordinarily is seen within a day or 2, longer treatment is usua
 Oral Dosage: Non-Psychotic Anxiety--Usual dosage is 5 mg 3 or4 times daily.
 Do not administer in doses of more than 20mg per day or for longer than 12 weeks.
 
-Psychotic Disorders including Schizophrenia--Inrelatively mild conditions, as seen in private psychiatric practice or in out patient clinics, dosage is 5 or 10 mg 3 or 4 times daily.
+Psychotic Disorders including Schizophrenia--In relatively mild conditions, as seen in private psychiatric practice or in out patient clinics, dosage is 5 or 10 mg 3 or 4 times daily.
 
 In moderate to severe conditions, for hospitalized or adequate­ly supervised patients, usual starting dosage is 10 mg 3 or 4 times daily.
 Increase dosage gradually until symptoms are con­trolled or side effects become bothersome.

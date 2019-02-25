@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Prochlorperazine is a phenothiazine derivative, present in prochlorperazine tablets as the maleate.
+Prochlorperazine, USP is a phenothiazine derivative, present in prochlorperazine tablets as the maleate.
 Prochlorperazine maleate is designated chemically as 2-chloro-10-[3-(4- methyl-1 -piperazinyl)propyl] phenothiazine maleate [molecular weight 606.10] and has the following structure
 
 Prochlorperazine Maleate is classified as an anti-emetic and antipsychotic agent.

@@ -1,6 +1,6 @@
 # STORAGE
 
-Store at 20 - 25oC (68 - 77oF) [See USP Controlled Room Temperature].
+Store at 20 to 25°C (68 to 77°F) [See USP Controlled Room Temperature].
 Protect from light.
 Dispense in a tight, light-resistant container.
 
@@ -8,4 +8,4 @@ Dispense in a tight, light-resistant container.
 
 Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
 
-Revised: 05/2017
+Revised: 10/2018
