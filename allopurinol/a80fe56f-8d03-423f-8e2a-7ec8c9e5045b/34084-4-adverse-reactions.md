@@ -15,63 +15,70 @@ The explanation for this decrease is not obvious.
 The incidence of skin rash may be increased in the presence of renal insufficiency.
 The frequency of skin rash among patients receiving ampicillin or amoxicillin concurrently with allopurinol has been reported to be increased (see PRECAUTIONS).
 
-## Most Common Reactions* Probably Causally Related
+Drug rash with eosinophilia and systemic symptoms (DRESS) syndrome or drug hypersensitivity syndrome (DHS) has been reported in association with allopurinol use.
+The syndrome includes many of the severe reactions described above, and is potentially life-threatening and fatal.
+The syndrome is often characterized by fever, severe and profuse skin rash, elevated leukocyte counts and in particular, elevated eosinophil counts, lymphadenopathy, and multi-organ pathologies.
+Systemic symptoms often included, but were not limited to, the hepatic and renal systems.
+Symptoms involving the cardiac, gastrointestinal, lymphatic, pulmonary, and ophthalmic systems were also reported as occurring as part of the syndrome.
+It has been reported that symptoms may develop in approximately 1 week from initiating allopurinol therapy, but longer latency periods have also been reported.
 
-Gastrointestinal: diarrhea, nausea, alkaline phosphatase increase, SGOT/ SGPT increase
+To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
 
-Metabolic and Nutritional: acute attacks of gout
+## Most Common Reactions* Probably Causally Related:
 
-Skin and Appendages: rash, maculopapular rash
+Gastrointestinal: Diarrhea, nausea, alkaline phosphatase increase, SGOT/SGPT increase.
+
+Metabolic and Nutritional: Acute attacks of gout.
+
+Skin and Appendages: Rash, maculopapular rash.
 
 *Early clinical studies and incidence rates from early clinical experience with allopurinol suggested that these adverse reactions were found to occur at a rate of greater than 1%.
 The most frequent event observed was acute attacks of gout following the initiation of therapy.
 Analyses of current usage suggest that the incidence of these adverse reactions is now less than 1%.
-The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
-## Incidence Less Than 1% Probably Causally Related
+## Incidence Less Than 1% Probably Causally Related:
 
-Body as a whole: ecchymosis, fever, headache
+Body As a Whole: Ecchymosis, fever, headache.
 
-Cardiovascular: necrotizing angiitis, vasculitis
+Cardiovascular: Necrotizing angiitis, vasculitis.
 
-Gastrointestinal: hepatic necrosis, granulomatous hepatitis, hepatomegaly, hyperbilirubinemia, cholestatic jaundice, vomiting, intermittent abdominal pain, gastritis, dyspepsia
+Gastrointestinal: Hepatic necrosis, granulomatous hepatitis, hepatomegaly, hyperbilirubinemia, cholestatic jaundice, vomiting, intermittent abdominal pain, gastritis, dyspepsia.
 
-Hemic and Lymphatic: thrombocytopenia, eosinophilia, leukocytosis, leukopenia
+Hemic and Lymphatic: Thrombocytopenia, eosinophilia, leukocytosis, leukopenia.
 
-Musculoskeletal: myopathy, arthralgias
+Musculoskeletal: Myopathy, arthralgias.
 
-Nervous: peripheral neuropathy, neuritis, paresthesia, somnolence
+Nervous: Peripheral neuropathy, neuritis, paresthesia, somnolence.
 
-Respiratory: epistaxis
+Respiratory: Epistaxis.
 
-Skin and Appendages: erythema multiforme exudativum (Stevens-Johnson syndrome), toxic epidermal necrolysis (Lyell’s syndrome), hypersensitivity vasculitis, purpura, vesicular bullous dermatitis, exfoliative dermatitis, eczematoid dermatitis, pruritus, urticaria, alopecia, onycholysis, lichen planus
+Skin and Appendages: Erythema multiforme exudativum (Stevens-Johnson syndrome), toxic epidermal necrolysis (Lyell’s syndrome), hypersensitivity vasculitis, purpura, vesicular bullous dermatitis, exfoliative dermatitis, eczematoid dermatitis, pruritus, urticaria, alopecia, onycholysis, lichen planus.
 
-Special Senses: taste loss/perversion
+Special Senses: Taste loss/perversion.
 
-Urogenital: renal failure, uremia (see PRECAUTIONS)
+Urogenital: Renal failure, uremia (see PRECAUTIONS).
 
-## Incidence Less Than 1% Causal Relationship Unknown
+## Incidence Less Than 1% Causal Relationship Unknown:
 
-Body as a whole: malaise
+Body As a Whole: Malaise.
 
-Cardiovascular: pericarditis, peripheral vascular disease, thrombophlebitis, bradycardia, vasodilation
+Cardiovascular: Pericarditis, peripheral vascular disease, thrombophlebitis, bradycardia, vasodilation.
 
-Endocrine: infertility (male), hypercalcemia, gynecomastia (male)
+Endocrine: Infertility (male), hypercalcemia, gynecomastia (male).
 
-Gastrointestinal: hemorrhagic pancreatitis, gastrointestinal bleeding, stomatitis, salivary gland swelling, hyperlipidemia, tongue edema, anorexia
+Gastrointestinal: Hemorrhagic pancreatitis, gastrointestinal bleeding, stomatitis, salivary gland swelling, hyperlipidemia, tongue edema, anorexia.
 
-Hemic and Lymphatic: aplastic anemia, agranulocytosis, eosinophilic fibrohistiocytic lesion of bone marrow, pancytopenia, prothrombin decrease, anemia, hemolytic anemia, reticulocytosis, lymphadenopathy, lymphocytosis
+Hemic and Lymphatic: Aplastic anemia, agranulocytosis, eosinophilic fibrohistiocytic lesion of bone marrow, pancytopenia, prothrombin decrease, anemia, hemolytic anemia, reticulocytosis, lymphadenopathy, lymphocytosis.
 
-Musculoskeletal: myalgia
+Musculoskeletal: Myalgia.
 
-Nervous: optic neuritis, confusion, dizziness, vertigo, foot drop, decrease in libido, depression, amnesia, tinnitus, asthenia, insomnia
+Nervous: Optic neuritis, confusion, dizziness, vertigo, foot drop, decrease in libido, depression, amnesia, tinnitus, asthenia, insomnia.
 
-Respiratory: bronchospasm, asthma, pharyngitis, rhinitis
+Respiratory: Bronchospasm, asthma, pharyngitis, rhinitis.
 
-Skin and appendages: furunculosis, facial edema, sweating, skin edema
+Skin and Appendages: Furunculosis, facial edema, sweating, skin edema.
 
-Special Senses: cataracts, macular retinitis, iritis, conjunctivitis, amblyopia
+Special Senses: Cataracts, macular retinitis, iritis, conjunctivitis, amblyopia.
 
-Urogenital: nephritis, impotence, primary hematuria, albuminuria
-
-To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800- FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+Urogenital: Nephritis, impotence, primary hematuria, albuminuria.

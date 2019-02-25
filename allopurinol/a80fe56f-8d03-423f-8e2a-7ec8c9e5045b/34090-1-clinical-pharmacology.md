@@ -24,8 +24,8 @@ Allopurinol is approximately 90% absorbed from the gastrointestinal tract.
 Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol, respectively, and after a single oral dose of 300 mg allopurinol, maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol are produced.
 
 Approximately 20% of the ingested allopurinol is excreted in the feces.
-Because of its rapid oxidation to oxipurinol and a renal clearance rate approximately that of the glomerular filtration rate, allopurinol has a plasma half-life of about 1-2 hours.
-Oxipurinol, however, has a longer plasma half-life (approximately 15 hours), and therefore effective xanthine oxidase inhibition is maintained over a 24-hour period with single daily doses of allopurinol.
+Because of its rapid oxidation to oxipurinol and a renal clearance rate approximately that of glomerular filtration rate, allopurinol has a plasma half-life of about 1 to 2 hours.
+Oxipurinol, however, has a longer plasma half-life (approximately 15 hours) and therefore effective xanthine oxidase inhibition is maintained over a 24-hour period with single daily doses of allopurinol.
 Whereas allopurinol is cleared essentially by glomerular filtration, oxipurinol is reabsorbed in the kidney tubules in a manner similar to the reabsorption of uric acid.
 
 The clearance of oxipurinol is increased by uricosuric drugs, and as a consequence, the addition of a uricosuric agent reduces to some degree the inhibition of xanthine oxidase by oxipurinol and increases to some degree the urinary excretion of uric acid.
@@ -33,20 +33,20 @@ In practice, the net effect of such combined therapy may be useful in some patie
 
 Hyperuricemia may be primary, as in gout, or secondary to diseases such as acute and chronic leukemia, polycythemia vera, multiple myeloma, and psoriasis.
 It may occur with the use of diuretic agents, during renal dialysis, in the presence of renal damage, during starvation or reducing diets, and in the treatment of neoplastic disease where rapid resolution of tissue masses may occur.
-Asymptomatic hyperuricemia is not an indication for allopurinol treatment (see INDICATIONS AND USAGE).
+Asymptomatic hyperuricemia is not an indication for treatment with allopurinol (see INDICATIONS AND USAGE).
 
 Gout is a metabolic disorder which is characterized by hyperuricemia and resultant deposition of monosodium urate in the tissues, particularly the joints and kidneys.
 The etiology of this hyperuricemia is the overproduction of uric acid in relation to the patient’s ability to excrete it.
 If progressive deposition of urates is to be arrested or reversed, it is necessary to reduce the serum uric acid level below the saturation point to suppress urate precipitation.
 
-Administration of allopurinol generally results in a fall in both serum and urinary uric acid within two to three days.
+Administration of allopurinol generally results in a fall in both serum and urinary uric acid within 2 to 3 days.
 The degree of this decrease can be manipulated almost at will since it is dose-dependent.
-A week or more of treatment with allopurinol may be required before its full effects are manifested; likewise, uric acid may return to pretreatment levels slowly (usually after a period of seven to ten days following cessation of therapy).
+A week or more of treatment with allopurinol may be required before its full effects are manifested; likewise, uric acid may return to pretreatment levels slowly (usually after a period of 7 to 10 days following cessation of therapy).
 This reflects primarily the accumulation and slow clearance of oxipurinol.
 In some patients a dramatic fall in urinary uric acid excretion may not occur, particularly in those with severe tophaceous gout.
 It has been postulated that this may be due to the mobilization of urate from tissue deposits as the serum uric acid level begins to fall.
 
-Allopurinol’s action differs from that of uricosuric agents, which lower the serum uric acid level by increasing urinary excretion of uric acid.
+The action of allopurinol differs from that of uricosuric agents, which lower the serum uric acid level by increasing urinary excretion of uric acid.
 Allopurinol reduces both the serum and urinary uric acid levels by inhibiting the formation of uric acid.
 The use of allopurinol to block the formation of urates avoids the hazard of increased renal excretion of uric acid posed by uricosuric drugs.
 
