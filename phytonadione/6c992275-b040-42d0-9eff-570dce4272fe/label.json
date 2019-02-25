@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210189"
+  ],
+  "inn": "phytonadione",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1014-1",
+    "70710-1014-2",
+    "70710-1014-4"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phytonadione",
+      "name": "Phytonadione"
+    }
+  ],
+  "setid": "6c992275-b040-42d0-9eff-570dce4272fe",
+  "source": "dailymed"
+}
