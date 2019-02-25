@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA211962"
+  ],
+  "inn": "vancomycin",
+  "labeler": "Xellia Pharmaceuticals USA LLC",
+  "package_ndcs": [
+    "70594-041-01",
+    "70594-041-02",
+    "70594-041-03",
+    "70594-042-01",
+    "70594-042-02",
+    "70594-042-03",
+    "70594-043-01",
+    "70594-043-02",
+    "70594-044-01",
+    "70594-044-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "vancomycin",
+      "name": "Vancomycin"
+    }
+  ],
+  "setid": "60bee69b-be70-412c-9e83-a24a0a8a5e7b",
+  "source": "dailymed"
+}
