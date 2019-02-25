@@ -25,7 +25,7 @@ Table 2 illustrates the maximum allowable dose that may be used in restarting Ja
 
 Table 2: Myelofibrosis: Maximum Restarting Doses for Jakafi after Safety Interruption for Thrombocytopenia for Patients Starting Treatment with a Platelet Count of 100 X 109/L or Greater
 
-| Current Platelet Count | Maximum Dose When Restarting Jakafi Treatment* |
+| Current Platelet Count | Maximum Dose When Restarting Jakafi TreatmentMaximum doses are displayed. When restarting, begin with a dose at least 5 mg twice daily below the dose at interruption. |
 | --- | --- |
 | Greater than or equal to 125 X 109/L | 20 mg twice daily |
 | 100 to less than 125 X 109/L | 15 mg twice daily |
@@ -143,9 +143,9 @@ Use the most severe category of a patient’s hemoglobin, platelet count, or ANC
 | Hemoglobin, Platelet Count, or ANC | Maximum Restarting Dose |
 | --- | --- |
 | Hemoglobin less than 8 g/dL OR platelet count less than 50 X 109/L OR ANC less than 1 X 109/L | Continue hold |
-| Hemoglobin 8 to less than 10 g/dL OR platelet count 50 to less than 75 X 109/L OR ANC 1 to less than 1.5 X 109/L | 5 mg twice daily* or no more than 5 mg twice daily less than the dose which resulted in dose interruption |
-| Hemoglobin 10 to less than 12 g/dL OR platelet count 75 to less than 100 X 109/L OR ANC 1.5 to less than 2 X 109/L | 10 mg twice daily* or no more than 5 mg twice daily less than the dose which resulted in dose interruption |
-| Hemoglobin greater than or equal to 12 g/dL OR platelet count greater than or equal to 100 X 109/L OR ANC greater than or equal to 2 X 109/L | 15 mg twice daily* or no more than 5 mg twice daily less than the dose which resulted in dose interruption |
+| Hemoglobin 8 to less than 10 g/dL OR platelet count 50 to less than 75 X 109/L OR ANC 1 to less than 1.5 X 109/L | 5 mg twice dailyContinue treatment for at least 2 weeks; if stable, may increase dose by 5 mg twice daily.or no more than 5 mg twice daily less than the dose which resulted in dose interruption |
+| Hemoglobin 10 to less than 12 g/dL OR platelet count 75 to less than 100 X 109/L OR ANC 1.5 to less than 2 X 109/L | 10 mg twice dailyor no more than 5 mg twice daily less than the dose which resulted in dose interruption |
+| Hemoglobin greater than or equal to 12 g/dL OR platelet count greater than or equal to 100 X 109/L OR ANC greater than or equal to 2 X 109/L | 15 mg twice dailyor no more than 5 mg twice daily less than the dose which resulted in dose interruption |
 
 Patients who had required dose interruption while receiving a dose of 5 mg twice daily, may restart at a dose of 5 mg twice daily or 5 mg once daily, but not higher, once hemoglobin is greater than or equal to 10 g/dL, platelet count is greater than or equal to 75 X 109/L, and ANC is greater than or equal to 1.5 X 109/L.
 
