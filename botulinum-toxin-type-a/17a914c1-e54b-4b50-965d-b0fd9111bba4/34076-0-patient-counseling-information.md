@@ -13,7 +13,7 @@ Manufactured by: Evolus Inc. 1027 Garden St., Santa Barbara, CA 93101
 
 U.S. License Number 2070
 
-at: Daewoong Pharmaceutical Co., Ltd. 12, Bongeunsa-ro 114-gil 12, Gangnam-gu, Seoul, 135-715 Korea
+at: Daewoong Pharmaceutical Co., Ltd. 12, Bongeunsa-ro 114-gil, Gangnam-gu, Seoul, 06170(135-715) Korea
 
 ©2019 Evolus.
 All rights reserved.
