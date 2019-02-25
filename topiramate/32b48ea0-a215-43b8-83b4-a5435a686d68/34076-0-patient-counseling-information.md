@@ -15,13 +15,12 @@ Even when taking topiramate or other anticonvulsants, some patients with epileps
 Therefore, advise all patients taking topiramate for epilepsy to exercise appropriate caution when engaging in any activities where loss of consciousness could result in serious danger to themselves or those around them (including swimming, driving a car, climbing in high places, etc.). Some patients with refractory epilepsy will need to avoid such activities altogether.
 Discuss the appropriate level of caution with patients, before patients with epilepsy engage in such activities.
 Fetal Toxicity Inform pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
-Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age [see Use in Specific Populations (8.1)].
-There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1,8.8)].
+Also inform patients that infants exposed to topiramate monotherapy in utero may be SGA [see Use in Specific Populations (8.1)].
+There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
-This is particularly important when topiramate use is considered for a condition not usually associated with permanent injury or death.
 Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.3)].
 Encourage pregnant women using topiramate, to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1, 8.8)].
+The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 Hyperammonemia and Encephalopathy Warn patients about the possible development of hyperammonemia with or without encephalopathy.
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 This hyperammonemia and encephalopathy can develop with topiramate treatment alone or with topiramate treatment with concomitant valproic acid (VPA).
@@ -31,6 +30,4 @@ Instructions for a Missing Dose Instruct patients that if they miss a single dos
 However, if a patient is within 6 hours of taking the next scheduled dose, tell the patient to wait until then to take the usual dose of topiramate, and to skip the missed dose.
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India
-
-Revised: 08/2018 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2019 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides

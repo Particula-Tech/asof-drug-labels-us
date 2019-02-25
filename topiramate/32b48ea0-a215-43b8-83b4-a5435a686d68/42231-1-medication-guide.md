@@ -105,7 +105,8 @@ Before taking topiramate tablets, tell your healthcare provider about all of you
 - are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breastfeed.
   Topiramate passes into breast milk.
-  It is not known if the topiramate that passes into breast milk can harm your baby.
+  Breastfed babies may be sleepy or have diarrhea.
+  It is not known if the topiramate that passes into breast milk can cause other serious harm to your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take topiramate tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -224,4 +225,4 @@ In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg t
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 08/2018
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2019

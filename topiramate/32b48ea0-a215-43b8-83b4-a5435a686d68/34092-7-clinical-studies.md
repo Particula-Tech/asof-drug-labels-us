@@ -21,8 +21,6 @@ The primary efficacy assessment was a between-group comparison of time to first 
 Comparison of the Kaplan-Meier survival curves of time to first seizure favored the topiramate 400 mg/day group over the topiramate 50 mg/day group (Figure 1).
 The treatment effects with respect to time to first seizure were consistent across various patient subgroups defined by age, sex, geographic region, baseline body weight, baseline seizure type, time since diagnosis, and baseline AED use.
 
-Figure 1: Kaplan-Meier Estimates of Cumulative Rates for Time to First Seizure
-
 Pediatric Patients 2 to 9 Years of Age
 
 The conclusion that topiramate is effective as initial monotherapy in pediatric patients 2 to 9 years of age with partial onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials described in labeling.
