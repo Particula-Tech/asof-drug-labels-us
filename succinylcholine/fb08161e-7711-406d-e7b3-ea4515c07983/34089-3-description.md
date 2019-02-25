@@ -17,6 +17,6 @@ Solution intended for single-dose administration contains no preservatives.
 Unused solution should be discarded.
 Product not requiring dilution (multiple-dose fliptop vial) contains sodium chloride to render isotonic.
 May contain sodium hydroxide and/or hydrochloric acid for pH adjustment. pH is 3.6 (3.0 to 4.5).
-See table in HOW SUPPLIED for characteristics.
+The 100 mg/mL solution has an osmolarity of 0.830 mOsml/mL (calc.) and the 20 mg/mL solution has an osmolarity of 0.338 mOsml/mL (calc.).
 
 Sodium Chloride, USP, chemically designated NaCl, is a white crystalline compound freely soluble in water.
