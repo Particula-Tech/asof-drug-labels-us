@@ -17,7 +17,7 @@ Data
 Animal Data
 
 Animal reproduction studies have not been conducted with KEYTRUDA to evaluate its effect on reproduction and fetal development.
-A literature-based asessment of the effects of the PD-1 pathway on reproduction demonstrated that a central function of the PD-1/PD-L1 pathway is to preserve pregnancy by maintaining maternal immune tolerance to the fetus.
+A literature-based assessment of the effects of the PD-1 pathway on reproduction demonstrated that a central function of the PD-1/PD-L1 pathway is to preserve pregnancy by maintaining maternal immune tolerance to the fetus.
 Blockade of PD-L1 signaling has been shown in murine models of pregnancy to disrupt tolerance to the fetus and to result in an increase in fetal loss; therefore, potential risks of administering KEYTRUDA during pregnancy include increased rates of abortion or stillbirth.
 As reported in the literature, there were no malformations related to the blockade of PD-1 signaling in the offspring of these animals; however, immune-mediated disorders occurred in PD-1 knockout mice.
 Based on its mechanism of action, fetal exposure to pembrolizumab may increase the risk of developing immune-mediated disorders or of altering the normal immune response.

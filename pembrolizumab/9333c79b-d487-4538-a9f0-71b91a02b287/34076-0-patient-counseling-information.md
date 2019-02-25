@@ -20,7 +20,7 @@ Immune-Mediated Adverse Reactions
 
 Infusion-Related Reactions
 
-- Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.8)]
+- Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.8)].
 
 Complications of Allogeneic HSCT
 
@@ -28,7 +28,7 @@ Complications of Allogeneic HSCT
 
 Embryo-Fetal Toxicity
 
-- Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.11), Use in Specific Populations (8.1, 8.3)]
+- Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.11), Use in Specific Populations (8.1, 8.3)].
 - Advise females of reproductive potential to use effective contraception during treatment with KEYTRUDA and for 4 months after the last dose [see Warnings and Precautions (5.11), Use in Specific Populations (8.1, 8.3)].
 
 Lactation

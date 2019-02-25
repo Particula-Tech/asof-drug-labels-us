@@ -4,6 +4,8 @@
 
 KEYTRUDA® (pembrolizumab) is indicated for the treatment of patients with unresectable or metastatic melanoma.
 
+KEYTRUDA is indicated for the adjuvant treatment of patients with melanoma with involvement of lymph node(s) following complete resection.
+
 ## 1.2 Non-Small Cell Lung Cancer
 
 KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated for the first-line treatment of patients with metastatic nonsquamous non-small cell lung cancer (NSCLC), with no EGFR or ALK genomic tumor aberrations.
@@ -45,7 +47,7 @@ KEYTRUDA is indicated for the treatment of patients with locally advanced or met
 This indication is approved under accelerated approval based on tumor response rate and duration of response [see Clinical Studies (14.6)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
 
-KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy [see Clinical Studies (14.6)].
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
 
 ## 1.7 Microsatellite Instability-High Cancer
 

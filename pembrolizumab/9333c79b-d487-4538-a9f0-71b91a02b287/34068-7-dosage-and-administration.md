@@ -16,6 +16,8 @@ Information on FDA-approved tests for the detection of PD-L1 expression for thes
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity.
 
+The recommended dose of KEYTRUDA for the adjuvant treatment of adult patients with melanoma is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease recurrence, unacceptable toxicity, or for up to 12 months in patients without disease recurrence.
+
 ## 2.3 Recommended Dosage for NSCLC
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
