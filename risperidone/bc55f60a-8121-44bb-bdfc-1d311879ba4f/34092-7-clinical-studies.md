@@ -29,7 +29,7 @@ The results were generally stronger for the 8 mg than for the 4 mg dose group.
 
 Long-Term Efficacy
 
-In a longer-term trial, 365 adult outpatients predominantly meeting DSM-IV criteria for schizophrenia and who had been clinically stable for at least 4 weeks on an antipsychotic medication were randomized to risperidone (2 to 8 mg/day) or to an active comparator, for 1 to 2 years of observation for relapse.
+In a longer-term trial, 365 adult outpatients predominantly meeting DSM-IV criteria for schizophrenia and who had been clinically stable for at least 4 weeks on an antipsychotic medication were randomized to risperidone (2 mg/day to 8 mg/day) or to an active comparator, for 1 to 2 years of observation for relapse.
 Patients receiving risperidone experienced a significantly longer time to relapse over this time period compared to those receiving the active comparator.
 
 Pediatrics
@@ -114,7 +114,7 @@ The high dose was 1.25 mg per day for patients weighing 20 to < 45 kg, and it wa
 The low dose was 0.125 mg per day for patients weighing 20 to < 45 kg, and it was 0.175 mg per day for patients weighing ≥ 45 kg.
 The dose was administered once daily in the morning, or in the evening if sedation occurred.
 
-The primary efficacy endpoint was the mean change in the Aberrant Behavior Checklist- Irritability subscale (ABC-I) score from baseline to the end of Week 6.
+The primary efficacy endpoint was the mean change in the Aberrant Behavior Checklist - Irritability subscale (ABC-I) score from baseline to the end of Week 6.
 The study demonstrated the efficacy of high-dose risperidone, as measured by the mean change in ABC-I score.
 It did not demonstrate efficacy for low-dose risperidone.
 The mean baseline ABC-I scores were 29 in the placebo group (n=35), 27 in the risperidone low-dose group (n=30) and 28 in the risperidone high-dose group (n=31).

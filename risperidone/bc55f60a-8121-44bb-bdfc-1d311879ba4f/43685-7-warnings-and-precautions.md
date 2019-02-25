@@ -125,7 +125,7 @@ Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or F
 | Change from baseline | 0.6 | 6.9 | 1.8 |
 | Triglycerides | n=183 | n=307 | n=123 |
 | Change from baseline | -17.4 | -4.9 | -8.3 |
-|  | Proportion of patients With Shifts |  |  |
+|  | Proportion of patients with shifts |  |  |
 | Cholesterol | 2.7% | 4.3% | 6.3% |
 | (< 200 mg/dL to ≥ 240 mg/dL) | (10/368) | (22/516) | (6/96) |
 | Triglycerides | 1.1% | 2.7% | 2.5% |
