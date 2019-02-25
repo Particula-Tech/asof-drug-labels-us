@@ -22,7 +22,7 @@ TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Ter
 
 | Citalopram (N=1063) | Placebo (N=446) |  |
 | --- | --- | --- |
-| Body System/Adverse Event | Percentage of Patients Discontinuing Due to Adverse Event |  |
+| Body System/ Adverse Event | Percentage of Patients Discontinuing Due to Adverse Event |  |
 | General |  |  |
 | Asthenia | 1% | <1% |
 | Gastrointestinal Disorders |  |  |
@@ -40,16 +40,20 @@ TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Ter
 
 Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 1063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
 Events included are those occurring in 2% or more of patients treated with citalopram and for which the incidence in patients treated with citalopram was greater than the incidence in placebo-treated patients.
+
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
+
 The only commonly observed adverse event that occurred in citalopram patients with an incidence of 5% or greater and at least twice the incidence in placebo patients was ejaculation disorder (primarily ejaculatory delay) in male patients (see TABLE 3).
 
-TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clinical Trials*
+TABLE 3
 
-| Citalopram (N=1063) | Placebo (N=446) |  |
+| Treatment-Emergent Adverse Events: |  |  |
 | --- | --- | --- |
-| Body System/Adverse Event | (Percentage of Patients Reporting Event) |  |
+| Incidence in Placebo-Controlled Clinical Trials* |  |  |
+|  | (Percentage of Patients Reporting Event) |  |
+| Body System/Adverse Event | Citalopram (N=1063) | Placebo (N=446) |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
@@ -83,7 +87,14 @@ TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 | Urogenital |  |  |
 | Ejaculation Disorder2,3 | 6% | 1% |
 | Impotence3 | 3% | <1% |
-| * Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. 1 Denominator used was for females only (N=638 citalopram; N=252 placebo). 2 Primarily ejaculatory delay. 3 Denominator used was for males only (N=425 citalopram; N=194 placebo). |  |  |
+
+* Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
+
+1 Denominator used was for females only (N=638 citalopram; N=252 placebo).
+
+2 Primarily ejaculatory delay.
+
+3 Denominator used was for males only (N=425 citalopram; N=194 placebo).
 
 ### Dose Dependency of Adverse Events
 
@@ -94,8 +105,10 @@ Jonckheere’s trend test revealed a positive dose response (p<0.05) for the fol
 
 Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
+
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
+
 The table below displays the incidence of sexual side effects reported by at least 2% of patients taking citalopram tablets in a pool of placebo-controlled clinical trials in patients with depression.
 
 | Treatment | Citalopram (425 males) | Placebo (194 males) |
@@ -105,8 +118,11 @@ The table below displays the incidence of sexual side effects reported by at lea
 | Impotence | 2.8% (males only) | <1% (males only) |
 
 In female depressed patients receiving citalopram, the reported incidence of decreased libido and anorgasmia was 1.3% (n=638 females) and 1.1% (n=252 females), respectively.
+
 There are no adequately designed studies examining sexual dysfunction with citalopram treatment.
+
 Priapism has been reported with all SSRIs.
+
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
 
 ### Vital Sign Changes
@@ -133,7 +149,7 @@ None of the patients in the placebo group had a post-dose QTcF >500 msec compare
 The incidence of tachycardic outliers was 0.5% in the citalopram group and 0.4% in the placebo group.
 The incidence of bradycardic outliers was 0.9% in the citalopram group and 0.4% in the placebo group.
 
-## Other Events Observed During the Premarketing Evaluation of Citalopram Hydrobromide
+## Other Events Observed During the Premarketing Evaluation of Citalopram
 
 Following is a list of WHO terms that reflect treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by patients treated with citalopram at multiple doses in a range of 10 to 80 mg/day during any phase of a trial within the premarketing database of 4422 patients.
 All reported events are included except those already listed in Table 3 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and those occurring in only one patient.
@@ -162,7 +178,7 @@ Psychiatric Disorders - Frequent: impaired concentration, amnesia, apathy, depre
 Infrequent: increased libido, aggressive reaction, paroniria, drug dependence, depersonalization, hallucination, euphoria, psychotic depression, delusion, paranoid reaction, emotional lability, panic reaction, psychosis.
 Rare: catatonic reaction, melancholia.
 Reproductive Disorders/Female* - Frequent: amenorrhea.
-Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage. * % based on female subjects only: 2955 Respiratory System Disorders - Frequent: coughing.
+Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage. *% based on female subjects only: 2955 Respiratory System Disorders - Frequent: coughing.
 Infrequent: bronchitis, dyspnea, pneumonia.
 Rare: asthma, laryngitis, bronchospasm, pneumonitis, sputum increased.
 Skin and Appendages Disorders - Frequent: rash, pruritus.
@@ -175,7 +191,7 @@ Urinary System Disorders - Frequent: polyuria.
 Infrequent: micturition frequency, urinary incontinence, urinary retention, dysuria.
 Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal pain.
 
-## Other Events Observed During the Postmarketing Evaluation of Citalopram Hydrobromide
+## Other Events Observed During the Postmarketing Evaluation of Citalopram
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
 Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, angle closure glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.

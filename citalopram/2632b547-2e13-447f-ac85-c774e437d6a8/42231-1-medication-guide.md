@@ -1,6 +1,6 @@
 # Medication Guide
 
-Citalopram Tablets, USP (sye tal' oh pram hye" droe broe' mide) Read the Medication Guide that comes with citalopram tablets before you start taking them and each time you get a refill.
+Citalopram Tablets, USP (sye tal' oh pram) Read the Medication Guide that comes with citalopram tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -11,8 +11,8 @@ Suicidal thoughts or actions:
 - Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
-  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
+- New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+- Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
@@ -26,15 +26,15 @@ Call your healthcare provider right away if you have any of the following sympto
 - feeling agitated, restless, angry or irritable
 - trouble sleeping
 - an increase in activity or talking more than what is normal for you
-- other unusual changes in behavior or mood
+- other unusual changes in behavior or mood Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+  Citalopram tablets may be associated with these serious side effects:
 
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-Citalopram tablets may be associated with these serious side effects: 2.
+2.
 Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
 This condition can be life-threatening.
 The symptoms may include:
 
-- chest pain
+- Chest pain
 - fast or slow heartbeat
 - shortness of breath
 - dizziness or fainting
@@ -51,10 +51,8 @@ This condition can be life-threatening and may include:
 - muscle rigidity
 
 4.
-Severe allergic reactions:
+Severe allergic reactions: trouble breathing swelling of the face, tongue, eyes or mouth
 
-- trouble breathing
-- swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 5.
@@ -65,11 +63,9 @@ Manic episodes:
 
 - greatly increased energy
 - severe trouble sleeping
-- racing thoughts
-- reckless behavior
+- racing thoughts, reckless behavior
 - unusually grand ideas
-- excessive happiness or irritability
-- talking more or faster than usual
+- excessive happiness or irritability, talking more or faster than usual
 
 8.
 Changes in appetite or weight.
@@ -106,13 +102,12 @@ It is important to talk with your healthcare provider about the risks of treatin
 You should discuss all treatment choices with your healthcare provider.
 Citalopram tablets are also used to treat:
 
-- Major Depressive Disorder (MDD)
+- Major Depressive Disorder (MDD) Talk to your healthcare provider if you do not think that your condition is getting better with citalopram tablets treatment.
 
-Talk to your healthcare provider if you do not think that your condition is getting better with citalopram tablets treatment.
 Who should not take citalopram tablets?
 Do not take citalopram tablets if you:
 
-- are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram tablets.
+- are allergic to citalopram or escitalopram or any of the ingredients in citalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in citalopram tablets.
 - take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
@@ -122,28 +117,27 @@ Do not take citalopram tablets if you:
 People who take citalopram tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
 
-- 
-  - high fever
-  - uncontrolled muscle spasms
-  - stiff muscles
-  - rapid changes in heart rate or blood pressure
-  - confusion
-  - loss of consciousness (pass out)
-- take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
+- high fever
+- uncontrolled muscle spasms
+- stiff muscles
+- rapid changes in heart rate or blood pressure
+- confusion
+- loss of consciousness (pass out)
 - have a heart problem including congenital long QT syndrome.
+- Do not take citalopram tablets with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
 
 What should I tell my healthcare provider before taking citalopram tablets?
 Ask if you are not sure.
 Before starting citalopram tablets, tell your healthcare provider if you
 
 - Are taking certain drugs such as:
-  - Medicines for heart problems
-  - Medicines that lower your potassium or magnesium levels in your body
-  - Cimetidine
-  - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-  - Tramadol
-  - Over-the-counter supplements such as tryptophan or St. John’s Wort
+- Medicines for heart problems
+- Medicines that lower your potassium or magnesium levels in your body
+- Cimetidine
+- Triptans used to treat migraine headache
+- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+- Tramadol
+- Over-the-counter supplements such as tryptophan or St. John’s Wort
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -156,7 +150,7 @@ Before starting citalopram tablets, tell your healthcare provider if you
 - are pregnant or plan to become pregnant.
   It is not known if citalopram tablets will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
-- are breast-feeding or plan to breast-feed.
+- are breast-feeding or plan to breastfeed.
   Some citalopram may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking citalopram tablets.
 
@@ -165,7 +159,7 @@ Citalopram tablets and some medicines may interact with each other, may not work
 Your healthcare provider or pharmacist can tell you if it is safe to take citalopram tablets with your other medicines.
 Do not start or stop any medicine while taking citalopram tablets without talking to your healthcare provider first.
 
-| If you take citalopram tablets, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalate including: Lexapro. |
+| If you take citalopram tablets, you should not take any other medicines that contain citalopram or escitalopram including: Lexapro. |
 | --- |
 
 How should I take citalopram tablets?
@@ -237,4 +231,4 @@ Iron oxides are used as coloring agents in the peach (10 mg) and light pink (20 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2018
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2019

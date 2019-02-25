@@ -2,15 +2,18 @@
 
 ## WARNINGS-Clinical Worsening and Suicide Risk
 
-Clinical Worsening and Suicide Risk Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
+Clinical Worsening and Suicide Risk
+
+Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
+
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
@@ -21,20 +24,26 @@ TABLE 1
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25 to 64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+
 It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
+
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
+
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+
 If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with Citalopram Tablets, for a description of the risks of discontinuation of citalopram).
+
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for citalopram should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
@@ -136,7 +145,8 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 
 Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
 Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if citalopram must be used in such patients.
-Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNINGS).
+Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia.
+(see WARNINGS).
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
 The use of citalopram in hepatically impaired patients should be approached with caution and a lower maximum dosage is recommended (see DOSAGE AND ADMINISTRATION).
 Because citalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
@@ -175,11 +185,11 @@ There are no specific laboratory tests recommended.
 ## Drug Interactions
 
 Serotonergic Drugs: See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.
-Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
+Triptans: There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome).
 CNS Drugs - Given the primary CNS effects of citalopram, caution should be used when it is taken in combination with other centrally acting drugs.
 Alcohol - Although citalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by depressed patients taking citalopram is not recommended.
-Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS, WARNINGS andDOSAGE AND ADMINISTRATION.
+Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS, WARNINGS and DOSAGE AND ADMINISTRATION.
 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) - Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
@@ -209,7 +219,9 @@ CYP2C19 Inhibitors - Citalopram 20 mg/day is the maximum recommended dose for pa
 Metoprolol - Administration of 40 mg/day citalopram for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
 Coadministration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
-Imipramine and Other Tricyclic Antidepressants (TCAs) - In vitro studies suggest that citalopram is a relatively weak inhibitor of CYP2D6.
+Imipramine and Other Tricyclic Antidepressants (TCAs) -
+
+In vitro studies suggest that citalopram is a relatively weak inhibitor of CYP2D6.
 Coadministration of citalopram (40 mg/day for 10 days) with the TCA imipramine (single dose of 100 mg), a substrate for CYP2D6, did not significantly affect the plasma concentrations of imipramine or citalopram.
 However, the concentration of the imipramine metabolite desipramine was increased by approximately 50%.
 The clinical significance of the desipramine change is unknown.

@@ -6,7 +6,7 @@ The mechanism of action of citalopram hydrobromide as an antidepressant is presu
 In vitro and in vivo studies in animals suggest that citalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine (NE) and dopamine (DA) neuronal reuptake.
 Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14-day) treatment of rats with citalopram.
 Citalopram is a racemic mixture (50/50), and the inhibition of 5-HT reuptake by citalopram is primarily due to the (S)-enantiomer.
-Citalopram has no or very low affinity for 5-HT1A, 5-HT2A, dopamine D1 and D2, α1-, α2-, and β-adrenergic, histamine H1, gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
+Citalopram has no or very low affinity for 5-HT1A, 5-HT2A, dopamine D1 and D2, α1-, α2-, and βadrenergic, histamine H1, gamma aminobutyric acid (GABA), muscarinic cholinergic, and benzodiazepine receptors.
 Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects of other psychotropic drugs.
 
 ## Pharmacokinetics
@@ -34,8 +34,8 @@ In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 
 
 ### Population Subgroups
 
-Age - Citalopram pharmacokinetics in subjects ≥ 60 years of age were compared to younger subjects in two normal volunteer studies.
-In a single-dose study, citalopram AUC and half-life were increased in the subjects ≥ 60 years old by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
+Age - Citalopram pharmacokinetics in subjects 60 years of age were compared to younger subjects in two normal volunteer studies.
+In a single-dose study, citalopram AUC and half-life were increased in the subjects 60 years old by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
 20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION), due to the risk of QT prolongation.
 Gender - In three pharmacokinetic studies (total N=32), citalopram AUC in women was one and a half to two times that in men.
 This difference was not observed in five other pharmacokinetic studies (total N=114).
@@ -53,17 +53,17 @@ No information is available about the pharmacokinetics of citalopram in patients
 
 ### Drug-Drug Interactions
 
-In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, -2C9, or -2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
+In vitro enzyme inhibition data did not reveal an inhibitory effect of citalopram on CYP3A4, 2C9, or -2E1, but did suggest that it is a weak inhibitor of CYP1A2, -2D6, and -2C19.
 Citalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these enzymes.
 However, in vivo data to address this question are limited.
-CYP3A4 and CYP2C19 Inhibitors: Since CYP3A4 and CYP2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, and macrolide antibiotics) and potent inhibitors of CYP2C19 (e.g., omeprazole) might decrease the clearance of citalopram.
+CYP3A4 and CYP 2C19 inhibitors: Since CYP3A4 and CYP 2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, and macrolide antibiotics) and potent inhibitors of CYP2C19 (e.g., omeprazole) might decrease the clearance of citalopram.
 However, coadministration of citalopram and the potent CYP3A4 inhibitor ketoconazole did not significantly affect the pharmacokinetics of citalopram.
 Citalopram 20 mg/day is the maximum recommended dose in patients taking concomitant cimetidine or another CYP2C19 inhibitor, because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 CYP2D6 Inhibitors: Coadministration of a drug that inhibits CYP2D6 with citalopram is unlikely to have clinically significant effects on citalopram metabolism, based on the study results in CYP2D6 poor metabolizers.
 
 ## Clinical Efficacy Trials
 
-The efficacy of citalopram as a treatment for depression was established in two placebo-controlled studies (of 4 to 6 weeks in duration) in adult outpatients (ages 18 to 66) meeting DSM-III or DSM-III-R criteria for major depression.
+The efficacy of citalopram as a treatment for depression was established in two placebo-controlled studies (of 4 to 6 weeks in duration) in adult outpatients (ages 18 to 66) meeting DSM-III or DSMIII-R criteria for major depression.
 Study 1, a 6-week trial in which patients received fixed citalopram doses of 10, 20, 40, and 60 mg/day, showed that citalopram at doses of 40 and 60 mg/day was effective as measured by the Hamilton Depression Rating Scale (HAMD) total score, the HAMD depressed mood item (Item 1), the Montgomery Asberg Depression Rating Scale, and the Clinical Global Impression (CGI) Severity scale.
 This study showed no clear effect of the 10 and 20 mg/day doses, and the 60 mg/day dose was not more effective than the 40 mg/day dose.
 In study 2, a 4-week, placebo-controlled trial in depressed patients, of whom 85% met criteria for melancholia, the initial dose was 20 mg/day, followed by titration to the maximum tolerated dose or a maximum dose of 80 mg/day.
