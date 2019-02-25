@@ -1,8 +1,6 @@
 PATIENT INFORMATION
 
-Tamsulosin Hydrochloride Capsules USP, 0.4 mg
-
-(tam soo' loe sin hye'' droe klor' ide)
+Tamsulosin Hydrochloride Capsules USP, 0.4 mg (tam soo' loe sin hye'' droe klor' ide)
 
 Read the Patient Information that comes with tamsulosin hydrochloride capsules before you start taking it and each time you refill your prescription.
 The information may have changed.
@@ -147,4 +145,4 @@ The capsule shell contains gelatin, sodium lauryl sulfate, FD&C blue No. 2, ferr
 Imprinting black ink contains shellac, dehydrated alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by: Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
 ISS.
-11/2015 PJPI0224F
+02/2019 PJPI0224G
