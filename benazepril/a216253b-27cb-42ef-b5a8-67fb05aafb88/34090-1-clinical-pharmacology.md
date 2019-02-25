@@ -20,19 +20,19 @@ While the mechanism through which benazepril lowers blood pressure is believed t
 
 ## 12.2 Pharmacodynamics
 
-Single and multiple doses of 10 mg or more of benazepril HCl cause inhibition of plasma ACE activity by at least 80% to 90% for at least 24 hours after dosing.
+Single and multiple-doses of 10 mg or more of benazepril HCl cause inhibition of plasma ACE activity by at least 80% to 90% for at least 24 hours after dosing.
 Pressor responses to exogenous angiotensin I were inhibited by 60% to 90% (up to 4 hours post-dose) at the 10 mg dose.
 
-Drug interactions
+Drug Interactions
 
 Benazepril HCl has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.
-Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system
+Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of benazepril are approximately dose-proportional within the dosage range of 10 to 80 mg.
 
-Following oral administration of benazepril HCl, peak plasma concentrations of benazepril, and its active metabolite benazeprilat are reached within 0.5 to 1 hours and 1 to 2 hours, respectively.
+Following oral administration of benazepril HCl, peak plasma concentrations of benazepril, and its active metabolite benazeprilat are reached within 0.5 to 1 hour and 1 to 2 hours, respectively.
 While the bioavailability of benazepril is not affected by food, time to peak plasma concentrations of benazeprilat is delayed to 2 to 4 hours.
 
 The serum protein binding of benazepril is about 96.7% and that of benazeprilat about 95.3%, as measured by equilibrium dialysis; on the basis of in vitro studies, the degree of protein binding should be unaffected by age, hepatic dysfunction, or concentration (over the concentration range of 0.24 to 23.6 μmol/L).
@@ -42,7 +42,7 @@ Both benazepril and benazeprilat undergo glucuronidation.
 
 Benazepril and benazeprilat are cleared predominantly by renal excretion.
 About 37% of an orally administered dose was recovered in urine as benazeprilat (20%), benazeprilat glucuronide (8%), benazepril glucuronide (4%) and as trace amounts of benazepril.
-Nonrenal (i.e., biliary) excretion accounts for approximately 11% to 12% of benazeprilat excretion.
+Nonrenal (i.e. biliary) excretion accounts for approximately 11% to 12% of benazeprilat excretion.
 The effective half-life of benazeprilat following once daily repeat oral administration of benazepril hydrochloride is 10 to 11 hours.
 Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril hydrochloride given once daily.
 
@@ -50,8 +50,8 @@ Accumulation ratio based on AUC of benazeprilat was 1.19 following once daily ad
 
 Specific Populations
 
-Renal impairment The pharmacokinetics of systemic exposure to benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance >30 mL/min) is similar to that in patients with normal renal function.
-In patients with creatinine clearance ≤30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady-state may be delayed [see Dosage and Administration (2)].
+Renal impairment The pharmacokinetics of systemic exposure to benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance > 30 mL/min) is similar to that in patients with normal renal function.
+In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady-state may be delayed [see Dosage and Administration (2)].
 
 When dialysis was started 2 hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.
@@ -61,11 +61,11 @@ Hepatic impairment In patients with hepatic insufficiency (due to cirrhosis), th
 Drug Interactions The pharmacokinetics of benazepril are not affected by the following drugs: hydrochlorothiazide, furosemide, chlorthalidone, digoxin, propranolol, atenolol, nifedipine, amlodipine, naproxen, acetylsalicylic acid, or cimetidine.
 Likewise the administration of benazepril does not substantially affect the pharmacokinetics of these medications (cimetidine kinetics were not studied).
 
-Pediatrics The pharmacokinetics of benazaprilat, evaluated in pediatric patients with hypertension following oral administration of a single dose is presented in table below.
+Pediatrics The pharmacokinetics of benazeprilat, evaluated in pediatric patients with hypertension following oral administration of a single-dose is presented in table below.
 
 | Age group | Cmax (ng/mL) | Tmax* (h) | AUC0-inf (ng/mL*h) | CL/F/wt (L/h/Kg) | T1/2 (h) |
 | --- | --- | --- | --- | --- | --- |
-| >1 to ≤ 24 months n=5 | 277 (192, 391) | 1 (0.6, 2) | 1328 (773, 2117) | 0.26 (0.18, 0.4) | 5 (4, 5.8) |
-| >2 to ≤ 6 years n=7 | 200 (168, 244) | 2 (1.4, 2.4) | 978 (842, 1152) | 0.36 (0.31, 0.42) | 5.5 (4.7, 6.5) |
-| >6 to ≤ 12 years n=8 | 221 (194, 258) | 2 (1.2, 2.2) | 1041 (855, 1313) | 0.25 (0.21, 0.31) | 5.5 (4.7, 6.5) |
-| >12 to ≤ 17 years n=8 | 287 (217, 420) | 2 (1.3, 2.3) | 1794 (1478, 2340) | 0.16 (0.13, 0.21) | 5.1 (4.2, 5.7) |
+| > 1 to ≤ 24 months n=5 | 277 (192, 391) | 1 (0.6, 2) | 1328 (773, 2117) | 0.26 (0.18, 0.4) | 5.0 (4, 5.8) |
+| > 2 to ≤ 6 years n=7 | 200 (168, 244) | 2 (1.4, 2.4) | 978 (842, 1152) | 0.36 (0.31, 0.42) | 5.5 (4.7, 6.5) |
+| > 6 to ≤ 12 years n=7 | 221 (194, 258) | 2 (1.2, 2.2) | 1041 (855, 1313) | 0.25 (0.21, 0.31) | 5.5 (4.7, 6.5) |
+| > 12 to ≤ 17 years n=8 | 287 (217, 420) | 2 (1.3, 2.3) | 1794 (1478, 2340) | 0.16 (0.13, 0.21) | 5.1 (4.2, 5.7) |

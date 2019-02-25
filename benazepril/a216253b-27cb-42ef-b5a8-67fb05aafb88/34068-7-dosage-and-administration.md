@@ -3,28 +3,28 @@
 ## 2.1 Recommended Dosage
 
 ADULTS The recommended initial dose for patients not receiving a diuretic is 10 mg once a day.
-The usual maintenance dosage range is 20 mg to 40 mg per day administered as a single dose or in two equally divided doses.
+The usual maintenance dosage range is 20 mg to 40 mg per day administered as a single-dose or in two equally divided doses.
 A dose of 80 mg gives an increased response, but experience with this dose is limited.
 The divided regimen was more effective in controlling trough (pre-dosing) blood pressure than the same dose given as a once-daily regimen.
 
-Use with diuretics in adults The recommended starting dose of benazepril HCl tablets, USP in a patient on a diuretic is 5 mg once daily.
-If blood pressure is not controlled with benazepril HCl tablets, USP alone, a low dose of diuretic may be added.
+Use with diuretics in adults The recommended starting dose of benazepril HCl tablets in a patient on a diuretic is 5 mg once daily.
+If blood pressure is not controlled with benazepril HCl tablets alone, a low dose of diuretic may be added.
 
 PEDIATRIC PATIENTS 6 YEARS OF AGE AND OLDER The recommended starting dose for pediatric patients is 0.2 mg/kg once per day.
 Titrate as needed to 0.6 mg/kg once per day.
 Doses above 0.6 mg/kg (or in excess of 40 mg daily) have not been studied in pediatric patients.
 
-Benazepril HCl tablets, USP is not recommended in pediatric patients less than 6 years of age or in pediatric patients with GFR less than 30 mL/min/1.73 m² [see Use in Specific Populations (8.3)].
+Benazepril HCl tablets are not recommended in pediatric patients less than 6 years of age or in pediatric patients with GFR less than 30 mL/min/1.73 m² [see Use in Specific Populations (8.3)].
 
-## 2.2 Dose Adjustment for Renal Impairment
+## 2.2 Dosage Adjustment for Renal Impairment
 
-For adults with a GFR <30 mL/min/1.73 m2 (serum creatinine >3 mg/dL), the recommended initial dose is 5 mg benazepril HCl tablets, USP once daily.
+For adults with a GFR < 30 mL/min/1.73 m2 (serum creatinine > 3 mg/dL), the recommended initial dose is 5 mg benazepril HCl tablets once daily.
 Dosage may be titrated upward until blood pressure is controlled or to a maximum total daily dose of 40 mg.
-Benazepril HCl tablets, USP can also worsen renal function [see Warnings and Precautions (5.3)].
+Benazepril HCl tablets can also worsen renal function [see Warnings and Precautions (5.3)].
 
 ## 2.3 Preparation of Suspension (for 150 mL of a 2 mg/mL Suspension)
 
-Add 75 mL of Ora-Plus®* oral suspending vehicle to an amber polyethylene terephthalate (PET) bottle containing fifteen benazepril HCl tablets, USP 20 mg tablets, and shake for at least two minutes.
+Add 75 mL of Ora-Plus®* oral suspending vehicle to an amber polyethylene terephthalate (PET) bottle containing fifteen benazepril HCl tablets, 20 mg, and shake for at least two minutes.
 Allow the suspension to stand for a minimum of 1 hour.
 After the standing time, shake the suspension for a minimum of one additional minute.
 Add 75 mL of Ora-Sweet®* oral syrup vehicle to the bottle and shake the suspension to disperse the ingredients.

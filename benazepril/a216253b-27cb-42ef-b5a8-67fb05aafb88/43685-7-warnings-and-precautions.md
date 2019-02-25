@@ -2,7 +2,8 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Benazepril can cause fetal harm when administered to a pregnant woman.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue benazepril HCl as soon as possible [see Use in Specific Populations (8.1)].
@@ -43,8 +44,8 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 ## 5.4 Hypotension
 
-Benazepril HCl can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia acute renal failure or death.
-Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mmHg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
+Benazepril HCl can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia, acute renal failure, or death.
+Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mm Hg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
 
 In such patients, follow closely for the first 2 weeks of treatment and whenever the dose of benazepril or diuretic is increased.
 Avoid use of benazepril HCl in patients who are hemodynamically unstable after acute MI.
@@ -55,7 +56,7 @@ If hypotension occurs, correct by volume expansion.
 ## 5.5 Hyperkalemia
 
 Serum potassium should be monitored periodically in patients receiving benazepril HCl.
-Drugs that inhibit the renin angiotensin system can cause hyperkalemia.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes [see Drug Interactions (7.1)].
 
 ## 5.6 Hepatic Failure

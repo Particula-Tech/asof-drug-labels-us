@@ -29,7 +29,7 @@ In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on benazepril HCl and other agents that affect the RAS.
 
 Do not co-administer aliskiren with benazepril HCl in patients with diabetes.
-Avoid use of aliskiren with benazepril HCl in patients with renal impairment (GFR <60 mL/min).
+Avoid use of aliskiren with benazepril HCl in patients with renal impairment (GFR < 60 mL/min).
 
 ## 7.5 Mammalian Target of Rapamycin (mTOR) Inhibitors
 

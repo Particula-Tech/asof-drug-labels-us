@@ -5,10 +5,10 @@ Discuss treatment options with women planning to become pregnant.
 Instruct patients to report pregnancies to their physicians as soon as possible.
 
 Angioedema: Angioedema, including laryngeal edema, can occur at any time with treatment with ACE inhibitors.
-Tell patients to report immediately any signs or symptoms suggesting angioedema (swelling of face, eyes, lips, or tongue, or difficulty in breathing) and to take no more drug until they have consulted with the prescribing physician.
+Tell patients to report immediately any signs or symptoms suggesting angioedema (swelling of face, eyes, lips, or tongue, or difficulty in breathing) and to take no more drugs until they have consulted with the prescribing physician.
 
 Symptomatic Hypotension: Tell patients to report light-headedness especially during the first few days of therapy.
-If actual syncope occurs, tell the patient to discontinue the drug until they have consulted with the prescribing physician.
+If actual syncope occurs, tell the patients to discontinue the drug until they have consulted with the prescribing physician.
 
 Tell patients that excessive perspiration and dehydration may lead to an excessive fall in blood pressure because of a reduction in fluid volume.
 Other causes of volume depletion such as vomiting or diarrhea may also lead to a fall in blood pressure; advise patients accordingly.
@@ -20,4 +20,4 @@ Hypoglycemia: Tell diabetic patients treated with oral antidiabetic agents or in
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2017-02
+02-2019-03
