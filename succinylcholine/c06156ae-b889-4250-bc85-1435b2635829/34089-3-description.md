@@ -16,6 +16,6 @@ Solutions of the drug lose potency unless refrigerated.
 Solution intended for multiple-dose administration contains 0.18% methylparaben and 0.02% propylparaben as preservatives (List No. 6629).
 Product not requiring dilution (multiple-dose fliptop vial) contains sodium chloride to render isotonic.
 May contain sodium hydroxide and/or hydrochloric acid for pH adjustment. pH is 3.6 (3.0 to 4.5).
-See table in HOW SUPPLIED for characteristics.
+The 20 mg/mL solution has an osmolarity of 0.338 mOsml/mL (calc.).
 
 Sodium Chloride, USP, chemically designated NaCl, is a white crystalline compound freely soluble in water.
