@@ -16,7 +16,7 @@ XTAMPZA ER may also be administered through a gastrostomy or nasogastric feeding
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with XTAMPZA ER and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with XTAMPZA ER and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 The maximum daily dose of XTAMPZA ER is 288 mg per day (eight 36 mg capsules, equivalent to 320 mg oxycodone HCl per day) as the safety of the excipients in XTAMPZA ER for doses over 288 mg/day has not been established.
 
@@ -43,7 +43,7 @@ Use of XTAMPZA ER in Patients who are not Opioid Tolerant
 
 The starting dose for patients who are not opioid tolerant is XTAMPZA ER 9 mg orally every 12 hours with food.
 
-Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.3)].
 
 Conversion from other Oral Oxycodone Formulations to XTAMPZA ER
 
@@ -101,7 +101,7 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 ## 2.5 Discontinuation of XTAMPZA ER
 
 When the patient no longer requires therapy with XTAMPZA ER capsules, use a gradual downward titration of the dosage to prevent signs and symptoms of withdrawal in the physically-dependent patient.
-Do not abruptly discontinue XTAMPZA ER [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.2, 9.3)].
+Do not abruptly discontinue XTAMPZA ER [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.2, 9.3)].
 
 ## 2.6 Administration of XTAMPZA ER
 

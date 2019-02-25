@@ -9,17 +9,17 @@ Instruct patients not to share XTAMPZA ER with others and to take steps to prote
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression including information that the risk is greatest when starting XTAMPZA ER or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.2)].
+Inform patients of the risk of life-threatening respiratory depression including information that the risk is greatest when starting XTAMPZA ER or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
 Instruct patients to take steps to store XTAMPZA ER securely and to dispose of unused XTAMPZA ER by flushing the tablets down the toilet.
 
 Interactions with Benzodiazepines and other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if XTAMPZA ER is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if XTAMPZA ER is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
 Serotonin Syndrome
 
@@ -37,7 +37,7 @@ Adrenal Insufficiency
 
 Inform patients that XTAMPZA ER could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.8)].
 
 Food Effect
 
@@ -46,7 +46,7 @@ Instruct patients to take XTAMPZA ER with approximately the same amount of food 
 
 XTAMPZA ER may be taken as intact capsules or, alternately, may be administered as a sprinkle on soft foods or sprinkled into a cup and administered directly into the mouth, or through a nasogastric or gastric feeding tube [see Dosage and Administration (2.1, 2.6)].
 
-Important Administration Instructions [see Dosage and Administration (2.1, 2.5, 2.6), Warnings and Precautions (5.2)]
+Important Administration Instructions [see Dosage and Administration (2.1, 2.5, 2.6), Warnings and Precautions (5.3)]
 
 Instruct patients how to properly take XTAMPZA ER, including the following:
 
@@ -58,7 +58,7 @@ Instruct patients how to properly take XTAMPZA ER, including the following:
 Hypotension
 
 Inform patients that XTAMPZA ER may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.8)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
 
 Anaphylaxis
 
@@ -69,7 +69,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of XTAMPZA ER during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of XTAMPZA ER during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryofetal Toxicity
 
@@ -87,7 +87,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 Driving or Operating Heavy Machinery
 
 Inform patients that XTAMPZA ER may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.13)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
 
 Constipation
 
