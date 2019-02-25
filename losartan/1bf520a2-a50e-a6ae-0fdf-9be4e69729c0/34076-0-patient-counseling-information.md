@@ -11,4 +11,4 @@ Potassium Supplements Advise patients receiving Losartan potassium not to use po
 Keep this and all medications out of reach of the children.
 The trademarks depicted herein are owned by their respective companies.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 03/2017
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 11/2018

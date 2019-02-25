@@ -62,6 +62,7 @@ Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
+- other medicines that may increase serum potassium
 - water pills (diuretics)
 - lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
@@ -132,4 +133,4 @@ Active ingredients: losartan potassium, USP Inactive ingredients: microcrystalli
 
 Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
 
-0333/PIL Rev. # 03/2017
+0333/PIL Rev. # 11/2018
