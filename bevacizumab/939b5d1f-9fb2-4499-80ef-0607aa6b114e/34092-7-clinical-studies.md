@@ -399,7 +399,7 @@ Study results are presented in Table 17 and Figure 9.
 
 Table 17: Efficacy Results in Study GOG-0218
 
-| Efficacy Paramenter | Avastin with carboplatin and paclitaxel followed by Avastin alone (N=623) | Avastin with carboplatin and paclitaxel (N= 625) | Carboplatin and paclitaxel (N= 625) |
+| Efficacy Parameter | Avastin with carboplatin and paclitaxel followed by Avastin alone (N=623) | Avastin with carboplatin and paclitaxel (N= 625) | Carboplatin and paclitaxel (N= 625) |
 | --- | --- | --- | --- |
 | Progression-free survival per Investigator |  |  |  |
 | Median PFS (months) | 18.2 | 12.8 | 12.0 |

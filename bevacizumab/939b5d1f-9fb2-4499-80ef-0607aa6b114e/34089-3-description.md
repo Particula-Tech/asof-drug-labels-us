@@ -3,8 +3,7 @@
 Bevacizumab is vascular endothelial growth factor directed antibody.
 Bevacizumab is a recombinant humanized monoclonal IgG1 antibody that contains human framework regions and murine complementarity-determining regions.
 Bevacizumab has an approximate molecular weight of 149 kDa.
-Bevacizumab is produced in a mammalian cell (Chinese Hamster Ovary) expression system in a nutrient medium containing the antibiotic gentamicin.
-Gentamicin is not detectable in the final product.
+Bevacizumab is produced in a mammalian cell (Chinese Hamster Ovary) expression system.
 
 Avastin (bevacizumab) injection for intravenous use is a sterile, clear to slightly opalescent, colorless to pale brown solution.
 Avastin is supplied in 100 mg and 400 mg preservative-free, single-dose vials to deliver 4 mL or 16 mL of Avastin (25 mg/mL).

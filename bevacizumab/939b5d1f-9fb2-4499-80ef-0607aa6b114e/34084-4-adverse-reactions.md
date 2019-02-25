@@ -33,7 +33,7 @@ On this trial, 1215 patients received at least one dose of Avastin.
 The demographics of the safety population were similar to the demographics of the efficacy population.
 Adverse reactions are presented in Table 2.
 
-Table 2: Grade 1-5 Adverse Reactions Occuring at Higher Incidence (≥5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0218
+Table 2: Grade 1-5 Adverse Reactions Occurring at Higher Incidence (≥5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0218
 
 | Adverse reactionNCI-CTC version 3, | Avastin with carboplatin and paclitaxel followed by Avastin aloneCPB15+, (N=608) | Avastin with carboplatin and paclitaxelCPB15, (N= 607) | Carboplatin and paclitaxelCPP (N= 602) |
 | --- | --- | --- | --- |
