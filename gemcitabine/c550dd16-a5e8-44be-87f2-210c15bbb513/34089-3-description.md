@@ -1,14 +1,13 @@
 # 11 DESCRIPTION
 
-Gemcitabine for Injection, USP is a nucleoside metabolic inhibitor that exhibits antitumor activity.
-Gemcitabine HCl is 2´-deoxy-2´,2´-difluorocytidine monohydrochloride (β-isomer).
+GeGemcitabine is a nucleoside metabolic inhibitor.
+Gemcitabine hydrochloride is 2′-deoxy-2′, 2′-difluorocytidine monohydrochloride (β-isomer) with the following structural formula:
 
-The structural formula is as follows:
-
-The empirical formula for gemcitabine HCl is C9H11F2N3O4 • HCl.
-It has a molecular weight of 299.66.
-Gemcitabine HCl is a white to off-white solid.
-It is soluble in water, slightly soluble in methanol, and practically insoluble in ethanol and polar organic solvents.
-Gemcitabine for injection is supplied in a sterile form for intravenous use only.
-Vials of gemcitabine contain either 200 mg, 1 g or 2 g of gemcitabine HCl (expressed as free base) formulated with mannitol (200 mg, 1 g or 2 g, respectively) and sodium acetate (12.5 mg, 62.5 mg, or 125 mg, respectively) as a sterile lyophilized powder.
+The empirical formula for gemcitabine hydrochloride is C9H11F2N3O4 • HCl.
+It has a molecular weight of 299.66 g/mol.
+Gemcitabine hydrochloride is soluble in water, slightly soluble in methanol, and practically insoluble in ethanol and polar organic solvents.
+Gemcitabine for Injection, USP is a sterile white to off-white lyophilized powder or cake and available as 200 mg, 1 g and 2 g single-dose vials for intravenous use only.
+Each 200 mg vial contains 200 mg gemcitabine hydrochloride (expressed as free base), 200 mg mannitol and 12.5 mg sodium acetate.
+Each 1 g vial contains 1 g gemcitabine hydrochloride (expressed as free base), 1 g mannitol, and 62.5 mg sodium acetate.
+Each 2 g vial contains 2 g gemcitabine hydrochloride (expressed as free base), 2 g mannitol, and 125 mg sodium acetate.
 Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment.
