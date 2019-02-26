@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211210"
+  ],
+  "inn": "meloxicam",
+  "labeler": "TerSera Therapeutics LLC",
+  "package_ndcs": [
+    "70720-115-99",
+    "70720-175-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "meloxicam",
+      "name": "QMIIZ ODT"
+    }
+  ],
+  "setid": "1598d8d4-a927-4fa5-88e6-c0ab127e72b1",
+  "source": "dailymed"
+}
