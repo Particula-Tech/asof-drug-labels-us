@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208302"
+  ],
+  "inn": "imatinib",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-633-90",
+    "67877-634-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "imatinib mesylate",
+      "name": "Imatinib mesylate"
+    }
+  ],
+  "setid": "7579620e-3748-46fa-8295-f9b47d0aa5b8",
+  "source": "dailymed"
+}
