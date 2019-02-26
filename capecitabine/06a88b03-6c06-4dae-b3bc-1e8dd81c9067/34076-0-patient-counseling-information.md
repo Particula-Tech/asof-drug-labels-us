@@ -57,23 +57,12 @@ Advise male patients with female partners of reproductive potential to use effec
 Lactation
 
 Advise females not to breastfeed during treatment with Capecitabine Tablets, USP and for 2 weeks after the last dose [see Use in Specific Populations (8.2)].
-Manufactured in India by:
 
-Alkem Laboratories Limited
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
-H.O.: ALKEM HOUSE,
+Manufactured at: Shilpa Medicare Limited, Jadcherla - 509 301, INDIA
 
-Senapati Bapat Marg, Lower Parel,
-
-Mumbai 400 013, INDIA
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
-
-Revised: 05/2017
+Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised: 07/2018
 
 Patient Information
 
@@ -258,20 +247,8 @@ Active ingredient: capecitabine
 Inactive ingredients: anhydrous lactose, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, and purified water.
 The light peach film coating contains hydroxypropyl methylcellulose, talc, titanium dioxide, iron oxide yellow and iron oxide red.
 
-Manufactured in India by:
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
-Alkem Laboratories Limited
+Manufactured at: Shilpa Medicare Limited, Jadcherla - 509 301, INDIA
 
-H.O.: ALKEM HOUSE,
-
-Senapati Bapat Marg, Lower Parel,
-
-Mumbai 400 013, INDIA
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
-
-Revised: 05/2017
+Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised: 07/2018
