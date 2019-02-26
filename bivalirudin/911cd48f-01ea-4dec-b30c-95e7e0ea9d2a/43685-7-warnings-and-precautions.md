@@ -2,9 +2,10 @@
 
 ## 5.1 Bleeding Events
 
-Although most bleeding associated with the use of Angiomax in PCI/PTCA occurs at the site of arterial puncture, hemorrhage can occur at any site.
-An unexplained fall in blood pressure or hematocrit should lead to serious consideration of a hemorrhagic event and cessation of Angiomax administration [see Adverse Reactions (6.1)].
-Angiomax should be used with caution in patients with disease states associated with an increased risk of bleeding.
+Angiomax increases the risk of bleeding [see Adverse Reactions (6.1)].
+An unexplained fall in blood pressure or hematocrit should lead to serious consideration of a hemorrhagic event and cessation of Angiomax administration.
+Monitor patients receiving Angiomax for signs and symptoms of bleeding.
+Monitor patients with disease states associated with an increased risk of bleeding more frequently for bleeding.
 
 ## 5.2 Acute Stent Thrombosis in Patients with STEMI undergoing PCI
 
@@ -13,12 +14,8 @@ Among patients who experienced an AST, one fatality (0.03%) occurred in an Angio
 These patients have been managed by Target Vessel Revascularization (TVR).
 Patients should remain for at least 24 hours in a facility capable of managing ischemic complications and should be carefully monitored following primary PCI for signs and symptoms consistent with myocardial ischemia.
 
-## 5.3 Coronary Artery Brachytherapy
+## 5.3 Thrombotic Risk with Coronary Artery Brachytherapy
 
 An increased risk of thrombus formation, including fatal outcomes, has been associated with the use of Angiomax in gamma brachytherapy.
 
-If a decision is made to use Angiomax during brachytherapy procedures, maintain meticulous catheter technique, with frequent aspiration and flushing, paying special attention to minimizing conditions of stasis within the catheter or vessels [see Adverse Reactions (6.3)].
-
-## 5.4 Laboratory Test Interference
-
-Angiomax affects International Normalized Ratio (INR), therefore INR measurements made in patients who have been treated with Angiomax may not be useful for determining the appropriate dose of warfarin.
+If a decision is made to use Angiomax during brachytherapy procedures, maintain meticulous catheter technique, with frequent aspiration and flushing, paying special attention to minimizing conditions of stasis within the catheter or vessels [see Adverse Reactions (6.1)].
