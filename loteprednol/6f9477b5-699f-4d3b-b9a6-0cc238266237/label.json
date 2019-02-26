@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA208219"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-507-01",
+    "24208-507-02",
+    "24208-507-07"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "loteprednol etabonate",
+      "name": "Lotemax SM"
+    }
+  ],
+  "setid": "6f9477b5-699f-4d3b-b9a6-0cc238266237",
+  "source": "dailymed"
+}
