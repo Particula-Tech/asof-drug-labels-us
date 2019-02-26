@@ -14,4 +14,4 @@ Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
 
-Revision: September 2018 PM01444204
+Packaged by: Legacy Pharmaceutical Packaging LLC, Earth City, MO 63045 OR Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
