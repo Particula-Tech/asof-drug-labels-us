@@ -1,5 +1,5 @@
 Injection, USP
 
-Fliptop Vial Pintop Vial
+Fliptop Vial
 
 MUST BE DILUTED PRIOR TO ADMINISTRATION
