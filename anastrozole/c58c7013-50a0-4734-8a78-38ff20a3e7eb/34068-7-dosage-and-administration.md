@@ -11,7 +11,7 @@ In the ATAC trial, anastrozole tablets were administered for five years [see Cli
 
 No dosage adjustment is necessary for patients with renal impairment or for elderly patients [see Use in Specific Populations (8.6)].
 
-## 2.2 Patients With Hepatic Impairment
+## 2.2 Patients with Hepatic Impairment
 
 No changes in dose are recommended for patients with mild-to-moderate hepatic impairment.
 Anastrozole tablets have not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].

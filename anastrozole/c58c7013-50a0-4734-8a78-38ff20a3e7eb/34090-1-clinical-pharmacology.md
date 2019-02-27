@@ -48,7 +48,7 @@ The pharmacokinetics of anastrozole were similar in patients and healthy volunte
 
 Distribution
 
-Steady-state plasma levels are approximately 3 to 4 fold higher than levels observed after a single dose of anastrozole.
+Steady-state plasma levels are approximately 3- to 4-fold higher than levels observed after a single dose of anastrozole.
 Plasma concentrations approach steady-state levels at about 7 days of once daily dosing.
 Anastrozole is 40% bound to plasma proteins in the therapeutic range.
 
@@ -72,7 +72,7 @@ The mean elimination half-life of anastrozole is 50 hours.
 Effect of Gender and Age
 
 Anastrozole pharmacokinetics have been investigated in postmenopausal female volunteers and patients with breast cancer.
-No age-related effects were seen over the range < 50 to > 80 years.
+No age-related effects were seen over the range <50 to >80 years.
 
 Effect of Race
 
@@ -82,7 +82,7 @@ Anastrozole mean steady-state minimum plasma concentrations in Caucasian and Jap
 Effect of Renal Impairment
 
 Anastrozole pharmacokinetics have been investigated in subjects with renal impairment.
-Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m2) compared to controls.
+Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance <30 mL/min/1.73m2) compared to controls.
 Total clearance was only reduced 10%.
 No dosage adjustment is needed for renal impairment [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)].
 
