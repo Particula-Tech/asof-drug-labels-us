@@ -2,7 +2,9 @@
 
 10 Single dose vials
 
-FOR INSTRUCTIONS ON RECONSTITUTION AND DILUTION and USUAL DOSAGE: See accompanying circular.
+FOR INSTRUCTIONS ON RECONSTITUTION AND DILUTION and USUAL DOSAGE:
+
+See accompanying circular.
 
 Each vial contains 1.046 grams ertapenem sodium, equiv. to 1 gram ertapenem.
 
@@ -16,13 +18,9 @@ NDC 42023-221-10
 
 Ertapenem Sodium IV/IM
 
-FOR INTRAVENOUS OR INTRAMUSCULAR USE
+FOR INTRAVENOUS OR INTRAMUSCULAR USE 1 g
 
-1 g
-
-Rx only
-
-PAR PHARMACEUTICAL
+Rx only PAR PHARMACEUTICAL
 
 Inactive ingredients: 175 mg sodium bicarbonate and sodium hydroxide to adjust pH to 7.5.
 
@@ -33,9 +31,11 @@ Do not store lyophilized powder above 25°C (77°F).
 
 R05/18 LA221-62-78-02
 
-00342023221100
+GTIN:00342023221100
 
-190618-2 7005589500
+180718-1 7005589501
+
+SN
 
 Exp. date
 
