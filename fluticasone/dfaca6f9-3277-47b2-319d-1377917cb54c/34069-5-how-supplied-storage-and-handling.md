@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ADVAIR HFA 45/21 Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0715-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0715-22).
+ADVAIR HFA 45/21 is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0715-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0715-22).
 
-ADVAIR HFA 115/21 Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0716-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0716-22).
+ADVAIR HFA 115/21 is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0716-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0716-22).
 
-ADVAIR HFA 230/21 Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0717-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0717-22).
+ADVAIR HFA 230/21 is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0717-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0717-22).
 
 Each canister is fitted with a counter and supplied with a purple actuator with a light purple strapcap.
 Each inhaler is sealed in a plastic-coated, moisture-protective foil pouch with a desiccant that should be discarded when the pouch is opened.

@@ -30,7 +30,7 @@ Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Y
 | Asthma-related intubation (endotracheal) | 1 | 2 |  |
 | Asthma-related hospitalization (≥24-hour stay) | 115 | 105 |  |
 
-ICS = Inhaled Corticosteroid; LABA = Long-acting Beta2-adrenergic Agonist.
+ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist.
 
 a Randomized subjects who had taken at least 1 dose of study drug.
 Planned treatment used for analysis.

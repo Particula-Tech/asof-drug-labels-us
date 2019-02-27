@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ADVAIR HFA 45/21 Inhalation Aerosol, ADVAIR HFA 115/21 Inhalation Aerosol, and ADVAIR HFA 230/21 Inhalation Aerosol are combinations of fluticasone propionate and salmeterol xinafoate.
+ADVAIR HFA 45/21, ADVAIR HFA 115/21, and ADVAIR HFA 230/21 are combinations of fluticasone propionate and salmeterol xinafoate.
 
 One active component of ADVAIR HFA is fluticasone propionate, a corticosteroid having the chemical name S-(fluoromethyl) 6α,9-difluoro-11β,17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
 

@@ -28,7 +28,7 @@ The average duration of exposure was 71 to 81 days in the active treatment group
 Table 2.
 Adverse Reactions with ADVAIR HFA with ≥3% Incidence in Adult and Adolescent Subjects with Asthma
 
-| Adverse Event | ADVAIR HFA Inhalation Aerosol |  | Fluticasone Propionate CFC Inhalation Aerosol |  | Salmeterol CFC Inhalation Aerosol | Placebo HFA Inhalation Aerosol |
+| Adverse Event | ADVAIR HFA |  | Fluticasone Propionate CFC Inhalation Aerosol |  | Salmeterol CFC Inhalation Aerosol | Placebo HFA Inhalation Aerosol |
 | --- | --- | --- | --- | --- | --- | --- |
 | 45/21 (n = 187) % | 115/21 (n = 94) % | 44 mcg (n = 186) % | 110 mcg (n = 91) % | 21 mcg (n = 274) % | (n = 176) % |  |
 | Ear, nose, and throat |  |  |  |  |  |  |

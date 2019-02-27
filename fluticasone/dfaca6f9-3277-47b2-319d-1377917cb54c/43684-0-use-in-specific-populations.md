@@ -30,9 +30,9 @@ Because of the potential for beta-agonist interference with uterine contractilit
 
 Data
 
-Human Data:Fluticasone Propionate: Following inhaled administration, fluticasone propionate was detected in the neonatal cord blood after delivery.
+Human Data: Fluticasone Propionate: Following inhaled administration, fluticasone propionate was detected in the neonatal cord blood after delivery.
 
-Animal Data:Fluticasone Propionate and Salmeterol: In an embryofetal development study with pregnant rats that received the combination of subcutaneous administration of fluticasone propionate and oral administration of salmeterol at doses of 0/1,000; 30/0; 10/100; 30/1,000; and 100/10,000 mcg/kg/day (as fluticasone propionate/salmeterol) during the period of organogenesis, findings were generally consistent with the individual monoproducts and there was no exacerbation of expected fetal effects.
+Animal Data: Fluticasone Propionate and Salmeterol: In an embryofetal development study with pregnant rats that received the combination of subcutaneous administration of fluticasone propionate and oral administration of salmeterol at doses of 0/1,000; 30/0; 10/100; 30/1,000; and 100/10,000 mcg/kg/day (as fluticasone propionate/salmeterol) during the period of organogenesis, findings were generally consistent with the individual monoproducts and there was no exacerbation of expected fetal effects.
 Omphalocele, increased embryofetal deaths, decreased body weight, and skeletal variations were observed in rat fetuses in the presence of maternal toxicity when combining fluticasone propionate at a dose approximately equivalent to the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 100 mcg/kg/day) and salmeterol at a dose approximately 1,200 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 10,000 mcg/kg/day).
 The rat no observed adverse effect level (NOAEL) was observed when combining fluticasone propionate at a dose less than the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 30 mcg/kg/day) and salmeterol at a dose approximately 120 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 1,000 mcg/kg/day).
 
