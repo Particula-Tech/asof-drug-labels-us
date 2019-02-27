@@ -6,9 +6,10 @@ Pfizer NDC 0008-0843-81
 
 Protonix® (pantoprazole sodium) delayed-release tablets
 
-20 mg*
+20 mg
 
-*Equivalent to 20 mg pantoprazole
+Swallow tablets whole.
+Do NOT split, chew, or crush tablets.
 
 90 Tablets Rx only
 
@@ -20,9 +21,10 @@ Pfizer NDC 0008-0841-81
 
 Protonix® (pantoprazole sodium) delayed-release tablets
 
-40 mg*
+40 mg
 
-*Equivalent to 40 mg pantoprazole
+Swallow tablets whole.
+Do NOT split, chew, or crush tablets.
 
 90 Tablets Rx only
 
