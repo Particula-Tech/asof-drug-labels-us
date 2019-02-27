@@ -61,10 +61,6 @@ Table 10 Concentrations (mcg/mL) of Ertapenem in Adult Skin Blister Fluid at eac
 | --- | --- | --- | --- | --- | --- | --- |
 | 7 | 12 | 17 | 24 | 24 | 21 | 8 |
 
-The concentration of ertapenem in breast milk from 5 lactating women with pelvic infections (5 to 14 days postpartum) was measured at random time points daily for 5 consecutive days following the last 1 g dose of intravenous therapy (3-10 days of therapy).
-The concentration of ertapenem in breast milk within 24 hours of the last dose of therapy in all 5 women ranged from <0.13 (lower limit of quantitation) to 0.38 mcg/mL; peak concentrations were not assessed.
-By day 5 after discontinuation of therapy, the level of ertapenem was undetectable in the breast milk of 4 women and below the lower limit of quantitation (<0.13 mcg/mL) in 1 woman.
-
 Metabolism
 
 In healthy young adults, after infusion of 1 g IV radiolabeled ertapenem, the plasma radioactivity consists predominantly (94%) of ertapenem.
@@ -141,10 +137,12 @@ Ertapenem has in vitro activity against Gram-positive and Gram-negative aerobic 
 The bactericidal activity of ertapenem results from the inhibition of cell wall synthesis and is mediated through ertapenem binding to penicillin binding proteins (PBPs).
 In Escherichia coli, it has strong affinity toward PBPs 1a, 1b, 2, 3, 4 and 5 with preference for PBPs 2 and 3.
 
-Mechanism of Resistance
+Resistance
 
 Ertapenem is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.
 Ertapenem is hydrolyzed by metallo-beta-lactamases.
+
+Antimicrobial Activity
 
 Ertapenem has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
@@ -174,67 +172,6 @@ Anaerobic bacteria:
 
 Bacteroides vulgatus Clostridium perfringens Fusobacterium spp.
 
-Susceptibility Test Methods:
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility tests for antimicrobial drug products used in resident hospitals to the physician as periodic reports which describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting the most effective antimicrobial.
-
-Dilution Techniques:
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a broth dilution method {1} or equivalent with standardized inoculum concentrations and standardized concentrations of ertapenem powder.
-The MIC values should be interpreted according to criteria provided in Table 11 and {4}.
-
-Diffusion Techniques:
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure {2} requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 10-µg ertapenem to test the susceptibility of microorganisms to ertapenem.
-The disk diffusion interpretive criteria should be interpreted according to criteria provided in Table 11 and {4}.
-
-Anaerobic Techniques:
-
-For anaerobic bacteria, the susceptibility to ertapenem as MICs can be determined by standardized test methods {3}.
-The MIC values obtained should be interpreted according to criteria provided in Table 11 and {4}.
-
-Table 11 Susceptibility Interpretive Criteria for Ertapenem
-
-|  | S | I | R | S | I | R |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory ConcentrationsFor some organism/antimicrobial combinations, the absence or rare occurrence of resistant strains precludes defining any results categories other than "susceptible". For strains yielding results suggestive of a "non-susceptible" category, organism identification and antimicrobial susceptibility test results should be confirmed. MIC (µg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
-| Enterobacteriaceae | ≤0.5 | 1 | ≥2 | ≥22 | 19-21 | ≤18 |
-| Staphylococcus aureusFor oxacillin-susceptible S. aureus results for carbapenems, including ertapenem, if tested, should be reported according to the results generated using routine interpretive criteria. For oxacillin-resistant S. aureus and coagulase negative staphylococci, other beta lactam agents, including carbapenems, may appear active in vitro but are not effective clinically. Results for beta lactam agents other than cephalosporins with anti-MRSA activity should be reported as resistant or should not be reported. | ≤2.0 | 4.0 | ≥8.0 | ≥19 | 16-18 | ≤15 |
-| Haemophilus spp. | ≤0.5 | - | - | ≥19 | - | - |
-| Streptococcus pneumoniaeS. pneumoniae penicillin MICs ≤2 mcg/mL indicate susceptibility to ertapenem. | ≤1.0 | 2 | ≥4 | - | - | - |
-| Streptococcus spp. Beta Hemolytic Group,,A beta hemolytic Streptococcus spp. (Groups A, B, C, G) isolate susceptible to penicillin (MIC ≤0.12 µg/mL) can be considered susceptible to ertapenem and need not be tested against ertapenem. | ≤1.0 | - | - | - | - | - |
-| Streptococcus spp. Viridans Group | ≤1.0 | - | - | - | - | - |
-| Anaerobes | ≤4.0 | 8.0 | ≥16.0 | - | - | - |
-
-A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound at the infection site reaches the concentrations usually achievable.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound at the infection site reaches the concentrations usually achievable; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.
-Quality control microorganisms are specific strains of organisms with intrinsic biological properties.
-QC strains are very stable strains which will give a standard and repeatable susceptibility pattern.
-The specific strains used for microbiological quality control are not clinically significant.
-Standard ertapenem powder should provide the following range of values noted in Table 12 and {4,5}.
-
-Table 12 Acceptable Quality Control Ranges for Ertapenem
-
-| Microorganism | Minimum Inhibitory Concentrations MIC Range (µg/mL) | Disk Diffusion Zone Diameter (mm) |
-| --- | --- | --- |
-| Escherichia coli ATCC 25922 | 0.004-0.016 | 29-36 |
-| Haemophilus influenzae ATCC 49766 | 0.015-0.06 | 27-33 |
-| Staphylococcus aureus ATCC 29213 | 0.06-0.25 | - |
-| Staphylococcus aureus ATCC 25923 | - | 24-31 |
-| Streptococcus pneumoniae ATCC 49619 | 0.03-0.25 | 28-35 |
-| Bacteroides fragilis ATCC 25285 | 0.06-0.5Quality control ranges for broth microdilution testing 0.06-0.25Quality control ranges for agar dilution testing | - |
-| Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.0 0.25-1.0 | - |
-| Eubacterium lentum ATCC 43055 | 0.5-4.0 0.5-2.0 | - |
+For specific information regarding susceptibility testing methods, interpretive criteria, and associated test methods and quality control standards recognized by FDA for ertapenem, please see: https://www.fda.gov/STIC.
