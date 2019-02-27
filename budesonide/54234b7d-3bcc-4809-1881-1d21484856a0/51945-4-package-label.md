@@ -8,7 +8,7 @@ Flexhaler™ 90 mcg
 
 (budesonide inhalation
 
-Powder, 90 mcg)
+powder, 90 mcg)
 
 90 mcg
 
@@ -34,7 +34,7 @@ Flexhaler™ 180 mcg
 
 (budesonide inhalation
 
-Powder, 180 mcg)
+powder, 180 mcg)
 
 180 mcg
 

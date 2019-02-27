@@ -110,9 +110,9 @@ You must use PULMICORT FLEXHALER regularly for it to work.
 - •Make sure you always have a short-acting beta2-agonist medicine with you.
   Use your short acting beta2-agonist medicine if you have breathing problems between doses of PULMICORT FLEXHALER or if a sudden asthma attack happens.
   Call your healthcare provider right away if:
-  - oyour short-acting rescue medicine does not work as well for relieving asthma symptoms.
-  - oyou need to use your short-acting rescue medicines more often than usual.
-  - oyour breathing problems worsen with PULMICORT FLEXHALER.
+  - ∘your short-acting rescue medicine does not work as well for relieving asthma symptoms.
+  - ∘you need to use your short-acting rescue medicines more often than usual.
+  - ∘your breathing problems worsen with PULMICORT FLEXHALER.
 
 If you use another inhaled medicine by mouth to treat your asthma, talk with your healthcare provider for instructions about when to use the other medicine and when to use your PULMICORT FLEXHALER.
 
@@ -131,12 +131,12 @@ PULMICORT FLEXHALER can cause serious side effects, including:
 - •worsening of asthma or sudden asthma attacks.
 - •allergic reactions.
   Tell your healthcare provider or get medical help right away if you have:
-  - oskin rash, redness or swelling
-  - osevere itching
-  - oswelling of the face, mouth, and tongue
-  - otrouble breathing or swallowing
-  - ochest pain
-  - oanxiety (feeling of doom)
+  - ∘skin rash, redness or swelling
+  - ∘severe itching
+  - ∘swelling of the face, mouth, and tongue
+  - ∘trouble breathing or swallowing
+  - ∘chest pain
+  - ∘anxiety (feeling of doom)
 - •Immune system effects and a higher chance of infections.
   You are more likely to get infections if you take medicines that weaken your immune system.
   Avoid contact with people who have contagious diseases such as chicken pox or measles while using PULMICORT FLEXHALER.
