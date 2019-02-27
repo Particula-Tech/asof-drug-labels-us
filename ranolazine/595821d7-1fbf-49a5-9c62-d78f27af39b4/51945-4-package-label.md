@@ -1,0 +1,21 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 68180-354-07
+
+RANOLAZINE EXTENDED-RELEASE TABLETS
+
+500 mg
+
+Rx only
+
+Container Label: Bottle of 60 Tablets
+
+NDC 68180-355-07
+
+RANOLAZINE EXTENDED-RELEASE TABLETS
+
+1000 mg
+
+Rx only
+
+Container Label: Bottle of 60 Tablets

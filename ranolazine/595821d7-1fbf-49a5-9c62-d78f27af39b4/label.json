@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA201046"
+  ],
+  "inn": "ranolazine",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-354-02",
+    "68180-354-07",
+    "68180-355-02",
+    "68180-355-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "ranolazine",
+      "name": "RANOLAZINE"
+    }
+  ],
+  "setid": "595821d7-1fbf-49a5-9c62-d78f27af39b4",
+  "source": "dailymed"
+}
