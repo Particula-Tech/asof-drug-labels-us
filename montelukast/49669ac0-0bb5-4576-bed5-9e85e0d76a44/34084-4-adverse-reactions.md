@@ -8,7 +8,7 @@ The most common adverse reactions (incidence ≥5% and greater than placebo; lis
 Adults and Adolescents 15 Years of Age and Older with Asthma Montelukast sodium has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
-TABLE 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
+Table 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
 
 |  | Montelukast 10 mg/day (%) (n=1955) | Placebo (%) (n=1180) |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Blood and lymphatic system disorders: increased bleeding tendency, thrombocytopenia.
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
-Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [see Warnings and Precautions (5.4)].
+Psychiatric disorders: including, but not limited to, agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [see Warnings and Precautions (5.4)].
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 Cardiac disorders: palpitations.
 Respiratory, thoracic and mediastinal disorders: epistaxis, pulmonary eosinophilia.

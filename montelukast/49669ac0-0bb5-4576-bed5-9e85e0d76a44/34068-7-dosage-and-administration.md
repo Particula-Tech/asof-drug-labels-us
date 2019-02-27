@@ -11,7 +11,7 @@ There have been no clinical trials in patients with asthma to evaluate the relat
 The pharmacokinetics of montelukast are similar whether dosed in the morning or evening.
 Efficacy has been demonstrated for asthma when montelukast was administered in the evening without regard to time of food ingestion.
 
-## 2.2 Exercise-lnduced Bronchoconstriction (EIB)
+## 2.2 Exercise-Induced Bronchoconstriction (EIB)
 
 For prevention of EIB, a single dose of montelukast should be taken at least 2 hours before exercise.
 The following doses are recommended: For adults and adolescents 15 years of age and older: one 10 mg tablet.

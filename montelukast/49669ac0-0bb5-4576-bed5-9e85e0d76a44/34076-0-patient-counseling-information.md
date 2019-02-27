@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 Information for Patients
 
 - Patients should be advised to take montelukast sodium daily as prescribed, even when they are asymptomatic, as well as during periods of worsening asthma, and to contact their physicians if their asthma is not well controlled.
@@ -14,4 +14,4 @@ Information for Patients
 - Patients with known aspirin sensitivity should be advised to continue avoidance of aspirin or non-­steroidal anti-inflammatory agents while taking montelukast sodium.
 - Phenylketonuric patients should be informed that the 4 mg and 5 mg chewable tablets contain phenylalanine (a component of aspartame).
 
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/22/2009 Revised: 10/2017
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/22/2009 Revised: 02/2019

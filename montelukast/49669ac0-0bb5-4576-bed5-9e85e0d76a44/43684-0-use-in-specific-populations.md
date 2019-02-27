@@ -2,18 +2,40 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B: There are no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, montelukast sodium should be used during pregnancy only if clearly needed.
-Teratogenic Effect: No teratogenicity was observed in rats and rabbits at doses approximately 100 and 110 times, respectively, the maximum recommended daily oral dose in adults based on AUCs [see Nonclinical Toxicology (13.2)].
-During worldwide marketing experience, congenital limb defects have been rarely reported in the offspring of women being treated with montelukast sodium during pregnancy.
-Most of these women were also taking other asthma medications during their pregnancy.
-A causal relationship between these events and montelukast sodium has not been established.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Available data from published prospective and retrospective cohort studies over decades with montelukast use in pregnant women have not established a drug-associated risk of major birth defects [see Data].
+In animal reproduction studies, no adverse developmental effects were observed with oral administration of montelukast to pregnant rats and rabbits during organogenesis at doses approximately 100 and 110 times, respectively, the maximum recommended human daily oral dose (MRHDOD) based on AUCs [see Data].
 
-Studies in rats have shown that montelukast is excreted in milk.
-It is not known if montelukast is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when montelukast sodium is given to a nursing mother.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly or moderately controlled asthma in pregnancy increases the maternal risk of perinatal adverse outcomes such as preeclampsia and infant prematurity, low birth weight, and small for gestational age.
+
+Data
+
+Human Data
+
+Published data from prospective and retrospective cohort studies have not identified an association with montelukast sodium use during pregnancy and major birth defects.
+Available studies have methodologic limitations, including small sample size, in some cases retrospective data collection, and inconsistent comparator groups.
+
+Animal Data
+
+In embryo-fetal development studies, montelukast administered to pregnant rats and rabbits during organogenesis (gestation days 6 to 17 in rats and 6 to 18 in rabbits) did not cause any adverse developmental effects at maternal oral doses up to 400 and 300 mg/kg/day in rats and rabbits, respectively (approximately 100 and 110 times the AUC in humans at the MRHDOD, respectively).
+
+## 8.2 Lactation
+
+Risk Summary
+
+A published clinical lactation study reports the presence of montelukast in human milk.
+Data available on the effects of the drug on infants, either directly [see Use in Specific Populations (8.4)] or through breast milk, do not suggest a significant risk of adverse events from exposure to montelukast sodium.
+The effects of the drug on milk production are unknown.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for montelukast sodium and any potential adverse effects on the breastfed infant from montelukast sodium or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

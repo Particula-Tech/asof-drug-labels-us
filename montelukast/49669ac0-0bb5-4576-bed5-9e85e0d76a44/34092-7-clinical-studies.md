@@ -16,7 +16,7 @@ The results of the Multinational trial on FEV1 were similar.
 The effect of montelukast sodium on other primary and secondary endpoints, represented by the Multinational study is shown in TABLE 2.
 Results on these endpoints were similar in the U.S. study.
 
-TABLE 2: Effect of Montelukast Sodium on Primary and Secondary Endpoints in a Multinational Placebo-controlled Trial (ANOVA Model)
+Table 2: Effect of Montelukast Sodium on Primary and Secondary Endpoints in a Multinational Placebo-controlled Trial (ANOVA Model)
 
 |  | Montelukast Sodium |  |  | Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -74,7 +74,7 @@ The primary endpoint was the mean maximum percent fall in FEV1 following the 2 h
 Some patients were protected from EIB at 8.5 and 24 hours after administration; however, some patients were not.
 The results for the mean maximum percent fall at each timepoint in Study A are shown in TABLE 3 and are representative of the results from the other two studies.
 
-TABLE 3: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study A (N=47) ANOVA Model
+Table 3: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study A (N=47) ANOVA Model
 
 | Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for Montelukast Sodium versus Placebo (95% CI)* |
 | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ Similar results were shown at 24 hours post-dose (a secondary endpoint).
 Some patients were protected from EIB at 24 hours after administration; however, some patients were not.
 No timepoints were assessed between 2 and 24 hours post-dose.
 
-TABLE 4: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Pediatric Patients (N=64) ANOVA Model
+Table 4: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Pediatric Patients (N=64) ANOVA Model
 
 | Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for Montelukast Sodium versus Placebo (95% CI)* |
 | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ The ethnic/racial distribution in this study was 83.1% Caucasian, 6.4% other ori
 The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received montelukast sodium tablets, loratadine, and placebo are shown in TABLE 5.
 The remaining three trials that demonstrated efficacy showed similar results.
 
-TABLE 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
+Table 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
@@ -140,7 +140,7 @@ In the study in which efficacy was demonstrated, the median age was 35 years (ra
 The ethnic/racial distribution in this study was 83.2% Caucasian, 8.1% Black, 5.4% Hispanic, 2.3% Asian, and 1% other origins.
 Montelukast 10 mg tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6-week treatment period (TABLE 6); in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, and sneezing).
 
-TABLE 6: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis (ANCOVA Model)
+Table 6: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis (ANCOVA Model)
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
