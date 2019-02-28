@@ -18,6 +18,7 @@ Impaired Wound Healing: Because of the inhibitory effect of corticosteroids on w
 
 Use of intranasal and inhaled corticosteroids may result in the development of glaucoma and/or cataracts.
 Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use fluticasone propionate nasal spray long-term.
 
 ## 5.3 Hypersensitivity Reactions including Anaphylaxis
 

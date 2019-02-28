@@ -2,43 +2,55 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
+Risk Summary
 
-#### Pregnancy Category C
+There are insufficient data on the use of fluticasone propionate nasal spray in pregnant women to inform a drug-associated risk.
+In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, were observed in rats, mice, and rabbits with subcutaneously administered maternal toxic doses of fluticasone propionate 5 times, equivalent to, and less than the maximum recommended human daily intranasal dose (MRHDID) on a mcg/m2 basis, respectively.
+(See Animal Data.)
+However, fluticasone propionate administered via nose-only inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose equivalent to the MRHDID on a mcg/m2 basis.
+(See Animal Data.)
+Experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 
-There are no adequate and well-controlled trials with fluticasone propionate nasal spray in pregnant women.
-Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Because animal reproduction studies are not always predictive of human response, fluticasone propionate nasal spray should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking fluticasone propionate nasal spray.
+The estimated risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Mice and rats at fluticasone propionate doses approximately 1 and 4 times, respectively, the maximum recommended human daily intranasal dose (MRHDID) for adults (on a mg/m2 basis at maternal subcutaneous doses of 45 and 100 mcg/kg/day, respectively) showed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
-No teratogenicity was seen in rats at doses up to 3 times the MRHDID (on a mg/m2 basis at maternal inhalation doses up to 68.7 mcg/kg/day).
+Data
 
-In rabbits, fetal weight reduction and cleft palate were observed at a fluticasone propionate dose approximately 0.3 times the MRHDID for adults (on a mg/m2 basis at a maternal subcutaneous dose of 4 mcg/kg/day).
-However, no teratogenic effects were reported at fluticasone propionate doses up to approximately 20 times the MRHDID for adults (on a mg/m2 basis at a maternal oral dose up to 300 mcg/kg/day).
-No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration [see Clinical Pharmacology (12.3)].
+Human Data: Following inhaled administration, fluticasone propionate was detected in the neonatal cord blood after delivery.
+
+Animal Data: In embryofetal development studies with pregnant rats and mice dosed by the subcutaneous route throughout the period of organogenesis, fluticasone propionate was teratogenic in both species.
+Omphalocele, decreased body weight, and skeletal variations were observed in rat fetuses, in the presence of maternal toxicity, at a dose approximately 5 times the MRHDID of 200 mcg/day (on a mcg/m2 basis with a maternal subcutaneous dose of 100 mcg/kg/day).
+The rat no observed adverse effect level (NOAEL) was observed at approximately equivalent to the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 30 mcg/kg/day).
+Cleft palate and fetal skeletal variations were observed in mouse fetuses at a dose approximately equivalent to the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 45 mcg/kg/day).
+The mouse NOAEL was observed with a dose approximately 0.3 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 15 mcg/kg/day).
+
+In an embryofetal development study with pregnant rats dosed by the nose-only inhalation route throughout the period of organogenesis, fluticasone propionate produced decreased fetal body weights and skeletal variations, in the presence of maternal toxicity, at a dose approximately equivalent to the MRHDID (on a mcg/m2 basis with a maternal nose-only inhalation dose of 25.7 mcg/kg/day); however, there was no evidence of teratogenicity.
+The NOAEL was observed with a dose approximately 0.25 times the MRHDID (on a mcg/m2 basis with a maternal nose-only inhalation dose of 5.5 mcg/kg/day).
+
+In an embryofetal development study in pregnant rabbits that were dosed by the subcutaneous route throughout organogenesis, fluticasone propionate produced reductions of fetal body weights, in the presence of maternal toxicity, at doses approximately 0.06 times the MRHDID and higher (on a mcg/m2 basis with a maternal subcutaneous dose of 0.57 mcg/kg/day).
+Teratogenicity was evident based upon a finding of cleft palate for 1 fetus at a dose 0.39 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 4 mcg/kg/day).
+The NOAEL was observed in rabbit fetuses with a dose approximately 0.01 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 0.08 mcg/kg/day).
 
 Fluticasone propionate crossed the placenta following subcutaneous administration to mice and rats and oral administration to rabbits.
 
-Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
-In addition, because there is a natural increase in corticosteroid production during pregnancy, most women will require a lower exogenous corticosteroid dose and many will not need corticosteroid treatment during pregnancy.
+In a pre- and post-natal development study in pregnant rats dosed from late gestation through delivery and lactation (Gestation Day 17 to Postpartum Day 22), fluticasone propionate was not associated with decreases in pup body weight, and had no effects on developmental landmarks, learning, memory, reflexes, or fertility at doses up to 2 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 50 mcg/kg/day).
 
-Nonteratogenic Effects
+## 8.2 Lactation
 
-Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
-Such infants should be carefully monitored.
+Risk Summary
 
-## 8.3 Nursing Mothers
+There are no available data on the presence of fluticasone propionate in human milk, the effects on the breastfed child, or the effects on milk production.
+Low concentrations of other corticosteroids have been detected in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for fluticasone propionate nasal spray and any potential adverse effects on the breastfed child from fluticasone propionate nasal spray or from the underlying maternal condition.
 
-It is not known whether fluticasone propionate is excreted in human breast milk.
-However, other corticosteroids have been detected in human milk.
-Subcutaneous administration to lactating rats of tritiated fluticasone propionate at a dose approximately 0.4 times the MRHDID for adults on a mg/m2 basis resulted in measurable radioactivity in milk.
+Data
 
-Since there are no data from controlled trials on the use of intranasal fluticasone propionate nasal spray by nursing mothers, caution should be exercised when fluticasone propionate nasal spray is administered to a nursing woman.
+Animal Data: Subcutaneous administration of tritiated fluticasone propionate at a dose of 10 mcg/kg/day to lactating rats resulted in measurable levels in milk.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of fluticasone propionate nasal spray in children aged 4 years and older have been established[see Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
+The safety and effectiveness of fluticasone propionate nasal spray in children aged 4 years and older have been established [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
 Six hundred fifty (650) subjects aged 4 to 11 years and 440 subjects aged 12 to 17 years were studied in US clinical trials with fluticasone propionate nasal spray.
 The safety and effectiveness of fluticasone propionate nasal spray in children younger than 4 years have not been established.
 

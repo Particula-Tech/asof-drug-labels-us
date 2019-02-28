@@ -32,9 +32,9 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10002064/08
+10002064/09
 
-Revised March 2016
+Revised January 2019
 
 # Patient Information
 
@@ -42,33 +42,22 @@ Fluticasone Propionate Nasal Spray USP, 50 mcg
 
 (FLOO-tih-kah-sone)
 
-Read the Patient Information that comes with fluticasone propionate nasal spray before you start using it and each time you get a refill.
-There may be new information.
-This Patient Information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
 What is fluticasone propionate nasal spray?
 
 Fluticasone propionate nasal spray is a prescription medicine used to treat non-allergy nasal symptoms such as runny nose, stuffy nose, sneezing, and nasal itching in adults and children aged 4 years and older.
 
 It is not known if fluticasone propionate nasal spray is safe and effective in children younger than 4 years of age.
 
-Who should not use fluticasone propionate nasal spray?
-
 Do not use fluticasone propionate nasal spray if you are allergic to fluticasone propionate or any of the ingredients in fluticasone propionate nasal spray.
 See “What are the ingredients in fluticasone propionate nasal spray?” below for a complete list of ingredients.
 
-What should I tell my healthcare provider before using fluticasone propionate nasal spray?
-
-Tell your healthcare provider about all of your health conditions, including if you:
+Before using fluticasone propionate nasal spray, tell your healthcare provider about all of your medical conditions, including if you:
 
 - •have or have had nasal sores, nasal surgery, or nasal injury.
-- •have eye problems, such as cataracts or glaucoma.
+- •have or have had eye problems, such as glaucoma or cataracts.
 - •have an immune system problem.
-- •are allergic to any of the ingredients in fluticasone propionate nasal spray, any other medicines, or food products.
-  See “What are the ingredients in fluticasone propionate nasal spray?” below for a complete list of ingredients.
 - •have any type of viral, bacterial, or fungal infection.
 - •are exposed to chickenpox or measles.
-- •have any other medical conditions.
 - •are pregnant or planning to become pregnant.
   It is not known if fluticasone propionate nasal spray may harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
@@ -77,6 +66,7 @@ Tell your healthcare provider about all of your health conditions, including if 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Fluticasone propionate nasal spray and certain other medicines may interact with each other.
 This may cause serious side effects.
+
 Especially, tell your healthcare provider if you take antifungal or anti-HIV medicines.
 
 Know the medicines you take.
@@ -105,17 +95,19 @@ Fluticasone propionate nasal spray may cause serious side effects, including:
   Nose problems may include:
   - •nose bleeds.
   - •sores (ulcers) in your nose.
-  - •a certain fungal infection in your nose, mouth, and/or throat (thrush).
+  - •a certain fungal infection in your nose, mouth, or throat (thrush).
   - •hole in the cartilage of your nose (nasal septal perforation).
-- Symptoms of nasal septal perforation may include:
-  1. •crusting in the nose
-  2. •nose bleeds
-  3. •runny nose
-  4. •whistling sound when you breathe
-  5. •slow wound healing.
-     You should not use fluticasone propionate nasal spray until your nose has healed if you have a sore in your nose, have had surgery on your nose, or if your nose has been injured.
-- •eye problems including glaucoma and cataracts.
-  You should have regular eye exams while you use fluticasone propionate nasal spray.
+    Symptoms of nasal septal perforation may include:
+- •crusting in the nose
+- •nose bleeds
+- •runny nose
+- •whistling sound when you breathe
+  - •slow wound healing.
+    You should not use fluticasone propionate nasal spray until your nose has healed if you have a sore in your nose, have had surgery on your nose, or if your nose has been injured.
+- •glaucoma and cataracts.
+  Using nasal and inhaled corticosteroid medicines may result in you developing glaucoma and/or cataracts.
+  Your healthcare provider may have you see an eye doctor (ophthalmologist) if you develop eye symptoms or use fluticasone propionate nasal spray for long periods of time.
+  Tell your healthcare provider if you have any changes in your eye sight while using fluticasone propionate nasal spray.
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following signs of a serious allergic reaction:
   - •rash
@@ -157,10 +149,7 @@ The most common side effects of fluticasone propionate nasal spray include:
 - •cough
 - •nose burning or itching
 
-Tell your healthcare provider about any side effect that bothers you or does not go away.
-
-These are not all the side effects with fluticasone propionate nasal spray.
-Ask your healthcare provider or pharmacist for more information.
+These are not all the possible side effects with fluticasone propionate nasal spray.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -178,17 +167,15 @@ Do not use fluticasone propionate nasal spray for a condition for which it was n
 Do not give your fluticasone propionate nasal spray to other people, even if they have the same condition that you have.
 It may harm them.
 
-This Patient Information leaflet summarizes the most important information about fluticasone propionate nasal spray.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about fluticasone propionate nasal spray that was written for healthcare professionals.
-
-For more information about fluticasone propionate nasal spray, call 1-800-962-8364.
 
 What are the ingredients in fluticasone propionate nasal spray?
 
 Active ingredient: fluticasone propionate USP.
 
 Inactive ingredients: 0.02% w/w benzalkonium chloride, dextrose, microcrystalline cellulose and carboxymethylcellulose sodium, 0.25% w/w phenylethyl alcohol and polysorbate 80.
+
+For more information about fluticasone propionate nasal spray, call 1-800-962-8364.
 
 Instructions for Use
 
@@ -277,6 +264,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10002064/08
+10002064/09
 
-Revised March 2016
+Revised January 2019
