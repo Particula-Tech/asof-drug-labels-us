@@ -1,4 +1,4 @@
-# Package/Label Display Panel – 160/4.5
+# PACKAGE/LABEL DISPLAY PANEL – 160/4.5
 
 NDC 0186-0370-20
 
@@ -26,7 +26,7 @@ Dunkerque, France Product of France
 
 AstraZeneca
 
-# Package/Label Display Panel – 80/4.5
+# PACKAGE/LABEL DISPLAY PANEL – 80/4.5
 
 NDC 0186-0372-20
 
