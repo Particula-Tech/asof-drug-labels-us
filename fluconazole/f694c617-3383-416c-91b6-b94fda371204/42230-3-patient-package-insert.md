@@ -40,7 +40,7 @@ If you get a vaginal yeast infection, you may have any of the following symptoms
 
 What To Tell Your Doctor Before You Start DIFLUCAN?
 
-Do not take Diflucan if you take certain medicines.
+Do not take DIFLUCAN if you take certain medicines.
 They can cause serious problems.
 Therefore, tell your doctor about all the medicines you take including:
 
@@ -59,7 +59,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - pimozide for psychiatric illness
 - amphotericin B or voriconazole for fungal infections
 - erythromycin for bacterial infections
-- cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
+- olaparib, cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - fentanyl, afentanil or methadone for chronic pain
 - halofantrine for malaria
 - lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
@@ -77,7 +77,7 @@ Since there are many brand names for these medicines, check with your doctor or 
 - are pregnant, plan to become pregnant, or think you might be pregnant.
   Your doctor will discuss whether DIFLUCAN is right for you.
   Women who can become pregnant should think about using effective birth control while taking DIFLUCAN.
-- are breast-feeding.
+- are breastfeeding.
   DIFLUCAN can pass through breast milk to the baby.
 - are allergic to any other medicines including those used to treat yeast and other fungal infections.
 - are allergic to any of the ingredients in DIFLUCAN.
@@ -122,7 +122,9 @@ Allergic reactions to DIFLUCAN are rare, but they can be very serious if not tre
 If you cannot reach your doctor, go to the nearest hospital emergency room.
 Signs of an allergic reaction can include shortness of breath; coughing; wheezing; fever; chills; throbbing of the heart or ears; swelling of the eyelids, face, mouth, neck, or any other part of the body; or skin rash, hives, blisters or skin peeling.
 
-Diflucan has been linked to rare cases of serious liver damage, including deaths, mostly in patients with serious medical problems.
+Tell your doctor or pharmacist if you experience skin rash, fever, swollen glands, increase in a type of white blood cell (eosinophilia), and inflammation of internal organs (liver, lungs, heart, kidneys, and large intestine) as they may be signs of a hypersensitivity reaction (Drug Reaction or rash with Eosinophilia and Systemic Symptoms (DRESS)).
+
+DIFLUCAN has been linked to rare cases of serious liver damage, including deaths, mostly in patients with serious medical problems.
 Call your doctor if your skin or eyes become yellow, your urine turns a darker color, your stools (bowel movements) are light-colored, or if you vomit or feel like vomiting or if you have severe skin itching.
 
 In patients with serious conditions such as AIDS or cancer, rare cases of severe rashes with skin peeling have been reported.
@@ -131,6 +133,9 @@ Tell your doctor right away if you get a rash while taking DIFLUCAN.
 DIFLUCAN may cause other less common side effects besides those listed here.
 If you develop any side effects that concern you, call your doctor.
 For a list of all side effects, ask your doctor or pharmacist.
+
+Cases of reversible adrenal insufficiency have been reported with DIFLUCAN.
+Tell your doctor is you experience chronic, or long lasting fatigue, muscle weakness, loss of appetite, weight loss or abdominal pain.
 
 What to Do For an Overdose
 
@@ -153,4 +158,4 @@ You can ask your pharmacist or doctor for information about DIFLUCAN that is wri
 
 You can also visit the DIFLUCAN Internet site at www.diflucan.com.
 
-LAB-0380-8.0 Revised March 2018
+LAB-0380-9.0 Revised 02/2019

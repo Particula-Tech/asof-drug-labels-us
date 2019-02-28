@@ -14,14 +14,13 @@ Fatal outcomes have been reported in patients with serious underlying diseases.
 Patients with deep seated fungal infections who develop rashes during treatment with DIFLUCAN should be monitored closely and the drug discontinued if lesions progress.
 Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 
-(4) Potential for Fetal Harm
-
-There are no adequate and well-controlled clinical trials of DIFLUCAN in pregnant women.
-Case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400–800 mg/day) during most or all of the first trimester.
+(4) Potential for fetal harm: There are no adequate and well-controlled clinical trials of DIFLUCAN in pregnant women.
+Case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400 to 800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
 If DIFLUCAN is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
 Effective contraceptive measures should be considered in women of child-bearing potential who are being treated with DIFLUCAN 400 to 800 mg/day and should continue throughout the treatment period and for approximately 1 week (5 to 6 half-lives) after the final dose.
-Epidemiological studies suggest a potential risk of spontaneous abortion and congenital abnormalities in infants whose mothers were treated with 150 mg of fluconazole as a single or repeated dose in the first trimester, but these epidemiological studies have limitations and these findings have not been confirmed in controlled clinical trials (See PRECAUTIONS: Pregnancy.)
+Epidemiological studies suggest a potential risk of spontaneous abortion and congenital abnormalities in infants whose mothers were treated with 150 mg of fluconazole as a single or repeated dose in the first trimester, but these epidemiological studies have limitations and these findings have not been confirmed in controlled clinical trials.
+(See PRECAUTIONS: Pregnancy.)
 
 # PRECAUTIONS
 
@@ -42,8 +41,8 @@ This combination should be avoided.
 
 Fluconazole should be administered with caution to patients with renal dysfunction.
 
-Fluconazole is a potent CYP2C9 inhibitor and a moderate CYP3A4 inhibitor.
-Fluconazole treated-patients who are concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4 should be monitored.
+Adrenal insufficiency has been reported in patients receiving azoles, including fluconazole.
+Reversible cases of adrenal insufficiency have been reported in patients receiving fluconazole.
 
 DIFLUCAN Powder for Oral Suspension contains sucrose and should not be used in patients with hereditary fructose, glucose/galactose malabsorption, and sucrase-isomaltase deficiency.
 
@@ -56,140 +55,14 @@ The convenience and efficacy of the single dose oral tablet of fluconazole regim
 
 ## Drug Interactions
 
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies and CONTRAINDICATIONS.)
-DIFLUCAN is a potent inhibitor of cytochrome P450 (CYP) isoenzyme 2C9 and 2C19, and a moderate inhibitor of CYP3A4.
+(See CONTRAINDICATIONS.)
+Fluconazole is a moderate CYP2C9 and CYP3A4 inhibitor.
+Fluconazole is also a strong inhibitor of CYP2C19.
+Patients treated with DIFLUCAN, who are also concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4, should be monitored for adverse reactions associated with the concomitantly administered drugs.
 In addition to the observed /documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19, and CYP3A4 coadministered with fluconazole.
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
-Clinically or potentially significant drug interactions between DIFLUCAN and the following agents/classes have been observed.
-These are described in greater detail below:
-
-Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Quinidine Hydrochlorothiazide Alfentanil Amiodarone Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
-
-### Oral hypoglycemics
-
-Clinically significant hypoglycemia may be precipitated by the use of DIFLUCAN with oral hypoglycemic agents; one fatality has been reported from hypoglycemia in association with combined DIFLUCAN and glyburide use.
-DIFLUCAN reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents.
-When DIFLUCAN is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Coumarin-type anticoagulants
-
-Prothrombin time may be increased in patients receiving concomitant DIFLUCAN and coumarin-type anticoagulants.
-In post-marketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving fluconazole concurrently with warfarin.
-Careful monitoring of prothrombin time in patients receiving DIFLUCAN and coumarin-type anticoagulants is recommended.
-Dose adjustment of warfarin may be necessary.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Phenytoin
-
-DIFLUCAN increases the plasma concentrations of phenytoin.
-Careful monitoring of phenytoin concentrations in patients receiving DIFLUCAN and phenytoin is recommended.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Cyclosporine
-
-DIFLUCAN significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
-Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving DIFLUCAN and cyclosporine.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies).
-This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
-
-### Rifampin
-
-Rifampin enhances the metabolism of concurrently administered DIFLUCAN.
-Depending on clinical circumstances, consideration should be given to increasing the dose of DIFLUCAN when it is administered with rifampin.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Theophylline
-
-DIFLUCAN increases the serum concentrations of theophylline.
-Careful monitoring of serum theophylline concentrations in patients receiving DIFLUCAN and theophylline is recommended.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Terfenadine
-
-Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed.
-One study at a 200 mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
-Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg/ day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
-The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated.
-(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored.
-
-### Cisapride
-
-There have been reports of cardiac events, including torsade de pointes, in patients to whom fluconazole and cisapride were coadministered.
-A controlled study found that concomitant treatment with fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
-The combined use of fluconazole with cisapride is contraindicated.
-(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Astemizole
-
-Concomitant administration of fluconazole with astemizole may decrease the clearance of astemizole.
-Resulting increased plasma concentrations of astemizole can lead to QT prolongation and rare occurrences of torsade de pointes.
-Coadministration of fluconazole and astemizole is contraindicated.
-
-### Rifabutin
-
-There have been reports that an interaction exists when fluconazole is administered concomitantly with rifabutin, leading to increased serum levels of rifabutin up to 80%.
-There have been reports of uveitis in patients to whom fluconazole and rifabutin were coadministered.
-Patients receiving rifabutin and fluconazole concomitantly should be carefully monitored.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Voriconazole
-
-Avoid concomitant administration of voriconazole and fluconazole.
-Monitoring for adverse events and toxicity related to voriconazole is recommended; especially, if voriconazole is started within 24 h after the last dose of fluconazole.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Tacrolimus
-
-Fluconazole may increase the serum concentrations of orally administered tacrolimus up to 5 times due to inhibition of tacrolimus metabolism through CYP3A4 in the intestines.
-No significant pharmacokinetic changes have been observed when tacrolimus is given intravenously.
-Increased tacrolimus levels have been associated with nephrotoxicity.
-Dosage of orally administered tacrolimus should be decreased depending on tacrolimus concentration.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Short-acting Benzodiazepines
-
-Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects.
-This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously.
-If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Tofacitinib
-
-Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole, a combined moderate CYP3A4 and potent CYP2C19 inhibitor.
-Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-### Triazolam
-
-Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t½ by 25% to 50 % due to the inhibition of metabolism of triazolam.
-Dosage adjustments of triazolam may be necessary.
-
-### Oral contraceptives
-
-Two pharmacokinetic studies with a combined oral contraceptive have been performed using multiple doses of fluconazole.
-There were no relevant effects on hormone level in the 50 mg fluconazole study, while at 200 mg daily, the AUCs of ethinyl estradiol and levonorgestrel were increased 40% and 24%, respectively.
-Thus, multiple-dose use of fluconazole at these doses is unlikely to have an effect on the efficacy of the combined oral contraceptive.
-
-### Pimozide
-
-Although not studied in vitro or in vivo, concomitant administration of fluconazole with pimozide may result in inhibition of pimozide metabolism.
-Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
-Coadministration of fluconazole and pimozide is contraindicated.
-
-### Quinidine
-
-Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
-Use of quinidine has been associated with QT prolongation and rare occurrences of torsade de pointes.
-Coadministration of fluconazole and quinidine is contraindicated.
-(See CONTRAINDICATIONS.)
-
-### Hydrochlorothiazide
-
-In a pharmacokinetic interaction study, coadministration of multiple dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
-An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
+Clinically or potentially significant drug interactions between DIFLUCAN and the following agents/classes have been observed and are described in greater detail below:
 
 ### Alfentanil
 
@@ -213,16 +86,16 @@ Dosage of amitriptyline/nortriptyline should be adjusted, if necessary.
 Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with Candida albicans, no interaction in intracranial infection with Cryptococcus neoformans, and antagonism of the two drugs in systemic infection with A. fumigatus.
 The clinical significance of results obtained in these studies is unknown.
 
+### Astemizole
+
+Concomitant administration of fluconazole with astemizole may decrease the clearance of astemizole.
+Resulting increased plasma concentrations of astemizole can lead to QT prolongation and rare occurrences of torsade de pointes.
+Coadministration of fluconazole and astemizole is contraindicated.
+
 ### Azithromycin
 
 An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 1200 mg oral dose of azithromycin on the pharmacokinetics of a single 800 mg oral dose of fluconazole as well as the effects of fluconazole on the pharmacokinetics of azithromycin.
 There was no significant pharmacokinetic interaction between fluconazole and azithromycin.
-
-### Carbamazepine
-
-Fluconazole inhibits the metabolism of carbamazepine and an increase in serum carbamazepine of 30% has been observed.
-There is a risk of developing carbamazepine toxicity.
-Dosage adjustment of carbamazepine may be necessary depending on concentration measurements/effect.
 
 ### Calcium channel blockers
 
@@ -230,15 +103,43 @@ Certain calcium channel antagonists (nifedipine, isradipine, amlodipine, verapam
 Fluconazole has the potential to increase the systemic exposure of the calcium channel antagonists.
 Frequent monitoring for adverse events is recommended.
 
+### Carbamazepine
+
+Fluconazole inhibits the metabolism of carbamazepine and an increase in serum carbamazepine of 30% has been observed.
+There is a risk of developing carbamazepine toxicity.
+Dosage adjustment of carbamazepine may be necessary depending on concentration measurements/effect.
+
 ### Celecoxib
 
 During concomitant treatment with fluconazole (200 mg daily) and celecoxib (200 mg), the celecoxib Cmax and AUC increased by 68% and 134%, respectively.
 Half of the celecoxib dose may be necessary when combined with fluconazole.
 
+### Cisapride
+
+There have been reports of cardiac events, including torsade de pointes, in patients to whom fluconazole and cisapride were coadministered.
+A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
+The combined use of fluconazole with cisapride is contraindicated.
+(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Coumarin-type anticoagulants
+
+Prothrombin time may be increased in patients receiving concomitant DIFLUCAN and coumarin-type anticoagulants.
+In post-marketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving fluconazole concurrently with warfarin.
+Careful monitoring of prothrombin time in patients receiving DIFLUCAN and coumarin-type anticoagulants is recommended.
+Dose adjustment of warfarin may be necessary.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
 ### Cyclophosphamide
 
 Combination therapy with cyclophosphamide and fluconazole results in an increase in serum bilirubin and serum creatinine.
 The combination may be used while taking increased consideration to the risk of increased serum bilirubin and serum creatinine.
+
+### Cyclosporine
+
+DIFLUCAN significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
+Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving DIFLUCAN and cyclosporine.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
 
 ### Fentanyl
 
@@ -256,6 +157,11 @@ Fluconazole can increase halofantrine plasma concentration due to an inhibitory 
 The risk of myopathy and rhabdomyolysis increases when fluconazole is coadministered with HMG-CoA reductase inhibitors metabolized through CYP3A4, such as atorvastatin and simvastatin, or through CYP2C9, such as fluvastatin.
 If concomitant therapy is necessary, the patient should be observed for symptoms of myopathy and rhabdomyolysis and creatinine kinase should be monitored.
 HMG-CoA reductase inhibitors should be discontinued if a marked increase in creatinine kinase is observed or myopathy/rhabdomyolysis is diagnosed or suspected.
+
+### Hydrochlorothiazide
+
+In a pharmacokinetic interaction study, coadministration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
+An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
 
 ### Losartan
 
@@ -276,21 +182,112 @@ Although not specifically studied, fluconazole has the potential to increase the
 Frequent monitoring for adverse events and toxicity related to NSAIDs is recommended.
 Adjustment of dosage of NSAIDs may be needed.
 
+### Olaparib
+
+Moderate inhibitors of CYP3A4 such as fluconazole increase olaparib plasma concentrations; concomitant use is not recommended.
+If the combination cannot be avoided, reduce the dose of olaparib as instructed in the LYNPARZA® (Olaparib) Prescribing Information.
+
+### Oral contraceptives
+
+Two pharmacokinetic studies with a combined oral contraceptive have been performed using multiple doses of fluconazole.
+There were no relevant effects on hormone level in the 50 mg fluconazole study, while at 200 mg daily, the AUCs of ethinyl estradiol and levonorgestrel were increased 40% and 24%, respectively.
+Thus, multiple-dose use of fluconazole at these doses is unlikely to have an effect on the efficacy of the combined oral contraceptive.
+
+### Oral hypoglycemics
+
+Clinically significant hypoglycemia may be precipitated by the use of DIFLUCAN with oral hypoglycemic agents; one fatality has been reported from hypoglycemia in association with combined DIFLUCAN and glyburide use.
+DIFLUCAN reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents.
+When DIFLUCAN is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Phenytoin
+
+DIFLUCAN increases the plasma concentrations of phenytoin.
+Careful monitoring of phenytoin concentrations in patients receiving DIFLUCAN and phenytoin is recommended.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Pimozide
+
+Although not studied in vitro or in vivo, concomitant administration of fluconazole with pimozide may result in inhibition of pimozide metabolism.
+Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
+Coadministration of fluconazole and pimozide is contraindicated.
+
 ### Prednisone
 
 There was a case report that a liver-transplanted patient treated with prednisone developed acute adrenal cortex insufficiency when a 3 month therapy with fluconazole was discontinued.
 The discontinuation of fluconazole presumably caused an enhanced CYP3A4 activity which led to increased metabolism of prednisone.
 Patients on long-term treatment with fluconazole and prednisone should be carefully monitored for adrenal cortex insufficiency when fluconazole is discontinued.
 
+### Quinidine
+
+Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsade de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS.)
+
+### Rifabutin
+
+There have been reports that an interaction exists when fluconazole is administered concomitantly with rifabutin, leading to increased serum levels of rifabutin up to 80%.
+There have been reports of uveitis in patients to whom fluconazole and rifabutin were coadministered.
+Patients receiving rifabutin and fluconazole concomitantly should be carefully monitored.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Rifampin
+
+Rifampin enhances the metabolism of concurrently administered DIFLUCAN.
+Depending on clinical circumstances, consideration should be given to increasing the dose of DIFLUCAN when it is administered with rifampin.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
 ### Saquinavir
 
 Fluconazole increases the AUC of saquinavir by approximately 50%, Cmax by approximately 55%, and decreases the clearance of saquinavir by approximately 50% due to inhibition of saquinavir's hepatic metabolism by CYP3A4 and inhibition of P-glycoprotein.
 Dosage adjustment of saquinavir may be necessary.
 
+### Short-acting benzodiazepines
+
+Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects.
+This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously.
+If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
 ### Sirolimus
 
 Fluconazole increases plasma concentrations of sirolimus presumably by inhibiting the metabolism of sirolimus via CYP3A4 and P-glycoprotein.
 This combination may be used with a dosage adjustment of sirolimus depending on the effect/concentration measurements.
+
+### Tacrolimus
+
+Fluconazole may increase the serum concentrations of orally administered tacrolimus up to 5 times due to inhibition of tacrolimus metabolism through CYP3A4 in the intestines.
+No significant pharmacokinetic changes have been observed when tacrolimus is given intravenously.
+Increased tacrolimus levels have been associated with nephrotoxicity.
+Dosage of orally administered tacrolimus should be decreased depending on tacrolimus concentration.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Terfenadine
+
+Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed.
+One study at a 200 mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
+Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg/day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
+The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated.
+(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored.
+
+### Theophylline
+
+DIFLUCAN increases the serum concentrations of theophylline.
+Careful monitoring of serum theophylline concentrations in patients receiving DIFLUCAN and theophylline is recommended.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Tofacitinib
+
+Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole.
+Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Triazolam
+
+Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t½ by 25% to 50 % due to the inhibition of metabolism of triazolam.
+Dosage adjustments of triazolam may be necessary.
 
 ### Vinca alkaloids
 
@@ -300,6 +297,12 @@ Although not studied, fluconazole may increase the plasma levels of the vinca al
 
 Based on a case report in one patient receiving combination therapy with all-trans-retinoid acid (an acid form of vitamin A) and fluconazole, central nervous system (CNS) related undesirable effects have developed in the form of pseudotumor cerebri, which disappeared after discontinuation of fluconazole treatment.
 This combination may be used but the incidence of CNS related undesirable effects should be borne in mind.
+
+### Voriconazole
+
+Avoid concomitant administration of voriconazole and fluconazole.
+Monitoring for adverse events and toxicity related to voriconazole is recommended; especially, if voriconazole is started within 24 h after the last dose of fluconazole.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Zidovudine
 
@@ -312,8 +315,8 @@ Physicians should be aware that interaction studies with medications other than 
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Fluconazole showed no evidence of carcinogenic potential in mice and rats treated orally for 24 months at doses of 2.5, 5, or 10 mg/kg/day (approximately 2 to 7 times the recommended human dose).
-Male rats treated with 5 and 10 mg/kg/day had an increased incidence of hepatocellular adenomas.
+Fluconazole showed no evidence of carcinogenic potential in mice and rats treated orally for 24 months at doses of 2.5 mg/kg/day, 5 mg/kg/day, or 10 mg/kg/day (approximately 2 to 7 times the recommended human dose).
+Male rats treated with 5 mg/kg/day and 10 mg/kg/day had an increased incidence of hepatocellular adenomas.
 
 Fluconazole, with or without metabolic activation, was negative in tests for mutagenicity in four strains of S. typhimurium, and in the mouse lymphoma L5178Y system.
 Cytogenetic studies in vivo (murine bone marrow cells, following oral administration of fluconazole) and in vitro (human lymphocytes exposed to fluconazole at 1000 mcg/mL) showed no evidence of chromosomal mutations.
@@ -329,26 +332,28 @@ Such a hormone change has not been observed in women treated with fluconazole.
 
 ### Teratogenic Effects
 
-Potential for Fetal Harm: Use in pregnancy should be avoided except in patients with severe or potentially life-threatening fungal infections in whom fluconazole may be used if the anticipated benefit outweighs the possible risk to the fetus.
-A few published case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400–800 mg/day) during most or all of the first trimester.
+#### Potential for Fetal Harm
+
+Use in pregnancy should be avoided except in patients with severe or potentially life-threatening fungal infections in whom fluconazole may be used if the anticipated benefit outweighs the possible risk to the fetus.
+A few published case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400 to 800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
-Effective contraceptive measures should be considered in women of child-bearing potential who are being treated with DIFLUCAN 400–800 mg/day and should continue throughout the treatment period and for approximately 1 week (5 to 6 half-lives) after the final dose.
+Effective contraceptive measures should be considered in women of child-bearing potential who are being treated with DIFLUCAN 400 to 800 mg/day and should continue throughout the treatment period and for approximately 1 week (5 to 6 half-lives) after the final dose.
 If DIFLUCAN is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
 Spontaneous abortions and congenital abnormalities have been suggested as potential risks associated with 150 mg of fluconazole as a single or repeated dose in the first trimester of pregnancy based on retrospective epidemiological studies.
 There are no adequate and well-controlled studies of DIFLUCAN in pregnant women.
-(See WARNINGS: Use in Pregnancy.)
+(See WARNINGS: Potential for Fetal Harm.)
 
-Human Data
+#### Human Data
 
-Case reports describe a distinctive and rare pattern of birth defects among infants whose mothers received high-dose (400 mg/day - 800 mg/day) fluconazole during most or all of the first trimester of pregnancy.
+Case reports describe a distinctive and rare pattern of birth defects among infants whose mothers received high-dose (400 to 800 mg/day) fluconazole during most or all of the first trimester of pregnancy.
 The features seen in these infants include brachycephaly, abnormal facies, abnormal calvarial development, cleft palate, femoral bowing, thin ribs and long bones, arthrogryposis, and congenital heart disease.
 These effects are similar to those seen in animal studies.
 
 Epidemiological studies suggest a potential risk of spontaneous abortion and congenital abnormalities in infants whose mothers were treated with 150 mg of fluconazole as a single or repeated dose in the first trimester, but these epidemiological studies have limitations and these findings have not been confirmed in controlled clinical trials.
 
-Animal Data
+#### Animal Data
 
-Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies at doses of 5, 10, and 20 mg/kg and at 5, 25, and 75 mg/kg, respectively.
+Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies at doses of 5 mg/kg, 10 mg/kg, and 20 mg/kg and at 5 mg/kg, 25 mg/kg, and 75 mg/kg, respectively.
 Maternal weight gain was impaired at all dose levels (approximately 0.25 to 4 times the 400 mg clinical dose based on body surface area [BSA] comparison), and abortions occurred at 75 mg/kg (approximately 4 times the 400 mg clinical dose based on BSA); no adverse fetal effects were observed.
 
 In several studies in which pregnant rats received fluconazole orally during organogenesis, maternal weight gain was impaired and placental weights were increased at 25 mg/kg.
@@ -358,7 +363,11 @@ These effects are consistent with the inhibition of estrogen synthesis in rats a
 
 ## Nursing Mothers
 
-Fluconazole is secreted in human milk at concentrations similar to maternal plasma concentrations.
+Fluconazole was present in low levels in breast milk following administration of a single 150 mg dose, based on data from a study in 10 breastfeeding women who temporarily or permanently discontinued breastfeeding 5 days to 19 months postpartum.
+The estimated daily infant dose of fluconazole from breast milk (assuming mean milk consumption of 150 mL/kg/day) based on the mean peak milk concentration (2.61 mcg/mL [range: 1.57 to 3.65 mcg/mL] at 5.2 hours post-dose) was 0.39 mg/kg/day, which is approximately 13% of the recommended pediatric dose for oropharyngeal candidiasis.
+(Labeled pediatric dose is 6 mg/kg/day on the first day followed by 3 mg/kg/day; estimated infant dose is 13% of 3 mg/kg/day maintenance dose).
+There are no data on fluconazole levels in milk after repeated use or after high-dose fluconazole.
+A published survey of 96 breastfeeding women who were treated with fluconazole 150 mg every other day (average of 7.3 capsules [range 1 to 29 capsules]) for lactation-associated candida of the breasts reported no serious adverse reactions in infants.
 Caution should be exercised when DIFLUCAN is administered to a nursing woman.
 
 ## Pediatric Use

@@ -38,7 +38,7 @@ The overall rate of serum transaminase elevations of more than 8 times the upper
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
 The incidence of abnormally elevated serum transaminases was greater in patients taking DIFLUCAN concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
 
-#### Post-Marketing Experience
+## Post-Marketing Experience
 
 In addition, the following adverse events have occurred during post-marketing experience.
 
@@ -63,7 +63,7 @@ Musculoskeletal System: myalgia.
 
 Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
-Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
+Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (see WARNINGS), alopecia.
 
 ## Adverse Reactions in Children
 

@@ -8,13 +8,11 @@ Bioequivalence was established between the 100 mg tablet and both suspension str
 
 Peak plasma concentrations (Cmax) in fasted normal volunteers occur between 1 and 2 hours with a terminal plasma elimination half-life of approximately 30 hours (range: 20 to 50 hours) after oral administration.
 
-In fasted normal volunteers, administration of a single oral 400 mg dose of DIFLUCAN (fluconazole) leads to a mean Cmax of 6.72 µg/mL (range: 4.12 to 8.08 µg/mL) and after single oral doses of 50 to 400 mg, fluconazole plasma concentrations and area under the plasma concentration-time curve (AUC) are dose proportional.
+In fasted normal volunteers, administration of a single oral 400 mg dose of DIFLUCAN (fluconazole) leads to a mean Cmax of 6.72 mcg/mL (range: 4.12 to 8.08 mcg/mL) and after single oral doses of 50 to 400 mg, fluconazole plasma concentrations and area under the plasma concentration-time curve (AUC) are dose proportional.
 
 The Cmax and AUC data from a food-effect study involving administration of DIFLUCAN (fluconazole) tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that exposure to the drug is not affected by food.
 Therefore, DIFLUCAN may be taken without regard to meals.
 (See DOSAGE AND ADMINISTRATION.)
-
-Administration of a single oral 150 mg tablet of DIFLUCAN (fluconazole) to ten lactating women resulted in a mean Cmax of 2.61 µg/mL (range: 1.57 to 3.65 µg/mL).
 
 Steady-state concentrations are reached within 5 to 10 days following oral doses of 50 to 400 mg given once daily.
 Administration of a loading dose (on Day 1) of twice the usual daily dose results in plasma concentrations close to steady-state by the second day.
@@ -57,10 +55,10 @@ In normal volunteers, DIFLUCAN administration (doses ranging from 200 mg to 400 
 
 In children, the following pharmacokinetic data {Mean (%cv)} have been reported:
 
-| Age Studied | Dose (mg/kg) | Clearance (mL/min/kg) | Half-life (Hours) | Cmax (µg/mL) | Vdss (L/kg) |
+| Age Studied | Dose (mg/kg) | Clearance (mL/min/kg) | Half-life (Hours) | Cmax (mcg/mL) | Vdss (L/kg) |
 | --- | --- | --- | --- | --- | --- |
-| 9 Months– 13 years | Single-Oral 2 mg/kg | 0.40 (38%) N=14 | 25.0 | 2.9 (22%) N=16 | — |
-| 9 Months– 13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | — |
+| 9 months–13 years | Single-Oral 2 mg/kg | 0.40 (38%) N=14 | 25.0 | 2.9 (22%) N=16 | ___ |
+| 9 months–13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | ___ |
 | 5–15 years | Multiple IV 2 mg/kg | 0.49 (40%) N=4 | 17.4 | 5.5 (25%) N=5 | 0.722 (36%) N=4 |
 | 5–15 years | Multiple IV 4 mg/kg | 0.59 (64%) N=5 | 15.2 | 11.4 (44%) N=6 | 0.729 (33%) N=5 |
 | 5–15 years | Multiple IV 8 mg/kg | 0.66 (31%) N=7 | 17.6 | 14.1 (22%) N=8 | 1.069 (37%) N=7 |
@@ -81,10 +79,12 @@ These pharmacokinetic parameter values are higher than analogous values reported
 Coadministration of diuretics did not significantly alter the AUC or Cmax.
 In addition, creatinine clearance (74 mL/min), the percent of drug recovered unchanged in urine (0 to 24 hours, 22%), and the fluconazole renal clearance estimates (0.124 mL/min/kg) for the elderly were generally lower than those of younger volunteers.
 Thus, the alteration of fluconazole disposition in the elderly appears to be related to reduced renal function characteristic of this group.
-A plot of each subject's terminal elimination half-life versus creatinine clearance compared to the predicted half-life- creatinine clearance curve derived from normal subjects and subjects with varying degrees of renal insufficiency indicated that 21 of 22 subjects fell within the 95% confidence limit of the predicted half-life-creatinine clearance curves.
+A plot of each subject's terminal elimination half-life versus creatinine clearance compared to the predicted half-life – creatinine clearance curve derived from normal subjects and subjects with varying degrees of renal insufficiency indicated that 21 of 22 subjects fell within the 95% confidence limit of the predicted half-life-creatinine clearance curves.
 These results are consistent with the hypothesis that higher values for the pharmacokinetic parameters observed in the elderly subjects compared to normal young male volunteers are due to the decreased kidney function that is expected in the elderly.
 
 ## Drug Interaction Studies
+
+(See PRECAUTIONS, Drug Interactions)
 
 ### Oral contraceptives
 
@@ -101,7 +101,7 @@ Both of these increases were statistically significantly different from placebo.
 
 A third study evaluated the potential interaction of once-weekly dosing of fluconazole 300 mg to 21 normal females taking an oral contraceptive containing ethinyl estradiol and norethindrone.
 In this placebo-controlled, double-blind, randomized, two-way crossover study carried out over three cycles of oral contraceptive treatment, fluconazole dosing resulted in small increases in the mean AUCs of ethinyl estradiol and norethindrone compared to similar placebo dosing.
-The mean AUCs of ethinyl estradiol and norethindrone increased by 24% (95% C.I. range: 18 to 31%) and 13% (95% C.I. range: 8 to18%), respectively, relative to placebo.
+The mean AUCs of ethinyl estradiol and norethindrone increased by 24% (95% C.I. range: 18 to 31%) and 13% (95% C.I. range: 8 to 18%), respectively, relative to placebo.
 Fluconazole treatment did not cause a decrease in the ethinyl estradiol AUC of any individual subject in this study compared to placebo dosing.
 The individual AUC values of norethindrone decreased very slightly (<5%) in 3 of the 21 subjects after fluconazole treatment.
 
@@ -179,7 +179,7 @@ Fluconazole 200 mg was administered daily from days 9 through 15.
 Fluconazole did not affect terfenadine plasma concentrations.
 Terfenadine acid metabolite AUC increased 36% ± 36% (range: 7 to 102%) from Day 8 to Day 15 with the concomitant administration of fluconazole.
 There was no change in cardiac repolarization as measured by Holter QTc intervals.
-Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg/ day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
+Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg/day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 (See CONTRAINDICATIONS and PRECAUTIONS.)
 
 ### Quinidine
@@ -196,20 +196,20 @@ All subjects received the sulfonylurea alone as a single dose and again as a sin
 In these three studies, 22/46 (47.8%) of DIFLUCAN-treated patients and 9/22 (40.1%) of placebo-treated patients experienced symptoms consistent with hypoglycemia.
 (See PRECAUTIONS.)
 
-#### Tolbutamide
+### Tolbutamide
 
 In 13 normal male volunteers, there was significant increase in tolbutamide (500 mg single dose) AUC and Cmax following the administration of fluconazole.
 There was a mean ± SD increase in tolbutamide AUC of 26% ± 9% (range: 12 to 39%).
 Tolbutamide Cmax increased 11% ± 9% (range: –6 to 27%).
 (See PRECAUTIONS.)
 
-#### Glipizide
+### Glipizide
 
 The AUC and Cmax of glipizide (2.5 mg single dose) were significantly increased following the administration of fluconazole in 13 normal male volunteers.
 There was a mean ± SD increase in AUC of 49% ± 13% (range: 27 to 73%) and an increase in Cmax of 19% ± 23% (range: –11 to 79%).
 (See PRECAUTIONS.)
 
-#### Glyburide
+### Glyburide
 
 The AUC and Cmax of glyburide (5 mg single dose) were significantly increased following the administration of fluconazole in 20 normal male volunteers.
 There was a mean ± SD increase in AUC of 44% ± 29% (range: –13 to 115%) and Cmax increased 19% ± 19% (range: –23 to 62%).
@@ -263,7 +263,7 @@ There was no significant pharmacokinetic interaction between fluconazole and azi
 ### Voriconazole
 
 Voriconazole is a substrate for both CYP2C9 and CYP3A4 isoenzymes.
-Concurrent administration of oral Voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 2.5 days) and oral fluconazole (400 mg on Day 1, then 200 mg Q24h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
+Concurrent administration of oral Voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 2.5 days) and oral fluconazole (400 mg on Day 1, then 200 mg Q24h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20% to 107%) and 79% (90% CI: 40% to 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect.
 Concomitant administration of voriconazole and fluconazole at any dose is not recommended.
 Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 h of the last dose of fluconazole.
@@ -271,7 +271,7 @@ Close monitoring for adverse events related to voriconazole is recommended if vo
 
 ### Tofacitinib
 
-Co-administration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2–7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% – 96%) and 27% (90% CI: 12% to 44%), respectively, compared to administration of tofacitinib alone.
+Coadministration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2–7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% to 96%) and 27% (90% CI: 12% to 44%), respectively, compared to administration of tofacitinib alone.
 (See PRECAUTIONS.)
 
 ## Microbiology
