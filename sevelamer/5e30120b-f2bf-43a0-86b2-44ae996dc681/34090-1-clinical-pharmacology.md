@@ -1,13 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Patients with chronic kidney disease (CKD) on dialysis retain phosphorus and can develop hyperphosphatemia.
-High serum phosphorus can precipitate serum calcium resulting in ectopic calcification.
-When the product of serum calcium and phosphorus concentrations (Ca × P) exceeds 55 mg2/dL2, there is an increased risk that ectopic calcification will occur.
-Hyperphosphatemia plays a role in the development of secondary hyperparathyroidism in renal insufficiency.
-
-Treatment of hyperphosphatemia includes reduction in dietary intake of phosphate, inhibition of intestinal phosphate absorption with phosphate binders, and removal of phosphate with dialysis.
-Renagel taken with meals has been shown to decrease serum phosphorus concentrations in patients with CKD who are on dialysis.
-
 ## 12.1 Mechanism of Action
 
 Renagel contains sevelamer hydrochloride, a non-absorbed binding crosslinked polymer.
@@ -32,10 +24,10 @@ Drug Interactions
 
 In vivo
 
-Sevelamer carbonate has been studied in human drug-drug interaction studies (9.6 grams once daily with a meal) with warfarin and digoxin.
-Sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, has been studied in human drug-drug interaction studies (2.4–2.8 grams single dose or three times daily with meals or two times daily without meals) with ciprofloxacin, digoxin, enalapril, iron, metoprolol, mycophenolate mofetil and warfarin.
+Sevelamer carbonate has been studied in human drug-drug interaction studies (9.6 g once daily with a meal) with warfarin and digoxin.
+Sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, has been studied in human drug-drug interaction studies (2.4–2.8 g single dose or three times daily with meals or two times daily without meals) with ciprofloxacin, digoxin, enalapril, iron, metoprolol, mycophenolate mofetil and warfarin.
 
-Coadministered single dose of 2.8 grams of sevelamer hydrochloride in fasted state decreased the bioavailability of ciprofloxacin by approximately 50% in healthy subjects.
+Coadministered single dose of 2.8 g of sevelamer hydrochloride in fasted state decreased the bioavailability of ciprofloxacin by approximately 50% in healthy subjects.
 
 Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0–12h by 36% and 26%, respectively.
 

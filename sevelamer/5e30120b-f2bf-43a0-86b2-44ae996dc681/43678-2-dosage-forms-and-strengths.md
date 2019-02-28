@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-800 mg and 400 mg tablets.
+Tablets: 800 mg white, oval, film-coated, compressed tablets imprinted with "RENAGEL 800."

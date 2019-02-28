@@ -1,9 +1,3 @@
-Manufactured By:
+Genzyme Corporation Cambridge, MA 02142
 
-Genzyme Ireland Ltd.
-
-For: Genzyme Corporation
-
-500 Kendall Street
-
-Cambridge, MA 02142 USA
+Renagel is a Registered Trademark of Genzyme Corporation.

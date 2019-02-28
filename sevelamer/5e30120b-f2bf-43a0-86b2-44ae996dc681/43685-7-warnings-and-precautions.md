@@ -2,7 +2,7 @@
 
 ## 5.1 Gastrointestinal Adverse Events
 
-Cases of dysphagia and esophageal tablet retention have been reported in association with use of the tablet formulation of sevelamer, some requiring hospitalization and intervention.
+Dysphagia and esophageal tablet retention have been reported in association with use of sevelamer tablets, some requiring hospitalization and intervention.
 Consider using sevelamer suspension in patients with a history of swallowing disorders.
 
 Cases of bowel obstruction and perforation have also been reported with sevelamer use.

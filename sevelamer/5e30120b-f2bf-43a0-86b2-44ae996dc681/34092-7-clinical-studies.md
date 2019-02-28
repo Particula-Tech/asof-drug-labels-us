@@ -27,7 +27,7 @@ The distributions are similar for sevelamer hydrochloride and active control.
 The median response is a reduction of about 2 mg/dL in both groups.
 About 50% of subjects have reductions between 1 and 3 mg/dL.
 
-Figure 2: Percentage of Patients (Y-axis) Attaining a Phosphorus Reduction from Baseline (mg/dL) at Least as Great as the Value of the X-axis.
+Figure 2: Percentage of Patients (Y-axis) Attaining a Phosphorus Reduction from Baseline (mg/dL) at Least as Great as the Value of the X-axis
 
 Average daily Renagel dose at the end of treatment was 4.9 g (range of 0.0 to 12.6 g).
 
