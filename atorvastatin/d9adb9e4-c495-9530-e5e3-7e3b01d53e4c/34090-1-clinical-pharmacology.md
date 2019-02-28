@@ -109,7 +109,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 # See Sections 5.1 and 7 for clinical significance.
 
-* Greater increases in AUC (ratio of AUC up to 2.5) and/or Cmax (ratio of Cmax up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL to - 1.2 liters per day).
+* Greater increases in AUC (ratio of AUC up to 2.5) and/or Cmax (ratio of Cmax up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL to 1.2 liters per day).
 
 ** Ratio based on a single sample taken 8 to 16 h post dose.
 
