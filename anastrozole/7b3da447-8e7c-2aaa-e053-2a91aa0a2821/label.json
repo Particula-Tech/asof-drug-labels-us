@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206037"
+  ],
+  "inn": "anastrozole",
+  "labeler": "Yiling Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "69117-0003-1",
+    "69117-0003-4"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "anastrozole tablets",
+      "name": "Anastrozole"
+    }
+  ],
+  "setid": "7b3da447-8e7c-2aaa-e053-2a91aa0a2821",
+  "source": "dailymed"
+}
