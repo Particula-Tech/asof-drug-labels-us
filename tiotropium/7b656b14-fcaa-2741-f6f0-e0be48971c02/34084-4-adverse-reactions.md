@@ -22,7 +22,7 @@ Of these patients, 3282 patients were treated with SPIRIVA RESPIMAT 5 mcg and 32
 The SPIRIVA RESPIMAT 5 mcg group was composed mostly of Caucasians (78%) with a mean age of 65 years and a mean baseline percent predicted post-bronchodilator FEV1 of 46%.
 
 In these 7 clinical trials, 68.3% of patients exposed to SPIRIVA RESPIMAT 5 mcg reported an adverse event compared to 68.7% of patients in the placebo group.
-There were 68 deaths in the SPIRIVA RESPIMAT 5 mcg treatment group (2.1%) and 52 deaths (1.6%) in patients who received placebo [see Clinical Studies (14) Long-term active controlled mortality trial: Survival].
+There were 68 deaths in the SPIRIVA RESPIMAT 5 mcg treatment group (2.1%) and 52 deaths (1.6%) in patients who received placebo [see Clinical Studies (14) Long-term Active-Controlled Mortality Trial: Survival].
 The percentage of SPIRIVA RESPIMAT patients who discontinued due to an adverse event were 7.3% compared to 10% with placebo patients.
 The percentage of SPIRIVA RESPIMAT 5 mcg patients who experienced a serious adverse event were 15.0% compared to 15.1% with placebo patients.
 In both groups, the adverse event most commonly leading to discontinuation was COPD exacerbation (SPIRIVA RESPIMAT 2.0%, placebo 4.0%) which was also the most frequent serious adverse event.

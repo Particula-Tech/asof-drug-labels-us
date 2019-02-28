@@ -52,7 +52,7 @@ The flow rates were selected to be representative of inspiratory flow rates of c
 
 Table 3 summarizes the results for delivered dose under the respective test conditions and configurations.
 
-Table 3 In Vitro Medication Delivery through AeroChamber Plus Flow-Vu® Valved Holding Chamber with Face Mask at Different low Rates and Holding Times Using the Dose 2.5 mcg (as two actuations)
+Table 3 In Vitro Medication Delivery through AeroChamber Plus Flow-Vu® Valved Holding Chamber with Face Mask at Different Flow Rates and Holding Times Using the Dose 2.5 mcg (as two actuations)
 
 | Flow Rate (L/min) and corresponding age | Mask | Holding Time (seconds) | Mean Medication Delivery through AeroChamber Plus Flow-Vu® per Dose (mcg) | Body Weight 50th Percentile (kg)a | Medication Delivered per Dose(ng/kg)b |
 | --- | --- | --- | --- | --- | --- |
