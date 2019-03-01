@@ -95,6 +95,7 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
   Quetiapine can pass into your breast milk.
   You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
   You should not do both.
+- if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
 
@@ -180,13 +181,14 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
 - increases in blood pressure in children and teenagers.
   Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine tablets and during therapy.
-- low white blood cell count
+- low white blood cell count.
+  Tell your healthcare provider as soon as possible if you have a fever, flu-like symptoms, or any other infection, as this could be a result of a very low white blood cell count.
+  Your healthcare provider may check your white blood cell level to determine if further treatment or other action is needed.
 - cataracts
 - seizures
 - abnormal thyroid tests.
   Your healthcare provider may do blood tests to check your thyroid hormone level.
 - increases in prolactin levels.
-  Your healthcare provider may do blood tests to check your prolactin levels.
 - sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - increased body temperature
 - difficulty swallowing
@@ -197,16 +199,24 @@ The most common side effects of quetiapine tablets include:
 
 In Adults:
 
+- drowsiness
+- sudden drop in blood pressure upon standing
+- weight gain
+- sluggishness
+- abnormal liver tests
+- upset stomach
 - dry mouth
 - dizziness
 - weakness
 - abdominal pain
 - constipation
 - sore throat
-- difficulty moving
 
 In Children and Adolescents:
 
+- drowsiness
+- dizziness
+- fatigue
 - nausea
 - dry mouth
 - weight gain
@@ -259,4 +269,4 @@ United States.
 
 MADE IN INDIA.
 
-Rev: April 2017 ID#: 251262
+Rev: March 2019 ID#: 258597

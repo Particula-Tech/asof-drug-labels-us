@@ -31,7 +31,7 @@ Subsequently, the dose was titrated to the target dose of 400 mg/day or 800 mg/d
 The primary efficacy variable was the mean change from baseline in total Positive and Negative Syndrome Scale (PANSS).
 
 Quetiapine at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score.
-The primary efficacy results of this study in the treatment of schizophrenia in adolescents are presented in Table 19.
+The primary efficacy results of this study in the treatment of schizophrenia in adolescents is presented in Table 19.
 
 Table 19: Schizophrenia Short-Term Trials
 
@@ -165,6 +165,6 @@ In both studies, quetiapine was superior to placebo in increasing the time to re
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.
 The effect of quetiapine was independent of any specific subgroup (assigned mood stabilizer, sex, age, race, most recent bipolar episode, or rapid cycling course).
 
-Figure 1: Kaplan-Meier Curves of Time to Recurrence of A Mood Event (Study 7)
+Figure 1: Kaplan-Meier Curves of Time to Recurrence of a Mood Event (Study 7)
 
-Figure 2: Kaplan-Meier Curves of Time to Recurrence of A Mood Event (Study 8)
+Figure 2: Kaplan-Meier Curves of Time to Recurrence of a Mood Event (Study 8)
