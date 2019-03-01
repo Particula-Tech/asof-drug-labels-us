@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206791"
+  ],
+  "inn": "cisatracurium",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-141-01",
+    "70069-151-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "cisatracurium besylate",
+      "name": "Cisatracurium Besylate"
+    }
+  ],
+  "setid": "ed91f65b-e002-43bd-bfa0-5ce8b89119e6",
+  "source": "dailymed"
+}
