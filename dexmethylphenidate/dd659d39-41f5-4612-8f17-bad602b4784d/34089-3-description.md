@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-Dexmethylphenidate hydrochloride extended-release capsules are an extended-release formulation of dexmethylphenidate with a bi-modal release profile.
-Each dexmethylphenidate hydrochloride extended-release capsule contains a single type multilayered beads having half the dose as immediate-release component and half as enteric-coated, delayed-release component, thus providing an immediate-release of dexmethylphenidate and a second delayed-release of dexmethylphenidate.
-Dexmethylphenidate hydrochloride extended-release capsules are available as 5, 10, 15, 20, 25, 30, 35 and 40 mg strengths.
-Dexmethylphenidate hydrochloride extended-release capsules, 5, 10, 15, 20, 25, 30, 35 and 40 mg provide in a single dose the same amount of dexmethylphenidate as dosages of 2.5, 5, 7.5, 10, 12.5, 15, 17.5 or 20 mg of dexmethylphenidate hydrochloride given b.i.d. as tablets.
+Dexmethylphenidate Hydrochloride Extended-Release Capsules are an extended-release formulation of dexmethylphenidate with a bi-modal release profile.
+Each Dexmethylphenidate Hydrochloride Extended-Release Capsule contains a single type multilayered beads having half the dose as immediate-release component and half as enteric-coated, delayed-release component, thus providing an immediate-release of dexmethylphenidate and a second delayed-release of dexmethylphenidate.
+Dexmethylphenidate Hydrochloride Extended-Release Capsules are available as 5, 10, 15, 20, 25, 30, 35 and 40 mg strengths.
+Dexmethylphenidate Hydrochloride Extended-Release Capsules, 5, 10, 15, 20, 25, 30, 35 and 40 mg provide in a single dose the same amount of dexmethylphenidate as dosages of 2.5, 5, 7.5, 10, 12.5, 15, 17.5 or 20 mg of dexmethylphenidate hydrochloride given b.i.d. as tablets.
 
 Dexmethylphenidate hydrochloride, the d-threo enantiomer of racemic methylphenidate hydrochloride, is a central nervous system (CNS) stimulant.
 
