@@ -6,16 +6,19 @@ DALIRESP 250 mcg is supplied as white to off-white, round tablets, embossed with
 
 DALIRESP 250 mcg tablets are available:
 
-1. Blister pack 28: NDC 0310-0088-28
-2. 2X10 Unit Dose: NDC 0310-0088-39
+Blister pack 28: NDC 0310-0088-28
+
+2X10 Unit Dose: NDC 0310-0088-39
 
 DALIRESP 500 mcg is supplied as white to off-white, round tablets, embossed with “D” on one side and “500” on the other side.
 
 DALIRESP 500 mcg tablets are available:
 
-1. Bottles of 30: NDC 0310-0095-30
-2. Bottles of 90: NDC 0310-0095-90
-3. 2X10 Unit Dose: NDC 0310-0095-39
+Bottles of 30: NDC 0310-0095-30
+
+Bottles of 90: NDC 0310-0095-90
+
+2X10 Unit Dose: NDC 0310-0095-39
 
 ## 16.2 Storage and Handling
 
