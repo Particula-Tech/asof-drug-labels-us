@@ -1,26 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
-
-Instructions
-
-Instruct patients to read the Medication Guide before starting treatment with FARXIGA and to reread it each time the prescription is renewed.
-
-Inform patients of the potential risks and benefits of FARXIGA and of alternative modes of therapy.
-Also inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and HbA1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment of diabetes complications.
-Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
-
-Instruct patients to take FARXIGA only as prescribed.
-If a dose is missed, advise patients to take it as soon as it is remembered unless it is almost time for the next dose, in which case patients should skip the missed dose and take the medicine at the next regularly scheduled time.
-Advise patients not to take two doses of FARXIGA at the same time.
-
-Inform patients that the most common adverse reactions associated with use of FARXIGA are genital mycotic infections, nasopharyngitis, and urinary tract infections.
-
-Instruct patient to immediately inform her healthcare provider if she is pregnant or plans to become pregnant.
-Based on animal data, FARXIGA may cause fetal harm in the second and third trimesters of pregnancy.
-
-Instruct patient to immediately inform her healthcare provider if she is breastfeeding or planning to breastfeed.
-It is not known if FARXIGA is excreted in breast milk; however, based on animal data, FARXIGA may cause harm to nursing infants.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Hypotension
 

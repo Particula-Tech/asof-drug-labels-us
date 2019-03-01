@@ -42,7 +42,7 @@ Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 | Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection, and prostatitis. | 3.7 | 5.7 | 4.3 |
 | Back pain | 3.2 | 3.1 | 4.2 |
 | Increased urinationIncreased urination includes the following adverse reactions, listed in order of frequency reported: pollakiuria, polyuria, and urine output increased. | 1.7 | 2.9 | 3.8 |
-| Male genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for males: balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection, posthitis. (N for males: Placebo=716, FARXIGA 5 mg=564, FARXIGA 10 mg=595). | 0.3 | 2.8 | 2.7 |
+| Male genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for males: balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection, and posthitis. (N for males: Placebo=716, FARXIGA 5 mg=564, FARXIGA 10 mg=595). | 0.3 | 2.8 | 2.7 |
 | Nausea | 2.4 | 2.8 | 2.5 |
 | Influenza | 2.3 | 2.7 | 2.3 |
 | Dyslipidemia | 1.5 | 2.1 | 2.5 |
@@ -52,7 +52,7 @@ Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 
 ### Pool of 13 Placebo-Controlled Studies for FARXIGA 10 mg
 
-The safety and tolerability of FARXIGA 10 mg was also evaluated in a larger placebo-controlled study pool.
+FARXIGA 10 mg was also evaluated in a larger placebo-controlled study pool.
 This pool combined 13 placebo-controlled studies, including 3 monotherapy studies, 9 add-on to background antidiabetic therapy studies, and an initial combination with metformin study.
 Across these 13 studies, 2360 patients were treated once daily with FARXIGA 10 mg for a mean duration of exposure of 22 weeks.
 The mean age of the population was 59 years and 4% were older than 75 years.
@@ -84,7 +84,7 @@ Renal-related adverse reactions, including renal failure and blood creatinine in
 Elderly patients and patients with impaired renal function were more susceptible to these adverse reactions (see Table 4).
 Sustained decreases in eGFR were seen in patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2).
 
-Table 3: Changes in Serum Creatinine and eGFR Associated with FARXIGA in the Pool of 12 Placebo-Controlled Studies and Moderate Renal Impairment Study
+Table 3: Changes in Serum Creatinine and eGFR Associated with FARXIGA in the Pool of 12 Placebo-Controlled Studies and Moderate Renal Impairment Studies
 
 |  |  | Pool of 12 Placebo-Controlled Studies |  |  |
 | --- | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Table 3: Changes in Serum Creatinine and eGFR Associated with FARXIGA in the Poo
 | eGFR (mL/min/1.73 m2) | 0.4 | −2.9 | −4.1 |  |
 | Week 24 Change | Serum Creatinine (mg/dL) | −0.005 | −0.001 | 0.001 |
 | eGFR (mL/min/1.73 m2) | 0.8 | 0.8 | 0.3 |  |
-|  |  | Moderate Renal Impairment Study |  |  |
+|  |  | Moderate Renal Impairment Study(eGFR 30 to less than 60 mL/min/1.73 m2) |  |  |
 |  |  | Placebo N=84 | FARXIGA 5 mg N=83 | FARXIGA 10 mg N=85 |
 | Baseline Mean | Serum Creatinine (mg/dL) | 1.46 | 1.53 | 1.52 |
 | eGFR (mL/min/1.73 m2) | 45.6 | 44.2 | 43.9 |  |
@@ -105,6 +105,16 @@ Table 3: Changes in Serum Creatinine and eGFR Associated with FARXIGA in the Poo
 | eGFR (mL/min/1.73 m2) | 0.03 | −4.0 | −7.4 |  |
 | Week 52 Change | Serum Creatinine (mg/dL) | 0.10 | 0.06 | 0.15 |
 | eGFR (mL/min/1.73 m2) | −2.6 | −4.2 | −7.3 |  |
+|  |  | Moderate Renal Impairment Study(eGFR 45 to less than 60 mL/min/1.73 m2) |  |  |
+|  |  | PlaceboN=161 | FARXIGA 10 mgN=160 |  |
+| Baseline Mean | Serum Creatinine (mg/dL) | 1.25 | 1.25 |  |
+| eGFR (mL/min/1.73 m2) | 53.6 | 53.3 |  |  |
+| Week 4 Change | Serum Creatinine (mg/dL) | -0.02 | 0.09 |  |
+| eGFR (mL/min/1.73 m2) | 1.3 | -3.8 |  |  |
+| Week 12 Change | Serum Creatinine (mg/dL) | -0.02 | 0.08 |  |
+| eGFR (mL/min/1.73 m2) | 1.5 | -3.2 |  |  |
+| Week 24 Change | Serum Creatinine (mg/dL) | -0.003 | 0.06 |  |
+| eGFR (mL/min/1.73 m2) | 0.8 | -2.0 |  |  |
 
 Table 4: Proportion of Patients with at Least One Renal Impairment-Related Adverse Reaction
 
@@ -116,11 +126,15 @@ Table 4: Proportion of Patients with at Least One Renal Impairment-Related Adver
 | eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=77 5 (6.5%) | n=88 7 (8.0%) | n=75 9 (12.0%) | n=249 40 (16.1%) | n=251 71 (28.3%) |
 | 65 years of age and older and eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=41 2 (4.9%) | n=43 3 (7.0%) | n=35 4 (11.4%) | n=141 27 (19.1%) | n=134 47 (35.1%) |
 
-The safety of FARXIGA was evaluated in a study of patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) [see Clinical Studies (14)].
-In this study 13 patients experienced bone fractures for treatment durations up to 104 weeks.
+In the pool of 12 clinical studies a subgroup analysis assessed the safety of patients with eGFR between 30 to less than 60 mL/min/1.73 m2.
+At Week 24, the safety was similar to that seen in the overall program, although a higher proportion of patients had at least one event related to renal impairment or failure.
+
+### Fractures
+
+In a study of patients with eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients experienced bone fractures for treatment durations up to 104 weeks.
 No fractures occurred in the placebo group, 5 occurred in the FARXIGA 5 mg group, and 8 occurred in the FARXIGA 10 mg group.
 Eight of these 13 fractures were in patients who had a baseline eGFR of 30 to 45 mL/min/1.73 m2.
-Eleven of the 13 fractures were reported within the first 52 weeks.
+Ten of the 13 fractures were reported within the first 52 weeks.
 There was no apparent pattern with respect to the anatomic site of fracture.
 
 ### Hypoglycemia

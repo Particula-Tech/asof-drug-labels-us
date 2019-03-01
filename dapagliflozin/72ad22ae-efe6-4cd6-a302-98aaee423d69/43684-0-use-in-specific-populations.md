@@ -11,7 +11,7 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose [see Data].
 
-The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c greater than 7% and has been reported to be as high as 20 to 25% in women with HbA1c greater than 10%.
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a HbA1c greater than 7% and has been reported to be as high as 20 to 25% in women with HbA1c greater than 10%.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
@@ -19,7 +19,7 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo-fetal risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data
@@ -34,11 +34,11 @@ In a prenatal and postnatal development study, dapagliflozin was administered to
 Increased incidence or severity of renal pelvic dilatation was observed in 21-day-old pups offspring of treated dams at 75 mg/kg/day (maternal and pup dapagliflozin exposures were 1415-times and 137-times, respectively, the human values at the 10 mg clinical dose, based on AUC).
 Dose-related reductions in pup body weights were observed at greater or equal to 29-times the 10 mg clinical dose (based on AUC).
 No adverse effects on developmental endpoints were noted at 1 mg/kg/day (19-times the 10 mg clinical dose, based on AUC).
+These outcomes occurred with drug exposure during periods of renal development in rats that corresponds to the late second and third trimester of human development.
 
 In embryo-fetal development studies in rats and rabbits, dapagliflozin was administered throughout organogenesis, corresponding to the first trimester of human pregnancy.
-In rats, dapagliflozin was neither embryolethal nor teratogenic at doses greater than 75 mg/kg/day (1441-times the 10 mg clinical dose, based on AUC).
-Dose-related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, greater than 150 mg/kg (more than 2344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity.
-These outcomes occurred with drug exposure during periods of renal development in rats that corresponds to the late second and third trimester of human development.
+In rats, dapagliflozin was neither embryolethal nor teratogenic at doses up to 75 mg/kg/day (1441-times the 10 mg clinical dose, based on AUC).
+Dose related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, equal to or greater than 150 mg/kg (more than 2344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity.
 No developmental toxicities were observed in rabbits at doses up to 180 mg/kg/day (1191-times the 10 mg clinical dose, based on AUC).
 
 ## 8.2 Lactation
@@ -54,8 +54,7 @@ Because of the potential for serious adverse reactions in breastfed infants, adv
 
 Data
 
-It is not known whether FARXIGA is excreted in human milk.
-Dapagliflozin was present in rat milk at a milk/plasma ratio of 0.49 indicating that dapagliflozin and its metabolites are transferred into milk at a concentration that is approximately 50% of that in maternal plasma.
+Dapagliflozin was present in rat milk at a milk/plasma ratio of 0.49, indicating that dapagliflozin and its metabolites are transferred into milk at a concentration that is approximately 50% of that in maternal plasma.
 Juvenile rats directly exposed to dapagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
 
 ## 8.4 Pediatric Use
@@ -71,10 +70,13 @@ In patients ≥65 years of age, a higher proportion of patients treated with FAR
 
 ## 8.6 Renal Impairment
 
-The safety and efficacy of FARXIGA were evaluated in a study that included patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2).
-Compared to placebo-treated patients, patients with moderate renal impairment treated with FARXIGA did not have improvement in glycemic control [see Clinical Studies (14.7)] and had more renal-related adverse reactions and more bone fractures [see Dosage and Administration (2.2), Warnings and Precautions (5.3), and Adverse Reactions (6.1)]; therefore, FARXIGA initiation is not recommended in this population.
+In clinical studies, FARXIGA was associated with increases in serum creatinine and decreases in eGFR [see Adverse Reactions (6.1)].
+Use of FARXIGA is not recommended when eGFR is less than 45 mL/min/1.73 m2[see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Adverse Reactions (6.1)] and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
 
-Based on its mechanism of action, FARXIGA is not expected to be effective in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
+FARXIGA was evaluated in two studies that included patients with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2[see Clinical Studies (14.7)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively).
+The safety profile of FARXIGA in the study of patients with an eGFR of 45 to less than 60 mL/min/1.73 m2 was similar to the general population of patients with type 2 diabetes.
+Although patients in the FARXIGA arm had reduction in eGFR compared to the placebo arm, eGFR generally returned towards baseline after treatment discontinuation.
+In the study of patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving FARXIGA experienced bone fractures and compared to none receiving placebo [see Adverse Reactions (6.1)].
 
 ## 8.7 Hepatic Impairment
 
