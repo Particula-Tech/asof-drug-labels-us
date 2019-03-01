@@ -47,9 +47,9 @@ In a 3 year, flexible dose, extension study, the incidence of all adverse events
 
 Table 2: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 3 Year, Flexible Dose, Extension Study
 
-|  | (N = 162) |
-| --- | --- |
 | Adverse Event | Percent of Subjects |
+| --- | --- |
+|  | (N = 162) |
 | Lab Test Abnormal+ | 9.3 |
 | Skin dry | 1.9 |
 | Application Site Reaction | 5.6 |
@@ -111,7 +111,9 @@ Table 3: Adverse Drug Reactions from Postmarketing Experience of AndroGel 1% by 
 | Skin and subcutaneous tissue disorders: | Acne, alopecia, application site reaction (pruritus, dry skin, erythema, rash, discolored hair, paresthesia), sweating |
 | Vascular disorders: | Hypertension, vasodilation (hot flushes), venous thromboembolism |
 
-Secondary Exposure to Testosterone in Children Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarket surveillance.
+Secondary Exposure to Testosterone in Children
+
+Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarket surveillance.
 Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.
 In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure.
 In a few cases, however, enlarged genitalia did not fully return to age appropriate normal size, and bone age remained modestly greater than chronological age.
