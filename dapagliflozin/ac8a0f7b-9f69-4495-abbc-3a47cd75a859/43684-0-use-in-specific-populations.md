@@ -2,47 +2,88 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies of XIGDUO XR or its individual components in pregnant women.
-Based on results of reproductive and developmental toxicity studies in animals, dapagliflozin, a component of XIGDUO XR, may affect renal development and maturation.
-In a juvenile rat study, increased incidence and/or severity of renal pelvic and tubular dilatations were evident at the lowest tested dose which was approximately 15 times clinical exposure from a 10 mg dose.
+Based on animal data showing adverse renal effects, XIGDUO XR is not recommended during the second and third trimesters of pregnancy.
 
-These outcomes occurred with drug exposures during periods of animal development that correlate with the late second and third trimesters of human pregnancy.
-During pregnancy, consider appropriate alternative therapies, especially during the second and third trimesters.
-XIGDUO XR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Limited data with XIGDUO XR or dapagliflozin in pregnant women are not sufficient to determine drug associated risk for major birth defects or miscarriage.
+Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk (see Data).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+
+In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose (see Data).
+
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a HbA1c greater than 7% and has been reported to be as high as 20 to 25% in women with HbA1c greater than 10%.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo-fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+Data
+
+Human Data
+
+Published data from post-marketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
+However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
+
+Animal Data
 
 Dapagliflozin
 
-In a juvenile toxicity study, when dapagliflozin was dosed directly to young rats from postnatal day (PND) 21 until PND 90 at doses of 1, 15, or 75 mg/kg/day, increased kidney weights and renal pelvic and tubular dilatations were reported at all levels.
-Exposure at the lowest tested dose was 15 times the maximum clinical dose, based on AUC.
-The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within the approximate 1-month recovery period.
-In a prenatal and postnatal development study, maternal rats were dosed from gestation day 6 through lactation day 21 at doses of 1, 15, or 75 mg/kg/day, and pups were indirectly exposed in utero and throughout lactation.
-Increased incidence or severity of renal pelvic dilatation was observed in adult offspring of treated dams at 75 mg/kg/day (maternal and pup dapagliflozin exposures were 1415 times and 137 times, respectively, the human values at the clinical dose).
-Dose-related reductions in pup body weights were observed at doses ≥1 mg/kg/day (approximately ≥19 times the clinical dose).
-No adverse effects on developmental endpoints were noted at 1 mg/kg/day, or approximately 19 times the clinical dose.
+Dapagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 15, or 75 mg/kg/day, increased kidney weights and increased the incidence of renal pelvic and tubular dilatations at all dose levels.
+Exposure at the lowest dose tested was 15-times the 10 mg clinical dose (based on AUC).
+The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within a 1-month recovery period.
 
-In embryo-fetal development studies in rats and rabbits, dapagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
-No developmental toxicities were observed in rabbits at any dose tested.
-In rats, dapagliflozin was neither embryolethal nor teratogenic at doses up to 75 mg/kg/day or 1441 times the maximum clinical dose of 10 mg.
-At higher doses in rats, malformations of blood vessels, ribs, vertebrae, manubria, and skeletal variations in fetuses at ≥150 mg/kg or 2344 times the 10 mg clinical dose were observed.
+In a prenatal and postnatal development study, dapagliflozin was administered to maternal rats from gestation day 6 through lactation day 21 at doses of 1, 15, or 75 mg/kg/day, and pups were indirectly exposed in utero and throughout lactation.
+Increased incidence or severity of renal pelvic dilatation was observed in 21-day-old pups offspring of treated dams at 75 mg/kg/day (maternal and pup dapagliflozin exposures were 1415-times and 137-times, respectively, the human values at the 10 mg clinical dose, based on AUC).
+Dose-related reductions in pup body weights were observed at greater or equal to 29-times the 10 mg clinical dose (based on AUC).
+No adverse effects on developmental endpoints were noted at 1 mg/kg/day (19-times the 10 mg clinical dose, based on AUC).
+These outcomes occurred with drug exposure during periods of renal development in rats that corresponds to the late second and third trimester of human development.
+
+In embryo-fetal development studies in rats and rabbits, dapagliflozin was administered throughout organogenesis, corresponding to the first trimester of human pregnancy.
+In rats, dapagliflozin was neither embryolethal nor teratogenic at doses up to 75 mg/kg/day (1441-times the 10 mg clinical dose, based on AUC).
+Dose-related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, equal to or greater than 150 mg/kg (more than 2344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity.
+No developmental toxicities were observed in rabbits at doses up to 180 mg/kg/day (1191-times the 10 mg clinical dose, based on AUC).
 
 Metformin hydrochloride
 
-Metformin hydrochloride did not cause adverse developmental effect when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
-This represents an exposure of about 2 and 6 times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
-Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg/day.
-This represents an exposure of about 2 and 6 times the MRHD of 2000 mg based on body surface area comparisons for rats and rabbits, respectively.
+Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
+This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
 Determination of fetal concentrations demonstrated a partial placental barrier to metformin.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether XIGDUO XR is excreted in human milk.
-In studies performed with the individual components, both dapagliflozin (reaching levels 0.49 times that found in maternal plasma) and metformin are excreted in the milk of lactating rats.
+Risk Summary
 
-Data in juvenile rats directly exposed to dapagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
-Since human kidney maturation occurs in utero and in the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from dapagliflozin, a decision should be made whether to discontinue nursing or to discontinue XIGDUO XR, taking into account the importance of the drug to the mother.
+There is no information regarding the presence of XIGDUO XR or dapagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
+
+Limited published studies report that metformin is present in human milk (see Data).
+However, there is insufficient information on the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
+Dapagliflozin is present in the milk of lactating rats (seeData).
+However, due to species-specific differences in lactation physiology, the clinical relevance of these data are not clear.
+Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
+
+Because of the potential for serious adverse reactions in breastfed infants, advise women that use of XIGDUO XR is not recommended while breastfeeding.
+
+Data
+
+Dapagliflozin
+
+Dapagliflozin was present in rat milk at a milk/plasma ratio of 0.49 indicating that dapagliflozin and its metabolites are transferred into milk at a concentration that is approximately 50% of that in maternal plasma.
+Juvenile rats directly exposed to dapagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
+
+Metformin hydrochloride
+
+Published clinical lactation studies report that metformin is present in human milk which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
+However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin may result in ovulation in some anovulatory women.
 
 ## 8.4 Pediatric Use
 
@@ -66,14 +107,23 @@ Metformin hydrochloride
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently than younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 Metformin is known to be substantially excreted by the kidney and because the risk of lactic acidosis with metformin is greater in patients with moderately to severely impaired renal function.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
-## 8.6 Patients with Mild Renal Impairment (eGFR ≥60 to <90 mL/min/1.73 m2)
+## 8.6 Renal Impairment
 
 Dapagliflozin
 
-The pool of 21 double-blind, active- and placebo-controlled clinical safety and efficacy studies (dapagliflozin as monotherapy or in combination with other antidiabetic therapies) included 53% (4906/9339) of patients with mild renal impairment.
-The safety profile in patients with mild renal impairment is similar to that in the overall population.
+In clinical studies dapagliflozin was associated with increases in serum creatinine and decreases in eGFR [see Adverse Reactions (6.1)].
+Use of dapagliflozin is not recommended when eGFR is less than 45 mL/min/1.73 m2[see Dosage and Administration (2.3), Warnings and Precautions (5.4), and Adverse Reactions (6.1)] and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
+
+Dapagliflozin was evaluated in two studies that included patients with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2, and an eGFR of 30 to less than 60 mL/min/1.73 m2) [see Clinical Studies (14.4)].
+The safety profile of dapagliflozin in the study of patients with an eGFR of 45 to less than 60 mL/min/1.73 m2 was similar to the general population of patients with type 2 diabetes.
+Although patients in the dapagliflozin arm had reduction in eGFR compared to the placebo arm, eGFR generally returned towards baseline after treatment discontinuation.
+
+Metformin hydrochloride
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
+XIGDUO XR is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2[see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.2)].
 
 ## 8.7 Hepatic Impairment
 

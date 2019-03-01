@@ -12,19 +12,18 @@ HbA1c reductions were seen across subgroups including gender, age, race, duratio
 
 ## 14.1 Initial Combination Therapy with Metformin Extended-Release
 
-A total of 1241 treatment-naive patients with inadequately controlled type 2 diabetes (HbA1c ≥7.5% and ≤12%) participated in 2 active-controlled studies of 24-week duration to evaluate the safety and efficacy of initial therapy with dapagliflozin 5 mg or 10 mg in combination with metformin XR formulation.
+A total of 1241 treatment-naive patients with inadequately controlled type 2 diabetes (HbA1c ≥7.5% and ≤12%) participated in 2 active-controlled studies of 24-week duration to evaluate the safety and efficacy of initial therapy with dapagliflozin 5 mg (NCT00643851) or 10 mg (NCT00859898) in combination with metformin XR formulation.
 
-In 1 study, 638 patients were randomized to 1 of 3 treatment arms following a 1-week lead-in period: dapagliflozin 10 mg plus metformin XR (up to 2000 mg/day), dapagliflozin 10 mg plus placebo, or metformin XR (up to 2000 mg/day) plus placebo.
+In one study, 638 patients were randomized to 1 of 3 treatment arms following a 1-week lead-in period: dapagliflozin 10 mg plus metformin XR (up to 2000 mg/day), dapagliflozin 10 mg plus placebo, or metformin XR (up to 2000 mg/day) plus placebo.
 Metformin XR dose was up-titrated weekly in 500 mg increments, as tolerated, with a median dose achieved of 2000 mg.
 
 The combination treatment of dapagliflozin 10 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see Table 11 and Figure 2).
 Dapagliflozin 10 mg as monotherapy also provided statistically significant improvements in FPG and statistically significant reduction in body weight compared with metformin alone and was noninferior to metformin XR monotherapy in lowering HbA1c.
 
-Table 11: Results at Week 24 (LCOFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
+Table 11: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
-| Efficacy Parameter | Dapagliflozin 10 mg + Metformin XR | Dapagliflozin 10 mg | Metformin XR |
+| Efficacy Parameter | Dapagliflozin 10 mg + Metformin XR N=211All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin 10 mg N=219 | Metformin XR N=208 |
 | --- | --- | --- | --- |
-|  | N=211All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=219 | N=208 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.1 | 9.0 | 9.0 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.0 | −1.5 | −1.4 |
@@ -50,9 +49,8 @@ The combination treatment of dapagliflozin 5 mg plus metformin XR provided stati
 
 Table 12: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
-| Efficacy Parameter | Dapagliflozin 5 mg + Metformin XR | Dapagliflozin 5 mg | Metformin XR |
+| Efficacy Parameter | Dapagliflozin 5 mg + Metformin XR N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin 5 mg N=203 | Metformin XR N=201 |
 | --- | --- | --- | --- |
-|  | N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=203 | N=201 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.2 | 9.1 | 9.1 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.1 | −1.2 | −1.4 |
@@ -71,7 +69,7 @@ Table 12: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for re
 
 ## 14.2 Add-On to Metformin Immediate-Release
 
-A total of 546 patients with type 2 diabetes with inadequate glycemic control (HbA1c ≥7% and ≤10%) participated in a 24-week, placebo-controlled study to evaluate dapagliflozin in combination with metformin.
+A total of 546 patients with type 2 diabetes with inadequate glycemic control (HbA1c ≥7% and ≤10%) participated in a 24-week, placebo-controlled study to evaluate dapagliflozin in combination with metformin (NCT00528879).
 Patients on metformin at a dose of at least 1500 mg/day were randomized after completing a 2-week, single-blind, placebo lead-in period.
 Following the lead-in period, eligible patients were randomized to dapagliflozin 5 mg, dapagliflozin 10 mg, or placebo in addition to their current dose of metformin.
 
@@ -91,7 +89,7 @@ Placebo-Controlled Study of Dapagliflozin in Add-On Combination with Metformin
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 156.0 | 169.2 | 165.6 |
 | Change from baseline at Week 24 (adjusted mean) | −23.5 | −21.5 | −6.0 |
-| Difference from placebo (adjusted mean) (95% CI) | −17.5 (−25.0, −10.0) | −15.5 (−22.9, −8.1) |  |
+| Difference from placebo(adjusted mean) (95% CI) | −17.5 (−25.0, −10.0) | −15.5 (−22.9, −8.1) |  |
 | Change from baseline at Week 1 (adjusted mean) | −16.5 (N=115) | −12.0 (N=121) | 1.2 (N=126) |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 86.3 | 84.7 | 87.7 |
@@ -102,7 +100,7 @@ Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week
 
 ## 14.3 Active Glipizide-Controlled Study Add-On to Metformin Immediate-Release
 
-A total of 816 patients with type 2 diabetes with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, noninferiority study to evaluate dapagliflozin as add-on therapy to metformin.
+A total of 816 patients with type 2 diabetes with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, noninferiority study to evaluate dapagliflozin as add-on therapy to metformin (NCT00660907).
 Patients on metformin at a dose of at least 1500 mg/day were randomized following a 2-week placebo lead-in period to glipizide or dapagliflozin (5 or 2.5 mg, respectively) and were up-titrated over 18 weeks to optimal glycemic effect (FPG <110 mg/dL, <6.1 mmol/L) or to the highest dose level (up to glipizide 20 mg and dapagliflozin 10 mg) as tolerated by patients.
 Thereafter, doses were kept constant, except for down-titration to prevent hypoglycemia.
 
@@ -113,7 +111,7 @@ Statistically significant (p<0.0001) mean change from baseline in systolic blood
 
 Table 14: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an Active-Controlled Study Comparing Dapagliflozin to Glipizide as Add-On to Metformin
 
-| Efficacy Parameter | Dapagliflozin+MetforminN=400Randomized and treated patients with baseline and at least 1 postbaseline efficacy measurement. | Glipizide+MetforminN=401 |
+| Efficacy Parameter | Dapagliflozin + Metformin N=400Randomized and treated patients with baseline and at least 1 postbaseline efficacy measurement. | Glipizide + Metformin N=401 |
 | --- | --- | --- |
 | HbA1c (%) |  |  |
 | Baseline (mean) | 7.7 | 7.7 |
@@ -122,4 +120,22 @@ Table 14: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an
 | Body Weight (kg) |  |  |
 | Baseline (mean) | 88.4 | 87.6 |
 | Change from baseline (adjusted mean) | −3.2 | 1.4 |
-| Difference from glipizide + metformin (adjusted mean) (95% CI) | −4.7p-value <0.0001 (−5.1, −4.2) |  |
+| Difference from glipizide + metformin (adjusted mean) (95% CI) | −4.7p-value <0.0001. (−5.1, −4.2) |  |
+
+## 14.4 Use in Patients with Type 2 Diabetes and Moderate Renal Impairment
+
+Dapagliflozin was assessed in two placebo-controlled studies of patients with type 2 diabetes and moderate renal impairment.
+
+Patients with type 2 diabetes and an eGFR between 45 to less than 60 mL/min/1.73 m2 inadequately controlled on current diabetes therapy participated in a 24-week, double-blind, placebo-controlled clinical study (NCT02413398).
+Patients were randomized to either dapagliflozin 10 mg or placebo, administered orally once daily.
+At Week 24, dapagliflozin provided statistically significant reductions in HbA1c compared with placebo (Table 15).
+
+Table 15: Results at Week 24 of Placebo-Controlled Study for Dapagliflozin in Patients with Type 2 Diabetes and Renal Impairment (eGFR 45 to less than 60 mL/min/1.73 m2)
+
+| Number of patients: | N=160 | N=161 |
+| --- | --- | --- |
+|  | Dapagliflozin 10 mg | Placebo |
+| HbA1c (%) |  |  |
+| Baseline (mean) | 8.3 | 8.0 |
+| Change from baseline (adjusted meanLeast squares mean adjusted for baseline value; at Week 24, HbA1c was missing for 5.6% and 6.8% of individuals treated with dapagliflozin and placebo, respectively. Retrieved dropouts i.e. observed Hb1Ac at Week 24 from subjects who discontinued treatment, were used to impute missing values in Hb1Ac.) | -0.4p-value <0.001 versus placebo | -0.1 |
+| Difference from placebo (adjusted mean) (95% CI) | -0.3 (-0.5, - 0.1) |  |

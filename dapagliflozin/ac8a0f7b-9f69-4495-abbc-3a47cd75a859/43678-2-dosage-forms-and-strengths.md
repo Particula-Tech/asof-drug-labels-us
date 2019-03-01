@@ -1,7 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-XIGDUO XR is a combination of dapagliflozin and metformin HCl extended-release.
-XIGDUO XR tablets are available in the following dosage forms and strengths:
+XIGDUO XR (dapagliflozin and metformin HCl) extended-release tablets are available as follows:
 
 - •2.5 mg/1000 mg tablets are light brown to brown, biconvex, oval-shaped, and film-coated tablets with "1074" and "2.5/1000" debossed on one side and plain on the reverse side.
 - •5 mg/500 mg tablets are orange, biconvex, capsule-shaped, and film-coated tablets with "1070" and "5/500" debossed on one side and plain on the reverse side.

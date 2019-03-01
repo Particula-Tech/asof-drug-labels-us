@@ -5,12 +5,12 @@
 There have been post-marketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
 
-Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of XIGDUO XR.
 
-In XIGDUO XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
+In XIGDUO XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
 Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue XIGDUO XR and report these symptoms to their healthcare provider.
@@ -19,10 +19,10 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1, 2.3) and Clinical Pharmacology (12.3)]:
 
 - •Before initiating XIGDUO XR, obtain an estimated glomerular filtration rate (eGFR).
-- •XIGDUO XR is contraindicated in patients with an eGFR less than 60 mL/minute/1.73 m2[see Contraindications (4)].
+- •XIGDUO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Contraindications (4)].
 - •Obtain an eGFR at least annually in all patients taking XIGDUO XR.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
@@ -77,7 +77,7 @@ In patients treated with XIGDUO XR consider monitoring for ketoacidosis and temp
 
 ## 5.4 Acute Kidney Injury and Impairment in Renal Function
 
-Dapagliflozin causes intravascular volume contraction [see Warning and Precautions (5.1)], and can cause renal impairment [see Adverse Reactions (6.1)].
+Dapagliflozin causes intravascular volume contraction [see Warning and Precautions (5.1)] and can cause renal impairment [see Adverse Reactions (6.1)].
 There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving dapagliflozin: some reports involved patients younger than 65 years of age.
 
 Before initiating XIGDUO XR, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure, and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
@@ -88,7 +88,8 @@ Dapagliflozin increases serum creatinine and decreases eGFR.
 Elderly patients and patients with impaired renal function may be more susceptible to these changes.
 Adverse reactions related to renal function can occur after initiating XIGDUO XR [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of XIGDUO XR and monitored periodically thereafter.
-XIGDUO XR is contraindicated in patients with an eGFR below 60 mL/min/1.73 m2[see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+Use of XIGDUO XR is not recommended when eGFR is less than 45 mL/min/1.73 m2.
+XIGDUO XR is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2[see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
 ## 5.5 Urosepsis and Pyelonephritis
 

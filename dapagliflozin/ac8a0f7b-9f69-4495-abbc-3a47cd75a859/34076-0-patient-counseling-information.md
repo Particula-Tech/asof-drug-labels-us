@@ -1,30 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (Medication Guide).
-
-Instructions
-
-Instruct patients to read the Medication Guide before starting treatment with XIGDUO XR and to reread it each time the prescription is renewed.
-
-Inform patients of the potential risks and benefits of XIGDUO XR and of alternative modes of therapy.
-Also inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and HbA1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment of diabetes complications.
-Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
-
-Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.6)].
-
-Instruct patient to immediately inform her healthcare provider if she is pregnant or plans to become pregnant.
-Based on animal data, XIGDUO XR may cause fetal harm in the second and third trimesters of pregnancy.
-
-Instruct patient to immediately inform her healthcare provider if she is breastfeeding or planning to breastfeed.
-It is not known if XIGDUO XR is excreted in breast milk; however, based on animal data, XIGDUO XR may cause harm to nursing infants.
-
-Inform patients that the most common adverse reactions associated with use of XIGDUO XR are female genital mycotic infections, nasopharyngitis, urinary tract infections, diarrhea, headache, nausea, and vomiting.
-
-Instruct patients that XIGDUO XR must be swallowed whole and not crushed or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
-
-Instruct patients to take XIGDUO XR only as prescribed.
-If a dose is missed, advise patients to take it as soon as it is remembered unless it is almost time for the next dose, in which case patients should skip the missed dose and take the medicine at the next regularly scheduled time.
-Advise patients not to take 2 tablets of XIGDUO XR at the same time, unless otherwise instructed by their healthcare provider.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Lactic Acidosis
 
@@ -62,6 +38,10 @@ Inform patients of the potential for urinary tract infections, which may be seri
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.5)].
 
+Hypoglycemia
+
+Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.6)].
+
 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 
 Inform patients that necrotizing infections of the perineum (Fournier’s gangrene) have occurred with dapagliflozin, a component of XIGDUO XR.
@@ -86,6 +66,23 @@ Advise patients to immediately report any signs or symptoms suggesting allergic 
 Bladder Cancer
 
 Inform patients to promptly report any signs of macroscopic hematuria or other symptoms potentially related to bladder cancer.
+
+Pregnancy
+
+Advise pregnant patients of the potential risk to a fetus with treatment with XIGDUO XR.
+Instruct patients to immediately inform their healthcare provider if pregnant or planning to become pregnant [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise patients that use of XIGDUO XR is not recommended while breastfeeding [see Use in Specific Populations (8.2)].
+
+Females and Males of Reproductive Potential
+
+Inform female patients that treatment with metformin may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
+
+Administration
+
+Instruct patients that XIGDUO XR must be swallowed whole and not crushed or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
 
 Laboratory Tests
 
