@@ -10,7 +10,7 @@ Men with known or suspected prostate or breast cancer should not use AndroGel 1.
 
 ## 17.2 Potential for Secondary Exposure to Testosterone and Steps to Prevent Secondary Exposure
 
-Secondary exposure to testosterone in children and women can occur with the use of testosterone gel in men.
+Secondary exposure to testosterone in children and women can occur with the use of testosterone gel in men [see Warnings and Precautions (5.2)].
 Cases of secondary exposure to testosterone have been reported in children.
 
 Physicians should advise patients of the reported signs and symptoms of secondary exposure, which may include the following:
@@ -54,6 +54,6 @@ Marketed by:
 
 AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2016 AbbVie Inc.
+© 2019 AbbVie Inc.
 
-5036311-Revised October, 2016
+5042457-Revised February, 2019

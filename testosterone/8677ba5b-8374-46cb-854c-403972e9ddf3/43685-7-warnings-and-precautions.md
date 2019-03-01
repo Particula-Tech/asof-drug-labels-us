@@ -53,7 +53,7 @@ Conversely, consider the possibility of testosterone and anabolic androgenic ste
 
 ## 5.7 Use in Women
 
-Due to the lack of controlled evaluations in women and potential virilizing effects, AndroGel 1.62% is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
+Due to the lack of controlled evaluations in women and potential virilizing effects, AndroGel 1.62% is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.2)].
 
 ## 5.8 Potential for Adverse Effects on Spermatogenesis
 

@@ -59,9 +59,10 @@ Do not use ANDROGEL 1.62% if you:
 
 - have breast cancer
 - have or might have prostate cancer
-- are pregnant or may become pregnant or are breast-feeding.
-  ANDROGEL 1.62% may harm your unborn or breast-feeding baby.
-  Women who are pregnant or who may become pregnant should avoid contact with the area of skin where ANDROGEL 1.62% has been applied.
+- are pregnant.
+  ANDROGEL 1.62% may harm your unborn baby.
+
+Women who are pregnant should avoid contact with the area of skin where ANDROGEL 1.62% has been applied.
 
 Talk to your healthcare provider before taking this medicine if you have any of the above conditions.
 
@@ -232,6 +233,6 @@ Marketed by:
 
 AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2016 AbbVie Inc.
+© 2019 AbbVie Inc.
 
-5036311-Revised October, 2016
+5042457-Revised February, 2019
