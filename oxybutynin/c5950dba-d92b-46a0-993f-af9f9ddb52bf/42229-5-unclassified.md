@@ -1,14 +1,10 @@
 Distributed by:
 
-Kremers Urban Pharmaceuticals Inc.,
+Lannett Company, Inc.
 
-a subsidiary of Lannett Company, Inc.
+Philadelphia, PA 19136
 
-Seymour, IN 47274
-
-Made in the USA
-
-CIA72763K
+CIA72763L
 
 Rev.
-10/2016
+11/2018

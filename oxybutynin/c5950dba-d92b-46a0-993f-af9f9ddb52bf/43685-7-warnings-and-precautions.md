@@ -21,7 +21,7 @@ Oxybutynin chloride extended-release tablets should be used with caution in pati
 
 ## 5.3 Worsening of Symptoms of Myasthenia Gravis
 
-Oxybutynin chloride extended-release tablets should be used with caution in patients with myasthenia gravis due to the risk of symptom aggravation.
+Oxybutynin chloride extended-release tablets should be used with caution in patients with myasthenia gravis due to the risk of aggravation of symptoms.
 
 ## 5.4 Worsening of Symptoms of Decreased Gastrointestinal Motility in Patients with Autonomic Neuropathy
 

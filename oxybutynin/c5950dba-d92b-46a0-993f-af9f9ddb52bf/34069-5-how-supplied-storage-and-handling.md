@@ -36,7 +36,9 @@ Bottles of 500 Tablets NDC 62175-272-41
 
 Bottles of 1000 Tablets NDC 62175-272-43
 
-## 16.1 Storage
+Storage
 
 Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 Protect from moisture and humidity.
+
+Keep out of reach of children.

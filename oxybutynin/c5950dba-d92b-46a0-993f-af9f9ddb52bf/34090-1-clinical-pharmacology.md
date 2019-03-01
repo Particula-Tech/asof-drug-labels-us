@@ -47,8 +47,8 @@ Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmaco
 
 |  | R-Oxybutynin | S-Oxybutynin | R- Desethyloxybutynin | S- Desethyloxybutynin |
 | --- | --- | --- | --- | --- |
-| C max (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
-| T max (h) | 5.0 | 5.0 | 5.0 | 5.0 |
+| Cmax (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
+| Tmax (h) | 5.0 | 5.0 | 5.0 | 5.0 |
 | AUC (ng∙h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
 
 Figure 2: Mean steady state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg Oxybutynin chloride extended-release tablets once daily in children aged 5–15.
@@ -79,7 +79,7 @@ Also, less than 0.1% of the administered dose is excreted as the metabolite dese
 
 Dose Proportionality
 
-Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (C max and AUC) following administration of 5–20 mg of Oxybutynin chloride extended-release tablets are dose proportional.
+Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmax and AUC) following administration of 5–20 mg of Oxybutynin chloride extended-release tablets are dose proportional.
 
 Use in Specific Populations
 

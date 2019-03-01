@@ -26,7 +26,7 @@ Patients were aged 6–15 years, all had symptoms of detrusor overactivity in as
 Study results demonstrated that administration of Oxybutynin chloride extended-release tablets 5 to 20 mg/day was associated with an increase from baseline in mean urine volume per catheterization from 108 mL to 136 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 189 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 34% to 51%.
 
 Urodynamic results were consistent with clinical results.
-Administration of Oxybutynin chloride extended-release tablets resulted in an increase from baseline in mean maximum cystometric capacity from 185 mL to 254 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 44 cm H 2O to 33 cm H 2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H 2O) from 60% to 28%.
+Administration of Oxybutynin chloride extended-release tablets resulted in an increase from baseline in mean maximum cystometric capacity from 185 mL to 254 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 44 cm H2O to 33 cm H2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H2O) from 60% to 28%.
 
 The pharmacokinetics of Oxybutynin chloride extended-release tablets in these patients were consistent with those reported for adults [see Clinical Pharmacology (12.3)].
 

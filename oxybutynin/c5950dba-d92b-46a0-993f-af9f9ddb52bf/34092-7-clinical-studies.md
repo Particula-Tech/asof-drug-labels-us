@@ -13,20 +13,26 @@ Number of Urge Urinary Incontinence Episodes Per Week
 | Study 1 | n | Oxybutynin chloride extended-release tablets | n | Placebo |
 | --- | --- | --- | --- | --- |
 | Mean Baseline | 34 | 15.9 | 16 | 20.9 |
-| Mean (SD) Change from Baseline Covariate adjusted mean with missing observations set to baseline values | 34 | -15.8 (8.9) | 16 | -7.6 (8.6) |
-| 95% Confidence Interval for Difference | (-13.6, -2.8) The difference between Oxybutynin chloride extended-release tabletsand placebo was statistically significant. |  |  |  |
+| Mean (SD) Change from Baseline† | 34 | -15.8 (8.9) | 16 | -7.6 (8.6) |
+| 95% Confidence Interval for Difference | (-13.6, -2.8)* |  |  |  |
 | (Oxybutynin chloride extended-release tablets- Placebo) |  |  |  |  |
+
+* The difference between Oxybutynin chloride extended-release tablets and placebo was statistically significant. † Covariate adjusted mean with missing observations set to baseline values
 
 | Study 2 | n | Oxybutynin chloride extended-release tablets | n | oxybutynin |
 | --- | --- | --- | --- | --- |
 | Mean Baseline | 53 | 27.6 | 52 | 23.0 |
-| Mean (SD) Change from Baseline Covariate adjusted mean with missing observations set to baseline values | 53 | -17.6 (11.9) | 52 | -19.4 (11.9) |
+| Mean (SD) Change from Baseline† | 53 | -17.6 (11.9) | 52 | -19.4 (11.9) |
 | 95% Confidence Interval for Difference | (-2.8, 6.5) |  |  |  |
 | (Oxybutynin chloride extended-release tablets- oxybutynin) |  |  |  |  |
+
+† Covariate adjusted mean with missing observations set to baseline values
 
 | Study 3 | n | Oxybutynin chloride extended-release tablets | n | oxybutynin |
 | --- | --- | --- | --- | --- |
 | Mean Baseline | 111 | 18.9 | 115 | 19.5 |
-| Mean (SD) Change from Baseline Covariate adjusted mean with missing observations set to baseline values | 111 | -14.5 (8.7) | 115 | -13.8 (8.6) |
-| 95% Confidence Interval for Difference | (-3.0, 1.6) The difference between Oxybutynin chloride extended-release tabletsand oxybutynin fulfilled the criteria for comparable efficacy. |  |  |  |
+| Mean (SD) Change from Baseline† | 111 | -14.5 (8.7) | 115 | -13.8 (8.6) |
+| 95% Confidence Interval for Difference | (-3.0, 1.6)** |  |  |  |
 | (Oxybutynin chloride extended-release tablets- oxybutynin) |  |  |  |  |
+
+** The difference between Oxybutynin chloride extended-release tablets and oxybutynin fulfilled the criteria for comparable efficacy. † Covariate adjusted mean with missing observations set to baseline values
