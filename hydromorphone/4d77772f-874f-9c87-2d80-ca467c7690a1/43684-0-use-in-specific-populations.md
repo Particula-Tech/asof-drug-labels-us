@@ -58,14 +58,9 @@ Maternal toxicity (decreased food consumption and body weight gain) was also not
 
 ## 8.2 Lactation
 
-Risk Summary
-
-Low levels of opioid analgesics have been detected in human milk.
+Risk Summary Low levels of opioid analgesics have been detected in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for DILAUDID INJECTION and any potential adverse effects on the breastfed infant from DILAUDID INJECTION or from the underlying maternal condition.
-
-Clinical Considerations
-
-Monitor infants exposed to DILAUDID INJECTION through breast milk for excess sedation and respiratory depression.
+Clinical Considerations Monitor infants exposed to DILAUDID INJECTION through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of hydromorphone is stopped, or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -95,7 +90,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 The pharmacokinetics of hydromorphone are affected by hepatic impairment.
 Due to increased exposure of hydromorphone, patients with moderate hepatic impairment should be started at one-fourth to one-half the recommended starting dose depending on the degree of hepatic dysfunction and closely monitored during dose titration.
 The pharmacokinetics of hydromorphone in patients with severe hepatic impairment has not been studied.
-A further increase in Cmax and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Clinical Pharmacology (12.3)].
+A further increase in Cmax and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Clinical Pharmacology (12.3].
 
 ## 8.7 Renal Impairment
 

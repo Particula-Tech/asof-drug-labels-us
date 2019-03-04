@@ -2,7 +2,7 @@
 
 DILAUDID (hydromorphone hydrochloride), a hydrogenated ketone of morphine, is an opioid agonist.
 
-DILAUDID INJECTION is available as a sterile, aqueous solution in clear and colorless pre-filled syringes for slow intravenous, subcutaneous, or intramuscular administration.
+DILAUDID INJECTION is available as a sterile, aqueous solution in clear and colorless single-dose prefilled syringes for slow intravenous, subcutaneous, or intramuscular administration.
 Each 1 mL of solution contains 1 mg or 2 mg of hydromorphone hydrochloride.
 
 The chemical name of DILAUDID is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.

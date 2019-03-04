@@ -5,8 +5,11 @@
   "inn": "hydromorphone",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "76045-009-00",
+    "76045-009-03",
     "76045-009-05",
     "76045-009-10",
+    "76045-010-00",
     "76045-010-10"
   ],
   "products": [
