@@ -34,7 +34,8 @@ The safety and effectiveness of NUEDEXTA in pediatric patients below the age of 
 ## 8.5Geriatric Use
 
 Of the total number of patients with PBA in clinical studies of NUEDEXTA, 14 percent were 65 years old and over, while 2 percent were 75 and over.
-Clinical study of NUEDEXTA did not include sufficient number of patients aged 65 and over to determine whether they respond differently than younger patients.
+Clinical studies of NUEDEXTA did not include sufficient number of patients aged 65 and over to determine whether they respond differently than younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6Renal Impairment
 

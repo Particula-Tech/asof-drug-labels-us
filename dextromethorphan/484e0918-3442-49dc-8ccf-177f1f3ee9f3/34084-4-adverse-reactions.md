@@ -54,7 +54,7 @@ Drowsiness, dizziness, nervousness or restlessness, nausea, vomiting, and stomac
 Quinidine
 
 Cinchonism is most often a sign of chronic quinidine toxicity, but it may appear in sensitive patients after a single moderate dose of several hundred milligrams.
-Cinchonism is characterized by nausea, vomiting, diarrhea, headache, tinnitus, hearing loss, vertigo, blurred vision, diplopia, photophobia, confusion, and delirium.
+Cinchonism is characterized by nausea, vomiting, diarrhea, headache tinnitus, hearing loss, vertigo, blurred vision, diplopia, photophobia, confusion, and delirium.
 
 Convulsions, apprehension, and ataxia have been reported with quinidine therapy, but it is not clear that these were not simply the results of hypotension and consequent cerebral hypoperfusion in patients being treated for cardiovascular indications.
 Acute psychotic reactions have been reported to follow the first dose of quinidine, but these reactions appear to be extremely rare.
