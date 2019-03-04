@@ -42,6 +42,4 @@ Advise patients that Focalin may cause slowing of growth and weight loss [see Wa
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Manufactured by: Alkermes Gainesville LLC Gainesville, GA 30504
-
-T2019-09
+T2019-09B
