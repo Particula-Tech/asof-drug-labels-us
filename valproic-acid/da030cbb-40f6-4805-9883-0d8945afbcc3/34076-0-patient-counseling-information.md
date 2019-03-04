@@ -10,12 +10,18 @@ Warn patients and guardians that abdominal pain, nausea, vomiting, and/or anorex
 
 Birth Defects and Decreased IQ
 
-Inform pregnant women and women of childbearing potential that use of valproate during pregnancy increases the risk of birth defects and decreased IQ in children who were exposed.
+Inform pregnant women and women of childbearing potential (including girls beginning the onset of puberty) that use of valproate during pregnancy increases the risk of birth defects, decreased IQ, and neurodevelopmental disorders in children who were exposed in utero.
 Advise women to use effective contraception while using valproate.
 When appropriate, counsel these patients about alternative therapeutic options.
-This is particularly important when valproate use is considered for a condition not usually associated with permanent injury or death [see Warnings and Precautions (5.2, 5.3, 5.4) and Use in Specific Populations (8.1)].
+This is particularly important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headache [see Contraindications (4), Warnings and Precautions (5.2, 5.3, 5.4), and Use in Specific Populations (8.1)].
+
+Pregnancy Registry
 
 Advise women of childbearing potential to discuss pregnancy planning with their doctor and to contact their doctor immediately if they think they are pregnant.
+
+Encourage women who are taking Depacon to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 or visit the website, http://www.aedpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
 Hyperammonemia
 
@@ -35,4 +41,4 @@ Manufactured by Hospira, Inc. Lake Forest, IL 60045 USA
 
 For AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-Revised: October 2017
+Revised: February 2019
