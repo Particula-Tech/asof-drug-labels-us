@@ -42,6 +42,4 @@ Advise patients that Focalin XR may cause slowing of growth and weight loss [see
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Manufactured by: Alkermes Gainesville LLC Gainesville, GA 30504
-
-T2019-11
+T2019-11B
