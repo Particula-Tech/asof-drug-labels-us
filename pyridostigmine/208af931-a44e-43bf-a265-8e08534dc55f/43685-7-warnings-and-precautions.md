@@ -2,7 +2,7 @@
 
 NOT FOR USE IN NEONATES
 
-REGONOL® (pyridostigmine bromide injection USP) should be used with particular caution in patients with bronchial asthma or cardiac dysrhythmias.
+REGONOL® (pyridostigmine bromide injection, USP) should be used with particular caution in patients with bronchial asthma or cardiac dysrhythmias.
 Transient bradycardia may occur and be relieved by atropine sulfate.
 Atropine sulfate should also be used with caution in patients with cardiac dysrhythmias.
 When large doses of pyridostigmine bromide are administered, as during reversal of muscle relaxants, prior or simultaneous injection of atropine sulfate or an equipotent dose of glycopyrrolate is advisable.
@@ -31,7 +31,7 @@ Pyridostigmine is mainly excreted unchanged by the kidney.2,7,8 Therefore, lower
 
 ## Drug Interactions
 
-Concomitant administration of REGONOL® (pyridostigmine bromide injection USP) and 4-aminopyridine has been reported to delay the onset of action of REGONOL®.9
+Concomitant administration of REGONOL® (pyridostigmine bromide injection, USP) and 4-aminopyridine has been reported to delay the onset of action of REGONOL®.9
 
 ### Antibiotics
 
@@ -61,7 +61,7 @@ Long-term studies in animals have not been performed to evaluate carcinogenic or
 
 ### Pregnancy Category C
 
-It is not known whether REGONOL® (pyridostigmine bromide injection USP) can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
+It is not known whether REGONOL® (pyridostigmine bromide injection, USP) can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
 REGONOL® should be given to a pregnant woman only if the administering clinician decides that the benefits outweigh the risks.
 
 ## Pediatric Use

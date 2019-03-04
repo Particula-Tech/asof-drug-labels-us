@@ -1,12 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-REGONOL® (pyridostigmine bromide injection USP) is for intravenous use only.
+REGONOL® (pyridostigmine bromide injection, USP) is for intravenous use only.
 This drug should be administered by or under the supervision of experienced clinicians familiar with the use of agents which reverse or antagonize the effects of neuromuscular blocking agents.
 Dosage must be individualized in each case.
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight and is intended to serve as a guide only.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-NOTE: CONTAINS BENZYL ALCOHOL (see PRECAUTIONS).
+NOTE: CONTAINS BENZYL ALCOHOL (see PRECAUTIONS)
 
 Reversal doses of REGONOL® range from 0.1 to 0.25 mg/kg.5,10,11,12,13 The onset time to peak effect is dose-dependent; return of twitch height to 90% of control occurs within approximately 6 minutes following administration of a 0.25 mg/kg dose of REGONOL®.5,12 At lower doses, full recovery usually occurs within 15 minutes in most patients, although others may require a half-hour or more.
 
@@ -26,4 +26,4 @@ The administration of additional doses of anticholinesterase reversal agents is 
 
 ## Use in Pediatrics
 
-The safety and efficacy of REGONOL® (pyridostigmine bromide injection USP) in pediatric patients have not been established, therefore no dosing recommendations can be made (see PRECAUTIONS).
+The safety and efficacy of REGONOL® (pyridostigmine bromide injection, USP) in pediatric patients have not been established, therefore no dosing recommendations can be made (see PRECAUTIONS).

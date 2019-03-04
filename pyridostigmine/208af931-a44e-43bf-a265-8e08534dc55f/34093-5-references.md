@@ -41,3 +41,12 @@
 15. 15.Fogdall RP, Miller RD.
     Antagonism of d-Tubocurarine and Pancuronium Induced Neuromuscular Blockades by Pyridostigmine in Man.
     Anesthesiology 1973;39:504-509.
+
+Rev.
+January 2019
+
+46238566
+
+Distributed by
+
+Sandoz Inc., Princeton, NJ 08540

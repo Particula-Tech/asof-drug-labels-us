@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-REGONOL® (pyridostigmine bromide injection USP) is an active cholinesterase inhibitor chemically designated as 3-hydroxy-1-methylpyridinium bromide dimethyl-carbamate.
+REGONOL® (pyridostigmine bromide injection, USP) is an active cholinesterase inhibitor chemically designated as 3-hydroxy-1-methylpyridinium bromide dimethyl-carbamate.
 
 Its structural formula is:
 

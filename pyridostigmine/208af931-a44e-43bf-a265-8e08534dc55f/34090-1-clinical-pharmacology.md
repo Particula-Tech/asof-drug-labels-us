@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-REGONOL® (pyridostigmine bromide injection USP), an analogue of neostigmine, facilitates the transmission of impulses across the myoneural junction by inhibiting the destruction of acetylcholine by cholinesterase.
+REGONOL® (pyridostigmine bromide injection, USP) an analogue of neostigmine, facilitates the transmission of impulses across the myoneural junction by inhibiting the destruction of acetylcholine by cholinesterase.
 Currently available data indicate that pyridostigmine may have a significantly lower degree and incidence of bradycardia, salivation and gastrointestinal stimulation than does neostigmine.
 Animal studies using the injectable form of pyridostigmine and human studies using the oral preparation have indicated that pyridostigmine has a longer duration of action than does neostigmine measured under similar circumstances.1,2 REGONOL® is effective in reversing the neuromuscular blocking effects of nondepolarizing muscle relaxants.
 
