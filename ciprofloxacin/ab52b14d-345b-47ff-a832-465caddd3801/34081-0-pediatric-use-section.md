@@ -1,5 +1,5 @@
 # Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 1 year have not been established.
-
+The safety and effectiveness of ciprofloxacin ophthalmic solution 0.3% have been established in all ages.
+Use of ciprofloxacin ophthalmic solution is supported by evidence from adequate and well controlled studies of ciprofloxacin ophthalmic solution in adults, children and neonates [see Clinical Studies].
 Although ciprofloxacin and other quinolones cause arthropathy in immature animals after oral administration, topical ocular administration of ciprofloxacin to immature animals did not cause any arthropathy and there is no evidence that the ophthalmic dosage form has any effect on the weight bearing joints.

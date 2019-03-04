@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Ciprofloxacin Hydrochloride Ophthalmic Solution is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below:
+Ciprofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below:
 
 Corneal Ulcers:
 
