@@ -5,5 +5,5 @@ Each mL of Adapalene Topical Solution, 0.1%, contains adapalene 0.1% (1 mg) in a
 
 The chemical name of adapalene is 6-[3-(1-adamantyl)-4-methoxyphenyl]-2-naphthoic acid.
 Adapalene is a white to off-white powder which is soluble in tetrahydrofuran, sparingly soluble in ethanol, and practically insoluble in water.
-The molecular formula is C28H28O3 and molecular weight is 412.52.
+The molecular formula is C 28H 28O 3 and molecular weight is 412.52.
 Adapalene is represented by the following structural formula:

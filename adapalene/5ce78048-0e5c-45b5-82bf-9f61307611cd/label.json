@@ -5,7 +5,8 @@
   "inn": "adapalene",
   "labeler": "CALL INC. (dba Rochester Pharmaceuticals)",
   "package_ndcs": [
-    "49908-118-60"
+    "49908-118-00",
+    "49908-118-14"
   ],
   "products": [
     {

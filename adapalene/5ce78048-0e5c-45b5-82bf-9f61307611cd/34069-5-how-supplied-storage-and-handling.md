@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Adapalene Topical Solution, 0.1% is supplied in the following size: 60-count unit-of-use 1.2g swab – NDC 49908-118-60
+Adapalene Topical Solution, 0.1% is supplied in the following size: 14-count unit-of-use 1.2g swab - NDC 49908-118-14
 
 ## Storage
 

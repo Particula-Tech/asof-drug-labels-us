@@ -1,5 +1,5 @@
 Rx Only
 
-Distributed by: Rochester Pharmaceuticals 77 West Court Street Doylestown, PA 18901
+Distributed by: Rochester Pharmaceuticals 43 S Main Street Doylestown, PA 18901
 
-ATS-PI-00914
+ROC-PI-1218
