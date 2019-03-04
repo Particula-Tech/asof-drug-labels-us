@@ -26,7 +26,7 @@ In the 2-week double-blind treatment phase of this study, patients received eith
 
 Adverse reactions with an incidence greater than 5% during the initial 4-week single-blind Ritalin LA titration period of this study were headache, insomnia, upper abdominal pain, appetite decreased, and anorexia.
 
-Adverse reactions with an incidence greater than 2% among Ritalin LA-treated subjects, during the 2-week double blind phase of the clinical study, are shown in Table 2.
+Adverse reactions with an incidence greater than 2% among Ritalin LA-treated subjects, during the 2-week double-blind phase of the clinical study, are shown in Table 2.
 
 Table 2: Adverse Reactions in Greater Than 2% Ritalin LA-Treated Subjects in the 2-Week Double-Blind Phase
 
@@ -74,7 +74,7 @@ Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elev
 
 Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura
 
-Musculoskeletal and connective tissue disorders: arthralgia, muscle cramps, rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis
 
 Investigations: weight loss (adult ADHD patients)
 
@@ -86,7 +86,7 @@ Blood and Lymphatic Disorders: pancytopenia
 
 Immune System Disorders: hypersensitivity reactions such as auricular swelling, bullous conditions, eruptions, exanthemas
 
-Psychiatric Disorders: affect lability, mania, disorientation, libido changes,
+Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
 Nervous System disorders: migraine
 
@@ -102,7 +102,7 @@ Gastrointestinal Disorders: diarrhea, constipation
 
 Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
 
-Musculoskeletal, Connective Tissue and bone Disorders: myalgia, muscle twitching
+Musculoskeletal, Connective Tissue and Bone Disorders: myalgia, muscle twitching
 
 Renal and Urinary Disorders: hematuria
 

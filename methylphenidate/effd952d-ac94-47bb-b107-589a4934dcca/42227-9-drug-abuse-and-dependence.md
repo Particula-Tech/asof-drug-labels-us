@@ -14,7 +14,7 @@ Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation ha
 Abusers of CNS stimulants may chew, snort, inject, or use other unapproved routes of administration which may result in overdose and death [see Overdosage (10)].
 
 To reduce the abuse of CNS stimulants including Ritalin LA, assess the risk of abuse prior to prescribing.
-After prescribing, keep careful prescription records, educate patients and their families about abuse and on proper storage and disposal of CNS stimulants [see How Supplied/Storage and Handling (16)], monitor for signs of abuse while on therapy, and re-evaluate the need for Ritalin and Ritalin SR use.
+After prescribing, keep careful prescription records, educate patients and their families about abuse and on proper storage and disposal of CNS stimulants [see How Supplied/Storage and Handling (16)], monitor for signs of abuse while on therapy, and re-evaluate the need for Ritalin and Ritalin-SR use.
 
 ## 9.3 Dependence
 

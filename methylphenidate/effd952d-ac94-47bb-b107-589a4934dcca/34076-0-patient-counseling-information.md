@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Controlled Substance Status/High Potential for Abuse and Dependence
 
-Advise patients that Ritalin LA are controlled substances, and they can be abused and lead to dependence.
+Advise patients that Ritalin LA is a controlled substance, and it can be abused and lead to dependence.
 Instruct patients that they should not give Ritalin LA to anyone else.
 Advise patients to store Ritalin LA in a safe place, preferably locked, to prevent abuse.
 Advise patients to comply with laws and regulations on drug disposal.

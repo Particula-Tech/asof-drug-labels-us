@@ -64,7 +64,7 @@ Table 4: Mean ± SD and Range of Pharmacokinetic Parameters of Methylphenidate A
 | (ng/mL x h-1) | 40.5 - 261.6 | 43.3 - 301.44 | 14.3 - 85.3 | 34.0 - 61.6 |
 | t1/2 (h) | 2.5 ± 0.8 | 2.4 ± 0.7a | 3.5 ± 1.9 | 3.3 ± 0.4 |
 |  | 1.8 - 5.3 | 1.5 - 4.0 | 1.3 - 7.7 | 3.0 - 4.2 |
-| aN = 15 |  |  |  |  |
+| aN = 15. |  |  |  |  |
 
 Effect of Food
 

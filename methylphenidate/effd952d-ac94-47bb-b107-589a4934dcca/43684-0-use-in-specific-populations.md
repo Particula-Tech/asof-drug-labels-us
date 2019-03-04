@@ -17,7 +17,7 @@ Ritalin LA should be used during pregnancy only if the potential benefit justifi
 
 ## 8.3 Nursing Mothers
 
-It is not known whether methyphenidate is excreted in human milk.
+It is not known whether methylphenidate is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised if Ritalin LA is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
