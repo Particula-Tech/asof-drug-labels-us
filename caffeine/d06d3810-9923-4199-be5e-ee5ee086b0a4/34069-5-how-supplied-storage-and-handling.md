@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Both caffeine citrate injection and caffeine citrate oral solution are available as clear, color­less, sterile, non-pyrogenic, preservative-free, aqueous solutions in 5 mL colorless glass vials.
+Both caffeine citrate injection and caffeine citrate oral solution are available as clear, color‑less, sterile, non-pyrogenic, preservative-free, aqueous solutions in 5 mL colorless glass vials.
 The vials of caffeine citrate injection are sealed with gray rubber stopper and white flip off aluminum seal printed with “FOR INTRAVENOUS USE ONLY” in red.
 The vials of caffeine citrate oral solution are sealed with gray rubber stopper and a dark blue matte finish, flip off tear off aluminum seal printed with “FOR ORAL USE ONLY – FLIP UP & TEAR” in white.
 
-Both the injection and oral solution vials contain 3 mL solution at a concentra­tion of 20 mg/mL caffeine citrate (60 mg/vial) equivalent to 10 mg/mL caffeine base (30 mg/vial).
+Both the injection and oral solution vials contain 3 mL solution at a concentra‑tion of 20 mg/mL caffeine citrate (60 mg/vial) equivalent to 10 mg/mL caffeine base (30 mg/vial).
 
 Caffeine citrate injection, USP
 
