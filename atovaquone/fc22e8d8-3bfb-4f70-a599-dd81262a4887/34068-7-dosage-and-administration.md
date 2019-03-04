@@ -7,11 +7,11 @@ MALARONE may be crushed and mixed with condensed milk just prior to administrati
 
 ## 2.1 Prevention of Malaria
 
-Start prophylactic treatment with MALARONE 1 or 2 days before entering a malaria‑endemic area and continue daily during the stay and for 7 days after return.
+Start prophylactic treatment with MALARONE 1 or 2 days before entering a malaria-endemic area and continue daily during the stay and for 7 days after return.
 
 Adults
 
-One MALARONE Tablet (adult strength = 250 mg atovaquone/100 mg proguanil hydrochloride) per day.
+One MALARONE tablet (adult strength = 250 mg atovaquone/100 mg proguanil hydrochloride) per day.
 
 Pediatric Patients
 
@@ -22,16 +22,16 @@ Dosage for Prevention of Malaria in Pediatric Patients
 
 | Weight(kg) | Atovaquone/Proguanil HClTotal Daily Dose | Dosage Regimen |
 | --- | --- | --- |
-| 11-20 | 62.5 mg/25 mg | 1 MALARONE Pediatric Tablet daily |
-| 21-30 | 125 mg/50 mg | 2 MALARONE Pediatric Tablets as a single daily dose |
-| 31-40 | 187.5 mg/75 mg | 3 MALARONE Pediatric Tablets as a single daily dose |
-| >40 | 250 mg/100 mg | 1 MALARONE Tablet (adult strength) as a single daily dose |
+| 11-20 | 62.5 mg/25 mg | 1 MALARONE pediatric tablet daily |
+| 21-30 | 125 mg/50 mg | 2 MALARONE pediatric tablets as a single daily dose |
+| 31-40 | 187.5 mg/75 mg | 3 MALARONE pediatric tablets as a single daily dose |
+| >40 | 250 mg/100 mg | 1 MALARONE tablet (adult strength) as a single daily dose |
 
 ## 2.2 Treatment of Acute Malaria
 
 Adults
 
-Four MALARONE Tablets (adult strength; total daily dose 1 g atovaquone/400 mg proguanil hydrochloride) as a single daily dose for 3 consecutive days.
+Four MALARONE tablets (adult strength; total daily dose 1 g atovaquone/400 mg proguanil hydrochloride) as a single daily dose for 3 consecutive days.
 
 Pediatric Patients
 
@@ -42,12 +42,12 @@ Dosage for Treatment of Acute Malaria in Pediatric Patients
 
 | Weight(kg) | Atovaquone/Proguanil HClTotal Daily Dose | Dosage Regimen |
 | --- | --- | --- |
-| 5-8 | 125 mg/50 mg | 2 MALARONE Pediatric Tablets daily for 3 consecutive days |
-| 9-10 | 187.5 mg/75 mg | 3 MALARONE Pediatric Tablets daily for 3 consecutive days |
-| 11-20 | 250 mg/100 mg | 1 MALARONE Tablet (adult strength) daily for 3 consecutive days |
-| 21-30 | 500 mg/200 mg | 2 MALARONE Tablets (adult strength) as a single daily dose for 3 consecutive days |
-| 31-40 | 750 mg/300 mg | 3 MALARONE Tablets (adult strength) as a single daily dose for 3 consecutive days |
-| >40 | 1 g/400 mg | 4 MALARONE Tablets (adult strength) as a single daily dose for 3 consecutive days |
+| 5-8 | 125 mg/50 mg | 2 MALARONE pediatric tablets daily for 3 consecutive days |
+| 9-10 | 187.5 mg/75 mg | 3 MALARONE pediatric tablets daily for 3 consecutive days |
+| 11-20 | 250 mg/100 mg | 1 MALARONE tablet (adult strength) daily for 3 consecutive days |
+| 21-30 | 500 mg/200 mg | 2 MALARONE tablets (adult strength) as a single daily dose for 3 consecutive days |
+| 31-40 | 750 mg/300 mg | 3 MALARONE tablets (adult strength) as a single daily dose for 3 consecutive days |
+| >40 | 1 g/400 mg | 4 MALARONE tablets (adult strength) as a single daily dose for 3 consecutive days |
 
 ## 2.3 Renal Impairment
 
