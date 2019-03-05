@@ -12,17 +12,19 @@ Warn patients and guardians that abdominal pain, nausea, vomiting, and/or anorex
 
 Birth Defects and Decreased IQ
 
-Inform pregnant women and women of childbearing potential that use of valproate during pregnancy increases the risk of birth defects and decreased IQ in children who were exposed.
-Advise women to use effective contraception while using valproate.
+Inform pregnant women and women of childbearing potential (including girls beginning the onset of puberty) that use of valproate during pregnancy increases the risk of birth defects, decreased IQ, and neurodevelopmental disorders in children who were exposed in utero.
+Advise women to use effective contraception while taking valproate.
 When appropriate, counsel these patients about alternative therapeutic options.
-This is particularly important when valproate use is considered for a condition not usually associated with permanent injury or death.
+This is particularly important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headache [see Contraindications (4)].
 Advise patients to read the Medication Guide, which appears as the last section of the labeling [see Warnings and Precautions (5.2, 5.3, 5.4) and Use in Specific Populations (8.1)].
+
+Pregnancy Registry
 
 Advise women of childbearing potential to discuss pregnancy planning with their doctor and to contact their doctor immediately if they think they are pregnant.
 
-Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
+Encourage women who are taking Depakote ER to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+To enroll, patients can call the toll free number 1-888-233-2334 or visit the website, http://www.aedpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
 Suicidal Thinking and Behavior
 
@@ -47,6 +49,6 @@ Instruct patients to notify their healthcare provider if they notice a medicatio
 
 - 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
 
-©2017 AbbVie Inc. Revised: October 2017
+©2019 AbbVie Inc. Revised: February 2019
 
-03-B598
+03-B890
