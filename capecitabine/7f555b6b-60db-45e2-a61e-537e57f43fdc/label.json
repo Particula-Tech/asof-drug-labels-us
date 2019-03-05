@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207456"
+  ],
+  "inn": "capecitabine",
+  "labeler": "Armas Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "72485-204-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "capecitabine",
+      "name": "Capecitabine 150mg"
+    }
+  ],
+  "setid": "7f555b6b-60db-45e2-a61e-537e57f43fdc",
+  "source": "dailymed"
+}
