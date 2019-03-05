@@ -171,10 +171,12 @@ Inactive Ingredients: alcohol, USP; glycerin, USP; hydroxypropyl cellulose, NF; 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed By: Allergan USA, Inc. Irvine, CA 92612
+Distributed By: Allergan USA, Inc. Madison, NJ 07940
 
-© 2017 Allergan.
+© 2019 Allergan.
 All rights reserved.
 Gelnique® is a registered trademark of Allergan Sales, LLC.
 
-Revised: 10/2017
+Revised: 03/2019
+
+v1.1PPI5812
