@@ -21,15 +21,3 @@ It is not known whether these effects observed in female rats are indicative of 
 Multiple-dose studies in rats administered anastrozole for 6 months at doses equal to or greater than 1 mg/kg/day (which produced plasma anastrozole Cssmax and AUC0-24 hr that were 19 and 9 times higher than the respective values found in postmenopausal volunteers at the recommended dose) resulted in hypertrophy of the ovaries and the presence of follicular cysts.
 In addition, hyperplastic uteri were observed in 6-month studies in female dogs administered doses equal to or greater than 1 mg/kg/day (which produced plasma anastrozole Cssmax and AUC0-24 hr that were 22 times and 16 times higher than the respective values found in postmenopausal women at the recommended dose).
 It is not known whether these effects on the reproductive organs of animals are associated with impaired fertility in premenopausal women.
-
-## 13.2 ANIMAL PHARMACOLOGY AND OR TOXICOLOGY
-
-Reproductive Toxicology
-
-Anastrozole has been found to cross the placenta following oral administration of 0.1 mg/kg in rats and rabbits (about 1 and 1.9 times the recommended human dose, respectively, on a mg/m2 basis).
-Studies in both rats and rabbits at doses equal to or greater than 0.1 and 0.02 mg/kg/day, respectively (about 1 and 1/3, respectively, the recommended human dose on a mg/m2 basis), administered during the period of organogenesis showed that anastrozole increased pregnancy loss (increased pre- and/or post-implantation loss, increased resorption, and decreased numbers of live fetuses); effects were dose related in rats.
-Placental weights were significantly increased in rats at doses of 0.1 mg/kg/day or more.
-
-Evidence of fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), was observed in rats administered doses of 1 mg/kg/day (which produced plasma anastrozole Cssmax and AUC0-24 hr that were 19 times and 9 times higher than the respective values found in postmenopausal volunteers at the recommended dose).
-There was no evidence of teratogenicity in rats administered doses up to 1.0 mg/kg/day.
-In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1.0 mg/kg/day (about 16 times the recommended human dose on a mg/m2 basis); there was no evidence of teratogenicity in rabbits administered 0.2 mg/kg/day (about 3 times the recommended human dose on a mg/m2 basis).

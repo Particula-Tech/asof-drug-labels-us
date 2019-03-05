@@ -84,7 +84,7 @@ Effect of Renal Impairment
 Anastrozole pharmacokinetics have been investigated in subjects with renal impairment.
 Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m2) compared to controls.
 Total clearance was only reduced 10%.
-No dosage adjustment is needed for renal impairment [see DOSAGE AND ADMINISTRATION (2.1) and USE IN SPECIFIC POPULATIONS (8.6)]
+No dosage adjustment is needed for renal impairment [see Dosage and Administration (2.1) and Use In Specific Populations (8.6)].
 
 Effect of Hepatic Impairment
 
@@ -92,4 +92,4 @@ Anastrozole pharmacokinetics have been investigated in subjects with hepatic cir
 The apparent oral clearance (CL/F) of anastrozole was approximately 30% lower in subjects with stable hepatic cirrhosis than in control subjects with normal liver function.
 However, these plasma concentrations were still with the range of values observed in normal subjects.
 The effect of severe hepatic impairment was not studied.
-No dose adjustment is necessary for stable hepatic cirrhosis [see DOSAGE AND ADMINISTRATION (2.2) and USE IN SPECIFIC POPULATIONS (8.7)].
+No dose adjustment is necessary for stable hepatic cirrhosis [see Dosage and Administration (2.2) and Use in Specific Populations (8.7)].

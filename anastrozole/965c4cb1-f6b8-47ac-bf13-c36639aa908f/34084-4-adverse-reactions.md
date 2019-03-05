@@ -1,11 +1,11 @@
 # 6 ADVERSE REACTIONS
 
 Serious adverse reactions with anastrozole tablets occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
-This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see ADVERSE REACTIONS (6.2)].
+This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
 Common adverse reactions (occurring with an incidence of ≥ 10%) in women taking anastrozole tablets included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
-In the ATAC trial, the most common reported adverse reaction (>0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the anastrozole tablets group.
+In the ATAC trial, the most common reported adverse reaction (> 0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the anastrozole tablets group.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -13,16 +13,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adjuvant Therapy
 
-Adverse reaction data for adjuvant therapy are based on the ATAC trial [see CLINICAL STUDIES (14.1)].
+Adverse reaction data for adjuvant therapy are based on the ATAC trial [see Clinical Studies (14.1)].
 The median duration of adjuvant treatment for safety evaluation was 59.8 months and 59.6 months for patients receiving anastrozole tablets 1 mg and tamoxifen 20 mg, respectively.
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
 
 Table 1 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial*
 
-| Body system and adverse reactions by COSTART† preferred term‡ | Anastrozole Tablets 1 mg | Tamoxifen 20 mg |
+| Body system and adverse reactions by COSTART† preferred term‡ | Anastrozole Tablets 1 mg (N§ = 3092) | Tamoxifen 20 mg (N§ = 3094) |
 | --- | --- | --- |
-|  | (N§ = 3092) | (N§ = 3094) |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
 | Pain | 533 (17) | 485 (16) |
@@ -93,14 +92,14 @@ Table 1 Adverse reactions occurring with an incidence of at least 5% in either t
 
 Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
-Table 2 Number of Patients with Pre-specified Adverse Reactions in ATAC Trial Percentages calculated based upon the numbers of patients with an intact uterus at baseline
+Table 2 Number of Patients with Pre-specified Adverse Reactions in ATAC Trial Patients with multiple events in the same category are counted only once in that category.
 
 |  | Anastrozole Tablets | Tamoxifen | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
 |  | N=3092 | N=3094 |  |  |
 |  | (%) | (%) |  |  |
 | Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 - 0.89 |
-| Musculoskeletal Events Patients with multiple events in the same category are counted only once in that category. | 1100 (36) | 911 (29) | 1.32 | 1.19 - 1.47 |
+| Musculoskeletal Events Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 - 1.47 |
 | Fatigue/Asthenia | 575 (19) | 544 (18) | 1.07 | 0.94 - 1.22 |
 | Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 - 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 - 1.19 |
@@ -113,10 +112,10 @@ Table 2 Number of Patients with Pre-specified Adverse Reactions in ATAC Trial Pe
 | Vaginal Bleeding | 167 (5) | 317 (10) | 0.50 | 0.41 - 0.61 |
 | Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 - 1.60 |
 | Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 - 0.30 |
-| Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 - 0.80 |
+| Venous Thromboembolic Events | 87 (3) | 140 (5) | 0.61 | 0.47 - 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 - 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 - 0.97 |
-| Endometrial Cancer Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 - 0.94 |
+| Endometrial Cancer Percentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 - 0.94 |
 
 Ischemic Cardiovascular Events
 
@@ -168,17 +167,17 @@ Vaginal bleeding occurred more frequently in the tamoxifen-treated patients vers
 
 Patients receiving anastrozole tablets had a lower incidence of hot flashes, vaginal bleeding, vaginal discharge, endometrial cancer, venous thromboembolic events and ischemic cerebrovascular events compared with patients receiving tamoxifen.
 
-10 year median follow-up Safety Results from the ATAC Trial
+10-year median follow-up Safety Results from the ATAC Trial
 
 Results are consistent with the previous analyses.
 
-Serious adverse reactions were similar between anastrozole (50 %) and tamoxifen (51 %).
+Serious adverse reactions were similar between anastrozole (50%) and tamoxifen (51%).
 
 - Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
-- The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15 %) compared to the tamoxifen group (11 %).
+- The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15%) compared to the tamoxifen group (11%).
   This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
-- The cumulative incidence of new primary cancers was similar in the anastrozole group (13.7 %) compared to the tamoxifen group (13.9 %).
-  Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8 %) compared to the anastrozole group (0.2 %).
+- The cumulative incidence of new primary cancers was similar in the anastrozole group (13.7%) compared to the tamoxifen group (13.9%).
+  Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8%) compared to the anastrozole group (0.2%).
 - The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
   There were more deaths related to breast cancer in the tamoxifen than in the anastrozole treatment group.
 
@@ -190,8 +189,8 @@ Table 3 Adverse Reactions Occurring with an Incidence of at Least 5% in Trials 0
 
 | Body system Adverse ReactionA patient may have had more than 1 adverse event. | Number (%) of subjects |  |
 | --- | --- | --- |
-|  | Anastrozole Tablets | Tamoxifen |
-|  | (N=506) | (N=511) |
+| Anastrozole Tablets | Tamoxifen |  |
+| (N=506) | (N=511) |  |
 | Whole body |  |  |
 | Asthenia | 83 (16) | 81 (16) |
 | Pain | 70 (14) | 73 (14) |
@@ -260,7 +259,7 @@ Anastrozole tablets was tolerated in two controlled clinical trials (i.e., Trial
 The principal adverse reaction more common with anastrozole tablets than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
 
-Table 5 Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005
+Table 5 Number (n) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005
 
 | Adverse ReactionA patient may have had more than one adverse reaction. | Anastrozole Tablets |  | Anastrozole Tablets |  | Megestrol Acetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -331,7 +330,7 @@ Table 6 Number (n) and Percentage of Patients with Pre-specified Adverse Reactio
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 1 mg |  | 10 mg |  | 160 mg |  |
 |  | (N=262) |  | (N=246) |  | (N=253) |  |
-| Adverse Reaction Group | N | (%) | N | (%) | N | (%) |
+| Adverse Reaction Group | n | (%) | n | (%) | n | (%) |
 | Gastrointestinal Disturbance | 77 | (29) | 81 | (33) | 54 | (21) |
 | Hot Flushes | 33 | (13) | 29 | (12) | 35 | (14) |
 | Edema | 19 | (7) | 28 | (11) | 35 | (14) |
@@ -347,5 +346,5 @@ The following have been reported in post-approval use of anastrozole tablets
 
 - Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
-- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see CONTRAINDICATIONS (4.2)]
+- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4)]
 - Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
