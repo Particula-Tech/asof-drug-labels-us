@@ -13,7 +13,7 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 Lixisenatide administered to pregnant rats and rabbits during organogenesis was associated with visceral closure and skeletal defects at systemic exposures that decreased maternal food intake and weight gain during gestation, and that are 1-time and 6-times higher than the 20 mcg/day highest clinical dose, respectively, based on plasma AUC [see Data].
 
-The estimated background risk of major birth defects is 6%–10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20%–25% in women with a HbA1c >10.
+The estimated background risk of major birth defects is 6%–10% in women with pregestational diabetes with a HbA1c >7 and has been reported to be as high as 20%–25% in women with a HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%–4% and 15%–20%, respectively.
 
@@ -21,7 +21,7 @@ Clinical considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
 
 Data

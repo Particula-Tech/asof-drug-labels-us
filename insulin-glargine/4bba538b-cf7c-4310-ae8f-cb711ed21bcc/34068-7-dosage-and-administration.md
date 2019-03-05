@@ -2,26 +2,30 @@
 
 ## 2.1 Important Dosage Information
 
-The following are important dosing information for SOLIQUA 100/33, a combination of insulin glargine and lixisenatide:
-
-- Discontinue therapy with lixisenatide or basal insulin prior to initiation of SOLIQUA 100/33.
-- In patients inadequately controlled on less than 30 units of basal insulin or on lixisenatide, the recommended starting dosage of SOLIQUA 100/33 is 15 units (15 units insulin glargine/5 mcg lixisenatide) given subcutaneously once daily.
-- In patients inadequately controlled on 30 to 60 units of basal insulin, the recommended starting dosage of SOLIQUA 100/33 is 30 units (30 units insulin glargine/10 mcg lixisenatide) given subcutaneously once daily.
+- SOLIQUA 100/33 is a combination of insulin glargine and lixisenatide.
 - Administer SOLIQUA 100/33 subcutaneously once a day within the hour prior to the first meal of the day.
-- The maximum dosage of SOLIQUA 100/33 is 60 units (60 units insulin glargine/20 mcg lixisenatide) [see Warnings and Precautions (5.5)].
-- The SOLIQUA 100/33 pen delivers doses from 15 to 60 units in a single injection (see Table 1) [see Dosage and Administration (2.2)].
-- Use alternative antidiabetic products if patients require a SOLIQUA 100/33 daily dosage:
-  - –below 15 units, or
-  - –over 60 units
+- The SOLIQUA 100/33 pen delivers doses from 15 to 60 units in a single injection.
+  Table 1 presents the units of insulin glargine and the micrograms of lixisenatide in each dosage of SOLIQUA 100/33 [see Dosage and Administration (2.2)].
+- The maximum dose of SOLIQUA 100/33 is 60 units daily (60 units insulin glargine/20 mcg lixisenatide) [see Warnings and Precautions (5.5)].
 
-Table 1 presents the units insulin glargine and the micrograms of lixisenatide in each dosage of SOLIQUA 100/33.
+## 2.2 Recommended Starting Dose
+
+In patients naive to basal insulin or to a GLP-1 receptor agonist, currently on a GLP-1 receptor agonist or currently on less than 30 units of basal insulin daily:
+
+- Discontinue therapy with basal insulin or a GLP-1 receptor agonist prior to initiation of SOLIQUA 100/33.
+- The recommended starting dosage of SOLIQUA 100/33 is 15 units (15 units insulin glargine/5 mcg lixisenatide) given subcutaneously once daily.
+
+In patients currently on 30 to 60 units of basal insulin daily, with or without a GLP-1 receptor agonist:
+
+- Discontinue therapy with basal insulin or GLP-1 receptor agonist prior to initiation of SOLIQUA 100/33.
+- The recommended starting dosage of SOLIQUA 100/33 is 30 units (30 units insulin glargine/10 mcg lixisenatide) given subcutaneously once daily.
 
 Table 1: Units of Insulin Glargine and Micrograms of Lixisenatide in Each Dosage of SOLIQUA 100/33
 
 | SOLIQUA 100/33 (dose window display)The dose window on the SOLIQUA 100/33 pen displays numbers for the even units and displays lines for the odd units. | Insulin glargine component dose | Lixisenatide component dose | Comment |
 | --- | --- | --- | --- |
 | 2 | --- | --- | Safety test dose – not for injection |
-| 15 | 15 units | 5 mcg | Recommended starting dosage for patients previously treated with lixisenatide or less than 30 units of basal insulin |
+| 15 | 15 units | 5 mcg | Recommended starting dosage for patients naive to basal insulin or GLP-1 receptor agonist, currently on GLP-1 receptor agonist, or currently on less than 30 units of basal insulin daily |
 | 16 | 16 units | 5.3 mcg |  |
 | 17 | 17 units | 5.7 mcg |  |
 | 18 | 18 units | 6 mcg |  |
@@ -36,7 +40,7 @@ Table 1: Units of Insulin Glargine and Micrograms of Lixisenatide in Each Dosage
 | 27 | 27 units | 9 mcg |  |
 | 28 | 28 units | 9.3 mcg |  |
 | 29 | 29 units | 9.7 mcg |  |
-| 30 | 30 units | 10 mcg | Recommended starting dosage for patients previously treated with 30 to 60 units of basal insulin |
+| 30 | 30 units | 10 mcg | Recommended starting dosage for patients currently on 30 to 60 units of basal insulin daily, with or without a GLP-1 receptor agonist: |
 | 31 | 31 units | 10.3 mcg |  |
 | 32 | 32 units | 10.7 mcg |  |
 | 33 | 33 units | 11 mcg |  |
@@ -68,13 +72,12 @@ Table 1: Units of Insulin Glargine and Micrograms of Lixisenatide in Each Dosage
 | 59 | 59 units | 19.7 mcg |  |
 | 60 | 60 units | 20 mcg | Maximum daily dosage [see Warnings and Precautions (5.5)] |
 
-## 2.2 Titration of SOLIQUA 100/33
+## 2.3 Titration of SOLIQUA 100/33
 
-- After starting with the recommended dosage of SOLIQUA 100/33, based upon prior insulin dose or lixisenatide use [see Dosage and Administration (2.1)], titrate the dosage upwards or downwards by two to four units (see Table 2) every week based on the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
-  The dosage of SOLIQUA 100/33 is between 15 to 60 units (see Table 1).
+- After starting with the recommended dosage of SOLIQUA 100/33, [see Dosage and Administration (2.2)], titrate the dosage upwards or downwards by two to four units (see Table 2) every week based on the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
 - To minimize the risk of hypoglycemia or hyperglycemia, additional titration may be needed with changes in physical activity, meal patterns (i.e., macronutrient content or timing of food intake), or renal or hepatic function; during acute illness; or when used with other medications [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
-Table 2: Recommended Titration of SOLIQUA 100/33 (Every Week)The recommended SOLIQUA 100/33 dosage is between 15 to 60 units (see Table 1)
+Table 2: Recommended Titration of SOLIQUA 100/33 (Every Week)The recommended SOLIQUA 100/33 dosage is between 15 to 60 units (see Table 1).
 
 | Self-Monitored Fasting Plasma Glucose | SOLIQUA 100/33 Dosage Adjustment |
 | --- | --- |
@@ -82,14 +85,14 @@ Table 2: Recommended Titration of SOLIQUA 100/33 (Every Week)The recommended SOL
 | Within target range | 0 units |
 | Below target range | -2 units (2 units of insulin glargine and 0.66 mcg of lixisenatide) to -4 units (4 units of insulin glargine and 1.32 mcg lixisenatide) |
 
-## 2.3 Missed Doses
+## 2.4 Missed Doses
 
 Instruct patients who miss a dose of SOLIQUA 100/33 to resume the once-daily regimen as prescribed with the next scheduled dose.
 Do not administer an extra dose or increase the dose to make up for the missed dose.
 
-## 2.4 Important Administration Instructions
+## 2.5 Important Administration Instructions
 
-- The SOLIQUA 100/33 prefilled pen is for single-patient use only [see Warnings and Precautions (5.3)].
+- The SOLIQUA 100/33 prefilled pen is for single-patient-use only [see Warnings and Precautions (5.3)].
 - Train patients on proper use and injection technique before initiating SOLIQUA 100/33.
 - Always check the SOLIQUA 100/33 label before administration [see Warnings and Precautions (5.5)].
 - Visually inspect for particulate matter and discoloration prior to administration.
@@ -97,5 +100,7 @@ Do not administer an extra dose or increase the dose to make up for the missed d
 - Inject SOLIQUA 100/33 subcutaneously into the abdominal area, thigh, or upper arm.
 - Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
 - Do not administer intravenously, intramuscularly, or via an insulin pump.
+- Use SOLIQUA 100/33 with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
+- The SOLIQUA 100/33 pen dials in 1 unit increments.
 - Do not dilute or mix SOLIQUA 100/33 with any other insulin or solution.
 - Do not split the dose of SOLIQUA 100/33.

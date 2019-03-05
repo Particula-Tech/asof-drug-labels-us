@@ -40,16 +40,6 @@ To avoid medication errors between SOLIQUA 100/33 and other insulin products, in
 Advise patients that the administration of more than 60 units of SOLIQUA 100/33 daily can result in overdose of the lixisenatide component.
 Instruct patients not to administer concurrently with other glucagon-like peptide-1 receptor agonists.
 
-Administration
-
-Advise patients that SOLIQUA 100/33 must NOT be diluted or mixed with any other insulin or solution and that SOLIQUA 100/33 must only be used if the solution is clear and colorless to almost colorless with no particles visible [see Dosage and Administration (2.4)].
-
-Management of Hypoglycemia and Handling of Special Situations
-
-Instruct patients on self-management procedures including glucose monitoring and management of hypoglycemia and hyperglycemia.
-
-Instruct patients on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals [see Warnings and Precautions (5.6)].
-
 Use in Pregnancy
 
 Advise patients to inform their physicians if they are pregnant or intend to become pregnant [see Use in Specific Populations (8.1)].

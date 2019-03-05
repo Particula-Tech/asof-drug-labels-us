@@ -31,7 +31,7 @@ Sharing of the pen poses a risk for transmission of blood-borne pathogens.
 Changes in SOLIQUA 100/33 regimen may affect glycemic control and predispose to hypoglycemia or hyperglycemia.
 These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
 Adjustments in concomitant oral antidiabetic treatment may be needed.
-When converting from basal insulin therapy or lixisenatide to SOLIQUA 100/33 follow dosing recommendations [see Dosage and Administration (2.1, 2.2)].
+When converting from basal insulin therapy or a GLP-1 receptor agonist to SOLIQUA 100/33 follow dosing recommendations [see Dosage and Administration (2.2, 2.3)].
 
 ## 5.5 Overdose Due to Medication Errors
 
@@ -103,4 +103,4 @@ If heart failure develops, it should be managed according to current standards o
 
 ## 5.11 Macrovascular Outcomes
 
-There have been no clinical studies establishing macrovascular risk reduction with SOLIQUA 100/33 or any other antidiabetic drug.
+There have been no clinical studies establishing macrovascular risk reduction with SOLIQUA 100/33.

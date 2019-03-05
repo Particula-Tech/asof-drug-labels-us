@@ -2,7 +2,7 @@
 
 SOLIQUA 100/33 (insulin glargine and lixisenatide injection), for subcutaneous use, is a combination of a long-acting basal insulin analog, insulin glargine, and a GLP-1 receptor agonist, lixisenatide.
 
-Each SOLIQUA 100/33 prefilled single-patient disposable pen contains 300 units of insulin glargine and 100 mcg of lixisenatide in 3 mL of a clear, colorless to almost colorless, sterile, and aqueous solution.
+Each SOLIQUA 100/33 prefilled single-patient-use disposable pen contains 300 units of insulin glargine and 100 mcg of lixisenatide in 3 mL of a clear, colorless to almost colorless, sterile, and aqueous solution.
 Each mL of solution contains 100 units insulin glargine and 33 mcg lixisenatide.
 
 SOLIQUA 100/33 contains the following inactive ingredients (per mL): 3 mg of methionine, 2.7 mg of metacresol, 20 mg of glycerol, 30 mcg of zinc, hydrochloric acid, sodium hydroxide and water for injection.

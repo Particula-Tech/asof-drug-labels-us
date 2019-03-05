@@ -78,11 +78,11 @@ Lixisenatide: Age, body weight, gender, and race were not observed to meaningful
 Renal impairment
 
 Lixisenatide: Compared to healthy subjects (N=4), plasma Cmax of lixisenatide was increased by approximately 60%, 42%, and 83% in subjects with mild (CLcr 60–89 mL/min [N=9]), moderate (CLcr 30–59 mL/min [N=11]), and severe (CLcr 15–29 mL/min [N=8]) renal impairment.
-Plasma AUC was increased by approximately 34%, 69% and 124% with mild, moderate and severe renal impairment, respectively [see Use in Specific Populations (8.6)].
+Plasma AUC was increased by approximately 34%, 69% and 124% with mild, moderate, and severe renal impairment, respectively [see Use in Specific Populations (8.6)].
 
 Drug interaction studies with SOLIQUA 100/33
 
-Due to their peptidic nature, insulin glargine and lixisenatide have no relevant potential to induce or inhibit CYP isozymes and therefore, no direct drug interaction is expected.
+Due to their peptidic nature, insulin glargine and lixisenatide have no relevant potential to induce or inhibit CYP isozymes and, therefore, no direct drug interaction is expected.
 
 Beyond the interaction studies performed with the individual components no additional interaction studies were conducted with SOLIQUA 100/33.
 

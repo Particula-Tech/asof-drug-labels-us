@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How supplied
+## 16.1 How Supplied
 
-SOLIQUA 100/33 is an injection supplied as a sterile, clear, colorless to almost colorless solution in a 3 mL prefilled, disposable, single-patient use pen injector:
+SOLIQUA 100/33 is an injection supplied as a sterile, clear, colorless to almost colorless solution in a 3 mL prefilled, disposable, single-patient-use pen injector:
 
 | Dosage Unit/Strength | Package size | NDC # |
 | --- | --- | --- |

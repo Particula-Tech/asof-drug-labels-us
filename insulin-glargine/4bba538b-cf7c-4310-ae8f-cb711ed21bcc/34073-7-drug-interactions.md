@@ -20,10 +20,10 @@ A number of medications affect glucose metabolism and may require dose adjustmen
 
 ## 7.2 Effects of Delayed Gastric Emptying on Oral Medications
 
-Lixisenatide delays gastric emptying which may reduce the rate of absorption of orally administered medications.
+Lixisenatide-containing products, including SOLIQUA 100/33, delay gastric emptying which may reduce the rate of absorption of orally administered medications.
 Use caution when coadministering oral medications that have a narrow therapeutic ratio or that require careful clinical monitoring.
 These medications should be adequately monitored when concomitantly administered with lixisenatide.
 If such medications are to be administered with food, patients should be advised to take them with a meal or snack when lixisenatide is not administered.
 
-- Antibiotics, acetaminophen, or other medications that are particularly dependent on threshold concentrations for efficacy or for which a delay in effect is undesirable, should be administered at least 1 hour before SOLIQUA 100/33 injection [see Clinical Pharmacology (12.3)].
+- Antibiotics, acetaminophen, or other medications that are particularly dependent on threshold concentrations for efficacy or for which a delay in effect is undesirable should be administered at least 1 hour before SOLIQUA 100/33 injection [see Clinical Pharmacology (12.3)].
 - Oral contraceptives should be taken at least 1 hour before SOLIQUA 100/33 administration or 11 hours after [see Clinical Pharmacology (12.3)].
