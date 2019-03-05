@@ -66,7 +66,7 @@ The pharmacokinetics of an immediate-release formulation of zolpidem tartrate we
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
 Zolpidem was not hemodialyzable.
 No accumulation of unchanged drug appeared after 14 or 21 days.
-Zolpidem pharmacokinetics was not significantly different in renally-impaired patients.
+Zolpidem pharmacokinetics was not significantly different in renally impaired patients.
 No dosage adjustment is necessary in patients with compromised renal function.
 
 Drug Interactions

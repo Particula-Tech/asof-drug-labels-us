@@ -48,7 +48,7 @@ Do not take zolpidem tartrate extended-release tablets if you:
 What is zolpidem tartrate extended-release tablet?
 
 Zolpidem tartrate extended-release tablet is a sedative-hypnotic (sleep) medicine.
-Zolpidem tartrate extended-release tablets are used in adults for the treatment of a sleep problem called insomnia.
+Zolpidem tartrate extended-release tablet is used in adults for the treatment of a sleep problem called insomnia.
 Symptoms of insomnia include:
 
 - trouble falling asleep
@@ -112,7 +112,7 @@ What are the possible side effects of zolpidem tartrate extended-release tablets
 Zolpidem tartrate extended-release tablets may cause serious side effects including:
 
 - getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
-  (See "What is the most important information I should know aboutzolpidem tartrate extended-release tablets?
+  (See "What is the most important information I should know about zolpidem tartrate extended-release tablets?
   ")
 - abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
@@ -121,7 +121,6 @@ Zolpidem tartrate extended-release tablets may cause serious side effects includ
 - severe allergic reactions.
   Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate extended-release tablets.
-- falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate extended-release tablets.
 
@@ -197,4 +196,4 @@ Goa 403 722
 
 INDIA
 
-Revised: November 2018 ID #: 257336
+Revised: March 6, 2019 ID #: 259652
