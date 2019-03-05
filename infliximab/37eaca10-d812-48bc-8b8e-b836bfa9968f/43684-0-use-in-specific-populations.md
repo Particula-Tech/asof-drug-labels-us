@@ -24,7 +24,7 @@ A decision should be made whether to discontinue nursing or to discontinue the d
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of infliximab products have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of Crohn's disease.
+The safety and effectiveness of infliximab products have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of Crohn's disease or ulcerative colitis.
 However, infliximab products have not been studied in children with Crohn's disease or ulcerative colitis <6 years of age.
 
 Pediatric Crohn's Disease
@@ -34,8 +34,18 @@ INFLECTRA is indicated for reducing signs and symptoms and inducing and maintain
 Infliximab has been studied only in combination with conventional immunosuppressive therapy in pediatric Crohn's disease.
 The longer term (greater than 1 year) safety and effectiveness of infliximab products in pediatric Crohn's disease patients have not been established in clinical trials.
 
-A pediatric assessment for INFLECTRA demonstrates that INFLECTRA is safe and effective in another pediatric indication.
-However, INFLECTRA is not approved for such indication due to marketing exclusivity for REMICADE (infliximab).
+Pediatric Ulcerative Colitis
+
+The safety and effectiveness of infliximab for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy are supported by evidence from adequate and well-controlled studies of infliximab in adults.
+Additional safety and pharmacokinetic data were collected in 60 pediatric patients aged 6 years and older [see Clinical Pharmacology (12.3), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)].
+The effectiveness of infliximab in inducing and maintaining mucosal healing could not be established.
+Although 41 patients had a Mayo endoscopy subscore of 0 or 1 at the Week 8 endoscopy, the induction phase was open-label and lacked a control group.
+Only 9 patients had an optional endoscopy at Week 54.
+
+In the pediatric UC trial, approximately half of the patients were on concomitant immunomodulators (AZA, 6-MP, MTX) at study start.
+Due to the risk of HSTCL, a careful risk-benefit assessment should be made when infliximab is used in combination with other immunosuppressants.
+
+The longer term (greater than 1 year) safety and effectiveness of infliximab in pediatric ulcerative colitis patients have not been established in clinical trials.
 
 Juvenile Rheumatoid Arthritis (JRA)
 
