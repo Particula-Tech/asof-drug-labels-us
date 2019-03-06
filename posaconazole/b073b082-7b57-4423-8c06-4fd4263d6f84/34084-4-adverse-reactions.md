@@ -6,7 +6,7 @@ The following serious and otherwise important adverse reactions are discussed in
 
 - Hypersensitivity [see Contraindications (4.1)]
 - Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)]
-- Hepatic Toxicity [see Warnings and Precautions (5.3)]
+- Hepatic Toxicity [see Warnings and Precautions (5.4)]
 
 ## 6.2 Clinical Trials Experience
 
@@ -298,4 +298,7 @@ Table 11: Posaconazole Oral Suspension Studies: Clinically Significant Laborator
 
 ## 6.3 Postmarketing Experience
 
-No clinically significant postmarketing adverse reactions were identified that have not previously been reported during clinical trials experience.
+The following adverse reactions have been identified during the post-approval use of posaconazole.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
+
+Endocrine Disorders: Pseudoaldosteronism [see Adverse Reactions (6.2)]

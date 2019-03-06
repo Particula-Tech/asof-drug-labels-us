@@ -45,7 +45,7 @@ Of the 605 patients randomized to posaconazole oral suspension in the prophylaxi
 In addition, 48 patients treated with greater than or equal to 800-mg/day posaconazole in another indication were ≥65 years of age.
 No overall differences in safety were observed between the geriatric patients and younger patients.
 
-The pharmacokinetics of posaconazole oral suspension are comparable in young and elderly subjects (≥65 years of age); therefore no adjustment in the dosage of Noxafil oral suspension is necessary in geriatric patients.
+The pharmacokinetics of posaconazole oral suspension are comparable in young and elderly subjects (≥65 years of age); therefore, no adjustment in the dosage of Noxafil oral suspension is necessary in geriatric patients.
 
 No overall differences in the pharmacokinetics and safety were observed between elderly and young subjects during clinical trials, but greater sensitivity of some older individuals cannot be ruled out.
 
@@ -58,7 +58,7 @@ Similar recommendations apply to posaconazole delayed-release tablets; however, 
 
 Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
 In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
-Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.6) and Warnings and Precautions (5.4)].
+Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.6) and Warnings and Precautions (5.5)].
 
 ## 8.7 Hepatic Impairment
 
@@ -67,7 +67,7 @@ Compared to subjects with normal hepatic function, the mean Cmax was 1% higher, 
 The mean apparent oral clearance (CL/F) was reduced by 18%, 36%, and 28% in subjects with mild, moderate, or severe hepatic impairment, respectively, compared to subjects with normal hepatic function.
 The elimination half-life (t½) was 27 hours, 39 hours, 27 hours, and 43 hours in subjects with normal hepatic function and mild, moderate, or severe hepatic impairment, respectively.
 
-It is recommended that no dose adjustment of Noxafil is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.3)].
+It is recommended that no dose adjustment of Noxafil is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.4)].
 Similar recommendations apply to posaconazole delayed-release tablets; however, a specific study has not been conducted with the delayed-release tablets.
 
 Similar recommendations apply to posaconazole injection; however, a specific study has not been conducted with the posaconazole injection.

@@ -45,7 +45,7 @@ Therefore, posaconazole is contraindicated with ergot alkaloids [see Contraindic
 Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
 Concomitant use of posaconazole and other benzodiazepines metabolized by CYP3A4 (e.g., alprazolam, triazolam) could result in increased plasma concentrations of these benzodiazepines.
-Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
+Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
 ## 7.6 Anti-HIV Drugs
 
@@ -93,7 +93,7 @@ No dosage adjustment of posaconazole oral suspension is required when posaconazo
 ## 7.10 Vinca Alkaloids
 
 Most of the vinca alkaloids (e.g., vincristine and vinblastine) are substrates of CYP3A4.
-Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with serious adverse reactions [see Warnings and Precautions (5.6)].
+Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with serious adverse reactions [see Warnings and Precautions (5.7)].
 Posaconazole may increase the plasma concentrations of vinca alkaloids which may lead to neurotoxicity and other serious adverse reactions.
 Therefore, reserve azole antifungals, including Noxafil, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options.
 

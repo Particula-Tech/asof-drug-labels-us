@@ -20,9 +20,12 @@ No healthy subject administered posaconazole had a QTc(F) interval ≥500 msec o
 
 Posaconazole should be administered with caution to patients with potentially proarrhythmic conditions.
 Do not administer with drugs that are known to prolong the QTc interval and are metabolized through CYP3A4 [see Contraindications (4.3) and Drug Interactions (7.2)].
-Rigorous attempts to correct potassium, magnesium, and calcium should be made before starting posaconazole.
 
-## 5.3 Hepatic Toxicity
+## 5.3 Electrolyte Disturbances
+
+Electrolyte disturbances, especially those involving potassium, magnesium or calcium levels, should be monitored and corrected as necessary before and during posaconazole therapy.
+
+## 5.4 Hepatic Toxicity
 
 Hepatic reactions (e.g., mild to moderate elevations in alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase, total bilirubin, and/or clinical hepatitis) have been reported in clinical trials.
 The elevations in liver function tests were generally reversible on discontinuation of therapy, and in some instances these tests normalized without drug interruption.
@@ -34,7 +37,7 @@ Patients who develop abnormal liver function tests during posaconazole therapy s
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
 Discontinuation of posaconazole must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to posaconazole.
 
-## 5.4 Renal Impairment
+## 5.5 Renal Impairment
 
 Due to the variability in exposure with Noxafil delayed-release tablets and oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
@@ -42,13 +45,13 @@ Noxafil injection should be avoided in patients with moderate or severe renal im
 In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
 Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
-## 5.5 Use with Midazolam
+## 5.6 Use with Midazolam
 
 Concomitant administration of Noxafil with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
 Patients must be monitored closely for adverse effects associated with high plasma concentrations of midazolam and benzodiazepine receptor antagonists must be available to reverse these effects [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
 
-## 5.6 Vincristine Toxicity
+## 5.7 Vincristine Toxicity
 
 Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
 Reserve azole antifungals, including Noxafil, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Drug Interactions (7.10)].
