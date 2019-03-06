@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210044"
+  ],
+  "inn": "fulvestrant",
+  "labeler": "Amneal Biosciences LLC",
+  "package_ndcs": [
+    "70121-1463-2"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fulvestrant",
+      "name": "Fulvestrant"
+    }
+  ],
+  "setid": "f36f19ad-f044-4dba-80b6-d074ddffcd86",
+  "source": "dailymed"
+}
