@@ -36,4 +36,6 @@ U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692
 
 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC Update p/n
+© 2019 Valeant Pharmaceuticals North America LLC
+
+9618903 20002559

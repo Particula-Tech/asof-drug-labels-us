@@ -125,11 +125,11 @@ GLUMETZA can cause serious side effects, including:
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take GLUMETZA.
   Signs and symptoms of low blood sugar may include:
 
-| •headache | •hunger | •dizziness |
+| oheadache | ohunger | odizziness |
 | --- | --- | --- |
-| •drowsiness | •fast heartbeat | •sweating |
-| •weakness | •confusion |  |
-| •irritability | •shaking or feeling jittery |  |
+| odrowsiness | ofast heartbeat | osweating |
+| oweakness | oconfusion |  |
+| oirritability | oshaking or feeling jittery |  |
 
 The most common side effects of GLUMETZA include:
 
@@ -166,8 +166,11 @@ Inactive Ingredient: 500 mg tablet: coloring, hypromellose, magnesium stearate, 
 
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
+© 2019 Valeant Pharmaceuticals North America LLC
 
-- Update p/n Update p/n
+9618903 20002559
+
+Revised:11/2018
+
 - For more information, go to www.GlumetzaXR.com or call 1-800-321-4576.
 - This Patient Information has been approved by the U.S. Food and Drug Administration.
