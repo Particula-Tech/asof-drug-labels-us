@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Gemcitabine for Injection, USP is a white to off-white lyophilized powder available in sterile single-dose vials containing 200 mg or 1 g gemcitabine.
+For injection: 200 mg or 1 g as sterile white to off-white lyophilized powder in single-dose vials for reconstitution.
