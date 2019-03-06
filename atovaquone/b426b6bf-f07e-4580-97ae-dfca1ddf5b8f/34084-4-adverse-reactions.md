@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in other sections of the labeling:
+The following adverse reaction is discussed in another section of the labeling:
 
 - •Hepatotoxicity [see Warnings and Precautions (5.2)].
 
@@ -12,7 +12,7 @@ Additionally, because many subjects who participated in clinical trials with MEP
 
 PCP Prevention Trials
 
-In 2 clinical trials, MEPRON oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
+In 2 clinical trials, MEPRON oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1–infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
 
 Dapsone Comparative Trial: In the dapsone comparative trial (n = 1,057), the majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
 Subjects received MEPRON oral suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521); median durations of exposure were 6.7 and 6.5 months, respectively.
@@ -36,7 +36,7 @@ Subjects received MEPRON oral suspension once daily at a dose of 750 mg (n = 188
 Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500-mg dose of MEPRON oral suspension or aerosolized pentamidine.
 
 Rash occurred more often in subjects treated with MEPRON oral suspension (46%) than in subjects treated with aerosolized pentamidine (28%).
-Treatment‑limiting adverse reactions occurred in 25% of subjects treated with MEPRON oral suspension 1,500 mg once daily and in 7% of subjects treated with aerosolized pentamidine.
+Treatment-limiting adverse reactions occurred in 25% of subjects treated with MEPRON oral suspension 1,500 mg once daily and in 7% of subjects treated with aerosolized pentamidine.
 The most frequent adverse reactions requiring discontinuation of dosing in the group receiving MEPRON oral suspension 1,500 mg once daily were rash (6%), diarrhea (4%), and nausea (3%).
 The most frequent adverse reaction requiring discontinuation of dosing in the group receiving aerosolized pentamidine was bronchospasm (2%).
 
@@ -56,10 +56,10 @@ Other reactions occurring in ≥10% of subjects receiving the recommended dose o
 
 PCP Treatment Trials
 
-Safety information is presented from 2 clinical efficacy trials of the MEPRON tablet formulation: 1) a randomized, double‑blind trial comparing MEPRON tablets with TMP‑SMX in subjects with acquired immunodeficiency syndrome (AIDS) and mild‑to‑moderate PCP [(A‑a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air; 2) a randomized, open-label trial comparing MEPRON tablets with intravenous (IV) pentamidine isethionate in subjects with mild‑to‑moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+Safety information is presented from 2 clinical efficacy trials of the MEPRON tablet formulation: 1) a randomized, double-blind trial comparing MEPRON tablets with TMP-SMX in subjects with acquired immunodeficiency syndrome (AIDS) and mild-to-moderate PCP [(A-a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air; 2) a randomized, open-label trial comparing MEPRON tablets with intravenous (IV) pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 
-TMP‑SMX Comparative Trial: In the TMP‑SMX comparative trial (n = 408), the majority of subjects were white (66%) and male (95%); the mean age was 36 years.
-Subjects received MEPRON 750 mg (three 250‑mg tablets) 3 times daily for 21 days or TMP 320 mg plus SMX 1,600 mg 3 times daily for 21 days; median durations of exposure were 21 and 15 days, respectively.
+TMP-SMX Comparative Trial: In the TMP-SMX comparative trial (n = 408), the majority of subjects were white (66%) and male (95%); the mean age was 36 years.
+Subjects received MEPRON 750 mg (three 250-mg tablets) 3 times daily for 21 days or TMP 320 mg plus SMX 1,600 mg 3 times daily for 21 days; median durations of exposure were 21 and 15 days, respectively.
 
 Table 3 summarizes all clinical adverse reactions reported by ≥10% of the trial population regardless of attribution.
 Nine percent of subjects who received MEPRON and 24% of subjects who received TMP‑SMX discontinued therapy due to an adverse reaction.
@@ -70,7 +70,7 @@ The incidence of adverse reactions with MEPRON oral suspension at the recommende
 Table 3.
 Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX Comparative PCP Treatment Trial
 
-| Adverse Reaction | MEPRON Tablets(n = 203)% | TMP‑SMX(n = 205)% |
+| Adverse Reaction | MEPRON Tablets(n = 203)% | TMP-SMX(n = 205)% |
 | --- | --- | --- |
 | Rash (including maculopapular) | 23 | 34 |
 | Nausea | 21 | 44 |
@@ -80,10 +80,10 @@ Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX C
 | Fever | 14 | 25 |
 | Insomnia | 10 | 9 |
 
-Two percent of subjects treated with MEPRON and 7% of subjects treated with TMP‑SMX had therapy prematurely discontinued due to elevations in ALT/AST.
+Two percent of subjects treated with MEPRON and 7% of subjects treated with TMP-SMX had therapy prematurely discontinued due to elevations in ALT/AST.
 
 Pentamidine Comparative Trial: In the pentamidine comparative trial (n = 174), the majority of subjects in the primary therapy trial population (n = 145) were white (72%) and male (97%); the mean age was 37 years.
-Subjects received MEPRON 750 mg (three 250‑mg tablets) 3 times daily for 21 days or a 3- to 4‑mg/kg single pentamidine isethionate IV infusion daily for 21 days; the median durations of exposure were 21 and 14 days, respectively.
+Subjects received MEPRON 750 mg (three 250-mg tablets) 3 times daily for 21 days or a 3- to 4-mg/kg single pentamidine isethionate IV infusion daily for 21 days; the median durations of exposure were 21 and 14 days, respectively.
 
 Table 4 summarizes the clinical adverse reactions reported by ≥10% of the primary therapy trial population regardless of attribution.
 Fewer subjects who received MEPRON reported adverse reactions than subjects who received pentamidine (63% vs. 72%).
