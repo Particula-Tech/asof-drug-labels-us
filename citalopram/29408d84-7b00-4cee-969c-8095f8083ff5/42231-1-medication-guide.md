@@ -71,7 +71,7 @@ Severe allergic reactions:
 - •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 5.
-Abnormal Bleeding: Citalopram and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadine®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal Bleeding: Citalopram and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 6.
 Seizures or convulsions.
@@ -130,7 +130,7 @@ Do not take citalopram if you:
 
 - •are allergic to citalopram or escitalopram oxalate or any of the ingredients in Citalopram Oral Solution.
   See the end of this Medication Guide for a complete list of ingredients in Citalopram Oral Solution.
-- •If you take a Monoamine Oxidase Inhibitor (MAOI).
+- •if you take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - •Do not take an MAOI within 2 weeks of stopping citalopram unless directed to do so by your physician.
 - •Do not start citalopram if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.

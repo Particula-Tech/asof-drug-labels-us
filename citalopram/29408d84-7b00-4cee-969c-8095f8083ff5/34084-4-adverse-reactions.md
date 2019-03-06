@@ -89,6 +89,10 @@ TABLE 3: Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clin
 | Impotence | 3% | <1% |
 | *Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. |  |  |
 
+1. 1.Denominator used was for females only (N=638 citalopram; N=252 placebo).
+2. 2.Primarily ejaculatory delay
+3. 3.Denominator used was for males only (N=425 citalopram; N=194 placebo).
+
 Dose Dependency of Adverse Events
 
 The potential relationship between the dose of citalopram administered and the incidence of adverse events was examined in a fixed-dose study in depressed patients receiving placebo or citalopram 10, 20, 40, and 60 mg.

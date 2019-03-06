@@ -121,7 +121,7 @@ Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and 
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of citalopram with NSAIDS, aspirin, or other drugs that affect coagulation.
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of citalopram with NSAIDs, aspirin, or other drugs that affect coagulation.
 
 Hyponatremia
 
@@ -186,7 +186,7 @@ Patients should be advised to notify their physician if they are breastfeeding a
 While patients may notice improvement with citalopram therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with citalopram and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressants Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for citalopram.
+A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for citalopram.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted with this document.
@@ -230,7 +230,7 @@ Although citalopram did not potentiate the cognitive and motor effects of alcoho
 
 Monoamine Oxidase Inhibitors (MAOIs)
 
-See CONTRAINDICATIONS and WARNINGS and DOSAGE and ADMINISTRATION.
+See CONTRAINDICATIONS and WARNINGS and DOSAGE AND ADMINISTRATION.
 
 Drugs That Interfere with Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
