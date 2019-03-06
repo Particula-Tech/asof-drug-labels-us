@@ -1,15 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-DYSPORT® for Injection is supplied in a sterile, single-use, glass vial.
-Unopened vials of DYSPORT® must be stored under refrigeration at 2°C to 8°C (36°F to 46°F).
+DYSPORT® (abobotulinumtoxinA) for Injection is a sterile, lyophilized powder supplied in a single-dose, glass vial.
+Unopened vials of DYSPORT must be stored refrigerated between 2°C to 8°C (36°F to 46°F).
 Protect from light.
 
 Do not use after the expiration date on the vial.
-All vials, including expired vials, or equipment used with DYSPORT® should be disposed of carefully as is done with all medical waste.
+All vials, including expired vials, or equipment used with DYSPORT should be disposed of carefully as is done with all medical waste.
 
-DYSPORT® contains a unique hologram on the carton.
+DYSPORT contains a unique hologram on the carton.
 If you do not see the hologram, do not use the product.
-Instead contact 877-397-7671.
+Instead contact 855-463-5127.
 
 Cervical Dystonia, Spasticity in Adults, and Lower Limb Spasticity in Pediatric Patients
 
