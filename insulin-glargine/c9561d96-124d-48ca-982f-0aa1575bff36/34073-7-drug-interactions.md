@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Table 3 includes clinically significant drug interactions with TOUJEO
+Table 3 includes clinically significant drug interactions with TOUJEO.
 
-Table 3: Clinically Significant Drug Interactions with TOUJEO.
+Table 3: Clinically Significant Drug Interactions with TOUJEO
 
 | Drugs That May Increase the Risk of Hypoglycemia |  |
 | --- | --- |

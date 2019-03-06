@@ -4,7 +4,7 @@ TOUJEO (insulin glargine injection) is a long-acting insulin supplied as a steri
 
 Insulin glargine is a human insulin analog produced by recombinant DNA technology utilizing a nonpathogenic laboratory strain of Escherichia coli (K12) as the production organism.
 Insulin glargine differs from human insulin in that the amino acid asparagine at position A21 is replaced by glycine and two arginines remain at the C-terminus of the B-chain.
-Chemically, insulin glargine is 21A-Gly-31B -32B -Di-Arg -human insulin and has the empirical formula C267H404N72O78S6 and a molecular weight of 6063.
+Chemically, insulin glargine is 21A-Gly-31B-32B-Di-Arg -human insulin and has the empirical formula C267H404N72O78S6 and a molecular weight of 6063.
 Insulin glargine has the following structural formula:
 
 Each milliliter of TOUJEO contains 300 units (10.91 mg) insulin glargine dissolved in a clear aqueous fluid.
