@@ -4,32 +4,39 @@
 
 Risk Summary
 
-There are no randomized clinical studies of fluticasone propionate/salmeterol DISKUS or individual monoproducts, fluticasone propionate and salmeterol xinafoate, in pregnant women.
-There are clinical considerations with the use of fluticasone propionate/salmeterol DISKUS in pregnant women (see Clinical Considerations).
-In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis (see Data).
-However, fluticasone propionate administered via inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis (see Data).
+There are insufficient data on the use of fluticasone propionate/salmeterol DISKUS or individual monoproducts, fluticasone propionate and salmeterol xinafoate, in pregnant women.
+There are clinical considerations with the use of fluticasone propionate/salmeterol DISKUS in pregnant women.
+(See Clinical Considerations.)
+In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
+(See Data.)
+However, fluticasone propionate administered via inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis.
+(See Data.)
 Experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 Oral administration of salmeterol to pregnant rabbits caused teratogenicity characteristic of beta-adrenoceptor stimulation at maternal doses approximately 50 times the MRHDID on an AUC basis.
 These adverse effects generally occurred at large multiples of the MRHDID when salmeterol was administered by the oral route to achieve high systemic exposures.
-No such effects occurred at an oral salmeterol dose approximately 20 times the MRHDID (see Data).
+No such effects occurred at an oral salmeterol dose approximately 20 times the MRHDID.
+(See Data.)
 
 The estimated risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal adverse outcomes such as pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
-Pregnant women with asthma should be closely monitored and medication adjusted as necessary to maintain optimal asthma control.
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal outcomes such as pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control of asthma.
+
+Labor and Delivery: There are no human studies evaluating the effects of fluticasone propionate/salmeterol DISKUS during labor and delivery.
+Because of the potential for beta agonist interference with uterine contractility, use of Fluticasone Propionate/Salmeterol DISKUS during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
 
 Data
 
-Human Data:Fluticasone Propionate: Following inhaled administration, fluticasone propionate was detected in the neonatal cord blood after delivery.
+Human Data: Fluticasone Propionate: Following inhaled administration, fluticasone propionate was detected in the neonatal cord blood after delivery.
 
-Animal Data:Fluticasone Propionate and Salmeterol: In an embryofetal development study with pregnant rats that received the combination of subcutaneous administration of fluticasone propionate and oral administration of salmeterol at doses of 0/1,000; 30/0; 10/100; 30/1,000; and 100/10,000 mcg/kg/day (as fluticasone propionate/salmeterol) during the period of organogenesis, findings were generally consistent with the individual monoproducts and there was no exacerbation of expected fetal effects.
+Animal Data: Fluticasone Propionate and Salmeterol: In an embryofetal development study with pregnant rats that received the combination of subcutaneous administration of fluticasone propionate and oral administration of salmeterol at doses of 0/1,000; 30/0; 10/100; 30/1,000; and 100/10,000 mcg/kg/day (as fluticasone propionate/salmeterol) during the period of organogenesis, findings were generally consistent with the individual monoproducts and there was no exacerbation of expected fetal effects.
 Omphalocele, increased embryofetal deaths, decreased body weight, and skeletal variations were observed in rat fetuses in the presence of maternal toxicity when combining fluticasone propionate at a dose approximately equivalent to the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 100 mcg/kg/day) and salmeterol at a dose approximately 970 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 10,000 mcg/kg/day).
 The rat no observed adverse effect level (NOAEL) was observed when combining fluticasone propionate at a dose approximately 0.3 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 30 mcg/kg/day) and salmeterol at a dose approximately 100 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 1,000 mcg/kg/day).
 
-In an embryofetal development study with pregnant mice that received the combination of following subcutaneous administration of fluticasone propionate and oral administration of salmeterol at doses of 0/1,400; 40/0; 10/200; 40/1,400; or 150/10,000 mcg/kg/day (as fluticasone propionate/salmeterol) during the period of organogenesis, findings were generally consistent with the individual monoproducts and there was no exacerbation of expected fetal effects.
+In an embryofetal development study with pregnant mice that received the combination of subcutaneous administration of fluticasone propionate and oral administration of salmeterol at doses of 0/1,400; 40/0; 10/200; 40/1,400; or 150/10,000 mcg/kg/day (as fluticasone propionate/salmeterol) during the period of organogenesis, findings were generally consistent with the individual monoproducts and there was no exacerbation of expected fetal effects.
 Cleft palate, fetal death, increased implantation loss, and delayed ossification were observed in mouse fetuses when combining fluticasone propionate at a dose approximately 0.7 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 150 mcg/kg/day) and salmeterol at a dose approximately 490 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 10,000 mcg/kg/day).
 No developmental toxicity was observed at combination doses of fluticasone propionate up to approximately 0.2 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 40 mcg/kg) and doses of salmeterol up to approximately 70 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 1,400 mcg/kg).
 
@@ -74,8 +81,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-Animal Data: Subcutaneous administration of tritiated fluticasone propionate at a dose in lactating rats approximately 0.08 times the MRHDID for adults (on a mcg/m2 basis) resulted in measurable levels in milk.
-Oral administration of salmeterol at a dose in lactating rats approximately 973 times the MRHDID for adults (on a mcg/m2 basis) resulted in measurable levels in milk.
+Animal Data: Subcutaneous administration of tritiated fluticasone propionate at a dose of 10 mcg/kg/day to lactating rats resulted in measurable levels in milk.
+Oral administration of salmeterol at a dose of 10,000 mcg/kg/day to lactating rats resulted in measurable levels in milk.
 
 ## 8.4 Pediatric Use
 

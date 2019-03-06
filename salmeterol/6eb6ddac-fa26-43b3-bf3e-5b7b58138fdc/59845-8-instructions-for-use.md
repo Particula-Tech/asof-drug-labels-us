@@ -1,4 +1,4 @@
-| INSTRUCTIONS FOR USEFluticasone Propionate/Salmeterol DISKUS inhalation powderfor oral inhalation |
+| INSTRUCTIONS FOR USEFluticasone Propionate/Salmeterol DISKUS inhalation powderfor oral inhalation use |
 | --- |
 
 Read this Instructions for Use before you start using Fluticasone Propionate/Salmeterol DISKUS and each time you get a refill.
@@ -130,9 +130,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-ADD-PS:3IFU
+ADD-PS:4IFU
 
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: January 2018 |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: January 2019 |
 | --- |

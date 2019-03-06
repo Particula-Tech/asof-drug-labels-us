@@ -203,7 +203,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including Fl
 ## 5.15 Glaucoma and Cataracts
 
 Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with asthma and COPD following the long-term administration of ICS, including fluticasone propionate, a component of Fluticasone Propionate/Salmeterol DISKUS.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use Fluticasone Propionate/Salmeterol DISKUS long term.
 
 Effects of treatment with fluticasone propionate/salmeterol DISKUS 500/50 mcg, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on development of cataracts or glaucoma was evaluated in a subset of 658 subjects with COPD in the 3-year survival trial.
 Ophthalmic examinations were conducted at baseline and at 48, 108, and 158 weeks.
