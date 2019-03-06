@@ -1,21 +1,34 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Gout Flare
+## 5.1 Cardiovascular Death
+
+In a cardiovascular (CV) outcome study (ClinicalTrials.gov identifier NCT01101035), gout patients with established CV disease treated with ULORIC had a higher rate of CV death compared to those treated with allopurinol.
+The CV outcomes study in patients with gout (CARES) was a randomized, double-blinded, allopurinol-controlled, non-inferiority study conducted to evaluate the risk of major adverse cardiovascular events (MACE) in patients with gout who were treated with ULORIC.
+The study enrolled patients who had a history of major CV disease, cerebrovascular disease or diabetes mellitus with micro- and/or macrovascular disease.
+The primary endpoint was the time to first occurrence of MACE defined as the composite of CV death, nonfatal MI, nonfatal stroke, or unstable angina with urgent coronary revascularization.
+The study was designed to exclude a prespecified risk margin of 1.3 for the hazard ratio of MACE.
+Results showed that ULORIC was non-inferior to allopurinol for the primary endpoint of MACE [Hazard Ratio: 1.03, 95% Confidence Interval (CI): 0.89, 1.21].
+However, there was a significant increase in CV deaths in patients treated with ULORIC (134 [1.5 per 100 patient-years]) compared to patients treated with allopurinol (100 [1.1 per 100 patient-years]) [Hazard Ratio: 1.34, 95% CI: 1.03, 1.73].
+Sudden cardiac death was the most common cause of adjudicated CV deaths in the ULORIC group (83 of 3,098; 2.7%) as compared to the allopurinol group (56 of 3,092; 1.8%).
+ULORIC was similar to allopurinol for nonfatal MI, nonfatal stroke and unstable angina with urgent coronary revascularization [see Clinical Studies (14.2)].
+
+Because of the increased risk of CV death, ULORIC should only be used in patients who have an inadequate response to a maximally titrated dose of allopurinol, who are intolerant to allopurinol, or for whom treatment with allopurinol is not advisable [see Indications and Usage(1)].
+
+Consider the risks and benefits of ULORIC when deciding to prescribe or continue patients on ULORIC [see Indications and Usage (1)].
+Consider use of prophylactic low-dose aspirin therapy in patients with a history of CV disease.
+Physicians and patients should remain alert for the development of adverse CV event signs and symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
+
+## 5.2 Gout Flares
 
 After initiation of ULORIC, an increase in gout flares is frequently observed.
 This increase is due to reduction in serum uric acid levels, resulting in mobilization of urate from tissue deposits.
 
 In order to prevent gout flares when ULORIC is initiated, concurrent prophylactic treatment with an NSAID or colchicine is recommended [see Dosage and Administration (2.4)].
 
-## 5.2 Cardiovascular Events
-
-In the randomized controlled studies, there was a higher rate of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) in patients treated with ULORIC (0.74 per 100 P-Y [95% Confidence Interval (CI) 0.36-1.37]) than allopurinol (0.60 per 100 P-Y [95% CI 0.16-1.53]) [see Adverse Reactions (6.1)].
-A causal relationship with ULORIC has not been established.
-Monitor for signs and symptoms of myocardial infarction (MI) and stroke.
-
 ## 5.3 Hepatic Effects
 
-There have been postmarketing reports of fatal and non-fatal hepatic failure in patients taking ULORIC, although the reports contain insufficient information necessary to establish the probable cause.
+There have been postmarketing reports of fatal and nonfatal hepatic failure in patients taking ULORIC, although the reports contain insufficient information necessary to establish the probable cause.
 During randomized controlled studies, transaminase elevations greater than three times the upper limit of normal (ULN) were observed (AST: 2%, 2%, and ALT: 3%, 2% in ULORIC and allopurinol-treated patients, respectively).
 No dose-effect relationship for these transaminase elevations was noted [see Clinical Pharmacology (12.3)].
 

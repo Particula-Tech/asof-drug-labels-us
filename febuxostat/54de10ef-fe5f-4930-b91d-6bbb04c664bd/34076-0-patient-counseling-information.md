@@ -1,14 +1,23 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Patients should be advised of the potential benefits and risks of ULORIC.
-Patients should be informed about the potential for gout flares, elevated liver enzymes and adverse cardiovascular events after initiation of ULORIC therapy.
+CV Death
 
-Concomitant prophylaxis with an NSAID or colchicine for gout flares should be considered.
+Inform patients that gout patients with established CV disease treated with ULORIC had a higher rate of CV death compared to those treated with allopurinol in a CV outcomes study.
+Inform all patients of the higher rate of CV death with ULORIC compared to allopurinol.
+Instruct all patients (those with and without CV disease) to be alert for the development of signs and symptoms of CV events [see Warnings and Precautions (5.1)].
 
-Patients should be instructed to inform their healthcare professional if they develop a rash, chest pain, shortness of breath or neurologic symptoms suggesting a stroke.
-Some serious skin and allergic reactions such as rash, skin reddening, pain, swelling or blistering of lips, eyes or mouth, skin peeling and flu-like symptoms have been reported in patients taking ULORIC.
-Patients who had previous reactions to allopurinol may be at greater risk for these skin conditions [see Warnings and Precautions (5.4)].
+Gout Flares
 
-Patients should be instructed to inform their healthcare professional of any other medications they are currently taking with ULORIC, including over-the-counter medications.
+Inform patients that after initiation of ULORIC there was an increased frequency of gout flares.
+Instruct patients that it is recommended to initiate and continue gout prophylaxis therapy for six months while taking ULORIC [see Warnings and Precautions (5.2)].
+
+Hepatic Effects
+
+Inform patients that hepatic effects have occurred in patients treated with ULORIC and instruct them to inform their healthcare provider if they experience liver injury symptoms [see Warnings and Precautions (5.3)].
+
+Serious Skin Reactions
+
+Inform patients that serious skin and hypersensitivity reactions have occurred in patients treated with ULORIC.
+Instruct patients to discontinue ULORIC if they develop symptoms of these reactions [see Warnings and Precautions (5.4)].

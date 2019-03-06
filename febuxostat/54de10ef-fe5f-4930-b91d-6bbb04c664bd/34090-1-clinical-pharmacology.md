@@ -17,11 +17,11 @@ Percent reduction in 24 hour mean serum uric acid concentrations was between 40%
 Effect on Cardiac Repolarization
 
 The effect of ULORIC on cardiac repolarization as assessed by the QTc interval was evaluated in normal healthy patients and in patients with gout.
-ULORIC in doses up to 300 mg daily, at steady-state, did not demonstrate an effect on the QTc interval.
+ULORIC in doses up to 300 mg daily (3.75 times the maximum recommended daily dosage), at steady-state, did not demonstrate an effect on the QTc interval.
 
 ## 12.3 Pharmacokinetics
 
-In healthy patients, maximum plasma concentrations (Cmax) and AUC of febuxostat increased in a dose proportional manner following single and multiple doses of 10 mg to 120 mg.
+In healthy patients, maximum plasma concentrations (Cmax) and AUC of febuxostat increased in a dose proportional manner following single and multiple doses of 10 mg (0.25 times the lowest recommended dosage) to 120 mg (1.5 times the maximum recommended dosage).
 There is no accumulation when therapeutic doses are administered every 24 hours.
 Febuxostat has an apparent mean terminal elimination half-life (t1/2) of approximately 5 to 8 hours.
 Febuxostat pharmacokinetic parameters for patients with hyperuricemia and gout estimated by population pharmacokinetic analyses were similar to those estimated in healthy patients.
@@ -29,12 +29,12 @@ Febuxostat pharmacokinetic parameters for patients with hyperuricemia and gout e
 Absorption
 
 The absorption of radiolabeled febuxostat following oral dose administration was estimated to be at least 49% (based on total radioactivity recovered in urine).
-Maximum plasma concentrations of febuxostat occurred between 1 and 1.5 hours post-dose.
+Maximum plasma concentrations of febuxostat occurred between 1 and 1.5 hours postdose.
 After multiple oral 40 mg and 80 mg once daily doses, Cmax is approximately 1.6 ± 0.6 mcg/mL (N=30), and 2.6 ± 1.7 mcg/mL (N=227), respectively.
 Absolute bioavailability of the febuxostat tablet has not been studied.
 
 Following multiple 80 mg once daily doses with a high fat meal, there was a 49% decrease in Cmax and an 18% decrease in AUC, respectively.
-However, no clinically significant change in the percent decrease in serum uric acid concentration was observed (58% fed vs. 51% fasting).
+However, no clinically significant change in the percent decrease in serum uric acid concentration was observed (58% fed vs 51% fasting).
 Thus, ULORIC may be taken without regard to food.
 
 Concomitant ingestion of an antacid containing magnesium hydroxide and aluminum hydroxide with an 80 mg single dose of ULORIC has been shown to delay absorption of febuxostat (approximately one hour) and to cause a 31% decrease in Cmax and a 15% decrease in AUC∞.
@@ -62,24 +62,20 @@ In addition to the urinary excretion, approximately 45% of the dose was recovere
 
 The apparent mean terminal elimination half-life (t1/2) of febuxostat was approximately 5 to 8 hours.
 
-Special Populations
+Specific Populations
 
-Pediatric Use
-
-The pharmacokinetics of ULORIC in patients under the age of 18 years have not been studied.
-
-Geriatric Use
+Geriatric Patients
 
 The Cmax and AUC of febuxostat and its metabolites following multiple oral doses of ULORIC in geriatric patients (≥65 years) were similar to those in younger patients (18 to 40 years).
 In addition, the percent decrease in serum uric acid concentration was similar between elderly and younger patients.
 No dose adjustment is necessary in geriatric patients [see Use in Specific Populations (8.5)].
 
-Renal Impairment
+Patients with Renal Impairment
 
 In a dedicated phase I pharmacokinetics study, following multiple 80 mg doses of ULORIC in healthy patients with mild (Clcr 50 to 80 mL/min), moderate (Clcr 30 to 49 mL/min) or severe renal impairment (Clcr 10 to 29 mL/min), the Cmax of febuxostat did not change relative to patients with normal renal function (Clcr greater than 80 mL/min).
 AUC and half-life of febuxostat increased in patients with renal impairment in comparison to patients with normal renal function, but values were similar among three renal impairment groups.
 Mean febuxostat AUC values were up to 1.8 times higher in patients with renal impairment compared to those with normal renal function.
-Mean Cmax and AUC values for three active metabolites increased up to 2- and 4-fold, respectively.
+Mean Cmax and AUC values for three active metabolites increased up to two and four-fold, respectively.
 However, the percent decrease in serum uric acid concentration for patients with renal impairment was comparable to those with normal renal function (58% in normal renal function group and 55% in the severe renal function group).
 
 Based on population pharmacokinetic analysis, following multiple 40 mg or 80 mg doses of ULORIC, the mean oral clearance (CL/F) values of febuxostat in patients with gout and mild (n=334), moderate (n=232) or severe (n=34) renal impairment were decreased by 14%, 34%, and 48%, respectively, compared to patients with normal (n=89) renal function.
@@ -87,25 +83,25 @@ The corresponding median AUC values of febuxostat at steady-state in patients wi
 
 ULORIC has not been studied in end stage renal impairment patients who are on dialysis.
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 Following multiple 80 mg doses of ULORIC in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, an average of 20% to 30% increase was observed for both Cmax and AUC24 (total and unbound) in hepatic impairment groups compared to patients with normal hepatic function.
 In addition, the percent decrease in serum uric acid concentration was comparable between different hepatic groups (62% in healthy group, 49% in mild hepatic impairment group, and 48% in moderate hepatic impairment group).
 No dose adjustment is necessary in patients with mild or moderate hepatic impairment.
 No studies have been conducted in patients with severe hepatic impairment (Child-Pugh Class C); caution should be exercised in those patients [see Use in Specific Populations (8.7)].
 
-Gender
+Male and Female Patients
 
 Following multiple oral doses of ULORIC, the Cmax and AUC24 of febuxostat were 30% and 14% higher in females than in males, respectively.
 However, weight-corrected Cmax and AUC were similar between the genders.
 In addition, the percent decrease in serum uric acid concentrations was similar between genders.
 No dose adjustment is necessary based on gender.
 
-Race
+Racial Groups
 
 No specific pharmacokinetic study was conducted to investigate the effects of race.
 
-Drug-Drug Interactions
+Drug Interaction Studies
 
 Effect of ULORIC on Other Drugs
 
@@ -152,7 +148,9 @@ Administration of ULORIC (40 mg once daily) with colchicine (0.6 mg twice daily)
 In addition, administration of colchicine (0.6 mg twice daily) with ULORIC (120 mg daily) resulted in a less than 11% change in Cmax or AUC of colchicine for both AM and PM doses.
 These changes were not considered clinically significant.
 
-Naproxen No dose adjustment is necessary for ULORIC or naproxen when the two drugs are coadministered.
+Naproxen
+
+No dose adjustment is necessary for ULORIC or naproxen when the two drugs are coadministered.
 Administration of ULORIC (80 mg once daily) with naproxen (500 mg twice daily) resulted in a 28% increase in Cmax and a 40% increase in AUC of febuxostat.
 The increases were not considered clinically significant.
 In addition, there were no significant changes in the Cmax or AUC of naproxen (less than 2%).

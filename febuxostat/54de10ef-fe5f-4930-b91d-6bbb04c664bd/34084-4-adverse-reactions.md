@@ -1,12 +1,19 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described elsewhere in the prescribing information:
+
+- Cardiovascular Death [see Warnings and Precautions (5.1)]
+- Hepatic Effects [see Warnings and Precautions (5.3)]
+- Serious Skin Reactions [see Warnings and Precautions (5.4)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A total of 2757 patients with hyperuricemia and gout were treated with ULORIC 40 mg or 80 mg daily in clinical studies.
+In Phase 2 and 3 clinical studies, a total of 2757 patients with hyperuricemia and gout were treated with ULORIC 40 mg or 80 mg daily.
 For ULORIC 40 mg, 559 patients were treated for ≥6 months.
 For ULORIC 80 mg, 1377 patients were treated for ≥6 months, 674 patients were treated for ≥1 year and 515 patients were treated for ≥2 years.
+In the CARES study, a total of 3098 patients were treated with ULORIC 40 mg or 80 mg daily; of these, 2155 patients were treated for ≥1 year and 1539 were treated for ≥2 years [see Clinical Studies (14.2)].
 
 Most Common Adverse Reactions
 
@@ -27,9 +34,11 @@ The most common adverse reaction leading to discontinuation from therapy was liv
 
 In addition to the adverse reactions presented in Table 1, dizziness was reported in more than 1% of patients treated with ULORIC although not at a rate more than 0.5% greater than placebo.
 
+In the CARES study, liver function abnormalities and diarrhea were reported in more than 1% of patients treated with ULORIC, although not at a rate more than 0.5% greater than allopurinol.
+
 Less Common Adverse Reactions
 
-In Phase 2 and 3 clinical studies the following adverse reactions occurred in less than 1% of patients and in more than one subject treated with doses ranging from 40 mg to 240 mg of ULORIC.
+In clinical studies the following adverse reactions occurred in less than 1% of patients and in more than one subject treated with doses ranging from 40 mg to 240 mg of ULORIC.
 This list also includes adverse reactions (less than 1% of patients) associated with organ systems from Warnings and Precautions.
 
 Blood and Lymphatic System Disorders: anemia, idiopathic thrombocytopenic purpura, leukocytosis/leukopenia, neutropenia, pancytopenia, splenomegaly, thrombocytopenia.
@@ -72,20 +81,9 @@ Vascular Disorders: flushing, hot flush, hypertension, hypotension.
 
 Laboratory Parameters: activated partial thromboplastin time prolonged, creatine increased, bicarbonate decreased, sodium increased, EEG abnormal, glucose increased, cholesterol increased, triglycerides increased, amylase increased, potassium increased, TSH increased, platelet count decreased, hematocrit decreased, hemoglobin decreased, MCV increased, RBC decreased, creatinine increased, blood urea increased, BUN/creatinine ratio increased, creatine phosphokinase (CPK) increased, alkaline phosphatase increased, LDH increased, PSA increased, urine output increased/decreased, lymphocyte count decreased, neutrophil count decreased, WBC increased/decreased, coagulation test abnormal, low density lipoprotein (LDL) increased, prothrombin time prolonged, urinary casts, urine positive for white blood cells and protein.
 
-Cardiovascular Safety
-
-Cardiovascular events and deaths were adjudicated to one of the pre-defined endpoints from the Anti-Platelet Trialists' Collaborations (APTC) (cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke) in the randomized controlled and long-term extension studies.
-In the Phase 3 randomized controlled studies, the incidences of adjudicated APTC events per 100 patient-years of exposure were: Placebo 0 (95% CI 0.00-6.16), ULORIC 40 mg 0 (95% CI 0.00-1.08), ULORIC 80 mg 1.09 (95% CI 0.44-2.24), and allopurinol 0.60 (95% CI 0.16-1.53).
-
-In the long-term extension studies, the incidences of adjudicated APTC events were: ULORIC 80 mg 0.97 (95% CI 0.57-1.56), and allopurinol 0.58 (95% CI 0.02-3.24).
-
-Overall, a higher rate of APTC events was observed in ULORIC than in patients treated with allopurinol.
-A causal relationship with ULORIC has not been established.
-Monitor for signs and symptoms of MI and stroke.
-
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of ULORIC.
+The following adverse reactions have been identified during postapproval use of ULORIC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: agranulocytosis, eosinophilia.

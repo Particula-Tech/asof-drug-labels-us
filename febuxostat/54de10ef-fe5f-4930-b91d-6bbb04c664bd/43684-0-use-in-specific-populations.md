@@ -40,21 +40,19 @@ Orally administered febuxostat was detected in the milk of lactating rats at up 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients under 18 years of age have not been established.
+Safety and effectiveness of ULORIC in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
 No dose adjustment is necessary in elderly patients.
-Of the total number of patients in clinical studies of ULORIC, 16% were 65 and over, while 4% were 75 and over.
+Of the total number of patients in Studies 1, 2, and 3 (clinical studies of ULORIC in the treatment of gout) [see Clinical Studies (14.1)], 16% were 65 and over, while 4% were 75 and over.
 Comparing patients in different age groups, no clinically significant differences in safety or effectiveness were observed but greater sensitivity of some older individuals cannot be ruled out.
 The Cmax and AUC24 of febuxostat following multiple oral doses of ULORIC in geriatric patients (≥65 years) were similar to those in younger patients (18 to 40 years) [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 No dose adjustment is necessary in patients with mild to moderate renal impairment (Clcr 30 to 89 mL/min).
-The recommended starting dose of ULORIC is 40 mg once daily.
-For patients who do not achieve a sUA less than 6 mg/dL after two weeks with 40 mg, ULORIC 80 mg is recommended.
-For patients with severe renal impairment (Clcr 15 to 29 mL/min), the dose of ULORIC is limited to 40 mg once daily [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+For patients with severe renal impairment (Clcr 15 to 29 mL/min), the recommended dosage of ULORIC is limited to 40 mg once daily [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
