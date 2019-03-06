@@ -111,7 +111,7 @@ Nervous: Ataxia, suicide [see Drug Interactions (7.1)]
 
 Renal: Acute renal failure
 
-The Celecoxib Long-Term Arthritis Safety Study [see Special Studies (14.6)]
+The Celecoxib Long-Term Arthritis Safety Study [see Clinical Studies (14.7)]
 
 Hematological Events: The incidence of clinically significant decreases in hemoglobin (greater than 2 g/dL) was lower in patients on celecoxib 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
 The lower incidence of events with celecoxib was maintained with or without aspirin use [see Clinical Pharmacology (12.2)].
@@ -175,7 +175,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.6)].
+Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib were greater as compared to the arthritis pre-marketing trials were as follows:

@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
 Inform patients, families, or their caregivers of the following information before initiating therapy with celecoxib and periodically during the course of ongoing therapy.
@@ -47,8 +47,9 @@ Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with celecoxib capsules until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured in India by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: May 2016
+Rev.
+A 10/2018

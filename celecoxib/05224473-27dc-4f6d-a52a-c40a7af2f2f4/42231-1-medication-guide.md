@@ -1,3 +1,5 @@
+# MEDICATION GUIDE
+
 Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
 What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
@@ -49,7 +51,7 @@ Before taking NSAIDs, tell your healthcare provider about all of your medical co
 - are pregnant or plan to become pregnant.
   Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
   You should not take NSAIDs after 29 weeks of pregnancy.
-- are breastfeeding or plan to breast feed.
+- are breastfeeding or plan to breastfeed.
 
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
 NSAIDs and some other medicines can interact with each other and cause serious side effects.
@@ -114,7 +116,7 @@ It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured in India by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
@@ -122,4 +124,5 @@ For more information, go to www.actavis.com or call 1-800-272-5525.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: May 2016
+Rev.
+A 10/2018

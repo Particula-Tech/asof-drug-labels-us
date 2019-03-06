@@ -6,7 +6,7 @@ Cardiovascular Thrombotic Events
   This risk may occur early in the treatment and may increase with duration of use.
   [see Warnings and Precautions (5.1)]
 
-- Celecoxibis contraindicated in the setting of coronary artery bypass graft (CABG) surgery.
+- Celecoxib is contraindicated in the setting of coronary artery bypass graft (CABG) surgery.
   [see Contraindications (4) and Warnings and Precautions (5.1)]
 
 Gastrointestinal Bleeding, Ulceration, and Perforation
