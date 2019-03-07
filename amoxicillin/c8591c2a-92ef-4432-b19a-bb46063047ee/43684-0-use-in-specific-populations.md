@@ -4,7 +4,7 @@
 
 Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area).
 There was no evidence of harm to the fetus due to amoxicillin.
-There are, however, no adequate and well-controlled studies in pregnant women.
+There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, amoxicillin should be used during pregnancy only if clearly needed.
 
 ## 8.2 Labor and Delivery
@@ -21,7 +21,7 @@ Caution should be exercised when amoxicillin is administered to a nursing woman.
 ## 8.4 Pediatric Use
 
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed.
-Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (≤ 3 months) [See Dosage and Administration (2.2)].
+Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (≤ 3 months) [See Dosage and Administration (2.2).]
 
 ## 8.5 Geriatric Use
 

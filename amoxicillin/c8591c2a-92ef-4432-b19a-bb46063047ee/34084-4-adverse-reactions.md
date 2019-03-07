@@ -1,9 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following are discussed in more detail in other sections of the labeling:
-
-- Anaphylactic reactions [see Warnings and Precautions (5.1)]
-- CDAD [see Warnings and Precautions (5.2)]
+The following are discussed in more detail in other sections of the labeling: • Anaphylactic reactions [see Warnings and Precautions (5.1)] • CDAD [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -12,7 +9,6 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The most common adverse reactions (> 1%) observed in clinical trials of amoxicillin tablets were diarrhea, rash, vomiting, and nausea.
 
 Triple therapy: The most frequently reported adverse events for patients who received triple therapy (amoxicillin/clarithromycin/ lansoprazole) were diarrhea (7%), headache (6%), and taste perversion (5%).
-
 Dual therapy: The most frequently reported adverse events for patients who received double therapy amoxicillin/lansoprazole were diarrhea (8%) and headache (7%).
 For more information on adverse reactions with clarithromycin or lansoprazole, refer to the Adverse Reactions section of their package inserts.
 
@@ -24,7 +20,7 @@ These events have been chosen for inclusion due to a combination of their seriou
 
 - Infections and Infestations: Mucocutaneous candidiasis.
 - Gastrointestinal: Black hairy tongue, and hemorrhagic/pseudomembranous colitis.
-- Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.2)].
+  Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.2)].
 - Hypersensitivity Reactions: Anaphylaxis [see Warnings and Precautions (5.1)].
   Serum sickness–like reactions, erythematous maculopapular rashes, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and urticaria have been reported.
 - Liver: A moderate rise in AST and/or ALT has been noted, but the significance of this finding is unknown.
