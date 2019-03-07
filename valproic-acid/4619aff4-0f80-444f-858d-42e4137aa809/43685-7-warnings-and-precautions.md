@@ -37,12 +37,12 @@ This older group of patients should be closely monitored during treatment with D
 The drug should be discontinued immediately in the presence of significant hepatic dysfunction, suspected or apparent.
 In some cases, hepatic dysfunction has progressed in spite of discontinuation of drug [see Boxed Warning and Contraindications (4)].
 
-## 5.2 Birth Defects
+## 5.2 Structural Birth Defects
 
 Valproate can cause fetal harm when administered to a pregnant woman.
 Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
-Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
+Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population [see Use in Specific Populations (8.1)].
 
 ## 5.3 Decreased IQ Following in utero Exposure
 
@@ -60,15 +60,14 @@ Although all of the available studies have methodological limitations, the weigh
 
 In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
 
-Women with epilepsy who are pregnant or who plan to become pregnant should not be treated with valproate unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
-In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
-
 ## 5.4 Use in Women of Childbearing Potential
 
-Because of the risk to the fetus of decreased IQ and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
-This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
+Because of the risk to the fetus of decreased IQ, neurodevelopmental disorders, and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable.
+This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headaches [see Contraindications (4)].
 Women should use effective contraception while using valproate.
-Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of valproate use during pregnancy, and alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
+
+Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
+This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
 
 To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 

@@ -36,15 +36,15 @@ Depakote and Depakene can cause serious side effects, including:
      Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
    - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
    - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
-   - If you take Depakote or Depakene during pregnancy for any medical condition, your child is at risk for having a lower IQ.
-   - There may be other medicines to treat your condition that have a lower chance of causing birth defects and decreased IQ in your child.
+   - If you take Depakote or Depakene during pregnancy for any medical condition, your child is at risk for having lower IQ.
+   - There may be other medicines to treat your condition that have a lower chance of causing birth defects, decreased IQ, or other disorders in your child.
    - Women who are pregnant must not take Depakote or Depakene to prevent migraine headaches.
-   - All women of childbearing age should talk to their healthcare provider about using other possible treatments instead of Depakote or Depakene.
+   - All women of childbearing age (including girls from the start of puberty) should talk to their healthcare provider about using other possible treatments instead of Depakote or Depakene.
      If the decision is made to use Depakote or Depakene, you should use effective birth control (contraception).
    - Tell your healthcare provider right away if you become pregnant while taking Depakote or Depakene.
      You and your healthcare provider should decide if you will continue to take Depakote or Depakene while you are pregnant.
    - Pregnancy Registry: If you become pregnant while taking Depakote or Depakene, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-     You can enroll in this registry by calling 1-888-233-2334.
+     You can enroll in this registry by calling toll-free 1-888-233-2334 or by visiting the website, http://www.aedpregnancyregistry.org/.
      The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 3. Inflammation of your pancreas that can cause death.
    Call your healthcare provider right away if you have any of these symptoms:
@@ -100,7 +100,7 @@ Do not take Depakote or Depakene if you:
 - are allergic to divalproex sodium, valproic acid, sodium valproate, or any of the ingredients in Depakote or Depakene.
   See the end of this leaflet for a complete list of ingredients in Depakote and Depakene.
 - have a genetic problem called urea cycle disorder
-- are pregnant for the prevention of migraine headaches
+- are taking it to prevent migraine headaches and are either pregnant or may become pregnant because you are not using effective birth control (contraception)
 
 What should I tell my healthcare provider before taking Depakote or Depakene?
 
@@ -249,8 +249,8 @@ Depakene Oral Solution: Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A. OR 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©2017 AbbVie Inc.
+©2019 AbbVie Inc.
 
-Revised: October 2017
+Revised: February 2019
 
-03-B600
+03-B892
