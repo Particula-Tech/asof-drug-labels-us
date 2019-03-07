@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-NDC 0121-0577-08: 8 fl oz (237 mL) bottles NDC 0121-0577-16: 16 fl oz (473 mL) bottles NDC 0121-0577-32: 32 fl oz (946 mL) bottle
+NDC 0121-0577-08: 8 fl oz (237 mL) bottle NDC 0121-0577-16: 16 fl oz (473 mL) bottle NDC 0121-0577-32: 32 fl oz (946 mL) bottle
 
 NDC 0121-4577-15: 15 mL unit dose cup NDC 0121-4577-40: Case contains 40 unit dose cups of 15 mL (0121-4577-15) packaged in 4 trays of 10 unit dose cups each.
 
