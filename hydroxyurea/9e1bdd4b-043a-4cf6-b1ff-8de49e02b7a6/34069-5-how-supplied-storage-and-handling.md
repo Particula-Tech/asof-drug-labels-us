@@ -16,7 +16,7 @@ Keep tightly closed.
 ## 16.3 Handling and Disposal
 
 Hydroxyurea capsules is a cytotoxic drug.
-Follow applicable special handling and disposal procedures [see REFERENCES (15)].
+Follow applicable special handling and disposal procedures [see References(15)].
 
 To decrease the risk of contact, advise caregivers to wear disposable gloves when handling hydroxyurea capsules or bottles containing hydroxyurea capsules.
 Wash hands with soap and water before and after contact with the bottle or capsules when handling hydroxyurea capsules.
