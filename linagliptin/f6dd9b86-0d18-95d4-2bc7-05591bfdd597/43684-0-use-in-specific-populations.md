@@ -20,7 +20,7 @@ However, these studies cannot definitely establish the absence of any metformin-
 
 Animal Data Linagliptin and metformin, the components of JENTADUETO, were coadministered to pregnant Wistar Han rats during the period of organogenesis.
 No adverse developmental outcome was observed at doses similar to the maximum recommended clinical dose, based on exposure.
-At higher doses associated with maternal toxicity, the metformin component of the combination was associated with an increased incidence of fetal rib and scapula malformations at ≥ 9-times a 2000 mg clinical dose, based on exposure.
+At higher doses associated with maternal toxicity, the metformin component of the combination was associated with an increased incidence of fetal rib and scapula malformations at ≥9-times a 2000 mg clinical dose, based on exposure.
 
 Linagliptin No adverse developmental outcome was observed when linagliptin was administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg and 150 mg/kg, respectively.
 These doses represent approximately 943 times (rats) and 1943 times (rabbits) the 5 mg clinical dose, based on exposure.
