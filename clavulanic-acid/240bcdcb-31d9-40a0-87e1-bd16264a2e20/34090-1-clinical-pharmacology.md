@@ -10,7 +10,7 @@ Amoxicillin and clavulanate potassium for oral suspension is an antibacterial dr
 Mean amoxicillin and clavulanate potassium pharmacokinetic parameters in normal adults following administration of amoxicillin and clavulanate potassium tablets are shown in Table 3 and following administration of amoxicillin and clavulanate potassium powder for oral suspension and chewable tablets are shown in Table 4.
 
 Table 3: Mean (±S.D.)
-Amoxicillin and Clavulanate Potassium Pharmacokinetic Parametersa,b with Amoxicillin and Clavulanate Potassium Tablets
+Amoxicillin and Clavulanate Potassium Pharmacokinetic Parametersa,bwith Amoxicillin and Clavulanate Potassium Tablets
 
 | Dose and Regimen | Cmax (mcg/mL) |  | AUC0-24 (mcg*h/mL) |  |
 | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ Peak concentrations occurred approximately 1.5 hours after the dose.
 b Amoxicillin/clavulanate potassium administered at the start of a light meal.
 
 Table 4: Mean (±S.D.)
-Amoxicillin and Clavulanate Potassium Pharmacokinetic Parametersa,b with Amoxicillin and Clavulanate Potassium Powder for Oral Suspension and Chewable Tablets
+Amoxicillin and Clavulanate Potassium Pharmacokinetic Parametersa,bwith Amoxicillin and Clavulanate Potassium Powder for Oral Suspension and Chewable Tablets
 
 | Dose | Cmax (mcg/mL) |  | AUC0-24 (mcg*h/mL) |  |
 | --- | --- | --- | --- | --- |
@@ -56,9 +56,7 @@ Two hours after oral administration of a single 35 mg/kg dose of suspension of a
 
 Metabolism and Excretion: The half-life of amoxicillin after the oral administration of amoxicillin and clavulanate potassium suspension is 1.3 hours and that of clavulanic acid is 1 hour.
 
-Approximately 50% to 70% of the amoxicillin and approximately 25% to 40% of the clavulanic acid are excreted unchanged in urine during the first 6 hours after administration of a single 250-mg or
-
-500-mg tablet of amoxicillin and clavulanate potassium.
+Approximately 50% to 70% of the amoxicillin and approximately 25% to 40% of the clavulanic acid are excreted unchanged in urine during the first 6 hours after administration of a single 250-mg or 500-mg tablet of amoxicillin and clavulanate potassium.
 
 ## 12.4 Microbiology
 
@@ -109,45 +107,6 @@ Fusobacterium species
 
 Peptostreptococcus species
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-Dilution techniques:
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method2, 3 (broth and/or agar).
-The MIC values should be interpreted according to criteria provided in Table 5.
-
-Diffusion techniques:
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method3,4.
-This procedure uses paper disks impregnated with 30 mcg amoxicillin/clavulanic acid (20 mcg amoxicillin plus 10 mcg clavulanic acid) to test the susceptibility of bacteria to amoxicillin/clavulanic acid.
-The disc diffusion interpretive criteria are provided in Table 5.
-
-Table 5: Susceptibility Test Interpretive Criteria for Amoxicillin Clavulanic Acid
-
-| Minimum Inhibitory Concentrations (mcg/mL) |  | Disk Diffusion (zone diameters in mm) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | S | I | R | S | I | R |
-| Enterobacteriaceae | 8/4 | 16/8 | 32/16 | ≥18 | 14-17 | ≤13 |
-| Haemophilus influenzae and Staphylococcus aureus | 4/2 | -- | 8/4 | ≥20 | -- | ≤19 |
-
-Quality Control:
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test2,3,4.
-Standard amoxicillin/clavulanic acid powder should provide the following range of MIC values noted in Table 6 for the diffusion technique using the 30 mcg amoxicillin/clavulanic acid (20 mcg amoxicillin plus 10 mcg clavulanic acid) disk, the criteria in Table 6 should be achieved.
-
-Table 6: Acceptable Quality Control Ranges for Amoxicillin/Clavulanic Acid
-
-| QC Strain | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |
-| --- | --- | --- |
-| Escherichia coli ATCC 25922 | 2/1 to 8/4 | 18 to 24 |
-| Escherichia coli ATCC 35218 | 4/2 to 16/8 | 17 to 22 |
-| Haemophilus influenzae ATCC 49247 | 2/1 to 16/8 | 15 to 23 |
-| Staphylococcus aureus ATCC 29213 | 0.12/0.06 to 0.5/0.25 | - |
-| Staphylococcus aureus ATCC 29523 | - | 28 to 36 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
