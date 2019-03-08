@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050617"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8075-60",
+    "0378-8075-93"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "erythromycin",
+      "name": "ERYGEL"
+    }
+  ],
+  "setid": "f1c6885e-4136-4542-a8a2-7fa8fcd77a03",
+  "source": "dailymed"
+}
