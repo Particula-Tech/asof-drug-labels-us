@@ -2,7 +2,7 @@
 
 ## 1.1. Complicated Urinary Tract Infections (cUTI), including Pyelonephritis
 
-VABOMERE™ is indicated for the treatment of patients 18 years of age and older with complicated urinary tract infections (cUTI) including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, and Enterobacter cloacae species complex.
+VABOMERE® is indicated for the treatment of patients 18 years of age and older with complicated urinary tract infections (cUTI) including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, and Enterobacter cloacae species complex.
 
 ## 1.2. Usage
 
