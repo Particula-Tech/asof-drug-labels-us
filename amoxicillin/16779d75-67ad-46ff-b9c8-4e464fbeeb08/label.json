@@ -1,0 +1,37 @@
+{
+  "application_numbers": [
+    "NDA050564",
+    "NDA050575",
+    "NDA050720"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "Neopharma Inc",
+  "package_ndcs": [
+    "72508-004-07",
+    "72508-004-10",
+    "72508-004-15",
+    "72508-006-14",
+    "72508-006-78",
+    "72508-012-01",
+    "72508-012-03",
+    "72508-012-05",
+    "72508-018-30",
+    "72508-018-78",
+    "72508-021-14",
+    "72508-021-78"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "AUGMENTIN"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "AUGMENTIN"
+    }
+  ],
+  "setid": "16779d75-67ad-46ff-b9c8-4e464fbeeb08",
+  "source": "dailymed"
+}
