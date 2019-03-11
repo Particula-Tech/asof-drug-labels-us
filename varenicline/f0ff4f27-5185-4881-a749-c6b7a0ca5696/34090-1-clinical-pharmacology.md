@@ -50,10 +50,7 @@ A combined single- and multiple-dose pharmacokinetic study demonstrated that the
 
 Age: Pediatric Patients
 
-Because the safety and effectiveness of CHANTIX in pediatric patients have not been established, CHANTIX is not recommended for use in patients under 18 years of age.
-Single and multiple-dose pharmacokinetics of varenicline have been investigated in pediatric patients aged 12 to 17 years old (inclusive) and were approximately dose-proportional over the 0.5 mg to 2 mg daily dose range studied.
-Steady-state systemic exposure in adolescent patients of bodyweight >55 kg, as assessed by AUC (0–24), was comparable to that noted for the same doses in the adult population.
-When 0.5 mg BID was given, steady-state daily exposure of varenicline was, on average, higher (by approximately 40%) in adolescent patients with bodyweight ≤ 55 kg compared to that noted in the adult population.
+CHANTIX is not recommended for use in pediatric patients 16 years of age or younger because its efficacy in this population was not demonstrated [see Use in Specific Populations (8.4)].
 
 Renal Impairment
 
