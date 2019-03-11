@@ -35,7 +35,7 @@ Risk Summary
 
 There are no data on the presence of aprepitant in human milk, the effects on the breastfed infant, or the effects on milk production.
 Aprepitant is present in rat milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for CINVANTI and any potential adverse effects on the breastfed infant from CINVANTI or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CINVANTI and any potential adverse effects on the breastfed infant from CINVANTI or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 

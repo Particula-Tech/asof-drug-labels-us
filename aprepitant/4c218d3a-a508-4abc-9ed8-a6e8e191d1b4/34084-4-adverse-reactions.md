@@ -11,6 +11,7 @@ Safety of CINVANTI
 
 A total of 200 healthy subjects received a single 130 mg dose of CINVANTI as a 30-minute infusion.
 Adverse reactions reported in at least 2% of subjects were headache (3%) and fatigue (2%).
+The safety profile of CINVANTI in 50 healthy subjects who received a single 2-minute injection was similar to that seen with a 30-minute infusion.
 
 Single-Dose Intravenous Fosaprepitant -- HEC
 
@@ -41,7 +42,7 @@ Adverse Reactions (≥ 1%) in Patients Receiving MEC with a Greater Incidence in
 | Fatigue | 1.4 | 0.9 |
 | Eructation | 1.0 | 0.1 |
 
-A listing of adverse reactions reported in less than 1% in patients treated with the oral aprepitant regimen that occurred at a incidence greater than in patients treated with standard therapy are presented in the Less Common Adverse Reactions subsection below.
+A listing of adverse reactions reported in less than 1% in patients treated with the oral aprepitant regimen that occurred at an incidence greater than in patients treated with standard therapy are presented in the Less Common Adverse Reactions subsection below.
 
 Less Common Adverse Reactions
 
@@ -74,7 +75,7 @@ The adverse experience profiles in the Multiple-Cycle extensions of HEC and MEC 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of intravenous fosaprepitant and/or oral aprepitant.
+The following adverse reactions have been identified during post-approval use of intravenous fosaprepitant and/or intravenous or oral aprepitant.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Skin and subcutaneous tissue disorders: pruritus, rash, urticaria, Stevens-Johnson syndrome/toxic epidermal necrolysis [see Warnings and Precautions (5.2)].

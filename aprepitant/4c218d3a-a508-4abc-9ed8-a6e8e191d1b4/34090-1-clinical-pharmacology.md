@@ -13,19 +13,19 @@ Animal and human studies show that aprepitant augments the antiemetic activity o
 Cardiac Electrophysiology
 
 In a randomized, double-blind, positive-controlled, thorough QTc study, a single 200 mg intravenous dose of fosaprepitant, a prodrug of aprepitant, had no effect on the QTc interval.
-In a cross-study comparison, maximum aprepitant concentrations Cmax after a single 200 mg dose of fosaprepitant were 1.04- and 1.5-fold higher than that achieved with CINVANTI 130 mg and 100 mg dose, respectively.
+In a cross-study comparison, maximum aprepitant concentrations (Cmax) after a single 200 mg dose of fosaprepitant were 1.04- and 1.5-fold higher than that achieved with CINVANTI 130 mg dose and 100 mg dose given as a 30-minute infusion, respectively.
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetic parameters following administration of a single intravenous 100 mg or 130 mg dose of CINVANTI administered as a 30-minute infusion to healthy subjects are summarized in Table 8.
+Pharmacokinetic parameters following administration of a single intravenous 130 mg dose of CINVANTI administered as a 2-minute injection or 100 mg or 130 mg dose of CINVANTI administered as a 30-minute infusion to healthy subjects are summarized in Table 8.
 
 Table 8.
-Aprepitant Pharmacokinetic Parameters (Mean (± Standard Deviation)) After Single Dose Intravenous Administration of CINVANTI Over 30 Minutes
+Aprepitant Pharmacokinetic Parameters (Mean (± Standard Deviation)) After Single-Dose Intravenous Administration of CINVANTI
 
-|  | CINVANTI 130 mg | CINVANTI 100 mg |
-| --- | --- | --- |
-| AUC0-72hr (mcg•hr/mL) | 43.9 (± 12.7) | 27.8 (± 6.5) |
-| Cmax (mcg/mL) | 6.1 (± 1.5) | 4.3 (± 1.2) |
+|  | CINVANTI 130 mg 2-minute intravenous injection | CINVANTI 130 mg 30-minute intravenous infusion | CINVANTI 100 mg 30-minute intravenous infusion |
+| --- | --- | --- | --- |
+| AUC0-72hr (mcg•hr/mL) | 45.6 (± 15.5) | 43.9 (± 12.7) | 27.8 (± 6.5) |
+| Cmax (mcg/mL) | 13.9 (±3.8) | 6.1 (± 1.5) | 4.3 (± 1.2) |
 
 Distribution
 
@@ -128,7 +128,7 @@ Although there was no effect of oral aprepitant on the plasma AUC of R(+) or S(-
 Tolbutamide: Oral aprepitant, when given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, decreased the AUC of tolbutamide by 23% on Day 4, 28% on Day 8, and 15% on Day 15, when a single dose of tolbutamide 500 mg was administered prior to the administration of the 3-day regimen of oral aprepitant and on Days 4, 8, and 15.
 This effect was not considered clinically important.
 
-Other Drugs
+Other Drugs:
 
 P-glycoprotein substrates: Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter, as demonstrated by the lack of interaction of oral aprepitant with digoxin in a clinical drug interaction study.
 

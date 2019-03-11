@@ -18,13 +18,13 @@ Treatment Regimens in HEC TrialFosaprepitant placebo, aprepitant placebo and dex
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
 | Intravenous Fosaprepitant Regimen |  |  |  |  |
-| Fosaprepitant | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | none | none | none |
+| Fosaprepitant | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | None | None | None |
 | Oral dexamethasoneDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. Dexamethasone was also administered in the evenings on Days 3 and 4. The 12 mg dose of dexamethasone on Day 1 and the 8 mg once daily dose on Day 2 reflects a dosage adjustment to account for a drug interaction with the fosaprepitant regimen [see Clinical Pharmacology (12.3)]. | 12 mg | 8 mg | 8 mg twice daily | 8 mg twice daily |
-| Ondansetron | OndansetronOndansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the clinical trial, this is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | none | none | none |
+| Ondansetron | OndansetronOndansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the clinical trial, this is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | None | None | None |
 | Oral Aprepitant Regimen |  |  |  |  |
-| Aprepitant capsules | 125 mg | 80 mg | 80 mg | none |
+| Aprepitant capsules | 125 mg | 80 mg | 80 mg | None |
 | Oral dexamethasoneDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. The 12 mg dose of dexamethasone on Day 1 and the 8 mg once daily dose on Days 2 through 4 reflects a dosage adjustment to account for a drug interaction with the oral aprepitant regimen [see Clinical Pharmacology (12.3)]. | 12 mg | 8 mg | 8 mg | 8 mg |
-| Ondansetron | Ondansetron | none | none | none |
+| Ondansetron | Ondansetron | None | None | None |
 
 The efficacy of a single-dose of intravenous fosaprepitant was evaluated based on the primary and secondary endpoints listed in Table 10 and was shown to be non-inferior to that of the 3-day oral aprepitant regimen with regard to complete response in each of the evaluated phases.
 The pre-specified non-inferiority margin for complete response in the overall phase was 7%.
@@ -104,7 +104,7 @@ In this study, a statistically significantly (p = 0.015) higher proportion of pa
 The difference between treatment groups was primarily driven by the "No Emesis Endpoint", a principal component of this composite primary endpoint.
 In addition, a higher proportion of patients receiving the oral aprepitant regimen in Cycle 1 had a complete response during the acute (0 to 24 hours) and delayed (25 to 120 hours) phases compared with patients receiving standard therapy; however, the treatment group differences failed to reach statistical significance, after multiplicity adjustments.
 
-Additional Patient-Reported Outcomes: In this study, in patients receiving MEC, the impact of nausea and vomiting on patients’ daily lives was assessed in Cycle 1 using the FLIE.
+Additional Patient-Reported Outcomes: In this study, in patients receiving MEC, the impact of nausea and vomiting on patients' daily lives was assessed in Cycle 1 using the FLIE.
 A higher proportion of patients receiving the oral aprepitant regimen reported minimal or no impact on daily life (64% versus 56%).
 This difference between treatment groups was primarily driven by the "No Vomiting Domain" of this composite endpoint.
 

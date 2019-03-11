@@ -13,12 +13,12 @@ See Table 6 and Table 7 for a listing of potentially significant drug interactio
 
 ## 5.2 Hypersensitivity Reactions
 
-Serious hypersensitivity reactions, including anaphylaxis and anaphylactic shock, have occurred during or soon after infusion of fosaprepitant, a prodrug of aprepitant, and with oral aprepitant.
-Symptoms including flushing, erythema, dyspnea, hypotension and syncope have been reported [see Adverse Reactions (6.2)].
+Serious hypersensitivity reactions, including anaphylaxis, during or soon after administration of CINVANTI have occurred.
+Symptoms including dyspnea, eye swelling, flushing, pruritus and wheezing have been reported [see Adverse Reactions (6.2)].
 
-Monitor patients during and after infusion.
-If hypersensitivity reactions occur, discontinue the infusion and administer appropriate medical therapy.
-Do not reinitiate CINVANTI in patients who experience these symptoms during first-time use.
+Monitor patients during and after administration.
+If hypersensitivity reactions occur, discontinue CINVANTI and administer appropriate medical therapy.
+Do not reinitiate CINVANTI in patients who experience these symptoms with previous use.
 
 ## 5.3 Decrease in INR with Concomitant Warfarin
 

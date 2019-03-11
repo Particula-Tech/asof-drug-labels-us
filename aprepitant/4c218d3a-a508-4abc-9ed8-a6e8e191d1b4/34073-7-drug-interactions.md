@@ -30,7 +30,7 @@ Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 | Intervention | Vinblastine, vincristine, or ifosfamide or other chemotherapeutic agents Monitor for chemotherapeutic-related adverse reactions. Etoposide, vinorelbine, paclitaxel, and docetaxel No dosage adjustment needed. |
 | Hormonal Contraceptives |  |
 | Clinical Impact | Decreased estrogen and progestin exposure during administration of and for 28 days after administration of the last dose of aprepitant [see Warnings and Precautions (5.4), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)]. |
-| Intervention | Effective alternative or back-up methods of contraception (such as condoms and spermicides) should be used during treatment with CINIVANTI and for 1 month following administration of CINVANTI or oral aprepitant, whichever is administered last. |
+| Intervention | Effective alternative or back-up methods of contraception (such as condoms or spermicides) should be used during treatment with CINVANTI and for 1 month following administration of CINVANTI or oral aprepitant, whichever is administered last. |
 | Examples | birth control pills, skin patches, implants, and certain IUDs |
 | CYP2C9 Substrates |  |
 | Warfarin |  |

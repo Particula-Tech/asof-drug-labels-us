@@ -4,8 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Hypersensitivity
 
-Advise patients that hypersensitivity reactions, including anaphylaxis and anaphylactic shock, have been reported in patients taking intravenous fosaprepitant and oral aprepitant.
-Advise patients to stop taking CINVANTI and seek immediate medical attention if they experience signs or symptoms of a hypersensitivity reaction, such as hives, rash and itching, skin peeling or sores, or difficulty in breathing or swallowing, or dizziness, rapid or weak heartbeat or feeling faint [see Warnings and Precautions (5.2)].
+Advise patients that hypersensitivity reactions, including anaphylaxis, have been reported [see Warnings and Precautions (5.2)].
+Advise patients to stop taking CINVANTI and seek immediate medical attention if they experience signs or symptoms of a hypersensitivity reaction, such as hives, rash and itching, skin peeling or sores, or difficulty in breathing or swallowing, or dizziness, rapid or weak heartbeat or feeling faint.
 
 Drug Interactions
 
@@ -20,5 +20,5 @@ Pregnancy
 
 Advise pregnant women of the potential risk to a fetus and to avoid use of CINVANTI during pregnancy [see Use in Specific Populations (8.1)].
 
-Manufactured for: Heron Therapeutics, Inc., San Diego, CA, 92121, USA Copyright© 2018 HERON THERAPEUTICS, San Diego, CA, 92121, USA.
+Manufactured for: Heron Therapeutics, Inc., San Diego, CA, 92121, USA Copyright© 2019 HERON THERAPEUTICS, San Diego, CA, 92121, USA.
 All rights reserved
