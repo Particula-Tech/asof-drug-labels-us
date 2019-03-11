@@ -76,8 +76,8 @@ Table 6 Fenofibrate Treatment in Patients with Hypertriglyceridemia
 | LDL Cholesterol | 115 | +3.2 | 120 | +15.4* | 122 | +14.5 |
 | VLDL Cholesterol | 87 | -1.6 | 92 | -34.4* | 83 | -30.4* |
 
-* p < 0.05 vs placebo
+* p ≤ 0.05 vs placebo
 
-** p < 0.05 vs placebo (log transformed data)
+** p ≤ 0.05 vs placebo (log transformed data)
 
 The effect of fenofibrate on cardiovascular morbidity and mortality has not been determined.

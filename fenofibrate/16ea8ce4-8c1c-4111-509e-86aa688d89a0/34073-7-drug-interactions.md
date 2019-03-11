@@ -10,7 +10,7 @@ Frequent PT/INR determinations are advisable until it has been definitely determ
 
 ## 7.2 Immunosuppressants
 
-Immunosuppressants such as cyclosporine and tacrolimus can produce nephrotoxicity with decreases in creatinine clearance and because renal excretion is the primary elimination route of fibrate drugs including fenofibrate, there is a risk that an interaction will lead to deterioration of renal function.
+Immunosuppressants such as cyclosporine and tacrolimus can produce nephrotoxicity with decrease in creatinine clearance and because renal excretion is the primary elimination route of fibrate drugs including fenofibrate, there is a risk that an interaction will lead to deterioration of renal function.
 The benefits and risks of using fenofibrate with immunosuppressants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed.
 
 ## 7.3 Bile-Acid Binding Resins

@@ -55,7 +55,7 @@ Following oral administration, fenofibrate is rapidly hydrolyzed by esterases to
 Fenofibric acid is primarily conjugated with glucuronic acid and then excreted in urine.
 A small amount of fenofibric acid is reduced at the carbonyl moiety to a benzhydrol metabolite which is, in turn, conjugated with glucuronic acid and excreted in urine.
 
-In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (eg, cytochrome P450) to a significant extent.
+In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (e.g, cytochrome P450) to a significant extent.
 
 • Elimination:
 
@@ -67,7 +67,7 @@ Fenofibrate acid from fenofibrate is eliminated with a half-life of 23 hours, al
 • Geriatrics:
 
 In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
-This indicates that a similar dosage regimen can be used in the elderly with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.4) and Use in Special Populatios (8.5)].
+This indicates that a similar dosage regimen can be used in the elderly with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
 
 • Pediatrics:
 
@@ -84,7 +84,7 @@ The influence of race on the pharmacokinetics of fenofibrate has not been studie
 • Renal Impairment:
 
 The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
-Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min or estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73m2) showed 2.7 fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min or estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
 Patients with mild to moderate (CrCl 30 to 80 mL/min or eGFR 30 to 59 mL/min/1.73m2) renal impairment had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
 Based on these findings, the use of fenofibrate should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4)].
 

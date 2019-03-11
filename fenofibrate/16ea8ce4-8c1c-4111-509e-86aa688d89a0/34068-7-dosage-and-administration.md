@@ -19,7 +19,7 @@ Lipid levels should be monitored periodically and consideration should be given 
 
 Therapy should be withdrawn in patients who do not have an adequate response after two months of treatment with the maximum recommended dose of 130 mg once daily.
 
-## 2.2 Hypercholesterolemia and Mixed Dyslipidemia
+## 2.2 Primary Hypercholesterolemia and Mixed Dyslipidemia
 
 The initial dose of fenofibrate capsules is 130 mg per day.
 

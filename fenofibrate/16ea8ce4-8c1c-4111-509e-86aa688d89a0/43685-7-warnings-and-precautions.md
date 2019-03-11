@@ -11,7 +11,7 @@ In a gender subgroup analysis, the hazard ratio for MACE in men receiving combin
 The clinical significance of this subgroup finding is unclear.
 
 The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study was a 5 year randomized, placebo-controlled study of 9795 patients with type 2 diabetes mellitus treated with fenofibrate.
-Fenofibrate demonstrated a non-significant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75-1.05, p=0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.800.99], p=0.04).
+Fenofibrate demonstrated a non-significant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75-1.05, p=0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.80 to 0.99], p=0.04).
 There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.18) and 19% (HR 1.19 [0.90, 1.57], p=0.22) increase in total and coronary heart disease mortality, respectively, with fenofibrate as compared to placebo.
 
 Because of chemical, pharmacological, and clinical similarities between TRICOR (fenofibrate tablets), clofibrate, and gemfibrozil, the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to fenofibrate.
@@ -50,7 +50,7 @@ Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrate
 
 ## 5.3 Liver Function
 
-Fenofibrate at doses equivalent to 87 mg to 130 mg fenofibrate per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
+Fenofibrate at doses equivalent to 130 mg fenofibrate per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
 
 In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal occurred in 5.3% of patients taking fenofibrate versus 1.1% of patients treated with placebo.
 When transaminase determinations were followed either after discontinuation of treatment or during continued treatment, a return to normal limits was usually observed.
@@ -77,7 +77,7 @@ Fenofibrate therapy should be discontinued if gallstones are found.
 
 ## 5.6 Coumarin Anticoagulants
 
-Caution should be exercised when anticoagulants are given in conjunction with fenofibrate because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/International Normalized Ratio (INR/INR).
+Caution should be exercised when anticoagulants are given in conjunction with fenofibrate because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/International Normalized Ratio (PT/INR).
 To prevent bleeding complications, frequent monitoring of PT/INR and dose adjustment of the anticoagulant are recommended until PT/INR has stabilized [see Drug Interactions (7.1)].
 
 ## 5.7 Pancreatitis
@@ -95,8 +95,17 @@ Periodic monitoring of red and white blood cell counts are recommended during th
 
 ## 5.9 Hypersensitivity Reactions
 
-Acute hypersensitivity reactions such as Stevens-Johnson syndrome and toxic necrolysis requiring patient hospitalization and treatment with steroids have been reported in individuals treated with fenofibrates.
-Urticaria was seen in 1.1 vs. 0%, and rash in 1.4 vs. 0.8% of fenofibrate and placebo patients, respectively, in controlled trials.
+Acute Hypersensitivity
+
+Anaphylaxis and angioedema have been reported postmarketing with fenofibrate.
+In some cases, reactions were life-threatening and required emergency treatment.
+If a patient develops signs or symptoms of an acute hypersensitivity reaction, advise them to seek immediate medical attention and discontinue fenofibrate.
+
+Delayed Hypersensitivity
+
+Severe cutaneous adverse drug reactions (SCAR), including Stevens-Johnson syndrome, Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported postmarketing, occurring days to weeks after initiation of fenofibrate.
+The cases of DRESS were associated with cutaneous reactions (such as rash or exfoliative dermatitis) and a combination of eosinophilia, fever, systemic organ involvement (renal, hepatic, or respiratory).
+Discontinue fenofibrate and treat patients appropriately if SCAR is suspected.
 
 ## 5.10 Venothromboembolic Disease
 

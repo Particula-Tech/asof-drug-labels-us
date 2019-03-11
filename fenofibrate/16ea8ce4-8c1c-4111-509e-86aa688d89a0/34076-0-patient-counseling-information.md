@@ -3,7 +3,7 @@
 Patients should be advised:
 
 - of the potential benefits and risks of fenofibrate.
-- not to use fenofibrate if there is a known hypersensitivity to fenofibrate or fenofibric acid.
+- not to use fenofibrate if there is a known hypersensitivity to fenofibrate capsules or fenofibric acid.
 - that if they are taking coumarin anticoagulants, fenofibrate may increase their anticoagulant effect, and increased monitoring may be necessary.
 - of medications that should not be taken in combination with fenofibrate.
 - to continue to follow an appropriate lipid-modifying diet while taking fenofibrate.
@@ -27,4 +27,4 @@ Lupin Limited
 
 Goa – 403 722 INDIA
 
-Revised: 1213
+Revised: 1218
