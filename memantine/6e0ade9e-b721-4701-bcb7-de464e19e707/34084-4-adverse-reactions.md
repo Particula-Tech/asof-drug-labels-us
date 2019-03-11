@@ -18,8 +18,9 @@ Table 1 lists all adverse reactions that occurred in at least 2% of patients tre
 
 Table 1: Adverse Reactions Reported in Controlled Clinical Trials in at Least 2% of Patients Receiving Memantine and at a Higher Frequency than Placebo-treated Patients
 
-| Adverse Reaction | Placebo (N = 922) % | Memantine (N = 940) % |
+|  | % | % |
 | --- | --- | --- |
+| Adverse Reaction | Placebo (N = 922) | Memantine (N = 940) |
 | Body as a Whole |  |  |
 | Fatigue | 1 | 2 |
 | Pain | 1 | 3 |

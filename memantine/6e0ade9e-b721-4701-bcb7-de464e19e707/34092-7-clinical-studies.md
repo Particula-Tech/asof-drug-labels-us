@@ -29,9 +29,15 @@ Figure 1 shows the time course for the change from baseline in the ADCS-ADL scor
 At 28 weeks of treatment, the mean difference in the ADCS-ADL change scores for the memantine-treated patients compared to the patients on placebo was 3.4 units.
 Using an analysis based on all patients and carrying their last study observation forward (LOCF analysis), memantine treatment was statistically significantly superior to placebo.
 
+| Figure 1: Time course of the change from baseline in ADCS-ADL score for patients completing 28 weeks of treatment. |
+| --- |
+
 Figure 2 shows the cumulative percentages of patients from each of the treatment groups who had attained at least the change in the ADCS-ADL shown on the X axis.
 The curves show that both patients assigned to memantine and placebo have a wide range of responses and generally show deterioration (a negative change in ADCS-ADL compared to baseline), but that the memantine group is more likely to show a smaller decline or an improvement.
 (In a cumulative distribution display, a curve for an effective treatment would be shifted to the left of the curve for placebo, while an ineffective or deleterious treatment would be superimposed upon or shifted to the right of the curve for placebo).
+
+| Figure 2: Cumulative percentage of patients completing 28 weeks of double-blind treatment with specified changes from baseline in ADCS-ADL scores. |
+| --- |
 
 Effects on the SIB
 
@@ -39,8 +45,14 @@ Figure 3 shows the time course for the change from baseline in SIB score for the
 At 28 weeks of treatment, the mean difference in the SIB change scores for the memantine-treated patients compared to the patients on placebo was 5.7 units.
 Using an LOCF analysis, memantine treatment was statistically significantly superior to placebo.
 
+| Figure 3: Time course of the change from baseline in SIB score for patients completing 28 weeks of treatment. |
+| --- |
+
 Figure 4 shows the cumulative percentages of patients from each treatment group who had attained at least the measure of change in SIB score shown on the X axis.
 The curves show that both patients assigned to memantine and placebo have a wide range of responses and generally show deterioration, but that the memantine group is more likely to show a smaller decline or an improvement.
+
+| Figure 4: Cumulative percentage of patients completing 28 weeks of double-blind treatment with specified changes from baseline in SIB scores. |
+| --- |
 
 Study 2 (Twenty-Four-Week Study)
 
@@ -53,8 +65,14 @@ Figure 5 shows the time course for the change from baseline in the ADCS-ADL scor
 At 24 weeks of treatment, the mean difference in the ADCS-ADL change scores for the memantine/donepezil treated patients (combination therapy) compared to the patients on placebo/donepezil (monotherapy) was 1.6 units.
 Using an LOCF analysis, memantine/donepezil treatment was statistically significantly superior to placebo/donepezil.
 
+| Figure 5: Time course of the change from baseline in ADCS-ADL score for patients completing 24 weeks of treatment. |
+| --- |
+
 Figure 6 shows the cumulative percentages of patients from each of the treatment groups who had attained at least the measure of improvement in the ADCS-ADL shown on the X axis.
 The curves show that both patients assigned to memantine/donepezil and placebo/donepezil have a wide range of responses and generally show deterioration, but that the memantine/donepezil group is more likely to show a smaller decline or an improvement.
+
+| Figure 6: Cumulative percentage of patients completing 24 weeks of double-blind treatment with specified changes from baseline in ADCS-ADL scores. |
+| --- |
 
 Effects on the SIB
 
@@ -62,8 +80,14 @@ Figure 7 shows the time course for the change from baseline in SIB score for the
 At 24 weeks of treatment, the mean difference in the SIB change scores for the memantine/donepezil-treated patients compared to the patients on placebo/donepezil was 3.3 units.
 Using an LOCF analysis, memantine/donepezil treatment was statistically significantly superior to placebo/donepezil.
 
+| Figure 7: Time course of the change from baseline in SIB score for patients completing 24 weeks of treatment. |
+| --- |
+
 Figure 8 shows the cumulative percentages of patients from each treatment group who had attained at least the measure of improvement in SIB score shown on the X axis.
 The curves show that both patients assigned to memantine/donepezil and placebo/donepezil have a wide range of responses, but that the memantine/donepezil group is more likely to show an improvement or a smaller decline.
+
+| Figure 8: Cumulative percentage of patients completing 24 weeks of double-blind treatment with specified changes from baseline in SIB scores. |
+| --- |
 
 Study 3 (Twelve-Week Study)
 

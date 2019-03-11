@@ -1,26 +1,26 @@
-Patient Information
+# Patient Information
 
 Memantine Hydrochloride (me-MAN-teen HYE-droe-KLOR-ide) Tablets
 
-Read this Patient Information that comes with Memantine Hydrochloride Tablets before you start taking it and each time you get a refill.
+Read this Patient Information that comes with memantine hydrochloride tablets before you start taking it and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your doctor about your medical condition or your treatment.
 
-What are Memantine Hydrochloride Tablets?
+What are memantine hydrochloride tablets?
 
-Memantine Hydrochloride Tablets are a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer's disease.
-Memantine Hydrochloride Tablets belongs to a class of medicines called NMDA (N-methyl-D-aspartate) inhibitors.
+Memantine hydrochloride tablets are a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer's disease.
+Memantine hydrochloride tablets belongs to a class of medicines called NMDA (N-methyl-D-aspartate) inhibitors.
 
-It is not known if Memantine Hydrochloride Tablets are safe and effective in children.
+It is not known if memantine hydrochloride tablets are safe and effective in children.
 
-Who should not take Memantine Hydrochloride Tablets?
+Who should not take memantine hydrochloride tablets?
 
-Do not take Memantine Hydrochloride Tablets if you are allergic to memantine or any of the ingredients in Memantine Hydrochloride Tablets.
-See the end of this leaflet for a complete list of ingredients in Memantine Hydrochloride Tablets.
+Do not take memantine hydrochloride tablets if you are allergic to memantine or any of the ingredients in memantine hydrochloride tablets.
+See the end of this leaflet for a complete list of ingredients in memantine hydrochloride tablets.
 
-What should I tell my doctor before taking Memantine Hydrochloride Tablets?
+What should I tell my doctor before taking memantine hydrochloride tablets?
 
-Before you take Memantine Hydrochloride Tablets, tell your doctor if you:
+Before you take memantine hydrochloride tablets, tell your doctor if you:
 
 - have or have had seizures
 - have or have had problems passing urine
@@ -28,15 +28,15 @@ Before you take Memantine Hydrochloride Tablets, tell your doctor if you:
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  It is not known if Memantine Hydrochloride Tablets will harm your unborn baby.
+  It is not known if memantine hydrochloride tablets will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if memantine passes into your breast milk.
-  You and your doctor should decide if you will take Memantine Hydrochloride Tablets or breastfeed.
+  Talk to your doctor about the best way to feed your baby if you take memantine hydrochloride tablets.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-Taking Memantine Hydrochloride Tablets with certain other medicines may affect each other.
-Taking Memantine Hydrochloride Tablets with other medicines can cause serious side effects.
+Taking memantine hydrochloride tablets with certain other medicines may affect each other.
+Taking memantine hydrochloride tablets with other medicines can cause serious side effects.
 
 Especially tell your doctor if you take:
 
@@ -48,64 +48,64 @@ Ask your doctor or pharmacist for a list of these medicines, if you are not sure
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
-How should I take Memantine Hydrochloride Tablets?
+How should I take memantine hydrochloride tablets?
 
-- Your doctor will tell you how much Memantine Hydrochloride Tablets to take and when to take it.
+- Your doctor will tell you how much memantine hydrochloride tablets to take and when to take it.
 - Your doctor may change your dose if needed.
-- Memantine Hydrochloride Tablets can be taken with food or without food.
-- Do not use any tablets of Memantine Hydrochloride Tablets that are damaged or show signs of tampering.
-- If you forget to take one dose of Memantine Hydrochloride Tablets, do not double up on the next dose.
+- Memantine hydrochloride tablets can be taken with food or without food.
+- Do not use any tablets of memantine hydrochloride tablets that are damaged or show signs of tampering.
+- If you forget to take one dose of memantine hydrochloride tablets, do not double up on the next dose.
   You should take only the next dose as scheduled.
-- If you have forgotten to take Memantine Hydrochloride Tablets for several days, you should not take the next dose until you talk to your doctor.
-- If you take too many Memantine Hydrochloride Tablets, call your doctor or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
+- If you have forgotten to take memantine hydrochloride tablets for several days, you should not take the next dose until you talk to your doctor.
+- If you take too much memantine hydrochloride tablets, call your doctor or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
 
-What are the possible side effects of Memantine Hydrochloride Tablets?
+What are the possible side effects of memantine hydrochloride tablets?
 
-Memantine Hydrochloride Tablets may cause side effects, including:
+Memantine hydrochloride tablets may cause side effects, including:
 
-The most common side effects of Memantine Hydrochloride Tablets include:
+The most common side effects of memantine hydrochloride tablets include:
 
 - dizziness
 - headache
 - confusion
 - constipation
 
-These are not all the possible side effects of Memantine Hydrochloride Tablets.
+These are not all the possible side effects of memantine hydrochloride tablets.
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store Memantine Hydrochloride Tablets?
+How should I store memantine hydrochloride tablets?
 
-- Store Memantine Hydrochloride Tablets at room temperature between 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+- Store memantine hydrochloride tablets at room temperature between 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
-What are the ingredients in Memantine Hydrochloride Tablets?
+What are the ingredients in memantine hydrochloride tablets?
 
 Memantine Hydrochloride Tablets:
 
 Active ingredients: memantine hydrochloride
 
 Inactive ingredients: colloidal silicon dioxide, magnesium stearate and microcrystalline cellulose.
-In addition the following inactive ingredients are also present as components of the film coat: polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, iron oxide yellow (5 mg), iron oxide red (5 mg) and iron oxide black (10 mg).
+In addition, the following inactive ingredients are also present as components of the film coating: polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, iron oxide yellow (5 mg), iron oxide red (5 mg) and iron oxide black (10 mg).
 
-Keep Memantine Hydrochloride Tablets and all medicines out of the reach of children.
+Keep memantine hydrochloride tablets and all medicines out of the reach of children.
 
-General information about the safe and effective use of Memantine Hydrochloride Tablets.
+General information about the safe and effective use of memantine hydrochloride tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not take Memantine Hydrochloride Tablets for a condition for which it was not prescribed.
-Do not give Memantine Hydrochloride Tablets to other people, even if they have the same condition.
+Do not take memantine hydrochloride tablets for a condition for which it was not prescribed.
+Do not give memantine hydrochloride tablets to other people, even if they have the same condition.
 It may harm them.
 
-This Patient Information leaflet summarizes the most important information about Memantine Hydrochloride Tablets.
+This Patient Information leaflet summarizes the most important information about memantine hydrochloride tablets.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Memantine Hydrochloride Tablets that was written for healthcare professionals.
+You can ask your doctor or pharmacist for information about memantine hydrochloride tablets that was written for healthcare professionals.
 
-For more information about Memantine Hydrochloride Tablets, go to www.upsher-smith.com or call 1-888-650-3789.
+For more information about memantine hydrochloride tablets, go to www.upsher-smith.com or call 1-888-650-3789.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 0318
+Revised 0119
