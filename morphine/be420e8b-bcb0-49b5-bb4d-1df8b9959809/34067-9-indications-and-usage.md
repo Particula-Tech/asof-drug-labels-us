@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Morphine Sulfate Injection, is indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.
+Morphine Sulfate Injection is indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.
 
 Limitations of Use
 

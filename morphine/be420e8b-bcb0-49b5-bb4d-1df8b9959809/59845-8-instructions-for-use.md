@@ -3,14 +3,14 @@
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
 
-Carpuject™ Single-use cartridges with Luer Lock are packaged in a Slim-Pak™ tamper detection package.
+Carpuject™ Single-dose cartridges with Luer Lock are packaged in a Slim-Pak™ tamper detection package.
 Note that a needle is not included.
 
 Instructions for using the Carpuject™ Syringe are available with the reusable Carpuject™ Holder, List 2049-02.
 
-Carpuject™ Single-use cartridges are to be used ONLY with Carpuject™ Holders, List 2049-02.
+Carpuject™ Single-dose cartridges are to be used ONLY with Carpuject™ Holders, List 2049-02.
 
-To prevent needle-stick injuries, needles should not be recapped, purposely bent or broken by hand.
+To prevent needlestick injuries, needles should not be recapped, purposely bent or broken by hand.
 Blunt Cannulas should not be recapped, purposely bent or broken by hand.
 
 | To Use iSecure™ Syringe |  |  |
@@ -23,4 +23,4 @@ Blunt Cannulas should not be recapped, purposely bent or broken by hand.
 | 3. | Twist the luer tip cap clockwise or counterclockwise to break the tamper evident label. Remove luer tip cap and discard it. Expel the air by pushing on the plunger rod. Attach needle or blunt cannula if required. |  |
 | NOTE: To prevent needlestick injuries, needles and blunt cannulas should not be recapped, purposely bent, or broken by hand. |  |  |
 
-LAB-0921-1.0 Revised November 2017
+LAB-0921-2.0 Revised March 2019

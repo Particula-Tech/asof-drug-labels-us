@@ -49,7 +49,8 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
 
 Concentration–Adverse Reaction Relationships
 
@@ -66,7 +67,7 @@ A blood-brain barrier exists, and when morphine is introduced outside of the CNS
 
 Elimination
 
-Morphine has a total plasma clearance which ranges from 0.9 to 1.2 L/kg/h in postoperative patients, but shows considerable interindividual variation.
+Morphine has a total plasma clearance which ranges from 0.9 to 1.2 L/kg/h in postoperative patients, but shows considerable inter individual variation.
 
 Metabolism
 
@@ -83,8 +84,8 @@ Specific population
 
 Sex
 
-While evidence of greater post-operative Morphine Sulfate Injection USP consumption in men compared to women is present in the literature, clinically significant differences in analgesic outcomes and pharmacokinetic parameters have not been consistently demonstrated.
-Some studies have shown an increased sensitivity to the adverse effects of Morphine Sulfate Injection USP, including respiratory depression, in women compared to men.
+While evidence of greater post-operative Morphine Sulfate Injection consumption in men compared to women is present in the literature, clinically significant differences in analgesic outcomes and pharmacokinetic parameters have not been consistently demonstrated.
+Some studies have shown an increased sensitivity to the adverse effects of Morphine Sulfate Injection, including respiratory depression, in women compared to men.
 
 Hepatic Impairment
 

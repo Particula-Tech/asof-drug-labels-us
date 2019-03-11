@@ -25,8 +25,8 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Injectio
 | Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Morphine Sulfate Injection and/or the muscle relaxant as necessary. |
 | Cimetidine |  |
-| Clinical Impact: | Concomitant administration of Morphine Sulfate and cimetidine has been reported to precipitate apnea, confusion, and muscle twitching in an isolated report. |
-| Intervention: | Monitor patients for increased respiratory and CNS depression when receiving cimetidine concomitantly with Morphine Sulfate. |
+| Clinical Impact: | Concomitant administration of Morphine Sulfate Injection and cimetidine has been reported to precipitate apnea, confusion, and muscle twitching in an isolated report. |
+| Intervention: | Monitor patients for increased respiratory and CNS depression when receiving cimetidine concomitantly with Morphine Sulfate Injection. |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |

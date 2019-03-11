@@ -3,7 +3,7 @@
 Serotonin Syndrome
 
 Opioids can cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
-Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions 7].
+Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
 Constipation
 
