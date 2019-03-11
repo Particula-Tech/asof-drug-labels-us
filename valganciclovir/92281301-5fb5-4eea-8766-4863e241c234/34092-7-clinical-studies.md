@@ -33,7 +33,7 @@ These results are summarized in Table 20.
 
 Mortality at six months was 3.7% (9/244) in the valganciclovir hydrochloride group and 1.6% (2/126) in the oral ganciclovir group.
 
-Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or CMV syndrome by Organ Type: Endpoint Committee, 6 Month ITT Population
+Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or CMV Syndrome by Organ Type: Endpoint Committee, 6 Month ITT Population
 
 |  | CMV Disease1 |  | Tissue-Invasive CMV Disease |  | CMV Syndrome2 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -77,5 +77,7 @@ The pharmacokinetics of ganciclovir were similar across organ transplant types a
 The mean daily ganciclovir exposures in pediatric patients were somewhat increased relative to those observed in adult solid organ transplant patients receiving valganciclovir 900 mg once daily, but were within the range considered safe and effective in adults [see Clinical Pharmacology (12.3)].
 No case of CMV syndrome or tissue-invasive CMV disease was reported within the first six months post-transplantation.
 
-Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
-However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Prevention of CMV in Pediatric Kidney Transplantation: Fifty-seven children, 1 to 16 years of age, who had a renal transplant and were at risk for developing CMV disease, were enrolled in an open-label tolerability study of oral valganciclovir (valganciclovir for oral solution or tablets).
+Patients received valganciclovir once daily within 10 days after transplant until a maximum of 200 days post-transplant.
+The daily doses of valganciclovir were calculated at each study visit based on body surface area and a modified creatinine clearance [see Dosage and Administration (2.3)].
+No case of CMV syndrome or tissue-invasive CMV disease was reported within the first 12 months post-transplantation.

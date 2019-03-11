@@ -5,15 +5,15 @@ Because ganciclovir is dialyzable, dialysis may be useful in reducing serum conc
 Adequate hydration should be maintained.
 The use of hematopoietic growth factors should be considered [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Reports of adverse reactions after overdoses with valganciclovir, some with fatal outcomes, have been received from clinical trials and during post-marketing experience.
+Reports of adverse reactions after overdoses with valganciclovir, some with fatal outcomes, have been received from clinical trials and during postmarketing experience.
 The majority of patients experienced one or more of the following adverse events:
 
-Hematological toxicity: myelosuppression including pancytopenia, medullary aplasia, leukopenia, neutropenia, granulocytopenia
+Hematological toxicity: myelosuppression including pancytopenia, bone marrow failure, leukopenia, neutropenia, granulocytopenia
 
 Hepatotoxicity: hepatitis, liver function disorder
 
-Renal toxicity: worsening of hematuria in a patient with pre-existing renal impairment, acute renal failure, elevated creatinine
+Renal toxicity: worsening of hematuria in a patient with pre-existing renal impairment, acute kidney injury, elevated creatinine
 
 Gastrointestinal toxicity: abdominal pain, diarrhea, vomiting
 
-Neurotoxicity: generalized tremor, seizures
+Neurotoxicity: generalized tremor, seizure

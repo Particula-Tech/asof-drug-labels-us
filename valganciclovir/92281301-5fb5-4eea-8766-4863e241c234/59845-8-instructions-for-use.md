@@ -15,9 +15,11 @@ Important:
   To take a dose of valganciclovir hydrochloride for oral solution, you will need the bottle of medicine and an oral dispenser provided with the medicine (see Figure 1).
   Your pharmacist inserts the bottle adapter in the valganciclovir hydrochloride for oral solution bottle.
 
+Figure 1
+
 Step 1: With the child-resistant cap on the bottle, shake the bottle well for about 5 seconds before each use.
 
-Step 2: Open the bottle by pressing downward firmly on the child-resistant cap and turning it counterclockwise.
+Step 2: Open the bottle by pressing downward firmly on the child-resistant cap and turning it counter-clockwise.
 Do not throw away the child-resistant cap.
 
 Step 3: Check the dose in milliliters (mL) as prescribed by your healthcare provider.
@@ -29,13 +31,15 @@ Step 5: With the bottle in an upright position, insert the oral dispenser into t
 
 Step 6: Carefully turn the bottle upside down with the oral dispenser in place.
 Pull the plunger to withdraw the prescribed dose.
-If you see air bubbles in the syringe, fully push in the plunger so that the oral solution flows back into the bottle.
+
+If you see air bubbles in the oral dispenser, fully push in the plunger so that the oral solution flows back into the bottle.
+
 Then withdraw your prescribed dose of valganciclovir hydrochloride for oral solution.
 
 Step 7: Leave the oral dispenser in the bottle adapter and turn the bottle to an upright position.
 Slowly remove the oral dispenser from the bottle adapter.
 
-Steps 8: Give or take the dose of valganciclovir hydrochloride for oral solution.
+Step 8: Give or take the dose of valganciclovir hydrochloride for oral solution.
 
 - Place the tip of the oral dispenser in the mouth.
 - Slowly push down the oral dispenser plunger until the oral dispenser is empty.
@@ -45,8 +49,9 @@ Return the bottle back to the refrigerator.
 
 Step 10: Rinse the oral dispenser with tap water after each use.
 
-- Remove the plunger from the oral dispenser barrel.
+- Remove the plunger from the oral dispenser barrel by pulling the plunger all the way out of the barrel.
 - Rinse the oral dispenser barrel and plunger with water and let them air dry.
+
 - When the oral dispenser barrel and plunger are dry, put the plunger back into the oral dispenser barrel for the next use.
 
 Do not throw away the oral dispenser.
@@ -72,6 +77,7 @@ Actavis Pharma, Inc.
 
 Parsippany, NJ 07054 USA
 
-Revised: November 2017
+Rev.
+A 1/2019
 
 For more information, go to www.actavis.com or call 1-800-272-5525.

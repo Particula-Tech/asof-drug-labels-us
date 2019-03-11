@@ -7,7 +7,9 @@
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
+Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCl) should start within 10 days of post-transplantation until 200 days post-transplantation.
+
+Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCl) should start within 10 days of transplantation until 100 days post-transplantation.
 
 The recommended once daily dosage of valganciclovir hydrochloride for oral solution is based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below:
 
@@ -33,9 +35,6 @@ All calculated doses should be rounded to the nearest 10 mg increment for the ac
 If the calculated dose exceeds 900 mg, a maximum dose of 900 mg should be administered.
 Valganciclovir hydrochloride for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above.
 
-Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
-However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 2.4 Preparation of Valganciclovir for Oral Solution
 
 - Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
@@ -48,7 +47,7 @@ However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug 
 - Remove the child resistant bottle cap and push the bottle adapter into the neck of the bottle.
 - Close bottle with child resistant bottle cap tightly.
   This will assure the proper seating of the bottle adapter in the bottle and child resistant status of the cap.
-- Store constituted oral solution under refrigeration at 2° to 8°C (36° to 46°F) for no longer than 49 days.
+- Store constituted oral solution under refrigeration at 2°C to 8°C (36°F to 46°F) for no longer than 49 days.
   Do not freeze.
 - Write the date of expiration of the constituted oral solution on the bottle label.
 
@@ -57,8 +56,8 @@ The patient package insert, which includes the dosing instructions for patients,
 ## 2.6 Handling and Disposal
 
 Caution should be exercised in the handling of valganciclovir hydrochloride for oral solution.
-Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling the powder for oral solution and the constituted oral solution [see Warnings and Precautions (5.4, 5.5)].
-Avoid direct contact with the powder for oral solution and the constituted oral solution with skin or mucous membranes.
+Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling, the powder for oral solution, and the constituted oral solution [see Warnings and Precautions (5.4, 5.5)].
+Avoid direct contact with the powder for oral solution, and the constituted oral solution with skin or mucous membranes.
 If such contact occurs, wash thoroughly with soap and water, and rinse eyes thoroughly with plain water.
 
-Handle and dispose valganciclovir hydrochloride for oral solution according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity)2.
+Handle and dispose valganciclovir hydrochloride for oral solution according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity).2

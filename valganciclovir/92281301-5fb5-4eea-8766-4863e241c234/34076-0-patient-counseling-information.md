@@ -27,7 +27,7 @@ Advise patients that valganciclovir may cause temporary or permanent female and 
 
 Impairment of Cognitive Ability
 
-Inform patients that tasks requiring alertness may be affected including the patient’s ability to drive and operate machinery as seizures, sedation, dizziness, and/or confusion have been reported with the use of valganciclovir [see Adverse Reactions (6.1)].
+Inform patients that tasks requiring alertness may be affected including the patient’s ability to drive and operate machinery as seizures, dizziness, and/or confusion have been reported with the use of valganciclovir [see Adverse Reactions (6.1)].
 
 Use in Patients with CMV Retinitis
 
@@ -47,4 +47,5 @@ Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: November 2017
+Rev.
+A 1/2019
