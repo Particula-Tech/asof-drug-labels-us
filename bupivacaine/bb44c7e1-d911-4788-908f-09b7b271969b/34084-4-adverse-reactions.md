@@ -3,7 +3,7 @@
 Reactions to Bupivacaine Hydrochloride are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs is excessive plasma levels, which may be due to overdosage, unintentional intravascular injection, or slow metabolic degradation.
 
-The most commonly encountered acute adverse experiences which demand immediate counter-measures are related to the central nervous system and the cardiovascular system.
+The most commonly encountered acute adverse experiences which demand immediate counter-measures are related to the CNS and the cardiovascular system.
 These adverse experiences are generally dose related and due to high plasma levels which may result from overdosage, rapid absorption from the injection site, diminished tolerance, or from unintentional intravascular injection of the local anesthetic solution.
 In addition to systemic dose-related toxicity, unintentional subarachnoid injection of drug during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) may result in underventilation or apnea ("Total or High Spinal").
 Also, hypotension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia may occur.
@@ -11,18 +11,18 @@ This may lead to secondary cardiac arrest if untreated.
 Patients over 65 years, particularly those with hypertension, may be at increased risk for experiencing the hypotensive effects of Bupivacaine Hydrochloride.
 Factors influencing plasma protein binding, such as acidosis, systemic diseases which alter protein production, or competition of other drugs for protein binding sites, may diminish individual tolerance.
 
-Central Nervous System Reactions: These are characterized by excitation and/or depression.
+CNS Reactions: These are characterized by excitation and/or depression.
 Restlessness, anxiety, dizziness, tinnitus, blurred vision, or tremors may occur, possibly proceeding to convulsions.
 However, excitement may be transient or absent, with depression being the first manifestation of an adverse reaction.
 This may quickly be followed by drowsiness merging into unconsciousness and respiratory arrest.
-Other central nervous system effects may be nausea, vomiting, chills, and constriction of the pupils.
+Other CNS effects may be nausea, vomiting, chills, and constriction of the pupils.
 
 The incidence of convulsions associated with the use of local anesthetics varies with the procedure used and the total dose administered.
 In a survey of studies of epidural anesthesia, overt toxicity progressing to convulsions occurred in approximately 0.1% of local anesthetic administrations.
 
 Cardiovascular System Reactions: High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heartblock, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest (See WARNINGS, PRECAUTIONS, and OVERDOSAGE).
 
-Allergic: Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic or to other formulation ingredients, such as the antimicrobial preservative methylparaben contained in multiple-use vials or sulfites in epinephrine-containing solutions.
+Allergic: Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic or to other formulation ingredients, such as the antimicrobial preservative methylparaben contained in multiple-dose vials or sulfites in epinephrine-containing solutions.
 These reactions are characterized by signs such as urticaria, pruritus, erythema, angioneurotic edema (including laryngeal edema), tachycardia, sneezing, nausea, vomiting, dizziness, syncope, excessive sweating, elevated temperature, and possibly, anaphylactoid-like symptomatology (including severe hypotension).
 Cross sensitivity among members of the amide-type local anesthetic group has been reported.
 The usefulness of screening for sensitivity has not been definitely established.

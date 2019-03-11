@@ -40,4 +40,4 @@ Bupivacaine and Epinephrine Injection, USP
 Sodium metabisulfite 0.1 mg/mL added as antioxidant and edetate calcium disodium, anhydrous 0.1 mg/mL added as stabilizer.
 May contain sodium hydroxide and/or hydrochloric acid for pH adjustment (See HOW SUPPLIED section for pH information).
 
-Single-use solutions contain no added bacteriostat or anti-microbial agent and unused portions should be discarded after use.
+Single-dose solutions contain no added bacteriostat or anti-microbial agent and unused portions should be discarded after use.
