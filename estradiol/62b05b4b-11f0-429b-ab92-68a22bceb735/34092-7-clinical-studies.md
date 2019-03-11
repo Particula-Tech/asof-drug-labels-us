@@ -89,27 +89,27 @@ These results reflect centrally adjudicated data after an average follow-up of 5
 
 TABLE 5 - Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa,b
 
-| Event | Relative Risk CE/MPA vs. Placebo (95% nCIc) | CE/MPA n = 8,506 | Placebo n = 8,102 |
-| --- | --- | --- | --- |
-| Absolute Risk per 10,000 Women-Years |  |  |  |
-| CHD events | 1.23 (0.99-1.53) | 41 | 34 |
-| Non-fatal MI | 1.28 (1.00-1.63) | 31 | 25 |
-| CHD death | 1.10 (0.70-1.75) | 8 | 8 |
-| All Strokes | 1.31 (1.03-1.68) | 33 | 25 |
-| Ischemic stroke | 1.44 (1.09-1.90) | 26 | 18 |
-| Deep vein thrombosisd | 1.95 (1.43-2.67) | 26 | 13 |
-| Pulmonary embolism | 2.13 (1.45-3.11) | 18 | 8 |
-| Invasive breast cancere | 1.24 (1.01-1.54) | 41 | 33 |
-| Colorectal cancer | 0.61 (0.42-0.87) | 10 | 16 |
-| Endometrial cancerd | 0.81 (0.48-1.36) | 6 | 7 |
-| Cervical cancerd | 1.44 (0.47-4.42) | 2 | 1 |
-| Hip fracture | 0.67 (0.47-0.96) | 11 | 16 |
-| Vertebral fracturesd | 0.65 (0.46-0.92) | 11 | 17 |
-| Lower arm/wrist fracturesd | 0.71 (0.59-0.85) | 44 | 62 |
-| Total fractures | 0.76 (0.69-0.83) | 152 | 199 |
-| Overall mortalityf | 1.00 (0.83-1.19) | 52 | 52 |
-| Global Indexg | 1.13 (1.02-1.25) | 184 | 165 |
-| a Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. b Results are based on centrally adjudicated data. c Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. d Not included in “global index”. e Includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer. f All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. g A subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| Event | Relative Risk CE/MPA vs. Placebo (95% nCIc) | CE/MPA n = 8,506 | Placebo n = 8,102 |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Absolute Risk per 10,000 Women-Years |  |  |  |  |  |  |  |
+| CHD events | 1.23 (0.99-1.53) | 41 | 34 |  |  |  |  |
+| Non-fatal MI | 1.28 (1.00-1.63) | 31 | 25 |  |  |  |  |
+| CHD death | 1.10 (0.70-1.75) | 8 | 8 |  |  |  |  |
+| All Strokes | 1.31 (1.03-1.68) | 33 | 25 |  |  |  |  |
+| Ischemic stroke | 1.44 (1.09-1.90) | 26 | 18 |  |  |  |  |
+| Deep vein thrombosisd | 1.95 (1.43-2.67) | 26 | 13 |  |  |  |  |
+| Pulmonary embolism | 2.13 (1.45-3.11) | 18 | 8 |  |  |  |  |
+| Invasive breast cancere | 1.24 (1.01-1.54) | 41 | 33 |  |  |  |  |
+| Colorectal cancer | 0.61 (0.42-0.87) | 10 | 16 |  |  |  |  |
+| Endometrial cancerd | 0.81 (0.48-1.36) | 6 | 7 |  |  |  |  |
+| Cervical cancerd | 1.44 (0.47-4.42) | 2 | 1 |  |  |  |  |
+| Hip fracture | 0.67 (0.47-0.96) | 11 | 16 |  |  |  |  |
+| Vertebral fracturesd | 0.65 (0.46-0.92) | 11 | 17 |  |  |  |  |
+| Lower arm/wrist fracturesd | 0.71 (0.59-0.85) | 44 | 62 |  |  |  |  |
+| Total fractures | 0.76 (0.69-0.83) | 152 | 199 |  |  |  |  |
+| Overall mortalityf | 1.00 (0.83-1.19) | 52 | 52 |  |  |  |  |
+| Global Indexg | 1.13 (1.02-1.25) | 184 | 165 |  |  |  |  |
+| a Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. b Results are based on centrally adjudicated data. c Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. d Not included in “global index”. e Includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer. f All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. g A subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |  |  |  |  |
 
 Timing of initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].
