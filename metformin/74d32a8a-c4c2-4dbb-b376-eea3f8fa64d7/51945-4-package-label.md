@@ -24,7 +24,7 @@ Metformin Hydrochloride Extended-Release Tablets
 
 500 mg
 
-ONCE DAILY
+Once Daily
 
 100 Tablets
 
@@ -38,9 +38,9 @@ Rx only
 
 Metformin Hydrochloride Extended-Release Tablets
 
-1000 mg
+1,000 mg
 
-ONCE DAILY
+Once Daily
 
 90 Tablets
 
