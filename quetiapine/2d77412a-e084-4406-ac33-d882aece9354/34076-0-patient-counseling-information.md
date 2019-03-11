@@ -52,7 +52,8 @@ Children and adolescent patients should have their blood pressure measured at th
 
 Leukopenia/Neutropenia
 
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine [see Warnings and Precautions (5.10)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine.
+Patients should be advised to talk to their doctor as soon as possible if they have a fever, flu-like symptoms, sore throat, or any other infection as this could be a result of a very low WBC, which may require quetiapine to be stopped and/or treatment to be given [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 
@@ -85,6 +86,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 0210 3 676479
+10 0210 4 690216
 
-Issued August 2017
+Issued January 2019

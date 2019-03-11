@@ -48,14 +48,14 @@ Table 19: Schizophrenia Short-Term Trials
 | Quetiapine (750 mg/day) 1 | 41.0 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |  |
 | Placebo | 38.4 (9.7) | -1.0 (1.6) | -- |  |
 | Study 3 | Quetiapine (450 mg/day BID) | 42.1 (10.7) | -10.0 (1.3) | -4.6 (-7.8, -1.4) |
-| Quetiapine (450 mg/day TID) 2 | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |  |
+| Quetiapine (450 mg/day TID) 3 | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |  |
 | Quetiapine (50 mg BID) | 41.7 (10.0) | -5.4 (1.3) | -- |  |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference 3 (95% CI) |
 | Study 4 | Quetiapine (400 mg/day) 1 | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
 | Quetiapine (800 mg/day) 1 | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
 | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. 1. Doses that are statistically significant superior to placebo. 2. Doses that are statistically significant superior to quetiapine 50 mg BID. 3. Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. 1. Difference (drug minus placebo) in least-squares mean change from baseline. 2. Doses that are statistically significant superior to placebo. 3. Doses that are statistically significant superior to quetiapine 50 mg BID. |  |  |  |  |
 
 ## 14.2 Bipolar Disorder
 
@@ -164,6 +164,6 @@ In both studies, quetiapine was superior to placebo in increasing the time to re
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.
 The effect of quetiapine was independent of any specific subgroup (assigned mood stabilizer, sex, age, race, most recent bipolar episode, or rapid cycling course).
 
-Figure 1 Kaplan-Meier Curves of Time to Recurrence of A Mood Event (Study 7)
+Figure 1 Kaplan-Meier Curves of Time to Recurrence of a Mood Event (Study 7)
 
-Figure 2 Kaplan-Meier Curves of Time to Recurrence of A Mood Event (Study 8)
+Figure 2 Kaplan-Meier Curves of Time to Recurrence of a Mood Event (Study 8)

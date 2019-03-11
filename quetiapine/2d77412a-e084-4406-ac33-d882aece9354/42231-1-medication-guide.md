@@ -98,6 +98,7 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
   Quetiapine can pass into your breast milk.
   You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
   You should not do both.
+- if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
 
@@ -208,7 +209,9 @@ Tardive dyskinesia may also start after you stop taking quetiapine tablets.
 • increases in blood pressure in children and teenagers.
 Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine tablets and during therapy.
 
-• low white blood cell count
+• low white blood cell count.
+Tell your healthcare provider as soon as possible if you have a fever, flu-like symptoms, or any other infection, as this could be a result of a very low white blood cell count.
+Your healthcare provider may check your white blood cell level to determine if further treatment or other action is needed.
 
 • cataracts
 
@@ -216,7 +219,7 @@ Your healthcare provider should check blood pressure in children and adolescents
 
 • abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
 
-• increases in prolactin levels: Your healthcare provider may do blood tests to check your prolactin levels.
+• increases in prolactin levels.
 
 • sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 
@@ -231,33 +234,30 @@ The most common side effects of quetiapine tablets include:
 
 In Adults:
 
-• dry mouth
-
-• constipation
-
-• dizziness
-
-• sore throat
-
-• weakness
-
-• difficulty moving
-
-• abdominal pain
+- drowsiness
+- sudden drop in blood pressure upon standing
+- weight gain
+- sluggishness
+- abnormal liver tests
+- upset stomach
+- dry mouth
+- dizziness
+- weakness
+- abdominal pain
+- constipation
+- sore throat
 
 In Children and Adolescents:
 
-• nausea
-
-• increased appetite
-
-• dry mouth
-
-• vomiting
-
-• weight gain
-
-• rapid heart beat
+- drowsiness
+- dizziness
+- fatigue
+- nausea
+- dry mouth
+- weight gain
+- increased appetite
+- vomiting
+- rapid heart beat
 
 These are not all the possible side effects of quetiapine tablets.
 For more information, ask your healthcare provider or pharmacist.
@@ -304,6 +304,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 0210 3 676479
+10 0210 4 690216
 
-Issued August 2017
+Issued January 2019
