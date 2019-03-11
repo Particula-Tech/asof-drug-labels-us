@@ -8,8 +8,6 @@ Common adverse reactions (≥30%) observed in combination therapy clinical studi
 
 Common adverse reactions (≥30%) observed in single agent therapy clinical studies are: nausea, vomiting, abdominal pain, diarrhea, constipation, anorexia, neutropenia, leukopenia (including lymphocytopenia), anemia, asthenia, fever, body weight decreasing, and alopecia.
 
-Serious opportunistic infections have not been observed, and no complications have specifically been attributed to lymphocytopenia.
-
 First-Line Combination Therapy
 
 A total of 955 patients with metastatic colorectal cancer received the recommended regimens of irinotecan in combination with 5-FU/LV, 5-FU/LV alone, or irinotecan alone.
@@ -274,4 +272,4 @@ Transient dysarthria has been reported in patients treated with CAMPTOSAR; in so
 Interaction between CAMPTOSAR and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.
 
-Infections and infestations: bacterial, fungal, and viral infections have been reported.
+Infections: fungal and viral infections have been reported.
