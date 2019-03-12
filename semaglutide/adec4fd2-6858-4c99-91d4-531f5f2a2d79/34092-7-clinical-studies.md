@@ -163,7 +163,7 @@ cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 93.7 kg, 94.0 kg, 92.6 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
 The mean changes from baseline to week 30 were -3.2 kg, -4.7 kg and 0.9 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
-The difference from insulin glargine (95% CI) for OZEMPIC 0.5 mg was -4.1 kg (-4.9, -3.3) and for OZEMPIC 1 mg was -5.6 kg (6.4, -4.8).
+The difference from insulin glargine (95% CI) for OZEMPIC 0.5 mg was -4.1 kg (-4.9, -3.3) and for OZEMPIC 1 mg was -5.6 kg (-6.4, -4.8).
 
 Combination with basal insulin
 
