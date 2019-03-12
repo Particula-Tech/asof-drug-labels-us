@@ -20,6 +20,11 @@
     {
       "form": "CAPSULE",
       "generic": "hydroxyzine pamoate",
+      "name": "Hydroxyzine Pamoate"
+    },
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyzine pamoate",
       "name": "hydroxyzine pamoate"
     }
   ],
