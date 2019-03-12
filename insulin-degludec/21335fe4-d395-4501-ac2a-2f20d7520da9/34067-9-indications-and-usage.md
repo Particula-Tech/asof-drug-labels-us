@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-XULTOPHY 100/3.6 is a combination of insulin degludec and liraglutide and is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus inadequately controlled on basal insulin (less than 50 units daily) or liraglutide (less than or equal to 1.8 mg daily).
+XULTOPHY 100/3.6 is a combination of insulin degludec and liraglutide and is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
 
 Limitations of Use:
 

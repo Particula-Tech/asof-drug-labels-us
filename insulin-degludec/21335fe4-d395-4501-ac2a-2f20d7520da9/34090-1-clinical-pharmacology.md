@@ -20,7 +20,7 @@ Liraglutide is a Glucagon-Like Peptide-1 (GLP-1) receptor agonist that increases
 
 Following a single dose administration, XULTOPHY 100/3.6 has a duration of action reflecting the combination of the individual glucodynamic action profiles of insulin degludec and liraglutide.
 
-Following once daily administration, XULTOPHY 100/3.6 lowers fasting plasma glucose levels and postprandial glucose levels.
+Following once-daily administration, XULTOPHY 100/3.6 lowers fasting plasma glucose levels and postprandial glucose levels.
 
 Cardiac Electrophysiology (QTc):
 

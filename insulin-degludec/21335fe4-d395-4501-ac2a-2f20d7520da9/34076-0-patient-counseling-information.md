@@ -32,9 +32,6 @@ To avoid medication errors between XULTOPHY 100/3.6 (an insulin containing produ
 Advise patients that the administration of more than 50 units of XULTOPHY 100/3.6 daily can result in overdose of the liraglutide component.
 Instruct patients not to administer concurrently with other glucagon-like peptide-1 receptor agonists.
 
-Accidental mix-ups between insulin products have been reported.
-To avoid medication errors between XULTOPHY 100/3.6 (an insulin containing product) and other insulin products, instruct patients to always check the label before each injection.
-
 Hyperglycemia or Hypoglycemia
 
 Inform patients that hypoglycemia is the most common adverse reaction with insulin products.
@@ -65,20 +62,13 @@ Pregnancy
 
 Instruct female patients of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Instructions for Patients
+Date of Issue: 02/2019
 
-Advise patients that XULTOPHY 100/3.6 must only be used if the solution is clear and colorless with no particles visible.
-Advise patients that XULTOPHY 100/3.6 must NOT be diluted or mixed with any other insulin products or solutions.
-Inform patients that the dose counter of the XULTOPHY 100/3.6 pen shows the number of units of insulin degludec to be injected.
-Patients can inject doses from 10 to 50 units in a single injection (with each unit of insulin degludec, the pen also delivers 0.036 mg of liraglutide).
+Version: 3
 
-Date of Issue: February 2019
+© 2016 - 2019 Novo Nordisk
 
-Version: 2
-
-© 2016-2019 Novo Nordisk
-
-Novo Nordisk®, VICTOZA®,TRESIBA® and XULTOPHY® 100/3.6 are registered trademarks of Novo Nordisk A/S.
+Novo Nordisk®, VICTOZA®, TRESIBA® and XULTOPHY® 100/3.6 are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 

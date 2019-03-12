@@ -2,31 +2,35 @@
 
 ## 2.1 Important Dosage Information
 
-The following are important dosing information for XULTOPHY 100/3.6, a combination of insulin degludec and liraglutide:
+- •XULTOPHY 100/3.6 is a combination of insulin degludec and liraglutide.
+- •Administer XULTOPHY 100/3.6 by subcutaneous injection once-daily at the same time each day with or without food.
+- •The XULTOPHY 100/3.6 pen delivers doses from 10 to 50 units with each injection.
+  Table 1 presents the units of insulin degludec and the milligrams of liraglutide in each dosage of XULTOPHY 100/3.6 [see Dosage and Administration (2.2)].
+- •The maximum dose of XULTOPHY 100/3.6 is 50 units daily (50 units of insulin degludec and 1.8 mg of liraglutide) [see Warnings and Precautions (5.5)].
 
-- •Discontinue therapy with liraglutide or basal insulin prior to initiation of XULTOPHY 100/3.6.
-- •The recommended starting dosage of XULTOPHY 100/3.6 is 16 units (16 units of insulin degludec and 0.58 mg of liraglutide) given subcutaneously once daily.
-- •Administer XULTOPHY 100/3.6 once-daily at the same time each day with or without food.
-- •The maximum daily dosage of XULTOPHY 100/3.6 is 50 units (50 units of insulin degludec and 1.8 mg of liraglutide) [see Warnings and Precautions (5.5)].
-- •The XULTOPHY 100/3.6 pen delivers doses from 10 to 50 units with each injection (see Table 1) [see Dosage and Administration (2.2)]
-- •Use alternative antidiabetic products if patients require a XULTOPHY 100/3.6 daily dosage:
-  - oPersistently below 16 units [Dosage and Administration (2.2)], or
-  - oOver 50 units.
+## 2.2 Recommended Starting Dose
 
-Table 1 presents the units of insulin degludec and the milligrams of liraglutide in each dosage of XULTOPHY 100/3.6.
+In patients naïve to basal insulin or a GLP-1 receptor agonist
+
+- •The recommended starting dose of XULTOPHY 100/3.6 is 10 units (10 units of insulin degludec and 0.36 mg of liraglutide) given subcutaneously once-daily (see Table 1).
+
+In patients currently on basal insulin or a GLP-1 receptor agonist
+
+- •Discontinue therapy with basal insulin or liraglutide prior to initiation of XULTOPHY 100/3.6.
+- •The recommended starting dose of XULTOPHY 100/3.6 is 16 units (16 units of insulin degludec and 0.58 mg of liraglutide) given subcutaneously once-daily (see Table 1).
 
 Table 1: Units of Insulin Degludec and Milligrams of Liraglutide in Each Dosage of XULTOPHY 100/3.6
 
 | XULTOPHY 100/3.6(dose counter display)* | insulin degludeccomponent dose | liraglutidecomponent dose | Comment |
 | --- | --- | --- | --- |
 | ▪▪ ─ | --- | --- | Priming symbol |
-| 10 | 10 units | 0.36 mg | Temporary dose for down titration |
-| 11 | 11 units | 0.4 mg | Temporary dose for down titration |
-| 12 | 12 units | 0.43 mg | Temporary dose for down titration |
-| 13 | 13 units | 0.47 mg | Temporary dose for down titration |
-| 14 | 14 units | 0.5 mg | Temporary dose for down titration |
-| 15 | 15 units | 0.54 mg | Temporary dose for down titration |
-| 16 | 16 units | 0.58 mg | Recommended starting dosage |
+| 10 | 10 units | 0.36 mg | Recommended starting dose for patients naïve to basal insulin or GLP-1 receptor agonist |
+| 11 | 11 units | 0.4 mg |  |
+| 12 | 12 units | 0.43 mg |  |
+| 13 | 13 units | 0.47 mg |  |
+| 14 | 14 units | 0.5 mg |  |
+| 15 | 15 units | 0.54 mg |  |
+| 16 | 16 units | 0.58 mg | Recommended starting dose for patients currently on basal insulin or GLP-1 receptor agonist |
 | 17 | 17 units | 0.61 mg |  |
 | 18 | 18 units | 0.65 mg |  |
 | 19 | 19 units | 0.68 mg |  |
@@ -64,15 +68,12 @@ Table 1: Units of Insulin Degludec and Milligrams of Liraglutide in Each Dosage 
 
 * The dose counter on the XULTOPHY 100/3.6 pen displays numbers for the even units and displays lines for the odd units.
 
-## 2.2 Titration of XULTOPHY 100/3.6
+## 2.3 Titration of XULTOPHY 100/3.6
 
-- •After starting with 16 units of XULTOPHY 100/3.6 (16 units of insulin degludec and 0.58 mg of liraglutide), titrate the dosage upwards or downwards by two units (see Table 2) every three to four days based on the patient’s metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
-  The dosage of XULTOPHY 100/3.6 is between 16 to 50 units (see Table 1).
-- •The XULTOPHY 100/3.6 dosage may be temporarily down titrated to below 16 units (i.e., 10 to 15 units).
-  However, if patients require persistent dosages below 16 units of XULTOPHY 100/3.6, discontinue and use alternative therapy (see Table 1).
+- •After starting the recommended starting dose of XULTOPHY 100/3.6 [see Dosage and Administration (2.2)], titrate the dosage upwards or downwards by two units (see Table 2) every three to four days based on the patient’s metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
 - •To minimize the risk of hypoglycemia or hyperglycemia, additional titration may be needed with changes in physical activity, meal patterns (i.e., macronutrient content or timing of food intake), or renal or hepatic function; during acute illness; or when used with other medications [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
-Table 2: Recommended Titration of XULTOPHY 100/3.6 (Every Three to Four Days)1
+Table 2: Recommended Titration of XULTOPHY 100/3.6 (Every Three to Four Days)
 
 | Self-Monitored Fasting Plasma Glucose | XULTOPHY 100/3.6 Dosage Adjustment |
 | --- | --- |
@@ -80,15 +81,13 @@ Table 2: Recommended Titration of XULTOPHY 100/3.6 (Every Three to Four Days)1
 | Within target range | 0 units |
 | Below target range | - 2 units (2 units of insulin degludec and 0.072 mg of liraglutide) |
 
-1 The recommended XULTOPHY 100/3.6 dosage is between 16 to 50 units (see Table 1)
-
-## 2.3 Missed Doses
+## 2.4 Missed Doses
 
 - •Instruct patients who miss a dose of XULTOPHY 100/3.6 to resume the once-daily regimen as prescribed with the next scheduled dose.
   Do not administer an extra dose or increase the dose to make up for the missed dose.
-- •If more than three days have elapsed since the last XULTOPHY 100/3.6 dose, reinitiate XULTOPHY 100/3.6 at the starting dose (i.e., 16 units) to mitigate any gastrointestinal symptoms associated with reinitiation of treatment [see Dosage and Administration (2.1, 2.2)].
+- •If more than three days have elapsed since the last XULTOPHY 100/3.6 dose, reinitiate XULTOPHY 100/3.6 at the recommended starting dose to mitigate any gastrointestinal symptoms associated with reinitiation of treatment [see Dosage and Administration (2.1, 2.2, 2.3)].
 
-## 2.4 Important Administration Instructions
+## 2.5 Important Administration Instructions
 
 - •The XULTOPHY 100/3.6 pen is for single-patient-use only [see Warnings and Precautions (5.3)].
 - •Train patients on proper use and injection technique before initiating XULTOPHY 100/3.6.
@@ -97,6 +96,8 @@ Table 2: Recommended Titration of XULTOPHY 100/3.6 (Every Three to Four Days)1
   Only use XULTOPHY 100/3.6 if the solution appears clear and colorless.
 - •Inject XULTOPHY 100/3.6 subcutaneously into the thigh, upper arm, or abdomen.
 - •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •Use XULTOPHY 100/3.6 with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
+- •The XULTOPHY 100/3.6 pen dials in one-unit increments.
 - •Do not administer XULTOPHY 100/3.6 intravenously, intramuscularly, or in an insulin infusion pump.
 - •Do not dilute or mix XULTOPHY 100/3.6 with any other insulin products or solutions.
 - •Do not split the dose of XULTOPHY 100/3.6.

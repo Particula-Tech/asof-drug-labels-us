@@ -3,6 +3,7 @@
 ## 16.1 How Supplied
 
 XULTOPHY 100/3.6 is an injection supplied as a sterile, clear, colorless solution in a 3 mL pre-filled, disposable, single-patient use pen injector.
+The XULTOPHY 100/3.6 pen dials in one unit increments.
 
 | Dosage Unit/Strength | Package size | NDC # |
 | --- | --- | --- |
@@ -23,9 +24,9 @@ Always remove the needle after each injection and store the XULTOPHY 100/3.6 pen
 This prevents contamination and/or infection, or leakage of the XULTOPHY 100/3.6 pen, and will ensure accurate dosing.
 Always use a new needle for each injection to prevent contamination.
 
-The storage conditions are summarized in Table 8:
+The storage conditions are summarized in Table 10:
 
-Table 8: Storage Conditions for XULTOPHY 100/3.6 Pen
+Table 10: Storage Conditions for XULTOPHY 100/3.6 Pen
 
 | Prior to first use | After first use |  |
 | --- | --- | --- |

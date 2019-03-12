@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Hypoglycemia (from insulin and liraglutide) and gastrointestinal adverse reactions (from liraglutide) may develop if a patient is dosed with more XULTOPHY 100/3.6 than required.
+Hypoglycemia (from insulin and liraglutide) and gastrointestinal adverse reactions (from liraglutide) may develop if a patient is dosed with more XULTOPHY 100/3.6than required.
 
 An excess of insulin-containing products like XULTOPHY 100/3.6 relative to food intake, energy expenditure, or both may lead to severe and sometimes prolonged and life-threatening hypoglycemia and hypokalemia [see Warnings and Precautions (5.6, 5.10)].
 Mild episodes of hypoglycemia usually can be treated with oral glucose.

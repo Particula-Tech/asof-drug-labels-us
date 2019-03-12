@@ -42,7 +42,7 @@ Sharing of the pen poses a risk for transmission of blood-borne pathogens.
 Changes in XULTOPHY 100/3.6 regimen may affect glycemic control and predispose to hypoglycemia or hyperglycemia [see Warnings and Precautions (5.5)].
 These changes should be made cautiously and only under medical supervision and the frequency of blood glucose monitoring should be increased.
 Adjustments in concomitant oral anti-diabetic treatment may be needed.
-When converting from basal insulin therapies or liraglutide to XULTOPHY 100/3.6 follow dosing recommendations [see Dosage and Administration (2.1,2.2)].
+When initiating XULTOPHY 100/3.6, follow dosing recommendations [see Dosage and Administration (2.1,2.2, 2.3)].
 
 ## 5.5 Overdose due to Medication Errors
 
@@ -99,7 +99,7 @@ XULTOPHY 100/3.6 is contraindicated in patients who have had hypersensitivity re
 
 ## 5.9 Acute Gallbladder Disease
 
-In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.2)], 3.1% of patients treated with liraglutide, one of the components of XULTOPHY 100/3.6, versus 1.9% of placebo treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis.
+In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], 3.1% of patients treated with liraglutide, one of the components of XULTOPHY 100/3.6, versus 1.9% of placebo treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis.
 The majority of events required hospitalization or cholecystectomy.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
 

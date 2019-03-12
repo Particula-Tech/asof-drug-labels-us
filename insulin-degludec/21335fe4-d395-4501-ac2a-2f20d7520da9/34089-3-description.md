@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-XULTOPHY 100/3.6 (insulin degludec and liraglutide injection), for subcutaneous use,is a combination of a long-acting basal human insulin analog, insulin degludec, and a GLP-1 receptor agonist, liraglutide.
+XULTOPHY 100/3.6 (insulin degludec and liraglutide injection), for subcutaneous use, is a combination of a long-acting basal human insulin analog, insulin degludec, and a GLP-1 receptor agonist, liraglutide.
 
 Insulin degludec
 

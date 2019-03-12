@@ -34,7 +34,7 @@ Animal Data
 
 Insulin degludec
 
-Insulin degludec was investigated in studies covering fertility, embryo-fetal development and pre- and post-natal development in rats and during the period of embryofetal development in rabbits.
+Insulin degludec was investigated in studies covering fertility, embryo-fetal development and pre- and post-natal development in rats and during the period of embryo-fetal development in rabbits.
 Human insulin (NPH insulin) was included as comparator.
 In these studies insulin degludec was given subcutaneously at up to 21 U/kg/day in rats and 3.3 U/kg/day in rabbits, resulting in 5 times (rat) and 10 times (rabbit) the human exposure (AUC) at a human subcutaneous dose of 0.75 U/kg/day.
 Overall the effects of insulin degludec were similar to those observed with human insulin.
@@ -107,7 +107,7 @@ No clinically relevant difference in the pharmacokinetics of insulin degludec wa
 Liraglutide
 
 The safety and efficacy of liraglutide was evaluated in a 26 week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73 m2).
-In the liraglutide treatment arm of a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.2)], 1932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
+In the liraglutide treatment arm of a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], 1932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
 No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.
 
 There is limited experience with liraglutide in patients with end stage renal disease.

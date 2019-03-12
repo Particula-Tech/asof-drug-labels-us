@@ -7,6 +7,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Hypoglycemia [see Warnings and Precautions (5.6)]
 - •Acute Kidney Injury [see Warnings and Precautions (5.7)]
 - •Hypersensitivity and Allergic Reactions [see Warnings and Precautions (5.8)]
+- •Acute Gallbladder Disease [see Warnings and Precautions (5.9)]
 - •Hypokalemia [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trial Experience
@@ -45,14 +46,13 @@ No clinically important differences in risk of severe hypoglycemia between XULTO
 
 Table 4: Hypoglycemia Episodes Reported in XULTOPHY 100/3.6-Treated Patients with T2DM
 
-|  | Study A | Study B | Study C |
-| --- | --- | --- | --- |
-|  | XULTOPHY 100/3.6 | XULTOPHY 100/3.6 | XULTOPHY 100/3.6 |
-| Total Subjects (N) | 291 | 199 | 278 |
-| Severe Hypoglycemia (%)† | 0.3 | 0.5 | 0.0 |
-| Hypoglycemia with a glucose level <54 mg/dL (%)* | 27.1 | 22.1 | 24.8 |
-
-† episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions.
+|  | Patients naïve to basal insulin or GLP-1 receptor agonist |  | Patients currently on liraglutide | Patients Currently on basal insulin |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | XULTOPHY 100/3.6 NCT01336023 | XULTOPHY 100/3.6 NCT01618162 | XULTOPHY 100/3.6NCT01676116 | XULTOPHY 100/3.6NCT01392573 | XULTOPHY 100/3.6NCT01952145 |  |  |
+| Total Subjects (N) | 825 | 288 | 291 | 199 | 278 |  |  |
+| Severe Hypoglycemia (%)† | 0.2 | 0.7 | 0.3 | 0.5 | 0.0 |  |  |
+| Hypoglycemia with a glucose level <54 mg/dL (%)* | 27.6 | 37.2 | 27.1 | 22.1 | 24.8 |  |  |
+| † episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions. |  |  |  |  |  |  |  |
 
 *Episodes of hypoglycemia with a glucose level below 54 mg/dL that are associated with or without symptoms of hypoglycemia.
 
@@ -75,7 +75,7 @@ VICTOZA (liraglutide)
 In glycemic control trials of liraglutide, the incidence of cholelithiasis was 0.3% in both liraglutide-treated and placebo-treated patients.
 The incidence of cholecystitis was 0.2% in both liraglutide treated and placebo-treated patients.
 
-In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.2)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in liraglutide-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
+In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in liraglutide-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
 The incidence of acute cholecystitis was 1.1% (2.9 cases per 1000 patient years of observation) in liraglutide-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
 
 Initiation of insulin containing products and intensification of glucose control
@@ -86,7 +86,7 @@ However, long-term glycemic control decreases the risk of diabetic retinopathy a
 Lipodystrophy
 
 Long-term use of insulin containing products, including XULTOPHY 100/3.6, can cause lipodystrophy at the site of repeated injections.
-Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoatrophy (thinning of adipose tissue), and may affect absorption [see Dosage and Administration (2.4)].
+Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoatrophy (thinning of adipose tissue), and may affect absorption [see Dosage and Administration (2.5)].
 
 Peripheral Edema
 
@@ -140,7 +140,7 @@ VICTOZA (liraglutide)
 
 In one glycemic control trial in renal impairment patients, a mean increase of 33% for lipase and 15% for amylase from baseline was observed for liraglutide-treated patients while placebo-treated patients had a mean decrease in lipase of 3% and a mean increase in amylase of 1%.
 
-In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.2)], serum lipase and amylase were routinely measured.
+In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], serum lipase and amylase were routinely measured.
 Among liraglutide-treated patients, 7.9% had a lipase value at any time during treatment of greater than or equal to 3 times the upper limit of normal compared with 4.5% of placebo-treated patients, and 1% of liraglutide-treated patients had an amylase value at any time during treatment of greater than or equal to 3 times the upper limit of normal versus 0.7% of placebo-treated patients.
 
 The clinical significance of elevations in lipase or amylase with liraglutide is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
@@ -184,20 +184,14 @@ In five double-blind glycemic control trials of liraglutide, events from a compo
 Urticaria accounted for approximately one-half of the events in this composite for liraglutide-treated patients.
 Patients who developed anti-liraglutide antibodies were not more likely to develop events from the immunogenicity events composite than were patients who did not develop anti-liraglutide antibodies.
 
-In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.2)], anti-liraglutide antibodies were detected in 11 out of the 1247 (0.9%) liraglutide-treated patients with antibody measurements.
+In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], anti-liraglutide antibodies were detected in 11 out of the 1247 (0.9%) liraglutide-treated patients with antibody measurements.
 
 Of the 11 liraglutide-treated patients who developed anti-liraglutide antibodies, none were observed to develop neutralizing antibodies to liraglutide, and 5 patients (0.4%) developed cross-reacting antibodies against native GLP-1.
 
 TRESIBA (insulin degludec)
 
-In a 52-week study of adult insulin-naïve type 2 diabetes patients, 1.7% of patients who received insulin degludec were positive at baseline for anti-insulin degludec antibodies and 6.2% of patients
-
-developed anti-insulin degludec antibodies at least once during the study.
-In these trials, between 96.7% and
-
-99.7% of patients who were positive for anti-insulin degludec antibodies were also positive for anti-human
-
-insulin antibodies.
+In a 52-week study of adult insulin-naïve type 2 diabetes patients, 1.7% of patients who received insulin degludec were positive at baseline for anti-insulin degludec antibodies and 6.2% of patients developed anti-insulin degludec antibodies at least once during the study.
+In these trials, between 96.7% and 99.7% of patients who were positive for anti-insulin degludec antibodies were also positive for anti-human insulin antibodies.
 
 ## 6.3 Postmarketing Experience
 
