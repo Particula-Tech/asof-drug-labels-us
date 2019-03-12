@@ -1,9 +1,5 @@
 # Package/Label Display Panel, Part 1 of 2
 
-# Package/Label Display Panel, Part 2 of 2
-
-## ProAir® HFA (albuterol sulfate) Inhalation Aerosol 90 mcg per Actuation, 200 Metered Inhalations Carton Text
-
 NDC 59310-579-22
 
 PROAIR® HFA
@@ -33,3 +29,5 @@ Rx only
 8.5 g Net Contents
 
 TEVA
+
+# Package/Label Display Panel, Part 2 of 2

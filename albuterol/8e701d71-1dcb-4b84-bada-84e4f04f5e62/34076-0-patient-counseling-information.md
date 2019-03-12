@@ -49,6 +49,8 @@ Common adverse effects of treatment with inhaled albuterol include palpitations,
 
 Patients who are pregnant or nursing should contact their physician about the use of PROAIR HFA Inhalation Aerosol.
 
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy [see Use in Specific Populations (8.1)].
+
 ## 17.8 General Information on Use
 
 Effective and safe use of PROAIR HFA Inhalation Aerosol includes an understanding of the way that it should be administered.
@@ -66,20 +68,17 @@ Children should use PROAIR HFA Inhalation Aerosol under adult supervision, as in
 
 See tear-off illustrated Information for the Patient leaflet.
 
-- Mktd by: Teva Respiratory, LLC Frazer, PA 19355
-- Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
+Mktd by: Teva Respiratory, LLC Frazer, PA 19355
 
-Copyright ©2012, Teva Respiratory, LLC
+Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
+
+Copyright ©2019, Teva Respiratory, LLC
 
 All rights reserved.
 
-PROAIR® is a registered trademark of Teva Respiratory, LLC
-
 The color red as used on the ProAir® HFA inhaler is a registered trademark of Teva Respiratory, LLC
 
-Manufactured In Ireland
-
-PE 3378 06/2016
+PROA-001
 
 Attention Pharmacist:
 

@@ -2,36 +2,56 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C:
+Pregnancy Exposure Registry
 
-There are no adequate and well-controlled studies of PROAIR HFA Inhalation Aerosol or albuterol sulfate in pregnant women.
-During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been reported in the offspring of patients treated with albuterol.
-Some of the mothers were taking multiple medications during their pregnancies.
-No consistent pattern of defects can be discerned, and a relationship between albuterol use and congenital anomalies has not been established.
-Animal reproduction studies in mice and rabbits revealed evidence of teratogenicity.
-PROAIR HFA Inhalation Aerosol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy.
+For more information, contact the Mothers To Baby Pregnancy Studies conducted by the Organization of Teratology Information Specialists at 1-877-311-8972 or visit http://mothertobaby.org/pregnancy-studies/.
 
-In a mouse reproduction study, subcutaneously administered albuterol sulfate produced cleft palate formation in 5 of 111 (4.5%) fetuses at an exposure approximately eight-tenths of the maximum recommended human dose (MRHD) for adults on a mg/m2 basis and in 10 of 108 (9.3%) fetuses at approximately 8 times the MRHD.
-Similar effects were not observed at approximately one-thirteenth of the MRHD.
-Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated subcutaneously with isoproterenol (positive control).
+Risk Summary
 
-In a rabbit reproduction study, orally administered albuterol sulfate induced cranioschisis in 7 of 19 fetuses (37%) at approximately 630 times the MRHD.
+There are no randomized clinical studies of use of albuterol during pregnancy.
+Available data from published epidemiological studies and postmarketing case reports of pregnancy outcomes following inhaled albuterol use do not consistently demonstrate a risk of major birth defects or miscarriage.
+There are clinical considerations with use of albuterol in pregnant women [see Clinical Considerations].
+In animal reproduction studies, when albuterol sulfate was administered subcutaneously to pregnant mice there was evidence of cleft palate at less than and up to 9 times the maximum recommended human daily inhalation dose (MRHDID) [see Data].
 
-In a rat reproduction study, an albuterol sulfate/HFA-134a formulation administered by inhalation did not produce any teratogenic effects at exposures approximately 65 times the MRHD [see Nonclinical Toxicology (13.2)].
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+In women with poorly or moderately controlled asthma, there is an increased risk of preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control.
+
+Labor or Delivery
 
 Because of the potential for beta-agonist interference with uterine contractility, use of PROAIR HFA Inhalation Aerosol for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk.
 PROAIR HFA Inhalation Aerosol has not been approved for the management of pre-term labor.
-The benefit:risk ratio when albuterol is administered for tocolysis has not been established.
 Serious adverse reactions, including pulmonary edema, have been reported during or following treatment of premature labor with beta2-agonists, including albuterol.
 
-## 8.3 Nursing Mothers
+Data
 
-Plasma levels of albuterol sulfate and HFA‑134a after inhaled therapeutic doses are very low in humans, but it is not known whether the components of PROAIR HFA Inhalation Aerosol are excreted in human milk.
+Animal Data
 
-Caution should be exercised when PROAIR HFA Inhalation Aerosol is administered to a nursing woman.
-Because of the potential for tumorigenicity shown for albuterol in animal studies and lack of experience with the use of PROAIR HFA Inhalation Aerosol by nursing mothers, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+In a mouse reproduction study, subcutaneously administered albuterol sulfate produced cleft palate formation in 5 of 111 (4.5%) fetuses at an exposure nine-tenths of the MRHDID for adults (on a mg/m2 basis at a maternal dose of 0.25 mg/kg) and in 10 of 108 (9.3%) fetuses at approximately 9 times the MRHDID (on a mg/m2 basis at a maternal dose of 2.5 mg/kg).
+Similar effects were not observed at approximately one-eleventh the MRHDID for adults (on a mg/m2 basis at a maternal dose of 0.025 mg/kg).
+Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated subcutaneously with isoproterenol (positive control).
+
+In a rabbit reproduction study, orally administered albuterol sulfate induced cranioschisis in 7 of 19 fetuses (37%) at approximately 750 times the MRHDID (on a mg/m2 basis at a maternal dose of 50 mg/kg).
+
+In a rat reproduction study, an albuterol sulfate/HFA-134a formulation administered by inhalation did not produce any teratogenic effects at exposures approximately 80 times the MRHDID (on a mg/m2 basis at a maternal dose of 10.5 mg/kg).
+
+A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no available data on the presence of albuterol in human milk, the effects on the breastfed child, or the effects on milk production.
+However, plasma levels of albuterol after inhaled therapeutic doses are low in humans, and if present in breast milk, albuterol has a low oral bioavailability [see Clinical Pharmacology (12.3)].
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for albuterol and any potential adverse effects on the breastfed child from albuterol or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
