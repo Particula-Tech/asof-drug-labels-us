@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA205571"
+  ],
+  "inn": "carbamazepine",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-555-01",
+    "68382-555-06",
+    "68382-555-16",
+    "68382-555-30",
+    "68382-556-01",
+    "68382-556-06",
+    "68382-556-16",
+    "68382-556-30",
+    "68382-557-01",
+    "68382-557-06",
+    "68382-557-16",
+    "68382-557-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "carbamazepine",
+      "name": "carbamazepine"
+    }
+  ],
+  "setid": "c5e4a25a-0137-4327-96f5-15735891ad5c",
+  "source": "dailymed"
+}
