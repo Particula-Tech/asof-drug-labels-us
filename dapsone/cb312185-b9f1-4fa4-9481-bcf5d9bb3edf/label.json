@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209430"
+  ],
+  "inn": "dapsone",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-4197-2",
+    "51672-4197-6",
+    "51672-4198-2",
+    "51672-4198-6"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dapsone",
+      "name": "Dapsone"
+    }
+  ],
+  "setid": "cb312185-b9f1-4fa4-9481-bcf5d9bb3edf",
+  "source": "dailymed"
+}
