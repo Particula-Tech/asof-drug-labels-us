@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA212038"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Adlon Therapeutics L.P.",
+  "package_ndcs": [
+    "72912-525-10",
+    "72912-535-10",
+    "72912-545-10",
+    "72912-555-10",
+    "72912-570-10",
+    "72912-585-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride extented release capsules",
+      "name": "ADHANSIA XR"
+    }
+  ],
+  "setid": "80e15bd0-4d56-75f0-ab5a-885879fc56e9",
+  "source": "dailymed"
+}
