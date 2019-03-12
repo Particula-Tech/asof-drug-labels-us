@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019079"
+  ],
+  "inn": "fluorometholone",
+  "labeler": "Eyevance Pharmaceuticals",
+  "package_ndcs": [
+    "71776-100-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "fluorometholone acetate",
+      "name": "Flarex"
+    }
+  ],
+  "setid": "19918ea5-8568-44d6-b8ee-7b2197cee85c",
+  "source": "dailymed"
+}
