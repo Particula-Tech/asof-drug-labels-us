@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Divalproex sodium delayed-release tablets USP, 125 mg are light brown to brown colored, modified capsule shaped, biconvex coated tablets printed “R529” on one side with black ink and plain on other side.
 They are supplied in bottles of 30’s, 100’s, 500’s and unit dose package of 100 (10 x 10).
@@ -33,6 +33,4 @@ Bottles of 500 NDC 55111-531-05
 
 Unit dose package of 100 (10 x 10) NDC 55111-531-78
 
-## Recommended storage
-
-Store at 20°-25°C (68°-77°F); [see USP Controlled Room Temperature].
+Recommended storage: Store divalproex sodium delayed-release tablets at 20°-25°C (68°-77°F); [see USP Controlled Room Temperature].
