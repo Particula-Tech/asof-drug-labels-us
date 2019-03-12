@@ -2,10 +2,12 @@
 
 ## 14.1 Atopic Dermatitis
 
-Three randomized, double-blind, placebo-controlled trials (Trials 1, 2, and 3) enrolled a total of 2119 subjects 18 years of age and older with moderate-to-severe atopic dermatitis (AD) not adequately controlled by topical medication(s).
+Adults with Atopic Dermatitis
+
+Three randomized, double-blind, placebo-controlled trials (Trials 1, 2, and 3; NCT02277743, 02277769, and 02260986 respectively) enrolled a total of 2119 subjects 18 years of age and older with moderate-to-severe atopic dermatitis (AD) not adequately controlled by topical medication(s).
 Disease severity was defined by an Investigator's Global Assessment (IGA) score ≥3 in the overall assessment of AD lesions on a severity scale of 0 to 4, an Eczema Area and Severity Index (EASI) score ≥16 on a scale of 0 to 72, and a minimum body surface area involvement of ≥10%.
 At baseline, 59% of subjects were male, 67% were white, 52% of subjects had a baseline IGA score of 3 (moderate AD), and 48% of subjects had a baseline IGA of 4 (severe AD).
-The baseline mean EASI score was 33 and the baseline weekly averaged peak pruritus Numeric Rating Scale (NRS) was 7 on a scale of 0-10.
+The baseline mean EASI score was 33 and the baseline weekly averaged Peak Pruritus Numeric Rating Scale (NRS) was 7 on a scale of 0-10.
 
 In all three trials, subjects in the DUPIXENT group received subcutaneous injections of DUPIXENT 600 mg at Week 0, followed by 300 mg every other week (Q2W).
 In the monotherapy trials (Trials 1 and 2), subjects received DUPIXENT or placebo for 16 weeks.
@@ -13,38 +15,38 @@ In the monotherapy trials (Trials 1 and 2), subjects received DUPIXENT or placeb
 In the concomitant therapy trial (Trial 3), subjects received DUPIXENT or placebo with concomitant topical corticosteroids (TCS) and as needed topical calcineurin inhibitors for problem areas only, such as the face, neck, intertriginous and genital areas for 52 weeks.
 
 All three trials assessed the primary endpoint, the change from baseline to Week 16 in the proportion of subjects with an IGA 0 (clear) or 1 (almost clear) and at least a 2-point improvement.
-Other endpoints included the proportion of subjects with EASI-75 (improvement of at least 75% in EASI score from baseline), and reduction in itch as defined by at least a 4-point improvement in the peak pruritus NRS from baseline to Week 16.
+Other endpoints included the proportion of subjects with EASI-75 (improvement of at least 75% in EASI score from baseline), and reduction in itch as defined by at least a 4-point improvement in the Peak Pruritus NRS from baseline to Week 16.
 
 Clinical Response at Week 16 (Trials 1, 2, and 3)
 
-The results of the DUPIXENT monotherapy trials (Trials 1 and 2) and the DUPIXENT with concomitant TCS trial (Trial 3) are presented in Table 3.
+The results of the DUPIXENT monotherapy trials (Trials 1 and 2) and the DUPIXENT with concomitant TCS trial (Trial 3) are presented in Table 4.
 
-Table 3: Efficacy Results of DUPIXENT With or Without Concomitant TCS at Week 16 (FAS)
+Table 4: Efficacy Results of DUPIXENT With or Without Concomitant TCS at Week 16 (FAS)
 
 |  | DUPIXENT 300 mg Q2W | Placebo | DUPIXENT 300 mg Q2W | Placebo | DUPIXENT 300 mg Q2W + TCS | Placebo + TCS |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Trial 1 |  | Trial 2 |  | Trial 3 |  |
 | Number of subjects randomized (FAS)Full Analysis Set (FAS) includes all subjects randomized. | 224 | 224 | 233 | 236 | 106 | 315 |
-| IGA 0 or 1Responder was defined as a subject with IGA 0 or 1 ("clear" or "almost clear") with a reduction of ≥2 points on a 0-4 IGA scale.,Subjects who received rescue treatment or with missing data were considered as non-responders. | 38% | 10% | 36% | 9% | 39% | 12% |
+| IGA 0 or 1Responder was defined as a subject with an IGA 0 or 1 ("clear" or "almost clear") and a reduction of ≥2 points on a 0-4 IGA scale.,Subjects who received rescue treatment or with missing data were considered as non-responders. | 38% | 10% | 36% | 9% | 39% | 12% |
 | EASI-75 | 51% | 15% | 44% | 12% | 69% | 23% |
 | EASI-90 | 36% | 8% | 30% | 7% | 40% | 11% |
 | Number of subjects with baseline Peak Pruritus NRS score ≥4 | 213 | 212 | 225 | 221 | 102 | 299 |
 | Peak Pruritus NRS (≥4-point improvement) | 41% | 12% | 36% | 10% | 59% | 20% |
 
-| Figure 1: Proportion of Subjects with ≥4-point Improvement on the Pruritus NRS in Trial 1In the primary analyses of the efficacy endpoints, subjects who received rescue treatment or with missing data were considered non-responders. and Trial 2 Studies (FAS)Full Analysis Set (FAS) includes all subjects randomized. |  |
+| Figure 1: Proportion of Subjects with ≥4-point Improvement on the Peak Pruritus NRS in Trial 1In the primary analyses of the efficacy endpoints, subjects who received rescue treatment or with missing data were considered non-responders. and Trial 2 Studies (FAS)Full Analysis Set (FAS) includes all subjects randomized. |  |
 | --- | --- |
 | Trial 1 | Trial 2 |
 
 In Trial 3, of the 421 subjects, 353 had been on study for 52 weeks at the time of data analysis.
 Of these 353 subjects, responders at Week 52 represent a mixture of subjects who maintained their efficacy from Week 16 (e.g., 53% of DUPIXENT IGA 0 or 1 responders at Week 16 remained responders at Week 52) and subjects who were non-responders at Week 16 who later responded to treatment (e.g., 24% of DUPIXENT IGA 0 or 1 non-responders at Week 16 became responders at Week 52).
-Results of supportive analyses of the 353 subjects in the DUPIXENT with concomitant TCS trial (Trial 3) are presented in Table 4.
+Results of supportive analyses of the 353 subjects in the DUPIXENT with concomitant TCS trial (Trial 3) are presented in Table 5.
 
-Table 4: Efficacy Results (IGA 0 or 1) of DUPIXENT with Concomitant TCS at Week 16 and 52
+Table 5: Efficacy Results (IGA 0 or 1) of DUPIXENT with Concomitant TCS at Week 16 and 52
 
 |  | DUPIXENT 300 mg Q2W + TCS | Placebo + TCS |
 | --- | --- | --- |
 | Number of SubjectsIn Trial 3, of the 421 randomized and treated subjects, 68 subjects (16%) had not been on study for 52 weeks at the time of data analysis. | 89 | 264 |
-| ResponderResponder was defined as a subject with IGA 0 or 1 ("clear" or "almost clear") with a reduction of ≥2 points on a 0-4 IGA scale.,Subjects who received rescue treatment or with missing data were considered as non-responders. at Week 16 and 52 | 22% | 7% |
+| ResponderResponder was defined as a subject with an IGA 0 or 1 ("clear" or "almost clear") and a reduction of ≥2 points on a 0-4 IGA scale.,Subjects who received rescue treatment or with missing data were considered as non-responders. at Week 16 and 52 | 22% | 7% |
 | Responder at Week 16 but Non-responder at Week 52 | 20% | 7% |
 | Non-responder at Week 16 and Responder at Week 52 | 13% | 6% |
 | Non-responder at Week 16 and 52 | 44% | 80% |
@@ -58,6 +60,41 @@ Subjects in Trials 1 and 2 who had an IGA 0 or 1 with a reduction of ≥2 points
 Trial 5 evaluated multiple DUPIXENT monotherapy dose regimens for maintaining treatment response.
 The study included subjects randomized to continue with DUPIXENT 300 mg Q2W (62 subjects) or switch to placebo (31 subjects) for 36 weeks.
 IGA 0 or 1 responses at Week 36 were as follows: 33 (53%) in the Q2W group and 3 (10%) in the placebo group.
+
+Adolescents with Atopic Dermatitis
+
+The efficacy and safety of DUPIXENT monotherapy in adolescent subjects was evaluated in a multicenter, randomized, double-blind, placebo-controlled trial (Trial 6; NCT03054428) in 251 adolescent subjects 12 to 17 years of age, with moderate-to-severe AD defined by an IGA score ≥3 (scale of 0 to 4), an EASI score ≥16 (scale of 0 to 72), and a minimum BSA involvement of ≥10%.
+Eligible subjects enrolled into this trial had previous inadequate response to topical medication.
+
+Subjects in the DUPIXENT group with baseline weight of <60 kg received an initial dose of 400 mg at Week 0, followed by 200 mg Q2W for 16 weeks.
+Subjects with baseline weight of ≥60 kg received an initial dose of 600 mg at Week 0, followed by 300 mg Q2W for 16 weeks.
+Subjects were permitted to receive rescue treatment at the discretion of the investigator.
+Subjects who received rescue treatment were considered non-responders.
+
+In Trial 6, the mean age was 14.5 years, the median weight was 59.4 kg, 41% of subjects were female, 63% were White, 15% were Asian, and 12% were Black.
+At baseline 46% of subjects had an IGA score of 3 (moderate AD), 54% had an IGA score of 4 (severe AD), the mean BSA involvement was 57%, and 42% had received prior systemic immunosuppressants.
+Also, at baseline the mean EASI score was 36, and the weekly averaged Peak Pruritus NRS was 8 on a scale of 0-10.
+Overall, 92% of subjects had at least one co-morbid allergic condition; 66% had allergic rhinitis, 54% had asthma, and 61% had food allergies.
+
+The primary endpoint was the proportion of subjects with an IGA 0 (clear) or 1 (almost clear) and at least a 2-point improvement from baseline to Week 16.
+Other evaluated outcomes included the proportion of subjects with EASI-75 or EASI-90 (improvement of at least 75% or 90% in EASI from baseline, respectively), and reduction in itch as measured by the Peak Pruritus NRS (≥4-point improvement).
+
+The efficacy results at Week 16 for Trial 6 are presented in Table 6.
+
+Table 6: Efficacy Results of DUPIXENT in Trial 6 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized.
+
+|  | DUPIXENTAt Week 0, subjects received 400 mg (baseline weight <60 kg) or 600 mg (baseline weight ≥60 kg) of DUPIXENT. 200 mg (<60 kg) or 300 mg (≥60 kg) Q2W N=82 | Placebo N=85 |
+| --- | --- | --- |
+| IGA 0 or 1Responder was defined as a subject with an IGA 0 or 1 ("clear" or "almost clear") and a reduction of ≥2 points on a 0-4 IGA scale.,Subjects who received rescue treatment or with missing data were considered as non-responders (59% and 21% in the placebo and DUPIXENT arms, respectively). | 24% | 2% |
+| EASI-75 | 42% | 8% |
+| EASI-90 | 23% | 2% |
+| Peak Pruritus NRS (≥4-point improvement) | 37% | 5% |
+
+A greater proportion of subjects randomized to DUPIXENT achieved an improvement in the Peak Pruritus NRS compared to placebo (defined as ≥4-point improvement at Week 4).
+See Figure 2.
+
+| Figure 2: Proportion of Adolescent Subjects with ≥4-point Improvement on the Peak Pruritus NRS in Trial 6In the primary analyses of the efficacy endpoints, subjects who received rescue treatment or with missing data were considered non-responders. (FAS)Full Analysis Set (FAS) includes all subjects randomized. |
+| --- |
 
 ## 14.2 Asthma
 
@@ -95,9 +132,9 @@ Subjects continued to receive their existing asthma medicine during the study; h
 The primary endpoint was the percent reduction of oral corticosteroid dose at Weeks 20 to 24 compared with the baseline dose, while maintaining asthma control in the overall population (unrestricted by minimum baseline blood eosinophils count).
 Additional secondary endpoints included the annualized rate of severe exacerbation events during treatment period and responder rate in the ACQ-5 and AQLQ(S) scores.
 
-The demographics and baseline characteristics of these 3 trials are provided in Table 5 below.
+The demographics and baseline characteristics of these 3 trials are provided in Table 7 below.
 
-Table 5: Demographics and Baseline Characteristics of Asthma Trials
+Table 7: Demographics and Baseline Characteristics of Asthma Trials
 
 | Parameter | Trial 1 (N=776) | Trial 2 (N=1902) | Trial 3 (N=210) |
 | --- | --- | --- | --- |
@@ -123,33 +160,33 @@ AS Trials 1 and 2 evaluated the frequency of severe asthma exacerbations defined
 In the primary analysis population (subjects with baseline blood eosinophil count of ≥300 cells/mcL in AS Trial 1 and the overall population in AS Trial 2), subjects receiving either DUPIXENT 200 mg or 300 mg Q2W had significant reductions in the rate of asthma exacerbations compared to placebo.
 In the overall population in AS Trial 2, the rate of severe exacerbations was 0.46 and 0.52 for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively, compared to matched placebo rates of 0.87 and 0.97.
 The rate ratio of severe exacerbations compared to placebo was 0.52 (95% CI: 0.41, 0.66) and 0.54 (95% CI: 0.43, 0.68) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively.
-Results in subjects with baseline blood eosinophil counts ≥ 300 cells/mcL in AS Trials 1 and 2 are shown in Table 6.
+Results in subjects with baseline blood eosinophil counts ≥ 300 cells/mcL in AS Trials 1 and 2 are shown in Table 8.
 
-Response rates by baseline blood eosinophils for AS Trial 2 are shown in Figure 2.
+Response rates by baseline blood eosinophils for AS Trial 2 are shown in Figure 3.
 Prespecified subgroup analyses of AS Trials 1 and 2 demonstrated that there were greater reductions in severe exacerbations in subjects with higher baseline blood eosinophil levels.
 In AS Trial 2, reductions in exacerbations were significant in the subgroup of subjects with baseline blood eosinophils ≥ 150 cells/mcL.
 In subjects with baseline blood eosinophil count < 150 cells/mcL, similar severe exacerbation rates were observed between DUPIXENT and placebo.
 
 In AS Trial 2, the estimated rate ratio of exacerbations leading to hospitalizations and/or emergency room visits versus placebo was 0.53 (95% CI: 0.28, 1.03) and 0.74 (95% CI: 0.32, 1.70) with DUPIXENT 200 mg or 300 mg Q2W, respectively.
 
-Table 6: Rate of Severe Exacerbations in AS Trials 1 and 2
+Table 8: Rate of Severe Exacerbations in AS Trials 1 and 2
 
 | N | Rate (95% CI) | Rate Ratio (95% CI) |  |  |
 | --- | --- | --- | --- | --- |
 | Trial | Treatment | Baseline Blood EOS ≥300 cells/mcL (primary analysis population, Trial 1) |  |  |
 | AS Trial 1 | DUPIXENT 200 mg Q2W | 65 | 0.30 (0.13, 0.68) | 0.29 (0.11, 0.76) |
-|  | DUPIXENT 300 mg Q2W | 64 | 0.20 (0.08, 0.52) | 0.19 (0.07, 0.56) |
-|  | Placebo | 68 | 1.04 (0.57, 1.90) |  |
+| DUPIXENT 300 mg Q2W | 64 | 0.20 (0.08, 0.52) | 0.19 (0.07, 0.56) |  |
+| Placebo | 68 | 1.04 (0.57, 1.90) |  |  |
 | AS Trial 2 | DUPIXENT 200 mg Q2W | 264 | 0.37 (0.29, 0.48) | 0.34 (0.24, 0.48) |
-|  | Placebo | 148 | 1.08 (0.85, 1.38) |  |
-|  | DUPIXENT 300 mg Q2W | 277 | 0.40 (0.32, 0.51) | 0.33 (0.23, 0.45) |
-|  | Placebo | 142 | 1.24 (0.97, 1.57) |  |
+| Placebo | 148 | 1.08 (0.85, 1.38) |  |  |
+| DUPIXENT 300 mg Q2W | 277 | 0.40 (0.32, 0.51) | 0.33 (0.23, 0.45) |  |
+| Placebo | 142 | 1.24 (0.97, 1.57) |  |  |
 
-Figure 2: Relative Risk in Annualized Event Rate of Severe Exacerbations across Baseline Blood Eosinophil Count (cells/mcL) in AS Trial 2
+Figure 3: Relative Risk in Annualized Event Rate of Severe Exacerbations across Baseline Blood Eosinophil Count (cells/mcL) in AS Trial 2
 
-The time to first exacerbation was longer for the subjects receiving DUPIXENT compared to placebo in AS Trial 2 (Figure 3).
+The time to first exacerbation was longer for the subjects receiving DUPIXENT compared to placebo in AS Trial 2 (Figure 4).
 
-| Figure 3: Kaplan Meier Incidence Curve for Time to First Severe Exacerbation in Subjects with Baseline Blood Eosinophils ≥ 300 cells/mcL (AS Trial 2)At the time of the database lock, not all patients had completed Week 52 |
+| Figure 4: Kaplan Meier Incidence Curve for Time to First Severe Exacerbation in Subjects with Baseline Blood Eosinophils ≥ 300 cells/mcL (AS Trial 2)At the time of the database lock, not all patients had completed Week 52 |
 | --- |
 
 Lung Function
@@ -157,29 +194,29 @@ Lung Function
 Significant increases in pre-bronchodilator FEV1 were observed at Week 12 for AS Trials 1 and 2 in the primary analysis populations (subjects with baseline blood eosinophil count of ≥ 300 cells/mcL in AS Trial 1 and the overall population in AS Trial 2).
 In the overall population in AS Trial 2, the FEV1 LS mean change from baseline was 0.32 L (21%) and 0.34 L (23%) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively, compared to matched placebo means of 0.18 L (12%) and 0.21 L (14%).
 The mean treatment difference versus placebo was 0.14 L (95% CI: 0.08, 0.19) and 0.13 L (95% CI: 0.08, 0.18) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively.
-Results in subjects with baseline blood eosinophil counts ≥ 300 cells/mcL in AS Trials 1 and 2 are shown in Table 7.
+Results in subjects with baseline blood eosinophil counts ≥ 300 cells/mcL in AS Trials 1 and 2 are shown in Table 9.
 
-Improvements in FEV1 by baseline blood eosinophils for AS Trial 2 are shown in Figure 4.
+Improvements in FEV1 by baseline blood eosinophils for AS Trial 2 are shown in Figure 5.
 Subgroup analysis of AS Trials 1 and 2 demonstrated greater improvement in subjects with higher baseline blood eosinophils.
 
-Table 7: Mean Change from Baseline and vs Placebo in Pre-Bronchodilator FEV1 at Week 12 in AS Trials 1 and 2
+Table 9: Mean Change from Baseline and vs Placebo in Pre-Bronchodilator FEV1 at Week 12 in AS Trials 1 and 2
 
 | N | LS Mean Change from baseline L (%) | LS Mean Difference vs. placebo (95% CI) |  |  |
 | --- | --- | --- | --- | --- |
 | Trial | Treatment | Baseline Blood EOS ≥300 cells/mcL (primary analysis population, Trial 1) |  |  |
 | AS Trial 1 | DUPIXENT 200 mg Q2W | 65 | 0.43 (25.9) | 0.26 (0.11, 0.40) |
-|  | DUPIXENT 300 mg Q2W | 64 | 0.39 (25.8) | 0.21 (0.06, 0.36) |
-|  | Placebo | 68 | 0.18 (10.2) |  |
+| DUPIXENT 300 mg Q2W | 64 | 0.39 (25.8) | 0.21 (0.06, 0.36) |  |
+| Placebo | 68 | 0.18 (10.2) |  |  |
 | AS Trial 2 | DUPIXENT 200 mg Q2W | 264 | 0.43 (29.0) | 0.21 (0.13, 0.29) |
-|  | Placebo | 148 | 0.21 (15.6) |  |
-|  | DUPIXENT 300 mg Q2W | 277 | 0.47 (32.5) | 0.24 (0.16, 0.32) |
-|  | Placebo | 142 | 0.22 (14.4) |  |
+| Placebo | 148 | 0.21 (15.6) |  |  |
+| DUPIXENT 300 mg Q2W | 277 | 0.47 (32.5) | 0.24 (0.16, 0.32) |  |
+| Placebo | 142 | 0.22 (14.4) |  |  |
 
-Figure 4: LS Mean Difference in Change from Baseline vs Placebo to Week 12 in Pre-Bronchodilator FEV1 across Baseline Blood Eosinophil Counts (cells/mcL) in AS Trial 2
+Figure 5: LS Mean Difference in Change from Baseline vs Placebo to Week 12 in Pre-Bronchodilator FEV1 across Baseline Blood Eosinophil Counts (cells/mcL) in AS Trial 2
 
-Mean changes in FEV1 over time in AS Trial 2 are shown in Figure 5.
+Mean changes in FEV1 over time in AS Trial 2 are shown in Figure 6.
 
-Figure 5: Mean Change from Baseline in Pre-Bronchodilator FEV1 (L) Over Time in Subjects with Baseline Blood Eosinophils ≥300 cells/mcL (AS Trial 2)
+Figure 6: Mean Change from Baseline in Pre-Bronchodilator FEV1 (L) Over Time in Subjects with Baseline Blood Eosinophils ≥300 cells/mcL (AS Trial 2)
 
 Additional Secondary Endpoints
 

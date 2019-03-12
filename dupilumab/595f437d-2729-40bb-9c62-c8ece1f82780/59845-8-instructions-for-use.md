@@ -2,7 +2,7 @@
 
 Read this Instructions for Use before using the DUPIXENT Pre-filled Syringe.
 Do not inject yourself or someone else until you have been shown how to inject DUPIXENT.
-In adolescents with asthma 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.
+In adolescents 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.
 Your healthcare provider can show you or your caregiver how to prepare and inject a dose of DUPIXENT before you try to do it yourself the first time.
 Keep these instructions for future use.
 Call your healthcare provider if you have any questions.
@@ -15,7 +15,7 @@ The parts of the DUPIXENT Syringe are shown below:
 | Important Information |  |
 | --- | --- |
 | Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given your injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
-| How should I store DUPIXENT? Keep DUPIXENT Syringes and all medicines out of the reach of children.Store DUPIXENT Syringes in the refrigerator between 36ºF and 46ºF (2ºC and 8ºC).Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight. |  |
+| How should I store DUPIXENT? Keep DUPIXENT Syringes and all medicines out of the reach of children.Store DUPIXENT Syringes in the refrigerator between 36ºF and 46ºF (2ºC and 8ºC). Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight. |  |
 
 Step 1: Remove
 
@@ -101,7 +101,7 @@ The figure below shows an example of pinching a fold of skin on your stomach.
 
 Step 10: Insert
 
-Insert the Needle completely into the fold of the skin at about a 45º angle.
+Insert the Needle completely into the fold of the skin at about a 45° angle.
 
 Step 11: Push
 
@@ -154,16 +154,16 @@ Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. Licens
 
 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2018 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2019 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Issue Date: October 2018
+Issue Date: March 2019
 
 # Instructions for Use DUPIXENT® (DU-pix'-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Syringe with Needle Shield
 
 Read this Instructions for Use before using the DUPIXENT Pre-filled Syringe.
 Do not inject yourself or someone else until you have been shown how to inject DUPIXENT.
-In adolescents with asthma 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.
+In adolescents 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.
 Your healthcare provider can show you or your caregiver how to prepare and inject a dose of DUPIXENT before you try to do it yourself the first time.
 Keep these instructions for future use.
 Call your healthcare provider if you have any questions.
@@ -176,7 +176,7 @@ The parts of the DUPIXENT Syringe are shown below:
 | Important Information |  |
 | --- | --- |
 | Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given your injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
-| How should I store DUPIXENT? Keep DUPIXENT Syringes and all medicines out of the reach of children.Store DUPIXENT Syringes in the refrigerator between 36ºF and 46ºF (2ºC and 8ºC).Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight. |  |
+| How should I store DUPIXENT? Keep DUPIXENT Syringes and all medicines out of the reach of children.Store DUPIXENT Syringes in the refrigerator between 36ºF and 46ºF (2ºC and 8ºC). Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight. |  |
 
 Step 1: Remove
 
@@ -262,7 +262,7 @@ The figure below shows an example of pinching a fold of skin on your stomach.
 
 Step 10: Insert
 
-Insert the Needle completely into the fold of the skin at about a 45º angle.
+Insert the Needle completely into the fold of the skin at about a 45° angle.
 
 Step 11: Push
 
@@ -315,7 +315,7 @@ Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. Licens
 
 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2018 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2019 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Issue Date: October 2018
+Issue Date: March 2019

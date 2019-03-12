@@ -4,7 +4,22 @@ DUPIXENT is administered by subcutaneous injection.
 
 ## 2.1 Atopic Dermatitis
 
+Dosing in Adults
+
 The recommended dose of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections), followed by 300 mg given every other week.
+
+Dosing in Adolescents
+
+The recommended dose of DUPIXENT for patients 12 to 17 years of age is specified in Table 1.
+
+Table 1: Dose of DUPIXENT for Subcutaneous Administration in Adolescent Patients
+
+| Body Weight | Initial Dose | Subsequent Doses (every other week) |
+| --- | --- | --- |
+| less than 60 kg | 400 mg (two 200 mg injections) | 200 mg |
+| 60 kg or more | 600 mg (two 300 mg injections) | 300 mg |
+
+Concomitant Topical Therapies
 
 DUPIXENT can be used with or without topical corticosteroids.
 Topical calcineurin inhibitors may be used, but should be reserved for problem areas only, such as the face, neck, intertriginous and genital areas.

@@ -5,8 +5,6 @@
 DUPIXENT (dupilumab) Injection is a clear to slightly opalescent, colorless to pale yellow solution, supplied in single-dose pre-filled syringes with needle shield.
 Each pre-filled syringe with needle shield is designed to deliver either 300 mg of DUPIXENT in 2 mL (NDC 0024-5914-00) or 200 mg of DUPIXENT in 1.14 mL solution (NDC 0024-5918-00).
 
-DUPIXENT is available in cartons containing 2 pre-filled syringes with needle shield.
-
 | Pack Size | 300 mg/2 mL Pre-filled Syringe with Needle Shield | 200 mg/1.14 mL Pre-filled Syringe with Needle Shield |
 | --- | --- | --- |
 | Pack of 2 syringes | NDC 0024-5914-01 | NDC 0024-5918-01 |
@@ -22,7 +20,7 @@ If necessary, pre-filled syringes may be kept at room temperature up to 77°F (2
 Do not store above 77°F (25°C).
 After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.
 
-Do not expose the syringe to heat or direct sunlight.
+Do not expose the pre-filled syringe to heat or direct sunlight.
 
 Do NOT freeze.
 Do NOT shake.
