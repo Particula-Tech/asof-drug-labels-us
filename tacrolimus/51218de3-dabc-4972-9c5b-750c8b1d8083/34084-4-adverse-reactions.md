@@ -3,7 +3,7 @@
 No phototoxicity and no photoallergenicity were detected in clinical studies with 12 and 216 normal volunteers, respectively.
 One out of 198 normal volunteers showed evidence of sensitization in a contact sensitization study.
 
-In three 12 week randomized vehicle-controlled studies and four safety studies, 655 and 9,163 patients respectively, were treated with PROTOPIC Ointment.
+In three 12 week randomized vehicle-controlled studies and four safety studies, 655 and 9,163 patients respectively, were treated with Protopic® Ointment.
 The duration of follow-up for adult and pediatric patients in the safety studies is tabulated below.
 
 Duration of Follow-up in Four Open-label Safety Studies
@@ -15,7 +15,7 @@ Duration of Follow-up in Four Open-label Safety Studies
 | ≥ 2 years | 200 | 275 | 475 |
 | ≥ 3 years | 118 | 182 | 300 |
 
-The following table depicts the adjusted incidence of adverse events pooled across the 3 identically designed 12-week controlled studies for patients in vehicle, PROTOPIC Ointment 0.03%, and PROTOPIC Ointment 0.1% treatment groups.
+The following table depicts the adjusted incidence of adverse events pooled across the 3 identically designed 12-week controlled studies for patients in vehicle, Protopic® Ointment 0.03%, and Protopic® Ointment 0.1% treatment groups.
 The table also depicts the unadjusted incidence of adverse events in four safety studies, regardless of relationship to study drug.
 
 Incidence of Treatment Emergent Adverse Events
@@ -98,7 +98,7 @@ Other adverse events which occurred at an incidence between 0.2% and less than 1
 
 ## Post-Marketing Events
 
-The following adverse reactions have been identified during postapproval use of PROTOPIC Ointment.
+The following adverse reactions have been identified during postapproval use of Protopic® Ointment.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 CNS
@@ -123,6 +123,6 @@ Rosacea, application site edema
 
 ## OVERDOSAGE
 
-PROTOPIC Ointment is not for oral use.
-Oral ingestion of PROTOPIC Ointment may lead to adverse effects associated with systemic administration of tacrolimus.
+Protopic® Ointment is not for oral use.
+Oral ingestion of Protopic® Ointment may lead to adverse effects associated with systemic administration of tacrolimus.
 If oral ingestion occurs, medical advice should be sought.

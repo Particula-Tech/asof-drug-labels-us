@@ -14,13 +14,13 @@ Additionally, tacrolimus has been shown to inhibit the release of pre-formed med
 
 Absorption
 
-The pooled results from three pharmacokinetic studies in 88 adult atopic dermatitis patients indicate that tacrolimus is minimally absorbed after the topical application of PROTOPIC Ointment.
-Peak tacrolimus blood concentrations ranged from undetectable to 20 ng/mL after single or multiple doses of 0.03% and 0.1% PROTOPIC Ointment, with 85% (75/88) of the patients having peak blood concentrations less than 2 ng/mL.
+The pooled results from three pharmacokinetic studies in 88 adult atopic dermatitis patients indicate that tacrolimus is minimally absorbed after the topical application of Protopic® Ointment.
+Peak tacrolimus blood concentrations ranged from undetectable to 20 ng/mL after single or multiple doses of 0.03% and 0.1% Protopic® Ointment, with 85% (75/88) of the patients having peak blood concentrations less than 2 ng/mL.
 In general as treatment continued, systemic exposure declined as the skin returned to normal.
 In clinical studies with periodic blood sampling, a similar distribution of tacrolimus blood levels was also observed in adult patients, with 90% (1253/1391) of patients having a blood concentration less than 2 ng/mL.
 
-The absolute bioavailability of tacrolimus from PROTOPIC Ointment in atopic dermatitis patients is approximately 0.5%.
-In adults with an average of 53% BSA treated, exposure (AUC) of tacrolimus from PROTOPIC Ointment is approximately 30-fold less than that seen with oral immunosuppressive doses in kidney and liver transplant patients.
+The absolute bioavailability of tacrolimus from Protopic® Ointment in atopic dermatitis patients is approximately 0.5%.
+In adults with an average of 53% BSA treated, exposure (AUC) of tacrolimus from Protopic® Ointment is approximately 30-fold less than that seen with oral immunosuppressive doses in kidney and liver transplant patients.
 
 Mean peak tacrolimus blood concentrations following oral administration (0.3 mg/kg/day) in adult kidney transplant (n=26) and liver transplant (n=17) patients are 24.2±15.8 ng/mL and 68.5±30.0 ng/mL, respectively.
 The lowest tacrolimus blood level at which systemic effects (e.g., immunosuppression) can be observed is not known.
@@ -62,13 +62,13 @@ The mean clearance of radiolabel was 0.226 ± 0.116 L/hr/kg and clearance of tac
 
 Pediatrics
 
-In a pharmacokinetic study of 14 pediatric atopic dermatitis patients, between the ages of 2-5 years, peak blood concentrations of tacrolimus ranged from undetectable to 14.8 ng/mL after single or multiple doses of 0.03% PROTOPIC Ointment, with 86% (12/14) of patients having peak blood concentrations below 2 ng/mL throughout the study.
+In a pharmacokinetic study of 14 pediatric atopic dermatitis patients, between the ages of 2-5 years, peak blood concentrations of tacrolimus ranged from undetectable to 14.8 ng/mL after single or multiple doses of 0.03% Protopic® Ointment, with 86% (12/14) of patients having peak blood concentrations below 2 ng/mL throughout the study.
 
-The highest peak concentration was observed in one patient with 82% BSA involvement on day 1 following application of 0.03% PROTOPIC Ointment.
+The highest peak concentration was observed in one patient with 82% BSA involvement on day 1 following application of 0.03% Protopic® Ointment.
 The peak concentrations for this subject were 14.8 ng/mL on day 1 and 4.1 ng/mL on day 14.
 Mean peak tacrolimus blood concentrations following oral administration in pediatric liver transplant patients (n = 9) were 48.4± 27.9 ng/mL.
 
-In a similar pharmacokinetic study with 61 enrolled pediatric patients (ages 6 -12 years) with atopic dermatitis, peak tacrolimus blood concentrations ranged from undetectable to 5.3 ng/mL after single or multiple doses of 0.1% PROTOPIC Ointment, with 91% (52/57) of evaluable patients having peak blood concentrations below 2 ng/mL throughout the study period.
+In a similar pharmacokinetic study with 61 enrolled pediatric patients (ages 6 -12 years) with atopic dermatitis, peak tacrolimus blood concentrations ranged from undetectable to 5.3 ng/mL after single or multiple doses of 0.1% Protopic® Ointment, with 91% (52/57) of evaluable patients having peak blood concentrations below 2 ng/mL throughout the study period.
 When detected, systemic exposure generally declined as treatment continued.
 
 In clinical studies with periodic blood sampling, a similar distribution of tacrolimus blood levels was also observed, with 98% (509/522) of pediatric patients having a blood concentration below 2 ng/mL.
