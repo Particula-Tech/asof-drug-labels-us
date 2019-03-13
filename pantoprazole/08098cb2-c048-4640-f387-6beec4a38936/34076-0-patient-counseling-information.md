@@ -36,8 +36,7 @@ Instruct patients to inform their healthcare provider of any other medications t
 
 Pregnancy
 
-Advise a pregnant woman of the potential risk to a fetus.
-Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that PROTONIX may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Administration
 
