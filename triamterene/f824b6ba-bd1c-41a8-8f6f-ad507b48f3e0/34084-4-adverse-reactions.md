@@ -63,3 +63,7 @@ Aplastic anemia, agranulocytosis, hemolytic anemia.
 ## Neonate and Infancy
 
 Thrombocytopenia and pancreatitis – rarely, in newborns whose mothers have received thiazides during pregnancy.
+
+## Skin
+
+Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis.

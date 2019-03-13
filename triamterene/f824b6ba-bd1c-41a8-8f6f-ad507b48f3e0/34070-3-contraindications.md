@@ -2,7 +2,7 @@
 
 ## Antikaliuretic Therapy and Potassium Supplementation
 
-Triamterene and hydrochlorothiazide should not be given to patients receiving other potassium-sparing agents such as spironolactone, amiloride or other formulations containing triamterene.
+Triamterene and hydrochlorothiazide should not be given to patients receiving other potassium-sparing agents such as spironolactone, amiloride, or other formulations containing triamterene.
 Concomitant potassium-containing salt substitutes should also not be used.
 
 Potassium supplementation should not be used with triamterene and hydrochlorothiazide except in severe cases of hypokalemia.

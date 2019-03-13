@@ -1,12 +1,12 @@
 # WARNINGS
 
-If hyperkalemia is suspected (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock), an electrocardiogram (ECG) should be obtained.
+If hyperkalemia is suspected (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia, and shock), an electrocardiogram (ECG) should be obtained.
 However, it is important to monitor serum potassium levels because hyperkalemia may not be associated with ECG changes.
 
 If hyperkalemia is present, triamterene and hydrochlorothiazide should be discontinued immediately and a thiazide alone should be substituted.
-If the serum potassium exceeds 6.5 mEq/liter, more vigorous therapy is required.
+If the serum potassium exceeds 6.5 mEq/liter more vigorous therapy is required.
 The clinical situation dictates the procedures to be employed.
-These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
+These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution, and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
 Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered.
 Persistent hyperkalemia may require dialysis.
 
@@ -24,11 +24,20 @@ Potassium-sparing therapy should also be avoided in severely ill patients in who
 Acidosis may be associated with rapid elevations in serum potassium levels.
 If triamterene and hydrochlorothiazide is employed, frequent evaluations of acid/base balance and serum electrolytes are necessary.
 
+## Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
 # PRECAUTIONS
 
 ## Diabetes
 
-Caution should be exercised when administering triamterene and hydrochlorothiazide to patients with diabetes, since thiazides may cause hyperglycemia, glycosuria and alter insulin requirements in diabetes.
+Caution should be exercised when administering triamterene and hydrochlorothiazide to patients with diabetes, since thiazides may cause hyperglycemia, glycosuria, and alter insulin requirements in diabetes.
 Also, diabetes mellitus may become manifest during thiazide administration.
 
 ## Impaired Hepatic Function
@@ -36,21 +45,21 @@ Also, diabetes mellitus may become manifest during thiazide administration.
 Thiazides should be used with caution in patients with impaired hepatic function.
 They can precipitate hepatic coma in patients with severe liver disease.
 Potassium depletion induced by the thiazide may be important in this connection.
-Administer triamterene and hydrochlorothiazide cautiously and be alert for such early signs of impending coma as confusion, drowsiness and tremor; if mental confusion increases discontinue triamterene and hydrochlorothiazide for a few days.
+Administer triamterene and hydrochlorothiazide cautiously and be alert for such early signs of impending coma as confusion, drowsiness, and tremor; if mental confusion increases discontinue triamterene and hydrochlorothiazide for a few days.
 Attention must be given to other factors that may precipitate hepatic coma, such as blood in the gastrointestinal tract or preexisting potassium depletion.
 
 ## Hypokalemia
 
 Hypokalemia is uncommon with triamterene and hydrochlorothiazide but, should it develop, corrective measures should be taken such as potassium supplementation or increased intake of potassium-rich foods.
 Institute such measures cautiously with frequent determinations of serum potassium levels, especially in patients receiving digitalis or with a history of cardiac arrhythmias.
-If serious hypokalemia (serum potassium less than 3 mEq/L) is demonstrated by repeat serum potassium determinations, triamterene and hydrochlorothiazide should be discontinued and potassium chloride supplementation initiated.
+If serious hypokalemia (serum potassium less than 3.0 mEq/L) is demonstrated by repeat serum potassium determinations, triamterene and hydrochlorothiazide should be discontinued and potassium chloride supplementation initiated.
 Less serious hypokalemia should be evaluated with regard to other coexisting conditions and treated accordingly.
 
 ## Electrolyte Imbalance
 
-Electrolyte imbalance, often encountered in such conditions as heart failure, renal disease or cirrhosis of the liver, may also be aggravated by diuretics and should be considered during triamterene and hydrochlorothiazide therapy when using high doses for prolonged periods or in patients on a salt-restricted diet.
+Electrolyte imbalance, often encountered in such conditions as heart failure, renal disease or cirrhosis of the liver, may also be aggravated by diuretics and should be considered during therapy with triamterene and hydrochlorothiazide when using high doses for prolonged periods or in patients on a salt-restricted diet.
 Serum determinations of electrolytes should be performed, and are particularly important if the patient is vomiting excessively or receiving fluids parenterally.
-Possible fluid and electrolyte imbalance may be indicated by such warning signs as: dry mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia and gastrointestinal symptoms.
+Possible fluid and electrolyte imbalance may be indicated by such warning signs as: dry mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal symptoms.
 
 ## Hypochloremia
 
@@ -67,7 +76,7 @@ Triamterene and hydrochlorothiazide should be used with caution in patients with
 
 ### Serum Potassium
 
-The normal adult range of serum potassium is 3.5 to 5 mEq per liter with 4.5 mEq often being used for a reference point.
+The normal adult range of serum potassium is 3.5 to 5.0 mEq per liter with 4.5 mEq often being used for a reference point.
 If hypokalemia should develop, corrective measures should be taken such as potassium supplementation or increased dietary intake of potassium-rich foods.
 
 Institute such measures cautiously with frequent determinations of serum potassium levels.
@@ -154,7 +163,7 @@ Long-term studies have not been conducted with the triamterene and hydrochloroth
 #### Hydrochlorothiazide
 
 Two-year feeding studies in mice and rats, conducted under the auspices of the National Toxicology Program (NTP), treated mice and rats with doses of hydrochlorothiazide up to 600 and 100 mg/kg/day, respectively.
-On a body-weight basis, these doses are 600 times (in mice) and 100 times (in rats) the Maximum Recommended Human Dose (MRHD) for the hydrochlorothiazide component of triamterene and hydrochlorothiazide capsules at 50 mg/day (or 1 mg/kg/day based on 50 kg individuals).
+On a body-weight basis, these doses are 600 times (in mice) and 100 times (in rats) the Maximum Recommended Human Dose (MRHD) for the hydrochlorothiazide component of triamterene and hydrochlorothiazide capsules at 50 mg/day (or 1.0 mg/kg/day based on 50 kg individuals).
 On the basis of body-surface area, these doses are 56 times (in mice) and 21 times (in rats) the MRHD.
 These studies uncovered no evidence of carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was equivocal evidence of hepatocarcinogenicity in male mice.
 
@@ -199,8 +208,8 @@ Because animal reproduction studies are not always predictive of human response,
 
 ##### Hydrochlorothiazide
 
-Hydrochlorothiazide was orally administered to pregnant mice and rats during respective periods of major organogenesis at doses up to 3000 and 1000 mg/kg/day, respectively.
-At these doses, which are multiples of the MRHD equal to 3000 for mice and 1000 for rats, based on body-weight, and equal to 282 for mice and 206 for rats, based on body-surface area, there was no evidence of harm to the fetus.
+Hydrochlorothiazide was orally administered to pregnant mice and rats during respective periods of major organogenesis at doses up to 3,000 and 1,000 mg/kg/day, respectively.
+At these doses, which are multiples of the MRHD equal to 3,000 for mice and 1,000 for rats, based on body-weight, and equal to 282 for mice and 206 for rats, based on body-surface area, there was no evidence of harm to the fetus.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

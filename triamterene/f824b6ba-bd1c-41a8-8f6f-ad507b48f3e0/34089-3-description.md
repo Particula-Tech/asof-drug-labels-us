@@ -15,8 +15,14 @@ It is sparingly soluble in methanol.
 Hydrochlorothiazide is 6-chloro-3,4-dihydro-2H-1,2, 4-benzothiadiazine-7-sulfonamide 1,1-dioxide with a chemical formula of C7H8ClN3O4S2 and a molecular weight of 297.75.
 The structural formula for hydrochlorothiazide is:
 
-Each capsule, for oral administration, contains 37.5 mg triamterene and 25 mg hydrochlorothiazide.
-Inactive ingredients include: citric acid, corn starch, glycine, anhydrous lactose, magnesium stearate, Polysorbate 80, povidone, and sodium starch glycolate.
+Each capsule, for oral administration, contains 37.5 mg triamterene and 25 mg hydrochlorothiazide or 50 mg triamterene and 25 mg hydrochlorothiazide.
+
+The 37.5 mg triamterene and 25 mg hydrochlorothiazide capsule inactive ingredients include: citric acid, corn starch, glycine, anhydrous lactose, magnesium stearate, Polysorbate 80, povidone, and sodium starch glycolate.
 The capsule shells and imprinting inks contain: D & C Yellow #10 Aluminum Lake, FD & C Blue #1 Aluminum Lake, FD & C Blue #2 Aluminum Lake, FD & C Red #40 Aluminum Lake, gelatin, pharmaceutical glaze, propylene glycol, synthetic black iron oxide, and titanium dioxide.
 
-This product complies with dissolution test #3.
+The 37.5 mg triamterene and 25 mg hydrochlorothiazide capsule meets USP Dissolution Test 3.
+
+The 50 mg triamterene and 25 mg hydrochlorothiazide capsule inactive ingredients include: lactose monohydrate, magnesium stearate, povidone, corn starch.
+The capsule shells and imprinting inks contain: D&C Red # 40, gelatin, titanium dioxide, pharmaceutical glaze, propylene glycol and simethicone.
+
+The 50 mg triamterene and 25 mg hydrochlorothiazide capsule meets USP Dissolution Test 2.

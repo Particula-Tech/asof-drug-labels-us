@@ -1,12 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA073191",
+    "ANDA074821"
+  ],
   "inn": "triamterene",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
     "0781-2074-01",
-    "0781-2074-10"
+    "0781-2074-10",
+    "0781-2715-01",
+    "0781-2715-10",
+    "0781-2715-13"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "triamterene and hydrochlorothiazide",
+      "name": "Triamterene and Hydrochlorothiazide"
+    }
+  ],
   "setid": "f824b6ba-bd1c-41a8-8f6f-ad507b48f3e0",
   "source": "dailymed"
 }

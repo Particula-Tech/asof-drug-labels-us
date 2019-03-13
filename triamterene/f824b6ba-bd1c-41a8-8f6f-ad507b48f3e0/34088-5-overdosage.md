@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
 Electrolyte imbalance is the major concern (See WARNINGS section).
-Symptoms reported include: polyuria, nausea, vomiting, weakness, lassitude, fever, flushed face and hyperactive deep tendon reflexes.
+Symptoms reported include: polyuria, nausea, vomiting, weakness, lassitude, fever, flushed face, and hyperactive deep tendon reflexes.
 If hypotension occurs, it may be treated with pressor agents such as levarterenol to maintain blood pressure.
 Carefully evaluate the electrolyte pattern and fluid balance.
 Induce immediate evacuation of the stomach through emesis or gastric lavage.
