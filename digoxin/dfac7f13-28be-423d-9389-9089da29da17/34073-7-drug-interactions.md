@@ -6,13 +6,13 @@ Prescribers should consult the prescribing information of any drug which is co-p
 ## 7.1 P-Glycoprotein (PGP) Inducers/Inhibitors
 
 Digoxin is a substrate of P-glycoprotein, at the level of intestinal absorption, renal tubular section and biliary-intestinal secretion.
-Therefore drugs that induce or inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics.
+Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics.
 
 ## 7.2 Pharmacokinetic Drug Interactions
 
-|  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
-| --- | --- | --- | --- |
 | Digoxin concentrations increased greater than 50% |  |  |  |
+| --- | --- | --- | --- |
+|  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
 | Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30 to 50% or by modifying the dosing frequency and continue monitoring. |
 | Captopril | 58% | 39% |  |
 | Clarithromycin | NA | 70% |  |
@@ -34,22 +34,24 @@ Therefore drugs that induce or inhibit P-glycoprotein have the potential to alte
 | Conivaptan | 33% | 43% |  |
 | Diltiazem | 20% | NA |  |
 | Indomethacin | 40% | NA |  |
+| Mirabegron | 29% | 27% |  |
 | Nefazodone | 27% | 15% |  |
 | Nifedipine | 45% | NA |  |
 | Propantheline | 24% | 24% |  |
 | Quinine | NA | 33% |  |
-| Raberprazole | 29% | 19% |  |
+| Rabeprazole | 29% | 19% |  |
 | Saquinavir | 27% | 49% |  |
 | Spironolactone | 25% | NA |  |
 | Telmisartan | 20 to 49% | NA |  |
-| Tricagrelor | 31% | 28% |  |
-| Tolvaptan | 30% | NA |  |
+| Ticagrelor | 31% | 28% |  |
+| Tolvaptan | 30% | 20% |  |
 | Trimethoprim | 22 to 28% | NA |  |
 | Digoxin concentrations increased, but magnitude is unclear |  |  |  |
 | Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
 | Digoxin concentrations decreased |  |  |  |
-| Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John's Wort, sucralfate, sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20 to 40% as necessary. |
-| NA – Not available/reported |  |  |  |
+| Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate and sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20 to 40% as necessary. |
+
+NA – Not available/reported
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 
@@ -62,11 +64,11 @@ Because of considerable variability of pharmacodynamic interactions, the dosage 
 |  | Dronedarone | Sudden death was more common in patients receiving digoxin with dronedarone than on either alone; it is not clear whether this represents an interaction or is related to the presence of advanced heart disease, a known risk factor for sudden death in patients receiving digoxin. |
 | Parathyroid Hormone Analog | Teriparatide | Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serum calcium. |
 | Thyroid supplement | Thyroid | Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin. |
-| Sympathomimetics | Epinephrine Norepinephrine Dopamine | Can increase the risk of cardiac arrhythmias |
-| Neuromuscular Blocking Agents | Succinylcholine | May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin. |
+| Sympathomimetics | Epinephrine Norepinephrine Dopamine | Can increase the risk of cardiac arrhythmias. |
+| Neuromuscular Blocking Agents | Succinylcholine | May cause sudden extrusion of potassium from muscle cells, causing arrhythmias in patients taking digoxin. |
 | Supplements | Calcium | If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients. |
 | Beta-adrenergic blockers and calcium channel blockers |  | Additive effects on AV node conduction can result in bradycardia and advanced or complete heart block. |
-| Hyperpolarization-activated cyclic nucleotide-gated channel blocker | Ivabradine | Can increase the risk of bradycardia. |
+| Hyperpolarization-activated cyclic nucleotide-gated channel blocker | Ivabradine | Can Increase the risk of bradycardia. |
 
 ## 7.4 Drug/Laboratory Test Interactions
 

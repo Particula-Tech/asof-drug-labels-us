@@ -4,6 +4,7 @@
 
 All of digoxin's actions are mediated through its effects on Na-K ATPase.
 This enzyme, the "sodium pump," is responsible for maintaining the intracellular milieu throughout the body by moving sodium ions out of and potassium ions into cells.
+
 By inhibiting Na-K ATPase, digoxin
 
 - causes increased availability of intracellular calcium in the myocardium and conduction system, with consequent increased inotropy, increased automaticity, and reduced conduction velocity
@@ -22,10 +23,14 @@ The times to onset of pharmacologic effect and to peak effect of preparations of
 Table 7.
 Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Digoxin Tablets
 
-| Product | Time to Onset of EffectDocumented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes. | Time to Peak Effect |
+| Product | Time to Onset of Effecta | Time to Peak Effecta |
 | --- | --- | --- |
 | Digoxin Tablets | 0.5 to 2 hours | 2 to 6 hours |
-| Digoxin Injection/IV | 5 to 30 minutesDepending upon rate of infusion. | 1 to 4 hours |
+| Digoxin Injection/IV | 5 to 30 minutesb | 1 to 4 hours |
+
+a Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes.
+
+b Depending upon rate of infusion.
 
 Hemodynamic Effects: Short- and long-term therapy with the drug increase cardiac output and lower pulmonary artery pressure, pulmonary capillary wedge pressure, and systemic vascular resistance in patients with heart failure.
 These hemodynamic effects are accompanied by an increase in the left ventricular ejection fraction and a decrease in end-systolic and end-diastolic dimensions.
@@ -76,11 +81,9 @@ Following intravenous administration to healthy volunteers, 50 to 70% of a digox
 Renal excretion of digoxin is proportional to creatinine clearance and is largely independent of urine flow.
 In healthy volunteers with normal renal function, digoxin has a half-life of 1.5 to 2 days.
 The half-life in anuric patients is prolonged to 3.5 to 5 days.
-Digoxin is not effectively removed from the body by dialysis, exchange transfusion, or during cardiopulmonary bypass because most of the drug is bound to extravascular tissues
+Digoxin is not effectively removed from the body by dialysis, exchange transfusion, or during cardiopulmonary bypass because most of the drug is bound to extravascular tissues.
 
-### Special Populations:
-
-Geriatrics: Because of age-related declines in renal function, elderly patients would be expected to eliminate digoxin more slowly than younger subjects.
+Special Populations: Geriatrics: Because of age-related declines in renal function, elderly patients would be expected to eliminate digoxin more slowly than younger subjects.
 Elderly patients may also exhibit a lower volume of distribution of digoxin due to age-related loss of lean muscle mass.
 Thus, the dosage of digoxin should be carefully selected and monitored in elderly patients [see Use in Specific Populations (8.5)].
 
@@ -89,7 +92,7 @@ This difference is not likely to be clinically important.
 
 Hepatic Impairment: Because only a small percentage (approximately 13%) of a dose of digoxin undergoes metabolism, hepatic impairment would not be expected to significantly alter the pharmacokinetics of digoxin.
 In a small study, plasma digoxin concentration profiles in patients with acute hepatitis generally fell within the range of profiles in a group of healthy subjects.
-No dosage adjustments are recommended for patients with hepatic impairment; however, serum digoxin concentrations should be used as appropriate to help guide dosing in these patients.
+No dosage adjustments are recommended for patients with hepatic impairment; however, serum digoxin concentrations should be used, as appropriate, to help guide dosing in these patients.
 
 Renal Impairment: Since the clearance of digoxin correlates with creatinine clearance, patients with renal impairment generally demonstrate prolonged digoxin elimination half-lives and greater exposures to digoxin.
 Therefore, titrate carefully in these patients based on clinical response and based on monitoring of serum digoxin concentrations, as appropriate.
