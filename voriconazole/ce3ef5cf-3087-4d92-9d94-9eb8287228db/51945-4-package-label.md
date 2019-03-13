@@ -68,7 +68,7 @@ for oral suspension
 
 ORANGE FLAVORED
 
-45 g (75 mL when reconstituted) Rx only
+75 mL (when reconstituted) Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton
 
@@ -89,4 +89,4 @@ Oral Dispenser Included
 Important: Read assembly instructions carefully before dispensing.
 Contains Small Parts - Keep out of reach of children.
 
-45 g (75 mL when reconstituted) Rx only
+75 mL (when reconstituted) Rx only
