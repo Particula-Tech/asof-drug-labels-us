@@ -3,7 +3,7 @@
 ## 5.1 Hyponatremia
 
 Clinically significant hyponatremia (sodium <125 mmol/L) can develop during oxcarbazepine use.
-In the 14 controlled epilepsy studies 2.5% of oxcarbazepine -treated patients (38/1,524) had a sodium of less than 125 mmol/L at some point during treatment, compared to no such patients assigned placebo or active control (carbamazepine and phenobarbital for adjunctive and monotherapy substitution studies, and phenytoin and valproate for the monotherapy initiation studies).
+In the 14 controlled epilepsy studies 2.5% of oxcarbazepine-treated patients (38/1,524) had a sodium of less than 125 mmol/L at some point during treatment, compared to no such patients assigned placebo or active control (carbamazepine and phenobarbital for adjunctive and monotherapy substitution studies, and phenytoin and valproate for the monotherapy initiation studies).
 Clinically significant hyponatremia generally occurred during the first 3 months of treatment with oxcarbazepine, although there were patients who first developed a serum sodium <125 mmol/L more than 1 year after initiation of therapy.
 Most patients who developed hyponatremia were asymptomatic but patients in the clinical trials were frequently monitored and some had their oxcarbazepine dose reduced, discontinued, or had their fluid intake restricted for hyponatremia.
 Whether or not these maneuvers prevented the occurrence of more severe events is unknown.
@@ -46,7 +46,7 @@ Available clinical evidence, and data from nonclinical studies showing a direct 
 
 The frequency of HLA-B*1502 allele ranges from 2 to 12% in Han Chinese populations, is about 8% in Thai populations, and above 15% in the Philippines and in some Malaysian populations.
 Allele frequencies up to about 2% and 6% have been reported in Korea and India, respectively.
-The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (< 1%).
+The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (<1%).
 
 Testing for the presence of the HLA-B*1502 allele should be considered in patients with ancestry in genetically at-risk populations, prior to initiating treatment with oxcarbazepine.
 The use of oxcarbazepine should be avoided in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
@@ -73,13 +73,13 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference:Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1 | 1.8 | 1.9 | 0.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
@@ -99,7 +99,7 @@ But if withdrawal is needed because of a serious adverse event, rapid discontinu
 ## 5.7 Cognitive/Neuropsychiatric Adverse Reactions
 
 Use of oxcarbazepine has been associated with central nervous system-related adverse reactions.
-The most significant of these can be classified into 3 general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems, 2) somnolence or fatigue, and 3) co-ordination abnormalities, including ataxia and gait disturbances.
+The most significant of these can be classified into 3 general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems, 2) somnolence or fatigue, and 3) coordination abnormalities, including ataxia and gait disturbances.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on oxcarbazepine to gauge whether it adversely affects their ability to drive or operate machinery.
 
@@ -124,14 +124,14 @@ In these trials, no patients discontinued because of ataxia or gait disturbances
 
 Pediatric Patients
 
-A study was conducted in pediatric patients (3 to 17 years old) with inadequately controlled partial seizures in which oxcarbazepine was added to existing AED therapy (up to 2 concomitant AEDs).
+A study was conducted in pediatric patients (3 to 17 years old) with inadequately controlled partial-onset seizures in which oxcarbazepine was added to existing AED therapy (up to 2 concomitant AEDs).
 By protocol, the dosage of concomitant AEDs could not be reduced as oxcarbazepine was added.
 Oxcarbazepine was titrated to reach a target dose ranging from 30 mg/kg to 46 mg/kg (based on a patient’s body weight with fixed doses for predefined weight ranges).
 
 Cognitive adverse events occurred in 5.8% of oxcarbazepine-treated patients (the single most common event being concentration impairment, 4 of 138 patients) and in 3.1% of patients treated with placebo.
-In addition, 34.8% of oxcarbazepine-treated patients and 14% of placebo-treated patients experienced somnolence.
+In addition, 34.8% of oxcarbazepine-treated patients and 14.0% of placebo-treated patients experienced somnolence.
 (No patient discontinued due to a cognitive adverse reaction or somnolence.).
-Finally, 23.2% of oxcarbazepine-treated patients and 7% of placebo-treated patients experienced ataxia or gait disturbances.
+Finally, 23.2% of oxcarbazepine-treated patients and 7.0% of placebo-treated patients experienced ataxia or gait disturbances.
 Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
 ## 5.8 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
@@ -141,7 +141,7 @@ Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
-It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present eventhough rash is not evident.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
 Oxcarbazepine should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 

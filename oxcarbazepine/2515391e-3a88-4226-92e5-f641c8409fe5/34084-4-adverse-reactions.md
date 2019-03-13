@@ -22,7 +22,7 @@ Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
 The most common (≥10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with oxcarbazepine: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
 
 Approximately 23% of these 1,537 adult patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1.0%).
 
 Monotherapy in Adults Not Previously Treated with Other AEDs
 
@@ -36,7 +36,7 @@ Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previ
 The most common (≥5%) adverse reactions with oxcarbazepine in these patients were similar to those seen in adults.
 
 Approximately 11% of these 456 pediatric patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
+The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2.0%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
 
 Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated with Other AEDs
 
@@ -54,15 +54,16 @@ The adverse reactions most commonly associated with discontinuation were: convul
 
 Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
 
-Table 3 lists adverse reactions that occurred in at least 2% of adult patients with epilepsy treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with any dose of oxcarbazepine.
+Table 3 lists adverse reactions that occurred in at least 2% of adult patients with epilepsy, treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with any dose of oxcarbazepine.
 
 Table 4 lists adverse reactions in patients converted from other AEDs to either high-dose oxcarbazepine (2,400 mg/day) or low-dose (300 mg/day) oxcarbazepine.
 Note that in some of these monotherapy studies patients who dropped out during a preliminary tolerability phase are not included in the tables.
 
-Table 3 Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy with Oxcarbazepine in Adults
+Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy with Oxcarbazepine in Adults
 
-| Body System/Adverse Reaction | Oxcarbazepine 600N=163% | Oxcarbazepine 1200N=171% | Oxcarbazepine 2400N=126% | PlaceboN=166% |
+|  | Oxcarbazepine Dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
+| Body System/Adverse Reaction | Oxcarbazepine 600N=163% | Oxcarbazepine 1,200N=171% | Oxcarbazepine 2,400N=126% | PlaceboN=166% |
 | Body as a Whole |  |  |  |  |
 | Fatigue | 15 | 12 | 15 | 7 |
 | Asthenia | 6 | 3 | 6 | 5 |
@@ -114,7 +115,7 @@ Table 3 Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy w
 | Abnormal |  |  |  |  |
 | Accommodation | 0 | 0 | 2 | 0 |
 
-Table 4 Adverse Reactions in Controlled Clinical Studies of Monotherapy with Oxcarbazepine in Adults Previously Treated with Other AEDs
+Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy with Oxcarbazepine in Adults Previously Treated with Other AEDs
 
 | Body System/Adverse Reaction | Oxcarbazepine2,400 mg/dayN=86% | Oxcarbazepine300 mg/dayN=86% |
 | --- | --- | --- |
@@ -183,9 +184,9 @@ Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with O
 
 Table 5 lists adverse reactions in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with oxcarbazepine or placebo and were numerically more common in the patients treated with oxcarbazepine.
 
-Table 5 Adverse Reactions in a Controlled Clinical Study of Monotherapy with Oxcarbazepine in Adults Not Previously Treated with Other AEDs
+Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy with Oxcarbazepine in Adults Not Previously Treated with Other AEDs
 
-| Body System/Adverse Reaction | Oxcarbazepine N=55% | Oxcarbazepine N=49% |
+| Body System/Adverse Reaction | Oxcarbazepine N=55% | Oxcarbazepin Placebo N=49% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Falling Down NOS | 4 | 0 |
@@ -219,9 +220,9 @@ Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patie
 
 Table 6 lists adverse reactions that occurred in at least 2% of pediatric patients with epilepsy treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with oxcarbazepine.
 
-Table 6 Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with Oxcarbazepine in Pediatric Patients Previously Treated with Other AEDs
+Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with Oxcarbazepine in Pediatric Patients Previously Treated with Other AEDs
 
-| Body System/ Adverse Reaction | OxcarbazepineN=171 % | Placebo N=139 % |
+| Body System/ Adverse Reaction | Oxcarbazepine N=171 % | Placebo N=139 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 13 | 9 |
@@ -256,7 +257,7 @@ Table 6 Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/M
 | Abnormal Vision | 13 | 1 |
 | Vertigo | 2 | 0 |
 
-Other Events Observed in Association with the Administration of oxcarbazepine
+Other Events Observed in Association with the Administration of Oxcarbazepine
 
 In the paragraphs that follow, the adverse reactions, other than those in the preceding tables or text, that occurred in a total of 565 children and 1,574 adults exposed to oxcarbazepine and that are reasonably likely to be related to drug use are presented.
 Events common in the population, events reflecting chronic illness and events likely to reflect concomitant illness are omitted particularly if minor.

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Oxcarbazepine (ox-kar-BAY-zeh-peen) Oral Suspension, USP
+Oxcarbazepine (ox-kar-BAY-zeh-peen) Oral Suspension
 
 What is the most important information I should know about oxcarbazepine oral suspension?
 
@@ -75,11 +75,11 @@ What is oxcarbazepine oral suspension?
 
 Oxcarbazepine oral suspension is a prescription medicine used:
 
-- alone or with other medicines to treat partial seizures in adults.
-- alone to treat partial seizures in children 4 years and older.
-- with other medicines to treat partial seizures in children 2 years and older.
+- alone or with other medicines to treat partial-onset seizures in adults.
+- alone to treat partial-onset seizures in children 4 years and older.
+- with other medicines to treat partial-onset seizures in children 2 years and older.
 
-It is not known if oxcarbazepine oral suspension is safe and effective for use alone to treat partial seizures in children less than 4 years of age or for use with other medicines to treat partial seizures in children less than 2 years of age.
+It is not known if oxcarbazepine oral suspension is safe and effective for use alone to treat partial-onset seizures in children less than 4 years of age or for use with other medicines to treat partial-onset seizures in children less than 2 years of age.
 
 Do not take oxcarbazepine oral suspension if you are allergic to oxcarbazepine oral suspension or any of the other ingredients in oxcarbazepine oral suspension, or to eslicarbazepine acetate.
 See the end of this Medication Guide for a complete list of ingredients in oxcarbazepine oral suspension.
@@ -100,14 +100,12 @@ Before taking oxcarbazepine oral suspension, tell your healthcare provider about
 - are pregnant or plan to become pregnant.
   Oxcarbazepine oral suspension may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine oral suspension.
-  You and your healthcare provider will decide if you should take oxcarbazepine oral suspension while you are pregnant.
-  - If you become pregnant while taking oxcarbazepine oral suspension, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-    The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
-    You can enroll in this registry by calling 1-888-233-2334.
+  You and your healthcare provider will decide if you should take oxcarbazepine oral suspension while you are pregnant.If you become pregnant while taking oxcarbazepine oral suspension, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
+  You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
-  Oxcarbazepine oral suspension passes into breast milk.
-  You and your healthcare provider should decide if you will take oxcarbazepine oral suspension or breastfeed.
-  You should not do both.Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+  Oxcarbazepine passes into breast milk.
+  Talk with your healthcare provider about the best way to feed your baby if you take oxcarbazepine oral suspension.Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
   Taking oxcarbazepine oral suspension with certain other medicines may cause side effects or affect how well they work.
   Do not start or stop other medicines without talking to your healthcare provider.Know the medicines you take.
   Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.How should I take oxcarbazepine oral suspension?
@@ -118,7 +116,8 @@ Before taking oxcarbazepine oral suspension, tell your healthcare provider about
   Your healthcare provider will tell you how much oxcarbazepine oral suspension to take.
 - Take oxcarbazepine oral suspension 2 times a day.
 - Take oxcarbazepine oral suspension with or without food.
-- Before taking oxcarbazepine oral suspension shake the bottle well and use the oral dosing syringe that comes with your oral suspension to measure the amount of medicine needed. oxcarbazepine oral suspension can be mixed in a small glass of water, or swallowed directly from the syringe.
+- Before taking oxcarbazepine oral suspension shake the bottle well and use the oral dosing syringe that comes with your oral suspension to measure the amount of medicine needed.
+  Oxcarbazepine oral suspension can be mixed in a small glass of water, or swallowed directly from the syringe.
   Clean the syringe with warm water and let it dry after each use.
 - If you take too much oxcarbazepine oral suspension, call your healthcare provider right away.
 
@@ -162,10 +161,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store oxcarbazepine oral suspension?
 
-- Store oxcarbazepine oral suspension at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-  - Keep oxcarbazepine oral suspension in the original container.
-    Use within 7 weeks of first opening the bottle.
-    Shake well before using.
+- Store oxcarbazepine oral suspension at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+- Keep oxcarbazepine oral suspension in the original container and use within 7 weeks of first opening the bottle.
+  Shake well before using.
 
 Keep oxcarbazepine oral suspension and all medicines out of the reach of children.
 
@@ -189,11 +187,9 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
+For more information, go to www.amneal.com or call 1-877-835-5472.
 
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2017-03
+02-2019-05

@@ -2,4 +2,4 @@
 
 Oral Suspension:
 
-- 300 mg/5 mL (60 mg/mL)
+- 300 mg/5 mL (60 mg/mL): Off-white to slightly yellow colored suspension.

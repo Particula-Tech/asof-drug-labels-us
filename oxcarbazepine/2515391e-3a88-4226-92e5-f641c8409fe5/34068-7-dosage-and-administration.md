@@ -6,7 +6,8 @@ Initiate oxcarbazepine oral suspension with a dose of 600 mg/day, given twice-a-
 If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the maximum recommended daily dose is 1,200 mg/day.
 
 Daily doses above 1,200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2,400 mg/day dose, primarily because of CNS effects.
-It is recommended that the patient be observed closely and plasma levels of the concomitant AEDs be monitored during the period of oxcarbazepine oral suspension titration, as these plasma levels may be altered, especially at oxcarbazepine oral suspension doses greater than 1,200 mg/day [see Drug Interactions (7.1)].
+
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
 
 ## 2.2 Conversion to Monotherapy for Adults
 
@@ -29,9 +30,9 @@ The target maintenance dose of oxcarbazepine oral suspension should be achieved 
 
 20 to 29 kg – 900 mg/day
 
-29.1 to 39 kg – 1200 mg/day
+29.1 to 39 kg – 1,200 mg/day
 
->39 kg – 1800 mg/day
+>39 kg – 1,800 mg/day
 
 In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
 
@@ -42,6 +43,8 @@ The maximum maintenance dose of oxcarbazepine oral suspension should be achieved
 In the clinical trial in pediatric patients (2 to 4 years of age) in which the intention was to reach the target dose of 60 mg/kg/day, 50% of patients reached a final dose of at least 55 mg/kg/day.
 
 Under adjunctive therapy (with and without enzyme-inducing AEDs), when normalized by body weight, apparent clearance (L/hr/kg) decreased when age increased such that children 2 to <4 years of age may require up to twice the oxcarbazepine dose per body weight compared to adults; and children 4 to ≤12 years of age may require a 50% higher oxcarbazepine dose per body weight compared to adults.
+
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
 
 ## 2.5 Conversion to Monotherapy for Pediatric Patients (Aged 4 to 16 Years)
 
@@ -57,22 +60,22 @@ Patients not currently being treated with antiepileptic drugs may have monothera
 In these patients, initiate oxcarbazepine oral suspension at a dose of 8 to 10 mg/kg/day given twice-a-day.
 The dose should be increased by 5 mg/kg/day every third day to the recommended daily dose shown in the table below.
 
-Table 1 Range of Maintenance Doses of Oxcarbazepine Oral Suspension for Pediatrics by Weight During Monotherapy
+Table 1: Range of Maintenance Doses of Oxcarbazepine Oral Suspension for Pediatrics by Weight During Monotherapy
 
 |  | From | To |
 | --- | --- | --- |
 | Weight in kg | Dose (mg/day) | Dose (mg/day) |
 | 20 | 600 | 900 |
-| 25 | 900 | 1200 |
-| 30 | 900 | 1200 |
-| 35 | 900 | 1500 |
-| 40 | 900 | 1500 |
-| 45 | 1200 | 1500 |
-| 50 | 1200 | 1800 |
-| 55 | 1200 | 1800 |
-| 60 | 1200 | 2100 |
-| 65 | 1200 | 2100 |
-| 70 | 1500 | 2100 |
+| 25 | 900 | 1,200 |
+| 30 | 900 | 1,200 |
+| 35 | 900 | 1,500 |
+| 40 | 900 | 1,500 |
+| 45 | 1,200 | 1,500 |
+| 50 | 1,200 | 1,800 |
+| 55 | 1,200 | 1,800 |
+| 60 | 1,200 | 2,100 |
+| 65 | 1,200 | 2,100 |
+| 70 | 1,500 | 2,100 |
 
 ## 2.7 Dosage Modification for Patients with Renal Impairment
 
@@ -86,3 +89,5 @@ Before using oxcarbazepine oral suspension, shake the bottle well and prepare th
 The prescribed amount of oral suspension should be withdrawn from the bottle using the oral dosing syringe supplied.
 Oxcarbazepine oral suspension can be mixed in a small glass of water just prior to administration or, alternatively, may be swallowed directly from the syringe.
 After each use, close the bottle and rinse the syringe with warm water and allow it to dry thoroughly.
+
+Oxcarbazepine oral suspension and oxcarbazepine film-coated tablets may be interchanged at equal doses.
