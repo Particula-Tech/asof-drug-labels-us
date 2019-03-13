@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020907"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Gemini Laboratories, LLC",
+  "package_ndcs": [
+    "60846-231-01",
+    "60846-232-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "estradiol/norethindrone acetate",
+      "name": "Activella"
+    }
+  ],
+  "setid": "d4b0c1dd-aae9-4ca2-958c-71dbe5d0fab0",
+  "source": "dailymed"
+}
