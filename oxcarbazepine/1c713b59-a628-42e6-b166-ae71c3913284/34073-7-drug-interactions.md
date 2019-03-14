@@ -3,7 +3,7 @@
 ## 7.1 Effect of Oxcarbazepine on Other Drugs
 
 Phenytoin levels have been shown to increase with concomitant use of oxcarbazepine at doses greater than 1200 mg/day [see Clinical Pharmacology (12.3)].Therefore, it is recommended that the plasma levels of phenytoin be monitored during the period of oxcarbazepine titration and dosage modification.
-A decrease in the dose of phenytoin may be required.
+A decrease in the dose of phenytoin may be required..
 
 ## 7.2 Effect of Other Drugs on Oxcarbazepine
 
@@ -13,5 +13,5 @@ Dose adjustment of oxcarbazepine may be required after initiation, dosage modifi
 
 ## 7.3 Hormonal Contraceptives
 
-Concurrent use of oxcarbazepine with hormonal contraceptives may render these contraceptives less effective [see Clinical Pharmacology (12.3)].
+Concurrent use of oxcarbazepine with hormonal contraceptives may render these contraceptives less effective [see Use in Specific Populations (8.3) and Clinical Pharmacology (12.3)].
 Studies with other oral or implant contraceptives have not been conducted.

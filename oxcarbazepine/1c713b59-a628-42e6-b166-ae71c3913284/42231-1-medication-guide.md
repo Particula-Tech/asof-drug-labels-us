@@ -63,30 +63,15 @@ Do not stop taking oxcarbazepine tablets without first talking to a healthcare p
 Suicidal thoughts or actions may be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-How can I watch for early symptoms of suicidal thoughts and actions?
-
-- •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-- •Keep all follow-up visits with your healthcare provider as scheduled.
-
-Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-
-Do not stop taking oxcarbazepine tablets without first talking to a healthcare provider.
-
-- •Stopping oxcarbazepine tablets suddenly can cause serious problems.
-- •Stopping a seizure medicine suddenly in a patient who has epilepsy may cause seizures that will not stop (status epilepticus).
-
-Suicidal thoughts or actions may be caused by things other than medicines.
-If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-
 What are oxcarbazepine tablets?
 
 Oxcarbazepine tablets are a prescription medicine used:
 
-- •alone or with other medicines to treat partial seizures in adults
-- •alone to treat partial seizures in children 4 years and older
-- •with other medicines to treat partial seizures in children 2 years and older
+- •alone or with other medicines to treat partial-onset seizures in adults
+- •alone to treat partial-onset seizures in children 4 years and older
+- •with other medicines to treat partial-onset seizures in children 2 years and older
 
-It is not known if oxcarbazepine tablets are safe and effective for use alone to treat partial seizures in children less than 4 years of age or for use with other medicines to treat partial seizures in children less than 2 years of age.
+It is not known if oxcarbazepine tablets are safe and effective for use alone to treat partial-onset seizures in children less than 4 years of age or for use with other medicines to treat partial-onset seizures in children less than 2 years of age.
 
 Do not take oxcarbazepine tablets if you are allergic to oxcarbazepine tablets or any of the other ingredients in oxcarbazepine tablets, or to eslicarbazepine acetate.
 See the end of this Medication Guide for a complete list of ingredients in oxcarbazepine tablets.
@@ -108,13 +93,13 @@ Before taking oxcarbazepine tablets, tell your healthcare provider about all you
   Oxcarbazepine tablets may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine tablets.
   You and your healthcare provider will decide if you should take oxcarbazepine tablets while you are pregnant.
-- •If you become pregnant while taking oxcarbazepine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-  The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
-  You can enroll in this registry by calling 1-888-233-2334.
-- •are breastfeeding or plan to breastfeed.
-  Oxcarbazepine passes into breast milk.
-  You and your healthcare provider should decide if you will take oxcarbazepine tablets or breastfeed.
-  You should not do both.
+
+If you become pregnant while taking oxcarbazepine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
+You can enroll in this registry by calling 1-888-233-2334.
+
+- •are breastfeeding or plan to breastfeed. oxcarbazepine passes into breast milk.
+  Talk with your healthcare provider about the best way to feed your baby if you take oxcarbazepine.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Taking oxcarbazepine tablets with certain other medicines may cause side effects or affect how well they work.
@@ -195,7 +180,7 @@ Manufactured by:
 
 Glenmark Pharmaceuticals Ltd.
 
-Colvale-Bardez, Goa 403 513, India
+India
 
 Manufactured for:
 
@@ -208,6 +193,6 @@ Questions?
 
 www.glenmarkpharma.com/usa
 
-December 2018
+March 2019
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

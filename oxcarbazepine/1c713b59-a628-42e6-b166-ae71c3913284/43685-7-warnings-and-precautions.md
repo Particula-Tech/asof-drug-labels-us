@@ -123,7 +123,7 @@ In these trials, no patients discontinued because of ataxia or gait disturbances
 
 Pediatric Patients
 
-A study was conducted in pediatric patients (3 to 17 years old) with inadequately controlled partial seizures in which oxcarbazepine was added to existing AED therapy (up to 2 concomitant AEDs).
+A study was conducted in pediatric patients (3 to 17 years old) with inadequately controlled partial-onset seizures in which oxcarbazepine was added to existing AED therapy (up to 2 concomitant AEDs).
 By protocol, the dosage of concomitant AEDs could not be reduced as oxcarbazepine was added.
 Oxcarbazepine was titrated to reach a target dose ranging from 30 mg/kg to 46 mg/kg (based on a patient's body weight with fixed doses for predefined weight ranges).
 

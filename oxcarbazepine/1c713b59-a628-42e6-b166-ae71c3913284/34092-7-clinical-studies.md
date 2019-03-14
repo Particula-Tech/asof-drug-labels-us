@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-The effectiveness of oxcarbazepine as adjunctive and monotherapy for partial seizures in adults, and as adjunctive therapy in children aged 2 to 16 years was established in seven multicenter, randomized, controlled trials.
+The effectiveness of oxcarbazepine as adjunctive and monotherapy for partial-onset seizures in adults, and as adjunctive therapy in children aged 2 to 16 years was established in seven multicenter, randomized, controlled trials.
 
-The effectiveness of oxcarbazepine as monotherapy for partial seizures in children aged 4 to 16 years was determined from data obtained in the studies described, as well as by pharmacokinetic/pharmacodynamic considerations.
+The effectiveness of oxcarbazepine as monotherapy for partial-onset seizures in children aged 4 to 16 years was determined from data obtained in the studies described, as well as by pharmacokinetic/pharmacodynamics considerations.
 
 ## 14.1 Oxcarbazepine Monotherapy Trials
 
@@ -11,9 +11,9 @@ Two trials compared oxcarbazepine to placebo and 2 trials used a randomized with
 All doses were administered on a twice-a-day schedule.
 A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low and high dose oxcarbazepine treatment groups.
 
-One placebo-controlled trial was conducted in 102 patients (11 to 62 years of age) with refractory partial seizures who had completed an inpatient evaluation for epilepsy surgery.
-Patients had been withdrawn from all AEDs and were required to have 2 to 10 partial seizures within 48 hours prior to randomization.
-Patients were randomized to receive either placebo or oxcarbazepine given as 1500 mg/day on Day 1 and 2400 mg/day thereafter for an additional 9 days, or until 1 of the following 3 exit criteria occurred: 1) the occurrence of a fourth partial seizure, excluding Day 1, 2) 2 new-onset secondarily generalized seizures, where such seizures were not seen in the 1-year period prior to randomization, or 3) occurrence of serial seizures or status epilepticus.
+One placebo-controlled trial was conducted in 102 patients (11 to 62 years of age) with refractory partial-onset seizures who had completed an inpatient evaluation for epilepsy surgery.
+Patients had been withdrawn from all AEDs and were required to have 2 to 10 partial-onset seizures within 48 hours prior to randomization.
+Patients were randomized to receive either placebo or oxcarbazepine given as 1500 mg/day on Day 1 and 2400 mg/day thereafter for an additional 9 days, or until 1 of the following 3 exit criteria occurred: 1) the occurrence of a fourth partial-onset seizure, excluding Day 1, 2) 2 new-onset secondarily generalized seizures, where such seizures were not seen in the 1-year period prior to randomization, or 3) occurrence of serial seizures or status epilepticus.
 The primary measure of effectiveness was a between-group comparison of the time to meet exit criteria.
 There was a statistically significant difference in favor of oxcarbazepine (see Figure 1), p=0.0001.
 
@@ -26,7 +26,7 @@ The difference between the 2 treatments was statistically significant in favor o
 
 Figure 2: Kaplan-Meier Estimates of First Seizure Event Rate by Treatment Group
 
-A third trial substituted oxcarbazepine monotherapy at 2400 mg/day for carbamazepine in 143 patients (12 to 65 years of age) whose partial seizures were inadequately controlled on carbamazepine (CBZ) monotherapy at a stable dose of 800 to 1600 mg/day, and maintained this oxcarbazepine dose for 56 days (baseline phase).
+A third trial substituted oxcarbazepine monotherapy at 2400 mg/day for carbamazepine in 143 patients (12 to 65 years of age) whose partial-onset seizures were inadequately controlled on carbamazepine (CBZ) monotherapy at a stable dose of 800 to 1600 mg/day, and maintained this oxcarbazepine dose for 56 days (baseline phase).
 Patients who were able to tolerate titration of oxcarbazepine to 2400 mg/day during simultaneous carbamazepine withdrawal were randomly assigned to either 300 mg/day of oxcarbazepine or 2400 mg/day oxcarbazepine.
 Patients were observed for 126 days or until 1 of the following 4 exit criteria occurred: 1) a doubling of the 28-day seizure frequency compared to baseline, 2) a 2-fold increase in the highest consecutive 2-day seizure frequency during baseline, 3) a single generalized seizure if none had occurred during baseline, or 4) a prolonged generalized seizure.
 The primary measure of effectiveness was a between-group comparison of the time to meet exit criteria.
@@ -43,35 +43,35 @@ The time to meeting one of the exit criteria was also statistically significant 
 
 Figure 4: Kaplan-Meier Estimates of Exit Rate by Treatment Group
 
-A monotherapy trial was conducted in 92 pediatric patients (1 month to 16 years of age) with inadequately-controlled or new-onset partial seizures.
+A monotherapy trial was conducted in 92 pediatric patients (1 month to 16 years of age) with inadequately-controlled or new-onset partial-onset seizures.
 Patients were hospitalized and randomized to either oxcarbazepine 10 mg/kg/day or were titrated up to 40 to 60 mg/kg/day within 3 days while withdrawing the previous AED on the second day of oxcarbazepine.
 Seizures were recorded through continuous video-EEG monitoring from Day 3 to Day 5.
-Patients either completed the 5-day treatment or met 1 of the 2 exit criteria: 1) three study-specific seizures (i.e., electrographic partial seizures with a behavioral correlate), 2) a prolonged study-specific seizure.
+Patients either completed the 5-day treatment or met 1 of the 2 exit criteria: 1) three study-specific seizures (i.e., electrographic partial-onset seizures with a behavioral correlate), 2) a prolonged study-specific seizure.
 The primary measure of effectiveness was a between-group comparison of the time to meet exit criteria in which the difference between the curves was not statistically significant (p=0.904).
 The majority of patients from both dose groups completed the 5-day study without exiting.
 
 Although this study failed to demonstrate an effect of oxcarbazepine as monotherapy in pediatric patients, several design elements, including the short treatment and assessment period, the absence of a true placebo, and the likely persistence of plasma levels of previously administered AEDs during the treatment period, make the results uninterpretable.
-For this reason, the results do not undermine the conclusion, based on pharmacokinetic/pharmacodynamic considerations, that oxcarbazepine is effective as monotherapy in pediatric patients 4 years old and older.
+For this reason, the results do not undermine the conclusion, based on pharmacokinetic/pharmacodynamics considerations, that oxcarbazepine is effective as monotherapy in pediatric patients 4 years old and older.
 
 ## 14.2 Oxcarbazepine Adjunctive Therapy Trials
 
-The effectiveness of oxcarbazepine as an adjunctive therapy for partial seizures was established in 2 multicenter, randomized, double-blind, placebo-controlled trials, one in 692 patients (15 to 66 years of age) and one in 264 pediatric patients (3 to 17 years of age), and in one multicenter, rater-blind, randomized, age-stratified, parallel-group study comparing 2 doses of oxcarbazepine in 128 pediatric patients (1 month to <4 years of age).
+The effectiveness of oxcarbazepine as an adjunctive therapy for partial-onset seizures was established in 2 multicenter, randomized, double-blind, placebo-controlled trials, one in 692 patients (15 to 66 years of age) and one in 264 pediatric patients (3 to 17 years of age), and in one multicenter, rater-blind, randomized, age-stratified, parallel-group study comparing 2 doses of oxcarbazepine in 128 pediatric patients (1 month to <4 years of age).
 
 Patients in the 2 placebo-controlled trials were on 1 to 3 concomitant AEDs.
 In both of the trials, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
-Patients who experienced at least 8 (minimum of 1 to 4 per month) partial seizures during the baseline phase were randomly assigned to placebo or to a specific dose of oxcarbazepine in addition to their other AEDs.
+Patients who experienced at least 8 (minimum of 1 to 4 per month) partial-onset seizures during the baseline phase were randomly assigned to placebo or to a specific dose of oxcarbazepine in addition to their other AEDs.
 
 In these studies, the dose was increased over a 2-week period until either the assigned dose was reached, or intolerance prevented increases.
 Patients then entered a 14- (pediatrics) or 24-week (adults) maintenance period.
 
 In the adult trial, patients received fixed doses of 600, 1200 or 2400 mg/day.
 In the pediatric trial, patients received maintenance doses in the range of 30 to 46 mg/kg/day, depending on baseline weight.
-The primary measure of effectiveness in both trials was a between-group comparison of the percentage change in partial seizure frequency in the double-blind treatment phase relative to baseline phase.
+The primary measure of effectiveness in both trials was a between-group comparison of the percentage change in partial-onset seizure frequency in the double-blind treatment phase relative to baseline phase.
 This comparison was statistically significant in favor of oxcarbazepine at all doses tested in both trials (p=0.0001 for all doses for both trials).
 The number of patients randomized to each dose, the median baseline seizure rate, and the median percentage seizure rate reduction for each trial are shown in Table 8.
 It is important to note that in the high-dose group in the study in adults, over 65% of patients discontinued treatment because of adverse events; only 46 (27%) of the patients in this group completed the 28-week study [see Adverse Reactions (6)], an outcome not seen in the monotherapy studies.
 
-Table 8: Summary of Percentage Change in Partial Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
+Table 8: Summary of Percentage Change in Partial-onset Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
 
 | Trial | Treatment Group |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -87,8 +87,8 @@ Table 8: Summary of Percentage Change in Partial Seizure Frequency from Baseline
 Subset analyses of the antiepileptic efficacy of oxcarbazepine with regard to gender in these trials revealed no important differences in response between men and women.
 Because there were very few patients over the age of 65 years in controlled trials, the effect of the drug in the elderly has not been adequately assessed.
 
-The third adjunctive therapy trial enrolled 128 pediatric patients (1 month to <4 years of age) with inadequately-controlled partial seizures on 1 to 2 concomitant AEDs.
-Patients who experienced at least 2 study-specific seizures (i.e., electrographic partial seizures with a behavioral correlate) during the 72-hour baseline period were randomly assigned to either oxcarbazepine 10 mg/kg/day or were titrated up to 60 mg/kg/day within 26 days.
+The third adjunctive therapy trial enrolled 128 pediatric patients (1 month to <4 years of age) with inadequately-controlled partial-onset seizures on 1 to 2 concomitant AEDs.
+Patients who experienced at least 2 study-specific seizures (i.e., electrographic partial-onset seizures with a behavioral correlate) during the 72-hour baseline period were randomly assigned to either oxcarbazepine 10 mg/kg/day or were titrated up to 60 mg/kg/day within 26 days.
 Patients were maintained on their randomized target dose for 9 days and seizures were recorded through continuous video-EEG monitoring during the last 72 hours of the maintenance period.
 The primary measure of effectiveness in this trial was a between-group comparison of the change in seizure frequency per 24 hours compared to the seizure frequency at baseline.
 For the entire group of patients enrolled, this comparison was statistically significant in favor of oxcarbazepine 60 mg/kg/day.

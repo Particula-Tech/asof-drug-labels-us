@@ -113,22 +113,6 @@ As binding of MHD to plasma proteins is low (40%), clinically significant intera
 
 - •In Vivo
 
-For in vivo drug interactions [see Drug Interactions (7)].
-
-Hormonal Contraceptives
-
-Coadministration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG).
-The mean AUC values of EE were decreased by 48% [90% CI: 22 to 65] in one study and 52% [90% CI: 38 to 52] in another study.
-The mean AUC values of LNG were decreased by 32% [90% CI: 20 to 45] in one study and 52% [90% CI: 42 to 52] in another study.
-
-Other Drug Interactions
-
-Calcium Antagonists: After repeated coadministration of oxcarbazepine, the AUC of felodipine was lowered by 28% [90% CI: 20 to 33].
-Verapamil produced a decrease of 20% [90% CI: 18 to 27] of the plasma levels of MHD.
-
-Cimetidine, erythromycin and dextropropoxyphene had no effect on the pharmacokinetics of MHD.
-Results with warfarin show no evidence of interaction with either single or repeated doses of oxcarbazepine.
-
 Other Antiepileptic Drugs
 
 Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.

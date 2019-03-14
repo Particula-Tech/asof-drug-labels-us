@@ -47,7 +47,7 @@ Instruct patients to immediately consult with their physician if they experience
 
 Drug Interactions
 
-Caution female patients of reproductive potential that the concurrent use of oxcarbazepine with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.2)].
+Caution female patients of reproductive potential that the concurrent use of oxcarbazepine with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.2) and Use in Specific Populations (8.1)].].
 Additional non-hormonal forms of contraception are recommended when using oxcarbazepine.
 
 Caution should be exercised if alcohol is taken in combination with oxcarbazepine, due to a possible additive sedative effect.
