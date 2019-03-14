@@ -52,12 +52,18 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with HALDOL.
 
-## Treatment Withdrawal
+## Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies
 
-Generally, patients receiving short-term therapy experience no problems with abrupt discontinuation of antipsychotic drugs.
-However, some patients on maintenance treatment experience transient dyskinetic signs after abrupt withdrawal.
-In certain of these cases the dyskinetic movements are indistinguishable from tardive dyskinesia (see WARNINGS, Tardive Dyskinesia) except for duration.
-It is not known whether gradual withdrawal of antipsychotic drugs will reduce the rate of occurrence of withdrawal emergent neurological signs but until further evidence becomes available, it seems reasonable to gradually withdraw use of HALDOL (see WARNINGS, Usage in Pregnancy).
+Patients with Parkinson's Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication.
+Manifestations of this increased sensitivity with haloperidol treatment include severe extrapyramidal symptoms, confusion, sedation, and falls.
+In addition, haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists.
+HALDOL is contraindicated in patients with Parkinson's Disease or Dementia with Lewy Bodies (see CONTRAINDICATIONS).
+
+## Hypersensitivity Reactions
+
+There have been postmarketing reports of hypersensitivity reactions with haloperidol.
+These include anaphylactic reaction, angioedema, dermatitis exfoliative, hypersensitivity vasculitis, rash, urticaria, face edema, laryngeal edema, bronchospasm, and laryngospasm (see ADVERSE REACTIONS).
+HALDOL is contraindicated in patients with hypersensitivity to this drug (see CONTRAINDICATIONS).
 
 ## Falls
 
@@ -101,9 +107,7 @@ Although not reported with HALDOL, decreased serum cholesterol and/or cutaneous 
 
 ## Leukopenia, Neutropenia, and Agranulocytosis
 
-### Class Effect
-
-In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including HALDOL.
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including HALDOL.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
@@ -111,6 +115,13 @@ Patients with a history of a clinically significant low WBC or a drug-induced le
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue HALDOL and have their WBC followed until recovery.
+
+## Withdrawal Emergent Dyskinesia
+
+Generally, patients receiving short-term therapy experience no problems with abrupt discontinuation of antipsychotic drugs.
+However, some patients on maintenance treatment experience transient dyskinetic signs after abrupt withdrawal.
+In certain of these cases the dyskinetic movements are indistinguishable from tardive dyskinesia (see WARNINGS, Tardive Dyskinesia) except for duration.
+It is not known whether gradual withdrawal of antipsychotic drugs will reduce the rate of occurrence of withdrawal emergent neurological signs but until further evidence becomes available, it seems reasonable to gradually withdraw use of HALDOL (see WARNINGS, Usage in Pregnancy).
 
 ## Other
 
@@ -137,6 +148,7 @@ The risks of using haloperidol in combination with other drugs have been evaluat
 
 Since QT-prolongation has been observed during HALDOL treatment, caution is advised when prescribing to a patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
 
+Haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists.
 If concomitant antiparkinson medication is required, it may have to be continued after HALDOL is discontinued because of the difference in excretion rates.
 If both are discontinued simultaneously, extrapyramidal symptoms may occur.
 The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with HALDOL.
@@ -149,7 +161,7 @@ It may be necessary to reduce the haloperidol dosage.
 
 ### Pharmacokinetic Interactions
 
-#### The Effect of Other Drugs on HALDOL
+#### The Effect of Other Drugs on Haloperidol
 
 Haloperidol is metabolized by several routes, including the glucuronidation and the cytochrome P450 enzyme system.
 Inhibition of these routes of metabolism by another drug may result in increased haloperidol concentrations and potentially increase the risk of certain adverse events, including QT-prolongation.
@@ -157,6 +169,9 @@ Inhibition of these routes of metabolism by another drug may result in increased
 #### Drugs Characterized as Substrates, Inhibitors or Inducers of CYP3A4, CYP2D6 or Glucuronidation
 
 In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
+
+Haloperidol is an inhibitor of CYP2D6.
+Plasma concentrations of CYP2D6 substrates (e.g., tricyclic antidepressants such as desipramine or imipramine) may increase when they are co-administered with haloperidol.
 
 When prolonged treatment (1–2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to HALDOL therapy, this results in a significant reduction of haloperidol plasma levels.
 
@@ -175,7 +190,7 @@ After discontinuation of such drugs, it may be necessary to reduce the dosage of
 
 #### Valproate
 
-Sodium valproate, a drug know to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
+Sodium valproate, a drug known to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
 
 ## Information for Patients
 
@@ -223,3 +238,8 @@ Clinical studies of haloperidol did not include sufficient numbers of subjects a
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
 However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).
+
+## Use in Hepatic Impairment
+
+Studies in patients with hepatic impairment have not been conducted.
+Haloperidol concentrations may increase in hepatically impaired patients, because it is primarily metabolized by the liver and protein binding may decrease.

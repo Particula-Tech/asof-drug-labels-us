@@ -6,12 +6,13 @@ The following adverse reactions are discussed in more detail in other sections o
 - WARNINGS, Cardiovascular Effects
 - WARNINGS, Tardive Dyskinesia
 - WARNINGS, Neuroleptic Malignant Syndrome
-- WARNINGS, Treatment Withdrawal
+- WARNINGS, Hypersensitivity Reactions
 - WARNINGS, Falls
 - WARNINGS, Usage in Pregnancy
 - WARNINGS, Combined Use of HALDOL and Lithium
 - WARNINGS, General
 - PRECAUTIONS, Leukopenia, Neutropenia, and Agranulocytosis
+- PRECAUTIONS, Withdrawal Emergent Dyskinesia
 - PRECAUTIONS, Other
 
 ## Clinical Trials Experience
@@ -108,4 +109,4 @@ Reproductive System and Breast Disorders: Priapism, Gynecomastia
 
 Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
 
-Skin and Subcutaneous Tissue Disorders: Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritis, Rash, Hyperhidrosis
+Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis
