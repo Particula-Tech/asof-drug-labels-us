@@ -23,4 +23,4 @@ Parma, Italy
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised December 2017 © 2005 Janssen Pharmaceuticals Companies
+Revised March 2019 © 2005 Janssen Pharmaceuticals Companies
