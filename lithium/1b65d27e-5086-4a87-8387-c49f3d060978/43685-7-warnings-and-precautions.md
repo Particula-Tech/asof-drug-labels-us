@@ -2,12 +2,30 @@
 
 ## Lithium Toxicity
 
-Lithium toxicity is closely related to serum lithium concentrations and can occur at doses close to therapeutic concentrations (see DOSAGE AND ADMINISTRATION).
+The toxic concentrations for lithium (≥1.5 mEq/L) are close to the therapeutic range (0.8 to 1.2 mEq/L).
+Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see BOXED WARNING and DOSAGE AND ADMINISTRATION).
+Lithium may take up to 24 hours to distribute into brain tissue, so occurrence of acute toxicity symptoms may be delayed.
 
-Outpatients and their families should be warned that the patient must discontinue lithium therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness, or muscular weakness occur.
+Neurological signs of lithium toxicity range from mild neurological adverse reactions such as fine tremor, lightheadedness, lack of coordination, and weakness; to moderate manifestations like giddiness, apathy, drowsiness, hyperreflexia, muscle twitching, ataxia, blurred vision, tinnitus, and slurred speech; and severe manifestations such as clonus, confusion, seizure, coma, and death.
+In rare cases, neurological sequelae may persist despite discontinuing lithium treatment and may be associated with cerebellar atrophy.
+Cardiac manifestations involve electrocardiographic changes, such as prolonged QT interval, ST and T-wave changes and myocarditis.
+Renal manifestations include urine concentrating defect, nephrogenic diabetes insipidus, and renal failure.
+Respiratory manifestations include dyspnea, aspiration pneumonia, and respiratory failure.
+Gastrointestinal manifestations include nausea, vomiting, diarrhea, and bloating.
+No specific antidote for lithium poisoning is known (see OVERDOSAGE).
 
-The risk of lithium toxicity is increased in patients with significant renal or cardiovascular disease, severe debilitation or dehydration, or sodium depletion, and for patients receiving prescribed medications that may affect kidney function, such as angiotensin converting enzyme inhibitors (ACE inhibitors), angiotensin receptor blockers (ARBs), diuretics (loops and thiazides) and NSAIDs.
-For these patients, consider starting with lower doses and titrating slowly while frequently monitoring serum lithium concentrations and signs of lithium toxicity.
+The risk of lithium toxicity is increased by:
+
+- •Recent onset of concurrent febrile illness
+- •Concomitant administration of drugs which increase lithium serum concentrations by pharmacokinetic interactions or drugs affecting kidney function (see PRECAUTIONS-Drug Interactions)
+- •Acute ingestion
+- •Impaired renal function
+- •Volume depletion or dehydration
+- •Significant cardiovascular disease
+- •Changes in electrolyte concentrations (especially sodium and potassium)
+
+Monitor for signs and symptoms of lithium toxicity.
+If symptoms occur, decrease dosage or discontinue lithium treatment.
 
 ## Unmasking of Brugada Syndrome
 

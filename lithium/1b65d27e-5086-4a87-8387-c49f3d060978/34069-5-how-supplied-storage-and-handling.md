@@ -12,13 +12,21 @@ Dispense in tight, child-resistant container (USP).
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited
+
+Colvale-Bardez, Goa 403 513,
+
+India
 
 Manufactured for:
 
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA
+
+Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115
 
-June 2018
+www.glenmarkpharma.com/usa
+
+March 2019
