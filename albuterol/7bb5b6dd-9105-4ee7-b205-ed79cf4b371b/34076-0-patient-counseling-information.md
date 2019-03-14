@@ -49,6 +49,8 @@ Common adverse effects of treatment with inhaled albuterol include palpitations,
 
 Patients who are pregnant or nursing should contact their physician about the use of Albuterol Sulfate HFA Inhalation Aerosol.
 
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy [see Use in Specific Populations (8.1)].
+
 ## 17.8 General Information on Use
 
 Effective and safe use of Albuterol Sulfate HFA Inhalation Aerosol includes an understanding of the way that it should be administered.
@@ -66,18 +68,18 @@ Children should use Albuterol Sulfate HFA Inhalation Aerosol under adult supervi
 
 See tear-off illustrated Information for the Patient leaflet.
 
-Mktd by: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Mktd by: Teva Pharmaceuticals USA, Inc.
 
-Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
+North Wales, PA 19454
 
-Copyright ©2018, Teva Respiratory, L.L.C.
+Mfd by: IVAX Pharmaceuticals Ireland
+
+Waterford, Ireland
+
+Copyright ©2019, Teva Pharmaceuticals USA, Inc.
 
 All rights reserved.
 
-Manufactured In Ireland 1/2018
+03/2019
 
-ASHFA-002
-
-Attention Pharmacist:
-
-Detach Patient's Instructions for use from package insert and dispense with the product.
+ASHFA-003
