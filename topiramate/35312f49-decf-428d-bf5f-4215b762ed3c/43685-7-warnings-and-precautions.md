@@ -40,7 +40,7 @@ Conditions or therapies that predispose patients to acidosis (such as renal dise
 
 Metabolic acidosis was commonly observed in adult and pediatric patients treated with topiramate in clinical trials.
 The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial onset seizures was as high as 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and >5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to < 2% for placebo.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and >5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤ 2% for placebo.
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
 Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures.
@@ -139,12 +139,12 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 ## 5.7 Fetal Toxicity
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age (SGA).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
-Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.8), Patient Counseling Information (17)].
+Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1, 8.8)].
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.8 Withdrawal of Antiepileptic Drugs
 

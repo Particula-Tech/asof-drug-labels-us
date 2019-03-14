@@ -6,6 +6,6 @@ Topiramate Tablets, USP are available as circular, biconvex, film coated, tablet
 
 50 mg yellow, circular, biconvex film coated tablets with ‘G’ engraved on one side and ‘50’ on other side.
 
-100 mg yellow, circular, biconvex film coated tablets with ‘G’engraved on one side and ‘100’on other side.
+100 mg yellow, circular, biconvex film coated tablets with ‘G’ engraved on one side and ‘100’on other side.
 
-200 mg pink, circular, biconvex film coated tablets with ‘G’engraved on one side and ‘200’on other side.
+200 mg pink, circular, biconvex film coated tablets with ‘G’ engraved on one side and ‘200’on other side.

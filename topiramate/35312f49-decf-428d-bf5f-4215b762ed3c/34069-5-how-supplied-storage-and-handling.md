@@ -8,9 +8,9 @@ Topiramate Tablets USP are available as circular, biconvex, film coated, tablets
 
 50 mg yellow, circular, biconvex film coated tablets with ‘G’ engraved on one side and ‘50’ on other side.
 
-100 mg yellow, circular, biconvex film coated tablets with ‘G’engraved on one side and ‘100’on other side.
+100 mg yellow, circular, biconvex film coated tablets with ‘G’ engraved on one side and ‘100’on other side.
 
-200 mg pink, circular, biconvex film coated tablets with ‘G’engraved on one side and ‘200’on other side.
+200 mg pink, circular, biconvex film coated tablets with ‘G’ engraved on one side and ‘200’on other side.
 
 They are supplied as follows:
 
@@ -32,5 +32,5 @@ They are supplied as follows:
 
 ## 16.2 Storage and Handling
 
-Topiramate Tablets USP should be stored in tightly-closed containers at 20-25°C (68-77°F) [See USP Controlled Room Temperature].
+Topiramate Tablets USP should be stored in tightly-closed containers at 20 to 25°C (68 to 77°F) [See USP Controlled Room Temperature].
 Protect from moisture.

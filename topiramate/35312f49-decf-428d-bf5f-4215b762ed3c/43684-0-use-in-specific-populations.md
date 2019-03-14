@@ -2,20 +2,46 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.7)]
+Pregnancy Exposure Registry
 
-Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
-When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring.
-Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.8)].
-
-Pregnancy Registry
-
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to topiramate during pregnancy.
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334.
 Information about the North American Drug Pregnancy Registry can be found at http://www.aedpregnancyregistry.org/.
+
+Risk Summary
+
+Topiramate can cause fetal harm when administered to a pregnant woman.
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being SGA [see Human Data].
+SGA has been observed at all doses and appears to be dose-dependent.
+The prevalence of SGA is greater in infants of women who received higher doses of topiramate during pregnancy.
+In addition, the prevalence of SGA in infants of women who continued topiramate use until later in pregnancy is higher compared to the prevalence in infants of women who stopped topiramate use before the third trimester.
+
+In multiple animal species, topiramate produced developmental toxicity, including increased incidences of fetal malformations, in the absence of maternal toxicity at clinically relevant doses [see Animal Data].
+
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Consider the benefits and risks of topiramate when prescribing this drug to women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death.
+Because of the risk of oral clefts to the fetus, which occur in the first trimester of pregnancy, all women of childbearing potential should be informed of the potential risk to the fetus from exposure to topiramate.
+Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of topiramate use during pregnancy, and alternative therapeutic options should be considered for these patients.
+
+Labor or Delivery
+
+Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus’ ability to tolerate labor [see Use in Specific Populations (8.1)].
+
+Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
+The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus’ ability to tolerate labor.
+Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.4)].
+Newborns of mothers treated with topiramate should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
+
+Based on limited information, topiramate has also been associated with pre-term labor and premature delivery.
+
+Data
 
 Human Data
 
@@ -25,44 +51,52 @@ It was also higher than the background prevalence in United States (0.17%) as es
 The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval [CI] 4 to 23) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
-Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of small for gestational age (SGA) newborns (birth weight <10th percentile).
+Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
 In the NAAED pregnancy registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED and 5.4% of newborns of mothers without epilepsy and without AED exposure.
 In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9 % in the comparison group unexposed to AEDs.
 The long term consequences of the SGA findings are not known.
 
-Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
-The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
-Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.4)].
-Newborns of mothers treated with topiramate should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
-
 Animal Data
 
-Topiramate has demonstrated selective developmental toxicity, including teratogenicity, in multiple animal species at clinically relevant doses.
-When oral doses of 20, 100, or 500 mg/kg were administered to pregnant mice during the period of organogenesis, the incidence of fetal malformations (primarily craniofacial defects) was increased at all doses.
-The low dose is approximately 0.2 times the recommended human dose (RHD) 400 mg/day on a mg/m2 basis.
-Fetal body weights and skeletal ossification were reduced at 500 mg/kg in conjunction with decreased maternal body weight gain.
+When topiramate (0, 20, 100, or 500 mg/kg/day) was administered to pregnant mice during the period of organogenesis, incidences of fetal malformations (primarily craniofacial defects) were increased at all doses.
+Fetal body weights and skeletal ossification were reduced at the highest dose tested in conjunction with decreased maternal body weight gain.
+A no-effect dose for embryofetal developmental toxicity in mice was not identified.
+The lowest dose tested, which was associated with increased malformations, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/ m2) basis.
 
-In rat studies (oral doses of 20, 100, and 500 mg/kg or 0.2, 2.5, 30, and 400 mg/kg), the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased among the offspring of dams treated with 400 mg/kg (10 times the RHD on a mg/m2 basis) or greater during the organogenesis period of pregnancy.
-Embryotoxicity (reduced fetal body weights, increased incidence of structural variations) was observed at doses as low as 20 mg/kg (0.5 times the RHD on a mg/m2 basis).
-Clinical signs of maternal toxicity were seen at 400 mg/kg and above, and maternal body weight gain was reduced during treatment with 100 mg/kg or greater.
+In pregnant rats administered topiramate (0, 20, 100, and 500 mg/kg/day or 0, 0.2, 2.5, 30, and 400 mg/kg/day) orally during the period of organogenesis, the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased in fetuses at 400 and 500 mg/kg/day.
+Embryotoxicity (reduced fetal body weights, increased incidences of structural variations) was observed at doses as low as 20 mg/kg/day.
+Clinical signs of maternal toxicity were seen at 400 mg/kg/day and above, and maternal body weight gain was reduced at doses of 100 mg/kg/day or greater.
+The no-effect dose (2.5 mg/kg/day) for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/ m2 basis.
 
-In rabbit studies (20, 60, and 180 mg/kg or 10, 35, and 120 mg/kg orally during organogenesis), embryo/fetal mortality was increased at 35 mg/kg (2 times the RHD on a mg/m2 basis) or greater, and teratogenic effects (primarily rib and vertebral malformations) were observed at 120 mg/kg (6 times the RHD on a mg/m2 basis).
-Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg and above.
+In pregnant rabbits administered topiramate (0, 20, 60, and 180 mg/kg/day or 0, 10, 35, and 120 mg/kg/day) orally during organogenesis embryofetal mortality was increased at 35 mg/kg/day, and increased incidences of fetal malformations (primarily rib and vertebral malformations) were observed at 120 mg/kg/day.
+Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg/day and above.
+The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/ m2 basis.
 
-When female rats were treated during the latter part of gestation and throughout lactation (0.2, 4, 20, and 100 mg/kg or 2, 20, and 200 mg/kg), offspring exhibited decreased viability and delayed physical development at 200 mg/kg (5 times the RHD on a mg/m2 basis) and reductions in pre- and/or postweaning body weight gain at 2 mg/kg (0.05 times the RHD on a mg/m2 basis) and above.
-Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg or greater.
+When topiramate (0, 0.2, 4, 20, and 100 mg/kg/day or 0, 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre- and/or postweaning body weight gain at 2 mg/kg/day and above.
+Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg/day or greater.
+In a rat embryofetal development study which included postnatal assessment of offspring, oral administration of topiramate (0, 0.2, 2.5, 30, and 400 mg/kg) to pregnant animals during the period of organogenesis resulted in delayed physical development in offspring at 400 mg/kg/day and persistent reductions in body weight gain in offspring at 30 mg/kg/day and higher.
+The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
 
-In a rat embryo/fetal development study with a postnatal component (0.2, 2.5, 30, or 400 mg/kg during organogenesis; noted above), pups exhibited delayed physical development at 400 mg/kg (10 times the RHD on a mg/m2 basis) and persistent reductions in body weight gain at 30 mg/kg (1 times the RHD on a mg/m2 basis) and higher.
+## 8.2 Lactation
 
-## 8.2 Labor and Delivery
+Risk Summary
 
-Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor [see Use in Specific Populations (8.1)].
+Topiramate is excreted in human milk [see Data].The effects of topiramate on milk production are unknown.
+Diarrhea and somnolence have been reported in breastfed infants whose mothers receive topiramate treatment.
 
-## 8.3 Nursing Mothers
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for topiramate and any potential adverse effects on the breastfed infant from topiramate or from the underlying maternal condition.
 
-Limited data on 5 breastfeeding infants exposed to topiramate showed infant plasma topiramate levels equal to 10 to 20% of the maternal plasma level.
-The effects of this exposure on infants are unknown.
-Caution should be exercised when administered to a nursing woman.
+Data
+
+Human Data
+
+Limited data from 5 women with epilepsy treated with topiramate during lactation showed drug levels in milk similar to those in maternal plasma.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risks of oral clefts and SGA [see Drug Interactions (7.3) and Use in Specific Populations (8.1)].
 
 ## 8.4 Pediatric Use
 
@@ -135,7 +169,8 @@ The risk for cognitive adverse reaction was greater in younger patients (6 to 11
 
 Juvenile Animal Studies
 
-When topiramate (30, 90, or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5 to 8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
+When topiramate (0, 30, 90, and 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose.
+The no-effect dose (90 mg/kg/day) for adverse developmental effects is approximately 2 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
 
 ## 8.5 Geriatric Use
 
@@ -153,11 +188,3 @@ A dosage adjustment is recommended in patients with moderate or severe renal imp
 
 Topiramate is cleared by hemodialysis at a rate that is 4 to 6 times greater than in a normal individual.
 A dosage adjustment may be required [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
-
-## 8.8 Women of Childbearing Potential
-
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
-Consider the benefits and the risks of topiramate when prescribing this drug to women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death.
-Because of the risk of oral clefts to the fetus, which occur in the first trimester of pregnancy before many women know they are pregnant, all women of childbearing potential should be apprised of the potential hazard to the fetus from exposure to topiramate.
-If the decision is made to use topiramate, women who are not planning a pregnancy should use effective contraception [see Drug Interactions (7.3)].
-Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of topiramate use during pregnancy, and alternative therapeutic options should be considered for these patients.

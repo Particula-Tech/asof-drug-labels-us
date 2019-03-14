@@ -141,7 +141,7 @@ Clinical laboratory results indicated decreases in serum potassium after topiram
 Metformin
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hours) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hours) were given simultaneously.
-The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 18% and 25%, respectively, when topiramate was added.
+The results of this study indicated that the mean metformin Cmax and AUC0 to 12h increased by 18% and 25%, respectively, when topiramate was added.
 Topiramate did not affect metformin tmax.
 The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
