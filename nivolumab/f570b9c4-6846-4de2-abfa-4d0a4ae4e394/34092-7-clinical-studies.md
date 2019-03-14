@@ -20,6 +20,14 @@ Of 38 patients with responses, 33 patients (87%) had ongoing responses with dura
 
 There were responses in patients with and without BRAF V600 mutation-positive melanoma.
 
+A total of 405 patients were randomized and the median duration of OS was 15.7 months (95% CI: 12.9, 19.9) in OPDIVO-treated patients compared to 14.4 months (95% CI: 11.7, 18.2) (HR 0.95; 95.54% CI: 0.73, 1.24) in patients assigned to investigator’s choice of treatment.
+Figure 1 summarizes the OS results.
+
+Figure 1: Overall Survival - CHECKMATE-037*
+
+* The primary OS analysis was not adjusted to account for subsequent therapies, with 54 (40.6%) patients in the chemotherapy arm subsequently receiving an anti-PD1 treatment.
+OS may be confounded by dropout, imbalance of subsequent therapies, and differences in baseline factors.
+
 ### Previously Untreated Metastatic Melanoma
 
 #### CHECKMATE-066
@@ -40,7 +48,7 @@ Disease characteristics were M1c stage disease (61%), cutaneous melanoma (74%), 
 More patients in the OPDIVO arm had an ECOG performance status of 0 (71% vs. 58%).
 
 CHECKMATE-066 demonstrated a statistically significant improvement in OS for the OPDIVO arm compared with the dacarbazine arm in an interim analysis based on 47% of the total planned events for OS.
-Table 22 and Figure 1 summarize the efficacy results.
+Table 22 and Figure 2 summarize the efficacy results.
 
 Table 22: Efficacy Results - CHECKMATE-066
 
@@ -62,7 +70,7 @@ Table 22: Efficacy Results - CHECKMATE-066
 | Partial response rate | 30% | 8% |
 | a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with the allocated alpha of 0.0021 for this interim analysis. |  |  |
 
-Figure 1: Kaplan-Meier Curves of Overall Survival - CHECKMATE-066
+Figure 2: Kaplan-Meier Curves of Overall Survival - CHECKMATE-066
 
 At the time of analysis, 88% (63/72) of OPDIVO-treated patients had ongoing responses, which included 43 patients with ongoing response of 6 months or longer.
 
@@ -87,42 +95,40 @@ A total of 945 patients were randomized, 314 patients to the OPDIVO plus ipilimu
 The trial population characteristics were: median age 61 years (range: 18 to 90); 65% male; 97% White; ECOG performance score 0 (73%) or 1 (27%).
 Disease characteristics were: AJCC Stage IV disease (93%); M1c disease (58%); elevated LDH (36%); history of brain metastases (4%); BRAF V600 mutation-positive melanoma (32%); PD-L1 ≥5% tumor cell membrane expression as determined by the clinical trials assay (46%); and prior adjuvant therapy (22%).
 
-CHECKMATE-067 demonstrated statistically significant improvements in PFS for patients randomized to either OPDIVO-containing arm as compared with the ipilimumab arm.
-Efficacy results are presented in Table 23 and Figure 2.
+CHECKMATE-067 demonstrated statistically significant improvements in OS and PFS for patients randomized to either OPDIVO-containing arm as compared with the ipilimumab arm.
+The study was not designed to assess whether adding ipilimumab to OPDIVO improves PFS or OS compared to OPDIVO as a single agent.
+Efficacy results are presented in Table 23 and Figure 3.
 
 Table 23: Efficacy Results in CHECKMATE-067
 
 |  | OPDIVO plus Ipilimumab (n=314) | OPDIVO (n=316) | Ipilimumab (n=315) |
 | --- | --- | --- | --- |
-| Progression-free Survival |  |  |  |
-| Disease progression or death | 151 | 174 | 234 |
+| Overall Survivala |  |  |  |
+| Deaths (%) | 128 (41) | 142 (45) | 197 (63) |
+| Hazard ratiob (vs. ipilimumab) (95% CI) | 0.55 (0.44, 0.69) | 0.63 (0.50, 0.78) |  |
+| p-valuec,d | <0.0001 | <0.0001 |  |
+| Progression-free Survivala |  |  |  |
+| Disease progression or death | 151 (48%) | 174 (55%) | 234 (74%) |
 | Median in months (95% CI) | 11.5 (8.9, 16.7) | 6.9 (4.3, 9.5) | 2.9 (2.8, 3.4) |
-| Hazard ratioa (vs. ipilimumab) | 0.42 | 0.57 |  |
-| (95% CI) | (0.34, 0.51) | (0.47, 0.69) |  |
-| p-valueb,c | <0.0001 | <0.0001 |  |
-| Confirmed Overall Response Rate | 50% | 40% | 14% |
+| Hazard ratiob (vs. ipilimumab) (95% CI) | 0.42 (0.34, 0.51) | 0.57 (0.47, 0.69) |  |
+| p-valuec,e | <0.0001 | <0.0001 |  |
+| Confirmed Overall Response Ratea | 50% | 40% | 14% |
 | (95% CI) | (44, 55) | (34, 46) | (10, 18) |
-| p-valued | <0.0001 | <0.0001 |  |
+| p-valuef | <0.0001 | <0.0001 |  |
 | Complete response | 8.9% | 8.5% | 1.9% |
 | Partial response | 41% | 31% | 12% |
 | Duration of Response |  |  |  |
 | Proportion ≥6 months in duration | 76% | 74% | 63% |
 | Range (months) | 1.2+ to 15.8+ | 1.3+ to 14.6+ | 1.0+ to 13.8+ |
-| a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.005 of the allocated alpha for final PFS treatment comparisons. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |  |
+| a OS results are based on final OS analysis with 28 months of minimum follow-up; PFS (co-primary endpoint) and ORR (secondary endpoint) results were based on primary analysis with 9 months of minimum follow-up. b Based on a stratified proportional hazards model. c Based on stratified log-rank test. d If the maximum of the two OS p-values is less than 0.04 (a significance level assigned by the Hochberg procedure), then both p-values are considered significant. e p-value is compared with.005 of the allocated alpha for final PFS treatment comparisons. f Based on the stratified Cochran-Mantel-Haenszel test. + Censored observation |  |  |  |
 
-Figure 2: Progression-free Survival: Unresectable or Metastatic Melanoma - CHECKMATE-067
+Figure 3: Overall Survival - CHECKMATE-067
 
-Figures 3 and 4 present exploratory efficacy subgroup analyses of PFS based on defined PD-L1 expression levels determined in archival tumor specimens using the PD-L1 IHC 28-8 pharmDx assay.
-Tumor samples were available for retrospective assessment for 97% of the study population; PD-L1 expression status was ascertained for 89% of the study population while in 6% of patients, melanin precluded evaluation of PD-L1 expression status.
-PD-L1 expression status was unknown for 5% of the study population due to consent withdrawal or missing samples.
+Based on a minimum follow-up of 48 months, the median OS was not reached (95% CI: 38.2, NR) in the OPDIVO plus ipilimumab arm.
+The median OS was 36.9 months (95% CI: 28.3, NR) in the OPDIVO arm and 19.9 months (95% CI: 16.9, 24.6) in the ipilimumab arm.
 
-Figure 3: Progression-free Survival by PD-L1 Expression (<1%) - CHECKMATE-067
-
-Figure 4: Progression-free Survival by PD-L1 Expression (≥1%) - CHECKMATE-067
-
-The data presented in Figure 5 summarize the results of exploratory analyses comparing the two OPDIVO-containing arms in subgroups defined by PD-L1 tumor expression.
-
-Figure 5: Forest Plot: PFS Based on PD-L1 Expression Comparing OPDIVO-Containing Arms - CHECKMATE-067
+Based on a minimum follow-up of 28 months, the median PFS was 11.7 months (95% CI: 8.9, 21.9) in the OPDIVO plus ipilimumab arm, 6.9 months (95% CI: 4.3, 9.5) in the OPDIVO arm, and 2.9 months (95% CI: 2.8, 3.2) in the ipilimumab arm.
+Based on a minimum follow-up of 28 months, the proportion of responses lasting ≥ 24 months was 55% in the OPDIVO plus ipilimumab arm, 56% in the OPDIVO arm, and 39% in the ipilimumab arm.
 
 ## 14.2 Adjuvant Treatment of Melanoma
 
@@ -139,7 +145,7 @@ Disease characteristics were AJCC Stage IIIB (34%), Stage IIIC (47%), Stage IV (
 
 CHECKMATE-238 demonstrated a statistically significant improvement in RFS for patients randomized to the OPDIVO arm compared with the ipilimumab 10 mg/kg arm.
 
-Efficacy results are presented in Table 24 and Figure 6.
+Efficacy results are presented in Table 24 and Figure 4.
 
 Table 24: Efficacy Results in CHECKMATE-238
 
@@ -150,7 +156,7 @@ Table 24: Efficacy Results in CHECKMATE-238
 | Hazard Ratiob (95% CI) p-valuec,d | 0.65 (0.53, 0.80) p<0.0001 |  |
 | a Not reached. b Based on a stratified proportional hazards model. c Based on a stratified log-rank test. d p-value is compared with 0.0244 of the allocated alpha for this analysis. |  |  |
 
-Figure 6: Recurrence-free Survival - CHECKMATE-238
+Figure 4: Recurrence-free Survival - CHECKMATE-238
 
 ## 14.3 Metastatic Non-Small Cell Lung Cancer (NSCLC)
 
@@ -172,7 +178,7 @@ Baseline ECOG performance status was 0 (24%) or 1 (76%) and 92% were former/curr
 Baseline disease characteristics of the population as reported by investigators were Stage IIIb (19%), Stage IV (80%), and brain metastases (6%).
 All patients received prior therapy with a platinum-doublet regimen and 99% of patients had tumors of squamous-cell histology.
 
-The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 199 events were observed (86% of the planned number of events for final analysis) (Table 25 and Figure 7).
+The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 199 events were observed (86% of the planned number of events for final analysis) (Table 25 and Figure 5).
 
 Table 25: Efficacy Results in CHECKMATE-017
 
@@ -195,7 +201,7 @@ Table 25: Efficacy Results in CHECKMATE-017
 | p-valueb | 0.0004 |  |
 | a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.0315 of the allocated alpha for this interim analysis. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
-Figure 7: Overall Survival - CHECKMATE-017
+Figure 5: Overall Survival - CHECKMATE-017
 
 Archival tumor specimens were retrospectively evaluated for PD-L1 expression.
 Across the study population, 17% (47/272) of patients had non-quantifiable results.
@@ -221,7 +227,7 @@ Baseline ECOG performance status was 0 (31%) or 1 (69%), 79% were former/current
 Prior therapy included platinum-doublet regimen (100%) and 40% received maintenance therapy as part of the first-line regimen.
 Histologic subtypes included adenocarcinoma (93%), large cell (2.4%), and bronchoalveolar (0.9%).
 
-CHECKMATE-057 demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis) (Table 26 and Figure 8).
+CHECKMATE-057 demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis) (Table 26 and Figure 6).
 
 Table 26: Efficacy Results in CHECKMATE-057
 
@@ -244,18 +250,18 @@ Table 26: Efficacy Results in CHECKMATE-057
 | p-valueb | 0.39 |  |
 | a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.0408 of the allocated alpha for this interim analysis. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
-Figure 8: Overall Survival - CHECKMATE-057
+Figure 6: Overall Survival - CHECKMATE-057
 
 Archival tumor specimens were evaluated for PD-L1 expression following completion of the trial.
 Across the study population, 22% (127/582) of patients had non-quantifiable results.
 Of the remaining 455 patients, the proportion of patients in retrospectively determined subgroups based on PD-L1 testing using the PD-L1 IHC 28-8 pharmDx assay were: 46% (209/455) PD-L1 negative, defined as <1% of tumor cells expressing PD-L1 and 54% (246/455) had PD-L1 expression, defined as ≥1% of tumor cells expressing PD-L1.
 Among the 246 patients with tumors expressing PD-L1, 26% (65/246) had ≥1%, but <5% tumor cells with positive staining, 7% (16/246) had ≥5% but <10% tumor cells with positive staining, and 67% (165/246) had greater than or equal to 10% tumor cells with positive staining.
-Figure 9 summarizes the results of prespecified analyses of survival in subgroups determined by percentage of tumor cells expressing PD-L1.
-Figure 10 summarizes the results of prespecified analyses of progression-free survival in subgroups determined by percentage of tumor cells expressing PD-L1.
+Figure 7 summarizes the results of prespecified analyses of survival in subgroups determined by percentage of tumor cells expressing PD-L1.
+Figure 8 summarizes the results of prespecified analyses of progression-free survival in subgroups determined by percentage of tumor cells expressing PD-L1.
 
-Figure 9: Forest Plot: OS Based on PD-L1 Expression - CHECKMATE-057
+Figure 7: Forest Plot: OS Based on PD-L1 Expression - CHECKMATE-057
 
-Figure 10: Forest Plot: PFS Based on PD-L1 Expression - CHECKMATE-057
+Figure 8: Forest Plot: PFS Based on PD-L1 Expression - CHECKMATE-057
 
 ## 14.4 Small Cell Lung Cancer
 
@@ -299,7 +305,7 @@ Patient distribution by MSKCC risk groups was 34% favorable, 47% intermediate, a
 The first tumor assessments were conducted 8 weeks after randomization and continued every 8 weeks thereafter for the first year and then every 12 weeks until progression or treatment discontinuation, whichever occurred later.
 
 The major efficacy outcome measure was overall survival (OS).
-The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 28 and Figure 11).
+The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 28 and Figure 9).
 OS benefit was observed regardless of PD-L1 expression level.
 
 Other endpoints include confirmed overall response rates, which are also presented in Table 28.
@@ -318,7 +324,7 @@ Table 28: Efficacy Results - CHECKMATE-025
 | Median time to onset of confirmed response in months (min, max) | 3.0 (1.4, 13.0) | 3.7 (1.5, 11.2) |
 | a Based on a stratified proportional hazards model. b Based on a stratified log-rank test. c p-value is compared with.0148 of the allocated alpha for this interim analysis. |  |  |
 
-Figure 11: Overall Survival - CHECKMATE-025
+Figure 9: Overall Survival - CHECKMATE-025
 
 Previously Untreated Renal Cell Carcinoma
 
@@ -337,7 +343,7 @@ The majority of patients were male (73%) and White (87%) and 26% and 74% of pati
 
 The major efficacy outcome measures were OS, PFS (IRRC-assessed), and confirmed ORR (IRRC-assessed) in intermediate/poor risk patients.
 In this population, the trial demonstrated statistically significant improvement in OS and ORR for patients randomized to OPDIVO plus ipilimumab as compared with sunitinib.
-(Table 29 and Figure 12).
+(Table 29 and Figure 10).
 OS benefit was observed regardless of PD-L1 expression level.
 The trial did not demonstrate a statistically significant improvement in PFS.
 
@@ -365,7 +371,7 @@ Table 29: Efficacy Results - CHECKMATE-214
 | p-valueb | NSf |  |  |  |  |
 | a Based on a stratified proportional hazards model. b Based on a stratified log-rank test. c p-value is compared to alpha 0.002 in order to achieve statistical significance. d Based on the stratified DerSimonian-Laird test. e p-value is compared to alpha 0.001 in order to achieve statistical significance. f Not Significant at alpha level of 0.009. |  |  |  |  |  |
 
-Figure 12: Overall Survival (Intermediate/Poor Risk Population) - CHECKMATE-214
+Figure 10: Overall Survival (Intermediate/Poor Risk Population) - CHECKMATE-214
 
 CHECKMATE-214 also randomized 249 favorable risk patients as per IMDC criteria to OPDIVO plus ipilimumab (n=125) or to sunitinib (n=124).
 These patients were not evaluated as part of the efficacy analysis population.
@@ -447,7 +453,7 @@ The median age was 60 years (range: 28 to 83) with 31% ≥65 years of age, 83% w
 Baseline ECOG performance status was 0 (20%) or 1 (78%), 76% were former/current smokers, 90% had Stage IV disease, 45% of patients received only one prior line of systemic therapy, the remaining 55% received two or more prior lines of systemic therapy, and 25% had HPVp16-positive tumors, 24% had HPV p16-negative tumors, and 51% had unknown status.
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with investigator’s choice at a pre-specified interim analysis (78% of the planned number of events for final analysis).
-The survival results are displayed in Table 32 and Figure 13.
+The survival results are displayed in Table 32 and Figure 11.
 There were no statistically significant differences between the two arms for PFS (HR=0.89; 95% CI: 0.70, 1.13) or ORR (13.3% [95% CI: 9.3, 18.3] vs. 5.8% [95% CI: 2.4, 11.6] for nivolumab and investigator’s choice, respectively).
 
 Table 32: Overall Survival in CHECKMATE-141
@@ -461,7 +467,7 @@ Table 32: Overall Survival in CHECKMATE-141
 | p-valueb,c | 0.0101 |  |
 | a Based on stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with 0.0227 of the allocated alpha for this interim analysis. |  |  |
 
-Figure 13: Overall Survival - CHECKMATE-141
+Figure 11: Overall Survival - CHECKMATE-141
 
 Archival tumor specimens were retrospectively evaluated for PD-L1 expression using the PD-L1 IHC 28-8 pharmDx assay.
 Across the study population, 28% (101/361) of patients had non-quantifiable results.

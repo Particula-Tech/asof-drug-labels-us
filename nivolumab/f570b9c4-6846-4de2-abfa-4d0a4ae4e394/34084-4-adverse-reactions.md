@@ -153,20 +153,20 @@ The safety of OPDIVO, administered with ipilimumab or as a single agent, was eva
 - •OPDIVO 3 mg/kg every 2 weeks (OPDIVO arm; n=313), or
 - •Ipilimumab 3 mg/kg every 3 weeks for up to 4 doses (ipilimumab arm; n=311).
 
-The median duration of exposure to OPDIVO was 2.8 months (range: 1 day to 18.8 months) for the OPDIVO plus ipilimumab arm and 6.6 months (range: 1 day to 17.3 months) for the OPDIVO arm.
-In the OPDIVO plus ipilimumab arm, 39% were exposed to OPDIVO for ≥6 months and 24% exposed for >1 year.
-In the OPDIVO arm, 53% were exposed for ≥6 months and 32% for >1 year.
+The median duration of exposure to OPDIVO was 2.8 months (range: 1 day to 36.4 months) for the OPDIVO plus ipilimumab arm and 6.6 months (range: 1 day to 36.0 months) for the OPDIVO arm.
+In the OPDIVO plus ipilimumab arm, 39% were exposed to OPDIVO for ≥6 months and 30% exposed for >1 year.
+In the OPDIVO arm, 53% were exposed for ≥6 months and 40% for >1 year.
 
 CHECKMATE-067 excluded patients with autoimmune disease, a medical condition requiring systemic treatment with corticosteroids (more than 10 mg daily prednisone equivalent) or other immunosuppressive medication within 14 days of the start of study therapy, a positive test result for hepatitis B or C, or a history of HIV.
 
 The trial population characteristics were: 65% male, median age 61 years, 97% White, baseline ECOG performance status 0 (73%) or 1 (27%), 93% with AJCC Stage IV disease, 58% with M1c stage disease; 36% with elevated LDH at baseline, 4% with a history of brain metastasis, and 22% had received adjuvant therapy.
 
-In CHECKMATE-067, serious adverse reactions (73% and 37%), adverse reactions leading to permanent discontinuation (43% and 14%) or to dosing delays (55% and 28%), and Grade 3 or 4 adverse reactions (72% and 44%) all occurred more frequently in the OPDIVO plus ipilimumab arm relative to the OPDIVO arm.
+In CHECKMATE-067, serious adverse reactions (74% and 44%), adverse reactions leading to permanent discontinuation (47% and 18%) or to dosing delays (58% and 36%), and Grade 3 or 4 adverse reactions (72% and 51%) all occurred more frequently in the OPDIVO plus ipilimumab arm relative to the OPDIVO arm.
 
-The most frequent (≥10%) serious adverse reactions in the OPDIVO plus ipilimumab arm and the OPDIVO arm, respectively, were diarrhea (13% and 2.6%), colitis (10% and 1.6%), and pyrexia (10% and 0.6%).
-The most frequent adverse reactions leading to discontinuation of both drugs in the OPDIVO plus ipilimumab arm and of OPDIVO in the OPDIVO arm, respectively, were diarrhea (8% and 1.9%), colitis (8% and 0.6%), increased ALT (4.8% and 1.3%), increased AST (4.5% and 0.6%), and pneumonitis (1.9% and 0.3%).
-The most common (≥20%) adverse reactions in the OPDIVO plus ipilimumab arm were fatigue, rash, diarrhea, nausea, pyrexia, vomiting, and dyspnea.
-The most common (≥20%) adverse reactions in the OPDIVO arm were fatigue, rash, diarrhea, and nausea.
+The most frequent (≥10%) serious adverse reactions in the OPDIVO plus ipilimumab arm and the OPDIVO arm, respectively, were diarrhea (13% and 2.2%), colitis (10% and 1.9%), and pyrexia (10% and 1.0%).
+The most frequent adverse reactions leading to discontinuation of both drugs in the OPDIVO plus ipilimumab arm and of OPDIVO in the OPDIVO arm, respectively, were colitis (10% and 0.6%), diarrhea (8% and 2.2%), increased ALT (4.8% and 1.0%), increased AST (4.5% and 0.6%), and pneumonitis (1.9% and 0.3%).
+The most common (≥20%) adverse reactions in the OPDIVO plus ipilimumab arm were fatigue, diarrhea, rash, nausea, pyrexia, pruritus, musculoskeletal pain, vomiting, decreased appetite, cough, headache, dyspnea, upper respiratory tract infection, arthralgia, and increased transaminases.
+The most common (≥20%) adverse reactions in the OPDIVO arm were fatigue, rash, musculoskeletal pain, diarrhea, nausea, cough, pruritus, upper respiratory tract infection, decreased appetite, headache, constipation, arthralgia, and vomiting.
 Table 6 summarizes the incidence of adverse reactions occurring in at least 10% of patients in either OPDIVO-containing arm in CHECKMATE-067.
 
 Table 6: Adverse Reactions Occurring in ≥10% of Patients on the OPDIVO plus Ipilimumab Arm or the OPDIVO Arm and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (CHECKMATE-067)
@@ -176,17 +176,33 @@ Table 6: Adverse Reactions Occurring in ≥10% of Patients on the OPDIVO plus Ip
 | Adverse Reaction | Percentage (%) of Patients |  |  |  |  |  |
 | OPDIVO plus Ipilimumab (n=313) |  | OPDIVO (n=313) |  | Ipilimumab (n=311) |  |  |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
-| Fatiguea | 59 | 6 | 53 | 1.9 | 50 | 3.9 |
-| Pyrexia | 37 | 1.6 | 14 | 0 | 17 | 0.6 |
+| Fatiguea | 62 | 7 | 59 | 1.6 | 51 | 4.2 |
+| Pyrexia | 40 | 1.6 | 16 | 0 | 18 | 0.6 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
-| Rashb | 53 | 5 | 40 | 1.6 | 42 | 3.9 |
+| Rashb | 53 | 6 | 40 | 1.9 | 42 | 3.5 |
+| Vitiligo | 9 | 0 | 10 | 0.3 | 5 | 0 |
 | Gastrointestinal Disorders |  |  |  |  |  |  |
-| Diarrhea | 52 | 11 | 31 | 3.8 | 46 | 8 |
-| Nausea | 40 | 3.5 | 28 | 0.6 | 29 | 1.9 |
-| Vomiting | 28 | 3.5 | 17 | 1.0 | 16 | 1.6 |
+| Diarrhea | 54 | 11 | 36 | 5 | 47 | 7 |
+| Nausea | 44 | 3.8 | 30 | 0.6 | 31 | 1.9 |
+| Vomiting | 31 | 3.8 | 20 | 1.0 | 17 | 1.6 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |  |  |
-| Dyspnea | 20 | 2.2 | 12 | 1.3 | 13 | 0.6 |
-| Toxicity was graded per NCI CTCAE v4. a Fatigue is a composite term which includes asthenia and fatigue. b Rash is a composite term which includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, erythema, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash, papulosquamous rash, pruritic rash, and seborrheic dermatitis. |  |  |  |  |  |  |
+| Cough/productive cough | 27 | 0.3 | 28 | 0.6 | 22 | 0 |
+| Dyspnea/exertional dyspnea | 24 | 2.9 | 18 | 1.3 | 17 | 0.6 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |
+| Musculoskeletal painc | 32 | 2.6 | 42 | 3.8 | 36 | 1.9 |
+| Arthralgia | 21 | 0.3 | 21 | 1.0 | 16 | 0.3 |
+| Infections and Infestations |  |  |  |  |  |  |
+| Upper respiratory tract infectiond | 23 | 0 | 22 | 0.3 | 17 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |
+| Decreased appetite | 29 | 1.9 | 22 | 0 | 24 | 1.3 |
+| Investigations |  |  |  |  |  |  |
+| Decreased weight | 12 | 0 | 7 | 0 | 7 | 0.3 |
+| Vascular Disorders |  |  |  |  |  |  |
+| Hypertensione | 7 | 2.2 | 11 | 5 | 9 | 2.3 |
+| Endocrine Disorders |  |  |  |  |  |  |
+| Hypothyroidism | 19 | 0.6 | 11 | 0 | 5 | 0 |
+| Hyperthyroidism | 11 | 1.3 | 6 | 0 | 1 | 0 |
+| Toxicity was graded per NCI CTCAE v4. a Includes asthenia and fatigue. b Includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash, papulosquamous rash, and pruritic rash. c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain. d Includes upper respiratory tract infection, nasopharyngitis, pharyngitis, and rhinitis. e Includes hypertension and blood pressure increased. |  |  |  |  |  |  |
 
 Other clinically important adverse reactions in less than 10% of patients treated with either OPDIVO with ipilimumab or single-agent OPDIVO in CHECKMATE-067 were:
 
@@ -194,7 +210,7 @@ Gastrointestinal Disorders: stomatitis, intestinal perforation
 
 Skin and Subcutaneous Tissue Disorders: vitiligo
 
-Musculoskeletal and Connective Tissue Disorders: myopathy, Sjogren’s syndrome, spondyloarthropathy
+Musculoskeletal and Connective Tissue Disorders: myopathy, Sjogren’s syndrome, spondyloarthropathy, myositis (including polymyositis)
 
 Nervous System Disorders: neuritis, peroneal nerve palsy
 
@@ -205,18 +221,19 @@ Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of
 | Laboratory Abnormality | Percentage (%) of Patientsa |  |  |  |  |  |  |  |  |  |  |  |  |
 | OPDIVO plus Ipilimumab |  | OPDIVO |  | Ipilimumab |  |  |  |  |  |  |  |  |  |
 | Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 53 | 15 | 23 | 3.0 | 28 | 2.7 |  |  |  |  |  |  |  |
-| Increased AST | 47 | 13 | 27 | 3.7 | 27 | 1.7 |  |  |  |  |  |  |  |
-| Hyponatremia | 42 | 9 | 20 | 3.3 | 25 | 7 |  |  |  |  |  |  |  |
-| Increased lipase | 41 | 20 | 29 | 9 | 23 | 7 |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 40 | 6 | 24 | 2.0 | 22 | 2.0 |  |  |  |  |  |  |  |
-| Hypocalcemia | 29 | 1.1 | 13 | 0.7 | 21 | 0.7 |  |  |  |  |  |  |  |
-| Increased amylase | 25 | 9.1 | 15 | 1.9 | 14 | 1.6 |  |  |  |  |  |  |  |
-| Increased creatinine | 23 | 2.7 | 16 | 0.3 | 16 | 1.3 |  |  |  |  |  |  |  |
+| Increased ALT | 55 | 16 | 25 | 3.0 | 29 | 2.7 |  |  |  |  |  |  |  |
+| Hyperglycemia | 53 | 5.3 | 46 | 7 | 26 | 0 |  |  |  |  |  |  |  |
+| Increased AST | 52 | 13 | 29 | 3.7 | 29 | 1.7 |  |  |  |  |  |  |  |
+| Hyponatremia | 45 | 10 | 22 | 3.3 | 26 | 7 |  |  |  |  |  |  |  |
+| Increased lipase | 43 | 22 | 32 | 12 | 24 | 7 |  |  |  |  |  |  |  |
+| Increased alkaline phosphatase | 41 | 6 | 27 | 2.0 | 23 | 2.0 |  |  |  |  |  |  |  |
+| Hypocalcemia | 31 | 1.1 | 15 | 0.7 | 20 | 0.7 |  |  |  |  |  |  |  |
+| Increased amylase | 27 | 10 | 19 | 2.7 | 15 | 1.6 |  |  |  |  |  |  |  |
+| Increased creatinine | 26 | 2.7 | 19 | 0.7 | 17 | 1.3 |  |  |  |  |  |  |  |
 | Hematology |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 50 | 2.7 | 39 | 2.6 | 40 | 6 |  |  |  |  |  |  |  |
-| Lymphopenia | 35 | 4.8 | 39 | 4.3 | 27 | 3.4 |  |  |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO plus ipilimumab (range: 241 to 297); OPDIVO (range: 260 to 306); ipilimumab (range: 253 to 304). |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anemia | 52 | 2.7 | 41 | 2.6 | 41 | 6 |  |  |  |  |  |  |  |
+| Lymphopenia | 39 | 5 | 41 | 4.9 | 29 | 4.0 |  |  |  |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO plus ipilimumab (range: 75 to 297); OPDIVO (range: 81 to 306); ipilimumab (range: 61 to 301). |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ### Adjuvant Treatment of Melanoma
 
