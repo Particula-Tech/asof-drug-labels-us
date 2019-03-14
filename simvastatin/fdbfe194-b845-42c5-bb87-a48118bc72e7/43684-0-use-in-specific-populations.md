@@ -14,7 +14,7 @@ Because statins decrease cholesterol synthesis and possibly the synthesis of oth
 If ZOCOR is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 There are rare reports of congenital anomalies following intrauterine exposure to statins.
-In a review Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996. of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
+In a reviewManson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996. of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
 However, the study was only able to exclude a 3- to 4-fold increased risk of congenital anomalies over the background rate.
 In 89% of these cases, drug treatment was initiated prior to pregnancy and was discontinued during the first trimester when pregnancy was identified.
 
@@ -70,3 +70,11 @@ Caution should be exercised when ZOCOR is administered to patients with severe r
 ## 8.7 Hepatic Impairment
 
 ZOCOR is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].
+
+## 8.8 Chinese Patients
+
+In a clinical trial in which patients at high risk of cardiovascular disease were treated with simvastatin 40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for non-Chinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
+The incidence of myopathy for Chinese patients on simvastatin 40 mg/day or ezetimibe/simvastatin 10/40 mg/day coadministered with extended-release niacin 2 g/day was 1.24%.
+
+Chinese patients may be at higher risk for myopathy, monitor patients appropriately.
+Coadministration of ZOCOR with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products is not recommended in Chinese patients [see Warnings and Precautions (5.1), Drug Interactions (7.4)].

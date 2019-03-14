@@ -16,15 +16,30 @@ Table 2: Adverse Reactions Reported Regardless of Causality by ≥2% of Patients
 
 |  | ZOCOR (N = 2,221) % | Placebo (N = 2,223) % |
 | --- | --- | --- |
-| Body as a Whole Edema/swelling Abdominal pain | 2.7 5.9 | 2.3 5.8 |
-| Cardiovascular System Disorders Atrial fibrillation | 5.7 | 5.1 |
-| Digestive System Disorders Constipation Gastritis | 2.2 4.9 | 1.6 3.9 |
-| Endocrine Disorders Diabetes mellitus | 4.2 | 3.6 |
-| Musculoskeletal Disorders Myalgia | 3.7 | 3.2 |
-| Nervous System / Psychiatric Disorders Headache Insomnia Vertigo | 2.5 4.0 4.5 | 2.1 3.8 4.2 |
-| Respiratory System Disorders Bronchitis Sinusitis | 6.6 2.3 | 6.3 1.8 |
-| Skin / Skin Appendage Disorders Eczema | 4.5 | 3.0 |
-| Urogenital System Disorders Infection, urinary tract | 3.2 | 3.1 |
+| Body as a Whole |  |  |
+| Edema/swelling | 2.7 | 2.3 |
+| Abdominal pain | 5.9 | 5.8 |
+| Cardiovascular System Disorders |  |  |
+| Atrial fibrillation | 5.7 | 5.1 |
+| Digestive System Disorders |  |  |
+| Constipation | 2.2 | 1.6 |
+| Gastritis | 4.9 | 3.9 |
+| Endocrine Disorders |  |  |
+| Diabetes mellitus | 4.2 | 3.6 |
+| Musculoskeletal Disorders |  |  |
+| Myalgia | 3.7 | 3.2 |
+| Nervous System/ Psychiatric |  |  |
+| Disorders |  |  |
+| Headache | 2.5 | 2.1 |
+| Insomnia | 4.0 | 3.8 |
+| Vertigo | 4.5 | 4.2 |
+| Respiratory System Disorders |  |  |
+| Bronchitis | 6.6 | 6.3 |
+| Sinusitis | 2.3 | 1.8 |
+| Skin / Skin Appendage Disorders |  |  |
+| Eczema | 4.5 | 3.0 |
+| Urogenital System Disorders |  |  |
+| Infection, urinary tract | 3.2 | 3.1 |
 
 Heart Protection Study
 

@@ -6,6 +6,7 @@ Simvastatin occasionally causes myopathy manifested as muscle pain, tenderness o
 Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred.
 The risk of myopathy is increased by elevated plasma levels of simvastatin and simvastatin acid.
 Predisposing factors for myopathy include advanced age (≥65 years), female gender, uncontrolled hypothyroidism, and renal impairment.
+Chinese patients may be at increased risk for myopathy [see Use in Specific Populations (8.8)].
 
 The risk of myopathy, including rhabdomyolysis, is dose related.
 In a clinical trial database in which 41,413 patients were treated with ZOCOR, 24,747 (approximately 60%) of whom were enrolled in studies with a median follow-up of at least 4 years, the incidence of myopathy was approximately 0.03% and 0.08% at 20 and 40 mg/day, respectively.
@@ -44,8 +45,7 @@ Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs which inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
 These include itraconazole, ketoconazole, posaconazole, voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, cobicistat-containing products, or grapefruit juice [see Clinical Pharmacology (12.3)].
 Combination of these drugs with simvastatin is contraindicated.
-If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
-[See Contraindications (4) and Drug Interactions (7.1).]
+If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with simvastatin must be suspended during the course of treatment [see Contraindications (4) and Drug Interactions (7.1)].
 
 The combined use of simvastatin with gemfibrozil, cyclosporine, or danazol is contraindicated [see Contraindications (4) and Drug Interactions (7.1 and 7.2)].
 
@@ -53,13 +53,9 @@ Caution should be used when prescribing other fibrates with simvastatin, as thes
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine [see Drug Interactions (7.7)].
 
-The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates, ≥1 g/day of niacin, or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)] [also see Dosage and Administration, Patients with Homozygous Familial Hypercholesterolemia (2.4)].
+The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (fibrates or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Dosage and Administration (2.4), Drug Interactions (7.3)].
 
-Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
-In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses of a niacin-containing product.
-Caution should be used when treating Chinese patients with simvastatin in doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
-Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
-It is unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients [see Drug Interactions (7.4)].
+Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products [see Drug Interactions (7.4)].
 
 Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
@@ -67,7 +63,23 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Cobicistat-containing products Gemfibrozil Cyclosporine Danazol | Contraindicated with simvastatin |
+| Strong CYP3A4 Inhibitors, e.g.: | Contraindicated with simvastatin |
+| Itraconazole |  |
+| Ketoconazole |  |
+| Posaconazole |  |
+| Voriconazole |  |
+| Erythromycin |  |
+| Clarithromycin |  |
+| Telithromycin |  |
+| HIV protease inhibitors |  |
+| Boceprevir |  |
+| Telaprevir |  |
+| Nefazodone |  |
+| Cobicistat-containing products |  |
+| Gemfibrozil |  |
+| Cyclosporine |  |
+| Danazol |  |
+| Niacin (≥1 g/day) | For Chinese patients, not recommended with simvastatin |
 | Verapamil Diltiazem Dronedarone | Do not exceed 10 mg simvastatin daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 20 mg simvastatin daily |
 | Lomitapide | For patients with HoFH, do not exceed 20 mg simvastatin dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |
@@ -75,14 +87,14 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 
 ## 5.2 Liver Dysfunction
 
-Persistent increases (to more than 3X the ULN) in serum transaminases have occurred in approximately 1% of patients who received simvastatin in clinical studies.
+Persistent increases (to more than 3× the ULN) in serum transaminases have occurred in approximately 1% of patients who received simvastatin in clinical studies.
 When drug treatment was interrupted or discontinued in these patients, the transaminase levels usually fell slowly to pretreatment levels.
 The increases were not associated with jaundice or other clinical signs or symptoms.
 There was no evidence of hypersensitivity.
 
-In the Scandinavian Simvastatin Survival Study (4S) [see Clinical Studies (14.1)], the number of patients with more than one transaminase elevation to >3X ULN, over the course of the study, was not significantly different between the simvastatin and placebo groups (14 [0.7%] vs. 12 [0.6%]).
+In the Scandinavian Simvastatin Survival Study (4S) [see Clinical Studies (14.1)], the number of patients with more than one transaminase elevation to >3× ULN, over the course of the study, was not significantly different between the simvastatin and placebo groups (14 [0.7%] vs. 12 [0.6%]).
 Elevated transaminases resulted in the discontinuation of 8 patients from therapy in the simvastatin group (n=2,221) and 5 in the placebo group (n=2,223).
-Of the 1,986 simvastatin treated patients in 4S with normal liver function tests (LFTs) at baseline, 8 (0.4%) developed consecutive LFT elevations to >3X ULN and/or were discontinued due to transaminase elevations during the 5.4 years (median follow-up) of the study.
+Of the 1,986 simvastatin treated patients in 4S with normal liver function tests (LFTs) at baseline, 8 (0.4%) developed consecutive LFT elevations to >3× ULN and/or were discontinued due to transaminase elevations during the 5.4 years (median follow-up) of the study.
 Among these 8 patients, 5 initially developed these abnormalities within the first year.
 All of the patients in this study received a starting dose of 20 mg of simvastatin; 37% were titrated to 40 mg.
 
@@ -98,7 +110,7 @@ Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate
 The drug should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease.
 Active liver diseases or unexplained transaminase elevations are contraindications to the use of simvastatin.
 
-Moderate (less than 3X ULN) elevations of serum transaminases have been reported following therapy with simvastatin.
+Moderate (less than 3× ULN) elevations of serum transaminases have been reported following therapy with simvastatin.
 These changes appeared soon after initiation of therapy with simvastatin, were often transient, were not accompanied by any symptoms and did not require interruption of treatment.
 
 ## 5.3 Endocrine Function
