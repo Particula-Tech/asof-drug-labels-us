@@ -94,7 +94,7 @@ At Week 10, 88% of patients were in clinical response (defined as a decrease fro
 The proportion of pediatric patients achieving clinical response at Week 10 compared favorably with the proportion of adults achieving a clinical response in Study Crohn's I. The study definition of clinical response in Study Peds Crohn's was based on the PCDAI score, whereas the CDAI score was used in the adult Study Crohn's I.
 
 At both Week 30 and Week 54, the proportion of patients in clinical response was greater in the every 8-week treatment group than in the every 12-week treatment group (73% vs. 47% at Week 30, and 64% vs. 33% at Week 54).
-At both Week 30 and Week 54, the proportion of patients in clinical remission was also greater in the every 8-week treatment group than in the every 12-week treatment group (60% vs. 35% at Week 30, and 56% vs. 24% at Week 54), (Table 4).
+At both Week 30 and Week 54, the proportion of patients in clinical remission was also greater in the every 8-week treatment group than in the every 12-week treatment group (60% vs. 35% at Week 30, and 56% vs. 24% at Week 54), (Tabel 4).
 
 For patients in Study Peds Crohn's receiving corticosteroids at baseline, the proportion of patients able to discontinue corticosteroids while in remission at Week 30 was 46% for the every 8-week maintenance group and 33% for the every 12-week maintenance group.
 At Week 54, the proportion of patients able to discontinue corticosteroids while in remission was 46% for the every 8-week maintenance group and 17% for the every 12-week maintenance group.
@@ -190,37 +190,7 @@ Table 6 Proportion of patients in Study US I with Mayo subscores indicating inac
 | Week 30 | 26% | 51% | 52% |
 | Week 54 | 21% | 50% | 51% |
 
-## 14.4 Pediatric Ulcerative Colitis
-
-The safety and effectiveness of infliximab for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy are supported by evidence from adequate and well-controlled studies of infliximab in adults.
-Additional safety and pharmacokinetic data were collected in an open-label pediatric UC trial in 60 pediatric patients aged 6 through 17 years (median age 14.5 years) with moderately to severely active ulcerative colitis (Mayo score of 6 to 12; Endoscopic subscore ≥2) and an inadequate response to conventional therapies.
-At baseline, the median Mayo score was 8, 53% of patients were receiving immunomodulator therapy (6-MP/AZA/MTX), and 62% of patients were receiving corticosteroids (median dose 0.5 mg/kg/day in prednisone equivalents).
-Discontinuation of immunomodulators and corticosteroid taper were permitted after Week 0.
-
-All patients received induction dosing of 5 mg/kg infliximab at Weeks 0, 2, and 6.
-Patients who did not respond to infliximab at Week 8 received no further infliximab and returned for safety follow-up.
-At Week 8, 45 patients were randomized to a maintenance regimen of 5 mg/kg infliximab given either every 8 weeks through Week 46 or every 12 weeks through Week 42.
-Patients were allowed to change to a higher dose and/or more frequent administration schedule if they experienced loss of response.
-
-Clinical response at Week 8 was defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, including a decrease in the rectal bleeding subscore by ≥1 points or achievement of a rectal bleeding subscore of 0 or 1.
-
-Clinical remission at Week 8 was measured by the Mayo score, defined as a Mayo score of ≤2 points with no individual subscore >1.
-Clinical remission was also assessed at Week 8 and Week 54 using the Pediatric Ulcerative Colitis Activity Index (PUCAI)6 score and was defined by a PUCAI score of <10 points.
-
-Endoscopies were performed at baseline and at Week 8.
-A Mayo endoscopy subscore of 0 indicated normal or inactive disease and a subscore of 1 indicated mild disease (erythema, decreased vascular pattern, or mild friability).
-
-Of the 60 patients treated, 44 were in clinical response at Week 8.
-Of 32 patients taking concomitant immunomodulators at baseline, 23 achieved clinical response at Week 8, compared to 21 of 28 of those not taking concomitant immunomodulators at baseline.
-At Week 8, 24 of 60 patients were in clinical remission as measured by the Mayo score and 17 of 51 patients were in remission as measured by the PUCAI score.
-
-At Week 54, 8 of 21 patients in the every 8-week maintenance group and 4 of 22 patients in the every 12-week maintenance group achieved remission as measured by the PUCAI score.
-
-During maintenance phase, 23 of 45 randomized patients (9 in the every 8-week group and 14 in the every 12-week group) required an increase in their dose and/or increase in frequency of infliximab administration due to loss of response.
-Nine of the 23 patients who required a change in dose had achieved remission at Week 54.
-Seven of those patients received the 10 mg/kg every 8-week dosing.
-
-## 14.5 Rheumatoid Arthritis
+## 14.4 Rheumatoid Arthritis
 
 The safety and efficacy of infliximab were assessed in 2 multicenter, randomized, double-blind, pivotal trials: ATTRACT (Study RA I) and ASPIRE (Study RA II).
 Concurrent use of stable doses of folic acid, oral corticosteroids (≤10 mg/day) and/or non-steroidal anti-inflammatory drugs (NSAIDs) was permitted.
@@ -331,7 +301,7 @@ Approximately 80% of patients in all doses/schedules of infliximab + MTX remaine
 In Study RA II, both treatment groups of infliximab showed greater improvement in HAQ-DI from baseline averaged over time through Week 54 compared to MTX alone; 0.7 for infliximab + MTX vs. 0.6 for MTX alone (P≤0.001).
 No worsening in the SF-36 mental component summary score was observed.
 
-## 14.6 Ankylosing Spondylitis
+## 14.5 Ankylosing Spondylitis
 
 The safety and efficacy of infliximab were assessed in a randomized, multicenter, double-blind, placebo-controlled study in 279 patients with active ankylosing spondylitis.
 Patients were between 18 and 74 years of age, and had ankylosing spondylitis as defined by the modified New York criteria for Ankylosing Spondylitis.4 Patients were to have had active disease as evidenced by both a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score >4 (possible range 0–10) and spinal pain >4 (on a Visual Analog Scale [VAS] of 0–10).
@@ -370,7 +340,7 @@ There was no change in the SF-36 mental component summary score in either inflix
 
 Results of this study were similar to those seen in a multicenter double-blind, placebo-controlled study of 70 patients with ankylosing spondylitis.
 
-## 14.7 Psoriatic Arthritis
+## 14.6 Psoriatic Arthritis
 
 Safety and efficacy of infliximab were assessed in a multicenter, double-blind, placebo-controlled study in 200 adult patients with active psoriatic arthritis despite DMARD or NSAID therapy (≥5 swollen joints and ≥5 tender joints) with 1 or more of the following subtypes: arthritis involving DIP joints (n=49), arthritis mutilans (n=3), asymmetric peripheral arthritis (n=40), polyarticular arthritis (n=100), and spondylitis with peripheral arthritis (n=8).
 Patients also had plaque psoriasis with a qualifying target lesion ≥2 cm in diameter.
@@ -410,7 +380,7 @@ Table 11 Components of ACR 20 and percentage of patients with 1 or more joints w
 Improvement in Psoriasis Area and Severity Index (PASI) in psoriatic arthritis patients with baseline body surface area (BSA) ≥3% (n=87 placebo, n=83 infliximab) was achieved at Week 14, regardless of concomitant methotrexate use, with 64% of patients treated with infliximab achieving at least 75% improvement from baseline vs. 2% of placebo-treated patients; improvement was observed in some patients as early as Week 2.
 At 6 months, the PASI 75 and PASI 90 responses were achieved by 60% and 39%, respectively, of patients receiving infliximab compared to 1% and 0%, respectively, of patients receiving placebo.
 The PASI response was generally maintained through Week 54.
-[See also Clinical Studies (14.8)].
+[See also Clinical Studies (14.7)].
 
 Radiographic response
 
@@ -431,7 +401,7 @@ During the placebo-controlled portion of the trial (24 weeks), 54% of patients t
 Patients treated with infliximab also demonstrated greater improvement in the SF-36 physical and mental component summary scores than placebo-treated patients.
 The responses were maintained for up to 2 years in an open-label extension study.
 
-## 14.8 Plaque Psoriasis
+## 14.7 Plaque Psoriasis
 
 The safety and efficacy of infliximab were assessed in 3 randomized, double-blind, placebo-controlled studies in patients 18 years of age and older with chronic, stable plaque psoriasis involving ≥10% BSA, a minimum PASI score of 12, and who were candidates for systemic therapy or phototherapy.
 Patients with guttate, pustular, or erythrodermic psoriasis were excluded from these studies.
@@ -479,7 +449,7 @@ Table 12 Psoriasis studies I, II, and III, Week 10 percentage of patients who ac
 | Psoriasis Study II - patients randomized | 208 | 313 | 314 |
 | PASI 75 | 4 (2%) | 220 (70%) | 237 (75%) |
 | rPGA | 2 (1%) | 217 (69%) | 234 (75%) |
-| Psoriasis Study III - patients randomizedPatients with missing data at Week 10 were imputed by last observation. | 51 | 99 | 99 |
+| Psoriasis Study IIII - patients randomizedPatients with missing data at Week 10 were imputed by last observation. | 51 | 99 | 99 |
 | PASI 75 | 3 (6%) | 71 (72%) | 87 (88%) |
 | sPGA | 5 (10%) | 71 (72%) | 89 (90%) |
 

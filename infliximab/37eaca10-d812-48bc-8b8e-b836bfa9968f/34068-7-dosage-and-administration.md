@@ -14,34 +14,30 @@ The recommended dose of INFLECTRA for pediatric patients 6 years and older with 
 
 The recommended dose of INFLECTRA is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of adult patients with moderately to severely active ulcerative colitis.
 
-## 2.4 Pediatric Ulcerative Colitis
-
-The recommended dose of INFLECTRA for pediatric patients 6 years and older with moderately to severely active ulcerative colitis is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks.
-
-## 2.5 Rheumatoid Arthritis
+## 2.4 Rheumatoid Arthritis
 
 The recommended dose of INFLECTRA is 3 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 3 mg/kg every 8 weeks thereafter for the treatment of moderately to severely active rheumatoid arthritis.
 INFLECTRA should be given in combination with methotrexate.
 For patients who have an incomplete response, consideration may be given to adjusting the dose up to 10 mg/kg or treating as often as every 4 weeks bearing in mind that risk of serious infections is increased at higher doses [see Adverse Reactions (6.1)].
 
-## 2.6 Ankylosing Spondylitis
+## 2.5 Ankylosing Spondylitis
 
 The recommended dose of INFLECTRA is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 6 weeks thereafter for the treatment of active ankylosing spondylitis.
 
-## 2.7 Psoriatic Arthritis
+## 2.6 Psoriatic Arthritis
 
 The recommended dose of INFLECTRA is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of psoriatic arthritis.
 INFLECTRA can be used with or without methotrexate.
 
-## 2.8 Plaque Psoriasis
+## 2.7 Plaque Psoriasis
 
 The recommended dose of INFLECTRA is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of chronic severe (i.e., extensive and/or disabling) plaque psoriasis.
 
-## 2.9 Monitoring to Assess Safety
+## 2.8 Monitoring to Assess Safety
 
 Prior to initiating INFLECTRA and periodically during therapy, patients should be evaluated for active tuberculosis and tested for latent infection [see Warnings and Precautions (5.1)].
 
-## 2.10 Administration Instructions Regarding Infusion Reactions
+## 2.9 Administration Instructions Regarding Infusion Reactions
 
 Adverse effects during administration of infliximab products have included flu-like symptoms, headache, dyspnea, hypotension, transient fever, chills, gastrointestinal symptoms, and skin rashes.
 Anaphylaxis might occur at any time during INFLECTRA infusion.
@@ -56,7 +52,7 @@ During or following infusion, patients who have severe infusion-related hypersen
 The management of severe infusion reactions should be dictated by the signs and symptoms of the reaction.
 Appropriate personnel and medication should be available to treat anaphylaxis if it occurs.
 
-## 2.11 General Considerations and Instructions for Preparation and Administration
+## 2.10 General Considerations and Instructions for Preparation and Administration
 
 INFLECTRA is intended for use under the guidance and supervision of a physician.
 The reconstituted infusion solution should be prepared by a trained medical professional using aseptic technique by the following procedure:

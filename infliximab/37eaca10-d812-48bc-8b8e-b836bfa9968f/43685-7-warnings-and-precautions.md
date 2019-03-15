@@ -4,7 +4,7 @@
 
 Patients treated with infliximab products are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
 
-Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, cryptococcosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, salmonellosis and tuberculosis have been reported with TNF blockers.
+Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis and tuberculosis have been reported with TNF blockers.
 Patients have frequently presented with disseminated rather than localized disease.
 
 Treatment with INFLECTRA should not be initiated in patients with an active infection, including clinically important localized infections.
@@ -163,7 +163,7 @@ In the case where INFLECTRA maintenance therapy for psoriasis is interrupted, IN
 Serious cerebrovascular accidents, myocardial ischemia/infarction (some fatal), hypotension, hypertension, and arrhythmias have been reported during and within 24 hours of initiation of infliximab infusion.
 Cases of transient visual loss have been reported during or within 2 hours of infusion of infliximab.
 Monitor patients during infusion and if serious reaction occurs, discontinue infusion.
-Further management of reactions should be dictated by signs and symptoms [See Adverse Reactions (6)].
+Further management of reactions should be dictated by signs and symptoms [See Adverse Reactions (6)]
 
 ## 5.9 Neurologic Reactions
 

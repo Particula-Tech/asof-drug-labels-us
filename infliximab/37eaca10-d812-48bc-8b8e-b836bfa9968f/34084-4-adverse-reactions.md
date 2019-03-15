@@ -92,8 +92,6 @@ A separate, drug-tolerant electrochemiluminescence immunoassay (ECLIA) method fo
 This method is 60-fold more sensitive than the original EIA.
 With the ECLIA method, all clinical samples can be classified as either positive or negative for antibodies to infliximab without the need for the inconclusive category.
 
-The incidence of antibodies to infliximab was based on the original EIA method in all clinical studies of infliximab except for the Phase 3 study in pediatric patients with ulcerative colitis where the incidence of antibodies to infliximab was detected using both the EIA and ECLIA methods [see Adverse Reactions, Pediatric Ulcerative Colitis (6.1)].
-
 The incidence of antibodies to infliximab in patients given a 3-dose induction regimen followed by maintenance dosing was approximately 10% as assessed through 1 to 2 years of treatment with infliximab.
 A higher incidence of antibodies to infliximab was observed in Crohn's disease patients receiving infliximab after drug-free intervals >16 weeks.
 In a study of psoriatic arthritis in which 191 patients received 5 mg/kg with or without MTX, antibodies to infliximab occurred in 15% of patients.
@@ -234,44 +232,16 @@ Although 105 patients were tested for antibodies to infliximab, 81 patients were
 Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 18% of pediatric patients in Crohn's disease clinical trials; 4% had ALT elevations ≥3 × ULN, and 1% had elevations ≥5 × ULN.
 (Median follow-up was 53 weeks.)
 
-Pediatric Ulcerative Colitis
-
-Overall, the adverse reactions reported in the pediatric ulcerative colitis trial and adult ulcerative colitis (Study UC I and Study UC II) studies were generally consistent.
-In a pediatric UC trial, the most common adverse reactions were upper respiratory tract infection, pharyngitis, abdominal pain, fever, and headache.
-
-Infections were reported in 31 (52%) of 60 treated patients in the pediatric UC trial and 22 (37%) required oral or parenteral antimicrobial treatment.
-The proportion of patients with infections in the pediatric UC trial was similar to that in the pediatric Crohn's disease study (Study Peds Crohn's) but higher than the proportion in the adults' ulcerative colitis studies (Study UC I and Study UC II).
-The overall incidence of infections in the pediatric UC trial was 13/22 (59%) in the every 8 week maintenance treatment group.
-Upper respiratory tract infection (7/60 [12%]) and pharyngitis (5/60 [8%]) were the most frequently reported respiratory system infections.
-Serious infections were reported in 12% (7/60) of all treated patients.
-
-In the pediatric UC trial, 58 patients were evaluated for antibodies to infliximab using the EIA as well as the drug-tolerant ECLIA.
-With the EIA, 4 of 58 (7%) patients had antibodies to infliximab.
-With the ECLIA, 30 of 58 (52%) patients had antibodies to infliximab [see Adverse Reactions, Immunogenicity (6.1)].
-The higher incidence of antibodies to infliximab by the ECLIA method was due to the 60-fold higher sensitivity compared to the EIA method.
-While EIA-positive patients generally had undetectable trough infliximab concentrations, ECLIA-positive patients could have detectable trough concentrations of infliximab because the ECLIA assay is more sensitive and drug tolerant.
-
-Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 17% (10/60) of pediatric patients in the pediatric UC trial; 7% (4/60) had ALT elevations ≥3 × ULN, and 2% (1/60) had elevations ≥5 × ULN (median follow-up was 49 weeks).
-
-Overall, 8 of 60 (13%) treated patients experienced one or more infusion reactions, including 4 of 22 (18%) patients in the every 8-week treatment maintenance group.
-No serious infusion reactions were reported.
-
-In the pediatric UC trial, 45 patients were in the 12 to 17 year age group and 15 in the 6 to 11 year age group.
-The numbers of patients in each subgroup are too small to make any definitive conclusions about the effect of age on safety events.
-There were higher proportions of patients with serious adverse events (40% vs. 18%) and discontinuation due to adverse events (40% vs. 16%) in the younger age group than in the older age group.
-While the proportion of patients with infections was also higher in the younger age group (60% vs. 49%), for serious infections, the proportions were similar in the two age groups (13% in the 6 to 11 year age group vs. 11% in the 12 to 17 year age group).
-Overall proportions of adverse reactions, including infusion reactions, were similar between the 6 to 11 and 12 to 17 year age groups (13%).
-
 ## 6.2 Postmarketing Experience
 
 Adverse reactions have been identified during post approval use of infliximab products in adult and pediatric patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions, some with fatal outcome, have been reported during postapproval use of infliximab products: neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in utero to infliximab), interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.9)], acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)], serious infections [see Warnings and Precautions (5.1)] and malignancies, including leukemia, melanoma and Merkel cell carcinoma, and cervical cancer [see Warnings and Precautions (5.2)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab [see Warnings and Precautions (5.15)].
+The following adverse reactions, some with fatal outcome, have been reported during postapproval use of infliximab products: neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in utero to infliximab), interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.9)], acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)], serious infections [see Warnings and Precautions (5.1)] and malignancies, including melanoma and Merkel cell carcinoma, and cervical cancer [see Warnings and Precautions (5.2)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab [see Warnings and Precautions (5.15)].
 
 Infusion-related Reactions
 
-In postmarketing experience, cases of anaphylactic reactions, including anaphylactic shock, laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with administration of infliximab products.
+In postmarketing experience, cases of anaphylactic reactions, including laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with administration of infliximab products.
 
 Cases of transient visual loss have been reported in association with infliximab products during or within 2 hours of infusion.
 Cerebrovascular accidents, myocardial ischemia/infarction (some fatal), and arrhythmia occurring within 24 hours of initiation of infusion have also been reported [see Warnings and Precautions (5.8)].
