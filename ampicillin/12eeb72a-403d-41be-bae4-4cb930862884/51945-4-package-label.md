@@ -24,6 +24,8 @@ Unasyn® (ampicillin sodium/ sulbactam sodium)
 
 PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION
 
-Sterile For Intravenous Use
+Sterile
+
+For Intravenous Use
 
 Pfizer Injectables
