@@ -1,25 +1,14 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Pacerone® (Amiodarone HCl) Tablets, 100 mg, are available in bottles of 30 tablets (NDC 0245-0144-30), bottles of 100 tablets (NDC 0245-0144-11), and in unit dose cartons of 100 tablets (10 cards containing 10 tablets each) (NDC 0245-0144-01).
+Pacerone® (amiodarone hydrochloride) tablets, 100 mg, are available in bottles of 30 tablets (NDC 0245-0144-30), bottles of 100 tablets (NDC 0245-0144-11) and in unit-dose cartons of 100 tablets (10 cards containing 10 tablets each) (NDC 0245-0144-01).
 
-Pacerone® Tablets, 100 mg, are peach, round, flat-faced, uncoated tablets, debossed with "P" on one side, and "U-S" above "144" on the other side.
+Pacerone® tablets, 100 mg, are peach, round, flat-faced, uncoated tablets, debossed with "P" on one side, and "U-S" above "144" on the other side.
 
-Pacerone® (Amiodarone HCl) Tablets, 200 mg, are available in bottles of 60 tablets (NDC 0245-0147-60), bottles of 90 tablets (NDC 0245-0147-90), bottles of 500 tablets (NDC 0245-0147-15) and in unit dose cartons of 100 tablets (10 cards containing 10 tablets each) (NDC 0245-0147-01).
+Pacerone® (amiodarone hydrochloride) tablets, 200 mg, are available in bottles of 60 tablets (NDC 0245-0147-60), bottles of 90 tablets (NDC 0245-0147-90), bottles of 500 tablets (NDC 0245-0147-15) and in unit-dose cartons of 100 tablets (10 cards containing 10 tablets each) (NDC 0245-0147-01).
 
-Pacerone® Tablets, 200 mg, are pink, round, flat-faced, scored, uncoated tablets, debossed with "P200" on the unscored side, and "U-S" above and "0147" below the score on the reverse side.
+Pacerone® tablets, 200 mg, are pink, round, flat-faced, scored, uncoated tablets, debossed with "P200" on the unscored side, and "U-S" above and "0147" below the score on the reverse side.
 
-Store at 20° to 25°C (68° to 77°F).
-Excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 Protect from light.
 
 Dispense in a tight, light-resistant container with a child-resistant closure.
-
-This product's label may have been revised after this insert was used in production.
-For further product information and current package insert, please visit www.upsher-smith.com or call 1-888-650-3789.
-
-Pacerone is a registered trademark of Upsher-Smith Laboratories, LLC
-
-Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
-
-Revised 0617
