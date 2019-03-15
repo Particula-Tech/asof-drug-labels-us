@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208259"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Aerie Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70727-529-25",
+    "70727-529-99"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "netarsudil and latanoprost ophthalmic solution, 0.02%/0.005%",
+      "name": "Rocklatan"
+    }
+  ],
+  "setid": "b1d71f41-be06-4a08-94d4-e352198f09c2",
+  "source": "dailymed"
+}
