@@ -1,12 +1,4 @@
-# Patient Instructions – TRETINOIN CREAM
-
-For Topical Use Only
-
-Acne Treatment
-
-IMPORTANT
-
-Read Directions Carefully Before Using
+# TRETINOIN CREAM PATIENT INSTRUCTIONS For Topical Use Only Acne Treatment IMPORTANT Read Directions Carefully Before Using
 
 THIS LEAFLET TELLS YOU ABOUT TRETINOIN ACNE TREATMENT AS PRESCRIBED BY YOUR PHYSICIAN.
 THIS PRODUCT IS TO BE USED ONLY ACCORDING TO YOUR DOCTOR’S INSTRUCTIONS, AND IT SHOULD NOT BE APPLIED TO OTHER AREAS OF THE BODY OR TO OTHER GROWTHS OR LESIONS.
@@ -19,7 +11,7 @@ The effects of the sun on your skin.
 As you know, overexposure to natural sunlight or the artificial sunlight of a sunlamp can cause sunburn.
 Overexposure to the sun over many years may cause premature aging of the skin and even skin cancer.
 The chance of these effects occurring will vary depending on skin type, the climate and the care taken to avoid overexposure to the sun.
-Therapy with tretinoin may make your skin more susceptible to sunburn and other adverse effects of the sun, so unprotected exposure to natural or artificial sunlight should be minimized.
+Therapy with Tretinoin Cream may make your skin more susceptible to sunburn and other adverse effects of the sun, so unprotected exposure to natural or artificial sunlight should be minimized.
 
 Laboratory findings.
 When laboratory mice are exposed to artificial sunlight, they often develop skin tumors.
@@ -29,22 +21,22 @@ There is no evidence to date that tretinoin alone will cause the development of 
 However, investigations in this area are continuing.
 
 Use caution in the sun.
-When outside, even on hazy days, areas treated with tretinoin should be protected.
+When outside, even on hazy days, areas treated with Tretinoin Cream should be protected.
 An effective sunscreen should be used any time you are outside (consult your physician for a recommendation of an SPF level which will provide you with the necessary high level of protection).
 For extended sun exposure, protective clothing, like a hat, should be worn.
-Do not use artificial sunlamps while you are using tretinoin.
-If you do become sunburned, stop your therapy with tretinoin until your skin has recovered.
+Do not use artificial sunlamps while you are using Tretinoin Cream.
+If you do become sunburned, stop your therapy with Tretinoin Cream until your skin has recovered.
 
 Avoid excessive exposure to wind or cold.
 Extremes of climate tend to dry or burn normal skin.
-Skin treated with tretinoin may be more vulnerable to these extremes.
+Skin treated with Tretinoin Cream may be more vulnerable to these extremes.
 Your physician can recommend ways to manage your acne treatment under such conditions.
 
 Possible problems.
 The skin of certain sensitive individuals may become excessively red, swollen, blistered or crusted.
-If you are experiencing severe or persistent irritation, discontinue the use of tretinoin and consult your physician.
-There have been reports that, in some patients, areas treated with tretinoin developed a temporary increase or decrease in the amount of skin pigment (color) present.
-The pigment in these areas returned to normal either when the skin was allowed to adjust to tretinoin or therapy was discontinued.
+If you are experiencing severe or persistent irritation, discontinue the use of Tretinoin Cream and consult your physician.
+There have been reports that, in some patients, areas treated with Tretinoin Cream developed a temporary increase or decrease in the amount of skin pigment (color) present.
+The pigment in these areas returned to normal either when the skin was allowed to adjust to Tretinoin Cream or therapy was discontinued.
 
 Use other medication only on your physician’s advice.
 Only your physician knows which other medications may be helpful during treatment and will recommend them to you if necessary.
@@ -53,13 +45,13 @@ In addition, you should avoid preparations that may dry or irritate your skin.
 These preparations may include certain astringents, toiletries containing alcohol, spices or lime, or certain medicated soaps, shampoos and hair permanent solutions.
 Do not allow anyone else to use this medication.
 
-Do not use other medications with tretinoin which are not recommended by your doctor.
+Do not use other medications with Tretinoin Cream which are not recommended by your doctor.
 The medications you have used in the past might cause unnecessary redness or peeling.
 
-If you are pregnant, think you are pregnant or are nursing an infant: No studies have been conducted in humans to establish the safety of tretinoin in pregnant women.
+If you are pregnant, think you are pregnant or are nursing an infant: No studies have been conducted in humans to establish the safety of Tretinoin Cream in pregnant women.
 If you are pregnant, think you are pregnant, or are nursing a baby, consult your physician before using this medication.
 
-AND WHILE YOU’RE ON TRETINOIN THERAPY
+AND WHILE YOU’RE ON TRETINOIN CREAM THERAPY
 
 Use a mild, non-medicated soap.
 Avoid frequent washings and harsh scrubbing.
@@ -68,21 +60,21 @@ Washing too frequently or scrubbing too roughly may at times actually make your 
 Wash your skin gently with a mild, bland soap.
 Two or three times a day should be sufficient.
 Pat skin dry with a towel.
-Let the face dry 20 to 30 minutes before applying tretinoin.
+Let the face dry 20 to 30 minutes before applying Tretinoin Cream.
 Remember, excessive irritation such as rubbing, too much washing, use of other medications not suggested by your physician, etc., may worsen your acne.
 
-HOW TO USE TRETINOIN
+HOW TO USE TRETINOIN CREAM
 
-To get the best results with tretinoin therapy, it is necessary to use it properly.
+To get the best results with Tretinoin Cream therapy, it is necessary to use it properly.
 Forget about the instructions given for other products and the advice of friends.
 Just stick to the special plan your doctor has laid out for you and be patient.
-Remember, when tretinoin is used properly, many users see improvement by 12 weeks.
+Remember, when Tretinoin Cream is used properly, many users see improvement by 12 weeks.
 AGAIN, FOLLOW INSTRUCTIONS – BE PATIENT – DON’T START AND STOP THERAPY ON YOUR OWN – IF YOU HAVE QUESTIONS, ASK YOUR DOCTOR.
 
 To help you use the medication correctly, keep these simple instructions in mind.
 
-- •Apply tretinoin once daily before bedtime, or as directed by your physician.
-  Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying tretinoin every other night.
+- •Apply Tretinoin Cream once daily before bedtime, or as directed by your physician.
+  Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying Tretinoin Cream every other night.
   First, wash with a mild soap and dry your skin gently.
   WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
 - •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
@@ -99,44 +91,37 @@ To help you use the medication correctly, keep these simple instructions in mind
 
 WHAT TO EXPECT WITH YOUR NEW TREATMENT
 
-Tretinoin works deep inside your skin and this takes time.
-You cannot make tretinoin work any faster by applying more than one dose each day, but an excess amount of tretinoin may irritate your skin.
+Tretinoin Cream works deep inside your skin and this takes time.
+You cannot make Tretinoin Cream work any faster by applying more than one dose each day, but an excess amount of Tretinoin Cream may irritate your skin.
 Be patient.
 
 There may be some discomfort or peeling during the early days of treatment.
 Some patients also notice that their skin begins to take on a blush.
 
 These reactions do not happen to everyone.
-If they do, it is just your skin adjusting to tretinoin and this usually subsides within two to four weeks.
+If they do, it is just your skin adjusting to Tretinoin Cream and this usually subsides within two to four weeks.
 These reactions can usually be minimized by following instructions carefully.
 Should the effects become excessively troublesome, consult your doctor.
 
 BY THREE TO SIX WEEKS, some patients notice an appearance of new blemishes (papules and pustules).
-At this stage it is important to continue using tretinoin.
+At this stage it is important to continue using Tretinoin Cream.
 
-If tretinoin is going to have a beneficial effect for you, you should notice a continued improvement in your appearance after 6 to 12 weeks of therapy.
+If Tretinoin Cream is going to have a beneficial effect for you, you should notice a continued improvement in your appearance after 6 to 12 weeks of therapy.
 Don’t be discouraged if you see no immediate improvement.
 Don’t stop treatment at the first signs of improvement.
 
-Once your acne is under control you should continue regular application of tretinoin until your
-
-physician instructs otherwise.
+Once your acne is under control you should continue regular application of Tretinoin Cream until your physician instructs otherwise.
 
 IF YOU HAVE QUESTIONS
 
 All questions of a medical nature should be taken up with your doctor.
 For more information about Tretinoin Cream, call our toll-free number: 1-800-636-7546.
 
-Distributed by:
+Distributed by: Obagi Cosmeceuticals LLC Long Beach, CA 90806
 
-Obagi Cosmeceuticals LLC
-
-Long Beach, CA 90806
-
-© 2018 Obagi Cosmeceuticals LLC.
-All rights reserved. www.obagi.com
+www.obagi.com
 
 Rev.
-04/2018
+01/2019
 
-9441002
+9441003

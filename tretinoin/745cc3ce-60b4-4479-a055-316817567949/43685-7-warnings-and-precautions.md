@@ -19,25 +19,61 @@ Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps
 Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin.
 It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of tretinoin is begun.
 
-## Carcinogenesis
+## Carcinogenesis, Mutagenesis, Impairment to Fertility
 
-Long-term animal studies to determine the carcinogenic potential of tretinoin have not been performed.
-Studies in hairless albino mice suggest that tretinoin may accelerate the tumorigenic potential of weakly carcinogenic light from a solar simulator.
-In other studies, when lightly pigmented hairless mice treated with tretinoin were exposed to carcinogenic doses of UVB light, the incidence and rate of development of skin tumors was reduced.
-Due to significantly different experimental conditions, no strict comparison of these disparate data is possible.
-Although the significance of these studies to man is not clear, patients should avoid or minimize exposure to sun.
+In a 91-week dermal study in which CD-1 mice were administered 0.017% and 0.035% formulations of tretinoin, cutaneous squamous cell carcinomas and papillomas in the treatment area were observed in some female mice.
+A dose-related incidence of liver tumors in male mice was observed at those same doses.
+The maximum systemic doses associated with the administered 0.017% and 0.035% formulations are 0.5 and 1.0 mg/kg/day, respectively.
+These doses are two and four times the maximum human systemic dose, when adjusted for total body surface area.
+The biological significance of these findings is not clear because they occurred at doses that exceeded the dermal maximally tolerated dose (MTD) of tretinoin and because they were within the background natural occurrence rate for these tumors in this strain of mice.
+There was no evidence of carcinogenic potential when 0.025 mg/kg/day of tretinoin was administered topically to mice (0.1 times the maximum human systemic dose, adjusted for total body surface area).
+For purposes of comparisons of the animal exposure to systemic human exposure, the maximum human systemic dose is defined as 1 gram of 0.1% RETIN-A applied daily to a 50 kg person (0.02 mg tretinoin/kg body weight).
 
-## Pregnancy
+Studies in hairless albino mice suggest that concurrent exposure to tretinoin may enhance the tumorigenic potential of carcinogenic doses of UVB and UVA light from a solar simulator.
+This effect has been confirmed in a later study in pigmented mice, and dark pigmentation did not overcome the enhancement of photocarcinogenesis by 0.05% tretinoin.
+Although the significance of these studies to humans is not clear, patients should minimize exposure to sunlight or artificial ultraviolet irradiation sources.
 
-Oral tretinoin has been shown to be teratogenic in rats when given in doses 1000 times the topical human dose.
-Oral tretinoin has been shown to be fetotoxic in rats when given in doses 500 times the topical human dose.
-Topical tretinoin has not been shown to be teratogenic in rats and rabbits when given in doses of 100 and 320 times the topical human dose, respectively (assuming a 50 kg adult applies 250 mg of 0.1% cream topically).
-However, at these topical doses, delayed ossification of a number of bones occurred in both species.
-These changes may be considered variants of normal development and are usually corrected after weaning.
-There are no adequate and well-controlled studies in pregnant women.
+The mutagenic potential of tretinoin was evaluated in the Ames assay and in the in vivo mouse micronucleus assay, both of which were negative.
+
+In dermal Segment I fertility studies of another tretinoin formulation in rats, slight (not statistically significant) decreases in sperm count and motility were seen at 0.5 mg/kg/day (4 times the maximum human systemic dose adjusted for total body surface area), and slight (not statistically significant) increases in the number and percent of nonviable embryos in females treated with 0.25 mg/kg/day (2 times the maximum human systemic dose adjusted for total body surface area) and above were observed.
+A dermal Segment III study with RETIN-A has not been performed in any species.
+In oral Segment I and Segment III studies in rats with tretinoin, decreased survival of neonates and growth retardation were observed at doses in excess of 2 mg/kg/day (16 times the human topical dose adjusted for total body surface area).
+
+## Pregnancy Teratogenic effects
+
+Oral tretinoin has been shown to be teratogenic in rats, mice, hamsters, and subhuman primates.
+It was teratogenic and fetotoxic in Wistar rats when given orally or topically in doses greater than 1 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
+However, variations in teratogenic doses among various strains of rats have been reported.
+In the cynomolgus monkey, which metabolically is closer to humans for tretinoin than the other species examined, fetal malformations were reported at doses of 10 mg/kg/day or greater, but none were observed at 5 mg/kg/day (83 times the maximum human systemic dose adjusted for total body surface area), although increased skeletal variations were observed at all doses.
+A dose-related increase in embryolethality and abortion was reported.
+Similar results have also been reported in pigtail macaques.
+
+Topical tretinoin in animal teratogenicity tests has generated equivocal results.
+There is evidence for teratogenicity (shortened or kinked tail) of topical tretinoin in Wistar rats at doses greater than 1 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
+Anomalies (humerus: short 13%, bent 6%, os parietale incompletely ossified 14%) have also been reported when 10 mg/kg/day was topically applied.
+
+There are other reports in New Zealand White rabbits administered doses of greater than 0.2 mg/kg/day (3.3 times the maximum human systemic dose adjusted for total body surface area) of an increased incidence of domed head and hydrocephaly, typical of retinoid-induced fetal malformations in this species.
+
+In contrast, several well-controlled animal studies have shown that dermally applied tretinoin may be fetotoxic, but not overly teratogenic in rats and rabbits at doses of 1.0 and 0.5 mg/kg/day, respectively (8 times the maximum human systemic dose adjusted for total body surface area in both species).
+
+With widespread use of any drug, a small number of birth defect reports associated temporally with the administration of the drug would be expected by chance alone.
+Thirty human cases of temporally associated congenital malformations have been reported during two decades of clinical use of RETIN-A.
+Although no definite pattern of teratogenicity and no causal association have been established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
+The significance of these spontaneous reports in terms of risk to the fetus is not known.
+
+Nonteratogenic effects
+
+Topical tretinoin has been shown to be fetotoxic in rabbits when administered 0.5 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
+Oral tretinoin has been shown to be fetotoxic, resulting in skeletal variations and increased intrauterine death in rats when administered 2.5 mg/kg/day (20 times the maximum human systemic dose adjusted for total body surface area).
+
+There are, however, no adequate and well-controlled studies in pregnant women.
 Tretinoin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when tretinoin is administered to a nursing woman.
+Pediatric Use Safety and effectiveness in pediatric patients below the age of 12 have not been established.
+
+Geriatric Use Safety and effectiveness in a geriatric population have not been established.
+Clinical studies of RETIN-A did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger patients.
