@@ -1,6 +1,4 @@
---------------------------------------------- REPRESENTATIVE PACKAGING
-
-PRINCIPAL DISPLAY PANEL - 174 mg Tablet Bottle Label
+--------------------------------------------- PRINCIPAL DISPLAY PANEL - 174 mg Tablet Bottle Label
 
 NDC 0187-5810-30 RX ONLY
 
