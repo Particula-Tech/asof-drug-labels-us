@@ -21,6 +21,7 @@ Among 393 patients who received TECENTRIQ in combination with bevacizumab, pacli
 
 The data described in this section were obtained from one open-label, single arm, multiple cohort study (IMvigor210) and two randomized open-label, active-controlled studies (OAK and IMpower150) in which TECENTRIQ was administered to 429 patients with locally advanced and metastatic urothelial carcinoma and 1002 patients with metastatic NSCLC.
 In these trials, TECENTRIQ was administered at a dose of 1200 mg intravenously every 3 weeks.
+This section also describes data from one randomized, placebo-controlled study (IMpassion130) in which TECENTRIQ was administered (at a dose of 840 mg intravenously every 2 weeks) in combination with paclitaxel protein-bound to 452 patients with metastatic TNBC.
 
 Locally Advanced or Metastatic Urothelial Carcinoma
 
@@ -262,9 +263,9 @@ Table 8: Adverse Reactions Occurring in ≥ 10% of Patients with NSCLC Receiving
 
 | Adverse ReactionGraded per NCI CTCAE v4.0 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | --- | --- | --- | --- | --- |
-|  | TECENTRIQ 1200 mg every 3 weeks N = 609 |  | Docetaxel 75 mg/mIncludes fatigue and asthenia every 3 weeks N = 578 |  |
+|  | TECENTRIQ 1200 mg every 3 weeks N = 609 |  | Docetaxel 75 mg/m2 every 3 weeks N = 578 |  |
 | General |  |  |  |  |
-| Fatigue/Asthenia | 44 | 4 | 53 | 6 |
+| Fatigue/AstheniaIncludes fatigue and asthenia | 44 | 4 | 53 | 6 |
 | Pyrexia | 18 | <1 | 13 | <1 |
 | Respiratory |  |  |  |  |
 | CoughIncludes cough and exertional cough | 26 | <1 | 21 | <1 |
@@ -283,9 +284,9 @@ Table 8: Adverse Reactions Occurring in ≥ 10% of Patients with NSCLC Receiving
 
 Table 9: Laboratory Abnormalities Worsening From Baseline Occurring in ≥ 20% of NSCLC Patients Receiving TECENTRIQ in OAK
 
-| Laboratory Abnormality | All GradesGraded according to NCI CTCAE version 4.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
+| Laboratory Abnormality | All GradesGraded according to NCI CTCAE version 4.0 (%)Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ (range: 546–585) and docetaxel (range: 532–560) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | --- | --- | --- | --- | --- |
-|  | TECENTRIQ 1200 mg every 3 weeks |  | Docetaxel 75 mg/mEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ (range: 546–585) and docetaxel (range: 532–560) every 3 weeks |  |
+|  | TECENTRIQ 1200 mg every 3 weeks |  | Docetaxel 75 mg/m2 every 3 weeks |  |
 | Chemistry |  |  |  |  |
 | Hypoalbuminemia | 48 | 4 | 50 | 3 |
 | Hyponatremia | 42 | 7 | 31 | 6 |
@@ -299,9 +300,106 @@ Table 9: Laboratory Abnormalities Worsening From Baseline Occurring in ≥ 20% o
 | Anemia | 67 | 3 | 82 | 7 |
 | Lymphocytopenia | 49 | 14 | 60 | 21 |
 
+Metastatic Triple Negative Breast Cancer (TNBC)
+
+The safety of TECENTRIQ in combination with paclitaxel protein-bound was evaluated in IMpassion130, a multicenter, international, randomized, double-blinded placebo-controlled trial in patients with locally advanced or metastatic TNBC who have not received prior chemotherapy for metastatic disease [see Clinical Studies (14.3)].
+Patients received 840 mg of TECENTRIQ (n=452) or placebo (n=438) intravenously followed by paclitaxel protein-bound (100 mg/m2) intravenously.
+For each 28 day cycle, TECENTRIQ was administered on days 1 and 15 and paclitaxel protein-bound was administered on days 1, 8, and 15 until disease progression or unacceptable toxicity.
+In the safety-evaluable population, the median duration of exposure to TECENTRIQ was 5.5 months (range: 0-32 months) and paclitaxel protein-bound was 5.1 months (range: 0 – 31.5 months) in the TECENTRIQ plus paclitaxel protein-bound arm.
+The median duration of exposure to placebo was 5.1 months (range: 0-25.1 months) and paclitaxel protein-bound was 5.0 months (range: 0-23.7 months) in the placebo plus paclitaxel protein-bound arm.
+
+The most common adverse reactions (≥20%) in patients receiving TECENTRIQ in combination with paclitaxel protein-bound were alopecia (56%), peripheral neuropathies (47%), fatigue (47%), nausea (46%), diarrhea (33%), anemia (28%), constipation (25%), cough (25%), headache (23%), neutropenia (21%), vomiting (20%), and decreased appetite (20%).
+The most common Grade 3-4 adverse reactions occurring in ≥2%, were neutropenia (8%), peripheral neuropathies (9%), neutrophil count decreased (4.6%), fatigue (4%), anemia (2.9%), hypokalemia (2.2%), pneumonia (2.2%), and aspartate aminotransferase increased (2.0%).
+
+Adverse reactions leading to discontinuation of TECENTRIQ occurred in 6% (29/452) of patients in the TECENTRIQ and paclitaxel protein-bound arm.
+The most common adverse reaction leading to TECENTRIQ discontinuation was peripheral neuropathy (<1%).
+Fatal adverse reactions occurred in 1.3% (6/452) of patients in the TECENTRIQ and paclitaxel protein-bound arm; these included septic shock, mucosal inflammation, auto-immune hepatitis, aspiration, pneumonia, pulmonary embolism.
+Adverse reactions leading to interruption of TECENTRIQ occurred in 31% of patients; the most common (≥ 2%) were neutropenia, neutrophil count decreased, hyperthyroidism, and pyrexia.
+Serious adverse reactions occurred in 23% (103/452) of patients.
+The most frequent serious adverse reactions were pneumonia (2%), urinary tract infection (1%), dyspnea (1%), and pyrexia (1%).
+
+Immune-related adverse reactions requiring systemic corticosteroid therapy occurred in 13% (59/452) of patients in the TECENTRIQ and paclitaxel protein-bound arm.
+
+Table 10 summarizes adverse reactions that occurred in at least 10% of patients treated with TECENTRIQ and paclitaxel protein-bound.
+Table 11 summarizes selected laboratory abnormalities worsening from baseline that occurred in at least 20% of patients in the TECENTRIQ treated patients.
+
+Table 10: Adverse Reactions Occurring in ≥10% of Patients with TNBC (IMpassion130)
+
+|  | Percentage (%) of Patients |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | TECENTRIQ in combination with paclitaxel protein-bound (n=452) |  | Placebo in combination with paclitaxel protein-bound (n=438) |  |
+| Adverse ReactionGraded per NCI CTCAE v4.0 | All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Alopecia | 56 | <1 | 58 | <1 |
+| Rash | 17 | <1 | 16 | <1 |
+| Pruritus | 14 | 0 | 10 | 0 |
+| General Disorders and administration site conditions |  |  |  |  |
+| Fatigue | 47 | 4 | 45 | 3.4 |
+| Pyrexia | 19 | <1 | 11 | 0 |
+| Peripheral Edema | 15 | <1 | 16 | 1.4 |
+| Asthenia | 12 | <1 | 11 | <1 |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 46 | 1.1 | 38 | 1.8 |
+| Diarrhea | 33 | 1.3 | 34 | 2.1 |
+| Constipation | 25 | <1 | 25 | <1 |
+| Vomiting | 20 | <1 | 17 | 1.1 |
+| Abdominal pain | 10 | <1 | 12 | <1 |
+| Blood and Lymphatic System Disorders |  |  |  |  |
+| Anemia | 28 | 2.9 | 26 | 3 |
+| Neutropenia | 21 | 8 | 15 | 8 |
+| Investigations |  |  |  |  |
+| Neutrophil count decreased | 13 | 4.6 | 11 | 3.4 |
+| Alanine aminotransferase increased | 10 | 1.8 | 9 | 1.1 |
+| Nervous System Disorders |  |  |  |  |
+| Headache | 23 | <1 | 22 | <1 |
+| Peripheral neuropathiesIncludes peripheral neuropathy, peripheral sensory neuropathy, paresthesia, and polyneuropathy | 47 | 9 | 44 | 5 |
+| Dysgeusia | 14 | 0 | 14 | 0 |
+| Dizziness | 14 | 0 | 11 | 0 |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |
+| Cough | 25 | 0 | 19 | 0 |
+| Dyspnea | 16 | <1 | 15 | <1 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased Appetite | 20 | <1 | 18 | <1 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Arthralgia | 18 | <1 | 16 | <1 |
+| Back pain | 15 | 1.3 | 13 | <1 |
+| Myalgia | 14 | <1 | 15 | <1 |
+| Pain in extremity | 11 | <1 | 10 | <1 |
+| Endocrine Disorders |  |  |  |  |
+| Hypothyroidism | 14 | 0 | 3.4 | 0 |
+| Infections and infestations |  |  |  |  |
+| Urinary tract infection | 12 | <1 | 11 | <1 |
+| Upper respiratory tract infection | 11 | 1.1 | 9 | 0 |
+| Nasopharyngitis | 11 | 0 | 8 | 0 |
+
+Table 11: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with TNBC (IMpassion130)
+
+| Test | All GradesGraded per NCI CTCAE v4.0, except for increased creatinine which only includes patients with creatinine increase based on upper limit of normal definition for grade 1 events (NCI CTCAE v5.0). (%)Based on the number of patients with available baseline and at least one on-treatment laboratory test. | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |
+| --- | --- | --- | --- | --- |
+|  | Percentage of Patients with Worsening Laboratory Test from Baseline |  |  |  |
+| Laboratory Abnormality | TECENTRIQ in combination with paclitaxel protein-bound (n=452) |  | Placebo in combination with paclitaxel protein-bound (n=438) |  |
+| Chemistry |  |  |  |  |
+| Increased Creatinine | 21 | <1 | 16 | <1 |
+| Increased ALT | 43 | 6 | 34 | 2.7 |
+| Increased AST | 42 | 4.9 | 34 | 3.4 |
+| Decreased Calcium | 28 | 1.1 | 26 | <1 |
+| Decreased Sodium | 27 | 4.2 | 25 | 2.7 |
+| Decreased Albumin | 27 | <1 | 25 | <1 |
+| Increased Alkaline Phosphatase | 25 | 3.3 | 22 | 2.7 |
+| Decreased Phosphate | 22 | 3.6 | 19 | 3.7 |
+| Hematology |  |  |  |  |
+| Decreased Hemoglobin | 79 | 3.8 | 73 | 3 |
+| Decreased Leukocytes | 76 | 14 | 71 | 9 |
+| Decreased Neutrophils | 58 | 13 | 54 | 13 |
+| Decreased Lymphocytes | 54 | 13 | 47 | 8 |
+| Increased Prothrombin INR | 25 | <1 | 25 | <1 |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other atezolizumab products may be misleading.
 
 Among 565 patients with NSCLC in OAK, 30% tested positive for treatment-emergent anti-drug antibodies (ADA) at one or more post-dose time points.
 The median onset time to ADA formation was 3 weeks.
@@ -320,6 +418,8 @@ The ability of these binding ADA to neutralize atezolizumab is unknown.
 Patients who tested positive for treatment-emergent ADA had lower systemic atezolizumab exposure as compared to patients who were ADA negative [see Clinical Pharmacology (12.3)].
 The presence of ADA did not increase the incidence or severity of adverse reactions [see Clinical Studies (14.2)].
 
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to atezolizumab in the studies described above with the incidence of antibodies in other studies or to other products may be misleading.
+Among 434 patients with TNBC in IMpassion130, 13% tested positive for treatment-emergent ADA at one or more post-dose time points.
+Among 178 patients in PD-L1 positive subgroup with TNBC in IMpassion130, 12% tested positive for treatment-emergent ADA at one or more post-dose time points.
+Patients who tested positive for treatment-emergent ADA had decreased systemic atezolizumab exposure [see Clinical Pharmacology (12.3)].
+There are insufficient numbers of patients in the PD-L1 positive subgroup with ADA to determine whether ADA alters the efficacy of atezolizumab.
+The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.

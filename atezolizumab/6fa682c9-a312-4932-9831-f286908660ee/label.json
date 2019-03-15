@@ -1,12 +1,15 @@
 {
   "application_numbers": [
-    "BLA761034"
+    "BLA761034",
+    "BLA761041"
   ],
   "inn": "atezolizumab",
   "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "50242-917-01",
-    "50242-917-86"
+    "50242-917-86",
+    "50242-918-01",
+    "50242-918-86"
   ],
   "products": [
     {

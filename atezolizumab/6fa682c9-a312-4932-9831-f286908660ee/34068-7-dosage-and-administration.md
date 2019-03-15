@@ -1,10 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Selection of Cisplatin-Ineligible Patients with Locally Advanced or Metastatic Urothelial Carcinoma
+## 2.1 Patient Selection for Treatment of Urothelial Carcinoma and Triple-Negative Breast Cancer
 
 Select cisplatin-ineligible patients with previously untreated locally advanced or metastatic urothelial carcinoma for treatment with TECENTRIQ based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 
-Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma is available at: http://www.fda.gov/CompanionDiagnostics
+Select patients with locally advanced or metastatic triple-negative breast cancer for treatment with TECENTRIQ in combination with paclitaxel protein-bound based on the PD-L1 expression on tumor infiltrating immune cells [see Clinical Studies (14.3)].
+
+Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma or triple-negative breast cancer are available at: http://www.fda.gov/CompanionDiagnostics
 
 ## 2.2 Recommended Dosage for TECENTRIQ for Locally Advanced or Metastatic Urothelial Carcinoma or Previously Treated NSCLC
 
@@ -21,7 +23,17 @@ After completion of chemotherapy, administer TECENTRIQ 1200 mg intravenously, fo
 
 Refer to the Prescribing Information for bevacizumab, paclitaxel, and carboplatin for recommended dosing information.
 
-## 2.4 Dosage Modifications for Adverse Reactions
+## 2.4 Recommended Dosage for TECENTRIQ for Locally Advanced or Metastatic TNBC
+
+The recommended dosage of TECENTRIQ is 840 mg administered as an intravenous infusion over 60 minutes, followed by 100 mg/m2 paclitaxel protein-bound.
+
+For each 28 day cycle, TECENTRIQ is administered on days 1 and 15, and paclitaxel protein-bound is administered on days 1, 8, and 15 until disease progression or unacceptable toxicity.
+
+TECENTRIQ and paclitaxel protein-bound may be discontinued for toxicity independently of each other.
+If the first infusion is tolerated, all subsequent infusions of TECENTRIQ may be delivered over 30 minutes.
+See also the prescribing information for paclitaxel protein-bound prior to initiation.
+
+## 2.5 Dosage Modifications for Adverse Reactions
 
 No dose reductions of TECENTRIQ are recommended.
 Recommendations for dosage modifications are provided in Table 1.
@@ -46,7 +58,7 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions
 | Inability to taper corticosteroid | Inability to reduce to less than or equal to prednisone 10 mg per day (or equivalent) within 12 weeks after last TECENTRIQ dose | Permanently discontinue |
 | Recurrent Grade 3 or 4 adverse reaction | Recurrent Grade 3 or 4 (severe or life-threatening) adverse reaction | Permanently discontinue |
 
-## 2.5 Preparation and Administration
+## 2.6 Preparation and Administration
 
 Preparation
 
@@ -56,9 +68,10 @@ Do not shake the vial.
 
 Prepare the solution for infusion as follows:
 
-- Withdraw 20 mL of TECENTRIQ from the vial.
+- Select the appropriate vial(s) based on the prescribed dose.
+- Withdraw the required volume of TECENTRIQ from the vial(s).
 - Dilute into a 250 mL polyvinyl chloride (PVC), polyethylene (PE), or polyolefin (PO) infusion bag containing 0.9% Sodium Chloride Injection, USP.
-- Dilute with 0.9% Sodium Chloride Injection only.
+- Dilute with only 0.9% Sodium Chloride Injection, USP.
 - Mix diluted solution by gentle inversion.
   Do not shake.
 - Discard used or empty vials of TECENTRIQ.

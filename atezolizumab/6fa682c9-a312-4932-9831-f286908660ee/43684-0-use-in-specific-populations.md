@@ -61,3 +61,6 @@ No overall differences in safety or efficacy were observed between patients 65 y
 
 Of the 119 cisplatin-ineligible patients with urothelial carcinoma treated with TECENTRIQ as a single-agent in IMvigor210 (Cohort 1), 83% were 65 years or older and 41% were 75 years or older.
 No overall differences in safety or efficacy were observed between these patients and younger patients.
+
+Of the 452 patients with TNBC treated with TECENTRIQ in combination with paclitaxel protein-bound in IMpassion130, 23% were 65 years or older.
+No overall differences in safety or efficacy were observed between patients ≥ 65 years of age and younger patients.
