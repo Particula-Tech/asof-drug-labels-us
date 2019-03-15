@@ -1,5 +1,7 @@
 # 7 DRUG INTERACTIONS
 
-Patients who receive anthracycline after stopping Herceptin may be at increased risk of cardiac dysfunction because of trastuzumab's long washout period based on population PK analysis [see Clinical Pharmacology (12.3)].
-If possible, physicians should avoid anthracycline-based therapy for up to 7 months after stopping Herceptin.
-If anthracyclines are used, the patient's cardiac function should be monitored carefully.
+Anthracyclines
+
+Patients who receive anthracycline after stopping HERCEPTIN HYLECTA may be at increased risk of cardiac dysfunction because of HERCEPTIN HYLECTA's estimated long washout period [see Clinical Pharmacology (12.3)].
+If possible, avoid anthracycline-based therapy for up to 7 months after stopping HERCEPTIN HYLECTA.
+If anthracyclines are used, carefully monitor the patient's cardiac function.
