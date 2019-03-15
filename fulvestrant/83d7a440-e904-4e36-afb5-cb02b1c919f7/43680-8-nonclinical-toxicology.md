@@ -4,12 +4,12 @@
 
 Two-year carcinogenesis studies were conducted in rats and mice.
 Positive findings were observed in both species.
-Rats were treated at intramuscular doses of 15 mg/kg/30 days, 10 mg/rat/30 days, and 10 mg/rat/15 days.
+Rats were treated at intramuscular doses of 15 mg/kg/30 days, 10 mg/rat/30 days and 10 mg/rat/15 days.
 
 These doses correspond to 0.9-, 1.5-, and 3-fold (in females) and 0.8-, 0.8-, and 2-fold (in males) the systemic exposure [AUC0-30 days] achieved in women receiving the recommended dose of 500 mg/month.
 An increased incidence of benign ovarian granulosa cell tumors and testicular Leydig cell tumors was evident, in females dosed at 10 mg/rat/15 days and males dosed at 15 mg/rat/30 days, respectively.
-Mice were treated at oral doses of 0, 20, 150, and 500 mg/kg/day.
-These doses correspond to 0, 0.8-, 8.4-, and 18 -fold (in females) and 0.8-, 7.1-, and 11.9- fold (in males), the systemic exposure (AUC0-30 days) achieved in women receiving the recommended dose of 500 mg/month.
+Mice were treated at oral doses of 0, 20, 150 and 500 mg/kg/day.
+These doses correspond to 0, 0.8, 8.4 and 18 -fold (in females) and 0.8-, 7.1- and 11.9- fold (in males), the systemic exposure (AUC0-30 days) achieved in women receiving the recommended dose of 500 mg/month.
 There was an increased incidence of sex cord stromal tumors (both benign and malignant) in the ovary of mice at doses of 150 and 500 mg/kg/day.
 Induction of such tumors is consistent with the pharmacology-related endocrine feedback alterations in gonadotropin levels caused by an antiestrogen.
 
@@ -21,4 +21,4 @@ Restoration of female fertility to values similar to controls was evident follow
 The effects of fulvestrant on the fertility of female rats appear to be consistent with its antiestrogenic activity.
 The potential effects of fulvestrant on the fertility of male animals were not studied, but in a 6-month toxicology study, male rats treated with intramuscular doses of 15 mg/kg/30 days, 10 mg/rat/30 days, or 10 mg/rat/15 days fulvestrant showed a loss of spermatozoa from the seminiferous tubules, seminiferous tubular atrophy, and degenerative changes in the epididymides.
 Changes in the testes and epididymides had not recovered 20 weeks after cessation of dosing.
-These fulvestrant doses correspond to 1.3-, 1.2-, and 3.5-fold the systemic exposure [AUC0-30 days] achieved in women receiving the recommended dose of 500 mg/month.
+These fulvestrant doses correspond to 1.3-, 1.2- and 3.5-fold the systemic exposure [AUC0-30 days] achieved in women receiving the recommended dose of 500 mg/month.

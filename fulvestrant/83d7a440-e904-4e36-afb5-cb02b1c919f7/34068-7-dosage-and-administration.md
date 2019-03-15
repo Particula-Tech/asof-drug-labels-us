@@ -4,21 +4,24 @@
 
 Monotherapy
 
-The recommended dose of FASLODEX is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29, and once monthly thereafter [see Clinical Studies (14)].
+The recommended dose of FASLODEX is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
 
 Combination Therapy
 
-When FASLODEX is used in combination with palbociclib or abemaciclib, the recommended dose of FASLODEX is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29, and once monthly thereafter.
+When FASLODEX is used in combination with palbociclib, abemaciclib, or ribociclib, the recommended dose of FASLODEX is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29 and once monthly thereafter.
 
 When FASLODEX is used in combination with palbociclib, the recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days.
 Palbociclib should be taken with food.
-Please refer to the Full Prescribing Information for palbociclib.
+Refer to the Full Prescribing Information for palbociclib.
 
 When FASLODEX is used in combination with abemaciclib, the recommended dose of abemaciclib is 150 mg orally, twice daily.
 Abemaciclib may be taken with or without food.
-Please refer to the Full Prescribing Information for abemaciclib.
+Refer to the Full Prescribing Information for abemaciclib.
 
-Pre/perimenopausal women treated with the combination of FASLODEX plus palbociclib or abemaciclib should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
+When FASLODEX is used in combination with ribociclib, the recommended dose of ribociclib is 600 mg taken orally, once daily for 21 consecutive days followed by 7 days off treatment resulting in a complete cycle of 28 days.Ribociclib can be taken with or without food.
+Refer to the Full Prescribing Information for ribociclib.
+
+Pre/perimenopausal women treated with the combination of FASLODEX plus palbociclib, abemaciclib, or ribociclib, should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
 
 ## 2.2 Dose Modification
 
@@ -32,9 +35,9 @@ FASLODEX has not been evaluated in patients with severe hepatic impairment (Chil
 
 Combination Therapy
 
-When FASLODEX is used in combination with palbociclib or abemaciclib refer to monotherapy dose modification instructions for FASLODEX.
+When FASLODEX is used in combination with palbociclib, abemaciclib, or ribociclib, refer to monotherapy dose modification instructions for FASLODEX.
 
-Refer to the Full Prescribing Information of co-administered palbociclib or abemaciclib for dose modification guidelines in the event of toxicities, for use with concomitant medications, and other relevant safety information.
+Refer to the Full Prescribing Information of co-administered palbociclib, abemaciclib, or ribociclib for dose modification guidelines in the event of toxicities, for use with concomitant medications, and other relevant safety information.
 
 ## 2.3 Administration Technique
 
@@ -55,25 +58,21 @@ For each syringe:
    With the other hand, take hold of the cap (A) and carefully tilt cap back and forth (DO NOT TWIST CAP) until the cap disconnects for removal (see Figure 1).
 6. 6.Pull the cap (A) off in a straight upward direction.
    DO NOT TOUCH THE STERILE SYRINGE TIP (Luer-Lok) (B) (see Figure 2).
-7. 
-8. 7.Attach the safety needle to the syringe tip (Luer-Lok).
+7. 7.Attach the safety needle to the syringe tip (Luer-Lok).
    Twist needle until firmly seated (see Figure 3).
    Confirm that the needle is locked to the Luer connector before moving or tilting the syringe out of the vertical plane to avoid spillage of syringe contents.
-9. 
-10. For Administration:
-11. 8.Pull shield straight off needle to avoid damaging needle point.
-12. 9.Remove needle sheath.
-13. 10.Expel excess gas from the syringe (a small gas bubble may remain).
-14. 11.Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area).
+8. For Administration:
+9. 8.Pull shield straight off needle to avoid damaging needle point.
+10. 9.Remove needle sheath.
+11. 10.Expel excess gas from the syringe (a small gas bubble may remain).
+12. 11.Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area).
     For user convenience, the needle ‘bevel up’ position is orientated to the lever arm, as shown in Figure 4.
-15. 
-16. 12.After injection, immediately activate the lever arm to deploy the needle shielding by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward.
+13. 12.After injection, immediately activate the lever arm to deploy the needle shielding by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward.
     Listen for a click.
     Confirm that the needle shielding has completely covered the needle (see Figure 5).
-17. NOTE: Activate away from self and others.
-18. 
-19. 13.Discard the empty single use syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
-20. 14.Repeat steps 1 through 13 for second syringe.
+    NOTE: Activate away from self and others.
+14. 13.Discard the empty single use syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
+15. 14.Repeat steps 1 through 13 for second syringe.
 
 How To Use FASLODEX
 
@@ -90,4 +89,4 @@ Hands must remain behind the needle at all times during use and disposal.
 
 Do not autoclave SafetyGlide™ Needle before use.
 
-Becton Dickinson guarantees the contents of their unopened or undamaged packages to be sterile, non-toxic, and non-pyrogenic.
+Becton Dickinson guarantees the contents of their unopened or undamaged packages to be sterile, non-toxic and non-pyrogenic.

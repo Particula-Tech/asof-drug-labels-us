@@ -66,7 +66,7 @@ The median age at informed consent was 6 years old (range: 1 to 8).
 The first 10 patients initially received fulvestrant 2 mg/kg.
 Based on PK data from the first 6 patients, all 10 patients receiving 2 mg/kg were escalated to a dose of 4 mg/kg and all other patients received 4 mg/kg from study entry.
 
-Baseline measurements for vaginal bleeding days, bone age, growth velocity, and Tanner staging for at least 6 months prior to study entry were provided retrospectively by the parent, guardian, or local consultant.
+Baseline measurements for vaginal bleeding days, bone age, growth velocity, and Tanner staging for at least 6 months prior to study entry were provided retrospectively by the parent, guardian or local consultant.
 All measurements during the study period were collected prospectively.
 Patients’ baseline characteristics included the following: a mean ± SD chronological age of 5.9 ± 1.8 years; a mean rate of bone age advancement (change in bone age in years divided by change in chronological age in years) of 2.0 ± 1.03; and a mean growth velocity z-score of 2.4 ± 3.26.
 
