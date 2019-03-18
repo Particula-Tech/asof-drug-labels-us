@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208800"
+  ],
+  "inn": "deferiprone",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-4196-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "deferiprone",
+      "name": "Deferiprone"
+    }
+  ],
+  "setid": "5af1643d-4c6e-4668-ae9b-1046f0ad6d8a",
+  "source": "dailymed"
+}
