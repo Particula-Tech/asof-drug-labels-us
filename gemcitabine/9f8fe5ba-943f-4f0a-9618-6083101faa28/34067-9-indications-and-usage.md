@@ -10,9 +10,9 @@ Gemcitabine for Injection, USP in combination with paclitaxel is indicated for t
 
 ## 1.3 Non-Small Cell Lung Cancer
 
-Gemcitabine for Injection, USP is indicated in combination with cisplatin for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB), or metastatic (Stage IV) non-small cell lung cancer.
+Gemcitabine for Injection, USP in combination with cisplatin is indicated for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB) or metastatic (Stage IV) non-small cell lung cancer.
 
 ## 1.4 Pancreatic Cancer
 
 Gemcitabine for Injection, USP is indicated as first-line treatment for patients with locally advanced (nonresectable Stage II or Stage III) or metastatic (Stage IV) adenocarcinoma of the pancreas.
-Gemcitabine for Injection, USP is indicated for patients previously treated with 5-FU.
+Gemcitabine for Injection, USP is indicated for patients previously treated with fluorouracil.
