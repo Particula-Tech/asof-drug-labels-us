@@ -14,7 +14,7 @@ The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study was a 
 Fenofibrate demonstrated a non-significant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75 to 1.05, p=0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.80 to 0.99], p=0.04).
 There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.18) and 19% (HR 1.19 [0.90, 1.57], p=0.22) increase in total and coronary heart disease mortality, respectively, with fenofibrate as compared to placebo.
 
-Because of chemical, pharmacological, and clinical similarities between fenofibrate tablets, clofibrate, and gemfibrozil, the adverse findings in 4 large randomized, placebo- controlled clinical studies with these other fibrate drugs may also apply to fenofibrate tablets.
+Because of chemical, pharmacological, and clinical similarities between fenofibrate tablets, clofibrate, and gemfibrozil, the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to fenofibrate tablets.
 
 In the Coronary Drug Project, a large study of post myocardial infarction of patients treated for 5 years with clofibrate, there was no difference in mortality seen between the clofibrate group and the placebo group.
 There was however, a difference in the rate of cholelithiasis and cholecystitis requiring surgery between the two groups (3.0% vs. 1.8%).
@@ -48,7 +48,7 @@ CPK levels should be assessed in patients reporting these symptoms, and fenofibr
 Data from observational studies indicate that the risk for rhabdomyolysis is increased when fibrates, in particular gemfibrozil, are co-administered with an HMG-CoA reductase inhibitor (statin).
 The combination should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination [see Clinical Pharmacology (12.3)].
 
-Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co­ administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
+Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-­administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
 
 ## 5.3 Liver Function
 
@@ -90,7 +90,7 @@ This occurrence may represent a failure of efficacy in patients with severe hype
 ## 5.8 Hematologic Changes
 
 Mild to moderate hemoglobin, hematocrit, and white blood cell decreases have been observed in patients following initiation of fenofibrate therapy.
-However, these levels stabilize during long- term administration.
+However, these levels stabilize during long-term administration.
 Thrombocytopenia and agranulocytosis have been reported in individuals treated with fenofibrate.
 Periodic monitoring of red and white blood cell counts are recommended during the first 12 months of fenofibrate tablets administration.
 
@@ -104,16 +104,15 @@ If a patient develops signs or symptoms of an acute hypersensitivity reaction, a
 
 Delayed Hypersensitivity
 
-Sever cutaneous adverse drug reactions (SCAR), including Stevens-Johnson Syndrome.
-Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported postmarketing, occurring days to weeks after initiation of fenofibrate.
-The cases of DRESS were associated with cutaneous reactions (such as rash or exfoliative dermatitis) and a combination of eosinophilia, fever, system organ involvement (renal, hepatic, or respiratory).
+Severe cutaneous adverse drug reactions (SCAR), including Stevens-Johnson syndrome, toxic epidermal necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported postmarketing, occurring days to weeks after initiation of fenofibrate.
+The cases of DRESS were associated with cutaneous reactions (such as rash or exfoliative dermatitis) and a combination of eosinophilia, fever, systemic organ involvement (renal, hepatic, or respiratory).
 Discontinue fenofibrate and treat patients appropriately if SCAR is suspected.
 
 ## 5.10 Venothromboembolic Disease
 
 In the FIELD trial, pulmonary embolus (PE) and deep vein thrombosis (DVT) were observed at higher rates in the fenofibrate- than the placebo-treated group.
 Of 9,795 patients enrolled in FIELD, there were 4,900 in the placebo group and 4,895 in the fenofibrate group.
-For DVT,there were 48 events (1%) in the placebo group and 67 (1%) in the fenofibrate group (p = 0.074); and for PE, there were 32 (0.7%) events in the placebo group and 53 (1%) in the fenofibrate group (p = 0.022).
+For DVT, there were 48 events (1%) in the placebo group and 67 (1%) in the fenofibrate group (p = 0.074); and for PE, there were 32 (0.7%) events in the placebo group and 53 (1%) in the fenofibrate group (p = 0.022).
 
 In the Coronary Drug Project, a higher proportion of the clofibrate group experienced definite or suspected fatal or nonfatal pulmonary embolism or thrombophlebitis than the placebo group (5.2% vs. 3.3% at five years; p < 0.01).
 
