@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020031"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-4517-3",
+    "60505-4518-3",
+    "60505-4519-3",
+    "60505-4520-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "paroxetine hydrochloride",
+      "name": "PAXIL"
+    }
+  ],
+  "setid": "ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e",
+  "source": "dailymed"
+}
