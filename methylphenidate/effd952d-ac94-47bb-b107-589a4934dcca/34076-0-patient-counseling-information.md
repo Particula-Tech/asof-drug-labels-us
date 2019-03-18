@@ -47,4 +47,4 @@ Consumption of alcohol while taking Ritalin LA may result in a more rapid releas
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2019-13
+T2019-13B
