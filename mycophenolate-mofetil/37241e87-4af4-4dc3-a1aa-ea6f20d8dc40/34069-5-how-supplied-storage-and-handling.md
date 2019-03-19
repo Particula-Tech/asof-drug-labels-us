@@ -6,7 +6,7 @@ Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans [see 
 CELLCEPT tablets should not be crushed and CELLCEPT capsules should not be opened or crushed.
 Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in CELLCEPT capsules, CELLCEPT Oral Suspension (before or after constitution), or CELLCEPT Intravenous (during or after preparation) [see Dosage and Administration (2.6)].
-Follow applicable special handling and disposable procedures1.
+Follow applicable special handling and disposal procedures1.
 
 ## 16.2 CELLCEPT (mycophenolate mofetil capsules) 250 mg
 

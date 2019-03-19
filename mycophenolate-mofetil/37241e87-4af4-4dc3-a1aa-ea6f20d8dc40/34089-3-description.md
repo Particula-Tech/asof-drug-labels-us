@@ -32,4 +32,4 @@ CELLCEPT Intravenous is available as a sterile white to off-white lyophilized po
 Each vial of CELLCEPT Intravenous contains the equivalent of 500 mg MMF as the hydrochloride salt.
 The inactive ingredients are polysorbate 80, 25 mg, and citric acid, 5 mg.
 Sodium hydroxide may have been used in the manufacture of CELLCEPT Intravenous to adjust the pH.
-Reconstitution and dilution with 5% Dextrose Injection USP yields a slightly yellow solution of MMF, 6 mg/mL [see Dosage and administration (2.6)].
+Reconstitution and dilution with 5% Dextrose Injection USP yields a slightly yellow solution of MMF, 6 mg/mL [see Dosage and Administration (2.6)].

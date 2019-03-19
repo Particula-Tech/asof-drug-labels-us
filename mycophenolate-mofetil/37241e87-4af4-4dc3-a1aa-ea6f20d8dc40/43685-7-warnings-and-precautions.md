@@ -12,7 +12,9 @@ Patients receiving immunosuppressants, including CELLCEPT, are at increased risk
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 For patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
-Post-transplant lymphoproliferative disorder (PTLD) developed in 0.4% to 1% of patients receiving CELLCEPT (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of kidney, heart, and liver transplant patients [see Adverse Reactions (6.1)].
+Post-transplant lymphoproliferative disorder (PTLD) developed in 0.4% to 1% of patients receiving CELLCEPT (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients [see Adverse Reactions (6.1)].
+The majority of PTLD cases appear to be related to Epstein Barr Virus (EBV) infection.
+The risk of PTLD appears greatest in those individuals who are EBV seronegative, a population which includes many young children.
 In pediatric patients, no other malignancies besides PTLD were observed in clinical trials [see Adverse Reactions (6.1)].
 
 ## 5.3 Serious Infections
@@ -53,7 +55,7 @@ If neutropenia develops (ANC <1.3 × 103/µL), dosing with CELLCEPT should be in
 
 Patients receiving CELLCEPT should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 
-Consider monitoring with complete blood counts weekly for the first month, twice monthly for the second and third months and, monthly for the remainder of the first year.
+Consider monitoring with complete blood counts weekly for the first month, twice monthly for the second and third months, and monthly for the remainder of the first year.
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CELLCEPT in combination with other immunosuppressive agents.
 In some cases, PRCA was found to be reversible with dose reduction or cessation of CELLCEPT therapy.
@@ -90,3 +92,13 @@ Patients should not donate blood during therapy and for at least 6 weeks followi
 ## 5.11 Semen Donation
 
 Based on animal data, men should not donate semen during therapy and for 90 days following discontinuation of CELLCEPT [see Use In Specific Populations (8.3)].
+
+## 5.12 Effect of Concomitant Medications on Mycophenolic Acid Concentrations
+
+A variety of drugs have potential to alter systemic MPA exposure when co-administered with CELLCEPT.
+Therefore, determination of MPA concentrations in plasma before and after making any changes to immunosuppressive therapy, or when adding or discontinuing concomitant medications, may be appropriate to ensure MPA concentrations remain stable.
+
+## 5.13 Potential Impairment of Ability to Drive or Operate Machinery
+
+CELLCEPT may impact the ability to drive and use machines.
+Patients should avoid driving or using machines if they experience somnolence, confusion, dizziness, tremor, or hypotension during treatment with CELLCEPT [see Adverse Reactions (6.1)].

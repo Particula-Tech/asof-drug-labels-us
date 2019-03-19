@@ -2,6 +2,8 @@
 
 ## 2.1 Important Administration Instructions
 
+CELLCEPT should not be used without the supervision of a physician with experience in immunosuppressive therapy.
+
 CELLCEPT Capsules, Tablets and Oral Suspension
 
 CELLCEPT oral dosage forms (capsules, tablets or oral suspension) should not be used interchangeably with mycophenolic acid delayed-release tablets without supervision of a physician with experience in immunosuppressive therapy because the rates of absorption following the administration of CELLCEPT oral dosage forms and mycophenolic acid delayed-release tablets are not equivalent.
@@ -13,7 +15,7 @@ In case of ocular contact, rinse eyes with plain water.
 
 The initial oral dose of CELLCEPT should be given as soon as possible following kidney, heart or liver transplant.
 It is recommended that CELLCEPT be administered on an empty stomach.
-In stable transplant patients, however CELLCEPT may be administered with food if necessary [see Clinical Pharmacology (12.3)].
+In stable transplant patients, however, CELLCEPT may be administered with food if necessary [see Clinical Pharmacology (12.3)].
 Once reconstituted, CELLCEPT Oral Suspension must not be mixed with any liquids prior to dose administration.
 If needed, CELLCEPT Oral Suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
 
@@ -23,7 +25,7 @@ CELLCEPT Intravenous
 
 CELLCEPT Intravenous is recommended for patients unable to take oral CELLCEPT.
 CELLCEPT Intravenous should be administered within 24 hours following transplant.
-CELLCEPT Intravenous can be administered for up to 14 days; however patients should be switched to oral CELLCEPT as soon as they can tolerate oral medication.
+CELLCEPT Intravenous can be administered for up to 14 days; however, patients should be switched to oral CELLCEPT as soon as they can tolerate oral medication.
 
 CELLCEPT Intravenous must be reconstituted before use [see Dosage and Administration (2.6)].CELLCEPT Intravenous is incompatible with other intravenous infusion solutions and should not be mixed or administered concurrently via the same infusion catheter with other intravenous drugs or infusion admixtures.
 
@@ -115,7 +117,7 @@ Before proceeding with the preparation steps for CELLCEPT Intravenous read the g
 
 - CELLCEPT Intravenous does not contain an antibacterial preservative; therefore, reconstitution and dilution of the product must be performed under aseptic conditions.
 - This product is sealed under vacuum and should retain a vacuum throughout its shelf life.
-  If a lack of vacuum in the vial is noted while adding diluent, the vial should not be used.
+  If a lack of vacuum in the vial is noted while adding the diluent, the vial should not be used.
 
 CELLCEPT Intravenous must be reconstituted and further diluted.
 A detailed description of the preparation is given below.

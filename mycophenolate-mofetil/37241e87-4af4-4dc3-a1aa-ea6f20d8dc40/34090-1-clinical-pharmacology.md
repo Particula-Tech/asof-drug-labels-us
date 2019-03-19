@@ -24,15 +24,16 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg CELLCEPT tablets have been shown to be bioequivalent to four 250 mg CELLCEPT capsules.
 Five mL of the 200 mg/mL constituted CELLCEPT oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (± SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients are show in Table 9.The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5 g twice daily) (see Table 9).
+The mean (± SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients are shown in Table 8.
+The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5 g twice daily) (see Table 8).
 
-Table 9.
+Table 8.
 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
 | Healthy Volunteers | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Total AUC (mcg∙h/mL) |
 | --- | --- | --- | --- | --- |
 | Single dose | 1 g/oral | 0.80 (±0.36) (n=129) | 24.5 (±9.5) (n=129) | 63.9 (±16.2) (n=117) |
-| Kidney Transplant Patients (twice dail6y dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h) (mcg∙h/mL) |
+| Kidney Transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h) (mcg∙h/mL) |
 | 5 days | 1 g/iv | 1.58 (±0.46) (n=31) | 12.0 (±3.82) (n=31) | 40.8 (±11.4) (n=31) |
 | 6 days | 1 g/oral | 1.33 (±1.05) (n=31) | 10.7 (±4.83) (n=31) | 32.9 (±15.0) (n=31) |
 | Early (Less than 40 days) | 1 g/oral | 1.31 (±0.76) (n=25) | 8.16 (±4.50) (n=25) | 27.3 (±10.9) (n=25) |
@@ -59,7 +60,7 @@ However, MPA Cmax was decreased by 40% in the presence of food [see Dosage and A
 
 Distribution
 
-The mean (±SD) apparent volume of distribution of MPA in 12 healthy volunteers is approximately 3.6 (±1.5) L/kg.
+The mean (±SD) apparent volume of distribution of MPA in 12 healthy volunteers was approximately 3.6 (±1.5) L/kg.
 At clinically relevant concentrations, MPA is 97% bound to plasma albumin.
 The phenolic glucuronide metabolite of MPA (MPAG) is 82% bound to plasma albumin at MPAG concentration ranges that are normally seen in stable kidney transplant patients; however, at higher MPAG concentrations (observed in patients with kidney impairment or delayed kidney graft function), the binding of MPA may be reduced as a result of competition between MPAG and MPA for protein binding.
 Mean blood to plasma ratio of radioactivity concentrations was approximately 0.6 indicating that MPA and MPAG do not extensively distribute into the cellular fractions of blood.
@@ -73,7 +74,7 @@ Mean (±SD) apparent half-life and plasma clearance of MPA are 17.9 (±6.5) hour
 
 Metabolism
 
-The parent drug, MMF, can be measured systemically during the intravenous infusion; however, approximately 5 minutes after the infusion is stopped or after oral administration, MMF concentration are below the limit of quantitation (0.4 mcg/mL).
+The parent drug, MMF, can be measured systemically during the intravenous infusion; however, approximately 5 minutes after the infusion is stopped or after oral administration, MMF concentrations are below the limit of quantitation (0.4 mcg/mL).
 
 Metabolism to MPA occurs pre-systemically after oral dosing.
 MPA is metabolized principally by glucuronyl transferase to form MPAG, which is not pharmacologically active.
@@ -97,7 +98,7 @@ Specific Populations
 
 Patients with Renal Impairment
 
-The mean (±SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with renal impairment are presented in Table 10.
+The mean (±SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with renal impairment are presented in Table 9.
 
 In a single-dose study, MMF was administered as a capsule or as an intravenous infusion over 40 minutes.
 Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was about 75% higher relative to that observed in healthy volunteers (GFR >80 mL/min/1.73 m2).
@@ -123,14 +124,14 @@ At high concentrations of MPAG (>100 mcg/mL), hemodialysis removes only small am
 
 Patients with Hepatic Impairment
 
-The mean (± SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with hepatic impairment is presented in Table 10.
+The mean (± SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with hepatic impairment is presented in Table 9.
 
 In a single-dose (1 g oral) study of 18 volunteers with alcoholic cirrhosis and 6 healthy volunteers, hepatic MPA glucuronidation processes appeared to be relatively unaffected by hepatic parenchymal disease when pharmacokinetic parameters of healthy volunteers and alcoholic cirrhosis patients within this study were compared.
 However, it should be noted that for unexplained reasons, the healthy volunteers in this study had about a 50% lower AUC as compared to healthy volunteers in other studies, thus making comparisons between volunteers with alcoholic cirrhosis and healthy volunteers difficult.
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg∙h/mL (±15.5).
 
-Table 10.
+Table 9.
 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
 | Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
@@ -148,10 +149,10 @@ Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF C
 Pediatric Patients
 
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving CELLCEPT oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
-The pharmacokinetic data for MPA is provided in Table 11.
+The pharmacokinetic data for MPA is provided in Table 10.
 
-Table 11.
-Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Renal Transplantation
+Table 10.
+Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Kidney Transplantation
 
 | Age Group | (n) | Time | Tmax (h) |  | Dose Adjustedadjusted to a dose of 600 mg/m2 Cmax (mcg/mL) |  | Dose Adjusted AUC0-12 (mcg∙h/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -186,7 +187,7 @@ Geriatric Patients
 
 The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in elderly transplant patients when compared to younger transplant patients.
 
-Drug Interactions Studies
+Drug Interaction Studies
 
 Acyclovir
 
@@ -214,7 +215,7 @@ Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) wer
 The mean (±SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple doses of MMF were 3290 (±822) ng∙h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng∙h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of MMF.
 
 Cyclosporine A interferes with MPA enterohepatic recirculation.
-In kidney transplant patients, mean MPA exposure (AUC(0-12h)) was approximately 30-50% greater when MMF was administered without cyclosporine compared with when MMF is coadministered with cyclosporine.
+In kidney transplant patients, mean MPA exposure (AUC(0-12h)) was approximately 30-50% greater when MMF was administered without cyclosporine compared with when MMF was coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
 This information should be taken into consideration when MMF is used without cyclosporine.
 
@@ -251,7 +252,7 @@ Information concerning antibiotics is as follows:
   The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) mcg∙h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) mcg∙h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
 - Norfloxacin and Metronidazole: Following single-dose administration of MMF (1 g) to 11 healthy volunteers on day 4 of a 5-day course of a combination of norfloxacin and metronidazole, the mean MPA AUC(0-48h) was significantly reduced by 33% compared to the administration of MMF alone (p<0.05).
   The mean (±SD) MPA AUC(0-48h) after coadministration of MMF with norfloxacin or metronidazole separately was 48.3 (±24) mcg∙h/mL and 42.7 (±23) mcg∙h/mL, respectively, compared with 56.2 (±24) mcg∙h/mL after administration of MMF alone.
-- Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 CELLCEPT-treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three time daily for 7 or at least 14 days, respectively.
+- Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 CELLCEPT-treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
   Approximately 50% reductions in median trough MPA concentrations (pre-dose) from baseline (CELLCEPT alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
   These reductions in trough MPA concentrations tended to diminish within 14 days of antimicrobial therapy and ceased within 3 days of discontinuation of antibiotics.
 - Rifampin: In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC(0-12h)) has been observed with concomitant administration of MMF and rifampin.

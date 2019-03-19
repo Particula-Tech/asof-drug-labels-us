@@ -6,16 +6,16 @@ Adults
 
 The three de novo kidney transplantation studies compared two dose levels of oral CELLCEPT (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) to prevent acute rejection episodes.
 One of the two studies with azathioprine (AZA) control arm also included anti-thymocyte globulin (ATGAM®) induction therapy.
-The geographic location of the investigational sites of these studies are included in Table 12.
+The geographic location of the investigational sites of these studies are included in Table 11.
 
 In all three de novo kidney transplantation studies, the primary efficacy endpoint was the proportion of patients in each treatment group who experienced treatment failure within the first 6 months after transplantation.
 Treatment failure was defined as biopsy-proven acute rejection on treatment or the occurrence of death, graft loss or early termination from the study for any reason without prior biopsy-proven rejection.
 
-CELLCEPT, in combination with corticosteroids and cyclosporine, reduced (statistically significant at 0.05 level) the incidence of treatment failure within the first 6 months following transplantation (Table 12).
-Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 13.
+CELLCEPT, in combination with corticosteroids and cyclosporine, reduced (statistically significant at 0.05 level) the incidence of treatment failure within the first 6 months following transplantation (Table 11).
+Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 12.
 Patients who prematurely discontinued treatment were not followed for the occurrence of acute rejection after termination.
 
-Table 12.
+Table 11.
 Treatment Failure in De Novo Kidney Transplantation Studies
 
 | USA Study | CELLCEPT 2 g/day | CELLCEPT 3 g/day | AZA 1 to 2 mg/kg/day |
@@ -39,12 +39,12 @@ Treatment Failure in De Novo Kidney Transplantation Studies
 | Biopsy-proven rejection episode on treatment | 17.0% | 13.8% | 46.4% |
 | *Does not include death and graft loss as reason for early termination. |  |  |  |
 
-No advantage of CELLCEPT at 12 months with respect to graft loss or patient death (combined) was established (Table 13).
+No advantage of CELLCEPT at 12 months with respect to graft loss or patient death (combined) was established (Table 12).
 Numerically, patients receiving CELLCEPT 2 g/day and 3 g/day experienced a better outcome than controls in all three studies; patients receiving CELLCEPT 2 g/day experienced a better outcome than CELLCEPT 3 g/day in two of the three studies.
 Patients in all treatment groups who terminated treatment early were found to have a poor outcome with respect to graft loss or patient death at 1 year.
 
-Table 13.
-De Novo Kidney Transplantation StudiesCumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
+Table 12.
+De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
 
 | Study | CELLCEPT 2 g/day | CELLCEPT 3 g/day | Control (AZA or Placebo) |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ One open-label, safety and pharmacokinetic study of CELLCEPT oral suspension 600
 CELLCEPT was well tolerated in pediatric patients [see Adverse Reactions (6.1)], and the pharmacokinetics profile was similar to that seen in adult patients dosed with 1 g twice daily CELLCEPT capsules [see Clinical Pharmacology (12.3)].
 The rate of biopsy-proven rejection was similar across the age groups (3 months to <6 years, 6 years to <12 years, 12 years to 18 years).
 The overall biopsy-proven rejection rate at 6 months was comparable to adults.
-The combined incidence of graft loss (5%) and patient death (2%) at 12 months post-transplant was similar to that observed in adult renal transplant patients.
+The combined incidence of graft loss (5%) and patient death (2%) at 12 months post-transplant was similar to that observed in adult kidney transplant patients.
 
 ## 14.2 Heart Transplantation
 
@@ -71,9 +71,9 @@ Patients who prematurely discontinued treatment were followed for the occurrence
 The analyses of the endpoints showed:
 
 - Rejection: No difference was established between CELLCEPT and AZA with respect to biopsy-proven rejection with hemodynamic compromise.
-- Survival: CELLCEPT was shown to be at least as effective as AZA in preventing death or re-transplantation at 1 year (see Table 14).
+- Survival: CELLCEPT was shown to be at least as effective as AZA in preventing death or re-transplantation at 1 year (see Table 13).
 
-Table 14.
+Table 13.
 De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
 
 |  | AZA N = 323 | CELLCEPT N = 327 | AZA N = 289 | CELLCEPT N = 289 |
@@ -91,9 +91,9 @@ The actual median oral dose of AZA on study was 1.5 mg/kg/day (range of 0.3 to 3
 The two primary endpoints were: (1) the proportion of patients who experienced, in the first 6 months post-transplantation, one or more episodes of biopsy-proven and treated rejection or death or re-transplantation, and (2) the proportion of patients who experienced graft loss (death or re-transplantation) during the first 12 months post-transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection and for the occurrence of graft loss (death or re-transplantation) for 1 year.
 
-In combination with corticosteroids and cyclosporine, CELLCEPT demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 15).
+In combination with corticosteroids and cyclosporine, CELLCEPT demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 14).
 
-Table15.
+Table 14.
 De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
 
 |  | AZA N = 287 | CELLCEPT N = 278 |

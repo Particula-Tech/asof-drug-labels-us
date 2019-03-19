@@ -71,12 +71,13 @@ Contraception
 
 Female Patients
 
-Females of reproductive potential taking CELLCEPT must receive contraceptive counseling and use acceptable contraception (see Table 8 for acceptable contraception methods).
+Females of reproductive potential taking CELLCEPT must receive contraceptive counseling and use acceptable contraception (see Table 7 for acceptable contraception methods).
 Patients must use acceptable birth control during the entire CELLCEPT therapy, and for 6 weeks after stopping CELLCEPT, unless the patient chooses abstinence.
 
 Patients should be aware that CELLCEPT reduces blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 8 Acceptable Contraception Methods for Females of Reproductive Potential
+Table 7.
+Acceptable Contraception Methods for Females of Reproductive Potential
 
 | Pick from the following birth control options: |  |  |  |
 | --- | --- | --- | --- |
@@ -115,7 +116,7 @@ In general, dose selection for an elderly patient should take into consideration
 Patients with Kidney Transplant
 
 No dose adjustments are needed in kidney transplant patients experiencing delayed graft function postoperatively but patients should be carefully monitored [see Clinical Pharmacology (12.3)].
-In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m2), no dose adjustment are necessary; however, doses greater than 1 g administered twice a day should be avoided.
+In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m2), no dose adjustments are necessary; however, doses greater than 1 g administered twice a day should be avoided.
 
 Patients with Heart and Liver Transplant
 
