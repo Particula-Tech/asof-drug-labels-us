@@ -1,6 +1,6 @@
 # SPL PATIENT PACKAGE INSERT SECTION
 
-Oseltamivir Phosphate (OH-sel-TAM-i-vir FOS-fate) Capsules What are oseltamivir phosphate capsules?
+Oseltamivir Phosphate (OH-sel-TAM-i-vir FOS-fate) Capsules, for oral use What are oseltamivir phosphate capsules?
 Oseltamivir phosphate capsules are a prescription medicine used to: • treat the flu (influenza) in people 2 weeks of age and older who have had flu symptoms for no more than two days. • prevent the flu in people who are 1 year of age and older.
 It is not known if oseltamivir phosphate capsules are: • effective in people who start treatment after 2 days of developing flu symptoms. • effective for the treatment of the flu in people with long-time (chronic) heart problems or breathing problems. • effective for the treatment or prevention of flu in people who have weakened immune systems (immunocompromised) • safe and effective for the treatment of the flu in children less than 2 weeks of age. • safe and effective in the prevention of the flu in children less than 1 year of age.
 Oseltamivir phosphate capsules do not treat or prevent illness that is caused by infections other than the influenza virus.
@@ -64,7 +64,7 @@ Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised August 2016 This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised March 2019 This Patient Information has been approved by the U.S. Food and Drug Administration.
 INSTRUCTIONS FOR USE Oseltamivir Phosphate (OH-sel-TAM-i-vir FOS-fate) Capsules, for Oral Use How do I mix the contents of oseltamivir phosphate capsules with sweetened liquids, if directed by my healthcare provider or pharmacist?
 You will need: • the prescribed dose of oseltamivir phosphate capsules • a small bowl • sweetened liquid, such as chocolate syrup (regular or sugar-free), corn syrup, caramel topping, or light brown sugar (dissolved in water) Step 1.
 Open the contents of the prescribed dose of oseltamivir phosphate capsules into a small bowl.
@@ -73,4 +73,4 @@ Add a small amount of the sweetened liquid to the capsule contents.
 Step 3.
 Stir the mixture and give the entire dose of oseltamivir phosphate capsules.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised 10/2016 PM02470902
+Revised 03/2019 PM02470904
