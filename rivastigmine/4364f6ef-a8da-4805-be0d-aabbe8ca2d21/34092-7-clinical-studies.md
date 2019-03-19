@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Mild to Moderate Alzheimer's Disease The effectiveness of rivastigmine tartrate capsules as a treatment for Alzheimer's disease is demonstrated by the results of 2 randomized, double-blind, placebo-controlled clinical investigations (Study 1 and Study 2) in patients with Alzheimer's disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) ≥10 and ≤26, and the Global Deterioration Scale (GDS)].
+Mild-to-Moderate Alzheimer's Disease The effectiveness of rivastigmine tartrate capsules as a treatment for Alzheimer's disease is demonstrated by the results of 2 randomized, double-blind, placebo-controlled clinical investigations (Study 1 and Study 2) in patients with Alzheimer's disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) greater than or equal to 10 and less than or equal to 26, and the Global Deterioration Scale (GDS)].
 The mean age of patients participating in rivastigmine tartrate capsules trials was 73 years with a range of 41 to 95.
 Approximately 59% of patients were women and 41% were men.
 The racial distribution was Caucasian 87%, Black 4%, and other races 9%.
@@ -12,7 +12,7 @@ The ADAS-cog scoring range is from 0 to 70, with higher scores indicating greate
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
 
 The patients recruited as participants in each study had mean scores on ADAS-cog of approximately 23 units, with a range from 1 to 61.
-Experience gained in longitudinal studies of ambulatory patients with mild to moderate Alzheimer's disease suggests that they gain 6 to 12 units a year on the ADAS-cog.
+Experience gained in longitudinal studies of ambulatory patients with mild-to-moderate Alzheimer's disease suggests that they gain 6 to 12 units a year on the ADAS-cog.
 Lesser degrees of change, however, are seen in patients with very mild or very advanced disease because the ADAS-cog is not uniformly sensitive to change over the course of the disease.
 The annualized rate of decline in the placebo patients participating in rivastigmine tartrate capsules trials was approximately 3 to 8 units per year.
 
@@ -25,7 +25,7 @@ It represents the assessment of a skilled clinician using validated scales based
 The CIBIC-Plus is scored as a 7-point categorical rating, ranging from a score of 1, indicating "markedly improved," to a score of 4, indicating "no change" to a score of 7, indicating "marked worsening."
 The CIBIC-Plus has not been systematically compared directly to assessments not using information from caregivers or other global methods.
 
-U.S. 26-Week Study of rivastigmine tartrate capsules in Mild to Moderate Alzheimer's Disease (Study 1) In a study of 26 weeks duration, 699 patients were randomized to either a dose range of 1 mg to 4 mg or 6 mg to 12 mg of rivastigmine tartrate capsules per day or to placebo, each given in divided doses.
+U.S. 26-Week Study of rivastigmine tartrate capsules in Mild-to-Moderate Alzheimer's Disease (Study 1) In a study of 26 weeks duration, 699 patients were randomized to either a dose range of 1 mg to 4 mg or 6 mg to 12 mg of rivastigmine tartrate capsules per day or to placebo, each given in divided doses.
 The 26-week study was divided into a 12-week forced-dose titration phase and a 14-week maintenance phase.
 The patients in the active treatment arms of the study were maintained at their highest tolerated dose within the respective range.
 
@@ -50,7 +50,7 @@ The differences between the 6 mg to 12 mg per day and the 1 mg to 4 mg per day g
 
 Figure 3: Frequency Distribution of CIBIC-Plus Scores at Week 26 in Study 1
 
-Global 26-Week Study in Mild to Moderate Alzheimer's Disease (Study 2) In a second study of 26 weeks duration, 725 patients were randomized to either a dose range of 1 to 4 mg or 6 mg to 12 mg of rivastigmine tartrate capsules per day or to placebo, each given in divided doses.
+Global 26-Week Study in Mild-to-Moderate Alzheimer's Disease (Study 2) In a second study of 26 weeks duration, 725 patients were randomized to either a dose range of 1 to 4 mg or 6 mg to 12 mg of rivastigmine tartrate capsules per day or to placebo, each given in divided doses.
 The 26-week study was divided into a 12-week forced-dose titration phase and a 14-week maintenance phase.
 The patients in the active treatment arms of the study were maintained at their highest tolerated dose within the respective range.
 
@@ -74,17 +74,17 @@ The comparison of the mean ratings for the 1 mg to 4 mg per day group and placeb
 
 Figure 6: Frequency Distribution of CIBIC-Plus Scores at Week 26 in Study 2
 
-U.S. Fixed-Dose Study in Mild to Moderate Alzheimer’s Disease (Study 3) In a study of 26 weeks duration, 702 patients were randomized to doses of 3 mg, 6 mg, or 9 mg per day of rivastigmine tartrate capsules or to placebo, each given in divided doses.
+U.S. Fixed-Dose Study in Mild-to-Moderate Alzheimer’s Disease (Study 3) In a study of 26 weeks duration, 702 patients were randomized to doses of 3 mg, 6 mg, or 9 mg per day of rivastigmine tartrate capsules or to placebo, each given in divided doses.
 The fixed-dose study design, which included a 12-week forced-dose titration phase and a 14-week maintenance phase, led to a high dropout rate in the 9 mg per day group because of poor tolerability.
 At 26 weeks of treatment, significant differences were observed for the ADAS-cog mean change from baseline for the 9 mg per day and 6 mg per day groups, compared to placebo.
 No significant differences were observed between any of the rivastigmine tartrate capsules dose groups and placebo for the analysis of the CIBIC-Plus mean rating of change.
 Although no significant differences were observed between rivastigmine tartrate capsules treatment groups, there was a trend toward numerical superiority with higher doses.
 
-Mild to Moderate Parkinson's Disease Dementia International 24-Week Study (Study 4) The effectiveness of rivastigmine tartrate capsules as a treatment for dementia associated with Parkinson's disease is demonstrated by the results of 1 randomized, double-blind, placebo-controlled clinical investigation in patients with mild to moderate dementia, with onset at least 2 years after the initial diagnosis of idiopathic Parkinson's disease.
+Mild-to-Moderate Parkinson's Disease Dementia International 24-Week Study (Study 4) The effectiveness of rivastigmine tartrate capsules as a treatment for dementia associated with Parkinson's disease is demonstrated by the results of 1 randomized, double-blind, placebo-controlled clinical investigation in patients with mild-to-moderate dementia, with onset at least 2 years after the initial diagnosis of idiopathic Parkinson's disease.
 The diagnosis of idiopathic Parkinson's disease was based on the United Kingdom Parkinson's Disease Society Brain Bank clinical criteria.
 The diagnosis of dementia was based on the criteria stipulated under the DSM-IV category "Dementia Due To Other General Medical Condition" (code 294.1x), but patients were not required to have a distinctive pattern of cognitive deficits as part of the dementia.
 Alternate causes of dementia were excluded by clinical history, physical and neurological examination, brain imaging, and relevant blood tests.
-Patients enrolled in the study had a MMSE score ≥10 and ≤24 at entry.
+Patients enrolled in the study had a MMSE score greater than or equal to 10 and less than or equal to 24 at entry.
 The mean age of patients participating in this trial was 72.7 years with a range of 50 to 91 years.
 Approximately, 35.1% of patients were women and 64.9% of patients were men.
 The racial distribution was 99.6% Caucasian and other races 0.4%.

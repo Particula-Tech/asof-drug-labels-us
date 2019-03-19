@@ -9,11 +9,12 @@ In case of skin reaction while taking rivastigmine tartrate capsules, patients s
 
 Concomitant Use of Drugs with Cholinergic Action Caregivers and patients should be advised that cholinomimetics, including rivastigmine, may exacerbate or induce extrapyramidal symptoms.
 Worsening in patients with Parkinson's disease, including an increased incidence or intensity of tremor, has been observed [see Warnings and Precautions (5.3)].
+Pregnancy Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
 Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Daman (U.T.), INDIA
 
-Revised: 11/2016
+Revised: 03/2019
 
-PM01731105
+PM01731106

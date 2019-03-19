@@ -15,7 +15,7 @@ In vitro and in vivo studies demonstrate that the inhibition of cholinesterase b
 ## 12.3 Pharmacokinetics
 
 Rivastigmine shows linear pharmacokinetics up to 3 mg twice a day but is nonlinear at higher doses.
-Doubling the dose from 3 mg to 6 mg twice a day results in a 3-fold increase in AUC.
+Doubling the dose from 3 mg to 6 mg twice a day results in a 3-fold increase in area under the curve (AUC).
 The elimination half-life is about 1.5 hours, with most elimination as metabolites via the urine.
 
 Absorption
@@ -61,8 +61,8 @@ Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state
 
 Renal Impairment
 
-Following a single 3-mg dose, mean oral clearance of rivastigmine is 64% lower in moderately impaired renal patients (n=8, GFR=10 to 50 mL/min) than in healthy subjects (n=10, GFR≥60 mL/min); Cl/F=1.7 L/min and 4.8 L/min, respectively.
-In patients with severe renal impairment (n=8, GFR <10 mL/min), mean oral clearance of rivastigmine is 43% higher than in healthy subjects (n=10, GFR ≥60 mL/min); Cl/F=6.9 L/min and 4.8 L/min, respectively.
+Following a single 3-mg dose, mean oral clearance of rivastigmine is 64% lower in moderately impaired renal patients (n=8, GFR=10 to 50 mL/min) than in healthy subjects (n=10, GFR greater than or equal to 60 mL/min); Cl/F=1.7 L/min and 4.8 L/min, respectively.
+In patients with severe renal impairment (n=8, GFR less than 10 mL/min), mean oral clearance of rivastigmine is 43% higher than in healthy subjects (n=10, GFR greater than or equal to 60 mL/min); Cl/F=6.9 L/min and 4.8 L/min, respectively.
 For unexplained reasons, the severely impaired renal patients had a higher clearance of rivastigmine than moderately impaired patients.
 
 Hepatic Impairment
@@ -72,7 +72,7 @@ After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine 
 
 Smoking
 
-Following oral rivastigmine administration (upto 12 mg/day) with nicotine use, population pharmacokinetic analysis showed increased oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
+Following oral rivastigmine administration (upto 12 mg per day) with nicotine use, population pharmacokinetic analysis showed increased oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
 
 Drug Interaction Studies
 

@@ -2,7 +2,7 @@
 
 The following adverse reactions are described below and elsewhere in the labeling:
 
-• Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)]. • Allergic Dermatitis[see Warnings and Precautions (5.2)]. • Other Adverse Reactions from Increased Cholinergic Activity [see Warnings and Precautions (5.3)].
+• Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)] • Allergic Dermatitis[see Warnings and Precautions (5.2)] • Other Adverse Reactions from Increased Cholinergic Activity [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -11,7 +11,7 @@ Rivastigmine tartrate capsules have been administered to over 5,297 individuals 
 Of these, 4,326 patients have been treated for at least 3 months, 3,407 patients have been treated for at least 6 months, 2,150 patients have been treated for 1 year, 1,250 patients have been treated for 2 years, and 168 patients have been treated for over 3 years.
 With regard to exposure to the highest dose, 2,809 patients were exposed to doses of 10 mg to 12 mg, 2,615 patients treated for 3 months, 2,328 patients treated for 6 months, 1,378 patients treated for 1 year, 917 patients treated for 2 years, and 129 patients treated for over 3 years.
 
-Mild to Moderate Alzheimer's Disease Most Common Adverse Reactions The most common adverse reactions, defined as those occurring at a frequency of at least 5% and twice the placebo rate, are largely predicted by rivastigmine tartrate capsules cholinergic effects.
+Mild-to-Moderate Alzheimer's Disease Most Common Adverse Reactions The most common adverse reactions, defined as those occurring at a frequency of at least 5% and twice the placebo rate, are largely predicted by rivastigmine tartrate capsules cholinergic effects.
 These include nausea, vomiting, anorexia, dyspepsia, and asthenia.
 
 Gastrointestinal Adverse Reactions Rivastigmine tartrate capsules use is associated with significant nausea, vomiting, and weight loss [see Warnings and Precautions (5.1)].
@@ -36,7 +36,7 @@ Adverse Reactions Observed at an Incidence of at Least 2% Table 2 lists adverse 
 In general, adverse reactions were less frequent later in the course of treatment.
 No systematic effect of race or age could be determined from the incidence of adverse reactions in the controlled studies.
 Nausea, vomiting and weight loss were more frequent in women than men.
-Table 2: Proportion of Adverse Reactions Observed with a Frequency of ≥2% and at a Rate Greater than Placebo in Clinical Trials
+Table 2: Proportion of Adverse Reactions Observed with a Frequency of Greater Than or Equal to 2% and at a Rate Greater than Placebo in Clinical Trials
 
 | Body System/Adverse Event | Rivastigmine tartrate (6 to 12 mg/day) (n=1,189) |  | Placebo (n=868) |
 | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ About 18% of the males in the high-dose group experienced a similar degree of we
 It is not clear how much of the weight loss was associated with anorexia, nausea, vomiting, and the diarrhea associated with the drug. ***Anorexia: In the controlled clinical trials, of the patients treated with an rivastigmine tartrate capsules dose of 6 mg to 12 mg per day, 17% developed anorexia compared to 3% of the placebo patients.
 Neither the time course nor the severity of the anorexia is known.
 
-Mild to Moderate Parkinson's Disease Dementia Rivastigmine tartrate capsules has been administered to 779 individuals during clinical trials worldwide.
+Mild-to-Moderate Parkinson's Disease Dementia Rivastigmine tartrate capsules has been administered to 779 individuals during clinical trials worldwide.
 Of these, 663 patients have been treated for at least 3 months, 476 patients have been treated for at least 6 months, and 313 patients have been treated for 1 year.
 
 Most Common Adverse Reactions The most common adverse reactions, defined as those occurring at a frequency of at least 5% and twice the placebo rate, are largely predicted by rivastigmine tartrate cholinergic effects.
@@ -96,7 +96,7 @@ The most frequent adverse events that led to discontinuation from this study, de
 Adverse Reactions Observed at an Incidence of at Least 2% Table 3 lists treatment-emergent signs and symptoms that were reported in at least 2% of patients in a single placebo-controlled trial and during the first 24 weeks of a 76-week open-label active-controlled trial for which the rate of occurrence was greater for patients treated with rivastigmine tartrate capsules doses of 3 mg to 12 mg per day than for those treated with placebo in the placebo-controlled trial.
 In general, adverse reactions were less frequent later in the course of treatment.
 
-Table 3: Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurring at Rate Greater than Placebo in Clinical Trials
+Table 3: Proportion of Adverse Reactions Observed at a Frequency Greater Than or Equal to 2% and Occurring at Rate Greater than Placebo in Clinical Trials
 
 |  | Active-Controlled Study | Placebo-Controlled Study |  |
 | --- | --- | --- | --- |
@@ -140,12 +140,12 @@ Table 3: Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occur
 
 The following adverse reactions have been identified during post approval use of rivastigmine tartrate capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Cardiac Disorders: Tachycardia.
+Cardiac Disorders: Tachycardia
 
-Hepatobiliary Disorders: Abnormal liver function tests, hepatitis.
+Hepatobiliary Disorders: Abnormal liver function tests, hepatitis
 
-Nervous System Disorders: seizure.
+Nervous System Disorders: seizure
 
-Psychiatric Disorders: Aggression, nightmares.
+Psychiatric Disorders: Aggression, nightmares
 
-Skin and Subcutaneous Tissue Disorders: Allergic dermatitis, application site hypersensitivity (patch), blister, disseminated allergic dermatitis, Stevens-Johnson syndrome, urticaria.
+Skin and Subcutaneous Tissue Disorders: Allergic dermatitis, application site hypersensitivity (patch), blister, disseminated allergic dermatitis, Stevens-Johnson syndrome, urticaria

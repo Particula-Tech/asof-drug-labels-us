@@ -4,7 +4,7 @@
 
 Rivastigmine tartrate capsules should be taken with meals in divided doses in the morning and evening.
 
-The recommended dosage of rivastigmine tartrate capsules in Alzheimer’s disease is 6 mg to 12 mg per day, administered twice a day (daily doses of 3 mg to 6 mg twice a day).
+The recommended dosage of rivastigmine tartrate capsules in Alzheimer’s disease (AD) is 6 mg to 12 mg per day, administered twice a day (daily doses of 3 mg to 6 mg twice a day).
 There is evidence from the clinical trials that doses at the higher end of this range may be more beneficial.
 
 Initial Dose
