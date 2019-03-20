@@ -2,16 +2,12 @@
 
 Cardiomyopathy
 
-- Advise patients to contact a health care professional immediately for any of the following: new onset or worsening shortness of breath, cough, swelling of the ankles/legs, swelling of the face, palpitations, weight gain of more than 5 pounds in 24 hours, dizziness or loss of consciousness [see Warnings and Precautions (5.1)].
+- Advise patients to contact a health care professional immediately for any of the following: new onset or worsening shortness of breath, cough, swelling of the ankles/legs, swelling of the face, palpitations, weight gain of more than 5 pounds in 24 hours, dizziness or loss of consciousness [see Boxed Warning: Cardiomyopathy].
 
-Embryo-Fetal Toxicity [see Warnings and Precautions (5.2)]
+Embryo-Fetal Toxicity
 
-- Advise pregnant women and females of reproductive potential that HERCEPTIN HYLECTA exposure during pregnancy or within 7 months prior to conception can result in fetal harm.
+- Advise pregnant women and females of reproductive potential that Herceptin exposure during pregnancy or within 7 months prior to conception can result in fetal harm.
   Advise female patients to contact their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
-- Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of HERCEPTIN HYLECTA [see Use in Specific Populations (8.3)].
-- Advise women who are exposed to HERCEPTIN HYLECTA during pregnancy or who become pregnant within 7 months following the last dose of HERCEPTIN HYLECTA that there is a pregnancy pharmacovigilance program that monitors pregnancy outcomes.
+- Advise women who are exposed to Herceptin during pregnancy or who become pregnant within 7 months following the last dose of Herceptin that there is a pregnancy pharmacovigilance program that monitor pregnancy outcomes.
   Encourage these patients to report their pregnancy to Genentech [see Use in Specific Populations (8.1)].
-
-Hypersensitivity and Administration-Related Reactions
-
-- Advise patients to contact their healthcare provider immediately and to report any symptoms of hypersensitivity and administration-related reactions including dizziness, nausea, chills, fever, vomiting, diarrhea, urticaria, angioedema, breathing problems, or chest pain [see Warnings and Precautions (5.5)].
+- Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of Herceptin [see Use in Specific Populations (8.3)].

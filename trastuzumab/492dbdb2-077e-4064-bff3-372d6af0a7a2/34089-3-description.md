@@ -1,15 +1,14 @@
 # 11 DESCRIPTION
 
-HERCEPTIN HYLECTA is a combination of trastuzumab and hyaluronidase.
 Trastuzumab is a humanized IgG1 kappa monoclonal antibody that selectively binds with high affinity to the extracellular domain of the human epidermal growth factor receptor 2 protein, HER2.
-Trastuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture.
-Trastuzumab has a molecular weight of approximately 148 kDa.
+Trastuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture which may contain the antibiotic gentamicin.
+Gentamicin is not detectable in the final product.
 
-Hyaluronidase (recombinant human) is an endoglycosidase used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
-It is a glycosylated single-chain protein produced by mammalian (Chinese Hamster Ovary) cells containing a DNA plasmid encoding for a soluble fragment of human hyaluronidase (PH20).
-Hyaluronidase (recombinant human) has a molecular weight of approximately 61 kDa.
+Herceptin (trastuzumab) for injection is a sterile, white to pale yellow, preservative-free lyophilized powder with a cake-like appearance, for intravenous administration.
 
-HERCEPTIN HYLECTA (trastuzumab and hyaluronidase) injection is a sterile, preservative-free, colorless to yellowish, clear to opalescent solution supplied in single-dose vials for subcutaneous administration.
+Each multiple-dose vial of Herceptin delivers 420 mg trastuzumab, 381.8 mg α,α-trehalose dihydrate, 9.5 mg L-histidine HCl monohydrate, 6.1 mg L-histidine, and 1.7 mg polysorbate 20.
+Reconstitution with 20 mL of the appropriate diluent (BWFI or SWFI) yields a solution containing 21 mg/mL trastuzumab at a pH of approximately 6.
+If Herceptin is reconstituted with SWFI without preservative, the reconstituted solution is considered single-dose.
 
-HERCEPTIN HYLECTA is supplied as 600 mg trastuzumab and 10,000 units hyaluronidase per 5 mL in single-dose vials.
-Each mL of solution contains trastuzumab (120 mg), hyaluronidase (2,000 units), L-histidine (0.39 mg), L-histidine hydrochloride monohydrate (3.67 mg), L-methionine (1.49 mg), polysorbate 20 (0.4 mg), α,α-trehalose dihydrate (79.45 mg), and Water for Injection.
+Each single-dose vial of Herceptin delivers 150 mg trastuzumab, 136.2 mg α,α-trehalose dihydrate, 3.4 mg L-histidine HCl monohydrate, 2.2 mg L-histidine, and 0.6 mg polysorbate 20.
+Reconstitution with 7.4 mL of sterile water for injection (SWFI) yields a solution containing 21 mg/mL trastuzumab that delivers 7.15 mL (150 mg trastuzumab), at a pH of approximately 6.

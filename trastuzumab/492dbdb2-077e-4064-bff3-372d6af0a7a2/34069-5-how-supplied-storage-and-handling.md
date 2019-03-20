@@ -2,16 +2,20 @@
 
 ## 16.1 How Supplied
 
-HERCEPTIN HYLECTA (trastuzumab and hyaluronidase-oysk) injection for subcutaneous use supplied as a sterile, preservative-free, colorless to yellowish, clear to opalescent solution in a single-dose vial.
-The following configuration is available:
+420 mg Multiple-dose vial
 
-Individually packaged single-dose vials:
+Herceptin (trastuzumab) for injection 420 mg/vial is supplied in a multiple-dose vial as a lyophilized sterile powder, under vacuum.
+Each carton contains one multiple-dose vial of Herceptin and one vial (20 mL) of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative.
 
-- HERCEPTIN HYLECTA 600 mg/10,000 units (NDC: 50242-077-01) providing 600 mg trastuzumab and 10,000 units hyaluronidase per 5 mL.
+NDC 50242-333-01.
+
+150 mg Single-dose vial
+
+Herceptin (trastuzumab) for injection 150 mg/vial is supplied in a single-dose vial as a lyophilized sterile powder, under vacuum.
+Each carton contains one single-dose vial of Herceptin.
+
+NDC 50242-132-01.
 
 ## 16.2 Storage
 
-Store HERCEPTIN HYLECTA vials in the refrigerator at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light.
-Do not freeze.
-Do not shake.
-Once removed from the refrigerator, HERCEPTIN HYLECTA must be administered within 4 hours and should not be kept above 30°C (86°F).
+Store Herceptin vials in the refrigerator at 2°C to 8°C (36°F to 46°F) until time of reconstitution.

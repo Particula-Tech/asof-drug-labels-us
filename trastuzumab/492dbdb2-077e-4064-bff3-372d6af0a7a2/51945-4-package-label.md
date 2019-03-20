@@ -1,17 +1,56 @@
-# PRINCIPAL DISPLAY PANEL - 600 mg/10,000 unit Vial Carton
+# PRINCIPAL DISPLAY PANEL - 440 mg Kit Carton
 
-NDC 50242-077-01
+NDC 50242-134-68 Multi-dose Vial
 
-Herceptin Hylecta™ (trastuzumab and hyaluronidase-oysk) Injection
+Herceptin® trastuzumab
 
-600 mg and 10,000 units/5 mL (120 mg and 2,000 units/mL)
+440 mg
 
-For Subcutaneous Use Only
+KEEP REFRIGERATED Rx only
 
-Single-Dose Vial Discard Unused Portion
+Genentech
 
-1 vial
+10167609
 
-Rx only Genentech
+# PRINCIPAL DISPLAY PANEL - 420 mg Kit Carton
 
-10195915
+NDC 50242-333-01
+
+Herceptin® trastuzumab For Injection
+
+420 mg per vial
+
+For Intravenous Infusion After Reconstitution.
+
+Multiple-Dose Vial.
+
+No preservative.
+
+KEEP REFRIGERATED
+
+Genentech
+
+Rx only
+
+10188634
+
+# PRINCIPAL DISPLAY PANEL - 150 mg Vial Label
+
+NDC 50242-132-01
+
+Herceptin® trastuzumab For Injection
+
+150 mg per vial
+
+For Intravenous Infusion After Reconstitution.
+
+Single-Dose Vial.
+Discard Unused Portion.
+
+No preservative.
+
+KEEP REFRIGERATED
+
+Genentech Rx only
+
+10187107

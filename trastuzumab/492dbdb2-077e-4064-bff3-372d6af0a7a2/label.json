@@ -1,17 +1,24 @@
 {
   "application_numbers": [
-    "BLA761106"
+    "BLA103792"
   ],
   "inn": "trastuzumab",
   "labeler": "Genentech, Inc.",
   "package_ndcs": [
-    "50242-077-01"
+    "50242-132-01",
+    "50242-134-68",
+    "50242-333-01"
   ],
   "products": [
     {
-      "form": "INJECTION, SOLUTION",
-      "generic": "trastuzumab and hyaluronidase-oysk",
-      "name": "Herceptin Hylecta"
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab",
+      "name": "Herceptin"
+    },
+    {
+      "form": "KIT",
+      "generic": "trastuzumab",
+      "name": "Herceptin"
     }
   ],
   "setid": "492dbdb2-077e-4064-bff3-372d6af0a7a2",
