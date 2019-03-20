@@ -41,7 +41,7 @@ Contraception
 
 Females
 
-Bexarotene can cause fetal harm when administered to a pregnant female [see Use in Specific Populations (8.1)].
+Bexarotene can cause fetal harm when administered to a pregnant female [seeUse in Specific Populations (8.1)].
 Females of reproductive potential should be advised to avoid becoming pregnant when bexarotene is used.
 Effective contraception must be used for one month prior to the initiation of therapy, during therapy and for at least one month following discontinuation of therapy; it is recommended that two reliable forms of contraception be used simultaneously unless abstinence is the chosen method.
 Bexarotene can potentially induce metabolic enzymes and thereby theoretically reduce the plasma concentrations of oral or other systemic hormonal contraceptives [seeDrug Interactions (7)].

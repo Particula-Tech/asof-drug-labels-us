@@ -52,7 +52,7 @@ Metabolic and Nutritional: LDH increased, creatinine increased, hypoproteinemia,
 
 Musculoskeletal: arthralgia, myalgia, bone pain, myasthenia, and arthrosis.
 
-Nervous: depression, agitation, ataxia, cerebrovascular accident, confusion, dizziness, hyperesthesia, hyperesthesia, and neuropathy.
+Nervous: depression, agitation, ataxia, cerebrovascular accident, confusion, dizziness, hyperesthesia, hypesthesia, and neuropathy.
 
 Respiratory: pharyngitis, rhinitis, dyspnea, pleural effusion, bronchitis, cough increased, lung edema, hemoptysis, and hypoxia.
 
@@ -177,3 +177,13 @@ Table 4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
 Patients are considered to have had a Grade 3 or 4 value if either of the following occurred: a) Value becomes Grade 3 or 4 during the study; b) Value is abnormal at baseline and worsens to Grade 3 or 4 on study, including all values beyond study drug discontinuation, as defined in data handling conventions.
 
 3 The denominator used to calculate the incidence rates for fasting Total Cholesterol and Triglycerides were N=75 for the 300 mg/m2/day initial dose group and N=44 for the >300 mg/m2/day initial dose group.
+
+The safety profile from the one post-approval trial with 59 subjects was generally comparable to that of the pivotal trials with the exception of serious adverse events hypertriglyceridemia, neutropenia and bone marrow failure which were observed more frequently in the bexarotene capsule 300 mg/m2/day group than in the bexarotene capsule 150 mg/m2/day group.
+
+Severe hypertriglyceridemia (≥800 mg/dL) was not seen in any subject in the lower dosage arm.
+
+The most common AEs by preferred term in either the bexarotene capsule 300 or 150 mg/m2/day treatment group were as follows: hypertriglyceridemia (18 subjects [62.1%] and 17 subjects [56.7%], respectively); hypothyroidism (15 subjects [51.7%] and 13 subjects [43.3%], respectively); headache (9 subjects [31.0%] and 7 subjects [23.3%], respectively); hypercholesterolemia (8 subjects [27.6%] and 7 subjects [23.3%], respectively); neutropenia (7 subjects [24.1%] and 2 subjects [6.7%], respectively); and skin exfoliation (5 subjects [17.2%] and 5 subjects [16.7%], respectively).
+
+Higher percentage of subjects in the bexarotene capsule 300 mg/m2/day group than in bexarotene capsule 150 mg/m2/day group experienced SAEs (13 subjects [44.8%] vs 11 subjects [36.7%], respectively.
+
+Of the SAEs of special interest, there were more events in the bexarotene capsule 300 mg/m2/day group than in the bexarotene capsule 150 mg/m2/day group of bone marrow failure (3 [10.3%] vs 1 [3.3%, respectively]), neutropenia (3 [10.3%] vs 0 [0%], respectively), and of hypertriglyceridemia (9 [31%] vs 2 [6.7%], respectively).

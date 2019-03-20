@@ -56,15 +56,7 @@ Administration Instructions
 
 Advise patients to take bexarotene capsules with a meal [seeDOSAGE AND ADMINISTRATION].
 
-Manufactured by:
-
-Sancilio & Company, Inc.
-
-3874 Fiscal Ct., Suite 200
-
-Riviera Beach, FL 33404USA
-
-Distributed by:
+Manufactured for:
 
 Amerigen Pharmaceuticals, Inc.
 
@@ -72,6 +64,6 @@ Lyndhurst, NJ 07071 USA
 
 1-877-220-3784
 
-OS1036/00
+OS1036/01
 
-Revised 7/2017
+Revised 09/2018

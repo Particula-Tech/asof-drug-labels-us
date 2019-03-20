@@ -50,13 +50,13 @@ Before taking bexarotene capsules, tell your healthcare provider about all of yo
 - •have cataracts or a history of cataracts
 - •drink alcohol
 - •are pregnant, plan to become pregnant, or think you may be pregnant.
-  See “What is the most important information I should know about bexarotene capsules.”
+  See “What is the most important information I should know about bexarotene capsules?”
 - •are breastfeeding or plan to breastfeed.
   It is not known if bexarotene passes into your breast milk.
   You should not breastfeed during treatment with bexarotene capsules.
   Talk to your healthcare provider about the best way to feed your baby during treatment with bexarotene capsules.
 
-Tell your healthcare provider about all of the medicines you take, including prescription and over the counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Using bexarotene capsules with certain other medicines can affect each other.
 
 How should I take bexarotene capsules?
@@ -87,30 +87,30 @@ Bexarotene capsules can cause serious side effects, including:
 - •Inflammation of the pancreas (acute pancreatitis).
   Bexarotene can sometimes cause pancreatitis that comes on suddenly (acute), and that can lead to death.
   Your risk of developing acute pancreatitis may greater if you:
-- ohave had pancreatitis in the past
-- ohigh levels of fats in your blood that are not controlled
-- odrink large amounts of alcohol
-- ohave gallbladder problems
-- ohave diabetes that is not controlled
-- otake certain medicines that can increase the amount of triglycerides in your blood
-- omedicines that can harm your pancreas
+- •have had pancreatitis in the past
+- •high levels of fats in your blood that are not controlled
+- •drink large amounts of alcohol
+- •have gallbladder problems
+- •have diabetes that is not controlled
+- •take certain medicines that can increase the amount of triglycerides in your blood
+- •take medicines that can harm your pancreas
 - Tell your healthcare provider right away if you develop signs or symptoms of pancreatitis during treatment with bexarotene capsules, including:
-- onausea that will not go away
-- ovomiting
-- ostomach-area (abdominal) or back pain
+- •nausea that will not go away
+- •vomiting
+- •stomach-area (abdominal) or back pain
 - •Liver problems, including liver failure.
   Bexarotene can cause increased liver function blood test results, or liver problems that can lead to death.
 - •Thyroid problems (hypothyroidism) are common with bexarotene.
   Your healthcare provider may prescribe thyroid hormone treatment for you if needed.
 - •Low white blood cell count is common with bexarotene, but may sometimes be severe.
 - •New or worse cataracts.
-  Tell your healthcare provider about any changes in your vision during treatment with Bexarotene.
+  Tell your healthcare provider about any changes in your vision during treatment with bexarotene.
   You may need to have any eye examination.
 - •Risk of low blood sugar in people who have diabetes.
   Bexarotene can interact with certain medicines used to treat diabetes, such as insulin, sulfonylurea medicines, and thiazolinedione medicines.
-  If you have diabetes, talk to your healthcare provider about your diabetes medicines and your risk for low blood sugar if you take Bexarotene capsules.
+  If you have diabetes, talk to your healthcare provider about your diabetes medicines and your risk for low blood sugar if you take bexarotene capsules.
 
-The most common side effects of Bexarotene include:
+The most common side effects of bexarotene include:
 
 - •headache
 - •asthenia
@@ -147,24 +147,14 @@ Active ingredient: bexarotene
 
 Inactive ingredients: gelatin, nitrogen, butylated hydroxyanisole, glycerin, hydrolyzed gelatin, medium chain triglyceride, Shellac glaze, FD&C red #40, FD&C blue #1, FD&C yellow #6, propylene glycol, simethicone, polyethylene glycol 400, polysorbate 20, povidone, sorbitol, 1,4-sorbitan, mannitol, soy lecithin and titanium dioxide.
 
-Manufactured by:
-
-Sancilio & Company, Inc.
-
-3874 Fiscal Ct., Suite 200
-
-Riviera Beach, FL 33404 USA
-
-Dist. by:
+Manufactured for:
 
 Amerigen Pharmaceuticals, Inc.
 
 Lyndhurst, NJ 07071 USA
 
-1-877-220-3784
-
 For more information, call 1-877-220-3784.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1. MG1029/00 Revised 7/2017
+1. MG1029/01 Revised 09/2018
