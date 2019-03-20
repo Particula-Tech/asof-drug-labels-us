@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210998"
+  ],
+  "inn": "desonide",
+  "labeler": "Encube Ethicals Private Limited",
+  "package_ndcs": [
+    "21922-004-04",
+    "21922-004-07"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "desonide ointment, 0.05%",
+      "name": "Desonide Ointment, 0.05%"
+    }
+  ],
+  "setid": "3d4d19d4-e47b-407e-9df4-fed5f3db91b9",
+  "source": "dailymed"
+}
