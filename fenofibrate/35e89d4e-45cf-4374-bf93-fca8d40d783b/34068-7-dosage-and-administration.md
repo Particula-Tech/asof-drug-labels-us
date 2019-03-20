@@ -2,8 +2,8 @@
 
 ## 2.1 General Considerations
 
-FENOGLIDE tablets should be given with food to optimize the absorption of the medicine.
-Patients should be advised to swallow FENOGLIDE Tablets whole.
+FENOGLIDE should be given with food to optimize the absorption of the medicine.
+Patients should be advised to swallow FENOGLIDE tablets whole.
 Do not crush, dissolve or chew tablets.
 
 The initial treatment for dyslipidemia is dietary therapy specific for the type of lipoprotein abnormality.

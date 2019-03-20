@@ -28,7 +28,7 @@ In addition, treatment with fenofibrate results in increases in HDL and apoprote
 Fenofibrate is a pro-drug of the active chemical moiety fenofibric acid.
 Fenofibrate is converted by ester hydrolysis in the body to fenofibric acid which is the active constituent measurable in the circulation.
 
-Plasma concentrations of fenofibric acid after single-dose administration of FENOGLIDE Tablets, 120 mg are equivalent to those of Fenofibrate 130 mg capsules under high-fat conditions.
+Plasma concentrations of fenofibric acid after single-dose administration of FENOGLIDE tablets, 120 mg are equivalent to those of Fenofibrate 130 mg capsules under high-fat conditions.
 
 A high-fat meal did not affect the fenofibric acid AUC after FENOGLIDE administration but did increase the mean Cmax by 44% compared to fasting conditions.
 
@@ -55,12 +55,12 @@ A high-fat meal did not affect the fenofibric acid AUC after FENOGLIDE administr
   Patients with severe renal impairment (creatinine clearance [CrCl] ≤30 mL/min or estimated glomerular filtration rate [eGFR] <30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
   Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
   Based on these findings, the use of FENOGLIDE should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
-  [see Dosage and Administration (2.4).]
+  [SeeDosage and Administration (2.4).]
 - •Hepatic Impairment: No pharmacokinetic studies have been conducted in patients with hepatic impairment.
 - •Drug-Drug Interactions: In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
   They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
 - Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
-  Table 3 describes the effects of co-administered fenofibrate or fenofibric acid on other drugs systemic exposure.
+  Table 3 describes the effects of co-administered fenofibrate or fenofibric acid on systemic exposure of other drugs.
 
 Table 2.
 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration

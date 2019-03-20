@@ -21,4 +21,4 @@ An adequate study to test for peroxisome proliferation in humans has not been do
 
 Mutagenesis: Fenofibrate has been demonstrated to be devoid of mutagenic potential in the following tests: Ames, mouse lymphoma, chromosomal aberration and unscheduled DNA synthesis in primary rat hepatocytes.
 
-Impairment of Fertility: In fertility studies, rats were given oral dietary doses of fenofibrate, males received 61 days prior to mating and females 15 days prior to mating through weaning which resulted in no adverse effect on fertility at doses up to 300 mg/kg/day (~10 times the MRHD, based on mg/m2 surface area comparisons).
+Impairment of Fertility: In fertility studies, rats were given oral dietary doses of fenofibrate; males received 61 days prior to mating and females 15 days prior to mating through weaning which resulted in no adverse effect on fertility at doses up to 300 mg/kg/day (~10 times the MRHD, based on mg/m2 surface area comparisons).

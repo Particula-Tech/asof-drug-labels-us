@@ -4,7 +4,7 @@
 
 The effect of FENOGLIDE on coronary heart disease morbidity and mortality and non-cardiovascular mortality has not been established.
 
-The Action to Control Cardiovascular Risk in Diabetes Lipid (ACCORD Lipid) trial was a randomized placebo-controlled study of 5518 patients with type 2 diabetes mellitus on background statin therapy treated with fenofibrate.
+The Action to Control Cardiovascular Risk in Diabetes Lipid (ACCORD Lipid) trial was a randomized placebo-controlled study of 5,518 patients with type 2 diabetes mellitus on background statin therapy treated with fenofibrate.
 The mean duration of follow-up was 4.7 years.
 Fenofibrate plus statin combination therapy showed a non-significant 8% relative risk reduction in the primary outcome of major adverse cardiovascular events (MACE), a composite of non-fatal myocardial infarction, non-fatal stroke, and cardiovascular disease death (hazard ratio [HR] 0.92, 95% CI 0.79-1.08) (p=0.32) as compared to statin monotherapy.
 In a gender subgroup analysis, the hazard ratio for MACE in men receiving combination therapy versus statin monotherapy was 0.82 (95% CI 0.69-0.99), and the hazard ratio for MACE in women receiving combination therapy versus statin monotherapy was 1.38 (95% CI 0.98-1.94) (interaction p=0.01).
@@ -14,13 +14,13 @@ The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study was a 
 Fenofibrate demonstrated a non-significant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75-1.05, p=0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.80-0.99], p=0.04).
 There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.18) and 19% (HR 1.19 [0.90, 1.57], p=0.22) increase in total and coronary heart disease mortality, respectively, with fenofibrate as compared to placebo.
 
-Because of chemical, pharmacological, and clinical similarities between fenofibrate, clofibrate, and gemfibrozil, the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to FENOGLIDE.
+Because of chemical, pharmacological, and clinical similarities between fenofibrate, clofibrate, and gemfibrozil, the adverse findings in 4 large, randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to FENOGLIDE.
 
 In the Coronary Drug Project, a large study of post myocardial infarction of patients treated for 5 years with clofibrate, there was no difference in mortality seen between the clofibrate group and the placebo group.
 There was however, a difference in the rate of cholelithiasis and cholecystitis requiring surgery between the two groups (3.0% vs. 1.8%).
 
 In a study conducted by the World Health Organization (WHO), 5000 subjects without known coronary artery disease were treated with placebo or clofibrate for 5 years and followed for an additional one year.
-There was a statistically significant, higher age-adjusted all-cause mortality in the clofibrate group compared with the placebo group (5.70% vs. 3.96%, p=<0.01).
+There was a statistically significant, higher age-adjusted all-cause mortality in the clofibrate group compared with the placebo group (5.70% vs. 3.96%, p≤0.01).
 Excess mortality was due to a 33% increase in non-cardiovascular causes, including malignancy, post-cholecystectomy complications, and pancreatitis.
 This appeared to confirm the higher risk of gallbladder disease seen in clofibrate-treated patients studied in the Coronary Drug Project.
 
@@ -47,8 +47,7 @@ CPK levels should be assessed in patients reporting these symptoms, and FENOGLID
 Data from observational studies indicate that the risk for rhabdomyolysis is increased when fibrates, in particular gemfibrozil, are co-administered with an HMG-CoA reductase inhibitor (statin).
 The combination should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination [see Clinical Pharmacology (12.3)].
 
-- Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine.
-  [see Drug Interactions (7.4)]
+- Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
 
 ## 5.3 Liver Function
 
@@ -93,14 +92,14 @@ This occurrence may represent a failure of efficacy in patients with severe hype
 Mild to moderate hemoglobin, hematocrit, and white blood cell decreases have been observed in patients following initiation of fenofibrate therapy.
 However, these levels stabilize during long-term administration.
 Thrombocytopenia and agranulocytosis have been reported in individuals treated with fenofibrate.
-Periodic monitoring of red and white blood cell counts are recommended during the first 12 months of FENOGLIDE administration.
+Periodic monitoring of red and white blood cell counts is recommended during the first 12 months of FENOGLIDE administration.
 
 ## 5.9 Hypersensitivity Reactions
 
 Acute Hypersensitivity
 
 Anaphylaxis and angioedema have been reported postmarketing with fenofibrate.
-In some cases reactions were life-threatening and required emergency treatment.
+In some cases, reactions were life-threatening and required emergency treatment.
 If a patient develops signs or symptoms of an acute hypersensitivity reaction, advise them to seek immediate medical attention and discontinue fenofibrate.
 
 Delayed Hypersensitivity
