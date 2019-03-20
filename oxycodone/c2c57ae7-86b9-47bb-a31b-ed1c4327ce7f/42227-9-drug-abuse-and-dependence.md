@@ -37,7 +37,9 @@ Abuse of OXYCODONE HCl EXTENDED-RELEASE TABLETS poses a risk of overdose and dea
 The risk is increased with concurrent use of OXYCODONE HCl EXTENDED-RELEASE TABLETS with alcohol and other central nervous system depressants.
 Taking cut, broken, chewed, crushed, or dissolved OXYCODONE HCl EXTENDED-RELEASE TABLETS enhances drug release and increases the risk of overdose and death.
 
-With parenteral abuse, the inactive ingredients in OXYCODONE HCl EXTENDED-RELEASE TABLETS can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
+With parenteral abuse, the inactive ingredients in OXYCODONE HCl EXTENDED-RELEASE TABLETS can be expected to result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis, valvular heart injury, embolism, and death.
+Cases of thrombotic microangiopathy (a condition characterized clinically by thrombocytopenia and microangiopathic hemolytic anemia) associated with parenteral abuse have been reported.
+
 Parenteral drug abuse is commonly associated with transmission of infectious diseases, such as hepatitis and HIV.
 
 Abuse Deterrence Studies

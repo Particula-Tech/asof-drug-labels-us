@@ -9,19 +9,19 @@ Instruct patients not to share OXYCODONE HCl EXTENDED-RELEASE TABLETS with other
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting OXYCODONE HCl EXTENDED-RELEASE TABLETS or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.2)].
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting OXYCODONE HCl EXTENDED-RELEASE TABLETS or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 To guard against excessive exposure to OXYCODONE HCl EXTENDED-RELEASE TABLETS by young children, advise caregivers to strictly adhere to recommended OXYCODONE HCl EXTENDED-RELEASE TABLETS dosing.
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
 Instruct patients to take steps to store OXYCODONE HCl EXTENDED-RELEASE TABLETS securely and to dispose of unused OXYCODONE HCl EXTENDED-RELEASE TABLETS by flushing the tablets down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if OXYCODONE HCl EXTENDED-RELEASE TABLETS are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if OXYCODONE HCl EXTENDED-RELEASE TABLETS are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
 Serotonin Syndrome
 
@@ -38,7 +38,7 @@ Adrenal Insufficiency
 
 Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.8)].
 
 Important Administration Instructions
 
@@ -54,7 +54,7 @@ Instruct patients how to properly take OXYCODONE HCl EXTENDED-RELEASE TABLETS, i
 Hypotension
 
 Inform patients that OXYCODONE HCl EXTENDED-RELEASE TABLETS may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.8)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
 
 Anaphylaxis
 
@@ -65,7 +65,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of OXYCODONE HCl EXTENDED-RELEASE TABLETS during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of OXYCODONE HCl EXTENDED-RELEASE TABLETS during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -83,7 +83,7 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 Driving or Operating Heavy Machinery
 
 Inform patients that OXYCODONE HCl EXTENDED-RELEASE TABLETS may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.15)].
 
 Constipation
 

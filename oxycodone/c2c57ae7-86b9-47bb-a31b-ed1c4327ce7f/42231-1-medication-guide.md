@@ -85,5 +85,5 @@ Distributed By: Impax Laboratories, Inc., Hayward, CA 94544
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-303911-0B Rev.
+Revised.
 12/2016
