@@ -1,97 +1,91 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Pharmacodynamics
+## 12.1 Mechanism of Action
 
-Dexmethylphenidate hydrochloride is a central nervous system stimulant.
-Dexmethylphenidate hydrochloride, the more pharmacologically active enantiomer of the d-and l-enantiomers, is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
-The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
+Dexmethylphenidate hydrochloride is a CNS stimulant.
+The exact mode of therapeutic action in ADHD is not known.
 
-Effects on QT Interval
+## 12.2 Pharmacodynamics
 
-The effect of dexmethylphenidate hydrochloride extended-release capsules on the QT interval was evaluated in a double-blind, placebo-and open label active (moxifloxacin)-controlled study following single doses of dexmethylphenidate hydrochloride extended-release capsules 40 mg in 75 healthy volunteers.
-ECGs were collected up to 12 hours postdose.
-Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
-The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
-This was below the threshold of clinical concern and there was no evident-exposure response relationship.
+Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate.
+Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
-Pharmacokinetics
+Cardiac Electrophysiology
+
+A formal QT study has not been conducted in patients taking dexmethylphenidate; however, a large QT effect is not expected.
+At the recommended maximum total daily dosage of 40 mg, dexmethylphenidate extended-release capsule does not prolong the QTc interval to any clinically relevant extent.
+
+## 12.3 Pharmacokinetics
 
 Absorption
 
 Dexmethylphenidate hydrochloride is readily absorbed following oral administration of dexmethylphenidate hydrochloride tablets.
 In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours postdose.
-No differences in the pharmacokinetics of dexmethylphenidate hydrochloride were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
+No differences in the pharmacokinetics of dexmethylphenidate were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
 
-When given to children as capsules in single doses of 2.5 mg, 5 mg, and 10 mg, Cmax and AUC0-inf of dexmethylphenidate were proportional to dose.
-In the same study, plasma dexmethylphenidate levels were comparable to those achieved following single dl-threo-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to dexmethylphenidate hydrochloride).
+After single dose administration of dexmethylphenidate hydrochloride tablets to pediatric patients, dexmethylphenidate exposure (Cmax and AUC0-inf) showed dose-proportional increase in the range of 2.5 mg to 10 mg.
+Comparable plasma dexmethylphenidate levels were achieved following single dl-threo-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to dexmethylphenidate).
 
-Food Effects
+Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate.
+However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.
 
-In a single dose study conducted in adults, coadministration of 2 x 10 mg dexmethylphenidate hydrochloride with a high fat breakfast resulted in a dexmethylphenidate tmax of 2.9 hours postdose as compared to 1.5 hours postdose when given in a fasting state.
-Cmax and AUC0-inf were comparable in both the fasted and nonfasted states.
+Effect of Food
+
+High fat breakfast did not significantly affect Cmax or AUC0-inf of dexmethylphenidate when two 10 mg dexmethylphenidate hydrochloride tablets were administered, but delayed Tmax from 1.5 hours post dose to 2.9 hours post dose.
 
 Distribution
 
-Plasma dexmethylphenidate concentrations in children decline exponentially following oral administration of dexmethylphenidate hydrochloride.
+The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12% to 15%, independent of concentration.
+Dexmethylphenidate shows a volume of distribution of 2.65 ± 1.11 L/kg.
 
-Metabolism and Excretion
+Elimination
 
-In humans, dexmethylphenidate is metabolized primarily to d-α-phenyl-piperidine acetic acid (also known as d-ritalinic acid) by de-esterification.
+Plasma dexmethylphenidate concentrations declined exponentially following oral administration of dexmethylphenidate hydrochloride tablets.
+Intravenous dexmethylphenidate was eliminated with a mean clearance of 0.40 ± 0.12 L/hr/kg.
+The mean terminal elimination half-life of dexmethylphenidate was approximately 2.2 hours.
+
+Metabolism
+
+In humans, dexmethylphenidate is metabolized primarily via de-esterification to d-α-phenyl-piperidine acetic acid (also known as d-ritalinic acid).
 This metabolite has little or no pharmacological activity.
-There is little or no in vivo interconversion to the l-threo-enantiomer, based on a finding of minute levels of l-threo-methylphenidate being detectable in a few samples in only 2 of 58 children and adults.
+There is little or no in vivo interconversion to the l-threo-enantiomer.
+
+Excretion
+
 After oral dosing of radiolabeled racemic methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
-The main urinary metabolite was ritalinic acid, accountable for approximately 80% of the dose.
+The main urinary metabolite of racemic dl-methylphenidate was dl-ritalinic acid, accountable for approximately 80% of the dose.
+Urinary excretion of parent compound accounted for 0.5% of an intravenous dose.
 
-In vitro studies showed that dexmethylphenidate did not inhibit cytochrome P450 isoenzymes.
+Studies in Special Populations
 
-The mean plasma elimination half-life of dexmethylphenidate is approximately 2.2 hours.
-
-Special Populations
-
-Gender
+Male and Female Patients
 
 Pharmacokinetic parameters were similar for boys and girls (mean age 10 years).
 
-In a single dose study conducted in adults, the mean dexmethylphenidate AUC0-inf values (adjusted for body weight) following single 2 x 10 mg doses of dexmethylphenidate hydrochloride were 25% to 35% higher in adult female volunteers (n=6) compared to male volunteers (n=9).
+In a single dose study conducted in adults, the mean dexmethylphenidate AUC0-inf values (adjusted for body weight) following single two 10 mg doses of dexmethylphenidate hydrochloride were 25% to 35% higher in adult female volunteers (n = 6) compared to male volunteers (n = 9).
 Both tmax and t1/2 were comparable for males and females.
 
-Race
+Racial or Ethnic Groups
 
 There is insufficient experience with the use of dexmethylphenidate hydrochloride to detect ethnic variations in pharmacokinetics.
 
-Age
+Pediatric Patients
 
-The pharmacokinetics of dexmethylphenidate after dexmethylphenidate hydrochloride administration have not been studied in children less than 6 years of age.
-When single doses of dexmethylphenidate hydrochloride were given to children between the ages of 6 to 12 years and healthy adult volunteers, Cmax of dexmethylphenidate was similar, however, children showed somewhat lower AUCs compared to the adults.
+The pharmacokinetics of dexmethylphenidate after dexmethylphenidate hydrochloride tablets administration have not been studied in children less than 6 years of age.
+When single doses of dexmethylphenidate hydrochloride tablets were given to children between the ages of 6 to 12 years and healthy adult volunteers, Cmax of dexmethylphenidate was similar, however, pediatric patients showed somewhat lower AUCs compared to the adults.
 
-Renal Insufficiency
+Patients with Renal Impairment
 
-There is no experience with the use of dexmethylphenidate hydrochloride in patients with renal insufficiency.
-After oral administration of radiolabeled racemic methylphenidate in humans, methylphenidate was extensively metabolized and approximately 80% of the radioactivity was excreted in the urine in the form of ritalinic acid.
-Since very little unchanged drug is excreted in the urine, renal insufficiency is expected to have little effect on the pharmacokinetics of dexmethylphenidate hydrochloride.
+There is no experience with the use of dexmethylphenidate hydrochloride tablets in patients with renal impairment.
+Since renal clearance is not an important route of methylphenidate clearance, renal impairment is expected to have little effect on the pharmacokinetics of dexmethylphenidate hydrochloride tablets.
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
-There is no experience with the use of dexmethylphenidate hydrochloride in patients with hepatic insufficiency (see PRECAUTIONS, Drug Interactions).
+There is no experience with the use of dexmethylphenidate hydrochloride tablets in patients with hepatic impairment.
 
-Clinical Studies
+Drug Interaction Studies
 
-Dexmethylphenidate hydrochloride was evaluated in 2 double-blind, parallel-group, placebo-controlled trials in untreated or previously treated patients aged 6 to 17 years old with a DSM-IV diagnosis of Attention Deficit Hyperactivity Disorder (ADHD).
-Both studies included all 3 subtypes of ADHD, i.e., Combined Type, Predominantly Inattentive Type, or Predominantly Hyperactive-Impulsive Type.
-While both children and adolescents were included, the sample was predominantly children, thus, the findings are most pertinent to this age group.
-In both studies, the primary comparison of interest was dexmethylphenidate hydrochloride versus placebo.
-
-Dexmethylphenidate hydrochloride (5, 10, or 20 mg/day total dose), dl-threo-methylphenidate HCl (10, 20, or 40 mg/day total dose), and placebo were compared in a multicenter, 4-week, parallel group study in n=132 patients.
-Patients took the study medication twice daily, 3.5 to 5.5 hours between doses.
-Treatment was initiated with the lowest dose, and doses could be doubled at weekly intervals, depending on clinical response and tolerability, up to the maximum dose.
-The change from baseline to week 4 of the averaged score (an average of 2 ratings during the week) of the teacher’s version of the SNAP-ADHD Rating Scale, a scale for assessing ADHD symptoms, was the primary outcome.
-Patients treated with dexmethylphenidate hydrochloride showed a statistically significant improvement in symptom scores from baseline over patients who received placebo.
-
-Figure 1 Mean Change from Baseline in Teacher SNAP-ADHD Scores in a 4-week Double-Blind Placebo-Controlled Study of Dexmethylphenidate Hydrochloride *
-
-The other study, involving n=75 patients, was a multicenter, placebo-controlled, double-blind, 2-week treatment withdrawal study in children who were responders during a 6-week, open label initial treatment period.
-Children took study medication twice a day separated by a 3.5 to 5.5 hour interval.
-The primary outcome was proportion of treatment failures at the end of the 2-week withdrawal phase, where treatment failure was defined as a rating of 6 (much worse) or 7 (very much worse) on the Investigator Clinical Global Impression -Improvement (CGI-I).
-Patients continued on dexmethylphenidate hydrochloride showed a statistically significant lower rate of failure over patients who received placebo.
-
-Figure 2 Percent of Treatment Failures Following a 2-week Double-Blind Placebo-Controlled Withdrawal of Dexmethylphenidate Hydrochloride
+Methylphenidate is not metabolized by cytochrome P450 (CYP) isoenzymes to a clinically relevant extent.
+Inducers or inhibitors of CYPs are not expected to have any relevant impact on methylphenidate pharmacokinetics.
+Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
+Clinically, methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.
