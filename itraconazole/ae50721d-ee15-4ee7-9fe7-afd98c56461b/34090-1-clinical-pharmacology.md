@@ -9,7 +9,7 @@
 Peak plasma concentrations are reached within 2.5 hours following administration of the oral solution.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
 Steady-state concentrations are generally reached within about 15 days, with Cmax and AUC values 4 to 7-fold higher than those seen after a single dose.
-Steady-state Cmax values of about 2 µg/ml are reached after oral administration of 200 mg once daily.
+Steady-state Cmax values of about 2 µg/mL are reached after oral administration of 200 mg once daily.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
 Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
@@ -54,7 +54,7 @@ In uremic subjects with a mean creatinine clearance of 13 mL/min.×1.73 m2, the 
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0–8h).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
 
-After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50–79 ml/min), moderate (defined in this study as CrCl 20–49 ml/min), and severe renal impairment (defined in this study as CrCl <20 ml/min) were similar to that in healthy subjects (range of means 42–49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
+After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50–79 mL/min), moderate (defined in this study as CrCl 20–49 mL/min), and severe renal impairment (defined in this study as CrCl <20 mL/min) were similar to that in healthy subjects (range of means 42–49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
 
 Data are not available in renally impaired patients during long-term use of itraconazole.
@@ -96,6 +96,16 @@ This low oral bioavailability of hydroxypropyl-β-cyclodextrin is not modified b
 
 In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
+### Antimicrobial Activity
+
+Itraconazole has been shown to be active against most strains of the following microorganism, both in vitro and in clinical infections.
+
+Candida albicans
+
+### Susceptibility Testing Methods
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+
 ### Drug Resistance
 
 Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
@@ -115,46 +125,3 @@ Studies (both in vitro and in vivo) suggest that the activity of amphotericin B 
 As with other azoles, itraconazole inhibits the 14C-demethylation step in the synthesis of ergosterol, a cell wall component of fungi.
 Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatus infections in mice was inhibited by ketoconazole therapy.
 The clinical significance of test results obtained in this study is unknown.
-
-### Activity In Vitro and in Clinical Infections
-
-Itraconazole has been shown to be active against most strains of the following microorganism, both in vitro and in clinical infections.
-
-Candida albicans
-
-### Susceptibility Testing Methods
-
-(Applicable to Candida isolates from patients with oropharyngeal or esophageal candidiasis)
-
-#### Candida albicans
-
-The interpretive criteria and breakpoints for itraconazole against Candida albicans are applicable to tests performed using Clinical Laboratory and Standards Institute (CLSI) microbroth dilution reference method M27A for MIC (partial inhibition endpoint) read at 48 hours.
-
-#### Broth Microdilution Techniques
-
-Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
-MICs should be determined using a standardized procedure at 48 hours.
-Standardized procedures are based on a microdilution method (broth)1,2 with standardized inoculum concentrations and standardized concentrations of itraconazole powder.
-The MIC values should be interpreted according to the criteria provided in Table 1 below:
-
-Table 1: Susceptibility Interpretive Criteria for Itraconazole1,2
-
-|  | S | I | R |
-| --- | --- | --- | --- |
-| Pathogen | Broth Microdilution MICA report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection. A report of Intermediate (I) category indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated. This category implies possible clinical applicability in the body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used. This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation. The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for itraconazole. A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected. (mcg/mL) at 48 Hours |  |  |
-| Candida albicans | ≤ 0.125 | 0.25 – 0.5 | ≥ 1 |
-
-#### Quality Control
-
-Standardized susceptibility test procedures require the use of quality control organisms to control the technical aspects of the test procedures.
-Standard itraconazole powder should provide the following range of values noted in the Table 2 below.
-
-NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
-
-Table 2: Acceptable Quality Control Ranges for Itraconazole to be used in Validation of Susceptibility Test Results1,2
-
-| QC Strain | Broth Microdilution MIC (µg/mL) at 48 Hours |
-| --- | --- |
-| Candida parapsilosis ATCCATCC is the registered trademark of the American Type Culture Collection. 22019 | 0.06–0.25 |
-| Candida krusei ATCC 6258 | 0.12–0.5 |

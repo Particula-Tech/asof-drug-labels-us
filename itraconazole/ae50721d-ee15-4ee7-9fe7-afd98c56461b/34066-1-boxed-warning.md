@@ -4,7 +4,7 @@
 
 If signs or symptoms of congestive heart failure occur during administration of SPORANOX® (itraconazole) Oral Solution, continued SPORANOX® use should be reassessed.
 When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen.
-(See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS.
+(See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS).
 
 Drug Interactions, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information.)
 

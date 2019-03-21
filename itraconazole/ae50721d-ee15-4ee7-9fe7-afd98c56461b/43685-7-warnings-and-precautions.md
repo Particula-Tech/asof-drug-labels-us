@@ -115,9 +115,9 @@ Reduced concentrations of concomitant drugs may reduce their efficacy.
 The table below lists examples of drugs that may have their concentrations affected by itraconazole, but is not a comprehensive list.
 Refer to the approved product labeling to become familiar with the interaction pathways risk potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with SPORANOX®.
 
-Although many of the clinical drug interactions in Table 3 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with SPORANOX®.
+Although many of the clinical drug interactions in Table 1 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with SPORANOX®.
 
-Table 3: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentrations
+Table 1: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentrations
 
 | Concomitant Drug Within Class |  | Prevention or Management |
 | --- | --- | --- |
@@ -132,9 +132,9 @@ Table 3: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentr
 | Disopyramide Dofetilide Dronedarone Quinidine |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
 | Digoxin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
-| BedaquilineBased on 400 mg Bedaquiline once daily for 2 weeks. |  | Concomitant SPORANOX® not recommended for more than 2 weeks at any time during bedaquiline treatment. |
+| BedaquilineBased on 400 mg bedaquiline once daily for 2 weeks. |  | Concomitant SPORANOX® not recommended for more than 2 weeks at any time during bedaquiline treatment. |
 | Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 4. |
-| Clarithromycind |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary.See also Table 4. |
+| Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 4. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Anticoagulants and Antiplatelets |  |  |
 | Ticagrelor |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
@@ -153,17 +153,18 @@ Table 3: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentr
 | Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary |
 | Antineoplastics |  |  |
 | Irinotecan |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
-| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib | Docetaxel Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab- emtansine Vinca alkaloids | Not recommended during and 2 weeks after SPORANOX® treatment. |
+| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib | Docetaxel Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab-emtansine Vinca alkaloids | Not recommended during and 2 weeks after SPORANOX® treatment. |
 | Bortezomib Brentuximab-vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib: see also Table 4. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
-| Alprazolam Aripiprazole Buspirone Diazepam Haloperidol | Midazolam (IV) Quetiapine Ramelteon Risperidone Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Alprazolam Aripiprazole Buspirone Cariprazine Diazepam Haloperidol | Midazolam (IV) Quetiapine Ramelteon Risperidone Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Zopiclone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lurasidone Midazolam (oral) Pimozide Triazolam |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
 | Antivirals |  |  |
 | Simeprevir |  | Not recommended during and 2 weeks after SPORANOX® treatment. |
 | Daclatasvir Indinavir Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir: see also Table 4. |
-| Cobicistat Elvitegravir (ritonavir-boosted) Ritonavir Saquinavir (unboosted) |  | Monitor for adverse reactions. |
-| Tenofovir disoproxil fumarate |  | Monitor for adverse reactions. |
+| Cobicistat Elvitegravir (ritonavir-boosted) Ombitasvir/Paritaprevir/Ritonavir with or without Dasabuvir Ritonavir Saquinavir (unboosted) |  | Monitor for adverse reactions. |
+| Elbasvir/grazoprevir |  | Not recommended during and 2 weeks after SPORANOX® treatment. |
+| Glecaprevir/pibrentasvir Tenofovir disoproxil fumarate |  | Monitor for adverse reactions. Monitor for adverse reactions. |
 | Beta Blockers |  |  |
 | Nadolol |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Calcium Channel Blockers |  |  |
@@ -173,7 +174,7 @@ Table 3: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentr
 | Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
 | Aliskiren Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after SPORANOX® treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
 | Bosentan Guanfacine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
-| Contraceptives |  |  |
+| ContraceptivesCYP3A4 inhibitors (including itraconazole) may increase systemic contraceptive hormone concentrations. |  |  |
 | Dienogest Ulipristal |  | Monitor for adverse reactions. |
 | Diuretics |  |  |
 | Eplerenone |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
@@ -201,7 +202,7 @@ Table 3: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentr
 | Colchicine |  | Patients with renal or hepatic impairment: Contraindicated during and 2 weeks after SPORANOX® treatment. Other patients: Not recommended during and 2 weeks after SPORANOX® treatment. |
 | Eliglustat |  | CYP2D6 EMsEMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizers taking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMs, or CYP2D6 PMs: Contraindicated during and 2 weeks after SPORANOX® treatment. CYP2D6 EMs not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
 | Lumacaftor/Ivacaftor |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. |
-| Alitretinoin (oral) Cabergoline Cannabinoids Cinacalcet Ivacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Alitretinoin (oral) Cabergoline Cannabinoids Cinacalcet Galantamine Ivacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Vasopressin Receptor Antagonists |  |  |
 | Conivaptan Tolvaptan |  | Not recommended during and 2 weeks after SPORANOX® treatment. |
 | Drug Interactions with SPORANOX® that Decrease Concomitant Drug Concentrations and May Reduce Efficacy of the Concomitant Drug |  |  |
@@ -223,9 +224,9 @@ Decreased concentrations may reduce SPORANOX® efficacy.
 The table below lists examples of drugs that may affect itraconazole concentrations, but is not a comprehensive list.
 Refer to the approved product labeling to become familiar with the interaction pathways, risk potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with SPORANOX®.
 
-Although many of the clinical drug interactions in Table 4 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with SPORANOX®.
+Although many of the clinical drug interactions in Table 2 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with SPORANOX®.
 
-Table 4.
+Table 2.
 Drug Interactions with Other Drugs that Affect SPORANOX® Concentrations
 
 | Concomitant Drug Within Class | Prevention or Management |
@@ -236,7 +237,7 @@ Drug Interactions with Other Drugs that Affect SPORANOX® Concentrations
 | Antineoplastics |  |
 | Idelalisib | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. See also Table 3. |
 | Antivirals |  |
-| Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavir Ritonavir Saquinavir | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. For Boceprevir, cobicistat, elvitegravir, indinavir, ritonavir, and saquinavir, see also Table 3. |
+| Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavir Ombitasvir/ Paritaprevir/ Ritonavir with or without Dasabuvir Ritonavir Saquinavir | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. For Boceprevir, cobicistat, elvitegravir, indinavir, ombitasvir/ paritaprevir/ ritonavir with or without dasabuvir, ritonavir and saquinavir, see also Table 3. |
 | Calcium Channel Blockers |  |
 | Diltiazem | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. See also the table above. |
 | Drug Interactions with Other Drugs that Decrease SPORANOX® Concentrations and May Reduce Efficacy of SPORANOX® |  |
@@ -279,7 +280,7 @@ This dose was about 6 times amount contained in the recommended clinical dose of
 The clinical relevance of this finding is unknown.
 The slightly higher incidence of adenocarcinomas in the large intestines was linked to the hypertrophic/hyperplastic and inflammatory changes in the colonic mucosa brought about by HP-β-CD-induced increased osmotic forces.
 
-In addition, HP-β-CD was found to produce pancreatic exocrine hyperplasia and neoplasia when administered orally to rats at doses of 500, 2000 or 5000mg/kg/day for 25.months.
+In addition, HP-β-CD was found to produce pancreatic exocrine hyperplasia and neoplasia when administered orally to rats at doses of 500, 2000 or 5000 mg/kg/day for 25 months.
 Adenocarcinomas of the exocrine pancreas produced in the treated animals were not seen in the untreated group and are not reported in the historical controls.
 The recommended clinical dose of SPORANOX® Oral Solution contains approximately 1.7 times the amount of HP-β-CD as was in the 500mg/kg/day dose, based on body surface area comparisons.
 This finding was not observed in the mouse carcinogenicity study at doses of 500, 2000 or 5000 mg/kg/day for 22–23 months.
@@ -302,6 +303,7 @@ HP-β-CD has no direct embryotoxic and no teratogenic effect.
 
 There are no studies in pregnant women.
 SPORANOX® should be used in pregnancy only if the benefit outweighs the potential risk.
+Highly effective contraception should be continued throughout SPORANOX® therapy and for 2 months following the end of treatment.
 
 During post-marketing experience, cases of congenital abnormalities have been reported.
 (See ADVERSE REACTIONS: Post-marketing Experience.)
