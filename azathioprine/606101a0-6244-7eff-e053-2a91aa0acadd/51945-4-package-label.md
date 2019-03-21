@@ -1,3 +1,5 @@
+# Imuran 50mg - 100 count Carton
+
 100 Tablets
 
 NDC 54766-590-10
@@ -9,5 +11,3 @@ Each scored tablet contains 50 mg
 Rx Only
 
 Sebela Pharmaceuticals Inc.
-
-# Imuran 50mg - 100 count Carton
