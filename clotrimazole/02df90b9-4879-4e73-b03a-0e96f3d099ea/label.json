@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209815"
+  ],
+  "inn": "clotrimazole",
+  "labeler": "Novitium Pharma LLC",
+  "package_ndcs": [
+    "70954-036-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "clotrimazole topical",
+      "name": "Clotrimazole"
+    }
+  ],
+  "setid": "02df90b9-4879-4e73-b03a-0e96f3d099ea",
+  "source": "dailymed"
+}
