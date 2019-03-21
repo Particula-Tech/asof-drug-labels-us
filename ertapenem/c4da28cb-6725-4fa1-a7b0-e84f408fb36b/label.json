@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA207647"
+  ],
+  "inn": "ertapenem",
+  "labeler": "Savior Lifetec Corporation",
+  "package_ndcs": [
+    "44647-051-01",
+    "44647-051-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ertapenem sodium",
+      "name": "Ertapenem"
+    }
+  ],
+  "setid": "c4da28cb-6725-4fa1-a7b0-e84f408fb36b",
+  "source": "dailymed"
+}
