@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211694"
+  ],
+  "inn": "pyridostigmine",
+  "labeler": "Novitium Pharma LLC",
+  "package_ndcs": [
+    "70954-148-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "pyridostigmine bromide oral",
+      "name": "Pyridostigmine"
+    }
+  ],
+  "setid": "ef78ff05-8e0f-463a-88cd-ca9a01aed76a",
+  "source": "dailymed"
+}
