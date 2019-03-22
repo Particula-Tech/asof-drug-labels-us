@@ -65,7 +65,8 @@ Table 12 Efficacy of XELODA vs 5-FU/LV in Adjuvant Treatment of Colon CancerAppr
 | --- | --- | --- |
 | Median follow-up (months) | 83 | 83 |
 | 5-year Disease-free Survival Rates (%)Based on Kaplan-Meier estimates | 59.1 | 54.6 |
-| Hazard Ratio (XELODA/5-FU/LV) (95% C.I. for Hazard Ratio) p-valueTest of superiority of XELODA vs 5-FU/LV (Wald chi-square test) | 0.88 (0.77 - 1.01) p = 0.068 |  |
+| Hazard Ratio (XELODA/5-FU/LV) (95% C.I. for Hazard Ratio) | 0.88 (0.77 - 1.01) |  |
+| p-valueTest of superiority of XELODA vs 5-FU/LV (Wald chi-square test) | p = 0.068 |  |
 
 | Figure 1 Kaplan-Meier Estimates of Disease-Free Survival (All Randomized Population)XELODA has been demonstrated to be non-inferior to 5-FU/LV. |
 | --- |
@@ -122,12 +123,10 @@ Table 14 Efficacy of XELODA vs 5-FU/LV in Colorectal Cancer (Study 1)
 | (p-value) | 0.0014 |  |
 | Time to Progression |  |  |
 | (Median, days, 95% C.I.) | 128 (120-136) | 131 (105-153) |
-| Hazard Ratio (XELODA/5-FU/LV) | 0.99 |  |
-| 95% C.I. for Hazard Ratio | (0.84-1.17) |  |
+| Hazard Ratio (XELODA/5-FU/LV) 95% C.I. for Hazard Ratio | 0.99 (0.84-1.17) |  |
 | Survival |  |  |
 | (Median, days, 95% C.I.) | 380 (321-434) | 407 (366-446) |
-| Hazard Ratio (XELODA/5-FU/LV) | 1.00 |  |
-| 95% C.I. for Hazard Ratio | (0.84-1.18) |  |
+| Hazard Ratio (XELODA/5-FU/LV) 95% C.I. for Hazard Ratio | 1.00 (0.84-1.18) |  |
 
 Table 15 Efficacy of XELODA vs 5-FU/LV in Colorectal Cancer (Study 2)
 
@@ -138,12 +137,10 @@ Table 15 Efficacy of XELODA vs 5-FU/LV in Colorectal Cancer (Study 2)
 | (p-value) | 0.027 |  |
 | Time to Progression |  |  |
 | (Median, days, 95% C.I.) | 137 (128-165) | 131 (102-156) |
-| Hazard Ratio (XELODA/5-FU/LV) | 0.97 |  |
-| 95% C.I. for Hazard Ratio | (0.82-1.14) |  |
+| Hazard Ratio (XELODA/5-FU/LV) 95% C.I. for Hazard Ratio | 0.97 (0.82-1.14) |  |
 | Survival |  |  |
 | (Median, days, 95% C.I.) | 404 (367-452) | 369 (338-430) |
-| Hazard Ratio (XELODA/5-FU/LV) | 0.92 |  |
-| 95% C.I. for Hazard Ratio | (0.78-1.09) |  |
+| Hazard Ratio (XELODA/5-FU/LV) 95% C.I. for Hazard Ratio | 0.92 (0.78-1.09) |  |
 
 Figure 3 Kaplan-Meier Curve for Overall Survival of Pooled Data (Studies 1 and 2)
 
@@ -259,11 +256,9 @@ Table 19 Response Rates in Doubly-Resistant Patients Single-Arm Breast Cancer Tr
 | CR | 0 |
 | PRIncludes 2 patients treated with an anthracenedione | 11 |
 | CR + PR | 11 |
-| Response Rate | 25.6% |
-| (95% C.I.) | (13.5, 41.2) |
+| Response Rate (95% C.I.) | 25.6% (13.5, 41.2) |
 | Duration of Response, |  |
-| Median in daysFrom date of first response | 154 |
-| (Range) | (63-233) |
+| Median in daysFrom date of first response (Range) | 154 (63-233) |
 
 For the subgroup of 43 patients who were doubly resistant, the median time to progression was 102 days and the median survival was 255 days.
 The objective response rate in this population was supported by a response rate of 18.5% (1 CR, 24 PRs) in the overall population of 135 patients with measurable disease, who were less resistant to chemotherapy (see Table 18).

@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Carton
 
 NDC 0004-1100-20
 
@@ -12,9 +12,9 @@ Rx only
 
 60 tablets Genentech
 
-10192055
+10210268
 
-PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Carton
 
 NDC 0004-1101-50
 
@@ -28,4 +28,4 @@ Rx only
 
 120 tablets Genentech
 
-10192056
+10210269

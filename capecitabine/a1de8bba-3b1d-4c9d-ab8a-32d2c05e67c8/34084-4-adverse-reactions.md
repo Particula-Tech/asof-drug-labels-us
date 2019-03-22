@@ -14,7 +14,7 @@ Table 5 shows grade 3/4 laboratory abnormalities occurring in ≥1% of patients 
 
 Table 4 Percent Incidence of Adverse Reactions Reported in ≥5% of Patients Treated With XELODA or 5-FU/LV for Colon Cancer in the Adjuvant Setting (Safety Population)
 
-| Body System/Adverse Event | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
+| Body System/ Adverse Event | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | --- | --- | --- | --- | --- |
 |  | Adjuvant Treatment for Colon Cancer (N=1969) |  |  |  |
 |  | XELODA (N=995) |  | 5-FU/LV (N=974) |  |
@@ -137,8 +137,7 @@ Table 6 Pooled Phase 3 Colorectal Trials: Percent Incidence of Adverse Reactions
 | Neutropenia | 13 | 1 | 2 | 46 | 8 | 13 |
 | Hepatobiliary |  |  |  |  |  |  |
 | Hyperbilirubinemia | 48 | 18 | 5 | 17 | 3 | 3 |
-| – Not observed |  |  |  |  |  |  |
-| NA = Not Applicable |  |  |  |  |  |  |
+| – Not observed NA = Not Applicable |  |  |  |  |  |  |
 
 ## 6.3 Breast Cancer
 
@@ -231,8 +230,7 @@ Table 7 Percent Incidence of Adverse Events Considered Related or Unrelated to T
 | Lymphoedema | 3 | <1 | – | 5 | 1 | – |
 | Psychiatric |  |  |  |  |  |  |
 | Depression | 5 | – | – | 5 | 1 | – |
-| – Not observed |  |  |  |  |  |  |
-| NA = Not Applicable |  |  |  |  |  |  |
+| – Not observed NA = Not Applicable |  |  |  |  |  |  |
 
 Table 8 Percent of Patients With Laboratory Abnormalities Participating in the XELODA and Docetaxel Combination vs Docetaxel Monotherapy Study
 
@@ -297,8 +295,7 @@ Table 9 Percent Incidence of Adverse Reactions Considered Remotely, Possibly or 
 | Lymphopenia | 94 | 44 | 15 |
 | Hepatobiliary |  |  |  |
 | Hyperbilirubinemia | 22 | 9 | 2 |
-| – Not observed |  |  |  |
-| NA = Not Applicable |  |  |  |
+| – Not observed NA = Not Applicable |  |  |  |
 
 ## 6.4 Clinically Relevant Adverse Events in <5% of Patients
 
@@ -324,7 +321,6 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 | Ear: | vertigo |
 | Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
 | Immune System: | drug hypersensitivity (0.1%) |
-| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)], persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)] |
 
 XELODA In Combination With Docetaxel (Metastatic Breast Cancer)
 
@@ -338,3 +334,9 @@ XELODA In Combination With Docetaxel (Metastatic Breast Cancer)
 | Renal: | renal failure (0.4%) |
 | Hepatobiliary: | jaundice (0.4%), abnormal liver function tests (0.4%), hepatic failure (0.4%), hepatic coma (0.4%), hepatotoxicity (0.4%) |
 | Immune System: | hypersensitivity (1.2%) |
+
+## 6.5 Postmarketing Experience
+
+The following adverse reactions have been observed in the postmarketing setting: hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)], persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)]
+
+In instances of exposure to crushed XELODA tablets, the following adverse reactions have been reported: eye irritation and swelling, skin rash, diarrhea, paresthesia, headache, gastric irritation, vomiting, and nausea.

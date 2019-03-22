@@ -95,11 +95,9 @@ The starting dose adjustment recommendations for patients with moderate renal im
 
 Cockroft and Gault Equation:
 
-(140 - age [yrs]) (body wt [kg])
-
-Creatinine clearance for males = ——————————————
-
-(72) (serum creatinine [mg/dL])
+| Creatinine clearance for males = | (140 - age [yrs]) (body wt [kg]) |  |
+| --- | --- | --- |
+| (72) (serum creatinine [mg/dL]) |  |  |
 
 Creatinine clearance for females = 0.85 × male value
 
