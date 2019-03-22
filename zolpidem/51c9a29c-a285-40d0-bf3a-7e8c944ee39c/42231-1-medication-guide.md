@@ -42,8 +42,7 @@ Who should not take zolpidem tartrate?
 
 Symptoms of a serious allergic reaction to zolpidem can include:
 
-- 
-  - swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
+- swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
 
 What should I tell my healthcare provider before taking zolpidem tartrate?
 
@@ -95,7 +94,6 @@ Zolpidem tartrate may cause serious side effects, including:
 - severe allergic reactions.
   Symptoms include swelling of the tongue or throat, and trouble breathing.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate.
-- falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate.
 
@@ -158,4 +156,4 @@ Medication Guides available at www.northstarrxllc.com/products or call 1-800-206
 
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahabubnagar (Dt)-509302 India.
-M.L.No.: 22/MN/AP/2009/F/R Revised: 11/2018
+M.L.No.: 22/MN/AP/2009/F/R Revised: 03/2019

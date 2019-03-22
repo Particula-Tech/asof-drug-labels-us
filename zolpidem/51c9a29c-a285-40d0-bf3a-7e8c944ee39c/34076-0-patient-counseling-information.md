@@ -12,6 +12,7 @@ CNS-Depressant Effects and Next-Day Impairment
 Tell patients that zolpidem tartrate has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
 Tell patients to wait for at least 8 hours after dosing before driving or engaging in other activities requiring full mental alertness.
 Inform patients that impairment can be present despite feeling fully awake.
+Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients.
 
 Severe Anaphylactic and Anaphylactoid Reactions
 
@@ -27,7 +28,7 @@ Suicide
 
 Tell patients to immediately report any suicidal thoughts.
 
-Alcohol and Other Drugs
+Alcohol and other Drugs
 
 Ask patients about alcohol consumption, medicines they are taking, and drugs they may be taking without a prescription.
 Advise patients not to use zolpidem tartrate if they drank alcohol that evening or before bed.
