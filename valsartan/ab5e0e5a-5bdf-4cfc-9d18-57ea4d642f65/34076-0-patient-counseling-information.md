@@ -8,10 +8,20 @@ Pregnancy: Female patients of childbearing age should be told about the conseque
 Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
-Distributed by:
+All trademarks of the property of their respective owners.
+
+Manufactured by:
 
 Ohm Laboratories Inc.
 
-North Brunswick, NJ 08902
+New Brunswick, NJ 08901
 
-February 2017 FDA-05
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512
+
+January 2019 FDA-06
+
+5194569

@@ -34,7 +34,7 @@ Valsartan tablets are not recommended for patients <6 years old [see Adverse Rea
 
 Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 
-Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle containing 8 valsartan 80 mg tablets, and shake for a minimum of 2 minutes.
+Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle containing 8 valsartan tablets 80 mg tablets, and shake for a minimum of 2 minutes.
 Allow the suspension to stand for a minimum of 1 hour.
 After the standing time, shake the suspension for a minimum of 1 additional minute.
 Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
@@ -49,3 +49,11 @@ The recommended starting dose of valsartan tablets is 40 mg twice daily.
 Uptitration to 80 mg and 160 mg twice daily should be done to the highest dose, as tolerated by the patient.
 Consideration should be given to reducing the dose of concomitant diuretics.
 The maximum daily dose administered in clinical trials is 320 mg in divided doses.
+
+## 2.4 Post-Myocardial Infarction
+
+Valsartan tablets may be initiated as early as 12 hours after a myocardial infarction.
+The recommended starting dose of valsartan tablets is 20 mg twice daily.
+Patients may be uptitrated within 7 days to 40 mg twice daily, with subsequent titrations to a target maintenance dose of 160 mg twice daily, as tolerated by the patient.
+If symptomatic hypotension or renal dysfunction occurs, consideration should be given to a dosage reduction.
+Valsartan tablets may be given with other standard post-myocardial infarction treatment, including thrombolytics, aspirin, beta-blockers, and statins.

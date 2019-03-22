@@ -29,7 +29,7 @@ Because many drugs are excreted into human milk and because of the potential for
 
 The antihypertensive effects of valsartan tablets have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1 to 5 and 6 to 16 years of age [see Clinical Studies (14.1)].
 The pharmacokinetics of valsartan tablets have been evaluated in pediatric patients 1 to 16 years of age [see Pharmacokinetics, Special Populations, Pediatric (12.3)].
-Valsartan tablets were generally well tolerated in children 6-16 years and the adverse experience profile was similar to that described for adults.
+Valsartan tablets were generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults.
 
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
 
@@ -54,6 +54,7 @@ In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patie
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
 
 Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
+In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
 There were no notable differences in efficacy or safety between older and younger patients in either trial.
 
 ## 8.6 Renal Impairment

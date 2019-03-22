@@ -35,7 +35,8 @@ Monitor serum lithium levels during concomitant use.
 In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of valsartan tablets.
 
 Creatinine: Minor elevations in creatinine occurred in 0.8% of patients taking valsartan tablets and 0.6% given placebo in controlled clinical trials of hypertensive patients.
-In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan tablets-treated patients compared to 0.9% of placebo-treated patients.
+In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
+In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
 
 Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in 0.4% and 0.8%, respectively, of valsartan tablets patients, compared with 0.1% and 0.1% in placebo-treated patients.
 One valsartan patient discontinued treatment for microcytic anemia.
