@@ -2,28 +2,31 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
+Risk Summary
 
-There are no studies using BiDil in pregnant women.
+There are no data on BiDil use in pregnant women, and insufficient data on its components (hydralazine and isosorbide dinitrate) to assess a drug-associated risk of major birth defects or miscarriage with first trimester use.
+Available published data on hydralazine use in pregnancy during the second and third trimesters have not shown an association with adverse pregnancy-related outcomes.
+
+Hydralazine hydrochloride is teratogenic in mice at 66 mg/kg and possibly in rabbits at 33 mg/kg (2 and 3 times the MRHD of BiDil on a body surface area basis).
 
 Isosorbide dinitrate has been shown to cause a dose-related increase in embryo-toxicity (excess mummified pups) in rabbits at 70 mg/kg (12 times the MRHD of BiDil on a body surface area basis).
 
-Hydralazine hydrochloride is teratogenic in mice at 66 mg/kg and possibly in rabbits at 33 mg/kg (2 and 3 times the MRHD of BiDil on a body surface area basis).
-There are no animal studies assessing the teratogenicity of BiDil.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-A meta-analysis of randomized controlled trials comparing hydralazine hydrochloride with other antihypertensive agents for severe hypertension in pregnancy found that hydralazine hydrochloride was associated with significantly more maternal hypotension, placental abruption, caesarean sections and oliguria, with more adverse effects on fetal heart rate and with lower Apgar scores.
+Clinical Considerations
 
-A combination of propranolol and hydralazine hydrochloride was administered to 13 patients with long-standing hypertension during 15 pregnancies.
-These pregnancies resulted in 14 live births and one unexplained stillbirth.
-The only neonatal complications were two cases of mild hypoglycemia.
-Hydralazine hydrochloride and its metabolites have been detected using a non-selective assay in maternal and umbilical plasma in patients treated with the drug during pregnancy.
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Isosorbide dinitrate has been used for effective acute and sub-chronic control of hypertension in pregnant women, but there are no studies using it in a chronic regimen and assessing its effects on pregnant women and/or the fetus.
+Pregnant women with heart failure are at increased risk for preterm birth.
+Clinical classification of heart disease may worsen with pregnancy and lead to maternal death and/or stillbirth.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-No studies have been performed with BiDil.
-It is not known if either hydralazine or isosorbide dinitrate is excreted in human milk.
+Risk Summary
+
+There are no data on the presence of BIDIL in human or animal milk, the effects on the breastfed infant or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BIDIL and any potential adverse effects on the breastfed child from BIDIL or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

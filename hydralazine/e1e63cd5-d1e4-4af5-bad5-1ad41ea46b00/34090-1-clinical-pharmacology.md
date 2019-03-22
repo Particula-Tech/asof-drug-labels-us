@@ -72,7 +72,7 @@ Negligible amounts of unchanged hydralazine are excreted in urine.
 
 Isosorbide dinitrate: Most isosorbide dinitrate is eliminated renally as conjugated metabolites.
 
-Special Populations
+Specific Populations
 
 No pharmacokinetic studies in special populations were conducted with BiDil.
 Pharmacokinetics in special populations is based on individual components.
