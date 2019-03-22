@@ -146,6 +146,7 @@ Ask if you are not sure.
 Before starting venlafaxine tablets, tell your healthcare provider if you:
 
 - Are taking certain drugs such as:
+- Amphetamines
 - Medicines used to treat migraine headaches such as:
   - triptans
 - Medicines used to treat mood, anxiety, psychotic or thought disorders, such as:
@@ -266,4 +267,5 @@ Active ingredient: venlafaxine hydrochloride Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with medication guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 12/2017
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with medication guide available at: http://www.risingpharma.com/med-guides.html.
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 03/2019

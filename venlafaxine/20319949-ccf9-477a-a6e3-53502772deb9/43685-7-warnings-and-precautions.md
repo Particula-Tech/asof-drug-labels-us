@@ -20,9 +20,9 @@ Table 1
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25 to 64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -49,7 +49,7 @@ It should be noted that venlafaxine hydrochloride is not approved for use in tre
 ## Serotonin Syndrome
 
 The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms(e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 
 The concomitant use of venlafaxine hydrochloride with MAOIs intended to treat psychiatric disorders is contraindicated.
@@ -77,8 +77,8 @@ Probability of Sustained Elevation in SDBP (Pool of Premarketing Venlafaxine Stu
 | --- | --- |
 | Venlafaxine |  |
 | < 100 mg/day | 3% |
-| 101-200 mg/day | 5% |
-| 201-300 mg/day | 7% |
+| 101 to 200 mg/day | 5% |
+| 201 to 300 mg/day | 7% |
 | > 300 mg/day | 13% |
 | Placebo | 2% |
 
@@ -489,9 +489,7 @@ Although no studies have been designed to primarily assess venlafaxine hydrochlo
 Should the decision be made to treat a pediatric patient with venlafaxine hydrochloride, regular monitoring of weight and height is recommended during treatment, particularly if it is to be continued long term.
 The safety of venlafaxine hydrochloride extended-release capsule treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 In the studies conducted in pediatric patients (ages 6 to 17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
-Consequently, the precautions for adults apply to pediatric patients (see
-
-WARNINGS, Sustained Hypertension, and PRECAUTIONS, General, Serum Cholesterol Elevation).
+Consequently, the precautions for adults apply to pediatric patients (see WARNINGS, Sustained Hypertension, and PRECAUTIONS, General, Serum Cholesterol Elevation).
 
 ## Geriatric Use
 
