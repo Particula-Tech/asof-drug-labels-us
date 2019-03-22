@@ -4,7 +4,7 @@ NDC 51672-1271-1
 
 15 g
 
-Desoximetasone Cream USP, 0.05%
+Desoximetasone Gel USP, 0.05%
 
 FOR TOPICAL USE ONLY.
 NOT FOR ORAL, OPHTHALMIC, OR INTRAVAGINAL USE.
