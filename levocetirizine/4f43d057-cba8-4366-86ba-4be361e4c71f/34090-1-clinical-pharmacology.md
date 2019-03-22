@@ -32,7 +32,7 @@ Peak concentrations are typically 270 ng/mL and 308 ng/mL following a single and
 Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but Tmax was delayed by about 1.25 hours and Cmax was decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
 
 A dose of 5 mg (10 mL) of levocetirizine dihydrochloride oral solution is bioequivalent to a 5 mg dose of levocetirizine dihydrochloride tablets.
-Following oral administration of a 5 mg dose of levocetirizine dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post-dose.
+Following oral administration of a 5 mg dose of levocetirizine dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post dose.
 
 Distribution
 
@@ -99,7 +99,7 @@ The corresponding increases of half-life estimates were 1.4-, 2.0-, 2.9-, and 4-
 The total body clearance of levocetirizine after oral dosing was correlated to the creatinine clearance and was progressively reduced based on severity of renal impairment.
 Therefore, it is recommended to adjust the dose and dosing intervals of levocetirizine based on creatinine clearance in patients with mild, moderate, or severe renal impairment.
 In end-stage renal disease patients (CLCR < 10 mL/min) levocetirizine is contraindicated.
-The amount of levocetirizine removed during a standard 4 hour hemodialysis procedure was < 10%.
+The amount of levocetirizine removed during a standard 4-hour hemodialysis procedure was < 10%.
 
 The dosage of levocetirizine dihydrochloride should be reduced in patients with mild renal impairment.
 Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].

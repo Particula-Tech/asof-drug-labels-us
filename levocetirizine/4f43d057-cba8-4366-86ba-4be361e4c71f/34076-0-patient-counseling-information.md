@@ -19,4 +19,4 @@ Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-Q 4/2018
+R 1/2019

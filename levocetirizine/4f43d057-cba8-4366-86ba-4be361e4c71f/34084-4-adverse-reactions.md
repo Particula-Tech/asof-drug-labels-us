@@ -15,7 +15,7 @@ Long term safety data are also available from an 18-month trial in 255 levocetir
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
-Adults and Adolescents 12 Years of Age and Older
+Adults and Adolescents 12 years of Age and Older
 
 In studies up to 6 weeks in duration, the mean age of the adult and adolescent patients was 32 years, 44% of the patients were men and 56% were women, and the large majority (more than 90%) was Caucasian.
 

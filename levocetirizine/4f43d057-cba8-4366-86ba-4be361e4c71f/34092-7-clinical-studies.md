@@ -5,7 +5,7 @@
 Adults and Adolescents 12 Years of Age and Older
 
 The efficacy of levocetirizine dihydrochloride was evaluated in four randomized, placebo-controlled, double-blind clinical trials in adult and adolescent patients 12 years and older with symptoms of perennial allergic rhinitis.
-The four clinical trials include two dose-ranging trials of 4 weeks duration and two efficacy trials (one 6 week and one 6 month) in patients with perennial allergic rhinitis.
+The four clinical trials include two dose-ranging trials of 4 weeks duration and two efficacy trials (one 6-week and one 6-month) in patients with perennial allergic rhinitis.
 
 These trials included a total of 1729 patients (752 males and 977 females) of whom 227 were adolescents 12 to 17 years of age.
 Efficacy was assessed using a total symptom score from patient recording of 4 symptoms (sneezing, rhinorrhea, nasal pruritus, and ocular pruritus) in three studies and 5 symptoms (sneezing, rhinorrhea, nasal pruritus, ocular pruritus, and nasal congestion) in one study.
@@ -28,7 +28,7 @@ Table 4: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of in
 | Levocetirizine Dihydrochloride 10 mg | 129 | 7.58 | 4.19 | 1.10 | (0.64, 1.57) | < 0.001 |
 | Placebo | 128 | 7.22 | 5.29 |  |  |  |
 
-One clinical trial evaluated the efficacy of levocetirizine dihydrochloride 5 mg once daily in the evening compared to placebo in patients with perennial allergic rhinitis over a 6 week treatment period.
+One clinical trial evaluated the efficacy of levocetirizine dihydrochloride 5 mg once daily in the evening compared to placebo in patients with perennial allergic rhinitis over a 6-week treatment period.
 Another trial conducted over a 6 month treatment period assessed efficacy at 4 weeks.
 Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective total symptom score than placebo and the difference from placebo was statistically significant.
 Results of the former are shown in Table 5.
@@ -57,7 +57,7 @@ The clinical efficacy of levocetirizine dihydrochloride in pediatric patients un
 Adult Patients 18 Years of Age and Older
 
 The efficacy of levocetirizine dihydrochloride for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria was evaluated in two multi-center, randomized, placebo-controlled, double-blind clinical trials of 4 weeks duration in adult patients 18 to 85 years of age with chronic idiopathic urticaria.
-The two trials included one 4 week dose-ranging trial and one 4 week single-dose level efficacy trial.
+The two trials included one 4 week dose-ranging trial and one 4-week single-dose level efficacy trial.
 These trials included 423 patients (139 males and 284 females).
 Most patients (> 90%) were Caucasian and the mean age was 41.
 Of these patients, 146 received levocetirizine dihydrochloride 5 mg once daily in the evening.
