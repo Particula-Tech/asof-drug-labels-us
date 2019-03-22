@@ -56,7 +56,7 @@ Measurement of baseline and periodic serum bicarbonate during topiramate treatme
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing TROKENDI XR (using dose tapering).
 If the decision is made to continue patients on TROKENDI XR in the face of persistent acidosis, alkali treatment should be considered.
 
-## 5.5 Interaction with Alcohol
+## 5.5 Interaction With Alcohol
 
 In vitro data show that, in the presence of alcohol, the pattern of topiramate release from TROKENDI XR ® capsules is significantly altered.
 As a result, plasma levels of topiramate with TROKENDI XR ® may be markedly higher soon after dosing and subtherapeutic later in the day.
@@ -104,14 +104,12 @@ Adult Patients
 
 Cognitive-Related Dysfunction
 
-Rapid titration rate and higher initial dose were associated with higher incidences of cognitive-related dysfunction.Rapid titration rate and higher initial dose were associated with higher incidences of cognitive-related dysfunction.
+Rapid titration rate and higher initial dose were associated with higher incidences of cognitive-related dysfunction.
 
 In adult adjunctive epilepsy controlled trials, which used rapid titration (100-200 mg/day weekly increments), and target immediate-release topiramate doses of 200 mg – 1000 mg/day, 56% of patients in the 800 mg/day and 1000 mg/day dose groups experienced cognitive-related dysfunction compared to approximately 42% of patients in the 200 - 400 mg/day groups and 14% for placebo.
 In this rapid titration regimen, these dose-related adverse reactions began in the titration or in the maintenance phase, and in some patients these events began during titration and persisted into the maintenance phase.
-In adult adjunctive epilepsy controlled trials, which used rapid titration (100-200 mg/day weekly increments), and target immediate-release topiramate doses of 200 mg – 1000 mg/day, 56% of patients in the 800 mg/day and 1000 mg/day dose groups experienced cognitive-related dysfunction compared to approximately 42% of patients in the 200 - 400 mg/day groups and 14% for placebo.
-In this rapid titration regimen, these dose-related adverse reactions began in the titration or in the maintenance phase, and in some patients these events began during titration and persisted into the maintenance phase.
 
-In the monotherapy epilepsy controlled trial conducted with immediate-release topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.In the monotherapy epilepsy controlled trial conducted with immediate-release topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
+In the monotherapy epilepsy controlled trial conducted with immediate-release topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
 
 In the 6-month migraine prophylaxis controlled trials of immediate release topiramate using a slower titration regimen (25mg per day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day, 22% for 100 mg per day (the recommended dose), 28% for 200 mg per day and 10% for placebo.
 Cognitive adverse reactions most commonly developed during titration and sometimes persisted after completion of titration.
@@ -132,9 +130,6 @@ Pediatric Patients
 In pediatric epilepsy trials (adjunctive and monotherapy) conducted with topiramate, the incidence of cognitive/neuropsychiatric adverse reactions in pediatric patients was generally lower than that observed in adults.
 These reactions included psychomotor slowing, difficulty with concentration/attention, speech disorders/related speech problems and language problems.
 The most frequently reported neuropsychiatric reactions in pediatric epilepsy patients during adjunctive therapy double-blind studies were somnolence and fatigue.
-The most frequently reported cognitive/neuropsychiatric reactions in pediatric epilepsy patients in the 50 mg/day and 400 mg/day groups during the monotherapy double-blind study were headache, dizziness, anorexia, and somnolence.In pediatric epilepsy trials (adjunctive and monotherapy) conducted with topiramate, the incidence of cognitive/neuropsychiatric adverse reactions in pediatric patients was generally lower than that observed in adults.
-These reactions included psychomotor slowing, difficulty with concentration/attention, speech disorders/related speech problems and language problems.
-The most frequently reported neuropsychiatric reactions in pediatric epilepsy patients during adjunctive therapy double-blind studies were somnolence and fatigue.
 The most frequently reported cognitive/neuropsychiatric reactions in pediatric epilepsy patients in the 50 mg/day and 400 mg/day groups during the monotherapy double-blind study were headache, dizziness, anorexia, and somnolence.
 
 In pediatric migraine patients, the incidence of cognitive/neuropsychiatric adverse reactions was increased in immediate-release topiramate-treated patients compared to placebo.
@@ -148,7 +143,7 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 
 ## 5.8 Fetal Toxicity
 
-Topiramate can cause fetal harm when administered to a pregnant woman.
+TROKENDI XR can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
@@ -163,25 +158,20 @@ In situations where rapid withdrawal of TROKENDI XR ® is medically required, ap
 
 ## 5.10 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
 
-Topiramate treatment can cause hyperammonemia with or without encephalopathy.
-The risk for hyperammonemia with topiramate appears dose-related.
-Hyperammonemia has been reported more frequently when topiramate is used concomitantly with valproic acid.
-Postmarketing cases of hyperammonemia with or without encephalopathy have been reported with topiramate and valproic acid in patients who previously tolerated either drug alone.
 Topiramate treatment can cause hyperammonemia with or without encephalopathy [see Adverse Reactions (6.2)].
 The risk for hyperammonemia with topiramate appears dose-related.
 Hyperammonemia has been reported more frequently when topiramate is used concomitantly with valproic acid.
 Postmarketing cases of hyperammonemia with or without encephalopathy have been reported with topiramate and valproic acid in patients who previously tolerated either drug alone [see Drug Interactions (7.2)].
 
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
-In most cases, hyperammonemic encephalopathy abated with discontinuation of treatment.Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 In most cases, hyperammonemic encephalopathy abated with discontinuation of treatment.
 
 The incidence of hyperammonemia in pediatric patients 12 to 17 years of age in migraine prophylaxis trials was 26% in patients taking topiramate monotherapy at 100 mg/day, and 14% in patients taking topiramate at 50 mg/day, compared to 9% in patients taking placebo.
 There was also an increased incidence of markedly increased hyperammonemia at the 100 mg dose.
 
-Dose-related hyperammonemia was also seen in pediatric patients 1 to 24 months of age treated with topiramate and concomitant valproic acid for partial onset epilepsy, and this was not due to a pharmacokinetic interaction.Dose-related hyperammonemia was also seen in pediatric patients 1 to 24 months of age treated with topiramate and concomitant valproic acid for partial onset epilepsy, and this was not due to a pharmacokinetic interaction.
+Dose-related hyperammonemia was also seen in pediatric patients 1 to 24 months of age treated with topiramate and concomitant valproic acid for partial onset epilepsy, and this was not due to a pharmacokinetic interaction.
 
-In some patients, hyperammonemia can be asymptomatic.In some patients, hyperammonemia can be asymptomatic.
+In some patients, hyperammonemia can be asymptomatic.
 
 Monitoring for Hyperammonemia
 
@@ -201,17 +191,13 @@ TROKENDI XR ® would be expected to have the same effect as immediate-release to
 TROKENDI XR ® is not approved for treatment of epilepsy in pediatric patients less than 6 years old [see Use in Specific Populations (8.4)].
 
 Topiramate is a carbonic anhydrase inhibitor.
-Carbonic anhydrase inhibitors can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [].
-The concomitant use of TROKENDI XR with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
-Topiramate is a carbonic anhydrase inhibitor.
 Carbonic anhydrase inhibitors can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.4)].
 The concomitant use of TROKENDI XR ® with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
 
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
-Hydration is recommended to reduce new stone formation.Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
 
-## 5.12 Hypothermia with Concomitant Valproic Acid Use
+## 5.12 Hypothermia With Concomitant Valproic Acid Use
 
 Hypothermia, defined as a drop in body core temperature to < 35ºC (95ºF), has been reported in association with topiramate use with concomitant valproic acid (VPA) both in conjunction with and in the absence of hyperammonemia.
 This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.2)].

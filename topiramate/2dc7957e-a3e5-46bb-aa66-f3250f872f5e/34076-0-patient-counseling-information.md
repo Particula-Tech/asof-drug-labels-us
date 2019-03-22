@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Administration Instructions
 
 Counsel patients to swallow TROKENDI XR ® capsules whole and intact.
-TROKENDI XR ® should not be sprinkled on food, chewed or crushed [See Dosage and Administration (2.7)].
+TROKENDI XR ® should not be sprinkled on food, chewed or crushed [see Dosage and Administration (2.7)].
 
 Consumption of Alcohol
 
@@ -28,7 +28,7 @@ Suicidal Behavior and Ideation
 Counsel patients, their caregivers, and families that AEDs, including TROKENDI XR ®, may increase the risk of suicidal thoughts and behavior and they should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers [see Warnings and Precautions (5.6)].
 
-Interference with Cognitive and Motor Performance
+Interference With Cognitive and Motor Performance
 
 Warn patients about the potential for somnolence, dizziness, confusion, difficulty concentrating, or visual effects and advise them not to drive or operate machinery until they have gained sufficient experience on TROKENDI XR ® to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.7)].
 
@@ -38,13 +38,14 @@ Physicians should discuss the appropriate level of caution with their patients, 
 
 Fetal Toxicity
 
-Counsel pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
+Counsel pregnant women and women of childbearing potential that use of TROKENDI XR during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
 Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age [see Use in Specific Populations (8.1)].
+There may also be risks to the fetus from chronic metabolic acidosis with use of TROKENDI XR during pregnancy [see Warnings and Precautions (5.4, 5.8)].
 When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 
-Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Warnings and Precautions (5.8) and Drug Interactions (7.2)].
+Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Warnings and Precautions (5.8) and Drug Interactions (7.5)].
 
-Encourage pregnant women using topiramate to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+Encourage pregnant women using TROKENDI XR to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
 Hyperammonemia and Encephalopathy
@@ -63,8 +64,3 @@ Hypothermia
 Counsel patients that TROKENDI XR ® can cause a reduction in body temperature, which can lead to alterations in mental status.
 If they note such changes, they should call their health care professional and measure their body temperature.
 Patients taking concomitant valproic acid should be specifically counseled on this potential adverse reaction [see Warnings and Precautions (5.12)].
-
-Paresthesia
-
-Counsel patients that they may experience tingling in the arms and legs.
-If this symptom occurs, they should consult with their physician.

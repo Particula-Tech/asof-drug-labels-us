@@ -11,7 +11,7 @@ Topiramate is designated chemically as 2,3:4,5-Di- O-isopropylidene-β-D-fructop
 TROKENDI XR ® (topiramate) is an extended-release capsule.
 TROKENDI XR ® capsules contain the following inactive ingredients:
 
-Sugar Spheres, NF Hypromellose (Type 2910), USP Mannitol, USP Docusate Sodium, USP Sodium Benzoate, NF Ethylcellulose, NF Oleic Acid, NF Medium Chain Triglycerides, NF Polyethylene Glycol, NF Polyvinyl Alcohol, USP Titanium Dioxide, USP Talc, USP Lecithin, NF Xanthan Gum, NF
+Sugar Spheres, NF Hypromellose (Type 2910), USP Mannitol, USP Docusate Sodium, USP Sodium Benzoate, NF Ethylcellulose, NF Oleic Acid, NF Medium Chain Triglycerides, NF Polyethylene Glycol, NF Polyvinyl Alcohol, USP Titanium Dioxide, USP Talc, USP Lecithin, NF Xanthan Gum, NF Glycerin, USP-NF
 
 The capsule shells contain gelatin, USP; Titanium Dioxide, USP; and Colorants.
 

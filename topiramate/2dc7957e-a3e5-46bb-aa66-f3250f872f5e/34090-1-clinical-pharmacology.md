@@ -60,7 +60,7 @@ Hemodialysis
 
 Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counterflow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
-This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.6)].
+This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
 
 Hepatic Impairment
 
@@ -74,12 +74,12 @@ Following a single oral 100 mg dose, maximum plasma concentration for elderly an
 Reflecting the primary renal elimination of topiramate, topiramate plasma and renal clearance were reduced 21% and 19%, respectively, in elderly subjects, compared to young adults.
 Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
-Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced.
+Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced [see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
 
 In a study of 13 healthy elderly subjects and 18 healthy young adults who received TROKENDI XR ®, 30% higher mean C max and 44% higher AUC values were observed in elderly compared to young subjects.
 Elderly subjects exhibited shorter median T max at 16 hours versus 24 hours in young subjects.
 The apparent elimination half-life was similar across age groups.
-As recommended for all patients, dosage adjustment is indicated in elderly patients with a creatinine clearance rate less than 70 mL/min/1.73 m 2) [s ee Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
+As recommended for all patients, dosage adjustment is indicated in elderly patients with a creatinine clearance rate less than 70 mL/min/1.73 m 2) [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 
 Clearance of topiramate in adults was not affected by gender or race.
 
@@ -105,13 +105,13 @@ The same drug interactions can be expected with the use of TROKENDI XR ®.
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 9.
+The effects of these interactions on mean plasma AUCs are summarized in Table 8.
 Interaction of TROKENDI XR ® and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
-In Table 9, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate was added.
+In Table 8, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
 
-Table 9: Summary of AED Interactions with topiramate
+Table 8: Summary of AED Interactions with Topiramate
 
 | AED Coadministered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -169,7 +169,7 @@ The steady-state pharmacokinetics of topiramate were unaffected by concomitant a
 
 Lithium
 
-In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg per day; however, there was an observed increase in systemic exposure of lithium (27% for C max and 26% for AUC) following topiramate doses up to 600 mg per day[see Drug Interactions (7.8)].
+In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg per day; however, there was an observed increase in systemic exposure of lithium (27% for C max and 26% for AUC) following topiramate doses up to 600 mg per day [see Drug Interactions (7.8)].
 
 Haloperidol
 

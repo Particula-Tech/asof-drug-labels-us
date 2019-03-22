@@ -8,7 +8,7 @@ The clinical studies described in the following sections were conducted using im
 
 ## 14.2 Monotherapy Epilepsy
 
-Patients with Partial Onset or Primary Generalized Tonic-Clonic Seizures
+Patients With Partial-Onset or Primary Generalized Tonic-Clonic Seizures
 
 Adults and Pediatric Patients 10 Years of Age and Older
 
@@ -29,30 +29,30 @@ Figure 1: Kaplan-Meier Estimates of Cumulative Rates for Time to First Seizure i
 
 Pediatric Patients 6 to 9 Years of Age
 
-The conclusion that topiramate is effective as initial monotherapy in pediatric patients 6 to 9 years of age with partial onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials conducted with immediate-release topiramate described in labeling.
+The conclusion that topiramate is effective as initial monotherapy in pediatric patients 6 to 9 years of age with partial-onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials conducted with immediate-release topiramate described in labeling.
 The approach consisted of first showing a similar exposure response relationship between pediatric patients down to 2 years of age and adults when immediate-release topiramate was given as adjunctive therapy [see Use in Specific Populations (8.4)].
-Similarity of exposure-response was demonstrated in pediatric patients ages 6 to less than 16 years of age and adults when topiramate was given as initial monotherapy.
+Similarity of exposure-response was demonstrated in pediatric patients 6 to less than 16 years of age and adults when topiramate was given as initial monotherapy.
 Specific dosing in pediatric patients 6 to 9 years of age was derived from simulations utilizing plasma exposure ranges observed in pediatric and adult patients treated with immediate-release topiramate initial monotherapy [see Dosage and Administration (2.1)].
 
 ## 14.3 Adjunctive Therapy Epilepsy
 
-Adult Patients with Partial Onset Seizures
+Adult Patients With Partial-Onset Seizures
 
-The effectiveness of topiramate as an adjunctive treatment for adults with partial onset seizures was established in six multicenter, randomized, double-blind, placebo-controlled trials (Studies 2, 3, 4, 5, 6, and 7), two comparing several dosages of topiramate and placebo and four comparing a single dosage with placebo, in patients with a history of partial onset seizures, with or without secondarily generalized seizures.
+The effectiveness of topiramate as an adjunctive treatment for adults with partial-onset seizures was established in six multicenter, randomized, double-blind, placebo-controlled trials (Studies 2, 3, 4, 5, 6, and 7), two comparing several dosages of topiramate and placebo and four comparing a single dosage with placebo, in patients with a history of partial onset seizures, with or without secondarily generalized seizures.
 
 Patients in these studies were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 In each study, patients were stabilized on optimum dosages of their concomitant AEDs during baseline phase lasting between 4 and 12 weeks.
-Patients who experienced a pre-specified minimum number of partial onset seizures, with or without secondary generalization, during the baseline phase (12 seizures for 12-week baseline, 8 for 8-week baseline or 3 for 4-week baseline) were randomly assigned to placebo or a specified dose of topiramate tablets in addition to their other AEDs.
+Patients who experienced a pre-specified minimum number of partial-onset seizures, with or without secondary generalization, during the baseline phase (12 seizures for 12-week baseline, 8 for 8-week baseline or 3 for 4-week baseline) were randomly assigned to placebo or a specified dose of topiramate tablets in addition to their other AEDs.
 
 Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg/day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In Study 7, the 25 or 50 mg/day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg/day until the target dose of 200 mg/day was reached.
 After titration, patients entered a 4, 8 or 12-week stabilization period.
-The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 10.
+The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 9.
 
-Pediatric Patients 6 to 16 Years of Age with Partial Onset Seizures
+Pediatric Patients 6 to 16 Years of Age With Partial-Onset Seizures
 
-The effectiveness of topiramate as an adjunctive treatment for pediatric patients 6 to 16 years of age with partial onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 8), comparing topiramate and placebo in patients with a history of partial onset seizures, with or without secondarily generalized seizures.
+The effectiveness of topiramate as an adjunctive treatment for pediatric patients 6 to 16 years of age with partial-onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 8), comparing topiramate and placebo in patients with a history of partial-onset seizures, with or without secondarily generalized seizures.
 
 Patients in Study 8 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 In Study 8, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -64,7 +64,7 @@ After titration, patients entered an 8-week stabilization period.
 
 Patients With Primary Generalized Tonic-Clonic Seizures
 
-The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of topiramate and placebo (see Table 11).
+The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of topiramate and placebo (see Table 10).
 
 Patients in Study 9 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -76,7 +76,7 @@ After titration, patients entered a 12-week stabilization period.
 
 Patients With Lennox-Gastaut Syndrome
 
-The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10), comparing a single dosage of topiramate with placebo (see Table 11).
+The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10), comparing a single dosage of topiramate with placebo (see Table 10).
 
 Patients in Study 10 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4 week baseline phase.
@@ -85,7 +85,7 @@ Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then 
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 10: Immediate Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial Onset Seizures Dose-response studies were not conducted for other indications or pediatric partial-onset seizures
+Table 9: Immediate Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults With Partial-Onset Seizures Dose-response studies were not conducted for other indications or pediatric partial-onset seizures
 
 | Study | Stabilization Dose | Placebo Placebo dosages are given as the number of tablets. Placebo target dosages were as follows: Study 4 (4 tablets/day); Studies 2 and 5 (6 tablets/day); Studies 6 and 7 (8 tablets/day); Study 3 (10 tablets/day) | 200 | 400 | 600 | 800 | 1,000 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -110,10 +110,10 @@ Table 10: Immediate Release Topiramate Dose Summary During the Stabilization Per
 | Median Dose | 8 | 200 | -- | -- | -- | -- |  |
 
 In all adjunctive topiramate trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 11.
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 10.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 11: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
+Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
 | Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/kg/day For Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -160,7 +160,7 @@ In clinical trials for epilepsy, daily dosages were decreased in weekly interval
 
 Adult Patients
 
-The results of 2 multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trials conducted in US (Study 1) or the US and Canada (Study 2) established the effectiveness of immediate-release topiramate in the prophylactic treatment of migraine headache.
+The results of 2 multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trials conducted in US (Study 11) or the US and Canada (Study 12) established the effectiveness of immediate-release topiramate in the prophylactic treatment of migraine headache.
 The design of both trials was identical, enrolling patients with a history of migraine with or without aura, for at least 6 months, according to the International Headache Society (IHS) diagnostic criteria.
 Patients with a history of cluster headaches or basilar, opthalmoplegic, hemiplegic, or transformed migraine headaches were excluded from the trials.
 Patients were required to have completed up to a 2-week washout of any prior migraine preventative medications before starting the baseline phase.
@@ -170,7 +170,7 @@ Treatment was initiated at 25 mg/day for one week, and then the daily dosage was
 
 Effectiveness of treatment was assessed by the reduction in migraine headache frequency, as measured by the change in 4-week migraine rate (according to migraines classified by IHS criteria) from the baseline phase to double-blind treatment period in each immediate-release topiramate treatment group compared to placebo in the Intent-To-Treat (ITT) population.
 
-In Study 1, a total of 469 patients (416 females, 53 males) ranging in age from 13 to 70 years, were randomized and provided efficacy data.
+In Study 11, a total of 469 patients (416 females, 53 males) ranging in age from 13 to 70 years, were randomized and provided efficacy data.
 Two hundred sixty-five patients completed the entire 26-week double-blind phase.
 The median average daily dosages were 48 mg/day, 88 mg/day, and 132 mg/day in the target dose groups of topiramate 50, 100 and 200 mg/day, respectively.
 
@@ -178,7 +178,7 @@ The mean migraine headache frequency rate at baseline was approximately 5.5 migr
 The change in the mean 4-week migraine headache frequency from baseline to the double-blind phase was -1.3, -2.1, and -2.2 in the immediate-release topiramate 50, 100, and 200 mg/day groups, respectively, versus -0.8 in the placebo group (see Figure 2).
 The treatment differences between the immediate release topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p less than 0.001 for both comparisons).
 
-In Study 2, a total of 468 patients (406 females, 62 males) ranging in age from 12 to 65 years, were randomized and provided efficacy data.
+In Study 12, a total of 468 patients (406 females, 62 males) ranging in age from 12 to 65 years, were randomized and provided efficacy data.
 Two hundred fifty-five patients completed the entire 26-week double-blind phase.
 The median average daily dosages were 47 mg/day, 86 mg/day, and 150 mg/day in the target dose groups of immediate-release topiramate 50, 100, and 200 mg/day, respectively.
 
@@ -191,13 +191,13 @@ Because most patients were Caucasian, there were insufficient numbers of patient
 
 For patients withdrawing from immediate-release topiramate, daily dosages were decreased in weekly intervals by 25 to 50 mg/day.
 
-| Figure 2: Reduction in 4-Week Migraine Headache Frequency (Studies 1 and 2 for Adults and Adolescents) |
+| Figure 2: Reduction in 4-Week Migraine Headache Frequency (Studies 11 and 12 for Adults and Adolescents) |
 | --- |
 
 Pediatric Patients 12 to 17 Years of Age
 
-The effectiveness of immediate-release topiramate as prophylaxis for migraine headache in pediatric patients 12 to 17 years of age was established in a multicenter, randomized, double-blind, parallel-group trial (Study 3).
-The study enrolled 103 patients (40 male, 63 female) age 12 to 17 years with episodic migraine headaches with or without aura.
+The effectiveness of immediate-release topiramate as prophylaxis for migraine headache in pediatric patients 12 to 17 years of age was established in a multicenter, randomized, double-blind, parallel-group trial (Study 13).
+The study enrolled 103 patients (40 male, 63 female) 12 to 17 years of age with episodic migraine headaches with or without aura.
 Patient selection was based on IHS criteria for migraines (using proposed revisions to the 1988 IHS pediatric migraine criteria [IHS-R criteria]).
 
 Patients who experienced 3 to 12 migraine attacks (according to migraines classified by patient reported diaries) and ≤14 headache days (migraine and non-migraine) during the 4-week prospective baseline period were randomized to either immediate-release topiramate 50 mg/day, 100 mg/day, or placebo and treated for a total of 16 weeks (4-week titration period followed by a 12 week maintenance period).
@@ -206,13 +206,13 @@ Approximately 80% or more patients in each treatment group completed the study.
 The median average daily dosages were 45 and 79 mg/day in the target dose groups of immediate-release topiramate 50 and 100 mg/day, respectively.
 
 Effectiveness of treatment was assessed by comparing each immediate-release topiramate treatment group to placebo (ITT population) for the percent reduction from baseline to the last 12 weeks of the double-blind phase in the monthly migraine attack rate (primary endpoint).
-The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 12.
+The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 11.
 The 100 mg immediate-release topiramate dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
 
-The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 3 (and the primary efficacy endpoint in Studies 1 and 2, of adults) was 3.0 for 100 mg immediate-release topiramate dose and 1.7 for placebo.
+The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12, of adults) was 3.0 for 100 mg immediate-release topiramate dose and 1.7 for placebo.
 This 1.3 treatment difference in mean reduction from baseline of montly migraine rate was statistically significant (p=0.0087).
 
-Table 12: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 3 (Intent-to-Treat Analysis Set)
+Table 11: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
 
 | Category | Placebo (N=33) | Immediate-Release Topiramate 50 mg/day (N=35) | Immediate-Release Topiramate 100 mg/day (N=35) |
 | --- | --- | --- | --- |

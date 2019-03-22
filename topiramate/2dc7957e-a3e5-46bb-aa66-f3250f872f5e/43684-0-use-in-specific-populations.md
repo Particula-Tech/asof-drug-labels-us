@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to topiramate during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as TROKENDI XR, during pregnancy.
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334.
@@ -12,12 +12,15 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 
 Risk Summary
 
-Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age [see Human Data].
+TROKENDI XR can cause fetal harm when administered to a pregnant woman.
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age (SGA) [see Human Data].
+SGA has been observed at all doses and appears to be dose-dependent.
+The prevalence of SGA is greater in infants of women who received higher doses of topiramate during pregnancy.
+In addition, the prevalence of SGA in infants of women who continued topiramate use until later in pregnancy is higher compared to the prevalence in infants of women who stopped topiramate use before the third trimester.
 
-In multiple animal species, topiramate demonstrated developmental toxicity, including teratogenicity, in the absence of maternal toxicity at clinically relevant doses [see Animal Data].
+In multiple animal species, topiramate demonstrated developmental toxicity, including increased incidences of fetal malformations, in the absence of maternal toxicity at clinically relevant doses [see Animal Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -29,12 +32,14 @@ Women who are planning a pregnancy should be counseled regarding the relative ri
 
 Labor or Delivery
 
-Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor [see Use in Specific Populations (8.1)].
+Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor.
 
 TROKENDI XR treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
 Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.4)].
 Newborns of mothers treated with TROKENDI XR should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
+
+Based on limited information, topiramate has also been associated with pre-term labor and premature delivery.
 
 Data
 
@@ -46,31 +51,31 @@ It was also higher than the background prevalence in United States (0.17%) as es
 The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval=[CI] 4.0-23.0) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
-Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of small for gestational age (SGA) newborns (birth weight <10th percentile).
-In the NAAED pregnancy registry, 18% of topiramate-exposed newborns were SGA compared to 7% of newborns exposed to a reference AED, and 5% of newborns of mothers without epilepsy and without AED exposure.
-In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9 % in the comparison group who were unexposed to AEDs.
+Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
+In the NAAED pregnancy registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED, and 5.4% of newborns of mothers without epilepsy and without AED exposure.
+In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9% in the comparison group who were unexposed to AEDs.
 The long-term consequences of the SGA findings are not known.
 
 Animal Data
 
-When topiramate (20, 100, and 500 mg/kg/day) was administered orally to pregnant mice during the period of organogenesis, the incidence of fetal malformations (primarily craniofacial defects) was increased at all doses.
+When topiramate (0, 20, 100, or 500 mg/kg/day) was administered orally to pregnant mice during the period of organogenesis, incidences of fetal malformations (primarily craniofacial defects) were increased at all doses.
 Fetal body weights and skeletal ossification were reduced at the highest dose tested in conjunction with decreased maternal body weight gain.
 A no-effect dose for embryofetal developmental toxicity in mice was not identified.
-The lowest dose tested, which was associated with teratogenic effects, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m 2) basis.
+The lowest dose tested, which was associated with an increased incidence of malformations, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m 2) basis.
 
-In pregnant rats administered topiramate (20, 100, and 500 mg/kg/day or 0.2, 2.5, 30, and 400 mg/kg/day) orally during the period of organogenesis, the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased in fetuses at 400 or 500 mg/kg/day.
+In pregnant rats administered topiramate (0, 20, 100, and 500 mg/kg/day or 0, 0.2, 2.5, 30, and 400 mg/kg/day) orally during the period of organogenesis, the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased in fetuses at 400 and 500 mg/kg/day.
 Embryotoxicity (reduced fetal body weights, increased incidences of structural variations) was observed at doses as low as 20 mg/kg/day.
 Clinical signs of maternal toxicity were seen at 400 mg/kg/day and above, and maternal body weight gain was reduced at doses of 100 mg/kg/day or greater.
-The no-effect dose for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
+The no-effect dose (2.5 mg/kg/day) for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
 
-In pregnant rabbits administered topiramate (20, 60, and 180 mg/kg/day or 10, 35, and 120 mg/kg/day) orally during organogenesis, embryofetal mortality was increased at 35 mg/kg/day and teratogenic effects (primarily rib and vertebral malformations) were observed at 120 mg/kg/day.
+In pregnant rabbits administered topiramate (0, 20, 60, and 180 mg/kg/day or 0, 10, 35, and 120 mg/kg/day) orally during organogenesis, embryofetal mortality was increased at 35 mg/kg/day and an increased incidence of fetal malformations (primarily rib and vertebral malformations) was observed at 120 mg/kg/day.
 Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg/day and above.
 The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m 2 basis.
 
-When topiramate (0.2, 4, 20, and 100 mg/kg/day or 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre-and/or postweaning body weight gain at 2 mg/kg/day and above.
+When topiramate (0, 0.2, 4, 20, and 100 mg/kg/day or 0, 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre-and/or postweaning body weight gain at 2 mg/kg/day and above.
 Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg/day or greater.
 
-In a rat embryo/fetal development study which included postnatal assessment of offspring, oral administration of topiramate (0.2, 2.5, 30, and 400 mg/kg/day) to pregnant animals during the period of organogenesis resulted in delayed physical development at 400 mg/kg/day and persistent reductions in body weight gain at 30 mg/kg/day and higher in the offspring.
+In a rat embryofetal development study which included postnatal assessment of offspring, oral administration of topiramate (0, 0.2, 2.5, 30, and 400 mg/kg/day) to pregnant animals during the period of organogenesis resulted in delayed physical development in offspring at 400 mg/kg/day and persistent reductions in body weight gain in offspring at 30 mg/kg/day and higher.
 The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
 
 ## 8.2 Lactation
@@ -78,7 +83,8 @@ The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity
 Risk Summary
 
 Topiramate is excreted in human milk [see Data].
-The effects of topiramate exposure in breastfed infants or on milk production are unknown.
+The effects of topiramate on milk production are unknown.
+Diarrhea and somnolence have been reported in breastfed infants whose mothers receive topiramate treatment.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TROKENDI XR and any potential adverse effects on the breastfed infant from TROKENDI XR or from the underlying maternal condition.
 
@@ -108,21 +114,21 @@ These include, but are not limited to:
 
 Not Recommended for Pediatric Patients Younger than 6 Years of Age
 
-The safety and effectiveness of TROKENDI XR for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients younger than 6 years of age has not been established.
+The safety and effectiveness of TROKENDI XR for treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients younger than 6 years of age has not been established.
 
 Because the capsule must be swallowed whole, and may not be sprinkled on food, crushed or chewed, TROKENDI XR ® is recommended only for children age 6 or older.
 
 The following pediatric use information for adjunctive treatment for partial onset epilepsy in infants and toddlers (1 to 24 months) is based on studies conducted with immediate-release topiramate, which failed to demonstrate efficacy.
 
 Safety and effectiveness of immediate-release topiramate in patients below the age of 2 years have not been established for the adjunctive therapy treatment of partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome.
-In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of immediate-release topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in pediatric patients 1 to 24 months of age with refractory partial onset seizures, was assessed.
-After 20 days of double-blind treatment, immediate-release topiramate (at fixed doses of 5 mg/kg, 15 mg/kg, and 25 mg/kg per day) did not demonstrate efficacy compared with placebo in controlling seizures.
+In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of immediate-release topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in pediatric patients 1 to 24 months of age with refractory partial-onset seizures were assessed.
+After 20 days of double-blind treatment, immediate-release topiramate (at fixed doses of 5, 15, and 25 mg/kg per day) did not demonstrate efficacy compared with placebo in controlling seizures.
 
 In general, the adverse reaction profile for immediate-release topiramate in this population was similar to that of older pediatric patients, although results from the above controlled study, and an open-label, long-term extension study in these pediatric patients 1 to 24 months old suggested some adverse reactions not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications.
 
 These very young pediatric patients appeared to experience an increased risk for infections (any topiramate dose 12%, placebo 0%) and of respiratory disorders (any topiramate dose 40%, placebo 16%).
 The following adverse reactions were observed in at least 3% of patients on immediate-release topiramate and were 3% to 7% more frequent than in patients on placebo: viral infection, bronchitis, pharyngitis, rhinitis, otitis media, upper respiratory infection, cough, and bronchospasm.
-A generally similar profile was observed in older pediatric patients [see Adverse Reactions (6)].
+A generally similar profile was observed in older pediatric patients [see Adverse Reactions (6.1)].
 
 Immediate-release topiramate resulted in an increased incidence of patients with increased creatinine (any topiramate dose 5%, placebo 0%), BUN (any topiramate dose 3%, placebo 0%), and protein (any topiramate dose 34%, placebo 6%), and an increased incidence of decreased potassium (any topiramate dose 7%, placebo 0%).
 This increased frequency of abnormal values was not dose related.
@@ -169,7 +175,7 @@ Abnormally decreased results were observed with topiramate vs placebo treatment 
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse that were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 
-Migraine Prophylaxis in Pediatric Patients 6 to11 Years of Age
+Migraine Prophylaxis in Pediatric Patients 6 to 11 Years of Age
 
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the prophylaxis treatment of migraine headache.
 

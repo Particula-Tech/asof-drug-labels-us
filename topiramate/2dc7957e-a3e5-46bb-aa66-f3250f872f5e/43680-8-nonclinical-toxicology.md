@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-An increase in urinary bladder tumors was observed in mice given topiramate (20, 75, and 300 mg/kg/day) in the diet for 21 months.
+An increase in urinary bladder tumors was observed in mice given topiramate (0, 20, 75, and 300 mg/kg/day) in the diet for 21 months.
 An increase in the incidence of bladder tumors in males and females receiving 300 mg/kg was primarily due to the increased occurrence of a smooth muscle tumor considered histomorphologically unique to mice.
 The higher of the doses not associated with an increase in tumors (75 mg/kg/day) is equivalent to the maximum recommended human dose (MRHD) for epilepsy and approximately 4 times the MRHD for migraine (100 mg) on a mg/m 2 basis.
 The relevance of this finding to human carcinogenic risk is uncertain.

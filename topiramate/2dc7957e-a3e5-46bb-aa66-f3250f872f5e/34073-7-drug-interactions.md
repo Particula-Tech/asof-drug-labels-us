@@ -14,13 +14,13 @@ Examine blood ammonia levels in patients in whom the onset of hypothermia has be
 
 ## 7.3 Other Carbonic Anhydrase Inhibitors
 
-Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide, or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide or acetazolamide) may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
 Patients should be monitored for the appearance or worsening of metabolic acidosis when TROKENDI XR ® is given concomitantly with another carbonic anhydrase inhibitor [see Clinical Pharmacology (12.3)].
 
 ## 7.4 CNS Depressants
 
 Concomitant administration of topiramate with other CNS depressant drugs or alcohol has not been evaluated in clinical studies.
-Because of the potential of topiramate to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse reactions, TROKENDI XR ® should be used with extreme caution if used in combination with alcohol and other CNS depressants [see Warnings and Precautions (5.7)].
+Because of the potential of topiramate to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse reactions, TROKENDI XR ® should be used with extreme caution if used in combination with alcohol and other CNS depressants [see Contraindications (4) and Warnings and Precautions (5.7)].
 
 ## 7.5 Oral Contraceptives
 
