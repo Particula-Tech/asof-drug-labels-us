@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761106"
+  ],
+  "inn": "hyaluronidase-human-recombinant",
+  "labeler": "Genentech, Inc.",
+  "package_ndcs": [
+    "50242-077-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "trastuzumab and hyaluronidase-oysk",
+      "name": "Herceptin Hylecta"
+    }
+  ],
+  "setid": "ebf30894-41cf-480c-8bc3-56f592a13813",
+  "source": "dailymed"
+}
