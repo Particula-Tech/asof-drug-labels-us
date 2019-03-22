@@ -10,3 +10,7 @@ Instruct patients to inform their physicians if they are taking, or plan to take
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
+
+LAB-0856-2.0
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA

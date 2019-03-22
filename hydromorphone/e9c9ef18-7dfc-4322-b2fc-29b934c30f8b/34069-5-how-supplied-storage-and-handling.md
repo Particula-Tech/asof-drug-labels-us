@@ -8,20 +8,20 @@ Implementation of more effective accounting procedures and measures to restrict 
 
 How Supplied
 
-| Unit of Sale | Concentration (per total volume) | Each |
-| --- | --- | --- |
-| NDC 0409-2552-01 Box of 10 | 1 mg/mL | NDC 0409-2552-11 1 mL fill in 1 mL Single-use Ampule |
-| NDC 0409-3356-01 Box of 10 | 2 mg/mL | NDC 0409-3356-11 1 mL fill in 1 mL Single-use Ampule |
-| NDC 0409-2540-01 Box of 10 | 4 mg/mL | NDC 0409-2540-11 1 mL fill in 1 mL Single-use Ampule |
-| NDC 0409-3365-01 Tray of 25 | 2 mg/mL | NDC 0409-3365-11 1 mL fill in 2 mL Single-use Vial |
-| NDC 0409-1283-31 Box of 10 | 1 mg/mL | NDC 0409-1283-03 1 mL fill in 2.5 mL Carpuject™ Single-use cartridge with Luer Lock for the Carpuject™ Syringe System |
-| NDC 0409-1312-30 Box of 10 | 2 mg/mL | NDC 0409-1312-03 1 mL fill in 2.5 mL Carpuject™ Single-use cartridge with Luer Lock for the Carpuject™ Syringe System |
-| NDC 0409-1304-31 Box of 10 | 4 mg/mL | NDC 0409-1304-03 1 mL fill in 2.5 mL Carpuject™ Single-use cartridge with Luer Lock for the Carpuject™ Syringe System |
-| NDC 0409-1283-05 Box of 10 | 0.5 mg/0.5 mL | NDC 0409-1283-04 0.5 mL fill in 1.5 mL iSecure™ Single-use Prefilled Syringe with Luer Lock |
-| NDC 0409-1283-10 Box of 10 | 1 mg/mL | NDC 0409-1283-09 1 mL fill in 1.5 mL iSecure™ Single-use Prefilled Syringe with Luer Lock |
-| NDC 0409-1312-10 Box of 10 | 2 mg/mL | NDC 0409-1312-09 1 mL fill in 1.5 mL iSecure™ Single-use Prefilled Syringe with Luer Lock |
+| Unit of Sale | Concentration (per total volume) |
+| --- | --- |
+| NDC 0409-2552-01 Carton of 10 1 mL fill in 1 mL Single-dose Ampul | 1 mg/mL |
+| NDC 0409-3356-01 Carton of 10 1 mL fill in 1 mL Single-dose Ampul | 2 mg/mL |
+| NDC 0409-2540-01 Carton of 10 1 mL fill in 1 mL Single-dose Ampul | 4 mg/mL |
+| NDC 0409-3365-01 Tray of 25 1 mL fill in 2 mL Single-dose Vial | 2 mg/mL |
+| NDC 0409-1283-31 Carton of 10 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 1 mg/mL |
+| NDC 0409-1312-30 Carton of 10 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 2 mg/mL |
+| NDC 0409-1304-31 Carton of 10 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 4 mg/mL |
+| NDC 0409-1283-05 Carton of 10 0.5 mL fill in 1.5 mL iSecure™ Single-dose Prefilled Syringe with Luer Lock | 0.5 mg/0.5 mL |
+| NDC 0409-1283-10 Carton of 10 1 mL fill in 1.5 mL iSecure™ Single-dose Prefilled Syringe with Luer Lock | 1 mg/mL |
+| NDC 0409-1312-10 Carton of 10 1 mL fill in 1.5 mL iSecure™ Single-dose Prefilled Syringe with Luer Lock | 2 mg/mL |
 
-Carpuject™ Single-use cartridges with Luer Lock are packaged in a Slim-Pak™ tamper detection package.
+Carpuject™ Single-dose cartridges with Luer Lock are packaged in a Slim-Pak™ tamper detection package.
 Note that a needle is not included.
 
 PROTECT FROM LIGHT

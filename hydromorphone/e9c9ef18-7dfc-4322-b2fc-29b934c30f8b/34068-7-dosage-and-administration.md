@@ -6,9 +6,9 @@
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy and following dosage increases with Hydromorphone Hydrochloride Injection and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
 - Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-  A slight yellowish discoloration may develop in Hydromorphone Hydrochloride Injection ampules.
+  A slight yellowish discoloration may develop in Hydromorphone Hydrochloride Injection ampuls.
   No loss of potency has been demonstrated.
-  Hydromorphone Hydrochloride Injection s physically compatible and chemically stable for at least 24 hours at 25°C protected from light in most common large volume parenteral solutions.
+  Hydromorphone Hydrochloride Injection is physically compatible and chemically stable for at least 24 hours at 25°C protected from light in most common large volume parenteral solutions.
 - Discard any unused portion in an appropriate manner.
 
 ## 2.2 Initial Dosage
@@ -22,9 +22,10 @@ Depending on the clinical situation, the initial starting dose may be lowered in
 
 Intravenous Administration
 
-The initial starting dose is 0.2 mg to 1 mg every 2 to 3 hours as necessary for pain control.Intravenous administration should be given slowly, over at least 2 to 3 minutes, depending on the dose.
+The initial starting dose is 0.2 mg to 1 mg every 2 to 3 hours as necessary for pain control.
+Intravenous administration should be given slowly, over at least 2 to 3 minutes, depending on the dose.
 Titrate the dose to achieve acceptable pain management and tolerable adverse events.
-The initial dose should be educed in the elderly or debilitated and may be lowered to 0.2 mg.
+The initial dose should be reduced in the elderly or debilitated and may be lowered to 0.2 mg.
 
 Conversion from Other Opioids to Hydromorphone Hydrochloride Injection
 
