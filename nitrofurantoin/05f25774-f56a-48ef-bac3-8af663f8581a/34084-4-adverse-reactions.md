@@ -41,7 +41,7 @@ Transient alopecia also has been reported.
 
 Allergic: A lupus-like syndrome associated with pulmonary reactions to nitrofurantoin has been reported.
 Also, angioedema; maculopapular, erythematous, or eczematous eruptions; pruritus; urticaria; anaphylaxis; arthralgia; myalgia; drug fever; chills; and vasculitis (sometimes associated with pulmonary reactions) have been reported.
-Hypersensitivity reactions represent the most frequent spontaneously-reported adverse events in worldwide postmarketing experience with nitrofurantoin formulations.
+Hypersensitivity reactions represent the most frequent spontaneously-reported adverse events in worldwide post-marketing experience with nitrofurantoin formulations.
 
 Gastrointestinal: Nausea, emesis, and anorexia occur most often.
 Abdominal pain and diarrhea are less common gastrointestinal reactions.

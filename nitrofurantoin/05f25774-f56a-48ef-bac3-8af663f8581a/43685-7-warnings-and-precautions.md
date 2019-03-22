@@ -73,7 +73,7 @@ Prescribing nitrofurantoin macrocrystals in the absence of a proven or strongly 
 ## Drug Interactions:
 
 Antacids containing magnesium trisilicate, when administered concomitantly with nitrofurantoin, reduce both the rate and extent of absorption.
-The mechanism for this interaction probably is absorption of nitrofurantoin onto the surface of magnesium trisilicate.
+The mechanism for this interaction probably is adsorption of nitrofurantoin onto the surface of magnesium trisilicate.
 
 Uricosuric drugs, such as probenecid and sulfinpyrazone, can inhibit renal tubular secretion of nitrofurantoin.
 The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial.
@@ -104,9 +104,9 @@ Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredic
 
 ## Pregnancy:
 
-Teratogenic Effects:
+Teratogenic Effects: Pregnancy Category B.
 
-Pregnancy Category B. Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
+Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
 In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
 However, at 25 times the human dose, fetal malformations were not observed; the relevance of these findings to humans is uncertain.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -133,10 +133,10 @@ Nitrofurantoin macrocrystals is contraindicated in infants below the age of one 
 
 ## Geriatric Use
 
-Clinical studies of nitrofurantoin macrocrystals did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects..
+Clinical studies of nitrofurantoin macrocrystals did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving longterm nitrofurantoin therapy.
+Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long-term nitrofurantoin therapy.
 As in younger patients, chronic pulmonary reactions generally are observed in patients receiving therapy for six months or longer (see WARNINGS).
 Spontaneous reports also suggest an increased proportion of severe hepatic reactions, including fatalities, in elderly patients (see WARNINGS).
 

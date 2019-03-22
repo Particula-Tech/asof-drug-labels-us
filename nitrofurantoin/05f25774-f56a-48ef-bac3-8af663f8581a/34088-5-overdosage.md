@@ -14,7 +14,7 @@ Adults: 50-100 mg four times a day — the lower dosage level is recommended for
 Pediatric Patients: 5-7 mg/kg of body weight per 24 hours, given in four divided doses (contraindicated under one month of age).
 
 Therapy should be continued for one week or for at least 3 days after sterility of the urine is obtained.
-Continued infection indicates the need for reevaluation.
+Continued infection indicates the need for re-evaluation.
 
 For long-term suppressive therapy in adults, a reduction of dosage to 50-100 mg at bedtime may be adequate.
 For long-term suppressive therapy in pediatric patients, doses as low as 1 mg/kg per 24 hours, given in a single dose or in two divided doses, may be adequate.
