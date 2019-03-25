@@ -16,7 +16,7 @@ Advise patients to report to their healthcare provider if they experience any si
 
 Drug Interactions
 
-- Advise patients to let you know if they are taking, or begin taking, other medications, because Esomeprazole Magnesium Delayed-release Capsules can interfere with antiretroviral drugs and drugs that are affected by gastric pH changes [see Drug Interactions(7.1)].
+- Advise patients to let you know if they are taking, or begin taking, other medications, because Esomeprazole Magnesium Delayed-release Capsules can interfere with antiretroviral drugs and drugs that are affected by gastric pH changes [see Drug Interactions (7.1)].
 
 Administration
 
@@ -34,8 +34,9 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19154
 
-CIA77977A
+CIA77977B
 
-Revised: 04/2018
+Rev.
+06/2018
 
 All brand names are the trademarks of their respective owners.

@@ -100,7 +100,7 @@ Blood and Lymphatic: agranulocytosis, pancytopenia;
 
 Eye: blurred vision;
 
-Gastrointestinal: pancreatitis; stomatitis; microscopic colitis;
+Gastrointestinal: pancreatitis; stomatitis; microscopic colitis; fundic gland polyps;
 
 Hepatobiliary: hepatic failure, hepatitis with or without jaundice;
 

@@ -4,8 +4,8 @@ Esomeprazole Magnesium (ES-oh-MEP-ra-zole mag-NEE-zee-um)
 
 Delayed-release Capsules, USP
 
-CIA77978A Rev.
-04/2018
+CIA77978B Rev.
+06/2018
 
 Read the Medication Guide that comes with Esomeprazole Magnesium Delayed-release Capsules before you start taking Esomeprazole Magnesium Delayed-release Capsules and each time you get a refill.
 There may be new information.
@@ -149,6 +149,9 @@ Tell your doctor right away if you have any of these symptoms:
 
 Your doctor may check the level of magnesium in your body before you start taking Esomeprazole Magnesium Delayed-release Capsules or during treatment if you will be taking Esomeprazole Magnesium Delayed-release Capsules for a long period of time.
 
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+
 The most common side effects with Esomeprazole Magnesium Delayed-release Capsules may include:
 
 - headache
@@ -235,6 +238,9 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
 
-CIA77978A Revised: 04/2018
+CIA77978B
+
+Rev.
+06/2018
 
 All brand names are the trademarks of their respective owners.

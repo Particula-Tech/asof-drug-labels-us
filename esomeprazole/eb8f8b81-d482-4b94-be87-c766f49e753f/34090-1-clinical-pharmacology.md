@@ -135,6 +135,8 @@ Age: Geriatric Population
 The AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 Dosage adjustment based on age is not necessary.
 
+Age: Pediatric Population
+
 1 to 11 Years of Age
 
 The pharmacokinetics of esomeprazole were studied in pediatric patients with GERD aged 1 to 11 years.
