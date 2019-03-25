@@ -5,7 +5,9 @@
   "inn": "brimonidine",
   "labeler": "Somerset Therapeutics, LLC",
   "package_ndcs": [
-    "70069-231-01"
+    "70069-231-01",
+    "70069-232-01",
+    "70069-233-01"
   ],
   "products": [
     {
