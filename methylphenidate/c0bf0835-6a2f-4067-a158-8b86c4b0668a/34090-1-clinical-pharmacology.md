@@ -38,7 +38,7 @@ Time to Cmax (Tmax) is faster after a high-fat meal (median Tmax: 2.5 hours) as 
 Distribution
 
 Binding to plasma proteins is low (10% to 33%).
-The volume of distribution was 2.65 ± 1.11 L/kg for d- methylphenidate and 1.80 ± 0.91 L/kg for l- methylphenidate.
+The volume of distribution was 2.65 ± 1.11 L/kg for d-methylphenidate and 1.80 ± 0.91 L/kg for l-methylphenidate.
 
 Elimination
 

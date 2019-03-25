@@ -42,4 +42,4 @@ Advise patients that Ritalin and Ritalin-SR may cause slowing of growth and weig
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2019-15
+T2019-15B

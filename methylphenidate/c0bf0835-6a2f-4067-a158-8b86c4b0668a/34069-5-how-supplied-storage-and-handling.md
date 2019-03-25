@@ -8,8 +8,8 @@ Ritalin Tablets
 
 20 mg tablets (NDC 0078-0441-05) round, pale yellow, scored, (imprinted CIBA 34) supplied in bottles of 100
 
-Store at 25°C (77°F), excursions permitted 15°C to 30°C (59°F to 86°F).
-[See USP controlled room temperature]
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C (59°F to 86°F).
+[See USP controlled room temperature].
 
 Protect from light.
 
@@ -20,7 +20,7 @@ Ritalin-SR Extended-release Tablets
 20 mg SR extended-release tablets (NDC 0078-0442-05), round, white, coated, (imprinted CIBA 16) supplied in bottles of 100
 
 Store at 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C (59°F to 86°F).
-[See USP controlled room temperature]
+[See USP controlled room temperature].
 
 Protect from moisture.
 
