@@ -1,15 +1,13 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Partial Onset Seizures and Primary Generalized Tonic-Clonic Seizures
+## 1.1 Monotherapy Epilepsy
 
-QUDEXY XR extended-release capsules are indicated as initial monotherapy in patients 2 years of age and older with partial onset or primary generalized tonic-clonic seizures and adjunctive therapy in patients 2 years of age and older with partial onset or primary generalized tonic-clonic seizures.
-Safety and effectiveness in patients who were converted to monotherapy from a previous regimen of other anticonvulsant drugs have not been established in controlled trials [see Clinical Studies (14.2)].
+QUDEXY XR is indicated as initial monotherapy for the treatment of partial-onset or primary generalized tonic-clonic seizures in patients 2 years of age and older [see Clinical Studies (14.2)].
 
-## 1.2 Lennox-Gastaut Syndrome
+## 1.2 Adjunctive Therapy Epilepsy
 
-QUDEXY XR extended-release capsules are indicated as adjunctive therapy in patients 2 years of age and older with seizures associated with Lennox-Gastaut syndrome [see Clinical Studies (14.5)].
+QUDEXY XR is indicated as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut Syndrome in patients 2 years of age and older [see Clinical Studies (14.5)].
 
 ## 1.3 Migraine
 
-QUDEXY XR extended-release capsules are indicated for the prophylaxis of migraine headache in adults and adolescents 12 years of age and older [see Clinical Studies (14.7)].
-The usefulness of QUDEXY XR in the acute treatment of migraine headache has not been studied.
+QUDEXY XR is indicated for the prophylaxis of migraine headache in patients 12 years of age and older [see Clinical Studies (14.5)].
