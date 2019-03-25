@@ -124,3 +124,14 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 2. Immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and administer by deep intramuscular injection into a large muscle mass (such as the gluteal muscles or lateral part of the thigh).
 3. The reconstituted IM solution should be used within 1 hour after preparation.
    NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
+
+Storage
+
+When prepared with the diluent, Ertapenem for injection maintains satisfactory potency for 6 hours at room temperature (25°C) or for 24 hours under refrigeration (5°C) and used within 4 hours after removal from refrigeration.
+Solutions of Ertapenem for injection should not be frozen.
+
+Before administering, see accompanying package circular for Ertapenem for injection.
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to use, whenever solution and container permit.
+Solutions of Ertapenem for injection range from colorless to pale yellow.
+Variations of color within this range do not affect the potency of the product

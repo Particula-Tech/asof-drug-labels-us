@@ -61,10 +61,6 @@ Table 10 Concentrations (mcg/mL) of Ertapenem in Adult Skin Blister Fluid at eac
 | --- | --- | --- | --- | --- | --- | --- |
 | 7 | 12 | 17 | 24 | 24 | 21 | 8 |
 
-The concentration of ertapenem in breast milk from 5 lactating women with pelvic infections (5 to 14 days postpartum) was measured at random time points daily for 5 consecutive days following the last 1 g dose of intravenous therapy (3-10 days of therapy).
-The concentration of ertapenem in breast milk within 24 hours of the last dose of therapy in all 5 women ranged from <0.13 (lower limit of quantitation) to 0.38 mcg/mL; peak concentrations were not assessed.
-By day 5 after discontinuation of therapy, the level of ertapenem was undetectable in the breast milk of 4 women and below the lower limit of quantitation (<0.13 mcg/mL) in 1 woman.
-
 Metabolism
 
 In healthy young adults, after infusion of 1 g IV radiolabeled ertapenem, the plasma radioactivity consists predominantly (94%) of ertapenem.
@@ -146,6 +142,8 @@ Resistance
 Ertapenem is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.
 Ertapenem is hydrolyzed by metallo-beta-lactamases.
 
+Antimicrobial Activity
+
 Ertapenem has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
 Gram-positive bacteria:
@@ -176,4 +174,6 @@ Anaerobic bacteria:
 
 Bacteroides vulgatus Clostridium perfringens Fusobacterium spp.
 
-Susceptibility Testing: For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see https://www.fda.gov/STIC.
+Susceptibility Testing
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see https://www.fda.gov/STIC.

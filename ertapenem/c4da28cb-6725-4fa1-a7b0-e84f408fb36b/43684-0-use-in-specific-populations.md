@@ -2,24 +2,39 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary
 
-In mice and rats given intravenous doses of up to 700 mg/kg/day (for mice, approximately 3 times the recommended human dose of 1 g based on body surface area and for rats, approximately 1.2 times the human exposure at the recommended dose of 1 g based on plasma AUCs), there was no evidence of developmental toxicity as assessed by external, visceral, and skeletal examination of the fetuses.
-However, in mice given 700 mg/kg/day, slight decreases in average fetal weights and an associated decrease in the average number of ossified sacrocaudal vertebrae were observed.
-Ertapenem crosses the placental barrier in rats.
+Available data from a small number of postmarketing cases with Ertapenem for injection use in pregnancy are insufficient to inform any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+In animal reproduction studies after intravenous administration of ertapenem during the period of organogenesis, there was no evidence of developmental malformations in rats at systemic exposures (AUC) up to approximately 1.2 times the human exposure at the maximum recommended human dose (MRHD) and in mice at doses up to approximately 3 times the MRHD based on body surface area comparison.
+In pregnant rats administered ertapenem during organogenesis through lactation, fetal toxicity, developmental delays, and impaired reproduction did not occur in first generation offspring at systemic exposures (AUC) approximately 1.2 times the human exposure at the MRHD (see Data).
 
-There are, however, no adequate and well-controlled trials in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Data Animal Data
 
-Ertapenem for injection has not been studied for use during labor and delivery.
+In pregnant rats, intravenous administration of ertapenem dosages of up to 700 mg/kg/day (approximately 1.2 times the MRHD based on AUC) during the period of organogenesis (gestation days [GD] 6-20) revealed no maternal or embryofetal effects.
 
-## 8.3 Nursing Mothers
+Pregnant mice intravenously administered ertapenem dosages of up to 700 mg/kg/day (approximately 3 times the MRHD based on body surface area comparison) during the period of organogenesis (GD 6-15) showed slight decreases in average fetal weight and an associated decrease in the average number of ossified sacrocaudal vertebrae.
+There were no maternal effects at any dosage.
 
-Ertapenem is excreted in human breast milk [see Clinical Pharmacology (12.3)].
-Caution should be exercised when Ertapenem for injection is administered to a nursing woman.
-Ertapenem for injection should be administered to nursing mothers only when the expected benefit outweighs the risk.
+In a pre-postnatal study in rats, ertapenem administered to pregnant rats at dosages up to 700 mg/kg/day (approximately 1.2 times the MRHD based on AUC) during organogenesis through lactation, (GD 6 until Lactation Day (LD) 20) did not result in fetal toxicity, developmental delays, or impaired reproduction in first generation offspring, and fetal deaths and malformations were not increased in second generation offspring.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Ertapenem is present in human milk (see Data).
+There are no data on the effects on the breastfed infant or the effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ertapenem for injection and any potential adverse effects on the breastfed infant from Ertapenem for injection or from the underlying maternal condition.
+
+Data
+
+The concentration of ertapenem in breast milk from 5 lactating women with pelvic infections (5 to 14 days postpartum) measured at random time points daily for 5 consecutive days following the last 1 g dose of intravenous therapy (3 to 10 days of therapy) showed low levels.
+The concentration of ertapenem in breast milk within 24 hours of the last dose of therapy in all 5 women ranged from (<0.13 (lower limit of quantitation) to 0.38 mcg/ml), although peak concentrations were not assessed.
+By day 5 after discontinuation of therapy, the level of ertapenem was undetectable in the breast milk of 4 women and below the lower limit of quantitation (<0.13 mcg/mL) in 1 woman.
+The concentration of ertapenem in transitional milk observed in this study may not reflect the concentration of ertapenem in mature milk.
 
 ## 8.4 Pediatric Use
 
