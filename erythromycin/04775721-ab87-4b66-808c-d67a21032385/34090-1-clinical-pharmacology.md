@@ -12,13 +12,21 @@ The drug is excreted in human milk.
 
 ## Microbiology
 
+### Mechanism of Action
+
 Erythromycin acts by inhibition of protein synthesis by binding 50 S ribosomal subunits of susceptible organisms.
 It does not affect nucleic acid synthesis.
 Antagonism has been demonstrated in vitro between erythromycin and clindamycin, lincomycin, and chloramphenicol.
 
+### Resistance
+
 Many strains of Haemophilus influenzae are resistant to erythromycin alone but are susceptible to erythromycin and sulfonamides used concomitantly.
 
+### Interactions With Other Antimicrobials
+
 Staphylococci resistant to erythromycin may emerge during a course of therapy.
+
+### Antimicrobial Activity
 
 Erythromycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
