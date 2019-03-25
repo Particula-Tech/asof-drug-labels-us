@@ -11,13 +11,15 @@ General Counseling Information
 
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7, Canada
+By: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7 Canada
 
-U.S. Patent Numbers: 7,547,451 and 8,865,688
+U.S. Patent Numbers: 6,551,620; 7,547,451; 8,337,886; 8,496,965; 8,865,688; 8,911,778; 8,940,328 and 8,956,647
 
 Apriso is a trademark of Valeant Pharmaceuticals International, Inc., or its affiliates.
 
 © Valeant Pharmaceuticals North America LLC
 
-- 9602402
-- 20002492
+Please see www.salix.com for patent information.
+
+- P/N
+- Revised 03/2019
