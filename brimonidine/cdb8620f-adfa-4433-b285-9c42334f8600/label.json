@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208992"
+  ],
+  "inn": "brimonidine",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-231-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "brimonidine tartrate",
+      "name": "BRIMONIDINE TARTRATE"
+    }
+  ],
+  "setid": "cdb8620f-adfa-4433-b285-9c42334f8600",
+  "source": "dailymed"
+}
