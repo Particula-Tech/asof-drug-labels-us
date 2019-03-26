@@ -54,30 +54,30 @@ TO HEALTHY POSTMENOPAUSAL WOMEN
 
 |  | 1 x Activella1 mg/0.5 mg (n=24) | 2 x Activella0.5 mg/0.1 mg(n=24) |
 | --- | --- | --- |
-|  | Mean a (%CV) b | Mean a (%CV) b |
-| Estradiol c (E 2) |  |  |
-| AUC 0-t (pg/mL*h) | 766.5 (48) | 697.3 (53) |
-| C max (pg/mL) | 26.8 (36) | 26.5 (37) |
-| t max (h): median (range) | 6.0 (0.5-16.0) | 6.5 (0.5-16.0) |
-| t 1/2 (h) d | 14.0 e (29) | 14.5 f (27) |
-| Estrone c (E 1) |  |  |
-| AUC 0-t (pg/mL*h) | 4469.1 (48) | 4506.4 (44) |
-| C max (pg/mL) | 195.5 (37) | 199.5 (30) |
-| t max (h): median (range) | 6.0 (1.0-9.0) | 6.0 (2.0-9.0) |
-| t 1/2 (h) d | 10.7 (44) g | 11.8 (25) |
+|  | Meana (%CV)b | Meana (%CV)b |
+| Estradiolc (E2) |  |  |
+| AUC0-t (pg/mL*h) | 766.5 (48) | 697.3 (53) |
+| Cmax (pg/mL) | 26.8 (36) | 26.5 (37) |
+| tmax (h): median (range) | 6.0 (0.5-16.0) | 6.5 (0.5-16.0) |
+| t1/2 (h)d | 14.0e (29) | 14.5f (27) |
+| Estronec (E1) |  |  |
+| AUC0-t (pg/mL*h) | 4469.1 (48) | 4506.4 (44) |
+| Cmax (pg/mL) | 195.5 (37) | 199.5 (30) |
+| tmax (h): median (range) | 6.0 (1.0-9.0) | 6.0 (2.0-9.0) |
+| t1/2 (h)d | 10.7 (44)g | 11.8 (25) |
 | Norethindrone (NET) |  |  |
-| AUC 0-t (pg/mL*h) | 21043 (41) | 8407.2 (43) |
-| C max (pg/mL) | 5249.5 (47) | 2375.4 (41) |
-| t max (h): median (range) | 0.7 (0.7-1.25) | 0.8 (0.7-1.3) |
-| t 1/2 (h) | 9.8 (32) h | 11.4 (36) i |
+| AUC0-t (pg/mL*h) | 21043 (41) | 8407.2 (43) |
+| Cmax (pg/mL) | 5249.5 (47) | 2375.4 (41) |
+| tmax (h): median (range) | 0.7 (0.7-1.25) | 0.8 (0.7-1.3) |
+| t1/2 (h) | 9.8 (32)h | 11.4 (36)i |
 
 AUC = area under the curve, 0 – last quantifiable sample
 
-C max = maximum plasma concentration,
+Cmax = maximum plasma concentration,
 
-t max = time at maximum plasma concentration,
+tmax = time at maximum plasma concentration,
 
-t 1/2 = half-life,
+t1/2 = half-life,
 
 a geometric mean; b geometric % coefficient of variation; c baseline unadjusted data; d baseline unadjusted data; e n=18; f n=16;
 

@@ -100,8 +100,7 @@ Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24].
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
-7
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
 
 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
 The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
