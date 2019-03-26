@@ -16,21 +16,21 @@ Table 6 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Ca
 | Parameter | Oseltamivir | Oseltamivir Carboxylate |
 | --- | --- | --- |
 | Cmax (ng/mL) | 65 (26) | 348 (18) |
-| AUC0-12h (ng∙h/mL) | 112 (25) | 2719 (20) |
+| AUC0-12h (ng∙h/mL) | 112 (25) | 2,719 (20) |
 
 Plasma concentrations of oseltamivir carboxylate are proportional to doses up to 500 mg given twice daily (about 6.7 times the maximum recommended oseltamivir phosphate dosage) [see Dosage and Administration (2)].
 
 Coadministration with food had no significant effect on the peak plasma concentration (551 ng/mL under fasted conditions and 441 ng/mL under fed conditions) and the area under the plasma concentration time curve (6,218 ng·h/mL under fasted conditions and 6,069 ng·h/mL under fed conditions) of oseltamivir carboxylate.
 
-Distribution The volume of distribution (Vss) of oseltamivir carboxylate, following intravenous administration in 24 subjects (Oseltamivir Phosphate for Oral Suspension is not available as an IV formulation), ranged between 23 and 26 liters.
+Distribution The volume of distribution (Vss) of oseltamivir carboxylate, following intravenous administration in 24 subjects (oseltamivir phosphate for oral suspension is not available as an intravenous formulation), ranged between 23 liters and 26 liters.
 
 The binding of oseltamivir carboxylate to human plasma protein is low (3%).
 The binding of oseltamivir to human plasma protein is 42%, which is insufficient to cause significant displacement-based drug interactions.
 
 Elimination Absorbed oseltamivir is primarily (>90%) eliminated by conversion to the active metabolite, oseltamivir carboxylate.
-Plasma concentrations of oseltamivir declined with a half-life of 1 to 3 hours in most subjects after oral administration.
+Plasma concentrations of oseltamivir declined with a half-life of 1 hour to 3 hours in most subjects after oral administration.
 Oseltamivir carboxylate is not further metabolized and is eliminated unchanged in urine.
-Plasma concentrations of oseltamivir carboxylate declined with a half-life of 6 to 10 hours in most subjects after oral administration.
+Plasma concentrations of oseltamivir carboxylate declined with a half-life of 6 hours to 10 hours in most subjects after oral administration.
 
 Metabolism
 
@@ -52,27 +52,27 @@ The pharmacokinetics of oseltamivir have not been studied in ESRD patients not u
 
 Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate in Patients with and Normal Renal Function, with Renal Impairment and ESRD Patients on Hemodialysis
 
-| Renal Function/ Impairment | Normal Creatinine Clearance 90-140 mL/min(n=57) | Mild Creatinine Clearance 60-90 mL/min (n=45) | Moderate Creatinine Clearance 30-60 mL/min (n=13) | Severe Creatinine Clearance 10-30 mL/min (n=11) | ESRD Creatinine Clearance <10 mL/min on Hemodialysis (n=24) |
+| Renal Function/ Impairment | Normal Creatinine Clearance 90 to 140 mL/min (n=57) | Mild Creatinine Clearance 60 to 90 mL/min (n=45) | Moderate Creatinine Clearance 30 to 60 mL/min (n=13) | Severe Creatinine Clearance 10 to 30 mL/min (n=11) | ESRD Creatinine Clearance <10 mL/min on Hemodialysis (n=24) |
 | --- | --- | --- | --- | --- | --- |
 | Recommended Treatment Regimens |  |  |  |  |  |
 | PK exposure parameter | 75 mg twice daily | 75 mg twice daily | 30 mg twice daily | 30 mg once daily | 30 mg every HD cycle |
 | Cmin (ng/mL) | 145 | 253 | 180 | 219 | 221 |
-| Cmax (ng/mL) | 298 | 464 | 306 | 477 | 1170 |
-| AUC48 (ng∙h/mL)* | 11224 | 18476 | 12008 | 16818 | 23200 |
+| Cmax (ng/mL) | 298 | 464 | 306 | 477 | 1,170 |
+| AUC48 (ng∙h/mL)* | 11,224 | 18,476 | 12,008 | 16,818 | 23,200 |
 | Recommended Prophylaxis Regimens |  |  |  |  |  |
 | PK exposure parameter | 75 mg once daily | 75 mg once daily | 30 mg once daily | 30 mg every other day | 30 mg alternate HD cycle |
 | Cmin (ng/mL) | 39 | 62 | 57 | 70 | 42 |
 | Cmax (ng/mL) | 213 | 311 | 209 | 377 | 903 |
-| AUC48 (ng∙hr/mL)* | 5294 | 8336 | 6262 | 9317 | 11200 |
+| AUC48 (ng∙hr/mL)* | 5,294 | 8,336 | 6,262 | 9,317 | 11,200 |
 | * AUC normalized to 48 hours. |  |  |  |  |  |
 
 In continuous ambulatory peritoneal dialysis (CAPD) patients, the peak concentration of oseltamivir carboxylate following a single 30 mg dose of oseltamivir or once weekly oseltamivir was approximately 3-fold higher than in patients with normal renal function who received 75 mg twice daily.
 The plasma concentration of oseltamivir carboxylate on Day 5 (147 ng/mL) following a single 30 mg dose in CAPD patients is similar to the predicted Cmin (160 ng/mL) in patients with normal renal function following 75 mg twice daily.
-Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168 hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
+Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168-hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
 
 Hepatic Impairment In clinical studies, oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Use in Specific Populations (8.7)].
 
-Pregnant Women A pooled population pharmacokinetic analysis indicates that the Oseltamivir Phosphate for Oral Suspension dosage regimen resulted in lower exposure to the active metabolite in pregnant women (n=59) compared to non-pregnant women (n=33).
+Pregnant Women A pooled population pharmacokinetic analysis indicates that the oseltamivir phosphate for oral suspension dosage regimen resulted in lower exposure to the active metabolite in pregnant women (n=59) compared to non-pregnant women (n=33).
 However, this predicted exposure is expected to have activity against susceptible influenza virus strains and there are insufficient pharmacokinetics and safety data to recommend a dose adjustment for pregnant women [see Use in Specific Populations (8.1)].
 
 Pediatric Subjects (1 year to 12 years of age) The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in a single-dose pharmacokinetic study in pediatric subjects aged 5 to 16 years (n=18) and in a small number of pediatric subjects aged 3 to 12 years (n=5) enrolled in a clinical trial.
@@ -101,7 +101,7 @@ No clinically relevant pharmacokinetic interactions have been observed when coad
 
 Mechanism of Action Oseltamivir phosphate is an ethyl ester prodrug requiring ester hydrolysis for conversion to the active form, oseltamivir carboxylate.
 Oseltamivir carboxylate is an inhibitor of influenza virus neuraminidase affecting release of viral particles.
-The median IC50 values of oseltamivir against influenza A/H1N1, influenza A/H3N2, and influenza B clinical isolates were 2.5 nM (range 0.93-4.16 nM, N=74), 0.96 nM (range 0.13-7.95 nM, N=774), and 60 nM (20-285 nM, N=256), respectively, in a neuraminidase assay with a fluorescently labeled MUNANA substrate.
+The median IC50 values of oseltamivir against influenza A/H1N1, influenza A/H3N2, and influenza B clinical isolates were 2.5 nM (range 0.93 to 4.16 nM, N=74), 0.96 nM (range 0.13 to 7.95 nM, N=774), and 60 nM (20 to 285 nM, N=256), respectively, in a neuraminidase assay with a fluorescently labeled MUNANA substrate.
 
 Antiviral Activity The antiviral activity of oseltamivir carboxylate against laboratory strains and clinical isolates of influenza virus was determined in cell culture.
 The concentrations of oseltamivir carboxylate required for inhibition of influenza virus in cell culture were highly variable depending on the assay method used and the virus tested.
@@ -115,7 +115,7 @@ Clinical studies: Reduced susceptibility isolates have been obtained during trea
 Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
 The clinical impact of this reduced susceptibility is unknown.
 
-Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173G, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
+Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173E, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
 In some cases, HA substitutions were selected in conjunction with known NA resistance substitutions and may contribute to reduced susceptibility to oseltamivir; however, the impact of HA substitutions on antiviral activity of oseltamivir in humans is unknown and likely to be strain-dependent.
 
 Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptibility to Oseltamivir
@@ -137,17 +137,17 @@ The frequency of resistance selection to oseltamivir and the prevalence of such 
 Circulating seasonal influenza strains expressing neuraminidase resistance-associated substitutions have been observed in individuals who have not received oseltamivir treatment.
 The oseltamivir resistance-associated substitution H275Y was found in more than 99% of US-circulating 2008 H1N1 influenza virus isolates.
 The 2009 H1N1 influenza virus (“swine flu”) was almost uniformly susceptible to oseltamivir; however, the frequency of circulating resistant variants can change from season to season.
-Prescribers should consider available information from the CDC on influenza virus drug susceptibility patterns and treatment effects when deciding whether to use Oseltamivir Phosphate for Oral Suspension.
+Prescribers should consider available information from the CDC on influenza virus drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate for oral suspension.
 
 Cross-resistance Cross-resistance between oseltamivir and zanamivir has been observed in neuraminidase biochemical assays.
 The H275Y (N1 numbering) or N294S (N2 numbering) oseltamivir resistance-associated substitutions observed in the N1 neuraminidase subtype, and the E119V or N294S oseltamivir resistance-associated substitutions observed in the N2 subtype (N2 numbering), are associated with reduced susceptibility to oseltamivir but not zanamivir.
 The Q136K and K150T zanamivir resistance-associated substitutions observed in N1 neuraminidase, or the S250G zanamivir resistance-associated substitutions observed in influenza B virus neuraminidase, confer reduced susceptibility to zanamivir but not oseltamivir.
 The R292K oseltamivir resistance-associated substitution observed in N2, and the I222T, D198E/N, R371K, or G402S oseltamivir resistance-associated substitutions observed in influenza B virus neuraminidase, confer reduced susceptibility to both oseltamivir and zanamivir.
-These examples do not represent an exhaustive list of cross resistance-associated substitutions and prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use Oseltamivir Phosphate for Oral Suspension.
+These examples do not represent an exhaustive list of cross resistance-associated substitutions and prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate for oral suspension.
 
 No single amino acid substitution has been identified that could confer cross-resistance between the neuraminidase inhibitor class (oseltamivir, zanamivir) and the M2 ion channel inhibitor class (amantadine, rimantadine).
 However, a virus may carry a neuraminidase inhibitor-associated substitution in neuraminidase and an M2 ion channel inhibitor-associated substitution in M2 and may therefore be resistant to both classes of inhibitors.
 The clinical relevance of phenotypic cross-resistance evaluations has not been established.
 
 Immune Response No influenza vaccine/oseltamivir interaction study has been conducted.
-In studies of naturally acquired and experimental influenza, treatment with Oseltamivir Phosphate for Oral Suspension did not impair normal humoral antibody response to infection.
+In studies of naturally acquired and experimental influenza, treatment with oseltamivir phosphate for oral suspension did not impair normal humoral antibody response to infection.

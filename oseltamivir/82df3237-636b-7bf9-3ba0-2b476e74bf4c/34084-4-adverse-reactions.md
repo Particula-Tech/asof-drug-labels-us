@@ -9,7 +9,7 @@ The following serious adverse reactions are discussed below and elsewhere in the
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse Reactions from Treatment and Prophylaxis Trials in Adult and Adolescent Subjects (13 years of age and older) The overall safety profile of Oseltamivir Phosphate for Oral Suspension is based on data from 2,646 adult and adolescent subjects that received the recommended dosage of 75 mg orally twice daily for 5 days for treatment of influenza and 1,943 adult and adolescent subjects that received the recommended dosage of 75 mg orally once daily for up to 6 weeks for prophylaxis of influenza in clinical trials.
+Adverse Reactions from Treatment and Prophylaxis Trials in Adult and Adolescent Subjects (13 years of age and older) The overall safety profile of oseltamivir phosphate for oral suspension is based on data from 2,646 adult and adolescent subjects that received the recommended dosage of 75 mg orally twice daily for 5 days for treatment of influenza and 1,943 adult and adolescent subjects that received the recommended dosage of 75 mg orally once daily for up to 6 weeks for prophylaxis of influenza in clinical trials.
 
 The most common adverse reactions in the pooled treatment and pooled prophylaxis trials in adults and adolescents are displayed in Table 5.
 The majority of these adverse reactions were reported on a single occasion, occurred on either the first or second treatment day and resolved spontaneously within 1 to 2 days.
@@ -20,7 +20,7 @@ Table 5 Adverse Reactions Occurring in ≥1% of Adults and Adolescents (13 years
 
 | System Organ Class Adverse Reaction | Treatment Trials |  | Prophylaxis Trials |  |
 | --- | --- | --- | --- | --- |
-| Oseltamivir phosphate 75 mg twice daily (n = 2646) | Placebo (n = 1977) | Oseltamivir phosphate 75 mg once daily (n = 1943) | Placebo (n = 1586) |  |
+| Oseltamivir phosphate 75 mg twice daily (n = 2,646) | Placebo (n = 1,977) | Oseltamivir phosphate 75 mg once daily (n = 1,943) | Placebo (n = 1,586) |  |
 | Gastrointestinal Disorders |  |  |  |  |
 | Nausea | 10% | 6% | 8% | 4% |
 | Vomiting | 8% | 3% | 2% | 1% |

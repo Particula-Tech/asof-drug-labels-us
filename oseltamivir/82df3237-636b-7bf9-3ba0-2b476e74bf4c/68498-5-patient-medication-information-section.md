@@ -1,11 +1,11 @@
-# Instructions For Use
+# INSTRUCTIONS FOR USE
 
 Oseltamivir Phosphate for Oral Suspension (oh'' sel tam' i vir fos' fate)
 
-How do I give a dose of Oseltamivir Phosphatefor Oral Suspension?
+How do I give a dose of oseltamivir phosphate for oral suspension?
 
 Step 1.
-Shake the Oseltamivir Phosphate for Oral Suspension bottle well before each use.
+Shake the oseltamivir phosphate for oral suspension bottle well before each use.
 
 Step 2.
 Open the bottle by pushing downward on the child resistant bottle cap and twisting it in the direction of the arrow.
@@ -25,7 +25,7 @@ Rinse oral dosing dispenser under running tap water and allow to air dry after e
 
 Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA
 
-PL384-01
+PL384-02
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised 04/2018
+Revised: 01/2019

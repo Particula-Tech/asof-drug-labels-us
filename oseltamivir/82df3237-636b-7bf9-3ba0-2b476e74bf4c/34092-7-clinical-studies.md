@@ -64,7 +64,7 @@ In the post-exposure prophylaxis trial in household contacts (aged 13 years or o
 The incidence of laboratory-confirmed clinical influenza was 12% (24/200) in the placebo-treated subjects compared to 1% (2/205) in the oseltamivir phosphate-treated subjects.
 
 Pediatric Subjects (1 year to 12 years of age) The efficacy of oseltamivir phosphate in preventing naturally occurring influenza illness was demonstrated in a randomized, open-label post-exposure prophylaxis trial in household contacts that included pediatric subjects aged 1 year to 12 years, both as index cases and as family contacts.
-All index cases in this trial received oseltamivir phosphate for oral suspension 30 to 60 mg taken orally once daily for 10 days.
+All index cases in this trial received oseltamivir phosphate for oral suspension 30 mg to 60 mg taken orally once daily for 10 days.
 The efficacy parameter was the incidence of laboratory-confirmed clinical influenza in the household.
 Laboratory-confirmed clinical influenza was defined as meeting all of the following criteria:
 

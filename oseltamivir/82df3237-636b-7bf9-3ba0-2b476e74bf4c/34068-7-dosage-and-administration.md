@@ -2,38 +2,38 @@
 
 ## 2.1 Dosage and Administration Overview
 
-Administer Oseltamivir Phosphate for Oral Suspension for the treatment of influenza in patients 2 weeks of age or older [see Dosage and Administration (2.2)] or for prophylaxis of influenza in patients 1 year and older [see Dosage and Administration (2.3)] using:
+Administer oseltamivir phosphate for oral suspension for the treatment of influenza in patients 2 weeks of age or older [see Dosage and Administration (2.2)] or for prophylaxis of influenza in patients 1 year and older [see Dosage and Administration (2.3)] using:
 
-- Oseltamivir Phosphate for Oral Suspension (supplied as a powder).
+- Oseltamivir phosphate for oral suspension (supplied as a powder).
   This is the preferred formulation (6 mg per mL) for patients who cannot swallow capsules.
-  Prior to use, the supplied Oseltamivir Phosphate for Oral Suspension powder must be constituted with water by the pharmacist to produce the oral suspension [see Dosage and Administration (2.5)].
+  Prior to use, the supplied oseltamivir phosphate for oral suspension powder must be constituted with water by the pharmacist to produce the oral suspension [see Dosage and Administration (2.5)].
 
-The oral suspension may be taken with or without food; however, tolerability may be enhanced if Oseltamivir Phosphate for Oral Suspension is taken with food.
+The oral suspension may be taken with or without food; however, tolerability may be enhanced if oseltamivir phosphate for oral suspension is taken with food.
 
-Adjust the Oseltamivir Phosphate for Oral Suspension dosage in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
+Adjust the oseltamivir phosphate for oral suspension dosage in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
 
 ## 2.2 Recommended Dosage for Treatment of Influenza
 
-Initiate treatment with Oseltamivir Phosphate for Oral Suspension within 48 hours of influenza symptom onset.
+Initiate treatment with oseltamivir phosphate for oral suspension within 48 hours of influenza symptom onset.
 
 Adults and Adolescents (13 years of age and older)
 
-The recommended oral dosage of Oseltamivir Phosphate for Oral Suspension for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (12.5 mL of oral suspension twice daily) for 5 days.
+The recommended oral dosage of oseltamivir phosphate for oral suspension for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (12.5 mL of oral suspension twice daily) for 5 days.
 
 Pediatric Patients (2 weeks of age through 12 years of age)
 
-Table 1 displays the recommended oral dosage of Oseltamivir Phosphate for Oral Suspension for treatment of influenza in pediatric patients 2 weeks of age through 12 years of age and provides information about prescribing the formulation for oral suspension.
+Table 1 displays the recommended oral dosage of oseltamivir phosphate for oral suspension for treatment of influenza in pediatric patients 2 weeks of age through 12 years of age and provides information about prescribing the formulation for oral suspension.
 
 ## 2.3 Recommended Dosage for Prophylaxis of Influenza
 
-Initiate post-exposure prophylaxis with Oseltamivir Phosphate for Oral Suspension within 48 hours following close contact with an infected individual.
-Initiate seasonal prophylaxis with Oseltamivir Phosphate for Oral Suspension during a community outbreak.
+Initiate post-exposure prophylaxis with oseltamivir phosphate for oral suspension within 48 hours following close contact with an infected individual.
+Initiate seasonal prophylaxis with oseltamivir phosphate for oral suspension during a community outbreak.
 
 Adults and Adolescents (13 years of age and older)
 
-The recommended dosage of Oseltamivir Phosphate for Oral Suspension for prophylaxis of influenza in adults and adolescents 13 years and older is 75 mg orally once daily (12.5 mL of oral suspension once daily) for at least 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak.
-In immunocompromised patients, Oseltamivir Phosphate for Oral Suspension may be continued for up to 12 weeks [see Use in Specific Populations (8.9)].
-The duration of protection lasts for as long as Oseltamivir Phosphate for Oral Suspension dosing is continued.
+The recommended dosage of oseltamivir phosphate for oral suspension for prophylaxis of influenza in adults and adolescents 13 years and older is 75 mg orally once daily (12.5 mL of oral suspension once daily) for at least 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak.
+In immunocompromised patients, oseltamivir phosphate for oral suspension may be continued for up to 12 weeks [see Use in Specific Populations (8.9)].
+The duration of protection lasts for as long as oseltamivir phosphate for oral suspension dosing is continued.
 
 Pediatric Patients (1 year to 12 years of age)
 
@@ -62,19 +62,19 @@ Table 2 Recommended Dosage for Modifications for Treatment and Prophylaxis of In
 
 | Renal Impairment (Creatinine Clearance) | Recommended Treatment Regimen* | Recommended Prophylaxis Regimen† |
 | --- | --- | --- |
-| Mild (>60-90 mL/minute) | 75 mg twice daily for 5 days | 75 mg once daily |
-| Moderate (>30-60 mL/minute) | 30 mg twice daily for 5 days | 30 mg once daily |
-| Severe (>10-30 mL/minute) | 30 mg once daily for 5 days | 30 mg every other day |
+| Mild (>60 to 90 mL/minute) | 75 mg twice daily for 5 days | 75 mg once daily |
+| Moderate (>30 to 60 mL/minute) | 30 mg twice daily for 5 days | 30 mg once daily |
+| Severe (>10 to 30 mL/minute) | 30 mg once daily for 5 days | 30 mg every other day |
 | ESRD Patients on Hemodialysis (≤10 mL/minute) | 30 mg immediately and then 30 mg after every hemodialysis cycle (treatment duration not to exceed 5 days) | 30 mg immediately and then 30 mg after alternate hemodialysis cycles |
 | ESRD Patients on Continuous Ambulatory Peritoneal Dialysis‡ (≤10 mL/minute) | A single 30 mg dose administered immediately | 30 mg immediately and then 30 mg once weekly |
-| ESRD Patients not on Dialysis | Oseltamivir Phosphate for Oral Suspension is not recommended | Oseltamivir Phosphate for Oral Suspension is not recommended |
-| *Oral suspension can be used for 30 mg dosing. †The recommended duration for post-exposure prophylaxis is at least 10 days and therecommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). ‡Data derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. |  |  |
+| ESRD Patients not on Dialysis | Oseltamivir phosphate for oral suspension is not recommended | Oseltamivir phosphate for oral suspension is not recommended |
+| *Oral suspension can be used for 30 mg dosing. †The recommended duration for post-exposure prophylaxis is at least 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). ‡Data derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. |  |  |
 
 ## 2.5 Preparation and Storage of Constituted Oseltamivir Phosphate for Oral Suspension
 
-Prior to dispensing to the patient, constitute Oseltamivir Phosphate for Oral Suspension (supplied as powder):
+Prior to dispensing to the patient, constitute oseltamivir phosphate for oral suspension (supplied as powder):
 
-a) Tap the closed bottle containing the supplied Oseltamivir Phosphate for Oral Suspension white to off-white powder several times to loosen the powder.
+a) Tap the closed bottle containing the supplied oseltamivir phosphate for oral suspension white to off-white powder several times to loosen the powder.
 
 b) Measure 55 mL of water in a graduated cylinder.
 
