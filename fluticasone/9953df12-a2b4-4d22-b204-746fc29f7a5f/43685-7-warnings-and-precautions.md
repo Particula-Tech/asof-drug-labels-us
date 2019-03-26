@@ -41,20 +41,20 @@ Patients that apply CUTIVATE® Lotion to exposed portions of the body should avo
 
 Information for Patients: Patients using CUTIVATE® Lotion should receive the following information and instructions:
 
-1. CUTIVATE® Lotion is to be used as directed by the physician.
+1. 1.CUTIVATE® Lotion is to be used as directed by the physician.
    It is for external use only.
    Avoid contact with the eyes.
-2. CUTIVATE® Lotion should not be used for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
-4. Patients should report to their physician any signs of local adverse reactions as well as non-healing or worsening of skin condition.
-5. Parents of pediatric patients should be advised not to use this medication in the treatment of diaper dermatitis unless directed by the physician.
+2. 2.CUTIVATE® Lotion should not be used for any disorder other than that for which it was prescribed.
+3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
+4. 4.Patients should report to their physician any signs of local adverse reactions as well as non-healing or worsening of skin condition.
+5. 5.Parents of pediatric patients should be advised not to use this medication in the treatment of diaper dermatitis unless directed by the physician.
    CUTIVATE® Lotion should not be applied in the diaper areas as diapers or plastic pants may constitute occlusive dressing (see DOSAGE AND ADMINISTRATION).
-6. CUTIVATE® Lotion should not be used on the face, underarms, or groin areas unless directed by a physician.
-7. CUTIVATE® Lotion therapy should be discontinued if control is achieved before 4 weeks.
+6. 6.CUTIVATE® Lotion should not be used on the face, underarms, or groin areas unless directed by a physician.
+7. 7.CUTIVATE® Lotion therapy should be discontinued if control is achieved before 4 weeks.
    If no improvement is seen within 2 weeks, contact a physician.
    The safety of the use of CUTIVATE® Lotion for longer than 4 weeks has not been established.
-8. Patients should report to their physician if they are allergic to formaldehyde.
-9. Patients that apply CUTIVATE® Lotion to exposed portions of the body should follow physician advice and routine precautions to avoid excessive or unnecessary exposure to either natural or artificial sunlight (such as sunbathing, tanning booths, sun lamps, etc.).
+8. 8.Patients should report to their physician if they are allergic to formaldehyde.
+9. 9.Patients that apply CUTIVATE® Lotion to exposed portions of the body should follow physician advice and routine precautions to avoid excessive or unnecessary exposure to either natural or artificial sunlight (such as sunbathing, tanning booths, sun lamps, etc.).
 
 Laboratory Tests: The cosyntropin (ACTH1·24) stimulation test may be helpful in evaluating patients for HPA axis suppression.
 
