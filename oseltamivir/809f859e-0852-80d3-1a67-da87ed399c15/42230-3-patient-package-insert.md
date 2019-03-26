@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Oseltamivir Phosphate Capsules USP, for oral use (os-el-TAM-ih-veer) What are oseltamivir phosphate capsules?
+Oseltamivir Phosphate Capsules USP, for oral use (oh'' sel tam' i vir fos' fate) What are oseltamivir phosphate capsules?
 
 Oseltamivir phosphate capsules are a prescription medicine used to:
 
@@ -30,7 +30,7 @@ Before you take oseltamivir phosphate capsules, tell your healthcare provider if
 - have kidney problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  Available information indicate that oseltamivir phosphate capsules does not increase the risk of birth defects.
+  Available information indicate that oseltamivir phosphate does not increase the risk of birth defects.
 - are breastfeeding or plan to breastfeed.
   Oseltamivir phosphate can pass into breast milk in small amounts.
 
@@ -95,4 +95,4 @@ The 75 mg shell (yellow / grey) contains gelatin, iron oxide black (in body), ir
 
 Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 04/2018
+Revised 02/2019

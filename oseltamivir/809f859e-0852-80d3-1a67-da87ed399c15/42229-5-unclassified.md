@@ -1,12 +1,12 @@
 Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA
 
-PI468-02
+PI468-03
 
-Revised: 04/2018
+Revised: 02/2019
 
 # INSTRUCTIONS FOR USE
 
-Oseltamivir Phosphate Capsules USP, for oral use (os-el-TAM-ih-veer)
+Oseltamivir Phosphate Capsules USP, for oral use (oh'' sel tam' i vir fos' fate)
 
 How do I mix the contents of oseltamivir phosphate capsules with sweetened liquids, if directed by my healthcare provider or pharmacist?
 
@@ -27,6 +27,6 @@ Stir the mixture and give the entire dose of oseltamivir phosphate.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-PL468-02
+PL468-03
 
-Revised 04/2018
+Revised 02/2019

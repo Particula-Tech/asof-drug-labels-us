@@ -6,7 +6,7 @@ Oseltamivir is an antiviral drug with activity against influenza virus [see Micr
 
 ## 12.3 Pharmacokinetics
 
-Absorption and Bioavailability Oseltamivir is absorbed from the gastrointestinal tract after oral administration of oseltamivir phosphate capsules and is extensively converted predominantly by hepatic esterases to oseltamivir carboxylate.
+Absorption and Bioavailability Oseltamivir is absorbed from the gastrointestinal tract after oral administration of oseltamivir phosphate and is extensively converted predominantly by hepatic esterases to oseltamivir carboxylate.
 At least 75% of an oral dose reaches the systemic circulation as oseltamivir carboxylate and less than 5% of the oral dose reaches the systemic circulation as oseltamivir (see Table 6).
 Table 6 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Carboxylate Following Multiple Dosing of 75 mg Capsules Twice Daily (n=20)
 
@@ -20,15 +20,15 @@ Coadministration with food had no significant effect on the peak plasma concentr
 
 Distribution
 
-The volume of distribution (Vss) of oseltamivir carboxylate, following intravenous administration in 24 subjects (oseltamivir phosphate is not available as an IV formulation), ranged between 23 and 26 liters.
+The volume of distribution (Vss) of oseltamivir carboxylate, following intravenous administration in 24 subjects (oseltamivir phosphate is not available as an intravenous formulation), ranged between 23 liters and 26 liters.
 
 The binding of oseltamivir carboxylate to human plasma protein is low (3%).
 The binding of oseltamivir to human plasma protein is 42%, which is insufficient to cause significant displacement-based drug interactions.
 
 Elimination Absorbed oseltamivir is primarily (>90%) eliminated by conversion to the active metabolite, oseltamivir carboxylate.
-Plasma concentrations of oseltamivir declined with a half-life of 1 to 3 hours in most subjects after oral administration.
+Plasma concentrations of oseltamivir declined with a half-life of 1 hour to 3 hours in most subjects after oral administration.
 Oseltamivir carboxylate is not further metabolized and is eliminated unchanged in urine.
-Plasma concentrations of oseltamivir carboxylate declined with a half-life of 6 to 10 hours in most subjects after oral administration.
+Plasma concentrations of oseltamivir carboxylate declined with a half-life of 6 hours to 10 hours in most subjects after oral administration.
 Metabolism Oseltamivir is extensively converted to the active metabolite, oseltamivir carboxylate, by esterases located predominantly in the liver.
 Oseltamivir carboxylate is not further metabolized.
 Neither oseltamivir nor oseltamivir carboxylate is a substrate for, or inhibitor of, cytochrome P450 isoforms.
@@ -63,10 +63,10 @@ Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate i
 
 In continuous ambulatory peritoneal dialysis (CAPD) patients, the peak concentration of oseltamivir carboxylate following a single 30 mg dose of oseltamivir or once weekly oseltamivir was approximately 3-fold higher than in patients with normal renal function who received 75 mg twice daily.
 The plasma concentration of oseltamivir carboxylate on Day 5 (147 ng/mL) following a single 30 mg dose in CAPD patients is similar to the predicted Cmin (160 ng/mL) in patients with normal renal function following 75 mg twice daily.
-Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168 hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
+Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168-hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
 
 Hepatic Impairment In clinical studies, oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Use in Specific Populations (8.7)].
-Pregnant Women A pooled population pharmacokinetic analysis indicates that the oseltamivir phosphate capsules dosage regimen resulted in lower exposure to the active metabolite in pregnant women (n=59) compared to non-pregnant women (n=33).
+Pregnant Women A pooled population pharmacokinetic analysis indicates that the oseltamivir phosphate dosage regimen resulted in lower exposure to the active metabolite in pregnant women (n=59) compared to non-pregnant women (n=33).
 However, this predicted exposure is expected to have activity against susceptible influenza virus strains and there are insufficient pharmacokinetics and safety data to recommend a dose adjustment for pregnant women [see Use in Specific Populations (8.1)].
 Pediatric Subjects (1 year to 12 years of age) The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in a single-dose pharmacokinetic study in pediatric subjects aged 5 to 16 years (n=18) and in a small number of pediatric subjects aged 3 to 12 years (n=5) enrolled in a clinical trial.
 Younger pediatric subjects cleared both the prodrug and the active metabolite faster than adult subjects resulting in a lower exposure for a given mg/kg dose.
@@ -111,7 +111,7 @@ Reduced susceptibility of influenza virus to inhibition by oseltamivir carboxyla
 Clinical studies: Reduced susceptibility isolates have been obtained during treatment with oseltamivir and from sampling during community surveillance studies.
 Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
 The clinical impact of this reduced susceptibility is unknown.
-Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173G, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
+Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173E, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
 In some cases, HA substitutions were selected in conjunction with known NA resistance substitutions and may contribute to reduced susceptibility to oseltamivir; however, the impact of HA substitutions on antiviral activity of oseltamivir in humans is unknown and likely to be strain-dependent.
 
 Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptibility to Oseltamivir
@@ -124,7 +124,7 @@ Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptib
 | E41G, E119I/V, D151V, I222L/V, Q226H, SASG245-248 deletion, S247P, R292K, N294S |  |  |  |  |  |  |
 | Influenza B (B numbering in brackets) |  |  |  |  |  |  |
 | E119A (E117A), P141S (P139S), G142R (G140R), R152K (R150K), D198E/N/Y (D197E/N/Y), I222L/T/V (I221L/T/V), A246D/S/T (A245D/S/T), H274Y (H273Y), N294S (N294S), R371K (R374K), G402S (G407S) |  |  |  |  |  |  |
-| * All numbering is N2, except where indicated |  |  |  |  |  |  |
+| * All numbering is N2, except where indicated. |  |  |  |  |  |  |
 
 Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
 The incidence of oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at rates of 27% to 37% and 3% to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
@@ -146,4 +146,4 @@ However, a virus may carry a neuraminidase inhibitor-associated substitution in 
 The clinical relevance of phenotypic cross-resistance evaluations has not been established.
 
 Immune Response No influenza vaccine/oseltamivir interaction study has been conducted.
-In studies of naturally acquired and experimental influenza, treatment with oseltamivir phosphate capsules did not impair normal humoral antibody response to infection.
+In studies of naturally acquired and experimental influenza, treatment with oseltamivir phosphate did not impair normal humoral antibody response to infection.

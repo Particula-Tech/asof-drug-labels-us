@@ -2,27 +2,32 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C Risk Summary There are no adequate and well-controlled studies with oseltamivir phosphate capsules in pregnant women.
-Available published epidemiological data suggest that oseltamivir phosphate capsules, taken in any trimester, is not associated with an increased risk of birth defects.
-However, these studies individually are limited by small sample sizes, use of different comparison groups, and some lacked information on dose, which preclude a definitive assessment of the risk.
-In animal studies, there was a dose-dependent increase in the incidence rates of a variety of minor skeletal abnormalities and variants in offspring of rats and rabbits exposed at maternally toxic doses 100 and 50 times human exposures, respectively.
-Oseltamivir phosphate capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Clinical Pharmacology (12.3)].
+Risk Summary There are no adequate and well-controlled studies with oseltamivir phosphate in pregnant women to inform a drug‐associated risk of adverse developmental outcomes.
+Available published epidemiological data suggest that oseltamivir phosphate, taken in any trimester, is not associated with an increased risk of birth defects.
+However, these studies individually are limited by small sample sizes, use of different comparison groups, and some lacked information on dose, which preclude a definitive assessment of the risk [see Data and Clinical Pharmacology (12.3)].
+In animal reproduction studies with oseltamivir, no adverse developmental effects were observed at clinically relevant exposures (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Pregnant women are at higher risk of severe complications from influenza, which may lead to adverse pregnancy and/or fetal outcomes including maternal death, still births, birth defects, preterm delivery, low birth weight and small for gestational age.
-Data Human Data Published prospective and retrospective observational studies of approximately 1,500 women exposed to oseltamivir during pregnancy, including approximately 400 women exposed in the first trimester, suggest that the observed rate of congenital malformations was not increased above the rate in the general comparison population, regardless of when therapy was administered during the gestational period.
+Data Human Data Published prospective and retrospective observational studies of more than 5,000 women exposed to oseltamivir during pregnancy, including more than 1,000 women exposed in the first trimester, suggest that the observed rate of congenital malformations was not increased above the rate in the general comparison population, regardless of when therapy was administered during the gestational period.
 However, individually, none of these studies had adequate sample sizes and some lacked information on dose, which preclude a definitive assessment of the risk.
-Animal Data Studies for effects on embryo-fetal development were conducted in rats (50 mg/kg/day, 250 mg/kg/day, and 1,500 mg/kg/day) and rabbits (50 mg/kg/day, 150 mg/kg/day, and 500 mg/kg/day) by the oral route.
-Relative exposures at these doses were, respectively, 2, 13, and 100 times human exposure in the rat and 4, 8, and 50 times human exposure in the rabbit, based on AUC.
-Pharmacokinetic studies indicated that there was fetal exposure in both species.
-In the rat study, minimal maternal toxicity was reported in the 1,500 mg/kg/day group.
-In the rabbit study, slight and marked maternal toxicities were observed, respectively, in the 150 mg/kg/day and 500 mg/kg/day groups.
-At the maternally toxic doses, statistically significant increases in the incidence rates of a variety of minor skeletal abnormalities and variants were observed in the exposed offspring.
-However, the individual incidence rate of each skeletal abnormality or variant remained within the background rates of occurrence in the species studied.
+Animal Data Oseltamivir was administered orally during organogenesis to pregnant rats (at 50 mg/kg/day, 250 mg/kg/day, or 1500 mg/kg/day on gestation days 6 to 17) and rabbits (at 50 mg/kg/day, 150 mg/kg/day, or 500 mg/kg/day on gestation days 6 to 18).
+In rats, embryo‐fetal effects consisting of an increased incidence of minor skeletal malformations were observed at a maternally toxic dose (1500 mg/kg/day), resulting in systemic drug exposures (based on AUC for oseltamivir carboxylate) 190 times human exposures at the maximum recommended human dose (MRHD) of oseltamivir (75 mg twice a day).
+In the rabbit study, embryo‐fetal effects consisting of an increased incidence of minor skeletal abnormalities and variants were observed at maternally toxic doses (≥150 mg/kg/day) resulting in systemic exposures (based on AUC for oseltamivir carboxylate) ≥8 times human exposures at the MRHD of oseltamivir.
 
-## 8.3 Nursing Mothers
+In prenatal and postnatal development studies in rats, oseltamivir was administered orally (at 50 mg/kg/day, 250 mg/kg/day, 500 mg/kg/day, or 1500 mg/kg/day) from organogenesis through late gestation, delivery, and lactation (gestation day 6 to postpartum/lactation day 20).
+Prolonged parturition duration and reduced offspring viability were observed at a maternally toxic dose (1500 mg/kg/day).
+No adverse maternal or offspring effects were observed at doses ≤500 mg/kg/day, resulting in systemic drug exposures (based on AUC for oseltamivir carboxylate) 44 times human exposures at the MRHD of oseltamivir.
 
-Risk Summary Based on limited published data, oseltamivir and oseltamivir carboxylate are present in human milk at low levels considered unlikely to lead to toxicity in the breastfed infant.
-Exercise caution when oseltamivir phosphate capsules are administered to a nursing woman.
+## 8.2 Lactation
+
+Risk Summary Based on limited published data, oseltamivir and oseltamivir carboxylate have been shown to be present in human milk at low levels considered unlikely to lead to toxicity in the breastfed infant.
+Postmarketing experience has not reported any information to suggest serious adverse effects of oseltamivir exposure via breast milk in infants.
+It is not known if oseltamivir affects human milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for oseltamivir and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -48,15 +53,15 @@ The safety and efficacy of oseltamivir phosphate for prophylaxis of influenza ha
 
 ## 8.5 Geriatric Use
 
-Treatment of Influenza Of the 4,765 adults in clinical trials of oseltamivir phosphate capsules for the treatment of influenza, 948 (20%) were 65 years and older, while 329 (7%) were 75 years and older.
-In three double-blind, placebo-controlled trials in the treatment of influenza in patients at least 65 years old, that enrolled 741 subjects (374 received placebo and 362 received oseltamivir phosphate capsules), no overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects [see Clinical Studies (14.1)].
-Prophylaxis of Influenza Of the 4,603 adults in clinical trials of oseltamivir phosphate capsules for the prophylaxis of influenza, 1,046 (23%) were 65 years and older, while 719 (16%) were 75 years and older.
-In a randomized, placebo-controlled trial in elderly residents of nursing homes who took oseltamivir phosphate capsules for up to 42 days for the prophylaxis of influenza (oseltamivir phosphate capsules n=276, placebo n=272), no overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects [see Clinical Studies (14.2)].
+Treatment of Influenza Of the 4,765 adults in clinical trials of oseltamivir phosphate for the treatment of influenza, 948 (20%) were 65 years and older, while 329 (7%) were 75 years and older.
+In three double-blind, placebo-controlled trials in the treatment of influenza in patients at least 65 years old, that enrolled 741 subjects (374 received placebo and 362 received oseltamivir phosphate), no overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects [see Clinical Studies (14.1)].
+Prophylaxis of Influenza Of the 4,603 adults in clinical trials of oseltamivir phosphate for the prophylaxis of influenza, 1,046 (23%) were 65 years and older, while 719 (16%) were 75 years and older.
+In a randomized, placebo-controlled trial in elderly residents of nursing homes who took oseltamivir phosphate for up to 42 days for the prophylaxis of influenza (oseltamivir phosphate n=276, placebo n=272), no overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects [see Clinical Studies (14.2)].
 
 ## 8.6 Renal Impairment
 
-Patients with renal impairment had higher blood levels of oseltamivir carboxylate compared to patients with normal renal function which may increase the risk of oseltamivir phosphate capsules-associated adverse reactions.
-Therefore, dosage adjustment is recommended for patients with a serum creatinine clearance between 10 and 60 mL/minute and for patients with end-stage renal disease (ESRD) undergoing routine hemodialysis or continuous peritoneal dialysis treatment [see Dosage and Administration (2.4)].
+Patients with renal impairment had higher blood levels of oseltamivir carboxylate compared to patients with normal renal function which may increase the risk of oseltamivir phosphate-associated adverse reactions.
+Therefore, dosage adjustment is recommended for patients with a serum creatinine clearance between 10 mL/minute and 60 mL/minute and for patients with end-stage renal disease (ESRD) undergoing routine hemodialysis or continuous peritoneal dialysis treatment [see Dosage and Administration (2.4)].
 Oseltamivir phosphate capsules are not recommended for patients with ESRD not undergoing dialysis [see Indications and Usage (1.3)and Clinical Pharmacology(12.3)].
 
 ## 8.7 Hepatic Impairment
@@ -66,12 +71,12 @@ The safety and pharmacokinetics in patients with severe hepatic impairment have 
 
 ## 8.8 Use in Patients with Chronic Conditions
 
-Efficacy of oseltamivir phosphate capsules in the treatment of influenza in patients with chronic cardiac disease and/or respiratory disease was evaluated in one randomized, placebo-controlled clinical trial.
+Efficacy of oseltamivir phosphate in the treatment of influenza in patients with chronic cardiac disease and/or respiratory disease was evaluated in one randomized, placebo-controlled clinical trial.
 Efficacy in this population, as measured by time to alleviation of all symptoms, was not established, but no new safety signals were identified [see Clinical Studies (14.1)].
 
 No clinical trial data are available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.
 
 ## 8.9 Immunocompromised Patients
 
-Efficacy of oseltamivir phosphate capsules for the treatment or prophylaxis of influenza has not been established in immunocompromised patients [see Clinical Studies (14.2)].
-Safety of oseltamivir phosphate capsules for prophylaxis of influenza has been demonstrated for up to 12 weeks in immunocompromised patients [see Adverse Reactions (6.1)].
+Efficacy of oseltamivir phosphate for the treatment or prophylaxis of influenza has not been established in immunocompromised patients [see Clinical Studies (14.2)].
+Safety of oseltamivir phosphate for prophylaxis of influenza has been demonstrated for up to 12 weeks in immunocompromised patients [see Adverse Reactions (6.1)].
