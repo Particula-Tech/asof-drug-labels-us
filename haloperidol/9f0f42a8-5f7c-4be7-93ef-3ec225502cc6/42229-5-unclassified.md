@@ -25,6 +25,6 @@ Horsham, PA 19044
 
 For more information, call 1-800-667-8570
 
-Revised January 2018
+Revised March 2019
 
 © 2011 Patriot

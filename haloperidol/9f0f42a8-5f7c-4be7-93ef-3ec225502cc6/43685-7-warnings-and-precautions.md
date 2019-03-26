@@ -51,6 +51,19 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with haloperidol.
 
+## Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies
+
+Patients with Parkinson's Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication.
+Manifestations of this increased sensitivity with haloperidol treatment include severe extrapyramidal symptoms, confusion, sedation, and falls.
+In addition, haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists.
+Haloperidol Decanoate 50 and Haloperidol Decanoate 100 are contraindicated in patients with Parkinson's Disease or Dementia with Lewy Bodies (see CONTRAINDICATIONS).
+
+## Hypersensitivity Reactions
+
+There have been postmarketing reports of hypersensitivity reactions with haloperidol.
+These include anaphylactic reaction, angioedema, dermatitis exfoliative, hypersensitivity vasculitis, rash, urticaria, face edema, laryngeal edema, bronchospasm, and laryngospasm (see ADVERSE REACTIONS).
+Haloperidol Decanoate 50 and Haloperidol Decanoate 100 are contraindicated in patients with hypersensitivity to this drug (see CONTRAINDICATIONS).
+
 ## Falls
 
 Motor instability, somnolence, and orthostatic hypotension have been reported with the use of antipsychotics, including Haloperidol Decanoate, which may lead to falls and, consequently, fractures or other fall-related injuries.
@@ -73,9 +86,7 @@ Although not reported with haloperidol, decreased serum cholesterol and/or cutan
 
 ## Leukopenia, Neutropenia, and Agranulocytosis
 
-### Class Effect
-
-In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including Haloperidol Decanoate.
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including Haloperidol Decanoate.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
@@ -96,9 +107,10 @@ Haloperidol Decanoate 50 and Haloperidol Decanoate 100 should be administered ca
 - with known allergies, or with a history of allergic reactions to drugs.
 - receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
+Haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists.
 If concomitant antiparkinson medication is required, it may have to be continued after Haloperidol Decanoate 50 or Haloperidol Decanoate 100 is discontinued because of the prolonged action of haloperidol decanoate.
 If both drugs are discontinued simultaneously, extrapyramidal symptoms may occur.
-The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with haloperidol decanoate.
+The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with Haloperidol Decanoate.
 
 When Haloperidol Decanoate is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
 
@@ -128,7 +140,7 @@ It may be necessary to reduce the haloperidol dosage.
 
 ### Pharmacokinetic Interactions
 
-#### The Effect of Other Drugs on Haloperidol Decanoate
+#### The Effect of Other Drugs on Haloperidol
 
 Haloperidol is metabolized by several routes, including the glucuronidation and the cytochrome P450 enzyme system.
 Inhibition of these routes of metabolism by another drug may result in increased haloperidol concentrations and potentially increase the risk of certain adverse events, including QT-prolongation.
@@ -137,7 +149,10 @@ Inhibition of these routes of metabolism by another drug may result in increased
 
 In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
 
-When prolonged treatment (1–2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to haloperidol therapy, this results in a significant reduction of haloperidol plasma levels.
+Haloperidol is an inhibitor of CYP2D6.
+Plasma concentrations of CYP2D6 substrates (e,g. tricyclic antidepressants such as desipramine or imipramine) may increase when they are co-administered with haloperidol.
+
+When prolonged treatment (1–2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to Haloperidol Decanoate therapy, this results in a significant reduction of haloperidol plasma levels.
 
 #### Rifampin
 
@@ -149,12 +164,12 @@ In 5 other schizophrenic patients treated with oral haloperidol and rifampin, di
 In a study in 11 schizophrenic patients co-administered haloperidol and increasing doses of carbamazepine, haloperidol plasma concentrations decreased linearly with increasing carbamazepine concentrations.
 
 Thus, careful monitoring of clinical status is warranted when enzyme inducing drugs such as rifampin or carbamazepine are administered or discontinued in haloperidol-treated patients.
-During combination treatment, the haloperidol dose should be adjusted, when necessary.
-After discontinuation of such drugs, it may be necessary to reduce the dosage of haloperidol.
+During combination treatment, the Haloperidol Decanoate dose should be adjusted, when necessary.
+After discontinuation of such drugs, it may be necessary to reduce the dosage of Haloperidol Decanoate.
 
 #### Valproate
 
-Sodium valproate, a drug know to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
+Sodium valproate, a drug known to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
@@ -178,8 +193,6 @@ An increase in mammary neoplasms has been found in rodents after chronic adminis
 Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
 
 ## Usage in Pregnancy
-
-### Pregnancy Category C
 
 Rodents given up to 3 times the usual maximum human dose of haloperidol decanoate showed an increase in incidence of resorption, fetal mortality, and pup mortality.
 No fetal abnormalities were observed.
@@ -214,3 +227,8 @@ Clinical studies of haloperidol did not include sufficient numbers of subjects a
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
 However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).
+
+## Use in Hepatic Impairment
+
+Studies in patients with hepatic impairment have not been conducted.
+Haloperidol concentrations may increase in hepatically impaired patients, because it is primarily metabolized by the liver and protein binding may decrease.

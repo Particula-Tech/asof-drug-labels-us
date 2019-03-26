@@ -11,3 +11,5 @@ NDC 10147-0922-5 - 5 × 1 mL ampules.
 Store at controlled room temperature (15°–30° C, 59°–86° F). Do not refrigerate or freeze.
 
 Protect from light.
+
+Keep out of reach of children.
