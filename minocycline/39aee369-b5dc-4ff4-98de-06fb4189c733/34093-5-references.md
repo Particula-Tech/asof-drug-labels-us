@@ -12,11 +12,11 @@ Manufactured by:
 
 Patheon Pharmaceuticals Inc. Cincinnati, OH 45237 USA
 
-Minocin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+MINOCIN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-All other product/brand names are trademarks of their respective owners.
+All other product/brand names are trademarks of the respective owners.
 
-© Valeant Pharmaceuticals North America LLC
+© 2019 Valeant Pharmaceuticals North America LLC
 
 1. Rev.
-   06/2018 Updated component number
+   01/2019 9438603

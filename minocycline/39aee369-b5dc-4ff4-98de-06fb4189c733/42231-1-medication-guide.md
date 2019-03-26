@@ -60,16 +60,16 @@ Know the medicines you take, keep a list of them to show your doctor and pharmac
 
 How should I take MINOCIN capsules?
 
-- •Take MINOCIN capsules exactly as your doctor tells you to take them.
-  Skipping doses or not taking all your MINOCIN may:
-  - •Decrease the effectiveness of the treatment
-  - •Increase the chance that bacteria will develop resistance to MINOCIN
-- •Take MINOCIN with a full glass of liquid.
-  Taking MINOCIN with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
-  Your esophagus is the tube that connects your mouth to your stomach.
-- •MINOCIN capsules may be taken with or without food.
-  If you forget to take MINOCIN, take it as soon as you remember.
-- •If you take too much MINOCIN, call your doctor or poison control center right away.
+1. Take MINOCIN capsules exactly as your doctor tells you to take them.
+   Skipping doses may:
+   1. oDecrease the effectiveness of the treatment
+   2. oIncrease the chance that bacteria will develop resistance to MINOCIN
+2. •Take MINOCIN with a full glass of liquid.
+   Taking MINOCIN with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
+   Your esophagus is the tube that connects your mouth to your stomach.
+3. •MINOCIN capsules may be taken with or without food.
+   If you forget to take MINOCIN, take it as soon as you remember.
+4. •If you take too much MINOCIN, call your doctor or poison control center right away.
 
 What are the possible side effects of MINOCIN?
 
@@ -121,7 +121,7 @@ This Patient Information leaflet summarizes the most important information about
 
 If you would like more information, talk with your doctor.
 
-Your doctor or pharmacist can give you information about MINOCINthat is written for healthcare professionals.
+Your doctor or pharmacist can give you information about MINOCIN that is written for healthcare professionals.
 For more information, you can also call Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
 
 What are the ingredients in MINOCIN capsules?
@@ -139,11 +139,11 @@ Manufactured by:
 
 Patheon Pharmaceuticals Inc. Cincinnati, OH 45237 USA
 
-Minocin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+MINOCIN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 All other product/brand names are trademarks of their respective owners.
 
-©Valeant Pharmaceuticals North America LLC
+© 2019 Valeant Pharmaceuticals North America LLC
 
 1. Rev.
-   04/2017 9438602
+   01/2019 9438603

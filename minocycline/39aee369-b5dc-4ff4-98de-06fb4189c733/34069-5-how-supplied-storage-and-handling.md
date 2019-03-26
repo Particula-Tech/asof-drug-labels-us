@@ -12,7 +12,7 @@ Each capsule contains pellets of minocycline hydrochloride equivalent to 50 mg o
 
 1. NDC 16781-400-60 50 mg Bottle of 60
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at controlled room temperature 20° to 25°C (68° to 77°F).
 
 Protect from light, moisture, and excessive heat.
 
