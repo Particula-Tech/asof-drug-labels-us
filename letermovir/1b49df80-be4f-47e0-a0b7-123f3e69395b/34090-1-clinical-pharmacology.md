@@ -32,7 +32,7 @@ Table 4: Absorption, Distribution, Metabolism, Elimination (ADME), and Pharmacok
 | Time to steady-state | 9-10 days |
 | Absorption |  |
 | Bioavailability | Healthy subjects administered PREVYMIS without cyclosporine: 94% at an oral dose range of 240 mg to 480 mg HSCT recipients administered PREVYMIS without cyclosporine: 35% with 480 mg oral once daily HSCT recipients administered PREVYMIS with cyclosporine: 85% with 240 mg oral once daily |
-| Median Tmax (hr) | 45 min to 2.25 hr |
+| Median Tmax (hr) | 1.5 to 3.0 hr |
 | Effect of food (relative to fasting) Values refer to geometric mean ratio [fed/fasted] percentage and 90% confidence interval back transformed from linear mixed-effects model performed on natural log-transformed values. The meal administered was a standard high fat and high calorie meal (33 grams protein, 65 grams carbohydrates, 58 grams fat; 920 total calories). | AUC: 99.63% [84.27% - 117.80%] Cmax: 129.82% [104.35% -161.50%] |
 | Distribution |  |
 | Mean steady-state volume of distribution | 45.5 L following IV administration in HSCT recipients |
@@ -96,16 +96,18 @@ There were no clinically relevant changes in plasma concentrations of digoxin, a
 The effect of letermovir on BCRP, BSEP, and MRP2 substrates was not evaluated in clinical studies; the clinical relevance is unknown.
 
 Based on in vitro results letermovir is not an inhibitor of CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, UGT1A4, UGT1A6, UGT1A9, or UGT2B7 and is not an inducer of CYP1A2.
-Letermovir is not an inhibitor of MRP2, OATP2B1, BSEP, OCT1, OCT2, or OAT1 in vitro.
+Letermovir is not an inhibitor of OATP2B1, OCT1, OCT2, or OAT1 in vitro.
 
 Table 5: Drug Interactions: Changes in Pharmacokinetics of Letermovir in the Presence of Co-administered Drug
 
 | AUC | Cmax | C24hrC12hr for tacrolimus |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Regimen of Co-administered Drug | Letermovir Regimen | Geometric Mean Ratio [90% CI] of Letermovir PK with/without Co-administered Drug (No Effect=1.00) |  |  |
+| Antifungals |  |  |  |  |  |
+| fluconazole | 400 mg single dose PO | 480 mg single dose PO | 1.11 (1.01, 1.23) | 1.06 (0.93, 1.21) | 1.28 (1.15, 1.43) |
 | Immunosuppressants |  |  |  |  |  |
 | cyclosporine | 200 mg single dose PO | 240 mg once daily PO | 2.11 (1.97, 2.26) | 1.48 (1.33, 1.65) | 2.06 (1.81, 2.35) |
-| mycophenolate mofetil | 1 g single dose PO | 480 mg once daily PO | 1.18 (1.04, 1.32) | 1.11 (0.93, 1.34) | 1.39 (1.12, 1.74) |
+| mycophenolate mofetil | 1 g single dose PO | 480 mg once daily PO | 1.18 (1.04, 1.32) | 1.11 (0.92, 1.34) | 1.39 (1.12, 1.74) |
 | tacrolimus | 5 mg single dose PO | 80 mg twice daily PO | 1.02 (0.97, 1.07) | 0.92 (0.84, 1.00) | 1.02 (0.93, 1.12) |
 | Abbreviations: PO= oral |  |  |  |  |  |
 
@@ -116,7 +118,7 @@ Table 6: Drug Interactions: Changes in Pharmacokinetics for Co-administered Drug
 | Co-administered Drug | Regimen of Co-administered Drug | Letermovir Regimen | Geometric Mean Ratio [90% CI] of Co-administered Drug PK with/without Letermovir (No Effect=1.00) |  |  |
 | CYP3A Substrates |  |  |  |  |  |
 | midazolam | 1 mg single dose IV | 240 mg once daily PO | 1.47 (1.37, 1.58) | 1.05 (0.94, 1.17) | 2.74 (2.16, 3.49) |
-| 2 mg single dose PO | 240 mg once daily PO | 2.25 (2.04, 2.49) | 1.72 (1.54, 1.92) | Not available |  |
+| 2 mg single dose PO | 240 mg once daily PO | 2.25 (2.04, 2.48) | 1.72 (1.55, 1.92) | Not available |  |
 | P-gp Substrates |  |  |  |  |  |
 | digoxin | 0.5 mg single dose PO | 240 mg twice daily PO | 0.88 (0.80, 0.96) | 0.75 (0.63, 0.89) | 0.90 (0.84, 0.96) |
 | Immunosuppressants |  |  |  |  |  |
@@ -126,6 +128,7 @@ Table 6: Drug Interactions: Changes in Pharmacokinetics for Co-administered Drug
 | sirolimus | 2 mg single dose PO | 480 mg once daily PO | 3.40 (3.01, 3.85) | 2.76 (2.48, 3.06) | 3.15 (2.80, 3.55) |
 | Antifungals and Antivirals |  |  |  |  |  |
 | acyclovir | 400 mg single dose PO | 480 mg once daily PO | 1.02 (0.87, 1.2) | 0.82 (0.71, 0.93) | 1.13 (0.94, 1.36) |
+| fluconazole | 400 mg single dose PO | 480 mg single dose PO | 1.03 (0.99, 1.08) | 0.95 (0.92, 0.99) | 1.04 (1.00, 1.08) |
 | posaconazole | 300 mg single dose PO | 480 mg once daily PO | 0.98 (0.82, 1.17) | 1.11 (0.95, 1.29) | 1.10 (0.94, 1.30) |
 | voriconazole | 200 mg twice daily PO | 480 mg once daily PO | 0.56 (0.51, 0.62) | 0.61 (0.53, 0.71) | 0.49 (0.42, 0.57) |
 | HMG-CoA Reductase Inhibitors |  |  |  |  |  |

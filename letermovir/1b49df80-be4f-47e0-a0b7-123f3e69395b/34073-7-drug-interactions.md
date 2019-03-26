@@ -11,7 +11,7 @@ Co-administration of PREVYMIS with midazolam results in increased midazolam plas
 Co-administration of PREVYMIS with drugs that are CYP3A substrates may result in clinically relevant increases in the plasma concentrations of co-administered CYP3A substrates (Table 3) [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Letermovir is an inhibitor of OATP1B1/3 transporters.
-Co-administration of PREVYMIS with drugs that are substrates of OATP1B1/3 transporters may result in a clinically relevant increase in plasma concentrations of co-administered OATP1B1/3 substrates (Table3).
+Co-administration of PREVYMIS with drugs that are substrates of OATP1B1/3 transporters may result in a clinically relevant increase in plasma concentrations of co-administered OATP1B1/3 substrates (Table 3).
 
 The magnitude of CYP3A- and OATP1B1/3-mediated drug interactions on co-administered drugs may be different when PREVYMIS is co-administered with cyclosporine.
 See the prescribing information for cyclosporine for information on drug interactions with cyclosporine.
@@ -60,4 +60,4 @@ Table 3: Potentially Significant Drug Interactions: Alteration in Dose May Be Re
 
 ## 7.4 Drugs without Clinically Significant Interactions with PREVYMIS
 
-No clinically significant interactions were observed in clinical drug-drug interaction studies of letermovir and acyclovir, digoxin, mycophenolate mofetil, posaconazole, ethinyl estradiol, and levonorgestrel.
+No clinically significant interactions were observed in clinical drug-drug interaction studies of letermovir and acyclovir, digoxin, mycophenolate mofetil, fluconazole, posaconazole, ethinyl estradiol, and levonorgestrel.
