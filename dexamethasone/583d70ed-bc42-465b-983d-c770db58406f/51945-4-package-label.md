@@ -1,8 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 0.005 mL Vial Carton
 
-DEXYCU™
-
-(dexamethasone intraocular suspension) 9% 0.005 mL dose in single dose vial for intraocular administration
+DEXYCU™ (dexamethasone intraocular suspension) 9% 0.005 mL dose in single dose vial for intraocular administration
 
 Please see enclosed full Prescribing Information for Instructions
 
