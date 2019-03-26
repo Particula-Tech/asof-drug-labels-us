@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA203649"
+  ],
+  "inn": "treprostinil",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3420-80",
+    "0781-3425-80",
+    "0781-3427-80",
+    "0781-3430-80",
+    "0781-6021-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "water solution",
+      "name": "DILUENT"
+    },
+    {
+      "form": "INJECTION",
+      "generic": "treprostinil",
+      "name": "Treprostinil"
+    }
+  ],
+  "setid": "473297ca-a872-4052-a053-87dc8f0d3c13",
+  "source": "dailymed"
+}
