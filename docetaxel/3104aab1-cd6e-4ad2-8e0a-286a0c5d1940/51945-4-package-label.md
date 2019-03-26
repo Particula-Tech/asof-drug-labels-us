@@ -13,6 +13,8 @@ Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
+LOT EXP
+
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
 20 mg/mL
