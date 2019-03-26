@@ -15,8 +15,7 @@ Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
-Mfd by: Zydus Hospira Oncology, Private Ltd., Gujarat, India.
-Dist. by: Hospira, Inc. Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
 
