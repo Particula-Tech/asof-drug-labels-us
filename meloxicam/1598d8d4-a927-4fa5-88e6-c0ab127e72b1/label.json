@@ -5,7 +5,9 @@
   "inn": "meloxicam",
   "labeler": "TerSera Therapeutics LLC",
   "package_ndcs": [
+    "70720-115-10",
     "70720-115-99",
+    "70720-175-10",
     "70720-175-99"
   ],
   "products": [
