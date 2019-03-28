@@ -10,8 +10,7 @@ Zoledronic acid inhibits the increased osteoclastic activity and skeletal calciu
 
 ## 12.2 Pharmacodynamics
 
-Clinical studies in patients with hypercalcemia of malignancy (HCM) showed that single-dose infusions of Zoledronic acid Injection are associated with decreases in serum calcium and phosphorus and increases in urinary calcium and phosphorus excretion.
-
+Clinical studies in patients with hypercalcemia of malignancy (HCM) showed that single-dose infusions of Zoledronic Acid Injection are associated with decreases in serum calcium and phosphorus and increases in urinary calcium and phosphorus excretion.
 Osteoclastic hyperactivity resulting in excessive bone resorption is the underlying pathophysiologic derangement in hypercalcemia of malignancy (HCM, tumor-induced hypercalcemia) and metastatic bone disease.
 Excessive release of calcium into the blood as bone is resorbed results in polyuria and gastrointestinal disturbances, with progressive dehydration and decreasing glomerular filtration rate.
 This, in turn, results in increased renal resorption of calcium, setting up a cycle of worsening systemic hypercalcemia.
@@ -35,8 +34,8 @@ Pharmacokinetic data in patients with hypercalcemia are not available.
 
 Distribution
 
-Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg Zoledronic acid Injection were given to 64 patients with cancer and bone metastases.
-The pos-tinfusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours post-infusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
+Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg Zoledronic Acid Injection were given to 64 patients with cancer and bone metastases.
+The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours post-infusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
 The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 post-infusion, and a terminal elimination half-life t 1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
 The accumulation of zoledronic acid measured over three cycles was low, with mean AUC0-24h ratios for cycles 2 and 3 versus 1 of 1.13 ± 0.30 and 1.16 ± 0.36, respectively.
@@ -66,7 +65,7 @@ Special Populations
 
 Pediatrics
 
-Zoledronic acid Injection is not indicated for use in children [see Use in Specific Populations (8.4)].
+Zoledronic Acid Injection is not indicated for use in children [see Use in Specific Populations (8.4)].
 
 Geriatrics
 
@@ -84,7 +83,7 @@ Renal Insufficiency
 
 The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately impaired renal function.
 Compared to patients with normal renal function (N=37), patients with mild renal impairment (N=15) showed an average increase in plasma AUC of 15%, whereas patients with moderate renal impairment (N=11) showed an average increase in plasma AUC of 43%.
-Limited pharmacokinetic data are available for Zoledronic acid Injection in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
+Limited pharmacokinetic data are available for Zoledronic Acid Injection in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
 Based on population PK/PD modeling, the risk of renal deterioration appears to increase with AUC, which is doubled at a creatinine clearance of 10 mL/min.
 Creatinine clearance is calculated by the Cockcroft-Gault formula:
 
@@ -92,7 +91,7 @@ CrCl= [140-age (years)] x weight (kg) {x 0.85 for female patients}
 
 [72 x serum creatinine (mg/dL)]
 
-Zoledronic acid Injection systemic clearance in individual patients can be calculated from the population clearance of Zoledronic acid Injection, CL (L/h)=6.5(CrCl/90)0.4.
-These formulae can be used to predict the Zoledronic acid Injection AUC in patients, where CL=Dose/AUC0-∞.
-The average AUC0-24 in patients with normal renal function was 0.42 mg•h/L and the calculated AUC0-∞ for a patient with creatinine clearance of 75 mL/min was 0.66 mg•h/L following a 4-mg dose of Zoledronic acid Injection.
+Zoledronic Acid Injection systemic clearance in individual patients can be calculated from the population clearance of Zoledronic Acid Injection, CL (L/h)=6.5(CrCl/90)0.4.
+These formulae can be used to predict the Zoledronic Acid Injection AUC in patients, where CL=Dose/AUC0-∞.
+The average AUC0-24 in patients with normal renal function was 0.42 mg•h/L and the calculated AUC0-∞ for a patient with creatinine clearance of 75 mL/min was 0.66 mg•h/L following a 4-mg dose of Zoledronic Acid Injection.
 However, efficacy and safety of adjusted dosing based on these formulae have not been prospectively assessed [see Warnings and Precautions (5.3)].

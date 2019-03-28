@@ -11,14 +11,14 @@ This effect has not been reported in Zoledronic acid Injection clinical trials.
 
 ## 7.2 Loop Diuretics
 
-Caution should also be exercised when Zoledronic acid Injection is used in combination with loop diuretics due to an increased risk of hypocalcemia.
+Caution should also be exercised when Zoledronic Acid Injection is used in combination with loop diuretics due to an increased risk of hypocalcemia.
 
 ## 7.3 Nephrotoxic Drugs
 
-Caution is indicated when Zoledronic acid Injection is used with other potentially nephrotoxic drugs.
+Caution is indicated when Zoledronic Acid Injection is used with other potentially nephrotoxic drugs.
 
 ## 7.4 Thalidomide
 
-No dose adjustment for Zoledronic acid Injection 4 mg is needed when coadministered with thalidomide.
-In a pharmacokinetic study of 24 patients with multiple myeloma, Zoledronic acid Injection 4 mg given as a 15-minute infusion was administered either alone or with thalidomide (100 mg once daily on days 1 to 14 and 200 mg once daily on days 15 to 28).
-Coadministration of thalidomide with Zoledronic acid Injection did not significantly change the pharmacokinetics of Zoledronic acid or creatinine clearance.
+No dose adjustment for Zoledronic Acid Injection 4 mg is needed when coadministered with thalidomide.
+In a pharmacokinetic study of 24 patients with multiple myeloma, Zoledronic Acid Injection 4 mg given as a 15-minute infusion was administered either alone or with thalidomide (100 mg once daily on days 1 to 14 and 200 mg once daily on days 15 to 28).
+Coadministration of thalidomide with Zoledronic Acid Injection did not significantly change the pharmacokinetics of Zoledronic acid or creatinine clearance.
