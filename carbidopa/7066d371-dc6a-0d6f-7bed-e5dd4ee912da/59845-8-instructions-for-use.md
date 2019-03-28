@@ -2,7 +2,40 @@ INSTRUCTIONS FOR USE
 
 | DUOPA (carbidopa and levodopa) enteral suspension These instructions are for use along with any other instructions your healthcare provider gives you. Please read the Medication Guide before you start using DUOPA and each time you get a refill. For questions or problems, call DUOPA support toll free at 1-844-386-4968. |  |
 | --- | --- |
-| The CADD-Legacy® 1400 pump is used for delivery of DUOPA through a tube into your stomach attached to the longer colored connector. Enteral nutrition should only be given by the shorter white connector (see Figure A). This Instructions for Use provides information for the CADD-Legacy® model 1400 pump only. There are other CADD-Legacy® pump models available. Read the label on the back of the pump to make sure it is a model 1400 pump. Your healthcare provider prescribed DUOPA for you. Your healthcare provider programs your prescription into the CADD-Legacy® 1400 pump. The CADD-Legacy® 1400 pump is approved for use with DUOPA. DUOPA is provided as medication inside cassettes that connect to the CADD-Legacy® 1400 pump. The pump delivers DUOPA in 3 ways: Continuous Rate: Steady delivery of DUOPA delivered throughout the day while pump is onMorning Dose: A large dose of DUOPA given each morningExtra Dose: A small dose of DUOPA given as needed during the day You will need the following items to complete these steps: PumpDUOPA cassetteCoin, like a quarter Carrying bagSyringeSyringe connectorRoom temperature water |  |
+| The CADD-Legacy® 1400 pump is used for delivery of DUOPA through a tube into your stomach attached to the longer straight (green) connector. Enteral nutrition should only be given by the shorter angled connector (white, blue, or violet) (see Figure A and Table. Connector Colors). |  |
+
+| Table. Connector Colors. |  |  |  |
+| --- | --- | --- | --- |
+| Y-Connector Size | Design | Gastric (“g”) Port Color | Intestinal (“i”) Port Color |
+| 15 FR | Original | White | Green |
+| New | Blue |  |  |
+| 20 FR | Original | White |  |
+| New | Violet |  |  |
+
+Note: The original design of the Y-Connector is represented in the Figures throughout this Instructions for Use.
+This Instructions for Use provides information for the CADD-Legacy® model 1400 pump only.
+There are other CADD-Legacy® pump models available.
+Read the label on the back of the pump to make sure it is a model 1400 pump.
+Your healthcare provider prescribed DUOPA for you.
+Your healthcare provider programs your prescription into the CADD-Legacy® 1400 pump.
+The CADD-Legacy® 1400 pump is approved for use with DUOPA.
+DUOPA is provided as medication inside cassettes that connect to the CADD-Legacy® 1400 pump.
+
+The pump delivers DUOPA in 3 ways:
+
+- Continuous Rate: Steady delivery of DUOPA delivered throughout the day while pump is on
+- Morning Dose: A large dose of DUOPA given each morning
+- Extra Dose: A small dose of DUOPA given as needed during the day
+
+You will need the following items to complete these steps:
+
+- Pump
+- DUOPA cassette
+- Coin, like a quarter
+- Carrying bag
+- Syringe
+- Syringe connector
+- Room temperature water
 
 | CADD-Legacy®-1400 Pump |  |
 | --- | --- |
@@ -56,7 +89,7 @@ CAUTIONS
 | 3) Latch the DUOPA cassette into the pump: Hold the pump and DUOPA cassette upright against a flat surface.Press down on the pump, until the DUOPA cassette fits tightly against the pump (see Figure D).Use a coin to twist the latch counterclockwise until the latch lines up straight with the arrow (see Figure E). |  |  |
 | WARNING: Attach the DUOPA cassette correctly. A detached or incorrectly attached cassette could cause a problem with getting your DUOPA. |  |  |
 | 4) Remove the red cap on the end of the cassette tube (see Figure F). Save the red cap for use when you throw away the cassette. WARNING: Do not connect the red cap to the stomach tube. It will block DUOPA flow. |  |  |
-| 5) Connect the stomach tube to the cassette tube: While holding the stomach tube steady, twist off the white cap on the end of the longer colored connector (see Figure G). WARNING: Do not twist the stomach tube. Connect the cassette tube to the end of the longer colored connector (see Figure H). Do not connect to the shorter white connector. |  |  |
+| 5) Connect the stomach tube to the cassette tube: While holding the stomach tube steady, twist off the white cap on the end of the longer straight (green) connector (see Figure G). WARNING: Do not twist the stomach tube. Connect the cassette tube to the end of the longer straight (green) connector (see Figure H). Do not connect to the shorter angled connector (white, blue, or violet). |  |  |
 | 6) Turn the pump on: Press and hold until the display turns on.Wait approximately 30 seconds for the pump to review settings. Check for on the screen. PUMP STATUS: The pump is now on but not yet delivering DUOPA. |  |  |
 | 7) Inspect the tubing for kinks or closed clamps. If needed straighten kinks or open clamps (see Figure I). |  |  |
 | 8) Start the pump: Press and holduntil 3 dashes appear and then disappear from the screen.Wait approximately 15 seconds for the pump to start running.Check for on the display. |  |  |
@@ -82,9 +115,9 @@ For instructions on changing a DUOPA cassette, see Changing the Cassette.
 | 2) Stop the Continuous Rate: Press and holduntil 3 dashes appear and then disappear from the display.Check for on the display. |  |  |
 | 3) Turn the pump off: Press and holduntil 3 sets of dots appear and then disappear from the display and the display turns off.Check that the display is off. |  |  |
 | 4) Clamp the cassette tube (see Figure N). |  |  |
-| 5) Disconnect the tubing: Twist the cassette tube to disconnect it from the longer colored connector (see Figure O). WARNING: Do not twist the stomach tube.Replace the red cap on the cassette tube. |  |  |
-| 6) Flush the longer colored connector: Connect the syringe connector to the longer colored connector.Fill a syringe with room temperature tap or drinking water. Do not use hot water as it could burn the wall of your stomach or intestine. Connect the syringe to the syringe connector (see Figure P). Do not over-tighten the syringe connector or it could break. Do not use the syringe connector if it is cracked or broken.Push the syringe plunger to flush the tube. Do not force the syringe if flushing the tube is difficult. Call your healthcare provider if you are unable or have difficulty flushing your tube.Remove the syringe and the syringe connector.Replace the white cap on the longer colored connector (see Figure Q). |  |  |
-| 7) Flush the shorter white connector: Twist the white cap off the shorter white connector.Connect the syringe connector to the shorter white connector.Fill a syringe with room temperature tap or drinking water. Do not use hot water as it could burn the wall of your stomach or intestine.Connect the syringe to the syringe connector (see Figure R). Do not over-tighten the syringe connector or it could break. Do not use the syringe connector if cracked or broken. Push the syringe plunger to flush the tube.Remove the syringe and the syringe connector. Replace the white cap on the shorter white connector (see Figure S). |  |  |
+| 5) Disconnect the tubing: Twist the cassette tube to disconnect it from the longer straight (green) connector (see Figure O). WARNING: Do not twist the stomach tube.Replace the red cap on the cassette tube. |  |  |
+| 6) Flush the longer straight (green) connector: Connect the syringe connector to the longer straight (green) connector.Fill a syringe with room temperature tap or drinking water. Do not use hot water as it could burn the wall of your stomach or intestine. Connect the syringe to the syringe connector (see Figure P). Do not over-tighten the syringe connector or it could break. Do not use the syringe connector if it is cracked or broken.Push the syringe plunger to flush the tube. Do not force the syringe if flushing the tube is difficult. Call your healthcare provider if you are unable or have difficulty flushing your tube.Remove the syringe and the syringe connector.Replace the white cap on the longer straight (green) connector (see Figure Q). |  |  |
+| 7) Flush the shorter angled connector (white, blue, or violet): Twist the white cap off the shorter angled connector (white, blue, or violet).Connect the syringe connector to the shorter angled connector (white, blue, or violet).Fill a syringe with room temperature tap or drinking water. Do not use hot water as it could burn the wall of your stomach or intestine.Connect the syringe to the syringe connector (see Figure R). Do not over-tighten the syringe connector or it could break. Do not use the syringe connector if cracked or broken. Push the syringe plunger to flush the tube.Remove the syringe and the syringe connector. Replace the white cap on the shorter angled connector (white, blue, or violet) (see Figure S). |  |  |
 | 8) Remove the DUOPA cassette from the pump: Hold the pump and DUOPA cassette upright against a flat surface (see Figure T).Use a coin to twist the latch clockwise until the latch pops out (see Figure U).Remove the DUOPA cassette from the pump. |  |  |
 
 | Changing the DUOPA Cassette |  |  |
@@ -94,13 +127,13 @@ For instructions on changing a DUOPA cassette, see Changing the Cassette.
 | 2) Stop the Continuous Rate: Press and holduntil 3 dashes appear and then disappear from the display.Check for on the display. |  |  |
 | 3) Turn the pump off: Press and holduntil 3 sets of dots appear and then disappear from the display and the display turns off.Check that the display is off. |  |  |
 | 4) Clamp the cassette tube (see Figure W). |  |  |
-| 5) Disconnect the tubing: Twist the cassette tube to disconnect it from the longer colored connector (see Figure X). WARNING: Do not twist the stomach tube. Replace the red cap on the cassette tube. |  |  |
+| 5) Disconnect the tubing: Twist the cassette tube to disconnect it from the longer straight (green) connector (see Figure X). WARNING: Do not twist the stomach tube. Replace the red cap on the cassette tube. |  |  |
 | 6) Remove the DUOPA cassette from the pump: Hold the pump and DUOPA cassette upright against a flat surface (see Figure Y).Use a coin to twist the latch clockwise until the latch pops out (see Figure Z).Remove the DUOPA cassette from the pump. |  |  |
 | 7) Remove the cassette clip on the new DUOPA cassette (see Figure AA): Remove the cassette tube from its secured slot in the clip.Pull the clip from the cassette to slide it off of the cassette top. |  |  |
 | 8) Attach the new DUOPA cassette to the pump (see Figure BB): Hold the pump so that the latch faces up.Hold the DUOPA cassette so that the tube points down.Insert the DUOPA cassette hooks into the hinge pins at the base of the pump. |  |  |
 | 9) Latch the new DUOPA cassette into the pump: Hold the pump and DUOPA cassette upright against a flat surface.Press down on the pump until the DUOPA cassette fits tightly against the pump (see Figure CC).Use a coin to twist the latch counterclockwise until the latch lines up straight with the arrow (see Figure DD). WARNING: Attach the DUOPA cassette correctly. A detached or incorrectly attached cassette could cause a problem with getting your DUOPA. |  |  |
 | 10) Remove the red cap on the end of the cassette tube (see Figure EE). Save the red cap to use when discarding the cassette. WARNING: Do not connect the red cap to the stomach tube as it will block DUOPA flow. |  |  |
-| 11) Connect the stomach tube to the cassette tube: While holding the stomach tube steady, twist off the white cap on the end of the longer colored connector (see Figure FF). WARNING: Do not twist the stomach tube.Connect the cassette tube to the end of the longer colored connector (see Figure GG). Do not connect to the shorter white connector. |  |  |
+| 11) Connect the stomach tube to the cassette tube: While holding the stomach tube steady, twist off the white cap on the end of the longer straight (green) connector (see Figure FF). WARNING: Do not twist the stomach tube.Connect the cassette tube to the end of the longer straight (green) connector (see Figure GG). Do not connect to the shorter angled connector (white, blue, or violet). |  |  |
 | 12) Turn the pump on: Press and holduntil the display turns on.Wait approximately 30 seconds for the pump to review settings.Check for on the display. PUMP STATUS: The pump is now on but not delivering DUOPA. |  |  |
 | 13) Inspect the tubing for kinks or closed clamps. If needed straighten kinks or open clamps (see Figure HH). |  |  |
 | 14) Start the pump: Press and holduntil 3 dashes appear and then disappear from the display.Wait approximately 15 seconds for pump to start running.Check for on the display. PUMP STATUS: The pump is now running. |  |  |
@@ -167,4 +200,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 | --- | --- | --- |
 | Pump manufactured by: Smiths Medical ASD, Inc. 1265 Grey Fox Road St. Paul, MN 55112 USA Tel: 1-800-258-5361 www.smiths-medical.com |  |  |
 
-03-B169 Revised: May 2015
+03-B884 Revised: March 2019

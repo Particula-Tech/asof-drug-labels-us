@@ -1443,7 +1443,7 @@ NOTE: Ensure that the pump is in lock level 0 (LL0) and appears on the screen.
 5. PressCheck for on the screen.
 6. Pressor to select the extra dose amount.
 7. PressPump Status: The extra dose amount is now set.
-8. PressCheck for on the screen
+8. Pressheck for on the screen
 9. Pressif you wish to clear the amount given.
 10. Press
 
