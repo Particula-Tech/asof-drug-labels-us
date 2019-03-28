@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208371"
+  ],
+  "inn": "abiraterone",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-418-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abiraterone acetate",
+      "name": "Abiraterone acetate"
+    }
+  ],
+  "setid": "54ae5ef9-aea5-484a-a473-863b1397e206",
+  "source": "dailymed"
+}
