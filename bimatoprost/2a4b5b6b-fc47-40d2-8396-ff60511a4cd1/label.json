@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210126"
+  ],
+  "inn": "bimatoprost",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-295-01",
+    "68083-296-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bimatoprost",
+      "name": "Bimatoprost"
+    }
+  ],
+  "setid": "2a4b5b6b-fc47-40d2-8396-ff60511a4cd1",
+  "source": "dailymed"
+}
