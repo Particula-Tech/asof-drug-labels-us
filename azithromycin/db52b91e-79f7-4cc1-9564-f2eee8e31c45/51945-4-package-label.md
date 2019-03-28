@@ -172,7 +172,13 @@ CHERRY FLAVORED
 
 200 mg* per 5 mL
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Rx only
+
+Pfizer
+
+Distributed by
+
+Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 600 mg Bottle Carton
 
@@ -202,7 +208,13 @@ CHERRY FLAVORED
 
 200 mg* per 5 mL
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Rx only
+
+Pfizer
+
+Distributed by
+
+Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 900 mg Bottle Carton
 
@@ -232,7 +244,13 @@ CHERRY FLAVORED
 
 200 mg* per 5 mL
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Rx only
+
+Pfizer
+
+Distributed by
+
+Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 1200 mg Bottle Carton
 
