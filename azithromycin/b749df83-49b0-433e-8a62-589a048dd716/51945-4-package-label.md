@@ -44,8 +44,6 @@ Rx only
 
 NDC 0069-3051-75
 
-contains ONE DOSE REGIMEN with patient booklet enclosed
-
-FOR POSITION ONLY
+contains ONE DOSE REGIMEN
 
 Zithromax® (azithromycin for oral suspension) one gram* single dose packet
