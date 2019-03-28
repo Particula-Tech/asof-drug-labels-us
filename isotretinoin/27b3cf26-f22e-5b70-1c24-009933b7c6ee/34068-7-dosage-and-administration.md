@@ -1,11 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-Zenatane should be administered with a meal (see PRECAUTIONS: Informationfor Patients).
+Zenatane should be administered with a meal (see PRECAUTIONS: Information for Patients).
 
-The recommended dosage range for Zenatane is 0.5 to 1.0 mg/kg/day given in two divided doses with food for 15 to 20 weeks.
-In studies comparing 0.1, 0.5, and 1.0 mg/kg/day,8 it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
+The recommended dosage range for Zenatane is 0.5 to 1 mg/kg/day given in two divided doses with food for 15 to 20 weeks.
+In studies comparing 0.1, 0.5, and 1 mg/kg/day,8 it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
 During treatment, the dose may be adjusted according to response of the disease and/or the appearance of clinical side effects — some of which may be dose related.
-Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dose adjustments up to 2.0 mg/kg/day, as tolerated.
+Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dose adjustments up to 2 mg/kg/day, as tolerated.
 Failure to take Zenatane with food will significantly decrease absorption.
 Before upward dose adjustments are made, the patients should be questioned about their compliance with food instructions.
 
@@ -17,7 +17,7 @@ After a period of 2 months or more off therapy, and if warranted by persistent o
 The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth.
 Long-term use of Zenatane, even in low doses, has not been studied, and is not recommended.
 It is important that Zenatane be given at the recommended doses for no longer than the recommended duration.
-The effect of long-term use of Zenatane on bone loss is unknown (see WARNINGS: Skeletal: BoneMineral Density, Hyperostosis, and Premature Epiphyseal Closure).
+The effect of long-term use of Zenatane on bone loss is unknown (see WARNINGS: Skeletal: Bone Mineral Density, Hyperostosis, and Premature Epiphyseal closure).
 
 Contraceptive measures must be followed for any subsequent course of therapy (see PRECAUTIONS).
 
@@ -36,5 +36,5 @@ Table 4 Zenatane Dosing by Body Weight (Based on Administration With Food)
 
 *See DOSAGE AND ADMINISTRATION: the recommended dosage range is 0.5 to 1 mg/kg/day.
 
-| INFORMATION FOR PHARMACISTS Access the iPLEDGE Program system via the internet (www.ipledgeprogram.com) or telephone (1-866495-0654) or through electornic telecommunication verification (via submission of an isotretinoin prescription claim) to obtain an authorization and the “do not dispense to patient after” date. Zenatane must only be dispensed in no more than a 30-day supply. REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM. A Zenatane Medication Guide must be given to the patient each time Zenatane is dispensed, as required by law. This Zenatane medication guide is an important part of the risk management program for the patient. |
+| INFORMATION FOR PHARMACISTS Access the iPLEDGE Program system via the internet (www.ipledgeprogram.com), or telephone (1-866495-0654) or through electornic telecommunication verification (via submission of an isotretinoin prescription claim) to obtain an authorization and the “do not dispense to patient after” date. Zenatane must only be dispensed in no more than a 30 day supply. REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM. A Zenatane Medication Guide must be given to the patient each time Zenatane is dispensed, as required by law. This Zenatane Medication Guide is an important part of the risk management program for the patient. |
 | --- |

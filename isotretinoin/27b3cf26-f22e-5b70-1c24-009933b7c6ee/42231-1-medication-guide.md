@@ -14,8 +14,8 @@ What is the most important information I should know about Zenatane?
 
 1.
 Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-Female patients who are pregnant or who plan to become pregnant must not take Zenatane.
-Female patients must not get pregnant:
+Patients who are pregnant or who plan to become pregnant must not take Zenatane.
+Patients must not get pregnant:
 
 - for 1 month before starting Zenatane
 - while taking Zenatane
@@ -76,7 +76,8 @@ Who should not take Zenatane?
   Zenatane causes severe birth defects.
   See “What is the most important information I should know about Zenatane?”
 - Do not take Zenatane if you are allergic to anything in it.
-  See the end of this Medication Guide for a complete list of ingredients in Zenatane.Zenatane contains parabens as the preservatives.
+  See the end of this Medication Guide for a complete list of ingredients in Zenatane.
+  Zenatane contains parabens as the preservatives.
 
 What should I tell my doctor before taking Zenatane?
 
@@ -91,8 +92,8 @@ Tell your doctor if you or a family member has any of the following health condi
 - an eating problem called anorexia nervosa (where people eat too little)
 - food or medicine allergies
 
-Tell your doctor if you are pregnant or breast-feeding.
-Zenatane must not be used by women who are pregnant or breast feeding.
+Tell your doctor if you are pregnant or breastfeeding.
+Zenatane must not be used by women who are pregnant or breastfeeding.
 
 Tell your doctor about all of the medicines you take including prescription and non­prescription medicines, vitamins and herbal supplements.
 Zenatane and certain other medicines can interact with each other, sometimes causing serious side effects.
@@ -126,12 +127,12 @@ How should I take Zenatane?
   Before prescribing Zenatane, your doctor will:
 - explain the iPLEDGE Program to you
 - have you sign the Patient Information/Informed Consent Form (for all patients).
-  Female patients who can get pregnant must also sign another consent form.
+  Patients who can get pregnant must also sign another consent form.
 
-You will not be prescribed Zenatane if you cannot agree to or follow all the instructions of the iPLEDGE program.
+You will not be prescribed Zenatane if you cannot agree to or follow all the instructions of the iPLEDGE Program.
 
 - You will get no more than a 30 day supply of Zenatane at a time.
-  This is to make sure you are following the Zenatane iPLEDGE program.
+  This is to make sure you are following the Zenatane iPLEDGE Program.
   You should talk with your doctor each month about side effects.
 - The amount of Zenatane you take has been specially chosen for you.
   It is based on your body weight, and may change during treatment.
@@ -140,20 +141,20 @@ You will not be prescribed Zenatane if you cannot agree to or follow all the ins
   Do not chew or suck on the capsule.
   Zenatane can hurt the tube that connects your mouth to your stomach (esophagus) if it is not swallowed whole.
 - If you miss a dose, just skip that dose.
-  Do not take 2 doses at the same time.
+  Do not take two doses at the same time.
 - If you take too much Zenatane or overdose, call your doctor or poison control center right away.
 - Your acne may get worse when you first start taking Zenatane.
   This should last only a short while.
   Talk with your doctor if this is a problem for you.
 - You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
   Your doctor may do blood tests to check for serious side effects from Zenatane.
-  Female patients who can get pregnant will get a pregnancy test each month.
-- Female patients who can get pregnant must agree to use two separate methods of effective birth control at the same time one month before, while taking, and for one month after taking Zenatane.
-  You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen methods of birth control.
+  Patients who can get pregnant will get a pregnancy test each month.
+- Patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Zenatane.
+  You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen forms of birth control.
   To access the iPLEDGE Program system, go to www.ipledgeprogram.com or call 1-866-495-0654.
-  You must talk about effective birth control methods with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
+  You must talk about effective birth control forms with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
   Your doctor can arrange this free visit, which will be paid for by the company that makes Zenatane.
-  If you have sex at any time without using two methods of effective birth control, get pregnant, or miss your expected period, stop using Zenatane and call your doctor right away.
+  If you have sex at any time without using two forms of effective birth control, get pregnant, or miss your expected period, stop using Zenatane and call your doctor right away.
 
 What should I avoid while taking Zenatane?
 
@@ -162,7 +163,7 @@ What should I avoid while taking Zenatane?
 - Do not breast feed while taking Zenatane and for one month after stopping Zenatane.
   We do not know if Zenatane can pass through your milk and harm the baby.
 - Do not give blood while you take Zenatane and for one month after stopping Zenatane.
-  If someone who is pregnant gets your donated blood, her baby may be exposed to Zenatane and may be born with birth defects.
+  If someone who is pregnant gets your donated blood, their baby may be exposed to Zenatane and may be born with birth defects.
 - Do not take other medicines or herbal products with Zenatane unless you talk to your doctor.
   See “What should I tell my doctor before taking Zenatane?”
 - Do not drive at night until you know if Zenatane has affected your vision.
@@ -258,7 +259,9 @@ How should I store Zenatane?
   Protect from light.
 - Keep Zenatane and all medicines out of the reach of children.
 
-General Information about Zenatane Medicines are sometimes prescribed for conditions that are not mentioned in Medication Guides.
+General Information about Zenatane
+
+Medicines are sometimes prescribed for conditions that are not mentioned in Medication Guides.
 Do not use Zenatane for a condition for which it was not prescribed.
 Do not give Zenatane to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -272,8 +275,8 @@ What are the ingredients in Zenatane?
 
 Active Ingredient: isotretinoin USP
 
-Inactive Ingredients: butylated hydroxyanisole, edetate disodium, ferric oxide red, ferric oxide yellow, hydrogenated vegetable oil (Type-I and Type-II), medium chain triglyceride, refined soybean oil and white wax.
-Gelatin capsules contain gelatin, glycerin, methylparaben, propyl paraben, lake blend blue(LB-332) containing D&C Yellow No.10, FD&C Blue No.1 (for 10 mg), lake blend red (LB-1574) containing D&C Red No.27, D&C Red No.30 (for 20 mg), lake blend green (LB-333) containing D&C Yellow No.10, FD&C Blue No.1 (for 40 mg), lake blend white (TLB-1774) containing FD&C Blue No.2, titanium dioxide, opacode black S-1-27794 containing iron oxide black, N-butyl alcohol, propylene glycol, industrial methylene spirit and shellac (for 10 mg, 20 mg and 40 mg) and opacode black S-1-17823 containing iron oxide black, N-butyl alcohol, propylene glycol, ammonium hydroxide and shellac (for 30 mg).
+Inactive Ingredients: butylated hydroxyanisole, edetate disodium, hydrogenated vegetable oil (Type-I and Type-II), medium chain triglyceride, refined soybean oil and white wax.
+Gelatin capsulescontain ferric oxide red, ferric oxide yellow (for 30 mg), gelatin, glycerin, methylparaben, propyl paraben, lake blend blue(LB-332) containing D&C Yellow No.10, FD&C Blue No.1 (for 10 mg), lakeblend red (LB-1574) containing D&C Red No.27, D&C Red No.30 (for 20 mg), lake blend green (LB-333) containing D&C Yellow No.10, FD&C Blue No.1 (for 40 mg), lake blend white (TLB-1774)containing FD&C Blue No.2, titanium dioxide, and opacode black S-1-17823 containing iron oxide black, N-butyl alcohol, propylene glycol, ammonium hydroxide and shellac.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -297,6 +300,16 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0518
+or
+
+Distributed by:
+
+Dr. Reddy's Laboratories Inc.,
+
+Princeton, NJ 08540
+
+Made in India
+
+Issued: 0119
 
 Zenatane is a trademark of Dr. Reddy's Laboratories, Inc. and/or its affiliates.
