@@ -24,8 +24,7 @@
 | This Patient Information leaflet summarizes the most important information about CARDURA. For more information, ask your healthcare provider. You can ask your healthcare provider or pharmacist for information that is written for healthcare professionals. |  |  |  |
 | What are the ingredients in CARDURA? |  |  |  |
 | Active ingredient: doxazosin mesylate |  |  |  |
-| Inactive ingredients: microcrystalline cellulose, lactose, sodium starch glycolate, magnesium stearate and sodium lauryl sulfate. |  |  |  |
-| LAB-0070-4.0 |  |  |  |
-| Any trademark information should appear here |  |  |  |
+| Inactive ingredients: microcrystalline cellulose, lactose, sodium starch glycolate, magnesium stearate and sodium lauryl sulfate. The 2 mg tablet contains D & C yellow 10 and FD & C yellow 6; the 4 mg tablet contains FD & C yellow 6; the 8 mg tablet contains FD & C blue 2 and D & C yellow 10. |  |  |  |
+| LAB-0070-5.0 |  |  |  |
 | For more information, go to www.Pfizer.com or call 1-800-438-1985. |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | 6/2016 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | Revised: 3/2019 |
