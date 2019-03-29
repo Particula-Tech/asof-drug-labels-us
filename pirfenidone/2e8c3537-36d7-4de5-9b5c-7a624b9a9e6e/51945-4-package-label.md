@@ -35,6 +35,24 @@ Genentech
 4-week treatment pack of 189 capsules.
 Contains enough capsules for 4 weeks.
 
+# PRINCIPAL DISPLAY PANEL - 267 mg Tablet Bottle Carton - Sample
+
+NDC 50242-122-86
+
+Esbriet® (pirfenidone) tablets
+
+267 mg
+
+SAMPLE - NOT FOR SALE
+
+Keep out of reach of children.
+
+Rx only
+
+189 tablets Genentech
+
+10190499
+
 # PRINCIPAL DISPLAY PANEL - 267 mg Tablet Bottle Carton
 
 NDC 50242-122-06
