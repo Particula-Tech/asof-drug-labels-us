@@ -12,9 +12,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label
 
-NDC 59762-0935-3
-
-45 g (75 mL when reconstituted)
+NDC 59762-0935-3 75 mL (when reconstituted)
 
 GREENSTONE® BRAND
 
@@ -24,9 +22,11 @@ ORANGE FLAVORED 40 mg/mL*
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton
+LOT: EXP:
 
-NDC 59762-0935-3 45 g (75 mL when reconstituted)
+# PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton
+
+NDC 59762-0935-3 75 mL (when reconstituted)
 
 GREENSTONE® BRAND
 
@@ -41,7 +41,7 @@ Contains Small Parts - Keep out of reach of children.
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label - NDC 59762-0934
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
 NDC 59762-0934-1 30 Tablets
 
