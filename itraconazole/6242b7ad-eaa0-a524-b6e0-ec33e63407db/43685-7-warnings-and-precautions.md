@@ -137,7 +137,7 @@ Table 1 Drug Interactions with Itraconazole Capsules that Affect Concomitant Dru
 | Disopyramide Dofetilide Dronedarone Quinidine |  | Contraindicated during and 2 weeks after Itraconazole Capsules treatment. |
 | Digoxin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
-| BedaquilineBased on 400 mg Bedaquiline once daily for 2 weeks. |  | Concomitant Itraconazole Capsules not recommended for more than 2 weeks at any time during bedaquiline treatment. |
+| BedaquilineBased on 400 mg bedaquiline once daily for 2 weeks. |  | Concomitant Itraconazole Capsules not recommended for more than 2 weeks at any time during bedaquiline treatment. |
 | Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after Itraconazole Capsules treatment.See also Table 2. |
 | Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 2. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
@@ -158,17 +158,19 @@ Table 1 Drug Interactions with Itraconazole Capsules that Affect Concomitant Dru
 | Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary |
 | Antineoplastics |  |  |
 | Irinotecan |  | Contraindicated during and 2 weeks after Itraconazole Capsules treatment. |
-| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib | Docetaxel Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab-emtansine Vinca alkaloids | Not recommended during and 2 weeks after Itraconazole Capsules treatment. |
-| Bortezomib Brentuximab-vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
+| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib | Docetaxel Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab- emtansine Vinca alkaloids | Not recommended during and 2 weeks after Itraconazole Capsules treatment. |
+| Bortezomib Brentuximab- vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
-| Alprazolam Aripiprazole Buspirone Diazepam Haloperidol | Midazolam (IV) Quetiapine Ramelteon Risperidone Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Alprazolam Aripiprazole Buspirone Cariprazine Diazepam Haloperidol | Midazolam (IV) Quetiapine Ramelteon Risperidone Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Zopiclone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lurasidone Midazolam (oral) Pimozide Triazolam |  | Contraindicated during and 2 weeks after Itraconazole Capsules treatment. |
 | Antivirals |  |  |
 | Simeprevir |  | Not recommended during and 2 weeks after Itraconazole Capsules treatment. |
 | Daclatasvir Indinavir Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir, see also Table 2. |
-| Cobicistat Elvitegravir (ritonavir-boosted) Ritonavir Saquinavir (unboosted) |  | Monitor for adverse reactions. See also Table 2. |
-| Tenofovir disoproxil fumarate |  | Monitor for adverse reactions. |
+| Cobicistat Elvitegravir (ritonavir-boosted) Ombitasvir/Paritaprevir/Ritonavir with or without Dasabuvir Ritonavir Saquinavir (unboosted) |  | Monitor for adverse reactions. See also Table 2. |
+| Elbasvir/grazoprevir |  | Not recommended during and 2 weeks after Itraconazole Capsules treatment. |
+| Glecaprevir/pibrentasvir |  |  |
+| Tenofovir disoproxil fumarate |  | Monitor for adverse reactions. Monitor for adverse reactions. |
 | Beta Blockers |  |  |
 | Nadolol |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Calcium Channel Blockers |  |  |
@@ -178,7 +180,7 @@ Table 1 Drug Interactions with Itraconazole Capsules that Affect Concomitant Dru
 | Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after Itraconazole Capsules treatment. |
 | Aliskiren Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after Itraconazole Capsules treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
 | Bosentan Guanfacine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
-| Contraceptives |  |  |
+| ContraceptivesCYP3A4 inhibitors (including itraconazole) may increase systemic contraceptive hormone concentrations. |  |  |
 | Dienogest Ulipristal |  | Monitor for adverse reactions. |
 | Diuretics |  |  |
 | Eplerenone |  | Contraindicated during and 2 weeks after Itraconazole Capsules treatment. |
@@ -204,9 +206,9 @@ Table 1 Drug Interactions with Itraconazole Capsules that Affect Concomitant Dru
 | Dutasteride Oxybutynin Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugs above. |
 | Miscellaneous Drugs and Other Substances |  |  |
 | Colchicine |  | Patients with renal or hepatic impairment: Contraindicated during and 2 weeks after Itraconazole Capsules treatment. Other patients: Not recommended during and 2 weeks after Itraconazole Capsules treatment. |
-| Eliglustat |  | CYP2D6 EMsEMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizers taking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMs, or CYP2D6 PMs: Contraindicated during and 2 weeks after Itraconazole Capsules treatment. CYP2D6 EMs not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
+| Eliglustat |  | CYP2D6 EMsEMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizerstaking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMs, or CYP2D6 PMs: Contraindicated during and 2 weeks after Itraconazole Capsules treatment. CYP2D6 EMs not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
 | Lumacaftor/Ivacaftor |  | Not recommended 2 weeks before, during, and 2 weeks after Itraconazole Capsules treatment. |
-| Alitretinoin (oral) Cabergoline Cannabinoids Cinacalcet Ivacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Alitretinoin (oral) Cabergoline Cannabinoids Cinacalcet Galantamine Ivacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Vasopressin Receptor Antagonists |  |  |
 | Conivaptan Tolvaptan |  | Not recommended during and 2 weeks after Itraconazole Capsules treatment. |
 | Drug Interactions with Itraconazole Capsules that Decrease Concomitant Drug Concentrations and May Reduce Efficacy of the Concomitant Drug |  |  |
@@ -241,7 +243,7 @@ Drug Interactions with Other Drugs that Affect Itraconazole Capsules Concentrati
 | Antineoplastics |  |
 | Idelalisib | Monitor for adverse reactions. Itraconazole Capsules dose reduction may be necessary. See also Table 1. |
 | Antivirals |  |
-| Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavir Ritonavir Saquinavir | Monitor for adverse reactions. Itraconazole Capsules dose reduction may be necessary. For, cobicistat, elvitegravir, indinavir, ritonavir, and saquinavir, see also Table 1. |
+| Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavir Ombitasvir/ Paritaprevir/ Ritonavir with or without Dasabuvir Ritonavir Saquinavir | Monitor for adverse reactions. Itraconazole Capsules dose reduction may be necessary. For, cobicistat, elvitegravir, indinavir, ombitasvir/ paritaprevir/ ritonavir with or without dasabuvir, ritonavir, and saquinavir, see also Table 1. |
 | Calcium Channel Blockers |  |
 | Diltiazem | Monitor for adverse reactions. Itraconazole Capsules dose reduction may be necessary. See also Table 1. |
 | Drug Interactions with Other Drugs that Decrease Itraconazole Capsules Concentrations and May Reduce Efficacy of Itraconazole Capsules |  |
@@ -288,7 +290,7 @@ Itraconazole should be used for the treatment of systemic fungal infections in p
 
 Itraconazole should not be administered for the treatment of onychomycosis to pregnant patients or to women contemplating pregnancy.
 Itraconazole should not be administered to women of childbearing potential for the treatment of onychomycosis unless they are using effective measures to prevent pregnancy and they begin therapy on the second or third day following the onset of menses.
-Effective contraception should be continued throughout itraconazole therapy and for 2 months following the end of treatment.
+Highly effective contraception should be continued throughout itraconazole therapy and for 2 months following the end of treatment.
 
 During post-marketing experience, cases of congenital abnormalities have been reported.
 (See ADVERSE REACTIONS: Post-marketing Experience.)

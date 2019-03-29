@@ -6,7 +6,7 @@
 
 Peak plasma concentrations of itraconazole are reached within 2 to 5 hours following oral administration.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 μg/mL, 1.1 µg/mL and 2.0 µg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
+Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 μg/mL, 1.1 μg/mL and 2.0 μg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
 Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
@@ -90,13 +90,15 @@ If signs or symptoms of congestive heart failure appear during administration of
 
 In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
-### Activity In Vitro and in Clinical Infections
+### Antimicrobial Activity
 
 Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE: Description of Clinical Studies).
 
-Correlation between minimum inhibitory concentration (MIC) results in vitro and clinical outcome has yet to be established for azole antifungal agents.
+### Susceptibility Testing Methods
 
-### Drug Resistance
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+
+### Resistance
 
 Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
 
