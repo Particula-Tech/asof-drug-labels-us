@@ -30,4 +30,4 @@ No Latex No Preservatives
 Sterile Single Use Vial For I.V.
 Infusion Only
 
-PREMIERProRx®
+PREMIER ProRx®
