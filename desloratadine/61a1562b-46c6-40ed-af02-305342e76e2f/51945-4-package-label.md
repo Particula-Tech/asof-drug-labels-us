@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
 
 NDC 0085-1322-01 100 Tablets
 
