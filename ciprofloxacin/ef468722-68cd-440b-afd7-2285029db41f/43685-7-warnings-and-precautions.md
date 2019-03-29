@@ -11,7 +11,7 @@ In addition, avoid the use of fluoroquinolones, including ciprofloxacin, in pati
 
 ## 5.2 Tendinitis and Tendon Rupture
 
-Fluoroquinolones, including ciprofloxacin, are associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
+Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
 This adverse reaction most frequently involves the Achilles tendon, and has also been reported with the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendons.
 Tendinitis or tendon rupture can occur, within hours or days of starting ciprofloxacin tablets, or as long as several months after completion of fluoroquinolone therapy.
 Tendinitis and tendon rupture can occur bilaterally.
@@ -25,21 +25,21 @@ Avoid fluoroquinolones, including ciprofloxacin, in patients who have a history 
 
 Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of peripheral neuropathy.
 Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including ciprofloxacin.
-Symptoms may occur soon after initiation of ciprofloxacin tablets and may be irreversible in some patients [see Warnings and Precautions (5.1)and Adverse Reactions (6.1, 6.2)].
+Symptoms may occur soon after initiation of ciprofloxacin tablets and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
 Discontinue ciprofloxacin tablets immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, or other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation, and/or motor strength in order to minimize the development of an irreversible condition.
 Avoid fluoroquinolones, including ciprofloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of central nervous system (CNS) effects, including: convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis.
-Ciprofloxacin may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
+Psychiatric Adverse Reactions Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, psychotic reactions progressing to suicidal ideations/thoughts, hallucinations, or paranoia; depression, or self-injurious behavior such as attempted or completed suicide; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
 These reactions may occur following the first dose.
-Advise patients receiving ciprofloxacin tablets to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
+Advise patients receiving ciprofloxacin to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
+
+Central Nervous System Adverse Reactions Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (pseudotumor cerebri), dizziness, and tremors.
 Ciprofloxacin, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
-As with all fluoroquinolones, use ciprofloxacin with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
-Use ciprofloxacin tablets when the benefits of treatment exceed the risks, since these patients are endangered because of possible undesirable CNS side effects.
 Cases of status epilepticus have been reported.
-If seizures occur, discontinue ciprofloxacin tablets [see Adverse Reactions (6.1)and Drug Interactions (7)].
+As with all fluoroquinolones, use ciprofloxacin with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
+If seizures occur, discontinue ciprofloxacin and institute appropriate care [see Adverse Reactions (6.1) and Drug Interactions (7)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
@@ -99,7 +99,7 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and institute surgical evaluation as clinically indicated[see Adverse Reactions (6.1)].
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and institute surgical evaluation as clinically indicated [see Adverse Reactions (6.1)].
 
 ## 5.11 Prolongation of the QT Interval
 
@@ -130,8 +130,7 @@ Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspect
 ## 5.15 Potential Risks With Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Co-administration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug.
-[see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Co-administration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem), results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.16 Interference with Timely Diagnosis of Syphilis
 
@@ -146,3 +145,10 @@ Crystals of ciprofloxacin have been observed rarely in the urine of human subjec
 Crystalluria related to ciprofloxacin has been reported only rarely in humans because human urine is usually acidic.
 Avoid alkalinity of the urine in patients receiving ciprofloxacin.
 Hydrate patients well to prevent the formation of highly concentrated urine [see Dosage and Administration (2.4)].
+
+## 5.18 Blood Glucose Disturbances
+
+Fluoroquinolones, including ciprofloxacin, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin.
+In these patients, careful monitoring of blood glucose is recommended.
+Severe cases of hypoglycemia resulting in coma or death have been reported.
+If a hypoglycemic reaction occurs in a patient being treated with ciprofloxacin, discontinue ciprofloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7)].

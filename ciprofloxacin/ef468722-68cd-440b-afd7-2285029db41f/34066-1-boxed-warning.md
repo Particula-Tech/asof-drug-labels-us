@@ -6,4 +6,4 @@
   Fluoroquinolones, including ciprofloxacin, may exacerbate muscle weakness in patients with myasthenia gravis.
   Avoid ciprofloxacin in patients with known history of myasthenia gravis [see Warnings and Precautions (5.5)].
 
-- Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions(5.1-5.15)], reserve ciprofloxacin tablets for use in patients who have no alternative treatment options for the following indications: o Acute exacerbation of chronic bronchitis [see Indications and Usage (1.10)]. o Acute uncomplicated cystitis [see Indications and Usage (1.11)]. o Acute sinusitis [see Indications and Usage (1.12)].
+- Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)],reserve ciprofloxacin tablets for use in patients who have no alternative treatment options for the following indications: o Acute exacerbation of chronic bronchitis [see Indications and Usage (1.10)]. o Acute uncomplicated cystitis [see Indications and Usage (1.11)]. o Acute sinusitis [see Indications and Usage (1.12)].

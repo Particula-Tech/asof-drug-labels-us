@@ -11,7 +11,7 @@
    Eur J Obstet Gynecol Reprod Biol.
    1996; 69:83-89.
 5. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard–TenthEdition.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard–Tenth Edition.
    CLSI Document M7-A10 [2015].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.
@@ -21,7 +21,7 @@
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.
 7. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline–ThirdEdition.
+   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline–Third Edition.
    CLSI Document M45-A3 [2016].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.

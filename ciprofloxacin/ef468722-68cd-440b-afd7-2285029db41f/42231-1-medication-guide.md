@@ -2,74 +2,83 @@
 
 Medication Guide Ciprofloxacin (sip"row flox"a sin) Tablets USP for oral use
 
-Read this Medication Guide before you start taking ciprofloxacin and each time you get a refill.
+Read this Medication Guide before you start taking ciprofloxacin tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 What is the most important information I should know about ciprofloxacin tablets?
 
 Ciprofloxacin tablets, a fluoroquinolone antibacterial medicine, can cause serious side effects.
-Some of these serious side effects can happen at the same time could result in death.
+Some of these serious side effects can happen at the same time and could result in death.
 
 If you get any of the following serious side effects while you take ciprofloxacin tablets, you should stop taking ciprofloxacin tablets immediately and get medical help right away.
 
-1. Tendon rupture or swelling of the tendon (tendinitis).
-   - Tendon problems can happen in people of all ages who take ciprofloxacin tablets.
-     Tendons are tough cords of tissue that connect muscles to bones.
-     Symptoms of tendon problems may include:
-     - Pain, swelling, tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
-   - The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you:
-     - are over 60 years of age
-     - are taking steroids (corticosteroids)
-     - have had a kidney, heart or lung transplant
-   - Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin tablets.
-   - Other reasons that can increase your risk of tendon problems can include:
-     - physical activity or exercise
-     - kidney failure
-     - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
-   - Stop taking ciprofloxacin tablets immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
-     The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
-     This can also happen with other tendons.
-   - Tendon rupture can happen while you are taking or after you have finished taking ciprofloxacin tablets.
-     Tendon ruptures can happen within hours or days of taking ciprofloxacin tablets and have happened up to several months after people have finished taking their fluoroquinolone.
-   - Stop taking ciprofloxacin tablets immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-     - hear or feel a snap or pop in a tendon area
-     - bruising right after an injury in a tendon area
-     - unable to move the affected area or bear weight
-2. Changes in sensation and possible nerve damage (Peripheral Neuropathy).
-   Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including ciprofloxacin tablets.
-   Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
-   - pain
-   - burning
-   - tingling
-   - numbness
-   - weakness Ciprofloxacin tablets may need to be stopped to prevent permanent nerve damage.
-3. Central Nervous System (CNS) effects.
-   Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including ciprofloxacin tablets.
-   Tell your healthcare provider if you have a history of seizures before you start taking ciprofloxacin tablets.
-   CNS side effects may happen as soon as after taking the first dose of ciprofloxacin.
-   Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
-   - seizures
-   - hear voices, see things, or sense things that are not there (hallucinations)
-   - feel restless
-   - tremors
-   - feel anxious or nervous
-   - confusion
-   - depression
-   - trouble sleeping
-   - nightmares
-   - feel lightheaded or dizzy
-   - feel more suspicious (paranoia)
-   - suicidal thoughts or acts
-   - headaches that will not go away, with or without blurred vision
-4. Worsening of myasthenia gravis (a problem that causes muscle weakness).
-   Fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-   Tell your healthcare provider if you have a history of myasthenia gravis before you start taking ciprofloxacin tablets.
-   Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+1.
+Tendon rupture or swelling of the tendon (tendinitis).
+
+- Tendon problems can happen in people of all ages who take ciprofloxacin tablets.
+  Tendons are tough cords of tissue that connect muscles to bones.
+  Symptoms of tendon problems may include:
+  - Pain, swelling, tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+- The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you:
+  - are over 60 years of age
+  - are taking steroids (corticosteroids)
+  - have had a kidney, heart or lung transplant
+- Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin tablets.
+- Other reasons that can increase your risk of tendon problems can include:
+  - physical activity or exercise
+  - kidney failure
+  - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+- Stop taking ciprofloxacin tablets immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
+  The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
+  This can also happen with other tendons.
+- Tendon rupture can happen while you are taking or after you have finished taking ciprofloxacin tablets.
+  Tendon ruptures can happen within hours or days of taking ciprofloxacin tablets and have happened up to several months after people have finished taking their fluoroquinolone.
+- Stop taking ciprofloxacin tablets immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
+  - hear or feel a snap or pop in a tendon area
+  - bruising right after an injury in a tendon area
+  - unable to move the affected area or bear weight
+
+2.
+Changes in sensation and possible nerve damage (Peripheral Neuropathy).
+Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including ciprofloxacin tablets.
+Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+
+- pain burning
+- tingling
+- numbness
+- weakness
+
+Ciprofloxacin tablets may need to be stopped to prevent permanent nerve damage.
+
+3.Central Nervous System (CNS) effects.
+Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including ciprofloxacin tablets.
+Tell your healthcare provider if you have a history of seizures before you start taking ciprofloxacin tablets.
+CNS side effects may happen as soon as after taking the first dose of ciprofloxacin.
+Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
+
+- seizures
+- hear voices, see things, or sense things that are not there (hallucinations)
+- feel restless
+- tremors
+- feel anxious or nervous
+- confusion
+- depression
+- trouble sleeping
+- nightmares
+- feel lightheaded or dizzy
+- feel more suspicious (paranoia)
+- suicidal thoughts or acts
+- headaches that will not go away, with or without blurred vision
+
+4.Worsening of myasthenia gravis (a problem that causes muscle weakness).
+Fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+Tell your healthcare provider if you have a history of myasthenia gravis before you start taking ciprofloxacin tablets.
+Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
 What are ciprofloxacin tablets?
 
-Ciprofloxacin tablets are fluoroquinolone antibacterial medicine used in adults age 18 years and older to treat certain infections caused by certain germs called bacteria.
+Ciprofloxacin tablets are a fluoroquinolone antibacterial medicine used in adults age 18 years and older to treat certain infections caused by certain germs called bacteria.
 These bacterial infection include:
 
 - urinary tract infection
@@ -87,9 +96,9 @@ These bacterial infection include:
 - inhalational anthrax
 - plague
 
-- Studies of ciprofloxacin tables for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
+- Studies of ciprofloxacin tablets for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 - Ciprofloxacin should not be used in patients with acute exacerbation of chronic bronchitis, acute uncomplicated cystitis, and sinus infections, if there are other treatment options available.
-- Ciprofloxacin tablets should not be used as the first choice of antibacterial medicine to treat lower respiratory tract infections cause by a certain type of bacterial called Streptococcus pneumoniae.
+- Ciprofloxacin should not be used as the first choice of antibacterial medicine to treat lower respiratory tract infections cause by a certain type of bacterial called Streptococcus pneumoniae.
 - Ciprofloxacin is also used in children younger than 18 years of age to treat complicated urinary tract and kidney infections or who may have breathed in anthrax germs, have plague or have been exposed to plague germs.
 - Children younger than 18 years of age have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking ciprofloxacin.
   Ciprofloxacin should not be used as the first choice of antibacterial medicine in children under 18 years of age.
@@ -193,7 +202,7 @@ What should I avoid while taking ciprofloxacin tablets?
   Do not drive, operate machinery, or do other activities that require mental alertness or coordination until you know how ciprofloxacin tablets affects you.
 - Avoid sunlamps, tanning beds, and try to limit your time in the sun.
   Ciprofloxacin tablets can make your skin sensitive to the sun (photosensitivity) and the light from sunlamps and tanning beds.
-  You could get severe sunburn, blisters or swelling of your skin.
+  You could get a severe sunburn, blisters or swelling of your skin.
   If you get any of these symptoms while you take ciprofloxacin tablets, call your healthcare provider right away.
   You should use a sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight.
 
@@ -234,11 +243,12 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin.
 
 Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
-Intestine infection (Pseudomembranous colitis).
-Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
-Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-You may have stomach cramps and a fever.
-Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
+
+- Intestine infection (Pseudomembranous colitis).
+  Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
+  Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
+  You may have stomach cramps and a fever.
+  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
 
 - Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
@@ -257,7 +267,14 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
 - Sensitivity to sunlight (photosensitivity).
   See "What should I avoid while taking ciprofloxacin tablets?"
 
-The most common side effects of ciprofloxacin tablets include:
+Changes in blood sugar
+
+- People who take ciprofloxacin and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking ciprofloxacin tablets, stop taking ciprofloxacin tablets and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
+
+The most common side effects of ciprofloxacin include:
 
 - nausea
 - diarrhea
@@ -271,7 +288,7 @@ These are not all the possible side effects of ciprofloxacin tablets.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Rising Pharmaceuticals,Inc.at 1-866-562-4597.
+You may report side effects to FDA at 1-800-FDA-1088 or Rising Pharmaceuticals, Inc. at 1-866-562-4597.
 
 How should I store ciprofloxacin tablets?
 
@@ -299,8 +316,5 @@ What are the ingredients in ciprofloxacin tablets?
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owner.
-Manufactured for: Rising Pharmaceuticals, Inc. Allendale, NJ 07401 Rx only
-
-Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd) Mumbai 400 030, India
-
-Revised: September 2017
+Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India Rx only Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 125661 Revised: Jan.
+2019

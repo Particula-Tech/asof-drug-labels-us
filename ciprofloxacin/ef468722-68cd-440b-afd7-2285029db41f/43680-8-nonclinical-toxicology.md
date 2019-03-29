@@ -53,4 +53,4 @@ In rhesus monkeys, rapid intravenous injection also produces hypotension but the
 
 In mice, concomitant administration of nonsteroidal anti-inflammatory drugs such as phenylbutazone and indomethacin with quinolones has been reported to enhance the CNS stimulatory effect of quinolones.
 
-Ocular toxicity seen with some related drugs has not been observed in ciprofloxacin-treated animals
+Ocular toxicity seen with some related drugs has not been observed in ciprofloxacin-treated animals.

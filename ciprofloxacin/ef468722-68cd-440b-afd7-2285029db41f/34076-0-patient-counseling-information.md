@@ -13,7 +13,7 @@ Inform patients of the following serious adverse reactions that have been associ
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 
 - Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with ciprofloxacin use, symptoms may occur soon after initiation of therapy and may be irreversible.
-  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue ciprofloxacin tablets and contact their physician.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue ciprofloxacin tablets and tell them to contact their physician.
 
 - Central nervous system effects (for example, convulsions, dizziness, lightheadedness, increased intracranial pressure): Inform patients that convulsions have been reported in patients receiving fluoroquinolones, including ciprofloxacin.
   Instruct patients to notify their physician before taking this drug if they have a history of convulsions.
@@ -53,6 +53,8 @@ Inform patients of the following serious adverse reactions that have been associ
   If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 
+- Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue ciprofloxacin tablets and consult a physician.
+
 Antibacterial Resistance Inform patients that antibacterial drugs including ciprofloxacin tablets should only be used to treat bacterial infections.
 They do not treat viral infections (for example, the common cold).
 When ciprofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -66,6 +68,8 @@ Drug Interactions Oral Antidiabetic Agents Inform patients that hypoglycemia has
 
 Anthrax and Plague Studies Inform patients given ciprofloxacin for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-Manufactured for: Rising Pharmaceuticals, Inc. Allendale, NJ 07401 Rx only Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) Mumbai 400 030, India.
+Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
+Rx only Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 125661
 
-Revised: September 2017
+Revised: Feb.
+2019

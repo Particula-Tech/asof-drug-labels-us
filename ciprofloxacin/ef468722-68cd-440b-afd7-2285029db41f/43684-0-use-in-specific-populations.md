@@ -8,7 +8,7 @@ There are no adequate and well-controlled studies in pregnant women.
 Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother.
 An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS–the Teratogen Information System–concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data = fair), but the data are insufficient to state that there is no risk.2
 
-A controlled prospective observational study followed 200 women exposed to fluoroquinolones (52.5% exposed to ciprofloxacin and 68% first trimester exposures) during gestation.3In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations.
+A controlled prospective observational study followed 200 women exposed to fluoroquinolones (52.5% exposed to ciprofloxacin and 68% first trimester exposures) during gestation.3 In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations.
 The reported rates of major congenital malformations were 2.2% for the fluoroquinolone group and 2.6% for the control group (background incidence of major malformations is 1-5%).
 Rates of spontaneous abortions, prematurity and low birth weight did not differ between the groups and there were no clinically significant musculoskeletal dysfunctions up to one year of age in the ciprofloxacin exposed children.
 
