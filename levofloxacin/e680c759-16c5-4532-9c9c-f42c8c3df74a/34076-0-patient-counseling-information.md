@@ -24,8 +24,7 @@ Inform patients of the following serious adverse reactions that have been associ
 - Hypersensitivity Reactions: Inform patients that levofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
 - Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking levofloxacin.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
-- Aortic aneurysm and dissection: Inform patients who have or are at risk for an aortic aneurysm that fluoroquinolones, including Levofloxacin, have been associated with a 2-fold increased risk of hospitalization for aortic aneurysm and dissection.
-  Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
+- Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, instruct patients to contact their physician as soon as possible.
@@ -68,6 +67,6 @@ Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTU
 
 Distributed by: WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Revised: December 2018
+Revised: March 2019
 
-PIN287-WES/10
+PIN287-WES/11

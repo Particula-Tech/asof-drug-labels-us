@@ -227,8 +227,7 @@ Skin rash may be a sign of a more serious reaction to levofloxacin.
 Stop taking levofloxacin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to levofloxacin (a liver problem).
 
-- Aortic Aneurysm and Dissection: People who take fluoroquinolones medicines, including Levofloxacin, have an increased risk of swelling of the large artery that carries the blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
-  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+- Aortic Aneurysm and Dissection: Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
   Get emergency medical help right away if you have sudden chest, stomach or back pain.
 
 - Intestine infection (Pseudomembranous colitis): Pseudomembranous colitis can happen with many antibiotics, including levofloxacin.
@@ -304,6 +303,6 @@ Estrada do Rio da Mó, nº 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, P
 
 Distributed by: WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Revised: December 2018
+Revised: March 2019
 
-PIN288-WES/5
+PIN288-WES/6

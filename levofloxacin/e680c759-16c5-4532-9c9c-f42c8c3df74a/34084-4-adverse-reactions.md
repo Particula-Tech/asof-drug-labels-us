@@ -11,8 +11,8 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Exacerbation of Myasthenia Gravis [see WARNINGS AND PRECAUTIONS (5.5)]
 - Other Serious and Sometimes Fatal Reactions [see WARNINGS AND PRECAUTIONS (5.6)]
 - Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS (5.7)]
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.8)]
-- Risk of Aortic Aneurysm and Dissection [see WARNINGS AND PRECAUTIONS (5.9)]
+- Risk of Aortic Aneurysm and Dissection [see WARNINGS AND PRECAUTIONS (5.8)]
+- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.9)]
 - Clostridium difficile-Associated Diarrhea [see WARNINGS AND PRECAUTIONS (5.10)]
 - Prolongation of the QT Interval [see WARNINGS AND PRECAUTIONS (5.11)]
 - Musculoskeletal Disorders in Pediatric Patients [see WARNINGS AND PRECAUTIONS (5.12)]
@@ -97,7 +97,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see WARNINGS AND PRECAUTIONS (5.11)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see WARNINGS AND PRECAUTIONS (5.6)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see WARNINGS AND PRECAUTIONS (5.6, 5.8)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see WARNINGS AND PRECAUTIONS (5.6, 5.9)] |
 | Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions erythema multiforme [see WARNINGS AND PRECAUTIONS (5.6)] photosensitivity/phototoxicity reaction [see WARNINGS AND PRECAUTIONS (5.14)] leukocytoclastic vasculitis |
 | Musculoskeletal andConnective Tissue Disorders | tendon rupture [see WARNINGS AND PRECAUTIONS (5.2)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see WARNINGS AND PRECAUTIONS (5.6)] |
