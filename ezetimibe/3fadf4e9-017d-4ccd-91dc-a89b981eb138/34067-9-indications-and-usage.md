@@ -17,7 +17,7 @@ Combination Therapy with Fenofibrate
 
 Ezetimibe tablets, administered in combination with fenofibrate, are indicated as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, Apo B, and non-HDL-C in adult patients with mixed hyperlipidemia.
 
-## ​1.2 Homozygous Familial Hypercholesterolemia (HoFH)
+## 1.2 Homozygous Familial Hypercholesterolemia (HoFH)
 
 The combination of ezetimibe tablets and atorvastatin or simvastatin is indicated for the reduction of elevated total-C and LDL-C levels in patients with HoFH, as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable.
 

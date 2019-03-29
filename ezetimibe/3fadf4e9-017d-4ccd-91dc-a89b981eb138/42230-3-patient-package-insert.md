@@ -114,9 +114,9 @@ Croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, and so
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Oral Solid Dosage Unit Ahmedabad, 382213 INDIA
+Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2017-00
+08-2017-01

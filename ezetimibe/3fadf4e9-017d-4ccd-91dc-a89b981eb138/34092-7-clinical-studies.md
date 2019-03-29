@@ -10,21 +10,17 @@ Monotherapy
 In two multicenter, double-blind, placebo-controlled, 12-week studies in 1719 patients with primary hyperlipidemia, ezetimibe significantly lowered total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to placebo (see Table 6).
 Reduction in LDL-C was consistent across age, sex, and baseline LDL-C.
 
-| TABLE 6: Response to Ezetimibe in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+TABLE 6: Response to Ezetimibe in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†)
+
 |  | Treatment Group | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | HDL-C |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 1‡ | Placebo | 205 | +1 | +1 | -1 | +1 | -1 | -1 |
 | Ezetimibe | 622 | -12 | -18 | -15 | -16 | -7 | +1 |  |
 | Study 2‡ | Placebo | 226 | +1 | +1 | -1 | +2 | +2 | -2 |
 | Ezetimibe | 666 | -12 | -18 | -16 | -16 | -9 | +1 |  |
 | Pooled Data‡ (Studies 1 & 2) | Placebo | 431 | 0 | +1 | -2 | +1 | 0 | -2 |
 | Ezetimibe | 1288 | -13 | -18 | -16 | -16 | -8 | +1 |  |
-
-* For triglycerides, median % change from baseline
-
-† Baseline - on no lipid-lowering drug
-
-‡ Ezetimibe significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to placebo.
+| * For triglycerides, median % change from baseline† Baseline - on no lipid-lowering drug‡ Ezetimibe significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to placebo. |  |  |  |  |  |  |  |  |
 
 Combination with Statins
 
@@ -35,25 +31,25 @@ In a multicenter, double-blind, placebo-controlled, 8-week study, 769 patients w
 Ezetimibe, added to on-going statin therapy, significantly lowered total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared with a statin administered alone (see Table 7).
 LDL-C reductions induced by Ezetimibe were generally consistent across all statins.
 
-| TABLE 7: Response to Addition of Ezetimibe to On-Going Statin Therapy* in Patients with Hyperlipidemia (Mean† % Change from Treated Baseline‡) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+TABLE 7: Response to Addition of Ezetimibe to On-Going Statin Therapy* in Patients with Hyperlipidemia (Mean† % Change from Treated Baseline‡)
+
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG† | HDL-C |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | On-going Statin + Placebo§ | 390 | -2 | -4 | -3 | -3 | -3 | +1 |
 | On-going Statin + Ezetimibe§ | 379 | -17 | -25 | -19 | -23 | -14 | +3 |
-
-* Patients receiving each statin: 40% atorvastatin, 31% simvastatin, 29% others (pravastatin, fluvastatin, cerivastatin, lovastatin) † For triglycerides, median % change from baseline ‡ Baseline - on a statin alone. § Ezetimibe + statin significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to statin alone.
+| * Patients receiving each statin: 40% atorvastatin, 31% simvastatin, 29% others (pravastatin, fluvastatin, cerivastatin, lovastatin) † For triglycerides, median % change from baseline ‡ Baseline - on a statin alone. § Ezetimibe + statin significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to statin alone. |  |  |  |  |  |  |  |
 
 Ezetimibe Initiated Concurrently with a Statin
 
 In four multicenter, double-blind, placebo-controlled, 12-week trials, in 2382 hyperlipidemic patients, ezetimibe or placebo was administered alone or with various doses of atorvastatin, simvastatin, pravastatin, or lovastatin.
 
 When all patients receiving ezetimibe with a statin were compared to all those receiving the corresponding statin alone, ezetimibe significantly lowered total-C, LDL-C, Apo B, non-HDL-C, and TG, and, with the exception of pravastatin, increased HDL-C compared to the statin administered alone.
-LDL-C reductions induced by ezetimibe were generally consistent across all statins.
-(See footnote ‡, Tables 8 to 11.)
+LDL-C reductions induced by ezetimibe were generally consistent across all statins (See footnote ‡, Tables 8 to 11).
 
-| TABLE 8: Response to Ezetimibe and Atorvastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+TABLE 8: Response to Ezetimibe and Atorvastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†)
+
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | HDL-C |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 60 | +4 | +4 | +3 | +4 | -6 | +4 |
 | Ezetimibe | 65 | -14 | -20 | -15 | -18 | -5 | +4 |
 | Atorvastatin 10 mg | 60 | -26 | -37 | -28 | -34 | -21 | +6 |
@@ -66,12 +62,12 @@ LDL-C reductions induced by ezetimibe were generally consistent across all stati
 | Ezetimibe + Atorvastatin 80 mg | 63 | -46 | -61 | -50 | -58 | -40 | +7 |
 | Pooled data (All Atorvastatin Dose)‡ | 248 | -32 | -44 | -36 | -41 | -24 | +4 |
 | Pooled data (All Ezetimibe + Atorvastatin Doses)‡ | 255 | -41 | -56 | -45 | -52 | -33 | +7 |
+| * For triglycerides, median % change from baseline † Baseline - on no lipid-lowering drug ‡ Ezetimibe + all doses of atorvastatin pooled (10 to 80 mg) significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to all doses of atorvastatin pooled (10 to 80 mg). |  |  |  |  |  |  |  |
 
-* For triglycerides, median % change from baseline † Baseline - on no lipid-lowering drug ‡ Ezetimibe + all doses of atorvastatin pooled (10 to 80 mg) significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to all doses of atorvastatin pooled (10 to 80 mg).
+TABLE 9: Response to Ezetimibe and Simvastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†)
 
-| TABLE 9: Response to Ezetimibe and Simvastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | HDL-C |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 70 | -1 | -1 | 0 | -1 | +2 | +1 |
 | Ezetimibe | 61 | -13 | -19 | -14 | -17 | -11 | +5 |
 | Simvastatin 10 mg | 70 | -18 | -27 | -21 | -25 | -14 | +8 |
@@ -84,12 +80,12 @@ LDL-C reductions induced by ezetimibe were generally consistent across all stati
 | Ezetimibe + Simvastatin 80 mg | 65 | -41 | -58 | -47 | -53 | -31 | +8 |
 | Pooled data (All Atorvastatin Dose)‡ | 263 | -26 | -36 | -30 | -34 | -20 | +7 |
 | Pooled data (All Ezetimibe + Simvastatin Doses)‡ | 274 | -37 | -51 | -41 | -47 | -29 | +9 |
+| * For triglycerides, median % change from baseline † Baseline - on no lipid-lowering drug ‡ Ezetimibe + all doses of simvastatin pooled (10 to 80 mg) significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to all doses of simvastatin pooled (10 to 80 mg). |  |  |  |  |  |  |  |
 
-* For triglycerides, median % change from baseline † Baseline - on no lipid-lowering drug ‡ Ezetimibe + all doses of simvastatin pooled (10 to 80 mg) significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to all doses of simvastatin pooled (10 to 80 mg).
+TABLE 10: Response to Ezetimibe and Pravastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†)
 
-| TABLE 10: Response to Ezetimibe and Pravastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | HDL-C |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 65 | 0 | -1 | -2 | 0 | -1 | +2 |
 | Ezetimibe | 64 | -13 | -20 | -15 | -17 | -5 | +4 |
 | Pravastatin 10 mg | 66 | -15 | -21 | -16 | -20 | -14 | +6 |
@@ -100,12 +96,12 @@ LDL-C reductions induced by ezetimibe were generally consistent across all stati
 | Ezetimibe + Pravastatin 40 mg | 67 | -30 | -42 | -32 | -39 | -21 | +8 |
 | Pooled data (All Pravastatin Dose)‡ | 205 | -17 | -25 | -20 | -23 | -14 | +7 |
 | Pooled data (All Ezetimibe + Pravastatin Doses)‡ | 204 | -27 | -39 | -30 | -36 | -21 | +8 |
+| * For triglycerides, median % change from baseline † Baseline - on no lipid-lowering drug ‡ Ezetimibe + all doses of pravastatin pooled (10 to 40 mg) significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG compared to all doses of pravastatin pooled (10 to 40 mg). |  |  |  |  |  |  |  |
 
-* For triglycerides, median % change from baseline † Baseline - on no lipid-lowering drug ‡ Ezetimibe + all doses of pravastatin pooled (10 to 40 mg) significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG compared to all doses of pravastatin pooled (10 to 40 mg).
+TABLE 11: Response to Ezetimibe and Lovastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†)
 
-| TABLE 11: Response to Ezetimibe and Lovastatin Initiated Concurrently in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | HDL-C |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 64 | +1 | 0 | +1 | +1 | +6 | 0 |
 | Ezetimibe | 72 | -13 | -19 | -14 | -16 | -5 | +3 |
 | Lovastatin 10 mg | 73 | -15 | -20 | -17 | -19 | -11 | +5 |
@@ -116,8 +112,7 @@ LDL-C reductions induced by ezetimibe were generally consistent across all stati
 | Ezetimibe + Lovastatin 40 mg | 65 | -33 | -46 | -38 | -43 | -27 | +9 |
 | Pooled data (All Lovastatin Dose)‡ | 220 | -18 | -25 | -21 | -23 | -12 | +4 |
 | Pooled data (All Ezetimibe + Lovastatin Doses)‡ | 192 | -29 | -40 | -33 | -38 | -25 | +9 |
-
-* For triglycerides, median % change from baseline † Baseline - on no lipid-lowering drug ‡ Ezetimibe + all doses of lovastatin pooled (10 to 40 mg) significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to all doses of lovastatin pooled (10 to 40 mg).
+| * For triglycerides, median % change from baseline † Baseline - on no lipid-lowering drug ‡ Ezetimibe + all doses of lovastatin pooled (10 to 40 mg) significantly reduced total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to all doses of lovastatin pooled (10 to 40 mg). |  |  |  |  |  |  |  |
 
 Combination with Fenofibrate
 
@@ -128,17 +123,15 @@ After completing the 12-week study, eligible patients were assigned to ezetimibe
 Ezetimibe co-administered with fenofibrate significantly lowered total-C, LDL-C, Apo B, and non-HDL-C compared to fenofibrate administered alone.
 The percent decrease in TG and percent increase in HDL-C for Ezetimibe co-administered with fenofibrate were comparable to those for fenofibrate administered alone (see Table 12).
 
-| TABLE 12: Response to Ezetimibe and Fenofibrate Initiated Concurrently in Patients with Mixed Hyperlipidemia (Mean* % Change from Untreated Baseline†) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+TABLE 12: Response to Ezetimibe and Fenofibrate Initiated Concurrently in Patients with Mixed Hyperlipidemia (Mean* % Change from Untreated Baseline†)
+
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | Non-HDL-C |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 63 | 0 | 0 | -1 | -9 | +3 | 0 |
 | Ezetimibe | 185 | -12 | -13 | -11 | -11 | +4 | -15 |
 | Fenofibrate 160 mg | 188 | -11 | -6 | -15 | -43 | +19 | -16 |
 | Ezetimibe + Fenofibrate 160 mg | 183 | -22 | -20 | -26 | -44 | +19 | -30 |
-
-* For triglycerides, median % change from baseline
-
-† Baseline - on no lipid-lowering drug
+| * For triglycerides, median % change from baseline† Baseline - on no lipid-lowering drug |  |  |  |  |  |  |  |
 
 The changes in lipid endpoints after an additional 48 weeks of treatment with ezetimibe co-administered with fenofibrate or with fenofibrate alone were consistent with the 12-week data displayed above.
 

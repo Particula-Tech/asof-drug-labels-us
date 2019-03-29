@@ -39,9 +39,10 @@ LDL-C were treated with ezetimibe 10 mg/day for a median treatment duration of 1
 
 Adverse reactions reported in ≥2% of patients treated with ezetimibe and at an incidence greater than placebo in placebo-controlled studies of ezetimibe, regardless of causality assessment, are shown in Table 1.
 
-| TABLE 1: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with Ezetimibe and at an Incidence Greater than Placebo, Regardless of Causality |  |  |
-| --- | --- | --- |
+TABLE 1: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with Ezetimibe and at an Incidence Greater than Placebo, Regardless of Causality
+
 | Body System/Organ Class Adverse Reaction | Ezetimibe 10 mg (%) n=2396 | Placebo (%) n=1159 |
+| --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 4.1 | 3.7 |
 | General disorders and administration site conditions |  |  |
@@ -64,9 +65,10 @@ The incidence of consecutive increased transaminases (≥3 X ULN) was higher in 
 
 Clinical adverse reactions reported in ≥2% of patients treated with ezetimibe + statin and at an incidence greater than statin, regardless of causality assessment, are shown in Table 2.
 
-| TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with Ezetimibe Co-Administered with a Statin and at an Incidence Greater than Statin, Regardless of Causality |  |  |
-| --- | --- | --- |
+TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with Ezetimibe Co-Administered with a Statin and at an Incidence Greater than Statin, Regardless of Causality
+
 | Body System/Organ Class Adverse Reaction | All Statins* (%) n=9361 | Ezetimibe + All Statins* (%) n=11,308 |
+| --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 2.2 | 2.5 |
 | General disorders and administration site conditions |  |  |
@@ -80,8 +82,7 @@ Clinical adverse reactions reported in ≥2% of patients treated with ezetimibe 
 | Back pain | 2.3 | 2.4 |
 | Myalgia | 2.7 | 3.2 |
 | Pain in extremity | 1.9 | 2.1 |
-
-*All Statins = all doses of all statins
+| *All Statins = all doses of all statins |  |  |
 
 Combination with Fenofibrate
 

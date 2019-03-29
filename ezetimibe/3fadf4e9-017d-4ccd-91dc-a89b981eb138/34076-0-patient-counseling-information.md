@@ -26,9 +26,9 @@ Women who are breast-feeding should be advised to not use ezetimibe added to sta
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professionals.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Oral Solid Dosage Unit Ahmedabad, 382213 INDIA
+Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2017-00
+08-2017-01

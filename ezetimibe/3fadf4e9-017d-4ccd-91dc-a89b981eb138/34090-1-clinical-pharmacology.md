@@ -89,9 +89,10 @@ Drug Interactions [see also Drug Interactions (7)]
 Ezetimibe had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a “cocktail” study of twelve healthy adult males.
 This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes, and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
 
-| TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe |  |  |
-| --- | --- | --- |
+TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe
+
 | Co-Administered Drug and Dosing Regimen | Total Ezetimibe* |  |
+| --- | --- | --- |
 | Change in AUC | Change in Cmax |  |
 | Cyclosporine-stable dose required (75-150 mg BID)†, ‡ | ↑240% | ↑290% |
 | Fenofibrate, 200 mg QD, 14 days‡ | ↑48% | ↑64% |
@@ -106,19 +107,12 @@ This indicates that ezetimibe is neither an inhibitor nor an inducer of these cy
 | Atorvastatin 10 mg QD, 14 days | ↓2% | ↑12% |
 | Rosuvastatin 10 mg QD, 14 days | ↑13% | ↑18% |
 | Fluvastatin 20 mg QD, 14 days | ↓19% | ↑7% |
+| * Based on 10 mg dose of ezetimibe† Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.‡ See Drug Interactions (7).§ Supralox, 20 mL |  |  |
 
-* Based on 10 mg dose of ezetimibe
+TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Drugs
 
-† Post-renal transplant patients with mild impaired or normal renal function.
-In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.
-
-‡ See Drug Interactions (7).
-
-§ Supralox, 20 mL
-
-| TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Drugs |  |  |  |
-| --- | --- | --- | --- |
 | Co-Administered Drug and its Dosage Regimen | Ezetimibe Dosage Regimen | Change in AUC of Co-Administered Drug | Change in Cmax of Co-Administered Drug |
+| --- | --- | --- | --- |
 | Warfarin, 25 mg single dose on day 7 | 10 mg QD, 11 days | ↓2% (R-warfarin)↓4% (S-warfarin) | ↑3% (R-warfarin)↑1% (S-warfarin) |
 | Digoxin, 0.5 mg single dose | 10 mg QD, 8 days | ↑2% | ↓7% |
 | Gemfibrozil, 600 mg BID, 7 days* | 10 mg QD, 7 days | ↓1% | ↓11% |
@@ -132,5 +126,4 @@ In a different study, a renal transplant patient with severe renal insufficiency
 | Atorvastatin 10 mg QD, 14 days | 10 mg QD, 14 days | ↓4% | ↑7% |
 | Rosuvastatin 10 mg QD, 14 days | 10 mg QD, 14 days | ↑19% | ↑17% |
 | Fluvastatin 20 mg QD, 14 days | 10 mg QD, 14 days | ↓39% | ↓27% |
-
-* See Drug Interactions (7).
+| * See Drug Interactions (7). |  |  |  |

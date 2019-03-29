@@ -36,13 +36,13 @@ The patients received co-administered ezetimibe and simvastatin (10 mg, 20 mg, o
 The results of the study at Week 6 are summarized in Table 3.
 Results at Week 33 were consistent with those at Week 6.
 
-| TABLE 3: Mean Percent Difference at Week 6 Between the Pooled Ezetimibe Co-Administered with Simvastatin Group and the Pooled Simvastatin Monotherapy Group in Adolescent Patients with Heterozygous Familial Hypercholesterolemia |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+TABLE 3: Mean Percent Difference at Week 6 Between the Pooled Ezetimibe Co-Administered with Simvastatin Group and the Pooled Simvastatin Monotherapy Group in Adolescent Patients with Heterozygous Familial Hypercholesterolemia
+
 |  | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | HDL-C |
+| --- | --- | --- | --- | --- | --- | --- |
 | Mean percent difference between treatment groups | -12% | -15% | -12% | -14% | -2% | +0.1% |
 | 95% Confidence Interval | (-15%, -9%) | (-18%, -12%) | (-15%, -9%) | (-17%, -11%) | (-9%, +4%) | (-3%, +3%) |
-
-* For triglycerides, median % change from baseline
+| * For triglycerides, median % change from baseline |  |  |  |  |  |  |
 
 From the start of the trial to the end of Week 33, discontinuations due to an adverse reaction occurred in 7 (6%) patients in the ezetimibe co-administered with simvastatin group and in 2 (2%) patients in the simvastatin monotherapy group.
 
