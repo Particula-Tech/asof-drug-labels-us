@@ -10,9 +10,9 @@ Sterile Single Use Vial
 For I.V.
 Infusion Only
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
+Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 Novaplus is a registered trademark of Vizient, Inc.
 
-NOVAPLUS®
+novaplus™
 
 200 mg*
 
@@ -38,4 +38,4 @@ Infusion Only
 
 Rx ONLY
 
-NOVAPLUS®
+novaplus™
