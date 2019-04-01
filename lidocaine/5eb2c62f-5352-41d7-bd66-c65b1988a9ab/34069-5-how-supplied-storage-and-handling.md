@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Lidocaine Ointment USP, 5% is available in a 50 g Jar with a child-resistant cap (NDC 51672-3008-3).
+Lidocaine Ointment USP, 5% is available in a 50 g Jar with a child-resistant cap (NDC 51672-3008-5).
 
 NOTE - JARS ARE FILLED BY WEIGHT NOT VOLUME.
 

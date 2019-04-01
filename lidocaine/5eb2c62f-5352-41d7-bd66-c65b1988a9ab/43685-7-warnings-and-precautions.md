@@ -13,11 +13,11 @@ Cases of methemoglobinemia have been reported in association with local anesthet
 Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
 If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
 
-Signs and symptoms of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and abnormal coloration of the blood.
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
 Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
 Discontinue lidocaine and any other oxidizing agents.
-Depending on the severity of the symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
-More severe symptoms may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
 # PRECAUTIONS
 
@@ -51,21 +51,23 @@ Numbness of the tongue or buccal mucosa may enhance the danger of unintentional 
 Food and chewing gum should not be taken while the mouth or throat area is anesthetized.
 
 Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
-Advise patients or caregivers to stop use and seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
 
 ## Drug Interactions
 
-Patients that are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following oxidizing agents:
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia
 
 | Class | Examples |
 | --- | --- |
-| Nitrates/Nitrites | nitroglycerin, nitroprusside, nitric oxide, nitrous oxide |
-| Local anesthetics | benzocaine, lidocaine, bupivacaine, mepivacaine, tetracaine, prilocaine, procaine, articaine |
-| Antineoplastic agents | cyclophosphamide, flutamide, rasburicase, isofamide, hydroxyurea |
-| Antibiotics | dapsone, sulfonamides, nitrofurantoin, para-aminosalicylic acid |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
 | Antimalarials | chloroquine, primaquine |
-| Anticonvulsants | phenytoin, sodium valproate, phenobarbital |
-| Other drugs | acetaminophen, metoclopramide, sulfa drugs (i.e., sulfasalazine), quinine |
+| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 

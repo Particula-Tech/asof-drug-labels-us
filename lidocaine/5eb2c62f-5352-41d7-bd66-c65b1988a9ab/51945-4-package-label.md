@@ -1,12 +1,16 @@
-# PRINCIPAL DISPLAY PANEL - 50 g Jar Label
+# PRINCIPAL DISPLAY PANEL - 50 g Jar Carton
+
+NDC 51672-3008-5
+
+50 g
+
+Lidocaine Ointment USP, 5% (Spearmint Flavored)
+
+FOR TOPICAL USE ONLY.
+DO NOT USE IN THE EYES
+
+Rx only
 
 TARO
 
-NDC 51672-3008-3 50 g
-
-Lidocaine Ointment USP, 5% (Spearmint flavored)
-
-FOR TOPICAL USE ONLY.
-DO NOT USE IN THE EYES.
-
-Rx only
+Keep this and all medications out of the reach of children.
