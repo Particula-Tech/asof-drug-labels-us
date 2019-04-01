@@ -1,4 +1,4 @@
-# 200 mg Carton
+# Principal Display Panel
 
 NDC 0781-3416-94
 
