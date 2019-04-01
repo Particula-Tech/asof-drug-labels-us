@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA076268"
+  ],
+  "inn": "digoxin",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1991-1",
+    "69238-1991-7",
+    "69238-1992-1",
+    "69238-1992-7"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "digoxin",
+      "name": "Digoxin"
+    }
+  ],
+  "setid": "f3d29508-e7cc-47ff-845d-b5375ee30407",
+  "source": "dailymed"
+}
