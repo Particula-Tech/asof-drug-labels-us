@@ -30,4 +30,4 @@ No Latex No Preservatives
 Sterile Single Use Vial For I.V.
 Infusion Only
 
-INTALERE CHOICESM
+INTALERE CHOICE SM
