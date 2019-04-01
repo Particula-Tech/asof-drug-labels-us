@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207613"
+  ],
+  "inn": "midodrine",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-433-01",
+    "64980-434-01",
+    "64980-435-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "midodrine hydrochloride",
+      "name": "Midodrine Hydrochloride"
+    }
+  ],
+  "setid": "ffd4dfb9-a6d8-4c81-8b8c-8228d9e2f93e",
+  "source": "dailymed"
+}
