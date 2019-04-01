@@ -135,19 +135,19 @@ The exposure to total darunavir and ritonavir after intake of PREZISTA/ritonavir
 
 Table 13: Pharmacokinetic Results of Total Darunavir After Administration of PREZISTA/ritonavir at 600/100 mg Twice Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy and Postpartum
 
-| Pharmacokinetics of total darunavir (mean ± standard deviation) | 2nd Trimester of pregnancy (n=11)n=10 for AUC24h | 3rd Trimester of pregnancy (n=11) | Postpartum (6–12 Weeks) (n=11) |
+| Pharmacokinetics of total darunavir (mean ± standard deviation) | 2nd Trimester of pregnancy (n=12)n=11 for AUC24h | 3rd Trimester of pregnancy (n=12) | Postpartum (6–12 Weeks) (n=12) |
 | --- | --- | --- | --- |
-| Cmax, ng/mL | 4601 ± 1125 | 5111 ± 1517 | 6499 ± 2411 |
-| AUC24h, ng.h/mLAUC24h is calculated as AUC12h*2. | 77900 ± 20020 | 87400 ± 32800 | 110600 ± 54040 |
-| Cmin, ng/mLexcluding Cmin value below LLOQ, n=10 for reference | 1980 ± 839.9 | 2498 ± 1193 | 2711 ± 2268 |
+| Cmax, ng/mL | 4668 ± 1097 | 5328 ± 1631 | 6659 ± 2364 |
+| AUC24h, ng.h/mLAUC24h is calculated as AUC12h*2. | 78740 ± 19194 | 91760 ± 34720 | 113780 ± 52680 |
+| Cmin, ng/mL | 1922 ± 825 | 2661 ± 1269 | 2851 ± 2216 |
 
 Table 14: Pharmacokinetic Results of Total Darunavir After Administration of PREZISTA/ritonavir at 800/100 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy and Postpartum
 
-| Pharmacokinetics of total darunavir (mean ± standard deviation) | 2nd Trimester of pregnancy (n=16) | 3rd Trimester of pregnancy (n=14) | Postpartum (6–12 Weeks) (n=15) |
+| Pharmacokinetics of total darunavir (mean ± standard deviation) | 2nd Trimester of pregnancy (n=17) | 3rd Trimester of pregnancy (n=15) | Postpartum (6–12 Weeks) (n=16) |
 | --- | --- | --- | --- |
-| Cmax, ng/mL | 4988 ± 1551 | 5138 ± 1243 | 7445 ± 1674 |
-| AUC24h, ng.h/mL | 61303 ± 16232 | 60439 ± 14052 | 94529 ± 28572 |
-| Cmin, ng/mLN=12 for postpartum, N=15 for 2nd trimester and N=14 for 3rd trimester | 1193 ± 509 | 1098 ± 609 | 1572 ± 1108 |
+| Cmax, ng/mL | 4964 ± 1505 | 5132 ± 1198 | 7310 ± 1704 |
+| AUC24h, ng.h/mL | 62289 ± 16234 | 61112 ± 13790 | 92116 ± 29241 |
+| Cmin, ng/mL | 1248 ± 542 | 1075 ± 594 | 1473 ± 1141 |
 
 Due to an increase in the unbound fraction of darunavir during pregnancy compared to postpartum, unbound darunavir exposures were less reduced during pregnancy as compared to postpartum.
 Exposure reductions during pregnancy were greater for the once daily regimen as compared to the twice daily regimen (see Figure 1).
