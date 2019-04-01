@@ -1,27 +1,37 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described below and elsewhere in the labeling: • Cardiovascular Conditions [see Warnings and Precautions (5.2)] • Nausea and Vomiting [see Warnings and Precautions (5.3)] • Peptic Ulcer Disease and GI Bleeding [see Warnings and Precautions (5.4)] • Weight Loss [see Warnings and Precautions (5.5)] • Genitourinary Conditions [see Warnings and Precautions (5.6)] • Neurological Conditions: Seizures [see Warnings and Precautions (5.7)] • Pulmonary Conditions [see Warnings and Precautions (5.8)]
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+- Cardiovascular Conditions [see Warnings and Precautions (5.2)]
+- Nausea and Vomiting [see Warnings and Precautions (5.3)]
+- Peptic Ulcer Disease and GI Bleeding [see Warnings and Precautions (5.4)]
+- Weight Loss [see Warnings and Precautions (5.5)]
+- Genitourinary Conditions [see Warnings and Precautions (5.6)]
+- Neurological Conditions: Seizures [see Warnings and Precautions (5.7)]
+- Pulmonary Conditions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 Donepezil hydrochloride has been administered to over 1,700 individuals during clinical trials worldwide.
-Approximately 1200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
+Approximately 1,200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
 Controlled and uncontrolled trials in the United States included approximately 900 patients.
 In regards to the highest dose of 10 mg/day, this population includes 650 patients treated for 3 months, 475 patients treated for 6 months, and 116 patients treated for over 1 year.
 The range of patient exposure is from 1 to 1,214 days.
-Mild to Moderate Alzheimer's Disease
+
+Mild to Moderate Alzheimer’s Disease
 
 Adverse Reactions Leading to Discontinuation
 
-The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse reactions for the donepezil hydrochloride 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
+The rates of discontinuation from controlled clinical trials of donepezil hydrochloride tablets due to adverse reactions for the donepezil hydrochloride 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
 The rate of discontinuation of patients who received 7-day escalations from 5 mg/day to 10 mg/day was higher at 13%.
 
 The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of patients and at twice or more the incidence seen in placebo patients, are shown in Table 1.
 
-| Adverse Reaction | Placebo (n=355) % | 5 mg/day donepezil hydrochloride (n=350) % | 10 mg/day donepezil hydrochloride (n=315) % |
-| --- | --- | --- | --- |
 | Table 1. Most Common Adverse Reactions Leading to Discontinuation in Patients with Mild to Moderate Alzheimer’s Disease |  |  |  |
+| --- | --- | --- | --- |
+| Adverse Reaction | Placebo (n=355) % | 5 mg/day donepezil hydrochloride (n=350) % | 10 mg/day donepezil hydrochloride (n=315) % |
 | Nausea | 1 | 1 | 3 |
 | Diarrhea | 0 | <1 | 3 |
 | Vomiting | <1 | <1 | 2 |
@@ -29,20 +39,20 @@ The most common adverse reactions leading to discontinuation, defined as those o
 Most Common Adverse Reactions
 
 The most common adverse reactions, defined as those occurring at a frequency of at least 5% in patients receiving 10 mg/day and twice the placebo rate, are largely predicted by donepezil hydrochloride’s cholinomimetic effects.
-These include nausea, diarrhea, insomnia, vomiting, muscle cramp, fatigue and anorexia.
+These include nausea, diarrhea, insomnia, vomiting, muscle cramp, fatigue, and anorexia.
 These adverse reactions were often transient, resolving during continued donepezil hydrochloride treatment without the need for dose modification.
 
 There is evidence to suggest that the frequency of these common adverse reactions may be affected by the rate of titration.
-An open-label study was conducted with 269 patients who received placebo in the 15 and 30-week studies.
+An open-label study was conducted with 269 patients who received placebo in the 15- and 30-week studies.
 These patients were titrated to a dose of 10 mg/day over a 6-week period.
 The rates of common adverse reactions were lower than those seen in patients titrated to 10 mg/day over one week in the controlled clinical trials and were comparable to those seen in patients on 5 mg/day.
 
 See Table 2 for a comparison of the most common adverse reactions following one and six week titration regimens.
 
-| Adverse Reaction | Placebo (n=315) % | 5 mg/day (n=311) % | 10 mg/day (n=315) % | 10 mg/day (n=269) % |
-| --- | --- | --- | --- | --- |
 | Table 2. Comparison of Rates of Adverse Reactions in Mild to Moderate Patients Titrated to 10 mg/day over 1 and 6 Weeks |  |  |  |  |
+| --- | --- | --- | --- | --- |
 |  | No titration |  | One week titration | Six week titration |
+| Adverse Reaction | Placebo (n=315) % | 5 mg/day (n=311) % | 10 mg/day (n=315) % | 10 mg/day (n=269) % |
 | Nausea | 6 | 5 | 19 | 6 |
 | Diarrhea | 5 | 8 | 15 | 9 |
 | Insomnia | 6 | 6 | 14 | 6 |
@@ -54,9 +64,9 @@ See Table 2 for a comparison of the most common adverse reactions following one 
 Table 3 lists adverse reactions that occurred in at least 2% of patients in pooled placebo-controlled trials who received either donepezil hydrochloride 5 mg or 10 mg and for which the rate of occurrence was greater for patients treated with donepezil hydrochloride than with placebo.
 In general, adverse reactions occurred more frequently in female patients and with advancing age.
 
-| Adverse Reaction | Placebo (n=355) % | Donepezil hydrochloride (n=747) % |
+| Table 3. Adverse Reactions in Pooled Placebo-Controlled Clinical Trials in Mild to Moderate Alzheimer’s Disease |  |  |
 | --- | --- | --- |
-| Table 3. Adverse Reactions in Pooled Placebo- Controlled Clinical Trials in Mild to Moderate Alzheimer's Disease |  |  |
+| Adverse Reaction | Placebo (n=355) % | Donepezil hydrochloride (n=747) % |
 | Percent of Patients with any Adverse Reaction | 72 | 74 |
 | Nausea | 6 | 11 |
 | Diarrhea | 5 | 10 |
@@ -78,14 +88,14 @@ In general, adverse reactions occurred more frequently in female patients and wi
 | Somnolence | <1 | 2 |
 | Syncope | 1 | 2 |
 
-Severe Alzheimer's Disease (Donepezil hydrochloride 5 mg/day and 10 mg/day)
+Severe Alzheimer’s Disease (Donepezil hydrochloride 5 mg/day and 10 mg/day)
 
 Donepezil hydrochloride has been administered to over 600 patients with severe Alzheimer’s disease during clinical trials of at least 6 months duration, including three double-blind, placebo-controlled trials, two of which had an open label extension.
 
 Adverse Reactions Leading to Discontinuation
 
 The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse reactions for the donepezil hydrochloride patients were approximately 12% compared to 7% for placebo patients.
-The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of donepezil hydrochloride patients and at twice or more the incidence seen in placebo, were anorexia (2% vs. 1% placebo), nausea (2% vs. <1% placebo), diarrhea (2% vs. 0% placebo) and urinary tract infection (2% vs. 1% placebo).
+The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of Donepezil hydrochloride patients and at twice or more the incidence seen in placebo, were anorexia (2% vs. 1% placebo), nausea (2% vs. <1% placebo), diarrhea (2% vs. 0% placebo), and urinary tract infection (2% vs. 1% placebo).
 
 Most Common Adverse Reactions
 
@@ -95,9 +105,9 @@ These adverse reactions were often transient, resolving during continued donepez
 
 Table 4 lists adverse reactions that occurred in at least 2% of patients in pooled placebo-controlled trials who received donepezil hydrochloride 5 mg or 10 mg and for which the rate of occurrence was greater for patients treated with donepezil hydrochloride than with placebo.
 
-| Body System/Adverse Reaction | Placebo (n=392) % | Donepezil hydrochloride (n=501) % |
+| Table 4. Adverse Reactions in Pooled Controlled Clinical Trials in Severe Alzheimer’s Disease |  |  |
 | --- | --- | --- |
-| Table 4. Adverse Reactions in Pooled Controlled Clinical Trials in Severe Alzheimer's Disease |  |  |
+| Body System/Adverse Reaction | Placebo (n=392) % | Donepezil hydrochloride (n=501) % |
 | Percent of Patients with any Adverse Reaction | 73 | 81 |
 | Accident | 12 | 13 |
 | Infection | 9 | 11 |
@@ -130,20 +140,15 @@ Table 4 lists adverse reactions that occurred in at least 2% of patients in pool
 | Syncope | 1 | 2 |
 | Urinary Incontinence | 1 | 2 |
 
-Moderate to Severe Alzheimer’s Disease (Donepezil hydrochloride 23 mg/day)
-
-Donepezil hydrochloride 23 mg/day has been administered to over 1300 individuals globally in clinical trials.
-Approximately 1050 of these patients have been treated for at least three months and more than 950 patients have been treated for at least six months.
+Moderate to Severe Alzheimer’s Disease (Donepezil hydrochloride 23 mg/day) Donepezil hydrochloride 23 mg/day has been administered to over 1,300 individuals globally in clinical trials.
+Approximately 1,050 of these patients have been treated for at least three months and more than 950 patients have been treated for at least six months.
 The range of patient exposure was from 1 to over 500 days.
-
-Adverse Reactions Leading to Discontinuation
-
-The rate of discontinuation from a controlled clinical trial of donepezil hydrochloride 23 mg/day due to adverse reactions was higher (19%) than for the 10 mg/day treatment group (8%).
+Adverse Reactions Leading to Discontinuation The rate of discontinuation from a controlled clinical trial of donepezil hydrochloride 23 mg/day due to adverse reactions was higher (19%) than for the 10 mg/day treatment group (8%).
 The most common adverse reactions leading to discontinuation, defined as those occurring in at least 1% of patients and greater than those occurring with 10 mg/day are shown in Table 5.
 
-| Adverse Reaction | 23 mg/day donepezil hydrochloride (n=963) % | 10 mg/day donepezil hydrochloride (n=471) % |
-| --- | --- | --- |
 | Table 5. Most Common Adverse Reactions Leading to Discontinuation in Patients with Moderate to Severe Alzheimer’s Disease |  |  |
+| --- | --- | --- |
+| Adverse Reaction | 23 mg/day donepezil hydrochloride (n=963) % | 10 mg/day donepezil hydrochloride (n=471) % |
 | Vomiting | 3 | 0 |
 | Diarrhea | 2 | 0 |
 | Nausea | 2 | 0 |
@@ -158,26 +163,27 @@ The most common adverse reactions, defined as those occurring at a frequency of 
 Table 6 lists adverse reactions that occurred in at least 2% of patients who received 23 mg/day of donepezil hydrochloride and at a higher frequency than those receiving 10 mg/day of donepezil hydrochloride in a controlled clinical trial that compared the two doses.
 In this study, there were no important differences in the type of adverse reactions in patients taking donepezil hydrochloride with or without memantine.
 
-| Adverse Reaction | 23 mg/day donepezil hydrochloride (n=963) % | 10 mg/day donepezil hydrochloride (n=471) % |
-| --- | --- | --- |
 | Table 6. Adverse Reactions in a Controlled Clinical Trial in Moderate to Severe Alzheimer’s Disease |  |  |
+| --- | --- | --- |
+| Adverse Reaction | 23 mg/day donepezil hydrochloride (n=963) % | 10 mg/day donepezil hydrochloride (n=471) % |
 | Percent of Patients with any Adverse Reaction | 74 | 64 |
 | Nausea | 12 | 3 |
 | Vomiting | 9 | 3 |
 | Diarrhea | 8 | 5 |
 | Anorexia | 5 | 2 |
 | Dizziness | 5 | 3 |
-| Weight loss | 5 | 3 |
+| Weight Loss | 5 | 3 |
 | Headache | 4 | 3 |
 | Insomnia | 3 | 2 |
 | Urinary incontinence | 3 | 1 |
 | Asthenia | 2 | 1 |
-| Confusion | 2 | 0 |
+| Contusion | 2 | 0 |
 | Fatigue | 2 | 1 |
 | Somnolence | 2 | 1 |
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use donepezil hydrochloride.
+The following adverse reactions have been identified during post-approval use of donepezil hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 Abdominal pain, agitation, aggression, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, rash, rhabdomyolysis, QTc prolongation, and torsade de pointes.

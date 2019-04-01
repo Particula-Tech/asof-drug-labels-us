@@ -1,41 +1,49 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
 
-NDC 50228-139-30 30 Tablets
+NDC 50228-139-30
 
-Donepezil Hydrochloride Tablets, USP 5 mg
+Donepezil Hydrochloride Tablets, USP
 
-PHARMACIST: Dispense the accompanying Patient Information to each patient
+5 mg
 
-Rx only
+PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-SCIEGEN PHARMACEUTICALS INC.
+30 Tablets Rx Only
 
-NDC 50228-139-10 1000 Tablets
+ScieGen pharmaceuticals Inc.
 
-Donepezil Hydrochloride Tablets, USP 5 mg
+NDC 50228-139-10
 
-PHARMACIST: Dispense the accompanying Patient Information to each patient
+Donepezil Hydrochloride Tablets, USP
 
-Rx only
+5 mg
 
-SCIEGEN PHARMACEUTICALS INC.
+PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-NDC 50228-140-30 30 Tablets
+1000 Tablets Rx Only
 
-Donepezil Hydrochloride Tablets, USP 10 mg
+ScieGen pharmaceuticals Inc.
 
-PHARMACIST: Dispense the accompanying Patient Information to each patient
+NDC 50228-140-30
 
-Rx only
+Donepezil Hydrochloride Tablets, USP
 
-SCIEGEN PHARMACEUTICALS INC.
+10 mg
 
-NDC 50228-140-10 1000 Tablets
+PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-Donepezil Hydrochloride Tablets, USP 10 mg
+30 Tablets Rx Only
 
-PHARMACIST: Dispense the accompanying Patient Information to each patient
+ScieGen pharmaceuticals Inc.
 
-Rx only
+NDC 50228-140-10
 
-SCIEGEN PHARMACEUTICALS INC.
+Donepezil Hydrochloride Tablets, USP
+
+10 mg
+
+PHARMACIST: Dispense the accompanying Patient Information to each patient.
+
+1000 Tablets Rx Only
+
+ScieGen pharmaceuticals Inc.

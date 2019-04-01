@@ -6,4 +6,4 @@ Because of their mechanism of action, cholinesterase inhibitors have the potenti
 
 ## 7.2 Use with Cholinomimetics and Other Cholinesterase Inhibitors
 
-A synergistic effect may be expected when cholinesterase inhibitors are given concurrently with succinylcholine, similar neuromuscular blocking agents or cholinergic agonists such as bethanechol.
+A synergistic effect may be expected when cholinesterase inhibitors are given concurrently with succinylcholine, similar neuromuscular blocking agents, or cholinergic agonists such as bethanechol.
