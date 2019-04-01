@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074951"
+  ],
+  "inn": "aspirin",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1993-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "butalbital, aspirin, caffeine and codeine phosphate",
+      "name": "Butalbital, Aspirin, Caffeine and Codeine Phosphate"
+    }
+  ],
+  "setid": "828e30fa-7bb1-486b-80ee-806fce45e4e4",
+  "source": "dailymed"
+}
