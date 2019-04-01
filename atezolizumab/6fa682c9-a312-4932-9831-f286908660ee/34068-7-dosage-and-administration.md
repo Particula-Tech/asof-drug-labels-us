@@ -8,32 +8,41 @@ Select patients with locally advanced or metastatic triple-negative breast cance
 
 Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma or triple-negative breast cancer are available at: http://www.fda.gov/CompanionDiagnostics
 
-## 2.2 Recommended Dosage for TECENTRIQ for Locally Advanced or Metastatic Urothelial Carcinoma or Previously Treated NSCLC
+## 2.2 Recommended Dosage for Urothelial Carcinoma
 
 The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
 If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
-## 2.3 Recommended Dosage for TECENTRIQ for First-line Treatment of Metastatic Non-squamous NSCLC
+## 2.3 Recommended Dosage for NSCLC
 
-The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes followed by bevacizumab, paclitaxel, and carboplatin, on Day 1 of each 21-day cycle for a maximum of 4 to 6 cycles of chemotherapy.
-
+The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
 If the first infusion of TECENTRIQ is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
-After completion of chemotherapy, administer TECENTRIQ 1200 mg intravenously, followed by bevacizumab on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
+When administering TECENTRIQ in combination with chemotherapy or other antineoplastic drugs, administer TECENTRIQ prior to chemotherapy or other antineoplastic drugs when given on the same day.
 
-Refer to the Prescribing Information for bevacizumab, paclitaxel, and carboplatin for recommended dosing information.
+Refer to the Prescribing Information for the chemotherapy agents or other antineoplastic drugs administered in combination with TECENTRIQ for recommended dosing information.
 
-## 2.4 Recommended Dosage for TECENTRIQ for Locally Advanced or Metastatic TNBC
+## 2.4 Recommended Dosage for Locally Advanced or Metastatic TNBC
 
 The recommended dosage of TECENTRIQ is 840 mg administered as an intravenous infusion over 60 minutes, followed by 100 mg/m2 paclitaxel protein-bound.
 
 For each 28 day cycle, TECENTRIQ is administered on days 1 and 15, and paclitaxel protein-bound is administered on days 1, 8, and 15 until disease progression or unacceptable toxicity.
 
 TECENTRIQ and paclitaxel protein-bound may be discontinued for toxicity independently of each other.
+
 If the first infusion is tolerated, all subsequent infusions of TECENTRIQ may be delivered over 30 minutes.
 See also the prescribing information for paclitaxel protein-bound prior to initiation.
 
-## 2.5 Dosage Modifications for Adverse Reactions
+## 2.5 Recommended Dosage for SCLC
+
+The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
+If the first infusion of TECENTRIQ is tolerated, all subsequent infusions may be delivered over 30 minutes.
+
+When administering TECENTRIQ in combination with chemotherapy, administer TECENTRIQ prior to chemotherapy when given on the same day.
+
+Refer to the Prescribing Information for the chemotherapy agents administered in combination with TECENTRIQ for recommended dosing information.
+
+## 2.6 Dosage Modifications for Adverse Reactions
 
 No dose reductions of TECENTRIQ are recommended.
 Recommendations for dosage modifications are provided in Table 1.
@@ -58,7 +67,7 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions
 | Inability to taper corticosteroid | Inability to reduce to less than or equal to prednisone 10 mg per day (or equivalent) within 12 weeks after last TECENTRIQ dose | Permanently discontinue |
 | Recurrent Grade 3 or 4 adverse reaction | Recurrent Grade 3 or 4 (severe or life-threatening) adverse reaction | Permanently discontinue |
 
-## 2.6 Preparation and Administration
+## 2.7 Preparation and Administration
 
 Preparation
 

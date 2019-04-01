@@ -14,7 +14,7 @@ In syngeneic mouse tumor models, blocking PD-L1 activity resulted in decreased t
 Patients' exposure to atezolizumab increased dose proportionally over the dose range of 1 mg/kg to 20 mg/kg, including a dose of 1200 mg administered every 3 weeks.
 The clearance (CV%) was 0.20 L/day (29%), the volume of distribution at steady state was 6.9 L, and the terminal half-life was 27 days.
 Steady state was achieved after 6 to 9 weeks following multiple doses.
-The systemic accumulation ratio for every 2 weeks administration and every 3 weeks administration was 3.3 and 1.9 fold, respectively.
+The systemic accumulation ratio for every 2 weeks administration and every 3 weeks administration was 3.3- and 1.9- fold, respectively.
 Atezolizumab clearance was found to decrease over time, with a mean maximal reduction (CV%) from baseline value of approximately 17% (41%); however, the decrease in clearance was not considered clinically relevant.
 
 Specific Populations

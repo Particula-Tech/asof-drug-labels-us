@@ -55,12 +55,5 @@ The safety and effectiveness of TECENTRIQ have not been established in pediatric
 
 ## 8.5 Geriatric Use
 
-Of the 919 patients treated with TECENTRIQ as a single-agent in IMvigor210 (Cohort 2) and OAK, 50% were 65 years or older.
-Of the 400 patients randomized to TECENTRIQ in combination with bevacizumab, paclitaxel, and carboplatin in IMpower150, 46% were 65 years or older and 9% were 75 years or older.
-No overall differences in safety or efficacy were observed between patients 65 years or older and younger patients in IMvigor210 (Cohort 2), OAK, and IMpower150.
-
-Of the 119 cisplatin-ineligible patients with urothelial carcinoma treated with TECENTRIQ as a single-agent in IMvigor210 (Cohort 1), 83% were 65 years or older and 41% were 75 years or older.
-No overall differences in safety or efficacy were observed between these patients and younger patients.
-
-Of the 452 patients with TNBC treated with TECENTRIQ in combination with paclitaxel protein-bound in IMpassion130, 23% were 65 years or older.
-No overall differences in safety or efficacy were observed between patients ≥ 65 years of age and younger patients.
+Of 2481 patients with urothelial carcinoma, lung cancer, and triple-negative breast cancer who were treated with TECENTRIQ in clinical studies, 45% were 65 years and over and 11% were 75 years and over.
+No overall differences in safety or effectiveness were observed between patients aged 65 years or older, and younger patients.
