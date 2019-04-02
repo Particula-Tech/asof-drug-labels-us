@@ -12,17 +12,19 @@ Warn patients and guardians that abdominal pain, nausea, vomiting, and/or anorex
 
 Birth Defects and Decreased IQ
 
-Inform pregnant women and women of childbearing potential that use of valproate during pregnancy increases the risk of birth defects and decreased IQ in children who were exposed.
-Advise women to use effective contraception while using valproate.
+Inform pregnant women and women of childbearing potential (including girls beginning the onset of puberty) that use of valproate during pregnancy increases the risk of birth defects, decreased IQ, and neurodevelopmental disorders in children who were exposed in utero.
+Advise women to use effective contraception while taking valproate.
 When appropriate, counsel these patients about alternative therapeutic options.
-This is particularly important when valproate use is considered for a condition not usually associated with permanent injury or death.
+This is particularly important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headache [see CONTRAINDICATIONS (4)].
 Advise patients to read the Medication Guide, which appears as the last section of the labeling [see WARNINGS AND PRECAUTIONS (5.2, 5.3, 5.4) and USE IN SPECIFIC POPULATIONS (8.1)].
+
+Pregnancy Registry
 
 Advise women of childbearing potential to discuss pregnancy planning with their doctor and to contact their doctor immediately if they think they are pregnant.
 
-Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
+Encourage women who are taking divalproex sodium delayed-release tablets to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see USE IN SPECIFIC POPULATIONS (8.1)].
+To enroll, patients can call the toll free number 1-888-233-2334 or visit the website, http://www.aedpregnancyregistry.org/ [see USE IN SPECIFIC POPULATIONS (8.1)].
 
 Suicidal Thinking and Behavior
 
@@ -63,4 +65,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: June 2018 ID#: 250435
+Revised: March 21, 2019 ID#: 260080
