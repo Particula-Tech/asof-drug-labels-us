@@ -34,6 +34,9 @@ In pediatric patient studies worldwide (n=704), tachycardia occurred at an incid
 
 ## 6.2 Postmarketing Experience
 
-In clinical practice, there have been reports of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with rocuronium bromide, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
+The following adverse reactions have been identified during post-approval use of rocuronium bromide.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency.
+Immune system disorders: In clinical practice, there have been reports of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with rocuronium bromide, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
+
+General disorders and administration site conditions: There have been reports of malignant hyperthermia with the use of rocuronium bromide [see Warnings and Precautions (5.7)].

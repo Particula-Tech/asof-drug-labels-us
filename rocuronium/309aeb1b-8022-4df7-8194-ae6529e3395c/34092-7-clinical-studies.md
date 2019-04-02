@@ -19,7 +19,7 @@ Following induction, continuous 8 mcg/kg/min infusion of rocuronium bromide prod
 
 Rapid Sequence Intubation
 
-Intubating conditions were assessed in 230 patients in six clinical studies where anesthesia was induced with either thiopental (3 to 6 mg/kg) or propofol (1.5 to 2.5 mg/kg) in combination with either fentanyl (2 to 5 mcg/kg) or alfentanil (1 mg).
+Intubation was assessed in patients in 6 clinical studies where anesthesia was induced with either thiopental (3 to 6 mg/kg) or propofol (1.5 to 2.5 mg/kg) in combination with either fentanyl (2 to 5 mcg/kg) or alfentanil (1 mg).
 Most of the patients also received a premedication such as midazolam or temazepam.
 Most patients had intubation attempted within 60 to 90 seconds of administration of rocuronium bromide 0.6 mg/kg or succinylcholine 1 to 1.5 mg/kg.
 Excellent or good intubating conditions were achieved in 119/120 (99% [95% confidence interval 95% to 99.9%]) patients receiving rocuronium bromide and in 108/110 (98% [94% to 99.8%]) patients receiving succinylcholine.

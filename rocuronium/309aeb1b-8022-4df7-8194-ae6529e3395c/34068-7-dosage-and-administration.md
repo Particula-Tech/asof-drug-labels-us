@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Important Dosing and Administration Information
+
 Rocuronium bromide injection is for intravenous use only.
 This drug should only be administered by experienced clinicians or trained individuals supervised by an experienced clinician familiar with the use, actions, characteristics, and complications of neuromuscular blocking agents.
 Doses of rocuronium bromide injection should be individualized and a peripheral nerve stimulator should be used to monitor drug effect, need for additional doses, adequacy of spontaneous recovery or antagonism, and to decrease the complications of overdosage if additional doses are administered.
@@ -8,8 +10,6 @@ The dosage information which follows is derived from studies based upon units of
 It is intended to serve as an initial guide to clinicians familiar with other neuromuscular blocking agents to acquire experience with rocuronium bromide injection.
 
 In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.6), Warnings and Precautions (5.10, 5.13), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
-
-## 2.1 Important Dosing and Administration Information
 
 Risk of Medication Errors
 
@@ -60,7 +60,7 @@ Infusion solutions of rocuronium bromide injection can be prepared by mixing roc
 These infusion solutions should be used within 24 hours of mixing.
 Unused portions of infusion solutions should be discarded.
 
-Infusion rates of rocuronium bromide injection can be individualized for each patient using the following tables for three different concentrations of rocuronium bromide injection solution as guidelines:
+Infusion rates of rocuronium bromide injection can be individualized for each patient using the following tables for 3 different concentrations of rocuronium bromide injection solution as guidelines:
 
 Table 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)*
 
@@ -125,7 +125,7 @@ Pediatric Patients
 
 The recommended initial intubation dose of rocuronium bromide injection is 0.6 mg/kg; however, a lower dose of 0.45 mg/kg may be used depending on anesthetic technique and the age of the patient.
 
-For sevoflurane (induction) Rocuronium bromide doses of 0.45 mg/kg and 0.6 mg/kg in general produce excellent to good intubating conditions within 75 seconds.
+For sevoflurane (induction) rocuronium bromide doses of 0.45 mg/kg and 0.6 mg/kg in general produce excellent to good intubating conditions within 75 seconds.
 When halothane is used, a 0.6 mg/kg dose of rocuronium bromide injection resulted in excellent to good intubating conditions within 60 seconds.
 
 The time to maximum block for an intubating dose was shortest in infants (28 days up to 3 months) and longest in neonates (birth to less than 28 days).

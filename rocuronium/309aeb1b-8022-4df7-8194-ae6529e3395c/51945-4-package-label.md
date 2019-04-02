@@ -3,7 +3,7 @@
 5 mL Multiple dose vial
 
 Rocuronium Bromide Inj.
-10 mg/mL
+50 mg/5 mL (10 mg/mL)
 
 WARNING: Paralyzing Agent
 
@@ -11,7 +11,7 @@ For IV use only Rx only
 
 Peel off & apply to syringe
 
-NDC 0409-9558-05
+NDC 0409-9558-11
 
 WARNING: Paralyzing Agent.
 Causes Respiratory Arrest.
@@ -19,25 +19,27 @@ Facilities must be immediately available for artificial respiration
 
 Hospira
 
-Hospira, Inc. Lake Forest, IL 60045 USA
+Dist. by Hospira, Inc. Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Vial Box
 
-10 x 5 mL multiple dose vials NDC 0409-9558-05
+10 x 5 mL multiple dose vials
+
+NDC 0409-9558-05 Contains 10 of NDC 0409-9558-11
 
 Rocuronium Bromide Injection
 
-50 mg/5 mL (10 mg/mL) WARNING: Paralyzing Agent Rx only
+50 mg/5 mL (10 mg/mL)
 
-For IV use only
+WARNING: Paralyzing Agent
 
-WARNING: Paralyzing Agent.
+Rx only
+
+For intravenous use only WARNING: Paralyzing Agent.
 Causes Respiratory Arrest.
 Facilities must be immediately available for artificial respiration
 
 Dosage: Read enclosed prescribing information.
-
-Hospira, Inc., Lake Forest, IL 60045 USA
 
 Storage: Rocuronium Bromide Injection should be stored under refrigeration, 2 to 8°C (36 to 46°F).
 DO NOT FREEZE.
@@ -55,7 +57,7 @@ Hospira
 10 mL Multiple dose vial
 
 Rocuronium Bromide Inj.
-10 mg/mL
+100 mg/10 mL (10 mg/mL)
 
 WARNING: Paralyzing Agent
 
@@ -63,7 +65,7 @@ For IV use only Rx only
 
 Peel off & apply to syringe
 
-NDC 0409-9558-10
+NDC 0409-9558-31
 
 WARNING: Paralyzing Agent.
 Causes Respiratory Arrest.
@@ -71,27 +73,27 @@ Facilities must be immediately available for artificial respiration
 
 Hospira
 
-Hospira, Inc. Lake Forest, IL 60045 USA
+Dist. by Hospira, Inc. Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
 
-10 x 10 mL multiple dose vials NDC 0409-9558-10
+10 x 10 mL multiple dose vials
+
+NDC 0409-9558-10 Contains 10 of NDC 0409-9558-31
 
 Rocuronium Bromide Injection
 
-100 mg/10 mL (10 mg/mL) Rx only
+100 mg/10 mL (10 mg/mL)
 
 WARNING: Paralyzing Agent
 
-For IV use only
+Rx only
 
-WARNING: Paralyzing Agent.
+For intravenous use only WARNING: Paralyzing Agent.
 Causes Respiratory Arrest.
 Facilities must be immediately available for artificial respiration
 
 Dosage: Read enclosed prescribing information.
-
-Hospira, Inc., Lake Forest, IL 60045 USA
 
 Storage: Rocuronium Bromide Injection should be stored under refrigeration, 2 to 8°C (36 to 46°F).
 DO NOT FREEZE.
