@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs that Make the Urine Alkaline
+## 7.1Drugs that Make the Urine Alkaline
 
 The clearance of memantine was reduced by about 80% under alkaline urine conditions at pH 8.
 Therefore, alterations of urine pH towards the alkaline condition may lead to an accumulation of the drug with a possible increase in adverse effects.
@@ -9,4 +9,4 @@ Hence, memantine should be used with caution under these conditions.
 
 ## 7.2 Use with Other N-methyl-D-aspartate (NMDA) Antagonists
 
-The combined use of Memantine HCl with other NMDA antagonists (amantadine, ketamine, and dextromethorphan) has not been systematically evaluated and such use should be approached with caution.
+The combined use of memantine hydrochloride with other NMDA antagonists (amantadine, ketamine, and dextromethorphan) has not been systematically evaluated and such use should be approached with caution.

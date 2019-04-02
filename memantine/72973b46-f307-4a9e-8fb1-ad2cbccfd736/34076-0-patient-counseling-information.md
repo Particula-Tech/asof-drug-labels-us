@@ -1,24 +1,23 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use).
+See FDA-approved patient labeling (Patient Information).
 
-To assure safe and effective use of Memantine HCl, the following information and instructions provided in the patient information section should be discussed with patients and caregivers.
+To assure safe and effective use of memantine hydrochloride tablets, the following information and instructions provided in the patient information section should be discussed with patients and caregivers.
 
-Patients/caregivers should be instructed to follow the dose titration schedule provided by their physician or healthcare professional for Memantine HCl.
-They should be warned not to use any tablets of Memantine HCl that are damaged or show signs of tampering.
+Patients/caregivers should be instructed to follow the dose titration schedule provided by their physician or healthcare professional for memantine hydrochloride tablets.
+They should be warned not to use any tablets of memantine hydrochloride that are damaged or show signs of tampering.
 
-If a patient misses a single dose of Memantine HCl, that patient should not double up on the next dose.
+If a patient misses a single dose of memantine hydrochloride tablets, that patient should not double up on the next dose.
 The next dose should be taken as scheduled.
-If a patient fails to take Memantine HCl for several days, dosing should not be resumed without consulting that patient's healthcare professional.
-
-Patients/caregivers should be instructed on how to use the Memantine HCl Oral Solution dosing device.
-They should be made aware of the patient instruction sheet that is enclosed with the product.
-Patients/caregivers should be instructed to address any questions on the usage of the solution to their physician or pharmacist.
+If a patient fails to take memantine hydrochloride tablets for several days, dosing should not be resumed without consulting that patient’s healthcare professional.
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Manufactured by: Forest Laboratories Ireland Ltd Clonshaugh Business and Technology Park Clonshaugh, Dublin 17, Ireland
+Manufactured by: Forest Laboratories Ireland Ltd., an Allergan affiliate Clonshaugh, Ireland
 
-Licensed from Merz Pharmaceuticals GmbH
+Licensed from Merz Pharma GmbH & Co. KGaA
 
-© 2005-2015 Actavis
+© 2019 Allergan.
+All rights reserved
+
+All trademarks are the property of their respective owners.
