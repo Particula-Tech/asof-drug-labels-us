@@ -1,21 +1,22 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+Embryo-Fetal Toxicity
+
+- Advise female patients of the potential risks to a fetus.
+- Advise females of reproductive potential to use effective contraception during treatment with voriconazole.
 
 This product’s label may have been updated.
-For current full prescribing information, please visit www.amneal.com.
+For current full prescribing information, please visit www.amneal.com or call 1-877-835-5472.
 
-Manufactured by:
-
-Amneal Pharmaceuticals LLC
-
-Branchburg, NJ 08876
+All brands listed are trademark of their respective owner.
 
 Distributed by:
 
 Amneal Pharmaceuticals LLC
 
-Glasgow, KY 42141
+Bridgewater, NJ 08807
 
 Rev.
-08-2017-01
+02-2019-03

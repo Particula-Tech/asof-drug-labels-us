@@ -16,6 +16,7 @@ Remove cap from bottle.
 2
 
 Push bottle adapter ALL THE WAY into bottle top (if pharmacist has not done so).
+
 Once bottle adapter is inserted, leave in place.
 
 3
@@ -52,17 +53,11 @@ Store at room temperature.
 
 Rinse the oral dispenser with water after each dose.
 
-Manufactured by:
-
-Amneal Pharmaceuticals LLC
-
-Branchburg, NJ 08876
-
 Distributed by:
 
 Amneal Pharmaceuticals LLC
 
-Glasgow, KY 42141
+Bridgewater, NJ 08807
 
 Rev.
-08-2017-01
+02-2019-02
