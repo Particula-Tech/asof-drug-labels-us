@@ -14,7 +14,7 @@ HALOPERIDOL DECANOATE INJECTION MUST NOT BE ADMINISTERED INTRAVENOUSLY.
 
 ## Tardive Dyskinesia
 
-A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs (see ADVERSE REACTIONS).
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
@@ -32,16 +32,15 @@ The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
-(For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS.)
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
-A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
+A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs (see ADVERSE REACTIONS).
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status (including catatonic signs) and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis) and acute renal failure.
 
 The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms.
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology.
 
 The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
@@ -120,9 +119,9 @@ The risks of using haloperidol in combination with other drugs have been evaluat
 
 ## Pharmacodynamic Interactions
 
-Since QT-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
+Since QT-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to a patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
 
-As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates and alcohol.
+As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
 
 Ketoconazole is a potent inhibitor of CYP3A4.
 Increases in QTc have been observed when haloperidol was given in combination with the metabolic inhibitors ketoconazole (400 mg/day) and paroxetine (20 mg/day).
@@ -167,7 +166,7 @@ The available cytogenetic evidence is considered too inconsistent to be conclusi
 Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months).
 In the rat study survival was less than optimal in all dose groups, reducing the number of rats at risk for developing tumors.
 However, although a relatively greater number of rats survived to the end of the study in high-dose male and female groups, these animals did not have a greater incidence of tumors than control animals.
-Therefore, although not optimal, this study does suggest the absence of a haloperidol-related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
+Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
 
 In female mice at 5 and 20 times the highest initial daily dose for chronic or resistant patients, there was a statistically significant increase in mammary gland neoplasia and total tumor incidence; at 20 times the same daily dose there was a statistically significant increase in pituitary gland neoplasia.
 In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
@@ -194,7 +193,7 @@ There are reports, however, of cases of limb malformations observed following ma
 Causal relationships were not established with these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, haloperidol decanoate should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 
-Nonteratogenic Effects
+Non-Teratogenic Effects
 
 Neonates exposed to antipsychotic drugs (including haloperidol) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
