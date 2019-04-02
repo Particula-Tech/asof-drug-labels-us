@@ -52,12 +52,12 @@ Therefore, tell your doctor about all the medicines you take including:
 - theophylline to control asthma
 - cisapride for heartburn
 - quinidine (used to correct disturbances in heart rhythm)
-- amiodarone (used for treating uneven heartbeats ‘arrhythmias’)
+- amiodarone (used for treating uneven heartbeats 'arrhythmias')
 - amitriptyline or nortriptyline for depression
 - pimozide for psychiatric illness
 - amphotericin B or voriconazole for fungal infections
 - erythromycin for bacterial infections
-- cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
+- olaparib, cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - fentanyl, afentanil or methadone for chronic pain
 - halofantrine for malaria
 - lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
@@ -75,7 +75,7 @@ Since there are many brand names for these medicines, check with your doctor or 
 - are pregnant, plan to become pregnant, or think you might be pregnant.
   Your doctor will discuss whether FLUCONAZOLE is right for you.
   Women who can become pregnant should think about using effective birth control while taking FLUCONAZOLE.
-- are breast-feeding.
+- are breastfeeding.
   FLUCONAZOLE can pass through breast milk to the baby.
 - are allergic to any other medicines including those used to treat yeast and other fungal infections.
 - are allergic to any of the ingredients in FLUCONAZOLE.
@@ -120,6 +120,8 @@ Allergic reactions to FLUCONAZOLE are rare, but they can be very serious if not 
 If you cannot reach your doctor, go to the nearest hospital emergency room.
 Signs of an allergic reaction can include shortness of breath; coughing; wheezing; fever; chills; throbbing of the heart or ears; swelling of the eyelids, face, mouth, neck, or any other part of the body; or skin rash, hives, blisters or skin peeling.
 
+Tell your doctor or pharmacist if you experience skin rash, fever, swollen glands, increase in a type of white blood cell (eosinophilia), and inflammation of internal organs (liver, lungs, heart, kidneys, and large intestine) as they may be signs of a hypersensitivity reaction (Drug Reaction or rash with Eosinophilia and Systemic Symptoms (DRESS)).
+
 FLUCONAZOLE has been linked to rare cases of serious liver damage, including deaths, mostly in patients with serious medical problems.
 Call your doctor if your skin or eyes become yellow, your urine turns a darker color, your stools (bowel movements) are light-colored, or if you vomit or feel like vomiting or if you have severe skin itching.
 
@@ -129,6 +131,9 @@ Tell your doctor right away if you get a rash while taking FLUCONAZOLE.
 FLUCONAZOLE may cause other less common side effects besides those listed here.
 If you develop any side effects that concern you, call your doctor.
 For a list of all side effects, ask your doctor or pharmacist.
+
+Cases of reversible adrenal insufficiency have been reported with fluconazole.
+Tell your doctor is you experience chronic, or long lasting fatigue, muscle weakness, loss of appetite, weight loss or abdominal pain.
 
 What to Do For an Overdose?
 
@@ -152,4 +157,4 @@ You can ask your pharmacist or doctor for information about FLUCONAZOLE that is 
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0367-11.0 Revised April 2018
+LAB-0367-12.0 Revised March 2019

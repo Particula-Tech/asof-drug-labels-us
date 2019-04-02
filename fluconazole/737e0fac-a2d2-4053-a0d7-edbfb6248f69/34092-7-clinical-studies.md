@@ -51,7 +51,7 @@ Because fluconazole was given as a single dose, no discontinuations occurred.
 
 ### Oropharyngeal candidiasis
 
-An open-label, comparative study of the efficacy and safety of fluconazole (2–3 mg/kg/day) and oral nystatin (400,000 I.U.
+An open-label, comparative study of the efficacy and safety of fluconazole (2 to 3 mg/kg/day) and oral nystatin (400,000 I.U.
 4 times daily) in immunocompromised children with oropharyngeal candidiasis was conducted.
 Clinical and mycological response rates were higher in the children treated with fluconazole.
 

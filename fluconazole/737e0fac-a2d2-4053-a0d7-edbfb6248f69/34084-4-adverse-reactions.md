@@ -62,7 +62,7 @@ Musculoskeletal System: myalgia.
 
 Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
-Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (See WARNINGS), alopecia.
+Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (See WARNINGS), alopecia.
 
 ## Adverse Reactions in Children
 
@@ -76,9 +76,8 @@ The majority of treatment-related laboratory abnormalities were elevations of tr
 
 Percentage of Patients With Treatment-Related Side Effects
 
-|  | (N=577) | (N=451) |
+|  | Fluconazole (N=577) | Comparative Agents (N=451) |
 | --- | --- | --- |
-|  | Fluconazole | Comparative Agents |
 | With any side effect | 13.0 | 9.3 |
 | Vomiting | 5.4 | 5.1 |
 | Abdominal pain | 2.8 | 1.6 |
