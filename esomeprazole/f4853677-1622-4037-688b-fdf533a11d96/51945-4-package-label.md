@@ -10,9 +10,7 @@ NEXIUM®
 
 Capsules
 
-20 mg*
-
-Rx only
+Rx only 20 mg*
 
 Dispense the accompanying
 
@@ -32,9 +30,7 @@ NEXIUM®
 
 Capsules
 
-40 mg*
-
-Rx only
+Rx only 40 mg*
 
 Dispense the accompanying
 
@@ -52,9 +48,7 @@ NEXIUM®
 
 2.5 mg
 
-For Delayed-Release
-
-Oral Suspension
+For Delayed-Release Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
@@ -92,9 +86,9 @@ which is equivalent to 5 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
 
-30 Single Dose Packets
-
 Rx only
+
+30 Single Dose Packets
 
 AstraZeneca
 
@@ -120,9 +114,9 @@ which is equivalent to 10 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
 
-30 Single Dose Packets
-
 Rx only
+
+30 Single Dose Packets
 
 AstraZeneca
 
@@ -148,9 +142,9 @@ which is equivalent to 20 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
 
-30 Single Dose Packets
-
 Rx only
+
+30 Single Dose Packets
 
 AstraZeneca
 
@@ -164,18 +158,18 @@ NEXIUM®
 
 40 mg
 
-For Delayed-Release
-
-Oral Suspension
+For Delayed-Release Oral Suspension
 
 Each carton contains 30 Child-resistant packets.
 
-*Each packet contains 44.5 mg of esomeprazole magnesium trihydrate which is equivalent to 40 mg of esomeprazole as enteric-coated granules.
+*Each packet contains 44.5 mg of esomeprazole magnesium trihydrate
+
+which is equivalent to 40 mg of esomeprazole as enteric-coated granules.
 
 Dispense the enclosed Medication Guide to each patient.
 
-30 Single Dose Packets
-
 Rx only
+
+30 Single Dose Packets
 
 AstraZeneca

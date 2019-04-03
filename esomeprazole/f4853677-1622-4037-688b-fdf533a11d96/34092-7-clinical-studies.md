@@ -36,7 +36,7 @@ Table 10: Sustained ResolutionDefined as 7 consecutive days with no heartburn re
 |  | 551 | Omeprazole 20 mg | 65.5% | 73.1% |  |
 | 4 | 1187 | NEXIUM 40 mg | 67.6% | 75.1% | p <0.001 |
 |  | 1188 | Omeprazole 20 mg | 62.5% | 70.8% |  |
-| N.S. = not significant (p>0.05). |  |  |  |  |  |
+| N.S. = not significant (p> 0.05) |  |  |  |  |  |
 
 In these four studies, the range of median days to the start of sustained resolution (defined as 7 consecutive days with no heartburn) was 5 days for NEXIUM 40 mg, 7 to 8 days for NEXIUM 20 mg and 7 to 9 days for omeprazole 20 mg.
 

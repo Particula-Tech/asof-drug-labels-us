@@ -38,7 +38,7 @@ Healthcare providers should temporarily stop esomeprazole treatment at least 14 
 
 Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeNonclinical Toxicology (13.1)].
+In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
@@ -216,7 +216,7 @@ NEXIUM, amoxicillin, and clarithromycin triple therapy has been shown to be acti
 
 Helicobacter pylori: Susceptibility testing of H. pylori isolates was performed for amoxicillin and clarithromycin using agar dilution methodology, and minimum inhibitory concentrations (MICs) were determined.
 
-Pretreatment Resistance:Clarithromycin pretreatment resistance rate (MIC ≥ 1 mcg/mL) to H. pylori was 15% (66/445) at baseline in all treatment groups combined.
+Pretreatment Resistance: Clarithromycin pretreatment resistance rate (MIC ≥ 1 mcg/mL) to H. pylori was 15% (66/445) at baseline in all treatment groups combined.
 A total of > 99% (394/395) of patients had H. pylori isolates that were considered to be susceptible (MIC ≤ 0.25 mcg/mL) to amoxicillin at baseline.
 One patient had a baseline H. pylori isolate with an amoxicillin MIC = 0.5 mcg/mL.
 
