@@ -15,7 +15,7 @@ If haloperidol injection is administered intravenously, the ECG should be monito
 
 ## Tardive Dyskinesia
 
-A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs (see ADVERSE REACTIONS).
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
@@ -34,25 +34,26 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
 
-(For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS.)
-
 ## Neuroleptic Malignant Syndrome (NMS)
 
-A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
+A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs (see ADVERSE REACTIONS).
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status (including catatonic signs) and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis) and acute renal failure.
-
 The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms.
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology.
-
 The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
 There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
-
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
-
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with haloperidol.
+
+## Treatment Withdrawal
+
+Generally, patients receiving short-term therapy experience no problems with abrupt discontinuation of antipsychotic drugs.
+However, some patients on maintenance treatment experience transient dyskinetic signs after abrupt withdrawal.
+In certain of these cases the dyskinetic movements are indistinguishable from tardive dyskinesia (see WARNINGS, Tardive Dyskinesia) except for duration.
+It is not known whether gradual withdrawal of antipsychotic drugs will reduce the rate of occurrence of withdrawal emergent neurological signs but until further evidence becomes available, it seems reasonable to gradually withdraw use of Haloperidol injection (see WARNINGS, Usage in Pregnancy).
 
 ## Falls
 
@@ -65,13 +66,13 @@ Rodents given 2 to 20 times the usual maximum human dose of haloperidol by oral 
 No teratogenic effect has been reported in rats, rabbits or dogs at dosages within this range, but cleft palate has been observed in mice given 15 times the usual maximum human dose.
 Cleft palate in mice appears to be a nonspecific response to stress or nutritional imbalance as well as to a variety of drugs, and there is no evidence to relate this phenomenon to predictable human risk for most of these agents.
 
-There are no well-controlled studies with haloperidol injection in pregnant women.
+There are no well controlled studies with haloperidol injection in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
 Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 Infants should not be nursed during drug treatment.
 
-Non-teratogenic Effects
+Non-Teratogenic Effects
 
 Neonates exposed to antipsychotic drugs (including haloperidol) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
@@ -186,7 +187,7 @@ The available cytogenetic evidence is considered too inconsistent to be conclusi
 Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months).
 In the rat study survival was less than optimal in all dose groups, reducing the number of rats at risk for developing tumors.
 However, although a relatively greater number of rats survived to the end of the study in high-dose male and female groups, these animals did not have a greater incidence of tumors than control animals.
-Therefore, although not optimal, this study does suggest the absence of a haloperidol-related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
+Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
 
 In female mice at 5 and 20 times the highest initial daily dose for chronic or resistant patients, there was a statistically significant increase in mammary gland neoplasia and total tumor incidence; at 20 times the same daily dose there was a statistically significant increase in pituitary gland neoplasia.
 In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
@@ -197,7 +198,7 @@ Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impote
 An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
 Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
 
-There are no well-controlled studies with haloperidol injection in pregnant women.
+There are no well controlled studies with haloperidol injection in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
 Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
