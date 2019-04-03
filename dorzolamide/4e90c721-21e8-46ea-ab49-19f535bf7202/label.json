@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202667"
+  ],
+  "inn": "dorzolamide",
+  "labeler": "Hi-Tech Pharmacal Co., Inc.",
+  "package_ndcs": [
+    "50383-261-61",
+    "50383-261-91"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "dorzolamide hydrochloride and timolol maleate",
+      "name": "Dorzolamide Hydrochloride and Timolol Maleate"
+    }
+  ],
+  "setid": "4e90c721-21e8-46ea-ab49-19f535bf7202",
+  "source": "dailymed"
+}
