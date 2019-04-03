@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA207004"
+  ],
+  "inn": "rasagiline",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-220-05",
+    "42571-220-10",
+    "42571-220-30",
+    "42571-221-05",
+    "42571-221-10",
+    "42571-221-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rasagiline",
+      "name": "RASAGILINE"
+    }
+  ],
+  "setid": "42f8d62f-2c57-47bc-92e7-b28111aa8cd1",
+  "source": "dailymed"
+}
