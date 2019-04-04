@@ -108,7 +108,7 @@ Administration:
 - If a central venous catheter is not available, Noxafil injection may be administered through a peripheral venous catheter only as a single dose in advance of central venous line placement or to bridge the period during which a central venous line is replaced or is in use for other treatment.
 - When multiple dosing is required, the infusion should be done via a central venous line.
   When administered through a peripheral venous catheter, the infusion should be administered over approximately 30 minutes.
-  Note: In clinical trials, multiple peripheral infusions given through the same vein resulted in infusion site reactions [see Adverse Reactions (6.2)].
+  Note: In clinical trials, multiple peripheral infusions given through the same vein resulted in infusion site reactions [see Adverse Reactions (6.1)].
 
 ## 2.3 Dosage and Administration Instructions for Noxafil Delayed-Release Tablets
 

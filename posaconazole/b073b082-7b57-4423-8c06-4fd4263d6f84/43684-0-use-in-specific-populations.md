@@ -2,20 +2,37 @@
 
 ## 8.1 Pregnancy
 
-There are no adequate and well-controlled studies in pregnant women.
-Noxafil should be used in pregnancy only if the potential benefit outweighs the potential risk to the fetus.
+Risk Summary
 
-Posaconazole has been shown to cause skeletal malformations (cranial malformations and missing ribs) in rats when given in doses ≥27 mg/kg (≥1.4 times the 400-mg BID oral suspension regimen based on steady-state plasma concentrations of drug in healthy volunteers).
-The no-effect dose for malformations in rats was 9 mg/kg, which is 0.7 times the exposure achieved with the 400-mg BID oral suspension regimen.
-No malformations were seen in rabbits at doses up to 80 mg/kg.
-In the rabbit, the no-effect dose was 20 mg/kg, while high doses of 40 mg/kg and 80 mg/kg, 2.9 or 5.2 times the exposure achieved with the 400-mg BID oral suspension regimen, caused an increase in resorptions.
+Based on findings from animal data, Noxafil may cause fetal harm when administered to pregnant women.
+Available data for use of Noxafil in pregnant women are insufficient to establish a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+In animal reproduction studies, skeletal malformations (cranial malformations and missing ribs) and maternal toxicity (reduced food consumption and reduced body weight gain) were observed when posaconazole was dosed orally to pregnant rats during organogenesis at doses ≥1.4 times the 400 mg twice daily oral suspension regimen based on steady-state plasma concentrations of Noxafil in healthy volunteers.
+In pregnant rabbits dosed orally during organogenesis, increased resorptions, reduced litter size, and reduced body weight gain of females were seen at doses 5 times the exposure achieved with the 400 mg twice daily oral suspension regimen.
+Doses of ≥ 3 times the clinical exposure caused an increase in resorptions in these rabbits (see Data).
+Based on animal data, advise pregnant women of the potential risk to a fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
+
+Posaconazole resulted in maternal toxicity (reduced food consumption and reduced body weight gain) and skeletal malformations (cranial malformations and missing ribs) when given orally to pregnant rats during organogenesis (Gestational Days 6 through 15) at doses ≥27 mg/kg (≥1.4 times the 400 mg twice daily oral suspension regimen based on steady-state plasma concentrations of drug in healthy volunteers).
+The no-effect dose for malformations and maternal toxicity in rats was 9 mg/kg, which is 0.7 times the exposure achieved with the 400 mg twice daily oral suspension regimen.
+No malformations were seen in rabbits dosed during organogenesis (Gestational Days 7 through 19) at doses up to 80 mg/kg (5 times the exposure achieved with the 400 mg twice daily oral suspension regimen).
+In the rabbit, the no-effect dose was 20 mg/kg, while high doses of 40 mg/kg and 80 mg/kg (3 or 5 times the clinical exposure) caused an increase in resorptions.
 In rabbits dosed at 80 mg/kg, a reduction in body weight gain of females and a reduction in litter size were seen.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Posaconazole is excreted in milk of lactating rats.
-It is not known whether Noxafil is excreted in human milk.
-Because of the potential for serious adverse reactions from Noxafil in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary
+
+There are no data on the presence of posaconazole in human milk, the effects on the breastfed infant, or the effects on milk production.
+Posaconazole is excreted in the milk of lactating rats.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Noxafil and any potential adverse effects on the breastfed child from Noxafil or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

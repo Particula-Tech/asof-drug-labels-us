@@ -2,12 +2,12 @@
 
 Injection
 
-Noxafil injection is available in Type I glass vials closed with bromobutyl rubber stopper and aluminum seal (NDC 0085-4331-01) containing 300 mg per 16.7 mL of solution (18 mg of posaconazole per mL).
+Noxafil injection is available in Type I glass vials closed with bromobutyl rubber stopper and aluminum seal (NDC 0085-4331-01) containing 300 mg of posaconazole in 16.7 mL of solution (18 mg of posaconazole per mL).
 Store refrigerated at 2-8°C (36-46°F).
 
 Delayed-Release Tablets
 
-Noxafil 100 mg delayed-release tablets; yellow, coated, oblong, debossed with "100" on one side.
+Noxafil delayed-release tablets are available as yellow, coated, oblong, debossed with "100" on one side containing 100 mg of posaconazole.
 Bottles with child-resistant closures of 60 delayed-release tablets (NDC 0085-4324-02).
 Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 

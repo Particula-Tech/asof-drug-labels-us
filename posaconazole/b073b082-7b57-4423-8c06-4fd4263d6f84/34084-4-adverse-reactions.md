@@ -1,14 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Serious and Otherwise Important Adverse Reactions
-
 The following serious and otherwise important adverse reactions are discussed in detail in another section of the labeling:
 
 - Hypersensitivity [see Contraindications (4.1)]
 - Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)]
 - Hepatic Toxicity [see Warnings and Precautions (5.4)]
 
-## 6.2 Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of Noxafil cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 In clinical trials, the type of adverse reactions reported for posaconazole injection and posaconazole delayed-release tablets were generally similar to that reported in trials of posaconazole oral suspension.
@@ -265,7 +263,7 @@ For the prophylaxis studies, the number of patients with changes in liver functi
 Table 10: Posaconazole Oral Suspension Study 1 and Study 2.
 Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
-| Number (%) of Patients With ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
+| Number (%) of Patients with ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
 | --- | --- | --- |
 | Oral Suspension Study 1 |  |  |
 | Laboratory Parameter | Posaconazole n=301 | Fluconazole n=299 |
@@ -296,9 +294,9 @@ Table 11: Posaconazole Oral Suspension Studies: Clinically Significant Laborator
 | Alkaline Phosphatase > 3.0 × ULN | 17/535 (3) | 15/253 (6) | 24/190 (13) |
 | ALT= Alanine Aminotransferase; AST= Aspartate Aminotransferase. |  |  |  |
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during the post-approval use of posaconazole.
+The following adverse reaction has been identified during the post-approval use of posaconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
 
 Endocrine Disorders: Pseudoaldosteronism [see Adverse Reactions (6.2)]
