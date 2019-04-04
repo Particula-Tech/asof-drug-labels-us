@@ -30,7 +30,7 @@ The most common adverse reactions of aripiprazole in adult patients in clinical 
 
 Adverse Reactions in Adult Patients with Schizophrenia
 
-The following findings are based on a pool of five placebo-controlled trials (four 4‑week and one 6‑week) in which oral aripiprazole was administered in doses ranging from 2 to 30 mg/day.
+The following findings are based on a pool of five placebo-controlled trials (four 4-week and one 6-week) in which oral aripiprazole was administered in doses ranging from 2 to 30 mg/day.
 
 The commonly observed adverse reaction associated with the use of aripiprazole tablets in patients with schizophrenia (incidence of 5% or greater and aripiprazole tablets incidence at least twice that for placebo) was akathisia (aripiprazole tablets 8%; placebo 4%).
 
@@ -38,7 +38,7 @@ Adverse Reactions in Adult Patients with Bipolar Mania
 
 Adult Patients Who Received Monotherapy
 
-The following findings are based on a pool of 3‑week, placebo-controlled, bipolar mania trials in which oral aripiprazole was administered at doses of 15 or 30 mg/day.
+The following findings are based on a pool of 3-week, placebo-controlled, bipolar mania trials in which oral aripiprazole was administered at doses of 15 or 30 mg/day.
 
 Commonly observed adverse reactions associated with the use of aripiprazole tablets in patients with bipolar mania (incidence of 5% or greater and aripiprazole tablets incidence at least twice that for placebo) are shown in Table 9.
 
@@ -191,12 +191,12 @@ In short-term, placebo-controlled trials in schizophrenia in adults, the inciden
 Objectively collected data from those trials was collected on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias).
 In the adult schizophrenia trials, the objectively collected data did not show a difference between aripiprazole tablets and placebo, with the exception of the Barnes Akathisia Scale (aripiprazole tablets, 0.08; placebo, –0.05).
 
-Similarly, in a long-term (26‑week), placebo-controlled trial of schizophrenia in adults, objectively collected data on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias) did not show a difference between aripiprazole tablets and placebo.
+Similarly, in a long-term (26-week), placebo-controlled trial of schizophrenia in adults, objectively collected data on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias) did not show a difference between aripiprazole tablets and placebo.
 
 Bipolar Mania
 
 In the short-term, placebo-controlled trials in bipolar mania in adults, the incidence of reported EPS-related events, excluding events related to akathisia, for monotherapy aripiprazole-treated patients was 16% vs. 8% for placebo and the incidence of akathisia-related events for monotherapy aripiprazole-treated patients was 13% vs. 4% for placebo.
-In the 6‑week, placebo-controlled trial in bipolar mania for adjunctive therapy with lithium or valproate, the incidence of reported EPS-related events, excluding events related to akathisia for adjunctive aripiprazole-treated patients was 15% vs. 8% for adjunctive placebo and the incidence of akathisia-related events for adjunctive aripiprazole-treated patients was 19% vs. 5% for adjunctive placebo.
+In the 6-week, placebo-controlled trial in bipolar mania for adjunctive therapy with lithium or valproate, the incidence of reported EPS-related events, excluding events related to akathisia for adjunctive aripiprazole-treated patients was 15% vs. 8% for adjunctive placebo and the incidence of akathisia-related events for adjunctive aripiprazole-treated patients was 19% vs. 5% for adjunctive placebo.
 
 In the adult bipolar mania trials with monotherapy aripiprazole tablets, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between aripiprazole tablets and placebo (aripiprazole tablets, 0.50; placebo, –0.01 and aripiprazole tablets, 0.21; placebo, –0.05).
 Changes in the Assessments of Involuntary Movement Scales were similar for the aripiprazole tablets and placebo groups.
@@ -213,7 +213,7 @@ Changes in the Assessments of Involuntary Movement Scales were similar for the a
 Dystonia
 
 Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
-Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
+Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, protrusion of the tongue, and/or spasmodic deviations of the eyes, most commonly upward.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
@@ -224,7 +224,7 @@ In clinical studies, sixty-one patients (12.4%) experienced skin rashes localize
 
 Adverse Reactions in Long-Term, Double-Blind, Placebo-Controlled Trials
 
-The adverse reactions reported in a 26‑week, double-blind trial comparing oral aripiprazole and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for aripiprazole tablets vs. 2% (3/153) for placebo].
+The adverse reactions reported in a 26-week, double-blind trial comparing oral aripiprazole and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for aripiprazole tablets vs. 2% (3/153) for placebo].
 In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
 Tremor led to discontinuation (<1%) of aripiprazole tablets.
 In addition, in a long-term (52 week), active-controlled study, the incidence of tremor was 5% (40/859) for aripiprazole tablets.
@@ -237,24 +237,41 @@ The listing does not include reactions: 1) already listed in previous tables or 
 
 Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients:
 
-- Blood and Lymphatic System Disorders: rare - thrombocytopenia
-- Cardiac Disorders: infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
-- Eye Disorders: infrequent – photophobia; rare - diplopia
-- Gastrointestinal Disorders: infrequent - gastroesophageal reflux disease
-- General Disorders and Administration Site Conditions: frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
-- Hepatobiliary Disorders: rare - hepatitis, jaundice
-- Immune System Disorders: rare- hypersensitivity
-- Injury, Poisoning, and Procedural Complications: infrequent – fall; rare – heat stroke
-- Investigations: frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
-- Metabolism and Nutrition Disorders: frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
-- Musculoskeletal and Connective Tissue Disorders: infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
-- Nervous System Disorders: infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
-- Psychiatric Disorders: infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
-- Renal and Urinary Disorders: rare - urinary retention, nocturia
-- Reproductive System and Breast Disorders: infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
-- Respiratory, Thoracic, and Mediastinal Disorders: infrequent - nasal congestion, dyspnea
-- Skin and Subcutaneous Tissue Disorders: infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
-- Vascular Disorders: infrequent – hypotension, hypertension
+Blood and Lymphatic System Disorders: rare - thrombocytopenia
+
+Cardiac Disorders: infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
+
+Eye Disorders: infrequent – photophobia; rare - diplopia
+
+Gastrointestinal Disorders: infrequent - gastroesophageal reflux disease
+
+General Disorders and Administration Site Conditions: frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
+
+Hepatobiliary Disorders: rare - hepatitis, jaundice
+
+Immune System Disorders: rare - hypersensitivity
+
+Injury, Poisoning, and Procedural Complications: infrequent – fall; rare – heat stroke
+
+Investigations: frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+
+Metabolism and Nutrition Disorders: frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
+
+Musculoskeletal and Connective Tissue Disorders: infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
+
+Nervous System Disorders: infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
+
+Psychiatric Disorders: infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
+
+Renal and Urinary Disorders: rare - urinary retention, nocturia
+
+Reproductive System and Breast Disorders: infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
+
+Respiratory, Thoracic, and Mediastinal Disorders: infrequent - nasal congestion, dyspnea
+
+Skin and Subcutaneous Tissue Disorders: infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
+
+Vascular Disorders: infrequent – hypotension, hypertension
 
 ## 6.2 Postmarketing Experience
 
