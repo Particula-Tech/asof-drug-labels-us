@@ -12,6 +12,10 @@ Precipitous decreases in blood pressure have occasionally been described in asso
 Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values.
 In rare cases, however, intervention may be required and reversibility may not be immediate.
 
+## Stress Cardiomyopathy
+
+Stress cardiomyopathy has been reported with dobutamine in association with cardiac stress testing.
+
 ## Reactions at Sites of Intravenous Infusion
 
 Phlebitis has occasionally been reported.

@@ -2,11 +2,10 @@
 
 Dobutamine Hydrochloride in 5% Dextrose Injection in VIAFLEX PLUS plastic containers is available as follows:
 
-2B0791 Dobutamine 250 mg/250 mL NDC 0338-1073-02
-
-2B0792 Dobutamine 500 mg/250 mL NDC 0338-1075-02
-
-2B0793 Dobutamine 1000 mg/250 mL NDC 0338-1077-02
+| 2B0791 | Dobutamine 250 mg/250 mL | NDC 0338-1073-02 |
+| --- | --- | --- |
+| 2B0792 | Dobutamine 500 mg/250 mL | NDC 0338-1075-02 |
+| 2B0793 | Dobutamine 1000 mg/250 mL | NDC 0338-1077-02 |
 
 Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.
@@ -84,5 +83,5 @@ Baxter, Viaflex and Viaflex Plus are trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-7-19-00-0138 Rev.
-October 2017
+07-19-00-0594 Rev.
+March 2019
