@@ -7,6 +7,6 @@ The structural formula is:
 
 The partition coefficient of rocuronium bromide in n-octanol/water is 0.5 at 20°C.
 
-Rocuronium bromide injection is supplied as a sterile, nonpyrogenic, isotonic solution that is clear, colorless to yellow/orange, for intravenous injection only.
+Rocuronium bromide Injection is supplied as a sterile, nonpyrogenic, isotonic solution that is clear, colorless to yellow/orange, for intravenous injection only.
 Each mL contains 10 mg rocuronium bromide and 2 mg sodium acetate.
 The aqueous solution is adjusted to isotonicity with sodium chloride and to a pH of 4 with acetic acid and/or sodium hydroxide.

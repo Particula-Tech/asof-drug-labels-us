@@ -5,6 +5,8 @@
   "inn": "rocuronium",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-426-01",
+    "63323-426-02",
     "63323-426-05",
     "63323-426-10"
   ],

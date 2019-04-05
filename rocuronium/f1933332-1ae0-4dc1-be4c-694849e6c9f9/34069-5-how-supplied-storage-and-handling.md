@@ -2,10 +2,10 @@
 
 Rocuronium Bromide Injection is available in the following:
 
-| Product No. | NDC No. | Strength | Vial size |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 402605 | 63323-426-05 | 10 mg per mL | 5 mL vials supplied in packages of ten. |
-| 402610 | 63323-426-10 | 10 mg per mL | 10 mL vials supplied in packages of ten. |
+| 402605 | NDC 63323-426-05 Unit of 10 | 50 mg per 5 mL (10 mg per mL) | NDC 63323-426-02 5 mL Multiple Dose Vial |
+| 402610 | NDC 63323-426-10 Unit of 10 | 100 mg per 10 mL (10 mg per mL) | NDC 63323-426-01 10 mL Multiple Dose Vial |
 
 The container closure is not made with natural rubber latex.
 
@@ -16,5 +16,5 @@ Use opened vials of Rocuronium Bromide Injection within 30 days.
 
 Safety and Handling:
 
-There is no specific work exposure limit for rocuronium bromide.
+There is no specific work exposure limit for Rocuronium Bromide Injection.
 In case of eye contact, flush with water for at least 10 minutes.
