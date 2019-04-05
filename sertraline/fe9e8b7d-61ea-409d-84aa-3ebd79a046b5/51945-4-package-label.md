@@ -120,13 +120,9 @@ Must Be Diluted Before Use (see side panel for instructions)
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0049-0050-01 New Label, Same Product.
+Pfizer NDC 0049-0050-01 New Label, Same Product.
 
-Pfizer
-
-Zoloft® (sertraline hydrochloride) oral solution
-
-equivalent to 20 mg/mL* of sertraline
+Zoloft® (sertraline hydrochloride) oral solution equivalent to 20 mg/mL* of sertraline
 
 Must Be Diluted Before Use (see side panel for instructions)
 
