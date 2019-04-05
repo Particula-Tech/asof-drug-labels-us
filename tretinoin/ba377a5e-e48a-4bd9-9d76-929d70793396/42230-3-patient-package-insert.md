@@ -8,7 +8,15 @@ THIS PRODUCT IS TO BE USED ONLY ACCORDING TO YOUR DOCTOR'S INSTRUCTIONS, AND IT 
 THE LONG-TERM SAFETY AND EFFECTIVENESS OF THIS PRODUCT IN OTHER DISORDERS HAVE NOT BEEN EVALUATED.
 IF YOU HAVE ANY QUESTIONS, BE SURE TO ASK YOUR DOCTOR.
 
-WARNINGS AND PRECAUTIONS
+WARNINGS
+
+TRETINOIN GELS ARE FLAMMABLE.
+AVOID FIRE, FLAME OR SMOKING DURING USE.
+Keep out of reach of children.
+Keep tube tightly closed.
+Do not expose to heat or store at temperatures above 120°F (49°C).
+
+PRECAUTIONS
 
 The effects of the sun on your skin.
 As you know, overexposure to natural sunlight or the artificial sunlight of a sunlamp can cause sunburn.
@@ -54,10 +62,6 @@ The medications you have used in the past might cause unnecessary redness or pee
 If you are pregnant, think you are pregnant or are nursing an infant: No studies have been conducted in humans to establish the safety of tretinoin in pregnant women.
 If you are pregnant, think you are pregnant, or are nursing a baby, consult your physician before using this medication.
 
-GELS ARE FLAMMABLE.
-Note: Keep away from heat and flame.
-Keep tube tightly closed.
-
 AND WHILE YOU'RE ON TRETINOIN THERAPY
 
 Use a mild, non-medicated soap.
@@ -83,7 +87,7 @@ To help you use the medication correctly, keep these simple instructions in mind
 - •Apply tretinoin once daily before bedtime, or as directed by your physician.
   Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying tretinoin every other night.
   First, wash with a mild soap and dry your skin gently.
-  WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
+  WAIT 20 TO 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
 - •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
   Too much may irritate the skin, waste medication and won't give faster or better results.
 - •Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
@@ -128,9 +132,12 @@ Once your acne is under control you should continue regular application of treti
 IF YOU HAVE QUESTIONS
 
 All questions of a medical nature should be taken up with your doctor.
+For more information about tretinoin, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-Revised: 1/2018 VAL:PL:TRETCG:R1
+Revised: 12/2018 VAL:PL:TRETCG:R2
+
+9631001

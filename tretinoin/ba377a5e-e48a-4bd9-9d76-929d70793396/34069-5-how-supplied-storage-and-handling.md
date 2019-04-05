@@ -26,4 +26,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
-Revised: 1/2018 VAL:TRETCG:R1
+Revised: 12/2018 VAL:TRETCG:R2
+
+9631001
