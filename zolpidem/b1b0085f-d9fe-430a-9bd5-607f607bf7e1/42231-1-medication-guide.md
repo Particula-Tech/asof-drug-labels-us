@@ -112,7 +112,6 @@ Zolpidem tartrate extended-release tablets may cause serious side effects includ
 - •severe allergic reactions.
   Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate extended-release tablets.
-- •falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate extended-release tablets.
 
@@ -177,4 +176,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.,
 SI-1526 Ljubljana, Slovenia for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-October 2018
+February 2019

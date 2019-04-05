@@ -17,6 +17,8 @@ Patients should be warned against driving and other activities requiring complet
 Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
 In order to minimize this risk a full night of sleep (7 to 8 hours) is recommended.
 
+Because zolpidem tartrate extended-release can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
+
 ## 5.2 Need to Evaluate for Comorbid Diagnoses
 
 Because sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient.
@@ -74,9 +76,4 @@ Avoid zolpidem tartrate extended-release use in patients with severe hepatic imp
 ## 5.8 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
-Monitor patients for tolerance, abuse, and dependence [seeDrug Abuse and Dependence (9.2), (9.3)].
-
-## 5.9 Severe Injuries
-
-Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
-Severe injuries such as hip fractures and intracranial hemorrhage have been reported.
+Monitor patients for tolerance, abuse, and dependence [seeDrug Abuse and Dependence (9.2),(9.3)].

@@ -7,11 +7,12 @@ Inform patients of the availability of a Medication Guide and instruct them to r
 Review the zolpidem tartrate extended-release tablets Medication Guide with every patient prior to initiation of treatment.
 Instruct patients or caregivers that zolpidem tartrate extended-release tablets should be taken only as prescribed.
 
-CNS Depressant Effects and Next-Day Impairment
+CNS-Depressant Effects and Next-Day Impairment
 
 Tell patients that zolpidem tartrate extended-release tablets can cause next-day impairment even when used as prescribed, and that this risk is increased if dosing instructions are not carefully followed.
 Caution patients against driving and other activities requiring complete mental alertness the day after use.
 Inform patients that impairment can be present despite feeling fully awake.
+Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients.
 
 Severe Anaphylactic and Anaphylactoid Reactions
 

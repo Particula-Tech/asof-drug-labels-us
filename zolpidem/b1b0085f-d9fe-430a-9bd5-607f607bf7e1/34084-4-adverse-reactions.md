@@ -21,7 +21,7 @@ Most Commonly Observed Adverse Reactions in Controlled Trials: During treatment 
 
 In the 6-month trial evaluating zolpidem tartrate extended-release 12.5 mg, the adverse reaction profile was consistent with that reported in short-term trials, except for a higher incidence of anxiety (6.3% for zolpidem tartrate extended-release versus 2.6% for placebo).
 
-Adverse Reactions Observed at an Incidence of ≥1% in Controlled Trials: The following tables enumerate treatment-emergent adverse reaction frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate extended-release in placebo-controlled trials.
+Adverse Reactions Observed at an Incidence of ≥1% in Controlled Trials: The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate extended-release in placebo-controlled trials.
 Events reported by investigators were classified utilizing the MedDRA dictionary for the purpose of establishing event frequencies.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
