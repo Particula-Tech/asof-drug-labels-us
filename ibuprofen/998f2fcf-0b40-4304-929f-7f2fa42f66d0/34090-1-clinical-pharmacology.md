@@ -92,3 +92,15 @@ In control groups treated with 10 mg/kg acetaminophen, fever reduction resembled
 
 In patients with primary dysmenorrhea, ibuprofen has been shown to reduce elevated levels of prostaglandin activity in the menstrual fluid and to reduce testing and active intrauterine pressure, as well as the frequency of uterine contractions.
 The probable mechanism of action is to inhibit prostaglandin synthesis rather than simply to provide analgesia.
+
+## Pharmacodynamics
+
+In a healthy volunteer study, ibuprofen 400 mg given once daily, administered 2 hours prior to immediate-release aspirin (81 mg) for 6 days, showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane B2 (TxB2) inhibition at 24 hours following the day-6 aspirin dose [53%].
+An interaction was still observed, but minimized, when ibuprofen 400 mg given once-daily was administered as early as 8 hours prior to the immediate-release aspirin dose [90.7%].
+However, there was no interaction with the antiplatelet activity of aspirin when ibuprofen 400 mg, given once daily, was administered 2 hours after (but not concomitantly, 15 min, or 30 min after) the immediate-release aspirin dose [99.2%].
+
+In another study, where immediate-release aspirin 81 mg was administered once daily with ibuprofen 400 mg given three times daily (1, 7, and 13 hours post-aspirin dose) for 10 consecutive days, the mean % serum thromboxane B2 (TxB2) inhibition suggested no interaction with the antiplatelet activity of aspirin [98.3%].
+However, there were individual subjects with serum TxB2 inhibition below 95%, with the lowest being 90.2%.
+
+When a similarly designed study was conducted with enteric-coated aspirin, where healthy subjects were administered enteric-coated aspirin 81 mg once daily for 6 days and ibuprofen 400 mg three times daily (2, 7 and 12 h post-aspirin dose) for 6 days, there was an interaction with the antiplatelet activity at 24 hours following the day-6 aspirin dose [67%].
+[See Precautions/Drug Interactions].

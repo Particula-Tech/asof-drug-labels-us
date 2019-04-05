@@ -183,6 +183,12 @@ This interaction should be given consideration in patients taking NSAIDs concomi
 
 ### Aspirin
 
+Pharmacodynamic studies have demonstrated interference with the antiplatelet activity of aspirin when ibuprofen 400 mg, given three times daily, is administered with enteric-coated low-dose aspirin.
+The interaction exists even following a once-daily regimen of ibuprofen 400 mg, particularly when ibuprofen is dosed prior to aspirin.
+The interaction is alleviated if immediate-release low-dose aspirin is dosed at least 2 hours prior to a once-daily regimen of ibuprofen; however, this finding cannot be extended to enteric-coated low-dose aspirin [see Clinical Pharmacology/Pharmacodynamics].
+
+Because there may be an increased risk of cardiovascular events due to the interference of ibuprofen with the antiplatelet effect of aspirin, for patients taking low-dose aspirin for cardioprotection who require analgesics, consider use of an NSAID that does not interfere with the antiplatelet effect of aspirin, or non-NSAID analgesics, where appropriate.
+
 As with other NSAIDs, concomitant administration of ibuprofen and aspirin is not generally recommended because of the potential of increased adverse effects.
 
 ### Diuretics
