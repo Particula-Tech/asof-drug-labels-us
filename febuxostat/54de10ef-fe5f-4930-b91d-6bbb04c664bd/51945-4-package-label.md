@@ -6,7 +6,7 @@ Uloric (febuxostat) tablets
 
 40 mg
 
-Rx only
+Dispense the accompanying Medication Guide to each patient.
 
 # PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label
 
@@ -16,4 +16,4 @@ Uloric (febuxostat) tablets
 
 80 mg
 
-Rx only
+Dispense the accompanying Medication Guide to each patient.
