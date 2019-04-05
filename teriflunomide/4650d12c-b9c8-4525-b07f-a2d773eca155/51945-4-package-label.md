@@ -1,31 +1,27 @@
-PRINCIPAL DISPLAY PANEL - 14 mg Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 7 mg Tablet Bottle Carton
 
-NDC 58468-0210-2
+NDC 58468-0211-4
 
-Aubagio® (teriflunomide) Tablets
-
-14 mg per Tablet
+Aubagio® (teriflunomide) Tablets 7 mg
 
 Rx only
 
-Dispense with enclosed Medication Guide
+Dispense with Medication Guide
 
-28 tablets
+30 Tablets
 
-genzyme A SANOFI COMPANY
+SANOFI GENZYME
 
-PRINCIPAL DISPLAY PANEL - 7 mg Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 14 mg Tablet Bottle Carton
 
-NDC 58468-0211-1
+NDC 58468-0210-4
 
-Aubagio® (teriflunomide) Tablets
-
-7 mg per Tablet
+Aubagio® (teriflunomide) Tablets 14 mg
 
 Rx only
 
-Dispense with enclosed Medication Guide
+Dispense with Medication Guide
 
-28 tablets
+30 Tablets
 
-genzyme A SANOFI COMPANY
+SANOFI GENZYME

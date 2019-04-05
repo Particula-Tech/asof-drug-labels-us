@@ -3,7 +3,7 @@
 The recommended dose of AUBAGIO is 7 mg or 14 mg orally once daily.
 AUBAGIO can be taken with or without food.
 
-Monitoring to assess safety
+Monitoring to Assess Safety
 
 - Obtain transaminase and bilirubin levels within 6 months before initiation of AUBAGIO therapy.
   Monitor ALT levels at least monthly for six months after starting AUBAGIO [see Warnings and Precautions (5.1)].

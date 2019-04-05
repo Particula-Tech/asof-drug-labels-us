@@ -7,7 +7,7 @@ The exact mechanism by which teriflunomide exerts its therapeutic effect in mult
 
 ## 12.2 Pharmacodynamics
 
-Potential to prolong the QT interval
+Potential to Prolong the QT Interval
 
 In a placebo controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).
 
@@ -48,7 +48,7 @@ Drug Interaction Studies
 
 Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase enzymes.
 
-The Potential Effect of AUBAGIO on Other Drugs
+The potential effect of AUBAGIO on other drugs
 
 - CYP2C8 Substrates There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively) following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
   The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7)].
@@ -58,14 +58,25 @@ The Potential Effect of AUBAGIO on Other Drugs
 - Oral Contraceptives There was an increase in mean ethinylestradiol Cmax and AUC0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7)].
 - Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).
 
-The Potential Effect of Other Drugs on AUBAGIO
+The potential effect of other drugs on AUBAGIO
 
 - Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.
 
-Specific populations
+Specific Populations
 
-- Hepatic Impairment Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide.
-  The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
-- Renal Impairment Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7)].
-- Gender In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.
-- Race Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.
+Hepatic impairment
+
+Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide.
+The pharmacokinetics of teriflunomide in severe hepatic impairment has not been evaluated [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
+
+Renal impairment
+
+Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7)].
+
+Gender
+
+In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.
+
+Race
+
+Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.

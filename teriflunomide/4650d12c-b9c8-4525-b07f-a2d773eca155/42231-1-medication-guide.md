@@ -72,7 +72,7 @@ Before you take AUBAGIO, tell your doctor if you:
 - are breastfeeding or plan to breastfeed.
   It is not known if AUBAGIO passes into your breast milk.
   You and your doctor should decide if you will take AUBAGIO or breastfeed.
-  You should not do both..
+  You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Using AUBAGIO and other medicines may affect each other causing serious side effects.
@@ -159,7 +159,7 @@ What are the ingredients in AUBAGIO?
 
 Active ingredient: teriflunomide
 
-Inactive ingredients in 7 mg and 14 mg tablets: lactose monohydrate, corn starch, hydroxypropylcellulose, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, titanium dioxide, talc, polyethylene glycol and indigo carmine aluminum lake.
+Inactive ingredients in 7 mg and 14 mg tablets: lactose monohydrate, corn starch, hydroxypropyl cellulose, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, titanium dioxide, talc, polyethylene glycol and indigo carmine aluminum lake.
 
 In addition, the 7 mg tablets also contain iron oxide yellow.
 

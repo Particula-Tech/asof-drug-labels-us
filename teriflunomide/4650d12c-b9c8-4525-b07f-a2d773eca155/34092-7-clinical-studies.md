@@ -25,8 +25,7 @@ The effect of AUBAGIO on several magnetic resonance imaging (MRI) variables, inc
 The change in total lesion volume from baseline was significantly lower in the AUBAGIO 7 mg and AUBAGIO 14 mg groups than in the placebo group.
 Patients in both AUBAGIO groups had significantly fewer gadolinium-enhancing lesions per T1-weighted scan than those in the placebo group (see Table 2).
 
-Table 2.
-Clinical and MRI Results of Study 1
+Table 2: Clinical and MRI Results of Study 1
 
 |  | AUBAGIO 7 mg N=365 | AUBAGIO 14 mg N=358 | Placebo N=363 |
 | --- | --- | --- | --- |
@@ -37,10 +36,10 @@ Clinical and MRI Results of Study 1
 | Percent disability progression at week 108 | 21.7% (p = 0.084) | 20.2% (p = 0.028) | 27.3% |
 | Hazard ratio | 0.76 | 0.70 |  |
 | MRI Endpoints |  |  |  |
-| Median change from baseline in Total lesion volumeTotal lesion volume: sum of T2 and hypointense T1 lesion volume in mL (mL) at week 108 | 0.755 (p= 0.0317)p-values based on cubic root transformed data for total lesion volume | 0.345 (p = 0.0003) | 1.127 |
+| Median change from baseline in Total lesion volumeTotal lesion volume: sum of T2 and hypointense T1 lesion volume in mL (mL) at week 108 | 0.755 (p = 0.0317)p-values based on cubic root transformed data for total lesion volume | 0.345 (p = 0.0003) | 1.127 |
 | Mean number of Gd-enhancing T1-lesions per scan | 0.570 (p <0.0001) | 0.261 (p <0.0001) | 1.331 |
 
-| Figure 1. Kaplan-Meier plot of time to disability progression sustained for 12 weeks (Study 1) |
+| Figure 1: Kaplan-Meier Plot of Time to Disability Progression Sustained for 12 Weeks (Study 1) |
 | --- |
 
 Study 2 was a double-blind, placebo-controlled clinical trial that evaluated once daily doses of AUBAGIO 7 mg and AUBAGIO 14 mg for up to 40 months in patients with relapsing forms of multiple sclerosis.
@@ -60,8 +59,7 @@ There was a consistent reduction of the ARR noted in subgroups defined by sex, a
 
 There was a statistically significant reduction in the relative risk of disability progression at week 108 sustained for 12 weeks (as measured by at least a 1-point increase from baseline EDSS ≤5.5 or a 0.5 point increase for those with a baseline EDSS >5.5) in the AUBAGIO 14 mg group compared to placebo (See Table 3 and Figure 2).
 
-Table 3.
-Clinical Results of Study 2
+Table 3: Clinical Results of Study 2
 
 |  | AUBAGIO 7 mg N=407 | AUBAGIO 14 mg N=370 | Placebo N=388 |
 | --- | --- | --- | --- |
@@ -72,7 +70,7 @@ Clinical Results of Study 2
 | Percent disability progression at week 108 | 21.1% (p = 0.762) | 15.8% (p = 0.044) | 19.7% |
 | Hazard ratio | 0.96 | 0.69 |  |
 
-| Figure 2. Kaplan-Meier plot of time to disability progression sustained for 12 weeks (Study 2) |
+| Figure 2: Kaplan-Meier Plot of Time to Disability Progression Sustained for 12 Weeks (Study 2) |
 | --- |
 
 Study 3 was a double-blind, placebo-controlled clinical trial that evaluated once daily doses of AUBAGIO 7 mg and AUBAGIO 14 mg for up to 108 weeks in patients with relapsing multiple sclerosis.
@@ -83,7 +81,7 @@ The proportion of patients free of relapse was greater in the AUBAGIO 7 mg (70.5
 
 The effect of AUBAGIO on MRI activity was also demonstrated in Study 4, a randomized, double-blind, placebo-controlled clinical trial of multiple sclerosis patients with relapse.
 In Study 4, MRI was to be performed at baseline, 6 weeks, 12 weeks, 18 weeks, 24 weeks, 30 weeks, and 36 weeks after treatment initiation.
-A total of 179 patients were randomized to AUBAGIO 7 mg (n=61), AUBAGIO 14 mg (n=57), or placebo (n= 61).
+A total of 179 patients were randomized to AUBAGIO 7 mg (n=61), AUBAGIO 14 mg (n=57), or placebo (n=61).
 Baseline demographics were consistent across treatment groups.
 The primary endpoint was the average number of unique active lesions/MRI scan during treatment.
 The mean number of unique active lesions per brain MRI scan during the 36-week treatment period was lower in patients treated with AUBAGIO 7 mg (1.06) and AUBAGIO 14 mg (0.98) as compared to placebo (2.69), the difference being statistically significant for both (p=0.0234 and p=0.0052, respectively).

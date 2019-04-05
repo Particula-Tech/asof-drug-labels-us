@@ -17,7 +17,7 @@ Addition of uridine (to supplement the pyrimidine pool) reduced the magnitude of
 4-Trifluoromethylaniline (4-TFMA), a minor metabolite of teriflunomide, was positive in the in vitro bacterial reverse mutation (Ames) assay, the in vitro HPRT assay, and the in vitro chromosomal aberration assay in mammalian cells.
 4-TFMA was negative in in vivo micronucleus and chromosomal aberration assays.
 
-Impairment of fertility
+Impairment of Fertility
 
 Oral administration of teriflunomide (0, 1, 3, 10 mg/kg/day) to male rats prior to and during mating (to untreated females) resulted in no adverse effects on fertility; however, reduced epididymal sperm count was observed at the mid and high doses tested.
 The no-effect dose for reproductive toxicity in male rats (1 mg/kg) is less than the MRHD on a mg/m2 basis.

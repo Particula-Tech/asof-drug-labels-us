@@ -1,3 +1,3 @@
-Genzyme Corporation 500 Kendall Street Cambridge, MA 02142 A SANOFI COMPANY
+Genzyme Corporation Cambridge, MA 02142 A SANOFI COMPANY
 
-November 2016
+March 2019

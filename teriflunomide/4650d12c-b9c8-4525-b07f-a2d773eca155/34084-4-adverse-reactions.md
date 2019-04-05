@@ -20,8 +20,7 @@ Table 1 lists adverse reactions in placebo-controlled trials with rates that wer
 The most common were headache, an increase in ALT, diarrhea, alopecia, and nausea.
 The adverse reaction most commonly associated with discontinuation was an increase in ALT (3.3%, 2.6%, and 2.3% of all patients in the AUBAGIO 7 mg, AUBAGIO 14 mg, and placebo treatment arms, respectively).
 
-Table 1.
-Adverse Reactions in Pooled Placebo-Controlled Studies in Patients with Relapsing Forms of Multiple Sclerosis
+Table 1: Adverse Reactions in Pooled Placebo-Controlled Studies in Patients with Relapsing Forms of Multiple Sclerosis
 
 | Adverse Reaction | AUBAGIO 7 mg (N=1045) | AUBAGIO 14 mg (N=1002) | Placebo (N=997) |
 | --- | --- | --- | --- |

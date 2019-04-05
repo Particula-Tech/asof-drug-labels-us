@@ -57,14 +57,14 @@ Bone Marrow Effects
 
 A mean decrease compared to baseline in white blood cell (WBC) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials with 7 mg and 14 mg of AUBAGIO.
 The decrease in mean WBC count occurred during the first 6 weeks and WBC count remained low during treatment.
-In placebo-controlled studies, neutrophil count <1.5×109/L was observed in 12% and 16% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8× 109/L was observed in 10% and 12% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
+In placebo-controlled studies, neutrophil count <1.5 × 109/L was observed in 12% and 16% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8 × 109/L was observed in 10% and 12% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
 No cases of serious pancytopenia were reported in premarketing clinical trials of AUBAGIO but rare cases of pancytopenia and agranulocytosis have been reported in the postmarketing setting with leflunomide.
 A similar risk would be expected for AUBAGIO [see Clinical Pharmacology (12.3)].
 Cases of thrombocytopenia with AUBAGIO, including rare cases with platelet counts less than 50,000/mm3, have been reported in the postmarketing setting.
 Obtain a complete blood cell count (CBC) within 6 months before the initiation of treatment with AUBAGIO.
 Further monitoring should be based on signs and symptoms suggestive of bone marrow suppression.
 
-Risk of Infection / Tuberculosis Screening
+Risk of Infection/Tuberculosis Screening
 
 Patients with active acute or chronic infections should not start treatment until the infection(s) is resolved.
 If a patient develops a serious infection consider suspending treatment with AUBAGIO and using an accelerated elimination procedure.
@@ -144,7 +144,7 @@ If discontinuation of the drug is necessary, consider initiation of an accelerat
 
 ## 5.9 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
 
-Coadministration with antineoplastic, or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
+Coadministration with antineoplastic or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
 Safety studies in which AUBAGIO was concomitantly administered with other immune modulating therapies for up to one year (interferon beta, glatiramer acetate) did not reveal any specific safety concerns.
 The long term safety of these combinations in the treatment of multiple sclerosis has not been established.
 

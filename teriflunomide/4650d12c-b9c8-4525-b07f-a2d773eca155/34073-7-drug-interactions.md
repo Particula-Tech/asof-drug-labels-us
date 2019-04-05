@@ -1,33 +1,33 @@
 # 7 DRUG INTERACTIONS
 
-Effect of AUBAGIO on CYP2C8 substrates
+Effect of AUBAGIO on CYP2C8 Substrates
 
 Teriflunomide is an inhibitor of CYP2C8 in vivo.
 In patients taking AUBAGIO, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased.
 Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required [see Clinical Pharmacology (12.3)].
 
-Effect of AUBAGIO on warfarin
+Effect of AUBAGIO on Warfarin
 
 Coadministration of AUBAGIO with warfarin requires close monitoring of the international normalized ratio (INR) because AUBAGIO may decrease peak INR by approximately 25%.
 
-Effect of AUBAGIO on oral contraceptives
+Effect of AUBAGIO on Oral Contraceptives
 
 AUBAGIO may increase the systemic exposures of ethinylestradiol and levonorgestrel.
 Consideration should be given to the type or dose of contraceptives used in combination with AUBAGIO [see Clinical Pharmacology (12.3)].
 
-Effect of AUBAGIO on CYP1A2 substrates
+Effect of AUBAGIO on CYP1A2 Substrates
 
 Teriflunomide may be a weak inducer of CYP1A2 in vivo.
 In patients taking AUBAGIO, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced.
 Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required [see Clinical Pharmacology (12.3)].
 
-Effect of AUBAGIO on organic anion transporter 3 (OAT3) substrates
+Effect of AUBAGIO on Organic Anion Transporter 3 (OAT3) Substrates
 
 Teriflunomide inhibits the activity of OAT3 in vivo.
 In patients taking AUBAGIO, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased.
 Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required [see Clinical Pharmacology (12.3)].
 
-Effect of AUBAGIO on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates
+Effect of AUBAGIO on BCRP and Organic Anion Transporting Polypeptide B1 and B3 (OATP1B1/1B3) Substrates
 
 Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo.
 For a patient taking AUBAGIO, the dose of rosuvastatin should not exceed 10 mg once daily.
