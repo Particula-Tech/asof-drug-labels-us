@@ -7,11 +7,12 @@ Inform patients of the availability of a Medication Guide and instruct them to r
 Review the zolpidem tartrate tablets Medication Guide with every patient prior to initiation of treatment.
 Instruct patients or caregivers that zolpidem tartrate tablets should be taken only as prescribed.
 
-CNS Depressant Effects and Next-Day Impairment
+CNS-Depressant Effects and Next-Day Impairment
 
 Tell patients that zolpidem tartrate tablets have the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
 Tell patients to wait for at least 8 hours after dosing before driving or engaging in other activities requiring full mental alertness.
 Inform patients that impairment can be present despite feeling fully awake.
+Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients.
 
 Severe Anaphylactic and Anaphylactoid Reactions
 

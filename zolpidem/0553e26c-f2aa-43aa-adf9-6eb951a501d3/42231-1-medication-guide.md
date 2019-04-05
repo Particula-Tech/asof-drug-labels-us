@@ -56,12 +56,12 @@ Before starting zolpidem tartrate tablets, tell your healthcare provider about a
 - •have kidney or liver disease
 - •have a lung disease or breathing problems
 - •are pregnant, planning to become pregnant.
-  Talk to your healthcare provider about the risk to your unborn baby if you take zolpidem tartrate.
-- •Using zolpidem tartrate in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
-  Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if zolpidem tartrate is taken late in pregnancy.
+  Talk to your healthcare provider about the risk to your unborn baby if you take zolpidem tartrate tablets.
+- •Using zolpidem tartrate tablets in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
+  Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if zolpidem tartrate tablets are taken late in pregnancy.
 - •are breastfeeding or plan to breastfeed.
   Zolpidem passes into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate.
+  Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate tablets.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
@@ -96,7 +96,6 @@ Zolpidem tartrate tablets may cause serious side effects, including:
 - •severe allergic reactions.
   Symptoms include swelling of the tongue or throat, and trouble breathing.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate tablets.
-- •falls, which may lead to severe injuries.
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate tablets.
 
@@ -155,7 +154,7 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.
 
-SI-1526 Ljubljana, Slovenia, for Sandoz Inc., Princeton, NJ 08540
+SI-1526 Ljubljana, Slovenia for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-October 2018
+February 2019

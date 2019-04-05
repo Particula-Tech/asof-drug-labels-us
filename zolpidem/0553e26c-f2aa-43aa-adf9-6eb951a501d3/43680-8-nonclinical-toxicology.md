@@ -7,7 +7,7 @@ Carcinogenesis
 Zolpidem was administered to mice and rats for 2 years at oral doses of 4, 18, and 80 mg base/kg/day.
 In mice, these doses are approximately 2.5, 10, and 50 times the MRHD of 10 mg/day (8 mg zolpidem base) based on mg/m2 body surface area and in rats, these doses are approximately 5, 20, and 100 times the MRHD based on mg/m2 body surface area.
 No evidence of carcinogenic potential was observed in mice.
-In rats, renal tumors (lipoma, liposarcoma) were seen at the mid- and high doses.
+In rats, renal tumors (lipoma, liposarcoma) were seen at the mid and high doses.
 
 Mutagenesis
 

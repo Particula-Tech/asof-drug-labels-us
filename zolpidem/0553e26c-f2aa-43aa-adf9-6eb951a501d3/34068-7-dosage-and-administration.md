@@ -22,7 +22,7 @@ Avoid zolpidem tartrate tablets use in patients with severe hepatic impairment a
 
 ## 2.3 Use with CNS Depressants
 
-Dosage adjustment may be necessary when zolpidem tartrate tablets are combined with other CNS depressant drugs because of the potentially additive effects [see Warnings and Precautions (5.1)].
+Dosage adjustment may be necessary when zolpidem tartrate tablets are combined with other CNS-depressant drugs because of the potentially additive effects [seeWarnings and Precautions (5.1)].
 
 ## 2.4 Administration
 

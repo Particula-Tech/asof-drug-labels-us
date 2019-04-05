@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - •CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
 - •Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
 - •Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
-- •Withdrawal effects [see Warnings And Precautions (5.8)]
+- •Withdrawal effects [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -29,7 +29,7 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Table 1: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of Patients Reporting)
+Table 1: Incidences of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of Patients Reporting)
 
 | Body System Adverse Event* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
@@ -200,7 +200,7 @@ Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, p
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of zolpidem.
+The following adverse reactions have been identified during postapproval use of zolpidem.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2x ULN, alkaline phosphatase ≥2x ULN, transaminase ≥5x ULN).
