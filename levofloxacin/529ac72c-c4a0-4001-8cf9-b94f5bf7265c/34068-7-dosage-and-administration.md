@@ -100,6 +100,4 @@ Levofloxacin tablets should be administered at least two hours before or two hou
 
 Levofloxacin tablets can be administered without regard to food.
 Hydration for Patients Receiving Levofloxacin Tablets Adequate hydration of patients receiving levofloxacin tablets should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and
-
-Patient Counseling Information (17)].
+Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17)].

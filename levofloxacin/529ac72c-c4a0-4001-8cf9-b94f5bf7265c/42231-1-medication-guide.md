@@ -148,7 +148,7 @@ Especially tell your healthcare provider if you take:
   Take levofloxacin tablets either 2 hours before or 2 hours after taking these medicines or supplements:
   - an antacid, multivitamin, or other medicines or supplements that have magnesium, aluminum, iron, or zinc
   - sucralfate (Carafate®)
-  - didanosine (Videx®,Videx® EC)
+  - didanosine (Videx®, Videx® EC)
 - a blood thinner (warfarin, Coumadin, Jantoven).
 - an oral anti-diabetes medicine or insulin.
 - an NSAID (Non-Steroidal Anti-Inflammatory Drug).
@@ -242,8 +242,7 @@ These can be signs of a serious reaction to levofloxacin tablets (a liver proble
 
 - Aortic aneurysm and dissection
 
-People who take fluoroquinolone medicines, including levofloxacin tablets, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
-Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
 Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 
 - Intestine infection (Pseudomembranous colitis)
@@ -317,4 +316,4 @@ What are the ingredients in levofloxacin tablets?
 Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, and titanium dioxide.
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owners.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2019
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2019

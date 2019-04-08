@@ -51,22 +51,30 @@ Table 10: Bacteriological Eradication Rates Across 2 Community Acquired Pneumoni
 | H. parainfluenzae | 19 | 95 |
 | K. pneumoniae | 10 | 100 |
 
-Community-Acquired Pneumonia Due to Multi-Drug Resistant Streptococcus pneumoniae Levofloxacin was effective for the treatment of community-acquired pneumonia caused by multi-drug resistant Streptococcus pneumoniae (MDRSP).
+Community-Acquired Pneumonia Due to Multi-Drug Resistant Streptococcus pneumoniae
+
+Levofloxacin was effective for the treatment of community-acquired pneumonia caused by multi-drug resistant Streptococcus pneumoniae (MDRSP).
 MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins (e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole).
 Of 40 microbiologically evaluable patients with MDRSP isolates, 38 patients (95%) achieved clinical and bacteriologic success at post-therapy.
 The clinical and bacterial success rates are shown in Table 11.
 
 Table 11: Clinical and Bacterial Success Rates for Levofloxacin-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy)
 
-| n/N† | % | n/N‡ | % |  |
-| --- | --- | --- | --- | --- |
 | Screening Susceptibility | Clinical Success |  | Bacteriological Success* |  |
+| --- | --- | --- | --- | --- |
+| n/N† | % | n/N‡ | % |  |
 | Penicillin-resistant | 16/17 | 94.1 | 16/17 | 94.1 |
 | 2nd generation Cephalosporin resistant | 31/32 | 96.9 | 31/32 | 96.9 |
 | Macrolide-resistant | 28/29 | 96.6 | 28/29 | 96.6 |
-| Trimethoprim/Sulfamethoxazole resistant | 17/19 | 89.5 | 17/19 | 89.5 |
+| Trimethoprim/ Sulfamethoxazole resistant | 17/19 | 89.5 | 17/19 | 89.5 |
 | Tetracycline-resistant | 12/12 | 100 | 12/12 | 100 |
-| * One patient had a respiratory isolate that was resistant to tetracycline, cefuroxime, macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was intermediate to penicillin and cefuroxime and resistant to the other classes. The patient is included in the database based on respiratory isolate. † n = the number of microbiologically evaluable patients who were clinical successes; N = number of microbiologically evaluable patients in the designated resistance group. ‡ n = the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N = number of MDRSP isolates in a designated resistance group. |  |  |  |  |
+
+* One patient had a respiratory isolate that was resistant to tetracycline, cefuroxime, macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was intermediate to penicillin and cefuroxime and resistant to the other classes.
+The patient is included in the database based on respiratory isolate.
+
+† n = the number of microbiologically evaluable patients who were clinical successes; N = number of microbiologically evaluable patients in the designated resistance group.
+
+‡ n = the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N = number of MDRSP isolates in a designated resistance group.
 
 Not all isolates were resistant to all antimicrobial classes tested.
 Success and eradication rates are summarized in Table 12.

@@ -69,7 +69,13 @@ Some reactions have been accompanied by cardiovascular collapse, hypotension/sho
 Levofloxacin should be discontinued immediately at the first appearance of a skin rash or any other sign of hypersensitivity.
 Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
-## 5.8 Hepatotoxicity
+## 5.8 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve levofloxacin for use only when there are no alternative antibacterial treatments available.
+
+## 5.9 Hepatotoxicity
 
 Post-marketing reports of severe hepatotoxicity (including acute hepatitis and fatal events) have been received for patients treated with levofloxacin.
 No evidence of serious drug-associated hepatotoxicity was detected in clinical trials of over 7,000 patients.
@@ -77,15 +83,6 @@ Severe hepatotoxicity generally occurred within 14 days of initiation of therapy
 Most cases of severe hepatotoxicity were not associated with hypersensitivity [see Warnings and Precautions (5.6)].
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
 Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6) and Patient Counseling Information (17)].
-
-## 5.9 Risk of Aortic Aneurysm and Dissection
-
-Fluoroquinolones, including levofloxacin, have been associated with aortic aneurysm and dissection.
-Findings from epidemiologic studies show a consistently increased risk of hospitalization for aortic aneurysm or dissection within two months following use of a fluoroquinolone antibacterial drug.
-The annual estimated background risk of aortic aneurysm is as high as approximately 300 aortic aneurysm events per 100,000 persons at the highest risk (e.g., age greater than 85 years).
-The evidence shows the potential for a 2-fold increased risk over the background risk following fluoroquinolone exposure and was based on a small number of cases, mostly in older patients.
-The cause for the risk of aortic aneurysm or dissection has not been identified, but the available data suggest that use of fluoroquinolones may contribute in the short term to aneurysm progression.
-In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve levofloxacin for use only when there are no alternative antibacterial treatments available.
 
 ## 5.10 Clostridium difficile-Associated Diarrhea
 

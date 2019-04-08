@@ -71,7 +71,7 @@ However, the incidence of musculoskeletal disorders was calculated using all rep
 Arthralgia was the most frequently occurring musculoskeletal disorder in both treatment groups.
 Most of the musculoskeletal disorders in both groups involved multiple weight-bearing joints.
 Disorders were moderate in 8/46 (17%) children and mild in 35/46 (76%) levofloxacin-treated pediatric patients and most were treated with analgesics.
-The median time to resolution was 7 days for levofloxacin-treated pediatric patients and 9 for non-fluoroquinolone-treated children(approximately 80% resolved within 2 months in both groups).
+The median time to resolution was 7 days for levofloxacin-treated pediatric patients and 9 for non-fluoroquinolone-treated children (approximately 80% resolved within 2 months in both groups).
 No pediatric patient had a severe or serious disorder and all musculoskeletal disorders resolved without sequelae.
 
 Vomiting and diarrhea were the most frequently reported adverse reactions, occurring in similar frequency in the levofloxacin-treated and non-fluoroquinolone-treated pediatric patients.
@@ -92,13 +92,12 @@ No overall differences in safety or effectiveness were observed between these su
 
 Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-marketing in association with levofloxacin.
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.8)].
-Elderly patients are at greater risk for aortic aneurysm and dissection.
-A two-fold increased risk of aortic aneurysm and dissection has been reported following use of a fluoroquinolone, including levofloxacin [see Warnings and Precautions (5.9)].
+Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.9)].
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.8)].
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using levofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.11)].
-
 The pharmacokinetic properties of levofloxacin in younger adults and elderly adults do not differ significantly when creatinine clearance is taken into consideration.
 However, since the drug is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].

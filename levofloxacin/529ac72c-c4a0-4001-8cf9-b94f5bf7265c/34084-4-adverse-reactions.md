@@ -11,8 +11,8 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Hepatotoxicity [see Warnings and Precautions (5.8)]
-- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.8)]
+- Hepatotoxicity [see Warnings and Precautions (5.9)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
 - Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
 - Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
@@ -100,7 +100,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.11)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.6)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.6), (5.8)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.6), (5.9)] |
 | Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson syndrome toxic epidermal necrolysis Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions erythema multiforme [see Warnings and Precautions (5.6)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.14)] leukocytoclastic vasculitis |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.2)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.6)] |

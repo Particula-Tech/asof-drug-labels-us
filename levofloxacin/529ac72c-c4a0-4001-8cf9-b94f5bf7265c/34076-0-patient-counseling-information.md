@@ -28,8 +28,7 @@ Inform patients of the following serious adverse reactions that have been associ
 - Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking levofloxacin.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 
-- Aortic aneurysm and dissection: Inform patients who have or are at risk for an aortic aneurysm that fluoroquinolones, including levofloxacin, have been associated with a 2-fold increased risk of hospitalization for aortic aneurysm and dissection.
-  Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
+- Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -60,4 +59,4 @@ Patients should be informed that concurrent administration of warfarin and levof
 Patients should notify their physician if they are taking warfarin, be monitored for evidence of bleeding, and also have their anticoagulation tests closely monitored while taking warfarin concomitantly.
 Plague and Anthrax Studies Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2019 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2019 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
