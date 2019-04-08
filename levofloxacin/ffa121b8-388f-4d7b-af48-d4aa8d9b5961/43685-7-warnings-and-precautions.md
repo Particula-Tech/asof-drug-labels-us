@@ -87,11 +87,8 @@ Levofloxacin should be discontinued immediately if the patient develops signs an
 
 ## 5.9 Risk of Aortic Aneurysm and Dissection
 
-Fluoroquinolones, including levofloxacin, have been associated with aortic aneurysm and dissection.
-Findings from epidemiologic studies show a consistently increased risk of hospitalization for aortic aneurysm or dissection within two months following use of a fluoroquinolone antibacterial drug.
-The annual estimated background risk of aortic aneurysm is as high as approximately 300 aortic aneurysm events per 100,000 persons at the highest risk (e.g., age greater than 85 years).
-The evidence shows the potential for a 2-fold increased risk over the background risk following fluoroquinolone exposure and was based on a small number of cases, mostly in older patients.
-The cause for the risk of aortic aneurysm or dissection has not been identified, but the available data suggest that use of fluoroquinolones may contribute in the short term to aneurysm progression.
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
 In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve levofloxacin for use only when there are no alternative antibacterial treatments available.
 
 ## 5.10 Clostridium difficile-Associated Diarrhea
