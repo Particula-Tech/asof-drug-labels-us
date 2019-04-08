@@ -126,4 +126,4 @@ For more information, go to www.OSMOLEX-ER.com or call 1-877-482-3788.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Issued: 2/2018
+Issued: 3/2019
