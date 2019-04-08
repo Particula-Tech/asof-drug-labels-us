@@ -42,7 +42,7 @@ Metabolism
 
 The extent of metabolism of levocetirizine in humans is less than 14% of the dose and therefore differences resulting from genetic polymorphism or concomitant intake of hepatic drug metabolizing enzyme inhibitors are expected to be negligible.
 Metabolic pathways include aromatic oxidation, N- and O-dealkylation, and taurine conjugation.
-Dealkylation pathways are primarily mediated by CYP 3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
+Dealkylation pathways are primarily mediated by CYP3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
 
 Elimination
 
