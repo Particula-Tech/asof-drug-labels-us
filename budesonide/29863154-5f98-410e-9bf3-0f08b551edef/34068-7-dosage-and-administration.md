@@ -3,9 +3,9 @@
 ## 2.1 Administration Instructions
 
 - Take budesonide capsules (enteric coated) once daily in the morning.
-- Swallow budesonide capsules (enteric coated) whole.
+- Swallow budesonide extended-release capsules (enteric coated) whole.
   Do not chew or crush.
-- Avoid consumption of grapefruit juice for the duration of budesonide capsules (enteric coated) therapy [see Drug Interactions(7.1)].
+- Avoid consumption of grapefruit juice for the duration of budesonide capsules (enteric coated) therapy [see Drug Interactions (7.1)].
 
 ## 2.2 Treatment of Mild to Moderate Active Crohn’s Disease
 

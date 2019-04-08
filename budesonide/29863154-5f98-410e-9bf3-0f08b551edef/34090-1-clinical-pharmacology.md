@@ -27,16 +27,19 @@ Mean oral bioavailability of budesonide ranged from 9% to 21% both in patients a
 Budesonide pharmacokinetics were dose-proportional following repeated administration in the dose range of 3 to 15 mg.
 No accumulation of budesonide was observed following repeated dosing.
 
-Following oral administration of 9 mg budesonide capsules (enteric coated) for five days in healthy subjects, the mean peak plasma concentration and the steady state area under the plasma concentration time curve for budesonide were 5.3 ± 1.8 nmol/L and 37.0 ±14.6 nmol•hr/L, respectively.
+Following oral administration of a single dose of 9 mg budesonide capsules (enteric coated) in healthy subjects under fasting condition, the mean peak plasma concentration (Cmax) and the area under the plasma concentration time curve (AUC) for budesonide were 1.50 ± 0.79 ng/mL and 14.13 ± 7.33 ng•hr/mL, respectively.
+The time to peak concentration (Tmax) varied between 2 and 8 hours with a median value of 3.5 hours.
+In a different study, following oral administration of 9 mg budesonide capsules (enteric coated) for five days in healthy subjects, the mean Cmax and the steady state AUC for budesonide were 2.28 ± 0.77 ng/mL and 15.93 ± 6.29 ng•hr/mL, respectively.
 
-Following administration of 9 mg budesonide capsules (enteric coated) once daily in patients with active Crohn's disease, the mean peak plasma concentration and AUC were 4.0 ±2.1 nmol/L and 35.0 ±19.8 nmol•h/L, respectively.
+Following administration of 9 mg budesonide capsules (enteric coated) once daily in patients with active Crohn's disease, the mean Cmax and AUC were 1.72 ± 0.90 ng/mL and 15.07 ± 8.52 ng•hr/mL, respectively.
 
-Concomitant administration of a high-fat meal delayed the time to peak concentration of budesonide from budesonide capsules (enteric coated) by 2.3 hours but did not significantly affect the AUC in healthy subjects.
+Concomitant administration of a high-fat meal delayed the Tmax of budesonide from budesonide capsules (enteric coated) by 2.3 hours but did not significantly affect the AUC in healthy subjects.
+The Cmax and AUC to budesonide was similar when single dose of budesonide capsules (enteric coated) (9 mg) were administered after opening capsule and sprinkling granules on applesauce versus as intact capsules in the fasted state (N=24) in healthy subjects.
 
 Distribution
 
 The mean volume of distribution (Vss) of budesonide varied between 2.2 and 3.9 L/kg in healthy subjects and in patients.
-Plasma protein binding was estimated to be 85% to 90% in the concentration range 1 to 230 nmol/L, independent of gender.
+Plasma protein binding was estimated to be 85% to 90% in the concentration range 0.43 to 99.02 ng/mL, independent of gender.
 The erythrocyte/plasma partition ratio at clinically relevant concentrations was about 0.8.
 
 Elimination

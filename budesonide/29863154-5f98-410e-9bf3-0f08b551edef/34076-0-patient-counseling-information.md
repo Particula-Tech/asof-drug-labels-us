@@ -18,10 +18,8 @@ Advise female patients that budesonide capsules (enteric coated) may cause fetal
 
 Administration
 
-Advise patients to:
-
 - Take budesonide capsules (enteric coated) once daily in the morning.
-- Swallow budesonide capsules (enteric coated) capsules whole.
+- Swallow budesonide extended-release capsules (enteric coated) capsules whole.
   Do not chew or crush.
 - Avoid consumption of grapefruit juice for the duration of their budesonide capsules (enteric coated) therapy [see Drug Interactions (7.1)].
 
@@ -35,15 +33,15 @@ Ahmedabad, India
 
 Distributed by:
 
-Zydus Pharmaceuticals USA Inc.
+Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 11/17
+Rev.: 02/19
 
 PATIENT INFORMATION
 
-Budesonide (bew-DEH-so-nide) Capsules (Enteric Coated)
+Budesonide (bew-DEH-so-nide) Extended-Release Capsules (Enteric Coated)
 
 Read this Patient Information before you start taking budesonide capsules (enteric coated) and each time you get a refill.
 There may be new information.
@@ -70,19 +68,19 @@ Do not take Budesonide Capsules (enteric coated) if:
 
 What should I tell my healthcare provider before taking Budesonide Capsules (enteric coated)?
 
-Before you take Budesonide Capsules (enteric coated) tell your healthcare provider if you:
+Before you take Budesonide Capsules (enteric coated) tell your healthcare provider if you have any other medical conditions including if you:
 
-- have liver problems
-- are planning to have surgery
-- have chicken pox or measles or have recently been near anyone with chicken pox or measles
-- have an infection
-- have diabetes or glaucoma or have a family history of diabetes or glaucoma
-- have cataracts
-- have or had tuberculosis
-- have high blood pressure (hypertension)
-- have decreased bone mineral density (osteoporosis)
-- have stomach ulcers
-- have any other medical condition
+- have liver problems.
+- are planning to have surgery.
+- have chicken pox or measles or have recently been near anyone with chicken pox or measles.
+- have an infection.
+- have diabetes or glaucoma or have a family history of diabetes or glaucoma.
+- have cataracts.
+- have or had tuberculosis.
+- have high blood pressure (hypertension).
+- have decreased bone mineral density (osteoporosis).
+- have stomach ulcers.
+- have any other medical condition.
 - are pregnant or plan to become pregnant.
   Budesonide capsules (enteric coated) may harm your unborn baby.
   Talk to your healthcare provider about the possible risk to your unborn baby if you take budesonide capsules (enteric coated) when you are pregnant.
@@ -177,11 +175,11 @@ Keep Budesonide Capsules (enteric coated) and all medicines out of the reach of 
 
 General information about the safe and effective use of Budesonide Capsules (enteric coated).
 
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide or Patient Information leaflet.
 Do not use budesonide capsules (enteric coated) for a condition for which it was not prescribed.
-Do not give budesonide capsules (enteric coated) to other people, even if they have the same symptoms you have.
+Do not give budesonide capsules (enteric coated) to other people, even if they have the same symptoms that you have.
 It may harm them.
-You can ask your healthcare provider or pharmacist for information about budesonide capsules (enteric coated) that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about budesonide capsules (enteric coated) that is written for health professionals.
 
 Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
 
@@ -195,6 +193,6 @@ The capsule shell is printed with black pharmaceutical ink which contains follow
 Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
 However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-ENTOCORT is a registered trademark of the Elan Pharma International Limited,a Perrigo Company
+ENTOCORT is a registered trademark of its respective company.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

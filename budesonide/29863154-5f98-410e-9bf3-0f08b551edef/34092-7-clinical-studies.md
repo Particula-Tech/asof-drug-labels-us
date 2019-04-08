@@ -43,7 +43,7 @@ At baseline, the median CDAI was 277.
 Equal clinical improvement rates (60%) were seen in the budesonide capsules (enteric coated) 9 mg daily and the prednisolone groups in Study 4.
 In Study 5, 13% fewer patients in the budesonide capsules (enteric coated) group experienced clinical improvement than in the prednisolone group (no statistical difference) (Table 5).
 
-The proportion of patients with normal plasma cortisol values (greater than 150 nmol/L) was significantly higher in the budesonide capsules (enteric coated) groups in both trials (60% to 66%) than in the prednisolone groups (26% to 28%) at Week 8.
+The proportion of patients with normal plasma cortisol values (greater than 64.58 ng/mL) was significantly higher in the budesonide capsules (enteric coated) groups in both trials (60% to 66%) than in the prednisolone groups (26% to 28%) at Week 8.
 
 Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
 However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
