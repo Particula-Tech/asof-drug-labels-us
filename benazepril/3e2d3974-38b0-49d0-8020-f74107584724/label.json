@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020033"
+  ],
+  "inn": "benazepril",
+  "labeler": "Paddock Laboratories, LLC",
+  "package_ndcs": [
+    "0574-0227-01",
+    "0574-0228-01",
+    "0574-0229-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "benazepril hydrochloride and hydrochlorothiazide",
+      "name": "benazepril hydrochloride and hydrochlorothiazide"
+    }
+  ],
+  "setid": "3e2d3974-38b0-49d0-8020-f74107584724",
+  "source": "dailymed"
+}
