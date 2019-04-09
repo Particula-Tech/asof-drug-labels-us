@@ -1,0 +1,104 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to DOVATO during pregnancy.
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1‑800‑258‑4263.
+
+Risk Summary
+
+Preliminary data from an observational study have identified a possible increased risk of neural tube defects when dolutegravir, a component of DOVATO, is administered at the time of conception compared with non-dolutegravir-containing antiretroviral regimens.
+As defects related to closure of the neural tube occur from conception through the first 6 weeks of gestation, embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk.
+In addition, 2 of the 4 birth defects (encephalocele and iniencephaly) that have been observed with dolutegravir use, although often termed neural tube defects, may occur post-neural tube closure, the time period of which may be later than 6 weeks of gestation, but within the first trimester.
+Due to the limited understanding of the types of reported neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, avoid use of DOVATO at the time of conception through the first trimester of pregnancy.
+No neural tube defects have been reported in infants born to mothers who have started dolutegravir after the first trimester of pregnancy (see Data).
+
+If there are plans to become pregnant or if pregnancy is confirmed while on DOVATO during the first trimester, if possible, switch to an alternative regimen.
+Advise pregnant individuals of the potential risk to the embryo exposed to DOVATO from the time of conception through the first trimester of pregnancy.
+
+There are insufficient human data on the use of DOVATO during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
+The background risk for major birth defects for the indicated population is unknown.
+In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir at systemic exposures (AUC) less than (rabbits) and 50 times (rats) the exposure in humans at the recommended human dose (RHD) (see Data).
+Oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at systemic exposure (AUC) similar to the RHD; however, no adverse developmental effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (Cmax) 35 times the RHD (see Data).
+
+Data
+
+Human Data: Dolutegravir: As of May 2018, in an ongoing birth outcome surveillance study in Botswana, there have been 4 cases of neural tube defects reported out of 426 births (0.94%) to mothers who were exposed to dolutegravir-containing regimens at the time of conception.
+In comparison, the neural tube defect prevalence rates were 0.12% (14/11,300) in the non-dolutegravir arm and 0.09% (61/66,057) in the HIV-uninfected arm.
+Four cases reported with dolutegravir included one case each of encephalocele, anencephaly, myelomeningocele, and iniencephaly.
+No infant born to a woman who started dolutegravir during pregnancy had a neural tube defect (n = 2,812).
+
+Data analyzed to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to address the risk of neural tube defects with dolutegravir.
+
+Lamivudine: Based on prospective reports to the APR of over 12,000 exposures to lamivudine during pregnancy resulting in live births (including over 5,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 3.0% (95% CI: 2.6% to 3.5%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5%, 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
+
+Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
+The trials assessed pharmacokinetics in 16 women at 36 weeks’ gestation using lamivudine 150 mg twice daily with zidovudine, 10 women at 38 weeks’ gestation using lamivudine 150 mg twice daily with zidovudine, and 10 women at 38 weeks’ gestation using lamivudine 300 mg twice daily without other antiretrovirals.
+These trials were not designed or powered to provide efficacy information.
+Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
+In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
+Based on limited data at delivery, median (range) amniotic fluid concentrations of lamivudine were 3.9-fold (1.2- to 12.8-fold) greater compared with paired maternal serum concentration (n = 8).
+
+Animal Data: Dolutegravir: Dolutegravir was administered orally to pregnant rats and rabbits (up to 1,000 mg/kg/day) on Gestation Days 6 to 17 and 6 to 18, respectively, and also to rats on Gestation Day 6 to Lactation/Postpartum Day 20.
+No adverse effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) development were observed up to the highest dose tested.
+During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the RHD and in rats were approximately 50 times the exposure in humans at the RHD.
+In the rat pre/postnatal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 50 times human exposure at the RHD).
+
+Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg/kg/day) and rabbits (at 90, 300 and 1,000 mg/kg/day and at 15, 40, and 90 mg/kg/day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the RHD.
+Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the RHD.
+Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
+In the fertility/pre- and postnatal development study in rats, lamivudine was administered orally at doses of 180, 900, and 4,000 mg/kg/day (from prior to mating through Postnatal Day 20).
+In the study, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of lamivudine.
+
+## 8.2 Lactation
+
+Risk Summary
+
+The Centers for Disease Control and Prevention recommends that HIV‑1–infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
+
+Lamivudine, a component of DOVATO, is present in human milk.
+It is not known whether dolutegravir, a component of DOVATO, is present in human milk.
+When administered to lactating rats, dolutegravir was present in milk (see Data).
+There is no information on the effects of DOVATO or the components of DOVATO on the breastfed infant or the effects of the drugs on milk production.
+
+Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving DOVATO.
+
+Data
+
+Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg/kg on Lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Perform pregnancy testing in individuals of childbearing potential before initiation of DOVATO.
+
+Contraception
+
+Individuals of childbearing potential should avoid use of DOVATO at the time of conception through the first trimester of pregnancy because of the potential risk of neural tube defects [see Use in Specific Populations (8.1)].
+
+Advise individuals of childbearing potential who are taking DOVATO to consistently use effective contraception.
+
+## 8.4 Pediatric Use
+
+The safety and efficacy of DOVATO have not been established in pediatric patients.
+
+## 8.5 Geriatric Use
+
+Clinical trials of DOVATO did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+In general, caution should be exercised in the administration of DOVATO in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
+
+## 8.6 Renal Impairment
+
+DOVATO is not recommended for patients with creatinine clearance <50 mL/min because DOVATO is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
+If a dose reduction of lamivudine, a component of DOVATO, is required for patients with creatinine clearance <50 mL/min, then the individual components should be used.
+
+## 8.7 Hepatic Impairment
+
+No dosage adjustment of DOVATO is necessary in patients with mild or moderate hepatic impairment (Child-Pugh Score A or B). Dolutegravir has not been studied in patients with severe hepatic impairment (Child-Pugh Score C); therefore, DOVATO is not recommended for patients with severe hepatic impairment.
