@@ -15,7 +15,7 @@ Bleeding in PLATO (Reduction in risk of thrombotic events in ACS)
 
 Figure 1 is a plot of time to the first non-CABG major bleeding event.
 
-Figure 1 – Kaplan-Meier estimate of time to first non-CABG PLATO-defined major bleeding event (PLATO)
+Figure 1 - Kaplan-Meier estimate of time to first non-CABG PLATO-defined major bleeding event (PLATO)
 
 Frequency of bleeding in PLATO is summarized in Tables 1 and 2.
 About half of the non-CABG major bleeding events were in the first 30 days.
@@ -37,7 +37,7 @@ No baseline demographic factor altered the relative risk of bleeding with BRILIN
 In PLATO, 1584 patients underwent CABG surgery.
 The percentages of those patients who bled are shown in Figure 2 and Table 2.
 
-Figure 2 – ‘Major fatal/life-threatening’ CABG-related bleeding by days from last dose of study drug to CABG procedure (PLATO)
+Figure 2 - ‘Major fatal/life-threatening’ CABG-related bleeding by days from last dose of study drug to CABG procedure (PLATO)
 
 X-axis is days from last dose of study drug prior to CABG.
 
@@ -46,7 +46,7 @@ If surgery was elective or non-urgent, study drug was interrupted temporarily, a
 If local practice was to perform surgery without waiting for dissipation of antiplatelet effects capsules and tablets were withheld 24 hours prior to surgery and use of aprotinin or other haemostatic agents was allowed.
 If local practice was to use IPA monitoring to determine when surgery could be performed both the capsules and tablets were withheld at the same time and the usual monitoring procedures followed.
 
-T Ticagrelor; C Clopidogrel
+T Ticagrelor; C Clopidogrel.
 
 Table 2 – CABG-related bleeding (PLATO)
 
@@ -133,7 +133,7 @@ The frequency of renal related adverse events was similar for ticagrelor and asp
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of BRILINTA.
-Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency.
+Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders: Hypersensitivity reactions including angioedema [see Contraindications (4.3)].
 

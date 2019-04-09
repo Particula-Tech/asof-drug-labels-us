@@ -66,6 +66,13 @@ Specific Populations
 The effects of age, gender, ethnicity, renal impairment and mild hepatic impairment on the pharmacokinetics of ticagrelor are presented in Figure 5.
 Effects are modest and do not require dose adjustment.
 
+Patients with End-Stage Renal Disease on Hemodialysis
+
+In patients with end stage renal disease on hemodialysis AUC and Cmax of BRILINTA 90 mg administered on a day without dialysis were 38% and 51% higher respectively, compared to subjects with normal renal function.
+A similar increase in exposure was observed when BRILINTA was administered immediately prior to dialysis showing that BRILINTA is not dialyzable.
+Exposure of the active metabolite increased to a lesser extent.
+The IPA effect of BRILINTA was independent of dialysis in patients with end stage renal disease and similar to healthy adults with normal renal function.
+
 Figure 5 - Impact of intrinsic factors on the pharmacokinetics of ticagrelor
 
 Effects of Other Drugs on BRILINTA
