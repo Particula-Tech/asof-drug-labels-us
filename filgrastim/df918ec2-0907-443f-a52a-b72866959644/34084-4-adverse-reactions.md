@@ -38,7 +38,7 @@ Additional Adverse Reactions
 
 Other adverse reactions known to occur following administration of filgrastim products include myalgia, headache, vomiting, cutaneous vasculitis and thrombocytopenia.
 
-Adverse Reactions in Pediatric Patients GRANIX clinical trials safety data in pediatric patients are based upon the results of one single-arm clinical trial in 50 pediatric patients who received myelosuppressive chemotherapy for treatment of a solid tumors without marrow involvement [see Use in Special Populations (8.4)].
+Adverse Reactions in Pediatric Patients GRANIX clinical trials safety data in pediatric patients are based upon the results of one single-arm clinical trial in 50 pediatric patients who received myelosuppressive chemotherapy for treatment of solid tumors without marrow involvement [see Use in Special Populations (8.4)].
 In this study, GRANIX was administered at 5 mcg/kg subcutaneously once daily beginning one day after chemotherapy.
 The most common (>5%) adverse reactions included thrombocytopenia (34%), pyrexia (8%), pain in extremity (6%), headache (6%) and diarrhea (6%).
 

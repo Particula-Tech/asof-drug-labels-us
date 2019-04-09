@@ -54,11 +54,11 @@ Lactation
 
 Inform lactating women that filgrastim was detected in breast milk for up to 3 days after dosing [see Use in Specific Populations (8.2)].
 
-See FDA-Approved Patient Labeling (Patient Information) and Instructions for Use
+See FDA-approved Patient Labeling (Patient Information) and Instructions for Use.
 
-TBO-007
+TBO-008
 
-©2014-2018 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
+©2014-2019 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
 
 Manufactured by:
 

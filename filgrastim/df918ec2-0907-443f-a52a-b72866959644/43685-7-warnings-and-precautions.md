@@ -31,7 +31,7 @@ Glomerulonephritis can occur in patients receiving filgrastim products.
 The diagnoses were based on azotemia, hematuria (microscopic and macroscopic), proteinuria, and renal biopsy.
 Generally, events of glomerulonephritis resolved after dose reduction or discontinuation of the filgrastim product.
 If glomerulonephritis is suspected, evaluate for cause.
-If causality is likely, consider dose-reduction or interruption of GRANIX.
+If causality is likely, consider dose reduction or interruption of GRANIX.
 
 ## 5.6 Capillary Leak Syndrome
 
@@ -47,7 +47,7 @@ The possibility that GRANIX acts as a growth factor for any tumor type, includin
 ## 5.8 Leukocytosis
 
 White blood cell counts of 100‚000/mm3 or greater were observed in approximately 2% of patients receiving filgrastim products at dosages above 5 mcg/kg/day.
-In patients with cancer receiving GRANIX as an adjunct to myelosuppressive chemotherapy‚ to avoid the potential risks of excessive leukocytosis‚ it is recommended that GRANIX therapy be discontinued if the ANC surpasses 10‚000/mm3after the chemotherapy-induced ANC nadir has occurred.
+In patients with cancer receiving GRANIX as an adjunct to myelosuppressive chemotherapy‚ to avoid the potential risks of excessive leukocytosis‚ it is recommended that GRANIX therapy be discontinued if the ANC surpasses 10‚000/mm3 after the chemotherapy-induced ANC nadir has occurred.
 Monitor CBCs at least twice weekly during therapy.
 Dosages of GRANIX that increase the ANC beyond 10‚000/mm3 may not result in any additional clinical benefit.
 In patients with cancer receiving myelosuppressive chemotherapy‚ discontinuation of filgrastim products therapy usually resulted in a 50% decrease in circulating neutrophils within 1 to 2 days‚ with a return to pretreatment levels in 1 to 7 days.
@@ -72,3 +72,9 @@ It may occur as early as the first week after start of therapy.
 Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c‑reactive protein and white blood cell count).
 Consider aortitis in patients who develop these signs and symptoms without known etiology.
 Discontinue GRANIX if aortitis is suspected.
+
+## 5.12 Alveolar Hemorrhage
+
+Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization has been reported in healthy donors undergoing peripheral blood progenitor cell (PBPC) collection treated with another filgrastim product.
+Hemoptysis resolved with discontinuation of filgrastim.
+The use of GRANIX for PBPC mobilization in healthy donors is not an approved indication.

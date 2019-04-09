@@ -17,7 +17,7 @@ Proper training on storage, preparation, and administration technique should be 
 If a patient or caregiver is not an appropriate candidate for any reason, then in such patients, GRANIX should be administered by a healthcare professional.
 
 Dispense only the pre-filled syringe without a safety needle guard device to patient or caregiver.
-Instruct patients and caregivers to follow the Instructions for Use provided with the GRANIX pre-filled syringe to properly administer an injection after training by a healthcare professional.
+Instruct patients and caregivers to follow the Instructions for Use provided with the GRANIX prefilled syringe to properly administer an injection after training by a healthcare professional.
 
 Visually inspect parenteral drug products for particulate matter and discoloration prior to administration.
 Do not administer GRANIX if discoloration or particulates are observed.
@@ -28,7 +28,7 @@ GRANIX and all its components are not made with natural rubber latex.
 
 Recommended sites for subcutaneous GRANIX injections include the abdomen (except for the two-inch area around the navel), the front of the middle thighs, the upper outer areas of the buttocks, or the upper back portion of the upper arms.
 The injection site should be varied daily.
-GRANIX should not be injected into an area that is tender, red, bruised or hard, or that has scars or stretch marks.
+GRANIX should not be injected into an area that is tender, red, bruised, or hard, or that has scars or stretch marks.
 
 ## 2.3 Instructions for Use of the Safety Needle Guard Device by Healthcare Professionals
 

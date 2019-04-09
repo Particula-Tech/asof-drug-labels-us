@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-GRANIX solution for injection is supplied as a single dose, preservative-free clear solution, in either a vial or, a prefilled syringe made from Type I glass which has a permanently attached stainless steel needle.
+GRANIX solution for injection is supplied as a single-dose, preservative-free clear solution, in either a vial or, a prefilled syringe made from Type I glass which has a permanently attached stainless steel needle.
 The active substance is tbo-filgrastim.
 
 Prefilled Syringes (UltraSafe Passive® Needle Guard)
@@ -39,16 +39,16 @@ GRANIX 480 mcg/1.6 mL: Each vial contains 480 mcg of tbo-filgrastim in 1.6 mL so
 
 GRANIX and all its components are not made with natural rubber latex [see Dosage and Administration (2.2)].
 
-Store GRANIX in a refrigerator at 36° to 46° F (2° to 8°C).
+Store GRANIX in a refrigerator at 36° to 46°F (2° to 8°C).
 Protect from light.
-Within its shelf life, the product may be removed from 36° to 46° F (2° to 8°C) storage for a single period of up to 5 days between 73° to 81° F (23° to 27°C).
-If not used within 5 days, the product may be returned to 36° to 46° F (2° to 8°C) up to the expiration date.
+Within its shelf life, the product may be removed from 36° to 46°F (2° to 8°C) storage for a single period of up to 5 days between 73° to 81°F (23° to 27°C).
+If not used within 5 days, the product may be returned to 36° to 46°F (2° to 8°C) up to the expiration date.
 Dispose of syringes if stored at room temperature for more than 5 days.
 
 Avoid shaking.
 The solution should be visually inspected prior to use.
 Only clear solutions without particles should be used.
-Exposure to 23° to 30° F (-1° to -5 °C) for up to 72 hours and temperatures as low as 5° to -13° F (-15 to -25°C) for up to 24 hours do not adversely affect the stability of GRANIX.
+Exposure to 23° to 30°F (-1° to -5°C) for up to 72 hours and temperatures as low as 5° to -13°F (-15° to -25°C) for up to 24 hours do not adversely affect the stability of GRANIX.
 
 Single-dose syringe and single-dose vial – discard unused portion.
 Any unused product or waste material should be disposed of in accordance with local requirements.

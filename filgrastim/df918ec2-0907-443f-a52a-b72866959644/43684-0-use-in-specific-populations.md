@@ -24,7 +24,7 @@ The dose of 100 mcg/kg/day corresponds to a systemic exposure (AUC) of approxima
 
 ## 8.2 Lactation
 
-No data are available regarding the presence of tbo-filgrastim in human milk, the effects of the drug on the breast fed child, or the effects of the drug on milk production.
+No data are available regarding the presence of tbo-filgrastim in human milk, the effects of the drug on the breastfed child, or the effects of the drug on milk production.
 Another filgrastim product was detected in human milk for up to 3 days after filgrastim administration.
 
 ## 8.4 Pediatric Use
