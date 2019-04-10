@@ -3,18 +3,14 @@
 Mechanism of Action Ropivacaine is a member of the amino amide class of local anesthetics and is supplied as the pure S-(-)-enantiomer.
 Local anesthetics block the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential.
 In general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers.
-Clinically, the order of loss of nerve function is as follows:
-
-(1) pain, (2) temperature, (3) touch, (4) proprioception, and (5) skeletal muscle tone.
+Clinically, the order of loss of nerve function is as follows: (1) pain, (2) temperature, (3) touch, (4) proprioception, and (5) skeletal muscle tone.
 PHARMACOKINETICS Absorption The systemic concentration of ropivacaine is dependent on the total dose and concentration of drug administered, the route of administration, the patient’s hemodynamic/circulatory condition, and the vascularity of the administration site.
 From the epidural space, ropivacaine shows complete and biphasic absorption.
 The half-lives of the 2 phases, (mean ± SD) are 14 ± 7 minutes and 4.2 ± 0.9 h, respectively.
 The slow absorption is the rate limiting factor in the elimination of ropivacaine that explains why the terminal half-life is longer after epidural than after intravenous administration.
 Ropivacaine shows dose-proportionality up to the highest intravenous dose studied, 80 mg, corresponding to a mean ± SD peak plasma concentration of 1.9 ± 0.3 mcg/mL.
 
-Table 1
-
-Pharmacokinetic (plasma concentration-time) data from clinical trials
+Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
 
 | Route | Epidural Infusion* |  | Epidural Infusion* | Epidural Block† | Epidural Block† | Plexus Block‡ | IV Infusion§ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +18,7 @@ Pharmacokinetic (plasma concentration-time) data from clinical trials
 | N | 12 | 12 | 11 | 8 | 8 | 10 | 12 |
 | Cmax (mg/L) | 2.4±1¶ | 2.8±0.5¶ | 2.3±1.1¶ | 1.1±0.2 | 1.6±0.6 | 2.3±0.8 | 1.2±0.2# |
 | Tmax (min) | n/a♠ | n/a | n/a | 43±14 | 34±9 | 54±22 | n/a |
-| AUC0- (mg.h/L) | 135.5±50 | 145±34 | 161±90 | 7.2±2 | 11.3±4 | 13±3.3 | 1.8±0.6 |
+| AUC0-(mg.h/L) | 135.5±50 | 145±34 | 161±90 | 7.2±2 | 11.3±4 | 13±3.3 | 1.8±0.6 |
 | CL (L/h) | 11.03 | 13.7 | n/a | 5.5±2 | 5±2.6 | n/a | 21.2±7 |
 | t1/2 (hr)♥ | 5±2.5 | 5.7±3 | 6±3 | 5.7±2 | 7.1±3 | 6.8±3.2 | 1.9±0.5 |
 | * Continuous 72 hour epidural infusion after an epidural block with 5 or 10 mg/mL. † Epidural anesthesia with 7.5 mg/mL (0.75%) for cesarean delivery. ‡ Brachial plexus block with 7.5 mg/mL (0.75%) ropivacaine. § 20 minute IV infusion to volunteers (40 mg). ¶ Cmax measured at the end of infusion (i.e., at 72 hr). # Cmax measured at the end of infusion (i.e., at 20 minutes). ♠ n/a=not applicable ♥ t1/2 is the true terminal elimination half-life. On the other hand, t1/2 follows absorption-dependent elimination (flip-flop) after non-intravenous administration. |  |  |  |  |  |  |  |
@@ -34,6 +30,7 @@ Ropivacaine is 94% protein bound, mainly to α1-acid glycoprotein.
 An increase in total plasma concentrations during continuous epidural infusion has been observed, related to a postoperative increase of α1-acid glycoprotein.
 Variations in unbound, i.e., pharmacologically active, concentrations have been less than in total plasma concentration.
 Ropivacaine readily crosses the placenta and equilibrium in regard to unbound concentration will be rapidly reached (see PRECAUTIONS, Labor and Delivery).
+
 Metabolism Ropivacaine is extensively metabolized in the liver, predominantly by aromatic hydroxylation mediated by cytochrome P450 1A to 3-hydroxy ropivacaine.
 After a single IV dose approximately 37% of the total dose is excreted in the urine as both free and conjugated 3-hydroxy ropivacaine.
 Low concentrations of 3-hydroxy ropivacaine have been found in the plasma.
@@ -49,6 +46,7 @@ After intravenous administration ropivacaine has a mean ± SD total plasma clear
 The mean ± SD terminal half-life is 1.8 ± 0.7 h after intravascular administration and 4.2 ± 1 h after epidural administration (see Absorption).
 Pharmacodynamics Studies in humans have demonstrated that, unlike most other local anesthetics, the presence of epinephrine has no major effect on either the time of onset or the duration of action of ropivacaine.
 Likewise, addition of epinephrine to ropivacaine has no effect on limiting systemic absorption of ropivacaine.
+
 Systemic absorption of local anesthetics can produce effects on the central nervous and cardiovascular systems.
 At blood concentrations achieved with therapeutic doses, changes in cardiac conduction, excitability, refractoriness, contractility, and peripheral vascular resistance have been reported.
 Toxic blood concentrations depress cardiac conduction and excitability, which may lead to atrioventricular block, ventricular arrhythmias and to cardiac arrest, sometimes resulting in fatalities.
@@ -86,25 +84,24 @@ Seventy-seven to 96% of ropivacaine hydrochloride-exposed patients reported no p
 Some patients received other anesthetic, analgesic, or sedative modalities during the course of the operative procedure.
 Epidural Administration In Labor And Delivery A total of 9 double-blind clinical studies, involving 240 patients were performed to evaluate ropivacaine hydrochloride for epidural block for management of labor pain.
 When administered in doses up to 278 mg as intermittent injections or as a continuous infusion, ropivacaine hydrochloride produced adequate pain relief.
-
 A prospective meta-analysis on 6 of these studies provided detailed evaluation of the delivered newborns and showed no difference in clinical outcomes compared to bupivacaine.
 There were significantly fewer instrumental deliveries in mothers receiving ropivacaine as compared to bupivacaine.
-Table 2
 
-LABOR AND DELIVERY META-ANALYSIS: MODE OF DELIVERY
+Table 2 LABOR AND DELIVERY META-ANALYSIS: MODE OF DELIVERY
 
-| Delivery Mode | Ropivacaine Hydrochloride n=199 |  | Bupivacaine n=188 |  |
-| --- | --- | --- | --- | --- |
-|  | n | % | n | % |
-| Spontaneous Vertex | 116 | 58 | 92 | 49 |
-| Vacuum Extractor | 26 |  | 33 |  |
-|  |  | }27* |  | }40 |
-| Forceps | 28 |  | 42 |  |
-| Cesarean Section | 29 | 15 | 21 | 11 |
-| *p=0.004 versus bupivacaine |  |  |  |  |
+| Delivery Mode | Ropivacaine Hydrochloride n=199 |  | Bupivacaine n=188 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | n | % | n | % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Spontaneous Vertex | 116 | 58 | 92 | 49 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vacuum Extractor | 26 |  | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | }27* |  | }40 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Forceps | 28 |  | 42 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cesarean Section | 29 | 15 | 21 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * p=0.004 versus bupivacaine |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Epidural Administration In Postoperative Pain Management There were 8 clinical studies performed in 382 patients to evaluate ropivacaine hydrochloride 2 mg/mL (0.2%) for postoperative pain management after upper and lower abdominal surgery and after orthopedic surgery.
 The studies utilized intravascular morphine via PCA as a rescue medication and quantified as an efficacy variable.
+
 Epidural anesthesia with ropivacaine hydrochloride 5 mg/mL, (0.5%) was used intraoperatively for each of these procedures prior to initiation of postoperative ropivacaine hydrochloride.
 The incidence and intensity of the motor block were dependent on the dose rate of ropivacaine hydrochloride and the site of injection.
 Cumulative doses of up to 770 mg of ropivacaine were administered over 24 hours (intraoperative block plus postoperative continuous infusion).
@@ -112,8 +109,10 @@ The overall quality of pain relief, as judged by the patients, in the ropivacain
 The frequency of motor block was greatest at 4 hours and decreased during the infusion period in all groups.
 At least 80% of patients in the upper and lower abdominal studies and 42% in the orthopedic studies had no motor block at the end of the 21-hour infusion period.
 Sensory block was also dose rate-dependent and a decrease in spread was observed during the infusion period.
+
 A double-blind, randomized, clinical trial compared lumbar epidural infusion of ropivacaine hydrochloride (n=26) and bupivacaine (n=26) at 2 mg/mL (8 mL/h), for 24 hours after knee replacement.
 In this study, the pain scores were higher in the ropivacaine hydrochloride group, but the incidence and the intensity of motor block were lower.
+
 Continuous epidural infusion of ropivacaine hydrochloride 2 mg/mL (0.2%) during up to 72 hours for postoperative pain management after major abdominal surgery was studied in 2 multicenter, double-blind studies.
 A total of 391 patients received a low thoracic epidural catheter, and ropivacaine hydrochloride 7.5 mg/L (0.75%) was given for surgery, in combination with GA.
 Postoperatively, ropivacaine hydrochloride 2 mg/mL (0.2%), 4 to 14 mL/h, alone or with fentanyl 1, 2, or 4 mcg/mL was infused through the epidural catheter and adjusted according to the patient’s needs.
@@ -131,11 +130,13 @@ Supraclavicular blocks were consistently more successful than axillary blocks.
 The median onset of sensory block (anesthesia) produced by ropivacaine 0.5% via axillary block ranged from 10 minutes (medial brachial cutaneous nerve) to 45 minutes (musculocutaneous nerve).
 Median duration ranged from 3.7 hours (medial brachial cutaneous nerve) to 8.7 hours (ulnar nerve).
 The 5 mg/mL (0.5%) ropivacaine hydrochloride solution gave success rates from 56% to 86% for axillary blocks, compared with 92% for supraclavicular blocks.
+
 In addition, ropivacaine hydrochloride, 7.5 mg/mL (0.75%), was evaluated in 99 ropivacaine hydrochloride-treated patients, in 2 double-blind studies, performed to provide anesthesia for surgery using the techniques of Brachial Plexus Block.
 Ropivacaine hydrochloride 7.5 mg/mL was compared to bupivacaine 5 mg/mL.
 In 1 study, patients underwent axillary brachial plexus block using injections of 40 mL (300 mg) of ropivacaine hydrochloride, 7.5 mg/mL (0.75%) or 40 mL injections of bupivacaine, 5 mg/mL (200 mg).
 In a second study, patients underwent subclavian perivascular brachial plexus block using 30 mL (225 mg) of ropivacaine hydrochloride, 7.5 mg/mL (0.75%) or 30 mL of bupivacaine 5 mg/mL (150 mg).
 There was no significant difference between the ropivacaine hydrochloride and bupivacaine groups in either study with regard to onset of anesthesia, duration of sensory blockade, or duration of anesthesia.
+
 The median duration of anesthesia varied between 11.4 and 14.4 hours with both techniques.
 In one study, using the axillary technique, the quality of analgesia and muscle relaxation in the ropivacaine hydrochloride group was judged to be significantly superior to bupivacaine by both investigator and surgeon.
 However, using the subclavian perivascular technique, no statistically significant difference was found in the quality of analgesia and muscle relaxation as judged by both the investigator and surgeon.

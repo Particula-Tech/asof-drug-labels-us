@@ -10,7 +10,7 @@ It is not recommended for emergency situations, where a fast onset of surgical a
 Historically, pregnant patients were reported to have a high risk for cardiac arrhythmias, cardiac/circulatory arrest and death when 0.75% bupivacaine (another member of the amino amide class of local anesthetics) was inadvertently rapidly injected intravenously.
 Prior to receiving major blocks the general condition of the patient should be optimized and the patient should have an IV line inserted.
 All necessary precautions should be taken to avoid intravascular injection.
-Local anesthetics should only be administered by clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed, and then only after insuring the immediate without delay availability of oxygen, other resuscitative drugs, cardiopulmonary resuscitative equipment, and the personnel resources needed for proper management of toxic reactions and related emergencies (see also ADVERSE REACTIONS, PRECAUTIONS and MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES).
+Local anesthetics should only be administered by clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed, and then only after insuring the immediate (without delay) availability of oxygen, other resuscitative drugs, cardiopulmonary resuscitative equipment, and the personnel resources needed for proper management of toxic reactions and related emergencies (see also ADVERSE REACTIONS, PRECAUTIONS and MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES).
 Delay in proper management of dose-related toxicity, underventilation from any cause, and/or altered sensitivity may lead to the development of acidosis, cardiac arrest and, possibly, death.
 Solutions of ropivacaine hydrochloride should not be used for the production of obstetrical paracervical block anesthesia, retrobulbar block, or spinal anesthesia (subarachnoid block) due to insufficient data to support such use.
 Intravenous regional anesthesia (bier block) should not be performed due to a lack of clinical experience and the risk of attaining toxic blood levels of ropivacaine.
@@ -29,10 +29,20 @@ Anesthesia to pinprick started in the sacral dermatomes in 2 to 3 minutes, exten
 The results of these two clinical studies showed that a 3 mL dose did not produce any serious adverse events when spinal anesthesia blockade was achieved.
 Ropivacaine hydrochloride should be used with caution in patients receiving other local anesthetics or agents structurally related to amide-type local anesthetics, since the toxic effects of these drugs are additive.
 Patients treated with class III antiarrhythmic drugs (e.g., amiodarone) should be under close surveillance and ECG monitoring considered, since cardiac effects may be additive.
+Methemoglobinemia Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue ropivacaine hydrochloride and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
 # PRECAUTIONS
 
-General The safe and effective use of local anesthetics depends on proper dosage, correct technique, adequate precautions and readiness for emergencies.
+## General
+
+The safe and effective use of local anesthetics depends on proper dosage, correct technique, adequate precautions and readiness for emergencies.
 Resuscitative equipment, oxygen and other resuscitative drugs should be available for immediate use (see WARNINGS and ADVERSE REACTIONS).
 The lowest dosage that results in effective anesthesia should be used to avoid high plasma levels and serious adverse events.
 Injections should be made slowly and incrementally, with frequent aspirations before and during the injection to avoid intravascular injection.
@@ -79,9 +89,17 @@ Resuscitative equipment and personnel for treating adverse reactions should be i
 Dosage recommendations should not be exceeded (see DOSAGE AND ADMINISTRATION).
 Use in Ophthalmic Surgery The use of ropivacaine hydrochloride in retrobulbar blocks for ophthalmic surgery has not been studied.
 Until appropriate experience is gained, the use of ropivacaine hydrochloride for such surgery is not recommended.
-Information for Patients When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity in the anesthetized part of the body following proper administration of lumbar epidural anesthesia.
+
+## Information for Patients
+
+When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity in the anesthetized part of the body following proper administration of lumbar epidural anesthesia.
 Also, when appropriate, the physician should discuss other information including adverse reactions in the ropivacaine hydrochloride package insert.
-Drug Interactions Specific trials studying the interaction between ropivacaine and class III antiarrhythmic drugs (e.g., amiodarone) have not been performed, but caution is advised (see WARNINGS).
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+
+## Drug Interactions
+
+Specific trials studying the interaction between ropivacaine and class III antiarrhythmic drugs (e.g., amiodarone) have not been performed, but caution is advised (see WARNINGS).
 Ropivacaine hydrochloride should be used with caution in patients receiving other local anesthetics or agents structurally related to amide-type local anesthetics, since the toxic effects of these drugs are additive.
 Cytochrome P4501A2 is involved in the formation of 3-hydroxy ropivacaine, the major metabolite.
 In vivo, the plasma clearance of ropivacaine was reduced by 70% during coadministration of fluvoxamine (25 mg bid for 2 days), a selective and potent CYP1A2 inhibitor.
@@ -89,11 +107,28 @@ Thus strong inhibitors of cytochrome P4501A2, such as fluvoxamine, given concomi
 Caution should be exercised when CYP1A2 inhibitors are coadministered.
 Possible interactions with drugs known to be metabolized by CYP1A2 via competitive inhibition such as theophylline and imipramine may also occur.
 Coadministration of a selective and potent inhibitor of CYP3A4, ketoconazole (100 mg bid for 2 days with ropivacaine infusion administered 1 hour after ketoconazole) caused a 15% reduction in in vivo plasma clearance of ropivacaine.
-Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals of most local anesthetics, including ropivacaine, to evaluate the carcinogenic potential have not been conducted.
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics: Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term studies in animals of most local anesthetics, including ropivacaine, to evaluate the carcinogenic potential have not been conducted.
 Weak mutagenic activity was seen in the mouse lymphoma test.
 Mutagenicity was not noted in the other assays, demonstrating that the weak signs of in vitro activity in the mouse lymphoma test were not manifest under diverse in vivo conditions.
 Studies performed with ropivacaine in rats did not demonstrate an effect on fertility or general reproductive performance over 2 generations.
-Pregnancy Category B Reproduction toxicity studies have been performed in pregnant New Zealand white rabbits and Sprague-Dawley rats.
+
+## Pregnancy Category B
+
+Reproduction toxicity studies have been performed in pregnant New Zealand white rabbits and Sprague-Dawley rats.
 During gestation days 6 to 18, rabbits received 1.3, 4.2, or 13 mg/kg/day subcutaneously.
 In rats, subcutaneous doses of 5.3, 11 and 26 mg/kg/day were administered during gestation days 6 to 15.
 No teratogenic effects were observed in rats and rabbits at the highest doses tested.
@@ -111,7 +146,10 @@ Teratogenicity studies in rats and rabbits did not show evidence of any adverse 
 The doses used were approximately equal to total daily dose based on body surface area.
 There were no treatment-related effects on late fetal development, parturition, lactation, neonatal viability, or growth of the offspring in 2 perinatal and postnatal studies in rats, at dose levels equivalent to the maximum recommended human dose based on body surface area.
 In another study at 23 mg/kg, an increased pup loss was seen during the first 3 days postpartum, which was considered secondary to impaired maternal care due to maternal toxicity.
-Labor and Delivery Local anesthetics, including ropivacaine, rapidly cross the placenta, and when used for epidural block can cause varying degrees of maternal, fetal and neonatal toxicity (see CLINICAL PHARMACOLOGY and PHARMACOKINETICS).
+
+## Labor and Delivery
+
+Local anesthetics, including ropivacaine, rapidly cross the placenta, and when used for epidural block can cause varying degrees of maternal, fetal and neonatal toxicity (see CLINICAL PHARMACOLOGY and PHARMACOKINETICS).
 The incidence and degree of toxicity depend upon the procedure performed, the type and amount of drug used, and the technique of drug administration.
 Adverse reactions in the parturient, fetus and neonate involve alterations of the central nervous system, peripheral vascular tone and cardiac function.
 Maternal hypotension has resulted from regional anesthesia with ropivacaine hydrochloride for obstetrical pain relief.
@@ -120,12 +158,21 @@ Elevating the patient’s legs and positioning her on her left side will help pr
 The fetal heart rate also should be monitored continuously, and electronic fetal monitoring is highly advisable.
 Epidural anesthesia has been reported to prolong the second stage of labor by removing the patient’s reflex urge to bear down or by interfering with motor function.
 Spontaneous vertex delivery occurred more frequently in patients receiving ropivacaine hydrochloride than in those receiving bupivacaine.
-Nursing Mothers Some local anesthetic drugs are excreted in human milk and caution should be exercised when they are administered to a nursing woman.
+
+## Nursing Mothers
+
+Some local anesthetic drugs are excreted in human milk and caution should be exercised when they are administered to a nursing woman.
 The excretion of ropivacaine or its metabolites in human milk has not been studied.
 Based on the milk/plasma concentration ratio in rats, the estimated daily dose to a pup will be about 4% of the dose given to the mother.
 Assuming that the milk/plasma concentration in humans is of the same order, the total ropivacaine hydrochloride dose to which the baby is exposed by breast-feeding is far lower than by exposure in utero in pregnant women at term (see PRECAUTIONS).
-Pediatric Use The safety and efficacy of ropivacaine hydrochloride in pediatric patients have not been established.
-Geriatric Use Of the 2,978 subjects that were administered ropivacaine hydrochloride injection in 71 controlled and uncontrolled clinical studies, 803 patients (27%) were 65 years of age or older which includes 127 patients (4%) 75 years of age and over.
+
+## Pediatric Use
+
+The safety and efficacy of ropivacaine hydrochloride in pediatric patients have not been established.
+
+## Geriatric Use
+
+Of the 2,978 subjects that were administered ropivacaine hydrochloride injection in 71 controlled and uncontrolled clinical studies, 803 patients (27%) were 65 years of age or older which includes 127 patients (4%) 75 years of age and over.
 Ropivacaine hydrochloride injection was found to be safe and effective in the patients in these studies.
 Clinical data in one published article indicate that differences in various pharmacodynamic measures were observed with increasing age.
 In one study, the upper level of analgesia increased with age, the maximum decrease of mean arterial pressure (MAP) declined with age during the first hour after epidural administration, and the intensity of motor blockade increased with age.

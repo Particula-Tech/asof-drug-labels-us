@@ -13,7 +13,7 @@ Intravenous barbiturates, anticonvulsant agents, or muscle relaxants should only
 Immediately after the institution of these ventilatory measures, the adequacy of the circulation should be evaluated.
 Supportive treatment of circulatory depression may require administration of intravenous fluids, and, when appropriate, a vasopressor dictated by the clinical situation (such as ephedrine or epinephrine to enhance myocardial contractile force).
 Should cardiac arrest occur, prolonged resuscitative efforts may be required to improve the probability of a successful outcome.
-The mean dosages of ropivacaine producing seizures, after intravenous infusion in dogs, non-pregnant and pregnant sheep were 4.9, 6.1 and 5.9 mg/kg, respectively.
+The mean dosages of ropivacaine producing seizures, after intravenous infusion in dogs, nonpregnant and pregnant sheep were 4.9, 6.1 and 5.9 mg/kg, respectively.
 These doses were associated with peak arterial total plasma concentrations of 11.4, 4.3 and 5 mcg/mL, respectively.
 In human volunteers given intravenous ropivacaine hydrochloride, the mean (min-max) maximum tolerated total and free arterial plasma concentrations were 4.3 (3.4 to 5.3) and 0.6 (0.3 to 0.9) mcg/mL respectively, at which time moderate CNS symptoms (muscle twitching) were noted.
 Clinical data from patients experiencing local anesthetic induced convulsions demonstrated rapid development of hypoxia, hypercarbia and acidosis within a minute of the onset of convulsions.

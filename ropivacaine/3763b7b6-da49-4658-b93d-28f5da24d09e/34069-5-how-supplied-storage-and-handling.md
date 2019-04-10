@@ -9,8 +9,8 @@ Glass containers may, as an alternative, be autoclaved once.
 Stability has been demonstrated using a targeted F0 of 7 minutes at 121°C.
 Solutions should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 The vial stoppers are not made with natural rubber latex.
-These products are intended for single use and are free from preservatives.
+These products are intended for single dose and are free from preservatives.
 Any solution remaining from an opened container should be discarded promptly.
 In addition, continuous infusion bottles should not be left in place for more than 24 hours.
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India Revised: March 2017
+E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India Revised: March 2019
