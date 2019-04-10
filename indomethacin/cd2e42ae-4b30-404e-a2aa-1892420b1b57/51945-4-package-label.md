@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL - NDC: 69344-201-29 - 20 mg 90-count Bottle Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 69344-202-29 - 40 mg 90-count Bottle Label

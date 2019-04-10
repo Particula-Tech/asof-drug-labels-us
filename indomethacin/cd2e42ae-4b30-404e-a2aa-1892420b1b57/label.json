@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204768"
+  ],
+  "inn": "indomethacin",
+  "labeler": "Egalet US Inc.",
+  "package_ndcs": [
+    "69344-201-29",
+    "69344-202-29"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "indomethacin",
+      "name": "Tivorbex"
+    }
+  ],
+  "setid": "cd2e42ae-4b30-404e-a2aa-1892420b1b57",
+  "source": "dailymed"
+}
