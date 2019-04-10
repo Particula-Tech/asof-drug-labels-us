@@ -4,11 +4,21 @@ Mechanism of Action:
 
 In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
+Antimicrobial Activity:
+
+Itraconazole has been shown to be active against most strains of the following microorganism, both in vitro and in clinical infections.
+
+Candida albicans
+
+Susceptibility Testing Methods:
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+
 Drug Resistance:
 
 Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
 
-Candida krusei,Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
+Candida krusei, Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
 
 Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 
@@ -23,13 +33,3 @@ Studies (both in vitro and in vivo) suggest that the activity of amphotericin B 
 As with other azoles, itraconazole inhibits the 14C-demethylation step in the synthesis of ergosterol, a cell wall component of fungi.
 Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatus infections in mice was inhibited by ketoconazole therapy.
 The clinical significance of test results obtained in this study is unknown.
-
-Activity In Vitro and in Clinical Infections:
-
-Itraconazole has been shown to be active against most strains of the following microorganism, both in vitro and in clinical infections.
-
-Candida albicans
-
-Susceptibility Testing Methods
-
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

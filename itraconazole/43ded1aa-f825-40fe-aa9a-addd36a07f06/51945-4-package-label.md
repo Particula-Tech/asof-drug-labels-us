@@ -8,4 +8,4 @@ Itraconazole Oral Solution, 10 mg/mL
 
 Rx only
 
-Amneal pharmaceuticals
+Amneal pharmaceuticals LLC

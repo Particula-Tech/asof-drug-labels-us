@@ -10,10 +10,10 @@ The risks and benefits of itraconazole use should be reassessed (see WARNINGS: H
 Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials
 
 U.S. adverse experience data are derived from 350 immunocompromised patients (332 HIV seropositive/AIDS) treated for oropharyngeal or esophageal candidiasis.
-Table 5 below lists adverse events reported by at least 2% of patients treated with itraconazole oral solution in U.S. clinical trials.
+Table 3 below lists adverse events reported by at least 2% of patients treated with itraconazole oral solution in U.S. clinical trials.
 Data on patients receiving comparator agents in these trials are included for comparison.
 
-Table 5: Summary of Adverse Events Reported by ≥2% of Itraconazole Treated Patients in U.S. Clinical Trials (Total)
+Table 3: Summary of Adverse Events Reported by ≥2% of Itraconazole Treated Patients in U.S. Clinical Trials (Total)
 
 | Body System/ Adverse Event | Itraconazole |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -106,10 +106,10 @@ To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-8
 
 Post-marketing Experience
 
-Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in Table 6 below.
+Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in Table 4 below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 6: Postmarketing Reports of Adverse Drug Reactions
+Table 4: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
