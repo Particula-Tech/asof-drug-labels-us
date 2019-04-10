@@ -45,7 +45,7 @@ The most consistent, dose-related toxicity of PURIXAN is bone marrow suppression
 Monitor CBC and adjust the dose of PURIXAN for severe neutropenia and thrombocytopenia.
 Evaluate patients with repeated severe myelosuppression for thiopurine S-methyltransferase (TPMT) or nucleotide diphosphatase (NUDT15) deficiency.
 TPMT genotyping or phenotyping (red blood cell TPMT activity) and NUDT15 genotyping can identify patients who have reduced activity of these enzymes.
-Patients with homozygous-TPMT or NUDT15 deficiency require substantial dosage reductions of PURIXAN [see Dosage and Administration (2.2), and Clinical Pharmacology (12.5)].
+Patients with homozygous TPMT or NUDT15 deficiency require substantial dosage reductions of PURIXAN [see Dosage and Administration (2.2), and Clinical Pharmacology (12.5)].
 Avoid the concurrent use of allopurinol and PURIXAN.
 Concomitant allopurinol and PURIXAN can result in a significant increase in bone marrow toxicity.
 Myelosuppression can be exacerbated by coadministration with drugs that inhibit TPMT (e.g., olsalazine, mesalamine, or sulfasalazine) or drugs whose primary or secondary toxicity is myelosuppression [see Drug Interactions (7.1, 7.3 and 7.4)].
