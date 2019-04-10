@@ -1,4 +1,4 @@
-| MEDICATION GUIDE INFLECTRA™ (In-flec-tra) (infliximab-dyyb) |  |  |  |  |
+| MEDICATION GUIDE INFLECTRA® (In-flec-tra) (infliximab-dyyb) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | What is the most important information I should know about INFLECTRA? |  |  |  |  |
 | INFLECTRA may cause serious side effects, including: |  |  |  |  |
@@ -68,5 +68,5 @@
 | What are the ingredients in INFLECTRA? |  |  |  |  |
 | The active ingredient is infliximab-dyyb. |  |  |  |  |
 | The inactive ingredients in INFLECTRA include: sucrose, polysorbate 80, sodium dihydrogen phosphate monohydrate, and di-Sodium hydrogen phosphate dihydrate. No preservatives are present. |  |  |  |  |
-| Manufactured by: CELLTRION, Inc. 23, Academy-ro, Yeonsu-gu, Incheon, 22014, Republic of Korea U.S. License No. 1996 ©CELLTRION, Inc. 2016 Distributed by Pfizer Labs, Division of Pfizer Inc, NY, NY 10017 For more information call 1-800-383-7504. |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  | Issued: 11/2017 |  |
+| Manufactured by: CELLTRION, Inc. 23, Academy-ro, Yeonsu-gu, Incheon, 22014, Republic of Korea U.S. License No. 1996 ©CELLTRION, Inc. Distributed by Pfizer Labs, Division of Pfizer Inc, New York, NY 10017 For more information call 1-800-383-7504. |  |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  | Revised: 4/2019 |  |
