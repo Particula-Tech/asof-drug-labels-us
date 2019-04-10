@@ -25,8 +25,8 @@ Manufactured for: Wallace Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
 WALLACE and are registered trademarks of Wallace Pharmaceuticals Inc., a Mylan company
 
-©2018 Mylan Specialty LP
+©2019 Mylan Specialty LP
 
-IN-5901-06 Revised: 8/2018
+IN-5901-07 Revised: 3/2019
 
 500492-03
