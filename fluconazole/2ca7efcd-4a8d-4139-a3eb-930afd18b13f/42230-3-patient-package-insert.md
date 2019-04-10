@@ -49,7 +49,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - pimozide for psychiatric illness
 - amphotericin B or voriconazole for fungal infections
 - erythromycin for bacterial infections
-- cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
+- olaparib, cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - fentanyl, alfentanil or methadone for chronic pain
 - halofantrine for malaria
 - lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
@@ -67,7 +67,7 @@ Since there are many brand names for these medicines, check with your doctor or 
 - are pregnant, plan to become pregnant, or think you might be pregnant.
   Your doctor will discuss whether fluconazole is right for you.
   Women who can become pregnant should think about using effective birth control while taking fluconazole.
-- are breast-feeding.
+- are breastfeeding.
   Fluconazole can pass through breast milk to the baby.
 - are allergic to any other medicines including those used to treat yeast and other fungal infections.
 - are allergic to any of the ingredients in fluconazole tablets.
@@ -101,6 +101,7 @@ The most common side effects of fluconazole are:
 Allergic reactions to fluconazole are rare, but they can be very serious if not treated right away by a doctor.
 If you cannot reach your doctor, go to the nearest hospital emergency room.
 Signs of an allergic reaction can include shortness of breath; coughing; wheezing; fever; chills; throbbing of the heart or ears; swelling of the eyelids, face, mouth, neck, or any other part of the body; or skin rash, hives, blisters or skin peeling.
+Tell your doctor or pharmacist if you experience skin rash, fever, swollen glands, increase in a type of white blood cell (eosinophilia), and inflammation of internal organs (liver, lungs, heart, kidneys, and large intestine) as they may be signs of a hypersensitivity reaction (Drug Reaction or rash with Eosinophilia and Systemic Symptoms (DRESS)).
 Fluconazole has been linked to rare cases of serious liver damage, including deaths, mostly in patients with serious medical problems.
 Call your doctor if your skin or eyes become yellow, your urine turns a darker color, your stools (bowel movements) are light-colored, or if you vomit or feel like vomiting or if you have severe skin itching.
 In patients with serious conditions such as AIDS or cancer, rare cases of severe rashes with skin peeling have been reported.
@@ -108,7 +109,11 @@ Tell your doctor right away if you get a rash while taking fluconazole.
 Fluconazole may cause other less common side effects besides those listed here.
 If you develop any side effects that concern you, call your doctor.
 For a list of all side effects, ask your doctor or pharmacist.
+
+Cases of reversible adrenal insufficiency have been reported with fluconazole.
+Tell your doctor is you experience chronic, or long lasting fatigue, muscle weakness, loss of appetite, weight loss or abdominal pain.
 What to do for an overdose?
+
 In case of an accidental overdose, call your doctor right away or go to the nearest emergency room.
 How to store fluconazole?
 Keep fluconazole and all medicines out of the reach of children.
@@ -122,4 +127,4 @@ You can ask your pharmacist or doctor for information about fluconazole that is 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 Propulsid® is a registered trademark of Johnson and Johnson.
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 04/2018
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 03/2019

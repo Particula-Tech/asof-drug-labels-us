@@ -10,7 +10,6 @@ In fasted normal volunteers, administration of a single oral 400 mg dose of fluc
 The Cmax and AUC data from a food-effect study involving administration of fluconazole tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that exposure to the drug is not affected by food.
 Therefore, fluconazole may be taken without regard to meals.
 (See DOSAGE AND ADMINISTRATION.)
-Administration of a single oral 150 mg tablet of fluconazole to ten lactating women resulted in a mean Cmax of 2.61 mcg/mL (range: 1.57 to 3.65 mcg/mL).
 Steady-state concentrations are reached within 5 to 10 days following oral doses of 50 to 400 mg given once daily.
 Administration of a loading dose (on Day 1) of twice the usual daily dose results in plasma concentrations close to steady-state by the second day.
 The apparent volume of distribution of fluconazole approximates that of total body water.
@@ -51,8 +50,8 @@ In children, the following pharmacokinetic data {Mean (%cv)} have been reported:
 
 | Age Studied | Dose (mg/kg) | Clearance (mL/min/kg) | Half-life (Hours) | Cmax (mcg/mL) | Vdss (L/kg) |
 | --- | --- | --- | --- | --- | --- |
-| 9 Months to 13 years | Single-Oral 2 mg/kg | 0.4 (38%) N=14 | 25 | 2.9 (22%) N=16 | ––– |
-| 9 Months to 13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | ––– |
+| 9 months to 13 years | Single-Oral 2 mg/kg | 0.4 (38%) N=14 | 25 | 2.9 (22%) N=16 | ––– |
+| 9 months to 13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | ––– |
 | 5 to 15 years | Multiple IV 2 mg/kg | 0.49 (40%) N=4 | 17.4 | 5.5 (25%) N=5 | 0.722 (36%) N=4 |
 | 5 to 15 years | Multiple IV 4 mg/kg | 0.59 (64%) N=5 | 15.2 | 11.4 (44%) N=6 | 0.729 (33%) N=5 |
 | 5 to 15 years | Multiple IV 8 mg/kg | 0.66 (31%) N=7 | 17.6 | 14.1 (22%) N=8 | 1.069 (37%) N=7 |
@@ -72,10 +71,10 @@ These pharmacokinetic parameter values are higher than analogous values reported
 Coadministration of diuretics did not significantly alter the AUC or Cmax.
 In addition, creatinine clearance (74 mL/min), the percent of drug recovered unchanged in urine (0 to 24 hours, 22%), and the fluconazole renal clearance estimates (0.124 mL/min/kg) for the elderly were generally lower than those of younger volunteers.
 Thus, the alteration of fluconazole disposition in the elderly appears to be related to reduced renal function characteristic of this group.
-A plot of each subject’s terminal elimination half-life versus creatinine clearance compared to the predicted half-life-creatinine clearance curve derived from normal subjects and subjects with varying degrees of renal insufficiency indicated that 21 of 22 subjects fell within the 95% confidence limit of the predicted half-life-creatinine clearance curves.
+A plot of each subject’s terminal elimination half-life versus creatinine clearance compared to the predicted half-life - creatinine clearance curve derived from normal subjects and subjects with varying degrees of renal insufficiency indicated that 21 of 22 subjects fell within the 95% confidence limit of the predicted half-life-creatinine clearance curves.
 These results are consistent with the hypothesis that higher values for the pharmacokinetic parameters observed in the elderly subjects compared to normal young male volunteers are due to the decreased kidney function that is expected in the elderly.
 
-## Drug Interaction Studies
+## Drug Interaction Studies (See PRECAUTIONS, Drug Interactions)
 
 Oral contraceptives: Oral contraceptives were administered as a single dose both before and after the oral administration of fluconazole 50 mg once daily for 10 days in 10 healthy women.
 There was no significant difference in ethinyl estradiol or levonorgestrel AUC after the administration of 50 mg of fluconazole.
@@ -187,12 +186,12 @@ Both oral and IV fluconazole increased the pharmacodynamic effects of midazolam.
 Azithromycin: An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 800 mg oral dose of fluconazole on the pharmacokinetics of a single 1200 mg oral dose of azithromycin as well as the effects of azithromycin on the pharmacokinetics of fluconazole.
 There was no significant pharmacokinetic interaction between fluconazole and azithromycin.
 Voriconazole: Voriconazole is a substrate for both CYP2C9 and CYP3A4 isoenzymes.
-Concurrent administration of oral Voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 2.5 days) and oral fluconazole (400 mg on Day 1, then 200 mg Q24h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
+Concurrent administration of oral Voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 2.5 days) and oral fluconazole (400 mg on Day 1, then 200 mg Q24h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20% to 107%) and 79% (90% CI: 40% to 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect.
 Concomitant administration of voriconazole and fluconazole at any dose is not recommended.
 Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 h of the last dose of fluconazole.
 (See PRECAUTIONS.)
-Tofacitinib: Co-administration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2 to 7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% to 96%) and 27% (90% CI: 12% to 44%), respectively, compared to administration of tofacitinib alone.
+Tofacitinib: Coadministration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2 to 7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% to 96%) and 27% (90% CI: 12% to 44%), respectively, compared to administration of tofacitinib alone.
 (See PRECAUTIONS.)
 
 ## Microbiology
@@ -233,7 +232,7 @@ Fluconazole has been shown to be active against most isolates of the following m
 
 Candida albicans
 
-Candida glabrata (Many isolates are intermediately susceptible)*
+Candida glabrata (Many isolates are intermediately susceptible)
 
 Candida parapsilosis
 
@@ -241,14 +240,8 @@ Candida tropicalis
 
 Cryptococcus neoformans
 
-* In a majority of the studies, fluconazole MIC 90values against C. glabrata were above the susceptible breakpoint (≥16 mcg/mL).
-Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
-For an isolate where the MIC is between 16 to 32 mcg/mL, (see Table 1), the highest dose is recommended.
-(See DOSAGE AND ADMINISTRATION.)
-For resistant isolates, alternative therapy is recommended.
-
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following fungi exhibit an in vitro MIC less than or equal to the susceptible breakpoint for fluconazole against isolates of similar genus or organism group.
+At least 90% of the following fungi exhibit an in vitro MIC less than or equal to the susceptible breakpoint for fluconazole (https://www.fda.gov/STIC) against isolates of similar genus or organism group.
 However, the effectiveness of fluconazole in treating clinical infections due to these fungi has not been established in adequate and well-controlled clinical trials.
 
 Candida dubliniensis
@@ -264,7 +257,6 @@ Resistance in C. krusei appears to be mediated by reduced sensitivity of the tar
 
 There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to fluconazole (e.g., Candida krusei).
 Such cases may require alternative antifungal therapy.
-
 Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
