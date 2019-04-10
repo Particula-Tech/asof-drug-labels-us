@@ -1,9 +1,16 @@
 # WARNINGS
 
-LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES.
-(See also ADVERSE REACTIONS, PRECAUTIONS, and OVERDOSAGE.)
+LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS, PRECAUTIONS, and OVERDOSAGE).
 DELAY IN PROPER MANAGEMENT OF DOSE­-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE, AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
-Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been postmarketing reports of chondrolysis in patients receiving such infusions.
+Methemoglobinemia Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious CNS and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue bupivacaine hydrochloride and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
 The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
 There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
 The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
@@ -21,9 +28,8 @@ Therefore, bupivacaine hydrochloride is not recommended for use in this techniqu
 ## General
 
 The safety and effectiveness of local anesthetics depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
-Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use.
-(See WARNINGS, ADVERSE REACTIONS, and OVERDOSAGE.)
-During major regional nerve blocks, the patient should have IV fluids running via an indwelling catheter to assure a functioning intravenous pathway.
+Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use (see WARNINGS, ADVERSE REACTIONS, and OVERDOSAGE).
+During major regional nerve blocks, the patient should have intravenous fluids running via an indwelling catheter to assure a functioning intravenous pathway.
 The lowest dosage of local anesthetic that results in effective anesthesia should be used to avoid high plasma levels and serious adverse effects.
 The rapid injection of a large volume of local anesthetic solution should be avoided and fractional (incremental) doses should be used when feasible.
 
@@ -50,7 +56,7 @@ Tolerance to elevated blood levels varies with the status of the patient.
 Debilitated, elderly patients and acutely ill patients should be given reduced doses commensurate with their age and physical status.
 Local anesthetics should also be used with caution in patients with hypotension or heartblock.
 Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be performed after each local anesthetic injection.
-It should be kept in mind at such times that restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
+It should be kept in mind at such times that restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of CNS toxicity.
 Local anesthetic solutions containing a vasoconstrictor should be used cautiously and in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply such as digits, nose, external ear, or penis.
 Patients with hypertensive vascular disease may exhibit exaggerated vasoconstrictor response.
 Ischemic injury or necrosis may result.
@@ -74,8 +80,7 @@ These reactions may be due to intra-arterial injection of the local anesthetic w
 They may also be due to puncture of the dural sheath of the optic nerve during retrobulbar block with diffusion of any local anesthetic along the subdural space to the midbrain.
 Patients receiving these blocks should have their circulation and respiration monitored and be constantly observed.
 Resuscitative equipment and personnel for treating adverse reactions should be immediately available.
-Dosage recommendations should not be exceeded.
-(See DOSAGE AND ADMINISTRATION.)
+Dosage recommendations should not be exceeded (see DOSAGE AND ADMINISTRATION).
 
 ## Use in Ophthalmic Surgery
 
@@ -91,6 +96,8 @@ Therefore, presence of akinesia rather than anesthesia alone should determine re
 
 When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of caudal or epidural anesthesia.
 Also, when appropriate, the physician should discuss other information including adverse reactions in the package insert of bupivacaine hydrochloride.
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
 
 ## Clinically Significant Drug Interactions
 
@@ -99,33 +106,45 @@ Concurrent use of these agents should generally be avoided.
 In situations when concurrent therapy is necessary, careful patient monitoring is essential.
 Concurrent administration of vasopressor drugs and of ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.
 Phenothiazines and butyrophenones may reduce or reverse the pressor effect of epinephrine.
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, isofamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine hydrochloride have not been conducted.
 The mutagenic potential and the effect on fertility of bupivacaine hydrochloride have not been determined.
 
-## Pregnancy Category C
+## Pregnancy
 
 There are no adequate and well-controlled studies in pregnant women.
 Bupivacaine hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Bupivacaine hydrochloride produced developmental toxicity when administered subcutaneously to pregnant rats and rabbits at clinically relevant doses.
-This does not exclude the use of bupivacaine hydrochloride at term for obstetrical anesthesia or analgesia.
-(See Labor and Delivery) Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, & 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
+This does not exclude the use of bupivacaine hydrochloride at term for obstetrical anesthesia or analgesia (see Labor and Delivery).
+Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, & 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
 The high doses are comparable to the daily maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 body surface area (BSA) basis.
 No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level representing approximately 1/5th the MRHD on a BSA basis.
-In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg mg/kg/day, decreased pup survival was observed at the high dose.
+In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg, decreased pup survival was observed at the high dose.
 The high dose is comparable to the daily MRHD of 400 mg/day on a BSA basis.
 
 ## Labor and Delivery
 
-SEE BOXED WARNING REGARDING OBSTETRlCAL USE OF 0.75% BUPIVACAINE HYDROCHLORIDE.
+SEE BOXED WARNING REGARDING OBSTETRICAL USE OF 0.75% BUPIVACAINE HYDROCHLORIDE.
 Bupivacaine hydrochloride is contraindicated for obstetrical paracervical block anesthesia.
-Local anesthetics rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity.
-(See CLINICAL PHARMACOLOGY, Pharmacokinetics.)
+Local anesthetics rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 The incidence and degree of toxicity depend upon the procedure performed, the type, and amount of drug used, and the technique of drug administration.
-Adverse reactions in the parturient, fetus, and neonate involve alterations of the central nervous system, peripheral vascular tone, and cardiac function.
+Adverse reactions in the parturient, fetus, and neonate involve alterations of the CNS, peripheral vascular tone, and cardiac function.
 Maternal hypotension has resulted from regional anesthesia.
 Local anesthetics produce vasodilation by blocking sympathetic nerves.
 Elevating the patient’s legs and positioning her on her left side will help prevent decreases in blood pressure.
@@ -146,17 +165,12 @@ Because of the potential for serious adverse reactions in nursing infants from b
 ## Pediatric Use
 
 Until further experience is gained in pediatric patients younger than 12 years, administration of bupivacaine hydrochloride in this age group is not recommended.
-Continuous infusions of bupivacaine in children have been reported to result in high systemic levels of bupivacaine and seizures; high plasma levels may also be associated with cardiovascular abnormalities.
-(See WARNINGS, PRECAUTIONS, and OVERDOSAGE.)
+Continuous infusions of bupivacaine in children have been reported to result in high systemic levels of bupivacaine and seizures; high plasma levels may also be associated with cardiovascular abnormalities (see WARNINGS, PRECAUTIONS, and OVERDOSAGE).
 
 ## Geriatric Use
 
-Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing anesthesia with bupivacaine hydrochloride.
-(See ADVERSE REACTIONS.)
-Elderly patients may require lower doses of bupivacaine hydrochloride.
-(See PRECAUTIONS, Epidural Anesthesia and DOSAGE AND ADMINISTRATION.)
-In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients.
-(See CLINICAL PHARMACOLOGY.)
+Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing anesthesia with bupivacaine hydrochloride (see ADVERSE REACTIONS).
+Elderly patients may require lower doses of bupivacaine hydrochloride (see PRECAUTIONS, Epidural Anesthesia and DOSAGE AND ADMINISTRATION).
+In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients (see CLINICAL PHARMACOLOGY).
 This product is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-(See CLINICAL PHARMACOLOGY.)
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see CLINICAL PHARMACOLOGY).

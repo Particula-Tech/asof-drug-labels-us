@@ -9,7 +9,7 @@ However, toxic blood concentrations depress cardiac conduction and excitability,
 In addition, myocardial contractility is depressed and peripheral vasodilation occurs, leading to decreased cardiac output and arterial blood pressure.
 Recent clinical reports and animal research suggest that these cardiovascular changes are more likely to occur after unintended intravascular injection of bupivacaine.
 Therefore, incremental dosing is necessary.
-Following systemic absorption, local anesthetics can produce central nervous system stimulation, depression, or both.
+Following systemic absorption, local anesthetics can produce CNS stimulation, depression, or both.
 Apparent central stimulation is manifested as restlessness, tremors and shivering progressing to convulsions, followed by depression and coma progressing ultimately to respiratory arrest.
 However, the local anesthetics have a primary depressant effect on the medulla and on higher centers.
 The depressed stage may occur without a prior excited state.
@@ -47,4 +47,4 @@ Pipecoloxylidine is the major metabolite of bupivacaine.
 The kidney is the main excretory organ for most local anesthetics and their metabolites.
 Urinary excretion is affected by urinary perfusion and factors affecting urinary pH.
 Only 6% of bupivacaine is excreted unchanged in the urine.
-When administered in recommended doses and concentrations, bupivacaine hydrochloride does not ordinarily produce irritation or tissue damage and does not cause methemoglobinemia.
+When administered in recommended doses and concentrations, bupivacaine hydrochloride does not ordinarily produce irritation or tissue damage.

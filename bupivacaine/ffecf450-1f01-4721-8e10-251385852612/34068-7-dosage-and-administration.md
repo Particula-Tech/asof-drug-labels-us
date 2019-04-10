@@ -16,9 +16,9 @@ Onset of action may be slower than with the 0.5% or 0.75% solutions.
 0.75% — produces complete motor block.
 Most useful for epidural block in abdominal operations requiring complete muscle relaxation, and for retrobulbar anesthesia.
 Not for obstetrical anesthesia.
-The duration of anesthesia with bupivacaine hydrochloride injection is such that for most indications, a single dose is sufficient.
+The duration of anesthesia with bupivacaine hydrochloride injection is such that for most indications, a single-dose is sufficient.
 Maximum dosage limit must be individualized in each case after evaluating the size and physical status of the patient, as well as the usual rate of systemic absorption from a particular injection site.
-Most experience to date is with single doses of bupivacaine hydrochloride injection up to 225 mg with epinephrine 1:200,000 and 175 mg without epinephrine; more or less drug may be used depending on individualization of each case.
+Most experience to date is with single-doses of bupivacaine hydrochloride injection up to 225 mg with epinephrine 1:200,000 and 175 mg without epinephrine; more or less drug may be used depending on individualization of each case.
 These doses may be repeated up to once every three hours.
 In clinical studies to date, total daily doses have been up to 400 mg.
 Until further experience is gained, this dose should not be exceeded in 24 hours.
@@ -33,7 +33,8 @@ Bupivacaine hydrochloride injection is contraindicated for obstetrical paracervi
 During epidural administration of bupivacaine hydrochloride injection, 0.5% and 0.75% solutions should be administered in incremental doses of 3 mL to 5 mL with sufficient time between doses to detect toxic manifestations of unintentional intravascular or intrathecal injection.
 In obstetrics, only the 0.5% and 0.25% concentrations should be used; incremental doses of 3 mL to 5 mL of the 0.5% solution not exceeding 50 mg to 100 mg at any dosing interval are recommended.
 Repeat doses should be preceded by a test dose containing epinephrine if not contraindicated.
-Test Dose for Caudal and Lumbar Epidural Blocks See PRECAUTIONS Unused portions of solution should be discarded following initial use.
+Test Dose for Caudal and Lumbar Epidural Blocks See PRECAUTIONS.
+Unused portions of solution should be discarded following initial use.
 This product should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Solutions which are discolored or which contain particulate matter should not be administered.
 
