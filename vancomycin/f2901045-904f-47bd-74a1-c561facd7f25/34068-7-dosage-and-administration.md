@@ -6,7 +6,7 @@ In selected patients in need of fluid restriction, a concentration up to 10 mg/m
 An infusion rate of 10 mg/min or less is associated with fewer infusion-related events (see ADVERSE REACTIONS).
 Infusion-related events may occur, however, at any rate or concentration.
 
-## Patients With Normal Renal Function
+## Patients with Normal Renal Function
 
 ### Adults
 

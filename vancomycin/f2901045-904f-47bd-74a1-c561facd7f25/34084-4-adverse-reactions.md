@@ -13,7 +13,7 @@ In studies of normal volunteers, infusion-related events did not occur when vanc
 Systemic vancomycin exposure may result in acute kidney injury (AKI).
 The risk of AKI increases as systemic exposure/serum levels increase.
 Additional risk factors for AKI in patients receiving vancomycin include receipt of concomitant drugs known to be nephrotoxic, in patients with pre-exiting renal impairment, or with co-morbidities that predispose to renal impairment.
-Interstitial nephritis has also been reported in patients receiving vancomycin..
+Interstitial nephritis has also been reported in patients receiving vancomycin.
 
 ## Gastrointestinal
 

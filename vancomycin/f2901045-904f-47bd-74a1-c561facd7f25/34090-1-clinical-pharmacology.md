@@ -37,15 +37,7 @@ Vancomycin has been shown to be active against most strains of the following mic
 
 #### Aerobic gram-positive microorganisms
 
-Diphtheroids
-
-Enterococci (e.g., Enterococcus faecalis)
-
-Staphylococci, including Staphylococcus aureus and Staphylococcus epidermidis (including heterogeneous methicillin-resistant strains)
-
-Streptococcus bovis
-
-Viridans group streptococci
+Diphtheroids Enterococci (e.g., Enterococcus faecalis) Staphylococci, including Staphylococcus aureus and Staphylococcus epidermidis (including heterogeneous methicillin-resistant strains) Streptococcus bovis Viridans group streptococci
 
 The following in vitro data are available, but their clinical significance is unknown.
 
