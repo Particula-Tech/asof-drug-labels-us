@@ -74,3 +74,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Application site reactions (including events such as application site hemorrhage, application site pain, application site discomfort, application site bruise, and application site erythema) have been reported with the use of the on-body injector for Neulasta.
 - Contact dermatitis and local skin reactions such as rash, pruritus, and urticaria have been reported with the use of the on-body injector for Neulasta, possibly indicating a hypersensitivity reaction to the adhesive.
 - Aortitis [see Warnings and Precautions (5.11)]
+- Alveolar hemorrhage

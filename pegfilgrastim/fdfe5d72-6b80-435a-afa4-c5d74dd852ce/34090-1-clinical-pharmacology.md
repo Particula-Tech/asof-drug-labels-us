@@ -39,4 +39,4 @@ Patients Acutely Exposed to Myelosuppressive Doses of Radiation
 The pharmacokinetics of pegfilgrastim is not available in patients acutely exposed to myelosuppressive doses of radiation.
 Based on limited pharmacokinetic data in irradiated non-human primates, the area under the concentration-time curve (AUC), reflecting the exposure to pegfilgrastim in non-human primates following a 300 mcg/kg dose of Neulasta, appears to be greater than in humans receiving a 6 mg dose.
 Results from population modeling and simulation indicate that two 6 mg doses of Neulasta administered one week apart in adults result in clinically relevant effects on duration of grade 3 and 4 neutropenia.
-In addition, weight based dosing in pediatric patients weighing less than 45 kg [see Dosage and Administration, Section (2.3), Table 1] provides exposures comparable to those in adults receiving two 6 mg doses one week apart.
+In addition, weight based dosing in pediatric patients weighing less than 45 kg [see Dosage and Administration, Section 2.3, Table 1] provides exposures comparable to those in adults receiving two 6 mg doses one week apart.

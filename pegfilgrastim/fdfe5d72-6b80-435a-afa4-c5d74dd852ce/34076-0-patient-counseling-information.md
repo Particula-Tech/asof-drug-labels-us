@@ -58,6 +58,6 @@ Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Th
 
 Patent: http://pat.amgen.com/onpro/
 
-© 2002-2018 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
+© 2002-2019 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
 
-v22
+V23
