@@ -112,14 +112,24 @@ Neurontin® (gabapentin) tablets
 
 # PRINCIPAL DISPLAY PANEL - 470 mL Bottle Label
 
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
 Pfizer NDC 0071-2012-23
 
-Neurontin® (gabapentin)
+Neurontin® (gabapentin) oral solution
 
 250 mg per 5 mL
 
-oral solution
+470 mL Rx only
+
+# PRINCIPAL DISPLAY PANEL - 470 mL Bottle Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0071-2012-23
+
+Neurontin® (gabapentin) oral solution
+
+250 mg per 5 mL
 
 470 mL Rx only
