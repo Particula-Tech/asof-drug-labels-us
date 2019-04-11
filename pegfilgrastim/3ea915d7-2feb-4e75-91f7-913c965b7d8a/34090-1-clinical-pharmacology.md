@@ -23,7 +23,7 @@ The half-life of pegfilgrastim ranged from 15 to 80 hours after subcutaneous inj
 
 No gender-related differences were observed in the pharmacokinetics of pegfilgrastim, and no differences were observed in the pharmacokinetics of geriatric patients (≥ 65 years of age) compared with younger patients (< 65 years of age) [see Use in Specific Populations (8.5)].
 
-#### Renal Impairment
+#### Patients with Renal Impairment
 
 In a study of 30 subjects with varying degrees of renal dysfunction, including end stage renal disease, renal dysfunction had no effect on the pharmacokinetics of pegfilgrastim.
 

@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - •Splenic Rupture [See Warnings and Precautions (5.1)]
 - •Acute Respiratory Distress Syndrome [See Warnings and Precautions (5.2)]
@@ -48,7 +48,7 @@ No complications attributable to leukocytosis were reported in clinical studies.
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to pegfilgrastim in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other pegfilgrastim products may be misleading.
 
 Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
 The approximate limit of detection for this assay is 500 ng/mL.

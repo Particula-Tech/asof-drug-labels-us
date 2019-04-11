@@ -11,7 +11,7 @@ NDC 67457-833-06
 Fulphila prefilled syringe does not bear graduation marks and is intended only to deliver the entire contents of the syringe (6 mg/0.6 mL) for direct administration.
 Use of the prefilled syringe is not recommended for direct administration for pediatric patients weighing less than 45 kg who require doses that are less than the full contents of the syringe.
 
-Store refrigerated between 2° to 8°C (36° to 46°F) in the carton to protect from light.
+Store refrigerated between 2° to 8°C (36° to 46°F) in the carton to protect from light or physical damage.
 Do not shake.
 Discard syringes stored at room temperature for more than 72 hours.
 Avoid freezing; if frozen, thaw in the refrigerator before administration.
