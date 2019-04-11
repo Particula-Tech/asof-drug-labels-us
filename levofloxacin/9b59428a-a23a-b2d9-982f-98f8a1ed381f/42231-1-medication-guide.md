@@ -259,8 +259,7 @@ These can be signs of a serious reaction to levofloxacin tablets (a liver proble
 
 - Aortic aneurysm and dissection
 
-People who take fluoroquinolone medicines, including levofloxacin, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
-Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
 Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 
 - Intestine infection (Pseudomembranous colitis)
@@ -357,6 +356,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1218
+Revised: 0419
 
 Dispense the Medication Guide available at: www.drreddys.com/medguide/levofloxacintabs.pdf

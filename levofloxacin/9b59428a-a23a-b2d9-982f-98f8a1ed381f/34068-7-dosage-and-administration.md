@@ -26,7 +26,7 @@ Table 1: Dosageof Levofloxacin Tablets in Adult Patients with Creatinine Clearan
 | Acute Bacterial Sinusitis (ABS) | 750 mg | 5 |
 |  | 500 mg | 10 to 14 |
 
-1* Due to the designated pathogens [see Indications and Usage (1)].
+* Due to the designated pathogens [see Indications and Usage (1)].
 
 †Sequential therapy (intravenous levofloxacin to oral levofloxacin tablets) may be instituted at the discretion of the healthcare provider.
 
