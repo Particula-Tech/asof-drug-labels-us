@@ -15,4 +15,4 @@ Tetracaine, an ester local anesthetic, is chemically designated as 2-dimethylami
 The molecular weight of tetracaine is 264.4, and the molecular formula is C15H24N2O2.
 The structural formula is:
 
-Each gram of PLIAGLIS contains lidocaine 70 mg and tetracaine 70 mg in a 1:1 eutectic mixture and it also contains the following inactive ingredients: dibasic calcium phosphate, methylparaben, petrolatum, polyvinyl alcohol, propylparaben, purified water, and sorbitan monopalmitate.
+Each gram of PLIAGLIS contains lidocaine 70 mg and tetracaine 70 mg in a 1:1 eutectic mixture and it also contains the following inactive ingredients: anhydrous dibasic calcium phosphate, methylparaben, polyvinyl alcohol, propylparaben, purified water, sorbitan monopalmitate, and white petrolatum.
