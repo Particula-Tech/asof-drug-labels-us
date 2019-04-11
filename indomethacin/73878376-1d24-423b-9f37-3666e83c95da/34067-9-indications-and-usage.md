@@ -1,0 +1,9 @@
+# 1 INDICATIONS AND USAGE
+
+INDOCIN Oral Suspension is indicated for:
+
+- Moderate to severe rheumatoid arthritis including acute flares of chronic disease
+- Moderate to severe ankylosing spondylitis
+- Moderate to severe osteoarthritis
+- Acute painful shoulder (bursitis and/or tendinitis)
+- Acute gouty arthritis

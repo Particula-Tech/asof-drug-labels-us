@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018332"
+  ],
+  "inn": "indomethacin",
+  "labeler": "Egalet US Inc.",
+  "package_ndcs": [
+    "69344-101-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "indomethacin",
+      "name": "Indocin"
+    }
+  ],
+  "setid": "73878376-1d24-423b-9f37-3666e83c95da",
+  "source": "dailymed"
+}
