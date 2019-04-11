@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204592"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Egalet US Inc.",
+  "package_ndcs": [
+    "69344-203-29",
+    "69344-204-29"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "diclofenac",
+      "name": "Zorvolex"
+    }
+  ],
+  "setid": "f83d5c03-8094-4216-8969-a1102da68f15",
+  "source": "dailymed"
+}
