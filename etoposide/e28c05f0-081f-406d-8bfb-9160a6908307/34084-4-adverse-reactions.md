@@ -26,3 +26,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Extravasation Extravasation, resulting in local soft tissue toxicity, was identified in postmarketing reports.
 Extravasation of ETOPOPHOS may result in swelling, pain, cellulitis, and necrosis including skin necrosis.
+
+Renal Failure
+
+Reversible acute renal failure has been reported in postmarketing experience [Warning and Precautions (5.5)]​​​

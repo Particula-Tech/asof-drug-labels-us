@@ -23,3 +23,8 @@ Advise pregnant women of the potential hazard to the fetus [see Use in Specific 
 
 Advise females of reproductive potential to use effective contraception during treatment with ETOPOPHOS and for at least 6 months after the final dose.
 Advise males with female partners of reproductive potential to use effective contraception for 4 months after the final dose [see Use in Specific Populations (8.3)].
+
+## 5.5 Renal Failure
+
+Mostly in children, reversible acute renal failure may occur when high dose (2220 mg/m2) etoposide phosphate and total body irradiation are used for hematopoietic stem cell transplantation.
+Renal function should be evaluated prior to and after etoposide phosphate administration until complete renal function recovery [see Adverse Reactions (6.2)]

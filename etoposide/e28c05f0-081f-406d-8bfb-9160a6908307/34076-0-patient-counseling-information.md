@@ -13,6 +13,4 @@ Embryo-Fetal Toxicity
 
 Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-Product of Germany
-
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA [Print code]
