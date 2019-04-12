@@ -18,13 +18,13 @@ Keep this and all medication out of reach of children.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured For
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8069272 Revised July 2018
+8074824 Revised April 2019
 
 ## PATIENT INFORMATION
 
@@ -173,12 +173,12 @@ For more information or call Torrent Pharma Inc. at 1-800-912-9561.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured For
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8069273 Revised July 2018
+8074834 Revised April 2019
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
