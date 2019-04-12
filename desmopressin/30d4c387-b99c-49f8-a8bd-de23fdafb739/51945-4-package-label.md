@@ -2,7 +2,7 @@
 
 NDC 0053-6871-00 2.5 mL
 
-STIMATE® (desmopressin acetate)
+STIMATE ® (desmopressin acetate)
 
 Nasal Spray, 1.5 mg/mL
 

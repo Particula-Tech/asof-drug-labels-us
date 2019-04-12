@@ -2,7 +2,7 @@
 
 Before the initial therapeutic administration of Stimate Nasal Spray, the physician should establish that the patient shows an appropriate change in the coagulation profile following a test dose of intranasal administration of Stimate Nasal Spray.
 
-Desmopressin acetate is also available as a solution for injection (DDAVP® Injection) when the intranasal route may be compromised.
+Desmopressin acetate is also available as a solution for injection (DDAVP ® Injection) when the intranasal route may be compromised.
 These situations include nasal congestion and blockage, nasal discharge, atrophy of nasal mucosa, and severe atrophic rhinitis.
 Intranasal delivery may also be inappropriate where there is an impaired level of consciousness.
 

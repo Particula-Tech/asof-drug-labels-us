@@ -1,6 +1,6 @@
-# PATIENT INSTRUCTION GUIDE Stimate® Nasal Spray (Pronounced Stim-ate) desmopressin acetate)
+# PATIENT INSTRUCTION GUIDE Stimate ® Nasal Spray (Pronounced Stim-ate) desmopressin acetate)
 
-Read this patient information leaflet before you start taking Stimate® Nasal Spray and each time you get a refill.
+Read this patient information leaflet before you start taking Stimate ® Nasal Spray and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
@@ -86,7 +86,7 @@ How should I use Stimate Nasal Spray?
 What are the possible side effects of Stimate Nasal Spray?
 
 Stimate Nasal Spray may cause serious side effects that come from having too much water in the body.
-See "What is the most important information I should know about Stimate Nasal Spray?".
+See " What is the most important information I should know about Stimate Nasal Spray?".
 
 Common side effects of Stimate Nasal Spray include:
 
