@@ -1,13 +1,13 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance
+## 9.1 Controlled Substance
 
-ULTRAM (tramadol hydrochloride) Tablets contain tramadol, a Schedule IV controlled substance.
+ULTRAM (tramadol hydrochloride) contain tramadol, a Schedule IV controlled substance.
 
-## Abuse
+## 9.2 Abuse
 
 ULTRAM contains tramadol, a substance with a high potential for abuse similar to other opioids.
-ULTRAM can be abused and is subject to misuse, addiction, and criminal diversion (see WARNINGS).
+ULTRAM can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
@@ -29,7 +29,7 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-### Risks Specific to Abuse of ULTRAM
+Risks Specific to Abuse of ULTRAM
 
 ULTRAM is intended for oral use only.
 Abuse of ULTRAM poses a risk of overdose and death.
@@ -37,7 +37,7 @@ The risk is increased with concurrent abuse of ULTRAM with alcohol and other cen
 
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
-## Dependence
+## 9.3 Dependence
 
 Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of drugs to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
@@ -47,9 +47,9 @@ Physical dependence results in withdrawal symptoms after abrupt discontinuation 
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine), or partial agonists (buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-ULTRAM should not be abruptly discontinued in a physically dependent patient (see DOSAGE AND ADMINISTRATION).
-If ULTRAM is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
+ULTRAM should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2)].
+If ULTRAM is abruptly discontinued in a physically dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs (see PRECAUTIONS; Pregnancy).
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

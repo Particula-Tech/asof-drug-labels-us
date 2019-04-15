@@ -1,14 +1,14 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Clinical Presentation
+Clinical Presentation
 
 Acute overdosage with ULTRAM can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, QT prolongation, hypotension, partial or complete airway obstruction, atypical snoring, seizures, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
-Deaths due to overdose have been reported with abuse and misuse of tramadol (see WARNINGS; Addiction, Abuse, and Misuse).
+Deaths due to overdose have been reported with abuse and misuse of tramadol [see Warnings and Precautions (5.1); Drug Abuse and Dependence (9.2)].
 Review of case reports has indicated that the risk of fatal overdose is further increased when tramadol is abused concurrently with alcohol or other CNS depressants, including other opioids.
 
-### Treatment of Overdose
+Treatment of Overdose
 
 In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.

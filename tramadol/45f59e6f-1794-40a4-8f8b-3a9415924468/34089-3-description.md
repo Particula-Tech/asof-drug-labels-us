@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-ULTRAM (tramadol hydrochloride) tablets are an opioid agonist.
+ULTRAM (tramadol hydrochloride) tablets, for oral use, are an opioid agonist.
 The chemical name for tramadol hydrochloride is (±)cis-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl) cyclohexanol hydrochloride.
 The structural formula is:
 

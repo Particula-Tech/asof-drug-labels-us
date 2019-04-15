@@ -1,33 +1,33 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- Addiction, Abuse, and Misuse (see WARNINGS)
-- Life-Threatening Respiratory Depression (see WARNINGS)
-- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children (see WARNINGS)
-- Neonatal Opioid Withdrawal Syndrome (see WARNINGS)
-- Interactions with Benzodiazepines or Other CNS Depressants (see WARNINGS)
-- Serotonin Syndrome (see WARNINGS)
-- Seizures (see WARNINGS)
-- Suicide (see WARNINGS)
-- Adrenal Insufficiency (see WARNINGS)
-- Severe Hypotension (see WARNINGS)
-- Gastrointestinal Adverse Reactions (see WARNINGS)
-- Hypersensitivity Reactions (see WARNINGS)
-- Withdrawal (see WARNINGS)
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children [see Warnings and Precautions (5.4)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.7)]
+- Serotonin Syndrome [see Warnings and Precautions (5.8)]
+- Seizures [see Warnings and Precautions (5.9)]
+- Suicide [see Warnings and Precautions (5.10)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.11)]
+- Severe Hypotension [see Warnings and Precautions (5.13)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.15)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.16)]
+- Withdrawal [see Warnings and Precautions (5.17)]
 
-## Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 ULTRAM was administered to 550 patients during the double-blind or open-label extension periods in U.S. studies of chronic nonmalignant pain.
 Of these patients, 375 were 65 years old or older.
-Table 2 reports the cumulative incidence rate of adverse reactions by 7, 30 and 90 days for the most frequent reactions (5% or more by 7 days).
+Table 1 reports the cumulative incidence rate of adverse reactions by 7, 30 and 90 days for the most frequent reactions (5% or more by 7 days).
 The most frequently reported events were in the central nervous system and gastrointestinal system.
 Although the reactions listed in the table are felt to be probably related to ULTRAM administration, the reported rates also include some events that may have been due to underlying disease or concomitant medication.
 The overall incidence rates of adverse experiences in these trials were similar for ULTRAM and the active control groups, TYLENOL with Codeine #3 (acetaminophen 300 mg with codeine phosphate 30 mg), and aspirin 325 mg with codeine phosphate 30 mg, however, the rates of withdrawals due to adverse events appeared to be higher in the ULTRAM groups.
 
-Table 2: Cumulative Incidence of Adverse Reactions for ULTRAM in Chronic Trials of Nonmalignant Pain (N=427)
+Table 1: Cumulative Incidence of Adverse Reactions for ULTRAM in Chronic Trials of Nonmalignant Pain (N=427)
 
 |  | Up to 7 Days | Up to 30 Days | Up to 90 Days |
 | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ Table 2: Cumulative Incidence of Adverse Reactions for ULTRAM in Chronic Trials 
 | Dry Mouth | 5% | 9% | 10% |
 | Diarrhea | 5% | 6% | 10% |
 
-### Incidence 1% to less than 5% possibly causally related
+Incidence 1% to less than 5% possibly causally related
 
 The following lists adverse reactions that occurred with an incidence of 1% to less than 5% in clinical trials, and for which the possibility of a causal relationship with ULTRAM exists.
 
@@ -65,7 +65,7 @@ Special Senses: Visual disturbance.
 
 Urogenital: Menopausal symptoms, Urinary frequency, Urinary retention.
 
-### Incidence less than 1%, possibly causally related
+Incidence less than 1%, possibly causally related
 
 The following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials of tramadol and/or reported in post-marketing experience with tramadol-containing products.
 
@@ -73,20 +73,17 @@ Body as a Whole: Accidental injury, Allergic reaction, Anaphylaxis, Death, Suici
 
 Cardiovascular: Orthostatic hypotension, Syncope, Tachycardia.
 
-Central Nervous System: Abnormal gait, Amnesia, Cognitive dysfunction, Delirium, Depression, Difficulty in concentration, Hallucinations, Movement disorder, Paresthesia, Seizure, Speech disorder, Tremor.
-
-Metabolism and Nutrition Disorders: Cases of hypoglycemia have been reported very rarely in patients taking tramadol.
-Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients.
+Central Nervous System: Abnormal gait, Amnesia, Cognitive dysfunction, Depression, Difficulty in concentration, Hallucinations, Paresthesia, Seizure, Tremor.
 
 Respiratory: Dyspnea.
 
 Skin: Stevens-Johnson syndrome/Toxic epidermal necrolysis, Urticaria, Vesicles.
 
-Special Senses: Dysgeusia, Mydriasis.
+Special Senses: Dysgeusia.
 
 Urogenital: Dysuria, Menstrual disorder.
 
-### Other adverse experiences, causal relationship unknown
+Other adverse experiences, causal relationship unknown
 
 A variety of other adverse events were reported infrequently in patients taking ULTRAM during clinical trials and/or reported in post-marketing experience.
 A causal relationship between ULTRAM and these events has not been determined.
@@ -102,19 +99,25 @@ Laboratory Abnormalities: Creatinine increase, Elevated liver enzymes, Hemoglobi
 
 Sensory: Cataracts, Deafness, Tinnitus.
 
-## Post-marketing Experience
+## 6.2 Postmarketing Experience
 
-### Serotonin syndrome
+The following adverse reactions have been identified during post-approval use of ULTRAM.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-### Adrenal insufficiency
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
-
-### Androgen deficiency
-
-Cases of androgen deficiency have occurred with chronic use of opioids (see CLINICAL PHARMACOLOGY).
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 
 QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
 Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in the overdose setting.
+
+Eye disorders – mydriasis
+
+Metabolism and nutrition disorders – Cases of hypoglycemia have been reported very rarely in patients taking tramadol.
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients.
+
+Nervous system disorders – movement disorder, speech disorder
+
+Psychiatric disorders – delirium
