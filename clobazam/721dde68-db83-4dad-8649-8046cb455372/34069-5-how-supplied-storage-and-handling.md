@@ -6,6 +6,8 @@ Bottles of 30 NDC 42571-315-30
 
 Bottles of 90 NDC 42571-315-90
 
+Bottles of 100 NDC 42571-315-01
+
 Bottles of 500 NDC 42571-315-05
 
 Carton of (Alu-Alu blister) 100 (10 x 10) Unit-dose Tablets NDC 42571-315-11
@@ -17,6 +19,8 @@ Each clobazam tablet contains 20 mg white to off white, oval shaped tablets with
 Bottles of 30 NDC 42571-316-30
 
 Bottles of 90 NDC 42571-316-90
+
+Bottles of 100 NDC 42571-316-01
 
 Carton of (Alu-Alu blister) 100 (10 x 10) Unit-dose Tablets NDC 42571-316-11
 
