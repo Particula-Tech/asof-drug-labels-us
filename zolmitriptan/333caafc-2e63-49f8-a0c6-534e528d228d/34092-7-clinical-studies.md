@@ -21,7 +21,7 @@ In Studies 1 and 3, there was a statistically significant greater percentage of 
 There were no statistically significant differences between the 2.5 and 5 mg dose groups (or of doses up to 20 mg) for the primary end point of headache response at 2 hours in any study.
 The results of these controlled clinical studies are summarized in Table 2.
 
-Table 2 Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
+Table 2: Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
 
 |  | Placebo | Zolmitriptan tablets 1 mg | Zolmitriptan tablets 2.5 mg | Zolmitriptan tablets 5 mg |
 | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ For patients with migraine associated photophobia, phonophobia, and nausea at ba
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
 
-Figure 2 The Estimated Probability Of Patients Taking A Second Dose Or Other Medication For Migraines Over The 24 Hours Following The Initial Dose Of Study Treatment in Pooled Studies 2, 3, and 5*
+Figure 2 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Studies 2, 3, and 5*
 
 *In this Kaplan-Meier plot, patients not using additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.

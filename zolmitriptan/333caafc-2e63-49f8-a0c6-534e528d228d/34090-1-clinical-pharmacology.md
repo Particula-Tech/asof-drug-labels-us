@@ -20,7 +20,7 @@ Zolmitriptan displays linear kinetics over the dose range of 2.5 to 50 mg.
 The AUC and Cmax of zolmitriptan are similar following administration of zolmitriptan tablets and zolmitriptan orally disintegrating tablets, but the Tmax is somewhat later with zolmitriptan orally disintegrating tablets, with a median Tmax of 3 hours for zolmitriptan orally disintegrating tablet compared with 1.5 hours for the zolmitriptan tablet.
 The AUC, Cmax, and Tmax for the active N-desmethyl metabolite are similar for the two formulations.
 
-During a moderate to severe migraine attack, mean AUC0-4 and Cmax for zolmitriptan, dosed as a zolmitriptan tablet, were decreased by 40% and 25%, respectively, and mean Tmax was delayed by one-half hour compared to the same patients during a migraine free period.
+During a moderate to severe migraine attack, mean AUC0 to 4 and Cmax for zolmitriptan, dosed as a zolmitriptan tablet, were decreased by 40% and 25%, respectively, and mean Tmax was delayed by one-half hour compared to the same patients during a migraine free period.
 
 Food has no significant effect on the bioavailability of zolmitriptan.
 No accumulation occurred on multiple dosing.
@@ -46,7 +46,7 @@ The indole acetic acid and N-oxide metabolites are inactive.
 Mean total plasma clearance is 31.5 mL/min/kg, of which one-sixth is renal clearance.
 The renal clearance is greater than the glomerular filtration rate suggesting renal tubular secretion.
 
-### Special Populations
+### Specific Populations
 
 #### Hepatic Impairment
 
@@ -81,7 +81,7 @@ All drug interaction studies were performed in healthy volunteers using a single
 #### MAO Inhibitors
 
 Following one week of administration of moclobemide (150 mg twice daily), a specific MAO-A inhibitor, there was an increase of about 25% in both Cmax and AUC for zolmitriptan and a 3-fold increase in the Cmax and AUC of the active N-desmethyl metabolite of zolmitriptan.
-MAO inhibitors are contraindicated in zolmitriptan-treated patients [see Contraindications (4), Warnings and Precautions (5.7), and Drug Interactions (7.2, 7.4)].
+MAO inhibitors are contraindicated in zolmitriptan-treated patients [see Contraindications (4), Warnings and Precautions (5.7), Drug Interactions (7.2, 7.4)].
 
 Selegiline, a selective MAO-B inhibitor, at a dose of 10 mg/day for 1 week, had no effect on the pharmacokinetics of zolmitriptan and its metabolite.
 
