@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Penicillin G potassium may be given intravenously or intramuscularly.
+Penicillin G Potassium for Injection, USP may be given intravenously or intramuscularly.
 The usual dose recommendations are as follows:
 
 ## Adult Patients

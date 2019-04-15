@@ -2,8 +2,7 @@
 
 Penicillin G Potassium for Injection, USP is a natural penicillin.
 Penicillin G Potassium for Injection, USP is a sterile, pyrogen-free powder for reconstitution.
-Penicillin G Potassium for Injection, USP is an antibacterial agent intended for parenteral administration.
-
+Penicillin G Potassium for Injection, USP is an antibacterial agent for intramuscular, continuous intravenous drip, intrapleural or other local infusion, and intrathecal administration.
 Chemically, Penicillin G Potassium for Injection, USP is monopotassium (2S,5R,6R) -3,3-dimethyl-7- oxo-6- (2-phenylacetamido) -4-thia-1- azabicyclo (3.2.0) heptane-2-carboxylate.
 It has a molecular weight of 372.48 and the following structural formula:
 

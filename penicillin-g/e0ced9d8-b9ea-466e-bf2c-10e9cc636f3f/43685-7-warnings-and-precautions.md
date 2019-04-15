@@ -37,6 +37,11 @@ When indicated, incision and drainage or other surgical procedures should be per
 
 Prescribing Penicillin G Potassium for Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
+## Intramuscular Therapy
+
+Care should be taken to avoid intravenous or accidental intraarterial administration, or injection into or near major peripheral nerves or blood vessels, since such injections may produce neurovascular damage.
+Particular care should be taken with IV administration because of the possibility of thrombophlebitis.
+
 ## Information for Patients
 
 Patients should be counseled that antibacterial drugs including Penicillin G Potassium for Injection, USP should only be used to treat bacterial infections.
@@ -70,7 +75,7 @@ These drugs include: aspirin, phenylbutazone, sulfonamides, indomethacin, thiazi
 
 ## Drug/Laboratory Test Interactions
 
-After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix® and Tes-Tape®.
+After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or Clinitest tablet, but not with the enzyme-based tests, such as Clinistix and Tes-Tape.
 
 Penicillin G has been associated with pseudoproteinuria by certain test methods.
 
@@ -111,6 +116,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-Penicillin G potassium contains 6.9 milligrams of sodium (0.3 mEq) and 65.8 milligrams of potassium (1.68 mEq) per million units of penicillin G. At the usual recommended doses, patients would receive between 6.9 and 165.6 mg/day (0.3 and 7.2 mEq) of sodium.
+Penicillin G potassium contains 6.9 milligrams of sodium (0.3 mEq) per million units.
+At the usual recommended doses of 10 to 20 million units per day, patients would receive between 69 and 138 mg/day (3 and 6 mEq) of sodium.
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.

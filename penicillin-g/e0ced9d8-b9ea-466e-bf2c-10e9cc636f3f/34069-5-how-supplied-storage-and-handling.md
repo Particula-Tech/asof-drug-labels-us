@@ -12,3 +12,20 @@ Each million units contains approximately 6.9 milligrams of sodium (0.3 mEq) and
 Store the dry powder at 20° to 25°C (68° to 77°F) [See USP Controlled RoomTemperature].
 
 Sterile constituted solution may be kept in refrigerator 2° to 8°C (36° to 46°F) for 7 days without significant loss of potency.
+
+Clinitest is a registered trademark of Miles, Inc.
+
+Clinistix is a registered trademark of Bayer Corporation.
+
+Tes-Tape is a registered trademark of Eli Lilly Company.
+
+Manufactured for:
+
+WG Critical Care, LLC
+
+Paramus, NJ 07652
+
+Rev.
+11/2018
+
+INS15862 04

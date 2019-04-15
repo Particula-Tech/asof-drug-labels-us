@@ -24,6 +24,6 @@ Therapy with penicillin G Potassium for Injection, USP may be indicated before r
 | Meningococcal meningitis and / or septicemia | Neisseria meningitidis |
 | Gram-negative bacillary infections (bacteremias)Penicillin G is not the drug of choice in the treatment of gram-negative bacillary infections. | Gram-negative bacillary organisms (i.e. Enterobacteriaceae) |
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium for Injection, USP and other antibacterial drugs, Penicillin G Potassium for Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium for Injection, USP and other antibacterial drugs, Penicillin G Potassium for Injection, USP should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
