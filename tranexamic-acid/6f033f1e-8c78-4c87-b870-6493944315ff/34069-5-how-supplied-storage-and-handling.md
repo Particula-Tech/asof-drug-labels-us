@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Tranexamic Acid Injection 1000 mg/10 mL (100 mg/mL), a clear, colorless solution, is available in:
+Tranexamic Acid Injection USP, 1000 mg/10 mL (100 mg/mL), a clear, colorless solution, is available in:
 
 NDC 67457-197-10 10 mL single-dose vial, packages of 10
 
@@ -13,4 +13,4 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-Revised: 12/2017 MI:TREXIJ:R6 0998L101
+Revised: 2/2019 MI:TREXIJ:R7 0998L102

@@ -2,7 +2,7 @@
 
 NDC 67457-197-10
 
-Tranexamic Acid Injection
+Tranexamic Acid Injection, USP
 
 1000 mg/10 mL (100 mg/mL)
 
@@ -15,7 +15,7 @@ Non-pyrogenic.
 
 Discard unused portion.
 
-Each mL contains: Tranexamic acid, 100 mg; water for injection, q.s.
+Each mL contains: Tranexamic acid USP, 100 mg; water for injection, q.s.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -26,6 +26,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:197:10C:R5
+MI:197:10C:R6
 
 Mylan.com
