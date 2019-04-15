@@ -1,6 +1,8 @@
 # 14 CLINICAL STUDIES
 
-## Zolmitriptan Tablets
+[Enter Generic Section here]
+
+### Zolmitriptan Tablets
 
 The efficacy of zolmitriptan tablets in the acute treatment of migraine headaches was demonstrated in five randomized, double-blind, placebo-controlled studies (Studies 1, 2, 3, 4, and 5), of which two utilized the 1 mg dose, two utilized the 2.5 mg dose and four utilized the 5 mg dose.
 In Study 1, patients treated their headaches in a clinic setting.
@@ -21,27 +23,27 @@ In Studies 1 and 3, there was a statistically significant greater percentage of 
 There were no statistically significant differences between the 2.5 and 5 mg dose groups (or of doses up to 20 mg) for the primary end point of headache response at 2 hours in any study.
 The results of these controlled clinical studies are summarized in Table 2.
 
-Table 2 Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
+Table 2: Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
 
 |  | Placebo | Zolmitriptan tablets 1 mg | Zolmitriptan tablets 2.5 mg | Zolmitriptan tablets 5 mg |
 | --- | --- | --- | --- | --- |
-| Study 1a | 16% (n=19) | 27% (n=22) | NA | 60%*# (n=20) |
-| Study 2 | 19% (n=88) | NA | NA | 66%* (n=179) |
-| Study 3 | 34% (n=121) | 50%* (n=140) | 65%*#(n=260) | 67%*#(n=245) |
-| Study 4b | 44%(n=55) | NA | NA | 59%*(n=491) |
-| Study 5 | 36%(n=92) | NA | 62%*(n=178) | NA |
+| Study 1* | 16% (n†=19) | 27% (n=22) | NA‡ | 60%§¶ (n=20) |
+| Study 2 | 19% (n=88) | NA | NA | 66%§ (n=179) |
+| Study 3 | 34% (n=121) | 50%§ (n=140) | 65%§¶(n=260) | 67%§¶(n=245) |
+| Study 4# | 44%(n=55) | NA | NA | 59%§(n=491) |
+| Study 5 | 36%(n=92) | NA | 62%§(n=178) | NA |
 
-n=number of patients randomized
+*Study 1 was the only study in which patients treated the headache in a clinic setting
 
-*p<0.05 in comparison with placebo.
+† n=number of patients randomized
 
-#p<0.05 in comparison with 1 mg.
+‡ NA - not applicable
 
-a Study 1 was the only study in which patients treated the headache in a clinic setting.
+§ P<0.05 in comparison with placebo.
 
-b Study 4 was the only study where patients were excluded who had previously used sumatriptan.
+¶ P<0.05 in comparison with 1 mg.
 
-NA - not applicable
+# Study 4 was the only study where patients were excluded who had previously used sumatriptan.
 
 The estimated probability of achieving an initial headache response by 4 hours following treatment in pooled Studies 2, 3, and 5 is depicted in Figure 1.
 
@@ -55,7 +57,7 @@ For patients with migraine associated photophobia, phonophobia, and nausea at ba
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
 
-Figure 2 The Estimated Probability Of Patients Taking A Second Dose Or Other Medication For Migraines Over The 24 Hours Following The Initial Dose Of Study Treatment in Pooled Studies 2, 3, and 5*
+Figure 2 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Studies 2, 3, and 5*
 
 *In this Kaplan-Meier plot, patients not using additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.
@@ -63,7 +65,7 @@ The studies did not allow taking additional doses of study medication within 2 h
 
 The efficacy of zolmitriptan was unaffected by presence of aura; duration of headache prior to treatment; relationship to menses; gender, age, or weight of the patient; pre-treatment nausea or concomitant use of common migraine prophylactic drugs.
 
-## Zolmitriptan Orally Disintegrating Tablets
+### Zolmitriptan Orally Disintegrating Tablets
 
 The efficacy of zolmitriptan 2.5 mg orally disintegrating tablets was demonstrated in a randomized, placebo-controlled trial (Study 6) that was similar in design to the trials of zolmitriptan tablets.
 Patients were instructed to treat a moderate to severe headache.
@@ -77,10 +79,11 @@ Figure 3 Estimated Probability of Achieving Initial Headache Response (Reduction
 *In this Kaplan-Meier plot, patients taking additional treatment or not achieving headache response prior to 2 hours were censored at 2 hours.
 
 For patients with migraine-associated photophobia, phonophobia and nausea at baseline, there was a decreased incidence of these symptoms following administration of zolmitriptan orally disintegrating tablets as compared to placebo.
+
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment in Study 6 is summarized in Figure 4.
 
-Figure 4 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines Over the 24 Hours Following The Initial Dose of Study Treatment in Study 6*
+Figure 4 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines Over the 24 Hours Following the Initial Dose of Study Treatment in Study 6*
 
 * In this Kaplan-Meier plot, patients not taking additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.

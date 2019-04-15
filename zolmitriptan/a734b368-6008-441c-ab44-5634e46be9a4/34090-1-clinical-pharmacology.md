@@ -6,7 +6,7 @@ Zolmitriptan binds with high affinity to human recombinant 5-HT1D and 5-HT1B rec
 The N-desmethyl metabolite also has high affinity for 5-HT1B/1D and moderate affinity for 5-HT1A receptors.
 
 Migraines are likely due to local cranial vasodilatation and/or to the release of sensory neuropeptides (vasoactive intestinal peptide, substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system.
-The therapeutic activity of zolmitriptan for the treatment of migraine headache is thought to be due to the agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels (including the arteriovenous anastomoses) and sensory nerves of the trigeminal system which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
+The therapeutic activity of zolmitriptan for the treatment of migraine headache is thought to be due to the agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels (including the arterio-venous anastomoses) and sensory nerves of the trigeminal system which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
 
 ## 12.3 Pharmacokinetics
 
@@ -20,7 +20,7 @@ Zolmitriptan displays linear kinetics over the dose range of 2.5 to 50 mg.
 The AUC and Cmax of zolmitriptan are similar following administration of zolmitriptan tablets and zolmitriptan orally disintegrating tablets, but the Tmax is somewhat later with zolmitriptan orally disintegrating tablets, with a median Tmax of 3 hours for zolmitriptan orally disintegrating tablet compared with 1.5 hours for the zolmitriptan tablet.
 The AUC, Cmax, and Tmax for the active N-desmethyl metabolite are similar for the two formulations.
 
-During a moderate to severe migraine attack, mean AUC0-4 and Cmax for zolmitriptan, dosed as a zolmitriptan tablet, were decreased by 40% and 25%, respectively, and mean Tmax was delayed by one-half hour compared to the same patients during a migraine free period.
+During a moderate to severe migraine attack, mean AUC0 to 4 and Cmax for zolmitriptan, dosed as a zolmitriptan tablet, were decreased by 40% and 25%, respectively, and mean Tmax was delayed by one-half hour compared to the same patients during a migraine free period.
 
 Food has no significant effect on the bioavailability of zolmitriptan.
 No accumulation occurred on multiple dosing.
@@ -46,11 +46,11 @@ The indole acetic acid and N-oxide metabolites are inactive.
 Mean total plasma clearance is 31.5 mL/min/kg, of which one-sixth is renal clearance.
 The renal clearance is greater than the glomerular filtration rate suggesting renal tubular secretion.
 
-### Special Populations
+### Specific Populations
 
 #### Hepatic Impairment
 
-In patients with severe hepatic impairment, the mean Cmax, Tmax, and AUC0-∞ of zolmitriptan were increased 1.5-fold, 2-fold (2 vs. 4 hours), and 3-fold, respectively, compared to subjects with normal hepatic function.
+In patients with severe hepatic impairment, the mean Cmax, Tmax, and AUC0 to ∞ of zolmitriptan were increased 1.5-fold, 2-fold (2 vs. 4 hours), and 3-fold, respectively, compared to subjects with normal hepatic function.
 Seven out of 27 patients experienced 20 to 80 mm Hg elevations in systolic and/or diastolic blood pressure after a 10 mg zolmitriptan dose.
 Adjust the zolmitriptan dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
@@ -81,7 +81,7 @@ All drug interaction studies were performed in healthy volunteers using a single
 #### MAO Inhibitors
 
 Following one week of administration of moclobemide (150 mg twice daily), a specific MAO-A inhibitor, there was an increase of about 25% in both Cmax and AUC for zolmitriptan and a 3-fold increase in the Cmax and AUC of the active N-desmethyl metabolite of zolmitriptan.
-MAO inhibitors are contraindicated in zolmitriptan-treated patients [see Contraindications (4), Warnings and Precautions (5.7), and Drug Interactions (7.2, 7.4)].
+MAO inhibitors are contraindicated in zolmitriptan-treated patients [see Contraindications (4), Warnings and Precautions (5.7), Drug Interactions (7.2, 7.4)].
 
 Selegiline, a selective MAO-B inhibitor, at a dose of 10 mg/day for 1 week, had no effect on the pharmacokinetics of zolmitriptan and its metabolite.
 

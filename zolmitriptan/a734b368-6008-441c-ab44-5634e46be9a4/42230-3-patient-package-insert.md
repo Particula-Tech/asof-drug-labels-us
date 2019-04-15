@@ -1,16 +1,16 @@
-# Patient Information Zolmitriptan Orally Disintegrating Tablets
+# Patient Information Zolmitriptan (ZOLE-mi-TRIP-tan) Orally Disintegrating Tablets
 
 Please read this information before you start taking zolmitriptan orally disintegrating tablets and each time you renew your prescription just in case anything has changed.
 Remember, this summary does not take the place of discussions with your doctor.
 You and your doctor should discuss zolmitriptan orally disintegrating tablets when you start taking your medication and at regular checkups.
 
-## What are zolmitriptan orally disintegrating tablets?
+What are zolmitriptan orally disintegrating tablets?
 
 Zolmitriptan orally disintegrating tablets are a prescription medication used to treat migraine headaches in adults.
 Zolmitriptan orally disintegrating tablets are not for other types of headaches.
 The safety and efficacy of zolmitriptan orally disintegrating tablets in patients under 18 have not been established.
 
-## What is a Migraine Headache?
+What is a Migraine Headache?
 
 Migraine is an intense, throbbing headache.
 You may have pain on one or both sides of your head.
@@ -19,14 +19,14 @@ The pain and symptoms of a migraine headache can be worse than a common headache
 Some women get migraines around the time of their menstrual period.
 Some people have visual symptoms before the headache, such as flashing lights or wavy lines, called an aura.
 
-## How do zolmitriptan orally disintegrating tablets work?
+How do zolmitriptan orally disintegrating tablets work?
 
 Treatment with zolmitriptan orally disintegrating tablets reduces swelling of blood vessels surrounding the brain.
 This swelling is associated with the headache pain of a migraine attack.
 Zolmitriptan orally disintegrating tablets block the release of substances from nerve endings that cause more pain and other symptoms like nausea, and sensitivity to light and sound.
 It is thought that these actions contribute to relief of your symptoms by zolmitriptan orally disintegrating tablets.
 
-## Who should not take zolmitriptan orally disintegrating tablets?
+Who should not take zolmitriptan orally disintegrating tablets?
 
 Do not take zolmitriptan orally disintegrating tablets if you:
 
@@ -42,8 +42,7 @@ Do not take zolmitriptan orally disintegrating tablets if you:
 - •Are allergic to zolmitriptan orally disintegrating tablets or any of its ingredients.
   The active ingredient is zolmitriptan.
   The inactive ingredients are listed at the end of this leaflet.
-
-Tell your doctor about all the medicines you take or plan to take, including prescription and non-prescription medicines, supplements, and herbal remedies.
+- •Tell your doctor about all the medicines you take or plan to take, including prescription and non-prescription medicines, supplements, and herbal remedies.
 
 Tell your doctor if you are sensitive to phenylalanine, which can be found in the artificial sweetener aspartame.
 Zolmitriptan orally disintegrating tablets contain phenylalanine.
@@ -55,9 +54,14 @@ Your doctor will decide if you can take zolmitriptan orally disintegrating table
 
 Tell your doctor if you know that you have any of the following: risk factors for heart disease like high cholesterol, diabetes, smoking, obesity (overweight), menopause, or a family history of heart disease or stroke.
 
-Tell your doctor if you are pregnant, planning to become pregnant, breast feeding, planning to breast feed, or not using effective birth control.
+Tell your doctor if you are pregnant or plan to become pregnant.
+It is not known if zolmitriptan will harm your unborn baby.
 
-## How should I take zolmitriptan orally disintegrating tablets?
+Tell your doctor if you are breast feeding or plan to breast feed.
+It is not known if zolmitriptan passes into your breast milk.
+Talk to your doctor about the best way to feed your baby while using zolmitriptan orally disintegrating tablets.
+
+How should I take zolmitriptan orally disintegrating tablets?
 
 - •Take zolmitriptan orally disintegrating tablets exactly as your doctor tells you to take it.
   Your doctor will tell you how many zolmitriptan orally disintegrating tablets to take and when to take them.
@@ -66,12 +70,12 @@ Tell your doctor if you are pregnant, planning to become pregnant, breast feedin
 - •Take zolmitriptan orally disintegrating tablets whole.
 - •Place zolmitriptan orally disintegrating tablets on your tongue, where it will dissolve.
 - •Safely throw away any unused tablets or pieces of tablets that have been removed from the blister packaging.
-- •If your headache comes back after your first dose, you may take a second dose anytime after 2 hours of taking the first dose.
+- •If your headache comes back after your first dose, you may take a second dose any time after 2 hours of taking the first dose.
   For any attack where the first dose did not work, do not take a second dose without talking with your doctor.
   Do not take more than a total of 10 mg of zolmitriptan (tablets or spray combined) in any 24 hour period.
   If you take too much medicine, contact your doctor, hospital emergency department, or poison control center right away.
 
-## What are the possible side effects of zolmitriptan orally disintegrating tablets?
+What are the possible side effects of zolmitriptan orally disintegrating tablets?
 
 Zolmitriptan orally disintegrating tablets are generally well tolerated.
 As with any medicine, people taking zolmitriptan orally disintegrating tablets may have side effects.
@@ -111,7 +115,7 @@ Talk to your doctor if you develop any symptoms that concern you.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-## What to do in case of an overdose?
+What to do in case of an overdose?
 
 Call your doctor or poison control center or go to the nearest hospital emergency room.
 
@@ -126,11 +130,9 @@ This leaflet summarizes the most important information about zolmitriptan orally
 If you would like more information about zolmitriptan orally disintegrating tablets, talk to your doctor.
 You can ask your doctor or pharmacist for information on zolmitriptan orally disintegrating tablets that is written for healthcare professionals.
 
-You can also call 1(888)721-7115.
+You can also call 1 (888) 721-7115 or visit our website at www.glenmarkpharma.com/usa.
 
-## What are the ingredients in zolmitriptan orally disintegrating tablets?
-
-Zolmitriptan orally disintegrating tablets
+What are the ingredients in zolmitriptan orally disintegrating tablets?
 
 Active ingredient: zolmitriptan
 
@@ -143,7 +145,7 @@ Protect from light and moisture.
 Discard when expired.
 
 Other brands mentioned are trademarks of their respective owners.
-The makers of these brands are not affiliated with Glenmark Pharmaceuticals Ltd. or its products.
+The makers of these brands are not affiliated with Glenmark Pharmaceuticals Limited. or its products.
 
 Manufactured by:
 
@@ -158,8 +160,8 @@ Glenmark Pharmaceuticals Inc., USA
 Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888) 721-7115
 
 www.glenmarkpharma.com/usa
 
-December 2014
+April 2019
