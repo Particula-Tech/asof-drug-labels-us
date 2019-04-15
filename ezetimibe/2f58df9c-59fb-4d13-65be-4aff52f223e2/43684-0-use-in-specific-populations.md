@@ -71,8 +71,8 @@ Table 3: Mean Percent Difference at Week 6 Between the Pooled Ezetimibe Coadmini
 
 From the start of the trial to the end of Week 33, discontinuations due to an adverse reaction occurred in 7 (6%) patients in the ezetimibe coadministered with simvastatin group and in 2 (2%) patients in the simvastatin monotherapy group.
 
-During the trial, hepatic transaminase elevations (two consecutive measurements for ALT and/or AST ≥3 X ULN) occurred in four (3%) individuals in the ezetimibe coadministered with simvastatin group and in two (2%) individuals in the simvastatin monotherapy group.
-Elevations of CPK (≥10 X ULN) occurred in two (2%) individuals in the ezetimibe coadministered with simvastatin group and in zero individuals in the simvastatin monotherapy group.
+During the trial, hepatic transaminase elevations (two consecutive measurements for ALT and/or AST ≥3 × ULN) occurred in four (3%) individuals in the ezetimibe coadministered with simvastatin group and in two (2%) individuals in the simvastatin monotherapy group.
+Elevations of CPK (≥10 × ULN) occurred in two (2%) individuals in the ezetimibe coadministered with simvastatin group and in zero individuals in the simvastatin monotherapy group.
 
 In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls.
 
@@ -109,3 +109,11 @@ However, because renal impairment is a risk factor for statin-associated myopath
 
 VYTORIN is contraindicated in patients with active liver disease or unexplained persistent elevations in hepatic transaminases.
 [See Contraindications (4) and Warnings and Precautions (5.2).]
+
+## 8.8 Chinese Patients
+
+In a clinical trial in which patients at high risk of cardiovascular disease were treated with simvastatin 40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for non-Chinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
+The incidence of myopathy for Chinese patients on simvastatin 40 mg/day or ezetimibe and simvastatin 10/40 mg/day coadministered with extended-release niacin 2 g/day was 1.24%.
+
+Chinese patients may be at higher risk for myopathy, monitor patients appropriately.
+Coadministration of VYTORIN with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products is not recommended in Chinese patients [see Warnings and Precautions (5.1), Drug Interactions (7.4)].

@@ -2,14 +2,16 @@ Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Wh
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2004-2018 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2019 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0653a-t-1802r033
+uspi-mk0653a-t-1904r034
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Copyright © 2004-2016 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2019 MSD International GmbH, a subsidiary of Merck & Co., Inc.
 
-Revised: 10/2016
+All rights reserved.
 
-usppi-mk0653a-t-1610r029
+Revised: 04/2019
+
+usppi-mk0653a-t-1904r030

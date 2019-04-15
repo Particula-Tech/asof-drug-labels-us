@@ -22,8 +22,9 @@ The lipid response to VYTORIN was similar in patients with TG levels greater tha
 
 Table 7: Response to VYTORIN in Patients with Primary Hyperlipidemia (MeanFor triglycerides, median % change from baseline. % Change from Untreated BaselineBaseline - on no lipid-lowering drug.)
 
-| Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | HDL-C | TG | Non-HDL-C |
+| (Daily Dose) | N | Total-C | LDL-C | Apo B | HDL-C | TG | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Treatment |  |  |  |  |  |  |  |
 | Pooled data (All VYTORIN doses)VYTORIN doses pooled (10/10-10/80) significantly reduced total-C, LDL-C, Apo B, TG, and non-HDL-C compared to simvastatin and significantly increased HDL-C compared to placebo. | 609 | -38 | -53 | -42 | +7 | -24 | -49 |
 | Pooled data (All simvastatin doses) | 622 | -28 | -39 | -32 | +7 | -21 | -36 |
 | Ezetimibe 10 mg | 149 | -13 | -19 | -15 | +5 | -11 | -18 |
@@ -61,8 +62,9 @@ The effects of VYTORIN on TG were similar to the effects seen with atorvastatin.
 
 Table 9: Response to VYTORIN and Atorvastatin in Patients with Primary Hyperlipidemia (MeanFor triglycerides, median % change from baseline. % Change from Untreated BaselineBaseline - on no lipid-lowering drug.)
 
-| Treatment (Daily Dose) | N | Total-CVYTORIN doses pooled (10/10-10/80) provided significantly greater reductions in total-C, LDL-C, Apo B, and non-HDL-C compared to atorvastatin doses pooled (10-80). | LDL-C | Apo B | HDL-C | TG | Non-HDL-C |
+| (Daily Dose) | N | Total-CVYTORIN doses pooled (10/10-10/80) provided significantly greater reductions in total-C, LDL-C, Apo B, and non-HDL-C compared to atorvastatin doses pooled (10-80). | LDL-C | Apo B | HDL-C | TG | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Treatment |  |  |  |  |  |  |  |
 | VYTORIN by dose |  |  |  |  |  |  |  |
 | 10/10 | 230 | -34p<0.05 for difference with atorvastatin at equal mg doses of the simvastatin component. | -47 | -37 | +8 | -26 | -43 |
 | 10/20 | 233 | -37 | -51 | -40 | +7 | -25 | -46 |
@@ -105,10 +107,12 @@ Table 11: Response to VYTORIN and Rosuvastatin in Patients with Primary Hyperlip
 
 | Treatment (Daily Dose) | N | Total-CVYTORIN doses pooled (10/20-10/80) provided significantly greater reductions in total-C, LDL-C, Apo B, and non-HDL-C compared to rosuvastatin doses pooled (10-40 mg). | LDL-C | Apo B | HDL-C | TG | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| VYTORIN by dose 10/20 | 476 | -37p<0.05 vs. rosuvastatin 10 mg. | -52 | -42 | +7 | -23 | -47 |
+| VYTORIN by dose |  |  |  |  |  |  |  |
+| 10/20 | 476 | -37p<0.05 vs. rosuvastatin 10 mg. | -52 | -42 | +7 | -23 | -47 |
 | 10/40 | 477 | -39p<0.05 vs. rosuvastatin 20 mg. | -55 | -44 | +8 | -27 | -50 |
-| 10/80 | 474 | -44 p<0.05 vs. rosuvastatin 40 mg. | -61 | -50 | +8 | -30 | -56 |
-| Rosuvastatin by dose 10 mg | 475 | -32 | -46 | -37 | +7 | -20 | -42 |
+| 10/80 | 474 | -44p<0.05 vs. rosuvastatin 40 mg. | -61 | -50 | +8 | -30 | -56 |
+| Rosuvastatin by dose |  |  |  |  |  |  |  |
+| 10 mg | 475 | -32 | -46 | -37 | +7 | -20 | -42 |
 | 20 mg | 478 | -37 | -52 | -43 | +8 | -26 | -48 |
 | 40 mg | 475 | -41 | -57 | -47 | +8 | -28 | -52 |
 

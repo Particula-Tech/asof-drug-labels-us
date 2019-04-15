@@ -6,6 +6,7 @@ Simvastatin occasionally causes myopathy manifested as muscle pain, tenderness o
 Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred.
 The risk of myopathy is increased by elevated plasma levels of simvastatin and simvastatin acid.
 Predisposing factors for myopathy include advanced age (≥65 years), female gender, uncontrolled hypothyroidism, and renal impairment.
+Chinese patients may be at increased risk for myopathy [see Use in Specific Populations (8.8)].
 
 The risk of myopathy, including rhabdomyolysis, is dose related.
 In a clinical trial database in which 41,413 patients were treated with simvastatin, 24,747 (approximately 60%) of whom were enrolled in studies with a median follow-up of at least 4 years, the incidence of myopathy was approximately 0.03% and 0.08% at 20 and 40 mg/day, respectively.
@@ -53,8 +54,7 @@ Certain drugs that inhibit this metabolic pathway can raise the plasma levels of
 These include itraconazole, ketoconazole, posaconazole, and voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, cobicistat-containing products, or grapefruit juice.
 [See Clinical Pharmacology (12.3).]
 Combination of these drugs with VYTORIN is contraindicated.
-If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with VYTORIN must be suspended during the course of treatment.
-[See Contraindications (4) and Drug Interactions (7).]
+If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with VYTORIN must be suspended during the course of treatment [see Contraindications (4) and Drug Interactions (7)].
 
 The combined use of VYTORIN with gemfibrozil, cyclosporine, or danazol is contraindicated [see Contraindications (4) and Drug Interactions (7.1 and 7.2)].
 
@@ -62,13 +62,9 @@ Caution should be used when prescribing fenofibrates with VYTORIN, as these agen
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing VYTORIN with colchicine [see Drug Interactions (7.9)].
 
-The benefits of the combined use of VYTORIN with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (fenofibrates, ≥1 g/day of niacin, or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 6 in Clinical Pharmacology (12.3)] [also see Dosage and Administration, Patients with Homozygous Familial Hypercholesterolemia (2.4)].
+The benefits of the combined use of VYTORIN with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (fenofibrates or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Dosage and Administration (2.4), Drug Interactions (7.3)].
 
-Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
-In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg or ezetimibe/simvastatin 10/40 mg coadministered with lipid-modifying doses of a niacin-containing product.
-Caution should be used when treating Chinese patients with VYTORIN in doses exceeding 10/20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
-Because the risk for myopathy is dose-related, Chinese patients should not receive VYTORIN 10/80 mg coadministered with lipid-modifying doses of niacin-containing products.
-It is unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients [see Drug Interactions (7.4)].
+Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products [see Drug Interactions (7.4)].
 
 Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
@@ -77,6 +73,7 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
 | Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Cobicistat-containing products Gemfibrozil Cyclosporine Danazol | Contraindicated with VYTORIN |
+| Niacin (≥1 g/day) | For Chinese patients, not recommended with VYTORIN |
 | Verapamil Diltiazem Dronedarone | Do not exceed 10/10 mg VYTORIN daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 10/20 mg VYTORIN daily |
 | Lomitapide | For patients with HoFH, do not exceed 10/20 mg VYTORIN dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 10/40 mg VYTORIN when taking lomitapide. |
@@ -84,8 +81,8 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 
 ## 5.2 Liver Enzymes
 
-In three placebo-controlled, 12-week trials, the incidence of consecutive elevations (≥3 X ULN) in serum transaminases was 1.7% overall for patients treated with VYTORIN and appeared to be dose-related with an incidence of 2.6% for patients treated with VYTORIN 10/80.
-In controlled long-term (48-week) extensions, which included both newly-treated and previously-treated patients, the incidence of consecutive elevations (≥3 X ULN) in serum transaminases was 1.8% overall and 3.6% for patients treated with VYTORIN 10/80.
+In three placebo-controlled, 12-week trials, the incidence of consecutive elevations (≥3 × ULN) in serum transaminases was 1.7% overall for patients treated with VYTORIN and appeared to be dose-related with an incidence of 2.6% for patients treated with VYTORIN 10/80.
+In controlled long-term (48-week) extensions, which included both newly-treated and previously-treated patients, the incidence of consecutive elevations (≥3 × ULN) in serum transaminases was 1.8% overall and 3.6% for patients treated with VYTORIN 10/80.
 These elevations in transaminases were generally asymptomatic, not associated with cholestasis, and returned to baseline after discontinuation of therapy or with continued treatment.
 
 In SHARP, 9270 patients with chronic kidney disease were allocated to receive VYTORIN 10/20 mg daily (n=4650), or placebo (n=4620).

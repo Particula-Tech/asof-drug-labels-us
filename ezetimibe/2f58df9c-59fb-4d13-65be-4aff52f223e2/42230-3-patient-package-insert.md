@@ -76,6 +76,7 @@ Tell your doctor if you:
 - have or have had liver problems or drink more than 2 glasses of alcohol daily
 - have thyroid problems
 - are 65 years of age or older
+- are Chinese
 
 Also see "What are the possible side effects of VYTORIN?"
 
@@ -134,6 +135,7 @@ VYTORIN may cause serious side effects, including:
   - have thyroid problems (hypothyroidism) that are not controlled
   - have kidney problems
   - are taking higher doses of VYTORIN, particularly the 10/80 mg dose
+  - are Chinese
 - Liver problems.
   Your doctor should do blood tests to check your liver before you start taking VYTORIN and if you have any symptoms of liver problems while you take VYTORIN.
   Call your doctor right away if you have the following symptoms of liver problems:

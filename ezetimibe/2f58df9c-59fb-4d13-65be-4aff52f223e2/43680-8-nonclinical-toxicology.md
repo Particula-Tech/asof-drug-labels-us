@@ -65,8 +65,8 @@ There were cataracts in female rats after two years of treatment with 50 and 100
 Ezetimibe
 
 The hypocholesterolemic effect of ezetimibe was evaluated in cholesterol-fed Rhesus monkeys, dogs, rats, and mouse models of human cholesterol metabolism.
-Ezetimibe was found to have an ED50 value of 0.5 μg/kg/day for inhibiting the rise in plasma cholesterol levels in monkeys.
-The ED50 values in dogs, rats, and mice were 7, 30, and 700 μg/kg/day, respectively.
+Ezetimibe was found to have an ED50 value of 0.5 µg/kg/day for inhibiting the rise in plasma cholesterol levels in monkeys.
+The ED50 values in dogs, rats, and mice were 7, 30, and 700 µg/kg/day, respectively.
 These results are consistent with ezetimibe being a potent cholesterol absorption inhibitor.
 
 In a rat model, where the glucuronide metabolite of ezetimibe (ezetimibe-glucuronide) was administered intraduodenally, the metabolite was as potent as ezetimibe in inhibiting the absorption of cholesterol, suggesting that the glucuronide metabolite had activity similar to the parent drug.
