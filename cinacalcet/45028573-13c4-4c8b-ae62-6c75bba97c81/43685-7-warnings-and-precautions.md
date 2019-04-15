@@ -8,7 +8,7 @@ Life threatening events and fatal outcomes associated with hypocalcemia have bee
 The safety and effectiveness of Sensipar have not been established in pediatric patients [see Pediatric Use (8.4)].
 
 Sensipar is not indicated for patients with CKD not on dialysis [see Indications and Usage (1)].
-In patients with secondary HPT and CKD not on dialysis, the long term safety and efficacy of Sensipar have not been established.
+In patients with secondary HPT and CKD not on dialysis, the long-term safety and efficacy of Sensipar have not been established.
 Clinical studies indicate that Sensipar-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with Sensipar-treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.
 In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of Sensipar-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
 
@@ -25,11 +25,14 @@ In clinical studies, seizures (primarily generalized or tonic-clonic) were obser
 While the basis for the reported difference in seizure rate is not clear, the threshold for seizures is lowered by significant reductions in serum calcium levels.
 Monitor serum calcium levels in patients with seizure disorders receiving Sensipar.
 
+Concurrent Administration with Other Calcium-Lowering Drug Products
+
 Concurrent administration of Sensipar with calcium-lowering drugs including other calcium-sensing receptor agonists could result in severe hypocalcemia.
 Closely monitor serum calcium in patients receiving Sensipar and concomitant therapies known to lower serum calcium levels.
 
-Educate patients on the symptoms of hypocalcemia and advise them to contact a healthcare provider if they occur.
+Patient Education and Hypocalcemia Treatment
 
+Educate patients on the symptoms of hypocalcemia and advise them to contact a healthcare provider if they occur.
 If corrected serum calcium falls below the lower limit of normal or symptoms of hypocalcemia develop, start or increase calcium supplementation (including calcium, calcium-containing phosphate binders, and/or vitamin D sterols or increases in dialysate calcium concentration).
 Sensipar dose reduction or discontinuation of Sensipar may be necessary [see Dosage and Administration (2.2)].
 

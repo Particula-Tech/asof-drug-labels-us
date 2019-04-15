@@ -16,7 +16,7 @@ Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysi
 In three double-blind, placebo-controlled clinical trials, 1126 patients with CKD on dialysis received study drug (656 Sensipar, 470 placebo) for up to 6 months.
 The most frequently reported adverse reactions are listed in Table 1.
 
-Seizures were observed in 1.4% (13/910) of Sensipar-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo controlled trials.
+Seizures were observed in 1.4% (13/910) of Sensipar-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo-controlled trials.
 
 Table 1.
 Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term Studies for up to 6 Months
@@ -38,7 +38,7 @@ Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term St
 
 *Included are events that were reported at a greater incidence in the Sensipar group than in the placebo group.
 
-In a randomized, double-blind placebo controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the Sensipar group), the most frequently reported adverse reactions (incidence of ≥ 5% in the Sensipar group and a difference ≥ 1% compared to placebo) are listed in Table 2.
+In a randomized, double-blind placebo-controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the Sensipar group), the most frequently reported adverse reactions (incidence of ≥ 5% in the Sensipar group and a difference ≥ 1% compared to placebo) are listed in Table 2.
 
 Table 2.
 Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months in a Long-Term Study1
@@ -66,18 +66,18 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 | Asthenia | 3.8 | 5.4 |
 | Constipation | 3.8 | 5.0 |
 
-1 Adverse reactions that occurred in ≥ 5% frequency in the Sensipar group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set)
+1 Adverse reactions that occurred in ≥ 5% frequency in the Sensipar group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set).
 
 Crude incidence rate = 100 * Total number of subjects with event/ n
 
-n = Number of subjects receiving at least one dose of study drug
+n = Number of subjects receiving at least one dose of study drug.
 
-Additional adverse reaction rates from the long-term, randomized, double-blind placebo controlled study for Sensipar versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
+Additional adverse reaction rates from the long-term, randomized, double-blind placebo-controlled study for Sensipar versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
 
 Patients with Parathyroid Carcinoma and Primary Hyperparathyroidism
 
 The safety profile of Sensipar in these patient populations is generally consistent with that seen in patients with CKD on dialysis.
-Forty six patients were treated with Sensipar in a single arm study, 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
+Forty six patients were treated with Sensipar in a single-arm study, 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
 Nine (20%) of the patients withdrew from the study due to adverse events.
 The most frequent adverse reactions and the most frequent cause of withdrawal in these patient populations were nausea and vomiting.
 Severe or prolonged cases of nausea and vomiting can lead to dehydration and worsening hypercalcemia so careful monitoring of electrolytes is recommended in patients with these symptoms.
@@ -89,33 +89,33 @@ Adverse events of hypocalcemia were reported in three patients (7%).
 Seizures were observed in 0.7% (1/140) of cinacalcet-treated patients and 0.0% (0/46) of placebo-treated patients in all clinical studies.
 
 Table 3.
-Adverse Reactions with Frequency ≥ 10% in a Single Arm, Open-Label Study in Patients with Primary Hyperparathyroidism or Parathyroid Carcinoma
+Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Patients with Primary Hyperparathyroidism or Parathyroid Carcinoma
 
-|  | Sensipar |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Parathyroid Carcinoma (n = 29) |  | Intractable pHPT (n = 17) | Total (n = 46) |  |
-|  | n (%) | n (%) |  | n (%) |  |
-| Number of Subjects Reporting Adverse Reactions | 28 (97) | 17 (100) |  | 45 (98) |  |
-| Nausea | 19 (66) | 10 (59) |  | 29 (63) |  |
-| Vomiting | 15 (52) | 6 (35) |  |  | 21 (46) |
-| Paresthesia | 4 (14) | 5 (29) |  |  | 9 (20) |
-| Fatigue | 6 (21) | 2 (12) |  |  | 8 (17) |
-| Fracture | 6 (21) | 2 (12) |  |  | 8 (17) |
-| Hypercalcemia | 6 (21) | 2 (12) |  |  | 8 (17) |
-| Anorexia | 6 (21) | 1 (6) |  |  | 7 (15) |
-| Asthenia | 5 (17) | 2 (12) |  |  | 7 (15) |
-| Dehydration | 7 (24) | 0 (0) |  |  | 7 (15) |
-| Anemia | 5 (17) | 1 (6) |  |  | 6 (13) |
-| Arthralgia | 5 (17) | 1 (6) |  |  | 6 (13) |
-| Constipation | 3 (10) | 3 (18) |  |  | 6 (13) |
-| Depression | 3 (10) | 3 (18) |  |  | 6 (13) |
-| Headache | 6 (21) | 0 (0) |  |  | 6 (13) |
-| Infection Upper Respiratory | 3 (10) | 2 (12) |  |  | 5 (11) |
-| Pain Limb | 3 (10) | 2 (12) |  |  | 5 (11) |
+|  | Sensipar |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Parathyroid Carcinoma (n = 29) |  | Intractable pHPT (n = 17) | Total (n = 46) |
+|  | n (%) | n (%) |  | n (%) |
+| Number of Subjects Reporting Adverse Reactions | 28 (97) | 17 (100) |  | 45 (98) |
+| Nausea | 19 (66) | 10 (59) |  | 29 (63) |
+| Vomiting | 15 (52) | 6 (35) |  | 21 (46) |
+| Paresthesia | 4 (14) | 5 (29) |  | 9 (20) |
+| Fatigue | 6 (21) | 2 (12) |  | 8 (17) |
+| Fracture | 6 (21) | 2 (12) |  | 8 (17) |
+| Hypercalcemia | 6 (21) | 2 (12) |  | 8 (17) |
+| Anorexia | 6 (21) | 1 (6) |  | 7 (15) |
+| Asthenia | 5 (17) | 2 (12) |  | 7 (15) |
+| Dehydration | 7 (24) | 0 (0) |  | 7 (15) |
+| Anemia | 5 (17) | 1 (6) |  | 6 (13) |
+| Arthralgia | 5 (17) | 1 (6) |  | 6 (13) |
+| Constipation | 3 (10) | 3 (18) |  | 6 (13) |
+| Depression | 3 (10) | 3 (18) |  | 6 (13) |
+| Headache | 6 (21) | 0 (0) |  | 6 (13) |
+| Infection Upper Respiratory | 3 (10) | 2 (12) |  | 5 (11) |
+| Pain Limb | 3 (10) | 2 (12) |  | 5 (11) |
 
 n = Number of subjects receiving at least one dose of study drug.
 
-pHPT = primary hyperparathyroidism
+pHPT = primary hyperparathyroidism.
 
 In a randomized double-blind, placebo-controlled study of 67 patients with primary hyperparathyroidism for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo surgery, the most common adverse reactions are listed in Table 4.
 
@@ -129,7 +129,7 @@ Adverse Reactions Occurring in ≥ 10% of Subjects in a Double-Blind, Placebo-Co
 | Headache | 2 (6) | 4 (12) |
 | Back pain | 2 (6) | 4 (12) |
 
-n = Number of subjects receiving at least one dose of study drug Coded using MedDRA version 16.0
+n = Number of subjects receiving at least one dose of study drug Coded using MedDRA version 16.0.
 
 Hypocalcemia
 
@@ -137,10 +137,10 @@ In 26-week studies of patients with secondary HPT and CKD on dialysis 66% of pat
 Less than 1% of patients in each group permanently discontinued study drug due to hypocalcemia.
 
 In a randomized, double-blind, placebo-controlled study in patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), 75% of patients receiving Sensipar compared with 29% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL and 33% of cinacalcet patients compared with 12% of patients receiving placebo had at least one serum calcium value less than 7.5 mg/dL.
-Most of the cases of severe hypocalcemia less than 7.5 mg/dL (21/33=64%) occurred during the first 6 months.
+Most of the cases of severe hypocalcemia less than 7.5 mg/dL (21/33 = 64%) occurred during the first 6 months.
 In this trial, 1.1% of patients receiving Sensipar and 0.1% of patients receiving placebo permanently discontinued study drug due to hypocalcemia.
 
-During a placebo-controlled part of a 52-week study in patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), serum calcium less than 8.4 mg/dL was observed in 6.1% (2/33) of Sensipar treated patients and 0% (0/34) of placebo treated patients.
+During a placebo-controlled part of a 52-week study in patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), serum calcium less than 8.4 mg/dL was observed in 6.1% (2/33) of Sensipar-treated patients and 0% (0/34) of placebo-treated patients.
 
 ## 6.2 Postmarketing Experience
 
@@ -148,6 +148,5 @@ The following adverse reactions have been identified during post approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Rash and hypersensitivity reactions (including angioedema and urticaria), and myalgia
-- Isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been
-- reported in patients with impaired cardiac function
+- Isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function
 - Gastrointestinal bleeding
