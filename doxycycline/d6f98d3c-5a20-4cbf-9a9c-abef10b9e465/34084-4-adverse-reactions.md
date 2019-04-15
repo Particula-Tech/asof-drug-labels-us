@@ -13,7 +13,7 @@ Rare instances of esophagitis and esophageal ulcerations have been reported in p
 Most of these patients took medications immediately before going to bed.
 (See DOSAGE AND ADMINISTRATION.)
 
-Skin: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, maculopapular and erythematous rashes.
+Skin: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, skin hyperpigmentation, maculopapular and erythematous rashes.
 Exfoliative dermatitis has been reported but is uncommon.
 Photosensitivity is discussed above.
 (See WARNINGS.)
@@ -21,7 +21,7 @@ Photosensitivity is discussed above.
 Renal toxicity: Rise in BUN has been reported and is apparently dose related.
 (See WARNINGS.)
 
-Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), and Jarisch-Herxheimer reaction has been reported in the setting of spirochete infections treated with doxycycline.
 
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 
