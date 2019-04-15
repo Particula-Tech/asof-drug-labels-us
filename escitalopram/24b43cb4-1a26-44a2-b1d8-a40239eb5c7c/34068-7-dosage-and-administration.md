@@ -17,9 +17,7 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 ## 2.2 Generalized Anxiety Disorder
 
-Initial Treatment Adults
-
-The recommended starting dose of escitalopram is 10 mg once daily.
+Initial Treatment Adults The recommended starting dose of escitalopram is 10 mg once daily.
 If the dose is increased to 20 mg, this should occur after a minimum of one week.
 Maintenance Treatment Generalized anxiety disorder is recognized as a chronic condition.
 The efficacy of escitalopram in the treatment of GAD beyond 8 weeks has not been systematically studied.
@@ -39,7 +37,7 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-## 2.5 Switching Patients To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.5 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with escitalopram tablet.
 Conversely, at least 14 days should be allowed after stopping escitalopram tablets before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].

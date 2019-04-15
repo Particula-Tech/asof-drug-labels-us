@@ -61,7 +61,6 @@ Elderly people may be at greater risk for this.
 Symptoms may include: • headache • weakness or feeling unsteady • confusion, problems concentrating or thinking or memory problems 9.
 Visual problems • eye pain • changes in vision • swelling or redness in or around the eye Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
 Do not stop Escitalopram Tablets without first talking to your healthcare provider.
 Stopping escitalopram tablets too quickly may cause serious symptoms including: • anxiety, irritability, high or low mood, feeling restless or changes in sleep habits • headache, sweating, nausea, dizziness • electric shock-like sensations, shaking, confusion What is Escitalopram Tablet?
 Escitalopram tablet is a prescription medicine used to treat depression.
@@ -69,11 +68,11 @@ It is important to talk with your healthcare provider about the risks of treatin
 You should discuss all treatment choices with your healthcare provider.
 Escitalopram is also used to treat: • Major Depressive Disorder (MDD) • Generalized Anxiety Disorder (GAD) Talk to your healthcare provider if you do not think that your condition is getting better with Escitalopram tablet treatment.
 Who should not take Escitalopram Tablets?
-Do not take escitalopram tablets if you: • are allergic to escitalopram or citalopram hydrobromide or any of the ingredients in escitalopram tablets.
-See the end of this Medication Guide for a completelist of ingredients in escitalopram tablets. • take a Monoamine Oxidase Inhibitor (MAOI).
-Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid. o Do not take an MAOI within 2 weeks of stopping escitalopram tablets unless directed to do so by your physician. o Do not start escitalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+Do not take escitalopram tablets if you: • are allergic to escitalopram or citalopram or any of the ingredients in escitalopram tablets.
+See the end of this Medication Guide for a completelist of ingredients in escitalopram tablets. • Take a Monoamine Oxidase Inhibitor (MAOI).
+Ask your healthcare provider or a pharmacist if you are not sure if you take an MAOI, including linezolid. o Do not take an MAOI within 2 weeks of stopping escitalopram tablets unless directed to do so by your physician o Do not start escitalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 People who take Escitalopram Tablets close in time to an MAOI may have serious or even life-threatening side effects.
-Get medical help right away if you have any of these symptoms: • high fever • uncontrolled muscle spasms • stiff muscles • rapid changes in heart rate or blood pressure • confusion • loss of consciousness (pass out) • take the antipsychotic medicine pimozide (Orap®) because taking this drug with Escitalopram Tablets can cause serious heart problems.
+Get medical help right away if you have any of these symptoms: • high fever • uncontrolled muscle spasms • stiff muscles • rapid changes in heart rate or blood pressure • confusion • loss of consciousness (pass out) • Do not take escitalopram tablets with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
 What should I tell my healthcare provider before taking Escitalopram Tablets?
 Ask if you are not sure.
 Before starting escitalopram tablets, tell your healthcare provider if you: • Are taking certain drugs such as: o Triptans used to treat migraine headache o Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines or antipsychotics o Tramadol o Over-the-counter supplements such as tryptophan or St. John's Wort • have liver problems • have kidney problems • have heart problems • have or had seizures or convulsions • have bipolar disorder or mania • have low sodium levels in your blood • have a history of a stroke • have high blood pressure • have or had bleeding problems • are pregnant or plan to become pregnant.
@@ -86,7 +85,7 @@ Escitalopram and some medicines may interact with each other, may not work as we
 Your healthcare provider or pharmacist can tell you if it is safe to take escitalopram tablets with your other medicines.
 Do not start or stop any medicine while taking escitalopram tablets without talking to your healthcare provider first.
 
-| If you take escitalopram tablets, you should not take any other medicines that contain escitalopram oxalate or citalopram hydrobromide including: Celexa. |
+| If you take escitalopram tablets, you should not take any other medicines that contain escitalopram or citalopram including: Celexa. |
 | --- |
 
 How should I take Escitalopram Tablets? • Take escitalopram tablets exactly as prescribed.
@@ -106,7 +105,7 @@ These are not all the possible side effects of escitalopram tablets.
 For more information, ask your healthcare provider or pharmacist.
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
 YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
-How should I store Escitalopram Tablets? • Store escitalopram tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F). • Keep Escitalopram Tablets bottle closed tightly.
+How should I store Escitalopram Tablets? • Store escitalopram tablets at 68°F to 77°F (20°C to 25°C); excursions permitted to 59°F to 86°F (15°C to 30°C). • Keep Escitalopram Tablets bottle closed tightly.
 Keep Escitalopram Tablets and all medicines out of the reach of children.
 General information about Escitalopram Tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use escitalopram tablets for a condition for which it was not prescribed.
@@ -131,5 +130,5 @@ Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised January 2017 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-PM01421105
+Revised April 2019 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+PM01421106
