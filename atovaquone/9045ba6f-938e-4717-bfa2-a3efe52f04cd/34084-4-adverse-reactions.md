@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in other sections of the labeling:
+The following adverse reaction is discussed in another section of the labeling:
 
 - •Hepatotoxicity [see Warnings and Precautions (5.2)].
 
@@ -25,7 +25,7 @@ Percentage (>2%) of Subjects with Selected Adverse Reactions Requiring Discontin
 
 | Adverse Reaction | All Subjects |  |
 | --- | --- | --- |
-| Atovaquone Oral Suspension1,500 mg/day(n = 536)% | Dapsone100 mg/day(n = 521)% |  |
+| Atovaquone Oral Suspension1,500 mg/day(n = 536) % | Dapsone100 mg/day(n = 521) % |  |
 | Rash | 6.3 | 8.8 |
 | Nausea | 4.1 | 0.6 |
 | Diarrhea | 3.2 | 0.2 |
@@ -43,7 +43,7 @@ The most frequent adverse reaction requiring discontinuation of dosing in the gr
 Table 2.
 Percentage (≥20%) of Subjects with Selected Adverse Reactions in the Aerosolized Pentamidine Comparative PCP Prevention Trial
 
-| Adverse Reaction | Atovaquone Oral Suspension1,500 mg/day(n = 175)% | Aerosolized Pentamidine(n = 186)% |
+| Adverse Reaction | Atovaquone Oral Suspension1,500 mg/day(n = 175) % | Aerosolized Pentamidine(n = 186) % |
 | --- | --- | --- |
 | Diarrhea | 42 | 35 |
 | Rash | 39 | 28 |
@@ -70,7 +70,7 @@ The incidence of adverse reactions with atovaquone oral suspension at the recomm
 Table 3.
 Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX Comparative PCP Treatment Trial
 
-| Adverse Reaction | Atovaquone Tablets(n = 203)% | TMP‑SMX(n = 205)% |
+| Adverse Reaction | Atovaquone Tablets(n = 203) % | TMP‑SMX(n = 205) % |
 | --- | --- | --- |
 | Rash (including maculopapular) | 23 | 34 |
 | Nausea | 21 | 44 |
@@ -82,7 +82,7 @@ Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX C
 
 Two percent of subjects treated with atovaquone and 7% of subjects treated with TMP‑SMX had therapy prematurely discontinued due to elevations in ALT/AST.
 
-Pentamidine Comparative Trial: In the pentamidine comparative trial (n = 74), the majority of subjects in the primary therapy trial population (n = 145) were white (72%) and male (97%); the mean age was 37 years.
+Pentamidine Comparative Trial: In the pentamidine comparative trial (n = 174), the majority of subjects in the primary therapy trial population (n = 145) were white (72%) and male (97%); the mean age was 37 years.
 Subjects received atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or a 3- to 4-mg/kg single pentamidine isethionate IV infusion daily for 21 days; the median durations of exposure were 21 and 14 days, respectively.
 
 Table 4 summarizes the clinical adverse reactions reported by ≥10% of the primary therapy trial population regardless of attribution.
@@ -95,7 +95,7 @@ The most frequently cited reasons for discontinuation of pentamidine therapy wer
 Table 4.
 Percentage (≥10%) of Subjects with Selected Adverse Reactions in the Pentamidine Comparative PCP Treatment Trial (Primary Therapy Group)
 
-| Adverse Reaction | Atovaquone Tablets(n = 73)% | Pentamidine(n = 71)% |
+| Adverse Reaction | Atovaquone Tablets(n = 73) % | Pentamidine(n = 71) % |
 | --- | --- | --- |
 | Fever | 40 | 25 |
 | Nausea | 22 | 37 |

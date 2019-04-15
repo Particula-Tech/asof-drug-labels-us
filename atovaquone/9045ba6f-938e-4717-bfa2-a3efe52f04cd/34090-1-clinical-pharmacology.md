@@ -2,61 +2,70 @@
 
 ## 12.1 Mechanism of Action
 
-Atovaquone is a quinone antimicrobial drug [see Clinical Pharmacology (12.4)].
+Atovaquone is a quinone antimicrobial drug [see Microbiology (12.4)].
+
+## 12.2 Pharmacodynamics
+
+Cardiac Effects
+
+The effect of atovaquone oral suspension on the QT interval is unknown in humans.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 Atovaquone is a highly lipophilic compound with low aqueous solubility.
-The bioavailability of atovaquone is highly dependent on formulation and diet.
-The absolute bioavailability of a 750-mg dose of atovaquone oral suspension administered under fed conditions in 9 HIV-1-infected (CD4 >100 cells/mm3) volunteers was 47% ± 15%.
+The bioavailability of atovaquone oral suspension is highly dependent on formulation and diet.
+The mean (±SD) absolute bioavailability of atovaquone from a 750-mg dose of atovaquone oral suspension administered under fed conditions in 9 HIV-1-infected (CD4 >100 cells/mm3) volunteers was 47% ± 15%.
 
-Administering atovaquone with food enhances its absorption by approximately 2-fold.
+Effect of Food: Administering atovaquone oral suspension with food enhances atovaquone absorption by approximately 2-fold.
 In one trial, 16 healthy volunteers received a single dose of 750 mg atovaquone oral suspension after an overnight fast and following a standard breakfast (23 g fat: 610 kCal).
-The mean (±SD) area under the concentration-time curve (AUC) values under fasting and fed conditions were 324 ± 115 and 801 ± 320 h●mcg/mL, respectively, representing a 2.6 ± 1.0-fold increase.
-The effect of food (23 g fat: 400 kCal) on plasma atovaquone concentrations was also evaluated in a multiple-dose, randomized, crossover trial in 19 HIV-1-infected volunteers (CD4 <200 cells/mm3) receiving daily doses of 500 mg atovaquone oral suspension.
-AUC values under fasting and fed conditions were 169 ± 77 and 280 ± 114 h●mcg/mL, respectively.
-Maximum plasma atovaquone concentration (Cmax) values under fasting and fed conditions were 8.8 ± 3.7 and 15.1 ± 6.1 mcg/mL, respectively.
+The mean (SD) area under the concentration-time curve (AUC) estimates for atovaquone under fasting and fed conditions were 324  115 and 801  320 h●mcg/mL, respectively, representing a 2.6  1.0-fold increase.
+The effect of food (23 g fat: 400 kCal) on plasma atovaquone concentrations was also evaluated in a multiple-dose, randomized, crossover trial in 19 HIV-1−infected volunteers (CD4 <200 cells/mm3) receiving daily doses of 500 mg atovaquone oral suspension.
+Mean (SD) atovaquone AUC values under fasting and fed conditions were 169  77 and 280  114 h●mcg/mL, respectively.
+Mean (SD) maximum plasma atovaquone concentration (Cmax) values under fasting and fed conditions were 8.8  3.7 and 15.1  6.1 mcg/mL, respectively.
 
 Dose Proportionality
 
-Plasma atovaquone concentrations do not increase proportionally with dose.
-When atovaquone oral suspension was administered with food at dosage regimens of 500 mg once daily, 750 mg once daily, and 1,000 mg once daily, average steady-state plasma atovaquone concentrations were 11.7 ± 4.8, 12.5 ± 5.8, and 13.5 ± 5.1 mcg/mL, respectively.
-The corresponding Cmax concentrations were 15.1 ± 6.1, 15.3 ± 7.6, and 16.8 ± 6.4 mcg/mL.
-When atovaquone oral suspension was administered to 5 HIV-1-infected volunteers at a dose of 750 mg twice daily, the average steady-state plasma atovaquone concentration was 21.0 ± 4.9 mcg/mL and Cmax was 24.0 ± 5.7 mcg/mL.
-The minimum plasma atovaquone concentration (Cmin) associated with the 750-mg twice-daily regimen was 16.7 ± 4.6 mcg/mL.
+Plasma atovaquone concentrations do not increase proportionally with dose following ascending repeat-dose administration of atovaquone oral suspension.
+When atovaquone oral suspension was administered with food at dosage regimens of 500 mg once daily, 750 mg once daily, and 1,000 mg once daily, mean (SD) steady-state plasma atovaquone concentrations were 11.7  4.8, 12.5  5.8, and 13.5  5.1 mcg/mL, respectively.
+The corresponding mean (SD) Cmax concentrations were 15.1  6.1, 15.3  7.6, and 16.8  6.4 mcg/mL.
+
+When atovaquone oral suspension was administered to 5 HIV-1−infected volunteers at a dose of 750 mg twice daily, the mean (SD) steady-state plasma atovaquone concentration was 21  4.9 mcg/mL and mean (SD) Cmax was 24  5.7 mcg/mL.
+The mean (SD) minimum plasma atovaquone concentration (Cmin) associated with the 750-mg twice-daily regimen was 16.7  4.6 mcg/mL.
 
 Distribution
 
-Following IV administration of atovaquone, the volume of distribution at steady state (Vdss) was 0.60 ± 0.17 L/kg (n = 9).
+Following IV administration of atovaquone, the mean (±SD) volume of distribution at steady state (Vdss) was 0.60 ± 0.17 L/kg (n = 9).
 Atovaquone is extensively bound to plasma proteins (99.9%) over the concentration range of 1 to 90 mcg/mL.
 In 3 HIV-1-infected children who received 750 mg atovaquone as the tablet formulation 4 times daily for 2 weeks, the cerebrospinal fluid concentrations of atovaquone were 0.04, 0.14, and 0.26 mcg/mL, representing less than 1% of the plasma concentration.
 
 Elimination
 
-The plasma clearance of atovaquone following IV administration in 9 HIV-1-infected volunteers was 10.4 ± 5.5 mL/min (0.15 ± 0.09 mL/min/kg).
-The half-life of atovaquone was 62.5 ± 35.3 hours after IV administration and ranged from 67.0 ± 33.4 to 77.6 ± 23.1 hours across trials following administration of atovaquone oral suspension.
+The mean (SD) half-life of atovaquone was 62.5  35.3 hours after IV administration and ranged from 67  33.4 to 77.6  23.1 hours following administration of atovaquone oral suspension.
 The half-life of atovaquone is due to presumed enterohepatic cycling and eventual fecal elimination.
+
+Metabolism: The metabolism of atovaquone is unknown.
+
+Excretion: The mean (SD) plasma clearance of atovaquone following IV administration in 9 HIV-1−infected volunteers was 10.4  5.5 mL/min (0.15  0.09 mL/min/kg).
 In a trial where 14C-labelled atovaquone was administered to healthy volunteers, greater than 94% of the dose was recovered as unchanged atovaquone in the feces over 21 days.
 There was little or no excretion of atovaquone in the urine (less than 0.6%).
-There is indirect evidence that atovaquone may undergo limited metabolism; however, a specific metabolite has not been identified.
 
-Hepatic/Renal Impairment
+Specific Populations
 
-The pharmacokinetics of atovaquone have not been studied in patients with hepatic or renal impairment.
+Patients with Hepatic or Renal Impairment: The pharmacokinetics of atovaquone have not been studied in patients with hepatic or renal impairment.
 
 Relationship between Plasma Atovaquone Concentration and Clinical Outcome
 
-In a comparative trial of atovaquone tablets with TMP‑SMX for oral treatment of mild‑to‑moderate PCP [see Clinical Studies (14.2)], where subjects with HIV/AIDS received atovaquone tablets 750 mg 3 times daily for 21 days, the mean steady‑state atovaquone concentration was 13.9 ± 6.9 mcg/mL (n = 133).
+In a comparative trial of atovaquone tablets with TMP-SMX for oral treatment of mild-to-moderate PCP [see Clinical Studies (14.2)], where subjects with HIV/AIDS received atovaquone tablets 750 mg 3 times daily for 21 days, the mean steady-state atovaquone concentration was 13.9  6.9 mcg/mL (n = 133).
 Analysis of these data established a relationship between plasma atovaquone concentration and successful treatment (Table 6).
 
 Table 6.
 Relationship between Plasma Atovaquone Concentration and Successful Treatment
 
-| Steady‑state Plasma Atovaquone Concentrations (mcg/mL) | Successful TreatmentNo. Successes/No. in Group (%) |  |  |  |
+| Steady‑state Plasma Atovaquone Concentrations (mcg/mL) | Successful TreatmentaNo. Successes/No. in Group (%) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Observed |  | Predicted |  |  |
+| Observed |  | Predictedb |  |  |
 | 0 to <5 | 0/6 | 0% | 1.5/6 | 25% |
 | 5 to <10 | 18/26 | 69% | 14.7/26 | 57% |
 | 10 to <15 | 30/38 | 79% | 31.9/38 | 84% |
@@ -64,15 +73,20 @@ Relationship between Plasma Atovaquone Concentration and Successful Treatment
 | 20 to <25 | 18/18 | 100% | 17.8/18 | 99% |
 | 25+ | 6/6 | 100% | 6/6 | 100% |
 
+- a Successful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
+  Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
+  This analysis was based on data from subjects for whom both outcome and steady-state plasma atovaquone concentration data were available.
+- b Based on logistic regression analysis.
+
 A dosing regimen of atovaquone oral suspension for the treatment of mild‑to‑moderate PCP was selected to achieve average plasma atovaquone concentrations of approximately 20 mcg/mL, because this plasma concentration was previously shown to be well tolerated and associated with the highest treatment success rates (Table 6).
 In an open‑label PCP treatment trial with atovaquone oral suspension, dosing regimens of 1,000 mg once daily, 750 mg twice daily, 1,500 mg once daily, and 1,000 mg twice daily were explored.
-The average steady‑state plasma atovaquone concentration achieved at the 750 mg twice‑daily dose given with meals was 22.0 ± 10.1 mcg/mL (n = 18).
+The mean (±SD) steady-state plasma atovaquone concentration achieved at the 750-mg twice-daily dose given with meals was 22  10.1 mcg/mL (n = 18).
 
-Drug Interactions
+Drug Interaction Studies
 
-Rifampin/Rifabutin: In a trial with 13 HIV-1-infected volunteers, the oral administration of rifampin 600 mg every 24 hours with atovaquone oral suspension 750 mg every 12 hours resulted in a 52% ± 13% decrease in the average steady‑state plasma atovaquone concentration and a 37% ± 42% increase in the average steady‑state plasma rifampin concentration.
+Rifampin/Rifabutin: In a trial with 13 HIV-1-infected volunteers, the oral administration of rifampin 600 mg every 24 hours with atovaquone oral suspension 750 mg every 12 hours resulted in a 52% ± 13% decrease in the mean (±SD) steady‑state plasma atovaquone concentration and a 37% ± 42% increase in the mean (±SD) steady‑state plasma rifampin concentration.
 The half‑life of atovaquone decreased from 82 ± 36 hours when administered without rifampin to 50 ± 16 hours with rifampin.
-In a trial of 24 healthy volunteers, the oral administration of rifabutin 300 mg once daily with atovaquone oral suspension 750 mg twice daily resulted in a 34% decrease in the average steady‑state plasma atovaquone concentration and a 19% decrease in the average steady‑state plasma rifabutin concentration.
+In a trial of 24 healthy volunteers, the oral administration of rifabutin 300 mg once daily with atovaquone oral suspension 750 mg twice daily resulted in a 34% decrease in the mean steady‑state plasma atovaquone concentration and a 19% decrease in the mean steady‑state plasma rifabutin concentration.
 
 Tetracycline: Concomitant treatment with tetracycline has been associated with a 40% reduction in plasma concentrations of atovaquone.
 
@@ -95,18 +109,18 @@ Zidovudine had no effect on atovaquone pharmacokinetics.
 Mechanism of Action
 
 Atovaquone is a hydroxy-1,4-naphthoquinone, an analog of ubiquinone, with antipneumocystis activity.
-The mechanism of action against Pneumocystis jiroveci has not been fully elucidated.
+The mechanism of action against Pneumocystis jirovecii has not been fully elucidated.
 In Plasmodium species, the site of action appears to be the cytochrome bc1 complex (Complex III).
 Several metabolic enzymes are linked to the mitochondrial electron transport chain via ubiquinone.
 Inhibition of electron transport by atovaquone results in indirect inhibition of these enzymes.
 The ultimate metabolic effects of such blockade may include inhibition of nucleic acid and adenosine triphosphate (ATP) synthesis.
 
-Activity In Vitro
+Antimicrobial Activity
 
-Several laboratories, using different in vitro methodologies, have shown the IC50 (50% inhibitory concentration) of atovaquone against P.jiroveci to be 0.1 to 3 mcg/mL.
+Atovaquone is active against P. jirovecii [see Clinical Studies (14)].
 
-Drug Resistance
+Resistance
 
-Phenotypic resistance to atovaquone in vitro has not been demonstrated for P.jiroveci.
-However, in 2 subjects who developed PCP after prophylaxis with atovaquone, DNA sequence analysis identified mutations in the predicted amino acid sequence of P.jiroveci cytochrome b (a likely target site for atovaquone).
+Phenotypic resistance to atovaquone in vitro has not been demonstrated for P. jirovecii.
+However, in 2 subjects who developed PCP after prophylaxis with atovaquone, DNA sequence analysis identified mutations in the predicted amino acid sequence of P. jirovecii cytochrome b (a likely target site for atovaquone).
 The clinical significance of this is unknown.
