@@ -14,7 +14,7 @@ Ingredients of the IEM include aluminum, cuprous chloride, ethyl cellulose, gold
 The ABILIFY MYCITE System is a drug-device combination product composed of the following components:
 
 - An aripiprazole tablet with an embedded Ingestible Event Marker (IEM) sensor.
-  The IEM is a 1 mm-sized sensor embedded in the ABILIFY MYCITE tablet.
+  The IEM is a 1 mm sized sensor embedded in the ABILIFY MYCITE tablet.
   Upon contact with gastric fluid, magnesium and cuprous chloride within the IEM react to activate and power the device.
   The IEM then communicates to the MYCITE Patch, to track aripiprazole ingestion.
 - A MYCITE Patch (wearable sensor) is designed to detect the ingestion of the ABILIFY MYCITE tablet, record the ingestion of the IEM, and transmit ingestion data to the mobile patient application (app).

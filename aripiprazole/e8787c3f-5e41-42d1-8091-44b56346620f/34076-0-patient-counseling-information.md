@@ -22,7 +22,7 @@ Information previously synced to the patients account will be available.
 
 Using the MYCITE Patch in Different Environments
 
-The MYCITE Patch will communicate with a paired device when it is within 9-foot proximity.
+The MYCITE Patch will communicate with a paired device when it is within 9‑foot proximity.
 The MYCITE Patch should remain on an individual whether they are showering, swimming, or exercising as it is intended to tolerate water or perspiration.
 Patients undergoing an MRI, however, need to remove their patch and replace with a new one as soon as possible.
 In order for the MYCITE Patch to communicate with a smartphone, the device must be powered on and Bluetooth ®-enabled.

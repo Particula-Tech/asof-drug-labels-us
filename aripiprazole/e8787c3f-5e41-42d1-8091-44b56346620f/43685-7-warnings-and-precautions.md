@@ -4,7 +4,7 @@
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
-Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
+Over the course of a typical 10‑week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
@@ -181,7 +181,7 @@ Table 8: Percentage of Patients From Placebo-Controlled Trials in Adult Patients
 | Weight gain ≥7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
 |  | Schizophrenia 4-6 weeks duration. | Aripiprazole | 852 | 69 (8.1) |
-|  |  | Placebo | 379 | 12 (3.2) |
+|  | Placebo | 379 | 12 (3.2) |  |
 |  | Bipolar Mania 3 weeks duration. | Aripiprazole | 719 | 16 (2.2) |
 |  | Placebo | 598 | 16 (2.7) |  |
 |  | Major Depressive Disorder (Adjunctive Therapy) 6 weeks duration. | Aripiprazole | 347 | 18 (5.2) |

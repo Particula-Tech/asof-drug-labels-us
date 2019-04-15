@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of aripiprazole in the treatment of schizophrenia, bipolar I disorder, or adjunctive treatment of major depressive disorder is unknown.
+The mechanism of action of aripiprazole in the treatment of schizophrenia, bipolar 1 disorder, or adjunctive treatment of major depressive disorder is unknown.
 However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D 2 and 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors.
 
 ## 12.2 Pharmacodynamics
