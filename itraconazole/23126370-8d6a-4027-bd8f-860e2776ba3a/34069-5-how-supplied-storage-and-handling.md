@@ -14,4 +14,4 @@ Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav
 
 Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
 
-Revised: 05/2018
+Revised: 03/2019
