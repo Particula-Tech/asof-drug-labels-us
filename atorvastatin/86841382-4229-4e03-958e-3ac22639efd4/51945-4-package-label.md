@@ -4,7 +4,9 @@
 
 NDC 0093-5056-98
 
-Atorvastatin Calcium Tablets 10 mg*
+Atorvastatin Calcium Tablets
+
+10 mg*
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
 
@@ -20,7 +22,9 @@ TEVA
 
 NDC 0093-5059-98
 
-Atorvastatin Calcium Tablets 20 mg*
+Atorvastatin Calcium Tablets
+
+20 mg*
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
 
@@ -36,7 +40,9 @@ TEVA
 
 NDC 0093-5058-98
 
-Atorvastatin Calcium Tablets 40 mg*
+Atorvastatin Calcium Tablets
+
+40 mg*
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
 
@@ -52,7 +58,9 @@ TEVA
 
 NDC 0093-5057-98
 
-Atorvastatin Calcium Tablets 80 mg*
+Atorvastatin Calcium Tablets
+
+80 mg*
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
 

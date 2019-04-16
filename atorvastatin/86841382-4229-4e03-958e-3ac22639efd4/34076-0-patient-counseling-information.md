@@ -28,12 +28,11 @@ Advise women not to breastfeed during treatment with atorvastatin calcium [see C
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
-Manufactured In Israel By:
+Manufactured In Czech Republic By:
 
-Teva Pharmaceutical Ind.
-Ltd.
+Teva Czech Industries, s.r.o.
 
-Jerusalem, 9777402, Israel
+Opava-Komarov, Czech Republic
 
 Manufactured For:
 
@@ -42,4 +41,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-D 8/2018
+E 9/2018

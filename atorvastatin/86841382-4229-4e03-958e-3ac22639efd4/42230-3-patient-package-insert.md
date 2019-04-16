@@ -170,12 +170,11 @@ Active Ingredient: atorvastatin calcium
 
 Inactive Ingredients: calcium carbonate, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate, talc and titanium dioxide
 
-Manufactured In Israel By:
+Manufactured In Czech RepublicBy:
 
-Teva Pharmaceutical Ind.
-Ltd.
+Teva Czech Industries, s.r.o.
 
-Jerusalem, 9777402, Israel
+Opava-Komarov, Czech Republic
 
 Manufactured For:
 
@@ -184,4 +183,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-B 12/2017
+C 9/2018
