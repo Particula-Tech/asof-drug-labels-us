@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA201970"
+  ],
+  "inn": "rasagiline",
+  "labeler": "Alvogen, Inc.",
+  "package_ndcs": [
+    "47781-683-30",
+    "47781-690-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rasagiline",
+      "name": "Rasagiline"
+    }
+  ],
+  "setid": "a62a9946-755f-47d0-afe6-edc8f7d641fe",
+  "source": "dailymed"
+}
