@@ -12,6 +12,10 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+An estimated total of 1557 patients received mycophenolate mofetil capsules during pivotal clinical trials in the prevention of acute organ rejection.
+Of these, 991 were included in the three renal studies, 277 were included in one hepatic study, and 289 were included in one cardiac study.
+Patients in all study arms also received cyclosporine and corticosteroids.
+
 The data described below primarily derive from five randomized, active-controlled double- blind 12-month trials of mycophenolate mofetil capsules in de novo kidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2 and 14.3)].
 
 Mycophenolate Mofetil Oral
@@ -33,108 +37,105 @@ The safety data of three kidney transplantation studies are pooled together.
 Table 3.
 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation (Reported in ³20% of Patients in the Mycophenolate Mofetil Group)
 
-|  | Kidney Studies | Heart Study |  | Liver Study |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Mycophenolate Mofetil 2 g/day | Mycophenolate Mofetil 3 g/day | Azathioprine 1 to 2 mg/kg/day or100 to 150mg/day | Mycophenolate Mofetil 3 g/day | Azathioprine1.5 to 3 mg/kg/day | Mycophenolate Mofetil 3 g/day | Azathioprine 1 to 2 mg/kg/day |  |
-| (n=336) | (n=330) | (n=326) | (n=289) | (n=289) | (n=277) | (n=287) |  |
-| % | % | % | % | % | % | % |  |
-| Body as a Whole |  |  |  |  |  |  |  |
-| Infection | 18.2 | 20.9 | 19.9 | 25.6 | 19.4 | 27.1 | 25.1 |
-| Sepsis | – | – | – | – | – | 27.4 | 26.5 |
-| Ascites | – | – | – | – | – | 24.2 | 22.6 |
-| Hematologic andLymphatic |  |  |  |  |  |  |  |
-| Anemia | 25.6 | 25.8 | 23.6 | 42.9 | 43.9 | 43.0 | 53.0 |
-| Leukopenia | 23.2 | 34.5 | 24.8 | 30.4 | 39.1 | 45.8 | 39.0 |
-| Thrombocytopenia | – | – | – | 23.5 | 27.0 | 38.3 | 42.2 |
-| Leukocytosis | – | – | – | 40.5 | 35.6 | 22.4 | 21.3 |
-| Urogenital |  |  |  |  |  |  |  |
-| Urinary tractinfection | 37.2 | 37.0 | 33.7 | – | – | – | – |
-| Cardiovascular |  |  |  |  |  |  |  |
-| Hypertension | 32.4 | 28.2 | 32.2 | 77.5 | 72.3 | 62.1 | 59.6 |
-| Hypotension | – | – | – | 32.5 | 36.0 | – | – |
-| Tachycardia | – | – | – | 20.1 | 18.0 | 22.0 | 15.7 |
-| Metabolic andNutritional |  |  |  |  |  |  |  |
-| Peripheral edema | 28.6 | 27.0 | 28.2 | 64.0 | 53.3 | 48.4 | 47.7 |
-| Hyper­cholesterolemia | – | – | – | 41.2 | 38.4 | – | – |
-| Edema | – | – | – | 26.6 | 25.6 | 28.2 | 28.2 |
-| Hypokalemia | – | – | – | 31.8 | 25.6 | 37.2 | 41.1 |
-| Hyperkalemia | – | – | – | – | – | 22.0 | 23.7 |
-| Hyperglycemia | – | – | – | 46.7 | 52.6 | 43.7 | 48.8 |
-| Creatinineincreased | – | – | – | 39.4 | 36.0 | – | – |
-| BUN increased | – | – | – | 34.6 | 32.5 | – | – |
-| Lacticdehydrogenase increased | – | – | – | 23.2 | 17.0 | – | – |
-| Hypomagnesemia | – | – | – | – | – | 39.0 | 37.6 |
-| Hypocalcemia | – | – | – | – | – | 30.0 | 30.0 |
-| Digestive |  |  |  |  |  |  |  |
-| Diarrhea | 31.0 | 36.1 | 20.9 | 45.3 | 34.3 | 51.3 | 49.8 |
-| Constipation | 22.9 | 18.5 | 22.4 | 41.2 | 37.7 | 37.9 | 38.3 |
-| Nausea | 19.9 | 23.6 | 24.5 | 54.0 | 54.3 | 54.5 | 51.2 |
-| Dyspepsia | – | – | – | – | – | 22.4 | 20.9 |
-| Vomiting | – | – | – | 33.9 | 28.4 | 32.9 | 33.4 |
-| Anorexia | – | – | – | – | – | 25.3 | 17.1 |
-| Liver functiontests abnormal | – | – | – | – | – | 24.9 | 19.2 |
-| Respiratory |  |  |  |  |  |  |  |
-| Infection | 22.0 | 23.9 | 19.6 | 37.0 | 35.3 | – | – |
-| Dyspnea | – | – | – | 36.7 | 36.3 | 31.0 | 30.3 |
-| Cough increased | – | – | – | 31.1 | 25.6 | – | – |
-| Sinusitis | – | – | – | 26.0 | 19.0 | – | – |
-| Pleural effusion | – | – | – | – | – | 34.3 | 35.9 |
-| Skin andAppendages |  |  |  |  |  |  |  |
-| Rash | – | – | – | 22.1 | 18.0 | – | – |
-| Nervous System |  |  |  |  |  |  |  |
-| Tremor | – | – | – | 24.2 | 23.9 | 33.9 | 35.5 |
-| Insomnia | – | – | – | 40.8 | 37.7 | 52.3 | 47.0 |
-| Dizziness | – | – | – | 28.7 | 27.7 | – | – |
-| Anxiety | – | – | – | 28.4 | 23.9 | – | – |
-| Paresthesia | – | – | – | 20.8 | 18.0 | – | – |
+| Adverse drug reaction | Kidney Studies |  |  |  | Heart Study |  |  | Liver Study |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mycophenolate Mofetil | AZA |  | Placebo | Mycophenolate Mofetil | AZA |  | Mycophenolate Mofetil | AZA |  |  |
+| (MedDRA)System Organ Class | 2g/day(n=501)or 3g/day (n=490) | 1 to 2mg/kg/dayor 100 to150mg/day |  |  | 3g/day | 1.5 to 3mg/kg/day |  | 3g/day | 1 to 2mg/kg/day |  |
+| (n=991) | (n=326) |  | (n=166) | (n=289) | (n=289) |  | (n=277) | (n=287) |  |  |
+| % | % |  | % | % | % |  | % | % |  |  |
+| Infections and infestations |  |  |  |  |  |  |  |  |  |  |
+| Bacterial infections | 39.9 | 33.7 | 37.3 |  | - |  | - | 27.4 |  | 26.5 |
+| Viral infections | - a | - | - |  | 31.1 |  | 24.9 | - |  | - |
+| Blood and lymphatic system disorders |  |  |  |  |  |  |  |  |  |  |
+| Anemia | 20.0 | 23.6 | 2.4 |  | 45.0 |  | 47.1 | 43.0 |  | 53.0 |
+| Ecchymosis | - | - | - |  | 20.1 |  | 9.7 | - |  | - |
+| Leukocytosis | - | - | - |  | 42.6 |  | 37.4 | 22.4 |  | 21.3 |
+| Leukopenia | 28.6 | 24.8 | 4.2 |  | 34.3 |  | 43.3 | 45.8 |  | 39.0 |
+| Thrombocytopenia | - | - | - |  | 24.2 |  | 28.0 | 38.3 |  | 42.2 |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |  |  |  |  |
+| Hypercholesterolemia | - | - | - |  | 46.0 |  | 43.9 | - |  | - |
+| Hyperglycemia | - | - | - |  | 48.4 |  | 53.3 | 43.7 |  | 48.8 |
+| Hyperkalemia | - | - | - |  | - |  | - | 22.0 |  | 23.7 |
+| Hypocalcemia | - | - | - |  | - |  | - | 30.0 |  | 30.0 |
+| Hypokalemia | - | - | - |  | 32.5 |  | 26.3 | 37.2 |  | 41.1 |
+| Hypomagnesemia | - | - | - |  | 20.1 |  | 14.2 | 39.0 |  | 37.6 |
+| Psychiatric disorders |  |  |  |  |  |  |  |  |  |  |
+| Depression | - | - | - |  | 20.1 |  | 15.2 | - |  | - |
+| Insomnia | - | - | - |  | 43.3 |  | 39.8 | 52.3 |  | 47.0 |
+| Nervous system disorders |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | - | - | - |  | 34.3 |  | 33.9 | - |  | - |
+| Headache | - | - | - |  | 58.5 |  | 55.4 | 53.8 |  | 49.1 |
+| Tremor | - | - | - |  | 26.3 |  | 25.6 | 33.9 |  | 35.5 |
+| Cardiac disorders |  |  |  |  |  |  |  |  |  |  |
+| Tachycardia | - | - | - |  | 22.8 |  | 21.8 | 22.0 |  | 15.7 |
+| Vascular disorders |  |  |  |  |  |  |  |  |  |  |
+| Hypertension | 27.5 | 32.2 | 19.3 |  | 78.9 |  | 74.0 | 62.1 |  | 59.6 |
+| Hypotension | - | - | - |  | 34.3 |  | 40.1 | - |  | - |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |  |  |  |
+| Cough | - | - | - |  | 40.5 |  | 32.2 | - |  | - |
+| Dyspnea | - | - | - |  | 44.3 |  | 44.3 | 31.0 |  | 30.3 |
+| Pleural effusion | - | - | - |  | - |  | - | 34.3 |  | 35.9 |
+| Gastrointestinal disorders |  |  |  |  |  |  |  |  |  |  |
+| Abdominal pain | 22.4 | 23.0 | 11.4 |  | 41.9 |  | 39.4 | 62.5 |  | 51.2 |
+| Constipation | - | - | - |  | 43.6 |  | 38.8 | 37.9 |  | 38.3 |
+| Decreased appetite | - | - | - |  | - |  | - | 25.3 |  | 17.1 |
+| Diarrhea | 30.4 | 20.9 | 13.9 |  | 52.6 |  | 39.4 | 51.3 |  | 49.8 |
+| Dyspepsia | - | - | - |  | 22.1 |  | 22.1 | 22.4 |  | 20.9 |
+| Nausea | - | - | - |  | 56.1 |  | 60.2 | 54.5 |  | 51.2 |
+| Vomiting | - | - | - |  | 39.1 |  | 34.6 | 32.9 |  | 33.4 |
+| Hepatobiliary disorders |  |  |  |  |  |  |  |  |  |  |
+| Blood lactatedehydrogenase increased | - | - | - |  | 23.5 |  | 18.3 | - |  | - |
+| Hepatic enzymeincreased | - | - | - |  | - |  | - | 24.9 |  | 19.2 |
+| Skin and subcutaneous tissues disorders |  |  |  |  |  |  |  |  |  |  |
+| Rash | - | - | - |  | 26.0 |  | 20.8 | - |  | - |
+| Renal and urinary disorders |  |  |  |  |  |  |  |  |  |  |
+| Blood creatinineincreased | - | - | - |  | 42.2 |  | 39.8 | - |  | - |
+| Blood urea increased | - | - | - |  | 36.7 |  | 34.3 | - |  | - |
+| General disorders and administration site conditions |  |  |  |  |  |  |  |  |  |  |
+| Asthenia | - | - | - |  | 49.1 |  | 41.2 | 35.4 |  | 33.8 |
+| Edema b | 21.0 | 28.2 | 8.4 |  | 67.5 |  | 55.7 | 48.4 |  | 47.7 |
+| Pain c | 24.8 | 32.2 | 9.6 |  | 79.2 |  | 77.5 | 74.0 |  | 77.5 |
+| Pyrexia | - | - | - |  | 56.4 |  | 53.6 | 52.3 |  | 56.1 |
+
+a: “-” Indicates that the incidence was below the cutoff value of 20% for inclusion in the table. b: “Edema” includes peripheral edema, facial edema, scrotal edema. c: “Pain” includes musculoskeletal pain (myalgia, neck pain, back pain).
 
 In the three de novo kidney studies, patients receiving 2 g/day of mycophenolate mofetil had an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
 
-Post-transplant lymphoproliferative disease (PTLD) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients followed for at least 1 year [see Warnings and Precautions (5.2)].
+Post-transplant lymphoproliferative disease (PTLD, pseudolymphoma) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients followed for at least 1 year [see Warnings and Precautions (5.2)].
 Non-melanoma skin carcinomas occurred in 1.6% to 4.2% of patients, other types of malignancy in 0.7% to 2.1% of patients.
 Three-year safety data in kidney and heart transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.
 In pediatric patients, PTLD was observed in 1.35% (2/148) by 12 months post-transplant.
 
-Severe neutropenia (ANC <0.5 x 103/mL) developed in up to 2.0% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving mycophenolate mofetil 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
+Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia are a known risk associated with mycophenolate and may lead or contribute to the occurrence of infections and hemorrhages [see Warnings and Precautions (5.3)].
+Severe neutropenia (ANC <0.5 x 103/µL) developed in up to 2% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving mycophenolate mofetil capsules 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
 
-Table 4 shows the incidence of opportunistic infections that occurred in the kidney, heart, and liver transplant populations in the azathioprine-controlled prevention trials:
+The most common opportunistic infections in patients receiving mycophenolate mofetil capsules with other immunosuppressants were mucocutaneous candida, CMV viremia/syndrome, and herpes simplex.
+The proportion of patients with CMV viremia/syndrome was 13.5%.
+In patients receiving mycophenolate mofetil capsules (2 g or 3 g) in controlled studies for prevention of kidney, heart or liver rejection, fatal infection/sepsis occurred in approximately 2% of kidney and heart patients and in 5% of liver patients [see Warnings and Precautions (5.3)].
 
-Table 4.
-Opportunistic Viral and Fungal Infections in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation
-
-|  | Kidney Studies | Heart Study |  | Liver Study |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Mycophenolate Mofetil 2 g/day | Mycophenolate Mofetil 3 g/day | Azathioprine1 to 2 mg/kg/dayor 100 to 150 mg/day | Mycophenolate Mofetil 3 g/day | Azathioprine1.5 to3 mg/kg/day | Mycophenolate Mofetil 3 g/day | Azathioprine 1 to 2 mg/kg/day |  |
-| (n=336) | (n=330) | (n=326) | (n=289) | (n=289) | (n=277) | (n=287) |  |
-| % | % | % | % | % | % | % |  |
-| Herpes simplex | 16.7 | 20.0 | 19.0 | 20.8 | 14.5 | 10.1 | 5.9 |
-| Cytomegalovirus |  |  |  |  |  |  |  |
-| – Viremia/syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10.0 | 14.1 | 12.2 |
-| – Tissue invasivedisease | 8.3 | 11.5 | 6.1 | 11.4 | 8.7 | 5.8 | 8.0 |
-| Herpes zoster | 6.0 | 7.6 | 5.8 | 10.7 | 5.9 | 4.3 | 4.9 |
-| – Cutaneous disease | 6.0 | 7.3 | 5.5 | 10.0 | 5.5 | 4.3 | 4.9 |
-| Candida | 17.0 | 17.3 | 18.1 | 18.7 | 17.6 | 22.4 | 24.4 |
-| – Mucocutaneous | 15.5 | 16.4 | 15.3 | 18.0 | 17.3 | 18.4 | 17.4 |
-
-The following other opportunistic infections occurred with an incidence of less than 4% in mycophenolate mofetil patients in the above azathioprine-controlled studies: Herpes zoster visceral disease; Candida urinary tract infection, fungemia/disseminated disease and tissue invasive disease; Cryptococcosis; Aspergillus/Mucor; Pneumocystis jirovecii.
-
-In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of kidney, heart or liver rejection, fatal infection/sepsis occurred in approximately 2% of kidney and heart patients and in 5% of liver patients [see Warnings and Precautions (5.3)].
+The most serious gastrointestinal disorders reported were ulceration and hemorrhage, which are known risks associated with mycophenolate mofetil capsules.
+Mouth, esophageal, gastric, duodenal, and intestinal ulcers often complicated by hemorrhage, as well as hematemesis, melena, and hemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials, while the most common gastrointestinal disorders were diarrhea, nausea and vomiting.
+Endoscopic investigation of patients with mycophenolate mofetil capsules-related diarrhea revealed isolated cases of intestinal villous atrophy [see Warnings and Precautions (5.5)].
 
 The following adverse reactions were reported with 3% to <20% incidence in kidney, heart, and liver transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
 
-Table 5.
-Adverse Reactions Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
+Table 4.
+Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
 
-| Body System | Adverse Reactions |
+| System Organ Class | Adverse Reactions |
 | --- | --- |
-| Body as aWhole | Abscess, cellulitis, chills occurring with fever, malaise, peritonitis |
-| Hematologicand Lymphatic | coagulation disorder, ecchymosis, pancytopenia, petechia,polycythemia, prothrombin time increased, thromboplastin time increased |
-| Urogenital | acute kidney failure, albuminuria, dysuria,, hematuria, kidneyfailure, kidney tubular necrosis, pain, pyelonephritis, scrotal edema |
-| Cardiovascular | angina pectoris, arrhythmia, atrial fibrillation, atrial flutter,bradycardia, congestive heart failure, extrasystole, heart failure, hypotension, palpitation, pericardial effusion, pulmonary hypertension, supraventricular tachycardia, supraventricular extrasystoles, syncope, tachycardia, ventricular extrasystole, ventricular tachycardia |
-| Metabolic andNutritional | acidosis, hypercholesteremia, hyperlipemia |
-| Digestive | anorexia, esophagitis, flatulence, gastritis, gastroenteritis,gastrointestinal hemorrhage, gastrointestinal moniliasis, gingivitis, gum hyperplasia, hepatitis, ileus, jaundice, melena, mouth ulceration, nausea and vomiting, oral moniliasis, stomach ulcer, stomatitis |
-| Respiratory | bronchitis, epistaxis, hemoptysis, lung edema, pharyngitis, pleuraleffusion, pneumonia, respiratory moniliasis, rhinitis, sinusitis |
-| Skin andAppendages | acne, fungal dermatitis, hemorrhage, hirsutism, pruritus, rash, skinbenign neoplasm, skin carcinoma, vesiculobullous rash |
+| Body as aWhole | cellulitis, chills, hernia, malaise |
+| Infections and Infestations | fungal infections |
+| Hematologicand Lymphatic | coagulation disorder, ecchymosis, pancytopenia |
+| Urogenital | hematuria |
+| Cardiovascular | hypotension |
+| Metabolic andNutritional | acidosis, alkaline phosphatase increased, hyperlipemia, hypophosphatemia, weight loss |
+| Digestive | esophagitis, flatulence, gastritis, gastrointestinal hemorrhage, hepatitis, ileus, nausea and vomiting, stomach ulcer, stomatitis |
+| Neoplasm benign, malignant and unspecified | neoplasm |
+| Skin andAppendages | skin benign neoplasm, skin carcinoma |
+| Psychiatric | confusional state |
+| Nervous | hypertonia, paresthesia, somnolence |
+| Musculoskeletal | arthralgia, myasthenia |
 
 Pediatric Study
 
@@ -142,7 +143,7 @@ The type and frequency of adverse events in a clinical study for prevention of k
 
 Geriatrics
 
-Elderly patients (³65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+Elderly patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 Mycophenolate Mofetil Intravenous
 
@@ -172,10 +173,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 -Nervous system malformations: such as spina bifida.
 
-- Digestive:colitis, pancreatitis, isolated cases of intestinal villous atrophy.
+- Digestive:Colitis, pancreatitis
 
-- Hematologic and Lymphatic: Cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
+- Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
+- Immune: Hypersensitivity, hypogammaglobinemia.
 
-- Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C [see Warnings and Precautions (5.3)].
+- Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].
 
-- Respiratory: Interstitial lung disorders, fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in post-transplant patients receiving mycophenolate mofetil.
+- Respiratory: Bronchiectasis, interstitial lung disease, fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in post-transplant patients receiving mycophenolate mofetil.
+- Vascular: Lymphocele

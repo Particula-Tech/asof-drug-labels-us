@@ -30,11 +30,7 @@ Based on published data from pregnancy registries, the risk of first trimester p
 Animal Data
 
 In animal reproductive toxicology studies, there were increased rates of fetal resorptions and malformations in the absence of maternal toxicity.
-Oral administration of MMF to pregnant rats from Gestational Day 7 to Day 16 produced increased embryofetal lethality and fetal malformations including anophthalmia, agnathia, and hydrocephaly at doses equivalent to
-
-0.03 and 0.02 times the recommended human doses for renal and cardiac transplant patients,
-
-respectively, when corrected for BSA.
+Oral administration of MMF to pregnant rats from Gestational Day 7 to Day 16 produced increased embryofetal lethality and fetal malformations including anophthalmia, agnathia, and hydrocephaly at doses equivalent to 0.03 and 0.02 times the recommended human doses for renal and cardiac transplant patients, respectively, when corrected for BSA.
 Oral administration of MMF to pregnant rabbits from Gestational Day 7 to Day 19 produced increased embryofetal lethality and fetal malformations included ectopia cordis, ectopic kidneys, diaphragmatic hernia, and umbilical hernia at dose equivalents as low as 0.1 and 0.06 times the recommended human doses for renal and cardiac transplant patients, respectively, when corrected for BSA.
 
 ## 8.2 Lactation
@@ -75,12 +71,12 @@ Contraception
 
 Female Patients
 
-Females of reproductive potential taking mycophenolate mofetil capsules must receive contraceptive counseling and use acceptable contraception (see Table 8 for acceptable contraception methods).
+Females of reproductive potential taking mycophenolate mofetil capsules must receive contraceptive counseling and use acceptable contraception (see Table 7 for acceptable contraception methods).
 Patients must use acceptable birth control during the entire mycophenolate mofetil capsule therapy, and for 6 weeks after stopping mycophenolate mofetil capsules, unless the patient chooses abstinence.
 
 Patients should be aware that mycophenolate mofetil capsules reduce blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 8.
+Table 7.
 Acceptable Contraception Methods For Females Of Reproductive Potential
 
 Pick from the following birth control options:

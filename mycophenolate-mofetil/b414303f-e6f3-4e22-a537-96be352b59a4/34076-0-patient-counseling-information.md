@@ -72,6 +72,11 @@ Advise patients not to donate blood during therapy and for at least 6 weeks foll
 
 Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil capsules.
 
+## 17.10 Potential to Impair Driving and Use of Machinery
+
+Advise patients that mycophenolate mofetil capsules can affect the ability to drive or operate machines.
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil capsules.
+
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
@@ -80,4 +85,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-M 9/2018
+N 2/2019
