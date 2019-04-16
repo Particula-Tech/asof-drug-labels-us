@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling] (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 ## 17.1 Information for Patients
 
@@ -26,4 +26,4 @@ Goa 403 722
 
 INDIA
 
-Revised: May 2017 ID#: 251596
+Revised: April 19, 2019 ID#: 260084

@@ -119,13 +119,13 @@ Drug Interactions:
 
 In two controlled crossover clinical pharmacology studies in healthy male (n=12 in each study) and female (n=12 in each study) volunteers, desloratadine 7.5 mg (1.5 times the daily dose) once daily was coadministered with erythromycin 500 mg every 8 hours or ketoconazole 200 mg every 12 hours for 10 days.
 In three separate controlled, parallel group clinical pharmacology studies, desloratadine at the clinical dose of 5 mg has been coadministered with azithromycin 500 mg followed by 250 mg once daily for 4 days (n=18) or with fluoxetine 20 mg once daily for 7 days after a 23-day pretreatment period with fluoxetine (n=18) or with cimetidine 600 mg every 12 hours for 14 days (n=18) under steady-state conditions to normal healthy male and female volunteers.
-Although increased plasma concentrations (Cmax and AUC 0-24 hrs) of desloratadine and 3-hydroxydesloratadine were observed (see Table 2), there were no clinically relevant changes in the safety profile of desloratadine, as assessed by electrocardiographic parameters (including the corrected QT interval), clinical laboratory tests, vital signs, and adverse events.
+Although increased plasma concentrations (Cmax and AUC 0 to 24 hrs) of desloratadine and 3-hydroxydesloratadine were observed (see Table 2), there were no clinically relevant changes in the safety profile of desloratadine, as assessed by electrocardiographic parameters (including the corrected QT interval), clinical laboratory tests, vital signs, and adverse events.
 
 Table 2 Changes in Desloratadine and 3-Hydroxydesloratadine Pharmacokinetics in Healthy Male and Female Volunteers
 
 |  | Desloratadine |  | 3-Hydroxydesloratadine |  |
 | --- | --- | --- | --- | --- |
-|  | Cmax | AUC 0-24 hrs | Cmax | AUC 0-24 hrs |
+|  | Cmax | AUC 0 to 24 hrs | Cmax | AUC 0 to 24 hrs |
 | Erythromycin (500 mg Q8h) | + 24% | + 14% | + 43% | + 40% |
 | Ketoconazole (200 mg Q12h) | + 45% | + 39% | + 43% | + 72% |
 | Azithromycin (500 mg day 1, 250 mg QD x 4 days) | + 15% | + 5% | + 15% | + 4% |
