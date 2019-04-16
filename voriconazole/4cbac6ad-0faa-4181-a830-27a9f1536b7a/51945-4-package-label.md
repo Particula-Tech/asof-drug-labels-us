@@ -1,15 +1,15 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-NDC 68462-572-30 Voriconazole Tablets, 50 mg
+Voriconazole Tablets 50 mg;
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+NDC 68462-572-30
 
-NDC 68462-572-13 Voriconazole Tablets, 50 mg
+Bottles of 30
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-NDC 68462-573-30 Voriconazole Tablets, 200 mg
+Voriconazole Tablets 200 mg;
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+Bottles of 90
 
-NDC 68462-573-13 Voriconazole Tablets, 200 mg
+NDC 68462-572-90

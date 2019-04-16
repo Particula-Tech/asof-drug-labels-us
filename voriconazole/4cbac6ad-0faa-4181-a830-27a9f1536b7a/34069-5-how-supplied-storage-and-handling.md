@@ -1,8 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Click here to enter How Supplied
+
 ## 16.1 How Supplied
 
-Voriconazole Tablets 50 mg; white to off-white, film-coated, round, debossed with "73" on one side and "G" on the reverse.
+Voriconazole Tablets 50 mg; white to off-white, circular biconvex film-coated tablets, debossed with "73" on one side and "G" on other side.
 
 Bottles of 30 (NDC 68462-572-30)
 
@@ -10,7 +12,7 @@ Bottles of 90 (NDC 68462-572-90)
 
 Unit dose carton of 30 tablets (3x10) (NDC 68462-572-13)
 
-Voriconazole Tablets 200 mg; white to off-white, film-coated, oval, debossed with "573" on one side and "G" on the reverse.
+Voriconazole Tablets 200 mg; white to off-white, Ovel film coated tablets, debossed with "573" on one side and "G" on other side.
 
 Bottles of 30 (NDC 68462-573-30)
 

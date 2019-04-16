@@ -1,4 +1,6 @@
-FDA-Approved Patient Labeling
+# Patient Package Insert
+
+PATIENT INFORMATION
 
 Voriconazole Tablets
 
@@ -13,38 +15,33 @@ What are voriconazole tablets?
 Voriconazole tablets are a prescription medicine used to treat certain serious fungal infections in your blood and body.
 These infections are called “aspergillosis,” “esophageal candidiasis,” “Scedosporium,” “Fusarium,” and “candidemia”.
 
-It is not known if voriconazole tablets are safe and effective in children younger than 12 years old.
-
-Who should not take voriconazole tablets?
+It is not known if voriconazole tablets are safe and effective in children younger than 2 years old.
 
 Do not take voriconazole tablets if you:
 
 - •are allergic to voriconazole or any of the ingredients in voriconazole tablets.
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - •are taking any of the following medicines:
-- •cisapride (Propulsid®)
-- •pimozide (Orap®)
-- •quinidine (like Quinaglute®)
-- •sirolimus (Rapamune®)
-- •rifampin (Rifadin®)
-- •carbamazepine (Tegretol®)
-- •long-acting barbiturates like phenobarbital (Luminal®)
-- •efavirenz (Sustiva®)
-- •ritonavir (Norvir®)
-- •rifabutin (Mycobutin®)
-- •ergotamine, dihydroergotamine (ergot alkaloids)
-- •St.
-  John’s Wort (herbal supplement)
+- o cisapride
+- o pimozide
+- o quinidine
+- o sirolimus
+- o rifampin
+- o carbamazepine
+- o long-acting barbiturates like phenobarbital
+- o efavirenz
+- o ritonavir
+- o rifabutin
+- o ergotamine, dihydroergotamine (ergot alkaloids)
+- o St. John’s Wort (herbal supplement)
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 
 Do not start taking a new medicine without talking to your healthcare provider or pharmacist.
 
-What should I tell my healthcare provider before taking voriconazole tablets?
+Before you take voriconazole tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-Before you take voriconazole tablets, tell your healthcare provider if you:
-
-- •have or ever had heart disease, or an abnormal heart rate or rhythm.
+- • have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting voriconazole tablets.
 - •have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take voriconazole tablets.
@@ -54,11 +51,12 @@ Before you take voriconazole tablets, tell your healthcare provider if you:
   Voriconazole tablets can harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
   Women who can become pregnant should use effective birth control while taking voriconazole tablets.
+  Talk to your healthcare provider about birth control methods that may be right for you.
 - •are breast-feeding or plan to breast-feed.
   It is not known if voriconazole passes into breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take voriconazole tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the -counter medicines, vitamins and herbal supplements.
 
 Voriconazole tablets may affect the way other medicines work, and other medicines may affect how voriconazole tablets work.
 
@@ -68,10 +66,10 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 How should I take voriconazole tablets?
 
 - •Voriconazole tablets may be prescribed to you as:
-- •voriconazole tablets
-- •Take voriconazole tablets exactly as your healthcare provider tells you to.
-- •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
-- •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
+  - •voriconazole tablets
+  - •Take voriconazole tablets exactly as your healthcare provider tells you to.
+  - •Take voriconazole tablets at least 1 hours before or at least 1 hours after meals.
+  - •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
 
 What should I avoid while taking voriconazole tablets?
 
@@ -95,8 +93,10 @@ Voriconazole tablets may cause serious side effects including:
 - •feeling very tired
 - •flu-like symptoms
 - •nausea or vomiting
-- •vision changes.
-  Symptoms of vision changes may include:
+
+vision changes.
+Symptoms of vision changes may include:
+
 - •blurred vision
 - •changes in the way you see colors
 - •sensitivity to light (photophobia)
@@ -124,9 +124,11 @@ Voriconazole tablets may cause serious side effects including:
 - •blistering or peeling of your skin
 - •trouble swallowing or breathing
 
-Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms listed above.
+Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms
 
-The most common side effects of voriconazole tablets include:
+listed above.
+
+The most common side effects of voriconazole tablets in adults include:
 
 - •vision changes
 - •rash
@@ -136,15 +138,41 @@ The most common side effects of voriconazole tablets include:
 - •fast heart beat (tachycardia)
 - •hallucinations (seeing or hearing things that are not there)
 - •abnormal liver function tests
+- •chills
+- •fever
+
+The most common side effects of voriconazole tablets in children include:
+
+Fever
+
+- •stomach pain
+- •nose bleeds
+- •diarrhea
+- •high blood pressure
+- •low blood potassium levels
+- •low platelet counts
+- •cough
+- •Inflammation of mucous membranes
+- •abnormal liver function tests
+- •low blood pressure
+- •constipation
+- •low blood calcium levels
+- •high blood sugar levels
+- •low blood magnesium levels
+- •low blood phosphate levels
+- •headache
+- •Fullness of the stomach area
+- •vision changes
+- •fast heart beat (tachycardia)
+- •vomiting
+- •rash
+- •nausea
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of voriconazole tablets.
-For more information, ask your healthcare provider or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-
 How should I store voriconazole tablets?
 
 - •Store voriconazole tablets at room temperature, 68° to 77°F (20° to 25°C).
@@ -160,8 +188,6 @@ Do not use voriconazole tablets for a condition for which it was not prescribed.
 Do not give voriconazole tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Patient Information leaflet summarizes the most important information about voriconazole tablets.
-If you would like more information, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about voriconazole tablets that is written for health professionals.
 
 What are the ingredients of voriconazole tablets?
@@ -169,8 +195,6 @@ What are the ingredients of voriconazole tablets?
 Active ingredient: voriconazole
 
 Inactive ingredients: croscarmellose sodium, a coating containing hypromellose, lactose, lactose monohydrate, magnesium stearate, monohydrate, povidone, pregelatinized starch, talc, titanium dioxide, and triacetin.
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Trademarks are the property of their respective owners.
 
@@ -185,4 +209,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-November 2016
+April 2019 This Patient Information has been approved by the U.S. Food and Drug Administration.

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-Approved Patient Labeling
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Embryo-Fetal Toxicity
 
@@ -30,4 +30,4 @@ www.glenmarkpharma.com/usa
 
 Trademarks are the property of their respective owners.
 
-August 2017
+April 2019
