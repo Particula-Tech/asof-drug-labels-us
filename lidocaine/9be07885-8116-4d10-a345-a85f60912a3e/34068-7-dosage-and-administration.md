@@ -17,7 +17,6 @@ An additional dose of not more than 15 mL (300 mg) can be instilled for adequate
 
 Prior to sounding or cystoscopy, a penile clamp should be applied for 5 to 10 minutes to obtain adequate anesthesia.
 A total dose of 30 mL (600 mg) is usually required to fill and dilate the male urethra.
-
 Prior to catheterization, smaller volumes of 5 to 10 mL (100 to 200 mg) are usually adequate for lubrication.
 
 ## For Surface Anesthesia of the Female Adult Urethra
@@ -33,5 +32,5 @@ In order to obtain adequate anesthesia, several minutes should be allowed prior 
 Apply a moderate amount of jelly to the external surface of the endotracheal tube shortly before use.
 Care should be taken to avoid introducing the product into the lumen of the tube.
 Do not use the jelly to lubricate endotracheal stylettes.
-See WARNINGS and ADVERSE REACTIONS concerning rare reports of inner lumen occlusion.
+(see WARNINGS and ADVERSE REACTIONS) concerning rare reports of inner lumen occlusion.
 It is also recommended that use of endotracheal tubes with dried jelly on the external surface be avoided for lack of lubricating effect.

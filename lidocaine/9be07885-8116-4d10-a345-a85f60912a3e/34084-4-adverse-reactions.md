@@ -5,7 +5,7 @@ These adverse experiences are, in general, dose-related and may result from high
 Serious adverse experiences are generally systemic in nature.
 The following types are those most commonly reported:
 
-There have been rare reports of endotracheal tube occlusion associated with the presence of dried jelly residue in the inner lumen of the tube (see also WARNINGS and DOSAGE AND ADMINISTRATION).
+There have been rare reports of endotracheal tube occlusion associated with the presence of dried jelly residue in the inner lumen of the tube (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 ## Central Nervous System
 
