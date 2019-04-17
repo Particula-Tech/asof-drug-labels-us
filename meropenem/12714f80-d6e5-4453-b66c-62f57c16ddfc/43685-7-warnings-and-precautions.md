@@ -1,19 +1,5 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-- Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving β-lactams.
-  (5.1)
-- Severe cutaneous adverse reactions have been reported in patients receiving Meropenem for injection (I.V.)
-  (5.2)
-- Seizures and other adverse CNS experiences have been reported during treatment.
-  (5.3)
-- Co-administration of Meropenem for injection (I.V.) with valproic acid or divalproex sodium reduces the serum concentration of valproic acid potentially increasing the risk of breakthrough seizures.
-  (5.4, 7.2)
-- Clostridium difficile-associated diarrhea (ranging from mild diarrhea to fatal colitis) has been reported.
-  Evaluate if diarrhea occurs.
-  (5.5)
-- In patients with renal dysfunction, thrombocytopenia has been observed.
-  (5.8)
-
 ## 5.1 Hypersensitivity Reactions
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving therapy with β-lactams.
@@ -25,7 +11,7 @@ If an allergic reaction to Meropenem for injection (I.V.) occurs, discontinue th
 
 ## 5.2 Severe Cutaneous Adverse Reactions
 
-Severe cutaneous adverse reactions (SCAR) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme (EM) and acute generalized exanthematous pustulosis (AGEP) have been reported in patients receiving Meropenem for injection (I.V.)
+Severe cutaneous adverse reactions (SCAR) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme (EM) and acute generalized exanthematous pustulosis (AGEP) have been reported in patients receiving Meropenem for Injection (I.V.)
 [see Adverse Reactions (6.2)].
 If signs and symptoms suggestive of these reactions appear, meropenem should be withdrawn immediately and an alternative treatment should be considered.
 
@@ -34,14 +20,14 @@ If signs and symptoms suggestive of these reactions appear, meropenem should be 
 Seizures and other adverse CNS experiences have been reported during treatment with Meropenem for injection (I.V.).
 These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
 
-During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
+During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
 All meropenem-treated patients with seizures had pre-existing contributing factors.
 Among these are included prior history of seizures or CNS abnormality and concomitant medications with seizure potential.
 Dosage adjustment is recommended in patients with advanced age and/or adult patients with creatinine clearance of 50 mL/min or less [see Dosage and Administration (2.2)].
 
 Close adherence to the recommended dosage regimens is urged, especially in patients with known factors that predispose to convulsive activity.
 Continue anti-convulsant therapy in patients with known seizure disorders.
-If focal tremors, myoclonus, or seizures occur, evaluate neurologically, place on anti-convulsant therapy if not already instituted, and re-examine the dosage of Meropenem for injection (I.V.) to determine whether it should be decreased or discontinued.
+If focal tremors, myoclonus, or seizures occur, evaluate neurologically, placed on anti-convulsant therapy if not already instituted, and re-examine the dosage of Meropenem for injection (I.V.) to determine whether it should be decreased or discontinued.
 
 ## 5.4 Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid
 
@@ -78,7 +64,7 @@ If superinfection does occur during therapy, appropriate measures should be take
 
 ## 5.8 Thrombocytopenia
 
-In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use In Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
+In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use in Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.9 Potential for Neuromotor Impairment
 

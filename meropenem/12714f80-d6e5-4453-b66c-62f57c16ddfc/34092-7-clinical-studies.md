@@ -41,14 +41,14 @@ Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 | Streptococcus pyogenes (Group A) | 26/29 (90) | 28/32 (88) |
 | Streptococcus agalactiae (Group B) | 12/17 (71) | 16/19 (84) |
 | Enterococcus faecalis | 9/12 (75) | 14/20 (70) |
-| Streptococcus viridans Group, nos | 11/12 (92) | 5/6 (83) |
+| Viridans group streptococci | 11/12 (92) | 5/6 (83) |
 | Gram-negative aerobes |  |  |
 | Escherichia coli | 12/15 (80) | 15/21 (71) |
 | Pseudomonas aeruginosa | 11/15 (73) | 13/15 (87) |
 | Proteus mirabilis | 11/13 (85) | 6/7 (86) |
 | Anaerobes |  |  |
 | Bacteroides fragilis | 10/11 (91) | 9/10 (90) |
-| Peptostreptococcus species | 10/13 (77) | 14/16 (88) |
+| Peptostreptococcus Species | 10/13 (77) | 14/16 (88) |
 
 1 Patients may have more than one pretreatment pathogen.
 
@@ -71,9 +71,9 @@ Table 9: Presumptive Microbiologic Eradication and Clinical Cure Rates at Test-o
 | Treatment Arm | No. evaluable/ No. enrolled (%) | Microbiologic Eradication Rate | Clinical Cure Rate | Outcome |
 | --- | --- | --- | --- | --- |
 | meropenem | 146/516 (28%) | 98/146 (67%) | 101/146 (69%) |  |
-| imipenem | 65/220 (30%) | 40/65 (62%) | 42/65 (65%) | Meropenem equivalent to control |
-| cefotaxime/ metronidazole | 26/85 (30%) | 22/26 (85%) | 22/26 (85%) | Meropenem not equivalent to control |
-| clindamycin/ tobramycin | 50/212 (24%) | 38/50 (76%) | 38/50 (76%) | Meropenem equivalent to control |
+| imipenem | 65/220 (30%) | 40/65 (62%) | 42/65 (65%) | meropenem equivalent to control |
+| cefotaxime/ metronidazole | 26/85 (30%) | 22/26 (85%) | 22/26 (85%) | meropenem not equivalent to control |
+| clindamycin/ tobramycin | 50/212 (24%) | 38/50 (76%) | 38/50 (76%) | meropenem equivalent to control |
 
 The finding that meropenem was not statistically equivalent to cefotaxime/metronidazole may have been due to uneven assignment of more seriously ill patients to the meropenem arm.
 Currently there is no additional information available to further interpret this observation.

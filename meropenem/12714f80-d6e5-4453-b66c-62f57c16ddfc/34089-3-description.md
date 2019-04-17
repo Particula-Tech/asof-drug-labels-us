@@ -11,5 +11,4 @@ The pH of freshly constituted solutions is between 7.3 and 8.3.
 Meropenem is soluble in 5% monobasic potassium phosphate solution, sparingly soluble in water, very slightly soluble in hydrated ethanol, and practically insoluble in acetone or ether.
 
 When re-constituted as instructed, each 500 mg Meropenem for injection, USP (I.V.) vial will deliver 500 mg meropenem and 45.1 mg of sodium as sodium carbonate (1.96 mEq).
-Each 1 gram Meropenem for injection, USP (I.V.) vial will deliver 1 gram of meropenem and 90.2 mg of sodium as sodium carbonate (3.92 mEq).
-[see Dosage and Administration (2.4)].
+Each 1 gram Meropenem for injection, USP (I.V.) vial will deliver 1 gram of meropenem and 90.2 mg of sodium as sodium carbonate (3.92 mEq) [see Dosage and Administration (2.4)].

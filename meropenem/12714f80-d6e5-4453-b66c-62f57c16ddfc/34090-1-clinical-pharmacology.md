@@ -75,7 +75,7 @@ Specific Populations
 Renal Impairment
 
 Pharmacokinetic studies with Meropenem for injection (I.V.) in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
-Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) and Use In Specific Populations (8.6)].
+Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 Meropenem I.V. is hemodialyzable.
 However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage (10)].
 
@@ -130,7 +130,7 @@ Interaction with Other Antimicrobials
 
 In vitro tests show meropenem to act synergistically with aminoglycoside antibacterial drugs against some isolates of Pseudomonas aeruginosa.
 
-Antimicrobial Activity Meropenem has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (2)].
+Antimicrobial Activity Meropenem has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
 Gram-positive bacteria Enterococcus faecalis (vancomycin-susceptible isolates only)
 
@@ -231,21 +231,3 @@ Propionibacterium acnes
 Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
-
-## 13 NONCLINICAL TOXICOLOGY
-
-### 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Carcinogenesis:
-
-Carcinogenesis studies have not been performed.
-
-Mutagenesis:
-
-Genetic toxicity studies were performed with meropenem using the bacterial reverse mutation test, the Chinese hamster ovary HGPRT assay, cultured human lymphocytes cytogenic assay, and the mouse micronucleus test.
-There was no evidence of mutagenic potential found in any of these tests.
-
-Impairment of Fertility:
-
-Reproductive studies were performed with meropenem in rats at doses up to 1000 mg/kg/day, and cynomolgus monkeys at doses up to 360 mg/kg/day (on the basis of AUC comparisons, approximately 1.8 times and 3.7 times, respectively, to the human exposure at the usual dose of 1 gram every 8 hours).
-There was no reproductive toxicity seen.

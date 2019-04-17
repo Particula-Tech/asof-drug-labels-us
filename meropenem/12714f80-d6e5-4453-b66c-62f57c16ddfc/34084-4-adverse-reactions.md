@@ -86,9 +86,7 @@ Adverse events with an incidence of greater than 1%, and not listed above, inclu
 
 Patients with Renal Impairment:
 
-For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported Meropenem for Injection (I.V.), increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.9), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
-
-NOTE: For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to Meropenem for injection (I.V.), increased in patients with moderately severe renal impairment (creatinine clearance greater than 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.9), Use In Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
+For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported Meropenem for injection (I.V.), increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.9), Use in Specific Populations (8.5)and(8.6)andClinical Pharmacology (12.3)].
 
 Pediatric Patients:
 
@@ -139,7 +137,7 @@ Adverse Laboratory Changes in Pediatric Patients:
 
 Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of Meropenem for injection (I.V.).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
