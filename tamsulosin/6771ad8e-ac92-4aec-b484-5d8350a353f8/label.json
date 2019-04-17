@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020579"
+  ],
+  "inn": "tamsulosin",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5837-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tamsulosin hydrochloride",
+      "name": "FLOMAX"
+    }
+  ],
+  "setid": "6771ad8e-ac92-4aec-b484-5d8350a353f8",
+  "source": "dailymed"
+}
