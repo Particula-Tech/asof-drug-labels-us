@@ -7,9 +7,9 @@ Voriconazole is designated chemically as (2R,3S)-2-(2, 4-difluorophenyl)-3-(5-fl
 
 Voriconazole drug substance is a white to light-colored powder.
 
-Voriconazole tablets contain 50 mg or 200 mg of voriconazole.
-The inactive ingredients include lactose monohydrate, pregelatinized starch, croscarmellose sodium, povidone, magnesium stearate and a coating containing hypromellose, titanium dioxide, lactose monohydrate and triacetin.
+Voriconazole Tablets contain 50 mg or 200 mg of voriconazole.
+The inactive ingredients include croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch, and a coating containing hypromellose, lactose monohydrate, titanium dioxide, and triacetin.
 
 Voriconazole for Oral Suspension is a white to off-white powder providing a white to off-white orange-flavored suspension when reconstituted.
-Bottles containing 45 g powder for oral suspension are intended for reconstitution with water to produce a suspension containing 40 mg/mL voriconazole.
-The inactive ingredients include colloidal silicon dioxide, titanium dioxide, xanthan gum, sodium citrate dihydrate, sodium benzoate, anhydrous citric acid, natural orange flavor, and sucrose.
+Bottles containing 45 grams powder for oral suspension are intended for reconstitution with water to produce a suspension containing 40 mg/mL voriconazole.
+The inactive ingredients include anhydrous citric acid, colloidal silicon dioxide, natural orange flavor, sodium benzoate, sodium citrate dihydrate, sucrose, titanium dioxide, and xanthan gum.

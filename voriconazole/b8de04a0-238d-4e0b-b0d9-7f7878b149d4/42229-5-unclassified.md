@@ -1,1 +1,4 @@
-LAB-0434-10.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.greenstonellc.com.
+
+LAB-0434-11.0
