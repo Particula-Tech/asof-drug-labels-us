@@ -206,8 +206,7 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin.
   - dark colored urine
   - yellowing of your skin or the whites of your eyes
 - Aortic aneurysm and dissection.
-  People who take fluoroquinolone medicines, including ciprofloxacin, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
-  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
   Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 - Intestine infection (Pseudomembranous colitis).
   Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin.
@@ -274,7 +273,7 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: January 2019
+Revised: March 2019
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

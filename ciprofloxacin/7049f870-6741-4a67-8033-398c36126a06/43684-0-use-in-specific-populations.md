@@ -65,8 +65,7 @@ Ciprofloxacin is known to be substantially excreted by the kidney, and the risk 
 No alteration of dosage is necessary for patients greater than 65 years of age with normal renal function.
 However, since some older individuals experience reduced renal function by virtue of their advanced age, care should be taken in dose selection for elderly patients, and renal function monitoring may be useful in these patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
-Elderly patients are at greater risk for aortic aneurysm and dissection.
-A two-fold increased risk of aortic aneurysm and dissection has been reported following use of a fluoroquinolone, including ciprofloxacin [see Warnings and Precautions (5.9)].
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.8)].
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using ciprofloxacin with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.12)].

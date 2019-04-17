@@ -24,8 +24,7 @@ Inform patients of the following serious adverse reactions that have been associ
 - Hypersensitivity Reactions: Inform patients that ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
 - Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking ciprofloxacin.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
-- Aortic Aneurysm and Dissection: Inform patients who have or are at risk for an aortic aneurysm that fluoroquinolones, including ciprofloxacin, have been associated with a 2-fold increased risk of hospitalization for aortic aneurysm and dissection.
-  Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
+- Aortic Aneurysm and Dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, instruct patients to contact their physician as soon as possible.
@@ -70,4 +69,4 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: January 2019
+Revised: March 2019
