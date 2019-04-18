@@ -40,7 +40,7 @@ Studies in rats at doses up to 54 μg/kg/day (324 μg/m2/day) of calcipotriene i
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Teratogenic Effects
 
 Studies of teratogenicity were done by the oral route where bioavailability is expected to be approximately 40-60% of the administered dose.
 In rabbits, increased maternal and fetal toxicity were noted at a dosage of 12 μg/kg/day (132 μg/m2/day); a dosage of 36 μg/kg/day (396 μg/m2/day) resulted in a significant increase in the incidence of incomplete ossification of the pubic bones and forelimb phalanges of fetuses.

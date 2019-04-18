@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-Adequate and well-controlled trials of patients treated with Calcipotriene Ointment have demonstrated improvement usually beginning after two weeks of therapy.
+Adequate and well-controlled trials of patients treated with Calcipotriene Ointment have demonstrated improvement usually beginning after 2 weeks of therapy.
 This improvement continued in patients using Calcipotriene Ointment once daily and twice daily.
 After 8 weeks of once daily Calcipotriene Ointment, 56.7% of patients showed at least marked improvements (6.4% showed complete clearing).
 After 8 weeks of twice daily Calcipotriene Ointment, 70.0% of patients showed at least marked improvement (11.3% showed complete clearing).
