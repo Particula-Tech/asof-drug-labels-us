@@ -58,7 +58,7 @@ You may be more likely to get lactic acidosis or serious liver problems if you a
 
 What is entecavir tablet?
 
-Entecavir tablet is a prescription medicine used to treat chronic hepatitis B virus (HBV) in adults and children weighing greater than 30 kg who have active liver disease.
+Entecavir tablet is a prescription medicine used to treat chronic hepatitis B virus (HBV) in adults and children 2 years of age and older who have active liver disease.
 
 - Entecavir tablets will not cure HBV.
 - Entecavir tablets may lower the amount of HBV in the body.
@@ -181,4 +181,4 @@ Suite 130, Sunrise, FL 33323
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2019
+Revised: 04/2019
