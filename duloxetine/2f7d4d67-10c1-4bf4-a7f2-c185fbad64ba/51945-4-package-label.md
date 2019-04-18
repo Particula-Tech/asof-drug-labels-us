@@ -16,7 +16,7 @@ delayed release capsules
 
 Each capsule contains 22.4 mg of duloxetine hydrochloride equivalent to 20 mg duloxetine.
 
-Rx Only
+Rx only
 
 www.Cymbalta.com
 
@@ -40,7 +40,7 @@ delayed release capsules
 
 Each capsule contains 33.7 mg of duloxetine hydrochloride equivalent to 30 mg duloxetine.
 
-Rx Only
+Rx only
 
 www.Cymbalta.com
 
@@ -64,7 +64,7 @@ delayed release capsules
 
 Each capsule contains 67.3 mg of duloxetine hydrochloride equivalent to 60 mg duloxetine.
 
-Rx Only
+Rx only
 
 www.Cymbalta.com
 
