@@ -26,7 +26,7 @@ In addition, many drugs and foods affect T4 absorption.
 
 Distribution
 
-Circulating thyroid hormones are greater than 99% bound to plasma proteins, including thyroxine‑binding globulin (TBG), thyroxine-binding prealbumin (TBPA), and thyroxine-binding albumin (TBA), whose capacities and affinities vary for each hormone.
+Circulating thyroid hormones are greater than 99% bound to plasma proteins, including thyroxine-binding globulin (TBG), thyroxine-binding prealbumin (TBPA), and thyroxine-binding albumin (TBA), whose capacities and affinities vary for each hormone.
 The higher affinity of both TBG and TBPA for T4 partially explains the higher serum levels, slower metabolic clearance, and longer half-life of T4 compared to T3.
 Protein-bound thyroid hormones exist in reverse equilibrium with small amounts of free hormone.
 Only unbound hormone is metabolically active.
