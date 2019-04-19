@@ -32,7 +32,9 @@ Dosage Schedule for Adult Patients with Renal Impairment
 
 There is inadequate information regarding the use of Meropenem for injection (I.V.) in patients on hemodialysis or peritoneal dialysis.
 
-## 2.3 Use in Pediatric Patients 3 Months of Age and Older
+## 2.3 Use in Pediatric Patients
+
+Pediatric Patients 3 Months of Age and Older
 
 - For pediatric patients 3 months of age and older, the Meropenem for injection (I.V.) dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (cSSSI, cIAI, intra-abdominal infection or meningitis).
   See dosing table 2 below.
