@@ -50,9 +50,9 @@ Attention must be given to other factors that may precipitate hepatic coma, such
 
 ## Hypokalemia
 
-Hypokalemia is uncommon with triamterene and hydrochlorothiazide but, should it develop, corrective measures should be taken such as potassium supplementation or increased intake of potassium-rich foods.
+Hypokalemia is uncommon with triamterene and hydrochlorothiazide, but should it develop, corrective measures should be taken such as potassium supplementation or increased intake of potassium-rich foods.
 Institute such measures cautiously with frequent determinations of serum potassium levels, especially in patients receiving digitalis or with a history of cardiac arrhythmias.
-If serious hypokalemia (serum potassium less than 3.0 mEq/L) is demonstrated by repeat serum potassium determinations, triamterene and hydrochlorothiazide should be discontinued and potassium chloride supplementation initiated.
+If serious hypokalemia (serum potassium < 3.0 mEq/L) is demonstrated by repeat serum potassium determinations, triamterene and hydrochlorothiazide should be discontinued and potassium chloride supplementation initiated.
 Less serious hypokalemia should be evaluated with regard to other coexisting conditions and treated accordingly.
 
 ## Electrolyte Imbalance
@@ -115,7 +115,7 @@ Potassium-sparing agents should be used with caution in conjunction with angiote
 
 Concurrent use with chlorpropamide may increase the risk of severe hyponatremia.
 
-### Nonsteroidal Anti-inflammatory Drugs
+### Nonsteroidal Anti-Inflammatory Drugs
 
 A possible interaction resulting in acute renal failure has been reported in a few patients on triamterene and hydrochlorothiazide when treated with indomethacin, a nonsteroidal anti-inflammatory agent.
 Caution is advised in administering nonsteroidal anti-inflammatory agents with triamterene and hydrochlorothiazide.

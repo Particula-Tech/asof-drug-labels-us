@@ -21,7 +21,7 @@ No predictable antihypertensive effect has been demonstrated for triamterene.
 Duration of diuretic activity and effective dosage range of the hydrochlorothiazide and triamterene components are similar.
 Onset of diuresis with triamterene and hydrochlorothiazide takes place within one hour, peaks at two to three hours and tapers off during the subsequent seven to nine hours.
 
-Triamterene and hydrochlorothiazide capsule are well absorbed.
+Triamterene and hydrochlorothiazide capsules are well absorbed.
 
 Upon administration of a single oral dose to fasted normal male volunteers, the following mean pharmacokinetic parameters were determined:
 
@@ -42,7 +42,7 @@ In a limited study involving 12 subjects, coadministration of triamterene and hy
 A placebo-controlled, double-blind trial was conducted to evaluate the efficacy of triamterene and hydrochlorothiazide capsules.
 This trial demonstrated that triamterene and hydrochlorothiazide capsules 37.5 mg/25 mg were effective in controlling blood pressure while reducing the incidence of hydrochlorothiazide-induced hypokalemia.
 This trial involved 636 patients with mild to moderate hypertension controlled by hydrochlorothiazide 25 mg daily and who had hypokalemia (serum potassium <3.5 mEq/L) secondary to the hydrochlorothiazide.
-Patients were randomly assigned to 4 weeks’ treatment with once-daily regimens of 25 mg hydrochlorothiazide plus placebo, or 25 mg hydrochlorothiazide combined with one of the following doses of triamterene: 25 mg, 37.5 mg, 50 mg or 75 mg.
+Patients were randomly assigned to 4 weeks’ treatment with once-daily regimens of 25 mg hydrochlorothiazide plus placebo, or 25 mg hydrochlorothiazide combined with one of the following doses of triamterene: 25 mg, 37.5 mg, 50 mg, or 75 mg.
 
 Blood pressure and serum potassium were monitored at baseline and throughout the trial.
 All five treatment groups had similar mean blood pressure and serum potassium concentrations at baseline (mean systolic blood pressure range: 137±14 mmHg to 140±16 mmHg; mean diastolic blood pressure range: 86±9 mmHg to 88±8 mmHg; mean serum potassium range: 2.3 to 3.4 mEq/L with the majority of patients having values between 3.1 and 3.4 mEq/L).

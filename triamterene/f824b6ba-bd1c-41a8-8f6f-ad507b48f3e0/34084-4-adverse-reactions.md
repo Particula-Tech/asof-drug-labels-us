@@ -67,3 +67,5 @@ Thrombocytopenia and pancreatitis – rarely, in newborns whose mothers have rec
 ## Skin
 
 Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

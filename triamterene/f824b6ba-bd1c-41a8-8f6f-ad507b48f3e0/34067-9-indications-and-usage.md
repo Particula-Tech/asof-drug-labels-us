@@ -2,9 +2,9 @@
 
 This fixed combination drug is not indicated for the initial therapy of edema or hypertension except in individuals in whom the development of hypokalemia cannot be risked.
 
-Triamterene and hydrochlorothiazide capsules are indicated for the treatment of hypertension or edema in patients who develop hypokalemia on hydrochlorothiazide alone.
+Triamterene and hydrochlorothiazide is indicated for the treatment of hypertension or edema in patients who develop hypokalemia on hydrochlorothiazide alone.
 
-Triamterene and hydrochlorothiazide capsules are also indicated for those patients who require a thiazide diuretic and in whom the development of hypokalemia cannot be risked.
+Triamterene and hydrochlorothiazide is also indicated for those patients who require a thiazide diuretic and in whom the development of hypokalemia cannot be risked.
 
 Triamterene and hydrochlorothiazide may be used alone or as an adjunct to other antihypertensive drugs, such as beta-blockers.
 Since triamterene and hydrochlorothiazide may enhance the action of these agents, dosage adjustments may be necessary.
