@@ -5,16 +5,18 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
 - Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
 - Peripheral Neuropathy [see Warnings and Precautions (5.3)]
-- Central Nervous System Effects [see Warnings and Precautions (5.4)] Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- Central Nervous System Effects [see Warnings and Precautions (5.4)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Hepatotoxicity [see Warnings and Precautions (5.8)]
-- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.9)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
-- Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
-- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.8)]
+- Hepatotoxicity [see Warnings and Precautions (5.9)]
+- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
+- Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
+- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.13)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,7 +24,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adult Patients
 
-During clinical investigations with oral and parenteral ciprofloxacin 49,038 patients received courses of the drug.
+During clinical investigations with oral and parenteral ciprofloxacin, 49,038 patients received courses of the drug.
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
@@ -72,9 +74,12 @@ Table 9: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 | All Patients (within 1 year) | 46/335 (13.7%) |  | 33/349 (9.5%) |
 | 95% Confidence Interval1 | (-0.6%, + 9.1%) |  |  |
 
-1. Included: arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint (knee, elbow, ankle, hip, wrist, and shoulder)
-2. The study was designed to demonstrate that the arthropathy rate for the ciprofloxacin group did not exceed that of the control group by more than + 6%.
-   At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group.
+1.
+Included: arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint (knee, elbow, ankle, hip, wrist, and shoulder)
+
+2.
+The study was designed to demonstrate that the arthropathy rate for the ciprofloxacin group did not exceed that of the control group by more than + 6%.
+At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group.
 
 The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the ciprofloxacin tablets group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
 
@@ -85,7 +90,7 @@ Discontinuation of drug due to an adverse reaction was observed in 3% (10/335) o
 Other adverse reactions that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 
 Short-term safety data for ciprofloxacin was also collected in a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5–17 years).
-Sixty seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10–21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every8 hours for a total of 10–21 days.
+Sixty seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10–21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10–21 days.
 Periodic musculoskeletal assessments were conducted by treatment-blinded examiners.
 Patients were followed for an average of 23 days after completing treatment (range 0– 93 days).
 Musculoskeletal adverse reactions were reported in 22% of the patients in the ciprofloxacin group and 21% in the comparison group.
@@ -120,12 +125,12 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 ## 6.3 Adverse Laboratory Changes
 
-Changes in laboratory parameters while on ciprofloxacin tablets are listed below.
+Changes in laboratory parameters while on ciprofloxacin tablets are listed below:
 
-Hepatic - Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+Hepatic-Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
-Hematologic - Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
+Hematologic-Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 
-Renal - Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
+Renal-Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
 
 Other changes occurring were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.

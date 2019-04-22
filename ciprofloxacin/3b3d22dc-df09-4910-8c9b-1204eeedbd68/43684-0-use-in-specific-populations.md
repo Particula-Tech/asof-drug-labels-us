@@ -6,7 +6,7 @@ Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
 Ciprofloxacin tablets should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother.
-An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS–the Teratogen Information System–concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk2
+An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS–the Teratogen Information System–concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk.2
 
 A controlled prospective observational study followed 200 women exposed to fluoroquinolones (52.5% exposed to ciprofloxacin and 68% first trimester exposures) during gestation.3 In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations.
 The reported rates of major congenital malformations were 2.2% for the fluoroquinolone group and 2.6% for the control group (background incidence of major malformations is 1–5%).
@@ -27,12 +27,12 @@ After intravenous administration of doses up to 20 mg/kg (approximately 0.3-time
 
 Ciprofloxacin is excreted in human milk.
 The amount of ciprofloxacin absorbed by the nursing infant is unknown.
-Because of the potential risk of serious adverse reactions (including articular damage) in infants nursing from mothers taking ciprofloxacin tablets a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential risk of serious adverse reactions (including articular damage) in infants nursing from mothers taking ciprofloxacin tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
 Although effective in clinical trials, ciprofloxacin tablets are not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
-Quinolones, including ciprofloxacin tablets, cause arthropathy (arthralgia, arthritis) in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
+Quinolones, including ciprofloxacin tablets, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.13) and Nonclinical Toxicology (13.2)].
 
 Complicated Urinary Tract Infection and Pyelonephritis
 
@@ -66,7 +66,9 @@ No alteration of dosage is necessary for patients greater than 65 years of age w
 However, since some older individuals experience reduced renal function by virtue of their advanced age, care should be taken in dose selection for elderly patients, and renal function monitoring may be useful in these patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using ciprofloxacin tablets with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.11)].
+Therefore, precaution should be taken when using ciprofloxacin tablets with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.12)].
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.8)].
 
 ## 8.6 Renal Impairment
 

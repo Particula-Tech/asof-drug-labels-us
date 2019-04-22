@@ -28,7 +28,7 @@ Serum concentrations increase proportionately with doses up to 1000 mg.
 A 500 mg oral dose given every 12 hours has been shown to produce an AUC equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
 A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose.
-A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 13)
+A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 13).
 
 Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of Multiple Oral and IV Ciprofloxacin Doses to Healthy Subjects
 
@@ -38,22 +38,26 @@ Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of
 | AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
-1.AUC 0–12h
+1.
+AUC 0–12h
 
-2.AUC24h=AUC0–12h x2
+2.
+AUC 24h= AUC0–12h x 2
 
 3.
-AUC24h=AUC0–8h x3
+AUC 24h= AUC0–8h x 3
 
 Food
 
 When ciprofloxacin tablets are given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
 The overall absorption of ciprofloxacin tablets, however, is not substantially affected.
-Avoid concomitant administration of ciprofloxacin tablets with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products
+Avoid concomitant administration of ciprofloxacin tablets with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products.
 
 Distribution
 
-The binding of ciprofloxacin to serum proteins is 20% to 40% which is not likely to be high enough to cause significant protein binding interactions with other drugs.After oral administration, ciprofloxacin is widely distributed throughout the body.
+The binding of ciprofloxacin to serum proteins is 20% to 40% which is not likely to be high enough to cause significant protein binding interactions with other drugs.
+
+After oral administration, ciprofloxacin is widely distributed throughout the body.
 Tissue concentrations often exceed serum concentrations in both men and women, particularly in genital tissue including the prostate.
 Ciprofloxacin is present in active form in the saliva, nasal and bronchial secretions, mucosa of the sinuses, sputum, skin blister fluid, lymph, peritoneal fluid, bile, and prostatic secretions.
 Ciprofloxacin has also been detected in lung, skin, fat, muscle, cartilage, and bone.
@@ -65,12 +69,12 @@ Metabolism
 Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15), and Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.10, 5.16), and Drug Interactions (7)].
 
 Excretion
 
 The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
-Approximately 40% to 50% of an orally administered dose is excreted in the urine as unchanged drug.
+Approximately 40 to 50% of an orally administered dose is excreted in the urine as unchanged drug.
 After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 200 mcg/mL during the first two hours and are approximately 30 mcg/mL at 8 to 12 hours after dosing.
 The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
 The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
@@ -132,7 +136,7 @@ Concomitant administration of tizanidine and ciprofloxacin tablets is contraindi
 Ropinirole
 
 In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg ciprofloxacin tablets twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
-Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin tablets [see Warnings and Precautions (5.9)].
+Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin tablets [see Warnings and Precautions (5.10)].
 
 Clozapine
 
@@ -184,7 +188,7 @@ Ciprofloxacin has been shown to be active against most isolates of the following
 
 Gram-positive bacteria Bacillus anthracis Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin-susceptible isolates only) Staphylococcus saprophyticus Streptococcus pneumoniae Streptococcus pyogenes
 
-Gram-negative bacteria Campylobacter jejuni Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenza Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Salmonella typhi Serratia marcescens Shigella boydii Shigella dysenteriae Shigella flexneri Shigella sonnei Yersinia pestis
+Gram-negative bacteria Campylobacter jejuni Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Salmonella typhi Serratia marcescens Shigella boydii Shigella dysenteriae Shigella flexneri Shigella sonnei Yersinia pestis
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤1 mcg/mL).
@@ -192,7 +196,7 @@ However, the efficacy of ciprofloxacin in treating clinical infections due to th
 
 Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isolates only) Staphylococcus hominis (methicillin-susceptible isolates only)
 
-Gram-negative bacteria Acinetobacter Iwoffi Aeromonas hydrophilai Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteuella multocida Salmonella enteritidis Vibrio cholera Vibrio parahaemolyticus Vibrio vulnificus Yersinia enterocolitica
+Gram-negative bacteria Acinetobacter Iwoffi Aeromonas hydrophila Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteurella multocida Salmonella enteritidis Vibrio cholerae Vibrio parahaemolyticus Vibrio vulnificus Yersinia enterocolitica
 
 Susceptibility Test Methods
 

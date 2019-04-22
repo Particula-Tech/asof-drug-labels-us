@@ -81,13 +81,13 @@ Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impa
 | Creatinine Clearance (mL/min) | Dose |
 | --- | --- |
 | > 50 | See Usual Dosage. |
-| 30–50 | 250–500 mg every12 hours |
+| 30–50 | 250–500 mg every 12 hours |
 | 5–29 | 250–500 mg every 18 hours |
 | Patients on hemodialysis or Peritoneal dialysis | 250–500 mg every 24 hours (after dialysis) |
 
 When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
 
-Women -0.85 x the value calculated for men.
+Women - 0.85 x the value calculated for men.
 
 The serum creatinine should represent a steady state of renal function.
 
@@ -112,4 +112,4 @@ Hydration of Patients Receiving Ciprofloxacin Tablets
 Assure adequate hydration of patients receiving ciprofloxacin tablets to prevent the formation of highly concentrated urine.
 Crystalluria has been reported with quinolones.
 
-Instruct the patient of the appropriate ciprofloxacin tablets administration [see Patient Counseling Information (17)]
+Instruct the patient of the appropriate ciprofloxacin tablets administration [see Patient Counseling Information (17)].

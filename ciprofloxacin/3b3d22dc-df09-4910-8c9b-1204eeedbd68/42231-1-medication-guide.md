@@ -6,7 +6,7 @@ This information does not take the place of talking to your healthcare provider 
 
 What is the most important information I should know about ciprofloxacin tablets?
 
-Ciprofloxacin tablets a fluoroquinolone antibacterial medicine, can cause serious side effects.
+Ciprofloxacin tablets, a fluoroquinolone antibacterial medicine, can cause serious side effects.
 Some of these serious side effects can happen at the same time and could result in death.
 
 If you get any of the following serious side effects while you take ciprofloxacin tablets, you should stop taking ciprofloxacin tablets immediately and get medical help right away.
@@ -16,9 +16,10 @@ Tendon rupture or swelling of the tendon (tendinitis).
 
 • Tendon problems can happen in people of all ages who take ciprofloxacin tablets.
 
-Tendons are tough cords of tissue that connect muscles to bones.Symptoms of tendon problems may include:
+Tendons are tough cords of tissue that connect muscles to bones.
+Symptoms of tendon problems may include:
 
-○ Pain, swelling, tears and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+○ Pain, swelling, tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 
 • The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you:
 
@@ -61,14 +62,31 @@ Tell your healthcare provider if you have a history of seizures before you start
 CNS side effects may happen as soon as after taking the first dose of ciprofloxacin tablets.
 Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
 
-○ seizures ○ hear voices, see things, or sense things that are not there (hallucinations) ○ feel restless ○ tremors ○ feel anxious or nervous ○ confusion ○ depression ○ trouble sleeping ○ nightmares ○ feel lightheaded or dizzy ○ feel more suspicious (paranoia) ○ suicidal thoughts or acts ○ headaches that will not go away, with or without blurred vision
+- seizures
+- hear voices, see things, or sense things that are not there (hallucinations)
+- feel restless
+- tremors
+- feel anxious or nervous
+- confusion
+- depression
+- trouble sleeping
+- nightmares
+- feel lightheaded or dizzy
+- feel more suspicious (paranoia)
+- suicidal thoughts or acts
+- headaches that will not go away, with or without blurred vision
 
 4.
 Worsening of myasthenia gravis (a problem that causes muscle weakness).
 
-Fluroquinolones like ciprofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+Fluoroquinolones like ciprofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
 Tell your healthcare provider if you have a history of myasthenia gravis before you start taking ciprofloxacin tablets.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+
+5.
+Aortic aneurysm and dissection.
+Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 
 What are ciprofloxacin tablets?
 
@@ -113,13 +131,14 @@ Ask your healthcare provider if you are not sure.
 
 What should I tell my healthcare provider before taking ciprofloxacin tablets?
 
-Before you take Ciprofloxacin tablets tell your healthcare provider if you:
+Before you take Ciprofloxacin tablets, tell your healthcare provider if you:
 
 - have tendon problems; ciprofloxacin tablets should not be used in patients who have a history of tendon problems
 - have a disease that causes muscle weakness (myasthenia gravis); ciprofloxacin tablets should not be used in patients who have a known history of myasthenia gravis
+- have an aortic aneurysm
 - have liver problems
 - have central nervous system problems (such as epilepsy)
-- have nerve problems ciprofloxacin tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy
+- have nerve problems; ciprofloxacin tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
 - have or have had seizures
 - have kidney problems.
@@ -141,16 +160,16 @@ Tell your healthcare provider about all the medicines you take, including prescr
 - Especially tell your healthcare provider if you take: o a steroid medicine o an anti-psychotic medicine o a tricyclic antidepressant o a water pill (diuretic) o theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®) o a medicine to control your heart rate or rhythm (antiarrhythmics) o an oral anti-diabetes medicine o phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®) o cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®). o a blood thinner (such as warfarin, Coumadin®, Jantoven®) o methotrexate (Trexall®) o ropinirole (Requip®) o clozapine (Clozaril®, Fazaclo® ODT®) o a Non-Steroidal Anti-Inflammatory Drug (NSAID).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures. o sildenafil (Viagra®, Revatio®) o duloxetine o products that contain caffeine o probenecid (Probalan®, Col-probenecid ®)
-- Certain medicines may keep Ciprofloxacin tablets, from working correctly.
+- Certain medicines may keep ciprofloxacin tablets, from working correctly.
   Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
-- an antacid, multivitamin, or other medicine or supplements that has magnesium,calcium, aluminum, iron, or zinc
+- an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
 - sucralfate (Carafate®)
 - didanosine (Videx®, Videx EC®)
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
 
 Know the medicines you take.
-Keep a list of them to show your healthcare provider and pharmacist when you get new medicine.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take ciprofloxacin tablets?
 
@@ -204,11 +223,12 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 
 Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
-Intestine infection (Pseudomembranous colitis).
-Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
-Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-You may have stomach cramps and a fever.
-Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
+
+- Intestine infection (Pseudomembranous colitis).
+  Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
+  Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
+  You may have stomach cramps and a fever.
+  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
 
 - Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
@@ -224,10 +244,10 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
 
 Changes in blood sugar
 
-People who take ciprofloxacin tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
-Follow your healthcare provider's instructions for how often to check your blood sugar.
-If you have diabetes and you get low blood sugar while taking ciprofloxacin tablets, stop taking ciprofloxacin tablets and call your healthcare provider right away.
-Your antibiotic medicine may need to be changed.
+- People who take ciprofloxacin tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking ciprofloxacin tablets, stop taking ciprofloxacin tablets and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
 
 The most common side effects of ciprofloxacin tablets include:
 
@@ -265,7 +285,7 @@ You can ask your healthcare provider or pharmacist for information about ciprofl
 What are the ingredients in ciprofloxacin tablets?
 
 - Active ingredient: ciprofloxacin hydrochloride
-- Inactive ingredients: colloidal silicon dioxide, corn starch, hydrogenated vegetable oil, hypromellose, magnesium stearate, microcrystalline cellulose, purified water, sodium starch glycolate.
+- Inactive ingredients: colloidal silicon dioxide, corn starch, hydrogenated vegetable oil, magnesium stearate, microcrystalline cellulose, purified water, sodium starch glycolate.
   The film-coating suspension (Opadry white 321A180025) contains the following inactive ingredients: glycerol monocaprylocaprate, macrogol (PEG) polyvinyl alcohol graft copolymer, polyvinyl alcohol, talc and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -275,4 +295,4 @@ Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-Revised November 2018
+Revised March 2019
