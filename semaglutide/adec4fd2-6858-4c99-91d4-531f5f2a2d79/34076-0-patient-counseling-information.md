@@ -65,12 +65,12 @@ Plainsboro, NJ 08536
 
 1-888-693-6742
 
-Date of Issue: December 2017
+Date of Issue: April 2019
 
-Version: 1
+Version: 3
 
 OZEMPIC® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2017 Novo Nordisk
+© 2019 Novo Nordisk
