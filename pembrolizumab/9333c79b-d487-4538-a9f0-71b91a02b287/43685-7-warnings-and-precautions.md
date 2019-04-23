@@ -7,12 +7,18 @@ Monitor patients for signs and symptoms of pneumonitis.
 Evaluate patients with suspected pneumonitis with radiographic imaging and administer corticosteroids (initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a taper) for Grade 2 or greater pneumonitis.
 Withhold KEYTRUDA for moderate (Grade 2) pneumonitis, and permanently discontinue KEYTRUDA for severe (Grade 3), life-threatening (Grade 4), or recurrent moderate (Grade 2) pneumonitis [see Dosage and Administration (2.13) and Adverse Reactions (6.1)].
 
-Pneumonitis occurred in 94 (3.4%) of 2799 patients receiving KEYTRUDA, including Grade 1 (0.8%), Grade 2 (1.3%), Grade 3 (0.9%), Grade 4 (0.3%), and Grade 5 (0.1%) pneumonitis.
+In clinical studies enrolling 2799 patients with various cancers who received KEYTRUDA as a single agent, pneumonitis occurred in 94 (3.4%) patients, including Grade 1 (0.8%), Grade 2 (1.3%), Grade 3 (0.9%), Grade 4 (0.3%), and Grade 5 (0.1%) pneumonitis.
 The median time to onset was 3.3 months (range: 2 days to 19.3 months), and the median duration was 1.5 months (range: 1 day to 17.2+ months).
 Sixty-three (67%) of the 94 patients received systemic corticosteroids, with 50 of the 63 receiving high-dose corticosteroids for a median duration of 8 days (range: 1 day to 10.1 months) followed by a corticosteroid taper.
 Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (6.9%) than in patients who did not receive prior thoracic radiation (2.9%).
 Pneumonitis led to discontinuation of KEYTRUDA in 36 (1.3%) patients.
 Pneumonitis resolved in 55 (59%) of the 94 patients.
+
+In clinical studies enrolling 790 patients with NSCLC who received KEYTRUDA as a single agent as first-line therapy for advanced disease, pneumonitis occurred in 65 (8.2%) patients, including Grades 3-4 in 3.2% of patients.
+Forty-eight of the 65 patients received high-dose corticosteroids for a median duration of 5 days (range: 1 to 26 days).
+Pneumonitis occurred in 17% of patients with a history of prior thoracic radiation and 7.7% of patients who did not receive prior thoracic radiation.
+Pneumonitis led to discontinuation of KEYTRUDA in 29 (3.7%) patients.
+Pneumonitis resolved in 51% of the patients.
 
 ## 5.2 Immune-Mediated Colitis
 

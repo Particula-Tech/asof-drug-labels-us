@@ -4,7 +4,7 @@
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
-- metastatic NSCLC [see Clinical Studies (14.2)].
+- stage III NSCLC, who are not candidates for surgical resection or definitive chemoradiation, or metastatic NSCLC [see Clinical Studies (14.2)].
 - metastatic urothelial carcinoma [see Clinical Studies (14.6)].
 - metastatic gastric cancer [see Clinical Studies (14.8)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
@@ -14,7 +14,7 @@ Information on FDA-approved tests for the detection of PD-L1 expression for thes
 
 ## 2.2 Recommended Dosage for Melanoma
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity.
+The recommended dose of KEYTRUDA in patients with unresectable or metastatic melanoma is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity.
 
 The recommended dose of KEYTRUDA for the adjuvant treatment of adult patients with melanoma is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease recurrence, unacceptable toxicity, or for up to 12 months in patients without disease recurrence.
 

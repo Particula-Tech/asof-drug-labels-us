@@ -10,9 +10,9 @@ KEYTRUDA is indicated for the adjuvant treatment of patients with melanoma with 
 
 KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated for the first-line treatment of patients with metastatic nonsquamous non-small cell lung cancer (NSCLC), with no EGFR or ALK genomic tumor aberrations.
 
-KEYTRUDA, in combination with carboplatin and either paclitaxel or nab-paclitaxel, is indicated for the first-line treatment of patients with metastatic squamous NSCLC.
+KEYTRUDA, in combination with carboplatin and either paclitaxel or paclitaxel protein-bound, is indicated for the first-line treatment of patients with metastatic squamous NSCLC.
 
-KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with metastatic NSCLC whose tumors have high PD-L1 expression [Tumor Proportion Score (TPS) ≥50%] as determined by an FDA-approved test [see Dosage and Administration (2.1)], with no EGFR or ALK genomic tumor aberrations.
+KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with stage III NSCLC, who are not candidates for surgical resection or definitive chemoradiation, or metastatic NSCLC, and whose tumors express PD-L1 [Tumor Proportion Score (TPS) ≥1%] as determined by an FDA-approved test, with no EGFR or ALK genomic tumor aberrations [see Dosage and Administration (2.1)].
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after platinum-containing chemotherapy.
 Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA.

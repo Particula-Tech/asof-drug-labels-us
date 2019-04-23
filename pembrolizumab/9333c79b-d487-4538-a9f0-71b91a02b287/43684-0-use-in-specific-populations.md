@@ -6,7 +6,7 @@ Risk Summary
 
 Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman.
 There are no available human data informing the risk of embryo-fetal toxicity.
-In animal models, the PD-1/PD-L1 signaling pathway is important in the maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue [see Data].
+In animal models, the PD-1/PD-L1 signaling pathway is important in the maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue (see Data).
 Human IgG4 (immunoglobulins) are known to cross the placenta; therefore, pembrolizumab has the potential to be transmitted from the mother to the developing fetus.
 Advise pregnant women of the potential risk to a fetus.
 
@@ -46,7 +46,7 @@ The safety and effectiveness of KEYTRUDA have been established in pediatric pati
 Use of KEYTRUDA in pediatric patients with cHL, PMBCL, and MSI-H cancers is supported by evidence from adequate and well-controlled studies of KEYTRUDA in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Studies (14,4, 14.5, 14.7), Clinical Pharmacology (12.3)].
 
 There is limited experience with KEYTRUDA in pediatric patients.
-In a trial (NCT02332668), 40 pediatric patients (16 children ages 2 years to less than 12 years and 24 adolescents ages 12 years to 18 years) with various cancers, including unapproved usages were administered KEYTRUDA 2 mg/kg every 3 weeks.
+In a trial (NCT02332668), 40 pediatric patients (16 children ages 2 years to less than 12 years and 24 adolescents ages 12 years to 18 years) with various cancers, including unapproved usages, were administered KEYTRUDA 2 mg/kg every 3 weeks.
 Patients received KEYTRUDA for a median of 3 doses (range: 1-17 doses), with 34 patients (85%) receiving KEYTRUDA for 2 doses or more.
 
 The safety profile in these pediatric patients was similar to that seen in adults; adverse reactions that occurred at a higher rate (≥15% difference) in pediatric patients when compared to adults <65 years of age were fatigue (45%), vomiting (38%), abdominal pain (28%), increased transaminases (28%) and hyponatremia (18%).
