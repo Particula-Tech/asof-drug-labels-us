@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211359"
+  ],
+  "inn": "norepinephrine",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3755-75",
+    "0781-3755-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "norepinephrine bitartrate",
+      "name": "NOREPINEPHRINE BITARTRATE"
+    }
+  ],
+  "setid": "728734e7-1684-4b37-980c-f1dfd408b436",
+  "source": "dailymed"
+}
