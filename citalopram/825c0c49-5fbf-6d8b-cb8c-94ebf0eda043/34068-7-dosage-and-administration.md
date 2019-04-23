@@ -4,7 +4,7 @@ Citalopram tablets should be administered once daily, in the morning or evening,
 
 ## Initial Treatment
 
-Citalopram tablets (citalopram hydrobromide) should be administered at an initial dose of 20 mg once daily, with an increase to a maximum dose of 40 mg/day at an interval of no less than 1 week.
+Citalopram tablets (citalopram) should be administered at an initial dose of 20 mg once daily, with an increase to a maximum dose of 40 mg/day at an interval of no less than one week.
 Doses above 40 mg/day are not recommended due to the risk of QT prolongation.
 Additionally, the only study pertinent to dose response for effectiveness did not demonstrate an advantage for the 60 mg/day dose over the 40 mg/day dose.
 
@@ -24,7 +24,7 @@ When treating pregnant women with citalopram tablets during the third trimester,
 
 It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacologic therapy.
 Systematic evaluation of citalopram tablets in two studies has shown that their antidepressant efficacy is maintained for periods of up to 24 weeks following 6 or 8 weeks of initial treatment (32 weeks total).
-In one study, patients were assigned randomly to placebo or to the same dose of citalopram tablets (20 mg/day to 60 mg/day) during maintenance treatment as they had received during the acute stabilization phase, while in the other study, patients were assigned randomly to continuation of citalopram tablets 20 mg/day or 40 mg/day, or placebo, for maintenance treatment.
+In one study, patients were assigned randomly to placebo or to the same dose of citalopram tablets (20-60 mg/day) during maintenance treatment as they had received during the acute stabilization phase, while in the other study, patients were assigned randomly to continuation of citalopram tablets 20 or 40 mg/day, or placebo, for maintenance treatment.
 In the latter study, the rates of relapse to depression were similar for the two dose groups (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Based on these limited data, it is not known whether the dose of citalopram needed to maintain euthymia is identical to the dose needed to induce remission.
 If adverse reactions are bothersome, a decrease in dose to 20 mg/day can be considered.
@@ -47,7 +47,7 @@ Conversely, at least 14 days should be allowed after stopping citalopram tablets
 Do not start citalopram tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
 
-In some cases, a patient already receiving citalopram tablet therapy may require urgent treatment with linezolid or intravenous methylene blue.
+In some cases, a patient already receiving citalopram tablets therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, citalopram tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with citalopram tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).

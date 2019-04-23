@@ -15,71 +15,69 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
 2. •Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 3. •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 4. •Watch for these changes and call your healthcare provider right away if you notice:
-   - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-   - •Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
-5. Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-6. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
+5. •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+6. •Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
+7. Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+8. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
    1. •attempts to commit suicide
    2. •acting on dangerous impulses
    3. •acting aggressive or violent
    4. •thoughts about suicide or dying
    5. •new or worse depression
    6. •new or worse anxiety or panic attacks
-   7. •feeling agitated, restless, angry, or irritable
+   7. •feeling agitated, restless, angry or irritable
    8. •trouble sleeping
    9. •an increase in activity or talking more than what is normal for you
    10. •other unusual changes in behavior or mood
-7. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+9. Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
    Citalopram tablets may be associated with these serious side effects:
-8. 2.Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
-   This condition can be life-threatening.
-   The symptoms may include:
-   1. •chest pain
-   2. •fast or slow heartbeat
-   3. •shortness of breath
-   4. •dizziness or fainting
-9. 3.Serotonin Syndrome.
-   This condition can be life-threatening and may include:
-   1. •agitation, hallucinations, coma, or other changes in mental status
-   2. •coordination problems or muscle twitching (overactive reflexes)
-   3. •racing heartbeat, high or low blood pressure
-   4. •sweating or fever
-   5. •nausea, vomiting, or diarrhea
-   6. •muscle rigidity
-10. 4.Severe allergic reactions:
+10. 2.Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
+    This condition can be life-threatening.
+    The symptoms may include:
+    1. •chest pain
+    2. •fast or slow heartbeat
+    3. •shortness of breath
+    4. •dizziness or fainting
+11. 3.Serotonin Syndrome.
+    This condition can be life-threatening and may include:
+    1. •agitation, hallucinations, coma or other changes in mental status
+    2. •coordination problems or muscle twitching (overactive reflexes)
+    3. •racing heartbeat, high or low blood pressure
+    4. •sweating or fever
+    5. •nausea, vomiting, or diarrhea
+    6. •muscle rigidity
+12. 4.Severe allergic reactions:
     1. •trouble breathing
-    2. •swelling of the face, tongue, eyes, or mouth
+    2. •swelling of the face, tongue, eyes or mouth
     3. •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
-11. 5.Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-12. 6.Seizures or convulsions
-13. 7.Manic episodes:
+13. 5.Abnormal bleeding: Citalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+14. 6.Seizures or convulsions
+15. 7.Manic episodes:
     1. •greatly increased energy
     2. •severe trouble sleeping
-    3. •racing thoughts
-    4. •reckless behavior
-    5. •unusually grand ideas
-    6. •excessive happiness or irritability
-    7. •talking more or faster than usual
-14. 8.Changes in appetite or weight.
+    3. •racing thoughts, reckless behavior
+    4. •unusually grand ideas
+    5. •excessive happiness or irritability, talking more or faster than usual
+16. 8.Changes in appetite or weight.
     Children and adolescents should have height and weight monitored during treatment.
-15. 9.Low salt (sodium) levels in the blood.
+17. 9.Low salt (sodium) levels in the blood.
     Elderly people may be at greater risk for this.
     Symptoms may include:
     1. •headache
     2. •weakness or feeling unsteady
     3. •confusion, problems concentrating or thinking or memory problems
-16. 10.Visual problems
+18. 10.Visual problems:
     1. •eye pain
     2. •changes in vision
     3. •swelling or redness in or around the eye
-17. Only some people are at risk for these problems.
+19. Only some people are at risk for these problems.
     You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 Do not stop citalopram tablets without first talking to your healthcare provider.
 Stopping citalopram tablets too quickly may cause serious symptoms including:
 
 - 
-  - •anxiety, irritability, high or low mood, feeling restless, or changes in sleep habits
+  - •anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
   - •headache, sweating, nausea, dizziness
   - •electric shock-like sensations, shaking, confusion
 
@@ -92,13 +90,13 @@ Citalopram tablets are also used to treat:
 
 - •Major Depressive Disorder (MDD)
 
-Talk to your healthcare provider if you do not think that your condition is getting better with citalopram tablet treatment.
+Talk to your healthcare provider if you do not think that your condition is getting better with citalopram tablets treatment.
 
 Who should not take citalopram tablets?
 
 Do not take citalopram tablets if you:
 
-- •are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram tablets.
+- •are allergic to citalopram or escitalopram or any of the ingredients in citalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in citalopram tablets.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
@@ -112,8 +110,8 @@ Do not take citalopram tablets if you:
   - •rapid changes in heart rate or blood pressure
   - •confusion
   - •loss of consciousness (pass out)
-- •take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
-- •have a heart problem including congenital long QT syndrome
+  - •have a heart problem including congenital long QT syndrome
+  - •Do not take citalopram tablets with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
 
 What should I tell my healthcare provider before taking citalopram tablets?
 Ask if you are not sure.
@@ -121,13 +119,13 @@ Ask if you are not sure.
 Before starting citalopram tablets, tell your healthcare provider if you:
 
 - •are taking certain drugs such as:
-  - •medicines for heart problems
-  - •medicines that lower your potassium or magnesium levels in your body
-  - •cimetidine
-  - •triptans used to treat migraine headache
-  - •medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-  - •tramadol
-  - •over-the-counter supplements such as tryptophan or St. John’s Wort
+- •medicines for heart problems
+- •medicines that lower your potassium or magnesium levels in your body
+- •cimetidine
+- •triptans used to treat migraine headache
+- •medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+- •tramadol
+- •over-the-counter supplements such as tryptophan or St. John’s Wort
 - •have liver problems
 - •have kidney problems
 - •have heart problems
@@ -150,7 +148,7 @@ Citalopram tablets and some medicines may interact with each other, may not work
 Your healthcare provider or pharmacist can tell you if it is safe to take citalopram tablets with your other medicines.
 Do not start or stop any medicine while taking citalopram tablets without talking to your healthcare provider first.
 
-| If you take citalopram tablets, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalate including: Lexapro®. |  |
+| If you take citalopram tablets, you should not take any other medicines that contain citalopram or escitalopram including: Lexapro®. |  |
 | --- | --- |
 
 How should I take citalopram tablets?
@@ -177,21 +175,21 @@ See “What is the most important information I should know about citalopram tab
 
 Common possible side effects in people who take citalopram tablets include:
 
-- •nausea
-- •sleepiness
-- •weakness
-- •dizziness
-- •feeling anxious
-- •trouble sleeping
-- •sexual problems
-- •sweating
-- •shaking
-- •not feeling hungry
-- •dry mouth
-- •constipation
-- •diarrhea
-- •respiratory infections
-- •yawning
+- •Nausea
+- •Sleepiness
+- •Weakness
+- •Dizziness
+- •Feeling anxious
+- •Trouble sleeping
+- •Sexual problems
+- •Sweating
+- •Shaking
+- •Not feeling hungry
+- •Dry mouth
+- •Constipation
+- •Diarrhea
+- •Respiratory infections
+- •Yawning
 
 Other side effects in children and adolescents include:
 
@@ -213,7 +211,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store citalopram tablets?
 
 - •Store citalopram tablets at 20° to 25°C (68° to 77°F).
-- •Keep the citalopram tablet bottle closed tightly.
+- •Keep the citalopram tablets bottle closed tightly.
 
 Keep citalopram tablets and all medicines out of the reach of children.
 
@@ -228,7 +226,7 @@ This Medication Guide summarizes the most important information about citalopram
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about citalopram tablets that is written for healthcare professionals.
 
-For more information about citalopram tablets, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information about citalopram tablets, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in citalopram tablets?
 
@@ -236,9 +234,9 @@ Active ingredient: citalopram hydrobromide
 
 Inactive ingredients:
 
-- •Tablets: colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide and triacetin.
-  The 10 mg and 20 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake.
-  The 20 mg tablets also contain FD&C Red No. 40 Aluminum Lake.
+Tablets: colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide and triacetin.
+The 10 mg and 20 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake.
+The 20 mg tablets also contain FD&C Red No. 40 Aluminum Lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -246,8 +244,8 @@ The brands listed are trademarks of their respective owners.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75060933
+75067336
 
-Revised: 2/2017 MX:CTLP:R8mmh/MX:MG:CTLP:R4m/MX:MG:CTLP:R4mh
+Revised: 1/2019 MX:CTLP:R9mmh/MX:MG:CTLP:R5m/MX:MG:CTLP:R5mh

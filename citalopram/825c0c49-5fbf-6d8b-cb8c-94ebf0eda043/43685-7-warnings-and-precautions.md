@@ -6,24 +6,24 @@ Patients with major depressive disorder (MDD), both adult and pediatric, may exp
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 TABLE 1
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | < 18 | 14 additional cases |
-| 18 to 24 | 5 additional cases |
+| 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25 to 64 | 1 fewer case |
+| 25-64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -137,7 +137,7 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 
 ### Activation of Mania/Hypomania
 
-In placebo-controlled trials of citalopram tablets, some of which included patients with bipolar disorder, activation of mania/hypomania was reported in 0.2% of 1,063 patients treated with citalopram tablets and in none of the 446 patients treated with placebo.
+In placebo-controlled trials of citalopram tablets, some of which included patients with bipolar disorder, activation of mania/hypomania was reported in 0.2% of 1063 patients treated with citalopram tablets and in none of the 446 patients treated with placebo.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorders treated with other marketed antidepressants.
 As with all antidepressants, citalopram tablets should be used cautiously in patients with a history of mania.
 
@@ -151,7 +151,7 @@ Like other antidepressants, citalopram tablets should be introduced with care in
 ### Interference with Cognitive and Motor Performance
 
 In studies in normal volunteers, citalopram tablets in doses of 40 mg/day did not produce impairment of intellectual function or psychomotor performance.
-Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram tablet therapy does not affect their ability to engage in such activities.
+Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram tablets therapy does not affect their ability to engage in such activities.
 
 ### Use in Patients with Concomitant Illness
 
@@ -169,14 +169,14 @@ Until adequate numbers of patients with severe renal impairment have been evalua
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe citalopram tablets.
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of citalopram tablets and triptans, tramadol, or other serotonergic agents.
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of citalopram tablets and triptans, tramadol or other serotonergic agents.
 
 Patients should be advised that taking citalopram tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
-Although in controlled studies citalopram tablets have not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram tablet therapy does not affect their ability to engage in such activities.
+Although in controlled studies citalopram tablets have not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram tablets therapy does not affect their ability to engage in such activities.
 
 Patients should be told that, although citalopram tablets have not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of citalopram tablets and alcohol in depressed patients is not advised.
 
@@ -188,7 +188,7 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 Patients should be advised to notify their physician if they are breastfeeding an infant.
 
-While patients may notice improvement with citalopram tablet therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
+While patients may notice improvement with citalopram tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with citalopram tablets and should counsel them in their appropriate use.
 A patient Medication Guide is available for citalopram tablets.
@@ -257,7 +257,7 @@ Because lithium may enhance the serotonergic effects of citalopram, caution shou
 
 ### Pimozide
 
-In a controlled study, a single dose of pimozide 2 mg coadministered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
+In a controlled study, a single dose of pimozide 2 mg co-administered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
 Citalopram did not alter the mean AUC or Cmax of pimozide.
 The mechanism of this pharmacodynamic interaction is not known.
 
@@ -287,7 +287,7 @@ Combined administration of citalopram tablets (titrated to 40 mg/day for 28 days
 
 ### Ketoconazole
 
-Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
+Combined administration of citalopram tablets (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
 
 ### CYP2C19 Inhibitors
 
@@ -295,7 +295,7 @@ Citalopram tablets 20 mg/day is the maximum recommended dose for patients taking
 
 ### Metoprolol
 
-Administration of 40 mg/day citalopram tablets for 22 days resulted in a 2-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
+Administration of 40 mg/day citalopram tablets for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
 Coadministration of citalopram tablets and metoprolol had no clinically significant effects on blood pressure or heart rate.
 
@@ -317,7 +317,7 @@ There are no clinical studies of the combined use of electroconvulsive therapy (
 
 Citalopram was administered in the diet to NMRI/BOM strain mice and COBS WI strain rats for 18 and 24 months, respectively.
 There was no evidence for carcinogenicity of citalopram in mice receiving up to 240 mg/kg/day, which is equivalent to 20 times the maximum recommended human daily dose (MRHD) of 60 mg on a surface area (mg/m2) basis.
-There was an increased incidence of small intestine carcinoma in rats receiving 8 mg/kg/day or 24 mg/kg/day, doses which are approximately 1.3 and 4 times the MRHD, respectively, on a mg/m2 basis.
+There was an increased incidence of small intestine carcinoma in rats receiving 8 or 24 mg/kg/day, doses which are approximately 1.3 and 4 times the MRHD, respectively, on a mg/m2 basis.
 A no-effect dose for this finding was not established.
 The relevance of these findings to humans is unknown.
 
@@ -330,7 +330,7 @@ It was not clastogenic in the in vitro chromosomal aberration assay in human lym
 
 ### Impairment of Fertility
 
-When citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32 mg/kg/day, 48 mg/kg/day, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day, approximately 5 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
+When citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32, 48, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day, approximately 5 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
 Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD.
 
 ## Pregnancy
@@ -339,13 +339,13 @@ Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD
 
 In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
 
-In two rat embryo/fetal development studies, oral administration of citalopram (32 mg/kg/day, 56 mg/kg/day, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
+In two rat embryo/fetal development studies, oral administration of citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
 This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
 The developmental, no-effect dose of 56 mg/kg/day is approximately 9 times the MRHD on a mg/m2 basis.
 In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m2 basis.
 Thus, teratogenic effects were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
 
-When female rats were treated with citalopram (4.8 mg/kg/day, 12.8 mg/kg/day, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD on a mg/m2 basis.
+When female rats were treated with citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD on a mg/m2 basis.
 The no-effect dose of 12.8 mg/kg/day is approximately 2 times the MRHD on a mg/m2 basis.
 Similar effects on offspring mortality and growth were seen when dams were treated throughout gestation and early lactation at doses ≥ 24 mg/kg/day, approximately 4 times the MRHD on a mg/m2 basis.
 A no-effect dose was not determined in that study.
@@ -363,7 +363,7 @@ These features are consistent with either a direct toxic effect of SSRIs and SNR
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome).
 
 Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+PPHN occurs in 1-2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
 Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including citalopram tablets) in pregnancy and PPHN.
 Other studies do not show a significant statistical association.
 
@@ -381,12 +381,12 @@ The effect of citalopram tablets on labor and delivery in humans is unknown.
 
 As has been found to occur with many other drugs, citalopram is excreted in human breast milk.
 There have been two reports of infants experiencing excessive somnolence, decreased feeding, and weight loss in association with breastfeeding from a citalopram-treated mother; in one case, the infant was reported to recover completely upon discontinuation of citalopram by its mother and in the second case, no follow-up information was available.
-The decision whether to continue or discontinue either nursing or citalopram tablet therapy should take into account the risks of citalopram exposure for the infant and the benefits of citalopram tablet treatment for the mother.
+The decision whether to continue or discontinue either nursing or citalopram tablets therapy should take into account the risks of citalopram exposure for the infant and the benefits of citalopram tablets treatment for the mother.
 
 ## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
-Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with citalopram tablets, and the data was not sufficient to support a claim for use in pediatric patients.
+Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with citalopram tablets, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of citalopram tablets in a child or adolescent must balance the potential risks with the clinical need.
 
 Decreased appetite and weight loss have been observed in association with the use of SSRIs.
@@ -394,9 +394,9 @@ Consequently, regular monitoring of weight and growth should be performed in chi
 
 ## Geriatric Use
 
-Of 4,422 patients in clinical studies of citalopram tablets,1,357 were 60 and over, 1,034 were 65 and over, and 457 were 75 and over.
+Of 4422 patients in clinical studies of citalopram tablets, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-Most elderly patients treated with citalopram tablets in clinical trials received daily doses between 20 mg and 40 mg (see DOSAGE AND ADMINISTRATION).
+Most elderly patients treated with citalopram tablets in clinical trials received daily doses between 20 and 40 mg (see DOSAGE AND ADMINISTRATION).
 
 SSRIs and SNRIs, including citalopram tablets, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS: Hyponatremia).
 

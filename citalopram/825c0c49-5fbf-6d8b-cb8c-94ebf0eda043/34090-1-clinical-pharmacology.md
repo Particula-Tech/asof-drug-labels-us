@@ -12,16 +12,16 @@ Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypot
 
 ## Pharmacokinetics
 
-The single- and multiple-dose pharmacokinetics of citalopram are linear and dose-proportional in a dose range of 10 mg/day to 60 mg/day.
+The single- and multiple-dose pharmacokinetics of citalopram are linear and dose-proportional in a dose range of 10-60 mg/day.
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.
-With once daily dosing, steady state plasma concentrations are achieved within approximately 1 week.
+With once daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of citalopram in plasma, based on the half-life, is expected to be 2.5 times the plasma concentrations observed after a single dose.
 
 ### Absorption and Distribution
 
 Following a single oral dose (40 mg tablet) of citalopram, peak blood levels occur at about 4 hours.
 The absolute bioavailability of citalopram was about 80% relative to an intravenous dose, and absorption is not affected by food.
-The volume of distribution of citalopram is about 12 L/kg and the binding of citalopram (CT), demethylcitalopram (DCT), and didemethylcitalopram (DDCT) to human plasma proteins is about 80%.
+The volume of distribution of citalopram is about 12 L/kg and the binding of citalopram (CT), demethylcitalopram (DCT) and didemethylcitalopram (DDCT) to human plasma proteins is about 80%.
 
 ### Metabolism and Elimination
 
@@ -45,7 +45,7 @@ In a single-dose study, citalopram AUC and half-life were increased in the subje
 
 #### Gender
 
-In three pharmacokinetic studies (total N = 32), citalopram AUC in women was 1.5 to 2 times that in men.
+In three pharmacokinetic studies (total N = 32), citalopram AUC in women was one and a half to two times that in men.
 This difference was not observed in five other pharmacokinetic studies (total N = 114).
 In clinical studies, no differences in steady state serum citalopram levels were seen between men (N = 237) and women (N = 388).
 There were no gender differences in the pharmacokinetics of DCT and DDCT.
@@ -89,16 +89,16 @@ Coadministration of a drug that inhibits CYP2D6 with citalopram tablets is unlik
 
 ## Clinical Efficacy Trials
 
-The efficacy of citalopram tablets as a treatment for depression was established in two placebo-controlled studies (of 4 to 6 weeks in duration) in adult outpatients (ages 18 to 66) meeting DSM-III or DSM-III-R criteria for major depression.
-Study 1, a 6-week trial in which patients received fixed citalopram tablet doses of 10 mg/day, 20 mg/day, 40 mg/day, and 60 mg/day, showed that citalopram tablets at doses of 40 mg/day and 60 mg/day were effective as measured by the Hamilton Depression Rating Scale (HAMD) total score, the HAMD depressed mood item (Item 1), the Montgomery Asberg Depression Rating Scale, and the Clinical Global Impression (CGI) Severity scale.
-This study showed no clear effect of the 10 mg/day and 20 mg/day doses, and the 60 mg/day dose was not more effective than the 40 mg/day dose.
+The efficacy of citalopram tablets as a treatment for depression was established in two placebo-controlled studies (of 4 to 6 weeks in duration) in adult outpatients (ages 18-66) meeting DSM-III or DSM-III-R criteria for major depression.
+Study 1, a 6-week trial in which patients received fixed citalopram tablets doses of 10, 20, 40 and 60 mg/day, showed that citalopram tablets at doses of 40 and 60 mg/day were effective as measured by the Hamilton Depression Rating Scale (HAMD) total score, the HAMD depressed mood item (Item 1), the Montgomery Asberg Depression Rating Scale, and the Clinical Global Impression (CGI) Severity scale.
+This study showed no clear effect of the 10 and 20 mg/day doses, and the 60 mg/day dose was not more effective than the 40 mg/day dose.
 In Study 2, a 4-week, placebo-controlled trial in depressed patients, of whom 85%met criteria for melancholia, the initial dose was 20 mg/day, followed by titration to the maximum tolerated dose or a maximum dose of 80 mg/day.
 Patients treated with citalopram tablets showed significantly greater improvement than placebo patients on the HAMD total score, HAMD item 1, and the CGI Severity score.
 In three additional placebo-controlled depression trials, the difference in response to treatment between patients receiving citalopram tablets and patients receiving placebo was not statistically significant, possibly due to high spontaneous response rate, smaller sample size, or, in the case of one study, too low a dose.
 
-In two long-term studies, depressed patients who had responded to citalopram tablets during an initial 6 or 8 weeks of acute treatment (fixed doses of 20 mg/day or 40 mg/day in one study and flexible doses of 20 mg/day to 60 mg/day in the second study) were randomized to continuation of citalopram tablets or to placebo.
-In both studies, patients receiving continued citalopram tablet treatment experienced significantly lower relapse rates over the subsequent 6 months compared to those receiving placebo.
-In the fixed-dose study, the decreased rate of depression relapse was similar in patients receiving 20 mg/day or 40 mg/day of citalopram tablets.
+In two long-term studies, depressed patients who had responded to citalopram tablets during an initial 6 or 8 weeks of acute treatment (fixed doses of 20 or 40 mg/day in one study and flexible doses of 20-60 mg/day in the second study) were randomized to continuation of citalopram tablets or to placebo.
+In both studies, patients receiving continued citalopram tablets treatment experienced significantly lower relapse rates over the subsequent 6 months compared to those receiving placebo.
+In the fixed-dose study, the decreased rate of depression relapse was similar in patients receiving 20 or 40 mg/day of citalopram tablets.
 
 Analyses of the relationship between treatment outcome and age, gender, and race did not suggest any differential responsiveness on the basis of these patient characteristics.
 
