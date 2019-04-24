@@ -73,7 +73,7 @@ Patients received intravenous ACTEMRA 12 mg/kg every two weeks.
 Concurrent use of stable background treatment with corticosteroids, MTX, and/or non-steroidal anti-inflammatory drugs was permitted.
 Patients who completed the 12-week period could continue to the optional extension period (a total of 52-weeks or until the age of 2 years, whichever was longer).
 
-The primary PK endpoints (Cmax, Cmin and AUC2weeks) of ACTEMRA at steady-state in this study were within the ranges of these parameters observed in patients with SJIA aged 2 to 17 years.
+The primary PK endpoints (Cmax, Ctrough and AUC2weeks) of ACTEMRA at steady-state in this study were within the ranges of these parameters observed in patients with SJIA aged 2 to 17 years.
 
 The safety and immunogenicity of ACTEMRA for patients with SJIA under 2 years of age was assessed descriptively.
 SAEs, AEs leading to discontinuation, and infectious AEs were reported by 27.3%, 36.4%, and 81.8% of patients.

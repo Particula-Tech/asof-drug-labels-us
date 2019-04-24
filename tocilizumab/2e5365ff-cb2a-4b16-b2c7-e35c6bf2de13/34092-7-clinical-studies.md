@@ -11,7 +11,7 @@ In this study, 67% of patients were MTX-naïve, and over 40% of patients had rhe
 Patients received ACTEMRA 8 mg per kg monotherapy or MTX alone (dose titrated over 8 weeks from 7.5 mg to a maximum of 20 mg weekly).
 The primary endpoint was the proportion of ACTEMRA patients who achieved an ACR 20 response at Week 24.
 
-Study II (NCT00106535) was a 104-week study with an ongoing optional 156-week extension phase that evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response to MTX.
+Study II (NCT00106535) was a 104-week study with an optional 156-week extension phase that evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response to MTX.
 Patients received ACTEMRA 8 mg per kg, ACTEMRA 4 mg per kg, or placebo every four weeks, in combination with MTX (10 to 25 mg weekly).
 Upon completion of 52-weeks, patients received open-label treatment with ACTEMRA 8 mg per kg through 104 weeks or they had the option to continue their double-blind treatment if they maintained a greater than 70% improvement in swollen/tender joint count.
 Two pre-specified interim analyses at week 24 and week 52 were conducted.
@@ -136,6 +136,18 @@ Sixty-three percent (63%) and sixty percent (60%) of patients in the ACTEMRA 8 m
 Other Health-Related Outcomes
 
 General health status was assessed by the Short Form Health Survey (SF-36) in Studies I – V. Patients receiving ACTEMRA demonstrated greater improvement from baseline compared to placebo in the Physical Component Summary (PCS), Mental Component Summary (MCS), and in all 8 domains of the SF-36.
+
+Cardiovascular Outcomes
+
+Study WA25204 was a randomized, open-label (sponsor-blinded), 2-arm parallel-group, multi-center, non-inferiority, cardiovascular (CV) outcomes trial in patients with a diagnosis of moderate to severe RA.
+This CV safety study was designed to exclude a moderate increase in CV risk in patients treated with ACTEMRA compared with a TNF inhibitor standard of care (etanercept).
+
+The study included 3,080 seropositive RA patients with active disease and an inadequate response to non-biologic disease-modifying anti-rheumatic drugs, who were aged ≥50 years with at least one additional CV risk factor beyond RA.
+Patients were randomized 1:1 to IV ACTEMRA 8 mg/kg Q4W or SC etanercept 50 mg QW and followed for an average of 3.2 years.
+The primary endpoint was the comparison of the time-to-first occurrence of any component of a composite of major adverse CV events (MACE; non-fatal myocardial infarction, non-fatal stroke, or CV death), with the final intent-to-treat analysis based on a total of 161 confirmed CV events (83/1538 [5.4%] for ACTEMRA; 78/1542 [5.1%] for etanercept) reviewed by an independent and blinded adjudication committee.
+
+Non-inferiority of ACTEMRA to etanercept for cardiovascular risk was determined by excluding >80% relative increase in the risk of MACE.
+The estimated hazard ratio (HR) for the risk of MACE comparing ACTEMRA to etanercept was 1.05; 95% CI (0.77, 1.43).
 
 ## 14.2 Rheumatoid Arthritis—Subcutaneous Administration
 

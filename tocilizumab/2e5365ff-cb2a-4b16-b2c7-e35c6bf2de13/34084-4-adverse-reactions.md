@@ -46,6 +46,9 @@ In the all-exposure population, the overall rate of serious infections remained 
 The most common serious infections included pneumonia, urinary tract infection, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis.
 Cases of opportunistic infections have been reported [see Warnings and Precautions (5.1)].
 
+In the cardiovascular outcomes Study WA25204, the rate of serious infections in the ACTEMRA 8 mg/kg IV every 4 weeks group, with or without DMARD, was 4.5 per 100 patient-years, and the rate in the etanercept 50 mg weekly SC group, with or without DMARD, was 3.2 per 100 patient-years.
+[see Clinical Studies (14.1)]
+
 Gastrointestinal Perforations
 
 During the 24 week, controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient-years with ACTEMRA-IV therapy.

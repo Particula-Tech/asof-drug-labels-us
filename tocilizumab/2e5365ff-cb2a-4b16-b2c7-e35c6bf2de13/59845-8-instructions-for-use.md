@@ -34,7 +34,6 @@ Do not remove the needle cap while allowing your ACTEMRA prefilled syringe to re
 - Keep your unused syringes in the original carton and keep in the refrigerator at 36˚F to 46˚F (2˚C to 8˚C).
   Do not freeze.
 - Hold your ACTEMRA prefilled syringe with the covered needle pointing down (see Figure C).
-
 - Check the liquid in the ACTEMRA prefilled syringe.
   It should be clear and colorless to pale yellow.
   Do not inject ACTEMRA if the liquid is cloudy, discolored, or has lumps or particles in it because it may not be safe to use.
@@ -66,7 +65,6 @@ Inject ACTEMRA
 
 - Hold the ACTEMRA prefilled syringe with 1 hand and pull the needle cap straight off with your other hand (See Figure E). Do not hold the plunger while you remove the needle cap.
   If you cannot remove the needle cap you should ask a caregiver for help or contact your healthcare provider.
-
 - Throw away the needle cap in a sharps container.
 - There may be a small air bubble in the ACTEMRA prefilled syringe.
   You do not need to remove it.
@@ -77,7 +75,6 @@ Inject ACTEMRA
 - If it is not used within 5 minutes of needle cap removal, the syringe should be disposed of in the puncture resistant container or sharps container and a new syringe should be used.
 - Never reattach the needle cap after removal.
 - Hold the ACTEMRA prefilled syringe in 1 hand between the thumb and index finger (See Figure F).
-
 - Do not pull back on the plunger of the syringe.
 - Use your other hand and gently pinch the area of skin you cleaned.
   Hold the pinched skin firmly.
@@ -85,15 +82,12 @@ Inject ACTEMRA
   Injection into muscle could cause the injection to feel uncomfortable.
 - Do not hold or push on the plunger while inserting the needle into the skin.
 - Use a quick, dart-like motion to insert the needle all the way into the pinched skin at an angle between 45° to 90° (See Figure G). It is important to use the correct angle to make sure the medicine is delivered under the skin (into fatty tissue), or the injection could be painful and the medicine may not work.
-
 - Keep the syringe in position and let go of the pinch of skin.
 - Slowly inject all of the medicine by gently pushing the plunger all the way down (See Figure H). You must press the plunger all the way down to get the full dose of medicine and to ensure the trigger fingers are completely pushed to the side.
   If the plunger is not fully depressed the needle shield will not extend to cover the needle when it is removed.
   If the needle is not covered, carefully place the syringe into the puncture resistant container to avoid injury with the needle.
-
 - After the plunger is pushed all the way down, keep pressing down on the plunger to be sure all of the medicine is injected before taking the needle out of the skin.
 - Keep pressing down on the plunger while you take the needle out of the skin at the same angle as inserted (See Figure I).
-
 - After the needle is removed completely from the skin, release the plunger, allowing the needle-shield to protect the needle (See Figure J).
 
 After the Injection
@@ -114,7 +108,6 @@ Dispose of the syringe
 How do I throw away used syringes?
 
 - Put your used needles and syringes including ACTEMRA in a FDA-cleared sharps disposal container right away after use (See Figure K). Do not throw away (dispose of) loose needles and syringes in your household trash.
-
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
   - made of a heavy-duty plastic
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
@@ -136,11 +129,11 @@ Record your Injection
 If you have questions or concerns about your ACTEMRA prefilled syringe, please contact your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: November 2018 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: April 2019 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-US License No. 1048 © 2018 Genentech, Inc. All rights reserved.
+US License No. 1048 © 2019 Genentech, Inc. All rights reserved.
 
 Instructions for Use ACTEMRA® (AC-TEM-RA) (tocilizumab) Autoinjector
 
@@ -190,7 +183,6 @@ Find a comfortable space with a clean, flat, working surface.
   - -Do not leave the Autoinjector to warm up in direct sunlight.
   - -Do not remove the green cap while allowing your ACTEMRA Autoinjector to reach room temperature.
 - Hold your ACTEMRA Autoinjector with the green cap pointing down (See Figure C).
-
 - Look in the clear Window area.
   Check the liquid in the ACTEMRA Autoinjector (See Figure C). It should be clear and colorless to pale yellow.
   Do not inject ACTEMRA if the liquid is cloudy, discolored, or has lumps or particles in it because it may not be safe to use.
@@ -301,12 +293,10 @@ Record your Injection
 If you have any questions or concerns about your ACTEMRA Autoinjector, talk to your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: November 2018 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: April 2019 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
 US License No. 1048
 
-© 2018 Genentech, Inc. All rights reserved.
-
-Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
+© 2019 Genentech, Inc. All rights reserved.

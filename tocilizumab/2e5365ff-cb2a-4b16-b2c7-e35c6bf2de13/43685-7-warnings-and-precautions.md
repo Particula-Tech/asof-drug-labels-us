@@ -90,8 +90,8 @@ Lipid Abnormalities
 
 Treatment with ACTEMRA was associated with increases in lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol [see Adverse Reactions (6.1, 6.2)].
 
-- –Assess lipid parameters approximately 4 to 8 weeks following initiation of ACTEMRA therapy, then at approximately 24 week intervals.
-- –Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
+- –Assess lipid parameters approximately 4 to 8 weeks following initiation of ACTEMRA therapy.
+- –Subsequently, manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
 Polyarticular and Systemic Juvenile Idiopathic Arthritis
 

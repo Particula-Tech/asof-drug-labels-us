@@ -113,7 +113,7 @@ ACTEMRA for intravenous infusion should be diluted by a healthcare professional 
 - Patients less than 30 kg: use a 50 mL infusion bag or bottle of 0.9% or 0.45% Sodium Chloride Injection, USP, and then follow steps 1 and 2 below.
 - Patients at or above 30 kg weight: use a 100 mL infusion bag or bottle, and then follow steps 1 and 2 below.
 
-- –Step 1.
+- − Step 1.
   Withdraw a volume of 0.9% or 0.45% Sodium Chloride Injection, USP, equal to the volume of the ACTEMRA injection required for the patient's dose from the infusion bag or bottle [see Dosage and Administration (2.1, 2.3, 2.4, 2.5)].
 
 | For Intravenous Use: Volume of ACTEMRA Injection per kg of Body Weight |  |  |

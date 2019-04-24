@@ -20,71 +20,70 @@ Rheumatoid arthritis and GCA patients demonstrated a similar pattern of absolute
 
 ## 12.3 Pharmacokinetics
 
-Rheumatoid Arthritis—Intravenous Administration
+PK of tocilizumab is characterized by nonlinear elimination which is a combination of linear clearance and Michaelis-Menten elimination.
+The nonlinear part of tocilizumab elimination leads to an increase in exposure that is more than dose-proportional.
+The pharmacokinetic parameters of tocilizumab do not change with time.
+Due to the dependence of total clearance on tocilizumab serum concentrations, the half-life of tocilizumab is also concentration-dependent and varies depending on the serum concentration level.
+Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
 
-The pharmacokinetics characterized in healthy subjects and RA patients suggested that PK is similar between the two populations.
-The clearance (CL) of tocilizumab decreased with increased doses.
-At the 10 mg per kg single dose in RA patients, mean CL was 0.29 ± 0.10 mL per hr per kg and mean apparent terminal t1/2 was 151 ± 59 hours (6.3 days).
+Rheumatoid Arthritis - Intravenous and Subcutaneous Administration
 
-The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis of 1793 rheumatoid arthritis patients treated with ACTEMRA 4 and 8 mg per kg every 4 weeks for 24 weeks.
+The pharmacokinetics in healthy subjects and RA patients suggest that PK is similar between the two populations.
 
-The pharmacokinetic parameters of tocilizumab did not change with time.
-A more than dose-proportional increase in area under the curve (AUC) and trough concentration (Cmin) was observed for doses of 4 and 8 mg per kg every 4 weeks.
-Maximum concentration (Cmax) increased dose-proportionally.
-At steady-state, estimated AUC and Cmin were 2.7 and 6.5-fold higher at 8 mg per kg as compared to 4 mg per kg, respectively.
-In a long-term study with dosing for 104 weeks, observed Cmin was sustained over time.
+The population PK model was developed from an analysis dataset composed of an IV dataset of 1793 patients from Study I, Study III, Study IV, and Study V, and from an IV and SC dataset of 1759 patients from Studies SC-I and SC-II.
+Cmean is included in place of AUCtau, since for dosing regimens with different inter-dose intervals, the mean concentration over the dosing period characterizes the comparative exposure better than AUCtau.
 
-For doses of ACTEMRA 4 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 13000 ± 5800 mcg∙h per mL, 1.49 ± 2.13 mcg per mL, and 88.3 ± 41.4 mcg per mL, respectively.
-The accumulation ratios for AUC and Cmax were 1.11 and 1.02, respectively.
-The accumulation ratio was higher for Cmin (1.96).
-Steady-state was reached following the first administration for Cmax and AUC, respectively, and after 16 weeks Cmin.
-For doses of ACTEMRA 8 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 35000 ± 15500 mcg∙h per mL, 9.74 ± 10.5 mcg per mL, and 183 ± 85.6 mcg per mL, respectively.
-The accumulation ratios for AUC and Cmax were 1.22 and 1.06, respectively.
-The accumulation ratio was higher for Cmin (2.35).
-Steady-state was reached following the first administration and after 8 and 20 weeks for Cmax, AUC, and Cmin, respectively.
-Tocilizumab AUC, Cmin and Cmax increased with increase of body weight.
-At body weight at or above 100 kg, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 mcg∙h per mL, 19.0 ± 12.0 mcg per mL, and 269 ± 57 mcg per mL, respectively, which are higher than mean exposure values for the patient population.
-Therefore, ACTEMRA doses exceeding 800 mg per infusion are not recommended [see Dosage and Administration (2.1)].
+At high serum concentrations, when total clearance of tocilizumab is dominated by linear clearance, a terminal half-life of approximately 21.5 days was derived from the population parameter estimates.
 
-Rheumatoid Arthritis—Subcutaneous Administration
+For doses of 4 mg/kg tocilizumab given every 4 weeks intravenously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab at steady state were 86.1 (44.8–202) mcg/mL, 0.1 (0.0–14.6) mcg/mL, and 18.0 (8.9–50.7) mcg/mL, respectively.
+For doses of 8 mg/kg tocilizumab given every 4 weeks intravenously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 176 (75.4–557) mcg/mL, 13.4 (0.1–154) mcg/mL, and 54.0 (17–260) mcg/mL, respectively.
+Cmax increased dose-proportionally between doses of 4 and 8 mg/kg IV every 4 weeks, while a greater than dose-proportional increase was observed in Cmean and Ctrough.
+At steady-state, Cmean and Ctrough were 3.0 and 134 fold higher at 8 mg/kg as compared to 4 mg/kg, respectively.
 
-The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis using a database composed of 1759 rheumatoid arthritis patients treated with 162 mg subcutaneously every week, 162 mg subcutaneously every other week, and 8 mg/kg every 4 weeks for 24 weeks.
+The accumulation ratios for AUC and Cmax after multiple doses of 4 and 8 mg/kg IV Q4W are low, while the accumulation ratios for Ctrough are higher (2.62 and 2.47, respectively).
+For Cmax, greater than 90% of the steady-state value was reached after the 1st IV infusion.
+For AUCtau and Cmean, 90% of the steady-state value was reached after the 1st and 3rd infusion for 4 mg/kg and 8 mg/kg IV, while for Ctrough, approximately 90% of the steady-state value was reached after the 4th IV infusion after both doses.
 
-The pharmacokinetic parameters of tocilizumab did not change with time.
-For the 162 mg every week dose, the estimated mean (±SD) steady-state AUC1week, Cmin and Cmax of tocilizumab were 8200 ± 3600 mcg∙h/mL, 44.6 ± 20.6 mcg/mL, and 50.9 ± 21.8 mcg/mL, respectively.
-The accumulation ratios for AUC, Cmin, and Cmax were 6.83, 6.37, and 5.47, respectively.
-Steady state was reached after 12 weeks for AUC, Cmin, and Cmax.
+For doses of 162 mg given every other week subcutaneously, the estimated median (range) steady-state Cmax, Ctrough, and Cmean of tocilizumab were 12.1 (0.4–49.3) mcg/mL, 4.1 (0.0–34.2) mcg/mL, and 9.2 (0.2–43.6) mcg/mL, respectively.
 
-For the 162 mg every other week dose, the estimated mean (±SD) steady-state AUC2week, Cmin, and Cmax of tocilizumab were 3200 ± 2700 mcg∙h/mL, 5.6 ± 7.0 mcg/mL, and 12.3 ± 8.7 mcg/mL, respectively.
-The accumulation ratios for AUC, Cmin, and Cmax were 2.67, 5.6, and 2.12, respectively.
-Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for Cmax.
+For doses of 162 mg given every week subcutaneously, the estimated median (range) steady-state Cmax, Ctrough, and Cmean of tocilizumab were 49.8 (3–150) mcg/mL, 42.9 (1.3–144) mcg/mL, and 47.3 (2.4–147) mcg/mL, respectively.
+Exposures after the 162 mg SC QW regimen were greater by 5.1 (Cmean) to 10.5 fold (Ctrough) compared to the 162 SC Q2W regimen.
+
+Accumulation ratios after multiple doses of either SC regimen were higher than after IV regimen with the highest ratios for Ctrough (6.02 and 6.30, for 162 mg SC Q2W and 162 mg SC QW, respectively).
+The higher accumulation for Ctrough was expected based on the nonlinear clearance contribution at lower concentrations.
+For Cmax, greater than 90% of the steady-state value was reached after the 5th SC and the 12th SC injection with the Q2W and QW regimens, respectively.
+For AUCtau and Cmean, 90% of the steady-state value was reached after the 6th and 12th injections for the 162 mg SC Q2W and QW regimens, respectively.
+For Ctrough, approximately 90% of the steady-state value was reached after the 6th and 12th injections for the 162 mg SC Q2W and QW regimens, respectively.
+
+Population PK analysis identified body weight as a significant covariate impacting the pharmacokinetics of tocilizumab.
+When given IV on a mg/kg basis, individuals with body weight ≥ 100 kg are predicted to have mean steady-state exposures higher than mean values for the patient population.
+Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended in patients with RA (see section 2.1 Dosage and Administration).
+Due to the flat dosing employed for SC administration of tocilizumab, no modifications are necessary by this dosing route.
 
 Giant Cell Arteritis – Subcutaneous Administration
 
 The pharmacokinetics of tocilizumab in GCA patients was determined using a population pharmacokinetic analysis on a dataset composed of 149 GCA patients treated with 162 mg subcutaneously every week or with 162 mg subcutaneously every other week.
 
-For the 162 mg every week dose, the estimated mean (±SD) steady-state Cavg, Cmin and Cmax of tocilizumab were 71.3 ± 30.1 mcg/mL, 68.1± 29.5 mcg/mL, and 73 ± 30.4 mcg/mL, respectively.
-The accumulation ratios for Cavg or AUCtau, Cmin, and Cmax were 10.9, 9.6, and 8.9, respectively.
+For the 162 mg every week dose, the estimated median (range) steady-state Cmax, Ctrough and Cmean of tocilizumab were 72.1 (12.2–151) mcg/mL, 67.2 (10.7–145) mcg/mL, and 70.6 (11.7–149) mcg/mL, respectively.
+The accumulation ratios for Cmean or AUCtau, Ctrough, and Cmax were 10.9, 9.6, and 8.9, respectively.
 Steady state was reached after 17 weeks.
-
-For the 162 mg every other week dose, the estimated mean (±SD) steady-state Cavg, Cmin, and Cmax of tocilizumab were 16.2 ± 11.8 mcg/mL, 11.1 ± 10.3 mcg/mL, and 19.3 ± 12.8 mcg/mL, respectively.
-The accumulation ratios for Cavg or AUCtau, Cmin, and Cmax were 2.8, 5.6, and 2.3 respectively.
+For the 162 mg every other week dose, the estimated median (range) steady-state Cmax, Ctrough, and Cmean of tocilizumab were 17.2 (1.1–56.2) mcg/mL, 7.7 (0.1–37.3) mcg/mL, and 13.7 (0.5–49) mcg/mL, respectively.
+The accumulation ratios for Cmean or AUCtau, Ctrough, and Cmax were 2.8, 5.6, and 2.3 respectively.
 Steady-state was reached after 14 weeks.
 
 Polyarticular Juvenile Idiopathic Arthritis—Intravenous and Subcutaneous Administration
 
 The pharmacokinetics of tocilizumab (TCZ) in PJIA patients was characterized by a population pharmacokinetic analysis which included 188 patients who were treated with TCZ IV or 52 patients treated with TCZ SC.
 
-For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 4 weeks intravenously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 183 ± 42.3 mcg/mL, 6.55 ± 7.93 mcg/mL and 42.2 ± 13.4 mcg/mL, respectively.
-For doses of 10 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 4 weeks intravenously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 168 ± 24.8 mcg/mL, 1.47 ± 2.44 mcg/mL and 31.6 ± 7.84 mcg/mL, respectively.
+For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 4 weeks intravenously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab at steady state were 181 (114–331) mcg/mL, 3.28 (0.02–35.4) mcg/mL, and 38.6 (22.2–83.8) mcg/mL, respectively.
+For doses of 10 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 4 weeks intravenously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 167 (125–220) mcg/mL, 0.35 (0–11.8) mcg/mL, and 30.8 (16.0–48.0) mcg/mL, respectively.
 
 The accumulation ratios were 1.05 and 1.16 for AUC4weeks, and 1.43 and 2.22 for Ctrough for 10 mg/kg (BW less than 30 kg) and 8 mg/kg (BW at or above 30 kg) intravenous doses, respectively.
 No accumulation for Cmax was observed.
-Following 8 mg/kg every 4 weeks TCZ IV steady state peak and trough concentrations in PJIA pediatric patients (aged 2 to 17 years old) are comparable to those in adult RA patients following 8 mg/kg IV every 4 weeks.
-Following 8mg/kg every 4 weeks, the average concentration (Cmean) of TCZ in PJIA patients after TCZ IV is slightly lower than in adult RA patients.
+Following 10 mg/kg and 8 mg/kg TCZ IV every 4 weeks doses in PJIA patients (aged 2 to 17 years), steady state concentrations (trough and average) were within the range of exposures in adult RA patients following 4 mg/kg and 8 mg/kg every 4 weeks, and steady state peak concentrations in PJIA patients were comparable to those following 8 mg/kg every 4 weeks in adult RA patients.
 
-For doses of 162 mg tocilizumab (patients with a body weight at or above 30 kg) given every 2 weeks subcutaneously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 29.4 ± 13.5 mcg/mL, 11.8 ± 7.08 mcg/mL and 21.7 ± 10.4 mcg/mL, respectively.
-For doses of 162 mg tocilizumab (patients with a body weight less than 30 kg) given every 3 weeks subcutaneously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 75.5 ± 24.1 mcg/mL, 18.4 ± 12.9 mcg/mL and 45.5 ± 19.8 mcg/mL, respectively.
+For doses of 162 mg tocilizumab (patients with a body weight at or above 30 kg) given every 2 weeks subcutaneously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 29.7 (7.56–50.3) mcg/mL, 12.7 (0.19–23.8) mcg/mL, and 23.0 (3.86–36.9) mcg/mL, respectively.
+For doses of 162 mg tocilizumab (patients with a body weight less than 30 kg) given every 3 weeks subcutaneously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 62.4 (39.4–121) mcg/mL, 13.4 (0.21–52.3) mcg/mL, and 35.7 (17.4–91.8) mcg/mL, respectively.
 
 The accumulation ratios were 1.46 and 2.04 for AUC4weeks, 2.08 and 3.58 for Ctrough, and 1.32 and 1.72 for Cmax, for 162 mg given every 3 weeks (BW less than 30 kg) and 162 mg given every 2 weeks (BW at or above 30 kg) subcutaneous doses, respectively.
 Following subcutaneous dosing, steady state Ctrough was comparable for patients in the two body weight groups, while steady-state Cmax and Cmean were higher for patients in the less than 30 kg group compared to the group at or above 30 kg.
@@ -95,16 +94,16 @@ Systemic Juvenile Idiopathic Arthritis—Intravenous and Subcutaneous Administra
 
 The pharmacokinetics of tocilizumab (TCZ) in SJIA patients was characterized by a population pharmacokinetic analysis which included 89 patients who were treated with TCZ IV or 51 patients treated with TCZ SC.
 
-For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 2 weeks intravenously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 256 ± 60.8 mcg/mL, 69.7± 29.1 mcg/mL and 119± 36.0 mcg/mL, respectively.
-For doses of 12 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 2 weeks intravenously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 274 ± 63.8 mcg/mL, 68.4 ± 30.0 mcg/mL and 123 ± 36.0 mcg/mL, respectively.
+For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 2 weeks intravenously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 253 (120–404) mcg/mL, 70.7 (5.26–127) mcg/mL, and 117 (37.6–199) mcg/mL, respectively.
+For doses of 12 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 2 weeks intravenously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 274 (149–444) mcg/mL, 65.9 (19.0–135) mcg/mL, and 124 (60–194) mcg/mL, respectively.
 
 The accumulation ratios were 1.95 and 2.01 for AUC4weeks, and 3.41 and 3.20 for Ctrough for 12 mg/kg (BW less than 30 kg) and 8 mg/kg (BW at or above 30 kg) intravenous doses, respectively.
 Accumulation data for Cmax were 1.37 and 1.42 for 12 mg/kg (BW less than 30 kg) and 8 mg/kg (BW at or above 30 kg) intravenous doses, respectively.
 Following every other week dosing with tocilizumab IV, steady state was reached by 8 weeks for both body weight groups.
 Mean estimated tocilizumab exposure parameters were similar between the two dose groups defined by body weight.
 
-For doses of 162 mg tocilizumab (patients with a body weight at or above 30 kg) given every week subcutaneously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 99.8 ± 46.2 mcg/mL, 79.2 ± 35.6 mcg/mL and 91.3 ± 40.4 mcg/mL, respectively.
-For doses of 162 mg tocilizumab (patients with a body weight less than 30 kg) given every 2 weeks subcutaneously, the estimated mean (± SD) Cmax, Ctrough, and Cmean of tocilizumab were 134 ± 58.6 mcg/mL, 65.9 ± 31.3 mcg/mL and 101 ± 43.2 mcg/mL, respectively.
+For doses of 162 mg tocilizumab (patients with a body weight at or above 30 kg) given every week subcutaneously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 89.8 (26.4–190) mcg/mL, 72.4 (19.5–158) mcg/mL, and 82.4 (23.9–169) mcg/mL, respectively.
+For doses of 162 mg tocilizumab (patients with a body weight less than 30 kg) given every 2 weeks subcutaneously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 127 (51.7–266) mcg/mL, 64.2 (16.6–136) mcg/mL, and 92.7 (38.5–199) mcg/mL, respectively.
 
 The accumulation ratios were 2.27 and 4.28 for AUC4weeks, 3.21 and 4.39 for Ctrough, and 1.88 and 3.66 for Cmax, for 162 mg given every 2 weeks (BW less than 30 kg) and 162 mg given every week (BW at or above 30 kg) subcutaneous doses, respectively.
 Following subcutaneous dosing, steady state was reached by 12 weeks for both body weight groups.
@@ -168,8 +167,8 @@ In RA patients, the body weight-based dose (8 mg per kg) resulted in approximate
 There was an inverse relationship between tocilizumab exposure and body weight for flat dose subcutaneous regimens.
 
 In GCA patients, higher exposure was observed in patients with lower body weight.
-For the 162 mg every week dosing regimen, the steady-state Cavg was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
-For the 162 mg every other week regimen, the steady-state Cavg was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
+For the 162 mg every week dosing regimen, the steady-state Cmean was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
+For the 162 mg every other week regimen, the steady-state Cmean was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
 There is limited data for patients above 100 kg (n=7).
 
 Hepatic Impairment
