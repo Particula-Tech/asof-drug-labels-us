@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis
+Carcinogenesis:
 
 Carcinogenicity studies were conducted in C57BL mice and Wistar rats.
 Quetiapine was administered in the diet to mice at doses of 20, 75, 250, and 750 mg/kg and to rats by gavage at doses of 25, 75, and 250 mg/kg for two years.
@@ -19,13 +19,13 @@ Serum measurements in a 1-year toxicity study showed that quetiapine increased m
 Increases in mammary neoplasms have been found in rodents after chronic administration of other antipsychotic drugs and are considered to be prolactin-mediated.
 The relevance of this increased incidence of prolactin-mediated mammary gland tumors in rats to human risk is unknown [see Warnings and Precautions (5.15)].
 
-Mutagenesis
+Mutagenesis:
 
 The mutagenic potential of quetiapine was tested in the in vitro Ames bacterial gene mutation assay and in the in vitro mammalian gene mutation assay in Chinese Hamster Ovary cells.
 The clastogenic potential of quetiapine was tested in the in vitro chromosomal aberration assay in cultured human lymphocytes and in the in vivo bone marrow micronucleus assay in rats up to 500 mg/kg which is 6 times the maximum recommended human dose on mg/m2 body surface area.
 Based on weight of evidence quetiapine was not mutagenic or clastogenic in these tests.
 
-Impairment of Fertility
+Impairment of Fertility:
 
 Quetiapine decreased mating and fertility in male Sprague-Dawley rats at oral doses of 50 and 150 mg/kg or approximately 1 and 3 times the maximum human dose (MRHD) of 800 mg/day on mg/m2 body surface area.
 Drug-related effects included increases in interval to mate and in the number of matings required for successful impregnation.

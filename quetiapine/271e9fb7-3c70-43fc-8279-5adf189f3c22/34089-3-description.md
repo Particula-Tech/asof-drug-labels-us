@@ -7,6 +7,8 @@ All doses and tablet strengths are expressed as milligrams of base, not as fumar
 Its molecular formula is C42H50N6O4S2•C4H4O4 and it has a molecular weight of 883.10 (fumarate salt).
 The structural formula is:
 
+- 
+
 Quetiapine fumarate USP is a white to off-white powder which is moderately soluble in water.
 
 Quetiapine Tablets USP are available for oral administration containing either 25 mg, 50 mg, 100 mg, 200 mg, 300 mg or 400 mg of quetiapine fumarate.

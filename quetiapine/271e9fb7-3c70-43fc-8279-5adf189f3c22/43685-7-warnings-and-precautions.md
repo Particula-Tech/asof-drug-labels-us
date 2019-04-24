@@ -53,7 +53,7 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for quetiapine should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-Screening Patients for Bipolar Disorder
+Screening Patients for Bipolar Disorder:
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -89,7 +89,7 @@ While all of the drugs in the class have been shown to produce some metabolic ch
 In some patients, a worsening of more than one of the metabolic parameters of weight, blood glucose, and lipids was observed in clinical studies.
 Changes in these metabolic profiles should be managed as clinically appropriate.
 
-Hyperglycemia and Diabetes Mellitus
+Hyperglycemia and Diabetes Mellitus:
 
 Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics, including quetiapine.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
@@ -103,18 +103,15 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
-Adults
+Adults:
 
-Table 3: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled Studies1
-
-| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
+| Table 3: Fasting Glucose – Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled StudiesIncludes quetiapine and quetiapine extended-release data. |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | Fasting Glucose | Normal to High (< 100 mg/dL to ≥ 126 mg/dL) | Quetiapine | 2,907 | 71 (2.4%) |
 | Placebo | 1,346 | 19 (1.4%) |  |  |
 | Borderline to High (≥ 100 mg/dL and < 126 mg/dL to ≥ 126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
 | Placebo | 279 | 33 (11.8%) |  |  |
-
-1. 1.Includes quetiapine and quetiapine extended-release data.
 
 In a 24-week trial (active-controlled, 115 patients treated with quetiapine) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting blood glucose level ≥ 126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2-hour glucose from baseline was -1.8 mg/dL for quetiapine.
@@ -130,7 +127,7 @@ In a placebo-controlled quetiapine extended-release monotherapy study (8 weeks d
 In this study, there were no patients in the quetiapine extended-release or placebo-treated groups with a baseline normal fasting glucose level (< 100 mg/dL) that had an increase in blood glucose level > 126 mg/dL.
 There was one patient in the quetiapine extended-release group with a baseline borderline fasting glucose level (> 100 mg/dL and < 126 mg/dL) who had an increase in blood glucose level of > 126 mg/dL compared to zero patients in the placebo group.
 
-Dyslipidemia
+Dyslipidemia:
 
 Adults: Table 4 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by indication in clinical trials with quetiapine.
 
@@ -138,15 +135,15 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥ 240 mg/dL | Schizophrenia | Quetiapine | 137 | 24 (18%) |
+| Total Cholesterol ≥ 240 mg/dL | Schizophrenia6 weeks duration | Quetiapine | 137 | 24 (18%) |
 | Placebo | 92 | 6 (7%) |  |  |
-| Bipolar Depression | Quetiapine | 463 | 41 (9%) |  |
+| Bipolar Depression8 weeks duration | Quetiapine | 463 | 41 (9%) |  |
 | Placebo | 250 | 15 (6%) |  |  |
 | Triglycerides ≥ 200 mg/dL | Schizophrenia | Quetiapine | 120 | 26 (22%) |
 | Placebo | 70 | 11 (16%) |  |  |
 | Bipolar Depression | Quetiapine | 436 | 59 (14%) |  |
 | Placebo | 232 | 20 (9%) |  |  |
-| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | Quetiapine | na | na |
+| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | Quetiapine | naParameters not measured in the quetiapine registration studies for schizophrenia. | na |
 | Placebo | na | na |  |  |
 | Bipolar Depression | Quetiapine | 465 | 29 (6%) |  |
 | Placebo | 256 | 12 (5%) |  |  |
@@ -161,9 +158,9 @@ Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥ 200 mg/dL | Schizophrenia | Quetiapine | 107 | 13 (12%) |
+| Total Cholesterol ≥ 200 mg/dL | Schizophrenia13 to 17 years, 6 weeks duration | Quetiapine | 107 | 13 (12%) |
 | Placebo | 56 | 1 (2%) |  |  |
-| Bipolar Mania | Quetiapine | 159 | 16 (10%) |  |
+| Bipolar Mania10 to 17 years, 3 weeks duration | Quetiapine | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
 | Triglycerides ≥ 150 mg/dL | Schizophrenia | Quetiapine | 103 | 17 (17%) |
 | Placebo | 51 | 4 (8%) |  |  |
@@ -178,35 +175,27 @@ Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | Bipolar Mania | Quetiapine | 154 | 16 (10%) |  |
 | Placebo | 61 | 4 (7%) |  |  |
 
-1. 1.13 to 17 years, 6 weeks duration
-2. 2.10 to 17 years, 3 weeks duration
-
 In a placebo-controlled quetiapine extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥ 130 mg/dL) and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine extended-release vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine extended-release vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine extended-release vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine extended-release vs. 15% (11/74) for placebo.
 
-Weight Gain
+Weight Gain:
 
 Increases in weight have been observed in clinical trials.
 Patients receiving quetiapine should receive regular monitoring of weight.
 
-Adults:In clinical trials with quetiapine the following increases in weight have been reported.
+Adults: In clinical trials with quetiapine the following increases in weight have been reported.
 
 Table 6: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Adults)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥ 7% of Body Weight | Schizophrenia | Quetiapine | 391 | 89 (23%) |
+| Weight Gain ≥ 7% of Body Weight | SchizophreniaUp to 6 weeks duration | Quetiapine | 391 | 89 (23%) |
 | Placebo | 206 | 11 (6%) |  |  |
-| Bipolar Mania (monotherapy) | Quetiapine | 209 | 44 (21%) |  |
+| Bipolar Mania (monotherapy)Up to 12 weeks duration | Quetiapine | 209 | 44 (21%) |  |
 | Placebo | 198 | 13 (7%) |  |  |
-| Bipolar Mania (adjunct therapy) | Quetiapine | 196 | 25 (13%) |  |
+| Bipolar Mania (adjunct therapy)Up to 3 weeks duration | Quetiapine | 196 | 25 (13%) |  |
 | Placebo | 203 | 8 (4%) |  |  |
-| Bipolar Depression | Quetiapine | 554 | 47 (8%) |  |
+| Bipolar DepressionUp to 8 weeks duration | Quetiapine | 554 | 47 (8%) |  |
 | Placebo | 295 | 7 (2%) |  |  |
-
-1. 1.Up to 6 weeks duration
-2. 2.Up to 12 weeks duration
-3. 3.Up to 3 weeks duration
-4. 4.Up to 8 weeks duration
 
 Children and Adolescents: In two clinical trials with quetiapine, one in bipolar mania and one in schizophrenia, reported increases in weight are included in Table 7.
 
@@ -214,13 +203,10 @@ Table 7: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Children
 
 | Vital Sign | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥ 7% of Body Weight | Schizophrenia | Quetiapine | 111 | 23 (21%) |
+| Weight Gain ≥ 7% of Body Weight | Schizophrenia6 weeks duration | Quetiapine | 111 | 23 (21%) |
 | Placebo | 44 | 3 (7%) |  |  |
-| Bipolar Mania | Quetiapine | 157 | 18 (12%) |  |
+| Bipolar Mania3 weeks duration | Quetiapine | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
-
-1. 1.6 weeks duration
-2. 2.3 weeks duration
 
 The mean change in body weight in the schizophrenia trial was 2.0 kg in the quetiapine group and -0.4 kg in the placebo group and in the bipolar mania trial, it was 1.7 kg in the quetiapine group and 0.4 kg in the placebo group.
 
@@ -321,7 +307,7 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 
 ## 5.14 Hypothyroidism
 
-Adults
+Adults:
 
 Clinical trials with quetiapine demonstrated dose-related decreases in thyroid hormone levels.
 The reduction in total and free thyroxine (T4) of approximately 20% at the higher end of the therapeutic dose range was maximal in the first six weeks of treatment and maintained without adaptation or progression during more chronic therapy.
@@ -336,37 +322,31 @@ Of the quetiapine treated patients with elevated TSH levels, 3 had simultaneous 
 About 0.7% (26/3,489) of quetiapine patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were Based on shifts from normal baseline to potentially clinically important value at any time post-baseline.
-Shifts in Total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.: decrease in free T4 (<0.8 LLN), 2.0% (357/17,513); decrease in total T4 (<0.8 LLN), 4.0% (75/1,861); decrease in free T3 (<0.8 LLN), 0.4% (53/13,766); decrease in total T3 (<0.8 LLN), 2.0% (26/1,312), and increase in TSH (>5mIU/L), 4.9% (956/19,412).
+In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were1: decrease in free T4 (<0.8 LLN), 2.0% (357/17,513); decrease in total T4 (<0.8 LLN), 4.0% (75/1,861); decrease in free T3 (<0.8 LLN), 0.4% (53/13,766); decrease in total T3 (<0.8 LLN), 2.0% (26/1,312), and increase in TSH (>5mIU/L), 4.9% (956/19,412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical Trials
-
-| Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
+| Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline. Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time. Includes quetiapine and quetiapine extended-release data. |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
 | 3.4%(37/1,097) | 0.6%(4/651) | 0.7% (52/7,218) | 0.1% (4/3,668) | 0.5% (2/369) | 0.0% (0/113) | 0.2% (11/5,673) | 0.0% (1/2,679) | 3.2% (240/7,587) | 2.7% (105/3,912) |
 
-1. 1.Based on shifts from normal baseline to potentially clinically important value at any time post-baseline.
-   Shifts in Total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.
-2. 2.Includes quetiapine and quetiapine extended-release data.
-
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0% for both quetiapine (1/4,800) and placebo (0/2,190) and for T4 and TSH the shifts were 0.1% (7/6,154) for quetiapine versus 0.0% (1/3,007) for placebo.
 
-Children and Adolescents
+Children and Adolescents:
 
 In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
 Of the quetiapine treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
 ## 5.15 Hyperprolactinemia
 
-Adults
+Adults:
 
 During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4,416) of patients treated with quetiapine compared to 2.6% (51/1,968) on placebo.
 
-Children and Adolescents
+Children and Adolescents:
 
 In acute placebo-controlled trials in children and adolescent patients with bipolar mania (3-week duration) or schizophrenia (6-week duration), the incidence of shifts in prolactin levels to a value (> 20 mcg/L males; > 26 mcg/L females at any time) was 13.4% (18/134) for quetiapine compared to 4% (3/75) for placebo in males and 8.7% (9/104) for quetiapine compared to 0.0% (0/39) for placebo in females.
 

@@ -2,16 +2,16 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Category C:
 
-Risk Summary
+Risk Summary:
 
 There are no adequate and well-controlled studies of quetiapine use in pregnant women.
 In limited published literature, there were no major malformations associated with quetiapine exposure during pregnancy.
 In animal studies, embryo-fetal toxicity occurred.
 Quetiapine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Human Data
+Human Data:
 
 There are limited published data on the use of quetiapine for treatment of schizophrenia and other psychiatric disorders during pregnancy.
 In a prospective observational study, 21 women exposed to quetiapine and other psychoactive medications during pregnancy delivered infants with no major malformations.
@@ -21,7 +21,7 @@ Neonates exposed to antipsychotic drugs (including quetiapine), during the third
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-Animal Data
+Animal Data:
 
 When pregnant rats and rabbits were exposed to quetiapine during organogenesis, there was no teratogenic effect at doses up to 2.4 times the maximum recommended human dose (MRHD) for schizophrenia of 800 mg/day based on mg/m2 body surface area.
 However, there was evidence of embryo-fetal toxicity, which included delays in skeletal ossification occurring at approximately 1 and 2 times the MRHD of 800 mg/day in both rats and rabbits, and an increased incidence of carpal/tarsal flexure (minor soft tissue anomaly) in rabbit fetuses at approximately 2 times the MRHD.
@@ -50,24 +50,24 @@ In general, the adverse reactions observed in children and adolescents during th
 Increases in systolic and diastolic blood pressure occurred in children and adolescents and did not occur in adults.
 Orthostatic hypotension occurred more frequently in adults (4 to 7%) compared to children and adolescents (< 1%) [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
-Schizophrenia
+Schizophrenia:
 
 The efficacy and safety of quetiapine in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one 6-week, double-blind, placebo-controlled trial [see Indications and Usage (1.1),Dosage and Administration (2.2),Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
 Safety and effectiveness of quetiapine in pediatric patients less than 13 years of age with schizophrenia have not been established.
 
-Maintenance
+Maintenance:
 
 The safety and effectiveness of quetiapine in the maintenance treatment of bipolar disorder has not been established in pediatric patients less than 18 years of age.
 The safety and effectiveness of quetiapine in the maintenance treatment of schizophrenia has not been established in any patient population, including pediatric patients.
 
-BipolarMania
+BipolarMania:
 
 The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with Bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial [see Indications and Usage (1.2),Dosage and Administration (2.3),Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Safety and effectiveness of quetiapine in pediatric patients less than 10 years of age with bipolar mania have not been established.
 
-Bipolar Depression
+Bipolar Depression:
 
 Safety and effectiveness of quetiapine in pediatric patients less than 18 years of age with bipolar depression have not been established.
 A clinical trial with quetiapine extended-release was conducted in children and adolescents (10 to 17 years of age) with bipolar depression, efficacy was not established.
