@@ -12,14 +12,13 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-BECONASE AQ is a registered trademark of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
-©2015 the GSK group of companies.
-All rights reserved.
+©2019 GSK group of companies or its licensor.
 
-September 2015
+April 2019
 
-BCN:1PI
+BCN:2PI
 
 | PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT |
 | --- |

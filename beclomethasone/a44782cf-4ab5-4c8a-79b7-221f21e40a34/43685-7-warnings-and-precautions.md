@@ -33,6 +33,7 @@ Rarely, immediate hypersensitivity reactions may occur after the intranasal admi
 Rare instances of nasal septum perforation have been spontaneously reported.
 
 Rare instances of wheezing, cataracts, glaucoma, and increased intraocular pressure have been reported following the intranasal use of beclomethasone dipropionate.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use BECONASE AQ Nasal Spray long term.
 
 In clinical studies with beclomethasone dipropionate administered intranasally, the development of localized infections of the nose and pharynx with Candida albicans has occurred only rarely.
 When such an infection develops, it may require treatment with appropriate local therapy and discontinuation of treatment with BECONASE AQ Nasal Spray.
@@ -118,7 +119,7 @@ To minimize the systemic effects of intranasal corticosteroids, including BECONA
 In a double-blind, controlled trial, 100 children between the ages of 6 and 9½ years with allergic rhinitis were randomized to receive aqueous intranasal beclomethasone dipropionate 168 mcg twice daily or placebo for 1 year.
 As measured by stadiometry, children who received beclomethasone dipropionate grew more slowly than those who received placebo.
 A difference in mean change in height was observed within 1 month of drug initiation.
-At the end of 12 months, the beclomethasone dipropionate-treated group had a growth velocity on average of 4.75 cm/year compared to 6.20 cm/year in the placebo group (p<0.01).
+At the end of 12 months, the beclomethasone dipropionate-treated group had a growth velocity on average of 4.75 cm/year compared to 6.20 cm/year in the placebo group (P<0.01).
 While the placebo group had an expected distribution of growth velocity, approximately 50% of the beclomethasone dipropionate-treated children grew below the 10th percentile.
 
 In children 7.3 years of age, the mean age of children in this study, the range for expected growth velocity is: boys − 3rd percentile = 4.1 cm/year, 50th percentile = 5.8 cm/year, and 97th percentile = 7.5 cm/year; girls − 3rd percentile = 4.3 cm/year, 50th percentile = 5.9 cm/year, and 97th percentile = 7.5 cm/year.
