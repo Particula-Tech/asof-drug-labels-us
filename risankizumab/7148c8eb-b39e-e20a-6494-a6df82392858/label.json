@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761105",
+    "part333A"
+  ],
+  "inn": "risankizumab",
+  "labeler": "AbbVie Inc.",
+  "package_ndcs": [
+    "0074-2042-02",
+    "0074-2042-71"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "risankizumab-rzaa",
+      "name": "Skyrizi"
+    }
+  ],
+  "setid": "7148c8eb-b39e-e20a-6494-a6df82392858",
+  "source": "dailymed"
+}
