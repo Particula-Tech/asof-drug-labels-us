@@ -39,6 +39,7 @@ Taking cut, broken, chewed, crushed, or dissolved OXYCONTIN enhances drug releas
 
 With parenteral abuse, the inactive ingredients in OXYCONTIN can be expected to result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis, valvular heart injury, embolism, and death.
 Cases of thrombotic microangiopathy (a condition characterized clinically by thrombocytopenia and microangiopathic hemolytic anemia) associated with parenteral abuse have been reported.
+
 Parenteral drug abuse is commonly associated with transmission of infectious diseases, such as hepatitis and HIV.
 
 Abuse Deterrence Studies

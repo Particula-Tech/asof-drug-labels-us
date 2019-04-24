@@ -8,7 +8,7 @@ OXYCONTIN 60 mg and 80 mg tablets, a single dose greater than 40 mg, or a total 
 Adult patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-- Initiate the dosing regimen for each patient individually; taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- Initiate the dosing regimen for each patient individually; taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)]
 - Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with OXYCONTIN and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
 Instruct patients to swallow OXYCONTIN tablets whole, one tablet at a time, with enough water to ensure complete swallowing immediately after placing in the mouth [see Patient Counseling Information (17)].
@@ -100,7 +100,7 @@ Monitor patients for signs and symptoms of opioid withdrawal or for signs of ove
 There is limited experience with conversion from transdermal fentanyl to OXYCONTIN in pediatric patients 11 years and older.
 If switching from transdermal fentanyl patch to OXYCONTIN, ensure that the patch has been removed for at least 18 hours prior to starting OXYCONTIN.
 Although there has been no systematic assessment of such conversion, start with a conservative conversion: substitute 10 mg of OXYCONTIN every 12 hours for each 25 mcg per hour fentanyl transdermal patch.
-Follow the patient closely during conversion from transdermal fentanyl to OXYCONTIN.
+Follow the patient closely during conversion from transdermal fentanyl to OXYCONTIN
 
 If using asymmetric dosing, instruct patients to take the higher dose in the morning and the lower dose in the evening.
 
@@ -128,7 +128,7 @@ If the patient is currently taking a central nervous system (CNS) depressant and
 
 ## 2.7 Dosage Modifications in Geriatric Patients who are Debilitated and not Opioid-Tolerant
 
-For geriatric patients who are debilitated and not opioid tolerant, start dosing patients at one-third to one-half the recommended starting dosage and titrate the dosage cautiously [see Use in Specific Populations (8.5].
+For geriatric patients who are debilitated and not opioid tolerant, start dosing patients at one-third to one-half the recommended starting dosage and titrate the dosage cautiously [see Use in Specific Populations (8.5)].
 
 ## 2.8 Dosage Modifications in Patients with Hepatic Impairment
 
