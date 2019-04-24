@@ -4,7 +4,7 @@ Dosage and Administration in Adults:
 
 Single Dose
 
-Vaginal candidiasis: The recommended dosage of fluconazole for vaginal candidiasis is150 mg as a single oral dose.
+Vaginal candidiasis: The recommended dosage of fluconazole for vaginal candidiasis is 150 mg as a single oral dose.
 
 Multiple Dose
 
@@ -16,7 +16,7 @@ Treatment should be continued until clinical parameters or laboratory tests indi
 An inadequate period of treatment may lead to recurrence of active infection.
 Patients with AIDS and cryptococcal meningitis or recurrent oropharyngeal candidiasis usually require maintenance therapy to prevent relapse.
 
-Oropharyngeal candidiasis: The recommended dosage of fluconazole for oropharyngealcandidiasis is 200 mg on the first day, followed by 100 mg once daily.
+Oropharyngeal candidiasis: The recommended dosage of fluconazole for oropharyngeal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
 Clinical evidence of oropharyngeal candidiasis generally resolves within several days, but treatment should be continued for at least 2 weeks to decrease the likelihood of relapse.
 
 Esophageal candidiasis: The recommended dosage of fluconazole for esophageal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
@@ -80,9 +80,9 @@ After the loading dose, the daily dose (according to indication) should be based
 | --- | --- |
 | >50 | 100 |
 | ≤50 (no dialysis) | 50 |
-| Regular dialysis | 100 after each dialysis |
+| Hemodialysis | 100% after each hemodialysis |
 
-Patients on regular dialysis should receive 100% of the recommended dose after each dialysis; on non-dialysis days, patients should receive a reduced dose according to their creatinine clearance.
+Patients on hemodialysis should receive 100% of the recommended dose after each hemodialysis; on non-dialysis days, patients should receive a reduced dose according to their creatinine clearance.
 
 These are suggested dose adjustments based on pharmacokinetics following administration of multiple doses.
 Further adjustment may be needed depending upon clinical condition.

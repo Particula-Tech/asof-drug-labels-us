@@ -5,10 +5,10 @@ Mortality among high risk patients was 33% and 40% for amphotericin B and flucon
 Optimal doses and regimens for patients with acute cryptococcal meningitis and at high risk for treatment failure remain to be determined.
 (Saag, et al. N Engl JMed 1992; 326:83-9.)
 
-Vaginal candidiasis: Two adequate and well-controlled studies were conducted in the U.S. usingthe 150 mg tablet.
+Vaginal candidiasis: Two adequate and well-controlled studies were conducted in the U.S. using the 150 mg tablet.
 In both, the results of the fluconazole regimen were comparable to the control regimen (clotrimazole or miconazole intravaginally for 7 days) both clinically and statistically at the one month post-treatment evaluation.
 
-The therapeutic cure rate, defined as a complete resolution of signs and symptoms of vaginal candidiasis (clinical cure), along with a negative KOH examination and negative culture for Candida (microbiologic eradication),was 55% in both the fluconazole group and the vaginal products group.
+The therapeutic cure rate, defined as a complete resolution of signs and symptoms of vaginal candidiasis (clinical cure), along with a negative KOH examination and negative culture for Candida (microbiologic eradication), was 55% in both the fluconazole group and the vaginal products group.
 
 |  | Fluconazole PO 150 mg tablet | Vaginal Product qhs x 7 days |
 | --- | --- | --- |
@@ -27,21 +27,21 @@ Substantially more gastrointestinal events were reported in the fluconazole grou
 Most of the events were mild to moderate.
 Because fluconazole was given as a single dose, no discontinuations occurred.
 
-| Parameter | Fluconazole PO | Vaginal Products |
-| --- | --- | --- |
-| Evaluable patients | 448 | 422 |
-| With any adverse event | 141 (31%) | 112 (27%) |
-| Nervous System | 90 (20%) | 69 (16%) |
-| Gastrointestinal | 73 (16%) | 18 (4%) |
-| With drug-related event | 117 (26%) | 67 (16%) |
-| Nervous System | 61 (14%) | 29 (7%) |
-| Headache | 58 (13%) | 28 (7%) |
-| Gastrointestinal | 68 (15%) | 13 (3%) |
-| Abdominal pain | 25 (6%) | 7 (2%) |
-| Nausea | 30 (7%) | 3 (1%) |
-| Diarrhea | 12 (3%) | 2 (<1%) |
-| Application site event | 0 (0%) | 19 (5%) |
-| Taste Perversion | 6 (1%) | 0 (0%) |
+| Parameter | Fluconazole PO |  | Vaginal Products |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Evaluable patients | 448 |  | 422 |  |  |
+| With any adverse event | 141 (31%) |  | 112 (27%) |  |  |
+| Nervous System |  | 90 (20%) |  | 69 (16%) |  |
+| Gastrointestinal |  | 73 (16%) |  | 18 (4%) |  |
+| With drug-related event |  | 117 (26%) |  | 67 (16%) |  |
+| Nervous System |  | 61 (14%) |  | 29 (7%) |  |
+| Headache |  | 58 (13%) |  | 28 (7%) |  |
+| Gastrointestinal |  | 68 (15%) |  | 13 (3%) |  |
+| Abdominal pain |  | 25 (6%) |  | 7 (2%) |  |
+| Nausea |  | 30 (7%) |  | 3 (1%) |  |
+| Diarrhea |  | 12 (3%) |  | 2 (<1%) |  |
+| Application site event |  | 0 (0%) |  | 19 (5%) |  |
+| Taste Perversion |  | 6 (1%) |  | 0 (0%) |  |
 
 ## Pediatric Studies
 
@@ -58,7 +58,7 @@ Mycologically, 76% of fluconazole treated patients had the infecting organism er
 | Clinical Cure | 76/88 (86%) | 36/78 (46%) |
 | Mycological eradication* | 55/72 (76%) | 6/54 (11%) |
 
-* Subjects without follow-up cultures for any reason were considered nonevaluable for mycological response.
+1. * Subjects without follow-up cultures for any reason were considered nonevaluable for mycological response.
 
 The proportion of patients with clinical relapse 2 weeks after the end of treatment was 14% for subjects receiving fluconazole and 16% for subjects receiving nystatin.
 At 4 weeks after the end of treatment, the percentages of patients with clinical relapse were 22% for fluconazole and 23% for nystatin.

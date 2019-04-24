@@ -28,7 +28,7 @@ Storage: Store at 20° to 25°C (68° to 77° F) [see USP Controlled Room Temper
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Glenmark Pharmaceuticals Limited.
 
 Colvale-Bardez, Goa 403513, India.
 
@@ -39,8 +39,8 @@ Glenmark Pharmaceuticals Inc., USA
 Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888) 721-7115
 
 www.glenmarkpharma.com/usa
 
-April 2018
+April 2019
