@@ -18,8 +18,7 @@ Keep out of reach of children.
 
 Rx only
 
-Capsule contents manufactured by: Janssen Pharmaceutica N.V.
-Olen Belgium
+Capsule contents manufactured by: Janssen Pharmaceutica NV Olen, Belgium
 
 Manufactured by: JOLLC Gurabo, Puerto Rico 00778
 
