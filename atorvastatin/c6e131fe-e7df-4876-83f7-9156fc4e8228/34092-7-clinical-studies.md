@@ -70,7 +70,7 @@ Overview of Efficacy Results in TNT
 | Noncardiovascular death | 127 | (2.5) | 158 | (3.2) | 1.25 (0.99, 1.57) |
 | Cancer death | 75 | (1.5) | 85 | (1.7) | 1.13 (0.83, 1.55) |
 | Other non-CV death | 43 | (0.9) | 58 | (1.2) | 1.35 (0.91, 2.00) |
-| Suicide, homicide, and other traumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
+| Suicide, homicide, and othertraumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
 | HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons |  |  |  |  |  |
 
 Of the events that comprised the primary efficacy endpoint, treatment with LIPITOR 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 6).
