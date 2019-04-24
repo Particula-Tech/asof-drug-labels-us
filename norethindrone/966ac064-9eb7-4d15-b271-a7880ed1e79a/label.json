@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020907"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1609-6",
+    "69238-1610-6"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "estradiol/norethindrone acetate",
+      "name": "LOPREEZA"
+    }
+  ],
+  "setid": "966ac064-9eb7-4d15-b271-a7880ed1e79a",
+  "source": "dailymed"
+}
