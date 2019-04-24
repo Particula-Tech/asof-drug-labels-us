@@ -20,10 +20,9 @@ Keep out of reach of children.
 
 Product of Ireland
 
-Capsule contents manufactured by: Janssen Pharmaceutica, N.V.
-Olen, Belgium
+Capsule contents manufactured by: Janssen Pharmaceutica, NV Olen, Belgium
 
-Manufactured by: JOLLC, Gurabo, Puerto Rico, 00778
+Manufactured by: JOLLC, Gurabo, Puerto Rico 00778
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
