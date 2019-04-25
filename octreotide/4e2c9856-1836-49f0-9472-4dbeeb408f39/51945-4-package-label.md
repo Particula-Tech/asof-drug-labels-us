@@ -4,9 +4,11 @@ Package Label – 50 mcg/mL
 
 Rx Only NDC 0078-0180-01
 
-Sandostatin® Injection
+Sandostatin®
 
 octreotide acetate
+
+INJECTION
 
 50 mcg/mL (0.05 mg/mL)
 
@@ -20,9 +22,11 @@ Package Label – 100 mcg/mL
 
 Rx Only NDC 0078-0181-01
 
-Sandostatin® Injection
+Sandostatin®
 
 octreotide acetate
+
+INJECTION
 
 100 mcg/mL (0.1 mg/mL)
 
@@ -36,9 +40,11 @@ Package Label – 500 mcg/mL
 
 Rx Only NDC 0078-0182-01
 
-Sandostatin® Injection
+Sandostatin®
 
 octreotide acetate
+
+INJECTION
 
 500 mcg/mL (0.5 mg/mL)
 
@@ -56,7 +62,7 @@ Sandostatin®
 
 octreotide acetate
 
-Injection
+INJECTION
 
 Total Volume 5 mL Multi-Dose Vial
 
@@ -74,7 +80,7 @@ Sandostatin®
 
 octreotide acetate
 
-Injection
+INJECTION
 
 1000 mcg/mL (1.0 mg/mL)
 

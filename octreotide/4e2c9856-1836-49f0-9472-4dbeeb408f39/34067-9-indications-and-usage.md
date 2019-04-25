@@ -13,9 +13,9 @@ Improvement in clinical signs and symptoms, or reduction in tumor size or rate o
 
 Sandostatin is indicated for the symptomatic treatment of patients with metastatic carcinoid tumors where it suppresses or inhibits the severe diarrhea and flushing episodes associated with the disease.
 
-Sandostatin studies were not designed to show an effect on the size, rate of growth or development of metastases.
+Sandostatin studies were not designed to show an effect on the size, rate of growth, or development of metastases.
 
 ## Vasoactive Intestinal Peptide Tumors (VIPomas)
 
 Sandostatin is indicated for the treatment of the profuse watery diarrhea associated with VIP-secreting tumors.
-Sandostatin studies were not designed to show an effect on the size, rate of growth or development of metastases.
+Sandostatin studies were not designed to show an effect on the size, rate of growth, or development of metastases.

@@ -17,10 +17,10 @@ Sandostatin suppresses secretion of thyroid stimulating hormone (TSH).
 
 After subcutaneous injection, octreotide is absorbed rapidly and completely from the injection site.
 Peak concentrations of 5.2 ng/mL (100-mcg dose) were reached 0.4 hours after dosing.
-Using a specific radioimmunoassay, intravenous and subcutaneous doses were found to be bioequivalent.
-Peak concentrations and area under the curve (AUC) values were dose proportional after intravenous single doses up to 200 mcg and subcutaneous single doses up to 500 mcg and after subcutaneous multiple doses up to 500 mcg three times a day (1500 mcg/day).
+Using a specific radioimmunoassay, IV and subcutaneous doses were found to be bioequivalent.
+Peak concentrations and area under the curve (AUC) values were dose proportional after IV single doses up to 200 mcg and subcutaneous single doses up to 500 mcg and after subcutaneous multiple doses up to 500 mcg 3 times a day (1500 mcg/day).
 
-In healthy volunteers, the distribution of octreotide from plasma was rapid (tα1/2 = 0.2 h), the volume of distribution (Vdss) was estimated to be 13.6 L, and the total body clearance ranged from 7 L/hr to 10 L/hr.
+In healthy volunteers, the distribution of octreotide from plasma was rapid (tα½ = 0.2 h), the volume of distribution (Vdss) was estimated to be 13.6 L, and the total body clearance ranged from 7 L/hr to 10 L/hr.
 In blood, the distribution into the erythrocytes was found to be negligible and about 65% was bound in the plasma in a concentration-independent manner.
 Binding was mainly to lipoprotein and, to a lesser extent, to albumin.
 

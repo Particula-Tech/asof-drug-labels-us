@@ -15,18 +15,18 @@ Sandostatin is stable in sterile isotonic saline solutions or sterile solutions 
 It may be diluted in volumes of 50-200 mL and infused intravenously over 15-30 minutes or administered by IV push over 3 minutes.
 In emergency situations (e.g., carcinoid crisis), it may be given by rapid bolus.
 
-The initial dosage is usually 50 mcg administered twice or three times daily.
+The initial dosage is usually 50 mcg administered twice or 3 times daily.
 Upward dose titration is frequently required.
 Dosage information for patients with specific tumors follows.
 
 ## Acromegaly
 
-Dosage may be initiated at 50 mcg three times a day.
+Dosage may be initiated at 50 mcg 3 times a day.
 Beginning with this low dose may permit adaptation to adverse gastrointestinal effects for patients who will require higher doses.
 IGF-I (somatomedin C) levels every 2 weeks can be used to guide titration.
 Alternatively, multiple growth hormone levels at 0-8 hours after Sandostatin® (octreotide acetate) administration permit more rapid titration of dose.
 The goal is to achieve growth hormone levels less than 5 ng/mL or IGF-I (somatomedin C) levels less than 1.9 unit/mL in males and less than 2.2 unit/mL in females.
-The dose most commonly found to be effective is 100 mcg three times a day, but some patients require up to 500 mcg three times a day for maximum effectiveness.
+The dose most commonly found to be effective is 100 mcg 3 times a day, but some patients require up to 500 mcg 3 times a day for maximum effectiveness.
 Doses greater than 300 mcg/day seldom result in additional biochemical benefit, and if an increase in dose fails to provide additional benefit, the dose should be reduced.
 IGF-I (somatomedin C) or growth hormone levels should be reevaluated at 6-month intervals.
 

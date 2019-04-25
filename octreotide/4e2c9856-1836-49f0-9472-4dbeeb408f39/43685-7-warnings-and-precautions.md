@@ -9,6 +9,9 @@ Like patients without gallbladder abnormalities, the majority of patients develo
 The symptoms were not specific for gallbladder disease.
 A few patients developed acute cholecystitis, ascending cholangitis, biliary obstruction, cholestatic hepatitis, or pancreatitis during Sandostatin therapy or following its withdrawal.
 One patient developed ascending cholangitis during Sandostatin therapy and died.
+There have been postmarketing reports of cholelithiasis (gallstones) resulting in complications requiring cholecystectomy.
+
+If complications of cholelithiasis are suspected, discontinue Sandostatin and treat appropriately.
 
 # PRECAUTIONS
 
@@ -18,13 +21,13 @@ Sandostatin® (octreotide acetate) alters the balance between the counter-regula
 Sandostatin also suppresses secretion of thyroid stimulating hormone, which may result in hypothyroidism.
 Cardiac conduction abnormalities have also occurred during treatment with Sandostatin.
 However, the incidence of these adverse events during long-term therapy was determined vigorously only in acromegaly patients who, due to their underlying disease and/or the subsequent treatment they receive, are at an increased risk for the development of diabetes mellitus, hypothyroidism, and cardiovascular disease.
-Although the degree to which these abnormalities are related to Sandostatin therapy is not clear, new abnormalities of glycemic control, thyroid function and ECG developed during Sandostatin therapy as described below.
+Although the degree to which these abnormalities are related to Sandostatin therapy is not clear, new abnormalities of glycemic control, thyroid function, and ECG developed during Sandostatin therapy as described below.
 
 Risk of Pregnancy with Normalization of IGF-1 and GH
 
 Although acromegaly may lead to infertility, there are reports of pregnancy in acromegalic women.
 In women with active acromegaly who have been unable to become pregnant, normalization of GH and IGF-1 may restore fertility.
-Female patients of childbearing potential should be advised to use adequate contraception during treatment with octreotide.
+Female patients of child-bearing potential should be advised to use adequate contraception during treatment with octreotide.
 
 The hypoglycemia or hyperglycemia which occurs during Sandostatin therapy is usually mild, but may result in overt diabetes mellitus or necessitate dose changes in insulin or other hypoglycemic agents.
 Hypoglycemia and hyperglycemia occurred on Sandostatin in 3% and 16% of acromegalic patients, respectively.
@@ -32,8 +35,8 @@ Severe hyperglycemia, subsequent pneumonia, and death following initiation of Sa
 
 In patients with concomitant Type I diabetes mellitus, Sandostatin Injection and Sandostatin LAR® Depot (octreotide acetate for injectable suspension) are likely to affect glucose regulation, and insulin requirements may be reduced.
 Symptomatic hypoglycemia, which may be severe, has been reported in these patients.
-In non-diabetics and Type II diabetics with partially intact insulin reserves, Sandostatin Injection or Sandostatin LAR Depot administration may result in decreases in plasma insulin levels and hyperglycemia.
-It is therefore recommended that glucose tolerance and antidiabetic treatment be periodically monitored during therapy with these drugs.
+In nondiabetics and Type II diabetics with partially intact insulin reserves, Sandostatin Injection or Sandostatin LAR Depot administration may result in decreases in plasma insulin levels and hyperglycemia.
+It is therefore recommended that glucose tolerance and anti-diabetic treatment be periodically monitored during therapy with these drugs.
 
 In acromegalic patients, 12% developed biochemical hypothyroidism only, 8% developed goiter, and 4% required initiation of thyroid replacement therapy while receiving Sandostatin.
 Baseline and periodic assessment of thyroid function (TSH, total and/or free T4) is recommended during chronic therapy.
@@ -56,6 +59,8 @@ Depressed vitamin B12 levels and abnormal Schilling’s tests have been observed
 ## Information for Patients
 
 Careful instruction in sterile subcutaneous injection technique should be given to the patients and to other persons who may administer Sandostatin Injection.
+Inform patients that cholelithiasis has been reported with the use of Sandostatin.
+Advise patients to contact their healthcare provider if they experience signs or symptoms of gallstones (cholelithiasis) or complications of gallstones (e.g., cholecystitis, cholangitis, and pancreatitis).
 
 ## Laboratory Tests
 
@@ -91,10 +96,10 @@ No known interference exists with clinical laboratory tests, including amine or 
 Studies in laboratory animals have demonstrated no mutagenic potential of Sandostatin.
 
 No carcinogenic potential was demonstrated in mice treated subcutaneously for 85-99 weeks at doses up to 2000 mcg/kg/day (8 x the human exposure based on body surface area).
-In a 116-week subcutaneous study in rats, a 27% and 12% incidence of injection site sarcomas or squamous cell carcinomas was observed in males and females, respectively, at the highest dose level of 1250 mcg/kg/day (10 x the human exposure based on body surface area) compared to an incidence of 8%-10% in the vehicle-control groups.
-The increased incidence of injection site tumors was most probably caused by irritation and the high sensitivity of the rat to repeated subcutaneous injections at the same site.
+In a 116-week subcutaneous study in rats, a 27% and 12% incidence of injection-site sarcomas or squamous cell carcinomas was observed in males and females, respectively, at the highest dose level of 1250 mcg/kg/day (10 x the human exposure based on body surface area) compared to an incidence of 8%-10% in the vehicle-control groups.
+The increased incidence of injection-site tumors was most probably caused by irritation and the high sensitivity of the rat to repeated subcutaneous injections at the same site.
 Rotating injection sites would prevent chronic irritation in humans.
-There have been no reports of injection site tumors in patients treated with Sandostatin for up to 5 years.
+There have been no reports of injection-site tumors in patients treated with Sandostatin for up to 5 years.
 There was also a 15% incidence of uterine adenocarcinomas in the 1250 mcg/kg/day females compared to 7% in the saline-control females and 0% in the vehicle-control females.
 The presence of endometritis coupled with the absence of corpora lutea, the reduction in mammary fibroadenomas, and the presence of uterine dilatation suggest that the uterine tumors were associated with estrogen dominance in the aged female rats which does not occur in humans.
 
@@ -118,11 +123,11 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 Safety and efficacy of Sandostatin Injection in the pediatric population have not been demonstrated.
 
 No formal controlled clinical trials have been performed to evaluate the safety and effectiveness of Sandostatin in pediatric patients under age 6 years.
-In post-marketing reports, serious adverse events, including hypoxia, necrotizing enterocolitis, and death, have been reported with Sandostatin use in children, most notably in children under 2 years of age.
+In postmarketing reports, serious adverse events, including hypoxia, necrotizing enterocolitis, and death, have been reported with Sandostatin use in children, most notably in children under 2 years of age.
 The relationship of these events to octreotide has not been established as the majority of these pediatric patients had serious underlying co-morbid conditions.
 
-The efficacy and safety of Sandostatin using the Sandostatin LAR Depot formulation was examined in a single randomized, double-blind, placebo-controlled, six month pharmacokinetics study in 60 pediatric patient's age 6-17 years with hypothalamic obesity resulting from cranial insult.
-The mean octreotide concentration after 6 doses of 40 mg Sandostatin LAR Depot administered by IM injection every four weeks was approximately 3 ng/ml.
+The efficacy and safety of Sandostatin using the Sandostatin LAR Depot formulation was examined in a single randomized, double-blind, placebo-controlled, 6 month pharmacokinetics study in 60 pediatric patient's age 6-17 years with hypothalamic obesity resulting from cranial insult.
+The mean octreotide concentration after 6 doses of 40 mg Sandostatin LAR Depot administered by intramuscular (IM) injection every 4 weeks was approximately 3 ng/mL.
 Steady-state concentrations was achieved after 3 injections of a 40 mg dose.
 Mean BMI increased 0.1 kg/m2 in Sandostatin LAR Depot-treated subjects compared to 0.0 kg/m2 in saline control-treated subjects.
 Efficacy was not demonstrated.
