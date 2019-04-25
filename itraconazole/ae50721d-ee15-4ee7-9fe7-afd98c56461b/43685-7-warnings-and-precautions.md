@@ -133,15 +133,15 @@ Table 1: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentr
 | Digoxin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
 | BedaquilineBased on 400 mg bedaquiline once daily for 2 weeks. |  | Concomitant SPORANOX® not recommended for more than 2 weeks at any time during bedaquiline treatment. |
-| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 4. |
-| Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 4. |
+| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 2. |
+| Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 2. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Anticoagulants and Antiplatelets |  |  |
 | Ticagrelor |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
 | Apixaban Rivaroxaban Vorapaxar |  | Not recommended during and 2 weeks after SPORANOX® treatment. |
 | Cilostazol Dabigatran Warfarin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Anticonvulsants |  |  |
-| Carbamazepine |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 4. |
+| Carbamazepine |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 2. |
 | Antidiabetic Drugs |  |  |
 | Repaglinide Saxagliptin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antihelminthics, Antifungals and Antiprotozoals |  |  |
@@ -154,14 +154,14 @@ Table 1: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentr
 | Antineoplastics |  |  |
 | Irinotecan |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
 | Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib | Docetaxel Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab-emtansine Vinca alkaloids | Not recommended during and 2 weeks after SPORANOX® treatment. |
-| Bortezomib Brentuximab-vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib: see also Table 4. |
+| Bortezomib Brentuximab-vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib: see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
 | Alprazolam Aripiprazole Buspirone Cariprazine Diazepam Haloperidol | Midazolam (IV) Quetiapine Ramelteon Risperidone Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Zopiclone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lurasidone Midazolam (oral) Pimozide Triazolam |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
 | Antivirals |  |  |
 | Simeprevir |  | Not recommended during and 2 weeks after SPORANOX® treatment. |
-| Daclatasvir Indinavir Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir: see also Table 4. |
+| Daclatasvir Indinavir Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir: see also Table 2. |
 | Cobicistat Elvitegravir (ritonavir-boosted) Ombitasvir/Paritaprevir/Ritonavir with or without Dasabuvir Ritonavir Saquinavir (unboosted) |  | Monitor for adverse reactions. |
 | Elbasvir/grazoprevir |  | Not recommended during and 2 weeks after SPORANOX® treatment. |
 | Glecaprevir/pibrentasvir Tenofovir disoproxil fumarate |  | Monitor for adverse reactions. Monitor for adverse reactions. |
@@ -169,7 +169,7 @@ Table 1: Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentr
 | Nadolol |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Calcium Channel Blockers |  |  |
 | Felodipine Nisoldipine |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
-| Diltiazem Other dihydropyridines Verapamil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For diltiazem: see also Table 4. |
+| Diltiazem Other dihydropyridines Verapamil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For diltiazem: see also Table 2. |
 | Cardiovascular Drugs, Miscellaneous |  |  |
 | Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
 | Aliskiren Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after SPORANOX® treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
@@ -235,18 +235,18 @@ Drug Interactions with Other Drugs that Affect SPORANOX® Concentrations
 | Antibacterials |  |
 | CiprofloxacinBased on clinical drug interaction information with itraconazole. Erythromycin Clarithromycin | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. |
 | Antineoplastics |  |
-| Idelalisib | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. See also Table 3. |
+| Idelalisib | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. See also Table 1. |
 | Antivirals |  |
-| Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavir Ombitasvir/ Paritaprevir/ Ritonavir with or without Dasabuvir Ritonavir Saquinavir | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. For Boceprevir, cobicistat, elvitegravir, indinavir, ombitasvir/ paritaprevir/ ritonavir with or without dasabuvir, ritonavir and saquinavir, see also Table 3. |
+| Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavir Ombitasvir/ Paritaprevir/ Ritonavir with or without Dasabuvir Ritonavir Saquinavir | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. For Boceprevir, cobicistat, elvitegravir, indinavir, ombitasvir/ paritaprevir/ ritonavir with or without dasabuvir, ritonavir and saquinavir, see also Table 1. |
 | Calcium Channel Blockers |  |
 | Diltiazem | Monitor for adverse reactions. SPORANOX® dose reduction may be necessary. See also the table above. |
 | Drug Interactions with Other Drugs that Decrease SPORANOX® Concentrations and May Reduce Efficacy of SPORANOX® |  |
 | Antibacterials |  |
 | Isoniazid Rifampicin | Not recommended 2 weeks before and during SPORANOX® treatment. |
-| Rifabutin | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 3. |
+| Rifabutin | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 1. |
 | Anticonvulsants |  |
 | Phenobarbital Phenytoin | Not recommended 2 weeks before and during SPORANOX® treatment. |
-| Carbamazepine | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 3. |
+| Carbamazepine | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX® treatment. See also Table 1. |
 | Antivirals |  |
 | Efavirenz Nevirapine | Not recommended 2 weeks before and during SPORANOX® treatment. |
 | Miscellaneous Drugs and Other Substances |  |
