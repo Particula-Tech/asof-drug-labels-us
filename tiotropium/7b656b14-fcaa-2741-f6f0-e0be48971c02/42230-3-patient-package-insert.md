@@ -89,4 +89,4 @@ SPIRIVA® and RESPIMAT® are registered trademarks and are used under license fr
 
 Copyright © 2019 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: February 2019 IT5904IB252019
+Revised: March 2019 IT8354AB262019

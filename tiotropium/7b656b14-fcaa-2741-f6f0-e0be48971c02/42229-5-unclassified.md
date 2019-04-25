@@ -8,4 +8,4 @@ SPIRIVA®, HANDIHALER®, and RESPIMAT® are registered trademarks and are used u
 
 Copyright © 2019 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5904IB252019
+IT8354AB262019
