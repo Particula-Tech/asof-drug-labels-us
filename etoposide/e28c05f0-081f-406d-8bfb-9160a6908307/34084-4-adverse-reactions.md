@@ -2,9 +2,9 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- Myelosuppression [see Warnings and Precautions (5.1)]
-- Secondary leukemias [see Warnings and Precautions (5.2)]
-- Hypersensitivity reactions [see Warnings and Precautions (5.3)]
+- •Myelosuppression [see Warnings and Precautions (5.1)]
+- •Secondary leukemias [see Warnings and Precautions (5.2)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -13,20 +13,38 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ETOPOPHOS has been used as a single agent in clinical studies involving 206 patients with a variety of malignancies (including one non-Hodgkin’s lymphoma) and in combination with cisplatin in 60 patients with small cell lung cancer.
 The most common adverse reaction was neutropenia.
 
-Other Important Adverse Reactions Gastrointestinal Toxicity Nausea and vomiting are the major gastrointestinal toxicities.
+Other Important Adverse Reactions
+
+Gastrointestinal Toxicity
+
+Nausea and vomiting are the major gastrointestinal toxicities.
 The severity of nausea and vomiting is generally mild to moderate, with treatment discontinuation required in 1% of patients.
 Nausea and vomiting are managed with standard antiemetic therapy.
 
-Other Toxicities Other clinically important adverse reactions in clinical trials were: Gastrointestinal: abdominal pain, constipation, dysphagia General: fever Ocular: transient cortical blindness, optic neuritis Respiratory: interstitial pneumonitis/pulmonary fibrosis Skin: pigmentation, radiation recall dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis Neurologic: seizure, aftertaste Hepatobiliary disorder: hepatotoxicity
+Other Toxicities
+
+Other clinically important adverse reactions in clinical trials were:
+
+Gastrointestinal: abdominal pain, constipation, dysphagia
+
+General: fever
+
+Ocular: transient cortical blindness, optic neuritis
+
+Respiratory: interstitial pneumonitis/pulmonary fibrosis
+
+Skin: pigmentation, radiation recall dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis
+
+Neurologic: seizure, aftertaste
+
+Hepatobiliary disorder: hepatotoxicity
 
 ## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of ETOPOPHOS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Extravasation Extravasation, resulting in local soft tissue toxicity, was identified in postmarketing reports.
+Extravasation
+
+Extravasation, resulting in local soft tissue toxicity, was identified in postmarketing reports.
 Extravasation of ETOPOPHOS may result in swelling, pain, cellulitis, and necrosis including skin necrosis.
-
-Renal Failure
-
-Reversible acute renal failure has been reported in postmarketing experience [Warning and Precautions (5.5)]​​​
