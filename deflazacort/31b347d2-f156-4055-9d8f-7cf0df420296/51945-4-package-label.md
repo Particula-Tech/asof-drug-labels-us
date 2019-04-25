@@ -37,3 +37,11 @@ NDC 52856-505-21 13 mL Emflaza™ (deflazacort) Oral Suspension Rx only 22.75 mg
 # PRINCIPAL DISPLAY PANEL - NDC: 52856-505-21 - 22.75 mg/mL Oral Suspension 13 mL Carton Label
 
 NDC 52856-505-21 13 mL Emflaza™ (deflazacort) Oral Suspension 22.75 mg/mL For Oral Administration Only Rx only
+
+# PRINCIPAL DISPLAY PANEL - NDC: 52856-505-22 - 22.75 mg/mL Oral Suspension 13 mL Bottle Label
+
+NDC 52856-505-22 13 mL Emflaza® (deflazacort) Oral Suspension Rx only 22.75 mg/mL For Oral Administration Only
+
+# PRINCIPAL DISPLAY PANEL - NDC: 52856-505-22 - 22.75 mg/mL Oral Suspension 13 mL Carton Label
+
+NDC 52856-505-22 13 mL Emflaza® (deflazacort) Oral Suspension 22.75 mg/mL For Oral Administration Only Rx only

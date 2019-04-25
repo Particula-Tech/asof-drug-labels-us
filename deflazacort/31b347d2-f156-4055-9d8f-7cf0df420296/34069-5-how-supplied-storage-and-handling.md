@@ -16,8 +16,8 @@ EMFLAZA Tablets
 EMFLAZA Oral Suspension
 
 - 22.75 mg/mL is a whitish colored suspension.
-  Supplied as 13 mL in a 20 mL bottle packaged with two 1 mL oral dispensers.
-  NDC 52856-505-21
+  Supplied as 13 mL in a 30 mL bottle packaged with one bottle adapter and two 1 mL oral dispensers.
+  NDC 52856-505-22
 
 ## 16.2 Storage and Handling
 

@@ -18,16 +18,17 @@ Preparing for your EMFLAZA oral suspension dose:
 You will need the following supplies: See Figure A.
 
 - 1 EMFLAZA oral suspension bottle
-- 1 oral dispenser (Two oral dispensers are included in the EMFLAZA oral suspension carton.
-  One is to be used to give [administer] the product and one extra oral dispenser is included as a spare, if needed.)
+- 1 oral dispenser (2 oral dispensers are included in the EMFLAZA oral suspension carton.
+  1 is to be used to give (administer) the product and 1 extra oral dispenser is included as a spare, if needed.)
 - 1 household cup filled with 3 to 4 ounces of juice or milk
+- 1 spoon
 
 Figure A
 
 How to prepare your dose of EMFLAZA oral suspension:
 
 Step 1.
-Remove the EMFLAZA oral suspension bottle and one of the oral dispensers from the carton.
+Remove the EMFLAZA oral suspension bottle and 1 of the oral dispensers from the carton.
 
 Step 2.
 Make sure the bottle cap is put on tightly and shake well before each use.
@@ -36,59 +37,87 @@ See Figure B.
 Figure B
 
 Step 3.
-Remove the cap from the bottle.
-
-Step 4.
-Check your dose in milliliters (mL) as prescribed by your healthcare provider.
-Find this number on the barrel of the oral dispenser.
-See Figure C.
+Remove the cap from the bottle by pushing down firmly on the cap and turning the cap in a counter-clockwise direction (to the left).
+See Figure C. Place the open bottle upright on a flat surface.
 
 Figure C
+
+First time use of bottle only: Unwrap the bottle adapter.
+Place the ribbed end of the bottle adapter in the bottle top.
+Wrap both hands around the bottle.
+Press down on the bottle adapter using both thumbs.
+Push the ribbed end of the bottle adapter firmly into the neck of the bottle until the adapter top is even with the bottle top.
+See Figure D. Do not remove the bottle adapter from the bottle after it is inserted.
+Write the date that you first open the bottle on the bottle label.
+
+Figure D
+
+Step 4.
+Unwrap the oral dispenser if it is the first time you are using the oral dispenser.
+Check your dose in milliliters (mL) as prescribed by your healthcare provider.
+Find this number on the barrel of the oral dispenser.
+See Figure E.
+
+Figure E
 
 The oral dispenser only holds 1 mL of medicine at a time.
 If your dose is more than 1 mL, you will need to repeat Steps 5 through 8 using the same oral dispenser until your entire dose has been drawn from the bottle.
 
 Step 5.
-Push the plunger on the oral dispenser all the way down.
-Insert the oral dispenser into the upright bottle.
-See Figure D.
-
-Figure D
-
-Step 6.
-With the oral dispenser in the bottle, pull the plunger to the number of mL needed.
-See Figure E. Measure the medicine in mLs using the widest part of the plunger with the lines marked on the outside of the oral dispenser.
-Do not use the narrow tip on the end of the plunger to measure the dose.
-
-Figure E
-
-Step 7.
-Remove the oral dispenser from the bottle.
-
-Step 8.
-Slowly push the plunger on the oral dispenser to add the EMFLAZA oral suspension dose to a household cup filled with 3 to 4 ounces of juice or milk, and mix well.
+Push the plunger of the oral dispenser all the way down.
+Insert the oral dispenser into the bottle adapter.
 See Figure F.
 
 Figure F
 
-Step 9.
-Immediately drink the juice or milk that is mixed with EMFLAZA oral suspension.
+Step 6.
+With the oral dispenser in the bottle adapter, carefully turn the bottle upside down.
+Slowly pull back on the plunger until the widest part of the plunger is at the line marking on the oral dispenser of the number of mL needed for your dose.
+See Figure G. Do not use the narrow tip on the end of the plunger to measure the dose.
 
-Step 10.
-Replace the cap tightly on the bottle.
-See Figure G.
+If you see air bubbles in the oral suspension, fully push in the plunger so the oral suspension flows back into the bottle.
+Then withdraw the dose of oral suspension that you need.
 
 Figure G
 
-Step 11.
-Wash the oral dispenser after each use.
-The oral dispenser should be pulled apart by pulling back on the plunger and removing it from the barrel of the oral dispenser.
+Step 7.
+Leave the oral dispenser in the bottle adapter and turn the bottle to an upright position.
+Place the bottle onto a flat surface.
+Remove the oral dispenser from the bottle adapter by gently twisting the oral dispenser while pulling it straight up.
 See Figure H.
 
 Figure H
 
+Step 8.
+Slowly push all the way down on the plunger of the oral dispenser to add the EMFLAZA oral suspension dose to a household cup filled with 3 to 4 ounces of juice or milk.
+See Figure I.
+
+Figure I
+
+Step 9.
+Stir the EMFLAZA oral suspension and juice or milk with a spoon to mix well.
+See Figure J.
+
+Figure J
+
+Step 10.
+Immediately drink the juice or milk that is mixed with EMFLAZA oral suspension.
+
+Step 11.
+Replace the cap tightly on the bottle by turning the cap in a clockwise direction (to the right).
+See Figure K.
+
+Figure K
+
 Step 12.
-After the barrel and plunger are dry, put it back together by pushing the plunger back into the barrel.
+Wash the oral dispenser after each use.
+The oral dispenser should be taken apart by pulling back on the plunger and removing it from the barrel of the oral dispenser.
+See Figure L.
+
+Figure L
+
+Step 13.
+After the barrel and plunger are dry, put the oral dispenser back together by pushing the plunger back into the barrel.
 
 How should I store EMFLAZA oral suspension?
 
@@ -96,11 +125,11 @@ How should I store EMFLAZA oral suspension?
 - Throw away (discard) any unused EMFLAZA oral suspension after 1 month of first opening the bottle.
 
 What are the ingredients in EMFLAZA oral suspension?
-Active ingredient: deflazacort (a corticosteroid) Inactive ingredients: acetic acid, aluminum magnesium silicate, benzyl alcohol, carboxymethylcellulose sodium, polysorbate 80, purified water, and sorbitol.
+Active ingredient: deflazacort Inactive ingredients: acetic acid, aluminum magnesium silicate, benzyl alcohol, carboxymethylcellulose sodium, polysorbate 80, purified water, and sorbitol.
 
 Manufactured for: PTC Therapeutics, Inc., South Plainfield, NJ 07080, U.S.A.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 EMFLAZA™ is a trademark of PTC Therapeutics, Inc.
 
-Issued: 06/2017
+Issued: April 2019

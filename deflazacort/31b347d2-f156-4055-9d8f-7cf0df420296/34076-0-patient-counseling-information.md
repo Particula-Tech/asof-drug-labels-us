@@ -46,7 +46,7 @@ Manufactured for: PTC Therapeutics, Inc. South Plainfield, NJ 07080 U.S.A.
 
 EMFLAZA Oral Suspension made in Spain
 
-EMFLAZA™ is a trademark of PTC Therapeutics, Inc.
+EMFLAZA® is a trademark of PTC Therapeutics, Inc.
 
-Jun.
-2017
+Apr.
+2019
