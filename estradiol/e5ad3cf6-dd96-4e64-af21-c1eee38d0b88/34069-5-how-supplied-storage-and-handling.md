@@ -2,14 +2,8 @@
 
 ## 16.1 How Supplied
 
-Each Vagifem (estradiol vaginal inserts), 10 mcg and 25 mcg, is contained in a disposable, single-use applicator, packaged in a blister pack.
+Each Vagifem (estradiol vaginal inserts), 10 mcg, is contained in a disposable, single-use applicator, packaged in a blister pack.
 Cartons contain 8 or 18 applicators with inset inserts.
-
-Vagifem 25 mcg
-
-8 applicators: NDC 0169-5173-03
-
-18 applicators: NDC 0169-5173-04
 
 Vagifem 10 mcg
 
@@ -17,7 +11,7 @@ Vagifem 10 mcg
 
 18 applicators: NDC 0169-5176-04
 
-Keep out of reach of children
+Keep out of reach of children.
 
 ## 16.2 Storage and Handling
 

@@ -27,9 +27,9 @@ Absorption
 Estrogen drug products are well absorbed through the skin, mucous membranes, and the gastrointestinal tract.
 The vaginal delivery of estrogens circumvents first-pass metabolism.
 
-In a single-center, randomized, open-label, multiple-dose, parallel group study conducted in 58 patients, Vagifem 10 mcg and 25 mcg demonstrated a mean estradiol (E2) Cave at Day 83 of 5.5 pg/mL and 11.59 pg/mL, respectively after 12 weeks of treatment (see Tables 3 and 4).
+In a single-center, randomized, open-label, multiple-dose study conducted in 29 patients, Vagifem 10 mcg demonstrated a mean estradiol (E2) Cave at Day 83 of 5.5 pg/mL after 12 weeks of treatment (see Table 2).
 
-Table 3: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple DosesPatients received vaginal inserts as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal maintenance for the following 10 weeks. of Vagifem 10 mcg
+Table 2: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple DosesPatients received vaginal inserts as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal maintenance for the following 10 weeks. of Vagifem 10 mcg
 
 | Uncorrected for baseline, N=29 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,16 +38,6 @@ Table 3: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (
 | Day 1 | 242.08 | 10.09 | 33.02 | 485.21 | 20.22 | 44.86 | 5158.32 | 214.93 | 53.57 |
 | Day 14 | 176.49 | 7.35 | 43.69 | 496.14 | 20.67 | 30.88 | 6323.41 | 263.48 | 50.07 |
 | Day 83 | 132.04 | 5.50 | 59.69 | 411.08 | 17.13 | 39.58 | 3804.65 | 158.53 | 49.76 |
-
-Table 4: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple DosesPatients received vaginal inserts as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal maintenance for the following 10 weeks. of Vagifem 25 mcg
-
-| Uncorrected for baseline, NN=28 for treatment before Day 14 and N=27 for treatments from Day 14.=28 or 27 |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | E2 |  |  | E1 |  |  | E1S |  |  |
-|  | AUC0-24(h.pg/mL) | Cave (0-24)(pg/mL) | %CVCV: Coefficient of Variance for both AUC0-24 and Cave(0-24) | AUC0-24(h.pg/mL) | Cave (0-24)(pg/mL) | %CV | AUC0-24(h.pg/mL) | Cave (0-24)(pg/mL) | %CV |
-| Day 1 | 495.27 | 20.64 | 25.70 | 567.07 | 23.63 | 28.96 | 5738.32 | 239.10 | 47.72 |
-| Day 14 | 466.63 | 19.44 | 33.53 | 662.94 | 27.62 | 24.36 | 7725.90 | 321.91 | 43.67 |
-| Day 83 | 278.27 | 11.59 | 61.83 | 500.06 | 20.84 | 34.99 | 4110.84 | 171.29 | 51.38 |
 
 Distribution
 

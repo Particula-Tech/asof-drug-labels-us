@@ -1,8 +1,7 @@
 # 11 DESCRIPTION
 
 Vagifem 10 mcg (estradiol vaginal inserts) are small, white, film-coated inserts containing 10.3 mcg of estradiol hemihydrate equivalent to 10 mcg of estradiol.
-Vagifem 25 mcg (estradiol vaginal inserts) are small, white, film-coated inserts containing 25.8 mcg of estradiol hemihydrate equivalent to 25 mcg of estradiol.
-Each insert of Vagifem 10 mcg and 25 mcg contains the following excipients: hypromellose, lactose monohydrate, maize starch and magnesium stearate.
+Each insert of Vagifem 10 mcg contains the following excipients: hypromellose, lactose monohydrate, maize starch and magnesium stearate.
 The film coating contains hypromellose and polyethylene glycol.
 Each Vagifem insert is 6 mm in diameter and is placed in a disposable applicator.
 Each insert-filled applicator is packaged separately in a blister pack.

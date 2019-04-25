@@ -11,4 +11,3 @@ Postmenopausal women should be re-evaluated periodically as clinically appropria
 ## 2.1 Treatment of Atrophic Vaginitis due to Menopause
 
 Vagifem should be administered intravaginally using the supplied applicator: 1 insert daily for 2 weeks, followed by 1 insert twice weekly (for example, Tuesday and Friday).
-Generally, women should be started at the 10 mcg dosage strength.

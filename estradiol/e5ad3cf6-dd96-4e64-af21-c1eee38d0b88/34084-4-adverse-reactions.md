@@ -26,55 +26,79 @@ Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 5 P
 | Vulvovaginal Pruritus | 2 (2) | 16 (8) |
 | N = Total number of women in study.n = Number of women who experienced adverse reactions. |  |  |
 
-In a 12-week, randomized, double-blind, placebo-controlled study, 138 postmenopausal women were randomized to receive either placebo or Vagifem 25 mcg inserts.
-Adverse reactions with an incidence of ≥5 percent in the Vagifem 25 mcg group and greater than those reported in the placebo group are listed in Table 2.
-
-Table 2: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 5 Percent in Women Receiving Vagifem 25 mcg
-
-| Body System Adverse Reaction | TreatmentNumber (%) of Women |  |
-| --- | --- | --- |
-|  | PlaceboN = 47n (%) | VagifemN = 91n (%) |
-| Body As A Whole |  |  |
-| Headache | 3 (6) | 8 (9) |
-| Abdominal Pain | 2 (4) | 6 (7) |
-| Back Pain | 3 (6) | 6 (7) |
-| Respiratory System |  |  |
-| Upper Respiratory Tract Infection | 2 (4) | 5 (5) |
-| Urogenital System |  |  |
-| Moniliasis Genital | 1 (2) | 5 (5) |
-| N = Total number of women in study.n = Number of women who experienced adverse reactions. |  |  |
-
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Vagifem 25 mcg.
+The following adverse reactions have been identified during post-approval use of Vagifem 10 mcg.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Genitourinary System
-
-Endometrial cancer, endometrial hyperplasia, vaginal irritation, vaginal pain, vaginismus, vaginal ulceration
-
-Breast
-
-Breast cancer
-
-Cardiovascular
-
-Deep vein thrombosis
-
-Gastrointestinal
+Gastrointestinal disorders
 
 Diarrhea
 
-Skin
+General disorders and administration site conditions
 
-Urticaria, erythematous or pruritic rash, genital pruritus
+Drug ineffective
+
+Immune system disorders
+
+Hypersensitivity
+
+Investigations
+
+Blood estrogen increased
+
+Weight increased
+
+Metabolism and nutrition disorders
+
+Fluid retention
+
+Neoplasms benign and malignant
+
+Breast cancer
+
+Endometrial cancer
+
+Psychiatric disorders
+
+Depression
+
+Insomnia
 
 Central Nervous System
 
-Aggravated migraine, depression, insomnia
+Aggravated migraine
 
-Miscellaneous
+Reproductive system and breast disorders
 
-Fluid retention, weight increase, drug ineffectiveness, hypersensitivity, blood estrogen increase
+Endometrial hyperplasia
+
+Vulvovaginal burning sensation
+
+Vulvovaginal pain
+
+Genital pruritus
+
+Vulvovaginal rash
+
+Vulvovaginal swelling
+
+Vaginismus
+
+Vaginal ulceration
+
+Skin and subcutaneous tissue disorders
+
+Rash
+
+Rash erythematous
+
+Rash pruritic
+
+Urticaria
+
+Vascular disorders
+
+Deep vein thrombosis
 
 Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.

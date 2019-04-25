@@ -2,8 +2,6 @@
 
 ## 14.1 Effects on Atrophic Vaginitis
 
-Vagifem 10 mcg
-
 A 12-month double-blind, randomized, parallel group, placebo-controlled multicenter study was conducted in the U.S. and Canada to evaluate the efficacy and safety of Vagifem 10 mcg in the treatment of atrophic vaginitis in 309 postmenopausal women between 46 and 81 years of age (mean 57.6 years of age) who at baseline identified their most bothersome symptom of atrophic vaginitis from among six symptoms (vaginal dryness, vaginal and/or vulvar irritation/itching, vaginal soreness, dysuria, dyspareunia and vaginal bleeding associated with intercourse).
 Women inserted one insert intravaginally each day for 14 days, then one insert twice weekly for the remaining 50 weeks.
 The majority (92.9 percent) of the women were Caucasian (n=287), 3.2 percent were Black (n=10), 1.6 percent were Asian (n=5) and 2.2 percent were Other (n=7).
@@ -11,9 +9,9 @@ All subjects were assessed for improvement in the mean change from baseline to W
 
 Relief of Vaginal Symptoms
 
-Vagifem 10 mcg was statistically superior to placebo in reducing the severity of a composite score of most bothersome symptoms associated with atrophic vaginitis at Week 12 (see Table 5).
+Vagifem 10 mcg was statistically superior to placebo in reducing the severity of a composite score of most bothersome symptoms associated with atrophic vaginitis at Week 12 (see Table 3).
 
-Table 5: Mean Change from Baseline to Week 12 in a Composite Score of Most Bothersome Symptoms Compared to Placebo – ITT PopulationAll randomized subjects who received at least one dose of study drug and had at least one post-baseline evaluation.
+Table 3: Mean Change from Baseline to Week 12 in a Composite Score of Most Bothersome Symptoms Compared to Placebo – ITT PopulationAll randomized subjects who received at least one dose of study drug and had at least one post-baseline evaluation.
 
 |  | Placebo | Vagifem 10 mcg |
 | --- | --- | --- |
@@ -35,37 +33,6 @@ Of the 297 subjects who had a biopsy performed at end of study, 183 subjects had
 There was one case of complex hyperplasia without atypia.
 Two subjects exhibited polyps.
 
-Vagifem 25 mcg
-
-A placebo-controlled comparison study was done in the U.S., in which 230 women were randomized to receive either placebo, Vagifem 25 mcg or 10 mcg estradiol vaginal inserts.
-Women inserted one insert intravaginally each day for 14 days, then one insert twice weekly for the remaining 10 weeks.
-All subjects were assessed for vaginal symptoms.
-Vagifem 25 mcg was superior to placebo in reducing the severity of a composite score of symptoms associated with atrophic vaginitis (see Table 6).
-
-An open-label, controlled comparison study was done in Canada in which 159 women were randomized to receive either Vagifem 25 mcg or a comparator drug.
-Two (2) grams of the comparator drug was given daily for 3 weeks, withheld for 1 week, then repeated cyclically (3 weeks on, 1 week off) for up to 24 weeks; Vagifem 25 mcg was administered daily for 2 weeks, then twice weekly for the remaining 22 weeks.
-In this study, subjects were assessed for relief of symptoms.
-Vagifem 25 mcg was equally effective as the approved comparator product at the 2.0 gm dose in the relief of symptoms.
-
-Table 6: Mean Change from Baseline to Week 7 and Week 12 in a Composite Score of Symptoms Compared to Placebo – ITT PopulationAll randomized subjects who received at least one dose of study drug and had at least one post-baseline evaluation.
-
-|  | Placebo | Vagifem 25 mcg |
-| --- | --- | --- |
-| ITT Population |  |  |
-| N | 47 | 91 |
-| Baseline mean | 1.93 | 1.85 |
-| Change from baseline at Week 7 (LOCF) | -0.85 | -1.22 |
-| Change from baseline at Week 12 (LOCF) | -0.83 | -1.33 |
-| p-value versus Placebo – Week 7 (LOCF) | --- | 0.016 |
-| p-value versus Placebo – Week 12 (LOCF) | --- | 0.005 |
-
-In the placebo-controlled study endometrial biopsies in non-hysterectomized women at week 12 were performed on 86 subjects (Vagifem 25 mcg: 32 subjects, estradiol 10 mcg: 33 subjects, Placebo: 21 subjects).
-Of these, 3 subjects each from the Vagifem 25 mcg and placebo groups and 8 from the 10 mcg estradiol group had insufficient tissue samples.
-Among those with biopsies that yielded sufficient tissue, results were normal with the exception of one subject in the Vagifem 25 mcg group, who had a simple hyperplasia without atypia.
-
-In the open-label study comparing Vagifem 25 mcg with a comparator vaginal cream on 49 women in each treatment group, endometrial biopsies were obtained at the screening visit and at the end of treatment.
-At the end of the study (Week 24), all subjects in the Vagifem treatment group whose biopsies yielded sufficient tissue showed an atrophic endometrium with the exception of one subject who had a proliferative endometrium.
-
 ## 14.2 Women’s Health Initiative Studies
 
 The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
@@ -77,9 +44,9 @@ WHI Estrogen-Alone Substudy
 
 The WHI estrogen-alone substudy was stopped early because an increased risk of stroke was observed, and it was deemed that no further information would be obtained regarding the risks and benefits of estrogen-alone in predetermined primary endpoints.
 
-Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other) after an average follow-up of 7.1 years, are presented in Table 7.
+Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other) after an average follow-up of 7.1 years, are presented in Table 4.
 
-Table 7: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
+Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
 | Event | Relative RiskCE vs. Placebo(95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CEn=5,310 | Placebon=5,429 |
@@ -119,10 +86,10 @@ The absolute excess risk of events included in the “global index” was 19 per
 
 For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 
-Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 8.
+Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 5.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-Table 8: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
+Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
 
 | Event | Relative RiskCE/MPA vs Placebo(95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPAn=8,506 | Placebon=8,102 |

@@ -172,9 +172,9 @@ Do not refrigerate.
 
 Vagifem® is a registered trademark owned by Novo Nordisk Health Care AG.
 
-© 2003-2017 Novo Nordisk
+© 2003-2019 Novo Nordisk
 
-Date of Issue: 11/2017
+Date of Issue: 04/19
 
 For information contact:
 
