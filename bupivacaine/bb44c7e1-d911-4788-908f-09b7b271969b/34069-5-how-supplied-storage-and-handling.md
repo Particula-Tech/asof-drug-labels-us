@@ -22,8 +22,8 @@ Do not use the solution if its color is pinkish or darker than slightly yellow o
 
 For single-dose vials: Discard the unused portion.
 
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA NOVAPLUS is a registered trademark of Vizient, Inc.
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-1180-2.0
+LAB-1180-3.0
 
-Revised: 03/2019
+Revised: 04/2019
