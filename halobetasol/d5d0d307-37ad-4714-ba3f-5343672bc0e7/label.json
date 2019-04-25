@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA210566"
+  ],
+  "inn": "halobetasol",
+  "labeler": "Mayne Pharma",
+  "package_ndcs": [
+    "51862-604-02",
+    "51862-604-33",
+    "51862-604-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "halobetasol propionate",
+      "name": "LEXETTE"
+    }
+  ],
+  "setid": "d5d0d307-37ad-4714-ba3f-5343672bc0e7",
+  "source": "dailymed"
+}
