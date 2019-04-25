@@ -16,11 +16,11 @@ Store between 20°C-25°C (68°F-77°F); excursions permitted between 15°C-30°
 
 Do not refrigerate.
 
-Keep the bottle in the outer carton when not in use.
+Keep the bottle in the carton when not in use.
 Unused product should be discarded six months after the bottle has been opened.
 
 ## 16.3 Handling
 
 Shake before use.
 
-Keep out of reach of children
+Keep out of reach of children.

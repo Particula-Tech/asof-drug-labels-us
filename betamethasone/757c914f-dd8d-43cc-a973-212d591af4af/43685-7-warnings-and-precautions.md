@@ -7,7 +7,7 @@ If hypercalcemia or hypercalciuria develop, discontinue treatment until paramete
 The incidence of hypercalcemia and hypercalciuria following Taclonex® Topical Suspension treatment of more than 8 weeks has not been evaluated.
 [See Clinical Pharmacology (12.2)]
 
-## 5.2 Effect on Endocrine System
+## 5.2 Effects on Endocrine System
 
 Taclonex® Topical Suspension can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency.
 This may occur during treatment or upon withdrawal of treatment.
@@ -48,6 +48,6 @@ Such an observation should be corroborated with appropriate diagnostic patch tes
 Avoid eye exposures.
 Taclonex® Topical Suspension may cause eye irritation.
 
-## 5.6 Risk of Ultraviolet Light Exposures
+## 5.6 Risks of Ultraviolet Light Exposures
 
 Patients who apply Taclonex® Topical Suspension to exposed skin should avoid excessive exposure to either natural or artificial sunlight, including tanning booths, sun lamps, etc. Physicians may wish to limit or avoid use of phototherapy in patients who use Taclonex® Topical Suspension.

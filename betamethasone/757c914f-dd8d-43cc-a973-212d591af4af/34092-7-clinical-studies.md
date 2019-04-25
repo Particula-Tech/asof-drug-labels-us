@@ -16,15 +16,15 @@ Table 2 contains the response rates in each of these 2 trials.
 
 Table 2
 
-| Percentage of Patients with Clear or Almost Clear DiseaseAccording to the Investigator’s Global Assessment of Disease Severity in Trials on Scalp |  |  |  |  |
+| Percentage of Patients with Clear or Almost Clear DiseaseAccording to the Investigator’s Global Assessment of Disease Severity in Trials on the Scalp |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Taclonex®TopicalSuspension | Betamethasone dipropionate in vehicle | Calcipotriene in vehicle | Vehicle |
+|  | Taclonex®TopicalSuspension | Betamethasone Dipropionate in vehicle | Calcipotriene in vehicle | Vehicle |
 | Trial OneWeek 2 | (N = 494)55.5% | (N = 531)46.1% | (N = 256)18.4% | (N = 126)9.5% |
 | Week 8 | 70.0% | 63.1% | 36.7% | 19.8% |
 | Trial TwoWeek 2 | (N = 512)47.1% | (N = 517)36.4% | (N = 251)12.7% | -- |
 | Week 8 | 67.2% | 59.6% | 41.0% | - |
 
-Clinical Trial Conducted in Subjects 12 to 17 years with Scalp Psoriasis
+Clinical Trials Conducted in Subjects 12 to 17 years with Scalp Psoriasis
 
 Two prospective, uncontrolled trials (N=109) were conducted in subjects 12 to 17 years with scalp psoriasis.
 In trial one 78 subjects with at least moderate scalp psoriasis at baseline and at least 10% scalp involvement were evaluated for safety.
@@ -37,9 +37,9 @@ Calcium metabolism was evaluated in all subjects (N=109).
 Psoriasis on the Body in Subjects 18 Years and Older
 
 One multicenter, randomized, double-blind trial was conducted in subjects with plaque psoriasis on non-scalp areas, excluding face, axillae, and groin.
-In this trial, 1152 subjects were randomizd to 1 of 4 treatment groups: Taclonex® Topical Suspension, betamethasone dipropionate in the same vehicle, calcipotriene hydrate in the same vehicle, or the vehicle alone.
+In this trial, 1152 subjects were randomized to 1 of 4 treatment groups: Taclonex® Topical Suspension, betamethasone dipropionate in the same vehicle, calcipotriene hydrate in the same vehicle, or the vehicle alone.
 The trial enrolled subjects with mild to moderate plaque psoriasis.
-Seventy-eight percent of subjects had disease of moderate severity at baseline.
+Seventy-eight (78%) percent of subjects had disease of moderate severity at baseline.
 Subjects were treated once daily for 8 weeks.
 
 Efficacy was assessed at Week 4 and Week 8 as the proportion of subjects who were "Clear" or "Almost clear" according to the Investigator's Global Assessment of Disease Severity.
@@ -50,7 +50,7 @@ Table 3
 
 | Percentage of Patients with Clear or Almost Clear Disease According to the Investigator’s Global Assessment of Disease Severity* in Trial on the Body |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Taclonex®TopicalSuspension (N = 482) | Betamethasone dipropionate in vehicle (N = 479) | Calcipotriene in vehicle (N = 96) | Vehicle (N = 95) |
+|  | Taclonex®TopicalSuspension (N = 482) | Betamethasone Dipropionate in vehicle (N = 479) | Calcipotriene in vehicle (N = 96) | Vehicle (N = 95) |
 | Week 4 | 13.3% | 12.5% | 5.2% | 2.1% |
 | Week 8 | 29.0% | 21.5% | 14.6% | 6.3% |
 | * Subjects with mild disease at baseline were required to be "Clear" to be considered a success. |  |  |  |  |
