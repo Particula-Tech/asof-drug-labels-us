@@ -101,12 +101,27 @@ administered as an intravenous infusion over 30 minutes until disease progressio
 
 Single Agent
 
-The recommended dose of OPDIVO as a single agent is 240 mg every 2 weeks administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+The recommended dose of OPDIVO for adult patients and for pediatric patients age 12 years and older and weighing 40 kg or more is either:
+
+- •240 mg every 2 weeks or
+- •480 mg every 4 weeks
+
+administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+
+The recommended dose of OPDIVO for pediatric patients age 12 years and older and weighing less than 40 kg is 3 mg/kg every 2 weeks, administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
 With Ipilimumab
 
-The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.9)].
-After completing 4 doses of the combination, administer OPDIVO 240 mg as a single agent every 2 weeks as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+The recommended dose of OPDIVOfor adult patients and for pediatric patients age 12 years and older and weighing 40 kg or more is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.9)].
+After completing 4 doses of the combination, administer OPDIVO as a single agent, either:
+
+- •240 mg every 2 weeks or
+- •480 mg every 4 weeks
+
+as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+
+The recommended dose of OPDIVO for pediatric patients age 12 years and older and weighing less than 40 kg is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.9)].
+After completing 4 doses of the combination, administer OPDIVO 3 mg/kg as a single agent every 2 weeks as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
 Review the Prescribing Information for ipilimumab prior to initiation.
 
