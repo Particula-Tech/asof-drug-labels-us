@@ -71,12 +71,12 @@ Contraception
 
 Female Patients
 
-Females of reproductive potential taking mycophenolate mofetil must receive contraceptive counseling and use acceptable contraception (see Table 8 for acceptable contraception methods).
+Females of reproductive potential taking mycophenolate mofetil must receive contraceptive counseling and use acceptable contraception (see Table 7 for acceptable contraception methods).
 Patients must use acceptable birth control during the entire mycophenolate mofetil therapy, and for 6 weeks after stopping mycophenolate mofetil, unless the patient chooses abstinence.
 
 Patients should be aware that mycophenolate mofetil reduces blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 8.
+Table 7.
 Acceptable Contraception Methods For Females Of Reproductive
 
 Potential Pick from the following birth control options:

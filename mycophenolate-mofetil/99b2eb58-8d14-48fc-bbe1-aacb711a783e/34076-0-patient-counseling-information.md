@@ -66,6 +66,11 @@ Advise patients not to donate blood during therapy and for at least 6 weeks foll
 
 Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil.
 
+## 17.10 Potential to Impair Driving and Use of Machinery
+
+Advise patients that Mycophenolate mofetil can affect the ability to drive or operate machines.
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with Mycophenolate mofetil.
+
 Manufactured in India by Sandoz Private Ltd.
 
 for Sandoz Inc., Princeton, NJ 08540
