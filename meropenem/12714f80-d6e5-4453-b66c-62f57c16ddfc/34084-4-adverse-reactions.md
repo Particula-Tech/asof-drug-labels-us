@@ -86,7 +86,7 @@ Adverse events with an incidence of greater than 1%, and not listed above, inclu
 
 Patients with Renal Impairment:
 
-For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported Meropenem for injection (I.V.), increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.9), Use in Specific Populations (8.5)and(8.6)andClinical Pharmacology (12.3)].
+For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported with Meropenem for injection (I.V.), increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.9), Use in Specific Populations (8.5)and(8.6)andClinical Pharmacology (12.3)].
 
 Pediatric Patients:
 

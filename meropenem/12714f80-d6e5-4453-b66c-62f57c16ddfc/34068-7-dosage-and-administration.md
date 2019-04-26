@@ -14,7 +14,9 @@ Dosage should be reduced in patients with creatinine clearance of 50 mL/min or l
 
 When only serum creatinine is available, the following formula (Cockcroft and Gault equation) 1 may be used to estimate creatinine clearance.
 
-Males: Creatinine Clearance (mL/min) = Weight (kg) x (140 - age)__
+Males: Creatinine Clearance (mL/min)
+
+= Weight (kg) x (140 - age)__
 
 72 x serum creatinine (mg/dL)
 
