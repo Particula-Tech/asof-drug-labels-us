@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209354"
+  ],
+  "inn": "halobetasol",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0653-01"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "halobetasol propionate and tazarotene",
+      "name": "Duobrii"
+    }
+  ],
+  "setid": "b3f0cdc0-69fd-43d1-baf2-d776a3a20715",
+  "source": "dailymed"
+}
