@@ -24,4 +24,4 @@ Tobramycin may be considered in serious staphylococcal infections when penicilli
 Bacterial cultures should be obtained prior to and during treatment to isolate and identify etiologic organisms and to test their susceptibility to tobramycin.
 If susceptibility tests show that the causative organisms are resistant to tobramycin, other appropriate therapy should be instituted.
 In patients in whom a serious life-threatening gram-negative infection is suspected, including those in whom concurrent therapy with a penicillin or cephalosporin and an aminoglycoside may be indicated, treatment with tobramycin may be initiated before the results of susceptibility studies are obtained.
-The decision to continue therapy with tobramycin should be based on the results of susceptibility studies, the severity of the infection, and the important additional concepts discussed in the WARNINGS box.
+The decision to continue therapy with tobramycin should be based on the results of susceptibility studies, the severity of the infection, and the important additional concepts discussed in the BOXED WARNINGS.

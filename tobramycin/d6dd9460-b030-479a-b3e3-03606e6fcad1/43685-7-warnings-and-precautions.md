@@ -1,6 +1,6 @@
 # WARNINGS:
 
-See WARNINGS box above.
+See BOXED WARNINGSabove.
 
 Tobramycin injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
@@ -28,7 +28,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Prescribing tobramycin injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Serum and urine specimens for examination should be collected during therapy, as recommended in the WARNINGS box.
+Serum and urine specimens for examination should be collected during therapy, as recommended in the BOXED WARNINGS.
 Serum calcium, magnesium, and sodium should be monitored.
 
 Peak and trough serum levels should be measured periodically during therapy.
@@ -68,7 +68,7 @@ Aminoglycosides may be absorbed in significant quantities from body surfaces aft
 Aminoglycosides have not been approved for intraocular and/or subconjunctival use.
 Physicians are advised that macular necrosis has been reported following administration of aminoglycosides, including tobramycin, by these routes.
 
-See WARNINGS box regarding concurrent use of potent diuretics and concurrent and sequential use of other neurotoxic or nephrotoxic drugs.
+See BOXED WARNINGS regarding concurrent use of potent diuretics and concurrent and sequential use of other neurotoxic or nephrotoxic drugs.
 
 The inactivation of tobramycin and other aminoglycosides by ß-lactam-type antibiotics (penicillins or cephalosporins) has been demonstrated in vitro and in patients with severe renal impairment.
 Such inactivation has not been found in patients with normal renal function who have been given the drugs by separate routes of administration.

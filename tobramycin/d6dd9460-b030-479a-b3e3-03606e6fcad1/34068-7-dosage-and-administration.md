@@ -3,7 +3,7 @@
 Tobramycin may be given intramuscularly or intravenously.
 Recommended dosages are the same for both routes.
 The patient’s pretreatment body weight should be obtained for calculation of correct dosage.
-It is desirable to measure both peak and trough serum concentrations (see WARNINGS box and PRECAUTIONS).
+It is desirable to measure both peak and trough serum concentrations (see BOXED WARNINGS and PRECAUTIONS).
 
 ## Administration for Patients with Normal Renal Function
 
@@ -11,7 +11,7 @@ Adults with Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours (see 
 
 Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (see Table 3).
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
-To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
+To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see BOXED WARNINGS and PRECAUTIONS).
 
 | Table 3 DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -88,7 +88,7 @@ Tobramycin may be administered by withdrawing the appropriate dose directly from
 For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
 For pediatric patients, the volume of diluent should be proportionately less than that for adults.
 The diluted solution usually should be infused over a period of 20 to 60 minutes.
-Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see WARNINGS box).
+Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see BOXED WARNINGS).
 
 Tobramycin injection should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
 
