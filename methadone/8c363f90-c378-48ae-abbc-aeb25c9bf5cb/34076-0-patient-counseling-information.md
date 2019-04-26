@@ -1,6 +1,15 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-1. Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Methadone Hydrochloride Oral Solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [seeWarnings and Precautions (5.2, 5.16), Abuse (9.2)].
+Inform patients that leaving Methadone Hydrochloride Oral Solution unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused Methadone Hydrochloride Oral Solution should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
 Medication Errors
 
@@ -18,69 +27,67 @@ Instruct patients not to share Methadone Hydrochloride Oral Solution with others
 
 Life-threatening Respiratory Depression
 
-1. Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Methadone Hydrochloride Oral Solution or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.4)].
-   Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
-2. 
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Methadone Hydrochloride Oral Solution or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.4)].
+Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion
 
-1. Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.4)].
-   Instruct patients to take steps to store Methadone Hydrochloride Oral Solution securely and to dispose of unused Methadone Hydrochloride Oral Solution by flushing the solution down the toilet.
-2. 
+Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death [seeWarnings and Precautions (5.4)].
+Instruct patients to take steps to store Methadone Hydrochloride Oral Solution securely and to dispose of unused Methadone Hydrochloride Oral Solution by flushing the solution down the toilet.
 
 Symptoms of Arrhythmia
 
-1. Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking Methadone Hydrochloride Oral Solution [see Warnings and Precautions (5.5)].
-2. 
+Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking Methadone Hydrochloride Oral Solution [see Warnings and Precautions (5.5)].
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-1. Inform patients and caregivers that potentially fatal additive effects may occur if Methadone Hydrochloride Oral Solution is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.8), Drug Interactions (7)].
-2. 
+Inform patients and caregivers that potentially fatal additive effects may occur if Methadone Hydrochloride Oral Solution is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.8), Drug Interactions (7)].
 
 Serotonin Syndrome
 
-1. Inform patients that Methadone Hydrochloride Oral Solution could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
-   Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-   Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.10), Drug Interactions (7)].
-2. 
+Inform patients that Methadone Hydrochloride Oral Solution could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
+Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.10), Drug Interactions (7)].
 
 MAOI Interaction
 
 Inform patients to avoid taking Methadone Hydrochloride Oral Solution while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking Methadone Hydrochloride Oral Solution [see Warnings and Precautions (5.10), Drug Interactions (7)].
+Patients should not start MAOIs while taking Methadone Hydrochloride Oral Solution [see Warnings andPrecautions (5.10), Drug Interactions (7)].
 
 Adrenal Insufficiency
 
-1. Inform patients that Methadone Hydrochloride Oral Solution could cause adrenal insufficiency, a potentially life-threatening condition.
-   Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-   Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.11)].
-2. 
+Inform patients that Methadone Hydrochloride Oral Solution could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.11)].
 
 Important Administration Instructions
 
-1. Instruct patients how to properly take Methadone Hydrochloride Oral Solution, including the following:
-2. •Advise patients to always use a calibrated oral syringe/dosing cup when administering Methadone Hydrochloride Oral Solution to ensure the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
-3. •Advise patients never to use household teaspoons or tablespoons to measure Methadone Hydrochloride Oral Solution.
-4. •Use methadone exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Dosage and Administration (2), Warnings and Precautions (5.4)].
-5. •Do not discontinue methadone without first discussing the need for a tapering regimen with the prescriber [see Warnings and Precautions (5.16)].
+Instruct patients how to properly take Methadone Hydrochloride Oral Solution, including the following:
+
+- •Advise patients to always use a calibrated oral syringe/dosing cup when administering Methadone Hydrochloride Oral Solution to ensure the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
+- •Advise patients never to use household teaspoons or tablespoons to measure Methadone Hydrochloride Oral Solution.
+- •Use methadone exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Dosage and Administration (2), Warnings and Precautions (5.4)].
+- •Do not discontinue methadone without first discussing the need for a tapering regimen with the prescriber [seeWarnings and Precautions (5.16)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Methadone Hydrochloride Oral Solution without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension
 
-1. Inform patients that Methadone Hydrochloride Oral Solution may cause orthostatic hypotension and syncope.
-   Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.12)].
+Inform patients that Methadone Hydrochloride Oral Solution may cause orthostatic hypotension and syncope.
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.12)].
 
 Anaphylaxis
 
-1. Inform patients that anaphylaxis has been reported with ingredients contained in Methadone Hydrochloride Oral Solution.
-   Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Adverse Reactions (6)].
-2. 
+Inform patients that anaphylaxis has been reported with ingredients contained in Methadone Hydrochloride Oral Solution.
+Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), AdverseReactions (6)].
 
 Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome: Advise women that if they are pregnant while being treated with Methadone Hydrochloride Oral Solution, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.6), Specific Populations (8.1)].
 
-Embryo-Fetal Toxicity:Inform female patients of reproductive potential that Methadone Hydrochloride Oral Solution can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Embryo-Fetal Toxicity: Inform female patients of reproductive potential that Methadone Hydrochloride Oral Solution can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in SpecificPopulations (8.1)].
 
 Lactation
 
@@ -102,12 +109,12 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Disposal of Unused Methadone Hydrochloride Oral Solution
+Distr. by: West-Ward
 
-Advise patients to flush the unused Methadone Hydrochloride Oral Solution down the toilet when methadone is no longer needed.
+Pharmaceuticals Corp.
 
-1. Distr. by: West-Ward
-2. Pharmaceuticals Corp.
-3. Eatontown, NJ 07724
-4. 4056301//11
-5. Revised August 2018
+Eatontown, NJ 07724
+
+4056301//12
+
+Revised April 2019

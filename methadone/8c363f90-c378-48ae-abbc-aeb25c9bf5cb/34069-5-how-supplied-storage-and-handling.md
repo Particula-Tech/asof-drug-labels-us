@@ -1,12 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-1. Methadone is a controlled substance.
-   Like fentanyl, morphine, oxycodone, hydromorphone, and oxymorphone, methadone is controlled under Schedule II of the Federal Controlled Substances Act.
-   Methadone may be targeted for theft and diversion by criminals [see Warnings and Precautions (5.2)].
-2. Dispense in a tight, light-resistant container as defined in the USP/NF.
+Methadone is a controlled substance.
+Like fentanyl, morphine, oxycodone, hydromorphone, and oxymorphone, methadone is controlled under Schedule II of the Federal Controlled Substances Act.
+Methadone may be targeted for theft and diversion by criminals [see Warnings and Precautions (5.2)].
 
-Store at 20° to 25ºC (68º to 77°F).
-[See USP Controlled Room Temperature.]
+Dispense in a tight, light-resistant container as defined in the USP/NF.
+
+Store at 20° to 25ºC (68º to 77°F), with excursions permitted between 15° to 30°C (59° to 86° F). [See USP Controlled Room Temperature.]
+
+Store Methadone Hydrochloride Oral Solution securely and dispose of properly [see Patient Counseling Information (17)].
 
 Methadone Hydrochloride Oral Solution USP
 

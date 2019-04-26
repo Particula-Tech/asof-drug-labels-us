@@ -20,7 +20,7 @@
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Warnings and Precautions (5.10)]. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Methadone Hydrochloride Oral Solution if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome [see Warnings and Precautions (5.10)] or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.4)]. |
 | Intervention: | The use of Methadone Hydrochloride Oral Solution is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
@@ -28,9 +28,7 @@
 | Clinical Impact: | May reduce the analgesic effect of Methadone Hydrochloride Oral Solution and/or precipitate withdrawal symptoms. |
 | Intervention: | Avoid concomitant use. |
 | Examples: | Butorphanol, nalbuphine, pentazocine, buprenorphine |
-
 | Muscle Relaxants |  |
-| --- | --- |
 | Clinical Impact: | Methadone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Methadone Hydrochloride Oral Solution and/or the muscle relaxant as necessary. |
 | Diuretics |  |

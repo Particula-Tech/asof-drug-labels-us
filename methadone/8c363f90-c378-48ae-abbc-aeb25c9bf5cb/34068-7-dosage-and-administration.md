@@ -69,7 +69,7 @@ Consider the following when using the information in Table 1:
 
 Table 1: Conversion Factors to Methadone Hydrochloride Oral Solution
 
-| Total Daily Baseline OralMorphine Equivalent Dose | Estimated Daily Oral Methadone Requirementas Percent of Total Daily Morphine Equivalent Dose |
+| Total Daily Baseline Oral Morphine Equivalent Dose | Estimated Daily Oral Methadone Requirement as Percent of Total Daily Morphine Equivalent Dose |
 | --- | --- |
 | < 100 mg | 20% to 30% |
 | 100 to 300 mg | 10% to 20% |
@@ -98,78 +98,113 @@ Step 1: Sum the total daily dose of the opioid (in this case, Morphine Extended 
    Round down, if necessary, to the appropriate Methadone Hydrochloride Oral Solution strengths available.
 5. 15 mg daily / 2 = 7.5 mg Methadone Hydrochloride Oral Solution every 12 hours
 6. Then 7.5 mg is rounded down to 5 mg Methadone Hydrochloride Oral Solution every 12 hours
-7. Close observation and frequent titration are warranted until pain management is stable on the new opioid.
-   Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to Methadone Hydrochloride Oral Solution.
-8. Conversion from Parenteral Methadone to Methadone Hydrochloride Oral Solution
-9. Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
+
+Close observation and frequent titration are warranted until pain management is stable on the new opioid.
+Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to Methadone Hydrochloride Oral Solution.
+
+Conversion from Parenteral Methadone to Methadone Hydrochloride Oral Solution
+
+Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
 
 ## 2.4 Titration and Maintenance of Therapy for Pain
 
-1. Individually titrate Methadone Hydrochloride Oral Solution to a dose that provides adequate analgesia and minimizes adverse reactions.
-   Continually reevaluate patients receiving Methadone Hydrochloride Oral Solution to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2)].
-   Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
-   During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
-2. Patients who experience breakthrough pain may require a dose increase of Methadone Hydrochloride Oral Solution, or may need rescue medication with an appropriate dose of an immediate-release medication.
-   If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the Methadone Hydrochloride Oral Solution dosage.
-3. Because of individual variability in the pharmacokinetic profile (i.e., terminal half-life (T1/2) from 8 to 59 hours in different studies [see Clinical Pharmacology (12.3)]), titrate Methadone Hydrochloride Oral Solution slowly, with dose increases no more frequent than every 3 to 5 days.
-   However, because of this high variability, some patients may require substantially longer periods between dose increases (up to 12 days).
-   Monitor patients closely for the development of potentially life-threatening adverse reactions (e.g., CNS and respiratory depression).
-4. If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced and/or the dosing interval adjusted (i.e., every 8 hours or every 12 hours).
-   Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+Individually titrate Methadone Hydrochloride Oral Solution to a dose that provides adequate analgesia and minimizes adverse reactions.
+Continually reevaluate patients receiving Methadone Hydrochloride Oral Solution to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2)].
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
 
-## 2.5 Discontinuation of Methadone Hydrochloride Oral Solution for Pain
+Patients who experience breakthrough pain may require a dose increase of Methadone Hydrochloride Oral Solution, or may need rescue medication with an appropriate dose of an immediate-release medication.
+If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the Methadone Hydrochloride Oral Solution dosage.
 
-When a patient no longer requires therapy with Methadone Hydrochloride Oral Solution for pain, taper the dose gradually, by 15% to 50% every two to four days, to prevent signs and symptoms of withdrawal.
-If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue Methadone Hydrochloride Oral Solution [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
+Because of individual variability in the pharmacokinetic profile (i.e., terminal half-life (T1/2) from 8 to 59 hours in different studies [see Clinical Pharmacology (12.3)]), titrate Methadone Hydrochloride Oral Solution slowly, with dose increases no more frequent than every 3 to 5 days.
+However, because of this high variability, some patients may require substantially longer periods between dose increases (up to 12 days).
+Monitor patients closely for the development of potentially life-threatening adverse reactions (e.g., CNS and respiratory depression).
+
+If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced and/or the dosing interval adjusted (i.e., every 8 hours or every 12 hours).
+Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+
+## 2.5 Safe Reduction or Discontinuation of Methadone Hydrochloride Oral Solution for Pain
+
+Do not abruptly discontinue Methadone Hydrochloride Oral Solution in patients who may be physically dependent on opioids.
+Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
+
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking Methadone Hydrochloride Oral Solution, there are a variety of factors that should be considered, including the dose of Methadone Hydrochloride Oral Solution the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
+When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
+Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
+Complex patients with co-morbid pain and substance use disorders may benefit from referral to a specialist.
+
+There are no standard opioid tapering schedules that are suitable for all patients.
+Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
+For patients on Methadone Hydrochloride Oral Solution who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
+Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
+
+It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
+Reassess the patient frequently to manage pain and withdrawal symptoms, should they emerge.
+Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
+In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+
+When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
 
 ## 2.6 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
-1. For detoxification and maintenance of opioid dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration.
-2. Administer the initial methadone dose under supervision, when there are no signs of sedation or intoxication, and the patient shows symptoms of withdrawal.
-   An initial single dose of 20 to 30 mg of Methadone Hydrochloride Oral Solution will often be sufficient to suppress withdrawal symptoms.
-   The initial dose should not exceed 30 mg.
-3. To make same-day dosing adjustments, have the patient wait 2 to 4 hours for further evaluation, when peak levels have been reached.
-   Provide an additional 5 to 10 mg of Methadone Hydrochloride Oral Solution if withdrawal symptoms have not been suppressed or if symptoms reappear.
-4. The total daily dose of Methadone Hydrochloride Oral Solution on the first day of treatment should not ordinarily exceed 40 mg.
-   Adjust the dose over the first week of treatment based on control of withdrawal symptoms at the time of expected peak activity (e.g., 2 to 4 hours after dosing).
-   When adjusting the dose, keep in mind that methadone levels will accumulate over the first several days of dosing; deaths have occurred in early treatment due to the cumulative effects.
-   Instruct patients that the dose will “hold” for a longer period of time as tissue stores of methadone accumulate.
-5. Use lower initial doses for patients whose tolerance is expected to be low at treatment entry.
-   Any patient who has not taken opioids for more than 5 days may no longer be tolerant.
-   Do not determine initial doses based on previous treatment episodes or dollars spent per day on illicit drug use.
-6. During the induction phase of methadone maintenance treatment, patients are being withdrawn from opioids and may have opioid withdrawal symptoms.
-   Monitor patients for signs and symptoms of opioid withdrawal including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.
-7. Short-Term Detoxification
-8. For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
-   After 2 to 3 days of stabilization, gradually decrease the dose of Methadone Hydrochloride Oral Solution.
-   Decrease the dose of Methadone Hydrochloride Oral Solution on a daily basis or at 2-day intervals, keeping the amount of Methadone Hydrochloride Oral Solution sufficient to keep withdrawal symptoms at a tolerable level.
-   Hospitalized patients may tolerate a daily reduction of 20% of the total daily dose.
-   Ambulatory patients may need a slower schedule.
+| For detoxification and maintenance of opioid dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration. |
+| --- |
+
+Administer the initial methadone dose under supervision, when there are no signs of sedation or intoxication, and the patient shows symptoms of withdrawal.
+An initial single dose of 20 to 30 mg of Methadone Hydrochloride Oral Solution will often be sufficient to suppress withdrawal symptoms.
+The initial dose should not exceed 30 mg.
+
+To make same-day dosing adjustments, have the patient wait 2 to 4 hours for further evaluation, when peak levels have been reached.
+Provide an additional 5 to 10 mg of Methadone Hydrochloride Oral Solution if withdrawal symptoms have not been suppressed or if symptoms reappear.
+
+The total daily dose of Methadone Hydrochloride Oral Solution on the first day of treatment should not ordinarily exceed 40 mg.
+Adjust the dose over the first week of treatment based on control of withdrawal symptoms at the time of expected peak activity (e.g., 2 to 4 hours after dosing).
+When adjusting the dose, keep in mind that methadone levels will accumulate over the first several days of dosing; deaths have occurred in early treatment due to the cumulative effects.
+Instruct patients that the dose will “hold” for a longer period of time as tissue stores of methadone accumulate.
+
+Use lower initial doses for patients whose tolerance is expected to be low at treatment entry.
+Any patient who has not taken opioids for more than 5 days may no longer be tolerant.
+Do not determine initial doses based on previous treatment episodes or dollars spent per day on illicit drug use.
+
+During the induction phase of methadone maintenance treatment, patients are being withdrawn from opioids and may have opioid withdrawal symptoms.
+Monitor patients for signs and symptoms of opioid withdrawal including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.
+
+Short-Term Detoxification
+
+For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
+After 2 to 3 days of stabilization, gradually decrease the dose of Methadone Hydrochloride Oral Solution.
+Decrease the dose of Methadone Hydrochloride Oral Solution on a daily basis or at 2-day intervals, keeping the amount of Methadone Hydrochloride Oral Solution sufficient to keep withdrawal symptoms at a tolerable level.
+Hospitalized patients may tolerate a daily reduction of 20% of the total daily dose.
+Ambulatory patients may need a slower schedule.
 
 ## 2.7 Titration and Maintenance Treatment of Opioid Dependence Detoxification
 
-1. Titrate patients in maintenance treatment to a dose that prevents opioid withdrawal symptoms for 24 hours, reduces drug hunger or craving, and blocks or attenuates the euphoric effects of self-administered opioids, ensuring that the patient is tolerant to the sedative effects of methadone.
-   Most commonly, clinical stability is achieved at doses between 80 to 120 mg/day.
-   During prolonged administration of methadone, monitor patients for persistent constipation and manage accordingly.
+Titrate patients in maintenance treatment to a dose that prevents opioid withdrawal symptoms for 24 hours, reduces drug hunger or craving, and blocks or attenuates the euphoric effects of self-administered opioids, ensuring that the patient is tolerant to the sedative effects of methadone.
+Most commonly, clinical stability is achieved at doses between 80 to 120 mg/day.
+During prolonged administration of methadone, monitor patients for persistent constipation and manage accordingly.
 
 ## 2.8 Medically Supervised Withdrawal After a Period of Maintenance Treatment for Opioid Addiction
 
-1. There is considerable variability in the appropriate rate of methadone taper in patients choosing medically supervised withdrawal from methadone treatment.
-   Dose reductions should generally be less than 10% of the established tolerance or maintenance dose, and 10 to 14-day intervals should elapse between dose reductions.
-   Apprise patients of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
+There is considerable variability in the appropriate rate of methadone taper in patients choosing medically supervised withdrawal from methadone treatment.
+Dose reductions should generally be less than 10% of the established tolerance or maintenance dose, and 10 to 14-day intervals should elapse between dose reductions.
+Apprise patients of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
 
 ## 2.9 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
 
-1. Abrupt opioid discontinuation can lead to development of opioid withdrawal symptoms [see Drug Abuse and Dependence
-2. (9.3)].
-   Opioid withdrawal symptoms have been associated with an increased risk of relapse to illicit drug use in susceptible patients.
+Abrupt opioid discontinuation can lead to development of opioid withdrawal symptoms [see Drug Abuse and Dependence (9.3)].
+Opioid withdrawal symptoms have been associated with an increased risk of relapse to illicit drug use in susceptible patients.
 
 ## 2.10 Considerations for Management of Acute Pain During Methadone Maintenance Treatment
 
-1. Patients in methadone maintenance treatment for opioid dependence who experience physical trauma, postoperative pain or other acute pain cannot be expected to derive analgesia from their existing dose of methadone.
-   Such patients should be administered analgesics, including opioids, in doses that would otherwise be indicated for non-methadone-treated patients with similar painful conditions.
-   When opioids are required for management of acute pain in methadone maintenance patients, somewhat higher and/or more frequent doses will often be required than would be the case for non-tolerant patients due to the opioid tolerance induced by methadone.
+Patients in methadone maintenance treatment for opioid dependence who experience physical trauma, postoperative pain or other acute pain cannot be expected to derive analgesia from their existing dose of methadone.
+Such patients should be administered analgesics, including opioids, in doses that would otherwise be indicated for non-methadone-treated patients with similar painful conditions.
+When opioids are required for management of acute pain in methadone maintenance patients, somewhat higher and/or more frequent doses will often be required than would be the case for non-tolerant patients due to the opioid tolerance induced by methadone.
 
 ## 2.11 Dosage Adjustment During Pregnancy
 

@@ -19,9 +19,9 @@ Administration of methadone to pregnant animals during organogenesis and through
 Administration of methadone to male rodents prior to mating with untreated females resulted in increased neonatal mortality and significant differences in behavioral tests in the offspring at exposures comparable to and less than the HDD [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-1. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-   All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-   In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -81,9 +81,9 @@ No effects were reported in a study of pregnant rats and rabbits at oral doses u
 When pregnant rats were treated with intraperitoneal doses of 2.5, 5, or 7.5 mg/kg methadone from one week prior to mating, through gestation until the end of lactation period, 5 mg/kg or greater (0.4 times the HDD) methadone resulted in decreases in litter size and live pups born and 7.5 mg/kg (0.6 times the HDD) resulted in decreased birth weights.
 Furthermore, decreased pup viability and pup body weight gain at 2.5 mg/kg or greater (0.2 times the HDD) were noted during the preweaning period.
 
-1. Additional animal data demonstrates evidence for neurochemical changes in the brains of offspring from methadone-treated pregnant rats, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems at doses below the HDD.
-   Other animal studies have reported that prenatal and/or postnatal exposure to opioids including methadone alters neuronal development and behavior in the offspring including alterations in learning ability, motor activity, thermal regulation, nociceptive responses, and sensitivity to drugs at doses below the HDD.
-   Treatment of pregnant rats subcutaneously with 5 mg/kg methadone from Gestation Day 14 to 19 (0.4 times the HDD) reduced fetal blood testosterone and androstenedione in males.
+Additional animal data demonstrates evidence for neurochemical changes in the brains of offspring from methadone-treated pregnant rats, including changes to the cholinergic, dopaminergic, noradrenergic and serotonergic systems at doses below the HDD.
+Other animal studies have reported that prenatal and/or postnatal exposure to opioids including methadone alters neuronal development and behavior in the offspring including alterations in learning ability, motor activity, thermal regulation, nociceptive responses, and sensitivity to drugs at doses below the HDD.
+Treatment of pregnant rats subcutaneously with 5 mg/kg methadone from Gestation Day 14 to 19 (0.4 times the HDD) reduced fetal blood testosterone and androstenedione in males.
 
 Published animal data have reported increased neonatal mortality in the offspring of male rodents that were treated with methadone at doses comparable to and less than the HDD for 1 to 12 days before and/or during mating (with more pronounced effects in the first 4 days).
 In these studies, the female rodents were not treated with methadone, indicating paternally-mediated developmental toxicity.
@@ -116,7 +116,7 @@ In a study of twelve breastfeeding women maintained on oral methadone doses of 2
 Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day which is approximately 2 to 3% of the oral maternal dose.
 Methadone has been detected in very low plasma concentrations in some infants whose mothers were taking methadone.
 
-1. There have been rare cases of sedation and respiratory depression in infants exposed to methadone through breast milk.
+There have been rare cases of sedation and respiratory depression in infants exposed to methadone through breast milk.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -132,7 +132,7 @@ In published animal studies, methadone produces a significant regression of sex 
 
 ## 8.4 Pediatric Use
 
-1. The safety, effectiveness, and pharmacokinetics of methadone in pediatric patients below the age of 18 years have not been established.
+The safety, effectiveness, and pharmacokinetics of methadone in pediatric patients below the age of 18 years have not been established.
 
 ## 8.5 Geriatric Use
 
