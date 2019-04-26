@@ -16,6 +16,10 @@ Share the important information in this Medication Guide with members of your ho
 
 What is the most important information I should know about Buprenorphine Sublingual Tablets?
 
+- •Never give anyone else your Buprenorphine Sublingual Tablets.
+  They could die from taking it.
+  Selling or giving away Buprenorphine Sublingual Tablets is against the law.
+- •Store Buprenorphine Sublingual Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 - •Buprenorphine Sublingual Tablets can cause serious and life-threatening breathing problems.
   Call your doctor right away or get emergency help if:
   - •You feel faint, dizzy or confused
@@ -108,7 +112,7 @@ How should I take Buprenorphine Sublingual Tablets?
   - •Follow the same instructions every time you take a dose of Buprenorphine Sublingual Tablets
 - •Put the tablets under your tongue.
   Let them dissolve completely.
-
+- 
 - •While Buprenorphine Sublingual Tablets are dissolving, do not chew or swallow the tablet because the medicine will not work as well.
 - •Talking while the tablet is dissolving can affect how well the medicine in Buprenorphine Sublingual Tablets is absorbed.
 - •If you miss a dose of Buprenorphine Sublingual Tablets, take your medicine when you remember.
@@ -121,6 +125,8 @@ How should I take Buprenorphine Sublingual Tablets?
   Your doctor can tell you more about the differences between physical dependence and drug addiction.
   To have fewer withdrawal symptoms, ask your doctor how to stop using Buprenorphine Sublingual Tablets the right way.
 - •If you take too much Buprenorphine Sublingual Tablets or overdose, call Poison Control or get emergency medical help right away.
+- •Dispose of expired, unwanted, or unused Buprenorphine Sublingual Tablets by promptly flushing down the toilet, if a drug take-back option is not readily available.
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 What should I avoid while taking Buprenorphine Sublingual Tablets?
 
@@ -215,6 +221,6 @@ Distr. by: Hikma Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724
 
-C50000231/01
+C50000231/02
 
-Revised October 2018
+Revised April 2019

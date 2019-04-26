@@ -15,6 +15,10 @@ Warn patients of the potential danger of self-administration of benzodiazepines 
 
 Use Buprenorphine Sublingual Tablets with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.7)].
+
 ## 5.3 Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants
 
 Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
@@ -50,7 +54,7 @@ Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome 
 Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
 Healthcare professionals should observe newborns for signs of NOWS and manage accordingly [see Use in Specific Populations (8.1)].
 
-Advise pregnant women receiving opioid addiction treatment with Buprenorphine Sublingual Tablets of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available[see Use in Specific Populations (8.1)].
+Advise pregnant women receiving opioid addiction treatment with Buprenorphine Sublingual Tablets of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
 This risk must be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
 Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 

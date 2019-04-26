@@ -57,9 +57,9 @@ Table 2 shows adverse events reported by at least 5% of subjects in any dose gro
 
 Table 2: Adverse Events (≥5%) by Body System and Treatment Group in a 16-Week Study
 
-| Body System /Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: |  |  |  |  |
+| Body System /Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg, "Low" dose (4 mg solution) approximates a 6 mg tablet dose, "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose, "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Very Low (N=184) | Low (N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
+| Very Low (N=184) | Low (N=180) | Moderate(N=186) | High(N=181) | Total (N=731) |  |
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | Body as a Whole |  |  |  |  |  |
 | Abscess | 9 (5%) | 2 (1%) | 3 (2%) | 2 (1%) | 16 (2%) |
@@ -93,7 +93,7 @@ Table 2: Adverse Events (≥5%) by Body System and Treatment Group in a 16-Week 
 | Skin And Appendages |  |  |  |  |  |
 | Sweat | 23 (13%) | 21 (12%) | 20 (11%) | 23 (13%) | 87 (12%) |
 | Special Senses |  |  |  |  |  |
-| Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
+| Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 345%) |
 
 ## 6.2 Postmarketing Experience
 
