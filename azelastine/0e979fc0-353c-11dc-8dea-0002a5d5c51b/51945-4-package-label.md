@@ -1,39 +1,4 @@
-# PRINCIPAL DISPLAY PANEL – 0.1%
-
-NDC 0037-0242-30 30 mL
-
-Astepro® 0.1% (azelastine HCl) Nasal Spray 137 mcg per spray
-
-200 Metered Sprays
-
-FOR INTRANASAL USE ONLY
-
-DO NOT SPRAY IN EYES
-
-Each spray delivers 0.137 mL (137 mcg azelastine hydrochloride).
-U.S. Patent Pending
-
-LB-023D6-04 Rev.
-9/09
-
-IMPORTANT: READ ACCOM- PANYING DIRECTIONS CARE- FULLY BEFORE USE.
-
-Usual Dosage: See accompany- ing full Prescribing Information.
-
-Initial printing: 6 sprays; Repriming: 2 sprays or until a fine mist appears.
-
-Also contains sorbitol, sucralose, hypromellose, sodium citrate, edetate disodium, benzalkonium chloride, and purified water (pH 6.4).
-
-Store upright at controlled room temper- ature 20°-25°C (68°-77°F).
-Protect from freezing.
-
-Keep bottle upright, tightly closed, and away from children.
-
-Manufactured by Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
-
-© 2009 Meda Pharmaceuticals Inc.
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL – 0.15%
 
 NDC 0037-0243-30 30 mL
 
