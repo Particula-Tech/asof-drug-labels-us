@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211639"
+  ],
+  "inn": "amphetamine",
+  "labeler": "Aurolife Pharma, LLC",
+  "package_ndcs": [
+    "13107-259-01",
+    "13107-260-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amphetamine sulfate",
+      "name": "Amphetamine Sulfate"
+    }
+  ],
+  "setid": "20735c2e-6304-425f-a4e4-584f6f90d6a0",
+  "source": "dailymed"
+}
