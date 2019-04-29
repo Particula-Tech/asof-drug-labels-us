@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090701"
+  ],
+  "inn": "ceftriaxone",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9678-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ceftriaxone",
+      "name": "Ceftriaxone"
+    }
+  ],
+  "setid": "1f8776bd-4f5b-427a-849a-6b8338f7997d",
+  "source": "dailymed"
+}
