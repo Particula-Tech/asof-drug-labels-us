@@ -69,7 +69,13 @@ The recommended dose of KEYTRUDA in adults is 200 mg administered as an intraven
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.13 Dose Modifications
+## 2.13 Recommended Dosage for RCC
+
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks in combination with 5 mg axitinib orally twice daily until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months in patients without disease progression.
+When axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer.
+See also the Prescribing Information for recommended axitinib dosing information [see Clinical Studies (14.12)].
+
+## 2.14 Dose Modifications
 
 No dose reductions of KEYTRUDA are recommended.
 Withhold or discontinue KEYTRUDA to manage adverse reactions as described in Table 1.
@@ -85,7 +91,7 @@ Table 1: Recommended Dose Modifications for Adverse Reactions [see Warnings and 
 | Immune-mediated hepatitis in patients with HCC | Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than or equal to 5 times upper limit of normal (ULN) if baseline less than 2 times ULN; AST or ALT greater than 3 times baseline if baseline greater than or equal to 2 times ULN Total bilirubin greater than 2.0 mg/dL if baseline less than 1.5 mg/dL; or Total bilirubin greater than 3.0 mg/dL, regardless of baseline levels | WithholdResume in HCC patients when AST or ALT and total bilirubin recover to Grades 0-1 or to baseline. |
 | ALT or AST greater than 10 times ULN; or Child-Pugh score greater than or equal to 9 points; Gastrointestinal bleeding suggestive of portal hypertension; or New onset of clinically detectable ascites; or encephalopathy | Permanently discontinue |  |
 | Immune-mediated hepatitis in patients without HCC | AST or ALT greater than 3 but no more than 5 times the ULN or total bilirubin greater than 1.5 but no more than 3 times the ULN | Withhold |
-| In patients without liver metastases, AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN In patients with liver metastasis and Grade 2 AST or ALT at baseline, with an increase in AST or ALT of 50% or more relative to baseline that persists for at least 1 week | Permanently discontinue |  |
+| For liver enzyme elevations in RCC patients treated with combination therapy, see dosing guidelines following this table. | In patients without liver metastases, AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN In patients with liver metastasis and Grade 2 AST or ALT at baseline, with an increase in AST or ALT of 50% or more relative to baseline that persists for at least 1 week | Permanently discontinue |
 | Immune-mediated endocrinopathies | Grades 3 or 4 | Withhold until clinically stable |
 | Immune-mediated nephritis | Grade 2 | Withhold |
 | Grades 3 or 4 | Permanently discontinue |  |
@@ -100,7 +106,15 @@ Table 1: Recommended Dose Modifications for Adverse Reactions [see Warnings and 
 | Infusion-related reactions | Grades 1 or 2 | Interrupt or slow the rate of infusion |
 | Grades 3 or 4 | Permanently discontinue |  |
 
-## 2.14 Preparation and Administration
+In patients with RCC being treated with KEYTRUDA in combination with axitinib:
+
+- If ALT or AST ≥3 times ULN but <10 times ULN without concurrent total bilirubin ≥2 times ULN, withhold both KEYTRUDA and axitinib until these adverse reactions recover to Grades 0-1.
+  Consider corticosteroid therapy.
+  Consider rechallenge with a single drug or sequential rechallenge with both drugs after recovery.
+  If rechallenging with axitinib, consider dose reduction as per the axitinib Prescribing Information.
+- If ALT or AST ≥10 times ULN or >3 times ULN with concurrent total bilirubin ≥2 times ULN, permanently discontinue both KEYTRUDA and axitinib and consider corticosteroid therapy.
+
+## 2.15 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 

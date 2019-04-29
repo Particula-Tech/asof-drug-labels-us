@@ -88,3 +88,7 @@ KEYTRUDA is indicated for the treatment of adult and pediatric patients with rec
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.11)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.12 Renal Cell Carcinoma
+
+KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC) [see Clinical Studies (14.12)].

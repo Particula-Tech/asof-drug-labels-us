@@ -4,7 +4,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Immune-mediated pneumonitis [see Warnings and Precautions (5.1)].
 - Immune-mediated colitis [see Warnings and Precautions (5.2)].
-- Immune-mediated hepatitis [see Warnings and Precautions (5.3)].
+- Immune-mediated hepatitis, or hepatotoxicity (in combination with axitinib) [see Warnings and Precautions (5.3)].
 - Immune-mediated endocrinopathies [see Warnings and Precautions (5.4)].
 - Immune-mediated nephritis and renal dysfunction [see Warnings and Precautions (5.5)].
 - Immune-mediated skin adverse reactions [see Warnings and Precautions (5.6)].
@@ -16,11 +16,11 @@ The following clinically significant adverse reactions are described elsewhere i
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described in the WARNINGS AND PRECAUTIONS reflect exposure to KEYTRUDA as a single agent in 2799 patients in three randomized, open-label, active-controlled trials (KEYNOTE-002, KEYNOTE-006, and KEYNOTE-010), which enrolled 912 patients with melanoma and 682 patients with NSCLC, and one single-arm trial (KEYNOTE-001), which enrolled 655 patients with melanoma and 550 patients with NSCLC.
-In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAUTIONS describe adverse reactions observed with exposure to KEYTRUDA as a single agent in two randomized, open-label, active-controlled clinical trials (KEYNOTE-042 and KEYNOTE-024), which enrolled 790 patients with NSCLC; in a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), which enrolled 192 patients with HNSCC; and in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087), which enrolled 241 patients with cHL; or in combination with chemotherapy in a randomized, active-controlled trial (KEYNOTE-189), which enrolled 405 patients with nonsquamous NSCLC; and in post-marketing use.
+In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAUTIONS describe adverse reactions observed with exposure to KEYTRUDA as a single agent in two randomized, open-label, active-controlled clinical trials (KEYNOTE-042 and KEYNOTE-024), which enrolled 790 patients with NSCLC; in a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), which enrolled 192 patients with HNSCC; and in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087), which enrolled 241 patients with cHL; in combination with chemotherapy in a randomized, active-controlled trial (KEYNOTE-189), which enrolled 405 patients with nonsquamous NSCLC; in combination with axitinib in a randomized, active controlled trial (KEYNOTE 426), which enrolled 429 patients with RCC; and in post-marketing use.
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in seven randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-189, and KEYNOTE-407) and eight non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, and KEYNOTE-017).
+The data described in this section were obtained in eight randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-189, and KEYNOTE-407, and KEYNOTE 426) and eight non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, and KEYNOTE-017).
 The data described in this section also included a single randomized, double-blind, placebo-controlled trial (KEYNOTE-054) in which KEYTRUDA was administered for the adjuvant treatment of 509 patients with melanoma with involvement of lymph node(s) following complete surgical resection.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
@@ -730,6 +730,86 @@ Among the 50 patients with MCC enrolled in KEYNOTE-017 [see Clinical Studies (14
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MCC were similar to those occurring in patients with melanoma or NSCLC.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (11%) and hyperglycemia (19%).
+
+RCC
+
+The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.12)].
+Patients with medical conditions that required systemic corticosteroids or other immunosuppressive medications or had a history of severe autoimmune disease other than type 1 diabetes, vitiligo, Sjogren's syndrome, and hypothyroidism stable on hormone replacement were ineligible.
+Patients received KEYTRUDA 200 mg intravenously every 3 weeks and axitinib 5 mg orally twice daily, or sunitinib 50 mg once daily for 4 weeks and then off treatment for 2 weeks.
+The median duration of exposure to the combination therapy of KEYTRUDA and axitinib was 10.4 months (range: 1 day to 21.2 months).
+
+The median age of patients treated with KEYTRUDA in combination with axitinib was 62 years (range: 30 to 89), 40% of patients were 65 years or older, 71% were male, 80% were White, and the performance status as assessed by the Karnofsky Performance Status (KPS) was KPS 90-100 in 80% and KPS 70-80 in 20% of patients.
+
+Fatal adverse reactions occurred in 3.3% of patients receiving KEYTRUDA in combination with axitinib.
+These included 3 cases of cardiac arrest, 2 cases of pulmonary embolism and 1 case each of cardiac failure, death due to unknown cause, myasthenia gravis, myocarditis, Fournier's gangrene, plasma cell myeloma, pleural effusion, pneumonitis, and respiratory failure.
+
+Serious adverse reactions occurred in 40% of patients receiving KEYTRUDA in combination with axitinib.
+Serious adverse reactions in ≥1% of patients receiving KEYTRUDA in combination with axitinib included hepatotoxicity (7%), diarrhea (4.2%), acute kidney injury (2.3%), dehydration (1%), and pneumonitis (1%).
+
+Permanent discontinuation due to an adverse reaction of either KEYTRUDA or axitinib occurred in 31% of patients; 13% KEYTRUDA only, 13% axitinib only, and 8% both drugs.
+The most common adverse reaction (>1%) resulting in permanent discontinuation of KEYTRUDA, axitinib, or the combination was hepatotoxicity (13%), diarrhea/colitis (1.9%), acute kidney injury (1.6%), and cerebrovascular accident (1.2%).
+
+Dose interruptions or reductions due to an adverse reaction, excluding temporary interruptions of KEYTRUDA infusions due to infusion-related reactions, occurred in 76% of patients receiving KEYTRUDA in combination with axitinib.
+This includes interruption of KEYTRUDA in 50% of patients.
+Axitinib was interrupted in 64% of patients and dose reduced in 22% of patients.
+The most common adverse reactions (>10%) resulting in interruption of KEYTRUDA were hepatotoxicity (14%) and diarrhea (11%), and the most common adverse reactions (>10%) resulting in either interruption or reduction of axitinib were hepatotoxicity (21%), diarrhea (19%), and hypertension (18%).
+
+The most common adverse reactions (≥20%) in patients receiving KEYTRUDA and axitinib were diarrhea, fatigue/asthenia, hypertension, hypothyroidism, decreased appetite, hepatotoxicity, palmar-plantar erythrodysesthesia, nausea, stomatitis/mucosal inflammation, dysphonia, rash, cough, and constipation.
+
+Twenty-seven percent (27%) of patients treated with KEYTRUDA in combination with axitinib received an oral prednisone dose equivalent to ≥40 mg daily for an immune-mediated adverse reaction.
+
+Tables 23 and 24 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in at least 20% of patients treated with KEYTRUDA and axitinib in KEYNOTE-426.
+
+Table 23: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA with Axitinib in KEYNOTE-426
+
+| All GradesGraded per NCI CTCAE v4.03 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | KEYTRUDA and Axitinib n=429 |  | Sunitinib n=425 |  |
+| Gastrointestinal |  |  |  |  |
+| DiarrheaIncludes diarrhea, colitis, enterocolitis, gastroenteritis, enteritis, enterocolitis hemorrhagic | 56 | 11 | 45 | 5 |
+| Nausea | 28 | 0.9 | 32 | 0.9 |
+| Constipation | 21 | 0 | 15 | 0.2 |
+| General |  |  |  |  |
+| Fatigue/Asthenia | 52 | 5 | 51 | 10 |
+| Vascular |  |  |  |  |
+| HypertensionIncludes hypertension, blood pressure increased, hypertensive crisis, labile hypertension | 48 | 24 | 48 | 20 |
+| Hepatobiliary |  |  |  |  |
+| HepatotoxicityIncludes ALT increased, AST increased, autoimmune hepatitis, blood bilirubin increased, drug-induced liver injury, hepatic enzyme increased, hepatic function abnormal, hepatitis, hepatitis fulminant, hepatocellular injury, hepatotoxicity, hyperbilirubinemia, immune-mediated hepatitis, liver function test increased, liver injury, transaminases increased | 39 | 20 | 25 | 4.9 |
+| Endocrine |  |  |  |  |
+| Hypothyroidism | 35 | 0.2 | 32 | 0.2 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 30 | 2.8 | 29 | 0.7 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Palmar-plantar erythrodysaesthesia syndrome | 28 | 5 | 40 | 3.8 |
+| Stomatitis/Mucosal inflammation | 27 | 1.6 | 41 | 4 |
+| RashIncludes rash, butterfly rash, dermatitis, dermatitis acneform, dermatitis atopic, dermatitis bullous, dermatitis contact, exfoliative rash, genital rash, rash erythematous, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, seborrhoeric dermatitis, skin discoloration, skin exfoliation, perineal rash | 25 | 1.4 | 21 | 0.7 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Dysphonia | 25 | 0.2 | 3.3 | 0 |
+| Cough | 21 | 0.2 | 14 | 0.5 |
+
+Table 24: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving KEYTRUDA with Axitinib in KEYNOTE-426
+
+| All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
+| --- | --- | --- | --- | --- |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/axitinib (range: 342 to 425 patients) and sunitinib (range: 345 to 422 patients). | KEYTRUDA and Axitinib |  | Sunitinib |  |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 62 | 9 | 54 | 3.2 |
+| Increased ALT | 60 | 20 | 44 | 5 |
+| Increased AST | 57 | 13 | 56 | 5 |
+| Increased creatinine | 43 | 4.3 | 40 | 2.4 |
+| Hyponatremia | 35 | 8 | 29 | 8 |
+| Hyperkalemia | 34 | 6 | 22 | 1.7 |
+| Hypoalbuminemia | 32 | 0.5 | 34 | 1.7 |
+| Hypercalcemia | 27 | 0.7 | 15 | 1.9 |
+| Hypophosphatemia | 26 | 6 | 49 | 17 |
+| Increased alkaline phosphatase | 26 | 1.7 | 30 | 2.7 |
+| HypocalcemiaCorrected for albumin | 22 | 0.2 | 29 | 0.7 |
+| Blood bilirubin increased | 22 | 2.1 | 21 | 1.9 |
+| Activated partial thromboplastin time prolongedTwo patients with a Grade 3 elevated activated partial thromboplastin time prolonged (aPTT) were also reported as having an adverse reaction of hepatotoxicity. | 22 | 1.2 | 14 | 0 |
+| Hematology |  |  |  |  |
+| Lymphopenia | 33 | 11 | 46 | 8 |
+| Anemia | 29 | 2.1 | 65 | 8 |
+| Thrombocytopenia | 27 | 1.4 | 78 | 14 |
 
 ## 6.2 Immunogenicity
 
