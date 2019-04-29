@@ -51,7 +51,7 @@ Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrate
 
 ## 5.3 Liver Function
 
-Fenofibrate at doses equivalent to 87 mg to 130 mg fenofibrate per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
+Fenofibrate at doses equivalent to 130 mg fenofibrate per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
 
 In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal occurred in 5.3% of patients taking fenofibrate versus 1.1% of patients treated with placebo.
 When transaminase determinations were followed either after discontinuation of treatment or during continued treatment, a return to normal limits was usually observed.
@@ -77,7 +77,7 @@ If cholelithiasis is suspected, gallbladder studies are indicated. fenofibrate t
 
 ## 5.6 Coumarin Anticoagulants
 
-Caution should be exercised when anticoagulants are given in conjunction with fenofibrate because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/International Normalized Ratio (INR/INR).
+Caution should be exercised when anticoagulants are given in conjunction with fenofibrate because of the potentiation of coumarin-type anti-coagulants in prolonging the prothrombin time/International Normalized Ratio (PT/INR).
 To prevent bleeding complications, frequent monitoring of PT/INR and dose adjustment of the anticoagulant are recommended until PT/INR has stabilized [see Drug Interactions (7.1)].
 
 ## 5.7 Pancreatitis
