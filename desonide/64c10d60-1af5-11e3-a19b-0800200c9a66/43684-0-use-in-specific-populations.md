@@ -2,29 +2,37 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C.
+Risk Summary
 
-There are no adequate and well-controlled trials of VERDESO Foam in pregnant women.
-Therefore, VERDESO Foam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
+There are no available data on VERDESO Foam use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+In animal reproduction studies, topical administration of a desonide cream, 0.05% formulation during organogenesis caused malformations characteristic of corticosteroids in rats and in rabbits (see Data).
+The available data do not allow the calculation of relevant comparisons between the systemic exposure of desonide observed in animal studies to the systemic exposure that would be expected in humans after topical use of VERDESO Foam.
 
-No long-term reproductive studies in animals have been performed with VERDESO Foam.
-Dermal embryofetal development studies were conducted in rats and rabbits with a desonide cream, 0.05% formulation.
-Topical doses of 0.2, 0.6, and 2.0 g cream/kg/day of a desonide cream, 0.05% formulation or 2.0 g/kg of the cream base were administered topically to pregnant rats (gestational days 6 to 15) and pregnant rabbits (gestational days 6 to 18).
-Maternal body weight loss was noted at all dose levels of the desonide cream, 0.05% formulation in rats and rabbits.
-Teratogenic effects characteristic of corticosteroids were noted in both species.
-The desonide cream, 0.05% formulation was teratogenic in rats at topical doses of 0.6 and 2.0 g cream/kg/day and in rabbits at a topical dose of 2.0 g cream/kg/day.
-No teratogenic effects were noted for the desonide cream, 0.05% formulation at a topical dose of 0.2 g cream/kg/day in rats and at a topical dose of 0.6 g cream/kg/day in rabbits.
-These doses (0.2 g cream/kg/day in rats and 0.6 g cream/kg/day in rabbits) are similar to the maximum recommended human dose based on body surface area comparisons.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-## 8.3 Nursing Mothers
+Data
 
-Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when VERDESO Foam is administered to a nursing woman.
+Animal Data
 
-If used during lactation, VERDESO Foam should not be applied on the chest to avoid accidental ingestion by the infant.
+Topical administration of a desonide cream, 0.05% formulation to pregnant rats (gestational days 6 to 15) and pregnant rabbits (gestational days 6 to 18) at 0.2, 0.6, and 2.0 g cream/kg/day was associated with maternal body weight loss at all dose levels in both species.
+Malformations characteristic of corticosteroids were observed in rats at topical doses of ≥0.6 g cream/kg/day and in rabbits at a topical dose of 2.0 g cream/kg/day.
+No malformations were observed at a topical dose of 0.2 g cream/kg/day in rats and at a topical dose of 0.6 g cream/kg/day in rabbits.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of desonide in human or animal milk, its effects on the breastfed infant, or its effects on milk production.
+
+It is not known whether topical administration of VERDESO Foam could result in sufficient systemic absorption to produce detectable quantities in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VERDESO Foam and any potential adverse effects on the breastfed infant from VERDESO Foam or from the underlying maternal condition.
+
+Clinical Considerations
+
+To minimize potential exposure to the breastfed infant via breast milk, use VERDESO Foam on the smallest area of skin and for the shortest duration possible while breastfeeding.
+Advise breastfeeding women to wash off any VERDESO Foam that has been applied to the nipple and areola prior to breastfeeding to avoid direct infant exposure.
 
 ## 8.4 Pediatric Use
 

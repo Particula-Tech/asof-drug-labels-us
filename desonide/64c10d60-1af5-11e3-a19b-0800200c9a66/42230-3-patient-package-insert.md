@@ -1,4 +1,4 @@
-# FDA-Approved Patient Labeling PATIENT INFORMATION VERDESO (ver-DES-o) (desonide) Foam 0.05%
+FDA-Approved Patient Labeling PATIENT INFORMATION VERDESO (ver-DES-o) (desonide) Foam 0.05%
 
 Read the Patient Information that comes with VERDESO Foam before you start using it and each time you get a refill.
 There may be new information.
@@ -72,7 +72,7 @@ These are not all the possible side effects of VERDESO Foam.
 Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Aqua Pharmaceuticals at 1-866-665-2782 or to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to Almirall at 1-866-665-2782 or to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store VERDESO Foam?
 
@@ -103,13 +103,10 @@ The can is pressurized with a hydrocarbon (propane/butane) propellant.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-VERDESO is a registered trademark of Aqua Pharmaceuticals.
+VERDESO is a registered trademark of Stiefel Laboratories, Inc.
 
-Manufactured by DPT Laboratories, San Antonio, TX 78215 For Aqua Pharmaceuticals, an Almirall Company, Exton, PA 19341
+Manufactured by DPT Laboratories, San Antonio, TX 78215 For Almirall, LLC, Exton, PA 19341
 
-©2016, Aqua Pharmaceuticals.
-All rights reserved.
+©2019, Almirall, LLC All rights reserved.
 
-VER-B-13
-
-Revised: 12/2017
+Revised: 04/2019

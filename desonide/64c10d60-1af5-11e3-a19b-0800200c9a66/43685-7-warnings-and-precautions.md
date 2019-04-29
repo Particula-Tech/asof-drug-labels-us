@@ -32,18 +32,22 @@ If irritation develops, VERDESO Foam should be discontinued and appropriate ther
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noticing a clinical exacerbation.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 
-## 5.3 Concomitant Skin Infections
+## 5.3 Ophthalmic Adverse Reactions
+
+Use of topical corticosteroids may increase the risk of posterior subcapsular cataracts and glaucoma.
+Cataracts and glaucoma have been reported in postmarketing experience with the use of topical corticosteroid products [see Adverse Reactions (6.2)].
+
+Avoid contact of VERDESO Foam with eyes.
+Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
+
+## 5.4 Concomitant Skin Infections
 
 If concomitant skin infections are present or develop, the use of an appropriate antifungal, antibacterial, or antiviral agent should be instituted.
 If a favorable response does not occur promptly, use of VERDESO Foam should be discontinued until the infection has been adequately controlled.
 
-## 5.4 Flammable Contents
+## 5.5 Flammable Contents
 
 The contents of VERDESO Foam include alcohol and propane/butane, which are flammable.
 Avoid fire, flame, and/or smoking during and immediately following application.
 Do not puncture and/or incinerate the containers.
 Do not expose containers to heat and/or store at temperatures above 120°F (49°C).
-
-## 5.5 Laboratory Tests
-
-The cosyntropin (ACTH1-24) stimulation test may be helpful in evaluating patients for HPA axis suppression.
