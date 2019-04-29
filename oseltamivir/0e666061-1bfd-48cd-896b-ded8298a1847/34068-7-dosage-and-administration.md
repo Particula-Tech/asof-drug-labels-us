@@ -18,7 +18,7 @@ Initiate treatment with oseltamivir phosphate capsules within 48 hours of influe
 
 Adults and Adolescents (13 years of age and older)
 
-The recommended oral dose of oseltamivir phosphate capsules for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (one 75 mg capsule twice daily) for 5 days.
+The recommended oral dosage of oseltamivir phosphate capsules for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (one 75 mg capsule twice daily) for 5 days.
 
 Pediatric Patients (2 weeks of age through 12 years of age)
 
@@ -37,20 +37,20 @@ The duration of protection lasts for as long as oseltamivir phosphate capsules d
 
 Pediatric Patients (1 year to 12 years of age)
 
-Table 1 displays the recommended oral dose of oseltamivir phosphate capsules for prophylaxis of influenza in pediatric patients 1 year to 12 years of age based on body weight and provides information about prescribing the capsule or the formulation for oral suspension.
+Table 1 displays the recommended oral dosage of oseltamivir phosphate capsules for prophylaxis of influenza in pediatric patients 1 year to 12 years of age based on body weight and provides information about prescribing the capsule or the formulation for oral suspension.
 Prophylaxis in pediatric patients is recommended for 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak [see Use in Specific Populations (8.4) and Clinical Studies (14.2)].
 
 Table 1 Oseltamivir Phosphate Dosage Recommendations in Pediatric Patients for Treatment and Prophylaxis of Influenza
 
-| Weight | Treatment Dosage for 5 days | Prophylaxis Dosage for 10 daysThe recommended duration for post-exposure prophylaxis is 10 days and the recommended duration for community out break (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). The amount supplied (e.g., number of bottles or capsules) for seasonal prophylaxis may be greater than for post-exposure prophylaxis. | Volume of Oral Suspension (6 mg/mL) for each Dose | Number of Bottles of Oral Suspension to Dispense | Number of Capsules to Dispense (Strength) |
+| Weight | Treatment Dosage for 5 days | Prophylaxis Dosage for 10 daysThe recommended duration for post-exposure prophylaxis is 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). The amount supplied (e.g., number of bottles or capsules) for seasonal prophylaxis may be greater than for post-exposure prophylaxis. | Volume of Oral Suspension (6 mg/mL) for each Dose | Number of Bottles of Oral Suspension to Dispense | Number of Capsules to Dispense (Strength) |
 | --- | --- | --- | --- | --- | --- |
 | Patients from 2 Weeks to less than 1 Year of Age |  |  |  |  |  |
-| Any weight | 3 mg/kg twice daily | Not applicableOseltamivir phosphate for oral suspension is the preferred formulation for patients who cannot swallow capsules. | 0.5 mL/kgFor patients less than 1 year of age, provide an appropriate dosing device that can accurately measure and administer small volumes. | 1 bottle | Not applicable |
+| Any weight | 3 mg/kg twice daily | Not applicable Oseltamivir phosphate for oral suspension is the preferred formulation for patients who cannot swallow capsules. | 0.5 mL/kgFor patients less than 1 year of age, provide an appropriate dosing device that can accurately measure and administer small volumes. | 1 bottle | Not applicable |
 | Patients from 1 to 12 Years of Age Based on Body Weight |  |  |  |  |  |
-| 15 kg or less | 30 mg twice daily | 30 mg once daily | 5 mL | 1 bottle | 10 Capsules (30 mg) |
-| 15.1 kg to 23 kg | 45 mg twice daily | 45 mg once daily | 7.5 mL | 2 bottles | 10 Capsules (45 mg) |
-| 23.1 kg to 40 kg | 60 mg twice daily | 60 mg once daily | 10 mL | 2 bottles | 20 Capsules (30 mg) |
-| 40.1 kg or more | 75 mg twice daily | 75 mg once daily | 12.5 mL | 3 bottles | 10 Capsules (75 mg) |
+| 15 kg or less | 30 mg twice daily | 30 mg once daily | 5 mL | 1 bottle | 10 capsules (30 mg) |
+| 15.1 kg to 23 kg | 45 mg twice daily | 45 mg once daily | 7.5 mL | 2 bottles | 10 capsules (45 mg) |
+| 23.1 kg to 40 kg | 60 mg twice daily | 60 mg once daily | 10 mL | 2 bottles | 20 capsules (30 mg) |
+| 40.1 kg or more | 75 mg twice daily | 75 mg once daily | 12.5 mL | 3 bottles | 10 capsules (75 mg) |
 
 ## 2.4 Dosage in Patients with Renal Impairment
 
@@ -68,11 +68,11 @@ Table 2 Recommended Dosage Modifications for Treatment and Prophylaxis of Influe
 | ESRD Patients on Continuous Ambulatory Peritoneal DialysisData derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. (≤10 mL/minute) | A single 30 mg dose administered immediately | 30 mg immediately and then 30 mg once weekly |
 | ESRD Patients not on Dialysis | Oseltamivir phosphate capsules are not recommended | Oseltamivir phosphate capsules are not recommended |
 
-## 2.6 Emergency Compounding of Oral Suspension from 75 mg Oseltamivir Phosphate Capsules
+## 2.6 Emergency Preparation of Oral Suspension from 75 mg Oseltamivir Phosphate Capsules
 
 The following directions are provided for use only during emergency situations and when FDA-approved, commercially manufactured oseltamivir phosphate for oral suspension is not available from wholesalers or the manufacturer.
 
-The following emergency preparation instructions will provide one patient with enough Oseltamivir Phosphate for a 5-day course of treatment of influenza or a 10-day course of prophylaxis of influenza.
+The following emergency preparation instructions will provide one patient with enough Oseltamivir Phosphate for a 5-day course of treatment of influenza or a 10-day course of prophylaxis of influenza:
 
 Step #1: Determine the dosage of oseltamivir phosphate for the patient [see Dosage and Administration (2.2, 2.3, and 2.4)] then determine the total volume of oral suspension needed to be prepared (see Table 3).
 
@@ -97,7 +97,7 @@ Table 4 Emergency Preparation: Number of Oseltamivir Phosphate 75 mg Capsules an
 | Amount of Water | 2.5 mL | 5 mL | 7 mL | 8 mL | 10 mL |
 | Volume of Vehicle Cherry Syrup (Humco®) OR Ora-Sweet® SF (Paddock Laboratories) OR simple syrup | 34.5 mL | 69 mL | 91 mL | 115 mL | 137 mL |
 
-Step #3: Follow the instructions below for preparing the 75 mg oseltamivir phosphate capsules to produce the oral suspension (6 mg/mL):
+Step #3: Follow the instructions below for preparing the 75 mg oseltamivir phosphate capsules to produce the oral suspension (6 mg per mL):
 
 1. Place the specified amount of water into a polyethyleneterephthalate (PET) or glass bottle (see Table 4).
    Constitution in other bottle types is not recommended because there is no stability data with other bottle types.

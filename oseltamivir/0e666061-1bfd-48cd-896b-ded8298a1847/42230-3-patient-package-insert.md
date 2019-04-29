@@ -45,7 +45,7 @@ Before you take oseltamivir phosphate capsules, tell your healthcare provider if
 - are breastfeeding or plan to breast feed.
   Oseltamivir phosphate can pass into breast milk in small amounts.
 
-Tell your healthcare provider about all the medicines you take, including prescription or over-the- counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription or over-the-counter medicines, vitamins, and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
@@ -60,7 +60,7 @@ How should I take Oseltamivir Phosphate Capsules?
   Take your next dose of oseltamivir phosphate capsules at your scheduled time.
   Do not take 2 doses at the same time.
 - If oseltamivir phosphate for oral suspension is not available or you cannot swallow oseltamivir phosphate capsules, your healthcare provider or pharmacist may instruct you to open oseltamivir phosphate capsules and mix the capsules contents with sweetened liquids such as chocolate syrup (regular or sugar-free), corn syrup, caramel topping, or light brown sugar (dissolved in water).
-- If your healthcare provider has instructed you to take oseltamivir phosphate for oral suspension or open your oseltamivir phosphate capsules, read the detailed Instructions for Use at the end of this leaflet.
+- If your healthcare provider or pharmacist has instructed you to take oseltamivir phosphate for oral suspension or open your oseltamivir phosphate capsules, read the detailed Instructions for Use at the end of this leaflet.
   Ask your pharmacist if you have any questions.
 
 What are the possible side effects of oseltamivir phosphate capsules?
@@ -78,20 +78,19 @@ Oseltamivir phosphate capsules may cause serious side effects, including:
   - trouble breathing
   - chest pain or tightness
 - Change in behavior.
-  People, especially children, who have the flu can develop nervous system problems and abnormal behavior that can lead to death.
+  People, especially children, who have the flu, can develop nervous system problems and abnormal behavior that can lead to death.
   During treatment with oseltamivir phosphate capsules, tell your healthcare provider right away if you or your child have confusion, speech problems, shaky movements, seizures, or start hearing voices or seeing things that are not really there (hallucinations).
 
 The most common side effects of oseltamivir phosphate capsules when used for treatment of the flu include nausea, vomiting, and headache.
 
-The most common side effect of oseltamivir phosphate capsules when used for prevention of the flu include nausea, vomiting, headache, and pain.
+The most common side effect of oseltamivir phosphate capsules when used for the prevention of the flu include nausea, vomiting, headache, and pain.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
 These are not all of the possible side effects of oseltamivir phosphate capsules.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800- FDA-1088.
-
-How should I store Oseltamivir Phosphate Capsules?
+You may report side effects to FDA at 1-800-FDA-1088.
 
 - Store oseltamivir phosphate capsules at room temperature between 68°F to 77°F (20°C to 25°C).
 - Safely throw away any unused oseltamivir phosphate capsules that are out of date or no longer needed.
@@ -137,13 +136,13 @@ Pennington, NJ 08534
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 12/2016
+Revised 01/2019
 
 INSTRUCTIONS FOR USE
 
 Oseltamivir phosphate capsules, USP, for oral use (os-el-TAM-ih-veer)
 
-How do I mix the contents of oseltamivir phosphate capsules with sweetened liquids, if directed by my healthcare provider?
+How do I mix the contents of oseltamivir phosphate capsules with sweetened liquids, if directed by my healthcare provider or pharmacist?
 
 You will need:
 
@@ -160,9 +159,7 @@ Add a small amount of the sweetened liquid to the capsule contents.
 Step 3.
 Stir the mixture and give the entire dose of oseltamivir phosphate.
 
-This Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-P10268-3
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-12/2016
+01/2019

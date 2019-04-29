@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Serious Skin/Hypersensitivity Reactions
 
 Advise patients and/or caregivers of the risk of severe allergic reactions (including anaphylaxis) or serious skin reactions.
-Instruct patients and/or caregivers to stop oseltamivir phosphate capsules and seek immediate medical attention if an allergic-like reaction occurs or is suspected [see Warnings and Precautions (5.1)].
+Instruct patients and/or caregiver to stop oseltamivir phosphate capsules and seek immediate medical attention if an allergic-like reaction occurs or is suspected [see Warnings and Precautions (5.1)].
 
 Neuropsychiatric Events
 
@@ -38,7 +38,7 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-P10268-3
+P10268-6
 
 Rev.
-12/2016
+01/2019

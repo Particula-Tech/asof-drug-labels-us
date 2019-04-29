@@ -19,7 +19,7 @@ Table 6 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Ca
 | AUC0-12h (ng·h/mL) | 112 (25) | 2719 (20) |
 
 Plasma concentrations of oseltamivir carboxylate are proportional to doses up to 500 mg given twice daily (about 6.7 times the maximum recommended oseltamivir phosphate capsules dosage) [see Dosage and Administration (2)].
-Coadministration with food has no significant effect on the peak plasma concentration (551 ng/mL under fasted conditions and 441 ng/mL under fed conditions) and the area under the plasma concentration time curve (6218 ng·h/mL under fasted conditions and 6069 ng·h/mL under fed conditions) of oseltamivir carboxylate.
+Coadministration with food had no significant effect on the peak plasma concentration (551 ng/mL under fasted conditions and 441 ng/mL under fed conditions) and the area under the plasma concentration time curve (6218 ng·h/mL under fasted conditions and 6069 ng·h/mL under fed conditions) of oseltamivir carboxylate.
 
 Distribution
 
@@ -32,7 +32,7 @@ Elimination
 
 Absorbed oseltamivir is primarily (>90%) eliminated by conversion to the active metabolite, oseltamivir carboxylate.
 Plasma concentrations of oseltamivir declined with a half-life of 1 to 3 hours in most subjects after oral administration.
-Oseltamivir carboxylate is not further metabolized and is eliminated in the urine.
+Oseltamivir carboxylate is not further metabolized and is eliminated unchanged in the urine.
 Plasma concentrations of oseltamivir carboxylate declined with a half-life of 6 to 10 hours in most subjects after oral administration.
 
 Metabolism
@@ -78,7 +78,7 @@ Administration of 30 mg once weekly to CAPD patients resulted in plasma concentr
 
 Hepatic Impairment
 
-In clinical studies oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Use in Specific Populations (8.7)].
+In clinical studies, oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Use in Specific Populations (8.7)].
 
 Pregnant Women
 
@@ -140,7 +140,7 @@ Clinical studies: Reduced susceptibility isolates have been obtained during trea
 Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
 The clinical impact of this reduced susceptibility is unknown.
 
-Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173G, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
+Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173E, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
 In some cases, HA substitutions were selected in conjunction with known NA resistance substitutions and may contribute to reduced susceptibility to oseltamivir; however, the impact of HA substitutions on antiviral activity of oseltamivir in humans is unknown and likely to be strain-dependent.
 
 Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptibility to Oseltamivir
@@ -155,12 +155,12 @@ Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptib
 | E119A (E117A), P141S (P139S), G142R (G140R), R152K (R150K), D198E/N/Y (D197E/N/Y), I222L/T/V (I221L/T/V), A246D/S/T (A245D/S/T), H274Y (H273Y), N294S (N294S), R371K (R374K), G402S (G407S) |
 
 Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
-The incidence of oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at rates of 27 to 37% and 3 to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 and influenza A/H3N2, respectively.
+The incidence of oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at rates of 27 to 37% and 3 to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
 The frequency of resistance selection to oseltamivir and the prevalence of such resistant virus vary seasonally and geographically.
 
 Circulating seasonal influenza strains expressing neuraminidase resistance-associated substitutions have been observed in individuals who have not received oseltamivir treatment.
-The oseltamivir resistance- associated substitution H275Y was found in >99% of US circulating 2008 H1N1 influenza virus isolates.
-The 2009 H1N1 influenza virus ("swine flu") was almost uniformly susceptible to oseltamivir; however the frequency of circulating resistant variants can change from season to season.
+The oseltamivir resistance- associated substitution H275Y was found in more than 99% of US circulating 2008 H1N1 influenza virus isolates.
+The 2009 H1N1 influenza virus ("swine flu") was almost uniformly susceptible to oseltamivir; however, the frequency of circulating resistant variants can change from season to season.
 Prescribers should consider available information from the CDC on influenza virus drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate capsules.
 
 Cross-resistance

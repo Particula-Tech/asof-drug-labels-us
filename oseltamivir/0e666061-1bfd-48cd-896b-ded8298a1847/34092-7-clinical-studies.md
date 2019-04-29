@@ -5,7 +5,7 @@
 Adults
 
 Two randomized, placebo-controlled double-blind clinical trials of oseltamivir phosphate capsules were conducted in adults between 18 and 65 years old, one in the U.S. and one outside the U.S., for the treatment of acute uncomplicated influenza.
-Eligible subjects had fever of at least 100°F, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache) and influenza virus was known to be circulating in the community.
+Eligible subjects had fever of at least 100°F, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache), and influenza virus was known to be circulating in the community.
 Subjects were randomized to receive oral oseltamivir phosphate capsules or placebo for 5 days.
 All enrolled subjects were allowed to take fever-reducing medications.
 
@@ -15,7 +15,7 @@ Of the 849 influenza- infected subjects, 95% were infected with influenza A, 3% 
 Study medication was started within 40 hours of onset of symptoms and administered twice daily for 5 days.
 Subjects were required to self-assess the influenza-associated symptoms (nasal congestion, sore throat, cough, aches, fatigue, headaches, and chills/sweats) twice daily as "none," "mild," "moderate," or "severe".
 Time to improvement was calculated from the time of treatment initiation to the time when all symptoms were assessed as "none" or "mild".
-In both trials, there was a 1.3-day reduction in the median time to improvement in influenza-infected subjects receiving oseltamivir phosphate capsules 75 mg twice a day for 5 days compared to subjects who received placebo.
+In both trials, there was a 1.3-day reduction in the median time to improvement in influenza-infected subjects who received oseltamivir phosphate capsules 75 mg twice a day for 5 days compared to subjects who received placebo.
 Subgroup analyses by gender showed no differences in the treatment effect of oseltamivir phosphate capsules in men and women.
 
 In the treatment of influenza, no increased efficacy was demonstrated in subjects who received higher doses of oseltamivir phosphate capsules.
@@ -37,7 +37,7 @@ Some seasonal variability was noted in the clinical efficacy outcomes.
 
 Pediatric Subjects (1 year to 12 years of age)
 
-One double-blind placebo-controlled treatment trial was conducted in pediatric subjects aged 1 year to 12 years (median age 5 years), who had fever (at least 100°F) plus one respiratory symptom (cough or coryza) when influenza virus was known to be circulating in the community.
+One double-blind placebo-controlled treatment trial was conducted in pediatric subjects aged 1 year to 12 years (median age 5 years) who had fever (at least 100°F) plus one respiratory symptom (cough or coryza) when influenza virus was known to be circulating in the community.
 Of 698 subjects enrolled in this trial, 452 (65%) were influenza-infected (50% male; 68% Caucasian).
 Of the 452 influenza-infected subjects, 67% were infected with influenza A and 33% with influenza B.
 
@@ -48,7 +48,7 @@ Subgroup analyses by gender showed no differences in the treatment effect of ose
 Pediatric Subjects (2 weeks to less than 1 year of age)
 
 Two open-label trials evaluated the safety and pharmacokinetics of oseltamivir and oseltamivir carboxylate in influenza-infected pediatric subjects 2 weeks to less than 1 year of age (including premature infants at least 36 weeks post conceptional age).
-Subjects received oseltamivir phosphate at doses ranging from 2 to 3.5 mg/kg twice daily for 5 days depending on subject age.
+Subjects received oseltamivir phosphate at doses ranging from 2 to 3.5 mg per kg twice daily for 5 days depending on subject age.
 These clinical trials were not designed to evaluate clinical efficacy or virologic response.
 
 Of the 136 subjects under the age of 1 year enrolled and dosed in the trials, the majority of the subjects were male (55%), white (79%), non-Hispanic (74%), full term (76%) and infected with influenza A (80%).
@@ -66,14 +66,14 @@ The efficacy endpoint for all of these trials was the incidence of laboratory-co
 - at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), and
 - either a positive virus isolation or a four-fold increase in virus antibody titers from baseline.
 
-In a pooled analysis of two seasonal prophylaxis studies in healthy unvaccinated adults (aged 18 to 65 years), oseltamivir phosphate 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory-confirmed clinical influenza from 5% (25/519) for the placebo group to 1% (6/520) for the oseltamivir phosphate group.
+In a pooled analysis of two seasonal prophylaxis trials in healthy unvaccinated adults (aged 18 to 65 years), oseltamivir phosphate 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory-confirmed clinical influenza from 5% (25/519) for the placebo group to 1% (6/520) for the oseltamivir phosphate group.
 
 In the seasonal (community outbreak) prophylaxis trial in elderly residents of skilled nursing homes, about 80%, 43%, and 14% of the subjects were vaccinated, had cardiac disorders, and had chronic airway obstructive disorders, respectively.
 In this trial, subjects were randomized to oseltamivir phosphate capsules 75 mg once daily or placebo taken orally for 42 days.
 The incidence of laboratory-confirmed clinical influenza was 4% (12/272) in the placebo-treated subjects compared to less than 1% (1/276) in the oseltamivir phosphate-treated subjects.
 
 In the post-exposure prophylaxis trial in household contacts (aged 13 years or older) of an index influenza case, oseltamivir phosphate 75 mg once daily or placebo taken orally was administered within 48 hours of onset of symptoms in the index case and continued for 7 days (index cases did not receive oseltamivir phosphate capsules treatment).
-The incidence of laboratory-confirmed clinical influenza was 12% (24/200) in the placebo-treated subjects compared to 1% (2/205) for the oseltamivir phosphate-treated subjects.
+The incidence of laboratory-confirmed clinical influenza was 12% (24/200) in the placebo-treated subjects compared to 1% (2/205) in the oseltamivir phosphate-treated subjects.
 
 Pediatric Subjects (1 year to 12 years of age)
 
@@ -82,7 +82,7 @@ All index cases in this trial received oseltamivir phosphate for oral suspension
 The efficacy parameter was the incidence of laboratory-confirmed clinical influenza in the household.
 Laboratory-confirmed clinical influenza was defined as meeting all of the following criteria:
 
-- oral temperature at leasy 100°F (37.8°C),
+- oral temperature at least 100°F (37.8°C),
 - cough and/or coryza recorded within 48 hours, and
 - either a positive virus isolation or a four-fold or greater increase in virus antibody titers from baseline or at illness visits.
 
