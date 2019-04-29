@@ -32,10 +32,31 @@ How should I use ALTRENO?
 
 - •Use ALTRENO exactly as your healthcare provider tells you to use it.
 - •Apply a thin layer of ALTRENO to cover the affected areas 1 time each day.
+
+Applying ALTRENO:
+
+- •ALTRENO comes in a tube and a pump.
+  If you have been prescribed the:
+
+Tube: Squeeze the lotion from the tube onto a fingertip.
+Apply a thin layer to cover the affected areas, as prescribed
+
+by your doctor.
+Spread ALTRENO evenly over the affected areas.
+
+Pump: Fully depress the pump to dispense ALTRENO onto a fingertip.
+Apply a thin layer to cover the
+
+affected areas, as prescribed by your doctor.
+Spread ALTRENO evenly over the affected areas.
+
+Wash your hands after applying ALTRENO.
+
 - What should I avoid while using ALTRENO?
+
 - •You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with ALTRENO.
 - •Minimize exposure to sunlight.
-- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with a SPF (sun protection factor) of 15 or more and wear protective clothing and a wide-brimmed hat to cover the treated areas.
+- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with an SPF (sun protection factor) of 15 or more and wear protective clothing and a wide-brimmed hat to cover the treated areas.
 
 What are the possible side effects of ALTRENO?
 
@@ -55,6 +76,7 @@ How should I store ALTRENO?
 
 - •Store ALTRENO at room temperature between 68° to 77°F (20° to 25°C).
 - •Do not freeze.
+- •Store ALTRENO pump upright
 - Keep ALTRENO and all medicines out of the reach of children.
 
 General information about the safe and effective use of ALTRENO
@@ -71,18 +93,16 @@ Active ingredient: tretinoin
 
 Inactive ingredients: benzyl alcohol, butylated hydroxytoluene, carbomer copolymer type B (Pemulen TR-1), carbomer homopolymer type A (Carbopol 981), glycerin, methylparaben, mineral oil, octoxynol-9, purified water, sodium hyaluronate, soluble collagen and trolamine.
 
-Manufactured for: Dow Pharmaceutical Sciences, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Manufactured for: Bausch Health Americas, Inc., Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc., Laval, Quebec H7L 4A8, Canada.
+By: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
 For more information, call 1-800-321-4576.
 
 U.S. Patent Number: 6,517,847
 
-Altreno and Ortho Dermatologics are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Altreno is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-- © 2018 Valeant Pharmaceuticals North America LLC
-- This Patient Information has been approved by the U.S. Food and Drug Administration.
-- Issued: 08/2018
+© 2019 Bausch Health Companies Inc. or its affiliates This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-9650300 20002182A
+9650301 Revised: 04/2019

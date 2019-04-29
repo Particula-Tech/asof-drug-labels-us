@@ -7,21 +7,12 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Manufactured for:
 
-Dow Pharmaceutical Sciences, a division of Valeant Pharmaceuticals North America LLC
+Bausch Health Americas, Inc. Bridgewater, NJ 08807 USA
 
-Bridgewater, NJ 08807 USA
-
-By:
-
-Valeant Pharmaceuticals International, Inc.
-
-Laval, Quebec H7L 4A8, Canada
+By: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
 U.S. Patent Number: 6,517,847
 
-Altreno and Ortho Dermatologics are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
-
-- © Valeant Pharmaceuticals North America LLC
-- 9650300 20002182A
-- Rev.
-  08/2018
+- ALTRENO is a trademark of Bausch Health Companies Inc. or its affiliates.
+- © 2019 Bausch Health Companies Inc. or its affiliates
+- 9650301
