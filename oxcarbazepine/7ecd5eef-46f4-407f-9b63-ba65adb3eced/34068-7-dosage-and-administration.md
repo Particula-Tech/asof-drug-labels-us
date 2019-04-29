@@ -5,7 +5,6 @@
 Initiate oxcarbazepine with a dose of 600 mg/day, given twice-a-day.
 If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the maximum recommended daily dose is 1,200 mg/day.
 Daily doses above 1,200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2,400 mg/day dose, primarily because of CNS effects.
-
 Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
 
 ## 2.2 Conversion to Monotherapy for Adults

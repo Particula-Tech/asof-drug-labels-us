@@ -9,7 +9,6 @@ Most patients who developed hyponatremia were asymptomatic but patients in the c
 Whether or not these maneuvers prevented the occurrence of more severe events is unknown.
 Cases of symptomatic hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH) have been reported during postmarketing use.
 In clinical trials, patients whose treatment with oxcarbazepine was discontinued due to hyponatremia generally experienced normalization of serum sodium within a few days without additional treatment.
-
 Measurement of serum sodium levels should be considered for patients during maintenance treatment with oxcarbazepine, particularly if the patient is receiving other medications known to decrease serum sodium levels (e.g., drugs associated with inappropriate ADH secretion) or if symptoms possibly indicating hyponatremia develop (e.g., nausea, malaise, headache, lethargy, confusion, obtundation, or increase in seizure frequency or severity).
 
 ## 5.2 Anaphylactic Reactions and Angioedema
@@ -23,7 +22,7 @@ These patients should not be rechallenged with the drug [see Warnings and Precau
 
 Approximately 25% to 30% of patients who have had hypersensitivity reactions to carbamazepine will experience hypersensitivity reactions with oxcarbazepine.
 For this reason patients should be specifically questioned about any prior experience with carbamazepine, and patients with a history of hypersensitivity reactions to carbamazepine should ordinarily be treated with oxcarbazepine only if the potential benefit justifies the potential risk.
-If signs or symptoms of hypersensitivity develop, oxcarbazepine should be discontinued immediately [see Warnings and Precautions (5.2, 5.8)].
+If signs or symptoms of hypersensitivity develop, oxcarbazepine should be discontinued immediately [see Warnings andPrecautions (5.2, 5.8)]
 
 ## 5.4 Serious Dermatological Reactions
 
@@ -92,7 +91,9 @@ But if withdrawal is needed because of a serious adverse event, rapid discontinu
 
 Use of oxcarbazepine has been associated with central nervous system-related adverse reactions.
 The most significant of these can be classified into 3 general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems, 2) somnolence or fatigue, and 3) coordination abnormalities, including ataxia and gait disturbances.
+
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on oxcarbazepine to gauge whether it adversely affects their ability to drive or operate machinery.
+
 Adult Patients In one large, fixed-dose study, oxcarbazepine was added to existing AED therapy (up to three concomitant AEDs).
 By protocol, the dosage of the concomitant AEDs could not be reduced as oxcarbazepine was added, reduction in oxcarbazepine dosage was not allowed if intolerance developed, and patients were discontinued if unable to tolerate their highest target maintenance doses.
 In this trial, 65% of patients were discontinued because they could not tolerate the 2,400 mg/day dose of oxcarbazepine on top of existing AEDs.
@@ -103,18 +104,12 @@ In addition, 26% of oxcarbazepine-treated patients and 12% of placebo-treated pa
 The risk of discontinuation for somnolence was about 10 times greater on oxcarbazepine than on placebo.
 Finally, 28.7% of oxcarbazepine-treated patients and 6.4% of placebo-treated patients experienced ataxia or gait disturbances.
 The risk for discontinuation for these events was about 7 times greater on oxcarbazepine than on placebo.
-
 In a single placebo-controlled monotherapy trial evaluating 2,400 mg/day of oxcarbazepine, no patients in either treatment group discontinued double-blind treatment because of cognitive adverse events, somnolence, ataxia, or gait disturbance.
-
 In the 2 dose-controlled conversion to monotherapy trials comparing 2,400 mg/day and 300 mg/day oxcarbazepine, 1.1% of patients in the 2,400 mg/day group discontinued double-blind treatment because of somnolence or cognitive adverse reactions compared to 0% in the 300 mg/day group.
 In these trials, no patients discontinued because of ataxia or gait disturbances in either treatment group.
-
-Pediatric Patients
-
-A study was conducted in pediatric patients (3 to 17 years old) with inadequately controlled partial seizures in which oxcarbazepine was added to existing AED therapy (up to 2 concomitant AEDs).
+Pediatric Patients A study was conducted in pediatric patients (3 to 17 years old) with inadequately controlled partial-onset seizures in which oxcarbazepine was added to existing AED therapy (up to 2 concomitant AEDs).
 By protocol, the dosage of concomitant AEDs could not be reduced as oxcarbazepine was added.
 Oxcarbazepine was titrated to reach a target dose ranging from 30 mg/kg to 46 mg/kg (based on a patient’s body weight with fixed doses for predefined weight ranges).
-
 Cognitive adverse events occurred in 5.8% of oxcarbazepine-treated patients (the single most common event being concentration impairment, 4 of 138 patients) and in 3.1% of patients treated with placebo.
 In addition, 34.8% of oxcarbazepine-treated patients and 14% of placebo-treated patients experienced somnolence.
 (No patient discontinued due to a cognitive adverse reaction or somnolence.).

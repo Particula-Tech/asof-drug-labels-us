@@ -18,7 +18,7 @@ Accordingly, advise patients not to drive or operate machinery until they have g
 Multi-Organ Hypersensitivity Instruct patients that a fever associated with other organ system involvement (e.g., rash, lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately [see Warnings and Precautions (5.8)].
 Hematologic Events Advise patients that there have been rare reports of blood disorders reported in patients treated with oxcarbazepine.
 Instruct patients to immediately consult with their physician if they experience symptoms suggestive of blood disorders [see Warnings and Precautions (5.9)].
-Drug Interactions Caution female patients of reproductive potential that the concurrent use of oxcarbazepine with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.2)].
+Drug Interactions Caution female patients of reproductive potential that the concurrent use of oxcarbazepine with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.2) and Use in Specific Populations (8.1)].
 Additional non-hormonal forms of contraception are recommended when using oxcarbazepine.
 Caution should be exercised if alcohol is taken in combination with oxcarbazepine, due to a possible additive sedative effect.
 Pregnancy Registry Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
