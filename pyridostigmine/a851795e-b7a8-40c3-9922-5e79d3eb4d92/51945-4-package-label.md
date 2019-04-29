@@ -2,7 +2,7 @@
 
 NDC 0187-3012-20 Rx Only
 
-Syrup Mestinon® (pyridostigmine bromide syrup)
+Mestinon® (pyridostigmine bromide) Oral Solution, USP
 
 5 mL = 60 mg 1 Pint (473 mL)
 
@@ -10,7 +10,7 @@ Syrup Mestinon® (pyridostigmine bromide syrup)
 
 Alcohol 5%
 
-VALEANT
+BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablets Bottle Label
 
