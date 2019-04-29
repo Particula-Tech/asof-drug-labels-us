@@ -116,7 +116,7 @@ Mechanism of Action
 The bactericidal activity of meropenem results from the inhibition of cell wall synthesis.
 Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets.
 Meropenem binds to PBPs 2, 3 and 4 of Escherichia coli and Pseudomonas aeruginosa; and PBPs 1, 2 and 4 of Staphylococcus aureus.
-Bactericidal concentrations (defined as a 3 log10 reduction in cell counts within 12 hours to 24 hours) are typically 1-2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
+Bactericidal concentrations (defined as a 3 log 10 reduction in cell counts within 12 hours to 24 hours) are typically 1-2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
 
 Meropenem does not have in vitro activity against methicillin-resistant Staphylococcus aureus (MRSA) or methicillin-resistant Staphylococcus epidermidis (MRSE).
 

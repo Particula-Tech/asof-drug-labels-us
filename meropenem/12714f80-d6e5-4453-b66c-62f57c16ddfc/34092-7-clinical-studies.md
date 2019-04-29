@@ -30,7 +30,7 @@ Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population
 2 N = number of patients in the clinically evaluable population or respective subgroup within treatment groups.
 
 The clinical efficacy rates by pathogen are provided in Table 8.
-The values represent the number of patients clinically cured/number of clinically evaluable patients at the posttreatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
+The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
 Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 
