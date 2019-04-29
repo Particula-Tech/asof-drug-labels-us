@@ -15,31 +15,17 @@ Patients should be advised:
 
 Manufactured for:
 
-Lupin Pharma
+Lupin Pharmaceuticals, Inc
 
 Baltimore, Maryland 21202
 
 United States.
 
-Manufactured by:
-
-Lupin Limited
-
-Goa - 403 722
-
-INDIA
-
-OR
-
-Lupin Limited
-
-Pithampur (M.P.) - 454 775
-
-INDIA
+MADE IN INDIA
 
 Address Medical Inquiries to:
 
-Lupin Pharma Medical Inquiries
+Lupin Pharmaceuticals Inc.
 
 111 South Calvert Street, 21st Floor
 
@@ -47,4 +33,4 @@ Baltimore, MD 21202
 
 or Call: 1-800-399-2561
 
-Revised: April 2018 ID: 255026
+Revised: April 28, 2019 ID: 257316

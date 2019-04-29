@@ -18,4 +18,4 @@ Antara (fenofibrate) Capsules
 
 Rx only
 
-Container Label: Bottle of 30 Capsules
+Container Label: Bottle of 90 Capsules
