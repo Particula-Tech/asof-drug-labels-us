@@ -9,4 +9,8 @@
 | Other information about NSAIDs Aspirin is an NSAID but it does not increase the chance of a heart attack. Aspirin can cause bleeding in the brain, stomach, and intestines. Aspirin can also cause ulcers in the stomach and intestines. Some NSAIDs are sold in lower doses without a prescription (over-the-counter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. |
 | General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |
 | Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807For more information, go to www.amneal.com or call 1-877-835-5472 |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. Rev. Date 03-2017-02 |
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Rev.
+03-2017-02

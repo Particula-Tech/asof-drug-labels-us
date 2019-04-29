@@ -72,8 +72,8 @@ Experience in pediatric patients has been confined to the use of indomethacin im
 If a decision is made to use indomethacin for pediatric patients two years of age or older, such patients should be monitored closely and periodic assessment of liver function is recommended.
 There have been cases of hepatotoxicity reported in pediatric patients with juvenile rheumatoid arthritis, including fatalities.
 If indomethacin treatment is instituted, a suggested starting dose is 1 to 2 mg/kg/day given in divided doses.
-Maximum daily dosage should not exceed 3 mg/kg/day or 150 to 200 mg/day, whichever is less.
-Limited data are available to support the use of a maximum daily dosage of 4 mg/kg/day or 150 to 200 mg/day, whichever is less.
+Maximum daily dosage should not exceed 3 mg/kg/day or 150 mg/day to 200 mg/day, whichever is less.
+Limited data are available to support the use of a maximum daily dosage of 4 mg/kg/day or 150 mg/day to 200 mg/day, whichever is less.
 As symptoms subside, the total daily dosage should be reduced to the lowest level required to control symptoms, or the drug should be discontinued.
 
 ## 8.5 Geriatric Use

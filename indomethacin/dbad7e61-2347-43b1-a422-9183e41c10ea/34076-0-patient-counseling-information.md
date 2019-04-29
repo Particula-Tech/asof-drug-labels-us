@@ -48,3 +48,6 @@ Use of NSAIDs and Low-Dose Aspirin
 Inform patients not to use low-dose aspirin concomitantly with indomethacin immediate-release capsules until they talk to their healthcare provider [see Drug Interactions (7)].
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+
+Rev.
+04-2019-03

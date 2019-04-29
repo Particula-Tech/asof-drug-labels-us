@@ -29,11 +29,12 @@ The probability of a causal relationship exists between indomethacin immediate-r
 The adverse reactions reported with indomethacin immediate-release capsules may occur with use of the suppositories.
 In addition, rectal irritation and tenesmus have been reported in patients who have received the capsules.
 
-| Table 1 Summary of Adverse Reactions for Indomethacin Immediate-Release Capsules |  |  |
-| --- | --- | --- |
+Table 1: Summary of Adverse Reactions for Indomethacin Immediate-Release Capsules
+
 | Incidence greater than 1% | Incidence less than 1% |  |
+| --- | --- | --- |
 | GASTROINTESTINAL |  |  |
-| nausea* with or without vomiting dyspepsia* (including indigestion, heartburn and epigastric pain) diarrhea abdominal distress or pain constipation | anorexia bloating (includes distension) flatulence peptic ulcer gastroenteritis rectal bleeding proctitis single or multiple ulcerations, including perforation and hemorrhage of the esophagus, stomach, duodenum or small and large intestines intestinal ulceration associated with stenosis and obstruction | gastrointestinal bleeding without obvious ulcer formation and perforation of preexisting sigmoid lesions (diverticulum, carcinoma, etc.) development of ulcerative colitis and regional ileitis ulcerative stomatitis toxic hepatitis and jaundice (some fatal cases have been reported) intestinal strictures (diaphragms) |
+| nausea* with or without vomiting dyspepsia* (including indigestion, heartburn and epigastric pain) diarrhea abdominal distress or pain constipation | anorexia bloating (includes distension) flatulence peptic ulcer gastroenteritis rectal bleeding proctitis single or multiple ulcerations, including perforation and hemorrhage of the esophagus, stomach, duodenum or small and large intestines intestinal ulceration associated with stenosis and obstruction | gastrointestinal bleeding without obvious ulcer formation and perforation of preexisting sigmoid lesions (diverticulum, carcinoma, etc.) development of ulcerative colitis and regional ileitis ulcerative stomatitis toxic hepatitis and jaundice (some fatal cases have been reported) intestinal strictures (diaphragms)pancreatitis |
 | CENTRAL NERVOUS SYSTEM |  |  |
 | headache (11.7%) dizziness* vertigo somnolence depression and fatigue (including malaise and listlessness) | anxiety (includes nervousness) muscle weakness involuntary muscle movements insomnia muzziness psychic disturbances including psychotic episodes mental confusion drowsiness | light-headedness syncope paresthesia aggravation of epilepsy and parkinsonism depersonalization coma peripheral neuropathy convulsion dysarthria |
 | SPECIAL SENSES |  |  |

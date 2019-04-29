@@ -23,7 +23,7 @@ Dosage Recommendations for Active Stages of the Following:
 ## 2.2 Moderate to severe rheumatoid arthritis including acute flares of chronic disease; moderate to severe ankylosing spondylitis; and moderate to severe osteoarthritis
 
 Indomethacin immediate-release capsules, 25 mg twice a day or three times a day.
-If this is well tolerated, increase the daily dosage by 25 mg or by 50 mg, if required by continuing symptoms, at weekly intervals until a satisfactory response is obtained or until a total daily dose of 150 to 200 mg is reached.
+If this is well tolerated, increase the daily dosage by 25 mg or by 50 mg, if required by continuing symptoms, at weekly intervals until a satisfactory response is obtained or until a total daily dose of 150 mg to 200 mg is reached.
 Doses above this amount generally do not increase the effectiveness of the drug.
 
 In patients who have persistent night pain and/or morning stiffness, the giving of a large portion, up to a maximum of 100 mg, of the total daily dose at bedtime may be helpful in affording relief.
@@ -41,7 +41,7 @@ As advancing years appear to increase the possibility of adverse reactions, indo
 
 ## 2.3 Acute painful shoulder (bursitis and/or tendinitis)
 
-Indomethacin immediate-release capsules 75 to 150 mg daily in 3 or 4 divided doses.
+Indomethacin immediate-release capsules 75 mg to 150 mg daily in 3 or 4 divided doses.
 
 Discontinue indomethacin extended-release capsules treatment after the signs and symptoms of inflammation have been controlled for several days.
 The usual course of therapy is 7 to 14 days.

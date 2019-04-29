@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Indomethacin extended-release capsules, USP, 75 mg are hard gelatin capsules with natural clear body imprinted “506” and blue translucent cap imprinted “AMNEAL” with black ink.
+Indomethacin Extended-Release Capsules USP, 75 mg are hard gelatin capsules with natural clear body imprinted “506” and blue translucent cap imprinted “AMNEAL” with black ink.
 They are available as follows:
 
 Bottles of 30: NDC 65162-506-03
@@ -17,4 +17,6 @@ Bottles of 1000: NDC 65162-506-11
 
 Storage
 
-Store at room temperature 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at room temperature 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+
+Contains color additives, including FD&C Yellow No. 5 (tartrazine).

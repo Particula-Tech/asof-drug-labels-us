@@ -2,9 +2,10 @@
 
 See Table 2 for clinically significant drug interactions with indomethacin.
 
-| Table 2 Clinically Significant Drug Interactions with Indomethacin |  |
-| --- | --- |
+Table 2: Clinically Significant Drug Interactions with Indomethacin
+
 | Drugs That Interfere with Hemostasis |  |
+| --- | --- |
 | Clinical Impact: | Indomethacin and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of indomethacin and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
 | Intervention: | Monitor patients with concomitant use of indomethacin extended-release capsules with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [see Warnings and Precautions (5.11)]. |
 | Aspirin |  |

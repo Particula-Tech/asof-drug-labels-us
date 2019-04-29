@@ -19,7 +19,7 @@ Absorption
 Following single oral doses of indomethacin immediate-release capsules 25 mg or 50 mg, indomethacin is readily absorbed, attaining peak plasma concentrations of about 1 and 2 mcg/mL, respectively, at about 2 hours.
 Orally administered indomethacin immediate-release capsules are virtually 100% bioavailable, with 90% of the dose absorbed within 4 hours.
 A single 50 mg dose of indomethacin oral suspension was found to be bioequivalent to a 50 mg indomethacin immediate-release capsule when each was administered with food.
-With a typical therapeutic regimen of 25 or 50 mg three times a day, the steady-state plasma concentrations of indomethacin are an average 1.4 times those following the first dose.
+With a typical therapeutic regimen of 25 mg or 50 mg three times a day, the steady-state plasma concentrations of indomethacin are an average 1.4 times those following the first dose.
 
 Indomethacin extended-release capsules 75 mg are designed to release 25 mg of the drug initially and the remaining 50 mg over approximately 12 hours (90% of dose absorbed by 12 hours).
 When measured over a 24-hour period, the cumulative amount and time-course of indomethacin absorption from a single indomethacin extended-release capsule are comparable to those of 3 doses of 25 mg indomethacin immediate-release capsules given at 4 to 6 hour intervals
