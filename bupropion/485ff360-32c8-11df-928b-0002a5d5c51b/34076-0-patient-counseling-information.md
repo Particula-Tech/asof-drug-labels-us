@@ -49,13 +49,13 @@ Patients with type 2 diabetes mellitus on antidiabetic therapy should be advised
 Patients should be advised to swallow CONTRAVE tablets whole so that the release rate is not altered.
 Do not chew, divide, or crush tablets.
 
-| Distributed by: | Manufactured for: |
-| --- | --- |
-| Pernix Therapeutics, LLC. | Nalpropion Pharmaceuticals, Inc. |
-| Morristown, NJ 07960 | La Jolla, CA 92037 |
+| Distributed by: |
+| --- |
+| Nalpropion Pharmaceuticals, Inc., |
+| San Diego, CA 92122 |
 
 CONTRAVE® is a registered trademark of Nalpropion Pharmaceuticals, Inc.
 
-All other trademarks are the property of their respective owners. © 2018 Nalpropion Pharmaceuticals, Inc.
+All other trademarks are the property of their respective owners. © 2019 Nalpropion Pharmaceuticals, Inc.
 
-LBL-00076
+LBL-00077
