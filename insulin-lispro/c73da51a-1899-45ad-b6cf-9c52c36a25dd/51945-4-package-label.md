@@ -12,9 +12,7 @@ Mix75/25TM
 
 insulin lispro protamine
 
-and insulin lispro
-
-injectable suspension
+and insulin lispro injectable suspension
 
 For subcutaneous use only.
 
@@ -34,9 +32,7 @@ Humalog® Mix75/25™
 
 KwikPen®
 
-insulin lispro protamine and insulin lispro
-
-injectable suspension
+insulin lispro protamine and insulin lispro injectable suspension
 
 For Single Patient Use Only
 
