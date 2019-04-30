@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209087"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "B. Braun Medical Inc.",
+  "package_ndcs": [
+    "0264-9379-88"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bupivacaine hydrochloride with dextrose",
+      "name": "Bupivacaine Hydrochloride with Dextrose"
+    }
+  ],
+  "setid": "ff43d2b6-acb4-45c8-96b6-971d2a7a6767",
+  "source": "dailymed"
+}
