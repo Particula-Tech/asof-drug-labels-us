@@ -2,13 +2,26 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects,Pregnancy Category B. Administration of tamsulosin hydrochloride to pregnant female rats at dose levels up to approximately 50 times the human therapeutic AUC exposure (300 mg/kg/day) revealed no evidence of harm to the fetus.
-Administration of tamsulosin hydrochloride to pregnant rabbits at dose levels up to 50 mg/kg/day produced no evidence of fetal harm.
-Tamsulosin hydrochloride capsules are not indicated for use in women.
+Risk Summary Tamsulosin hydrochloride is not indicated for use in women.
+There are no adequate data on the developmental risk associated with the use of tamsulosin hydrochloride in pregnant women.
+No adverse developmental effects were observed in animal studies in which tamsulosin hydrochloride was administered to rats or rabbits during the period of organogenesis (GD 7 to 17 in the rat and GD 6 to 18 in the rabbit) [see Data].
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+Data Administration of tamsulosin hydrochloride to pregnant female rats during the period of organogenesis at dose levels up to approximately 50 times the human therapeutic AUC exposure (300 mg/kg/day) revealed no evidence of harm to the fetus.
+Administration of tamsulosin hydrochloride to pregnant rabbits during the period of organogenesis at dose levels up to 50 mg/kg/day produced no evidence of fetal harm.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Tamsulosin hydrochloride capsules are not indicated for use in women.
+Tamsulosin hydrochloride is not indicated for use in women.
+There are no data on the presence of tamsulosin hydrochloride in human milk, the effects of tamsulosin hydrochloride on the breastfed infant, or the effects of tamsulosin hydrochloride on milk production.
+Tamsulosin hydrochloride is present in the milk of lactating rats [see Data].
+Data Oral administration of radiolabeled tamsulosin hydrochloride to rats demonstrated that tamsulosin hydrochloride and/or its metabolites are excreted into the milk of rats.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility Males Abnormal ejaculation including ejaculation failure, ejaculation disorder, retrograde ejaculation, and ejaculation decrease has been associated with tamsulosin hydrochloride [see Clinical Trials Experience (6.1)].
+Studies in rats revealed significantly reduced fertility in males considered to be due to impairment of ejaculation, which was reversible [see Nonclinical Toxicology (13.1)].
+Females Tamsulosin hydrochloride is not indicated for use in women.
+Female fertility in rats was significantly reduced, considered to be due to impairment of fertilization [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

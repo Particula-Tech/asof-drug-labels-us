@@ -39,7 +39,7 @@ Table 1 Treatment-Emergent1 Adverse Events Occurring in ≥2% of Tamsulosin Hydr
 | SPECIAL SENSES |  |  |  |
 | Blurred vision | 1 (0.2%) | 10 (2.0%) | 2 (0.4%) |
 
-1 A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: • The adverse event occurred for the first time after initial dosing with double-blind study medication. • The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; or • The adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment.
+1 A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: • The adverse event occurred for the first time after initial dosing with double-blind study medication; • The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; or • The adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment.
 2Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms.
 3Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever.
 

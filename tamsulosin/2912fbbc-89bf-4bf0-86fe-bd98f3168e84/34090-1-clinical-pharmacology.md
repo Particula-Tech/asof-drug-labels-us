@@ -83,7 +83,8 @@ However, patients with end-stage renal disease (CLcr <10 mL/min/1.73 m2) have no
 
 Hepatic Impairment The pharmacokinetics of tamsulosin hydrochloride have been compared in 8 subjects with moderate hepatic impairment (Child-Pugh’s classification: Grades A and B) and 8 normal subjects.
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride does not change significantly, with only a modest (32%) change in intrinsic clearance of unbound tamsulosin hydrochloride.
-Therefore, patients with moderate hepatic impairment do not require an adjustment in tamsulosin hydrochloride capsules dosage. tamsulosin hydrochloride has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
+Therefore, patients with moderate hepatic impairment do not require an adjustment in tamsulosin hydrochloride capsules dosage.
+Tamsulosin hydrochloride has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
 
 Drug Interactions Cytochrome P450 Inhibition Strong and Moderate Inhibitors of CYP3A4 or CYP2D6 The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range 23 to 47 years).
 Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
@@ -93,7 +94,7 @@ The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for
 Concomitant treatment with paroxetine resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
 A fraction of the population (about 7% of Caucasians and 2% of African Americans) are CYP2D6 PMs.
-Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin hydrochloride 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin hydrochloride 0.4 mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin hydrochloride 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin hydrochloride capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
 The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin hydrochloride have not been evaluated [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 

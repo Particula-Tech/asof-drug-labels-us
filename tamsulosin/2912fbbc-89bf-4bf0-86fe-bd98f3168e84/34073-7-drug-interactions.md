@@ -9,7 +9,7 @@ The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., 
 
 Concomitant treatment with paroxetine (a strong inhibitor of CYP2D6) resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
-Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin hydrochloride 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin hydrochloride 0.4 mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin hydrochloride 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin hydrochloride capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin hydrochloride capsules have not been evaluated [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 

@@ -14,7 +14,7 @@ Tamsulosin hydrochloride capsules should be used with caution in combination wit
 
 Tamsulosin hydrochloride capsules should be used with caution in combination with cimetidine, particularly at a dose higher than 0.4 mg (e.g., 0.8 mg) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
-Tamsulosin hydrochloride capsules should not be used in combination with other alpha adrenergic blocking agents [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)
+Tamsulosin hydrochloride capsules should not be used in combination with other alpha adrenergic blocking agents [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)]
 
 Caution is advised when alpha adrenergic blocking agents including tamsulosin hydrochloride are co-administered with PDE5 inhibitors.
 Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
