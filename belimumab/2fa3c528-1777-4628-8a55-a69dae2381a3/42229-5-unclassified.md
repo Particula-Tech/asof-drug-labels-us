@@ -16,9 +16,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-BNL:10PI
+BNL:11PI
 
 DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
 

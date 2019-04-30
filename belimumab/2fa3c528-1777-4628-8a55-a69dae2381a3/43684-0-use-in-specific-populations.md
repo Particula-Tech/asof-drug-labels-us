@@ -59,7 +59,18 @@ Following an assessment of benefit versus risk, if prevention of pregnancy is wa
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of BENLYSTA have not been established in children.
+Intravenous administration of BENLYSTA is indicated in children aged 5 years and older.
+Determination of efficacy in pediatric patients was based on pharmacokinetic (PK) and efficacy results from a pediatric SLE study (Trial 4), as well as PK exposure and extrapolation of the established efficacy of BENYLSTA plus standard therapy from the Phase 3 intravenous studies in adults.
+A randomized, double‑blind, placebo‑controlled, PK, efficacy, and safety study (Trial 4) to evaluate intravenously administered BENLYSTA 10 mg/kg plus standard therapy compared with placebo plus standard therapy over 52 weeks was conducted in 93 pediatric patients with SLE.
+The proportion of pediatric patients achieving an SRI-4 response was higher in patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy.
+Pediatric patients receiving BENLYSTA plus standard therapy also had a lower risk of experiencing a severe flare compared with the placebo group [see Clinical Studies (14.1)].
+
+The adverse event profile in pediatric patients was consistent with the overall population in the Phase 3 studies in adults [see Adverse Reactions (6.1)].
+
+Pharmacokinetics were evaluated in a total of 53 pediatric patients and were consistent with the adult population [see Clinical Pharmacology (12.3)].
+The safety and effectiveness of BENLYSTA have not been established in pediatric patients younger than 5 years of age.
+
+The safety and effectiveness of subcutaneous administration of BENLYSTA have not been established in pediatric patients younger than 18 years of age.
 
 ## 8.5 Geriatric Use
 
@@ -79,5 +90,5 @@ No dosage adjustment is recommended in patients with hepatic impairment.
 ## 8.8 Racial Groups
 
 In Trial 2 and Trial 3 (intravenous dosing), SLE Responder Index-4 (SRI-4) response rates were lower for black patients receiving BENLYSTA plus standard therapy relative to black patients receiving placebo plus standard therapy [see Clinical Studies (14.1)].
-In Trial 4 (subcutaneous dosing), SRI-4 response was slightly higher for black patients receiving BENLYSTA plus standard therapy relative to black patients receiving placebo plus standard therapy, but the treatment difference was not as large as that observed in the overall population and no definitive conclusion can be drawn from this subgroup analysis [see Clinical Studies (14.2)].
+In Trial 5 (subcutaneous dosing), SRI-4 response was slightly higher for black patients receiving BENLYSTA plus standard therapy relative to black patients receiving placebo plus standard therapy, but the treatment difference was not as large as that observed in the overall population and no definitive conclusion can be drawn from this subgroup analysis [see Clinical Studies (14.2)].
 Caution should be used when considering treatment with BENLYSTA in black/African-American patients.
