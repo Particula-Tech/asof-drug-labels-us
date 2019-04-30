@@ -6,15 +6,11 @@ NDC 0002-7512-01
 
 100 units per mL
 
-Humalog®
-
-Mix50/50™
+Humalog® Mix50/50™
 
 insulin lispro protamine
 
-and insulin lispro
-
-injectable suspension
+and insulin lispro injectable suspension
 
 For subcutaneous use only.
 
@@ -34,9 +30,7 @@ Humalog® Mix50/50™
 
 KwikPen®
 
-insulin lispro protamine and insulin lispro
-
-injectable suspension
+insulin lispro protamine and insulin lispro injectable suspension
 
 For Single Patient Use Only
 
