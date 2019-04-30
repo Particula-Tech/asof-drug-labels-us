@@ -1,7 +1,5 @@
-# WARNING - INTRAVENOUS USE
+# WARNING – HYPERSENSITIVITY REACTIONS WITH INTRAVENOUS AND INTRAMUSCULAR USE
 
-Severe reactions, including fatalities, have occurred during and immediately after the parenteral administration of Phytonadione.
-Typically these severe reactions have resembled hypersensitivity or anaphylaxis, including shock and cardiac and/or respiratory arrest.
-Some patients have exhibited these severe reactions on receiving Phytonadione for the first time.
-The majority of these reported events occurred following intravenous administration, even when precautions have been taken to dilute the Phytonadione and to avoid rapid infusion.
-Therefore, the INTRAVENOUS route should be restricted to those situations where another route is not feasible and the increased risk involved is considered justified.
+Fatal hypersensitivity reactions, including anaphylaxis, have occurred during and immediately after intravenous and intramuscular injection of Phytonadione Injectable Emulsion, USP.
+Reactions have occurred despite dilution to avoid rapid intravenous infusion and upon first dose.
+Avoid the intravenous and intramuscular routes of administration unless the subcutaneous route is not feasible and the serious risk is justified [see Warnings and Precautions (5.1)].

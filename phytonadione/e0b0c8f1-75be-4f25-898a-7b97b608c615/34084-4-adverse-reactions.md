@@ -1,17 +1,16 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration.
-The majority of these reported events occurred following intravenous administration (see Box Warning.)
+The following serious adverse reactions are described elsewhere in the labeling: • Hypersensitivity Reactions [see Warnings and Precautions (5.1)] • Cutaneous Reactions [see Warnings and Precautions (5.3)]
 
-The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration.
+## 6.3 Clinical Trials and Post-Marketing Experience
 
-Transient “flushing sensations” and “peculiar” sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis.
+The following adverse reactions associated with the use of Phytonadione Injectable Emulsion, USP were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Pain, swelling, and tenderness at the injection site may occur.
-
-Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods.
-In other cases, these lesions have resembled erythema perstans.
-
-Hyperbilirubinemia has been observed in the newborn following administration of phytonadione.
-This has occurred rarely and primarily with doses above those recommended.
-(See PRECAUTIONS, Pediatric Use.)
+Cardiac Disorders: Tachycardia, hypotension.
+General disorders and administration site conditions: Generalized flushing; pain, swelling, and tenderness at injection site.
+Hepatobiliary Disorders: Hyperbilirubinemia Immune System Disorders: Fatal hypersensitivity reactions, anaphylactic reactions.
+Neurologic: Dysgeusia, dizziness.
+Pulmonary: Dyspnea.
+Skin and Subcutaneous Tissue Disorders: Erythema, pruritic plaques, scleroderma-like lesions, erythema perstans.
+Vascular: Cyanosis.

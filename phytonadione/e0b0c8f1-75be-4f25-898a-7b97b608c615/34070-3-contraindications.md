@@ -1,3 +1,3 @@
-# CONTRAINDICATION
+# 4 CONTRAINDICATIONS
 
-Hypersensitivity to any component of this medication.
+Hypersensitivity to phytonadione or any other component of this medication [see Warnings and Precautions (5.1)].

@@ -1,57 +1,56 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Whenever possible, phytonadione should be given by the subcutaneous route (see Box WARNING).
-When intravenous or intramuscular administration is considered unavoidable, the drug should be injected very slowly, not exceeding 1 mg per minute.
+## 2.1 Dosing Considerations
 
-Protect from light at all times.
+Whenever possible, administer Phytonadione Injectable Emulsion, USP by the subcutaneous route [see Boxed Warning].
+When intravenous administration is unavoidable, inject the drug very slowly, not exceeding 1 mg per minute [see Warnings and Precautions (5.1)].
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration,whenever solution and container permit.
+Monitor international normalized ratio (INR) regularly and as clinical conditions indicate.
+Use the lowest effective dose of Phytonadione Injectable Emulsion, USP.
 
-Directions for Dilution
+The coagulant effects of Phytonadione Injectable Emulsion, USP are not immediate; improvement of INR may take 1-8 hours.
+Interim use of whole blood or component therapy may also be necessary if bleeding is severe.
 
-Phytonadione may be diluted with 0.9% Sodium Chloride Injection, 5% Dextrose Injection, or 5% Dextrose and Sodium Chloride Injection.
-Benzyl alcohol as a preservative has been associated with toxicity in newborns.
-Therefore, all of the above diluents should be preservative-free.
-(See WARNINGS) Other diluents should not be used.
-When dilutions are indicated, administration should be started immediately after mixture with the diluent, and unused portions of the dilution should be discarded, as well as unused contents of the vial.
+Whenever possible, administer benzyl alcohol-free formulations in pediatric patients [see Warnings and Precautions (5.2), Use in Specific Populations (8.4)].
 
-Prophylaxis of Hemorrhagic Disease of the Newborn
+When Phytonadione Injectable Emulsion, USP is used to correct excessive anticoagulant-induced hypoprothrombinemia, anticoagulant therapy still being indicated, the patient is again faced with the clotting hazards existing prior to starting the anticoagulant therapy.
+Phytonadione Injectable Emulsion, USP is not a clotting agent, but overzealous therapy with Phytonadione Injectable Emulsion, USP may restore conditions which originally permitted thromboembolic phenomena.
+Dosage should be kept as low as possible, and INR should be checked regularly as clinical conditions indicate.
 
-The American Academy of Pediatrics recommends that vitamin K1 be given to the newborn.
-A single intramuscular dose of phytonadione 0.5 to 1 mg within one hour of birth is recommended.
+## 2.2 Recommended Dosage for Coagulation Disorders from Vitamin K Deficiency of Interference
 
-Treatment of Hemorrhagic Disease of the Newborn
+The recommended dosage of Phytonadione Injectable Emulsion, USP is based on whether the hypoprothrombinemia is anticoagulant-induced (e.g., due to coumarin or indanedione derivatives) or non-anticoagulant-induced (e.g., due to antibiotics; salicylates or other drugs; factors limiting absorption or synthesis) as follows:
 
-Empiric administration of vitamin K1 should not replace proper laboratory evaluation of the coagulation mechanism.
-A prompt response (shortening of the prothrombin time in 2 to 4 hours) following administration of vitamin K1 is usually diagnostic of hemorrhagic disease of the newborn, and failure to respond indicates another diagnosis or coagulation disorder.
+• Anticoagulant-Induced Hypoprothrombinemia: Phytonadione Injectable Emulsion, USP 2.5 mg to 10 mg or more subcutaneously, intramuscularly, or intravenously.
+Up to 25 mg to 50 mg may be administered as a single dose.
 
-Phytonadione 1 mg should be given either subcutaneously or intramuscularly.
-Higher doses may be necessary if the mother has been receiving oral anticoagulants.
+Repeated large doses of Phytonadione Injectable Emulsion, USP are not warranted in liver disease if the initial response is unsatisfactory.
+Failure to respond to Phytonadione Injectable Emulsion, USP may indicate that the condition being treated is inherently unresponsive to Phytonadione Injectable Emulsion, USP.
 
-Whole blood or component therapy may be indicated if bleeding is excessive.
-This therapy, however, does not correct the underlying disorder and phytonadione should be given concurrently.
+• Hypoprothrombinemia Due to Other Causes (Non-Anticoagulation-Induced Hypoprothrombinemia): Phytonadione Injectable Emulsion, USP 2.5 mg to 25 mg or more intravenously, intramuscularly, or subcutaneously.
+Up to 50 mg may be administered as a single dose.
 
-Anticoagulant-lnduced Prothrombin Deficiency in Adults
+Evaluate INR after 6-8 hours, and repeat dose if INR remains prolonged.
+Modify subsequent dosage (amount and frequency) based on the INR or clinical condition.
 
-To correct excessively prolonged prothrombin time caused by oral anticoagulant therapy 2.5 to 10 mg or up to 25 mg initially is recommended.
-In rare instances 50 mg may be required.
-Frequency and amount of subsequent doses should be determined by prothrombin time response or clinical condition (see WARNINGS).
-If in 6 to 8 hours after parenteral administration the prothrombin time has not been shortened satisfactorily, the dose should berepeated.
+## 2.3 Recommended Dosage for Prophylaxis and Treatment of Vitamin K Deficiency Bleeding in Neonates
 
-Phytonadione Summary of Dosage Guidelines (See insert text for details)
+Prophylaxis of Vitamin K-Deficiency Bleeding in Neonates The recommended dosage of Phytonadione Injectable Emulsion, USP is 0.5 mg to 1 mg within one hour of birth for a single dose.
 
-| Newborns | Dosage |
-| --- | --- |
-| Hemorrhagic Disease of the Newborn ProphylaxisTreatment | 0.5 - 1 mg IM within 1 hour of birth 1 mg SC or IM(Higher doses may be necessary ifthe mother has been receivingoral anti-coagulants) |
-| Adults | Initial Dosage |
-| Anticoagulant - InducedProthrombin Deficiency(caused by coumarin orindanedione derivatives) | 2.5 mg - 10 mg or up to 25 mg(rarely 50 mg) |
-| Hypoprothrombinemia due toother causes(Antibiotics; Salicylates or other drugs;Factors limiting absorption or synthesis) | 2.5 mg - 25 mg or more (rarely up to 50 mg) |
+Treatment of Vitamin K Deficiency Bleeding in Neonates The recommended dosage of Phytonadione Injectable Emulsion, USP is 1 mg given either subcutaneously or intramuscularly.
+Consider higher doses if the mother has been receiving oral anticoagulants.
 
-In the event of shock or excessive blood loss, the use of whole blood or component therapy is indicated.
+A failure to respond (shortening of the INR in 2 to 4 hours) may indicate another diagnosis or coagulation disorder.
 
-Hypoprothrombinemia Due to Other Causes in Adults
+## 2.4 Directions for Dilution
 
-A dosage of 2.5 to 25 mg or more (rarely up to 50 mg) is recommended, the amount and route of administration depending upon the severity of the condition and response obtained.
+Dilute Phytonadione Injectable Emulsion, USP with 0.9% Sodium Chloride Injection, 5% Dextrose Injection, or 5% Dextrose and Sodium Chloride Injection.
+Avoid use of other diluents that may contain benzyl alcohol, which can cause serious toxicity in newborns or low birth weight infants [see Warnings and Precautions (5.2) and Use in Specific Populations (8.4)].
 
-If possible, discontinuation or reduction of the dosage of drugs interfering with coagulation mechanisms (such as salicylates, antibiotics) is suggested as an alternative to administering concurrent phytonadione.
-The severity of the coagulation disorder should determine whether the immediate administration of phytonadione is required in addition to discontinuation or reduction of interfering drugs.
+When diluted, start administration of Phytonadione Injectable Emulsion, USP immediately after dilution.
+
+Discard unused portions of diluted solution as well as unused contents of the vial.
+
+Protect Phytonadione Injectable Emulsion, USP from light at all times.
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
