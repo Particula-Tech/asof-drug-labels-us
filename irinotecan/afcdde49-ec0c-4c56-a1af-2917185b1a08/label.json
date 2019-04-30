@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA203380"
+  ],
+  "inn": "irinotecan",
+  "labeler": "Qilu Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "67184-0511-1",
+    "67184-0512-1",
+    "67184-0513-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Irinotecan Hydrochloride"
+    }
+  ],
+  "setid": "afcdde49-ec0c-4c56-a1af-2917185b1a08",
+  "source": "dailymed"
+}
