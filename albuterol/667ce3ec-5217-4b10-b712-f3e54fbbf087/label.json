@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA205636"
+  ],
+  "inn": "albuterol",
+  "labeler": "Teva Respiratory, LLC",
+  "package_ndcs": [
+    "59310-117-20",
+    "59310-117-21",
+    "59310-540-20",
+    "59310-540-21"
+  ],
+  "products": [
+    {
+      "form": "INHALANT",
+      "generic": "albuterol sulfate",
+      "name": "ProAir Digihaler"
+    },
+    {
+      "form": "POWDER, METERED",
+      "generic": "albuterol sulfate",
+      "name": "ProAir Digihaler"
+    }
+  ],
+  "setid": "667ce3ec-5217-4b10-b712-f3e54fbbf087",
+  "source": "dailymed"
+}
