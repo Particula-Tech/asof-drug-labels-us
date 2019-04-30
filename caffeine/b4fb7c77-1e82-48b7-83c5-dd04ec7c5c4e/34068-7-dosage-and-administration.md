@@ -5,7 +5,7 @@ Likewise, baseline serum levels of caffeine should be measured in infants born t
 
 The recommended loading dose and maintenance doses of Caffeine Citrate follow.
 
-|  | Dose of Caffeine Citrate Volume | Dose of Caffeine Citratemg/kg | Route | Frequency |
+|  | Dose of Caffeine Citrate Volume | Dose of Caffeine Citrate mg/kg | Route | Frequency |
 | --- | --- | --- | --- | --- |
 | Loading Dose | 1 mL/kg | 20 mg/kg | Intravenous* (over 30 minutes) | One Time |
 | Maintenance Dose | 0.25 mL/kg | 5 mg/kg | Intravenous* (over 10 minutes) or Orally | Every 24 hours** |

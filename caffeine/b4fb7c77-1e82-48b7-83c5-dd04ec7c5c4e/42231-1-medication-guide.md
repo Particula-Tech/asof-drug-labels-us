@@ -15,7 +15,7 @@ Read the following information before giving this medicine to your baby.
 Completely discuss caffeine citrate oral solution with your baby’s doctor.
 Continue to discuss any questions you have about this medicine at your baby’s checkups.
 
-After you remove your baby’ s dose, throw away the open bottle (vial) and all medicine left in it.
+After you remove your baby’s dose, throw away the open bottle (vial) and all medicine left in it.
 Use each vial of caffeine citrate oral solution for only one dose.
 There will be extra medicine left in the vial after one dose is removed.
 Leftover medicine should not be used because caffeine citrate oral solution does not contain preservatives.
@@ -38,7 +38,7 @@ Your baby’s doctor, nurse, or pharmacist will give you a suitable syringe or s
 
 Never change (increase or decrease) your baby’s dose without speaking to your baby’s doctor.
 
-If your baby continues to have periods of apnea, call your baby’ s doctor right away.
+If your baby continues to have periods of apnea, call your baby’s doctor right away.
 
 Caffeine citrate oral solution can be swallowed by mouth or given through a feeding tube.
 Based on your baby’s own situation, your baby’s doctor or other healthcare professional should teach you how to give caffeine citrate oral solution correctly.
@@ -47,7 +47,7 @@ Caffeine citrate oral solution should be clear and colorless.
 Before giving caffeine citrate oral solution, look for small particles, cloudiness, or discoloration in the medicine.
 Do not use vials that contain cloudy or discolored medicine, or any visible particles.
 
-Caffeine citrate oral solution does NOTcontain any preservatives.
+Caffeine citrate oral solution does NOT contain any preservatives.
 Do not open the vial until it is time for your baby to receive the dose of medicine.
 Use each vial only once.
 After you remove your baby’s dose, throw away the vial and all medicine left in the opened vial.
@@ -124,7 +124,7 @@ restlessness, jitteriness or shakiness
 • increased urination (increased diaper wetting)
 
 The following symptoms may be caused by serious bowel or stomach problems.
-Call your baby’ s doctor right away if your baby develops:
+Call your baby’s doctor right away if your baby develops:
 
 • bloated abdomen (stomach area)
 
