@@ -9,27 +9,28 @@ Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy pro
 
 The recommended dose of KALYDECO for both adults and pediatric patients ages 6 years and older is one 150 mg tablet taken orally every 12 hours (300 mg total daily dose) with fat-containing food [see Dosage and Administration (2.1)].
 
-## 2.3 Dosing Information in Pediatric Patients Ages 12 months to less than 6 Years
+## 2.3 Dosing Information in Pediatric Patients Ages 6 months to less than 6 Years
 
-The recommended dose of KALYDECO (oral granules) for patients ages 12 months to less than 6 years is weight-based according to Table 1.
+The recommended dose of KALYDECO (oral granules) for patients ages 6 months to less than 6 years is weight-based according to Table 1.
 
-Table 1: Dosage of KALYDECO Oral Granules by Body Weight in Pediatric Patients Ages 12 months to less than 6 Years
+Table 1: Dosage of KALYDECO Oral Granules by Body Weight in Pediatric Patients Ages 6 months to less than 6 Years
 
 | Body Weight (kg) | KALYDECO Dose | Total Daily Dose |
 | --- | --- | --- |
+| 5 kg to less than 7 kg | One 25 mg packet every 12 hours | 50 mg/day |
 | 7 kg to less than 14 kg | One 50 mg packet every 12 hours | 100 mg/day |
 | 14 kg or greater | One 75 mg packet every 12 hours | 150 mg/day |
 
 The entire contents of each packet of oral granules should be mixed with one teaspoon (5 mL) of age-appropriate soft food or liquid and completely consumed.
 Food or liquid should be at or below room temperature.
 Once mixed, the product has been shown to be stable for one hour, and therefore should be consumed during this period.
-Some examples of soft foods or liquids may include puréed fruits or vegetables, yogurt, applesauce, water, milk, or juice.
+Some examples of soft foods or liquids may include puréed fruits or vegetables, yogurt, applesauce, water, breast milk, infant formula, milk, or juice.
 Each dose should be administered just before or just after fat-containing food [see Dosage and Administration (2.1)].
 
-## 2.4 Dosing Information in Pediatric Patients less than 12 months
+## 2.4 Dosing Information in Pediatric Patients less than 6 months
 
-A safe and efficacious dose of KALYDECO for pediatric patients less than 12 months of age has not been established.
-The use of KALYDECO (oral granules) in children under the age of 12 months is not recommended.
+A safe and efficacious dose of KALYDECO for pediatric patients less than 6 months of age has not been established.
+The use of KALYDECO (oral granules) in children under the age of 6 months is not recommended.
 
 ## 2.5 Dosage Adjustment for Patients with Hepatic Impairment
 

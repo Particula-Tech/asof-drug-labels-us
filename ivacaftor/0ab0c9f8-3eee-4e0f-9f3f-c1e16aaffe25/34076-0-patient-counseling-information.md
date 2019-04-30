@@ -32,12 +32,12 @@ Inform patients that KALYDECO tablet is best absorbed by the body when taken wit
 A typical CF diet will satisfy this requirement.
 Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, and yogurt), etc.
 
-KALYDECO® (ivacaftor) oral granules 50 mg or 75 mg
+KALYDECO® (ivacaftor) oral granules 25 mg, 50 mg or 75 mg
 
 Inform patients and caregivers that KALYDECO oral granules should be mixed with one teaspoon (5 mL) of age-appropriate soft food or liquid and completely consumed to ensure delivery of the entire dose.
 Food or liquid should be at or below room temperature.
 Once mixed, the product has been shown to be stable for one hour, and therefore should be consumed during this period.
-Some examples of appropriate soft foods or liquids may include puréed fruits or vegetables, yogurt, applesauce, water, milk, or juice.
+Some examples of appropriate soft foods or liquids may include puréed fruits or vegetables, yogurt, applesauce, water, breast milk, infant formula, milk, or juice.
 
 Inform patients and caregivers that KALYDECO is best absorbed by the body when taken with food that contains fat; therefore, KALYDECO oral granules should be taken just before or just after consuming food that contains fat.
 A typical CF diet will satisfy this requirement.

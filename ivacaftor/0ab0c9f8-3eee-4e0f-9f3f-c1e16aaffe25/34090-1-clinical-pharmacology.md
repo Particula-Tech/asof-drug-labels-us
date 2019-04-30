@@ -12,7 +12,7 @@ CFTR Chloride Transport Assay in Fisher Rat Thyroid (FRT) cells expressing mutan
 In order to evaluate the response of mutant CFTR protein to ivacaftor, total chloride transport was determined in Ussing chamber electrophysiology studies using a panel of FRT cell lines transfected with individual CFTR mutations.
 Ivacaftor increased chloride transport in FRT cells expressing CFTR mutations that result in CFTR protein being delivered to the cell surface.
 
-Data shown in Figure 1 are the mean (n=3-7) net change over baseline in CFTR mediated chloride transport following the addition of ivacaftor in FRT cells expressing mutant CFTR proteins.
+Data shown in Figure 1 are the mean (n=3-7) net change over baseline in CFTR-mediated chloride transport following the addition of ivacaftor in FRT cells expressing mutant CFTR proteins.
 The in vitro CFTR chloride response threshold was designated as a net increase of at least 10% of normal over baseline (dotted line) because it is predictive or reasonably expected to predict clinical benefit.
 Mutations with an increase in chloride transport of 10% or greater are considered responsive.
 A patient must have at least one CFTR mutation responsive to ivacaftor to be indicated.
@@ -21,7 +21,7 @@ Mutations including F508del that are not responsive to ivacaftor potentiation, b
 
 Figure 1: Net Change Over Baseline (% of Normal) in CFTR-Mediated Chloride Transport Following Addition of Ivacaftor in FRT Cells Expressing Mutant CFTR (Ussing Chamber Electrophysiology Data)
 
-* Clinical data exist for these mutations [see Clinical Studies (14)]. # A46D, G85E, E92K, P205S, R334W, R347P, T338I, S492F, I507del, V520F, A559T, R560S, R560T, A561E, L927P, H1054D, G1061R, L1065P, R1066C, R1066H, R1066M, L1077P, H1085R, M1101K, W1282X, N1303K mutations in the CFTR gene do not meet the threshold of change in CFTR mediated chloride transport of at least 10% of normal over baseline.
+* Clinical data exist for these mutations [see Clinical Studies (14)]. # A46D, G85E, E92K, P205S, R334W, R347P, T338I, S492F, I507del, V520F, A559T, R560S, R560T, A561E, L927P, H1054D, G1061R, L1065P, R1066C, R1066H, R1066M, L1077P, H1085R, M1101K, W1282X, N1303K mutations in the CFTR gene do not meet the threshold of change in CFTR-mediated chloride transport of at least 10% of normal over baseline.
 
 Note that splice mutations cannot be studied in this FRT assay and are not included in Figure 1.
 Evidence of clinical efficacy exists for non-canonical splice mutations 2789+5G→A, 3272-26A→G, 3849+10kbC→T, 711+3A→G and E831X and these are listed in Table 3 below [see also Clinical Studies (14.4)].
@@ -50,9 +50,9 @@ Changes in sweat chloride (a biomarker) response to KALYDECO were evaluated in s
 In a two-part, randomized, double-blind, placebo-controlled, crossover clinical trial in patients with CF who had a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene (Trial 4), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -49 mmol/L (95% CI -57, -41).
 The mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -8, whereas the range for individual subjects with the G970R mutation was -1 to -11 mmol/L.
 In an open-label clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 6), the mean absolute change from baseline in sweat chloride through 24 weeks of treatment was -45 mmol/L (95% CI -53, -38) [see Use in Specific Populations (8.4)].
-In a randomized, double-blind, placebo controlled, 2-period, 3-treatment, 8-week crossover study in patients with CF age 12 years and older who were heterozygous for the F508del mutation and with a second CFTR mutation predicted to be responsive to ivacaftor (Trial 7), the treatment difference in mean change in sweat chloride from study baseline to the average of week 4 and week 8 of treatment for KALYDECO treated patients was -4.5 mmol/L (95% CI -6.7, -2.3).
+In a randomized, double-blind, placebo-controlled, 2-period, 3-treatment, 8-week crossover study in patients with CF age 12 years and older who were heterozygous for the F508del mutation and with a second CFTR mutation predicted to be responsive to ivacaftor (Trial 7), the treatment difference in mean change in sweat chloride from study baseline to the average of Week 4 and Week 8 of treatment for KALYDECO treated patients was -4.5 mmol/L (95% CI -6.7, -2.3).
 
-In a 24-week, open-label clinical trial in patients with CF aged less than 24 months administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 8), the mean absolute change from baseline in sweat chloride for patients aged 12 months to less than 24 months (n=10) was -73.5 mmol/L (95% CI -86.0, -61.0) at week 24.
+In a 24-week, open-label clinical trial in patients with CF aged less than 24 months administered either 25 mg, 50 mg or 75 mg of ivacaftor twice daily (Trial 8), the mean absolute change from baseline in sweat chloride for patients aged 12 months to less than 24 months (n=10) was -73.5 mmol/L (95% CI -86.0, -61.0) at Week 24, and the mean absolute change from baseline in sweat chloride for patients aged 6 months to less than 12 months (n=6) was -58.6 mmol/L (95% CI -75.9, -41.3) at Week 24.
 [see Use in Specific Populations (8.4)].
 
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
@@ -113,6 +113,8 @@ Table 4: Ivacaftor Exposure by Age Group, Mean (SD)
 
 | Age Group | Dose | AUCss (ng*h/mL) |
 | --- | --- | --- |
+| 6 to less than 12 months (5 kg to <7 kg) Value based on data from a single patient; standard deviation not reported | 25 mg q12h | 5790 |
+| 6 to less than 12 months (7 kg to <14 kg) | 50 mg q12h | 9250 (3440) |
 | 12 to less than 24 months (7 kg to <14 kg) | 50 mg q12h | 9050 (3050) |
 | 12 to less than 24 months (≥14 kg to <25 kg) | 75 mg q12h | 9600 (1800) |
 | 2 to less than 6 years (<14 kg) | 50 mg q12h | 10500 (4260) |
@@ -157,7 +159,7 @@ Dosing recommendations for co-administered drugs with KALYDECO are shown in Figu
 
 | Figure 2: Impact of KALYDECO on Other Drugs |
 | --- |
-| Note: The data obtained with substrates but without co-administration of KALYDECO are used as reference. *NE: Norethindrone; **EE: Ethinyl Estradiol The vertical lines are at 0.8, 1.0, and 1.25, respectively. |
+| Note: The data obtained with substrates but without co-administration of KALYDECO are used as reference. * NE: Norethindrone; ** EE: Ethinyl Estradiol The vertical lines are at 0.8, 1.0, and 1.25, respectively. |
 
 Potential for Other Drugs to Affect Ivacaftor
 
