@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210761"
+  ],
+  "inn": "medroxyprogesterone",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "62756-091-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "medroxyprogesterone acetate",
+      "name": "MEDROXYPROGESTERONE ACETATE"
+    }
+  ],
+  "setid": "01e28bef-9758-40cf-a4ff-86ae9f4f5105",
+  "source": "dailymed"
+}
