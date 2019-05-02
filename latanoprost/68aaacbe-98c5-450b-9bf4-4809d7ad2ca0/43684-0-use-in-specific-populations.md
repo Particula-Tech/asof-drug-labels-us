@@ -8,12 +8,12 @@ Reproduction studies have been performed in rats and rabbits.
 In rabbits, an incidence of 4 of 16 dams had no viable fetuses at a dose that was approximately 80 times the maximum human dose, and the highest nonembryocidal dose in rabbits was approximately 15 times the maximum human dose.
 
 There are no adequate and well-controlled studies in pregnant women.
-Latanoprost should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Latanoprost Ophthalmic Solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug or its metabolites are excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when latanoprost is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Latanoprost Ophthalmic Solution is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
