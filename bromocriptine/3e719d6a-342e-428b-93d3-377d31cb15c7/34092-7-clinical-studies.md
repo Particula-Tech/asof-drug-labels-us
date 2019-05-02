@@ -17,9 +17,9 @@ Of the 80 patients in the CYCLOSET group, 69% (N = 55) achieved the maximum dail
 CYCLOSET improved HbA1c and fasting plasma glucose compared to placebo (Table 2).
 Mean change from baseline in body weight was +0.2 kg in the CYCLOSET group (N = 78) and +0.5 kg in the placebo group (N = 77).
 
-Table 2: Changes in Glycemic Parameters in a 24-Week Placebo–Controlled Study of CYCLOSET as Monotherapy in Patients with Type 2 Diabetes†
+Table 2: Changes in Glycemic Parameters in a 24-Week Placebo-Controlled Study of CYCLOSET as Monotherapy in Patients with Type 2 Diabetesintent-to-treat population with last observation carried forward
 
-|  | CYCLOSET N = 80 (1.6 -4.8 mg) | Placebo N = 79 |
+|  | CYCLOSET N = 80 (1.6 - 4.8 mg) | Placebo N = 79 |
 | --- | --- | --- |
 | HbA1c (%) | N = 74 | N = 74 |
 | Baseline (mean) | 9.0 | 8.8 |
@@ -29,7 +29,6 @@ Table 2: Changes in Glycemic Parameters in a 24-Week Placebo–Controlled Study 
 | Baseline (mean) | 215 | 205 |
 | Change from baseline (adj. mean) | 0 | 23 |
 | Difference from placebo (adj. mean) | -23** |  |
-| †intent-to-treat population with last observation carried forward |  |  |
 | P-value calculated by ANOVA; *p = 0.05, **p = 0.005 |  |  |
 
 ## 14.2 Combination Therapy
@@ -50,9 +49,9 @@ CYCLOSET improved HbA1c and fasting blood glucose concentrations compared to pla
 
 Table 3: Changes in Glycemic Parameters for CYCLOSET Versus Placebo in Two Add-on to Sulfonylurea Trials
 
-|  | Study K† |  | Study L† |  |
-| --- | --- | --- | --- | --- |
 |  | CYCLOSET Add-on to Sulfonylurea N = 122 | Placebo Add-on to Sulfonylurea N = 123 | CYCLOSET Add-on to Sulfonylurea N = 122 | Placebo Add-on to Sulfonylurea N = 127 |
+| --- | --- | --- | --- | --- |
+|  | Study Kintent-to-treat population using last observation carried forward between-group change from baseline in HbA1c |  | Study L |  |
 | HbA1c (%) | n = 114 | n = 122 | n = 114 | n = 123 |
 | Baseline (mean) | 9.3 | 9.4 | 9.3 | 9.4 |
 | Change from baseline (adj. mean) | -0.1 | 0.4 | -0.4 | 0.3 |
@@ -61,7 +60,6 @@ Table 3: Changes in Glycemic Parameters for CYCLOSET Versus Placebo in Two Add-o
 | Baseline (mean) | 216 | 227 | 220 | 226 |
 | Change from baseline (adj. mean) | 10 | 28 | 3 | 23 |
 | Difference from placebo (adj. mean) | -18** |  | -20‡ |  |
-| † intent-to-treat population using last observation carried forward between-group change from baseline in HbA1c |  |  |  |  |
 | P-value calculated by ANOVA; *p≤ 0.001,**p = 0.02; ‡ p = 0.006 |  |  |  |  |
 
 CYCLOSET Add-on to Various Oral Antidiabetic Agents
@@ -78,25 +76,23 @@ Patients receiving CYCLOSET, compared to placebo, experienced a significant impr
 The mean change in body weight for the glycemic efficacy subgroup (N = 559) from baseline to week 24 was -0.1 kg with CYCLOSET and +0.1 kg.
 The mean change in body weight for the entire study population (N = 3070) from baseline to week 52 was +0.2 kg with CYCLOSET and +0.1 kg with placebo.
 
-Table 4: Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial Subgroup of Patients with Type 2 Diabetes and Inadequate Glycemic Control (Baseline HbA1c ≥7.5%) on 1-2 Oral Antidiabetic Medications†
+Table 4: Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial Subgroup of Patients with Type 2 Diabetes and Inadequate Glycemic Control (Baseline HbA1c ≥7.5%) on 1-2 Oral Antidiabetic Medicationsintent-to-treat population using last observation carried forward between-group change from baseline in HbA1c
 
-|  | 24-Week Intent-to-Treat |  |
-| --- | --- | --- |
 |  | CYCLOSET | Placebo |
+| --- | --- | --- |
+|  | 24-Week Intent-to-Treat |  |
 | Adjunct to 1-2 Oral Antidiabetic Medications | N = 376 | N = 183 |
 | HbA1c (%) |  |  |
 | Baseline mean | 8.3 | 8.4 |
 | Change from baseline (adjusted mean) | -0.4 | 0.0 |
 | Difference from placebo (adjusted mean) | -0.5* |  |
 | % Patients achieving HbA1c of ≤7.0 | 25 | 9 |
-| Adjunct to Metformin + Sulfonylurea Only‡ | N = 177 | N = 90 |
+| Adjunct to Metformin + Sulfonylurea Onlypatients in the "metformin + sulfonylurea only" subgroup are also counted in the "adjunct to 1-2 oral antidiabetic medications" subgroup | N = 177 | N = 90 |
 | HbA1c (%) |  |  |
 | Baseline mean | 8.3 | 8.3 |
 | Change from baseline (adjusted mean) | -0.5 | 0.0 |
 | Difference from placebo (adjusted mean) | -0.5* |  |
 | % Patients achieving HbA1c of ≤7.0 | 27 | 9 |
-| †intent-to-treat population using last observation carried forward between-group change from baseline in HbA1c |  |  |
-| ‡ patients in the "metformin + sulfonylurea only" subgroup are also counted in the "adjunct to 1-2 oral antidiabetic medications" subgroup |  |  |
 | P-value is based on an ANCOVA model with treatment and center as fixed effects, and baseline HbA1c as covariates; *p<0.001 |  |  |
 
 ## 14.3 Changes in Lipids and Blood Pressure

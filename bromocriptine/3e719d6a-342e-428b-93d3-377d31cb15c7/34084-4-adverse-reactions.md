@@ -26,7 +26,7 @@ There were no differences in the pattern of common adverse events across race gr
 In the 52-week CYCLOSET safety trial, 11.5% of CYCLOSET-treated women compared to 3.6% of placebo-treated women reported vomiting.
 In this same trial, 5.4% of CYCLOSET-treated men compared to 2.8% of placebo-treated men reported vomiting.
 
-Table 1: Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% of Patients and Numerically More Frequent in CYCLOSET-Treated Patients than in Placebo-Treated Patients, Regardless of Investigator Assessment of Causality†)
+Table 1: Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% of Patients and Numerically More Frequent in CYCLOSET-Treated Patients than in Placebo-Treated Patients, Regardless of Investigator Assessment of CausalityAll randomized subjects receiving at least one dose of study drug)
 
 | Monotherapy | CYCLOSET 1.6 mg – 4.8 mg N (%) | Placebo N (%) |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ Table 1: Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% o
 | Somnolence | 16 (6.6) | 5 (2.0) |
 | Vomiting | 13 (5.3) | 8 (3.2) |
 | Amblyopia | 13 (5.3) | 6 (2.4) |
-| 52-Week Safety Trial‡ |  |  |
+| 52-Week Safety TrialThe Safety Trial enrolled patients treated with diet or no more than 2 antidiabetic medications (metformin, insulin secretagogues such as a sulfonylurea, thiazolidinediones, alpha glucosidase inhibitors, and/or insulin). |  |  |
 | N = 3070 | N = 2054 | N = 1016 |
 | Nausea | 661 (32.2) | 77 (7.6) |
 | Dizziness | 303 (14.8) | 93 (9.2) |
@@ -67,8 +67,6 @@ Table 1: Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% o
 | Vomiting | 167 (8.1) | 32 (3.1) |
 | Diarrhea | 167 (8.1) | 81 (8.0) |
 | Constipation | 119 (5.8) | 52 (5.1) |
-| †All randomized subjects receiving at least one dose of study drug |  |  |
-| ‡ The Safety Trial enrolled patients treated with diet or no more than 2 antidiabetic medications (metformin, insulin secretagogues such as a sulfonylurea, thiazolidinediones, alpha glucosidase inhibitors, and/or insulin). |  |  |
 
 Hypoglycemia
 
@@ -106,7 +104,7 @@ Therefore, the incidence of this composite endpoint was not increased with CYCLO
 ## 6.2 Postmarketing Experience
 
 The active agent in CYCLOSET (bromocriptine mesylate) has been used in other formulations and often multiple times per day to treat hyperprolactinemia, acromegaly, and Parkinson's disease.
-The following adverse reactions have been identified during postapproval use of bromocriptine mesylate for these indications, generally at doses higher than those approved for the treatment of type 2 diabetes.
+The following adverse reactions have been identified during post approval use of bromocriptine mesylate for these indications, generally at doses higher than those approved for the treatment of type 2 diabetes.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hallucinations

@@ -1,9 +1,13 @@
 Manufactured for: VeroScience, LLC Tiverton, RI 02878 USA
 
-Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA Printed in USA For information for healthcare professionals, call 1-800-321-4576.
+Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-For patent information: http://www.veroscience.com/products/patents.html CYCLOSET is a registered trademark of: VeroScience, LLC Tiverton, RI 02878 USA
+Printed in USA
 
-Update p/n
+For information for healthcare professionals, call 1-800-321-4576.
 
-Revised 02/2017
+For patent information: http://veroscience.com/products/patents.html
+
+Cycloset is a registered trademark of VeroScience LLC, Tiverton, RI 02878 USA used under license.
+
+9625401 70014086

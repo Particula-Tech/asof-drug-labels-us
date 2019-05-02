@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B:
+Pregnancy Category B
 
 Two strains of pregnant rats were dosed orally with 3, 10, and 30 mg/kg/day (up to 72 times the human 4.8 mg daily dose, based on mg/m2 comparison) from gestation day 6-15 and with a single dose of 10 mg/kg on gestation day 5.
 Implantation was inhibited at 10 and 30 mg/kg (24 and 72 times the human 4.8 mg daily dose, based on mg/m2 comparison).

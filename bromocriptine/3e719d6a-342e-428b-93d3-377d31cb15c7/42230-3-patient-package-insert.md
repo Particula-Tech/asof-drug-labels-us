@@ -1,4 +1,6 @@
-# Patient Information CYCLOSET® [Si'klo'set] (Bromocriptine Mesylate) Tablets
+# Patient Information
+
+CYCLOSET® [Si'klo'set] (bromocriptine mesylate) Tablets
 
 Read the Patient Information before you start taking CYCLOSET and each time you get a refill.
 There may be new information.
@@ -15,11 +17,11 @@ Who should not take CYCLOSET?
 
 Do not take CYCLOSET if you:
 
-- •are allergic to bromocriptine or any of the other ingredients in CYCLOSET
-- •take ergot medicines.
+- are allergic to bromocriptine or any of the other ingredients in CYCLOSET
+- take ergot medicines.
   Ask your healthcare provider for a list of these medicines, if you are not sure
-- •are breastfeeding
-- •have fainting (syncopal) migraine headaches
+- are breastfeeding
+- have fainting (syncopal) migraine headaches
 
 Talk to your healthcare provider before taking CYCLOSET if you have any of these conditions.
 
@@ -27,22 +29,22 @@ What should I tell my healthcare provider before taking CYCLOSET?
 
 Before taking CYCLOSET, tell your healthcare provider about all of your medical conditions, including if you:
 
-- •have type 1 diabetes mellitus
-- •have diabetic ketoacidosis
-- •have ever passed out or fainted
-- •have migraine headaches
-- •have or have had low blood pressure (hypotension)
-- •have or have had a mental health condition, especially a psychotic disorder
-- •are pregnant or plan to become pregnant.
+- have type 1 diabetes mellitus
+- have diabetic ketoacidosis
+- have ever passed out or fainted
+- have migraine headaches
+- have or have had low blood pressure (hypotension)
+- have or have had a mental health condition, especially a psychotic disorder
+- are pregnant or plan to become pregnant.
   It is not known if CYCLOSET will harm your unborn baby.
   Talk with your healthcare provider if you are pregnant or plan to become pregnant.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you take medicines for:
 
-- •mental health conditions, especially anti-psychotic medicines
-- •migraine or other types of headaches
-- •type 2 diabetes
+- mental health conditions, especially anti-psychotic medicines
+- migraine or other types of headaches
+- type 2 diabetes
 
 Ask your healthcare provider or pharmacist for a list of medicines taken for these conditions, if you are not sure.
 
@@ -53,39 +55,39 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 
 How should I take CYCLOSET?
 
-- •Take CYCLOSET exactly as your healthcare provider tells you to take it.
-- •Take CYCLOSET by mouth each day.
-- •Take CYCLOSET with food.
-- •Take CYCLOSET within 2 hours after waking in the morning.
-- •If you miss your morning dose, wait until the next morning to take your medication.
-- •Do not take a double dose of CYCLOSET.
-- •During periods of stress on the body, such as fever, trauma, infection, or surgery, your medication needs may change.
+- Take CYCLOSET exactly as your healthcare provider tells you to take it.
+- Take CYCLOSET by mouth each day.
+- Take CYCLOSET with food.
+- Take CYCLOSET within 2 hours after waking in the morning.
+- If you miss your morning dose, wait until the next morning to take your medication.
+- Do not take a double dose of CYCLOSET.
+- During periods of stress on the body, such as fever, trauma, infection, or surgery, your medication needs may change.
   Contact your healthcare provider right away.
-- •If you take too much CYCLOSET, call your healthcare provider or go to the nearest emergency department right away.
-- •While taking CYCLOSET:
-  - •check your blood sugar as your healthcare provider tells you to
-  - •stay on your prescribed diet and exercise program
-  - •learn to prevent, recognize, and manage low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and complications of diabetes
-  - •see your healthcare provider for regular blood tests, including your blood sugar levels and hemoglobin HbA1c
+- If you take too much CYCLOSET, call your healthcare provider or go to the nearest emergency department right away.
+- While taking CYCLOSET:
+  - check your blood sugar as your healthcare provider tells you to
+  - stay on your prescribed diet and exercise program
+  - learn to prevent, recognize, and manage low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and complications of diabetes
+  - see your healthcare provider for regular blood tests, including your blood sugar levels and hemoglobin HbA1c
 
 What are the possible side effects of CYCLOSET?
 
 CYCLOSET may cause serious side effects, including:
 
-- •Low blood pressure
-- •Fainting
-- •Severe dizziness which can be caused by postural hypotension.
+- Low blood pressure
+- Fainting
+- Severe dizziness which can be caused by postural hypotension.
   This can happen when your blood pressure lowers rapidly after you stand up from a lying down position.
 
 The most common side effects of CYCLOSET include:
 
-- •nausea
-- •headache
-- •fatigue (somnolence).
+- nausea
+- headache
+- fatigue (somnolence).
   If you have somnolence from CYCLOSET you should not drive or use other heavy machines until the somnolence is better.
-- •dizziness
-- •vomiting
-- •low blood sugar (hypoglycemia), especially when used with another type of diabetes medicine known as a sulfonylurea
+- dizziness
+- vomiting
+- low blood sugar (hypoglycemia), especially when used with another type of diabetes medicine known as a sulfonylurea
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -97,7 +99,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store CYCLOSET?
 
-Store CYCLOSET at or below 77°F (25°C)
+Store and dispense: At 68-77°F (20-25°C) in a tight, light-resistant container.
+See USP Controlled Room Temperature.
 
 Keep CYCLOSET and all medicines out of the reach of children.
 
@@ -117,16 +120,16 @@ What are the ingredients in CYCLOSET?
 
 Active ingredient: bromocriptine mesylate
 
-Inactive ingredients: lactose, corn starch, magnesium stearate, colloidal silicon dioxide, citric acid, and other inert ingredients
+Inactive ingredients: lactose, corn starch, magnesium stearate, colloidal silicon dioxide, and citric acid.
 
 Manufactured for: VeroScience, LLC Tiverton, RI 02878 USA
 
-Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
 For information for healthcare professionals, call 1-800-321-4576.
 
-For patent information: http://www.veroscience.com/products/patents.html CYCLOSET is a registered trademark of: VeroScience, LLC Tiverton, RI 02878 USA
+For patent information: http://veroscience.com/products/patents.html
 
-Update p/n
+Cycloset is a registered trademark of VeroScience LLC, Tiverton, RI 02878 USA used under license.
 
-Revised: 02/2017
+Revised: 02/2019 9625401 70014086
