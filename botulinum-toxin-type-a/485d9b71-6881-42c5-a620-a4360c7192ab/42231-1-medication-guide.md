@@ -21,4 +21,4 @@
 | Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 ©2017 Allergan. All rights reserved. All trademarks are the property of their respective owners. Patented. See: www.allergan.com/patents |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration | Revised: 10/2017 |
 
-72714SU10
+72715SU10
