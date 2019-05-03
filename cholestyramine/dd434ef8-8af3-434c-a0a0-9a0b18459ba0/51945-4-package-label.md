@@ -6,8 +6,6 @@ Prevalite® Powder (Cholestyramine for Oral Suspension, USP) Orange Flavor
 
 4 grams cholestyramine resin USP, per scoopful†
 
-NUTRASWEET®* BRAND SWEETENER
-
 Contains 231 g (168 g anhydrous cholestyramine resin)
 
 42 measured doses Rx only
@@ -15,5 +13,3 @@ Contains 231 g (168 g anhydrous cholestyramine resin)
 Scoop enclosed
 
 UPSHER-SMITH
-
-*NutraSweet and the NutraSweet symbol are registered trademarks of The NutraSweet Company
