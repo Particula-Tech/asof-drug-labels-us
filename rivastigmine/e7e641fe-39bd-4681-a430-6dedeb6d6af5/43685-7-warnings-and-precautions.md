@@ -7,7 +7,7 @@ Dehydration may result from prolonged vomiting or diarrhea and can be associated
 The incidence and severity of these reactions are dose-related [see Adverse Reactions (6.1)].
 For this reason, patients should always be started at a dose of 1.5 mg twice a day and titrated to their maintenance dose.
 
-If treatment is interrupted for longer than 3 days, treatment should be reinitiated with the lowest daily dose [see Dosage and Administration (2.1)] to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one postmarketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5 mg dose after 8 weeks of treatment interruption).
+If treatment is interrupted for longer than 3 days, treatment should be reinitiated with the lowest daily dose [see Dosage and Administration (2.3)] to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one postmarketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5 mg dose after 8 weeks of treatment interruption).
 
 Inform caregivers to monitor for gastrointestinal adverse reactions and to inform the physician if they occur.
 It is critical to inform caregivers that if therapy has been interrupted for more than 3 days because of intolerance, the next dose should not be administered without contacting the physician regarding proper retitration.
@@ -18,7 +18,7 @@ There have been isolated postmarketing reports of patients experiencing dissemin
 Treatment should be discontinued if disseminated allergic dermatitis occurs [see Contraindications (4)].
 Patients and caregivers should be instructed accordingly [see Patient Counseling Information (17)].
 
-In patients who develop application site reactions suggestive of allergic contact dermatitis to rivastigmine tartrate patch and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
+In patients who develop application site reactions, suggestive of allergic contact dermatitis to rivastigmine tartrate patch and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
 It is possible that some patients sensitized to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
 
 ## 5.3 Other Adverse Reactions from Increased Cholinergic Activity
@@ -26,7 +26,7 @@ It is possible that some patients sensitized to rivastigmine by exposure to riva
 Neurologic Effects
 
 Extrapyramidal Symptoms: Cholinomimetics, including rivastigmine may exacerbate or induce extrapyramidal symptoms.
-Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with rivastigmine tartrate capsules.
+Worsening of parkinsonian symptoms, particularly tremor has been observed in patients with dementia associated with Parkinson’s disease who were treated with rivastigmine tartrate capsules.
 
 Seizures: Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
 However, seizure activity also may be a manifestation of Alzheimer's disease.
@@ -45,7 +45,7 @@ Cardiac Conduction Effects
 
 Because rivastigmine increases cholinergic activity, use of rivastigmine may have vagotonic effects on heart rate (e.g., bradycardia).
 The potential for this action may be particularly important in patients with sick sinus syndrome or other supraventricular cardiac conduction conditions.
-In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or ECG abnormalities.
+In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or electrocardiogram (ECG) abnormalities.
 Syncopal episodes have been reported in 3% of patients receiving 6 mg to 12 mg per day of rivastigmine tartrate, compared to 2% of placebo patients.
 
 Genitourinary Effects

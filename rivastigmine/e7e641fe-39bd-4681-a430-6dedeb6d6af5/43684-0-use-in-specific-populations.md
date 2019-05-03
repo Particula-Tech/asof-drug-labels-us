@@ -2,17 +2,22 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary There are no adequate data on the developmental risks associated with the use of rivastigmine tartrate in pregnant women.
+In animals, no adverse effects on embryo-fetal development were observed at oral doses 2-4 times the maximum recommended human dose (MRHD) (see Data).
 
-There are no adequate and well-controlled studies in pregnant women.
-Reproduction studies conducted in pregnant rats and rabbits at oral doses up to 2.3 mg base/kg/day, or 2 (rat) and 4 (rabbit) times the maximum recommended human dose (MRHD) of 12 mg per day on a mg/m2 basis, revealed no evidence of teratogenicity.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
 
-## 8.3 Nursing Mothers
+Data Animal Data Oral administration of rivastigmine to pregnant rats and rabbits throughout organogenesis produced no adverse effects on embryo-fetal development up to the highest dose tested (2.3 mg/kg/day), which is 2 and 4 times, respectively, the MRHD of 12 mg per day on a body surface area (mg/m2) basis.
 
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of rivastigmine in human milk, the effects on the breastfed infant, or the effects of rivastigmine on milk production.
 Rivastigmine and its metabolites are excreted in rat milk following oral administration of rivastigmine; levels of rivastigmine plus metabolites in rat milk are approximately 2 times that in maternal plasma.
-It is not known whether rivastigmine is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from rivastigmine tartrate, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for rivastigmine tarterate and any potential adverse effects on the breastfed infant from rivastigmine tarterate or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -26,13 +31,13 @@ No overall differences in safety or effectiveness were observed between these pa
 
 ## 8.6 Renal Impairment
 
-Patients with moderate to severe renal impairment may be able to only tolerate lower doses [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Patients with moderate to severe renal impairment may be able to only tolerate lower doses [see Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-Patients with mild or moderate hepatic impairment may be able to only tolerate lower doses [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Patients with mild or moderate hepatic impairment may be able to only tolerate lower doses [see Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
 No data are available on the use of rivastigmine tartrate in patients with severe hepatic impairment.
 
 ## 8.8 Low or High Body Weight
 
-Because rivastigmine blood levels vary with weight, careful titration and monitoring should be performed in patients with low or high body weights [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Because rivastigmine blood levels vary with weight, careful titration and monitoring should be performed in patients with low or high body weights [see Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].

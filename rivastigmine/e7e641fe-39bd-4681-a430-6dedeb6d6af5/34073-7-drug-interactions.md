@@ -4,7 +4,7 @@
 
 Due to the risk of additive extrapyramidal adverse reactions, the concomitant use of metoclopramide and rivastigmine tartrate is not recommended.
 
-## 7.2 Cholinomimetic and Anticholinergic Drugs
+## 7.2 Cholinomimetic and Anticholinergic Medications
 
 Rivastigmine tartrate may increase the cholinergic effects of other cholinomimetic medications and may also interfere with the activity of anticholinergic medications (e.g., oxybutynin, tolterodine).
 Concomitant use of rivastigmine tartrate with medications having these pharmacologic effects is not recommended unless deemed clinically necessary [see Warnings and Precautions (5.3)].
