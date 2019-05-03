@@ -1,11 +1,11 @@
-# 6 ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 Lotensin has been evaluated for safety in over 6000 patients with hypertension; over 700 of these patients were treated for at least one year.
 The overall incidence of reported adverse events was similar in Lotensin and placebo patients.
 
-The reported side effects were generally mild and transient, and there was no relation between side effects and age, duration of therapy, or total dosage within the range of 2 mg to 80 mg.
+The reported side effects were generally mild and transient, and there was no relation between side effects and age, duration of therapy, or total dosage within the range of 2 to 80 mg.
 
 Discontinuation of therapy because of a side effect was required in approximately 5% of U.S. patients treated with Lotensin and in 3% of patients treated with placebo.
 The most common reasons for discontinuation were headache (0.6%) and cough (0.5%).
@@ -26,6 +26,4 @@ Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection,
 
 Laboratory Abnormalities:
 
-Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see WARNINGS AND PRECAUTIONS (5)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 (1-866-9VALIDUS) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see Warnings and Precautions (5)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.

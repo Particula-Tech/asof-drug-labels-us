@@ -9,6 +9,5 @@ Lotensin is available as:
 | 40 mg | Dark Rose | Lotensin 40 | NDC 30698-450-01 |
 
 Storage: Do not store above 86°F (30ºC).
-
 Protect from moisture.
 Dispense in a tight container (USP).

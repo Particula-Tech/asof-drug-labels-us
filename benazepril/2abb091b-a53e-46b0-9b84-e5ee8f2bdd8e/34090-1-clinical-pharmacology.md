@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -20,8 +20,8 @@ While the mechanism through which benazepril lowers blood pressure is believed t
 
 ## 12.2 Pharmacodynamics
 
-Single and multiple doses of 10 mg or more of Lotensin cause inhibition of plasma ACE activity by at least 80% - 90% for at least 24 hours after dosing.
-Pressor responses to exogenous angiotensin I were inhibited by 60% - 90% (up to 4 hours post-dose) at the 10 mg dose.
+Single and multiple doses of 10 mg or more of Lotensin cause inhibition of plasma ACE activity by at least 80% to 90% for at least 24 hours after dosing.
+Pressor responses to exogenous angiotensin I were inhibited by 60% to 90% (up to 4 hours post-dose) at the 10 mg dose.
 
 Drug Interactions
 
@@ -42,7 +42,7 @@ Both benazepril and benazeprilat undergo glucuronidation.
 
 Benazepril and benazeprilat are cleared predominantly by renal excretion.
 About 37% of an orally administered dose was recovered in urine as benazeprilat (20%), benazeprilat glucuronide (8%), benazepril glucuronide (4%) and as trace amounts of benazepril.
-Nonrenal (i.e., biliary) excretion accounts for approximately 11% - 12% of benazeprilat excretion.
+Nonrenal (i.e., biliary) excretion accounts for approximately 11% to 12% of benazeprilat excretion.
 The effective half-life of benazeprilat following once daily repeat oral administration of benazepril hydrochloride is 10 to 11 hours.
 Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril hydrochloride given once daily.
 
@@ -53,7 +53,7 @@ Specific Populations
 Renal impairment
 
 The pharmacokinetics of systemic exposure to benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance > 30 mL/min) is similar to that in patients with normal renal function.
-In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady-state may be delayed [see DOSAGE AND ADMINISTRATION (2)].
+In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady-state may be delayed [see Dosage and Administration (2)].
 
 When dialysis was started 2 hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.

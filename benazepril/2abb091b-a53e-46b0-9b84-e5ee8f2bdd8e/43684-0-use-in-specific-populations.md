@@ -1,27 +1,40 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8. USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
+Risk Summary
 
+Lotensin can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
-
-Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
-Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Lotensin as soon as possible.
-These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin­ angiotensin system from other antihypertensive agents.
-Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+When pregnancy is detected, discontinue Lotensin as soon as possible.
 
+The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+In the general U.S. population, the estimated background risk of major defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Hypertension in pregnancy increases the maternal rush for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+Fetal/Neonatal Adverse Reactions
+
+Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia and skeletal deformations, including skull hypoplasia, hypotension, and death.
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
 
-If oligohydramnios is observed, discontinue Lotensin, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Lotensin for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.3)].
+Closely observe infants with histories of in utero exposure to Lotensin for hypotension, oliguria, and hyperkalemia.
+If oliguria or hypotension occur in neonates with a history of in utero exposure to Lotensin, support blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and substituting for disordered renal function.
 
-## 8.2 Nursing Mothers
+## 8.2 Lactation
 
 Minimal amounts of unchanged benazepril and of benazeprilat are excreted into the breast milk of lactating women treated with benazepril.
 A newborn child ingesting entirely breast milk would receive less than 0.1% of the mg/kg maternal dose of benazepril and benazeprilat.
@@ -34,12 +47,6 @@ The pharmacokinetics of Lotensin have been evaluated in pediatric patients 6 to 
 Infants below the age of 1 year should not be given Lotensin because of the risk of effects on kidney development.
 
 Safety and effectiveness of Lotensin have not been established in pediatric patients less than 6 years of age or in children with glomerular filtration rate < 30 mL/min/1.73m² [see Dosage and Administration (2.1) and Clinical Pharmacology 12.3)].
-
-Neonates with a history of in utero exposure to Lotensin:
-
-If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
-Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
-Benazepril, which crosses the placenta, can theoretically be removed from the neonatal circulation by these means; there are occasional reports of benefit from these maneuvers with another ACE inhibitor, but experience is limited.
 
 ## 8.4 Geriatric Use
 

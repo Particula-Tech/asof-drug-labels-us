@@ -1,4 +1,4 @@
-# WARNING: FETAL TOXICITY
+WARNING: FETAL TOXICITY
 
 When pregnancy is detected, discontinue Lotensin as soon as possible.
 

@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1.INDICATIONS AND USAGE
 
 Lotensin® is indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.

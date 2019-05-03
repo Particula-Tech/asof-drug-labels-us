@@ -21,6 +21,6 @@ Manufactured for and Distributed by: Validus Pharmaceuticals LLC 119 Cherry Hill
 
 Product of China
 
-© 2017 Validus Pharmaceuticals LLC
+© 2018 Validus Pharmaceuticals LLC
 
-60023-03 August 2017
+60023-05 January 2019
