@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label:
 
-- Hypersensitivity reactions [See Warnings and Precautions (5.1).]
+- Hypersensitivity reactions [see Warnings and Precautions (5.1).]
 
 ## 6.1 Clinical Trials Experience
 
@@ -10,7 +10,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults and Adolescents
 
-Allergic Rhinitis: In multiple-dose placebo-controlled trials, 2834 patients ages 12 years or older received desloratadine tablets at doses of 2.5 mg to 20 mg daily, of whom 1655 patients received the recommended daily dose of 5 mg.
+Allergic Rhinitis: In multiple-dose placebo-controlled trials, 2,834 patients ages 12 years or older received desloratadine tablets at doses of 2.5 mg to 20 mg daily, of whom 1,655 patients received the recommended daily dose of 5 mg.
 In patients receiving 5 mg daily, the rate of adverse events was similar between desloratadine and placebo-treated patients.
 The percent of patients who withdrew prematurely due to adverse events was 2.4% in the desloratadine group and 2.6% in the placebo group.
 There were no serious adverse events in these trials in patients receiving desloratadine.
@@ -58,4 +58,20 @@ Only one of the 246 pediatric subjects receiving desloratadine in the clinical t
 ## 6.2 Post-Marketing Experience
 
 Because adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following spontaneous adverse events have been reported during the marketing of desloratadine: tachycardia, palpitations, rare cases of hypersensitivity reactions (such as rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis), psychomotor hyperactivity, movement disorders (including dystonia, tics, and extrapyramidal symptoms), seizures, and elevated liver enzymes including bilirubin, and very rarely, hepatitis.
+The following spontaneous adverse events have been reported during the marketing of desloratadine:
+
+Cardiac disorders: tachycardia, palpitations
+
+Respiratory, thoracic and mediastinal disorders: dyspnea
+
+Skin and subcutaneous tissue disorders: rash, pruritus
+
+Nervous system disorders: psychomotor hyperactivity, movement disorders (including dystonia, tics, and extrapyramidal symptoms), seizures (reported in patients with and without a known seizure disorder)
+
+Immune system disorders: hypersensitivity reactions (such as urticaria, edema and anaphylaxis)
+
+Investigations: elevated liver enzymes including bilirubin
+
+Hepatobiliary disorders: hepatitis
+
+Metabolism and nutrition disorders: increased appetite

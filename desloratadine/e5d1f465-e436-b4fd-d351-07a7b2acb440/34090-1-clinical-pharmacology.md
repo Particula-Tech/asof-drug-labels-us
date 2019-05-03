@@ -41,7 +41,7 @@ Desloratadine (a major metabolite of loratadine) is extensively metabolized to 3
 The enzyme(s) responsible for the formation of 3-hydroxydesloratadine have not been identified.
 Data from clinical trials indicate that a subset of the general population has a decreased ability to form 3-hydroxydesloratadine, and are poor metabolizers of desloratadine.
 In pharmacokinetic studies (n=3748), approximately 6% of subjects were poor metabolizers of desloratadine (defined as a subject with an AUC ratio of 3-hydroxydesloratadine to desloratadine less than 0.1, or a subject with a desloratadine half-life exceeding 50 hours).
-These pharmacokinetic studies included subjects between the ages of 2 and 70 years, including 977 subjects aged 2 to 5 years, 1575 subjects aged 6 to 11 years, and 1196 subjects aged 12 to 70 years.
+These pharmacokinetic studies included subjects between the ages of 2 and 70 years, including 977 subjects aged 2 to 5 years, 1,575 subjects aged 6 to 11 years, and 1,196 subjects aged 12 to 70 years.
 There was no difference in the prevalence of poor metabolizers across age groups.
 The frequency of poor metabolizers was higher in Blacks (17%, n=988) as compared to Caucasians (2%, n=1,462) and Hispanics (2%, n=1,063).
 The median exposure (AUC) to desloratadine in the poor metabolizers was approximately 6-fold greater than in the subjects who are not poor metabolizers.

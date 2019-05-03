@@ -1,4 +1,4 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 Desloratadine Orally Disintegrating Tablets
 
@@ -61,12 +61,13 @@ How should I take desloratadineorally disintegrating tablets?
 
 - Take desloratadine exactly as your doctor tells you to take it.
 - Do not change your dose of desloratadine or take more often than prescribed.
-  - Place desloratadine orally disintegrating tablets on your tongue and allow it to dissolve before swallowing.
-    Desloratadine orally disintegrating tablets can be taken with or without water.
-    Take your desloratadine orally disintegrating tablets right away after opening the blister.
+- Desloratadine can be taken with or without food.
+- Place desloratadine orally disintegrating tablets on your tongue and allow it to dissolve before swallowing.
+  Desloratadine orally disintegrating tablets can be taken with or without water.
+  Take your desloratadine orally disintegrating tablets right away after opening the blister.
+- If you take too much desloratidine, call your doctor or get medical attention right away.
 
-- If you take too much desloratadine, call your doctor or get medical attention right away.
-  What are the possible side effects of desloratadine orally disintegrating tablets?
+What are the possible side effects of desloratadine orally disintegrating tablets?
 
 Desloratadine may cause serious side effects, including:
 
@@ -122,6 +123,8 @@ Patients with Phenylketonuria: Desloratadine orally disintegrating tablets 5 mg 
 
 Inactive ingredients in desloratadine tablets: anhydrous citric acid, aspartame, colloidal silicon dioxide, crospovidone, ferric oxide, mannitol, lactose anhydrous, microcrystalline cellulose, polacrilex resin, sodium stearyl fumarate, talc, tutti frutti flavor.
 
+The trademarks depicted herein are owned by their respective companies.
+
 Rx Only
 
 Manufactured by:
@@ -130,7 +133,7 @@ Dr. Reddy's Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 1217
+Revised: 0319
 
 Dispense with Patient Information Sheet available at:
 
