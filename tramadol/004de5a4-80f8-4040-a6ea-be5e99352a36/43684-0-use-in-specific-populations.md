@@ -42,7 +42,7 @@ Tramadol hydrochloride extended-release tablets are not recommended for obstetri
 
 Tramadol and its metabolite, O-desmethyl tramadol (M1), are present in human milk.
 There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-The M1 metabolite is more potent than tramadol in mu opioid receptor binding [seeClinical Pharmacology (12.1)].
+The M1 metabolite is more potent than tramadol in mu opioid receptor binding [see Clinical Pharmacology (12.1)].
 Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
 Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
 In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
@@ -52,7 +52,9 @@ Clinical Considerations
 
 IF infants are exposed to tramadol hydrochloride extended-release tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
-Data Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
+Data
+
+Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -68,7 +70,7 @@ Children with sleep apnea may be particularly sensitive to the respiratory depre
 Because of the risk of life-threatening respiratory depression and death:
 
 - Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than age 12 years of age [see Contraindications (4)].
-- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [seeContraindications (4)].
+- Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 - Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
   [see Warnings and Precautions (5.4)].

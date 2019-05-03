@@ -1,6 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store tramadol hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse And Dependence (9.3)].
+Inform patients that leaving tramadol hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home.
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
+If no take back programs or DEA-registered collectors are available, instruct patients to dispose of tramadol hydrochloride extended-release tablets by following these four steps:
+
+- Mix tramadol hydrochloride extended-release tablets (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
+- Place the mixture in a container such as a sealed plastic bag;
+- Throw the container in the household trash;
+- Delete all personal information on the prescription label of the empty bottle
+
+Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse
 
@@ -57,6 +71,10 @@ Instruct patients how to properly take tramadol hydrochloride extended-release t
   [see Dosage and Administration (2.1)].
 - Do not discontinue tramadol hydrochloride extended-release tablets without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)].
 
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue tramadol hydrochloride extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+
 Hypotension
 
 Inform patients that tramadol hydrochloride extended-release tablets may cause orthostatic hypotension and syncope.
@@ -94,9 +112,3 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
-
-Disposal of Unused Tramadol Hydrochloride Extended-Release Tablets
-
-Advise patients to throw the unused tramadol hydrochloride extended-release tablets in the household trash following these steps.
-1) Remove the drugs from their original containers and mix with an undesirable substance, such as used coffee grounds or kitty litter (this makes the drug less appealing to children and pets, and unrecognizable to people who may intentionally go through the trash seeking drugs).
-2) Place the mixture in a sealable bag, empty can, or other container to prevent the drug from leaking or breaking out of a garbage bag.
