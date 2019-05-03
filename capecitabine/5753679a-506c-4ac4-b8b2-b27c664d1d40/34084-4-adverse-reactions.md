@@ -8,7 +8,7 @@ Table 4 shows the adverse reactions occurring in ≥ 5% of patients from one pha
 A total of 995 patients were treated with 1250 mg/m2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 974 patients were administered 5-FU and leucovorin (20 mg/m2 leucovorin IV followed by 425 mg/m2 IV bolus 5-FU on days 1 to 5 every 28 days).
 The median duration of treatment was 164 days for capecitabine-treated patients and 145 days for 5-FU/LV-treated patients.
 A total of 112 (11%) and 73 (7%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions.
-A total of 18 deaths due to all causes occurred either on study or within 28 days of receiving study drug: 8 (0.8%) patients randomized to capecitabine and 10 (1%) randomized to 5-FU/LV.
+A total of 18 deaths due to all causes occurred either on study or within 28 days of receiving study drug: 8 (0.8%) patients randomized to capecitabine and 10 (1.0%) randomized to 5-FU/LV.
 
 Table 5 shows grade 3/4 laboratory abnormalities occurring in ≥ 1% of patients from one phase 3 trial in patients with Dukes' C colon cancer who received at least one dose of study medication and had at least one safety assessment.
 
@@ -57,12 +57,12 @@ Table 5: Percent Incidence of Grade 3/4 Laboratory Abnormalities Reported in ≥
 | Increased ALAT (SGPT) | 1.6 | 0.6 |
 | Increased calcium | 1.1 | 0.7 |
 | Decreased calcium | 2.3 | 2.2 |
-| Decreased hemoglobin | 1 | 1.2 |
-| Decreased lymphocytes | 13 | 13 |
+| Decreased hemoglobin | 1.0 | 1.2 |
+| Decreased lymphocytes | 13.0 | 13.0 |
 | Decreased neutrophilsThe incidence of grade 3/4 white blood cell abnormalities was 1.3% in the capecitabine arm and 4.9% in the IV 5-FU/LV arm. | 2.2 | 26.2 |
 | Decreased neutrophils/granulocytes | 2.4 | 26.4 |
-| Decreased platelets | 1 | 0.7 |
-| Increased bilirubinIt should be noted that grading was according to NCIC CTC Version 1 (May, 1994). In the NCIC-CTC Version 1, hyperbilirubinemia grade 3 indicates a bilirubin value of 1.5 to 3 × upper limit of normal (ULN) range, and grade 4 a value of > 3 × ULN. The NCI CTC Version 2 and above define a grade 3 bilirubin value of > 3 to 10 × ULN, and grade 4 values > 10 × ULN. | 20 | 6.3 |
+| Decreased platelets | 1.0 | 0.7 |
+| Increased bilirubinIt should be noted that grading was according to NCIC CTC Version 1 (May, 1994). In the NCIC-CTC Version 1, hyperbilirubinemia grade 3 indicates a bilirubin value of 1.5 to 3.0 × upper limit of normal (ULN) range, and grade 4 a value of > 3.0 × ULN. The NCI CTC Version 2 and above define a grade 3 bilirubin value of >3.0 to 10.0 × ULN, and grade 4 values >10.0 × ULN. | 20 | 6.3 |
 
 ## 6.2 Metastatic Colorectal Cancer
 
@@ -312,16 +312,15 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 | Eye: | conjunctivitis |
 | Respiratory: | cough (0.1%), epistaxis (0.1%), asthma (0.2%), hemoptysis, respiratory distress (0.1%), dyspnea |
 | Cardiac: | tachycardia (0.1%), bradycardia, atrial fibrillation, ventricular extrasystoles, extrasystoles, myocarditis (0.1%), pericardial effusion |
-| Infections: | laryngitis (1%), bronchitis (0.2%), pneumonia (0.2%), bronchopneumonia (0.2%), keratoconjunctivitis, sepsis (0.3%), fungal infections (including candidiasis) (0.2%) |
+| Infections: | laryngitis (1.0%), bronchitis (0.2%), pneumonia (0.2%), bronchopneumonia (0.2%), keratoconjunctivitis, sepsis (0.3%), fungal infections (including candidiasis) (0.2%) |
 | Musculoskeletal: | myalgia, bone pain (0.1%), arthritis (0.1%), muscle weakness |
-| Blood & Lymphatic: | leukopenia (0.2%), coagulation disorder (0.1%), bone marrow depression (0.1%), idiopathic thrombocytopenia purpura (1%), pancytopenia (0.1%) |
+| Blood & Lymphatic: | leukopenia (0.2%), coagulation disorder (0.1%), bone marrow depression (0.1%), idiopathic thrombocytopenia purpura (1.0%), pancytopenia (0.1%) |
 | Vascular: | hypotension (0.2%), hypertension (0.1%), lymphoedema (0.1%), pulmonary embolism (0.2%), cerebrovascular accident (0.1%) |
 | Psychiatric: | depression, confusion (0.1%) |
 | Renal: | renal impairment (0.6%) |
 | Ear: | vertigo |
 | Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
 | Immune System: | drug hypersensitivity (0.1%) |
-| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)], persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)] |
 
 Capecitabine In Combination With Docetaxel (Metastatic Breast Cancer)
 
@@ -335,3 +334,9 @@ Capecitabine In Combination With Docetaxel (Metastatic Breast Cancer)
 | Renal: | renal failure (0.4%) |
 | Hepatobiliary: | jaundice (0.4%), abnormal liver function tests (0.4%), hepatic failure (0.4%), hepatic coma (0.4%), hepatotoxicity (0.4%) |
 | Immune System: | hypersensitivity (1.2%) |
+
+## 6.5 Postmarketing Experience
+
+The following adverse reactions have been observed in the postmarketing setting: hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)], persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)]
+
+In instances of exposure to crushed capecitabine tablets, the following adverse reactions have been reported: eye irritation and swelling, skin rash, diarrhea, paresthesia, headache, gastric irritation, vomiting, and nausea.

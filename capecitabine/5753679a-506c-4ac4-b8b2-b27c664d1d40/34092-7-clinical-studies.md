@@ -127,7 +127,7 @@ Table 14: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 1)
 | Hazard Ratio (Capecitabine/5-FU/LV) | 0.99 |  |
 | 95% C.I. for Hazard Ratio | (0.84 to 1.17) |  |
 | Survival (Median, days, 95% C.I.) | 380 (321 to 434) | 407 (366 to 446) |
-| Hazard Ratio (Capecitabine/5-FU/LV) | 1 |  |
+| Hazard Ratio (Capecitabine/5-FU/LV) | 1.00 |  |
 | 95% C.I. for Hazard Ratio | (0.84 to 1.18) |  |
 
 Table 15: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 2)

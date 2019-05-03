@@ -2,13 +2,13 @@
 
 NDC 0093-7473-08
 
-CAPECITABINE TABLETS USP
+Capecitabine TABLETS USP
 
 150 mg
 
 Cytotoxic Agent
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
+PHARMACIST: Please dispense with accompanying Patient Information leaflet.
 
 Rx only
 
@@ -20,13 +20,13 @@ TEVA
 
 NDC 0093-7474-89
 
-CAPECITABINE TABLETS USP
+Capecitabine TABLETS USP
 
 500 mg
 
 Cytotoxic Agent
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
+PHARMACIST: Please dispense with accompanying Patient Information leaflet.
 
 Rx only
 

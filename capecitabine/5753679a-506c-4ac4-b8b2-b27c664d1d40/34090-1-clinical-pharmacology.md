@@ -39,7 +39,7 @@ Cytidine deaminase, an enzyme found in most tissues, including tumors, subsequen
 The enzyme, thymidine phosphorylase (dThdPase), then hydrolyzes 5'-DFUR to the active drug 5-FU.
 Many tissues throughout the body express thymidine phosphorylase.
 Some human carcinomas express this enzyme in higher concentrations than surrounding normal tissues.
-Following oral administration of capecitabine 7 days before surgery in patients with colorectal cancer, the median ratio of 5-FU concentration in colorectal tumors to adjacent tissues was 2.9 (range from 0.9 to 8).
+Following oral administration of capecitabine 7 days before surgery in patients with colorectal cancer, the median ratio of 5-FU concentration in colorectal tumors to adjacent tissues was 2.9 (range from 0.9 to 8.0).
 These ratios have not been evaluated in breast cancer patients or compared to 5-FU infusion.
 
 Metabolic Pathway of Capecitabine to 5-FU
@@ -92,6 +92,10 @@ Effect of Antacids on the Pharmacokinetics of Capecitabine
 
 When Maalox® (20 mL), an aluminum hydroxide- and magnesium hydroxide-containing antacid, was administered immediately after capecitabine (1250 mg/m2, n = 12 cancer patients), AUC and Cmax increased by 16% and 35%, respectively, for capecitabine and by 18% and 22%, respectively, for 5'-DFCR.
 No effect was observed on the other three major metabolites (5'-DFUR, 5-FU, FBAL) of capecitabine.
+
+Effect of Allopurinol on Capecitabine
+
+Published literature reported that concomitant use with allopurinol may decrease conversion of capecitabine to the active metabolites, FdUMP and FUTP; however, the clinical significance was not fully characterized.
 
 Effect of Capecitabine on the Pharmacokinetics of Docetaxel and Vice Versa
 
