@@ -15,11 +15,12 @@ Composition, osmolarity, pH and ionic concentration are shown in Table 1.
 
 Table 1
 
-|  | Size (mL) | Composition |  |  |  | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥ 600 mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (actual) | pH | Ionic Concentration (mEq/L) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Heparin Sodium, USP (units/mL) | Sodium Chloride, USP (NaCl) (g/L) | Dibasic Sodium Phosphate Heptahydrate, USP (Na2HPO4•7H2O) (g/L) | Citric Acid Hydrous, USP (C6H8O7•H2O) (g/L) | Sodium | Chloride | Phosphate (as HPO4=) | Citrate |  |  |  |  |
-| 1000 USP Heparin Units and 0.9% Sodium Chloride Injection | 500 | 2 | 9 | 4.34 | 0.4 | 322 | 7.0 (6.0 to 8.0) | 186 | 154 | 32 (16 mmol/L) | 6 |
-| 2000 USP Heparin Units and 0.9% Sodium Chloride Injection | 1000 | 2 | 9 | 4.34 | 0.4 | 322 | 7.0 (6.0 to 8.0) | 186 | 154 | 32 (16 mmol/L) | 6 |
+|  | Size (mL) | Composition |  |  |  |  | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥ 600 mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (actual) | pH | Ionic Concentration(mEq/L) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Heparin Sodium, USP(units/mL) | Sodium Chloride, USP (NaCl) (g/L) | Dibasic Sodium Phosphate Heptahydrate, USP (Na2HPO4•7H2O) (g/L) | Dibasic Sodium Phosphate Dodecahydrate, USP (Na2HPO4•12H2O) (g/L) | Citric Acid Hydrous, USP (C6H8O7•H2O) (g/L) | Sodium | Chloride | Phosphate (as HPO4=) | Citrate |  |  |  |  |
+| 1000 USP Heparin Units and0.9% Sodium Chloride Injection (Jayuya, PR) | 500 | 2 | 9 | 4.34 | ----- | 0.4 | 322 | 7.0(6.0 to 8.0) | 186 | 154 | 32(16 mmol/L) | 6 |
+| 1000 USP Heparin Units and 0.9% Sodium Chloride Injection (Toongabbie, AUS) | 500 | 2 | 9 | ----- | 5.80 | 0.4 | 322 | 7.0(6.0 to 8.0) | 186 | 154 | 32(16 mmol/L) | 6 |
+| 2000 USP Heparin Units and0.9% Sodium Chloride Injection (Jayuya, PR) | 1000 | 2 | 9 | 4.34 | ----- | 0.4 | 322 | 7.0(6.0 to 8.0) | 186 | 154 | 32(16 mmol/L) | 6 |
 
 This VIAFLEX PLUS plastic container is fabricated from a specially formulated polyvinyl chloride (PL 146 Plastic).
 VIAFLEX PLUS on the container indicates the presence of a drug additive in a drug vehicle.

@@ -24,11 +24,9 @@ Do not add supplementary medication.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-Printed in USA
-
 Baxter, Viaflex and Viaflex Plus are trademarks of Baxter International Inc.
 
-07-19-00-0140
+ANZ881901209
 
 Rev.
-April 2018
+April 2019
