@@ -13,7 +13,9 @@ Available data from the APR show no increase in the overall risk of major birth 
 The rate of miscarriage for individual drugs is not reported in the APR.
 In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
 
-In animal reproduction studies, no adverse developmental effects were observed when TDF was administered at doses/exposures ≥14 (TDF) and 2.7 (tenofovir) times those of the recommended daily dose of VIREAD (see Data).
+Published studies in HBV-infected subjects do not report an increased risk of adverse pregnancy-related outcomes with the use of VIREAD during the third trimester of pregnancy (see Data).
+
+In animal reproduction studies, no adverse developmental effects were observed when TDF was administered at doses/exposures ≥ 14 (TDF) and 2.7 (tenofovir) times those of the recommended daily dose of VIREAD (see Data).
 
 Data
 
@@ -25,6 +27,11 @@ The prevalence of major birth defects in live births was 2.3% (95% CI: 1.8% to 2
 Prospective reports from the APR of overall major birth defects in pregnancies exposed to TDF are compared with a U.S. background major birth defect rate.
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
 Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
+
+In published data from three controlled clinical trials, a total of 327 pregnant women with chronic HBV infection were administered VIREAD from 28 to 32 weeks gestation through 1 to 2 months postpartum and followed for up to 12 months after delivery.
+There were no new safety findings in pregnant women compared with the known safety profile of VIREAD in HBV-infected adults.
+An increased risk of adverse pregnancy-related outcomes was not observed; 2 stillbirths were identified, and there was 1 major birth defect (talipes) and 1 occurrence of multiple congenital abnormalities (not further specified) in VIREAD-exposed infants.
+Infants were followed for up to 12 months after delivery; there were no clinically relevant drug-related safety findings in infants exposed to VIREAD during late gestation.
 
 Animal Data
 
@@ -51,15 +58,15 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In a study of 50 breastfeeding women on a tenofovir-containing regimen between 1 and 24 weeks postpartum (median 13 weeks), after 7 days of treatment, tenofovir was undetectable in the plasma of most infants.
-There were no serious adverse events.
+In a study of 50 HIV-uninfected, breastfeeding women on a tenofovir-containing regimen initiated between 1 and 24 weeks postpartum (median 13 weeks), tenofovir was undetectable in the plasma of most infants after 7 days of treatment in mothers.
+There were no serious adverse events in mothers or infants.
 
 ## 8.4 Pediatric Use
 
 Pediatric Patients 2 Years and Older with HIV-1 Infection
 
 The safety and effectiveness of VIREAD in pediatric patients 2 years to less than 18 years of age is supported by data from two randomized trials.
-Trial 352 was a randomized controlled trial in 92 HIV-1 treatment experienced subjects 2 years to less than 12 years of age who were virologically suppressed on a stauvdine- or zidovudine-containing regimen and were randomized to either switch to a VIREAD-containing regimen (N=44) or stay on their original regimen (N=48) for 48 weeks.
+Trial 352 was a randomized controlled trial in 92 HIV-1 treatment experienced subjects 2 years to less than 12 years of age who were virologically suppressed on a stavudine- or zidovudine-containing regimen and were randomized to either switch to a VIREAD-containing regimen (N=44) or stay on their original regimen (N=48) for 48 weeks.
 At Week 48, 89% of subjects in the VIREAD treatment group and 90% of subjects in the d4T or AZT treatment group had HIV-1 RNA concentrations <400 copies/mL.
 Trial 321 was a placebo-controlled trial in 87 HIV-1 treatment experienced subjects 12 years to less than 18 years of age who were treated with VIREAD (N=45) or placebo (N=42) in combination with an optimized background regimen for 48 weeks.
 Overall, the trial failed to show a difference in virologic response between the VIREAD and placebo groups.

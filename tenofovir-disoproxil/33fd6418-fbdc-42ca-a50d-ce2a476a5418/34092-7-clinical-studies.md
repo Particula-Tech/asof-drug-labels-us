@@ -228,4 +228,5 @@ Table 24 Outcomes of Randomized Treatment (Trial 144) in Children 2 Years to <12
 | HBeAg lossThe analysis excluded 4 subjects who were HBeAg negative and HBeAb positive at baseline. | 17/56 (30%) | 8/29 (28%) |
 | HBeAg seroconversion | 14/56 (25%) | 7/29 (24%) |
 
-In Trials 115 and 144, sequencing data from paired baseline and on treatment HBV isolates from subjects who received VIREAD were available for 14 of 15 subjects who had plasma HBV DNA ≥400 copies/mL No amino acid substitutions associated with resistance to VIREAD were identified in these isolates by Week 72 (Trial 115) or Week 48 (Trial 144).
+In Trials 115 and 144, sequencing data from paired baseline and on treatment HBV isolates from subjects who received VIREAD were available for 14 of 15 subjects who had plasma HBV DNA ≥400 copies/mL.
+No amino acid substitutions associated with resistance to VIREAD were identified in these isolates by Week 72 (Trial 115) or Week 48 (Trial 144).

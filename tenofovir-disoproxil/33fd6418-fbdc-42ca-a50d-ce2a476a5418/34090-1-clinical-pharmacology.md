@@ -117,11 +117,11 @@ Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirS
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) | ⇔ | ⇔ |
 | Ledipasvir/ SofosbuvirData generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results.,Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. | 90/400 once daily × 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑ 42) | ↑ 47 (↑ 38 to ↑ 57) |
 | Ledipasvir/ Sofosbuvir,Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. | 23 | ↑ 64 (↑ 54 to ↑ 74) | ↑ 50 (↑ 42 to ↑ 59) | ↑ 59 (↑ 49 to ↑ 70) |  |
-| Ledipasvir/ SofosbuvirStudy conducted with ATRIPLA (EFV/FTC/TDF) coadministered with HARVONI; coadministration with HARVONI also results in comparable increases in tenofovir exposure when TDF is administered as COMPLERA (FTC/rilpivirine/TDF), or TRUVADA + dolutegravir. | 90/400 once daily × 14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to↑197) |
+| Ledipasvir/ SofosbuvirStudy conducted with ATRIPLA® (EFV/FTC/TDF) coadministered with HARVONI; coadministration with HARVONI also results in comparable increases in tenofovir exposure when TDF is administered as COMPLERA® (FTC/rilpivirine/TDF), or TRUVADA + dolutegravir. | 90/400 once daily × 14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to↑ 197) |
 | Lopinavir/ Ritonavir | 400/100 twice daily × 14 days | 24 | ⇔ | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
 | Saquinavir/ Ritonavir | 1000/100 twice daily × 14 days | 35 | ⇔ | ⇔ | ↑ 23 (↑ 16 to ↑ 30) |
 | SofosbuvirStudy conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). | 400 single dose | 16 | ↑ 25 (↑ 8 to ↑ 45) | ⇔ | ⇔ |
-| Sofosbuvir/ VelpatasvirStudy conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD (elvitegravir/cobicistat/FTC/TDF), TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
+| Sofosbuvir/ VelpatasvirStudy conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD® (elvitegravir/cobicistat/FTC/TDF), TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
 | Sofosbuvir/ VelpatasvirAdministered as raltegravir + FTC/TDF. | 400/100 once daily | 30 | ↑ 46 (↑ 39 to ↑ 54) | ↑ 40 (↑ 34 to ↑ 45) | ↑ 70 (↑ 61 to ↑ 79) |
 | Sofosbuvir/ Velpatasvir/ VoxilaprevirComparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. | 400/100/100 + VoxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. 100 once daily | 29 | ↑ 48 (↑ 36 to ↑ 61) | ↑ 39 (↑ 32 to ↑ 46) | ↑ 47 (↑ 38 to ↑ 56) |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | ⇔ | ⇔ |
@@ -253,7 +253,7 @@ Cross Resistance
 
 Cross resistance has been observed between HBV NrtIs.
 
-In cell based assays, HBV strains expressing the rtV173L, rtL180M, and rtM204I/V substitutions associated with resistance to lamivudine (3TC) and telbivudine showed a susceptibility to tenofovir ranging from 0.7- to 3.4-fold that of wild type virus.
+In cell-based assays, HBV strains expressing the rtV173L, rtL180M, and rtM204I/V substitutions associated with resistance to lamivudine (3TC) and telbivudine showed a susceptibility to tenofovir ranging from 0.7- to 3.4-fold that of wild type virus.
 The rtL180M and rtM204I/V double substitutions conferred 3.4-fold reduced susceptibility to tenofovir.
 
 HBV strains expressing the rtL180M, rtT184G, rtS202G/I, rtM204V, and rtM250V substitutions associated with resistance to entecavir showed a susceptibility to tenofovir ranging from 0.6- to 6.9-fold that of wild type virus.

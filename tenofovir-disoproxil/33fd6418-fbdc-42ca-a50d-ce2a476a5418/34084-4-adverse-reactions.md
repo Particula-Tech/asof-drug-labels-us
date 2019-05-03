@@ -87,7 +87,7 @@ Table 6 Selected Adverse ReactionsFrequencies of adverse reactions are based on 
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | VIREADFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with EFV in place of VIREAD + FTC with EFV.+FTC+EFV | AZT/3TC+EFV |
+|  | VIREADFrom Weeks 96 to 144 of the trial, subjects received TRUVADA® with EFV in place of VIREAD + FTC with EFV.+FTC+EFV | AZT/3TC+EFV |
 | Fatigue | 9% | 8% |
 | Depression | 9% | 7% |
 | Nausea | 9% | 7% |
@@ -202,7 +202,7 @@ Adverse Reactions from Clinical Trials Experience in HBV-Infected Adults
 
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease
 
-In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with VIREAD during the 48-week double-blind period experienced nausea: 9% with VIREAD versus 2% with HEPSERA.
+In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with VIREAD during the 48-week double-blind period experienced nausea: 9% with VIREAD versus 2% with HEPSERA®.
 Other treatment-emergent adverse reactions reported in more than 5% of subjects treated with VIREAD included: abdominal pain, diarrhea, headache, dizziness, fatigue, nasopharyngitis, back pain, and skin rash.
 
 In Trials 0102 and 0103, during the open-label phase of treatment with VIREAD (weeks 48–384), 2% of subjects (13/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
