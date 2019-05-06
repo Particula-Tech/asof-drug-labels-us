@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208375"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Dr.Reddy's Laboratories Inc.,",
+  "package_ndcs": [
+    "43598-413-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "Daptomycin"
+    }
+  ],
+  "setid": "7e9a1b82-f2ba-b2a4-619c-bea7768263e1",
+  "source": "dailymed"
+}
