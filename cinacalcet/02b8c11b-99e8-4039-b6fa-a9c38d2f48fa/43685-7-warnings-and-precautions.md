@@ -26,8 +26,12 @@ In clinical studies, seizures (primarily generalized or tonic-clonic) were obser
 While the basis for the reported difference in seizure rate is not clear, the threshold for seizures is lowered by significant reductions in serum calcium levels.
 Monitor serum calcium levels in patients with seizure disorder receiving cinacalcet hydrochloride tablets.
 
+Concurrent Administration with Other Calcium-Lowering Drug Products
+
 Concurrent administration of cinacalcet hydrochloride with calcium-lowering drugs including other calcium-sensing receptor agonists could result in severe hypocalcemia.
 Closely monitor serum calcium in patients receiving cinacalcet hydrochloride and concomitant therapies known to lower serum calcium levels.
+
+Patient Education and Hypocalcemia Treatment
 
 Educate patients on the symptoms of hypocalcemia and advise them to contact a healthcare provider if they occur.
 
