@@ -2,8 +2,8 @@
 
 ## 1.1 Multiple Myeloma
 
-VELCADE® (bortezomib) is indicated for the treatment of patients with multiple myeloma.
+VELCADE is indicated for the treatment of adult patients with multiple myeloma.
 
 ## 1.2 Mantle Cell Lymphoma
 
-VELCADE is indicated for the treatment of patients with mantle cell lymphoma.
+VELCADE is indicated for the treatment of adult patients with mantle cell lymphoma.

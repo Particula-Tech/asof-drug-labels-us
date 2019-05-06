@@ -1,30 +1,17 @@
 # 7 DRUG INTERACTIONS
 
-Bortezomib is a substrate of cytochrome P450 enzyme 3A4, 2C19 and 1A2.
+## 7.1 Effects of Other Drugs on VELCADE
 
-## 7.1 CYP3A4 inhibitors
+Strong CYP3A4 Inducers
 
-Co-administration of ketoconazole, a strong CYP3A4 inhibitor, increased the exposure of bortezomib by 35% in 12 patients.
-Monitor patients for signs of bortezomib toxicity and consider a bortezomib dose reduction if bortezomib must be given in combination with strong CYP3A4 inhibitors (e.g. ketoconazole, ritonavir).
+Coadministration with a strong CYP3A4 inducer decreases the exposure of bortezomib [see Clinical Pharmacology (12.3)] which may decrease VELCADE efficacy.
+Avoid coadministration with strong CYP3A4 inducers.
 
-## 7.2 CYP2C19 inhibitors
+Strong CYP3A4 Inhibitors
 
-Co-administration of omeprazole, a strong inhibitor of CYP2C19, had no effect on the exposure of bortezomib in 17 patients.
+Coadministration with a strong CYP3A4 inhibitor increases the exposure of bortezomib [see Clinical Pharmacology (12.3)] which may increase the risk of VELCADE toxicities.
+Monitor patients for signs of bortezomib toxicity and consider a bortezomib dose reduction if bortezomib must be given in combination with strong CYP3A4 inhibitors.
 
-## 7.3 CYP3A4 inducers
+## 7.2 Drugs Without Clinically Significant Interactions with VELCADE
 
-Co-administration of rifampin, a strong CYP3A4 inducer, is expected to decrease the exposure of bortezomib by at least 45%.
-Because the drug interaction study (n=6) was not designed to exert the maximum effect of rifampin on bortezomib PK, decreases greater than 45% may occur.
-
-Efficacy may be reduced when VELCADE is used in combination with strong CYP3A4 inducers; therefore, concomitant use of strong CYP3A4 inducers is not recommended in patients receiving VELCADE.
-
-St. John's Wort (Hypericum perforatum) may decrease bortezomib exposure unpredictably and should be avoided.
-
-## 7.4 Dexamethasone
-
-Co-administration of dexamethasone, a weak CYP3A4 inducer, had no effect on the exposure of bortezomib in 7 patients.
-
-## 7.5 Melphalan-Prednisone
-
-Co-administration of melphalan-prednisone increased the exposure of bortezomib by 17% in 21 patients.
-However, this increase is unlikely to be clinically relevant.
+No clinically significant drug interactions have been observed when VELCADE was coadministered with dexamethasone, omeprazole, or melphalan in combination with prednisone [see Clinical Pharmacology (12.3)].
