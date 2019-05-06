@@ -39,7 +39,7 @@ Other opioid-induced effects may include a reduction in biliary and pancreatic s
 Effects on the Cardiovascular System
 
 Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus,flushing, red eyes, sweating, and/or orthostatic hypotension.
+Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 
@@ -58,12 +58,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
-The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see DOSAGE AND ADMINISTRATION].
+The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see DOSAGE and ADMINISTRATION].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing tramadol plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see DOSAGE AND ADMINISTRATION].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see DOSAGE and ADMINISTRATION].
 
 Pharmacokinetics
 
@@ -116,7 +116,7 @@ Tramadol is extensively metabolized after oral administration.
 The major metabolic pathways appear to be N- and O-demethylation and glucuronidation or sulfation in the liver.
 N-demethylation is mediated by CYP3A4 and CYP2B6.
 One metabolite (O-desmethyltramadol, denoted M1) is pharmacologically active in animal models.
-Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition and polymorphism, which may affect the therapeutic response [see P RECAUTIONS - Drug Interactions].
+Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition and polymorphism, which may affect the therapeutic response [see PRECAUTIONS - Drug Interactions].
 
 Excretion
 
@@ -130,21 +130,21 @@ Hepatic Impairment
 The metabolism of tramadol and M1 is reduced in patients with advanced cirrhosis of the liver, resulting in both a larger area under the concentration time curve (AUC) for tramadol and longer mean tramadol and M1 elimination half-lives (13 hours for tramadol and 19 hours for M1) after the administration of tramadol immediate-release tablets.
 Tramadol hydrochloride extended-release tablets have not been studied in patients with hepatic impairment.
 The limited availability of dose strengths and once daily dosing of tramadol hydrochloride extended-release tablets do not permit the dosing flexibility required for safe use in patients with hepatic impairment.
-Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with hepatic impairment [see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION].
+Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with hepatic impairment [see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE and ADMINISTRATION].
 
 Renal Impairment
 
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1 in patients taking an immediate-release formulation of tramadol.
 Tramadol hydrochloride extended-release tablets have not been studied in patients with renal impairment.
 The limited availability of dose strengths and once daily dosing of tramadol hydrochloride extended-release tablets do not permit the dosing flexibility required for safe use in patients with severe renal impairment.
-Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with severe renal impairment (creatinine clearance less than 30 mL/min) [see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION].
+Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with severe renal impairment (creatinine clearance less than 30 mL/min) [see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE and ADMINISTRATION].
 The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose.
 
 Geriatric Patients
 
 Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects less than 65 years of age.
 In subjects over 75 years, mean maximum plasma concentrations are elevated (208 vs. 162 ng/mL) and the mean elimination half-life is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age.
-Adjustment of the daily dose is recommended for patients older than 75 years [see DOSAGE AND ADMINISTRATION].
+Adjustment of the daily dose is recommended for patients older than 75 years [see DOSAGE and ADMINISTRATION].
 
 Sex
 
@@ -186,8 +186,6 @@ Cimetidine
 Concomitant administration of tramadol immediate-release tablets with cimetidine, a weak CYP3A4 inhibitor, does not result in clinically significant changes in tramadol pharmacokinetics.
 No alteration of the tramadol hydrochloride extended-release tablets dosage regimen with cimetidine is recommended.
 
-Carbamazepine
-
-Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.
+Carbamazepine Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.
 Patients taking carbamazepine may have a significantly reduced analgesic effect of tramadol.
 Concomitant administration of tramadol hydrochloride extended-release tablets and carbamazepine is not recommended [see PRECAUTIONS].

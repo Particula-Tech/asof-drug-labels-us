@@ -17,9 +17,9 @@ Important information about tramadol hydrochloride extended-release tablets:
   When you first start taking tramadol hydrochloride extended-release tablets, when your dose is changed, or if you take too many (overdose), serious or life-threatening breathing problems that can lead to death may occur.
 - Taking tramadol hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your tramadol hydrochloride extended-release tablets.
-  They could die from taking it.
-  Store tramadol hydrochloride extended-release tablets away from children and in a safe place to prevent stealing or abuse.
+  They could die from taking them.
   Selling or giving away tramadol hydrochloride extended-release tablets is against the law.
+- Store tramadol hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 
 Important Information Guiding Use in Pediatric Patients:
 
@@ -36,7 +36,6 @@ Before taking tramadol hydrochloride extended-release tablets, tell your healthc
 
 - head injury, seizures ● liver, kidney, thyroid problems
 - problems urinating ● pancreas or gallbladder problems
-
 - abuse of street or prescription drugs, alcohol addiction, or mental health problems.
 
 Tell your healthcare provider if you are:
@@ -61,7 +60,8 @@ When taking tramadol hydrochloride extended-release tablets:
   Do not cut, break, chew, crush, dissolve, snort, or inject tramadol hydrochloride extended-release tablets because this may cause you to overdose and die.
 - Call your healthcare provider if the dose you are taking does not control your pain.
 - Do not stop taking tramadol hydrochloride extended-release tablets without talking to your healthcare provider.
-- After you stop taking tramadol hydrochloride extended-release tablets, dispose the unused tramadol hydrochloride extended-release tablets in accordance with the local state guidelines and/or regulations.
+- Dispose of expired, unwanted, or unused tramadol hydrochloride extended-release tablets by taking your drug to an authorized DEA-registered collector or drug take-back program.
+  If one is not available, you can dispose of tramadol hydrochloride extended-release tablets by mixing the product with dirt, cat litter, or coffee grounds; placing the mixture in a sealed plastic bag, and throwing the bag in your trash.
 
 While taking tramadol hydrochloride extended-release tablets DO NOT:
 
@@ -101,6 +101,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-07/2018
+05/2019
 
-PJPI0263G
+PJPI0263H

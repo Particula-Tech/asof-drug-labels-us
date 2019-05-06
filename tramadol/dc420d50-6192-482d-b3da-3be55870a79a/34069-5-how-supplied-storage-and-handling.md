@@ -37,3 +37,5 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30
 Dispense in a tight, light resistant container.
 
 Warning: keep out of reach of children.
+
+Store tramadol hydrochloride extended-release tablets securely and dispose of properly [see PRECAUTIONS/ Information for Patients].

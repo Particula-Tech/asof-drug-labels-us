@@ -4,7 +4,7 @@ Addiction, Abuse, and Misuse
 
 Tramadol hydrochloride extended-release tablets contain tramadol, a Schedule IV controlled substance.
 As an opioid, tramadol hydrochloride extended-release tablets expose users to the risks of addiction, abuse, and misuse [see DRUG ABUSE and DEPENDENCE].
-Because extended-release products such as tramadol hydrochloride extended-release tablets deliver the opioid over an extended period of time, there is a greater risk for overdose and death due to the larger amount of tramadol present [see Drug Abuse and Dependence].
+Because extended-release products such as tramadol hydrochloride extended-release tablets deliver the opioid over an extended period of time, there is a greater risk for overdose and death due to the larger amount of tramadol present [see DRUG ABUSE and DEPENDENCE].
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed tramadol hydrochloride extended-release tablets.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
@@ -14,7 +14,7 @@ Risks are increased in patients with a personal or family history of substance a
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as tramadol hydrochloride extended-release tablets, but use in such patients necessitates intensive counseling about the risks and proper use of tramadol hydrochloride extended-release tablets along with intensive monitoring for signs of addiction, abuse, and misuse.
 
-Abuse or misuse of tramadol hydrochloride extended-release tablets by cutting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see OVERDAOSAGE].
+Abuse or misuse of tramadol hydrochloride extended-release tablets by cutting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see OVERDOSAGE].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing tramadol hydrochloride extended-release tablets.
@@ -41,10 +41,14 @@ Carbon dioxide (CO2) retention from opioid-induced respiratory depression can ex
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of tramadol hydrochloride extended-release tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with and following dosage increases of tramadol hydrochloride extended-release tablets.
 
-To reduce the risk of respiratory depression, proper dosing and titration of tramadol hydrochloride extended-release tablets are essential [see DOSAGE AND ADMINISTRATION].
+To reduce the risk of respiratory depression, proper dosing and titration of tramadol hydrochloride extended-release tablets are essential [see DOSAGE and ADMINISTRATION].
 Overestimating the tramadol hydrochloride extended-release tablets dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
 Accidental ingestion of tramadol hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see DOSAGE and ADMINISTRATION].
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
@@ -58,7 +62,7 @@ Because of the risk of life-threatening respiratory depression and death:
 - Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
 - Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
-- As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose [see PRECAUTIONS/Pediatric Use, Overdosage].
+- As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose [see PRECAUTIONS/Pediatric Use, OVERDOSAGE].
 
 Nursing Mothers
 
@@ -79,7 +83,7 @@ Therefore, individuals who are ultra-rapid metabolizers should not use tramadol 
 Neonatal Opioid Withdrawal Syndrome Prolonged use of tramadol hydrochloride extended-release tablets during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see PRECAUTIONS, Information for Patients, Pregnancy].
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see PRECAUTIONS; Information for Patients, Pregnancy].
 
 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
@@ -122,10 +126,10 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see PRECAUTIONS; Information for Patients, Drug Interactions].
 
-Serotonin Syndrome Risk
+Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of tramadol hydrochloride extended-release tablets with serotonergic drugs.
-Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see PRECAUTIONS; Drug Interactions].
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see PRECAUTIONS; Drug Interactions].
 This may occur within the recommended dosage range.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -153,10 +157,10 @@ In tramadol overdose, naloxone administration may increase the risk of seizures.
 Suicide Risk
 
 - Do not prescribe tramadol hydrochloride extended-release tablets for patients who are suicidal or addiction-prone.
-  Consideration should be given to the use of non-narcotic analgesics in patients who are suicidal or depressed [see DRUG ABUSE AND DEPENDENCE].
+  Consideration should be given to the use of non-narcotic analgesics in patients who are suicidal or depressed [see DRUG ABUSE and DEPENDENCE].
 - Prescribe tramadol hydrochloride extended-release tablets with caution for patients with history of misuse and/or are currently taking CNS-active drugs including tranquilizers or antidepressant drugs, or alcohol in excess, and patients who suffer from emotional disturbance or depression [see PRECAUTIONS; Drug Interactions].
 
-Tell your patients not to exceed the recommended dose and to limit their intake of alcohol [see DOSAGE AND ADMINISTRATION and WARNINGS].
+Tell your patients not to exceed the recommended dose and to limit their intake of alcohol [see DOSAGE and ADMINISTRATION and WARNINGS].
 
 Adrenal Insufficiency
 
@@ -211,11 +215,13 @@ Other reported hypersensitivity reactions include pruritus, hives, bronchospasm,
 Patients with a history of hypersensitivity reactions to tramadol and other opioids may be at increased risk and therefore should not receive tramadol hydrochloride extended-release tablets.
 If anaphylaxis or other hypersensitivity occurs, stop administration of tramadol hydrochloride extended-release tablets immediately, discontinue tramadol hydrochloride extended-release tablets permanently, and do not rechallenge with any formulation of tramadol.
 Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction [see CONTRAINDICATIONS and PRECAUTIONS; Information forPatients].
-Withdrawal Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride extended-release tablets.
+Withdrawal Do not abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
+Rapid tapering of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see DOSAGE and ADMINISTRATION, DRUG ABUSE and DEPENDENCE].
+Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride extended-release tablets.
 In these patients, mixed agonist/antagonist and partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
-When discontinuing tramadol hydrochloride extended-release tablets, gradually taper the dosage [see DOSAGE AND ADMINISTRATION].
-Do not abruptly discontinue tramadol hydrochloride extended-release tablets [see DRUG ABUSE AND DEPENDENCE].
+When discontinuing tramadol hydrochloride extended-release tablets, gradually taper the dosage [see DOSAGE and ADMINISTRATION].
+Do not abruptly discontinue tramadol hydrochloride extended-release tablets [see DRUG ABUSE and DEPENDENCE].
 Risks of Driving and Operating Machinery
 
 Tramadol hydrochloride extended-release tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
@@ -228,16 +234,32 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1 in patients taking an immediate-release formulation of tramadol.
 Tramadol hydrochloride extended-release tablets have not been studied in patients with renal impairment.
 The limited availability of dose strengths and once daily dosing of tramadol hydrochloride extended-release tablets do not permit the dosing flexibility required for safe use in patients with renal impairment.
-Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with severe renal impairment [see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION].
+Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with severe renal impairment [see CLINICAL PHARMACOLOGY and DOSAGE and ADMINISTRATION].
 
 The metabolism of tramadol and M1 is reduced in patients with advanced cirrhosis of the liver.
 Tramadol hydrochloride extended-release tablets have not been studied in patients with hepatic impairment.
 The limited availability of dose strengths and once daily dosing of tramadol hydrochloride extended-release tablets do not permit the dosing flexibility required for safe use in patients with hepatic impairment.
-Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with hepatic impairment [see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION].
+Therefore, tramadol hydrochloride extended-release tablets should not be used in patients with hepatic impairment [see CLINICAL PHARMACOLOGY and DOSAGE and ADMINISTRATION].
 
 ## Information for Patients
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store tramadol hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see WARNINGS, DRUG ABUSE and DEPENDENCE].
+Inform patients that leaving tramadol hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
+If no take back programs or DEA-registered collectors are available, instruct patients to dispose of tramadol hydrochloride extended-release tablets by following these four steps:
+
+- Mix tramadol hydrochloride extended-release tablets (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
+- Place the mixture in a container such as a sealed plastic bag;
+- Throw the container in the household trash;
+- Delete all personal information on the prescription label of the empty bottle
+
+Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse
 
@@ -288,10 +310,14 @@ Important Administration Instructions
 Instruct patients how to properly take tramadol hydrochloride extended-release tablets, including the following:
 
 - Tramadol hydrochloride extended-release tablets are designed to work properly only if swallowed intact.
-  Taking cut, broken, chewed, crushed, or dissolved tramadol hydrochloride extended-release tablets can result in a fatal overdose [see DOSAGE AND ADMINISTRATION].
+  Taking cut, broken, chewed, crushed, or dissolved tramadol hydrochloride extended-release tablets can result in a fatal overdose [see DOSAGE and ADMINISTRATION].
 - Advise patients not to exceed the single-dose and 24-hour dose limit and the time interval between doses, since exceeding these recommendations can result in respiratory depression, seizures, hepatic toxicity, and death.
-  [see Dosage and Administration].
-- Do not discontinue tramadol hydrochloride extended-release tablets without first discussing the need for a tapering regimen with the prescriber [see DOSAGE AND ADMINISTRATION].
+  [see DOSAGE and ADMINISTRATION].
+- Do not discontinue tramadol hydrochloride extended-release tablets without first discussing the need for a tapering regimen with the prescriber [see DOSAGE and ADMINISTRATION].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue tramadol hydrochloride extended-release tablets without first discussing a tapering plan with the prescriber [see DOSAGE and ADMINISTRATION].
 
 Hypotension
 
@@ -325,19 +351,11 @@ It is not known whether these effects on fertility are reversible [see ADVERSE R
 Driving or Operating Heavy Machinerys
 
 Inform patients that tramadol hydrochloride extended-release tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication[see WARNINGS].
+Advise patients not to perform such tasks until they know how they will react to the medication [see WARNINGS].
 
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see ADVERSE REACTIONS, CLINICAL PHARMACOLOGY].
-
-Disposal of Unused tramadol hydrochloride extended-release tablets
-
-Advise patients to throw the unused tramadol hydrochloride extended-release tablets in the household trash following these steps.
-1).
-Remove the drugs from their original containers and mix with an undesirable substance, such as used coffee grounds or kitty litter (this makes the drug less appealing to children and pets, and unrecognizable to people who may intentionally go through the trash seeking drugs).
-2).
-Place the mixture in a sealable bag, empty can, or other container to prevent the drug from leaking or breaking out of a garbage bag.
 
 ## Drug Interactions
 
@@ -390,7 +408,7 @@ Follow patients closely for signs of respiratory depression and sedation [see WA
 
 Serotonergic Drugs
 
-The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system such as s elective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) has resulted in serotonin syndrome.
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) has resulted in serotonin syndrome.
 
 If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
 Discontinue tramadol hydrochloride extended-release tablets if serotonin syndrome is suspected.
@@ -541,7 +559,7 @@ Children with sleep apnea may be particularly sensitive to the respiratory depre
 
 Because of the risk of life-threatening respiratory depression and death:
 
-- Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than 12 years of age [seeCONTRAINDICATIONS].
+- Tramadol hydrochloride extended-release tablets are contraindicated for all children younger than 12 years of age [see CONTRAINDICATIONS].
 - Tramadol hydrochloride extended-release tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
 - Avoid the use of tramadol hydrochloride extended-release tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
@@ -551,7 +569,7 @@ Because of the risk of life-threatening respiratory depression and death:
 In 12-week clinical trials, tramadol hydrochloride extended-release tablets were administered to 534 patients aged 65 years and older.
 Of those, 68 patients were 75 years of age and older.
 Comparable incidence rates of patients experiencing adverse events were observed for patients older than 65 years of age compared with younger patients (< 65 years of age), except constipation for which the incidence was higher in older patients.
-Tramadol hydrochloride extended-release tablets should be used with caution in patients older than 75 years of age [see CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION].
+Tramadol hydrochloride extended-release tablets should be used with caution in patients older than 75 years of age [see CLINICAL PHARMACOLOGY, DOSAGE and ADMINISTRATION].
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were coadministered with other agents that depress respiration.
 Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see WARNINGS].
