@@ -49,16 +49,16 @@ Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (D) A
 | --- | --- | --- | --- | --- |
 | Study A |  | Bisoprolol Fumarate |  |  |
 | n= | 61 | 61 | 61 | 61 |
-| Total ?BP (mm Hg) | 5.4/3.2 | 10.4/8 | 11.2/10.9 | 12.8/11.9 |
+| Total ΔBP (mm Hg) | 5.4/3.2 | 10.4/8 | 11.2/10.9 | 12.8/11.9 |
 | Drug Effecta | - | 5/4.8 | 5.8/7.7 | 7.4/8.7 |
-| Total ?HR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
+| Total ΔHR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
 | Drug Effecta | - | 6.7 | 8.2 | 10.8 |
 | Study B |  | Bisoprolol Fumarate |  |  |
 |  | Placebo | 2.5 mg | 10 mg |  |
 | n= | 56 | 59 | 62 |  |
-| Total ?BP (mm Hg) | 3/3.7 | 7.6/8.1 | 13.5/11.2 |  |
+| Total ΔBP (mm Hg) | 3/3.7 | 7.6/8.1 | 13.5/11.2 |  |
 | Drug Effecta | - | 4.6/4.4 | 10.5/7.5 |  |
-| Total ?HR (bpm) | 1.6 | 3.8 | 10.7 |  |
+| Total ΔHR (bpm) | 1.6 | 3.8 | 10.7 |  |
 | Drug Effecta | - | 2.2 | 9.1 |  |
 | a Observed total change from baseline minus placebo. |  |  |  |  |
 
