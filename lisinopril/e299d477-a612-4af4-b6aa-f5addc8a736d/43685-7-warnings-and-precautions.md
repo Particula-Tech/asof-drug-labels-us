@@ -2,20 +2,22 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D
-
+Lisinopril can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Lisinopril as soon as possible [see Use in specific Populations (8.1)].
+When pregnancy is detected, discontinue lisinopril as soon as possible [see Use in specific Populations (8.1)].
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
+
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+[see Drug Interactions (7.7)].
 
 Angioedema
 
 Head and Neck Angioedema
 
-Angioedema of the face, extremities, lips, tongue, glottis and/or larynx, including some fatal reactions, have occurred in patients treated with angiotensin converting enzyme inhibitors, including Lisinopril, at any time during treatment.
+Angioedema of the face, extremities, lips, tongue, glottis and/or larynx, including some fatal reactions, have occurred in patients treated with angiotensin converting enzyme inhibitors, including lisinopril, at any time during treatment.
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Lisinopril should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
 
@@ -44,29 +46,29 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 
 ## 5.3 Impaired Renal Function
 
-Monitor renal function periodically in patients treated with Lisinopril.
+Monitor renal function periodically in patients treated with lisinopril.
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system.
-Patients whose renal function may depend in part on the activity of the renin-angiotensin system (eg, patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction or volume depletion) may be at particular risk of developing acute renal failure on Lisinopril.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Lisinopril [see Adverse Reactions (6.1), Drug Interactions (7.4)].
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction or volume depletion) may be at particular risk of developing acute renal failure on lisinopril.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on lisinopril [see Adverse Reactions (6.1), Drug Interactions (7.4)].
 
 ## 5.4 Hypotension
 
 Lisinopril can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia, acute renal failure or death.
 Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mmHg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
 
-In these patients, Lisinopril should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of Lisinopril and/or diuretic is increased.
-Avoid use of Lisinopril in patients who are hemodynamically unstable after acute MI.
+In these patients, lisinopril should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of lisinopril and/or diuretic is increased.
+Avoid use of lisinopril in patients who are hemodynamically unstable after acute MI.
 
 Symptomatic hypotension is also possible in patients with severe aortic stenosis or hypertrophic cardiomyopathy.
 
 Surgery/Anesthesia
 
-In patients undergoing major surgery or during anesthesia with agents that produce hypotension, Lisinopril may block angiotensin II formation secondary to compensatory renin release.
+In patients undergoing major surgery or during anesthesia with agents that produce hypotension, lisinopril may block angiotensin II formation secondary to compensatory renin release.
 If hypotension occurs and is considered to be due to this mechanism, it can be corrected by volume expansion.
 
 ## 5.5 Hyperkalemia
 
-Serum potassium should be monitored periodically in patients receiving Lisinopril.
+Serum potassium should be monitored periodically in patients receiving lisinopril.
 Drugs that inhibit the renin angiotensin system can cause hyperkalemia.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes [see Drug Interactions (7.1)].
 

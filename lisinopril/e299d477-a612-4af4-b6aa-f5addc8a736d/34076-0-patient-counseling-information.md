@@ -3,12 +3,13 @@
 NOTE: This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 
-Pregnancy: Tell female patients of childbearing age about the consequences of exposure to Lisinopril during pregnancy.
-Discuss treatment options with women planning to become pregnant.
-Tell patients to report pregnancies to their physicians as soon as possible.
+Pregnancy: Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females of reproductive potential to notify their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
-Angioedema: Angioedema, including laryngeal edema may occur at any time during treatment with angiotensin converting enzyme inhibitors, including Lisinopril.
+Angioedema: Angioedema, including laryngeal edema may occur at any time during treatment with angiotensin converting enzyme inhibitors, including lisinopril.
 Tell patients to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
+
+Lactation: Advise women not to breastfeed during treatment with lisinopril [see Use in Specific Populations (8.2)].
 
 Symptomatic Hypotension: Tell patients to report light-headedness especially during the first few days of therapy.
 If actual syncope occurs, tell the patient to discontinue the drug until they have consulted with the prescribing physician.
@@ -20,14 +21,12 @@ Hyperkalemia: Tell patients not to use salt substitutes containing potassium wit
 
 Hypoglycemia: Tell diabetic patients treated with oral antidiabetic agents or insulin starting an ACE inhibitor to monitor for hypoglycaemia closely, especially during the first month of combined use [see Drug Interactions (7.2)].
 
-Leukopenia/Neutropenia: Tell patients to report promptly any indication of infection (eg, sore throat, fever), which may be a sign of leukopenia/neutropenia.
+Leukopenia/Neutropenia: Tell patients to report promptly any indication of infection (e.g., sore throat, fever), which may be a sign of leukopenia/neutropenia.
 
-Manufactured by:
-
-Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang 317024, China
+Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang 317024, China
 
 Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
-Revision: 01/2015
+Revision: 09/2016
 
-17008-02
+17008-05

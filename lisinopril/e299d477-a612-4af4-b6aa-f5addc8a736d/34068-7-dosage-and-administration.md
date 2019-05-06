@@ -9,8 +9,8 @@ Doses up to 80 mg have been used but do not appear to give greater effect.
 
 Use with diuretics in adults
 
-If blood pressure is not controlled with Lisinopril alone, a low dose of a diuretic may be added (eg, hydrochlorothiazide, 12.5 mg).
-After the addition of a diuretic, it may be possible to reduce the dose of Lisinopril.
+If blood pressure is not controlled with lisinopril alone, a low dose of a diuretic may be added (e.g., hydrochlorothiazide, 12.5 mg).
+After the addition of a diuretic, it may be possible to reduce the dose of lisinopril.
 
 The recommended starting dose in adult patients with hypertension taking diuretics is 5 mg once per day.
 
@@ -24,25 +24,25 @@ Lisinopril is not recommended in pediatric patients < 6 years or in pediatric pa
 
 ## 2.2 Heart Failure
 
-The recommended starting dose for Lisinopril, when used with diuretics and (usually) digitalis as adjunctive therapy for systolic heart failure, is 5 mg once daily.
+The recommended starting dose for lisinopril, when used with diuretics and (usually) digitalis as adjunctive therapy for systolic heart failure, is 5 mg once daily.
 The recommended starting dose in these patients with hyponatremia (serum sodium < 130 mEq/L) is 2.5 mg once daily.
 Increase as tolerated to a maximum of 40 mg once daily.
 
 Diuretic dose may need to be adjusted to help minimize hypovolemia, which may contribute to hypotension [see Warnings and Precautions (5.4), and Drug Interactions (7.1)].
-The appearance of hypotension after the initial dose of Lisinopril does not preclude subsequent careful dose titration with the drug, following effective management of the hypotension.
+The appearance of hypotension after the initial dose of lisinopril does not preclude subsequent careful dose titration with the drug, following effective management of the hypotension.
 
 ## 2.3 Reduction of Mortality in Acute Myocardial Infarction
 
-In hemodynamically stable patients within 24 hours of the onset of symptoms of acute myocardial infarction, give Lisinopril 5 mg orally, followed by 5 mg after 24 hours, 10 mg after 48 hours and then 10 mg once daily.
+In hemodynamically stable patients within 24 hours of the onset of symptoms of acute myocardial infarction, give lisinopril 5 mg orally, followed by 5 mg after 24 hours, 10 mg after 48 hours and then 10 mg once daily.
 Dosing should continue for at least six weeks.
 
 Initiate therapy with 2.5 mg in patients with a low systolic blood pressure (≤ 120 mmHg and > 100 mmHg) during the first 3 days after the infarct [see Warnings and Precautions (5.4)].
 If hypotension occurs (systolic blood pressure ≤ 100 mmHg) a daily maintenance dose of 5 mg may be given with temporary reductions to 2.5 mg if needed.
-If prolonged hypotension occurs (systolic blood pressure < 90 mmHg for more than 1 hour) Lisinopril should be withdrawn.
+If prolonged hypotension occurs (systolic blood pressure < 90 mmHg for more than 1 hour) lisinopril should be withdrawn.
 
 ## 2.4 Dose in Patients with Renal Impairment
 
-No dose adjustment of Lisinopril is required in patients with creatinine clearance > 30 mL/min.
-In patients with creatinine clearance ≥ 10 mL/min and ≤ 30 mL/min, reduce the initial dose of Lisinopril to half of the usual recommended dose i.e., hypertension, 5 mg; systolic heart failure, 2.5 mg and acute MI, 2.5 mg.
+No dose adjustment of lisinopril is required in patients with creatinine clearance > 30 mL/min.
+In patients with creatinine clearance ≥ 10 mL/min and ≤ 30 mL/min, reduce the initial dose of lisinopril to half of the usual recommended dose i.e., hypertension, 5 mg; systolic heart failure, 2.5 mg and acute MI, 2.5 mg.
 Up titrate as tolerated to a maximum of 40 mg daily.
 For patients on hemodialysis or creatinine clearance < 10 mL/min, the recommended initial dose is 2.5 mg once daily [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].

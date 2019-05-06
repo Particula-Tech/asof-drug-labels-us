@@ -6,16 +6,16 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Hypertension
 
-In clinical trials in patients with hypertension treated with Lisinopril, 5.7% of patients on Lisinopril discontinued with adverse reactions.
+In clinical trials in patients with hypertension treated with lisinopril, 5.7% of patients on lisinopril discontinued with adverse reactions.
 
-The following adverse reactions (events 2% greater on Lisinopril than on placebo) were observed with Lisinopril alone: headache (by 3.8%), dizziness (by 3.5%), cough (by 2.5%).
+The following adverse reactions (events 2% greater on lisinopril than on placebo) were observed with lisinopril alone: headache (by 3.8%), dizziness (by 3.5%), cough (by 2.5%).
 
 Heart Failure
 
-In patients with systolic heart failure treated with Lisinopril for up to four years, 11% discontinued therapy with adverse reactions.
-In controlled studies in patients with heart failure, therapy was discontinued in 8.1% of patients treated with Lisinopril for 12 weeks, compared to 7.7% of patients treated with placebo for 12 weeks.
+In patients with systolic heart failure treated with lisinopril for up to four years, 11% discontinued therapy with adverse reactions.
+In controlled studies in patients with heart failure, therapy was discontinued in 8.1% of patients treated with lisinopril for 12 weeks, compared to 7.7% of patients treated with placebo for 12 weeks.
 
-The following adverse reactions (events 2% greater on Lisinopril than on placebo) were observed with Lisinopril: hypotension (by 3.8%), chest pain (by 2.1%).
+The following adverse reactions (events 2% greater on lisinopril than on placebo) were observed with lisinopril: hypotension (by 3.8%), chest pain (by 2.1%).
 
 In the two-dose ATLAS trial [see Clinical Studies (14.2)] in heart failure patients, withdrawals due to adverse reactions were not different between the low and high groups, either in total number of discontinuation (17-18%) or in rare specific reactions (< 1%).
 The following adverse reactions, mostly related to ACE inhibition, were reported more commonly in the high dose group:
@@ -32,9 +32,9 @@ Table 1 Dose-related Adverse Drug Reactions: ATLAS trial
 
 Acute Myocardial Infarction
 
-Patients treated with Lisinopril had a higher incidence of hypotension (by 5.3%) and renal dysfunction (by 1.3%) compared with patients not taking Lisinopril.
+Patients treated with lisinopril had a higher incidence of hypotension (by 5.3%) and renal dysfunction (by 1.3%) compared with patients not taking lisinopril.
 
-Other clinical adverse reactions occurring in 1 % or higher of patients with hypertension or heart failure treated with Lisinopril in controlled clinical trials and do not appear in other sections of labeling are listed below:
+Other clinical adverse reactions occurring in 1 % or higher of patients with hypertension or heart failure treated with lisinopril in controlled clinical trials and do not appear in other sections of labeling are listed below:
 
 Body as a whole: Fatigue, asthenia, orthostatic effects.
 
@@ -57,16 +57,16 @@ Rash, photosensitivity or other dermatological manifestations may occur alone or
 
 Clinical Laboratory Test Findings
 
-Serum Potassium: In clinical trials hyperkalemia (serum potassium greater than 5.7 mEq/L) occurred in 2.2% and 4.8% of Lisinopril-treated patients with hypertension and heart failure, respectively [see Warnings and Precautions (5.5)].
+Serum Potassium: In clinical trials hyperkalemia (serum potassium greater than 5.7 mEq/L) occurred in 2.2% and 4.8% of lisinopril-treated patients with hypertension and heart failure, respectively [see Warnings and Precautions (5.5)].
 
-Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 2% of patients with hypertension treated with Lisinopril alone.
+Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 2% of patients with hypertension treated with lisinopril alone.
 Increases were more common in patients receiving concomitant diuretics and in patients with renal artery stenosis [see Warnings and Precautions (5.4)].
 Reversible minor increases in blood urea nitrogen and serum creatinine were observed in 11.6% of patients with heart failure on concomitant diuretic therapy.
 Frequently, these abnormalities resolved when the dosage of the diuretic was decreased.
 
-Patients with acute myocardial infarction in the GISSI-3 trial treated with Lisinopril had a higher (2.4% versus 1.1% in placebo) incidence of renal dysfunction in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration).
+Patients with acute myocardial infarction in the GISSI-3 trial treated with lisinopril had a higher (2.4% versus 1.1% in placebo) incidence of renal dysfunction in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration).
 
-Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.4 g% and 1.3 vol%, respectively) occurred frequently in patients treated with Lisinopril but were rarely of clinical importance in patients without some other cause of anemia.
+Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.4 g% and 1.3 vol%, respectively) occurred frequently in patients treated with lisinopril but were rarely of clinical importance in patients without some other cause of anemia.
 In clinical trials, less than 0.1% of patients discontinued therapy due to anemia.
 
 ## 6.2 Post-marketing Experience

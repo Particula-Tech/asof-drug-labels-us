@@ -8,40 +8,40 @@ Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
 The beneficial effects of lisinopril in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system.
 Inhibition of ACE results in decreased plasma angiotensin II which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 The latter decrease may result in a small increase of serum potassium.
-In hypertensive patients with normal renal function treated with Lisinopril alone for up to 24 weeks, the mean increase in serum potassium was approximately 0.1 mEq/L; however, approximately 15% of patients had increases greater than 0.5 mEq/L and approximately 6% had a decrease greater than 0.5 mEq/L.
-In the same study, patients treated with Lisinopril and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L [see Clinical Studies (14.1)].
+In hypertensive patients with normal renal function treated with lisinopril alone for up to 24 weeks, the mean increase in serum potassium was approximately 0.1 mEq/L; however, approximately 15% of patients had increases greater than 0.5 mEq/L and approximately 6% had a decrease greater than 0.5 mEq/L.
+In the same study, patients treated with lisinopril and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L [see Clinical Studies (14.1)].
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 
 ACE is identical to kininase, an enzyme that degrades bradykinin.
-Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of Lisinopril remains to be elucidated.
+Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of lisinopril remains to be elucidated.
 
-While the mechanism through which Lisinopril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, Lisinopril is antihypertensive even in patients with low-renin hypertension.
-Although Lisinopril was antihypertensive in all races studied, Black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to monotherapy than non Black patients.
+While the mechanism through which lisinopril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, lisinopril is antihypertensive even in patients with low-renin hypertension.
+Although lisinopril was antihypertensive in all races studied, Black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to monotherapy than non Black patients.
 
-Concomitant administration of Lisinopril and hydrochlorothiazide further reduced blood pressure in Black and non-Black patients and any racial differences in blood pressure response were no longer evident.
+Concomitant administration of lisinopril and hydrochlorothiazide further reduced blood pressure in Black and non-Black patients and any racial differences in blood pressure response were no longer evident.
 
 ## 12.2 Pharmacodynamics
 
 Hypertension
 
-Adult Patients: Administration of Lisinopril to patients with hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
+Adult Patients: Administration of lisinopril to patients with hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
 Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients [see Warnings and Precautions (5.4)].
 When given together with thiazide-type diuretics, the blood pressure lowering effects of the two drugs are approximately additive.
 
-In most patients studied, onset of antihypertensive activity was seen at one hour after oral administration of an individual dose of Lisinopril, with peak reduction of blood pressure achieved by 6 hours.
+In most patients studied, onset of antihypertensive activity was seen at one hour after oral administration of an individual dose of lisinopril, with peak reduction of blood pressure achieved by 6 hours.
 Although an antihypertensive effect was observed 24 hours after dosing with recommended single daily doses, the effect was more consistent and the mean effect was considerably larger in some studies with doses of 20 mg or more than with lower doses; however, at all doses studied, the mean antihypertensive effect was substantially smaller 24 hours after dosing than it was 6 hours after dosing.
 
-The antihypertensive effects of Lisinopril are maintained during long-term therapy.
-Abrupt withdrawal of Lisinopril has not been associated with a rapid increase in blood pressure, or a significant increase in blood pressure compared to pretreatment levels.
+The antihypertensive effects of lisinopril are maintained during long-term therapy.
+Abrupt withdrawal of lisinopril has not been associated with a rapid increase in blood pressure, or a significant increase in blood pressure compared to pretreatment levels.
 
 Non-Steroidal Anti-Inflammatory Agents
 
-In a study in 36 patients with mild to moderate hypertension where the antihypertensive effects of Lisinopril alone were compared to Lisinopril given concomitantly with indomethacin, the use of indomethacin was associated with a reduced effect, although the difference between the two regimens was not significant.
+In a study in 36 patients with mild to moderate hypertension where the antihypertensive effects of lisinopril alone were compared to lisinopril given concomitantly with indomethacin, the use of indomethacin was associated with a reduced effect, although the difference between the two regimens was not significant.
 
 ## 12.3 Pharmacokinetics
 
-Adult Patients: Following oral administration of Lisinopril, peak serum concentrations of lisinopril occur within about 7 hours, although there was a trend to a small delay in time taken to reach peak serum concentrations in acute myocardial infarction patients.
-Food does not alter the bioavailability of Lisinopril.
+Adult Patients: Following oral administration of lisinopril, peak serum concentrations of lisinopril occur within about 7 hours, although there was a trend to a small delay in time taken to reach peak serum concentrations in acute myocardial infarction patients.
+Food does not alter the bioavailability of lisinopril.
 Declining serum concentrations exhibit a prolonged terminal phase, which does not contribute to drug accumulation.
 This terminal phase probably represents saturable binding to ACE and is not proportional to dose.
 Upon multiple dosing, lisinopril exhibits an effective half-life of 12 hours.
@@ -57,7 +57,8 @@ Above this glomerular filtration rate, the elimination half-life is little chang
 With greater impairment, however, peak and trough lisinopril levels increase, time to peak concentration increases and time to attain steady state is prolonged [see Dosage and Administration (2.4)].
 Lisinopril can be removed by hemodialysis.
 
-Pediatric Patients: The pharmacokinetics of lisinopril were studied in 29 pediatric hypertensive patients between 6 years and 16 years with glomerular filtration rate > 30 mL/min/1.73 m2.
+Pediatric Patients: The pharmacokinetics of lisinopril was studied in 29 pediatric hypertensive patients between 6 years and 16 years with glomerular filtration rate > 30 mL/min/1.73 m2.
 After doses of 0.1 to 0.2 mg per kg, steady state peak plasma concentrations of lisinopril occurred within 6 hours and the extent of absorption based on urinary recovery was about 28%.
 These values are similar to those obtained previously in adults.
 The typical value of lisinopril oral clearance (systemic clearance/absolute bioavailability) in a child weighing 30 kg is 10 L/h, which increases in proportion to renal function.
+In a multicenter, open-label pharmacokinetic study of daily oral lisinopril in 22 pediatric hypertensive patients with stable kidney transplant (ages 7-17 years; estimated glomerular filtration rate > 30 mL/min/1.73 m2), dose normalized exposures were in the range reported previously in children without a kidney transplant.

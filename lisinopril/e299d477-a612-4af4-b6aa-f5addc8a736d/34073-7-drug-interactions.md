@@ -2,17 +2,17 @@
 
 ## 7.1 Diuretics
 
-Initiation of Lisinopril in patients on diuretics may result in excessive reduction of blood pressure.
-The possibility of hypotensive effects with Lisinopril can be minimized by either decreasing or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with Lisinopril.
-If this is not possible, reduce the starting dose of Lisinopril [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
+Initiation of lisinopril in patients on diuretics may result in excessive reduction of blood pressure.
+The possibility of hypotensive effects with lisinopril can be minimized by either decreasing or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with Lisinopril.
+If this is not possible, reduce the starting dose of lisinopril [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
-Lisinopril attenuates potassium loss caused by thiazide-type diuretics.
+lisinopril attenuates potassium loss caused by thiazide-type diuretics.
 Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) can increase the risk of hyperkalemia.
 Therefore, if concomitant use of such agents is indicated, monitor the patient’s serum potassium frequently.
 
 ## 7.2 Antidiabetics
 
-Concomitant administration of Lisinopril and antidiabetic medicines (insulins, oral hypoglycemic agents) may cause an increased blood-glucose-lowering effect with risk of hypoglycemia.
+Concomitant administration of lisinopril and antidiabetic medicines (insulins, oral hypoglycemic agents) may cause an increased blood-glucose-lowering effect with risk of hypoglycemia.
 
 ## 7.3 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
@@ -28,10 +28,10 @@ Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or 
 The VA NEPHRON trial enrolled 1448 patients with type 2 diabetes, elevated urinary-albumin-to-creatinine ratio, and decreased estimated glomerular filtration rate (GFR 30 to 89.9 ml/min), randomized them to lisinopril or placebo on a background of losartan therapy and followed them for a median of 2.2 years.
 Patients receiving the combination of losartan and lisinopril did not obtain any additional benefit compared to monotherapy for the combined endpoint of decline in GFR, end state renal disease, or death, but experienced an increased incidence of hyperkalemia and acute kidney injury compared with the monotherapy group.
 In general, avoid combined use of RAS inhibitors.
-Closely monitor blood pressure, renal function and electrolytes in patients on Lisinopril and other agents that affect the RAS.
+Closely monitor blood pressure, renal function and electrolytes in patients on lisinopril and other agents that affect the RAS.
 
-Do not co-administer aliskiren with Lisinopril in patients with diabetes.
-Avoid use of aliskiren with Lisinopril in patients with renal impairment (GFR <60 mL/min).
+Do not co-administer aliskiren with lisinopril in patients with diabetes.
+Avoid use of aliskiren with lisinopril in patients with renal impairment (GFR <60 mL/min).
 
 ## 7.5 Lithium
 
@@ -41,4 +41,8 @@ Monitor serum lithium levels during concurrent use.
 
 ## 7.6 Gold
 
-Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including Lisinopril.
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including lisinopril.
+
+## 7.7 mTOR Inhibitors
+
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema [see Warnings and Precautions (5.2)].
