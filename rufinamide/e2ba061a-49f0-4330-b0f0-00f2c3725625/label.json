@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211388"
+  ],
+  "inn": "rufinamide",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-223-84"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "rufinamide",
+      "name": "Rufinamide"
+    }
+  ],
+  "setid": "e2ba061a-49f0-4330-b0f0-00f2c3725625",
+  "source": "dailymed"
+}
