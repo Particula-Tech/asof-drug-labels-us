@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "NDA208647"
+  ],
+  "inn": "rosuvastatin",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "47335-984-60",
+    "47335-984-64",
+    "47335-984-81",
+    "47335-984-83",
+    "47335-985-60",
+    "47335-985-64",
+    "47335-985-81",
+    "47335-985-83",
+    "47335-986-60",
+    "47335-986-64",
+    "47335-986-81",
+    "47335-986-83",
+    "47335-987-60",
+    "47335-987-64",
+    "47335-987-81",
+    "47335-987-83"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "rosuvastatin",
+      "name": "EZALLOR SPRINKLE"
+    }
+  ],
+  "setid": "619add8c-3e39-4bb7-8828-450bd82c0404",
+  "source": "dailymed"
+}
