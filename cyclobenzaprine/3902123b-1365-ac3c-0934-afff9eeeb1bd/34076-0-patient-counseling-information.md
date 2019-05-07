@@ -17,13 +17,13 @@ Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Manufactured By: Adare Pharmaceuticals, Inc. Vandalia, OH 45377
 
-AMR-009
+AMR-010
 
 Rev.
-5/2018
+4/2019
 
 US Patent Nos. 7387793, 7544372, 7790199, 7820203, 7829121, 9375410, 9399025
 
-© 2004-2018 Teva Pharmaceuticals USA, Inc.
+© 2004-2019 Teva Pharmaceuticals USA, Inc.
 
 All rights reserved.

@@ -2,20 +2,31 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B: There are no adequate and well-controlled studies of AMRIX in pregnant women.
-Because animal reproduction studies are not always predictive of human response, AMRIX should be used during pregnancy only if clearly needed.
+Risk Summary
 
-No treatment-related effects on embryofetal development were observed in mice and rabbits at approximately 3 and 15 times the maximum recommended human dose (MRHD), respectively (on a mg/m2 basis at maternal doses of 20 mg/kg/day in both mice and rabbits).
+Available data from case reports with AMRIX use in pregnancy have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+In rats, decreased pup body weight and survival was noted at cyclobenzaprine doses ≥10 mg/kg/day (approximately ≥3 times the maximum recommended human dose (MRHD) of 30 mg/day), when administered orally during pregnancy and lactation (see Data).
 
-Nonteratogenic Effects
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Cyclobenzaprine has been shown to adversely affect pup postnatal development when dams were treated with the drug during pregnancy and lactation periods in rats.
-This study found that cyclobenzaprine decreased pup body weight and survival at approximately ≥3 times the MRHD (on a mg/m2 basis at maternal doses of 10 and 20 mg/kg/day in rats).
+Data
 
-## 8.3 Nursing Mothers
+Animal Data
 
-It is not known whether this drug is excreted in human milk.
-Because cyclobenzaprine is closely related to the tricyclic antidepressants, some of which are known to be excreted in human milk, caution should be exercised when AMRIX is administered to a nursing woman.
+No adverse embryofetal effects were reported following oral administration of cyclobenzaprine during organogenesis to mice and rabbits at maternal doses up to 20 mg/kg/day (approximately 3 and 15 times the MRHD, respectively, on a mg/m2 basis).
+Maternal toxicity characterized by decreased body weight gain was observed only in mice at the highest tested dose of 20 mg/kg/day.
+
+Decreased pup body weight and survival were reported in a prenatal and postnatal study where pregnant rats were treated orally with cyclobenzaprine during pregnancy and lactation with maternal doses of 10 and 20 mg/kg/day (approximately 3 and 6 times the MRHD on a mg/m2 basis).
+Maternal toxicity, characterized by a decreased body weight gain, was observed only at the highest tested dose of 20 mg/kg/day.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of cyclobenzaprine in either human or animal milk, the effects on a breastfed infant, or the effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for AMRIX and any potential adverse effects on the breastfed child from AMRIX or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

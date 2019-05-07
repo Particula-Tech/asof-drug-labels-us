@@ -1,6 +1,11 @@
 # 6 ADVERSE REACTIONS
 
-Most Common Adverse Reactions in the AMRIX Clinical Trials
+The following clinically significant reactions are described in greater detail, in other sections.
+
+- Serotonin Syndrome [see Warnings and Precautions (5.1)]
+- Adverse Cardiovascular Effects [see Warnings and Precautions (5.2)]
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -26,7 +31,7 @@ Table 1: Incidence of the Most Common Adverse Reactions Occurring in ≥ 3% of P
 
 *AMRIX 15 mg QD, AMRIX 30 mg QD, or cyclobenzaprine IR tablets TID
 
-Additional Adverse Reactions from Clinical Studies and Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported in clinical studies or postmarketing experience with AMRIX, cyclobenzaprine IR, or tricyclic drugs.
 Because some of these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
