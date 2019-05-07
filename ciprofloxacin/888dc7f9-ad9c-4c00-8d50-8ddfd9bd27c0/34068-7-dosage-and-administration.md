@@ -10,21 +10,21 @@ Administer CIPRO for Oral Suspension using the co-packaged graduated spoon [see 
 
 Table 1: Adult Dosage Guidelines
 
-| Infection | Dose | Frequency | Usual Durations |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Skin and Skin Structure | 500–750 mg | every 12 hours | 7 to 14 days |  |  |  |
-| Bone and Joint | 500–750 mg | every 12 hours | 4 to 8 weeks |  |  |  |
-| Complicated Intra–Abdominal | 500 mg | every 12 hours | 7 to 14 days |  |  |  |
-| Infectious Diarrhea | 500 mg | every 12 hours | 5 to 7 days |  |  |  |
-| Typhoid Fever | 500 mg | every 12 hours | 10 days |  |  |  |
-| Uncomplicated Urethral and Cervical Gonococcal Infections | 250 mg | single dose | single dose |  |  |  |
-| Inhalational anthrax (post-exposure) | 500 mg | every 12 hours | 60 days |  |  | 4 to 8 weeks |
-| Plague 3 | 500–750 mg | every 12 hours | 14 days |  |  |  |
-| Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |  |  |  |
-| Lower Respiratory Tract Infections | 500–750 mg | every 12 hours | 7 to 14 days |  |  |  |
-| Urinary Tract Infections | 250–500 mg | every 12 hours | 7 to 14 days |  |  |  |
-| Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |  |  |  |
-| Acute Sinusitis | 500 mg | every 12 hours | 10 days |  |  |  |
+| Infection | Dose | Frequency | Usual DurationsGenerally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |
+| --- | --- | --- | --- |
+| Skin and Skin Structure | 500–750 mg | every 12 hours | 7 to 14 days |
+| Bone and Joint | 500–750 mg | every 12 hours | 4 to 8 weeks |
+| Complicated Intra–AbdominalUsed in conjunction with metronidazole. | 500 mg | every 12 hours | 7 to 14 days |
+| Infectious Diarrhea | 500 mg | every 12 hours | 5 to 7 days |
+| Typhoid Fever | 500 mg | every 12 hours | 10 days |
+| Uncomplicated Urethral and Cervical Gonococcal Infections | 250 mg | single dose | single dose |
+| Inhalational anthrax (post-exposure)Begin drug administration as soon as possible after suspected or confirmed exposure. | 500 mg | every 12 hours | 60 days |
+| Plague | 500–750 mg | every 12 hours | 14 days |
+| Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
+| Lower Respiratory Tract Infections | 500–750 mg | every 12 hours | 7 to 14 days |
+| Urinary Tract Infections | 250–500 mg | every 12 hours | 7 to 14 days |
+| Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
+| Acute Sinusitis | 500 mg | every 12 hours | 10 days |
 
 ### Conversion of IV to Oral Dosing in Adults
 

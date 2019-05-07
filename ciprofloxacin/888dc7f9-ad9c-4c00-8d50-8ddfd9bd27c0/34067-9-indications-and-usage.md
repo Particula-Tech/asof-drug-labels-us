@@ -6,15 +6,15 @@ CIPRO is indicated in adult patients for treatment of skin and skin structure in
 
 ## 1.2 Bone and Joint Infections
 
-CIPRO is indicated in adult patients for treatment of bone and joint infectionscaused by Enterobacter cloacae, Serratia marcescens, or Pseudomonas aeruginosa.
+CIPRO is indicated in adult patients for treatment of bone and joint infections caused by Enterobacter cloacae, Serratia marcescens, or Pseudomonas aeruginosa.
 
 ## 1.3 Complicated Intra-Abdominal Infections
 
-CIPRO is indicated in adult patients for treatment of complicated intra-abdominal infections(used in combination with metronidazole) caused by Escherichia coli, Pseudomonas aeruginosa, Proteus mirabilis, Klebsiella pneumoniae, or Bacteroides fragilis.
+CIPRO is indicated in adult patients for treatment of complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, Pseudomonas aeruginosa, Proteus mirabilis, Klebsiella pneumoniae, or Bacteroides fragilis.
 
 ## 1.4 Infectious Diarrhea
 
-CIPRO is indicated in adult patients for treatment of infectious diarrheacaused by Escherichia coli (enterotoxigenic isolates), Campylobacter jejuni, Shigella boydii †, Shigella dysenteriae, Shigella flexneri or Shigella sonnei†when antibacterial therapy is indicated.
+CIPRO is indicated in adult patients for treatment of infectious diarrhea caused by Escherichia coli (enterotoxigenic isolates), Campylobacter jejuni, Shigella boydii †, Shigella dysenteriae, Shigella flexneri or Shigella sonnei† when antibacterial therapy is indicated.
 
 †Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients.
 
@@ -25,7 +25,7 @@ The efficacy of ciprofloxacin in the eradication of the chronic typhoid carrier 
 
 ## 1.6 Uncomplicated Cervical and Urethral Gonorrhea
 
-CIPRO is indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae [see Warnings and Precautions (5.16)].
+CIPRO is indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae [see Warnings and Precautions (5.17)].
 
 ## 1.7 Inhalational Anthrax (Post-Exposure)
 
@@ -41,40 +41,40 @@ Therefore this indication is based on an efficacy study conducted in animals onl
 
 ## 1.9 Chronic Bacterial Prostatitis
 
-CIPRO is indicated in adult patients for treatment of chronic bacterial prostatitiscaused by Escherichia coli or Proteus mirabilis.
+CIPRO is indicated in adult patients for treatment of chronic bacterial prostatitis caused by Escherichia coli or Proteus mirabilis.
 
 ## 1.10 Lower Respiratory Tract Infections
 
-CIPRO is indicated in adult patients for treatment of lower respiratory tract infectionscaused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae, or Streptococcus pneumoniae.
+CIPRO is indicated in adult patients for treatment of lower respiratory tract infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae, or Streptococcus pneumoniae.
 
 CIPRO is not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumoniae.
 
 CIPRO is indicated for the treatment of acute exacerbations of chronic bronchitis (AECB) caused by Moraxella catarrhalis.
 
-Because fluoroquinolones, including CIPRO, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.15)] and for some patients AECB is self-limiting, reserve CIPRO for treatment of AECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including CIPRO, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.16)] and for some patients AECB is self-limiting, reserve CIPRO for treatment of AECB in patients who have no alternative treatment options.
 
 ## 1.11 Urinary Tract Infections
 
 ### Urinary Tract Infections in Adults
 
-CIPRO is indicated in adult patients for treatment of urinary tract infectionscaused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Serratia marcescens, Proteus mirabilis, Providencia rettgeri, Morganella morganii, Citrobacter koseri, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus epidermidis, Staphylococcus saprophyticus, or Enterococcus faecalis.
+CIPRO is indicated in adult patients for treatment of urinary tract infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Serratia marcescens, Proteus mirabilis, Providencia rettgeri, Morganella morganii, Citrobacter koseri, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus epidermidis, Staphylococcus saprophyticus, or Enterococcus faecalis.
 
 ### Acute Uncomplicated Cystitis
 
 CIPRO is indicated in adult female patients for treatment of acute uncomplicated cystitis caused by Escherichia coli or Staphylococcus saprophyticus.
 
-Because fluoroquinolones, including CIPRO, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients acute uncomplicated cystitis is self-limiting, reserve CIPRO for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
+Because fluoroquinolones, including CIPRO, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.16)] and for some patients acute uncomplicated cystitis is self-limiting, reserve CIPRO for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
 
 ### Complicated Urinary Tract Infection and Pyelonephritis in Pediatric Patients
 
 CIPRO is indicated in pediatric patients aged one to 17 years of age for treatment of complicated urinary tract infections (cUTI) and pyelonephritis due to Escherichia coli [see Use in Specific Populations (8.4)].
 
 Although effective in clinical trials, CIPRO is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues.
-CIPRO, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.12), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
+CIPRO, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.13), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
 
 ## 1.12 Acute Sinusitis
 
-CIPRO is indicated in adult patients for treatment of acute sinusitiscaused by Haemophilus influenzae,Streptococcus pneumoniae, or Moraxella catarrhalis.
+CIPRO is indicated in adult patients for treatment of acute sinusitis caused by Haemophilus influenzae, Streptococcus pneumoniae, or Moraxella catarrhalis.
 
 Because fluoroquinolones, including CIPRO, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients acute sinusitis is self-limiting, reserve CIPRO for treatment of acute sinusitis in patients who have no alternative treatment options.
 

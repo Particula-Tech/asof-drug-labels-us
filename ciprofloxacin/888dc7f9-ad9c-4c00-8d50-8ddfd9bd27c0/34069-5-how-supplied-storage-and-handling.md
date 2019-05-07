@@ -27,4 +27,4 @@ Protect from freezing.
 The reconstituted product may be stored at 25°C (77°F) for 14 days; excursions are permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from freezing.
 
-A graduated teaspoon (5mL) with markings 1/2 (2.5 mL and 1/1 (5 mL) is provided for the patient.
+A graduated teaspoon (5mL) with markings 1/2 (2.5 mL) and 1/1 (5 mL) is provided for the patient.

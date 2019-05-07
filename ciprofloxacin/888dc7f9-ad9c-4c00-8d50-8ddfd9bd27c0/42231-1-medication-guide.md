@@ -115,7 +115,7 @@ These bacterial infections include:
 - •Studies of CIPRO for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 - •CIPRO should not be used in patients with acute exacerbation of chronic bronchitis, acute uncomplicated cystitis, and sinus infections, if there are other treatment options available.
 - •CIPRO should not be used as the first choice of antibacterial medicine to treat lower respiratory tract infections cause by a certain type of bacterial called Streptococcus pneumoniae.
-- •CIPRO is also used in children younger than 18 years of age to treatcomplicated urinary tract and kidney infections or who may have breathed in anthrax germs, have plague or have been exposed to plague germs.
+- •CIPRO is also used in children younger than 18 years of age to treat complicated urinary tract and kidney infections or who may have breathed in anthrax germs, have plague or have been exposed to plague germs.
 - •Children younger than 18 years of age have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking CIPRO.
   CIPRO should not be used as the first choice of antibacterial medicine in children under 18 years of age.
 - •CIPRO XR is only used in adults 18 years of age and older to treat urinary tract infections (complicated and uncomplicated), including kidney infections (pyelonephritis).
@@ -268,12 +268,15 @@ CIPRO may cause serious side effects, including:
 
 Stop taking CIPRO and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to CIPRO (a liver problem).
-Intestine infection(Pseudomembranous colitis).
-Pseudomembranous colitis can happen with many antibacterial medicines, including CIPRO.
-Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-You may have stomach cramps and a fever.
-Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
 
+- •Aortic aneurysm and dissection.
+  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
+- •Intestine infection (Pseudomembranous colitis).
+  Pseudomembranous colitis can happen with many antibacterial medicines, including CIPRO.
+  Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
+  You may have stomach cramps and a fever.
+  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
 - •Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   CIPRO may cause a rare heart problem known as prolongation of the QT interval.
@@ -344,7 +347,7 @@ What are the ingredients in CIPRO?
 - CIPRO Tablets:
 
 1. 1.Active ingredient: ciprofloxacin hydrochloride
-2. 2.Inactiveingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
+2. 2.Inactive ingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
 3. CIPRO Oral Suspension:
 4. 3.Active ingredient: ciprofloxacin hydrochloride
 5. 4.Inactive ingredients:
@@ -371,4 +374,5 @@ CIPRO (ciprofloxacin*) 5% and 10% Oral Suspension Manufactured in Italy
 
 CIPRO (ciprofloxacin HCl) Tablets Manufactured in Germany
 
-- This Medication Guide has been approved by the U.S. Food and Drug AdministrationRevised:7/2016
+- This Medication Guide has been approved by the U.S. Food and Drug Administration
+- Revised: 5/2019

@@ -32,11 +32,11 @@ Because of the potential risk of serious adverse reactions (including articular 
 ## 8.4 Pediatric Use
 
 Although effective in clinical trials, CIPRO is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
-Quinolones, including CIPRO, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
+Quinolones, including CIPRO, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.13) and Nonclinical Toxicology (13.2)].
 
 ### Complicated Urinary Tract Infection and Pyelonephritis
 
-CIPRO is indicated for the treatment of cUTI and pyelonephritisdue to Escherichia coli in pediatric patients 1 to 17 years of age.
+CIPRO is indicated for the treatment of cUTI and pyelonephritis due to Escherichia coli in pediatric patients 1 to 17 years of age.
 Although effective in clinical trials, CIPRO is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to the controls, including events related to joints and/or surrounding tissues [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 
 ### Inhalational Anthrax (Post-Exposure)
@@ -60,6 +60,8 @@ Caution should be used when prescribing CIPRO to elderly patients especially tho
 Patients should be informed of this potential adverse reaction and advised to discontinue CIPRO and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur.
 [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
 
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
+
 In a retrospective analysis of 23 multiple-dose controlled clinical trials of CIPRO encompassing over 3500 ciprofloxacin-treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
@@ -67,7 +69,7 @@ No alteration of dosage is necessary for patients greater than 65 years of age w
 However, since some older individuals experience reduced renal function by virtue of their advanced age, care should be taken in dose selection for elderly patients, and renal function monitoring may be useful in these patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using CIPRO with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.11)].
+Therefore, precaution should be taken when using CIPRO with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.12)].
 
 ## 8.6 Renal Impairment
 

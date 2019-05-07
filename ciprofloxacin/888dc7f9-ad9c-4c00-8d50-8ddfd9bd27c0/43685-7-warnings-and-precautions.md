@@ -3,7 +3,8 @@
 ## 5.1 Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects
 
 Fluoroquinolones, including CIPRO, have been associated with disabling and potentially irreversible serious adverse reactions from different body systems that can occur together in the same patient.
-Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).These reactions can occur within hours to weeks after starting CIPRO.
+Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).
+These reactions can occur within hours to weeks after starting CIPRO.
 Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
 Discontinue CIPRO immediately at the first signs or symptoms of any serious adverse reaction.
@@ -45,7 +46,7 @@ Fluoroquinolones, including CIPRO, have been associated with an increased risk o
 CIPRO, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
 Cases of status epilepticus have been reported.
 As with all fluoroquinolones, use CIPRO with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
-If seizures occur, discontinue CIPRO and institute appropriate care [see Adverse Reactions (6.1) and Drug Interactions (7)
+If seizures occur, discontinue CIPRO and institute appropriate care [see Adverse Reactions (6.1) and Drug Interactions (7)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
@@ -85,7 +86,13 @@ In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice,
 
 There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with CIPRO [see Adverse Reactions (6.2, 6.3)].
 
-## 5.9 Serious Adverse Reactions with Concomitant Theophylline
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve CIPRO for use only when there are no alternative antibacterial treatments available.
+
+## 5.10 Serious Adverse Reactions with Concomitant Theophylline
 
 Serious and fatal reactions have been reported in patients receiving concurrent administration of CIPRO and theophylline.
 These reactions have included cardiac arrest, seizure, status epilepticus, and respiratory failure.
@@ -94,19 +101,20 @@ Instances of nausea, vomiting, tremor, irritability, or palpitation have also oc
 Although similar serious adverse reactions have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by CIPRO cannot be eliminated.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].
 
-## 5.10 Clostridium difficile-Associated Diarrhea
+## 5.11 Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CIPRO, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing isolates of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.CDAD must be considered in all patients who present with diarrhea following antibacterial use.
+Hypertoxin producing isolates of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibacterial use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and institute surgical evaluation as clinically indicated [see Adverse Reactions (6.1)].
 
-## 5.11 Prolongation of the QT Interval
+## 5.12 Prolongation of the QT Interval
 
 Some fluoroquinolones, including CIPRO, have been associated with prolongation of the QT interval on the electrocardiogram and cases of arrhythmia.
 Cases of torsade de pointes have been reported during postmarketing surveillance in patients receiving fluoroquinolones, including CIPRO.
@@ -114,7 +122,7 @@ Cases of torsade de pointes have been reported during postmarketing surveillance
 Avoid CIPRO in patients with known prolongation of the QT interval, risk factors for QT prolongation or torsade de pointes (for example, congenital long QT syndrome, uncorrected electrolyte imbalance, such as hypokalemia or hypomagnesemia and cardiac disease, such as heart failure, myocardial infarction, or bradycardia), and patients receiving Class IA antiarrhythmic agents (quinidine, procainamide), or Class III antiarrhythmic agents (amiodarone, sotalol), tricyclic antidepressants, macrolides, and antipsychotics.
 Elderly patients may also be more susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.2), Use in Specific Populations (8.5)].
 
-## 5.12 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
+## 5.13 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
 CIPRO is indicated in pediatric patients (less than 18 years of age) only for cUTI, prevention of inhalational anthrax (post exposure), and plague [see Indications and Usage (1.7, 1.8, 1.11)].
 An increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues, has been observed [see Adverse Reactions (6.1)].
@@ -123,36 +131,36 @@ In pre-clinical studies, oral administration of CIPRO caused lameness in immatur
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
 
-## 5.13 Photosensitivity/Phototoxicity
+## 5.14 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones including CIPRO after sun or UV light exposure.
 Therefore, avoid excessive exposure to these sources of light.
 Discontinue CIPRO if phototoxicity occurs [see Adverse Reactions (6.1)].
 
-## 5.14 Development of Drug Resistant Bacteria
+## 5.15 Development of Drug Resistant Bacteria
 
 Prescribing CIPRO Tablets and CIPRO Oral Suspension in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## 5.15 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
+## 5.16 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 CIPRO is an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Co-administration of CIPRO and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Co-administration of CIPRO and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem), results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
-## 5.16 Interference with Timely Diagnosis of Syphilis
+## 5.17 Interference with Timely Diagnosis of Syphilis
 
 CIPRO has not been shown to be effective in the treatment of syphilis.
 Antimicrobial agents used in high dose for short periods of time to treat gonorrhea may mask or delay the symptoms of incubating syphilis.
 Perform a serologic test for syphilis in all patients with gonorrhea at the time of diagnosis.
 Perform follow-up serologic test for syphilis three months after CIPRO treatment.
 
-## 5.17 Crystalluria
+## 5.18 Crystalluria
 
 Crystals of ciprofloxacin have been observed rarely in the urine of human subjects but more frequently in the urine of laboratory animals, which is usually alkaline [see Nonclinical Toxicology (13.2)].
-Crystalluria related to CIPROhas been reported only rarely in humans because human urine is usually acidic.
+Crystalluria related to CIPRO has been reported only rarely in humans because human urine is usually acidic.
 Avoid alkalinity of the urine in patients receiving CIPRO.
 Hydrate patients well to prevent the formation of highly concentrated urine [see Dosage and Administration (2.4)].
 
-## 5.18 Blood Glucose Disturbances
+## 5.19 Blood Glucose Disturbances
 
 Fluoroquinolones, including CIPRO, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.

@@ -20,14 +20,15 @@ Table 14: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9
 | Per Protocol Patients | 211 | 231 |
 | Clinical Response at 5 to 9 Days Post-Treatment | 95.7% (202/211) | 92.6% (214/231) |
 |  | 95% CI [-1.3%, 7.3%] |  |
-| Bacteriologic Eradication by Patient at 5 to 9 Days Post-Treatment | 84.4% (178/211) | 78.3% (181/231) |
+| Bacteriologic Eradication by Patient at 5 to 9 Days Post-TreatmentPatients with baseline pathogen(s) eradicated and no new infections or superinfections/total number of patients. There were 5.5% (6/211) ciprofloxacin and 9.5% (22/231) comparator patients with superinfections or new infections. | 84.4% (178/211) | 78.3% (181/231) |
 |  | 95% CI [-1.3%, 13.1%] |  |
 | Bacteriologic Eradication of the Baseline Pathogen at 5 to 9 Days Post-Treatment |  |  |
 | Escherichia coli | 156/178 (88%) | 161/179 (90%) |
 
 ## 14.2 Inhalational Anthrax in Adults and Pediatrics
 
-The mean serum concentrations of ciprofloxacin associated with a statistically significant improvement in survival in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving oral and intravenous regimens.Ciprofloxacin pharmacokinetics have been evaluated in various human populations.
+The mean serum concentrations of ciprofloxacin associated with a statistically significant improvement in survival in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving oral and intravenous regimens.
+Ciprofloxacin pharmacokinetics have been evaluated in various human populations.
 The mean peak serum concentration achieved at steady-state in human adults receiving 500 mg orally every 12 hours is 2.97 mcg/mL, and 4.56 mcg/mL following 400 mg intravenously every 12 hours.
 The mean trough serum concentration at steady-state for both of these regimens is 0.2 mcg/mL.
 In a study of 10 pediatric patients between 6 and 16 years of age, the mean peak plasma concentration achieved is 8.3 mcg/mL and trough concentrations range from 0.09 mcg/mL to 0.26 mcg/mL, following two 30-minute intravenous infusions of 10 mg/kg administered 12 hours apart.
@@ -35,7 +36,7 @@ After the second intravenous infusion patients switched to 15 mg/kg orally every
 Long-term safety data, including effects on cartilage, following the administration of CIPRO to pediatric patients are limited.
 Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.1
 
-A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 x 105 spores (range 5–30 LD50)of B. anthracis was conducted.
+A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 x 105 spores (range 5–30 LD50) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 mcg/mL.
 In the animals studied, mean serum concentrations of ciprofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady-state ranged from 0.98 mcg/mL to 1.69 mcg/mL.
 Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 mcg/mL to 0.19 mcg/mL.10 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].

@@ -9,7 +9,7 @@ Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [
 ### Absorption
 
 The absolute bioavailability of ciprofloxacin when given as an oral tablet is approximately 70% with no substantial loss by first pass metabolism.
-Ciprofloxacin maximum serum concentrations and area under the curve are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
+Ciprofloxacin maximum serum concentrations (Cmax) and area under the curve (AUC) are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
 
 Table 12: Ciprofloxacin Cmax and AUC Following Adminstration of Single Doses of CIPRO Tablets to Healthy Subjects
 
@@ -35,7 +35,7 @@ Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
 |  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally. | every 8 hours, intravenous |
-| AUC (mcg•hr/mL) | 13.7 | 12.7 | 31.6 | 32.9 |
+| AUC (mcg•hr/mL) | 13.7AUC 0–12h | 12.7 | 31.6 | 32.9 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
 #### Food
@@ -64,7 +64,7 @@ Low levels of the drug have been detected in the aqueous and vitreous humors of 
 Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15), and Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.10, 5.16), and Drug Interactions (7)].
 
 ### Excretion
 
@@ -131,7 +131,7 @@ Concomitant administration of tizanidine and CIPRO is contraindicated due to the
 #### Ropinirole
 
 In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg CIPRO twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
-Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with CIPRO [see Warnings and Precautions (5.9)].
+Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with CIPRO [see Warnings and Precautions (5.10)].
 
 #### Clozapine
 

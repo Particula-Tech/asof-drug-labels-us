@@ -22,7 +22,7 @@ Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic o
 Results from photo co-carcinogenicity testing indicate that CIPRO does not reduce the time to appearance of UV-induced skin tumors as compared to vehicle control.
 Hairless (Skh-1) mice were exposed to UVA light for 3.5 hours five times every two weeks for up to 78 weeks while concurrently being administered CIPRO.
 The time to development of the first skin tumors was 50 weeks in mice treated concomitantly with UVA and CIPRO (mouse dose approximately equal to maximum recommended human dose based upon body surface area), as opposed to 34 weeks when animals were treated with both UVA and vehicle.
-The times to development of skin tumors ranged from 16 weeks to32 weeks in mice treated concomitantly with UVA and other quinolones.9
+The times to development of skin tumors ranged from 16 weeks to 32 weeks in mice treated concomitantly with UVA and other quinolones.9
 
 In this model, mice treated with CIPRO alone did not develop skin or systemic tumors.
 There are no data from similar models using pigmented mice and/or fully haired mice.
@@ -32,7 +32,8 @@ Fertility studies performed in rats at oral doses of CIPRO up to 100 mg/kg (appr
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.12)].Damage of weight bearing joints was observed in juvenile dogs and rats.
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.13)].
+Damage of weight bearing joints was observed in juvenile dogs and rats.
 In young beagles, 100 mg/kg ciprofloxacin, given daily for 4 weeks, caused degenerative articular changes of the knee joint.
 At 30 mg/kg, the effect on the joint was minimal.
 In a subsequent study in young beagle dogs, oral ciprofloxacin doses of 30 mg/kg and 90 mg/kg ciprofloxacin (approximately 1.3-times and 3.5-times the pediatric dose based upon comparative plasma AUCs) given daily for 2 weeks caused articular changes which were still observed by histopathology after a treatment-free period of 5 months.

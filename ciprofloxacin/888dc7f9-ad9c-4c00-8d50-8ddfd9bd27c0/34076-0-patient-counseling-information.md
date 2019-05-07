@@ -21,16 +21,17 @@ Inform patients of the following serious adverse reactions that have been associ
   Instruct patients to notify their physician if persistent headache with or without blurred vision occurs.
 - •Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of any history of myasthenia gravis.
   Instruct patients to notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
-- •Hypersensitivity Reactions: Inform patientsthat ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
+- •Hypersensitivity Reactions: Inform patients that ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
 - •Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking CIPRO.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
+- •Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 - •Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, instruct patients to contact their physician as soon as possible.
 - •Prolongation of the QT Interval: Instruct patients to inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Instruct patients to notify their physician if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
 - •Musculoskeletal Disorders in Pediatric Patients: Instruct parents to inform their child’s physician if the child has a history of joint-related problems before taking this drug.
-  Inform parents of pediatric patients to notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy [see Warnings and Precautions (5.12) and Use in Specific Populations (8.4)].
+  Inform parents of pediatric patients to notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy [see Warnings and Precautions (5.13) and Use in Specific Populations (8.4)].
 - •Tizanidine: Instruct patients not to use ciprofloxacin if they are already taking tizanidine.
   CIPRO increases the effects of tizanidine (Zanaflex®).
 - •Theophylline: Inform patients that ciprofloxacin CIPRO may increase the effects of theophylline.
@@ -42,6 +43,7 @@ Inform patients of the following serious adverse reactions that have been associ
   Inform patients to minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
+- •Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue CIPRO and consult a physician.
 
 Antibacterial Resistance
 
@@ -58,6 +60,7 @@ Instruct the Patient
 - •To always use the co-packaged graduated measuring spoon with markings for 1/2 (2.5 mL) and 1/1 (5 mL), to obtain the exact dose.
 - •After use, the graduated measuring spoon should be cleaned under running water with dish detergent and dried thoroughly.
 - •Not to chew the microcapsules, but to swallow them whole.
+- •That water may be taken afterwards.
 - •Reclose the bottle properly after each use according to instructions on the cap.
 - •After treatment has been completed, CIPRO Oral Suspension should not be reused.
 
