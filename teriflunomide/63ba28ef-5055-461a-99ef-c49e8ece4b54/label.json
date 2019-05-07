@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209623"
+  ],
+  "inn": "teriflunomide",
+  "labeler": "MSN LABORATORIES PRIVATE LIMITED",
+  "package_ndcs": [
+    "69539-032-41",
+    "69539-033-41"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "teriflunomide",
+      "name": "Teriflunomide"
+    }
+  ],
+  "setid": "63ba28ef-5055-461a-99ef-c49e8ece4b54",
+  "source": "dailymed"
+}
