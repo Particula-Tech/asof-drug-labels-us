@@ -60,7 +60,7 @@ While long-term clinical observation has not suggested that human cancer is asso
 
 ### Teratogenic Effects
 
-Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20-30 times the maximum daily human dose of 200-300 mg and possibly in rabbits at 10-15 times the maximum daily human dose, but that it is nonteratogenic in rats.
+Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats.
 Teratogenic effects observed were cleft palate and malformations of facial and cranial bones.
 
 There are no adequate and well-controlled studies in pregnant women.
@@ -73,4 +73,4 @@ Hydralazine has been shown to be excreted in breast milk.
 ## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine hydrochloride in children.
-The usual recommended parenteral dosage, administered intramuscularly or intravenously, is 1.7-3.5 mg/kg of body weight daily, divided into four to six doses.
+The usual recommended parenteral dosage, administered intramuscularly or intravenously, is 1.7 to 3.5 mg/kg of body weight daily, divided into four to six doses.

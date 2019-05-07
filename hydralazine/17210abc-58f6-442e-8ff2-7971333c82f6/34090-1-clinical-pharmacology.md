@@ -10,5 +10,5 @@ Hydralazine usually increases renin activity in plasma, presumably as a result o
 This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption.
 Hydralazine also maintains or increases renal and cerebral blood flow.
 
-The average maximal decrease in blood pressure usually occurs 10-80 minutes after administration of hydralazine hydrochloride injection.
+The average maximal decrease in blood pressure usually occurs 10 to 80 minutes after administration of hydralazine hydrochloride injection.
 No other pharmacokinetic data on hydralazine hydrochloride injection are available.
