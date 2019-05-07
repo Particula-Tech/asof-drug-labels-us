@@ -80,4 +80,4 @@ This change is not considered clinically relevant.
 
 Hormonal contraceptives: Macitentan 10 mg once daily did not affect the pharmacokinetics of an oral contraceptive (norethisterone 1 mg and ethinyl estradiol 35 µg).
 
-BCRP Substrate drugs: Macitentan 10 mg once daily did not affect the pharmacokinetics of concomitant use of a BCRP substrate drug (rosuvastatin 10 mg).
+BCRP Substrate drugs: Macitentan 10 mg once daily did not affect the pharmacokinetics of concomitant use of a BCRP substrate drug (riociguat 1 mg and rosuvastatin 10 mg).
