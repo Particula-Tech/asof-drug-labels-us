@@ -12,3 +12,7 @@ The following packages are available:
 
 Store the dry powder at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 The vial stopper is not made with natural rubber latex.
+Clinitest is a registered trademark of Miles, Inc. Clinistix is a registered trademark of Bayer Corporation.
+Tes-Tape is a registered trademark of Eli Lilly Company.
+Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India Revised: December 2018
