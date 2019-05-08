@@ -32,7 +32,7 @@ Women who are planning a pregnancy should be counseled regarding the relative ri
 
 Labor or Delivery
 
-Although the effect of TOPAMAX® on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor [see Use in Specific Populations (8.1)].
+Although the effect of TOPAMAX® on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor.
 
 TOPAMAX® treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
@@ -97,14 +97,14 @@ Limited data from 5 women with epilepsy treated with topiramate during lactation
 
 Contraception
 
-Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risks of oral clefts and SGA [see Drug Interactions (7.3) and Use in Specific Populations 8.1].
+Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risks of oral clefts and SGA [see Drug Interactions (7.4) and Use in Specific Populations 8.1].
 
 ## 8.4 Pediatric Use
 
-Adjunctive Treatment for Partial Onset Epilepsy in Pediatric Patients 1 to 24 months
+Adjunctive Treatment for Partial-Onset Epilepsy in Pediatric Patients 1 to 24 months
 
-Safety and effectiveness in patients below the age of 2 years have not been established for the adjunctive therapy treatment of partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome.
-In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in pediatric patients 1 to 24 months of age with refractory partial onset seizures were assessed.
+Safety and effectiveness in patients below the age of 2 years have not been established for the adjunctive therapy treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome.
+In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in pediatric patients 1 to 24 months of age with refractory partial-onset seizures were assessed.
 After 20 days of double-blind treatment, topiramate (at fixed doses of 5, 15, and 25 mg/kg/day) did not demonstrate efficacy compared with placebo in controlling seizures.
 
 In general, the adverse reaction profile for TOPAMAX® in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label, long-term extension study in these pediatric patients 1 to 24 months old suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications.
@@ -134,18 +134,18 @@ However, because of the absence of an appropriate control group, it is not known
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
 It is not possible to know whether this mortality rate is related to topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1–24 months) with partial epilepsy is not known.
 
-Monotherapy Treatment in Partial Onset Epilepsy in Patients <2 Years Old
+Monotherapy Treatment in Partial-Onset Epilepsy in Patients <2 Years Old
 
 Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
 
-Migraine Prophylaxis in Pediatric Patients 12 to 17 Years of Age
+Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age
 
-Safety and effectiveness of topiramate in the prophylaxis of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 to 200 mg/day, or 2 to 3 mg/kg/day.
-These comprised a fixed dose study in 103 pediatric patients 12 to 17 years of age [see Clinical Studies (14.3)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients 6 to 16 years of age (including 67 pediatric patients 12 to 16 years of age), and a total of 49 pediatric patients 12 to 17 years of age in 3 studies of migraine prophylaxis primarily in adults.
+Safety and effectiveness of topiramate for the preventive treatment of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 to 200 mg/day, or 2 to 3 mg/kg/day.
+These comprised a fixed dose study in 103 pediatric patients 12 to 17 years of age [see Clinical Studies (14.3)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients 6 to 16 years of age (including 67 pediatric patients 12 to 16 years of age), and a total of 49 pediatric patients 12 to 17 years of age in 3 studies for the preventive treatment of migraine primarily in adults.
 Open-label extension phases of 3 studies enabled evaluation of long-term safety for up to 6 months after the end of the double-blind phase.
 
-Efficacy of topiramate for migraine prophylaxis in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 12 [see Clinical Studies (14.3)].
-Efficacy of topiramate (2 to 3 mg/kg/day) for migraine prophylaxis was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients (12 to 16 years of age) for 20 weeks.
+Efficacy of topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 13 [see Clinical Studies (14.3)].
+Efficacy of topiramate (2 to 3 mg/kg/day) for the preventive treatment of migraine was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients (12 to 16 years of age) for 20 weeks.
 
 In the pediatric trials (12 to 17 years of age) in which patients were randomized to placebo or a fixed daily dose of TOPAMAX®, the most common adverse reactions with TOPAMAX® that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6)].
 
@@ -158,9 +158,9 @@ Abnormally decreased results were observed with topiramate vs placebo treatment 
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 
-Migraine Prophylaxis in Pediatric Patients 6 to 11 Years of Age
+Preventive Treatment of Migraine in Pediatric Patients 6 to 11 Years of Age
 
-Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the prophylaxis treatment of migraine headache.
+Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 
 In a double-blind study in 90 pediatric patients 6 to 11 years of age (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that seen in pooled double-blind studies of pediatric patients 12 to 17 years of age.
 The most common adverse reactions that occurred in TOPAMAX®-treated pediatric patients 6 to 11 years of age, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight loss (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).

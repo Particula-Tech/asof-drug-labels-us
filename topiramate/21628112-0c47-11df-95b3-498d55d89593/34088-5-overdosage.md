@@ -8,6 +8,5 @@ TOPAMAX® overdose has resulted in severe metabolic acidosis [see Warnings and P
 
 A patient who ingested a dose of TOPAMAX® between 96 and 110 g was admitted to a hospital with a coma lasting 20 to 24 hours followed by full recovery after 3 to 4 days.
 
-In acute TOPAMAX® overdose, if the ingestion is recent, the stomach should be emptied immediately by lavage or by induction of emesis.
-Activated charcoal has been shown to adsorb topiramate in vitro.
+In the event of overdose, TOPAMAX® should be discontinued and general supportive treatment given until clinical toxicity has been diminished or resolved.
 Hemodialysis is an effective means of removing topiramate from the body.

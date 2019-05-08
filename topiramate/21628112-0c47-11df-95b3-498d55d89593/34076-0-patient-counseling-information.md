@@ -35,7 +35,7 @@ Also inform patients that infants exposed to topiramate monotherapy in utero may
 There may also be risks to the fetus from chronic metabolic acidosis with use of TOPAMAX® during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 
-Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using TOPAMAX®, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.3)].
+Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using TOPAMAX®, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.4)].
 
 Encourage pregnant women using TOPAMAX®, to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
