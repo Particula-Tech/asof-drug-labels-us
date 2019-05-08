@@ -12,8 +12,11 @@ What is the most important information I should know about Edluar?
 
 Edluar may cause serious side effects, including:
 
-- •After taking Edluar, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+- •Complex sleep behaviors that have caused serious injury and death.
+  After taking Edluar, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing (complex sleep behaviors).
   The next morning, you may not remember that you did anything during the night.
+  These activities may happen whether or not you drink alcohol or take other medicines that make you sleepy with Edluar.
+  Reported activities include:
 
 You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with Edluar.
 Reported activities include:
@@ -24,10 +27,11 @@ Reported activities include:
 - ohaving sex
 - osleep-walking
 
-Call your healthcare provider right away if you find out that you have done any of the above activities after taking Edluar.
+Stop taking Edluar and call your healthcare provider right away if you find out that you have done any of the above activities after taking Edluar.
 
 Do not take Edluar if you:
 
+- •have ever had a complex sleep behavior happen after taking Edluar
 - •drank alcohol that evening or before bed
 - •took another medicine to help you sleep
 
@@ -179,11 +183,11 @@ Manufactured by: Recipharm Stockholm AB, Sweden for Meda Pharmaceuticals Inc.
 
 Distributed by: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-©2018 Mylan Specialty LP U.S. Patents 6,761,910; 8,512,747; 9,265,720; 9,597,281
+©2019 Mylan Specialty LP U.S. Patents 6,761,910; 8,512,747; 9,265,720; 9,597,281
 
 EDLUAR is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
 
 The brands listed are trademarks of their respective owners.
 
-IG-6010-XX1 Rev.
-XX/2018 797139
+IG-6010-XX2 Rev.
+XX/2019 797139

@@ -7,23 +7,23 @@ Inform patients of the availability of a Medication Guide and instruct them to r
 Review the Edluar Medication Guide with every patient prior to initiation of treatment.
 Instruct patients or caregivers that Edluar should be taken only as prescribed.
 
+Complex Sleep Behaviors
+
+Instruct patients and their families that Edluar can cause complex sleep behaviors, such as sleep walking, sleep driving, preparing and eating food, making phone calls, or having sex while not being fully awake.
+Serious injuries and death have occurred during a complex sleep behavior episode.
+Tell patients to discontinue Edluar and call you immediately if they develop any of these symptoms [see Warnings and Precautions (5.1)].
+
 CNS-depressant Effects and Next-Day Impairment
 
 Tell patients that Edluar has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
 Tell patients to wait for at least 8 hours after dosing before driving or engaging in other activities requiring full mental alertness.
 Inform patients that impairment can be present despite feeling fully awake.
-
-Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients.
+Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients [see Warnings and Precautions (5.2)].
 
 Severe Anaphylactic and Anaphylactoid Reactions
 
 Inform patients that severe anaphylactic and anaphylactoid reactions have occurred with zolpidem.
-Describe the signs/symptoms of these reactions and advise patients to seek medical attention immediately if any of them occur.
-
-Sleep-Driving and Other Complex Behaviors
-
-Instruct patients and their families that sedative hypnotics can cause abnormal thinking and behavior change, including “sleep-driving” and other complex behaviors while not being fully awake (preparing and eating food, making phone calls, or having sex).
-Tell patients to call you immediately if they develop any of these symptoms.
+Describe the signs/symptoms of these reactions and advise patients to seek medical attention immediately if any of them occur [see Warnings and Precautions (5.4)].
 
 Suicide
 
