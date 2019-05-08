@@ -39,9 +39,9 @@ Adults and children – 150 to 200 mg/kg/day in equally divided doses every 3 to
 (Treatment may be initiated with intravenous drip therapy and continued with intramuscular injections.)
 The doses for other infections may be given by either the intravenous or intramuscular route.
 
-Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 3.
+Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 1.
 
-TABLE 3: Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia:
+TABLE 1: Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia:
 
 | Gestational age (weeks) | Postnatal age (days) | Dosage |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Septicemia
 Adults and children – 150 to 200 mg/kg/day.
 Start with intravenous administration for at least three days and continue with the intramuscular route every 3 to 4 hours.
 
-Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 3 (above).
+Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 1 (above).
 
 Treatment of all infections should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
 A minimum of 10 days treatment is recommended for any infection caused by Group A beta-hemolytic streptococci to help prevent the occurrence of acute rheumatic fever or acute glomerulonephritis.
