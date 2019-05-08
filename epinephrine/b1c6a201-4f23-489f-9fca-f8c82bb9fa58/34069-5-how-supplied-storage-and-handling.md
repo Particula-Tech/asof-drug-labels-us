@@ -2,8 +2,19 @@
 
 ## 16.1 How Supplied
 
-SYMJEPI (epinephrine injection, USP) is available as a two-pack carton that contains two 0.3 mg pre-filled syringes.
-NDC 0781-3442-20
+SYMJEPI (epinephrine injection, USP) 0.3 mg single-dose, pre-filled syringes are available as:
+
+- One-pack carton that contains one 0.3 mg pre-filled syringe.
+  NDC 0781-3442-10
+- Two-pack carton that contains two 0.3 mg pre-filled syringes.
+  NDC 0781-3442-20
+
+SYMJEPI (epinephrine injection, USP) 0.15 mg single-dose, pre-filled syringes are available as:
+
+- One-pack carton that contains one 0.15 mg pre-filled syringe.
+  NDC 0781-3448-10
+- Two-pack carton that contains two 0.15 mg pre-filled syringes.
+  NDC 0781-3448-20
 
 ## 16.2 Storage and Handling
 

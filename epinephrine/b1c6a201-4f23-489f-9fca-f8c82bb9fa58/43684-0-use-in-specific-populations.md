@@ -44,7 +44,7 @@ Epinephrine is the first line-medication of choice for treatment of anaphylaxis;
 
 SYMJEPI may be given safely to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2)].
 Clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults.
-Since the dose of epinephrine delivered from SYMJEPI is fixed, consider using other forms of injectable epinephrine if a dose lower than 0.3mg is deemed necessary.
+Since the dose of epinephrine delivered from SYMJEPI is fixed, consider using other forms of injectable epinephrine if a dose lower than 0.15 mg is deemed necessary.
 
 ## 8.5 Geriatric Use
 

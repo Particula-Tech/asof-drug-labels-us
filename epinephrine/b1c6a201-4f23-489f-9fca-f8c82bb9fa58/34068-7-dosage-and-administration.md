@@ -1,13 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-This product delivers 0.3 mg epinephrine injection (0.3 mL) and is intended for patients who weigh 30 kg or more (approximately 66 pounds or more).
+Selection of the appropriate dosage strength (SYMJEPI 0.3 mg or SYMJEPI 0.15 mg) is determined according to patient body weight.
+
+Patients greater than or equal to 30 kg (approximately 66 pounds or more): SYMJEPI 0.3 mg
+
+Patients 15 to 30 kg (33 pounds to 66 pounds): SYMJEPI 0.15 mg
 
 Inject SYMJEPI intramuscularly or subcutaneously into the anterolateral aspect of the thigh with the needle facing downwards.
 It can be injected through clothing if necessary.
 Instruct caregivers of young children who are prescribed SYMJEPI and who may be uncooperative and kick or move during an injection to hold the leg firmly in place and limit movement prior to and during an injection [see Warnings and Precautions (5.2)].
 
 Each SYMJEPI contains a single dose of epinephrine for single-use injection.
-Since the doses of Epinephrine delivered from SYMJEPI are fixed, consider using other forms of injectable epinephrine if doses lower than 0.3 mg are deemed necessary.
+Since the doses of Epinephrine delivered from SYMJEPI are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
 
 The prescriber should carefully assess each patient to determine the most appropriate dose of epinephrine, recognizing the life-threatening nature of the reactions for which this drug is indicated.
 With severe persistent anaphylaxis, repeat injections with an additional SYMJEPI may be necessary.

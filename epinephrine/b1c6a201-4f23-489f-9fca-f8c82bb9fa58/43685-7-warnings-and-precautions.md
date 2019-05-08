@@ -4,7 +4,7 @@
 
 SYMJEPI is intended for immediate administration as emergency supportive therapy and is not intended as a substitute for immediate medical care.
 In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care.
-More than two sequential doses of epinephrine should only be administered under direct medical supervision [see Indications and Usage (1), Dosage and Administration (2) and Patient Counseling Information (17)].
+More than two sequential doses of epinephrine should only be administered under direct medical supervision [see Indications and Usage (1), Dosage and Administration (2), Patient Counseling Information (17)].
 
 ## 5.2 Injection-related Complications
 
@@ -48,6 +48,6 @@ Despite these concerns, it should be recognized that the presence of these condi
 Therefore, patients with these conditions, and/or any other person who might be in a position to administer SYMJEPI to a patient experiencing anaphylaxis should be carefully instructed in regard to the circumstances under which epinephrine should be used.
 
 - Patients with Heart Disease: Epinephrine should be administered with caution to patients who have heart disease, including patients with cardiac arrhythmias, coronary artery or organic heart disease, or hypertension.
-  In such patients, or in patients who are on drugs that may sensitize the heart to arrhythmias, epinephrine may precipitate or aggravate angina pectoris as well as produce ventricular arrhythmias [see Drug Interactions (7) and Adverse Reactions (6)].
+  In such patients, or in patients who are on drugs that may sensitize the heart to arrhythmias, epinephrine may precipitate or aggravate angina pectoris as well as produce ventricular arrhythmias [see Drug Interactions (7), Adverse Reactions (6)].
 - Other Patients and Diseases: Epinephrine should be administered with caution to patients with hyperthyroidism, diabetes, elderly individuals, and pregnant women.
   Patients with Parkinson's disease may notice a temporary worsening of symptoms.

@@ -80,9 +80,9 @@ Dispose of expired SYMJEPI properly by taking the SYMJEPI in its case to a healt
 
 For more information about SYMJEPI pre-filled syringe and proper use of the product, call 1-800-230-3935 or visit www.symjepi.com.
 
-SYMJEPI is a registered trademark of Adamis Pharmaceuticals Corporation.
+SYMJEPI is a trademark of Adamis Pharmaceuticals Corporation.
 
-Manufactured for Adamis Pharmaceuticals Corp., San Diego, CA 92130
+Manufactured for Adamis Pharmaceuticals Corporation, San Diego, CA 92130
 
 Distributed by Sandoz Inc., Princeton, NJ 08540.
 

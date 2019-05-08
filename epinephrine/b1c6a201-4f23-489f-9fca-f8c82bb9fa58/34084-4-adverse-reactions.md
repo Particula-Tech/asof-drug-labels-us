@@ -5,7 +5,7 @@ Adverse reactions reported in observational trials, case reports and studies are
 Common adverse reactions to systemically administered epinephrine include: anxiety; apprehensiveness; restlessness; tremor; weakness; dizziness; sweating; palpitations; pallor; nausea and vomiting; headache; and/or respiratory difficulties.
 These symptoms occur in some persons receiving therapeutic doses of epinephrine, but are more likely to occur in patients with hypertension or hyperthyroidism [see Warnings and Precautions (5.5)].
 
-Arrhythmias, including fatal ventricular fibrillation, have been reported, particularly in patients with underlying cardiac disease or those receiving certain drugs [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+Arrhythmias, including fatal ventricular fibrillation, have been reported, particularly in patients with underlying cardiac disease or those receiving certain drugs [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Rapid rises in blood pressure have produced cerebral hemorrhage, particularly in elderly patients with cardiovascular disease [see Warnings and Precautions (5.5)].
 

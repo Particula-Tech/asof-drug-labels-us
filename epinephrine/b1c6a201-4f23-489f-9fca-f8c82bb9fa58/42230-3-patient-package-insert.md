@@ -52,8 +52,9 @@ What is SYMJEPI?
 - SYMJEPI is for immediate self (or caregiver) administration and does not take the place of emergency medical care.
   You should get emergency help right away after using SYMJEPI.
 - SYMJEPI is for people who have been prescribed this medicine by their healthcare provider.
-- The SYMJEPI prefilled syringe (0.3 mg) is for patients who weigh 66 pounds or more (30 kilograms or more).
-- It is not known if the SYMJEPI prefilled syringe (0.3 mg) is safe and effective in patients who weigh less than 66 pounds (30 kilograms).
+- The SYMJEPI 0.3 mg prefilled syringe is for patients who weigh 66 pounds or more (30 kilograms or more).
+- The SYMJEPI 0.15 mg prefilled syringe is for patients who weigh between 33 and 66 pounds (15 to 30 kilograms or more).
+- It is not known if the SYMJEPI prefilled syringe is safe and effective in patients who weigh less than 33 pounds (15 kilograms).
 
 Before using SYMJEPI, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -108,7 +109,7 @@ What are the possible side effects of SYMJEPI?
 SYMJEPI may cause serious side effects.
 
 - SYMJEPI should only be injected into the middle of your outer thigh (upper leg).
-  Do not inject SYMJEPI into your:
+  Do notinject SYMJEPI into your:
   - veins
   - buttocks
   - fingers, toes, hands, or feet
@@ -184,7 +185,7 @@ What are the ingredients in SYMJEPI?
 Active Ingredients: epinephrine Inactive Ingredients: sodium chloride, sodium metabisulfite, hydrochloric acid, and water.
 
 Manufactured for Adamis Pharmaceuticals Corporation.
-San Diego, CA, 92130 Distributed by Sandoz Inc., Princeton, NJ 08540 SYMJEPI is a registered trademark of Adamis Pharmaceuticals Corporation.
+San Diego, CA, 92130 Distributed by Sandoz Inc., Princeton, NJ 08540 SYMJEPI is a trademark of Adamis Pharmaceuticals Corporation.
 For more information and instructions on the use of SYMJEPI, go to www.symjepi.com or call 1-800-230-3935.
 
 Important Information
