@@ -218,6 +218,11 @@ Serious allergic reactions
 - •Yellowing of the skin or eyes.
   Stop taking AVELOX and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to AVELOX (a liver problem).
+
+Aortic aneurysm and dissection
+
+- •Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 - •Skin rash
 - Skin rash may happen in people taking AVELOX even after only one dose.
   Stop taking AVELOX at the first sign of a skin rash and call your healthcare provider.
@@ -283,8 +288,12 @@ What are the ingredients in AVELOX?
 
 AVELOX Tablets manufactured in Germany AVELOX Injection manufactured in Germany
 
+AVELOX® is a registered trademark of Bayer Aktiengesellschaft
+
 Rx Only
 
 ©1999 Bayer HealthCare Pharmaceuticals Inc.
 
-Revised 7/2016
+This Medication Guide has been approved by the U.S. Food and Drug Administration
+
+Revised 5/2019

@@ -10,7 +10,7 @@ AVELOX is a member of the fluoroquinolone class of antibacterial agents [see Mic
 
 A study of the skin response to ultraviolet (UVA and UVB) and visible radiation conducted in 32 healthy volunteers (8 per group) demonstrated that AVELOX does not show phototoxicity in comparison to placebo.
 The minimum erythematous dose (MED) was measured before and after treatment with AVELOX (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
-In this study, the MED measured for both doses of AVELOX were not significantly different from placebo, while lomefloxacin significantly lowered the MED [see Warnings and Precautions (5.12)].
+In this study, the MED measured for both doses of AVELOX were not significantly different from placebo, while lomefloxacin significantly lowered the MED [see Warnings and Precautions (5.13)].
 
 ## 12.3 Pharmacokinetics
 
@@ -326,8 +326,9 @@ Chlamydophila pneumoniae
 
 Mycoplasma pneumoniae
 
-The following in vitro data are available, but their clinical significance is unknown.At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin against isolates of similar genus or organism group.
-However, the efficacy of AVELOX in treating clinical infections due to these bacteria has not beenestablished in adequate and well controlled clinical trials.
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin against isolates of similar genus or organism group.
+However, the efficacy of AVELOX in treating clinical infections due to these bacteria has not been established in adequate and well controlled clinical trials.
 
 #### Gram-positive bacteria
 

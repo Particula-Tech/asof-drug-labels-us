@@ -17,7 +17,7 @@ This study compared AVELOX with clarithromycin (500 mg twice daily for 10 days) 
 Clinical success was assessed at 7-17 days post-therapy.
 The clinical success for AVELOX was 89% (222/250) compared to 89% (224/251) for clarithromycin.
 
-Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis
+Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis)
 
 | PATHOGEN | AVELOX | Clarithromycin |
 | --- | --- | --- |

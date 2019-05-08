@@ -3,7 +3,8 @@
 ## 5.1 Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects
 
 Fluoroquinolones, including AVELOX, have been associated with disabling and potentially irreversible serious adverse reactions from different body systems that can occur together in the same patient.
-Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).These reactions can occur within hours to weeks after starting AVELOX.
+Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).
+These reactions can occur within hours to weeks after starting AVELOX.
 Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
 Discontinue AVELOX immediately at the first signs or symptoms of any serious adverse reaction.
@@ -30,14 +31,13 @@ Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or la
 Symptoms may occur soon after initiation of AVELOX and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
 
 Discontinue AVELOX immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation.
-Avoid fluoroquinolones, including AVELOX, in patients who have previously experienced peripheral neuropathy
+Avoid fluoroquinolones, including AVELOX, in patients who have previously experienced peripheral neuropathy.
 
 ## 5.4 Central Nervous System Effects
 
 ### Psychiatric Adverse Reactions
 
-Fluoroquinolones, including AVELOX, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, hallucinations, or paranoia; depression or suicidal thoughts or acts; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment,.
-These adverse reactions may occur following the first dose.
+Fluoroquinolones, including AVELOX, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, hallucinations, or paranoia; depression or suicidal thoughts or acts; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment, These adverse reactions may occur following the first dose.
 If these reactions occur in patients receiving AVELOX, discontinue AVELOX immediately and institute appropriate measures [see Adverse Reactions (6.1, 6.2)].
 
 ### Central Nervous System Adverse Reactions
@@ -79,7 +79,7 @@ Therefore the recommended dose or infusion rate should not be exceeded.
 In premarketing clinical trials, the rate of cardiovascular adverse reactions was similar in 798 AVELOX and 702 comparator treated patients who received concomitant therapy with drugs known to prolong the QTc interval.
 No excess in cardiovascular morbidity or mortality attributable to QTc prolongation occurred with AVELOX treatment in over 15,500 patients in controlled clinical studies, including 759 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 AVELOX tablet treated patients in a postmarketing observational study in which ECGs were not performed.
 
-## 5.7 Other Serious and Sometimes Fatal Adverse Reactions
+## 5.7 Other Serious and Sometimes Fatal Reactions
 
 Other serious and sometimes fatal adverse reactions, some due to hypersensitivity, and some due to uncertain etiology, have been reported in patients receiving therapy with fluoroquinolones, including AVELOX.
 These reactions may be severe and generally occur following the administration of multiple doses.
@@ -100,7 +100,13 @@ Serious anaphylactic reactions, some following the first dose, have been reporte
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Discontinue AVELOX at the first appearance of a skin rash or any other sign of hypersensitivity [see Warnings and Precautions (5.7)].
 
-## 5.9 Clostridium difficile-Associated Diarrhea
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve AVELOX for use only when there are no alternative antibacterial treatments available.
+
+## 5.10 Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AVELOX, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -113,13 +119,13 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.10 Arthropathic Effects in Animals
+## 5.11 Arthropathic Effects in Animals
 
 In immature dogs, oral administration of AVELOX caused lameness.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Nonclinical Toxicology (13.2)].
 
-## 5.11 Blood Glucose Disturbances
+## 5.12 Blood Glucose Disturbances
 
 As with all fluoroquinolones, disturbances in blood glucose, including both hypoglycemia and hyperglycemia have been reported with AVELOX.
 In AVELOX-treated patients, dysglycemia occurred predominantly in elderly diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, sulfonylurea) or with insulin.
@@ -127,12 +133,12 @@ Severe cases of hypoglycemia resulting in coma or death have been reported.
 In diabetic patients, careful monitoring of blood glucose is recommended.
 If a hypoglycemic reaction occurs, discontinue AVELOX and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7.3) and Patient Counseling Information (17)].
 
-## 5.12 Photosensitivity/Phototoxicity
+## 5.13 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones, including AVELOX, after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
 AVELOX should be discontinued if phototoxicity occurs [see Clinical Pharmacology (12.2)].
 
-## 5.13 Development of Drug Resistant Bacteria
+## 5.14 Development of Drug Resistant Bacteria
 
 Prescribing AVELOX in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

@@ -10,10 +10,11 @@ The following serious and otherwise important adverse reactions are discussed in
 - •QT Prolongation [see Warnings and Precautions (5.6)]
 - •Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.7)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.9)]
-- •Blood Glucose Disturbances [see Warnings and Precautions (5.11)]
-- •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.12)]
-- •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.13)]
+- •Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+- •Blood Glucose Disturbances [see Warnings and Precautions (5.12)]
+- •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
+- •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -165,7 +166,7 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 | --- | --- |
 | Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia[see Warnings and Precautions (5.7)] |
 | Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) |
-| Ear and Labyrinth Disorders | Hearing impairment, including deafness(reversible in majority of cases) |
+| Ear and Labyrinth Disorders | Hearing impairment, including deafness (reversible in majority of cases) |
 | Eye Disorders | Vision loss (especially in the course of CNS reactions, transient in majority of cases) |
 | Hepatobiliary Disorders | Hepatitis (predominantly cholestatic)Hepatic failure (including fatal cases)Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.7)] |
 | Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema)[see Warnings and Precautions (5.7, 5.8)] |
@@ -174,4 +175,4 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 | Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.4)] |
 | Renal and Urinary Disorders | Interstitial nephritis [see Warnings and Precautions (5.7)] |
 | Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis[see Warnings and Precautions (5.7)] |
-| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction[see Warnings and Precautions (5.12)]Stevens-Johnson syndromeToxic epidermal necrolysis[see Warnings and Precautions (5.7)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction[see Warnings and Precautions (5.13)]Stevens-Johnson syndromeToxic epidermal necrolysis[see Warnings and Precautions (5.7)] |

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Antacids, Sucralfate, Multivitamins and other Products Containing Multivalent Cations
+## 7.1 Antacids, Sucralfate, Multivitamins and Other Products Containing Multivalent Cations
 
 Fluoroquinolones, including AVELOX, form chelates with alkaline earth and transition metal cations.
 Oral administration of AVELOX with antacids containing aluminum or magnesium, with sucralfate, with metal cations such as iron, or with multivitamins containing iron or zinc, or with formulations containing divalent and trivalent cations such as didanosine buffered tablets for oral suspension or the pediatric powder for oral solution, may substantially interfere with the absorption of AVELOX, resulting in systemic concentrations considerably lower than desired.
@@ -16,7 +16,7 @@ Therefore the prothrombin time, International Normalized Ratio (INR), or other s
 
 Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones, including AVELOX, and an antidiabetic agent.
 Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered.
-If a hypoglycemic reaction occurs, AVELOX should be discontinued and appropriate therapy should be initiated immediately [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
+If a hypoglycemic reaction occurs, AVELOX should be discontinued and appropriate therapy should be initiated immediately [see Warnings and Precautions (5.12) and Adverse Reactions (6.1)].
 
 ## 7.4 Nonsteroidal Anti-Inflammatory Drugs
 

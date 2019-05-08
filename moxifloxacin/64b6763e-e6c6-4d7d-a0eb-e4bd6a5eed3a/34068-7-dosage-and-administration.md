@@ -53,7 +53,7 @@ Do not administer AVELOX if particulate matter and/or discoloration is observed.
 
 Discard any unused portion because the premix flexible containers are for single-dose only.
 
-## 2.3 Drug and Diluent Compatibilities
+## 2.3 Drug and Diluent Compatabilities
 
 Because only limited data are available on the compatibility of AVELOX intravenous injection with other intravenous substances, additives or other medications should not be added to AVELOX Injection or infused simultaneously through the same intravenous line.
 If the same intravenous line or a Y-type line is used for sequential infusion of other drugs, or if the “piggyback” method of administration is used, the line should be flushed before and after infusion of AVELOX Injection with an infusion solution compatible with AVELOX Injection as well as with other drug(s) administered via this common line.

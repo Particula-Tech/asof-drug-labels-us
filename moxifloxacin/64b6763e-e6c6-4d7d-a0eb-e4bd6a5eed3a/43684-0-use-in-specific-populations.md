@@ -47,7 +47,7 @@ In lactating rats given a single oral dose of 4.59 mg/kg moxifloxacin (approxima
 
 Effectiveness in pediatric patients and adolescents less than 18 years of age has not been established.
 AVELOX causes arthropathy in juvenile animals.
-Limited information on the safety of AVELOX in 301 pediatric patients is available from the cIAI trial [see Boxed Warning, Warnings and Precautions (5.9) and Nonclinical Toxicology (13.2)].
+Limited information on the safety of AVELOX in 301 pediatric patients is available from the cIAI trial [see Boxed Warning, Warnings and Precautions (5.11) and Nonclinical Toxicology (13.2)].
 
 ### Active Controlled Trial in Complicated Intra-Abdominal Infection (cIAI)
 
@@ -68,7 +68,7 @@ The adverse reaction profile of AVELOX or comparator was similar across all age 
 
 Musculoskeletal adverse reactions were monitored and followed up to 5 years after the end of study treatment.
 The rates of musculoskeletal adverse reactions were 4.3% (13/301) in the AVELOX-treated group versus 3.3% (5/150) in the comparator-treated group.
-The majority of musculoskeletal adverse reactions were reported between 12 and 53 weeks after start of study treatment with complete resolution at the end of the study [see Warnings and Precautions (5.9) and Nonclinical Toxicology (13.2)].
+The majority of musculoskeletal adverse reactions were reported between 12 and 53 weeks after start of study treatment with complete resolution at the end of the study [see Warnings and Precautions (5.11) and Nonclinical Toxicology (13.2)].
 
 Table 5: Table 5 Incidence (%) of Selected Adverse Reactions in ≥2.0% of Pediatric Patients Treated with AVELOX in cIAI Clinical Trial
 
@@ -106,6 +106,8 @@ Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other 
 Caution should be used when prescribing AVELOX to elderly patients especially those on corticosteroids.
 Patients should be informed of this potential side effect and advised to discontinue AVELOX and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, and Warnings and Precautions (5.2)].
 
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
+
 In controlled multiple-dose clinical trials, 23% of patients receiving oral AVELOX were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral AVELOX in patients aged 65 or older compared to younger adults.
 
@@ -121,4 +123,4 @@ No dosage adjustment is necessary in patients with renal impairment, including t
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precaution (5.6) and Clinical Pharmacology, (12.3)].
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precautions (5.6) and Clinical Pharmacology, (12.3)].

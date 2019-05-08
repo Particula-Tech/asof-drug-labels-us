@@ -7,6 +7,6 @@
 - Discontinue AVELOX immediately and avoid the use of fluoroquinolones, including AVELOX, in patients who experience any of these serious adverse reactions [see Warnings and Precautions (5.1)].
 - •Fluoroquinolones, including AVELOX, may exacerbate muscle weakness in patients with myasthenia gravis.
   Avoid AVELOX in patients with known history of myasthenia gravis [see Warnings and Precautions (5.5)].
-- •Because fluoroquinolones, including AVELOX, have been associated with serious adverse reactions [seeWarnings and Precautions (5.1-5.13)], reserve AVELOX for use in patients who have no alternative treatment options for the following indications:
+- •Because fluoroquinolones, including AVELOX, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.13)], reserve AVELOX for use in patients who have no alternative treatment options for the following indications:
 - •Acute bacterial sinusitis [see Indications and Usage (1.6)]
 - •Acute bacterial exacerbation of chronic bronchitis [see Indications and Usage (1.7)]
