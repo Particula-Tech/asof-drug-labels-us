@@ -1,19 +1,19 @@
 # DOSAGE AND ADMINISTRATION:
 
-Tobramycin may be given intramuscularly or intravenously.
+Tobramycin Injection, USP may be given intramuscularly or intravenously.
 Recommended dosages are the same for both routes.
 The patient’s pretreatment body weight should be obtained for calculation of correct dosage.
-It is desirable to measure both peak and trough serum concentrations (see BOXED WARNINGS and PRECAUTIONS).
+It is desirable to measure both peak and trough serum concentrations (see WARNINGS box and PRECAUTIONS).
 
 ## Administration for Patients with Normal Renal Function
 
 Adults with Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours (see Table 3).
 
-Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (see Table 3).
+Adults with Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (see Table 3).
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
-To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see BOXED WARNINGS and PRECAUTIONS).
+To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
 
-| Table 3 DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals) |  |  |  |  |  |  |  |
+| Table 3. DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN INJECTION, USP IN ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | For Patient Weighing |  | Usual Dose for Serious Infections |  |  | Maximum Dose for Life-Threatening Infections (Reduce as soon as possible) |  |  |
 | 1 mg/kg q8h |  |  | 1.66 mg/kg q8h |  |  |  |  |
@@ -38,9 +38,9 @@ To prevent increased toxicity due to excessive blood levels, dosage should not e
 | 45 | 99 | 45 mg |  | 1.1 mL | 75 mg |  | 1.9 mL |
 | 40 | 88 | 40 mg |  | 1 mL | 66 mg |  | 1.6 mL |
 
-*Applicable to all product forms except Tobramycin Injection Pediatric, 10 mg/mL (see HOW SUPPLIED).
+*Applicable to all product forms except Tobramycin Injection, USP, 10 mg/mL(Pediatric).
 
-Pediatric Patients (greater than 1 week of age): 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
+Pediatric Patients (Greater Than 1 Week of Age): 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
 
 Premature or Full-Term Neonates 1 Week of Age or Less: Up to 4 mg/kg/day may be administered in 2 equal doses every 12 hours.
 
@@ -63,17 +63,16 @@ Whenever possible, serum tobramycin concentrations should be monitored during th
 
 Following a loading dose of 1 mg/kg, subsequent dosage in these patients must be adjusted, either with reduced doses administered at 8-hour intervals or with normal doses given at prolonged intervals.
 Both of these methods are suggested as guides to be used when serum levels of tobramycin cannot be measured directly.
-They are based on either the creatinine clearance level or the serum creatinine level of the patient because these values correlate with the half-life of tobramycin.
-The dosage schedule derived from either method should be used in conjunction with careful clinical and laboratory observations of the patient and should be modified as necessary.
+They are based on either the creatinine clearance or the serum creatinine of the patient, because these values correlate with the half-life of tobramycin.
+The dosage schedules derived from either method should be used in conjunction with careful clinical and laboratory observations of the patient and should be modified as necessary.
 Neither method should be used when dialysis is being performed.
 
-Reduced dosage at 8-hour intervals: When the creatinine clearance rate is 70 mL or less per minute or when the serum creatinine value is known, the amount of the reduced dose can be determined by multiplying the normal dose from Table 3 by the percent of normal dose from the accompanying nomogram.
+Reduced Dosage at 8-hour Intervals — When the creatinine clearance rate is 70 mL or less per minute or when the serum creatinine value is known, the amount of the reduced dose can be determined by multiplying the normal dose from Table 3 by the percent of normal dose from the accompanying nomogram.
+An alternate rough guide for determining reduced dosage at 8-hour intervals (for patients whose steady-state serum creatinine values are known) is to divide the normally recommended dose by the patient's serum creatinine.
 
 * Scales have been adjusted to facilitate dosage calculations.
 
-An alternate rough guide for determining reduced dosage at 8-hour intervals (for patients whose steady-state serum creatinine values are known) is to divide the normally recommended dose by the patient’s serum creatinine.
-
-Normal dosage at prolonged intervals: If the creatinine clearance rate is not available and the patient’s condition is stable, a dosage frequency in hours for the dosage given in Table 3 can be determined by multiplying the patient’s serum creatinine by 6.
+Normal Dosage at Prolonged Intervals — If the creatinine clearance rate is not available and the patient’s condition is stable, a dosage frequency in hours for the dosage given in Table 3 can be determined by multiplying the patient's serum creatinine by 6.
 
 ## Dosage in Obese Patients
 
@@ -86,10 +85,10 @@ Tobramycin may be administered by withdrawing the appropriate dose directly from
 ## Intravenous Administration
 
 For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
-For pediatric patients, the volume of diluent should be proportionately less than that for adults.
+For pediatric patients, the volume of diluent should be proportionately less than for adults.
 The diluted solution usually should be infused over a period of 20 to 60 minutes.
-Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see BOXED WARNINGS).
+Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see WARNINGS box).
 
-Tobramycin injection should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
+Tobramycin Injection, USP should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
 
-Prior to administration, parenteral drug products should be inspected visually for particulate matter and discoloration whenever solution and container permit.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

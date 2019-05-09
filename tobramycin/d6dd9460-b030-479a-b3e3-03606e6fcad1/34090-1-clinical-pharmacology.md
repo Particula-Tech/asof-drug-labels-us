@@ -4,7 +4,7 @@ Tobramycin is rapidly absorbed following intramuscular administration.
 Peak serum concentrations of tobramycin occur between 30 and 90 minutes after intramuscular administration.
 Following an intramuscular dose of 1 mg/kg of body weight, maximum serum concentrations reach about 4 mcg/mL, and measurable levels persist for as long as 8 hours.
 Therapeutic serum levels are generally considered to range from 4 to 6 mcg/mL.
-When tobramycin is administered by intravenous infusion over a 1-hour period, the serum concentrations are similar to those obtained by intramuscular administration.
+When tobramycin sulfate is administered by intravenous infusion over a 1-hour period, the serum concentrations are similar to those obtained by intramuscular administration.
 Tobramycin is poorly absorbed from the gastrointestinal tract.
 
 In patients with normal renal function, except neonates, tobramycin administered every 8 hours does not accumulate in the serum.
@@ -18,7 +18,7 @@ In patients with normal renal function, up to 84% of the dose is recoverable fro
 
 Peak urine concentrations ranging from 75 to 100 mcg/mL have been observed following the intramuscular injection of a single dose of 1 mg/kg.
 After several days of treatment, the amount of tobramycin excreted in the urine approaches the daily dose administered.
-When renal function is impaired, excretion of tobramycin is slowed, and accumulation of the drug may cause toxic blood levels.
+When renal function is impaired, excretion of tobramycin sulfate is slowed, and accumulation of the drug may cause toxic blood levels.
 
 The serum half-life in normal individuals is 2 hours.
 An inverse relationship exists between serum half-life and creatinine clearance, and the dosage schedule should be adjusted according to the degree of renal impairment (see DOSAGE AND ADMINISTRATION).
@@ -34,39 +34,30 @@ Probenecid does not affect the renal tubular transport of tobramycin.
 
 ## Microbiology
 
-Mechanism of Action
-
-Tobramycin acts by inhibiting protein synthesis in bacterial cells.
+Tobramycin is an aminoglycoside antibiotic with activity against Gram-negative and certain Gram-positive bacteria.
+Mechanism of Action Tobramycin acts by inhibiting synthesis of protein in bacterial cells.
 In vitro tests demonstrate that tobramycin is bactericidal.
 
-Resistance
-
-Aminoglycosides are generally not active against most gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
-Cross-resistance between aminoglycosides may occur.
-
-Interactions with Other Antibacterial Drugs
-
+Interactions with Other Antibiotics: Although most strains of enterococci demonstrate in vitro resistance, some strains in this group are susceptible.
 In vitro studies have shown that an aminoglycoside combined with an antibiotic that interferes with cell-wall synthesis affects some enterococcal strains synergistically.
 The combination of penicillin G and tobramycin results in a synergistic bactericidal effect in vitro against certain strains of Enterococcus faecalis.
-However, this combination is not synergistic against other closely related organisms, e.g., Enterococcus faecium.
-Species-level identification of enterococci alone cannot be used to predict susceptibility.
-Susceptibility testing and tests for antibiotic synergism must be performed.
+However, this combination is not synergistic against other closely related organisms, e.g. Enterococcus faecium.
+Speciation of enterococci alone cannot be used to predict susceptibility.
+Susceptibility testing and tests for antibiotic synergism are emphasized.
+Cross-Resistance: Cross-resistance between aminoglycosides may occur.
+Antimicrobial Activity: Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections: (see INDICATIONS AND USAGE)
 
-Tobramycin has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections as described in INDICATIONS AND USAGE section (1):
-
-Aerobic Gram-positive bacteria
+Aerobic and facultative Gram-positive microorganisms
 
 Staphylococcus aureus
 
-Aerobic Gram-negative bacteria
+Aerobic and facultative Gram-negative microorganisms
 
-Citrobacter species
-
-Enterobacter species
+Citrobacter sp Enterobacter sp
 
 Escherichia coli
 
-Klebsiella species
+Klebsiella sp
 
 Morganella morganii
 
@@ -76,63 +67,12 @@ Proteus mirabilis
 
 Proteus vulgaris
 
-Providencia species
+Providencia sp
 
-Serratia species
+Serratia sp
 
-Aminoglycosides are generally not active against most gram-positive bacteria, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
-For Salmonella spp. and Shigella spp., aminoglycosides may appear active in vitro but are not effective clinically and should not be reported as susceptible.
+Aminoglycosides have a low order of activity against most Gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
 
-## Susceptibility Test Methods
+## Susceptibility Tests:
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antibacterial compounds.
-The MICs should be determined using a standardized test method1,3.
-Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tobramycin powder.
-The MIC values should be interpreted according to the criteria in Table 1.
-
-Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antibacterial compounds.
-One such standardized procedure requires the use of standardized inoculum concentrations and paper disks impregnated with 10 mcg of tobramycin2,3.
-The disk diffusion values should be interpreted according to the criteria provided in Table 1.
-
-Table 1: Susceptibility Interpretive Criteria for Tobramycin
-
-| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameter Pathogen (mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | S | I | R | S | I | R |
-| Staphylococcus aureus (includes methicillin-susceptible and methicillin resistant isolates) | ≤ 4 | 8 | ≥ 16 | ≥ 15 | 13 to 14 | ≤ 12 |
-| Enterobacteriaceaea | ≤ 4 | 8 | ≥ 16 | ≥ 15 | 13 to 14 | ≤ 12 |
-| Pseudomonas aeruginosa | ≤ 4 | 8 | ≥ 16 | ≥ 15 | 13 to 14 | ≤ 12 |
-
-S = susceptible, I = intermediate, R = resistant
-
-a For Salmonella spp. and Shigella spp., tobramycin may appear active in vitro but is not effective clinically and should not be reported as susceptible.
-
-A report of "Susceptible" indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
-A report of "Intermediate" indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-## Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
-Standard tobramycin powder should provide the following range of MIC values provided in Table 2.
-For the diffusion technique using the 10 mcg tobramycin disk, the criteria provided in Table 2 should be achieved.
-
-Table 2: Acceptable Quality Control Ranges for Susceptibility Testing
-
-| Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameter in mm) |
-| --- | --- | --- |
-| Escherichia coli ATCC 25922 | 0.25 to 1 | 18 to 26 |
-| Staphylococcus aureus ATCC 25923 | Not applicable | 19 to 29 |
-| Pseudomonas aeruginosa ATCC 27853 | 0.25 to 1 | 20 to 26 |
-| Staphylococcus aureus ATCC 29213 | 0.12 to 1 | Not applicable |
-| Enterococcus faecalis ATCC 29212 | 8 to 32 | Not applicable |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
