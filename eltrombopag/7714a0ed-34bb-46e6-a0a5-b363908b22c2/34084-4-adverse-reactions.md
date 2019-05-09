@@ -38,7 +38,7 @@ Adverse Reactions (≥ 3%) from Three Placebo-controlled Trials in Adults with C
 | Influenza | 3 | 2 |
 | Paresthesia | 3 | 2 |
 | Rash | 3 | 2 |
-| a Includes PTs of Urinary tract infection, Cystitis, Urinary tract infection bacterial, and Bacteruria |  |  |
+| a Includes PTs of Urinary tract infection, Cystitis, Urinary tract infection bacterial, and Bacteriuria. |  |  |
 
 In the three controlled clinical chronic ITP trials, alopecia, musculoskeletal pain, blood alkaline phosphatase increased, and dry mouth were the adverse reactions reported in 2% of patients treated with PROMACTA and in no patients who received placebo.
 
@@ -99,7 +99,7 @@ Adverse Reactions (≥ 3%) with a Higher Incidence for PROMACTA versus Placebo f
 | Rash | 5 | 2 |
 | AST increased | 4 | 0 |
 | Rhinorrhea | 4 | 0 |
-| a Includes adverse reactions or laboratory abnormalities > 3 x ULN |  |  |
+| a Includes adverse reactions or laboratory abnormalities > 3 x ULN. |  |  |
 
 In the two controlled clinical chronic ITP trials, cataracts developed or worsened in 2 (1%) patients treated with PROMACTA.
 Both patients had received chronic oral corticosteroids, a risk factor for cataractogenesis.
@@ -128,7 +128,7 @@ Adverse Reactions (≥ 10% and Greater than Placebo) from Two Placebo-controlled
 | Myalgia | 12 | 10 |
 | Alopecia | 10 | 6 |
 | Peripheral edema | 10 | 5 |
-| a Includes PTs of Insomnia, Initial insomnia, and Poor quality sleep |  |  |
+| a Includes PTs of Insomnia, Initial insomnia, and Poor quality sleep. |  |  |
 
 Rash was reported in 9% and 7% of patients receiving PROMACTA and placebo, respectively.
 

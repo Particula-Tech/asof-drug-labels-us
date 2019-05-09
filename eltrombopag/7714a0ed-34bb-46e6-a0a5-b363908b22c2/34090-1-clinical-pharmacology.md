@@ -40,7 +40,7 @@ Effect on Plasma Eltrombopag Pharmacokinetic Parameters After Administration of 
 | With a high-calcium, moderate-fat, moderate-calorie meal | 75% (71%, 88%) | 79% (76%, 82%) |
 | 2 hours after the high-calcium, moderate-fat, moderate-calorie meal | 47% (40%, 53%) | 48% (40%, 54%) |
 | 2 hours before the high-calcium, moderate-fat, moderate-calorie meal | 20% (9%, 29%) | 14% (2%, 25%) |
-| a 372 calories, 9 g fat, and 448 mg calcium |  |  |
+| a 372 calories, 9 g fat, and 448 mg calcium. |  |  |
 
 Distribution
 
@@ -115,7 +115,7 @@ Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Paramete
 |  | (9.42, 11.2) | (137, 170) |
 | 1 to 5 years (n = 38) | 11.6 | 162 |
 |  | (10.4, 12.9) | (139, 187) |
-| a PK parameters presented as geometric mean (95% CI) b Based on population PK post-hoc estimates |  |  |
+| aPK parameters presented as geometric mean (95% CI). bBased on population PK post-hoc estimates. |  |  |
 
 Drug Interaction Studies
 

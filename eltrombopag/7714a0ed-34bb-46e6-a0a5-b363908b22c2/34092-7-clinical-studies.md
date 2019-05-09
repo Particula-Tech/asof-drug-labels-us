@@ -23,7 +23,7 @@ Studies 773B and 773A: Platelet Count Response (≥ 50 x 109/L) Rates in Adults 
 | --- | --- | --- |
 | 773B | 43/73 (59%)a | 6/37 (16%) |
 | 773A | 19/27 (70%)a | 3/27 (11%) |
-| a p-value < 0.001 for PROMACTA versus placebo |  |  |
+| a p-value < 0.001 for PROMACTA versus placebo. |  |  |
 
 The platelet count response to PROMACTA was similar among patients who had or had not undergone splenectomy.
 In general, increases in platelet counts were detected 1 week following initiation of PROMACTA and the maximum response was observed after 2 weeks of therapy.
@@ -52,7 +52,7 @@ Outcomes of treatment are presented in Table 17 for all patients enrolled in the
 Table 17.
 RAISE: Outcomes of Treatment in Adults with Chronic Immune Thrombocytopenia
 
-| Outcome | PROMACTAN = 135 | PlaceboN = 62 |
+| Outcome | PROMACTAn = 135 | Placebon = 62 |
 | --- | --- | --- |
 | Mean number of weeks with platelet counts ≥ 50 x 109/L | 11.3 | 2.4 |
 | Requiring rescue therapy, n (%) | 24 (18) | 25 (40) |
@@ -92,7 +92,7 @@ PETIT2: Platelet Count Response (≥ 50 x 109/L without Rescue) for 6 out of 8 W
 | 12 to 17 years | 10/24 (42%) | 1/10 (10%) |
 | 6 to 11 years | 11/25 (44%) | 0/13 (0%) |
 | 1 to 5 years | 5/14 (36%) | 0/6 (0%) |
-| a p-value = < 0.001 for PROMACTA versus placebo |  |  |
+| a p-value = < 0.001 for PROMACTA versus placebo. |  |  |
 
 More pediatric patients treated with PROMACTA (75%) compared with placebo (21%) had at least one platelet count greater than or equal to 50 x 109/L during the first 12 weeks of randomized treatment in absence of rescue therapy.
 Fewer pediatric patients treated with PROMACTA required rescue treatment during the randomized, double-blind period compared with placebo-treated patients (19% [12/63] versus 24% [7/29]).
@@ -126,7 +126,7 @@ PETIT: Platelet Count Response (≥ 50 x 109/L without Rescue) Rates in Pediatri
 | 12 to 17 years | 10/16 (62%) | 0/8 (0%) |
 | 6 to 11 years | 12/19 (63%) | 3/9 (33%) |
 | 1 to 5 years | 6/10 (60%) | 4/5 (80%) |
-| ap-value = 0.011 for PROMACTA versus placebo |  |  |
+| ap-value = 0.011 for PROMACTA versus placebo. |  |  |
 
 Fewer pediatric patients treated with PROMACTA required rescue treatment during the randomized, double-blind period compared with placebo-treated patients (13% [6/45] versus 50% [11/22]).
 
@@ -166,13 +166,13 @@ ENABLE1 and ENABLE2: Sustained Virologic Response (SVR) in Adults with Chronic H
 
 |  | ENABLE1a |  | ENABLE2b |  |
 | --- | --- | --- | --- | --- |
-| Pre-antiviral Treatment Phase | N = 715 |  | N = 805 |  |
+| Pre-antiviral Treatment Phase | n = 715 |  | n = 805 |  |
 | % Patients who achieved target platelet counts and initiated antiviral therapyc | 95% |  | 94% |  |
-| Antiviral Treatment Phase | PROMACTAN = 450% | PlaceboN = 232% | PROMACTAN = 506% | PlaceboN = 253% |
+| Antiviral Treatment Phase | PROMACTAn = 450% | Placebon = 232% | PROMACTAn = 506% | Placebon = 253% |
 | Overall SVRd | 23 | 14 | 19 | 13 |
 | HCV Genotype 2,3 | 35 | 24 | 34 | 25 |
 | HCV Genotype 1,4,6 | 18 | 10 | 13 | 7 |
-| a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally) b PROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally) c Target platelet count was ≥ 90 x 109/L for ENABLE1 and ≥ 100 x 109/L for ENABLE2 d p-value < 0.05 for PROMACTA versus placebo |  |  |  |  |
+| a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally). b PROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally). c Target platelet count was ≥ 90 x 109/L for ENABLE1 and ≥ 100 x 109/L for ENABLE2. d p-value < 0.05 for PROMACTA versus placebo. |  |  |  |  |
 
 The majority of patients treated with PROMACTA (76%) maintained a platelet count greater than or equal to 50 x 109/L compared with 19% for placebo.
 A greater proportion of patients on PROMACTA did not require any antiviral dose reduction as compared with placebo (45% versus 27%).
@@ -204,7 +204,7 @@ Dosages of Immunosuppressive Therapy Administered with PROMACTA in Study US01T
 | Horse antithymocyte globulin (h-ATG) | 40 mg/kg/day, based on actual body weight, administered intravenously on Days 1 to 4 of the 6-month treatment period |
 | Cyclosporinea (therapeutic dose for 6 months, from Day 1 to Month 6, adjusted to obtain a target therapeutic trough level between 200 mcg/L and 400 mcg/L) | Patients 12 years and older (total daily dose of 6 mg/kg/day)3 mg/kg, based on actual body weight, orally every 12 hours for 6 months, starting on Day 1 Patients > 20 years of age with a body mass index > 35 or patients 12 to 20 years of age with a body mass index > 95th percentile:3 mg/kg, based on adjusted body weightb, orally every 12 hours for 6 months, starting on Day 1 Patients 2 to 11 years of age (total daily dose of 12 mg/kg/day)6 mg/kg, based on actual body weight, orally every 12 hours for 6 months, starting on Day 1 Patients 2 to 11 years of age with a body mass index > 95th percentile:6 mg/kg, based on adjusted body weightb, orally every 12 hours for 6 months, starting on Day 1 |
 | Cyclosporine (maintenance dose, from Month 6 to Month 24) | For patients who achieve a hematologic response at 6 months2 mg/kg/day administered orally at a fixed dose for an additional 18 months |
-| a Dose of cyclosporine was adjusted to achieve the above recommended target trough levels; refer to the appropriate cyclosporine prescribing information b Calculated as the midpoint between the ideal body weight and actual body weight |  |
+| aDose of cyclosporine was adjusted to achieve the above recommended target trough levels; refer to the appropriate cyclosporine prescribing information. bCalculated as the midpoint between the ideal body weight and actual body weight. |  |
 
 In the PROMACTA D1-M6 cohort, the median age was 28 years (range 5 to 82 years) with 16% and 28% of patients ≥ 65 years of age and < 17 years of age, respectively.
 Forty-six percent of patients were male and the majority of patients were White (62%).
@@ -218,16 +218,16 @@ Overall response rate is defined as the number of partial responses plus complet
 Table 22.
 Study US01T: Hematologic Response in First-Line Treatment of Patients with Severe Aplastic Anemia
 
-|  | PROMACTA D1-M6 + h-ATG + cyclosporine N = 92 |
+|  | PROMACTA D1-M6 + h-ATG + cyclosporine n = 92 |
 | --- | --- |
 | Month 6, naOverall response, n (%) [95% CI]Complete response, n (%) [95% CI] | 87 69 (79) [69, 87] 38 (44) [33, 55] |
 | Median duration of overall response, nb | 70 |
 | Months (95% CI) | 24.3 (21.4, NE) |
 | Median duration of complete response, nb | 46 |
 | Months (95% CI) | 24.3 (23.0, NE) |
-| a The number of patients who reached the 6-month assessment or withdrew earlier is the denominator for percentage calculation b Number of responders at any time NE = not estimable |  |
+| aThe number of patients who reached the 6-month assessment or withdrew earlier is the denominator for percentage calculation bNumber of responders at any time NE = not estimable |  |
 
-The overall and complete hematological response rates at Year 1 (N = 78) are 56.4% and 38.5% and at Year 2 (N = 62) are 38.7% and 30.6%, respectively.
+The overall and complete hematological response rates at Year 1 (n = 78) are 56.4% and 38.5% and at Year 2 (n = 62) are 38.7% and 30.6%, respectively.
 
 Pediatric Patients
 
@@ -254,12 +254,12 @@ Table 23 presents the efficacy results.
 Table 23.
 Study US28T: Hematologic Response in Patients with Refractory Severe Aplastic Anemia
 
-| Outcome | PROMACTAN = 43 |
+| Outcome | PROMACTAn = 43 |
 | --- | --- |
 | Response ratea, n (%) 95% CI (%) | 17 (40)(25, 56) |
 | Median of duration of response in months (95% CI) | NRb (3.0, NRb) |
-| a Includes single- and multi-lineage b NR = Not reached due to few events (relapsed) |  |
+| aIncludes single- and multi-lineage. bNR = Not reached due to few events (relapsed). |  |
 
-In the 17 responders, the platelet transfusion-free period ranged from 8 to 1,096 days with a median of 200 days, and the RBC transfusion-free period ranged from 15 to 1,082 days with a median of 208 days.
+In the 17 responders, the platelet transfusion-free period ranged from 8 to 1096 days with a median of 200 days, and the RBC transfusion-free period ranged from 15 to 1082 days with a median of 208 days.
 
 In the extension phase, 8 patients achieved a multi-lineage response; 4 of these patients subsequently tapered off treatment with PROMACTA and maintained the response (median follow up: 8.1 months, range: 7.2 to 10.6 months).

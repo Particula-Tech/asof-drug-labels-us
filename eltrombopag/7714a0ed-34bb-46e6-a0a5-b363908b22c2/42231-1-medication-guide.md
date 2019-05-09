@@ -13,8 +13,10 @@
 | Laboratory tests may show abnormal changes to the cells in your bone marrow. Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all of the possible side effects of PROMACTA. For more information, ask your healthcare provider or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | How should I store PROMACTA tablets and PROMACTA for oral suspension? Tablets: Store PROMACTA tablets at room temperature between 68°F to 77°F (20°C to 25°C).Keep PROMACTA in the bottle given to you. For oral suspension: Store PROMACTA for oral suspension at room temperature between 68°F to 77°F (20°C to 25°C).After mixing, PROMACTA should be taken right away but may be stored for no more than 30 minutes between 68°F to 77°F (20°C to 25°C). Throw away (discard) the mixture if not used within 30 minutes. Keep PROMACTA and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of PROMACTA Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use PROMACTA for a condition for which it was not prescribed. Do not give PROMACTA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about PROMACTA that is written for health professionals. |  |
-| What are the ingredients in PROMACTA? Tablets: Active ingredient: eltrombopag olamine Inactive ingredients: Tablet Core: magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate. Coating: hypromellose, polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5-mg tablet), and FD&C Yellow No. 6 aluminum lake (25-mg tablet), FD&C Blue No. 2 aluminum lake (50-mg tablet), or Iron Oxide Red and Iron Oxide Black (75-mg tablet). For oral suspension: Active ingredient: eltrombopag olamine. Inactive ingredients: mannitol, sucralose, and xanthan gum Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 © Novartis T2018-128 For more information about PROMACTA, go to www.PROMACTA.com or call 1-888-669-6682. |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration | Revised November 2018 |
+| What are the ingredients in PROMACTA? Tablets: Active ingredient: eltrombopag olamine Inactive ingredients: Tablet Core: magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate. Coating: hypromellose, polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5-mg tablet), and FD&C Yellow No. 6 aluminum lake (25-mg tablet), FD&C Blue No. 2 aluminum lake (50-mg tablet), or Iron Oxide Red and Iron Oxide Black (75-mg tablet). For oral suspension: Active ingredient: eltrombopag olamine. Inactive ingredients: mannitol, sucralose, xanthan gum Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 © Novartis For more information about PROMACTA, go to www.PROMACTA.com or call 1-888-669-6682. |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration | Revised April 2019 |
+
+T2019-60
 
 INSTRUCTIONS FOR USE
 
@@ -72,33 +74,25 @@ Not included in the kit:
 | Step 1. Make sure that the mixing bottle, cap, lid and oral dosing syringe are dry before use. Remove the lid from the mixing bottle. •Prepare a clean, flat work surface.•Wash and dry your hands before preparing the medicine. |  |
 | Step 2. Fill the oral dosing syringe with 20 mL of drinking water from the glass or cup. •Start with the plunger pushed all the way into the syringe. •Place the tip of the oral dosing syringe all the way into the water and pull back on the plunger to the 20 mL mark on the barrel of the oral dosing syringe. Note: Use a new (single-use) oral dosing syringe to prepare each dose of PROMACTA for oral suspension. |  |
 | Step 3. Place the tip of the oral dosing syringe into the open mixing bottle. Empty water into open mixing bottle by slowly pushing the plunger all the way into the oral dosing syringe. |  |
-| Step 4. Take only the prescribed number of packets for one dose out of the kit. You may need to use more than one packet to prepare the entire dose. 12.5-mg packet • 12.5-mg dose (1 packet) 25-mg packet • 12.5-mg dose (1 packet); Note: See Step 9 for instructions on how to give a 12.5-mg dose using a 25-mg packet. • 25-mg dose (1 packet) • 50-mg dose (2 packets) • 75-mg dose (3 packets) |  |
+| Step 4. Take only the prescribed number of packets for one dose out of the kit. You may need to use more than one packet to prepare the entire dose. |  |
+| 12.5 mg packets Dose Number of 12.5 mg Packets Needed 12.5 mg dose 1 packet 25 mg dose 2 packets 50 mg dose 4 packets 75 mg dose 6 packets |  |
+| 25 mg packets Dose Number of 25 mg Packets Needed 12.5 mg dose 1 packet (Note: See Step 9 for instructions on how to give a 12.5-mg dose using a 25-mg packet.) 25 mg dose 1 packet 50 mg dose 2 packets 75 mg dose 3 packets |  |
 | Step 5. Add the prescribed number of packets to the mixing bottle. •Tap the top of each packet to make sure the contents fall to the bottom.•Cut off the top of the packet with scissors and empty the entire contents of the packet into the mixing bottle.•Make sure not to spill the powder outside the mixing bottle. |  |
 | Step 6. Screw the lid tightly onto the mixing bottle. Make sure the cap is pushed onto the lid. |  |
 | Step 7. Gently and slowly shake the mixing bottle back and forth for at least 20 seconds to mix the water with the powder. •To prevent the mixture from foaming, do not shake the mixing bottle hard. |  |
 | How should I give a dose of PROMACTA for oral suspension? |  |
 | Step 8. Make sure the plunger is pushed all the way into the oral dosing syringe. Pull cap off the mixing bottle lid and insert the tip of the oral dosing syringe into the hole in the lid. |  |
-| Step 9. Transfer the mixture into the oral dosing syringe. The liquid will be dark brown in color. Turn the mixing bottle upside down along with the oral dosing syringe. Pull back the plunger: 12.5-mg packet ountil all the medicine is in the oral dosing syringe (12.5-mg dose) 25-mg packet oto the 10 mL mark on the oral dosing syringe for a 12.5-mg dose only ORountil all the medicine is in the oral dosing syringe (25-mg, 50-mg, or 75-mg dose). |  |
+| Step 9. Transfer the mixture into the oral dosing syringe. The liquid will be dark brown in color. Turn the mixing bottle upside down along with the oral dosing syringe. Pull back the plunger: 12.5-mg packet ountil all the medicine is in the oral dosing syringe (12.5-mg, 25-mg, 50-mg, or 75-mg dose) 25-mg packet oto the 10 mL mark on the oral dosing syringe for a 12.5-mg dose only ORountil all the medicine is in the oral dosing syringe (25-mg, 50-mg, or 75-mg dose). |  |
 | Step 10. Return the mixing bottle to the upright position and remove the oral dosing syringe from the mixing bottle. |  |
-| Step 11. Giving a dose of PROMACTA for oral suspension to a child. •Place the tip of the oral dosing syringe into the child’s mouth against the inside of the child’s cheek.•Slowly push the plunger all the way down to give the entire dose. Make sure the child has time to swallow the medicine. |  |
+| Step 11. Giving a dose of PROMACTA for oral suspension to a child. •Place the tip of the oral dosing syringe into the inside of the child’s cheek.•Slowly push the plunger all the way down to give the entire dose. Make sure the child has time to swallow the medicine. |  |
 | How should I clean up? |  |
 | Step 12. Carefully clean up any spill of the powder or suspension with a damp paper towel or disposable cloth. •To avoid possibly staining your skin, consider using disposable gloves. •Throw away (discard) used paper towel or disposable cloth and gloves in the trash. |  |
 | Step 13. Clean the mixing supplies. •Do not reuse any of the mixture remaining in the mixing bottle.•Throw away (discard) any mixture remaining in the mixing bottle in the trash. Do not pour down the drain.•Throw away (discard) the used oral dosing syringe. Use a new (single-use) oral dosing syringe to prepare each dose of PROMACTA for oral suspension.•Rinse the mixing bottle and lid under running water and air dry. The mixing bottle may become stained from the medicine. This is normal.•Wash hands with soap and water. |  |
-
-How should I store PROMACTA for oral suspension?
-
-- •Store PROMACTA for oral suspension at room temperature between 68°F to 77°F (20°C to 25°C).
-- •After mixing, PROMACTA should be taken right away but may be stored for no more than 30 minutes between 68°F to 77°F (20°C to 25°C).
-  Throw away (discard) the mixture if not used within 30 minutes.
-
-Keep PROMACTA and all medicines out of the reach of children.
-
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+| How should I store PROMACTA for oral suspension? Store PROMACTA for oral suspension at room temperature between 68°F to 77°F (20°C to 25°C).After mixing, PROMACTA should be taken right away but may be stored for no more than 30 minutes between 68°F to 77°F (20°C to 25°C). Throw away (discard) the mixture if not used within 30 minutes. Keep PROMACTA and all medicines out of the reach of children. |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: April 2019 |
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2018-129
-
-Revised: November 2018
+T2019-61

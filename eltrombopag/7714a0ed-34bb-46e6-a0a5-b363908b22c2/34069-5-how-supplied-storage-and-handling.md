@@ -16,7 +16,7 @@ Dispense in original bottle.
 
 Each kit (NDC 0078-0972-61) contains 30 packets: NDC 0078-0972-19.
 
-- The 25-mg for oral suspension is a reddish-brown to yellow powder in unit-dose packets, copackaged in a kit with a 40-cc reconstitution vessel, a threaded closure with syringe-port capability, and 30 single-use oral dosing syringes.
+- The 25-mg for oral suspension is a reddish-brown to yellow powder in unit-dose packets, co-packaged in a kit with a 40-cc reconstitution vessel, a threaded closure with syringe-port capability, and 30 single-use oral dosing syringes.
 
 Each kit (NDC 0078-0697-61) contains 30 packets: NDC 0078-0697-19
 

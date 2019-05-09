@@ -6,7 +6,7 @@ Risk Summary
 
 Available data from a small number of published case reports and postmarketing experience with PROMACTA use in pregnant women are insufficient to assess any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 In animal reproduction and developmental toxicity studies, oral administration of eltrombopag to pregnant rats during organogenesis resulted in embryolethality and reduced fetal weights at maternally toxic doses.
-These effects were observed at doses resulting in exposures that were 6 times the human clinical exposure based on AUC in patients with chronic ITP at 75 mg/day, and 3 times the AUC in patients with chronic hepatitis C at 100 mg/day (see Data).
+These effects were observed at doses resulting in exposures that were six times the human clinical exposure based on AUC in patients with chronic ITP at 75 mg/day, and three times the AUC in patients with chronic hepatitis C at 100 mg/day (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -26,7 +26,7 @@ However, no evidence of major structural malformations was observed.
 In an embryo-fetal development study eltrombopag was administered orally to pregnant rabbits during the period of organogenesis at doses of 30, 80, or 150 mg/kg/day (0.04, 0.3, and 0.5 times, respectively, the human clinical exposure based on AUC in patients with ITP at 75 mg/day and 0.02, 0.1, and 0.3 times, respectively, the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day).
 No evidence of fetotoxicity, embryolethality, or teratogenicity was observed.
 
-In a pre- and post-natal developmental toxicity study in pregnant rats (F0), oral eltrombopag was administered from gestation day 6 through lactation day 20.
+In a pre- and post-natal developmental toxicity study in pregnant rats (F0), oral eltrombopag was administered from gestation Day 6 through lactation Day 20.
 No adverse effects on maternal reproductive function or on the development of the offspring (F1) were observed at doses up to 20 mg/kg/day (2 times the human clinical exposure based on AUC in patients with ITP at 75 mg/day and similar to the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day).
 Eltrombopag was detected in the plasma of offspring (F1).
 The plasma concentrations in pups increased with dose following administration of drug to the F0 dams.
