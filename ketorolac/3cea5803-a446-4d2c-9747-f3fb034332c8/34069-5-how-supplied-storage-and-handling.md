@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ACUVAIL® (ketorolac tromethamine ophthalmic solution) 0.45% is available as a sterile solution supplied in clear, LDPE, single-use vials packaged in 6 foil pouches, 5 vials per pouch:
+ACUVAIL (ketorolac tromethamine ophthalmic solution) 0.45% is available as a sterile solution supplied in clear, LDPE, single-use vials packaged in 3 foil pouches, 10 vials per pouch:
 
-30 Single-Use Vials 0.4 mL each: NDC 0023-3507-30
+30 Single-Use Vials 0.4 mL each: NDC 0023-3507-31
 
 Storage: Store at 15o-30º C (59o-86º F). Store the vials in the pouch, protected from light.
 Fold pouch ends closed.

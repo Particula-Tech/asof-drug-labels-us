@@ -20,7 +20,7 @@ Fold pouch ends closed.
 
 ## 17.3Contact Lens Wear
 
-Patients should be advised that ACUVAIL® solution should not be administered while wearing contact lenses.
+Patients should be advised that ACUVAIL solution should not be administered while wearing contact lenses.
 
 ## 17.4Intercurrent Ocular Conditions
 
@@ -30,13 +30,16 @@ Patients should be advised that if they develop an intercurrent ocular condition
 
 Patients should be advised that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
 
-© 2014 Allergan, Inc.,
+Distributed by: Allergan USA, Inc.
 
-® marks owned by Allergan, Inc.
+Madison, NJ 07940
+
+© 2019 Allergan.
+All rights reserved.
+
+All trademarks are the property of their respective owners.
 
 Patented.
-See: www.allergan.com/products/patent_notices
+See: www.allergan.com/patents
 
-Made in the U.S.A.
-
-72555US12
+v2.0USPI3507
