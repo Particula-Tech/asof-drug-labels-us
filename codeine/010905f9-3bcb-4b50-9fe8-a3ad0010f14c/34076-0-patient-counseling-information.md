@@ -96,5 +96,7 @@ Advise patients to throw the drug in the household trash following these steps.
 1. Distr. by: West-Ward
 2. Pharmaceuticals Corp.
 3. Eatontown, NJ 07724
-4. 10005657/12
-5. Revised September 2018
+4. 
+5. 10005657/12
+6. Revised September 2018
+7. 
