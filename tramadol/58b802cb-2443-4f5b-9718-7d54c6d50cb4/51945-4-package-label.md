@@ -1,4 +1,4 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
 NDC 65162-627-01
 
@@ -8,4 +8,4 @@ Rx only
 
 10 Tablets
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC

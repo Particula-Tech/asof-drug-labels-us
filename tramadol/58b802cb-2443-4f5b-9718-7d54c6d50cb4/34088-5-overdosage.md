@@ -1,11 +1,11 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Clinical Presentation
 
-Acute overdosage with tramadol HCl can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, QT prolongation, hypotension, partial or complete airway obstruction, atypical snoring, seizures, and death.
+Acute overdosage with tramadol hydrochloride can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, QT prolongation, hypotension, partial or complete airway obstruction, atypical snoring, seizures, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
-Deaths due to overdose have been reported with abuse and misuse of tramadol (see WARNINGS; Addiction, Abuse, and Misuse).
+Deaths due to overdose have been reported with abuse and misuse of tramadol [see Warnings and Precautions (5.1); Drug Abuse and Dependence (9.2)].
 Review of case reports has indicated that the risk of fatal overdose is further increased when tramadol is abused concurrently with alcohol or other CNS depressants, including other opioids.
 
 Treatment of Overdose
@@ -19,11 +19,11 @@ For clinically significant respiratory or circulatory depression secondary to tr
 Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to tramadol overdose.
 
 While naloxone will reverse some, but not all, symptoms caused by overdosage with tramadol, the risk of seizures is also increased with naloxone administration.
-In animals, convulsions following the administration of toxic doses of tramadol HCl could be suppressed with barbiturates or benzodiazepines but were increased with naloxone.
+In animals, convulsions following the administration of toxic doses of tramadol hydrochloride could be suppressed with barbiturates or benzodiazepines but were increased with naloxone.
 Naloxone administration did not change the lethality of an overdose in mice.
 Hemodialysis is not expected to be helpful in an overdose because it removes less than 7% of the administered dose in a 4-hour dialysis period.
 
-Because the duration of opioid reversal is expected to be less than the duration of action of tramadol in tramadol HCl, carefully monitor the patient until spontaneous respiration is reliably re-established.
+Because the duration of opioid reversal is expected to be less than the duration of action of tramadol in tramadol hydrochloride, carefully monitor the patient until spontaneous respiration is reliably re-established.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
