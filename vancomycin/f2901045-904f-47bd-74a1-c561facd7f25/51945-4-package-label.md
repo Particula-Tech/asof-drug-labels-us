@@ -26,18 +26,20 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 1 g Vial Label
 
-Sterile powder Rx only
+Sterile powder NDC 0409-6533-11
 
 Vancomycin Hydrochloride for Injection, USP
 
 For intravenous use.
+
+Rx only
 
 Equivalent to 1 g Vancomycin
 
 MUST BE FURTHER DILUTED BEFORE USE.
 SEE INSERT.
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Lyophilized
 
 # PRINCIPAL DISPLAY PANEL - 1 g Vial Tray
 
