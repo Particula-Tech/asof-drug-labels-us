@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category X [See Contraindications (4).]
+Pregnancy Category X [See Contraindications (4).]
 Simvastatin is contraindicated in women who are or may become pregnant.
 Lipid lowering drugs offer no benefit during pregnancy, because cholesterol and cholesterol derivatives are needed for normal fetal development.
 Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hypercholesterolemia therapy.
@@ -19,7 +19,7 @@ Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, r
 However, in studies with another structurally-related statin, skeletal malformations were observed in rats and mice.
 Women of childbearing potential, who require treatment with simvastatin for a lipid disorder, should be advised to use effective contraception.
 For women trying to conceive, discontinuation of simvastatin should be considered.
-If pregnancy occurs, simvastatin should be immediately discontinued. ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ 2 Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996.
+If pregnancy occurs, simvastatin should be immediately discontinued.
 
 ## 8.3 Nursing Mothers
 
@@ -35,7 +35,9 @@ Doses greater than 40 mg have not been studied in this population.
 In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls.
 [See Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Studies (14.2).]
 Adolescent females should be counseled on appropriate contraceptive methods while on simvastatin therapy [see Contraindications (4) and Use in Specific Populations (8.1)].
-Simvastatin has not been studied in patients younger than 10 years of age, nor in pre-menarchal girls.
+Simvastatin has not been studied in patients younger than 10 years of age, nor in pre-menarchal girls. _________________________________
+
+2 Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996.
 
 ## 8.5 Geriatric Use
 
@@ -64,3 +66,11 @@ Caution should be exercised when simvastatin is administered to patients with se
 ## 8.7 Hepatic Impairment
 
 Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].
+
+## 8.8 Chinese Patients
+
+In a clinical trial in which patients at high risk of cardiovascular disease were treated with simvastatin 40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for non-Chinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
+The incidence of myopathy for Chinese patients on simvastatin 40 mg/day or ezetimibe/simvastatin 10/40 mg/day coadministered with extended-release niacin 2 g/day was 1.24%.
+
+Chinese patients may be at higher risk for myopathy, monitor patients appropriately.
+Coadministration of simvastatin with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products is not recommended in Chinese patients [see Warnings and Precautions (5.1), Drug Interactions (7.4)].

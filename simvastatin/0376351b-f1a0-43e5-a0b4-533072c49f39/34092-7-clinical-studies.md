@@ -139,7 +139,7 @@ In a 24-week extension, 144 patients elected to continue therapy with simvastati
 Simvastatin significantly decreased plasma levels of total-C, LDL-C, and Apo B (see Table 8).
 Results from the extension at 48 weeks were comparable to those observed in the base study.
 
-Table 8: Lipid-lowering Effects of Simvastatin in Adolescent Patients with Heterozygous Familial Hypercholesterolemia (Mean Percent Change from Baseline)
+Table 8: Lipid-Lowering Effects of Simvastatin in Adolescent Patients with Heterozygous Familial Hypercholesterolemia (Mean Percent Change from Baseline)
 
 | Dosage | Duration | N |  | Total-C | LDL-C | HDL-C | TG* | Apo B |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

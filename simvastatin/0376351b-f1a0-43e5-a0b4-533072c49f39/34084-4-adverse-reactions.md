@@ -17,9 +17,9 @@ Table 2: Adverse Reactions Reported Regardless of Causality by ≥2% of Patients
 | Digestive System Disorders Constipation Gastritis | 2.2 4.9 | 1.6 3.9 |
 | Endocrine Disorders Diabetes mellitus | 4.2 | 3.6 |
 | Musculoskeletal Disorders Myalgia | 3.7 | 3.2 |
-| Nervous System/Psychiatric Disorders Headache Insomnia Vertigo | 2.5 4 4.5 | 2.1 3.8 4.2 |
+| Nervous System/ Psychiatric Disorders Headache Insomnia Vertigo | 2.5 4 4.5 | 2.1 3.8 4.2 |
 | Respiratory System Disorders Bronchitis Sinusitis | 6.6 2.3 | 6.3 1.8 |
-| Skin/Skin Appendage Disorders Eczema | 4.5 | 3 |
+| Skin / Skin Appendage Disorders Eczema | 4.5 | 3 |
 | Urogenital System Disorders Infection, urinary tract | 3.2 | 3.1 |
 
 Heart Protection Study In the Heart Protection Study (HPS), involving 20,536 patients (age range 40 to 80 years, 25% women, 97% Caucasians, 3% other races) treated with simvastatin 40 mg/day (n=10,269) or placebo (n=10,267) over a mean of 5 years, only serious adverse reactions and discontinuations due to any adverse reactions were recorded.
