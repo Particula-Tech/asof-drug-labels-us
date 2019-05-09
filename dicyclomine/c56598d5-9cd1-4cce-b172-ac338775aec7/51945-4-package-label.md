@@ -10,8 +10,6 @@ dicyclomine hydrochloride USP
 
 100 Capsules
 
-APTALIS™
-
 Principal Display Panel - Bentyl 100 Tablets Label
 
 NDC 58914-013-10
@@ -23,8 +21,6 @@ dicyclomine hydrochloride USP
 20 mg
 
 100 Capsules
-
-APTALIS™
 
 Principal Display Panel - Bentyl 2 mL Ampule Label
 
