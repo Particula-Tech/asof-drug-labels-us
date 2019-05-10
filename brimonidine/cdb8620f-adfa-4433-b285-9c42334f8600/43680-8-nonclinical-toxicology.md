@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.3 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No compound-related carcinogenic effects were observed in either mice or rats following a 21-month and 24-month study, respectively.
 In these studies, dietary administration of brimonidine tartrate at doses up to 2.5 mg/kg/day in mice and 1.0 mg/kg/day in rats achieved ~77 and 118 times, respectively, the plasma Cmax drug concentration estimated in humans treated with one drop Brimonidine tartrate ophthalmic solution 0.2% into both eyes 2 times per day.
