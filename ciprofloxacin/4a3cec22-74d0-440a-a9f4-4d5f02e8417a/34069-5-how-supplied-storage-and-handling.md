@@ -4,10 +4,8 @@ CIPRO XR is available as nearly white to slightly yellowish, film-coated, oblong
 The 500 mg tablet is coded with the word “BAYER” on one side and “C500 QD” on the reverse side.
 The 1000 mg tablet is coded with the word “BAYER” on one side and “C1000 QD” on the reverse side.
 
-Strength NDC Code
-
-Bottles of 50 500 mg 50419-788-01
-
-Bottles of 50 1000 mg 50419-789-01
+1. Strength NDC Code
+2. Bottles of 50 500 mg 50419-788-01
+3. Bottles of 50 1000 mg 50419-789-01
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

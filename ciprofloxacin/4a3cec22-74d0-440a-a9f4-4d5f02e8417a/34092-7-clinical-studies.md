@@ -85,7 +85,7 @@ Table 9: Bacteriological Eradication and Clinical Cure Rates at the Test-of-Cure
 | Clinical Cure at TOC (n/N) 4 | 39/40 (97.5%) | 50/52 (96.2%) |
 | CI [-15.3%, 21.1%] |  |  |
 
-1. 1 Patients excluded from the Per Protocol population were primarily those with no causative organism(s) at baseline or no organism present at ≥ 105 CFU/mL at baseline, inclusion criteria violation, no valid test-of-cure urine culture within the TOC window, an organism resistant to study drug, premature discontinuation due to an adverse event, lost to follow-up, or non-compliance with dosage regimen (among other criteria).
+- 1 Patients excluded from the Per Protocol population were primarily those with no causative organism(s) at baseline or no organism present at ≥ 105 CFU/mL at baseline, inclusion criteria violation, no valid test-of-cure urine culture within the TOC window, an organism resistant to study drug, premature discontinuation due to an adverse event, lost to follow-up, or non-compliance with dosage regimen (among other criteria).
 
 2 n/N = patients with baseline organism(s) eradicated and no new infections or superinfections/total number of patients
 

@@ -203,16 +203,16 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 ### Dilution Techniques
 
-1. Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-   These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-   The MICs should be determined using a standardized test method (broth and/or agar).1,3 The MIC values should be interpreted according to criteria provided in Table 5.
+- Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+  These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+  The MICs should be determined using a standardized test method (broth and/or agar).1,3 The MIC values should be interpreted according to criteria provided in Table 5.
 
 ### Diffusion Techniques
 
-1. Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-   The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-   The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
-   The disc diffusion interpretive criteria are provided in Table 6.
+- Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+  The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+  The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
+  The disc diffusion interpretive criteria are provided in Table 6.
 
 Table 6: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 
@@ -233,8 +233,8 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 
 ### Quality Control
 
-1. Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1, 2 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 7.
-   For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 7 should be achieved.
+- Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1, 2 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 7.
+  For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 7 should be achieved.
 
 Table 7: Acceptable Quality Control Ranges for Ciprofloxacin
 
