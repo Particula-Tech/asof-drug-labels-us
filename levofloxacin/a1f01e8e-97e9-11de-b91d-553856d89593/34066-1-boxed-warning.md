@@ -6,7 +6,7 @@
   - Central nervous system effects [see Warnings and Precautions (5.4)]
 - Fluoroquinolones, including LEVAQUIN®, may exacerbate muscle weakness in patients with myasthenia gravis.
   Avoid LEVAQUIN® in patients with a known history of myasthenia gravis [see Warnings and Precautions (5.5)].
-- Because fluoroquinolones, including LEVAQUIN®, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.14)], reserve LEVAQUIN® for use in patients who have no alternative treatment options for the following indications:
+- Because fluoroquinolones, including LEVAQUIN®, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.15)], reserve LEVAQUIN® for use in patients who have no alternative treatment options for the following indications:
   - Uncomplicated urinary tract infection [see Indications and Usage (1.12)]
   - Acute bacterial exacerbation of chronic bronchitis [see Indications and Usage (1.13)]
   - Acute bacterial sinusitis [see Indications and Usage (1.14)].

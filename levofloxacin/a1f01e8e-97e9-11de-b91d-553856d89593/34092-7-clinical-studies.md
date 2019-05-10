@@ -219,7 +219,7 @@ Prolonged LEVAQUIN® therapy in adults should only be used when the benefit outw
 
 In pediatric patients, the safety of levofloxacin for treatment durations of more than 14 days has not been studied.
 An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendinopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.
-Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [see Warnings and Precautions (5.10) and Use in Specific Populations (8.4)].
+Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [see Warnings and Precautions (5.12) and Use in Specific Populations (8.4)].
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 49 LD50 (~2.7 × 106) spores (range 17 – 118 LD50) of B. anthracis (Ames strain) was conducted.
 The minimal inhibitory concentration (MIC) of levofloxacin for the anthrax strain used in this study was 0.125 mcg/mL.
