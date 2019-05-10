@@ -19,18 +19,18 @@ If the patient requires more than the recommended dosages or other medications c
 Rare instances of anaphylaxis have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
 Cases of serious anaphylaxis, including death, have been reported in individuals receiving triamcinolone acetonide injection, regardless of the route of administration.
 
-Because Kenalog-40 Injection (triamcinolone acetonide injectable suspension, USP) is a suspension, it should not be administered intravenously.
+Because Kenalog-40 Injection and Kenalog-80 Injection (triamcinolone acetonide injectable suspension, USP) are suspensions, they should not be administered intravenously.
 
 Unless a deep intramuscular injection is given, local atrophy is likely to occur.
 (For recommendations on injection techniques, see DOSAGE AND ADMINISTRATION.)
 Due to the significantly higher incidence of local atrophy when the material is injected into the deltoid area, this injection site should be avoided in favor of the gluteal area.
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
-Kenalog-40 Injection is a long-acting preparation, and is not suitable for use in acute stress situations.
-To avoid drug-induced adrenal insufficiency, supportive dosage may be required in times of stress (such as trauma, surgery, or severe illness) both during treatment with Kenalog-40 Injection and for a year afterwards.
+Kenalog-40 Injection and Kenalog-80 Injection are long-acting preparations, and are not suitable for use in acute stress situations.
+To avoid drug-induced adrenal insufficiency, supportive dosage may be required in times of stress (such as trauma, surgery, or severe illness) both during treatment with Kenalog-40 Injection or Kenalog-80 Injection and for a year afterwards.
 
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
-High doses of systemic corticosteroids, including Kenalog-40 Injection, should not be used for the treatment of traumatic brain injury.
+High doses of systemic corticosteroids, including Kenalog-40 Injection and Kenalog-80 Injection, should not be used for the treatment of traumatic brain injury.
 
 ## Cardio-Renal
 
@@ -50,7 +50,7 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 ## Infections
 
-### General
+## General
 
 Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
@@ -59,12 +59,12 @@ These infections may be mild to severe.
 With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
 Corticosteroids may also mask some signs of current infection.
 
-### Fungal Infections
+## Fungal Infections
 
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS: Drug Interactions: Amphotericin B injection and potassium-depleting agents).
 
-### Special Pathogens
+## Special Pathogens
 
 Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, or Toxoplasma.
 
@@ -75,20 +75,20 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 
 Corticosteroids should not be used in cerebral malaria.
 
-### Tuberculosis
+## Tuberculosis
 
 The use of corticosteroids in patients with active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate anti-tuberculosis regimen.
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
-### Vaccination
+## Vaccination
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines cannot be predicted.
 Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison’s disease.
 
-### Viral Infections
+## Viral Infections
 
 Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
 In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
@@ -109,11 +109,11 @@ Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma wit
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should not be used in active ocular herpes simplex.
 
-Adequate studies to demonstrate the safety of Kenalog-40 Injection use by intraturbinal, subconjunctival, sub-Tenons, retrobulbar, and intraocular (intravitreal) injections have not been performed.
+Adequate studies to demonstrate the safety of Kenalog-40 Injection and Kenalog-80 Injection use by intraturbinal, subconjunctival, sub-Tenons, retrobulbar, and intraocular (intravitreal) injections have not been performed.
 Endophthalmitis, eye inflammation, increased intraocular pressure, and visual disturbances including vision loss have been reported with intravitreal administration.
-Administration of Kenalog -40 Injection intraocularly or into the nasal turbinates is not recommended.
+Administration of Kenalog-40 Injection and Kenalog-80 Injection intraocularly or into the nasal turbinates is not recommended.
 
-Intraocular injection of corticosteroid formulations containing benzyl alcohol, such as Kenalog -40 Injection, is not recommended because of potential toxicity from the benzyl alcohol.
+Intraocular injection of corticosteroid formulations containing benzyl alcohol, such as Kenalog-40 Injection, is not recommended because of potential toxicity from the benzyl alcohol.
 
 # PRECAUTIONS
 
@@ -223,8 +223,10 @@ Convulsions have been reported with this concurrent use.
 CYP3A4 inhibitors: Triamcinolone acetonide is a substrate of CYP3A4.
 Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
 Co-administration of other strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin, cobicistat-containing products) with Kenalog-40 Injection may cause increased plasma concentration of triamcinolone leading to adverse reactions.
-(See ADVERSE REACTIONS) During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving triamcinolone acetonide and strong CYP3A4 inhibitors (e.g., ritonavir).
-(See WARNINGS, Endocrine and PRECAUTIONS, Endocrine) Consider the benefit-risk of concomitant use and monitor for systemic corticosteroid side effects.
+(See ADVERSE REACTIONS.)
+During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving triamcinolone acetonide and strong CYP3A4 inhibitors (e.g., ritonavir).
+(See WARNINGS, Endocrine and PRECAUTIONS, Endocrine.)
+Consider the benefit-risk of concomitant use and monitor for systemic corticosteroid side effects.
 
 Digitalis glycosides: Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.
 
@@ -250,7 +252,7 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 ## Pregnancy
 
-### Teratogenic Effects
+## Teratogenic Effects
 
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.

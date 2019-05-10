@@ -7,13 +7,20 @@
   "package_ndcs": [
     "0003-0293-05",
     "0003-0293-20",
-    "0003-0293-28"
+    "0003-0293-28",
+    "0003-0315-05",
+    "0003-0315-20"
   ],
   "products": [
     {
       "form": "INJECTION, SUSPENSION",
       "generic": "triamcinolone acetonide",
       "name": "KENALOG-40"
+    },
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "triamcinolone acetonide",
+      "name": "KENALOG-80"
     }
   ],
   "setid": "cf970688-cd77-b95c-4bd9-c541590e9722",

@@ -4,7 +4,7 @@
 
 NOTE: CONTAINS BENZYL ALCOHOL (see PRECAUTIONS).
 
-The initial dose of Kenalog-40 Injection may vary from 2.5 mg to 100 mg per day depending on the specific disease entity being treated (see Dosage section below).
+The initial dose of Kenalog-40 Injection and Kenalog-80 Injection may vary from 2.5 mg to 100 mg per day depending on the specific disease entity being treated (see Dosage section below).
 However, in certain overwhelming, acute, life-threatening situations, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
 
 IT SHOULD BE EMPHASIZED THAT DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE UNDER TREATMENT AND THE RESPONSE OF THE PATIENT.
@@ -15,7 +15,7 @@ If after long-term therapy the drug is to be stopped, it is recommended that it 
 
 ## Dosage
 
-### SYSTEMIC
+## SYSTEMIC
 
 The suggested initial dose is 60 mg, injected deeply into the gluteal muscle.
 Atrophy of subcutaneous fat may occur if the injection is not properly given.
@@ -27,7 +27,7 @@ Hay fever or pollen asthma: Patients with hay fever or pollen asthma who are not
 In the treatment of acute exacerbations of multiple sclerosis, daily doses of 160 mg of triamcinolone for a week followed by 64 mg every other day for one month are recommended (see PRECAUTIONS: Neuro-Psychiatric).
 
 In pediatric patients, the initial dose of triamcinolone may vary depending on the specific disease entity being treated.
-The range of initial doses is 0.11 to 1.6 mg/kg/day in 3 or 4 divided doses (3.2 to 48 mg/m2bsa/day).
+The range of initial doses is 0.11 mg/kg/day to 1.6 mg/kg/day in 3 or 4 divided doses (3.2 mg/m2bsa/day to 48 mg/m2bsa/day).
 
 For the purpose of comparison, the following is the equivalent milligram dosage of the various glucocorticoids:
 
@@ -41,7 +41,7 @@ For the purpose of comparison, the following is the equivalent milligram dosage 
 These dose relationships apply only to oral or intravenous administration of these compounds.
 When these substances or their derivatives are injected intramuscularly or into joint spaces, their relative properties may be greatly altered.
 
-### LOCAL
+## LOCAL
 
 Intra-articular administration: A single local injection of triamcinolone acetonide is frequently sufficient, but several injections may be needed for adequate relief of symptoms.
 
@@ -51,23 +51,23 @@ Single injections into several joints, up to a total of 80 mg, have been given.
 
 ## Administration
 
-### GENERAL
+## GENERAL
 
 STRICT ASEPTIC TECHNIQUE IS MANDATORY.
 The vial should be shaken before use to ensure a uniform suspension.
 Prior to withdrawal, the suspension should be inspected for clumping or granular appearance (agglomeration).
 An agglomerated product results from exposure to freezing temperatures and should not be used.
-After withdrawal, Kenalog-40 Injection should be injected without delay to prevent settling in the syringe.
+After withdrawal, Kenalog-40 Injection and Kenalog-80 Injection should be injected without delay to prevent settling in the syringe.
 Careful technique should be employed to avoid the possibility of entering a blood vessel or introducing infection.
 
-### SYSTEMIC
+## SYSTEMIC
 
 For systemic therapy, injection should be made deeply into the gluteal muscle (see WARNINGS).
 For adults, a minimum needle length of 1½ inches is recommended.
 In obese patients, a longer needle may be required.
 Use alternative sites for subsequent injections.
 
-### LOCAL
+## LOCAL
 
 For treatment of joints, the usual intra-articular injection technique should be followed.
 If an excessive amount of synovial fluid is present in the joint, some, but not all, should be aspirated to aid in the relief of pain and to prevent undue dilution of the steroid.

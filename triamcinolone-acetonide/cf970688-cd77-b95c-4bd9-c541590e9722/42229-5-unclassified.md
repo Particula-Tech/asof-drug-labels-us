@@ -4,6 +4,6 @@ For Intramuscular or Intra-articular Use Only NOT FOR INTRAVENOUS, INTRADERMAL, 
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-[print code]
+1374114A0
 
-Revised: June 2018
+Revised: April 2019
