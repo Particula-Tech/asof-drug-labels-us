@@ -9,9 +9,12 @@
 | How should I use EVOCLIN Foam? •Use EVOCLIN Foam exactly as your doctor tells you to use it. See the detailed “Instructions for Use” for directions about how to apply EVOCLIN Foam correctly.•Wash your skin with mild soap and water and dry before applying EVOCLIN Foam.•Apply EVOCLIN Foam 1 time each day to the affected skin area. You should apply enough EVOCLIN Foam to cover the entire affected area.•Dispense EVOCLIN Foam directly into the cap. Do not dispense EVOCLIN Foam directly onto your hands or face, because the foam will begin to melt on contact with warm skin.•Wash your hands after applying EVOCLIN Foam. |
 | What should I avoid while using EVOCLIN Foam? •EVOCLIN Foam is flammable. Avoid fire, flames, or smoking during and right after you apply EVOCLIN Foam to your skin.•Avoid getting EVOCLIN Foam in or near your eyes, mouth, lips, or broken skin. If you get EVOCLIN Foam in your eyes, mouth, on lips or broken skin, rinse well with water. |
 | What are possible side effects with EVOCLIN Foam?EVOCLIN Foam may cause serious side effects, including: •Inflammation of the colon (colitis). Diarrhea, bloody diarrhea, and colitis has happened in people who use EVOCLIN Foam. Stop using EVOCLIN Foam and call your doctor right away if you have severe stomach (abdominal) cramps, watery diarrhea, or bloody diarrhea during treatment, and for several weeks after treatment, with EVOCLIN Foam.•Skin irritation. Stop using EVOCLIN Foam and call your doctor if you develop skin irritation during treatment with EVOCLIN Foam. The most common side effects of EVOCLIN Foam include headache and application site reactions (including burning, itching, and dryness).These are not all the possible side effects of EVOCLIN Foam. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
-| How should I store EVOCLIN Foam? •Store EVOCLIN Foam at room temperature between 20° to 25°C (68° to 77°F).•Keep EVOCLIN Foam away from heat. Never throw the can into a fire, even if the can is empty.•Do not store EVOCLIN Foam at temperatures above 120°F (49°C).•Do not break through (puncture) the EVOCLIN Foam can. Keep EVOCLIN Foam and all medicines out of the reach of children. |
+| How should I store EVOCLIN Foam? •Store EVOCLIN Foam at room temperature between 68°F to 77°F (20°C to 25°C).•Keep EVOCLIN Foam away from heat. Never throw the can into a fire, even if the can is empty.•Do not store EVOCLIN Foam at temperatures above 120°F (49°C).•Do not break through (puncture) the EVOCLIN Foam can. Keep EVOCLIN Foam and all medicines out of the reach of children. |
 | General information about the safe and effective use of EVOCLIN Foam.Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflet. Do not use EVOCLIN Foam for a condition for which it was not prescribed. Do not give EVOCLIN Foam to other people, even if they have the same symptoms you have. It may harm them. You can also ask your pharmacist or doctor for information about EVOCLIN Foam that is written for health professionals. |
-| What are the ingredients in EVOCLIN Foam?Active ingredient: clindamycin phosphateInactive ingredients: cetyl alcohol, ethanol (58%), polysorbate 60, potassium hydroxide, propylene glycol, purified water, and stearyl alcohol. The can is pressurized with a hydrocarbon (propane/butane) propellant. Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A. |
+| What are the ingredients in EVOCLIN Foam?Active ingredient: clindamycin phosphateInactive ingredients: cetyl alcohol, ethanol (58%), polysorbate 60, potassium hydroxide, propylene glycol, purified water, and stearyl alcohol. The can is pressurized with a hydrocarbon (propane/butane) propellant. |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: 4/2018
 
 Instructions for Use
 
@@ -30,7 +33,7 @@ Do not use EVOCLIN Foam in your eyes, mouth or vagina.
 
 How should I store EVOCLIN Foam?
 
-- •Store EVOCLIN Foam at room temperature between 20° to 25°C (68° to 77°F).
+- •Store EVOCLIN Foam at room temperature between 68°F to 77°F (20°C to 25°C).
 - •Keep EVOCLIN Foam away from heat.
   Never throw the can into a fire, even if the can is empty.
 - •Do not store EVOCLIN Foam at temperatures above 120°F (49°C).
@@ -38,7 +41,7 @@ How should I store EVOCLIN Foam?
 
 Keep EVOCLIN Foam and all medicines out of the reach of children.
 
-The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
+The Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 EVOCLIN is a registered trademark of Stiefel Laboratories, Inc., a GSK Company, exclusively licensed to the Mylan Companies.
 

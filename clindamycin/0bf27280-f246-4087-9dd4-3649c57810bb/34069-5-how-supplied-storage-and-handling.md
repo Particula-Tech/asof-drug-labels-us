@@ -21,4 +21,4 @@ Contents under pressure.
 Do not puncture or incinerate.
 Do not expose to heat or store at temperature above 120°F (49°C).
 
-Keep this and all medication out of the reach of children.
+Keep out of reach of children.
