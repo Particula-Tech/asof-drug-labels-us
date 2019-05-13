@@ -4,12 +4,18 @@
 
 Risk Summary
 
-The data with XOLAIR use in pregnant women are insufficient to inform on drug associated risk.
-Monoclonal antibodies, such as omalizumab, are transported across the placenta in a linear fashion as pregnancy progresses; therefore, potential effects on a fetus are likely to be greater during the second and third trimesters of pregnancy.
+A registry study of XOLAIR exposure during pregnancy showed no increase in the rate of major birth defects or miscarriage.
+There was an increased rate of low birth weight among registry infants compared to infants in the other cohorts, despite average gestational age at birth; however, women taking XOLAIR during pregnancy also had morecongenital anomalies in comparison with a disease matched (i.e. moderate and severe asthma, which makes it difficult to determine whether the low birth weight is due to the drug or the disease severity [see Data].
+There are risks associated with poorly or moderately controlled asthma in pregnancy) external cohort comparator (EXPECT:8.1% vs Comparator:8.9%) [see Data].
+This study cannot definitively establish the absence of any risk, however, because of methodological limitations [see Clinical Considerations].
 
-In animal reproduction studies, no evidence of fetal harm was observed in Cynomolgus monkeys with subcutaneous doses of omalizumab up to approximately 10 times the maximum recommended human dose (MRHD) [see Animal Data].
+Human IgG antibodies are known to crossk the placental barrier; therefore, XOLAIR may be transmitted from the mother to the developing fetus.
 
-In the US general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+In animal reproduction studies, no evidence of fetal harm was observed in Cynomolgus monkeys with subcutaneous doses of omalizumab up to approximately 10 times the maximum recommended human dose (MRHD) [see Data].
+
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -19,6 +25,19 @@ In women with poorly or moderately controlled asthma, evidence demonstrates that
 The level of asthma control should be closely monitored in pregnant women and treatment adjusted as necessary to maintain optimal control.
 
 Data
+
+Human Data
+
+A prospective cohort pregnancy exposure registry study (EXPECT) conducted in the US from 2006 to 2018, included 250 pregnant women with asthma treated with XOLAIR.
+Of these, 246 patients were exposed to XOLAIR in the first trimester of pregnancy, and the78.4% (196/250) of women were exposed to XOLAIR at least once during all 3 trimesters of pregnancy, with an overall median exposure duration was 8.7 months.
+
+The registry findings for applicable mother and infant subgroups were compared to age-adjusted frequencies in a disease matched external cohort of 1,153 pregnant women with asthma (without exposure to XOLAIR) identified from healthcare databases of residents in the Canadian province of Quebec, and referred to as the Quebec External Comparator Cohort ("comparator cohort").
+
+Among applicable registry infants, the prevalence of major congenital anomalies (8.1%) was similar to that for infants in the comparator cohort (8.9%).
+Among applicable registry pregnancies, 99.1% led to live births, similar to 99.3% for the comparator cohort.
+There was an increased rate of low birth weight among registry infants (13.7%) as compared to the comparator cohort (9.8%); however, women taking XOLAIR during pregnancy also had more severe asthma, which makes it difficult to determine whether the low birth weight is due to the drug or the disease severity.
+
+The registry study cannot definitively establish the absence of any risk because of methodological limitations, including the observational nature of the registry, small sample size, and potential differences between the registry population and the comparator cohort.
 
 Animal Data
 
@@ -30,12 +49,18 @@ Omalizumab did not elicit adverse effects on fetal or neonatal growth when admin
 
 Risk Summary
 
-There is no information regarding the presence of omalizumab in human milk, the effects on the breastfed infant, or the effects on milk production.
+There is no information regarding the presence of omalizumab in human milk, or the effects on milk production.
 However, omalizumab is a human monoclonal antibody (IgG1 kappa), and immunoglobulin (IgG) is present in human milk in small amounts.
-In Cynomolgus monkeys, neonatal serum levels of omalizumab after in utero exposure and 28 days of nursing were between 11% and 94% of the maternal serum level.
-Levels of omalizumab in milk were 0.15% of maternal serum concentration.
+
+The majority of infants (80.9%, 186/230) in the pregnancy exposure registry were breastfed.
+Events categorized as "infections and infestations" were not significantly increased in infants who were exposed to XOLAIR through breastfeeding compared with infants who were not breastfed, or infants who were breastfed without exposure to XOLAIR.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for XOLAIR and any potential adverse effects on the breastfed child from omalizumab or from the underlying maternal condition.
+
+Animal Data
+
+In Cynomolgus monkeys, neonatal serum levels of omalizumab after in utero exposure and 28 days of nursing were between 11% and 94% of the maternal serum level.
+Levels of omalizumab in milk were 0.15% of maternal serum concentration.
 
 ## 8.4 Pediatric Use
 
