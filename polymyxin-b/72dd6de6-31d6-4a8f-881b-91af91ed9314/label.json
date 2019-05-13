@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202766"
+  ],
+  "inn": "polymyxin-b",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-367-41",
+    "63323-367-44"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "polymyxin b sulfate",
+      "name": "Polymyxin B"
+    }
+  ],
+  "setid": "72dd6de6-31d6-4a8f-881b-91af91ed9314",
+  "source": "dailymed"
+}
