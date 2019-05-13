@@ -27,8 +27,12 @@ Rx only
 
 Distributed by: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
+TRISENOX® is a registered trademark of Cephalon, Inc. or its affiliates.
+
+US Patent Nos. 6,723,351; 6,855,339; 6,861,076; 6,884,439; 6,982,096; 8,273,379.
+
 ©2000-2018 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd., or its affiliates.
 
 All rights reserved.
 
-TRI-012
+TRI-011
