@@ -4,6 +4,10 @@
 
 Meropenem is an antibacterial drug [see Microbiology (12.4)].
 
+## 12.2 Pharmacodynamics
+
+The percentage of time of a dosing interval that unbound plasma concentration of meropenem exceeds the meropenem minimum inhibitory concentration (MIC) against the infecting organism has been shown to best correlate with efficacy in animal and in vitro models of infection.
+
 ## 12.3 Pharmacokinetics
 
 Plasma Concentrations
@@ -47,13 +51,15 @@ Table 5: Meropenem Concentrations in Selected Tissues (Highest Concentrations Re
 | CSF (inflamed) | 20 mg/kgin pediatric patients of age 5 months to 8 years 40 mg/kgin pediatric patients of age 1 month to 15 years | 8 5 | 1.1 (2 hours) 3.3 (3 hours) | 0.2–2.8 0.9–6.5 |
 | CSF (uninflamed) | 1 | 4 | 0.2 (2 hours) | 0.1–0.3 |
 
+Elimination
+
+In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
+
 Metabolism
 
 There is one metabolite of meropenem that is microbiologically inactive.
 
 Excretion
-
-In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
 
 Meropenem is primarily excreted unchanged by the kidneys.
 Approximately 70% (50% – 75%) of the dose is excreted unchanged within 12 hours.
@@ -65,7 +71,7 @@ Urinary concentrations of meropenem in excess of 10 mcg/mL are maintained for up
 
 Specific Populations
 
-Renal Impairment
+Patients with Renal Impairment
 
 Pharmacokinetic studies with MERREM IV in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
 Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
@@ -73,7 +79,7 @@ Dosage adjustments are necessary in subjects with renal impairment (creatinine c
 Meropenem IV is hemodialyzable.
 However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage (10)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 A pharmacokinetic study with MERREM IV in patients with hepatic impairment has shown no effects of liver disease on the pharmacokinetics of meropenem.
 
@@ -102,8 +108,7 @@ Table 6: Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of 
 Drug Interactions
 
 Probenecid competes with meropenem for active tubular secretion and thus inhibits the renal excretion of meropenem.
-Following administration of probenecid with meropenem, the mean systemic exposure increased 56% and the mean elimination half-life increased 38%.
-Co-administration of probenecid with meropenem is not recommended.
+Following administration of probenecid with meropenem, the mean systemic exposure increased 56% and the mean elimination half-life increased 38% [see Drug Interactions (7.1)].
 
 ## 12.4 Microbiology
 
