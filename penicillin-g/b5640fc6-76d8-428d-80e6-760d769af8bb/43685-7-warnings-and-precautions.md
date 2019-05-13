@@ -50,11 +50,14 @@ Other serious complications of suspected intravascular administration which have
 The above-described severe effects and complications have most often occurred in infants and small children.
 Prompt consultation with an appropriate specialist is indicated if any evidence of compromise of the blood supply occurs at, proximal to, or distal to the site of injection.1–9 (See PRECAUTIONS, and DOSAGE AND ADMINISTRATION sections.)
 
-Do not inject intravenously or admix with other intravenous solutions.
+FOR DEEP INTRAMUSCULAR INJECTION ONLY.
 There have been reports of inadvertent intravenous administration of penicillin G benzathine which has been associated with cardiorespiratory arrest and death.
+Therefore, do not inject intravenously or admix with other intravenous solutions.
 (See DOSAGE AND ADMINISTRATION section.)
 
+Administer by DEEP INTRAMUSCULAR INJECTION ONLY in the upper, outer quadrant of the buttock (dorsogluteal) or the ventrogluteal site.
 Quadriceps femoris fibrosis and atrophy have been reported following repeated intramuscular injections of penicillin preparations into the anterolateral thigh.
+Therefore, administration in the anterolateral thigh is not recommended.
 
 # PRECAUTIONS
 
