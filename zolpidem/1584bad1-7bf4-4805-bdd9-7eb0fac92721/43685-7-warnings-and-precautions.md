@@ -8,10 +8,12 @@ Dosage adjustments of zolpidem tartrate tablets and of other concomitant CNS dep
 The use of zolpidem tartrate tablets with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see Dosage and Administration (2.3)].
 
 The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate tablets are taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if coadministered with other CNS depressants or alcohol; or if coadministered with other drugs that increase the blood levels of zolpidem.
-Patients should be warned against driving and other activities requiring complete mental alertness if zolpidem tartrate tablets are taken in these circumstances [see Dosage and Administration (2), Clinical Studies (14.3)].
+Patients should be warned against driving and other activities requiring complete mental alertness if zolpidem tartrate tablets are taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.3)].
 
-Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
+Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness, and impaired driving the morning after therapy.
 In order to minimize this risk a full night of sleep (7 to 8 hours) is recommended.
+
+Because zolpidem can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
 
 ## 5.2 Need to Evaluate for Comorbid Diagnoses
 
@@ -42,7 +44,7 @@ Although behaviors such as "sleep-driving" have occurred with zolpidem alone at 
 Due to the risk to the patient and the community, discontinuation of zolpidem should be strongly considered for patients who report a "sleep-driving" episode.
 
 Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
-As with "sleep-driving", patients usually do not remember these events.
+As with "sleep-driving," patients usually do not remember these events.
 Amnesia, anxiety and other neuro-psychiatric symptoms may also occur.
 
 It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder.
@@ -63,7 +65,7 @@ The risk of respiratory depression should be considered prior to prescribing zol
 
 ## 5.7 Precipitation of Hepatic Encephalopathy
 
-Drug affecting GABA receptors, such as zolpidem tartrate, have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
+Drugs affecting GABA receptors, such as zolpidem tartrate, have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
 In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
 Avoid zolpidem tartrate tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
@@ -71,8 +73,3 @@ Avoid zolpidem tartrate tablets use in patients with severe hepatic impairment a
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
 Monitor patients for tolerance, abuse, and dependence [see Drug Abuse and Dependence (9.2, 9.3)].
-
-## 5.9 Severe Injuries
-
-Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
-Severe injuries such as hip fractures and intracranial hemorrhage have been reported.

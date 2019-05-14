@@ -80,14 +80,14 @@ Talk to your healthcare provider about the best way to feed your baby while you 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
 Medicines can interact with each other, sometimes causing serious side effects.
-Do not take zolpidem tartrate tablets with other medicines that can make you sleepy unless your healthcare provider tells you to.
+Do not take zolpidem tartrate tablets with other medicines that can make you sleepy unlessyour healthcare provider tells you to.
 
 Know the medicines you take.
 Keep a list of your medicines with you to show your healthcare provider and pharmacist each time you get a new medicine.
 
 How should I take zolpidem tartrate tablets?
 
-- See"What is the most important information I should know about zolpidem tartrate tablets?"
+- See "What is the most important information I should know about zolpidem tartrate tablets?"
 - Take zolpidem tartrate tablets exactly as prescribed.
   Only take 1 zolpidem tartrate tablet a night if needed.
 - Do not take zolpidem tartrate tablets if you drank alcohol that evening or before bed.
@@ -102,7 +102,7 @@ What are the possible side effects of zolpidem tartrate tablets?
 Zolpidem tartrate tablets may cause serious side effects, including:
 
 - getting out of bed while not being fully awake and do an activity that you do not know you are doing.
-  See "What is the most important information I should know about zolpidem tartrate tablets?
+  See " What is the most important information I should know about zolpidem tartrate tablets?
   "
 - abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
@@ -181,15 +181,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Or
+Manufactured for
 
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-For:
-
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8071031 Revised November 2018
+8075161 Revised April 2019

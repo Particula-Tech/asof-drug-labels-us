@@ -10,7 +10,7 @@ Oral administration of zolpidem to pregnant rats and rabbits did not indicate a 
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -83,7 +83,7 @@ The dose of zolpidem tartrate tablets in elderly patients is 5 mg to minimize ad
 ## 8.6 Gender Difference in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
-Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
+C max and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
 Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended initial dose of zolpidem for adult women is 5 mg, and the recommended dose for adult men is 5 or 10 mg.
 
 In geriatric patients, clearance of zolpidem is similar in men and women.

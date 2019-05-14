@@ -12,6 +12,7 @@ CNS-Depressant Effects and Next-Day Impairment
 Tell patients that zolpidem has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
 Tell patients to wait for at least 8 hours after dosing before driving or engaging in other activities requiring full mental alertness.
 Inform patients that impairment can be present despite feeling fully awake.
+Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients.
 
 Severe Anaphylactic and Anaphylactoid Reactions
 
@@ -56,15 +57,10 @@ A lactating woman may consider pumping and discarding breastmilk during treatmen
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Or
+Manufactured For:
 
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-For:
-
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8071030 Revised November 2018
+8075160 Revised April 2019
