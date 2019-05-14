@@ -13,7 +13,7 @@ Abrupt reversal of opioid depression may result in nausea, vomiting, sweating, t
 Opioid Dependence
 
 Abrupt reversal of opioid effects in persons who are physically dependent on opioids may precipitate an acute withdrawal syndrome which may include, but not limited to the following signs and symptoms: body aches, fever, sweating, runny nose, sneezing, piloerection, yawning, weakness, shivering or trembling, nervousness, restlessness or irritability, diarrhea, nausea or vomiting, abdominal cramps, increased blood pressure, and tachycardia.
-In the neonate, opioid withdrawal may also include: convulsions, excessive crying, and hyperactive reflexes (See WARNINGS).
+In the neonate, opioid withdrawal may also include: convulsions, excessive crying, and hyperactive reflexes (see WARNINGS).
 
 Adverse events associated with the postoperative use of naloxone hydrochloride injection are listed by organ system and in decreasing order of frequency as follows:
 
