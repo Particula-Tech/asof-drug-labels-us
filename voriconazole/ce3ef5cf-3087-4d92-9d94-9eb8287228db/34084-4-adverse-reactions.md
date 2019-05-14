@@ -42,7 +42,7 @@ Study 305 evaluated the effects of oral voriconazole (200 patients) and oral flu
 The rate of discontinuation from voriconazole study medication in Study 305 due to adverse events was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 4: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+Table 4: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in Therapeutic Studies Population, Studies 307/602–608 Combined, or Study 305.
 Possibly Related to Therapy or Causality UnknownStudy 307/602: IA; Study 608: candidemia; Study 305: EC
 
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |

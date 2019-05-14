@@ -172,9 +172,9 @@ The final VFEND solution must be infused over 1 to 3 hours at a maximum rate of 
 
 Table 3: Required Volumes of 10 mg/mL VFEND Concentrate
 
-| Body Weight (kg) | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 8 mg/kg dose (number of vials) | 9 mg/kg dose (number of vials) |
+| 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 8 mg/kg dose (number of vials) | 9 mg/kg dose (number of vials) |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Volume of VFEND Concentrate (10 mg/mL) required for: |  |  |  |  |
+| Body Weight (kg) | Volume of VFEND Concentrate (10 mg/mL) required for: |  |  |  |  |
 | 10 | - | 4 mL (1) | - | 8 mL (1) | 9 mL (1) |
 | 15 | - | 6 mL (1) | - | 12 mL (1) | 13.5 mL (1) |
 | 20 | - | 8 mL (1) | - | 16 mL (1) | 18 mL (1) |
