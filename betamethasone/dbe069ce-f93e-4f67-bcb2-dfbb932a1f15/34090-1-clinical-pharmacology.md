@@ -15,7 +15,7 @@ However, similar blanching scores do not necessarily imply therapeutic equivalen
 
 No pharmacokinetic trials have been conducted with DIPROLENE Lotion.
 
-The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings [see Dosage and Administration (2)].
+The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
 
 Topical corticosteroids can be absorbed through normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
