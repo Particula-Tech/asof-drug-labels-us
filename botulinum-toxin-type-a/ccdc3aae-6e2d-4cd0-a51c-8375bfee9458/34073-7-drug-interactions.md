@@ -1,10 +1,18 @@
 # 7 DRUG INTERACTIONS
 
-No formal drug interaction studies have been conducted with XEOMIN.
+## 7.1 Aminoglycosides and Other Agents Interfering with Neuromuscular Transmission
 
-Co-administration of XEOMIN and aminoglycoside antibiotics or other agents interfering with neuromuscular transmission, e.g., tubocurarine-type muscle relaxants, should only be performed with caution as these agents may potentiate the effect of the toxin.
+Co-administration of XEOMIN and aminoglycosides or other agents interfering with neuromuscular transmission (e.g., tubocurarine-type muscle relaxants) should only be performed with caution as these agents may potentiate the effect of the toxin.
+
+## 7.2 Anticholinergic Drugs
+
 Use of anticholinergic drugs after administration of XEOMIN may potentiate systemic anticholinergic effects.
+
+## 7.3 Other Botulinum Neurotoxin Products
 
 The effect of administering different botulinum toxin products at the same time or within several months of each other is unknown.
 Excessive neuromuscular weakness may be exacerbated by administration of another botulinum toxin prior to the resolution of the effects of a previously administered botulinum toxin.
+
+## 7.4 Muscle Relaxants
+
 Excessive weakness may also be exaggerated by administration of a muscle relaxant before or after administration of XEOMIN.

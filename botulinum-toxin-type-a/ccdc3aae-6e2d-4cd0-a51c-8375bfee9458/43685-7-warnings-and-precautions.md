@@ -16,7 +16,14 @@ Patients or caregivers should be advised to seek immediate medical care if swall
 The potency Units of XEOMIN are specific to the preparation and assay method utilized.
 They are not interchangeable with the other preparations of botulinum toxin products and, therefore, Units of biological activity of XEOMIN cannot be compared to or converted into Units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
-## 5.3 Dysphagia and Breathing Difficulties
+## 5.3 Hypersensitivity Reactions
+
+Serious hypersensitivity reactions have been reported with botulinum toxin products.
+Hypersensitivity reactions include anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea.
+If serious and/or immediate hypersensitivity reactions occur, discontinue further injection of XEOMIN and institute appropriate medical therapy immediately.
+The use of XEOMIN in patients with a known hypersensitivity to any botulinum neurotoxin or to any of the excipients (human albumin, sucrose), could lead to a life-threatening allergic reaction [see Contraindications (4)].
+
+## 5.4 Dysphagia and Breathing Difficulties
 
 Treatment with XEOMIN and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
@@ -39,18 +46,19 @@ These reactions can occur within hours to weeks after injection with botulinum t
 
 Patients with neuromuscular disorders with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis, or neuromuscular junctional disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) may be at increased risk for severe dysphagia and respiratory compromise from typical doses of XEOMIN.
 
-## 5.4 Corneal Exposure, Corneal Ulceration, and Ectropion in Patients Treated for Blepharospasm
+## 5.5 Corneal Exposure, Corneal Ulceration, and Ectropion in Patients Treated for Blepharospasm
 
-Reduced blinking from injection of botulinum toxin products in the orbicularis muscle can lead to corneal exposure, persistent epithelial defect and corneal ulceration, especially in patients with VII nerve disorders.
-Careful testing of corneal sensation in eyes previously operated upon, avoidance of injection into the lower lid area to avoid ectropion, and vigorous treatment of any epithelial defect should be employed.
+Reduced blinking from injection of botulinum toxin products in the orbicularis muscle can lead to corneal exposure, persistent epithelial defect, and corneal ulceration, especially in patients with VII nerve disorders.
+As patients with previous eye surgery may have reduced corneal sensation, carefully assess corneal sensation before treatment.
+Vigorous treatment of any corneal epithelial defect should be employed.
 This may require protective drops, ointment, therapeutic soft contact lenses, or closure of the eye by patching or other means.
 Because of its anticholinergic effects, XEOMIN should be used with caution in patients at risk of developing narrow angle glaucoma.
-To prevent ectropion, botulinum toxin products should not be injected into the medial lower eyelid area.
+To decrease the risk for ectropion, XEOMIN should not be injected into the medial lower eyelid area.
 
 Ecchymosis easily occurs in the soft tissues of the eyelid.
-Immediate gentle pressure at the injection site can limit that risk.
+Immediate gentle pressure at the injection site can limit the size.
 
-## 5.5 Risk of Ptosis in Patients Treated for Glabellar Lines
+## 5.6 Risk of Ptosis in Patients Treated for Glabellar Lines
 
 Do not exceed the recommended dosage and frequency of administration of XEOMIN.
 
@@ -59,9 +67,9 @@ In order to reduce the complication of ptosis the following steps should be take
 - Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
 - Corrugator injections should be placed at least 1 cm above the bony supraorbital ridge.
 
-## 5.6 Human Albumin and Transmission of Viral Diseases
+## 5.7 Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
-Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.
-A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) is also considered extremely remote.
-No cases of transmission of viral diseases or CJD have ever been reported for albumin.
+Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).
+There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), but if that risk actually exists, the risk of transmission would also be considered extremely remote.
+No cases of transmission of viral diseases, CJD, or vCJD have ever been identified for licensed albumin or albumin contained in other licensed products.

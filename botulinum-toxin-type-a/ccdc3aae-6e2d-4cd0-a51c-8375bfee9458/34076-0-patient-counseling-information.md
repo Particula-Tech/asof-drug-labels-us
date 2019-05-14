@@ -2,16 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Provide a copy of the Medication Guide and review the contents with the patient.
+Swallowing, Speaking, or Breathing Difficulties or Other Unusual Symptoms
 
-## 17.1 General
+Advise patients to inform their healthcare provider if they develop any unusual symptoms, including difficulty with swallowing, speaking, or breathing, or if any existing symptom worsens [see Boxed Warning and Warnings and Precautions (5.1, 5.4)].
+Inform patients of the risk of aspiration.
 
-Patients or caregivers should be advised to seek immediate medical care if swallowing, speech or respiratory disorders arise.
+Ability to Operate Machinery or Vehicles
 
-Previously immobile or sedentary patients should be reminded to gradually resume activities following the injection of XEOMIN.
+Counsel patients that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
-Patients should be informed that injections of XEOMIN may cause dyspnea, or mild to severe dysphagia, with the risk of aspiration [see Boxed Warning and Warnings and Precautions (5.1, 5.3)].
+Corneal Exposure, Corneal Ulceration, and Ectropion in Patients Treated for Blepharospasm
 
-Patients should be counseled that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
-
-Patients should be informed that injections of XEOMIN may cause reduced blinking or effectiveness of blinking, and that they should seek immediate medical attention if eye pain or irritation occurs following treatment.
+Inform patients that injections of XEOMIN may cause reduced blinking or effectiveness of blinking, and that they should seek immediate medical attention if eye pain or irritation occurs following treatment [see Warnings and Precautions (5.5)].
