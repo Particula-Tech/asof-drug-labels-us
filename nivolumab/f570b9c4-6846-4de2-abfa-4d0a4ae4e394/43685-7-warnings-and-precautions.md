@@ -7,13 +7,13 @@ Fatal cases have been reported.
 
 Monitor patients for signs with radiographic imaging and for symptoms of pneumonitis.
 Administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents for moderate (Grade 2) or more severe (Grade 3-4) pneumonitis, followed by corticosteroid taper.
-Permanently discontinue OPDIVO for severe (Grade 3) or life-threatening (Grade 4) pneumonitis and withhold OPDIVO until resolution for moderate (Grade 2) pneumonitis [see Dosage and Administration (2.11)].
+Permanently discontinue OPDIVO for severe (Grade 3) or life-threatening (Grade 4) pneumonitis and withhold OPDIVO until resolution for moderate (Grade 2) pneumonitis [see Dosage and Administration (2.2)].
 
 ### OPDIVO as a Single Agent
 
 In patients receiving OPDIVO as a single agent, immune-mediated pneumonitis occurred in 3.1% (61/1994) of patients.
 The median time to onset of immune-mediated pneumonitis was 3.5 months (range: 1 day to 22.3 months).
-Immune-mediated pneumonitis led to permanent discontinuation of OPDIVO in 1.1%, and withholding of OPDIVO in 1.3% of patients.
+Immune-mediated pneumonitis led to permanent discontinuation of OPDIVO in 1.1% and withholding of OPDIVO in 1.3% of patients.
 Approximately 89% of patients with pneumonitis received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 26 days (range: 1 day to 6 months).
 Complete resolution of symptoms following corticosteroid taper occurred in 67% of patients.
 Approximately 8% of patients had recurrence of pneumonitis after re-initiation of OPDIVO.
@@ -49,10 +49,10 @@ Administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents 
 Administer corticosteroids at a dose of 0.5 to 1 mg/kg/day prednisone equivalents followed by corticosteroid taper for moderate (Grade 2) colitis of more than 5 days duration; if worsening or no improvement occurs despite initiation of corticosteroids, increase dose to 1 to 2 mg/kg/day prednisone equivalents.
 
 Withhold OPDIVO for moderate or severe (Grade 2 or 3) colitis.
-Permanently discontinue OPDIVO for life-threatening (Grade 4) or for recurrent colitis upon re-initiation of OPDIVO [see Dosage and Administration (2.11)].
+Permanently discontinue OPDIVO for life-threatening (Grade 4) or for recurrent colitis upon re-initiation of OPDIVO [see Dosage and Administration (2.2)].
 
 When administered in combination with ipilimumab, withhold OPDIVO and ipilimumab for moderate colitis (Grade 2).
-Permanently discontinue OPDIVO and ipilimumab for severe or life-threatening (Grade 3 or 4) colitis or for recurrent colitis [see Dosage and Administration (2.11)].
+Permanently discontinue OPDIVO and ipilimumab for severe or life-threatening (Grade 3 or 4) colitis or for recurrent colitis [see Dosage and Administration (2.2)].
 
 ### OPDIVO as a Single Agent
 
@@ -93,9 +93,9 @@ Monitor patients for abnormal liver tests prior to and periodically during treat
 Administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by corticosteroid taper for severe (Grade 3) or life-threatening (Grade 4) transaminase elevations, with or without concomitant elevation in total bilirubin.
 Administer corticosteroids at a dose of 0.5 to 1 mg/kg/day prednisone equivalents for moderate (Grade 2) transaminase elevations.
 
-For patients without hepatocellular carcinoma (HCC): withhold OPDIVO for moderate (Grade 2) immune-mediated hepatitis and permanently discontinue OPDIVO for severe (Grade 3) or life-threatening (Grade 4) immune-mediated hepatitis [see Dosage and Administration (2.11)].
+For patients without hepatocellular carcinoma (HCC): withhold OPDIVO for moderate (Grade 2) immune-mediated hepatitis and permanently discontinue OPDIVO for severe (Grade 3) or life-threatening (Grade 4) immune-mediated hepatitis [see Dosage and Administration (2.2)].
 
-For patients with HCC, permanently discontinue, withhold, or continue OPDIVO based on severity of immune-mediated hepatitis and baseline AST and ALT levels as described in Table 1 [see Dosage and Administration (2.11)].
+For patients with HCC, permanently discontinue, withhold, or continue OPDIVO based on severity of immune-mediated hepatitis and baseline AST and ALT levels as described in Table 3 [see Dosage and Administration (2.2)].
 In addition, administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by corticosteroid taper when OPDIVO is withheld or discontinued due to immune-mediated hepatitis.
 
 ### OPDIVO as a Single Agent
@@ -137,7 +137,7 @@ OPDIVO can cause immune-mediated hypophysitis.
 Monitor patients for signs and symptoms of hypophysitis.
 Administer hormone replacement as clinically indicated and corticosteroids at a dose of 1 mg/kg/day prednisone equivalents followed by corticosteroid taper for moderate (Grade 2) or greater hypophysitis.
 Withhold OPDIVO for moderate (Grade 2) or severe (Grade 3).
-Permanently discontinue OPDIVO for life-threatening (Grade 4) hypophysitis [see Dosage and Administration (2.11)].
+Permanently discontinue OPDIVO for life-threatening (Grade 4) hypophysitis [see Dosage and Administration (2.2)].
 
 OPDIVO as a Single Agent
 
@@ -167,7 +167,7 @@ Approximately 72% of patients with hypophysitis received hormone replacement the
 OPDIVO can cause immune-mediated adrenal insufficiency.
 Monitor patients for signs and symptoms of adrenal insufficiency.
 Administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by a corticosteroid taper for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency.
-Withhold OPDIVO for moderate (Grade 2) and permanently discontinue OPDIVO for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency [see Dosage and Administration (2.11)].
+Withhold OPDIVO for moderate (Grade 2) and permanently discontinue OPDIVO for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency [see Dosage and Administration (2.2)].
 
 OPDIVO as a Single Agent
 
@@ -238,7 +238,7 @@ Of the 80 patients with RCC or CRC who developed hyperthyroidism, approximately 
 OPDIVO can cause Type 1 diabetes mellitus.
 Monitor for hyperglycemia.
 Withhold OPDIVO in cases of severe (Grade 3) hyperglycemia until metabolic control is achieved.
-Permanently discontinue OPDIVO for life-threatening (Grade 4) hyperglycemia [see Dosage and Administration (2.11)].
+Permanently discontinue OPDIVO for life-threatening (Grade 4) hyperglycemia [see Dosage and Administration (2.2)].
 
 OPDIVO as a Single Agent
 
@@ -266,7 +266,7 @@ Administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents 
 Administer corticosteroids at a dose of 0.5 to 1 mg/kg/day prednisone equivalents for moderate (Grade 2) or severe (Grade 3) increased serum creatinine, if worsening or no improvement occurs, increase dose of corticosteroids to 1 to 2 mg/kg/day prednisone equivalents.
 
 Withhold OPDIVO for moderate (Grade 2) or severe (Grade 3) increased serum creatinine.
-Permanently discontinue OPDIVO for life-threatening (Grade 4) increased serum creatinine [see Dosage and Administration (2.11)].
+Permanently discontinue OPDIVO for life-threatening (Grade 4) increased serum creatinine [see Dosage and Administration (2.2)].
 
 ### OPDIVO as a Single Agent
 
@@ -301,7 +301,7 @@ One of 16 patients with RCC had recurrence of nephritis or renal dysfunction aft
 
 OPDIVO can cause immune-mediated rash, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), some cases with fatal outcome.
 For symptoms or signs of SJS or TEN, withhold OPDIVO and refer the patient for specialized care for assessment and treatment.
-If SJS or TEN is confirmed, permanently discontinue OPDIVO [see Dosage and Administration (2.11)].
+If SJS or TEN is confirmed, permanently discontinue OPDIVO [see Dosage and Administration (2.2)].
 
 For immune-mediated rash, administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by a corticosteroid taper for severe (Grade 3) or life-threatening (Grade 4) rash.
 Withhold OPDIVO for severe (Grade 3) rash and permanently discontinue OPDIVO for life-threatening (Grade 4) rash.
@@ -310,7 +310,7 @@ Withhold OPDIVO for severe (Grade 3) rash and permanently discontinue OPDIVO for
 
 In patients receiving OPDIVO as a single agent, immune-mediated rash occurred in 9% (171/1994) of patients; the median time to onset was 2.8 months (range: <1 day to 25.8 months).
 Immune-mediated rash led to permanent discontinuation of OPDIVO in 0.3% and withholding of OPDIVO in 0.8% of patients.
-Approximately 16% of patients with rash received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 12 days (range: 1 days to 8.9 months) and 85% received topical corticosteroids.
+Approximately 16% of patients with rash received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 12 days (range: 1 day to 8.9 months) and 85% received topical corticosteroids.
 Complete resolution occurred in 48% of patients.
 Recurrence of rash occurred in 1.4% of patients who resumed OPDIVO after resolution of rash.
 
@@ -342,7 +342,7 @@ Evaluation of patients with neurologic symptoms may include, but not be limited 
 
 Withhold OPDIVO in patients with new-onset moderate to severe neurologic signs or symptoms and evaluate to rule out infectious or other causes of moderate to severe neurologic deterioration.
 If other etiologies are ruled out, administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents for patients with immune-mediated encephalitis, followed by corticosteroid taper.
-Permanently discontinue OPDIVO for immune-mediated encephalitis [see Dosage and Administration (2.11)].
+Permanently discontinue OPDIVO for immune-mediated encephalitis [see Dosage and Administration (2.2)].
 
 ### OPDIVO as a Single Agent
 
@@ -368,23 +368,23 @@ Immune-mediated adverse reactions may occur after discontinuation of OPDIVO ther
 For any suspected immune-mediated adverse reactions, exclude other causes.
 Based on the severity of the adverse reaction, permanently discontinue or withhold OPDIVO, administer high-dose corticosteroids, and if appropriate, initiate hormone-replacement therapy.
 Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month.
-Consider restarting OPDIVO after completion of corticosteroid taper based on the severity of the event [see Dosage and Administration (2.11)].
+Consider restarting OPDIVO after completion of corticosteroid taper based on the severity of the event [see Dosage and Administration (2.2)].
 
-Across clinical trials of OPDIVO administered as a single agent or in combination with ipilimumab, the following clinically significant immune-mediated adverse reactions, some with fatal outcome, occurred in less than 1.0% of patients receiving OPDIVO: myocarditis, rhabdomyolysis, myositis, uveitis, iritis, pancreatitis, facial and abducens nerve paresis, demyelination, polymyalgia rheumatica, autoimmune neuropathy, Guillain-Barré syndrome, hypopituitarism, systemic inflammatory response syndrome, gastritis, duodenitis, sarcoidosis, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), motor dysfunction, vasculitis, aplastic anemia, pericarditis, and myasthenic syndrome.
+Across clinical trials of OPDIVO administered as a single agent or in combination with ipilimumab, the following clinically significant immune-mediated adverse reactions, some with fatal outcome, occurred in <1.0% of patients receiving OPDIVO: myocarditis, rhabdomyolysis, myositis, uveitis, iritis, pancreatitis, facial and abducens nerve paresis, demyelination, polymyalgia rheumatica, autoimmune neuropathy, Guillain-Barré syndrome, hypopituitarism, systemic inflammatory response syndrome, gastritis, duodenitis, sarcoidosis, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), motor dysfunction, vasculitis, aplastic anemia, pericarditis, and myasthenic syndrome.
 
 If uveitis occurs in combination with other immune-mediated adverse reactions, consider a Vogt-Koyanagi-Harada-like syndrome, which has been observed in patients receiving OPDIVO or OPDIVO in combination with ipilimumab and may require treatment with systemic steroids to reduce the risk of permanent vision loss.
 
-## 5.9 Infusion Reactions
+## 5.9 Infusion-Related Reactions
 
-OPDIVO can cause severe infusion reactions, which have been reported in less than 1.0% of patients in clinical trials.
-Discontinue OPDIVO in patients with severe or life-threatening infusion reactions.
-Interrupt or slow the rate of infusion in patients with mild or moderate infusion reactions [see Dosage and Administration (2.11)].
+OPDIVO can cause severe infusion-related reactions, which have been reported in <1.0% of patients in clinical trials.
+Discontinue OPDIVO in patients with severe or life-threatening infusion-related reactions.
+Interrupt or slow the rate of infusion in patients with mild or moderate infusion-related reactions [see Dosage and Administration (2.2)].
 
 ### OPDIVO as a Single Agent
 
 In patients receiving OPDIVO as a 60-minute intravenous infusion, infusion-related reactions occurred in 6.4% (127/1994) of patients.
 
-In a study assessing the pharmacokinetics and safety of a more rapid infusion, in which patients received OPDIVO as a 60-minute intravenous infusion or a 30-minute intravenous infusion, infusion-related reactions occurred in 2.2% (8/368) and 2.7% (10/369) of patients, respectively.
+In a trial assessing the pharmacokinetics and safety of a more rapid infusion, in which patients received OPDIVO as a 60-minute intravenous infusion or a 30-minute intravenous infusion, infusion-related reactions occurred in 2.2% (8/368) and 2.7% (10/369) of patients, respectively.
 Additionally, 0.5% (2/368) and 1.4% (5/369) of patients, respectively, experienced adverse reactions within 48 hours of infusion that led to dose delay, permanent discontinuation or withholding of OPDIVO.
 
 ### OPDIVO with Ipilimumab
@@ -411,7 +411,7 @@ Consider the benefit versus risks of treatment with a PD-1 receptor blocking ant
 Based on its mechanism of action and data from animal studies, OPDIVO can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, administration of nivolumab to cynomolgus monkeys from the onset of organogenesis through delivery resulted in increased abortion and premature infant death.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with an OPDIVO-containing regimen and for at least 5 months after the last dose of OPDIVO [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with OPDIVO and for at least 5 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.12 Increased Mortality in Patients with Multiple Myeloma when OPDIVO Is Added to a Thalidomide Analogue and Dexamethasone
 

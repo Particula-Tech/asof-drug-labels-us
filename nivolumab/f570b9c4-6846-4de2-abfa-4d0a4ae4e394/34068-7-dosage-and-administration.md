@@ -1,151 +1,52 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage for Unresectable or Metastatic Melanoma
+## 2.1 Recommended Dosage
 
-Single Agent
+The recommended dosages of OPDIVO as a single agent are presented in Table 1.
 
-The recommended dose of OPDIVO as a single agent is either:
+Table 1: Recommended Dosages for OPDIVO as a Single Agent
 
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
+| Indication | Recommended OPDIVO Dosage | Duration of Therapy |
+| --- | --- | --- |
+| Unresectable or metastatic melanoma | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
+| Metastatic non-small cell lung cancer |  |  |
+| Advanced renal cell carcinoma |  |  |
+| Classical Hodgkin lymphoma |  |  |
+| Squamous cell carcinoma of the head and neck |  |  |
+| Urothelial carcinoma |  |  |
+| Hepatocellular carcinoma |  |  |
+| Adjuvant treatment of melanoma | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease recurrence or unacceptable toxicity for up to 1 year |
+| Small cell lung cancer | 240 mg every 2 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
+| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
+| Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks(30-minute intravenous infusion) |  |  |
 
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+The recommended dosages of OPDIVO in combination with ipilimumab are presented in Table 2.
+Refer to the ipilimumab Prescribing Information for recommended ipilimumab dosage information.
 
-With Ipilimumab
+Table 2: Recommended Dosages of OPDIVO in Combination with Ipilimumab
 
-The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 3 mg/kg administered as an intravenous infusion over 90 minutes on the same day, every 3 weeks for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier.
-After completing 4 doses of the combination, administer OPDIVO as a single agent, either:
+| Indication | Recommended OPDIVO Dosage | Duration of Therapy |
+| --- | --- | --- |
+| Unresectable or metastatic melanoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenously over 90 minutes on the same day | In combination with ipilimumab for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier |
+| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
+| Advanced renal cell carcinoma | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenously over 30 minutes on the same day | In combination with ipilimumab for 4 doses |
+| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
+| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenously over 30 minutes on the same day | In combination with ipilimumab for 4 doses |
+| Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
+| Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks(30-minute intravenous infusion) |  |  |
 
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
+## 2.2 Dose Modifications
 
-as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-Review the Prescribing Information for ipilimumab for additional information prior to initiation.
-
-## 2.2 Recommended Dosage for Adjuvant Treatment of Melanoma
-
-The recommended dose of OPDIVO is either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-administered as an intravenous infusion over 30 minutes until disease recurrence or unacceptable toxicity for up to 1 year.
-
-## 2.3 Recommended Dosage for NSCLC
-
-The recommended dose of OPDIVO is either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-## 2.4 Recommended Dosage for SCLC
-
-The recommended dose of OPDIVO is:
-
-- •240 mg administered as an intravenous infusion over 30 minutes every 2 weeks
-
-until disease progression or unacceptable toxicity.
-
-## 2.5 Recommended Dosage for RCC
-
-Single Agent
-
-The recommended dose of OPDIVO as a single agent is either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-With Ipilimumab
-
-The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.5)].
-After completing 4 doses of the combination, administer OPDIVO as a single agent, either:
-
-- •240 mg every 2 weeks, or
-- •480 mg every 4 weeks
-
-as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-Review the Prescribing Information for ipilimumab prior to initiation.
-
-## 2.6 Recommended Dosage for cHL
-
-The recommended dose of OPDIVO is either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-## 2.7 Recommended Dosage for SCCHN
-
-The recommended dose of OPDIVO is either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-## 2.8 Recommended Dosage for Urothelial Carcinoma
-
-The recommended dose of OPDIVO is either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-## 2.9 Recommended Dosage for MSI-H/dMMR CRC
-
-Single Agent
-
-The recommended dose of OPDIVO for adult patients and for pediatric patients age 12 years and older and weighing 40 kg or more is either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-The recommended dose of OPDIVO for pediatric patients age 12 years and older and weighing less than 40 kg is 3 mg/kg every 2 weeks, administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-With Ipilimumab
-
-The recommended dose of OPDIVOfor adult patients and for pediatric patients age 12 years and older and weighing 40 kg or more is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.9)].
-After completing 4 doses of the combination, administer OPDIVO as a single agent, either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-The recommended dose of OPDIVO for pediatric patients age 12 years and older and weighing less than 40 kg is 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.9)].
-After completing 4 doses of the combination, administer OPDIVO 3 mg/kg as a single agent every 2 weeks as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-Review the Prescribing Information for ipilimumab prior to initiation.
-
-## 2.10 Recommended Dosage for HCC
-
-The recommended dose of OPDIVO is either:
-
-- •240 mg every 2 weeks or
-- •480 mg every 4 weeks
-
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
-
-## 2.11 Dose Modifications
-
-Recommendations for OPDIVO modifications are provided in Table 1.
+Recommendations for OPDIVO modifications are provided in Table 3.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
 Review the Prescribing Information for ipilimumab for recommended dose modifications.
 
 There are no recommended dose modifications for hypothyroidism or hyperthyroidism.
 
-Interrupt or slow the rate of infusion in patients with mild or moderate infusion reactions.
-Discontinue OPDIVO in patients with severe or life-threatening infusion reactions.
+Interrupt or slow the rate of infusion in patients with mild or moderate infusion-related reactions.
+Discontinue OPDIVO in patients with severe or life-threatening infusion-related reactions.
 
-Table 1: Recommended Dose Modifications for OPDIVO
+Table 3: Recommended Dose Modifications for OPDIVO
 
 | Adverse Reaction | Severity* | Dose Modification |
 | --- | --- | --- |
@@ -178,42 +79,31 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
 | * Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction improves to Grade 0 or 1. b HCC: hepatocellular carcinoma. c Resume treatment when AST/ALT returns to baseline. |  |  |
 
-## 2.12 Preparation and Administration
+## 2.3 Preparation and Administration
 
-Visually inspect drug product solution for particulate matter and discoloration prior to administration.
+Visually inspect for particulate matter and discoloration.
 OPDIVO is a clear to opalescent, colorless to pale-yellow solution.
-Discard the vial if the solution is cloudy, discolored, or contains extraneous particulate matter other than a few translucent-to-white, proteinaceous particles.
-Do not shake the vial.
+Discard if cloudy, discolored, or contains extraneous particulate matter other than a few translucent-to-white, proteinaceous particles.
+Do not shake.
 
 ### Preparation
 
 - •Withdraw the required volume of OPDIVO and transfer into an intravenous container.
 - •Dilute OPDIVO with either 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP to prepare an infusion with a final concentration ranging from 1 mg/mL to 10 mg/mL.
-  The total volume of infusion must not exceed 160 mL.
-- •For adult and pediatric patients with body weights less than 40 kg, the total volume of infusion must not exceed 4 mL/kg of body weight.
+  The total volume of infusion must not exceed 160 mL. • For adult and pediatric patients with body weight ≥40 kg, do not exceed a total volume of infusion of 160 mL. • For adult and pediatric patients with body weight <40 kg, do not exceed a total volume of infusion of 4 mL/kg of body weight.
 - •Mix diluted solution by gentle inversion.
   Do not shake.
 - •Discard partially used vials or empty vials of OPDIVO.
-
-### Storage of Infusion
-
-The product does not contain a preservative.
-
-After preparation, store the OPDIVO infusion either:
-
-- •at room temperature for no more than 8 hours from the time of preparation.
-  This includes room temperature storage of the infusion in the IV container and time for administration of the infusion or
-- •under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of infusion preparation.
-
-Do not freeze.
+- •The product does not contain a preservative.
+- •After preparation, store the diluted solution either: • at room temperature for no more than 8 hours from the time of preparation to end of the infusion.
+  Discard diluted solution if not used within 8 hours from the time of preparation; or • under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of preparation to end of infusion.
+  Discard diluted solution if not used within 24 hours from the time of preparation.
+- •Do not freeze.
 
 ### Administration
 
-Administer the infusion over 30 minutes through an intravenous line containing a sterile, non-pyrogenic, low protein binding in-line filter (pore size of 0.2 micrometer to 1.2 micrometer).
-
-Do not coadminister other drugs through the same intravenous line.
-
-Flush the intravenous line at end of infusion.
-
-When administered in combination with ipilimumab, infuse OPDIVO first followed by ipilimumab on the same day.
-Use separate infusion bags and filters for each infusion.
+- •Administer the infusion over 30 minutes through an intravenous line containing a sterile, non-pyrogenic, low protein binding in-line filter (pore size of 0.2 micrometer to 1.2 micrometer).
+- •When administered with ipilimumab, administer OPDIVO first followed by ipilimumab on the same day.
+  Use separate infusion bags and filters for each infusion.
+- •Flush the intravenous line at end of infusion.
+- •Do not coadminister other drugs through the same intravenous line.
