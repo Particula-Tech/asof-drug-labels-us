@@ -13,7 +13,7 @@ Advise patients who have had signs or symptoms of systemic hypersensitivity reac
 
 Hypocalcemia
 
-Advise the patient to adequately supplement with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Prolia [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Advise the patient to adequately supplement with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Prolia [see Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
 Advise patients to seek prompt medical attention if they develop signs or symptoms of hypocalcemia.
 
 Osteonecrosis of the Jaw
@@ -33,7 +33,7 @@ Serious Infections
 
 Advise patients to seek prompt medical attention if they develop signs or symptoms of infections, including cellulitis [see Warnings and Precautions (5.7)].
 
-Dermatologic Reactions
+Dermatologic Adverse Reactions
 
 Advise patients to seek prompt medical attention if they develop signs or symptoms of dermatological reactions (dermatitis, rashes, and eczema) [see Warnings and Precautions (5.8)].
 
@@ -58,6 +58,6 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/prolia/
 
-© 2010-2018 Amgen Inc. All rights reserved.
+© 2010-2019 Amgen Inc. All rights reserved.
 
-1xxxxxx – v15
+1xxxxxx – v16

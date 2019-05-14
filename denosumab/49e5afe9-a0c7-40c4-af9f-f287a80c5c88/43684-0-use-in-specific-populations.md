@@ -22,9 +22,9 @@ There was no fetal NOAEL (no observable adverse effect level) established for th
 Mammary gland histopathology at 6 months of age was normal in female offspring exposed to denosumab in utero; however, development and lactation have not been fully evaluated.
 
 In RANKL knockout mice, absence of RANKL (the target of denosumab) also caused fetal lymph node agenesis and led to postnatal impairment of dentition and bone growth.
-Pregnant RANKL knockout mice showed altered maturation of the maternal mammary gland, leading to impaired lactation [see Use in Specific Populations (8.2) and Nonclinical Toxicology (13.2)].
+Pregnant RANKL knockout mice showed altered maturation of the maternal mammary gland, leading to impaired lactation [see Use in Specific Populations (8.2), Nonclinical Toxicology (13.2)].
 
-The no-effect dose for denosumab-induced teratogenicity is unknown.
+The no effect dose for denosumab-induced teratogenicity is unknown.
 However, a Cmax of 22.9 ng/mL was identified in cynomolgus monkeys as a level in which no biologic effects (NOEL) of denosumab were observed (no inhibition of RANKL) [see Clinical Pharmacology (12.3)].
 
 ## 8.2 Lactation
@@ -48,7 +48,7 @@ Contraception Females
 Advise females of reproductive potential to use effective contraception during therapy, and for at least 5 months after the last dose of Prolia.
 
 Males Denosumab was present at low concentrations (approximately 2% of serum exposure) in the seminal fluid of male subjects given Prolia.
-Following vaginal intercourse, the maximum amount of denosumab delivered to a female partner would result in exposures approximately 11,000 times lower than the prescribed 60 mg subcutaneous dose, and at least 38 times lower than the NOEL in monkeys.
+Following vaginal intercourse, the maximum amount of denosumab delivered to a female partner would result in exposures approximately 11000 times lower than the prescribed 60 mg subcutaneous dose, and at least 38 times lower than the NOEL in monkeys.
 
 Therefore, male condom use would not be necessary as it is unlikely that a female partner or fetus would be exposed to pharmacologically relevant concentrations of denosumab via seminal fluid [see Clinical Pharmacology (12.3)].
 
@@ -78,7 +78,7 @@ No dose adjustment is necessary in patients with renal impairment.
 In clinical studies, patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcemia.
 Consider the benefit-risk profile when administering Prolia to patients with severe renal impairment or receiving dialysis.
 Clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
-Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis [see Warnings and Precautions (5.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
+Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis [see Warnings and Precautions (5.3), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

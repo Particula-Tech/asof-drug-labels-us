@@ -15,14 +15,15 @@ If an anaphylactic or other clinically significant allergic reaction occurs, ini
 
 Hypocalcemia may be exacerbated by the use of Prolia.
 Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia.
-In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended within 14 days of Prolia injection.
+In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis, treatment with other calcium-lowering drugs), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended within 14 days of Prolia injection.
 In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
 
-Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis.
+Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis.
 These patients may also develop marked elevations of serum parathyroid hormone (PTH).
+Concomitant use of calcimimetic drugs may worsen hypocalcemia risk and serum calcium should be closely monitored.
 Instruct all patients with severe renal impairment, including those receiving dialysis, about the symptoms of hypocalcemia and the importance of maintaining calcium levels with adequate calcium and vitamin D supplementation.
 
-Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), Adverse Reactions (6.1) and Patient Counseling Information (17)].
 
 ## 5.4 Osteonecrosis of the Jaw
 
@@ -59,8 +60,7 @@ Interruption of Prolia therapy should be considered, pending a benefit-risk asse
 
 Following discontinuation of Prolia treatment, fracture risk increases, including the risk of multiple vertebral fractures.
 Cessation of Prolia treatment results in markers of bone resorption increasing above pretreatment values then returning to pretreatment values 24 months after the last dose of Prolia.
-In addition, bone mineral density returns to pretreatment values within 18 months after the last injection.
-[see Pharmacodynamics (12.2) and Clinical Studies (14.1)].
+In addition, bone mineral density returns to pretreatment values within 18 months after the last injection [see Pharmacodynamics (12.2), Clinical Studies (14.1)].
 
 New vertebral fractures occurred as early as 7 months (on average 19 months) after the last dose of Prolia.
 Prior vertebral fracture was a predictor of multiple vertebral fractures after Prolia discontinuation.
@@ -94,7 +94,7 @@ Consider discontinuing use if severe symptoms develop [see Patient Counseling In
 
 ## 5.10 Suppression of Bone Turnover
 
-In clinical trials in women with postmenopausal osteoporosis, treatment with Prolia resulted in significant suppression of bone remodeling as evidenced by markers of bone turnover and bone histomorphometry [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)].
+In clinical trials in women with postmenopausal osteoporosis, treatment with Prolia resulted in significant suppression of bone remodeling as evidenced by markers of bone turnover and bone histomorphometry [see Clinical Pharmacology (12.2), Clinical Studies (14.1)].
 The significance of these findings and the effect of long-term treatment with Prolia are unknown.
 The long-term consequences of the degree of suppression of bone remodeling observed with Prolia may contribute to adverse outcomes such as osteonecrosis of the jaw, atypical fractures, and delayed fracture healing.
 Monitor patients for these consequences.

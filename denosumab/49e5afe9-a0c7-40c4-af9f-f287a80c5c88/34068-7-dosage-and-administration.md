@@ -23,7 +23,7 @@ Visually inspect Prolia for particulate matter and discoloration prior to admini
 Prolia is a clear, colorless to pale yellow solution that may contain trace amounts of translucent to white proteinaceous particles.
 Do not use if the solution is discolored or cloudy or if the solution contains many particles or foreign particulate matter.
 
-Latex Allergy: People sensitive to latex should not handle the grey needle cap on the single-use prefilled syringe, which contains dry natural rubber (a derivative of latex).
+Latex Allergy: People sensitive to latex should not handle the gray needle cap on the single-use prefilled syringe, which contains dry natural rubber (a derivative of latex).
 
 Prior to administration, Prolia may be removed from the refrigerator and brought to room temperature (up to 25°C/77°F) by standing in the original container.
 This generally takes 15 to 30 minutes.
@@ -37,9 +37,9 @@ DO NOT slide the green safety guard forward over the needle before administering
 
 Activate the green safety guard (slide over the needle) after the injection.
 
-The grey needle cap on the single-use prefilled syringe contains dry natural rubber (a derivative of latex); people sensitive to latex should not handle the cap.
+The gray needle cap on the single-use prefilled syringe contains dry natural rubber (a derivative of latex); people sensitive to latex should not handle the cap.
 
-Step 1: Remove Grey Needle Cap
+Step 1: Remove Gray Needle Cap
 
 Step 2: Administer Subcutaneous Injection
 
@@ -47,7 +47,7 @@ Step 2: Administer Subcutaneous Injection
 | --- | --- |
 | Insert needle and inject all the liquid subcutaneously. Do not administer into muscle or blood vessel. |  |
 
-DO NOT put grey needle cap back on needle.
+DO NOT put gray needle cap back on needle.
 
 Step 3: Immediately Slide Green Safety Guard Over Needle
 

@@ -101,12 +101,12 @@ Skin infections, including erysipelas and cellulitis, leading to hospitalization
 
 The incidence of opportunistic infections was similar to that reported with placebo.
 
-Dermatologic Reactions A significantly higher number of patients treated with Prolia developed epidermal and dermal adverse events (such as dermatitis, eczema, and rashes), with these events reported in 8.2% of the placebo and 10.8% of the Prolia groups (p < 0.0001).
+Dermatologic Adverse Reactions A significantly higher number of patients treated with Prolia developed epidermal and dermal adverse events (such as dermatitis, eczema, and rashes), with these events reported in 8.2% of the placebo and 10.8% of the Prolia groups (p < 0.0001).
 Most of these events were not specific to the injection site [see Warnings and Precautions (5.8)].
 
 Osteonecrosis of the Jaw ONJ has been reported in the osteoporosis clinical trial program in patients treated with Prolia [see Warnings and Precautions (5.4)].
 
-Atypical Subtrochanteric and Diaphyseal Fractures In the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with Prolia.
+Atypical Subtrochanteric and Diaphyseal Femoral Fractures In the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with Prolia.
 The duration of Prolia exposure to time of atypical femoral fracture diagnosis was as early as 2½ years [see Warnings and Precautions (5.5)].
 
 Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment In the osteoporosis clinical trial program, multiple vertebral fractures were reported in patients after discontinuation of Prolia.
@@ -137,7 +137,7 @@ Adverse reactions reported in ≥ 5% of men with osteoporosis and more frequentl
 
 Serious Infections Serious infection was reported in 1 patient (0.8%) in the placebo group and no patients in the Prolia group.
 
-Dermatologic Reactions Epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 4 patients (3.3%) in the placebo group and 5 patients (4.2%) in the Prolia group.
+Dermatologic Adverse Reactions Epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 4 patients (3.3%) in the placebo group and 5 patients (4.2%) in the Prolia group.
 
 Osteonecrosis of the Jaw No cases of ONJ were reported.
 
@@ -182,7 +182,7 @@ Osteonecrosis of the Jaw
 
 No cases of ONJ were reported.
 
-Atypical Subtrochanteric and Diaphyseal Fractures
+Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
 Atypical femoral fractures were reported in 1 patient treated with Prolia.
 The duration of Prolia exposure to time of atypical femoral fracture diagnosis was at 8.0 months [see Warnings and Precautions (5.5)].
@@ -191,7 +191,7 @@ Serious Infections
 
 Serious infection was reported in 15 patients (3.9%) in the active-control group and 17 patients (4.3%) in the Prolia group.
 
-Dermatologic Reactions
+Dermatologic Adverse Reactions
 
 Epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 16 patients (4.2%) in the active-control group and 15 patients (3.8%) in the Prolia group.
 
@@ -214,7 +214,7 @@ The percentage of patients who withdrew from the study due to adverse events was
 Adverse reactions reported in ≥ 10% of Prolia-treated patients receiving ADT for prostate cancer or adjuvant AI therapy for breast cancer, and more frequently than in the placebo-treated patients were: arthralgia (13.0% placebo vs. 14.3% Prolia) and back pain (10.5% placebo vs. 11.5% Prolia).
 Pain in extremity (7.7% placebo vs. 9.9% Prolia) and musculoskeletal pain (3.8% placebo vs. 6.0% Prolia) have also been reported in clinical trials.
 Additionally, in Prolia-treated men with nonmetastatic prostate cancer receiving ADT, a greater incidence of cataracts was observed (1.2% placebo vs. 4.7% Prolia).
-Hypocalcemia (serum calcium < 8.4 mg/dL) was reported only in Prolia-treated patients (2.4% vs. 0%) at the month 1 visit.
+Hypocalcemia (serum calcium < 8.4 mg/dL) was reported only in Prolia-treated patients (2.4% vs. 0.0%) at the month 1 visit.
 
 ## 6.2 Postmarketing Experience
 

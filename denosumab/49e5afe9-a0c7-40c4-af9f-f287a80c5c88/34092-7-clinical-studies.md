@@ -1,6 +1,6 @@
 # 14CLINICAL STUDIES
 
-## 14.1 Postmenopausal Women with Osteoporosis
+## 14.1 Treatment of Postmenopausal Women with Osteoporosis
 
 The efficacy and safety of Prolia in the treatment of postmenopausal osteoporosis was demonstrated in a 3-year, randomized, double-blind, placebo-controlled trial.
 Enrolled women had a baseline BMD T-score between -2.5 and -4.0 at either the lumbar spine or total hip.
@@ -48,9 +48,9 @@ Treatment with Prolia resulted in a significant reduction in the incidence of no
 Table 4.
 The Effect of Prolia on the Incidence of Nonvertebral Fractures at Year 3
 
-|  |  | Proportion of Women with Fracture (%)+ |  |  |  |
+|  |  | Proportion of Women with Fracture (%)+ |  | Absolute Risk Reduction (%) (95% CI) | Relative Risk Reduction (%) (95% CI) |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Placebo N = 3906 (%) | Prolia N = 3902 (%) | Absolute Risk Reduction (%) (95% CI) | Relative Risk Reduction (%) (95% CI) |
+|  |  | Placebo N = 3906 (%) | Prolia N = 3902 (%) |  |  |
 | Nonvertebral fracture1 |  | 8.0 | 6.5 | 1.5 (0.3, 2.7) | 20 (5, 33)* |
 | + | Event rates based on Kaplan-Meier estimates at 3 years. |  |  |  |  |
 | 1 | Excluding those of the vertebrae (cervical, thoracic, and lumbar), skull, facial, mandible, metacarpus, and finger and toe phalanges. |  |  |  |  |
@@ -170,4 +170,4 @@ All women received at least 1000 mg calcium and 400 IU vitamin D supplementation
 Effect on Bone Mineral Density (BMD) The primary efficacy variable was percent change in lumbar spine BMD from baseline to month 12.
 Lumbar spine BMD was higher at 12 months in Prolia-treated patients as compared to placebo-treated patients [-0.7% placebo, +4.8% Prolia; treatment difference 5.5% (95% CI: 4.8, 6.3); p < 0.0001].
 
-With approximately 81% of patients followed for 2 years, treatment differences in BMD at 2 years were 7.6% (-1.4% placebo, +6.2% Prolia) at the lumbar spine, 4.7 % (-1.0% placebo, +3.8% Prolia) at the total hip, and 3.6% (-0.8% placebo, +2.8% Prolia) at the femoral neck.
+With approximately 81% of patients followed for 2 years, treatment differences in BMD at 2 years were 7.6% (-1.4% placebo, +6.2% Prolia) at the lumbar spine, 4.7% (-1.0% placebo, +3.8% Prolia) at the total hip, and 3.6% (-0.8% placebo, +2.8% Prolia) at the femoral neck.
