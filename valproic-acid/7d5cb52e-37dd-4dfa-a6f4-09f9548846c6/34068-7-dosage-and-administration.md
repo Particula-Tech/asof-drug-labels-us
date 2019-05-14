@@ -69,9 +69,9 @@ The following table is a guide for the initial daily dose of valproic acid (15 m
 Table 1.
 Initial Daily Dose
 
-| (Kg) | (Lb) |  | Dose 1 | Dose 2 | Dose 3 |
+| (Kg) | (Lb) | Dose 1 | Dose 2 | Dose 3 |  |
 | --- | --- | --- | --- | --- | --- |
-| Weight |  | Total Daily Dose (mg) | Teaspoons of Oral Solution |  |  |
+| Weight |  | Total Daily Dose (mg) | Number of Teaspoons of Oral Solution |  |  |
 | 10 - 24.9 | 22 - 54.9 | 250 | 0 | 0 | 1 |
 | 25 - 39.9 | 55 - 87.9 | 500 | 1 | 0 | 1 |
 | 40 - 59.9 | 88 - 131.9 | 750 | 1 | 1 | 1 |
@@ -85,7 +85,7 @@ Dosing in Elderly Patients
 Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients.
 Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence.
-The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.14), Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
+The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.14), Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)].
 
 Dose-Related Adverse Reactions
 

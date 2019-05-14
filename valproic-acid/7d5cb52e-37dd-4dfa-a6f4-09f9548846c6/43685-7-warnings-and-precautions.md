@@ -37,14 +37,14 @@ This older group of patients should be closely monitored during treatment with v
 The drug should be discontinued immediately in the presence of significant hepatic dysfunction, suspected or apparent.
 In some cases, hepatic dysfunction has progressed in spite of discontinuation of drug [see Boxed Warning and Contraindications (4)].
 
-## 5.2 Birth Defects
+## 5.2 Structural Birth Defects
 
 Valproate can cause fetal harm when administered to a pregnant woman.
 Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
-Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
+Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population [see Use in Specific Populations (8.1)].
 
-## ​5.3 Decreased IQ Following in utero Exposure
+## 5.3 Decreased IQ Following in utero Exposure
 
 Valproate can cause decreased IQ scores following in utero exposure.
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs.
@@ -60,19 +60,22 @@ Although all of the available studies have methodological limitations, the weigh
 
 In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
 
-Women with epilepsy who are pregnant or who plan to become pregnant should not be treated with valproate unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
-In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
-
 ## 5.4 Use in Women of Childbearing Potential
 
-Because of the risk to the fetus of decreased IQ and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
-This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
+Because of the risk to the fetus of decreased IQ, neurodevelopmental disorders, and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable.
+This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headaches [see Contraindications (4)].
 Women should use effective contraception while using valproate.
-Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of valproate use during pregnancy, and alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
 
-To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
+Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
+This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients.
+Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
+This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
+
+To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
+It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
+Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
 Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
 
@@ -84,7 +87,7 @@ Some cases have occurred shortly after initial use as well as after several year
 The rate based upon the reported cases exceeds that expected in the general population and there have been cases in which pancreatitis recurred after rechallenge with valproate.
 In clinical trials, there were 2 cases of pancreatitis without alternative etiology in 2,416 patients, representing 1,044 patient-years experience.
 Patients and guardians should be warned that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis that require prompt medical evaluation.
-If pancreatitis is diagnosed, valproate should ordinarily be discontinued.
+If pancreatitis is diagnosed, valproic acid should ordinarily be discontinued.
 Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Boxed Warning].
 
 ## 5.6 Urea Cycle Disorders
@@ -92,7 +95,7 @@ Alternative treatment for the underlying medical condition should be initiated a
 Valproic acid is contraindicated in patients with known urea cycle disorders (UCD).
 
 Hyperammonemic encephalopathy, sometimes fatal, has been reported following initiation of valproate therapy in patients with urea cycle disorders, a group of uncommon genetic abnormalities, particularly ornithine transcarbamylase deficiency.
-Prior to the initiation of valproate therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
+Prior to the initiation of valproic acid therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
 Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.10)].
 
 ## 5.7 Suicidal Behavior and Ideation
@@ -100,7 +103,7 @@ Patients who develop symptoms of unexplained hyperammonemic encephalopathy while
 Antiepileptic drugs (AEDs), including valproic acid, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono-and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 

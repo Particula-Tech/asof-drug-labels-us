@@ -19,7 +19,7 @@ Aspirin
 
 A study involving the co-administration of aspirin at antipyretic doses (11 to 16 mg/kg) with valproate to pediatric patients (n = 6) revealed a decrease in protein binding and an inhibition of metabolism of valproate.
 Valproate free fraction was increased 4-fold in the presence of aspirin compared to valproate alone.
-The β-oxidation pathway consisting of 2-E-valproic acid, 3-OH-valproic acid, and 3-keto valproic acid was decreased from 25% of total metabolites excreted on valproate alone to 8.3% in the presence of aspirin.
+The β-oxidation pathway consisting of 2-E-valproic acid, 3-OH­valproic acid, and 3-keto valproic acid was decreased from 25% of total metabolites excreted on valproate alone to 8.3% in the presence of aspirin.
 Caution should be observed if valproate and aspirin are to be co-administered.
 
 Carbapenem Antibiotics
@@ -87,7 +87,7 @@ Consideration should be given to lowering the dose of amitriptyline/nortriptylin
 
 Carbamazepine/carbamazepine-10,11-Epoxide
 
-Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10,11-epoxide (CBZ-E) increased by 45% upon co-administration of valproate and CBZ to epileptic patients.
+Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10,11­epoxide (CBZ-E) increased by 45% upon co-administration of valproate and CBZ to epileptic patients.
 
 Clonazepam
 

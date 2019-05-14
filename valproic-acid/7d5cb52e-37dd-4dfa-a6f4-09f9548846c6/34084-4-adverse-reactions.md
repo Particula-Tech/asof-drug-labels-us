@@ -20,9 +20,9 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 The data described in the following section were obtained using divalproex sodium tablets.
 
 Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, divalproex sodium was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
-Intolerance was the primary reason for discontinuation in the divalproex sodium-treated patients (6%), compared to 1% of placebo-treated patients.
+Intolerance was the primary reason for discontinuation in the divalproex sodium­treated patients (6%), compared to 1% of placebo-treated patients.
 
-Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of divalproex sodium-treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
+Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of divalproex sodium­treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to divalproex sodium alone, or the combination of divalproex sodium and other antiepilepsy drugs.
 
 Table 3.
@@ -176,7 +176,7 @@ The encephalopathy reversed partially or fully after valproate discontinuation.
 
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
-Hematologic: Relative lymphocytosis, macrocytosis, leukopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis and acute intermittent porphyria.
+Hematologic: Relative lymphocytosis, macrocytosis, leukopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
