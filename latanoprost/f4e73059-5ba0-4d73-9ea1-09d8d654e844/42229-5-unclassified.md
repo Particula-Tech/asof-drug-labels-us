@@ -1,3 +1,3 @@
 Pfizer Manufacturing Belgium NV Puurs, Belgium
 
-LAB-0135-13.1
+LAB-0135-13.0
