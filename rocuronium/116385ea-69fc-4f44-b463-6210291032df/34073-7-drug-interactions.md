@@ -22,7 +22,7 @@ The duration of maintenance doses was affected to a greater extent, increasing b
 Potentiation by these agents is also observed with respect to the infusion rates of rocuronium bromide required to maintain approximately 95% neuromuscular block.
 Under isoflurane and enflurane anesthesia, the infusion rates are decreased by approximately 40% compared to opioid/nitrous oxide/oxygen anesthesia.
 The median spontaneous recovery time (from 25% to 75% of control T1) is not affected by halothane, but is prolonged by enflurane (15% longer) and isoflurane (62% longer).
-Reversal-induced recovery of rocuronium bromide neuromuscular block is minimally affected by anesthetic technique [see Dosage and Administration (2.5) and Warnings and Precautions (5.10)].
+Reversal-induced recovery of rocuronium bromide neuromuscular block is minimally affected by anesthetic technique [see Dosage and Administration (2.6) and Warnings and Precautions (5.10)].
 
 ## 7.4 Lithium Carbonate
 

@@ -10,7 +10,7 @@ This action is antagonized by acetylcholinesterase inhibitors, such as neostigmi
 
 The ED95 (dose required to produce 95% suppression of the first [T1] mechanomyographic [MMG] response of the adductor pollicis muscle [thumb] to indirect supramaximal train-of-four stimulation of the ulnar nerve) during opioid/nitrous oxide/oxygen anesthesia is approximately 0.3 mg/kg.
 Patient variability around the ED95 dose suggests that 50% of patients will exhibit T1 depression of 91% to 97%.
-Table 4 presents intubating conditions in patients with intubation initiated at 60 to70 seconds.
+Table 4 presents intubating conditions in patients with intubation initiated at 60 to 70 seconds.
 
 Table 4: Percent of Excellent or Good Intubating Conditions and Median (Range) Time to Completion of Intubation in Patients with Intubation Initiated at 60 to 70 Seconds
 
@@ -47,11 +47,11 @@ Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 
 The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
 
-The clinical durations for the first 5 maintenance doses, in patients receiving 5 or more maintenance doses are represented in Figure 3 [see Dosage and Administration (2.3)].
+The clinical durations for the first 5 maintenance doses, in patients receiving 5 or more maintenance doses are represented in Figure 3 [see Dosage and Administration (2.4)].
 
 Once spontaneous recovery has reached 25% of control T1, the neuromuscular block produced by rocuronium bromide is readily reversed with anticholinesterase agents, e.g., edrophonium or neostigmine.
 The median spontaneous recovery from 25% to 75% T1 was 13 minutes in adult patients.
-When neuromuscular block was reversed in 36 adults at a T1 of 22% to 27%, recovery to a T1 of 89 (50 to 132) % and T4/T1 of 69 (38 to 92) % was achieved within 5 minutes.
+When neuromuscular block was reversed in 36 adults at a T1 of 22% to 27%, recovery to a T1 of 89 (50 to 132)% and T4/T1 of 69 (38 to 92)% was achieved within 5 minutes.
 Only 5 of 320 adults reversed received an additional dose of reversal agent.
 The median (range) dose of neostigmine was 0.04 (0.01 to 0.09) mg/kg and the median (range) dose of edrophonium was 0.5 (0.3 to 1) mg/kg.
 In geriatric patients (n = 51) reversed with neostigmine, the median T4/T1 increased from 40% to 88% in 5 minutes.
@@ -60,7 +60,7 @@ Pediatric patients (n = 58) who received 1 mg/kg edrophonium had increases in th
 Infants (n = 10) who were reversed with 0.03 mg/kg neostigmine recovered from 25% to 75% T1 within 4 minutes.
 There were no reports of less than satisfactory clinical recovery of neuromuscular function.
 The neuromuscular blocking action of rocuronium bromide may be enhanced in the presence of potent inhalation anesthetics [see Drug Interactions (7.3)].
-Hemodynamics: There were no dose-related effects on the incidence of changes from baseline (30% or greater) in mean arterial blood pressure (MAP) or heart rate associated with rocuronium bromide administration over the dose range of 0.12 to 1.2 mg/kg (4 x ED95) within 5 minutes after rocuronium bromide administration and prior to intubation.
+Hemodynamics There were no dose-related effects on the incidence of changes from baseline (30% or greater) in mean arterial blood pressure (MAP) or heart rate associated with rocuronium bromide administration over the dose range of 0.12 to 1.2 mg/kg (4 x ED95) within 5 minutes after rocuronium bromide administration and prior to intubation.
 Increases or decreases in MAP were observed in 2% to 5% of geriatric and other adult patients, and in about 1% of pediatric patients.
 Heart rate changes (30% or greater) occurred in 0% to 2% of geriatric and other adult patients.
 Tachycardia (30% or greater) occurred in 12 of 127 pediatric patients.
@@ -68,17 +68,17 @@ Most of the pediatric patients developing tachycardia were from a single study w
 In U.S. studies, laryngoscopy and tracheal intubation following rocuronium bromide administration were accompanied by transient tachycardia (30% or greater increases) in about one-third of adult patients under opioid/nitrous oxide/oxygen anesthesia.
 Animal studies have indicated that the ratio of vagal:neuromuscular block following rocuronium bromide administration is less than vecuronium but greater than pancuronium.
 The tachycardia observed in some patients may result from this vagal blocking activity.
-Histamine Release: In studies of histamine release, clinically significant concentrations of plasma histamine occurred in 1 of 88 patients.
+Histamine Release In studies of histamine release, clinically significant concentrations of plasma histamine occurred in 1 of 88 patients.
 Clinical signs of histamine release (flushing, rash, or bronchospasm) associated with the administration of rocuronium bromide were assessed in clinical trials and reported in 9 of 1137 (0.8%) patients.
 
 ## 12.3 Pharmacokinetics
 
-Adult and Geriatric Patients: In an effort to maximize the information gathered in the in vivo pharmacokinetic studies, the data from the studies was used to develop population estimates of the parameters for the subpopulations represented (e.g., geriatric, pediatric, renal, and hepatic impairment).
+Adult and Geriatric Patients In an effort to maximize the information gathered in the in vivo pharmacokinetic studies, the data from the studies was used to develop population estimates of the parameters for the subpopulations represented (e.g., geriatric, pediatric, renal, and hepatic impairment).
 These population-based estimates and a measure of the estimate variability are contained in the following section.
 Following intravenous administration of rocuronium bromide injection, plasma levels of rocuronium follow a three-compartment open model.
 The rapid distribution half-life is 1 to 2 minutes and the slower distribution half-life is 14 to 18 minutes.
 Rocuronium is approximately 30% bound to human plasma proteins.
-In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.5)].
+In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.6)].
 
 Table 7: Mean (SD) Pharmacokinetic Parameters in Adults (n = 22; ages 27 to 58 yrs) and Geriatric (n = 20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
@@ -108,11 +108,11 @@ Table 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and He
 
 The net result of these findings is that subjects with renal failure have clinical durations that are similar to but somewhat more variable than the duration that one would expect in subjects with normal renal function.
 Hepatically impaired patients, due to the large increase in volume, may demonstrate clinical durations approaching 1.5 times that of subjects with normal hepatic function.
-In both populations the clinician should individualize the dose to the needs of the patient [see Dosage and Administration (2.5)].
+In both populations the clinician should individualize the dose to the needs of the patient [see Dosage and Administration (2.6)].
 Tissue redistribution accounts for most (about 80%) of the initial amount of rocuronium administered.
 As tissue compartments fill with continued dosing (4 to 8 hours), less drug is redistributed away from the site of action and, for an infusion-only dose, the rate to maintain neuromuscular blockade falls to about 20% of the initial infusion rate.
 The use of a loading dose and a smaller infusion rate reduces the need for adjustment of dose.
-Pediatric Patients: Under halothane anesthesia, the clinical duration of effects of rocuronium bromide did not vary with age in patients 4 months to 8 years of age.
+Pediatric Patients Under halothane anesthesia, the clinical duration of effects of rocuronium bromide did not vary with age in patients 4 months to 8 years of age.
 The terminal half-life and other pharmacokinetic parameters of rocuronium in these pediatric patients are presented in Table 9.
 
 Table 9: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients (ages 3 to less than 12 mos, n = 6; 1 to less than 3 yrs, n = 5; 3 to less than 8 yrs, n = 7) During Halothane Anesthesia

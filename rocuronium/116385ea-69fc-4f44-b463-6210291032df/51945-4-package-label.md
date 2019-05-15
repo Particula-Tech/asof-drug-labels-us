@@ -20,6 +20,6 @@ For Intravenous Use Only
 
 Sterile, Nonpyrogenic 10 x 10 mL Multiple Dose Vials AUROMEDICS
 
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - Peel-off Label
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - Peel-off Label 10 mg/mL
 
-Rx only 10 mg/mL Peel off & apply to syringe Rocuronium Bromide Injection For IV use only Date:______ Time:_______ By:________
+Rx only Peel off & apply to syringe Rocuronium Bromide Injection For Intravenous Use Only 10 mg/10 mL Date:_________ Time: _________ By: _________

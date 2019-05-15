@@ -5,5 +5,5 @@ DO NOT FREEZE.
 Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use rocuronium bromide injection within 60 days.
 Use opened vials of rocuronium bromide injection within 30 days.
 The vial stoppers are not made with natural rubber latex.
-Safety and Handling: There is no specific work exposure limit for rocuronium bromide injection.
+Safety and Handling There is no specific work exposure limit for rocuronium bromide injection.
 In case of eye contact, flush with water for at least 10 minutes.
