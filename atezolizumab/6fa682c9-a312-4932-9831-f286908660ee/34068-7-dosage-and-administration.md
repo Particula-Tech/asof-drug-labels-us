@@ -10,17 +10,40 @@ Information on FDA-approved tests for the determination of PD-L1 expression in l
 
 ## 2.2 Recommended Dosage for Urothelial Carcinoma
 
-The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
+The recommended dosage of TECENTRIQ is:
+
+- 840 mg every 2 weeks or
+- 1200 mg every 3 weeks or
+- 1680 mg every 4 weeks
+
+administered intravenously over 60 minutes until disease progression or unacceptable toxicity.
 If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
 ## 2.3 Recommended Dosage for NSCLC
 
-The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
-If the first infusion of TECENTRIQ is tolerated, all subsequent infusions may be delivered over 30 minutes.
+The recommended dosage of TECENTRIQ as a single agent is:
 
-When administering TECENTRIQ in combination with chemotherapy or other antineoplastic drugs, administer TECENTRIQ prior to chemotherapy or other antineoplastic drugs when given on the same day.
+- 840 mg every 2 weeks or
+- 1200 mg every 3 weeks or
+- 1680 mg every 4 weeks
+
+administered intravenously until disease progression or unacceptable toxicity.
+
+The recommended dosage of TECENTRIQ is 1200 mg every 3 weeks intravenously, when administered in combination with bevacizumab, paclitaxel, and carboplatin, until disease progression or unacceptable toxicity.
+Administer TECENTRIQ prior to chemotherapy or other antineoplastic drugs when given on the same day.
 
 Refer to the Prescribing Information for the chemotherapy agents or other antineoplastic drugs administered in combination with TECENTRIQ for recommended dosing information.
+
+Following completion of 4-6 cycles of paclitaxel and carboplatin, and if bevacizumab is discontinued, the recommended dosage of TECENTRIQ is:
+
+- 840 mg every 2 weeks or
+- 1200 mg every 3 weeks or
+- 1680 mg every 4 weeks
+
+administered intravenously until disease progression or unacceptable toxicity.
+
+Administer the initial infusion of TECENTRIQ over 60 minutes.
+If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
 ## 2.4 Recommended Dosage for Locally Advanced or Metastatic TNBC
 
@@ -30,17 +53,26 @@ For each 28 day cycle, TECENTRIQ is administered on days 1 and 15, and paclitaxe
 
 TECENTRIQ and paclitaxel protein-bound may be discontinued for toxicity independently of each other.
 
-If the first infusion is tolerated, all subsequent infusions of TECENTRIQ may be delivered over 30 minutes.
+If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 See also the prescribing information for paclitaxel protein-bound prior to initiation.
 
 ## 2.5 Recommended Dosage for SCLC
 
-The recommended dosage of TECENTRIQ is 1200 mg intravenously over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
-If the first infusion of TECENTRIQ is tolerated, all subsequent infusions may be delivered over 30 minutes.
-
-When administering TECENTRIQ in combination with chemotherapy, administer TECENTRIQ prior to chemotherapy when given on the same day.
+The recommended dosage of TECENTRIQ is 1200 mg intravenously every 3 weeks, when administered in combination with carboplatin and etoposide, until disease progression or unacceptable toxicity.
+Administer TECENTRIQ prior to chemotherapy when given on the same day.
 
 Refer to the Prescribing Information for the chemotherapy agents administered in combination with TECENTRIQ for recommended dosing information.
+
+Following completion of 4 cycles of carboplatin and etoposide, the recommended dosage of TECENTRIQ is:
+
+- 840 mg every 2 weeks or
+- 1200 mg every 3 weeks or
+- 1680 mg every 4 weeks
+
+administered intravenously until disease progression or unacceptable toxicity.
+
+Administer the initial infusion of TECENTRIQ over 60 minutes.
+If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
 ## 2.6 Dosage Modifications for Adverse Reactions
 

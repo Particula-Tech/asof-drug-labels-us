@@ -144,7 +144,7 @@ Interrupt, slow the rate of, or permanently discontinue TECENTRIQ based on the s
 For Grade 1 or 2 infusion-related reactions, consider using pre-medications with subsequent doses.
 
 In clinical studies enrolling 2616 patients with various cancers who received TECENTRIQ as a single-agent [see Adverse Reactions (6.1)], infusion-related reactions occurred in 1.3% of patients, including Grade 3 (0.2%).
-The frequency and severity of infusion-related reactions were similar whether TECENTRIQ was given as a single-agent in patients with various cancers or in combination with other antineoplastic drugs in NSCLC and SCLC.
+The frequency and severity of infusion-related reactions were similar whether TECENTRIQ was given as a single-agent in patients with various cancers, in combination with other antineoplastic drugs in NSCLC and SCLC, and across the recommended dose range (840 mg Q2W to 1680 mg Q4W).
 
 ## 5.8 Embryo-Fetal Toxicity
 
