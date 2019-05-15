@@ -8,7 +8,7 @@ Rx only
 
 30 Tablets
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC
 
 NDC 65162-752-03
 
@@ -18,7 +18,7 @@ Rx only
 
 30 Tablets
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC
 
 NDC 65162-753-03
 
@@ -28,7 +28,7 @@ Rx only
 
 30 Tablets
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC
 
 NDC 65162-754-03
 
@@ -38,4 +38,4 @@ Rx only
 
 30 Tablets
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC
