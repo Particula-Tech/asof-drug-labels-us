@@ -36,14 +36,14 @@ In appropriately premedicated and adequately anesthetized patients, rocuronium b
 
 ## 2.3 Maintenance Dosing
 
-Maintenance doses of 0.1, 0.15, and 0.2 mg/kg rocuronium bromide, administered at 25% recovery of control T1 (defined as 3 twitches of train-of-four), provide a median (range) of 12 (2 to 31), 17 (6 to 50) and 24 (7 to 69) minutes of clinical duration under opioid/nitrous oxide/oxygen anesthesia [see Clinical Pharmacology (12.2)].
+Maintenance doses of 0.1, 0.15, and 0.2 mg/kg rocuronium bromide, administered at 25% recovery of control T 1 (defined as 3 twitches of train-of-four), provide a median (range) of 12 (2 to 31), 17 (6 to 50) and 24 (7 to 69) minutes of clinical duration under opioid/nitrous oxide/oxygen anesthesia [see Clinical Pharmacology (12.2)].
 In all cases, dosing should be guided based on the clinical duration following initial dose or prior maintenance dose and not administered until recovery of neuromuscular function is evident.
 A clinically insignificant cumulation of effect with repetitive maintenance dosing has been observed [see Clinical Pharmacology (12.2)].
 
 ## 2.4 Use by Continuous Infusion
 
 Infusion at an initial rate of 10 to 12 mcg/kg/min of rocuronium bromide should be initiated only after early evidence of spontaneous recovery from an intubating dose.
-Due to rapid redistribution [see Clinical Pharmacology (12.3)] and the associated rapid spontaneous recovery, initiation of the infusion after substantial return of neuromuscular function (more than 10% of control T1), may necessitate additional bolus doses to maintain adequate block for surgery.
+Due to rapid redistribution [see Clinical Pharmacology (12.3)] and the associated rapid spontaneous recovery, initiation of the infusion after substantial return of neuromuscular function (more than 10% of control T 1), may necessitate additional bolus doses to maintain adequate block for surgery.
 
 Upon reaching the desired level of neuromuscular block, the infusion of rocuronium bromide must be individualized for each patient.
 The rate of administration should be adjusted according to the patient’s twitch response as monitored with the use of a peripheral nerve stimulator.
@@ -61,7 +61,7 @@ Unused portions of infusion solutions should be discarded.
 Infusion rates of rocuronium bromide can be individualized for each patient using the following tables for 3 different concentrations of rocuronium bromide solution as guidelines:
 
 Table 1.
-Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)50 mg rocuronium bromide in 100 mL solution.
+Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL) 50 mg rocuronium bromide in 100 mL solution.
 
 | PatientWeight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)50 mg rocuronium br
 | 100 | 220 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 144 | 168 | 192 |
 
 Table 2.
-Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)100 mg rocuronium bromide in 100 mL solution.
+Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL) 100 mg rocuronium bromide in 100 mL solution.
 
 | PatientWeight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -99,7 +99,7 @@ Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)100 mg rocuronium bro
 | 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
 
 Table 3.
-Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)500 mg rocuronium bromide in 100 mL solution.
+Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL) 500 mg rocuronium bromide in 100 mL solution.
 
 | PatientWeight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -129,11 +129,11 @@ When halothane is used, a 0.6 mg/kg dose of rocuronium bromide resulted in excel
 The time to maximum block for an intubating dose was shortest in infants (28 days up to 3 months) and longest in neonates (birth to less than 28 days).
 The duration of clinical relaxation following an intubating dose is shortest in children (greater than 2 years up to 11 years) and longest in infants.
 
-When sevoflurane is used for induction and isoflurane/nitrous oxide for maintenance of general anesthesia, maintenance dosing of rocuronium bromide can be administered as bolus doses of 0.15 mg/kg at reappearance of T3 in all pediatric age groups.
-Maintenance dosing can also be administered at the reappearance of T2 at a rate of 7 to 10 mcg/kg/min, with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
+When sevoflurane is used for induction and isoflurane/nitrous oxide for maintenance of general anesthesia, maintenance dosing of rocuronium bromide can be administered as bolus doses of 0.15 mg/kg at reappearance of T 3 in all pediatric age groups.
+Maintenance dosing can also be administered at the reappearance of T 2 at a rate of 7 to 10 mcg/kg/min, with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
 
-When halothane is used for general anesthesia, patients ranging from 3 months old through adolescence can be administered rocuronium bromide maintenance doses of 0.075 to 0.125 mg/kg upon return of T1 to 0.25% to provide clinical relaxation for 7 to 10 minutes.
-Alternatively, a continuous infusion of rocuronium bromide initiated at a rate of 12 mcg/kg/min upon return of T1 to 10% (one twitch present in train-of-four), may also be used to maintain neuromuscular blockade in pediatric patients.
+When halothane is used for general anesthesia, patients ranging from 3 months old through adolescence can be administered rocuronium bromide maintenance doses of 0.075 to 0.125 mg/kg upon return of T 1 to 0.25% to provide clinical relaxation for 7 to 10 minutes.
+Alternatively, a continuous infusion of rocuronium bromide initiated at a rate of 12 mcg/kg/min upon return of T 1 to 10% (one twitch present in train-of-four), may also be used to maintain neuromuscular blockade in pediatric patients.
 
 Additional information for administration to pediatric patients of all age groups is presented elsewhere in the label [see Clinical Pharmacology (12.2)].
 
@@ -145,6 +145,8 @@ Rocuronium bromide is not recommended for rapid sequence intubation in pediatric
 
 ### Geriatric Patients
 
+Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22 to 73), 62 (49 to 75), and 94 (64 to 138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
+No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out and.
 Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22 to 73), 62 (49 to 75), and 94 (64 to 138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
 No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
 [See also Warnings and Precautions (5.5)].

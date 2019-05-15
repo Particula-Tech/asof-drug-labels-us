@@ -15,6 +15,7 @@ Precautions should also be taken in those patients who have had previous anaphyl
 
 ## 5.3 Risk of Death due to Medication Errors
 
+.
 Administration of rocuronium bromide injection results in paralysis, which may lead to respiratory arrest and death; this progression may be more likely to occur in a patient for whom it is not intended.
 Confirm proper selection of intended product and avoid confusion with other injectable solutions that are present in critical care and other clinical settings.
 If another healthcare provider is administering the product, ensure that the intended dose is clearly labeled and communicated.
