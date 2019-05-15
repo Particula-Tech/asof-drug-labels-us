@@ -155,7 +155,7 @@ Hypertension (0.1%) and hypotension (0.1%) have occasionally been observed after
 
 Five patients (5/446) who underwent regional anesthesia were observed to have airway obstruction.
 This was believed due to excessive sleepiness at the time of the procedure and resulted in temporary hypoventilation.
-In this instance, appropriate airway management may become necessary (see also CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
+In this instance, appropriate airway management may become necessary (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 
 ### Other Adverse Experiences
 
@@ -164,7 +164,7 @@ Skin rash, nausea, and vomiting have occasionally been noted in patients who hav
 ## Paradoxical Reactions
 
 As with all benzodiazepines, paradoxical reactions such as stimulation, mania, irritability, restlessness, agitation, aggression, psychosis, hostility, rage, or hallucinations may occur in rare instances and in an unpredictable fashion.
-In these instances, further use of the drug in these patients should be considered with caution (see PRECAUTIONS: General).
+In these instances, further use of the drug in these patients should be considered with caution (see PRECAUTIONS, General).
 
 ## Postmarketing Reports
 
