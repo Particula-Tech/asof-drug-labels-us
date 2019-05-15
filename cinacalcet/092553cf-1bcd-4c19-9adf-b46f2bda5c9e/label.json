@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA207008"
+  ],
+  "inn": "cinacalcet",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "47335-379-18",
+    "47335-379-83",
+    "47335-379-88",
+    "47335-380-18",
+    "47335-380-83",
+    "47335-380-88",
+    "47335-600-18",
+    "47335-600-83",
+    "47335-600-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cinacalcet",
+      "name": "Cinacalcet"
+    }
+  ],
+  "setid": "092553cf-1bcd-4c19-9adf-b46f2bda5c9e",
+  "source": "dailymed"
+}
