@@ -5,7 +5,7 @@ In chronic asthma studies, montelukast has been administered at doses up to 200 
 In the event of overdose, it is reasonable to employ the usual supportive measures; e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring, and institute supportive therapy, if required.
 
 There have been reports of acute overdosage in post-marketing experience and clinical studies with montelukast sodium.
-These include reports in adults and children with a dose as high as 1000 mg.
+These include reports in adults and children with a dose as high as 1,000 mg.
 The clinical and laboratory findings observed were consistent with the safety profile in adults and pediatric patients.
 There were no adverse experiences in the majority of overdosage reports.
 The most frequently occurring adverse experiences were consistent with the safety profile of montelukast sodium and included abdominal pain, somnolence, thirst, headache, vomiting and psychomotor hyperactivity.

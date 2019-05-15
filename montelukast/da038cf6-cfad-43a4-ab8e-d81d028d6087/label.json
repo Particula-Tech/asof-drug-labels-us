@@ -1,7 +1,8 @@
 {
   "application_numbers": [
     "ANDA090984",
-    "ANDA201515"
+    "ANDA201515",
+    "ANDA210431"
   ],
   "inn": "montelukast",
   "labeler": "Torrent Pharmaceuticals Limited",
@@ -18,9 +19,16 @@
     "13668-081-30",
     "13668-081-32",
     "13668-081-74",
-    "13668-081-90"
+    "13668-081-90",
+    "13668-531-11",
+    "13668-531-94"
   ],
   "products": [
+    {
+      "form": "GRANULE",
+      "generic": "montelukast sodium",
+      "name": "Montelukast Sodium"
+    },
     {
       "form": "TABLET",
       "generic": "montelukast sodium",

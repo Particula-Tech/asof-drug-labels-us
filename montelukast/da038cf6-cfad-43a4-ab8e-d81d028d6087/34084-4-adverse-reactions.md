@@ -7,14 +7,14 @@ In the following description of clinical trials experience, adverse reactions ar
 
 The most common adverse reactions (incidence ≥5% and greater than placebo; listed in descending order of frequency) in controlled clinical trials were: upper respiratory infection, fever, headache, pharyngitis, cough, abdominal pain, diarrhea, otitis media, influenza, rhinorrhea, sinusitis, otitis.
 
-Adults and Adolescents 15 Years of Age and Older with Asthma
+AdultsandAdolescents15YearsofAgeandOlderwithAsthma
 
-Montelukast sodium has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials.
+Montelukast sodium has been evaluated for safety in approximately 2,950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
-Table 1: Adverse Experiences Occurring in ≥1% of Patientswith an Incidence Greater than that in Patients Treated with Placebo
+Table 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
 
-|  | Montelukast 10 mg/day (%) (n=1955) | Placebo (%) (n=1180) |
+|  | Montelukast 10 mg/day (%) (n=1,955) | Placebo (%) (n=1,180) |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Pain, abdominal | 2.9 | 2.5 |
@@ -38,7 +38,7 @@ Table 1: Adverse Experiences Occurring in ≥1% of Patientswith an Incidence Gre
 | ALT increased | 2.1 | 2.0 |
 | AST increased | 1.6 | 1.2 |
 | Pyuria | 1.0 | 0.9 |
-| * Number of patients tested (montelukast sodium and placebo, respectively): ALT and AST, 1935, 1170; pyuria, 1924, 1159. |  |  |
+| * Number of patients tested (montelukast sodium and placebo, respectively): ALT and AST, 1,935, 1,170; pyuria, 1,924, 1,159. |  |  |
 
 The frequency of less common adverse events was comparable between montelukast sodium and placebo.
 
@@ -67,9 +67,18 @@ Montelukast sodium has been evaluated for safety in 573 pediatric patients 2 to 
 Cumulatively, 426 pediatric patients 2 to 5 years of age were treated with montelukast sodium for at least 3 months, 230 for 6 months or longer, and 63 patients for one year or longer in clinical trials.
 In pediatric patients 2 to 5 years of age receiving montelukast sodium, the following events occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: fever, cough, abdominal pain, diarrhea, headache, rhinorrhea, sinusitis, otitis, influenza, rash, ear pain, gastroenteritis, eczema, urticaria, varicella, pneumonia, dermatitis, and conjunctivitis.
 
+Pediatric Patients 6 to 23 Months of Age with Asthma
+
+Safety and effectiveness in pediatric patients younger than 12 months of age with asthma have not been established.
+
+Montelukast sodium has been evaluated for safety in 175 pediatric patients 6 to 23 months of age.
+The safety profile of montelukast sodium in a 6-week, double-blind, placebo-controlled clinical study was generally similar to the safety profile in adults and pediatric patients 2 to 14 years of age.
+In pediatric patients 6 to 23 months of age receiving montelukast sodium, the following events occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: upper respiratory infection, wheezing; otitis media; pharyngitis, tonsillitis, cough; and rhinitis.
+The frequency of less common adverse events was comparable between montelukast sodium and placebo.
+
 Adults and Adolescents 15 Years of Age and Older with Seasonal Allergic Rhinitis
 
-Montelukast sodium has been evaluated for safety in 2199 adult and adolescent patients 15 years of age and older in clinical trials.
+Montelukast sodium has been evaluated for safety in 2,199 adult and adolescent patients 15 years of age and older in clinical trials.
 Montelukast sodium administered once daily in the morning or in the evening had a safety profile similar to that of placebo.
 In placebo-controlled clinical trials, the following event was reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: upper respiratory infection, 1.9% of patients receiving montelukast sodium vs. 1.5% of patients receiving placebo.
 In a 4-week, placebo-controlled clinical study, the safety profile was consistent with that observed in 2-week studies.
@@ -83,14 +92,15 @@ In this study, the following events occurred with a frequency ≥2% and at an in
 
 Adults and Adolescents 15 Years of Age and Older with Perennial Allergic Rhinitis
 
-Montelukast sodium has been evaluated for safety in 3357 adult and adolescent patients 15 years of age and older with perennial allergic rhinitis of whom 1632 received montelukast sodium in two, 6-week, clinical studies.
+Montelukast sodium has been evaluated for safety in 3,357 adult and adolescent patients 15 years of age and older with perennial allergic rhinitis of whom 1,632 received montelukast sodium in two, 6-week, clinical studies.
 Montelukast sodium administered once daily had a safety profile consistent with that observed in patients with seasonal allergic rhinitis and similar to that of placebo.
 In these two studies, the following events were reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: sinusitis, upper respiratory infection, sinus headache, cough, epistaxis, and increased ALT.
 The incidence of somnolence was similar to that of placebo.
 
-Pediatric Patients 2 Years to 14 Years of Age with Perennial Allergic Rhinitis
+Pediatric Patients 6 Months to 14 Years of Age with Perennial Allergic Rhinitis
 
 The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
+The safety in patients 6 to 23 months of age is supported by data from pharmacokinetic and safety and efficacy studies in asthma in this pediatric population and from adult pharmacokinetic studies.
 
 ## 6.2 Post-Marketing Experience
 
@@ -101,7 +111,7 @@ Blood and lymphatic system disorders: increased bleeding tendency, thrombocytope
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 
-Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor [see Warnings and Precautions (5.4)].
+Psychiatric disorders: including, but not limited to, agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [seeWarnings and Precautions (5.4)].
 
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 
@@ -118,10 +128,10 @@ Skin and subcutaneous tissue disorders: angioedema, bruising, erythema multiform
 
 Musculoskeletal and connective tissue disorders: arthralgia, myalgia including muscle cramps.
 
-Renal and urinary disorders: enuresis in children
+Renal and urinary disorders: enuresis in children.
 
 General disorders and administration site conditions: edema.
 
 Patients with asthma on therapy with montelukast sodium may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy.
 These events have been sometimes associated with the reduction of oral corticosteroid therapy.
-Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see Warnings and Precautions (5.5)].
+Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [seeWarnings and Precautions (5.5)].
