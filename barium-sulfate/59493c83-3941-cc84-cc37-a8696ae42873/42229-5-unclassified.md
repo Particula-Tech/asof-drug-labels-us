@@ -1,11 +1,6 @@
-Mixing Instructions for VARIBAR® THIN LIQUID Cat.
-No. D105: Add water to the 40% w/v line on the VARIBAR® THIN LIQUID bottle label and replace the lid securely.
-Invert the bottle and tap with fingers to mix the powder into the water.
-Shake vigorously for 30 seconds.
-Wait 5 minutes, and refill with water to the 40% w/v line.
-Then reshake thoroughly.
+# 11 DESCRIPTION
 
-After reconstitution with water, VARIBAR® THIN LIQUID has been shown to be stable for up to 72 hours if refrigerated at 2°-8° C. With refrigeration, notate the information on the label to track usage time.
-Enter date opened and use by date.
+VARIBAR THIN LIQUID (barium sulfate) is a radiographic contrast agent that is supplied as a white to lightly colored powder for suspension (81% w/w) with an apple aroma for oral administration.
+The active ingredient barium sulfate is designated chemically as BaSO4 with a molecular weight of 233.4 g/mol, a density of 4.5 g/cm3, and the following chemical structure:
 
-Mixing instructions for reconstituting Varibar® Thin Liquid (Cat # D105)
+VARIBAR THIN LIQUID has a viscosity of <15 cPs when reconstituted and contains the following excipients: carboxymethylcellulose sodium, citric acid, maltodextrin, natural and artificial apple flavor, polysorbate 80, saccharin sodium, simethicone, sodium citrate, sorbitol and xylitol.

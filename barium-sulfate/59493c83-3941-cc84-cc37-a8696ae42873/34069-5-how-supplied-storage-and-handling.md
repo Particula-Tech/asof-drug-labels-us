@@ -1,13 +1,11 @@
-# STORAGE
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Store VARIBAR® THIN LIQUID at USP Controlled Room Temperature, 20 to 25°C (68 to 77°F).
+16.1 How Supplied
 
-# HOW SUPPLIED
+VARIBAR THIN LIQUID is supplied as a white to lightly colored powder in a multiple-dose polyethylene bottle containing 120 grams of barium sulfate (81% w/w).
 
-VARIBAR® THIN LIQUID is supplied in the following quantity: 148 g bottle, Cat.
-No. D105, NDC 32909-105-10
+Provided as: 24 x 148 g bottles (NDC 32909-105-10)
 
-Manufactured by E-Z-EM Canada Inc., for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800 544-4624
+16.2 Storage and Handling
 
-rev.
-03/17 TX1822
+Store at USP controlled room temperature 20°C to 25°C (68° F to 77° F).
