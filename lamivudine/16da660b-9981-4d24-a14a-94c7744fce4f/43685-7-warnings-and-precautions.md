@@ -21,7 +21,7 @@ Female sex and obesity may be risk factors for the development of lactic acidosi
 See full prescribing information for EPIVIR (lamivudine) and RETROVIR (zidovudine).
 Treatment with COMBIVIR should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
-## 5.4 Patients with Hepatitis B Virus Coinfection
+## 5.4 Patients with Hepatitis B Virus Co-infection
 
 Posttreatment Exacerbations of Hepatitis
 
@@ -38,7 +38,7 @@ See full prescribing information for EPIVIR (lamivudine).
 ## 5.5 Use with Interferon- and Ribavirin–Based Regimens
 
 Patients receiving interferon alfa with or without ribavirin and COMBIVIR should be closely monitored for treatment‑associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
-See full prescribing information for EPIVIR (lamivudine) and RETROVIR (zidovudine).
+See full prescribing information for RETROVIR (zidovudine).
 Discontinuation of COMBIVIR should be considered as medically appropriate.
 Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh greater than 6) (see full prescribing information for interferon and ribavirin).
 
@@ -61,5 +61,5 @@ Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barr
 
 Treatment with zidovudine, a component of COMBIVIR, has been associated with loss of subcutaneous fat.
 The incidence and severity of lipoatrophy are related to cumulative exposure.
-This fat loss, which is most evident in the face, limbs, and buttocks, may be only partially reversible and improvement may take months to years after switching to a non-zidovudine-containing regimen.
+This fat loss, which is most evident in the face, limbs, and buttocks, may be only partially reversible and improvement may take months to years afterswitching to a non-zidovudine-containing regimen.
 Patients should be regularly assessed for signs of lipoatrophy during therapy with zidovudine-containing products, and if feasible, therapy should be switched to an alternative regimen if there is suspicion of lipoatrophy.
