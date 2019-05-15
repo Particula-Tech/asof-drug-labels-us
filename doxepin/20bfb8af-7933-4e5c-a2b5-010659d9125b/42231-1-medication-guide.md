@@ -1,5 +1,7 @@
 # Medication Guide
 
+Doxepin (DOX-e-pin) Hydrochloride Capsules, USP
+
 Antidepressant Medicines, Depression and other Serious Mental Illnesses and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with you or your family member's antidepressant medicine.
@@ -55,4 +57,4 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2017-00
+09-2017-01
