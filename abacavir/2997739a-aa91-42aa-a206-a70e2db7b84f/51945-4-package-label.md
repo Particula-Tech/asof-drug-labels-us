@@ -28,7 +28,7 @@ Rx only
 
 30 Tablets
 
-©2017 ViiV Healthcare group of companies or its licensor.
+©2018 ViiV Healthcare group of companies or its licensor.
 
-1. 10000000147131 Rev.
-   8/17
+1. 10000000149595 Rev.
+   10/18

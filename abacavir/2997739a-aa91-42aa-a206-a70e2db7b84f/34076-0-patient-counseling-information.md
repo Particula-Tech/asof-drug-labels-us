@@ -44,13 +44,9 @@ Advise adolescents and adults of childbearing potential to contact their healthc
 
 Advise adolescents and adults of childbearing potential taking TRIUMEQ to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
 
-Use with Interferon- and Ribavirin‑Based Regimens in Patients with Hepatitis C Co-infection
-
-Inform patients with HIV‑1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV‑1/HCV co-infected patients receiving combination antiretroviral therapy for HIV‑1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.8)].
-
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TRIUMEQ is started [see Warnings and Precautions (5.9)].
+Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TRIUMEQ is started [see Warnings and Precautions (5.8)].
 
 Pregnancy Registry
 
@@ -94,6 +90,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 ViiV Healthcare group of companies or its licensor.
+©2019 ViiV Healthcare group of companies or its licensor.
 
-TRM:8PI
+TRM:9PI

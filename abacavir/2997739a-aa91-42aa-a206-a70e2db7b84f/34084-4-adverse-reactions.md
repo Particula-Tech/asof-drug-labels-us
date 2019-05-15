@@ -6,9 +6,8 @@ The following adverse reactions are discussed in other sections of the labeling:
 - •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3)].
 - •Hepatotoxicity [see Warnings and Precautions (5.4)].
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.5)].
-- •Hepatic decompensation in patients co-infected with HIV-1 and Hepatitis C [see Warnings and Precautions (5.8)].
-- •Immune reconstitution syndrome [see Warnings and Precautions (5.9)].
-- •Myocardial infarction [see Warnings and Precautions (5.10)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.8)].
+- •Myocardial infarction [see Warnings and Precautions (5.9)].
 
 ## 6.1 Clinical Trials Experience
 
