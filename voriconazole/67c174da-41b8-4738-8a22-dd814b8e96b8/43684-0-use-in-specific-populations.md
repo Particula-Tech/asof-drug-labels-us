@@ -6,11 +6,11 @@
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 There are no available data on the use of voriconazole tablets in pregnant women.
-In animal reproduction studies, oral voriconazole was teratogenic in rats and embryotoxic in rabbits.
-Cleft palates and hydronephrosis/hydroureter were observed in rat pups exposed to voriconazole during organogenesis at and above 10 mg/kg (0.3 times the recommended maintenance dose of 200 mg every 12 hours based on body surface area comparisons).
+In animal reproduction studies, oral voriconazole was associated with fetal malformations in rats and fetal toxicity in rabbits.
+Cleft palates and hydronephrosis/hydroureter were observed in rat pups exposed to voriconazole during organogenesis at and above 10 mg/kg (0.3 times the RMD of 200 mg every 12 hours based on body surface area comparisons).
 In rabbits, embryomortality, reduced fetal weight and increased incidence of skeletal variations, cervical ribs and extrasternal ossification sites were observed in pups when pregnant rabbits were orally dosed at 100 mg/kg (6 times the RMD based on body surface area comparisons) during organogenesis.
 Rats exposed to voriconazole from implantation to weaning experienced increased gestational length and dystocia, which were associated with increased perinatal pup mortality at the 10 mg/kg dose [see Data].
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus [see Warnings and Precautions (5.4)].
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus [see Warnings and Precautions (5.8)].
 
 The background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20% respectively.
@@ -20,12 +20,12 @@ In the U.S. general population, the estimated background risk of major birth def
 #### Animal Data
 
 Voriconazole was administered orally to pregnant rats during organogenesis (gestation days 6-17) at 10, 30, and 60 mg/kg/day.
-Voriconazole was teratogenic with increased incidences in hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on mg/m2, and cleft palate at 60 mg/kg, approximately 2 times the recommended human dose (RMD) based on mg/m2.
+Voriconazole was associated with increased incidences in hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on mg/m2, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on mg/m2.
 Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bone, supernumerary ribs, anomalies of the sternbrae, and dilatation of the ureter/renal pelvis were also observed at doses of 10 mg/kg or greater.
 There was no evidence of maternal toxicity at any dose.
 
 Voriconazole was administered orally to pregnant rabbits during the period of organogenesis (gestation days 7-19) at 10, 40, and 100 mg/kg/day.
-Voriconazole produced embryofetal toxicity (increased post-implantation loss, decreased fetal body weight) in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on mg/m2).
+Voriconazole was associated with increased post-implantation loss and decreased fetal body weight, in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on mg/m2).
 Fetal skeletal variations (increases in the incidence of cervical rib and extra sternebral ossification sites) were observed at 100 mg/kg/day.
 
 In a peri- and postnatal toxicity study in rats, voriconazole was administered orally to female rats from implantation through the end of lactation at 1, 3, and 10 mg/kg/day.
@@ -36,7 +36,7 @@ Voriconazole prolonged the duration of gestation and labor and produced dystocia
 ### Risk Summary
 
 No data are available regarding the presence of voriconazole in human milk, the effects of voriconazole on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for voriconazole tablets and any potential adverse effects on the breastfed child from voriconazole tablets or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for voriconazole tablets and any potential adverse effects on the breastfed child from voriconazole or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -48,17 +48,21 @@ Monitoring for adverse reactions associated with oral contraceptives and voricon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 12 years have not been established.
+The safety and effectiveness of voriconazole have been established in pediatric patients 2 years of age and older based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data.
+A total of 105 pediatric patients aged 2 to less than 12 [N = 26] and aged 12 to less than 18 [N = 79] from two, non-comparative Phase 3 pediatric studies and eight adult therapeutic trials provided safety information for voriconazole use in the pediatric population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
-A total of 22 patients aged 12 to 18 years with invasive aspergillosis were included in the therapeutic studies.
-Twelve out of 22 (55%) patients had successful response after treatment with a maintenance dose of voriconazole 4 mg/kg q12h.
+Safety and effectiveness in pediatric patients below the age of 2 years has not been established.
+Therefore, voriconazole is not recommended for pediatric patients less than 2 years of age.
 
-Sparse plasma sampling for pharmacokinetics in adolescents was conducted in the therapeutic studies [see Clinical Pharmacology (12.3)].
-A population pharmacokinetic analysis was conducted on pooled data from 35 immunocompromised pediatric patients aged 2 to < 12 years old who were included in two pharmacokinetic studies of intravenous voriconazole (single dose and multiple dose).
-Twenty-four of these patients received multiple intravenous maintenance doses of 3 mg/kg and 4 mg/kg.
-A comparison of the pediatric and adult population pharmacokinetic data revealed that the predicted average steady state plasma concentrations were similar at the maintenance dose of 4 mg/kg every 12 hours in children and 3 mg/kg every 12 hours in adults (medians of 1.19 μg/mL and 1.16 μg/mL in children and adults, respectively).
+A higher frequency of liver enzyme elevations was observed in the pediatric patients [see Dosage and Administration (2.5), Warnings and Precautions (5.1), and Adverse Reactions (6.1)].
 
-There have been postmarketing reports of pancreatitis in pediatric patients.
+The frequency of phototoxicity reactions is higher in the pediatric population.
+Squamous cell carcinoma has been reported in patients who experience photosensitivity reactions.
+Stringent measures for photoprotection are warranted.
+Sun avoidance and dermatologic follow-up are recommended in pediatric patients experiencing photoaging injuries, such as lentigines or ephelides, even after treatment discontinuation [see Warnings and Precautions (5.6)].
+
+Voriconazole has not been studied in pediatric patients with hepatic or renal impairment [see Dosage and Administration (2.5, 2.6)].
+Hepatic function and serum creatinine levels should be closely monitored in pediatric patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.9)].
 
 ## 8.5 Geriatric Use
 
