@@ -5,7 +5,7 @@
 ### Cold Sores (Herpes Labialis)
 
 Valacyclovir tablets are indicated for treatment of cold sores (herpes labialis).
-The efficacy of valacyclovir tablets initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle or ulcer) has not been established.
+The efficacy of valacyclovir tablets initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
 
 ### Genital Herpes
 
@@ -22,7 +22,7 @@ The efficacy of treatment with valacyclovir tablets when initiated more than 24 
 #### Suppressive Therapy
 
 Valacyclovir tablets are indicated for chronic suppressive therapy of recurrent episodes of genital herpes in immunocompetent and in HIV-infected adults.
-The efficacy and safety of valacyclovir tablets for the suppression of genital herpes beyond one year in immunocompetent patients and beyond 6 months in HIV-infected patients have not been established.
+The efficacy and safety of valacyclovir tablets for the suppression of genital herpes beyond 1 year in immunocompetent patients and beyond 6 months in HIV-infected patients have not been established.
 
 #### Reduction of Transmission
 
@@ -41,16 +41,16 @@ The efficacy of valacyclovir tablets when initiated more than 72 hours after the
 ### Cold Sores (Herpes Labialis)
 
 Valacyclovir tablets are indicated for the treatment of cold sores (herpes labialis) in pediatric patients ≥ 12 years of age.
-The efficacy of valacyclovir tablets initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle or ulcer) has not been established.
+The efficacy of valacyclovir tablets initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
 
 ### Chickenpox
 
-Valacyclovir tablets are indicated for the treatment of chickenpox in immunocompetent pediatric patients 2 to < 18 years of age.
-Based on efficacy data from clinical studies with oral acyclovir, treatment with valacyclovir tablets should be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)].
+Valacyclovir is indicated for the treatment of chickenpox in immunocompetent pediatric patients 2 to < 18 years of age.
+Based on efficacy data from clinical studies with oral acyclovir, treatment with valacyclovir should be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)].
 
 ## 1.3 Limitations of Use
 
-The efficacy and safety of valacyclovir tablets have not been established in:
+The efficacy and safety of valacyclovir have not been established in:
 
 - •Immunocompromised patients other than for the suppression of genital herpes in HIV-infected patients with a CD4+ cell count ≥ 100 cells/mm3.
 - •Patients < 12 years of age with cold sores (herpes labialis).

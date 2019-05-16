@@ -8,9 +8,9 @@ Patients should be advised to maintain adequate hydration.
 
 ## 17.2 Cold Sores (Herpes Labialis)
 
-Patients should be advised to initiate treatment at the earliest symptom of a cold sore (e.g., tingling, itching or burning).
-There are no data on the effectiveness of treatment initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle or ulcer).
-Patients should be instructed that treatment for cold sores should not exceed 1 day (two doses) and that their doses should be taken about 12 hours apart.
+Patients should be advised to initiate treatment at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
+There are no data on the effectiveness of treatment initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer).
+Patients should be instructed that treatment for cold sores should not exceed 1 day (2 doses) and that their doses should be taken about 12 hours apart.
 Patients should be informed that valacyclovir tablets are not a cure for cold sores.
 
 ## 17.3 Genital Herpes
@@ -28,7 +28,7 @@ If medical management of a genital herpes recurrence is indicated, patients shou
 
 There are no data on the effectiveness of treatment initiated more than 72 hours after the onset of signs and symptoms of a first episode of genital herpes or more than 24 hours after the onset of signs and symptoms of a recurrent episode.
 
-There are no data on the safety or effectiveness of chronic suppressive therapy of more than one year’s duration in otherwise healthy patients.
+There are no data on the safety or effectiveness of chronic suppressive therapy of more than 1 year’s duration in otherwise healthy patients.
 There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV-infected patients.
 
 ## 17.4 Herpes Zoster
