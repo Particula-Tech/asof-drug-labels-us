@@ -142,15 +142,15 @@ PREMPRO also contains either 1.5, 2.5, or 5 mg of medroxyprogesterone acetate.
 
 PREMPRO 0.3 mg/1.5 mg and 0.45 mg/1.5 mg tablets also contain calcium phosphate tribasic, microcrystalline cellulose, lactose monohydrate, carnauba wax, hypromellose, magnesium stearate, polyethylene glycol, sucrose, hydroxypropyl cellulose, Eudragit NE 30D, titanium dioxide, yellow iron oxide, propylene glycol and black iron oxide.
 
-PREMPRO 0.625 mg/2.5 mg tablets also contain calcium phosphate tribasic, microcrystalline cellulose, lactose monohydrate, hypromellose, magnesium stearate, polyethylene glycol, sucrose, hydroxypropyl cellulose, Eudragit NE 30D, povidone, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
+PREMPRO 0.625 mg/2.5 mg tablets also contain calcium phosphate tribasic, microcrystalline cellulose, carnauba wax, lactose monohydrate, hypromellose, magnesium stearate, polyethylene glycol, sucrose, hydroxypropyl cellulose, Eudragit NE 30D, propylene glycol, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
 
-PREMPRO 0.625 mg/5 mg tablets also contain calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, FD&C Blue No. 2, and black iron oxide.
+PREMPRO 0.625 mg/5 mg tablets also contain calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, triethyl citrate, FD&C Blue No. 2, black iron oxide, and propylene glycol.
 
 PREMPHASE is two separate tablets.
 One tablet (maroon color) is 0.625 mg of Premarin, which is a mixture of sodium estrone sulfate and sodium equilin sulfate and other components, including sodium sulfate conjugates, 17 α-dihydroequilin, 17 α-estradiol and 17 β-dihydroequilin.
-The maroon tablet also contains calcium phosphate tribasic, hydroxypropyl cellulose, microcrystalline cellulose, powdered cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, sucrose, titanium dioxide, FD&C Blue No. 2, FD&C Red No. 40.
+The maroon tablet also contains calcium phosphate tribasic, carnauba wax, hydroxypropyl cellulose, microcrystalline cellulose, powdered cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, sucrose, titanium dioxide, propylene glycol, FD&C Blue No. 2, FD&C Red No. 40.
 The second tablet (light-blue color) contains 0.625 mg of the same ingredients as the maroon color tablet plus 5 mg of medroxyprogesterone acetate.
-The light-blue tablet also contains calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, FD&C Blue No. 2, and black iron oxide.
+The light-blue tablet also contains calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, triethyl citrate, FD&C Blue No. 2, black iron oxide, and propylene glycol.
 
 PREMPRO therapy consists of a single tablet to be taken once daily.
 
@@ -188,4 +188,4 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 | This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com. |
 | --- |
 
-LAB-0504-8.0 Revised October 2018
+LAB-0504-9.0 Revised May 2019

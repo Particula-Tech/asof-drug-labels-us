@@ -191,7 +191,7 @@ LOT XXXXXXX EXP XXXXXX
 
 12944302
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg - Carton
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg Tablet Blister Card Carton
 
 NDC 0046-1108-11
 
@@ -201,9 +201,7 @@ Pfizer PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
 
 0.625 mg / 5 mg
 
-Package contains 1 blister card of 28 tablets.
-
-www.PREMPRO.com
+Package contains 1 blister card of 28 tablets. www.PREMPRO.com
 
 # PRINCIPAL DISPLAY PANEL - 28 Tablet 0.625 mg / 5 mg Blister Pack
 

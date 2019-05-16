@@ -13,16 +13,16 @@ Its structural formula is:
 
 PREMPRO 0.3 mg/1.5 mg and 0.45 mg/1.5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, microcrystalline cellulose, carnauba wax, hypromellose, hydroxypropyl cellulose, sucrose, Eudragit NE 30D, lactose monohydrate, magnesium stearate, polyethylene glycol, titanium dioxide, yellow iron oxide, propylene glycol and black iron oxide.
 
-PREMPRO 0.625 mg/2.5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, microcrystalline cellulose, hypromellose, hydroxypropyl cellulose, sucrose, Eudragit NE 30D, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
+PREMPRO 0.625 mg/2.5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, microcrystalline cellulose, carnauba wax, hypromellose, hydroxypropyl cellulose, sucrose, Eudragit NE 30D, lactose monohydrate, magnesium stearate, polyethylene glycol, propylene glycol, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
 
-PREMPRO 0.625 mg/5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, FD&C Blue No. 2, and black iron oxide.
+PREMPRO 0.625 mg/5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, triethyl citrate, FD&C Blue No. 2, black iron oxide, and propylene glycol.
 
 PREMPHASE
 
-Each maroon Premarin tablets for oral administration contain 0.625 mg of conjugated estrogens and the following inactive ingredients: calcium phosphate tribasic, hydroxypropyl cellulose, microcrystalline cellulose, powdered cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, sucrose, titanium dioxide, FD&C Blue No. 2, and FD&C Red No. 40.
+Each maroon Premarin tablets for oral administration contain 0.625 mg of conjugated estrogens and the following inactive ingredients: calcium phosphate tribasic, carnauba wax, hydroxypropyl cellulose, microcrystalline cellulose, powdered cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, sucrose, titanium dioxide, propylene glycol, FD&C Blue No. 2, and FD&C Red No. 40.
 These tablets comply with USP Dissolution Test 5.
 
-Each light-blue tablet for oral administration contains 0.625 mg of conjugated estrogens, 5 mg of medroxyprogesterone acetate, and the following inactive ingredients: calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, FD&C Blue No. 2, and black iron oxide.
+Each light-blue tablet for oral administration contains 0.625 mg of conjugated estrogens, 5 mg of medroxyprogesterone acetate, and the following inactive ingredients: calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, triethyl citrate, FD&C Blue No. 2, black iron oxide, and propylene glycol.
 
 PREMPRO
 
