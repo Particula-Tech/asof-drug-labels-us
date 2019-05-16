@@ -13,9 +13,13 @@
 - Patients receiving meropenem on an outpatient basis must be alerted of adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
   Until it is reasonably well established that meropenem is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.9)].
 
-Manufactured for: Amneal Biosciences LLC Bridgewater, NJ 08807
+Manufactured for:
+
+Amneal Biosciences LLC
+
+Bridgewater, NJ 08807
 
 Made in Taiwan
 
 Rev.
-06-2018-05
+05-2019-06
