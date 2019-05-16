@@ -25,7 +25,7 @@ Use strict aseptic techniques throughout the insertion procedure [see Warnings a
 
 ### Timing of Insertion
 
-Table: When to Insert Mirena
+Table 1: When to Insert Mirena
 
 | Starting Mirena in women not currently using hormonal or intrauterine contraception | Mirena can be inserted any time the provider can be reasonably certain the woman is not pregnant. Consider the possibility of ovulation and conception prior to initiation of this product [see Contraindications (4)].If Mirena is inserted during the first seven days of the menstrual cycle or immediately after a first trimester abortion, back up contraception is not needed.If Mirena is not inserted during the first seven days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for seven days to prevent pregnancy. |
 | --- | --- |
