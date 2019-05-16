@@ -28,7 +28,7 @@ Regulatory Exceptions to the General Requirement for Certification to Provide Op
 
 ## 2.3 Methadone Hydrochloride Oral Solution for Management of Pain
 
-Important Dosage and Administration Information
+Important Dosage and Administration Information:
 
 Methadone Hydrochloride Oral Solution should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
@@ -46,11 +46,11 @@ Initiate the dosing regimen for each patient individually, taking into account t
 
 Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with Methadone Hydrochloride Oral Solution and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
 
-Use of Methadone Hydrochloride Oral Solution as the First Opioid Analgesic
+Use of Methadone Hydrochloride Oral Solution as the First Opioid Analgesic:
 
 Initiate treatment with Methadone Hydrochloride Oral Solution with 2.5 mg orally every 8 to 12 hours.
 
-Conversion from Other Oral Opioids to Methadone Hydrochloride Oral Solution
+Conversion from Other Oral Opioids to Methadone Hydrochloride Oral Solution:
 
 Discontinue all other around-the-clock opioid drugs when methadone therapy is initiated.
 Deaths have occurred in opioid-tolerant patients during conversion to methadone.
@@ -87,7 +87,7 @@ To calculate the estimated methadone dose using Table 1:
 
 Always round the dose down, if necessary, to the appropriate Methadone Hydrochloride Oral Solution strength(s) available.
 
-Example Conversion from a Single Opioid to Methadone Hydrochloride Oral Solution
+Example Conversion from a Single Opioid to Methadone Hydrochloride Oral Solution:
 
 Step 1: Sum the total daily dose of the opioid (in this case, Morphine Extended Release Tablets 50 mg twice daily)
 
@@ -102,7 +102,7 @@ Step 1: Sum the total daily dose of the opioid (in this case, Morphine Extended 
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to Methadone Hydrochloride Oral Solution.
 
-Conversion from Parenteral Methadone to Methadone Hydrochloride Oral Solution
+Conversion from Parenteral Methadone to Methadone Hydrochloride Oral Solution:
 
 Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
 
@@ -175,7 +175,7 @@ Do not determine initial doses based on previous treatment episodes or dollars s
 During the induction phase of methadone maintenance treatment, patients are being withdrawn from opioids and may have opioid withdrawal symptoms.
 Monitor patients for signs and symptoms of opioid withdrawal including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.
 
-Short-Term Detoxification
+Short-Term Detoxification:
 
 For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
 After 2 to 3 days of stabilization, gradually decrease the dose of Methadone Hydrochloride Oral Solution.

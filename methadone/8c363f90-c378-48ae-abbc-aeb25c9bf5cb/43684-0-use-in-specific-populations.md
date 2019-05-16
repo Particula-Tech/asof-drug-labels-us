@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+Risk Summary:
 
 Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.6)].
 
@@ -23,7 +23,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+Clinical Considerations:
 
 Disease-associated Maternal and Embryo-fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
@@ -99,16 +99,16 @@ These animal data mirror the reported clinical findings of decreased testosteron
 
 ## 8.2 Lactation
 
-Risk Summary
+Risk Summary:
 
 Based on two studies in 22 breastfeeding women maintained on methadone treatment, methadone was present in low levels in human milk, and did not show adverse reactions in breastfed infants.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for methadone and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
-Clinical Considerations
+Clinical Considerations:
 
 Advise breastfeeding women taking methadone to monitor the infant for increased drowsiness and breathing difficulties.
 
-Data
+Data:
 
 In a study of ten breastfeeding women maintained on oral methadone doses of 10 to 80 mg/day, methadone concentrations from 50 to 570 mcg/L in milk were reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state.
 
@@ -120,7 +120,7 @@ There have been rare cases of sedation and respiratory depression in infants exp
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
+Infertility:
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2), Nonclinical Pharmacology (13.1)].

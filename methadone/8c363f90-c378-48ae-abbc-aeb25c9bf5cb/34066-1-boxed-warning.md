@@ -12,8 +12,7 @@ Assess each patient’s risk prior to prescribing Methadone Hydrochloride Oral S
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS):
 
-To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.3)].
-Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.3)].Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to
 
 - •complete a REMS-compliant education program,
