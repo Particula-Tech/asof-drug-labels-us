@@ -1,0 +1,11 @@
+# PRINCIPAL DISPLAY PANEL - 60 g Tube Carton
+
+Rx only
+
+NDC 16714-956-01
+
+Dapsone Gel 5%
+
+FOR TOPICAL USE ONLY
+
+NORTHSTARX™ 60 g
