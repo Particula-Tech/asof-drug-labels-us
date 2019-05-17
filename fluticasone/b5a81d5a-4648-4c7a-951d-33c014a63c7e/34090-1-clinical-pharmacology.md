@@ -79,13 +79,13 @@ A separate trial with subjects with COPD demonstrated no effects on serum cortis
 
 Linear pharmacokinetics was observed for fluticasone furoate (200 to 800 mcg), umeclidinium (62.5 to 500 mcg), and vilanterol (25 to 100 mcg).
 The pharmacokinetics of fluticasone furoate, umeclidinium, and vilanterol from TRELEGY ELLIPTA are comparable to the pharmacokinetics of fluticasone furoate, umeclidinium, and vilanterol when administered as fluticasone furoate/vilanterol or umeclidinium/vilanterol.
-Additionally, the systemic drug levels of fluticasone furoate, umeclidinium, and vilanterol following administration of TRELEGY ELLIPTA in subjects with COPD (N = 74) were within the range of those observed following administration of the fluticasone furoate/vilanterol and umeclidinium/vilanterol dual combinations and after administration of fluticasone furoate, umeclidinium, and vilanterol as monotherapy.
+Additionally, the systemic drug levels (steady-state Cmax and AUC) of fluticasone furoate, umeclidinium, and vilanterol following administration of TRELEGY ELLIPTA based on a combined pharmacokinetic dataset from 3 studies in subjects with COPD (N = 821) were within the range of those observed following administration of fluticasone furoate/vilanterol plus umeclidinium administered via 2 inhalers, fluticasone furoate/vilanterol and umeclidinium/vilanterol as the dual combinations, and after administration of fluticasone furoate, umeclidinium, and vilanterol as monotherapy.
 The pharmacokinetics of the individual components of TRELEGY ELLIPTA are presented below (Figures 1, 2, and 3).
 Plasma levels of fluticasone furoate, umeclidinium, and vilanterol may not predict therapeutic effect.
 
 Absorption
 
-Fluticasone Furoate: Following inhaled administration of fluticasone furoate, Cmax occurred within 0.5 to 1 hours.
+Fluticasone Furoate: Following inhaled administration of fluticasone furoate, Cmax occurred within 0.5 to 1 hour.
 Absolute bioavailability of fluticasone furoate when administered by inhalation was 15.2%, primarily due to absorption of the inhaled portion of the dose delivered to the lung.
 Oral bioavailability from the swallowed portion of the dose is low (approximately 1.3%) due to extensive first-pass metabolism.
 Following repeat dosing of inhaled fluticasone furoate, steady state was achieved within 6 days with up to 2.6-fold accumulation.
@@ -135,27 +135,27 @@ Following oral administration of radiolabeled vilanterol, mass balance showed 70
 Specific Populations
 
 The effects of intrinsic and extrinsic factors on the pharmacokinetics of fluticasone furoate, umeclidinium, and vilanterol are shown in Figures 1, 2, and 3.
+Based on population pharmacokinetic analyses, none of the covariates assessed (i.e., age, race, gender) had a clinically relevant effect on fluticasone furoate, umeclidinium, or vilanterol pharmacokinetics when administered as TRELEGY ELLIPTA.
 
 Figure 1.
-Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination
-
-1. a Age, gender, and ethnicity comparison for fluticasone furoate/vilanterol 100 mcg/25 mcg in subjects with COPD.
-2. b Renal groups (fluticasone furoate/vilanterol 200 mcg/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200 mcg/25 mcg or fluticasone furoate/vilanterol 100 mcg/12.5 mcg).
+Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF), Umeclidinium (UMEC), and Vilanterol (VI) Following Coadministration
 
 Figure 2.
-Impact of Coadministered Drugsa on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/ Vilanterol Combination or Vilanterol Coadministered with Umeclidinium
+Impact of Intrinsic Factorsa and Coadministered Drugsb on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination or Following Vilanterol Coadministered with Umeclidinium
 
-1. a Compared with placebo group.
+a Renal groups (fluticasone furoate/vilanterol 200 mcg/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200 mcg/25 mcg or fluticasone furoate/vilanterol 100 mcg/12.5 mcg).
+
+b Compared with placebo group.
 
 Figure 3.
-Impact of Intrinsic and Extrinsic Factors on the Systemic Exposure of Umeclidinium
+Impact of Intrinsic Factors and Coadministered Drugs on the Systemic Exposure of Umeclidinium
 
-Racial or Ethnic Groups: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with white subjects.
-Similar differences were observed for subjects with COPD.
-However, there is no evidence that this higher exposure to fluticasone furoate results in clinically relevant effects on urinary cortisol excretion or on efficacy in these racial groups.
-There was no effect of race on the pharmacokinetics of vilanterol in subjects with COPD (Figure 1).
+Racial or Ethnic Groups: Systemic exposure (AUCss) to inhaled fluticasone furoate was approximately 30% higher in subjects with COPD of East Asian heritage (n = 113) compared with white subjects (Figure 1).
+However, this higher exposure to fluticasone furoate is not expected to have clinically relevant effects on serum or urine cortisol or on efficacy in these racial groups.
 
-Patients with Hepatic Impairment: Fluticasone Furoate: Following repeat dosing of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days, there was an increase of 34%, 83%, and 75% in fluticasone furoate systemic exposure (AUC) in subjects with mild, moderate, and severe hepatic impairment, respectively, compared with healthy subjects (Figure 1).
+There was no effect of race on the pharmacokinetics of umeclidinium or vilanterol in subjects with COPD (Figure 1).
+
+Patients with Hepatic Impairment: Fluticasone Furoate: Following repeat dosing of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days, there was an increase of 34%, 83%, and 75% in fluticasone furoate systemic exposure (AUC) in subjects with mild, moderate, and severe hepatic impairment, respectively, compared with healthy subjects (Figure 2).
 
 In subjects with moderate hepatic impairment receiving fluticasone furoate/vilanterol 200 mcg/25 mcg, mean serum cortisol (0 to 24 hours) was reduced by 34% (90% CI: 11%, 51%) compared with healthy subjects.
 In subjects with severe hepatic impairment receiving fluticasone furoate/vilanterol 100 mcg/12.5 mcg, mean serum cortisol (0 to 24 hours) was increased by 14% (90% CI: -16%, 55%) compared with healthy subjects.
@@ -166,18 +166,18 @@ There was no evidence of an increase in systemic exposure to umeclidinium (Cmax 
 There was no evidence of altered protein binding in subjects with moderate hepatic impairment compared with healthy subjects.
 TRELEGY ELLIPTA has not been evaluated in subjects with severe hepatic impairment.
 
-Vilanterol: Hepatic impairment had no effect on vilanterol systemic exposure [Cmax and AUC(0-24) on Day 7] following repeat-dose administration of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days (Figure 1).
+Vilanterol: Hepatic impairment had no effect on vilanterol systemic exposure (Cmax and AUCss on Day 7) following repeat-dose administration of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days (Figure 2).
 
 There were no additional clinically relevant effects of the fluticasone furoate/vilanterol combinations on heart rate or serum potassium in subjects with mild or moderate hepatic impairment (vilanterol 25 mcg combination) or with severe hepatic impairment (vilanterol 12.5 mcg combination) compared with healthy subjects.
 
-Patients with Renal Impairment: Fluticasone Furoate: Systemic exposure was not increased in subjects with severe renal impairment compared with healthy subjects (Figure 1).
+Patients with Renal Impairment: Fluticasone Furoate: Systemic exposure was not increased in subjects with severe renal impairment compared with healthy subjects (Figure 2).
 There was no evidence of greater corticosteroid class-related systemic effects (assessed by serum cortisol) in subjects with severe renal impairment compared with healthy subjects.
 
 Umeclidinium: The pharmacokinetics of umeclidinium has been evaluated in subjects with severe renal impairment (creatinine clearance <30 mL/min).
 There was no evidence of an increase in systemic exposure to umeclidinium (Cmax and AUC) (Figure 3).
 There was no evidence of altered protein binding in subjects with severe renal impairment compared with healthy subjects.
 
-Vilanterol: Systemic exposure [AUC(0-24)] was 56% higher in subjects with severe renal impairment compared with healthy subjects (Figure 1).
+Vilanterol: Systemic exposure (AUCss) was 56% higher in subjects with severe renal impairment compared with healthy subjects (Figure 2).
 There was no evidence of greater beta‑agonist class-related systemic effects (assessed by heart rate and serum potassium) in subjects with severe renal impairment compared with healthy subjects.
 
 Drug Interaction Studies

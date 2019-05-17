@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The clinical efficacy of TRELEGY ELLIPTA has been evaluated in 3 clinical trials: Trial 1 (NCT #01957163), Trial 2 (NCT #02119286), and Trial 3 (NCT #02164513).
+The clinical efficacy of TRELEGY ELLIPTA has been evaluated in 3 clinical trials in subjects with COPD, including chronic bronchitis and/or emphysema: Trial 1 (NCT #01957163), Trial 2 (NCT #02119286), and Trial 3 (NCT #02164513).
 
 Trials 1 and 2 were multicenter, randomized, double-blind, parallel-group, 12-week treatment trials.
 Across both trials, a total of 412 subjects received coadministration of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100 mcg/25 mcg, the components of TRELEGY ELLIPTA.
@@ -28,10 +28,7 @@ Least Squares (LS) Mean Change from Baseline in Trough FEV1 and Weighted Mean FE
 | UMEC + FF/VI | 206 | 124(93, 154) | 153(118, 187) |
 | Trial 2 |  |  |  |
 | UMEC + FF/VI | 206 | 122(91, 152) | 147(114, 179) |
-
-FEV1 = Forced Expiratory Volume in 1 Second; FF/VI = Fluticasone Furoate/Vilanterol 100 mcg/25 mcg; UMEC = Umeclidinium 62.5 mcg.
-
-a At Day 85. b At Day 84. c For Placebo + FF/VI: Trial 1, n = 206; Trial 2, n = 206.
+| FEV1 = Forced Expiratory Volume in 1 Second; FF/VI = Fluticasone Furoate/Vilanterol 100 mcg/25 mcg; UMEC = Umeclidinium 62.5 mcg. a At Day 85. b At Day 84. c For Placebo + FF/VI: Trial 1, n = 206; Trial 2, n = 206. |  |  |  |
 
 Greater LS mean changes from baseline in FEV1 over time were demonstrated for the umeclidinium + fluticasone furoate/vilanterol treatment group compared with the placebo + fluticasone furoate/vilanterol treatment group starting at 15 minutes postdose on Day 1.
 For Trial 1, LS mean changes in FEV1 over time relative to baseline are displayed for Day 1 and Day 84 in Figures 4 and 5, respectively.
@@ -57,15 +54,14 @@ Exacerbations were considered to be moderate severity if treatment with systemic
 Treatment with TRELEGY ELLIPTA statistically significantly reduced the on-treatment annual rate of moderate/severe exacerbations by 15% compared with fluticasone furoate/vilanterol and by 25% compared with umeclidinium/vilanterol (Table 3).
 
 Table 3.
-Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations
+Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations (Trial 3)a
 
-| Treatment | n | Mean Annual Rate(exacerbations/year) | Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |
-| --- | --- | --- | --- | --- | --- |
-| TRELEGY ELLIPTA | 4,145 | 0.91 |  |  |  |
-| FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |
-| UMEC/VI | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |
-
-FF/VI = Fluticasone Furoate/Vilanterol 100 mcg/25 mcg; UMEC/VI = Umeclidinium/Vilanterol 62.5 mcg/25 mcg.
+| Treatment | n | Mean Annual Rate(exacerbations/year) | Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TRELEGY ELLIPTA | 4,145 | 0.91 |  |  |  |  |  |  |  |
+| FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |  |  |  |  |
+| UMEC/VI | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |  |  |  |  |
+| FF/VI = Fluticasone Furoate/Vilanterol 100 mcg/25 mcg; UMEC/VI = Umeclidinium/Vilanterol 62.5 mcg/25 mcg. a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |  |  |  |  |
 
 Treatment with TRELEGY ELLIPTA statistically significantly decreased the risk of a moderate/severe exacerbation as measured by time to first exacerbation when compared with fluticasone furoate/vilanterol (14.8%; 95% CI: 9.3, 19.9; P<0.001) and umeclidinium/vilanterol (16.0%; 95% CI: 9.4, 22.1; P<0.001).
 
@@ -74,7 +70,7 @@ Treatment with TRELEGY ELLIPTA statistically significantly reduced the on-treatm
 
 Health-Related Quality of Life: In all 3 trials, health-related quality of life was assessed using the St. George’s Respiratory Questionnaire for COPD patients (SGRQ-C), a disease-specific shorter version derived from the original St. George’s Respiratory Questionnaire (SGRQ).
 Results were transformed to the SGRQ for reporting purposes.
-In Trial 1, the on‑treatment responder rate at Week 12 (response defined as a decrease in score from baseline of 4 or more) was 40% for umeclidinium + fluticasone furoate/vilanterol vs. 35% for placebo + fluticasone furoate/vilanterol (odds ratio 1.2; 95% CI: 0.8, 1.8).
+In Trial 1, the on‑treatment responder rate at Week 12 (response defined as a decrease in score from baseline of 4 or more) was 40% for umeclidinium +fluticasone furoate/vilanterol vs. 35% for placebo + fluticasone furoate/vilanterol (odds ratio 1.2; 95% CI: 0.8, 1.8).
 In Trial 2, the on‑treatment responder rate at Week 12 was 35% for umeclidinium + fluticasone furoate/vilanterol vs. 21% for placebo + fluticasone furoate/vilanterol (odds ratio 2.0; 95% CI: 1.3, 3.1).
 In Trial 3, the on-treatment responder rate at Week 52 was statistically significantly greater for subjects treated with TRELEGY ELLIPTA (42%) compared with fluticasone furoate/vilanterol (34%; odds ratio 1.41; 95% CI: 1.29, 1.55; P<0.001) and compared with umeclidinium/vilanterol (34%; odds ratio 1.41; 95% CI: 1.26, 1.57; P<0.001).
 
