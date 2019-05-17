@@ -10,7 +10,6 @@ The following adverse reactions are described in more detail in the Warnings and
 - Hallucinations / Psychotic-Like Behavior [see Warnings and Precautions (5.8)]
 - Impulse Control /Compulsive Behaviors [see Warnings and Precautions (5.9)]
 - Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.10)]
-- Melanoma [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 

@@ -16,4 +16,5 @@ Patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should not 
 
 ## 2.3 Patients with Hepatic Impairment
 
-Patients with mild hepatic impairment should not exceed a dose of rasagiline 0.5 mg once daily. rasagiline should not be used in patients with moderate or severe hepatic impairment [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Patients with mild hepatic impairment should not exceed a dose of rasagiline 0.5 mg once daily.
+Rasagiline should not be used in patients with moderate or severe hepatic impairment [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].

@@ -9,7 +9,8 @@ In Study 3, rasagiline (1 mg/day) given in conjunction with levodopa, produced a
 When used as an adjunct to levodopa (Studies 3 and 4), the risk for developing post-treatment high blood pressure (e.g., systolic > 180 or diastolic >100 mm Hg) combined with a significant increase from baseline (e.g., systolic > 30 or diastolic > 20 mm Hg) was higher for rasagiline (2%) compared to placebo (1%).
 Dietary tyramine restriction is not required during treatment with recommended doses of rasagiline.
 However, certain foods that may contain very high amounts (i.e., more than 150 mg) of tyramine that could potentially cause severe hypertension because of tyramine interaction (including various clinical syndromes referred to as hypertensive urgency, crisis, or emergency) in patients taking rasagiline, even at the recommended doses, due to increased sensitivity to tyramine.
-Patients should be advised to avoid foods containing a very large amount of tyramine while taking recommended doses of rasagiline because of the potential for large increases in blood pressure including clinical syndromes referred to as hypertensive urgency, crisis, or emergency. rasagiline is a selective inhibitor of MAO-B at the recommended doses of 0.5 or 1 mg daily.
+Patients should be advised to avoid foods containing a very large amount of tyramine while taking recommended doses of rasagiline because of the potential for large increases in blood pressure including clinical syndromes referred to as hypertensive urgency, crisis, or emergency.
+Rasagiline is a selective inhibitor of MAO-B at the recommended doses of 0.5 or 1 mg daily.
 Selectivity for inhibiting MAO-B diminishes in a dose-related manner as the dose is progressively increased above the recommended daily doses.
 
 ## 5.2 Serotonin Syndrome
@@ -48,7 +49,8 @@ Patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should not 
 ## 5.5 Hepatic Impairment
 
 Rasagiline plasma concentration may increase in patients with hepatic impairment.
-Patients with mild hepatic impairment should be given the dose of rasagiline 0.5 mg once daily. rasagiline should not be used in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Patients with mild hepatic impairment should be given the dose of rasagiline 0.5 mg once daily.
+Rasagiline should not be used in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 5.6 Hypotension / Orthostatic Hypotension
 
@@ -65,7 +67,7 @@ Postural hypotension led to drug discontinuation and premature withdrawal from c
 
 ## 5.7 Dyskinesia
 
-When used as an adjunct to levodopa, rasagiline may cause dyskinesia or potentiate dopaminergic side effects and exacerbate pre-existing dyskinesia.
+When used as an adjunct to levodopa, rasagiline may cause dyskinesia or potentiate dopaminergic side effects and exacerbate preexisting dyskinesia.
 In Study 3, the incidence of dyskinesia was 18% for patients treated with 0.5 mg or 1 mg rasagiline as an adjunct to levodopa and 10% for patients treated with placebo as an adjunct to levodopa.
 Decreasing the dose of levodopa may mitigate this side effect [see Adverse Reactions (6.1)].
 
@@ -82,7 +84,7 @@ The incidence of hallucinations leading to drug discontinuation and premature wi
 Postmarketing reports indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with rasagiline or after starting or increasing the dose of rasagiline.
 Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
 This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
-Patients should be informed of the possibility of developing hallucinations and instructed to report them to their health care provider promptly should they develop.
+Patients should be informed of the possibility of developing hallucinations and instructed to report them to their healthcare provider promptly should they develop.
 Patients with a major psychotic disorder should ordinarily not be treated with rasagiline because of the risk of exacerbating the psychosis with an increase in central dopaminergic tone.
 In addition, many treatments for psychosis that decrease central dopaminergic tone may decrease the effectiveness of rasagiline [see Drug Interactions (7.8)].
 Consider dose reduction or stopping the medication if a patient develops hallucinations or psychotic like behaviors while taking rasagiline.
@@ -97,10 +99,3 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.10 Withdrawal-Emergent Hyperpyrexia and Confusion
 
 A symptom complex resembling neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in drugs that increase central dopaminergic tone.
-
-## 5.11 Melanoma
-
-Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2-to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).

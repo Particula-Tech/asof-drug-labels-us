@@ -41,7 +41,7 @@ In vitro experiments indicate that both routes of rasagiline metabolism are depe
 Glucuronide conjugation of rasagiline and its metabolites, with subsequent urinary excretion, is the major elimination pathway.
 After oral administration of 14C-labeled rasagiline, elimination occurred primarily via urine and secondarily via feces (62% of total dose in urine and 7% of total dose in feces over 7 days), with a total calculated recovery of 84% of the dose over a period of 38 days.
 Less than 1% of rasagiline was excreted as unchanged drug in urine.
-Special Populations Hepatic Impairment Following repeat dose administration (7 days) of rasagiline (1 mg/day) in subjects with mild hepatic impairment (Child-Pugh score 5-6), AUC and Cmax were increased by 2 fold and 1.4 fold, respectively, compared to healthy subjects.
+Specific Populations Hepatic Impairment Following repeat dose administration (7 days) of rasagiline (1 mg/day) in subjects with mild hepatic impairment (Child-Pugh score 5-6), AUC and Cmax were increased by 2 fold and 1.4 fold, respectively, compared to healthy subjects.
 In subjects with moderate hepatic impairment (Child to Pugh score 7 to 9), AUC and Cmax were increased by 7 fold and 2 fold, respectively, compared to healthy subjects [see Dosage and Administration (2.3) and Warnings and Precautions (5.5)].
 Renal Impairment Following repeat dose administration (8 days) of rasagiline (1 mg/day) in subjects with moderate renal impairment, rasagiline exposure (AUC) was similar to rasagiline exposure in healthy subjects, while the major metabolite 1-AI exposure (AUC) was increased 1.5-fold in subjects with moderate renal impairment, compared to healthy subjects.
 Because 1-AI is not an MAO inhibitor, no dose adjustment is needed for patients with mild and moderate renal impairment.
@@ -49,7 +49,6 @@ Data are not available for patients with severe renal impairment.
 Elderly Since age has little influence on rasagiline pharmacokinetics, it can be administered at the recommended dose in the elderly (> 65 years).
 Pediatric Rasagiline has not been investigated in patients below 18 years of age.
 Gender The pharmacokinetic profile of rasagiline is similar in men and women.
-Drug-Drug Interactions
 
 Drug-Drug Interactions Levodopa A study in Parkinson’s disease patients, in which the effect of levodopa/carbidopa (LD/CD) on rasagiline pharmacokinetics at steady state was investigated, showed that the pharmacokinetics of rasagiline were not affected by concomitant administration of LD/CD.
 Effect of Other Drugs on the Metabolism of Rasagiline In vitro metabolism studies showed that CYP1A2 was the major enzyme responsible for the metabolism of rasagiline.
@@ -58,5 +57,5 @@ Ciprofloxacin: When ciprofloxacin, an inhibitor of CYP1A2, was administered to h
 Theophylline: Coadministration of rasagiline 1 mg/day and theophylline, a substrate of CYP1A2, up to 500 mg twice daily to healthy subjects (n=24) did not affect the pharmacokinetics of either drug.
 Antidepressants: Severe CNS toxicity (occasionally fatal) associated with hyperpyrexia as part of a serotonin syndrome, has been reported with combined treatment of an antidepressant (e.g., from one of many classes including tricyclic or tetracyclic antidepressants, SSRIs, SNRIs, triazolopyridine antidepressants) and nonselective MAOI or a selective MAO-B inhibitor [see Warnings and Precautions (5.2)].
 Effect of Rasagiline on Other Drugs No additional in vivo trials have investigated the effect of rasagiline on other drugs metabolized by the cytochrome P450 enzyme system.
-In vitro studies showed that rasagiline at a concentration of 1 mcg/ml (equivalent to a level that is 160 times the average Cmax ~ 5.9 to 8.5 ng/mL in Parkinson’s disease patients after 1 mg rasagiline multiple dosing) did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
+In vitro studies showed that rasagiline at a concentration of 1 mcg/mL (equivalent to a level that is 160 times the average Cmax ~ 5.9 to 8.5 ng/mL in Parkinson’s disease patients after 1 mg rasagiline multiple dosing) did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
 These results indicate that rasagiline is unlikely to cause any clinically significant interference with substrates of these enzyme.
