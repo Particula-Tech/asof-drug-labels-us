@@ -2,7 +2,6 @@
 
 Clinically significant adverse reactions that appear in other sections of the labeling include:
 
-- Fetal Toxicity [see Warnings and Precautions (5.1)]
 - Atrial Fibrillation [see Warnings and Precautions (5.2)]
 - Bradycardia and Conduction Disturbances [see Warnings and Precautions (5.3)]
 
@@ -10,15 +9,17 @@ Clinically significant adverse reactions that appear in other sections of the la
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Adult Patients with Heart Failure
+
 In the Systolic Heart failure treatment with the If inhibitor ivabradine Trial (SHIFT), safety was evaluated in 3260 patients treated with Corlanor and 3278 patients given placebo.
 The median duration of Corlanor exposure was 21.5 months.
 
-The most common adverse drug reactions in the SHIFT trial are shown in Table 2 [see also Warnings and Precautions (5.2), (5.3)].
+The most common adverse drug reactions in the SHIFT trial are shown in Table 2 [see Warnings and Precautions (5.2), (5.3)].
 
 Table 2.
 Adverse Drug Reactions with Rates ≥ 1.0% Higher on Ivabradine than Placebo occurring in > 1% on Ivabradine in SHIFT
 
-|  | Ivabradine N=3260 | Placebo N=3278 |
+|  | Ivabradine N = 3260 | Placebo N = 3278 |
 | --- | --- | --- |
 | Bradycardia | 10% | 2.2% |
 | Hypertension, blood pressure increased | 8.9% | 7.8% |
@@ -33,8 +34,15 @@ Corlanor can cause phosphenes, thought to be mediated through Corlanor’s effec
 Onset is generally within the first 2 months of treatment, after which they may occur repeatedly.
 Phosphenes were generally reported to be of mild to moderate intensity and led to treatment discontinuation in < 1% of patients; most resolved during or after treatment.
 
+Pediatric Patients with Heart Failure
+
+The safety of Corlanor in pediatric patients 6 months to less than 18 years of age is based on a clinical trial [see Clinical Studies (14.2)] in symptomatic heart failure patients with dilated cardiomyopathy and elevated heart rate.
+This trial provides experience in 73 patients treated with Corlanor for a median duration of 397 days, and 42 patients given placebo.
+Bradycardia (symptomatic and asymptomatic) occurred at rates similar to those in adults.
+Phosphenes were observed in pediatric patients treated with Corlanor.
+
 ## 6.2 Postmarketing Experience
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
 
-The following adverse reactions have been identified during post-approval use of Corlanor: syncope, hypotension, torsade de pointes, ventricular fibrillation, ventricular tachycardia, angioedema, erythema, rash, pruritus, urticaria, vertigo, diplopia, and visual impairment.
+The following adverse reactions have been identified in adults during post-approval use of Corlanor: syncope, hypotension, torsade de pointes, ventricular fibrillation, ventricular tachycardia, angioedema, erythema, rash, pruritus, urticaria, vertigo, and diplopia, and visual impairment.

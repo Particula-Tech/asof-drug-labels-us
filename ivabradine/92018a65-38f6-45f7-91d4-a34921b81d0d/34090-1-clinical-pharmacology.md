@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Corlanor blocks the hyperpolarization-activated cyclic nucleotide-gated (HCN) channel responsible for the cardiac pacemaker If current, which regulates heart rate.
-In clinical electrophysiology studies, the cardiac effects were most pronounced in the sinoatrial (SA) node, but prolongation of the AH interval has occurred on the surface ECG, as has PR interval prolongation.
+In clinical electrophysiology studies, the cardiac effects were most pronounced in the sinoatrial (SA) node, but prolongation of the AH interval has occurred as has PR interval prolongation.
 There was no effect on ventricular repolarization and no effects on myocardial contractility [see Clinical Pharmacology (12.2)].
 
 Corlanor can also inhibit the retinal current Ih.
@@ -24,13 +24,15 @@ Ivabradine increases the uncorrected QT interval with heart rate slowing but doe
 
 ## 12.3 Pharmacokinetics
 
+The peak concentration (Cmax) and area under the plasma concentration time curve (AUC) are similar for ivabradine and S 18982 between oral solution and tablets for the same dose.
+
 Absorption and Bioavailability
 
 Following oral administration, peak plasma ivabradine concentrations are reached in approximately 1 hour under fasting conditions.
 The absolute oral bioavailability of ivabradine is approximately 40% because of first-pass elimination in the gut and liver.
 
 Food delays absorption by approximately 1 hour and increases plasma exposure by 20% to 40%.
-Corlanor should be taken with meals [see Dosage and Administration (2)].
+Corlanor should be taken with food [see Dosage and Administration (2)].
 
 Ivabradine is approximately 70% plasma protein bound, and the volume of distribution at steady state is approximately 100 L.
 
@@ -80,4 +82,7 @@ No data are available for patients with creatinine clearance below 15 mL/min.
 
 Pediatrics
 
-The pharmacokinetics of Corlanor have not been investigated in patients < 18 years of age.
+The pharmacokinetics of ivabradine and the major metabolite S 18982 were evaluated in 70 pediatric patients with dilated cardiomyopathy and symptomatic chronic heart failure aged from 6 months to less than 18 years of age given ivabradine twice daily [see Clinical Studies (14.2)].
+Ivabradine and S 18982 metabolite exposures were measured following weight-based dosing and dose titration designed to reach a dose that enables a 20% heart rate reduction without inducing bradycardia and/or signs or symptoms related to bradycardia.
+Analyses showed the relationship between exposure and heart rate reduction was similar across pediatric age groups and adults.
+Steady state exposures of ivabradine and S 18982 following maintenance doses in pediatric patients are similar to exposures achieved in adult heart failure patients given 5 mg BID.

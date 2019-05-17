@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA206143"
+    "NDA206143",
+    "NDA209964"
   ],
   "inn": "ivabradine",
   "labeler": "Amgen Inc",
@@ -8,9 +9,16 @@
     "55513-800-60",
     "55513-800-80",
     "55513-810-60",
-    "55513-810-80"
+    "55513-810-80",
+    "55513-813-01",
+    "55513-813-28"
   ],
   "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ivabradine",
+      "name": "Corlanor"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "ivabradine",

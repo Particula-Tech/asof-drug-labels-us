@@ -3,7 +3,7 @@
 ## 7.1 Cytochrome P450-Based Interactions
 
 Corlanor is primarily metabolized by CYP3A4.
-Concomitant use of CYP3A4 inhibitors increases ivabradine plasma concentrations, and use of CYP3A4 inducers decreases them.
+Concomitant use of CYP3A4 inhibitors increases ivabradine plasma concentrations and use of CYP3A4 inducers decreases them.
 Increased plasma concentrations may exacerbate bradycardia and conduction disturbances.
 
 The concomitant use of strong CYP3A4 inhibitors is contraindicated [see Contraindications (4) and Clinical Pharmacology (12.3)].
@@ -21,8 +21,8 @@ Most patients receiving Corlanor will also be treated with a beta-blocker.
 The risk of bradycardia increases with concomitant administration of drugs that slow heart rate (e.g., digoxin, amiodarone, beta-blockers).
 Monitor heart rate in patients taking Corlanor with other negative chronotropes.
 
-## 7.3 Pacemakers
+## 7.3 Pacemakers in Adults
 
-Corlanor dosing is based on heart rate reduction, targeting a heart rate of 50 to 60 beats per minute [see Dosage and Administration (2)].
-Patients with demand pacemakers set to a rate ≥ 60 beats per minute cannot achieve a target heart rate < 60 beats per minute, and these patients were excluded from clinical trials [see Clinical Studies (14)].
+Corlanor dosing is based on heart rate reduction, targeting a heart rate of 50 to 60 beats per minute in adults [see Dosage and Administration (2.1)].
+Patients with demand pacemakers set to a rate ≥ 60 beats per minute cannot achieve a target heart rate < 60 beats per minute, and these patients were excluded from clinical trials [see Clinical Studies (14.1)].
 The use of Corlanor is not recommended in patients with demand pacemakers set to rates ≥ 60 beats per minute.

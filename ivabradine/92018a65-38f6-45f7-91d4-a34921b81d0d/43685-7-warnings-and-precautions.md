@@ -4,7 +4,7 @@
 
 Corlanor may cause fetal toxicity when administered to a pregnant woman based on findings in animal studies.
 Embryo-fetal toxicity and cardiac teratogenic effects were observed in fetuses of pregnant rats treated during organogenesis at exposures 1 to 3 times the human exposures (AUC0-24hr) at the maximum recommended human dose (MRHD) [see Use in Specific Populations (8.1)].
-Advise females to use effective contraception when taking Corlanor [see Use in Specific Populations (8.3)].
+Advise females of reproductive potential to use effective contraception when taking Corlanor [see Use in Specific Populations (8.3)].
 
 ## 5.2 Atrial Fibrillation
 
@@ -15,10 +15,17 @@ Discontinue Corlanor if atrial fibrillation develops.
 
 ## 5.3 Bradycardia and Conduction Disturbances
 
+Adult Patients
+
 Bradycardia, sinus arrest, and heart block have occurred with Corlanor.
 The rate of bradycardia was 6.0% per patient-year in patients treated with Corlanor (2.7% symptomatic; 3.4% asymptomatic) and 1.3% per patient-year in patients treated with placebo.
 Risk factors for bradycardia include sinus node dysfunction, conduction defects (e.g., 1st or 2nd degree atrioventricular block, bundle branch block), ventricular dyssynchrony, and use of other negative chronotropes (e.g., digoxin, diltiazem, verapamil, amiodarone).
 Bradycardia may increase the risk of QT prolongation which may lead to severe ventricular arrhythmias, including torsade de pointes, especially in patients with risk factors such as use of QTc prolonging drugs [see Adverse Reactions (6.2)].
 
 Concurrent use of verapamil or diltiazem will increase Corlanor exposure, may themselves contribute to heart rate lowering, and should be avoided [see Clinical Pharmacology (12.3)].
-Avoid use of Corlanor in patients with 2nd degree atrioventricular block, unless a functioning demand pacemaker is present [see Contraindications (4) and Dosage and Administration (2)].
+Avoid use of Corlanor in patients with 2nd degree atrioventricular block unless a functioning demand pacemaker is present [see Contraindications (4)].
+
+Pediatric Patients Bradycardia and first-degree heart block were observed in pediatric patients treated with Corlanor.
+Asymptomatic and symptomatic bradycardia were observed in 6.8% and 4.1% of pediatric patients treated with Corlanor, respectively.
+In the placebo treatment arm, 2.4% of pediatric patients had asymptomatic bradycardia, but none had symptomatic bradycardia.
+Bradycardia was managed through dose titration but did not result in study drug discontinuation [see Dosage and Administration (2.2)].

@@ -16,10 +16,10 @@ Advise a pregnant woman of the potential risk to the fetus.
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-associated maternal and/or embryo-fetal risk
 
 Stroke volume and heart rate increase during pregnancy, increasing cardiac output, especially during the first trimester.
-Pregnant patients with left ventricular ejection fraction less than 35% on maximally tolerated doses of beta-blockers may be particularly heart-rate dependent for augmenting cardiac output.
+Pregnant patients with left ventricular ejection fraction less than 35% on maximally tolerated doses of beta-blockers may be particularly heart rate dependent for augmenting cardiac output.
 Therefore, pregnant patients who are started on Corlanor, especially during the first trimester, should be followed closely for destabilization of their congestive heart failure that could result from heart rate slowing.
 
 Monitor pregnant women with chronic heart failure in 3rd trimester of pregnancy for preterm birth.
@@ -29,7 +29,7 @@ Data
 Animal Data
 
 In pregnant rats, oral administration of ivabradine during the period of organogenesis (gestation day 6-15) at doses of 2.3, 4.6, 9.3, or 19 mg/kg/day resulted in fetal toxicity and teratogenic effects.
-Increased intrauterine and post-natal mortality and cardiac malformations were observed at doses ≥ 2.3 mg/kg/day (equivalent to the human exposure at the MRHD based on AUC0-24hr).
+Increased intrauterine and postnatal mortality and cardiac malformations were observed at doses ≥ 2.3 mg/kg/day (equivalent to the human exposure at the MRHD based on AUC0-24hr).
 Teratogenic effects including interventricular septal defect and complex anomalies of major arteries were observed at doses ≥ 4.6 mg/kg/day (approximately 3 times the human exposure at the MRHD based on AUC0-24hr).
 
 In pregnant rabbits, oral administration of ivabradine during the period of organogenesis (gestation day 6-18) at doses of 7, 14, or 28 mg/kg/day resulted in fetal toxicity and teratogenicity.
@@ -63,7 +63,18 @@ Advise females of reproductive potential to use effective contraception during C
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of Corlanor have been established in pediatric patients (age 6 months to less than 18 years old) and are supported by pharmacokinetic and pharmacodynamic trials and evidence from adequate and well-controlled trials of Corlanor in adult patients.
+The pediatric study included 116 patients in the following age groups: 17 patients in the 6 months to less than 12 months age group, 36 patients in the 1 year to less than 3 years age group, and 63 patients in the 3 years to less than 18 years age group [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+
+The safety and efficacy of Corlanor have not been established in patients less than 6 months of age.
+
+Animal Data
+
+Ivabradine given orally to juvenile rats from postnatal day (PND) 7 until PND 77 at 7.5, 15 and 30 mg/kg/day did not affect postnatal (pre-weaning) development and reproductive performance (post-weaning development).
+Similar to adult animals, ivabradine decreased heart rate dose-dependently, and increased heart weights at the highest dose administered.
+Ivabradine also decreased white blood cell counts (lymphocytes) at the highest dose administered.
+The decrease in white blood cell counts partially reversed within a 3-week recovery period.
+Exposures in male and female rats at the No Observed Adverse Effect Level (NOAEL) of 7.5 mg/kg/day, was approximately 3 and 8-times, respectively, steady state exposure associated with the highest received maintenance doses across age groups in pediatric patients (based on AUCs).
 
 ## 8.5 Geriatric Use
 

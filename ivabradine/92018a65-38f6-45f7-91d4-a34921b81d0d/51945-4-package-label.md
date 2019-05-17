@@ -1,8 +1,8 @@
-NDC 55513-800-80
+NDC 55513-800-60
 
 AMGEN®
 
-Corlanor ®
+Corlanor®
 
 (ivabradine) tablets
 
@@ -18,27 +18,27 @@ Keep out of the sight and reach of children.
 
 Rx Only
 
-180 Film-coated tablets
+60 Film-coated tablets
 
 Usual Dose: See package insert for dosage
 
-© 2015 Amgen Inc. All rights reserved.
+© 2018 Amgen Inc. All rights reserved.
 
 Patent: http://pat.amgen.com/corlanor/
 
-Manufactured for Amgen Inc.
+Manufactured by Amgen Inc.
 
 One Amgen Center Drive
 
 Thousand Oaks, CA 91320-1799
 
-Made in France
+Made in Italy
 
-NDC 55513-810-80
+NDC 55513-810-60
 
 AMGEN®
 
-Corlanor ®
+Corlanor®
 
 (ivabradine) tablets
 
@@ -54,18 +54,46 @@ Keep out of the sight and reach of children.
 
 Rx Only
 
-180 Film-coated tablets
+60 Film-coated tablets
 
 Usual Dose: See package insert for dosage
 
-© 2015 Amgen Inc. All rights reserved.
+© 2018 Amgen Inc. All rights reserved.
 
 Patent: http://pat.amgen.com/corlanor/
 
-Manufactured for Amgen Inc.
+Manufactured by Amgen Inc.
 
 One Amgen Center Drive
 
 Thousand Oaks, CA 91320-1799
 
-Made in France
+Made in Italy
+
+NDC 55513-813-28
+
+Caregiver/Patient: Read the included “Instructions for Use” insert to be sure you prepare and administer the correct dose.
+
+AMGEN®
+
+Corlanor®
+
+(ivabradine) oral solution
+
+5 mg/5 mL (1 mg/mL)
+
+ATTENTION PHARMACIST: Please dispense with both a medicine cup and an oral syringe.
+
+Sterile Oral Solution in an Ampule
+
+Store at room temperature between 20°C to 25°C (68°F to 77°F),
+
+excursions permitted to 15°C - 30°C (59°F - 86°F).
+
+Protect from light by storing the ampule in foil pouch until use.
+
+Keep out of the sight and reach of children.
+
+Rx Only
+
+Contains 28 ampules

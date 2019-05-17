@@ -1,5 +1,7 @@
 # 14.CLINICAL STUDIES
 
+## 14.1 Heart Failure in Adult Patients
+
 SHIFT
 
 The Systolic Heart failure treatment with the If inhibitor ivabradine Trial (SHIFT) was a randomized, double-blind trial comparing Corlanor and placebo in 6558 adult patients with stable NYHA class II to IV heart failure, left ventricular ejection fraction ≤ 35%, and resting heart rate ≥ 70 bpm.
@@ -36,7 +38,7 @@ SHIFT – Incidence of the Primary Composite Endpoint and Components
 | Subjects with events at any time |  |  |  |  |  |  |  |  |  |
 | Hospitalization for worsening heart failureb | 514 | 15.9 | 9.4 | 672 | 20.6 | 12.7 | 0.74 | [0.66, 0.83] |  |
 | Cardiovascular deathb | 449 | 13.9 | 7.5 | 491 | 15.0 | 8.3 | 0.91 | [0.80, 1.03] |  |
-| a Subjects who died on the same calendar day as their first hospitalization for worsening heart failure are counted under cardiovascular death. b Analyses of the components of the primary composite endpoint were not prospectively planned to be adjusted for multiplicity. N: number of patients at risk; n: number of patients having experienced the endpoint; %: incidence rate = (n/N) x 100; % PY: annual incidence rate = (n/number of patient-years) x 100; CI: confidence interval The hazard ratio between treatment groups (ivabradine/placebo) was estimated based on an adjusted Cox proportional hazards model with beta-blocker intake at randomization (yes/no) as a covariate; p-value: Wald test |  |  |  |  |  |  |  |  |  |
+| a Subjects who died on the same calendar day as their first hospitalization for worsening heart failure are counted under cardiovascular death. b Analyses of the components of the primary composite endpoint were not prospectively planned to be adjusted for multiplicity. N: number of patients at risk; n: number of patients having experienced the endpoint; %: incidence rate = (n/N) × 100; % PY: annual incidence rate = (n/number of patient-years) × 100; CI: confidence interval The hazard ratio between treatment groups (ivabradine/placebo) was estimated based on an adjusted Cox proportional hazards model with beta-blocker intake at randomization (yes/no) as a covariate; p-value: Wald test |  |  |  |  |  |  |  |  |  |
 
 The Kaplan-Meier curve (Figure 3) shows time to first occurrence of the primary composite endpoint of hospitalization for worsening heart failure or cardiovascular death in the overall study.
 
@@ -54,13 +56,13 @@ Figure 4.
 Effect of Treatment on Primary Composite Endpoint in Subgroups
 
 Note: The figure above presents effects in various subgroups, all of which are baseline characteristics.
-The 95% confidence limits that are shown do not take into account the number of comparisons made, and may not reflect the effect of a particular factor after adjustment for all other factors.
+The 95% confidence limits that are shown do not take into account the number of comparisons made and may not reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
 BEAUTIFUL and SIGNIFY: No benefit in stable coronary artery disease with or without stable heart failure
 
 BEAUTIFUL was a randomized, double-blind, placebo-controlled trial in 10,917 adult patients with coronary artery disease, impaired left ventricular systolic function (ejection fraction < 40%) and resting heart rate ≥ 60 bpm.
-Patients had stable symptoms of heart failure and/or angina for at least 3 months, and were receiving conventional cardiovascular medications at stable doses for at least 1 month.
+Patients had stable symptoms of heart failure and/or angina for at least 3 months and were receiving conventional cardiovascular medications at stable doses for at least 1 month.
 Beta-blocker therapy was not required, nor was there a protocol mandate to achieve any specific dosing targets for patients who were taking beta-blockers.
 Patients were randomized 1:1 to Corlanor or placebo at an initial dose of 5 mg twice daily with the dose increased to 7.5 mg twice daily depending on resting heart rate and tolerability.
 The primary endpoint was the composite of time to first cardiovascular death, hospitalization for acute myocardial infarction, or hospitalization for new-onset or worsening heart failure.
@@ -71,3 +73,20 @@ SIGNIFY was a randomized, double-blind trial administering Corlanor or placebo t
 Corlanor was initiated at a dose of 7.5 mg twice daily and the dose could be increased to as high as 10 mg twice daily or down-titrated to 5.0 mg twice daily to achieve a target heart rate of 55 to 60 bpm.
 The primary endpoint was a composite of the first occurrence of either cardiovascular death or myocardial infarction.
 Through a median follow-up of 24.1 months, Corlanor did not significantly affect the primary composite endpoint (HR 1.08, 95% CI = 0.96, 1.20).
+
+## 14.2 Heart Failure in Pediatric Patients
+
+Because Corlanor was effective in improving outcomes in patients with dilated cardiomyopathy (DCM) in SHIFT, the effect on heart rate was considered a reasonable basis to infer clinical benefits in pediatric patients with DCM.
+Thus, Corlanor was evaluated for its effect on heart rate in a multi-center, randomized, double-blind, placebo-controlled trial in children with symptomatic DCM.
+The study collected data from 116 patients aged 6 months to less than 18 years with DCM in sinus rhythm, NYHA/Ross class II to IV heart failure, and left ventricular ejection fraction ≤ 45%.
+Patients had to be clinically stable for at least 4 weeks and on optimized medical therapy with a resting heart rate (HR) complying with the following criteria:
+
+- HR ≥ 105 bpm in the age-subset 6–12 months.
+- HR ≥ 95 bpm in the age-subset 1–3 years.
+- HR ≥ 75 bpm in the age-subset 3–5 years.
+- HR ≥ 70 bpm in the age-subset 5–18 years.
+
+Patients were randomized in a 2:1 ratio to receive Corlanor or placebo.
+Doses of study medication were titrated over a 2- to 8-week period to achieve a 20% heart rate reduction without inducing bradycardia.
+The target heart rate reduction was obtained at the end of the titration period in a significantly higher proportion of patients with Corlanor vs. placebo (72% vs. 16% respectively; Odds Ratio = 15; 95% CI = [5; 47]).
+A statistically significant reduction in HR was observed with Corlanor compared to placebo at the end of the titration period (-23 ± 11 bpm vs. -2 ± 12 bpm respectively).
