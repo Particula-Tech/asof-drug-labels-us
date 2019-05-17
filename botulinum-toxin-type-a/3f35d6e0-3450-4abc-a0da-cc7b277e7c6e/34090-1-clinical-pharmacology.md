@@ -12,6 +12,4 @@ The return of increased muscle tone following injection typically occurs within 
 
 ## 12.3 Pharmacokinetics
 
-General characteristics of the active substance:
-
-Using currently available analytical technology, it is not possible to detect XEOMIN in the peripheral blood following intramuscular or intraglandular injection at the recommended doses.
+General characteristics of the active substance: Using currently available analytical technology, it is not possible to detect XEOMIN in the peripheral blood following intramuscular or intraglandular injection at the recommended doses.

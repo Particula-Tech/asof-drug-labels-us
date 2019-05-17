@@ -4,7 +4,7 @@
 
 The potency Units of XEOMIN (incobotulinumtoxinA) for injection are specific to the preparation and assay method utilized.
 They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of XEOMIN cannot be compared to or converted into Units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.2) and Description (11)].
-Reconstituted Xeomin is intended for intramuscular or intra-salivary gland injection only.
+Reconstituted XEOMIN is intended for intramuscular or intra-salivary gland injection only.
 
 The recommended maximum cumulative dose for any indication should not exceed 400 Units in a treatment session.
 
@@ -82,18 +82,15 @@ The frequency of XEOMIN repeat treatments should be determined by clinical respo
 
 ## 2.5 Blepharospasm
 
-The recommended initial total dose of XEOMIN should be the same dose as the patient's previous treatment of onabotulinumtoxinA (Botox), although responses to XEOMIN and onabotulinumtoxinA (Botox) may differ in individual patients.
-In a placebo-controlled trial in which patients were dosed with the same number of Units as they had received previously with onabotulinumtoxinA (Botox), the mean dose per eye was about 33 Units (range 10 Units-50 Units), and the mean number of injections per eye was 6.
-The maximum dose per eye in the controlled trials was 50 Units, with a range of 10 Units-50 Units.
-In the controlled trial, few patients received a total dose of greater than 75 Units.
+In treatment-naïve patients, the recommended initial total dose of XEOMIN is 50 Units (25 Units per eye).
+In patients previously treated with a botulinum toxin A, their past dose, response to treatment, duration of effect, and adverse event history should be taken into consideration when determining the XEOMIN dose.
 
-If the previous dose of Botox is not known, the initial dose of XEOMIN should be between 1.25 Units-2.5 Units/injection site.
+The total dose of XEOMIN should not exceed 100 Units per treatment session (50 Units per eye).
 
-The total initial dose of XEOMIN in both eyes should not exceed 70 Units (35 Units/eye).
+XEOMIN is injected into the lateral and medial orbicularis oculi muscle of the upper lid; lateral canthus and the lateral orbicularis oculi muscle of the lower lid; and the corrugator muscle, if necessary (see Figure 3).
+The number and location of injections may be changed in response to adverse reactions or based on the patient's response to treatment, but the total dose should not exceed 50 Units per eye.
 
-The number and location of injection sites should be based on the severity of blepharospasm, and previous dose and response to onabotulinumtoxinA (Botox) injections.
-Subsequent dosing should be tailored to the individual patient, based on response, up to a maximum dose of 35 Units per eye [see Clinical Studies 14.4].
-XEOMIN dosing has not been established in patients with blepharospasm who have not been previously treated with onabotulinumtoxinA (Botox).
+Figure 3: Injection Sites for Blepharospasm
 
 The frequency of XEOMIN repeat treatments should be determined by clinical response but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.4)].
 
@@ -104,17 +101,13 @@ The five injection sites are: two injections in each corrugator muscle and one i
 
 Retreatment with XEOMIN should be administered no more frequently than every three months.
 
-Figure 3: Injection Sites for Glabellar Lines
+Figure 4: Injection Sites for Glabellar Lines
 
-## 2.7 Special Populations
-
-The safety and effectiveness of XEOMIN in the treatment of chronic sialorrhea, upper limb spasticity, cervical dystonia, blepharospasm, and glabellar lines in patients below 18 years of age have not been assessed [see Warnings and Precautions (5.1)].
-
-## 2.8 Preparation and Reconstitution Technique
+## 2.7 Preparation and Reconstitution Technique
 
 Prior to injection, reconstitute each vial of XEOMIN with sterile, preservative-free 0.9% Sodium Chloride Injection, USP [see Dosage Form and Strengths (3)].
 A 20-27 gauge short bevel needle is recommended for reconstitution.
-Draw up an appropriate amount of preservative-free 0.9% Sodium Chloride Injection, USP into a syringe (see Table 3 and [Dosage Form and Strengths (3)]).
+Draw up an appropriate amount of preservative-free 0.9% Sodium Chloride Injection, USP into a syringe (see Table 3).
 Clean the exposed portion of the rubber stopper of the vial with alcohol (70%) prior to insertion of the needle.
 After vertical insertion of the needle through the rubber stopper, the vacuum will draw the saline into the vial.
 Gently inject any remaining saline into the vial to avoid foam formation.
@@ -144,7 +137,7 @@ Table 3: Diluent Volumes for Reconstitution of XEOMIN
 | 4 mL | 1.25 Units | 2.5 Units | 5 Units |
 | 5 mL | 1 Unit | 2 Units | 4 Units |
 
-## 2.9 Administration
+## 2.8 Administration
 
 Reconstituted XEOMIN is intended for intramuscular or intra-salivary gland injection only.
 
@@ -157,25 +150,25 @@ Before administering XEOMIN, the physician should be familiar with the patient's
 
 Chronic Sialorrhea
 
-A suitable sterile needle (e.g., 27-30 gauge (0.30-0.40 mm diameter), 12.5 mm length) should be used for intra-salivary gland administration for the treatment of chronic sialorrhea.
+A sterile needle (e.g., 27-30 gauge (0.30-0.40 mm diameter), 12.5 mm length) should be used for intra-salivary gland administration for the treatment of chronic sialorrhea.
 
 The salivary glands can be located using ultrasound imaging or surface anatomical landmarks [see Dosage and Administration (2.2)].
 
 Upper Limb Spasticity and Cervical Dystonia
 
-A suitable sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for injections into deeper muscles) should be used in the intramuscular administration in the treatment of upper limb spasticity and cervical dystonia.
+A sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for injections into deeper muscles) should be used in the intramuscular administration in the treatment of upper limb spasticity and cervical dystonia.
 
 Localization of the involved muscles with electromyographic guidance or nerve stimulation techniques may be useful.
 
 Blepharospasm
 
-A suitable sterile needle (e.g., 30-gauge (0.40 mm diameter), 12.5 mm length) should be used in the intramuscular administration in the treatment of blepharospasm.
+A sterile needle (e.g., 30-gauge (0.40 mm diameter), 12.5 mm length) should be used in the intramuscular administration in the treatment of blepharospasm.
 
 Glabellar Lines
 
-A suitable sterile needle (e.g., 30-33 gauge (0.3-0.2 mm diameter), 13 mm length) should be used in the intramuscular administration in the treatment of glabellar lines.
+A sterile needle (e.g., 30-33 gauge (0.3-0.2 mm diameter), 13 mm length) should be used in the intramuscular administration in the treatment of glabellar lines.
 
-## 2.10 Monitoring to Assess Effectiveness
+## 2.9 Monitoring to Assess Effectiveness
 
 The median first onset of XEOMIN effect occurs within seven days after injection.
 The typical duration of effect of each treatment is up to 3 months; however, the effect may last significantly longer, or shorter, in individual patients.

@@ -35,32 +35,30 @@ Safety and effectiveness of XEOMIN in patients less than 18 years of age have no
 
 Chronic Sialorrhea
 
-Of the 184 patients in the placebo-controlled study in chronic sialorrhea [see Clinical Studies (14.1)], 107 (58%) were 65 years of age and over, including 17 of the 36 patients (47%) who received placebo, and 46 of the 74 patients (62%) treated with XEOMIN 100 Units.
+Of the total number of 184 patients in the placebo-controlled study in chronic sialorrhea [see Clinical Studies (14.1)], 107 were 65 years of age and over (46 treated with XEOMIN 100 Units, 44 treated with XEOMIN 75 Units, and 17 received placebo).
 No differences in safety or effectiveness were observed between older and younger patients.
 Other clinical studies have not identified differences in responses between older and younger patients, but increased sensitivity in older patients cannot be ruled out.
 
 Upper Limb Spasticity
 
-Of the total number of 283 patients treated with XEOMIN in placebo-controlled studies in upper limb spasticity, 70 patients were 65 years of age and over, and 7 patients were 75 years of age and over.
+Of the total number of 283 patients in the placebo-controlled studies in upper limb spasticity [see Clinical Studies (14.2)], 118 were 65 years of age and over (70 treated with XEOMIN and 48 received placebo), which included 12 patients 75 years of age and over (7 treated with XEOMIN and 5 received placebo).
 No overall differences in safety or effectiveness were observed between older and younger patients.
 Other clinical studies have not identified differences in responses between older and younger patients, but increased sensitivity in older patients cannot be ruled out.
 
 Cervical Dystonia
 
-In the placebo-controlled study in cervical dystonia [see Clinical Studies (14.3)], 29 patients were older than 65 years of age, including 19 patients who received XEOMIN and 10 patients who received placebo.
-Of these, ten (53%) XEOMIN-treated patients and four (40%) placebo-treated patients experienced an adverse event.
-For patients over 65 years of age treated with XEOMIN, the most common adverse events were dysphagia (4 patients, 21%) and asthenia (2 patients, 11%).
-One XEOMIN-treated patient (5%) experienced severe dizziness.
+Of the total number of 233 patients in the placebo-controlled study in cervical dystonia [see Clinical Studies (14.3)], 29 were 65 years of age and over (19 treated with XEOMIN and 10 received placebo).
+Of these, ten XEOMIN-treated patients and four placebo-treated patients experienced an adverse event.
+For patients 65 years of age and over treated with XEOMIN, the most common adverse events were dysphagia (21%) and asthenia (11%).
 
 Blepharospasm
 
-In the placebo-controlled study in blepharospasm [see Clinical Studies (14.4)], 41 patients were older than 65 years of age, including 29 of 75 patients (39%) who received XEOMIN and 12 of 34 patients (35%) who received placebo.
-Of these patients, 22 of 29 (76%) XEOMIN-treated patients, compared with 7 of 12 (58%) placebo-treated patients, experienced an adverse event.
-One XEOMIN-treated patient experienced severe dysphagia.
+Of the total number of 169 patients in the placebo-controlled studies in blepharospasm [see Clinical Studies (14.4)], 61 were 65 years of age and over (45 treated with XEOMIN and 16 received placebo).
+No overall difference in effectiveness was observed between older and younger patients.
 
 Glabellar Lines
 
-There are limited clinical data with XEOMIN in subjects over 65 years of age and over in clinical studies with glabellar lines.
-Of the total number of subjects in the placebo-controlled clinical studies GL1 and GL2, 21 (4%) subjects were 65 and over.
-Efficacy was observed in 20% (3/15) of XEOMIN subjects 65 years and over.
+There are limited clinical data with XEOMIN in subjects 65 years of age and over in clinical studies with glabellar lines.
+Of the total number of 547 subjects in the placebo-controlled clinical studies [see Clinical Studies (14.5)], 21 subjects were 65 years of age and over.
+Efficacy was observed in 20% (3/15) of XEOMIN subjects 65 years of age and over.
 For the entire safety database of geriatric subjects, there was no increase in the incidence of adverse events related to treatment with XEOMIN.
