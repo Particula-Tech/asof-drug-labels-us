@@ -6,8 +6,10 @@ In addition cardiac thrombosis and dermatitis/keratitis were observed in rats tr
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo, and other brands are trademarks of a Mallinckrodt company.
 
-© 2017 Mallinckrodt.
+© 2019 Mallinckrodt.
 
 Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 09/2017
+Rev 03/2019
+
+Mallinckrodt™ Pharmaceuticals

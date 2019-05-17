@@ -35,6 +35,14 @@ Call a healthcare provider right away if you or your family member has any of th
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- headache
+- weakness or feeling unsteady
+- confusion, problems concentrating or thinking or memory problems
+
 Visual problems
 
 - eye pain
@@ -74,12 +82,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
-
-© 2017 Mallinckrodt.
+Anafranil is a trademark of Mallinckrodt LLC.
 
 Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 09/2017
+Rev 03/2019
 
-Mallinckrodt™ Pharmaceuticals
+Mallinckrodt™

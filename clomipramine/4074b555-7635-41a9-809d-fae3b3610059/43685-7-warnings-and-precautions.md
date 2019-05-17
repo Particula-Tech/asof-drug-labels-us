@@ -130,6 +130,14 @@ When Anafranil and a neuroleptic were used concomitantly, the cases were sometim
 Sexual Dysfunction – The rate of sexual dysfunction in male patients with OCD who were treated with Anafranil in the premarketing experience was markedly increased compared with placebo controls (i.e., 42% experienced ejaculatory failure and 20% experienced impotence, compared with 2.0% and 2.6%, respectively, in the placebo group).
 Approximately 85% of males with sexual dysfunction chose to continue treatment.
 
+Hyponatremia – Hyponatremia has occurred as a result of treatment with clomipramine.
+In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Elderly patients may be at greater risk of developing hyponatremia with a serotonergic antidepressant.
+Also, patients taking diuretics or who are otherwise volume-depleted can be at greater risk.
+Discontinuation of Anafranil in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
+More severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
+
 Weight Changes – In controlled studies of OCD, weight gain was reported in 18% of patients receiving Anafranil, compared with 1% of patients receiving placebo.
 In these studies, 28% of patients receiving Anafranil had a weight gain of at least 7% of their initial body weight, compared with 4% of patients receiving placebo.
 Several patients had weight gains in excess of 25% of their initial body weight.
@@ -262,3 +270,6 @@ Clinical studies of Anafranil did not include sufficient numbers of subjects age
 No unusual age-related adverse events were identified in this population.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+
+Anafranil has been associated with cases of clinically significant hyponatremia.
+Elderly patients may be at greater risk for this adverse reaction (see PRECAUTIONS, Hyponatremia).
