@@ -12,7 +12,7 @@ Chemically, insulin glargine is 21A-Gly-30Ba-L-Arg-30Bb-L-Arg-human insulin and 
 Insulin glargine has the following structural formula:
 
 LANTUS consists of insulin glargine dissolved in a clear aqueous fluid.
-Each milliliter of LANTUS (insulin glargine injection) contains 100 Units (3.6378 mg) insulin glargine.
+Each milliliter of LANTUS (insulin glargine injection) contains 100 units (3.6378 mg) insulin glargine.
 
 The 10 mL vial presentation contains the following inactive ingredients per mL: 30 mcg zinc, 2.7 mg m-cresol, 20 mg glycerol 85%, 20 mcg polysorbate 20, and water for injection.
 

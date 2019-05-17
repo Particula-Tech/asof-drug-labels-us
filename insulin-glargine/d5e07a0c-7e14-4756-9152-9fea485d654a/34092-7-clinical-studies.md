@@ -118,7 +118,7 @@ The primary endpoint for this study was a comparison of the progression of diabe
 HbA1c change from baseline was a secondary endpoint.
 Similar glycemic control in the 2 treatment groups was desired in order to not confound the interpretation of the retinal data.
 Patients or study personnel used an algorithm to adjust the LANTUS and NPH insulin doses to a target fasting plasma glucose ≤100 mg/dL.
-After the LANTUS or NPH insulin dose was adjusted, other antidiabetic agents, including pre-meal insulin were to be adjusted or added.
+After the LANTUS or NPH insulin dose was adjusted, other antidiabetic agents, including premeal insulin were to be adjusted or added.
 The average age was 55.1 years.
 The majority of patients were White (85.3%) and 53.9% were male.
 The mean BMI was approximately 34.3 kg/m2.
@@ -138,8 +138,8 @@ Table 11: Type 2 Diabetes Mellitus – Adult
 | Baseline mean | 9.0 | 8.9 | 8.6 | 8.5 | 8.4 | 8.3 |
 | Adjusted mean change from baseline | -0.5 | -0.4 | -0.4 | -0.6 | -0.6 | -0.8 |
 | LANTUS – NPH | -0.1 |  | +0.2 |  | +0.2 |  |
-| 95% CI for Treatment difference | (-0.3; +0.1) |  | (0.0; +0.4) |  | (+0.1, +0.4) |  |
-| Basal insulin doseIn Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5). |  |  |  |  |  |  |
+| 95% CI for Treatment difference | (-0.3; +0.1) |  | (0.0; +0.4) |  | (+0.1; +0.4) |  |
+| Basal insulin doseIn Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5) |  |  |  |  |  |  |
 | Baseline mean | 14 | 15 | 44.1 | 45.5 | 39 | 44 |
 | Mean change from baseline | +12 | +9 | -1 | +7 | +23 | +30 |
 | Total insulin dose |  |  |  |  |  |  |
@@ -178,10 +178,8 @@ Table 12: LANTUS Timing of Daily Dosing in Type 1 (Study H) and Type 2 (Study I)
 
 |  | LANTUS Breakfast | LANTUS Dinner | LANTUS Bedtime | LANTUS Breakfast | LANTUS Bedtime | NPH Bedtime |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Study H |  |  | Study I |  |  |
-| Treatment duration | 24 weeks |  |  | 24 weeks |  |  |
-| Treatment in combination with | Insulin lispro |  |  | Glimepiride |  |  |
-| Number of subjects treatedIntent to treat | 112 | 124 | 128 | 234 | 226 | 227 |
+| Treatment duration Treatment in combination with | Study H 24 weeks Insulin lispro |  |  | Study I 24 weeks Glimepiride |  |  |
+| Number of subjects treatedIntent-to-treat | 112 | 124 | 128 | 234 | 226 | 227 |
 | HbA1c |  |  |  |  |  |  |
 | Baseline mean | 7.6 | 7.5 | 7.6 | 9.1 | 9.1 | 9.1 |
 | Mean change from baseline | -0.2 | -0.1 | 0.0 | -1.3 | -1.0 | -0.8 |
@@ -194,7 +192,6 @@ Table 12: LANTUS Timing of Daily Dosing in Type 1 (Study H) and Type 2 (Study I)
 | Body weight (kg) |  |  |  |  |  |  |
 | Baseline mean | 77.1 | 77.8 | 74.5 | 80.7 | 82 | 81 |
 | Mean change from baseline | 0.7 | 0.1 | 0.4 | 3.9 | 3.7 | 2.9 |
-| Total number of patients evaluable for safety |  |  |  |  |  |  |
 
 Five-Year Trial Evaluating the Progression of Retinopathy
 
@@ -202,7 +199,7 @@ Retinopathy was evaluated in the LANTUS clinical studies by analysis of reported
 The numbers of retinal adverse events reported for LANTUS and NPH insulin treatment groups were similar for patients with type 1 and type 2 diabetes.
 
 LANTUS was compared to NPH insulin in a 5-year randomized clinical trial that evaluated the progression of retinopathy as assessed with fundus photography using a grading protocol derived from the Early Treatment Diabetic Retinopathy Scale (ETDRS).
-Patients had type 2 diabetes (mean age 55 yrs) with no (86%) or mild (14%) retinopathy at baseline.
+Patients had type 2 diabetes (mean age 55 years) with no (86%) or mild (14%) retinopathy at baseline.
 Mean baseline HbA1c was 8.4%.
 The primary outcome was progression by 3 or more steps on the ETDRS scale at study endpoint.
 Patients with prespecified postbaseline eye procedures (pan-retinal photocoagulation for proliferative or severe nonproliferative diabetic retinopathy, local photocoagulation for new vessels, and vitrectomy for diabetic retinopathy) were also considered as 3-step progressors regardless of actual change in ETDRS score from baseline.
@@ -211,7 +208,7 @@ The results for the primary endpoint are shown in Table 13 for both the per-prot
 
 Table 13: Number (%) of Patients with 3 or More Step Progression on ETDRS Scale at Endpoint
 
-|  | LANTUS (%) | NPH (%) | DifferenceDifference = LANTUS – NPH,using a generalized linear model (SAS GENMOD) with treatment and baseline HbA1c strata (cutoff 9.0%) as the classified independent variables, and with binomial distribution and identity link function (SE) | 95% CI for difference |
+|  | LANTUS (%) | NPH (%) | DifferenceDifference = LANTUS – NPH,Using a generalized linear model (SAS GENMOD) with treatment and baseline HbA1c strata (cutoff 9.0%) as the classified independent variables, and with binomial distribution and identity link function (SE) | 95% CI for difference |
 | --- | --- | --- | --- | --- |
 | Per-protocol | 53/374 (14.2%) | 57/363 (15.7%) | -2.0% (2.6%) | -7.0% to +3.1% |
 | Intent-to-Treat | 63/502 (12.5%) | 71/487 (14.6%) | -2.1% (2.1%) | -6.3% to +2.1% |
@@ -247,7 +244,7 @@ The mean change in body weight from baseline to the last treatment visit was 2.2
 Overall, the incidence of major adverse cardiovascular outcomes was similar between groups (see Table 14).
 All-cause mortality was also similar between groups.
 
-Table 14: Cardiovascular Outcomes in ORIGIN - Time to First Event Analyses
+Table 14: Cardiovascular Outcomes in ORIGIN – Time to First Event Analyses
 
 | n (Events per 100 PY) | n (Events per 100 PY) | Hazard Ratio (95% CI) |  |
 | --- | --- | --- | --- |
@@ -258,7 +255,7 @@ Table 14: Cardiovascular Outcomes in ORIGIN - Time to First Event Analyses
 | Components of coprimary endpoints |  |  |  |
 | CV death | 580 | 576 | 1.00 (0.89, 1.13) |
 | Myocardial Infarction (fatal or non-fatal) | 336 | 326 | 1.03 (0.88, 1.19) |
-| Stroke (fatal or non-fatal) | 331 | 319 | 1.03 (0.89, 1.21) |
+| Stroke (fatal or nonfatal) | 331 | 319 | 1.03 (0.89, 1.21) |
 | Revascularizations | 908 | 860 | 1.06 (0.96, 1.16) |
 | Hospitalization for heart failure | 310 | 343 | 0.90 (0.77, 1.05) |
 

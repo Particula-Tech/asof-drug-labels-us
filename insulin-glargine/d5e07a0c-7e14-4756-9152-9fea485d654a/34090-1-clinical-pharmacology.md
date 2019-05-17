@@ -14,7 +14,7 @@ The median time between injection and the end of pharmacological effect was 14.5
 
 | Figure 1: Activity Profile in Patients with Type 1 Diabetes |
 | --- |
-| * Determined as amount of glucose infused to maintain constant plasma glucose levels. |
+| * Determined as amount of glucose infused to maintain constant plasma glucose levels |
 
 The duration of action after abdominal, deltoid, or thigh subcutaneous administration was similar.
 The time course of action of insulins, including LANTUS, may vary between individuals and within the same individual.
