@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Folic Acid Tablets, USP, 1 mg, are supplied as round, yellow tablets imprinted “AN” and “361” on one side and scored on the other side.
+Folic Acid Tablets USP, 1 mg, are supplied as round, yellow tablets imprinted “AN” and “361” on one side and scored on the other side.
 
 They are available as follows:
 
@@ -10,7 +10,7 @@ Dispense in well-closed container with child-resistant closure.
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2015-00
+05-2018-01

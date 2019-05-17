@@ -4,7 +4,7 @@ Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow.
 
 In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis.
 Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids.
-Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonu cleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias.
+Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias.
 
 Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion.
 Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption.

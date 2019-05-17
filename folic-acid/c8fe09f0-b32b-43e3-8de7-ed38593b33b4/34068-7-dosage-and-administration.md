@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Oral administration is preferred.
-Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid, USP given orally.
+Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid given orally.
 Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation).
 Doses greater than 0.1 mg should not be used unless anemia due to vitamin B12 deficiency has been ruled out or is being adequately treated with a cobalamin.
 Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine.

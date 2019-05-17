@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNING
 
 Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B12 is deficient.
 
