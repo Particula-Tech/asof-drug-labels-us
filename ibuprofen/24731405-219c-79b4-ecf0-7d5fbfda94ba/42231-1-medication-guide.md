@@ -160,4 +160,4 @@ For more info, call/contact: 1-888-375-3784
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised May 2016
+Revised: April 2019

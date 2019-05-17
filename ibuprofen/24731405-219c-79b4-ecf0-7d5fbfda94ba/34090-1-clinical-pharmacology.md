@@ -19,6 +19,20 @@ Controlled studies have demonstrated that Ibuprofen is a more effective analgesi
 In patients with primary dysmenorrhea, Ibuprofen has been shown to reduce elevated levels of prostaglandin activity in the menstrualfluid and to reduce resting and active intrauterine pressure, as well asthe frequency of uterine contractions.
 The probable mechanism ofaction is to inhibit prostaglandin synthesis rather than simply to provide analgesia.
 
+Pharmacodynamics
+
+In a healthy volunteer study, ibuprofen 400 mg given once daily, administered 2 hours prior to immediate-release aspirin (81 mg) for 6 days, showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane 82 (Tx82) inhibition at 24 hours following the day-6 aspirin dose [53%].
+An interaction was still observed, but minimized, when ibuprofen 400 mg given once-daily was administered as early as 8 hours prior to the immediate-release aspirin dose [90.7%].
+However, there was no interaction with the antiplatelet activity of aspirin when ibuprofen 400 mg, given once daily, was administered 2 hours after (but not concomitantly, 15 min, or 30 min after) the immediate-release aspirin dose [99.2%].
+
+In another study, where immediate-release aspirin 81 mg was administered once daily with ibuprofen 400 mg given three times daily (1, 7, and 13 hours post-aspirin dose) for 10 consecutive days, the mean % serum thromboxane 82 (Tx82) inhibition suggested no interaction with the antiplatelet activity of aspirin [98.3%].
+However, there were individual subjects with serum Tx82 inhibition below 95%, with the lowest being 90.2%.
+
+When a similarly designed study was conducted with enteric-coated aspirin, where healthy subjects were administered enteric-coated aspirin 81 mg once daily for 6 days and ibuprofen 400 mg three times daily (2, 7 and 12 h post-aspirin dose) for 6 days, there was an interaction with the antiplatelet activity at 24 hours following the day-6 aspirin dose [67%].
+[See Precautions/Drug Interactions].
+
+Pharmacokinetics
+
 The ibuprofen in IBU tablets is rapidly absorbed.
 Peak serum ibuprofen levels are generally attained one to two hours after administration.With single doses up to 800 mg, a linear relationship exists between amount of drug administered and the integrated area underthe serum drug concentration vs time curve.
 Above 800 mg, however,the area under the curve increases less than proportional to increases in dose.
