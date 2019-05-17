@@ -2,10 +2,10 @@
 
 The following topics are also discussed in detail in the Warnings and Precautions section:
 
-- •Infusion-Related Reactions and Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
-- •Infections [see Warnings and Precautions (5.2)]
-- •Progressive Multifocal Leukoencephalopathy [see Warnings and Precautions (5.3)]
-- •Liver Injury [see Warnings and Precautions (5.4)]
+- Infusion-Related Reactions and Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Infections [see Warnings and Precautions (5.2)]
+- Progressive Multifocal Leukoencephalopathy [see Warnings and Precautions (5.3)]
+- Liver Injury [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,9 +24,11 @@ Serious adverse reactions were reported in 7% of patients treated with ENTYVIO c
 
 The most common adverse reactions (reported by ≥3% of patients treated with ENTYVIO in the UC Trials I and II and CD Trials I and III combined group and ≥1% higher than in combined placebo group) were nasopharyngitis, headache, arthralgia, nausea, pyrexia, upper respiratory tract infection, fatigue, cough, bronchitis, influenza, back pain, rash, pruritus, sinusitis, oropharyngeal pain and pain in extremities (Table 2).
 
-| Table 2. Adverse Reactions in ≥3% of ENTYVIO-treated Patients and ≥1% Higher than in Placebo (UC Trials I and IIData from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included. and CD Trials I and III) |  |  |
-| --- | --- | --- |
+Table 2.
+Adverse Reactions in ≥3% of ENTYVIO-treated Patients and ≥1% Higher than in Placebo (UC Trials I and IIData from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included. and CD Trials I and III)
+
 | Adverse Reaction | ENTYVIOPatients who received ENTYVIO for up to 52 weeks. (N=1434) | PlaceboPatients who received placebo for up to 52 weeks. (N=297) |
+| --- | --- | --- |
 | Nasopharyngitis | 13% | 7% |
 | Headache | 12% | 11% |
 | Arthralgia | 12% | 10% |
@@ -72,7 +74,7 @@ In controlled- and open-label long-term extension trials in adults treated with 
 
 In UC Trials I and II and CD Trials I and III, sepsis, including bacterial sepsis and septic shock, was reported in four of 1434 (0.3%) patients treated with ENTYVIO and in two of 297 patients treated with placebo (0.7%).
 During these trials, two Crohn's disease patients treated with ENTYVIO died due to reported sepsis or septic shock; both of these patients had significant comorbidities and a complicated hospital course that contributed to the deaths.
-In an open label long-term extension trial, additional cases of sepsis (some fatal), including bacterial sepsis and septic shock, were reported.
+In an open label, long-term extension trial, additional cases of sepsis (some fatal), including bacterial sepsis and septic shock, were reported.
 The rate of sepsis in patients with ulcerative colitis or Crohn's disease receiving ENTYVIO was two per 1000 patient-years.
 
 In clinical trials, all patients were screened for tuberculosis.
@@ -86,7 +88,7 @@ There have been reports of elevations of transaminase and/or bilirubin in patien
 In UC Trials I and II and CD Trials I and III, three patients reported serious adverse reactions of hepatitis, manifested as elevated transaminases with or without elevated bilirubin and symptoms consistent with hepatitis (e.g., malaise, nausea, vomiting, abdominal pain, anorexia).
 These adverse reactions occurred following two to five ENTYVIO doses; however, based on case report information it is unclear if the reactions indicated drug-induced or autoimmune etiology.
 All patients recovered following discontinuation of therapy with some requiring corticosteroid treatment.
-In controlled trials, the incidence of ALT and AST elevations ≥3 x ULN was <2% in patients treated with ENTYVIO and in patients treated with placebo.
+In controlled trials, the incidence of ALT and AST elevations ≥3 × ULN was <2% in patients treated with ENTYVIO and in patients treated with placebo.
 In the open-label trial, one additional case of serious hepatitis was observed.
 
 Malignancies
