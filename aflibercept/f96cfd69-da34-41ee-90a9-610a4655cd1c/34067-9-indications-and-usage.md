@@ -8,4 +8,4 @@ EYLEA is indicated for the treatment of:
 
 ## 1.3 Diabetic Macular Edema (DME)
 
-## 1.4 Diabetic Retinopathy (DR) in Patients with DME
+## 1.4 Diabetic Retinopathy (DR)

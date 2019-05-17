@@ -11,7 +11,7 @@ EYLEA is available packaged as follows:
 
 - Vial Kit with Injection Components (filter needle, syringe, injection needle)
 
-[see How Supplied (16)].
+[see How Supplied/Storage and Handling (16)].
 
 ## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
@@ -31,7 +31,7 @@ The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered 
 Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.4)].
 Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5 months).
 
-## 2.5 Diabetic Retinopathy (DR) in Patients with DME
+## 2.5 Diabetic Retinopathy (DR)
 
 The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (approximately every 28 days, monthly) for the first 5 injections, followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
 Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.5)].
@@ -48,7 +48,7 @@ EYLEA is available packaged as follows:
 
 - Vial Kit with Injection Components (filter needle, syringe, injection needle)
 
-[see How Supplied (16)].
+[see How Supplied/Storage and Handling (16)].
 
 Use aseptic technique to carry out the following preparation steps:
 

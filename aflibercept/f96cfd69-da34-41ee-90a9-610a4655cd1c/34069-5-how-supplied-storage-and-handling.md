@@ -10,6 +10,6 @@ EYLEA is supplied in the following presentation [see Dosage and Administration (
 Storage
 
 Refrigerate EYLEA at 2°C to 8ºC (36°F to 46ºF).
-Do Not Freeze.
+Do not freeze.
 Do not use beyond the date stamped on the carton and container label.
 Store in the original carton until time of use to protect from light.

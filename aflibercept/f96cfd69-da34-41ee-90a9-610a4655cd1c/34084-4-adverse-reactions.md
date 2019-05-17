@@ -11,8 +11,8 @@ The following potentially serious adverse reactions are described elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-A total of 2711 patients treated with EYLEA constituted the safety population in seven phase 3 studies.
-Among those, 2110 patients were treated with the recommended dose of 2 mg.
+A total of 2980 patients treated with EYLEA constituted the safety population in eight phase 3 studies.
+Among those, 2379 patients were treated with the recommended dose of 2 mg.
 Serious adverse reactions related to the injection procedure have occurred in <0.1% of intravitreal injections with EYLEA including endophthalmitis and retinal detachment.
 The most common adverse reactions (≥5%) reported in patients receiving EYLEA were conjunctival hemorrhage, eye pain, cataract, vitreous detachment, vitreous floaters, and intraocular pressure increased.
 
@@ -51,7 +51,7 @@ Less common serious adverse reactions reported in <1% of the patients treated wi
 
 Macular Edema Following Retinal Vein Occlusion (RVO)
 
-The data described below reflect 6 months exposure to EYLEA with a monthly 2 mg dose in 218 patients following CRVO in 2 clinical studies (COPERNICUS and GALILEO) and 91 patients following BRVO in one clinical study (VIBRANT) [see Clinical Studies (14.2), (14.3)].
+The data described below reflect 6 months exposure to EYLEA with a monthly 2 mg dose in 218 patients following central retinal vein occlusion (CRVO) in 2 clinical studies (COPERNICUS and GALILEO) and 91 patients following branch retinal vein occlusion (BRVO) in one clinical study (VIBRANT) [see Clinical Studies (14.2), (14.3)].
 
 Table 2: Most Common Adverse Reactions (≥1%) in RVO Studies
 
@@ -75,7 +75,7 @@ Table 2: Most Common Adverse Reactions (≥1%) in RVO Studies
 
 Less common adverse reactions reported in <1% of the patients treated with EYLEA in the CRVO studies were corneal edema, retinal tear, hypersensitivity, and endophthalmitis.
 
-Diabetic Macular Edema (DME)
+Diabetic Macular Edema (DME) and Diabetic Retinopathy (DR)
 
 The data described below reflect exposure to EYLEA in 578 patients with DME treated with the 2-mg dose in 2 double-masked, controlled clinical studies (VIVID and VISTA) from baseline to week 52 and from baseline to week 100 [see Clinical Studies (14.4)].
 
@@ -100,6 +100,8 @@ Table 3: Most Common Adverse Reactions (≥1%) in DME Studies
 | Eyelid edema | <1% | 1% | 2% | 1% |
 
 Less common adverse reactions reported in <1% of the patients treated with EYLEA were hypersensitivity, retinal detachment, retinal tear, corneal edema, and injection site hemorrhage.
+
+Safety data observed in 269 patients with nonproliferative diabetic retinopathy (NPDR) through week 52 in the PANORAMA trial were consistent with those seen in the phase 3 VIVID and VISTA trials (see Table 3 above).
 
 ## 6.2 Immunogenicity
 
