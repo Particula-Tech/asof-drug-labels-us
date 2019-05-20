@@ -4,8 +4,8 @@ Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2004-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2018
+Revised: 05/2019
 
-uspi-mk0125-t-1806r055
+uspi-mk0125-t-1905r056

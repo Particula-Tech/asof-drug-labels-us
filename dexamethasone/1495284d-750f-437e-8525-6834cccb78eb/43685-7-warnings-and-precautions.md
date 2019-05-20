@@ -180,13 +180,17 @@ Ephedrine: Ephedrine may enhance the metabolic clearance of corticosteroids, res
 
 Estrogens, including oral contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
 
-Hepatic Enzyme Inducers, Inhibitors and Substrates: Drugs which induce cytochrome P450 3A4 (CYP 3A4) enzyme activity (e.g., barbiturates, phenytoin, carbamazepine, rifampin) may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
-Drugs which inhibit CYP 3A4 (e.g., ketoconazole, macrolide antibiotics such as erythromycin) have the potential to result in increased plasma concentrations of corticosteroids.
-Dexamethasone is a moderate inducer of CYP 3A4.
-Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin) may increase their clearance, resulting in decreased plasma concentration.
+CYP 3A4 Inducers: Dexamethasone is metabolized by CYP 3A4.
+Drugs which induce cytochrome P450 3A4 (CYP 3A4) enzyme activity (e.g., barbiturates, phenytoin, carbamazepine, rifampin) may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
 
-Ketoconazole: Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to increased risk of corticosteroid side effects.
+CYP 3A4 Inhibitors: Concomitant administration of dexamethasone with erythromycin, a moderate CYP 3A4 inhibitor, has the potential to result in increased plasma concentrations of dexamethasone.
+Ketoconazole, a strong CYP3A4 inhibitor, has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to increased risk of corticosteroid side effects.
 In addition, ketoconazole alone can inhibit adrenal corticosteroid synthesis and may cause adrenal insufficiency during corticosteroid withdrawal.
+Co-administration with other drugs which strongly inhibit CYP 3A4 (e.g., itraconazole, clarithromycin, ritonavir, cobicistat-containing products) may lead to increased plasma concentrations of corticosteroids and potentially increase the risk for systemic corticosteroid side effects.
+Consider the benefit of co-administration versus the potential risk of systemic corticosteroid effects, in which case patients should be monitored for systemic corticosteroid side effects.
+
+CYP 3A4 Substrates: Dexamethasone is a moderate inducer of CYP 3A4.
+Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin) may increase their clearance, resulting in decreased plasma concentration.
 
 Nonsteroidal anti-inflammatory agents (NSAIDS): Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
