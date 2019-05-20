@@ -1,3 +1,3 @@
-Distributed by: Mayne Pharma Greenville, NC 27834 141027
+SORILUX is a registered trademark of Mayne Pharma LLC.
 
-PHARMACIST —DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
+Distributed by: Mayne Pharma Greenville, NC 27834 140828

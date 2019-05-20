@@ -9,9 +9,3 @@ Instruct the patient to avoid fire, flame, and smoking during and immediately fo
 
 Transient, rapidly reversible elevation of serum calcium has occurred with use of calcipotriene.
 If elevation in serum calcium outside the normal range should occur, discontinue treatment until normal calcium levels are restored.
-
-## 5.3 Risk of Ultraviolet Light Exposure
-
-Instruct the patient to avoid excessive exposure of the treated areas to either natural or artificial sunlight, including tanning booths and sun lamps.
-Physicians may wish to limit or avoid use of phototherapy in patients who use SORILUX Foam.
-[See Nonclinical Toxicology (13.1).]

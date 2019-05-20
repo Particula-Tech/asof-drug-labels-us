@@ -21,12 +21,12 @@ The subjects were 54% male and 88% Caucasian.
 Table 2 presents the efficacy results for each trial.
 
 Table 2.
-Number and Percent of Subjects Achieving Success for Body at Week 8 in Each Trial
+Number and Percent of Subjects Achieving Success for Body at Week 8 in ach Trial
 
 |  | SORILUX Foam N = 223 | Vehicle Foam N = 113 | SORILUX Foam N = 214 | Vehicle Foam N = 109 |
 | --- | --- | --- | --- | --- |
 |  | Trial 1 |  | Trial 2 |  |
-| Number (%) of Subjects with Treatment Success | 31 (14%) | 8 (7%) | 58 (27%) | 17 (16%) |
+| Number (%) of Subjects with Treatment Success | 31 (41%) | 8 (7%) | 58 (27%) | 17 (16%) |
 
 In one trial, subjects graded as "mild" at baseline showed a greater response to vehicle than SORILUX Foam.
 
@@ -35,14 +35,15 @@ Table 3 presents the success rates by disease severity at baseline for each tria
 Table 3.
 Number and Percent of Subjects Achieving Success for Body by Baseline ISGA Score and by Trial
 
-| ISGA Scores at Baseline | SORILUX Foam (N = 223) | Vehicle Foam (N = 113) | SORILUX Foam (N = 214) | Vehicle Foam (N = 109) |
+| SORILUX Foam (N = 223) | Vehicle Foam (N = 113) | SORILUX Foam (N = 214) | Vehicle Foam (N = 109) |  |
 | --- | --- | --- | --- | --- |
-|  | Trial 1 |  | Trial 2 |  |
+| ISGA Scores at Baseline | Trial 1 |  | Trial 2 |  |
 | Mild | 2/73 (2.7%) | 3/34 (8.8%) | 8/56 (14.3%) | 4/31 (12.9%) |
 | Moderate | 29/150 (19.3%) | 5/79 (6.3%) | 50/158 (31.6%) | 13/78 (16.7%) |
 
 In another multi-center, randomized, double-blind, vehicle-controlled clinical trial, a total of 363 subjects with moderate plaque psoriasis of the scalp and body were randomized 1:1 to SORILUX Foam or vehicle.
 Subjects applied the assigned treatment to the affected areas twice daily for 8 weeks.
+
 Baseline disease severity of the scalp was graded using a 6-point ISGA; a score of "moderate" corresponded to grade 3.
 
 The primary efficacy evaluation for scalp involvement was carried out at Week 8 with treatment success being defined as a score of "clear" (grade 0) or "almost clear" (grade 1).

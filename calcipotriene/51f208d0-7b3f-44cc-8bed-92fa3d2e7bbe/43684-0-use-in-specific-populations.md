@@ -2,32 +2,49 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects:
+Risk Summary
 
-There are no adequate and well-controlled trials in pregnant women.
-Therefore, SORILUX Foam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Although there are no available data on the drug- associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes in pregnant women exposed to SORILUX Foam, systemic exposure to calcipotriene is likely to be low [see Clinical Pharmacology (12.2, 12.3)].
 
-Studies of teratogenicity were done by the oral route where bioavailability is expected to be approximately 40-60% of the administered dose.
-Increased rabbit maternal and fetal toxicity was noted at 12 mcg/kg/day (132 mcg/m2/day).
-Rabbits administered 36 mcg/kg/day (396 mcg/m2/day) resulted in fetuses with a significant increase in the incidences of incomplete ossification of pubic bones and forelimb phalanges.
-In a rat study, doses of 54 mcg/kg/day (318 mcg/m2/day) resulted in a significantly higher incidence of skeletal abnormalities consisting primarily of enlarged fontanelles and extra ribs.
+In animal reproduction studies, oral administration of calcipotriene to pregnant rats and rabbits during the period of organogenesis resulted in an increased incidence of minor skeletal abnormalities, including enlarged fontanelles and extra ribs in rats and an increased incidence of minor skeletal abnormalities, including incomplete ossification of pubic bones and forelimb phalanges in rabbits (see Data).
+The available data do not allow the calculation of relevant comparisons between the systemic exposure of calcipotriene observed in animal studies to the systemic exposure that would be expected in humans after topical use of SORILUX Foam.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
+
+Embryofetal development studies were conducted with calcipotriene after oral administration in rats and rabbits.
+Pregnant rats received daily oral administration of calcipotriene during the period of organogenesis.
+Fetuses from dams dosed with 54 mcg/kg/day (318 mcg/m2/day) exhibited a significantly increased incidence of minor skeletal abnormalities consisting primarily of enlarged fontanelles and extra ribs.
 The enlarged fontanelles are most likely due to calcipotriene's effect upon calcium metabolism.
-The maternal and fetal no-effect exposures in the rat (43.2 mcg/m2/day) and rabbit (17.6 mcg/m2/day) studies are approximately equal to the expected human systemic exposure level (18.5 mcg/m2/day) from dermal application.
+There were no effects on the incidence of major malformations in fetuses.
 
-## 8.3 Nursing Mothers
+Pregnant rabbits received daily oral administration of calcipotriene during the period of organogenesis.
+Increased rabbit maternal and fetal toxicity was noted at 12 mcg/kg/day (132 mcg/m2/day).
+Fetuses from does dosed with 36 mcg/kg/day (396 mcg/m2/day) exhibited a significantly increased incidence of minor skeletal abnormalities including incomplete ossification of pubic bones and forelimb phalanges.
+There were no effects on the incidence of major malformations in fetuses.
 
-It is not known whether calcipotriene is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when SORILUX Foam is administered to a nursing woman.
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of topically administered calcipotriene in human or animal milk, the effects on the breastfed infant, or the effects on milk production.
+After topical administration of SORILUX Foam, concentrations of calcipotriene in plasma are low, and therefore, concentrations in human milk are likely to be low [see Clinical Pharmacology (12.3)].
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for and any potential adverse effects on the breastfed child from SORILUX Foam or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SORILUX Foam in pediatric patients less than 18 years of age have not been established.
+The safety and effectiveness of SORILUX Foam have been established in pediatric patients age 12 years and older for topical treatment of plaque psoriasis of the scalp and body.
+Use of SORILUX Foam in this age group is supported by two adequate and well controlled 8-week trials in adults and adolescents 12 years of age and older, with additional data from a 15-day open-label safety and pharmacokinetics study conducted in 19 subjects 12 to less than 17 years of age with psoriasis.
+Data from 17 subjects in the pharmacokinetic study showed no significant effects on indices of calcium metabolism and no quantifiable calcipotriene concentrations in subjects aged 12 to less than 17 years [see Clinical Studies (14), Clinical Pharmacology (12.2, 12.3) and Adverse Reactions (6.1)].
+
+The safety and effectiveness of SORILUX Foam in pediatric patients less than 12 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
 Clinical trials of SORILUX Foam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-
-## 8.6 Unevaluated Uses
-
-SORILUX Foam has not been evaluated in patients with erythrodermic, exfoliative, or pustular psoriasis.
