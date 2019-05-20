@@ -1,5 +1,10 @@
 Rx only
 
-Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
+Dist. by: Par Pharmaceutical Chestnut Ridge, NY 10977 U.S.A.
 
-8181162 Revised: 09/17 R5
+Mfg. by: Par Formulations Private Limited, 9/215, Pudupakkam, Kelambakkam - 603 103.
+Made in India
+
+Mfg.
+Lic.
+No.: TN00002121 OS2406H-01-74-01 Issued: 01/19
