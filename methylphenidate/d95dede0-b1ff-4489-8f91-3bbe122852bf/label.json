@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA209311"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Ironshore Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71376-201-03",
+    "71376-202-03",
+    "71376-203-03",
+    "71376-204-03",
+    "71376-205-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "JORNAY PM"
+    }
+  ],
+  "setid": "d95dede0-b1ff-4489-8f91-3bbe122852bf",
+  "source": "dailymed"
+}
