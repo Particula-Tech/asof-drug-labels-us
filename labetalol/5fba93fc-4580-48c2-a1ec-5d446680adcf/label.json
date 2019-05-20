@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA211325"
+  ],
+  "inn": "labetalol",
+  "labeler": "Cadila Pharmaceuticals Limited",
+  "package_ndcs": [
+    "71209-083-03",
+    "71209-083-11",
+    "71209-084-03",
+    "71209-084-11",
+    "71209-085-03",
+    "71209-085-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol Hydrochloride"
+    }
+  ],
+  "setid": "5fba93fc-4580-48c2-a1ec-5d446680adcf",
+  "source": "dailymed"
+}
