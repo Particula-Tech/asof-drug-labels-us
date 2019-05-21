@@ -1,12 +1,14 @@
-# 4 CONTRAINDICATIONS
+# CONTRAINDICATIONS
 
-Tramadol hydrochloride is contraindicated for:
+Tramadol HCl tablets are contraindicated for:
 
-- all children younger than 12 years of age [see Warnings and Precautions (5.4)].
-- post-operative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Warnings and Precautions (5.4)].
-  Tramadol hydrochloride is also contraindicated in patients with:
-- Significant respiratory depression [see Warnings and Precautions (5.3)].
-- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.12)].
-- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.15)].
-- Hypersensitivity to tramadol, any other component of this product or opioids [see Warnings and Precautions (5.16)].
-- Concurrent use of monoamine oxidase inhibitors (MAOIs) or use within the last 14 days [see Drug Interactions (7)].
+- all children younger than 12 years of age (see WARNINGS)
+- post-operative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy (see WARNINGS).
+
+Tramadol HCl tablets contraindicated in patients with:
+
+- Significant respiratory depression (see WARNINGS).
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment (see WARNINGS).
+- Known or suspected gastrointestinal obstruction, including paralytic ileus (see WARNINGS).
+- Hypersensitivity to tramadol, any other component of this product or opioids (see WARNINGS).
+- Concurrent use of monoamine oxidase inhibitors (MAOIs) or use of MAOIs within the last 14 days (see PRECAUTIONS; Drug Interactions).
