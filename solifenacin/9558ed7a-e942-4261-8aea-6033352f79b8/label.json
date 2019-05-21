@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA205483"
+  ],
+  "inn": "solifenacin",
+  "labeler": "Ajanta Pharma Limited",
+  "package_ndcs": [
+    "27241-037-03",
+    "27241-037-09",
+    "27241-038-03",
+    "27241-038-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "solifenacin succinate",
+      "name": "solifenacin succinate"
+    }
+  ],
+  "setid": "9558ed7a-e942-4261-8aea-6033352f79b8",
+  "source": "dailymed"
+}
