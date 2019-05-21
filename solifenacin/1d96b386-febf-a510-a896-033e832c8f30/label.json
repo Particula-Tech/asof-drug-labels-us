@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209333"
+  ],
+  "inn": "solifenacin",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-4702-3",
+    "60505-4702-9",
+    "60505-4703-3",
+    "60505-4703-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "solifenacin succinate",
+      "name": "Solifenacin Succinate"
+    }
+  ],
+  "setid": "1d96b386-febf-a510-a896-033e832c8f30",
+  "source": "dailymed"
+}
