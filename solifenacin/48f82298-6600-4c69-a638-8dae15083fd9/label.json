@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA205575"
+  ],
+  "inn": "solifenacin",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-192-08",
+    "62332-192-30",
+    "62332-192-90",
+    "62332-192-91",
+    "62332-193-08",
+    "62332-193-30",
+    "62332-193-90",
+    "62332-193-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "solifenacin succinate",
+      "name": "Solifenacin Succinate"
+    }
+  ],
+  "setid": "48f82298-6600-4c69-a638-8dae15083fd9",
+  "source": "dailymed"
+}
