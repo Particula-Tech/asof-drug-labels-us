@@ -1,21 +1,35 @@
-# 10 mg/mL 10 mL Label
+# 5 mL Label
 
-NDC 0781-3220-70
+NDC 0781-3220-95 10 X 5 mL Multiple-Dose Vials
 
-10 mL multiple dose vial
+Rocuronium Bromide Injection
 
-Rocuronium
+50mg/5mL
 
-Bromide Injection
+(10 mg/mL) Rx Only
 
-10 mg/mL
+WARNING: Paralyzing Agent
 
-Rx only For IV use only
+For Intravenous Use Only
 
-Peel off & apply to syringe
+Rx only
 
-100 mg/10 mL
+SANDOZ – A Novartis Division
 
-Sterile, nonpyrogenic
+# 10 mL Label
 
-SANDOZ
+NDC 0781-3220-92 10 X 10 mL Multiple-Dose Vials
+
+Rocuronium Bromide Injection
+
+100mg/10mL
+
+(10 mg/mL) Rx Only
+
+WARNING: Paralyzing Agent
+
+For Intravenous Use Only
+
+Rx only
+
+SANDOZ – A Novartis Division

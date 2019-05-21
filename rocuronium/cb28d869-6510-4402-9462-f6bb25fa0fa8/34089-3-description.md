@@ -5,7 +5,7 @@ Rocuronium bromide is chemically designated as 1-[17β-(acetyloxy)-3α-hydroxy-2
 
 The structural formula is:
 
-The chemical formula is C 32H 53BrN 2O 4 with a molecular weight of 609.70.
+The chemical formula is C32H53BrN2O4 with a molecular weight of 609.70.
 The partition coefficient of rocuronium bromide in n-octanol/water is 0.5 at 20°C.
 
 Rocuronium bromide is supplied as a sterile, nonpyrogenic, isotonic solution that is clear, colorless to yellow/orange, for intravenous injection only.

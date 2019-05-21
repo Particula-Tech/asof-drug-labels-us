@@ -6,13 +6,10 @@ If applicable, inform your patients that certain medical conditions and medicati
 In addition, inform your patient that severe anaphylactic reactions to neuromuscular blocking agents, including rocuronium bromide injection, have been reported.
 Since allergic cross-reactivity has been reported in this class, request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents.
 
-Manufactured in Canada by
-
-Sandoz Canada Inc. for
+Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-Rev.
-July 2018
+Revised: March 2019
 
-46227456
+46238554

@@ -19,7 +19,7 @@ Following induction, continuous 8 mcg/kg/min infusion of rocuronium bromide prod
 
 ### Rapid Sequence Intubation
 
-Intubating conditions were assessed in 230 patients in 6 clinical studies where anesthesia was induced with either thiopental (3 to 6 mg/kg) or propofol (1.5 to 2.5 mg/kg) in combination with either fentanyl (2 to 5 mcg/kg) or alfentanil (1 mg).
+Intubation was assessed in patients in 6 clinical studies where anesthesia was induced with either thiopental (3 to 6 mg/kg) or propofol (1.5 to 2.5 mg/kg) in combination with either fentanyl (2 to 5 mcg/kg) or alfentanil (1 mg).
 Most of the patients also received a premedication such as midazolam or temazepam.
 Most patients had intubation attempted within 60 to 90 seconds of administration of rocuronium bromide 0.6 mg/kg or succinylcholine 1 to 1.5 mg/kg.
 Excellent or good intubating conditions were achieved in 119/120 (99% [95% confidence interval 95% to 99.9%]) patients receiving rocuronium bromide and in 108/110 (98% [94% to 99.8%]) patients receiving succinylcholine.
@@ -32,7 +32,7 @@ The administration of rocuronium bromide in the 47 of 330 (14%) patients who wer
 
 In 1 clinical study in obese patients, rocuronium bromide 0.6 mg/kg was dosed according to ABW (n=12) or IBW (n=11).
 Obese patients dosed according to IBW had a longer time to maximum block, a shorter median (range) clinical duration of 25 (14 to 29) minutes, and did not achieve intubating conditions comparable to those dosed based on ABW.
-These results support the recommendation that obese patients be dosed based on actual body weight [see Dosage and Administration (2.5)].
+These results support the recommendation that obese patients be dosed based on actual body weight [see Dosage and Administration (2.6)].
 
 ### Obstetric Patients
 
@@ -46,16 +46,16 @@ Therefore, rocuronium bromide is not recommended for rapid sequence induction in
 
 Rocuronium bromide was evaluated in 55 geriatric patients (ages 65 to 80 years) in 6 clinical studies.
 Doses of 0.6 mg/kg provided excellent to good intubating conditions in a median (range) time of 2.3 (1 to 8) minutes.
-Recovery times from 25% to 75% after these doses were not prolonged in geriatric patients compared to other adult patients [see Dosage and Administration (2.5)and Use In Specific Populations (8.5)].
+Recovery times from 25% to 75% after these doses were not prolonged in geriatric patients compared to other adult patients [see Dosage and Administration (2.6) and Use in Specific Populations (8.5)].
 
 ## 14.3 Pediatric Patients
 
 Rocuronium bromide 0.45, 0.6, or 1 mg/kg was evaluated under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia for intubation in 326 patients in 2 studies.
 In 1 of these studies maintenance bolus and infusion requirements were evaluated in 137 patients.
 In all age groups, doses of 0.6 mg/kg provided time to maximum block in about 1 minute.
-Across all age groups, median (range) time to reappearance of T 3 for doses of 0.6 mg/kg was shortest in the children [36.7 (20.1 to 65.9) minutes] and longest in infants [59.8 (32.3 to 87.8) minutes].
-For pediatric patients older than 3 months, the time to recovery was shorter after stopping infusion maintenance when compared with bolus maintenance [see Dosage and Administration (2.5)and Use In Specific Populations (8.4)].
+Across all age groups, median (range) time to reappearance of T3 for doses of 0.6 mg/kg was shortest in the children [36.7 (20.1 to 65.9) minutes] and longest in infants [59.8 (32.3 to 87.8) minutes].
+For pediatric patients older than 3 months, the time to recovery was shorter after stopping infusion maintenance when compared with bolus maintenance [see Dosage and Administration (2.6) and Use in Specific Populations (8.4)].
 
 Rocuronium bromide 0.6 or 0.8 mg/kg was evaluated for intubation in 75 pediatric patients (n=28; age 3 to 12 months, n=47; age 1 to 12 years) in 3 studies using halothane (1% to 5%) and nitrous oxide (60% to 70%) in oxygen.
 Doses of 0.6 mg/kg provided a median (range) time to maximum block of 1 (0.5 to 3.3) minute(s).
-This dose provided a median (range) time of clinical relaxation of 41 (24 to 68) minutes in 3-month to 1-year-old infants and 26 (17 to 39) minutes in 1- to 12-year-old pediatric patients [see Dosage and Administration (2.5)and Use In Specific Populations (8.4)].
+This dose provided a median (range) time of clinical relaxation of 41 (24 to 68) minutes in 3-month to 1-year-old infants and 26 (17 to 39) minutes in 1- to 12-year-old pediatric patients [see Dosage and Administration (2.6) and Use in Specific Populations (8.4)].

@@ -15,8 +15,7 @@ Precautions should also be taken in those patients who have had previous anaphyl
 
 ## 5.3 Risk of Death due to Medication Errors
 
-.
-Administration of rocuronium bromide injection results in paralysis, which may lead to respiratory arrest and death; this progression may be more likely to occur in a patient for whom it is not intended.
+Administration of rocuronium bromide injection results in paralysis, which may lead to respiratory arrest and death, a progression that may be more likely to occur in a patient for whom it is not intended.
 Confirm proper selection of intended product and avoid confusion with other injectable solutions that are present in critical care and other clinical settings.
 If another healthcare provider is administering the product, ensure that the intended dose is clearly labeled and communicated.
 
@@ -47,13 +46,13 @@ Therefore, for patients receiving both neuromuscular blocking agents and cortico
 ## 5.7 Malignant Hyperthermia (MH)
 
 Rocuronium bromide has not been studied in MH-susceptible patients.
-Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic.
+Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic [see Adverse Reactions (6.2)].
 
 In an animal study in MH-susceptible swine, the administration of rocuronium bromide injection did not appear to trigger malignant hyperthermia.
 
 ## 5.8 Prolonged Circulation Time
 
-Conditions associated with an increased circulatory delayed time, e.g., cardiovascular disease or advanced age, may be associated with a delay in onset time [see Dosage and Administration (2.5)].
+Conditions associated with an increased circulatory delayed time, e.g., cardiovascular disease or advanced age, may be associated with a delay in onset time [see Dosage and Administration (2.6)].
 
 ## 5.9 QT Interval Prolongation
 
@@ -67,7 +66,7 @@ Nondepolarizing neuromuscular blocking agents have been found to exhibit profoun
 
 Certain inhalation anesthetics, particularly enflurane and isoflurane, antibiotics, magnesium salts, lithium, local anesthetics, procainamide, and quinidine have been shown to increase the duration of neuromuscular block and decrease infusion requirements of neuromuscular blocking agents [see Drug Interactions (7.3)].
 
-In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of rocuronium bromide should be considered [see Dosage and Administration (2.5)].
+In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of rocuronium bromide should be considered [see Dosage and Administration (2.6)].
 
 ### Resistance
 
@@ -94,7 +93,7 @@ Rocuronium bromide, which has an acid pH, should not be mixed with alkaline solu
 
 Rocuronium bromide may be associated with increased pulmonary vascular resistance, so caution is appropriate in patients with pulmonary hypertension or valvular heart disease [see Clinical Studies (14.1)].
 
-## 5.13 Use In Patients with Myasthenia
+## 5.13 Use in Patients with Myasthenia
 
 In patients with myasthenia gravis or myasthenic (Eaton-Lambert) syndrome, small doses of nondepolarizing neuromuscular blocking agents may have profound effects.
 In such patients, a peripheral nerve stimulator and use of a small test dose may be of value in monitoring the response to administration of muscle relaxants.
