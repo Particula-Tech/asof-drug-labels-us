@@ -20,8 +20,7 @@ The median difference from baseline in heart rate associated with the 10 and 30 
 Because a significant period effect on QTc was observed, the QTc effects were analyzed utilizing the parallel placebo control arm rather than the pre-specified intra-patient analysis.
 Representative results are shown in Table 2.
 
-Table 2.
-QTc changes in msec (90%CI) from baseline at Tmax (relative to placebo)Results displayed are those derived from the parallel design portion of the study and represent the comparison of Group 1 to time-matched placebo effects in Group 2
+Table 2: QTc changes in msec (90%CI) from baseline at Tmax (relative to placebo)Results displayed are those derived from the parallel design portion of the study and represent the comparison of Group 1 to time-matched placebo effects in Group 2
 
 | Drug/Dose | Fridericia method (using mean difference) |
 | --- | --- |
@@ -48,8 +47,7 @@ A single 10 mg dose administration of VESIcare with food increased Cmax and AUC 
 Distribution
 
 Solifenacin is approximately 98% (in vivo) bound to human plasma proteins, principally to ∝1-acid glycoprotein.
-Solifenacin is highly distributed to non-CNS tissues, having a mean steady-state volume of distribution of 600L.
-Metabolism
+Solifenacin is highly distributed to non-CNS tissues, having a mean steady-state volume of distribution of 600 L. Metabolism
 
 Solifenacin is extensively metabolized in the liver.
 The primary pathway for elimination is by way of CYP3A4; however, alternate metabolic pathways exist.

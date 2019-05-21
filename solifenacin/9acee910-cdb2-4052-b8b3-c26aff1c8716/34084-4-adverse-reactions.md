@@ -15,8 +15,7 @@ Compared to 12 weeks of treatment with VESIcare, the incidence and severity of a
 The most frequent adverse reaction leading to study discontinuation was dry mouth (1.5%).
 Table 1 lists the rates of identified adverse reactions, derived from all reported adverse events, in randomized, placebo-controlled trials at an incidence greater than placebo and in 1% or more of patients treated with VESIcare 5 or 10 mg once daily for up to 12 weeks.
 
-Table 1.
-Percentages of Patients with Identified Adverse Reactions, Derived from All Adverse Events Exceeding Placebo Rate and Reported by 1% or More Patients for Combined Pivotal Studies
+Table 1: Percentages of Patients with Identified Adverse Reactions, Derived from All Adverse Events Exceeding Placebo Rate and Reported by 1% or More Patients for Combined Pivotal Studies
 
 |  | Placebo (%) | VESIcare 5 mg (%) | VESIcare 10 mg (%) |
 | --- | --- | --- | --- |
@@ -57,22 +56,22 @@ The following events have been reported in association with solifenacin use in w
 
 General: peripheral edema, hypersensitivity reactions, including angioedema with airway obstruction, rash, pruritus, urticaria, and anaphylactic reaction;
 
-Central Nervous: headache, confusion, hallucinations, delirium and somnolence;
+Central Nervous: headache, confusion, hallucinations, delirium, and somnolence;
 
-Cardiovascular: QT prolongation; Torsade de Pointes, atrial fibrillation, tachycardia, palpitations;
+Cardiovascular: QT prolongation, Torsade de Pointes, atrial fibrillation, tachycardia, and palpitations;
 
-Hepatic: liver disorders mostly characterized by abnormal liver function tests, AST (aspartate aminotransferase), ALT (alanine aminotransferase), GGT (gamma-glutamyl transferase);
+Hepatic: liver disorders mostly characterized by abnormal liver function tests, AST (aspartate aminotransferase), ALT (alanine aminotransferase), and GGT (gamma-glutamyl transferase);
 
 Renal: renal impairment;
 
-Metabolism and nutrition disorders: decreased appetite, hyperkalemia;
+Metabolism and nutrition disorders: decreased appetite and hyperkalemia;
 
-Dermatologic: exfoliative dermatitis and erythema multiforme;
+Dermatologic: exfoliative dermatitis, erythema multiforme, and dry skin;
 
 Eye disorders: glaucoma;
 
-Gastrointestinal disorders: gastroesophageal reflux disease and ileus;
+Gastrointestinal disorders: gastroesophageal reflux disease, ileus, abdominal pain, and dysgeusia;
 
-Respiratory, thoracic and mediastinal disorders: dysphonia;
+Respiratory, thoracic and mediastinal disorders: dysphonia and nasal dryness;
 
 Musculoskeletal and connective tissue disorders: muscular weakness.

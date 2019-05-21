@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Patients should be informed that antimuscarinic agents such as VESIcare have been associated with constipation and blurred vision.
 Patients should be advised to contact their physician if they experience severe abdominal pain or become constipated for 3 or more days.
@@ -11,16 +11,10 @@ Patients should read the patient leaflet entitled “Patient Information VESIcar
 Patients should be informed that solifenacin may produce angioedema, which could result in life-threatening airway obstruction.
 Patients should be advised to promptly discontinue solifenacin therapy and seek immediate attention if they experience edema of the tongue or laryngopharynx, or difficulty breathing.
 
-Rx Only
-
-PRODUCT OF IRELAND
-
 Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-VESIcare is a registered trademark of Astellas Pharma Inc.
+VESIcare® is a registered trademark of Astellas Pharma Inc.
 
-© 2016 Astellas Pharma US, Inc.
+© 2004 – 2019 Astellas Pharma US, Inc.
 
-Revised: February 2016
-
-16A001-VES
+218633-VES

@@ -17,8 +17,7 @@ The mean increase in the volume voided per micturition was significantly greater
 
 The results for the primary and secondary endpoints in the four individual 12-week clinical studies of VESIcare are reported in Tables 3 through 6.
 
-Table 3.
-Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Placebo: Study 1
+Table 3: Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Placebo: Study 1
 
 | Parameter | Placebo (N=253) Mean (SE) | VESIcare 5 mg (N=266) Mean (SE) | VESIcare 10 mg (N=264) Mean (SE) |
 | --- | --- | --- | --- |
@@ -29,8 +28,7 @@ Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Pl
 | Volume Voided per Micturition [mL] |  |  |  |
 | Baseline Increase P value vs. placebo | 143.8 (3.37)7.4 (2.28) | 149.6 (3.35)32.9 (2.92)< 0.001 | 147.2 (3.15)39.2 (3.11)< 0.001 |
 
-Table 4.
-Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Placebo: Study 2
+Table 4: Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Placebo: Study 2
 
 | Parameter | Placebo (N=281) Mean (SE) | VESIcare 5 mg (N=286) Mean (SE) | VESIcare 10 mg (N=290) Mean (SE) |
 | --- | --- | --- | --- |
@@ -41,8 +39,7 @@ Mean Change from Baseline to Endpoint for VESIcare (5 mg and 10 mg daily) and Pl
 | Volume Voided per Micturition [mL] |  |  |  |
 | Baseline Increase P value vs. placebo | 147.2 (3.18)11.3 (2.52) | 148.5 (3.16)31.8 (2.94)< 0.001 | 145.9 (3.42)36.6 (3.04)< 0.001 |
 
-Table 5.
-Mean Change from Baseline to Endpoint for VESIcare (10 mg daily) and Placebo: Study 3
+Table 5: Mean Change from Baseline to Endpoint for VESIcare (10 mg daily) and Placebo: Study 3
 
 | Parameter | Placebo (N=309) Mean (SE) | VESIcare 10 mg (N=306) Mean (SE) |
 | --- | --- | --- |
@@ -53,8 +50,7 @@ Mean Change from Baseline to Endpoint for VESIcare (10 mg daily) and Placebo: St
 | Volume Voided per Micturition [mL] |  |  |
 | Baseline Increase P value vs. placebo | 190.3 (5.48)2.7 (3.15) | 183.5 (4.97)47.2 (3.79)< 0.001 |
 
-Table 6.
-Mean Change from Baseline to Endpoint for VESIcare (10 mg daily) and Placebo: Study 4
+Table 6: Mean Change from Baseline to Endpoint for VESIcare (10 mg daily) and Placebo: Study 4
 
 | Parameter | Placebo (N=295) Mean (SE) | VESIcare 10 mg (N=298) Mean (SE) |
 | --- | --- | --- |
