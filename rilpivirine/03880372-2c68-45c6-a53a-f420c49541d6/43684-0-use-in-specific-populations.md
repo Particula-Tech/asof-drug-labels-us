@@ -52,7 +52,7 @@ There were no new safety findings compared with the known safety profile of rilp
 Animal Data
 
 Rilpivirine was administered orally to pregnant rats (40, 120, or 400 mg per kg per day) and rabbits (5, 10, or 20 mg per kg per day) through organogenesis (on gestation Days 6 through 17, and 6 through 19, respectively).
-No significant toxicological effects were observed in embryo-fetal toxicity studies performed with rilpivirine in rats and rabbits at exposures 15 (rats) and 70 (rabbits) times higher than the exposure in humans at the recommended dose of 25 mg once daily.
+No significant toxicological effects were observed in embryo fetal toxicity studies performed with rilpivirine in rats and rabbits at exposures 15 (rats) and 70 (rabbits) times higher than the exposure in humans at the recommended dose of 25 mg once daily.
 In a pre/postnatal development study with rilpivirine, where rats were administered up to 400 mg per kg per day through lactation, no significant adverse effects directly related to drug were noted in the offspring.
 
 ## 8.2 Lactation
@@ -72,7 +72,7 @@ In animals, no studies have been conducted to assess the excretion of rilpivirin
 
 ## 8.4 Pediatric Use
 
-The safety, efficacy and pharmacokinetics of EDURANT were evaluated in a single arm, open-label, Phase 2 trial that enrolled 36 antiretroviral treatment-naïve, HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg [see Dosage and Administration (2.1), Adverse Reactions (6.2), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+The safety, efficacy and pharmacokinetics of EDURANT were evaluated in a single arm, open label, Phase 2 trial that enrolled 36 antiretroviral treatment-naïve, HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg [see Dosage and Administration (2.1), Adverse Reactions (6.2), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
 Safety and effectiveness in pediatric patients less than 12 years of age or weighing less than 35 kg have not been established.
 
