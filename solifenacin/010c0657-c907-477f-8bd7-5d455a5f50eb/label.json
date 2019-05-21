@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA209239"
+  ],
+  "inn": "solifenacin",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-386-14",
+    "68462-386-30",
+    "68462-386-90",
+    "68462-387-14",
+    "68462-387-30",
+    "68462-387-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "solifenacin succinate",
+      "name": "solifenacin succinate"
+    },
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "solifenacin succinate",
+      "name": "solifenacin succinate"
+    }
+  ],
+  "setid": "010c0657-c907-477f-8bd7-5d455a5f50eb",
+  "source": "dailymed"
+}
