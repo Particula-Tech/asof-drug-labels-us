@@ -175,7 +175,7 @@ Patients were randomly assigned in a 1:1:1 ratio to 1 of 3 dosing regimens: 1) 3
 The primary efficacy endpoint was the proportion of patients who improved by ≥2 steps on the DRSS from baseline to week 24 in the combined EYLEA groups and at week 52 in the 2Q16 and 2Q8 groups individually versus sham.
 A key secondary endpoint was the proportion of patients developing the composite endpoint of proliferative diabetic retinopathy or anterior segment neovascularization through week 52.
 
-At week 52, efficacy in the 2Q16 and 2Q8 groups was superior to the sham group (see Table 9).
+At week 52, efficacy in the 2Q16 and 2Q8 groups was superior to the sham group (see Table 9 and Table 10).
 The proportion of patients with a ≥2-step improvement over time is shown in Figure 12.
 
 Table 9: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score at Weeks 24 and 52 in PANORAMA
