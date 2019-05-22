@@ -97,7 +97,7 @@ Montelukast sodium tablets may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking montelukast sodium tablets:
 
-| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleepinguncontrolled muscle movements |
+| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsobsessive-compulsive symptomsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleepinguncontrolled muscle movements |
 | --- | --- |
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
@@ -200,6 +200,6 @@ Dist.- Ahmedabad: 382 210.
 
 INDIA.
 
-10 1653 1 674096
+10 1653 2 693373
 
-Issued February 2017
+Issued March 2019

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Information for Patients
 
@@ -40,6 +40,6 @@ Dist.- Ahmedabad: 382 210.
 
 INDIA.
 
-10 1653 1 674096
+10 1653 2 693373
 
-Issued February 2017
+Issued March 2019

@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Hypersensitivity to any component of this product.
+- Hypersensitivity to any component of this product.
