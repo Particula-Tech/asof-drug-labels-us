@@ -5,9 +5,9 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2018 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2019 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8342a-rng-1812r012
+uspi-mk8342a-rng-1905r013
 
 Instructions for Use
 
@@ -126,7 +126,7 @@ Throw away the used NuvaRing.
 
 What else should I know about using NuvaRing?
 
-What If I leave NuvaRing in too long?
+What if I leave NuvaRing in too long?
 
 - If you leave NuvaRing in your vagina for up to 4 weeks (28 days) you will still be getting pregnancy protection.
   Remove your old NuvaRing for 1 week (7 days) and insert a new NuvaRing 1 week (7 days) later (See Steps 1 through 4).
@@ -155,7 +155,7 @@ NuvaRing can slip or accidentally come out (expelled) of your vagina, for exampl
       Use another birth control method, such as male condoms with spermicide, until the new NuvaRing has been used for 7 days in a row, following one of the two options below:
       - -Option 1.
         Insert a new ring right away to start your next 21 Day NuvaRing use cycle.
-        You may not have your regular period but you may have spotting or vaginal bleeding.
+        You may not have your regular period, but you may have spotting or vaginal bleeding.
       - -Option 2.
         Insert a new ring no later than 7 days from the time the previous ring was removed or expelled.
         During this time, you may have your period.
@@ -171,11 +171,11 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2018 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2019 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 12/2018
+Revised: 05/2019
 
-usppi-mk8342a-rng-1812r012
+usppi-mk8342a-rng-1905r013
 
 # Instructions for Use
 

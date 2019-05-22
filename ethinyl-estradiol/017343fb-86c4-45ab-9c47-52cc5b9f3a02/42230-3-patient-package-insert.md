@@ -128,15 +128,16 @@ How should I use NuvaRing?
 
 - Read the Instructions for Use at the end of this Patient Information that comes with your NuvaRing for information about the right way to use NuvaRing.
 - Use NuvaRing exactly as your healthcare provider tells you to use it.
-- NuvaRing is used in a 4 week cycle.
+- NuvaRing is used in a 4-week cycle.
   - Insert 1 NuvaRing in the vagina and keep it in place for 3 weeks (21 days).Regularly check that NuvaRing is in your vagina (for example, before and after intercourse) to ensure that you are protected from pregnancy.
-  - Remove the NuvaRing for a 1 week break (7 days).
+  - Remove the NuvaRing for a 1-week break (7 days).
     During the 1-week break (7 days), you will usually have your menstrual period.
     Note: Insert and remove NuvaRing on the same day of the week and at the same time:
     - For example, if you insert your NuvaRing on a Monday at 8:00 am, you should remove it on the Monday 3 weeks later at 8:00 am.
-    - After your 1 week (7 days) break, you should insert a new NuvaRing on the next Monday at 8:00 am.
+    - After your 1-week (7 days) break, you should insert a new NuvaRing on the next Monday at 8:00 am.
 - While using NuvaRing, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm, cervical cap or female condom as your back-up method of birth control because NuvaRing may interfere with the correct placement and position of a diaphragm, cervical cap or female condom.
-- Use of spermicides or vaginal yeast products will not make NuvaRing less effective at preventing pregnancy.
+- Ring breakage has occurred when also using a vaginal product such as a lubricant or treatment for infection (see "What should I do if my NuvaRing comes out of my vagina?").
+  Use of spermicides or vaginal yeast products will not make NuvaRing less effective at preventing pregnancy.
 - Use of tampons will not make NuvaRing less effective or stop NuvaRing from working.
 - If NuvaRing has been left inside your vagina for more than 4 weeks (28 days), you may not be protected from pregnancy and you should see your healthcare provider to be sure you are not pregnant.
   Until you know the results of your pregnancy test, you should use an extra method of birth control, such as male condoms with spermicide, until the new NuvaRing has been in place for 7 days in a row.
