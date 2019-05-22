@@ -56,6 +56,8 @@ Table 19: Schizophrenia Short-Term Trials
 | Quetiapine (800 mg/day) | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
 | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |
 
+1. SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.
+
 ## 14.2 Bipolar Disorder
 
 Bipolar I Disorder, Manic or Mixed Episodes:
@@ -95,7 +97,7 @@ Table 20: Mania Trials
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
+| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-square mean change from baseline. (95% CI) |  |  |
 | Study 1 | Quetiapine (200 to 800 mg/day)Doses that are statistically significantly superior to placebo.Included in the trial as an active comparator. | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
 | Haloperidol | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
@@ -107,6 +109,8 @@ Table 20: Mania Trials
 | Study 4 | Quetiapine (400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
 | Quetiapine (600 mg/day) | 29.6 (6.4) | -15.6 (0.97) | -6.6 (-9.5, -3.7) |  |
 | Placebo | 30.7 (5.9) | -9.0 (1.1) | -- |  |
+
+Mood stabilizer: lithium or divalproex; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.
 
 Bipolar Disorder, Depressive Episodes:
 
@@ -128,7 +132,7 @@ Table 21: Depressive Episodes Associated with Bipolar Disorder
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 5 | Quetiapine (300 mg/day)Doses that are statistically significantly superior to placebo. | 30.3 (5.0) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |
+| Study 5 | Quetiapine (300 mg/day)Doses that are statistically significantly superior to placebo. SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. | 30.3 (5.0) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |
 | Quetiapine (600 mg/day) | 30.3 (5.3) | -16.7 (0.9) | -6.5 (-8.7, -4.3) |  |
 | Placebo | 30.6 (5.3) | -10.3 (0.9) | -- |  |
 | Study 6 | Quetiapine (300 mg/day) | 31.1 (5.7) | -16.9 (1.0) | -5.0 (-7.3, -2.7) |
