@@ -136,8 +136,6 @@ Segment I (fertility and general reproduction) studies have provided evidence th
 
 ### Teratogenic Effects
 
-#### Pregnancy Category D
-
 (See WARNINGS)
 
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.

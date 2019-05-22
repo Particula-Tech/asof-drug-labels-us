@@ -11,6 +11,6 @@ Manufactured for Rempex Pharmaceuticals, Inc., a wholly-owned subsidiary of Meli
 
 Marketed and Distributed by Melinta Therapeutics, Inc. Lincolnshire, IL 60069 USA
 
-05/18
+05/19
 
-MEL080
+MEL080-R001
