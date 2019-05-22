@@ -2,24 +2,53 @@
 
 ## 8.1 Pregnancy
 
-PREGNANCY CATEGORY X [see Contraindications (4.1)]
+Risk Summary
 
-Anastrozole may cause fetal harm when administered to a pregnant woman and offers no clinical benefit to premenopausal women with breast cancer.
-Anastrozole is contraindicated in women who are or may become pregnant.
-In animal studies, anastrozole caused pregnancy failure, increased pregnancy loss, and signs of delayed fetal development.
+Based on findings from animal studies and its mechanism of action, anastrozole may cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no studies of anastrozole use in pregnant women.
-If anastrozole is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus and potential risk for pregnancy loss.
 
-In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 1 (rats) and 1/3 (rabbits) the recommended human dose on a mg/m 2 basis.
-In both species, anastrozole crossed the placenta, and there was increased pregnancy loss (increased pre- and/or post-implantation loss, increased resorption, and decreased numbers of live fetuses).
-In rats, these effects were dose related, and placental weights were significantly increased.
-Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC 0-24hr 9 times higher).
-In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m 2 basis [see Animal Toxicology and/or Pharmacology (13.2)].
+Anastrozole caused embryo-fetal toxicities in rats at maternal exposure that were 9 times the human clinical exposure, based on area under the curve (AUC).
+In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m 2 basis.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 
-## 8.3 Nursing Mothers
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-It is not known if anastrozole is excreted in human milk.
-Because many drugs are excreted in human milk and because of the tumorigenicity shown for anastrozole in animal studies, or the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Data
+
+Animal Data
+
+In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 0.1 and 0.02 mg/kg/day, respectively, (about 1 and 1/3 the recommended human dose on a mg/m 2 basis, respectively).
+In both species, anastrozole crossed the placenta, and there was increased pregnancy loss (increased pre-and/or post-implantation loss, increased resorption, and decreased numbers of live fetuses).
+In rats, these effects were dose related, and placental weights were significantly increased at doses equal to or greater than 0.1 mg/kg/day.
+
+Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses of 1 mg/kg/day that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC 0-24hr 9 times higher).
+In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1.0 mg/kg/day (about 16 times the recommended human dose on a mg/m 2 basis).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of anastrozole or its metabolites in human milk, or its effects on the breast-fed child or on milk production.
+Because many drugs are excreted in human milk and because of the tumorigenicity shown for anastrozole in animal studies, or the potential for serious adverse reactions in the breast-fed child from anastrozole, advise lactating women not to breastfeed during treatment with anastrozole and for 2 weeks after the last dose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiation of anastrozole.
+
+Contraception
+
+Females
+
+Based on animal studies, anastrozole can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].Advise females of reproductive potential to use effective contraception during treatment with anastrozole and for at least 3 weeks after the last dose.
+
+Infertility
+
+Females
+
+Based on studies in female animals, anastrozole may impair fertility in females of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -67,7 +96,7 @@ Response rates and time to progression were similar for the over 65 and younger 
 In the ATAC study, 45% of patients were 65 years of age or older.
 The efficacy of anastrozole compared to tamoxifen in patients who were 65 years or older (N=1413 for anastrozole and N=1410 for tamoxifen, the hazard ratio for disease-free survival was 0.93 [95% CI: 0.80, 1.08]) was less than efficacy observed in patients who were less than 65 years of age (N=1712 for anastrozole and N=1706 for tamoxifen, the hazard ratio for disease-free survival was 0.79 [95% CI: 0.67, 0.94]).
 
-The pharmacokinetics of anastrozole is not affected by age.
+The pharmacokinetics of anastrozole are not affected by age.
 
 ## 8.6 Renal Impairment
 

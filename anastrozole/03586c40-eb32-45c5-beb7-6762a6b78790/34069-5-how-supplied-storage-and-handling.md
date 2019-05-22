@@ -10,7 +10,7 @@ Bottles of 500 tablets (NDC 16729-035-16)
 
 Bottles of 1000 tablets (NDC 16729-035-17)
 
-## Storage
+Storage
 
 Store at controlled room temperature, 20 to 25°C (68 to 77°F) [see USP].
 Preserve in tight container.

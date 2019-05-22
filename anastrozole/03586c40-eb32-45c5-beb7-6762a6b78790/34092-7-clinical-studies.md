@@ -54,7 +54,7 @@ Patients in the two monotherapy arms of the ATAC trial were treated for a median
 Disease-free survival in the intent- to-treat population was statistically significantly improved [Hazard Ratio (HR) = 0.87, 95% CI: 0.78, 0.97, p=0.0127] in the anastrozole arm compared to the tamoxifen arm.
 In the hormone receptor-positive subpopulation representing about 84% of the trial patients, disease-free survival was also statistically significantly improved (HR =0.83, 95% CI: 0.73, 0.94, p=0.0049) in the anastrozole arm compared to the tamoxifen arm.
 
-Figure 1- Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC trial (Intent-to-Treat)
+Figure 1- Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat)
 
 Figure 2- Disease-free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial
 

@@ -105,7 +105,7 @@ Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 | Vaginal Bleeding | 167 (5) | 317 (10) | 0.50 | 0.41 to 0.61 |
 | Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 to 1.60 |
 | Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 to 0.30 |
-| Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.80 |
+| Venous Thromboembolic Events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 to 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 to 0.97 |
 | Endometrial Cancer Percentages calculated based upon the numbers of patients with an intact uterus at baseline | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 to 0.94 |
@@ -245,7 +245,7 @@ Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 a
 The principal adverse reaction more common with anastrozole than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
 
-Table 5 — Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005 A patient may have had more than one adverse reaction
+Table 5 — Number (n) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005 A patient may have had more than one adverse reaction
 
 | n | % | n | % | n | % |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -335,6 +335,6 @@ Hepatobiliary events including increases in alkaline phosphatase, alanine aminot
 Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
 
 Cases of allergic reactions including angioedema, urticaria and anaphylaxis.
-[see Contraindications (4.2)]
+[see Contraindications (4)]
 
 Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
