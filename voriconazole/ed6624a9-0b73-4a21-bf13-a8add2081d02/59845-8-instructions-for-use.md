@@ -1,63 +1,99 @@
 # INSTRUCTIONS FOR USE
 
-Voriconazole for Oral Suspension
+Voriconazole (vor” i kon’ a zole) for Oral Suspension
 
-Assembly Instructions
+Read this Instructions for Use before you start taking voriconazole for oral suspension and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
-CHECK WITH YOUR PHARMACIST TO ENSURE VORICONAZOLE ORAL SUSPENSION HAS BEEN RECONSTITUTED (i.e. is in liquid form)
+Important information:
 
-SHAKE CLOSED BOTTLE FOR APPROXIMATELY 10 SECONDS BEFORE EACH USE
+- Follow your healthcare provider’s instructions for the dose of voriconazole for oral suspension to take.
+- Ask your healthcare provider or pharmacist if you are not sure how to take voriconazole for oral suspension.
+- Voriconazole for oral suspension is a liquid form of voriconazole.
+  Your pharmacist will mix (reconstitute) the medicine before it is dispensed to you.
+  If voriconazole for oral suspension is still in powder form, do not use it.
+  Return it to your pharmacist.
+- Always use the oral dispenser provided with voriconazole for oral suspension to make sure you measure the right amount of voriconazole for oral suspension.
+- Shake the closed bottle of mixed (reconstituted) oral suspension well for about 10 seconds before each use.
+
+Each pack contains:
+
+How to prepare the bottle and take voriconazole for oral suspension:
 
 1
 
-To open, push down on bottle cap while twisting cap counter clockwise.
-Remove cap from bottle.
+Remove the child-resistant bottle cap by pushing down while twisting the cap to the left (counter-clockwise).
 
 2
 
-Push bottle adapter ALL THE WAY into bottle top (if pharmacist has not done so).
+Push the bottle adapter firmly into the bottle (if your pharmacist has not already inserted the bottle adapter).
+If the bottle adapter is missing, contact your pharmacist.
 
-Once bottle adapter is inserted, leave in place.
+Do not remove the bottle adapter after it is inserted.
 
 3
 
-IMPORTANT: Adapter must be fully inserted prior to use.
+Important: Bottle adapter must be fully inserted before use.
 
 4
 
-Pull back on oral dispenser plunger to prescribe dose.
+Pull back on the oral dispenser plunger to your prescribed dose.
 
 5
 
-Insert oral dispenser into bottle top.
+Insert the tip of the oral dispenser into the bottle adapter.
 
 6
 
-Holding the bottle with one hand, push down on oral dispenser plunger to push air into the bottle.
+While holding the bottle with 1 hand, push down on the oral dispenser plunger with your other hand to push air into the bottle.
 
 7
 
-Turn bottle upside down and pull back oral dispenser plunger.
-Draw prescribed dose of medicine into oral dispenser.
+Turn the bottle upside down and slowly pull back on the oral dispenser plunger to withdraw your prescribed dose of medicine.
 
 8
 
-Remove oral dispenser from bottle.
-Dispense medicine into mouth by slowly pushing on oral dispenser plunger.
+Turn the bottle back upright with the oral dispenser still in place.
+Remove the tip of the oral dispenser from the bottle adapter.
+
+Place the tip of the oral dispenser in your mouth and point the tip of the oral dispenser towards the inside of the cheek.
+Slowly push the plunger until all the medicine is given.
+Do not squirt the medicine out quickly.
+This may cause you to choke.
+
+If the medicine is to be given to a child, keep your child in an upright position while giving the medicine.
 
 9
 
-Remember to leave bottle adapter in the bottle and put the cap back on the bottle.
+Screw the bottle cap back on the bottle tightly by turning the cap to the right (clockwise).
 
-Store at room temperature.
+Do not remove the bottle adapter.
+The bottle cap will fit over it.
 
-Rinse the oral dispenser with water after each dose.
+Rinse the oral dispenser after each use.
 
-Distributed by:
+- Pull the plunger out of the oral dispenser and wash both parts with warm soapy water.
+- Rinse both parts with water and allow to air dry after each use.
+- After air drying, push the plunger back into the oral dispenser.
+- Store the oral dispenser with voriconazole for oral suspension in a clean safe place.
 
-Amneal Pharmaceuticals LLC
+How should I store voriconazole for oral suspension?
 
-Bridgewater, NJ 08807
+- Store voriconazole for oral suspension at room temperature between 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+- Do not refrigerate or freeze.
+- Keep the bottle cap tightly closed.
+- Use voriconazole for oral suspension within 14 days after it has been mixed (reconstituted) by the pharmacist.
+  The pharmacist will write the expiration date on the bottle label (the expiration date of the oral suspension is 14 days from the date it was mixed (reconstituted) by the pharmacist).
+  Throw away (discard) any unused voriconazole for oral suspension after the expiration date.
+- Keep voriconazole for oral suspension and all medicines out of the reach of children.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+This product’s label may have been updated.
+For current full prescribing information, please visit www.amneal.com or call 1-877-835-5472.
+
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-02-2019-02
+05-2019-03
