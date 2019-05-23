@@ -33,7 +33,7 @@ Tretinoin in a 0.05% gel formulation was topically administered to pregnant rats
 Possible tretinoin malformations (craniofacial abnormalities [hydrocephaly], asymmetrical thyroids, variations in ossification, and increased supernumerary ribs) were observed at maternal doses of 0.5 mg tretinoin/kg/day (approximately 2 times the MRHD based on BSA comparison and assuming 100% absorption).
 These findings were not observed in control animals.
 Other maternal and reproductive parameters in tretinoin-treated animals were not different from control.
-For purposes of comparison of the animal exposure to human exposure, the MRHD is defined as 4 g of ALTRENO applied daily to a 60-kg person.
+For purposes of comparison of the animal exposure to human exposure, the MRHD is defined as 4 g of ALTRENO applied daily to a 60 kg person.
 
 Other topical tretinoin embryofetal development studies have generated equivocal results.
 There is evidence for malformations (shortened or kinked tail) after topical administration of tretinoin to pregnant Wistar rats during organogenesis at doses greater than 1 mg/kg/day (approximately 5 times the MRHD based on BSA comparison and assuming 100% absorption).

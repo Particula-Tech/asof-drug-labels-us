@@ -50,13 +50,11 @@ Apply a thin layer to cover the
 affected areas, as prescribed by your doctor.
 Spread ALTRENO evenly over the affected areas.
 
-Wash your hands after applying ALTRENO.
-
-- What should I avoid while using ALTRENO?
-
-- •You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with ALTRENO.
-- •Minimize exposure to sunlight.
-- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with an SPF (sun protection factor) of 15 or more and wear protective clothing and a wide-brimmed hat to cover the treated areas.
+1. • Wash your hands after applying ALTRENO.
+2. What should I avoid while using ALTRENO?
+3. •You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with ALTRENO.
+4. •Minimize exposure to sunlight.
+5. •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with an SPF (sun protection factor) of 15 or more and wear protective clothing and a wide-brimmed hat to cover the treated areas.
 
 What are the possible side effects of ALTRENO?
 
@@ -76,7 +74,7 @@ How should I store ALTRENO?
 
 - •Store ALTRENO at room temperature between 68° to 77°F (20° to 25°C).
 - •Do not freeze.
-- •Store ALTRENO pump upright
+- •Store ALTRENO pump upright.
 - Keep ALTRENO and all medicines out of the reach of children.
 
 General information about the safe and effective use of ALTRENO
@@ -101,7 +99,7 @@ For more information, call 1-800-321-4576.
 
 U.S. Patent Number: 6,517,847
 
-Altreno is a trademark of Bausch Health Companies Inc. or its affiliates.
+ALTRENO is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 © 2019 Bausch Health Companies Inc. or its affiliates This Patient Information has been approved by the U.S. Food and Drug Administration.
 
