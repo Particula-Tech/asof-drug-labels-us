@@ -26,23 +26,17 @@ Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)a
 
 | Assessment | Trial 1 |  | Trial 2 |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Atovaquone Oral Suspension 1,500 mg/day (n = 527) | Dapsone 100 mg/day (n = 510) | Atovaquone Oral Suspension 750 mg/day (n = 188) | Atovaquone Oral Suspension 1,500 mg/day (n = 172) | Aerosolized Pentamidine 300 mg/month (n = 169) |  |
+| Atovaquone OralSuspension1,500 mg/day(n = 527) | Dapsone100 mg/day(n = 510) | Atovaquone OralSuspension750 mg/day(n = 188) | Atovaquone OralSuspension1,500 mg/day(n = 172) | AerosolizedPentamidine300 mg/month(n = 169) |  |
 | % | 15 | 19 | 23 | 18 | 17 |
-| Relative Riskb (CI)c | 0.77 (0.57, 1.04) |  | 1.47 (0.86, 2.50) | 1.14 (0.63, 2.06) |  |
-
-a Those events occurring during or within 30 days of stopping assigned treatment.
-
-b Relative risk <1 favors atovaquone and values >1 favor comparator.
-Trial results did not show superiority of atovaquone to the comparator.
-
-c The confidence level of the interval for the dapsone comparative trial was 95% and for the pentamidine comparative trial was 97.5%.
+| Relative Riskb(CI)c | 0.77(0.57, 1.04) |  | 1.47(0.86, 2.50) | 1.14(0.63, 2.06) |  |
+| a Those events occurring during or within 30 days of stopping assigned treatment.b Relative risk <1 favors atovaquone and values >1 favor comparator. Trial results did not show superiority of atovaquone to the comparator.c The confidence level of the interval for the dapsone comparative trial was 95% and for the pentamidine comparative trial was 97.5%. |  |  |  |  |  |
 
 An analysis of all PCP events (intent-to-treat analysis) for both trials showed results similar to those shown in Table 7.
 
 ## 14.2 Treatment of PCP
 
-The indication for treatment of mild-to-moderate PCP is based on the results of two efficacy trials: a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with HIV/AIDS and mild-to-moderate PCP (defined in the protocol as [(A-a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
-Both trials were conducted with the tablet formulation using 750 mg three times daily.
+The indication for treatment of mild-to-moderate PCP is based on the results of 2 efficacy trials: a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with HIV/AIDS and mild-to-moderate PCP (defined in the protocol as [(A-a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+Both trials were conducted with the tablet formulation using 750 mg 3 times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentration and successful outcome.
 Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
 Comparative pharmacokinetic trials of the oral suspension and tablet formulations established the currently recommended oral suspension dose of 750 mg twice daily [see Clinical Pharmacology (12.3)].
@@ -66,27 +60,26 @@ Of the 13 subjects with confirmed PCP and treated with atovaquone who died, 4 di
 
 A correlation between plasma atovaquone concentrations and death demonstrated that subjects with lower plasma concentrations were more likely to die.
 For those subjects for whom Day 4 plasma atovaquone concentration data are available, 5 (63%) of 8 subjects with concentrations <5 mcg/mL died during participation in the trial.
-However, only 1 (2%) of the 49 subjects with Day 4 plasma atovaquone concentrations ≥5 mcg/mL died.
+However, only 1 (2.0%) of the 49 subjects with Day 4 plasma atovaquone concentrations ≥5 mcg/mL died.
 
 Sixty-two percent of subjects on atovaquone and 64% of subjects on TMP-SMX were classified as protocol-defined therapy successes (Table 8).
 
 Table 8.
-Outcome of Treatment for PCP-positive Subjects Enrolled in the TMP-SMX Comparative Trial
+Outcome of Treatment for PCP-Positive Subjects Enrolled in the TMP-SMX Comparative Trial
 
 | Outcome of Therapya | Number of Subjects (%) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Atovaquone Tablets (n = 160) |  | TMP-SMX (n = 162) |  |  |
+| Atovaquone Tablets(n = 160) |  | TMP-SMX(n = 162) |  |  |
 | Therapy success | 99 | 62% | 103 | 64% |
-| Therapy failure due to: -Lack of response -Adverse reaction -Unevaluable | 28 11 22 | 17% 7% 14% | 10 33 16 | 6% 20% 10% |
-| Required alternate PCP therapy during trial | 55 | 34% | 55 | 34% |
-
-a As defined by the protocol and described in trial description above.
+| Therapy failure due to:-Lack of response-Adverse reaction-Unevaluable | 281122 | 17%7%14% | 103316 | 6%20%10% |
+| Required alternate PCPtherapy during trial | 55 | 34% | 55 | 34% |
+| a As defined by the protocol and described in trial description above. |  |  |  |  |
 
 The failure rate due to lack of response was significantly higher for subjects receiving atovaquone, while the failure rate due to an adverse reaction was significantly higher for subjects receiving TMP-SMX.
 
 Pentamidine Comparative Trial
 
-This unblinded, randomized trial was designed to compare the safety and efficacy of atovaquone with that of pentamidine for the treatment of histologically- confirmed mild or moderate PCP in subjects with HIV/AIDS.
+This unblinded, randomized trial was designed to compare the safety and efficacy of atovaquone with that of pentamidine for the treatment of histologically-confirmed mild or moderate PCP in subjects with HIV/AIDS.
 Approximately 80% of the subjects either had a history of intolerance to trimethoprim or sulfa antimicrobials (the primary therapy group) or were experiencing intolerance to TMP-SMX with treatment of an episode of PCP at the time of enrollment in the trial (the salvage treatment group).
 A total of 174 subjects were enrolled into the trial.
 Subjects were randomized to receive atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or pentamidine isethionate 3- to 4-mg/kg single IV infusion daily for 21 days.
@@ -104,7 +97,7 @@ However, only 2 of 21 (9%) subjects with Day 4 plasma concentrations ≥5 mcg/mL
 The therapeutic outcomes for the 134 subjects who received trial medication in this trial are presented in Table 9.
 
 Table 9.
-Outcome of Treatment for PCP-positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
+Outcome of Treatment for PCP-Positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
 
 | Outcome of Therapy | Primary Treatment |  |  |  | Salvage Treatment |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

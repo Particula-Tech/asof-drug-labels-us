@@ -2,7 +2,7 @@
 
 Atovaquone oral suspension, USP (bright yellow, citrus-flavored) containing 750 mg atovaquone, USP in each teaspoonful (5 mL).
 
-- Bottle of 210 mL with child-resistant cap (NDC65162-693-88).
+- Bottle of 210 mL with child-resistant cap (NDC 65162-693-88).
 
 Store at 15° to 25°C (59° to 77°F).
 Do not freeze.

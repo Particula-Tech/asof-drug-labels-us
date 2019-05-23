@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Atovaquone, USP is a quinone antimicrobial drug for oral administration.
-The chemical name of atovaquone, USP is trans-2-[4-(4-chlorophenyl)cyclohexyl]-3-hydroxy-1,4-naphthalenedione.
+Atovaquone is a quinone antimicrobial drug for oral administration.
+The chemical name of atovaquone is trans-2-[4-(4-chlorophenyl)cyclohexyl]-3-hydroxy-1,4-naphthalenedione.
 Atovaquone, USP is a yellow crystalline solid that is practically insoluble in water.
 It has a molecular weight of 366.84 and the molecular formula C22H19ClO3.
 The compound has the following structural formula:

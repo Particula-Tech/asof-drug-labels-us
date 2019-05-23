@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in other sections of the labeling:
+The following adverse reaction is discussed in another section of the labeling:
 
 - Hepatotoxicity [see Warnings and Precautions (5.2)].
 
@@ -23,16 +23,16 @@ Gastrointestinal adverse reactions (nausea, diarrhea, and vomiting) were more fr
 Table 1.
 Percentage (>2%) of Subjects with Selected Adverse Reactions Requiring Discontinuation of Treatment in the Dapsone Comparative PCP Prevention Trial
 
-|  | All Subjects |  |
+| Adverse Reaction | All Subjects |  |
 | --- | --- | --- |
-| Adverse Reaction | Atovaquone Oral Suspension 1,500 mg/day (n = 536) % | Dapsone 100 mg/day (n = 521) % |
+| Atovaquone OralSuspension1,500 mg/day(n = 536)% | Dapsone100 mg/day(n = 521)% |  |
 | Rash | 6.3 | 8.8 |
 | Nausea | 4.1 | 0.6 |
 | Diarrhea | 3.2 | 0.2 |
 | Vomiting | 2.2 | 0.6 |
 
 Aerosolized Pentamidine Comparative Trial: In the aerosolized pentamidine comparative trial (n = 549), the majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
-Subjects received atovaquone oral suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6, and 7.8 months, respectively.
+Subjects received atovaquone oral suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6.0, and 7.8 months, respectively.
 Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500-mg dose of atovaquone oral suspension or aerosolized pentamidine.
 
 Rash occurred more often in subjects treated with atovaquone oral suspension (46%) than in subjects treated with aerosolized pentamidine (28%).
