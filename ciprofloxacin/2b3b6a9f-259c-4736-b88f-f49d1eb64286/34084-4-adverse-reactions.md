@@ -10,12 +10,13 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 - Hepatotoxicity [see Warnings and Precautions (5.8)]
-- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.9)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
-- Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
-- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
+- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
+- Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
+- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.13)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -27,7 +28,7 @@ During clinical investigations with oral and parenteral ciprofloxacin, 49,038 pa
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
-Table 8: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients
+Table 8: Medically Important Adverse Reactions That Occurred in less than 1% of Ciprofloxacin Patients
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |

@@ -32,7 +32,7 @@ Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally. | every 8 hours, intravenous |
+|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally | every 8 hours, intravenous |
 | AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 | 1. AUC 0–12h 2. AUC 24h = AUC 0–12h x 2 3. AUC 24h = AUC 0–8h x 3 |  |  |  |  |
@@ -56,7 +56,7 @@ Low levels of the drug have been detected in the aqueous and vitreous humors of 
 Metabolism Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15), and Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.10, 5.16), and Drug Interactions (7)].
 Excretion The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
 Approximately 40 to 50% of an orally administered dose is excreted in the urine as unchanged drug.
 After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 200 mcg/mL during the first two hours and are approximately 30 mcg/mL at 8 to 12 hours after dosing.
@@ -88,7 +88,7 @@ Metronidazole The serum concentrations of ciprofloxacin and metronidazole were n
 Tizanidine In a pharmacokinetic study, systemic exposure of tizanidine (4 mg single dose) was significantly increased (Cmax 7-fold, AUC 10-fold) when the drug was given concomitantly with ciprofloxacin (500 mg twice a day for 3 days).
 Concomitant administration of tizanidine and ciprofloxacin is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2)].
 Ropinirole In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg ciprofloxacin twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
-Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.9)].
+Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.10)].
 Clozapine Following concomitant administration of 250 mg ciprofloxacin with 304 mg clozapine for 7 days, serum concentrations of clozapine and N-desmethylclozapine were increased by 29% and 31%, respectively.
 Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after co-administration with ciprofloxacin are advised.
 Sildenafil Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
