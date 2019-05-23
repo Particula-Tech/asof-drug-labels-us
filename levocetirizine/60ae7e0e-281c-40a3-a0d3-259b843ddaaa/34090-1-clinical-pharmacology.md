@@ -17,7 +17,7 @@ The clinical relevance of histamine wheal skin testing is unknown.
 A QT/QTc study using a single dose of 30 mg of levocetirizine did not demonstrate an effect on the QTc interval.
 While a single dose of levocetirizine had no effect, the effects of levocetirizine may not be at steady state following single dose.
 The effect of levocetirizine on the QTc interval following multiple dose administration is unknown.
-Levocetirizine is not expected to have QT/QTc effects because of the results of QTc studies with cetirizine and the long postmarketing history of cetirizine without reports of QT prolongation.
+Levocetirizine is not expected to have QT/QTc effects because of the results of QTc studies with cetirizine and the long post-marketing history of cetirizine without reports of QT prolongation.
 
 ## 12.3 Pharmacokinetics
 
@@ -43,7 +43,7 @@ Metabolism
 
 The extent of metabolism of levocetirizine in humans is less than 14% of the dose and therefore differences resulting from genetic polymorphism or concomitant intake of hepatic drug metabolizing enzyme inhibitors are expected to be negligible.
 Metabolic pathways include aromatic oxidation, N- and O-dealkylation, and taurine conjugation.
-Dealkylation pathways are primarily mediated by CYP 3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
+Dealkylation pathways are primarily mediated by CYP3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
 
 Elimination
 

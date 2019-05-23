@@ -28,7 +28,7 @@ Table 1 lists adverse reactions that were reported in greater than or equal to 2
 
 Table 1: Adverse Reactions Reported in ≥ 2% Rounded to the closest unit percentage of Subjects Aged 12 Years and Older Exposed to Levocetirizine Dihydrochloride 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1 to 6 Weeks in Duration
 
-| Adverse Reactions | Levocetirizine Dihydrochloride 2.5 mg (n= 421) | Levocetirizine Dihydrochloride 5 mg (n = 1070) | Placebo (n = 912) |
+| Adverse Reactions | Levocetirizine Dihydrochloride 2.5 mg(n= 421) | Levocetirizine Dihydrochloride 5 mg(n = 1070) | Placebo(n = 912) |
 | --- | --- | --- | --- |
 | Somnolence | 22 (5%) | 61 (6%) | 16 (2%) |
 | Nasopharyngitis | 25 (6%) | 40 (4%) | 28 (3%) |
@@ -46,7 +46,7 @@ Table 2 lists adverse reactions that were reported in greater than or equal to 2
 
 Table 2: Adverse Reactions Reported in ≥2%Rounded to the closest unit percentage of Subjects Aged 6 to 12 Years Exposed to Levocetirizine Dihydrochloride 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
 
-| Adverse Reactions | Levocetirizine Dihydrochloride 5 mg (n= 243) | Placebo (n= 240) |
+| Adverse Reactions | Levocetirizine Dihydrochloride 5 mg (n= 243) | Placebo(n= 240) |
 | --- | --- | --- |
 | Pyrexia | 10 (4%) | 5 (2%) |
 | Cough | 8 (3%) | 2 (<1%) |
@@ -87,7 +87,7 @@ Laboratory Test Abnormalities
 Elevations of blood bilirubin and transaminases were reported in <1% of patients in the clinical trials.
 The elevations were transient and did not lead to discontinuation in any patient.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 In addition to the adverse reactions reported during clinical trials and listed above, the following adverse reactions have also been identified during postapproval use of levocetirizine dihydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -107,7 +107,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Respiratory, thoracic, and mediastinal disorders: dyspnea
 - •Skin and subcutaneous tissue disorders: angioedema, fixed drug eruption, pruritus, rash and urticaria
 
-Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
+Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the post-marketing experience with cetirizine.
 Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride.
 
 - •Cardiac disorders: severe hypotension
