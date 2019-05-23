@@ -18,7 +18,8 @@ Four of the five trials were able to distinguish aripiprazole from placebo, but 
 Three of these studies also included an active control group consisting of either risperidone (one trial) or haloperidol (two trials), but they were not designed to allow for a comparison of aripiprazole and the active comparators.
 
 In the four positive trials for aripiprazole, four primary measures were used for assessing psychiatric signs and symptoms.
-Efficacy was evaluated using the total score on the Positive and Negative Syndrome Scale (PANSS).The PANSS is a 30 item scale that measures positive symptoms of schizophrenia (7 items), negative symptoms of schizophrenia (7 items), and general psychopathology (16 items), each rated on a scale of 1 (absent) to 7 (extreme); total PANSS scores range from 30 to 210.
+Efficacy was evaluated using the total score on the Positive and Negative Syndrome Scale (PANSS).
+The PANSS is a 30 item scale that measures positive symptoms of schizophrenia (7 items), negative symptoms of schizophrenia (7 items), and general psychopathology (16 items), each rated on a scale of 1 (absent) to 7 (extreme); total PANSS scores range from 30 to 210.
 The Clinical Global Impression (CGI) assessment reflects the impression of a skilled observer, fully familiar with the manifestations of schizophrenia, about the overall clinical state of the patient.
 
 In a 4-week trial (n=414) comparing two fixed doses of aripiprazole (15 mg/day or 30 mg/day) to placebo, both doses of aripiprazole were superior to placebo in the PANSS total score (Study 1 in Table 26), PANSS positive subscale, and CGI-severity score.
@@ -60,11 +61,11 @@ Table 26: Schizophrenia Studies
 | Study 2 | Aripiprazole (20 mg/day)* | 92.6 (19.5) | -14.5 (2.23) | -9.6 (-15.4, -3.8) |
 |  | Aripiprazole (30 mg/day)* | 94.2 (18.5) | -13.9 (2.24) | -9 (-14.8, -3.1) |
 |  | Placebo | 94.3 (18.5) | -5 (2.17) | -- |
-| Study 3 | Aripiprazole (10 mg/day)* | 92.7 (19.5) | -15 (2.38) | -12.7 (-19.00, -6.41) |
+| Study 3 | Aripiprazole (10 mg/day)* | 92.7 (19.5) | -15 (2.38) | -12.7 (-19, -6.41) |
 |  | Aripiprazole (15 mg/day)* | 93.2 (21.6) | -11.7 (2.38) | -9.4 (-15.71, -3.08) |
 |  | Aripiprazole (20 mg/day)* | 92.5 (20.9) | -14.4 (2.45) | -12.1 (-18.53, -5.68) |
 |  | Placebo | 92.3 (21.8) | -2.3 (2.35) | -- |
-| Study 4 | Aripiprazole (2 mg/day) | 90.7 (14.5) | -8.2 (1.90) | -2.9 (-8.29, 2.47) |
+| Study 4 | Aripiprazole (2 mg/day) | 90.7 (14.5) | -8.2 (1.9) | -2.9 (-8.29, 2.47) |
 |  | Aripiprazole (5 mg/day) | 92 (12.6) | -10.6 (1.93) | -5.2 (-10.7, 0.19) |
 |  | Aripiprazole (10 mg/day)* | 90 (11.9) | -11.3 (1.88) | -5.9 (-11.3, -0.58) |
 |  | Placebo | 90.8 (13.3) | -5.3 (1.97) | -- |
@@ -120,17 +121,17 @@ Table 27: Bipolar Studies
 | Study Number | Treatment Group | Primary Efficacy Measure: Y-MRS |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
-| Study 1 | Aripiprazole (30 / 15 mg/day)* | 29 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
+| Study 1 | Aripiprazole (30 / 15 mg/day)* | 29 (5.9) | -12.52 (1.05) | -5.33 (-7.9, -2.76) |
 |  | Placebo | 28.5 (4.6) | -7.19 (1.07) | -- |
-| Study 2 | Aripiprazole (30 / 15 mg/day)* | 27.8 (5.7) | -8.15 (1.23) | -4.80 (-7.80, -1.80) |
+| Study 2 | Aripiprazole (30 / 15 mg/day)* | 27.8 (5.7) | -8.15 (1.23) | -4.80 (-7.80, -1.8) |
 |  | Placebo | 29.1 (6.9) | -3.35(1.22) | -- |
 | Study 3 | Aripiprazole (15 to 30 mg/day)* | 28.5 (5.6) | -12.64 (0.84) | -3.63 (-5.75, -1.51) |
 |  | Placebo | 28.9 (5.9) | 9.01 (0.81) | -- |
-| Study 4 | Aripiprazole (15 to 30 mg/day)* | 28 (5.8) | -11.98 (0.80) | -2.28 (-4.44, -0.11) |
+| Study 4 | Aripiprazole (15 to 30 mg/day)* | 28 (5.8) | -11.98 (0.8) | -2.28 (-4.44, -0.11) |
 |  | Placebo | 28.3 (5.8) | -9.70 (0.83) | -- |
-| Study 5 | Aripiprazole (15 or 30 mg/day)* + Lithium/Valproate | 23.2 (5.7) | -13.31 (0.50) | -2.62 (-4.29, -0.95) |
+| Study 5 | Aripiprazole (15 or 30 mg/day)* + Lithium/Valproate | 23.2 (5.7) | -13.31 (0.5) | -2.62 (-4.29, -0.95) |
 |  | Placebo + Lithium/Valproate | 23 (4.9) | -10.70 (0.69) | -- |
-| Study 6 | Aripiprazole (10 mg/day)* | 29.8 (6.5) | -14.2 (0.89) | -5.99 (-8.49, -3.50) |
+| Study 6 | Aripiprazole (10 mg/day)* | 29.8 (6.5) | -14.2 (0.89) | -5.99 (-8.49, -3.5) |
 | (Pediatric, | Aripiprazole (30 mg/day)* | 29.5 (6.3) | -16.5 (0.87) | -8.26 (-10.7, -5.77) |
 | 10 to 17 years) | Placebo | 30.7 (6.8) | -8.2 (0.91) | -- |
 
@@ -288,10 +289,10 @@ Table 30: Tourette’s Disorder Studies (Pediatric)
 | --- | --- | --- | --- | --- |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
 | Study 1 | Aripiprazole (low dose)* | 29.2 (5.63) | -13.4 (1.59) | -6.3 (-10.2, -2.3) |
-|  | Aripiprazole (high dose)* | 31.2 (6.40) | -16.9 (1.61) | -9.9 (-13.8, -5.9) |
+|  | Aripiprazole (high dose)* | 31.2 (6.4) | -16.9 (1.61) | -9.9 (-13.8, -5.9) |
 |  | Placebo | 30.7 (5.95) | -7.1 (1.55) | -- |
 | Study 2 | Aripiprazole (2 to 20 mg/day)* | 28.3 (5.51) | -15 (1.51) | -5.3 (-9.8, -0.9) |
-|  | Placebo | 29.5 (5.60) | -9.6 (1.64) | -- |
+|  | Placebo | 29.5 (5.6) | -9.6 (1.64) | -- |
 
 SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.
 

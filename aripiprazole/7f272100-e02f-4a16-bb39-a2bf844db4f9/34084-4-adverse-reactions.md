@@ -24,8 +24,8 @@ The most common adverse reactions in adult patients in clinical trials (≥10%) 
 
 The most common adverse reactions in the pediatric clinical trials (≥10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
 
-Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, Dementia of the Alzheimer’s type, Parkinson’s disease, and alcoholism, and who had approximately 7619 patient-years of exposure to oral aripiprazole.
-A total of 3390 patients were treated with oral aripiprazole for at least 180 days and 1933 patients treated with oral aripiprazole had at least 1 year of exposure.
+Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, Dementia of the Alzheimer’s type, Parkinson’s disease, and alcoholism, and who had approximately 7,619 patient-years of exposure to oral aripiprazole.
+A total of 3,390 patients were treated with oral aripiprazole for at least 180 days and 1,933 patients treated with oral aripiprazole had at least 1 year of exposure.
 
 Aripiprazole has been evaluated for safety in 1,686 patients (6 to 18 years) who participated in multiple-dose, clinical trials in schizophrenia, bipolar mania, autistic disorder, or Tourette’s disorder and who had approximately 1,342 patient-years of exposure to oral aripiprazole.
 A total of 959 pediatric patients were treated with oral aripiprazole for at least 180 days and 556 pediatric patients treated with oral aripiprazole had at least 1 year of exposure.
@@ -73,7 +73,7 @@ Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Pa
 |  | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
 | System Organ Class | Aripiprazole | Placebo |
-| Preferred Term | (n=1843) | (n=1166) |
+| Preferred Term | (n=1,843) | (n=1,166) |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -230,7 +230,7 @@ Table 20: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Pediatric Patients (6 to 18 years) with Tourette's Disorder
 
-The following findings are based on one 8-week and one 10-week, placebo-controlled trials in which oral aripiprazole was administered in doses of 2 mg/day to 20 mg/day.
+The following findings are based on one 8-week and one 10-week, placebo-controlled trials in which oral aripiprazole is administered in doses of 2 mg/day to 20 mg/day.
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
@@ -399,11 +399,11 @@ In the short-term, placebo-controlled trials in bipolar mania in adults, the inc
 In the 6-week, placebo-controlled trial in bipolar mania for adjunctive therapy with lithium or valproate, the incidence of reported EPS-related events, excluding events related to akathisia for adjunctive aripiprazole-treated patients was 15% vs. 8% for adjunctive placebo and the incidence of akathisia-related events for adjunctive aripiprazole-treated patients was 19% vs. 5% for adjunctive placebo.
 In the short-term, placebo-controlled trial in bipolar mania in pediatric (10 to 17 years) patients, the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 26% vs. 5% for placebo and the incidence of akathisia-related events for aripiprazole-treated patients was 10% vs. 2% for placebo.
 
-In the adult bipolar mania trials with monotherapy aripiprazole, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.50; placebo, –0.01 and aripiprazole, 0.21; placebo, –0.05).
+In the adult bipolar mania trials with monotherapy aripiprazole, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.5; placebo, –0.01 and aripiprazole, 0.21; placebo, –0.05).
 Changes in the Assessments of Involuntary Movement Scales were similar for the aripiprazole and placebo groups.
-In the bipolar mania trials with aripiprazole as adjunctive therapy with either lithium or valproate, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between adjunctive aripiprazole and adjunctive placebo (aripiprazole, 0.73; placebo, 0.07 and aripiprazole, 0.30; placebo, 0.11).
+In the bipolar mania trials with aripiprazole as adjunctive therapy with either lithium or valproate, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between adjunctive aripiprazole and adjunctive placebo (aripiprazole, 0.73; placebo, 0.07 and aripiprazole, 0.3; placebo, 0.11).
 Changes in the Assessments of Involuntary Movement Scales were similar for adjunctive aripiprazole and adjunctive placebo.
-In the pediatric (10 to 17 years), short-term, bipolar mania trial, the Simpson Angus Rating Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.90; placebo, −0.05).
+In the pediatric (10 to 17 years), short-term, bipolar mania trial, the Simpson Angus Rating Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.9; placebo, −0.05).
 Changes in the Barnes Akathisia Scale and the Assessments of Involuntary Movement Scales were similar for the aripiprazole and placebo groups.
 
 Major Depressive Disorder
@@ -447,7 +447,7 @@ Other Adverse Reactions Observed During the Premarketing Evaluation of Aripipraz
 
 The following listing does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
 
-Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients:
+Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients:
 
 Adults - Oral Administration
 
@@ -477,7 +477,7 @@ rare - hepatitis, jaundice
 
 Immune System Disorders:
 
-rare-hypersensitivity
+rare - hypersensitivity
 
 Injury, Poisoning, and Procedural Complications:
 
@@ -513,11 +513,11 @@ infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregula
 
 Respiratory, Thoracic, and Mediastinal Disorders:
 
-infrequent -nasal congestion, dyspnea
+infrequent - nasal congestion, dyspnea
 
 Skin and Subcutaneous Tissue Disorders:
 
-infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare -urticaria
+infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
 
 Vascular Disorders:
 
@@ -554,5 +554,5 @@ infrequent - hirsutism
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of aripiprazole.
+The following adverse reactions have been identified during post-approval use of aripiprazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation.

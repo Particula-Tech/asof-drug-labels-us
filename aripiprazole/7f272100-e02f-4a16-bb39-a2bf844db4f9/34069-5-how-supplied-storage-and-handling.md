@@ -2,8 +2,8 @@
 
 ## 16.1 How Supplied
 
-Aripiprazole Oral Solution (1 mg/mL) is supplied in child-resistant bottles along with a calibrated oral dosing cup.
-Aripiprazole Oral Solution is available as follows:
+Aripiprazole oral solution (1 mg/mL) is supplied in child-resistant bottles along with a calibrated oral dosing cup.
+Aripiprazole oral solution is available as follows:
 
 150 mL bottle NDC 65162-893-74
 

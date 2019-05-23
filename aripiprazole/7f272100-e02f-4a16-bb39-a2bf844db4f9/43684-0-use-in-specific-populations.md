@@ -71,7 +71,7 @@ The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patie
 
 Schizophrenia
 
-Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.1)].
+Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.1)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 Bipolar I Disorder
@@ -92,7 +92,7 @@ In this trial, the efficacy of aripiprazole for the maintenance treatment of irr
 
 Tourette’s Disorder
 
-Safety and effectiveness of aripiprazole in pediatric patients with Tourette’s Disorder were established in one 8 week (aged 7 to 17) and one 10 week trial (aged 6 to 18) in 194 pediatric patients [see DOSAGE AND ADMINISTRATION (2.5), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.5)].
+Safety and effectiveness of aripiprazole in pediatric patients with Tourette’s Disorder were established in one 8-week (aged 7 to 17) and one 10-week trial (aged 6 to 18) in 194 pediatric patients [see DOSAGE AND ADMINISTRATION (2.5), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.5)].
 Maintenance efficacy in pediatric patients has not been systematically evaluated.
 
 Juvenile Animal Studies
@@ -114,7 +114,7 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 No dosage adjustment is recommended for elderly patients [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
 
-Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
+Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1,073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
 Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].

@@ -28,16 +28,16 @@ There has been a long-standing concern, however, that antidepressants may have a
 Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with MDD and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 5.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 5.
 
 Table 5:
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
@@ -131,7 +131,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults
 
-In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or bipolar disorder, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
+In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or bipolar disorder, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1,057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
 Table 6 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
 
 Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients
@@ -201,13 +201,13 @@ Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy T
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
-| Total CholesterolNormal to High (<200 mg/dL to ≥240 mg/dL) | Aripiprazole | 34/1357 | 2.5 |
+| Total CholesterolNormal to High (<200 mg/dL to ≥240 mg/dL) | Aripiprazole | 34/1,357 | 2.5 |
 | Placebo | 27/973 | 2.8 |  |
 | Fasting TriglyceridesNormal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 40/539 | 7.4 |
 | Placebo | 30/431 | 7 |  |
 | Fasting LDL CholesterolNormal to High (<100 mg/dL to ≥160 mg/dL) | Aripiprazole | 2/332 | 0.6 |
 | Placebo | 2/268 | 0.7 |  |
-| HDL CholesterolNormal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 121/1066 | 11.4 |
+| HDL CholesterolNormal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 121/1,066 | 11.4 |
 | Placebo | 99/794 | 12.5 |  |
 
 In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
@@ -277,7 +277,7 @@ Clinical monitoring of weight is recommended.
 
 Adults
 
-In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
+In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1,673) compared to –0.1 kg (N=1,100) in placebo-controlled patients.
 At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was –1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
 
 In the trials adding aripiprazole to antidepressants, patients first received 8 weeks of antidepressant treatment followed by 6 weeks of adjunctive aripiprazole or placebo in addition to their ongoing antidepressant treatment.
@@ -334,7 +334,7 @@ When treating pediatric patients for any indication, weight gain should be monit
 ## 5.7 Pathological Gambling and Other Compulsive Behaviors
 
 Post-marketing case reports suggest that patients can experience intense urges, particularly for gambling, and the inability to control these urges while taking aripiprazole.
-Other compulsive urges, reported less frequently include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
+Other compulsive urges, reported less frequently, include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
 Because patients may not recognize these behaviors as abnormal, it is important for prescribers to ask patients or their caregivers specifically about the development of new or intense gambling urges, compulsive sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole.
 It should be noted that impulse-control symptoms can be associated with the underlying disorder.
 In some cases, although not all, urges were reported to have stopped when the dose was reduced or the medication was discontinued.
@@ -344,7 +344,7 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.8 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%) [see ADVERSE REACTIONS (6.1)].
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2,467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%) [see ADVERSE REACTIONS (6.1)].
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), or in pediatric oral aripiprazole-treated patients aged 6 to 18 years (0.4%, 1%).
 
@@ -369,7 +369,7 @@ Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophi
 
 ## 5.11 Seizures/Convulsions
 
-In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2467) of undiagnosed adult patients treated with oral aripiprazole, and in 0.1% (1/732) of pediatric patients (6 to 18 years).
+In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2,467) of undiagnosed adult patients treated with oral aripiprazole, and in 0.1% (1/732) of pediatric patients (6 to 18 years).
 
 As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
@@ -377,8 +377,8 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 ## 5.12 Potential for Cognitive and Motor Impairment
 
 Aripiprazole, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
-For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2467) treated with oral aripiprazole (11%, 6%), and in pediatric patients ages 6 to 17 (n=611) (24%, 6%).
-Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients and 3% (20/732) of pediatric patients (6 to 18 years) on oral aripiprazole in short-term, placebo-controlled trials.
+For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2,467) treated with oral aripiprazole (11%, 6%), and in pediatric patients ages 6 to 17 (n=611) (24%, 6%).
+Somnolence (including sedation) led to discontinuation in 0.3% (8/2,467) of adult patients and 3% (20/732) of pediatric patients (6 to 18 years) on oral aripiprazole in short-term, placebo-controlled trials.
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with aripiprazole does not affect them adversely.
 
