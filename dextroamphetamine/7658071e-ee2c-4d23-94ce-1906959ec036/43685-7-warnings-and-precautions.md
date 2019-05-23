@@ -7,11 +7,11 @@ Although some serious heart problems alone carry an increased risk of sudden dea
 
 Adults: Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
-Adults with such abnormalities should also generally not be treated with stimulant drugs (see CONTRAINDICATIONS).
+Adults with such abnormalities should also generally not be treated with stimulant drugs [see CONTRAINDICATIONS].
 
 Hypertension and Other Cardiovascular Conditions: Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia [see CONTRAINDICATIONS].
 
 Assessing Cardiovascular Status in Patients Being Treated With Stimulant Medications: Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
 Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
@@ -45,7 +45,7 @@ Careful observation for digital changes is necessary during treatment with ADHD 
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 Serotonin Syndrome: Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort [see DRUG INTERACTIONS].
-Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [seeCLINICAL PHARMACOLOGY].
+Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [see CLINICAL PHARMACOLOGY].
 The potential for a pharmacokinetic interaction exists with the coadministration of CYP2D6 inhibitors which may increase the risk with increased exposure to Dextroamphetamine Sulfate Oral Solution.
 In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see DRUG INTERACTIONS].
 
