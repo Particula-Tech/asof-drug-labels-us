@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA210570"
+  ],
+  "inn": "cinacalcet",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-503-01",
+    "67877-503-30",
+    "67877-503-33",
+    "67877-504-01",
+    "67877-504-30",
+    "67877-504-33",
+    "67877-505-01",
+    "67877-505-30",
+    "67877-505-33"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cinacalcet",
+      "name": "Cinacalcet"
+    }
+  ],
+  "setid": "55f95ae0-84ac-4ae4-b7a0-7590ab919ae1",
+  "source": "dailymed"
+}
