@@ -7,7 +7,7 @@ Risk Summary
 Available data from published literature and postmarketing experience with levocetirizine use in pregnant women are insufficient to identify any drug-associated risks of miscarriage, birth defects, or adverse maternal or fetal outcomes.
 In animal reproduction studies, there was no evidence of fetal harm with administration of levocetirizine by the oral route to pregnant rats and rabbits, during the period of organogenesis, at doses up to 390 times and 470 times, respectively, the maximum recommended human dose (MRHD) in adults.
 In rats treated during late gestation and the lactation period, cetirizine had no effects on pup development at oral doses up to approximately 60 times the MRHD in adults.
-In mice treated during late gestation and the lactation period, cetirizine administered by the oral route to the dams had no effects on pup development at a dose that was approximately 25 times the MRHD in adults; however, lower pup weight gain during lactation was observed at a dose that was 95 times the MRHD in adults (see Data).
+In mice treated during late gestation and the lactation period, cetirizine administered by the oral route to the dams had no effects on pup development at a dose that was approximately 25 times the MRHD in adults; however, lower pup weight gain during lactation was observed at a dose that was 95 times the MRHD in adults [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -15,7 +15,7 @@ In the U.S. general population, the estimated background risks of major birth de
 
 Data
 
-Animal Data
+Animal data
 
 In embryo-fetal development studies, pregnant rats received daily doses of levocetirizine up to 200 mg/kg/day from gestation days 6 to 15 and pregnant rabbits received daily doses of levocetirizine up to 120 mg/kg/day from gestation days 6 to 18.
 Levocetirizine produced no evidence of fetal harm in rats and rabbits at doses up to 390 and 470 times the MRHD, respectively (on a mg/m2 basis with maternal oral doses of 200 and 120 mg/kg/day in rats and rabbits, respectively).
@@ -37,13 +37,13 @@ Risk Summary
 
 There are no data on the presence of levocetirizine in human milk, the effects on the breastfed infant, or the effects on milk production.
 However, cetirizine has been reported to be present in human breast milk.
-In mice and beagle dogs, studies indicated that cetirizine was excreted in milk (see Data).
+In mice and beagle dogs, studies indicated that cetirizine was excreted in milk [see Data].
 When a drug is present in animal milk, it is likely the drug will be present in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for levocetirizine dihydrochloride and any potential adverse effects on the breastfed child from levocetirizine dihydrochloride or from the underlying maternal condition.
 
 Data
 
-Animal Data
+Animal data
 
 Cetirizine was detected in the milk of mice.
 No adverse developmental effects on pups were seen when cetirizine was administered orally to dams during lactation at a dose that was approximately 25 times the MRHD in adults [see Use in Specific Populations (8.1)].
