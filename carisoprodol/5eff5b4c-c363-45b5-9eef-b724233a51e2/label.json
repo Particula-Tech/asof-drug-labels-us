@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040823"
+  ],
+  "inn": "carisoprodol",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-656-01",
+    "50742-656-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carisoprodol",
+      "name": "CARISOPRODOL"
+    }
+  ],
+  "setid": "5eff5b4c-c363-45b5-9eef-b724233a51e2",
+  "source": "dailymed"
+}

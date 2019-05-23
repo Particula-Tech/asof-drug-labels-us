@@ -1,0 +1,8 @@
+# 1 INDICATIONS AND USAGE
+
+CARISOPRODOL is indicated for the relief of discomfort associated with acute, painful musculoskeletal conditions in adults.
+
+Limitation of Use
+
+CARISOPRODOL should only be used for short periods (up to two or three weeks) because adequate evidence of effectiveness for more prolonged use has not been established and because acute, painful musculoskeletal conditions are generally of short duration.
+[seeDosage and Administration (2)].
