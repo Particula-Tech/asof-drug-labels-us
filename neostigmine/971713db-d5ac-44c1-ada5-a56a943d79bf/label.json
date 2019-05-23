@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA212512"
+  ],
+  "inn": "neostigmine",
+  "labeler": "BE Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71839-105-01",
+    "71839-105-24",
+    "71839-106-01",
+    "71839-106-24"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine methylsulfate",
+      "name": "Neostigmine methylsulfate"
+    }
+  ],
+  "setid": "971713db-d5ac-44c1-ada5-a56a943d79bf",
+  "source": "dailymed"
+}
