@@ -13,4 +13,4 @@ The reconstituted solution ranges in color from yellow to yellow-green and is in
 
 Inactive ingredients are mannitol, 48 mg, and tartaric acid, 20 mg.
 Hydrochloric acid and sodium hydroxide may be used to adjust the pH.
-The solution pH ranges from 2.5 to 3.5.
+The solution pH ranges from 2.8 to 3.2.
