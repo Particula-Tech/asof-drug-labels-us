@@ -339,11 +339,11 @@ After your injection:
 - •Put your used FIASP FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-- omade of a heavy-duty plastic
-- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-- oupright and stable during use
-- oleak-resistant
-- oproperly labeled to warn of hazardous waste inside the container
+- •made of a heavy-duty plastic
+- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- •upright and stable during use
+- •leak-resistant
+- •properly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share needles or syringes with another person.
@@ -429,8 +429,8 @@ How to use the FIASP PenFill cartridge
   Call Novo Nordisk at 1-800-727-6500.
 - •Carefully look at the cartridge and the insulin inside it.
   Check that the FIASP cartridge:
-  - ois not damaged, for example cracked or leaking
-  - ois not loose on the threaded end
+  - •is not damaged, for example cracked or leaking
+  - •is not loose on the threaded end
 - •FIASP should look clear and colorless.
   Do not use FIASP if it is cloudy or colored or if the threaded end is loose (See Figure B).
 
@@ -546,11 +546,11 @@ Step 8:
 - •Put your empty FIASP PenFill cartridge and used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and PenFill cartridges in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-- omade of a heavy-duty plastic
-- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-- oupright and stable during use
-- oleak-resistant
-- oproperly labeled to warn of hazardous waste inside the container
+- •made of a heavy-duty plastic
+- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- •upright and stable during use
+- •leak-resistant
+- •properly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share your needles or syringes with other people.
