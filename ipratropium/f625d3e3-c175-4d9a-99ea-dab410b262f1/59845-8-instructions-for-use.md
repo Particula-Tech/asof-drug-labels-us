@@ -6,13 +6,13 @@ Read complete instructions carefully before using.
 
 - •Twist open the top of one unit dose vial and squeeze the contents into the nebulizer reservoir.
   (Figure 1).
-- 
+
 - •Connect the nebulizer reservoir to the mouthpiece or face mask (Figure 2).
-- 
+
 - •Connect the nebulizer to the compressor.
 - •Sit in a comfortable, upright position; place the mouthpiece in your mouth (Figure 3) or put on the face mask and turn on the compressor.
   If a face mask is used, care should be taken to avoid leakage around the mask as temporary blurring of vision, pupil enlargement, precipitation or worsening of narrow-angle glaucoma, or eye pain may occur if the solution comes into direct contact with the eyes.
-- 
+
 - •Breathe as calmly, deeply, and evenly as possible until no more mist is formed in the nebulizer chamber (about 5 to 15 minutes).
   At this point, the treatment is finished.
 - •Clean the nebulizer (see manufacturer's instructions).
