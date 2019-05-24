@@ -13,7 +13,6 @@ In clinical trials conducted in patients with pelvic inflammatory disease, in wh
 Clinical adverse reactions leading to discontinuations from these studies were gastrointestinal (abdominal pain, nausea, vomiting, diarrhea), and rashes; laboratory side effects leading to discontinuation were increases in transaminase levels and/or alkaline phosphatase levels.
 
 Overall, the most common adverse reactions associated with treatment in adult patients who received IV/Oral azithromycin in studies of community-acquired pneumonia were related to the gastrointestinal system with diarrhea/loose stools (4.3%), nausea (3.9%), abdominal pain (2.7%), and vomiting (1.4%) being the most frequently reported.
-
 Approximately 12% of patients experienced a side effect related to the intravenous infusion; most common were pain at the injection site (6.5%) and local inflammation (3.1%).
 
 The most common adverse reactions associated with treatment in adult women who received IV/Oral azithromycin in trials of pelvic inflammatory disease were related to the gastrointestinal system.
@@ -30,7 +29,7 @@ Special senses: Taste perversion.
 The following adverse reactions have been identified during post-approval use of azithromycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported with azithromycin during the post-marketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
+Adverse reactions reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
 
 Allergic:Arthralgia, edema, urticaria and angioedema.
 

@@ -11,10 +11,10 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 
 Cardiac Electrophysiology
 
-QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with oral azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
-Co-administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
-In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
-Since the mean Cmax of azithromycin following a 500 mg IV dose given over 1 hr is higher than the mean Cmax of azithromycin following the administration of a 1500 mg oral dose, it is possible that QTc may be prolonged to a greater extent with IV azithromycin at close proximity to a one hour infusion of 500 mg.
+QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1,000 mg) alone or in combination with oral azithromycin (500 mg, 1,000 mg, and 1,500 mg once daily).
+Co-administration of azithromycin increased the QTc interval in a dose- and concentration-dependent manner.
+In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1,000 mg and 1,500 mg azithromycin, respectively.
+Since the mean Cmax of azithromycin following a 500 mg IV dose given over 1 hr is higher than the mean Cmax of azithromycin following the administration of a 1,500 mg oral dose, it is possible that QTc may be prolonged to a greater extent with IV azithromycin at close proximity to a one hour infusion of 500 mg.
 
 ## 12.3 Pharmacokinetics
 
@@ -64,17 +64,17 @@ Biliary excretion is a major route of elimination for unchanged drug, following 
 
 Specific Populations
 
-Renal Insufficiency
+Patients with Renal Impairment
 
 Azithromycin pharmacokinetics were investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
 Following the oral administration of a single 1,000 mg dose of azithromycin, mean Cmax and AUC0-120 increased by 5.1% and 4.2%, respectively in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0-120 increased 61% and 35%, respectively in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been established.
 
-Gender
+Male and Female Patients
 
 There are no significant differences in the disposition of azithromycin between male and female subjects.
 No dosage adjustment is recommended based on gender.
@@ -88,7 +88,7 @@ Pediatric Patients
 
 Pharmacokinetic studies with intravenous azithromycin have not been performed in children.
 
-Drug-drug Interactions
+Drug Interaction Studies
 
 Drug interaction studies were performed with oral azithromycin and other drugs likely to be co-administered.
 The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
@@ -190,58 +190,4 @@ Peptostreptococcus species
 
 Prevotella bivia Other Bacteria
 
-Ureaplasma urealyticum Susceptibility Testing Methods
-
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antibacterial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug for treatment.
-Dilution techniques
-
-Quantitative methods are used to determine antimicrobial MICs.
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method1,2,3,4 (broth, and/or agar).
-The MIC values should be interpreted according to criteria provided in Table 3.
-Diffusion techniques
-
-Quantitative methods that require measurement of zone diameters can provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using standardized methods2,3,4.
-This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
-The disk diffusion breakpoints are provided in Table 3.
-
-Table 3.
-Susceptibility Interpretive Criteria for Azithromycin
-
-| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| S | I | R | S | I | R |  |
-| Haemophilus influenzae* | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
-| Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 18 | 14 to 17 | ≤ 13 |
-| Streptococci including S. pneumoniae | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14 to 17 | ≤ 13 |
-| Moraxella catarrhalis* | ≤ 0.25 | -- | -- | ≥ 26 | -- | -- |
-
-* Insufficient information is available to determine Intermediate or Resistant interpretive criteria
-
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) indicates that the result should be considered equivocal and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body
-
-sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
-Standard azithromycin powder should provide the following range of MIC values provided in Table 4.
-For the diffusion technique using the 15-mcg azithromycin disk the criteria provided in Table 4 should be achieved.
-
-Table 4: Acceptable Quality Control Ranges for Susceptibility Testing
-
-| Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |
-| --- | --- | --- |
-| Staphylococcus aureus ATCC* 25923 | Not Applicable | 21 to 26 |
-| Staphylococcus aureus ATCC 29213 | 0.5 to 2 | Not Applicable |
-| Haemophilus influenzae ATCC 49247 | 1 to 4 | 13 to 21 |
-| Streptococcus pneumoniae ATCC 49619 | 0.06 to 0.25 | 19 to 25 |
-| Neisseria gonorrhoeae ATCC 49226 | 0.25 to 1 | Not Applicable |
-
-*ATCC = American Type Culture Collection
+Ureaplasma urealyticum Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
