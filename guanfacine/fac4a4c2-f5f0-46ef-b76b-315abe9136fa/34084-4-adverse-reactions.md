@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Adverse reactions noted with guanfacine are similar to those of other drugs of the central α 2 adrenoreceptor agonist class: dry mouth, sedation (somnolence), weakness (asthenia), dizziness, constipation, and impotence.
+Adverse reactions noted with guanfacine are similar to those of other drugs of the central α2 adrenoreceptor agonist class: dry mouth, sedation (somnolence), weakness (asthenia), dizziness, constipation, and impotence.
 While the reactions are common, most are mild and tend to disappear on continued dosing.
 
 Skin rash with exfoliation has been reported in a few cases; although clear cause and effect relationships to guanfacine could not be established, should a rash occur, guanfacine should be discontinued and the patient monitored appropriately.
@@ -126,17 +126,13 @@ LIVER AND BILIARY SYSTEM: abnormal liver function tests
 
 MUSCULOSKELETAL SYSTEM: arthralgia, leg cramps, leg pain, myalgia
 
-PSYCHIATRIC: agitation, anxiety, confusion, depression, insomnia,
-
-nervousness
+PSYCHIATRIC: agitation, anxiety, confusion, depression, insomnia, nervousness
 
 REPRODUCTIVE SYSTEM, MALE: impotence
 
 RESPIRATORY SYSTEM: dyspnea
 
-SKIN AND APPENDAGES: alopecia, dermatitis, exfoliative dermatitis, pruritus,
-
-rash
+SKIN AND APPENDAGES: alopecia, dermatitis, exfoliative dermatitis, pruritus, rash
 
 SPECIAL SENSES: alterations in taste
 

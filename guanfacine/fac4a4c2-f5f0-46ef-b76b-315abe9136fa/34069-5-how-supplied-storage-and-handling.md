@@ -10,7 +10,9 @@ Store at 20°-25°C (68°-77°F).
 [See USP controlled room temperature.]
 Dispense in a tight, light-resistant container.
 
-Manufactured by: Epic Pharma, LLC
+Manufactured by:
+
+Epic Pharma, LLC
 
 Laurelton, NY 11413
 
