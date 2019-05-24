@@ -11,3 +11,4 @@ Linezolid Tablets are available as follows:
 ## 16.4 Storage and Handling
 
 Store at 25ºC (77ºF).Excursions permitted to 15 to 30 ºC (59 to 86 ºF) [see USP Controlled Room Temperature].Protect from light.
+Keep bottle tightly closed to protect from moisture.

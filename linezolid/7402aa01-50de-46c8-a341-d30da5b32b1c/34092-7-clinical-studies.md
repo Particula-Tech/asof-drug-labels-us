@@ -140,7 +140,7 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Pediatric P
 | Linezolid n/N (%) | Vancomycin n/N (%) |  |
 | Vancomycin-resistant Enterococcus faecium | 6/8 (75)* | 0/0 (-) |
 | Staphylococcus aureus | 36/38 (95) | 23/24 (96) |
-| Methicillin-resistantS. aureus | 16/17 (94) | 9/9 (100) |
+| Methicillin-resistant S. aureus | 16/17 (94) | 9/9 (100) |
 | Streptococcus pyogenes | 2/2 (100) | 1/2 (50) |
 
 * Includes data from 7 patients enrolled in the open-label extension of this study.
