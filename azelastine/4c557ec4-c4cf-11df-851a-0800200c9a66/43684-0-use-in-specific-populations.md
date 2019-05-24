@@ -25,7 +25,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 #### Animal Data
 
-##### Azelastine hydrochloride
+##### Azelastine Hydrochloride
 
 In an embryo-fetal development study in mice dosed during the period of organogenesis, azelastine hydrochloride caused embryo-fetal death, structural abnormalities (cleft palate; short or absent tail; fused, absent or branched ribs), delayed ossification, and decreased fetal weight at approximately 610 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 68.6 mg/kg/day), which also caused maternal toxicity as evidenced by decreased maternal body weight.
 Neither fetal nor maternal effects occurred in mice at approximately 25 times the MRHDID in adults (on a mg/m2 basis at a maternal oral dose of 3 mg/kg/day).
@@ -39,7 +39,7 @@ Neither fetal nor maternal effects occurred at approximately 10 times the MRHDID
 
 In a prenatal and postnatal development study in pregnant rats dosed from late in the gestation period and through the lactation period from gestation day 17 through lactation day 21, azelastine hydrochloride produced no adverse developmental effects on pups at maternal doses up to approximately 530 times the MRHDID (on mg/m2 basis at a maternal dose of 30 mg/kg/day).
 
-##### Fluticasone propionate
+##### Fluticasone Propionate
 
 In embryofetal development studies with pregnant rats and mice dosed by the subcutaneous route throughout the period of organogenesis, fluticasone propionate was teratogenic in both species.
 Omphalocele, decreased body weight, and skeletal variations were observed in rat fetuses, in the presence of maternal toxicity, at a dose approximately 5 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 100 mcg/kg/day).

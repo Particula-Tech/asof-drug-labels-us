@@ -6,7 +6,7 @@
 
 No studies of carcinogenicity, mutagenicity, or impairment of fertility were conducted with DYMISTA; however, studies are available for the individual active components, azelastine hydrochloride and fluticasone propionate, as described below.
 
-### Azelastine hydrochloride
+### Azelastine Hydrochloride
 
 Two-year carcinogenicity studies in Crl:CD(SD)BR rats and NMRI mice were conducted to assess the carcinogenic potential of azelastine hydrochloride.
 No evidence of tumorigenicity was observed in rats at doses up to 30 mg/kg/day (approximately 530 and 240 times the MRHDID for adults and children, respectively, on a mg/m2 basis).
@@ -18,7 +18,7 @@ There were no effects on male or female fertility and reproductive in male and f
 At 68.6 mg/kg (approximately 1200 times the MRHDID on a mg/m2 basis), the duration of estrous cycles was prolonged and copulatory activity and the number of pregnancies were decreased.
 The numbers of corpora lutea and implantations were decreased; however, pre-implantation loss was not increased.
 
-### Fluticasone propionate
+### Fluticasone Propionate
 
 Fluticasone propionate demonstrated no tumorigenic potential in mice at oral doses up to 1,000 mcg/kg (approximately 25 and 10 times the MRHDID in adults and children, respectively, on a mcg/m2 basis) for 78 weeks or in rats at inhalation doses up to 57 mcg/kg (approximately 3 and 1 times the MRHDID in adults and children, respectively, on a mcg/m2 basis) for 104 weeks.
 

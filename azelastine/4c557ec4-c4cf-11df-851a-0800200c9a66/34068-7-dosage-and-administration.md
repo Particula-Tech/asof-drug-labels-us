@@ -10,7 +10,9 @@ Administer DYMISTA by the intranasal route only.
 
 Shake the bottle gently before each use.
 
-Priming: Prime DYMISTA before initial use by releasing 6 sprays or until a fine mist appears.
+### Priming
+
+Prime DYMISTA before initial use by releasing 6 sprays or until a fine mist appears.
 When DYMISTA has not been used for 14 or more days, reprime with 1 spray or until a fine mist appears.
 
 Avoid spraying DYMISTA into the eyes.

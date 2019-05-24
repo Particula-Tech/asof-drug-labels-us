@@ -29,7 +29,7 @@ Adverse Reactions with ≥ 2% Incidence and More Frequently than Placebo in Plac
 
 |  | 1 spray per nostril twice daily |  |  |  |
 | --- | --- | --- | --- | --- |
-| DYMISTA(N=853)Safety population N=853, intent-to-treat population N=848 | Azelastine Hydrochloride Nasal SprayNot commercially marketed (N=851) | Fluticasone Propionate Nasal Spray(N=846) | Vehicle Placebo(N=861) |  |
+| DYMISTA(N = 853)Safety population N = 853, intent-to-treat population N = 848 | Azelastine Hydrochloride Nasal SprayNot commercially marketed (N = 851) | Fluticasone Propionate Nasal Spray(N = 846) | Vehicle Placebo(N = 861) |  |
 | Dysgeusia | 30(4%) | 44(5%) | 4(1%) | 2(<1%) |
 | Headache | 18(2%) | 20(2%) | 20(2%) | 10(1%) |
 | Epistaxis | 16(2%) | 14(2%) | 14(2%) | 15(2%) |
@@ -52,7 +52,7 @@ Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Place
 
 |  | 1 spray per nostril twice daily |  |
 | --- | --- | --- |
-| DYMISTA (N=152)Safety population N=152, intent-to-treat population N=152 | Vehicle Placebo (N=152) |  |
+| DYMISTA (N = 152)Safety population N = 152, intent-to-treat population N = 152 | Vehicle Placebo (N = 152) |  |
 | Dysgeusia | 6 (4%) | 0 (0%) |
 | Epistaxis | 6 (4%) | 4 (3%) |
 
@@ -90,26 +90,26 @@ There were two reports of somnolence, one severe, among children taking DYMISTA 
 The following spontaneous adverse events have been reported with DYMISTA or one of the components (azelastine and fluticasone).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiac disorders: atrial fibrillation, increased heart rate, palpitations
+Cardiac Disorders: atrial fibrillation, increased heart rate, palpitations
 
-Eye disorder: blurred vision, cataracts, conjunctivitis, dryness and irritation, eye swelling, glaucoma, increased intraocular pressure, vision abnormal, xerophthalmia
+Eye Disorder: blurred vision, cataracts, conjunctivitis, dryness and irritation, eye swelling, glaucoma, increased intraocular pressure, vision abnormal, xerophthalmia
 
-Gastrointestinal disorders: nausea, vomiting
+Gastrointestinal Disorders: nausea, vomiting
 
-General disorders and administration site condition: aches and pain, application site irritation, chest pain, edema of face and tongue, fatigue, tolerance
+General Disorders and Administration Site Condition: aches and pain, application site irritation, chest pain, edema of face and tongue, fatigue, tolerance
 
-Immune system disorders: anaphylaxis/anaphylactoid reactions which in rare instances were severe, hypersensitivity reactions
+Immune System Disorders: anaphylaxis/anaphylactoid reactions which in rare instances were severe, hypersensitivity reactions
 
-Musculoskeletal and connective tissue disorders: growth suppression [see Use in Specific Populations (8.4)]
+Musculoskeletal and Connective Tissue Disorders: growth suppression [see Use in Specific Populations (8.4)]
 
-Nervous system disorders: disturbance or loss of smell and/ or taste, dizziness, involuntary muscle contractions, paresthesia, parosmia
+Nervous System Disorders: disturbance or loss of smell and/ or taste, dizziness, involuntary muscle contractions, paresthesia, parosmia
 
-Psychiatric disorders: anxiety, confusion, nervousness
+Psychiatric Disorders: anxiety, confusion, nervousness
 
-Renal and urinary disorders: urinary retention
+Renal and Urinary Disorders: urinary retention
 
-Respiratory, thoracic and mediastinal disorders: bronchospasm, cough, dysphonia, dyspnea, hoarseness, nasal septal perforation, nasal discomfort, nasal dryness, nasal sores, nasal ulcer, sore throat, throat dryness and irritation, voice changes, wheezing
+Respiratory, Thoracic and Mediastinal Disorders: bronchospasm, cough, dysphonia, dyspnea, hoarseness, nasal septal perforation, nasal discomfort, nasal dryness, nasal sores, nasal ulcer, sore throat, throat dryness and irritation, voice changes, wheezing
 
-Skin and subcutaneous tissue disorder: angioedema, erythema, face swelling, pruritus, rash, urticaria
+Skin and Subcutaneous Tissue Disorder: angioedema, erythema, face swelling, pruritus, rash, urticaria
 
-Vascular disorder: hypertension
+Vascular Disorder: hypertension

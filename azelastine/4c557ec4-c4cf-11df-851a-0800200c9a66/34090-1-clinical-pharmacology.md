@@ -7,13 +7,13 @@
 DYMISTA contains both azelastine hydrochloride and fluticasone propionate; therefore, the mechanisms of actions described below for the individual components apply to DYMISTA.
 These drugs represent two different classes of medications (histamine H1-receptor antagonist and synthetic corticosteroid).
 
-### Azelastine hydrochloride
+### Azelastine Hydrochloride
 
 Azelastine hydrochloride, a phthalazinone derivative, exhibits histamine H1-receptor antagonist activity in isolated tissues, animal models, and humans.
 Azelastine hydrochloride in DYMISTA is administered as a racemic mixture with no difference in pharmacologic activity noted between the enantiomers in in vitro studies.
 The major metabolite, desmethylazelastine, also possesses H1-receptor antagonist activity.
 
-### Fluticasone propionate
+### Fluticasone Propionate
 
 Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity.
 In vitro dose response studies on a cloned human glucocorticoid receptor system involving binding and gene expression afforded 50% responses at 1.25 and 0.17 nM concentrations, respectively.
@@ -38,7 +38,7 @@ These drugs had no effect on QTc based on analysis of serial electrocardiograms.
 
 ### Absorption
 
-After intranasal administration of two sprays per nostril (548 mcg of azelastine hydrochloride and 200 mcg of fluticasone) of DYMISTA, the mean (± standard deviation) peak plasma exposure (Cmax) was 194.5 ± 74.4 pg/mL for azelastine and 10.3±3.9 pg/mL for fluticasone propionate and the mean total exposure (AUC) was 4217 ± 2618 pg/mL*hr for azelastine and 97.7 ± 43.1 pg/mL*hr for fluticasone.
+After intranasal administration of two sprays per nostril (548 mcg of azelastine hydrochloride and 200 mcg of fluticasone) of DYMISTA, the mean (± standard deviation) peak plasma exposure (Cmax) was 194.5 ± 74.4 pg/mL for azelastine and 10.3 ± 3.9 pg/mL for fluticasone propionate and the mean total exposure (AUC) was 4217 ± 2618 pg/mL*hr for azelastine and 97.7 ± 43.1 pg/mL*hr for fluticasone.
 The median time to peak exposure (tmax) from a single dose was 0.5 hours for azelastine and 1.0 hours for fluticasone.
 
 Systemic bioavailability of azelastine from DYMISTA following intranasal administration was comparable with monotherapy azelastine hydrochloride (Astelin®) nasal spray (i.e., approximately 40%).
@@ -132,5 +132,4 @@ Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range, 110 to 
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol area under the plasma concentration versus time curve (AUC).
 
 Caution should be exercised when other strong CYP3A4 inhibitors are coadministered with fluticasone propionate.
-In a drug interaction study, coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in increased fluticasone propionate exposure and reduced plasma cortisol AUC, but had no effect on urinary excretion of cortisol.
-[see Drug Interactions (7.2)]
+In a drug interaction study, coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in increased fluticasone propionate exposure and reduced plasma cortisol AUC, but had no effect on urinary excretion of cortisol [see Drug Interactions (7.2)].

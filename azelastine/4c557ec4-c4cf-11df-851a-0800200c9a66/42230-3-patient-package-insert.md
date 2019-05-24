@@ -102,7 +102,7 @@ DYMISTA may cause serious side effects including:
 
 Call your healthcare provider or get medical help right away if you have symptoms of any of the serious side effects listed above.
 
-The most common side effects of Dymista Nasal Spray include:
+The most common side effects of DYMISTA Nasal Spray include:
 
 - •changes in taste
 - •nosebleeds
@@ -159,8 +159,6 @@ Shake the bottle gently before each use.
 Your DYMISTA pump.
 (See Figure A)
 
-Figure A
-
 Instructions for Using Your DYMISTA Pump.
 
 Before you use DYMISTA for the first time, you will need to shake the bottle gently and prime the pump.
@@ -174,8 +172,6 @@ Step 1.
 
 Remove the clear plastic dust cap from the spray pump tip of the bottle.
 (See Figure B)
-
-Figure B
 
 Step 2.
 
@@ -192,8 +188,6 @@ Press upward with your thumb and release for the pumping action.
   See the cleaning section below.
 - •Once you see the fine mist of medicine, your DYMISTA pump is ready for use.
 
-Figure C
-
 Using your DYMISTA:
 
 For use in young children: An adult should help a young child use DYMISTA.
@@ -203,8 +197,6 @@ Step 3.
 Gently blow your nose to clear nostrils.
 (See Figure D)
 
-Figure D
-
 Step 4.
 
 Shake the bottle gently.
@@ -213,13 +205,11 @@ Tilt your head forward slightly.
 Keep the bottle upright and carefully place the spray pump tip ¼ to ½ inch into your other nostril.
 (See Figure E)
 
-Figure E
-
 Step 5.
 
 For each spray firmly press the pump 1 time.
 Keep your head tilted down and at the same time, gently breathe in through your nostril.
-(See Figure F).
+(See Figure F)
 
 Do not spray directly onto the nasal septum (the wall between your 2 nostrils).
 
@@ -229,15 +219,11 @@ Do not spray directly onto the nasal septum (the wall between your 2 nostrils).
 - •If the medicine goes into your throat you may get a bitter taste in your mouth.
   This is normal.
 
-Figure F
-
 Step 6.
 
 When you finish using DYMISTA, wipe the spray tip with a clean tissue or cloth.
 Put the dust cap back on the spray pump tip of the bottle.
 (See Figure G)
-
-Figure G
 
 Each bottle of DYMISTA contains enough medicine for you to spray medicine from the bottle 120 times.
 After initial priming, do not use your bottle of DYMISTA after 120 sprays.
@@ -256,22 +242,16 @@ Step 7.
 Remove the dust cap and then gently pull upward on the spray pump unit to remove it from the bottle.
 (See Figure H)
 
-Figure H
-
 Step 8.
 
 Wash the spray pump unit and dust cap in warm tap water.
 (See Figure I)
-
-Figure I
 
 Step 9.
 
 Allow to dry completely.
 When dry, place the spray pump unit and dust cap back on the bottle.
 (See Figure J)
-
-Figure J
 
 Step 10.
 
@@ -290,12 +270,14 @@ Replace the dust cap and your DYMISTA is ready for use.
 
 This Patient Package Insert and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
-
-Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120 ©2018 Mylan Specialty L.P.
-
-DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
-
 U.S. Patents 8,163,723; 8,168,620; 9,259,428; and 9,901,585
 
-IN-023A6-XX Revised: 9/2018
+Manufactured by: Cipla Ltd. Goa, India M.L.
+No. 546
+
+Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+
+©2019 Mylan Specialty L.P.
+DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
+
+Revised: 9/2018 IN-023A6-06

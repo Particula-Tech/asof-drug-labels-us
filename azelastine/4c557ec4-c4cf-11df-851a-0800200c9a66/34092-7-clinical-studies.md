@@ -48,7 +48,7 @@ Mean Change from Baseline in Instantaneous Total Nasal Symptom Scores over 2 Wee
 Onset of action, defined as the first timepoint at which DYMISTA was statistically superior to placebo in the mean change from baseline in iTNSS and which was sustained thereafter, was assessed in each of the three trials.
 Onset of action was observed as early as 30 minutes following the initial dose of DYMISTA.
 
-The subjective impact of seasonal allergic rhinitis on patient's health-related quality of life was evaluated by the Rhinoconjunctivitis Quality of Life Questionnaire (RQLQ) (28 items in 7 domains (activities, sleep, non-nose/eye symptoms, practical problems, nasal symptoms, eye symptoms, and emotional) evaluated on a 7-point scale where 0=no impairment and 6=maximum impairment), which was administered to patients 18 years of age and older.
+The subjective impact of seasonal allergic rhinitis on patient's health-related quality of life was evaluated by the Rhinoconjunctivitis Quality of Life Questionnaire (RQLQ) (28 items in 7 domains (activities, sleep, non-nose/eye symptoms, practical problems, nasal symptoms, eye symptoms, and emotional) evaluated on a 7-point scale where 0 = no impairment and 6 = maximum impairment), which was administered to patients 18 years of age and older.
 An overall RQLQ score is calculated from the mean of all items in the instrument.
 A change from baseline of at least 0.5 points is considered a clinically meaningful improvement.
 In each of these trials, DYMISTA demonstrated a statistically significant greater decrease from baseline in the overall RQLQ than placebo, which ranged from -0.55 (95% CI -0.72, -0.39) to -0.80 (95% CI -1.05, -0.55).
@@ -67,7 +67,7 @@ Table 5: Mean Change from Baseline in Reflective Total Nasal Symptom Scores over
 
 | Treatment | Baseline | LS Mean Change from baseline | LS Mean Difference (95% CI) | P-value |
 | --- | --- | --- | --- | --- |
-| DYMISTA N=152 | 18.4 | -3.7 | -0.8 (-1.8, 0.2) | 0.099 |
-| Placebo N=152 | 18.0 | -2.9 |  |  |
+| DYMISTA N = 152 | 18.4 | -3.7 | -0.8 (-1.8, 0.2) | 0.099 |
+| Placebo N = 152 | 18.0 | -2.9 |  |  |
 
 CI = confidence interval LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data
