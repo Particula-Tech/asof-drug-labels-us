@@ -17,7 +17,7 @@ Table 1: Dosage of Levofloxacin Tablets in Adult Patients with Creatinine Cleara
 | Complicated Skin and Skin Structure Infections (SSSI) | 750 mg | 7 to 14 |
 | Uncomplicated SSSI | 500 mg | 7 to 10 |
 | Chronic Bacterial Prostatitis | 500 mg | 28 |
-| Inhalational Anthrax (Post-Exposure), adult and pediatric patients weighing 50 kg Þ,ß or greater Pediatric patients weighing 30 kg to less than 50 kg Þ,ß | 500 mg see Table 2 below (2.2) | 60 ß 60 ß |
+| Inhalational Anthrax (Post-Exposure), adult and pediatric patients weighing 50 kgÞ,ß or greater Pediatric patients weighing 30 kg to less than 50 kgÞ,ß | 500 mg see Table 2 below (2.2) | 60ß 60ß |
 | Plague, adult and pediatric patients weighing 50 kgàor greater Pediatric patients weighing 30 kg to less than 50 kg | 500 mg see Table 2 below (2.2) | 10 to 14 10 to 14 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)¶ | 750 mg | 5 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)# | 250 mg# | 10# |
@@ -43,7 +43,7 @@ This indication is based on a surrogate endpoint.
 Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)].
 
 ß The safety of levofloxacin tablets in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied.
-An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.11), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
+An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.12), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
 Prolonged levofloxacin tablets therapy should only be used when the benefit outweighs the risk.
 
 à Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
@@ -59,7 +59,7 @@ Table 2: Levofloxacin Tablets Dosage in Pediatric Patients Weighing 30 kg or gre
 
 | Type of Infection* | Dose | Frequency | Duration† |
 | --- | --- | --- | --- |
-| Inhalational Anthrax (post-exposure) ‡, § |  |  |  |
+| Inhalational Anthrax (post-exposure)‡, § |  |  |  |
 | Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hours | 60 days§ |
 | Pediatric patients weighing 30 kg to less than 50 kg | 250 mg | every 12 hours | 60 days§ |
 | Plague¶ |  |  |  |
@@ -73,7 +73,7 @@ Table 2: Levofloxacin Tablets Dosage in Pediatric Patients Weighing 30 kg or gre
 ‡ Begin levofloxacin tablets as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis.
 
 § The safety of levofloxacin tablets in pediatric patients for durations of therapy beyond 14 days has not been studied.
-[see Warnings and Precautions (5.11), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
+[see Warnings and Precautions (5.12), Use in Specific Populations (8.4), and Clinical Studies (14.9)].
 Begin levofloxacin tablets as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment

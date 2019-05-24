@@ -25,11 +25,14 @@ Tendon rupture or swelling of the tendon (tendinitis).
   - are over 60 years of age
   - are taking steroids (corticosteroids)
   - have had a kidney, heart or lung transplant.
+
 - Tendon problems can happen in people who do not have the above risk factors when they take levofloxacin tablets.
+
 - Other reasons that can increase your risk of tendon problems can include:
   - physical activity or exercise
   - kidney failure
   - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+
 - Stop taking levofloxacin tablets immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
   Avoid exercise and using the affected area.
 - The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
@@ -204,7 +207,6 @@ What are the possible side effects of levofloxacin tablets?
 Levofloxacin tablets may cause serious side effects, including:
 
 - See “What is the most important information I should know about levofloxacin tablets?”
-
 - Serious allergic reactions.
 
 Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin tablets, even after only 1 dose.
@@ -240,7 +242,7 @@ Skin rash may be a sign of a more serious reaction to levofloxacin tablets.
 Stop taking levofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to levofloxacin tablets (a liver problem).
 
-- Aortic aneurysm and dissection
+- Aortic aneurysm and dissection:
 
 Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
 Get emergency medical help right away if you have sudden chest, stomach, or back pain.
@@ -316,4 +318,4 @@ What are the ingredients in levofloxacin tablets?
 Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, and titanium dioxide.
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owners.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2019
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019

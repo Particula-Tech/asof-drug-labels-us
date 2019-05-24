@@ -32,11 +32,15 @@ Avoid fluoroquinolones, including levofloxacin, in patients who have previously 
 
 ## 5.4 Central Nervous System Effects
 
-Psychiatric Adverse Reactions Fluoroquinolones, including levofloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychoses, hallucinations, or paranoia; depression, or suicidal thoughts; anxiety, agitation, restlessness, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
+Psychiatric Adverse Reactions
+
+Fluoroquinolones, including levofloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychoses, hallucinations, or paranoia; depression, or suicidal thoughts; anxiety, agitation, restlessness, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
 Attempted or completed suicide have been reported, especially in patients with a medical history of depression, or an underlying risk factor for depression.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving levofloxacin, discontinue levofloxacin and institute appropriate measures.
-Central Nervous System Adverse Reactions Fluoroquinolones, including levofloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), tremors, and lightheadedness.
+Central Nervous System Adverse Reactions
+
+Fluoroquinolones, including levofloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), tremors, and lightheadedness.
 As with other fluoroquinolones, levofloxacin should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction).
 If these reactions occur in patients receiving levofloxacin, discontinue levofloxacin and institute appropriate measures [see Adverse Reactions (6), Drug Interactions (7.4, 7.5), and Patient Counseling Information (17)].
 
@@ -69,13 +73,7 @@ Some reactions have been accompanied by cardiovascular collapse, hypotension/sho
 Levofloxacin should be discontinued immediately at the first appearance of a skin rash or any other sign of hypersensitivity.
 Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
-## 5.8 Risk of Aortic Aneurysm and Dissection
-
-Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
-The cause for the increased risk has not been identified.
-In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve levofloxacin for use only when there are no alternative antibacterial treatments available.
-
-## 5.9 Hepatotoxicity
+## 5.8 Hepatotoxicity
 
 Post-marketing reports of severe hepatotoxicity (including acute hepatitis and fatal events) have been received for patients treated with levofloxacin.
 No evidence of serious drug-associated hepatotoxicity was detected in clinical trials of over 7,000 patients.
@@ -83,6 +81,12 @@ Severe hepatotoxicity generally occurred within 14 days of initiation of therapy
 Most cases of severe hepatotoxicity were not associated with hypersensitivity [see Warnings and Precautions (5.6)].
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
 Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6) and Patient Counseling Information (17)].
+
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve levofloxacin for use only when there are no alternative antibacterial treatments available.
 
 ## 5.10 Clostridium difficile-Associated Diarrhea
 

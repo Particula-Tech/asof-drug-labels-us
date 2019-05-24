@@ -11,8 +11,8 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.8)]
-- Hepatotoxicity [see Warnings and Precautions (5.9)]
+- Hepatotoxicity [see Warnings and Precautions (5.8)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
 - Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
 - Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
@@ -46,7 +46,7 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levof
 | System/Organ Class | Adverse Reaction | % (N = 7537) |
 | --- | --- | --- |
 | Infections and Infestations | moniliasis | 1 |
-| Psychiatric Disorders | insomnia*[see Warnings and Precautions (5.4)] | 4 |
+| Psychiatric Disorders | insomnia* [see Warnings and Precautions (5.4)] | 4 |
 | Nervous System Disorders | headache dizziness [see Warnings and Precautions (5.4)] | 6 3 |
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.7)] | 1 |
 | Gastrointestinal Disorders | nausea diarrhea constipation abdominal pain vomiting dyspepsia | 7 5 3 2 2 2 |
@@ -54,9 +54,7 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levof
 | Reproductive System and Breast Disorders | Vaginitis | 1† |
 | General Disorders and Administration Site Conditions | edema injection site reaction chest pain | 1 1 1 |
 
-* N = 7274
-
-† N = 3758 (women) # pool of studies included IV and oral administration
+* N = 7274 † N = 3758 (women) # pool of studies included IV and oral administration
 
 Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin (N = 7537)
 
@@ -100,7 +98,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.11)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.6)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.6), (5.9)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.6), (5.8)] |
 | Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson syndrome toxic epidermal necrolysis Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions erythema multiforme [see Warnings and Precautions (5.6)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.14)] leukocytoclastic vasculitis |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.2)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.6)] |
