@@ -33,7 +33,8 @@ Instruct patients to inform their healthcare provider of any other medications t
 
 Pregnancy
 
-Inform female patients of reproductive potential that pantoprazole sodium delayed-release tablets may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Administration
 
@@ -46,4 +47,4 @@ Administration
 
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019

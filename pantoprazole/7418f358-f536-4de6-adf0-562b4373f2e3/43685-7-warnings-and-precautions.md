@@ -63,7 +63,7 @@ The relevance of these findings to tumor development in humans is unknown [see N
 
 ## 5.9 Fundic Gland Polyps
 
-PPI use is associated with an increased risk of fundic gland polyps that increases with longterm use, especially beyond one year.
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
 Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
 Use the shortest duration of PPI therapy appropriate to the condition being treated.
 

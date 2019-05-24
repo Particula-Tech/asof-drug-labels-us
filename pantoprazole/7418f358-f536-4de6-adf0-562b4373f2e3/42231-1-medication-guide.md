@@ -51,13 +51,13 @@ It is not known if pantoprazole sodium delayed-release tablets are safe if used 
 
 Pantoprazole sodium delayed-release tablets are not for use in children under 5 years of age.
 
-It is not known if pantoprazole sodium delayed-release tablets are safe and effective in children for treatment other than EE
+It is not known if pantoprazole sodium delayed-release tablets are safe and effective in children for treatment other than EE.
 
 Do not take pantoprazole sodium delayed-release tablets if you are:
 
 - allergic to pantoprazole sodium, any other PPI medicine, or any of the ingredients in pantoprazole sodium delayed-release tablets.
   See the end of this Medication Guide for a complete list of ingredients.
-- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
+- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY, JULUCA) used to treat HIV-1 (Human Immunodeficiency Virus).
 
 Before taking pantoprazole sodium delayed-release tablets, tell your doctor about all of your medical conditions, including if you:
 
@@ -67,8 +67,6 @@ Before taking pantoprazole sodium delayed-release tablets, tell your doctor abou
   Tell your doctor if you become pregnant or think you may be pregnant during treatment with pantoprazole sodium delayed-release tablets.
 - are breastfeeding or plan to breastfeed.
   Pantoprazole sodium can pass into your breast milk.
-  You and your doctor should decide if you will take pantoprazole sodium delayed-release tablets or breastfeed.
-  You should not do both.
   Talk with your doctor about the best way to feed your baby if you take pantoprazole sodium delayed-release tablets.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
@@ -150,4 +148,4 @@ Aurobindo Pharma Limited
 
 Hyderabad-500 038, India
 
-Revised: 07/2018
+Revised: 05/2019
