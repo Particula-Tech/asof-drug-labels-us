@@ -199,7 +199,7 @@ Four studies were conducted involving a total of about 4,400 patients 2-15 years
 About 2,500 of these patients were 2 to 6 years of age.
 
 The most common adverse events from these studies associated with Tacrolimus Ointment application in pediatric patients were skin burning and pruritus (see ADVERSE REACTIONS).
-In addition to skin burning and pruritus, the less common events (< 5%) of varicella zoster (mostly chicken pox), and vesiculobullous rash were more frequent in patients treated with Tacrolimus Ointment 0.03% compared to vehicle.
+In addition to skin burning and pruritus, the less common events (<5%) of varicella zoster (mostly chicken pox), and vesiculobullous rash were more frequent in patients treated with Tacrolimus Ointment 0.03% compared to vehicle.
 In the open-label safety studies, the incidence of adverse events, including infections, did not increase with increased duration of study drug exposure or amount of ointment used.
 In about 4,400 pediatric patients treated with Tacrolimus Ointment, 24 (0.5%) were reported with eczema herpeticum.
 Since the safety and efficacy of Tacrolimus Ointment have not been established in pediatric patients below 2 years of age, its use in this age group is not recommended.

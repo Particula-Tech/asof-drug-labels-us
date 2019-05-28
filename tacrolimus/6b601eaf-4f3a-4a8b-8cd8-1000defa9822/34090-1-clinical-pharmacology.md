@@ -68,7 +68,7 @@ The highest peak concentration was observed in one patient with 82% BSA involvem
 The peak concentrations for this subject were 14.8 ng/mL on day 1 and 4.1 ng/mL on day 14.
 Mean peak tacrolimus blood concentrations following oral administration in pediatric liver transplant patients (n = 9) were 48.4 ± 27.9 ng/mL.
 
-In a similar pharmacokinetic study with 61 enrolled pediatric patients (ages 6 -12 years) with atopic dermatitis, peak tacrolimus blood concentrations ranged from undetectable to 5.3 ng/mL after single or multiple doses of 0.1% Tacrolimus Ointment, with 91% (52/57) of evaluable patients having peak blood concentrations below 2 ng/mL throughout the study period.
+In a similar pharmacokinetic study with 61 enrolled pediatric patients (ages 6-12 years) with atopic dermatitis, peak tacrolimus blood concentrations ranged from undetectable to 5.3 ng/mL after single or multiple doses of 0.1% Tacrolimus Ointment, with 91% (52/57) of evaluable patients having peak blood concentrations below 2 ng/mL throughout the study period.
 When detected, systemic exposure generally declined as treatment continued.
 
 In clinical studies with periodic blood sampling, a similar distribution of tacrolimus blood levels was also observed, with 98% (509/522) of pediatric patients having a blood concentration below 2 ng/mL.

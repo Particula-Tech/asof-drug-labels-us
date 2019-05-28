@@ -38,14 +38,14 @@ LEO® ​
 
 285 Cashel Road
 
-Dublin, 12, Ireland
+Dublin 12, Ireland
 
 Distributed by:
 
-Perrigo
+Perrigo®
 
 Allegan, MI 49010
 
 www.perrigo.com
 
-Revised: 12/2017
+Revised: 02/2019

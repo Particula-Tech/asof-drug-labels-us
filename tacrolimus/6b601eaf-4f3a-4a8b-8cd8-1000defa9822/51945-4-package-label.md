@@ -8,7 +8,7 @@ Tacrolimus Ointment 0.03%
 
 30 g
 
-ATTENTION: DISPENSE WITH ENCLOSED MEDICATION GUIDE
+Attention: Dispense with enclosed Medication Guide
 
 # PRINCIPLE DISPLAY PANEL FOR TACROLIMUS OINTMENT 0.1%
 
@@ -20,4 +20,4 @@ Tacrolimus Ointment 0.1%
 
 30 g
 
-ATTENTION: DISPENSE WITH ENCLOSED MEDICATION GUIDE
+Attention: Dispense with enclosed Medication Guide

@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Adult
+ADULT
 
 Tacrolimus Ointment 0.03% and 0.1%
 

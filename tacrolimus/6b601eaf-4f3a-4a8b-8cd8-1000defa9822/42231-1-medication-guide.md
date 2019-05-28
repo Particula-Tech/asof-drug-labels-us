@@ -48,7 +48,7 @@ Tacrolimus Ointment should not be used:
 
 What should I tell my doctor before starting Tacrolimus Ointment?
 
-Before you start using Tacrolimus, you and your doctor should talk about all of your medical conditions, including if you:
+Before you start using Tacrolimus Ointment, you and your doctor should talk about all of your medical conditions, including if you:
 
 - have a skin disease called Netherton’s syndrome (a rare inherited condition).
 - have any infection on your skin including chicken pox or herpes.
@@ -69,16 +69,17 @@ How should I use Tacrolimus Ointment?
 - Follow your doctor’s advice if symptoms of eczema return after treatment with Tacrolimus Ointment.
 - Call your doctor if:
 
-•your symptoms get worse with Tacrolimus Ointment. •you get an infection on your skin. •your symptoms do not improve after 6 weeks of treatment.Sometimes other skin diseases can look like eczema.
+• your symptoms get worse with Tacrolimus Ointment. • you get an infection on your skin. • your symptoms do not improve after 6 weeks of treatment.
+Sometimes other skin diseases can look like eczema.
 
 To apply Tacrolimus Ointment:
 
-- Wash your hands before applying Tacrolimus.
+- Wash your hands before applying Tacrolimus Ointment.
 - Apply a thin layer of Tacrolimus Ointment twice daily to the areas of skin affected by eczema.
 - Use the smallest amount of Tacrolimus Ointment needed to control the signs and symptoms of eczema.
-- If you are a caregiver applying Tacrolimus Ointment to a patient, or if you are a patient who is not treating your hands, wash your hands with soap and water after applying Tacrolimus.
+- If you are a caregiver applying Tacrolimus Ointment to a patient, or if you are a patient who is not treating your hands, wash your hands with soap and water after applying Tacrolimus Ointment.
   This should remove any ointment left on the hands.
-- Do not bathe, shower, or swim right after applying Tacrolimus.
+- Do not bathe, shower, or swim right after applying Tacrolimus Ointment.
   This could wash off the ointment.
 - You can use moisturizers with Tacrolimus Ointment.
   Make sure you check with your doctor first about the products that are right for you.
@@ -101,14 +102,14 @@ What are the possible side effects of Tacrolimus Ointment?
 
 Please read the first section of this Medication Guide.
 
-The most common side effects of Tacrolimus Ointment at the skin application site are stinging, burning, or itching of the skin treated with Tacrolimus.
+The most common side effects of Tacrolimus Ointment at the skin application site are stinging, burning, or itching of the skin treated with Tacrolimus Ointment.
 These side effects are usually mild to moderate, are most common during the first few days of treatment, and usually go away as your skin heals.
 
 Other side effects include acne, swollen or infected hair follicles, headache, increased sensitivity of the skin to hot or cold temperatures, or flu-like symptoms such as the common cold and stuffy nose, skin tingling, upset stomach, muscle pain, swollen glands (enlarged lymph nodes), or skin infections including cold sores, chicken pox or shingles.
 
 Talk to your doctor if you have a skin infection or if side effects (for example, swollen glands) continue or bother you.
 
-While you are using Tacrolimus, drinking alcohol may cause the skin or face to become flushed or red and feel hot.
+While you are using Tacrolimus Ointment, drinking alcohol may cause the skin or face to become flushed or red and feel hot.
 
 These are not all the side effects with Tacrolimus Ointment.
 Ask your doctor or pharmacist for more information.
@@ -140,7 +141,7 @@ What are the ingredients in Tacrolimus Ointment?
 
 Active Ingredient: tacrolimus, either 0.03% or 0.1%
 
-Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum and white wax.
+Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum, white wax, all-rac-α-tocopherol and butylhydroxytoluene.
 
 Manufactured by:
 
@@ -150,11 +151,11 @@ LEO® ​
 
 285 Cashel Road
 
-Dublin, 12, Ireland
+Dublin 12, Ireland
 
 Distributed by:
 
-Perrigo
+Perrigo®
 
 Allegan, MI 49010
 
@@ -162,4 +163,4 @@ www.perrigo.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2017
+Revised: 02/2019
