@@ -2,10 +2,6 @@
 
 Patients should be advised:
 
-- of the potential benefits and risks of LIPOFEN.
-- not to use LIPOFEN if there is a known hypersensitivity to fenofibrate or fenofibric acid.
-- of medications that should not be taken in combination with LIPOFEN.
-- that if they are taking coumarin anticoagulants, LIPOFEN may increase their anti-coagulant effect, and increased monitoring may be necessary.
 - to inform their physician of all medications, supplements, and herbal preparations they are taking and any change in their medical condition.
 - to inform a physician prescribing a new medication, that they are taking LIPOFEN.
 - to continue to follow an appropriate lipid-modifying diet while taking LIPOFEN.
@@ -18,4 +14,4 @@ Product of Israel
 
 Manufactured for: Kowa Pharmaceuticals America, Inc. Montgomery, AL 36117
 
-Kowa Kowa Pharmaceuticals America Inc.
+Kowa Kowa Pharmaceuticals America, Inc.

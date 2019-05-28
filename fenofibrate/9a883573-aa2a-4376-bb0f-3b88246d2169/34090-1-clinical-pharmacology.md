@@ -88,7 +88,7 @@ Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenof
 
 | Co- Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |
-|  |  |  | AUC | Cmax |
+|  |  |  | AUC | C max |
 | Lipid-lowering agents |  |  |  |  |
 | Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days | ↓2% | ↓4% |
 | Pravastatin | 40 mg as a single dose | Fenofibrate 3 x 67 mg2 as a single dose | ↓1% | ↓2% |
@@ -105,7 +105,7 @@ Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 
 | Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug |  | Change in Co-Administered Drug Exposure |  |
 | --- | --- | --- | --- | --- |
-|  |  | Analyte | AUC | Cmax |
+|  |  | Analyte | AUC | C max |
 | Lipid-lowering agents |  |  |  |  |
 | Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
 | Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
@@ -115,5 +115,5 @@ Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 | Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
 | Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
 | Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
-| TriCor (fenofibrate) oral tablet |  |  |  |  |
-| TriCor (fenofibrate) oral micronized capsule |  |  |  |  |
+| 1TriCor (fenofibrate) oral tablet |  |  |  |  |
+| 2TriCor (fenofibrate) oral micronized capsule |  |  |  |  |

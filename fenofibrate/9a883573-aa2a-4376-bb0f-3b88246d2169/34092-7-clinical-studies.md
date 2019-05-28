@@ -25,9 +25,6 @@ Mean Percent Change in Lipid Parameters at End of Treatment+
 | + Duration of study treatment was 3 to 6 months. |  |  |  |  |
 | * p = <0.05 vs. Placebo |  |  |  |  |
 
-In a subset of the subjects, measurements of apo B were conducted.
-Fenofibrate treatment significantly reduced apo B from baseline to endpoint as compared with placebo (-25.1% vs. 2.4%, p<0.0001, n=213 and 143 respectively).
-
 ## 14.2 Severe Hypertriglyceridemia
 
 The effects of fenofibrate on serum triglycerides were studied in two randomized, double-blind, placebo-controlled clinical trials of 147 hypertriglyceridemic patients.
@@ -48,7 +45,7 @@ Effects in Patients With Severe Hypertriglyceridemia
 | LDL Cholesterol | 28 | 120 | 129 | 12 | 27 | 128 | 137 | 14.5 |
 | VLDL Cholesterol | 27 | 99 | 99 | 5.8 | 27 | 92 | 46 | -44.7* |
 | Study 2 | Placebo |  |  |  | Fenofibrate |  |  |  |
-| Baseline TG Levels 500 to 1500 mg/dL | N | Baseline (Mean) | Endpoint % Change (Mean) (Mean) |  | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) |
+| Baseline TG Levels 500 to 1500 mg/dL | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) |
 | Triglycerides | 44 | 710 | 750 | 7.2 | 48 | 726 | 308 | -54.5* |
 | VLDL Triglycerides | 29 | 537 | 571 | 18.7 | 33 | 543 | 205 | -50.6* |
 | Total Cholesterol | 44 | 272 | 271 | 0.4 | 48 | 261 | 223 | -13.8* |

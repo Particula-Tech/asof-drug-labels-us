@@ -7,6 +7,6 @@ LIPOFEN® (fenofibrate capsules, USP) is available in two strengths:
 150 mg: Size 1 white opaque/white opaque gelatin capsule, imprinted in green ink with “150” between lines on the body, “G 248” on the cap and containing a white to almost white paste, available in bottles of 30 (NDC 66869-147-20) and 90 (NDC 66869-147-30).
 
 Store at 25ºC; Excursions permitted to 15ºC - 30ºC (59ºF - 86ºF).
-[See USP Controlled Room Temperature.]
+[See USP Controlled Room Temperature].
 Keep out of the reach of children.
 Protect from moisture and light.
