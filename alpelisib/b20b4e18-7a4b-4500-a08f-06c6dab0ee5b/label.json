@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "NDA212526"
+  ],
+  "inn": "alpelisib",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0701-51",
+    "0078-0701-84",
+    "0078-0708-02",
+    "0078-0708-51",
+    "0078-0708-90",
+    "0078-0708-91",
+    "0078-0715-02",
+    "0078-0715-61",
+    "0078-0715-91",
+    "0078-0715-94"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "alpelisib",
+      "name": "PIQRAY"
+    },
+    {
+      "form": "TABLET",
+      "generic": "alpelisib",
+      "name": "PIQRAY"
+    }
+  ],
+  "setid": "b20b4e18-7a4b-4500-a08f-06c6dab0ee5b",
+  "source": "dailymed"
+}

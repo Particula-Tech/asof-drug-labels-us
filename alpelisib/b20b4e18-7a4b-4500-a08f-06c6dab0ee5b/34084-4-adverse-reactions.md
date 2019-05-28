@@ -1,0 +1,102 @@
+# 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Severe Hypersensitivity [see Warnings and Precautions (5.1)]
+- Severe Cutaneous Reactions [see Warnings and Precautions (5.2)]
+- Hyperglycemia [see Warnings and Precautions (5.3)]
+- Pneumonitis [see Warnings and Precautions (5.4)]
+- Diarrhea [see Warnings and Precautions (5.5)]
+
+## 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The safety of PIQRAY was evaluated in a randomized, double-blind, placebo-controlled trial (SOLAR-1) in 571 patients with HR-positive, HER2-negative, advanced or metastatic breast cancer enrolled into two cohorts, with or without a PIK3CA mutation [see Clinical Studies (14)].
+
+Patients received either PIQRAY 300 mg plus fulvestrant (n = 284) or placebo plus fulvestrant (n = 287).
+Fulvestrant 500 mg was administered intramuscularly on Cycle 1, Day 1 and 15 and then at Day 1 of each 28-day cycle during treatment phase.
+
+Two patients (0.7%) died while on treatment with PIQRAY plus fulvestrant due to causes other than the underlying malignancy.
+Causes of death included one cardio-respiratory arrest and one second primary malignancy.
+Neither was suspected to be related to study treatment.
+
+Serious adverse reactions occurred in 35% of patients receiving PIQRAY plus fulvestrant.
+Serious adverse reactions in > 2% of patients receiving PIQRAY plus fulvestrant included hyperglycemia (10%), rash (3.5%), diarrhea (2.8%), acute kidney injury (2.5%), abdominal pain (2.1%), and anemia (2.1%).
+
+Osteonecrosis of the jaw (ONJ) was reported in 4.2% of patients (12/284) in the PIQRAY plus fulvestrant arm compared to 1.4% of patients (4/287) in the placebo arm.
+All patients experiencing ONJ had prior or concomitant bisphosphonates or RANK-ligand inhibitor administration.
+
+Among patients receiving PIQRAY plus fulvestrant, 4.6% permanently discontinued both PIQRAY and fulvestrant and 21% permanently discontinued PIQRAY alone, due to ARs.
+The most frequent ARs leading to treatment discontinuation of PIQRAY in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (6%), rash (4.2%), diarrhea (2.8%), and fatigue (2.5%).
+
+Dose reductions due to ARs occurred in 55% of patients receiving PIQRAY plus fulvestrant.
+The most frequent ARs leading to dose reduction in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (29%), rash (9%), diarrhea (6%), stomatitis (3.5%) and mucosal inflammation (2.1%).
+
+The most common adverse reactions including laboratory abnormalities (all grades, incidence ≥ 20%) were glucose increased, creatinine increased, diarrhea, rash, lymphocyte count decreased, GGT increased, nausea, ALT increased, fatigue, hemoglobin decreased, lipase increased, decreased appetite, stomatitis, vomiting, weight decreased, calcium decreased, glucose decreased, aPTT prolonged, and alopecia.
+
+Adverse reactions and laboratory abnormalities are listed in Table 6 and Table 7, respectively.
+
+Table 6: Adverse Reactions Occurring in ≥ 10% and ≥ 2% Higher than Placebo Arm in SOLAR-1 (All Grades)
+
+|  | PIQRAY plus fulvestrant N = 284 |  | Placebo plus fulvestrant N = 287 |  |
+| --- | --- | --- | --- | --- |
+| Adverse reactions | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
+|  | % | % | % | % |
+| Gastrointestinal disorders |  |  |  |  |
+| Diarrhea | 58 | 7* | 16 | 0.3* |
+| Nausea | 45 | 2.5* | 22 | 0.3* |
+| Stomatitis1 | 30 | 2.5* | 6 | 0* |
+| Vomiting | 27 | 0.7* | 10 | 0.3* |
+| Abdominal pain2 | 17 | 1.4* | 11 | 1* |
+| Dyspepsia | 11 | 0* | 6 | 0* |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue3 | 42 | 5* | 29 | 1* |
+| Mucosal inflammation | 19 | 2.1* | 1 | 0* |
+| Edema peripheral | 15 | 0* | 5 | 0.3* |
+| Pyrexia | 14 | 0.7 | 4.9 | 0.3* |
+| Mucosal dryness4 | 12 | 0.4* | 4.2 | 0* |
+| Infections and infestations |  |  |  |  |
+| Urinary tract infection5 | 10 | 0.7* | 5 | 1* |
+| Investigations |  |  |  |  |
+| Weight decreased | 27 | 3.9* | 2.1 | 0* |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Decreased appetite | 36 | 0.7* | 10 | 0.3* |
+| Nervous system disorders |  |  |  |  |
+| Dysgeusia6 | 18 | 0.4* | 3.5 | 0* |
+| Headache | 18 | 0.7* | 13 | 0* |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Rash7 | 52 | 20* | 7 | 0.3* |
+| Alopecia | 20 | 0* | 2.4 | 0* |
+| Pruritus | 18 | 0.7* | 6 | 0* |
+| Dry skin8 | 18 | 0.4* | 3.8 | 0* |
+| Grading according to CTCAE Version 4.03 1Stomatitis: including stomatitis, aphthous ulcer and mouth ulceration 2Abdominal pain: abdominal pain, abdominal pain upper, abdominal pain lower 3Fatigue: including fatigue, asthenia 4Mucosal dryness: including dry mouth, mucosal dryness, vulvovaginal dryness 5Urinary tract infection: including UTI and single case of urosepsis 6Dysgeusia: including dysgeusia, ageusia, hypogeusia 7Rash: including rash, rash maculo-papular, rash macular, rash generalized, rash papular, rash pruritic 8Dry skin: including dry skin, skin fissures, xerosis, xeroderma *No Grade 4 adverse reactions were reported. |  |  |  |  |
+
+Among the patients with Grade 2 or 3 rash, the median time to first onset of Grade 2 or 3 rash was 12 days.
+A subgroup of 86 patients received prophylaxis, including anti-histamines, prior to onset of rash.
+In these patients, rash was reported less frequently than in the overall population, for all grades rash (27% vs 54%), Grade 3 rash (12% vs 20%) and rash leading to permanent discontinuation of PIQRAY (3.5% vs 4.2%).
+Of the 153 patients who experienced rash, 141 had resolution of the rash.
+
+Table 7: Laboratory Abnormalities Occurring in ≥ 10% of Patients in SOLAR-1
+
+|  | PIQRAY plus fulvestrant N = 284 |  | Placebo plus fulvestrant N = 287 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Laboratory Abnormality | All Grades | Grade 3-4 | All Grades | Grade 3-4 |  |  |
+|  | % | % | % | % |  |  |
+| Hematological parameters |  |  |  |  |  |  |
+| Lymphocyte count decreased | 52 | 8 | 40 | 4.5* |  |  |
+| Hemoglobin decreased | 42 | 4.2* | 29 | 1* |  |  |
+| Activated Partial Thromboplastin Time (aPTT) prolonged | 21 | 0.7* | 16 | 0.3* |  |  |
+| Platelet count decreased | 14 | 1.1 | 6 | 0* |  |  |
+| Biochemical parameters |  |  |  |  |  |  |
+| Glucose increased1 | 79 | 39 | 34 | 1 |  |  |
+| Creatinine increased | 67 | 2.8* | 25 | 0.7* |  |  |
+| Gamma Glutamyl Transferase (GGT) increased | 52 | 11 | 44 | 10 |  |  |
+| Alanine Aminotransferase (ALT) increased | 44 | 3.5 | 34 | 2.4* |  |  |
+| Lipase increased | 42 | 7 | 25 | 6 |  |  |
+| Calcium (corrected) decreased | 27 | 2.1 | 20 | 1.4 |  |  |
+| Glucose decreased | 26 | 0.4 | 14 | 0* |  |  |
+| Potassium decreased | 14 | 6 | 2.8 | 0.7* |  |  |
+| Albumin decreased | 14 | 0* | 8 | 0* |  |  |
+| Magnesium decreased | 11 | 0.4* | 4.2 | 0* |  |  |
+| 1Glucose increase is an expected laboratory abnormality of PI3K inhibition. *No Grade 4 laboratory abnormalities were reported. |  |  |  |  |  |  |
