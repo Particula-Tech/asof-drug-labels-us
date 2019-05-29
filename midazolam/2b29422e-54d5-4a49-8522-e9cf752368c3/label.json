@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211321"
+  ],
+  "inn": "midazolam",
+  "labeler": "UCB, Inc.",
+  "package_ndcs": [
+    "50474-500-14",
+    "50474-500-15"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "midazolam",
+      "name": "Nayzilam"
+    }
+  ],
+  "setid": "2b29422e-54d5-4a49-8522-e9cf752368c3",
+  "source": "dailymed"
+}
