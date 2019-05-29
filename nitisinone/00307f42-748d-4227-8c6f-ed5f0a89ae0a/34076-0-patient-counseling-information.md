@@ -60,4 +60,6 @@ Advise patients receiving doses of greater than 20 mL of ORFADIN oral suspension
 
 Manufactured by: Apotek Produktion & Laboratorier AB, Sweden
 
-Marketed by: Sobi, Inc 890 Winter Street Waltham, MA 02451
+Marketed by: Sobi, Inc
+
+890 Winter Street Waltham, MA 02451

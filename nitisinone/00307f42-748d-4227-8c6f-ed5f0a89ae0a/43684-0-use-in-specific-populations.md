@@ -29,12 +29,12 @@ There are no data on the presence of nitisinone in human milk, the effects on th
 Data suggest that nitisinone is present in rat milk due to findings of ocular toxicity and lower body weight seen in drug naive nursing rat pups.
 The development and health benefits of breastfeeding should be considered along with the mother's clinical need for ORFADIN and any potential adverse effects on the breastfed infant from ORFADIN or from the underlying maternal condition.
 
-## 8.3 Pediatric Use
+## 8.4 Pediatric Use
 
 The safety and effectiveness of ORFADIN have been established in pediatric patients for the treatment of HT-1 in combination with dietary restriction of tyrosine and phenylalanine.
 Use of ORFADIN in pediatric patients is supported by evidence from one open-label, uncontrolled clinical study conducted in 207 patients with HT-1 ages 0 to 22 years (median age 9 months) [see Clinical Studies (14)].
 
-## 8.4 Geriatric Use
+## 8.5 Geriatric Use
 
 Clinical studies of nitisinone did not include any subjects aged 65 and over.
 No pharmacokinetic studies of nitisinone have been performed in geriatric patients.
