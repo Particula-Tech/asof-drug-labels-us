@@ -12,9 +12,7 @@ NDC 50242-333-01.
 150 mg Single-dose vial
 
 Herceptin (trastuzumab) for injection 150 mg/vial is supplied in a single-dose vial as a lyophilized sterile powder, under vacuum.
-Each carton contains one single-dose vial of Herceptin.
-
-NDC 50242-132-01.
+Available in a carton containing one single-dose vial (NDC 50242-132-01) and a carton containing 10 single-dose vials (NDC 50242-132-10).
 
 ## 16.2 Storage
 
