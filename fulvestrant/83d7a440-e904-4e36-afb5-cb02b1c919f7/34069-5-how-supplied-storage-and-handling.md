@@ -4,7 +4,10 @@ FASLODEX is supplied as two 5 mL clear neutral glass (Type 1) barrels, each cont
 
 NDC 0310–0720–10
 
-The syringes are presented in a tray with polystyrene plunger rod and safety needles (SafetyGlide™) for connection to the barrel.
+The single-dose prefilled syringes are presented in a tray with polystyrene plunger rod and safety needles (SafetyGlide™) for connection to the barrel.
+
+Discard each syringe after use.
+If a patient dose requires only one syringe, unused syringe should be stored as directed below.
 
 Storage:
 

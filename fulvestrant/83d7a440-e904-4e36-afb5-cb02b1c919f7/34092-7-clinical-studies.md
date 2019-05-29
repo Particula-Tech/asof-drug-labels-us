@@ -15,7 +15,7 @@ A randomized, double-blind, controlled clinical trial (CONFIRM, NCT00099437) was
 This trial compared the efficacy and safety of FASLODEX 500 mg (n=362) with FASLODEX 250 mg (n=374).
 
 FASLODEX 500 mg was administered as two 5 mL injections each containing FASLODEX 250 mg/5 mL, one in each buttock, on Days 1, 15, 29 and every 28 (+/- 3) days thereafter.
-FASLODEX 250 mg was administered as two 5 mL injections (one containing FASLODEX 250 mg/5 mL injection plus one placebo injection), one in each buttock, on Days 1, 15 (2 placebo injections only), 29 and every 28 (+/- 3) days thereafter.
+FASLODEX 250 mg was administered as two 5 mL injections (one containing FASLODEX 250 mg/5 mL injection plus one placebo injection), one in each buttock, on Days 1, 15 (2 placebo injections only), 29, and every 28 (+/- 3) days thereafter.
 
 The median age of study participants was 61 years.
 All patients had ER+ advanced breast cancer.
@@ -31,7 +31,7 @@ Figure 7 shows a Kaplan-Meier plot of the updated OS data.
 
 Table 12: Efficacy Results in CONFIRM (Intent-To-Treat (ITT) Population)
 
-| Endpoint | FASLODEX 500 mg (N=362) | FASLODEX 250 mg (N=374) |
+| Endpoint | FASLODEX 500 mg(N=362) | FASLODEX 250 mg(N=374) |
 | --- | --- | --- |
 | PFSPFS (Progression Free Survival)=the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.Median (months) | 6.5 | 5.4 |
 | Hazard RatioHazard Ratio <1 favors FASLODEX 500 mg. (95% CICI=Confidence Interval) | 0.80 (0.68-0.94) |  |
@@ -48,7 +48,7 @@ Figure 7 Kaplan-Meier OS (Minimum Follow-up Duration of 50 Months): CONFIRM ITT 
 Comparison of FASLODEX 500 mg and Anastrozole 1 mg (FALCON)
 
 A randomized, double-blind, double-dummy, multi-center study (FALCON, NCT01602380) of FASLODEX 500 mg versus anastrozole 1 mg was conducted in postmenopausal women with ER-positive and/or PgR-positive, HER2-negative locally advanced or metastatic breast cancer who had not previously been treated with any hormonal therapy.
-A total of 462 patients were randomized 1:1 to receive administration of FASLODEX 500 mg as an intramuscular injection on Days 1, 15, 29 and every 28 (+/- 3) days thereafter or daily administration of 1 mg of anastrozole orally.
+A total of 462 patients were randomized 1:1 to receive administration of FASLODEX 500 mg as an intramuscular injection on Days 1, 15, 29, and every 28 (+/- 3) days thereafter or daily administration of 1 mg of anastrozole orally.
 This study compared the efficacy and safety of FASLODEX 500 mg and anastrozole 1 mg.
 
 Randomization was stratified by disease setting (locally advanced or metastatic), use of prior chemotherapy for advanced disease, and presence or absence of measurable disease.
@@ -91,14 +91,14 @@ All patients had progressed after previous therapy with an antiestrogen or proge
 
 The median age of study participants was 64 years.
 81.6% of patients had ER+ and/or PgR+ tumors.
-Patients with ER- /PgR- or unknown tumors were required to have demonstrated a prior response to endocrine therapy.
+Patients with ER-/PgR- or unknown tumors were required to have demonstrated a prior response to endocrine therapy.
 Sites of metastases occurred as follows: visceral only 18.2%; viscera – liver involvement 23.0%; lung involvement 28.1%; bone only 19.7%; soft tissue only 5.2%; skin and soft tissue 18.7%.
 
 In both trials, eligible patients with measurable and/or evaluable disease were randomized to receive either FASLODEX 250 mg intramuscularly once a month (28 days + 3 days) or anastrozole 1 mg orally once a day.
 All patients were assessed monthly for the first three months and every three months thereafter.
 Study 0021 was a double-blind, randomized trial in 400 postmenopausal women.
 Study 0020 was an open-label, randomized trial conducted in 451 postmenopausal women.
-Patients on the FASLODEX arm of Study 0021 received two separate injections (2 X 2.5 mL), whereas FASLODEX patients received a single injection (1 X 5 mL) in Study 0020.
+Patients on the FASLODEX arm of Study 0021 received two separate injections (2 x 2.5 mL), whereas FASLODEX patients received a single injection (1 x 5 mL) in Study 0020.
 In both trials, patients were initially randomized to a 125 mg per month dose as well, but interim analysis showed a very low response rate, and low dose groups were dropped.
 
 Results of the trials, after a minimum follow-up duration of 14.6 months, are summarized in Table 14.
@@ -112,14 +112,14 @@ Table 14: Efficacy Results in Studies 0020 and 0021 (Objective Response Rate (OR
 | --- | --- | --- | --- | --- |
 |  | Study 0021 (Double-Blind) |  | Study 0020 (Open-Label) |  |
 |  | FASLODEX | Anastrozole | FASLODEX | Anastrozole |
-| Objective Tumor ResponseNumber (%) of subjectswith CRCR=Complete Response + PRPR=Partial Response | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
-| % Difference in TumorResponse Rate(FASFAS=FASLODEX-ANAANA=anastrozole)2–sided 95.4% CICI=Confidence Interval | 0.0(-6.3, 8.9) |  | 5.4(-1.4, 14.8) |  |
+| Objective Tumor Response Number (%) of subjects with CRCR=Complete Response + PRPR=Partial Response | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
+| % Difference in TumorResponse Rate(FASFAS=FASLODEXANA=anastrozole)2-sided 95.4% CICI=Confidence Interval | 0.0(-6.3, 8.9) |  | 5.4(-1.4, 14.8) |  |
 | Time to Progression (TTP)Median TTP (days) | 165 | 103 | 166 | 156 |
-| Hazard RatioHazard Ratio <1 favors FASLODEX2-sided 95.4% CI | 0.9(0.7, 1.1) |  | 1.0(0.8, 1.2) |  |
+| Hazard RatioHazard Ratio <1 favors FASLODEX2-sided 95.4% CI | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
 | Stable Disease for ≥24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
-| Died n (%) Median Survival (days) | 152 (73.8%)844 | 149 (76.8%)913 | 167 (75.2%)803 | 173 (75.5%)736 |
-| Hazard Ratio(2-sided 95% CI) | 0.98(0.78, 1.24) |  | 0.97(0.78, 1.21) |  |
+| Died n (%)Median Survival (days) | 152 (73.8%)844 | 149 (76.8%)913 | 167 (75.2%)803 | 173 (75.5%)736 |
+| Hazard Ratio(2-sided 95% CI) | 0.98 (0.78, 1.24) |  | 0.97 (0.78, 1.21) |  |
 
 Combination Therapy
 
@@ -131,7 +131,7 @@ PALOMA-3 (NCT-1942135) was an international, randomized, double-blind, parallel 
 
 A total of 521 pre/postmenopausal women were randomized 2:1 to FASLODEX plus palbociclib or FASLODEX plus placebo and stratified by documented sensitivity to prior hormonal therapy, menopausal status at study entry (pre/peri versus postmenopausal), and presence of visceral metastases.
 Palbociclib was given orally at a dose of 125 mg daily for 21 consecutive days followed by 7 days off treatment.
-Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5 mL, one in each buttock, on Days 1, 15, 29 and every 28 (+/- 3) days thereafter.
+Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5 mL, one in each buttock, on Days 1, 15, 29, and every 28 (+/- 3) days thereafter.
 Pre/perimenopausal women were enrolled in the study and received the LHRH agonist goserelin for at least 4 weeks prior to and for the duration of PALOMA-3.
 
 Patients continued to receive assigned treatment until objective disease progression, symptomatic deterioration, unacceptable toxicity, death, or withdrawal of consent, whichever occurred first.
@@ -157,7 +157,7 @@ Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 | Hazard Ratio (95% CI) and p-value | 0.461 (0.360-0.591) p <0.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=267 | N=138 |
 | Objective response rateResponse based on confirmed responses. (%, 95% CI) | 24.6 (19.6-30.2) | 10.9 (6.2-17.3) |
-| N=number of patients; CI=confidence interval; ITT=Intent-to-Treat. |  |  |
+| N=number of patients; CI=confidence interval; ITT=Intent-to-Treat |  |  |
 
 Figure 9 Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) – PALOMA-3
 
@@ -200,7 +200,7 @@ Postmenopausal women with HR-positive, HER2-negative advanced or metastatic brea
 
 FASLODEX 500 mg in Combination with Ribociclib 600 mg (MONALEESA-3)
 
-MONALEESA-3 (NCT02422615) was a randomized double-blind, placebo-controlled study of FASLODEX plus ribociclib versus FASLODEX plus placebo conducted in postmenopausal women with hormone receptor positive, HER2-negative, advanced breast cancer who have received no or only one line of prior endocrine treatment.
+MONALEESA-3 (NCT 02422615) was a randomized double-blind, placebo-controlled study of FASLODEX plus ribociclib versus FASLODEX plus placebo conducted in postmenopausal women with hormone receptor positive, HER2-negative, advanced breast cancer who have received no or only one line of prior endocrine treatment.
 
 A total of 726 patients were randomized in a 2:1 ratio to receive FASLODEX plus ribociclib or FASLODEX plus placebo and stratified according to the presence of liver and/or lung metastases and prior endocrine therapy for advanced or metastatic disease.
 Fulvestrant 500 mg was administered intramuscularly on Days 1, 15, 29, and once monthly thereafter, with either ribociclib 600 mg or placebo given orally once daily for 21 consecutive days followed by 7 days off until disease progression or unacceptable toxicity.
@@ -229,6 +229,6 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 | Hazard Ratio (95% CI) | 0.593 (0.480 to 0.732) |  |
 | p-valuep-value is obtained from the one-sided log-rank | <0.0001 |  |
 | Overall Response RateBased on confirmed responses | N=379 | N=181 |
-| Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
+| Patients with measurable disease (95% CI) | 40.9(35.9, 45.8) | 28.7(22.1, 35.3) |
 
 Figure 11 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
