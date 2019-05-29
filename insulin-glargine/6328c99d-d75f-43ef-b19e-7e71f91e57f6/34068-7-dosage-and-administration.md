@@ -36,7 +36,7 @@ Type 2 Diabetes
 
 ## 2.4 Changing to LANTUS from Other Insulin Therapies
 
-- If changing patients from once-daily TOUJEO (insulin glargine) 300 Units/mL to once-daily LANTUS, the recommended initial LANTUS dose is 80% of the TOUJEO dose that is being discontinued.
+- If changing patients from once-daily TOUJEO (insulin glargine) 300 units/mL to once-daily LANTUS, the recommended initial LANTUS dose is 80% of the TOUJEO dose that is being discontinued.
   This dose reduction will lower the likelihood of hypoglycemia [see Warnings and Precautions (5.3)].
 - If changing from a treatment regimen with an intermediate or long-acting insulin to a regimen with LANTUS, a change in the dose of the basal insulin may be required and the amount and timing of the shorter-acting insulins and doses of any oral antidiabetic drugs may be needed to be adjusted.
 - If changing patients from once-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dose is the same as the dose of NPH that is being discontinued.

@@ -4,7 +4,7 @@ The following adverse reactions are discussed elsewhere:
 
 - Hypoglycemia [see Warnings and Precautions (5.3)]
 - Hypersensitivity and allergic reactions [see Warnings and Precautions (5.5)]
-- Hypokalemia [see Warnings and Precautions (5.6)].
+- Hypokalemia [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -12,12 +12,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data in Table 1 reflect the exposure of 2327 patients with type 1 diabetes to LANTUS or NPH.
 The type 1 diabetes population had the following characteristics: Mean age was 38.5 years.
-Fifty four percent were male, 96.9% were Caucasian, 1.8 % were Black or African American and 2.7 % were Hispanic.
+Fifty four percent were male, 96.9% were Caucasian, 1.8% were Black or African American and 2.7% were Hispanic.
 The mean BMI was 25.1 kg/m2.
 
 The data in Table 2 reflect the exposure of 1563 patients with type 2 diabetes to LANTUS or NPH.
 The type 2 diabetes population had the following characteristics: Mean age was 59.3 years.
-Fifty eight percent were male, 86.7% were Caucasian, 7.8 % were Black or African American and 9 % were Hispanic.
+Fifty eight percent were male, 86.7% were Caucasian, 7.8% were Black or African American and 9% were Hispanic.
 The mean BMI was 29.2 kg/m2.
 
 The frequencies of adverse events during LANTUS clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below.
@@ -39,7 +39,7 @@ Table 2: Adverse Events in Pooled Clinical Trials up to 1 Year Duration in Adult
 | InfectionBody system not specified | 10.4 | 11.6 |
 | Retinal vascular disorder | 5.8 | 7.4 |
 
-Table 3: Adverse Events in a 5-year Trial of Adults with Type 2 Diabetes (adverse events with frequency ≥10%)
+Table 3: Adverse Events in a 5 Year Trial of Adults with Type 2 Diabetes (adverse events with frequency ≥10%)
 
 |  | LANTUS, % (n=514) | NPH, % (n=503) |
 | --- | --- | --- |
@@ -91,9 +91,9 @@ Table 6: Severe Symptomatic Hypoglycemia in Patients with Type 2 Diabetes
 |  | Study E Type 2 Diabetes Adults 52 weeks In combination with oral agents |  | Study F Type 2 Diabetes Adults 28 weeks In combination with regular insulin |  | Study G Type 2 Diabetes Adults 5 years In combination with regular insulin |  |
 | Percent of patients | 1.7 | 1.1 | 0.4 | 2.3 | 7.8 | 11.9 |
 
-Table 7 displays the proportion of patients experiencing severe symptomatic hypoglycemia in the Lantus and Standard Care groups in the ORIGIN Trial [see Clinical Studies (14)].
+Table 7 displays the proportion of patients experiencing severe symptomatic hypoglycemia in the LANTUS and Standard Care groups in the ORIGIN Trial [see Clinical Studies (14)].
 
-Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN trial
+Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN Trial
 
 |  | LANTUS N=6231 | Standard Care N=6273 |
 | --- | --- | --- |

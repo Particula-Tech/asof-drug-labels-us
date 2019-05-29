@@ -2,28 +2,48 @@
 
 ## 8.1 Pregnancy
 
-There are no well-controlled clinical studies of the use of LANTUS in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary
 
-All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
-This background risk is increased in pregnancies complicated by hyperglycemia and may be decreased with good metabolic control.
-It is essential for patients with diabetes or history of gestational diabetes to maintain good metabolic control before conception and throughout pregnancy.
-In patients with diabetes or gestational diabetes, insulin requirements may decrease during the first trimester, generally increase during the second trimester, and rapidly decline after delivery.
-Careful monitoring of glucose control is essential in these patients.
-Therefore, female patients should be advised to tell their physicians if they intend to become, or if they become pregnant while taking LANTUS.
+Published studies with use of insulin glargine during pregnancy have not reported a clear association with insulin glargine and adverse developmental outcomes (see Data).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+
+Rats and rabbits were exposed to insulin glargine in animal reproduction studies during organogenesis, respectively 50 times and 10 times the human subcutaneous dose of 0.2 units/kg/day.
+Overall, the effects of insulin glargine did not generally differ from those observed with regular human insulin (see Data).
+
+The estimated background risk of major birth defects is 6% to 10% in women with pregestational diabetes with an HbA1c >7 and has been reported to be as high as 20% to 25% in women with a HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo-fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia-related morbidity.
+
+Data
+
+Human data
+
+Published data do not report a clear association with insulin glargine and major birth defects, miscarriage, or adverse maternal or fetal outcomes when insulin glargine is used during pregnancy.
+However, these studies cannot definitely establish the absence of any risk because of methodological limitations including small sample size and some lacking comparator groups.
+
+Animal data
 
 Subcutaneous reproduction and teratology studies have been performed with insulin glargine and regular human insulin in rats and Himalayan rabbits.
-Insulin glargine was given to female rats before mating, during mating, and throughout pregnancy at doses up to 0.36 mg/kg/day, which is approximately 7 times the recommended human subcutaneous starting dose of 10 Units/day (0.008 mg/kg/day), based on mg/m2.
-In rabbits, doses of 0.072 mg/kg/day, which is approximately 2 times the recommended human subcutaneous starting dose of 10 Units/day (0.008 mg/kg/day), based on mg/m2, were administered during organogenesis.
+Insulin glargine was given to female rats before mating, during mating, and throughout pregnancy at doses up to 0.36 mg/kg/day, which is approximately 50 times the recommended human subcutaneous starting dose of 0.2 units/kg/day (0.007 mg/kg/day), on a mg/kg basis.
+In rabbits, doses of 0.072 mg/kg/day, which is approximately 10 times the recommended human subcutaneous starting dose of 0.2 units/kg/day on a mg/kg basis, were administered during organogenesis.
 The effects of insulin glargine did not generally differ from those observed with regular human insulin in rats or rabbits.
 However, in rabbits, five fetuses from two litters of the high-dose group exhibited dilation of the cerebral ventricles.
 Fertility and early embryonic development appeared normal.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Endogenous insulin is present in human milk; it is unknown whether insulin glargine is excreted in human milk.
-Because many drugs, including human insulin, are excreted in human milk, caution should be exercised when LANTUS is administered to a nursing woman.
-Use of LANTUS is compatible with breastfeeding, but women with diabetes who are lactating may require adjustments of their insulin doses.
+Risk Summary
+
+There are either no or only limited data on the presence of insulin glargine in human milk, the effects on breastfed infant, or the effects on milk production.
+Endogenous insulin is present in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for LANTUS, and any potential adverse effects on the breastfed child from LANTUS or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

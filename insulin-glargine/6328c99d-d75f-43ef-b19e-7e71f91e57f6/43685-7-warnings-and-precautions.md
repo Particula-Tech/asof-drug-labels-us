@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a LANTUS SoloStar Prefilled Pen, Syringe, or Needle between Patients
+## 5.1 Never Share a LANTUS SoloStar Prefilled Pen, Syringe, or Needle Between Patients
 
 LANTUS SoloStar prefilled pens must never be shared between patients, even if the needle is changed.
 Patients using LANTUS vials must never re-use or share needles or syringes with another person.
