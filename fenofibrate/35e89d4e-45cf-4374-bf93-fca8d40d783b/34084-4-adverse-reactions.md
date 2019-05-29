@@ -37,5 +37,5 @@ Urticaria was seen in 1.1 vs. 0% and rash in 1.4 vs. 0.8% of fenofibrate and pla
 The following adverse reactions have been identified during post approval use of fenofibrate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasms, hepatitis, cirrhosis, anemia, arthralgia, decreases in hematocrit, white blood cell decreases, asthenia, and severely depressed HDL cholesterol levels.
+myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasms, hepatitis, cirrhosis, anemia, arthralgia, decreases in hematocrit, white blood cell decreases, asthenia, severely depressed HDL cholesterol levels, and interstitial lung disease.
 Photosensitivity reactions have occurred days to months after initiation; in some of these cases, patients reported a prior photosensitivity reaction to ketoprofen.
