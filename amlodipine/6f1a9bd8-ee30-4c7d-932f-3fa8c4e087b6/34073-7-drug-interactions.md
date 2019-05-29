@@ -32,7 +32,7 @@ Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is rec
 
 Atorvastatin
 
-The risk of myopathy during treatment with statins is increased with concurrent administration of fibric acid derivatives, lipid-modifying doses of niacin, cyclosporine, or strong CYP3A4 inhibitors (e.g., clarithromycin, HIV protease inhibitors, and itraconazole) [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+The risk of myopathy during treatment with statins is increased with concurrent administration of fibric acid derivatives, lipid-modifying doses of niacin, cyclosporine, or strong CYP3A4 inhibitors (e.g., clarithromycin, HIV and HCV protease inhibitors, and itraconazole) [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.3 Strong Inhibitors of CYP3A4
 
@@ -43,11 +43,11 @@ The extent of interaction and potentiation of effects depend on the variability 
 Clarithromycin: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 80 mg with clarithromycin (500 mg twice daily) compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
 Therefore, in patients taking clarithromycin, avoid atorvastatin doses >20 mg [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
-Combination of Protease Inhibitors: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin with several combinations of HIV protease inhibitors, as well as with the hepatitis C protease inhibitor telaprevir, compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
-Therefore, in patients taking the HIV protease inhibitor tipranavir plus ritonavir, or the hepatitis C protease inhibitor telaprevir, concomitant use of atorvastatin should be avoided.
-In patients taking the HIV protease inhibitor lopinavir plus ritonavir, caution should be used when prescribing atorvastatin and the lowest dose necessary should be used.
-In patients taking the HIV protease inhibitors saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, the dose of atorvastatin should not exceed 20 mg [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
-In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, the dose of atorvastatin should not exceed 40 mg and close clinical monitoring is recommended.
+Combination of Protease Inhibitors: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin with several combinations of protease inhibitors [see Clinical Pharmacology (12.3)].
+In patients taking tipranavir plus ritonavir or glecaprevir plus pibrentasvir, concomitant use of atorvastatin should be avoided.
+In patients taking lopinavir plus ritonavir or simeprevir, use the lowest necessary atorvastatin dose.
+In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, or elbasvir plus grazoprevir, the dose of atorvastatin should not exceed 20 mg.
+In patients taking nelfinavir, the dose of atorvastatin should not exceed 40 mg and close clinical monitoring is recommended [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
 Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg and itraconazole 200 mg [see Clinical Pharmacology (12.3)].
 Therefore, in patients taking itraconazole, avoid atorvastatin doses >20 mg [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
@@ -56,12 +56,21 @@ Therefore, in patients taking itraconazole, avoid atorvastatin doses >20 mg [see
 
 Contains one or more components that inhibit CYP3A4 and can increase plasma concentrations of atorvastatin, especially with excessive grapefruit juice consumption (> 1.2 liters per day).
 
-## 7.5 Cyclosporine
+## 7.5 Transporter Inhibitors
 
-Atorvastatin and atorvastatin-metabolites are substrates of the OATP1B1 transporter.
-Inhibitors of the OATP1B1 (e.g., cyclosporine) can increase the bioavailability of atorvastatin.
+Atorvastatin is a substrate of the hepatic transporters.
+Atorvastatin-metabolites are substrates of the OATP1B1 transporter [see Clinical Pharmacology (12.3)].
+
+Cyclosporine: Inhibitors of the OATP1B1 (e.g., cyclosporine) can increase the bioavailability of atorvastatin.
 Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 10 mg and cyclosporine 5.2 mg/kg/day compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
+
 The co-administration of atorvastatin with cyclosporine should be avoided [see Warnings and Precautions (5.1)].
+
+Concomitant administration of glecaprevir and pibrentasvir or elbasvir and grazoprevir may lead to increased plasma concentrations of atorvastatin and an increased risk of myopathy.
+
+Coadministration of glecaprevir and pibrentasvir with atorvastatin increase plasma concentrations of atorvastatin by 8.3-fold due in part to BCRP, OATP1B1/1B3, and CYP3A inhibition; therefore, coadministration of atorvastatin in patients receiving concomitant medications with products containing glecaprevir and pibrentasvir is not recommended.
+
+Coadministration of elbasvir and grazoprevir with atorvastatin increase plasma concentrations of atorvastatin by 1.9-fold due in part to BCRP, OATP1B1/1B3, and CYP3A inhibition; therefore, the dose of atorvastatin should not exceed 20 mg daily in patients receiving concomitant medications with products containing elbasvir and grazoprevir [see Dosage and Administration (2), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 7.6 Gemfibrozil
 

@@ -47,10 +47,11 @@ Monitor for signs of myopathy in patients receiving the combination of HMG-CoA r
 
 Patients with Renal Impairment: Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin; thus, dosage adjustment in patients with renal dysfunction is not necessary [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
-Use with Cyclosporine, Clarithromycin, Itraconazole, or Certain Protease Inhibitors: In patients taking cyclosporine or the HIV protease inhibitors (tipranavir plus ritonavir) or the hepatitis C protease inhibitor (telaprevir), avoid therapy with atorvastatin.
-In patients with HIV taking lopinavir plus ritonavir, use the lowest necessary dose of atorvastatin.
-In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, limit therapy with atorvastatin to 20 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed.
-In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, limit therapy with atorvastatin to 40 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed [see Warnings and Precautions (5.1), Drug Interactions (7)].
+Use with Cyclosporine, Clarithromycin, Itraconazole, or Certain Protease Inhibitors: In patients taking cyclosporine or the human immunodeficiency virus (HIV) protease inhibitor tipranavir plus ritonavir or the hepatitis C virus (HCV) protease inhibitor glecaprevir plus pibrentasvir, therapy with atorvastatin should be avoided.
+In patients with HIV taking lopinavir plus ritonavir, use the lowest dose necessary of atorvastatin.
+In patients taking clarithromycin, itraconazole, elbasvir plus grazoprevir, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, therapy with atorvastatin should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is used.
+In patients taking the HIV protease inhibitor nelfinavir therapy with atorvastatin should be limited to 40 mg.
+When co-prescribing atorvastatin with other protease inhibitors, appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is used [see Warnings and Precautions (5.1), Drug Interactions (7)].
 
 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 Years to 17 Years of Age): The recommended starting dose of atorvastatin is 10 mg/day; the usual dose range is 10 to 20 mg orally once daily [see Clinical Studies (14.11)].
 Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.4) and Clinical Pharmacology (12)].

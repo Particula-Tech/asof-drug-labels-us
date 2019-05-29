@@ -172,37 +172,44 @@ However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may inc
 
 Atorvastatin:
 
+Atorvastatin is a substrate of the hepatic transporters, OATP1B1 and OATP1B3 transporter.
+Metabolites of atorvastatin are substrates of OATP1B1.
+Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
+
 Table 4 shows effects of other drugs on the pharmacokinetics of atorvastatin.
 
 Table 4.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
-|  | Dose (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin versus atorvastatin alone). | Ratio of Cmax |
+|  | Dose (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin vs atorvastatin alone). | Ratio of Cmax |
 | --- | --- | --- | --- |
 | Co-administered drug and dosing regimen | Atorvastatin |  |  |
-| See Sections 5.1 and 7 for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | 8.69 | 10.66 |
-| Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | 10 mg, SD | 9.36 | 8.58 |
-| Telaprevir 750 mg q8h, 10 days | 20 mg, SD | 7.88 | 10.60 |
-| , The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.Saquinavir 400 mg BID/ritonavir 400mg BID, 15 days | 40 mg QD for 4 days | 3.93 | 4.31 |
+| See Sections 5.1 and 7 for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDOnce daily for 28 days | 8.69 | 10.66 |
+| Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 10 mg SDSingle dose | 9.36 | 8.58 |
+| Glecaprevir 400 mg QD/pibrentasvir 120 mg QD, 7 days | 10 mg QD for 7 days | 8.28 | 22.00 |
+| Telaprevir 750 mg q8hEvery 8 hours, 10 days | 20 mg SD | 7.88 | 10.60 |
+| , The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.Saquinavir 400 mg BID/ritonavir 400 mg BID, 15 days | 40 mg QD for 4 days | 3.93 | 4.31 |
+| Elbasvir 50 mg QD/grazoprevir 200 mg QD, 13 days | 10 mg SD | 1.95 | 4.34 |
+| Simeprevir 150 mg QD, 10 days | 40 mg SD | 2.12 | 1.70 |
 | Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | 4.54 | 5.38 |
 | Darunavir 300 mg BID/ritonavir 100 mg BID, 9 days | 10 mg QD for 4 days | 3.45 | 2.25 |
 | Itraconazole 200 mg QD, 4 days | 40 mg SD | 3.32 | 1.20 |
 | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 10 mg QD for 4 days | 2.53 | 2.84 |
 | Fosamprenavir 1400 mg BID, 14 days | 10 mg QD for 4 days | 2.30 | 4.04 |
 | Nelfinavir 1250 mg BID, 14 days | 10 mg QD for 28 days | 1.74 | 2.22 |
-| Grapefruit Juice, 240 mL QDGreater increases in AUC (ratio of AUC up to 2.5) and/or Cmax (ratio of Cmax up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL – 1.2 liters per day). | 40 mg, SD | 1.37 | 1.16 |
-| Diltiazem 240 mg QD, 28 days | 40 mg, SD | 1.51 | 1.00 |
-| Erythromycin 500 mg QID, 7 days | 10 mg, SD | 1.33 | 1.38 |
-| Amlodipine 10 mg, single dose | 80 mg, SD | 1.18 | 0.91 |
+| Grapefruit Juice, 240 mL QD,Greater increases in AUC (ratio of AUC up to 2.5) and/or Cmax (ratio of Cmax up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL – 1.2 liters per day). | 40 mg SD | 1.37 | 1.16 |
+| Diltiazem 240 mg QD, 28 days | 40 mg SD | 1.51 | 1.00 |
+| Erythromycin 500 mg QIDFour times daily, 7 days | 10 mg SD | 1.33 | 1.38 |
+| Amlodipine 10 mg, single dose | 80 mg SD | 1.18 | 0.91 |
 | Cimetidine 300 mg QID, 2 weeks | 10 mg QD for 2 weeks | 1.00 | 0.89 |
 | Colestipol 10 g BID, 24 weeks | 40 mg QD for 8 weeks | NA | 0.74Ratio based on a single sample taken 8–16 h post dose. |
-| Maalox TC® 30 mL QD, 17 days | 10 mg QD for 15 days | 0.66 | 0.67 |
-| Efavirenz 600 mg QD, 14 days | 10 mg for 3 days | 0.59 | 10.1 |
+| Maalox TC® 30 mL QID, 17 days | 10 mg QD for 15 days | 0.66 | 0.67 |
+| Efavirenz 600 mg QD, 14 days | 10 mg for 3 days | 0.59 | 1.01 |
 | Rifampin 600 mg QD, 7 days (co-administered)Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. | 40 mg SD | 1.12 | 2.90 |
 | Rifampin 600 mg QD, 5 days (doses separated) | 40 mg SD | 0.20 | 0.60 |
 | Gemfibrozil 600 mg BID, 7 days | 40 mg SD | 1.35 | 1.00 |
 | Fenofibrate 160 mg QD, 7 days | 40 mg SD | 1.03 | 1.02 |
-| Boceprevir 800 mg TID, 7 days | 40 mg SD | 2.32 | 2.66 |
+| Boceprevir 800 mg TIDThree times daily, 7 days | 40 mg SD | 2.32 | 2.66 |
 
 Effects of CADUET on Other Drugs
 
@@ -231,10 +238,10 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 |  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
 | --- | --- | --- | --- |
 | Atorvastatin | Co-administered drug and dosing regimen |  |  |
-| 80 mg QD for 15 days | Antipyrine, 600 mg SD | 1.03 | 0.89 |
+| 80 mg QDOnce daily for 15 days | Antipyrine, 600 mg SDSingle dose | 1.03 | 0.89 |
 | 80 mg QD for 10 days | See Section 7 for clinical significance. Digoxin 0.25 mg QD, 20 days | 1.15 | 1.20 |
 | 40 mg QD for 22 days | Oral contraceptive QD, 2 months |  |  |
 | – norethindrone 1 mg – ethinyl estradiol 35 µg | 1.28 1.19 | 1.23 1.30 |  |
-| 10 mg, SD | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | 1.08 | 0.96 |
+| 10 mg SD | Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 1.08 | 0.96 |
 | 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | 0.73 | 0.82 |
 | 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 0.99 | 0.94 |
