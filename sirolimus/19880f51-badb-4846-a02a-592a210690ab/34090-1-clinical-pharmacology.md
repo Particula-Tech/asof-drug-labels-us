@@ -45,15 +45,15 @@ A loading dose of 3 times the maintenance dose will provide near steady-state co
 
 Absorption
 
-Following administration of sirolimus oral solution, the mean times to peak concentration (tmax) of sirolimus are approximately 1 hour and 2 hours in healthy subjects and renal transplant patients, respectively.
-The systemic availability of sirolimus is low, and was estimated to be approximately 14% after the administration of sirolimus oral solution.
+Following administration of Sirolimus Oral Solution, the mean times to peak concentration (tmax) of sirolimus are approximately 1 hour and 2 hours in healthy subjects and renal transplant patients, respectively.
+The systemic availability of sirolimus is low, and was estimated to be approximately 14% after the administration of Sirolimus Oral Solution.
 In healthy subjects, the mean bioavailability of sirolimus after administration of the tablet is approximately 27% higher relative to the solution.
 Sirolimus tablets are not bioequivalent to the solution; however, clinical equivalence has been demonstrated at the 2 mg dose level.
-Sirolimus concentrations, following the administration of sirolimus oral solution to stable renal transplant patients, are dose-proportional between 3 and 12 mg/m2.
+Sirolimus concentrations, following the administration of Sirolimus Oral Solution to stable renal transplant patients, are dose-proportional between 3 and 12 mg/m2.
 
 Food Effects
 
-To minimize variability in sirolimus concentrations, both sirolimus oral solution should be taken consistently with or without food [see Dosage and Administration (2)].
+To minimize variability in sirolimus concentrations, Sirolimus Oral Solution should be taken consistently with or without food [see Dosage and Administration (2)].
 In healthy subjects, a high-fat meal (861.8 kcal, 54.9% kcal from fat) increased the mean total exposure (AUC) of sirolimus by 23 to 35%, compared with fasting.
 The effect of food on the mean sirolimus Cmax was inconsistent depending on the sirolimus dosage form evaluated.
 
@@ -76,7 +76,7 @@ Sirolimus is the major component in human whole blood and contributes to more th
 
 Excretion
 
-After a single dose of [14C] sirolimus oral solution in healthy volunteers, the majority (91%) of radioactivity was recovered from the feces, and only a minor amount (2.2%) was excreted in urine.
+After a single dose of [14C] Sirolimus Oral Solution in healthy volunteers, the majority (91%) of radioactivity was recovered from the feces, and only a minor amount (2.2%) was excreted in urine.
 The mean ± SD terminal elimination half life (t½) of sirolimus after multiple dosing in stable renal transplant patients was estimated to be about 62 ± 16 hours.
 
 Sirolimus Concentrations (Chromatographic Equivalent) Observed in Phase 3 Clinical Studies
@@ -95,7 +95,7 @@ The following sirolimus concentrations (chromatographic equivalent) were observe
 | aMonths 4 through 12bUp to Week 2; observed CsA Cmin was 217 (56 – 432) ng/mLcWeek 2 to Week 26; observed CsA Cmin range was 174 (71 – 288) ng/mLdWeek 26 to Week 52; observed CsA Cmin was 136 (54.5 – 218) ng/mL |  |  |  |  |  |
 
 The withdrawal of cyclosporine and concurrent increases in sirolimus trough concentrations to steady-state required approximately 6 weeks.
-Following cyclosporine withdrawal, larger Sirolimus doses were required due to the absence of the inhibition of sirolimus metabolism and transport by cyclosporine and to achieve higher target sirolimus trough concentrations during concentration-controlled administration [see Dosage and Administration (2.1), Drug Interactions (7.1)].
+Following cyclosporine withdrawal, larger sirolimus doses were required due to the absence of the inhibition of sirolimus metabolism and transport by cyclosporine and to achieve higher target sirolimus trough concentrations during concentration-controlled administration [see Dosage and Administration (2.1), Drug Interactions (7.1)].
 
 Pharmacokinetics in Specific Populations
 
@@ -142,7 +142,7 @@ Table 7 below summarizes pharmacokinetic data obtained in pediatric dialysis pat
 Geriatric
 
 Clinical studies of sirolimus did not include a sufficient number of patients > 65 years of age to determine whether they will respond differently than younger patients.
-After the administration of sirolimus oral solution, sirolimus trough concentration data in renal transplant patients > 65 years of age were similar to those in the adult population 18 to 65 years of age.
+After the administration of Sirolimus Oral Solution, sirolimus trough concentration data in renal transplant patients > 65 years of age were similar to those in the adult population 18 to 65 years of age.
 
 Gender
 
@@ -175,7 +175,7 @@ In a single-dose cross-over drug-drug interaction study, 33 healthy volunteers r
 When given 2 hours before Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]) administration, sirolimus Cmax and AUC were comparable to those with administration of sirolimus alone.
 However, when given 2 hours after, the mean Cmax and AUC of sirolimus were increased by 126% and 141%, respectively, relative to administration of sirolimus alone.
 
-Mean cyclosporine Cmax and AUC were not significantly affected when sirolimus oral solution was given simultaneously or when administered 4 hours after Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
+Mean cyclosporine Cmax and AUC were not significantly affected when Sirolimus Oral Solution was given simultaneously or when administered 4 hours after Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
 However, after multiple-dose administration of sirolimus given 4 hours after Neoral® in renal post-transplant patients over 6 months, cyclosporine oral-dose clearance was reduced, and lower doses of Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]) were needed to maintain target cyclosporine concentration.
 
 In a multiple-dose study in 150 psoriasis patients, sirolimus 0.5, 1.5, and 3 mg/m2/day was administered simultaneously with Sandimmune® Oral Solution (cyclosporine Oral Solution) 1.25 mg/kg/day.
@@ -185,25 +185,25 @@ There was no significant effect of multiple-dose sirolimus on cyclosporine troug
 However, the % CV was higher (range 85.9% - 165%) than those from previous studies.
 
 Diltiazem: Diltiazem is a substrate and inhibitor of CYP3A4 and P-gp; sirolimus concentrations should be monitored and a dose adjustment may be necessary [see Drug Interactions (7.4)].
-The simultaneous oral administration of 10 mg of sirolimus oral solution and 120 mg of diltiazem to 18 healthy volunteers significantly affected the bioavailability of sirolimus.
+The simultaneous oral administration of 10 mg of Sirolimus Oral Solution and 120 mg of diltiazem to 18 healthy volunteers significantly affected the bioavailability of sirolimus.
 Sirolimus Cmax, tmax, and AUC were increased 1.4-, 1.3-, and 1.6-fold, respectively.
 Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem.
 
-Erythromycin: Erythromycin is a substrate and inhibitor of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and erythromycin is not recommended [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
-The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 800 mg q 8h of erythromycin as erythromycin ethylsuccinate tablets at steady state to 24 healthy volunteers significantly affected the bioavailability of sirolimus and erythromycin.
+Erythromycin: Erythromycin is a substrate and inhibitor of CYP3A4 and P-gp; co-administration of Sirolimus Oral Solution or tablets and erythromycin is not recommended [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
+The simultaneous oral administration of 2 mg daily of Sirolimus Oral Solution and 800 mg q 8h of erythromycin as erythromycin ethylsuccinate tablets at steady state to 24 healthy volunteers significantly affected the bioavailability of sirolimus and erythromycin.
 Sirolimus Cmax and AUC were increased 4.4- and 4.2-fold respectively and tmax was increased by 0.4 hr. Erythromycin Cmax and AUC were increased 1.6- and 1.7-fold, respectively, and tmax was increased by 0.3 hr.
 
-Ketoconazole: Ketoconazole is a strong inhibitor of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and ketoconazole is not recommended [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
-Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure after administration of sirolimus oral solution, as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 38%, and 10.9-fold, respectively.
+Ketoconazole: Ketoconazole is a strong inhibitor of CYP3A4 and P-gp; co-administration of Sirolimus Oral Solution or tablets and ketoconazole is not recommended [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
+Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure after administration of Sirolimus Oral Solution, as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 38%, and 10.9-fold, respectively.
 However, the terminal t½ of sirolimus was not changed.
 Single-dose sirolimus did not affect steady-state 12-hour plasma ketoconazole concentrations.
 
-Rifampin: Rifampin is a strong inducer of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and rifampin is not recommended.
+Rifampin: Rifampin is a strong inducer of CYP3A4 and P-gp; co-administration of Sirolimus Oral Solution or tablets and rifampin is not recommended.
 In patients where rifampin is indicated, alternative therapeutic agents with less enzyme induction potential should be considered [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
-Pretreatment of 14 healthy volunteers with multiple doses of rifampin, 600 mg daily for 14 days, followed by a single 20-mg dose of sirolimus oral solution, greatly decreased sirolimus AUC and Cmax by about 82% and 71%, respectively.
+Pretreatment of 14 healthy volunteers with multiple doses of rifampin, 600 mg daily for 14 days, followed by a single 20-mg dose of Sirolimus Oral Solution, greatly decreased sirolimus AUC and Cmax by about 82% and 71%, respectively.
 
 Verapamil: Verapamil is a substrate and inhibitor of CYP3A4 and P-gp; sirolimus concentrations should be monitored and a dose adjustment may be necessary; [see Drug Interactions (7.4)].
-The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 180 mg q 12h of verapamil at steady state to 25 healthy volunteers significantly affected the bioavailability of sirolimus and verapamil.
+The simultaneous oral administration of 2 mg daily of Sirolimus Oral Solution and 180 mg q 12h of verapamil at steady state to 25 healthy volunteers significantly affected the bioavailability of sirolimus and verapamil.
 Sirolimus Cmax and AUC were increased 2.3- and 2.2-fold, respectively, without substantial change in tmax.
 The Cmax and AUC of the pharmacologically active S(-) enantiomer of verapamil were both increased 1.5-fold and tmax was decreased by 1.2 hr.
 

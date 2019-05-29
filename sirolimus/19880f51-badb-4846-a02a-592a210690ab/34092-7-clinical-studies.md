@@ -4,18 +4,18 @@
 
 Sirolimus Oral Solution
 
-The safety and efficacy of sirolimus oral solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials.
-These studies compared two dose levels of sirolimus oral solution (2 mg and 5 mg, once daily) with azathioprine (Study 1) or placebo (Study 2) when administered in combination with cyclosporine and corticosteroids.
+The safety and efficacy of Sirolimus Oral Solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials.
+These studies compared two dose levels of Sirolimus Oral Solution (2 mg and 5 mg, once daily) with azathioprine (Study 1) or placebo (Study 2) when administered in combination with cyclosporine and corticosteroids.
 Study 1 was conducted in the United States at 38 sites.
-Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive sirolimus oral solution 2 mg/day; 274 were randomized to receive sirolimus oral solution 5 mg/day, and 161 to receive azathioprine 2-3 mg/kg/day.
+Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive Sirolimus Oral Solution 2 mg/day; 274 were randomized to receive Sirolimus Oral Solution 5 mg/day, and 161 to receive azathioprine 2-3 mg/kg/day.
 Study 2 was conducted in Australia, Canada, Europe, and the United States, at a total of 34 sites.
-Five hundred seventy-six (576) patients were enrolled in this trial and randomized before transplantation; 227 were randomized to receive sirolimus oral solution 2 mg/day; 219 were randomized to receive sirolimus oral solution 5 mg/day, and 130 to receive placebo.
+Five hundred seventy-six (576) patients were enrolled in this trial and randomized before transplantation; 227 were randomized to receive Sirolimus Oral Solution 2 mg/day; 219 were randomized to receive Sirolimus Oral Solution 5 mg/day, and 130 to receive placebo.
 In both studies, the use of antilymphocyte antibody induction therapy was prohibited.
 In both studies, the primary efficacy endpoint was the rate of efficacy failure in the first 6 months after transplantation.
 Efficacy failure was defined as the first occurrence of an acute rejection episode (confirmed by biopsy), graft loss, or death.
 
 The tables below summarize the results of the primary efficacy analyses from these trials.
-Sirolimus oral solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
+Sirolimus Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
 
 | TABLE 8: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b |  |  |  |
 | --- | --- | --- | --- |
@@ -76,9 +76,9 @@ The graft and patient survival rates were similar in patients treated with sirol
 
 The reduction in the incidence of first biopsy-confirmed acute rejection episodes in patients treated with sirolimus compared with the control groups included a reduction in all grades of rejection.
 
-In Study 1, which was prospectively stratified by race within center, efficacy failure was similar for sirolimus oral solution 2 mg/day and lower for sirolimus oral solution 5 mg/day compared with azathioprine in Black patients.
-In Study 2, which was not prospectively stratified by race, efficacy failure was similar for both sirolimus oral solution doses compared with placebo in Black patients.
-The decision to use the higher dose of sirolimus oral solution in Black patients must be weighed against the increased risk of dose-dependent adverse events that were observed with the sirolimus oral solution 5-mg dose [see Adverse Reactions (6.1)].
+In Study 1, which was prospectively stratified by race within center, efficacy failure was similar for Sirolimus Oral Solution 2 mg/day and lower for Sirolimus Oral Solution 5 mg/day compared with azathioprine in Black patients.
+In Study 2, which was not prospectively stratified by race, efficacy failure was similar for both Sirolimus Oral Solution doses compared with placebo in Black patients.
+The decision to use the higher dose of Sirolimus Oral Solution in Black patients must be weighed against the increased risk of dose-dependent adverse events that were observed with the Sirolimus Oral Solution 5-mg dose [see Adverse Reactions (6.1)].
 
 | TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSa,b |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ The decision to use the higher dose of sirolimus oral solution in Black patients
 | aPatients received cyclosporine and corticosteroids.bIncludes patients who prematurely discontinued treatment. |  |  |  |  |
 
 Mean glomerular filtration rates (GFR) post-transplant were calculated by using the Nankivell equation at 12 and 24 months for Study 1, and 12 and 36 months for Study 2.
-Mean GFR was lower in patients treated with cyclosporine and sirolimus oral solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
+Mean GFR was lower in patients treated with cyclosporine and Sirolimus Oral Solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
 
 | TABLE 12: OVERALL CALCULATED GLOMERULAR FILTRATION RATES(Mean ± SEM, cc/min) BY NANKIVELL EQUATION POST-TRANSPLANTa,b |  |  |  |  |
 | --- | --- | --- | --- | --- |
