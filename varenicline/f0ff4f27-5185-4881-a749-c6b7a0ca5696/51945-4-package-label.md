@@ -50,18 +50,6 @@ Chantix® (varenicline) tablets
 
 56 Tablets Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 mg 2 Week Continuing Pack
-
-NDC 0069-0469-11 Rx only
-
-CONTINUING PACK
-
-CHANTIX® (varenicline) TABLETS
-
-Contains: 2 Continuing Weeks (1 mg† × 28 tablets)
-
-ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
-
 # PRINCIPAL DISPLAY PANEL - 1 mg x 56 Tablet Continuing Pack
 
 NDC 0069-0469-03 Rx only
