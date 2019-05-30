@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA210688"
+  ],
+  "inn": "solifenacin",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-020-30",
+    "72205-020-90",
+    "72205-020-99",
+    "72205-021-30",
+    "72205-021-90",
+    "72205-021-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "solifenacin succinate",
+      "name": "Solifenacin Succinate"
+    }
+  ],
+  "setid": "98b99a4c-201d-46ee-b78c-7634a64d3a8d",
+  "source": "dailymed"
+}
