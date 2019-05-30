@@ -45,7 +45,7 @@ placebo.
 The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and >5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to < 2% for placebo.
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
-Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures.
+Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.10)].
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
 The effect of topiramate on growth and bone-related sequelae has not been systematically investigated in long-term, placebo-controlled trials.
 Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 month old pediatrics.
@@ -102,12 +102,12 @@ Cognitive-Related Dysfunction
 
 Rapid titration rate and higher initial dose were associated with higher incidences of cognitive-related dysfunction.
 
-In adult epilepsy add-on controlled trials, which used rapid titration (100 mg/day to 200 mg/day weekly increments), and target topiramate doses of 200 mg to 1000 mg/day, 56% of patients in the 800 mg/day and 1000 mg/day dose groups experienced cognitive-related dysfunction compared to approximately 42% of patients in the 200 mg/day to 400 mg/day groups and 14% for placebo.
+In adult epilepsy adjunctive controlled trials, which used rapid titration (100 mg/day to 200 mg/day weekly increments), and target topiramate doses of 200 mg to 1000 mg/day, 56% of patients in the 800 mg/day and 1000 mg/day dose groups experienced cognitive-related dysfunction compared to approximately 42% of patients in the 200 mg/day to 400 mg/day groups and 14% for placebo.
 In this rapid titration regimen, these dose-related adverse reactions began in the titration or in the maintenance phase, and in some patients these events began during titration and persisted into the maintenance phase.
 
 In the monotherapy epilepsy controlled trial, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day and 26% for 400 mg/day.
 
-In the 6-month migraine prophylaxis controlled trials, which used a slower titration regimen (25 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day, 22% for 100 mg/day (the recommended dose), 28% for 200 mg/day, and 10% for placebo.
+In the 6-month controlled trials for the preventive treatment of migraine, which used a slower titration regimen (25 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day, 22% for 100 mg/day (the recommended dose), 28% for 200 mg/day, and 10% for placebo.
 Cognitive adverse reactions most commonly developed during titration and sometimes persisted after completion of titration.
 
 Psychiatric/Behavioral Disturbances
@@ -135,8 +135,7 @@ This risk for cognitive/neuropsychiatric adverse reactions was also greater in y
 The most common cognitive/neuropsychiatric adverse reaction in these trials was difficulty with concentration/attention.
 Cognitive adverse reactions most commonly developed during titration and sometimes persisted for various durations after completion of titration.
 
-The Cambridge Neuropsychological Test Automated Battery (CANTAB) was administered to adolescents (12 to 17 years) to assess the effects of topiramate on cognitive function at baseline and at the end of the Study 12 [see Clinical Studies (14.3)].
-
+The Cambridge Neuropsychological Test Automated Battery (CANTAB) was administered to adolescents (12 to 17 years) to assess the effects of topiramate on cognitive function at baseline and at the end of the Study 13 [see Clinical Studies (14.3)].
 Mean change from baseline in certain CANTAB tests suggests that topiramate treatment may result in psychomotor slowing and decreased verbal fluency.
 
 ## 5.7 Fetal Toxicity
@@ -147,7 +146,7 @@ When multiple species of pregnant animals received topiramate at clinically rele
 
 Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1) Patient Counseling Information (17)].
 Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)]
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.8 Withdrawal of Antiepileptic Drugs
 
@@ -164,7 +163,7 @@ Postmarketing cases of hyperammonemia with or without encephalopathy have been r
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 In most cases, hyperammonemic encephalopathy abated with discontinuation of treatment.
 
-The incidence of hyperammonemia in pediatric patients 12 to 17 years of age in migraine prophylaxis trials was 26% in patients taking topiramate monotherapy at 100 mg/day, and 14% in patients taking topiramate at 50 mg/day, compared to 9% in patients taking placebo.
+The incidence of hyperammonemia in pediatric patients 12 to 17 years of age in the preventive treatment of migraine trials was 26% in patients taking topiramate monotherapy at 100 mg/day, and 14% in patients taking topiramate at 50 mg/day, compared to 9% in patients taking placebo.
 There was also an increased incidence of markedly increased hyperammonemia at the 100 mg dose.
 
 Dose-related hyperammonemia was also seen in pediatric patients 1 to 24 months of age treated with topiramate and concomitant valproic acid for partial onset epilepsy and this was not due to a pharmacokinetic interaction.

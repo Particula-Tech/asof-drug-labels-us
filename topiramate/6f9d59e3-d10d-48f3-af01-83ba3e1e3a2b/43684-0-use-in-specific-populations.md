@@ -32,7 +32,7 @@ Women who are planning a pregnancy should be counseled regarding the relative ri
 
 Labor or Delivery
 
-Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor [see Use in Specific Populations (8.1)].
+Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor.
 
 Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
@@ -96,7 +96,7 @@ Limited data from 5 women with epilepsy treated with topiramate during lactation
 
 Contraception
 
-Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risks of oral clefts and SGA [see Drug Interactions (7.3) and Use in Specific Populations (8.1)].
+Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risks of oral clefts and SGA [see Drug Interactions (7.4) and Use in Specific Populations (8.1)].
 
 ## 8.4 Pediatric Use
 
@@ -137,14 +137,14 @@ Monotherapy Treatment in Partial Onset Epilepsy in Patients < 2 Years Old
 
 Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
 
-Migraine Prophylaxis in Pediatric Patients 12 to 17 Years of Age
+Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age
 
-Safety and effectiveness of topiramate in the prophylaxis of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 to 200 mg/day, or 2 to 3 mg/kg/day.
-These comprised a fixed dose study in 103 pediatric patients 12 to 17 years of age [see Clinical Studies (14.3)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients 6 to 16 years of age (including 67 pediatric patients 12 to 16 years of age), and a total of 49 pediatric patients 12 to 17 years of age in 3 studies of migraine prophylaxis primarily in adults.
+Safety and effectiveness of topiramate for the preventive treatment of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 to 200 mg/day, or 2 to 3 mg/kg/day.
+These comprised a fixed dose study in 103 pediatric patients 12 to 17 years of age [see Clinical Studies (14.3)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients 6 to 16 years of age (including 67 pediatric patients 12 to 16 years of age), and a total of 49 pediatric patients 12 to 17 years of age in 3 studies of for the preventive treatment of migraine primarily in adults.
 Open-label extension phases of 3 studies enabled evaluation of long-term safety for up to 6 months after the end of the double-blind phase.
 
-Efficacy of topiramate for migraine prophylaxis in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 12 [see Clinical Studies (14.3)].
-Efficacy of topiramate (2 to 3 mg/kg/day) for migraine prophylaxis was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients (12 to 16 years of age) for 20 weeks.
+Efficacy of topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 13 [see Clinical Studies (14.3)].
+Efficacy of topiramate (2 to 3 mg/kg/day) for the preventive treatment of migraine was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients (12 to 16 years of age) for 20 weeks.
 
 In the pediatric trials (12 to 17 years of age) in which patients were randomized to placebo or a fixed daily dose of topiramate, the most common adverse reactions with topiramate that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6)].
 
@@ -153,13 +153,11 @@ The most common cognitive adverse reaction in pooled double-blind studies in ped
 Markedly abnormally low serum bicarbonate values indicative of metabolic acidosis were reported in topiramate-treated pediatric migraine patients [see Warnings and Precautions (5.4)].
 
 In topiramate-treated pediatric patients (12 to 17 years of age) compared to placebo-treated patients, abnormally increased results were more frequent for creatinine, BUN, uric acid, chloride, ammonia, total protein, and platelets.
-Abnormally decreased results were observed with topiramate vs. placebo treatment for phosphorus and bicarbonate [see Warnings and Precautions (5.12)].
+Abnormally decreased results were observed with topiramate vs. placebo treatment for phosphorus and bicarbonate [see Clinical Trials Experience (6.1)].
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 
-Migraine Prophylaxis in Pediatric Patients 6 to 11 Years of Age
-
-Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the prophylaxis treatment of migraine headache.
+Preventive Treatment of Migraine in Pediatric Patients 6 to 11 Years of Age Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 
 In a double-blind study in 90 pediatric patients 6 to 11 years of age (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that seen in pooled double-blind studies of pediatric patients 12 to 17 years of age.
 The most common adverse reactions that occurred in topiramate-treated pediatric patients 6 to 11 years of age, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight loss (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
