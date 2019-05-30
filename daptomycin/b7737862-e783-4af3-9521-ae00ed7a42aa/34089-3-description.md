@@ -1,6 +1,7 @@
 # 11 DESCRIPTION
 
-Daptomycin for Injection contains daptomycin, a cyclic lipopeptide antibacterial agent derived from the fermentation of Streptomyces roseosporus.
+Daptomycin for injection contains daptomycin, a cyclic lipopeptide antibacterial agent derived from the fermentation of Streptomyces roseosporus.
+Daptomycin is available as light yellow to yellow powder.
 The chemical name is N-decanoyl-L-tryptophyl-D-asparaginyl-L-aspartyl-L-threonylglycyl-L-ornithyl-L-aspartyl-D-alanyl-L-aspartylglycyl-D-seryl-threo-3-methyl-L-glutamyl-3-anthraniloyl-L-alanine ε1-lactone.
 The chemical structure is:
 

@@ -2,18 +2,18 @@
 
 Advise patients that allergic reactions, including serious allergic reactions, could occur and that serious reactions require immediate treatment.
 Patients should report any previous allergic reactions to daptomycin.
-[See Warnings and Precautions (5.1).]
+[See Warnings and Precautions (5.1)].
 
 Advise patients to report muscle pain or weakness, especially in the forearms and lower legs, as well as tingling or numbness.
-[See Warnings and Precautions (5.2, 5.4).]
+[See Warnings and Precautions (5.2, 5.4)].
 
 Advise patients to report any symptoms of cough, breathlessness, or fever.
-[See Warnings and Precautions (5.3).]
+[See Warnings and Precautions (5.3)].
 
 Advise patients that diarrhea is a common problem caused by antibacterials that usually ends when the antibacterial is discontinued.
 Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever), even as late as 2 or more months after having received the last dose of the antibacterial.
 If this occurs, patients should contact their physician as soon as possible.
-[See Warnings and Precautions (5.6).]
+[See Warnings and Precautions (5.6)].
 
 Counsel patients that antibacterial drugs, including daptomycin for injection, should be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -34,4 +34,4 @@ Mylan Laboratories Limited
 
 Bangalore, India
 
-APRIL 2018
+MAY 2019

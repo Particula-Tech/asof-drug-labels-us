@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term carcinogenicity studies in animals have not been conducted to evaluate the carcinogenic potential of daptomycin for injection.
+Long-term carcinogenicity studies in animals have not been conducted to evaluate the carcinogenic potential of daptomycin.
 However, neither mutagenic nor clastogenic potential was found in a battery of genotoxicity tests, including the Ames assay, a mammalian cell gene mutation assay, a test for chromosomal aberrations in Chinese hamster ovary cells, an in vivo micronucleus assay, an in vitro DNA repair assay, and an in vivo sister chromatid exchange assay in Chinese hamsters.
 
 Daptomycin did not affect the fertility or reproductive performance of male and female rats when administered intravenously at doses of 25, 75, or 150 mg/kg/day, which is approximately up to 9 times the estimated human exposure level based upon AUCs (or approximately up to 4 times the recommended human dose of 6 mg/kg based on body surface area comparison).
@@ -17,7 +17,6 @@ Skeletal muscle effects were characterized by microscopic degenerative/regenerat
 No fibrosis or rhabdomyolysis was evident in repeat-dose studies up to the highest doses tested in rats (150 mg/kg/day) and dogs (100 mg/kg/day).
 The degree of skeletal myopathy showed no increase when treatment was extended from 1 month to up to 6 months.
 Severity was dose-dependent.
-
 All muscle effects, including microscopic changes, were fully reversible within 30 days following the cessation of dosing.
 
 In adult animals, effects on peripheral nerve (characterized by axonal degeneration and frequently accompanied by significant losses of patellar reflex, gag reflex, and pain perception) were observed at daptomycin doses higher than those associated with skeletal myopathy.
@@ -39,7 +38,7 @@ Administration of daptomycin to 7-week-old juvenile dogs for 28 days at doses of
 A dose of 150 mg/kg/day for 28 days produced minimal degeneration in the peripheral nerve and spinal cord as well as minimal to mild degeneration of the skeletal muscle in a majority of animals, accompanied by slight to severe muscle weakness evident in most dogs.
 Following a 28-day recovery phase, microscopic examination revealed recovery of the skeletal muscle and the ulnar nerve effects, but nerve degeneration in the sciatic nerve and spinal cord was still observed in all 150 mg/kg/day dogs.
 
-Following once-daily administration of daptomycin to juvenile dogs for 28 days, microscopic effects in nerve tissue were noted at a Cmax value of 417 mcg/mL, which is approximately 3-fold less than the Cmax value associated with nerve effects in adult dogs treated once daily with daptomycin for 28 days (1,308 mcg/mL).
+Following once-daily administration of daptomycin to juvenile dogs for 28 days, microscopic effects in nerve tissue were noted at a Cmax value of 417 mcg/mL, which is approximately 3-fold less than the Cmax value associated with nerve effects in adult dogs treated once daily with daptomycin for 28 days (1308 mcg/mL).
 
 Neonatal Animals
 
@@ -48,8 +47,8 @@ In neonatal dogs, adverse nervous system and/or muscular system effects were ass
 At a dose of 25 mg/kg/day with associated Cmax and AUCinf values of 147 mcg/mL and 717 mcg•h/mL, respectively (1.6 and 1.0-fold the adult human Cmax and AUC, respectively, at the 6 mg/kg/day dose), mild clinical signs of twitching and one incidence of muscle rigidity were observed with no corresponding effect on body weight.
 These effects were found to be reversible within 28 days after treatment had stopped.
 
-At higher dose levels of 50 and 75 mg/kg/day with associated Cmax and AUCinf values of ≥321 mcg/mL and ≥1,470 mcg•h/mL, respectively, marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs were observed.
-Resulting decreases in body weights and overall body condition at doses ≥50 mg/kg/day necessitated early discontinuation by PND19.
+At higher dose levels of 50 and 75 mg/kg/day with associated Cmax and AUCinf values of ≥321 mcg/mL and ≥1470 mcg•h/mL, respectively, marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs were observed.
+Resulting decreases in body weights and overall body condition at doses ≥50 mg/kg/day necessitated early discontinuation by postnatal day (PND) 19.
 
 Histopathological assessment did not reveal any daptomycin-related changes in the peripheral and central nervous system tissue, as well as in the skeletal muscle or other tissues assessed, at any dose level.
 

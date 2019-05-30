@@ -22,7 +22,7 @@ Daptomycin for injection is not indicated for the treatment of left-sided infect
 The clinical trial of daptomycin for injection in adult patients with S. aureus bloodstream infections included limited data from patients with left-sided infective endocarditis; outcomes in these patients were poor [see Clinical Studies (14.2)].
 Daptomycin for injection has not been studied in patients with prosthetic valve endocarditis.
 
-Daptomycin for injection is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+Daptomycin for injection is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5)andNonclinical Toxicology (13.2)].
 
 ## 1.5 Usage
 

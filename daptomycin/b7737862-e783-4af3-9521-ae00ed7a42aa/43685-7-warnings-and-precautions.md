@@ -2,47 +2,48 @@
 
 ## 5.1 Anaphylaxis/Hypersensitivity Reactions
 
-Anaphylaxis/hypersensitivity reactions have been reported with the use of antibacterial agents, including daptomycin for injection, and may be life-threatening.
-If an allergic reaction to daptomycin for injection occurs, discontinue the drug and institute appropriate therapy [see Adverse Reactions (6.2)].
+Anaphylaxis/hypersensitivity reactions have been reported with the use of antibacterial agents, including daptomycin, and may be life-threatening.
+If an allergic reaction to daptomycin occurs, discontinue the drug and institute appropriate therapy [see Adverse Reactions (6.2)].
 
 ## 5.2 Myopathy and Rhabdomyolysis
 
-Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values to greater than 10 times the upper limit of normal (ULN), has been reported with the use of daptomycin for injection.
+Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values to greater than 10 times the upper limit of normal (ULN), has been reported with the use of daptomycin.
 Rhabdomyolysis, with or without acute renal failure, has been reported [see Adverse Reactions (6.2)].
 
-Patients receiving daptomycin for injection should be monitored for the development of muscle pain or weakness, particularly of the distal extremities.
-In patients who receive daptomycin for injection, CPK levels should be monitored weekly, and more frequently in patients who received recent prior or concomitant therapy with an HMG-CoA reductase inhibitor or in whom elevations in CPK occur during treatment with daptomycin for injection.
+Patients receiving daptomycin should be monitored for the development of muscle pain or weakness, particularly of the distal extremities.
+In patients who receive daptomycin, CPK levels should be monitored weekly, and more frequently in patients who received recent prior or concomitant therapy with an HMG-CoA reductase inhibitor or in whom elevations in CPK occur during treatment with daptomycin.
 
 In adult patients with renal impairment, both renal function and CPK should be monitored more frequently than once weekly [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-In Phase 1 studies and Phase 2 clinical trials in adults, CPK elevations appeared to be more frequent when daptomycin for injection was dosed more than once daily.
-Therefore, daptomycin for injection should not be dosed more frequently than once a day.
+In Phase 1 studies and Phase 2 clinical trials in adults, CPK elevations appeared to be more frequent when daptomycin was dosed more than once daily.
+Therefore, daptomycin should not be dosed more frequently than once a day.
 
-Daptomycin for injection should be discontinued in patients with unexplained signs and symptoms of myopathy in conjunction with CPK elevations to levels >1,000 U/L (~5× ULN), and in patients without reported symptoms who have marked elevations in CPK, with levels >2,000 U/L (≥10 × ULN).
-In addition, consideration should be given to suspending agents associated with rhabdomyolysis, such as HMG-CoA reductase inhibitors, temporarily in patients receiving daptomycin for injection [see Drug Interactions (7.1)].
+Daptomycin should be discontinued in patients with unexplained signs and symptoms of myopathy in conjunction with CPK elevations to levels >1,000 U/L (~5× ULN), and in patients without reported symptoms who have marked elevations in CPK, with levels >2,000 U/L (≥10 × ULN).
+
+In addition, consideration should be given to suspending agents associated with rhabdomyolysis, such as HMG-CoA reductase inhibitors, temporarily in patients receiving daptomycin [see Drug Interactions (7.1)].
 
 ## 5.3 Eosinophilic Pneumonia
 
-Eosinophilic pneumonia has been reported in patients receiving daptomycin for injection [see Adverse Reactions (6.2)].
-In reported cases associated with daptomycin for injection, patients developed fever, dyspnea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates or organizing pneumonia.
-In general, patients developed eosinophilic pneumonia 2 to 4 weeks after starting daptomycin for injection and improved when daptomycin for injection was discontinued and steroid therapy was initiated.
+Eosinophilic pneumonia has been reported in patients receiving daptomycin [see Adverse Reactions (6.2)].
+In reported cases associated with daptomycin, patients developed fever, dyspnea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates or organizing pneumonia.
+In general, patients developed eosinophilic pneumonia 2 to 4 weeks after starting daptomycin and improved when daptomycin was discontinued and steroid therapy was initiated.
 Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
-Patients who develop these signs and symptoms while receiving daptomycin for injection should undergo prompt medical evaluation, and daptomycin for injection should be discontinued immediately.
+Patients who develop these signs and symptoms while receiving daptomycin should undergo prompt medical evaluation, and daptomycin should be discontinued immediately.
 Treatment with systemic steroids is recommended.
 
 ## 5.4 Peripheral Neuropathy
 
-Cases of peripheral neuropathy have been reported during the daptomycin for injection postmarketing experience [see Adverse Reactions (6.2)].
-Therefore, physicians should be alert to signs and symptoms of peripheral neuropathy in patients receiving daptomycin for injection.
+Cases of peripheral neuropathy have been reported during the daptomycin postmarketing experience [see Adverse Reactions (6.2)].
+Therefore, physicians should be alert to signs and symptoms of peripheral neuropathy in patients receiving daptomycin.
 Monitor for neuropathy and consider discontinuation.
 
 ## 5.5 Potential Nervous System and/or Muscular System Effects in Pediatric Patients Younger than 12 Months
 
-Avoid use of daptomycin for injection in pediatric patients younger than 12 months due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs with intravenous daptomycin [see Nonclinical Toxicology (13.2)].
+Avoid use of daptomycin in pediatric patients younger than 12 months due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs with intravenous daptomycin [see Nonclinical Toxicology (13.2)].
 
 ## 5.6 Clostridium difficile–Associated Diarrhea
 
-Clostridium difficile–associated diarrhea (CDAD) has been reported with the use of nearly all systemic antibacterial agents, including daptomycin for injection, and may range in severity from mild diarrhea to fatal colitis [see Adverse Reactions (6.2)].
+Clostridium difficile–associated diarrhea (CDAD) has been reported with the use of nearly all systemic antibacterial agents, including daptomycin, and may range in severity from mild diarrhea to fatal colitis [see Adverse Reactions (6.2)].
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B, which contribute to the development of CDAD.
@@ -98,4 +99,4 @@ Clinically relevant plasma concentrations of daptomycin have been observed to ca
 The use of antibacterials may promote the overgrowth of non-susceptible microorganisms.
 If these infections occur during therapy, appropriate measures should be taken.
 
-Prescribing daptomycin for injection in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing daptomycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

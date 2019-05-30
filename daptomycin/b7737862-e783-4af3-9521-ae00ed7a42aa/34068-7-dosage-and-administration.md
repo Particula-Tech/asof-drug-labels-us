@@ -31,15 +31,15 @@ Adult Patients:
 
 No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
 The recommended dosage regimen for daptomycin for injection in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 3).
-When possible, daptomycin for injection should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+When possible, daptomycin for injection should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), andClinical Pharmacology (12.3)].
 
-- Table 3: Recommended Dosage of Daptomycin for Injection in Adult Patients
+Table 3: Recommended Dosage of Daptomycin for Injection in Adult Patients
 
-| Creatinine Clearance (CLCR) | Dosage Regimen in Adults |  |
+| Creatinine Clearance(CLCR) | Dosage Regimen in Adults |  |
 | --- | --- | --- |
-| cSSSI | S. aureus Bloodstream Infections |  |
+| cSSSI | S.aureus Bloodstream Infections |  |
 | Greater than or equal to 30 mL/min | 4 mg/kg once every 24 hours | 6 mg/kg once every 24 hours |
-| Less than 30 mL/min, includinghemodialysis and CAPD | 4 mg/kg once every 48 hours* | 6 mg/kg once every 48 hours* |
+| Less than 30 mL/min, including hemodialysis and CAPD | 4 mg/kg once every 48 hours* | 6 mg/kg once every 48 hours* |
 
 *When possible, administer daptomycin for injection following the completion of hemodialysis on hemodialysis days.
 
@@ -63,12 +63,12 @@ The contents of a daptomycin for injection vial should be reconstituted, using a
    After cleaning, do not touch the rubber stopper or allow it to touch any other surface.
 4. 4.Slowly transfer 10 mL of 0.9% sodium chloride injection through the center of the rubber stopper into the daptomycin for injection vial, pointing the transfer needle toward the wall of the vial.
    It is recommended that a beveled sterile transfer needle that is 21 gauge or smaller in diameter, or a needleless device is used, pointing the transfer needle toward the wall of the vial.
-5. 5.Ensure that all of the daptomycin powder is wetted by gently rotating the vial.
+5. 5.Ensure that all of the daptomycin for injection powder is wetted by gently rotating the vial.
 6. 1.
    Allow the wetted product to stand undisturbed for 10 minutes.
 7. 2.
-   Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a
-8. completely reconstituted solution.
+   Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
+8. 
 
 Administration Instructions
 
@@ -96,8 +96,8 @@ In-Use Storage Conditions for Daptomycin for Injection Once Reconstituted in Acc
 
 Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2° to 8°C (36° to 46°F).
 
-- The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
-  The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
+The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
+The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
 
 Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

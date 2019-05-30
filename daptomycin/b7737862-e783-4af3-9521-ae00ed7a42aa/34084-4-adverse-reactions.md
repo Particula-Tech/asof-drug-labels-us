@@ -6,7 +6,7 @@ The following adverse reactions are described, or described in greater detail, i
 - •Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
 - •Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
 - •Peripheral neuropathy [see Warnings and Precautions (5.4)]
-- •Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9)andDrug Interactions (7.2)]
+- •Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9)and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -14,28 +14,28 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trial Experience in Adult Patients
 
-Clinical trials enrolled 1,864 adult patients treated with daptomycin for injection and 1,416 treated with comparator.
+Clinical trials enrolled 1,864 adult patients treated with daptomycin and 1,416 treated with comparator.
 
 Complicated Skin and Skin Structure Infection Trials in Adults
 
-In Phase 3 complicated skin and skin structure infection (cSSSI) trials in adult patients, daptomycin for injection was discontinued in 15/534 (2.8%) patients due to an adverse reaction, while comparator was discontinued in 17/558 (3%) patients.
+In Phase 3 complicated skin and skin structure infection (cSSSI) trials in adult patients, daptomycin was discontinued in 15/534 (2.8%) patients due to an adverse reaction, while comparator was discontinued in 17/558 (3.0%) patients.
 
-The rates of the most common adverse reactions, organized by body system, observed in adult patients with cSSSI (receiving 4 mg/kg daptomycin for injection) are displayed in Table 6.
+The rates of the most common adverse reactions, organized by body system, observed in adult patients with cSSSI (receiving 4 mg/kg daptomycin) are displayed in Table 6.
 
-Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
+Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients in the Daptomycin Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
 
 | Adverse Reaction | Adult Patients (%) |  |
 | --- | --- | --- |
-| Daptomycin for Injection 4 mg/kg (N=534) | Comparator* (N=558) |  |
+| Daptomycin 4 mg/kg(N=534) | Comparator*(N=558) |  |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 5.2 | 4.3 |
 | Nervous system disorders |  |  |
 | Headache | 5.4 | 5.4 |
-| Dizziness | 2.2 | 2 |
+| Dizziness | 2.2 | 2.0 |
 | Skin/subcutaneous disorders |  |  |
 | Rash | 4.3 | 3.8 |
 | Diagnostic investigations |  |  |
-| Abnormal liver function tests | 3 | 1.6 |
+| Abnormal liver function tests | 3.0 | 1.6 |
 | Elevated CPK | 2.8 | 1.8 |
 | Infections |  |  |
 | Urinary tract infections | 2.4 | 0.5 |
@@ -44,7 +44,9 @@ Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients
 | Respiratory disorders |  |  |
 | Dyspnea | 2.1 | 1.6 |
 
-Drug-related adverse reactions (possibly or probably drug-related) that occurred in <1% of adult patients receiving daptomycin for injection in the cSSSI trials are as follows:
+1. *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
+
+Drug-related adverse reactions (possibly or probably drug-related) that occurred in <1% of adult patients receiving daptomycin in the cSSSI trials are as follows:
 
 Body as a Whole: fatigue, weakness, rigors, flushing, hypersensitivity
 
@@ -66,26 +68,26 @@ Special Senses: taste disturbance, eye irritation
 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
-In the S. aureus bacteremia/endocarditis trial involving adult patients, daptomycin for injection was discontinued in 20/120 (16.7%) patients due to an adverse reaction, while comparator was discontinued in 21/116 (18.1%) patients.
+In the S. aureus bacteremia/endocarditis trial involving adult patients, daptomycin was discontinued in 20/120 (16.7%) patients due to an adverse reaction, while comparator was discontinued in 21/116 (18.1%) patients.
 
-Serious Gram-negative infections (including bloodstream infections) were reported in 10/120 (8.3%) daptomycin for injection-treated patients and 0/115 comparator-treated patients.
+Serious Gram-negative infections (including bloodstream infections) were reported in 10/120 (8.3%) daptomycin-treated patients and 0/115 comparator-treated patients.
 Comparator-treated patients received dual therapy that included initial gentamicin for 4 days.
 Infections were reported during treatment and during early and late follow-up.
 Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal osteomyelitis/mediastinitis, bowel infarction, recurrent Crohn’s disease, recurrent line sepsis, and recurrent urosepsis caused by a number of different Gram-negative bacteria.
 
-The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureus bacteremia/endocarditis (receiving 6 mg/kg daptomycin for injection) are displayed in Table 7.
+The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureus bacteremia/endocarditis (receiving 6 mg/kg daptomycin) are displayed in Table 7.
 
-Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
+Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients in the Daptomycin Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
 
-| Adverse Reaction* | Adult Patients n (%) |  |
+| Adverse Reaction* | Adult Patientsn (%) |  |
 | --- | --- | --- |
-| Daptomycin for Injection 6 mg/kg (N=120) | Comparator†(N=116) |  |
+| Daptomycin 6 mg/kg(N=120) | Comparator†(N=116) |  |
 | Infections and infestations |  |  |
 | Sepsis NOS | 6 (5%) | 3 (3%) |
 | Bacteremia | 6 (5%) | 0 (0%) |
 | Gastrointestinal disorders |  |  |
 | Abdominal pain NOS | 7 (6%) | 4 (3%) |
-| General disorders and administration site conditions |  |  |
+| General disorders andadministration site conditions |  |  |
 | Chest pain | 8 (7%) | 7 (6%) |
 | Edema NOS | 8 (7%) | 5 (4%) |
 | Respiratory, thoracic and mediastinal disorders |  |  |
@@ -104,7 +106,7 @@ Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients
 
 †Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin.
 
-The following reactions, not included above, were reported as possibly or probably drug-related in the daptomycin for injection-treated group:
+The following reactions, not included above, were reported as possibly or probably drug-related in the daptomycin-treated group:
 
 Blood and Lymphatic System Disorders: eosinophilia, lymphadenopathy, thrombocythemia, thrombocytopenia
 
@@ -134,51 +136,50 @@ Skin and Subcutaneous Tissue Disorders: pruritus generalized, rash vesicular
 
 Other Trials in Adults
 
-In Phase 3 trials of community-acquired pneumonia (CAP) in adult patients, the death rate and rates of serious cardiorespiratory adverse events were higher in daptomycin for injection-treated patients than in comparator-treated patients.
-These differences were due to lack of therapeutic effectiveness of daptomycin for injection in the treatment of CAP in patients experiencing these adverse events [see Indications and Usage (1.4)].
+In Phase 3 trials of community-acquired pneumonia (CAP) in adult patients, the death rate and rates of serious cardiorespiratory adverse events were higher in daptomycin-treated patients than in comparator-treated patients.
+These differences were due to lack of therapeutic effectiveness of daptomycin in the treatment of CAP in patients experiencing these adverse events [see Indications and Usage (1.4)].
 
 Laboratory Changes in Adults
 
 Complicated Skin and Skin Structure Infection Trials in Adults
 
-In Phase 3 cSSSI trials of adult patients receiving daptomycin for injection at a dose of 4 mg/kg, elevations in CPK were reported as clinical adverse events in 15/534 (2.8%) daptomycin for injection-treated patients, compared with 10/558 (1.8%) comparator-treated patients.
-Of the 534 patients treated with daptomycin for injection, 1 (0.2%) had symptoms of muscle pain or weakness associated with CPK elevations to greater than 4 times the upper limit of normal (ULN).
+In Phase 3 cSSSI trials of adult patients receiving daptomycin at a dose of 4 mg/kg, elevations in CPK were reported as clinical adverse events in 15/534 (2.8%) daptomycin-treated patients, compared with 10/558 (1.8%) comparator-treated patients.
+Of the 534 patients treated with daptomycin, 1 (0.2%) had symptoms of muscle pain or weakness associated with CPK elevations to greater than 4 times the upper limit of normal (ULN).
 The symptoms resolved within 3 days and CPK returned to normal within 7 to 10 days after treatment was discontinued [see Warnings and Precautions (5.2)].
 Table 8 summarizes the CPK shifts from Baseline through End of Therapy in the cSSSI adult trials.
 
-Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the Daptomycin for Injection Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Adult Trials
+Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the Daptomycin Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Adult Trials
 
-| Change in CPK | All Adult Patients |  | Adult Patients with Normal CPK at Baseline |  |
-| --- | --- | --- | --- | --- |
-| Daptomycin for Injection 4 mg/kg(N=430) % n | Comparator* (N=459)% n | Daptomycin for Injection 4 mg/kg(N=374) % n | Comparator*(N=392)% n |  |
-| No Increase | 90.7 390 | 91.1 418 | 91.2 341 | 91.1 357 |
-| Maximum Value >1× ULN† | 9.3 40 | 8.9 41 | 8.8 33 | 8.9 35 |
-| >2× ULN | 4.9 21 | 4.8 22 | 3.7 14 | 3.1 12 |
-| >4× ULN | 1.4 6 | 1.5 7 | 1.1 4 | 1 4 |
-| >5× ULN | 1.4 6 | 0.4 2 | 1.1 4 | 0 0 |
-| >10× ULN | 0.5 2 | 0.2 1 | 0.2 1 | 0 0 |
+| Change in CPK | All Adult Patients |  |  |  | Adult Patients withNormal CPK at Baseline |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Daptomycin4 mg/kg(N=430) |  | Comparator*(N=459) |  | Daptomycin4 mg/kg(N=374) |  | Comparator*(N=392) |  |  |
+| % | n | % | n | % | n | % | n |  |
+| No Increase | 90.7 | 390 | 91.1 | 418 | 91.2 | 341 | 91.1 | 357 |
+| Maximum Value >1× ULN† | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
+| >2× ULN | 4.9 | 21 | 4.8 | 22 | 3.7 | 14 | 3.1 | 12 |
+| >4× ULN | 1.4 | 6 | 1.5 | 7 | 1.1 | 4 | 1.0 | 4 |
+| >5× ULN | 1.4 | 6 | 0.4 | 2 | 1.1 | 4 | 0.0 | 0 |
+| >10× ULN | 0.5 | 2 | 0.2 | 1 | 0.2 | 1 | 0.0 | 0 |
 
-Note: Elevations in CPK observed in adult patients treated with daptomycin for injection or comparator were not clinically or statistically significantly different.
-
-* Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
-
-†ULN (Upper Limit of Normal) is defined as 200 U/L.
+1. Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different.
+2. *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
+3. †ULN (Upper Limit of Normal) is defined as 200 U/L.
 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
-In the S. aureus bacteremia/endocarditis trial in adult patients, at a dose of 6 mg/kg, 11/120 (9.2%) daptomycin for injection-treated patients, including two patients with baseline CPK levels >500 U/L, had CPK elevations to levels >500 U/L, compared with 1/116 (0.9%) comparator-treated patients.
-Of the 11 daptomycin for injection-treated patients, 4 had prior or concomitant treatment with an HMG-CoA reductase inhibitor.
-Three of these 11 daptomycin for injection-treated patients discontinued therapy due to CPK elevation, while the one comparator-treated patient did not discontinue therapy [see Warnings and Precautions (5.2)].
+In the S. aureus bacteremia/endocarditis trial in adult patients, at a dose of 6 mg/kg, 11/120 (9.2%) daptomycin-treated patients, including two patients with baseline CPK levels >500 U/L, had CPK elevations to levels >500 U/L, compared with 1/116 (0.9%) comparator-treated patients.
+Of the 11 daptomycin-treated patients, 4 had prior or concomitant treatment with an HMG-CoA reductase inhibitor.
+Three of these 11 daptomycin-treated patients discontinued therapy due to CPK elevation, while the one comparator-treated patient did not discontinue therapy [see Warnings and Precautions (5.2)].
 
 Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of daptomycin for injection.
+The following adverse reactions have been identified during post-approval use of daptomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: anemia
+Blood and lymphatic system disorders: anemia, thrombocytopenia
 
 General and administration site conditions: pyrexia
 
@@ -186,10 +187,11 @@ Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angi
 
 Infections and Infestations: Clostridium difficile–associated diarrhea [see Warnings and Precautions (5.6)]
 
-Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with daptomycin for injection and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
+Laboratory Investigations: platelet count decreased
 
-Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia, organizing pneumonia.
-[see Warnings and Precautions (5.3)]
+Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with daptomycin and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
+
+Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia, organizing pneumonia [see Warnings and Precautions (5.3)]
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.4)]
 
