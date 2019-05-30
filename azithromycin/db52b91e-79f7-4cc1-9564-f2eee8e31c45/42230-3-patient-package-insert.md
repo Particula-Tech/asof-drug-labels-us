@@ -80,6 +80,7 @@ Especially tell your healthcare provider if you take:
 - nelfinavir
 - a blood thinner (warfarin)
 - digoxin
+- colchicine
 - phenytoin
 - an antacid that contains aluminum or magnesium
 
@@ -184,4 +185,4 @@ Inactive ingredients: sucrose; sodium phosphate, tribasic, anhydrous; hydroxypro
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0372-5.0 Revised February 2017
+LAB-0372-6.0 Revised April 2019

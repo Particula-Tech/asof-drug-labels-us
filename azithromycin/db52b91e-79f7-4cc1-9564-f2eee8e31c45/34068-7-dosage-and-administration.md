@@ -31,42 +31,42 @@ PEDIATRIC DOSAGE GUIDELINES FOR OTITIS MEDIA, ACUTE BACTERIAL SINUSITIS, AND COM
 
 OTITIS MEDIA AND COMMUNITY-ACQUIRED PNEUMONIA: (5-Day Regimen)Effectiveness of the 3-day or 1-day regimen in pediatric patients with community-acquired pneumonia has not been established.
 
-| Kg | Lbs. | Day 1 | Days 2–5 | Day 1 | Days 2–5 |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Dosing Calculated on 10 mg/kg/day Day 1 and 5 mg/kg/day Days 2 to 5. |  |  |  |  |  |  |  |
-| Weight |  | 100 mg/5 mL |  | 200 mg/5 mL |  | Total mL per Treatment Course | Total mg per Treatment Course |
-| 5 | 11 | 2.5 mL; (½ tsp) | 1.25 mL;(¼ tsp) |  |  | 7.5 mL | 150 mg |
-| 10 | 22 | 5 mL; (1tsp) | 2.5 mL; (½ tsp) |  |  | 15 mL | 300 mg |
-| 20 | 44 |  |  | 5 mL; (1 tsp) | 2.5 mL; (½ tsp) | 15 mL | 600 mg |
-| 30 | 66 |  |  | 7.5 mL; (1½ tsp) | 3.75 mL; (¾ tsp) | 22.5 mL | 900 mg |
-| 40 | 88 |  |  | 10 mL; (2 tsp) | 5 mL; (1 tsp) | 30 mL | 1200 mg |
-| 50 and above | 110 and above |  |  | 12.5 mL; (2½ tsp) | 6.25 mL; (1¼ tsp) | 37.5 mL | 1500 mg |
+| Kg | Day 1 | Days 2–5 | Day 1 | Days 2–5 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dosing Calculated on 10 mg/kg/day Day 1 and 5 mg/kg/day Days 2 to 5. |  |  |  |  |  |  |
+| Weight | 100 mg/5 mL |  | 200 mg/5 mL |  | Total mL per Treatment Course | Total mg per Treatment Course |
+| 5 | 2.5 mL; (½ tsp) | 1.25 mL;(¼ tsp) |  |  | 7.5 mL | 150 mg |
+| 10 | 5 mL; (1tsp) | 2.5 mL; (½ tsp) |  |  | 15 mL | 300 mg |
+| 20 |  |  | 5 mL; (1 tsp) | 2.5 mL; (½ tsp) | 15 mL | 600 mg |
+| 30 |  |  | 7.5 mL; (1½ tsp) | 3.75 mL; (¾ tsp) | 22.5 mL | 900 mg |
+| 40 |  |  | 10 mL; (2 tsp) | 5 mL; (1 tsp) | 30 mL | 1200 mg |
+| 50 and above |  |  | 12.5 mL; (2½ tsp) | 6.25 mL; (1¼ tsp) | 37.5 mL | 1500 mg |
 
 OTITIS MEDIA AND ACUTE BACTERIAL SINUSITIS: (3-Day Regimen)Effectiveness of the 5-day or 1-day regimen in pediatric patients with acute bacterial sinusitis has not been established.
 
-| Kg | Lbs. | Days 1–3 | Days 1–3 |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Dosing Calculated on 10 mg/kg/day. |  |  |  |  |  |
-| Weight |  | 100 mg/5 mL | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
-| 5 | 11 | 2.5 mL; (1/2 tsp) |  | 7.5 mL | 150 mg |
-| 10 | 22 | 5 mL; (1 tsp) |  | 15 mL | 300 mg |
-| 20 | 44 |  | 5 mL (1 tsp) | 15 mL | 600 mg |
-| 30 | 66 |  | 7.5 mL (1½ tsp) | 22.5 mL | 900 mg |
-| 40 | 88 |  | 10 mL (2 tsp) | 30 mL | 1200 mg |
-| 50 and above | 110 and above |  | 12.5 mL (2 ½ tsp) | 37.5 mL | 1500 mg |
+| Kg | Days 1–3 | Days 1–3 |  |  |
+| --- | --- | --- | --- | --- |
+| Dosing Calculated on 10 mg/kg/day. |  |  |  |  |
+| Weight | 100 mg/5 mL | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
+| 5 | 2.5 mL; (1/2 tsp) |  | 7.5 mL | 150 mg |
+| 10 | 5 mL; (1 tsp) |  | 15 mL | 300 mg |
+| 20 |  | 5 mL (1 tsp) | 15 mL | 600 mg |
+| 30 |  | 7.5 mL (1½ tsp) | 22.5 mL | 900 mg |
+| 40 |  | 10 mL (2 tsp) | 30 mL | 1200 mg |
+| 50 and above |  | 12.5 mL (2 ½ tsp) | 37.5 mL | 1500 mg |
 
 OTITIS MEDIA: (1-Day Regimen)
 
-| Kg | Lbs. | 1-Day Regimen |  |  |
-| --- | --- | --- | --- | --- |
-| Dosing Calculated on 30 mg/kg as a single dose. |  |  |  |  |
-| Weight |  | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
-| 5 | 11 | 3.75 mL;(3/4 tsp) | 3.75 mL | 150 mg |
-| 10 | 22 | 7.5 mL;(1½ tsp) | 7.5 mL | 300 mg |
-| 20 | 44 | 15 mL;(3 tsp) | 15 mL | 600 mg |
-| 30 | 66 | 22.5 mL;(4½ tsp) | 22.5 mL | 900 mg |
-| 40 | 88 | 30 mL;(6 tsp) | 30 mL | 1200 mg |
-| 50 and above | 110 and above | 37.5 mL;(7½ tsp) | 37.5 mL | 1500 mg |
+| Kg | 1-Day Regimen |  |  |
+| --- | --- | --- | --- |
+| Dosing Calculated on 30 mg/kg as a single dose. |  |  |  |
+| Weight | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
+| 5 | 3.75 mL;(3/4 tsp) | 3.75 mL | 150 mg |
+| 10 | 7.5 mL;(1½ tsp) | 7.5 mL | 300 mg |
+| 20 | 15 mL;(3 tsp) | 15 mL | 600 mg |
+| 30 | 22.5 mL;(4½ tsp) | 22.5 mL | 900 mg |
+| 40 | 30 mL;(6 tsp) | 30 mL | 1200 mg |
+| 50 and above | 37.5 mL;(7½ tsp) | 37.5 mL | 1500 mg |
 
 The safety of re-dosing azithromycin in pediatric patients who vomit after receiving 30 mg/kg as a single dose has not been established.
 In clinical studies involving 487 patients with acute otitis media given a single 30 mg/kg dose of azithromycin, 8 patients who vomited within 30 minutes of dosing were re-dosed at the same total dose.
@@ -78,15 +78,15 @@ PEDIATRIC DOSAGE GUIDELINES FOR PHARYNGITIS/TONSILLITIS (Age 2 years and above, 
 
 PHARYNGITIS/TONSILLITIS: (5-Day Regimen)
 
-| Kg | Lbs. | Day 1–5 |  |  |
-| --- | --- | --- | --- | --- |
-| Dosing Calculated on 12 mg/kg/day for 5 days. |  |  |  |  |
-| Weight |  | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
-| 8 | 18 | 2.5 mL; (½ tsp) | 12.5 mL | 500 mg |
-| 17 | 37 | 5 mL; (1 tsp) | 25 mL | 1000 mg |
-| 25 | 55 | 7.5 mL; (1½ tsp) | 37.5 mL | 1500 mg |
-| 33 | 73 | 10 mL; (2 tsp) | 50 mL | 2000 mg |
-| 40 | 88 | 12.5 mL; (2½ tsp) | 62.5 mL | 2500 mg |
+| Kg | Day 1–5 |  |  |
+| --- | --- | --- | --- |
+| Dosing Calculated on 12 mg/kg/day for 5 days. |  |  |  |
+| Weight | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
+| 8 | 2.5 mL; (½ tsp) | 12.5 mL | 500 mg |
+| 17 | 5 mL; (1 tsp) | 25 mL | 1000 mg |
+| 25 | 7.5 mL; (1½ tsp) | 37.5 mL | 1500 mg |
+| 33 | 10 mL; (2 tsp) | 50 mL | 2000 mg |
+| 40 | 12.5 mL; (2½ tsp) | 62.5 mL | 2500 mg |
 
 Constituting instructions for ZITHROMAX Oral Suspension 300, 600, 900, 1200 mg bottles.
 The table below indicates the volume of water to be used for constitution:

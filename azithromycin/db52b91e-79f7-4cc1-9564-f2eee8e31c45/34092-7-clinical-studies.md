@@ -90,7 +90,7 @@ The following clinical success rates were obtained from the evaluable group:
 
 Trial 3
 
-In another controlled comparative clinical and microbiologic study of otitis media performed in the United States, azithromycin (10 mg/kg on Day 1 followed by 5 mg/kg on Days 2–5).was compared to amoxicillin/clavulanate potassium (4:1).
+In another controlled comparative clinical and microbiologic study of otitis media performed in the United States, azithromycin (10 mg/kg on Day 1 followed by 5 mg/kg on Days 2–5) was compared to amoxicillin/clavulanate potassium (4:1).
 This study utilized two of the same investigators as Protocol 2 (above), and these two investigators enrolled 90% of the patients in Protocol 3.
 For this reason, Protocol 3 was not considered to be an independent study.
 Significant rates of beta-lactamase producing organisms (20%) were found.

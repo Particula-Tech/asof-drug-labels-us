@@ -109,7 +109,7 @@ There have been reports of QT prolongation and torsades de pointes.
 
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
 
-General: Asthenia, paresthesia, fatigue, malaise, and anaphylaxis
+General: Asthenia, paresthesia, fatigue, malaise, and anaphylaxis.
 
 Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
 
@@ -138,7 +138,7 @@ In multiple-dose clinical trials involving more than 5000 patients, four patient
 
 Pediatric Patients:
 
-One, Three, and Five Day Regimens
+One, Three, and Five-Day Regimens
 
 Laboratory data collected from comparative clinical trials employing two 3-day regimens (30 mg/kg or 60 mg/kg in divided doses over 3 days), or two 5-day regimens (30 mg/kg or 60 mg/kg in divided doses over 5 days) were similar for regimens of azithromycin and all comparators combined, with most clinically significant laboratory abnormalities occurring at incidences of 1–5%.
 Laboratory data for patients receiving 30 mg/kg as a single dose were collected in one single center trial.

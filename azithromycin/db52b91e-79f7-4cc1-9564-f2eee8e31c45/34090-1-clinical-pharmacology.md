@@ -63,17 +63,17 @@ Over the course of a week, approximately 6% of the administered dose appears as 
 
 Specific Populations
 
-Renal Insufficiency
+Patients with Renal Impairment
 
 Azithromycin pharmacokinetics was investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
 Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively, in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0–120 increased 61% and 35%, respectively, in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been established.
 
-Gender
+Male and Female Patients
 
 There are no significant differences in the disposition of azithromycin between male and female subjects.
 No dosage adjustment is recommended based on gender.
@@ -104,6 +104,8 @@ The following table shows pharmacokinetic data in the subset of pediatric patien
 
 Single dose pharmacokinetics of azithromycin in pediatric patients given doses of 30 mg/kg have not been studied.
 [see Dosage and Administration (2)]
+
+Drug Interaction Studies
 
 Drug interaction studies were performed with azithromycin and other drugs likely to be co-administered.
 The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
@@ -136,7 +138,7 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Theophylline | 300 mg orally twice a day for 15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
 | Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95/0.96 (0.88 to 1.03) |
-| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
+| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
 | Zidovudine | 500 mg/day orally for 21 days | 1200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
 
 Table 2.
