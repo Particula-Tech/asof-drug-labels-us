@@ -33,7 +33,7 @@ Clindamycin phosphate topical products should be prescribed with caution in atop
 ## Drug Interactions
 
 Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
-Therefore it should be used with caution in patients receiving such agents.
+Therefore, it should be used with caution in patients receiving such agents.
 
 ## Pregnancy
 
