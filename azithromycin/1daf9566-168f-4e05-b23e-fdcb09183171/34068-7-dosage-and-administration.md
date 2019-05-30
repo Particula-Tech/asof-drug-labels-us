@@ -8,34 +8,33 @@ It is recommended that Zmax be taken on an empty stomach (at least 1 hr before o
 
 ## 2.2 Pediatric Patients
 
-For pediatric patients 6 months and older, Zmax should be taken as a single dose of 60 mg/kg (equivalent to 27 mg/lb) body weight.
-The Zmax dose in mL is equivalent to the child's weight in lb (1 mL/lb dose, see Table 1 below), for a body weight of less than 75 lb (34 kg).
+For pediatric patients 6 months and older, Zmax should be taken as a single dose of 60 mg/kg body weight for patients weighing less than 34 kg.
 It is recommended that Zmax be taken on an empty stomach (at least 1 hr before or 2 hrs following a meal).
 
-Pediatric patients weighing 75 lb (34 kg) or more should receive the adult dose (2 g).
+Pediatric patients weighing 34 kg should receive the adult dose (2 g).
 
 Table 1.
 Zmax Pediatric Dosage Guidelines: 1-dose regimen
 
-| (mg) | (mL) |  |  |
-| --- | --- | --- | --- |
-| Dosing Calculated on 1 mL/lb, Dose 1 mL of Suspension for every 1 lb of Body Weight for Children <75 lb (34 kg)To ensure accurate dosing, a dosing spoon, medicine syringe, or cup is recommended. |  |  |  |
-| Weight |  | 1 mL/lb Dose |  |
-| Lb | Kg | Dose | Volume |
-| 10 | 5 | 270 | 10 |
-| 15 | 7 | 405 | 15 |
-| 20 | 9 | 540 | 20 |
-| 25 | 11 | 675 | 25 |
-| 30 | 14 | 810 | 30 |
-| 35 | 16 | 945 | 35 |
-| 40 | 18 | 1080 | 40 |
-| 45 | 20 | 1215 | 45 |
-| 50 | 23 | 1350 | 50 |
-| 55 | 25 | 1485 | 55 |
-| 60 | 27 | 1620 | 60 |
-| 65 | 30 | 1755 | 65 |
-| 70 | 32 | 1890 | 70 |
-| ≥75 | 34 | 2000 | Consume entire contents of bottle |
+| (mg) | (mL) |  |
+| --- | --- | --- |
+| Dosing Calculated on 60 mg/kg as a single dose for Children <34 kgTo ensure accurate dosing, a dosing spoon, medicine syringe, or cup is recommended. |  |  |
+| Weight | 27 mg/mL Dose |  |
+| Kg | Dose | Volume |
+| 5 | 270 | 10 |
+| 7 | 405 | 15 |
+| 9 | 540 | 20 |
+| 11 | 675 | 25 |
+| 14 | 810 | 30 |
+| 16 | 945 | 35 |
+| 18 | 1080 | 40 |
+| 20 | 1215 | 45 |
+| 23 | 1350 | 50 |
+| 25 | 1485 | 55 |
+| 27 | 1620 | 60 |
+| 30 | 1755 | 65 |
+| 32 | 1890 | 70 |
+| ≥34 | 2000 | Consume entire contents of bottle |
 
 ## 2.3 Additional Treatment after Vomiting with Zmax
 
@@ -51,5 +50,5 @@ Shake bottle well before dispensing.
 Do not refrigerate.
 Constituted suspension should be consumed within 12 hr.
 
-For pediatric dosing in patients weighing less than 75 lb (34 kg), use of a dosing device is recommended.
+For pediatric dosing in patients weighing less than 34 kg, use of a dosing device is recommended.
 The pharmacist should inform the patient's caregiver that any suspension remaining after dosing MUST be discarded.

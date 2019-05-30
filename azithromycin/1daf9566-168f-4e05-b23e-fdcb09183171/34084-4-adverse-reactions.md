@@ -26,20 +26,21 @@ The population was 3 months to 12 years of age.
 All patients received a single 60 mg/kg oral dose of Zmax.
 
 As in adults, the most common treatment-related adverse reactions in pediatric subjects were gastrointestinal in nature.
-The pediatric subjects all received a single 60 mg/kg dose (equivalent to 27 mg/lb) of Zmax.
+The pediatric subjects all received a single 60 mg/kg dose of Zmax.
 
 In a trial with 450 pediatric subjects (ages 3 months to 48 months), vomiting (11%), diarrhea (10%) loose stools (9%), and abdominal pain (2%) were the most frequently reported treatment-related gastrointestinal adverse reactions.
 Many treatment related gastrointestinal adverse reactions with an incidence greater than 1% began on the day of dosing in these subjects [43% (68/160)] and most [53% (84/160)] resolved within 48 hr of onset.
-Treatment-related adverse events that were not gastrointestinal, occurring with a frequency ≥ 1% were: rash (5%), anorexia (2%), fever (2%), and dermatitis (2%).
+Treatment-related adverse events that were not gastrointestinal, occurring with a frequency ≥1% were: rash (5%), anorexia (2%), fever (2%), and dermatitis (2%).
 
 In a second trial of 337 pediatric subjects, ages 2 years to 12 years, the most frequently reported treatment-related adverse reactions also included vomiting (14%), diarrhea (7%), loose stools (2%), nausea (4%) and abdominal pain (4%).
 
 A third trial investigated the tolerability of two different concentrations of azithromycin oral suspension in 120 pediatric subjects (ages 3 months to 48 months), all of whom were treated with azithromycin.
 The study evaluated the hypothesis that a more dilute, less viscous formulation (the recommended 27 mg/mL concentration of Zmax) is less likely to induce vomiting in young children than a more concentrated suspension used in other pediatric studies.
 The vomiting rate for subjects taking the dilute concentration azithromycin was 3% (2/61).
-The rate was numerically lower but not statistically different from the vomiting for the more concentrated suspension Across both treatment arms, the only treatment-related adverse events with a frequency of ≥ 1% were vomiting (6%, 7/120) and diarrhea (2%, 2/120).
+The rate was numerically lower but not statistically different from the vomiting for the more concentrated suspension.
+Across both treatment arms, the only treatment-related adverse events with a frequency of ≥1% were vomiting (6%, 7/120) and diarrhea (2%, 2/120).
 
-Treatment-related adverse reactions with a frequency of < 1% following Zmax treatment in all 907 pediatric subjects in the Phase 3 studies were:
+Treatment-related adverse reactions with a frequency of <1% following Zmax treatment in all 907 pediatric subjects in the Phase 3 studies were:
 
 Body as a whole: Chills, fever, flu syndrome, headache; Digestive: Abnormal stools, constipation, dyspepsia, flatulence, gastritis, gastrointestinal disorder, hepatitis; Hematologic and lymphatic: Leukopenia; Nervous system: Agitation, emotional liability, hostility, hyperkinesia, insomnia, irritability, paresthesia, Somnolence; Respiratory: Asthma, bronchitis, cough, dyspnea, pharyngitis, rhinitis; Skin and appendages: Dermatitis, fungal dermatitis, maculopapular rash, pruritus, urticaria; Special senses: Otitis media, taste perversion; Urogenital: Dysuria.
 
@@ -49,10 +50,19 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adverse events reported with azithromycin immediate release formulations during the postmarketing period for which a causal relationship may not be established include:
 
-Allergic: Arthralgia, edema, urticaria and angioedema Cardiovascular: Palpitations and arrhythmias including ventricular tachycardia and hypotension There have been reports of QT prolongation and torsades de pointes.
-Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis Genitourinary: Interstitial nephritis, acute renal failure and vaginitis Hematopoietic: Thrombocytopenia, mild neutropenia Liver/biliary: Adverse reactions related to hepatic dysfunction have been reported in postmarketing experience with azithromycin.
-[See Warnings and Precautions (5.2)] Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope Psychiatric: Aggressive reaction and anxiety Skin/appendages: Pruritus, rash, photosensitivity, serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
-Special senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss
+Allergic: Arthralgia, edema, urticaria and angioedema.
+Cardiovascular: Palpitations and arrhythmias including ventricular tachycardia and hypotension.
+There have been reports of QT prolongation and torsades de pointes.
+Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration.
+General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis.
+Genitourinary: Interstitial nephritis, acute renal failure and vaginitis.
+Hematopoietic: Thrombocytopenia, mild neutropenia.
+Liver/biliary: Adverse reactions related to hepatic dysfunction have been reported in postmarketing experience with azithromycin.
+[See Warnings and Precautions (5.2)].
+Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
+Psychiatric: Aggressive reaction and anxiety.
+Skin/appendages: Pruritus, rash, photosensitivity, serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+Special senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss.
 
 ## 6.3 Laboratory Abnormalities
 

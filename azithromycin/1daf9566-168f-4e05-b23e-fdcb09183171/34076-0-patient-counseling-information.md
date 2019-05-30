@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 General Patient Counseling
 
 - Patients should be instructed to take Zmax on an empty stomach (at least 1 hr before or 2 hr following a meal).
@@ -22,5 +24,3 @@ General Patient Counseling
 Patients should be counseled that antibacterial drugs including Zmax should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 Not taking the complete prescribed dose may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Zmax or other antibacterial drugs in the future.
-
-See FDA-approved Patient Labeling

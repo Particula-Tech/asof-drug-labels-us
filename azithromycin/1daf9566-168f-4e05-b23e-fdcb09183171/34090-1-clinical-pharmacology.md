@@ -86,14 +86,14 @@ Over the course of a week, approximately 6% of the administered dose appears as 
 
 Specific Populations
 
-Renal Insufficiency
+Patients with Renal Impairment
 
 Azithromycin pharmacokinetics were investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
 Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), the mean Cmax and AUC0–120 were 5.1% and 4.2% higher, respectively in subjects with GFR 10 to 80 mL/min compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0–120 were 61% and 35% higher, respectively in subjects with GFR <10 mL/min compared to subjects with normal renal function.
 [See Use in Specific Populations Renal Impairment (8.6)]
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been established.
 
@@ -120,12 +120,12 @@ Mean (SD) Pharmacokinetic Parameters for Azithromycin Following Administration o
 | Empty stomach = dosed with Zmax at least 1 hr before or 2 hr after a meal (Groups I–VI) |  |  |  |  |
 | Fed = dosed with Zmax within 5 minutes of consuming an age-appropriate high-fat breakfast (Group VII) |  |  |  |  |
 
-Gender
+Male and Female Patients
 
 The impact of gender on the pharmacokinetics of azithromycin has not been evaluated for Zmax.
 However, previous studies have demonstrated no significant differences in the disposition of azithromycin between male and female subjects.
 
-Pharmacokinetic Interaction Studies
+Drug Interaction Studies
 
 A drug interaction study was performed with Zmax and antacids.
 All other drug interaction studies were performed with azithromycin immediate release (IR) formulations (capsules and tablets, doses ranging from 500 to 1200 mg) and other drugs likely to be co-administered.
@@ -140,7 +140,7 @@ However, no dose adjustment of azithromycin is recommended when Zmax is co-admin
 
 Pharmacokinetic and/or pharmacodynamic interactions with the drugs listed below have not been reported in clinical trials with azithromycin; however, no specific drug interaction studies have been performed to evaluate potential drug-drug interaction.
 Nonetheless, pharmacokinetic and/or pharmacodynamic interactions with these drugs have been observed with other macrolide products.
-Until further data are developed, careful monitoring of patients is advised when azithromycin and these drugs are used concomitantly: digoxin, ergotamine or dihydroergotamine, cyclosporine, hexobarbital and phenytoin.
+Until further data are developed, careful monitoring of patients is advised when azithromycin and these drugs are used concomitantly: digoxin, colchicine, ergotamine or dihydroergotamine, cyclosporine, hexobarbital and phenytoin.
 
 Table 5.
 Drug Interactions: Pharmacokinetic Parameters of Co-administered Drugs in the Presence of Azithromycin

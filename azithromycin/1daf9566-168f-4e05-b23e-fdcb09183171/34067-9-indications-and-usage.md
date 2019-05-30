@@ -2,7 +2,7 @@
 
 ## 1.1 Acute Bacterial Sinusitis in Adults and Community-Acquired Pneumonia
 
-Zmax (azithromycin) is a macrolide antibacterial drug indicated for the treatment with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
+Zmax (azithromycin) is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
 [See Clinical Studies (14)]
 
 Acute bacterial sinusitis in adults due to Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.

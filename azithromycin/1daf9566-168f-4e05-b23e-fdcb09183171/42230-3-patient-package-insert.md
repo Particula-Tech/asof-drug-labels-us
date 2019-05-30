@@ -49,7 +49,18 @@ Tell your doctor about all your or your child's medical problems including if yo
 Contact your healthcare provider immediately if you are giving Zmax to a young child (less than 6 weeks of age) and he or she vomits or becomes irritable when fed.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-Especially tell your doctor if you or your child are taking warfarin (Coumadin®, Jantoven)
+
+Zmax and other medicines may affect each other causing side effects.
+Zmax may affect the way other medicines work, and other medicines may affect how Zmax works.
+
+Especially tell your healthcare provider if you take:
+
+- nelfinavir
+- a blood thinner (warfarin)
+- digoxin
+- colchicine
+- phenytoin
+- an antacid that contains aluminum or magnesium
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor or pharmacist when you get a new prescription.
@@ -151,8 +162,8 @@ Coumadin® is a registered trademark of Bristol-Myers Squibb, Inc.
 Ketek® is a registered trademark of Aventis Pharmaceuticals Inc.
 
 This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com
+For current full prescribing information, please visit www.pfizer.com.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0606-5.0 Revised February 2017
+LAB-0606-6.0 Revised April 2019
