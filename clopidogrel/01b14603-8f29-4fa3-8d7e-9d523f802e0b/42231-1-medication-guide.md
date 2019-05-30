@@ -134,6 +134,7 @@ Plavix can cause serious side effects including:
   - stomach area (abdominal) pain
   - nausea, vomiting, or diarrhea
   - vision changes
+  - persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 Tell your doctor if you develop an allergic reaction including skin reactions while taking Plavix.
