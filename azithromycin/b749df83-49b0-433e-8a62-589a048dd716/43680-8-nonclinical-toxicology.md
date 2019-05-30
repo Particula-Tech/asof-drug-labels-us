@@ -4,7 +4,10 @@
 
 Long-term studies in animals have not been performed to evaluate carcinogenic potential.
 Azithromycin has shown no mutagenic potential in standard laboratory tests: mouse lymphoma assay, human lymphocyte clastogenic assay, and mouse bone marrow clastogenic assay.
-No evidence of impaired fertility due to azithromycin was found in rats given daily doses up to 10 mg/kg (approximately 0.2 times an adult daily dose of 600 mg based on body surface area).
+In fertility studies conducted in male and female rats, oral administration of azithromycin for 64 to 66 days (males) or 15 days (females) prior to and during cohabitation resulted in decreased pregnancy rate at 20 and 30 mg/kg/day when both males and females were treated with azithromycin.
+This minimal effect on pregnancy rate (approximately 12% reduction compared to concurrent controls) did not become more pronounced when the dose was increased from 20 to 30 mg/kg/day (approximately 0.3 to 0.5 times the adult human daily dose of 600 mg based on body surface area) and it was not observed when only one animal in the mated pair was treated.
+There were no effects on any other reproductive parameters, and there were no effects on fertility at 10 mg/kg/day.
+The relevance of these findings to patients being treated with azithromycin at the doses and durations recommended in the prescribing information is uncertain.
 
 ## 13.2 Animal Toxicology
 

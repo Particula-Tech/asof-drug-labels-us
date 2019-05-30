@@ -48,7 +48,7 @@ Overall, the most common adverse reactions in patients receiving a single-dose r
 
 Adverse reactions that occurred in patients on the single 1 gram dosing regimen of ZITHROMAX with a frequency of 1% or greater included diarrhea/loose stools (7%), nausea (5%), abdominal pain (5%), vomiting (2%), dyspepsia (1%), and vaginitis (1%).
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of azithromycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -62,7 +62,7 @@ There have been reports of QT prolongation and torsades de pointes.
 
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and tongue discoloration.
 
-General: Asthenia, paresthesia, fatigue, malaise, and anaphylaxis
+General: Asthenia, paresthesia, fatigue, malaise, and anaphylaxis.
 
 Genitourinary: Interstitial nephritis, acute renal failure, and vaginitis.
 

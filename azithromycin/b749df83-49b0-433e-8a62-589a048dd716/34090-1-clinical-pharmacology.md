@@ -13,7 +13,7 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 Cardiac Electrophysiology
 
 QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with oral azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
-Co- administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
+Co-administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
 In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
 
 ## 12.3 Pharmacokinetics
@@ -44,7 +44,7 @@ The high values in adults for apparent steady-state volume of distribution (31.1
 
 Absorption
 
-The 1 gram single-dose packet is bioequivalent to four 250 mg azithromycin capsule
+The 1 gram single-dose packet is bioequivalent to four 250 mg azithromycin capsule.
 
 When the oral suspension of azithromycin was administered with food, the Cmax increased by 46% and the AUC by 14%.
 
@@ -74,7 +74,7 @@ The clinical relevance of these findings is unknown.
 Following oral administration of multiple daily doses of 600 mg (1 tablet/day) to asymptomatic HIV-positive adults, mean maximum concentration in peripheral leukocytes was 252 µg/mL (±49%).
 Trough concentrations in peripheral leukocytes at steady-state averaged 146 µg/mL (±33%).
 The mean leukocyte-to-serum Cmax ratio was 456 (±38%) and the mean leukocyte to serum AUC ratio was 816 (±31%).
-The clinical relevance of these findings is unknown..
+The clinical relevance of these findings is unknown.
 
 Metabolism
 
@@ -87,17 +87,17 @@ Over the course of a week, approximately 6% of the administered dose appears as 
 
 Specific Populations
 
-Renal Insufficiency
+Patients with Renal Impairment
 
 Azithromycin pharmacokinetics was investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
 Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), the mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively, in subjects with GFR 10 to 80 mL/min compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0–120 increased 61% and 35%, respectively, in subjects with end-stage renal disease (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been established.
 
-Gender
+Male and Female Patients
 
 There are no significant differences in the disposition of azithromycin between male and female subjects.
 No dosage adjustment is recommended on the basis of gender.
@@ -112,7 +112,7 @@ Pediatric Patients
 
 For information regarding the pharmacokinetics of ZITHROMAX (azithromycin for oral suspension) in pediatric patients, see the prescribing information for ZITHROMAX (azithromycin for oral suspension) 100 mg/5 mL and 200 mg/5 mL bottles.
 
-Drug-drug Interactions
+Drug Interaction Studies
 
 Drug interaction studies were performed with azithromycin and other drugs likely to be co-administered.
 The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
