@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210665"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-751-00",
+    "63323-751-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Phenylephrine Hydrochloride"
+    }
+  ],
+  "setid": "1e77b9c8-fa17-4aa4-adc8-ff716ab2e5d7",
+  "source": "dailymed"
+}
