@@ -10,9 +10,9 @@ Pulmonary Toxicity
 Advise patients of the risks of pulmonary toxicity, including respiratory failure and death.
 Instruct patients to immediately contact their healthcare provider for development of shortness of breath, wheezing, or cough [see Warnings and Precautions (5.3)].
 
-Hemolytic-Uremic Syndrome and Renal Failure
+Hemolytic Uremic Syndrome and Renal Failure
 
-Advise patients of the risks of hemolytic-uremic syndrome and associated renal failure.
+Advise patients of the risks of hemolytic uremic syndrome and associated renal failure.
 Instruct patients to immediately contact their healthcare provider for changes in the color or volume of urine output or for increased bruising or bleeding [see Warnings and Precautions (5.4)].
 
 Hepatic Toxicity
@@ -34,7 +34,7 @@ Infertility
 
 Advise males of reproductive potential of the potential for reduced fertility with GEMZAR [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 1996, 2018, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 1996, 2019, Eli Lilly and Company.
 All rights reserved.
 
-GEM-0006-USPI-20181204
+GEM-0007-USPI-20190514

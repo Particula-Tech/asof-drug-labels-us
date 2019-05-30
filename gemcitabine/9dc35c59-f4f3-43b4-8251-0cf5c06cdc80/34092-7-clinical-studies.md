@@ -4,7 +4,7 @@
 
 The efficacy of GEMZAR was evaluated in a randomized trial (Study 1) conducted in women with advanced ovarian cancer that had relapsed at least 6 months after first-line platinum-based therapy.
 Patients were randomized to receive either GEMZAR 1000 mg/m2 on Days 1 and 8 of each 21-day cycle with carboplatin AUC 4 on Day 1 after GEMZAR administration (n=178) or carboplatin AUC 5 on Day 1 of each 21-day cycle (n=178).
-The major efficacy outcome measure was progression free survival (PFS).
+The major efficacy outcome measure was progression-free survival (PFS).
 
 A total of 356 patients were enrolled.
 Demographics and baseline characteristics are shown in Table 16.
@@ -38,7 +38,7 @@ Table 17: Efficacy Results in Study 1
 
 | Efficacy Parameter | GEMZAR/Carboplatin (N=178) | Carboplatin (N=178) |
 | --- | --- | --- |
-| Progression-free Survival |  |  |
+| Progression-Free Survival |  |  |
 | Median (95% CIa) in months | 8.6 (8.0, 9.7) | 5.8 (5.2, 7.1) |
 | Hazard Ratio (95% CI) | 0.72 (0.57, 0.90) |  |
 | p-valueb | p=0.0038 |  |
@@ -61,11 +61,11 @@ Table 17: Efficacy Results in Study 1
 | e PR with PRNM=Partial response with partial response, non-measurable disease. |  |  |
 | f Independently reviewed cohort - GEMZAR/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam. |  |  |
 
-Figure 1: Kaplan-Meier Curves for Progression Free Survival in Study 1
+Figure 1: Kaplan-Meier Curves for Progression-Free Survival in Study 1
 
 ## 14.2 Breast Cancer
 
-The efficacy of GEMZAR were evaluated in a multi-national, randomized, open-label trial (Study 2) conducted in women receiving initial treatment for metastatic breast cancer and who have received prior adjuvant/neoadjuvant anthracycline chemotherapy unless clinically contraindicated.
+The efficacy of GEMZAR was evaluated in a multinational, randomized, open-label trial (Study 2) conducted in women receiving initial treatment for metastatic breast cancer and who have received prior adjuvant/neoadjuvant anthracycline chemotherapy unless clinically contraindicated.
 Patients were randomized to receive either GEMZAR 1250 mg/m2 on Days 1 and 8 of each 21-day cycle with paclitaxel 175 mg/m2 administered on Day 1 before GEMZAR administration (n=267) or paclitaxel 175 mg/m2 on Day 1 of each 21-day cycle (n=262).
 The major efficacy outcome measure was time to documented disease progression.
 
@@ -97,10 +97,10 @@ Table 19: Efficacy Results in Study 2
 | --- | --- | --- |
 | Time to Documented Disease Progressiona |  |  |
 | Median (95% CI) in months | 5.2 (4.2, 5.6) | 2.9 (2.6, 3.7) |
-| Hazard Ratio (95% CI) | 0.650 (0.59, 0.85) |  |
+| Hazard Ratio (95% CI) | 0.650 (0.524, 0.805) |  |
 | p-value | p<0.0001 |  |
 | Overall Survivalb |  |  |
-| Median (95% CI) in months | 18.6 (16.6, 20.7) | 15.8 (14.1, 17.4) |
+| Median (95% CI) in months | 18.6 (16.5, 20.7) | 15.8 (14.1, 17.3) |
 | Hazard Ratio (95% CI) | 0.86 (0.71, 1.04) |  |
 | p-value | Not Significant |  |
 | Overall Response Rate | 40.8% | 22.1% |
@@ -111,7 +111,7 @@ Table 19: Efficacy Results in Study 2
 
 Figure 2: Kaplan-Meier Curves for Time to Documented Disease Progression in Study 2
 
-## 14.3 Non-Small Cell Lung Cancer (NSCLC)
+## 14.3 Non-Small Cell Lung Cancer
 
 The efficacy of GEMZAR was evaluated in two randomized, multicenter trials.
 
@@ -167,7 +167,7 @@ Table 21: Efficacy Results for Studies 3 and 4
 | p-valuef | p=0.008 |  | p=0.18 |  |
 | Time to Disease Progression |  |  |  |  |
 | Median (95% CIa) in months | 5.2 (4.2, 5.7) | 3.7 (3.0, 4.3) | 5.0 (4.2, 6.4) | 4.1 (2.4, 4.5) |
-| p-valueb | p=0.009 |  | p=0.05 |  |
+| p-valueb | p=0.009 |  | p=0.015 |  |
 | Tumor Response | 26% | 10% | 33% | 14% |
 | p-valueb | p<0.0001 |  | p=0.01 |  |
 | a CI=confidence intervals. |  |  |  |  |
@@ -201,7 +201,7 @@ Table 22: Baseline Demographics and Clinical Characteristics for Study 5
 |  | GEMZAR (N=63) | Fluorouracil (N=63) |
 | --- | --- | --- |
 | Male | 54% | 54% |
-| Median age | 62 years | 61 years |
+| Median age, years | 62 | 61 |
 | Range | 37 to 79 | 36 to 77 |
 | Stage IV disease | 71% | 76% |
 | Baseline KPSa ≤70 | 70% | 68% |
@@ -211,7 +211,7 @@ Table 23: Efficacy Results in Study 5
 
 | Efficacy Parameter | GEMZAR (N=63) | Fluorouracil (N=63) |
 | --- | --- | --- |
-| Clinical benefit response | 22.2% | 4.8% |
+| Clinical Benefit Response | 22.2% | 4.8% |
 | p-valuea | p=0.004 |  |
 | Overall Survival |  |  |
 | Median (95% CI) in months | 5.7 (4.7, 6.9) | 4.2 (3.1, 5.1) |

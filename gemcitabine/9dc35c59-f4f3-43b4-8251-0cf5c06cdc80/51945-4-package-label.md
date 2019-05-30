@@ -1,6 +1,6 @@
 PACKAGE CARTON – Gemzar 200 mg carton 1ct
 
-Sterile Single-Use Vial
+Single-Dose Vial
 
 VL7501
 
@@ -16,6 +16,8 @@ gemcitabine for injection
 
 Rx only
 
+Must be reconstituted and further diluted
+
 For Intravenous Use Only
 
 www.gemzar.com
@@ -24,7 +26,7 @@ Lilly
 
 PACKAGE CARTON – Gemzar 1 g carton 1ct
 
-Sterile Single-Use Vial
+Single-Dose Vial
 
 VL7502
 
@@ -39,6 +41,8 @@ gemcitabine for injection
 1 g/vial
 
 Rx only
+
+Must be reconstituted and further diluted
 
 For Intravenous Use Only
 

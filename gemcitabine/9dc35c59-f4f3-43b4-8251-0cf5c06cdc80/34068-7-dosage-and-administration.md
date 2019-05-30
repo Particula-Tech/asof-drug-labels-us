@@ -90,16 +90,16 @@ Table 4: Recommended Dosage Modifications for GEMZAR for Myelosuppression in Pan
 
 | Absolute Neutrophil Count (x 106/L) |  | Platelet Count (x 106/L) | Dosage Modification |
 | --- | --- | --- | --- |
-| Greater than or equal to 1000 | and | Greater than or equal to 100,000 | None |
-| 500 to 999 | or | 50,000 to 99,999 | 75% of full dose |
-| Less than 500 | or | Less than 50,000 | Hold |
+| Greater than or equal to 1000 | And | Greater than or equal to 100,000 | None |
+| 500 to 999 | Or | 50,000 to 99,999 | 75% of full dose |
+| Less than 500 | Or | Less than 50,000 | Hold |
 
 ## 2.5 Dosage Modifications for Non-Hematologic Adverse Reactions
 
 Permanently discontinue GEMZAR for any of the following:
 
 - Unexplained dyspnea or evidence of severe pulmonary toxicity [see Warnings and Precautions (5.3)]
-- Hemolytic-uremic syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.4)]
+- Hemolytic uremic syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.4)]
 - Severe hepatic toxicity [see Warnings and Precautions (5.5)]
 - Capillary leak syndrome (CLS) [see Warnings and Precautions (5.8)]
 - Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)]
