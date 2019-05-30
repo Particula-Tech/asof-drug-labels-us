@@ -51,9 +51,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibacte
 
 ## 5.6 Exacerbation of Myasthenia Gravis
 
-Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azitrhromycin therapy.
+Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5 7 Infusion Site Reactions
+## 5.7 Infusion Site Reactions
 
 ZITHROMAX for injection should be reconstituted and diluted as directed and administered as an intravenous infusion over not less than 60 minutes.
 [see Dosage and Administration (2)]

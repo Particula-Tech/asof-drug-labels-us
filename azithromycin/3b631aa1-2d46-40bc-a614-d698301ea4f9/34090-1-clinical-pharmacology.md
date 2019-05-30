@@ -12,7 +12,7 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 Cardiac Electrophysiology
 
 QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with oral azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
-Co- administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
+Co-administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
 In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
 
 Since the mean Cmax of azithromycin following a 500 mg IV dose given over 1 hr is higher than the mean Cmax of azithromycin following the administration of a 1500 mg oral dose, it is possible that QTc may be prolonged to a greater extent with IV azithromycin at close proximity to a one hour infusion of 500 mg.
@@ -61,17 +61,17 @@ Biliary excretion is a major route of elimination for unchanged drug, following 
 
 Specific Populations
 
-Renal Insufficiency
+Patients with Renal Impairment
 
 Azithromycin pharmacokinetics were investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
 Following the oral administration of a single 1,000 mg dose of azithromycin, mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0–120 increased 61% and 35%, respectively in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been established.
 
-Gender
+Male and Female Patients
 
 There are no significant differences in the disposition of azithromycin between male and female subjects.
 No dosage adjustment is recommended based on gender.
@@ -86,7 +86,7 @@ Pediatric Patients
 
 Pharmacokinetic studies with intravenous azithromycin have not been performed in children.
 
-Drug-drug Interactions
+Drug Interaction Studies
 
 Drug interaction studies were performed with oral azithromycin and other drugs likely to be co-administered.
 The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
