@@ -32,7 +32,7 @@ Sometimes people with metabolic acidosis will:
 Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with topiramate.
 If you are pregnant, you should talk to your healthcare provider about whether you have metabolic acidosis.
 
-- Like other antiepileptic drugs, topiramate may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+Like other antiepileptic drugs, topiramate may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -73,7 +73,8 @@ Topiramate can harm your unborn baby.
 - Tell your healthcare provider right away if you become pregnant while taking topiramate.
   You and your healthcare provider should decide if you will continue to take topiramate while you are pregnant.
 - If you take topiramate during pregnancy, your baby may be smaller than expected at birth.
-  The long-term effects of this are not known.Talk to your healthcare provider if you have questions about this risk during pregnancy.
+  The long-term effects of this are not known.
+  Talk to your healthcare provider if you have questions about this risk during pregnancy.
 - Metabolic acidosis may have harmful effects on your baby.
   Talk to your healthcare provider if topiramate has caused metabolic acidosis during your pregnancy.
 - Pregnancy Registry: If you become pregnant while taking topiramate, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -84,8 +85,8 @@ What is topiramate?
 
 Topiramate is a prescription medicine used:
 
-- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
-- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
+- to treat certain types of seizures (partial-onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
+- with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
 - to prevent migraine headaches in adults and adolescents 12 years and older.
 
 Before taking topiramate, tell your healthcare provider about all of your medical conditions, including if you:
@@ -221,6 +222,10 @@ Do not give topiramate to other people, even if they have the same symptoms that
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about topiramate that is written for health professionals.
 
+This Medication Guide summarizes the most important information about topiramate.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about topiramate that is written for health professionals.
+
 Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 What are the ingredients in topiramate?
@@ -240,6 +245,3 @@ Inactive ingredients: cellulose acetate, gelatin, hypromellose, povidone, sodium
 DEPAKENE® and DEPAKOTE® are registered trademarks of Abbott Laboratories.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-This product's label may have been updated.
-For current full prescribing information, please visit www.zydususa.com.

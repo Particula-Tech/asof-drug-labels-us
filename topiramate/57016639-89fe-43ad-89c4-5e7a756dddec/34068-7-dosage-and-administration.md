@@ -11,7 +11,7 @@ Table 1
 
 Monotherapy Titration Schedule for Adults and Pediatric Patients 10 years and older
 
-|  | Morning Dose | Evening Dose |
+| Header$ | Morning Dose | Evening Dose |
 | --- | --- | --- |
 | Week 1 | 25 mg | 25 mg |
 | Week 2 | 50 mg | 50 mg |
@@ -58,12 +58,14 @@ The dosage should then be increased at 1- or 2-week intervals by increments of 1
 Dose titration should be guided by clinical outcome.
 The total daily dose should not exceed 400 mg/day.
 
-## 2.3 Dosing in Migraine Prophylaxis
+## 2.3 Dosing for the Preventive Treatment of Migraine
 
-The recommended total daily dose of Topiramate as treatment for patients 12 years of age and older for prophylaxis of migraine headache is 100 mg/day administered in two divided doses (Table 3).
-The recommended titration rate for topiramate for migraine prophylaxis is as follows:
+The recommended total daily dose of Topiramate as treatment for patients 12 years of age and older for the preventive treatment of migraine is 100 mg/day administered in two divided doses (Table 3).
+The recommended titration rate for topiramate for the preventive treatment of migraine is as follows:
 
-Table 3 Migraine Prophylaxis Titration Schedule for Patients 12 Years of Age and Older
+Table 3
+
+Preventive Treatment of Migraine Titration Schedule for Patients 12 Years of Age and Older
 
 |  | Morning Dose | Evening Dose |
 | --- | --- | --- |
