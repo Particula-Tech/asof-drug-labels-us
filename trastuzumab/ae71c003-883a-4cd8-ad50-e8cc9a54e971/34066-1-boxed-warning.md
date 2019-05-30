@@ -11,7 +11,7 @@ Discontinue HERZUMA treatment in patients receiving adjuvant therapy and withhol
 Infusion Reactions; Pulmonary Toxicity
 
 Administration of trastuzumab products can result in serious and fatal infusion reactions and pulmonary toxicity.
-Symptoms usually occur during or within 24 hours of HERZUMA administration.
+Symptoms usually occur during or within 24 hours of administration.
 Interrupt HERZUMA infusion for dyspnea or clinically significant hypotension.
 Monitor patients until symptoms completely resolve.
 Discontinue HERZUMA for anaphylaxis, angioedema, interstitial pneumonitis, or acute respiratory distress syndrome [see Warnings and Precautions (5.2, 5.4)].

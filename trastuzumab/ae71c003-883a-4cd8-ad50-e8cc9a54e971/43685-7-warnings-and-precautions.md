@@ -24,6 +24,7 @@ The following schedule is recommended:
 - LVEF measurements every 6 months for at least 2 years following completion of HERZUMA as a component of adjuvant therapy.
 
 In Study 1, 15% (158/1031) of patients discontinued trastuzumab due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH (anthracycline, cyclophosphamide, paclitaxel, and trastuzumab) arm.
+In Study 3 (one-year trastuzumab treatment), the number of patients who discontinued trastuzumab due to cardiac toxicity at 12.6 months median duration of follow-up was 2.6% (44/1678).
 In Study 4, a total of 2.9% (31/1056) of patients in the TCH (docetaxel, carboplatin, trastuzumab) arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) of patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued trastuzumab due to cardiac toxicity.
 
 Among 64 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy, one patient died suddenly without documented etiology and 33 patients were receiving cardiac medication at last follow-up.
@@ -37,8 +38,11 @@ Table 1: Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
 | --- | --- | --- | --- |
 |  |  | Incidence of CHF |  |
 | 1 & 2Median follow-up duration for studies 1 and 2 combined was 8.3 years in the AC→TH arm. | ACAnthracycline (doxorubicin) and cyclophosphamide.→Paclitaxel+Trastuzumab | 3.2% (64/2000)Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. | 1.3% (21/1655) |
+| 3Includes NYHA II-IV and cardiac death at 12.6 months median duration of follow-up in the one-year trastuzumab arm. | Chemo → Trastuzumab | 2% (30/1678) | 0.3% (5/1708) |
 | 4 | AC→Docetaxel+Trastuzumab | 2% (20/1068) | 0.3% (3/1050) |
 | 4 | Docetaxel+Carbo+Trastuzumab | 0.4% (4/1056) | 0.3% (3/1050) |
+
+In Study 3 (one-year trastuzumab treatment), at a median follow-up duration of 8 years, the incidence of severe CHF (NYHA III & IV) was 0.8%, and the rate of mild symptomatic and asymptomatic left ventricular dysfunction was 4.6%.
 
 Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant asymptomatic decrease in LVEF. in Metastatic Breast Cancer Studies
 

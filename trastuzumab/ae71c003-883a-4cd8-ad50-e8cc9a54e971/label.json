@@ -6,10 +6,16 @@
   "labeler": "Cephalon, Inc.",
   "package_ndcs": [
     "63459-221-20",
+    "63459-303-43",
     "63459-305-47",
     "63459-307-41"
   ],
   "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab",
+      "name": "HERZUMA"
+    },
     {
       "form": "KIT",
       "generic": "trastuzumab",

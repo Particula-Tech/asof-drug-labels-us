@@ -33,10 +33,11 @@ In Study 3, breast tumor specimens were required to show HER2 overexpression (3+
 Patients with node-negative disease were required to have ≥ T1c primary tumor.
 Patients with a history of congestive heart failure or LVEF < 55%, uncontrolled arrhythmias, angina requiring medication, clinically significant valvular heart disease, evidence of transmural infarction on ECG, poorly controlled hypertension (systolic > 180 mm Hg or diastolic > 100 mm Hg) were not eligible.
 
-Study 3 was designed to compare one and two years of trastuzumab treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
+Study 3 was designed to compare one and two years of three-weekly trastuzumab treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
 Patients were randomized (1:1:1) upon completion of definitive surgery, and at least four cycles of chemotherapy to receive no additional treatment, or one year of trastuzumab treatment or two years of trastuzumab treatment.
 Patients undergoing a lumpectomy had also completed standard radiotherapy.
 Patients with ER+ and/or PgR+ disease received systemic adjuvant hormonal therapy at investigator discretion.
+Trastuzumab was administered with an initial dose of 8 mg/kg followed by subsequent doses of 6 mg/kg once every three weeks.
 The main outcome measure was Disease-Free Survival (DFS), defined as in Studies 1 and 2.
 
 A protocol specified interim efficacy analysis comparing one-year trastuzumab treatment to observation was performed at a median follow-up duration of 12.6 months in the trastuzumab arm and formed the basis for the definitive DFS results from this study.
@@ -66,9 +67,9 @@ Among the 3222 patients randomized, the median age was 49 (range 22 to 74 years;
 Disease characteristics included 54% ER+ and/or PR+ and 71% node positive.
 Prior to randomization, all patients underwent primary surgery for breast cancer.
 
-The results for DFS for the integrated analysis of Studies 1 and 2 and Study 4 and OS results for the integrated analysis of Studies 1 and 2 are presented in Table 7.
-For Studies 1 and 2, the duration of DFS following a median follow-up of 2.0 years in the AC→TH arm is presented in Figure 3, and the duration of OS after a median follow-up of 8.3 years in the AC→TH arm is presented in Figure 4.
-The duration of DFS for Study 4 is presented in Figure 5.
+The results for DFS for the integrated analysis of Studies 1 and 2, Study 3, and Study 4 and OS results for the integrated analysis of Studies 1 and 2, and Study 3 are presented in Table 9.
+For Studies 1 and 2, the duration of DFS following a median follow-up of 2.0 years in the AC→TH arm is presented in Figure 4, and the duration of OS after a median follow-up of 8.3 years in the AC→TH arm is presented in Figure 5.
+The duration of DFS for Study 4 is presented in Figure 6.
 Across all four studies, at the time of definitive DFS analysis, there were insufficient numbers of patients within each of the following subgroups to determine if the treatment effect was different from that of the overall patient population: patients with low tumor grade, patients within specific ethnic/racial subgroups (Black, Hispanic, Asian/Pacific Islander patients), and patients > 65 years of age.
 For Studies 1 and 2, the OS hazard ratio was 0.64 (95% CI: 0.55, 0.74).
 At 8.3 years of median follow up [AC→TH], the survival rate was estimated to be 86.9% in the AC→TH arm and 79.4% in the AC→T arm.
@@ -79,45 +80,49 @@ In the subgroup of patients with hormone receptor-negative disease (ER-negative 
 In the subgroup of patients with tumor size ≤ 2 cm (n = 1604), the hazard ratio for OS was 0.52 (95% CI: 0.39, 0.71).
 In the subgroup of patients with tumor size > 2 cm (n = 2448), the hazard ratio for OS was 0.67 (95% CI: 0.56, 0.80).
 
-Table 7: Efficacy Results from Adjuvant Treatment of Breast Cancer (Studies 1 + 2 and Study 4)
+Table 9: Efficacy Results from Adjuvant Treatment of Breast Cancer (Studies 1 + 2, Study 3, and Study 4)
 
 |  | DFS events | DFS Hazard ratio (95% CI) p-value | Deaths (OS events) | OS Hazard ratio p-value |
 | --- | --- | --- | --- | --- |
 | Studies 1 + 2Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus trastuzumab (AC→TH). |  |  |  |  |
 | AC→TH (n = 1872)Efficacy evaluable population, for the primary DFS analysis, following a median follow-up of 2.0 years in the AC→TH arm. (n = 2031)Efficacy evaluable population, for the final OS analysis, following 707 deaths (8.3 years of median follow-up in the AC→TH arm). | 133 | 0.48, Hazard ratio estimated by Cox regression stratified by clinical trial, intended paclitaxel schedule, number of positive nodes, and hormone receptor status. (0.39, 0.59) p< 0.0001stratified log-rank test. | 289 | 0.64, (0.55, 0.74) p< 0.0001 |
 | AC→T (n = 1880) (n = 2032) | 261 |  | 418 |  |
+| Study 3At definitive DFS analysis with median duration of follow-up of 12.6 months in the one-year trastuzumab treatment arm. |  |  |  |  |
+| Chemo→ Trastuzumab (n = 1693) | 127 | 0.54 (0.44, 0.67) p< 0.0001log-rank test. | 31 | 0.75 p = NSNS = non-significant. |
+| Chemo→ Observation (n = 1693) | 219 |  | 40 |  |
 | Study 4Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus trastuzumab (AC→TH); docetaxel and carboplatin plus trastuzumab (TCH). |  |  |  |  |
 | TCH (n = 1075) | 134 | 0.67 (0.54 – 0.84) p=0.0006, A two-sided alpha level of 0.025 for each comparison. | 56 |  |
 | AC→TH (n = 1074) | 121 | 0.60 (0.48 – 0.76) p< 0.0001, | 49 |  |
 | AC→T (n = 1073) | 180 |  | 80 |  |
 | CI = confidence interval |  |  |  |  |
 
-Figure 3: Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Studies 1 and 2)
+Figure 4: Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Studies 1 and 2)
 
-Figure 4: Duration of Overall Survival in Patients with Adjuvant Treatment of Breast Cancer (Studies 1 and 2)
+Figure 5: Duration of Overall Survival in Patients with Adjuvant Treatment of Breast Cancer (Studies 1 and 2)
 
-Figure 5: Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Study 4)
+Figure 6: Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Study 4)
 
-Exploratory analyses of DFS as a function of HER2 overexpression or gene amplification were conducted for patients in Study 2, where central laboratory testing data were available.
-The results are shown in Table 8.
+Exploratory analyses of DFS as a function of HER2 overexpression or gene amplification were conducted for patients in Studies 2 and 3, where central laboratory testing data were available.
+The results are shown in Table 10.
 The number of events in Study 2 was small with the exception of the IHC 3+/FISH+ subgroup, which constituted 81% of those with data.
 Definitive conclusions cannot be drawn regarding efficacy within other subgroups due to the small number of events.
+The number of events in Study 3 was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH+/IHC unknown subgroups.
 
-Table 8: Treatment Outcomes in Study 2 as a Function of HER2 Overexpression or Amplification
+Table 10: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification
 
-| HER2 Assay ResultIHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. | Number of Patients | Hazard Ratio DFS (95% CI) |
-| --- | --- | --- |
-|  | Study 2 |  |
-| IHC 3+ |  |  |
-| FISH (+) | 1170 | 0.42 (0.27, 0.64) |
-| FISH (−) | 51 | 0.71 (0.04, 11.79) |
-| FISH Unknown | 51 | 0.69 (0.09, 5.14) |
-| IHC < 3+ / FISH (+) | 174 | 1.01 (0.18, 5.65) |
-| IHC unknown / FISH (+) | — | — |
+| HER2 Assay ResultIHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. | Number of Patients | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
+| --- | --- | --- | --- | --- |
+|  | Study 2 |  | Study 3Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm. |  |
+| IHC 3+ |  |  |  |  |
+| FISH (+) | 1170 | 0.42 (0.27, 0.64) | 91 | 0.56 (0.13, 2.50) |
+| FISH (−) | 51 | 0.71 (0.04, 11.79) | 8 | — |
+| FISH Unknown | 51 | 0.69 (0.09, 5.14) | 2258 | 0.53 (0.41, 0.69) |
+| IHC < 3+ / FISH (+) | 174 | 1.01 (0.18, 5.65) | 299All cases in this category in Study 3 were IHC 2+. | 0.53 (0.20, 1.42) |
+| IHC unknown / FISH (+) | — | — | 724 | 0.59 (0.38, 0.93) |
 
 ## 14.2 Metastatic Breast Cancer
 
-The safety and efficacy of trastuzumab in treatment of women with metastatic breast cancer were studied in a randomized, controlled clinical trial in combination with chemotherapy (Study 5, n = 469 patients) and an open-label single agent clinical trial (Study 6, n = 222 patients).
+The safety and efficacy of trastuzumab in treatment of women with metastatic breast cancer were studied in a randomized, controlled clinical trial in combination with chemotherapy (Study 5, n = 469 patients) and an open-label, single agent clinical trial (Study 6, n = 222 patients).
 Both trials studied patients with metastatic breast cancer whose tumors overexpress the HER2 protein.
 Patients were eligible if they had 2 or 3 levels of overexpression (based on a 0 to 3 scale) by immunohistochemical assessment of tumor tissue performed by a central testing lab.
 
@@ -131,12 +136,12 @@ For those who had received prior anthracycline therapy in the adjuvant setting, 
 Sixty-five percent of patients randomized to receive chemotherapy alone in this study received trastuzumab at the time of disease progression as part of a separate extension study.
 
 Based upon the determination by an independent response evaluation committee, the patients randomized to trastuzumab and chemotherapy experienced a significantly longer median time to disease progression, a higher overall response rate (ORR), and a longer median duration of response, as compared with patients randomized to chemotherapy alone.
-Patients randomized to trastuzumab and chemotherapy also had a longer median survival (see Table 9).
+Patients randomized to trastuzumab and chemotherapy also had a longer median survival (see Table 11).
 These treatment effects were observed both in patients who received trastuzumab plus paclitaxel and in those who received trastuzumab plus AC; however, the magnitude of the effects was greater in the paclitaxel subgroup.
 
-Table 9: Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer
+Table 11: Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer
 
-|  | Trastuzumab + All Chemotherapy (n = 235) | All Chemotherapy (n = 234) | Trastuzumab + Paclitaxel (n = 92) | Paclitaxel (n = 96) | Trastuzumab + ACAC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. (n = 143) | AC (n = 138) |
+|  | Trastuzumab + All Chemotherapy (n = 235) | All Chemo-therapy (n = 234) | Trastuzumab + Paclitaxel (n = 92) | Paclitaxel (n = 96) | Trastuzumab + ACAC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. (n = 143) | AC (n = 138) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Combined Results |  | Paclitaxel Subgroup |  | AC Subgroup |  |
 | Primary Endpoint |  |  |  |  |  |  |
@@ -153,9 +158,9 @@ Table 9: Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast
 | 95% CI | 22, 30 | 17, 24 | 17, 29 | 13, 24 | 23, 33 | 18, 27 |
 | p-value | 0.05 |  | 0.17 |  | 0.16 |  |
 
-Data from Study 5 suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 10).
+Data from Study 5 suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 12).
 
-Table 10: Treatment Effects in Study 5 as a Function of HER2 Overexpression or Amplification
+Table 12: Treatment Effects in Study 5 as a Function of HER2 Overexpression or Amplification
 
 | HER2 Assay Result | Number of Patients (N) | Relative RiskThe relative risk represents the risk of progression or death in the trastuzumab plus chemotherapy arm versus the chemotherapy arm. for Time to Disease Progression (95% CI) | Relative Risk for Mortality (95% CI) |
 | --- | --- | --- | --- |
@@ -178,3 +183,66 @@ Patients were treated with a loading dose of 4 mg/kg IV followed by weekly doses
 The ORR (complete response + partial response), as determined by an Independent Response Evaluation Committee, was 14%, with a 2% complete response rate and a 12% partial response rate.
 Complete responses were observed only in patients with disease limited to skin and lymph nodes.
 The overall response rate in patients whose tumors tested as CTA 3+ was 18% while in those that tested as CTA 2+, it was 6%.
+
+## 14.3 Metastatic Gastric Cancer
+
+The safety and efficacy of trastuzumab in combination with cisplatin and a fluoropyrimidine (capecitabine or 5-fluorouracil) were studied in patients previously untreated for metastatic gastric or gastroesophageal junction adenocarcinoma (Study 7).
+In this open-label, multi-center trial, 594 patients were randomized 1:1 to trastuzumab in combination with cisplatin and a fluoropyrimidine (FC+H) or chemotherapy alone (FC).
+Randomization was stratified by extent of disease (metastatic vs. locally advanced), primary site (gastric vs. gastroesophageal junction), tumor measurability (yes vs. no), ECOG performance status (0, 1 vs. 2), and fluoropyrimidine (capecitabine vs. 5-fluorouracil).
+All patients were either HER2 gene amplified (FISH+) or HER2 overexpressing (IHC 3+).
+Patients were also required to have adequate cardiac function (e.g., LVEF > 50%).
+
+On the trastuzumab-containing arm, trastuzumab was administered as an IV infusion at an initial dose of 8 mg/kg followed by 6 mg/kg every 3 weeks until disease progression.
+On both study arms, cisplatin was administered at a dose of 80 mg/m2 Day 1 every 3 weeks for 6 cycles as a 2 hour IV infusion.
+On both study arms, capecitabine was administered at 1000 mg/m2 dose orally twice daily (total daily dose 2000 mg/m2) for 14 days of each 21 day cycle for 6 cycles.
+Alternatively, continuous intravenous infusion (CIV) 5-fluorouracil was administered at a dose of 800 mg/m2/day from Day 1 through Day 5 every three weeks for 6 cycles.
+
+The median age of the study population was 60 years (range: 21-83); 76% were male; 53% were Asian, 38% Caucasian, 5% Hispanic, 5% other racial/ethnic groups; 91% had ECOG PS of 0 or 1; 82% had primary gastric cancer and 18% had primary gastroesophageal adenocarcinoma.
+Of these patients, 23% had undergone prior gastrectomy, 7% had received prior neoadjuvant and/or adjuvant therapy, and 2% had received prior radiotherapy.
+
+The main outcome measure of Study 7 was overall survival (OS), analyzed by the unstratified log-rank test.
+The final OS analysis based on 351 deaths was statistically significant (nominal significance level of 0.0193).
+An updated OS analysis was conducted at one year after the final analysis.
+The efficacy results of both the final and the updated analyses are summarized in Table 13 and Figure 7.
+
+Table 13: Study 7: Overall Survival in ITT Population
+
+|  | FC Arm N = 296 | FC + H Arm N = 298 |
+| --- | --- | --- |
+| Definitive (Second Interim) Overall Survival |  |  |
+| No. Deaths (%) | 184 (62.2%) | 167 (56.0%) |
+| Median | 11.0 | 13.5 |
+| 95% CI (mos.) | (9.4, 12.5) | (11.7, 15.7) |
+| Hazard Ratio | 0.73 |  |
+| 95% CI | (0.60, 0.91) |  |
+| p valueComparing with the nominal significance level of 0.0193., two-sided | 0.0038 |  |
+| Updated Overall Survival |  |  |
+| No. Deaths (%) | 227 (76.7%) | 221 (74.2%) |
+| Median | 11.7 | 13.1 |
+| 95% CI (mos.) | (10.3, 13.0) | (11.9, 15.1) |
+| Hazard Ratio | 0.80 |  |
+| 95% CI | (0.67, 0.97) |  |
+
+Figure 7: Updated Overall Survival in Patients with Metastatic Gastric Cancer (Study 7)
+
+An exploratory analysis of OS in patients based on HER2 gene amplification (FISH) and protein overexpression (IHC) testing is summarized in Table 14.
+
+Table 14: Exploratory Analyses by HER2 Status Using Updated Overall Survival Results
+
+|  | FC (N = 296)Two patients on the FC arm who were FISH+ but IHC status unknown were excluded from the exploratory subgroup analyses. | FC + H (N = 298)Five patients on the trastuzumab-containing arm who were FISH+, but IHC status unknown were excluded from the exploratory subgroup analyses. |
+| --- | --- | --- |
+| FISH+ / IHC 0, 1+ subgroup (N=133) |  |  |
+| No. Deaths / n (%) | 57/71 (80%) | 56/62 (90%) |
+| Median OS Duration (mos.) | 8.8 | 8.3 |
+| 95% CI (mos.) | (6.4, 11.7) | (6.2, 10.7) |
+| Hazard ratio (95% CI) | 1.33 (0.92, 1.92) |  |
+| FISH+ / IHC2+ subgroup (N=160) |  |  |
+| No. Deaths / n (%) | 65/80 (81%) | 64/80 (80%) |
+| Median OS Duration (mos.) | 10.8 | 12.3 |
+| 95% CI (mos.) | (6.8, 12.8) | (9.5, 15.7) |
+| Hazard ratio (95% CI) | 0.78 (0.55, 1.10) |  |
+| FISH+ or FISH- / IHC3+Includes 6 patients on chemotherapy arm, 10 patients on trastuzumab arm with FISH–, IHC3+ and 8 patients on chemotherapy arm, 8 patients on trastuzumab arm with FISH status unknown, IHC 3+. subgroup (N=294) |  |  |
+| No. Deaths / n (%) | 104/143 (73%) | 96/151 (64%) |
+| Median OS Duration (mos.) | 13.2 | 18.0 |
+| 95% CI (mos.) | (11.5, 15.2) | (15.5, 21.2) |
+| Hazard ratio (95% CI) | 0.66 (0.50, 0.87) |  |
