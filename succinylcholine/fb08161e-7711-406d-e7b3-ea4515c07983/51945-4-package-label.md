@@ -2,7 +2,7 @@
 
 10 mL
 
-NDC 0409-6629-02
+NDC 0409-6629-12
 
 SUCCINYLCHOLINE CHLORIDE INJECTION, USP
 
@@ -10,7 +10,7 @@ SUCCINYLCHOLINE CHLORIDE INJECTION, USP
 
 WARNING: Paralyzing Agent
 
-QUELICIN®
+QUELICIN™
 
 WARNING: Paralyzing Agent.
 Causes Respiratory Arrest.
@@ -20,17 +20,17 @@ Facilities must be immediately available for artificial respiration
 
 10 mL Multiple-dose
 
-25 Units/NDC 0409-6629-02
+NDC 0409-6629-02 Contains 25 of NDC 0409-6629-12
 
 SUCCINYLCHOLINE CHLORIDE INJECTION, USP
 
-QUELICIN® 200 mg/10 mL (20 mg/mL)
+QUELICIN™ 200 mg/10 mL (20 mg/mL)
 
 Rx only
 
 WARNING: Paralyzing Agent
 
-Store in refrigerator 2° to 8°C (36° to 46°F).
+Store in refrigerator 2° to 8°C (36°to 46°F).
 
 Hospira
 
