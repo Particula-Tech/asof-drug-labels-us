@@ -79,7 +79,7 @@ In animals, voriconazole administration was associated with fetal malformations,
 If voriconazole is used during pregnancy, or if the patient becomes pregnant while taking VORICONAZOLE, inform the patient of the potential hazard to the fetus.
 Advise females of reproductive potential to use effective contraception during treatment with voriconazole [see Use in Specific Populations (8.3)].
 
-## 5.8 Laboratory Tests
+## 5.9 Laboratory Tests
 
 Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during voriconazole therapy.
 
