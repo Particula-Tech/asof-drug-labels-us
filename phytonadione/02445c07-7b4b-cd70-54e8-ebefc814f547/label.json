@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA207719"
+  ],
+  "inn": "phytonadione",
+  "labeler": "Dr.Reddy's Laboratories Inc",
+  "package_ndcs": [
+    "43598-405-11",
+    "43598-405-16"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "phytonadione",
+      "name": "PHYTONADIONE"
+    }
+  ],
+  "setid": "02445c07-7b4b-cd70-54e8-ebefc814f547",
+  "source": "dailymed"
+}
