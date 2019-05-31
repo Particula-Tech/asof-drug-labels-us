@@ -1,20 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LIVALO tablets for oral administration are provided as white, film-coated tablets that contain 1 mg, 2 mg, or 4 mg of pitavastatin.
-Each tablet has “KC” debossed on one side and a code number specific to the tablet strength on the other.
+LIVALO tablets are supplied as follows:
 
-Packaging
-
-LIVALO (pitavastatin) Tablets are supplied as;
-
-- NDC 66869-104-90: 1 mg.
-  Round white film-coated tablet debossed “KC” on one face and “1” on the reverse; HDPE bottles of 90 tablets
-- NDC 66869-204-90: 2 mg.
-  Round white film-coated tablet debossed “KC” on one face and “2” on the reverse; HDPE bottles of 90 tablets
-- NDC 66869-404-90: 4 mg.
-  Round white film-coated tablet debossed “KC” on one face and “4” on the reverse; HDPE bottles of 90 tablets
-
-Storage
+| Tablet Strength | Package Size | Tablet Description | NDC |
+| --- | --- | --- | --- |
+| 1 mg | Bottle of 90 | Round white film-coated tablet debossed “KC” on one face and “1” on the reverse | 66869-104-90 |
+| 2 mg | Bottle of 90 | Round white film-coated tablet debossed “KC” on one face and “2” on the reverse | 66869-204-90 |
+| 4 mg | Bottle of 90 | Round white film-coated tablet debossed “KC” on one face and “4” on the reverse | 66869-404-90 |
 
 Store at room temperature between 15°C and 30°C (59° to 86° F) [see USP].
 Protect from light.

@@ -1,21 +1,23 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
+## 2.1 General Dosage and Administration Information
 
-The dose range for LIVALO is 1 to 4 mg orally once daily at any time of the day with or without food.
-The recommended starting dose is 2 mg and the maximum dose is 4 mg.
-The starting dose and maintenance doses of LIVALO should be individualized according to patient characteristics, such as goal of therapy and response.
+- Take LIVALO orally once daily with or without food at the same time each day.
+- Individualize the dose of LIVALO according to patient characteristics, goal of therapy, and response.
+- After initiation or upon titration of LIVALO, analyze lipid levels after 4 weeks and adjust the dosage accordingly.
 
-After initiation or upon titration of LIVALO, lipid levels should be analyzed after 4 weeks and the dosage adjusted accordingly.
+## 2.2 Recommended Dosage for Adults and Pediatric Patients Aged 8 Years and Older
 
-## 2.2 Dosage in Patients with Renal Impairment
+- The recommended starting LIVALO dosage is 2 mg once daily.
+- The maximum recommended dosage is LIVALO 4 mg once daily [see Warnings and Precautions (5.1)].
 
-Patients with moderate and severe renal impairment (glomerular filtration rate 30 – 59 mL/min/1.73 m2 and 15 – 29 mL/min/1.73 m2 not receiving hemodialysis, respectively) as well as end-stage renal disease receiving hemodialysis should receive a starting dose of LIVALO 1 mg once daily and a maximum dose of LIVALO 2 mg once daily.
+## 2.3 Recommended Dosage in Patients with Renal Impairment
 
-## 2.3 Use with Erythromycin
+- The recommended starting dose for adults with moderate and severe renal impairment (estimated glomerular filtration rate 30 – 59 mL/minute/1.73 m2 and 15 – 29 mL/minute/1.73 m2, respectively) and patients with end-stage renal disease receiving hemodialysis is LIVALO 1 mg once daily.
+- The maximum recommended dose for these patients is LIVALO 2 mg once daily [see Use in Specific Populations (8.6)].
+- A recommended dosage for pediatric patients with renal impairment has not been established.
 
-In patients taking erythromycin, a dose of LIVALO 1 mg once daily should not be exceeded [see Drug Interactions (7.2)].
+## 2.4 LIVALO Dosage Adjustments Due to Drug Interactions
 
-## 2.4 Use with Rifampin
-
-In patients taking rifampin, a dose of LIVALO 2 mg once daily should not be exceeded [see Drug Interactions (7.3)].
+- In patients taking erythromycin, do not exceed LIVALO 1 mg once daily [see Drug Interactions (7)].
+- In patients taking rifampin, do not exceed LIVALO 2 mg once daily [see Drug Interactions (7)].
