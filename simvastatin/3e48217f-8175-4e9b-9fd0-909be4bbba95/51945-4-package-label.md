@@ -34,7 +34,7 @@ Rx only
 
 LUPIN
 
-NDC 68180-480-03
+NDC 68180-464-03
 
 Simvastatin Tablets USP 40 mg
 
@@ -46,7 +46,7 @@ Rx only
 
 LUPIN
 
-NDC 68180-481-03
+NDC 68180-465-03
 
 Simvastatin Tablets USP 80 mg
 

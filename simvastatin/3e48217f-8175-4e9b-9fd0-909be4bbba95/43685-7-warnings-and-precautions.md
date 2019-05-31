@@ -6,6 +6,7 @@ Simvastatin occasionally causes myopathy manifested as muscle pain, tenderness o
 Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred.
 The risk of myopathy is increased by elevated plasma levels of simvastatin and simvastatin acid.
 Predisposing factors for myopathy include advanced age (≥65 years), female gender, uncontrolled hypothyroidism, and renal impairment.
+Chinese patients may be at increased risk for myopathy [see USE IN SPECIFIC POPULATIONS (8.8)].
 
 The risk of myopathy, including rhabdomyolysis, is dose related.
 In a clinical trial database in which 41,413 patients were treated with simvastatin, 24,747 (approximately 60%) of whom were enrolled in studies with a median follow-up of at least 4 years, the incidence of myopathy was approximately 0.03% and 0.08% at 20 and 40 mg/day, respectively.
@@ -53,13 +54,10 @@ Caution should be used when prescribing other fibrates with simvastatin, as thes
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine [see DRUG INTERACTIONS (7.7)].
 
-The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates, ≥1 g/day of niacin, or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see DRUG INTERACTIONS (7.3) and TABLE 3 in CLINICAL PHARMACOLOGY (12.3)] [also see DOSAGE AND ADMINISTRATION, Patients with Homozygous Familial Hypercholesterolemia (2.4)].
+The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (fibrates or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see DOSAGE AND ADMINISTRATION (2.4), DRUG INTERACTIONS (7.3)].
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
-In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses of a niacin-containing product.
-Caution should be used when treating Chinese patients with simvastatin in doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
-Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
-It is unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients [see DRUG INTERACTIONS (7.4)].
+[see DRUG INTERACTIONS (7.4)].
 
 Prescribing recommendations for interacting agents are summarized in TABLE 1 [see also DOSAGE AND ADMINISTRATION (2.3, 2.4), DRUG INTERACTIONS (7), CLINICAL PHARMACOLOGY (12.3)].
 
@@ -83,6 +81,7 @@ TABLE 1Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolys
 | Gemfibrozil |  |
 | Cyclosporine |  |
 | Danazol |  |
+| Niacin (≥1 g/day) | For Chinese patients, not recommended with simvastatin |
 | Verapamil Diltiazem Dronedarone | Do not exceed 10 mg simvastatin daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 20 mg simvastatin daily |
 | Lomitapide | For patients with HoFH, do not exceed 20 mg simvastatin dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |

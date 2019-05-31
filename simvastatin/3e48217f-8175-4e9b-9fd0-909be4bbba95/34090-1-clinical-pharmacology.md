@@ -46,7 +46,7 @@ TABLE 3 Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin System
 | Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio (RatioResults based on a chemical assay except results with propranolol as indicated. with / without coadministered drug) No Effect = 1.00 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUC | Cmax |
-| Contraindicated with simvastatin [see CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
+| Contraindicated with simvastatin[see CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
 | TelithromycinResults could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. | 200 mg QD for 4 days | 80 mg | simvastatin acidSimvastatin acid refers to the β-hydroxyacid of simvastatin. | 12 | 15 |
 |  |  |  | simvastatin | 8.9 | 5.3 |
 | Nelfinavir | 1250 mg BID for 14 days | 20 mg QD for 28 days | simvastatin acid |  |  |
@@ -56,7 +56,7 @@ TABLE 3 Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin System
 | Posaconazole | 100 mg (oral suspension) QD for 13 days | 40 mg | simvastatin acid simvastatin | 7.3 10.3 | 9.2 9.4 |
 |  | 200 mg (oral suspension) QD for 13 days | 40 mg | simvastatin acid simvastatin | 8.5 10.6 | 9.5 11.4 |
 | Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.85 1.35 | 2.18 0.91 |
-| Avoid grapefruit juice with simvastatin [see WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
+| Avoid grapefruit juice with simvastatin[see WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
 | Grapefruit JuiceThe effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. (high dose) | 200 mL of double-strength TIDDouble-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3. | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |
 | Grapefruit Juice (low dose) | 8 oz (about 237mL) of single-strengthSingle-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3. | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |
 | Avoid taking with >10 mg simvastatin, based on clinical and/or postmarketing experience [see WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
@@ -73,7 +73,7 @@ TABLE 3 Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin System
 | Lomitapide | 10 mg QD for 7 days | 20 mg single dose | simvastatin acid simvastatin | 1.4 1.6 | 1.4 1.7 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Fenofibrate | 160 mg QD x 14 days | 80 mg QD on Days 8 to 14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
-| Niacin extended-releaseBecause Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 g/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see WARNINGS AND PRECAUTIONS (5.1) and DRUG INTERACTIONS (7.4)]. | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
+| Niacin extended-release | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
 | Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor | 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL |
 |  |  |  | active inhibitor | 0.79 | ↓ from 7.0 to 4.7 ng·eq/mL |
 
