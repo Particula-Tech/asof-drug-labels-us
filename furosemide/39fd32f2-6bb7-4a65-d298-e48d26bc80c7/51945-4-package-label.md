@@ -4,23 +4,25 @@ Furosemide 100 mg/10 mL (10 mg/mL)
 
 10 mL Single-dose syringe NDC 0409-1639-21 Rx only
 
-Furosemide Injection, USP
-
-100 mg/10 mL (10 mg/mL)
+Furosemide Injection, USP 100 mg/10 mL (10 mg/mL)
 
 For Intravenous or Intramuscular use.
 Do not use if solution is discolored or contains particulate.
 Contains no preservative.
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+RL-7530
 
-Hospira
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
-RL-6904
+LOT ##-###-AA
+
+EXP DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Syringe Carton
 
-NDC 0409-1639-21 Rx only
+NDC 0409-1639-21
+
+Rx only
 
 10 mL
 
@@ -30,11 +32,13 @@ Furosemide Injection, USP
 
 PROTECT FROM LIGHT For Intravenous or Intramuscular use.
 
-Ansyr™
-
-Single-dose Syringe
+Ansyr™ Single-dose Syringe
 
 Hospira
+
+LOT #####AA
+
+EXP DMMMYYYY
 
 ◀ PRESS AND PULL TO OPEN ▶
 
@@ -121,19 +125,19 @@ Furosemide 40 mg/4 mL (10 mg/mL)
 
 4 mL Single-dose syringe NDC 0409-9631-14
 
-Furosemide Injection, USP
-
-40 mg/4 mL (10 mg/mL) Rx only
+Furosemide Injection, USP 40 mg/4 mL (10 mg/mL) Rx only
 
 For Intravenous or Intramuscular use.
 Do not use if solution is discolored or contains particulate.
 Contains no preservative.
 
-Hospira, Inc. Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA Hospira
 
-Hospira
+RL-7538
 
-RL-6903
+LOT ##-###-AA
+
+EXP DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Syringe Carton
 
@@ -152,6 +156,10 @@ For Intravenous or Intramuscular use.
 Ansyr™
 
 Single-dose Syringe
+
+LOT #####AA
+
+EXP DMMMYYYY
 
 Hospira
 
