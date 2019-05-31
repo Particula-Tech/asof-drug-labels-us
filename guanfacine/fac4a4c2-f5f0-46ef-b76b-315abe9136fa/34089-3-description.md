@@ -9,4 +9,3 @@ Guanfacine hydrochloride is a white to off-white powder; sparingly soluble in wa
 
 Each tablet, for oral administration, contains guanfacine hydrochloride equivalent to 1 mg or 2 mg guanfacine.
 The tablets contain the following inactive ingredients: anhydrous lactose, microcrystalline cellulose, partially pregelatinized starch, magnesium stearate and talc.
-The 2 mg tablet also contains D&C Yellow #10 Aluminum Lake.
