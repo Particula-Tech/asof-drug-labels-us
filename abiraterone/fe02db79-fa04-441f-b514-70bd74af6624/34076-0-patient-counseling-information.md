@@ -32,7 +32,7 @@ Fetal Toxicity:
 
 - •Inform patients that abiraterone acetate tablets may harm a developing fetus.
   Advise males with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the final dose of abiraterone acetate tablets [see Use in Specific Populations (8.1)].
-- •Women who are pregnant or women who may be pregnant should not handle abiraterone acetate tablets if broken, crushed, or damaged without protection, e.g., gloves [see Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
+- •Women who are pregnant or women who may be pregnant should not handle abiraterone acetate 250 mg uncoated tablets or other abiraterone acetate tablets if broken, crushed, or damaged without protection, e.g., gloves [see Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
 
 Infertility:
 
