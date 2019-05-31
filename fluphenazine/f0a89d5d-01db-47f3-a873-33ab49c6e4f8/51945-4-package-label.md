@@ -8,6 +8,4 @@ Fluphenazine Hydrochloride Elixir USP
 
 Rx ONLY
 
-pai Pharmaceutical Associates, Inc. Greenville, SC 29605 R09/05
-
-LOT: EXP:
+pai Pharmaceutical Associates, Inc. Greenville, SC 29605 R05/17

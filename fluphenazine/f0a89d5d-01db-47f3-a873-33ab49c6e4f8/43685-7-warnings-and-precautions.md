@@ -28,7 +28,7 @@ However, some patients may require treatment despite the presence of the syndrom
 
 (For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONS, Information for Patients and ADVERSE REACTIONS, Tardive Dyskinesia.)
 
-## Neuroleptic Malignant Syndrome (NMS)
+Neuroleptic Malignant Syndrome (NMS)
 
 A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -90,7 +90,7 @@ Possible risk factors for leukopenia/neutropenia include preexisting low white b
 Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Fluphenazine Hydrochloride Elixir USP at the first sign of a decline in WBC in the absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Fluphenazine Hydrochloride Elixir USP and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm 3) should discontinue Fluphenazine Hydrochloride Elixir USP and have their WBC followed until recovery.
 
 ## Information for Patients
 
