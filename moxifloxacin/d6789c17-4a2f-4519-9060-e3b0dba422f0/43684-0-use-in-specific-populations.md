@@ -46,7 +46,7 @@ In lactating rats given a single oral dose of 4.59 mg/kg moxifloxacin (approxima
 ## 8.4 Pediatric Use
 
 Effectiveness in pediatric patients and adolescents less than 18 years of age has not been established.
-Moxifloxacin hydrochloride causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.10) and Nonclinical Toxicology (13.2)].
+Moxifloxacin hydrochloride causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.11) and Nonclinical Toxicology (13.2)].
 Information describing a clinical study in cIAI in which efficacy was not demonstrated in pediatric patients is approved for Bayer Healthcare Pharmaceuticals Inc.’s AVELOX (moxifloxacin hydrochloride).
 However, due to Bayer Healthcare Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
@@ -57,6 +57,8 @@ This risk is further increased in patients receiving concomitant corticosteroid 
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing moxifloxacin hydrochloride to elderly patients especially those on corticosteroids.
 Patients should be informed of this potential side effect and advised to discontinue moxifloxacin tablets and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, and Warnings and Precautions (5.2)].
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
 
 In controlled multiple-dose clinical trials, 23% of patients receiving oral moxifloxacin hydrochloride were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral moxifloxacin hydrochloride in patients aged 65 or older compared to younger adults.

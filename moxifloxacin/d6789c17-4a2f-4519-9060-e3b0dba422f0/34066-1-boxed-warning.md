@@ -10,7 +10,7 @@ Discontinue moxifloxacin hydrochloride immediately and avoid the use of fluoroqu
 - Fluoroquinolones, including moxifloxacin hydrochloride, may exacerbate muscle weakness in patients with myasthenia gravis.
   Avoid moxifloxacin hydrochloride in patients with known history of myasthenia gravis [see Warnings and Precautions (5.5)].
 
-- Because fluoroquinolones, including moxifloxacin hydrochloride, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.13)], reserve moxifloxacin hydrochloride for use in patients who have no alternative treatment options for the following indications:
+- Because fluoroquinolones, including moxifloxacin hydrochloride, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)], reserve moxifloxacin hydrochloride for use in patients who have no alternative treatment options for the following indications:
 
 - Acute bacterial sinusitis [see Indications and Usage (1.6)]
 - Acute bacterial exacerbation of chronic bronchitis [see Indications and Usage (1.7)]

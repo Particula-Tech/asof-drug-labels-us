@@ -28,13 +28,13 @@ Therefore this indication is based on an efficacy study conducted in animals onl
 
 Moxifloxacin tablets are indicated in adult patients (18 years of age and older) for the treatment of acute bacterial sinusitis (ABS) caused by susceptible isolates of Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.1)].
 
-Because fluoroquinolones, including moxifloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.13)] and for some patients ABS is self-limiting, reserve moxifloxacin tablets for treatment of ABS in patients who have no alternative treatment options.
+Because fluoroquinolones, including moxifloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients ABS is self-limiting, reserve moxifloxacin tablets for treatment of ABS in patients who have no alternative treatment options.
 
 ## 1.7 Acute Bacterial Exacerbation of Chronic Bronchitis
 
 Moxifloxacin tablets are indicated in adult patients for the treatment of Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) caused by susceptible isolates of Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, methicillin-susceptible Staphylococcus aureus, or Moraxella catarrhalis [see Clinical Studies (14.2)].
 
-Because fluoroquinolones, including moxifloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.13)] and for some patients ABECB is self-limiting, reserve moxifloxacin tablets for treatment of ABECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including moxifloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients ABECB is self-limiting, reserve moxifloxacin tablets for treatment of ABECB in patients who have no alternative treatment options.
 
 ## 1.8 Usage
 

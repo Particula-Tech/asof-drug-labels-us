@@ -35,15 +35,10 @@ Avoid fluoroquinolones, including moxifloxacin hydrochloride, in patients who ha
 
 ## 5.4 Central Nervous System Effects
 
-Psychiatric Adverse Reactions
-
-Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, hallucinations, or paranoia; depression or suicidal thoughts or acts; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
+Psychiatric Adverse Reactions Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, hallucinations, or paranoia; depression or suicidal thoughts or acts; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
 These adverse reactions may occur following the first dose.
 If these reactions occur in patients receiving moxifloxacin hydrochloride, discontinue moxifloxacin hydrochloride immediately and institute appropriate measures [see Adverse Reactions (6.1, 6.2)].
-
-Central Nervous System Adverse Reactions
-
-Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), dizziness, and tremors.
+Central Nervous System Adverse Reactions Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), dizziness, and tremors.
 As with all fluoroquinolones, use moxifloxacin hydrochloride with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold.
 These adverse reactions may occur following the first dose.
 If these reactions occur in patients receiving moxifloxacin hydrochloride, discontinue moxifloxacin hydrochloride immediately and institute appropriate measures [see Drug Interactions (7.4) Adverse Reactions (6.1, 6.2), and Patient Counseling Information (17)].
@@ -101,7 +96,13 @@ Serious anaphylactic reactions, some following the first dose, have been reporte
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Discontinue moxifloxacin hydrochloride at the first appearance of a skin rash or any other sign of hypersensitivity [see Warnings and Precautions (5.7)].
 
-## 5.9 Clostridium difficile-Associated Diarrhea
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve moxifloxacin hydrochloride for use only when there are no alternative antibacterial treatments available.
+
+## 5.10 Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including moxifloxacin hydrochloride, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -114,13 +115,13 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.10 Arthropathic Effects in Animals
+## 5.11 Arthropathic Effects in Animals
 
 In immature dogs, oral administration of moxifloxacin hydrochloride caused lameness.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Nonclinical Toxicology (13.2)].
 
-## 5.11 Blood Glucose Disturbances
+## 5.12 Blood Glucose Disturbances
 
 As with all fluoroquinolones, disturbances in blood glucose, including both hypoglycemia and hyperglycemia have been reported with moxifloxacin hydrochloride.
 In moxifloxacin hydrochloride-treated patients, dysglycemia occurred predominantly in elderly diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, sulfonylurea) or with insulin.
@@ -128,12 +129,12 @@ Severe cases of hypoglycemia resulting in coma or death have been reported.
 In diabetic patients, careful monitoring of blood glucose is recommended.
 If a hypoglycemic reaction occurs, discontinue moxifloxacin hydrochloride and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7.3)] and Patient Counseling Information (17).
 
-## 5.12 Photosensitivity/Phototoxicity
+## 5.13 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones, including moxifloxacin hydrochloride, after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
 Moxifloxacin hydrochloride should be discontinued if phototoxicity occurs [see Clinical Pharmacology (12.2)].
 
-## 5.13 Development of Drug Resistant Bacteria
+## 5.14 Development of Drug Resistant Bacteria
 
 Prescribing moxifloxacin hydrochloride in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

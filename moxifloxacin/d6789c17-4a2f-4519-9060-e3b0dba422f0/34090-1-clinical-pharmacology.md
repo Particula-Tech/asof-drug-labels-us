@@ -8,7 +8,7 @@ Moxifloxacin hydrochloride is a member of the fluoroquinolone class of antibacte
 
 Photosensitivity Potential A study of the skin response to ultraviolet (UVA and UVB) and visible radiation conducted in 32 healthy volunteers (8 per group) demonstrated that moxifloxacin hydrochloride does not show phototoxicity in comparison to placebo.
 The minimum erythematous dose (MED) was measured before and after treatment with moxifloxacin (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
-In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED [see Warnings and Precautions (5.12)].
+In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED [see Warnings and Precautions (5.13)].
 
 ## 12.3 Pharmacokinetics
 
@@ -47,7 +47,7 @@ Table 8: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | ≥ 65 years (n = 60) | 4.3 ± 1.3 |  |  |
 | Multiple Dose intravenous |  |  |  |
 | Healthy young male (n = 8) | 4.2 ± 0.8 | 38 ± 4.7 | 14.8 ± 2.2 |
-| Healthy elderly (n=12; 8 male, 4 female) | 6.1 ± 1.3 | 48.2 ± 0.9 | 10.1 ± 1.6 |
+| Healthy elderly (n = 12; 8 male, 4 female) | 6.1 ± 1.3 | 48.2 ± 0.9 | 10.1 ± 1.6 |
 | Patientsb (n = 107) |  |  |  |
 | Male (n = 58) | 4.2 ± 2.6 |  |  |
 | Female (n = 49) | 4.6 ± 1.5 |  |  |
@@ -134,11 +134,11 @@ Renal Insufficiency
 The pharmacokinetic parameters of moxifloxacin are not significantly altered in mild, moderate, severe, or end-stage renal disease.
 No dosage adjustment is necessary in patients with renal impairment, including those patients requiring hemodialysis (HD) or continuous ambulatory peritoneal dialysis (CAPD).
 
-In a single oral dose study of 24 patients with varying degrees of renal function from normal to severely impaired, the mean peak concentrations (Cmax) of moxifloxacin were reduced by 21% and 28% in the patients with moderate (CLCR≥30 and ≤ 60 mL/min) and severe (CLCR<30 mL/min) renal impairment, respectively.
+In a single oral dose study of 24 patients with varying degrees of renal function from normal to severely impaired, the mean peak concentrations (Cmax) of moxifloxacin were reduced by 21% and 28% in the patients with moderate (CLCR≥ 30 and ≤ 60 mL/min) and severe (CLCR<30 mL/min) renal impairment, respectively.
 The mean systemic exposure (AUC) in these patients was increased by 13%.
 In the moderate and severe renally impaired patients, the mean AUC for the sulfate conjugate (M1) increased by 1.7-fold (ranging up to 2.8-fold) and mean AUC and Cmax for the glucuronide conjugate (M2) increased by 2.8-fold (ranging up to 4.8-fold) and 1.4-fold (ranging up to 2.5-fold), respectively [see Use in Specific Populations (8.6)].
 
-The pharmacokinetics of single dose and multiple dose moxifloxacin were studied in patients with CLCR<20 mL/min on either hemodialysis or continuous ambulatory peritoneal dialysis (8 HD, 8 CAPD).
+The pharmacokinetics of single dose and multiple dose moxifloxacin were studied in patients with CLCR< 20 mL/min on either hemodialysis or continuous ambulatory peritoneal dialysis (8 HD, 8 CAPD).
 Following a single 400 mg oral dose, the AUC of moxifloxacin in these HD and CAPD patients did not vary significantly from the AUC generally found in healthy volunteers.
 Cmax values of moxifloxacin were reduced by about 45% and 33% in HD and CAPD patients, respectively, compared to healthy, historical controls.
 The exposure (AUC) to the sulfate conjugate (M1) increased by 1.4- to 1.5-fold in these patients.

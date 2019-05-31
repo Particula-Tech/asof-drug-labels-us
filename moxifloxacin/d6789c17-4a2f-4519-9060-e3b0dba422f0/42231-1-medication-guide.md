@@ -1,12 +1,6 @@
 # FDA-Approved Medication Guide
 
-MEDICATION GUIDE
-
-Moxifloxacin Tablets, USP
-
-(mox'' i flox' a sin)
-
-Rx only
+MEDICATION GUIDE Moxifloxacin Tablets, USP (mox'' i flox' a sin) Rx only
 
 Read the Medication Guide that comes with moxifloxacin tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -177,37 +171,27 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 How should I take moxifloxacin tablets?
 
 - Take moxifloxacin tablets once a day exactly as prescribed by your healthcare provider.
-
 - Take moxifloxacin tablets at about the same time each day.
-
 - Moxifloxacin tablets should be swallowed.
-
 - Moxifloxacin tablets can be taken with or without food.
-
 - Drink plenty of fluids while taking moxifloxacin tablets.
-
 - Do not skip any doses, or stop taking moxifloxacin tablets even if you begin to feel better, until you finish your prescribed treatment, unless:
-
-- You have tendon effects (see “What is the most important information I should know about moxifloxacin tablets?”).
-- You have nerve problems.
-  See “What is the most important information I should know about moxifloxacin tablets?”
-- You have central nervous system problems.
-  See “What is the most important information I should know about moxifloxacin tablets?”
-- You have a serious allergic reaction (see “What are the possible side effects of moxifloxacin tablets?”), or your healthcare provider tells you to stop.
-
+  - You have tendon effects (see “What is the most important information I should know about moxifloxacin tablets?”).
+  - You have nerve problems.
+    See “What is the most important information I should know about moxifloxacin tablets?”
+  - You have central nervous system problems.
+    See “What is the most important information I should know about moxifloxacin tablets?”
+  - You have a serious allergic reaction (see “What are the possible side effects of moxifloxacin tablets?”), or your healthcare provider tells you to stop.
 - This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to moxifloxacin tablets.
   If this happens, moxifloxacin tablets and other antibiotic medicines may not work in the future.
-
 - If you miss a dose of moxifloxacin tablets, take it as soon as you remember.
   Do not take more than 1 dose of moxifloxacin tablets in one day.
-
 - If you take too much, call your healthcare provider or get medical help immediately.
 
 What should I avoid while taking moxifloxacin tablets?
 
 - Moxifloxacin tablets can make you feel dizzy and lightheaded.
   Do not drive, operate machinery, or do other activities that require mental alertness or coordination until you know how moxifloxacin tablets affect you.
-
 - Avoid sunlamps, tanning beds, and try to limit your time in the sun.
   Moxifloxacin tablets can make your skin sensitive to the sun (photosensitivity) and the light from sunlamps and tanning beds.
   You could get severe sunburn, blisters or swelling of your skin.
@@ -234,6 +218,11 @@ Serious allergic reactions
   - Yellowing of the skin or eyes.
     Stop taking moxifloxacin tablets and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
     These can be signs of a serious reaction to moxifloxacin tablets (a liver problem).
+
+Aortic aneurysm and dissection
+
+- Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 
 Skin rash
 
@@ -289,7 +278,6 @@ General Information about moxifloxacin tablets
   Do not use moxifloxacin tablets for a condition for which it is not prescribed.
   Do not give moxifloxacin tablets to other people, even if they have the same symptoms that you have.
   They may harm them.
-
 - This Medication Guide summarizes the most important information about moxifloxacin tablets.
   If you would like more information about moxifloxacin tablets, talk with your healthcare provider.
   You can ask your healthcare provider or pharmacist for information about moxifloxacin tablets that is written for healthcare professionals.
@@ -307,4 +295,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/product-medica
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 10/2018
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019

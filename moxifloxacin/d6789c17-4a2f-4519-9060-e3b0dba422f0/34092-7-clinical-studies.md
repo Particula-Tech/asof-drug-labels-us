@@ -24,7 +24,7 @@ Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Pat
 | Haemophilus parainfluenzae | 16/16 (100%) | 14/14 (100%) |
 | Moraxella catarrhalis | 29/34 (85%) | 24/24 (100%) |
 | Staphylococcus aureus | 15/16 (94%) | 6/8 (75%) |
-| Klebsiella pneumoniae | 18/20 (90%) | 10/11 (91%) |
+| Klebsiella pneumoniae | 17/20 (85%) | 10/11 (91%) |
 
 The microbiological eradication rates (eradication plus presumed eradication) in moxifloxacin hydrochloride treated patients were Streptococcus pneumoniae 100%, Haemophilus influenzae 89%, Haemophilus parainfluenzae 100%, Moraxella catarrhalis 85%, Staphylococcus aureus 94%, and Klebsiella pneumoniae 85%.
 

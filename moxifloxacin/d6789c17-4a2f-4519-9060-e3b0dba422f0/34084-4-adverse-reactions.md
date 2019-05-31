@@ -9,11 +9,12 @@ The following serious and otherwise important adverse reactions are discussed in
 - Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - QT Prolongation [see Warnings and Precautions (5.6)]
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.7)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.9)]
-- Blood Glucose Disturbances [see Warnings and Precautions (5.11)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.12)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.13)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+- Blood Glucose Disturbances [see Warnings and Precautions (5.12)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -179,6 +180,6 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 | Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.4)] |
 | Renal and Urinary Disorders | Interstitial nephritis [see Warnings and Precautions (5.7)] |
 | Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis [see Warnings and Precautions (5.7)] |
-| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.12)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.13)] |
 | Stevens-Johnson syndrome |  |
 | Toxic epidermal necrolysis [see Warnings and Precautions (5.7)] |  |
