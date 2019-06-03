@@ -4,7 +4,7 @@
 
 The safety and effectiveness of rituximab in relapsed, refractory CD20+ NHL were demonstrated in 3 single-arm studies enrolling 296 patients.
 
-Study 1
+NHL Study 1
 
 A multicenter, open-label, single-arm study was conducted in 166 patients with relapsed or refractory, low-grade or follicular, B-cell NHL who received 375 mg/m2 of rituximab given as an intravenous infusion weekly for 4 doses.
 Patients with tumor masses > 10 cm or with > 5000 lymphocytes/µL in the peripheral blood were excluded from the study.
@@ -13,12 +13,12 @@ Results are summarized in Table 2.
 The median time to onset of response was 50 days.
 Disease-related signs and symptoms (including B-symptoms) resolved in 64% (25/39) of those patients with such symptoms at study entry.
 
-Study 2
+NHL Study 2
 
 In a multicenter, single-arm study, 37 patients with relapsed or refractory, low-grade NHL received 375 mg/m2 of rituximab weekly for 8 doses.
 Results are summarized in Table 2.
 
-Study 3
+NHL Study 3
 
 In a multicenter, single-arm study, 60 patients received 375 mg/m2 of rituximab weekly for 4 doses.
 All patients had relapsed or refractory, low-grade or follicular, B-cell NHL and had achieved an objective clinical response to rituximab administered 3.8–35.6 months (median 14.5 months) prior to retreatment with rituximab.
@@ -30,9 +30,9 @@ Bulky Disease
 In pooled data from studies 1 and 3, 39 patients with bulky (single lesion > 10 cm in diameter) and relapsed or refractory, low-grade NHL received rituximab 375 mg/m2 weekly for 4 doses.
 Results are summarized in Table 2.
 
-Table 2 Summary of Rituximab Efficacy Data by Schedule and Clinical Setting
+Table 2 Summary of Rituximab NHL Efficacy Data by Schedule and Clinical Setting
 
-|  | Study 1 Weekly × 4 N=166 | Study 2 Weekly × 8 N=37 | Study 1 and Study 3 Bulky disease, Weekly × 4 N=39Six of these patients are included in the first column. Thus, data from 296 intent-to-treat patients are provided in this table. | Study 3 Retreatment, Weekly × 4 N=60 |
+|  | NHL Study 1 Weekly × 4 N=166 | NHL Study 2 Weekly × 8 N=37 | NHL Study 1 and NHL Study 3 Bulky disease, Weekly × 4 N=39Six of these patients are included in the first column. Thus, data from 296 intent-to-treat patients are provided in this table. | NHL Study 3 Retreatment, Weekly × 4 N=60 |
 | --- | --- | --- | --- | --- |
 | Overall Response Rate | 48% | 57% | 36% | 38% |
 | Complete Response Rate | 6% | 14% | 3% | 10% |
@@ -43,7 +43,7 @@ Table 2 Summary of Rituximab Efficacy Data by Schedule and Clinical Setting
 
 The safety and effectiveness of rituximab in previously untreated, low-grade or follicular, CD20+ NHL were demonstrated in 3 randomized, controlled trials enrolling 1,662 patients.
 
-Study 4
+NHL Study 4
 
 A total of 322 patients with previously untreated follicular NHL were randomized (1:1) to receive up to eight 3-week cycles of CVP chemotherapy alone (CVP) or in combination with rituximab 375 mg/m2 on Day 1 of each cycle (R-CVP) in an open-label, multicenter study.
 The main outcome measure of the study was progression-free survival (PFS) defined as the time from randomization to the first of progression, relapse, or death.
@@ -53,7 +53,7 @@ The results for PFS as determined by a blinded, independent assessment of progre
 The point estimates may be influenced by the presence of informative censoring.
 The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
 
-Table 3 Efficacy Results in Study 4
+Table 3 Efficacy Results in NHL Study 4
 
 |  | R-CVP N=162 | CVP N=160 |
 | --- | --- | --- |
@@ -61,7 +61,7 @@ Table 3 Efficacy Results in Study 4
 | Median PFS (years)p < 0.0001, two-sided stratified log-rank test. | 2.4 | 1.4 |
 | Hazard ratio (95% CI)Estimates of Cox regression stratified by center. | 0.44 (0.29, 0.65) |  |
 
-Study 5
+NHL Study 5
 
 An open-label, multicenter, randomized (1:1) study was conducted in 1,018 patients with previously untreated follicular NHL who achieved a response (CR or PR) to rituximab in combination with chemotherapy.
 Patients were randomized to rituximab as single-agent maintenance therapy, 375 mg/m2 every 8 weeks for up to 12 doses or to observation.
@@ -78,7 +78,7 @@ Figure 1
 
 Kaplan-Meier Plot of IRC Assessed PFS
 
-Study 6
+NHL Study 6
 
 A total of 322 patients with previously untreated low-grade, B-cell NHL who did not progress after 6 or 8 cycles of CVP chemotherapy were enrolled in an open-label, multicenter, randomized trial.
 Patients were randomized (1:1) to receive rituximab, 375 mg/m2 intravenous infusion, once weekly for 4 doses every 6 months for up to 16 doses or no further therapeutic intervention.
@@ -87,19 +87,101 @@ Thirty-seven percent of the study population was >60 years of age, 99% had Stage
 
 There was a reduction in the risk of progression, relapse, or death (hazard ratio estimate in the range of 0.36 to 0.49) for patients randomized to rituximab as compared to those who received no additional treatment.
 
-## 14.3 Ninety-Minute Infusions in Previously Untreated Follicular NHL and Another Indication
+## 14.3 Diffuse Large B-Cell NHL (DLBCL)
 
-In Study 10, patients with previously untreated follicular NHL (n=113) or another indication (n=250) were evaluated in a prospective, open-label, multi-center, single-arm trial for the safety of 90-minute rituximab infusions.
+The safety and effectiveness of rituximab were evaluated in three randomized, active-controlled, open-label, multicenter studies with a collective enrollment of 1854 patients.
+Patients with previously untreated diffuse large B-cell NHL received rituximab in combination with cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) or other anthracycline-based chemotherapy regimens.
+
+NHL Study 7 A total of 632 patients age ≥60 years with DLBCL (including primary mediastinal B-cell lymphoma) were randomized in a 1:1 ratio to treatment with CHOP or R-CHOP.
+Patients received 6 or 8 cycles of CHOP, each cycle lasting 21 days.
+All patients in the R-CHOP arm received 4 doses of rituximab 375 mg/m2 on Days -7 and -3 (prior to Cycle 1) and 48-72 hours prior to Cycles 3 and 5.
+Patients who received 8 cycles of CHOP also received rituximab prior to Cycle 7.
+The main outcome measure of the study was progression-free survival, defined as the time from randomization to the first of progression, relapse, or death.
+Responding patients underwent a second randomization to receive rituximab or no further therapy.
+
+Among all enrolled patients, 62% had centrally confirmed DLBCL histology, 73% had Stage III-IV disease, 56% had IPI scores ≥2, 86% had ECOG performance status of <2, 57% had elevated LDH levels, and 30% had two or more extranodal disease sites involved.
+Efficacy results are presented in Table 4.
+These results reflect a statistical approach which allows for an evaluation of rituximab administered in the induction setting that excludes any potential impact of rituximab given after the second randomization.
+
+Analysis of results after the second randomization in NHL Study 7 demonstrates that for patients randomized to R-CHOP, additional rituximab exposure beyond induction was not associated with further improvements in progression-free survival or overall survival.
+
+NHL Study 8
+
+A total of 399 patients with DLBCL, age ≥60 years, were randomized in a 1:1 ratio to receive CHOP or R-CHOP.
+All patients received up to eight 3-week cycles of CHOP induction; patients in the R-CHOP arm received rituximab 375 mg/m2 on Day 1 of each cycle.
+The main outcome measure of the study was event-free survival, defined as the time from randomization to relapse, progression, change in therapy, or death from any cause.
+Among all enrolled patients, 80% had Stage III or IV disease, 60% of patients had an age-adjusted IPI ≥2, 80% had ECOG performance status scores <2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
+Efficacy results are presented in Table 4.
+
+NHL Study 9
+
+A total of 823 patients with DLBCL, aged 18-60 years, were randomized in a 1:1 ratio to receive an anthracycline-containing chemotherapy regimen alone or in combination with rituximab.
+The main outcome measure of the study was time to treatment failure, defined as time from randomization to the earliest of progressive disease, failure to achieve a complete response, relapse, or death.
+Among all enrolled patients, 28% had Stage III-IV disease, 100% had IPI scores of ≤1, 99% had ECOG performance status of <2, 29% had elevated LDH levels, 49% had bulky disease, and 34% had extranodal involvement.
+Efficacy results are presented in Table 4.
+
+Table 4 Efficacy Results in NHL Studies 7, 8, and 9
+
+| Main outcome | Progression-free survival (years) |  | Event-free survival (years) |  | Time to treatment failure (years) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | NHL Study 7 (n = 632) |  | NHL Study 8 (n = 399) |  | NHL Study 9 (n = 823) |  |
+|  | R-CHOP | CHOP | R-CHOP | CHOP | R-Chemo | Chemo |
+| Median of main outcome measure | 3.1 | 1.6 | 2.9 | 1.1 | NENE = Not reliably estimable. | NE |
+| Hazard ratioR-CHOP vs. CHOP. | 0.69Significant at p < 0.05, 2-sided. |  | 0.60 |  | 0.45 |  |
+| Overall survival at 2 yearsKaplan-Meier estimates. | 74% | 63% | 69% | 58% | 95% | 86% |
+| Hazard ratio | 0.72 |  | 0.68 |  | 0.40 |  |
+
+In NHL Study 8, overall survival estimates at 5 years were 58% vs. 46% for R-CHOP and CHOP, respectively.
+
+## 14.4 Ninety-Minute Infusions in Previously Untreated Follicular NHL and DLBCL
+
+In NHL Study 10, a total of 363 patients with previously untreated follicular NHL (n=113) or DLBCL (n=250) were evaluated in a prospective, open-label, multi-center, single-arm trial for the safety of 90-minute rituximab infusions.
 Patients with follicular NHL received rituximab 375 mg/m2 plus CVP chemotherapy.
-Patients with another indication received rituximab 375 mg/m2 plus other chemotherapy agents.
+Patients with DLBCL received rituximab 375 mg/m2 plus CHOP chemotherapy.
 Patients with clinically significant cardiovascular disease were excluded from the study.
 Patients were eligible for a 90-minute infusion at Cycle 2 if they did not experience a Grade 3-4 infusion-related adverse event with Cycle 1 and had a circulating lymphocyte count ≤ 5000/mm3 before Cycle 2.
 All patients were pre-medicated with acetaminophen and an antihistamine and received the glucocorticoid component of their chemotherapy prior to rituximab infusion.
-The main outcome measure was the development of Grade 3-4 infusion reactions on the day of, or day after, the 90-minute infusion at Cycle 2 [see Adverse Reactions (6.1)].
+The main outcome measure was the development of Grade 3-4 infusion-related reactions on the day of, or day after, the 90-minute infusion at Cycle 2 [see Adverse Reactions (6.1)].
 
 Eligible patients received their Cycle 2 rituximab infusion over 90 minutes as follows: 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes [see Dosage and Administration (2.1)].
 Patients who tolerated the 90-minute rituximab infusion at Cycle 2 continued to receive subsequent rituximab infusions at the 90-minute infusion rate for the remainder of the treatment regimen (through Cycle 6 or Cycle 8).
 
-The incidence of Grade 3-4 infusion reactions at Cycle 2 was 1.1% (95% CI [0.3%, 2.8%]) among all patients, 3.5% (95% CI [1.0%, 8.8%]) for those patients treated with R-CVP, and 0.0% (95% CI [0.0%, 1.5%]) for those patients treated with rituximab and other chemotherapy agents.
-For Cycles 2-8, the incidence of Grade 3-4 infusion reactions was 2.8% (95% CI [1.3%, 5.0%]).
-No acute fatal infusion reactions were observed.
+The incidence of Grade 3-4 infusion-related reactions at Cycle 2 was 1.1% (95% CI [0.3%, 2.8%]) among all patients, 3.5% (95% CI [1.0%, 8.8%]) for those patients treated with R-CVP, and 0.0% (95% CI [0.0%, 1.5%]) for those patients treated with R-CHOP.
+For Cycles 2-8, the incidence of Grade 3-4 infusion-related reactions was 2.8% (95% CI [1.3%, 5.0%]).
+No acute fatal infusion-related reactions were observed.
+
+## 14.5 Chronic Lymphocytic Leukemia (CLL)
+
+The safety and effectiveness of rituximab were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with rituximab for up to 6 cycles in patients with previously untreated CLL [CLL Study 11 (n=817)] or previously treated CLL [CLL Study 12 (n=552)].
+Patients received fludarabine 25 mg/m2/day and cyclophosphamide 250 mg/m2/day on days 1, 2 and 3 of each cycle, with or without rituximab.
+In both studies, seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of rituximab-based therapy.
+
+In CLL Study 11, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0-1, 74% were male, and 100% were White.
+In CLL Study 12, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0-1, 67% were male and 98% were White.
+
+The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (CLL Study 11) or an independent review committee (CLL Study 12).
+The investigator assessed results in CLL Study 12 were supportive of those obtained by the independent review committee.
+Efficacy results are presented in Table 5.
+
+Table 5 Efficacy Results in CLL Studies 11 and 12
+
+|  | R-FC N = 408 | FC N = 409 | R-FC N = 276 | FC N = 276 |
+| --- | --- | --- | --- | --- |
+|  | CLL Study 11As defined in 1996 National Cancer Institute Working Group guidelines. (Previously untreated) |  | CLL Study 12 (Previously treated) |  |
+| Median PFS (months) | 39.8 | 31.5 | 26.7 | 21.7 |
+| Hazard ratio (95% CI) | 0.56 (0.43, 0.71) |  | 0.76 (0.6, 0.96) |  |
+| P value (Log-Rank test) | < 0.01 |  | 0.02 |  |
+| Response rate (95% CI) | 86% (82, 89) | 73% (68, 77) | 54% (48, 60) | 45% (37, 51) |
+
+Across both studies, 243 of 676 rituximab-treated patients (36%) were 65 years of age or older and 100 rituximab-treated patients (15%) were 70 years of age or older.
+The results of exploratory subset analyses in elderly patients are presented in Table 6.
+
+Table 6 Efficacy Results in CLL Studies 11 and 12 in Subgroups Defined by AgeFrom exploratory analyses.
+
+| Age subgroup | Number of Patients | Hazard Ratio for PFS (95% CI) | Number of Patients | Hazard Ratio for PFS (95% CI) |
+| --- | --- | --- | --- | --- |
+|  | CLL Study 11 |  | CLL Study 12 |  |
+| Age < 65 yrs | 572 | 0.52 (0.39, 0.70) | 313 | 0.61 (0.45, 0.84) |
+| Age ≥ 65 yrs | 245 | 0.62 (0.39, 0.99) | 233 | 0.99 (0.70, 1.40) |
+| Age < 70 yrs | 736 | 0.51 (0.39, 0.67) | 438 | 0.67 (0.51, 0.87) |
+| Age ≥ 70 yrs | 81 | 1.17 (0.51, 2.66) | 108 | 1.22 (0.73, 2.04) |

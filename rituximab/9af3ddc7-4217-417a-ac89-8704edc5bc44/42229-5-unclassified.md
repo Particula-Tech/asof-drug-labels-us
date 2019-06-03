@@ -6,7 +6,7 @@ Manufactured by:
 
 CELLTRION, Inc.
 
-23, Academy-ro,
+20, Academy-ro 51 beon-gil,
 
 Yeonsu-gu, Incheon
 

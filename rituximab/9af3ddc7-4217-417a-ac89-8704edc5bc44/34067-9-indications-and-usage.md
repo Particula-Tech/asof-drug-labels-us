@@ -7,3 +7,8 @@ TRUXIMA (rituximab-abbs) is indicated for the treatment of adult patients with:
 - Relapsed or refractory, low-grade or follicular, CD20-positive, B-cell NHL as a single agent.
 - Previously untreated follicular, CD20-positive, B-cell NHL in combination with first line chemotherapy and, in patients achieving a complete or partial response to a rituximab product in combination with chemotherapy, as single-agent maintenance therapy.
 - Non-progressing (including stable disease), low-grade, CD20-positive, B-cell NHL as a single agent after first-line cyclophosphamide, vincristine, and prednisone (CVP) chemotherapy.
+- Previously untreated diffuse large B-cell, CD20-positive NHL in combination with cyclophosphamide, doxorubicin, vincristine, prednisone (CHOP) or other anthracycline-based chemotherapy regimens.
+
+## 1.2 Chronic Lymphocytic Leukemia (CLL)
+
+TRUXIMA is indicated, in combination with fludarabine and cyclophosphamide (FC), for the treatment of adult patients with previously untreated and previously treated CD20-positive CLL.

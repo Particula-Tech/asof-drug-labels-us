@@ -64,9 +64,27 @@ Hypogammaglobulinemia has been observed in pediatric patients treated with ritux
 
 ## 8.5 Geriatric Use
 
+Diffuse Large B-Cell NHL
+
+Among patients with DLBCL evaluated in three randomized, active-controlled trials, 927 patients received rituximab in combination with chemotherapy.
+Of these, 396 (43%) were age 65 or greater and 123 (13%) were age 75 or greater.
+No overall differences in effectiveness were observed between these patients and younger patients.
+Cardiac adverse reactions, mostly supraventricular arrhythmias, occurred more frequently among elderly patients.
+Serious pulmonary adverse reactions were also more common among the elderly, including pneumonia and pneumonitis.
+
 Low-Grade or Follicular Non-Hodgkin's Lymphoma
 
-Patients with previously untreated follicular NHL evaluated in Study 5 were randomized to rituximab as single-agent maintenance therapy (n=505) or observation (n=513) after achieving a response to rituximab in combination with chemotherapy.
+Patients with previously untreated follicular NHL evaluated in NHL Study 5 were randomized to rituximab as single-agent maintenance therapy (n=505) or observation (n=513) after achieving a response to rituximab in combination with chemotherapy.
 Of these, 123 (24%) patients in the rituximab arm were age 65 or older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 Other clinical studies of rituximab in low-grade or follicular, CD20-positive, B-cell NHL did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
+
+Chronic Lymphocytic Leukemia
+
+Among patients with CLL evaluated in two randomized active-controlled trials, 243 of 676 rituximab-treated patients (36%) were 65 years of age or older; of these, 100 rituximab-treated patients (15%) were 70 years of age or older.
+
+In exploratory analyses defined by age, there was no observed benefit from the addition of rituximab to fludarabine and cyclophosphamide among patients 70 years of age or older in CLL Study 11 or in CLL Study 12; there was also no observed benefit from the addition of rituximab to fludarabine and cyclophosphamide among patients 65 years of age or older in Study 12 [see Clinical Studies (14.5)].
+Patients 70 years or older received lower dose intensity of fludarabine and cyclophosphamide compared to younger patients, regardless of the addition of rituximab.
+In CLL Study 11, the dose intensity of rituximab was similar in older and younger patients, however in CLL Study 12 older patients received a lower dose intensity of rituximab.
+
+The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (CLL Study 11); 56% vs. 39% (CLL Study 12)], febrile neutropenia [16% vs. 6% (NHL Study 10 (NCT00719472))], anemia [5% vs. 2% (CLL Study 11); 21% vs. 10% (CLL Study 12)], thrombocytopenia [19% vs. 8% (CLL Study 12)], pancytopenia [7% vs. 2% (CLL Study 11); 7% vs. 2% (CLL Study 12)] and infections [30% vs. 14% (CLL Study 12)].

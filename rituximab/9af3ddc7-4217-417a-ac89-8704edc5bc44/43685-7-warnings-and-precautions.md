@@ -1,14 +1,14 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Infusion Reactions
+## 5.1 Infusion-Related Reactions
 
-Rituximab products can cause severe, including fatal, infusion reactions.
+Rituximab products can cause severe, including fatal, infusion-related reactions.
 Severe reactions typically occurred during the first infusion with time to onset of 30–120 minutes.
-Rituximab product-induced infusion reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
+Rituximab product-induced infusion-related reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
-Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion reactions as needed.
-Depending on the severity of the infusion reaction and the required interventions, temporarily or permanently discontinue TRUXIMA.
+Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
+Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue TRUXIMA.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
 Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥ 25,000/mm3).
 [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
@@ -19,7 +19,7 @@ Mucocutaneous reactions, some with fatal outcome, can occur in patients treated 
 These reactions include paraneoplastic pemphigus, Stevens-Johnson syndrome, lichenoid dermatitis, vesiculobullous dermatitis, and toxic epidermal necrolysis.
 The onset of these reactions has been variable and includes reports with onset on the first day of rituximab exposure.
 Discontinue TRUXIMA in patients who experience a severe mucocutaneous reaction.
-The safety of re- administration of TRUXIMA to patients with severe mucocutaneous reactions has not been determined.
+The safety of re-administration of rituximab products to patients with severe mucocutaneous reactions has not been determined.
 
 ## 5.3 Hepatitis B Virus Reactivation (HBV)
 
@@ -77,7 +77,7 @@ Perform cardiac monitoring during and after all infusions of TRUXIMA for patient
 
 Severe, including fatal, renal toxicity can occur after rituximab product administration in patients with NHL.
 Renal toxicity has occurred in patients who experience tumor lysis syndrome and in patients with NHL administered concomitant cisplatin therapy during clinical trials.
-The combination of cisplatin and a rituximab product is not an approved treatment regimen.
+The combination of cisplatin and TRUXIMA is not an approved treatment regimen.
 Monitor closely for signs of renal failure and discontinue TRUXIMA in patients with a rising serum creatinine or oliguria.
 [see Warnings and Precautions (5.5)].
 
