@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA212020"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "Exela Pharma Sciences, LLC",
+  "package_ndcs": [
+    "51754-0108-1",
+    "51754-0108-3"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tranexamic acid",
+      "name": "TRANEXAMIC ACID IN SODIUM CHLORIDE"
+    }
+  ],
+  "setid": "db36ddf2-4ac5-47ac-bdce-e3fa6983073e",
+  "source": "dailymed"
+}
