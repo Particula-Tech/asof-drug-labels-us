@@ -8,17 +8,17 @@ ZOLMITRIPTAN
 
 2.5 mg
 
-For Intranasal Use only
-
-www.zomig.com
+For Intranasal Use Only
 
 Rx only
 
 This pack contains 6 single-use spray devices
 
-1-877-99-IMPAX (46729)
+1-877-835-5472
 
-Impax
+www.zomig.com
+
+amneal®
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -32,10 +32,12 @@ ZOLMITRIPTAN
 
 For Intranasal Use Only
 
-www.zomig.com
-
 Rx only
 
 This pack contains: 6 single-use nasal spray devices
 
-1-877-99-IMPAX (46729)
+1-877-835-5472
+
+www.zomig.com
+
+amneal®

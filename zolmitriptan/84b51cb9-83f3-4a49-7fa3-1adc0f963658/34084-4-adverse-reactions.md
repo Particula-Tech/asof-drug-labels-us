@@ -98,13 +98,13 @@ Pediatric Patients 12 to 17 Years of Age
 
 The safety of ZOMIG nasal spray in the acute treatment of migraine in pediatric patients 12 to 17 years of age was established in two studies [see Pediatric Use (8.4) and Clinical Studies (14.2)].
 
-The most common adverse reactions (incidence of ≥2% of pediatric patients receiving 2.5 mg and 5 mg ZOMIG nasal spray and numerically greater than placebo) after a single dose are summarized in Table 2.
+The most common adverse reactions (incidence of ≥ 2% of pediatric patients receiving 2.5 mg and 5 mg ZOMIG nasal spray and numerically greater than placebo) after a single dose are summarized in Table 2.
 Dysgeusia (unusual taste) was the most common adverse reaction, with a numerically greater incidence for patients receiving ZOMIG compared to placebo (10% vs. 2%).
 Other common adverse reactions were nasal discomfort, dizziness, oropharyngeal pain, and nausea.
 
 Table 2 lists the adverse reactions from the pooled placebo-controlled studies that occurred in ≥ 2% of pediatric patients 12 to 17 years of age in either the 2.5 mg or 5 mg ZOMIG dose groups and with an incidence greater than placebo.
 
-1. Table 2: Adverse reactions in Pooled Placebo-Controlled Studies in Pediatric Patients 12 to 17 years of Age with Migraine
+Table 2: Adverse reactions in Pooled Placebo-Controlled Studies in Pediatric Patients 12 to 17 years of Age with Migraine
 
 | Adverse Reaction | Placebo (N=437) | ZOMIG 2.5 mg (N=81) | ZOMIG 5 mg (N=431) |
 | --- | --- | --- | --- |

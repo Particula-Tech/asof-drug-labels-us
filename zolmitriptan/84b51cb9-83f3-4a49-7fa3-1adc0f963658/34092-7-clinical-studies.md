@@ -17,7 +17,7 @@ The two-hour headache response rates in patients treated with ZOMIG nasal spray 
 
 | PLACEBO (N=218) | ZOMIG2.5 mg(N=219) | ZOMIG 5 mg (N=228) |
 | --- | --- | --- |
-| 31% | 55%p <0.001 in comparison with placebo | 69% |
+| 31% | 55%p < 0.001 in comparison with placebo | 69% |
 
 The estimated probability of achieving an initial headache response following treatment with ZOMIG nasal spray is depicted in Figure 1.
 
@@ -46,7 +46,7 @@ The 2-hour headache response rates for the first 210 subjects in that study for 
 
 ## 14.2 Pediatric Patients 12 to 17 Years of Age
 
-The efficacy of ZOMIG nasal spray in the acute treatment of migraine headache with or without aura in pediatric patients 12 to 17 years of age was demonstrated in Study 2, a randomized, double-blind, placebo-controlled trial with a single-blind run-in period.
+The efficacy of ZOMIG nasal spray in the acute treatment of migraine headache with or without aura in pediatrics patients 12 to 17 years of age was demonstrated in Study 2, a randomized, double-blind, placebo-controlled trial with a single-blind run-in period.
 
 Patients had to have an established diagnosis of migraine (history indicating the presence of migraine for at least 1 year) with or without aura with a typical untreated migraine headache attack lasting 3 hours or more.
 The study included treatment of a single migraine headache attack with 1 dose of single-blind placebo during the 30-day run-in period.
@@ -63,7 +63,7 @@ Table 4: Percentage of Pediatric Patients 12 to 17 Years of Age with No Headache
 | Two Hours Following Treatment |  |  |  |
 | --- | --- | --- | --- |
 |  | Placebo (N=253) | ZOMIG2.5 mg(N=81) | ZOMIG5 mg (N=229) |
-| No Headache Pain | 17% | 25% | 30%p<0.05 in comparison with placebo |
+| No Headache Pain | 17% | 25% | 30%p< 0.05 in comparison with placebo |
 | With Headache Response | 39% | 53% | 51% |
 | No Photophobia | 44% | 66% | 56% |
 | No Phonophobia | 48% | 61% | 58% |
