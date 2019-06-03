@@ -86,7 +86,8 @@ Dizziness and somnolence generally began shortly after the initiation of LYRICA 
 Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (4% each) from controlled studies.
 In LYRICA-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients [see Drug Interactions (7)].
 
-In the LYRICA controlled trial in pediatric patients for the treatment of partial onset seizures, somnolence was experienced by 21% of LYRICA-treated patients compared to 14% of placebo-treated patients, and occurred more frequently at higher doses.
+In the LYRICA controlled trials in pediatric patients 4 to less than 17 years of age and 1 month to less than 4 years of age for the treatment of partial-onset seizures, somnolence was reported in 21% and 15% of LYRICA-treated patients compared to 14% and 9% of placebo-treated patients, respectively, and occurred more frequently at higher doses.
+For patients 1 month to less than 4 years of age, somnolence includes related terms lethargy, sluggishness, and hypersomnia.
 
 ## 5.7 Weight Gain
 
@@ -131,7 +132,7 @@ Consider more frequent assessment for patients who are already routinely monitor
 LYRICA treatment was associated with creatine kinase elevations.
 Mean changes in creatine kinase from baseline to the maximum value were 60 U/L for LYRICA-treated patients and 28 U/L for the placebo patients.
 In all controlled trials in adult patients across multiple patient populations, 1.5% of patients on LYRICA and 0.7% of placebo patients had a value of creatine kinase at least three times the upper limit of normal.
-Three LYRICA treated subjects had events reported as rhabdomyolysis in premarketing clinical trials.
+Three LYRICA-treated subjects had events reported as rhabdomyolysis in premarketing clinical trials.
 The relationship between these myopathy events and LYRICA is not completely understood because the cases had documented factors that may have caused or contributed to these events.
 Instruct patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if these muscle symptoms are accompanied by malaise or fever.
 Discontinue treatment with LYRICA if myopathy is diagnosed or suspected or if markedly elevated creatine kinase levels occur.
@@ -141,7 +142,7 @@ Discontinue treatment with LYRICA if myopathy is diagnosed or suspected or if ma
 LYRICA treatment was associated with a decrease in platelet count.
 LYRICA-treated subjects experienced a mean maximal decrease in platelet count of 20 × 103/µL, compared to 11 × 103/µL in placebo patients.
 In the overall database of controlled trials in adult patients, 2% of placebo patients and 3% of LYRICA patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/µL.
-A single LYRICA treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/ µL.
+A single LYRICA-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/ µL.
 In randomized controlled trials, LYRICA was not associated with an increase in bleeding-related adverse reactions.
 
 ## 5.12 PR Interval Prolongation

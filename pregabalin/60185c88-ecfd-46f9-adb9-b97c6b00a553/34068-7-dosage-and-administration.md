@@ -8,7 +8,7 @@ When discontinuing LYRICA, taper gradually over a minimum of 1 week [see Warning
 
 Because LYRICA is eliminated primarily by renal excretion, adjust the dose in adult patients with reduced renal function [see Dosage and Administration (2.7)].
 
-## 2.2 Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
+## 2.2 Neuropathic Pain Associated with Diabetic Peripheral Neuropathy in Adults
 
 The maximum recommended dose of LYRICA is 100 mg three times a day (300 mg/day) in patients with creatinine clearance of at least 60 mL/min.
 Begin dosing at 50 mg three times a day (150 mg/day).
@@ -17,7 +17,7 @@ The dose may be increased to 300 mg/day within 1 week based on efficacy and tole
 Although LYRICA was also studied at 600 mg/day, there is no evidence that this dose confers additional significant benefit and this dose was less well tolerated.
 In view of the dose-dependent adverse reactions, treatment with doses above 300 mg/day is not recommended [see Adverse Reactions (6.1)].
 
-## 2.3 Postherpetic Neuralgia
+## 2.3 Postherpetic Neuralgia in Adults
 
 The recommended dose of LYRICA is 75 to 150 mg two times a day, or 50 to 100 mg three times a day (150 to 300 mg/day) in patients with creatinine clearance of at least 60 mL/min.
 Begin dosing at 75 mg two times a day, or 50 mg three times a day (150 mg/day).
@@ -26,29 +26,30 @@ The dose may be increased to 300 mg/day within 1 week based on efficacy and tole
 Patients who do not experience sufficient pain relief following 2 to 4 weeks of treatment with 300 mg/day, and who are able to tolerate LYRICA, may be treated with up to 300 mg two times a day, or 200 mg three times a day (600 mg/day).
 In view of the dose-dependent adverse reactions and the higher rate of treatment discontinuation due to adverse reactions, reserve dosing above 300 mg/day for those patients who have on-going pain and are tolerating 300 mg daily [see Adverse Reactions (6.1)].
 
-## 2.4 Adjunctive Therapy for Partial Onset Seizures in Patients 4 Years of Age and Older
+## 2.4 Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month of Age and Older
 
-The recommended dosage for adults and pediatric patients 4 years of age and older is included in Table 1.
-Administer the total daily dosage orally in two or three divided doses.
-In pediatric patients 4 years of age and older, the recommended dosing regimen is dependent upon body weight.
+The recommended dosages for adults and pediatric patients 1 month of age and older are included in Table 1.
+Administer the total daily dosage orally in two or three divided doses as indicated in Table 1.
+In pediatric patients, the recommended dosing regimen is dependent upon body weight.
 Based on clinical response and tolerability, dosage may be increased, approximately weekly.
 
-Table 1: Recommended Dosage for Adults and Pediatric Patients 4 Years and Older
+Table 1.
+Recommended Dosage for Adults and Pediatric Patients 1 Month and Older
 
-| Age and Body Weight | Recommended Initial Dosage (administer in two or three divided doses) | Recommended Maximum Dosage (administer in two or three divided doses) |
-| --- | --- | --- |
-| Adults (17 years and older) | 150 mg/day | 600 mg/day |
-| Pediatric patients weighing 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day (not to exceed 600 mg/day) |
-| Pediatric patients weighing 11 kg to less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day |
+| Age and Body Weight | Recommended Initial Dosage | Recommended Maximum Dosage | Frequency of Administration |
+| --- | --- | --- | --- |
+| Adults (17 years and older) | 150 mg/day | 600 mg/day | 2 or 3 divided doses |
+| Pediatric patients weighing 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day (not to exceed 600 mg/day) | 2 or 3 divided doses |
+| Pediatric patients weighing less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day | 1 month to less than 4 years of age: 3 divided doses 4 years of age and older: 2 or 3 divided doses |
 
 Both the efficacy and adverse event profiles of LYRICA have been shown to be dose-related.
 
 The effect of dose escalation rate on the tolerability of LYRICA has not been formally studied.
 
-The efficacy of add-on LYRICA in patients taking gabapentin has not been evaluated in controlled trials.
+The efficacy of adjunctive LYRICA in patients taking gabapentin has not been evaluated in controlled trials.
 Consequently, dosing recommendations for the use of LYRICA with gabapentin cannot be offered.
 
-## 2.5 Management of Fibromyalgia
+## 2.5 Management of Fibromyalgia in Adults
 
 The recommended dose of LYRICA for fibromyalgia is 300 to 450 mg/day.
 Begin dosing at 75 mg two times a day (150 mg/day).
@@ -57,7 +58,7 @@ Patients who do not experience sufficient benefit with 300 mg/day may be further
 Although LYRICA was also studied at 600 mg/day, there is no evidence that this dose confers additional benefit and this dose was less well tolerated.
 In view of the dose-dependent adverse reactions, treatment with doses above 450 mg/day is not recommended [see Adverse Reactions (6.1)].
 
-## 2.6 Neuropathic Pain Associated with Spinal Cord Injury
+## 2.6 Neuropathic Pain Associated with Spinal Cord Injury in Adults
 
 The recommended dose range of LYRICA for the treatment of neuropathic pain associated with spinal cord injury is 150 to 600 mg/day.
 The recommended starting dose is 75 mg two times a day (150 mg/day).

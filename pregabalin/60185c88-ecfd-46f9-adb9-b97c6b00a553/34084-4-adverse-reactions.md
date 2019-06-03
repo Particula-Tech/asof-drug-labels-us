@@ -31,13 +31,13 @@ Other adverse reactions that led to discontinuation from controlled trials more 
 
 Most Common Adverse Reactions in All Controlled Clinical Studies in Adults
 
-In premarketing controlled trials of all adult patient populations combined (including DPN, PHN, and adult patients with partial onset seizures), dizziness, somnolence, dry mouth, edema, blurred vision, weight gain, and "thinking abnormal" (primarily difficulty with concentration/attention) were more commonly reported by subjects treated with LYRICA than by subjects treated with placebo (greater than or equal to 5% and twice the rate of that seen in placebo).
+In premarketing controlled trials of all adult patient populations combined (including DPN, PHN, and adult patients with partial-onset seizures), dizziness, somnolence, dry mouth, edema, blurred vision, weight gain, and "thinking abnormal" (primarily difficulty with concentration/attention) were more commonly reported by subjects treated with LYRICA than by subjects treated with placebo (greater than or equal to 5% and twice the rate of that seen in placebo).
 
 Controlled Studies with Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
 
 Adverse Reactions Leading to Discontinuation
 
-In clinical trials in patients with neuropathic pain associated with diabetic peripheral neuropathy, 9% of patients treated with LYRICA and 4% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In clinical trials in adults with neuropathic pain associated with diabetic peripheral neuropathy, 9% of patients treated with LYRICA and 4% of patients treated with placebo discontinued prematurely due to adverse reactions.
 In the LYRICA treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (3%) and somnolence (2%).
 In comparison, less than 1% of placebo patients withdrew due to dizziness and somnolence.
 Other reasons for discontinuation from the trials, occurring with greater frequency in the LYRICA group than in the placebo group, were asthenia, confusion, and peripheral edema.
@@ -51,9 +51,8 @@ A majority of pregabalin-treated patients in clinical studies had adverse reacti
 Table 4.
 Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
 
-| [N=979] % | [N=459] % |  |  |  |  |  |
+| Body system Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGBPGB: pregabalin [N=979] % | Placebo [N=459] % |
 | --- | --- | --- | --- | --- | --- | --- |
-| Body system Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGBPGB: pregabalin | Placebo |
 | Body as a whole |  |  |  |  |  |  |
 | Asthenia | 4 | 2 | 4 | 7 | 5 | 2 |
 | Accidental injury | 5 | 2 | 2 | 6 | 4 | 3 |
@@ -93,7 +92,7 @@ Controlled Studies in Postherpetic Neuralgia
 
 Adverse Reactions Leading to Discontinuation
 
-In clinical trials in patients with postherpetic neuralgia, 14% of patients treated with LYRICA and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In clinical trials in adults with postherpetic neuralgia, 14% of patients treated with LYRICA and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
 In the LYRICA treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (4%) and somnolence (3%).
 In comparison, less than 1% of placebo patients withdrew due to dizziness and somnolence.
 Other reasons for discontinuation from the trials, occurring in greater frequency in the LYRICA group than in the placebo group, were confusion (2%), as well as peripheral edema, asthenia, ataxia, and abnormal gait (1% each).
@@ -148,11 +147,11 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 | Urogenital System |  |  |  |  |  |  |
 | Urinary Incontinence | 0 | 1 | 1 | 2 | 1 | 0 |
 
-Controlled Studies of Adjunctive Therapy for Partial Onset Seizures in Adult Patients
+Controlled Studies of Adjunctive Therapy for Partial-Onset Seizures in Adult Patients
 
 Adverse Reactions Leading to Discontinuation
 
-Approximately 15% of patients receiving LYRICA and 6% of patients receiving placebo in trials of adjunctive therapy for partial onset seizures discontinued prematurely due to adverse reactions.
+Approximately 15% of patients receiving LYRICA and 6% of patients receiving placebo in trials of adjunctive therapy for partial-onset seizures discontinued prematurely due to adverse reactions.
 In the LYRICA treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (6%), ataxia (4%), and somnolence (3%).
 In comparison, less than 1% of patients in the placebo group withdrew due to each of these events.
 Other adverse reactions that led to discontinuation of at least 1% of patients in the LYRICA group and at least twice as frequently compared to the placebo group were asthenia, diplopia, blurred vision, thinking abnormal, nausea, tremor, vertigo, headache, and confusion (which each led to withdrawal in 2% or less of patients).
@@ -165,12 +164,10 @@ In these studies, 758 patients received LYRICA and 294 patients received placebo
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 
 Table 6.
-Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Therapy for Partial Onset Seizures in Adult Patients
+Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Therapy for Partial-Onset Seizures in Adult Patients
 
-|  | % | % | % | % | % |
+| Body System Preferred Term | 150 mg/d [N=185] % | 300 mg/d [N=90] % | 600 mg/d [N=395] % | All PGBPGB: pregabalin [N=670]Excludes patients who received the 50 mg dose in Study E1. % | Placebo [N=294] % |
 | --- | --- | --- | --- | --- | --- |
-|  | 150 mg/d | 300 mg/d | 600 mg/d | All PGBPGB: pregabalin | Placebo |
-| Body System Preferred Term | [N = 185] | [N = 90] | [N = 395] | [N = 670]Excludes patients who received the 50 mg dose in Study E1. | [N = 294] |
 | Body as a Whole |  |  |  |  |  |
 | Accidental Injury | 7 | 11 | 10 | 9 | 5 |
 | Pain | 3 | 2 | 5 | 4 | 3 |
@@ -199,11 +196,11 @@ Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Thera
 | Diplopia | 5 | 7 | 12 | 9 | 4 |
 | Abnormal Vision | 3 | 1 | 5 | 4 | 1 |
 
-Controlled Study of Adjunctive Therapy for Partial Onset Seizures in Patients 4 to Less Than 17 Years of Age
+Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
 
 Adverse Reactions Leading to Discontinuation
 
-Approximately 2.5% of patients receiving LYRICA and no patients receiving placebo in trials of adjunctive therapy for partial onset seizures discontinued prematurely due to adverse reactions.
+Approximately 2.5% of patients receiving LYRICA and no patients receiving placebo in trials of adjunctive therapy for partial-onset seizures discontinued prematurely due to adverse reactions.
 In the LYRICA treatment group, the adverse reactions leading to discontinuation were somnolence (3 patients), worsening of epilepsy (1 patient), and hallucination (1 patient).
 
 Most Common Adverse Reactions
@@ -214,7 +211,7 @@ In this study, 201 patients received LYRICA and 94 patients received placebo for
 A majority of pregabalin-treated patients in the clinical study had adverse reactions with a maximum intensity of "mild" or "moderate".
 
 Table 7.
-Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial Onset Seizures in Patients 4 to Less Than 17 Years of Age
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
 
 | Body System Preferred Term | 2.5 mg/kg/day2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day. [N=104] % | 10 mg/kg/day10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. [N=97] % | All PGB [N=201] % | Placebo [N=94] % |
 | --- | --- | --- | --- | --- |
@@ -228,6 +225,26 @@ Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Ther
 | Somnolence | 17 | 26 | 21 | 14 |
 | Abbreviations: N=number of patients; PGB = pregabalin. |  |  |  |  |
 
+Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
+
+Most Common Adverse Reactions
+
+Table 8 lists all dose-related adverse reactions occurring in at least 2% of all LYRICA-treated patients.
+Dose-relatedness was defined as an incidence of the adverse event in the 14 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 7 mg/kg/day groups.
+In this study, 105 patients received LYRICA and 70 patients received placebo for up to 14 days.
+
+Table 8.
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
+
+| Body System Preferred Term | 7 mg/kg/day [N=71] % | 14 mg/kg/day [N=34] % | All PGB [N=105] % | Placebo [N=70] % |
+| --- | --- | --- | --- | --- |
+| Nervous system disorders |  |  |  |  |
+| Somnolenceincludes related terms including lethargy, sluggishness, and hypersomnia. | 13 | 21 | 15 | 9 |
+| Infections and infestations |  |  |  |  |
+| Pneumonia | 1 | 9 | 4 | 0 |
+| Viral infection | 3 | 6 | 4 | 3 |
+| Abbreviations: N=number of patients; PGB=pregabalin. |  |  |  |  |
+
 Controlled Studies with Fibromyalgia
 
 Adverse Reactions Leading to Discontinuation
@@ -240,15 +257,14 @@ Each of these adverse reactions led to withdrawal in approximately 1% of patient
 
 Most Common Adverse Reactions
 
-Table 8 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with fibromyalgia in the 'all pregabalin' treatment group for which the incidence was greater than in the placebo treatment group.
+Table 9 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with fibromyalgia in the 'all pregabalin' treatment group for which the incidence was greater than in the placebo treatment group.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 8.
+Table 9.
 Adverse Reaction Incidence in Controlled Trials in Fibromyalgia
 
-| [N=1517] % | [N=505] % |  |  |  |  |  |
+| System Organ Class Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGBPGB: pregabalin [N=1517] % | Placebo [N=505] % |
 | --- | --- | --- | --- | --- | --- | --- |
-| System Organ Class Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGBPGB: pregabalin | Placebo |
 | Ear and Labyrinth Disorders |  |  |  |  |  |  |
 | Vertigo | 2 | 2 | 2 | 1 | 2 | 0 |
 | Eye Disorders |  |  |  |  |  |  |
@@ -301,7 +317,7 @@ Controlled Studies in Neuropathic Pain Associated with Spinal Cord Injury
 
 Adverse Reactions Leading to Discontinuation
 
-In clinical trials of patients with neuropathic pain associated with spinal cord injury, 13% of patients treated with pregabalin and 10% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In clinical trials of adults with neuropathic pain associated with spinal cord injury, 13% of patients treated with pregabalin and 10% of patients treated with placebo discontinued prematurely due to adverse reactions.
 In the pregabalin treatment group, the most common reasons for discontinuation due to adverse reactions were somnolence (3%) and edema (2%).
 In comparison, none of the placebo-treated patients withdrew due to somnolence and edema.
 Other reasons for discontinuation from the trials, occurring with greater frequency in the pregabalin treatment group than in the placebo treatment group, were fatigue and balance disorder.
@@ -309,10 +325,10 @@ Each of these adverse reactions led to withdrawal in less than 2% of patients.
 
 Most Common Adverse Reactions
 
-Table 9 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients for which the incidence was greater than in the placebo treatment group with neuropathic pain associated with spinal cord injury in the controlled trials.
+Table 10 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients for which the incidence was greater than in the placebo treatment group with neuropathic pain associated with spinal cord injury in the controlled trials.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 9.
+Table 10.
 Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Spinal Cord Injury
 
 | % | % |  |

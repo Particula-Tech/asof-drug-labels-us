@@ -59,7 +59,7 @@ LYRICA 150 mg oral capsule was given every 12 hours (300 mg daily dose) for a to
 Pregabalin was detected in breast milk at average steady-state concentrations approximately 76% of those in maternal plasma.
 The estimated average daily infant dose of pregabalin from breast milk (assuming mean milk consumption of 150 mL/kg/day) was 0.31 mg/kg/day, which on a mg/kg basis would be approximately 7% of the maternal dose.
 The study did not evaluate the effects of LYRICA on milk production.
-Infants did not receive breast milk obtained during the dosing period, therefore, the effects of Lyrica on the breast fed infant were not evaluated.
+Infants did not receive breast milk obtained during the dosing period, therefore, the effects of LYRICA on the breast fed infant were not evaluated.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -96,19 +96,31 @@ The primary efficacy endpoint of change from baseline to Week 15 in mean pain in
 The most frequently observed adverse reactions in the clinical trial included dizziness, nausea, headache, weight increased, and fatigue.
 The overall safety profile in adolescents was similar to that observed in adults with fibromyalgia.
 
-Adjunctive Therapy for Partial Onset Seizures
+Adjunctive Therapy for Partial-Onset Seizures
 
-The safety and effectiveness of LYRICA as adjunctive treatment for partial onset seizures in pediatric patients 4 to less than 17 years of age have been established in a 12-week, double-blind, placebo-controlled study (n = 295) [see Clinical Studies (14.3)].
-Patients treated with LYRICA 10 mg/kg/day had, on average, a 21.0% greater reduction in partial onset seizures than patients treated with placebo (p = 0.0185).
-Patients treated with LYRICA 2.5 mg/kg/day had, on average, a 10.5% greater reduction in partial onset seizures than patients treated with placebo, but the difference was not statistically significant (p = 0.2577).
+Safety and effectiveness in pediatric patients below the age of 1 month have not been established.
 
-Responder rates (50% or greater reduction in partial onset seizure frequency) were a key secondary efficacy parameter and showed numerical improvement with LYRICA compared with placebo: the responder rates were 40.6%, 29.1%, and 22.6%, for LYRICA 10 mg/kg/day, LYRICA 2.5 mg/kg/day, and placebo, respectively.
+4 to Less Than 17 Years of Age with Partial-Onset Seizures
+
+The safety and effectiveness of LYRICA as adjunctive treatment for partial-onset seizures in pediatric patients 4 to less than 17 years of age have been established in a 12-week, double-blind, placebo-controlled study (n=295) [see Clinical Studies (14.3)].
+Patients treated with LYRICA 10 mg/kg/day had, on average, a 21.0% greater reduction in partial-onset seizures than patients treated with placebo (p=0.0185).
+Patients treated with LYRICA 2.5 mg/kg/day had, on average, a 10.5% greater reduction in partial-onset seizures than patients treated with placebo, but the difference was not statistically significant (p=0.2577).
+
+Responder rates (50% or greater reduction in partial-onset seizure frequency) were a key secondary efficacy parameter and showed numerical improvement with LYRICA compared with placebo: the responder rates were 40.6%, 29.1%, and 22.6%, for LYRICA 10 mg/kg/day, LYRICA 2.5 mg/kg/day, and placebo, respectively.
 
 The most common adverse reactions (≥5%) with LYRICA in this study were somnolence, weight increased, and increased appetite [see Adverse Reactions (6.1)].
 
 The use of LYRICA 2.5 mg/kg/day in pediatric patients is further supported by evidence from adequate and well-controlled studies in adults with partial-onset seizures and pharmacokinetic data from adult and pediatric patients [see Clinical Pharmacology (12.3)].
 
-Safety and effectiveness in patients less than 4 years of age have not been established.
+1 Month to Less than 4 Years of Age with Partial-Onset Seizures
+
+The safety and effectiveness of LYRICA as adjunctive treatment for partial-onset seizures in pediatric patients 1 month to less than 4 years of age have been established in a 14-day double-blind, placebo-controlled study (N=175) [see Clinical Studies (14.3)].
+The youngest subject evaluated was 3 months of age; use in patients 1 month to less than 3 months of age is supported by additional pharmacokinetic analyses.
+Patients treated with LYRICA 14 mg/kg/day had, on average, 43.9% greater reduction in partial-onset seizures than patients treated with placebo (p=0.0223).
+In addition, pediatric patients treated with LYRICA 14 mg/kg/day showed numerical improvement in responder rates (≥50% reduction in partial-onset seizure frequency) compared with placebo (53.6% versus 41.5%).
+Patients treated with LYRICA 7 mg/kg/day did not show improvement relative to placebo for either endpoint.
+
+The most common dose-related adverse reactions (≥5%) with LYRICA in this study were somnolence, pneumonia, and viral infection [see Adverse Reactions (6.1)].
 
 Juvenile Animal Data
 
