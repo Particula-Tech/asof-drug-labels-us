@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210326"
+  ],
+  "inn": "fulvestrant",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-715-01",
+    "63323-715-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fulvestrant",
+      "name": "Fulvestrant"
+    }
+  ],
+  "setid": "fabe9bd8-ac23-4df1-a89a-223d5cd38914",
+  "source": "dailymed"
+}
