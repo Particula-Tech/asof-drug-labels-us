@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050356"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Endo Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "63481-529-10"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "colistin sulfate, neomycin sulfate, thonzonium bromide and hydrocortisone acetate",
+      "name": "Cortisporin TC"
+    }
+  ],
+  "setid": "9c6fc1c7-3350-42ae-b999-aca48e704bb1",
+  "source": "dailymed"
+}
