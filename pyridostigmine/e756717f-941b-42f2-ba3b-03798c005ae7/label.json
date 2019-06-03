@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211181"
+  ],
+  "inn": "pyridostigmine",
+  "labeler": "Method Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "58657-810-21",
+    "58657-810-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pyridostigmine bromide",
+      "name": "Pyridostigmine Bromide"
+    }
+  ],
+  "setid": "e756717f-941b-42f2-ba3b-03798c005ae7",
+  "source": "dailymed"
+}
