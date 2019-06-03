@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA approved patient labeling (Patient Information)
+Advise the patient to read the FDA approved patient labeling (Patient Information).
 
 Myocardial Ischemia and/or Infarction, Prinzmetal’s Angina, Other Vasospastic Reactions, and Cerebrovascular Events
 

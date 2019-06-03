@@ -12,9 +12,9 @@ ZOLMITRIPTAN
 
 Rx only
 
-1-877-99-IMPAX (46729) ·www.zomig.com
+1-877-835-5472 ·www.zomig.com
 
-Impax
+amneal®
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -30,9 +30,9 @@ ZOLMITRIPT
 
 Rx only
 
-1-877-99-IMPAX (46729) ·www.zomig.com
+1-877-835-5472 ·www.zomig.com
 
-Impax
+amneal®
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL –2.5 mg
 
@@ -50,9 +50,9 @@ www.zomig.com
 
 Rx only
 
-1-877-99-IMPAX (46729)
+1-877-835-5472
 
-Impax
+amneal®
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -70,6 +70,6 @@ www.zomig.com
 
 Rx only
 
-1-877-99-IMPAX (46729)
+1-877-835-5472
 
-Impax
+amneal®
