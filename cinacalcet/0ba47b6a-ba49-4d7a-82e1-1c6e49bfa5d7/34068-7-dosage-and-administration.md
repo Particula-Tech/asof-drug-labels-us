@@ -20,10 +20,17 @@ During dose titration, serum calcium levels should be monitored frequently and i
 ## 2.3 Patients with Parathyroid Carcinoma and Primary Hyperparathyroidism
 
 The recommended starting oral dose of cinacalcet hydrochloride tablets is 30 mg twice daily.
+
 The dose of cinacalcet hydrochloride tablets should be titrated every 2 to 4 weeks through sequential doses of 30 mg twice daily, 60 mg twice daily, and 90 mg twice daily, and 90 mg 3 or 4 times daily as necessary to normalize serum calcium levels.
 Serum calcium should be measured within 1 week after initiation or dose adjustment of cinacalcet hydrochloride tablets [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].
 
-## 2.4 Monitoring for Hypocalcemia
+## 2.4 Switching from Parsabiv (etelcalcetide) to Cinacalcet Hydrochloride
+
+Discontinue etelcalcetide for at least 4 weeks prior to starting cinacalcet hydrochloride.
+Ensure corrected serum calcium is at or above the lower limit of normal prior to cinacalcet hydrochloride. initiation [see Warnings and Precautions (5.1)].
+Initiate cinacalcet hydrochloride treatment at a starting dose of 30 mg once daily.
+
+## 2.5 Monitoring for Hypocalcemia
 
 Once the maintenance dose has been established, serum calcium should be measured approximately monthly for patients with secondary hyperparathyroidism with CKD on dialysis, and every 2 months for patients with parathyroid carcinoma or primary hyperparathyroidism [see Dosage and Administration (2.2, 2.3)].
 
