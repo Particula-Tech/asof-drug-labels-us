@@ -85,8 +85,8 @@ What are topiramate tablets?
 
 Topiramate tablets are a prescription medicine used:
 
-- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
-- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
+- to treat certain types of seizures (partial-onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
+- with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
 - to prevent migraine headaches in adults and adolescents 12 years and older.
 
 Before taking topiramate tablets, tell your healthcare provider about all of your medical conditions, including if you:
@@ -199,7 +199,6 @@ Tell your healthcare provider about any side effect that bothers you or that doe
 These are not all the possible side effects of topiramate tablets.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-­800-FDA-1088.
-
 You may also report side effects to Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 How should I store topiramate tablets?
@@ -225,4 +224,4 @@ In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg t
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2019
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019
