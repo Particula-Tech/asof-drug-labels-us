@@ -12,7 +12,7 @@ Chemotherapy-Induced Nausea and Vomiting
 Table 2.
 Adverse Reactions Reported in >5% of Adult Patients Who Received Ondansetron at a Dosage of Three 0.15-mg/kg Doses
 
-| Adverse Reaction | Ondansetron Injection, USP 0.15 mg/kg × 3 n = 419 | Metoclopramide n = 156 | Placebo n = 34 |
+| Adverse Reaction | Ondansetron Injection 0.15 mg/kg × 3 n = 419 | Metoclopramide n = 156 | Placebo n = 34 |
 | --- | --- | --- | --- |
 |  | Number of Adult Patients with Reaction |  |  |
 | Diarrhea | 16% | 44% | 18% |
@@ -29,7 +29,7 @@ On repeat exposure, similar transient elevations in transaminase values occurred
 
 Integumentary: Rash has occurred in approximately 1% of patients receiving ondansetron.
 
-Neurological: There have been rare reports consistent with, but not diagnostic of, extrapyramidal reactions in patients receiving Ondansetron Injection, USP, and rare cases of grand mal seizure.
+Neurological: There have been rare reports consistent with, but not diagnostic of, extrapyramidal reactions in patients receiving Ondansetron Injection, and rare cases of grand mal seizure.
 
 Other: Rare cases of hypokalemia have been reported.
 

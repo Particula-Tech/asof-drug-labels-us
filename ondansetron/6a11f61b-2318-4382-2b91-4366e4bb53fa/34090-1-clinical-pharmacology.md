@@ -16,7 +16,7 @@ In a gender-balanced pharmacodynamic trial (n = 56), ondansetron 4 mg administer
 Cardiac Electrophysiology
 
 QTc interval prolongation was studied in a double-blind, single intravenous dose, placebo- and positive-controlled, crossover trial in 58 healthy subjects.
-The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline-correction was 19.5 (21.8) ms and 5.6 (7.4) ms after 15 minute intravenous infusions of 32 mg and 8 mg Ondansetron Injection, USP, respectively.
+The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline-correction was 19.5 (21.8) ms and 5.6 (7.4) ms after 15 minute intravenous infusions of 32 mg and 8 mg Ondansetron Injection, respectively.
 A significant exposure-response relationship was identified between ondansetron concentration and ΔΔQTcF.
 Using the established exposure-response relationship, 24 mg infused intravenously over 15 minutes had a mean predicted (95% upper prediction interval) ΔΔQTcF of 14.0 (16.3) ms. In contrast, 16 mg infused intravenously over 15 minutes using the same model had a mean predicted (95% upper prediction interval) ΔΔQTcF of 9.1 (11.2) ms. In this study, the 8-mg dose infused over 15 minutes did not prolong the QT interval to any clinically relevant extent.
 

@@ -2,8 +2,8 @@
 
 QT Prolongation
 
-- Patients should be informed that Ondansetron may cause serious cardiac arrhythmias such as QT prolongation.
-  Patients should be instructed to tell their healthcare provider right away if they perceive a change in their heart rate, if they feel lightheaded, or if they have a syncopal episode.
+Patients should be informed that Ondansetron may cause serious cardiac arrhythmias such as QT prolongation.
+Patients should be instructed to tell their healthcare provider right away if they perceive a change in their heart rate, if they feel lightheaded, or if they have a syncopal episode.
 
 Patients should be informed that the chances of developing severe cardiac arrhythmias such as QT prolongation and Torsade de Pointes are higher in the following people:
 
@@ -11,7 +11,7 @@ Patients should be informed that the chances of developing severe cardiac arrhyt
 - Patients who take medications, such as diuretics, which may cause electrolyte abnormalities;
 - Patients with hypokalemia or hypomagnesemia.
 
-Ondansetron Injection, USP should be avoided in these patients, since they may be more at risk for cardiac arrhythmias such as QT prolongation and Torsade de Pointes.
+Ondansetron Injection should be avoided in these patients, since they may be more at risk for cardiac arrhythmias such as QT prolongation and Torsade de Pointes.
 
 Hypersensitivity Reactions
 

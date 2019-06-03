@@ -2,10 +2,10 @@
 
 Ondansetron Injection, USP, 2 mg/mL, is supplied as follows:
 
-| Unit of Sale | Concentration | Each |
-| --- | --- | --- |
-| NDC 0409-4755-03 Carton of 25 | 4 mg/2 mL (2 mg/mL) | NDC 0409-4755-18 2 mL Single-dose Vials |
-| NDC 0409-4759-01 Carton of 1 | 40 mg/20 mL (2 mg/mL) | NDC 0409-4759-01 20 mL Multi-dose Vials |
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 0409-4755-03 Carton of 25 2 mL Single-dose Vials | 4 mg/2 mL (2 mg/mL) |
+| NDC 0409-4759-01 Carton of 1 20 mL Multiple-dose Vials | 40 mg/20 mL (2 mg/mL) |
 
 Storage: Store at 20 to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]

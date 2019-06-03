@@ -6,20 +6,20 @@ The clinical efficacy of ondansetron hydrochloride, the active ingredient of ond
 
 Adults
 
-In a double-blind trial of three different dosing regimens of Ondansetron Injection, USP, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
+In a double-blind trial of three different dosing regimens of Ondansetron Injection, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
 The 0.30-mg/kg dosing regimen was not shown to be more effective than the 0.15-mg/kg dosing regimen.
 
-Cisplatin-Based Chemotherapy: In a double-blind trial in 28 patients, Ondansetron Injection, USP (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
+Cisplatin-Based Chemotherapy: In a double-blind trial in 28 patients, Ondansetron Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
 Therapeutic response was as shown in Table 7.
 
 Table 7.
-Therapeutic Response in Prevention of Chemotherapy-induced Nausea and Vomiting in Single-day Cisplatin TherapyChemotherapy was high dose (100 and 120 mg/m2; Ondansetron Injection, USP n = 6, placebo n = 5) or moderate dose (50 and 80 mg/m2; Ondansetron Injection, USP n = 8, placebo n = 9).
+Therapeutic Response in Prevention of Chemotherapy-induced Nausea and Vomiting in Single-day Cisplatin TherapyChemotherapy was high dose (100 and 120 mg/m2; Ondansetron Injection n = 6, placebo n = 5) or moderate dose (50 and 80 mg/m2; Ondansetron Injection n = 8, placebo n = 9).
 Other chemotherapeutic agents included fluorouracil, doxorubicin, and cyclophosphamide.
 There was no difference between treatments in the types of chemotherapy that would account for differences in response. in Adults
 
 | Number of patients | 14 | 14 |  |
 | --- | --- | --- | --- |
-|  | Ondansetron Injection, USP (0.15 mg/kg × 3) | Placebo | P ValueEfficacy based on "all-patients-treated" analysis. |
+|  | Ondansetron Injection (0.15 mg/kg × 3) | Placebo | P ValueEfficacy based on "all-patients-treated" analysis. |
 | Treatment response |  |  |  |
 | 0 Emetic episodes | 2 (14%) | 0 (0%) |  |
 | 1–2 Emetic episodes | 8 (57%) | 0 (0%) |  |
@@ -30,7 +30,7 @@ There was no difference between treatments in the types of chemotherapy that wou
 | Median nausea scores (0–100)Visual analog scale assessment of nausea: 0 = no nausea, 100 = nausea as bad as it can be. | 3 | 59 | 0.034 |
 | Global satisfaction with control of nausea and vomiting (0–100)Visual analog scale assessment of satisfaction: 0 = not at all satisfied, 100 = totally satisfied. | 96 | 10.5 | 0.009 |
 
-Ondansetron Injection, USP (0.15-mg/kg × 3 doses) was compared with metoclopramide (2 mg/kg × 6 doses) in a single-blind trial in 307 patients receiving cisplatin ≥100 mg/m2 with or without other chemotherapeutic agents.
+Ondansetron Injection (0.15-mg/kg × 3 doses) was compared with metoclopramide (2 mg/kg × 6 doses) in a single-blind trial in 307 patients receiving cisplatin ≥100 mg/m2 with or without other chemotherapeutic agents.
 Patients received the first dose of ondansetron or metoclopramide 30 minutes before cisplatin.
 Two additional ondansetron doses were administered 4 and 8 hours later, or five additional metoclopramide doses were administered 2, 4, 7, 10, and 13 hours later.
 Cisplatin was administered over a period of 3 hours or less.
@@ -43,7 +43,7 @@ There was no difference between treatments in the types of chemotherapy that wou
 
 | Dose | 0.15 mg/kg × 3 | 2 mg/kg × 6 |  |
 | --- | --- | --- | --- |
-|  | Ondansetron Injection, USP | Metoclopramide | P Value |
+|  | Ondansetron Injection | Metoclopramide | P Value |
 | Number of patients in efficacy population | 136 | 138 |  |
 | Treatment response |  |  |  |
 | 0 Emetic episodes | 54 (40%) | 41 (30%) |  |
@@ -59,7 +59,7 @@ There was no difference between treatments in the types of chemotherapy that wou
 | Acute dystonic reactions | 0 | 8 | 0.005 |
 | Akathisia | 0 | 10 | 0.002 |
 
-Cyclophosphamide-Based Chemotherapy: In a double-blind, placebo-controlled trial of Ondansetron Injection, USP (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, Ondansetron Injection, USP was significantly more effective than placebo in preventing nausea and vomiting.
+Cyclophosphamide-Based Chemotherapy: In a double-blind, placebo-controlled trial of Ondansetron Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, Ondansetron Injection was significantly more effective than placebo in preventing nausea and vomiting.
 The results are summarized in Table 9.
 
 Table 9.
@@ -68,7 +68,7 @@ There was no difference between treatments in the type of chemotherapy that woul
 
 | Number of patients | 10 | 10 |  |
 | --- | --- | --- | --- |
-|  | Ondansetron Injection, USP (0.15 mg/kg × 3) | Placebo | P ValueEfficacy based on "all-patients-treated" analysis. |
+|  | Ondansetron Injection (0.15 mg/kg × 3) | Placebo | P ValueEfficacy based on "all-patients-treated" analysis. |
 | Treatment response |  |  |  |
 | 0 Emetic episodes | 7 (70%) | 0 (0%) | 0.001 |
 | 1–2 Emetic episodes | 0 (0%) | 2 (20%) |  |
@@ -85,7 +85,7 @@ No emetic episodes occurred in 160 (59%), and two or fewer emetic episodes occur
 Pediatrics
 
 Four open-label, noncomparative (one US, three foreign) trials have been performed with 209 pediatric cancer patients aged 4 to 18 years given a variety of cisplatin or noncisplatin regimens.
-In the three foreign trials, the initial Ondansetron Injection, USP dose ranged from 0.04 to 0.87 mg/kg for a total dose of 2.16 to 12 mg.
+In the three foreign trials, the initial Ondansetron Injection dose ranged from 0.04 to 0.87 mg/kg for a total dose of 2.16 to 12 mg.
 This was followed by the oral administration of ondansetron ranging from 4 to 24 mg daily for 3 days.
 In the US trial, ondansetron was administered intravenously (only) in three doses of 0.15 mg/kg each for a total daily dose of 7.2 to 39 mg.
 In these trials, 58% of the 196 evaluable patients had a complete response (no emetic episodes) on Day 1.
@@ -103,8 +103,8 @@ Thus, prevention of vomiting in these pediatric patients was comparable to the p
 
 Adults
 
-Adult surgical patients who received ondansetron immediately before the induction of general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) were evaluated in two double- blind US trials involving 554 patients.
-Ondansetron Injection, USP (4 mg) intravenous given over 2 to 5 minutes was significantly more effective than placebo.
+Adult surgical patients who received ondansetron immediately before the induction of general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) were evaluated in two double-blind US trials involving 554 patients.
+Ondansetron Injection (4 mg) intravenous given over 2 to 5 minutes was significantly more effective than placebo.
 The results of these trials are summarized in Table 10.
 
 Table 10.
@@ -182,7 +182,7 @@ Overall, 32 (10%) of placebo patients and 18 (5%) of patients who received ondan
 Adults
 
 Adult surgical patients receiving general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) who received no prophylactic antiemetics and who experienced nausea and/or vomiting within 2 hours postoperatively were evaluated in two double-blind US trials involving 441 patients.
-Patients who experienced an episode of postoperative nausea and/or vomiting were given Ondansetron Injection, USP (4 mg) intravenously over 2 to 5 minutes, and this was significantly more effective than placebo.
+Patients who experienced an episode of postoperative nausea and/or vomiting were given Ondansetron Injection (4 mg) intravenously over 2 to 5 minutes, and this was significantly more effective than placebo.
 The results of these trials are summarized in Table 12.
 
 Table 12.
