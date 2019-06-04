@@ -227,12 +227,11 @@ All brand names listed are the registered trademarks of their respective owners 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured In Israel By:
+Manufactured In Croatia By:
 
-Teva Pharmaceutical Ind.
-Ltd.
+Pliva Hrvatska d.o.o.
 
-Jerusalem, 9777402, Israel
+Zagreb, Croatia
 
 Manufactured For:
 
@@ -241,4 +240,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-D 10/2016
+E 11/2018

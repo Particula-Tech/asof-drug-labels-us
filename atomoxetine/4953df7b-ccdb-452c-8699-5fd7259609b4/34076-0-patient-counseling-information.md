@@ -60,12 +60,11 @@ If patients miss a dose, they should be instructed to take it as soon as possibl
 
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
 
-Manufactured In Israel By:
+Manufactured In Croatia By:
 
-Teva Pharmaceutical Ind.
-Ltd.
+Pliva Hrvatska d.o.o.
 
-Jerusalem, 9777402, Israel
+Zagreb, Croatia
 
 Manufactured For:
 
@@ -74,4 +73,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-J 5/2017
+K 11/2018
