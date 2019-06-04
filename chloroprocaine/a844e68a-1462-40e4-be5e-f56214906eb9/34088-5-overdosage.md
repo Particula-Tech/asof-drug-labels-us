@@ -2,7 +2,7 @@
 
 Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics or to unintended subarachnoid injection of local anesthetic solution (see ADVERSE REACTIONS, WARNINGS and PRECAUTIONS).
 
-In mice, the intravenous LD50 of chloroprocaine HCl is 97 mg/kg and the subcutaneous LD50 of chloroprocaine HCl is 950 mg/kg.
+In mice, the intravenous LD 50 of chloroprocaine HCl is 97 mg/kg and the subcutaneous LD 50 of chloroprocaine HCl is 950 mg/kg.
 
 Management of Local Anesthetic Emergencies: The first consideration is prevention, best accomplished by careful and constant monitoring of cardiovascular and respiratory vital signs and the patient’s state of consciousness after each local anesthetic injection.
 At the first sign of change, oxygen should be administered.

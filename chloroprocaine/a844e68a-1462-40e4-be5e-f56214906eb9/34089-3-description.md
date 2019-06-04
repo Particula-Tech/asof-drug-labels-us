@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Nesacaine and Nesacaine-MPF Injections are sterile non pyrogenic local anesthetics.
+Nesacaine and Nesacaine-MPF Injections are sterile non-pyrogenic local anesthetics.
 The active ingredient in Nesacaine and Nesacaine-MPF Injections is chloroprocaine HCl (benzoic acid, 4-amino-2-chloro-2-(diethylamino) ethyl ester, monohydrochloride), which is represented by the following structural formula:
 
 Table 1: Composition of Available Injections
