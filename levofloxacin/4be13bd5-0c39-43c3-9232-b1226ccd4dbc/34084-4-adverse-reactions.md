@@ -12,6 +12,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Other Serious and Sometimes Fatal Reactions [see WARNINGS AND PRECAUTIONS (5.6)]
 - Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS (5.7)]
 - Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.8)]
+- Risk of Aortic Aneurysm and Dissection [see WARNINGS AND PRECAUTIONS (5.9)]
 - Clostridium difficile -Associated Diarrhea [see WARNINGS AND PRECAUTIONS (5.10)]
 - Prolongation of the QT Interval [see WARNINGS AND PRECAUTIONS (5.11)]
 - Musculoskeletal Disorders in Pediatric Patients [see WARNINGS AND PRECAUTIONS (5.12)]

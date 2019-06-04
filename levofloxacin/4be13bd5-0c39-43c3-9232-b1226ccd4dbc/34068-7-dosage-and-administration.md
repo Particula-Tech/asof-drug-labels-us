@@ -32,7 +32,7 @@ Table 1: Dosage of Levofloxacin Tablets in Adult Patients with Creatinine Cleara
 | ¶ This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia. |  |  |
 | #This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and for AP due to E. coli. |  |  |
 | Þ Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see CLINICAL STUDIES (14.9)]. |  |  |
-| ß The safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.11), USE IN SPECIFIC POPULATIONS (8.4), and CLINICAL STUDIES (14.9)]. Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk. |  |  |
+| ß The safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.12), USE IN SPECIFIC POPULATIONS (8.4), and CLINICAL STUDIES (14.9)]. Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk. |  |  |
 | à Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis. Higher doses of levofloxacin tablets typically used for treatment of pneumonia can be used for treatment of plague, if clinically indicated. |  |  |
 
 ## 2.2 Dosage of Levofloxacin Tablets in Pediatric Patients with Inhalational Anthrax or Plague
@@ -46,7 +46,7 @@ Table 2: Levofloxacin Tablets Dosage in Pediatric Patients Weighing 30 kg or gre
 | Type of Infection | Dose | Frequency | DurationSequential therapy (intravenous levofloxacin injection to oral levofloxacin tablets) may be instituted at the discretion of the healthcare provider. |
 | --- | --- | --- | --- |
 | Inhalational Anthrax (post-exposure)‡,§ |  |  |  |
-| Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hours | 60 days The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days has not been studied. [see WARNINGS AND PRECAUTIONS (5.11), USE IN SPECIFIC POPULATIONS (8.4), and CLINICAL STUDIES (14.9)]. Begin levofloxacin tablets as soon as possible after suspected or confirmed exposure to Yersinia pestis. |
+| Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hours | 60 days The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days has not been studied. [see WARNINGS AND PRECAUTIONS (5.12), USE IN SPECIFIC POPULATIONS (8.4), and CLINICAL STUDIES (14.9)]. Begin levofloxacin tablets as soon as possible after suspected or confirmed exposure to Yersinia pestis. |
 | Pediatric patients weighing 30 kg to less than 50 kg | 250 mg | every 12 hours | 60 days |
 | Plague¶ |  |  |  |
 | Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hours | 10 to 14 days |
