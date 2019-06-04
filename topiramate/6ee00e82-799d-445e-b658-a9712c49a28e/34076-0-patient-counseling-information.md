@@ -15,7 +15,7 @@ Counsel patients to contact their healthcare professionals immediately if they d
 
 Metabolic Acidosis
 
-Warn patients about the potential significant risk for metabolic acidosis that may e asymptomatic and may be associated with adverse effects on kidneys (e.g., kidney stones, nephrocalcinosis), bones (e.g., osteoporosis, osteomalacia, and/or rickets in children), and growth (e.g., growth delay/retardation) in pediatric patients, and on the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Warn patients about the potential significant risk for metabolic acidosis that may be asymptomatic and may be associated with adverse effects on kidneys (e.g., kidney stones, nephrocalcinosis), bones (e.g., osteoporosis, osteomalacia, and/or rickets in children), and growth (e.g., growth delay/retardation) in pediatric patients, and on the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Suicidal Behavior and Ideation
 
@@ -33,12 +33,11 @@ Discuss the appropriate level of caution with patients, before patients with epi
 Fetal Toxicity
 
 Inform pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
-Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age [see Use in Specific Populations (8.1)].
-There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1, 8.8)].
+Also inform patients that infants exposed to topiramate monotherapy in utero may be SGA [see Use in Specific Populations (8.1)].
+There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
-This is particularly important when topiramate use is considered for a condition not usually associated with permanent injury or death.
 
-Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.3)].
+Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.4)].
 
 Encourage pregnant women using topiramate, to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
@@ -62,4 +61,4 @@ However, if a patient is within 6 hours of taking the next scheduled dose, tell 
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
 
-10-R-07/2018
+11-R-05/2019
