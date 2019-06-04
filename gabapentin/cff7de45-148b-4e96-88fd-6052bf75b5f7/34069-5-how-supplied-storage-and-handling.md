@@ -4,29 +4,29 @@ Gabapentin capsules, tablets, and oral solution are supplied as follows:
 
 100 mg capsules:
 
-- White hard gelatin capsules printed with "G" on one side and "5026" on the other; available in:
-- Bottles of 100: NDC 59762-5026-1
+- White hard gelatin capsules printed with "PD" on the body and "Neurontin/100 mg" on the cap; available in:
+- Bottles of 100: NDC 59762-4030-1
 
 300 mg capsules:
 
-- Yellow hard gelatin capsules printed with "G" on one side and "5027" on the other; available in:
-- Bottles of 100: NDC 59762-5027-1
-- Bottles of 500: NDC 59762-5027-2
+- Yellow hard gelatin capsules printed with "PD" on the body and "Neurontin/300 mg" on the cap; available in:
+- Bottles of 100: NDC 59762-4135-1
+- Bottles of 500: NDC 59762-4135-5
 
 400 mg capsules:
 
-- Orange hard gelatin capsules printed with "G" on one side and "5028" on the other; available in:
-- Bottles of 100: NDC 59762-5028-1
+- Orange hard gelatin capsules printed with "PD" on the body and "Neurontin/400 mg" on the cap; available in:
+- Bottles of 100: NDC 59762-4240-1
 
 600 mg tablets:
 
-- White elliptical film-coated scored tablets debossed with "G" and "21" on one side; available in:
-- Bottles of 100: NDC 59762-5023-1
+- White elliptical film-coated scored tablets debossed with "NT" and "16" on one side; available in:
+- Bottles of 100: NDC 59762-4355-1
 
 800 mg tablets:
 
-- White elliptical film-coated scored tablets debossed with "G" and "22" on one side; available in:
-- Bottles of 100: NDC 59762-5024-1
+- White elliptical film-coated scored tablets debossed with "NT" and "26" on one side; available in:
+- Bottles of 100: NDC 59762-4460-1
 
 250 mg per 5 mL oral solution:
 
