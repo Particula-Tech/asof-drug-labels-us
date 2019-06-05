@@ -25,16 +25,14 @@ Advise patients to inform physicians and dentists that they are taking clopidogr
 Proton Pump Inhibitors
 
 Advise patients not to take omeprazole or esomeprazole while taking clopidogrel tablets.
-
-Dexlansoprazole, lansoprazole and pantoprazole had less pronounced effects on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Drug Interactions (7.1)].
+Dexlansoprazole, lansoprazole, and pantoprazole had less pronounced effects on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Drug Interactions (7.1)].
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-For:
+Manufactured For:
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8066229 Revised December 2017
+8075347 Revised June 2019

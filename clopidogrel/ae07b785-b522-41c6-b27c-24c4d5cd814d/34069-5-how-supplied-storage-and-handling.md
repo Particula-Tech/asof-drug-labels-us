@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Clopidogrel tablets, USP 75-mg are available as light pink colored, round, beveled edge, biconvex film coated tablets printed "41" with black ink on one side and plain on the other side.
-Tablets are provide as follow:
+Clopidogrel tablets, USP 75mg are available as light pink colored, round, beveled edge, biconvex film coated tablets printed "41" with black ink on one side and plain on the other side.
+Tablets are provided as follows:
 
 Bottles of 30 NDC 13668-141-30
 

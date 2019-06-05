@@ -7,7 +7,7 @@ CURE
 The CURE study included 12,562 patients with ACS without ST-elevation (UA or NSTEMI) and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischemia.
 Patients were required to have either ECG changes compatible with new ischemia (without ST-elevation) or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal.
 
-Patients were randomized to receive clopidogrel bisulfate (300-mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
+Patients were randomized to receive clopidogrel bisulfate (300 mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
 Patients also received aspirin (75 to 325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 
@@ -18,12 +18,12 @@ The number of patients experiencing the primary outcome (CV death, MI, or stroke
 
 Table 4: Outcome Events in the CURE Primary Analysis
 
-| Outcome | Clopidogrel bisulfate |  | Placebo (+ aspirin)* (n=6303) | Relative Risk Reduction (%) (95% Cl) |
+| Outcome | Clopidogrel bisulfate |  | Placebo (+ aspirin) * (n=6,303) | Relative Risk Reduction (%) (95% CI) |
 | --- | --- | --- | --- | --- |
-| (+ aspirin)* (n=6259) |  |  |  |  |
+| (+ aspirin) * (n=6,259) |  |  |  |  |
 | Primary outcome | 582 | (9.3%) | 719 (11.4%) | 20% |
 | (Cardiovascular death, MI, stroke) |  |  |  | (10.3, 27.9) p <0.001 |
-| All Individual Outcome Events:† |  |  |  |  |
+| All Individual Outcome Events: † |  |  |  |  |
 | CV death | 318 | (5.1%) | 345 (5.5%) | 7% |
 |  |  |  |  | (-7.7, 20.6) |
 | MI | 324 | (5.2%) | 419 (6.6%) | 23% |
@@ -35,7 +35,7 @@ Table 4: Outcome Events in the CURE Primary Analysis
 
 Most of the benefit of clopidogrel bisulfate occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
-Figure 2: Cardiovascular Death, Myocardial Infarction, and Stroke in the CURE Study
+Figure2:CardiovascularDeath, MyocardialInfarction, andStrokeintheCUREStudy
 
 The effect of clopidogrel bisulfate did not differ significantly in various subgroups, as shown in Figure 3.
 The benefits associated with clopidogrel bisulfate were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE inhibitors.
@@ -43,7 +43,7 @@ The efficacy of clopidogrel bisulfate was observed independently of the dose of 
 The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 The use of clopidogrel bisulfate in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel bisulfate group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel bisulfate group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
-The use of clopidogrel bisulfate in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36.0%] in the clopidogrel bisulfate group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
+The use of clopidogrel bisulfate in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting) (2,253 patients [36.0%] in the clopidogrel bisulfate group, 2,324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
 
 COMMIT
 
@@ -60,14 +60,14 @@ As shown in Table 5 and Figure 4 and Figure 5 below, clopidogrel bisulfate signi
 
 Table 5: Outcome Events in COMMIT
 
-| Event | Clopidogrel bisulfate (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
+| Event | Clopidogrel bisulfate (+ aspirin) (N=22,961) | Placebo (+ aspirin) (N=22,891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
-| Composite endpoint: Death, MI, or Stroke* | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
-| Death Nonfatal MI† Nonfatal Stroke† | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |
+| Composite endpoint: Death, MI, or Stroke * | 2,121 (9.2%) | 2,310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
+| Death Nonfatal MI † Nonfatal Stroke † | 1,726 (7.5%) 270 (1.2%) 127 (0.6%) | 1,845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |
 | * 9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. |  |  |  |  |
 | † Nonfatal MI and nonfatal stroke exclude patients who died (of any cause). |  |  |  |  |
 
-Figure 5: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke or Death in the COMMIT Study*
+Figure5:CumulativeEventRatesfortheCombinedEndpointRe-Infarction, StrokeorDeathintheCOMMITStudy *
 
 The effect of clopidogrel bisulfate did not differ significantly in various prespecified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
@@ -86,13 +86,13 @@ Deaths not easily attributable to nonvascular causes were all classified as vasc
 
 Table 6: Outcome Events in the CAPRIE Primary Analysis
 
-| Patients | Clopidogrel bisulfate | aspirin |
+| Patients | Clopidogrel bisulfate | Aspirin |
 | --- | --- | --- |
-|  | n=9599 | n=9586 |
+|  | n=9,599 | n=9,586 |
 | Ischemic stroke (fatal or not) | 438 (4.6%) | 461 (4.8%) |
 | MI (fatal or not) | 275 (2.9%) | 333 (3.5%) |
 | Other vascular death | 226 (2.4%) | 226 (2.4%) |
-| Total | 939 (9.8%) | 1020 (10.6%) |
+| Total | 939 (9.8%) | 1,020 (10.6%) |
 
 As shown in Table 6, clopidogrel bisulfate was associated with a lower incidence of outcome events, primarily MI.
 The overall relative risk reduction (9.8% vs. 10.6%) was 8.7%, p=0.045.
@@ -102,20 +102,20 @@ In patients who survived an on-study stroke or myocardial infarction, the incide
 The curves showing the overall event rate are shown in Figure 7.
 The event curves separated early and continued to diverge over the 3-year follow-up period.
 
-Figure 7: Fatal or Nonfatal Vascular Events in the CAPRIE Study
+Figure7:FatalorNonfatalVascularEventsintheCAPRIEStudy
 
 The statistical significance favoring clopidogrel bisulfate over aspirin was marginal (p=0.045).
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel bisulfate is substantial.
 
 The CAPRIE trial enrolled a population that had recent MI, recent stroke, or PAD.
 The efficacy of clopidogrel bisulfate relative to aspirin was heterogeneous across these subgroups (p=0.043) (see Figure 8).
-Nonetheless this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel bisulfate over aspirin in the individual patient subgroups.
+Nonetheless, this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel bisulfate over aspirin in the individual patient subgroups.
 The benefit was most apparent in patients who were enrolled because of peripheral arterial disease and less apparent in stroke patients.
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel bisulfate was not numerically superior to aspirin.
 
-Figure 8: Hazard Ratio and 95% CI by Baseline Subgroups in the CAPRIE study
+Figure 8: Hazard Ratio and 95% CI by Baseline Subgroups in the CAPRIE Study
 
-## 14.3 No Demonstrated Benefit of Clopidogrel Bisulfate plus Aspirin in Patients with Multiple Risk Factors or Established Vascular Disease
+## 14.3 No Demonstrated Benefit of clopidogrel bisulfate plus Aspirin in Patients with Multiple Risk Factors or Established Vascular Disease
 
 CHARISMA
 

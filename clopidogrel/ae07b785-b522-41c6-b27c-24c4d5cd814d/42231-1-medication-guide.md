@@ -11,7 +11,7 @@ This Medication Guide does not take the place of talking with your doctor about 
 What is the most important information I should know about clopidogrel tablets?
 
 1.
-Clopidogrel tablets may not work as well in people who:
+Clopidogrel tabletsmay not work as well in people who:
 
 - have certain genetic factors that affect how the body breaks down clopidogrel tablets.
   Your doctor may do genetic tests to make sure clopidogrel tablets are right for you.
@@ -19,7 +19,7 @@ Clopidogrel tablets may not work as well in people who:
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
 
 2.
-Clopidogrel tablets can cause bleeding which can be serious and can sometimes lead to death.
+Clopidogrel tabletscan cause bleeding which can be serious and can sometimes lead to death.
 Clopidogrel tablets are blood thinner medicine that lowers the chance of blood clots forming in your body.
 While you take clopidogrel tablets:
 
@@ -71,14 +71,13 @@ Before you take clopidogrel tablets, tell your doctor if you:
 - have a history of bowel (gastrointestinal) or stomach ulcers
 - have a history of bleeding problems
 - plan to have surgery or a dental procedure.
-  See "How should I take clopidogrel tablets?
+  See " How should I take clopidogrel tablets?
   "
 - are pregnant or plan to become pregnant.
   It is not known if clopidogrel tablets will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel bisulfate passes into your breast milk.
-  You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
-  You should not do both without talking to your doctor.
+  A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing clopidogrel tablets is needed.
 - have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
@@ -87,9 +86,9 @@ They should talk to the doctor who prescribed clopidogrel tablets for you before
 Tell your doctor about all the medicines you take, including prescription, non-prescription medicines, vitamins and herbal supplements.
 
 Clopidogrel tablets may affect the way other medicines work, and other medicines may affect how clopidogrel tablets work.
-See "What is the most important information I should know about clopidogrel tablets?"
+See " What is the most important information I should know about clopidogrel tablets?"
 
-Clopidogrel tablets may increase blood levels of other medicines such as repaglinide (Prandin®).
+Clopidogrel tablets may increase blood levels of other medicines such as repaglinide (Prandin ®).
 
 Taking clopidogrel tablets with certain other medicines may increase your risk of bleeding.
 Especially tell your doctor if you take:
@@ -98,7 +97,7 @@ Especially tell your doctor if you take:
   Always talk to your doctor about whether you should take aspirin along with clopidogrel tablets to treat your condition.
 - Non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
-- warfarin (Coumadin®, Jantoven®)
+- warfarin (Coumadin ®, Jantoven ®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 
@@ -148,6 +147,7 @@ Clopidogrel tablets can cause serious side effects including:
 - stomach area (abdominal) pain
 - nausea, vomiting, or diarrhea
 - vision changes.
+- Persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
@@ -175,7 +175,7 @@ This Medication Guide summarizes the most important information about clopidogre
 If you would like more information, talk to your doctor.
 Ask your doctor or pharmacist for information about clopidogrel tablets that was written for healthcare professionals.
 
-For more information, call Torrent Pharma Inc. at 1-269-544-2299.
+For more information, call Torrent Pharma Inc. at 1-800-912-9561.
 
 What are the ingredients in clopidogrel tablets?
 
@@ -193,11 +193,10 @@ Trade marks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-For:
+Manufactured For:
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8066230 Revised December 2017
+8075348 Revised June 2019

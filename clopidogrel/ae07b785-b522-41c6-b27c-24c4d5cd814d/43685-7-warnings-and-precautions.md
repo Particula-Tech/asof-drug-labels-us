@@ -14,15 +14,12 @@ Avoid concomitant use of clopidogrel bisulfate with omeprazole or esomeprazole b
 Thienopyridines, including clopidogrel bisulfate, increase the risk of bleeding.
 
 Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7 to 10 days).
-
 Because the half-life of clopidogrel's active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
 
 ## 5.3 Discontinuation of Clopidogrel Bisulfate
 
 Discontinuation of clopidogrel bisulfate increases the risk of cardiovascular events.
-If
-
-clopidogrel bisulfate must be temporarily discontinued (e.g., to treat bleeding or for surgery with a major risk of bleeding), restart it as soon as possible.
+If clopidogrel bisulfate must be temporarily discontinued (e.g., to treat bleeding or for surgery with a major risk of bleeding), restart it as soon as possible.
 When possible, interrupt therapy with clopidogrel bisulfate for five days prior to such surgery.
 Resume clopidogrel bisulfate as soon as hemostasis is achieved.
 

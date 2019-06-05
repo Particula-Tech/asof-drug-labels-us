@@ -24,7 +24,7 @@ The overall incidence of bleeding is described in Table 1.
 
 Table 1: CURE Incidence of Bleeding Complications (% patients)
 
-| Event | Clopidogrel bisulfate (+ aspirin) (n=6259) | Placebo (+ aspirin) (n=6303) |
+| Event | Clopidogrel bisulfate (+ aspirin) (n=6,259) | Placebo (+ aspirin) (n=6,303) |
 | --- | --- | --- |
 | Major bleeding * | 3.7 | 2.7 |
 | Life-threatening bleeding | 2.2 | 1.8 |
@@ -48,14 +48,14 @@ In COMMIT, similar rates of major bleeding were observed in the clopidogrel bisu
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
-| Type of Bleeding | Clopidogrel bisulfate (+ aspirin) (n=22961) | Placebo (+ aspirin) (n=22891) | p-value |
+| Type of Bleeding | Clopidogrel bisulfate (+ aspirin) (n=22,961) | Placebo (+ aspirin) (n=22,891) | p-value |
 | --- | --- | --- | --- |
 | Major* noncerebral or cerebral bleeding Major noncerebral Fatal Hemorrhagic stroke Fatal | 0.6 0.4 0.2 0.2 0.2 | 0.5 0.3 0.2 0.2 0.2 | 0.59 0.48 0.90 0.91 0.81 |
 | Other noncerebral bleeding (nonmajor) | 3.6 | 3.1 | 0.005 |
 | Any noncerebral bleeding | 3.9 | 3.4 | 0.004 |
 | * Major bleeds were cerebral bleeds or noncerebral bleeds thought to have caused death or that required transfusion. |  |  |  |
 
-CAPRIE (Clopidogrel bisulfate vs. Aspirin)
+CAPRIE (Clopidogrel bisulfate vs Aspirin)
 
 In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking clopidogrel bisulfate versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
 The incidence of intracranial hemorrhage was 0.4% for clopidogrel bisulfate compared to 0.5% for aspirin.
@@ -80,7 +80,7 @@ Hemorrhages, including those with fatal outcome, have been reported in patients 
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
 - Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
-- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
+- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness, insulin autoimmune syndrome, which can lead to severe hypoglycemia.
 - Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, headache, ageusia
 - Psychiatric disorders: Confusion, hallucinations
