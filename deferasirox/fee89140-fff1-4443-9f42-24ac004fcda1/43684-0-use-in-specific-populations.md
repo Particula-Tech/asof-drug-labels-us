@@ -44,7 +44,7 @@ Pediatric approval for treatment of transfusional iron overload was based on cli
 Seventy percent of these patients had beta-thalassemia [see Indications and Usage (1), Dosage and Administration (2.1), Clinical Studies (14)].
 In those clinical studies, 173 children (ages 2 to < 12 years) and 119 adolescents (ages 12 to < 17 years) were exposed to deferasirox.
 
-A trial conducted in treatment naïve pediatric patients, ages 2 years to < 18 years with transfusional iron overload did not include a sufficient number of patients to provide additional meaningful information about the safety or compliance of the deferasirox oral tablets for suspension dosage form (Exjade) compared to the deferasirox granules dosage form (Jadenu Sprinkle).
+A trial conducted in treatment naïve pediatric patients, 2 to < 18 years of age with transfusional iron overload (NCT02435212) did not provide additional relevant information about the safety or effectiveness of the deferasirox granules dosage form (Jadenu Sprinkle) compared to the deferasirox oral tablets for suspension dosage form (Exjade).
 
 Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
 

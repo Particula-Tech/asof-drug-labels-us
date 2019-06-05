@@ -50,7 +50,7 @@ Planned duration of treatment in these trials ranged from 1 year (365 patients) 
 These trials evaluated the effects of deferasirox tablets for oral suspension therapy on parameters of iron overload, including LIC (125 patients) and serum ferritin (627 patients).
 The percent of patients completing planned duration of treatment was 51% in the largest 1-year study, 52% in the 3-year study and 22% in the 5-year study.
 The major causes for treatment discontinuation were withdrawal of consent, adverse reaction, and death.
-Over 1 year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n = 593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n = 68).
+Over 1-year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n = 593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n = 68).
 Results of these pooled studies in 627 patients with MDS suggest a progressive decrease in serum ferritin and LIC beyond 1 year in those patients who are able to continue deferasirox tablets for oral suspension.
 No controlled trials have been performed to demonstrate that these reductions improve morbidity or mortality in patients with MDS.
 Adverse reactions with deferasirox tablets for oral suspension therapy occur more frequently in older patients [see Use in Specific Populations (8.5)].
@@ -88,7 +88,7 @@ Absolute Change in LIC at Week 52 in NTDT Patients
 | Mean LIC at Baseline (mg Fe/g dw) | - | 5.6 | 8.8 | 23.5 |  |
 | Mean Change (mg Fe/g dw) | - | -1.5 | -2.8 | -9.1 |  |
 | (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) | (-11.0, -7.3) |  |
-| 1Randomized dose in Study 4 or assigned starting dose in Study 5 2Least square mean change for Study 4 |  |  |  |  |  |
+| 1Randomized dose in Study 4 or assigned starting dose in Study 5. 2Least square mean change for Study 4. |  |  |  |  |  |
 
 Study 5 (NCT00873041) was an open-label trial of deferasirox tablets for oral suspension for the treatment of patients previously enrolled on Study 4, including cross-over to active treatment for those previously treated with placebo.
 The starting dose of deferasirox tablets for oral suspension in Study 5 was assigned based on the patient’s LIC at completion of Study 4, being 20 mg/kg/day for an LIC exceeding 15 mg Fe/g dw, 10 mg/kg/day for LIC 3 to 15 mg Fe/g dw, and observation if the LIC was less than 3 mg Fe/g dw.

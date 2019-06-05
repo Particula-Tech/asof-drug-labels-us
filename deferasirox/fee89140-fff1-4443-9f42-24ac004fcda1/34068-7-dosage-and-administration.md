@@ -71,7 +71,7 @@ During Therapy:
 - If after 6 months of therapy, the LIC is 3 to 7 mg Fe/g dw, continue treatment with deferasirox at no more than 7 mg/kg/day.
 - When the LIC is less than 3 mg Fe/g dw, interrupt treatment with deferasirox and continue to monitor the LIC.
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
-- Increase monitoring frequency for pediatric patients who have acute illness which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
+- Increase monitoring frequency for pediatric patients who have acute illness, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
   Consider dose interruption until oral intake and volume status are normal [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 Restart treatment when the LIC rises again to more than 5 mg Fe/g dw.
