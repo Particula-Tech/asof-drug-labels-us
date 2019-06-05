@@ -84,8 +84,8 @@ Absolute Change in LIC at Week 52 in NTDT Patients
 | Mean LIC at Baseline (mg Fe/g dw) | - | 5.6 | 8.8 | 23.5 |
 | Mean Change (mg Fe/g dw) | - | -1.5 | -2.8 | -9.1 |
 | (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) | (-11.0, -7.3) |
-| 1Randomized dose in Study 4 or assigned starting dose in Study 5 |  |  |  |  |
-| 2Least square mean change for Study 4 |  |  |  |  |
+| 1Randomized dose in Study 4 or assigned starting dose in Study 5. |  |  |  |  |
+| 2Least square mean change for Study 4. |  |  |  |  |
 
 Study 5 (NCT00873041) was an open-label trial of Exjade for the treatment of patients previously enrolled on Study 4, including cross-over to active treatment for those previously treated with placebo.
 The starting dose of Exjade in Study 5 was assigned based on the patient’s LIC at completion of Study 4, being 20 mg/kg/day for an LIC exceeding 15 mg Fe/g dw, 10 mg/kg/day for LIC 3-15 mg Fe/g dw, and observation if the LIC was less than 3 mg Fe/g dw.

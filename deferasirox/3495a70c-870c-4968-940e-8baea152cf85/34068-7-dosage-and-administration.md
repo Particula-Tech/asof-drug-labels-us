@@ -142,7 +142,7 @@ Adults:
 Pediatric Patients (ages 10 years–17 years):
 
 - Reduce the dose by 5 mg/ kg/day if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
-- Increase monitoring frequency for pediatric patients who have acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
+- Increase monitoring frequency for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
   Consider dose interruption until oral intake and volume status are normal.
   Avoid use of other nephrotoxic drugs [see Warnings and Precautions (5.1)].
 - In the setting of decreased renal function, evaluate the risk benefit profile of continued Exjade use.
