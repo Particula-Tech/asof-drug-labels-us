@@ -5,19 +5,20 @@
 Treatment with Jakafi can cause thrombocytopenia, anemia and neutropenia [see Dosage and Administration (2.1)].
 
 Manage thrombocytopenia by reducing the dose or temporarily interrupting Jakafi.
-Platelet transfusions may be necessary [see Dosage and Administration (2.1.1), and Adverse Reactions (6.1)].
+Platelet transfusions may be necessary [see Dosage and Administration (2), and Adverse Reactions (6.1)].
 
 Patients developing anemia may require blood transfusions and/or dose modifications of Jakafi.
 
 Severe neutropenia (ANC less than 0.5 X 109/L) was generally reversible by withholding Jakafi until recovery [see Adverse Reactions (6.1)].
 
-Perform a pre-treatment complete blood count (CBC) and monitor CBCs every 2 to 4 weeks until doses are stabilized, and then as clinically indicated [see Dosage and Administration (2.1.1), and Adverse Reactions (6.1)].
+Perform a pre-treatment complete blood count (CBC) and monitor CBCs every 2 to 4 weeks until doses are stabilized, and then as clinically indicated [see Dosage and Administration (2), and Adverse Reactions (6.1)].
 
 ## 5.2 Risk of Infection
 
 Serious bacterial, mycobacterial, fungal and viral infections have occurred.
 Delay starting therapy with Jakafi until active serious infections have resolved.
 Observe patients receiving Jakafi for signs and symptoms of infection and manage promptly.
+Use active surveillance and prophylactic antibiotics according to clinical guidelines.
 
 Tuberculosis
 
@@ -51,7 +52,7 @@ Following discontinuation of Jakafi, symptoms from myeloproliferative neoplasms 
 Some patients with MF have experienced one or more of the following adverse events after discontinuing Jakafi: fever, respiratory distress, hypotension, DIC, or multi-organ failure.
 If one or more of these occur after discontinuation of, or while tapering the dose of Jakafi, evaluate for and treat any intercurrent illness and consider restarting or increasing the dose of Jakafi.
 Instruct patients not to interrupt or discontinue Jakafi therapy without consulting their physician.
-When discontinuing or interrupting therapy with Jakafi for reasons other than thrombocytopenia or neutropenia [see Dosage and Administration (2.5)], consider tapering the dose of Jakafi gradually rather than discontinuing abruptly.
+When discontinuing or interrupting therapy with Jakafi for reasons other than thrombocytopenia or neutropenia [see Dosage and Administration (2.6)], consider tapering the dose of Jakafi gradually rather than discontinuing abruptly.
 
 ## 5.4 Non-Melanoma Skin Cancer
 

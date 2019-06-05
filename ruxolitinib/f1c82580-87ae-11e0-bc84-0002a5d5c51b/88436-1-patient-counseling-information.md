@@ -47,9 +47,9 @@ Advise patients to continue taking Jakafi every day for as long as their physici
 Patients should not change dose or stop taking Jakafi without first consulting their physician.
 Patients should be aware that after discontinuation of treatment, signs and symptoms from myeloproliferative neoplasms are expected to return.
 
-Manufactured for: Incyte Corporation Wilmington, DE 19803
+Manufactured for: Incyte Corporation 1801 Augustine Cut-off Wilmington, DE 19803
 
 Jakafi is a registered trademark of Incyte.
 All rights reserved.
-U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013; 9079912 © 2011-2018 Incyte Corporation.
+U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013; 9079912; 9814722; 10016429 © 2011-2019 Incyte Corporation.
 All rights reserved.

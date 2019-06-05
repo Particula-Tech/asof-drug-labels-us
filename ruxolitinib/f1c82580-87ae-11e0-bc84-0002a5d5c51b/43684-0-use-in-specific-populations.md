@@ -29,7 +29,7 @@ There were no drug-related adverse findings in pups for fertility indices or for
 
 Risk Summary
 
-No data are available regarding the presence of ruxolitinib in human milk, the effects on the breast fed infant, or the effects on milk production.
+No data are available regarding the presence of ruxolitinib in human milk, the effects on the breast fed child, or the effects on milk production.
 Ruxolitinib and/or its metabolites were present in the milk of lactating rats (see Data).
 Because many drugs are present in human milk and because of the potential for thrombocytopenia and anemia shown for Jakafi in human studies, discontinue breastfeeding during treatment with Jakafi and for two weeks after the final dose.
 
@@ -43,13 +43,16 @@ Additional analysis showed the presence of ruxolitinib and several of its metabo
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Jakafi in pediatric patients have not been established.
+The safety and effectiveness of Jakafi for treatment of myelofibrosis or polycythemia vera in pediatric patients have not been established.
+
+The safety and effectiveness of Jakafi for treatment of steroid-refractory acute graft-versus-host disease (GVHD) have been established for treatment of children 12 years and older.
+Use of Jakafi in pediatric patients with steroid-refractory acute GVHD is supported by evidence from an adequate and well-controlled trial of Jakafi in adults [see Clinical Studies (14.3)] and additional pharmacokinetic and safety data in pediatric patients.
 
 Jakafi was evaluated in a single-arm, dose-escalation study (NCT01164163) in 27 pediatric patients with relapsed or refractory solid tumors (Cohort A) and 20 with leukemias or myeloproliferative neoplasms (Cohort B). The patients had a median age of 14 years (range, 2 to 21 years) and included 18 children (age 2 to <12 years), and 14 adolescents (age 12 to <17 years).
 The dose levels tested were 15, 21, 29, 39, or 50 mg/m2 twice daily in 28-day cycles with up to 6 patients per dose group.
 
 Overall, 38 (81%) patients were treated with no more than a single cycle of Jakafi, while 3, 1, 2, and 3 patients received 2, 3, 4, and 5 or more cycles, respectively.
-A protocol-defined maximal tolerated dose was not observed, but since few patients were treated for multiple cycles, tolerability with continued use was not assessed adequately to establish a recommended Phase 2 dose.
+A protocol-defined maximal tolerated dose was not observed, but since few patients were treated for multiple cycles, tolerability with continued use was not assessed adequately to establish a recommended Phase 2 dose higher than the recommended dose for adults.
 The safety profile in children was similar to that seen in adults.
 
 Juvenile Animal Toxicity Data
@@ -65,16 +68,16 @@ These findings were observed at exposures that are at least 27% the clinical exp
 Of the total number of patients with MF in clinical studies with Jakafi, 52% were 65 years and older, while 15% were 75 years and older.
 No overall differences in safety or effectiveness of Jakafi were observed between these patients and younger patients.
 
+Clinical studies of Jakafi in patients with acute GVHD did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
+
 ## 8.6 Renal Impairment
 
-Reduce the Jakafi dosage when administering Jakafi to patients with MF and moderate (CLcr 30 mL/min to 59 mL/min as estimated using Cockcroft-Gault) or severe renal impairment (CLcr 15 mL/min to 29 mL/min) with a platelet count between 50 X 109/L and 150 X 109/L [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
-
-Reduce the Jakafi dosage for patients with PV and moderate (CLcr 30 to 59 mL/min) or severe renal impairment (CLcr 15 to 29 mL/min) [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
-
-Reduce the Jakafi dosage for all patients with ESRD on dialysis [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Total exposure of ruxolitinib and its active metabolites increased with moderate (CLcr 30 mL/min to 59 mL/min) and severe (CLcr 15 mL/min to 29 mL/min) renal impairment, and ESRD on dialysis [see Clinical Pharmacology (12.3)].
+Reduce Jakafi dose as recommended [see Dosage and Administration (2.5)].
 
 ## 8.7 Hepatic Impairment
 
-Reduce the Jakafi dosage when administering Jakafi to patients with MF and any degree of hepatic impairment (Child-Pugh Class A, B and C) and with a platelet count between 50 X 109/L and 150 X 109/L [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Exposure of ruxolitinib increased with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment [see Clinical Pharmacology (12.3)].
+Reduce Jakafi dose as recommended in patients with MF or PV and any hepatic impairment [see Dosage and Administration (2.5)].
 
-Reduce the Jakafi dosage for patients with PV and hepatic impairment (Child-Pugh Class A, B and C) [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Monitor blood counts more frequently for toxicity and consider 5 mg once daily for patients with Stage 3 or 4 liver GVHD [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].

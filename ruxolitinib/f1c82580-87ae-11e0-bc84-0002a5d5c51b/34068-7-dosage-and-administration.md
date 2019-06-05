@@ -14,7 +14,7 @@ Table 1: Jakafi Starting Doses for Myelofibrosis
 | 100 X 109/L to 200 X 109/L | 15 mg orally twice daily |
 | 50 X 109/L to less than 100 X 109/L | 5 mg orally twice daily |
 
-### 2.1.1 Dose Modification Guidelines for Hematologic Toxicity for Patients with Myelofibrosis Starting Treatment with a Platelet Count of 100 X 109/L or Greater
+### Dose Modification Guidelines for Hematologic Toxicity for Patients with Myelofibrosis Starting Treatment with a Platelet Count of 100 X 109/L or Greater
 
 Treatment Interruption and Restarting Dosing
 
@@ -48,7 +48,7 @@ Table 3: Myelofibrosis: Dosing Recommendations for Thrombocytopenia for Patients
 | 50 to less than 75 X 109/L | 5 mg twice daily | 5 mg twice daily | 5 mg twice daily | 5 mg twice daily | No Change |
 | Less than 50 X 109/L | Hold | Hold | Hold | Hold | Hold |
 
-### 2.1.2 Dose Modification Based on Insufficient Response for Patients with Myelofibrosis Starting Treatment with a Platelet Count of 100 X 109/L or Greater
+### Dose Modification Based on Insufficient Response for Patients with Myelofibrosis Starting Treatment with a Platelet Count of 100 X 109/L or Greater
 
 If the response is insufficient and platelet and neutrophil counts are adequate, doses may be increased in 5 mg twice daily increments to a maximum of 25 mg twice daily.
 Doses should not be increased during the first 4 weeks of therapy and not more frequently than every 2 weeks.
@@ -62,10 +62,10 @@ Consider dose increases in patients who meet all of the following conditions:
 Based on limited clinical data, long-term maintenance at a 5 mg twice daily dose has not shown responses and continued use at this dose should be limited to patients in whom the benefits outweigh the potential risks.
 Discontinue Jakafi if there is no spleen size reduction or symptom improvement after 6 months of therapy.
 
-### 2.1.3 Dose Modifications for Hematologic Toxicity for Patients with Myelofibrosis Starting Treatment with Platelet Counts of 50 X 109/L to Less Than 100 X 109/L
+### Dose Modifications for Hematologic Toxicity for Patients with Myelofibrosis Starting Treatment with Platelet Counts of 50 X 109/L to Less Than 100 X 109/L
 
 This section applies only to patients with platelet counts of 50 X 109/L to less than 100 X 109/L prior to any treatment with Jakafi.
-See Section 2.1.1 for dose modifications for hematological toxicity in patients whose platelet counts were 100 X 109/L or more prior to starting treatment with Jakafi.
+See dose modifications in Section 2.1 (Dose Modification Guidelines for Hematological Toxicity for Patients with Myelofibrosis Starting Treatment with a Platelet Count of 100 X 109/L or Greater) for hematological toxicity in patients whose platelet counts were 100 X 109/L or more prior to starting treatment with Jakafi.
 
 Treatment Interruption and Restarting Dosing
 
@@ -86,11 +86,11 @@ Table 4: Myelofibrosis: Dosing Modifications for Thrombocytopenia for Patients w
 | 25 X 109/L to less than 35 X 109/L AND the platelet count decline is less than 20% during the prior four weeks | Decrease dose by 5 mg once daily.For patients on 5 mg once daily, maintain dose at 5 mg once daily. |
 | 25 X 109/L to less than 35 X 109/L AND the platelet count decline is 20% or greater during the prior four weeks | Decrease dose by 5 mg twice daily.For patients on 5 mg twice daily, decrease the dose to 5 mg once daily.For patients on 5 mg once daily, maintain dose at 5 mg once daily. |
 
-### 2.1.4 Dose Modifications Based on Insufficient Response for Patients with Myelofibrosis and Starting Platelet Count of 50 X 109/L to Less Than 100 X 109/L
+### Dose Modifications Based on Insufficient Response for Patients with Myelofibrosis and Starting Platelet Count of 50 X 109/L to Less Than 100 X 109/L
 
 Do not increase doses during the first 4 weeks of therapy, and do not increase the dose more frequently than every 2 weeks.
 
-If the response is insufficient as defined in Section 2.1.2, doses may be increased by increments of 5 mg daily to a maximum of 10 mg twice daily if:
+If the response is insufficient as defined in Section 2.1 (see Dose Modification Based on Insufficient Response with Myelofibrosis Starting Treatment with a platelet count of 100 X 109/L or Greater), doses may be increased by increments of 5 mg daily to a maximum of 10 mg twice daily if:
 
 1. the platelet count has remained at least 40 X 109/L, and
 2. the platelet count has not fallen by more than 20% in the prior 4 weeks, and
@@ -100,7 +100,7 @@ If the response is insufficient as defined in Section 2.1.2, doses may be increa
 Continuation of treatment for more than 6 months should be limited to patients in whom the benefits outweigh the potential risks.
 Discontinue Jakafi if there is no spleen size reduction or symptom improvement after 6 months of therapy.
 
-### 2.1.5 Dose Modification for Bleeding
+### Dose Modification for Bleeding
 
 Interrupt treatment for bleeding requiring intervention regardless of current platelet count.
 Once the bleeding event has resolved, consider resuming treatment at the prior dose if the underlying cause of bleeding has been controlled.
@@ -111,7 +111,7 @@ If the bleeding event has resolved but the underlying cause persists, consider r
 The recommended starting dose of Jakafi is 10 mg twice daily.
 Doses may be titrated based on safety and efficacy.
 
-### 2.2.1 Dose Modification Guidelines for Patients with Polycythemia Vera
+### Dose Modification Guidelines for Patients with Polycythemia Vera
 
 A complete blood count (CBC) and platelet count must be performed before initiating therapy, every 2 to 4 weeks until doses are stabilized, and then as clinically indicated [see Warnings and Precautions (5.1)].
 
@@ -154,7 +154,7 @@ Dose Management after Restarting Treatment
 After restarting Jakafi following treatment interruption, doses may be titrated, but the maximum total daily dose should not exceed 5 mg less than the dose that resulted in the dose interruption.
 An exception to this is dose interruption following phlebotomy-associated anemia, in which case the maximal total daily dose allowed after restarting Jakafi would not be limited.
 
-### 2.2.2 Dose Modifications Based on Insufficient Response for Patients with Polycythemia Vera
+### Dose Modifications Based on Insufficient Response for Patients with Polycythemia Vera
 
 If the response is insufficient and platelet, hemoglobin, and neutrophil counts are adequate, doses may be increased in 5 mg twice daily increments to a maximum of 25 mg twice daily.
 Doses should not be increased during the first 4 weeks of therapy and not more frequently than every two weeks.
@@ -170,15 +170,40 @@ Consider dose increases in patients who meet all of the following conditions:
 3. Hemoglobin greater than or equal to 12 g/dL
 4. ANC greater than or equal to 1.5 X 109/L
 
-## 2.3 Dose Modifications for Concomitant Use with Strong CYP3A4 Inhibitors or Fluconazole
+## 2.3 Acute Graft Versus Host Disease
 
-Modify the Jakafi dosage when coadministered with strong CYP3A4 inhibitors and fluconazole doses of less than or equal to 200 mg [see Drug Interactions (7)], according to Table 7.
+The recommended starting dose of Jakafi is 5 mg given orally twice daily.
+Consider increasing the dose to 10 mg twice daily after at least 3 days of treatment if the ANC and platelet counts are not decreased by 50% or more relative to the first day of dosing with Jakafi.
+
+Tapering of Jakafi may be considered after 6 months of treatment in patients with response who have discontinued therapeutic doses of corticosteroids.
+Taper Jakafi by one dose level approximately every 8 weeks (10 mg twice daily to 5 mg twice daily to 5 mg once daily).
+If acute GVHD signs or symptoms recur during or after the taper of Jakafi, consider retreatment.
+
+Dose Modification Guidelines for Patients with Acute Graft Versus Host Disease
+
+Evaluate blood parameters before and during treatment with Jakafi.
+Dose reductions should be considered for platelet counts, ANCs or bilirubin value as described in Table 7.
+Patients who are currently receiving Jakafi 10 mg twice daily may have their dose reduced to 5 mg twice daily; patients receiving 5 mg twice daily may have their dose reduced to 5 mg once daily.
+Patients who are unable to tolerate Jakafi at a dose of 5 mg once daily should have treatment interrupted until their clinical and/or laboratory parameters recover.
+
+Table 7: Dose Modifications for Patients with Acute GVHD
+
+| Laboratory Parameter | Dosing Recommendations |
+| --- | --- |
+| Clinically significant thrombocytopenia after supportive measures | Reduce dose by 1 dose level. When platelets recover to previous values, dosing may return to prior dose level. |
+| ANC less than 1 X 109/L considered related to Jakafi | Hold Jakafi for up to 14 days; resume at 1 dose level lower upon recovery. |
+| Total Bilirubin elevation, no liver GVHD | 3.0−5.0 × ULN: Continue Jakafi at 1 dose level lower until recovery. >5.0−10.0 × ULN: Hold Jakafi for up to 14 days until bilirubin ≤ 1.5 × ULN; resume at current dose upon recovery Total bilirubin > 10.0 × ULN: Hold Jakafi for up to 14 days until bilirubin ≤ 1.5 × ULN; resume at 1 dose level lower upon recovery. |
+| Total Bilirubin elevation, liver GVHD | >3.0 × ULN: Continue Jakafi at 1 dose level lower until recovery. |
+
+## 2.4 Dose Modifications for Concomitant Use with Strong CYP3A4 Inhibitors or Fluconazole
+
+Modify the Jakafi dosage when coadministered with strong CYP3A4 inhibitors and fluconazole doses of less than or equal to 200 mg [see Drug Interactions (7)], according to Table 8.
 
 Additional dose modifications should be made with frequent monitoring of safety and efficacy.
 
-Avoid the use of fluconazole doses of greater than 200 mg daily with Jakafi.
+Avoid the use of fluconazole doses of greater than 200 mg daily with Jakafi except in patients with acute GVHD.
 
-Table 7: Dose Modifications for Concomitant Use with Strong CYP3A4 Inhibitors or Fluconazole
+Table 8: Dose Modifications for Concomitant Use with Strong CYP3A4 Inhibitors or Fluconazole
 
 | For patients coadministered strong CYP3A4 inhibitors or fluconazole doses of less than or equal to 200 mg | Recommended Dose Modification |
 | --- | --- |
@@ -186,43 +211,53 @@ Table 7: Dose Modifications for Concomitant Use with Strong CYP3A4 Inhibitors or
 | Greater than or equal to 100 X 109/L | 10 mg twice daily |
 | 50 X 109/L to less than 100 X 109/L | 5 mg once daily |
 | Starting dose for patients with PV: | 5 mg twice daily |
-| If on stable dose for patients with MF and PV: |  |
+| If on stable dose for patients with MF or PV: |  |
 | Greater than or equal to 10 mg twice daily | Decrease dose by 50% (round up to the closest available tablet strength) |
 | 5 mg twice daily | 5 mg once daily |
 | 5 mg once daily | Avoid strong CYP3A4 inhibitor or fluconazole treatment or interrupt Jakafi treatment for the duration of strong CYP3A4 inhibitor or fluconazole use |
+| For patients with acute GVHD: |  |
+| Ketoconazole | 5 mg once daily |
+| Other CYP3A4 inhibitorsWith coadministration of itraconazole, monitor blood counts more frequently for toxicity and adjust the dose of Jakafi if necessary. | No dose adjustment |
 
-## 2.4 Dose Modifications for Organ Impairment
+## 2.5 Dose Modifications for Renal or Hepatic Impairment
 
 Renal Impairment
 
 Patients with Moderate or Severe Renal Impairment
 
-Modify the Jakafi dosage for patients with moderate or severe renal impairment according to Table 8.
-
-Table 8: Dose Modifications for Renal Impairment
-
-| Renal Impairment Status | Platelet Count | Recommended Starting Dosage |
-| --- | --- | --- |
-| Patients with MF Moderate (CLcr 30 to 59 mL/min) or Severe (CLcr 15 to 29 mL/min) | Greater than 150 X 109/L | No dose modification needed |
-| 100 X 109/L to 150 X 109/L | 10 mg twice daily |  |
-| 50 to less than 100 X 109/L | 5 mg daily |  |
-| Less than 50 X 109/L | Avoid use [see Use in Specific Populations (8.6)] |  |
-| Patients with PV Moderate (CLcr 30 to 59 mL/min) or Severe (CLcr 15 to 29 mL/min) | Any | 5 mg twice daily |
+Modify the Jakafi dosage for patients with moderate or severe renal impairment according to Table 9.
 
 Patients with End Stage Renal Disease on Dialysis
 
-The recommended starting dose for patients with MF with end stage renal disease (ESRD) on dialysis is 15 mg once after a dialysis session for patients with a platelet count between 100 X 109/L and 200 X 109/L or 20 mg once after a dialysis session for patients with a platelet count of greater than 200 X 109/L.
-
-The recommended starting dose for patients with PV with ESRD on dialysis is 10 mg.
-
+Modify the Jakafi dosage for patients with end stage renal disease (ESRD) on dialysis according to Table 9.
 Make additional dose modifications with frequent monitoring of safety and efficacy.
 Avoid use of Jakafi in patients with ESRD (CLcr less than 15 mL/min) not requiring dialysis [see Use in Specific Populations (8.6)].
 
+Table 9: Dose Modifications for Renal Impairment
+
+| Renal Impairment Status | Platelet Count | Recommended Starting Dosage |
+| --- | --- | --- |
+| Patients with MF |  |  |
+| Moderate (CLcr 30 to 59 mL/min) or Severe (CLcr 15 to 29 mL/min) | Greater than 150 X 109/L | No dose modification needed |
+| 100 to 150 X 109/L | 10 mg twice daily |  |
+| 50 to less than 100 X 109/L | 5 mg daily |  |
+| Less than 50 X 109/L | Avoid use [see Use in Specific Populations (8.6)] |  |
+| ESRD (CLcr less than 15 mL/min) on dialysis | 100 to 200 X 109/L | 15 mg once after dialysis session |
+| Greater than 200 X 109/L | 20 mg once after dialysis session |  |
+| Patients with PV |  |  |
+| Moderate (CLcr 30 to 59 mL/min) or Severe (CLcr 15 to 29 mL/min) | Any | 5 mg twice daily |
+| ESRD (CLcr less than 15 mL/min) on dialysis | Any | 10 mg once after dialysis session |
+| Patients with acute GVHD |  |  |
+| Moderate (CLcr 30 to 59 mL/min) or Severe (CLcr 15 to 29 mL/min) | Any | 5 mg once daily |
+| ESRD (CLcr less than 15 mL/min) on dialysis | Any | 5 mg once after dialysis session |
+
+ESRD = end stage renal disease, and CLcr = creatinine clearance
+
 Hepatic Impairment
 
-Modify the Jakafi dosage for patients with hepatic impairment according to Table 9.
+Modify the Jakafi dosage for patients with hepatic impairment according to Table 10.
 
-Table 9: Dose Modifications for Hepatic Impairment
+Table 10: Dose Modifications for Hepatic Impairment
 
 | Hepatic Impairment Status | Platelet Count | Recommended Starting Dosage |
 | --- | --- | --- |
@@ -231,8 +266,10 @@ Table 9: Dose Modifications for Hepatic Impairment
 | 50 to less than 100 X 109/L | 5 mg daily |  |
 | Less than 50 X 109/L | Avoid use [see Use in Specific Populations (8.7)] |  |
 | Patients with PV Mild, Moderate, or Severe (Child- Pugh Class A, B, C) | Any | 5 mg twice daily |
+| Patients with acute GVHD Mild, Moderate, or Severe based on NCI criteria | Any | No dose modification needed |
+| Stage 3 or 4 liver GVHD | Any | Monitor blood counts more frequently for toxicity and consider 5 mg once daily |
 
-## 2.5 Method of Administration
+## 2.6 Method of Administration
 
 Jakafi is dosed orally and can be administered with or without food.
 

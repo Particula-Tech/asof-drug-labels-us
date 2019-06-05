@@ -44,11 +44,11 @@ A secondary endpoint in Study 2 was the proportion of patients achieving a 35% o
 
 Study 1 and 2 Efficacy Results
 
-Efficacy analyses of the primary endpoint in Studies 1 and 2 are presented in Table 14 below.
+Efficacy analyses of the primary endpoint in Studies 1 and 2 are presented in Table 17 below.
 A significantly larger proportion of patients in the Jakafi group achieved a 35% or greater reduction in spleen volume from baseline in both studies compared to placebo in Study 1 and best available therapy in Study 2.
 A similar proportion of patients in the Jakafi group achieved a 50% or greater reduction in palpable spleen length.
 
-Table 14: Percent of Patients with Myelofibrosis Achieving 35% or Greater Reduction from Baseline in Spleen Volume at Week 24 in Study 1 and at Week 48 in Study 2 (Intent to Treat)
+Table 17: Percent of Patients with Myelofibrosis Achieving 35% or Greater Reduction from Baseline in Spleen Volume at Week 24 in Study 1 and at Week 48 in Study 2 (Intent to Treat)
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
@@ -65,11 +65,11 @@ The modified MFSAF is a daily diary capturing the core symptoms of MF (abdominal
 Symptom scores ranged from 0 to 10 with 0 representing symptoms "absent" and 10 representing "worst imaginable" symptoms.
 These scores were added to create the daily total score, which has a maximum of 60.
 
-Table 15 presents assessments of Total Symptom Score from baseline to Week 24 in Study 1 including the proportion of patients with at least a 50% reduction (ie, improvement in symptoms).
+Table 18 presents assessments of Total Symptom Score from baseline to Week 24 in Study 1 including the proportion of patients with at least a 50% reduction (ie, improvement in symptoms).
 At baseline, the mean Total Symptom Score was 18.0 in the Jakafi group and 16.5 in the placebo group.
 A higher proportion of patients in the Jakafi group had a 50% or greater reduction in Total Symptom Score than in the placebo group, with a median time to response of less than 4 weeks.
 
-Table 15: Improvement in Total Symptom Score in Patients with Myelofibrosis
+Table 18: Improvement in Total Symptom Score in Patients with Myelofibrosis
 
 |  | Jakafi (N=148) | Placebo (N=152) |
 | --- | --- | --- |
@@ -108,11 +108,11 @@ The primary endpoint was the proportion of subjects achieving a response at Week
 Phlebotomy eligibility was defined as a confirmed hematocrit greater than 45% that is at least 3 percentage points higher than the hematocrit obtained at baseline or a confirmed hematocrit greater than 48%, whichever was lower.
 Secondary endpoints included the proportion of all randomized subjects who achieved the primary endpoint and who maintained their response 48 weeks after randomization, and the proportion of subjects achieving complete hematological remission at Week 32 with complete hematological remission defined as achieving hematocrit control, platelet count less than or equal to 400 X 109/L, and white blood cell count less than or equal to 10 X 109/L.
 
-Results of the primary and secondary endpoints are presented in Table 16.
+Results of the primary and secondary endpoints are presented in Table 19.
 A significantly larger proportion of patients on the Jakafi arm achieved a response for the primary endpoint compared to best available therapy at Week 32 and maintained their response 48 weeks after randomization.
 A significantly larger proportion of patients on the Jakafi arm compared to best available therapy also achieved complete hematological remission at Week 32.
 
-Table 16: Percent of Patients with Polycythemia Vera Achieving the Primary and Key Secondary Endpoints in Study 3 (Intent to Treat)
+Table 19: Percent of Patients with Polycythemia Vera Achieving the Primary and Key Secondary Endpoints in Study 3 (Intent to Treat)
 
 |  | Jakafi (N=110) | Best Available Therapy (N=112) |  |  |
 | --- | --- | --- | --- | --- |
@@ -133,3 +133,27 @@ Of the 25 patients who achieved a primary response at Week 32, 19 (76% of the re
 
 In an assessment of the individual components that make up the primary endpoint, there were 66 (60%) patients with hematocrit control on the Jakafi arm vs. 21 (19%) patients on best available therapy at Week 32; 51 (77% of hematocrit responders) patients on the Jakafi arm maintained hematocrit control through Week 80.
 There were 44 (40%) patients with spleen volume reduction from baseline greater than or equal to 35% on the Jakafi arm vs. 1 (<1%) patient on best available therapy at Week 32; 43 (98% of spleen volume reduction responders) patients on the Jakafi arm maintained spleen volume reduction through Week 80.
+
+## 14.3 Acute Graft Versus Host Disease
+
+Study 4 (NCT02953678) was an open-label, single-arm, multicenter study of Jakafi for treatment of patients with steroid-refractory acute GVHD Grades 2 to 4 (Mount Sinai Acute GVHD International Consortium (MAGIC) criteria) occurring after allogeneic hematopoietic stem cell transplantation.
+Jakafi was administered at 5 mg twice daily, and the dose could be increased to 10 mg twice daily after 3 days in the absence of toxicity.
+
+There were 49 patients with acute GVHD refractory to steroids alone.
+These patients had a median age of 57 years (range, 18-72 years), 47% were male, 92% were Caucasian, and 14% were Hispanic.
+At baseline, acute GVHD was Grade 2 in 27%, Grade 3 in 55%, and Grade 4 in 18%; 84% had visceral GVHD; the median MAGIC biomarker score was 0.47 (range, 0.10‑0.92); and the median ST2 level was 334 mcg/L (range, 55-1286 mcg/L).
+The median duration of prior corticosteroid exposure at baseline was 15 days (range: 3 - 106 days).
+
+The efficacy of Jakafi was based on Day-28 overall response rate (ORR) (complete response, very good partial response or partial response by Center for International Blood and Marrow Transplant Research (CIBMTR) criteria) and the duration of response.
+The ORR results are presented in Table 20; Day-28 ORR was 100% for Grade 2 GVHD, 40.7% for Grade 3 GVHD, and 44.4% for Grade 4 GVHD.
+The median duration of response, calculated from Day-28 response to progression, new salvage therapy for acute GVHD or death from any cause (with progression being defined as worsening by one stage in any organ without improvement in other organs in comparison to prior response assessment) was 16 days (95% CI 9, 83).
+Also for the Day-28 responders, the median time from Day-28 response to either death or need for new therapy for acute GVHD (additional salvage therapy or increase in steroids) was 173 days (95% CI 66, NE).
+
+Table 20: Day-28 Overall Response Rate for Patients with Steroid-Refractory Acute GVHD in Study 4
+
+|  | Refractory to Steroids Alone (n=49) |
+| --- | --- |
+| Overall Response (%) (95% CI) | 28 (57.1%) (42.2, 71.2) |
+| Complete Response | 15 (30.6%) |
+| Very Good Partial Response | 2 (4.1%) |
+| Partial Response | 11 (22.4%) |
