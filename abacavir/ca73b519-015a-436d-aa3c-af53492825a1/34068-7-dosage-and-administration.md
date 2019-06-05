@@ -10,12 +10,12 @@ The recommended dosage of ZIAGEN for adults is 600 mg daily, administered orally
 
 ## 2.3 Recommended Dosage for Pediatric Patients
 
-The recommended dosage of ZIAGEN oral solution in HIV-1-infected pediatric patients aged 3 months and older is 8 mg per kg orally twice daily or 16 mg per kg orally once daily (up to a maximum of 600 mg daily) in combination with other antiretroviral agents.
+The recommended dosage of ZIAGEN oral solution in HIV-1–infected pediatric patients aged 3 months and older is 8 mg per kg orally twice daily or 16 mg per kg orally once daily (up to a maximum of 600 mg daily) in combination with other antiretroviral agents.
 
-ZIAGEN is also available as a scored tablet for HIV-1-infected pediatric patients weighing greater than or equal to 14 kg for whom a solid dosage form is appropriate.
+ZIAGEN is also available as a scored tablet for HIV-1–infected pediatric patients weighing greater than or equal to 14 kg for whom a solid dosage form is appropriate.
 Before prescribing ZIAGEN tablets, children should be assessed for the ability to swallow tablets.
 If a child is unable to reliably swallow ZIAGEN tablets, the oral solution formulation should be prescribed.
-The recommended oral dosage of ZIAGEN tablets for HIV-1-infected pediatric patients is presented in Table 1.
+The recommended oral dosage of ZIAGEN tablets for HIV-1–infected pediatric patients is presented in Table 1.
 
 Table 1.
 Dosing Recommendations for ZIAGEN Scored Tablets in Pediatric Patients

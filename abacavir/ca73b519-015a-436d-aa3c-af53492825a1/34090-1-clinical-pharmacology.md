@@ -53,14 +53,14 @@ Pediatric Patients: The pharmacokinetics of abacavir have been studied after eit
 Subjects receiving abacavir oral solution according to the recommended dosage regimen achieved plasma concentrations of abacavir similar to adults.
 Subjects receiving abacavir oral tablets achieved higher plasma concentrations of abacavir than subjects receiving oral solution.
 
-The pharmacokinetics of abacavir dosed once daily in HIV‑1-infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA 13 [n = 14], PENTA 15 [n = 18], and ARROW [n = 36]).
+The pharmacokinetics of abacavir dosed once daily in HIV‑1–infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA 13 [n = 14], PENTA 15 [n = 18], and ARROW [n = 36]).
 All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twice- versus once-daily dosing of abacavir and lamivudine.
 For the oral solution as well as the tablet formulation, these 3 trials demonstrated that once-daily dosing provides comparable AUC0-24 to twice-daily dosing of abacavir at the same total daily dose.
 The mean Cmax was approximately 1.6- to 2.3-fold higher with abacavir once-daily dosing compared with twice-daily dosing.
 
 Geriatric Patients: The pharmacokinetics of ZIAGEN have not been studied in subjects older than 65 years.
 
-Male and Female Patients: A population pharmacokinetic analysis in HIV-1-infected male (n = 304) and female (n = 67) subjects showed no gender differences in abacavir AUC normalized for lean body weight.
+Male and Female Patients: A population pharmacokinetic analysis in HIV-1–infected male (n = 304) and female (n = 67) subjects showed no gender differences in abacavir AUC normalized for lean body weight.
 
 Racial Groups: There are no significant or clinically relevant racial differences between blacks and whites in abacavir pharmacokinetics.
 
@@ -74,19 +74,19 @@ Based on in vitro study results, abacavir at therapeutic drug exposures is not e
 Effect of Other Agents on the Pharmacokinetics of Abacavir: In vitro, abacavir is not a substrate of OATP1B1, OAP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, multidrug resistance-associated protein (MRP)2 or MRP4; therefore, drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
 Abacavir is a substrate of BCRP and P-gp in vitro; however, considering its absolute bioavailability (83%), modulators of these transporters are unlikely to result in a clinically relevant impact on abacavir concentrations.
 
-Lamivudine and/or Zidovudine: Fifteen HIV-1-infected subjects were enrolled in a crossover-designed drug interaction trial evaluating single doses of abacavir (600 mg), lamivudine (150 mg), and zidovudine (300 mg) alone or in combination.
+Lamivudine and/or Zidovudine: Fifteen HIV-1–infected subjects were enrolled in a crossover-designed drug interaction trial evaluating single doses of abacavir (600 mg), lamivudine (150 mg), and zidovudine (300 mg) alone or in combination.
 Analysis showed no clinically relevant changes in the pharmacokinetics of abacavir with the addition of lamivudine or zidovudine or the combination of lamivudine and zidovudine.
 Lamivudine exposure (AUC decreased 15%) and zidovudine exposure (AUC increased 10%) did not show clinically relevant changes with concurrent abacavir.
 
 Ethanol: Abacavir has no effect on the pharmacokinetic properties of ethanol.
 Ethanol decreases the elimination of abacavir causing an increase in overall exposure.
-Due to the common metabolic pathways of abacavir and ethanol via alcohol dehydrogenase, the pharmacokinetic interaction between abacavir and ethanol was studied in 24 HIV‑1‑infected male subjects.
+Due to the common metabolic pathways of abacavir and ethanol via alcohol dehydrogenase, the pharmacokinetic interaction between abacavir and ethanol was studied in 24 HIV‑1–infected male subjects.
 Each subject received the following treatments on separate occasions: a single 600‑mg dose of abacavir, 0.7 g per kg ethanol (equivalent to 5 alcoholic drinks), and abacavir 600 mg plus 0.7 g per kg ethanol.
 Coadministration of ethanol and abacavir resulted in a 41% increase in abacavir AUC and a 26% increase in abacavir t½.
 Abacavir had no effect on the pharmacokinetic properties of ethanol, so no clinically significant interaction is expected in men.
 This interaction has not been studied in females.
 
-Methadone: In a trial of 11 HIV‑1‑infected subjects receiving methadone‑maintenance therapy (40 mg and 90 mg daily), with 600 mg of ZIAGEN twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%).
+Methadone: In a trial of 11 HIV‑1–infected subjects receiving methadone‑maintenance therapy (40 mg and 90 mg daily), with 600 mg of ZIAGEN twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%).
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients [see Drug Interactions (7)].
 The addition of methadone had no clinically significant effect on the pharmacokinetic properties of abacavir.
 

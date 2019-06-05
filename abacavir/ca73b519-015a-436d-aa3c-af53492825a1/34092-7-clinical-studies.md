@@ -4,7 +4,7 @@
 
 Therapy-Naive Adults
 
-CNA30024 was a multicenter, double-blind, controlled trial in which 649 HIV-1-infected, therapy-naive adults were randomized and received either ZIAGEN (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily); or zidovudine (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily).
+CNA30024 was a multicenter, double-blind, controlled trial in which 649 HIV-1–infected, therapy-naive adults were randomized and received either ZIAGEN (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily); or zidovudine (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily).
 The duration of double-blind treatment was at least 48 weeks.
 Trial participants were male (81%), white (51%), black (21%), and Hispanic (26%).
 The median age was 35 years; the median pretreatment CD4+ cell count was 264 cells per mm3, and median plasma HIV-1 RNA was 4.79 log10 copies per mL.
@@ -24,7 +24,7 @@ Outcomes of Randomized Treatment through Week 48 (CNA30024)
 After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 209 cells per mm3 in the group receiving ZIAGEN and 155 cells per mm3 in the zidovudine group.
 Through Week 48, 8 subjects (2%) in the group receiving ZIAGEN (5 CDC classification C events and 3 deaths) and 5 subjects (2%) on the zidovudine arm (3 CDC classification C events and 2 deaths) experienced clinical disease progression.
 
-CNA3005 was a multicenter, double-blind, controlled trial in which 562 HIV-1-infected, therapy-naive adults were randomized to receive either ZIAGEN (300 mg twice daily) plus COMBIVIR (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR twice daily.
+CNA3005 was a multicenter, double-blind, controlled trial in which 562 HIV-1–infected, therapy-naive adults were randomized to receive either ZIAGEN (300 mg twice daily) plus COMBIVIR (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR twice daily.
 The trial was stratified at randomization by pre-entry plasma HIV-1 RNA 10,000 to 100,000 copies per mL and plasma HIV-1 RNA greater than 100,000 copies per mL.
 Trial participants were male (87%), white (73%), black (15%), and Hispanic (9%).
 At baseline the median age was 36 years; the median baseline CD4+ cell count was 360 cells per mm3, and median baseline plasma HIV-1 RNA was 4.8 log10 copies per mL.
@@ -57,7 +57,7 @@ In subjects with baseline viral load greater than 100,000 copies per mL, percent
 Through Week 48, an overall mean increase in CD4+ cell count of about 150 cells per mm3 was observed in both treatment arms.
 Through Week 48, 9 subjects (3.4%) in the group receiving abacavir (6 CDC classification C events and 3 deaths) and 3 subjects (1.5%) in the group receiving indinavir (2 CDC classification C events and 1 death) experienced clinical disease progression.
 
-CNA30021 was an international, multicenter, double-blind, controlled trial in which 770 HIV-1-infected, therapy-naive adults were randomized and received either abacavir 600 mg once daily or abacavir 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily.
+CNA30021 was an international, multicenter, double-blind, controlled trial in which 770 HIV-1–infected, therapy-naive adults were randomized and received either abacavir 600 mg once daily or abacavir 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily.
 The double-blind treatment duration was at least 48 weeks.
 Trial participants had a mean age of 37 years; were male (81%), white (54%), black (27%), and American Hispanic (15%).
 The median baseline CD4+ cell count was 262 cells per mm3 (range: 21 to 918 cells per mm3) and the median baseline plasma HIV-1 RNA was 4.89 log10 copies per mL (range: 2.60 to 6.99 log10 copies per mL).

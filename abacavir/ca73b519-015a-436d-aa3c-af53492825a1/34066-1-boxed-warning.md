@@ -8,5 +8,5 @@ ZIAGEN is contraindicated in patients with a prior hypersensitivity reaction to 
 All patients should be screened for the HLA‑B*5701 allele prior to initiating therapy with ZIAGEN or reinitiation of therapy with ZIAGEN, unless patients have a previously documented HLA‑B*5701 allele assessment.
 Discontinue ZIAGEN immediately if a hypersensitivity reaction is suspected, regardless of HLA-B*5701 status and even when other diagnoses are possible [see Contraindications (4), Warnings and Precautions (5.1)].
 
-Following a hypersensitivity reaction to ZIAGEN, NEVER restart ZIAGEN or any other abacavir‑containing product because more severe symptoms, including death can occur within hours.
+Following a hypersensitivity reaction to ZIAGEN, NEVER restart ZIAGEN or any other abacavir-containing product because more severe symptoms, including death can occur within hours.
 Similar severe reactions have also occurred rarely following the reintroduction of abacavir-containing products in patients who have no history of abacavir hypersensitivity [see Warnings and Precautions (5.1)].

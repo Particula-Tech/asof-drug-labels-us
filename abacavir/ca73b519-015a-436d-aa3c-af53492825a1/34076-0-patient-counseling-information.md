@@ -6,7 +6,7 @@ Hypersensitivity Reactions
 
 Inform patients:
 
-- •that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of ZIAGEN, and instruct the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about ZIAGEN.
+- •that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of ZIAGEN and instruct the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about ZIAGEN.
   The complete text of the Medication Guide is reprinted at the end of this document.
 - •to carry the Warning Card with them.
 - •how to identify a hypersensitivity reaction [see Warnings and Precautions (5.1), Medication Guide].
@@ -62,6 +62,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 ViiV Healthcare group of companies or its licensor.
+©2019 ViiV Healthcare group of companies or its licensor.
 
-ZGN:12PI
+ZGN:13PI

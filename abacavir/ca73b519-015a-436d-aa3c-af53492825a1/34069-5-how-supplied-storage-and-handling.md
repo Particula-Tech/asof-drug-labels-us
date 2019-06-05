@@ -5,9 +5,6 @@ They are packaged as follows:
 
 Bottles of 60 tablets (NDC 49702-221-18).
 
-Unit dose blister packs of 60 tablets (NDC 49702-221-44).
-Each pack contains 6 blister cards of 10 tablets each.
-
 Store at controlled room temperature of 20° to 25°C (68° to 77°F) (see USP).
 
 ZIAGEN oral solution is a clear to opalescent, yellowish, strawberry-banana-flavored liquid, which may turn brown over time.
