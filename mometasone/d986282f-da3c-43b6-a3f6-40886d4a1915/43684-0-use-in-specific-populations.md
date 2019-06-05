@@ -7,7 +7,7 @@
 #### Pregnancy Category C:
 
 There are no adequate and well-controlled studies in pregnant women.
-Therefore, Mometasone Furoate Ointment USP, 0.1% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Therefore, Mometasone Furoate Ointment, 0.1% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
@@ -39,12 +39,13 @@ Similar effects were not observed at 7.5 mcg/kg.
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Mometasone Furoate Ointment USP, 0.1% is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Mometasone Furoate Ointment, 0.1% is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Mometasone Furoate Ointment USP, 0.1% may be used with caution in pediatric patients 2 years of age or older, although the safety and efficacy of drug use for longer than 3 weeks have not been established.
-Since safety and efficacy of Mometasone Furoate Ointment USP, 0.1% have not been established in pediatric patients below 2 years of age, its use in this age group is not recommended.
+Mometasone Furoate Ointment, 0.1% may be used with caution in pediatric patients 2 years of age or older, although the safety and efficacy of drug use for longer than 3 weeks have not been established.
+Since safety and efficacy of Mometasone Furoate Ointment, 0.1% have not been established in pediatric patients below 2 years of age, its use in this age group is not recommended.
+
 Mometasone furoate ointment, 0.1% caused HPA axis suppression in approximately 27% of pediatric subjects ages 6 to 23 months, who showed normal adrenal function by Cortrosyn test before starting treatment, and were treated for approximately 3 weeks over a mean body surface area of 39% (range 15%-99%).
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
 Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the subjects, demonstrated suppressed HPA axis function in 3 subjects, using these same criteria.
@@ -59,7 +60,7 @@ HPA axis suppression, Cushing’s syndrome, linear growth retardation, delayed w
 Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
-Mometasone Furoate Ointment USP, 0.1% should not be used in the treatment of diaper dermatitis.
+Mometasone Furoate Ointment, 0.1% should not be used in the treatment of diaper dermatitis.
 
 ## 8.5 Geriatric Use
 

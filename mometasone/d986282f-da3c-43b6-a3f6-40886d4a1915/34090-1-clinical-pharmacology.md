@@ -19,7 +19,6 @@ The results showed that the drug caused a slight lowering of adrenal corticoster
 Sixty-three pediatric subjects ages 6 to 23 months, with atopic dermatitis, were enrolled in an open-label HPA axis safety study.
 Mometasone furoate ointment, 0.1% was applied once daily for approximately 3 weeks over a mean body surface area of 39% (range 15%-99%).
 In approximately 27% of subjects who showed normal adrenal function by Cortrosyn test before starting treatment, adrenal suppression was observed at the end of treatment with mometasone furoate ointment, 0.1%.
-
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
 Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the subjects, demonstrated suppressed HPA axis function in 3 subjects, using these same criteria [see Use in Specific Populations (8.4)].
 

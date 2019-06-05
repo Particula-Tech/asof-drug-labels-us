@@ -2,7 +2,7 @@ Made in Israel
 
 Manufactured By Perrigo
 
-Yeruham 80500, Israel
+Yeruham, Israel
 
 Distributed By
 
@@ -10,6 +10,6 @@ Perrigo®
 
 Allegan, MI 49010 • www.perrigo.com
 
-Rev 01-14
+Rev 12-18
 
-:1M600 RC J4
+1M600 RC J5
