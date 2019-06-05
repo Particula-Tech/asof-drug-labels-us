@@ -8,7 +8,7 @@ Dysport®
 
 for Injection For intramuscular use
 
-500 units/vial
+500 units/single-dose vial
 
 WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
 
@@ -24,7 +24,7 @@ Dysport®
 
 for Injection For intramuscular use
 
-300 units/vial
+300 units/single-dose vial
 
 WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
 
