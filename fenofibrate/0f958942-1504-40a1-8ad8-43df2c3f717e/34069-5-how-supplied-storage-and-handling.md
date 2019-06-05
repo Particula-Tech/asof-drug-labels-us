@@ -16,7 +16,7 @@ NDC 0378-3066-77 bottles of 90 tablets
 
 NDC 0378-3066-05 bottles of 500 tablets
 
-Store at 20° to 25°C (68° to 77°F).
+Storage: Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Keep out of the reach of children.
 Protect from moisture.

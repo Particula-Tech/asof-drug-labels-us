@@ -35,7 +35,7 @@ In patients with hypertriglyceridemia and normal cholesterolemia with or without
 Treatment of patients with elevated triglycerides often results in an increase of LDL-C (see Table 5).
 
 Table 5.
-Effects of Fenofibrate Tablets in Patients with Hypertriglyceridemia
+Effects of Fenofibrate Tablets in Patients with Severe Hypertriglyceridemia
 
 | Study 1 | Placebo |  |  |  | Fenofibrate Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
