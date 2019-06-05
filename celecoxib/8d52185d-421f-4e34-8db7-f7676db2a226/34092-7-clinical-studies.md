@@ -5,7 +5,7 @@
 CELEBREX has demonstrated significant reduction in joint pain compared to placebo.
 CELEBREX was evaluated for treatment of the signs and the symptoms of OA of the knee and hip in placebo- and active-controlled clinical trials of up to 12 weeks duration.
 In patients with OA, treatment with CELEBREX 100 mg twice daily or 200 mg once daily resulted in improvement in WOMAC (Western Ontario and McMaster Universities) osteoarthritis index, a composite of pain, stiffness, and functional measures in OA.
-In three 12-week studies of pain accompanying OA flare, CELEBREX doses of 100 mg twice daily and 200 mg twice daily provided significant reduction of pain within 24–48 hours of initiation of dosing.
+In three 12-week studies of pain accompanying OA flare, CELEBREX doses of 100 mg twice daily and 200 mg twice daily provided significant reduction of pain within 24 to 48 hours of initiation of dosing.
 At doses of 100 mg twice daily or 200 mg twice daily the effectiveness of CELEBREX was shown to be similar to that of naproxen 500 mg twice daily.
 Doses of 200 mg twice daily provided no additional benefit above that seen with 100 mg twice daily.
 A total daily dose of 200 mg has been shown to be equally effective whether administered as 100 mg twice daily or 200 mg once daily.
@@ -18,7 +18,7 @@ CELEBREX was shown to be superior to placebo in these studies, using the ACR20 R
 CELEBREX doses of 100 mg twice daily and 200 mg twice daily were similar in effectiveness and both were comparable to naproxen 500 mg twice daily.
 
 Although CELEBREX 100 mg twice daily and 200 mg twice daily provided similar overall effectiveness, some patients derived additional benefit from the 200 mg twice daily dose.
-Doses of 400 mg twice daily provided no additional benefit above that seen with 100-200 mg twice daily.
+Doses of 400 mg twice daily provided no additional benefit above that seen with 100 mg to 200 mg twice daily.
 
 ## 14.3 Juvenile Rheumatoid Arthritis (NCT00652925)
 
@@ -27,14 +27,14 @@ The response rates were based upon the JRA Definition of Improvement greater tha
 The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg twice daily, celecoxib 6 mg/kg twice daily, and naproxen 7.5 mg/kg twice daily treatment groups, respectively.
 
 The efficacy and safety of CELEBREX for JRA have not been studied beyond six months.
-The long-term cardiovascular toxicity in children exposed to CELEBREX has not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to CELEBREX or other COX-2 selective and non-selective NSAIDs [(see Boxed Warning, Warnings and Precautions (5.12)].
+The long-term cardiovascular toxicity in children exposed to CELEBREX has not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to CELEBREX or other COX-2 selective and non-selective NSAIDs [see Boxed Warning, Warnings and Precautions (5.12)].
 
 ## 14.4 Ankylosing Spondylitis
 
 CELEBREX was evaluated in AS patients in two placebo- and active-controlled clinical trials of 6 and 12 weeks duration.
 CELEBREX at doses of 100 mg twice daily, 200 mg once daily and 400 mg once daily was shown to be statistically superior to placebo in these studies for all three co-primary efficacy measures assessing global pain intensity (Visual Analogue Scale), global disease activity (Visual Analogue Scale) and functional impairment (Bath Ankylosing Spondylitis Functional Index).
 In the 12-week study, there was no difference in the extent of improvement between the 200 mg and 400 mg CELEBREX doses in a comparison of mean change from baseline, but there was a greater percentage of patients who responded to CELEBREX 400 mg, 53%, than to CELEBREX 200 mg, 44%, using the Assessment in Ankylosing Spondylitis response criteria (ASAS 20).
-The ASAS 20 defines a responder as improvement from baseline of at least 20% and an absolute improvement of at least 10 mm, on a 0 to 100 mm scale, in at least three of the four following domains: patient global pain, Bath Ankylosing Spondylitis Functional Index, and inflammation.
+The ASAS 20 defines a responder as improvement from baseline of at least 20% and an absolute improvement of at least 10 mm, on a 0 mm to 100 mm scale, in at least three of the four following domains: patient global pain, Bath Ankylosing Spondylitis Functional Index, and inflammation.
 The responder analysis also demonstrated no change in the responder rates beyond 6 weeks.
 
 ## 14.5 Analgesia, including Primary Dysmenorrhea
@@ -70,7 +70,7 @@ The trial had two prespecified analysis populations:
 - Intent-to-treat population (ITT): Comprised of all randomized subjects followed for a maximum of 30 months
 - Modified Intent-to-treat population (mITT): Comprised of all randomized subjects who received at least one dose of study medication and had at least one post-baseline visit followed until the earlier of treatment discontinuation plus 30 days, or 43 months
 
-Celecoxib, at the 100 mg twice daily dose, as compared with either naproxen or ibuprofen at the doses taken, met all four prespecified non-inferiority criteria (p<0.001 for non-inferiority in both comparisons) for the APTC endpoint, a composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke (See Table 5).
+Celecoxib, at the 100 mg twice daily dose, as compared with either naproxen or ibuprofen at the doses taken, met all four prespecified non-inferiority criteria (p<0.001 for non-inferiority in both comparisons) for the APTC endpoint, a composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke [see Table 5].
 Non-inferiority was prespecified as a hazard ratio (HR) of ≤1.12 in both ITT and mITT analyses, and upper 95% CI of ≤1.33 for ITT analysis and ≤1.40 for mITT analysis.
 
 The primary analysis results for ITT and mITT are described in Table 5.
@@ -184,7 +184,7 @@ However, CELEBREX was not statistically different than diclofenac for clinically
 
 The incidence of endoscopic ulcers was studied in two 12-week, placebo-controlled studies in 2157 OA and RA patients in whom baseline endoscopies revealed no ulcers.
 There was no dose relationship for the incidence of gastroduodenal ulcers and the dose of CELEBREX (50 mg to 400 mg twice daily).
-The incidence for naproxen 500 mg twice daily was 16.2 and 17.6% in the two studies, for placebo was 2.0 and 2.3%, and for all doses of CELEBREX the incidence ranged between 2.7%–5.9%.
+The incidence for naproxen 500 mg twice daily was 16.2% and 17.6% in the two studies, for placebo was 2.0% and 2.3%, and for all doses of CELEBREX the incidence ranged between 2.7%–5.9%.
 There have been no large, clinical outcome studies to compare clinically relevant GI outcomes with CELEBREX and naproxen.
 
 In the endoscopic studies, approximately 11% of patients were taking aspirin (≤ 325 mg/day).

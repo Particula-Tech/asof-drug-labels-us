@@ -11,14 +11,14 @@ Avoid use of NSAIDs, including CELEBREX, in pregnant women starting at 30 weeks 
 
 There are no adequate and well-controlled studies of CELEBREX in pregnant women.
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose of 200 mg twice daily.
+In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose (MRHD) of 200 mg twice daily.
 In addition, structural abnormalities (e.g., septal defects, ribs fused, sternebrae fused and sternebrae misshapen) were observed in rabbits given daily oral doses of celecoxib during the period of organogenesis at approximately 2 times the MRHD [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as celecoxib, resulted in increased pre- and post-implantation loss.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2–4% for major malformations, and 15–20% for pregnancy loss.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2% to 4% for major malformations, and 15% to 20% for pregnancy loss.
 
 Clinical Considerations
 
@@ -47,7 +47,7 @@ The effects of CELEBREX on labor and delivery in pregnant women are unknown.
 Risk Summary
 
 Limited data from 3 published reports that included a total of 12 breastfeeding women showed low levels of CELEBREX in breast milk.
-The calculated average daily infant dose was 10–40 mcg/kg/day, less than 1% of the weight-based therapeutic dose for a two-year old-child.
+The calculated average daily infant dose was 10 to 40 mcg/kg/day, less than 1% of the weight-based therapeutic dose for a two-year old-child.
 A report of two breastfed infants 17 and 22 months of age did not show any adverse events.
 Caution should be exercised when CELEBREX is administered to a nursing woman.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CELEBREX and any potential adverse effects on the breastfed infant from the CELEBREX or from the underlying maternal condition.
@@ -67,7 +67,7 @@ Consider withdrawal of NSAIDs, including CELEBREX, in women who have difficultie
 
 CELEBREX is approved for relief of the signs and symptoms of Juvenile Rheumatoid Arthritis in patients 2 years and older.
 Safety and efficacy have not been studied beyond six months in children.
-The long-term cardiovascular toxicity in children exposed to CELEBREX has not been evaluated and it is unknown if long-term risks may be similar to that seen in adults exposed to CELEBREX or other COX-2 selective and non-selective NSAIDs [(see Boxed Warning, Warnings and Precautions (5.12), and Clinical Studies (14.3)].
+The long-term cardiovascular toxicity in children exposed to CELEBREX has not been evaluated and it is unknown if long-term risks may be similar to that seen in adults exposed to CELEBREX or other COX-2 selective and non-selective NSAIDs [see Boxed Warning, Warnings and Precautions (5.12), and Clinical Studies (14.3)].
 
 The use of celecoxib in patients 2 years to 17 years of age with pauciarticular, polyarticular course JRA or in patients with systemic onset JRA was studied in a 12-week, double-blind, active controlled, pharmacokinetic, safety and efficacy study, with a 12-week open-label extension.
 Celecoxib has not been studied in patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), and in patients with active systemic features.
@@ -100,5 +100,4 @@ CELEBREX is not recommended in patients with severe renal insufficiency [see War
 ## 8.8 Poor Metabolizers of CYP2C9 Substrates
 
 In patients who are known or suspected to be poor CYP2C9 metabolizers (i.e., CYP2C9*3/*3), based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) administer CELEBREX starting with half the lowest recommended dose.
-Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers.
-[see Dosage and Administration (2.6) and Clinical Pharmacology (12.5)].
+Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.5)].

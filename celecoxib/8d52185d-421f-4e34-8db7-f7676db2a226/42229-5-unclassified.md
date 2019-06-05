@@ -1,1 +1,4 @@
-LAB-0036-18.0 Issued: June 2018
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+LAB-0036-19.0

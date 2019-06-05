@@ -52,7 +52,7 @@ Table 1: Adverse Events Occurring in ≥2% of CELEBREX Patients from Pre-marketi
 | Upper Respiratory Infection | 8.1% | 6.7% | 9.9% | 9.8% | 9.9% |
 | Skin |  |  |  |  |  |
 | Rash | 2.2% | 2.1% | 2.1% | 1.3% | 1.2% |
-| CBX = CELEBREX 100 – 200 mg twice daily or 200 mg once daily; NAP = Naproxen 500 mg twice daily; |  |  |  |  |  |
+| CBX = CELEBREX 100 mg to 200 mg twice daily or 200 mg once daily; NAP = Naproxen 500 mg twice daily; |  |  |  |  |  |
 | DCF = Diclofenac 75 mg twice daily; |  |  |  |  |  |
 | IBU = Ibuprofen 800 mg three times daily. |  |  |  |  |  |
 
@@ -60,7 +60,7 @@ In placebo- or active-controlled clinical trials, the discontinuation rate due t
 Among the most common reasons for discontinuation due to adverse events in the CELEBREX treatment groups were dyspepsia and abdominal pain (cited as reasons for discontinuation in 0.8% and 0.7% of CELEBREX patients, respectively).
 Among patients receiving placebo, 0.6% discontinued due to dyspepsia and 0.6% withdrew due to abdominal pain.
 
-The following adverse reactions occurred in 0.1 – 1.9% of patients treated with CELEBREX (100 – 200 mg twice daily or 200 mg once daily):
+The following adverse reactions occurred in 0.1% to 1.9% of patients treated with CELEBREX (100 mg to 200 mg twice daily or 200 mg once daily):
 
 Gastrointestinal: Constipation, diverticulitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, gastroesophageal reflux, hemorrhoids, hiatal hernia, melena, dry mouth, stomatitis, tenesmus, vomiting
 
@@ -68,7 +68,7 @@ Cardiovascular: Aggravated hypertension, angina pectoris, coronary artery disord
 
 General: Hypersensitivity, allergic reaction, chest pain, cyst NOS, edema generalized, face edema, fatigue, fever, hot flushes, influenza-like symptoms, pain, peripheral pain
 
-Central, peripheral Nervous system: Leg cramps, hypertonia, hypoesthesia, migraine, paresthesia, vertigo
+Central, peripheral nervous system: Leg cramps, hypertonia, hypoesthesia, migraine, paresthesia, vertigo
 
 Hearing and vestibular: Deafness, tinnitus
 
@@ -76,7 +76,7 @@ Heart rate and rhythm: Palpitation, tachycardia
 
 Liver and biliary: Hepatic enzyme increased (including SGOT increased, SGPT increased)
 
-Metabolic and nutritional: BUN increased, CPK increased, hypercholesterolemia, hyperglycemia, hypokalemia, NPN increased, creatinine increased, alkaline phosphatase increased, weight increased
+Metabolic and nutritional: blood urea nitrogen (BUN) increased, creatine phosphokinase (CPK) increased, hypercholesterolemia, hyperglycemia, hypokalemia, NPN increased, creatinine increased, alkaline phosphatase increased, weight increased
 
 Musculoskeletal: Arthralgia, arthrosis, myalgia, synovitis, tendinitis
 
@@ -171,7 +171,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to CELEBREX in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
+Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to CELEBREX in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from CELEBREX pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with CELEBREX were greater as compared to the arthritis pre-marketing trials were as follows:
@@ -202,7 +202,7 @@ Reproductive system and breast disorders: Ovarian cyst
 
 Investigations: Blood potassium increased, blood sodium increased, blood testosterone decreased
 
-Injury, poisoning and procedural complications: Epicondylitis, tendon rupture
+Injury, poisoning, and procedural complications: Epicondylitis, tendon rupture
 
 ## 6.2 Postmarketing Experience
 
