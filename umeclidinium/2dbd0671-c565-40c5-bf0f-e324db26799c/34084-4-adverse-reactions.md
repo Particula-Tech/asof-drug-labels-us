@@ -1,11 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-LABA, such as vilanterol, one of the active ingredients in ANORO ELLIPTA, increase the risk of asthma-related death.
-ANORO ELLIPTA is not indicated for the treatment of asthma.
-[See Boxed Warning and Warnings and Precautions (5.1).]
-
 The following adverse reactions are described in greater detail in other sections:
 
+- •Serious asthma-related events–hospitalizations, intubations, death.
+  LABA, such as vilanterol (one of the active ingredients in ANORO ELLIPTA), as monotherapy (without ICS) for asthma increase the risk of asthma-related events.
+  ANORO ELLIPTA is not indicated for the treatment of asthma [see Warnings and Precautions (5.1)].
 - •Paradoxical bronchospasm [see Warnings and Precautions (5.5)]
 - •Cardiovascular effects [see Warnings and Precautions (5.7)]
 - •Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.9)]
@@ -29,7 +28,7 @@ At screening, the mean postbronchodilator percent predicted forced expiratory vo
 
 Subjects received 1 dose once daily of the following: ANORO ELLIPTA, umeclidinium/vilanterol 125 mcg/25 mcg, umeclidinium 62.5 mcg, umeclidinium 125 mcg, vilanterol 25 mcg, active control, or placebo.
 
-Table 1.
+Table.
 Adverse Reactions with ANORO ELLIPTA with ≥1% Incidence and More Common than Placebo in Subjects with Chronic Obstructive Pulmonary Disease
 
 | Adverse Reaction | ANORO ELLIPTA(n = 842)% | Umeclidinium62.5 mcg(n = 418)% | Vilanterol25 mcg(n = 1,034)% | Placebo(n = 555)% |
@@ -48,13 +47,13 @@ Adverse Reactions with ANORO ELLIPTA with ≥1% Incidence and More Common than P
 | General disorders and administration site conditions |  |  |  |  |
 | Chest pain | 1 | <1 | <1 | <1 |
 
-Other adverse reactions with ANORO ELLIPTA observed with an incidence less than 1% but more common than placebo included the following: productive cough, dry mouth, dyspepsia, abdominal pain, gastroesophageal reflux disease, vomiting, musculoskeletal chest pain, chest discomfort, asthenia, atrial fibrillation, ventricular extrasystoles, supraventricular extrasystoles, myocardial infarction, pruritus, rash, and conjunctivitis.
+Other adverse reactions with ANORO ELLIPTA observed with an incidence <1% but more common than placebo included the following: productive cough, dry mouth, dyspepsia, abdominal pain, gastroesophageal reflux disease, vomiting, musculoskeletal chest pain, chest discomfort, asthenia, atrial fibrillation, ventricular extrasystoles, supraventricular extrasystoles, myocardial infarction, pruritus, rash, and conjunctivitis.
 
 12-Month Trial
 
 In a long-term safety trial, 335 subjects were treated for up to 12 months with umeclidinium/vilanterol 125 mcg/25 mcg or placebo.
 The demographic and baseline characteristics of the long-term safety trial were similar to those of the placebo-controlled efficacy trials described above.
-Adverse reactions that occurred with a frequency of greater than or equal to 1% in the group receiving umeclidinium/vilanterol 125 mcg/25 mcg that exceeded that in placebo in this trial were: headache, back pain, sinusitis, cough, urinary tract infection, arthralgia, nausea, vertigo, abdominal pain, pleuritic pain, viral respiratory tract infection, toothache, and diabetes mellitus.
+Adverse reactions that occurred with a frequency of ≥1% in the group receiving umeclidinium/vilanterol 125 mcg/25 mcg that exceeded that in placebo in this trial were: headache, back pain, sinusitis, cough, urinary tract infection, arthralgia, nausea, vertigo, abdominal pain, pleuritic pain, viral respiratory tract infection, toothache, and diabetes mellitus.
 
 ## 6.2 Postmarketing Experience
 

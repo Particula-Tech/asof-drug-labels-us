@@ -1,16 +1,21 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Death
+## 5.1 Serious Asthma-Related Events—Hospitalizations, Intubations, Death
 
-Data from a large placebo-controlled trial in subjects with asthma showed that LABA may increase the risk of asthma-related death.
-Data are not available to determine whether the rate of death in patients with COPD is increased by LABA.
+The safety and efficacy of ANORO ELLIPTA in patients with asthma have not been established.
+ANORO ELLIPTA is not indicated for the treatment of asthma [see Contraindications (4)].
+
+Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death.
+Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+These findings are considered a class effect of LABA monotherapy.
+When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
 
 A 28-week, placebo-controlled, US trial comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
 The increased risk of asthma-related death is considered a class effect of LABA, including vilanterol, one of the active ingredients in ANORO ELLIPTA.
 
 No trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with ANORO ELLIPTA has been conducted.
-The safety and efficacy of ANORO ELLIPTA in patients with asthma have not been established.
-ANORO ELLIPTA is not indicated for the treatment of asthma.
+
+Available data do not suggest an increased risk of death with use of LABA in patients with COPD.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -39,7 +44,7 @@ Patients using ANORO ELLIPTA should not use another medicine containing a LABA (
 
 ## 5.4 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of ANORO ELLIPTA with long-term ketoconazole and other known strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Caution should be exercised when considering the coadministration of ANORO ELLIPTA with ketoconazole and other known strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 5.5 Paradoxical Bronchospasm
 
@@ -50,7 +55,7 @@ If paradoxical bronchospasm occurs following dosing with ANORO ELLIPTA, it shoul
 
 Hypersensitivity reactions such as anaphylaxis, angioedema, rash, and urticaria may occur after administration of ANORO ELLIPTA.
 Discontinue ANORO ELLIPTA if such reactions occur.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use ANORO ELLIPTA [see Contraindications (4)].
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use ANORO ELLIPTA [see Contraindications (4)].
 
 ## 5.7 Cardiovascular Effects
 
@@ -69,14 +74,14 @@ Doses of the related beta2-adrenoceptor agonist albuterol, when administered int
 ## 5.9 Worsening of Narrow-Angle Glaucoma
 
 ANORO ELLIPTA should be used with caution in patients with narrow-angle glaucoma.
-Prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Prescribers and patients should also be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
 ## 5.10 Worsening of Urinary Retention
 
 ANORO ELLIPTA should be used with caution in patients with urinary retention.
 Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction.
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
 ## 5.11 Hypokalemia and Hyperglycemia
 

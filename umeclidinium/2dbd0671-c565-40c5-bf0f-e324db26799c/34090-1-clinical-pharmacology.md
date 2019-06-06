@@ -10,7 +10,7 @@ These drugs represent 2 different classes of medications (an anticholinergic and
 
 Umeclidinium
 
-Umeclidinium is a long-acting antimuscarinic agent, which is often referred to as an anticholinergic.
+Umeclidinium is a long-acting muscarinic antagonist, which is often referred to as an anticholinergic.
 It has similar affinity to the subtypes of muscarinic receptors M1 to M5.
 In the airways, it exhibits pharmacological effects through inhibition of M3 receptor at the smooth muscle leading to bronchodilation.
 The competitive and reversible nature of antagonism was shown with human and animal origin receptors and isolated organ preparations.
@@ -76,15 +76,15 @@ Vilanterol is metabolized to a range of metabolites with significantly reduced Î
 
 Elimination
 
-Umeclidinium: Following intravenous dosing with radiolabeled umeclidinium, mass balance showed 58% of the radiolabel in the feces and 22% in the urine.
+Umeclidinium: The effective half-life after once-daily dosing is 11 hours.
+Following intravenous dosing with radiolabeled umeclidinium, mass balance showed 58% of the radiolabel in the feces and 22% in the urine.
 The excretion of the drug-related material in the feces following intravenous dosing indicated elimination in the bile.
-Following oral dosing to healthy male subjects, radiolabel recovered in feces was 92% of the total dose and that in urine was less than 1% of the total dose, suggesting negligible oral absorption.
-The effective half-life after once-daily dosing is 11 hours.
+Following oral dosing to healthy male subjects, radiolabel recovered in feces was 92% of the total dose and that in urine was <1% of the total dose, suggesting negligible oral absorption.
 
-Vilanterol: Following oral administration of radiolabeled vilanterol, mass balance showed 70% of the radiolabel in the urine and 30% in the feces.
-The effective half-life for vilanterol, as determined from inhalation administration of multiple doses, is 11 hours.
+Vilanterol: The effective half-life for vilanterol, as determined from inhalation administration of multiple doses, is 11 hours.
+Following oral administration of radiolabeled vilanterol, mass balance showed 70% of the radiolabel in the urine and 30% in the feces.
 
-Special Populations
+Specific Populations
 
 The effects of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of umeclidinium and vilanterol are shown in Figure 1.
 Population pharmacokinetic analysis showed no evidence of a clinically significant effect of age (40 to 93 years) (Figure 1), gender (69% male) (Figure 1), inhaled corticosteroid use (48%), or weight (34 to 161 kg) on systemic exposure of either umeclidinium or vilanterol.
@@ -93,16 +93,16 @@ In addition, there was no evidence of a clinically significant effect of race.
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Umeclidinium (UMEC) and Vilanterol (VI)
 
-Hepatic Impairment: The impact of hepatic impairment on the pharmacokinetics of ANORO ELLIPTA has been evaluated in subjects with moderate hepatic impairment (Child-Pugh score of 7-9).
+Patients with Hepatic Impairment: The impact of hepatic impairment on the pharmacokinetics of ANORO ELLIPTA has been evaluated in subjects with moderate hepatic impairment (Child-Pugh score of 7-9).
 There was no evidence of an increase in systemic exposure to either umeclidinium or vilanterol (Cmax and AUC) (Figure 1).
 There was no evidence of altered protein binding in subjects with moderate hepatic impairment compared with healthy subjects.
 ANORO ELLIPTA has not been evaluated in subjects with severe hepatic impairment.
 
-Renal Impairment: The pharmacokinetics of ANORO ELLIPTA has been evaluated in subjects with severe renal impairment (creatinine clearance less than 30 mL/min).
+Patients with Renal Impairment: The pharmacokinetics of ANORO ELLIPTA has been evaluated in subjects with severe renal impairment (creatinine clearance <30 mL/min).
 Umeclidinium systemic exposure was not increased and vilanterol systemic exposure (AUC(0-24)) was 56% higher in subjects with severe renal impairment compared with healthy subjects (Figure 1).
 There was no evidence of altered protein binding in subjects with severe renal impairment compared with healthy subjects.
 
-Drug Interactions
+Drug Interaction Studies
 
 When umeclidinium and vilanterol were administered in combination by the inhaled route, the pharmacokinetic parameters for each component were similar to those observed when each active substance was administered separately.
 

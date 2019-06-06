@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Asthma-Related Death
+Serious Asthma-Related Events
 
-Inform patients that LABA, such as vilanterol, one of the active ingredients in ANORO ELLIPTA, increase the risk of asthma-related death.
 ANORO ELLIPTA is not indicated for the treatment of asthma.
+Inform patients that LABA, such as vilanterol (one of the active ingredients in ANORO ELLIPTA), when used alone (without ICS) for asthma increase the risk of asthma-related hospitalization or asthma-related death.
 
 Not for Acute Symptoms
 
@@ -40,14 +40,14 @@ Inform patients of adverse effects associated with beta2-agonists, such as palpi
 Worsening of Narrow-Angle Glaucoma
 
 Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
 Worsening of Urinary Retention
 
 Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
-ANORO and ELLIPTA are registered trademarks of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 ANORO ELLIPTA was developed in collaboration with Innoviva.
 
@@ -55,7 +55,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the GSK group of companies.
-All rights reserved.
+©2019 GSK group of companies or its licensor.
 
-ANR:5PI
+ANR:6PI

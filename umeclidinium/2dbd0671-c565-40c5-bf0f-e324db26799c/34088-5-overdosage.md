@@ -10,7 +10,7 @@ Cardiac monitoring is recommended in cases of overdosage.
 ## 10.1 Umeclidinium
 
 High doses of umeclidinium may lead to anticholinergic signs and symptoms.
-However, there were no systemic anticholinergic adverse effects following a once-daily inhaled dose of up to 1,000 mcg umeclidinium (16 times the maximum recommended daily dose) for 14 days in subjects with COPD.
+However, there were no systemic anticholinergic adverse effects following a once-daily inhaled dose of up to 1,000 mcg of umeclidinium (16 times the maximum recommended daily dose) for 14 days in subjects with COPD.
 
 ## 10.2 Vilanterol
 

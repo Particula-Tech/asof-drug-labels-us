@@ -63,5 +63,5 @@ Studies in subjects with severe hepatic impairment have not been performed [see 
 
 ## 8.7 Renal Impairment
 
-There were no significant increases in either umeclidinium or vilanterol exposure in subjects with severe renal impairment (CrCl less than 30 mL/min) compared with healthy subjects.
+There were no significant increases in either umeclidinium or vilanterol exposure in subjects with severe renal impairment (CrCl <30 mL/min) compared with healthy subjects.
 No dosage adjustment is required in patients with renal impairment [see Clinical Pharmacology (12.3)].
