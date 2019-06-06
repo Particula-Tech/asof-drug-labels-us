@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
 
-Asthma-Related Death: Inform patients that LABAs, such as formoterol fumarate, one of the active ingredients in BEVESPI AEROSPHERE, increase the risk of asthma-related death.
+Serious Asthma-Related Events: Inform patients that LABAs, such as formoterol fumarate, one of the active ingredients in BEVESPI AEROSPHERE, when used alone (without an inhaled corticosteroid), increase the risk of serious asthma-related events, including asthma-related death.
 BEVESPI AEROSPHERE is not indicated for the treatment of asthma.
 
 Not for Acute Symptoms: Inform patients that BEVESPI AEROSPHERE is not meant to relieve acute symptoms of COPD and extra doses should not be used for that purpose.
@@ -13,7 +13,8 @@ Instruct patients to seek medical attention immediately if they experience any o
 
 - •Symptoms get worse
 - •Need for more inhalations than usual of their rescue inhaler
-- Patients should not stop therapy with BEVESPI AEROSPHERE without physician/provider guidance since symptoms may recur after discontinuation.
+
+Patients should not stop therapy with BEVESPI AEROSPHERE without physician/provider guidance since symptoms may recur after discontinuation.
 
 Do Not Use Additional Long-Acting Beta2-Agonists: Instruct patients to not use other medicines containing a LABA.
 Patients should not use more than the recommended dose of BEVESPI AEROSPHERE.
@@ -26,7 +27,7 @@ If paradoxical bronchospasm occurs, instruct patients to discontinue BEVESPI AER
 Risks Associated With Beta2-Agonist Therapy: Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
 
-Worsening of Narrow Angle Glaucoma: Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
+Worsening of Narrow Angle Glaucoma: Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos, or colored images in association with red eyes from conjunctival congestion and corneal edema).
 Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
 
 Worsening of Urinary Retention: Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
@@ -54,10 +55,8 @@ Instruct patients to not use BEVESPI AEROSPHERE more often or more puffs than th
 Instruct patients not to spray BEVESPI AEROSPHERE in their eyes.
 Inform patients that if they accidentally get BEVESPI AEROSPHERE in their eyes, to rinse their eyes with water, and if redness or irritation persists, to consult their healthcare provider.
 
-BEVESPI®, AEROSPHERETM and BEVESPI AEROSPHERETM are trademarks of the AstraZeneca group of companies.
+Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-©AstraZeneca 2016
+BEVESPI®, AEROSPHERE™ and BEVESPI AEROSPHERE™ are trademarks of the AstraZeneca group of companies.
 
-Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
-
-By: Aventis Pharma LTD, Holmes Chapel CW48BE, United Kingdom or By: AstraZeneca Dunkerque Production (AZDP), Dunkerque France
+© AstraZeneca 2019

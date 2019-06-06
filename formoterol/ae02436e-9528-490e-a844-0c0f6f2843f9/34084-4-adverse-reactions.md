@@ -1,7 +1,7 @@
 # 6 ADVERSE REACTIONS
 
-LABAs, such as formoterol fumarate, one of the active ingredients in BEVESPI AEROSPHERE, increase the risk of asthma-related death.
-BEVESPI AEROSPHERE is not indicated for the treatment of asthma [see Boxed Warning and Warnings and Precautions (5.1)].
+LABAs, such as formoterol fumarate, one of the active ingredients in BEVESPI AEROSPHERE, as monotherapy (without an inhaled corticosteroid) for asthma increase the risk of asthma-related events.
+BEVESPI AEROSPHERE is not indicated for the treatment of asthma [see Warnings and Precautions (5.1)].
 
 The following adverse reactions are described in greater detail elsewhere in the labeling:
 
@@ -11,7 +11,7 @@ The following adverse reactions are described in greater detail elsewhere in the
 - •Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.9)]
 - •Worsening of urinary retention [see Warnings and Precautions (5.10)]
 
-## 6.1. Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -47,3 +47,10 @@ Because the subjects continued from Trial 1 or Trial 2 into the safety extension
 The adverse reactions reported in the long-term safety trial were consistent with those observed in the 24-week placebo-controlled trials.
 
 Additional Adverse Reactions: Other adverse reactions that have been associated with the component formoterol fumarate include: hypersensitivity reactions, hyperglycemia, sleep disturbance, agitation, restlessness, tremor, nausea, tachycardia, palpitations, cardiac arrhythmias (atrial fibrillation, supraventricular tachycardia, and extrasystoles).
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of BEVESPI AEROSPHERE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+In postmarketing experience with BEVESPI AEROSPHERE, hypersensitivity and urinary retention have been reported.

@@ -10,7 +10,7 @@ The structural formula is as follows:
 Glycopyrrolate contains two chiral centers (denoted by * in structure above) and is a racemate of a 1:1 mixture of the R,S and S,R diastereomers.
 The active moiety, glycopyrronium, is the positively charged ion of glycopyrrolate.
 
-Formoterol fumarate has the chemical name N-[2-Hydroxy-5-[(1RS)-1-hydroxy-2-[[(1RS)-2-(4-methoxyphenyl)-1- methylethyl]-amino] ethyl]phenyl] formamide, (E)-2-butenedioate dihydrate.
+Formoterol fumarate has the chemical name N-[2-Hydroxy-5-[(1RS)-1-hydroxy-2-[[(1RS)-2-(4-methoxyphenyl)-1- methylethyl]-amino] ethyl]phenyl] formamide, €-2-butenedioate dihydrate.
 Formoterol fumarate is a powder that is slightly soluble in water.
 The molecular formula is (C19H24N2O4)2.C4H4O4.2H2O and the molecular weight is 840.91 g/mol.
 The structural formula is as follows:

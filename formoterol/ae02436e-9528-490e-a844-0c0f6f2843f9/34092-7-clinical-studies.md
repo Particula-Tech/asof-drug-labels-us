@@ -3,7 +3,7 @@
 The safety and efficacy of BEVESPI AEROSPHERE was evaluated in a clinical development program that included 8 dose-ranging trials and two placebo-controlled lung function trials of 24-weeks duration that included a 28-week extension study to evaluate safety over 1 year.
 The efficacy of BEVESPI AEROSPHERE is based on the dose ranging trials in 822 subjects with COPD and the 2 placebo-controlled confirmatory trials in 3,705 subjects with COPD.
 
-## 14.1. Dose-Ranging Trials
+## 14.1 Dose-Ranging Trials
 
 Dose selection for BEVESPI AEROSPHERE for COPD was primarily based on data for the individual components, glycopyrrolate and formoterol fumarate, in COPD patients.
 Based on the findings from these studies, glycopyrrolate/formoterol fumarate 18/9.6 mcg administered twice-daily was evaluated in the confirmatory COPD trials.
@@ -24,7 +24,7 @@ The results supported the selection of a twice-daily dosing interval for further
 
 Formoterol Fumarate
 
-Dose selection for formoterol fumarate was supported by a single-dose, randomized, double-blind, placebo-controlled, crossover trial evaluating 3 doses of formoterol fumarate (FF MDI 9.6, 4.8 and 2.4 mcg), an open-label active control, and placebo in 34 subjects with COPD.
+Dose selection for formoterol fumarate was supported by a single-dose, randomized, double-blind, placebo-controlled, crossover trial evaluating 3 doses of formoterol fumarate (FF MDI 9.6, 4.8, and 2.4 mcg), an open-label active control, and placebo in 34 subjects with COPD.
 A dose ordering was observed with the formoterol fumarate 9.6 mcg dose demonstrating larger improvements in FEV1 over 12 hours compared with the lower doses of 4.8 and 2.4 mcg (Figure 2).
 
 Figure 2 - Mean Change from Baseline in FEV1 over Time on Day 1
@@ -32,7 +32,7 @@ Figure 2 - Mean Change from Baseline in FEV1 over Time on Day 1
 The differences in mean change from baseline in normalized FEV1 AUC0-12 for formoterol fumarate 9.6, 4.8, and 2.4 mcg compared to placebo were 176 mL (95% CI: 138, 214), 103 (95% CI: 66, 140), and 81 (95% CI: 45, 118), respectively.
 These results provided support for the selection of 9.6 mcg of formoterol fumarate twice daily in the confirmatory COPD trials.
 
-## 14.2. Confirmatory Trials
+## 14.2 Confirmatory Trials
 
 The clinical development program for BEVESPI AEROSPHERE included two (Trial 1 and Trial 2) 24-week, randomized, double-blind, placebo-controlled, parallel-group trials in subjects with moderate to very severe COPD designed to evaluate the efficacy of BEVESPI AEROSPHERE on lung function.
 The 24-week trials included 3,699 subjects that had a clinical diagnosis of COPD, were between 40 and 80 years of age, had a history of smoking greater than or equal to 10 pack-years, had a post-albuterol FEV1 less than 80% of predicted normal values, and had a ratio of FEV1/FVC of less than 0.7.
@@ -50,12 +50,12 @@ Table 2 – Least Square (LS) Mean Change from Baseline in Morning Pre-dose Trou
 |  |  | Trough FEV1 (mL) at Week 24 |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Difference from |  |  |
-| Treatment | N | Placebo* LS Mean (95% CI) | Glycopyrrolate 18 mcg BID* LS Mean (95% CI) | Formoterol Fumarate 9.6 mcg BID* LS Mean (95% CI) |
+| Treatment | N | Placebo LS Mean (95% CI) | Glycopyrrolate 18 mcg BIDThe placebo, glycopyrrolate and formoterol fumarate comparators used the same inhaler and excipients as BEVESPI AEROSPHERE. LS Mean (95% CI) | Formoterol Fumarate 9.6 mcg BID LS Mean (95% CI) |
 | Trial 1 |  |  |  |  |
 | BEVESPI AEROSPHERE | 429 | N=161 150 mL (114, 186) | N=344 59 mL (31, 88) | N=367 64 mL (36, 92) |
 | Trial 2 |  |  |  |  |
 | BEVESPI AEROSPHERE | 433 | N=170 103 mL (67, 140) | N=367 54 mL (25, 83) | N=350 56 mL (27, 85) |
-| N = Number in the intent to treat population *The placebo, glycopyrrolate and formoterol fumarate comparators used the same inhaler and excipients as BEVESPI AEROSPHERE. |  |  |  |  |
+| N = Number in the intent to treat population |  |  |  |  |
 
 With the limited data available, there were consistent improvements in trough FEV1 with respect to age, sex, degree of airflow limitation, GOLD stage, smoking status, or inhaled corticosteroid use.
 

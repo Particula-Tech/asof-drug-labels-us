@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1. Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 BEVESPI AEROSPHERE: Long-term studies in animals have not been performed to evaluate the carcinogenic potential of BEVESPI AEROSPHERE which contains glycopyrrolate and formoterol fumarate.
 The data described below for the individual components apply to BEVESPI AEROSPHERE.

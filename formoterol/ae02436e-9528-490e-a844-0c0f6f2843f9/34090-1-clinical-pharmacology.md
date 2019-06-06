@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1. Mechanism of Action
+## 12.1 Mechanism of Action
 
 BEVESPI AEROSPHERE
 
@@ -35,7 +35,7 @@ In vitro tests show that formoterol fumarate is an inhibitor of the release of m
 Formoterol fumarate also inhibits histamine-induced plasma albumin extravasation in anesthetized guinea pigs and inhibits allergen-induced eosinophil influx in dogs with airway hyper-responsiveness.
 The relevance of these in vitro and animal findings to humans is unknown.
 
-## 12.2. Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Cardiovascular effects: Healthy Subjects
 
@@ -53,7 +53,7 @@ In the 2-week trial, the Holter monitoring population included 58 subjects on gl
 In the 24-week trial, the Holter monitoring population included 171 subjects on BEVESPI AEROSPHERE, 160 subjects on glycopyrrolate 9 mcg, 174 subjects on formoterol fumarate 4.8 mcg, and 80 subjects on placebo.
 No clinically meaningful effects on cardiac rhythm were observed.
 
-## 12.3. Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Linear pharmacokinetics were observed for glycopyrrolate (dose range: 18 to 144 mcg) and formoterol fumarate (dose range: 2.4 to 19.2 mcg) after oral inhalation.
 
