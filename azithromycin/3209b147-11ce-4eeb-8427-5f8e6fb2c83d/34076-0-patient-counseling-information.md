@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 General Patient Counseling
 
 Azithromycin tablets and oral suspension can be taken with or without food.
@@ -19,19 +21,10 @@ Diarrhea is a common problem caused by antibacterials which usually ends when th
 Sometimes after starting treatment with antibacterials patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
 If this occurs, patients should contact their physician as soon as possible.
 
-See FDA-approved Patient Labeling
-
-Manufactured In Croatia By:
-
-Pliva Hrvatska d.o.o.
-
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-K 8/2018
+L 4/2019

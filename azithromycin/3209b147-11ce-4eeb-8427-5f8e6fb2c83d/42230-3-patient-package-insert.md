@@ -80,6 +80,7 @@ Especially tell your healthcare provider if you take:
 - nelfinavir
 - a blood thinner (warfarin)
 - digoxin
+- colchicine
 - phenytoin
 - an antacid that contains aluminum or magnesium
 
@@ -184,17 +185,10 @@ Inactive ingredients: ammonio methacrylate copolymer, banana flavor, cherry flav
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured In Croatia By:
-
-Pliva Hrvatska d.o.o.
-
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-E 7/2017
+F 4/2019

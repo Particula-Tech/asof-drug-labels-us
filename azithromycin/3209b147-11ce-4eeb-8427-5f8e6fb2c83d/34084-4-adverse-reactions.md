@@ -119,7 +119,7 @@ Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactiv
 
 Psychiatric: Aggressive reaction and anxiety.
 
-Skin/Appendages: Pruritus, serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+Skin/Appendages: Pruritus, serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus, and reports of taste/smell perversion and/or loss.
 
@@ -135,7 +135,7 @@ In multiple-dose clinical trials involving more than 5000 patients, four patient
 
 ### Pediatric Patients:
 
-One, Three, and Five Day Regimens
+One, Three, and Five-Day Regimens
 
 Laboratory data collected from comparative clinical trials employing two 3 day regimens (30 mg/kg or 60 mg/kg in divided doses over 3 days), or two 5 day regimens (30 mg/kg or 60 mg/kg in divided doses over 5 days) were similar for regimens of azithromycin and all comparators combined, with most clinically significant laboratory abnormalities occurring at incidences of 1 to 5%.
 Laboratory data for patients receiving 30 mg/kg as a single dose were collected in one single center trial.
