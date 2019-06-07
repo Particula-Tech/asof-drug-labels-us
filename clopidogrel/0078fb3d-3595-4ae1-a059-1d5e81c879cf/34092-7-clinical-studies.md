@@ -7,7 +7,7 @@ Patients were required to have either ECG changes compatible with new ischemia (
 Patients were randomized to receive clopidogrel bisulfate (300 mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
 Patients also received aspirin (75 to 325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
-The patient population was largely White (82%) and included 38% women, and 52% age ≥ 65 years of age.
+The patient population was largely White (82%) and included 38% women, and 52% age ≥65 years of age.
 Only about 20% of patients underwent revascularization during the initial hospitalization and few underwent emergent or urgent revascularization.
 The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel bisulfate-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10% to 28%; p < 0.001) for the clopidogrel bisulfate-treated group (see Table 4).
 
@@ -39,7 +39,7 @@ COMMIT In patients with STEMI, the safety and efficacy of clopidogrel bisulfate 
 COMMIT included 45,852 patients presenting within 24 hours of the onset of the symptoms of myocardial infarction with supporting ECG abnormalities (i.e., ST-elevation, ST-depression or left bundle-branch block).
 Patients were randomized to receive clopidogrel bisulfate (75 mg once daily) or placebo, in combination with aspirin (162 mg per day), for 28 days or until hospital discharge, whichever came first.
 The primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
-The patient population was 28% women and 58% age ≥ 60 years (26% age ≥ 70 years).
+The patient population was 28% women and 58% age ≥60 years (26% age ≥70 years).
 Fifty-five percent (55%) of patients received thrombolytics and only 3% underwent PCI.
 As shown in Table 5 and Figure 4 and Figure 5 below, clopidogrel bisulfate significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
 
@@ -48,7 +48,7 @@ Table 5: Outcome Events in COMMIT
 | Event | Clopidogrel Bisulfate (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Composite endpoint: Death, MI, or Stroke* | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
-| Death Nonfatal MI† Nonfatal Stroke† | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.7, 1.13) | 0.029 0.011 0.33 |
+| Death Nonfatal MI† Nonfatal Stroke† | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |
 | * 9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. † Nonfatal MI and nonfatal stroke exclude patients who died (of any cause). |  |  |  |  |
 
 Figure 4: Cumulative Event Rates for Death in the COMMIT Study*

@@ -42,7 +42,7 @@ Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 | --- | --- | --- | --- |
 | Major* noncerebral or cerebral bleeding | 0.6 | 0.5 | 0.59 |
 | Major noncerebral | 0.4 | 0.3 | 0.48 |
-| Fatal | 0.2 | 0.2 | 0.9 |
+| Fatal | 0.2 | 0.2 | 0.90 |
 | Hemorrhagic stroke | 0.2 | 0.2 | 0.91 |
 | Fatal | 0.2 | 0.2 | 0.81 |
 | Other noncerebral bleeding (nonmajor) | 3.6 | 3.1 | 0.005 |
@@ -66,7 +66,7 @@ Hemorrhages, including those with fatal outcome, have been reported in patients 
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
 - Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
-- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
+- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness, insulin autoimmune syndrome, which can lead to severe hypoglycemia.
 - Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, headache, ageusia
 - Psychiatric disorders: Confusion, hallucinations

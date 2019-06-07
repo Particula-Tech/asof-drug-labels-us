@@ -86,7 +86,7 @@ Especially tell your doctor if you take:
   Always talk to your doctor about whether you should take aspirin along with clopidogrel tablets to treat your condition.
 - Non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
-- warfarin (Coumadin®, Jantoven®)
+- warfarin (Coumadin®, Jantoven®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 
@@ -133,6 +133,7 @@ Clopidogrel tablets can cause serious side effects including:
   - stomach area (abdominal) pain
   - nausea, vomiting, or diarrhea
   - vision changes
+- Persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
@@ -172,4 +173,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
 All trademarks are property of their respective owners.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2019
