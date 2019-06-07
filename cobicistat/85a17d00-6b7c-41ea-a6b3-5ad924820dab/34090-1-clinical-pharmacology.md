@@ -49,11 +49,11 @@ Table 5: Pharmacokinetic Properties of the Components of SYMTUZA
 | Source of protein binding data | In vitro | In vitro | In vitro | Ex vivo |
 | Blood-to-plasma ratio | 0.64 | 0.5 | 0.6 | 1.0 |
 | Metabolism |  |  |  |  |
-| Metabolism | CYP3A | CYP3A (major) CYP2D6 (minor) | Not significantly metabolized | Cathepsin AIn vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by cathepsin A in PBMCs and macrophages; and by CES1 in hepatocytes. Upon coadministration with the moderate CYP3A inducer probe efavirenz, TAF exposure was unaffected. (PBMCs) CES1 (hepatocytes) CYP3A (minimal) |
+| Metabolism | CYP3A | CYP3A (major) CYP2D6 (minor) | Not significantly metabolized | Cathepsin AIn vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by cathepsin A in PBMCs and macrophages; and by CES1 in hepatocytes. Upon co-administration with the moderate CYP3A inducer probe efavirenz, TAF exposure was unaffected. (PBMCs) CES1 (hepatocytes) CYP3A (minimal) |
 | Elimination |  |  |  |  |
 | t1/2 (h) | 9.4 | 3.2 | 7.5 | 0.5Note that the pharmacologically active metabolite tenofovir diphosphate has a half-life of 150–180 hours within PBMCs. Tenofovir in plasma has a median elimination half-life of approximately 44 hours. |
 | Major route of elimination | Metabolism | Metabolism | Glomerular filtration and active tubular secretion | Metabolism (>80% of oral dose) |
-| % of dose excreted in fecesDosing in mass balance studies: darunavir (single dose administration of [14C] darunavir coadministered with multiple dose ritonavir 100 mg); cobicistat (single dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days); emtricitabine (single dose administration of [14C] emtricitabine after multiple dosing of emtricitabine for ten days); TAF (single dose administration of [14C] TAF). | 79.5Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in feces and urine, respectively. | 86.2 | 13.7 | 31.7 |
+| % of dose excreted in fecesDosing in mass balance studies: darunavir (single dose administration of [14C] darunavir co-administered with multiple dose ritonavir 100 mg); cobicistat (single dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days); emtricitabine (single dose administration of [14C] emtricitabine after multiple dosing of emtricitabine for ten days); TAF (single dose administration of [14C] TAF). | 79.5Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in feces and urine, respectively. | 86.2 | 13.7 | 31.7 |
 | % of dose excreted in urine | 13.9 | 8.2 | 70 | <1 |
 | PBMCs = peripheral blood mononuclear cells; CES-1 = carboxylesterase-1 |  |  |  |  |
 
@@ -169,8 +169,8 @@ The EC50 value of darunavir increases by a median factor of 5.4 in the presence 
 Cobicistat: Cobicistat has no detectable antiviral activity in cell culture against HIV-1.
 
 Emtricitabine: The antiviral activity of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in T lymphoblastoid cell lines, the MAGI-CCR5 cell line, and primary PBMCs.
-The EC50 values for emtricitabine were in the range of 0.0013–0.64 µM.
-Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 µM) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 µM).
+The EC50 values for emtricitabine were in the range of 1.3–640 nM.
+Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 7–75 nM) and showed strain specific activity against HIV-2 (EC50 values ranged from 7–1,500 nM).
 
 Tenofovir alafenamide: The antiviral activity of TAF against laboratory and clinical isolates of HIV-1 subtype B was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells, and CD4+ T lymphocytes.
 The EC50 values for TAF ranged from 2.0 to 14.7 nM.
@@ -202,12 +202,12 @@ Darunavir resistance-associated substitutions (V11I, V32I, L33F, I47V, I50V, I54
 Baseline International AIDS Society-USA (IAS-USA)-defined PI resistance substitutions confer reduced virologic response to darunavir.
 
 In the AMBER clinical trial of subjects with no prior antiretroviral treatment history, there were 7 subjects with protocol-defined virologic failure and with HIV-1 RNA ≥400 copies/mL at failure or later timepoints who had post-baseline resistance data in the SYMTUZA arm.
-None of the subjects had detectable emergent darunavir resistance-associated substitutions or other primary protease inhibitor resistance substitutions and only one subject had emergent M184M/I/V, which confers resistance to emtricitabine and lamivudine.
+None of the subjects had detectable emergent darunavir resistance-associated substitutions or other primary protease inhibitor resistance-associated substitutions and only one subject had emergent M184M/I/V, which confers resistance to emtricitabine and lamivudine.
 In the comparative PREZCOBIX + emtricitabine/tenofovir disoproxil fumarate arm, there were 2 protocol-defined virologic failures with post-baseline resistance data and neither had detectable resistance emergence.
 
 In the EMERALD clinical trial of virologically-suppressed subjects who switched to SYMTUZA, 1 subject who rebounded and 2 subjects who discontinued early from the study had post-baseline resistance genotypes.
-None of the subjects had darunavir, primary protease inhibitor, emtricitabine, or tenofovir resistance substitutions.
-In the control arm, there were 3 subjects who rebounded with post-baseline genotypes and no resistance substitutions were observed.
+None of the subjects had darunavir, primary protease inhibitor, emtricitabine, or tenofovir resistance-associated substitutions.
+In the control arm, there were 3 subjects who rebounded with post-baseline genotypes and no resistance-associated substitutions were observed.
 
 Cross-Resistance
 
@@ -219,5 +219,5 @@ Cross-resistance between darunavir and nucleoside/nucleotide reverse transcripta
 
 Emtricitabine: Emtricitabine-resistant viruses with the M184V or I substitution were cross-resistant to lamivudine, but retained sensitivity to didanosine, stavudine, tenofovir, and zidovudine.
 
-Tenofovir Alafenamide: Tenofovir resistance substitutions K65R and K70E result in reduced susceptibility to abacavir, didanosine, emtricitabine, lamivudine, and tenofovir.
+Tenofovir Alafenamide: Tenofovir resistance-associated substitutions K65R and K70E result in reduced susceptibility to abacavir, didanosine, emtricitabine, lamivudine, and tenofovir.
 HIV-1 with multiple thymidine analog substitutions (M41L, D67N, K70R, L210W, T215F/Y, K219Q/E/N/R) or multinucleoside resistant HIV-1 with a T69S double insertion mutation or with a Q151M substitution complex including K65R, showed reduced susceptibility to TAF in cell culture.

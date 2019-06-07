@@ -139,17 +139,17 @@ The long-term clinical significance of these BMD changes is not known.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing experience in patients receiving a darunavir-containing regimen.
+The following additional adverse reactions that may occur in patients taking SYMTUZA have been identified during postmarketing experience in patients receiving a darunavir-containing regimen.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Metabolism and Nutrition Disorders
+Metabolism and Nutrition Disorders:
 
-Redistribution of body fat
+redistribution of body fat
 
-Musculoskeletal and Connective Tissue Disorders
+Musculoskeletal and Connective Tissue Disorders:
 
-Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors)
+rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors)
 
-Skin and Subcutaneous Tissue Disorders
+Skin and Subcutaneous Tissue Disorders:
 
-Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)].
+toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
