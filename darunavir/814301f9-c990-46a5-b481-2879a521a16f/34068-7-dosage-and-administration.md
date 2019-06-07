@@ -60,7 +60,7 @@ The recommendations for the PREZISTA/ritonavir dosage regimens were based on ped
 
 Dosing Recommendations for Treatment-Naïve Pediatric Patients or Antiretroviral Treatment-Experienced Pediatric Patients with No Darunavir Resistance Associated Substitutions
 
-Pediatric patients weighing at least 10 kg but less than 15 kg
+Pediatric Patients Weighing At Least 10 kg but Less than 15 kg
 
 The weight-based dose in antiretroviral treatment-naïve pediatric patients or antiretroviral treatment-experienced pediatric patients with no darunavir resistance associated substitutions is PREZISTA 35 mg/kg once daily with ritonavir 7 mg/kg once daily using the following table:
 
@@ -75,7 +75,7 @@ Table 2: Recommended Dose for Pediatric Patients Weighing 10 kg to Less Than 15 
 | Greater than or equal to 13 kg to less than 14 kg | PREZISTA 4.6 mL (455 mg) with ritonavir 1 mL (80 mg) |
 | Greater than or equal to 14 kg to less than 15 kg | PREZISTA 5 mL (490 mg) with ritonavir 1.2 mL (96 mg) |
 
-Pediatric patients weighing at least 15 kg
+Pediatric Patients Weighing At Least 15 kg
 
 Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or suspension using the following table:
 
@@ -90,7 +90,7 @@ Table 3: Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are
 
 Dosing Recommendations for Treatment-Experienced Pediatric Patients with At Least One Darunavir Resistance Associated Substitutions
 
-Pediatric patients weighing at least 10 kg but less than 15 kg
+Pediatric Patients Weighing At Least 10 kg but Less than 15 kg
 
 The weight-based dose in antiretroviral treatment-experienced pediatric patients with at least one darunavir resistance associated substitution is PREZISTA 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily using the following table:
 
@@ -105,7 +105,7 @@ Table 4: Recommended Dose for Pediatric Patients Weighing 10 kg to Less Than 15 
 | Greater than or equal to 13 kg to less than 14 kg | PREZISTA 2.6 mL (260 mg) with ritonavir 0.5 mL (40 mg) |
 | Greater than or equal to 14 kg to less than 15 kg | PREZISTA 2.8 mL (280 mg) with ritonavir 0.6 mL (48 mg) |
 
-Pediatric patients weighing at least 15 kg
+Pediatric Patients Weighing At Least 15 kg
 
 Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or suspension using the following table:
 

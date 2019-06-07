@@ -196,7 +196,7 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Co-administration with HCV NS3-4A protease inhibitors |  |  |  |  |  |  |  |
 | Simeprevir | 50 mg q.d. The dose of simeprevir in this interaction study was 50 mg when co-administered in combination with PREZISTA/ritonavir compared to 150 mg once daily in the simeprevir alone treatment group. | 800 mg q.d. | 25Maximum number of subjects | ↑ | 1.04 (0.99–1.10) | 1.18 (1.11–1.25) | 1.31 (1.13–1.52) |
 | Co-administration with other drugs |  |  |  |  |  |  |  |
-| Artemether/lumefantrine | 80/480 mg (6 doses at 0, 8, 24, 36, 48, and60 hours) | 600/100 mg b.i.d. | 14 | ↔ | 1.00 (0.93–1.07) | 0.96 (0.90–1.03) | 0.87 (0.77–0.98) |
+| Artemether/lumefantrine | 80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours) | 600/100 mg b.i.d. | 14 | ↔ | 1.00 (0.93–1.07) | 0.96 (0.90–1.03) | 0.87 (0.77–0.98) |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↔ | 1.04 (0.93–1.16) | 0.99 (0.90–1.08) | 0.85 (0.73–1.00) |
 | Clarithromycin | 500 mg b.i.d. | 400/100 mg b.i.d. | 17 | ↔ | 0.83 (0.72–0.96) | 0.87 (0.75–1.01) | 1.01 (0.81–1.26) |
 | Ketoconazole | 200 mg b.i.d. | 400/100 mg b.i.d. | 14 | ↑ | 1.21 (1.04–1.40) | 1.42 (1.23–1.65) | 1.73 (1.39–2.14) |
