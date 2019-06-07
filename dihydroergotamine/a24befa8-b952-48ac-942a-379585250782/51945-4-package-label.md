@@ -2,9 +2,11 @@
 
 NDC 0187-0245-03
 
+Rx only
+
 MIGRANAL®
 
-(dihydroergotamine mesylate, USP) NASAL SPRAY
+(dihydroergotamine mesylate) NASAL SPRAY
 
 This Kit Contains:
 
@@ -12,11 +14,6 @@ This Kit Contains:
 - •8 MIGRANAL Nasal Sprayers
 - •Administration Instructions
 - •Package Insert
-- FOR NASAL USE ONLY.
-  NOT FOR INJECTION.
+- FOR NASAL USE ONLY NOT FOR INJECTION
 
-4 mg/mL (1 mL/Vial) Rx Only
-
-960550
-
-USA/903963
+4 mg/mL (1 mL/Vial)
