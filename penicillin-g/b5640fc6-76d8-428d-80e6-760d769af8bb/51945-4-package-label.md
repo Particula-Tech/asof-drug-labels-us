@@ -2,15 +2,9 @@
 
 NDC 60793-601-02
 
-BICILLIN® C-R (600,000 units penicillin G benzathine and 600,000 units penicillin G procaine injectable suspension)
+BICILLIN® C-R (600,000 units penicillin G benzathine and 600,000 units penicillin G procaine injectable suspension) 1,200,000 units per 2 mL Not for the Treatment of Syphilis FOR DEEP INTRAMUSCULAR INJECTION ONLY WARNING: FATAL IF GIVEN BY OTHER ROUTES
 
-1,200,000 units per 2 mL
-
-Not for the Treatment of Syphilis FOR DEEP IM INJECTION ONLY WARNING: NOT FOR INTRAVENOUS USE
-
-Distributed by Pfizer Inc New York, NY 10017 PAA092782
-
-Lot: EXP: (YYMMDD)
+Distributed by Pfizer Inc New York, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Syringe Package - 601
 
@@ -24,9 +18,9 @@ Bicillin® C-R (penicillin G benzathine and penicillin G procaine injectable sus
 
 FOR PEDIATRIC USE
 
-FOR DEEP IM INJECTION ONLY
+FOR DEEP INTRAMUSCULAR INJECTION ONLY
 
-WARNING: NOT FOR INTRAVENOUS USE BEFORE INJECTING, SEE PACKAGE INSERT FOR ADMINISTRATION INSTRUCTIONS.
+WARNING: FATAL IF GIVEN BY OTHER ROUTES BEFORE INJECTING, SEE PACKAGE INSERT FOR ADMINISTRATION INSTRUCTIONS.
 
 NOT FOR THE TREATMENT OF SYPHILIS
 
@@ -38,15 +32,9 @@ Rx only
 
 NDC 60793-600-02
 
-BICILLIN® C-R (penicillin G benzathine and penicillin G procaine injectable suspension in equal portions)
+BICILLIN® C-R (penicillin G benzathine and penicillin G procaine injectable suspension in equal portions) 1,200,000 units per 2 mL Not for the Treatment of Syphilis FOR DEEP INTRAMUSCULAR INJECTION ONLY WARNING: FATAL IF GIVEN BY OTHER ROUTES
 
-1,200,000 units per 2 mL
-
-Not for the Treatment of Syphilis FOR DEEP IM INJECTION ONLY WARNING: NOT FOR INTRAVENOUS USE
-
-Distributed by Pfizer Inc New York, NY 10017 PAA092785
-
-Lot: EXP: (YYMMDD)
+Distributed by Pfizer Inc New York, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Syringe Package - 600
 
@@ -58,9 +46,9 @@ Bicillin® C-R (penicillin G benzathine and penicillin G procaine injectable sus
 
 1,200,000 units per 2 mL
 
-FOR DEEP IM INJECTION ONLY
+FOR DEEP INTRAMUSCULAR INJECTION ONLY
 
-WARNING: NOT FOR INTRAVENOUS USE BEFORE INJECTING, SEE PACKAGE INSERT FOR ADMINISTRATION INSTRUCTIONS.
+WARNING: FATAL IF GIVEN BY OTHER ROUTES BEFORE INJECTING, SEE PACKAGE INSERT FOR ADMINISTRATION INSTRUCTIONS.
 
 NOT FOR THE TREATMENT OF SYPHILIS
 
