@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA211829"
+  ],
+  "inn": "ranolazine",
+  "labeler": "ScieGen Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "50228-423-05",
+    "50228-423-30",
+    "50228-423-60",
+    "50228-424-05",
+    "50228-424-30",
+    "50228-424-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "ranolazine",
+      "name": "RANOLAZINE"
+    }
+  ],
+  "setid": "71d50258-75b7-4801-b0f4-c34fe883d57d",
+  "source": "dailymed"
+}
