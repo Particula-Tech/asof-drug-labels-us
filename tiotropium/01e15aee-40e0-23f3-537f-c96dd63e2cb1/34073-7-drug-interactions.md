@@ -2,7 +2,7 @@
 
 ## 7.1 Adrenergic Drugs
 
-If additional adrenergic drugs are to be administered by any route, they should be used with caution because the sympathetic effects of olodaterol, one component of STIOLTO RESPIMAT may be potentiated [see Warnings and Precautions (5.3, 5.6, 5.10, 5.11)].
+If additional adrenergic drugs are to be administered by any route, they should be used with caution because the sympathetic effects of olodaterol, one component of STIOLTO RESPIMAT, may be potentiated [see Warnings and Precautions (5.3, 5.6, 5.10, 5.11)].
 
 ## 7.2 Sympathomimetics, Xanthine Derivatives, Steroids, or Diuretics
 

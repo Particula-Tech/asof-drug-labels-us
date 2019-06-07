@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Asthma-Related Death Inform patients that LABA, such as STIOLTO RESPIMAT, increase the risk of asthma-related death.
+Serious Asthma-Related Events Inform patients that LABA, such as STIOLTO RESPIMAT, when used as monotherapy [without an inhaled corticosteroid], increase the risk of serious asthma-related events, including asthma-related death.
 STIOLTO RESPIMAT is not indicated for the treatment of asthma.
 
 Not for Acute Symptoms STIOLTO RESPIMAT is not meant to relieve acute asthma symptoms or exacerbations of COPD and extra doses should not be used for that purpose.
@@ -60,4 +60,4 @@ STIOLTO® and RESPIMAT® are registered trademarks and are used under license fr
 
 Copyright © 2019 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT8355AB282019
+IT6053MF042019

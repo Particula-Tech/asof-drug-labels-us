@@ -19,7 +19,7 @@ In these trials, all products were administered via the RESPIMAT inhaler.
 
 The trials enrolled patients 40 years of age or older with a clinical diagnosis of COPD, a smoking history of more than 10 pack-years, and moderate to very severe pulmonary impairment (post-bronchodilator FEV1 less than 80% predicted normal [GOLD Stage 2-4]; post-bronchodilator FEV1 to FVC ratio of less than 70%).
 All treatments were administered once daily in the morning.
-The primary endpoints were change from baseline in FEV1 AUC0-3hr and trough FEV1 after 24-weeks of treatment.
+The primary endpoints were change from baseline in FEV1 AUC0-3hr and trough FEV1 after 24 weeks of treatment.
 
 The majority of the 5162 patients were male (73%), white (71%) or Asian (25%), with a mean age of 64.0 years.
 Mean post-bronchodilator FEV1 was 1.37 L (GOLD 2 [50%], GOLD 3 [39%], GOLD 4 [11%]).

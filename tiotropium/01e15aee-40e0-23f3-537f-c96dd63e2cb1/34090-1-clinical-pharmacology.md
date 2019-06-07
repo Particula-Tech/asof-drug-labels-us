@@ -117,7 +117,7 @@ Tiotropium An interaction study with tiotropium (14.4 mcg intravenous infusion o
 Concomitant administration of cimetidine with tiotropium resulted in a 20% increase in the AUC0-4h, a 28% decrease in the renal clearance of tiotropium and no significant change in the Cmax and amount excreted in urine over 96 hours.
 Co-administration of tiotropium with ranitidine did not affect the pharmacokinetics of tiotropium.
 
-Common concomitant medications (long-acting beta2-adrenergic agonists (LABA), inhaled corticosterioids (ICS)) used by patients with COPD were not found to alter the exposure to tiotropium.
+Common concomitant medications (long-acting beta2-adrenergic agonists (LABA), inhaled corticosteroids (ICS)) used by patients with COPD were not found to alter the exposure to tiotropium.
 
 Olodaterol Drug-drug interaction studies were carried out using fluconazole as a model inhibitor of CYP 2C9 and ketoconazole as a potent P-gp (and CYP3A4, 2C8, 2C9) inhibitor.
 
@@ -131,7 +131,7 @@ Geriatric Patients Tiotropium As expected for all predominantly renally excreted
 This did not result in a corresponding increase in AUC0-6,ss and Cmax,ss values.
 
 Renal Impairment Tiotropium Following inhaled administration of therapeutic doses of tiotropium to steady-state to patients with COPD, mild renal impairment (creatinine clearance 60 - <90 mL/min) resulted in 23% higher AUC0-6,ss and 17% higher Cmax,ss values.
-Moderate renal impairment (creatinine clearance 30 - <60 mL/min) resulted in 57% higher AUC0-6,ss and 31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance >90 mL/min).
+Moderate renal impairment (creatinine clearance 30 - <60 mL/min) resulted in 57% higher AUC0-6,ss and 31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance ≥90 mL/min).
 In COPD patients with severe renal impairment (CLCR <30 mL/min), a single intravenous administration of tiotropium bromide resulted in 94% higher AUC0-4 and 52% higher Cmax compared to COPD patients with normal renal function.
 
 Olodaterol Olodaterol levels were increased by approximately 40% in subjects with severe renal impairment.

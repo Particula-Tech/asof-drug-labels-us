@@ -1,7 +1,7 @@
 # 6 ADVERSE REACTIONS
 
-LABA, such as olodaterol, one of the active components in STIOLTO RESPIMAT, increase the risk of asthma-related death.
-STIOLTO RESPIMAT is not indicated for the treatment of asthma [see Boxed Warning and Warning and Precautions (5.1)].
+LABA, such as olodaterol, one of the active components in STIOLTO RESPIMAT, as monotherapy (without an inhaled corticosteroid) for asthma, increase the risk of asthma-related events.
+STIOLTO RESPIMAT is not indicated for the treatment of asthma [see Warning and Precautions (5.1)].
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 

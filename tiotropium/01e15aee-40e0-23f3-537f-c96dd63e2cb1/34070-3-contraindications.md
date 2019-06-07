@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-All LABAs are contraindicated in patients with asthma without use of a long-term asthma control medication [see Warnings and Precautions (5.1)].
+Use of a LABA, including STIOLTO RESPIMAT, without an inhaled corticosteroid is contraindicated in patients with asthma [see Warnings and Precautions (5.1)].
 STIOLTO RESPIMAT is not indicated for the treatment of asthma.
 
 STIOLTO RESPIMAT is contraindicated in patients with a hypersensitivity to tiotropium, ipratropium, olodaterol, or any component of this product [see Warnings and Precautions (5.4)].
