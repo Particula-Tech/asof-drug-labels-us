@@ -21,7 +21,7 @@ These events are rare and generally occur after prolonged exposure to excessivel
 
 Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface to body mass ratios [see Use in Specific Populations (8.4)].
 
-## 5.2 Visual Disturbance
+## 5.2 Ophthalmic Adverse Reactions
 
 Use of topical corticosteroids, including Augmented Betamethasone Dipropionate Ointment, may increase the risk of posterior subcapsular cataracts and glaucoma.
 Cataracts and glaucoma have been reported postmarketing with the use of topical corticosteroid products, including Augmented Betamethasone Dipropionate Ointment [see Adverse Reactions (6.2)].
