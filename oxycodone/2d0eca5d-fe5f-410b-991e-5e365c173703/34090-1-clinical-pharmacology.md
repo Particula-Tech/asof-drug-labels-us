@@ -86,7 +86,8 @@ This high oral bioavailability (compared to other oral opioids) is due to lower 
 Dose proportionality of oxycodone has been established using the ROXYBOND 5 mg, 15 mg, and 30 mg tablets based on maximum plasma concentration (Cmax) and extent of absorption (AUC) (Figure 2).
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with oxycodone hydrochloride.
 
-Figure 2.Mean Oxycodone Pharmacokinetic Profiles of 5-, 15-, 30-mg ROXYBOND Tablets (n=51)
+Figure 2.
+Mean Oxycodone Pharmacokinetic Profiles of 5-, 15-, 30-mg ROXYBOND Tablets (n=51)
 
 Food Effect
 

@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1Addiction, Abuse, and Misuse
+## 5.1 Addiction, Abuse, and Misuse
 
 ROXYBOND contains oxycodone, a Schedule II controlled substance.
 As an opioid, ROXYBOND exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
@@ -36,7 +36,7 @@ The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/Opi
 To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
 The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 
-## 5.3Life-Threatening Respiratory Depression
+## 5.3 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
@@ -51,14 +51,14 @@ Overestimating the ROXYBOND dosage when converting patients from another opioid 
 
 Accidental ingestion of even one dose of ROXYBOND, especially by children, can result in respiratory depression and death due to an overdose of oxycodone.
 
-## 5.4Neonatal Opioid Withdrawal Syndrome
+## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of ROXYBOND during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-## 5.5Risks of Concomitant Use or Discontinuation of Cytochrome P450 3A4 Inhibitors and Inducers
+## 5.5 Risks of Concomitant Use or Discontinuation of Cytochrome P450 3A4 Inhibitors and Inducers
 
 Concomitant use of ROXYBOND with a CYP3A4 inhibitor, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may increase plasma concentrations of oxycodone and prolong opioid adverse reactions, which may cause potentially fatal respiratory depression [see Warnings and Precautions (5.3)], particularly when an inhibitor is added after a stable dose of ROXYBOND is achieved.
 Similarly, discontinuation of a CYP3A4 inducer, such as rifampin, carbamazepine, and phenytoin, in ROXYBOND-treated patients may increase oxycodone plasma concentrations and prolong opioid adverse reactions.
@@ -67,7 +67,7 @@ When using ROXYBOND with CYP3A4 inhibitors or discontinuing CYP3A4 inducers in R
 Concomitant use of ROXYBOND with CYP3A4 inducers or discontinuation of a CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone.
 When using ROXYBOND with CYP3A4 inducers or discontinuing CYP3A4 inhibitors, monitor patients closely at frequent intervals and consider increasing the opioid dosage if needed to maintain adequate analgesia or if symptoms of opioid withdrawal occur [see Drug Interactions (7)].
 
-## 5.6Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+## 5.6 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of ROXYBOND with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
@@ -84,7 +84,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate dangerous machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-## 5.7Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+## 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of ROXYBOND in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 

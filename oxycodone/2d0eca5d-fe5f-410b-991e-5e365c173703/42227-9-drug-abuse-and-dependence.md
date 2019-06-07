@@ -91,7 +91,8 @@ Summary of Maximum Drug Liking (Emax), and Take Drug Again (Emax), Following Adm
 | Take Drug Again (Emax) | Mean (SD) | 62.2 (24.51) | 82.1 (16.44) | 77.3 (18.11) | 41.9 (20.09) |
 |  | Median (Range) | 62.0 (3 to 99) | 86.0 (37 to 100) | 81.0 (13 to 100) | 50.0 (0.0 to 78) |
 
-Figure 1.Mean Drug Liking VAS Scores Over Time (N=29)
+Figure 1.
+Mean Drug Liking VAS Scores Over Time (N=29)
 
 The majority of subjects (86%; n=25) experienced some reduction in Emax of Drug Liking VAS with crushed intranasal ROXYBOND compared with crushed intranasal oxycodone immediate-release tablets, whereas 59% (n=17) experienced at least a 30% reduction in Emax of drug liking and 21% (n=6) experienced at least a 50% reduction in Emax of drug liking.
 
@@ -104,7 +105,7 @@ However, abuse by the intranasal, oral, and intravenous route is still possible.
 Additional data, including epidemiological data, when available, may provide further information on the impact of the current formulation of ROXYBOND on the abuse liability of the drug.
 Accordingly, this section may be updated in the future as appropriate.
 
-## 9.3Dependence
+## 9.3 Dependence
 
 Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
