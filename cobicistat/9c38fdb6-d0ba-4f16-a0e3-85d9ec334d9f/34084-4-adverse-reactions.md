@@ -6,6 +6,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Severe skin reactions [see Warnings and Precautions (5.2)]
 - Effects on serum creatinine [see Warnings and Precautions (5.3)]
 - New onset or worsening renal impairment when used with tenofovir DF [see Warnings and Precautions (5.4)]
+- Immune Reconstitution Syndrome [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,7 +24,7 @@ Adverse reactions evaluated through Week 24 did not differ substantially from th
 The following events have been identified during post-approval use of darunavir.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Metabolism and Nutrition Disorders:
+Metabolism and Nutrition Disorders
 
 Redistribution of body fat
 
