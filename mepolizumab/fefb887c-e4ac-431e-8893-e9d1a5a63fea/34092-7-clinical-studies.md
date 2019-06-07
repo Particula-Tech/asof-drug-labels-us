@@ -87,6 +87,8 @@ The time to first exacerbation was longer for the groups receiving NUCALA 100 mg
 Figure 1.
 Kaplan-Meier Cumulative Incidence Curve for Time to First Exacerbation (Asthma Trial 2)
 
+IV = intravenous, SC = subcutaneous.
+
 Trial 1 data were explored to determine criteria that could identify subjects likely to benefit from treatment with NUCALA.
 The exploratory analysis suggested that baseline blood eosinophil count of ≥150 cells/mcL was a potential predictor of treatment benefit.
 Exploratory analysis of Trial 2 data also suggested that baseline blood eosinophil count (obtained within 6 weeks of initiation of dosing) of ≥150 cells/mcL was a potential predictor of efficacy and showed a trend of greater exacerbation benefit with increasing blood eosinophil count.
@@ -209,6 +211,8 @@ The incidence and number of relapse types (vasculitis, asthma, sino‑nasal) wer
 Figure 2.
 Kaplan-Meier Plot of Time to First Relapse in EGPA
 
+EGPA = eosinophilic granulomatosis with polyangiitis, SC = subcutaneous.
+
 Corticosteroid Reduction
 
 Subjects receiving 300 mg of NUCALA had a significantly greater reduction in average daily OCS dose compared with subjects receiving placebo during Weeks 48 to 52 (Table 7).
@@ -230,6 +234,8 @@ Average Daily Oral Corticosteroid Dose during Weeks 48 to 52 in EGPA
 a Analyzed using a proportional odds model with covariates of treatment group, baseline oral corticosteroid daily dose, baseline Birmingham Vasculitis Activity Score, and region.
 
 b An odds ratio <1 favors mepolizumab.
+
+EGPA = eosinophilic granulomatosis with polyangiitis.
 
 Asthma Control Questionnaire-6 (ACQ-6)
 

@@ -1,10 +1,12 @@
+# Package/Label Display Panel
+
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0881-01
 
 Nucala
 
-(mepolizumab)
+(mepolizuma
 
 for Injection
 
@@ -32,3 +34,37 @@ Do not accept if plastic overseal is missing or not securely fitted.
 
 1. 62000000024369 Rev.
    5/18
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0173-0892-01
+
+Nucala
+
+(mepolizumab)
+
+100 mg/mL
+
+Rx Only
+
+Prefilled Autoinjector
+
+For subcutaneous use only.
+
+Contents:
+
+-1 Single-Dose 1-mL.
+Prefilled Autoinjector
+
+-Instructions for Use
+
+-Prescribing Information
+
+-Patient Information
+
+©2019 GSK group of companies or its licensor.
+
+Do not accept if security seal is missing or broken.
+
+1. 62000000038009 Rev.
+   4/19

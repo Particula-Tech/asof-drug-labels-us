@@ -1,16 +1,26 @@
 {
   "application_numbers": [
-    "BLA125526"
+    "BLA125526",
+    "BLA761122"
   ],
   "inn": "mepolizumab",
   "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0173-0881-01",
-    "0173-0881-61"
+    "0173-0881-61",
+    "0173-0892-01",
+    "0173-0892-42",
+    "0173-0892-61",
+    "0173-0892-63"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "mepolizumab",
+      "name": "Nucala"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
       "generic": "mepolizumab",
       "name": "Nucala"
     }

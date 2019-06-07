@@ -40,7 +40,7 @@ Following repeat SC administration once every 4 weeks, there was approximately a
 
 Distribution
 
-The population central volume of distribution of mepolizumab in patients with asthma is estimated to be 3.6 L for a 70‑kg individual.
+The population central volume of distribution of mepolizumab in subjects with asthma is estimated to be 3.6 L for a 70‑kg individual.
 
 Metabolism
 
@@ -48,8 +48,8 @@ Mepolizumab is a humanized IgG1 monoclonal antibody that is degraded by proteoly
 
 Elimination
 
-Following SC administration of mepolizumab, the mean terminal half-life (t1/2) ranged from 16 to 22 days.
-The population apparent systemic clearance of mepolizumab in patients with asthma is estimated to be 0.28 L/day for a 70-kg individual.
+Following SC administration of mepolizumab in subjects with asthma, the mean terminal half-life (t1/2) ranged from 16 to 22 days.
+The population apparent systemic clearance of mepolizumab in subjects with asthma is estimated to be 0.28 L/day for a 70-kg individual.
 
 Specific Populations
 
