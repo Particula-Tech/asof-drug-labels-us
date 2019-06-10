@@ -27,6 +27,11 @@ CYP2C9 substrates
 Other than warfarin, no formal drug-drug interaction studies between capecitabine and other CYP2C9 substrates have been conducted.
 Care should be exercised when capecitabine is coadministered with CYP2C9 substrates.
 
+Allopurinol
+
+Concomitant use with allopurinol may decrease concentration of capecitabine’s active metabolites [see Clinical Pharmacology (12.3)], which may decrease capecitabine efficacy.
+Avoid the use of allopurinol during treatment with capecitabine.
+
 ## 7.2 Drug-Food Interaction
 
 Food was shown to reduce both the rate and extent of absorption of capecitabine [see Clinical Pharmacology (12.3)].
