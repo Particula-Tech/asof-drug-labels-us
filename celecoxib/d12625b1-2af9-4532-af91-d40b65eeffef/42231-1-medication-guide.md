@@ -19,13 +19,20 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
   - without warming symptoms
   - that may cause death
 
-The risk of getting an ulcer or bleeding increases with:
+- o The risk of getting an ulcer or bleeding increases with:
+- o past history of stomach ulcers, or stomach or intestinal bleeding with use
+- o of NSAIDs taking medicines called "corticosteroids", "antiplatelet
+- o drugs", "anticoagulants", "SSRIs" or "SNRIs"
+- o increasing doses of NSAIDs
+- o longer use of NSAIDs
+- o smoking
+- o drinking alcohol
+- o older age
+- o poor health
+- o advanced liver disease
+- o bleeding problems
 
-| ○ past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs ○ taking medicines called "corticosteroids", "anticoagulants", "SSRIs" or "SNRIs" ○ increasing doses of NSAIDs ○ longer use of NSAIDs ○ smoking ○ drinking alcohol | ○ older age ○ poor health ○ advanced liver diseases ○ bleeding problems |
-| --- | --- |
-
-NSAID medicines should only be used:
-
+- NSAIDs should only be used:
 - exactly as prescribed
 - at the lowest dose possible for your treatment
 - for the shortest time needed
@@ -100,7 +107,7 @@ Other information about NSAIDs
 - Aspirin is an NSAID but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
-- Some NSAIDs are sold in lower doses without a prescription (over -the -counter).
+- Some NSAIDs are sold in lower doses without a prescription (over -the counter).
   Talk to your healthcare provider before using over -the -counter NSAIDs for more than 10 days.
 
 General information about the safe and effective use of NSAIDs
@@ -131,4 +138,4 @@ Cipla USA, Inc.
 
 Suite 130, Sunrise, FL 33323
 
-Revised: 7/2017
+Revised: 5/2019

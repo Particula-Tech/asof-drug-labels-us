@@ -4,7 +4,7 @@
 
 CELECOXIB has analgesic, anti-inflammatory, and antipyretic properties.
 
-The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of cyclooxygenase-2 (COX-2).
+The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2.
 
 Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro.
 Celecoxib concentrations reached during therapy have produced in vivo effects.
@@ -33,7 +33,7 @@ It is primarily metabolized by CYP2C9 with a half-life of approximately 11 hours
 
 Absorption
 
-Peak plasma levels of celecoxib occur approximately 3 hrs after an oral dose.
+Peak plasma levels of celecoxib occur approximately 3 hours after an oral dose.
 Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC [see Food Effects].
 Absolute bioavailability studies have not been conducted.
 With multiple dosing, steady-state conditions are reached on or before Day 5.
@@ -97,7 +97,7 @@ Pediatric
 The steady state pharmacokinetics of celecoxib administered as an investigational oral suspension was evaluated in 152 JRA patients 2 years to 17 years of age weighing ≥10 kg with pauciarticular or polyarticular course JRA and in patients with systemic onset JRA.
 Population pharmacokinetic analysis indicated that the oral clearance (unadjusted for body weight) of celecoxib increases less than proportionally to increasing weight, with 10 kg and 25 kg patients predicted to have 40% and 24% lower clearance, respectively, compared with a 70 kg adult RA patient.
 
-Twice-daily administration of 50 mg capsules to JRA patients weighing ≥12 to ≤25 kg and 100 mg capsules to JRA patients weighing >25 kg should achieve plasma concentrations similar to those observed in a clinical trial that demonstrated the non-inferiority of celecoxib to naproxen 7.5 mg/kg twice daily (see Dosage and Administration (2.4).
+Twice-daily administration of 50 mg capsules to JRA patients weighing ≥12 to ≤25 kg and 100 mg capsules to JRA patients weighing >25 kg should achieve plasma concentrations similar to those observed in a clinical trial that demonstrated the non-inferiority of celecoxib to naproxen 7.5 mg/kg twice daily [see Dosage and Administration (2.4)].
 Celecoxib has not been studied in JRA patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), or beyond 24 weeks.
 
 Race
@@ -142,12 +142,11 @@ This increase is due to the inhibition of celecoxib metabolism via P450 2C9 by f
 
 Other Drugs
 
-The effects of celecoxib on the pharmacokinetics and/or pharmacodynamics of glyburide, ketoconazole [see Drug Interactions (7)], phenytoin, and tolbutamide have been studied in vivo and clinically important interactions have not been found.
+The effects of celecoxib on the pharmacokinetics and/or pharmacodynamics of glyburide, ketoconazole, [see Drug Interactions (7)], phenytoin, and tolbutamide have been studied in vivo and clinically important interactions have not been found.
 
 ## 12.5 Pharmacogenomics
 
 CYP2C9 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity, such as those homozygous for the CYP2C9*2 and CYP2C9*3 polymorphisms.
 Limited data from 4 published reports that included a total of 8 subjects with the homozygous CYP2C9*3/*3 genotype showed celecoxib systemic levels that were 3- to 7-fold higher in these subjects compared to subjects with CYP2C9*1/*1 or *I/*3 genotypes.
 The pharmacokinetics of celecoxib have not been evaluated in subjects with other CYP2C9 polymorphisms, such as *2, *5, *6, *9 and *11.
-It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1.0% in various ethnic groups.
-[see Dosage and Administration (2.7), Use in Specific Populations (8.8)].
+It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1.0% in various ethnic groups [see Dosage and Administration (2.7), Use in Specific Populations (8.8)].

@@ -5,7 +5,7 @@
 Celecoxib capsules have demonstrated significant reduction in joint pain compared to placebo.
 Celecoxib capsules were evaluated for treatment of the signs and the symptoms of OA of the knee and hip in placebo- and active-controlled clinical trials of up to 12 weeks duration.
 In patients with OA, treatment with celecoxib capsules 100 mg twice daily or 200 mg once daily resulted in improvement in WOMAC (Western Ontario and McMaster Universities) osteoarthritis index, a composite of pain, stiffness, and functional measures in OA.
-In three 12-week studies of pain accompanying OA flare, celecoxib capsules doses of 100 mg twice daily and 200 mg twice daily provided significant reduction of pain within 24-48 hours of initiation of dosing.
+In three 12-week studies of pain accompanying OA flare, celecoxib capsules doses of 100 mg twice daily and 200 mg twice daily provided significant reduction of pain within 24 to 48 hours of initiation of dosing.
 At doses of 100 mg twice daily or 200 mg twice daily the effectiveness of celecoxib capsules was shown to be similar to that of naproxen 500 mg twice daily.
 Doses of 200 mg twice daily provided no additional benefit above that seen with 100 mg twice daily.
 A total daily dose of 200 mg has been shown to be equally effective whether administered as 100 mg twice daily or 200 mg once daily.
@@ -18,7 +18,7 @@ Celecoxib capsules were shown to be superior to placebo in these studies, using 
 Celecoxib capsules doses of 100 mg twice daily and 200 mg twice daily were similar in effectiveness and both were comparable to naproxen 500 mg twice daily.
 
 Although celecoxib capsules 100 mg twice daily and 200 mg twice daily provided similar overall effectiveness, some patients derived additional benefit from the 200 mg twice daily dose.
-Doses of 400 mg twice daily provided no additional benefit above that seen with 100-200 mg twice daily.
+Doses of 400 mg twice daily provided no additional benefit above that seen with 100 mg to 200 mg twice daily.
 
 ## 14.3 Juvenile Rheumatoid Arthritis(NCT00652925)
 
@@ -27,14 +27,14 @@ The response rates were based upon the JRA Definition of Improvement greater tha
 The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg twice daily, celecoxib 6 mg/kg twice daily, and naproxen 7.5 mg/kg twice daily treatment groups, respectively.
 
 The efficacy and safety of celecoxib capsules for JRA have not been studied beyond six months.
-The long-term cardiovascular toxicity in children exposed to celecoxib capsules have not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib capsules or other COX-2 selective and non-selective NSAIDs [(see Boxed Warning, Warnings and Precautions (5.12)].
+The long-term cardiovascular toxicity in children exposed to celecoxib capsules have not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib capsules or other COX-2 selective and non-selective NSAIDs [see Boxed Warning, Warnings and Precautions (5.12)].
 
 ## 14.4 Ankylosing Spondylitis
 
 Celecoxib capsules were evaluated in AS patients in two placebo- and active-controlled clinical trials of 6 and 12 weeks duration.
 Celecoxib capsules at doses of 100 mg twice daily, 200 mg once daily and 400 mg once daily was shown to be statistically superior to placebo in these studies for all three co-primary efficacy measures assessing global pain intensity (Visual Analogue Scale), global disease activity (Visual Analogue Scale) and functional impairment (Bath Ankylosing Spondylitis Functional Index).
 In the 12-week study, there was no difference in the extent of improvement between the 200 mg and 400 mg celecoxib capsules doses in a comparison of mean change from baseline, but there was a greater percentage of patients who responded to celecoxib capsules 400 mg, 53%, than to celecoxib capsules 200 mg, 44%, using the Assessment in Ankylosing Spondylitis response criteria (ASAS 20).
-The ASAS 20 defines a responder as improvement from baseline of at least 20% and an absolute improvement of at least 10 mm, on a 0 to 100 mm scale, in at least three of the four following domains: patient global pain, Bath Ankylosing Spondylitis Functional Index, and inflammation.
+The ASAS 20 defines a responder as improvement from baseline of at least 20% and an absolute improvement of at least 10 mm, on a 0 mm to 100 mm scale, in at least three of the four following domains: patient global pain, Bath Ankylosing Spondylitis Functional Index, and inflammation.
 The responder analysis also demonstrated no change in the responder rates beyond 6 weeks.
 
 ## 14.5 Analgesia, including Primary Dysmenorrhea
@@ -72,7 +72,7 @@ The trial had two prespecified analysis populations:
 - Intent-to-treat population (ITT): Comprised of all randomized subjects followed for a maximum of 30 months
 - Modified Intent-to-treat population (mITT): Comprised of all randomized subjects who received at least one dose of study medication and had at least one post-baseline visit followed until the earlier of treatment discontinuation plus 30 days, or 43 months
 
-Celecoxib, at the 100 mg twice daily dose, as compared with either naproxen or ibuprofen at the doses taken, met all four prespecified non-inferiority criteria (p<0.001 for non-inferiority in both comparisons) for the APTC endpoint, a composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke (See Table 5).
+Celecoxib, at the 100 mg twice daily dose, as compared with either naproxen or ibuprofen at the doses taken, met all four prespecified non-inferiority criteria (p<0.001 for non-inferiority in both comparisons) for the APTC endpoint, a composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke [See Table 5].
 Non-inferiority was prespecified as a hazard ratio (HR) of ≤1.12 in both ITT and mITT analyses, and upper 95% CI of ≤1.33 for ITT analysis and ≤1.40 for mITT analysis.
 The primary analysis results for ITT and mITT are described in Table 5.
 
@@ -138,9 +138,9 @@ Celecoxib Long-Term Arthritis Safety Study (CLASS)
 
 This was a prospective, long-term, safety outcome study conducted post-marketing in approximately 5,800 OA patients and 2,200 RA patients.
 Patients received celecoxib capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily or diclofenac 75 mg twice daily (common therapeutic doses).
-Median exposures for celecoxib capsules (n=3,987) and diclofenac (n=1,996) were 9 months while ibuprofen (n=1,985) was 6 months.
+Median exposures for celecoxib capsules (n = 3,987) and diclofenac (n = 1,996) were 9 months while ibuprofen (n = 1,985) was 6 months.
 The primary endpoint of this outcome study was the incidence of complicated ulcers (gastrointestinal bleeding, perforation or obstruction).
-Patients were allowed to take concomitant low-dose (325 mg/day) aspirin (ASA) for cardiovascular prophylaxis (ASA subgroups: celecoxib capsules, n=882; diclofenac, n=445; ibuprofen, n=412).
+Patients were allowed to take concomitant low-dose (325 mg/day) aspirin (ASA) for cardiovascular prophylaxis (ASA subgroups: celecoxib capsules, n = 882; diclofenac, n = 445; ibuprofen, n = 412).
 Differences in the incidence of complicated ulcers between celecoxib capsules and the combined group of ibuprofen and diclofenac were not statistically significant.
 
 Patients on celecoxib capsules and concomitant low-dose ASA (N=882) experienced 4-fold higher rates of complicated ulcers compared to those not on ASA (N=3105).
@@ -173,7 +173,7 @@ The cumulative rates in non-ASA users at nine months in each of the three treatm
 The cumulative rates for myocardial infarction in non-ASA users at nine months in each of the three treatment groups were less than 0.2%.
 There was no placebo group in the CLASS trial, which limits the ability to determine whether the three drugs tested had no increased risk of CV events or if they all increased the risk to a similar degree.
 In the CLASS study, the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on celecoxib capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
-The rates of hypertension from the CLASS trial in the celecoxib capsules, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively
+The rates of hypertension from the CLASS trial in the celecoxib capsules, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively.
 
 Endoscopic Studies
 
@@ -182,11 +182,11 @@ Serious clinically significant upper GI bleeding has been observed in patients r
 
 A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months.
 The incidence of endoscopic ulcers in patients taking celecoxib capsules 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily.
-However, celecoxib capsules was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.7)].
+However, celecoxib capsules was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.7)]
 
 The incidence of endoscopic ulcers was studied in two 12-week, placebo-controlled studies in 2157 OA and RA patients in whom baseline endoscopies revealed no ulcers.
 There was no dose relationship for the incidence of gastroduodenal ulcers and the dose of celecoxib capsules (50 mg to 400 mg twice daily).
-The incidence for naproxen 500 mg twice daily was 16.2 and 17.6% in the two studies, for placebo was 2.0 and 2.3%, and for all doses of celecoxib capsules the incidence ranged between 2.7%-5.9%.
+The incidence for naproxen 500 mg twice daily was 16.2% and 17.6% in the two studies, for placebo was 2.0% and 2.3%, and for all doses of celecoxib capsules the incidence ranged between 2.7%-5.9%.
 There have been no large, clinical outcome studies to compare clinically relevant GI outcomes with celecoxib and naproxen.
 
 In the endoscopic studies, approximately 11% of patients were taking aspirin (325 mg/day).

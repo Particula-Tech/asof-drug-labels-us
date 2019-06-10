@@ -11,14 +11,14 @@ Avoid use of NSAIDs, including celecoxib capsules, in pregnant women starting at
 
 There are no adequate and well-controlled studies of celecoxib capsules in pregnant women.
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose of 200 mg twice daily.
+In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose (MRHD) of 200 mg twice daily.
 In addition, structural abnormalities (e.g., septal defects, ribs fused, sternebrae fused and sternebrae misshapen) were observed in rabbits given daily oral doses of celecoxib during the period of organogenesis at approximately 2 times the MRHD [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as celecoxib, resulted in increased pre- and post-implantation loss.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2% to 4% for major malformations, and 15% to 20% for pregnancy loss.
 
 Clinical Considerations
 
@@ -47,7 +47,7 @@ The effects of celecoxib capsules on labor and delivery in pregnant women are un
 Risk Summary
 
 Limited data from 3 published reports that included a total of 12 breastfeeding women showed low levels of celecoxib in breast milk.
-The calculated average daily infant dose was 10-40 mcg/kg/day, less than 1% of the weight-based therapeutic dose for a two-year old-child.
+The calculated average daily infant dose was 10 to 40 mcg/kg/day, less than 1% of the weight-based therapeutic dose for a two-year old-child.
 A report of two breastfed infants 17 and 22 months of age did not show any adverse events.
 Caution should be exercised when celecoxib capsules are administered to a nursing woman.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for celecoxib capsules and any potential adverse effects on the breastfed infant from the celecoxib capsules or from the underlying maternal condition.
@@ -100,5 +100,4 @@ Celecoxib capsules is not recommended in patients with severe renal insufficienc
 ## 8.8 Poor Metabolizers of CYP2C9 Substrates
 
 In patients who are known or suspected to be poor CYP2C9 metabolizers (i.e., CYP2C9*3/*3), based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) administer celecoxib capsules starting with half the lowest recommended dose.
-Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers.
-[see Dosage and Administration (2.7) and Clinical Pharmacology (12.5)].
+Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers [see Dosage and Administration (2.7) and Clinical Pharmacology (12.5)].

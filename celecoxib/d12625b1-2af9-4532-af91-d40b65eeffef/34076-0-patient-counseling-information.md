@@ -14,7 +14,7 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 
 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
 If these occur, instruct patients to stop celecoxib capsules and seek immediate medical therapy [see Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
 
 Heart Failure and Edema
@@ -61,4 +61,4 @@ Cipla USA, Inc.
 
 Suite 130, Sunrise, FL 33323
 
-Revised: 7/2018
+Revised: 5/2019
