@@ -2,7 +2,9 @@
 
 Advise the patient to read the FDA-approved Patient labeling (Medication Guide)
 
-Embryo-Fetal Toxicity Advise patients that REVLIMID is contraindicated in pregnancy [see Boxed Warning and Contraindications (4.1)].
+Embryo-Fetal Toxicity
+
+Advise patients that REVLIMID is contraindicated in pregnancy [see Boxed Warning and Contraindications (4.1)].
 REVLIMID is a thalidomide analogue and can cause serious birth defects or death to a developing baby [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
 - Advise females of reproductive potential that they must avoid pregnancy while taking REVLIMID and for at least 4 weeks after completing therapy.
@@ -16,7 +18,9 @@ REVLIMID is a thalidomide analogue and can cause serious birth defects or death 
 - Advise male patients taking REVLIMID that they must not donate sperm [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
 - All patients must be instructed to not donate blood while taking REVLIMID, during dose interruptions and for 4 weeks following discontinuation of REVLIMID [see Warnings and Precautions (5.1)].
 
-REVLIMID REMS program Because of the risk of embryo-fetal toxicity, REVLIMID is only available through a restricted program called the REVLIMID REMS program [see Warnings and Precautions (5.2)].
+REVLIMID REMS program
+
+Because of the risk of embryo-fetal toxicity, REVLIMID is only available through a restricted program called the REVLIMID REMS program [see Warnings and Precautions (5.2)].
 
 - Patients must sign a Patient-Physician agreement form and comply with the requirements to receive REVLIMID.
   In particular, females of reproductive potential must comply with the pregnancy testing, contraception requirements and participate in monthly telephone surveys.
@@ -76,13 +80,3 @@ Inform patients how to take REVLIMID [see Dosage and Administration (2)]
   If more than 12 hours have elapsed, they should be instructed to skip the dose for that day.
   The next day, they should take REVLIMID at the usual time.
   Warn patients to not take 2 doses to make up for the one that they missed.
-
-Manufactured for: Celgene Corporation Summit, NJ 07901
-
-REVLIMID® and REVLIMID REMS® are registered trademarks of Celgene Corporation.
-
-Pat. www.celgene.com/therapies
-
-© 2005-2018 Celgene Corporation, All Rights Reserved.
-
-RevPlyPI.025/MG.025

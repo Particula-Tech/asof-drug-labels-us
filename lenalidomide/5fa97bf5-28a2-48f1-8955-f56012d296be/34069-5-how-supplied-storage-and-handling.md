@@ -4,39 +4,39 @@
 
 White and blue-green opaque hard capsules imprinted "REV" on one half and "2.5 mg" on the other half in black ink:
 
-2.5 mg bottles of 28 (NDC 59572-402-28)
-
-2.5 mg bottles of 100 (NDC 59572-402-00)
+|  | 2.5 mg bottles of 28 | (NDC 59572-402-28) |
+| --- | --- | --- |
+|  | 2.5 mg bottles of 100 | (NDC 59572-402-00) |
 
 White opaque capsules imprinted "REV" on one half and "5 mg" on the other half in black ink:
 
-5 mg bottles of 28 (NDC 59572-405-28)
-
-5 mg bottles of 100 (NDC 59572-405-00)
+|  | 5 mg bottles of 28 | (NDC 59572-405-28) |
+| --- | --- | --- |
+|  | 5 mg bottles of 100 | (NDC 59572-405-00) |
 
 Blue/green and pale yellow opaque capsules imprinted "REV" on one half and "10 mg" on the other half in black ink:
 
-10 mg bottles of 28 (NDC 59572-410-28)
-
-10 mg bottles of 100 (NDC 59572-410-00)
+|  | 10 mg bottles of 28 | (NDC 59572-410-28) |
+| --- | --- | --- |
+|  | 10 mg bottles of 100 | (NDC 59572-410-00) |
 
 Powder blue and white opaque capsules imprinted "REV" on one half and "15 mg" on the other half in black ink:
 
-15 mg bottles of 21 (NDC 59572-415-21)
-
-15 mg bottles of 100 (NDC 59572-415-00)
+|  | 15 mg bottles of 21 | (NDC 59572-415-21) |
+| --- | --- | --- |
+|  | 15 mg bottles of 100 | (NDC 59572-415-00) |
 
 Powder blue and blue-green opaque hard capsules imprinted "REV" on one half and "20 mg" on the other half in black ink.
 
-20 mg bottles of 21 (NDC 59572-420-21)
-
-20 mg bottles of 100 (NDC 59572-420-00)
+|  | 20 mg bottles of 21 | (NDC 59572-420-21) |
+| --- | --- | --- |
+|  | 20 mg bottles of 100 | (NDC 59572-420-00) |
 
 White opaque capsules imprinted "REV" on one half and "25 mg" on the other half in black ink:
 
-25 mg bottles of 21 (NDC 59572-425-21)
-
-25 mg bottles of 100 (NDC 59572-425-00)
+|  | 25 mg bottles of 21 | (NDC 59572-425-21) |
+| --- | --- | --- |
+|  | 25 mg bottles of 100 | (NDC 59572-425-00) |
 
 ## 16.2 Storage
 

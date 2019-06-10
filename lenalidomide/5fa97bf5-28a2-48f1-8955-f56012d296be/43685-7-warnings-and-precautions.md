@@ -8,18 +8,24 @@ An embryo-fetal development study in monkeys indicates that lenalidomide produce
 
 REVLIMID is only available through the REVLIMID REMS program [see Warnings and Precautions (5.2)].
 
-Females of Reproductive Potential Females of reproductive potential must avoid pregnancy for at least 4 weeks before beginning REVLIMID therapy, during therapy, during dose interruptions and for at least 4 weeks after completing therapy.
+Females of Reproductive Potential
+
+Females of reproductive potential must avoid pregnancy for at least 4 weeks before beginning REVLIMID therapy, during therapy, during dose interruptions and for at least 4 weeks after completing therapy.
 
 Females must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control, beginning 4 weeks prior to initiating treatment with REVLIMID, during therapy, during dose interruptions and continuing for 4 weeks following discontinuation of REVLIMID therapy.
 
 Two negative pregnancy tests must be obtained prior to initiating therapy.
 The first test should be performed within 10-14 days and the second test within 24 hours prior to prescribing REVLIMID therapy and then weekly during the first month, then monthly thereafter in females with regular menstrual cycles or every 2 weeks in females with irregular menstrual cycles [see Use in Specific Populations (8.3)].
 
-Males Lenalidomide is present in the semen of patients receiving the drug.
+Males
+
+Lenalidomide is present in the semen of patients receiving the drug.
 Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID and for up to 4 weeks after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
 Male patients taking REVLIMID must not donate sperm [see Use in Specific Populations (8.3)].
 
-Blood Donation Patients must not donate blood during treatment with REVLIMID and for 4 weeks following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to REVLIMID.
+Blood Donation
+
+Patients must not donate blood during treatment with REVLIMID and for 4 weeks following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to REVLIMID.
 
 ## 5.2 REVLIMID REMS Program
 
@@ -41,19 +47,24 @@ Monitor patients with neutropenia for signs of infection.
 Advise patients to observe for bleeding or bruising, especially with use of concomitant medication that may increase risk of bleeding.
 Patients taking REVLIMID should have their complete blood counts assessed periodically as described below [see Dosage and Administration (2.1, 2.2, 2.3)].
 
-Patients taking REVLIMID in combination with dexamethasone or as REVLIMID maintenance therapy for MM should have their complete blood counts (CBC) assessed every 7 days (weekly) for the first 2 cycles, on Days 1 and 15 of Cycle 3, and every 28 days (4 weeks) thereafter.
+Monitor complete blood counts (CBC) in patients taking REVLIMID in combination with dexamethasone or as REVLIMID maintenance therapy for MM every 7 days (weekly) for the first 2 cycles, on Days 1 and 15 of Cycle 3, and every 28 days (4 weeks) thereafter.
 A dose interruption and/or dose reduction may be required [see Dosage and Administration (2.1)].
 In the MM maintenance therapy trials, Grade 3 or 4 neutropenia was reported in up to 59% of REVLIMID-treated patients and Grade 3 or 4 thrombocytopenia in up to 38% of REVLIMID-treated patients [see Adverse Reactions (6.1)].
 
-Patients taking REVLIMID for MDS should have their complete blood counts monitored weekly for the first 8 weeks and at least monthly thereafter.
+Monitor complete blood counts (CBC) in patients taking REVLIMID for MDS weekly for the first 8 weeks and at least monthly thereafter.
 Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the MDS study.
 In the 48% of patients who developed Grade 3 or 4 neutropenia, the median time to onset was 42 days (range, 14-411 days), and the median time to documented recovery was 17 days (range, 2-170 days).
 In the 54% of patients who developed Grade 3 or 4 thrombocytopenia, the median time to onset was 28 days (range, 8-290 days), and the median time to documented recovery was 22 days (range, 5-224 days) [see Boxed Warning and Dosage and Administration (2.2)].
 
-Patients taking REVLIMID for MCL should have their complete blood counts monitored weekly for the first cycle (28 days), every 2 weeks during cycles 2-4, and then monthly thereafter.
+Monitor complete blood counts (CBC) in patients taking REVLIMID for MCL weekly for the first cycle (28 days), every 2 weeks during cycles 2-4, and then monthly thereafter.
 Patients may require dose interruption and/or dose reduction.
 In the MCL trial, Grade 3 or 4 neutropenia was reported in 43% of the patients.
 Grade 3 or 4 thrombocytopenia was reported in 28% of the patients.
+
+Monitor complete blood counts (CBC) in patients taking REVLIMID for FL or MZL weekly for the first 3 weeks of Cycle 1 (28 days), every 2 weeks during Cycles 2-4, and then monthly thereafter.
+Patients may require dose interruption and/or dose reduction.
+In the AUGMENT and MAGNIFY trials, Grade 3 or 4 neutropenia was reported in 50% and 33%, respectively, of patients in the REVLIMID/rituximab arm.
+Grade 3 or 4 thrombocytopenia was reported in 2% and 8%, respectively, of patients in the REVLIMID/rituximab arm [see Adverse Reactions (6.1)].
 
 ## 5.4 Venous and Arterial Thromboembolism
 
@@ -73,6 +84,9 @@ In controlled clinical trials that did not use concomitant thromboprophylaxis, 2
 The median time to first thrombosis event was 2.8 months.
 In the NDMM study in which nearly all patients received antithrombotic prophylaxis, the overall frequency of thrombotic events was 17.4% in patients in the combined Rd Continuous and Rd18 Arms, and was 11.6% in the MPT Arm.
 The median time to first thrombosis event was 4.3 months in the combined Rd Continuous and Rd18 Arms.
+
+In the AUGMENT trial, the incidence of VTE (including DVT and PE) in FL or MZL patients was 3.4% in the REVLIMID/rituximab arm [see Adverse Reactions (6.1)].
+In the AUGMENT trial, the incidence of ATE (including MI) in FL or MZL patients was 0.6% in the REVLIMID/rituximab arm [see Adverse Reactions (6.1)].
 
 Thromboprophylaxis is recommended.
 The regimen of thromboprophylaxis should be based on an assessment of the patient's underlying risks.
@@ -105,6 +119,12 @@ Patients who received REVLIMID-containing therapy until disease progression did 
 Monitor patients for the development of second primary malignancies.
 Take into account both the potential benefit of REVLIMID and the risk of second primary malignancies when considering treatment with REVLIMID.
 
+In the AUGMENT trial with FL or MZL patients receiving REVLIMID/rituximab therapy, hematologic plus solid tumor SPMs, notably AML, have been observed.
+In the AUGMENT trial, hematologic SPM of AML occurred in 0.6% of patients with FL or MZL receiving REVLIMID/rituximab therapy.
+The incidence of hematologic plus solid tumor SPMs (excluding nonmelanoma skin cancers) was 1.7% in the REVLIMID/rituximab arm with a median follow-up of 29.8 months (range 0.5 to 51.3 months) [see Adverse Reactions (6.1)].
+Monitor patients for the development of second primary malignancies.
+Take into account both the potential benefit of REVLIMID and the risk of second primary malignancies when considering treatment with REVLIMID.
+
 ## 5.7 Increased Mortality in Patients with MM When Pembrolizumab Is Added to a Thalidomide Analogue and Dexamethasone
 
 In two randomized clinical trials in patients with MM, the addition of pembrolizumab to a thalidomide analogue plus dexamethasone, a use for which no PD-1 or PD-L1 blocking antibody is indicated, resulted in increased mortality.
@@ -112,7 +132,7 @@ Treatment of patients with MM with a PD-1 or PD-L1 blocking antibody in combinat
 
 ## 5.8 Hepatotoxicity
 
-Hepatic failure, including fatal cases, has occurred in patients treated with lenalidomide in combination with dexamethasone.
+Hepatic failure, including fatal cases, has occurred in patients treated with REVLIMID in combination with dexamethasone.
 In clinical trials, 15% of patients experienced hepatotoxicity (with hepatocellular, cholestatic and mixed characteristics); 2% of patients with MM and 1% of patients with myelodysplasia had serious hepatotoxicity events.
 The mechanism of drug-induced hepatotoxicity is unknown.
 Pre-existing viral liver disease, elevated baseline liver enzymes, and concomitant medications may be risk factors.
@@ -131,22 +151,28 @@ REVLIMID must be discontinued for angioedema, Grade 4 rash, exfoliative or bullo
 
 ## 5.10 Tumor Lysis Syndrome
 
-Fatal instances of tumor lysis syndrome have been reported during treatment with lenalidomide.
-The patients at risk of tumor lysis syndrome are those with high tumor burden prior to treatment.
-These patients should be monitored closely and appropriate precautions taken.
+Fatal instances of tumor lysis syndrome (TLS) have been reported during treatment with REVLIMID.
+The patients at risk of TLS are those with high tumor burden prior to treatment.
+Monitor patients at risk closely and take appropriate preventive approaches.
+In the AUGMENT trial in FL or MZL patients, TLS occurred in 2 patients (1.1%) in the REVLIMID/rituximab arm.
+TLS occurred in 1 patient (0.5%) in the MAGNIFY trial during the REVLIMID/rituximab induction period; the event was a serious, Grade 3 adverse reaction.
 
 ## 5.11 Tumor Flare Reaction
 
-Tumor flare reaction has occurred during investigational use of lenalidomide for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
+Tumor flare reaction (TFR) has occurred during investigational use of REVLIMID for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
 REVLIMID is not indicated and not recommended for use in CLL outside of controlled clinical trials.
 
-Monitoring and evaluation for tumor flare reaction (TFR) is recommended in patients with MCL.
+Monitoring and evaluation for TFR is recommended in patients with MCL, FL, or MZL.
 Tumor flare reaction may mimic progression of disease (PD).
+
 In the MCL trial, 13/134 (10%) of subjects experienced TFR; all reports were Grade 1 or 2 in severity.
-All of the events occurred in cycle 1 and one patient developed TFR again in cycle 11.
-Lenalidomide may be continued in patients with Grade 1 and 2 TFR without interruption or modification, at the physician's discretion.
+All of the events occurred in Cycle 1 and one patient developed TFR again in Cycle 11.
+In the AUGMENT trial in FL or MZL patients, TFR was reported in 19/176 (10.8%) of patients in REVLIMID with rituximab arm; one patient in the REVLIMID/rituximab arm experienced a Grade 3 TFR.
+In the MAGNIFY trial, 9/222 (4.1%) of patients experienced TFR; all reports were Grade 1 or 2 in severity and 1 event was considered as serious.
+
+REVLIMID may be continued in patients with Grade 1 and 2 TFR without interruption or modification, at the physician's discretion.
 Patients with Grade 1 and 2 TFR may also be treated with corticosteroids, non-steroidal anti-inflammatory drugs (NSAIDs) and/or narcotic analgesics for management of TFR symptoms.
-In patients with Grade 3 or 4 TFR, it is recommended to withhold treatment with lenalidomide until TFR resolves to ≤ Grade 1.
+In patients with Grade 3 or 4 TFR, it is recommended to withhold treatment with REVLIMID until TFR resolves to ≤ Grade 1.
 Patients with Grade 3 or 4 TFR may be treated for management of symptoms per the guidance for treatment of Grade 1 and 2 TFR.
 
 ## 5.12 Impaired Stem Cell Mobilization
@@ -163,4 +189,4 @@ Measure thyroid function before start of REVLIMID treatment and during therapy.
 ## 5.14 Early Mortality in Patients with MCL
 
 In another MCL study, there was an increase in early deaths (within 20 weeks), 12.9% in the REVLIMID arm versus 7.1% in the control arm.
-On exploratory multivariate analysis, risk factors for early deaths include high tumor burden, MIPI score at diagnosis, and high WBC at baseline (≥ 10 x 109/L).
+On exploratory multivariate analysis, risk factors for early deaths include high tumor burden, MIPI score at diagnosis, and high WBC at baseline (≥ 10 × 109/L).

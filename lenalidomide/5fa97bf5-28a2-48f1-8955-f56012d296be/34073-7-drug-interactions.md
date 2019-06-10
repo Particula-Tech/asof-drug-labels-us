@@ -3,7 +3,7 @@
 ## 7.1 Digoxin
 
 When digoxin was co-administered with multiple doses of REVLIMID (10 mg/day) the digoxin Cmax and AUCinf were increased by 14%.
-Periodic monitoring of digoxin plasma levels, in accordance with clinical judgment and based on standard clinical practice in patients receiving this medication, is recommended during administration of REVLIMID.
+Periodically monitor digoxin plasma levels, in accordance with clinical judgment and based on standard clinical practice in patients receiving this medication, during administration of REVLIMID.
 
 ## 7.2 Concomitant Therapies That May Increase the Risk of Thrombosis
 

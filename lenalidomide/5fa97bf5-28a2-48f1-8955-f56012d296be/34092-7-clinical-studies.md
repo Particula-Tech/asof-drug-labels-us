@@ -34,38 +34,40 @@ The median time to first response was 1.8 months in the Rd Continuous arm versus
 For the interim OS analysis with 03 March 2014 data cutoff, the median follow-up time for all surviving patients is 45.5 months, with 697 death events, representing 78% of prespecified events required for the planned final OS analysis (697/896 of the final OS events).
 The observed OS HR was 0.75 for Rd Continuous versus MPT (95% CI = 0.62, 0.90).
 
-Table 12: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Population)
+Table 13: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Population)
 
 |  | Rd Continuous (N = 535) | Rd18 (N = 541) | MPT (N = 547) |
 | --- | --- | --- | --- |
-| PFS – IRAC (months)g |  |  |  |
-| Number of PFS events | 278 (52.0) | 348 (64.3) | 334 (61.1) |
-| Mediana PFS time, months (95% CI)b | 25.5 (20.7, 29.4) | 20.7 (19.4, 22.0) | 21.2 (19.3, 23.2) |
-| HR [95% CI]c; p-valued |  |  |  |
+| PFS – IRAC (months)Data cutoff date = 24 May 2013. |  |  |  |
+| Number of PFS events | 278 (52) | 348 (64.3) | 334 (61.1) |
+| MedianThe median is based on the Kaplan-Meier estimate. PFS time, months (95% CI)The 95% Confidence Interval (CI) about the median. | 25.5 (20.7, 29.4) | 20.7 (19.4, 22) | 21.2 (19.3, 23.2) |
+| HR [95% CI]Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms.; p-valueThe p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms. |  |  |  |
 | Rd Continuous vs MPT | 0.72 (0.61, 0.85); <0.0001 |  |  |
 | Rd Continuous vs Rd18 | 0.70 (0.60, 0.82) |  |  |
 | Rd18 vs MPT | 1.03 (0.89, 1.20) |  |  |
-| Overall Survival (months)h |  |  |  |
+| Overall Survival (months)Data cutoff date = 3 March 2014. |  |  |  |
 | Number of Death events | 208 (38.9) | 228 (42.1) | 261 (47.7) |
-| Mediana OS time, months (95% CI)b | 58.9 (56.0, NE)f | 56.7 (50.1, NE) | 48.5 (44.2, 52.0) |
-| HR [95% CI]c |  |  |  |
+| Median OS time, months (95% CI) | 58.9 (56, NE)Including patients with no response assessment data or whose only assessment was "response not evaluable." | 56.7 (50.1, NE) | 48.5 (44.2, 52) |
+| HR [95% CI] |  |  |  |
 | Rd Continuous vs MPT | 0.75 (0.62, 0.90) |  |  |
 | Rd Continuous vs Rd18 | 0.91 (0.75, 1.09) |  |  |
 | Rd18 vs MPT | 0.83 (0.69, 0.99) |  |  |
-| Response Ratee – IRAC, n (%)g |  |  |  |
+| Response RateBest assessment of response during the treatment phase of the study. – IRAC, n (%) |  |  |  |
 | CR | 81 (15.1) | 77 (14.2) | 51 (9.3) |
 | VGPR | 152 (28.4) | 154 (28.5) | 103 (18.8) |
 | PR | 169 (31.6) | 166 (30.7) | 187 (34.2) |
 | Overall response: CR, VGPR, or PR | 402 (75.1) | 397 (73.4) | 341 (62.3) |
-| CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide; VGPR = very good partial response; vs = versus. a The median is based on the Kaplan-Meier estimate. b The 95% Confidence Interval (CI) about the median. c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms. d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms. e Best assessment of response during the treatment phase of the study. f Including patients with no response assessment data or whose only assessment was "response not evaluable." g Data cutoff date = 24 May 2013. h Data cutoff date = 3 March 2014. |  |  |  |
+| CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = REVLIMID; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide; VGPR = very good partial response; vs = versus. |  |  |  |
 
-| Kaplan-Meier Curves of Progression-free Survival Based on IRAC Assessment (ITT Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 24 May 2013 |
+| Kaplan-Meier Curves of Progression-free Survival Based on IRAC Assessment (ITT MM Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 24 May 2013 |
 | --- |
-| CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; P = prednisone; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide. |
 
-| Kaplan-Meier Curves of Overall Survival (ITT Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 03 Mar 2014 |
+CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; P = prednisone; R = REVLIMID; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide.
+
+| Kaplan-Meier Curves of Overall Survival (ITT MM Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 03 Mar 2014 |
 | --- |
-| CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; M = melphalan; P = prednisone; R = lenalidomide; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤18 cycles; T = thalidomide. |
+
+CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; M = melphalan; P = prednisone; R = REVLIMID; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤18 cycles; T = thalidomide.
 
 Randomized, Placebo-Controlled Clinical Trials - Maintenance Following Auto-HSCT:
 
@@ -81,16 +83,16 @@ In both studies, the REVLIMID maintenance dose was 10 mg once daily on days 1-28
 The dose was reduced, or treatment was temporarily interrupted or stopped, as needed to manage toxicity.
 A dose increase to 15 mg once daily occurred in 135 patients (58%) in Maintenance Study 1, and in 185 patients (60%) in Maintenance Study 2.
 
-The demographics and disease-related baseline characteristics of the patients were similar across the two studies and reflected a typical MM population after auto-HSCT (see Table 13).
+The demographics and disease-related baseline characteristics of the patients were similar across the two studies and reflected a typical MM population after auto-HSCT (see Table 14).
 
-Table 13: Baseline Demographic and Disease-Related Characteristics – Maintenance Studies 1 and 2
+Table 14: Baseline Demographic and Disease-Related Characteristics – MM Maintenance Studies 1 and 2
 
-|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
-| --- | --- | --- | --- | --- |
 |  | REVLIMID N = 231 | Placebo N = 229 | REVLIMID N = 307 | Placebo N = 307 |
+| --- | --- | --- | --- | --- |
+|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
 | Age (years) |  |  |  |  |
-| Median | 58.0 | 58.0 | 57.5 | 58.1 |
-| (Min, max) | (29.0, 71.0) | (39.0, 71.0) | (22.7, 68.3) | (32.3, 67.0) |
+| Median | 58 | 58 | 57.5 | 58.1 |
+| (Min, max) | (29, 71) | (39, 71) | (22.7, 68.3) | (32.3, 67) |
 | Sex, n (%) |  |  |  |  |
 | Male | 121 (52) | 129 (56) | 169 (55) | 181 (59) |
 | Female | 110 (48) | 100 (44) | 138 (45) | 126 (41) |
@@ -115,19 +117,18 @@ In both studies, the primary analysis of PFS at unblinding was significantly lon
 For both studies, PFS was updated with a cutoff date of 1 March 2015 as shown in the table and the following Kaplan Meier graphs.
 With longer follow-up (median 72.4 and 86.0 months, respectively), the updated PFS analyses for both studies continue to show a PFS advantage for REVLIMID compared to placebo: Maintenance Study 1 HR 0.38 (95% CI: 0.28-0.50) with median PFS of 68.6 months and Maintenance Study 2 HR 0.53 (95% CI: 0.44-0.64) with median PFS of 46.3 months.
 
-Descriptive analysis of OS data with a cutoff date of 1 February 2016 are provided in Table 14.
+Descriptive analysis of OS data with a cutoff date of 1 February 2016 are provided in Table 15.
 Median follow-up time was 81.6 and 96.7 months for Maintenance Study 1 and Maintenance Study 2, respectively.
 Median OS was 111.0 and 84.2 months for REVLIMID and placebo, respectively, for Maintenance Study 1, and 105.9 and 88.1 months, for REVLIMID and placebo, respectively, for Maintenance Study 2.
 
-Table 14: Progression-free Survival and Overall Survival from Randomization in Maintenance Studies 1 and 2 (ITT Post-Auto-HSCT Population)
+Table 15: Progression-free Survival and Overall Survival from Randomization in MM Maintenance Studies 1 and 2 (ITT Post-Auto-HSCT Population)
 
-|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
-| --- | --- | --- | --- | --- |
 |  | REVLIMID N = 231 | Placebo N = 229 | REVLIMID N = 307 | Placebo N = 307 |
+| --- | --- | --- | --- | --- |
+|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
 | PFS at Unblinding |  |  |  |  |
-| PFS Events n (%) |  |  |  |  |
-|  | 46 (20) | 98 (43) | 103 (34) | 160 (52) |
-| Median in months [95% CI] | 33.9 [NE, NE] | 19.0 [16.2, 25.6] | 41.2 [38.3, NE] | 23.0 [21.2, 28.0] |
+| PFS Events n (%) | 46 (20) | 98 (43) | 103 (34) | 160 (52) |
+| Median in months [95% CI] | 33.9 [NE, NE] | 19 [16.2, 25.6] | 41.2 [38.3, NE] | 23.0 [21.2, 28.0] |
 | Hazard Ratio [95% CI] | 0.38 [0.27, 0.54] |  | 0.50 [0.39, 0.64] |  |
 | Log-rank Test p-value | <0.001 |  | <0.001 |  |
 | PFS at Updated Analysis 1 March 2015 (Studies 1 and 2) |  |  |  |  |
@@ -136,23 +137,25 @@ Table 14: Progression-free Survival and Overall Survival from Randomization in M
 | Hazard Ratio [95% CI] | 0.38 [0.28, 0.50] |  | 0.53 [0.44, 0.64] |  |
 | OS at Updated Analysis 1 Feb 2016 (Studies 1 and 2) |  |  |  |  |
 | OS Events n (%) | 82 (35) | 114 (50) | 143 (47) | 160 (52) |
-| Median in months [95% CI] | 111.0 [101.8, NE] | 84.2 [71.0, 102.7] | 105.9 [88.8, NE] | 88.1 [80.7, 108.4] |
+| Median in months [95% CI] | 111 [101.8, NE] | 84.2 [71.0, 102.7] | 105.9 [88.8, NE] | 88.1 [80.7, 108.4] |
 | Hazard Ratio [95% CI] | 0.59 [0.44, 0.78] |  | 0.90 [0.72, 1.13] |  |
-| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively. Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent to treat; NE = not estimable; PFS = progression-free survival. PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (lenalidomide:placebo). |  |  |  |  |
+| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively. Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent to treat; NE = not estimable; PFS = progression-free survival. PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (REVLIMID:placebo). |  |  |  |  |
 
-| Kaplan-Meier Curves of Progression-free Survival from Randomization (ITT Post-Auto-HSCT Population) in Maintenance Study 1 between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015) |
+| Kaplan-Meier Curves of Progression-free Survival from Randomization (ITT Post-Auto-HSCT Population) in MM Maintenance Study 1 between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015) |
 | --- |
-| Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; PFS = progression-free survival; vs = versus. |
 
-| Kaplan-Meier Curves of Progression-free Survival from Randomization (ITT Post-Auto-HSCT Population) in Maintenance Study 2 between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015) |
+Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; PFS = progression-free survival; vs = versus.
+
+| Kaplan-Meier Curves of Progression-free Survival from Randomization (ITT Post-Auto-HSCT Population) in MM Maintenance Study 2 between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015) |
 | --- |
-| Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; NE = not estimable; PFS = progression-free survival; vs = versus. |
+
+Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; NE = not estimable; PFS = progression-free survival; vs = versus.
 
 Randomized, Open-Label Clinical Studies in Patients with MM After At Least One Prior Therapy
 
 Two randomized studies (Studies 1 and 2) were conducted to evaluate the efficacy and safety of REVLIMID.
 These multicenter, multinational, double-blind, placebo-controlled studies compared REVLIMID plus oral pulse high-dose dexamethasone therapy to dexamethasone therapy alone in patients with MM who had received at least one prior treatment.
-These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
+These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 × upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
 
 In both studies, patients in the REVLIMID/dexamethasone group took 25 mg of REVLIMID orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
 Patients in the placebo/dexamethasone group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle.
@@ -164,25 +167,37 @@ In both studies, treatment was to continue until disease progression.
 In both studies, dose adjustments were allowed based on clinical and laboratory findings.
 Sequential dose reductions to 15 mg daily, 10 mg daily and 5 mg daily were allowed for toxicity [see Dosage and Administration (2.1)].
 
-Table 15 summarizes the baseline patient and disease characteristics in the two studies.
+Table 16 summarizes the baseline patient and disease characteristics in the two studies.
 In both studies, baseline demographic and disease-related characteristics were comparable between the REVLIMID/dexamethasone and placebo/dexamethasone groups.
 
-Table 15: Baseline Demographic and Disease-Related Characteristics – Studies 1 and 2
+Table 16: Baseline Demographic and Disease-Related Characteristics – MM Studies 1 and 2
 
-|  | Study 1 |  | Study 2 |  |
+| REVLIMID/Dex N=177 | Placebo/Dex N=176 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |  |
 | --- | --- | --- | --- | --- |
-|  | REVLIMID/Dex N=177 | Placebo/Dex N=176 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |
+|  | Study 1 |  | Study 2 |  |
 | Patient Characteristics |  |  |  |  |
-| Age (years) Median Min, Max | 64 36, 86 | 62 37, 85 | 63 33, 84 | 64 40, 82 |
-| Sex Male Female | 106 (60%) 71 (40%) | 104 (59%) 72 (41%) | 104 (59%) 72 (41%) | 103 (59%) 72 (41%) |
-| Race/Ethnicity White Other | 141(80%) 36 (20%) | 148 (84%) 28 (16%) | 172 (98%) 4 (2%) | 175 (100%) 0 (0%) |
-| ECOG Performance Status 0-1 | 157 (89%) | 168 (95%) | 150 (85%) | 144 (82%) |
+| Age (years) |  |  |  |  |
+| Median | 64 | 62 | 63 | 64 |
+| Min, Max | 36, 86 | 37, 85 | 33, 84 | 40, 82 |
+| Sex |  |  |  |  |
+| Male | 106 (60%) | 104 (59%) | 104 (59%) | 103 (59%) |
+| Female | 71 (40%) | 72 (41%) | 72 (41%) | 72 (41%) |
+| Race/Ethnicity |  |  |  |  |
+| White | 141(80%) | 148 (84%) | 172 (98%) | 175 (100%) |
+| Other | 36 (20%) | 28 (16%) | 4 (2%) | 0 (0%) |
+| ECOG Performance |  |  |  |  |
+| Status 0-1 | 157 (89%) | 168 (95%) | 150 (85%) | 144 (82%) |
 | Disease Characteristics |  |  |  |  |
-| Multiple Myeloma Stage (Durie- Salmon) |  |  |  |  |
-| I II III | 3% 32% 64% | 3% 31% 66% | 6% 28% 65% | 5% 33% 63% |
-| β2-microglobulin (mg/L) ≤ 2.5 mg/L > 2.5 mg/L | 52 (29%) 125 (71%) | 51 (29%) 125 (71%) | 51 (29%) 125 (71%) | 48 (27%) 127 (73%) |
+| Multiple Myeloma Stage (Durie-Salmon) |  |  |  |  |
+| I | 3% | 3% | 6% | 5% |
+| II | 32% | 31% | 28% | 33% |
+| III | 64% | 66% | 65% | 63% |
+| β2-microglobulin (mg/L) |  |  |  |  |
+| ≤ 2.5 mg/L | 52 (29%) | 51 (29%) | 51 (29%) | 48 (27%) |
+| > 2.5 mg/L | 125 (71%) | 125 (71%) | 125 (71%) | 127 (73%) |
 | Number of Prior Therapies |  |  |  |  |
-| 1 ≥ 2 | 38% 62% | 38% 62% | 32% 68% | 33% 67% |
+| 1 | 38% | 38% | 32% | 33% |
+| ≥ 2 | 62% | 62% | 68% | 67% |
 | Types of Prior Therapies |  |  |  |  |
 | Stem Cell Transplantation | 62% | 61% | 55% | 54% |
 | Thalidomide | 42% | 46% | 30% | 38% |
@@ -200,11 +215,11 @@ For both studies, the extended follow-up survival data with crossovers were anal
 In study 1, the median survival time was 39.4 months (95%CI: 32.9, 47.4) in REVLIMID/dexamethasone group and 31.6 months (95% CI: 24.1, 40.9) in placebo/dexamethasone group, with a hazard ratio of 0.79 (95% CI: 0.61-1.03).
 In study 2, the median survival time was 37.5 months (95%CI: 29.9, 46.6) in REVLIMID/dexamethasone group and 30.8 months (95%CI: 23.5, 40.3) in placebo/dexamethasone group, with a hazard ratio of 0.86 (95% CI: 0.65-1.14).
 
-Table 16: TTP Results in Study 1 and Study 2
+Table 17: TTP Results in MM Study 1 and Study 2
 
-|  | Study 1 |  | Study 2 |  |
+| REVLIMID/Dex N=177 | Placebo/Dex N=176 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |  |
 | --- | --- | --- | --- | --- |
-|  | REVLIMID/Dex N=177 | Placebo/Dex N=176 | REVLIMID/Dex N=176 | Placebo/Dex N=175 |
+|  | Study 1 |  | Study 2 |  |
 | TTP |  |  |  |  |
 | Events n (%) | 73 (41) | 120 (68) | 68 (39) | 130 (74) |
 | Median TTP in months [95% CI] | 13.9 [9.5, 18.5] | 4.7 [3.7, 4.9] | 12.1 [9.5, NE] | 4.7 [3.8, 4.8] |
@@ -217,9 +232,11 @@ Table 16: TTP Results in Study 1 and Study 2
 | p-value | <0.001 |  | <0.001 |  |
 | Odds Ratio [95% CI] | 6.38 [3.95, 10.32] |  | 4.72 [2.98, 7.49] |  |
 
-| Kaplan-Meier Estimate of Time to Progression — Study 1 |
+| Kaplan-Meier Estimate of Time to Progression — MM Study 1 |
 | --- |
-| Kaplan-Meier Estimate of Time to Progression — Study 2 |
+
+| Kaplan-Meier Estimate of Time to Progression — MM Study 2 |
+| --- |
 
 ## 14.2 Myelodysplastic Syndromes (MDS) with a Deletion 5q Cytogenetic Abnormality
 
@@ -229,41 +246,40 @@ Sequential dose reductions to 5 mg daily and 5 mg every other day, as well as do
 
 This major study enrolled 148 patients who had RBC transfusion dependent anemia.
 RBC transfusion dependence was defined as having received ≥ 2 units of RBCs within 8 weeks prior to study treatment.
-The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
+The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 × upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
 Granulocyte colony-stimulating factor was permitted for patients who developed neutropenia or fever in association with neutropenia.
-Baseline patient and disease-related characteristics are summarized in Table 17.
+Baseline patient and disease-related characteristics are summarized in Table 18.
 
-Table 17: Baseline Demographic and Disease-Related Characteristics in the MDS Study
+Table 18: Baseline Demographic and Disease-Related Characteristics in the MDS Study
 
-|  | Overall (N=148) |  |  |
-| --- | --- | --- | --- |
-| Age (years) |  |  |  |
-| Median | 71.0 |  |  |
-| Min, Max | 37.0, 95.0 |  |  |
-| Gender | n | (%) |  |
-| Male | 51 | (34.5) |  |
-| Female | 97 | (65.5) |  |
-| Race | n | (%) |  |
-| White | 143 | (96.6) |  |
-| Other | 5 | (3.4) |  |
-| Duration of MDS (years) |  |  |  |
-| Median | 2.5 |  |  |
-| Min, Max | 0.1, 20.7 |  |  |
-| Del 5 (q31-33) Cytogenetic Abnormality | n | (%) |  |
-| Yes | 148 | (100.0) |  |
-| Other cytogenetic abnormalities | 37 | (25.2) |  |
-| IPSS Score a | n | (%) |  |
-| Low (0) | 55 | (37.2) |  |
-| Intermediate-1 (0.5-1.0) | 65 | (43.9) |  |
-| Intermediate-2 (1.5-2.0) | 6 | (4.1) |  |
-| High (≥2.5) | 2 | (1.4) |  |
-| Missing | 20 | (13.5) |  |
-| FAB Classification b from central review | n | (%) |  |
-| RA | 77 | (52.0) |  |
-| RARS | 16 | (10.8) |  |
-| RAEB | 30 | (20.3) |  |
-| CMML | 3 | (2.0) |  |
-| a IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1.0), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score). b French-American-British (FAB) classification of MDS. |  |  |  |
+|  |  | Overall (N=148) |
+| --- | --- | --- |
+| Age (years) |  |  |
+| Median |  | 71 |
+| Min, Max |  | 37, 95 |
+| Gender | n | (%) |
+| Male | 51 | (34.5) |
+| Female | 97 | (65.5) |
+| Race | n | (%) |
+| White | 143 | (96.6) |
+| Other | 5 | (3.4) |
+| Duration of MDS (years) |  |  |
+| Median |  | 2.5 |
+| Min, Max |  | 0.1, 20.7 |
+| Del 5 (q31-33) Cytogenetic Abnormality | n | (%) |
+| Yes | 148 | (100) |
+| Other cytogenetic abnormalities | 37 | (25.2) |
+| IPSS ScoreIPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score). | n | (%) |
+| Low (0) | 55 | (37.2) |
+| Intermediate-1 (0.5-1.0) | 65 | (43.9) |
+| Intermediate-2 (1.5-2.0) | 6 | (4.1) |
+| High (≥2.5) | 2 | (1.4) |
+| Missing | 20 | (13.5) |
+| FAB Classification French-American-British (FAB) classification of MDS. from central review | n | (%) |
+| RA | 77 | (52) |
+| RARS | 16 | (10.8) |
+| RAEB | 30 | (20.3) |
+| CMML | 3 | (2) |
 
 The frequency of RBC transfusion independence was assessed using criteria modified from the International Working Group (IWG) response criteria for MDS.
 RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive "rolling" 56 days (8 weeks) during the treatment period.
@@ -280,46 +296,171 @@ The median interval between the first and second dose reduction or interruption 
 
 ## 14.3 Mantle Cell Lymphoma
 
-A multicenter, single-arm, open-label trial of single-agent lenalidomide was conducted to evaluate the safety and efficacy of lenalidomide in patients with mantle cell lymphoma who have relapsed after or were refractory to bortezomib or a bortezomib-containing regimen.
-Patients with a creatinine clearance ≥60 mL/min were given lenalidomide at a dose of 25 mg once daily for 21 days every 28 days.
-Patients with a creatinine clearance ≥30 mL/min and <60 mL/min were given lenalidomide at a dose of 10 mg once daily for 21 days every 28 days.
+A multicenter, single-arm, open-label trial of single-agent REVLIMID was conducted to evaluate the safety and efficacy of REVLIMID in patients with mantle cell lymphoma who have relapsed after or were refractory to bortezomib or a bortezomib-containing regimen.
+Patients with a creatinine clearance ≥60 mL/min were given REVLIMID at a dose of 25 mg once daily for 21 days every 28 days.
+Patients with a creatinine clearance ≥30 mL/min and <60 mL/min were given REVLIMID at a dose of 10 mg once daily for 21 days every 28 days.
 Treatment was continued until disease progression, unacceptable toxicity, or withdrawal of consent.
 
 The trial included patients who were at least 18 years of age with biopsy-proven MCL with measurable disease by CT scan.
 Patients were required to have received prior treatment with an anthracycline or mitoxantrone, cyclophosphamide, rituximab, and bortezomib, alone or in combination.
 Patients were required to have documented refractory disease (defined as without any response of PR or better during treatment with bortezomib or a bortezomib-containing regimen), or relapsed disease (defined as progression within one year after treatment with bortezomib or a bortezomib-containing regimen).
-At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3x upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 x ULN except in cases of Gilbert's syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
+At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3× upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 × ULN except in cases of Gilbert's syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
 
 The median age was 67 years (43-83), 81% were male and 96% were Caucasian.
 The table below summarizes the baseline disease-related characteristics and prior anti-lymphoma therapy in the Mantle Cell Lymphoma trial.
 
-Table 18: Baseline Disease-related Characteristics and Prior Anti –Lymphoma Therapy in Mantle Cell Lymphoma Trial
+Table 19: Baseline Disease-related Characteristics and Prior Anti –Lymphoma Therapy in Mantle Cell Lymphoma Trial
 
-| Baseline Disease Characteristics and Prior Anti - Lymphoma Treatment | Total Patients (N=134) |
+| Baseline Disease Characteristics and Prior Anti -Lymphoma Treatment | Total Patients (N=134) |
 | --- | --- |
-| ECOG Performance Statusa n (%) 0 1 2 3 | 43 (32) 73 (54) 17 (13) 1 (<1) |
-| Advanced MCL Stage, n (%) III IV | 27 (20) 97 (72) |
-| High or Intermediate MIPI Score b, n (%) | 90 (67) |
-| High Tumor Burdenc, n (%) | 77 (57) |
-| Bulky Diseased, n (%) | 44 (33) |
+| ECOG Performance StatusECOG = Eastern Cooperative Oncology Group.n (%) |  |
+| 0 | 43 (32) |
+| 1 | 73 (54) |
+| 2 | 17 (13) |
+| 3 | 1 (<1) |
+| Advanced MCL Stage, n (%) |  |
+| III | 27 (20) |
+| IV | 97 (72) |
+| High or Intermediate MIPI Score MIPI = MCL International Prognostic Index., n (%) | 90 (67) |
+| High Tumor BurdenHigh tumor burden is defined as at least one lesion that is ≥5 cm in diameter or 3 lesions that are ≥3 cm in diameter., n (%) | 77 (57) |
+| Bulky DiseaseBulky disease is defined as at least one lesion that is ≥7cm in the longest diameter., n (%) | 44 (33) |
 | Extranodal Disease, n (%) | 101 (75) |
-| Number of Prior Systemic Anti-Lymphoma Therapies, n (%) Median (range) 1 2 3 ≥ 4 | 4 (2, 10) 0 (0) 29 (22) 34 (25) 71 (53) |
-| Number of Subjects Who Received Prior Regimen Containing, n (%): Anthracycline/mitoxantrone Cyclophosphamide Rituximab Bortezomib | 133 (99) 133 (99) 134 (100) 134 (100) |
+| Number of Prior Systemic Anti-Lymphoma Therapies, n (%) |  |
+| Median (range) | 4 (2, 10) |
+| 1 | 0 (0) |
+| 2 | 29 (22) |
+| 3 | 34 (25) |
+| ≥ 4 | 71 (53) |
+| Number of Subjects Who Received Prior Regimen Containing, n (%): |  |
+| Anthracycline/mitoxantrone | 133 (99) |
+| Cyclophosphamide | 133 (99) |
+| Rituximab | 134 (100) |
+| Bortezomib | 134 (100) |
 | Refractory to Prior Bortezomib, n (%) | 81 (60) |
 | Refractory to Last Prior Therapy, n (%) | 74 (55) |
 | Prior Autologous Bone Marrow or Stem Cell Transplant, n (%) | 39 (29) |
-| a ECOG = Eastern Cooperative Oncology Group. b MIPI = MCL International Prognostic Index. c High tumor burden is defined as at least one lesion that is ≥5 cm in diameter or 3 lesions that are ≥3 cm in diameter. d Bulky disease is defined as at least one lesion that is ≥7cm in the longest diameter. |  |
 
 The efficacy endpoints in the MCL trial were overall response rate (ORR) and duration of response (DOR).
 Response was determined based on review of radiographic scans by an independent review committee according to a modified version of the International Workshop Lymphoma Response Criteria (Cheson, 1999).
 The DOR is defined as the time from the initial response (at least PR) to documented disease progression.
-The efficacy results for the MCL population were based on all evaluable patients who received at least one dose of study drug and are presented in Table 19.
+The efficacy results for the MCL population were based on all evaluable patients who received at least one dose of study drug and are presented in Table 20.
 The median time to response was 2.2 months (range 1.8 to 13 months).
 
-Table 19: Response Outcomes in the Pivotal Mantle Cell Lymphoma Trial
+Table 20: Response Outcomes in the Pivotal Mantle Cell Lymphoma Trial
 
-| Response Analyses (N = 133) | N (%) | 95% CI |
+| Response Analyses (N = 133) |  | N (%) | 95% CI |
+| --- | --- | --- | --- |
+| Overall Response Rate (IWRC) (CR + CRu +PR) |  | 34 (26) | (18.4, 33.9) |
+| Complete Response (CR + CRu) |  | 9 (7) | (3.1, 12.5) |
+| CR |  | 1 (1) |  |
+| CRu |  | 8 (6) |  |
+| Partial Response (PR) |  | 25 (19) |  |
+| Duration of Response (months) |  | Median | 95% CI |
+| Duration of Overall Response (CR + CRu + PR) | (N = 34) | 16.6 | (7.7, 26.7) |
+
+## 14.4 Follicular and Marginal Zone Lymphoma
+
+The efficacy of REVLIMID with rituximab in patients with relapsed or refractory follicular and marginal zone lymphoma was evaluated in the AUGMENT (NCT01938001) and MAGNIFY (NCT01996865) trials.
+
+AUGMENT is a randomized, double-blind, multicenter trial (n=358) in which patients with relapsed or refractory follicular or marginal zone lymphoma were randomized 1:1 to receive REVLIMID and rituximab or rituximab and placebo.
+AUGMENT included patients diagnosed with Grade 1, 2, or 3a follicular lymphoma, who received at least 1 prior systemic therapy, were refractory or relapsed, not rituximab-refractory, had at least one measurable nodal or extranodal lesion by CT or MRI scan, and had adequate bone marrow, liver, and renal function.
+Randomization was stratified by follicular versus marginal zone lymphoma, previous rituximab therapy, and time since other anti-lymphoma therapy.
+In AUGMENT, REVLIMID was administered orally 20 mg once daily for Days 1 to 21 of repeating 28-day cycles for a maximum of 12 cycles or until unacceptable toxicity.
+The dose of rituximab was 375 mg/m2 every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every 28-day cycle from Cycles 2 through 5.
+All dosage calculations for rituximab were based on the patient's body surface area (BSA), using actual patient weight.
+Dose adjustments for REVLIMID were allowed based on clinical and laboratory findings.
+A patient with moderate renal insufficiency (≥30 to <60 mL/minute) received a lower REVLIMID starting dose of 10 mg daily on the same schedule.
+After 2 cycles, the REVLIMID dose could be increased to 15 mg once daily on Days 1 to 21 of each 28-day cycle if the patient tolerated the medication.
+
+MAGNIFY is an open-label, multicenter trial (n=232) in which patients with relapsed or refractory follicular, marginal zone, or mantle cell lymphoma received 12 induction cycles of REVLIMID and rituximab.
+MAGNIFY included patients diagnosed with Grade 1, 2,3a, 3b follicular (including transformed), marginal zone, or mantle cell lymphoma Stage I to IV who were previously treated for their lymphoma, had been refractory or had a relapse after their last treatment, had at least one measurable nodal or extranodal lesion by CT or MRI scan, and had adequate bone marrow, liver, and renal function.
+Patients refractory to rituximab were also included.
+The information from the subjects who received at least 1 dose of initial therapy in the first 12 induction cycles (n=222) in the MAGNIFY trial was included in the evaluation of the efficacy of REVLIMID/rituximab in patients with relapsed or refractory follicular and marginal zone lymphoma.
+In MAGNIFY, REVLIMID 20 mg was given on Days 1-21 of repeated 28-day cycles for up to 12 cycles or until unacceptable toxicity, progression, or withdrawal of consent.
+The dose of rituximab was 375 mg/m2 every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every other 28-day cycle (Cycles 3,5,7,9, and 11) up to 12 cycles therapy.
+All dosage calculations for rituximab were based on the patient BSA and actual weight.
+Dose adjustments were allowed based on clinical and laboratory findings.
+
+The demographic and disease-related baseline characteristics in the AUGMENT and MAGNIFY trials are shown in the following table.
+
+Table 21: Baseline Demographics and Disease-Related Characteristics of Patients with FL and MZL in AUGMENT and MAGNIFY Trials
+
+| REVLIMID + Rituximab (N=178) | Rituximab + Placebo (Control Arm) (N=180) | REVLIMID + Rituximab (N=222) |  |  |
+| --- | --- | --- | --- | --- |
+| Parameter | AUGMENT Trial |  | MAGNIFY Trial |  |
+| Age (years) |  |  |  |  |
+| Median (Max, Min) | 64 (26, 86) | 62 (35, 88) | 65 (35, 91) |  |
+| Age distribution, n (%) |  |  |  |  |
+| <65 years | 96 (54) | 107 (59) | 103 (46) |  |
+| ≥65 years | 82 (46) | 73 (41) | 119 (54) |  |
+| Sex, n (%) |  |  |  |  |
+| Male | 75 (42) | 97 (54) | 122 (55) |  |
+| Female | 103 (58) | 83 (46) | 100 (45) |  |
+| Race |  |  |  |  |
+| White | 118 (66) | 115 (64) | 206 (93) |  |
+| Other races | 54 (30) | 64 (36) | 14 (6) |  |
+| Not collected or reported | 6 (3) | 1 (0.6) | 2 (1) |  |
+| Body Surface Area (BSA, m2) |  |  |  |  |
+| Median (Max, Min) | 1.8 (1.4, 3.1) | 1.8 (1.3, 2.7) | 2 (1.3, 2.6) |  |
+| Disease Type FL or MZL |  |  |  |  |
+| Follicular lymphoma | 147 (83) | 148 (82) | 177 (80) |  |
+| Marginal zone lymphoma | 31 (17) | 32 (18) | 45 (20) |  |
+| MZL subtype at diagnosis (investigator), n (%) |  |  |  |  |
+| MALT | 14 (45) | 16 (50) | 10 (22) |  |
+| Nodal | 8 (26) | 10 (31) | 25 (56) |  |
+| Splenic | 9 (29) | 6 (19) | 10 (22) |  |
+| FL stage at diagnosis (investigator), n (%) |  |  |  |  |
+| FL Grade 1-2 | 125 (85) | 123 (83) | 149 (84) |  |
+| FL Grade 3a | 22 (15) | 25 (17) | 28 (16) |  |
+| FLIPI score at baseline (calculated), n (%) |  |  | Not Collected |  |
+| Low risk (0,1) | 52 (29) | 67 (37) |  |  |
+| Intermediate risk (2) | 55 (31) | 58 (32) |  |  |
+| High risk (≥3) | 69 (39) | 54 (30) |  |  |
+| Missing | 2 (1) | 1 (0.6) |  |  |
+| ECOG score at baseline, n (%) |  |  |  |  |
+| 0 | 116 (65) | 128 (71) | 102 (46) |  |
+| 1 | 60 (34) | 50 (28) | 113 (51) |  |
+| 2 | 2 (1) | 2 (1) | 7 (3) |  |
+| High tumor burdenDefined by GELF criteria. at baseline, n (%) |  |  |  |  |
+| Yes | 97 (54) | 86 (48) | 148 (67) |  |
+| No | 81 (46) | 94 (52) | 74 (33) |  |
+| Number of prior systemic antilymphoma therapies |  |  |  |  |
+| 1 | 102 (57) | 97 (54) | 94 (42) |  |
+| >1 | 76 (43) | 83 (46) | 128 (58) |  |
+| Data Cutoff: 22 June 2018 (AUGMENT) and 1 May 2017 (MAGNIFY). |  |  |  |  |
+| ECOG = Eastern Cooperative Oncology Group; FLIPI = follicular lymphoma international prognostic index |  |  |  |  |
+| a Patient had either 0 (n=2) or 1 prior systemic therapy. |  |  |  |  |
+
+In AUGMENT, efficacy was established in the intent-to-treat (ITT) population based on progression-free survival by Independent Review Committee using modified 2007 International Working Group response criteria.
+Efficacy results are summarized in Table 22.
+
+Table 22: Efficacy Results for Patients in the AUGMENT Trial (ITT FL and MZL Population)
+
+| Parameter | REVLIMID + Rituximab (N=178) | Rituximab + Placebo (N=180) |
 | --- | --- | --- |
-| Overall Response Rate (IWRC) (CR + CRu +PR) Complete Response (CR + CRu) CR CRu Partial Response (PR) | 34 (26) 9 (7) 1 (1) 8 (6) 25 (19) | (18.4, 33.9) (3.1, 12.5) |
-| Duration of Response (months) | Median | 95% CI |
-| Duration of Overall Response (CR + CRu + PR) (N = 34) | 16.6 | (7.7, 26.7) |
+| PFS |  |  |
+| Patients with event, n (%) | 68 (38.2) | 115 (63.9) |
+| Death | 6 (8.8) | 2 (1.7) |
+| Progression of disease | 62 (91.2) | 113 (98.3) |
+| PFS, median Median estimate is from Kaplan-Meier analysis. [95% CI] (months) | 39.4 [22.9, NE] | 14.1 [11.4, 16.7] |
+| HR hazard ratio and its CI were estimated from Cox proportional hazard model adjusting for the stratification 3: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). [95% CI] | 0.46 [0.34, 0.62] |  |
+| p-value p-value from log-rank test stratified by 3 factors noted above: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). | <0.0001 |  |
+| Objective response (CR+PR), n(%) [95% CI] Exact confidence interval for binomial distribution. | 138 (77.5) [70.7, 83.4] | 96 (53.3) [45.8, 60.8] |
+
+| Kaplan-Meier Curves of Progression-free Survival by IRC Assessment Between Arms in AUGMENT Trial (ITT FL and MZL Population) |
+| --- |
+| a = Stratification factors included: previous rituximab treatment (y/n), time since last anti-lymphoma therapy (≤2 years, >2years), and disease histology (FL or MZL). CI = confidence interval; HR = hazard ratio; KM = Kaplan-Meier; PFS = progression-free survival |
+
+Follicular Lymphoma
+
+In AUGMENT, the objective response by IRC assessment for patients with follicular lymphoma was 80% (118/147) [95% CI: 73%, 86%]) in REVLIMID with rituximab arm compared to 55% (82/148) [95% CI: 47, 64] in control arm.
+
+In MAGNIFY, the overall response by investigator assessment was 59% (104/177) [95% CI: 51, 66] for patients with follicular lymphoma.
+Median duration of response was not reached with a median follow-up time of 7.9 months [95% CI: 4.6, 9.2].
+
+Marginal Zone Lymphoma
+
+In AUGMENT, the objective response by IRC assessment for patients with marginal zone lymphoma was 65% (20/31) [95% CI: 45%, 81%] in REVLIMID with rituximab arm compared to 44% (14/32) [95% CI: 26%, 62%] in control arm.
+
+In MAGNIFY, the overall response by investigator assessment was 51% (23/45) [95% CI: 36, 66] for patients with marginal zone lymphoma.
+Median duration of response was not reached with a median follow-up time of 11.5 months [95% CI: 8.0, 18.9].
