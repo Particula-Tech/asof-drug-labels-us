@@ -2,6 +2,15 @@
 
 Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store SUBOXONE sublingual film securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.4), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving SUBOXONE sublingual film unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused SUBOXONE sublingual film should be disposed of by removing the SUBOXONE sublingual film from the foil packaging, and flushing the unused medication down the toilet (if a drug take-back option is not readily available).
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Safe Use
 
 Before initiating treatment with SUBOXONE sublingual film, explain the points listed below to caregivers and patients.
@@ -10,7 +19,7 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
 - SUBOXONE sublingual film must be administered whole.
   Advise patients not to cut, chew, or swallow SUBOXONE sublingual film.
 - Inform patients and caregivers that potentially fatal additive effects may occur if SUBOXONE sublingual film is used with benzodiazepines or other CNS depressants, including alcohol.
-  Counsel patients that such medications should not be used concomitantly unless supervised bya health care provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
+  Counsel patients that such medications should not be used concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
 - Advise patients that SUBOXONE sublingual film contains an opioid that can be a target for people who abuse prescription medications or street drugs.
   Caution patients to keep their films in a safe place, and to protect them from theft.
 - Instruct patients to keep SUBOXONE sublingual film in a secure place, out of the sight and reach of children.
@@ -40,11 +49,6 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
 - Inform patients that chronic use of opioids may cause reduced fertility.
   It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 - Advise patients to inform their family members that, in the event of emergency, the treating healthcare provider or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with SUBOXONE sublingual film.
-
-Disposal of Unused SUBOXONE Sublingual Films
-
-Unused SUBOXONE sublingual films should be disposed of as soon as they are no longer needed.
-Unused films should be flushed down the toilet.
 
 Manufactured for Indivior Inc.
 
