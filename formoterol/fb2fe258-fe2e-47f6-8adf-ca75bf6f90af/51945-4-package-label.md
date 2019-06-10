@@ -4,14 +4,18 @@ NDC 49502-605-30
 
 Perforomist® (formoterol fumarate) INHALATION SOLUTION 20 mcg/2 mL vial
 
-Medication Guide For Patients Enclosed
+Patient Information for Patients Enclosed
 
-Sterile Unit Dose Vials – Individually Wrapped – For Oral Inhalation Only
+Sterile Unit Dose Vials - Individually Wrapped - For Oral Inhalation Only
 
 EACH 2 mL VIAL CONTAINS: ACTIVE: Formoterol fumarate, USP.
+
 INACTIVES: Citric acid, sodium citrate, sodium chloride, and water.
 
 CARTON CONTAINS: 30 individually wrapped 2 mL vials
+
+Discard three months after dispense date.
+Use by: ________
 
 STORAGE CONDITIONS:
 
@@ -22,6 +26,7 @@ AFTER DISPENSING TO THE PATIENT: Store in a refrigerator at 2°C to 8°C (36°F 
 Protect pouch from light and heat.
 
 VIAL SHOULD ALWAYS BE STORED IN THE FOIL POUCH, AND ONLY REMOVED IMMEDIATELY BEFORE USE.
+
 Keep out of reach of children.
 
 FOR THE HEALTHCARE PROVIDER: When Perforomist® Inhalation Solution is dispensed to the patient, inform the patient to discard the product at the expiration date on the product if storing in a refrigerator or if the patient plans on storing the drug at room temperature, write an expiration date in the “Use by” box on the carton or dispensing container.
@@ -32,14 +37,14 @@ FOR THE PATIENT: Use Perforomist® Inhalation Solution prior to the “Use by”
 
 Rx only
 
-U.S. Pat.
-Nos. 6,667,344, 6,814,953, 7,348,362, 7,462,645, and 8,623,922 Mylan Specialty L.P., Morgantown, WV 26505
-
 Manufactured for: Mylan Specialty L.P.
 Morgantown, WV 26505 U.S.A.
 
 Manufactured by: The Ritedose Corporation Columbia, SC 29203 U.S.A.
 
-MS:605:30C:R2
+U.S. Pat.
+Nos. 6,667,344, 6,814,953, 7,348,362, 7,462,645, 8,623,922, and 9,730,890
 
-RPSC0310
+Mylan Specialty L.P., Morgantown, WV 26505
+
+MS:605:30C:R3 RPSC0340

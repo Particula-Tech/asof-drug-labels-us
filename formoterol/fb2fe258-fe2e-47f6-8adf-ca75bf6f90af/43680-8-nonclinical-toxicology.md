@@ -19,5 +19,4 @@ Reproduction studies in rats revealed no impairment of fertility at oral doses u
 ## 13.2 Animal Pharmacology
 
 Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
-The clinical significance of these findings is unknown.
-[See DRUG INTERACTIONS, Xanthine Derivatives, Steroids, or Diuretics (7.2)]
+The clinical significance of these findings is unknown [see DRUG INTERACTIONS, Xanthine Derivatives, Steroids, or Diuretics (7.2)].

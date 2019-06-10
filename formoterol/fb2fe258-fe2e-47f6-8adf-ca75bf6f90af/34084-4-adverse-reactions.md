@@ -1,6 +1,7 @@
 # 6 ADVERSE REACTIONS
 
-Long-acting beta2-adrenergic agonists such as formoterol increase the risk of asthma-related death [See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Long-acting beta2-adrenergic agonists, such as PERFOROMIST, as monotherapy (without an inhaled corticosteroid) for asthma increase the risk of asthma-related events.
+PERFOROMIST is not indicated for the treatment of asthma [see WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 6.1 Beta2-Agonist Adverse Reaction Profile
 

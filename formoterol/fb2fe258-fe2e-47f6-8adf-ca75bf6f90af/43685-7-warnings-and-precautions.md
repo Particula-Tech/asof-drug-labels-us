@@ -1,21 +1,19 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Deaths
+## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
-[See BOXED WARNING]
-
-Data from a large placebo-controlled study in asthma patients showed that long-acting beta2-adrenergic agonists may increase the risk of asthma-related death.
-Data are not available to determine whether the rate of death in patients with COPD is increased by long-acting beta2-adrenergic agonists.
-
-A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
-The increased risk of asthma-related death is considered a class effect of the long-acting beta2-adrenergic agonists, including PERFOROMIST Inhalation Solution.
-No study adequate to determine whether the rate of asthma related death is increased in patients treated with PERFOROMIST Inhalation Solution has been conducted.
-The safety and efficacy of PERFOROMIST in patients with asthma have not been established.
-All LABA, including PERFOROMIST, are contraindicated in patients with asthma without the use of a long-term asthma control medication.
-[see CONTRAINDICATIONS (4)].
-
-Clinical studies with formoterol fumarate administered as a dry powder inhaler suggested a higher incidence of serious asthma exacerbations in patients who received formoterol than in those who received placebo.
-The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+- •The safety and efficacy of PERFOROMIST in patients with asthma have not been established.
+  PERFOROMIST is not indicated for the treatment of asthma [see CONTRAINDICATIONS (4)].
+- •Use of long-acting beta2-adrenergic agonists (LABA) as monotherapy [without inhaled corticosteroids (ICS)] for asthma is associated with an increased risk of asthma-related death.
+  Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+  These findings are considered a class effect of LABA monotherapy.
+  When LABA are used in fixed‑dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
+  - •A 28-week, placebo-controlled US study comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
+    The increased risk of asthma-related death is considered a class effect of the long-acting beta2-adrenergic agonists, including PERFOROMIST Inhalation Solution.
+  - •No study adequate to determine whether the rate of asthma related death is increased in patients treated with PERFOROMIST Inhalation Solution has been conducted.
+    Clinical studies with formoterol fumarate administered as a dry powder inhaler suggested a higher incidence of serious asthma exacerbations in patients who received formoterol than in those who received placebo.
+    The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+- •Available data do not suggest an increased risk of death with use of LABA in patients with COPD.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 

@@ -72,7 +72,7 @@ Pharmacokinetic properties of formoterol fumarate were evaluated in 12 COPD pati
 Formoterol fumarate concentrations in plasma following the 10 and 20 mcg doses of PERFOROMIST Inhalation Solution and the 12 mcg dose of formoterol fumarate dry powder were undetectable or only detected sporadically at very low concentrations.
 Following a single 244 mcg dose of PERFOROMIST Inhalation Solution (approximately 12 times the recommended clinical dose), formoterol fumarate concentrations were readily measurable in plasma, exhibiting rapid absorption into plasma, and reaching a maximum drug concentration of 72 pg/mL within approximately 12 minutes of dosing.
 
-The mean amount of formoterol excreted unchanged in 24 hour urine following single oral inhalation doses of 10, 20, and 244 mcg PERFOROMIST Inhalation Solution were found to be 109.7 ng, 349.6 ng, and 3317.5 ng, respectively.
+The mean amount of formoterol excreted unchanged in 24-hour urine following single oral inhalation doses of 10, 20, and 244 mcg PERFOROMIST Inhalation Solution were found to be 109.7 ng, 349.6 ng, and 3317.5 ng, respectively.
 These findings indicate a near dose proportional increase in systemic exposure within the dose range tested.
 
 When 12 mcg of a dry powder formulation of formoterol fumarate was given twice daily to COPD patients by oral inhalation for 12 weeks, the accumulation index, based on the urinary excretion of unchanged formoterol was 1.19 to 1.38.

@@ -1,9 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Asthma-Related Death
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Patients should be informed that long acting beta agonist, such as PERFOROMIST, increase the risk of asthma-related death.
-All LABA, including PERFOROMIST, should not be used in patients with asthma without use of a long-term asthma control medication.
+Serious Asthma-Related Events
+
+Inform patients that long-acting beta agonist, such as PERFOROMIST, when used as monotherapy [without an inhaled corticosteroid], increase the risk of serious asthma-related events, including asthma-related death.
+PERFOROMIST is not indicated for the treatment of asthma.
 
 Acute Exacerbations or Deteriorations
 
@@ -16,7 +18,7 @@ Appropriate Dosing
 Patients should not stop using PERFOROMIST Inhalation Solution unless told to do so by a healthcare provider because symptoms may get worse.
 Patients should not inhale more than the prescribed number of vials at any one time.
 The daily dosage of PERFOROMIST Inhalation Solution should not exceed one vial twice daily (40 mcg total daily dose).
-Excessive use of sympathomimetics may cause significant cardiovascular effects, and may be fatal.
+Excessive use of sympathomimetics may cause significant cardiovascular effects and may be fatal.
 
 Concomitant Therapy
 
@@ -30,14 +32,10 @@ Patients should be informed that treatment with beta2-agonists may lead to adver
 
 Instructions for Administration
 
-It is important that patients understand how to use PERFOROMIST Inhalation Solution with a nebulizer appropriately [see the accompanying Medication Guide].
+It is important that patients understand how to use PERFOROMIST Inhalation Solution with a nebulizer appropriately [see the accompanying Patient Information].
 Patients should be instructed not to mix other medications with PERFOROMIST Inhalation Solution or ingest PERFOROMIST Inhalation Solution.
 Patients should throw the plastic dispensing container away immediately after use.
 Due to their small size, the container and top pose a danger of choking to young children.
-
-FDA-Approved Medication Guide
-
-See the accompanying Medication Guide.
 
 Manufactured for: Mylan Specialty L.P.
 Morgantown, WV 26505 U.S.A.
@@ -49,6 +47,9 @@ No. 6,667,344 U.S. Pat.
 No. 6,814,953 U.S. Pat.
 No. 7,348,362 U.S. Pat.
 No. 7,462,645 U.S. Pat.
-No. 8,623,922
+No. 8,623,922 U.S. Pat.
+No. 9,730,890
 
-FORMIS:R2
+FORMIS:R3
+
+The brands listed are trademarks of their respective owners.

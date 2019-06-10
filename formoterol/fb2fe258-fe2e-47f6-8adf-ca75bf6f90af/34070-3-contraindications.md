@@ -1,4 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-All LABA, including PERFOROMIST, are contraindicated in patients with asthma without use of a long-term asthma control medication.
-[see WARNINGS and PRECAUTIONS (5.1)].
+Use of a LABA, including PERFOROMIST, without an inhaled corticosteroid is contraindicated in patients with asthma [see WARNINGS and PRECAUTIONS (5.1)].
+PERFOROMIST is not indicated for the treatment of asthma.

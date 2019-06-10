@@ -20,7 +20,7 @@ Patients treated with PERFOROMIST Inhalation Solution used less rescue albuterol
 Examination of age (≥ 65 or younger) and gender subgroups did not identify differences in response to PERFOROMIST Inhalation Solution.
 There were too few non-Caucasian subjects to assess differences in populations defined by race adequately.
 
-In the 12 week study, 78% of subjects achieved a 15% increase from baseline FEV1 following the first dose of PERFOROMIST Inhalation Solution 20 mcg.
+In the 12-week study, 78% of subjects achieved a 15% increase from baseline FEV1 following the first dose of PERFOROMIST Inhalation Solution 20 mcg.
 In these subjects, the median time to onset of bronchodilation, defined as 15% increase in FEV1, was 11.7 minutes.
 When defined as an increase in FEV1 of 12% and 200 mL, the time to onset of bronchodilation was 13.1 minutes after dosing.
 The median time to peak bronchodilator effect was 2 hours after dosing.
