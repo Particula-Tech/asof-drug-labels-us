@@ -2,30 +2,58 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
+### Risk Summary
 
-There are no adequate and well-controlled studies of ELIQUIS in pregnant women.
-Treatment is likely to increase the risk of hemorrhage during pregnancy and delivery.
-ELIQUIS should be used during pregnancy only if the potential benefit outweighs the potential risk to the mother and fetus.
+The limited available data on ELIQUIS use in pregnant women are insufficient to inform drug-associated risks of major birth defects, miscarriage, or adverse developmental outcomes.
+Treatment may increase the risk of bleeding during pregnancy and delivery.
+In animal reproduction studies, no adverse developmental effects were seen when apixaban was administered to rats (orally), rabbits (intravenously) and mice (orally) during organogenesis at unbound apixaban exposure levels up to 4, 1 and 19 times, respectively, the human exposure based on area under plasma-concentration time curve (AUC) at the Maximum Recommended Human Dose (MRHD) of 5 mg twice daily.
 
-Treatment of pregnant rats, rabbits, and mice after implantation until the end of gestation resulted in fetal exposure to apixaban, but was not associated with increased risk for fetal malformations or toxicity.
-No maternal or fetal deaths were attributed to bleeding.
-Increased incidence of maternal bleeding was observed in mice, rats, and rabbits at maternal exposures that were 19, 4, and 1 times, respectively, the human exposure of unbound drug, based on area under plasma-concentration time curve (AUC) comparisons at the maximum recommended human dose (MRHD) of 10 mg (5 mg twice daily).
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Clinical Considerations
 
-Safety and effectiveness of ELIQUIS during labor and delivery have not been studied in clinical trials.
-Consider the risks of bleeding and of stroke in using ELIQUIS in this setting [see Warnings and Precautions (5.2)].
+Disease-associated maternal and/or embryo/fetal risk
 
-Treatment of pregnant rats from implantation (gestation Day 7) to weaning (lactation Day 21) with apixaban at a dose of 1000 mg/kg (about 5 times the human exposure based on unbound apixaban) did not result in death of offspring or death of mother rats during labor in association with uterine bleeding.
-However, increased incidence of maternal bleeding, primarily during gestation, occurred at apixaban doses of ≥25 mg/kg, a dose corresponding to ≥1.3 times the human exposure.
+Pregnancy confers an increased risk of thromboembolism that is higher for women with underlying thromboembolic disease and certain high-risk pregnancy conditions.
+Published data describe that women with a previous history of venous thrombosis are at high risk for recurrence during pregnancy.
 
-## 8.3 Nursing Mothers
+Fetal/Neonatal adverse reactions
 
-It is unknown whether apixaban or its metabolites are excreted in human milk.
-Rats excrete apixaban in milk (12% of the maternal dose).
+Use of anticoagulants, including apixaban, may increase the risk of bleeding in the fetus and neonate.
 
-Women should be instructed either to discontinue breastfeeding or to discontinue ELIQUIS therapy, taking into account the importance of the drug to the mother.
+Labor or delivery
+
+All patients receiving anticoagulants, including pregnant women, are at risk for bleeding.
+ELIQUIS use during labor or delivery in women who are receiving neuraxial anesthesia may result in epidural or spinal hematomas.
+Consider use of a shorter acting anticoagulant as delivery approaches [see Warnings and Precautions (5.3)].
+
+Data
+
+Animal Data
+
+No developmental toxicities were observed when apixaban was administered during organogenesis to rats (orally), rabbits (intravenously) and mice (orally) at unbound apixaban exposure levels 4, 1, and 19 times, respectively, the human exposures at the MRHD.
+There was no evidence of fetal bleeding, although conceptus exposure was confirmed in rats and rabbits.
+Oral administration of apixaban to rat dams from gestation day 6 through lactation day 21 at maternal unbound apixaban exposures ranging from 1.4 to 5 times the human exposures at the MRHD was not associated with reduced maternal mortality or reduced conceptus/neonatal viability, although increased incidences of peri-vaginal bleeding were observed in dams at all doses.
+There was no evidence of neonatal bleeding.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of apixaban or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
+Apixaban and/or its metabolites were present in the milk of rats (see Data).
+Because human exposure through milk is unknown, breastfeeding is not recommended during treatment with ELIQUIS.
+
+Data
+
+Animal data
+
+Maximal plasma concentrations were observed after 30 minutes following a single oral administration of a 5 mg dose to lactating rats.
+Maximal milk concentrations were observed 6 hours after dosing.
+The milk to plasma AUC (0-24) ratio is 30:1 indicating that apixaban can accumulate in milk.
+The concentrations of apixaban in animal milk does not necessarily predict the concentration of drug in human milk.
 
 ## 8.4 Pediatric Use
 
