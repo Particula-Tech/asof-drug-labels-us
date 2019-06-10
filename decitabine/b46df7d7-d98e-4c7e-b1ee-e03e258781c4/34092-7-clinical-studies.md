@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Controlled Trial
+## 14.1 Controlled Trial in Myelodysplastic Syndrome
 
 A randomized open-label, multicenter, controlled trial evaluated 170 adult patients with myelodysplastic syndromes (MDS) meeting French-American-British (FAB) classification criteria and International Prognostic Scoring System (IPSS) High-Risk, Intermediate-2 and Intermediate-1 prognostic scores.
 Eighty-nine patients were randomized to decitabine therapy plus supportive care (only 83 received decitabine), and 81 to Supportive Care (SC) alone.
@@ -49,11 +49,11 @@ Table 6 Analysis of Response (ITT)
 
 | Parameter | Decitabine N=89 | Supportive Care N=81 |
 | --- | --- | --- |
-| Overall Response Rate (CR+PR) + Complete Response (CR) Partial Response (PR) | 15 (17%) ** 8 (9%) 7 (8%) | 0 (0%) 0 (0%) 0 (0%) |
+| Overall Response Rate (CR+PR) † Complete Response (CR) Partial Response (PR) | 15 (17%) ** 8 (9%) 7 (8%) | 0 (0%) 0 (0%) 0 (0%) |
 | Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 93 (55-272) 288 (116-388) | NA NA |
-| **p-value <0.001 from two-sided Fisher's Exact Test comparing Decitabine vs. Supportive Care. +In the statistical analysis plan, a p-value of ≤ 0.024 was required to achieve statistical significance. All patients with a CR or PR were RBC and platelet transfusion independent in the absence of growth factors. Responses occurred in patients with an adjudicated baseline diagnosis of AML. |  |  |
+| **p-value <0.001 from two-sided Fisher's Exact Test comparing Decitabine vs. Supportive Care. †In the statistical analysis plan, a p-value of ≤ 0.024 was required to achieve statistical significance. All patients with a CR or PR were RBC and platelet transfusion independent in the absence of growth factors. Responses occurred in patients with an adjudicated baseline diagnosis of AML. |  |  |
 
-## 14.2 Single-arm Studies
+## 14.2 Single-arm Studies in Myelodysplastic Syndrome
 
 Three open-label, single-arm, multicenter studies were conducted to evaluate the safety and efficacy of decitabine in MDS patients with any of the FAB subtypes.
 In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received decitabine by intravenous infusion at a dose of 20 mg/m 2 IV over 1-hour daily, on days 1-5 of week 1 every 4 weeks (1 cycle).
@@ -73,10 +73,10 @@ Table 7 Baseline Demographics and Other Patient Characteristics (ITT)
 | IPSS Classification n (%) Low Risk Intermediate-1 Intermediate-2 High Risk | 1 (1) 52 (53) 23 (23) 23 (23) |
 | FAB Classification n (%) RA RARS RAEB RAEB-t CMML | 20 (20) 17 (17) 45 (45) 6 (6) 11 (11) |
 
-Table 8 Analysis of Response (ITT)
+Table 8 Analysis of Response (ITT)*
 
-| Parameter | Decitabine N=99 |
-| --- | --- |
-| Overall Response Rate (CR+PR) Complete Response (CR) Partial Response (PR) | 16 (16%) 15 (15%) 1 (1%) |
-| Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 162 (50-267) 443 (72-722+) |
-| + indicates censored observation *Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS. Blood. 2000; 96:3671-3674. |  |
+| Parameter | Decitabine N=99 |  |
+| --- | --- | --- |
+| Overall Response Rate (CR+PR) Complete Response (CR) Partial Response (PR) | 16 (16%) 15 (15%) 1 (1%) |  |
+| Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 162 (50-267) 443 (72-722+) |  |
+| + indicates censored observation *Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS. Blood. 2000; 96:3671-3674. |  |  |

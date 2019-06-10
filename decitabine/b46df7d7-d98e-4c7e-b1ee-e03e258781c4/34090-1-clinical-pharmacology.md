@@ -33,3 +33,13 @@ Table 3 Mean (CV% or 95% CI) Pharmacokinetic Parameters of Decitabine
 
 The exact route of elimination and metabolic fate of decitabine is not known in humans.
 One of the pathways of elimination of decitabine appears to be deamination by cytidine deaminase found principally in the liver but also in granulocytes, intestinal epithelium and whole blood.
+
+Specific Populations
+
+Patients with Renal Impairment
+
+There are no data on the use of Decitabine for Injection in patients with renal impairment; therefore, if Decitabine for Injection is administered to these patients, monitor them frequently for excessive toxicity.
+
+Patients with Hepatic Impairment
+
+There are no data on the use of Decitabine for Injection in patients with hepatic impairment; therefore, if Decitabine for Injection is administered to these patients, monitor them frequently for excessive toxicity.
