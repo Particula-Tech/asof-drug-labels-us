@@ -6,48 +6,45 @@ ZERBAXA is an antibacterial drug [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-As with other beta-lactam antibacterial agents, the time that the plasma concentration of ceftolozane exceeds the minimum inhibitory concentration (MIC) of the infecting organism has been shown to be the best predictor of efficacy in animal models of infection.
-The time above a threshold concentration has been determined to be the parameter that best predicts the efficacy of tazobactam in in vitro nonclinical models.
-The exposure-response analyses in Phase 2 trials support the recommended dose of ZERBAXA.
+As with other beta-lactam antibacterial agents, the percent time of dosing interval that the plasma concentration of ceftolozane exceeds the minimum inhibitory concentration (MIC) of the infecting organism has been shown to be the best predictor of efficacy in animal models of infection.
+The percent time of dosing interval that the plasma concentration of tazobactam exceeds a threshold concentration has been determined to be the parameter that best predicts the efficacy of tazobactam in in vitro and in vivo models.
+The exposure-response analyses in efficacy and safety clinical trials for cIAI, cUTI, and HABP/VABP support the recommended dose regimens of ZERBAXA.
 
 Cardiac Electrophysiology
 
 In a randomized, positive and placebo-controlled crossover thorough QTc study, 51 healthy subjects were administered a single therapeutic dose of ZERBAXA 1.5 gram (ceftolozane 1 g and tazobactam 0.5 g) and a supratherapeutic dose of ZERBAXA 4.5 gram (ceftolozane 3 g and tazobactam 1.5 g). No significant effects of ZERBAXA on heart rate, electrocardiogram morphology, PR, QRS, or QT interval were detected.
-Therefore, ZERBAXA does not affect cardiac repolarization.
 
 ## 12.3 Pharmacokinetics
 
-The mean pharmacokinetic parameters of ZERBAXA in healthy adults with normal renal function after single and multiple 1-hour intravenous infusions of ZERBAXA 1.5 gram (ceftolozane 1 g and tazobactam 0.5 g) administered every 8 hours are summarized in Table 6.
-Pharmacokinetic parameters were similar for single- and multiple-dose administrations.
+Ceftolozane and tazobactam pharmacokinetics are similar following single- and multiple-dose administrations.
+The Cmax and AUC of ceftolozane and tazobactam increase in proportion to dose.
 
-Table 6: Mean (CV%) Plasma Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) After Single and Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) Every 8 Hours in Healthy Adults
+The mean steady-state population pharmacokinetic parameters of ZERBAXA in patients with cIAI and cUTI receiving 1-hour intravenous infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or patients with HABP/VABP receiving 1-hour intravenous infusions of ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) every 8 hours are summarized in Table 7.
 
-| Day 1 (n=9)N=9, one outlier subject excluded from descriptive statistics | Day 10 (n=10) | Day 1 (n=9) | Day 10 (n=10) |  |
+Table 7: Mean (SD) Steady-State Plasma Population Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) after Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or 3 g (ceftolozane 2 g and tazobactam 1 g) Every 8 Hours in Patients with CrCl Greater than 50 mL/min
+
+| Ceftolozane (n=317) | Tazobactam (n=244) | Ceftolozane (n=247) | Tazobactam (n=247) |  |
 | --- | --- | --- | --- | --- |
-| PK parameters | ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) every 8 hours |  |  |  |
-| Ceftolozane |  | Tazobactam |  |  |
-| Cmax (mcg/mL) | 69.1 (11) | 74.4 (14) | 18.4 (16) | 18 (8) |
-| tmax (h)Median (minimum, maximum) presented | 1.02 (1.01, 1.1) | 1.07 (1, 1.1) | 1.02 (0.99, 1.03) | 1.01 (1, 1.1) |
-| AUC (mcg∙h/mL)AUC for Day 1 = AUClast and AUC for Day 10 = steady state AUC (AUCΤ,SS). Daily AUC at steady state is calculated by multiplying the Day 10 AUC values by three (e.g., 546 mcg∙h/mL for ceftolozane and 75 mcg∙h/mL for tazobactam) | 172 (14) | 182 (15) | 24.4 (18) | 25 (15) |
-| t½ (h) | 2.77 (30) | 3.12 (22) | 0.91 (26)N=8, one subject excluded from descriptive statistics as the concentration-time profile did not exhibit a terminal log-linear phase and t½ could not be calculated | 1.03 (19) |
-
-The Cmax and AUC of ZERBAXA increase in proportion to dose.
-Plasma levels of ZERBAXA do not increase appreciably following multiple intravenous infusions of ZERBAXA up to 3 g (ceftolozane 2 g and tazobactam 1 g) administered every 8 hours for up to 10 days in healthy adults with normal renal function.
-The elimination half-life (t½) of ceftolozane is independent of dose.
+| PK parameters | ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) in cIAI and cUTI Patients |  | ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) in HABP/VABP Patients |  |
+| Cmax (mcg/mL) | 65.7 (27) | 17.8 (9) | 105 (46) | 26.4 (13) |
+| AUC0-8,ss (mcg∙h/mL) | 186 (74) | 35.8 (57) | 392 (236) | 73.3 (76) |
 
 Distribution
 
 The binding of ceftolozane and tazobactam to human plasma proteins is approximately 16% to 21% and 30%, respectively.
 The mean (CV%) steady-state volume of distribution of ZERBAXA in healthy adult males (n = 51) following a single intravenous dose of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) was 13.5 L (21%) and 18.2 L (25%) for ceftolozane and tazobactam, respectively, similar to extracellular fluid volume.
 
+Following 1-hour intravenous infusions of ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) or adjusted based on renal function every 8 hours in ventilated patients with confirmed or suspected pneumonia (N=22), mean pulmonary epithelial lining fluid-to-free plasma AUC ratios of ceftolozane and tazobactam were approximately 50% and 62%, respectively, and are similar to those in healthy subjects (approximately 61% and 63%, respectively) receiving ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g). Minimum ceftolozane and tazobactam epithelial lung lining fluid concentrations in ventilated subjects at the end of the dosing interval were 8.2 mcg/mL and 1.0 mcg/mL, respectively.
+
 Elimination
 
-Ceftolozane is eliminated from the body by renal excretion with a half-life of approximately 3 hours.
-Tazobactam is eliminated by renal excretion and metabolism with a plasma half-life of approximately 1 hour.
+Ceftolozane is eliminated from the body by renal excretion with a mean half-life of approximately 3 to 4 hours.
+Tazobactam is eliminated by renal excretion and metabolism with a plasma mean half-life of approximately 2 to 3 hours.
+The elimination half-life (t1/2) of ceftolozane or tazobactam is independent of dose.
 
 Metabolism
 
-Ceftolozane is not a substrate for CYP enzymes and is mainly eliminated in the urine as unchanged parent drug and thus does not appear to be metabolized to any appreciable extent.
+Ceftolozane does not appear to be metabolized to any appreciable extent and is not a substrate for CYP enzymes.
 The beta-lactam ring of tazobactam is hydrolyzed to form the pharmacologically inactive tazobactam metabolite M1.
 
 Excretion
@@ -60,17 +57,24 @@ Tazobactam is a substrate for OAT1 and OAT3 transporters and its elimination has
 
 Specific Populations
 
+Dose adjustment is not warranted on the basis of age (18 years and older), gender, or race/ethnicity.
+No significant differences in the pharmacokinetics of ceftolozane and tazobactam were observed based on age (18 years and older), gender, weight, or race/ethnicity.
+
 Patients with Renal Impairment
 
-ZERBAXA and the tazobactam metabolite M1 are eliminated by the kidneys.
-
-The ceftolozane dose normalized geometric mean AUC increased up to 1.26-fold, 2.5-fold, and 5-fold in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects with normal renal function.
+The ceftolozane dose normalized geometric mean AUC increased up to 1.26-fold, 2.5-fold, and 5-fold in subjects with CrCl 80-51 mL/min, 50-30 mL/min, and 29-15 mL/min, respectively, compared to healthy subjects with normal renal function.
 The respective tazobactam dose normalized geometric mean AUC increased approximately up to 1.3-fold, 2-fold, and 4-fold.
 To maintain similar systemic exposures to those with normal renal function, dosage adjustment is required [see Dosage and Administration (2.2)].
 
 In subjects with ESRD on HD, approximately two-thirds of the administered ZERBAXA dose is removed by HD.
-The recommended dose in subjects with ESRD on HD is a single loading dose of ZERBAXA 750 mg (ceftolozane 500 mg and tazobactam 250 mg), followed by a ZERBAXA 150 mg (ceftolozane 100 mg and tazobactam 50 mg) maintenance dose administered every 8 hours for the remainder of the treatment period.
-On HD days, administer the dose at the earliest possible time following completion of HD [see Dosage and Administration (2.2)].
+A single loading dose of ZERBAXA followed by a maintenance dose administered every 8 hours for the remainder of the treatment period is recommended in patients with ESRD on HD.
+On HD days, administer the dose at the earliest possible time following completion of HD.
+[See Dosage and Administration (2.2).]
+
+Patients with Augmented Renal Function
+
+Following a single 1-hour intravenous infusion of ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) to critically-ill patients with CrCl greater than or equal to 180 mL/min (N=10), mean terminal half-life values of ceftolozane and tazobactam were 2.6 hours and 1.5 hours, respectively.
+No dose adjustment of ZERBAXA is recommended for HABP/VABP patients with augmented renal function [see Clinical Studies (14.3)].
 
 Patients with Hepatic Impairment
 
@@ -80,25 +84,14 @@ No dose adjustment is recommended for ZERBAXA in subjects with hepatic impairmen
 
 Geriatric Patients
 
-In a population pharmacokinetic analysis of ZERBAXA, no clinically relevant trend in exposure was observed with regard to age.
+In a population pharmacokinetic analysis of ZERBAXA, no clinically relevant differences in exposure were observed with regard to age.
 
 No dose adjustment of ZERBAXA based on age is recommended.
+Dosage adjustment for ZERBAXA in geriatric patients should be based on renal function [see Dosage and Administration (2.2)].
 
 Pediatric Patients
 
 Safety and effectiveness in pediatric patients have not been established.
-
-Gender
-
-In a population pharmacokinetic analysis of ZERBAXA, no clinically relevant differences in AUC were observed for ceftolozane (116 males compared to 70 females) and tazobactam (80 males compared to 50 females).
-
-No dose adjustment is recommended based on gender.
-
-Race
-
-In a population pharmacokinetic analysis of ZERBAXA, no clinically relevant differences in ZERBAXA AUC were observed in Caucasians (n = 156) compared to all other races combined (n = 30).
-
-No dose adjustment is recommended based on race.
 
 Drug Interactions
 
@@ -108,7 +101,7 @@ In vitro and in vivo data indicate that ZERBAXA is unlikely to cause clinically 
 Drug Metabolizing Enzymes
 
 In vivo data indicated that ZERBAXA is not a substrate for CYPs.
-Thus clinically relevant drug-drug interactions involving inhibition or induction of CYPs by other drugs are unlikely to occur.
+Thus, clinically relevant drug-drug interactions involving inhibition or induction of CYPs by other drugs are unlikely to occur.
 
 In vitro studies demonstrated that ceftolozane, tazobactam and the M1 metabolite of tazobactam did not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4 and did not induce CYP1A2, CYP2B6, or CYP3A4 at therapeutic plasma concentrations.
 In vitro induction studies in primary human hepatocytes demonstrated that ceftolozane, tazobactam, and the tazobactam metabolite M1 decreased CYP1A2 and CYP2B6 enzyme activity and mRNA levels in primary human hepatocytes as well as CYP3A4 mRNA levels at supratherapeutic plasma concentrations.
@@ -151,13 +144,12 @@ Culture and susceptibility information and local epidemiology should be consider
 ZERBAXA demonstrated in vitro activity against Enterobacteriaceae in the presence of some extended-spectrum beta-lactamases (ESBLs) and other beta-lactamases of the following groups: TEM, SHV, CTX-M, and OXA.
 ZERBAXA is not active against bacteria that produce serine carbapenemases [K. pneumoniae carbapenemase (KPC)], and metallo-beta-lactamases.
 
-In ZERBAXA clinical trials, some isolates of E. coli and K. pneumoniae, that produced beta-lactamases, were susceptible to ZERBAXA (minimum inhibitory concentration ≤2 mcg/mL).
+In ZERBAXA clinical trials, some isolates of Enterobacteriaceae with minimum inhibitory concentration to ZERBAXA of ≤2 mcg/mL produced beta-lactamases.
 These isolates produced one or more beta-lactamases of the following enzyme groups: CTX-M, OXA, TEM, or SHV.
 
-Some of these beta-lactamases were also produced by isolates of E. coli and K. pneumoniae that were not susceptible to ZERBAXA (minimum inhibitory concentration >2 mcg/mL).
-These isolates produced one or more beta-lactamases of the following enzyme groups: CTX-M, OXA, TEM, or SHV.
+Some of these beta-lactamases were also produced by isolates of Enterobacteriaceae with minimum inhibitory concentration to ZERBAXA >2 mcg/mL.
 
-ZERBAXA demonstrated in vitro activity against P. aeruginosa isolates tested that had chromosomal AmpC, loss of outer membrane porin (OprD), or up-regulation of efflux pumps (MexXY, MexAB).
+ZERBAXA demonstrated in vitro activity against P. aeruginosa isolates tested that had chromosomal AmpC, loss of outer membrane porin (OprD), or up regulation of efflux pumps (MexXY, MexAB).
 
 Isolates resistant to other cephalosporins may be susceptible to ZERBAXA, although cross-resistance may occur.
 
@@ -173,18 +165,11 @@ Complicated Intra-abdominal Infections
 
 Gram-negative bacteria:
 
-- Enterobacter cloacae
-- Escherichia coli
-- Klebsiella oxytoca
-- Klebsiella pneumoniae
-- Proteus mirabilis
-- Pseudomonas aeruginosa
+- Enterobacter cloacae Escherichia coli Klebsiella oxytoca Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa
 
 Gram-positive bacteria:
 
-- Streptococcus anginosus
-- Streptococcus constellatus
-- Streptococcus salivarius
+- Streptococcus anginosus Streptococcus constellatus Streptococcus salivarius
 
 Anaerobic bacteria:
 
@@ -194,10 +179,13 @@ Complicated Urinary Tract Infections, Including Pyelonephritis
 
 Gram-negative bacteria:
 
-- Escherichia coli
-- Klebsiella pneumoniae
-- Proteus mirabilis
-- Pseudomonas aeruginosa
+- Escherichia coli Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa
+
+Hospital-acquired Bacterial Pneumonia and Ventilator-associated Bacterial Pneumonia (HABP/VABP)
+
+Gram-negative bacteria:
+
+- Enterobacter cloacae Escherichia coli Haemophilus influenzae Klebsiella oxytoca Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa Serratia marcescens
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ceftolozane and tazobactam against isolates of similar genus or organism group.
@@ -205,21 +193,12 @@ However, the efficacy of ZERBAXA in treating clinical infections due to these ba
 
 Gram-negative bacteria:
 
-- Citrobacter koseri
-- Morganella morganii
-- Proteus vulgaris
-- Providencia rettgeri
-- Providencia stuartii
-- Serratia liquefaciens
-- Serratia marcescens
+- Citrobacter koseri Klebsiella aerogenes Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia liquefaciens
 
 Gram-positive bacteria:
 
-- Streptococcus agalactiae
-- Streptococcus intermedius
+- Streptococcus agalactiae Streptococcus intermedius
 
 Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for ceftolozane and tazobactam, please see:
-
-https://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for ceftolozane and tazobactam, please see: https://www.fda.gov/STIC.

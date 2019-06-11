@@ -5,20 +5,22 @@ The following serious reactions are described in greater detail in the Warnings 
 - Hypersensitivity reactions [see Warnings and Precautions (5.2)]
 - Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and also may not reflect rates observed in practice.
 
-ZERBAXA was evaluated in Phase 3 comparator-controlled clinical trials of cIAI and cUTI, which included a total of 1015 patients treated with ZERBAXA and 1032 patients treated with comparator (levofloxacin 750 mg daily in cUTI or meropenem 1 g every 8 hours in cIAI) for up to 14 days.
+Complicated Intra-abdominal Infections and Complicated Urinary Tract Infections, Including Pyelonephritis
+
+ZERBAXA was evaluated in Phase 3 comparator-controlled clinical trials of cIAI and cUTI, which included a total of 1015 patients treated with ZERBAXA (1.5 g every 8 hours, adjusted based on renal function where appropriate) and 1032 patients treated with comparator (levofloxacin 750 mg daily in cUTI or meropenem 1 g every 8 hours in cIAI) for up to 14 days.
 The mean age of treated patients was 48 to 50 years (range 18 to 92 years), across treatment arms and indications.
 In both indications, about 25% of the subjects were 65 years of age or older.
 Most patients (75%) enrolled in the cUTI trial were female, and most patients (58%) enrolled in the cIAI trial were male.
 Most patients (>70%) in both trials were enrolled in Eastern Europe and were White.
 
 The most common adverse reactions (5% or greater in either indication) occurring in patients receiving ZERBAXA were nausea, diarrhea, headache, and pyrexia.
-Table 5 lists adverse reactions occurring in 1% or greater of patients receiving ZERBAXA in Phase 3 clinical trials.
+Table 5 lists adverse reactions occurring in 1% or greater of patients receiving ZERBAXA in Phase 3 cIAI and cUTI clinical trials.
 
-Table 5: Adverse Reactions Occurring in 1% or Greater of Patients Receiving ZERBAXA in Phase 3 Clinical Trials
+Table 5: Adverse Reactions Occurring in 1% or Greater of Patients Receiving ZERBAXA in Phase 3 cIAI and cUTI Clinical Trials
 
 | ZERBAXAThe ZERBAXA for injection dose was 1.5 g intravenously every 8 hours, adjusted to match renal function where appropriate. In the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=482) n (%) | Meropenem (N=497) n (%) | ZERBAXA (N=533) n (%) | Levofloxacin (N=535) n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -50,7 +52,7 @@ Increased Mortality
 In the cIAI trials (Phase 2 and 3), death occurred in 2.5% (14/564) of patients receiving ZERBAXA and in 1.5% (8/536) of patients receiving meropenem.
 The causes of death varied and included worsening and/or complications of infection, surgery and underlying conditions.
 
-Less Common Adverse Reactions
+Less Common Adverse Reactions in Phase 3 cIAI and cUTI Clinical Trials
 
 The following selected adverse reactions were reported in ZERBAXA-treated subjects at a rate of less than 1%:
 
@@ -65,3 +67,40 @@ The following selected adverse reactions were reported in ZERBAXA-treated subjec
 - Respiratory, thoracic and mediastinal disorders: dyspnea
 - Skin and subcutaneous tissue disorders: urticaria
 - Vascular disorders: venous thrombosis
+
+Hospital-acquired Bacterial Pneumonia and Ventilator-associated Bacterial Pneumonia (HABP/VABP)
+
+ZERBAXA was evaluated in a Phase 3 comparator-controlled clinical trial for HABP/VABP, which included a total of 361 patients treated with ZERBAXA (3 g every 8 hours, adjusted based on renal function where appropriate) and 359 patients treated with comparator (meropenem 1 g every 8 hours) for up to 14 days.
+The mean age of treated patients was 60 years (range 18 to 98 years), across treatment arms.
+About 44% of the subjects were 65 years of age or older.
+Most patients (71%) enrolled in the trial were male.
+All subjects were mechanically ventilated at randomization and 92% were in an intensive care unit (ICU) at randomization.
+The median APACHE II score was 17, and 33% of subjects had a baseline APACHE II score of ≥20, indicating a high severity of illness for many patients enrolled in this trial.
+
+Table 6 lists adverse reactions occurring in 2% or greater of patients receiving ZERBAXA in a Phase 3 HABP/VABP clinical trial.
+
+Table 6: Adverse Reactions Occurring in 2% or Greater of Patients Receiving ZERBAXA in a Phase 3 HABP/VABP Clinical Trial
+
+| Adverse Reactions | ZERBAXAThe ZERBAXA for injection dose was 3 g intravenously every 8 hours, adjusted to match renal function where appropriate. N=361 n (%) | Meropenem N=359 n (%) |
+| --- | --- | --- |
+| Hepatic transaminase increasedIncludes alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzyme increased, hypertransaminasaemia, liver function test abnormal. | 43 (11.9) | 26 (7.2) |
+| Renal impairment/renal failureIncludes acute renal failure, anuria, azotemia, oliguria, prerenal failure, renal failure, renal impairment. | 32 (8.9) | 22 (6.1) |
+| Diarrhea | 23 (6.4) | 25 (7.0) |
+| Intracranial hemorrhageIncludes cerebellar hemorrhage, cerebral hematoma, cerebral hemorrhage, hemorrhage intracranial, hemorrhagic stroke, hemorrhagic transformation stroke, intraventricular hemorrhage, subarachnoid hemorrhage, subdural hematoma. | 16 (4.4) | 5 (1.4) |
+| Vomiting | 12 (3.3) | 10 (2.8) |
+| Clostridium difficile colitisIncludes Clostridium difficile colitis, Clostridium difficile infection, Clostridium test positive. | 10 (2.8) | 2 (0.6) |
+
+Treatment discontinuation due to adverse reactions occurred in 1.1% (4/361) of patients receiving ZERBAXA and 1.4% (5/359) of patients receiving meropenem.
+
+Less Common Adverse Reactions in a Phase 3 HABP/VABP Clinical Trial
+
+The following selected adverse reactions were reported in ZERBAXA-treated subjects at a rate of less than 2%:
+
+- Investigations: blood alkaline phosphatase increased, gamma-glutamyltransferase increased, Coombs direct test positive
+
+Laboratory Values
+
+The development of a positive direct Coombs test may occur during treatment with ZERBAXA.
+The incidence of seroconversion to a positive direct Coombs test was 0.2% in patients receiving ZERBAXA and 0% in patients receiving the comparator in the cUTI and cIAI clinical trials.
+The incidence of seroconversion to a positive direct Coombs test was 31.2% in patients receiving ZERBAXA and 3.6% in patients receiving meropenem in the HABP/VABP clinical trial.
+In clinical trials, there was no evidence of hemolysis in patients who developed a positive direct Coombs test in any treatment group.

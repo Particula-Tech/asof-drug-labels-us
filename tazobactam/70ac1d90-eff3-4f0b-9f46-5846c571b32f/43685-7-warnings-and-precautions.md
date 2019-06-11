@@ -1,8 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Decreased Efficacy in Patients with Baseline Creatinine Clearance of 30 to ≤50 mL/min
+## 5.1 Decreased Efficacy in Patients with Baseline Creatinine Clearance of 30 to 50 mL/min
 
-In a subgroup analysis of a Phase 3 cIAI trial, clinical cure rates were lower in patients with baseline creatinine clearance (CrCl) of 30 to ≤50 mL/min compared to those with CrCl >50 mL/min (Table 4).
+In a subgroup analysis of a Phase 3 cIAI trial, clinical cure rates were lower in patients with baseline CrCl of 30 to 50 mL/min compared to those with CrCl greater than 50 mL/min (Table 4).
 The reduction in clinical cure rates was more marked in the ZERBAXA plus metronidazole arm compared to the meropenem arm.
 A similar trend was also seen in the cUTI trial.
 Monitor CrCl at least daily in patients with changing renal function and adjust the dosage of ZERBAXA accordingly [see Dosage and Administration (2.2)].
@@ -11,8 +11,8 @@ Table 4: Clinical Cure Rates in a Phase 3 Trial of cIAI by Baseline Renal Functi
 
 | Baseline Renal Function | ZERBAXA plus metronidazole n/N (%) | Meropenem n/N (%) |
 | --- | --- | --- |
-| Normal/mild impairment (CrCl >50 mL/min) | 312/366 (85.2) | 355/404 (87.9) |
-| Moderate impairment (CrCl 30 to ≤50 mL/min) | 11/23 (47.8) | 9/13 (69.2) |
+| CrCl greater than 50 mL/min | 312/366 (85.2) | 355/404 (87.9) |
+| CrCl 30 to 50 mL/min | 11/23 (47.8) | 9/13 (69.2) |
 
 ## 5.2 Hypersensitivity Reactions
 
@@ -36,4 +36,4 @@ Manage fluid and electrolyte levels as appropriate, supplement protein intake, m
 
 ## 5.4 Development of Drug-Resistant Bacteria
 
-Prescribing ZERBAXA in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and risks the development of drug-resistant bacteria.
+Prescribing ZERBAXA in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and risks the development of drug-resistant bacteria.
