@@ -219,3 +219,11 @@ N 3 10019 11501 6
 LOT: EXP:
 
 40601
+
+NDC 10019-115-01 Brevibloc Injection (Esmolol Hydrochloride) 100 mg/10 mL (10 mg/mL) Store at 25°C (77°F).
+
+4 packs each containing 25 x 10 mL Ready-to-use Vials (100 Vials) 475-582-03 Bar Code
+
+EXP DEC2099 LOT ABCDE12345 QTY 4 Bar Code (17)991231(10)ABCDE12345(30)4 Bar Code (01)50310019115011(21)00000000000001
+
+Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
