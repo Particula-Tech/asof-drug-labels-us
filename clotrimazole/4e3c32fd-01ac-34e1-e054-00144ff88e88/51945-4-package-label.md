@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 24 g Tube Carton
+# PRINCIPAL DISPLAY PANEL - 12 g Tube Carton
 
 LOTRIMIN ®AF
 
@@ -6,4 +6,4 @@ clotrimazole cream
 
 ANTIFUNGAL
 
-NET WT 24g (0.85 OZ)
+NET WT 12g (0.42 OZ)
