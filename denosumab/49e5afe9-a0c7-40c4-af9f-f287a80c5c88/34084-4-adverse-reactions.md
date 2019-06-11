@@ -227,6 +227,7 @@ The following adverse reactions have been identified during post approval use of
 - Musculoskeletal pain, including severe cases
 - Parathyroid Hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
 - Multiple vertebral fractures following discontinuation of Prolia
+- Cutaneous and mucosal lichenoid drug eruptions (e.g. lichen planus-like reactions)
 
 ## 6.3 Immunogenicity
 
