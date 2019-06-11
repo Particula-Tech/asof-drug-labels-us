@@ -48,7 +48,7 @@ Because human exposure through milk is unknown, breastfeeding is not recommended
 
 Data
 
-Animal data
+Animal Data
 
 Maximal plasma concentrations were observed after 30 minutes following a single oral administration of a 5 mg dose to lactating rats.
 Maximal milk concentrations were observed 6 hours after dosing.

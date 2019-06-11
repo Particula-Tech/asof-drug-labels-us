@@ -51,3 +51,9 @@ Therefore, use of ELIQUIS is not recommended in these patients.
 ## 5.5 Acute PE in Hemodynamically Unstable Patients or Patients who Require Thrombolysis or Pulmonary Embolectomy
 
 Initiation of ELIQUIS is not recommended as an alternative to unfractionated heparin for the initial treatment of patients with PE who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.
+
+## 5.6 Patients with Antiphospholipid Syndrome
+
+Direct-acting oral anticoagulants (DOACs) including ELIQUIS are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome (APS).
+In particular for patients that are triple positive (positive for lupus anticoagulant, anticardiolipin, and anti-beta 2 glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
+The efficacy and safety of ELIQUIS in patients with APS have not been established.
