@@ -2,7 +2,7 @@
 
 Galderma Dysport®(AbobotulinumtoxinA) for injection For intramuscular use
 
-300 UNITS/VIAL
+300 UNITS/SINGLE-DOSE VIAL
 
 1 VIAL
 
