@@ -10,8 +10,16 @@ Central Nervous System: Drowsiness is usually transitory and may disappear in a 
 Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended.
 Clinically significant respiratory depression has not been reported at recommended doses.
 
-Cardiac System: QT prolongation,Torsade de Pointes.
+Cardiac System: QT prolongation, Torsade de Pointes.
 
-In post-marketing experience, the following additional undesirable effects have been reported: Body as a Whole: allergic reaction, Nervous System: headache, Psychiatric: hallucination, Skin and Appendages: pruritus, rash, urticaria.
+In post-marketing experience, the following additional undesirable effects have been reported:
 
-To report SUSPECTED ADVERSE EVENTS, contact Impax Laboratories, Inc. at 1-800-934-6729 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+Body as a Whole: allergic reaction,
+
+Nervous System: headache,
+
+Psychiatric: hallucination,
+
+Skin and Appendages: pruritus, rash, urticaria.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

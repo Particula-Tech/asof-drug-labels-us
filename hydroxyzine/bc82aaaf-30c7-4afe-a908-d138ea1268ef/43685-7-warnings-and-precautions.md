@@ -1,6 +1,6 @@
 # WARNINGS
 
-## Nursing Mothers
+## Nursing Mothers:
 
 It is not known whether this drug is excreted in human milk.
 Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers.
@@ -24,9 +24,7 @@ Inform patients about the signs of AGEP, and discontinue hydroxyzine at the firs
 If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered.
 Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity.
 
-Geriatric Use
-
-A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
+Geriatric Use: A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
 
