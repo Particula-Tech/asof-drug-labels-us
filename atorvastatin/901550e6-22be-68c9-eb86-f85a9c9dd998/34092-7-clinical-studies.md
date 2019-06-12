@@ -86,11 +86,11 @@ b Component of other secondary endpoints
 
 Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons
 
-Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 5).
+Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 6).
 Of the predefined secondary endpoints, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease.
 The reduction in the rate of CHF with hospitalization was only observed in the 8% of patients with a prior history of CHF.
 
-There was no significant difference between the treatment groups for all-cause mortality (Table 5).
+There was no significant difference between the treatment groups for all-cause mortality (Table 6).
 The proportions of subjects who experienced cardiovascular death, including the components of CHD death and fatal stroke, were numerically smaller in the atorvastatin calcium 80 mg group than in the atorvastatin calcium 10 mg treatment group.
 The proportions of subjects who experienced noncardiovascular death were numerically larger in the atorvastatin calcium 80 mg group than in the atorvastatin calcium 10 mg treatment group.
 
@@ -117,7 +117,7 @@ In two multicenter, placebo-controlled, dose-response studies in patients with h
 TABLE 7.
 Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
 
-| Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDLC/ HDL-C |
+| Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 21 | 4 | 4 | 3 | 10 | -3 | 7 |
 | 10 | 22 | -29 | -39 | -32 | -19 | 6 | -34 |
@@ -156,8 +156,8 @@ b Significantly different from pravastatin, ANCOVA, p ≤0.05
 
 c Significantly different from simvastatin, ANCOVA, p ≤0.05
 
-The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 7 is not known.
-Table 7 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
+The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 8 is not known.
+Table 8 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
 ## 14.3 Hypertriglyceridemia
