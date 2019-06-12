@@ -6,20 +6,13 @@ Each 15 mL (one tablespoonful) contains 80 mg theophylline anhydrous.
 Theophylline Oral Solution, USP is available in bottles of 16 fl. oz.
 (473 mL) NDC 27808-033-01
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20˚ to 25˚C (68˚ to 77˚F); excursions permitted from 15˚ to 30˚C (59˚ to 86˚F) [see USP Controlled Room Temperature].
 
 Dispense in tight container.
 
-Manufactured by
+Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852 www.trispharma.com
 
-Tris Pharma, Inc.
+LB8063 Rev.
+01
 
-Monmouth Junction, NJ 08852
-
-www.trispharma.com
-
-LB8063
-
-Rev 00
-
-01/2014
+04/2018
