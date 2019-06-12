@@ -4,10 +4,6 @@
 
 Piperacillin and Tazobactam for Injection, USP is an antibacterial drug [see Microbiology (12.4)].
 
-## 12.1 Mechanism of Action
-
-Piperacillin and Tazobactam for Injection, USP is an antibacterial drug [see Microbiology (12.4)].
-
 ## 12.2 Pharmacodynamics
 
 The pharmacodynamic parameter for piperacillin/tazobactam that is most predictive of clinical and microbiological efficacy is time above MIC.

@@ -4,4 +4,4 @@ Manufactured by: Qilu Tianhe Pharmaceutical Co., Ltd.
 
 No. 849 Dongjia Town, Licheng District, Jinan, Shandong, 250105, China
 
-Revised: 8/2018
+Revised: 5/2019

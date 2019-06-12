@@ -20,7 +20,7 @@ If bleeding manifestations occur, piperacillin and tazobactam for injection shou
 
 The leukopenia/neutropenia associated with piperacillin and tazobactam for injection administration appears to be reversible and most frequently associated with prolonged administration.
 
-Periodic assessment of hematopoietic function should be performed, especially with prolonged therapy, ie, ≥ 21 days [see Adverse Reactions (6.1)].
+Periodic assessment of hematopoietic function should be performed, especially with prolonged therapy, i.e., ≥ 21 days [see Adverse Reactions (6.1)].
 
 ## 5.4 Central Nervous System Adverse Reactions
 
@@ -28,7 +28,7 @@ As with other penicillins, patients may experience neuromuscular excitability or
 
 ## 5.5 Nephrotoxicity in Critically Ill Patients
 
-The use of piperacillin and tazobactam was found to be an independent risk factor for renal failure and was associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs in a randomized, multicenter, controlled trial in critically ill patients [see Adverse Reactions (6.1)].
+The use of piperacillin and tazobactam for injection was found to be an independent risk factor for renal failure and was associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs in a randomized, multicenter, controlled trial in critically ill patients [see Adverse Reactions (6.1)].
 Based on this study, alternative treatment options should be considered in the critically ill population.
 If alternative treatment options are inadequate or unavailable, monitor renal function during treatment with piperacillin and tazobactam for injection [see Dosage and Administration (2.3)].
 

@@ -60,7 +60,7 @@ Compatible Intravenous Solutions for Single Dose Vials 0.9% sodium chloride for 
 
 LACTATED RINGER'S SOLUTION IS NOT COMPATIBLE WITH PIPERACILLIN AND TAZOBACTAM FOR INJECTION, USP
 
-‡ Maximum recommend volume per dose of sterile water for injection is 50mL.
+‡ Maximum recommended volume per dose of sterile water for injection is 50mL.
 Piperacillin and Tazobactam for Injection, USP should not be mixed with other drugs in a syringe or infusion bottle since compatibility has not been established.
 Piperacillin and Tazobactam for Injection, USP is not chemically stable in solutions that contain only sodium bicarbonate and solutions that significantly alter the pH.
 Piperacillin and Tazobactam for Injection, USP should not be added to blood products or albumin hydrolysates.
@@ -90,7 +90,7 @@ Stability of piperacillin and tazobactam for injection, USP is not affected when
 Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection, USP and aminoglycosides are recommended for separate administration.
 Piperacillin and Tazobactam for injection, USP and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated [see Drug Interactions (7.1)].
 
-In circumstances where co-administration via Y-site is necessary, Y-site infusion only with the following aminoglycosides under the following conditions:
+In circumstances where co-administration via Y-site is necessary, piperacillin and tazobactam for injection is compatible for simultaneous co-administration via Y-site infusion only with the following aminoglycosides under the following conditions:
 
 Table 2: Compatibility with Aminoglycosides
 

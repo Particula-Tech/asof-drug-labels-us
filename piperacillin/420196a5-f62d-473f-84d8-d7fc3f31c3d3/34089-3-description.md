@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Piperacillin and Tazobactam for Injection, USP is an injectable antibacterial combination product consisting of the semisynthetic antibacterial piperacillin sodium and the β-lactamase inhibitor tazobactam sodium for intravenous administration.
+Piperacillin and Tazobactam for Injection, USP are injectable antibacterial combination products consisting of the semisynthetic antibacterial piperacillin sodium and the β-lactamase inhibitor tazobactam sodium for intravenous administration.
 
 Piperacillin sodium is derived from D(-)-α-aminobenzyl-penicillin.
 The chemical name of piperacillin sodium is sodium (2S,5R,6R)-6-[(R)-2-(4-ethyl-2,3-dioxo-1-piperazine-carboxamido)-2- phenylacetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate.
@@ -12,7 +12,7 @@ Its chemical name is sodium (2S,3S,5R)-3-methyl-7-oxo-3-(1H-1,2,3-triazol-1-ylme
 The chemical formula is C10H11N4NaO5S and the molecular weight is 322.3.
 The chemical structure of tazobactam sodium is:
 
-Piperacillin and Tazobactam for Injection, USP is a white to off-white sterile, cryodesiccated powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass vials.
+Piperacillin and Tazobactam for Injection, USP, is a white to off-white sterile, cryodesiccated powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass vials.
 The product does not contain excipients or preservatives.
 
 Each Piperacillin and Tazobactam for Injection, USP 2.25 g single dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 2 grams of piperacillin and tazobactam sodium equivalent to 0.25 g of tazobactam.
