@@ -156,13 +156,13 @@ b Significantly different from pravastatin, ANCOVA, p ≤0.05
 
 c Significantly different from simvastatin, ANCOVA, p ≤0.05
 
-The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 7 is not known.
-Table 7 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
+The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 8 is not known.
+Table 8 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
 ## 14.3 Hypertriglyceridemia
 
-The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 8).
+The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 9).
 For the atorvastatin calcium-treated patients, median (min, max) baseline TG level was 565 (267 to 1502).
 
 TABLE 9.

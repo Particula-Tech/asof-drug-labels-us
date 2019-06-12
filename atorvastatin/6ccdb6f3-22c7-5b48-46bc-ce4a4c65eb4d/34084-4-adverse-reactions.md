@@ -15,7 +15,7 @@ The five most common adverse reactions in patients treated with atorvastatin cal
 
 The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with atorvastatin calcium in placebo controlled trials (n=8755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6%), and urinary tract infection (5.7%).
 
-Table 2 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
+Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
 
 | Table 3. Clinical adverse reactions occurring in ≥ 2% in patients treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients). |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

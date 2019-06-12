@@ -54,35 +54,44 @@ Hepatic Impairment:In patients with chronic alcoholic liver disease, plasma conc
 Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
 Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4)].
 
+Drug Interaction Studies
+
+Atorvastatin is a substrate of the hepatic transporters, OATP1B1 and OATP1B3 transporter.
+Metabolites of atorvastatin are substrates of OATP1B1.
+Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
+
 TABLE 4.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 | Co-administered drug and dosing regimen | Atorvastatin |  |  |
 | --- | --- | --- | --- |
 |  | Dose (mg) | Ratio of AUC& | Ratio of Cmax& |
-| #Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | 8.69 | 10.66 |
-| #Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | 10 mg, SD | 9.36 | 8.58 |
-| #Telaprevir 750 mg q8h, 10 days | 20 mg, SD | 7.88 | 10.60 |
-| #, ‡Saquinavir 400 mg BID/ ritonavir 400mg BID, 15 days | 40 mg QD for 4 days | 3.93 | 4.31 |
-| #Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | 4.54 | 5.38 |
-| #Darunavir 300 mg BID/ritonavir 100 mg BID, 9 days | 10 mg QD for 4 days | 3.45 | 2.25 |
-| #Itraconazole 200 mg QD, 4 days | 40 mg SD | 3.32 | 1.20 |
-| #Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 10 mg QD for 4 days | 2.53 | 2.84 |
-| #Fosamprenavir 1400 mg BID, 14 days | 10 mg QD for 4 days | 2.30 | 4.04 |
-| #Nelfinavir 1250 mg BID, 14 days | 10 mg QD for 28 days | 1.74 | 2.22 |
-| #Grapefruit Juice, 240 mL QD * | 40 mg, SD | 1.37 | 1.16 |
-| Diltiazem 240 mg QD, 28 days | 40 mg, SD | 1.51 | 1.00 |
-| Erythromycin 500 mg QID, 7 days | 10 mg, SD | 1.33 | 1.38 |
-| Amlodipine 10 mg, single dose | 80 mg, SD | 1.18 | 0.91 |
-| Cimetidine 300 mg QID, 2 weeks | 10 mg QD for 2 weeks | 1.00 | 0.89 |
-| Colestipol 10 g BID, 24 weeks | 40 mg QD for 8 weeks | NA | 0.74** |
-| Maalox TC® 30 mL QID, 17 days | 10 mg QD for 15 days | 0.66 | 0.67 |
-| Efavirenz 600 mg QD, 14 days | 10 mg for 3 days | 0.59 | 1.01 |
-| #Rifampin 600 mg QD, 7 days (co-administered) † | 40 mg SD | 1.12 | 2.90 |
-| #Rifampin 600 mg QD, 5 days (doses separated) † | 40 mg SD | 0.20 | 0.60 |
-| #Gemfibrozil 600mg BID, 7 days | 40mg SD | 1.35 | 1.00 |
-| #Fenofibrate 160mg QD, 7 days | 40mg SD | 1.03 | 1.02 |
-| Boceprevir 800 mg TID, 7 days | 40 mg SD | 2.32 | 2.66 |
+| #Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDa for 28 days | 8.69 | 10.66 |
+| #Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 10 mg, SDc | 9.36 | 8.58 |
+| #Glecaprevir 400 mg QDa/pibrentasvir 120 mg QDa, 7 days | 10 mg QDa for 7 days | 8.28 | 22.00 |
+| #Telaprevir 750 mg q8hf, 10 days | 20 mg, SDc | 7.88 | 10.60 |
+| #, ‡Saquinavir 400 mg BIDb/ ritonavir 400mg BIDb, 15 days | 40 mg QD a for 4 days | 3.93 | 4.31 |
+| #Elbasvir 50 mg QDa/grazoprevir 200 mg QDa, 13 days | 10 mg SDc | 1.94 | 4.34 |
+| #Simeprevir 150 mg QDa, 10 days | 40 mg SDc | 2.12 | 1.70 |
+| #Clarithromycin 500 mg BIDb, 9 days | 80 mg QDa for 8 days | 4.54 | 5.38 |
+| #Darunavir 300 mg BIDb/ritonavir 100 mg BIDb, 9 days | 10 mg QDa for 4 days | 3.45 | 2.25 |
+| #Itraconazole 200 mg QDa, 4 days | 40 mg SDc | 3.32 | 1.20 |
+| #Fosamprenavir 700 mg BIDb/ritonavir 100 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.53 | 2.84 |
+| #Fosamprenavir 1400 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
+| #Nelfinavir 1250 mg BIDb, 14 days | 10 mg QDa for 28 days | 1.74 | 2.22 |
+| #Grapefruit Juice, 240 mL QDa * | 40 mg, SDc | 1.37 | 1.16 |
+| Diltiazem 240 mg QDa, 28 days | 40 mg, SDc | 1.51 | 1.00 |
+| Erythromycin 500 mg QIDe, 7 days | 10 mg, SDc | 1.33 | 1.38 |
+| Amlodipine 10 mg, single dose | 80 mg, SDc | 1.18 | 0.91 |
+| Cimetidine 300 mg QIDe, 2 weeks | 10 mg QDa for 2 weeks | 1.00 | 0.89 |
+| Colestipol 10 g BIDb, 24 weeks | 40 mg QDa for 8 weeks | NA | 0.74** |
+| Maalox TC® 30 mL QIDe, 17 days | 10 mg QDa for 15 days | 0.66 | 0.67 |
+| Efavirenz 600 mg QDa, 14 days | 10 mg for 3 days | 0.59 | 1.01 |
+| #Rifampin 600 mg QDa, 7 days (co-administered) † | 40 mg SDc | 1.12 | 2.90 |
+| #Rifampin 600 mg QDa, 5 days (doses separated) † | 40 mg SDc | 0.20 | 0.60 |
+| #Gemfibrozil 600mg BIDb, 7 days | 40mg SDc | 1.35 | 1.00 |
+| #Fenofibrate 160mg QDa, 7 days | 40mg SDc | 1.03 | 1.02 |
+| Boceprevir 800 mg TIDd, 7 days | 40 mg SDc | 2.32 | 2.66 |
 
 & Represents ratio of treatments (co-administered drug plus atorvastatin vs. atorvastatin alone).
 
@@ -98,17 +107,35 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study.
 Therefore, caution should be applied and the lowest dose necessary should be used.
 
+a Once daily
+
+b Twice daily
+
+c Single dose
+
+d Three times daily
+
+e Four times daily
+
+f Every 8 hours
+
 TABLE 5.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
 | Atorvastatin | Co-administered drug and dosing regimen |  |  |
 | --- | --- | --- | --- |
 |  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
-| 80 mg QD for 15 days | Antipyrine, 600 mg SD | 1.03 | 0.89 |
-| 80 mg QD for 10 days | # Digoxin 0.25 mg QD, 20 days | 1.15 | 1.20 |
-| 40 mg QD for 22 days | Oral contraceptive QD, 2 months - norethindrone 1mg - ethinyl estradiol 35μg | 1.28 1.19 | 1.23 1.30 |
-| 10 mg, SD | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | 1.08 | 0.96 |
-| 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | 0.73 | 0.82 |
-| 10 mg QD for 4 days | Fosamprenavir 700 mgBID/ritonavir 100 mg BID, 14 days | 0.99 | 0.94 |
+| 80 mg QDa for 15 days | Antipyrine, 600 mg SDc | 1.03 | 0.89 |
+| 80 mg QDafor 10 days | # Digoxin 0.25 mg QDa, 20 days | 1.15 | 1.20 |
+| 40 mg QDa for 22 days | Oral contraceptive QDa, 2 months - norethindrone 1 mg - ethinyl estradiol 35μg | 1.28 1.19 | 1.23 1.30 |
+| 10 mg, SDc | Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 1.08 | 0.96 |
+| 10 mg QDa for 4 days | Fosamprenavir 1400 mg BIDb, 14 days | 0.73 | 0.82 |
+| 10 mg QDa for 4 days | Fosamprenavir 700 mgBIDb/ritonavir 100 mg BIDb, 14 days | 0.99 | 0.94 |
 
 # See Section 7 for clinical significance.
+
+a Once daily
+
+b Twice daily
+
+c Single dose

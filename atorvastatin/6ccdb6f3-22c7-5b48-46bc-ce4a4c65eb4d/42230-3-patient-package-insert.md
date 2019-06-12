@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-Atorvastatin Calcium Tablets
+Atorvastatin Calcium Tablets, USP
 
 (a tor'' va stat' in kal' see um)
 
@@ -72,6 +72,7 @@ Especially tell your doctor if you take medicines for:
 - birth control
 - heart failure
 - HIV or AIDS
+- hepatitis C virus
 
 Know all the medicines you take.Keep a list of them with you to show your doctor and pharmacist.
 
@@ -146,7 +147,7 @@ Ask your doctor or pharmacist for a complete list.
 
 How do I store atorvastatin calcium tablets
 
-- Store atorvastatin calcium tablets at 20°C - 25°C (68°F - 77°F)
+- Store atorvastatin calcium tablets at 20°C to 25°C (68°F to 77°F)
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep atorvastatin calcium tablets and all medicines out of the reach of children.
   Be sure that if you throw medicine away, it is out of the reach of children.
@@ -177,7 +178,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0818
+Revised: 0419
 
 or
 
@@ -187,7 +188,7 @@ Dr. Reddy's Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0818
+Revised: 0419
 
 Dispense with Patient Information Sheet available at:
 
