@@ -10,7 +10,6 @@ The dosing frequency may be changed from three times a day to a maximum of five 
 
 Maintain patients on the lowest dosage required to achieve symptomatic control and to minimize adverse reactions such as dyskinesia and nausea.
 The maximum recommended daily dose of RYTARY is 612.5 mg / 2450 mg.
-The maximum recommended daily dose of TYTARY is 612.5 mg / 2450 mg.
 
 ## 2.2 Converting from Immediate-Release Carbidopa-Levodopa to RYTARY
 
@@ -23,23 +22,25 @@ After conversion, any combination of the four RYTARY dosage strengths can be use
 Adjust the dose and dosing frequency as necessary to maintain patient tolerance and sufficient symptomatic control.
 Administration of concomitant Parkinson’s disease medications should remain stable while adjusting the RYTARY dose.
 In clinical trials, RYTARY was administered in divided doses of three to five times a day.
-The maximum recommended total daily dose of RYTARY is 612.5 mg / 2450 mg.
+The maximum recommended total daily dose of RYTARY is 612.5 mg / 2,450 mg.
 
-For patients currently treated with carbidopa and levodopa plus catechol-O-methyl transferase (COMT) inhibitors (such as entacapone), the initial total daily dose of levodopa in RYTARY described in Table 1 may need to be increased.
+For patients currently treated with carbidopa and levodopa plus a catechol-O-methyl transferase (COMT) inhibitor (such as entacapone), the initial total daily dose of levodopa in RYTARY described in Table 1 may need to be increased.
 
 Use of RYTARY in combination with other levodopa products has not been studied.
 
-Table 1:Conversion from Immediate-Release Carbidopa-Levodopa to RYTARY
+Table 1: Conversion from Immediate-Release Carbidopa-Levodopa to RYTARY
 
-| Total Daily Dose of Levodopa in Immediate-Release Carbidopa-Levodopa | Recommended Starting Dosage of RYTARY |  |
+| Total Daily Dose of Levodopa inImmediate-Release Carbidopa-Levodopa | Recommended Starting Dosage of RYTARY |  |
 | --- | --- | --- |
 | Total Daily Dose of Levodopa in RYTARY | RYTARY Dosing Regimen |  |
-| 400 mg to 549 mg | 855 mg | 3 capsules RYTARY 23.75 mg / 95 mg taken TIDTID: three times a day |
-| 550 mg to 749 mg | 1140 mg | 4 capsules RYTARY 23.75 mg / 95 mg taken TID |
-| 750 mg to 949 mg | 1305 mg | 3 capsules RYTARY 36.25 mg / 145 mg taken TID |
-| 950 mg to 1249 mg | 1755 mg | 3 capsules RYTARY 48.75 mg / 195 mg taken TID |
-| Equal to or greater than 1250 mg | 2340 mg or | 4 capsules RYTARY 48.75 mg / 195 mg taken TID or |
-| 2205 mg | 3 capsules RYTARY 61.25 mg / 245 mg taken TID |  |
+| 400 mg to 549 mg | 855 mg | 3 capsules RYTARY 23.75 mg / 95 mg taken TIDa |
+| 550 mg to 749 mg | 1,140 mg | 4 capsules RYTARY 23.75 mg / 95 mg taken TID |
+| 750 mg to 949 mg | 1,305 mg | 3 capsules RYTARY 36.25 mg / 145 mg taken TID |
+| 950 mg to 1,249 mg | 1,755 mg | 3 capsules RYTARY 48.75 mg / 195 mg taken TID |
+| Equal to or greater than 1,250 mg | 2,340 mg or | 4 capsules RYTARY 48.75 mg / 195 mg taken TID or |
+| 2,205 mg | 3 capsules RYTARY 61.25 mg / 245 mg taken TID |  |
+
+a TID: three times a day
 
 ## 2.3 Discontinuation of RYTARY
 
@@ -53,5 +54,5 @@ A high-fat, high-calorie meal may delay the absorption of levodopa by about 2 ho
 
 Do not chew, divide or crush RYTARY capsules.
 For patients who have difficulty swallowing intact capsules, administer RYTARY by carefully twisting apart both halves of the capsule.
-Sprinkle the entire contents of both halves of the capsule on a small amount of applesauce (1 to 2 tablespoons and consume the mixture immediately.
+Sprinkle the entire contents of both halves of the capsule on a small amount of applesauce (1 to 2 tablespoons) and consume the mixture immediately.
 Do not store the drug/food mixture for future use.

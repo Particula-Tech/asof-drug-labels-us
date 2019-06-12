@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
-There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 It has been reported from individual cases that levodopa crosses the human placental barrier, enters the fetus, and is metabolized.
 In animal studies, carbidopa-levodopa has been shown to be developmentally toxic (including teratogenic effects) at clinically relevant doses.
 RYTARY should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
