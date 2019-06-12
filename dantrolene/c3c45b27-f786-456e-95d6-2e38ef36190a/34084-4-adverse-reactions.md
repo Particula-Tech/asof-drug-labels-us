@@ -3,7 +3,7 @@
 The most frequently occurring side effects of dantrolene sodium have been drowsiness, dizziness, weakness, general malaise, fatigue, and diarrhea.
 These are generally transient, occurring early in treatment, and can often be obviated by beginning with a low dose and increasing dosage gradually until an optimal regimen is established.
 Diarrhea may be severe and may necessitate temporary withdrawal of dantrolene sodium therapy.
-If diarrhea recurs upon readministration of dantrolene sodium, therapy should probably be withdrawn permanently.
+If diarrhea recurs upon re-administration of dantrolene sodium, therapy should probably be withdrawn permanently.
 
 Other less frequent side effects, listed according to system, are:
 
@@ -37,4 +37,4 @@ The published literature has included some reports of dantrolene sodium use in p
 Dantrolene sodium capsules are not indicated for the treatment of NMS and patients may expire despite treatment with dantrolene sodium capsules.
 
 For medical advice about adverse reactions contact your medical professional.
-To report SUSPECTED ADVERSE REACTIONS, contact Impax Laboratories, Inc. at 1-800-934-6729 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

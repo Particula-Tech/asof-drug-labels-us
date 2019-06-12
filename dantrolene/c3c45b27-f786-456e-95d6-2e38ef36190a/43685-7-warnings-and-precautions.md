@@ -27,14 +27,14 @@ However, the majority of these cases were complicated with confounding factors s
 
 Long-term safety of dantrolene sodium in humans has not been established.
 Chronic studies in rats, dogs, and monkeys at dosages greater than 30 mg/kg/day showed growth or weight depression and signs of hepatopathy and possible occlusion nephropathy, all of which were reversible upon cessation of treatment.
-Sprague-Dawley female rats fed dantrolene sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
+Sprague-Dawley female rats fed dantrolene sodium for 18 months at dosage levels of 15 mg/kg/day, 30 mg/kg/day, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
 At the highest dose level, there was an increase in the incidence of benign lymphatic neoplasms.
 In a 30-month study at the same dose levels also in Sprague-Dawley rats, dantrolene sodium produced a decrease in the time of onset of mammary neoplasms.
 Female rats at the highest dose level showed an increased incidence of hepatic lymphangiomas and hepatic angiosarcomas.
 
 The only drug-related effect seen in a 30-month study in Fischer-344 rats was a dose-related reduction in the time of onset of mammary and testicular tumors.
 A 24-month study in HaM/ICR mice revealed no evidence of carcinogenic activity.
-Carcinogenicity in humans cannot be fully excluded, so that this possible risk of chronic administration must be weighed against the benefits of the drug (i.e., after a brief trial) for the individual patient.
+Carcinogenicity in humans cannot be fully excluded, so that this possible risk of chronic administration must be weighed against the benefits of the drug (i.e. after a brief trial) for the individual patient.
 
 Dantrolene sodium has produced positive results in the Ames S. Typhimurium bacterial mutagenesis assay in the presence and absence of a liver activating system.
 

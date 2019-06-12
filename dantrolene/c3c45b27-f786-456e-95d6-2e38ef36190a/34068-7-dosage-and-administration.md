@@ -27,8 +27,7 @@ If no further benefit is observed at the next higher dose, dosage should be decr
 25 mg once daily for seven days, then 25 mg t.i.d. for seven days 50 mg t.i.d. for seven days 100 mg t.i.d.
 
 Therapy with a dose four times daily may be necessary for some individuals.
-Doses higher than 100 mg four times daily should not be used.
-(See Box Warning.)
+Doses higher than 100 mg four times daily should not be used (see Box Warning).
 
 ## Pediatric Patients
 
@@ -40,17 +39,12 @@ If no further benefit is observed at the next higher dose, dosage should be decr
 0.5 mg/kg once daily for seven days, then 0.5 mg/kg t.i.d. for seven days 1 mg/kg t.i.d. for seven days 2 mg/kg t.i.d.
 
 Therapy with a dose four times daily may be necessary for some individuals.
-Doses higher than 100 mg four times daily should not be used.
-(See Box Warning.)
+Doses higher than 100 mg four times daily should not be used (see Box Warning).
 
 ## For Malignant Hyperthermia
 
-### Preoperatively
-
-Administer 4 to 8 mg/kg/day of oral dantrolene sodium caspules in 3 or 4 divided doses for one or two days prior to surgery, with the last dose being given approximately 3 to 4 hours before scheduled surgery with a minimum of water.
+Preoperatively: Administer 4 mg/kg/day to 8 mg/kg/day of oral dantrolene sodium caspules in 3 or 4 divided doses for one or two days prior to surgery, with the last dose being given approximately 3 to 4 hours before scheduled surgery with a minimum of water.
 
 This dosage will usually be associated with skeletal muscle weakness and sedation (sleepiness or drowsiness); adjustment can usually be made within the recommended dosage range to avoid incapacitation or excessive gastrointestinal irritation (including nausea and/or vomiting).
 
-### Post Crisis Follow-up
-
-Oral dantrolene sodium capsules should also be administered following a malignant hyperthermia crisis, in doses of 4 to 8 mg/kg per day in four divided doses, for a one to three day period to prevent recurrence of the manifestations of malignant hyperthermia.
+Post Crisis Follow-up: Oral dantrolene sodium capsules should also be administered following a malignant hyperthermia crisis, in doses of 4 mg/kg per day to 8 mg/kg per day in four divided doses, for a one to three day period to prevent recurrence of the manifestations of malignant hyperthermia.
