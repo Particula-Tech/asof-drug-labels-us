@@ -59,4 +59,4 @@ Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
 BEVESPI®, AEROSPHERE™ and BEVESPI AEROSPHERE™ are trademarks of the AstraZeneca group of companies.
 
-© AstraZeneca 2019
+©AstraZeneca 2019
