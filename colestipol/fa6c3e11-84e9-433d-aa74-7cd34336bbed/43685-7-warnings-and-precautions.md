@@ -1,11 +1,11 @@
 # PRECAUTIONS
 
 Prior to initiating therapy with colestipol tablets, secondary causes of hypercholesterolemia (e.g., poorly controlled diabetes mellitus, hypothyroidism, nephrotic syndrome, dysproteinemias, obstructive liver disease, other drug therapy, alcoholism), should be excluded, and a lipid profile performed to assess total cholesterol, HDL-C, and triglycerides (TG).
-For individuals with TG less than 400 mg/dL (<4.5 mmol/L), LDL-C can be estimated using the following equation:
+For individuals with TG less than 400 mg/dL (< 4.5 mmol/L), LDL-C can be estimated using the following equation:
 
-LDL-C = Total cholesterol - [(Triglycerides / 5)+HDL-C]
+LDL-C = Total cholesterol - [(Triglycerides/5) + HDL-C]
 
-For TG levels >400 mg/dL, this equation is less accurate and LDL-C concentrations should be determined by ultracentrifugation.
+For TG levels > 400 mg/dL, this equation is less accurate and LDL-C concentrations should be determined by ultracentrifugation.
 In hypertriglyceridemic patients, LDL-C may be low or normal despite elevated Total-C.
 In such cases colestipol tablets may not be indicated.
 
@@ -20,7 +20,7 @@ Colestipol tablets may produce or severely worsen pre-existing constipation.
 The dosage should be increased gradually in patients to minimize the risk of developing fecal impaction.
 In patients with pre-existing constipation, the starting dose should be 2 grams once or twice a day.
 Increased fluid and fiber intake should be encouraged to alleviate constipation and a stool softener may occasionally be indicated.
-If the initial dose is well tolerated, the dose may be increased by a further 2 to 4 grams/day (at monthly intervals) with periodic monitoring of serum lipoproteins.
+If the initial dose is well tolerated, the dose may be increased as needed by a further 2 to 4 grams/day (at monthly intervals) with periodic monitoring of serum lipoproteins.
 If constipation worsens or the desired therapeutic response is not achieved at 2 to 16 grams/day, combination therapy or alternate therapy should be considered.
 Particular effort should be made to avoid constipation in patients with symptomatic coronary artery disease.
 Constipation associated with colestipol tablets may aggravate hemorrhoids.
@@ -31,7 +31,7 @@ Since colestipol hydrochloride is a chloride form of an anion exchange resin, th
 
 ## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
-In studies conducted in rats in which cholestyramine resin (a bile acid sequestering agent similar to colestipol hydrochloride) was used as a tool to investigate the role of various intestinal factors, such as fat, bile salts and microbial flora, in the development of intestinal tumors induced by potent carcinogens, the incidence of such tumors was observed to be greater in cholestyramine resin treated rats than in control rats.
+In studies conducted in rats in which cholestyramine resin (a bile acid sequestering agent similar to colestipol hydrochloride) was used as a tool to investigate the role of various intestinal factors, such as fat, bile salts, and microbial flora, in the development of intestinal tumors induced by potent carcinogens, the incidence of such tumors was observed to be greater in cholestyramine resin treated rats than in control rats.
 
 The relevance of this laboratory observation from studies in rats with cholestyramine resin to the clinical use of colestipol tablets is not known.
 In the LRC-CPPT study referred to above, the total incidence of fatal and non-fatal neoplasms was similar in both treatment groups.
@@ -87,8 +87,8 @@ Therefore, colestipol tablets may delay or reduce the absorption of concomitant 
 The interval between the administration of colestipol tablets and any other medication should be as long as possible.
 Patients should take other drugs at least one hour before or four hours after colestipol tablets to avoid impeding their absorption.
 
-Repeated doses of colestipol hydrochloride given prior to a single dose of propranolol in human trials have been reported to decrease propranolol absorption.
-However, in a follow-up study in normal subjects, single dose administration of colestipol hydrochloride and propranolol and twice-a-day administration for 5 days of both agents did not affect the extent of propranolol absorption, but had a small yet statistically significant effect on its rate of absorption; the time to reach maximum concentration was delayed approximately 30 minutes.
+Repeated doses of colestipol hydrochloride given prior to a single-dose of propranolol in human trials have been reported to decrease propranolol absorption.
+However, in a follow-up study in normal subjects, single-dose administration of colestipol hydrochloride and propranolol and twice-a-day administration for 5 days of both agents did not affect the extent of propranolol absorption, but had a small yet statistically significant effect on its rate of absorption; the time to reach maximum concentration was delayed approximately 30 minutes.
 Effects on the absorption of other beta-blockers have not been determined.
 Therefore, patients on propranolol should be observed when colestipol tablets are either added or deleted from a therapeutic regimen.
 

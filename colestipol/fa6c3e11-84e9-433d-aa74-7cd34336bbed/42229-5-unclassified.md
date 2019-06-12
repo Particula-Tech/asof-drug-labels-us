@@ -1,6 +1,12 @@
+(1 gram)
+
 Rx only
 
-Dist. by: Impax Generics Hayward, CA 94544
+Manufactured by: Bora Pharmaceutical Laboratories Inc. Jhunan, Taiwan
 
-476-04 Rev.
-10/2015
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+
+476-05
+
+Rev.
+11-2018-00

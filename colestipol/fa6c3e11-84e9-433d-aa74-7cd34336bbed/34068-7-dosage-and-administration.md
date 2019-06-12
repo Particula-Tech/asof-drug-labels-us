@@ -4,12 +4,11 @@ For adults, colestipol tablets are recommended in doses of 2 to 16 grams/day giv
 The starting dose should be 2 grams once or twice daily.
 Dosage increases of 2 grams, once or twice daily should occur at 1- or 2-month intervals.
 Appropriate use of lipid profiles as per NCEP guidelines including LDL-C and triglycerides, is advised so that optimal but not excessive doses are used to obtain the desired therapeutic effect on LDL-C level.
-If the desired therapeutic effect is not obtained at 2 to 16 grams/day with good compliance and acceptable side effects, combined therapy or alternate treatment should be considered.
+If the desired therapeutic effect is not obtained at a dose of 2 to 16 grams/day with good compliance and acceptable side effects, combined therapy or alternate treatment should be considered.
 
 Colestipol tablets must be taken one at a time and be promptly swallowed whole, using plenty of water or other appropriate liquid.
 Do not cut, crush, or chew the tablets.
-Patients should take other drugs at least one hour before or four hours after colestipol tablets to minimize possible interference with their absorption.
-(See Drug Interactions.)
+Patients should take other drugs at least one hour before or four hours after colestipol tablets to minimize possible interference with their absorption (see Drug Interactions).
 
 ## Before Administration of Colestipol Tablets
 

@@ -1,6 +1,6 @@
 PHARMACIST - DETACH HERE AND GIVE LEAFLET TO PATIENT
 
-Patient Information Colestipol Hydrochloride Tablets, 1 gram
+Patient Information Colestipol Hydrochloride (koe les’ ti pol hye’’ droe klor’ ide) Tablets, 1 gram
 
 Read this information carefully before you take colestipol hydrochloride tablets.
 Also read the information you get with your refills.
@@ -12,7 +12,7 @@ Share the information in this leaflet with members in your household.
 Information for Patients
 
 Colestipol tablets may be larger than pills you have taken before.
-If you have had swallowing problems or choking with food, liquids or other tablets or capsules in the past, you should discuss this with your doctor before taking colestipol tablets.
+If you have had swallowing problem or choking with food, liquids or other tablets or capsules in the past, you should discuss this with your doctor before taking colestipol tablets.
 
 It is important that you take colestipol tablets correctly:
 
@@ -38,9 +38,11 @@ This leaflet summarizes the most important information about colestipol tablets.
 If you would like more information, talk with your doctor.
 Also, you can ask your pharmacist or doctor for information about colestipol tablets that is written for health professionals.
 
-Rx Only
+Manufactured by: Bora Pharmaceutical Laboratories Inc. Jhunan, Taiwan
 
-Dist. by: Impax Generics Hayward, CA 94544
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-476-04 Rev.
-10/2015
+476-05
+
+Rev.
+11-2018-00

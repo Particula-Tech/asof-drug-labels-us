@@ -46,7 +46,8 @@ Cashin-Hemphill L, et al. Beneficial Effects of Colestipol-Niacin on Coronary At
 JAMA 1990; 264:3013-3017.
 
 10.
-Brown G, et al. Regression of Coronary Artery Disease as a Result of Intensive Lipid-Lowering Therapy in Men with High Levels of Apolipoprotein B. N Engl, J. Med 1990; 323:1289-1298.
+Brown G. et al. Regression of Coronary Artery Disease as a Result of Intensive Lipid-Lowering Therapy in Men with High Levels of Apolipoprotein B. N Engl, J. Med.
+1990; 323:1289-1298.
 
 11.
 Kane JP, et al. Regression of Coronary Atherosclerosis During Treatment of Familial Hypercholesterolemia with Combined Drug Regimens.

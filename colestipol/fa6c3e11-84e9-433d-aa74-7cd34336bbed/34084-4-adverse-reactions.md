@@ -10,7 +10,7 @@ Increased fluid intake and inclusion of additional dietary fiber should be the f
 Some patients require decreased dosage or discontinuation of therapy.
 Hemorrhoids may be aggravated.
 
-Other, less frequent gastrointestinal complaints consist of abdominal discomfort (abdominal pain and cramping), intestinal gas, (bloating and flatulence), indigestion and heartburn, diarrhea and loose stools, and nausea and vomiting.
+Other, less frequent gastrointestinal complaints consist of abdominal discomfort (abdominal pain and cramping), intestinal gas (bloating and flatulence), indigestion and heartburn, diarrhea and loose stools, and nausea and vomiting.
 Bleeding hemorrhoids and blood in the stool have been infrequently reported.
 Peptic ulceration, cholecystitis, and cholelithiasis have been rarely reported in patients receiving colestipol hydrochloride granules, and are not necessarily drug related.
 
@@ -35,9 +35,11 @@ Musculoskeletal pain, aches and pains in the extremities, joint pain and arthrit
 
 ## Neurologic
 
-Headache, migraine headache and sinus headache have been reported.
+Headache, migraine headache, and sinus headache have been reported.
 Other infrequently reported complaints include dizziness, light-headedness, and insomnia.
 
 ## Miscellaneous
 
 Anorexia, fatigue, weakness, shortness of breath, and swelling of the hands or feet, have been infrequently reported.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
