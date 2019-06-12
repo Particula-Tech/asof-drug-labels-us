@@ -8,8 +8,7 @@ Moxifloxacin is a member of the flouroquinolone class of antibacterial agents [s
 
 Photosensitivity PotentialA study of the skin response to ultraviolet (UVA and UVB) and visible radiation conducted in 32 healthy volunteers (8 per group) demonstrated that moxifloxacin does not show phototoxicity in comparison to placebo.
 The minimum erythematous dose (MED) was measured before and after treatment with moxifloxacin (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
-In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
-[See Warnings and Precautions (5.12).]
+In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED [see Warnings and Precautions (5.13)].
 
 ## 12.3 Pharmacokinetics
 
@@ -114,8 +113,7 @@ No dosage adjustment is necessary in patients with renal impairment, including t
 
 In a single oral dose study of 24 patients with varying degrees of renal function from normal to severely impaired, the mean peak concentrations (Cmax) of moxifloxacin were reduced by 21% and 28% in the patients with moderate (CLCR≥ 30 and ≤ 60 mL/min) and severe (CLCR<30 mL/min) renal impairment, respectively.
 The mean systemic exposure (AUC) in these patients was increased by 13%.
-In the moderate and severe renally impaired patients, the mean AUC for the sulfate conjugate (M1) increased by 1.7-fold (ranging up to 2.8-fold) and mean AUC and Cmax for the glucuronide conjugate (M2) increased by 2.8-fold (ranging up to 4.8-fold) and 1.4-fold (ranging up to 2.5-fold), respectively.
-[See Use in Specific Populations (8.6).]
+In the moderate and severe renally impaired patients, the mean AUC for the sulfate conjugate (M1) increased by 1.7-fold (ranging up to 2.8-fold) and mean AUC and Cmax for the glucuronide conjugate (M2) increased by 2.8-fold (ranging up to 4.8-fold) and 1.4-fold (ranging up to 2.5-fold), respectively [see Use in Specific Populations(8.6).]
 
 The pharmacokinetics of single dose and multiple dose moxifloxacin were studied in patients with CLCR< 20 mL/min on either hemodialysis or continuous ambulatory peritoneal dialysis (8 HD, 8 CAPD).
 Following a single 400 mg oral dose, the AUC of moxifloxacin in these HD and CAPD patients did not vary significantly from the AUC generally found in healthy volunteers.
@@ -157,8 +155,7 @@ However, fluoroquinolones, including moxifloxacin, have been reported to enhance
 Antacids
 
 When moxifloxacin (single 400 mg tablet dose) was administered two hours before, concomitantly, or 4 hours after an aluminum/magnesium-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 12 healthy volunteers there was a 26%, 60% and 23% reduction in the mean AUC of moxifloxacin, respectively.
-Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
-[see Dosage and Administration (2.2) and Drug Interactions (7.1)].
+Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution [see Dosage and Administration (2.2) and Drug Interactions (7.1)].
 
 Atenolol
 
@@ -217,7 +214,7 @@ Theophylline
 
 No significant effect of moxifloxacin (200 mg every twelve hours for 3 days) on the pharmacokinetics of theophylline (400 mg every twelve hours for 3 days) was detected in a study involving 12 healthy volunteers.
 In addition, theophylline was not shown to affect the pharmacokinetics of moxifloxacin.
-The effect of co-administration of a 400 mg once daily of moxifloxacin with theophylline has not been studied.
+The effect of co-administration of 400 mg once daily of moxifloxacin with theophylline has not been studied.
 
 Warfarin
 

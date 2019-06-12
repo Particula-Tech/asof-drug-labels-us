@@ -75,12 +75,10 @@ Avoid moxifloxacin in patients with the following risk factors due to the lack o
 
 • Other drugs that prolong the QT interval such as cisapride, erythromycin, antipsychotics, and tricyclic antidepressants
 
-Elderly patients using intravenous moxifloxacin may be more susceptible to drug-associated QT prolongation.
-[see Use In Specific Populations (8.5)]
+Elderly patients using intravenous moxifloxacin may be more susceptible to drug-associated QT prolongation [see Use In Specific Populations (8.5)].
 
 In patients with mild, moderate, or severe liver cirrhosis, metabolic disturbances associated with hepatic insufficiency may lead to QT prolongation.
-Monitor ECG in patients with liver cirrhosis treated with moxifloxacin.
-[See Clinical Pharmacology (12.3)]
+Monitor ECG in patients with liver cirrhosis treated with moxifloxacin [see Clinical Pharmacology (12.3)].
 
 The magnitude of QT prolongation may increase with increasing concentrations of the drug or increasing rates of infusion of the intravenous formulation.
 Therefore the recommended dose or infusion rate should not be exceeded.
@@ -112,10 +110,15 @@ Discontinue moxifloxacin immediately at the first appearance of a skin rash, jau
 
 Serious anaphylactic reactions, some following the first dose, have been reported in patients receiving fluoroquinolone therapy, including moxifloxacin.
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
-Discontinue moxifloxacin at the first appearance of a skin rash or any other sign of hypersensitivity.
-[See Warnings and Precautions (5.7)]
+Discontinue moxifloxacin at the first appearance of a skin rash or any other sign of hypersensitivity [see Warnings and Precautions (5.7)]
 
-## 5.9 Clostridium difficile-Associated Diarrhea
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve moxifloxacin for use only when there are no alternative antibacterial treatments available.
+
+## 5.10 Clostridium difficile -Associated Diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including moxifloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -128,14 +131,13 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.10 Arthropathic Effects in Animals
+## 5.11 Arthropathic Effects in Animals
 
 In immature dogs, oral administration of moxifloxacin caused lameness.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
-Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species.
-[See Nonclinical Toxicology (13.2)]
+Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Nonclinical Toxicology (13.2)].
 
-## 5.11 Blood Glucose Disturbances
+## 5.12 Blood Glucose Disturbances
 
 As with all fluoroquinolones, disturbances in blood glucose, including both hypoglycemia and hyperglycemia have been reported with moxifloxacin.
 In moxifloxacin-treated patients, dysglycemia occurred predominantly in elderly diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, sulfonylurea) or with insulin.
@@ -143,13 +145,12 @@ Severe cases of hypoglycemia resulting in coma or death have been reported.
 In diabetic patients, careful monitoring of blood glucose is recommended.
 If a hypoglycemic reaction occurs, discontinue moxifloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7.3) and Patient Counseling Information (17)].
 
-## 5.12 Photosensitivity/Phototoxicity
+## 5.13 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones, including moxifloxacin, after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Moxifloxacin therapy should be discontinued if phototoxicity occurs.
-[See Clinical Pharmacology (12.2)]
+Moxifloxacin therapy should be discontinued if phototoxicity occurs [see Clinical Pharmacology (12.2)].
 
-## 5.13 Development of Drug Resistant Bacteria
+## 5.14 Development of Drug Resistant Bacteria
 
 Prescribing moxifloxacin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

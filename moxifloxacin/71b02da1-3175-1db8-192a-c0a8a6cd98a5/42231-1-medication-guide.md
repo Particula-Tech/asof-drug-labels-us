@@ -234,7 +234,9 @@ See “What is the most important information I should know about moxifloxacin h
 
 Other serious side effects of moxifloxacin hydrochloride tablets include:
 
-- Serious allergic reactions Allergic reactions can happen in people taking fluoroquinolones, including moxifloxacin hydrochloride tablets, even after only one dose.
+Serious allergic reactions
+
+- Allergic reactions can happen in people taking fluoroquinolones, including moxifloxacin hydrochloride tablets, even after only one dose.
   Stop taking moxifloxacin hydrochloride tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
   - Hives
   - Trouble breathing or swallowing
@@ -244,13 +246,22 @@ Other serious side effects of moxifloxacin hydrochloride tablets include:
   - Faint
   - Yellowing of the skin or eyes.
     Stop taking moxifloxacin hydrochloride tablets and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
-    These can be signs of a serious reaction to moxifloxacin hydrochloride tablets (a liver problem).
+    These can be signs of a serious reaction to moxifloxacin hydrochloride tablets (a liver problem)
 
-- Skin rash Skin rash may happen in people taking moxifloxacin hydrochloride tablets even after only one dose.
+Aortic aneurysm and dissection
+
+- Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
+
+Skin rash
+
+- Skin rash may happen in people taking moxifloxacin hydrochloride tablets even after only one dose.
   Stop taking moxifloxacin hydrochloride tablets at the first sign of a skin rash and call your healthcare provider.
   Skin rash may be a sign of a more serious reaction to moxifloxacin hydrochloride tablets.
 
-- Serious heart rhythm changes (QT prolongation and torsade de pointes) Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
+Serious heart rhythm changes
+
+- (QT prolongation and torsade de pointes) Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   Moxifloxacin hydrochloride tablets may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this event are higher in people:
@@ -259,17 +270,24 @@ Other serious side effects of moxifloxacin hydrochloride tablets include:
   - With low blood potassium (hypokalemia)
   - Who take certain medicines to control heart rhythm (antiarrhythmics)
 
-- Intestine infection (Pseudomembranous colitis) Pseudomembranous colitis can happen with most antibiotics, including moxifloxacin hydrochloride tablets.
+Intestine infection (Pseudomembranous colitis)
+
+- Pseudomembranous colitis can happen with most antibiotics, including moxifloxacin hydrochloride tablets.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
-- Changes in blood sugar People who take moxifloxacin hydrochloride tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+Changes in blood sugar
+
+- People who take moxifloxacin hydrochloride tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
   Follow your healthcare provider's instructions for how often to check your blood sugar.
   If you have diabetes and you get low blood sugar while taking moxifloxacin hydrochloride tablets, stop taking moxifloxacin hydrochloride tablets and call your healthcare provider right away.
   Your antibiotic medicine may need to be changed.
-- Sensitivity to sunlight (photosensitivity) See “What should I avoid while taking moxifloxacin hydrochloride tablets?”
-  The most common side effects of moxifloxacin hydrochloride tablets include nausea and diarrhea.
+
+Sensitivity to sunlight (photosensitivity)
+
+- See “What should I avoid while taking AVELOX?”
+  The most common side effects of AVELOX include nausea and diarrhea.
 
 These are not all the possible side effects of moxifloxacin hydrochloride tablets.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
@@ -316,7 +334,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1118
+Revised: 0619
 
 Dispense the Medication Guide available at:
 

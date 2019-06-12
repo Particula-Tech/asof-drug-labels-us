@@ -47,7 +47,7 @@ In lactating rats given a single oral dose of 4.59 mg/kg moxifloxacin (approxima
 
 Effectiveness in pediatric patients and adolescents less than 18 years of age has not been established.
 Moxifloxacin causes arthropathy in juvenile animals.
-Limited information on the safety of moxifloxacin in 301 pediatric patients is available from the cIAI trial [see Boxed Warning, Warnings and Precautions (5.10) and Nonclinical Toxicology (13.2)].
+Limited information on the safety of moxifloxacin in 301 pediatric patients is available from the cIAI trial [see Boxed Warning, Warnings and Precautions (5.9) and Nonclinical Toxicology (13.2)].
 
 Information describing a clinical study in cIAI in which efficacy was not demonstrated in pediatric patients is approved for Bayer Healthcare Pharmaceuticals Inc.’s AVELOX (moxifloxacin hydrochloride).
 However, due to Bayer Healthcare Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -58,8 +58,9 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing moxifloxacin to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue moxifloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur.
-[See Boxed Warning, Warnings and Precautions (5.2)]
+Patients should be informed of this potential side effect and advised to discontinue moxifloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [seeBoxed Warning, Warnings and Precautions (5.2)]
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
 
 In controlled multiple-dose clinical trials, 23% of patients receiving oral moxifloxacin were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral moxifloxacin in patients aged 65 or older compared to younger adults.
@@ -67,8 +68,7 @@ The clinical trial data demonstrate that there is no difference in the safety an
 In trials of intravenous use, 42% of moxifloxacin patients were greater than or equal to 65 years of age, and 23% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that the safety of intravenous moxifloxacin in patients aged 65 or older was similar to that of comparator-treated patients.
 In general, elderly patients may be more susceptible to drug-associated effects of the QT interval.
-Therefore, moxifloxacin should be avoided in patients taking drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia).
-[See Warnings and Precautions (5.6), Drug Interactions (7.5), and Clinical Pharmacology (12.3)].
+Therefore, moxifloxacin should be avoided in patients taking drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.6), Drug Interactions (7.5), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
