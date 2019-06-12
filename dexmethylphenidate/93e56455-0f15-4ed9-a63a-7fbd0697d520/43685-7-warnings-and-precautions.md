@@ -14,7 +14,7 @@ Further evaluate patients who develop exertional chest pain, unexplained syncope
 
 ## 5.3 Blood Pressure and Heart Rate Increases
 
-CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 bpm).
+CNS stimulants cause an increase in blood pressure (mean increase approximately 2 mmHg to 4 mmHg) and heart rate (mean increase approximately 3 bpm to 6 bpm).
 Individuals may have larger increases.
 Monitor all patients for hypertension and tachycardia.
 
@@ -57,6 +57,6 @@ CNS stimulants have been associated with weight loss and slowing of growth rate 
 
 In a 7-week, double-blind, placebo-controlled study of dexmethylphenidate hydrochloride extended-release, the mean weight gain was greater for pediatric patients (ages 6 to 17 years) receiving placebo (+0.4 kg) than for patients receiving dexmethylphenidate hydrochloride extended-release (-0.5 kg).
 
-Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated pediatric patients (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
+Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated pediatric patients (i.e. treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 
 Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including dexmethylphenidate hydrochloride extended-release, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.

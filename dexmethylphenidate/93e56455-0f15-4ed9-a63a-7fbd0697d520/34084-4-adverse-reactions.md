@@ -20,19 +20,19 @@ Clinical Trials Experience with Dexmethylphenidate Hydrochloride Extended-Releas
 
 The safety data in this section is based on data from a 7-week controlled clinical study of dexmethylphenidate hydrochloride extended-release in 100 (103 randomized) pediatric patients with ADHD ages 6 to 17 years (ages 6 to 12, n = 86; ages 13 to 17, n = 17).
 
-This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the time of onset, duration of efficacy, tolerability, safety of dexmethylphenidate hydrochloride extended-release capsules 5 mg to 30 mg/day who met DSM-IV criteria for ADHD [see Clinical Studies (14.1)].
+This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the time of onset, duration of efficacy, tolerability, safety of dexmethylphenidate hydrochloride extended-release capsules 5 mg/day to 30 mg/day who met DSM-IV criteria for ADHD [see Clinical Studies (14.1)].
 
 Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dyspepsia, decreased appetite, headache and anxiety.
 
 Adverse Reactions Leading to Discontinuation: 50 of 684 (7.3%) pediatric patients treated with dexmethylphenidate immediate-release tablets experienced an adverse reaction that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
 
-Table 1 enumerates adverse reactions for the placebo-controlled, parallel-group study in children and adolescents with ADHD at flexible dexmethylphenidate hydrochloride extended-release doses of 5 to 30 mg/day.
+Table 1 enumerates adverse reactions for the placebo-controlled, parallel-group study in children and adolescents with ADHD at flexible dexmethylphenidate hydrochloride extended-release doses of 5 mg/day to 30 mg/day.
 The table includes only those events that occurred in 5% or more of patients treated with dexmethylphenidate hydrochloride extended-release and for which the incidence in patients treated with dexmethylphenidate hydrochloride extended-release was at least twice the incidence in placebo-treated patients.
 
 Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
 
-| System Organ ClassAdverse Reaction | Dexmethylphenidate Hydrochloride Extended-ReleaseN=53 | PlaceboN=47 |
+| System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release N=53 | Placebo N=47 |
 | --- | --- | --- |
 | Gastrointestinal Disorders | 38% | 19% |
 | Dyspepsia | 8% | 4% |
@@ -48,7 +48,7 @@ The table includes only those reactions that occurred in patients treated with d
 
 Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
 
-| System Organ ClassAdverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release 10 mg/dN=64 | Dexmethylphenidate Hydrochloride Extended-Release 20 mg/dN=60 | Dexmethylphenidate Hydrochloride Extended-Release 30 mg/dN=58 | Placebo N=63 |
+| System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release 10 mg/d N=64 | Dexmethylphenidate Hydrochloride Extended-Release 20 mg/d N=60 | Dexmethylphenidate Hydrochloride Extended-Release 30 mg/d N=58 | Placebo N=63 |
 | --- | --- | --- | --- | --- |
 | Gastrointestinal Disorders | 22% | 23% | 29% | 24% |
 | Vomiting | 2% | 8% | 9% | 0% |
@@ -75,12 +75,12 @@ Most Common Adverse Reactions (incidence of greater than or equal to 5% and at l
 Adverse Reactions Leading to Discontinuation: During the double-blind phase of the study, 10.7% of the dexmethylphenidate hydrochloride extended-release - treated patients and 7.5% of the placebo-treated patients discontinued due to adverse reactions.
 Three patients (1.8%) in the dexmethylphenidate hydrochloride extended-release discontinued due to insomnia and jittery, respectively and two patients (1.2%) in the dexmethylphenidate hydrochloride extended-release discontinued due to anorexia and anxiety, respectively.
 
-Table 3 enumerates adverse reactions for the placebo-controlled, parallel-group study in adults with ADHD at fixed dexmethylphenidate hydrochloride extended-release doses of 20, 30, and 40 mg/day.
+Table 3 enumerates adverse reactions for the placebo-controlled, parallel-group study in adults with ADHD at fixed dexmethylphenidate hydrochloride extended-release doses of 20 mg/day, 30 mg/day, and 40 mg/day.
 The table includes only those events that occurred in 5% or more of patients in a dexmethylphenidate hydrochloride extended-release dose group and for which the incidences in patients treated with dexmethylphenidate hydrochloride extended-release appeared to increase with dose.
 
 Table 3: Dose-Related Adverse Reactions in Adult Patients (18 to 60 years of age) with ADHD
 
-| System Organ ClassAdverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release 20 mgN=57 | Dexmethylphenidate Hydrochloride Extended-Release 30 mgN=54 | Dexmethylphenidate Hydrochloride Extended-Release 40 mgN=54 | PlaceboN=53 |
+| System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release 20 mg N=57 | Dexmethylphenidate Hydrochloride Extended-Release 30 mg N=54 | Dexmethylphenidate Hydrochloride Extended-Release 40 mg N=54 | Placebo N=53 |
 | --- | --- | --- | --- | --- |
 | Gastrointestinal Disorders | 28% | 32% | 44% | 19% |
 | Dry Mouth | 7% | 20% | 20% | 4% |

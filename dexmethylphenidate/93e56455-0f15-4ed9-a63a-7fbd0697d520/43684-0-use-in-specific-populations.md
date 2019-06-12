@@ -4,7 +4,7 @@
 
 Pregnancy Category C
 
-In studies conducted in rats and rabbits, dexmethylphenidate was administered orally at doses of up to 20 and 100 mg/kg/day, respectively, during the period of organogenesis.
+In studies conducted in rats and rabbits, dexmethylphenidate was administered orally at doses of up to 20 mg/kg/day and 100 mg/kg/day, respectively, during the period of organogenesis.
 No evidence of teratogenic activity was found in either the rat or rabbit study; however, delayed fetal skeletal ossification was observed at the highest dose level in rats.
 When dexmethylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 20 mg/kg/day, postweaning body weight gain was decreased in male offspring at the highest dose, but no other effects on postnatal development were observed.
 At the highest doses tested, plasma levels [area under the curve (AUCs)] of dexmethylphenidate in pregnant rats and rabbits were approximately 5 and 1 times, respectively, those in adults dosed with 20 mg/day.

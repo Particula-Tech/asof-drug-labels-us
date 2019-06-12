@@ -1,8 +1,6 @@
 # MEDICATION GUIDE
 
-Dexmethylphenidate Hydrochloride (dex" meth il fen' i date hye" droe klor' ide) CII
-
-Extended-Release Capsules
+Dexmethylphenidate Hydrochloride (dex" meth il fen' i date hye" droe klor' ide) Extended-Release Capsules, CII
 
 Rx Only
 
@@ -162,33 +160,16 @@ It may harm them and it is against the law.
 
 What are the ingredients in Dexmethylphenidate Hydrochloride Extended-Release Capsules?
 
-Active ingredient: dexmethylphenidate hydrochloride
+Active ingredient: Dexmethylphenidate hydrochloride
 
-Inactive ingredients: acetyltributyl citrate, ethylcellulose, gelatin, hypromellose, hypromellose acetate succinate, sugar spheres (which contain sucrose and starch [maize]), talc, and titanium dioxide.
+Inactive ingredients: Acetyltributyl citrate, ethylcellulose, gelatin, hypromellose, hypromellose acetate succinate, sugar spheres (which contain sucrose and starch [maize]), talc, and titanium dioxide.
 The 5 mg capsule also contains FD&C Red #3 and FD&C Blue #1.
 The 10 mg capsule also contains acid red 27 and FD&C Blue #1.
 The 15 mg capsule also contains D&C Red #28 and FD&C Blue #1.
 The 20 mg capsule also contains D&C Red #28, D&C Red #33, and FD&C Blue #1.
 Black printing ink SW-9008/SW-9009 contains black iron oxide, potassium hydroxide, propylene glycol, and shellac.
 
-Manufactured by:
+Manufactured by: Catalent Pharma Solutions 1100 Enterprise Drive Winchester, KY 40391
 
-Catalent Pharma Solutions
-
-1100 Enterprise Drive
-
-Winchester, KY 40391
-
-Distributed by:
-
-Impax Generics
-
-Hayward, CA 94544
-
-For more information, call 1-800-934-6729.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration
-
-Revised: 02/2019
-
-2122-02
+Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 For more information, call 1-877-835-5472.
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 03-2019-00

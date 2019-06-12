@@ -18,8 +18,9 @@ At the recommended maximum total daily dosage of 40 mg, dexmethylphenidate hydro
 
 Absorption
 
-Dexmethylphenidate hydrochloride extended-release produces a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
-The initial rate of absorption for dexmethylphenidate hydrochloride extended-release is similar to that of dexmethylphenidate hydrochloride tablets as shown by the similar rate parameters between the 2 formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1 to 4 hours).
+Dexmethylphenidate hydrochloride extended-release produces a bi-modal plasma concentration-time profile (i.e.
+2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
+The initial rate of absorption for dexmethylphenidate hydrochloride extended-release is similar to that of dexmethylphenidate hydrochloride tablets as shown by the similar rate parameters between the 2 formulations, i.e. first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1 to 4 hours).
 The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for dexmethylphenidate hydrochloride extended-release given once daily (about 6.5 hours, range 4.5 to 7 hours) compared to dexmethylphenidate hydrochloride tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for dexmethylphenidate hydrochloride extended-release.
 
 Dexmethylphenidate hydrochloride extended-release given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than dexmethylphenidate hydrochloride tablets given in 2 doses given 4 hours apart.
@@ -78,7 +79,7 @@ Pediatric Patients
 The pharmacokinetics of dexmethylphenidate after dexmethylphenidate hydrochloride extended-release administration have not been studied in pediatrics less than 18 years of age.
 When a similar formulation of racemic methylphenidate was examined in 15 patients between 10 and 12 years of age and 3 patients with ADHD between 7 and 9 years of age, the time to the first peak was similar, although the time until the between peak minimum, and the time until the second peak were delayed and more variable in pediatric patients compared to adults.
 After administration of the same dose to pediatric patients and adults, concentrations in pediatric patients were approximately twice the concentrations observed in adults.
-This higher exposure is almost completely due to smaller body size as no relevant age-related differences in dexmethylphenidate pharmacokinetic parameters (i.e., clearance and volume of distribution) are observed after normalization to dose and weight.
+This higher exposure is almost completely due to smaller body size as no relevant age-related differences in dexmethylphenidate pharmacokinetic parameters (i.e. clearance and volume of distribution) are observed after normalization to dose and weight.
 
 Patients with Renal Impairment
 
@@ -94,4 +95,4 @@ Drug Interaction Studies
 Methylphenidate is not metabolized by cytochrome P450 (CYP) isoenzymes to a clinically relevant extent.
 Inducers or inhibitors of CYPs are not expected to have any relevant impact on methylphenidate pharmacokinetics.
 Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
-Clinically, methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.
+Clinically, methylphenidate co-administration did not increase plasma concentrations of the CYP2D6 substrate desipramine.

@@ -40,20 +40,8 @@ Suppression of Growth
 
 Advise patients that dexmethylphenidate hydrochloride extended-release capsules may cause slowing of growth and weight loss [see Warnings and Precautions (5.7)].
 
-Manufactured by:
+Manufactured by: Catalent Pharma Solutions 1100 Enterprise Drive Winchester, KY 40391
 
-Catalent Pharma Solutions
+Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-1100 Enterprise Drive
-
-Winchester, KY 40391
-
-Distributed by:
-
-Impax Generics
-
-Hayward, CA 94544
-
-Revised: 02/2019
-
-2122-02
+Revised: 03-2019-00
