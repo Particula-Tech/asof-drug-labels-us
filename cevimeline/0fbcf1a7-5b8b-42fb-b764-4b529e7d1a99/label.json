@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA204746"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Lupin Pharmaceuticals,Inc.",
+  "package_ndcs": [
+    "43386-999-01",
+    "43386-999-03",
+    "43386-999-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "cevimeline hydrochloride"
+    }
+  ],
+  "setid": "0fbcf1a7-5b8b-42fb-b764-4b529e7d1a99",
+  "source": "dailymed"
+}
