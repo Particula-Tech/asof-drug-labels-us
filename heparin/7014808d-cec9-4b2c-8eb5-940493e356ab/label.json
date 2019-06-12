@@ -3,7 +3,7 @@
     "NDA017037"
   ],
   "inn": "heparin",
-  "labeler": "West-Ward Pharmaceuticals Corp.",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
   "package_ndcs": [
     "0641-0391-12",
     "0641-0391-37",
@@ -14,7 +14,9 @@
     "0641-2450-30",
     "0641-2450-55",
     "0641-2460-30",
-    "0641-2460-55"
+    "0641-2460-55",
+    "0641-6199-01",
+    "0641-6199-10"
   ],
   "products": [
     {

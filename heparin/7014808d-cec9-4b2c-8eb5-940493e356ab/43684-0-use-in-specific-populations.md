@@ -6,7 +6,7 @@ Risk Summary
 
 There are no available data on Heparin Sodium Injection use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
 In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
-No teratogenicity, but early embryo-fetal death was observed in animal reproduction studies with administration of heparin sodium to pregnant rats and rabbits during organogenesis at doses approximately 10 times the maximum recommended human dose (MRHD) of 45,000 units/ day [see Data].
+No teratogenicity, but early embryo-fetal death was observed in animal reproduction studies with administration of heparin sodium to pregnant rats and rabbits during organogenesis at doses approximately 10 times the maximum recommended human dose (MRHD) of 45,000 units/day [see Data].
 Consider the benefits and risks of Heparin Sodium Injection for the mother and possible risks to the fetus when prescribing Heparin Sodium Injection to a pregnant woman.
 
 If available, preservative-free Heparin Sodium Injection is recommended when heparin therapy is needed during pregnancy.
@@ -43,7 +43,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 There are no adequate and well controlled studies on heparin use in pediatric patients.
 Pediatric dosing recommendations are based on clinical experience [see Dosage and Administration (2.4)].
 
-Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
+Carefully examine all Heparin Sodium Injection vials and syringes to confirm choice of the correct strength prior to administration of the drug.
 Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with “catheter lock flush” vials [see Warnings and Precautions (5.1)].
 
 Benzyl Alcohol Toxicity

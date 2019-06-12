@@ -3,9 +3,9 @@
 ## 5.1 Fatal Medication Errors
 
 Do not use Heparin Sodium Injection as a “catheter lock flush” product.
-Heparin Sodium Injection is supplied in vials containing various strengths of heparin, including vials that contain a highly concentrated solution of 10,000 units in 1 mL.
+Heparin Sodium Injection is supplied in vials and syringes containing various strengths of heparin, including vials that contain a highly concentrated solution of 10,000 units in 1 mL.
 Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL “catheter lock flush” vials.
-Carefully examine all Heparin Sodium Injection vials to confirm the correct vial choice prior to administration of the drug.
+Carefully examine all Heparin Sodium Injection vials and syringes to confirm the correct vial or syringe choice prior to administration of the drug.
 
 ## 5.2 Hemorrhage
 
