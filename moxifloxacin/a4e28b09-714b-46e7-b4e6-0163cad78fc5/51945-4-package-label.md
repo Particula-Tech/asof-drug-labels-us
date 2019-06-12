@@ -6,8 +6,8 @@ NDC 63323-850-74
 
 Moxifloxacin Injection
 
-400 mg* per 250 mL (1.6 mg per mL) For Intravenous Infusion Rx only
+400 mg per 250 mL (1.6 mg per mL) For Intravenous Infusion Rx only
 
-Use immediately once removed from the overwrap.
+USE IMMEDIATELY ONCE REMOVED FROM THE OVERWRAP.
 
-Infuse over 60 minutes.
+INFUSE OVER 60 MINUTES.

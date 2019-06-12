@@ -1,6 +1,7 @@
 # 10 OVERDOSAGE
 
 Single oral overdoses up to 2.8 g were not associated with any serious adverse events.
+
 In the event of acute overdose, the stomach should be emptied and adequate hydration maintained.
 ECG monitoring is recommended due to the possibility of QT interval prolongation.
 The patient should be carefully observed and given supportive treatment.

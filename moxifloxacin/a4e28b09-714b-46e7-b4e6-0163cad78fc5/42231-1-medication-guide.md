@@ -2,7 +2,7 @@ Medication Guide
 
 Moxifloxacin Injection
 
-(mox i FLOX a sin) (in jek´ shŭn)
+(mox i FLOX a sin) (in jek′ shŭn)
 
 solution for intravenous use
 
@@ -17,86 +17,44 @@ Moxifloxacin injection can cause serious side effects that can happen at the sam
 If you get any of the following serious side effects, you should stop taking moxifloxacin and get medical help right away.
 Talk with your healthcare provider about whether you should continue to receive moxifloxacin injection.
 
-1.
-Tendon rupture or swelling of the tendon (tendinitis).
-
-- Tendon problems can happen in people of all ages who receive moxifloxacin injection.
-  Tendons are tough cords of tissue that connect muscles to bones.
-  Symptoms of tendon problems may include:
-  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
-
-- The risk of getting tendon problems while you receive moxifloxacin injection is higher if you:
-  - Are over 60 years of age
-  - Are taking steroids (corticosteroids)
-  - Have had a kidney, heart or lung transplant
-
-Tendon problems can happen in people who do not have the above risk factors when they receive moxifloxacin injection.
-
-- Other reasons that can increase your risk of tendon problems can include:
-  - Physical activity or exercise
-  - Kidney failure
-  - Tendon problems in the past, such as in people with rheumatoid arthritis (RA).
-
-- Stop taking moxifloxacin immediately and call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
-
-Stop receiving moxifloxacin injection until tendinitis or tendon rupture has been ruled out by your healthcare provider.
-Avoid exercise and using the affected area.
-The most common area of pain and swelling is in the Achilles tendon at the back of your ankle.
-This can also happen with other tendons.
-
-- Talk to your healthcare provider about the risk of tendon rupture with continued use of moxifloxacin injection.
-
-You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
-
-- Tendon rupture can happen while you are taking or after you have finished receiving moxifloxacin injection.
-
-Tendon ruptures can happen within hours or days after taking moxifloxacin and have happened up to several months after patients have finished receiving their fluoroquinolone.
-
-- Stop taking moxifloxacin immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-  - Hear or feel a snap or pop in a tendon area.
-  - Bruising right after an injury in a tendon area.
-  - Unable to move the affected area or bear weight.
-
-2.
-Changes in sensation and possible nerve damage (Peripheral Neuropathy).
-
-Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including moxifloxacin.
-Stop taking moxifloxacin immediately and talk to your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
-
-- pain
-- burning
-- tingling
-- numbness
-- weakness
-
-The nerve damage may be permanent.
-
-3.
-Central Nervous System (CNS) effects.
-Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including moxifloxacin.
-Tell your healthcare provider if you have a history of seizures before you start taking moxifloxacin.
-CNS side effects may happen as soon as after taking the first dose of moxifloxacin.
-Stop taking moxifloxacin immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
-
-- seizures
-- hear voices, see things, or sense things that are not there (hallucinations)
-- feel restless
-- tremors
-- feel anxious or nervous
-- confusion
-- depression
-- trouble sleeping
-- nightmares
-- feel lightheaded or dizzy
-- feel more suspicious (paranoia)
-- suicidal thoughts or acts
-- headaches that will not go away, with or without blurred vision
-
-4.Worsening of myasthenia gravis (a disease which causes muscle weakness).
-
-Fluoroquinolones like moxifloxacin injection may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-Tell your healthcare provider if you have a history of myasthenia gravis before you start taking moxifloxacin.
-Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+1. Tendon rupture or swelling of the tendon (tendinitis).
+   - Tendon problems can happen in people of all ages who receive moxifloxacin injection.
+     Tendons are tough cords of tissue that connect muscles to bones.
+     Symptoms of tendon problems may include:
+     - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+   - The risk of getting tendon problems while you receive moxifloxacin injection is higher if you:Tendon problems can happen in people who do not have the above risk factors when they receive moxifloxacin injection.
+     - Are over 60 years of age
+     - Are taking steroids (corticosteroids)
+     - Have had a kidney, heart or lung transplant
+   - Other reasons that can increase your risk of tendon problems can include:
+     - Physical activity or exercise
+     - Kidney failure
+     - Tendon problems in the past, such as in people with rheumatoid arthritis (RA).
+   - Stop taking moxifloxacin immediately and call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
+     Stop receiving moxifloxacin injection until tendinitis or tendon rupture has been ruled out by your healthcare provider.
+     Avoid exercise and using the affected area.
+     The most common area of pain and swelling is in the Achilles tendon at the back of your ankle.
+     This can also happen with other tendons.
+   - Talk to your healthcare provider about the risk of tendon rupture with continued use of moxifloxacin injection.
+     You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
+   - Tendon rupture can happen while you are taking or after you have finished receiving moxifloxacin injection.
+     Tendon ruptures can happen within hours or days after taking moxifloxacin and have happened up to several months after patients have finished receiving their fluoroquinolone.
+   - Stop taking moxifloxacin immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
+     - Hear or feel a snap or pop in a tendon area.
+     - Bruising right after an injury in a tendon area.
+     - Unable to move the affected area or bear weight.
+2. Changes in sensation and possible nerve damage (Peripheral Neuropathy).
+   Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including moxifloxacin.
+   Stop taking moxifloxacin immediately and talk to your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet: pain burning tingling numbness weakness The nerve damage may be permanent.
+3. Central Nervous System (CNS) effects.
+   Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including moxifloxacin.
+   Tell your healthcare provider if you have a history of seizures before you start taking moxifloxacin.
+   CNS side effects may happen as soon as after taking the first dose of moxifloxacin.
+   Stop taking moxifloxacin immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior: seizures hear voices, see things, or sense things that are not there (hallucinations) feel restless tremors feel anxious or nervous confusion depression trouble sleeping nightmares feel lightheaded or dizzy feel more suspicious (paranoia) suicidal thoughts or acts headaches that will not go away, with or without blurred vision
+4. Worsening of myasthenia gravis (a disease which causes muscle weakness).
+   Fluoroquinolones like moxifloxacin injection may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+   Tell your healthcare provider if you have a history of myasthenia gravis before you start taking moxifloxacin.
+   Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
 See the section “What are the possible side effects of moxifloxacin injection?” for more information about side effects.
 
@@ -176,9 +134,8 @@ How should I receive moxifloxacin injection?
   - You have nerve problems (see “What is the most important information I should know about moxifloxacin injection?”).
   - You have central nervous system problems (see “What is the most important information I should know about moxifloxacin injection?”).
   - You have a serious allergic reaction (see “What are the possible side effects of moxifloxacin injection?”), or your healthcare provider tells you to stop.
-
-This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to moxifloxacin injection.
-If this happens, moxifloxacin injection and other antibiotic medicines may not work in the future.
+    This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to moxifloxacin injection.
+    If this happens, moxifloxacin injection and other antibiotic medicines may not work in the future.
 
 What should I avoid while receiving moxifloxacin injection?
 
@@ -209,15 +166,13 @@ Other serious side effects of moxifloxacin injection include:
 - Serious allergic reactions.
   Allergic reactions can happen in people taking fluoroquinolones, including moxifloxacin injection, even after only 1 dose.
   Stop receiving moxifloxacin injection and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
-  - Hives
-  - Trouble breathing or swallowing
-  - Swelling of the lips, tongue, face
-  - Throat tightness, hoarseness
-  - Rapid heartbeat
-  - Faint
-  - Yellowing of the skin or eyes.
-    Stop receiving moxifloxacin injection and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
-    These can be signs of a serious reaction to moxifloxacin injection (a liver problem).
+
+| Hives Trouble breathing or swallowing Swelling of the lips, tongue, face Throat tightness, hoarseness Rapid heartbeat Faint | Yellowing of the skin or eyes. Stop receiving moxifloxacin injection and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine. These can be signs of a serious reaction to moxifloxacin injection (a liver problem). |
+| --- | --- |
+
+- Aortic aneurysm and dissection.
+  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 - Skin rash.
   Skin rash may happen in people receiving moxifloxacin injection even after only 1 dose.
   Stop receiving moxifloxacin injection at the first sign of a skin rash and call your healthcare provider.
@@ -237,15 +192,12 @@ Other serious side effects of moxifloxacin injection include:
   If you have diabetes and you get low blood sugar while receiving moxifloxacin injection, stop receiving moxifloxacin injection and call your healthcare provider right away.
   Your antibiotic medicine may need to be changed.
 - Sensitivity to sunlight (photosensitivity).
-
-See “What should I avoid while receiving moxifloxacin injection?”
-
-The most common side effects of moxifloxacin injection include:
-
-- Nausea
-- Diarrhea
-- Headache
-- Dizziness
+  See “What should I avoid while receiving moxifloxacin injection?”
+  The most common side effects of moxifloxacin injection include:
+  - Nausea
+  - Diarrhea
+  - Headache
+  - Dizziness
 
 These are not all the possible side effects of moxifloxacin injection.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
@@ -277,9 +229,14 @@ What are the ingredients in moxifloxacin injection?
 
 Active ingredient: moxifloxacin
 
-Inactive ingredients: sodium acetate-trihydrate, disodium sulfate, sulfuric acid (for pH adjustment), and water for injection Manufactured for:
+Inactive ingredients: sodium acetate-trihydrate, disodium sulfate, sulfuric acid (for pH adjustment), and water for injection
+
+Manufactured for:
 
 Lake Zurich, IL 60047
 
+www.fresenius-kabi.com/us
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 7/2016
+
+Revised: 5/2019

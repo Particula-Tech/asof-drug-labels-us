@@ -15,10 +15,8 @@ Table 1: Dosage and Duration of Therapy in Adult Patients
 | Complicated Intra-Abdominal Infections (1.4) | 400 mg | 5 to 14 |
 | Acute Bacterial Sinusitis (1.5) | 400 mg | 10 |
 | Acute Bacterial Exacerbation of Chronic Bronchitis (1.6) | 400 mg | 5 |
-
-a Due to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)].
-
-b Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
+| a Due to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)]. |  |  |
+| b Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |  |  |
 
 When switching from intravenous to oral formulation, no dosage adjustment is necessary [see Clinical Pharmacology (12.4)].
 Patients whose therapy is started with moxifloxacin injection may be switched to moxifloxacin tablets when clinically indicated at the discretion of the physician.
@@ -40,23 +38,17 @@ If the same intravenous line or a Y-type line is used for sequential infusion of
 
 Moxifloxacin Injection is compatible with the following intravenous solutions at ratios from 1:10 to 10:1
 
-0.9% Sodium Chloride Injection, USP Sterile Water for Injection, USP
-
-1 molar Sodium Chloride Injection 10% Dextrose for Injection, USP
-
-5% Dextrose Injection, USP Lactated Ringer’s for Injection
+| 0.9% Sodium Chloride Injection, USP | Sterile Water for Injection, USP |
+| --- | --- |
+| 1 molar Sodium Chloride Injection | 10% Dextrose for Injection, USP |
+| 5% Dextrose Injection, USP | Lactated Ringer's for Injection |
 
 ## 2.3 Preparation for Administration of Moxifloxacin Injection
 
 To prepare moxifloxacin injection premix in flexible plastic containers:
 
-1.
-Close flow control clamp of administration set.
-
-2.
-Remove cover from port at bottom of container.
-
-3.
-Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.
+1. Close flow control clamp of administration set.
+2. Remove cover from port at bottom of container.
+3. Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.
 
 NOTE: Refer to complete directions that have been provided with the administration set.

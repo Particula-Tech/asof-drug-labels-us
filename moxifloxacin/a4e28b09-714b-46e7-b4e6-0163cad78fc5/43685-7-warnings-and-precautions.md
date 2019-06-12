@@ -35,12 +35,19 @@ Avoid fluoroquinolones, including moxifloxacin, in patients who have previously 
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including moxifloxacin, have been associated with an increased risk of central nervous system (CNS) reactions, including: convulsions and increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis.
-Fluoroquinolones may also cause CNS reactions of nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and, rarely, suicidal thoughts or acts [see Adverse Reactions (6.2, 6.4)].
+Psychiatric Adverse Reactions
 
-These reactions may occur following the first dose.
+Fluoroquinolones, including moxifloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, hallucinations, or paranoia; depression or suicidal thoughts or acts; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; and memory impairment.
+These adverse reactions may occur following the first dose.
 If these reactions occur in patients receiving moxifloxacin, discontinue moxifloxacin immediately and institute appropriate measures.
-As with all fluoroquinolones, moxifloxacin should be used with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold [see Drug Interactions (7.3), Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17)].
+[see Adverse Reactions (6.2, 6.4)].
+
+Central Nervous System Adverse Reactions
+
+Fluoroquinolones, including moxifloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), dizziness, and tremors.
+As with all fluoroquinolones, use moxifloxacin with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold.
+These adverse reactions may occur following the first dose.
+If these reactions occur in patients receiving moxifloxacin, discontinue moxifloxacin immediately and institute appropriate measures [see Drug Interactions (7.3), Adverse Reactions (6.2, 6.4), and Patient Counseling Information (17)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
@@ -80,21 +87,22 @@ Other serious and sometimes fatal adverse reactions, some due to hypersensitivit
 These events may be severe and generally occur following the administration of multiple doses.
 Clinical manifestations may include one or more of the following:
 
-• Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome)
-
-• Vasculitis; arthralgia; myalgia; serum sickness
-
-• Allergic pneumonitis
-
-• Interstitial nephritis; acute renal insufficiency or failure
-
-• Hepatitis; jaundice; acute hepatic necrosis or failure
-
-• Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities
+- Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome)
+- Vasculitis; arthralgia; myalgia; serum sickness
+- Allergic pneumonitis
+- Interstitial nephritis; acute renal insufficiency or failure
+- Hepatitis; jaundice; acute hepatic necrosis or failure
+- Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities
 
 Discontinue Moxifloxacin Injection immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Patient Counseling Information (17) and Adverse Reactions (6.4)].
 
-## 5.9 Clostridium Difficile-Associated Diarrhea
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve Moxifloxacin Injection for use only when there are no alternative antibacterial treatments available.
+
+## 5.10 Clostridium Difficile-Associated Diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including moxifloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -107,30 +115,31 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
-## 5.10 High Sodium Load
+## 5.11 High Sodium Load
 
 Each unit dose of moxifloxacin injection contains 52.5 mEq (1,207 mg) of sodium.
 Avoid use of moxifloxacin injection in patients with congestive heart failure, elderly, and those with restricted sodium intake [see Use in Specific Populations (8.5), Description (11)].
 
-## 5.11 Arthropathic Effects in Animals
+## 5.12 Arthropathic Effects in Animals
 
 The oral administration of moxifloxacin caused lameness in immature dogs.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Nonclinical Toxicology (13.2)].
 
-## 5.12 Blood Glucose Disturbances
+## 5.13 Blood Glucose Disturbances
 
 As with all fluoroquinolones, disturbances in blood glucose, including both hypoglycemia and hyperglycemia have been reported with moxifloxacin.
 In moxifloxacin-treated patients, dysglycemia occurred predominantly in elderly diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, sulfonylurea) or with insulin.
-In diabetic patients, careful monitoring of blood glucose is recommended [see Adverse Reactions (6.2)].
-If a hypoglycemic reaction occurs, moxifloxacin should be discontinued and appropriate therapy should be initiated immediately [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
+Severe cases of hypoglycemia resulting in coma or death have been reported.
+In diabetic patients, careful monitoring of blood glucose is recommended.
+If a hypoglycemic reaction occurs, discontinue moxifloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.2), Drug Interactions (7.2) and Patient Counseling Information (17)].
 
-## 5.13 Photosensitivity/Phototoxicity
+## 5.14 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolone antibiotics after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
 Drug therapy should be discontinued if phototoxicity occurs [see Adverse Reactions (6.4) and Clinical Pharmacology (12.3)].
 
-## 5.14 Development of Drug Resistant Bacteria
+## 5.15 Development of Drug Resistant Bacteria
 
 Prescribing moxifloxacin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria [see Patient Counseling Information (17)].

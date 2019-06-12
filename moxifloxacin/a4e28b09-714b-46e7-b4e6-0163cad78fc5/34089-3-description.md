@@ -6,6 +6,7 @@ It is a slightly yellow to yellow crystalline substance.
 Its chemical structure is as follows:
 
 Moxifloxacin injection is sterile solution for infusion in a ready-to-use flexible plastic container.
+
 Moxifloxacin injection
 
 | Component | Function | Dosage Formulation |
@@ -15,11 +16,8 @@ Moxifloxacin injection
 | Disodium sulfate | Tonicity adjuster | 2,840 mg |
 | Sulfuric acid ** | pH adjustment | As needed |
 | Water for injection | vehicle | q.s. 250 mL |
-
-* 400 mg moxifloxacin equivalent to 437.5 mg of moxifloxacin hydrochloride.
-
-**The pH may have been adjusted with sulfuric acid.
-The pH is 5.0 to 6.0.
+| * 400 mg moxifloxacin equivalent to 437.5 mg of moxifloxacin hydrochloride. |  |  |
+| **The pH may have been adjusted with sulfuric acid. The pH is 5.0 to 6.0. |  |  |
 
 Each mL contains 1.6 mg of moxifloxacin.
 

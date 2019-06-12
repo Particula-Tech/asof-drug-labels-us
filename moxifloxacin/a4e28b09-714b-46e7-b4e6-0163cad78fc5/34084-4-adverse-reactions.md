@@ -4,29 +4,19 @@
 
 The following serious and otherwise important adverse reactions are discussed in greater detail in the Warnings and Precautions section of the label:
 
-• Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects [see Warnings and Precautions (5.1)]
-
-• Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
-
-• Peripheral Neuropathy [see Warnings and Precautions (5.3)]
-
-• Central Nervous System Effects [see Warnings and Precautions (5.4)]
-
-• Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
-
-• QT Prolongation [see Warnings and Precautions (5.6)]
-
-• Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-
-• Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.8)]
-
-• Clostridium Difficile-Associated Diarrhea [see Warnings and Precautions (5.9)]
-
-• Blood Glucose Disturbances [see Warnings and Precautions(5.12)]
-
-• Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
-
-• Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
+- Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects [see Warnings and Precautions (5.1)]
+- Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+- Central Nervous System Effects [see Warnings and Precautions (5.4)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- QT Prolongation [see Warnings and Precautions (5.6)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.8)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
+- Clostridium Difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+- Blood Glucose Disturbances [see Warnings and Precautions (5.13)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
 
 ## 6.2 Clinical Trial Experience
 
@@ -62,12 +52,9 @@ Table 2: Common (≥ 1%) Adverse Reactions Reported in Active-Controlled Clinica
 | Metabolism and Nutritional Disorder | Hypokalemia | 1 |
 | Nervous System Disorders | Headache Dizziness | 4.2 3 |
 | Psychiatric Disorders | Insomnia | 1.9 |
+| a MedDRA Version 12.0 |  |  |
 
-a MedDRA Version 12.0
-
-Table 3: Less Common (0.1 to < 1%) Adverse Reactions Reported in Active-Controlled
-
-Clinical Trials with Moxifloxacin (N=14,981)
+Table 3: Less Common (0.1 to < 1%) Adverse Reactions Reported in Active-Controlled Clinical Trials with Moxifloxacin (N=14,981)
 
 | System Organ Class | Adverse Reactionsa |
 | --- | --- |
@@ -185,8 +172,7 @@ Clinical Trials with Moxifloxacin (N=14,981)
 | Vascular Disorders | Hypertension |
 | Hypotension |  |
 | Phlebitis |  |
-
-a MedDRA Version 12.0
+| a MedDRA Version 12.0 |  |
 
 ## 6.3 Laboratory Changes
 
@@ -213,4 +199,4 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 | Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.4)] |
 | Renal and Urinary Disorders | Renal dysfunction Interstitial nephritis [see Warnings and Precautions (5.8)] |
 | Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis [see Warnings and Precautions (5.8)] |
-| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.13)] Stevens-Johnson syndrome Toxic epidermal necrolysis [see Warnings and Precautions (5.8)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.14)] Stevens-Johnson syndrome Toxic epidermal necrolysis [see Warnings and Precautions (5.8)] |

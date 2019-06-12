@@ -11,9 +11,7 @@ The mean (± SD) elimination half-life from plasma is 12 ± 1.3 hours; steady-st
 The absolute bioavailability of moxifloxacin is approximately 90 percent.
 When switching from intravenous to oral formulation, no dosage adjustment is necessary [see Dosage and Administration (2.1)].
 
-Table 5: Mean (± SD) Cmax and AUC Values Following Single and Multiple
-
-Doses of 400 mg Moxifloxacin Given by 1 Hour Intravenous Infusion
+Table 5: Mean (± SD) Cmax and AUC Values Following Single and Multiple Doses of 400 mg Moxifloxacin Given by 1 Hour Intravenous Infusion
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |
@@ -25,10 +23,8 @@ Doses of 400 mg Moxifloxacin Given by 1 Hour Intravenous Infusion
 | Healthy young male (n = 8) Healthy elderly (n =12; 8 male, 4 female) | 4.2 ± 0.8 6.1 ± 1.3 | 38 ± 4.7 48.2 ± 0.9 | 14.8 ± 2.2 10.1 ± 1.6 |
 | Patientsb (n = 107) |  |  |  |
 | Male (n = 58) Female (n = 49) < 65 years (n = 52) ≥ 65 years (n = 55) | 4.2 ± 2.6 4.6 ± 1.5 4.1 ± 1.4 4.7 ± 2.7 |  |  |
-
-a Range of means from different studies
-
-b Expected Cmax (concentration obtained around the time of the end of the infusion)
+| a Range of means from different studies |  |  |  |
+| b Expected Cmax (concentration obtained around the time of the end of the infusion) |  |  |  |
 
 Distribution
 
@@ -51,16 +47,11 @@ Table 6: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Correspondi
 | Blister Fluid Subcutaneous Tissue Skeletal Muscle | 5 6 6 | 3 ± 0.5c 2.3 ± 0.4d 2.3 ± 0.4d | 2.6 ± 0.9 0.9 ± 0.3e 0.9 ± 0.2e | 0.9 ± 0.2 0.4 ± 0.6 0.4 ± 0.1 |
 | Intra-Abdominal |  |  |  |  |
 | Abdominal tissue Abdominal exudate Abscess fluid | 8 10 6 | 2.9 ± 0.5 2.3 ± 0.5 2.7 ± 0.7 | 7.6 ± 2 3.5 ± 1.2 2.3 ± 1.5 | 2.7 ± 0.8 1.6 ± 0.7 0.8 ± 0.4 |
-
-a All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing.
-
-b N = 5
-
-c N = 7
-
-d N = 12
-
-e Reflects only non-protein bound concentrations of drug.
+| a All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing. |  |  |  |  |
+| b N = 5 |  |  |  |  |
+| c N = 7 |  |  |  |  |
+| d N = 12 |  |  |  |  |
+| e Reflects only non-protein bound concentrations of drug. |  |  |  |  |
 
 Metabolism
 
@@ -71,11 +62,13 @@ Approximately 14% of an oral or intravenous dose is converted to a glucuronide c
 Peak plasma concentrations of M2 are approximately 40% those of the parent drug, while plasma concentrations of M1 are generally less than 10% those of moxifloxacin.
 
 In vitro studies with cytochrome (CYP) P450 enzymes indicate that moxifloxacin does not inhibit CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2, suggesting that moxifloxacin is unlikely to alter the pharmacokinetics of drugs metabolized by these enzymes.
+
 Excretion
 
 Approximately 45% of an oral or intravenous dose of moxifloxacin is excreted as unchanged drug (~20% in urine and ~25% in feces).
 A total of 96% ± 4% of an oral dose is excreted as either unchanged drug or known metabolites.
 The mean (± SD) apparent total body clearance and renal clearance are 12 ± 2 L/hr and 2.6 ± 0.5 L/hr, respectively.
+
 Pharmacokinetics in Specific Populations
 
 Geriatric
@@ -95,12 +88,16 @@ Following oral administration of 400 mg moxifloxacin daily for 10 days to 23 hea
 There are no significant differences in moxifloxacin pharmacokinetics between male and female subjects when differences in body weight are taken into consideration.
 
 A 400 mg single dose study was conducted in 18 young males and females.
-The comparison of moxifloxacin pharmacokinetics in this study (9 young females and 9 young males) showed no differences in AUC or Cmax due to gender.
+The comparison of moxifloxacin pharmacokinetics in this study (9 young females and
+
+9 young males) showed no differences in AUC or Cmax due to gender.
 Dosage adjustments based on gender are not necessary.
 
 Race
 
-Steady-state moxifloxacin pharmacokinetics in male Japanese subjects were similar to those determined in Caucasians, with a mean Cmax of 4.1 mcg/mL, an AUC24 of 47 mcg•h/mL, and an elimination half-life of 14 hours, following 400 mg p.o. daily.
+Steady-state moxifloxacin pharmacokinetics in male Japanese subjects were similar to those determined in Caucasians, with a mean Cmax of 4.1 mcg/mL, an AUC24 of
+
+47 mcg•h/mL, and an elimination half-life of 14 hours, following 400 mg p.o. daily.
 
 Renal Insufficiency
 
@@ -142,7 +139,7 @@ A study of the skin response to ultraviolet (UVA and UVB) and visible radiation 
 The minimum erythematous dose (MED) was measured before and after treatment with moxifloxacin (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
 In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
 
-It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.13), Adverse Reactions (6.3), and Patient Counseling Information (17)].
+It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject's susceptibility to this adverse event such as: a patient's skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.14), Adverse Reactions (6.3), and Patient Counseling Information (17)].
 
 Drug-Drug Interactions
 
@@ -229,51 +226,36 @@ Moxifloxacin has been shown to be active against most isolates of the following 
 
 Gram-positive bacteria
 
-• Enterococcus faecalis
-
-• Staphylococcus aureus
-
-• Streptococcus anginosus
-
-• Streptococcus constellatus
-
-• Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]**)
-
-• Streptococcus pyogenes
+- Enterococcus faecalis
+- Staphylococcus aureus
+- Streptococcus anginosus
+- Streptococcus constellatus
+- Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]**)
+- Streptococcus pyogenes
 
 **MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibacterial drugs: penicillin (MIC) ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
 Gram-negative bacteria
 
-• Enterobacter cloacae
-
-• Escherichia coli
-
-• Haemophilus influenzae
-
-• Haemophilus parainfluenzae
-
-• Klebsiella pneumoniae
-
-• Moraxella catarrhalis
-
-• Proteus mirabilis
+- Enterobacter cloacae
+- Escherichia coli
+- Haemophilus influenzae
+- Haemophilus parainfluenzae
+- Klebsiella pneumoniae
+- Moraxella catarrhalis
+- Proteus mirabilis
 
 Anaerobic bacteria
 
-• Bacteroides fragilis
-
-• Bacteroides thetaiotaomicron
-
-• Clostridium perfringens
-
-• Peptostreptococcus species
+- Bacteroides fragilis
+- Bacteroides thetaiotaomicron
+- Clostridium perfringens
+- Peptostreptococcus species
 
 Other microorganisms
 
-• Chlamydophila pneumoniae
-
-• Mycoplasma pneumoniae
+- Chlamydophila pneumoniae
+- Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to 1 mcg/mL for moxifloxacin.
@@ -281,93 +263,21 @@ However, the efficacy of moxifloxacin in treating clinical infections due to the
 
 Gram-positive bacteria
 
-• Staphylococcus epidermidis
-
-• Streptococcus agalactiae
-
-• Streptococcus viridans group
+- Staphylococcus epidermidis
+- Streptococcus agalactiae
+- Streptococcus viridans group
 
 Gram-negative bacteria
 
-• Citrobacter freundii
-
-• Klebsiella oxytoca
-
-• Legionella pneumophila
+- Citrobacter freundii
+- Klebsiella oxytoca
+- Legionella pneumophila
 
 Anaerobic bacteria
 
-• Fusobacterium species
+- Fusobacterium species
+- Prevotella species
 
-• Prevotella species
+Susceptibility Testing
 
-Susceptibility Tests Methods
-
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-• Dilution Techniques:
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method (broth and/or agar).1 The MIC values should be interpreted according to the criteria in Table 7.
-
-• Diffusion Techniques:
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size prove should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 5 mcg moxifloxacin to test the susceptibility of bacteria to moxifloxacin.
-The disc diffusion interpretive criteria are provided in Table 7.
-
-• Anaerobic Techniques:
-
-For anaerobic bacteria, the susceptibility to moxifloxacin can be determined by a standardized test method.4 The MIC values obtained should be interpreted according to the criteria provided in Table 7.
-
-Table 7: Susceptibility Test Interpretive Criteria for Moxifloxacin
-
-|  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Species | S | I | R | S | I | R |
-| Enterobacteriacae | ≤ 2 | 4 | ≥ 8 | ≥ 19 | 16 to 18 | ≤ 15 |
-| Enterococcus faecalis | ≤ 1 | 2 | ≥ 4 | ≥ 18 | 15 to 17 | ≤ 14 |
-| Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 19 | 16 to 18 | ≤ 15 |
-| Haemophilus influenzae | ≤ 1 | a | a | ≥ 18 | a | a |
-| Haemophilus parainfluenzae | ≤ 1 | a | a | ≥ 18 | a | a |
-| Streptococcus pneumoniae | ≤ 1 | 2 | ≥ 4 | ≥ 18 | 15 to 17 | ≤ 14 |
-| Streptococcus species | ≤ 1 | 2 | ≥ 4 | ≥ 18 | 15 to 17 | ≤ 14 |
-| Anaerobic bacteria | ≤ 2 | 4 | ≥ 8 | - | - | - |
-
-S=susceptible, I=Intermediate, and R=resistant.
-
-a The current absence of data on moxifloxacin-resistant isolates precludes defining any
-
-results other than “Susceptible”.
-Isolates yielding test results (MIC or zone diameter) other
-
-than susceptible, should be submitted to a reference laboratory for additional testing.
-
-A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug product can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-• Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test.1,2,3,4 Standard moxifloxacin powder should provide the following range of MIC values noted in Table 8.
-For the diffusion technique using the 5 mcg moxifloxacin disk, the criteria in Table 8 should be achieved.
-
-Table 8: Acceptable Quality Control Ranges for Moxifloxacin
-
-| Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
-| --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 | 0.06 to 0.5 | - |
-| Escherichia coli ATCC 25922 | 0.008 to 0.06 | 28 to 35 |
-| Haemophilus influenzae ATCC 49247 | 0.008 to 0.03 | 31 to 39 |
-| Staphylococcus aureus ATCC 29213 | 0.015 to 0.06 | - |
-| Staphylococcus aureus ATCC 25923 | - | 28 to 35 |
-| Streptococcus pneumoniae ATCC 49619 | 0.06 to 0.25 | 25 to 31 |
-| Bacteroides fragilis ATCC 25285 | 0.125 to 0.5 | - |
-| Bacteroides thetaiotaomicron ATCC 29741 | 1 to 4 | - |
-| Eubacterium lentum ATCC 43055 | 0.125 to 0.5 | - |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

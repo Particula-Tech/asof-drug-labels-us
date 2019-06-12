@@ -57,9 +57,7 @@ The clinical and bacteriological success rates based on the number of patients t
 
 * MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
-Table 11: Clinical and Bacteriological Success Rates for Moxifloxacin-Treated
-
-MDRSP CAP Patients (Population: Valid for Efficacy)
+Table 11: Clinical and Bacteriological Success Rates for Moxifloxacin-Treated MDRSP CAP Patients (Population: Valid for Efficacy)
 
 | Screening Susceptibility | Clinical Success |  | Bacteriological Success |  |
 | --- | --- | --- | --- | --- |
@@ -69,30 +67,15 @@ MDRSP CAP Patients (Population: Valid for Efficacy)
 | Macrolide-resistantd | 22/23 | 96% | 22/23 | 96% |
 | Trimethoprim/sulfamethoxazole-resistant | 28/30 | 93% | 28/30 | 93% |
 | Tetracycline-resistant | 17/18 | 94% | 17/18 | 94% |
-
-a n = number of patients successfully treated; N = number of patients with MDRSP (from a
-
-total of 37 patients)
-
-b n = number of patients successfully treated (presumed eradication or eradication);
-
-N = number of patients with MDRSP (from a total of 37 patients)
-
-c One patient had a respiratory isolate that was resistant to penicillin and cefuroxime but a
-
-blood isolate that was intermediate to penicillin and cefuroxime.
-The patient is included in
-
-the database based on the respiratory isolate.
-
-d Azithromycin, clarithromycin, and erythromycin were the macrolide antimicrobials tested.
+| a n = number of patients successfully treated; N = number of patients with MDRSP (from a total of 37 patients) |  |  |  |  |
+| b n = number of patients successfully treated (presumed eradication or eradication); N = number of patients with MDRSP (from a total of 37 patients) |  |  |  |  |
+| c One patient had a respiratory isolate that was resistant to penicillin and cefuroxime but a blood isolate that was intermediate to penicillin and cefuroxime. The patient is included in the database based on the respiratory isolate. |  |  |  |  |
+| d Azithromycin, clarithromycin, and erythromycin were the macrolide antimicrobials tested. |  |  |  |  |
 
 Not all isolates were resistant to all antimicrobial classes tested.
 Success and eradication rates are summarized in Table 12.
 
-Table 12: Clinical Success Rates and Microbiological Eradication Rates for Resistant
-
-Streptococcus pneumoniae (Community Acquired Pneumonia)
+Table 12: Clinical Success Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
 
 | S. pneumoniae with MDRSP | Clinical Success | Bacteriological Eradication Rate |
 | --- | --- | --- |
@@ -101,13 +84,7 @@ Streptococcus pneumoniae (Community Acquired Pneumonia)
 | Resistant to 4 antimicrobials | 6/6 (100%) | 6/6 (100%) |
 | Resistant to 5 antimicrobials | 7/7 (100%)a | 7/7 (100%)a |
 | Bacteremia with MDRSP | 9/9 (100%) | 9/9 (100%) |
-
-a One patient had a respiratory isolate resistant to 5 antimicrobials and a blood isolate
-
-resistant to 3 antimicrobials.
-The patient was included in the category resistant to 5
-
-antimicrobials.
+| a One patient had a respiratory isolate resistant to 5 antimicrobials and a blood isolate resistant to 3 antimicrobials. The patient was included in the category resistant to 5 antimicrobials. |  |  |
 
 ## 14.4 Acute Bacterial Sinusitis
 
@@ -138,20 +115,15 @@ Success rates varied with the type of diagnosis ranging from 61% in patients wit
 These rates were similar to those seen with comparator drugs.
 The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 13 and 14.
 
-Table 13: Overall Clinical Success Rates in Patients with Complicated
-
-Skin and Skin Structure Infections
+Table 13: Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
 
 | Study | Moxifloxacin n/N (%) | Comparator n/N (%) | 95% Confidence Interval* |
 | --- | --- | --- | --- |
 | North America | 125/162 (77.2%) | 141/173 (81.5%) | (-14.4%, 2%) |
 | International | 254/315 (80.6%) | 268/317 (84.5%) | (-9.4%, 2.2%) |
+| * of difference in success rates between moxifloxacin and comparator (moxifloxacin - comparator) |  |  |  |
 
-* of difference in success rates between moxifloxacin and comparator (moxifloxacin - comparator)
-
-Table 14: Clinical Success Rates by Pathogen in Patients with Complicated
-
-Skin and Skin Structure Infections
+Table 14: Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
 
 | Pathogen | Moxifloxacin n/N (%) | Comparator n/N (%) |
 | --- | --- | --- |
@@ -159,8 +131,7 @@ Skin and Skin Structure Infections
 | Escherichia coli | 31/38 (81.6%) | 28/33 (84.8%) |
 | Klebsiella pneumoniae | 11/12 (91.7%) | 7/10 (70%) |
 | Enterobacter cloacae | 9/11 (81.8%) | 4/7 (57.1%) |
-
-a methicillin susceptibility was only determined in the North American Study
+| a methicillin susceptibility was only determined in the North American Study |  |  |
 
 ## 14.7 Complicated Intra-Abdominal Infections
 
@@ -182,11 +153,6 @@ Table 15: Clinical Success Rates in Patients with Complicated Intra-Abdominal In
 | International (overall) | 199/246 (80.9%) | 218/265 (82.3%) | (-8.9%, 4.2%) |
 | Abscess | 73/93 (78.5%) | 86/99 (86.9%) | NA |
 | Non-abscess | 126/153 (82.4%) | 132/166 (79.5%) | NA |
-
-a of difference in success rates between moxifloxacin and comparator (moxifloxacin –
-
-comparator)
-
-b Excludes 2 patients who required additional surgery within the first 48 hours.
-
-c NA – not applicable
+| a of difference in success rates between moxifloxacin and comparator (moxifloxacin – comparator) |  |  |  |
+| b Excludes 2 patients who required additional surgery within the first 48 hours. |  |  |  |
+| c NA – not applicable |  |  |  |

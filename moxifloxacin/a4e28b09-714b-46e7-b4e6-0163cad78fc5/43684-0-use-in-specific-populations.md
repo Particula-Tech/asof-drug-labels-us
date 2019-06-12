@@ -24,7 +24,7 @@ Because of the potential for serious adverse reactions in infants who are nursin
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients and adolescents less than 18 years of age have not been established.
-Moxifloxacin causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.11), and Clinical Pharmacology (12.3)].
+Moxifloxacin causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.12), and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -34,9 +34,11 @@ Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other 
 Caution should be used when prescribing moxifloxacin to elderly patients especially those on corticosteroids.
 Patients should be informed of this potential side effect and advised to discontinue moxifloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.1, 5.2), and Adverse Reactions (6.4)].
 
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
+
 Moxifloxacin injection contains 1,207 mg (52.5 mEq) of sodium per unit dose.
 The geriatric population may respond with a blunted natriuresis to salt loading.
-This may be clinically important with regard to such diseases as congestive heart failure [see Warnings and Precautions (5.10)].
+This may be clinically important with regard to such diseases as congestive heart failure [see Warnings and Precautions (5.11)].
 
 In controlled multiple-dose clinical trials, 23% of patients receiving oral moxifloxacin were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral moxifloxacin in patients aged 65 or older compared to younger adults.

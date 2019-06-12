@@ -10,7 +10,7 @@ Therefore the prothrombin time, International Normalized Ratio (INR), or other s
 
 Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
 Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered.
-If a hypoglycemic reaction occurs, moxifloxacin should be discontinued and appropriate therapy should be initiated immediately [see Warnings and Precautions (5.12), Adverse Reactions (6.2), and Patient Counseling Information (17)].
+If a hypoglycemic reaction occurs, moxifloxacin should be discontinued and appropriate therapy should be initiated immediately [see Warnings and Precautions (5.13), Adverse Reactions (6.2), and Patient Counseling Information (17)].
 
 ## 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 

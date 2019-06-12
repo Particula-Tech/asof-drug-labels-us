@@ -9,6 +9,6 @@ Discontinue moxifloxacin immediately and avoid the use of fluoroquinolones, incl
 
 - Fluoroquinolones, including moxifloxacin, may exacerbate muscle weakness in patients with myasthenia gravis.
   Avoid moxifloxacin in patients with known history of myasthenia gravis [see Warnings and Precautions (5.5)].
-- Because fluoroquinolones, including moxifloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.13)], reserve moxifloxacin for use in patients who have no alternative treatment options for the following indications:
-- Acute sinusitis [see Indications and Usage (1.5)]
-- Acute bacterial exacerbation of chronic bronchitis [see Indications and Usage (1.6)]
+- Because fluoroquinolones, including moxifloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)], reserve moxifloxacin for use in patients who have no alternative treatment options for the following indications:
+  - Acute sinusitis [see Indications and Usage (1.5)]
+  - Acute bacterial exacerbation of chronic bronchitis [see Indications and Usage (1.6)]
