@@ -6,7 +6,7 @@ Each milliliter of sterile solution contains 2 mg, 4 mg, 5 mg, 8 mg or 10 mg of 
 
 The chemical name is 7,8-Didehydro-4,5-epoxy-17-methyl-(5α,6α)-morphinan-3,6-diol sulfate (2: 1) (salt), pentahydrate.
 The molecular weight is 758.83.
-Its molecular formula is (C17H19NO3)2 • H2SO4 • 5H2O and it has the following chemical structure:
+Its molecular formula is (C 17H 19NO 3) 2 • H 2SO 4 • 5H 2O and it has the following chemical structure:
 
 Morphine sulfate is a fine white powder.
 When exposed to air it gradually loses water of hydration, and darkens on prolonged exposure to light.
