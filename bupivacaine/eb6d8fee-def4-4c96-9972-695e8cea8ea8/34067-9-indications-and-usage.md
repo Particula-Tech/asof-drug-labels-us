@@ -6,18 +6,17 @@ Only the 0.25% and 0.5% concentrations are indicated for obstetrical anesthesia 
 Experience with nonobstetrical surgical procedures in pregnant patients is not sufficient to recommend use of the 0.75% concentration of bupivacaine HCl in these patients.
 
 Sensorcaine is not recommended for intravenous regional anesthesia (Bier Block) (see WARNINGS).
-
 The routes of administration and indicated Sensorcaine concentrations are:
 
-| • local infiltration | 0.25% |
+| local infiltration | 0.25% |
 | --- | --- |
-| • peripheral nerve block | 0.25%, and 0.5% |
-| • retrobulbar block | 0.75% |
-| • sympathetic block | 0.25% |
-| • lumbar epidural | 0.25%, 0.5%, and 0.75% (0.75% not for obstetrical anesthesia) |
-| • caudal | 0.25% and 0.5% |
-| • epidural test dose | 0.5% with epinephrine 1:200,000 |
-| • dental blocks | 0.5% with epinephrine 1:200,000 |
+| peripheral nerve block | 0.25%, and 0.5% |
+| retrobulbar block | 0.75% |
+| sympathetic block | 0.25% |
+| lumbar epidural | 0.25%, 0.5%, and 0.75% (0.75% not for obstetrical anesthesia) |
+| caudal | 0.25% and 0.5% |
+| epidural test dose | 0.5% with epinephrine 1:200,000 |
+| dental blocks | 0.5% with epinephrine 1:200,000 |
 
 (See DOSAGE AND ADMINISTRATION for additional information.)
 

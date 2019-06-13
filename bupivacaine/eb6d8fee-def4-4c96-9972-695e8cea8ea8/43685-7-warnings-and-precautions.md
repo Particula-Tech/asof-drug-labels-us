@@ -1,34 +1,18 @@
 # WARNINGS
 
-| THE 0.75% CONCENTRATION OF SENSORCAINE INJECTION IS NOT RECOMMENDED FOR OBSTETRICAL ANESTHESIA. THERE HAVE BEEN REPORTS OF CARDIAC ARREST WITH DIFFICULT RESUSCITATION OR DEATH DURING USE OF BUPIVACAINE FOR EPIDURAL ANESTHESIA IN OBSTETRICAL PATIENTS. IN MOST CASES, THIS HAS FOLLOWED USE OF THE 0.75% CONCENTRATION. RESUSCITATION HAS BEEN DIFFICULT OR IMPOSSIBLE DESPITE APPARENTLY ADEQUATE PREPARATION AND APPROPRIATE MANAGEMENT. CARDIAC ARREST HAS OCCURRED AFTER CONVULSIONS RESULTING FROM SYSTEMIC TOXICITY, PRESUMABLY FOLLOWING UNINTENTIONAL INTRAVASCULAR INJECTION. THE 0.75% CONCENTRATION SHOULD BE RESERVED FOR SURGICAL PROCEDURES WHERE A HIGH DEGREE OF MUSCLE RELAXATION AND PROLONGED EFFECT ARE NECESSARY. |
-| --- |
+## Methemoglobinemia:
 
-LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS, PRECAUTIONS, and OVERDOSAGE).
-DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
 
-Local anesthetic solutions containing antimicrobial preservatives, i.e., those supplied in multiple-dose vials, should not be used for epidural or caudal anesthesia because safety has not been established with regard to intrathecal injection, either intentionally or unintentionally, of such preservatives.
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue Sensorcaine and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
-Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
-The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
-There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
-The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
-Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
-
-It is essential that aspiration for blood or cerebrospinal fluid (where applicable) be done prior to injecting any local anesthetic, both the original dose and all subsequent doses, to avoid intravascular or subarachnoid injection.
-However, a negative aspiration does not ensure against an intravascular or subarachnoid injection.
-
-Bupivacaine with Epinephrine 1:200,000 or other vasopressors should not be used concomitantly with ergot-type oxytocic drugs, because a severe persistent hypertension may occur.
-Likewise, solutions of bupivacaine containing a vasoconstrictor, such as epinephrine, should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe prolonged hypertension may result.
-
-Until further experience is gained in pediatric patients younger than 12 years, administration of bupivacaine in this age group is not recommended.
-
-Mixing or the prior or intercurrent use of any local anesthetic with bupivacaine cannot be recommended because of insufficient data on the clinical use of such mixtures.
-
-There have been reports of cardiac arrest and death during the use of bupivacaine for intravenous regional anesthesia (Bier Block).
-Information on safe dosages and techniques of administration of bupivacaine in this procedure is lacking.
-Therefore, bupivacaine is not recommended for use in this technique.
-
-Sensorcaine with epinephrine 1:200,000 contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+Sensorcaine with epinephrine 1:200,000 contains sodium metabisulfite, a sulfite that may cause allergic- type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 Sensorcaine and Sensorcaine - MPF without epinephrine single dose vials do not contain sodium metabisulfite.
@@ -60,14 +44,14 @@ Patients on beta-blockers may not manifest changes in heart rate, but blood pres
 The test dose should also contain 10 mg to 15 mg of Sensorcaine or an equivalent amount of another local anesthetic to detect an unintended intrathecal administration.
 This will be evidenced within a few minutes by signs of spinal block (e.g., decreased sensation of the buttocks, paresis of the legs, or, in the sedated patient, absent knee jerk).
 An intravascular or subarachnoid injection is still possible even if results of the test dose are negative.
-The test dose itself may produce a systemic toxic reaction, high spinal or epinephrine-induced cardiovascular effects.
+The test dose itself may produce a systemic toxic reaction, high spinal or epinephrine- induced cardiovascular effects.
 
 Injection of repeated doses of local anesthetics may cause significant increases in plasma levels with each repeated dose due to slow accumulation of the drug or its metabolites, or to slow metabolic degradation.
 Tolerance to elevated blood levels varies with the status of the patient.
 Debilitated, elderly patients and acutely ill patients should be given reduced doses commensurate with their age and physical status.
 Local anesthetics should also be used with caution in patients with hypotension or heartblock.
 
-Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be performed after each local anesthetic injection.
+Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness should be performed after each local anesthetic injection.
 It should be kept in mind at such times that restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
 
 Local anesthetic solutions containing a vasoconstrictor should be used cautiously and in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply such as digits, nose, external ear, or penis.
@@ -120,6 +104,9 @@ Also, when appropriate, the physician should discuss other information including
 
 Patients receiving dental injections of Sensorcaine should be cautioned not to chew solid foods or test the anesthetized area by biting or probing until anesthesia has worn off (up to 7 hours).
 
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
+
 ## Clinically Significant Drug Interactions
 
 The administration of local anesthetic solutions containing epinephrine or norepinephrine to patients receiving monoamine oxidase inhibitors or tricyclic antidepressants may produce severe, prolonged hypertension.
@@ -129,6 +116,20 @@ In situations when concurrent therapy is necessary, careful patient monitoring i
 Concurrent administration of vasopressor drugs and of ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.
 
 Phenothiazines and butyrophenones may reduce or reverse the pressor effect of epinephrine.
+
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -143,7 +144,7 @@ Bupivacaine hydrochloride produced developmental toxicity when administered subc
 This does not exclude the use of Sensorcaine at term for obstetrical anesthesia or analgesia (see Labor and Delivery).
 
 Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, & 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
-The high doses are comparable to the daily maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 body surface area (BSA) basis.
+The high doses are comparable to the daily maximum recommended human dose (MRHD) of 400 mg/day on a mg/m 2 body surface area (BSA) basis.
 No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level representing approximately 1/5th the MRHD on a BSA basis.
 
@@ -157,16 +158,18 @@ SEE BOX WARNING REGARDING OBSTETRICAL USE OF 0.75% SENSORCAINE.
 Sensorcaine is contraindicated for obstetrical paracervical block anesthesia.
 
 Local anesthetics rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
-The incidence and degree of toxicity depend upon the procedure performed, the type, and amount of drug used, and the technique of drug administration.
+The incidence and degree of toxicity depend upon the procedure performed, the type, and amount of drug used, and the technique of drug
+
+administration.
 Adverse reactions in the parturient, fetus, and neonate involve alterations of the central nervous system, peripheral vascular tone, and cardiac function.
 
 Maternal hypotension has resulted from regional anesthesia.
 Local anesthetics produce vasodilation by blocking sympathetic nerves.
-Elevating the patient’s legs and positioning her on her left side will help prevent decreases in blood pressure.
+Elevating the patient's legs and positioning her on her left side will help prevent decreases in blood pressure.
 The fetal heart rate also should be monitored continuously and electronic fetal monitoring is highly advisable.
 
 Epidural, caudal, or pudendal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
-Epidural anesthesia has been reported to prolong the second stage of labor by removing the parturient’s reflex urge to bear down or by interfering with motor function.
+Epidural anesthesia has been reported to prolong the second stage of labor by removing the parturient's reflex urge to bear down or by interfering with motor function.
 The use of obstetrical anesthesia may increase the need for forceps assistance.
 
 The use of some local anesthetic drug products during labor and delivery may be followed by diminished muscle strength and tone for the first day or two of life.

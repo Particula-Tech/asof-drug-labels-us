@@ -34,6 +34,7 @@ Generally, the lower the plasma concentration of drug the higher the percentage 
 Local anesthetics appear to cross the placenta by passive diffusion.
 The rate and degree of diffusion is governed by (1) the degree of plasma protein binding, (2) the degree of ionization, and (3) the degree of lipid solubility.
 Fetal/maternal ratios of local anesthetics appear to be inversely related to the degree of plasma protein binding, because only the free, unbound drug is available for placental transfer.
+
 Bupivacaine with a high protein binding capacity (95%) has a low fetal/maternal ratio (0.2 to 0.4).
 The extent of placental transfer is also determined by the degree of ionization and lipid solubility of the drug.
 Lipid soluble, nonionized drugs readily enter the fetal blood from the maternal circulation.
@@ -63,4 +64,4 @@ The kidney is the main excretory organ for most local anesthetics and their meta
 Urinary excretion is affected by urinary perfusion and factors affecting urinary pH.
 Only 6% of bupivacaine is excreted unchanged in the urine.
 
-When administered in recommended doses and concentrations, Sensorcaine (bupivacaine HCl) does not ordinarily produce irritation or tissue damage and does not cause methemoglobinemia.
+When administered in recommended doses and concentrations, Sensorcaine (bupivacaine HCl) does not ordinarily produce irritation or tissue damage.
