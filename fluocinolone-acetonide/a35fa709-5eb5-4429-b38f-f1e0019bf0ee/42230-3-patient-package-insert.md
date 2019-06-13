@@ -68,10 +68,11 @@ How should I use TRI-LUMA Cream?
 What should I avoid while using TRI-LUMA Cream?
 
 - You should avoid sunlight, sunlamps, tanning beds, and ultraviolet light during treatment with TRI-LUMA Cream.
-- Use sunscreen with an SPF (sun protection factor) of 30 or more.
-  If you have to be in the sunlight, wear a wide-brimmed hat or other protective clothing to cover the treated areas.
-- Melasma can get worse with even a small amont of sunlight.
-  You should continue to avoid sunlight, use sunscreen, and wear protective clothing after treatment with TRI-LUMA Cream.
+  - Use a sunscreen with SPF (sun protection factor) of 30 or more.
+    If you have to be in the sunlight, wear a wide-brimmed hat or other protective clothing to cover the treated areas.
+  - Melasma can get worse with even a small amount of sunlight.
+    You should continue to avoid sunlight, use sunscreen, and wear protective clothing after treatment with TRI-LUMA Cream.
+
 - Females should avoid the use of hormonal forms of birth control.
   Hormonal birth control methods can cause your melasma to become worse.
   Talk to your doctor about other birth control options.
@@ -83,29 +84,27 @@ What are the possible side effects of TRI-LUMA Cream?
 TRI-LUMA Cream may cause serious side effects, including:
 
 - allergic reactions.
-TRI-LUMA Cream may cause allergic reactions that can be life threatening.
-Stop using TRI-LUMA Cream and call your doctor or get medical help right away if you get any of the following symptoms:
-
-- swelling of your face, eyes, lips, tongue, or throat
-- trouble breathing
-- severe itching
-- skin rash or hives
+  TRI-LUMA Cream may cause allergic reactions that can be life threatening.
+  Stop using TRI-LUMA Cream and call your doctor to get medical help right away if you get any of the following symptoms:
+  - swelling of your face, eyes, lips, tongue, or throat
+  - trouble breathing
+  - severe itching
+  - skin rash or hives
 
 - change in skin color.
-One of the medicines in TRI-LUMA Cream can cause a blue-black darkening of your skin.
-Stop using TRI-LUMA Cream and tell you doctor if you develop a blue-black darkening of your skin.
+  One of the medicines in TRI-LUMA Cream can cause a blue-black darkening of your skin.
+  Stop using TRI-LUMA Cream and tell your doctor if you develop a blue-black darkening of your skin.
 
-- TRI-LUMA Cream can pass through your skin.
+• TRI-LUMA Cream can pass through your skin.
 Too much TRI-LUMA Cream passing through your skin can cause your adrenal glands to stop working.
 Your doctor may do blood tests to check for adrenal gland problems.
 
 - skin irritation.
-Stop using TRI-LUMA Cream and call your doctor if you have:
-
-- blistering or crusting of your skin
-- severe burning
-- swelling of your skin
-- irritation of your eyes, nose, or mouth
+  Stop using TRI-LUMA Cream and call your doctor if you have:
+  - blistering or crusting of your skin
+  - severe burning
+  - swelling of your skin
+  - irritation of your eyes, nose, or mouth
 
 The most common side effects of TRI-LUMA Cream include:
 

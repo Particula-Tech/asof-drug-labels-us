@@ -8,6 +8,27 @@ The most frequently reported events were erythema, desquamation, burning, drynes
 The majority of these events were mild to moderate in severity.
 Adverse events reported by at least 1% of patients and judged by the investigators to be reasonably related to treatment with TRI-LUMA Cream from the controlled clinical trials are summarized (in decreasing order of frequency) as follows:
 
+| Table 1. Incidence and Frequency of Treatment-related Adverse Events with TRI-LUMA Cream in at least 1% or more of Subjects (N=161) |  |
+| --- | --- |
+| Adverse Event | n (%) |
+| Erythema | 66 (41%) |
+| Desquamation | 61 (38%) |
+| Burning | 29 (18%) |
+| Dryness | 23 (14%) |
+| Pruritus | 18 (11%) |
+| Acne | 8 (5%) |
+| Paresthesia | 5 (3%) |
+| Telangiectasia | 5 (3%) |
+| Hyperesthesia | 3 (2%) |
+| Pigmentary changes | 3 (2%) |
+| Irritation | 3 (2%) |
+| Papules | 2 (1%) |
+| Acne-like rash | 1 (1%) |
+| Rosacea | 1 (1%) |
+| Dry Mouth | 1 (1%) |
+| Rash | 1 (1%) |
+| Vesicles | 1 (1%) |
+
 In an open-label trial, subjects who had cumulative treatment of melasma with TRI-LUMA Cream for 6 months showed a similar pattern of adverse events as in the 8-week studies.
 
 The following local adverse reactions have been reported with topical corticosteroids.

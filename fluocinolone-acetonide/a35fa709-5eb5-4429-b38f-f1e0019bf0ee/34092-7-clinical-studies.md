@@ -15,9 +15,29 @@ TRI-LUMA Cream was demonstrated to be significantly more effective than any of t
 
 PRIMARY EFFICACY ANALYSIS:
 
+| Table 2. Investigators' Assessment of Treatment Success Treatment success was defined as melasma severity score of zero (melasma lesions cleared of hyperpigmentation) At the End of 8 Weeks of Treatment |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | TRI-LUMA | HQ+RA | FA+RA | FA+HQ |
+| Trial 1 | Subjects, n | 85 | 83 | 85 | 85 |
+| Successes, n | 32 | 12 | 0 | 3 |  |
+| Proportion of Successes | 38% | 15% | 0 | 4% |  |
+| p-value |  | ‹ 0.001 | ‹ 0.001 | ‹ 0.001 |  |
+| Trial 2 | Subjects, n | 76 | 75 | 76 | 76 |
+| Successes, n | 10 | 3 | 3 | 1 |  |
+| Proportion of Successes | 13% | 4% | 4% | 1% |  |
+| p-value |  | 0.045 | 0.042 | 0.005 |  |
+
 p-value is from Cochran-Mantel-Haenszel chi-square statistics controlling for pooled investigator and comparing TRI-LUMA Cream to the other treatment groups.
 
 In the Investigators’ assessment of melasma severity at Day 56 of treatment, the following table shows the clinical improvement profile for all subjects treated with TRI-LUMA Cream based on severity of their melasma at the start of treatment.
+
+| Table 3. Investigators' Assessment of Change in Melasma Severity from Baseline to Day 56 of Treatment (combined results from trials 1 and 2) |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Number (%) of Subjects at Day 56Assessment based on subjects with severity scores at Day 56. Percentages are bases on the total number in the treatment group population. |  |  |  |  |
+|  | Baseline |  | Cleared Does not include subjects who cleared before Day 56 or were missing from the Day 56 Assessment | Mild | Moderate | Severe | Missing |
+|  | Severity Rating | n | n (%) | n (%) | n (%) | n (%) | n (%) |
+| TRI-LUMA Cream N=161 | Moderate | 124 | 36 (29) | 63 (51) | 18 (15) | 0 (0) | 7 (6) |
+| Severe | 37 | 6 (16) | 19 (51) | 9 (24) | 2 (5) | 1 (3) |  |
 
 Assessment Scale: Cleared (melasma lesions approximately equivalent to surrounding normal skin or with minimal residual hyperpigmentation); Mild (slightly darker than the surrounding normal skin); Moderate (moderately darker than the surrounding normal skin); Severe (markedly darker than the surrounding normal skin).
 
