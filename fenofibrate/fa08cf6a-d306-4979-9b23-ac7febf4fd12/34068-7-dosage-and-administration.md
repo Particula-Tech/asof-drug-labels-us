@@ -13,6 +13,7 @@ Estrogen therapy, thiazide diuretics and beta-blockers, are sometimes associated
 In such cases, discontinuation of the specific etiologic agent may obviate the need for specific drug therapy of hypertriglyceridemia.
 
 Lipid levels should be monitored periodically and consideration should be given to reducing the dosage of fenofibrate tablets if lipid levels fall significantly below the targeted range.
+
 Therapy should be withdrawn in patients who do not have an adequate response after two months of treatment with the maximum recommended dose of 160 mg once daily.
 
 ## 2.2 Primary Hypercholesterolemia or Mixed Dyslipidemia

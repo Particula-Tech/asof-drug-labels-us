@@ -19,4 +19,4 @@ Since bile acid binding resins may bind other drugs given concurrently, patients
 
 ## 7.4 Colchicine
 
-Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine.
+Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-­administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine.

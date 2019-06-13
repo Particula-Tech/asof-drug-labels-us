@@ -9,12 +9,11 @@ The mean duration of follow-up was 4.7 years.
 Fenofibrate plus statin combination therapy showed a non-significant 8% relative risk reduction in the primary outcome of major adverse cardiovascular events (MACE), a composite of non-fatal myocardial infarction, non-fatal stroke, and cardiovascular disease death (hazard ratio [HR] 0.92, 95% CI 0.79 to 1.08) (p=0.32) as compared to statin monotherapy.
 In a gender subgroup analysis, the hazard ratio for MACE in men receiving combination therapy versus statin monotherapy was 0.82 (95% CI 0.69 to 0.99), and the hazard ratio for MACE in women receiving combination therapy versus statin monotherapy was 1.38 (95% CI 0.98 to 1.94) (interaction p=0.01).
 The clinical significance of this subgroup finding is unclear.
-
 The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study was a 5-year randomized, placebo-controlled study of 9795 patients with type 2 diabetes mellitus treated with fenofibrate.
 Fenofibrate demonstrated a non-significant 11% relative reduction in the primary outcome of coronary heart disease events (hazard ratio [HR] 0.89, 95% CI 0.75 to 1.05, p=0.16) and a significant 11% reduction in the secondary outcome of total cardiovascular disease events (HR 0.89 [0.80 to 0.99], p=0.04).
 There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.18) and 19% (HR 1.19 [0.90, 1.57], p=0.22) increase in total and coronary heart disease mortality, respectively, with fenofibrate as compared to placebo.
 
-Because of chemical, pharmacological, and clinical similarities between fenofibrate tablets, clofibrate, and gemfibrozil, the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to fenofibrate tablets.
+Because of chemical, pharmacological, and clinical similarities between fenofibrate tablets, clofibrate, and gemfibrozil, the adverse findings in 4 large randomized, placebo- controlled clinical studies with these other fibrate drugs may also apply to fenofibrate tablets.
 
 In the Coronary Drug Project, a large study of post myocardial infarction of patients treated for 5 years with clofibrate, there was no difference in mortality seen between the clofibrate group and the placebo group.
 There was however, a difference in the rate of cholelithiasis and cholecystitis requiring surgery between the two groups (3.0% vs. 1.8%).
@@ -26,7 +25,7 @@ This appeared to confirm the higher risk of gallbladder disease seen in clofibra
 
 The Helsinki Heart Study was a large (n=4081) study of middle-aged men without a history of coronary artery disease.
 Subjects received either placebo or gemfibrozil for 5 years, with a 3.5 year open extension afterward.
-Total mortality was numerically higher in the gemfibrozil randomization group but did not achieve statistical significance (p = 0.19, 95% confidence interval for relative risk G:P =.91 to 1.64).
+Total mortality was numerically higher in the gemfibrozil randomization group but did not achieve statistical significance (p = 0.19, 95% confidence interval for relative risk G:P = 0.91 to 1.64).
 Although cancer deaths trended higher in the gemfibrozil group (p = 0.11), cancers (excluding basal cell carcinoma) were diagnosed with equal frequency in both study groups.
 Due to the limited size of the study, the relative risk of death from any cause was not shown to be different than that seen in the 9 year follow-up data from World Health Organization study (RR=1.29).
 
@@ -48,7 +47,7 @@ CPK levels should be assessed in patients reporting these symptoms, and fenofibr
 Data from observational studies indicate that the risk for rhabdomyolysis is increased when fibrates, in particular gemfibrozil, are co-administered with an HMG-CoA reductase inhibitor (statin).
 The combination should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination [see Clinical Pharmacology (12.3)].
 
-Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-­administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
+Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-­ administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine [see Drug Interactions (7.4)].
 
 ## 5.3 Liver Function
 
@@ -104,8 +103,9 @@ If a patient develops signs or symptoms of an acute hypersensitivity reaction, a
 
 Delayed Hypersensitivity
 
-Severe cutaneous adverse drug reactions (SCAR), including Stevens-Johnson syndrome, toxic epidermal necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported postmarketing, occurring days to weeks after initiation of fenofibrate.
-The cases of DRESS were associated with cutaneous reactions (such as rash or exfoliative dermatitis) and a combination of eosinophilia, fever, systemic organ involvement (renal, hepatic, or respiratory).
+Sever cutaneous adverse drug reactions (SCAR), including Stevens-Johnson Syndrome.
+Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported postmarketing, occurring days to weeks after initiation of fenofibrate.
+The cases of DRESS were associated with cutaneous reactions (such as rash or exfoliative dermatitis) and a combination of eosinophilia, fever, system organ involvement (renal, hepatic, or respiratory).
 Discontinue fenofibrate and treat patients appropriately if SCAR is suspected.
 
 ## 5.10 Venothromboembolic Disease
