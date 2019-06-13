@@ -1,9 +1,9 @@
 # DESCRIPTION
 
 Xylocaine (lidocaine HCl) Injections are sterile, nonpyrogenic, aqueous solutions that contain a local anesthetic agent with or without epinephrine and are administered parenterally by injection.
-See INDICATIONS for specific uses.
+See INDICATIONS AND USAGE section for specific uses.
 
-Xylocaine solutions contain lidocaine HCl, which is chemically designated as acetamide, 2-(diethylamino)-N-(2,6-dimethylphenyl)-, monohydrochloride and has the molecular wt.
+Xylocaine solutions contain lidocaine HCl, which is chemically designated as acetamide, 2- (diethylamino)-N-(2,6-dimethylphenyl)-, monohydrochloride and has the molecular wt.
 270.8.
 Lidocaine HCl (C 14H 22N 2O • HCl) has the following structural formula:
 
@@ -14,11 +14,13 @@ Epinephrine (C 9H 13NO 3) has the following structural formula:
 Dosage forms listed as Xylocaine-MPF indicate single dose solutions that are Methyl Paraben Free (MPF).
 
 Xylocaine MPF is a sterile, nonpyrogenic, isotonic solution containing sodium chloride.
-Xylocaine in multiple dose vials: Each mL also contains 1 mg methyl­paraben as antiseptic preservative.
+Xylocaine in multiple dose vials: Each mL also contains 1 mg methylparaben as antiseptic preservative.
 The pH of these solutions is adjusted to approximately 6.5 (5.0 to 7.0) with sodium hydroxide and/or hydrochloric acid.
 
 Xylocaine MPF with Epinephrine is a sterile, nonpyrogenic, isotonic solution containing sodium chloride.
-Each mL contains lidocaine hydrochloride and epinephrine, with 0.5 mg sodium metabisulfite as an antioxidant and 0.2 mg citric acid as a stabilizer.
+Each mL contains lidocaine hydrochloride and epinephrine, with 0.5 mg sodium metabisulfite
+
+as an antioxidant and 0.2 mg citric acid as a stabilizer.
 Xylocaine with Epinephrine in multiple dose vials: Each mL also contains 1 mg methylparaben as antiseptic preservative.
 The pH of these solutions is adjusted to approximately 4.5 (3.3 to 5.5) with sodium hydroxide and/or hydrochloric acid.
 Filled under nitrogen.

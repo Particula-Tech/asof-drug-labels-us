@@ -3,7 +3,7 @@
 ## Systemic
 
 Adverse experiences following the administration of lidocaine HCl are similar in nature to those observed with other amide local anesthetic agents.
-These adverse experiences are, in general, dose-related and may result from high plasma levels caused by excessive dosage, rapid absorption or inadvertent intravascular injection, or may result from a hypersensitivity, idiosyncrasy or diminished tolerance on the part of the patient.
+These adverse experiences are, in general, dose- related and may result from high plasma levels caused by excessive dosage, rapid absorption or inadvertent intravascular injection, or may result from a hypersensitivity, idiosyncrasy or diminished tolerance on the part of the patient.
 Serious adverse experiences are generally systemic in nature.
 The following types are those most commonly reported:
 
@@ -41,4 +41,7 @@ Persistent motor, sensory and/or autonomic (sphincter control) deficit of some l
 Backache and headache have also been noted following use of these anesthetic procedures.
 
 There have been reported cases of permanent injury to extraocular muscles requiring surgical repair following retrobulbar administration.
-Hematologic Methemoglobinemia.
+
+## Hematologic
+
+Methemoglobinemia.

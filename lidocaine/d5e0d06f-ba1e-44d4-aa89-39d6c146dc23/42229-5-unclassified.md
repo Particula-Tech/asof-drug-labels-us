@@ -1,6 +1,4 @@
-For Infiltration and Nerve Block
-
-Rx only
+For Infiltration and Nerve Block Rx only
 
 # MAXIMUM RECOMMENDED DOSAGES
 
@@ -14,15 +12,16 @@ When continuous lumbar or caudal epidural anesthesia is used for non-obstetrical
 The maximum recommended dose per 90 minute period of lidocaine hydrochloride for paracervical block in obstetrical patients and non-obstetrical patients is 200 mg total.
 One half of the total dose is usually administered to each side.
 Inject slowly, five minutes between sides.
-(See also discussion of paracervical block in PRECAUTIONS.)
+Inject slowly, five minutes between sides (see also discussion of paracervical block in PRECAUTIONS.)
 
 For intravenous regional anesthesia, the dose administered should not exceed 4 mg/kg in adults.
 
 ## Children
 
 It is difficult to recommend a maximum dose of any drug for children, since this varies as a function of age and weight.
-For children over 3 years of age who have a normal lean body mass and normal body development, the maximum dose is determined by the child’s age and weight.
+For children over 3 years of age who have a normal lean body mass and normal body development, the maximum dose is determined by the child's age and weight.
 For example, in a child of 5 years weighing 50 lbs the dose of lidocaine HCl should not exceed 75 to 100 mg (1.5 to 2 mg/lb).
+
 The use of even more dilute solutions (i.e., 0.25 to 0.5%) and total dosages not to exceed 3 mg/kg (1.4 mg/lb) are recommended for induction of intravenous regional anesthesia in children.
 
 In order to guard against systemic toxicity, the lowest effective concentration and lowest effective dose should be used at all times.
@@ -33,51 +32,38 @@ The Injection is not to be used if its color is pinkish or darker than slightly 
 
 Table 1: Recommended Dosages
 
-| Procedure | Xylocaine (lidocaine hydrochloride) Injection (without epinephrine) |  |  |
-| --- | --- | --- | --- |
-| Conc (%) | Vol (mL) | Total Dose (mg) |  |
-| Infiltration |  |  |  |
-| Percutaneous | 0.5 or 1 | 1 to 60 | 5 to 300 |
-| Intravenous regional | 0.5 | 10 to 60 | 50 to 300 |
-| Peripheral Nerve Blocks, e.g. |  |  |  |
-| Brachial | 1.5 | 15 to 20 | 225 to 300 |
-| Dental | 2 | 1 to 5 | 20 to 100 |
-| Intercostal | 1 | 3 | 30 |
-| Paravertebral | 1 | 3 to 5 | 30 to 50 |
-| Pudendal (each side) | 1 | 10 | 100 |
-| Paracervical |  |  |  |
-| Obstetrical analgesia (each side) | 1 | 10 | 100 |
-| Sympathetic Nerve Blocks, e.g. |  |  |  |
-| Cervical (stellate ganglion) | 1 | 5 | 50 |
-| Lumbar | 1 | 5 to 10 | 50 to 100 |
-| Central Neural Blocks |  |  |  |
-| Epidural* |  |  |  |
-| Thoracic | 1 | 20 to 30 | 200 to 300 |
-| Lumbar |  |  |  |
-| Analgesia | 1 | 25 to 30 | 250 to 300 |
-| Anesthesia | 1.5 | 15 to 20 | 225 to 300 |
-|  | 2 | 10 to 15 | 200 to 300 |
-| Caudal |  |  |  |
-| Obstetrical analgesia | 1 | 20 to 30 | 200 to 300 |
-| Surgical anesthesia | 1.5 | 15 to 20 | 225 to 300 |
-
-*Dose determined by number of dermatomes to be anesthetized (2 to 3 mL/dermatome).
+| Procedure | Xylocaine (lidocaine hydrochloride) Injection (without epinephrine) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Conc (%) | Vol (mL) |  | Total Dose (mg) |  |
+| Infiltration |  |  |  |  |
+| Percutaneous | 0.5 or 1 | 1 to 60 |  | 5 to 300 |
+| Intravenous regional | 0.5 | 10 to 60 |  | 50 to 300 |
+| Peripheral Nerve Blocks, e.g., |  |  |  |  |
+| Brachial | 1.5 | 15 to 20 |  | 225 to 300 |
+| Dental | 2 | 1 to 5 |  | 20 to 100 |
+| Intercostal | 1 | 3 |  | 30 |
+| Paravertebral | 1 | 3 to 5 |  | 30 to 50 |
+| Pudendal (each side) | 1 | 10 |  | 100 |
+| Paracervical |  |  |  |  |
+| Obstetrical analgesia (each side) | 1 | 10 |  | 100 |
+| Sympathetic Nerve Blocks, e.g., |  |  |  |  |
+| Cervical (stellate ganglion) | 1 | 5 |  | 50 |
+| Lumbar | 1 | 5 to 10 |  | 50 to 100 |
+| Central Neural Blocks |  |  |  |  |
+| Epidural* |  |  |  |  |
+| Thoracic | 1 |  | 20 to 30 | 200 to 300 |
+| Lumbar |  |  |  |  |
+| Analgesia | 1 |  | 25 to 30 | 250 to 300 |
+| Anesthesia | 1.5 |  | 15 to 20 | 225 to 300 |
+|  | 2 |  | 10 to 15 | 200 to 300 |
+| Caudal |  |  |  |  |
+| Obstetrical analgesia | 1 |  | 20 to 30 | 200 to 300 |
+| Surgical anesthesia | 1.5 |  | 15 to 20 | 225 to 300 |
+| *Dose determined by number of dermatomes to be anesthetized (2 to 3 mL/dermatome). |  |  |  |  |
 
 THE ABOVE SUGGESTED CONCENTRATIONS AND VOLUMES SERVE ONLY AS A GUIDE.
 OTHER VOLUMES AND CONCENTRATIONS MAY BE USED PROVIDED THE TOTAL MAXIMUM RECOMMENDED DOSE IS NOT EXCEEDED.
 
-# STERILIZATION, STORAGE AND TECHNICAL PROCEDURES
-
-Disinfecting agents containing heavy metals, which cause release of respective ions (mercury, zinc, copper, etc.) should not be used for skin or mucous membrane disinfection as they have been related to incidents of swelling and edema.
-When chemical disinfection of multi-dose vials is desired, either isopropyl alcohol (91%) or ethyl alcohol (70%) is recommended.
-Many commercially available brands of rubbing alcohol, as well as solutions of ethyl alcohol not of U.S.P. grade, contain denaturants which are injurious to rubber and therefore are not to be used.
-
-Dosage forms listed as Xylocaine-MPF indicate single dose solutions that are Methyl Paraben Free (MPF).
-
 Manufactured for:
 
-Made in Norway
-
-451142F
-
-Revised: January 2015
+Made in Norway 451142G Revised: March 2019

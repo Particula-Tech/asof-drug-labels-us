@@ -25,7 +25,9 @@ Lidocaine HCl is metabolized rapidly by the liver, and metabolites and unchanged
 Biotransformation includes oxidative N-dealkylation, ring hydroxylation, cleavage of the amide linkage, and conjugation.
 N-dealkylation, a major pathway of biotransformation, yields the metabolites monoethylglycinexylidide and glycinexylidide.
 The pharmacological/toxicological actions of these metabolites are similar to, but less potent than, those of lidocaine HCl.
-Approximately 90% of lidocaine HCl administered is excreted in the form of various metabolites, and less than 10% is excreted unchanged.
+Approximately 90% of lidocaine HCl administered is excreted in the form of various metabolites, and less than 10% is
+
+excreted unchanged.
 The primary metabolite in urine is a conjugate of 4-hydroxy-2,6-dimethylaniline.
 
 The elimination half-life of lidocaine HCl following an intravenous bolus injection is typically 1.5 to 2 hours.

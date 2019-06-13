@@ -3,6 +3,18 @@
 XYLOCAINE INJECTIONS FOR INFILTRATION AND NERVE BLOCK SHOULD BE EMPLOYED ONLY BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES THAT MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED AND THEN ONLY AFTER ENSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY EQUIPMENT AND THE PERSONNEL NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS and PRECAUTIONS).
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
 
+## Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
+Discontinue Xylocaine and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
 Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
 The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
 There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
@@ -15,9 +27,10 @@ Note, however, that the absence of blood in the syringe does not guarantee that 
 
 Local anesthetic solutions containing antimicrobial preservatives (e.g., methylparaben) should not be used for epidural or spinal anesthesia because the safety of these agents has not been established with regard to intrathecal injection, either intentional or accidental.
 
-Xylocaine with epinephrine solutions contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+Xylocaine with epinephrine solutions contain sodium metabisulfite, a sulfite that may cause allergic- type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people.
+
 Anaphylactic reactions may occur following administration of lidocaine hydrochloride (see ADVERSE REACTIONS).
 
 In the case of severe reaction, discontinue the use of the drug.
@@ -32,11 +45,15 @@ Standard textbooks should be consulted for specific techniques and precautions f
 Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use (see WARNINGS and ADVERSE REACTIONS).
 The lowest dosage that results in effective anesthesia should be used to avoid high plasma levels and serious adverse effects.
 Syringe aspirations should also be performed before and during each supplemental injection when using indwelling catheter techniques.
-During the administration of epidural anesthesia, it is recommended that a test dose be administered initially and that the patient be monitored for central nervous system toxicity and cardiovascular toxicity, as well as for signs of unintended intrathecal administration, before proceeding.
+During the administration of epidural anesthesia, it is recommended that a test dose be administered initially and that the patient be monitored for central nervous system toxicity and cardiovascular toxicity, as well as for signs of unintended intrathecal administration, before
+
+proceeding.
 When clinical conditions permit, consideration should be given to employing local anesthetic solutions that contain epinephrine for the test dose because circulatory changes compatible with epinephrine may also serve as a warning sign of unintended intravascular injection.
 An intravascular injection is still possible even if aspirations for blood are negative.
 Repeated doses of lidocaine HCl may cause significant increases in blood levels with each repeated dose because of slow accumulation of the drug or its metabolites.
-Tolerance to elevated blood levels varies with the status of the patient.
+Tolerance to elevated blood levels varies with the status
+
+of the patient.
 Debilitated, elderly patients, acutely ill patients, and children should be given reduced doses commensurate with their age and physical condition.
 Lidocaine HCl should also be used with caution in patients with severe shock or heart block.
 
@@ -47,7 +64,7 @@ Patients with peripheral vascular disease and those with hypertensive vascular d
 Ischemic injury or necrosis may result.
 Preparations containing a vasoconstrictor should be used with caution in patients during or following the administration of potent general anesthetic agents, since cardiac arrhythmias may occur under such conditions.
 
-Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be accomplished after each local anesthetic injection.
+Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness should be accomplished after each local anesthetic injection.
 It should be kept in mind at such times that restlessness, anxiety, tinnitus, dizziness, blurred vision, tremors, depression or drowsiness may be early warning signs of central nervous system toxicity.
 
 Since amide-type local anesthetics are metabolized by the liver, Xylocaine Injection should be used with caution in patients with hepatic disease.
@@ -55,7 +72,9 @@ Patients with severe hepatic disease, because of their inability to metabolize l
 Xylocaine Injection should also be used with caution in patients with impaired cardiovascular function since they may be less able to compensate for functional changes associated with the prolongation of A-V conduction produced by these drugs.
 
 Many drugs used during the conduct of anesthesia are considered potential triggering agents for familial malignant hyperthermia.
-Since it is not known whether amide-type local anesthetics may trigger this reaction and since the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for the management of malignant hyperthermia should be available.
+Since it is not known whether amide-type local anesthetics may trigger this reaction and since the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for the management of malignant hyperthermia should be
+
+available.
 Early unexplained signs of tachycardia, tachypnea, labile blood pressure and metabolic acidosis may precede temperature elevation.
 Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and institution of treatment, including oxygen therapy, indicated supportive measures and dantrolene (consult dantrolene sodium intravenous package insert before using).
 
@@ -63,7 +82,7 @@ Proper tourniquet technique, as described in publications and standard textbooks
 Solutions containing epinephrine or other vasoconstrictors should not be used for this technique.
 
 Lidocaine HCl should be used with caution in persons with known drug sensitivities.
-Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross-sensitivity to lidocaine HCl.
+Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross- sensitivity to lidocaine HCl.
 
 ## Use in the Head and Neck Area
 
@@ -77,6 +96,9 @@ Dosage recommendations should not be exceeded (see DOSAGE AND ADMINISTRATION).
 ## Information for Patients
 
 When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of epidural anesthesia.
+
+Inform patients that use of local anesthetics may cause methemoglobinemia, a sericondition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
 
 ## Clinically Significant Drug Interactions
 
@@ -94,13 +116,29 @@ Concurrent administration of vasopressor drugs (for the treatment of hypotension
 The intramuscular injection of lidocaine HCl may result in an increase in creatine phosphokinase levels.
 Thus, the use of this enzyme determination, without isoenzyme separation, as a diagnostic test for the presence of acute myocardial infarction may be compromised by the intramuscular injection of lidocaine HCl.
 
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, paraaminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Studies of lidocaine HCl in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility have not been conducted.
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 6.6 times the human dose and have revealed no evidence of harm to the fetus caused by lidocaine HCl.
+Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 6.6 times the human dose and have revealed no evidence of harm to the fetus caused by
+
+lidocaine HCl.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Animal reproduction studies are not always predictive of human response.
 General consideration should be given to this fact before administering lidocaine HCl to women of childbearing potential, especially during early pregnancy when maximum organogenesis takes place.
@@ -113,13 +151,13 @@ Adverse reactions in the parturient, fetus and neonate involve alterations of th
 
 Maternal hypotension has resulted from regional anesthesia.
 Local anesthetics produce vasodilation by blocking sympathetic nerves.
-Elevating the patient’s legs and positioning her on her left side will help prevent decreases in blood pressure.
+Elevating the patient's legs and positioning her on her left side will help prevent decreases in blood pressure.
 
 The fetal heart rate also should be monitored continuously, and electronic fetal monitoring is highly advisable.
 
 Epidural, spinal, paracervical, or pudendal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
 In one study, paracervical block anesthesia was associated with a decrease in the mean duration of first stage labor and facilitation of cervical dilation.
-However, spinal and epidural anesthesia have also been reported to prolong the second stage of labor by removing the parturient’s reflex urge to bear down or by interfering with motor function.
+However, spinal and epidural anesthesia have also been reported to prolong the second stage of labor by removing the parturient's reflex urge to bear down or by interfering with motor function.
 The use of obstetrical anesthesia may increase the need for forceps assistance.
 
 The use of some local anesthetic drug products during labor and delivery may be followed by diminished muscle strength and tone for the first day or two of life.
@@ -136,7 +174,7 @@ Prompt use of supportive measures combined with forced urinary excretion of the 
 Case reports of maternal convulsions and cardiovascular collapse following use of some local anesthetics for paracervical block in early pregnancy (as anesthesia for elective abortion) suggest that systemic absorption under these circumstances may be rapid.
 The recommended maximum dose of each drug should not be exceeded.
 Injection should be made slowly and with frequent aspiration.
-Allow a 5-minute interval between sides.
+Allow a 5- minute interval between sides.
 
 ## Nursing Mothers
 

@@ -15,6 +15,7 @@ Dosages should be reduced for children and for the elderly and debilitated patie
 The onset of anesthesia, the duration of anesthesia and the degree of muscular relaxation are proportional to the volume and concentration (i.e., total dose) of local anesthetic used.
 Thus, an increase in volume and concentration of Xylocaine Injection will decrease the onset of anesthesia, prolong the duration of anesthesia, provide a greater degree of muscular relaxation and increase the segmental spread of anesthesia.
 However, increasing the volume and concentration of Xylocaine Injection may result in a more profound fall in blood pressure when used in epidural anesthesia.
+
 Although the incidence of side effects with lidocaine HCl is quite low, caution should be exercised when employing large volumes and concentrations, since the incidence of side effects is directly proportional to the total dose of local anesthetic agent injected.
 
 For intravenous regional anesthesia, only the 50 mL single dose vial containing Xylocaine (lidocaine HCl) 0.5% Injection should be used.
@@ -23,21 +24,15 @@ For intravenous regional anesthesia, only the 50 mL single dose vial containing 
 
 For epidural anesthesia, only the following dosage forms of Xylocaine Injection are recommended:
 
-1% without epinephrine 10 mL Plastic Ampule
-
-1% without epinephrine 30 mL single dose solutions
-
-1% with epinephrine 1:200,000 30 mL single dose solutions
-
-1.5% without epinephrine 10 mL Plastic Ampule
-
-1.5% without epinephrine 20 mL Plastic Ampule
-
-1.5% with epinephrine 1:200,000 30 mL ampules, 30 mL single dose solutions
-
-2% without epinephrine 10 mL Plastic Ampule
-
-2% with epinephrine 1:200,000 20 mL ampules, 20 mL single dose solutions
+| 1% without epinephrine | 10 mL Plastic Ampule |
+| --- | --- |
+| 1% without epinephrine | 30 mL single dose solutions 1% |
+| with epinephrine 1:200,000 | 30 mL single dose solutions |
+| 1.5% without epinephrine | 10 mL Plastic Ampule |
+| 1.5% without epinephrine | 20 mL Plastic Ampule |
+| 1.5% with epinephrine 1:200,000 | 30 mL ampules, 30 mL single dose solutions 2% |
+| without epinephrine | 10 mL Plastic Ampule |
+| 2% with epinephrine 1:200,000 | 20 mL ampules, 20 mL single dose solutions |
 
 Although these solutions are intended specifically for epidural anesthesia, they may also be used for infiltration and peripheral nerve block, provided they are employed as single dose units.
 These solutions contain no bacteriostatic agent.
