@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022023"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-3061-01",
+    "0006-3061-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant dimeglumine",
+      "name": "EMEND"
+    }
+  ],
+  "setid": "a74dc23d-02fb-4b31-b9ec-6c1039a39e8a",
+  "source": "dailymed"
+}

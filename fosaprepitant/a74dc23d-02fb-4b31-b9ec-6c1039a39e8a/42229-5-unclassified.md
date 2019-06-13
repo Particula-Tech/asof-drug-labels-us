@@ -1,0 +1,14 @@
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: Patheon Manufacturing Services LLC, 5900 Martin Luther King Jr.
+Highway, Greenville, NC 27834, USA
+
+novaplus™
+
+For patent information: www.merck.com/product/patent/home.html
+
+Novaplus is a registered trademark of Vizient, Inc.
+
+Copyright © 2008-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+uspi-mk0517-iv-edta5-1901r000-plvizient
