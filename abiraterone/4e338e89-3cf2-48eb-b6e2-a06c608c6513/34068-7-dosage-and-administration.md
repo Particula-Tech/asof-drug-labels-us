@@ -1,17 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose for metastatic CRPC
+## 2.1 Recommended Dose for Metastatic CRPC
 
 The recommended dose of ZYTIGA is 1,000 mg (two 500 mg tablets or four 250 mg tablets) orally once daily with prednisone 5 mg orally twice daily.
 
-## 2.2 Recommended Dose for metastatic high-risk CSPC
+## 2.2 Recommended Dose for Metastatic High-risk CSPC
 
 The recommended dose of ZYTIGA is 1,000 mg (two 500 mg tablets or four 250 mg tablets) orally once daily with prednisone 5 mg administered orally once daily.
 
 ## 2.3 Important Administration Instructions
 
 Patients receiving ZYTIGA should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy.
-ZYTIGA must be taken on an empty stomach, either one hour before or two hours after a meal [see Clinical Pharmacology (12.3)].
+ZYTIGA must be taken on an empty stomach, at least one hour before or at least two hours after a meal [see Clinical Pharmacology (12.3)].
 The tablets should be swallowed whole with water.
 Do not crush or chew tablets.
 

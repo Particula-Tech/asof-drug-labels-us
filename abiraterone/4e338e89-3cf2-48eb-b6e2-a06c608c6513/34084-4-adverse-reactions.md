@@ -2,9 +2,10 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Hypertension, Hypokalemia, and Fluid Retention due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)].
+- Hypokalemia, Fluid Retention, and Cardiovascular Adverse Reactions due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)].
 - Adrenocortical Insufficiency [see Warnings and Precautions (5.2)].
 - Hepatotoxicity [see Warnings and Precautions (5.3)].
+- Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trial Experience
 
@@ -40,9 +41,10 @@ The median duration of treatment with ZYTIGA with prednisone was 8 months.
 
 Table 1: Adverse Reactions due to ZYTIGA in COU-AA-301
 
-| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0. % | Grade 3–4 % | All Grades % | Grade 3–4 % |
+| Adverse reaction | % | % | % | % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=791) |  | Placebo with Prednisone (N=394) |  |
+| System/Organ Class | All GradesAdverse events graded according to CTCAE version 3.0. | Grade 3–4 | All Grades | Grade 3–4 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness. | 30 | 4.2 | 23 | 4.1 |
 | Muscle discomfortIncludes terms Muscle spasms, Musculoskeletal pain, Myalgia, Musculoskeletal discomfort, and Musculoskeletal stiffness. | 26 | 3.0 | 23 | 2.3 |
@@ -93,9 +95,10 @@ The median duration of treatment with ZYTIGA with prednisone was 13.8 months.
 
 Table 3: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in COU-AA-302
 
-| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0. % | Grade 3–4 % | All Grades % | Grade 3–4 % |
+| Adverse reaction | % | % | % | % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=542) |  | Placebo with Prednisone (N=540) |  |
+| System/Organ Class | All GradesAdverse events graded according to CTCAE version 3.0. | Grade 3–4 | All Grades | Grade 3–4 |
 | General disorders |  |  |  |  |
 | Fatigue | 39 | 2.2 | 34 | 1.7 |
 | EdemaIncludes terms Edema peripheral, Pitting edema, and Generalized edema. | 25 | 0.4 | 21 | 1.1 |
@@ -178,7 +181,8 @@ Table 6: Laboratory Abnormalities in >15% of Patients in the ZYTIGA Arm of LATIT
 
 | Laboratory Abnormality | Grade 1–4 % | Grade 3–4 % | Grade 1–4 % | Grade 3–4 % |
 | --- | --- | --- | --- | --- |
-|  | ZYTIGA with Prednisone (N=597) |  | Placebos (N=602) |  |
+|  | ZYTIGA with Prednisone (N=597) |  | Placebos |  |
+|  |  |  | (N=602) |  |
 | Hematology |  |  |  |  |
 | Lymphopenia | 20 | 4.1 | 14 | 1.8 |
 | Chemistry |  |  |  |  |
@@ -208,3 +212,5 @@ Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
 Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.
 
 Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
+
+Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).

@@ -17,6 +17,14 @@ It is not necessary to monitor the effect of ZYTIGA on serum testosterone levels
 
 Changes in serum prostate specific antigen (PSA) levels may be observed but have not been shown to correlate with clinical benefit in individual patients.
 
+## 12.2 Pharmacodynamics
+
+Cardiac Electrophysiology
+
+In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received ZYTIGA orally at a dose of 1,000 mg once daily at least 1 hour before or 2 hours after a meal in combination with prednisone 5 mg orally twice daily.
+Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e., >20 ms) from baseline.
+However, small increases in the QTc interval (i.e., <10 ms) due to abiraterone acetate cannot be excluded due to study design limitations.
+
 ## 12.3 Pharmacokinetics
 
 Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic CRPC.
@@ -39,7 +47,7 @@ Abiraterone AUC0–∞ was approximately 7-fold or 1.6-fold higher, respectively
 Systemic exposures of abiraterone in patients with metastatic CRPC, after repeated dosing of abiraterone acetate were similar when abiraterone acetate was taken with low-fat meals for 7 days and increased approximately 2-fold when taken with high-fat meals for 7 days compared to when taken at least 2 hours after a meal and at least 1 hour before a meal for 7 days.
 
 Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in increased and highly variable exposures.
-Therefore, ZYTIGA must be taken on an empty stomach, either one hour before or two hours after a meal.
+Therefore, ZYTIGA must be taken on an empty stomach, at least one hour before or at least two hours after a meal.
 The tablets should be swallowed whole with water [see Dosage and Administration (2.3)].
 
 Distribution and Protein Binding
@@ -94,9 +102,3 @@ In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglita
 
 In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.
 There are no clinical data available to confirm transporter based interaction.
-
-## 12.6 QT Prolongation
-
-In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received ZYTIGA orally at a dose of 1,000 mg once daily at least 1 hour before or 2 hours after a meal in combination with prednisone 5 mg orally twice daily.
-Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e., >20 ms) from baseline.
-However, small increases in the QTc interval (i.e., <10 ms) due to abiraterone acetate cannot be excluded due to study design limitations.
