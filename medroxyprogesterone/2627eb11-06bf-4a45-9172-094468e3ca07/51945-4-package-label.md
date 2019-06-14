@@ -93,3 +93,15 @@ medroxy- progesterone acetate tablets, USP
 5 mg
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label - NDC 59762-0056-1
+
+NDC 59762-0056-1 100 Tablets
+
+GREENSTONE® BRAND
+
+medroxy- progesterone acetate tablets, USP
+
+10 mg
+
+Rx only
