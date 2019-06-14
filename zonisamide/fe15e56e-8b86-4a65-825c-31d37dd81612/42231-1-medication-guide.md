@@ -20,35 +20,35 @@ These serious side effects are described below.
    You may or may not have a rash with these types of reactions.
    These reactions can be very serious and can cause death.
    Call your health care provider right away if you have:
-   1. •fever
-   2. •severe muscle pain
-   3. •rash
-   4. •swollen lymph glands
-   5. •swelling of your face
-   6. •unusual bruising or bleeding
-   7. •weakness, fatigue
-   8. •yellowing of your skin or the white part of your eyes
+   1. 1.fever
+   2. 2.severe muscle pain
+   3. 3.rash
+   4. 4.swollen lymph glands
+   5. 5.swelling of your face
+   6. 6.unusual bruising or bleeding
+   7. 7.weakness, fatigue
+   8. 8.yellowing of your skin or the white part of your eyes
 3. 3.Zonisamide may cause you to sweat less and to increase your body temperature (fever).
    You may need to be hospitalized for this.
    You should watch for decreased sweating and fever, especially when it is hot and especially in children taking zonisamide.
    Call your health care provider right away if you have:
-   1. •high fever, recurring fever, or long lasting fever
-   2. •less sweat than normal
+   1. 9.high fever, recurring fever, or long lasting fever
+   2. 10.less sweat than normal
 4. 4.Like other antiepileptic drugs, zonisamide may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
    Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-   1. •thoughts about suicide or dying
-   2. •attempt to commit suicide
-   3. •new or worse depression
-   4. •new or worse anxiety
-   5. •feeling agitated or restless
-   6. •panic attacks
-   7. •trouble sleeping (insomnia)
-   8. •new or worse irritability
-   9. •acting aggressive, being angry, or violent
-   10. •acting on dangerous impulses
-   11. •an extreme increase in activity and talking (mania)
-   12. •other unusual changes in behavior or mood
-   13. •Suicidal thoughts or actions can be caused by things other than medicines.
+   1. 11.thoughts about suicide or dying
+   2. 12.attempt to commit suicide
+   3. 13.new or worse depression
+   4. 14.new or worse anxiety
+   5. 15.feeling agitated or restless
+   6. 16.panic attacks
+   7. 17.trouble sleeping (insomnia)
+   8. 18.new or worse irritability
+   9. 19.acting aggressive, being angry, or violent
+   10. 20.acting on dangerous impulses
+   11. 21.an extreme increase in activity and talking (mania)
+   12. 22.other unusual changes in behavior or mood
+   13. 23.Suicidal thoughts or actions can be caused by things other than medicines.
        If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
 How can I watch for early symptoms of suicidal thoughts and actions?
@@ -64,17 +64,17 @@ Do not stop zonisamide without first talking to a healthcare provider.
 Stopping zonisamide suddenly can cause serious problems.
 Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 
-1. 5.Zonisamide can increase the level of acid in your blood (metabolic acidosis).
+1. 1.Zonisamide can increase the level of acid in your blood (metabolic acidosis).
    If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
    Metabolic acidosis can happen with or without symptoms.
    Sometimes people with metabolic acidosis will:
-   1. •feel tired
-   2. •not feel hungry (loss of appetite)
-   3. •feel changes in heartbeat
-   4. •have trouble thinking clearly
+   1. 1.feel tired
+   2. 2.not feel hungry (loss of appetite)
+   3. 3.feel changes in heartbeat
+   4. 4.have trouble thinking clearly
 2. Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with zonisamide.
-3. 6.Zonisamide may cause problems with your concentration, attention, memory, thinking, speech, or language.
-4. 7.Zonisamide can cause blood cell changes such as reduced red and white blood cell counts.
+3. 2.Zonisamide may cause problems with your concentration, attention, memory, thinking, speech, or language.
+4. 3.Zonisamide can cause blood cell changes such as reduced red and white blood cell counts.
    Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
 
 Zonisamide can have other serious side effects.
