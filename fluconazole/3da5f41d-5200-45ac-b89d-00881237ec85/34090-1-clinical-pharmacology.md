@@ -39,8 +39,8 @@ A single oral 150 mg dose of fluconazole administered to 14 patients penetrated 
 | Vaginal tissue | 1 |
 | Vaginal fluid | 0.4 to 0.7 |
 
-1. * Relative to concurrent concentrations in plasma in subjects with normal renal function.
-2. † Independent of degree of meningeal inflammation.
+- * Relative to concurrent concentrations in plasma in subjects with normal renal function.
+- † Independent of degree of meningeal inflammation.
 
 In normal volunteers, fluconazole is cleared primarily by renal excretion, with approximately 80% of the administered dose appearing in the urine as unchanged drug.
 About 11% of the dose is excreted in the urine as metabolites.
