@@ -6,4 +6,4 @@ Umeclidinium produced no treatment-related increases in the incidence of tumors 
 
 Umeclidinium tested negative in the following genotoxicity assays: the in vitro Ames assay, in vitro mouse lymphoma assay, and in vivo rat bone marrow micronucleus assay.
 
-No evidence of impairment of fertility was observed in male and female rats at subcutaneous doses up to 180 mcg/kg/day and inhaled doses up to 294 mcg/kg/day, respectively (approximately 100 and 50 times, respectively, the MRHDID in adults on an AUC basis).
+No evidence of impairment of fertility was observed in male and female rats at subcutaneous doses up to 180 mcg/kg/day and at inhaled doses up to 294 mcg/kg/day, respectively (approximately 100 and 50 times, respectively, the MRHDID in adults on an AUC basis).

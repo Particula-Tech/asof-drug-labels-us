@@ -24,16 +24,16 @@ If paradoxical bronchospasm occurs following dosing with INCRUSE ELLIPTA, it sho
 
 Hypersensitivity reactions such as anaphylaxis, angioedema, pruritus, rash, and urticaria may occur after administration of INCRUSE ELLIPTA.
 Discontinue INCRUSE ELLIPTA if such reactions occur.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use INCRUSE ELLIPTA [see Contraindications (4), Adverse Reactions (6.2)].
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use INCRUSE ELLIPTA [see Contraindications (4), Adverse Reactions (6.2)].
 
-## 5.4 Worsening of Narrow-angle Glaucoma
+## 5.4 Worsening of Narrow-Angle Glaucoma
 
 INCRUSE ELLIPTA should be used with caution in patients with narrow-angle glaucoma.
 Prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
 ## 5.5 Worsening of Urinary Retention
 
-INCRUSE ELLIPTA should be used with caution in patients with urinary retention.
+INCRUSE ELLIPTA, like all medicines containing an anticholinergic, should be used with caution in patients with urinary retention.
 Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction.
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.

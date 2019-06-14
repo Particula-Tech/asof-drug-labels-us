@@ -14,6 +14,6 @@ After the inhaler is activated, the powder within the blister is exposed and rea
 
 Under standardized in vitro test conditions, INCRUSE ELLIPTA delivers 55 mcg of umeclidinium per blister when tested at a flow rate of 60 L/min for 4 seconds.
 
-In adult subjects with obstructive lung disease and severely compromised lung function (COPD with forced expiratory volume in 1 second/forced vital capacity [FEV1/FVC] less than 70% and FEV1 less than 30% predicted or FEV1 less than 50% predicted plus chronic respiratory failure), mean peak inspiratory flow through the ELLIPTA inhaler was 67.5 L/min (range: 41.6 to 83.3 L/min).
+In adult subjects with obstructive lung disease and severely compromised lung function (COPD with forced expiratory volume in 1 second/forced vital capacity [FEV1/FVC] <70% and FEV1 <30% predicted or FEV1 <50% predicted plus chronic respiratory failure), mean peak inspiratory flow through the ELLIPTA inhaler was 67.5 L/min (range: 41.6 to 83.3 L/min).
 
 The actual amount of drug delivered to the lung will depend on patient factors, such as inspiratory flow profile.

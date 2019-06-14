@@ -2,30 +2,34 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C. There are no adequate and well-controlled trials with INCRUSE ELLIPTA in pregnant women.
-Because animal reproduction studies are not always predictive of human response, INCRUSE ELLIPTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their healthcare providers if they become pregnant while taking INCRUSE ELLIPTA.
+There are insufficient data on the use of umeclidinium in pregnant women to inform a drug‑associated risk.
+Umeclidinium administered via inhalation or subcutaneously to pregnant rats and rabbits was not associated with adverse effect on embryofetal development at exposures approximately 50 and 200 times, respectively, the human exposure at the maximum recommended human daily inhaled dose (MRHDID).
+(See Data.)
 
-There were no teratogenic effects in rats and rabbits at approximately 50 and 200 times, respectively, the maximum recommended human daily inhaled dose (MRHDID) in adults (on an AUC basis at maternal inhaled doses up to 278 mcg/kg/day in rats and maternal subcutaneous doses up to 180 mcg/kg/day in rabbits).
+The estimated risk of major birth defects and miscarriage for the indicated populations is unknown.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Nonteratogenic Effects
+Data
 
-There were no effects on perinatal and postnatal developments in rats at approximately 80 times the MRHDID in adults (on an AUC basis at maternal subcutaneous doses up to 180 mcg/kg/day).
+Animal Data: In separate embryofetal developmental studies, pregnant rats and rabbits received umeclidinium during the period of organogenesis at doses up to approximately 50 and 200 times the MRHDID, respectively (on an AUC basis at maternal inhalation doses up to 278 mcg/kg/day in rats and at maternal subcutaneous doses up to 180 mcg/kg/day in rabbits).
+No evidence of teratogenic effects was observed in either species.
 
-## 8.2 Labor and Delivery
+In a perinatal and postnatal developmental study in rats, dams received umeclidinium during late gestation and lactation periods with no evidence of effects on offspring development at doses up to approximately 26 times the MRHDID (on an AUC basis at maternal subcutaneous doses up to 60 mcg/kg/day).
 
-There are no adequate and well-controlled human trials that have investigated the effects of INCRUSE ELLIPTA during labor and delivery.
-INCRUSE ELLIPTA should be used during labor only if the potential benefit justifies the potential risk.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
-It is not known whether umeclidinium is excreted in human breast milk.
-Because many drugs are excreted in human milk, caution should be exercised when INCRUSE ELLIPTA is administered to a nursing woman.
-Since there are no data from well-controlled human studies on the use of INCRUSE ELLIPTA by nursing mothers, a decision should be made whether to discontinue nursing or to discontinue INCRUSE ELLIPTA, taking into account the importance of INCRUSE ELLIPTA to the mother.
+There is no information available on the presence of umeclidinium in human milk, the effects on the breastfed child, or the effects on milk production.
+Umeclidinium was detected in the plasma of offspring of lactating rats treated with umeclidinium suggesting its presence in maternal milk.
+(See Data.)
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for INCRUSE ELLIPTA and any potential adverse effects on the breastfed child from umeclidinium or from the underlying maternal condition.
 
-Subcutaneous administration of umeclidinium to lactating rats at approximately 25 times the MRHDID in adults resulted in a quantifiable level of umeclidinium in 2 pups, which may indicate transfer of umeclidinium in milk.
+Data
+
+Subcutaneous administration of umeclidinium to lactating rats at ≥ 60 mcg/kg/day resulted in a quantifiable level of umeclidinium in 2 of 54 pups, which may indicate transfer of umeclidinium in milk.
 
 ## 8.4 Pediatric Use
 
@@ -46,5 +50,5 @@ Studies in subjects with severe hepatic impairment have not been performed [see 
 
 ## 8.7 Renal Impairment
 
-Patients with severe renal impairment (creatinine clearance less than 30 mL/min) showed no relevant increases in Cmax or AUC, nor did protein binding differ between subjects with severe renal impairment and their healthy controls.
+Patients with severe renal impairment (CrCl <30 mL/min) showed no relevant increases in Cmax or AUC, nor did protein binding differ between subjects with severe renal impairment and their healthy controls.
 No dosage adjustment is required in patients with renal impairment [see Clinical Pharmacology (12.3)].

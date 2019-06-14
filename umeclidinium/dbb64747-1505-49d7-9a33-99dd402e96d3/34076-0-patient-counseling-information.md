@@ -14,29 +14,27 @@ Instruct patients to seek medical attention immediately if they experience any o
 - •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
 - •Significant decrease in lung function as outlined by the physician
 
-Tell patients they should not stop therapy with INCRUSE ELLIPTA without healthcare provider guidance since symptoms may recur after discontinuation.
+Tell patients they should not stop therapy with INCRUSE ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
 
 Paradoxical Bronchospasm
 
 As with other inhaled medicines, INCRUSE ELLIPTA can cause paradoxical bronchospasm.
-If paradoxical bronchospasm occurs, instruct patients to discontinue INCRUSE ELLIPTA.
+If paradoxical bronchospasm occurs, instruct patients to discontinue INCRUSE ELLIPTA and contact their healthcare provider right away.
 
-Worsening of Narrow-angle Glaucoma
+Worsening of Narrow-Angle Glaucoma
 
 Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a physician immediately if any of these signs or symptoms develop.
 
 Worsening of Urinary Retention
 
 Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a physician immediately if any of these signs or symptoms develop.
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
-GlaxoSmithKline
+GlaxoSmithKline Research Triangle Park, NC 27709
 
-Research Triangle Park, NC 27709
+©2019 GSK group of companies or its licensor.
 
-©2017 GSK group of companies or its licensor.
-
-INC:6PI
+INC:7PI
