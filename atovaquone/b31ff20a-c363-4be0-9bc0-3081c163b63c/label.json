@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210510"
+  ],
+  "inn": "atovaquone",
+  "labeler": "KVK-Tech, Inc.",
+  "package_ndcs": [
+    "10702-223-21"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "atovaquone",
+      "name": "Atovaquone Oral Suspension"
+    }
+  ],
+  "setid": "b31ff20a-c363-4be0-9bc0-3081c163b63c",
+  "source": "dailymed"
+}
