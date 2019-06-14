@@ -1,21 +1,18 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-Click here to enter Use in Specific Populations
-
 ## 8.1 Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C.
+### Teratogenic Effects. Pregnancy Category C
 
-Ketorolac tromethamine, administered during organogenesis, was not teratogenic in rabbits or rats at oral doses up to 109 times and 303 times the maximum recommended human topical ophthalmic dose, respectively, on a mg/kg basis assuming 100% absorption in humans and animals.
-When administered to rats after Day 17 of gestation at oral doses up to 45 times the maximum recommended human topical ophthalmic dose, respectively, on a mg/kg basis, assuming 100% absorption in humans and animals, ketorolac tromethamine resulted in dystocia and increased pup mortality.
+Ketorolac tromethamine, administered during organogenesis, was not teratogenic in rabbits and rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day, respectively.
+These doses are approximately 100 times and 250 times higher respectively than the maximum recommended human topical ophthalmic daily dose of 2 mg (5 mg/mL x 0.05 mL/drop, x 4 drops x 2 eyes) to affected eyes on a mg/kg basis.
+Additionally, when administered to rats after Day 17 of gestation at oral doses up to 1.5 mg/kg/day (approximately 40 times the typical human topical ophthalmic daily dose), ketorolac tromethamine resulted in dystocia and increased pup mortality.
 There are no adequate and well-controlled studies in pregnant women.
-Ketorolac tromethamine ophthalmic solution, 0.5% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Ketorolac tromethamine ophthalmic solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic Effects:
+Nonteratogenic Effects: Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), the use of Ketorolac tromethamine ophthalmic solution during late pregnancy should be avoided.
 
-Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), the use of ketorolac tromethamine ophthalmic solution, 0.5% during late pregnancy should be avoided.
-
-## 8.3 Nursing mothers
+## 8.3 Nursing Mothers
 
 Because many drugs are excreted in human milk, caution should be exercised when Ketorolac tromethamine ophthalmic solution is administered to a nursing woman.
 
@@ -25,4 +22,4 @@ Safety and efficacy in pediatric patients below the age of 2 have not been estab
 
 ## 8.5 Geriatric Use
 
-No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+No overall clinical differences in safety or effectiveness have been observed between elderly and other adult patients.

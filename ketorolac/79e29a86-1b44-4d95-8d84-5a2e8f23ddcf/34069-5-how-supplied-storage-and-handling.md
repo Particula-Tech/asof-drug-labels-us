@@ -6,26 +6,7 @@ Ketorolac tromethamine ophthalmic solution, 0.5% is supplied sterile in a white 
 
 10 mL in 10 mL bottle NDC 61314-126-10
 
-Storage: Store at room temperature 15°-30°C (59°-86°F) with protection from light.
+Storage: Store at 15° to 30°C (59° to 86°F).
+Protect from light.
 
 FOR TOPICAL OPHTHALMIC USE ONLY
-
-*DROP-TAINER is a registered trademark of Alcon Research, Ltd.
-
-9015455-1017
-
-Manufactured by
-
-Alcon Laboratories, Inc.
-
-Fort Worth, Texas 76134 for
-
-Sandoz Inc.
-
-Princeton, NJ 08540
-
-Printed in USA
-
-9015455-1017
-
-Revised: October 2017

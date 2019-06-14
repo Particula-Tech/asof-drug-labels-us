@@ -1,7 +1,5 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-Click here to enter Nonclinical Toxicology
-
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Ketorolac tromethamine was not carcinogenic in either rats given up to 5 mg/kg/day orally for 24 months or in mice given 2 mg/kg/day orally for 18 months.

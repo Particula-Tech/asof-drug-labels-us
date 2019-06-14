@@ -1,6 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 61314-126-10
+NDC 61314-126-05
 
 Ketorolac Tromethamine Ophthalmic Solution
 
@@ -8,10 +8,10 @@ Ketorolac Tromethamine Ophthalmic Solution
 
 FOR TOPICAL OPHTHALMIC USE ONLY
 
-Rx only
+Rx Only
 
 STERILE
 
-10 mL
+5 mL
 
-Sandoz
+SANDOZ
