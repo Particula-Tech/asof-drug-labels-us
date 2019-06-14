@@ -10,8 +10,7 @@ Isotonic or ½ isotonic saline is the lavage of choice.
 Precautions against aspiration must be taken especially in infants and children.
 
 When life threatening CNS signs and symptoms are present, intravenous physostigmine salicylate may be considered.
-Dosage and frequency of administration are dependent on age, clinical response, and recurrence after response.
-(See package circulars for physostigmine products.)
+Dosage and frequency of administration are dependent on age, clinical response, and recurrence after response (see package circulars for physostigmine products).
 
 Saline cathartics, as milk of magnesia, by osmosis draw water into the bowel and, therefore, are valuable for their action in rapid dilution of bowel content.
 

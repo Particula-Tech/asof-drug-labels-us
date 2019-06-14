@@ -37,3 +37,5 @@ Dryness of nose and throat, thickening of bronchial secretions, tightness of che
 ## Miscellaneous
 
 Fatigue, chills, headache, increased appetite/weight gain.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

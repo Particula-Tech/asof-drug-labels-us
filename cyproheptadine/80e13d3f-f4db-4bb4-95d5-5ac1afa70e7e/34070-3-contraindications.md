@@ -1,18 +1,18 @@
 # CONTRAINDICATIONS
 
-## Newborn or Premature Infants
+Newborn or Premature Infants
 
 This drug should not be used in newborn or premature infants.
 
-## Nursing Mothers
+Nursing Mothers
 
 Because of the higher risk of antihistamines for infants generally and for newborns and prematures in particular, antihistamine therapy is contraindicated in nursing mothers.
 
-## Other Conditions
+Other Conditions
 
 Hypersensitivity to cyproheptadine and other drugs of similar chemical structure.
 
-Monoamine oxidase inhibitor therapy (See DRUG INTERACTIONS.)
+Monoamine oxidase inhibitor therapy (see DRUG INTERACTIONS).
 
 Angle-closure glaucoma
 
