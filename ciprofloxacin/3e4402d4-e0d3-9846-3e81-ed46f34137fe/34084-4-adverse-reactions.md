@@ -9,12 +9,13 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 - Hepatotoxicity [see Warnings and Precautions (5.8)]
-- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.9)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
-- Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
-- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
+- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
+- Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
+- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.13)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 

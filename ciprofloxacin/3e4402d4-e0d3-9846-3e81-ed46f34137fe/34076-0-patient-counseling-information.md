@@ -24,13 +24,14 @@ Inform patients of the following serious adverse reactions that have been associ
 - Hypersensitivity Reactions: Inform patients that ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
 - Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking ciprofloxacin tablets.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
+- Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, instruct patients to contact their physician as soon as possible.
 - Prolongation of the QT Interval: Instruct patients to inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Instruct patients to notify their physician if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
 - Musculoskeletal Disorders in Pediatric Patients: Instruct parents to inform their child’s physician if the child has a history of joint-related problems before taking this drug.
-  Inform parents of pediatric patients to notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy [see Warnings and Precautions (5.12) and Use in Specific Populations (8.4)].
+  Inform parents of pediatric patients to notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy [see Warnings and Precautions (5.13) and Use in Specific Populations (8.4)].
 - Tizanidine: Instruct patients not to use ciprofloxacin if they are already taking tizanidine.
   Ciprofloxacin increases the effects of tizanidine (Zanaflex®).
 - Theophylline: Inform patients that ciprofloxacin may increase the effects of theophylline.
@@ -71,9 +72,9 @@ Therefore, approval for these conditions was based on efficacy studies conducted
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-A 11/2018
+B 5/2019

@@ -198,6 +198,10 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
 
+- Aortic aneurysm and dissection.
+  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
+
 - Intestine infection (Pseudomembranous colitis).
   Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
@@ -258,16 +262,16 @@ For more information call 1-800-272-5525.
 
 What are the ingredients in ciprofloxacin tablets?
 
-- Active ingredient: ciprofloxacin hydrochloride, USP
+- Active ingredient: ciprofloxacin hydrochloride
 - Inactive ingredients: corn starch, crospovidone, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, pregelatinized starch (maize), purified water, silicon dioxide, talc, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-A 11/2018
+B 5/2019
