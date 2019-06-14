@@ -1,15 +1,1 @@
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
-
-Impax Generics
-
-NDC 0115-3511-01
-
-Pyridostigmine Bromide Tablets USP
-
-60 mg
-
-CAUTION: EXTREMELY MOISTURE SENSITIVE.
-DO NOT REMOVE DESICCANT.
-CLOSE TIGHTLY.
-
-Rx only 100 TABLETS
