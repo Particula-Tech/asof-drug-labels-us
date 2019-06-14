@@ -77,8 +77,8 @@ In an embryofetal development study in rabbits, administration of a single subcu
 There was also an increased litter incidence of external malformations, visceral, and skeletal malformations and variations at 390 mg/kg SUBLOCADE (approximately 15 times the MRHD on an AUC basis); however, similar effects were observed with an equivalent level of the ATRIGEL® delivery system, indicating they may be attributable to the vehicle In addition, increased post-implantation loss, which correlated with increased mean number of resorptions and decreased mean number of viable fetuses, and decreased fetal body weights were observed at 390 mg/kg (approximately 15 times the MRHD on an AUC basis); however, similar findings were also observed with an equivalent level of the ATRIGEL® delivery system alone.
 Based on these results, the NOAEL for developmental toxicity for SUBLOCADE was 78 mg/kg (approximately 3 times the MRHD on an AUC basis).
 
-In a pre- and postnatal development study in rats, SUBLOCADE was administered subcutaneously to pregnant animals once during implantation (on Gestation Day 7) and once during weaning (on Lactation Day 7).
-There were no adverse effects on offspring survival, sexual maturation, behavioral assessment, or reproductive performance at up to 300 mg/kg (approximately 10 times the MRHD on an mg/m2 basis)
+In a pre- and postnatal development study in rats, SUBLOCADE was administered subcutaneously to pregnant animals once during implantation (on Gestation Day 7) and once during weaning (on Lactation Day 7.
+There were no adverse effects on offspring survival, sexual maturation, behavioral assessment, or reproductive performance at up to 300 mg/kg (approximately 10 times the MRHD on an mg/m2 basis).
 
 ## 8.2 Lactation
 

@@ -73,10 +73,10 @@ Comparison of Buprenorphine Mean Pharmacokinetic Parameters Between SUBUTEX and 
 | Mean | 12 mg (steady-state) | 24 mg (steady-state) | 300 mg# (1st injection) | 100 mg* (steady-state) | 300 mg* (steady-state) |
 | Cavg,ss (ng/mL) | 1.71 | 2.91 | 2.19 | 3.21 | 6.54 |
 | Cmax,ss (ng/mL) | 5.35 | 8.27 | 5.37 | 4.88 | 10.12 |
-| Cmin,ss (ng/mL) | 0.81 | 1.54 | 1.86† | 2.48 | 5.01 |
+| Cmin,ss (ng/mL) | 0.81 | 1.54 | 1.42† | 2.48 | 5.01 |
 | #Exposure after 1 injection of 300 mg SUBLOCADE following 24 mg SUBUTEX stabilization |  |  |  |  |  |
+| †Mean plasma concentration of 1.86 ng/mL was observed on last day of the dosing interval (Day 29) |  |  |  |  |  |
 | *Steady-state exposure after 4 injections of 100 mg or 300 mg SUBLOCADE, following 2 injections of 300 mg SUBLOCADE |  |  |  |  |  |
-| †Cmin on Day 29 (end of dosing interval) |  |  |  |  |  |
 
 Distribution
 
