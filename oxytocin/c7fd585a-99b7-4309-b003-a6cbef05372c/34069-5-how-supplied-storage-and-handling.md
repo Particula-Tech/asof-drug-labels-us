@@ -2,15 +2,16 @@
 
 Oxytocin Injection, USP (synthetic) is supplied as follows:
 
-| ProductNo. | NDCNo. | Strength | Volume |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 91201* | 63323-012-01 | 10 USP Units/mL | 1 mL fill in a 3 mL vial, packaged in trays of 25. |
-| 1210 | 63323-012-10 | 10 USP Units/mL | 10 mL fill in a 10 mL multiple dose vial, packaged in trays of 25. |
-| 501230† | 63323-012-30 | 10 USP Units/mL | 30 mL fill in a 30 mL multiple dose vial, packaged in trays of 10. |
+| 91201* | 63323-012-01 Unit of 25 | 10 USP Units/mL | 63323-012-00 1 mL fill in a 3 mL vial |
+| 912011† | 63323-012-11 Unit of 25 | 10 USP Units/mL | NDC 63323-012-03 1 mL fill in a 2 mL vial |
+| 1210 | NDC 63323-012-10 Unit of 25 | 10 USP Units/mL | NDC 63323-012-06 10 mL fill in 10 mL Multiple Dose Vial |
+| 501230† | NDC 63323-012-30 Unit of 10 | 10 USP Units/mL | NDC 63323-012-02 30 mL fill in a 30 mL Multiple Dose Vial |
 
 *Packaged in a plastic vial.
 
-†Vial stoppers do not contain natural rubber latex.
+†The container closure is not made with natural rubber latex.
 
 Discard unused portion.
 

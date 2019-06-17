@@ -2,6 +2,10 @@
 
 FOR INTRAVENOUS INFUSION OR INTRAMUSCULAR USE
 
-45789F
+Manufactured by:
 
-Revised: December 2007
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us
+
+45789G
+
+Revised: September 2018
