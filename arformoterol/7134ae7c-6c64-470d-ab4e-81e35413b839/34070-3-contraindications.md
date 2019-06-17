@@ -2,4 +2,5 @@
 
 BROVANA Inhalation Solution is contraindicated in patients with a history of hypersensitivity to arformoterol, racemic formoterol or to any other components of this product.
 
-All LABA, including BROVANA Inhalation Solution, are contraindicated in patients with asthma without use of a long-term asthma control medication [see WARNINGS AND PRECAUTIONS (5)].
+Use of a LABA, including BROVANA Inhalation Solution, without an inhaled cortisteroid is contraindicated in patients with asthma [see Warnings and Precautions (5)].
+BROVANA Inhalation Solution is not indicated for the treatment of asthma.

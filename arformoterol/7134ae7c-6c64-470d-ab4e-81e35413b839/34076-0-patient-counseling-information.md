@@ -1,13 +1,14 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use) with each new prescription and refill.
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use) with each new prescription and refill.
 
-The complete text of the Medication Guide is reprinted at the end of this document.
+The complete text of the Patient Information is reprinted at the end of this document.
 Patients should be given the following information:
 
-Asthma-Related Deaths, Acute Exacerbations or Deteriorations
+Serious Asthma-Related Events, Acute Exacerbations or Deteriorations
 
-Patients should be informed that long-acting beta2-adrenergic agonists, such as BROVANA Inhalation Solution, increase risk of asthma-related death in patients with asthma.
+Patients should be informed that long-acting beta2-adrenergic agonists, such as BROVANA Inhalation Solution, when used as monotherapy [without an inhaled corticosteroid], increase risk of serious asthma-related events, including asthma-related death.
+BROVANA Inhalation Solution is not indicated for the treatment of asthma.
 
 BROVANA Inhalation Solution is not indicated to relieve acute respiratory symptoms and extra doses should not be used for that purpose.
 Acute symptoms should be treated with an inhaled, short-acting beta2-agonist (the healthcare provider should prescribe the patient with such medication and instruct the patient in how it should be used).
@@ -29,29 +30,27 @@ Patients should be warned not to stop or change the dose of other concomitant CO
 
 Common Adverse Reactions with Beta2-agonists
 
-Patients should be informed that treatment with beta2-agonists may lead to adverse reactions that include palpitations, chest pain, rapid heart rate, increased or decreased blood pressure, headache, tremor, nervousness, dry mouth, muscle cramps, nausea, dizziness, fatigue, malaise, low blood potassium, high blood sugar, high blood acid, or trouble sleeping [see ADVERSE REACTIONS (6.1)].
+Patients should be informed that treatment with beta2-agonists may lead to adverse reactions that include palpitations, chest pain, rapid heart rate, increased or decreased blood pressure, headache, tremor, nervousness, dry mouth, muscle cramps, nausea, dizziness, fatigue, malaise, low blood potassium, high blood sugar, high blood acid, or trouble sleeping [see Adverse Reactions (6.1)].
 
 Instructions for Administration
 
-It is important that patients understand how to use BROVANA Inhalation Solution with a nebulizer appropriately and how it should be used in relation to other medications to treat COPD they are taking [see the accompanying Medication Guide].
+It is important that patients understand how to use BROVANA Inhalation Solution with a nebulizer appropriately and how it should be used in relation to other medications to treat COPD they are taking [see the accompanying Patient Information].
 Patients should be instructed not to mix other medications with BROVANA Inhalation Solution and not to inject or swallow BROVANA Inhalation Solution.
 Patients should throw the plastic dispensing vials away immediately after use.
 Due to their small size, the vials pose a danger of choking to young children.
 
 Women should be advised to contact their physician if they become pregnant or if they are nursing.
 
-FDA-Approved Medication Guide
+FDA-Approved Patient Information
 
-See the accompanying Medication Guide.
-
-SUNOVION
+See the accompanying Patient Information.
 
 Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
 
-© 2011, 2014 Sunovion Pharmaceuticals Inc. All rights reserved.
+© 2019 Sunovion Pharmaceuticals Inc. All rights reserved.
 
 For customer service, call 1-888-394-7377.
 To report adverse events, call 1-877-737-7226.
 For medical information, call 1-800-739-0565.
 
-901552R02
+10043-02

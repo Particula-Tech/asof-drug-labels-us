@@ -1,6 +1,7 @@
 # 11 DESCRIPTION
 
 BROVANA (arformoterol tartrate) Inhalation Solution is a sterile, clear, colorless, aqueous solution of the tartrate salt of arformoterol, the (R,R)-enantiomer of formoterol.
+
 Arformoterol is a selective beta2-adrenergic bronchodilator.
 The chemical name for arformoterol tartrate is formamide, N-[2-hydroxy-5-[(1R)-1-hydroxy-2-[[(1R)-2-(4-methoxyphenyl)-1-methylethyl]amino]ethyl]phenyl]-, (2R,3R)-2,3-dihydroxybutanedioate (1:1 salt), and its established structural formula is as follows:
 
@@ -18,4 +19,4 @@ Using the PARI LC® Plus nebulizer (with mouthpiece) connected to a PARI DURA NE
 The mean nebulization time was 6 minutes or less.
 BROVANA Inhalation Solution should be administered from a standard jet nebulizer at adequate flow rates via face mask or mouthpiece.
 
-Patients should be carefully instructed on the correct use of this drug product (please refer to the accompanying Medication Guide).
+Patients should be carefully instructed on the correct use of this drug product (please refer to the accompanying Patient Information).

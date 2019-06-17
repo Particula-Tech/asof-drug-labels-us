@@ -8,7 +8,3 @@ Treatment of overdosage consists of discontinuation of BROVANA Inhalation Soluti
 The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm.
 There is insufficient evidence to determine if dialysis is beneficial for overdosage of BROVANA Inhalation Solution.
 Cardiac monitoring is recommended in cases of overdosage.
-
-Clinical signs in dogs included flushing of the body surface and facial area, reddening of the ears and gums, tremor, and increased heart rate.
-A death was reported in dogs after a single oral dose of 5 mg/kg (approximately 4500 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
-Death occurred for a rat that received arformoterol at a single inhalation dose of 1600 mcg/kg (approximately 430 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).

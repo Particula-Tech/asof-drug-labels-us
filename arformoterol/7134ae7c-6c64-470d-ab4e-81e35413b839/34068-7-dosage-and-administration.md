@@ -3,7 +3,7 @@
 The recommended dose of BROVANA (arformoterol tartrate) Inhalation Solution is one 15 mcg unit-dose vial administered twice daily (morning and evening) by nebulization.
 A total daily dose of greater than 30 mcg (15 mcg twice daily) is not recommended.
 
-BROVANA Inhalation Solution should be administered by the orally inhaled route via a standard jet nebulizer connected to an air compressor (see the accompanying Medication Guide).
+BROVANA Inhalation Solution should be administered by the orally inhaled route via a standard jet nebulizer connected to an air compressor (see the accompanying Patient Information).
 BROVANA Inhalation Solution should not be swallowed.
 BROVANA Inhalation Solution should be stored refrigerated in foil pouches.
 After opening the pouch, unused unit-dose vials should be returned to, and stored in, the pouch.

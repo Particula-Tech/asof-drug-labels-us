@@ -2,11 +2,11 @@
 
 ## 7.1 Adrenergic Drugs
 
-If additional adrenergic drugs are to be administered by any route, they should be used with caution because the sympathetic effects of arformoterol may be potentiated [see WARNINGS AND PRECAUTIONS (5.3, 5.5, 5.6, 5.7)].
+If additional adrenergic drugs are to be administered by any route, they should be used with caution because the sympathetic effects of arformoterol may be potentiated [see Warnings and Precautions (5.3, 5.5, 5.6, 5.7)].
 
 ## 7.2 Xanthine Derivatives, Steroids, or Diuretics
 
-Concomitant treatment with methylxanthine (aminophylline, theophylline), steroids, or diuretics may potentiate any hypokalemic effect of adrenergic agonists including BROVANA Inhalation Solution [see WARNINGS AND PRECAUTIONS (5.7)].
+Concomitant treatment with methylxanthine (aminophylline, theophylline), steroids, or diuretics may potentiate any hypokalemic effect of adrenergic agonists including BROVANA Inhalation Solution [see Warnings and Precautions (5.7)].
 
 The concurrent use of intravenously or orally administered methylxanthines (e.g., aminophylline, theophylline) by patients receiving BROVANA Inhalation Solution has not been completely evaluated.
 In two combined 12-week, placebo-controlled trials that included BROVANA Inhalation Solution doses of 15 mcg twice daily, 25 mcg twice daily, and 50 mcg once daily, 54 of 873 BROVANA Inhalation Solution-treated subjects received concomitant theophylline at study entry.

@@ -1,21 +1,19 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Deaths
+## 5.1 Serious Asthma-Related Events - Hospitalizations, Intubations, Deaths
 
-[see BOXED WARNING]
-
-Data from a large placebo-controlled study in asthma patients showed that long-acting beta2-adrenergic agonists (LABA) increase the risk of asthma-related death.
-This finding is considered a class effect of LABA, including arformoterol, the active ingredient in BROVANA Inhalation Solution.
-The safety and efficacy of BROVANA Inhalation Solution in patients with asthma have not been established.
-All LABA, including BROVANA Inhalation Solution, are contraindicated in patients with asthma without use of a long-term asthma control medication [see CONTRAINDICATIONS (4)].
-Data are not available to determine whether the rate of deaths in patients with COPD is increased by long-acting beta2-adrenergic agonists.
-
-A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
-The increased risk of asthma-related death is considered a class effect of the long-acting beta2-adrenergic agonists, including BROVANA Inhalation Solution.
-No study adequate to determine whether the rate of asthma-related death is increased in patients treated with BROVANA Inhalation Solution has been conducted.
-
-Clinical studies with racemic formoterol suggested a higher incidence of serious asthma exacerbations in patients who received racemic formoterol than in those who received placebo.
-The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+- The safety and efficacy of BROVANA Inhalation Solution in patients with asthma have not been established.
+  BROVANA Inhalation Solution is not indicated for the treatment of asthma [see Contraindications (4)].
+- Use of long-acting beta2-adrenergic agonists (LABA) as monotherapy [without inhaled corticosteroids (ICS)] for asthma is associated with an increased risk of asthma-related death.
+  Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+  These findings are considered a class effect of LABA monotherapy.
+  When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, and death) compared with ICS alone.
+- A 28-week, placebo-controlled US study comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
+  The increased risk of asthma-related death is considered a class effect of the LABA, including BROVANA Inhalation Solution.
+- No study adequate to determine whether the rate of asthma-related death is increased in patients treated with BROVANA Inhalation Solution has been conducted.
+  Clinical studies with racemic formoterol suggested a higher incidence of serious asthma exacerbations in patients who received racemic formoterol than in those who received placebo.
+  The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+- Available data do not suggest an increased risk of death with use of LABA in patients with COPD.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -60,7 +58,7 @@ Doses of the related beta2-agonist albuterol, when administered intravenously, h
 
 ## 5.7 Hypokalemia and Hyperglycemia
 
-Beta-agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects [see CLINICAL PHARMACOLOGY (12.2)].
+Beta-agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects [see Clinical Pharmacology (12.2)].
 The decrease in serum potassium is usually transient, not requiring supplementation.
 Beta-agonist medications may produce transient hyperglycemia in some patients.
 
