@@ -23,9 +23,8 @@ The most common adverse reactions, occurring in greater than or equal to 5% of t
 
 Table 1 Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
 
-| Header$ | Budesonide 9 mg n=520 | Placebo n=107 | Prednisolone2 40 mg n=145 | Comparator3 n=88 |
+| Adverse Reaction | Budesonide 9 mg n=520 Number (%) | Placebo n=107 Number (%) | Prednisolone2 40 mg n=145 Number (%) | Comparator3 n=88 Number (%) |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | Number (%) | Number (%) | Number (%) | Number (%) |
 | Headache | 107(21) | 19(18) | 31(21) | 11(13) |
 | Respiratory Infection | 55(11) | 7(7) | 20(14) | 5(6) |
 | Nausea | 57(11) | 10(9) | 18(12) | 7(8) |
@@ -62,7 +61,7 @@ Table 2 Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Trea
 
 Maintenance of Clinical Remission of Mild to Moderate Crohn's Disease
 
-The safety of budesonide capsules (enteric coated) was evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn's disease.
+The safety of budesonide capsules (enteric coated) were evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn's disease.
 A total of 145 patients were treated with budesonide capsules (enteric coated) 6 mg once daily.
 
 The adverse reaction profile of budesonide capsules (enteric coated) 6 mg once daily in maintenance of Crohn's disease was similar to that of short-term treatment with budesonide capsules (enteric coated) 9 mg once daily in active Crohn's disease.
@@ -129,8 +128,9 @@ Clinical Laboratory Test Findings
 
 The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to budesonide capsules (enteric coated), were reported in greater than or equal to 1% of patients: hypokalemia, leukocytosis, anemia, hematuria, pyuria, erythrocyte sedimentation rate increased, alkaline phosphatase increased, atypical neutrophils, c-reactive protein increased and adrenal insufficiency.
 
-Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
-However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatrics-Treatment of Mild to Moderate Active Crohn's Disease
+
+Adverse reactions reported in pediatric patients 8 to 17 years of age, who weigh more than 25 kg, were similar to those reactions described above in adult patients.
 
 ## 6.2 Postmarketing Experience
 

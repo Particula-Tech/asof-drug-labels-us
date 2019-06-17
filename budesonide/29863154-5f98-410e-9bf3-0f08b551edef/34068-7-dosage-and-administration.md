@@ -11,11 +11,14 @@
 
 The recommended dosage of budesonide capsules (enteric coated) is:
 
-Adults: 9 mg orally once daily for up to 8 weeks.
+Adults
+
+9 mg orally once daily for up to 8 weeks.
 Repeated 8 week courses of budesonide capsules (enteric coated)can be given for recurring episodes of active disease.
 
-Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
-However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric patients 8 to 17 years who weigh more than 25 kg
+
+9 mg orally once daily for up to 8 weeks, followed by 6 mg once daily for 2 weeks.
 
 ## 2.3 Maintenance of Clinical Remission of Mild to Moderate Crohn’s Disease
 

@@ -6,7 +6,7 @@ Budesonide is an anti-inflammatory corticosteroid and has a high glucocorticoid 
 
 ## 12.2 Pharmacodynamics
 
-Treatment with glucocorticoids, including budesonide capsules (enteric coated) is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
+Treatment with glucocorticoids, including budesonide capsules (enteric coated) are associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
 There was a positive correlation between the percent (%) reduction of AUC 0-24 of plasma cortisol and systemic exposure to budesonide both in pediatric and adult patients.
 
 Adults
@@ -14,8 +14,27 @@ Adults
 Plasma cortisol suppression was compared following five days' administration of budesonide capsules (enteric coated) and prednisolone in a crossover study in healthy volunteers.
 The mean decrease in the area under the plasma cortisol concentration-time curve over 24 hour (AUC0-24) was greater (78%) with prednisolone 20 mg per day compared to 45% with budesonide capsules (enteric coated) 9 mg per day.
 
-Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
-However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatrics
+
+The effect of budesonide on endogenous cortisol concentrations was compared between pediatrics (n=8, aged 9 to 14 years) and adults (n=6) with active Crohn's disease following administration of budesonide capsules (enteric coated) 9 mg once daily for 7 days.
+Compared to baseline values before treatment, the mean decrease in the AUC0-24 of cortisol was 64% (±18%) in pediatrics and 50% (±27%) in adults after budesonide capsules (enteric coated) treatment [see Warnings and Precautions (5.1), Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
+
+The responses to adrenocorticotropin challenge (i.e., ACTH stimulation test) was studied in pediatric patients aged 8 to 17 years, with mild to moderate active Crohn's disease in randomized, double-blind, active control study [see Clinical Studies (14.1)].
+After 8 weeks of treatment with 9 mg once daily budesonide capsules (enteric coated) or with prednisolone, administered at tapering doses starting from 1 mg/kg, the proportion of patients with normal response to the ACTH challenge was 6% in the budesonide group compared to none in the prednisolone group; the proportion of patients with morning p-cortisol of greater than 5 mcg/dL was 50% in the budesonide group compared to 22% in the prednisolone group.
+The mean morning p-cortisol was 6.3 mcg/dL in the budesonide group and 2.6 mcg/dL in the prednisolone group (Table 4).
+
+Table 4 Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal Response* to ACTH Challenge Following Administration of Budesonide or Prednisolone for 8 weeks
+
+|  | Budesonide | Prednisolone |
+| --- | --- | --- |
+| Peak plasma cortisol above 18 mcg/dL |  |  |
+| At baseline | 91% (20/22) | 91% (21/23) |
+| At week 8 | 25% (4/16) | 0% (0/18) |
+| Normal response* to ACTH challenge |  |  |
+| At baseline | 73% (16/22) | 78% (18/23) |
+| At week 8 | 6% (1/16) | 0% (0/18) |
+| *The normal response to ACTH challenge included 3 criteria, as defined in the cosyntropin label: |  |  |
+| 1) morning cortisol level above 5 mcg/dL; 2) increase in cortisol level by at least 7 mcg/dL above the morning (pre-challenge) level following ACTH challenge; and cortisol level of above 18 mcg/dL following ACTH challenge. Cortisol concentration was measured at 30 min after intravenous or intramuscular injection of 0.25 mg cosyntropin at baseline and at week 8 after treatment. |  |  |
 
 ## 12.3 Pharmacokinetics
 
@@ -65,8 +84,16 @@ No unchanged budesonide was detected in urine.
 
 Specific Populations
 
-Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
-However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Age: Pediatric Population (8 years and older)
+
+The pharmacokinetics of budesonide were investigated in pediatric patients aged 9 to 14 years (n=8) after oral administration of budesonide capsules (enteric coated) and intravenous administration of budesonide.
+Following administration of 9 mg budesonide capsules (enteric coated) once daily for 7 days, the median time to peak plasma concentration of budesonide was 5 hours and the mean peak plasma concentration was 2.58 ± 1.51 ng/mL.
+The mean AUC was 17.78 ± 5.25 ng•hr/mL and 17% higher than that in adult patients with Crohn's disease in the same study.
+The mean absolute oral availability was 9.2% (3 to 17%; n=4) in pediatric patients.
+
+After single dose administration of intravenous budesonide (n=4), the mean volume of distribution (Vss) was 2.2 ± 0.4 L/kg and mean clearance was 0.81 ± 0.2 L/min.
+The mean elimination half-life was 1.9 hours in pediatric patients.
+The body-weight normalized clearance in pediatric patients was 20.5 mL/min/kg in comparison to 15.9 mL/min/kg in adult patients after intravenous administration [see Warnings and Precautions (5.1), Use in Specific Population (8.4)].
 
 Hepatic Impairment
 
@@ -87,7 +114,7 @@ Effects of Other Drugs on Budesonide
 Ketoconazole
 
 In an open, non-randomized, cross-over study, 6 healthy subjects were given budesonide 10 mg as a single dose, either alone or concomitantly with the last ketoconazole dose of 3 days treatment with ketoconazole 100 mg twice daily.
-Co-administration of ketoconazole resulted in an eight-fold increase in AUC of budesonide, compared to budesonide alone [see Drug Interactions (7.1)].
+Coadministration of ketoconazole resulted in an eight-fold increase in AUC of budesonide, compared to budesonide alone [see Drug Interactions (7.1)].
 
 Grapefruit Juice
 
@@ -110,4 +137,4 @@ Cimetidine
 In an open, non-randomized, cross-over study, the potential effect of cimetidine on the pharmacokinetics of budesonide was studied.
 Six healthy subjects received cimetidine 1 gram daily (200 mg with meals and 400 mg at night) for 2 separate 3-day periods.
 Budesonide 4 mg was administered either alone or on the last day of one of the cimetidine treatment periods.
-Co-administration of cimetidine resulted in a 52% and 31% increase in the budesonide peak plasma concentration and the AUC of budesonide, respectively.
+Coadministration of cimetidine resulted in a 52% and 31% increase in the budesonide peak plasma concentration and the AUC of budesonide, respectively.

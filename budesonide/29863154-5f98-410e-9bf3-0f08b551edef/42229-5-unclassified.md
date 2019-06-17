@@ -6,8 +6,8 @@ Ahmedabad, India
 
 Distributed by:
 
-Zydus Pharmaceuticals USA Inc.
+Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 02/19
+Rev.: 05/19

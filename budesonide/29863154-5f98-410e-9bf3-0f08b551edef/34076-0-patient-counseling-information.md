@@ -23,8 +23,6 @@ Administration
   Do not chew or crush.
 - Avoid consumption of grapefruit juice for the duration of their budesonide capsules (enteric coated) therapy [see Drug Interactions (7.1)].
 
-Budesonide capsules (enteric coated) are a registered trademark of the Elan Pharma International Limited, a Perrigo Company.
-
 Manufactured by:
 
 Cadila Healthcare Ltd.
@@ -37,7 +35,7 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 02/19
+Rev.: 05/19
 
 PATIENT INFORMATION
 
@@ -51,13 +49,12 @@ What are Budesonide Capsules (enteric coated)?
 
 Budesonide capsules (enteric coated) are prescription corticosteroid medicine used to treat mild to moderate Crohn's disease that affects part of the small intestine (ileum) and part of the large intestine (ascending colon):
 
-- in people with active Crohn's disease
+- in people 8 years of age and older with active Crohn's disease
 - in adults to help keep symptoms from coming back for up to 3 months
 
-It is not known if budesonide capsules (enteric coated) are safe and effective in children under 8 years of age.
+It is not known if budesonide capsules (enteric coated) are safe and effective in children under 8 years of age, or in children 8 to 17 years of age who weigh 55 pounds (25 kg) or less, for the treatment of mild to moderate active Crohn's disease that affects part of the small intestine (ileum) and part of the large intestine (ascending colon).
 
-Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
-However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+It is not known if budesonide capsules (enteric coated) are safe and effective in children to help keep symptoms of mild to moderate Crohn's disease that affects part of the small intestine (ileum) and part of the large intestine (ascending colon) from coming back.
 
 Who should not take Budesonide Capsules (enteric coated)?
 
@@ -159,6 +156,8 @@ The most common side effects of Budesonide Capsules (enteric coated) in adults i
 - pain
 - dizziness
 
+The most common side effects of budesonide capsules (enteric coated) in children 8 to 17 years of age, who weigh more than 55 pounds (25 kg), are similar to the most common side effects in adults.
+
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of budesonide capsules (enteric coated).
 For more information, ask your healthcare provider or pharmacist.
@@ -181,7 +180,7 @@ Do not give budesonide capsules (enteric coated) to other people, even if they h
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about budesonide capsules (enteric coated) that is written for health professionals.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 What are the ingredients in Budesonide Capsules (enteric coated)?
 
@@ -189,10 +188,5 @@ Active ingredient: budesonide, USP
 
 Inactive ingredients: acetyltributyl citrate, ethylcellulose aqueous dispersion, gelatin, iron oxide red, iron oxide yellow, methacrylic acid copolymer dispersion, polysorbate 80, simethicone emulsion, sodium lauryl sulfate, sugar spheres, talc, titanium dioxide and triethyl citrate.
 The capsule shell is printed with black pharmaceutical ink which contains following ingredients: butyl alcohol, dehydrated alcohol, iron oxide black, isopropyl alcohol, potassium hydroxide, propylene glycol, shellac and strong ammonia solution and purified water.
-
-Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
-However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-ENTOCORT is a registered trademark of its respective company.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

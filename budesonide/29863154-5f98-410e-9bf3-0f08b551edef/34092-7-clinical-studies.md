@@ -17,13 +17,16 @@ See Table 5.
 
 Table 5 Clinical Improvement Rates (CDAI less than or equal to 150) After 8 weeks of Treatment
 
-| C li n i cal Study | Budesonide 9mg Daily | Budesonide 4.5mg Twice Daily | C o m parator3 | Placebo | Prednisolone |
+| C li n i cal Study | Budesonide 9 mg Daily | Budesonide 4.5 mg Twice Daily | C o m parator3 | Placebo | Prednisolone |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 62/91 (69%)1 |  | 37/83 (45%) |  |  |
 | 2 |  | 31/61 (51%)2 |  | 13/64 (20%) |  |
 | 3 | 38/79 (48%) | 41/78 (53%) |  | 13/40 (33%) |  |
 | 4 | 35/58 (60%) | 25/60 (42%) |  |  | 35/58 (60%) |
 | 5 | 45/86 (52%) |  |  |  | 56/85 (65%) |
+| 1. p=0.0004 compared to comparator. |  |  |  |  |  |
+| 2. p=0.001 compared to placebo. |  |  |  |  |  |
+| 3. This drug is not approved for the treatment of Crohn's disease in the United States. |  |  |  |  |  |
 
 Two placebo-controlled clinical trials (Studies 2 and 3) were conducted.
 Study 2 involved 258 patients and tested the effects of graded doses of budesonide capsules (enteric coated) (1.5 mg twice daily, 4.5 mg twice daily, or 7.5 mg twice daily) versus placebo.
@@ -45,8 +48,16 @@ In Study 5, 13% fewer patients in the budesonide capsules (enteric coated) group
 
 The proportion of patients with normal plasma cortisol values (greater than 64.58 ng/mL) was significantly higher in the budesonide capsules (enteric coated) groups in both trials (60% to 66%) than in the prednisolone groups (26% to 28%) at Week 8.
 
-Pediatric use information is approved for Perrigo Pharma International DAC's ENTOCORT EC (budesonide) capsules.
-However, due to Perrigo Pharma International DAC's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatrics (8 to 17 Years of Age)
+
+The effectiveness of budesonide capsules (enteric coated), in pediatric patients aged 8 to 17 years, who weigh more than 25 kg with mild to moderate active Crohn's disease (defined as Crohn's Disease Activity Index (CDAI) ≥ 200) involving the ileum and/or the ascending colon, was assessed in one randomized, double-blind, active control study.
+This study compared budesonide capsules (enteric coated) 9 mg once daily, with prednisolone, administered at tapering doses starting from 1 mg/kg.
+Twenty-two (22) patients were treated with budesonide capsules (enteric coated) capsules and 24 patients were treated with prednisolone.
+After 8 weeks of treatment, 55% (95% CI: 32%, 77%) of patients treated with budesonide capsules (enteric coated) reached the endpoint (CDAI ≤150), as compared to 68% (95% CI: 47%, 89%) of patients treated with prednisolone.
+The average number of liquid or very soft stools per day (assessed over 7 days) decreased from 1.49 at baseline to 0.96 after treatment with budesonide capsules (enteric coated) and 2.00 at baseline to 0.52 after treatment with prednisolone.
+The average daily abdominal pain rating (where 0=none, 1=mild, 2=moderate, and 3=severe) decreased from 1.49 at baseline to 0.54 after treatment with budesonide capsules (enteric coated) and 1.64 at baseline to 0.38 after 8 weeks of treatment with prednisolone.
+
+Use of budesonide capsules (enteric coated) in this age group is supported by evidence from adequate and well-controlled studies of budesonide capsules (enteric coated) in adults, and by safety and pharmacokinetic studies performed in pediatric patients.
 
 ## 14.2 Maintenance of Clinical Remission of Mild to Moderate Crohn’s Disease
 
