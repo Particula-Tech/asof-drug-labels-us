@@ -28,7 +28,7 @@ In this same cohort, the incidence of death in the first year post-MI was 20 per
 Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
 Avoid the use of indomethacin capsules in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
-If indomethacin capsules is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+If indomethacin capsules are used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
 ## 5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
 
@@ -127,7 +127,7 @@ When indomethacin capsules are used in patients with preexisting asthma (without
 
 ## 5.9 Serious Skin Reactions
 
-NSAIDs, including indomethacin, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including indomethacin, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens‑Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of indomethacin capsules at the first appearance of skin rash or any other sign of hypersensitivity.
 
