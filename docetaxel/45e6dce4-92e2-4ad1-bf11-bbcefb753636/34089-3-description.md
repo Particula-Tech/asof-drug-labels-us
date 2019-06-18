@@ -12,8 +12,8 @@ One-vial TAXOTERE (Injection)
 
 TAXOTERE (docetaxel) Injection is a sterile, non-pyrogenic, pale-yellow to brownish-yellow solution at 20 mg/mL concentration.
 
-Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams dehydrated alcohol solution.
+Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams dehydrated alcohol (50% v/v) solution, with citric acid for pH adjustment.
 
-TAXOTERE is available in single use vials containing 20 mg (1 mL) or 80 mg (4 mL) docetaxel (anhydrous).
+TAXOTERE is available in single-dose vials containing 20 mg (1 mL) or 80 mg (4 mL) docetaxel (anhydrous).
 
 TAXOTERE Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
