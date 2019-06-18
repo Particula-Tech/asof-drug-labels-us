@@ -11,9 +11,10 @@
 5. American Society of Hospital Pharmacists technical assistance bulletin on handling cytotoxic and hazardous drugs.
    Am J Hosp Pharm 1990; 47:1033-1049.
 
-Teva Select Brands, North Wales, PA 19454
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
+Opava-Komarov, Czech Republic
 
-Division of Teva Pharmaceuticals USA, Inc.
+Manufactured For: Teva Select Brands, North Wales, PA 19454 Division of Teva Pharmaceuticals USA, Inc.
 
 Rev.
 A 7/2016
