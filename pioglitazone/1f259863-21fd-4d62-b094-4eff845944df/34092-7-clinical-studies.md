@@ -77,7 +77,7 @@ Add-on to Sulfonylurea Trials Two clinical trials were conducted with pioglitazo
 Both studies included patients with type 2 diabetes on any dose of a sulfonylurea, either alone or in combination with another antidiabetic agent.
 All other antidiabetic agents were withdrawn at least three weeks prior to starting study treatment.
 In the first study, 560 patients were randomized to receive 15 mg or 30 mg of pioglitazone or placebo once daily for 16 weeks in addition to their current sulfonylurea regimen.
-Treatment with pioglitazone as add-on to sulfonylurea produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo add-on to sulfonylurea (see Table 20)
+Treatment with pioglitazone as add-on to sulfonylurea produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo add-on to sulfonylurea (see Table 20).
 
 Table 20.
 Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Sulfonylurea Trial

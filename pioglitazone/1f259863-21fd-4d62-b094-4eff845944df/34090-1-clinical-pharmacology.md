@@ -42,7 +42,7 @@ Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study
 | Total Cholesterol (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 225 | 220 | 223 | 214 |
 | Percent change from baseline (adjusted mean*) | 4.4% | 4.6% | 3.3% | 6.4% |
-| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p < 0.05 versus placebo. |  |  |  |  |
+| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p < 0.05 versus placebo |  |  |  |  |
 
 In the two other monotherapy studies (16 weeks and 24 weeks) and in combination therapy studies with sulfonylurea (16 weeks and 24 weeks), metformin (16 weeks and 24 weeks) or insulin (16 weeks and 24 weeks), the results were generally consistent with the data above.
 
