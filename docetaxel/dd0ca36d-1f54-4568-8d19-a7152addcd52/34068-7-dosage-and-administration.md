@@ -10,7 +10,7 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 - For the adjuvant treatment of operable node-positive breast cancer, the recommended docetaxel dose is 75 mg/m2 administered 1 hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 courses.
   Prophylactic G-CSF may be used to mitigate the risk of hematological toxicities [see Dosage and Administration (2.7)].
 
-## 2.2 Non-Small Cell Lung Cancer
+## 2.2 Non-small Cell Lung Cancer
 
 - For treatment after failure of prior platinum-based chemotherapy, docetaxel was evaluated as monotherapy, and the recommended dose is 75 mg/m2 administered intravenously over 1 hour every 3 weeks.
   A dose of 100 mg/m2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
@@ -52,7 +52,7 @@ All patients should be premedicated with oral corticosteroids (see below for pro
 
 For metastatic castration-resistant prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg at 12 hours, 3 hours, and 1 hour before the docetaxel infusion [see Warnings and Precautions (5.5)].
 
-## 2.7 Dosage Adjustments During Treatment
+## 2.7 Dosage Adjustments during Treatment
 
 Breast Cancer
 
@@ -70,7 +70,7 @@ Patients who experience grade 3 or 4 stomatitis should have their docetaxel dose
 Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel therapy should have their dosage of docetaxel reduced from 75 mg/m2 to 60 mg/m2.
 If the patient continues to experience these reactions at 60 mg/m2, treatment should be discontinued.
 
-Non-Small Cell Lung Cancer
+Non-small Cell Lung Cancer
 
 Monotherapy with docetaxel for NSCLC treatment after failure of prior platinum-based chemotherapy
 
@@ -165,8 +165,7 @@ Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patie
 ## 2.8 Administration Precautions
 
 Docetaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing docetaxel solutions.
-The use of gloves is recommended.
-Please refer to [see How Supplied/Storage and Handling (16.3)].
+The use of gloves is recommended [see How Supplied/Storage and Handling (16.3)].
 
 If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
 If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.

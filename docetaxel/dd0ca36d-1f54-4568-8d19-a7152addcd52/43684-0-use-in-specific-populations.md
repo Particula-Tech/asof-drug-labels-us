@@ -2,24 +2,63 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.13)]
+Risk Summary
 
-Based on its mechanism of action and findings in animals, docetaxel can cause fetal harm when administered to a pregnant woman.
-If docetaxel is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with docetaxel [see Warnings and Precautions (5.13)].
+Based on findings in animal reproduction studies and its mechanism of action, docetaxel can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 
-Docetaxel can cause fetal harm when administered to a pregnant woman.
-Studies in both rats and rabbits at doses ≥0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m2 basis), administered during the period of organogenesis, have shown that docetaxel is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
-The doses indicated above also caused maternal toxicity [see Warnings and Precautions (5.13)].
+Available data from case reports in the literature and pharmacovigilance with docetaxel use in pregnant women are not sufficient to inform the drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Docetaxel contains alcohol which can interfere with neurobehavioral development [see Clinical Considerations].
+In animal reproductive studies, administration of docetaxel to pregnant rats and rabbits during the period of organogenesis caused an increased incidence of embryo-fetal toxicities, including intrauterine mortality, at doses as low as 0.02 and 0.003 times the recommended human dose based on body surface area, respectively [see Data].
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, miscarriage, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-It is not known whether docetaxel is excreted in human milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from docetaxel, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Clinical Considerations
+
+Docetaxel contains alcohol [see Warnings and Precautions (5.13)].
+Published studies have demonstrated that alcohol is associated with fetal harm including central nervous system abnormalities, behavioral disorders, and impaired intellectual development.
+
+Data
+
+Animal data
+
+Intravenous administration of ≥0.3 and 0.03 mg/kg/day docetaxel to pregnant rats and rabbits, respectively, during the period of organogenesis caused an increased incidence of intrauterine mortality, resorptions, reduced fetal weights, and fetal ossification delays.
+Maternal toxicity was also observed at these doses, which were approximately 0.02 and 0.003 times the daily maximum recommended human dose based on body surface area, respectively.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of docetaxel in human milk, or on its effects on milk production or the breastfed child.
+No lactation studies in animals have been conducted.
+Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with Docetaxel and for 1 week after the last dose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Verify pregnancy status in females of reproductive potential prior to initiating Docetaxel.
+
+Contraception
+
+Females
+
+Docetaxel can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel.
+
+Males
+
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel.
+
+Infertility
+
+Based on findings in animal studies, Docetaxel may impair fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.12)].
+The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.13)].
 
 The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established.
 The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
@@ -56,7 +95,7 @@ In summary, the body surface area adjusted clearance of docetaxel monotherapy an
 
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in elderly patients.
 
-Non-Small Cell Lung Cancer
+Non-small Cell Lung Cancer
 
 In a study conducted in chemotherapy-naive patients with NSCLC (TAX326), 148 patients (36%) in the docetaxel+cisplatin group were 65 years of age or greater.
 There were 128 patients (32%) in the vinorelbine+cisplatin group 65 years of age or greater.
@@ -69,7 +108,7 @@ When docetaxel was combined with carboplatin for the treatment of chemotherapy-n
 Prostate Cancer
 
 Of the 333 patients treated with docetaxel every three weeks plus prednisone in the prostate cancer study (TAX327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with docetaxel every three weeks, the following treatment emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs 59%), infection (37% vs 24%), nail changes (34% vs 23%), anorexia (21% vs 10%), weight loss (15% vs 5%) respectively.
+In patients treated with docetaxel every three weeks, the following treatment-emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs 59%), infection (37% vs 24%), nail changes (34% vs 23%), anorexia (21% vs 10%), weight loss (15% vs 5%), respectively.
 
 Breast Cancer
 
@@ -96,4 +135,4 @@ Other reported clinical experience with this treatment regimen has not identifie
 Patients with bilirubin >ULN should not receive docetaxel.
 Also, patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN should not receive docetaxel [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
-The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.12)].
+The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.13)].

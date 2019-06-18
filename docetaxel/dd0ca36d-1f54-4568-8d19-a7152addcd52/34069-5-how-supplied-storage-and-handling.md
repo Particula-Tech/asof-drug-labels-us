@@ -4,7 +4,8 @@
 
 One-vial Docetaxel (Injection)
 
-Docetaxel Injection is supplied in a single use vial as a sterile, pyrogen-free, non-aqueous solution.
+Docetaxel Injection is supplied in a single-dose vial as a sterile, pyrogen-free, non-aqueous solution.
+Discard unused portion.
 
 | Docetaxel 20 mg/mL | (NDC 0955-1020-01) |
 | --- | --- |
@@ -35,5 +36,5 @@ Freezing does not adversely affect the product.
 
 ## 16.3 Handling and Disposal
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
+Docetaxel is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
