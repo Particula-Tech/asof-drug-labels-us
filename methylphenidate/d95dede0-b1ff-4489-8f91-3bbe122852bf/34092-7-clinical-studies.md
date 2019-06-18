@@ -38,8 +38,7 @@ Table 2: Summary of Primary Efficacy Results in Pediatric Patients (6 – 12 yea
 | Placebo (53) | NA | 20.7 (1.22) |  |  |  |
 | Study 2 | ADHD-RS-IV | JORNAY PM (81) | 43.1 (7.33) | 24.1 (1.50) | -7.0 (-11.4, -2.7) |
 | Placebo (80) | 43.5 (6.84) | 31.2 (1.60) |  |  |  |
-| ITT: Intent-to-treat. SE: Standard Error. SD: Standard Deviation. CI: Confidence Interval. NA: Not Available. |  |  |  |  |  |
-| CS: Combined Score (sum of items 1-13) |  |  |  |  |  |
+| ITT: Intent-to-treat. SE: Standard Error. SD: Standard Deviation. CI: Confidence Interval. NA: Not Available. CS: Combined Score (sum of items 1-13) |  |  |  |  |  |
 
 Figure 2: Study 1—LS Mean SKAMP Combined Score on Day after Final Treatment, as Measured in an Analogue Classroom, N=117
 
