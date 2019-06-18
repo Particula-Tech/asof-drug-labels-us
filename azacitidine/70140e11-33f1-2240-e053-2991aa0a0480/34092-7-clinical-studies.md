@@ -6,7 +6,7 @@ Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. si
 RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts ≤50.0 x 10 9/L; required platelet transfusions; or were neutropenic (ANC <1.0 x 10 9/L) with infections requiring treatment with antibiotics.
 Patients with acute myelogenous leukemia (AML) were not intended to be included.
 Supportive care allowed in this study included blood transfusion products, antibiotics, antiemetics, analgesics and antipyretics.
-The use of hematopoeitic growth factors was prohibited.
+The use of hematopoietic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
 
 Azacitidine for injection was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days every 4 weeks.
@@ -22,7 +22,7 @@ Approximately 55% of the patients randomized to observation crossed over to rece
 Table 3.
 Baseline Demographics and Disease Characteristics
 
-|  | Azacitidine For Injection (N=99) | Observation (N=92) |
+|  | Azacitidine for injection (N=99) | Observation (N=92) |
 | --- | --- | --- |
 | Gender (n%) |  |  |
 | Male | 72 (72.7) | 60 (65.2) |
@@ -72,7 +72,7 @@ Response occurred in all MDS subtypes as well as in patients with adjudicated ba
 Table 5.
 Response Rates
 
-|  | Azacitidine For Injection (N=89) | Observation Before Crossover (N=83) |  |
+|  | Azacitidine for injection (N=89) | Observation Before Crossover (N=83) |  |
 | --- | --- | --- | --- |
 | Response | n (%) | n (%) | P value |
 | Overall (CR+PR) | 14 (15.7) | 0 (0.0) | (<0.0001) |

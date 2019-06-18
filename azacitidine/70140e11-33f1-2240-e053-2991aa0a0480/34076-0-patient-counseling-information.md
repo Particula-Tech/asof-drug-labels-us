@@ -10,7 +10,7 @@ Advise females of reproductive potential to avoid pregnancy during treatment wit
 Advise males with female sexual partners of reproductive potential to not father a child and to use effective contraception during treatment with Azacitidine for injection.
 Advise patients to report pregnancy to their physicians immediately [see Warnings and Precautions (5.5) and see Use in Specific Populations (8.3)].
 
-Lactation Advise patients to avoid breastfeeding while receiving Azacitidine for injection [see Warnings and Precautions (8.2)].
+Lactation Advise patients to avoid breastfeeding while receiving Azacitidine for injection [see Use in Specific Populations (8.2)].
 
 Manufactured For:
 
@@ -28,7 +28,7 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited,
 
-Plot No. 5 to 12 Pharmez,
+Plot No. 5 to 14 Pharmez,
 
 Nr.
 Village Matoda, Bavla Road,
@@ -39,6 +39,6 @@ Ahmedabad-382 213,
 
 India.
 
-51 4477 0 706401
+51 3597 0 720287
 
-Issued: February 2018
+Issued: April 2019

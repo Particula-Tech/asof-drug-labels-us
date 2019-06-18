@@ -6,9 +6,10 @@ Azacitidine for injection is supplied as a lyophilized powder in 100 mg single-d
 
 Storage
 
-Store unreconstituted vials at 25ºC (77ºF); excursions permitted between 15º to 30ºC (59º to 86ºF) [see USP Controlled Room Temperature].
+Store unreconstituted vials at 25º C (77º F); excursions permitted to 15º-30º C (59º-86º F) (See USP Controlled Room Temperature).
 
 Handling and Disposal
 
 Azacitidine for injection is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.1 1
+Follow applicable special handling and disposal procedures.
+1
