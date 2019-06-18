@@ -13,4 +13,4 @@ Local inflammatory changes have been described following inadvertent infiltratio
 
 Miscellaneous Uncommon Effects: The following adverse effects have been reported in 1% to 3% of adult patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath.
 
-Administration of dobutamine, like other catecholamines, has been associated with decreases in serum potassium concentrations, rarely to hypokalemic values (See PRECAUTIONS).
+Administration of dobutamine, like other catecholamines, has been associated with decreases in serum potassium concentrations, rarely to hypokalemic values.

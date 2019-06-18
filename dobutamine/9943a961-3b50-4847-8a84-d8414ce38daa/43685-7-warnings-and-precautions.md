@@ -45,6 +45,8 @@ There is concern that any agent that increases contractile force and heart rate 
 Drug Interactions: There was no evidence of drug interactions in clinical studies in which dobutamine hydrochloride was administered concurrently with other drugs, including digitalis preparations, furosemide, spironolactone, lidocaine, glyceryl trinitrate, isosorbide dinitrate, morphine, atropine, heparin, protamine, potassium chloride, folic acid, and acetaminophen.
 Preliminary studies indicate that the concomitant use of dobutamine and nitroprusside results in a higher cardiac output and, usually, a lower pulmonary wedge pressure than when either drug is used alone.
 
+Concomitant use of dobutamine and catechol-O-methyltranferase (COMT) inhibitors (e.g., entacapone) may result in increased heart rate, arrhythmias, and changes in blood pressure.
+
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Studies to evaluate the carcinogenic or mutagenic potential of dobutamine or the potential of the drug to affect fertility adversely have not been performed.
 
 Pregnancy: Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the fetus due to dobutamine.
