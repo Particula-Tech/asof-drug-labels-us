@@ -12,5 +12,6 @@ Patients using METROGEL should receive the following information and instruction
 
 Rx Only US Patent No. 6,881,726 and 7,348,317
 
-Manufactured by: G Production Inc. Baie D'Urfé, QC, H8X 3S4 Canada Marketed by: Galderma Laboratories, L.P.
+Manufactured by: G Production Inc. Baie D'Urfé, QC, H8X 3S4 Canada Made in Canada.
+Marketed by: Galderma Laboratories, L.P.
 Fort Worth, TX 76177 USA P50742-3

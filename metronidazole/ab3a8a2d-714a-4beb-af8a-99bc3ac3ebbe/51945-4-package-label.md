@@ -1,9 +1,9 @@
 # PACKAGE LABEL - 60g Tube
 
-metrogel 1% (metronidazole gel), 1% NDC 0299-3820-60 Rx Only NET WT.
+metrogel 1% (metronidazole) Gel 1% NDC 0299-3820-60 For topical use only Rx Only NET WT.
 60 g For topical use only.
 Not for oral, ophthalmic or intravaginal use.
-Store at controlled room temperature, 68° to 77° (20° - 25°), excursions permitted between 59° to 86° (15° - 30°).
+Store at controlled room temperature, 68° to 77°F (20° - 25°C), excursions permitted between 59° to 86°F (15° - 30°C).
 Keep out of reach of children.
 Usual dosage: Apply a thin film once a day to the affected areas.
 See package insert for complete prescribing instructions.
@@ -16,17 +16,16 @@ Manufactured by: G Production Inc. Baie D'Urfé, QC, H9X 3S4, Canada Made in Can
 
 # PACKAGE LABEL - 55g Pump
 
-Rx Only NDC 0299-3820-01 metrogel 1% (metronidazole gel), 1% PUMP For topical use only NET WT.
+Rx Only NDC 0299-3820-01 metrogel 1% (metronidazole) Gel 1% PUMP For topical use only NET WT.
 55g For topical use only.
 Not for oral, ophthalmic or intravaginal use.
-Store at controlled room temperature, 68° to 77° (20° - 25°), excursions permitted between 59° to 86° (15° - 30°).
+Store at controlled room temperature, 68° to 77°F (20° - 25°C), excursions permitted between 59° to 86°F (15° - 30°C).
 Keep out of reach of children.
 Usual dosage: Apply a thin film once a day to the affected areas.
 See package insert for complete prescribing instructions.
 Each gram contains: 10 mg (1%) metronidazole as active ingredient in a gel base consisting of betadex, edetate disodium, hydroxyethyl cellulose, methylparaben, niacinamide, phenoxyethanol, propylene glycol, propylparben, and purified water.
-US Patent Nos: 6,881,726 and 7,348,317
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, TX 76177 USA Manufactured by: G Production Inc. Baie D'Urfé, QC, H9X 3S4, Canada Made in Canada.
+Fort Worth, TX 76177 USA Made in Canada.
 GALDERMA is a registered trademark.
-P51727-1
+P51727-2

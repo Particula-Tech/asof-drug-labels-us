@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Apply and rub in a thin film of METROGEL once daily to affected area(s).
 A gentle cleanser should be used before the application of METROGEL.
