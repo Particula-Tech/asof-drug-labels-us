@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761100"
+  ],
+  "inn": "trastuzumab",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-5033-01",
+    "0006-5033-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab",
+      "name": "Ontruzant"
+    }
+  ],
+  "setid": "a8d34591-b709-492b-84e3-d7764db9366a",
+  "source": "dailymed"
+}
