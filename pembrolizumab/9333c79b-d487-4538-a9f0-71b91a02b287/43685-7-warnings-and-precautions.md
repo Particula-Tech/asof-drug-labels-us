@@ -20,6 +20,15 @@ Pneumonitis occurred in 17% of patients with a history of prior thoracic radiati
 Pneumonitis led to discontinuation of KEYTRUDA in 29 (3.7%) patients.
 Pneumonitis resolved in 51% of the patients.
 
+In KEYNOTE-048 enrolling 300 patients with HNSCC who received KEYTRUDA as a single agent pneumonitis occurred in 18 (6%) patients, including Grade 3 (1.3%), Grade 4 (0%), and Grade 5 (0.3%).
+Eight of the 18 patients received high-dose corticosteroids for a median duration of 14 days (range: 1 to 77 days).
+Pneumonitis led to discontinuation of KEYTRUDA in 2 (0.7%) patients.
+Pneumonitis resolved in 12 (66%) of the patients.
+Pneumonitis occurred in 15 (5.4%) patients of 276 patients with HNSCC receiving KEYTRUDA in combination with platinum and FU as first-line therapy for advanced disease, including Grade 3 (1.1%), Grade 4 (0%), and Grade 5 (0.4%) pneumonitis.
+Four of the 15 patients received high-dose corticosteroids for a median duration of 16 days (range: 2 to 32 days).
+Pneumonitis led to discontinuation of KEYTRUDA in 5 (1.8%) patients.
+Pneumonitis resolved in 12 (80%) of the patients.
+
 ## 5.2 Immune-Mediated Colitis
 
 KEYTRUDA can cause immune-mediated colitis.
@@ -33,7 +42,7 @@ Thirty-three (69%) of the 48 patients received systemic corticosteroids, with 27
 Colitis led to discontinuation of KEYTRUDA in 15 (0.5%) patients.
 Colitis resolved in 41 (85%) of the 48 patients.
 
-## 5.3 Immune-Mediated Hepatitis, or Hepatotoxicity (in Combination with Axitinib)
+## 5.3 Immune-Mediated Hepatitis (KEYTRUDA) and Hepatotoxicity (KEYTRUDA in Combination with Axitinib)
 
 Immune-Mediated Hepatitis
 
@@ -47,18 +56,18 @@ Thirteen (68%) of the 19 patients received systemic corticosteroids, with 12 of 
 Hepatitis led to discontinuation of KEYTRUDA in 6 (0.2%) patients.
 Hepatitis resolved in 15 (79%) of the 19 patients.
 
-Hepatotoxicity (in Combination with Axitinib)
+Hepatotoxicity in Combination with Axitinib
 
 KEYTRUDA in combination with axitinib can cause hepatic toxicity with higher than expected frequencies of Grades 3 and 4 ALT and AST elevations compared to KEYTRUDA alone.
 Monitor liver enzymes before initiation of and periodically throughout treatment.
-Consider more frequent monitoring of liver enzymes as compared to when the drugs are used in monotherapy.
-For elevated liver enzymes, interrupt KEYTRUDA and axitinib, and consider administering corticosteroids as needed [see Dosage and Administration (2.14)].
+Consider more frequent monitoring of liver enzymes as compared to when the drugs are administered as single agents.
+For elevated liver enzymes, interrupt KEYTRUDA and axitinib and consider administering corticosteroids as needed [see Dosage and Administration (2.14)].
 
 With the combination of KEYTRUDA and axitinib, Grades 3 and 4 increased ALT (20%) and increased AST (13%) were seen.
 The median time to onset of increased ALT was 2.3 months (range: 7 days to 19.8 months).
 Sixty-one percent of the patients with increased ALT received systemic corticosteroids.
 In patients with ALT ≥3 times ULN (Grades 2-4, n=116), ALT resolved to Grades 0-1 in 94%.
-Among the 92 patients who were rechallenged with either KEYTRUDA (3%) or axitinib (31%) monotherapy or with both (50%), 55% had no recurrence of ALT >3 times ULN.
+Among the 92 patients who were rechallenged with either KEYTRUDA (3%) or axitinib (31%) administered as a single agent or with both (50%), 55% had no recurrence of ALT >3 times ULN.
 
 ## 5.4 Immune-Mediated Endocrinopathies
 
@@ -91,8 +100,7 @@ Hypothyroidism occurred in 237 (8.5%) of 2799 patients receiving KEYTRUDA, inclu
 The median time to onset was 3.5 months (range: 1 day to 18.9 months), and the median duration was not reached (range: 2 days to 27.7+ months).
 Hypothyroidism led to discontinuation of KEYTRUDA in 1 (<0.1%) patient.
 Hypothyroidism resolved in 48 (20%) of the 237 patients.
-The incidence of new or worsening hypothyroidism was higher in patients with HNSCC occurring in 28 (15%) of 192 patients receiving KEYTRUDA, including Grade 3 (0.5%) hypothyroidism.
-Of these 28 patients, 15 had no prior history of hypothyroidism.
+The incidence of new or worsening hypothyroidism was higher in 1185 patients with HNSCC (16%) receiving KEYTRUDA as a single agent or in combination with platinum and FU, including Grade 3 (0.3%) hypothyroidism.
 
 Thyroiditis occurred in 16 (0.6%) of 2799 patients receiving KEYTRUDA, including Grade 2 (0.3%) thyroiditis.
 The median time of onset was 1.2 months (range: 0.5 to 3.5 months).

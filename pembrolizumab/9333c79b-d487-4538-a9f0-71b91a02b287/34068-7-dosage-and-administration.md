@@ -1,10 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for NSCLC, Urothelial Carcinoma, Gastric Cancer, or Cervical Cancer
+## 2.1 Patient Selection for NSCLC, HNSCC, Urothelial Carcinoma, Gastric Cancer, or Cervical Cancer
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
-- stage III NSCLC, who are not candidates for surgical resection or definitive chemoradiation, or metastatic NSCLC [see Clinical Studies (14.2)].
+- stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.2)].
+- metastatic NSCLC [see Clinical Studies (14.2)].
+- first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.3)].
 - metastatic urothelial carcinoma [see Clinical Studies (14.6)].
 - metastatic gastric cancer [see Clinical Studies (14.8)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
@@ -28,6 +30,9 @@ Refer to the Prescribing Information for the chemotherapy agents administered in
 ## 2.4 Recommended Dosage for HNSCC
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+When administering KEYTRUDA in combination with chemotherapy, administer KEYTRUDA prior to chemotherapy when given on the same day.
+Refer to the Prescribing Information for the chemotherapy agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate.
 
 ## 2.5 Recommended Dosage for cHL
 
@@ -73,7 +78,7 @@ The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maxim
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks in combination with 5 mg axitinib orally twice daily until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months in patients without disease progression.
 When axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer.
-See also the Prescribing Information for recommended axitinib dosing information [see Clinical Studies (14.12)].
+See also the Prescribing Information for recommended axitinib dosing information.
 
 ## 2.14 Dose Modifications
 

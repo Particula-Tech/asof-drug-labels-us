@@ -12,17 +12,21 @@ KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated
 
 KEYTRUDA, in combination with carboplatin and either paclitaxel or paclitaxel protein-bound, is indicated for the first-line treatment of patients with metastatic squamous NSCLC.
 
-KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with stage III NSCLC, who are not candidates for surgical resection or definitive chemoradiation, or metastatic NSCLC, and whose tumors express PD-L1 [Tumor Proportion Score (TPS) ≥1%] as determined by an FDA-approved test, with no EGFR or ALK genomic tumor aberrations [see Dosage and Administration (2.1)].
+KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with NSCLC, expressing PD-L1 [Tumor Proportion Score (TPS) ≥1%] as determined by an FDA-approved test [see Dosage and Administration (2.1)], with no EGFR or ALK genomic tumor aberrations, and is:
+
+- stage III where patients are not candidates for surgical resection or definitive chemoradiation, or
+- metastatic.
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after platinum-containing chemotherapy.
 Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA.
 
 ## 1.3 Head and Neck Squamous Cell Cancer
 
-KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) with disease progression on or after platinum-containing chemotherapy.
+KEYTRUDA, in combination with platinum and fluorouracil (FU), is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent head and neck squamous cell carcinoma (HNSCC).
 
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.3)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+KEYTRUDA, as a single agent, is indicated for the first line treatment of patients with metastatic or with unresectable, recurrent HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+
+KEYTRUDA, as a single agent, is indicated for the treatment of patients with recurrent or metastatic HNSCC with disease progression on or after platinum-containing chemotherapy.
 
 ## 1.4 Classical Hodgkin Lymphoma
 
@@ -42,7 +46,7 @@ Limitations of Use: KEYTRUDA is not recommended for treatment of patients with P
 
 ## 1.6 Urothelial Carcinoma
 
-KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy and whose tumors express PD-L1 [Combined Positive Score (CPS) ≥10] as determined by an FDA-approved test [see Dosage and Administration (2.1)], or in patients who are not eligible for any platinum-containing chemotherapy regardless of PD-L1 status.
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy and whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)], or in patients who are not eligible for any platinum-containing chemotherapy regardless of PD-L1 status.
 
 This indication is approved under accelerated approval based on tumor response rate and duration of response [see Clinical Studies (14.6)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
@@ -63,7 +67,7 @@ Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patien
 
 ## 1.8 Gastric Cancer
 
-KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after two or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy and if appropriate, HER2/neu-targeted therapy.
+KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after two or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy and if appropriate, HER2/neu-targeted therapy.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.8)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
@@ -91,4 +95,4 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.12 Renal Cell Carcinoma
 
-KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC) [see Clinical Studies (14.12)].
+KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC).
