@@ -13,9 +13,9 @@ Median weight was 80 kg (39-120 kg).
 Twenty-three percent of patients were treated with heparin within one hour prior to randomization.
 
 The studies did not demonstrate that Angiomax was statistically superior to heparin for reducing the risk of death, MI, abrupt closure of the dilated vessel, or clinical deterioration requiring revascularization or placement of an aortic balloon pump, but the occurrence of these events was similar in both treatment groups.
-Study outcomes are shown in Table 2.
+Study outcomes are shown in Table 3.
 
-1. Table 2: Incidences of In-hospital Endpoints in BAT Trial
+Table 3: Incidences of In-hospital Endpoints in BAT Trial
 
 | Endpoint | ANGIOMAX (n=2161) | HEPARIN (n=2151) |
 | --- | --- | --- |

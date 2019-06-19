@@ -4,7 +4,7 @@ Advise patients to watch carefully for any signs of bleeding or bruising and to 
 
 Marketed by:
 
-Sandoz Inc.,
+Sandoz Inc.
 
 Princeton, NJ 08540
 

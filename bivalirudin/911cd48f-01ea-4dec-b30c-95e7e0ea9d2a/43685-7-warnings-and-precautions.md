@@ -7,7 +7,7 @@ An unexplained fall in blood pressure or hematocrit should lead to serious consi
 Monitor patients receiving Angiomax for signs and symptoms of bleeding.
 Monitor patients with disease states associated with an increased risk of bleeding more frequently for bleeding.
 
-## 5.2 Acute Stent Thrombosis in Patients with STEMI undergoing PCI
+## 5.2 Acute Stent Thrombosis in Patients with STEMI Undergoing PCI
 
 Acute stent thrombosis (AST) (<4 hours) has been observed at a greater frequency in Angiomax treated patients (1.2%, 36/2889) compared to heparin treated patients (0.2%, 6/2911) with STEMI undergoing primary PCI.
 Among patients who experienced an AST, one fatality (0.03%) occurred in an Angiomax treated patient and one fatality (0.03%) in a heparin treated patient.

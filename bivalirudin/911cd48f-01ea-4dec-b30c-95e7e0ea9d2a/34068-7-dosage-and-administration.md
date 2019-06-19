@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose
+## 2.1 Recommended Dosage
 
 Angiomax has been studied only in patients receiving concomitant aspirin.
 
@@ -66,9 +66,9 @@ Drug Compatibilities
 
 No incompatibilities have been observed with administration sets.
 
-Do not administer the drugs listed in Table 1 in the same intravenous line with Angiomax.
+Do not administer the drugs listed in Table 2 in the same intravenous line with Angiomax.
 
-| Table 1. Drugs Not for Administration in the Same Intravenous Line with Angiomax |
+| Table 2: Drugs Not for Administration in the Same Intravenous Line with Angiomax |
 | --- |
 | Alteplase |
 | Amiodarone HCl |

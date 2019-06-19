@@ -43,15 +43,15 @@ demonstrated clinical evidence of allergic or anaphylactic reactions and repeat 
 performed.
 Nine additional patients who had initial positive tests were negative on repeat testing.
 
-## 6.3 Post-marketing Experience
+## 6.3 Postmarketing Experience
 
-Because post-marketing adverse reactions are reported voluntarily from a population of uncertain
+Because postmarketing adverse reactions are reported voluntarily from a population of uncertain
 
 size, it is not always possible to reliably estimate their frequency or establish a causal relationship
 
 to drug exposure.
 
-The following adverse reactions have been identified during postapproval use of Angiomax: fatal
+The following adverse reactions have been identified during post approval use of Angiomax: fatal
 
 bleeding; hypersensitivity and allergic reactions including reports of anaphylaxis; lack of
 
