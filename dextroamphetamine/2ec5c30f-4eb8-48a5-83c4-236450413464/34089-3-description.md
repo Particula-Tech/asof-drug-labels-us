@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 Dextroamphetamine sulfate is the dextro isomer of the compound d,l-amphetamine sulfate, a sympathomimetic amine of the amphetamine group.
 Chemically, dextroamphetamine is d-alpha-methylphenethylamine, and is present in all forms of dextroamphetamine sulfate as the neutral sulfate.
@@ -6,7 +6,7 @@ Chemically, dextroamphetamine is d-alpha-methylphenethylamine, and is present in
 Structural formula:
 
 Each extended-release capsule is so prepared that an initial dose is released promptly and the remaining medication is released gradually over a prolonged period.
-Each capsule, with brown cap and natural body, contains dextroamphetamine sulfate.
+Each capsule, with brown cap and natural body, contains 5 mg, 10 mg or 15 mg dextroamphetamine sulfate.
 The 5 mg capsule is imprinted in white with IX and 5 mg on the brown cap and is imprinted in white with 673 and 5 mg on the natural body.
 The 10 mg capsule is imprinted in white with IX and 10 mg on the brown cap and is imprinted in white with 674 and 10 mg on the natural body.
 The 15 mg capsule is imprinted in white with IX and 15 mg on the brown cap and is imprinted in white with 675 and 15 mg on the natural body.
