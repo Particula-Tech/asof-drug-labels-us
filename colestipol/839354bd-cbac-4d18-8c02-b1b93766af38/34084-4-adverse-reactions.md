@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## Gastrointestinal
+Gastrointestinal
 
 The most common adverse reactions are confined to the gastrointestinal tract.
 To achieve minimal GI disturbance with an optimal LDL-cholesterol lowering effect, a gradual increase of dosage starting with one dose/day is recommended.
@@ -18,24 +18,26 @@ Transient and modest elevations of aspartate aminotransferase (AST, SGOT), alani
 
 The following non-gastrointestinal adverse reactions have been reported with generally equal frequency in patients receiving colestipol hydrochloride for oral suspension or placebo in clinical studies:
 
-## Cardiovascular
+Cardiovascular
 
 Chest pain, angina, and tachycardia have been infrequently reported.
 
-## Hypersensitivity
+Hypersensitivity
 
 Rash has been infrequently reported.
 Urticaria and dermatitis have been rarely noted in patients receiving colestipol hydrochloride for oral suspension.
 
-## Musculoskeletal
+Musculoskeletal
 
 Musculoskeletal pain, aches and pains in the extremities, joint pains, arthritis, and backache have been reported.
 
-## Neurologic
+Neurologic
 
 Headache, migraine headache and sinus headache have been reported.
 Other infrequently reported complaints include dizziness, light-headedness, and insomnia.
 
-## Miscellaneous
+Miscellaneous
 
 Anorexia, fatigue, weakness, shortness of breath, and swelling of the hands or feet, have been infrequently reported.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

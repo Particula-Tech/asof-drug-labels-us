@@ -1,12 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 30 Packet Carton
 
-Impax Generics
+Amneal Pharmaceuticals LLC
 
 NDC 0115-5212-18
 
-Colestipol HCl for Oral Suspension, USP
-
-5 grams per packet
+Colestipol HCl for Oral Suspension, USP 5 grams per packet
 
 Rx only
 
@@ -16,7 +14,7 @@ Must be mixed with a liquid.
 
 # PRINCIPAL DISPLAY PANEL - 500 gram Bottle
 
-Impax Generics
+Amneal Pharmaceuticals LLC
 
 NDC 0115-5213-02
 

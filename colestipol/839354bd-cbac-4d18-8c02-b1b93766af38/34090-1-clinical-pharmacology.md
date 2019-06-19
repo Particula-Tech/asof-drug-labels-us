@@ -25,9 +25,9 @@ The decline in serum cholesterol levels with colestipol hydrochloride treatment 
 When colestipol hydrochloride is discontinued, serum cholesterol levels usually return to baseline levels within one month.
 Periodic determinations of serum cholesterol levels as outlined in the National Cholesterol Education Program (NCEP) guidelines should be done to confirm a favorable initial and long-term response1.
 
-In a large, placebo-controlled, multiclinic study, the LRC-CPPT,2 hypercholesterolemic subjects treated with cholestyramine, a bile-acid sequestrant with a mechanism of action and an effect on serum cholesterol similar to that of colestipol hydrochloride, had reductions in total and low-density lipoprotein cholesterol (LDL-C).
+In a large, placebo-controlled, multiclinic study, the LRC-CPPT2, hypercholesterolemic subjects treated with cholestyramine, a bile-acid sequestrant with a mechanism of action and an effect on serum cholesterol similar to that of colestipol hydrochloride, had reductions in total and low-density lipoprotein cholesterol (LDL-C).
 Over the seven-year study period the cholestyramine group experienced a 19% reduction (relative to the incidence in the placebo group) in the combined rate of coronary heart disease death plus non-fatal myocardial infarction (cumulative incidences of 7% cholestyramine and 8.6%, placebo).
-The subjects included in the study were middle-aged men (age 35-59) with serum cholesterol-levels above 265 mg/dL, LDL-C above 175 mg/dL on a moderate cholesterol-lowering diet, and no history of heart disease.
+The subjects included in the study were middle-aged men (age 35 to 59) with serum cholesterol-levels above 265 mg/dL, LDL-C above 175 mg/dL on a moderate cholesterol-lowering diet, and no history of heart disease.
 It is not clear to what extent these findings can be extrapolated to other segments of the hypercholesterolemic population not studied.
 
 Treatment with colestipol hydrochloride results in a significant increase in lipoprotein LpAI.
@@ -36,10 +36,10 @@ Although the significance of this finding has not been established in clinical s
 
 In patients with heterozygous familial hypercholesterolemia who have not obtained an optimal response to colestipol hydrochloride alone in maximal doses, the combination of colestipol hydrochloride and nicotinic acid has been shown to further lower serum cholesterol, triglyceride, and LDL cholesterol (LDL-C) values.
 Simultaneously, HDL cholesterol (HDL-C) values increased significantly.
-In many such patients it is possible to normalize serum lipid values.5-7
+In many such patients it is possible to normalize serum lipid values5-7.
 
 Preliminary evidence suggests that the cholesterol-lowering effects of lovastatin and the bile acid sequestrant, colestipol hydrochloride, are additive.
 
 The effect of intensive lipid-lowering therapy on coronary atherosclerosis has been assessed by arteriography in hyperlipidemic patients.
 In these randomized, controlled clinical trials, patients were treated for two to four years by either conventional measures (diet, placebo, or in some cases low-dose resin), or with intensive combination therapy using diet and colestipol hydrochloride for oral suspension plus either nicotinic acid or lovastatin.
-When compared to conventional measures, intensive lipid-lowering combination therapy significantly reduced the frequency of progression and increased the frequency of regression of coronary atherosclerotic lesions in patients with or at risk for coronary artery disease.8-11
+When compared to conventional measures, intensive lipid-lowering combination therapy significantly reduced the frequency of progression and increased the frequency of regression of coronary atherosclerotic lesions in patients with or at risk for coronary artery disease8-11.

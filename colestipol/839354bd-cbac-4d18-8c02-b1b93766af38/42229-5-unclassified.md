@@ -1,6 +1,2 @@
-Rx only
-
-Dist. by: Impax Generics Hayward, CA 94544
-
-537-04 Rev.
-10/2015
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev.
+09-2018-00
