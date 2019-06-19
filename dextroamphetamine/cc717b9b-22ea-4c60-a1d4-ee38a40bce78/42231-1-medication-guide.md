@@ -1,8 +1,6 @@
 # MEDICATION GUIDE
 
-DEXEDRINE® (dextroamphetamine sulfate) SPANSULE® sustained release capsules
-
-Read the Medication Guide that comes with DEXEDRINE before you or your child starts taking it and each time you get a refill.
+DEXEDRINE® (dextroamphetamine sulfate) SPANSULE® sustained-release capsules, CII Read the Medication Guide that comes with DEXEDRINE before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with DEXEDRINE.
 
@@ -43,7 +41,7 @@ Tell your doctor if you or your child is pregnant, planning to become pregnant, 
 
 Can DEXEDRINE be taken with other medicines?
 
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all of the medicines that you or your child take including prescription and non-prescription medicines, vitamins, and herbal supplements.
 DEXEDRINE and some medicines may interact with each other and cause serious side effects.
 Sometimes the doses of other medicines will need to be adjusted while taking DEXEDRINE.
 
@@ -67,13 +65,13 @@ How should DEXEDRINE be taken?
   Your doctor may adjust the dose until it is right for you or your child.
 - DEXEDRINE comes as a capsule.
 - DEXEDRINE SPANSULE capsules are usually taken once a day in the morning.
-  DEXEDRINE SPANSULE is an extended release capsule.
+  DEXEDRINE SPANSULE is an extended-release capsule.
   It releases medicine into your body throughout the day.
 - From time to time, your doctor may stop treatment with DEXEDRINE for a while to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking DEXEDRINE.
   Children should have their height and weight checked often while taking DEXEDRINE.
   Treatment with DEXEDRINE may be stopped if a problem is found during these check-ups.
-- If you or your child takes too much DEXEDRINE or overdoses, call your doctor or poison control center right away, or get emergency treatment
+- If you or your child takes too much DEXEDRINE or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 What are possible side effects of DEXEDRINE?
 
@@ -120,7 +118,7 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about DEXEDRINE.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about DEXEDRINE that was written for healthcare professionals.
-For more information about DEXEDRINE, please contact Impax Laboratories, Inc. at 1-877-994-6729 or visit www.impaxlabs.com.
+For more information about DEXEDRINE, please contact Amneal Pharmaceuticals at 1-877-835-5472 or visit www.amneal.com.
 
 What are the ingredients in DEXEDRINE?
 
@@ -132,11 +130,5 @@ SPANSULE Capsules: Cetyl alcohol, D&C Yellow No. 10, dibutyl sebacate, ethylcell
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manf. by: Catalent Pharma Solutions Winchester, KY 40391 Dist. by: Impax Specialty Pharma Hayward, CA 94544
-
-1917-01
-
-Rev.
-February, 2018
-
-For additional copies of the printed patient information/medication guide, please visit www.impaxlabs.com or contact us at 1-877-994-6729.
+Manufactured by: Catalent Pharma Solutions Winchester, KY 40391 Distributed by: Amneal Specialty, a division of Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev.
+03-2019-00 For additional copies of the printed medication guide, please visit www.amneal.com or contact us at 1-877-835-5472.

@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Amphetamines are noncatecholamine, sympathomimetic amines with CNS stimulant activity.
 Peripheral actions include elevations of systolic and diastolic blood pressures and weak bronchodilator and respiratory stimulant action.
@@ -6,12 +6,13 @@ There is neither specific evidence that clearly establishes the mechanism whereb
 DEXEDRINE SPANSULE Capsules are formulated to release the active drug substance in vivo in a more gradual fashion than the standard formulation, as demonstrated by blood levels.
 The formulation has not been shown superior in effectiveness over the same dosage of the standard, noncontrolled-release formulations given in divided doses.
 
-## Pharmacokinetics:
+## Pharmacokinetics
 
 The pharmacokinetics of the tablet and sustained-release capsule were compared in 12 healthy subjects.
 The extent of bioavailability of the sustained-release capsule was similar compared to the immediate-release tablet.
 Following administration of three 5-mg tablets, average maximal dextroamphetamine plasma concentrations (Cmax) of 36.6 ng/mL were achieved at approximately 3 hours.
+
 Following administration of one 15-mg sustained-release capsule, maximal dextroamphetamine plasma concentrations were obtained approximately 8 hours after dosing.
 The average Cmax was 23.5 ng/mL.
 The average plasma T½ was similar for both the tablet and sustained-release capsule and was approximately 12 hours.
-In 12 healthy subjects, the rate and extent of dextroamphetamine absorption were similar following administration of the sustained-release capsule formulation in the fed (58 to 75 gm fat) and fasted state.
+In 12 healthy subjects, the rate and extent of dextroamphetamine absorption were similar following administration of the sustained-release capsule formulation in the fed (58 g to 75 g fat) and fasted state.

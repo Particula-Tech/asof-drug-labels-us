@@ -1,11 +1,11 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 DEXEDRINE (dextroamphetamine sulfate) is the dextro isomer of the compound d,l-amphetamine sulfate, a sympathomimetic amine of the amphetamine group.
 Chemically, dextroamphetamine is d-alpha-methylphenethylamine, and is present in all forms of DEXEDRINE as the neutral sulfate.
 
 Structural formula:
 
-SPANSULE capsules: Each SPANSULE sustained-release capsule is so prepared that an initial dose is released promptly and the remaining medication is released gradually over a prolonged period.
+SPANSULE capsules Each SPANSULE sustained-release capsule is so prepared that an initial dose is released promptly and the remaining medication is released gradually over a prolonged period.
 
 Each capsule, with brown cap and natural body, contains dextroamphetamine sulfate.
 The 5-mg capsule is imprinted in white with IX and 5 mg on the brown cap and is imprinted in white with 673 and 5 mg on the natural body.

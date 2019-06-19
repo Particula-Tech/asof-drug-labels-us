@@ -1,10 +1,10 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
 DEXEDRINE is indicated in:
 
-## Narcolepsy
+Narcolepsy
 
-## Attention Deficit Disorder with Hyperactivity
+Attention Deficit Disorder with Hyperactivity
 
 As an integral part of a total treatment program that typically includes other measures (psychological, educational, social) for patients (ages 6 years to 16 years) with this syndrome.
 A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD; DSM-IV) implies the presence of the hyperactive-impulsive or inattentive symptoms that caused impairment and were present before age 7 years.
@@ -14,14 +14,14 @@ For the Inattentive Type, at least 6 of the following symptoms must have persist
 For the Hyperactive-Impulsive Type, at least 6 of the following symptoms must have persisted for at least 6 months: fidgeting/squirming; leaving seat; inappropriate running/climbing; difficulty with quiet activities; “on the go”; excessive talking; blurting answers; can't wait turn; intrusive.
 The Combined Type requires both inattentive and hyperactive-impulsive criteria to be met.
 
-### Special Diagnostic Considerations
+Special Diagnostic Considerations
 
 Specific etiology of this syndrome is unknown, and there is no single diagnostic test.
 Adequate diagnosis requires the use of medical and special psychological, educational, and social resources.
 Learning may or may not be impaired.
 The diagnosis must be based upon a complete history and evaluation of the patient and not solely on the presences of the required number of DSM-IV characteristics.
 
-### Need for Comprehensive Treatment Program
+Need for Comprehensive Treatment Program
 
 DEXEDRINE is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, social) for patients with this syndrome.
 Drug treatment may not be indicated for all patients with this syndrome.
