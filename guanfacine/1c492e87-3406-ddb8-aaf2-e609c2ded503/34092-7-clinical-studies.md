@@ -2,7 +2,7 @@
 
 Efficacy of guanfacine in the treatment of ADHD was established in children and adolescents (6 to 17 years) in:
 
-- Five short-term, placebo-controlled monotherapy trials (Studies 1, 2, 4, 5 and 6)
+- Five short-term, placebo-controlled monotherapy trials (Studies 1, 2, 4, 5 and 6).
 - One short-term, placebo-controlled adjunctive trial with psychostimulants (Study 3).
 - One long-term, placebo-controlled monotherapy maintenance trial (Study 7).
 

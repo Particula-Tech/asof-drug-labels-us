@@ -35,7 +35,7 @@ Guanfacine Extended-Release Tablets
 | --- | --- |
 | Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Apotex Corp. Weston, Florida USA 33326 |
 
-Revised: April 2018
+Revised: May 2019
 
 Rev.
-7
+8

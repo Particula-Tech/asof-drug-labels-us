@@ -166,7 +166,7 @@ Guanfacine Extended-Release Tablets
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: April 2018
+Revised: May 2019
 
 Rev.
-7
+8

@@ -56,8 +56,12 @@ Following administration of guanfacine extended-release tablets in single doses 
 Metabolism and Elimination
 
 In vitro studies with human liver microsomes and recombinant CYP’s demonstrated that guanfacine was primarily metabolized by CYP3A4.
-In pooled human hepatic microsomes, guanfacine did not inhibit the activities of the major cytochrome P450 isoenzymes (CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5).
+In pooled human hepatic microsomes, guanfacine did not inhibit the activities of the major cytochrome P450 isoenzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5); guanfacine is also not an inducer of CYP3A, CYP1A2 and CYP2B6.
 Guanfacine is a substrate of CYP3A4/5 and exposure is affected by CYP3A4/5 inducers/inhibitors.
+
+Guanfacine inhibits MATE1 and OCT1, but does not inhibit BSEP, MRP2, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, or MATE2K.
+Guanfacine is a substrate of OCT1 and OCT2, but not BCRP, OATP1B1, OATP1B3, OAT1, OAT3, MATE1, or MATE2.
+Concomitant administration of guanfacine with OCT1 substrates might potentially increase the exposure of these OCT1 substrates.
 
 Studies in Specific Populations
 

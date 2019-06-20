@@ -11,9 +11,8 @@ Do not administer with high fat meals, due to increased exposure.
 Take guanfacine extended-release tablets orally once daily, either in the morning or evening, at approximately the same time each day.
 Begin at a dose of 1 mg/day, and adjust in increments of no more than 1 mg/week.
 
-In monotherapy-clinical trials, there was dose- and exposure-related clinical improvement as well as risks for several clinically significant adverse reactions (hypotension, bradycardia, sedative events).
-To balance the exposure-related potential benefits and risks, the recommended target dose range depending on clinical response and tolerability for guanfacine is 0.05 to 0.12 mg/kg/day (total daily dose between 1 to 7 mg).
-(see Table 1)
+In monotherapy clinical trials, there was dose- and exposure-related clinical improvement as well as risks for several clinically significant adverse reactions (hypotension, bradycardia, sedative events).
+To balance the exposure-related potential benefits and risks, the recommended target dose range depending on clinical response and tolerability for guanfacine is 0.05 to 0.12 mg/kg/day (total daily dose between 1 to 7 mg) (see Table 1).
 
 | Table 1: Recommended Target Dose Range for Therapy with Guanfacine Extended-Release Tablets |  |
 | --- | --- |
