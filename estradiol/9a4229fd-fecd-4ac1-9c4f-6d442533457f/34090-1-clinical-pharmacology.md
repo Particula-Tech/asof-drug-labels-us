@@ -62,7 +62,7 @@ Table 1: RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHI adapted f
 
 | Absolute Risk per 10,000 Person-years |  |  |  |
 | --- | --- | --- | --- |
-| Event a subset of the events was combined in a "global index," defined as the earliest occurrence of CHD | Relative Risk CE/MPA vs placebo at 5.2 Years (95% CInominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPA n = 8506 |
+| Event a subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes | Relative Risk CE/MPA vs placebo at 5.2 Years (95% CInominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPA n = 8506 |
 | CHD events | 1.29 (1.02–1.63) | 30 | 37 |
 | Non-fatal MI | 1.32 (1.02–1.72) | 23 | 30 |
 | CHD death | 1.18 (0.70–1.97) | 6 | 7 |

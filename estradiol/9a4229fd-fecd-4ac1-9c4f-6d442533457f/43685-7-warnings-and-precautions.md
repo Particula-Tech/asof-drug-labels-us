@@ -103,6 +103,10 @@ Retinal vascular thrombosis has been reported in patients receiving estrogens.
 Discontinue medication pending examination if there is sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia, or migraine.
 If examination reveals papilledema or retinal vascular lesions, estrogens should be permanently discontinued.
 
+## 7. Hereditary angioedema
+
+In women with hereditary angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema.
+
 # PRECAUTIONS
 
 ## A. General
