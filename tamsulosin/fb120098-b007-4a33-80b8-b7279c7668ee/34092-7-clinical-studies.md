@@ -11,27 +11,21 @@ Mean changes from baseline to Week 13 in total AUA Symptom Score were significan
 The changes from baseline to Week 13 in peak urine flow rate were also significantly greater for the tamsulosin hydrochloride capsules 0.4 mg and 0.8 mg once-daily groups compared to placebo in Study 1, and for the tamsulosin hydrochloride capsules 0.8 mg once-daily group in Study 2 (Table 3, Figures 3A and 3B).
 Overall there were no significant differences in improvement observed in total AUA Symptom Scores or peak urine flow rates between the 0.4 mg and the 0.8 mg dose groups with the exception that the 0.8 mg dose in Study 1 had a significantly greater improvement in total AUA Symptom Score compared to the 0.4 mg dose.
 
-- Table 3 Mean (±S.D.)
-  Changes from Baseline to Week 13 in Total AUA Symptom Score** and Peak Urine Flow Rate (mL/sec)
+1. Table 3 Mean (±S.D.)
+   Changes from Baseline to Week 13 in Total AUA Symptom Score** and Peak Urine Flow Rate (mL/sec)
 
 |  | Total AUA Symptom Score |  | Peak Urine Flow Rate |  |
 | --- | --- | --- | --- | --- |
 |  | Mean Baseline Value | Mean Change | Mean Baseline Value | MeanChange |
-| Study 1† |  |  |  |  |
-| Tamsulosin hydrochloride capsules 0.8 mg once daily | 19.9 ± 4.9 n=247 | -9.6* ± 6.7 n=237 | 9.57 ± 2.51 n=247 | 1.78* ± 3.35 n=247 |
-| Tamsulosin hydrochloride capsules 0.4 mg once daily | 19.8 ± 5n=254 | -8.3* ± 6.5 n=246 | 9.46 ± 2.49 n=254 | 1.75* ± 3.57 n=254 |
+| Study 1Peak urine flow rate measured 4 to 8 hours post dose at Week 13.† |  |  |  |  |
+| Tamsulosin hydrochloride capsules 0.8 mg once daily | 19.9 ± 4.9 n=247 | -9.6Statistically significant difference from placebo (p-value ≤0.050; Bonferroni-Holm multiple test procedure). ± 6.7 n=237 | 9.57 ± 2.51 n=247 | 1.78 ± 3.35 n=247 |
+| Tamsulosin hydrochloride capsules 0.4 mg once daily | 19.8 ± 5n=254 | -8.3 ± 6.5 n=246 | 9.46 ± 2.49 n=254 | 1.75 ± 3.57 n=254 |
 | Placebo | 19.6 ± 4.9 n=254 | -5.5 ± 6.6 n=246 | 9.75 ± 2.54 n=254 | 0.52 ± 3.39 n=253 |
-| Study 2‡ |  |  |  |  |
-| Tamsulosin hydrochloride capsules 0.8 mg once daily | 18.2 ± 5.6 n=244 | -5.8* ± 6.4 n=238 | 9.96 ± 3.16 n=244 | 1.79* ± 3.36 n=237 |
-| Tamsulosin hydrochloride capsules 0.4 mg once daily | 17.9 ± 5.8 n=248 | -5.1* ± 6.4 n=244 | 9.94 ± 3.14 n=248 | 1.52 ± 3.64 n=244 |
+| Study 2Peak urine flow rate measured 24 to 27 hours post dose at Week 13. |  |  |  |  |
+| Tamsulosin hydrochloride capsules 0.8 mg once daily | 18.2 ± 5.6 n=244 | -5.8 ± 6.4 n=238 | 9.96 ± 3.16 n=244 | 1.79 ± 3.36 n=237 |
+| Tamsulosin hydrochloride capsules 0.4 mg once daily | 17.9 ± 5.8 n=248 | -5.1 ± 6.4 n=244 | 9.94 ± 3.14 n=248 | 1.52 ± 3.64 n=244 |
 | Placebo | 19.2 ± 6 n=239 | -3.6 ± 5.7 n=235 | 9.95 ± 3.12 n=239 | 0.93 ± 3.28 n=235 |
 | ** Total AUA Symptom Scores ranged from 0 to 35. |  |  |  |  |
-
-* Statistically significant difference from placebo (p-value ≤0.050; Bonferroni-Holm multiple test procedure).
-
-† Peak urine flow rate measure 4 to 8 hours psot dose at Week 13.
-
-‡ Peak urine flow rate measured 24 to 27 hours post dose at Week 13.
 
 Week 13: For patients not completing the 13-week study, the last observation was carried forward.
 
@@ -59,7 +53,7 @@ LOCF = Last observation carried forward for patients not completing the 13-week 
 Note: Patients in the 0.8 mg treatment group received 0.4 mg for the first week.
 Note: Total AUA Symptom Scores range from 0 to 35.
 
-Figure 3A Mean Increase in Peak Urine Flow Rate (mL/sec) Study 1
+Figure 3A Mean Increase in Peak Urine Flow Rate (mL/Sec) Study 1
 
 * indicates significant difference from placebo (p-value ≤0.050).
 B = Baseline determined approximately one week prior to the initial dose of double-blind medication at Week 0.
@@ -69,7 +63,7 @@ Note: The uroflowmetry assessments at Week 0 were recorded 4 to 8 hours after pa
 Measurements at each visit were scheduled 4 to 8 hours after dosing (approximate peak plasma tamsulosin concentration).
 Note: Patients in the 0.8 mg treatment groups received 0.4 mg for the first week.
 
-Figure 3B Mean Increase in Peak Urine Flow Rate (mL/sec) Study 2
+Figure 3B Mean Increase in Peak Urine Flow Rate (mL/Sec) Study 2
 
 * indicates significant difference from placebo (p-value ≤0.050).
 Baseline measurement was taken Week 0.

@@ -6,8 +6,6 @@ Tamsulosin Hydrochloride Capsules, USP
 
 0.4 mg
 
-PHARMACIST: PLEASE DISPENSE WITH PATIENT INFORMATION LEAFLET
-
 Rx only
 
 100 Capsules

@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-TamsulosinHydrochloride Capsules, USP
+Tamsulosin Hydrochloride Capsules, USP
 
 (tam-soo-LOE-sin)
 
@@ -106,11 +106,11 @@ Tamsulosin hydrochloride capsules may cause a sudden drop in blood pressure upon
 See "What are the possible side effects of tamsulosin hydrochloride capsules?"
 
 How do I store tamsulosin hydrochloride capsules?
-Store tamsulosin hydrochloride capsules at 68°F (20°C) to 77°F (25°C).
+Store tamsulosin hydrochloride capsules at room temperature 68°F (20°C) to 77°F (25°C).
 Short-term exposure to higher or lower temperatures [from 59°F (15°C) to 86°F (30°C)] is acceptable.
 Ask your doctor or pharmacist if you have any questions about storing your capsules.
 
-Keep tamsulosin hydrochloride capsules, USP and all medicines out of the reach of children.
+Keep tamsulosin hydrochloride capsules and all medicines out of the reach of children.
 
 General information
 
@@ -128,7 +128,7 @@ Therefore, ask your doctor about screening for prostate cancer prior to treatmen
 This patient information leaflet summarizes the most important information about tamsulosin hydrochloride.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about tamsulosin hydrochloride that is written for health professionals.
-For more information call Sandoz Inc. at 1-800-525-8747.
+For current prescribing information call Sandoz Inc. at 1-800-525-8747.
 
 What are the ingredients in tamsulosin hydrochloride capsules?
 
@@ -141,4 +141,4 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-Revised: December 2015
+Revised: February 2019

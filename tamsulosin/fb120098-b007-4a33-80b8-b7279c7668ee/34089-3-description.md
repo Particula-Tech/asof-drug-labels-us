@@ -10,8 +10,7 @@ The molecular formula of tamsulosin hydrochloride is C20H28N2O5S • HCl.
 The molecular weight of tamsulosin hydrochloride is 444.98.
 Its structural formula is:
 
-Each tamsulosin hydrochloride capsule, USP for oral administration contains tamsulosin hydrochloride 0.4 mg.
-In addition each capsule contains the following inactive ingredients: colloidal silicon dioxide, methacrylic acid copolymer, microcrystalline cellulose, polyacrylate dispersion, polysorbate 80, sodium lauryl sulfate and talc.
+Each tamsulosin hydrochloride capsule, USP for oral administration contains tamsulosin hydrochloride 0.4 mg, and the following inactive ingredients: colloidal silicon dioxide, methacrylic acid copolymer, microcrystalline cellulose, polyacrylate dispersion, polysorbate 80, sodium lauryl sulfate and talc.
 
 The capsule shell consists of FD&C Blue # 2, gelatin, iron oxide red, iron oxide yellow and titanium dioxide.
 

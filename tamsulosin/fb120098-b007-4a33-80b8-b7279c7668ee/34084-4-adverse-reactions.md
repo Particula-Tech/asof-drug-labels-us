@@ -8,7 +8,7 @@ The incidence of treatment-emergent adverse events has been ascertained from six
 These studies evaluated safety in 1783 patients treated with tamsulosin hydrochloride capsules and 798 patients administered placebo.
 Table 1 summarizes the treatment-emergent adverse events that occurred in ≥2% of patients receiving either tamsulosin hydrochloride capsules 0.4 mg or 0.8 mg and at an incidence numerically higher than that in the placebo group during two 13-week U.S. trials (US92-03A and US93-01) conducted in 1487 men.
 
-- Table 1 Treatment-Emergent* Adverse Events Occurring in ≥2% of Tamsulosin Hydrochloride Capsules or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
+1. Table 1 Treatment-Emergent* Adverse Events Occurring in ≥2% of Tamsulosin Hydrochloride Capsules or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
 
 | BODY SYSTEM/ADVERSE EVENT | TAMSULOSIN HYDROCHLORIDE CAPSULES GROUPS |  | PLACEBO |
 | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ Table 1 summarizes the treatment-emergent adverse events that occurred in ≥2% 
 | Abnormal ejaculation | 42 (8.4%) | 89 (18.1%) | 1 (0.2%) |
 | SPECIAL SENSES |  |  |  |
 | Blurred vision | 1 (0.2%) | 10 (2%) | 2 (0.4%) |
-| * A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: •The adverse even occurred for the first time after initial dosing with double-blind study medication.•The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; or•The adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. |  |  |  |
+| * A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: •The adverse event occurred for the first time after initial dosing with double-blind study medication.•The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; or•The adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. |  |  |  |
 
 Signs and Symptoms of Orthostasis
 
@@ -54,7 +54,7 @@ At 8 hours post-dose, a positive orthostatic test result was observed for 6% of 
 
 In Studies 1 and 2, at least one positive orthostatic test result was observed during the course of these studies for 81 of the 502 patients (16%) in the tamsulosin hydrochloride capsules 0.4 mg once-daily group, 92 of the 491 patients (19%) in the tamsulosin hydrochloride capsules 0.8 mg once-daily group, and 54 of the 493 patients (11%) in the placebo group.
 
-Because orthostasis was detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients, there is a potential risk of syncope [see WARNINGS AND PRECAUTIONS (5.1)].
+Because orthostasis was detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients, there is a potential risk of syncope [see Warnings and Precautions (5.1)].
 
 Abnormal Ejaculation
 
@@ -73,8 +73,8 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to tamsulosin hydrochloride capsules.
 
-Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema and respiratory symptoms have been reported with positive rechallenge in some cases.
+Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema, and respiratory symptoms have been reported with positive rechallenge in some cases.
 Priapism has been reported rarely.
 Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, erythema multiforme, dermatitis exfoliative, constipation, vomiting, dry mouth, visual impairment, and epistaxis have been received during the postmarketing period.
 
-During cataract and glaucoma surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see WARNINGS AND PRECAUTIONS (5.5)].
+During cataract and glaucoma surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see Warnings and Precautions (5.5)].

@@ -5,6 +5,6 @@ It should be administered approximately one-half hour following the same meal ea
 Tamsulosin hydrochloride capsules, USP should not be crushed, chewed or opened.
 
 For those patients who fail to respond to the 0.4 mg dose after 2 to 4 weeks of dosing, the dose of tamsulosin hydrochloride capsules, USP can be increased to 0.8 mg once daily.
-Tamsulosin hydrochloride capsules, USP 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see WARNINGS AND PRECAUTIONS (5.2)].
+Tamsulosin hydrochloride capsules, USP 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2)].
 
-If tamsulosin hydrochloride capsules, USP administration is discontinued or interrupted for several days at either the 0.4 mg or 0.8 mg dose, therapy should be started again with the 0.4 mg once-daily dose.
+If tamsulosin hydrochloride capsules USP administration is discontinued or interrupted for several days at either the 0.4 mg or 0.8 mg dose, therapy should be started again with the 0.4 mg once-daily dose.

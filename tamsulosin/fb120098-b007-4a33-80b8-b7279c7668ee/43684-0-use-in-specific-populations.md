@@ -2,15 +2,42 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects, Pregnancy Category B.
+Risk Summary
 
-Administration of tamsulosin hydrochloride to pregnant female rats at dose levels up to approximately 50 times the human therapeutic AUC exposure (300 mg/kg/day) revealed no evidence of harm to the fetus.
-Administration of tamsulosin hydrochloride to pregnant rabbits at dose levels up to 50 mg/kg/day produced no evidence of fetal harm.
-Tamsulosin hydrochloride capsules are not indicated for use in women.
+Tamsulosin hydrochloride is not indicated for use in women.
+There are no adequate data on the developmental risk associated with the use of tamsulosin hydrochloride in pregnant women.
+No adverse developmental effects were observed in animal studies in which tamsulosin hydrochloride was administered to rats or rabbits during the period of organogenesis (GD 7 to 17 in the rat and GD 6 to 18 in the rabbit) [see Data].
 
-## 8.3 Nursing Mothers
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Tamsulosin hydrochloride capsules are not indicated for use in women.
+Data
+
+Administration of tamsulosin hydrochloride to pregnant female rats during the period of organogenesis at dose levels up to approximately 50 times the human therapeutic AUC exposure (300 mg/kg/day) revealed no evidence of harm to the fetus.
+Administration of tamsulosin hydrochloride to pregnant rabbits during the period of organogenesis at dose levels up to 50 mg/kg/day produced no evidence of fetal harm.
+
+## 8.2 Lactation
+
+Tamsulosin hydrochloride is not indicated for use in women.
+There are no data on the presence of tamsulosin hydrochloride in human milk, the effects of tamsulosin hydrochloride on the breastfed infant, or the effects of tamsulosin hydrochloride on milk production.
+Tamsulosin hydrochloride is present in the milk of lactating rats [see Data].
+
+Data
+
+Oral administration of radiolabeled tamsulosin hydrochloride to rats demonstrated that tamsulosin hydrochloride and/or its metabolites are excreted into the milk of rats.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Males
+
+Abnormal ejaculation including ejaculation failure, ejaculation disorder, retrograde ejaculation, and ejaculation decrease has been associated with tamsulosin hydrochloride [see Clinical Trials Experience (6.1)].
+Studies in rats revealed significantly reduced fertility in males considered to be due to impairment of ejaculation, which was reversible [see Nonclinical Toxicology (13.1)].
+
+Females
+
+Tamsulosin hydrochloride is not indicated for use in women.
+Female fertility in rats was significantly reduced, considered to be due to impairment of fertilization [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -25,14 +52,14 @@ The most frequently reported adverse events (≥5%) from the pooled data of both
 ## 8.5 Geriatric Use
 
 Of the total number of subjects (1783) in clinical studies of tamsulosin, 36% were 65 years of age and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and the other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see CLINICAL PHARMACOLOGY (12.3)].
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and the other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Patients with renal impairment do not require an adjustment in tamsulosin hydrochloride capsules dosing.
-However, patients with end-stage renal disease (CLcr <10 mL/min/1.73 m2) have not been studied [see CLINICAL PHARMACOLOGY(12.3)].
+However, patients with end-stage renal disease (CLcr <10 mL/min/1.73 m2) have not been studied [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 Patients with moderate hepatic impairment do not require an adjustment in tamsulosin hydrochloride capsules dosage.
-Tamsulosin hydrochloride has not been studied in patients with severe hepatic impairment [see CLINICAL PHARMACOLOGY (12.3)].
+Tamsulosin hydrochloride has not been studied in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
