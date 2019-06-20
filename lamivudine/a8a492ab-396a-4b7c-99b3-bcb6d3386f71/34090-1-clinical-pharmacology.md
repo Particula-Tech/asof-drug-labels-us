@@ -102,9 +102,9 @@ Trimethoprim (an inhibitor of these drug transporters) has been shown to increas
 This interaction is not considered clinically significant as no dose adjustment of lamivudine is needed.
 Lamivudine is a substrate of P-gp and BCRP; however, considering its absolute bioavailability (87%), it is unlikely that these transporters play a significant role in the absorption of lamivudine.
 Therefore, coadministration of drugs that are inhibitors of these efflux transporters is unlikely to affect the disposition and elimination of lamivudine.
-Interferon Alfa: There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects [see Warnings and Precautions (5.3)].
+Interferon Alfa: There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects.
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.3)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects.
 Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
 Each subject received a single 300 mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
 Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24), 14%, 32%, and 36% in the AUC(∞), and 28%, 52%, and 55% in the Cmax; of lamivudine, respectively.

@@ -9,4 +9,4 @@ No data are available regarding interactions with other drugs that have renal cl
 ## 7.2 Sorbitol
 
 Coadministration of single doses of lamivudine and sorbitol resulted in a sorbitol dose-dependent reduction in lamivudine exposures.
-When possible, avoid use of sorbitol-containing medicines with lamivudine [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
+When possible, avoid use of sorbitol-containing medicines with lamivudine [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].

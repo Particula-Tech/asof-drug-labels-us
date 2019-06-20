@@ -8,18 +8,12 @@ Lamivudine tablets can cause serious side effects, including:
   If you have HIV-1 (Human Immunodeficiency Virus type 1) and hepatitis B virus (HBV) infection, your HBV may get worse (flare-up) if you stop taking lamivudine tablets.
   A “flare-up” is when your HBV infection suddenly returns in a worse way than before.
   Worsening liver disease can be serious and may lead to death.
-
-- Do not run out of lamivudine tablets.
-  Refill your prescription or talk to your healthcare provider before your lamivudine tablets are all gone.
-- Do not stop lamivudine tablets without first talking to your healthcare provider.
-- If you stop taking lamivudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver.
-
+  - Do not run out of lamivudine tablets.
+    Refill your prescription or talk to your healthcare provider before your lamivudine tablets are all gone.
+  - Do not stop lamivudine tablets without first talking to your healthcare provider.
+  - If you stop taking lamivudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver.
 - Resistant Hepatitis B Virus (HBV).
   If you have HIV-1 and hepatitis B, the hepatitis B virus can change (mutate) during your treatment with lamivudine tablets and become harder to treat (resistant).
-
-- Use with interferon and ribavirin-based regimens.
-  Worsening of liver disease that has caused death has happened in people infected with both HIV-1 and hepatitis C virus who are taking antiretroviral medicines and are also being treated for hepatitis C with interferon with or without ribavirin.
-  If you are taking lamivudine tablets and interferon with or without ribavirin, tell your healthcare provider if you have any new symptoms.
 
 What are lamivudine tablets?
 
@@ -51,7 +45,7 @@ Talk to your healthcare provider about how you can take part in this registry.
 
 - are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take lamivudine tablets.
-- You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+  - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -105,10 +99,9 @@ You may be more likely to get lactic acidosis or serious liver problems if you a
 
 - Risk of inflammation of the pancreas (pancreatitis).
   Children may be at risk for developing pancreatitis during treatment with lamivudine tablets if they:
-
-- have taken nucleoside analogue medicines in the past
-- have a history of pancreatitis
-- have other risk factors for pancreatitis
+  - have taken nucleoside analogue medicines in the past
+  - have a history of pancreatitis
+  - have other risk factors for pancreatitis
 
 Call your healthcare provider right away if your child develops signs and symptoms of pancreatitis including severe upper stomach-area pain, with or without nausea and vomiting.
 Your healthcare provider may tell you to stop giving lamivudine tablets to your child if their symptoms and blood test results show that your child may have pancreatitis.
@@ -160,4 +153,4 @@ Inactive ingredients: hypromellose, magnesium stearate, microcrystalline cellulo
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners and are not trademarks of the Aurobindo Pharma Limited.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2019

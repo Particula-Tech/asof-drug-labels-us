@@ -4,9 +4,8 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 - Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.1)].
 - Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.2)].
-- Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.3)].
-- Pancreatitis [see Warnings and Precautions (5.4)].
-- Immune reconstitution syndrome [see Warnings and Precautions (5.5)].
+- Pancreatitis [see Warnings and Precautions (5.3)].
+- Immune reconstitution syndrome [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,7 +22,7 @@ Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in F
 | Body as a Whole Headache Malaise & fatigue Fever or chills Digestive Nausea Diarrhea Nausea & vomiting Anorexia and/or decreased appetite Abdominal pain Abdominal cramps Dyspepsia Nervous System Neuropathy Insomnia & other sleep disorders Dizziness Depressive disorders Respiratory Nasal signs & symptoms Cough Skin Skin rashes Musculoskeletal Musculoskeletal pain Myalgia Arthralgia | 35% 27% 10% 33% 18% 13% 10% 9% 6% 5% 12% 11% 10% 9% 20% 18% 9% 12% 8% 5% | 27% 23% 12% 29% 22% 12% 7% 11% 3% 5% 10% 7% 4% 4% 11% 13% 6% 10% 6% 5% |
 | a Either zidovudine monotherapy or zidovudine in combination with zalcitabine. |  |  |
 
-Pancreatitis: Pancreatitis was observed in 9 out of 2,613 adult subjects (0.3%) who received lamivudine in controlled clinical trials EPV20001, NUCA3001, NUCB3001, NUCA3002, NUCB3002, and NUCB3007 [see Warnings and Precautions (5.4)].
+Pancreatitis: Pancreatitis was observed in 9 out of 2,613 adult subjects (0.3%) who received lamivudine in controlled clinical trials EPV20001, NUCA3001, NUCB3001, NUCA3002, NUCB3002, and NUCB3007 [see Warnings and Precautions (5.3)].
 Lamivudine 300 mg Once Daily: The types and frequencies of clinical adverse reactions reported in subjects receiving lamivudine 300 mg once daily or lamivudine 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) for 48 weeks were similar.
 Selected laboratory abnormalities observed during therapy are summarized in Table 4.
 
@@ -53,7 +52,7 @@ In an open-label dose-escalation trial (NUCA2002), 14 subjects (14%) developed p
 Three of these subjects died of complications of pancreatitis.
 In a second open-label trial (NUCA2005), 12 subjects (18%) developed pancreatitis.
 In Trial ACTG300, pancreatitis was not observed in 236 subjects randomized to lamivudine plus RETROVIR.
-Pancreatitis was observed in 1 subject in this trial who received open-label lamivudine in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see Warnings and Precautions (5.4)].
+Pancreatitis was observed in 1 subject in this trial who received open-label lamivudine in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see Warnings and Precautions (5.3)].
 Paresthesias and Peripheral Neuropathies: Paresthesias and peripheral neuropathies were reported in 15 subjects (15%) in Trial NUCA2002, 6 subjects (9%) in Trial NUCA2005, and 2 subjects (less than 1%) in Trial ACTG300.
 Selected laboratory abnormalities experienced by therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 6.
 

@@ -9,7 +9,7 @@ If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosa
 
 Lamivudine scored tablet is the preferred formulation for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
 Before prescribing lamivudine scored tablets, pediatric patients should be assessed for the ability to swallow tablets.
-For patients unable to safely and reliably swallow lamivudine tablets, the oral solution formulation may be prescribed [see Warnings and Precautions (5.6)].
+For patients unable to safely and reliably swallow lamivudine tablets, the oral solution formulation may be prescribed [see Warnings and Precautions (5.5)].
 The recommended oral dosage of lamivudine tablets for HIV-1-infected pediatric patients is presented in Table 1.
 
 Table 1.
@@ -24,7 +24,7 @@ Dosing Recommendations for Lamivudine Scored (150 mg) Tablets in Pediatric Patie
 | a Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)]. b Patients may alternatively take one 300 mg tablet, which is not scored. |  |  |  |  |
 
 Oral Solution The recommended dosage of lamivudine oral solution in HIV-1-infected pediatric patients aged 3 months and older is 5 mg per kg taken orally twice daily or 10 mg per kg taken orally once daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents [see Clinical Pharmacology (12.3)].
-Consider HIV-1 viral load and CD4+ cell count/percentage when selecting the dosing interval for patients initiating treatment with oral solution [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
+Consider HIV-1 viral load and CD4+ cell count/percentage when selecting the dosing interval for patients initiating treatment with oral solution [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
 ## 2.3 Patients with Renal Impairment
 
