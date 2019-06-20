@@ -6,4 +6,4 @@ All patients treated with pravastatin sodium should be advised to promptly repor
 Embryofetal Toxicity Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment, and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4.3), Use in Specific Populations (8.1, 8.3)].
 Lactation Advise women not to breastfeed during treatment with pravastatin [see Contraindications (4.4), Use in Specific Populations (8.2)].
 Kaletra is a registered trademark of Abbott Laboratories.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Issued: July 2016
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019
