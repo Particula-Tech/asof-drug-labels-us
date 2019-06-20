@@ -37,19 +37,17 @@ Call your healthcare provider right away if you have any of the following sympto
 - feeling agitated, restless, angry or irritable
 - trouble sleeping
 - an increase in activity or talking more than what is normal for you
-- other unusual changes in behavior or mood
+- other unusual changes in behavior or mood.
+  Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+  Citalopram tablets may be associated with these serious side effects:
 
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-Citalopram tablets may be associated with these serious side effects:
-
-2.
-Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
+2.Changes in the electrical activity of your heart (QT prolongation and Torsade de Pointes).
 
 This condition can be life threatening.
 
 The symptoms may include:
 
-- chest pain
+- Chest pain
 - fast or slow heartbeat
 - shortness of breath
 - dizziness or fainting
@@ -66,10 +64,8 @@ This condition can be life-threatening and may include:
 - muscle rigidity
 
 4.
-Severe allergic reactions:
+Severe allergic reactions: trouble breathing, swelling of the face, tongue, eyes or mouth
 
-- trouble breathing
-- swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 5.
@@ -83,19 +79,15 @@ Manic episodes:
 
 - greatly increased energy
 - severe trouble sleeping
-- racing thoughts
-- reckless behavior
+- racing thoughts, reckless behavior
 - unusually grand ideas
-- excessive happiness or irritability
-- talking more or faster than usual
+- excessive happiness or irritability, talking more or faster than usual
 
-8.
-Changes in appetite or weight.
+8.Changes in appetite or weight.
 
 Children and adolescents should have height and weight monitored during treatment.
 
-9.
-Low salt (sodium) levels in the blood.
+9.Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk
 
 for this.
@@ -129,15 +121,14 @@ It is important to talk with your healthcare provider about the risks of treatin
 You should discuss all treatment choices with your healthcare provider.
 Citalopram tablets are also used to treat:
 
-- Major Depressive Disorder (MDD)
-
-Talk to your healthcare provider if you do not think that your condition is getting better with citalopram tablets treatment.
+- Major Depressive Disorder (MDD).
+  Talk to your healthcare provider if you do not think that your condition is getting better with citalopram tablets treatment.
 
 Who should not take citalopram tablets?
 
 Do not take citalopram tablets if you:
 
-- are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram tablets.
+- are allergic to citalopram or escitalopram or any of the ingredients in citalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in citalopram tablets.
 - If you take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
@@ -159,6 +150,10 @@ Get medical help right away if you have any of these symptoms:
 
 • loss of consciousness (pass out)
 
+• have a heart problem including congenital long QT syndrome
+
+• Do not take citalopram tablets with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
+
 - take the antipsychotic medicine pimozide because this can cause serious heart problems.
 - have a heart problem including congenital long QT syndrome
 
@@ -167,22 +162,14 @@ Ask if you are not sure.
 
 Before starting citalopram tablets, tell your healthcare provider if you
 
-• Are taking certain drugs such as:
-
-• Medicines for heart problems
-
-• Medicines that lower your potassium or magnesium levels in your body
-
-• Cimetidine
-
-• Triptans used to treat migraine headache
-
-• Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-
-• Tramadol
-
-• Over-the-counter supplements such as tryptophan or St. John's Wort
-
+- Are taking certain drugs such as:
+- Medicines for heart problems
+- Medicines that lower your potassium or magnesium levels in your body
+- Cimetidine
+- Triptans used to treat migraine headache
+- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+- Tramadol
+- Over-the-counter supplements such as tryptophan or St. John's Wort
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -195,7 +182,7 @@ Before starting citalopram tablets, tell your healthcare provider if you
 - are pregnant or plan to become pregnant.
   It is not known if citalopram tablets will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   Some citalopram may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking citalopram tablets.
 
@@ -205,7 +192,7 @@ Citalopram tablets and some medicines may interact with each other, may not work
 Your healthcare provider or pharmacist can tell you if it is safe to take citalopram tablets with your other medicines.
 Do not start or stop any medicine while taking citalopram tablets without talking to your healthcare provider first.
 
-| If you take citalopram tablets, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalateincluding: Lexapro. |
+| If you take citalopram tablets, you should not take any other medicines that contain citalopram or escitalopram including: Lexapro. |
 | --- |
 
 How should I take citalopram tablets?
@@ -267,7 +254,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store citalopram tablets?
 
-- Store at 20º-25°C (68º-77°F); excursions permitted to 15°-30°C (59º-86°F) [see USP Controlled Room Temperature].
+- Store at 20º to 25°C (68º to 77°F); excursions permitted to 15° to 30°C (59º to 86°F) [see USP Controlled Room Temperature].
 - Keep citalopram tablets bottle closed tightly.
 
 Keep citalopram tablets and all medicines out of the reach of children.
@@ -297,17 +284,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-OR
-
-Manufactured by:
-
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
-
-For:
+Manufactured For:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8063159 Revised January 2017
+8075293 Revised May 2019

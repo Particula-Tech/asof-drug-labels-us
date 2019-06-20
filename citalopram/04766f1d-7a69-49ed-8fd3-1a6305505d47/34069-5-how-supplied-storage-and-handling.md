@@ -14,7 +14,7 @@ Bottle of 9990 NDC 13668-009-09
 
 10 x 10 Unit Dose NDC 13668-009-74
 
-Tan coloured, round shaped, biconvex film coated tablets with '10' debossed on one side and plain on the other side.
+Tan coloured, round shaped, bic onvex film coated tablets with '10' debossed on one side and plain on the other side.
 
 Citalopram Tablets, USP 20 mg
 
@@ -44,4 +44,4 @@ Bottle of 2800 NDC 13668-011-08
 
 Tan coloured, oval shaped, biconvex film coated tablets with '4|0' debossed ('4' on left side and '0' on right side of the break line) on one side and '1011' on the other side.
 
-Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 20º to 25°C (68º to 77°F); excursions permitted to 15° to 30°C (59º to 86°F) [see USP Controlled Room Temperature].

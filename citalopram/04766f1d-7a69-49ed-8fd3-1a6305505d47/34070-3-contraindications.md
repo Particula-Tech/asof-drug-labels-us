@@ -7,4 +7,4 @@ Starting citalopram in a patient who is being treated with MAOIs such as linezol
 
 Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
 
-Citalopram HBr is contraindicated in patients with a hypersensitivity to citalopram or any of the inactive ingredients in citalopram HBr tablets.
+Citalopram hydrobromide is contraindicated in patients with a hypersensitivity to citalopram or any of the inactive ingredients in citalopram tablets.

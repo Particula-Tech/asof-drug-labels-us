@@ -4,14 +4,13 @@ Citalopram tablets should be administered once daily, in the morning or evening,
 
 ## Initial Treatment
 
-Citalopram tablets (citalopram HBr) should be administered at an initial dose of 20 mg once daily, with an increase to a maximum dose of 40 mg/day at an interval of no less than one week.
+Citalopram tablets (citalopram) should be administered at an initial dose of 20 mg once daily, with an increase to a maximum dose of 40 mg/day at an interval of no less than one week.
 Doses above 40 mg/day are not recommended due to the risk of QT prolongation.
 Additionally, the only study pertinent to dose response for effectiveness did not demonstrate an advantage for the 60 mg/day dose over the 40 mg/day dose.
 
 ## Special Populations
 
-20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age, patients with hepatic impairment, and for CYP2C19 poor metabolizers or those patients taking cimetidine or another CYP2C19 inhibitor.
-(see WARNINGS)
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age, patients with hepatic impairment, and for CYP2C19 poor metabolizers or those patients taking cimetidine or another CYP2C19 inhibitor.(see WARNINGS)
 
 No dosage adjustment is necessary for patients with mild or moderate renal impairment.
 Citalopram should be used with caution in patients with severe renal impairment.
@@ -25,7 +24,7 @@ When treating pregnant women with citalopram during the third trimester, the phy
 
 It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacologic therapy.
 Systematic evaluation of citalopram in two studies has shown that its antidepressant efficacy is maintained for periods of up to 24 weeks following 6 or 8 weeks of initial treatment (32 weeks total).
-In one study, patients were assigned randomly to placebo or to the same dose of citalopram (20-60 mg/day) during maintenance treatment as they had received during the acute stabilization phase, while in the other study, patients were assigned randomly to continuation of citalopram 20 or 40 mg/day, or placebo, for maintenance treatment.
+In one study, patients were assigned randomly to placebo or to the same dose of citalopram (20 to 60 mg/day) during maintenance treatment as they had received during the acute stabilization phase, while in the other study, patients were assigned randomly to continuation of citalopram 20 or 40 mg/day, or placebo, for maintenance treatment.
 In the latter study, the rates of relapse to depression were similar for the two dose groups (see Clinical Trials under CLINICAL PHARMACOLOGY).
 Based on these limited data, it is not known whether the dose of citalopram needed to maintain euthymia is identical to the dose needed to induce remission.
 If adverse reactions are bothersome, a decrease in dose to 20 mg/day can be considered.
@@ -41,9 +40,9 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 ## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with citalopram.
-Conversely, at least 14 days should be allowed after stopping citalopram before starting an MAOI intended to treat psyachiatric disorders (see CONTRAINDICATIONS).
+Conversely, at least 14 days should be allowed after stopping citalopram before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-Use of citalopram with Other MAOIs, Such as Linezolid or Methylene Blue
+Use of citalopramwith Other MAOIs, Such as Linezolid or Methylene Blue
 
 Do not start citalopram in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
