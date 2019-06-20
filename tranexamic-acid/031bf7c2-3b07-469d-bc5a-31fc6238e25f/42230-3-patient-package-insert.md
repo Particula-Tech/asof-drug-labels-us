@@ -1,54 +1,54 @@
 # PATIENT INFORMATION
 
-TRANEXAMIC ACID TABLETS
+TRANEXAMIC ACID, USP TABLETS
 
-Read the Patient Information that comes with Tranexamic Acid Tablets before you start using the drug and each time you get a refill.
+Read the Patient Information that comes with tranexamic acid USP tablets before you start using the drug and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
-What is Tranexamic Acid Tablets?
+What is tranexamic acid USP tablets?
 
-Tranexamic Acid Tablets is a prescription medicine used to treat your heavy monthly period (menstruation) when your bleeding gets in the way of social, leisure and physical activities.
-Tranexamic Acid Tablets does not contain any hormones.
-On average, Tranexamic Acid Tablets has been shown to lower the amount of blood lost during your monthly period by about one-third, but it is not meant to stop your period.
+Tranexamic Acid USP Tablets is a prescription medicine used to treat your heavy monthly period (menstruation) when your bleeding gets in the way of social, leisure and physical activities.
+Tranexamic Acid USP Tablets does not contain any hormones.
+On average, tranexamic acid USP tablets has been shown to lower the amount of blood lost during your monthly period by about one-third, but it is not meant to stop your period.
 
-Tranexamic Acid Tablets is taken only during your period and is not meant to treat pre-menstrual symptoms (symptoms that occur before your bleeding starts).
-Tranexamic Acid Tablets does not affect your fertility and cannot be used as birth control.
-Tranexamic Acid Tablets does not protect you against diseases that you may get if you have unprotected sex.
+Tranexamic Acid USP Tablets is taken only during your period and is not meant to treat pre-menstrual symptoms (symptoms that occur before your bleeding starts).
+Tranexamic Acid USP Tablets does not affect your fertility and cannot be used as birth control.
+Tranexamic Acid USP Tablets does not protect you against diseases that you may get if you have unprotected sex.
 
-Tranexamic Acid Tablets has not been studied in adolescents younger than 18 years of age.
+Tranexamic Acid USP Tablets has not been studied in adolescents younger than 18 years of age.
 
 Tranexamic Acid is not for women who have already gone through menopause (post-menopausal).
 
-Who should not take Tranexamic Acid Tablets?
+Who should not take tranexamic acid USP tablets?
 
-Do not take Tranexamic Acid Tablets if you:
+Do not take tranexamic acid USP tablets if you:
 
 - Are using a form of birth control that contains estrogen and a progestin (like a birth control pill, patch, or vaginal ring).
-  Ask your healthcare provider before taking Tranexamic Acid Tablets if you are not sure if your birth control method contains estrogen and a progestin.
+  Ask your healthcare provider before taking tranexamic acid USP tablets if you are not sure if your birth control method contains estrogen and a progestin.
 - Currently have a blood clot
 - Have ever had a blood clot
 - Have been told that you are at risk of having a blood clot
 - Are allergic to tranexamic acid
 
-What should I tell my healthcare provider before taking Tranexamic Acid Tablets?
+What should I tell my healthcare provider before taking tranexamic acid USP tablets?
 
-Before taking Tranexamic Acid Tablets, tell your healthcare provider about all of your medical conditions, including whether:
+Before taking tranexamic acid USP tablets, tell your healthcare provider about all of your medical conditions, including whether:
 
 - You have ever had a blood clot or been told that you are at risk of having a blood clot
 - You are using a form of birth control that contains estrogen and a progestin (like a birth control pill, patch, or vaginal ring).
-  Using hormonal birth control along with Tranexamic Acid Tablets may increase your chance of having a serious blood clot, stroke, or heart attack.
-  For this reason, do not use Tranexamic Acid Tablets if you use a form of birth control that contains estrogen and a progestin.
+  Using hormonal birth control along with tranexamic acid USP tablets may increase your chance of having a serious blood clot, stroke, or heart attack.
+  For this reason, do not use tranexamic acid USP tablets if you use a form of birth control that contains estrogen and a progestin.
 - You are pregnant or think you may be pregnant
 - You are breastfeeding or plan to breast-feed.
-  Tranexamic Acid Tablets can pass into your milk.
-  Talk to your healthcare provider about the best way to feed your baby if you take Tranexamic Acid Tablets.
+  Tranexamic Acid USP Tablets can pass into your milk.
+  Talk to your healthcare provider about the best way to feed your baby if you take tranexamic acid USP tablets.
 - The time between the start of your periods is less than 21 days or more than 35 days
 - You have any other medical conditions
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Tranexamic Acid Tablets and other medicines can affect each other, causing side effects.
-Tranexamic Acid Tablets can affect the way other medicines work and other medicines can affect how Tranexamic Acid Tablets works.
+Tranexamic Acid USP Tablets and other medicines can affect each other, causing side effects.
+Tranexamic Acid USP Tablets can affect the way other medicines work and other medicines can affect how tranexamic acid USP tablets works.
 
 Especially tell your healthcare provider if you take:
 
@@ -59,35 +59,36 @@ Especially tell your healthcare provider if you take:
 
 Ask your healthcare provider if you are not sure if your medicine is one that is described above.
 
-How should I take Tranexamic Acid Tablets?
+How should I take tranexamic acid USP tablets?
 
-- Take Tranexamic Acid Tablets exactly as your healthcare provider tells you.
-- Do not take Tranexamic Acid Tablets until your period has started.
-- Do not take Tranexamic Acid Tablets for more than 5 days in a row.
-- Do not take Tranexamic Acid Tablets when you do not have your period.
-- Once your period has started, take 2 tablets of Tranexamic Acid Tablets three times per day (e.g., in the morning, afternoon, and evening).
-- Tranexamic Acid Tablets should be swallowed whole and not chewed or broken apart.
-- Tranexamic Acid Tablets may be taken with or without food.
-- Do not take more than 6 tablets of Tranexamic Acid Tablets in a day.
+- Take tranexamic acid USP tablets exactly as your healthcare provider tells you.
+- Do not take tranexamic acid USP tablets until your period has started.
+- Do not take tranexamic acid USP tablets for more than 5 days in a row.
+- Do not take tranexamic acid USP tablets when you do not have your period.
+- Once your period has started, take 2 tablets of tranexamic acid USP tablets three times per day (e.g., in the morning, afternoon, and evening).
+- Tranexamic Acid USP Tablets should be swallowed whole and not chewed or broken apart.
+- Tranexamic Acid USP Tablets may be taken with or without food.
+- Do not take more than 6 tablets of tranexamic acid USP tablets in a day.
   If you take more than 6 tablets, call your healthcare provider.
 - If you miss a dose, take it when you remember, and then take your next dose at least six hours later.
   Do not take more than two tablets at a time to make up for missed doses.
-- If Tranexamic Acid Tablets does not help to lessen bleeding with your periods after 2 cycles or seems to stop working, talk to your healthcare provider.
+- If tranexamic acid USP tablets does not help to lessen bleeding with your periods after 2 cycles or seems to stop working, talk to your healthcare provider.
 
-What are the possible side effects of Tranexamic Acid Tablets?
-Tranexamic Acid Tablets can cause serious side effects, including:
+What are the possible side effects of tranexamic acid USP tablets?
+
+Tranexamic Acid USP Tablets can cause serious side effects, including:
 
 - Blood clots.
-  You may have a higher risk of having serious blood clots if you take Tranexamic Acid Tablets with:
+  You may have a higher risk of having serious blood clots if you take tranexamic acid USP tablets with:
   - medicines used to help your blood form clots
   - some medicines used to treat leukemia
 - Eye changes.
-  Stop taking Tranexamic Acid Tablets and promptly report any eye problems you have while taking Tranexamic Acid Tablets.
+  Stop taking tranexamic acid USP tablets and promptly report any eye problems you have while taking tranexamic acid USP tablets.
   Your doctor will refer you to an eye doctor who will examine your eyes.
 - Allergic reaction.
-  If you have severe shortness of breath and your throat feels tight, stop taking Tranexamic Acid Tablets and get medical care right away.
+  If you have severe shortness of breath and your throat feels tight, stop taking tranexamic acid USP tablets and get medical care right away.
 
-The most common side effects of Tranexamic Acid Tablets include:
+The most common side effects of tranexamic acid USP tablets include:
 
 - Headaches
 - Sinus and nasal problems
@@ -99,7 +100,8 @@ The most common side effects of Tranexamic Acid Tablets include:
 
 Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
-These are not all of the possible side effects of Tranexamic Acid Tablets.
+These are not all of the possible side effects of tranexamic acid USP tablets.
+
 For more information, ask your healthcare provider or pharmacist.
 
 If you notice a change in your usual bleeding pattern that worries you, or your heavy bleeding continues, contact your healthcare provider right away.
@@ -109,28 +111,39 @@ Call your healthcare provider for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 You may also report side effects to Amring Pharmaceuticals Inc. at 1-844-Amring1 (1-844-267-4641).
 
-How should I store Tranexamic Acid Tablets?
+How should I store tranexamic acid USP tablets?
 
-Store Tranexamic Acid Tablets at room temperature between 59°F to 86°F (15°C to 30°C).
+Store tranexamic acid USP tablets at room temperature between 59°F to 86°F (15°C to 30°C).
 
-Keep Tranexamic Acid Tablets and all medicines out of the reach of children.
+Keep tranexamic acid USP tablets and all medicines out of the reach of children.
 
-General information about Tranexamic Acid Tablets
+General information about tranexamic acid USP tablets
 
 Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information Leaflets.
-Do not use Tranexamic Acid Tablets for a condition for which it was not prescribed.
-Do not give Tranexamic Acid Tablets to other people, even if they have the same symptoms that you have.
+Do not use tranexamic acid USP tablets for a condition for which it was not prescribed.
+Do not give tranexamic acid USP tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This patient information leaflet summarizes the most important information about Tranexamic Acid Tablets.
-If you would like more information about Tranexamic Acid Tablets, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about Tranexamic Acid Tablets that is written for healthcare professionals.
+This patient information leaflet summarizes the most important information about tranexamic acid USP tablets.
+If you would like more information about tranexamic acid USP tablets, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about tranexamic acid USP tablets that is written for healthcare professionals.
 For more information, call 1-844-Amring1 (1-844-267-4641).
 
-What are the ingredients of Tranexamic Acid Tablets?
+What are the ingredients of tranexamic acid USP tablets?
 
 Active ingredient: tranexamic acid
 
 Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, pregelatinized corn starch, povidone, hypromellose, stearic acid, and magnesium stearate.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312
+
+By: Mikart, Inc. Atlanta, GA 30318
+
+Code APR3013011
+
+Rev.
+03/2016
+
+1221E00

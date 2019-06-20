@@ -2,10 +2,8 @@
 
 NDC 69918-301-30 30 Tablets
 
-Tranexamic Acid Tablets
+Tranexamic Acid, USP Tablets
 
-Rx Only
-
-650 mg
+Rx Only 650 mg
 
 AMRING PHARMACEUTICALS

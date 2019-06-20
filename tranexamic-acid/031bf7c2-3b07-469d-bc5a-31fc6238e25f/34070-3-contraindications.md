@@ -2,7 +2,7 @@
 
 ## 4.1 Thromboembolic Risk
 
-Do not prescribe Tranexamic Acid Tablets to women who are
+Do not prescribe tranexamic acid USP tablets to women who are
 
 - using combination hormonal contraception
 - known to have any of the following conditions:
@@ -14,4 +14,4 @@ Venous and arterial thrombosis or thromboembolism, as well as cases of retinal a
 
 ## 4.2 Hypersensitivity to Tranexamic Acid
 
-Do not prescribe Tranexamic Acid Tablets to women with known hypersensitivity to tranexamic acid [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+Do not prescribe tranexamic acid USP tablets to women with known hypersensitivity to tranexamic acid [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].

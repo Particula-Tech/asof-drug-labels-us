@@ -1,21 +1,21 @@
 # 7 DRUG INTERACTIONS
 
-No drug-drug interaction studies were conducted with tranexamic acid tablets.
+No drug-drug interaction studies were conducted with tranexamic acid USP tablets.
 
 ## 7.1 Hormonal Contraceptives
 
-Because tranexamic acid tablets are antifibrinolytic, concomitant use of hormonal contraception and tranexamic acid tablets may further exacerbate the increased thrombotic risk associated with combination hormonal contraceptives.
-For this reason, concomitant use of Tranexamic Acid Tablets with combination hormonal contraceptives is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1)].
+Because tranexamic acid USP tablets are antifibrinolytic, concomitant use of hormonal contraception and tranexamic acid USP tablets may further exacerbate the increased thrombotic risk associated with combination hormonal contraceptives.
+For this reason, concomitant use of tranexamic acid USP tablets with combination hormonal contraceptives is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 ## 7.2 Tissue Plasminogen Activators
 
-Concomitant therapy with tissue plasminogen activators may decrease the efficacy of both tranexamic acid tablets and tissue plasminogen activators.
-Therefore, exercise caution if a woman taking tranexamic acid tablets therapy requires tissue plasminogen activators.
+Concomitant therapy with tissue plasminogen activators may decrease the efficacy of both tranexamic acid USP tablets and tissue plasminogen activators.
+Therefore, exercise caution if a woman taking tranexamic acid USP tablets therapy requires tissue plasminogen activators.
 
 ## 7.3 Factor IX Complex Concentrates or Anti-Inhibitor Coagulant Concentrates
 
-Tranexamic acid tablets are not recommended for women taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Tranexamic Acid USP Tablets are not recommended for women taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.4 All-Trans Retinoic Acid (Oral Tretinoin)
 
-Exercise caution when prescribing tranexamic acid tablets to women with acute promyelocytic leukemia taking all-trans retinoic acid for remission induction because of possible exacerbation of the procoagulant effect of all-trans retinoic acid [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Exercise caution when prescribing tranexamic acid USP tablets to women with acute promyelocytic leukemia taking all-trans retinoic acid for remission induction because of possible exacerbation of the procoagulant effect of all-trans retinoic acid [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].

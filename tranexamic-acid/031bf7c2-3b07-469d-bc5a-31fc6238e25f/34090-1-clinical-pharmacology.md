@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes the dissolution of hemostatic fibrin by plasmin.
-In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin's matrix structure.
+In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin’s matrix structure.
 
 The antifibrinolytic effects of tranexamic acid are mediated by reversible interactions at multiple binding sites within plasminogen.
 Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (Kd = 750 μmol/L) and 1 with high affinity (Kd = 1.1 μmol/L).
@@ -23,9 +23,9 @@ Tranexamic acid, however, at blood concentrations of 1 and 10 mg/mL prolongs the
 
 Cardiac Electrophysiology
 
-The effect of tranexamic acid tablets on QT interval was evaluated in a randomized, single-dose, 4-way crossover study in 48 healthy females aged 18 to 49 years.
-Subjects received (1) tranexamic acid tablets 1300 mg (two 650 mg tablets), (2) tranexamic acid tablets 3900 mg (six 650 mg tablets; three times the recommended single dose), (3) moxifloxacin 400 mg, and (4) placebo.
-There was no significant increase in the corrected QT interval at any time up to 24 hours after the administration of either dose of tranexamic acid tablets.
+The effect of tranexamic acid USP tablets on QT interval was evaluated in a randomized, single-dose, 4-way crossover study in 48 healthy females aged 18 to 49 years.
+Subjects received (1) tranexamic acid USP tablets 1300 mg (two 650 mg tablets), (2) tranexamic acid USP tablets 3900 mg (six 650 mg tablets; three times the recommended single dose), (3) moxifloxacin 400 mg, and (4) placebo.
+There was no significant increase in the corrected QT interval at any time up to 24 hours after the administration of either dose of tranexamic acid USP tablets.
 Moxifloxacin, the active control, was associated with a maximum 14.11 msec mean increase in corrected QT interval (moxifloxacin – placebo) at 3 hours after administration.
 
 ## 12.3 Pharmacokinetics
@@ -33,31 +33,33 @@ Moxifloxacin, the active control, was associated with a maximum 14.11 msec mean 
 Absorption
 
 After a single oral administration of two 650 mg tablets of tranexamic acid, the peak plasma concentration (Cmax) occurred at approximately 3 hours (Tmax).
-The absolute bioavailability of tranexamic acid tablets in women aged 18-49 is approximately 45%.
-Following multiple oral doses (two 650 mg tablets three times daily) administration of tranexamic acid tablets for 5 days, the mean Cmax increased by approximately 19% and the mean area under the plasma concentration-time curve (AUC) remained unchanged, compared to a single oral dose administration (two 650 mg tablets).
-Plasma concentrations reached steady state at the 5th dose of tranexamic acid tablets on Day 2.
+The absolute bioavailability of tranexamic acid USP tablets in women aged 18-49 is approximately 45%.
+Following multiple oral doses (two 650 mg tablets three times daily) administration of tranexamic acid USP tablets for 5 days, the mean Cmax increased by approximately 19% and the mean area under the plasma concentration-time curve (AUC) remained unchanged, compared to a single oral dose administration (two 650 mg tablets).
+Plasma concentrations reached steady state at the 5th dose of tranexamic acid USP tablets on Day 2.
 
-The mean plasma pharmacokinetic parameters of tranexamic acid determined in 19 healthy women following a single (two 650 mg tablets) and multiple (two 650 mg tablets three times daily for 5 days) oral dose of tranexamic acid tablets are shown in Table 3.
+The mean plasma pharmacokinetic parameters of tranexamic acid determined in 19 healthy women following a single (two 650 mg tablets) and multiple (two 650 mg tablets three times daily for 5 days) oral dose of tranexamic acid USP tablets are shown in Table 3.
 
 Table 3.
-Mean (CV%) Pharmacokinetic Parameters Following a Single (two 650 mg tablets) and Multiple Oral Dose (two 650 mg tablets three times daily for 5 days) Administration of Tranexamic Acid Tablets in 19 Healthy Women under Fasting Conditions
+Mean (CV%) Pharmacokinetic Parameters Following a Single (two 650 mg tablets) and Multiple Oral Dose (two 650 mg tablets three times daily for 5 days) Administration of tranexamic acid USP tablets in 19 Healthy Women under Fasting Conditions
 
 | Single dose | Multiple dose |  |
 | --- | --- | --- |
 | Parameter | Arithmetic Mean (CV%) |  |
 | Cmax (mcg/mL) | 13.83 (32.14) | 16.41 (26.19) |
-| AUCtldc (mcg∙h/mL) | 77.96 (31.14) | 77.67AUC0-tau(mcg∙h/mL) = area under the drug concentration curve from time 0 to 8 hours(29.39) |
+| AUCtldc (mcg∙h/mL) | 77.96 (31.14) | 77.67a(29.39) |
 | AUCinf (mcg∙h/mL) | 80.19 (30.43) | - |
-| Tmax (h)Data presented as median (range) | 2.5 (1 – 5) | 2.5 (2 – 3.5) |
+| Tmax (h)b | 2.5 (1 – 5) | 2.5 (2 – 3.5) |
 | t1/2 (h) | 11.08 (16.94) | - |
 | Cmax = maximum concentration |  |  |
 | AUCtldc = area under the drug concentration curve from time 0 to time of last determinable concentration |  |  |
 | AUCinf = area under the drug concentration curve from time 0 to infinity |  |  |
 | Tmax = time to maximum concentration |  |  |
 | t1/2 = terminal elimination half-life |  |  |
+| aAUC0-tau(mcg·h/mL) = area under the drug concentration curve from time 0 to 8 hours |  |  |
+| bData presented as median (range) |  |  |
 
-Effect of food: Tranexamic acid tablets may be administered without regard to meals.
-A single dose administration (two 650 mg tablets) of tranexamic acid tablets with food increased both Cmax and AUC by 7% and 16%, respectively.
+Effect of food: tranexamic acid USP tablets may be administered without regard to meals.
+A single dose administration (two 650 mg tablets) of tranexamic acid USP tablets with food increased both Cmax and AUC by 7% and 16%, respectively.
 
 Distribution
 
@@ -80,25 +82,25 @@ Excretion
 Tranexamic acid is eliminated by urinary excretion primarily via glomerular filtration with more than 95% of the dose excreted unchanged.
 Excretion of tranexamic acid is about 90% at 24 hours after intravenous administration of 10 mg/kg.
 Most elimination post intravenous administration occurred during the first 10 hours, giving an apparent elimination half-life of approximately 2 hours.
-The mean terminal half-life of tranexamic acid tablets is approximately 11 hours.
+The mean terminal half-life of tranexamic acid USP tablets is approximately 11 hours.
 Plasma clearance of tranexamic acid is 110-116 mL/min.
 
 Specific Populations
 
 Pregnancy (Category B)
 
-Tranexamic acid tablets are not indicated for use in pregnant women.
+Tranexamic Acid USP Tablets are not indicated for use in pregnant women.
 Tranexamic acid is known to cross the placenta and appears in cord blood at concentrations approximately equal to maternal concentration.
 There are no adequate and well-controlled studies in pregnant women [see Use in Specific Populations (8.1)].
 
 Nursing Mothers
 
-Tranexamic acid is present in the mother's milk at a concentration of about one hundredth of the corresponding serum concentrations.
-Tranexamic acid tablets should be used during lactation only if clearly needed [see Use in Specific Populations (8.3)].
+Tranexamic acid is present in the mother’s milk at a concentration of about one hundredth of the corresponding serum concentrations.
+Tranexamic Acid USP Tablets should be used during lactation only if clearly needed [see Use in Specific Populations (8.3)].
 
 Pediatric Use
 
-Tranexamic acid tablets are indicated for women of reproductive age and are not intended for use in premenarcheal girls.
+Tranexamic Acid USP Tablets are indicated for women of reproductive age and are not intended for use in premenarcheal girls.
 
 In a randomized, single dose, two-way crossover study of two dose levels (650 mg and 1,300 mg [two 650 mg tablets]), pharmacokinetics of tranexamic acid was evaluated in 20 female adolescents (12 to 16 years of age) with heavy menstrual bleeding.
 The Cmax and AUC values after a single oral dose of 650 mg in the adolescent females were 32 – 36% less than those after a single oral dose of 1,300 mg in the adolescent females.
@@ -107,11 +109,11 @@ The Cmax and AUC values after a single oral dose of 1300 mg in the adolescent fe
 
 Geriatric Use
 
-Tranexamic acid tablets are indicated for women of reproductive age and are not intended for use by postmenopausal women.
+Tranexamic Acid USP Tablets are indicated for women of reproductive age and are not intended for use by postmenopausal women.
 
 Renal Impairment
 
-The effect of renal impairment on the disposition of tranexamic acid tablets has not been evaluated.
+The effect of renal impairment on the disposition of tranexamic acid USP tablets has not been evaluated.
 Urinary excretion following a single intravenous injection of tranexamic acid declines as renal function decreases.
 Following a single 10 mg/kg intravenous injection of tranexamic acid in 28 patients, the 24-hour urinary fractions of tranexamic acid with serum creatinine concentrations 1.4 – 2.8, 2.8 – 5.7, and greater than 5.7 mg/dL were 51, 39, and 19%, respectively.
 The 24-hour tranexamic acid plasma concentrations for these patients demonstrated a direct relationship to the degree of renal impairment.
@@ -119,30 +121,30 @@ Therefore, dose adjustment is needed in patients with renal impairment [see Dosa
 
 Hepatic Impairment
 
-The effect of hepatic impairment on the disposition of tranexamic acid tablets has not been evaluated.
+The effect of hepatic impairment on the disposition of tranexamic acid USP tablets has not been evaluated.
 One percent and 0.5 percent of an oral dose are excreted as a dicarboxylic acid and acetylated metabolite, respectively.
 Because only a small fraction of the drug is metabolized, no dose adjustment is needed in patients with hepatic impairment.
 
 Drug Interactions
 
-No drug-drug interaction studies were conducted with tranexamic acid tablets.
+No drug-drug interaction studies were conducted with tranexamic acid USP tablets.
 
 Hormonal Contraceptives
 
-Because tranexamic acid tablets are antifibrinolytic, concomitant use of hormonal contraception and tranexamic acid tablets may further exacerbate the increased thrombotic risk associated with combination hormonal contraceptives.
-For this reason, concomitant use of Tranexamic Acid Tablets with combination hormonal contraceptives is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Drug Interactions (7.1)]
+Because tranexamic acid USP tablets are antifibrinolytic, concomitant use of hormonal contraception and tranexamic acid USP tablets may further exacerbate the increased thrombotic risk associated with combination hormonal contraceptives.
+For this reason, concomitant use of tranexamic acid USP tablets with combination hormonal contraceptives is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Drug Interactions (7.1)]
 
 Factor IX Complex Concentrates or Anti-inhibitor Coagulant Concentrates
 
-Tranexamic acid tablets are not recommended in patients taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
+Tranexamic Acid USP Tablets are not recommended in patients taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
 
 Tissue Plasminogen Activators
 
-Concomitant therapy with tissue plasminogen activators may decrease the efficacy of both tranexamic acid tablets and tissue plasminogen activators.
-Therefore, exercise caution if a patient taking tranexamic acid tablets therapy requires tissue plasminogen activators [see Drug Interactions (7.2)].
+Concomitant therapy with tissue plasminogen activators may decrease the efficacy of both tranexamic acid USP tablets and tissue plasminogen activators.
+Therefore, exercise caution if a patient taking tranexamic acid USP tablets therapy requires tissue plasminogen activators [see Drug Interactions (7.2)].
 
 All-Trans Retinoic Acid (Oral Tretinoin)
 
 In a study involving 28 patients with acute promyelocytic leukemia who were given either orally administered all-trans retinoic acid plus intravenously administered tranexamic acid, all-trans retinoic acid plus chemotherapy, or all-trans retinoic acid plus tranexamic acid plus chemotherapy, all 4 patients who were given all-trans retinoic acid plus tranexamic acid died, with 3 of the 4 deaths due to thrombotic complications.
 It appears that the procoagulant effect of all-trans retinoic acid may be exacerbated by concomitant use of tranexamic acid.
-Therefore, exercise caution when prescribing tranexamic acid tablets to patients with acute promyelocytic leukemia taking all-trans retinoic acid [see Warnings and Precautions (5.1) and Drug Interactions (7.4)].
+Therefore, exercise caution when prescribing tranexamic acid USP tablets to patients with acute promyelocytic leukemia taking all-trans retinoic acid [see Warnings and Precautions (5.1) and Drug Interactions (7.4)].

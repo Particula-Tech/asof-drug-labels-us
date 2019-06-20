@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of tranexamic acid tablets in the treatment of heavy menstrual bleeding (HMB) was demonstrated in one 3-cycle treatment and one 6-cycle treatment, randomized, double-blind, placebo-controlled study [see Adverse Reactions (6.1)].
+The efficacy and safety of tranexamic acid USP tablets in the treatment of heavy menstrual bleeding (HMB) was demonstrated in one 3-cycle treatment and one 6-cycle treatment, randomized, double-blind, placebo-controlled study [see Adverse Reactions (6.1)].
 In these studies, HMB was defined as an average menstrual blood loss of ≥ 80 mL as assessed by alkaline hematin analysis of collected sanitary products over two baseline menstrual cycles.
 Subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a BMI of approximately 32 kg/m2.
 On average, subjects had an HMB history of approximately 10 years and 40% had fibroids as determined by transvaginal ultrasound.
@@ -15,48 +15,54 @@ Large stains (soiling beyond the undergarment) were also included as a key secon
 
 ## 14.1 Three-Cycle Treatment Study
 
-This study compared the effects of two doses of tranexamic acid tablets (1950 mg and 3900 mg given daily for up to 5 days during each menstrual period) versus placebo on MBL over a 3-cycle treatment duration.
-Of the 294 evaluable subjects, 115 tranexamic acid tablets 1950 mg/day subjects, 112 tranexamic acid tablets 3900 mg/day subjects and 67 placebo subjects took at least one dose of study drug and had post-treatment data available.
+This study compared the effects of two doses of tranexamic acid USP tablets (1950 mg and 3900 mg given daily for up to 5 days during each menstrual period) versus placebo on MBL over a 3-cycle treatment duration.
+Of the 294 evaluable subjects, 115 tranexamic acid USP tablets 1950 mg/day subjects, 112 tranexamic acid USP tablets 3900 mg/day subjects and 67 placebo subjects took at least one dose of study drug and had post-treatment data available.
 
 Results are shown in Table 4.
-MBL was statistically significantly reduced in patients treated with 3900 mg/day tranexamic acid tablets compared to placebo.
+MBL was statistically significantly reduced in patients treated with 3900 mg/day tranexamic acid USP tablets compared to placebo.
 Study success also required achieving a reduction in MBL that was determined to be clinically meaningful to the subjects.
-The 1950 mg/day tranexamic acid tablets dose did not meet the criteria for success.
+The 1950 mg/day tranexamic acid USP tablets dose did not meet the criteria for success.
 
 Table 4.
 Mean Reduction from Baseline in MBL
 
 | Treatment Arm | N | Baseline Mean MBL (mL) | Least Squares Mean Reduction in MBL (mL) | Percent Reduction in MBL |
 | --- | --- | --- | --- | --- |
-| Tranexamic acid 3900 mg/day | 112 | 169 | 65p<0.001 versus placebo | 39% |
+| Tranexamic acid 3900 mg/day | 112 | 169 | 65* | 39% |
 | Tranexamic acid 1950 mg/day | 115 | 178 | 44 | 25% |
 | Placebo | 67 | 154 | 7 | 5% |
+| * p<0.001 versus placebo |  |  |  |  |
 
-Tranexamic acid tablets also statistically significantly reduced limitations on social, leisure, and physical activities in the 3900 mg/day dose group compared to placebo (see Table 5).
+Tranexamic Acid USP Tablets also statistically significantly reduced limitations on social, leisure, and physical activities in the 3900 mg/day dose group compared to placebo (see Table 5).
 No statistically significant treatment difference was observed in response rates on the number of large stains.
 
 Table 5: Secondary Outcomes in 3-Cycle Study
 
-| Outcome Measure | N | Baseline MeanResponse categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited | Least Squares Mean ReductionPositive means reflect an improvement from baseline. |
-| --- | --- | --- | --- |
-| Social and Leisure Activities |  |  |  |
-| 3900 mg/day tranexamic acid | 112 | 3.00 | 0.98p-value <0.05 versus placebo |
-| Placebo | 66 | 2.85 | 0.39 |
-| Physical Activities |  |  |  |
-| 3900 mg/day tranexamic acid | 112 | 3.07 | 0.94 |
-| Placebo | 66 | 296 | 0.34 |
-|  | N |  | RespondersResponders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |
-| Reduction in Large Stains |  |  |  |
-| 3900 mg/day tranexamic acid | 111 |  | 64%Non-significant difference versus placebo |
-| Placebo | 67 |  | 52% |
+| Outcome Measure | N | Baseline Meana | Least Squares Mean Reductionb |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Social and Leisure Activities |  |  |  |  |  |  |
+| 3900 mg/day tranexamic acid | 112 | 3.00 | 0.98c |  |  |  |
+| Placebo | 66 | 2.85 | 0.39 |  |  |  |
+| Physical Activities |  |  |  |  |  |  |
+| 3900 mg/day tranexamic acid | 112 | 3.07 | 0.94c |  |  |  |
+| Placebo | 66 | 296 | 0.34 |  |  |  |
+|  | N |  | Respondersd |  |  |  |
+| Reduction in Large Stains |  |  |  |  |  |  |
+| 3900 mg/day tranexamic acid | 111 |  | 64%e |  |  |  |
+| Placebo | 67 |  | 52% |  |  |  |
+| aResponse categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited |  |  |  |  |  |  |
+| bPositive means reflect an improvement from baseline. |  |  |  |  |  |  |
+| cp-value <0.05 versus placebo |  |  |  |  |  |  |
+| dResponders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |  |  |  |  |  |  |
+| eNon-significant difference versus placebo |  |  |  |  |  |  |
 
 ## 14.2 Six-Cycle Treatment Study
 
-This study compared the effects of tranexamic acid tablets 3900 mg/day given daily for up to 5 days during each menstrual period versus placebo on MBL over a 6-cycle treatment duration.
-Of the 187 evaluable subjects, 115 tranexamic acid tablets subjects and 72 placebo subjects took at least one dose of study drug and had post-treatment data available.
+This study compared the effects of tranexamic acid USP tablets 3900 mg/day given daily for up to 5 days during each menstrual period versus placebo on MBL over a 6-cycle treatment duration.
+Of the 187 evaluable subjects, 115 tranexamic acid USP tablets subjects and 72 placebo subjects took at least one dose of study drug and had post-treatment data available.
 
 Results are shown in Table 6.
-MBL was statistically significantly reduced in patients treated with 3900 mg/day tranexamic acid tablets compared to placebo.
+MBL was statistically significantly reduced in patients treated with 3900 mg/day tranexamic acid USP tablets compared to placebo.
 Study success also required achieving a reduction in MBL that was determined to be clinically meaningful to the subjects.
 
 Table 6.
@@ -64,30 +70,36 @@ Mean Reduction from Baseline in MBL
 
 | Treatment Arm | N | Baseline Mean MBL (mL) | Least Squares Mean Reduction in MBL (mL) | Percent Reduction in MBL |
 | --- | --- | --- | --- | --- |
-| Tranexamic acid 3900 mg/day | 115 | 172 | 66p<0.001 versus placebo | 38% |
+| Tranexamic acid 3900 mg/day | 115 | 172 | 66* | 38% |
 | Placebo | 72 | 153 | 18 | 12% |
+| * p<0.001 versus placebo |  |  |  |  |
 
-Limitations on social, leisure, and physical activities were also statistically significantly reduced in the tranexamic acid tablets group compared to placebo (see Table 7).
+Limitations on social, leisure, and physical activities were also statistically significantly reduced in the tranexamic acid USP tablets group compared to placebo (see Table 7).
 No statistically significant treatment difference was observed in response rates on the number of large stains.
 
 Table 7: Secondary Outcomes in 6-Cycle Study
 
-| Outcome Measure | N | Baseline MeanResponse categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited | Least Squares Mean ReductionPositive means reflect an improvement from baseline. |
-| --- | --- | --- | --- |
-| Social and Leisure Activities |  |  |  |
-| 3900 mg/day tranexamic acid | 115 | 2.92 | 0.85p-value <0.05 versus placebo |
-| Placebo | 72 | 2.74 | 0.44 |
-| Physical Activities |  |  |  |
-| 3900 mg/day tranexamic acid | 115 | 3.05 | 0.87 |
-| Placebo | 72 | 2.90 | 0.40 |
-|  | N |  | RespondersResponders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |
-| Reduction in Large Stains |  |  |  |
-| 3900 mg/day tranexamic acid | 115 |  | 57%Non-significant difference versus placebo |
-| Placebo | 72 |  | 51% |
+| Outcome Measure | N | Baseline Meana | Least Squares Mean Reductionb |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Social and Leisure Activities |  |  |  |  |  |  |
+| 3900 mg/day tranexamic acid | 115 | 2.92 | 0.85c |  |  |  |
+| Placebo | 72 | 2.74 | 0.44 |  |  |  |
+| Physical Activities |  |  |  |  |  |  |
+| 3900 mg/day tranexamic acid | 115 | 3.05 | 0.87c |  |  |  |
+| Placebo | 72 | 2.90 | 0.40 |  |  |  |
+|  | N |  | Respondersd |  |  |  |
+| Reduction in Large Stains |  |  |  |  |  |  |
+| 3900 mg/day tranexamic acid | 115 |  | 57%e |  |  |  |
+| Placebo | 72 |  | 51% |  |  |  |
+| aResponse categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited |  |  |  |  |  |  |
+| bPositive means reflect an improvement from baseline. |  |  |  |  |  |  |
+| cp-value <0.05 versus placebo |  |  |  |  |  |  |
+| dResponders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |  |  |  |  |  |  |
+| eNon-significant difference versus placebo |  |  |  |  |  |  |
 
 ## 14.3 MBL Results over Time
 
-The efficacy of tranexamic acid tablets 3900 mg/day over 3 menstrual cycles and over 6 menstrual cycles was demonstrated versus placebo in the double-blind, placebo-controlled efficacy studies (see Figure 1).
+The efficacy of tranexamic acid USP tablets 3900 mg/day over 3 menstrual cycles and over 6 menstrual cycles was demonstrated versus placebo in the double-blind, placebo-controlled efficacy studies (see Figure 1).
 The change in MBL from baseline was similar across all post-baseline treatment cycles.
 
 Figure 1: MBL Levels over Duration of Therapy
