@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205811"
+  ],
+  "inn": "doxylamine",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-2132-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "doxylamine succinate and pyridoxine hydrochloride",
+      "name": "Doxylamine succinate and pyridoxine hydrochloride"
+    }
+  ],
+  "setid": "3670d66e-c1e4-42ce-8760-c3d5accad925",
+  "source": "dailymed"
+}
