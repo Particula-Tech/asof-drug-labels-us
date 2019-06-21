@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advisethe patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Patients taking atorvastatin calcium should be advised that cholesterol is a chronic condition and they should adhere to their medication along with their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program as appropriate, and periodic testing of a fasting lipid panel to determine goal attainment.
 
@@ -28,4 +28,4 @@ Advise women not to breastfeed during treatment with atorvastatin calcium [see C
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 09/18
+Rev: 06/19

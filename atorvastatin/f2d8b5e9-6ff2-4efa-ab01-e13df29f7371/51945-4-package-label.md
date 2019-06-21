@@ -10,7 +10,7 @@ Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-90 Tablets Rx only
+90 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -24,7 +24,7 @@ Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-1,000 Tablets Rx only
+1,000 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -38,7 +38,7 @@ Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-90 Tablets Rx only
+90 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -52,7 +52,7 @@ Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-500 Tablets Rx only
+500 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -66,7 +66,7 @@ Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-90 Tablets Rx only
+90 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -80,7 +80,7 @@ Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-1,000 Tablets Rx only
+1,000 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -94,7 +94,7 @@ Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-90 Tablets Rx only
+90 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -108,6 +108,6 @@ Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
-500 Tablets Rx only
+500 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.

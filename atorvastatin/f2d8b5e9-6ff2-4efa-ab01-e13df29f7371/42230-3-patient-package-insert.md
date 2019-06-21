@@ -41,7 +41,7 @@ Do not take Atorvastatin Calcium Tablets if you:
   Atorvastatin calcium tablets may harm your unborn baby.
   If you get pregnant, stop taking atorvastatin calcium tablets and call your doctor right away.
 - are breast feeding.
-  Atorvastatin calcium tablets can pass into your breast milk and may harm your baby.
+  Atorvastatin calcium can pass into your breast milk and may harm your baby.
 - have liver problems.
 - are allergic to atorvastatin calcium tablets or any of its ingredients.
   The active ingredient is atorvastatin.
@@ -70,6 +70,7 @@ Especially tell your doctor if you take medicines for:
 - birth control
 - heart failure
 - HIV or AIDS
+- Hepatitis C virus
 
 Know all the medicines you take.
 Keep a list of them with you to show your doctor and pharmacist.
@@ -145,7 +146,7 @@ Ask your doctor or pharmacist for a complete list.
 
 How do I store Atorvastatin Calcium Tablets
 
-- Store atorvastatin calcium tablets at room temperature, 68 to 77°F (20 to 25°C).
+- Store atorvastatin calcium tablets at room temperature, 68°F to 77°F (20°C to 25°C).
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep atorvastatin calcium tablets and all medicines out of the reach of children.
   Be sure that if you throw medicine away, it is out of the reach of children.
@@ -169,4 +170,4 @@ Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copo
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 09/18
+Rev: 06/19

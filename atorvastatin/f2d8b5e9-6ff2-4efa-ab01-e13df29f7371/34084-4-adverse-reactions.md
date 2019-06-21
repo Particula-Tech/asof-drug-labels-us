@@ -10,12 +10,12 @@ Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-In the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8755 atorvastatin calcium vs. 7311 placebo; age range 10 to 93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on atorvastatin calcium and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality.
+In the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8,755 atorvastatin calcium vs. 7,311 placebo; age range 10 to 93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on atorvastatin calcium and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality.
 The five most common adverse reactions in patients treated with atorvastatin calcium that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
 
-The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with atorvastatin calcium in placebo controlled trials (n=8755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6.0%), and urinary tract infection (5.7%).
+The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with atorvastatin calcium in placebo controlled trials (n=8,755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6.0%), and urinary tract infection (5.7%).
 
-Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
+Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8,755), from seventeen placebo-controlled trials.
 
 Table 3.
 Clinical adverse reactions occurring in > 2% in patents treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients).
@@ -34,48 +34,35 @@ Clinical adverse reactions occurring in > 2% in patents treated with any dose of
 | Myalgia | 3.5 | 3.6 | 5.9 | 8.4 | 2.7 | 3.1 |
 | Insomnia | 3.0 | 2.8 | 1.1 | 5.3 | 2.8 | 2.9 |
 | Pharyngolaryngeal pain | 2.3 | 3.9 | 1.6 | 2.8 | 0.7 | 2.1 |
+| *Adverse Reaction > 2% in any dose greater than placebo |  |  |  |  |  |  |
 
-*Adverse Reaction > 2% in any dose greater than placebo
+Other adverse reactions reported in placebo-controlled studies include: Body as a whole: malaise, pyrexia; Digestive system: abdominal discomfort, eructation, flatulence, hepatitis, cholestasis; Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling; Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia; Nervous system: nightmare; Respiratory system: epistaxis; Skin and appendages: urticaria; Special senses: vision blurred, tinnitus; Urogenital system: white blood cells urine positive.
 
-Other adverse reactions reported in placebo-controlled studies include:
+Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT) In ASCOT [see Clinical Studies (14.1)] involving 10,305 participants (age range 40 to 80 years, 19% women; 94.6% Caucasians, 2.6% Africans, 1.5% South Asians, 1.3% mixed/other) treated with atorvastatin calcium 10 mg daily (n=5,168) or placebo (n=5,137), the safety and tolerability profile of the group treated with atorvastatin calcium was comparable to that of the group treated with placebo during a median of 3.3 years of follow-up.
 
-Body as a whole: malaise, pyrexia; Digestive system: abdominal discomfort, eructation, flatulence, hepatitis, cholestasis; Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling; Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia; Nervous system: nightmare; Respiratory system: epistaxis; Skin and appendages: urticaria; Special senses: vision blurred, tinnitus; Urogenital system: white blood cells urine positive.
-
-Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT)
-
-In ASCOT [see Clinical Studies (14.1)] involving 10,305 participants (age range 40 to 80 years, 19% women; 94.6% Caucasians, 2.6% Africans, 1.5% South Asians, 1.3% mixed/other) treated with atorvastatin calcium 10 mg daily (n=5,168) or placebo (n=5,137), the safety and tolerability profile of the group treated with atorvastatin calcium was comparable to that of the group treated with placebo during a median of 3.3 years of follow-up.
-
-Collaborative Atorvastatin Diabetes Study (CARDS)
-
-In CARDS [see Clinical Studies (14.1)] involving 2,838 subjects (age range 39 to 77 years, 32% women; 94.3% Caucasians, 2.4% South Asians, 2.3% Afro-Caribbean, 1.0% other) with type 2 diabetes treated with atorvastatin calcium 10 mg daily (n=1,428) or placebo (n=1,410), there was no difference in the overall frequency of adverse reactions or serious adverse reactions between the treatment groups during a median follow-up of 3.9 years.
+Collaborative Atorvastatin Diabetes Study (CARDS) In CARDS [see Clinical Studies (14.1)] involving 2,838 subjects (age range 39 to 77 years, 32% women; 94.3% Caucasians, 2.4% South Asians, 2.3% Afro-Caribbean, 1.0% other) with type 2 diabetes treated with atorvastatin calcium 10 mg daily (n=1,428) or placebo (n=1,410), there was no difference in the overall frequency of adverse reactions or serious adverse reactions between the treatment groups during a median follow-up of 3.9 years.
 No cases of rhabdomyolysis were reported.
 
-Treating to New Targets Study (TNT)
-
-In TNT [see Clinical Studies (14.1)] involving 10,001 subjects (age range 29 to 78 years, 19% women; 94.1% Caucasians, 2.9% Blacks, 1.0% Asians, 2.0% other) with clinically evident CHD treated with atorvastatin calcium 10 mg daily (n=5006) or atorvastatin calcium 80 mg daily (n=4995), there were more serious adverse reactions and discontinuations due to adverse reactions in the high-dose atorvastatin group (92, 1.8%; 497, 9.9%, respectively) as compared to the low-dose group (69, 1.4%; 404, 8.1%, respectively) during a median follow-up of 4.9 years.
+Treating to New Targets Study (TNT) In TNT [see Clinical Studies (14.1)] involving 10,001 subjects (age range 29 to 78 years, 19% women; 94.1% Caucasians, 2.9% Blacks, 1.0% Asians, 2.0% other) with clinically evident CHD treated with atorvastatin calcium 10 mg daily (n=5,006) or atorvastatin calcium 80 mg daily (n=4,995), there were more serious adverse reactions and discontinuations due to adverse reactions in the high-dose atorvastatin group (92, 1.8%; 497, 9.9%, respectively) as compared to the low-dose group (69, 1.4%; 404, 8.1%, respectively) during a median follow-up of 4.9 years.
 Persistent transaminase elevations (≥ 3 x ULN twice within 4 to 10 days) occurred in 62 (1.3%) individuals with atorvastatin 80 mg and in nine (0.2%) individuals with atorvastatin 10 mg.
 Elevations of CK (≥ 10 x ULN) were low overall, but were higher in the high-dose atorvastatin treatment group (13, 0.3%) compared to the low-dose atorvastatin group (6, 0.1%).
 
-Incremental Decrease in Endpoints through Aggressive Lipid Lowering Study (IDEAL)
+Incremental Decrease in Endpoints through Aggressive Lipid Lowering Study (IDEAL) In IDEAL [see Clinical Studies (14.1)] involving 8,888 subjects (age range 26 to 80 years, 19% women; 99.3% Caucasians, 0.4% Asians, 0.3% Blacks, 0.04% other) treated with atorvastatin calcium 80 mg/day (n=4,439) or simvastatin 20 mg to 40 mg daily (n=4,449), there was no difference in the overall frequency of adverse reactions or serious adverse reactions between the treatment groups during a median follow-up of 4.8 years.
 
-In IDEAL [see Clinical Studies (14.1)] involving 8,888 subjects (age range 26 to 80 years, 19% women; 99.3% Caucasians, 0.4% Asians, 0.3% Blacks, 0.04% other) treated with atorvastatin calcium 80 mg/day (n=4439) or simvastatin 20 to 40 mg daily (n=4449), there was no difference in the overall frequency of adverse reactions or serious adverse reactions between the treatment groups during a median follow-up of 4.8 years.
-
-Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL)
-
-In SPARCL involving 4731 subjects (age range 21 to 92 years, 40% women; 93.3% Caucasians, 3.0% Blacks, 0.6% Asians, 3.1% other) without clinically evident CHD but with a stroke or transient ischemic attack (TIA) within the previous 6 months treated with atorvastatin calcium 80 mg (n=2365) or placebo (n=2366) for a median follow-up of 4.9 years, there was a higher incidence of persistent hepatic transaminase elevations (≥ 3 x ULN twice within 4 to 10 days) in the atorvastatin group (0.9%) compared to placebo (0.1%).
+Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) In SPARCL involving 4,731 subjects (age range 21 to 92 years, 40% women; 93.3% Caucasians, 3.0% Blacks, 0.6% Asians, 3.1% other) without clinically evident CHD but with a stroke or transient ischemic attack (TIA) within the previous 6 months treated with atorvastatin calcium 80 mg (n=2,365) or placebo (n=2,366) for a median follow-up of 4.9 years, there was a higher incidence of persistent hepatic transaminase elevations (≥ 3 x ULN twice within 4 to 10 days) in the atorvastatin group (0.9%) compared to placebo (0.1%).
 Elevations of CK (>10 x ULN) were rare, but were higher in the atorvastatin group (0.1%) compared to placebo (0.0%).
 Diabetes was reported as an adverse reaction in 144 subjects (6.1%) in the atorvastatin group and 89 subjects (3.8%) in the placebo group [see Warnings and Precautions (5.5)].
 
-In a post-hoc analysis, atorvastatin calcium 80 mg reduced the incidence of ischemic stroke (218/2365, 9.2% vs. 274/2366, 11.6%) and increased the incidence of hemorrhagic stroke (55/2365, 2.3% vs. 33/2366, 1.4%) compared to placebo.
+In a post-hoc analysis, atorvastatin calcium 80 mg reduced the incidence of ischemic stroke (218/2,365, 9.2% vs. 274/2,366, 11.6%) and increased the incidence of hemorrhagic stroke (55/2,365, 2.3% vs. 33/2,366, 1.4%) compared to placebo.
 The incidence of fatal hemorrhagic stroke was similar between groups (17 atorvastatin calcium vs. 18 placebo).
 The incidence of non-fatal hemorrhagic strokes was significantly greater in the atorvastatin group (38 non-fatal hemorrhagic strokes) as compared to the placebo group (16 non-fatal hemorrhagic strokes).
-Subjects who entered the study with a hemorrhagic stroke appeared to be at increased risk for hemorrhagic stroke [7 (16%) atorvastatin calcium vs. 2 (4%) placebo].
+Subjects who entered the study with a hemorrhagic stroke appeared to beat increased risk for hemorrhagic stroke [7 (16%) atorvastatin calcium vs. 2 (4%) placebo].
 
 There were no significant differences between the treatment groups for all-cause mortality: 216 (9.1%) in the atorvastatin calcium 80 mg/day group vs. 211 (8.9%) in the placebo group.
 The proportions of subjects who experienced cardiovascular death were numerically smaller in the atorvastatin calcium 80 mg group (3.3%) than in the placebo group (4.1%).
 The proportions of subjects who experienced non-cardiovascular death were numerically larger in the atorvastatin calcium 80 mg group (5.0%) than in the placebo group (4.0%).
 
-Adverse Reactions from Clinical Studies of Atorvastatin Calcium in Pediatric Patients In a 26-week controlled study in boys and postmenarchal girls with HeFH (ages 10 years to17 years) (n=140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of Atorvastatin calcium 10 to 20 mg daily, as an adjunct to diet to reduce total cholesterol, LDL-C, and apoB levels, was generally similar to that of placebo [see Use in Special Populations (8.4) and Clinical Studies(14.6)].
+Adverse Reactions from Clinical Studies of Atorvastatin Calcium in Pediatric Patients In a 26-week controlled study in boys and postmenarchal girls with HeFH (ages 10 years to 17 years) (n=140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin calcium 10 mg to 20 mg daily, as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels, was generally similar to that of placebo [see Use in Special Populations (8.4) and Clinical Studies (14.6)].
 
 ## 6.2 Postmarketing Experience
 
