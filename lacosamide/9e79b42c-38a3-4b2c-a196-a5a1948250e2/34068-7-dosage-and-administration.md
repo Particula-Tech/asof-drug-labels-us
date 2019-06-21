@@ -73,7 +73,12 @@ Dose reduction may be necessary in patients with hepatic impairment who are taki
 
 ## 2.5 Administration Instructions for VIMPAT Tablets and Oral Solution
 
-VIMPAT may be taken with or without food.
+VIMPAT tablets and oral solution may be taken with or without food.
+
+VIMPAT Tablets
+
+VIMPAT tablets should be swallowed whole with liquid.
+Do not divide VIMPAT tablets.
 
 VIMPAT Oral Solution
 
