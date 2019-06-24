@@ -144,6 +144,7 @@ Clopidogrel tablets can cause serious side effects including:
 - stomach area (abdominal) pain
 - nausea, vomiting, or diarrhea
 - vision changes
+- Persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
@@ -203,7 +204,7 @@ Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 1018
+Revised: 0519
 
 Dispense with Medication Guide available at:
 
