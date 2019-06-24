@@ -13,7 +13,7 @@ For OA, the dosage is 200 mg per day administered as a single dose or as 100 mg 
 
 ## 2.3 Rheumatoid Arthritis
 
-For RA, the dosage is 100 to 200 mg twice daily.
+For RA, the dosage is 100 mg to 200 mg twice daily.
 
 ## 2.4 Juvenile Rheumatoid Arthritis
 

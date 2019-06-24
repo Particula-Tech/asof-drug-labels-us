@@ -24,21 +24,21 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
   - anytime during use
   - without warning symptoms
   - that may cause death
-
-The risk of getting an ulcer or bleeding increases with:
-
-- past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
-- taking medicines called "corticosteroids", "anticoagulants", "SSRIs" or "SNRIs"
-- increasing doses of NSAIDs
-- longer use of NSAIDs
-- smoking
-- drinking alcohol
-- older age
-- poor health
-- advanced liver disease
-- bleeding problems
-
-NSAIDs should only be used:
+- The risk of getting an ulcer or bleeding increases with:
+  - past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
+  - taking medicines called "corticosteroids", "antiplatelet drugs",, "anticoagulants", "SSRIs" or "SNRIs"
+  - increasing doses of NSAIDs
+  - longer use of NSAIDs
+  - smoking
+  - drinking alcohol
+  - older age
+  - poor health
+  - advanced liver disease
+  - bleeding problems
+- NSAIDs should only be used:
+  - exactly as prescribed
+  - at the lowest dose possible for your treatment
+  - for the shortest time needed
 
 - exactly as prescribed
 - at the lowest dose possible for your treatment
@@ -151,4 +151,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: June 11, 2016 ID#: 247377
+Revised: July 2019 ID#: 260972
