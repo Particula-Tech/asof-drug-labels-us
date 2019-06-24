@@ -109,11 +109,9 @@ Acceptable Quality Control Ranges for Nitrofurantoin
 | QC Strain | Acceptable Quality Control Ranges |  |
 | --- | --- | --- |
 | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |  |
-| Escherichia coli | 4 to 16 | 20 to 25 |
-| ATCC 25922 |  |  |
-| Enterococcus faecalis | 4 to 16 | NANot applicable |
-| ATCC 29212 |  |  |
-| Staphylococcus aureus | 8 to 32 | NA |
-| ATCC 29213 |  |  |
-| Staphylococcus aureus | NA | 18 to 22 |
-| ATCC 25923 |  |  |
+| Escherichia coli ATCC 25922 | 4 to 16 | 20 to 25 |
+| Enterococcus faecalis ATCC 29212 | 4 to 16 | NAa |
+| Staphylococcus aureus ATCC 29213 | 8 to 32 | NAa |
+| Staphylococcus aureus ATCC 25923 | NAa | 18 to 22 |
+
+aNot applicable

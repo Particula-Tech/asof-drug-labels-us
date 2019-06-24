@@ -1,19 +1,3 @@
 # PRINCIPAL DISPLAY PANEL - 50 mg
 
-NDC 0115-1643-01
-
-NITROFURANTOIN Capsules USP (Macrocrystals)
-
-50 mg
-
-Rx only 100 CAPSULES
-
 # PRINCIPAL DISPLAY PANEL - 100 mg
-
-NDC 0115-1645-01
-
-NITROFURANTOIN Capsules USP (Macrocrystals)
-
-50 mg
-
-Rx only 100 CAPSULES
