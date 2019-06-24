@@ -9,7 +9,7 @@ The following serious adverse reactions are discussed in more detail in other se
 - Behavioral and Mood Disturbances [see Warnings and Precautions (5.5)]
 - Effects on Bones [see Warnings and Precautions (5.6)]
 - Ophthalmic Effects [see Warnings and Precautions (5.7)]
-- Vaccination [see Warnings and Precautions (5.8)]
+- Immunizations [see Warnings and Precautions (5.8)]
 - Serious Skin Rashes [see Warnings and Precautions (5.9)]
 - Effects on Growth and Development [see Warnings and Precautions (5.10)]
 - Myopathy [see Warnings and Precautions (5.11)]
@@ -49,7 +49,7 @@ Common adverse reactions (≥ 5% of deflazacort-treated patients) that occurred 
 
 Study 1 also evaluated a higher dosage of deflazacort (1.2 mg/kg/day).
 Compared with the 0.9 mg/kg/day dosage, deflazacort 1.2 mg/kg/day over 52 weeks was associated with a higher incidence of certain adverse reactions, including Cushingoid appearance (69%), erythema (49%), hirsutism (37%), headache (34%), weight increased (32%), constipation (15%), abdominal pain upper (14%), skin striae (11%), acne (11%), and abdominal discomfort (8%).
-As there was no additional benefit with the 1.2 mg/kg/day dose of deflazacort, use of EMFLAZA 1.2 mg/kg/day is not recommended for the treatment of DMD [see Dosage and Administration (2.1)].
+As there was no additional benefit with the 1.2 mg/kg/day dose of deflazacort, use of EMFLAZA 1.2 mg/kg/day is not recommended for the treatment of DMD [see Dosage and Administration (2.2)].
 
 In an additional clinical study of two years duration with extended follow-up (Study 2), many of the same adverse reactions were observed.
 In addition, musculoskeletal events associated with long-term steroid use were also observed, including muscle weakness, tendon disorder, and osteopenia.

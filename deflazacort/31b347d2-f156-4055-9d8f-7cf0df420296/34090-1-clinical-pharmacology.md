@@ -21,8 +21,8 @@ Elimination Metabolism Deflazacort is rapidly converted to the active metabolite
 Excretion Urinary excretion is the predominant route of deflazacort elimination (about 68% of the dose), and the elimination is almost completed by 24 hours post dose.
 21-desDFZ accounts for 18% of the eliminated drug in the urine.
 
-Specific Populations Pediatric Patients The Cmax values (Geometric mean, %CV) of 21-desDFZ in children (ages 5-11, N=16) and adolescents (ages 12-16, N=8) was 206 ng/mL (95.6%) and 381 ng/mL (37.7%), respectively, on Day 1 after administration of 0.9 mg/kg deflazacort.
-The AUCinf (Geometric mean, %CV) of 21-desDFZ in children (ages 5-11, N=16) and adolescents (ages 12-16, N=8) was 400 ng•h/mL (87.5%) and 655 ng•h/mL (58.1%) on Day 1 after administration of 0.9 mg/kg deflazacort.
+Specific Populations Pediatric Patients The Cmax values (Geometric mean, %CV) of 21-desDFZ in children (ages 4-11, N=16) and adolescents (ages 12-16, N=8) was 206 ng/mL (95.6%) and 381 ng/mL (37.7%), respectively, on Day 1 after administration of 0.9 mg/kg deflazacort.
+The AUCinf (Geometric mean, %CV) of 21-desDFZ in children (ages 4-11, N=16) and adolescents (ages 12-16, N=8) was 400 ng•h/mL (87.5%) and 655 ng•h/mL (58.1%) on Day 1 after administration of 0.9 mg/kg deflazacort.
 
 Male and Female Patients There are no differences in the pharmacokinetics of 21-desDFZ between males and females.
 
@@ -38,7 +38,7 @@ Drug Interaction Studies
 In Vivo Assessment of Drug Interactions
 
 Compared to administration of deflazacort alone, administration of deflazacort following multiple doses of a strong CYP3A4 and Pgp inhibitor (clarithromycin) resulted in markedly higher Cmax, AUClast, and AUCinf values of 21-desDFZ.
-Geometric mean exposure (Cmax, AUClast, and AUCinf) of 21-desDFZ ranged from 2.3-fold to 3.4-fold higher following administration of clarithromycin [see Dosage and Administration (2.4].
+Geometric mean exposure (Cmax, AUClast, and AUCinf) of 21-desDFZ ranged from 2.3-fold to 3.4-fold higher following administration of clarithromycin [see Dosage and Administration (2.5].
 
 Compared to administration of deflazacort alone, administration of deflazacort following multiple doses of a strong CYP3A4 inducer (rifampicin) resulted in markedly lower Cmax, AUClast, and AUCinf values of 21-desDFZ.
 Geometric mean exposures (Cmax, AUClast, and AUCinf) of 21-desDFZ were approximately 95% lower following administration of rifampin [see Drug Interactions (7.1)].

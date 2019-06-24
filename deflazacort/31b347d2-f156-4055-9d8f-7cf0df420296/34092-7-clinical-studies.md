@@ -20,7 +20,7 @@ Table 2: Analysis of Change from Baseline at Week 12 in Average Muscle Strength 
 | Placebo | 50 | -0.10 (-0.23, 0.03) |  |
 
 Compared with the deflazacort 0.9 mg/kg/day group, the deflazacort 1.2 mg/kg/day group demonstrated a small additional benefit compared to placebo at Week 12, but had a greater incidence of adverse reactions.
-Therefore, use of a 1.2 mg/kg/day dosage of EMFLAZA is not recommended [see Dosage and Administration (2.1)].
+Therefore, use of a 1.2 mg/kg/day dosage of EMFLAZA is not recommended [see Dosage and Administration (2.2)].
 
 Although not a pre-specified statistical analysis, compared with placebo, the deflazacort 0.9 mg/kg/day dose group demonstrated at Week 52 the persistence of the treatment effect observed at Week 12 and the small advantage of the 1.2 mg/kg/day dose that was observed at Week 12 was no longer present.
 Also not statistically controlled for multiple comparisons, results on several timed measures of patient function (i.e., time to stand from supine, time to climb 4 stairs, and time to walk or run 30 feet) numerically favored deflazacort 0.9 mg/kg/day at Week 12, in comparison with placebo.

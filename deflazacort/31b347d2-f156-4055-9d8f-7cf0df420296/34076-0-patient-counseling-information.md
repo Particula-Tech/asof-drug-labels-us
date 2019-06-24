@@ -4,7 +4,7 @@ Advise the patients and/or caregivers to read the FDA-approved patient labeling 
 
 Administration
 
-- Warn patients and/or caregivers to not stop taking EMFLAZA abruptly or without first checking with their healthcare providers as there may be a need for gradual dose reduction to decrease the risk of adrenal insufficiency [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
+- Warn patients and/or caregivers to not stop taking EMFLAZA abruptly or without first checking with their healthcare providers as there may be a need for gradual dose reduction to decrease the risk of adrenal insufficiency [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 - EMFLAZA may be taken with or without food.
 
 Tablets
@@ -33,8 +33,10 @@ Decreases in Bone Mineral Density Advise patients and/or caregivers about the ri
 
 Ophthalmic Effects Inform patients and/or caregivers that EMFLAZA may cause cataracts or glaucoma and advise monitoring if corticosteroid therapy is continued for more than 6 weeks [see Warnings and Precautions (5.7)].
 
-Vaccination Advise patients and/or caregivers that the administration of live or live attenuated vaccines are not recommended.
-Inform them that killed or inactivated vaccines may be administered, but the responses cannot be predicted [see Warnings and Precautions (5.8)].
+Vaccination Advise patients and/or caregivers to bring immunizations up-to-date according to immunization guidelines prior to starting therapy with EMFLAZA.
+Live-attenuated or live vaccines should be administered at least 4 to 6 weeks prior to starting EMFLAZA.
+Inform patients and/or caregivers that they may receive concurrent vaccinations with use of EMFLAZA, except for live-attenuated or live vaccines.
+[see Warnings and Precautions (5.8)].
 
 Serious Skin Rashes Instruct patients and/or caregivers to seek medical attention at the first sign of a rash [see Warnings and Precautions (5.9)].
 
@@ -47,6 +49,3 @@ Manufactured for: PTC Therapeutics, Inc. South Plainfield, NJ 07080 U.S.A.
 EMFLAZA Oral Suspension made in Spain
 
 EMFLAZA® is a trademark of PTC Therapeutics, Inc.
-
-Apr.
-2019

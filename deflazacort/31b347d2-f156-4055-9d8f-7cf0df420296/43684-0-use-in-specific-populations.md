@@ -28,17 +28,21 @@ There are no data on the effects on milk production.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of EMFLAZA for the treatment of DMD have been established in patients 5 years of age and older.
-Use of EMFLAZA in pediatric patients is supported by a multicenter, randomized, double-blind, placebo- and active-controlled study in 196 males [see Clinical Studies (14)].
+The safety and effectiveness of EMFLAZA for the treatment of DMD have been established in patients 2 years of age and older.
+Use of EMFLAZA in pediatric patients is supported by a multicenter, randomized, double-blind, placebo- and active-controlled study in 196 males 5 to 15 years of age [see Clinical Studies (14)].
+Use of EMFLAZA in patients 2 years to less than 5 years of age is supported by the findings of efficacy and safety in patients 5 years and older with DMD.
 
-Safety and effectiveness of EMFLAZA have not been established in pediatric patients less than 5 years of age.
+Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
 
-EMFLAZA Oral Suspension contains benzyl alcohol and is not approved for use in pediatric patients less than 5 years of age.
+EMFLAZA Oral Suspension contains benzyl alcohol and is not approved for use in pediatric patients less than 2 years of age.
 Serious adverse reactions including fatal reactions and “gasping syndrome” occurred in premature neonates and low birth weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
 In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
 Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
-The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (EMFLAZA Oral Suspension contains 10.45 mg of benzyl alcohol per mL; EMFLAZA Tablets do not contain benzyl alcohol) [see Warnings and Precautions (5.13)].
+
+When prescribing EMFLAZA Oral Suspension consider the combined daily metabolic load of benzyl alcohol from all sources including EMFLAZA Oral Suspension (EMFLAZA Oral Suspension contains 10.45 mg of benzyl alcohol per mL; EMFLAZA Tablets do not contain benzyl alcohol) and other drugs containing benzyl alcohol.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known.
+At the recommended dose of 0.9 mg/kg/day of EMFLAZA Oral Suspension, patients would receive approximately 0.4 mg/kg/day of benzyl alcohol [see Warnings and Precautions (5.13)].
 
 Juvenile Animal Toxicity Data Oral administration of deflazacort (0, 0.1, 0.3, and 1.0 mg/kg/day) to juvenile rats from postnatal day (PND) 21 to 80 resulted in decreased body weight gain and adverse effects on skeletal development (including decreased cellularity of growth plate and altered bone distribution) and on lymphoid tissue (decreased cellularity).
 A no-effect dose was not identified.

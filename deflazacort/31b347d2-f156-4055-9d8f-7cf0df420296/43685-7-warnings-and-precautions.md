@@ -102,14 +102,11 @@ Corticosteroids are not recommended for patients with active ocular herpes simpl
 Intraocular pressure may become elevated in some patients taking corticosteroids.
 If treatment with EMFLAZA is continued for more than 6 weeks, monitor intraocular pressure.
 
-## 5.8 Vaccination
+## 5.8 Immunizations
 
-Administration of live or live attenuated vaccines is not recommended in patients receiving immunosuppressive doses of corticosteroids, including EMFLAZA.
-Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
-
-Killed or inactivated vaccines may be administered during corticosteroid therapy; however, the response to such vaccines cannot be predicted.
-
-Patients on corticosteroid therapy, including EMFLAZA, may exhibit a diminished response to toxoids and live or inactivated vaccines because of inhibition of antibody response.
+Administer all immunizations according to immunization guidelines prior to starting EMFLAZA.
+Administer live-attenuated or live vaccines at least 4 to 6 weeks prior to starting EMFLAZA.
+Patients on EMFLAZA may receive concurrent vaccinations, except for live-attenuated or live vaccines.
 
 ## 5.9 Serious Skin Rashes
 
@@ -134,10 +131,12 @@ Discontinuation of corticosteroids may result in clinical improvement.
 
 ## 5.13 Risk of Serious Adverse Reactions in Infants because of Benzyl Alcohol Preservative
 
-EMFLAZA Oral Suspension contains benzyl alcohol and is not approved for use in pediatric patients less than 5 years of age.
-Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs.
+EMFLAZA Oral Suspension contains benzyl alcohol and is not approved for use in pediatric patients less than 2 years of age.
+Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs, including EMFLAZA.
 The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
-The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (EMFLAZA Oral Suspension contains 10.45 mg of benzyl alcohol per mL; EMFLAZA Tablets do not contain benzyl alcohol) [see Use in Specific Populations (8.4)].
+When prescribing EMFLAZA Oral Suspension, consider the combined daily metabolic load of benzyl alcohol from all sources, including EMFLAZA Oral Suspension (EMFLAZA Oral Suspension contains 10.45 mg of benzyl alcohol per mL; EMFLAZA Tablets do not contain benzyl alcohol) and other drugs containing benzyl alcohol.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known.
+At the recommended dose of 0.9 mg/kg/day of EMFLAZA Oral Suspension, patients would receive approximately 0.4 mg/kg/day of benzyl alcohol [see Use in Specific Populations (8.4)].
 
 ## 5.14 Thromboembolic Events
 
