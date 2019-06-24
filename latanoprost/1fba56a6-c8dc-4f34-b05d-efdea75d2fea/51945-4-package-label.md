@@ -1,11 +1,21 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 61314-547-01 Rx Only
+NDC 61314-547-01
 
-Latanoprost Ophthalmic Solution, 0.005%
+Latanoprost
+
+Ophthalmic
+
+Solution
+
+0.005%
 
 FOR USE IN THE EYES ONLY
 
+Rx Only
+
 STERILE
 
-125 μg/2.5 mL
+125 mcg/2.5 mL
+
+SANDOZ

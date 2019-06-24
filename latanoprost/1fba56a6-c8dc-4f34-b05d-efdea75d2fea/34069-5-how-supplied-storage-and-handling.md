@@ -14,21 +14,3 @@ Protect from light.
 Store unopened bottle(s) under refrigeration at 2° to 8°C (36° to 46°F).
 During shipment to the patient, the bottle may be maintained at temperatures up to 40°C (104°F) for a period not exceeding 8 days.
 Once a bottle is opened for use, it may be stored at room temperature up to 25°C (77°F) for 6 weeks.
-
-Rx only
-
-*DROP-TAINER® is a registered trademark of Alcon Research, Ltd.
-
-Manufactured by
-
-Alcon Laboratories, Inc.
-
-Fort Worth, Texas 76134 for
-
-Sandoz Inc., Princeton, NJ 08540
-
-Revised: November 2017
-
-9015404
-
-9015669

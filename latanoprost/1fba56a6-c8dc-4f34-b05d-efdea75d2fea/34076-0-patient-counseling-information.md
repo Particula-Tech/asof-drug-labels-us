@@ -30,18 +30,10 @@ Use with Other Ophthalmic Drugs
 
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
 
-Manufactured by
-
-Alcon Laboratories, Inc.
+Manufactured by Alcon Laboratories, Inc.
 
 Fort Worth, Texas 76134 for
 
-Sandoz Inc.
-
-Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540
 
 Revised: November 2017
-
-9015404
-
-9015669
