@@ -48,13 +48,10 @@ Instruct patients to be alert for signs and symptoms of urinary retention (e.g.,
 Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
 Trademarks are owned by or licensed to the GSK group of companies.
-
 ANORO ELLIPTA was developed in collaboration with Innoviva.
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline Research Triangle Park, NC 27709
 
 ©2019 GSK group of companies or its licensor.
 
-ANR:6PI
+ANR:7PI

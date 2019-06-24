@@ -14,14 +14,14 @@ The following adverse reactions are described in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The clinical program for ANORO ELLIPTA included 8,138 subjects with COPD in four 6-month lung function trials, one 12-month long-term safety study, and 9 other trials of shorter duration.
+The clinical program for ANORO ELLIPTA included 8,138 subjects with COPD in four 6‑month lung function trials, one 12-month long-term safety study, and 9 other trials of shorter duration.
 A total of 1,124 subjects have received at least 1 dose of ANORO ELLIPTA (umeclidinium/vilanterol 62.5 mcg/25 mcg), and 1,330 subjects have received a higher dose of umeclidinium/vilanterol (125 mcg/25 mcg).
-The safety data described below are based on the four 6-month and the one 12-month trials.
+The safety data described below are based on the four 6-month and two 12-month trials.
 Adverse reactions observed in the other trials were similar to those observed in the confirmatory trials.
 
 6-Month Trials
 
-The incidence of adverse reactions associated with ANORO ELLIPTA in Table 1 is based on four 6-month trials: 2 placebo-controlled trials (Trials 1 and 2; n = 1,532 and n = 1,489, respectively) and 2 active-controlled trials (Trials 3 and 4; n = 843 and n = 869, respectively).
+The incidence of adverse reactions associated with ANORO ELLIPTA in Table 1 is based on four 6-month trials: 2 placebo-controlled trials (Trial 1, NCT #01313650 and Trial 2, NCT #01313637); N = 1,532 and N = 1,489, respectively) and 2 active-controlled trials (Trial 3, NCT #01316900 and Trial 4, NCT #01316913); N = 843 and N = 869, respectively).
 Of the 4,733 subjects, 68% were male and 84% were white.
 They had a mean age of 63 years and an average smoking history of 45 pack-years, with 50% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted forced expiratory volume in 1 second (FEV1) was 48% (range: 13% to 76%), the mean postbronchodilator FEV1/forced vital capacity (FVC) ratio was 0.47 (range: 0.13 to 0.78), and the mean percent reversibility was 14% (range: -45% to 109%).
@@ -49,11 +49,11 @@ Adverse Reactions with ANORO ELLIPTA with ≥1% Incidence and More Common than P
 
 Other adverse reactions with ANORO ELLIPTA observed with an incidence <1% but more common than placebo included the following: productive cough, dry mouth, dyspepsia, abdominal pain, gastroesophageal reflux disease, vomiting, musculoskeletal chest pain, chest discomfort, asthenia, atrial fibrillation, ventricular extrasystoles, supraventricular extrasystoles, myocardial infarction, pruritus, rash, and conjunctivitis.
 
-12-Month Trial
+12-Month Trials
 
-In a long-term safety trial, 335 subjects were treated for up to 12 months with umeclidinium/vilanterol 125 mcg/25 mcg or placebo.
+In a long-term safety trial (Trial 5, NCT #01316887), 335 subjects were treated for up to 12 months with umeclidinium/vilanterol 125 mcg/25 mcg or placebo.
 The demographic and baseline characteristics of the long-term safety trial were similar to those of the placebo-controlled efficacy trials described above.
-Adverse reactions that occurred with a frequency of ≥1% in the group receiving umeclidinium/vilanterol 125 mcg/25 mcg that exceeded that in placebo in this trial were: headache, back pain, sinusitis, cough, urinary tract infection, arthralgia, nausea, vertigo, abdominal pain, pleuritic pain, viral respiratory tract infection, toothache, and diabetes mellitus.
+Adverse reactions observed with a frequency of ≥1% in the group receiving umeclidinium/vilanterol 125 mcg/25 mcg that exceeded that in placebo in this trial were: headache, back pain, sinusitis, cough, urinary tract infection, arthralgia, nausea, vertigo, abdominal pain, pleuritic pain, viral respiratory tract infection, toothache, and diabetes mellitus.
 
 ## 6.2 Postmarketing Experience
 

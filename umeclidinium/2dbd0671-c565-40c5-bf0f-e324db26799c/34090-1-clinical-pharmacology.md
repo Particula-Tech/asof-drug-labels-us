@@ -12,7 +12,7 @@ Umeclidinium
 
 Umeclidinium is a long-acting muscarinic antagonist, which is often referred to as an anticholinergic.
 It has similar affinity to the subtypes of muscarinic receptors M1 to M5.
-In the airways, it exhibits pharmacological effects through inhibition of M3 receptor at the smooth muscle leading to bronchodilation.
+In the airways, it exhibits pharmacological effects through inhibition of M3 receptors at the smooth muscle leading to bronchodilation.
 The competitive and reversible nature of antagonism was shown with human and animal origin receptors and isolated organ preparations.
 In preclinical in vitro as well as in vivo studies, prevention of methacholine- and acetylcholine-induced bronchoconstrictive effects was dose-dependent and lasted longer than 24 hours.
 The clinical relevance of these findings is unknown.

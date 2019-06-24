@@ -2,47 +2,52 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C. There are no adequate and well-controlled trials of ANORO ELLIPTA or its individual components, umeclidinium and vilanterol, in pregnant women.
-Because animal reproduction studies are not always predictive of human response, ANORO ELLIPTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their healthcare providers if they become pregnant while taking ANORO ELLIPTA.
+There are insufficient data on the use of ANORO ELLIPTA or its individual components, umeclidinium and vilanterol, in pregnant women to inform a drug-associated risk.
+(See Clinical Considerations.)
+In animal reproduction studies, umeclidinium administered via inhalation or subcutaneously to pregnant rats and rabbits was not associated with adverse effects on embryofetal development at exposures approximately 50 and 200 times, respectively, the human exposure at the maximum recommended human daily inhaled dose (MRHDID).
+Vilanterol administered via inhalation to pregnant rats and rabbits produced no fetal structural abnormalities at exposures approximately 70 times the MRHDID.
+(See Data.)
 
-Umeclidinium: There was no evidence of teratogenic effects in rats and rabbits at approximately 50 and 200 times, respectively, the MRHDID (maximum recommended human daily inhaled dose) in adults (on an AUC basis at maternal inhaled doses up to 278 mcg/kg/day in rats and at maternal subcutaneous doses up to 180 mcg/kg/day in rabbits).
+The estimated risk of major birth defects and miscarriage for the indicated populations is unknown.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Vilanterol: There were no teratogenic effects in rats and rabbits at approximately 13,000 and 70 times, respectively, the MRHDID in adults (on a mcg/m2 basis at maternal inhaled doses up to 33,700 mcg/kg/day in rats and on an AUC basis at maternal inhaled doses up to 591 mcg/kg/day in rabbits).
-However, fetal skeletal variations were observed in rabbits at approximately 450 times the MRHDID in adults (on an AUC basis at maternal inhaled or subcutaneous doses of 5,740 or 300 mcg/kg/day, respectively).
+Clinical Considerations
+
+Labor and Delivery: There are no human studies evaluating the effects of ANORO ELLIPTA, umeclidinium, or vilanterol during labor and delivery.
+Because of the potential for beta-agonist interference with uterine contractility, use of ANORO ELLIPTA during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
+
+Data
+
+Animal Data: The combination of umeclidinium and vilanterol has not been studied in pregnant animals.
+Studies in pregnant animals have been conducted with umeclidinium and vilanterol individually.
+
+Umeclidinium: In separate embryofetal developmental studies, pregnant rats and rabbits received umeclidinium during the period of organogenesis at doses up to approximately 50 and 200 times the MRHDID, respectively (on an AUC basis at maternal inhalation doses up to 278 mcg/kg/day in rats and at maternal subcutaneous doses up to 180 mcg/kg/day in rabbits).
+No evidence of teratogenic effects was observed in either species.
+
+In a perinatal and postnatal developmental study in rats, dams received umeclidinium during late gestation and lactation periods with no evidence of effects on offspring development at doses up to approximately 26 times the MRHDID (on an AUC basis at maternal subcutaneous doses up to 60 mcg/kg/day).
+
+Vilanterol: In separate embryofetal developmental studies, pregnant rats and rabbits received vilanterol during the period of organogenesis at doses up to approximately 13,000 and 450 times, respectively, the MRHDID (on a mcg/m2 basis at maternal inhalation doses up to 33,700 mcg/kg/day in rats and on an AUC basis at maternal inhaled doses up to 5,740 mcg/kg/day in rabbits).
+No evidence of structural abnormalities was observed at any dose in rats or in rabbits up to approximately 70 times the MRHDID (on an AUC basis at maternal doses up to 591 mcg/kg/day in rabbits).
+However, fetal skeletal variations were observed in rabbits at approximately 450 times the MRHDID (on an AUC basis at maternal inhaled or subcutaneous doses of 5,740 or 300 mcg/kg/day, respectively).
 The skeletal variations included decreased or absent ossification in cervical vertebral centrum and metacarpals.
 
-Nonteratogenic Effects
+In a perinatal and postnatal developmental study in rats, dams received vilanterol during late gestation and the lactation periods at doses up to approximately 3,900 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 10,000 mcg/kg/day).
+No evidence of effects in offspring development was observed.
 
-Umeclidinium: There were no effects on perinatal and postnatal developments in rats at approximately 80 times the MRHDID in adults (on an AUC basis at maternal subcutaneous doses up to 180 mcg/kg/day).
+## 8.2 Lactation
 
-Vilanterol: There were no effects on perinatal and postnatal developments in rats at approximately 3,900 times the MRHDID in adults (on a mcg/m2 basis at maternal oral doses up to 10,000 mcg/kg/day).
+Risk Summary
 
-## 8.2 Labor and Delivery
+There is no information available on the presence of umeclidinium or vilanterol in human milk, the effects on the breastfed child, or the effects on milk production.
+Umeclidinium was detected in the plasma of offspring of lactating rats treated with umeclidinium suggesting its presence in maternal milk.
+(See Data.)
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ANORO ELLIPTA and any potential adverse effects on the breastfed child from umeclidinium or vilanterol or from the underlying maternal condition.
 
-There are no adequate and well-controlled human trials that have investigated the effects of ANORO ELLIPTA during labor and delivery.
+Data
 
-Because beta-agonists may potentially interfere with uterine contractility, ANORO ELLIPTA should be used during labor only if the potential benefit justifies the potential risk.
-
-## 8.3 Nursing Mothers
-
-ANORO ELLIPTA
-
-It is not known whether ANORO ELLIPTA is excreted in human breast milk.
-Because many drugs are excreted in human milk, caution should be exercised when ANORO ELLIPTA is administered to a nursing woman.
-Since there are no data from well-controlled human studies on the use of ANORO ELLIPTA by nursing mothers, based on the data for the individual components, a decision should be made whether to discontinue nursing or to discontinue ANORO ELLIPTA, taking into account the importance of ANORO ELLIPTA to the mother.
-
-Umeclidinium
-
-It is not known whether umeclidinium is excreted in human breast milk.
-However, administration to lactating rats at approximately 25 times the MRHDID in adults resulted in a quantifiable level of umeclidinium in 2 pups, which may indicate transfer of umeclidinium in milk.
-
-Vilanterol
-
-It is not known whether vilanterol is excreted in human breast milk.
-However, other beta2-agonists have been detected in human milk.
+Subcutaneous administration of umeclidinium to lactating rats at ≥60 mcg/kg/day resulted in a quantifiable level of umeclidinium in 2 of 54 pups, which may indicate transfer of umeclidinium in milk.
 
 ## 8.4 Pediatric Use
 
