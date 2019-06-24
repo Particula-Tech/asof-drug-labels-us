@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
 
-300 mL NDC 0409-4883-01
+300 mL NDC 0409-4883-11
 
 Linezolid Injection in 0.9% Sodium Chloride 600 mg/300 mL (2 mg/mL)
 
@@ -8,6 +8,7 @@ For Intravenous Infusion
 
 EACH ML CONTAINS LINEZOLID, 2 MG; CITRIC ACID ANHYDROUS, USP, 1.92 MG; SODIUM HYDROXIDE, 0.76 MG; SODIUM CHLORIDE, USP 9 MG IN WATER FOR INJECTION.
 ADJUST pH TO 4.4 - 5.2 WITH SODIUM HYDROXIDE AND/OR HYDROCHLORIC ACID.
+
 STERILE AND NON-PYROGENIC.
 SINGLE- DOSE CONTAINER.
 DOSAGE AND USE: SEE INSERT.
@@ -27,12 +28,26 @@ VisIV™ Container
 
 Rx ONLY
 
-IM-3631
-
 5 PP
+
+IM-5097
 
 HOSPIRA, INC., LAKE FOREST, IL 60045 USA
 
 Hospira
 
 SET
+
+# PRINCIPAL DISPLAY PANEL - 300 mL Pouch Label
+
+300 mL NDC 0409-4883-11
+
+Linezolid Injection in 0.9% Sodium Chloride
+
+600 mg/300 mL (2 mg/mL) For Intravenous Infusion
+
+Single-dose container
+
+F WR-1532
+
+Hospira, Inc., Lake Forest, IL 60045 USA Hospira
