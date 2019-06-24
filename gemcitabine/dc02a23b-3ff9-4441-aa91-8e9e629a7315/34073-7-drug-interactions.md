@@ -1,3 +1,0 @@
-# 7 DRUG INTERACTIONS
-
-No specific drug interaction studies have been conducted.
