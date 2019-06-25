@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210976"
+  ],
+  "inn": "penicillamine",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-4171-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "penicillamine",
+      "name": "Penicillamine"
+    }
+  ],
+  "setid": "594d7a82-af1d-41c4-98ee-0ea6895fc237",
+  "source": "dailymed"
+}
