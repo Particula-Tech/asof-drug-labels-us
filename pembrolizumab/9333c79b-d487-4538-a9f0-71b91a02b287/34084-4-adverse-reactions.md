@@ -16,11 +16,11 @@ The following clinically significant adverse reactions are described elsewhere i
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described in the WARNINGS AND PRECAUTIONS reflect exposure to KEYTRUDA as a single agent in 2799 patients in three randomized, open-label, active-controlled trials (KEYNOTE-002, KEYNOTE-006, and KEYNOTE-010), which enrolled 912 patients with melanoma and 682 patients with NSCLC, and one single-arm trial (KEYNOTE-001), which enrolled 655 patients with melanoma and 550 patients with NSCLC.
-In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAUTIONS describe adverse reactions observed with exposure to KEYTRUDA as a single agent in two randomized, open-label, active-controlled clinical trials (KEYNOTE-042 and KEYNOTE-024), which enrolled 790 patients with NSCLC; in a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), a non-randomized, open-label, single-cohort trial (KEYNOTE-055), and two randomized, open-label, active-controlled trials (KEYNOTE-040 and KEYNOTE-048 single agent arms), which enrolled 909 patients with HNSCC; in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087), which enrolled 241 patients with cHL; in combination with chemotherapy in a randomized, active-controlled trial (KEYNOTE-189), which enrolled 405 patients with nonsquamous NSCLC, in a randomized, open-label, active-controlled trial (KEYNOTE-048 combination arm), which enrolled 276 patients with HNSCC; in combination with axitinib in a randomized, active-controlled trial (KEYNOTE 426), which enrolled 429 patients with RCC; and in post-marketing use.
+In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAUTIONS describe adverse reactions observed with exposure to KEYTRUDA as a single agent in two randomized, open-label, active-controlled clinical trials (KEYNOTE-042 and KEYNOTE-024), which enrolled 790 patients with NSCLC; in a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), a non-randomized, open-label, single-cohort trial (KEYNOTE-055), and two randomized, open-label, active-controlled trials (KEYNOTE-040 and KEYNOTE-048 single agent arms), which enrolled 909 patients with HNSCC; in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087), which enrolled 241 patients with cHL; in combination with chemotherapy in a randomized, active-controlled trial (KEYNOTE-189), which enrolled 405 patients with nonsquamous NSCLC; in a randomized, open-label, active-controlled trial (KEYNOTE-048 combination arm), which enrolled 276 patients with HNSCC; in combination with axitinib in a randomized, active-controlled trial (KEYNOTE 426), which enrolled 429 patients with RCC; and in post-marketing use.
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in nine randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, and KEYNOTE 426) and eight non-randomized, open-label trials (KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, and KEYNOTE-017).
+The data described in this section were obtained in nine randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, and KEYNOTE 426) and nine non-randomized, open-label trials (KEYNOTE-028, KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, and KEYNOTE-017).
 The data described in this section also included a single randomized, double-blind, placebo-controlled trial (KEYNOTE-054) in which KEYTRUDA was administered for the adjuvant treatment of 509 patients with melanoma with involvement of lymph node(s) following complete surgical resection.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
@@ -95,7 +95,7 @@ The median duration of exposure to KEYTRUDA 2 mg/kg every 3 weeks was 3.7 months
 In the KEYTRUDA 2 mg/kg arm, 36% of patients were exposed to KEYTRUDA for ≥6 months and 4% were exposed for ≥12 months.
 In the KEYTRUDA 10 mg/kg arm, 41% of patients were exposed to KEYTRUDA for ≥6 months and 6% of patients were exposed to KEYTRUDA for ≥12 months.
 
-The study population characteristics were: median age of 62 years (range: 15 to 89); 61% male; 98% White; 41% with an elevated LDH value at baseline; 83% with M1c stage disease; 73% received two or more prior therapies for advanced or metastatic disease (100% received ipilimumab and 25% a BRAF inhibitor); and 15% with history of brain metastasis.
+The study population characteristics were: median age of 62 years (range: 15 to 89); 61% male; 98% White; 41% had an elevated LDH value at baseline; 83% had M1c stage disease; 73% received two or more prior therapies for advanced or metastatic disease (100% received ipilimumab and 25% a BRAF inhibitor); and 15% with history of brain metastasis.
 
 In KEYNOTE-002, the adverse reaction profile was similar for the 2 mg/kg dose and 10 mg/kg dose, therefore summary safety results are provided in a pooled analysis (n=357) of both KEYTRUDA arms.
 Adverse reactions resulting in permanent discontinuation occurred in 12% of patients receiving KEYTRUDA; the most common (≥1%) were general physical health deterioration (1%), asthenia (1%), dyspnea (1%), pneumonitis (1%), and generalized edema (1%).
@@ -397,11 +397,17 @@ Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of NSCLC Pat
 
 Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUDA were hyperglycemia (44% all Grades; 4.1% Grades 3-4), anemia (37% all Grades; 3.8% Grades 3-4), hypertriglyceridemia (36% all Grades; 1.8% Grades 3-4), lymphopenia (35% all Grades; 9% Grades 3-4), hypoalbuminemia (34% all Grades; 1.6% Grades 3-4), and hypercholesterolemia (20% all Grades; 0.7% Grades 3-4).
 
+SCLC
+
+Among the 131 patients with previously treated SCLC who received KEYTRUDA in KEYNOTE-158 Cohort G (n=107) and KEYNOTE-028 Cohort C1 (n=24) [see Clinical Studies (14.3)], the median duration of exposure to KEYTRUDA was 2 months (range: 1 day to 2.25 years).
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
+Adverse reactions occurring in patients with SCLC were similar to those occurring in patients with other solid tumors who received KEYTRUDA as a single agent.
+
 HNSCC
 
 First-line treatment of metastatic or unresectable, recurrent HNSCC
 
-The safety of KEYTRUDA, as a single agent and in combination with platinum (cisplatin or carboplatin) and FU chemotherapy, was investigated in KEYNOTE-048, a multicenter, open-label, randomized (1:1:1), active-controlled trial in patients with previously untreated, recurrent or metastatic HNSCC [see Clinical Studies (14.3)].
+The safety of KEYTRUDA, as a single agent and in combination with platinum (cisplatin or carboplatin) and FU chemotherapy, was investigated in KEYNOTE-048, a multicenter, open-label, randomized (1:1:1), active-controlled trial in patients with previously untreated, recurrent or metastatic HNSCC [see Clinical Studies (14.4)].
 Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 A total of 576 patients received KEYTRUDA 200 mg every 3 weeks either as a single agent (n=300) or in combination with platinum and FU (n=276) every 3 weeks for 6 cycles followed by KEYTRUDA, compared to 287 patients who received cetuximab weekly in combination with platinum and FU every 3 weeks for 6 cycles followed by cetuximab.
 
@@ -486,7 +492,7 @@ Table 15: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Previously treated recurrent or metastatic HNSCC
 
-Among the 192 patients with HNSCC enrolled in KEYNOTE-012 [see Clinical Studies (14.3)], the median duration of exposure to KEYTRUDA was 3.3 months (range: 1 day to 27.9 months).
+Among the 192 patients with HNSCC enrolled in KEYNOTE-012 [see Clinical Studies (14.4)], the median duration of exposure to KEYTRUDA was 3.3 months (range: 1 day to 27.9 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible for KEYNOTE-012.
 
 The study population characteristics were: median age of 60 years (range: 20 to 84), 35% age 65 or older; 83% male; and 77% White, 15% Asian, and 5% Black.
@@ -502,7 +508,7 @@ Adverse reactions occurring in patients with HNSCC were generally similar to tho
 
 cHL
 
-Among the 210 patients with cHL enrolled in KEYNOTE-087 [see Clinical Studies (14.4)], the median duration of exposure to KEYTRUDA was 8.4 months (range: 1 day to 15.2 months).
+Among the 210 patients with cHL enrolled in KEYNOTE-087 [see Clinical Studies (14.5)], the median duration of exposure to KEYTRUDA was 8.4 months (range: 1 day to 15.2 months).
 KEYTRUDA was discontinued due to adverse reactions in 5% of patients, and treatment was interrupted due to adverse reactions in 26%.
 Fifteen percent (15%) of patients had an adverse reaction requiring systemic corticosteroid therapy.
 Serious adverse reactions occurred in 16% of patients.
@@ -559,7 +565,7 @@ Hyperbilirubinemia occurred in less than 15% of patients on KEYNOTE-087 (10% all
 
 PMBCL
 
-Among the 53 patients with PMBCL treated in KEYNOTE-170 [see Clinical Studies (14.5)], the median duration of exposure to KEYTRUDA was 3.5 months (range: 1 day to 22.8 months).
+Among the 53 patients with PMBCL treated in KEYNOTE-170 [see Clinical Studies (14.6)], the median duration of exposure to KEYTRUDA was 3.5 months (range: 1 day to 22.8 months).
 
 KEYTRUDA was discontinued due to adverse reactions in 8% of patients, and treatment was interrupted due to adverse reactions in 15%.
 Twenty-five percent of patients had an adverse reaction requiring systemic corticosteroid therapy.
@@ -618,7 +624,7 @@ Urothelial Carcinoma
 Cisplatin Ineligible Patients with Urothelial Carcinoma
 
 The safety of KEYTRUDA was investigated in KEYNOTE-052, a single-arm trial that enrolled 370 patients with locally advanced or metastatic urothelial carcinoma who were not eligible for cisplatin-containing chemotherapy.
-Patients with autoimmune disease or medical conditions that required systemic corticosteroids or other immunosuppressive medications were ineligible [see Clinical Studies (14.6)].
+Patients with autoimmune disease or medical conditions that required systemic corticosteroids or other immunosuppressive medications were ineligible [see Clinical Studies (14.7)].
 Patients received KEYTRUDA 200 mg every 3 weeks until unacceptable toxicity or either radiographic or clinical disease progression.
 
 The median duration of exposure to KEYTRUDA was 2.8 months (range: 1 day to 15.8 months).
@@ -674,7 +680,7 @@ Table 20: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA i
 Previously Treated Urothelial Carcinoma
 
 The safety of KEYTRUDA for the treatment of patients with locally advanced or metastatic urothelial carcinoma with disease progression following platinum-containing chemotherapy was investigated in KEYNOTE-045.
-KEYNOTE-045 was a multicenter, open-label, randomized (1:1), active-controlled trial in which 266 patients received KEYTRUDA 200 mg every 3 weeks or investigator's choice of chemotherapy (n=255), consisting of paclitaxel (n=84), docetaxel (n=84) or vinflunine (n=87) [see Clinical Studies (14.6)].
+KEYNOTE-045 was a multicenter, open-label, randomized (1:1), active-controlled trial in which 266 patients received KEYTRUDA 200 mg every 3 weeks or investigator's choice of chemotherapy (n=255), consisting of paclitaxel (n=84), docetaxel (n=84) or vinflunine (n=87) [see Clinical Studies (14.7)].
 Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
 
 The median duration of exposure was 3.5 months (range: 1 day to 20 months) in patients who received KEYTRUDA and 1.5 months (range: 1 day to 14 months) in patients who received chemotherapy.
@@ -736,13 +742,13 @@ Table 22: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Gastric Cancer
 
-Among the 259 patients with gastric cancer enrolled in KEYNOTE-059 [see Clinical Studies (14.8)], the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 21.4 months).
+Among the 259 patients with gastric cancer enrolled in KEYNOTE-059 [see Clinical Studies (14.9)], the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 21.4 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression or with clinical evidence of ascites by physical exam were ineligible.
 Adverse reactions occurring in patients with gastric cancer were similar to those occurring in patients with melanoma or NSCLC.
 
 Cervical Cancer
 
-Among the 98 patients with cervical cancer enrolled in Cohort E of KEYNOTE-158 [see Clinical Studies (14.9)], the median duration of exposure to KEYTRUDA was 2.9 months (range: 1 day to 22.1 months).
+Among the 98 patients with cervical cancer enrolled in Cohort E of KEYNOTE-158 [see Clinical Studies (14.10)], the median duration of exposure to KEYTRUDA was 2.9 months (range: 1 day to 22.1 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
 KEYTRUDA was discontinued due to adverse reactions in 8% of patients.
@@ -807,25 +813,25 @@ Other laboratory abnormalities occurring in ≥10% of patients receiving KEYTRUD
 
 HCC
 
-Among the 104 patients with HCC who received KEYTRUDA in KEYNOTE-224 [see Clinical Studies (14.10)], the median duration of exposure to KEYTRUDA was 4.2 months (range: 1 day to 1.5 years).
+Among the 104 patients with HCC who received KEYTRUDA in KEYNOTE-224 [see Clinical Studies (14.11)], the median duration of exposure to KEYTRUDA was 4.2 months (range: 1 day to 1.5 years).
 Adverse reactions occurring in patients with HCC were generally similar to those in patients with melanoma or NSCLC, with the exception of increased incidences of ascites (8% Grades 3-4) and immune-mediated hepatitis (2.9%).
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (20%), ALT (9%), and hyperbilirubinemia (10%).
 
 MCC
 
-Among the 50 patients with MCC enrolled in KEYNOTE-017 [see Clinical Studies (14.11)], the median duration of exposure to KEYTRUDA was 6.6 months (range 1 day to 23.6 months).
+Among the 50 patients with MCC enrolled in KEYNOTE-017 [see Clinical Studies (14.12)], the median duration of exposure to KEYTRUDA was 6.6 months (range 1 day to 23.6 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MCC were similar to those occurring in patients with melanoma or NSCLC.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (11%) and hyperglycemia (19%).
 
 RCC
 
-The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.12)].
+The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.13)].
 Patients with medical conditions that required systemic corticosteroids or other immunosuppressive medications or had a history of severe autoimmune disease other than type 1 diabetes, vitiligo, Sjogren's syndrome, and hypothyroidism stable on hormone replacement were ineligible.
 Patients received KEYTRUDA 200 mg intravenously every 3 weeks and axitinib 5 mg orally twice daily, or sunitinib 50 mg once daily for 4 weeks and then off treatment for 2 weeks.
 The median duration of exposure to the combination therapy of KEYTRUDA and axitinib was 10.4 months (range: 1 day to 21.2 months).
 
-The study population characteristics were: median age of 62 years (range: 30 to 89), 40% age 65 years or older; 71% male; 80% White; and 80% Karnofsky Performance Status (KPS) of 90-100 and 20% KPS of 70-80.
+The study population characteristics were: median age of 62 years (range: 30 to 89), 40% age 65 or older; 71% male; 80% White; and 80% Karnofsky Performance Status (KPS) of 90-100 and 20% KPS of 70-80.
 
 Fatal adverse reactions occurred in 3.3% of patients receiving KEYTRUDA in combination with axitinib.
 These included 3 cases of cardiac arrest, 2 cases of pulmonary embolism and 1 case each of cardiac failure, death due to unknown cause, myasthenia gravis, myocarditis, Fournier's gangrene, plasma cell myeloma, pleural effusion, pneumonitis, and respiratory failure.
@@ -849,9 +855,9 @@ Tables 25 and 26 summarize the adverse reactions and laboratory abnormalities, r
 
 Table 25: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA with Axitinib in KEYNOTE-426
 
-| All GradesGraded per NCI CTCAE v4.03 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
+| All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | KEYTRUDA and Axitinib n=429 |  | Sunitinib n=425 |  |
+| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and Axitinib n=429 |  | Sunitinib n=425 |  |
 | Gastrointestinal |  |  |  |  |
 | DiarrheaIncludes diarrhea, colitis, enterocolitis, gastroenteritis, enteritis, enterocolitis hemorrhagic | 56 | 11 | 45 | 5 |
 | Nausea | 28 | 0.9 | 32 | 0.9 |
@@ -878,7 +884,7 @@ Table 26: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/axitinib (range: 342 to 425 patients) and sunitinib (range: 345 to 422 patients). | KEYTRUDA and Axitinib |  | Sunitinib |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/axitinib (range: 342 to 425 patients) and sunitinib (range: 345 to 422 patients). | KEYTRUDA 200 mg every 3 weeks and Axitinib |  | Sunitinib |  |
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 62 | 9 | 54 | 3.2 |
 | Increased ALT | 60 | 20 | 44 | 5 |

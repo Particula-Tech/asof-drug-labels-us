@@ -6,11 +6,11 @@ Select patients for treatment with KEYTRUDA as a single agent based on the prese
 
 - stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.2)].
 - metastatic NSCLC [see Clinical Studies (14.2)].
-- first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.3)].
-- metastatic urothelial carcinoma [see Clinical Studies (14.6)].
-- metastatic gastric cancer [see Clinical Studies (14.8)].
+- first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.4)].
+- metastatic urothelial carcinoma [see Clinical Studies (14.7)].
+- metastatic gastric cancer [see Clinical Studies (14.9)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
-- recurrent or metastatic cervical cancer [see Clinical Studies (14.9)].
+- recurrent or metastatic cervical cancer [see Clinical Studies (14.10)].
 
 Information on FDA-approved tests for the detection of PD-L1 expression for these indications is available at: http://www.fda.gov/CompanionDiagnostics.
 
@@ -27,60 +27,64 @@ The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusi
 When administering KEYTRUDA in combination with chemotherapy, administer KEYTRUDA prior to chemotherapy when given on the same day.
 Refer to the Prescribing Information for the chemotherapy agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate.
 
-## 2.4 Recommended Dosage for HNSCC
+## 2.4 Recommended Dosage for SCLC
+
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+## 2.5 Recommended Dosage for HNSCC
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 When administering KEYTRUDA in combination with chemotherapy, administer KEYTRUDA prior to chemotherapy when given on the same day.
 Refer to the Prescribing Information for the chemotherapy agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate.
 
-## 2.5 Recommended Dosage for cHL
+## 2.6 Recommended Dosage for cHL
 
 The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.6 Recommended Dosage for PMBCL
+## 2.7 Recommended Dosage for PMBCL
 
 The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.7 Recommended Dosage for Urothelial Carcinoma
+## 2.8 Recommended Dosage for Urothelial Carcinoma
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.8 Recommended Dosage for MSI-H Cancer
+## 2.9 Recommended Dosage for MSI-H Cancer
 
 The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.9 Recommended Dosage for Gastric Cancer
+## 2.10 Recommended Dosage for Gastric Cancer
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.10 Recommended Dosage for Cervical Cancer
+## 2.11 Recommended Dosage for Cervical Cancer
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.11 Recommended Dosage for HCC
+## 2.12 Recommended Dosage for HCC
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.12 Recommended Dosage for MCC
+## 2.13 Recommended Dosage for MCC
 
 The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.13 Recommended Dosage for RCC
+## 2.14 Recommended Dosage for RCC
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks in combination with 5 mg axitinib orally twice daily until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months in patients without disease progression.
 When axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer.
 See also the Prescribing Information for recommended axitinib dosing information.
 
-## 2.14 Dose Modifications
+## 2.15 Dose Modifications
 
 No dose reductions of KEYTRUDA are recommended.
 Withhold or discontinue KEYTRUDA to manage adverse reactions as described in Table 1.
@@ -119,7 +123,7 @@ In patients with RCC being treated with KEYTRUDA in combination with axitinib:
   If rechallenging with axitinib, consider dose reduction as per the axitinib Prescribing Information.
 - If ALT or AST ≥10 times ULN or >3 times ULN with concurrent total bilirubin ≥2 times ULN, permanently discontinue both KEYTRUDA and axitinib and consider corticosteroid therapy.
 
-## 2.15 Preparation and Administration
+## 2.16 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 
