@@ -192,7 +192,7 @@ This Patient Information Leaflet summarizes the most important information about
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about epinephrine injection, USP auto-injector that is written for health professionals.
 
-For more information and video instructions on the use of epinephrine injection, USP auto-injector, go to www.epinephrineautoinject.com or call 1-800-934-6729.
+For more information and video instructions on the use of epinephrine injection, USP auto-injector, go to www.epinephrineautoinject.com or call 1-877-835-5472.
 
 What are the ingredients in epinephrine injection, USP auto-injector?
 

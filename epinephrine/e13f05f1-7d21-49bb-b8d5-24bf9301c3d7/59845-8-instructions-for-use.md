@@ -78,15 +78,14 @@ Note:
 - If you will be administering epinephrine injection, USP auto-injector to a young child, ask your healthcare provider to show you how to properly hold the leg in place while administering a dose.
 - Do not try to take the epinephrine injection, USP auto-injector apart.
 
-For more information and video instructions on the use of epinephrine injection, USP auto-injector, go to www.epinephrineautoinject.com or call 1-800-934-6729.
+For more information and video instructions on the use of epinephrine injection, USP auto-injector, go to www.epinephrineautoinject.com or call 1-877-835-5472.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-© 2016 Impax Laboratories, Inc., Hayward, CA. All rights reserved.
+© 2019 Amneal Pharmaceuticals LLC.
+All rights reserved.
 
-Manf. by: Hospira, Inc. McPherson, KS 67460
+Manufactured by: Hospira, Inc. McPherson, KS 67460
 
-Dist. by: Impax Generics Hayward, CA 94544
-
-1872-02 Rev.
-08/2018
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 1872-03 Rev.
+02-2019-00

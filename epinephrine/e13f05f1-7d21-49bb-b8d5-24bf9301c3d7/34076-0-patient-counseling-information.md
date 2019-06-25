@@ -51,11 +51,16 @@ Instruct patients that epinephrine injection, USP auto-injector must be properly
 
 Complete patient information, including dosage, directions for proper administration and precautions are provided inside each epinephrine injection, USP auto-injector carton.
 
-Manf. by: Hospira, Inc. McPherson, KS 67460
+Manufactured by: Hospira, Inc. McPherson, KS 67460
 
-Dist. by: Impax Generics Hayward, CA 94544
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-© 2016 Impax Laboratories, Inc., Hayward, CA. All rights reserved.
+© 2019 Amneal Pharmaceuticals LLC.
+All rights reserved.
 
-For inquiries call 1-800-934-6729 1871-02 Rev.
-08/2018
+For inquiries call 1-877-835-5472
+
+1871-03
+
+Rev.
+02-2019-00
