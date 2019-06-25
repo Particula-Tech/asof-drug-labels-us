@@ -10,7 +10,7 @@ Advise patients or caregivers to:
   If the appearance of the capsule is not the same as usual, or if dosage instructions have changed, advise patients to contact their healthcare provider as soon as possible to make sure that they have the right medicine.
   Other tacrolimus products cannot be substituted for ASTAGRAF XL [see Warnings and Precautions (5.4)].
 - •Take ASTAGRAF XL at the same time every day to achieve consistent blood concentrations.
-- •Take ASTAGRAF XL in the morning, on an empty stomach at least 1 hour before or at least 2 hours after breakfast to achieve maximum possible blood concentrations of the drug.
+- •Take ASTAGRAF XL in the morning, on an empty stomach at least 1 hour before or at least 2 hours after breakfast, to achieve maximum possible blood concentrations of the drug.
 - •Swallow capsule whole with liquid.
   Do not chew, divide or crush capsule.
 - •Avoid alcoholic beverages, grapefruit, and grapefruit juice while on ASTAGRAF XL [see Dosage and Administration (2.1) and Drug Interactions (7.2)].
@@ -21,13 +21,13 @@ Advise patients or caregivers to:
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 Inform patients that they are at an increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
-Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use a sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 17.3 Increased Risk of Infection
 
 Inform patients that they are at an increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas of the skin [see Boxed Warning and Warnings and Precautions (5.2)].
 
-## 17.4 New Onset Diabetes after Transplant
+## 17.4 New Onset Diabetes After Transplant
 
 Inform patients that ASTAGRAF XL can cause diabetes mellitus and should be advised to contact their physician if they develop frequent urination, increased thirst or hunger [see Warnings and Precautions (5.5)].
 
@@ -80,4 +80,4 @@ Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 ASTAGRAF XL® is a registered trademark of Astellas Pharma Inc. Prograf® is a registered trademark of Astellas Pharma Inc.
 
-17F064-AST
+222293-AST

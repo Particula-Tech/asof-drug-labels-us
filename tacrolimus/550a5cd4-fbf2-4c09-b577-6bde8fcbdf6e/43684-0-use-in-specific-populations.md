@@ -7,6 +7,7 @@ Pregnancy Exposure Registry
 There is a pregnancy registry that monitors pregnancy outcomes in women exposed to ASTAGRAF XL during pregnancy.
 The Transplantation Pregnancy Registry International (TPRI) is a voluntary pregnancy exposure registry that monitors outcomes of pregnancy in female transplant recipients and those fathered by male transplant recipients exposed to immunosuppressants including tacrolimus.
 Healthcare providers are encouraged to advise their patients to register by contacting the Transplantation Pregnancy Registry International at 1-877-955-6877 or https://www.transplantpregnancyregistry.org/.
+
 Risk Summary
 
 Tacrolimus can cause fetal harm when administered to a pregnant woman.
@@ -20,6 +21,7 @@ Interventricular septal defects, hydronephrosis, craniofacial malformations and 
 
 The background risk of major birth defects and miscarriage in the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
 Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo-Fetal Risk
@@ -47,9 +49,10 @@ Renal dysfunction, transient neonatal hyperkalemia and low birth weight have bee
 Labor or Delivery
 
 There is an increased risk for premature delivery (< 37 weeks) following transplantation and maternal exposure to ASTAGRAF XL.
+
 Data
 
-Human Data There are no adequate and well controlled studies on the effects of tacrolimus in human pregnancy.
+Human Data There are no adequate and well-controlled studies on the effects of tacrolimus in human pregnancy.
 Safety data from the TPRI and postmarketing surveillance suggest infants exposed to tacrolimus in utero have an increased risk for miscarriage, pre-term delivery (< 37 weeks), low birth weight (< 2500 g), birth defects/congenital anomalies and fetal distress.
 
 TPRI reported 450 and 241 total pregnancies in kidney and liver transplant recipients exposed to tacrolimus, respectively.
@@ -58,7 +61,7 @@ In the table below, the number of recipients exposed to tacrolimus concomitantly
 Because MPA products may also cause birth defects, the birth defect rate may be confounded and this should be taken into consideration when reviewing the data, particularly for birth defects.
 Birth defects observed include cardiac malformations, craniofacial malformations, renal/urogenital disorders, skeletal abnormalities, neurological abnormalities and multiple malformations.
 
-Table 6: TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacrolimus
+Table 6: TPRI-Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacrolimus
 
 |  | Kidney | Liver |
 | --- | --- | --- |
@@ -86,9 +89,9 @@ Effects on parturition (incomplete delivery of nonviable pups) were observed at 
 
 ## 8.2 Lactation
 
-Risk Summary Controlled lactation studies have not been conducted in humans, however tacrolimus has been reported to be present in human milk.
-The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
-Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies, exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1) and Nonclinical Toxicology (13.1)].
+Risk Summary Controlled lactation studies have not been conducted in humans; however, tacrolimus has been reported to be present in human milk.
+The effects of tacrolimus on the breastfed infant, or on milk production, have not been assessed.
+Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1) and Nonclinical Toxicology (13.1)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ASTAGRAF XL and any potential adverse effects on the breastfed child from ASTAGRAF XL or from the underlying maternal condition.
 
@@ -102,7 +105,7 @@ Infertility Based on findings in animals, male and female fertility may be compr
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of ASTAGRAF XL in de novo pediatric kidney transplant patients have been established.
-Use of ASTAGRAF XL in pediatric kidney transplant patients is based on adequate and well controlled studies of ASTAGRAF XL in adult kidney transplant patients [see Clinical Studies (14.1, 14.2)] and supported by pharmacokinetic and safety data of ASTAGRAF XL in pediatric transplant patients 4 years of age and older who are able to swallow capsules intact and Prograf (tacrolimus) capsules in adult and pediatric transplant patients [see Clinical Pharmacology (12.3)].
+Use of ASTAGRAF XL in pediatric kidney transplant patients is based on adequate and well-controlled studies of ASTAGRAF XL in adult kidney transplant patients [see Clinical Studies (14.1, 14.2)] and supported by pharmacokinetic and safety data of ASTAGRAF XL in pediatric transplant patients 4 years of age and older who are able to swallow capsules intact and Prograf (tacrolimus) capsules in adult and pediatric transplant patients [see Clinical Pharmacology (12.3)].
 
 De Novo Pediatric Kidney Transplant Patients A pharmacokinetic and safety study included 25 de novo pediatric kidney transplant patients, 4 to 15 years of age, randomized to Prograf (N=12) or ASTAGRAF XL (N=13).
 Tacrolimus exposures for the two drug products were comparable on Days 7 and 28 [see Clinical Pharmacology (12.3)].
@@ -132,7 +135,7 @@ With greater tacrolimus whole blood trough concentrations in patients with sever
 For patients with moderate hepatic impairment, monitor tacrolimus whole blood trough concentrations.
 For patients with mild hepatic impairment, no dosage adjustments are needed.
 
-## 8.8 Race
+## 8.8 Race or Ethnicity
 
 African-American patients may need to be titrated to higher dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.3), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 

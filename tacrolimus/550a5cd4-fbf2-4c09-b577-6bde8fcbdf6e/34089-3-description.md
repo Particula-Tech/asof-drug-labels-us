@@ -10,7 +10,7 @@ Tacrolimus has an empirical formula of C44H69NO12•H2O and a formula weight of 
 Tacrolimus appears as white crystals or crystalline powder.
 It is practically insoluble in water, freely soluble in ethanol, and very soluble in methanol and chloroform.
 
-ASTAGRAF XL is available for oral administration as hard gelatin capsules (tacrolimus extended-release capsules) containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus USP.
+ASTAGRAF XL is available for oral administration as hard gelatin capsules (tacrolimus extended-release capsules) containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus, USP.
 Inactive ingredients include ethylcellulose NF, hypromellose USP, magnesium stearate NF and lactose monohydrate NF.
 The ingredients are directly proportional across all capsule strengths.
 The capsule shell contains gelatin NF, titanium dioxide USP, ferric oxide NF, and sodium lauryl sulfate.

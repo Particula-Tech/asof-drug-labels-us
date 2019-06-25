@@ -2,15 +2,17 @@
 
 ## 2.1 Important Administration Instructions
 
-- •ASTAGRAF XL (tacrolimus extended-release capsules) is not substitutable for tacrolimus extended-release tablets, tacrolimus immediate-release capsules or tacrolimus for oral suspension.
-  Under or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions [see Warnings and Precautions (5.4)].
-- •ASTAGRAF XL should not be used without the supervision of a physician with experience in immunosuppressive therapy.
-- •ASTAGRAF XL should be taken consistently every morning at the same time to ensure consistent and maximum possible drug exposure, on an empty stomach at least 1 hour before a meal or at least 2 hours after a meal [see Clinical Pharmacology (12.3)].
+- •ASTAGRAF XL should not be used without the supervision by a physician with experience in immunosuppressive therapy.
+- •ASTAGRAF XL (tacrolimus extended-release capsules) is not interchangeable or substitutable for tacrolimus extended-release tablets, tacrolimus immediate-release capsules or tacrolimus for oral suspension.
+  Under or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions.
+  Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision [see Warnings and Precautions (5.4)].
 - •Advise patients to swallow ASTAGRAF XL capsules whole with liquid; patients must not chew, divide, or crush the capsules.
+- •ASTAGRAF XL should be taken consistently every morning at the same time to ensure consistent and maximum possible drug exposure, on an empty stomach at least 1 hour before a meal, or at least 2 hours after a meal [see Clinical Pharmacology (12.3)].
 - •If a dose is missed, the dose may be taken up to 14 hours after the scheduled time (i.e., for a missed 8:00 AM dose, a dose may be taken by 10:00 PM).
   Beyond the 14-hour time frame, the patient should wait until the usual scheduled time the following morning to take the next regular daily dose.
   Instruct the patient not to double the next dose.
-- •Advise patients to avoid eating grapefruit or drinking grapefruit juice or alcoholic beverage while taking ASTAGRAF XL [see Drug Interactions (7.2)].
+- •Advise patients to avoid eating grapefruit or drinking grapefruit juice or alcoholic beverages while taking ASTAGRAF XL [see Drug Interactions (7.2)].
+- •Therapeutic drug monitoring is recommended for all patients receiving ASTAGRAF XL [see Dosage and Administration (2.4)].
 
 ## 2.2 Dosing for Kidney Transplant Patients
 

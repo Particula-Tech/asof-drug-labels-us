@@ -2,9 +2,9 @@
 
 ## 5.1 Lymphoma and Other Malignancies
 
-Immunosuppressants, including ASTAGRAF XL, increase the risk of developing lymphomas and other malignancies, particularly of the skin.
+Immunosuppressants, including ASTAGRAF XL, increase the risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
-Examine patients for skin changes and advise to avoid or limit exposure to sunlight and UV light by wearing protective clothing and using a sunscreen with a high protection factor.
+Examine patients for skin changes and advise to avoid or limit exposure to sunlight and UV light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD), associated with Epstein-Barr Virus (EBV), has been reported in immunosuppressed organ transplant patients.
 The risk of PTLD appears greatest in patients who are EBV seronegative, a population which includes many young children.
@@ -30,10 +30,11 @@ ASTAGRAF XL is not approved for the prophylaxis of organ rejection in patients w
 ## 5.4 Not Interchangeable with Other Tacrolimus Products - Medication Errors
 
 Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and ASTAGRAF XL (tacrolimus extended-release capsules) were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under- or over-exposure to tacrolimus.
-ASTAGRAF XL is not substitutable for tacrolimus extended-release tablets, tacrolimus immediate-release capsules or tacrolimus for oral suspension.
+ASTAGRAF XL is not interchangeable or substitutable for tacrolimus extended-release tablets, tacrolimus immediate-release capsules or tacrolimus for oral suspension.
+Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision.
 Instruct patients and caregivers to recognize the appearance of ASTAGRAF XL capsules [see Dosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed or if dosing instructions have changed.
 
-## 5.5 New Onset Diabetes after Transplant
+## 5.5 New Onset Diabetes After Transplant
 
 ASTAGRAF XL caused new onset diabetes after transplant (NODAT) in kidney transplant patients, which may be reversible in some patients.
 African-American and Hispanic kidney transplant patients are at an increased risk.
@@ -69,7 +70,7 @@ Calcium-channel blocking agents may increase tacrolimus blood concentrations and
 
 The concomitant use of strong CYP3A inducers may increase the metabolism of tacrolimus, leading to lower whole blood trough concentrations and greater risk of rejection.
 In contrast, the concomitant use of strong CYP3A inhibitors may decrease the metabolism of tacrolimus, leading to higher whole blood trough concentrations and greater risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.7, 5.11)].
-Therefore, adjust ASTAGRAF XL dose and monitor tacrolimus whole blood trough concentrations when coadministering ASTAGRAF XL with strong CYP3A inhibitors (e.g., including but not limited to telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) or strong CYP3A inducers (e.g., including but not limited to rifampin, rifabutin) [see Dosage and Administration (2.4) and Drug Interactions (7.2)].
+Therefore, adjust ASTAGRAF XL dose and monitor tacrolimus whole blood trough concentrations when coadministering ASTAGRAF XL with strong CYP3A inhibitors (e.g., including, but not limited to, telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) or strong CYP3A inducers (e.g., including, but not limited to, rifampin, rifabutin) [see Dosage and Administration (2.4) and Drug Interactions (7.2)].
 
 ## 5.11 QT Prolongation
 
