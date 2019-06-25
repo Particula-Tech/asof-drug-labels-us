@@ -1,6 +1,4 @@
-# Medication Guide
-
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 Azelastine HCl Nasal Spray
 
@@ -21,7 +19,6 @@ Before using Azelastine HCl Nasal Spray, tell your healthcare provider if you ar
 See the end of this leaflet for a complete list of ingredients in Azelastine HCl Nasal Spray.
 
 • pregnant, or plan to become pregnant.
-It is not known if Azelastine HCl Nasal Spray will harm your unborn baby.
 
 • breastfeeding, or plan to breastfeed.
 It is not known if Azelastine HCl Nasal Spray passes into your breast milk.
@@ -73,7 +70,7 @@ The most common side effects of Azelastine HCl Nasal Spray include:
 
 • nosebleeds
 
-• inflamation or swelling of the sinuses
+• inflammation or swelling of the sinuses
 
 • sneezing
 
@@ -126,8 +123,6 @@ Inactive ingredients: benzalkonium chloride, edetate disodium, hypromellose, cit
 
 ## Instructions for Use
 
-Instructions for Use
-
 Azelastine HCl Nasal Spray Important:For use in your nose only.
 
 For the correct dose of medicine:
@@ -140,15 +135,13 @@ For the correct dose of medicine:
 This will keep the medicine from running down into your throat.
 You may get a bitter taste in your mouth.
 
-Figure A identifies the parts of your Azelastine HCl Nasal Spray pump
+Figure A identifies the parts of your Azelastine HCl Nasal Spray pump Figure A
 
 Before you use Azelastine HCl Nasal Spray for the first time, you will need to prime the bottle.
 
 Priming your Azelastine HCl Nasal Spray)
 
-Remove the transparent dust cover over the tip of the pump and the white safety clip just under the “shoulders” of the pump (See Figure B).
-
-Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
+Remove the transparent dust cover over the tip of the pump and the white safety clip just under the “shoulders” of the pump (See Figure B). Figure B Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
 
 • put your thumb on the bottom of the bottle.
 Press upward with your thumb and release for the pumping action.
@@ -160,12 +153,13 @@ If you see a stream of liquid, the pump is not working correctly and you may hav
 • This should happen in 4 sprays or less.
 
 Now your pump is primed and ready to use.
+Figure C
 
-• Do not use Azelastine HCL Nasal Spray unless you see a fine mist after you do the priming sprays.
+• Do not use Azelastine HCl Nasal Spray unless you see a fine mist after you do the priming sprays.
 If you do not see a fine mist, clean the tip of the spray nozzle.
 See the “Cleaning the Spray Tip of your Azelastine HCl Nasal Spray ” section below.
 
-• If you do not use Azelastine Hydrochloride Nasal Solution (Nasal Spray) for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
+• If you do not use Azelastine HCl Nasal Spray) for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
 
 Using your Azelastine HCl Nasal Spray)
 
@@ -179,7 +173,7 @@ Step 3.
 Place the spray tip about ¼ inch to ½ inch into 1 nostril.
 Hold bottle upright and aim the spray tip toward the back of your nose (See Figure D).
 
-Step 4.
+Figure DStep 4.
 Close your other nostril with a finger.
 Press the pump 1 time and sniff gently at the same time, keeping your head tilted forward and down (See Figure E).
 
@@ -203,12 +197,14 @@ Put the safety clip and dust cover back on the bottle.
 
 Cleaning the Spray Tip of your Azelastine HCl Nasal Spray
 
-• If the spray tip opening is clogged, do not use a pin or pointed object to unclog the tip.
+• the spray tip opening is clogged, do not use a pin or pointed object to unclog the tip.
 Unscrew the spray pump unit from the bottle by turning it to the left (counter-clockwise) (See Figure F).
 
 • Soak only the spray pump unit in warm water.
 Squirt the spray unit several times while holding it under water.
 Use the pumping action to clear the opening in the tip (See Figure G).
+
+Figure F Figure G
 
 • Let the spray pump unit air dry.
 Make sure it is dry before you put it back onto the bottle.
@@ -239,6 +235,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-L827 (PT 2385-01)
+(PT 2531-02)
 
-Revised: 05/2018
+Revised: 11/2018
