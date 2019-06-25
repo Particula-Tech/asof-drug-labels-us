@@ -77,11 +77,11 @@ In a study of complicated skin and skin structure infections, the adverse reacti
 The most common adverse events occurring in greater than 5% of the patients were: headache (7.8%), nausea (7.8%), constipation (7.0%), diarrhea (7.0%), anemia (5.5%), and pain (5.1%).
 Adverse events with an incidence of greater than 1%, and not listed above, include: pharyngitis, accidental injury, gastrointestinal disorder, hypoglycemia, peripheral vascular disorder, and pneumonia.
 
-Patients with Renal Impairment
+Patients with Renal Impairment:
 
 For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported with Meropenem for Injection, USP, increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.9), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
 
-Pediatric Patients
+Pediatric Patients:
 
 Systemic and Local Adverse Reactions
 
@@ -103,7 +103,7 @@ The types of systemic and local adverse events seen in these patients are simila
 
 Diarrhea 4.7%
 
-Rash (mostly diaper area moniliasis)3.1%
+Rash (mostly diaper area moniliasis) 3.1%
 
 Oral Moniliasis 1.9%
 
@@ -126,7 +126,7 @@ Hyperbilirubinemia(Conjugated) 4.5%
 
 Vomiting 2.5%
 
-Adverse Laboratory Changes in Pediatric Patients
+Adverse Laboratory Changes in Pediatric Patients:
 
 Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
 
@@ -134,10 +134,9 @@ Laboratory changes seen in the pediatric studies, including the meningitis studi
 
 The following adverse reactions have been identified during post-approval use of Meropenem for Injection, USP.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
 Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions from Clinical Trials section of this prescribing information and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
-
 Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
 
 Immune System Disorders: angioedema.
+
 Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.

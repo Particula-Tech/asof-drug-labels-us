@@ -11,7 +11,6 @@ Meropenem for Injection, USP is indicated for the treatment of complicated appen
 ## 1.3 Bacterial Meningitis (Pediatric Patients 3 Months of Age and Older Only)
 
 Meropenem for Injection, USP is indicated for the treatment of bacterial meningitis caused by Haemophilus influenzae,Neisseria meningitidis and penicillin-susceptible isolates of Streptococcus pneumoniae.
-
 Meropenem for Injection, USP has been found to be effective in eliminating concurrent bacteremia in association with bacterial meningitis.
 
 ## 1.4 Usage

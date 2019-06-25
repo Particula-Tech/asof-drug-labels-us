@@ -17,4 +17,4 @@ Manufactured by:
 
 Gland Pharma Limited Pashamylaram, Patancheru, Hyderabad - 502 307, India
 
-July 2018
+Revised: May 2019

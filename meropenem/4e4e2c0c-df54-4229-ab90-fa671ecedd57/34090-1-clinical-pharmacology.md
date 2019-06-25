@@ -4,6 +4,10 @@
 
 Meropenem is an antibacterial drug [see Microbiology (12.4)].
 
+## 12.2 Pharmacodynamics
+
+The percentage of time of a dosing interval that unbound plasma concentration of meropenem exceeds the meropenem minimum inhibitory concentration (MIC) against the infecting organism has been shown to best correlate with efficacy in animal and in vitro models of infection.
+
 ## 12.3 Pharmacokinetics
 
 Plasma Concentrations At the end of a 30-minute intravenous infusion of a single dose of Meropenem for Injection, USP in healthy volunteers, mean peak plasma concentrations of meropenem are approximately 23 mcg/mL (range 14 to 26) for the 500 mg dose and 49 mcg/mL (range 39 to 58) for the 1 gram dose.
@@ -47,11 +51,10 @@ Table 5: Meropenem Concentrations in Selected Tissues (Highest Concentrations Re
 3. in pediatric patients of age 5 months to 8 years
 4. in pediatric patients of age 1 month to 15 years
 
+Elimination In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
 Metabolism There is one metabolite of meropenem that is microbiologically inactive.
 
-Excretion In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
-
-Meropenem is primarily excreted unchanged by the kidneys.
+Excretion Meropenem is primarily excreted unchanged by the kidneys.
 Approximately 70% (50% to 75%) of the dose is excreted unchanged within 12 hours.
 A further 28% is recovered as the microbiologically inactive metabolite.
 Fecal elimination represents only approximately 2% of the dose.
@@ -59,13 +62,13 @@ The measured renal clearance and the effect of probenecid show that meropenem un
 
 Urinary concentrations of meropenem in excess of 10 mcg/mL are maintained for up to 5 hours after a 500 mg dose.
 
-Specific Populations Renal Impairment Pharmacokinetic studies with Meropenem for Injection, USP in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
+Specific Populations Patients with Renal Impairment Pharmacokinetic studies with Meropenem for Injection, USP in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
 Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Meropenem for Injection, USP is hemodialyzable.
 However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage (10)].
 
-Hepatic Impairment A pharmacokinetic study with Meropenem for Injection, USP in patients with hepatic impairment has shown no effects of liver disease on the pharmacokinetics of meropenem.
+Patients with Hepatic Impairment A pharmacokinetic study with Meropenem for Injection, USP in patients with hepatic impairment has shown no effects of liver disease on the pharmacokinetics of meropenem.
 
 Geriatric Patients A pharmacokinetic study with Meropenem for Injection, USP in elderly patients with renal impairment showed a reduction in plasma clearance of meropenem that correlates with age-associated reduction in creatinine clearance.
 
@@ -87,8 +90,7 @@ Table 6: Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of 
 | *Values are derived from a population pharmacokinetic analysis of sparse data |  |  |  |  |  |
 
 Drug Interactions Probenecid competes with meropenem for active tubular secretion and thus inhibits the renal excretion of meropenem.
-Following administration of probenecid with meropenem, the mean systemic exposure increased 56% and the mean elimination half-life increased 38%.
-Co-administration of probenecid with meropenem is not recommended.
+Following administration of probenecid with meropenem, the mean systemic exposure increased 56% and the mean elimination half-life increased 38% [see Drug Interactions (7.1)].
 
 ## 12.4 Microbiology
 

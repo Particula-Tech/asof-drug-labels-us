@@ -13,7 +13,7 @@ Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL
 Dosage should be reduced in patients with creatinine clearance of 50 mL/min or less.
 (See dosing table below.)
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)5 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)1 may be used to estimate creatinine clearance.
 
 Males: Creatinine Clearance (mL/min) =
 
@@ -113,5 +113,4 @@ Meropenem for Injection, USP vials re-constituted with Sterile Water for Injecti
 Intravenous Infusion Administration
 
 Solutions prepared for infusion (Meropenem for Injection, USP concentrations ranging from 1 mg/mL to 20 mg/mL) re-constituted with Sodium Chloride Injection 0.9% may be stored for 1 hour at up to 25°C (77°F) or 15 hours at up to 5°C (41°F).
-
 Solutions prepared for infusion (Meropenem for Injection, USP concentrations ranging from 1 mg/mL to 20 mg/mL) re-constituted with Dextrose Injection 5% should be used immediately.
