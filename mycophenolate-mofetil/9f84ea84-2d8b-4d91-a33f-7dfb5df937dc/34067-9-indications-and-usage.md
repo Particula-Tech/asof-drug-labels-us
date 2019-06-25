@@ -1,6 +1,3 @@
-# INDICATIONS & USAGE
+# 1 INDICATIONS & USAGE
 
-Renal, Cardiac, and Hepatic Transplant
-
-Mycophenolate mofetil is indicated for the prophylaxis of organ rejection in patients receiving allogeneic renal, cardiac or hepatic transplants.
-Mycophenolate mofetil should be used concomitantly with cyclosporine and corticosteroids.
+Mycophenolate mofetil (MMF) is indicated for the prophylaxis of organ rejection, in recipients of allogeneic kidney [see Clinical Studies (14.1)], heart [see Clinical Studies (14.2)] or liver transplants [see Clinical Studies (14.3)], in combination with other immunosuppressants.

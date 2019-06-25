@@ -1,90 +1,100 @@
-# DOSAGE & ADMINISTRATION
+# 2 DOSAGE & ADMINISTRATION
 
-Renal Transplantation
+## 2.1 Important Administration Instruction
+
+Mycophenolate Mofetil Capsules, Tablets and Oral Suspension Mycophenolate mofetil should not be used without the supervision of a physician with experience in immunosuppressive therapy.
+
+Mycophenolate mofetil oral dosage forms (capsules, tablets or oral suspension) should not be used interchangeably with mycophenolic acid delayed-release tablets without supervision of a physician with experience in immunosuppressive therapy because the rates of absorption following the administration of mycophenolate mofetil oral dosage forms and mycophenolic acid delayed-release tablets are not equivalent.
+
+Mycophenolate mofetil tablets should not be crushed and mycophenolate mofetil capsules should not be opened or crushed.
+Patients should avoid inhalation or contact of the skin or mucous membranes with the powder contained in mycophenolate mofetil capsules and oral suspension.
+If such contact occurs, they must wash the area of contact thoroughly with soap and water.
+In case of ocular contact, rinse eyes with plain water.
+
+The initial oral dose of mycophenolate mofetil should be given as soon as possible following kidney, heart or liver transplant.
+It is recommended that mycophenolate mofetil be administered on an empty stomach.
+In stable transplant patients, however, mycophenolate mofetil may be administered with food if necessary [see Clinical Pharmacology (12.3)].
+Once reconstituted, mycophenolate mofetil oral suspension must not be mixed with any liquids prior to dose administration.
+If needed, mycophenolate mofetil oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
+
+Patients should be instructed to take a missed dose as soon as they remember, except if it is closer than 2 hours to the next scheduled dose; in this case, they should continue to take mycophenolate mofetil at the usual times.
+
+## 2.2 Dosing for Kidney Transplant Patients: Adults and Pediatrics
 
 Adults
 
-A dose of 1 g administered orally or intravenously (over NO LESS THAN 2 HOURS) twice a day (daily dose of 2 g) is recommended for use in renal transplant patients.
-Although a dose of 1.5 g administered twice daily (daily dose of 3 g) was used in clinical trials and was shown to be safe and effective, no efficacy advantage could be established for renal transplant patients.
-Patients receiving 2 g/day of mycophenolate mofetil demonstrated an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
+The recommended dose for adult kidney transplant patients is 1 g orally or intravenously infused over no less than 2 hours, twice daily (daily dose of 2 g).
 
-Pediatrics (3 months to 18 years of age)
+Pediatrics (3 months and older)
 
-The recommended dose of mycophenolate mofetil oral suspension is 600 mg/m2 administered twice daily (up to maximum daily dose of 2g/10 mL oral suspension).
-Patients with a body surface area of 1.25 m2 to 1.5 m2 may be dosed with mycophenolate mofetil capsules at a dose of 750 mg twice daily (1.5 g daily dose).
-Patients with a body surface area >1.5 m2 may be dosed with mycophenolate mofetil capsules or tablets at a dose of 1 g twice daily (2 g daily dose).
+Pediatric dosing is based on body surface area (BSA).
+The recommended dose of mycophenolate mofetil oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2g or 10 mL of the oral suspension).
+Pediatric patients with BSA ≥ 1.25 m2 may be dosed with capsules or tablets as follows:
 
-Cardiac Transplantation
+Table 1.
+Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
 
-Adults
+| Body Surface Area | Dosing |
+| --- | --- |
+| 1.25 m2 to less than 1.5 m2 | Mycophenolate mofetil capsule 750 mg twice daily (1.5 g daily dose) |
+| ≥ 1.5 m2 | Mycophenolate mofetil capsules or tablets 1 g twice daily (2 g daily dose) |
 
-A dose of 1.5 g bid administered intravenously (over NO LESS THAN 2 HOURS) or 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult cardiac transplant patients.
+## 2.3 Dosing for Heart Transplant Patients: Adults
 
-Hepatic Transplantation
+The recommended dose of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally or intravenously infused over no less than 2 hours administered twice daily (daily dose of 3 g).
 
-Adults
+## 2.4 Dosing for Liver Transplant Patients: Adults
 
-A dose of 1 g bid administered intravenously (over NO LESS THAN 2 HOURS) or 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult hepatic transplant patients.
+The recommended dose of mycophenolate mofetil for adult liver transplant patients is 1.5 g administered orally twice daily (daily dose of 3 g) or 1 g infused intravenously over no less than 2 hours, twice daily (daily dose of 2 g).
 
-Mycophenolate Mofetil Capsules, Tablets, and Oral Suspension
+## 2.5 Dosing Adjustments: Patients with Renal Impairment, Neutropenia
 
-The initial oral dose of mycophenolate mofetil should be given as soon as possible following renal, cardiac or hepatic transplantation.
-Food had no effect on MPA AUC, but has been shown to decrease MPA Cmax by 40%.
-Therefore, it is recommended that mycophenolate mofetil be administered on an empty stomach.
-However, in stable renal transplant patients, mycophenolate mofetil may be administered with food if necessary.
+Renal Impairment
 
-Patients should be instructed to take a missed dose as soon as they remember, except if it is near the next scheduled dose, and then continue to take mycophenolate mofetil at the usual times.
+No dose adjustments are needed in kidney transplant patients with delayed graft function postoperatively [see Clinical Pharmacology (12.3)].
+In kidney transplant patients with severe chronic impairment of the graft (GFR less than 25 mL/min/1.73 m2), do not administer doses of mycophenolate mofetil greater than 1 g twice a day.
+These patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 
-Note:
+Neutropenia
 
-If required, mycophenolate mofetil oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
+If neutropenia develops (ANC less than 1.3 x 103/mcL), dosing with mycophenolate mofetil should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
-Patients With Hepatic Impairment
+## 2.6 Preparation of Oral Suspension and Intravenous for Pharmacists
 
-No dose adjustments are recommended for renal patients with severe hepatic parenchymal disease.
-However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
+General Preparation Instructions Before Handling the Formulations
 
-No data are available for cardiac transplant patients with severe hepatic parenchymal disease.
+Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans.
+Follow applicable special handling and disposal procedures.1 [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Use in Specific Populations (8.1, 8.3), How Supplied/Storage and Handling (16.1)]
 
-Geriatrics
+Care should be taken to avoid inhalation or direct contact with skin or mucous membranes of the dry powder or the constituted suspension because MMF has demonstrated teratogenic effects in humans.
+Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table surface after reconstitution.
+If such contact occurs, wash hands thoroughly with soap and water; rinse eyes with water.
 
-The recommended oral dose of 1 g bid for renal transplant patients, 1.5 g bid for cardiac transplant patients, and 1 g bid administered intravenously or 1.5 g bid administered orally in hepatic transplant patients is appropriate for elderly patients (see PRECAUTIONS: Geriatric Use).
+Alert patients that they and others should also avoid inhalation or contact of the skin or mucous membranes with the oral suspension.
+Advise them to wash the area thoroughly with soap and water if such contact occurs; if ocular contact occurs, rinse eyes with plain water.
 
-Oral Suspension
+Mycophenolate Mofetil Oral Suspension
 
-Dispense with patient instruction sheet and oral dispensers.
-It is recommended to write the date of expiration of the constituted suspension on the bottle label.
-(The shelf-life of the constituted suspension is 60 days.)
-After constitution the oral suspension contains 200 mg/mL mycophenolate mofetil.
-Store constituted suspension at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-Storage in a refrigerator at 2° to 8°C (36° to 46°F) is acceptable.
+Mycophenolate mofetil oral suspension must be reconstituted by the pharmacist prior to dispensing to the patient.
+Mycophenolate mofetil oral suspension should not be mixed with any other medication.
+After reconstitution, the oral suspension contains 200 mg/mL MMF.
+
+Before proceeding with the reconstitution steps read the general preparation instructions above [see General Preparation Instructions Before Handling the Formulations].
+The following are the steps for reconstitution:
+
+1. Tap the closed bottle several times to loosen the powder.
+2. Measure 94 mL of water in a graduated cylinder.
+3. Add approximately half the total amount of water for reconstitution to the bottle and shake the closed bottle well for about 1 minute.
+4. Add the remainder of water and shake the closed bottle well for about 1 minute.
+5. Remove the child-resistant cap and push bottle adapter into neck of bottle.
+6. Close bottle with child-resistant cap tightly.
+   This will assure the proper seating of the bottle adapter in the bottle and child-resistant status of the cap.
+7. Write the date of expiration of the constituted suspension on the bottle label.
+   (The shelf-life of the constituted suspension is 60 days.)
+8. Dispense with the “Instruction for Use” and oral dispensers.
+   Alert patients to read the important handling information described in the instructions for use.
+
+Store reconstituted suspension at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Storage in a refrigerator at 2°C to 8°C (36°F to 46°F) is acceptable.
 Do not freeze.
 Discard any unused portion 60 days after constitution.
-Infusion Solution
-
-If the infusion solution is not prepared immediately prior to administration, the commencement of administration of the infusion solution should be within 4 hours from reconstitution and dilution of the drug product.
-Keep solutions at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-
-Mycophenolate mofetil Intravenous should not be mixed or administered concurrently via the same infusion catheter with other intravenous drugs or infusion admixtures.
-
-Dosage Adjustments
-
-In renal transplant patients with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) outside the immediate posttransplant period, doses of mycophenolate mofetil greater than 1 g administered twice a day should be avoided.
-These patients should also be carefully observed.
-No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: Patients with Renal Impairment).
-
-No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
-Mycophenolate mofetil may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
-
-If neutropenia develops (ANC <1.3 x 103/mcL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS: Neutropenia, ADVERSE REACTIONS, and PRECAUTIONS: Laboratory Tests).
-
-HANDLING AND DISPOSAL
-
-Mycophenolate mofetil has demonstrated teratogenic effects in humans (see Pregnancy and WARNINGS: Embryofetal Toxicity).
-Mycophenolate mofetil tablets should not be crushed and mycophenolate mofetil capsules should not be opened or crushed.
-Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in mycophenolate mofetil capsules and mycophenolate mofetil oral suspension (before or after constitution).
-If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
-Should a spill occur, wipe up using paper towels wetted with water to remove spilled powder or suspension.
-Caution should be exercised in the handling and preparation of solutions of mycophenolate mofetil intravenous.
-Avoid direct contact of the prepared solution of mycophenolate mofetil intravenous with skin or mucous membranes.
-If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
