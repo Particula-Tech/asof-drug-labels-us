@@ -98,4 +98,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about amlodipine besylate, or you can visit www.greenstonellc.com or call 1-800-438-1985.
 
-LAB-0342-9.0 April 2017
+LAB-0342-9.0 Revised April 2017
