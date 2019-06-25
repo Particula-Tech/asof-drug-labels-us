@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206803"
+  ],
+  "inn": "selegiline",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "16571-659-06",
+    "16571-659-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "selegiline hydrochloride",
+      "name": "Selegiline Hydrochloride"
+    }
+  ],
+  "setid": "23c4481f-d150-40c6-addb-b3e454ca914f",
+  "source": "dailymed"
+}
