@@ -15,11 +15,13 @@ Overall 1-year patient and graft survival was 96.1% and 89.6%, respectively.
 
 Data from this trial of PROGRAF in conjunction with azathioprine indicate that during the first 3 months of that trial, 80% of the patients maintained trough concentrations between 7-20 ng/mL, and then between 5-15 ng/mL, through 1 year.
 
-PROGRAF/Mycophenolate Mofetil (MMF) PROGRAF-based immunosuppression in conjunction with MMF, corticosteroids, and induction has been studied.
+PROGRAF/Mycophenolate Mofetil (MMF)
+
+PROGRAF-based immunosuppression in conjunction with MMF, corticosteroids, and induction has been studied.
 In a randomized, open-label, multicenter trial (Study 1), 1589 kidney transplant patients received PROGRAF (Group C, n = 401), sirolimus (Group D, n = 399), or one of two cyclosporine (CsA) regimens (Group A, n = 390 and Group B, n = 399) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
 The trial was conducted outside the United States; the trial population was 93% Caucasian.
 In this trial, mortality at 12 months in patients receiving PROGRAF/MMF was similar (3%) compared to patients receiving cyclosporine/MMF (3% and 2%) or sirolimus/MMF (3%).
-Patients in the PROGRAF group exhibited higher estimated creatinine clearance rates (eCLcr) using the Cockcroft-Gault formula (Table 20) and experienced fewer efficacy failures, defined as biopsy-proven acute rejection (BPAR), graft loss, death, and/or lost to follow-up (Table 21) in comparison to each of the other three groups.
+Patients in the PROGRAF group exhibited higher estimated creatinine clearance rates (eCLcr) using the Cockcroft-Gault formula (Table 20) and experienced fewer efficacy failures, defined as biopsy-proven acute rejection (BPAR), graft loss, death, and/or loss to follow-up (Table 21) in comparison to each of the other three groups.
 Patients randomized to PROGRAF/MMF were more likely to develop diarrhea and diabetes after the transplantation and experienced similar rates of infections compared to patients randomized to either cyclosporine/MMF regimen [see Adverse Reactions (6.1)].
 
 Table 20.
@@ -96,7 +98,7 @@ Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 2
 | Graft loss excluding death | 6 (2.8%) | 4 (1.9%) |
 | Mortality | 9 (4.2%) | 5 (2.4%) |
 | Lost to follow-up | 4 (1.9%) | 1 (0.5%) |
-| Treatment Difference of efficacy failure compared to PROGRAF/MMF group (95% CI95% confidence interval calculated using Fisher's Exact Test) |  | 1.9% (-5.2%, 9.0%) |
+| Treatment Difference of efficacy failure compared to PROGRAF/MMF group (95% CI95% confidence interval calculated using Fisher's Exact Test.) |  | 1.9% (-5.2%, 9.0%) |
 
 The protocol-specified target tacrolimus whole blood trough concentrations (Ctrough,Tac) in Study 2 were 7-16 ng/mL for the first three months and 5-15 ng/mL thereafter.
 The observed median Ctroughs,Tac approximated 10 ng/mL during the first three months and 8 ng/mL from month 4 to month 12 (Table 25).
@@ -105,7 +107,7 @@ Approximately 80% of patients maintained tacrolimus whole blood trough concentra
 Table 25.
 Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 
-| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac) tacrolimus whole blood trough concentration range(ng/mL) |
+| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac.) tacrolimus whole blood trough concentration range(ng/mL) |
 | --- | --- |
 | Day 30 (N = 174) | 10.5 (6.3 – 16.8) |
 | Day 60 (N = 179) | 9.2 (5.9 – 15.3) |
@@ -123,14 +125,14 @@ Approximately 63% and 55% of these MMF dose reductions were because of adverse r
 Table 26.
 MMF Dose Over Time in the PROGRAF/MMF Group (Study 2)
 
-| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
+| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that the MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | --- | --- | --- | --- |
 | Less than 2.0 | 2.0 | Greater than 2.0 |  |
 | 0-30 (N = 212) | 25% | 69% | 6% |
 | 0-90 (N = 212) | 41% | 53% | 6% |
 | 0-180 (N = 212) | 52% | 41% | 7% |
 | 0-365 (N = 212) | 62% | 34% | 4% |
-| Key: Time-averaged MMF dose=(total MMF dose)/(duration of treatment) |  |  |  |
+| Key: Time-averaged MMF dose = (total MMF dose)/(duration of treatment) |  |  |  |
 
 ## 14.2 Liver Transplantation
 
@@ -146,6 +148,7 @@ This trial excluded patients with renal dysfunction, fulminant hepatic failure w
 In the second trial, 545 patients were enrolled at 8 clinical sites in Europe; prior to surgery, 270 were randomized to the PROGRAF-based immunosuppressive regimen and 275 to CsA/AZA.
 In this trial, each center used its local standard CsA/AZA protocol in the active-control arm.
 This trial excluded pediatric patients, but did allow enrollment of subjects with renal dysfunction, fulminant hepatic failure in Stage IV encephalopathy, and cancers other than primary hepatic with metastases.
+
 One-year patient survival and graft survival in the PROGRAF-based treatment groups were similar to those in the CsA/AZA treatment groups in both trials.
 The overall 1-year patient survival (CsA/AZA and PROGRAF-based treatment groups combined) was 88% in the U.S. trial and 78% in the European trial.
 The overall 1-year graft survival (CsA/AZA and PROGRAF-based treatment groups combined) was 81% in the U.S. trial and 73% in the European trial.
@@ -153,7 +156,7 @@ In both trials, the median time to convert from IV to oral PROGRAF dosing was 2 
 
 Although there is a lack of direct correlation between tacrolimus concentrations and drug efficacy, data from clinical trials of liver transplant patients have shown an increasing incidence of adverse reactions with increasing trough blood concentrations.
 Most patients are stable when trough whole blood concentrations are maintained between 5 to 20 ng/mL.
-Long-term post-transplant patients often are maintained at the low end of this target range.
+Long-term post-transplant patients are often maintained at the low end of this target range.
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation, ranged from 9.8 ng/mL to 19.4 ng/mL.
 
 Pediatric Liver Transplantation Using PROGRAF Granules
@@ -162,9 +165,9 @@ The efficacy and safety of PROGRAF Granules plus corticosteroids were compared w
 The study was conducted outside the United States and enrolled patients aged 16 years or younger.
 The distribution of pediatric patients by age was similar in both treatment groups, with a majority < 5 years.
 Patients were randomized to either tacrolimus for oral suspension 0.3 mg/kg/day (N = 91) or cyclosporine 10 mg/kg/day orally (N = 90) initiated 6 hours after completion of transplant surgery.
-Doses throughout the 1-year study period were adjusted to maintain whole blood trough levels within 5-20 ng/mL [see Dosage and Administration (2.4)].
+Doses throughout the 1-year study period were adjusted to maintain whole blood trough levels within 5-20 ng/mL [see Dosage and Administration (2.3)].
 Based on trough levels, doses of tacrolimus were adjusted to 0.17 mg/kg/day and 0.14 mg/kg/day by days 2 and 3, respectively.
-At 12 months, the incidence rate of BPAR, graft loss, death, or lost to follow-up was 52.7% in the tacrolimus group and 61.1% in the cyclosporine group (Table 27).
+At 12 months, the incidence rate of BPAR, graft loss, death, or loss to follow-up was 52.7% in the tacrolimus group and 61.1% in the cyclosporine group (Table 27).
 
 Table 27.
 Key Efficacy Results at 12 Months in Pediatric Liver Transplant Recipients Receiving PROGRAF Granules or Cyclosporine
@@ -178,13 +181,14 @@ Key Efficacy Results at 12 Months in Pediatric Liver Transplant Recipients Recei
 | Graft loss excluding death | 1 (1.1%) | 6 (6.7%) |
 | Mortality | 6 (6.6%) | 7 (7.8%) |
 | Lost to follow-up | 2 (2.2%) | 0 |
-| Treatment Difference of efficacy failure compared to Cyclosporine (95% CI95% confidence interval calculated using normal approximation.) | -8.4% (-22.7%, 6.0%) |  |
+| Treatment Difference of efficacy failure compared to cyclosporine (95% CI95% confidence interval calculated using normal approximation.) | -8.4% (-22.7%, 6.0%) |  |
 
 ## 14.3 Heart Transplantation
 
 Two open-label, randomized, comparative trials evaluated the safety and efficacy of PROGRAF-based and cyclosporine-based immunosuppression in primary orthotopic heart transplantation.
 In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids, and azathioprine in combination with PROGRAF or cyclosporine modified for 18 months.
-In a 3-arm trial conducted in the US, 331 patients received corticosteroids and PROGRAF plus sirolimus, PROGRAF plus mycophenolate mofetil (MMF) or cyclosporine modified plus MMF for 1 year.
+In a 3-arm trial conducted in the U.S., 331 patients received corticosteroids and PROGRAF plus sirolimus, PROGRAF plus mycophenolate mofetil (MMF) or cyclosporine modified plus MMF for 1 year.
+
 In the European trial, patient/graft survival at 18 months post-transplant was similar between treatment arms, 92% in the tacrolimus group and 90% in the cyclosporine group.
 In the U.S. trial, patient and graft survival at 12 months was similar with 93% survival in the PROGRAF plus MMF group and 86% survival in the cyclosporine modified plus MMF group.
 In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32% to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74% to 86% of the patients in the tacrolimus treatment arm.

@@ -3,12 +3,12 @@
 ## 12.1 Mechanism of Action
 
 Tacrolimus binds to an intracellular protein, FKBP-12.
-A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin inhibited.
+A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (a ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin is inhibited.
 Such inhibition prevents the dephosphorylation and translocation of various factors such as the nuclear factor of activated T-cells (NF-AT), and nuclear factor kappa-light-chain enhancer of activated B-cells (NF-κB).
 
-Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony stimulating factor.
+Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony-stimulating factor.
 Tacrolimus also inhibits IL-2 receptor expression and nitric oxide release, induces apoptosis and production of transforming growth factor beta that can lead to immunosuppressive activity.
-The net result is the inhibition of T-lymphocyte activation and proliferation as well as T-helper-cell-dependent B-cell response (i.e., immunosuppression).
+The net result is the inhibition of T-lymphocyte activation and proliferation, as well as T-helper-cell-dependent B-cell response (i.e., immunosuppression).
 
 ## 12.3 Pharmacokinetics
 
@@ -33,8 +33,9 @@ Pharmacokinetics Parameters (mean ± S.D.) of Tacrolimus in Healthy Volunteers a
 | 11 | PO (0.075 mg/kg/day)Determined after the first dose | 14.7 ± 7.79 | 2.1 [0.5-6.0]Median [range] | 82.7AUC0-12 ± 63.2 |  |  |  |  |
 | 14 | PO (0.15 mg/kg/day) | 24.5 ± 13.7 | 1.5 [0.4-4.0] | 142 ± 116 |  |  |  |  |
 
-Due to intersubject variability in tacrolimus pharmacokinetics, individualization of dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.7)].
+Due to intersubject variability in tacrolimus pharmacokinetics, individualization of the dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.6)].
 Pharmacokinetic data indicate that whole blood concentrations rather than plasma concentrations serve as the more appropriate sampling compartment to describe tacrolimus pharmacokinetics.
+
 Absorption
 
 Absorption of tacrolimus from the gastrointestinal tract after oral administration is incomplete and variable.
@@ -50,40 +51,59 @@ In 25 heart transplant patients over a concentration range of 2 to 24 ng/mL, the
 
 In a healthy volunteer adult study, the systemic exposure to tacrolimus (AUC) for PROGRAF Granules was approximately 16% higher than that for PROGRAF capsules when administered as single doses.
 If pediatric patients are converted between formulations, therapeutic drug monitoring must be performed and dose adjustments made to ensure that systemic exposure to tacrolimus is maintained.
-Food Effects The rate and extent of tacrolimus absorption were greatest under fasted conditions.
+
+Food Effects
+
+The rate and extent of tacrolimus absorption were greatest under fasted conditions.
 The presence and composition of food decreased both the rate and extent of tacrolimus absorption when administered to 15 healthy volunteers.
+
 The effect was most pronounced with a high-fat meal (848 kcal, 46% fat): mean AUC and Cmax were decreased 37% and 77%, respectively; Tmax was lengthened 5-fold.
 A high-carbohydrate meal (668 kcal, 85% carbohydrate) decreased mean AUC and mean Cmax by 28% and 65%, respectively.
+
 In healthy volunteers (N = 16), the time of the meal also affected tacrolimus bioavailability.
 When given immediately following the meal, mean Cmax was reduced 71%, and mean AUC was reduced 39%, relative to the fasted condition.
 When administered 1.5 hours following the meal, mean Cmax was reduced 63%, and mean AUC was reduced 39%, relative to the fasted condition.
+
 In 11 liver transplant patients, PROGRAF administered 15 minutes after a high fat (400 kcal, 34% fat) breakfast, resulted in decreased AUC (27 ± 18%) and Cmax (50 ± 19%), as compared to a fasted state.
-PROGRAF capsules should be taken consistently every day either with or without food because the presence and composition of food decreases the bioavailability of PROGRAF [see Dosage and Administration (2.2)].
-Distribution The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5-50 ng/mL.
+
+PROGRAF capsules should be taken consistently every day either with or without food because the presence and composition of food decreases the bioavailability of PROGRAF [see Dosage and Administration (2.1)].
+
+Distribution
+
+The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5-50 ng/mL.
 Tacrolimus is bound mainly to albumin and alpha-1-acid glycoprotein, and has a high level of association with erythrocytes.
 The distribution of tacrolimus between whole blood and plasma depends on several factors, such as hematocrit, temperature at the time of plasma separation, drug concentration, and plasma protein concentration.
 In a U.S. trial, the ratio of whole blood concentration to plasma concentration averaged 35 (range 12 to 67).
 
 Elimination
 
-Metabolism Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A).
+Metabolism
+
+Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A).
 A metabolic pathway leading to the formation of 8 possible metabolites has been proposed.
 Demethylation and hydroxylation were identified as the primary mechanisms of biotransformation in vitro.
 The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.
 In in vitro studies, a 31-demethyl metabolite has been reported to have the same activity as tacrolimus.
-Excretion The mean clearance following IV administration of tacrolimus is 0.040, 0.083, 0.053, and 0.051 L/hr/kg in healthy volunteers, adult kidney transplant patients, adult liver transplant patients, and adult heart transplant patients, respectively.
+
+Excretion
+
+The mean clearance following IV administration of tacrolimus is 0.040, 0.083, 0.053, and 0.051 L/hr/kg in healthy volunteers, adult kidney transplant patients, adult liver transplant patients, and adult heart transplant patients, respectively.
 In man, less than 1% of the dose administered is excreted unchanged in urine.
+
 In a mass balance study of IV-administered radiolabeled tacrolimus to 6 healthy volunteers, the mean recovery of radiolabel was 77.8 ± 12.7%.
 Fecal elimination accounted for 92.4 ± 1.0% and the elimination half-life based on radioactivity was 48.1 ± 15.9 hours whereas it was 43.5 ± 11.6 hours based on tacrolimus concentrations.
 The mean clearance of radiolabel was 0.029 ± 0.015 L/hr/kg and clearance of tacrolimus was 0.029 ± 0.009 L/hr/kg.
 When administered PO, the mean recovery of the radiolabel was 94.9 ± 30.7%.
 Fecal elimination accounted for 92.6 ± 30.7%, urinary elimination accounted for 2.3 ± 1.1% and the elimination half-life based on radioactivity was 31.9 ± 10.5 hours whereas it was 48.4 ± 12.3 hours based on tacrolimus concentrations.
-The mean clearance of radiolabel was 0.226 ± 0.116 L/hr/kg and clearance of tacrolimus 0.172 ± 0.088 L/hr/kg.
+The mean clearance of radiolabel was 0.226 ± 0.116 L/hr/kg and clearance of tacrolimus was 0.172 ± 0.088 L/hr/kg.
+
 Specific Populations
 
 Pediatric Patients
 
-PROGRAF capsules Pharmacokinetics in Pediatric Patients Pharmacokinetics of tacrolimus have been studied in liver transplantation patients, 0.7 to 13.2 years of age.
+PROGRAF capsules Pharmacokinetics in Pediatric Patients
+
+Pharmacokinetics of tacrolimus have been studied in liver transplantation patients, 0.7 to 13.2 years of age.
 Following IV administration of a 0.037 mg/kg/day dose to 12 pediatric patients, mean terminal half-life, volume of distribution and clearance were 11.5 ± 3.8 hours, 2.6 ± 2.1 L/kg and 0.138 ± 0.071 L/hr/kg, respectively.
 Following oral administration to 9 patients, mean AUC and Cmax were 337 ± 167 ng·hr/mL and 48.4 ± 27.9 ng/mL, respectively.
 The absolute bioavailability was 31 ± 24%.
@@ -93,7 +113,7 @@ Following IV infusion of a 0.06 mg/kg/day to 12 pediatric patients (8 male and 4
 Following oral administration to the same patients, mean AUC and Cmax were 181 ± 65 ng·hr/mL and 30 ± 11 ng/mL, respectively.
 The absolute bioavailability was 19 ± 14%.
 
-Whole blood trough concentrations from 31 patients less than 12 years old showed that pediatric patients needed higher doses than adults to achieve similar tacrolimus trough concentrations [see Dosage and Administration (2.2)].
+Whole blood trough concentrations from 31 patients less than 12 years old showed that pediatric patients needed higher doses than adults to achieve similar tacrolimus trough concentrations [see Dosage and Administration (2.3)].
 
 PROGRAF Granules Pharmacokinetics in Pediatric Patients
 
@@ -102,7 +122,7 @@ After an initial 24-hour continuous IV infusion of tacrolimus (0.025 mg/kg/hour)
 Tacrolimus whole blood trough concentrations ranged from 5-15 ng/mL for the first month post-transplant, and 5-10 ng/mL thereafter.
 Two pharmacokinetic (PK) profiles, AUC, Cmax, Tmax and Ctrough, were taken after the first oral dose (Day 1) and at steady state (Day 7).
 Subsequent oral doses of PROGRAF Granules were adjusted based on clinical evidence of efficacy, the whole-blood trough levels, and/or occurrence of adverse events.
-Of 52 patients enrolled, thirty-eight (38) had evaluable PK profile.
+Of 52 patients enrolled, thirty-eight (38) had an evaluable PK profile.
 The mean pediatric age was 6.1 years for heart transplant, 1.1 years for liver transplant and 3.6 years for kidney transplant.
 Summary results of PK parameters are presented in Table 18.
 
@@ -112,49 +132,46 @@ Summary of Whole Blood PK Parameters of Tacrolimus after Administration of PROGR
 | Population | N(age range) |  | Parameters |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | AUCtau [hr*ng/mL]mean ± SD | Cmax [ng/mL]mean ± SD | Tmax [hr]mean ± SD | Ctrough [ng/mL]mean ± SD |  |  |  |
-| Heart Transplant Patients | 12 (0.58-13 years) | Day 1Day 7 | 224.13 ± 114.30165.17 ± 39.12 | 45.61 ± 19.5532.69 ± 9.78 | 2.95 ± 4.330.84 ± 0.44 | 12.60 ± 13.407.57 ± 1.80 |
-| Liver Transplant Patients | 14 (0.33-12 years) | Day 1Day 7 | 210.56 ± 84.01195.08 ± 94.63 | 25.11 ± 10.7830.52 ± 19.35 | 2.73 ± 1.841.71 ± 1.12 | 13.41 ± 7.119.71 ± 4.03 |
-| Kidney Transplant Patients | 12 (2.42-11 years) | Day 1Day 7 | 97.40 ± 36.77208.32 ± 68.75 | 18.04 ± 8.1036.63 ± 13.97 | 1.78 ± 0.881.09 ± 0.61 | 3.54 ± 1.458.92 ± 3.59 |
+| Heart Transplant Patients | 12 (0.58-13 years) | Day 1 Day 7 | 224.13 ± 114.30 165.17 ± 39.12 | 45.61 ± 19.55 32.69 ± 9.78 | 2.95 ± 4.33 0.84 ± 0.44 | 12.60 ± 13.40 7.57 ± 1.80 |
+| Liver Transplant Patients | 14 (0.33-12 years) | Day 1 Day 7 | 210.56 ± 84.01 195.08 ± 94.63 | 25.11 ± 10.78 30.52 ± 19.35 | 2.73 ± 1.84 1.71 ± 1.12 | 13.41 ± 7.11 9.71 ± 4.03 |
+| Kidney Transplant Patients | 12 (2.42-11 years) | Day 1 Day 7 | 97.40 ± 36.77 208.32 ± 68.75 | 18.04 ± 8.10 36.63 ± 13.97 | 1.78 ± 0.88 1.09 ± 0.61 | 3.54 ± 1.45 8.92 ± 3.59 |
 
-Renal and Hepatic Impaired Patients The mean pharmacokinetic parameters for tacrolimus following single administrations to adult patients with renal and hepatic impairment are given in Table 19.
+Renal and Hepatic Impaired Patients
+
+The mean pharmacokinetic parameters for tacrolimus following single administrations to adult patients with renal and hepatic impairment are given in Table 19.
 
 Table 19.
 Pharmacokinetics in Renal and Hepatic Impaired Adult Patients
 
 | Population(No. of Patients) | Dose | AUC0-t(ng·hr/mL) | t1/2(hr) | V(L/kg) | CI(L/hr/kg) |
 | --- | --- | --- | --- | --- | --- |
-| Renal Impairment (n = 12) | 0.02mg/kg/4hrIV | 393 ± 123(t = 60 hr) | 26.3 ± 9.2 | 1.07 ± 0.20 | 0.038 ± 0.014 |
-| Mild Hepatic Impairment (n = 6) | 0.02mg/kg/4hrIV | 367 ± 107(t = 72 hr) | 60.6 ± 43.8Range: 27.8 – 141 | 3.1 ± 1.6 | 0.042 ± 0.02 |
+| Renal Impairment (n = 12) | 0.02mg/kg/4 hrIV | 393 ± 123(t = 60 hr) | 26.3 ± 9.2 | 1.07 ± 0.20 | 0.038 ± 0.014 |
+| Mild Hepatic Impairment (n = 6) | 0.02mg/kg/4 hrIV | 367 ± 107(t = 72 hr) | 60.6 ± 43.8Range: 27.8 – 141 | 3.1 ± 1.6 | 0.042 ± 0.02 |
 | 7.7 mgPO | 488 ± 320(t = 72 hr) | 66.1 ± 44.8Range: 29.5 – 138 | 3.7 ± 4.7corrected for bioavailability | 0.034 ± 0.019 |  |
-| Severe Hepatic Impairment (n = 6, IV) | 0.02 mg/kg/4hrIV (n = 2) 0.01 mg/kg/8hrIV (n = 4) | 762 ± 204(t = 120 hr) 289 ± 117(t = 144 hr) | 198 ± 158Range: 81– 436 | 3.9 ± 1.0 | 0.017 ± 0.013 |
+| Severe Hepatic Impairment (n = 6, IV) | 0.02 mg/kg/4 hrIV (n = 2) 0.01 mg/kg/8 hrIV (n = 4) | 762 ± 204(t = 120 hr) 289 ± 117(t = 144 hr) | 198 ± 158Range: 81– 436 | 3.9 ± 1.0 | 0.017 ± 0.013 |
 | (n = 5, PO)1 patient did not receive the PO dose | 8 mg PO(n = 1) 5 mg PO(n = 4)4 mg PO(n = 1) | 658(t = 120 hr) 533 ± 156(t = 144 hr) | 119 ± 35Range: 85 – 178 | 3.1 ± 3.4 | 0.016 ± 0.011 |
 
-Renal Impairment:
-
-Tacrolimus pharmacokinetics following a single IV administration were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9 ± 1.6 and 12.0 ± 2.4 mg/dL, respectively) prior to their kidney transplant.
+Patients with Renal Impairment Tacrolimus pharmacokinetics, following a single IV administration, were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9 ± 1.6 and 12.0 ± 2.4 mg/dL, respectively) prior to their kidney transplant.
 The pharmacokinetic parameters obtained were similar for both groups.
-The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 19) [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 19) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
-Hepatic Impairment:
-
-Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
+Patients with Hepatic Impairment Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
 The mean clearance of tacrolimus in patients with mild hepatic dysfunction was not substantially different from that in normal volunteers (see previous table).
 Tacrolimus pharmacokinetics were studied in 6 patients with severe hepatic dysfunction (mean Pugh score: > 10).
-The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
+The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
-Race The pharmacokinetics of tacrolimus have been studied following single IV and oral administration of PROGRAF to 10 African-American, 12 Latino-American, and 12 Caucasian healthy volunteers.
+Racial or Ethnic Groups The pharmacokinetics of tacrolimus have been studied following single IV and oral administration of PROGRAF to 10 African-American, 12 Latino-American, and 12 Caucasian healthy volunteers.
 There were no significant pharmacokinetic differences among the three ethnic groups following a 4-hour IV infusion of 0.015 mg/kg.
-However, after single oral administration of 5 mg, mean (± SD) tacrolimus Cmax in African-Americans (23.6 ± 12.1 ng/mL) was significantly lower than in Caucasians (40.2 ± 12.6 ng/mL) and the Latino-Americans (36.2 ± 15.8 ng/mL) (p < 0.01).
+However, after single oral administration of 5 mg, mean (± SD) tacrolimus Cmax in African-Americans (23.6 ± 12.1 ng/mL) was significantly lower than in Caucasians (40.2 ± 12.6 ng/mL) and Latino-Americans (36.2 ± 15.8 ng/mL) (p < 0.01).
 Mean AUC0-inf tended to be lower in African-Americans (203 ± 115 ng·hr/mL) than Caucasians (344 ± 186 ng·hr/mL) and Latino-Americans (274 ± 150 ng·hr/mL).
 The mean (± SD) absolute oral bioavailability (F) in African-Americans (12 ± 4.5%) and Latino-Americans (14 ± 7.4%) was significantly lower than in Caucasians (19 ± 5.8%, p = 0.011).
 There was no significant difference in mean terminal T1/2 among the three ethnic groups (range from approximately 25 to 30 hours).
-A retrospective comparison of African-American and Caucasian kidney transplant patients indicated that African-American patients required higher tacrolimus doses to attain similar trough concentrations [see Dosage and Administration (2.3)].
+A retrospective comparison of African-American and Caucasian kidney transplant patients indicated that African-American patients required higher tacrolimus doses to attain similar trough concentrations [see Dosage and Administration (2.2)].
 
-Gender A formal trial to evaluate the effect of gender on tacrolimus pharmacokinetics has not been conducted, however, there was no difference in dosing by gender in the kidney transplant trial.
+Male and Female Patients A formal trial to evaluate the effect of gender on tacrolimus pharmacokinetics has not been conducted, however, there was no difference in dosing by gender in the kidney transplant trial.
 A retrospective comparison of pharmacokinetics in healthy volunteers, and in kidney, liver, and heart transplant patients indicated no gender-based differences.
-Drug Interaction Studies
 
-Frequent monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when concomitant use of the following drugs with tacrolimus is initiated or discontinued [see Drug Interactions (7)].
+Drug Interaction Studies Frequent monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when concomitant use of the following drugs with tacrolimus is initiated or discontinued [see Drug Interactions (7)].
 
 - •Telaprevir: In a single-dose study in 9 healthy volunteers, co-administration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg three times daily for 13 days) increased the tacrolimus dose-normalized Cmax by 9.3-fold and AUC by 70-fold compared to tacrolimus alone [see Drug Interactions (7.2)].
 - •Boceprevir: In a single-dose study in 12 subjects, co-administration of tacrolimus (0.5 mg single dose) with boceprevir (800 mg three times daily for 11 days) increased tacrolimus Cmax by 9.9-fold and AUC by 17-fold compared to tacrolimus alone [see Drug Interactions (7.2)].

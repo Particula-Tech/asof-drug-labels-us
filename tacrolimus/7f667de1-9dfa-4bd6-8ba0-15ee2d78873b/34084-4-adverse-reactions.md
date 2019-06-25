@@ -26,7 +26,7 @@ The trial population had a mean age of 43 years (mean ± SD was 43 ± 13 years o
 The 12-month post-transplant information from this trial is presented below.
 
 The most common adverse reactions (≥ 30%) observed in PROGRAF-treated kidney transplant patients are: infection, tremor, hypertension, abnormal renal function, constipation, diarrhea, headache, abdominal pain, insomnia, nausea, hypomagnesemia, urinary tract infection, hypophosphatemia, peripheral edema, asthenia, pain, hyperlipidemia, hyperkalemia, and anemia.
-Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 52% of kidney transplantation patients.
+Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 52% of kidney transplantation patients.
 
 Adverse reactions that occurred in ≥ 15% of kidney transplant patients treated with PROGRAF in conjunction with azathioprine are presented below:
 
@@ -84,7 +84,7 @@ Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treat
 
 Two trials were conducted for PROGRAF-based immunosuppression in conjunction with MMF and corticosteroids.
 In the non-US trial (Study 1), the incidence of adverse reactions was based on 1195 kidney transplant patients that received PROGRAF (Group C, n = 403), or one of two cyclosporine (CsA) regimens (Group A, n = 384 and Group B, n = 408) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
-The trial population had a mean age of 46 years (range 17 to 76), the distribution was 65% male, and the composition was 93% Caucasian.
+The trial population had a mean age of 46 years (range 17 to 76); the distribution was 65% male, and the composition was 93% Caucasian.
 The 12-month post-transplant information from this trial is presented below.
 
 Adverse reactions that occurred in ≥ 10% of kidney transplant patients treated with PROGRAF in conjunction with MMF in Study 1 [Note: This trial was conducted entirely outside of the United States.
@@ -95,7 +95,7 @@ Kidney Transplantation: Adverse Reactions Occurring in ≥ 10% of Patients Treat
 
 |  | PROGRAF (Group C) | Cyclosporine (Group A) | Cyclosporine (Group B) |
 | --- | --- | --- | --- |
-|  | (N = 403) | (N = 384) | (N = 408) |
+| (N = 403) | (N = 384) | (N = 408) |  |
 | Diarrhea | 25% | 16% | 13% |
 | Urinary Tract Infection | 24% | 28% | 24% |
 | Anemia | 17% | 19% | 17% |
@@ -106,7 +106,7 @@ Kidney Transplantation: Adverse Reactions Occurring in ≥ 10% of Patients Treat
 | Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |
 
 In the U.S. trial (Study 2) with PROGRAF-based immunosuppression in conjunction with MMF and corticosteroids, 424 kidney transplant patients received PROGRAF (n = 212) or cyclosporine (n = 212) in combination with MMF 1 gram twice daily, basiliximab induction, and corticosteroids.
-The trial population had a mean age of 48 years (range 17 to 77), the distribution was 63% male, and the composition was White (74%), African-American (20%), Asian (3%), and Other (3%).
+The trial population had a mean age of 48 years (range 17 to 77); the distribution was 63% male, and the composition was White (74%), African-American (20%), Asian (3%), and Other (3%).
 The 12-month post-transplant information from this trial is presented below.
 
 Adverse reactions that occurred in ≥ 15% of kidney transplant patients treated with PROGRAF in conjunction with MMF in Study 2 are presented below:
@@ -152,9 +152,9 @@ Liver Transplantation
 
 There were two randomized comparative liver transplant trials.
 In the U.S. trial, 263 adult and pediatric patients received tacrolimus and steroids and 266 patients received cyclosporine-based immunosuppressive regimen (CsA/AZA).
-The trial population had a mean age of 44 years (range 0.4 to 70), the distribution was 52% male, and the composition was White (78%), African-American (5%), Asian (2%), Hispanic (13%), and Other (2%).
+The trial population had a mean age of 44 years (range 0.4 to 70); the distribution was 52% male, and the composition was White (78%), African-American (5%), Asian (2%), Hispanic (13%), and Other (2%).
 In the European trial, 270 patients received tacrolimus and steroids and 275 patients received CsA/AZA.
-The trial population had a mean age of 46 years (range 15 to 68), the distribution was 59% male, and the composition was White (95.4%), Black (1%), Asian (2%), and Other (2%).
+The trial population had a mean age of 46 years (range 15 to 68); the distribution was 59% male, and the composition was White (95.4%), Black (1%), Asian (2%), and Other (2%).
 
 The proportion of patients reporting more than one adverse event was > 99% in both the tacrolimus group and the CsA/AZA group.
 Precautions must be taken when comparing the incidence of adverse reactions in the U.S. trial to that in the European trial.
@@ -165,7 +165,7 @@ Adverse reactions reported in ≥ 15% in tacrolimus patients (combined trial res
 The most common adverse reactions (≥ 40%) observed in PROGRAF-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
 These all occur with oral and IV administration of PROGRAF and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
-Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving PROGRAF in the U.S. and European randomized trials.
+Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving PROGRAF in the U.S. and European randomized trials.
 
 Table 7.
 Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with PROGRAF
@@ -254,19 +254,21 @@ Pediatric Liver Transplantation: Adverse Reactions Occurring in > 10% of Patient
 
 Less frequently observed adverse reactions in liver transplantation patients are described under the subsection “Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, and Heart Transplant Studies.”
 
-Heart Transplantation The incidence of adverse reactions was determined based on two trials in primary orthotopic heart transplantation.
+Heart Transplantation
+
+The incidence of adverse reactions was determined based on two trials in primary orthotopic heart transplantation.
 In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids, and azathioprine (AZA) in combination with PROGRAF (n = 157) or cyclosporine (n = 157) for 18 months.
-The trial population had a mean age of 51 years (range 18 to 65), the distribution was 82% male, and the composition was White (96%), Black (3%), and other (1%).
+The trial population had a mean age of 51 years (range 18 to 65); the distribution was 82% male, and the composition was White (96%), Black (3%), and Other (1%).
 
 The most common adverse reactions (≥ 15%) observed in PROGRAF-treated heart transplant patients are: abnormal renal function, hypertension, diabetes mellitus, CMV infection, tremor, hyperglycemia, leukopenia, infection, anemia, bronchitis, pericardial effusion, urinary tract infection, and hyperlipemia.
-Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 59% of heart transplantation patients in the European trial.
+Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 59% of heart transplantation patients in the European trial.
 
 Adverse reactions in heart transplant patients in the European trial are presented below:
 
 Table 9.
 Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with PROGRAF in Conjunction with Azathioprine (AZA)
 
-|  | PROGRAF/AZA(n = 157) | Cyclosporine/AZA(n = 157) |
+|  | PROGRAF/AZA(N = 157) | Cyclosporine/AZA(N = 157) |
 | --- | --- | --- |
 | Cardiovascular System |  |  |
 | Hypertension | 62% | 69% |
@@ -290,10 +292,13 @@ Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treate
 | Tremor | 15% | 6% |
 
 In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32% to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74% to 86% of the patients in the tacrolimus treatment arm.
+
 In a U.S. trial, the incidence of adverse reactions was based on 331 heart transplant patients that received corticosteroids and PROGRAF in combination with sirolimus (n=109), PROGRAF in combination with MMF (n=107) or cyclosporine modified in combination with MMF (n=115) for 1 year.
-The trial population had a mean age of 53 years (range 18 to 75), the distribution was 78% male, and the composition was White (83%), African-American (13%) and other (4%).
+The trial population had a mean age of 53 years (range 18 to 75); the distribution was 78% male, and the composition was White (83%), African-American (13%) and Other (4%).
+
 Only selected targeted treatment-emergent adverse reactions were collected in the U.S. heart transplantation trial.
 Those reactions that were reported at a rate of 15% or greater in patients treated with PROGRAF and MMF include the following: any target adverse reactions (99%), hypertension (89%), hyperglycemia requiring antihyperglycemic therapy (70%), hypertriglyceridemia (65%), anemia (hemoglobin < 10.0 g/dL) (65%), fasting blood glucose > 140 mg/dL (on two separate occasions) (61%), hypercholesterolemia (57%), hyperlipidemia (34%), WBCs < 3000 cells/mcL (34%), serious bacterial infections (30%), magnesium < 1.2 mEq/L (24%), platelet count < 75,000 cells/mcL (19%), and other opportunistic infections (15%).
+
 Other targeted treatment-emergent adverse reactions in PROGRAF-treated patients occurred at a rate of less than 15%, and include the following: Cushingoid features, impaired wound healing, hyperkalemia, Candida infection, and CMV infection/syndrome.
 Other less frequently observed adverse reactions in heart transplantation patients are described under the subsection “Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney and Heart Transplant Studies.”
 
@@ -309,7 +314,7 @@ Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant 
 
 | Parameter | Treatment Group |  |
 | --- | --- | --- |
-| PROGRAF/MMF(n = 212) | NEORAL/MMF(n = 212) |  |
+| PROGRAF/MMF(N = 212) | NEORAL/MMF(N = 212) |  |
 | NODAT | 112/150 (75%) | 93/152 (61%) |
 | Fasting Plasma Glucose ≥ 126 mg/dL | 96/150 (64%) | 80/152 (53%) |
 | HbA1C ≥ 6% | 59/150 (39%) | 28/152 (18%) |
@@ -326,7 +331,7 @@ African-American and Hispanic kidney transplant patients were at an increased ri
 Table 11.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kidney Transplant Recipients in a Phase 3 Trial using Azathioprine (AZA)
 
-| Status of PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | PROGRAF/AZA | CsA/AZA |
+| Status of PTDMUse of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | PROGRAF/AZA | CsA/AZA |
 | --- | --- | --- |
 | Patients without pre-transplant history of diabetes mellitus | 151 | 151 |
 | New onset PTDM, 1st Year | 30/151 (20%) | 6/151 (4%) |
@@ -352,15 +357,17 @@ Hyperglycemia was associated with the use of PROGRAF in 47% and 33% of liver tra
 Table 13.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients
 
-| Status of PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
+| Status of PTDMUse of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 | PROGRAF | Cyclosporine | PROGRAF | Cyclosporine |  |
 | Patients at riskPatients without pre-transplant history of diabetes mellitus. | 239 | 236 | 239 | 249 |
 | New Onset PTDM | 42 (18%) | 30 (13%) | 26 (11%) | 12 (5%) |
 | Patients still on insulin at 1 year | 23 (10%) | 19 (8%) | 18 (8%) | 6 (2%) |
 
-Heart Transplantation Insulin-dependent PTDM was reported in 13% and 22% of PROGRAF-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 14).
-Hyperglycemia defined as two fasting plasma glucose levels ≥126 mg/dL was reported with the use of PROGRAF plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
+Heart Transplantation
+
+Insulin-dependent PTDM was reported in 13% and 22% of PROGRAF-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 14).
+Hyperglycemia, defined as two fasting plasma glucose levels ≥ 126 mg/dL was reported with the use of PROGRAF plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
 
 Table 14.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
@@ -381,7 +388,7 @@ The following adverse reactions were reported in either liver, kidney, and/or he
 - •Gastrointestinal: Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, esophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, stomatitis
 - •Cardiovascular: Abnormal ECG, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, bradycardia, cardiac fibrillation, cardiopulmonary failure, congestive heart failure, deep thrombophlebitis, echocardiogram abnormal, electrocardiogram QRS complex abnormal, electrocardiogram ST segment abnormal, heart failure, heart rate decreased, hemorrhage, hypotension, phlebitis, postural hypotension, syncope, tachycardia, thrombosis, vasodilatation
 - •Urogenital: Acute kidney failure [see Warnings and Precautions (5.5)], albuminuria, BK nephropathy, bladder spasm, cystitis, dysuria, hematuria, hydronephrosis, kidney failure, kidney tubular necrosis, nocturia, pyuria, toxic nephropathy, urge incontinence, urinary frequency, urinary incontinence, urinary retention, vaginitis
-- •Metabolic/Nutritional: Acidosis, alkaline phosphatase increased, alkalosis, ALT (SGPT) increased, AST (SGOT) increased, bicarbonate decreased, bilirubinemia, dehydration, GGT increased, gout, healing abnormal, hypercalcemia, hypercholesterolemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypoglycemia, hyponatremia, hypoproteinemia, lactic dehydrogenase increase, weight gain
+- •Metabolic/Nutritional: Acidosis, alkaline phosphatase increased, alkalosis, ALT (SGPT) increased, AST (SGOT) increased, bicarbonate decreased, bilirubinemia, dehydration, GGT increased, gout, healing abnormal, hypercalcemia, hypercholesterolemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypoglycemia, hyponatremia, hypoproteinemia, lactic dehydrogenase increased, weight gain
 - •Endocrine: Cushing’s syndrome
 - •Hemic/Lymphatic: Coagulation disorder, ecchymosis, hematocrit increased, hypochromic anemia, leukocytosis, polycythemia, prothrombin decreased, serum iron decreased
 - •Miscellaneous: Abdomen enlarged, abscess, accidental injury, allergic reaction, cellulitis, chills, fall, flu syndrome, generalized edema, hernia, mobility decreased, peritonitis, photosensitivity reaction, sepsis, temperature intolerance, ulcer
@@ -392,20 +399,20 @@ The following adverse reactions were reported in either liver, kidney, and/or he
 ## 6.2 Postmarketing Adverse Reactions
 
 The following adverse reactions have been reported from worldwide marketing experience with tacrolimus.
-Because these reactions are reported voluntarily from a population of uncertain size it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of the reporting, or (3) strength of causal connection to the drug.
 
 Other reactions include:
 
 - •Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy [see Warnings and Precautions (5.13)]
 - •Gastrointestinal: Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastroesophageal reflux disease, hepatic cytolysis, hepatic necrosis, hepatotoxicity, impaired gastric emptying, liver fatty, mouth ulceration, pancreatitis hemorrhagic, pancreatitis necrotizing, stomach ulcer, veno-occlusive liver disease
-- •Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.15)]
-- •Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy, (PVAN) including graft loss [see Warnings and Precautions (5.2)]
+- •Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.15)]
+- •Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy (PVAN) including graft loss [see Warnings and Precautions (5.2)]
 - •Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased
 - •Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
 - •Musculoskeletal and Connective Tissue Disorders: Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
 - •Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.6)], progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.2)], quadriplegia, speech disorder, syncope
 - •Respiratory: Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 - •Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
-- •Special Senses: Blindness, blindness cortical, hearing loss including deafness, photophobia
+- •Special Senses: Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
 - •Urogenital: Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome
