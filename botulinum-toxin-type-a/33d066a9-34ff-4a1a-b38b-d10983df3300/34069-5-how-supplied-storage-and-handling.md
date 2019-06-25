@@ -1,5 +1,7 @@
 # 16HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
 BOTOX (onabotulinumtoxinA) for injection is a sterile, vacuum-dried powder supplied in a single-dose vial in the following sizes:
 
 100 Units NDC 0023-1145-01
@@ -12,7 +14,7 @@ Each BOTOX vial label and carton also contains the U.S. License number: 1145 [se
 
 Do not use the product and contact Allergan for additional information at 1-800-890-4345 from 7:00 AM to 3:00 PM Pacific Time if the labeling is not described as above.
 
-Storage
+## 16.2 Storage and Handling
 
 Unopened vials of BOTOX should be stored in a refrigerator between 2° to 8°C (36º to 46ºF) for up to 36 months.
 Do not use after the expiration date on the vial.

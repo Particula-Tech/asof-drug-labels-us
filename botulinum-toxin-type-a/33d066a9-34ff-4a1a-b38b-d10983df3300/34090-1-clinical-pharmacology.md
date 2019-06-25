@@ -1,6 +1,6 @@
 # 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 BOTOX blocks neuromuscular transmission by binding to acceptor sites on motor or autonomic nerve terminals, entering the nerve terminals, and inhibiting the release of acetylcholine.
 This inhibition occurs as the neurotoxin cleaves SNAP-25, a protein integral to the successful docking and release of acetylcholine from vesicles situated within nerve endings.
@@ -12,6 +12,6 @@ When injected intradermally, BOTOX produces temporary chemical denervation of th
 
 Following intradetrusor injection, BOTOX affects the efferent pathways of detrusor activity via inhibition of acetylcholine release.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Using currently available analytical technology, it is not possible to detect BOTOX in the peripheral blood following intramuscular injection at the recommended doses.
