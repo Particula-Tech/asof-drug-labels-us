@@ -2,8 +2,7 @@
 
 ## 16.1 How Supplied
 
-VICTOZA is available in the following package sizes containing disposable, pre-filled, multi-dose pens.
-Each individual pen delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg (6 mg/mL, 3 mL).
+VICTOZA Injection: 18 mg/3 mL (6 mg/mL) clear, colorless solution in a pre-filled, multi-dose pen that delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg is available in the following package sizes:
 
 2 x VICTOZA pen NDC 0169-4060-12
 
@@ -14,7 +13,7 @@ A VICTOZA pen must never be shared between patients, even if the needle is chang
 
 ## 16.2 Recommended Storage
 
-Prior to first use, VICTOZA should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC) (Table 13).
+Prior to first use, VICTOZA should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC) (Table 14).
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze VICTOZA and do not use VICTOZA if it has been frozen.
 
@@ -25,7 +24,7 @@ Always remove and safely discard the needle after each injection and store the V
 This will reduce the potential for contamination, infection, and leakage while also ensuring dosing accuracy.
 Always use a new needle for each injection to prevent contamination.
 
-Table 13 Recommended Storage Conditions for the VICTOZA Pen
+Table 14 Recommended Storage Conditions for the VICTOZA Pen
 
 | Prior to first use | After first use |  |
 | --- | --- | --- |

@@ -49,21 +49,21 @@ If a dose is missed, the once-daily regimen should be resumed as prescribed with
 If more than 3 days have elapsed since the last dose, advise the patient to reinitiate VICTOZA at 0.6 mg to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
 VICTOZA should be titrated at the discretion of the prescribing physician [see Dosage and Administration (2)].
 
-Date of Issue: August 25, 2017
-
-Version: 10
-
-VICTOZA® is a registered trademark of Novo Nordisk A/S.
-
-PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
-
-© 2010-2017 Novo Nordisk
-
 Manufactured by:
 
 Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
+
+Date of Issue: June 2019
+
+Version: 11
+
+VICTOZA® is a registered trademark of Novo Nordisk A/S.
+
+PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
+
+© 2010-2019 Novo Nordisk
 
 For information about VICTOZA contact:
 

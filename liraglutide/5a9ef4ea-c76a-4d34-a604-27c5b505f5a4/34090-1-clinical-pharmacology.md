@@ -78,7 +78,8 @@ The exposure of liraglutide decreases with an increase in baseline body weight.
 However, the 1.2 mg and 1.8 mg daily doses of VICTOZA provided adequate systemic exposures over the body weight range of 40 – 160 kg evaluated in the clinical trials.
 Liraglutide was not studied in patients with body weight >160 kg.
 
-Pediatric - VICTOZA has not been studied in pediatric patients [see Use in Specific Populations (8.4)].
+Pediatric - A population pharmacokinetic analysis was conducted for VICTOZA using data from 72 pediatric subjects (10 to 17 years of age) with type 2 diabetes.
+The pharmacokinetic profile of VICTOZA in the pediatric subjects was consistent with that in adults.
 
 Renal Impairment - The single-dose pharmacokinetics of VICTOZA were evaluated in subjects with varying degrees of renal impairment.
 Subjects with mild (estimated creatinine clearance 50-80 mL/min) to severe (estimated creatinine clearance <30 mL/min) renal impairment and subjects with end-stage renal disease requiring dialysis were included in the trial.

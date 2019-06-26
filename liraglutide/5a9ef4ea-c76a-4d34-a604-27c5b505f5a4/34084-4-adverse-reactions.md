@@ -14,15 +14,16 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Common Adverse Reactions
 
-The data in Table 1 are derived from 5 glycemic control, placebo-controlled trials [see Clinical Studies (14.1)].
-These data reflect exposure of 1673 patients to VICTOZA and a mean duration of exposure to VICTOZA of 37.3 weeks.
-The mean age of patients was 58 years, 4% were 75 years or older and 54% were male.
+The safety of VICTOZA in subjects with type 2 diabetes was evaluated in 5 glycemic control, placebo-controlled trials in adults and one trial of 52 weeks duration in pediatric patients 10 years of age and older [see Clinical Studies (14.1)].
+The data in Table 1 reflect exposure of 1673 adult patients to VICTOZA and a mean duration of exposure to VICTOZA of 37.3 weeks.
+The mean age of adult patients was 58 years, 4% were 75 years or older and 54% were male.
 The population was 79% White, 6% Black or African American, 13% Asian; 4% were of Hispanic or Latino ethnicity.
 At baseline the population had diabetes for an average of 9.1 years and a mean HbA1c of 8.4%.
 Baseline estimated renal function was normal or mildly impaired in 88.1% and moderately impaired in 11.9% of the pooled population.
 
-Table 1 shows common adverse reactions, excluding hypoglycemia, associated with the use of VICTOZA.
+Table 1 shows common adverse reactions in adults, excluding hypoglycemia, associated with the use of VICTOZA.
 These adverse reactions occurred more commonly on VICTOZA than on placebo and occurred in at least 5% of patients treated with VICTOZA.
+Overall, the type, and severity of adverse reactions in adolescents and children aged 10 years and above were comparable to that observed in the adult population.
 
 Table 1 Adverse reactions reported in ≥ 5% of VICTOZA-treated patients
 
@@ -58,32 +59,33 @@ Less than 0.2% of VICTOZA-treated patients discontinued due to injection site re
 
 Hypoglycemia
 
-Hypoglycemia requiring the assistance of another person in placebo-controlled trials
-
-In 5 glycemic control, placebo-controlled clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 8 VICTOZA-treated patients (7.5 events per 1000 patient-years).
+In 5 adult glycemic control, placebo-controlled clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 8 VICTOZA-treated patients (7.5 events per 1000 patient-years).
 Of these 8 VICTOZA-treated patients, 7 patients were concomitantly using a sulfonylurea.
 
-Table 2 Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in 26-Week Combination Therapy Placebo-controlled Trials
+Table 2 Adult Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in 26-Week Combination Therapy Placebo-controlled Trials
 
 |  | Placebo Comparator | VICTOZA Treatment |
 | --- | --- | --- |
-| Add-on to Metformin | Placebo +Metformin(N = 121) | VICTOZA +Metformin (N = 724) |
+| Add-on to Metformin | Placebo + Metformin(N = 121) | VICTOZA + Metformin (N = 724) |
 | Patient not able to self-treat | 0 | 0.1 (0.001) |
 | Patient able to self-treat | 2.5 (0.06) | 3.6 (0.05) |
 | Add-on to Glimepiride | Placebo + Glimepiride (N = 114) | VICTOZA + Glimepiride (N = 695) |
 | Patient not able to self-treat | 0 | 0.1 (0.003) |
 | Patient able to self-treat | 2.6 (0.17) | 7.5 (0.38) |
 | Not classified | 0 | 0.9 (0.05) |
-| Add-on to Metformin + Rosiglitazone | Placebo + Metformin + Rosiglitazone (N = 175) | VICTOZA +Metformin +Rosiglitazone (N = 355) |
+| Add-on to Metformin + Rosiglitazone | Placebo + Metformin + Rosiglitazone (N = 175) | VICTOZA + Metformin +Rosiglitazone (N = 355) |
 | Patient not able to self-treat | 0 | 0 |
 | Patient able to self-treat | 4.6 (0.15) | 7.9 (0.49) |
 | Not classified | 1.1 (0.03) | 0.6 (0.01) |
-| Add-on to Metformin + Glimepiride | Placebo + Metformin + Glimepiride (N = 114) | VICTOZA +Metformin +Glimepiride (N = 230) |
+| Add-on to Metformin + Glimepiride | Placebo + Metformin + Glimepiride (N = 114) | VICTOZA + Metformin +Glimepiride (N = 230) |
 | Patient not able to self-treat | 0 | 2.2 (0.06) |
 | Patient able to self-treat | 16.7 (0.95) | 27.4 (1.16) |
 | Not classified | 0 | 0 |
 
 “Patient not able to self-treat” is defined as an event requiring the assistance of another person for treatment.
+
+In a 26-week pediatric placebo-controlled clinical trial with a 26-week open-label extension, 21.2% of VICTOZA treated patients (mean age 14.6 years) with type 2 diabetes, had hypoglycemia with a blood glucose <54 mg/dL with or without symptoms (335 events per 1000 patient years).
+No severe hypoglycemic episodes occurred in the VICTOZA treatment group (severe hypoglycemia was defined as an episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions).
 
 Papillary thyroid carcinoma
 
@@ -95,7 +97,7 @@ Cholelithiasis and cholecystitis
 In glycemic control trials of VICTOZA, the incidence of cholelithiasis was 0.3% in both VICTOZA-treated and placebo-treated patients.
 The incidence of cholecystitis was 0.2% in both VICTOZA-treated and placebo-treated patients.
 
-In the LEADER trial [see Clinical Studies (14.2)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in VICTOZA-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
+In the LEADER trial [see Clinical Studies (14.3)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in VICTOZA-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
 The incidence of acute cholecystitis was 1.1% (2.9 cases per 1000 patient years of observation) in VICTOZA-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
 
 Laboratory Tests
@@ -148,22 +150,22 @@ In five double-blind glycemic control trials of VICTOZA, events from a composite
 Urticaria accounted for approximately one-half of the events in this composite for VICTOZA-treated patients.
 Patients who developed anti-liraglutide antibodies were not more likely to develop events from the immunogenicity events composite than were patients who did not develop anti-liraglutide antibodies.
 
-In the LEADER trial [see Clinical Studies (14.2)], anti-liraglutide antibodies were detected in 11 out of the 1247 (0.9%) VICTOZA-treated patients with antibody measurements.
+In the LEADER trial [see Clinical Studies (14.3)], anti-liraglutide antibodies were detected in 11 out of the 1247 (0.9%) VICTOZA-treated patients with antibody measurements.
 
 Of the 11 VICTOZA-treated patients who developed anti-liraglutide antibodies, none were observed to develop neutralizing antibodies to liraglutide, and 5 patients (0.4%) developed cross-reacting antibodies against native GLP-1.
+
+In a clinical trial with pediatric patients 10 to 17 years [see Clinical Studies (14.2)], anti-liraglutide antibodies were detected in 1 (1.5%) VICTOZA treated patient at week 26 and 5 (8.5%) VICTOZA treated patients at week 53.
+None of the 5 had antibodies cross reactive to native GLP-1 or had neutralizing antibodies.
 
 ## 6.3 Post-Marketing Experience
 
 The following additional adverse reactions have been reported during post-approval use of VICTOZA.
 Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Medullary thyroid carcinoma [see Warnings and Precautions (5.1)]
+- •Medullary thyroid carcinoma
 - •Dehydration resulting from nausea, vomiting and diarrhea.
-  [see Warnings and Precautions (5.5) and Patient Counseling Information (17)]
 - •Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
-  [see Warnings and Precautions (5.5) and Patient Counseling Information (17)]
 - •Angioedema and anaphylactic reactions.
-  [see Contraindications (4), Warnings and Precautions (5.6), Patient Counseling Information (17)]
 - •Allergic reactions: rash and pruritus
-- •Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death [see Warnings and Precautions (5.2)]
-- •Hepatobiliary disorders: elevations of liver enzymes, hyperbilirubinemia, cholestasis, hepatitis [see Adverse Reactions (6.1)]
+- •Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death
+- •Hepatobiliary disorders: elevations of liver enzymes, hepatitis

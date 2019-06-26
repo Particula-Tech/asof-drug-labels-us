@@ -9,7 +9,7 @@ It is unknown whether VICTOZA will cause thyroid C-cell tumors, including medull
 Cases of MTC in patients treated with VICTOZA have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and VICTOZA use in humans.
 
 VICTOZA is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2.
-Counsel patients regarding the potential risk for MTC with the use of VICTOZA and inform them of symptoms of thyroid tumors (e.g. a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
+Counsel patients regarding the potential risk for MTC with the use of VICTOZA and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
 
 Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with VICTOZA.
 Such monitoring may increase the risk of unnecessary procedures, due to low test specificity for serum calcitonin and a high background incidence of thyroid disease.
@@ -40,7 +40,9 @@ Pen-sharing poses a risk for transmission of blood-borne pathogens.
 ## 5.4 Use with Medications Known to Cause Hypoglycemia
 
 Patients receiving VICTOZA in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia.
-The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [see Dosage and Administration (2.2),Adverse Reactions (6.1)].
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [see Adverse Reactions (6.1), Drug Interactions (7.2)].
+
+In pediatric patients 10 years of age and older, the risk of hypoglycemia was higher with VICTOZA regardless of concomitant antidiabetic therapies.
 
 ## 5.5 Renal Impairment
 
@@ -57,13 +59,13 @@ Use caution when initiating or escalating doses of VICTOZA in patients with rena
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with VICTOZA.
 If a hypersensitivity reaction occurs, discontinue VICTOZA; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous hypersensitivity reaction to VICTOZA [see Contraindications (4)].
+Do not use in patients with a previous hypersensitivity reaction to VICTOZA [seeContraindications (4)].
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-receptor agonist because it is unknown whether such patients will be predisposed to these reactions with VICTOZA.
 
 ## 5.7 Acute Gallbladder Disease
 
-In the LEADER trial [see Clinical Studies (14.2)], 3.1% of VICTOZA-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis.
+In the LEADER trial [see Clinical Studies (14.3)], 3.1% of VICTOZA-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis.
 The majority of events required hospitalization or cholecystectomy.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
