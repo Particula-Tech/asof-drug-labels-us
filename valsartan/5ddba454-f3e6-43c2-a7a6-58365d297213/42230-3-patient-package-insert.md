@@ -1,4 +1,6 @@
-DIOVAN (DYE’-o-van)
+PATIENT INFORMATION
+
+DIOVAN® (DYE’-o-van)
 
 (valsartan) Tablets
 
@@ -51,8 +53,8 @@ Tell your doctor about all your medical conditions including whether you:
 - are pregnant or planning to become pregnant.
   See “What is the most important information I should know about DIOVAN?”
 - are breastfeeding.
-  It is not known if DIOVAN passes into your breast milk.
-  You and your doctor should decide if you will take DIOVAN or breastfeed, but not both.
+  It is not known if DIOVAN passes into your breast milk, or effects your breastfed baby or milk production.
+  Do not breastfeed while you are taking DIOVAN.
   Talk with your doctor about the best way to feed your baby if you take DIOVAN.
 - have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
@@ -169,10 +171,10 @@ Inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl met
 
 Distributed by:
 
-Novartis Pharmaceuticals Corp.
+Novartis Pharmaceuticals Corporation
 
 East Hanover, NJ 07936
 
 © Novartis
 
-T2017-19 February 2017
+T2019-67 Revised: 06/2019
