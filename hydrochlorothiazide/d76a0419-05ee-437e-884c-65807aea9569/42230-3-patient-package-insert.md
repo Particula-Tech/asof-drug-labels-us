@@ -2,7 +2,7 @@ FDA-Approved Patient Labeling
 
 PATIENT INFORMATION
 
-DIOVAN HCT (DYE’-o-van HCT)
+DIOVAN HCT® (DYE’-o-van HCT)
 
 (valsartan and hydrochlorothiazide)
 
@@ -47,7 +47,8 @@ Tell your doctor about all your medical conditions including if you:
   See “What is the most important information I should know about DIOVAN HCT?”
 - are breastfeeding.
   DIOVAN HCT passes into breast milk.
-  You should choose either to take DIOVAN HCT or breastfeed, but not both.
+  It is not known if DIOVAN HCT effects your breastfed baby or milk production.
+  Do not breastfeed while you are taking DIOVAN HCT.
 - have liver problems
 - have kidney problems
 - have or had gallstones
@@ -72,7 +73,7 @@ Especially, tell your doctor if you take:
 - narcotic pain medicines
 - sleeping pills
 - lithium, a medicine used in some types of depression (Eskalith®, Lithobid®, Lithium Carbonate, Lithium Citrate)
-- aspirin or other medicines called non-steroidal anti-inflammatory Drugs
+- aspirin or other medicines called non-steroidal anti-inflammatory Drugs (NSAIDs), like ibuprofen or naproxen
 - digoxin or other digitalis glycosides (a heart medicine)
 - muscle relaxants (medicines used during operations)
 - certain cancer medicines, like cyclophosphamide or methotrexate
@@ -200,4 +201,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2015-121 July 2015
+T2019-69 Revised: 06/2019

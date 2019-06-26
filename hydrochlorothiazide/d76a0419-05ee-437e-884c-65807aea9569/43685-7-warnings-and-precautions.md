@@ -2,14 +2,14 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D
-
+Diovan HCT can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Diovan HCT as soon as possible [see Use in Specific Populations (8.1)].
 
-Intrauterine exposure to thiazide diuretics is associated with fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+Thiazides cross the placenta, and use of thiazides during pregnancy is associated with fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+
+When pregnancy is detected, discontinue Diovan HCT as soon as possible [see Use in Specific Populations (8.1)].
 
 ## 5.2 Hypotension in Volume- and/or Salt-Depleted Patients
 
@@ -17,7 +17,7 @@ Excessive reduction of blood pressure was rarely seen (0.7%) in patients with un
 In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur.
 This condition should be corrected prior to administration of Diovan HCT, or the treatment should start under close medical supervision.
 
-If hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
+If hypotension occurs, place the patient in the supine position and, if necessary, give intravenous normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
 ## 5.3 Impaired Renal Function
@@ -29,11 +29,11 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 ## 5.4 Hypersensitivity Reaction
 
-Hydrochlorothiazide: Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
 
 ## 5.5 Systemic Lupus Erythematosus
 
-Hydrochlorothiazide: Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
 ## 5.6 Lithium Interaction
 
@@ -42,7 +42,7 @@ Monitor lithium levels in patients receiving Diovan HCT and lithium [see Drug In
 
 ## 5.7 Potassium Abnormalities
 
-Valsartan–Hydrochlorothiazide: In the controlled trials of various doses of Diovan HCT the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 3.0%; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4%.
+In the controlled trials of various doses of Diovan HCT the incidence of hypertensive patients who developed hypokalemia (serum potassium < 3.5 mEq/L) was 3.0%; the incidence of hyperkalemia (serum potassium > 5.7 mEq/L) was 0.4%.
 
 Hydrochlorothiazide can cause hypokalemia and hyponatremia.
 Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
@@ -66,8 +66,6 @@ Prompt medical or surgical treatments may need to be considered if the intraocul
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
 ## 5.9 Metabolic Disturbances
-
-Hydrochlorothiazide
 
 Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
 

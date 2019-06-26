@@ -8,7 +8,7 @@ Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiot
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
-Valsartan has much greater affinity (about 20000-fold) for the AT1 receptor than for the AT2 receptor.
+Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
 The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one 200th that of valsartan itself.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
@@ -37,7 +37,7 @@ Minimal decreases in plasma aldosterone were observed after administration of va
 
 Hydrochlorothiazide: After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
 
-Drug Interactions
+Pharmacodynamic Drug Interactions
 
 Hydrochlorothiazide:
 
@@ -52,7 +52,7 @@ Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predisp
 Valsartan: Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for the capsule formulation is about 25% (range 10% to 35%).
-Food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
+Food decreases the exposure [as measured by area under the curve (AUC)] to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
 Valsartan does not accumulate appreciably in plasma following repeated administration.
 
@@ -88,7 +88,7 @@ Following intravenous administration, plasma clearance of valsartan is about 2 L
 
 Hydrochlorothiazide: About 70% of an orally administered dose of hydrochlorothiazide is eliminated in the urine as unchanged drug.
 
-Special Populations
+Specific Populations
 
 Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 A limited amount of data suggest that the systemic clearance of hydrochlorothiazide is reduced in both healthy and hypertensive elderly subjects compared to young healthy volunteers.
@@ -98,14 +98,24 @@ Gender: Pharmacokinetics of valsartan do not differ significantly between males 
 Race: Pharmacokinetic differences due to race have not been studied.
 
 Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
-Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
+Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance < 10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 
-In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30< CrCl <90 mL/min) and tripled in severe renal impairment (CrCl ≤30 mL/min), compared to individuals with normal renal function (CrCl >90 mL/min) [see Use in Specific Populations (8.6)].
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (CrCl ≤ 30 mL/min), compared to individuals with normal renal function (CrCl > 90 mL/min) [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
 
 Drug Interactions
+
+Valsartan
+
+No clinically significant pharmacokinetic interactions were observed when Diovan (valsartan) was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
+The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+
+Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+
+Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
+Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
 
 Hydrochlorothiazide:
 

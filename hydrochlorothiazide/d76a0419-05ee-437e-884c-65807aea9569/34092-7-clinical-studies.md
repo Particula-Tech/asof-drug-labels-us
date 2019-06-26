@@ -38,7 +38,7 @@ Abrupt withdrawal of valsartan has not been associated with a rapid increase in 
 The 7 studies of valsartan monotherapy included over 2000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
 
-Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a comparable response in both groups.
+Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a similar response in both groups.
 
 In another 4-week study, 1876 patients randomized to valsartan 320 mg once daily had an incremental blood pressure reduction 3/1 mmHg lower than did 1900 patients randomized to valsartan 160 mg once daily.
 
@@ -48,13 +48,13 @@ There was essentially no change in heart rate in valsartan-treated patients in c
 
 ## 14.2 Initial Therapy - Hypertension
 
-The safety and efficacy of Diovan HCT as initial therapy for patients with severe hypertension (defined as a sitting diastolic blood pressure ≥110 mmHg and systolic blood pressure ≥140 mmHg off all antihypertensive therapy) was studied in a 6-week multicenter, randomized, double-blind study.
+The safety and efficacy of Diovan HCT as initial therapy for patients with severe hypertension (defined as a sitting diastolic blood pressure ≥ 110 mmHg and systolic blood pressure ≥ 140 mmHg off all antihypertensive therapy) was studied in a 6-week multicenter, randomized, double-blind study.
 Patients were randomized to either Diovan HCT (valsartan and hydrochlorothiazide 160/12.5 mg once daily) or to valsartan (160 mg once daily) and followed for blood pressure response.
 Patients were force-titrated at 2-week intervals.
 Patients on combination therapy were subsequently titrated to 160/25 mg followed by 320/25 mg valsartan/hydrochlorothiazide.
 Patients on monotherapy were subsequently titrated to 320 mg valsartan followed by a titration to 320 mg valsartan to maintain the blind.
 
-The study randomized 608 patients, including 261 (43%) females, 147 (24%) blacks, and 75 (12%) ≥65 years of age.
+The study randomized 608 patients, including 261 (43%) females, 147 (24%) blacks, and 75 (12%) ≥ 65 years of age.
 The mean blood pressure at baseline for the total population was 168/112 mmHg.
 The mean age was 52 years.
 After 4 weeks of therapy, reductions in systolic and diastolic blood pressure were 9/5 mmHg greater in the group treated with Diovan HCT compared to valsartan.

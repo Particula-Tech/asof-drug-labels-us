@@ -20,107 +20,37 @@ The only adverse reaction that occurred in controlled clinical trials in at leas
 Dose-related orthostatic effects were seen in fewer than 1% of patients.
 In individual trials, a dose-related increase in the incidence of dizziness was observed in patients treated with Diovan HCT.
 
-Other adverse reactions that have been reported with valsartan-hydrochlorothiazide (>0.2% of valsartan-hydrochlorothiazide patients in controlled clinical trials) without regard to causality, are listed below:
-
-Cardiovascular: Palpitations and tachycardia
-
-Ear and Labyrinth: Tinnitus and vertigo
-
-Gastrointestinal: Dyspepsia, diarrhea, flatulence, dry mouth, nausea, abdominal pain, abdominal pain upper, and vomiting
-
-General and Administration Site Conditions: Asthenia, chest pain, fatigue, peripheral edema and pyrexia
-
-Infections and Infestations: Bronchitis, bronchitis acute, influenza, gastroenteritis, sinusitis, upper respiratory tract infection, and urinary tract infection
-
-Investigations: Blood urea increased
-
-Musculoskeletal: Arthralgia, back pain, muscle cramps, myalgia, and pain in extremity
-
-Nervous System: Dizziness postural, paresthesia, and somnolence
-
-Psychiatric: Anxiety and insomnia
-
-Renal and Urinary: Pollakiuria
-
-Reproductive System: Erectile dysfunction
-
-Respiratory, Thoracic and Mediastinal: Dyspnea, cough, nasal congestion, pharyngolaryngeal pain, and sinus congestion
-
-Skin and Subcutaneous Tissue: Hyperhidrosis and rash
-
-Vascular: Hypotension
-
-Other reported reactions seen less frequently in clinical trials included abnormal vision, anaphylaxis, bronchospasm, constipation, depression, dehydration, decreased libido, dysuria, epistaxis, flushing, gout, increased appetite, muscle weakness, pharyngitis, pruritus, sunburn, syncope, and viral infection.
-
 Initial Therapy-Hypertension
 
-In a clinical study in patients with severe hypertension (diastolic blood pressure ≥110 mmHg and systolic blood pressure ≥140 mmHg), the overall pattern of adverse reactions reported through 6 weeks of follow-up was similar in patients treated with Diovan HCT as initial therapy and in patients treated with valsartan as initial therapy.
+In a clinical study in patients with severe hypertension (diastolic blood pressure ≥ 110 mmHg and systolic blood pressure ≥ 140 mmHg), the overall pattern of adverse reactions reported through 6 weeks of follow-up was similar in patients treated with Diovan HCT as initial therapy and in patients treated with valsartan as initial therapy.
 Comparing the groups treated with Diovan HCT (force-titrated to 320/25 mg) and valsartan (force-titrated to 320 mg), dizziness was observed in 6% and 2% of patients, respectively.
 Hypotension was observed in 1% of those patients receiving Diovan HCT and 0% of patients receiving valsartan.
 There were no reported cases of syncope in either treatment group.
-Laboratory changes with Diovan HCT as initial therapy in patients with severe hypertension were similar to those reported with Diovan HCT in patients with less severe hypertension [see Clinical Studies (14.2) and Drug Interactions (7)].
+Laboratory changes with Diovan HCT as initial therapy in patients with severe hypertension were similar to those reported with Diovan HCT in patients with less severe hypertension [see Clinical Studies (14.2), Drug Interactions (7)].
 
 Valsartan: In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
-In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, hydrochlorothiazide, or lisinopril were 20%, 19%, 69% respectively (p <0.001).
-
-Other reported reactions seen less frequently in clinical trials included chest pain, syncope, anorexia, vomiting, and angioedema.
-
-Hydrochlorothiazide: Other adverse reactions not listed above that have been reported with hydrochlorothiazide, without regard to causality, are listed below:
-
-Body As A Whole: weakness
-
-Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation
-
-Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
-
-Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions
-
-Metabolic: hyperglycemia, glycosuria, hyperuricemia
-
-Musculoskeletal: muscle spasm
-
-Nervous System/Psychiatric: restlessness
-
-Renal: renal failure, renal dysfunction, interstitial nephritis
-
-Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis
-
-Special Senses: transient blurred vision, xanthopsia
-
-Clinical Laboratory Test Findings
-
-In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of Diovan HCT.
-
-Creatinine/Blood Urea Nitrogen (BUN): Minor elevations in creatinine and BUN occurred in 2% and 15% respectively, of patients taking Diovan HCT and 0.4% and 6% respectively, given placebo in controlled clinical trials
-
-Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in less than 0.1% of Diovan HCT patients, compared with 0% in placebo-treated patients
-
-Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Diovan HCT-treated patients
-
-Neutropenia: Neutropenia was observed in 0.1% of patients treated with Diovan HCT and 0.4% of patients treated with placebo
+In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, hydrochlorothiazide, or lisinopril were 20%, 19%, 69% respectively (p < 0.001).
 
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been reported in valsartan or valsartan/hydrochlorothiazide postmarketing experience.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity: There are rare reports of angioedema.
+Hypersensitivity: Angioedema has been reported.
 Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
 Diovan HCT should not be re-administered to patients who have had angioedema.
 
-Digestive: Elevated liver enzymes and very rare reports of hepatitis
+Digestive: Elevated liver enzymes and reports of hepatitis
+
+Musculoskeletal: Rhabdomyolysis
 
 Renal: Impaired renal function
-
-Clinical Laboratory Tests: Hyperkalemia
 
 Dermatologic: Alopecia, bullous dermatitis
 
 Vascular: Vasculitis
 
 Nervous System: Syncope
-
-Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 
 Hydrochlorothiazide:
 

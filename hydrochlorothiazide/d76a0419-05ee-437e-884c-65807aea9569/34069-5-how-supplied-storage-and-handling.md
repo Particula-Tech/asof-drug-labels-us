@@ -11,25 +11,17 @@ Bottles of 90 NDC 0078-0314-34
 
 Bottles of 90 NDC 0078-0315-34
 
-Unit Dose (blister pack of 30) NDC 0078-0315-15
-
 160/25 mg Tablet - Brown orange, ovaloid, with slightly convex faces debossed NVR on 1 side and HXH on the other side.
 
 Bottles of 90 NDC 0078-0383-34
-
-Unit Dose (blister pack of 30) NDC 0078-0383-15
 
 320/12.5 mg Tablet - Pink, ovaloid, with beveled edge, debossed NVR on 1 side and HIL on the other side.
 
 Bottles of 90 NDC 0078-0471-34
 
-Unit Dose (blister pack of 30) NDC 0078-0471-15
-
 320/25 mg Tablet - Yellow, ovaloid, with beveled edge, debossed NVR on 1 side and CTI on the other side.
 
 Bottles of 90 NDC 0078-0472-34
-
-Unit Dose (blister pack of 30) NDC 0078-0472-15
 
 Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
 
