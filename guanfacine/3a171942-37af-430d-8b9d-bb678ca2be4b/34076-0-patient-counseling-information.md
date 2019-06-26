@@ -29,6 +29,5 @@ Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-40-9117
-
-Revised – January 2018
+Rev.
+A 5/2019

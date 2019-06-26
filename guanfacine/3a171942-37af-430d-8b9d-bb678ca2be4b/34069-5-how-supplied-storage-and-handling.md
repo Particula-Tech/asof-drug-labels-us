@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Guanfacine extended-release tablets are available as follows:
+Guanfacine Extended-Release Tablets are available as follows:
 
 1 mg - Each orange, round tablet debossed with on one side and 850 on the other side contains guanfacine hydrochloride, USP equivalent to 1 mg of guanfacine base.
 Tablets are supplied in bottles of 100 (NDC 0228-2850-11).

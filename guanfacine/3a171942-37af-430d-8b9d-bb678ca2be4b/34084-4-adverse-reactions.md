@@ -43,7 +43,7 @@ Table 4: Adverse Reactions Leading to Discontinuation (≥2% for all doses of Gu
 | Fatigue | 0 (0%) | 0 (0%) | 2 (1%) | 2 (1%) | 4 (3%) | 8 (2%) |
 | Adverse reactions leading to discontinuation in ≥ 2% in any dose group but did not meet this criteria in all doses combined: hypotension (hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased), headache, and dizziness. *The lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg. aThe somnolence term includes somnolence, sedation, and hypersomnia. |  |  |  |  |  |  |
 
-Table 5: Other Common Adverse Reactions (≥2%for all doses of Guanfacine Extended-Release and > rate than in placebo) in Fixed Dose Studies 1 and 2
+Table 5: Other Common Adverse Reactions (≥2% for all doses of Guanfacine Extended-Release and > rate than in placebo) in Fixed Dose Studies 1 and 2
 
 |  |  | Guanfacine Extended-Release (mg) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -85,7 +85,7 @@ Table 7: Adverse Reactions Leading to Discontinuation (≥2% for all doses of Gu
 |  | n (%) | n (%) | n (%) | n (%) |
 | Total patients | 0 (0%) | 8 (7%) | 7 (6%) | 15 (7%) |
 | Somnolencea | 0 (0%) | 4 (4%) | 3 (3%) | 7 (3%) |
-| Adverse reactions leading to discontinuation in greater than or equal to 2% in any dose group bud did not meet this criteria in all doses combined: fatigue aThe somnolence term includes somnolence, sedation, and hypersomnia. |  |  |  |  |
+| Adverse reactions leading to discontinuation in greater than or equal to 2% in any dose group but did not meet this criteria in all doses combined: fatigue aThe somnolence term includes somnolence, sedation, and hypersomnia. |  |  |  |  |
 
 Table 8: Other Common Adverse Reactions (≥2% for all doses of Guanfacine Extended-Release and > rate than in placebo) in the Monotherapy Flexible Dose Study 4
 
@@ -185,4 +185,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Less frequent, possibly guanfacine-related events observed in the postmarketing study and/or reported spontaneously, not included in section 6.1, include:
 
-General: edema, malaise, tremor Cardiovascular: palpitations, tachycardia, rebound hypertension, hypertensive encephalopathy Central Nervous System: paresthesias, vertigo Eye Disorders: blurred vision Musculoskeletal System: arthralgia, leg cramps, leg pain, myalgia Psychiatric: confusion, hallucinations Reproductive System, Male: impotence Respiratory System: dyspnea Skin and Appendages: alopecia, dermatitis, exfoliative dermatitis, pruritus, rash Special Senses: alterations in taste
+General: edema, malaise, tremor Cardiovascular: palpitations, tachycardia, rebound hypertension, hypertensive encephalopathy Central Nervous System: paresthesias, vertigo Eye Disorders: blurred vision Musculoskeletal System: arthralgia, leg cramps, leg pain, myalgia Psychiatric: confusion, hallucinations Reproductive System, Male: erectile dysfunction Respiratory System: dyspnea Skin and Appendages: alopecia, dermatitis, exfoliative dermatitis, pruritus, rash Special Senses: alterations in taste

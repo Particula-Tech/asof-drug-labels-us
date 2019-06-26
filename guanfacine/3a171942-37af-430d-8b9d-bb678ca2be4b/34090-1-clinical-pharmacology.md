@@ -35,7 +35,7 @@ Table 15: Comparison of Pharmacokinetics: Guanfacine Extended-Release vs. Immedi
 | Parameter | Guanfacine Extended-Release 1 mg once daily (n=52) | Immediate-release guanfacine 1 mg once daily (n=12) |
 | --- | --- | --- |
 | Cmax (ng/mL) | 1.0 ± 0.3 | 2.5 ± 0.6 |
-| AUC0-∞ (ng.h/mL) | 32 ± 9 | 56 ± 15 |
+| AUC0-∞ (ng·h/mL) | 32 ± 9 | 56 ± 15 |
 | tmax (h) | 6.0 (4.0 – 8.0) | 3.0 (1.5-4.0) |
 | t½ (h) | 18 ± 4 | 16 ± 3 |
 | Note: Values are mean +/- SD, except for tmax which is median (range) |  |  |
@@ -56,8 +56,12 @@ Following administration of guanfacine extended-release in single doses of 1 mg,
 Metabolism and Elimination
 
 In vitro studies with human liver microsomes and recombinant CYP’s demonstrated that guanfacine was primarily metabolized by CYP3A4.
-In pooled human hepatic microsomes, guanfacine did not inhibit the activities of the major cytochrome P450 isoenzymes (CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5).
+In pooled human hepatic microsomes, guanfacine did not inhibit the activities of the major cytochrome P450 isoenzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5); guanfacine is also not an inducer of CYP3A, CYP1A2 and CYP2B6.
 Guanfacine is a substrate of CYP3A4/5 and exposure is affected by CYP3A4/5 inducers/inhibitors.
+
+Guanfacine inhibits MATE1 and OCT1, but does not inhibit BSEP, MRP2, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, or MATE2K.
+Guanfacine is a substrate of OCT1 and OCT2, but not BCRP, OATP1B1, OATP1B3, OAT1, OAT3, MATE1, or MATE2.
+Concomitant administration of guanfacine with OCT1 substrates might potentially increase the exposure of these OCT1 substrates.
 
 Studies in Specific Populations
 

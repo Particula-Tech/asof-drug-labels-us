@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Guanfacine extended-release is a once-daily, extended-release formulation of guanfacine hydrochloride (HCl), in a matrix tablet formulation for oral administration only.
+Guanfacine Extended-Release is a once-daily, extended-release formulation of guanfacine hydrochloride (HCl) in a matrix tablet formulation for oral administration only.
 The chemical designation is N-amidino-2-(2, 6-dichlorophenyl) acetamide monohydrochloride.
 
 The chemical structure is:

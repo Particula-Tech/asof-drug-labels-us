@@ -77,7 +77,7 @@ Mean reductions in ADHD-RS-IV total scores at endpoint were statistically signif
 
 Table 17: Flexible-Dose Studies
 
-|  |  |  | Primary Efficacy Measure: ADHD-RS-IV Total |  |  |
+|  |  |  | Primary Efficacy Measure: ADHD-RS-IV Total Score |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Study |  |  | Mean Baseline | LS Mean | Placebo- |
 | Number |  |  | Score (SD) | Change from | subtracted |
