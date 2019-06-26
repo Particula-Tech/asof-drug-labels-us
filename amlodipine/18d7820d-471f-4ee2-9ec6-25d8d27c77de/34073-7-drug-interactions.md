@@ -16,7 +16,7 @@ Monitor for symptoms of hypotension and edema when amlodipine is co-administered
 CYP3A Inducers
 
 No information is available on the quantitative effects of CYP3A inducers on amlodipine.
-Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.
+Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers (e.g., rifampicin, St. John’s Wort).
 
 Sildenafil
 
@@ -36,17 +36,10 @@ Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is rec
 
 Valsartan
 
-No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
-The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
-
-In vitro metabolism studies have indicated that CYP450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism [see Pharmacokinetics – Valsartan, (12.3)].
-
-Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
-
-Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+Agents Increasing Serum Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 If co-medication is considered necessary, monitoring of serum potassium is advisable.
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
+Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
 
@@ -55,10 +48,10 @@ The antihypertensive effect of angiotensin II receptor antagonists, including va
 Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
 In general, avoid combined use of RAS inhibitors.
-Closely monitor blood pressure, renal function, and electrolytes in patients on Exforge HCT and other agents that affect the RAS.
+Closely monitor blood pressure, renal function and electrolytes in patients on valsartan and other agents that affect the RAS.
 
-Do not coadminister aliskiren with Exforge HCT in patients with diabetes.
-Avoid use of aliskiren with Exforge HCT in patients with renal impairment (GFR <60 mL/min).
+Do not coadminister aliskiren with valsartan in patients with diabetes.
+Avoid use of aliskiren with valsartan in patients with renal impairment (GFR <60 mL/min).
 
 Valsartan – Hydrochlorothiazide
 

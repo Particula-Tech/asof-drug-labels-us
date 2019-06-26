@@ -2,15 +2,16 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Exforge HCT during pregnancy.
+Pregnancy: Advise female patients of childbearing age about the consequences of exposure to Exforge HCT during pregnancy.
 Discuss treatment options with women planning to become pregnant.
-Patients should be asked to report pregnancies to their physicians as soon as possible.
+Ask patients to report pregnancies to their physicians as soon as possible [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)]
 
-Symptomatic Hypotension: A patient receiving Exforge HCT should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
-The patients should be told that if syncope occurs, Exforge HCT should be discontinued until the physician has been consulted.
+Lactation: Advise women not to breastfeed during treatment with Exforge HCT [see Use in Specific Populations (8.2)].
 
-All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
+Symptomatic Hypotension: Advise patients that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to their healthcare provider.
+Tell patients that if syncope occurs to discontinue Exforge HCT until the physician has been consulted.
+Caution all patients that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope [see Warnings and Precautions (5.2)].
 
-Potassium Supplements: A patient receiving Exforge HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
+Potassium Supplements: Advise patients not to use salt substitutes without consulting their healthcare provider [see Drug Interactions (7)].
 
-T2015-124 July 2015
+T2019-72

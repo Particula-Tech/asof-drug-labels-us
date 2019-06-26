@@ -34,36 +34,3 @@ Positive test results were obtained in the in vitro CHO Sister Chromatid Exchang
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed via diet at doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
 These doses of hydrochlorothiazide in mice and rats are 19 and 1.5 times, respectively, the MRHD on a mg/m2 basis.
 (Calculations assume an oral dose of 25 mg/day and a 60-kg patient.)
-
-## 13.3 Developmental Toxicity
-
-Studies with amlodipine: No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively, about 10 and 20 times the MRHD of 10 mg amlodipine on a mg/m2 basis) during their respective periods of major organogenesis.
-(Calculations based on a patient weight of 60 kg.)
-However, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) for rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
-Amlodipine maleate has been shown to prolong both the gestation period and the duration of labor in rats at this dose.
-There are no adequate and well controlled studies in pregnant women.
-
-Studies with valsartan: No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
-However, significant decreases in fetal weight, pup birth weight, pup survival rate, and slight delays in developmental milestones were observed in studies in which parental rats were treated with valsartan at oral, maternally toxic (reduction in body weight gain and food consumption) doses of 600 mg/kg/day during organogenesis or late gestation and lactation.
-In rabbits, fetotoxicity (i.e., resorptions, litter loss, abortions, and low body weight) associated with maternal toxicity (mortality) was observed at doses of 5 and 10 mg/kg/day.
-The no observed adverse effect doses of 600, 200 and 2 mg/kg/day in mice, rats and rabbits, respectively, are about 9, 6 and 0.1 times the MRHD of 320 mg/day on a mg/m2 basis.
-(Calculations based on a patient weight of 60 kg.)
-
-Studies with hydrochlorothiazide: Under the auspices of the National Toxicology Program, pregnant mice and rats that received hydrochlorothiazide via gavage at doses up to 3000 and 1000 mg/kg/day, respectively, on gestation days 6 through 15 showed no evidence of teratogenicity.
-These doses of hydrochlorothiazide in mice and rats are 608 and 405 times, respectively, the MRHD on a mg/m2 basis.
-(Calculations assume an oral dose of 25 mg/day and a 60-kg patient.)
-
-Studies with amlodipine and valsartan: In the oral embryofetal development study in rats using amlodipine besylate plus valsartan at doses equivalent to 5 mg/kg/day amlodipine plus 80 mg/kg/day valsartan, 10 mg/kg/day amlodipine plus 160 mg/kg/day valsartan, and 20 mg/kg/day amlodipine plus 320 mg/kg/day valsartan, treatment-related maternal and fetal effects (developmental delays and alterations noted in the presence of significant maternal toxicity) were noted with the high dose combination.
-The no-observed-adverse-effect level (NOAEL) for embryofetal effects was 10 mg/kg/day amlodipine plus 160 mg/kg/day valsartan.
-On a systemic exposure [AUC(0-∞)] basis, these doses are, respectively, 4.3 and 2.7 times the systemic exposure [AUC(0-∞)] in humans receiving the MRHD (10/320 mg/60 kg).
-
-Studies with valsartan and hydrochlorothiazide: There was no evidence of teratogenicity in mice, rats, or rabbits treated orally with valsartan at doses up to 600, 100, and 10 mg/kg/day, respectively, in combination with hydrochlorothiazide at doses up to 188, 31, and 3 mg/kg/day.
-These non-teratogenic doses in mice, rats and rabbits are, respectively, 9, 3.5, and 0.5 times the MRHD of valsartan and 38, 13 and 2 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
-(Calculations assume an oral dose of 320 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide in a 60-kg patient.)
-
-Fetotoxicity was observed in association with maternal toxicity in rats at valsartan/hydrochlorothiazide doses ≥200/63 mg/kg/day and in rabbits at valsartan/hydrochlorothiazide doses of 10/3 mg/kg/day.
-Evidence of fetotoxicity in rats consisted of decreased fetal weight and fetal variations of sternebrae, vertebrae, ribs, and/or renal papillae.
-Evidence of fetotoxicity in rabbits included increased numbers of late resorptions with resultant increases in total resorptions, postimplantation losses, and decreased number of live fetuses.
-The no observed adverse effect doses of the valsartan/hydrochlorothiazide combination in mice, rats and rabbits were 600/188, 100/31 and 3/1 mg/kg/day, respectively.
-These doses in mice, rats and rabbits are, respectively, 9, 3 and 0.18 times the MRHD of valsartan and 38, 13, and 0.5 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
-(Calculations assume an oral dose of 320 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide in a 60-kg patient.)

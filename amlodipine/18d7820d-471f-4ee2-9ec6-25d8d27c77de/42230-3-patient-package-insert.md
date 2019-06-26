@@ -2,7 +2,7 @@ Information for Patients
 
 Patient Information
 
-Exforge HCT (X-phorj HCT) (amlodipine and valsartan and hydrochlorothiazide) Tablets
+Exforge HCT® (X-phorj HCT) (amlodipine and valsartan and hydrochlorothiazide) Tablets
 
 Read the Patient Information that comes with EXFORGE HCT before you start taking it and each time you get a refill.
 There may be new information.
@@ -37,7 +37,8 @@ Tell your doctor about all of your medical conditions, including if you:
 - are pregnant or plan to become pregnant.
   See “What is the most important information I should know about EXFORGE HCT?”
 - are breastfeeding or plan to breastfeed.
-  EXFORGE HCT may pass into your milk.
+  EXFORGE HCT is present in human milk.
+  It is not known whether EXFORGE HCT effects your breastfed baby or milk production.
   Do not breastfeed while you are taking EXFORGE HCT.
 - are allergic to any of the ingredients in EXFORGE HCT.
   See the end of this leaflet for a list of the ingredients in EXFORGE HCT.
@@ -193,4 +194,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2015-125 July 2015
+T2019-73 Revised: 06/2019

@@ -154,7 +154,7 @@ Following oral administration, plasma hydrochlorothiazide concentrations decline
 
 About 70% of an orally administered dose of hydrochlorothiazide is eliminated in the urine as unchanged drug.
 
-Special Populations
+Specific Populations
 
 Geriatric: Elderly patients have decreased clearance of amlodipine with a resulting increase in peak plasma levels, elimination half-life, and AUC.
 Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
@@ -180,15 +180,15 @@ Amlodipine:
 
 In vitro data in human plasma indicate that amlodipine has no effect on the protein binding of digoxin, phenytoin, warfarin, and indomethacin.
 
-Impact of other drugs on amlodipine
+Impact of other Drugs on Amlodipine
 
 Co-administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
 
-CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+CYP3A Inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
 Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
 However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7)].
 
-Impact of amlodipine on other drugs
+Impact of Amlodipine on other Drugs
 
 Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
 
@@ -200,6 +200,16 @@ Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 
 This finding was not observed in CYP3A5 non-expressers (N= 6).
 However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
 Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7)].
+
+Valsartan
+
+No clinically significant pharmacokinetic interactions were observed when Diovan (valsartan) was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
+The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+
+Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+
+Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
+Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
 
 Hydrochlorothiazide:
 

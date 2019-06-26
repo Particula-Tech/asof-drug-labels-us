@@ -2,12 +2,17 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D
+Valsartan
 
+Exforge HCT can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue Exforge HCT as soon as possible [see Use in Specific Populations (8.1)].
+
+Hydrochlorothiazide
+
+Thiazides cross the placenta, and use of thiazides during pregnancy is associated with fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
@@ -23,7 +28,7 @@ In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in 
 Since the vasodilation induced by amlodipine is gradual in onset, acute hypotension has rarely been reported after oral administration.
 Do not initiate treatment with Exforge HCT in patients with aortic or mitral stenosis or obstructive hypertrophic cardiomyopathy.
 
-If excessive hypotension occurs with Exforge HCT, the patient should be placed in a supine position and, if necessary, given an intravenous infusion of normal saline.
+If excessive hypotension occurs with Exforge HCT, place the patient in a supine position and, if necessary, give intravenous normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
 ## 5.3 Increased Angina and/or Myocardial Infarction
