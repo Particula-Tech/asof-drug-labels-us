@@ -3,12 +3,13 @@
 ## 12.1 Mechanism of Action
 
 Methylphenidate HCl is a central nervous system (CNS) stimulant.
+The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
 Methylphenidate is a racemic mixture comprised of the d- and l-isomers.
 The d-isomer is more pharmacologically active than the l-isomer.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 ## 12.3 Pharmacokinetics
 
@@ -20,18 +21,16 @@ The relative bioavailability is 102%.
 
 The pharmacokinetic profiles and parameters of methylphenidate are similar when APTENSIO XR is administered either as a whole capsule or sprinkled onto applesauce in subjects under fasting conditions (see Table 2 and Figure 1).
 
-Table 2: The Single Dose Pharmacokinetics of d,l-Methylphenidate1 ER Capsule and Sprinkle following an Oral Dose of 80 mg APTENSIO XR under Fast Conditions in Healthy Adults
+Table 2: The Single Dose Pharmacokinetics of d,l-Methylphenidated,l (racemic) methylphenidate HCl ER Capsule and Sprinkle following an Oral Dose of 80 mg APTENSIO XR under Fasted Conditions in Healthy Adults
 
-| Pharmacokinetic Parameters | Capsule | --- | Sprinkle | --- |
-| --- | --- | --- | --- | --- |
-| Cmax2(ng/mL) | 23.47 ± 11.4 |  | 21.78 ± 9.5 |  |
-| AUC(0-t)2(ng.hr/mL) | 262.7 ± 135 |  | 262.9 ± 128 |  |
-| AUC(0-inf)2(ng.hr/mL) | 258.1 ± 94.2 |  | 258.0 ± 84.4 |  |
-| Tmax (hr) ‡ | 2.0 |  | 2.0 |  |
-| Half-life (hr) | 5.09 |  | 5.43 |  |
-| Relativebioavailability | 102% |  | 101% |  |
-
-1 d,l (racemic) methylphenidate HCl 2 Cmax, AUC(0-t), AUC(0-inf) presented as mean ± SD ‡ data presented as median (range)
+| Pharmacokinetic Parameters | Capsule | Sprinkle |
+| --- | --- | --- |
+| CmaxCmax, AUC (0-t) AUC (0-inf) presented as mean ± SD (ng/mL) | 23.47 ± 11.4 | 21.78 ± 9.5 |
+| AUC(0-t) (ng.hr/mL) | 262.7 ± 135 | 262.9 ± 128 |
+| AUC(0-inf) (ng.hr/mL) | 258.1 ± 94.2 | 258.0 ± 84.4 |
+| Tmax (hr) data presented as median (range) | 2.0 | 2.0 |
+| Half-life (hr) | 5.09 | 5.43 |
+| Relative bioavailability | 102% | 101% |
 
 Figure 1: Mean d,l-Methylphenidate Plasma Concentration-Time Profiles following 80 mg Administered as Capsule and Sprinkle Dose in Healthy Adults
 

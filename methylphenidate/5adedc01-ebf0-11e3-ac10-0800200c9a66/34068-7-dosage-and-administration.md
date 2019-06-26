@@ -1,8 +1,15 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
+## 2.1 Pretreatment Screening
 
-The recommended starting dose of APTENSIO XR for patients 6 years and above is 10 mg once daily in the morning with or without food.
+Prior to treating pediatric patients and adults with CNS stimulants including APTENSIO XR, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions 5.2].
+
+Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for APTENSIO XR use [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9)].
+
+## 2.2 General Dosing Information
+
+The recommended starting dose of APTENSIO XR for patients 6 years and older is 10 mg once daily in the morning with or without food.
 Advise patients to establish a routine pattern with regard to meals.
 The dose should be individualized according to the needs and response of the patient.
 
@@ -18,15 +25,8 @@ The contents of the entire capsule should be taken, and patients should not take
 Pharmacological treatment of ADHD may be needed for extended periods.
 Healthcare providers should periodically re-evaluate the long-term use of APTENSIO XR, and adjust dosage as needed.
 
-## 2.2 Dose Reduction and Discontinuation
+## 2.3 Dose Reduction and Discontinuation
 
 If paradoxical aggravation of symptoms or other adverse reactions occur; the dosage should be reduced, or, if necessary, the drug should be discontinued.
 
 If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.
-
-## 2.3 Important Information Prior to Initiating Treatment
-
-Prior to treating pediatric patients and adults with CNS stimulants including APTENSIO XR, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions 5.2].
-
-Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for APTENSIO XR use [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9)].

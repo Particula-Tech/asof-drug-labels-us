@@ -36,14 +36,12 @@ Among those, 200 (90.5%) completed the 11-week open label phase and 173 (86.5%) 
 
 Table 3: Summary of Parallel-Group Study
 
-| StudyNumber | -- | Treatment Group | - | ------------------------- | Primary Efficacy Measure: ADHD-RS-IV Total Score | ------------------------ | - |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Mean Baseline Score (SD) | LS Mean Reduction from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |  |
-| Study 2 (Pediatric) |  | APTENSIO XR 10 mg/day |  | 37.6 (8.32) | 9.1 (1.40) | 3.7 (-0.31, 7.66) |  |
-|  |  | APTENSIO XR15 mg/day |  | 38.0 (8.64) | 10.3 (1.59) | 4.9 (0.63, 9.07) |  |
-|  |  | APTENSIO XR20 mg/day* |  | 36.2 (8.46) | 11.4 (1.49) | 6.0 (1.92, 10.02) |  |
-|  |  | APTENSIO XR40 mg/day* |  | 35.6 (9.16) | 12.8 (1.49) | 7.4 (3.38, 11.45) |  |
-|  |  | Placebo |  | 33.4 (11.01) | 5.4 (1.48) | -- |  |
-
-Note: SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiple comparisons. a Difference (placebo minus drug) in least-squares mean change from baseline.
-Positive numbers indicate reduction (improvement). * Doses that are demonstrated to be effective.
+|  |  | Mean Baseline Score (SD) | LS Mean Reduction from Baseline (SE) | Placebo-subtracted DifferenceDifference (placebo minus drug) in least-squares mean change from baseline. Positive numbers indicate reduction (improvement). (95% CI) |
+| --- | --- | --- | --- | --- |
+| Study Number | Treatment Group | Primary Efficacy Measure: ADHD-RS-IV Total Score |  |  |
+| Study 2 (Pediatric) | APTENSIO XR 10 mg/day | 37.6 (8.32) | 9.1 (1.40) | 3.7 (-0.31, 7.66) |
+| APTENSIO XR 15 mg/day | 38.0 (8.64) | 10.3 (1.59) | 4.9 (0.63, 9.07) |  |
+| APTENSIO XR 20 mg/dayDoses that are demonstrated to be effective. | 36.2 (8.46) | 11.4 (1.49) | 6.0 (1.92, 10.02) |  |
+| APTENSIO XR 40 mg/day | 35.6 (9.16) | 12.8 (1.49) | 7.4 (3.38, 11.45) |  |
+|  | Placebo | 33.4 (11.01) | 5.4 (1.48) | -- |
+| Note: SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiple comparisons. |  |  |  |  |

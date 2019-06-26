@@ -2,10 +2,10 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Hypersensitivity to Methylphenidate [see Contraindications (4)]
-- Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- Serious Cardiovascular Events [see Warnings and Precautions (5.2)]
+- Hypertensive Crisis with Concomintant Use of Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
+- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
@@ -41,7 +41,7 @@ Adverse Reactions Leading to Discontinuation: Two patients (4.4%) in the APTENSI
 
 Table 1: Common Adverse Reactions Occurring in ≥ 2% of Pediatric Patients (6 to 17 years of age) with ADHD Taking APTENSIO XR and at a Rate Greater than Placebo (Study 2)
 
-| System Organ ClassAdverse Reaction | Aptensio (n = 183) | Placebo (n = 47) |
+| System Organ Class Adverse Reaction | Aptensio XR (n=183) | Placebo (n=47) |
 | --- | --- | --- |
 | Nervous System Disorders |  |  |
 | Headache | 10.9% | 8.5% |
@@ -60,4 +60,22 @@ The following adverse reactions have been identified during post approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These adverse reactions are as follows:
 
-Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocytopenic purpura Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystole, Supraventricular tachycardia, Ventricular extrasystole Eye Disorders: Diplopia, Mydriasis, Visual impairment General Disorders: Chest pain, Chest discomfort, Hyperpyrexia Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enzyme increased, Platelet count decreased, White blood cell count abnormal, severe hepatic injury Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis Nervous System: Convulsion, Grand mal convulsion, Dyskinesia, serotonin syndrome in combination with serotonergic drugs Psychiatric Disorders: Disorientation, Libido changes Skin and Subcutaneous Tissue Disorders: Alopecia, Erythema
+Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocytopenic purpura
+
+Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystole, Supraventricular tachycardia, Ventricular extrasystole
+
+Eye Disorders: Diplopia, Mydriasis, Visual impairment
+
+General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
+
+Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC
+
+Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enzyme increased, Platelet count decreased, White blood cell count abnormal, severe hepatic injury
+
+Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
+
+Nervous System: Convulsion, Grand mal convulsion, Dyskinesia, serotonin syndrome in combination with serotonergic drugs
+
+Psychiatric Disorders: Disorientation, Libido changes
+
+Skin and Subcutaneous Tissue Disorders: Alopecia, Erythema
