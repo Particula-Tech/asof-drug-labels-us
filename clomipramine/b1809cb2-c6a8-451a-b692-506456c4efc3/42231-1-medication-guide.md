@@ -40,6 +40,14 @@ Call a healthcare provider right away if you or your family member has any of th
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- headache
+- weakness or feeling unsteady
+- confusion, problems concentrating or thinking or memory problems
+
 Visual problems
 
 - eye pain

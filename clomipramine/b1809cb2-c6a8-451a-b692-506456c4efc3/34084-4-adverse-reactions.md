@@ -251,3 +251,11 @@ Angle-closure glaucoma.
 Immune System Disorders
 
 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+
+Metabolism and Nutrition Disorders
+
+Hyponatremia.
+
+Endocrine Disorders
+
+Syndrome of inappropriate antidiuretic hormone secretion (SIADH).

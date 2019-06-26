@@ -144,6 +144,16 @@ Sexual Dysfunction
 The rate of sexual dysfunction in male patients with OCD who were treated with clomipramine hydrochloride in the premarketing experience was markedly increased compared with placebo controls (i.e., 42% experienced ejaculatory failure and 20% experienced impotence, compared with 2.0% and 2.6%, respectively, in the placebo group).
 Approximately 85% of males with sexual dysfunction chose to continue treatment.
 
+Hyponatremia
+
+Hyponatremia has occurred as a result of treatment with clomipramine.
+In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Elderly patients may be at greater risk of developing hyponatremia with a serotonergic antidepressant.
+Also, patients taking diuretics or who are otherwise volume-depleted can be at greater risk.
+Discontinuation of clomipramine hydrochloride in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
+More severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
+
 Weight Changes
 
 In controlled studies of OCD, weight gain was reported in 18% of patients receiving clomipramine hydrochloride, compared with 1% of patients receiving placebo.
@@ -290,3 +300,6 @@ Clinical studies of clomipramine hydrochloride did not include sufficient number
 No unusual age- related adverse events were identified in this population.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+
+Clomipramine hydrochloride has been associated with cases of clinically significant hyponatremia.
+Elderly patients may be at greater risk for this adverse reaction (see PRECAUTIONS, Hyponatremia).
