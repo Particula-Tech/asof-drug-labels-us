@@ -20,140 +20,44 @@ The adverse reactions that occurred in placebo-controlled clinical trials in at 
 
 Orthostatic events (orthostatic hypotension and postural dizziness) were seen in less than 1% of patients.
 
-Other adverse reactions that occurred in placebo-controlled clinical trials with Exforge (≥0.2%) are listed below.
-It cannot be determined whether these events were causally related to Exforge.
-
-Blood and Lymphatic System Disorders: Lymphadenopathy
-
-Cardiac Disorders: Palpitations, tachycardia
-
-Ear and Labyrinth Disorders: Ear pain
-
-Gastrointestinal Disorders: Diarrhea, nausea, constipation, dyspepsia, abdominal pain, abdominal pain upper, gastritis, vomiting, abdominal discomfort, abdominal distention, dry mouth, colitis
-
-General Disorders and Administration Site Conditions: Fatigue, chest pain, asthenia, pitting edema, pyrexia, edema
-
-Immune System Disorders: Seasonal allergies
-
-Infections and Infestations: Nasopharyngitis, sinusitis, bronchitis, pharyngitis, gastroenteritis, pharyngotonsillitis, bronchitis acute, tonsillitis
-
-Injury and Poisoning: Epicondylitis, joint sprain, limb injury
-
-Metabolism and Nutrition Disorders: Gout, non-insulin-dependent diabetes mellitus, hypercholesterolemia
-
-Musculoskeletal and Connective Tissue Disorders: Arthralgia, back pain, muscle spasms, pain in extremity, myalgia, osteoarthritis, joint swelling, musculoskeletal chest pain
-
-Nervous System Disorders: Headache, sciatica, paresthesia, cervicobrachial syndrome, carpal tunnel syndrome, hypoesthesia, sinus headache, somnolence
-
-Psychiatric Disorders: Insomnia, anxiety, depression
-
-Renal and Urinary Disorders: Hematuria, nephrolithiasis, pollakiuria
-
-Reproductive System and Breast Disorders: Erectile dysfunction
-
-Respiratory, Thoracic and Mediastinal Disorders: Cough, pharyngolaryngeal pain, sinus congestion, dyspnea, epistaxis, productive cough, dysphonia, nasal congestion
-
-Skin and Subcutaneous Tissue Disorders: Pruritus, rash, hyperhidrosis, eczema, erythema
-
-Vascular Disorders: Flushing, hot flush
-
-Isolated cases of the following clinically notable adverse reactions were also observed in clinical trials: exanthema, syncope, visual disturbance, hypersensitivity, tinnitus, and hypotension.
-
-Studies with Amlodipine:
-
-Norvasc®* has been evaluated for safety in more than 11000 patients in U.S. and foreign clinical trials.
-Other adverse events that have been reported <1% but >0.1% of patients in controlled clinical trials or under conditions of open trials or marketing experience where a causal relationship is uncertain were:
-
-Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, peripheral ischemia, syncope, postural hypotension, vasculitis
-
-Central and Peripheral Nervous System: neuropathy peripheral, tremor
-
-Gastrointestinal: anorexia, dysphagia, pancreatitis, gingival hyperplasia
-
-General: allergic reaction, hot flushes, malaise, rigors, weight gain, weight loss
-
-Musculoskeletal System: arthrosis, muscle cramps
-
-Psychiatric: sexual dysfunction (male and female), nervousness, abnormal dreams, depersonalization
-
-Respiratory System: dyspnea
-
-Skin and Appendages: angioedema, erythema multiforme, rash erythematous, rash maculopapular
-
-Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus
-
-Urinary System: micturition frequency, micturition disorder, nocturia
-
-Autonomic Nervous System: sweating increased
-
-Metabolic and Nutritional: hyperglycemia, thirst
-
-Hemopoietic: leukopenia, purpura, thrombocytopenia
-
-Other events reported with amlodipine at a frequency of ≤0.1% of patients include: cardiac failure, pulse irregularity, extrasystoles, skin discoloration, urticaria, skin dryness, alopecia, dermatitis, muscle weakness, twitching, ataxia, hypertonia, migraine, cold and clammy skin, apathy, agitation, amnesia, gastritis, increased appetite, loose stools, rhinitis, dysuria, polyuria, parosmia, taste perversion, abnormal visual accommodation, and xerophthalmia.
-Other reactions occurred sporadically and cannot be distinguished from medications or concurrent disease states such as myocardial infarction and angina.
-
-Adverse reactions reported for amlodipine for indications other than hypertension may be found in the prescribing information for Norvasc.
-
 Studies with Valsartan:
 
 Diovan® has been evaluated for safety in more than 4000 hypertensive patients in clinical trials.
-In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
+In trials in which valsartan was compared to an angiotensin-converting enzyme (ACE) inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
 In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p<0.001).
-
-Other adverse reactions, not listed above, occurring in >0.2% of patients in controlled clinical trials with valsartan are:
-
-Body as a Whole: allergic reaction, asthenia
-
-Musculoskeletal: muscle cramps
-
-Neurologic and Psychiatric: paresthesia
-
-Respiratory: sinusitis, pharyngitis
-
-Urogenital: impotence
-
-Other reported events seen less frequently in clinical trials were: angioedema.
-
-Adverse reactions reported for valsartan for indications other than hypertension may be found in the prescribing information for Diovan.
 
 Clinical Lab Test Findings:
 
-Creatinine: In hypertensive patients, greater than 50% increases in creatinine occurred in 0.4% of patients receiving Exforge and 0.6% receiving placebo.
-In heart failure patients, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
+Creatinine: In heart failure patients, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
 In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
 
-Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Exforge-treated patients.
-
-Serum Potassium: In hypertensive patients, greater than 20% increases in serum potassium were observed in 2.8% of Exforge-treated patients compared to 3.4% of placebo-treated patients.
-In heart failure patients, greater than 20% increases in serum potassium were observed in 10% of valsartan-treated patients compared to 5.1% of placebo-treated patients.
-
 Blood Urea Nitrogen (BUN): In hypertensive patients, greater than 50% increases in BUN were observed in 5.5% of Exforge-treated patients compared to 4.7% of placebo-treated patients.
-In heart failure patients, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
+In heart failure patients, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients [see Warnings and Precautions (5.4)].
 
 Neutropenia: Neutropenia was observed in 1.9% of patients treated with Diovan and 0.8% of patients treated with placebo.
 
 ## 6.2 Postmarketing Experience
+
+The following additional adverse reactions have been reported in postmarketing experience.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Amlodipine: Gynecomastia has been reported infrequently and a causal relationship is uncertain.
 Jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
 
 Valsartan: The following additional adverse reactions have been reported in postmarketing experience with valsartan:
 
-Blood and Lymphatic: Decrease in hemoglobin, decrease in hematocrit, neutropenia
-
-Hypersensitivity: There are rare reports of angioedema.
+Hypersensitivity: Angioedema has been reported.
 Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
-Exforge should not be re-administered to patients who have had angioedema.
+Diovan should not be re-administered to patients who have had angioedema.
 
-Digestive: Elevated liver enzymes and very rare reports of hepatitis
+Digestive: Elevated liver enzymes and reports of hepatitis
+
+Musculoskeletal: Rhabdomyolysis
 
 Renal: Impaired renal function, renal failure
 
-Clinical Laboratory Tests: Hyperkalemia
-
 Dermatologic: Alopecia, bullous dermatitis
 
-Vascular: Vasculitis
+Blood and Lymphatic: Thrombocytopenia
 
-Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
+Vascular: Vasculitis

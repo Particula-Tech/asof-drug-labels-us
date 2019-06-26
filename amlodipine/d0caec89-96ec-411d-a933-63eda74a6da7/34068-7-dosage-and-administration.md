@@ -6,13 +6,11 @@ Dose once daily.
 The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 10/320 mg tablet once daily as needed to control blood pressure.
 The majority of the antihypertensive effect is attained within 2 weeks after initiation of therapy or a change in dose.
 
-Exforge may be administered with or without food.
-
 Exforge may be administered with other antihypertensive agents.
 
 ## 2.2 Add-on Therapy
 
-A patient whose blood pressure is not adequately controlled with amlodipine (or another dihydropyridine calcium-channel blocker) alone or with valsartan (or another angiotensin II receptor blocker) alone may be switched to combination therapy with Exforge.
+A patient whose blood pressure is not adequately controlled with amlodipine (or another dihydropyridine calcium-channel blocker) alone or with valsartan (or another ARB) alone may be switched to combination therapy with Exforge.
 
 A patient who experiences dose-limiting adverse reactions on either component alone may be switched to Exforge containing a lower dose of that component in combination with the other to achieve similar blood pressure reductions.
 The clinical response to Exforge should be subsequently evaluated and if blood pressure remains uncontrolled after 3 to 4 weeks of therapy, the dose may be titrated up to a maximum of 10/320 mg.

@@ -2,7 +2,7 @@ FDA-APPROVED PATIENT LABELING
 
 PATIENT INFORMATION
 
-EXFORGE (X-phorj)
+EXFORGE® (X-phorj)
 
 (amlodipine and valsartan) Tablets
 
@@ -35,7 +35,8 @@ Tell your doctor about all of your medical conditions, including if you:
 - are pregnant or plan to become pregnant.
   See “What is the most important information I should know about EXFORGE?”
 - are breastfeeding or plan to breastfeed.
-  EXFORGE may pass into your milk.
+  EXFORGE is present in human milk.
+  It is not known whether EXFORGE effects your breastfed baby or milk production.
   Do not breastfeed while you are taking EXFORGE.
 - have heart problems
 - have liver problems
@@ -169,10 +170,8 @@ If high blood pressure is not treated, it can lead to stroke, heart attack, hear
 
 *Norvasc® is a registered trademark of Pfizer, Inc.
 
-**Viagra® is a registered trademark of Pfizer, Inc.
-
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 ©Novartis
 
-T2015-123 July 2015
+T2019-71 Revised: 06/2019

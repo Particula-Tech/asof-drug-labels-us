@@ -90,7 +90,7 @@ The initial dose of amlodipine/valsartan was 5/160 mg for 2 weeks with forced ti
 The initial dose of amlodipine was 5 mg for 2 weeks with forced titration to 10 mg for 2 weeks, followed by optional titration to 10 mg for 4 weeks and optional addition of HCTZ 12.5 mg for 4 weeks.
 At the primary endpoint of 8 weeks, the treatment difference between amlodipine/valsartan and amlodipine was 6.7/2.8 mmHg.
 
-In the other study of similar design, a total of 646 patients with moderate to severe hypertension (MSSBP of ≥160 mmHg and <200 mmHg) were randomized to receive either combination amlodipine/valsartan or amlodipine monotherapy for 8 weeks.
+In the other study of similar design, a total of 646 patients with moderate to severe hypertension (MSSBP of ≥ 160 mmHg and < 200 mmHg) were randomized to receive either combination amlodipine/valsartan or amlodipine monotherapy for 8 weeks.
 The initial dose of amlodipine/valsartan was 5/160 mg for 2 weeks with forced titration to 10/160 mg for 2 weeks, followed by the optional addition of HCTZ 12.5 mg for 4 weeks.
 The initial dose of amlodipine was 5 mg for 2 weeks with forced titration to 10 mg for 2 weeks, followed by the optional addition of HCTZ 12.5 mg for 4 weeks.
 At the primary endpoint of 4 weeks, the treatment difference between amlodipine/valsartan and amlodipine was 6.6/3.9 mmHg.
