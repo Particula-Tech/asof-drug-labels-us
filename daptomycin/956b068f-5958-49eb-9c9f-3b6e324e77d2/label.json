@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211961"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-435-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "DAPTOMYCIN"
+    }
+  ],
+  "setid": "956b068f-5958-49eb-9c9f-3b6e324e77d2",
+  "source": "dailymed"
+}
