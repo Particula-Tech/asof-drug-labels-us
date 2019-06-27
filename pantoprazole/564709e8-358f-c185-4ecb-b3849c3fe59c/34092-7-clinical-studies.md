@@ -106,5 +106,5 @@ Table 11: Number of Episodes of Heartburn (mean ± SD)
 In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole sodium successfully controlled gastric acid secretion.
 Doses ranging from 80 mg daily to 240 mg daily maintained gastric acid output below 10 mEq/h in patients without prior acid-reducing surgery and below 5 mEq/h in patients with prior acid-reducing surgery.
 
-Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)].
+Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [seeDosage and Administration(2)].
 Pantoprazole sodium was well tolerated at these dose levels for prolonged periods (greater than 2 years in some patients).

@@ -24,7 +24,7 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2),Adverse Reactions (6.2)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2), Adverse Reactions (6.2)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 
@@ -58,13 +58,13 @@ Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patien
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions(6.2)].
 
 ## 5.8 Tumorigenicity
 
 Due to the chronic nature of GERD, there may be a potential for prolonged administration of pantoprazole sodium.
 In long-term rodent studies, pantoprazole was carcinogenic and caused rare types of gastrointestinal tumors.
-The relevance of these findings to tumor development in humans is unknown [see Nonclinical Toxicology (13.1)].
+The relevance of these findings to tumor development in humans is unknown [see Nonclinical Toxicology(13.1)].
 
 ## 5.9 Fundic Gland Polyps
 
@@ -86,4 +86,4 @@ There have been reports of false-positive urine screening tests for tetrahydroca
 ## 5.12 Concomitant Use of Pantoprazole Sodium with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions(7)].

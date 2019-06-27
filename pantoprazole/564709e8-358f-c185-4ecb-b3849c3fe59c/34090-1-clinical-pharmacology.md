@@ -71,7 +71,7 @@ Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with mu
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
 
 In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 mcg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 mcg•h/mL (range 1.4 to 13.3 mcg•h/mL).
-Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to14 L/h, and its apparent volume of distribution is 11 to 23.6 L.
+Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to 14 L/h, and its apparent volume of distribution is 11 to 23.6 L.
 
 Absorption
 
@@ -109,8 +109,8 @@ Only slight to moderate increases in the AUC (43%) and Cmax (26%) of pantoprazol
 
 Pediatric Patients
 
-The pharmacokinetics of pantoprazole sodium were studied in children less than 16 years of age in four randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
-A pediatric granule formulation was studied in children through 5 years of age, and Pantoprazole Sodium Delayed-Release Tablets were studied in children older than 5 years.
+The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
+A pediatric granule formulation was studied in children through 5 years of age, and pantoprazole sodium delayed-release tablets were studied in children older than 5 years.
 
 In a population PK analysis, total clearance increased with increasing bodyweight in a non-linear fashion.
 The total clearance also increased with increasing age only in children under 3 years of age.
@@ -119,7 +119,7 @@ Neonate through 5 Years of Age [See Use in Specific Populations (8.4)].
 
 Children and Adolescents 6 through 16 Years of Age
 
-The pharmacokinetics of Pantoprazole Sodium Delayed-Release Tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
+The pharmacokinetics of pantoprazole sodium delayed-release tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
 The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
 The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 7).
 
@@ -173,8 +173,9 @@ The clinical significance of this finding is not clear.
 
 Mycophenolate Mofetil (MMF)
 
-Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
-Transplant patients receiving approximately 2000 mg per day of MMF (n=12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n=21).
+Administration of pantoprazole 40 mg twice daily for 4 days and a single 1,000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
+
+Transplant patients receiving approximately 2,000 mg per day of MMF (n=12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n=21).
 There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF [see Drug Interactions (7)].
 
 Other Drugs

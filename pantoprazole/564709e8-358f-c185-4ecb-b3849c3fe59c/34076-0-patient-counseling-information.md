@@ -18,9 +18,9 @@ Bone Fracture
 
 Advise patients to report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
 
-Cutaneous and Systemic
+Cutaneous and Systemic Lupus Erythematosus
 
-Lupus Erythematosus Advise patients to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+Advise patients to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
 
 Cyanocobalamin (Vitamin B-12)
 
@@ -34,7 +34,10 @@ Drug Interactions
 
 Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.12)].
 
-Pregnancy Inform female patients of reproductive potential that pantoprazole sodium may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations(8.1)].
+Pregnancy
+
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations(8.1)].
 
 Administration
 

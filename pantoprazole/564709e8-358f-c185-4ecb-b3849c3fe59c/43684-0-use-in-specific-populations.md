@@ -2,9 +2,35 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C
+Available data from published observational studies did not demonstrate an association of major malformations or other adverse pregnancy outcomes with pantoprazole.
+
+In animal reproduction studies, no evidence of adverse development outcomes was observed with pantoprazole.
+Reproduction studies have been performed in rats at oral doses up to 450 mg/kg/day (about 88 times the recommended human dose) and rabbits at oral doses up to 40 mg/kg/day (about 16 times the recommended human dose) with administration of pantoprazole during organogenesis in pregnant animals and have revealed no evidence of harm to the fetus due to pantoprazole in this study (see Data).
+
+A pre-and postnatal development toxicity study in rats with additional endpoints to evaluate the effect on bone development was performed with pantoprazole sodium.
+Oral pantoprazole doses of 5, 15, and 30 mg/kg/day (approximately 1, 3, and 6 times the human dose of 40 mg/day) were administered to pregnant females from gestation day (GD) 6 through lactation day (LD) 21.
+Changes in bone morphology were observed in pups exposed to pantoprazole in utero and through milk during the period of lactation as well as by oral dosing from postnatal day (PND) 4 through PND 21 [see Use in Specific Populations (8.4)].
+There were no drug-related findings in maternal animals.
+Advise pregnant women of the potential risk of fetal harm.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Human Data
+
+Available data from published observational studies failed to demonstrate an association of adverse pregnancy-related outcomes and pantoprazole use.
+Methodological limitations of these observational studies cannot definitely establish or exclude any drug-associated risk during pregnancy.
+In a prospective study by the European Network of Teratology Information Services, outcomes from a group of 53 pregnant women administered median daily doses of 40 mg pantoprazole were compared to a control group of 868 pregnant women who did not take any proton pump inhibitors (PPIs).
+There was no difference in the rate of major malformations between women exposed to PPIs and the control group, corresponding to a Relative Risk (RR) = 0.55, [95% Confidence Interval (CI) 0.08-3.95].
+In a population-based retrospective cohort study covering all live births in Denmark from 1996 to 2008, there was no significant increase in major birth defects during analysis of first trimester exposure to pantoprazole in 549 live births.
+A meta-analysis that compared 1,530 pregnant women exposed to PPIs in at least the first trimester with 133,410 unexposed pregnant women showed no significant increases in risk for congenital malformations or spontaneous abortion with exposure to PPIs (for major malformations OR=1.12 ([95% CI 0.86-1.45] and for spontaneous abortions OR=1.29 [95% CI 0.84-1.97]).
+
+Animal Data
 
 Reproduction studies have been performed in rats at oral pantoprazole doses up to 450 mg/kg/day (about 88 times the recommended human dose based on body surface area) and in rabbits at oral doses up to 40 mg/kg/day (about 16 times the recommended human dose based on body surface area) with administration of pantoprazole sodium during organogenesis in pregnant animals.
 The studies have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.
@@ -19,17 +45,24 @@ The femur findings included lower total area, bone mineral content and density, 
 There were no microscopic changes in the distal femur, proximal tibia, or stifle joints.
 Changes in bone parameters were partially reversible following a recovery period, with findings on PND 70 limited to lower femur metaphysis cortical/subcortical bone mineral density in female pups at 5 mg/kg/day (approximately equal exposures (AUC) in humans at the 40 mg dose) and higher doses.
 
-There are no adequate and well-controlled studies in pregnant women.
-Advise pregnant women of the potential risk of fetal harm.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
-Pantoprazole and its metabolites are excreted in the milk of rats.
-Pantoprazole excretion in human milk has been detected in a study of a single nursing mother after a single 40 mg oral dose of pantoprazole sodium.
-The clinical relevance of this finding is not known.
-Many drugs which are excreted in human milk have a potential for serious adverse reactions in nursing infants.
-Based on the potential for tumorigenicity shown for pantoprazole sodium in rodent carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the benefit of the drug to the mother.
+Pantoprazole has been detected in breast milk of a nursing mother after a single 40 mg oral dose of pantoprazole.
+There were no effects on the breastfed infant (see Data).
+There are no data on pantoprazole effects on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for pantoprazole and any potential adverse effects on the breastfed child from pantoprazole or from the underlying maternal condition.
+
+Data
+
+The breast milk of a 42-year-old woman receiving 40 mg of oral pantoprazole, at 10 months postpartum, was studied for 24 hours, to demonstrate low levels of pantoprazole present in the breast milk.
+Pantoprazole was detectable in milk only 2 and 4 hours after the dose with milk levels of approximately 36 mcg/L and 24 mcg/L, respectively.
+A milk-to-plasma ratio of 0.022 was observed at 2 hours after drug administration.
+Pantoprazole was not detectable (<10 mcg/L) in milk at 6, 8 and 24 hours after the dose.
+The relative dose to the infant was estimated to be 7.3 mcg of pantoprazole, which is equivalent to 0.14% of the weight-adjusted maternal dose.
+No adverse events in the infant were reported by the mother.
 
 ## 8.4 Pediatric Use
 
@@ -55,7 +88,7 @@ The effectiveness of pantoprazole sodium for treating symptomatic GERD in pediat
 Although the data from the clinical trials support use of pantoprazole sodium for the short-term treatment of EE associated with GERD in pediatric patients 1 year through 5 years, there is no commercially available dosage formulation appropriate for patients less than 5 years of age [see Dosage and Administration (2)].
 
 In a population pharmacokinetic analysis, clearance values in the children 1 to 5 years old with endoscopically proven GERD had a median value of 2.4 L/h.
-Following a 1.2 mg/kg equivalent dose (15 mg for ≤ 12.5 kg and 20 mg for > 12.5 to < 25 kg), the plasma concentrations of pantoprazole sodium were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
+Following a 1.2 mg/kg equivalent dose (15 mg for ≤ 12.5 kg and 20 mg for > 12.5 to < 25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
 The estimated AUC for patients 1 to 5 years old was 37% higher than for adults receiving a single 40 mg tablet, with a geometric mean AUC value of 6.8 mcg•hr/mL.
 
 Neonates to less than one year of age

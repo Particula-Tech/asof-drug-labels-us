@@ -42,10 +42,10 @@ A prescription medicine called a proton pump inhibitor (PPI) used to reduce the 
 In adults, pantoprazole sodium delayed-release tablets are used for:
 
 • up to 8 weeks for the healing and symptom relief of acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
-Your doctor may prescribe another 8 weeks of, pantoprazole sodium delayed-release tablets in patients whose EE does not heal.
+Your doctor may prescribe another 8 weeks ofpantoprazole sodium delayed-release tablets in patients whose EE does not heal.
 
-· maintaining healing of EE and to help prevent the return of heartburn symptoms caused by GERD.
-It is not known if, pantoprazole sodium delayed-release tablets are safe and effective when used for longer than 12 months for this purpose.
+• maintaining healing of EE and to help prevent the return of heartburn symptoms caused by GERD.
+It is not known if pantoprazole sodium delayed-release tablets are safe and effective when used for longer than 12 months for this purpose.
 
 • the long-term treatment of conditions where your stomach makes too much acid.
 This includes a rare condition called Zollinger-Ellison Syndrome.
@@ -65,7 +65,7 @@ Do not take pantoprazole sodium delayed-release tablets if you are:
 • allergic to pantoprazole sodium, any other PPI medicine, or any of the ingredients in pantoprazole sodium delayed-release tablets.
 See the end of this Medication Guide for a complete list of ingredients.
 
-• taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
+• taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY, JULUCA) used to treat HIV-1 (Human Immunodeficiency Virus).
 
 Before taking pantoprazole sodium delayed-release tablets, tell your doctor about all of your medical conditions, including if you:
 
@@ -77,8 +77,6 @@ Tell your doctor if you become pregnant or think you may be pregnant during trea
 
 • are breastfeeding or plan to breastfeed.
 Pantoprazole sodium can pass into your breast milk.
-You and your doctor should decide if you will take pantoprazole sodium delayed-release tablets or breastfeed.
-You should not do both.
 Talk with your doctor about the best way to feed your baby if you take pantoprazole sodium delayed-release tablets.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
@@ -98,11 +96,12 @@ o Tell your doctor if you are not able to swallow your pantoprazole sodium delay
 
 o You may use antacids while taking pantoprazole sodium delayed-release tablets.
 
-- If you miss a dose of pantoprazole sodium delayed-release tablet, take it as soon as possible.
-  If it is almost time for your next dose, do not take the missed dose.
-  Take the next dose at your regular time.
-  Do not take 2 doses at the same time.
-- If you take too much pantoprazole sodium, call your doctor or your poison control center at 1-800-222-1222 right away or go to the nearest emergency room.
+• If you miss a dose of pantoprazole sodium delayed-release tablet, take it as soon as possible.
+If it is almost time for your next dose, do not take the missed dose.
+Take the next dose at your regular time.
+Do not take 2 doses at the same time.
+
+• If you take too much pantoprazole sodium, call your doctor or your poison control center at 1-800-222-1222 right away or go to the nearest emergency room.
 
 What are the possible side effects of pantoprazole sodium delayed-release tablets?
 
@@ -149,7 +148,7 @@ Inactive ingredients in pantoprazole sodium delayed-release tablets: ammonium hy
 
 For more information, call toll-free 1-888-375-3784.
 
-This Medication Guide has been approved by the U.S. food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Dr. Reddy's Laboratories Limited.
 
@@ -161,6 +160,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally –500 090 INDIA
 
-Revised: 0718
+Revised: 0519
 
 Dispense with Medication Guide available at: www.drreddys.com/medguide/pantoprazoledrtabs.pdf
