@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761073"
+  ],
+  "inn": "trastuzumab",
+  "labeler": "Amgen Inc",
+  "package_ndcs": [
+    "55513-132-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab-anns",
+      "name": "Kanjinti"
+    }
+  ],
+  "setid": "9a94f5b2-b84e-4987-8ea1-c4346db5a5fa",
+  "source": "dailymed"
+}
