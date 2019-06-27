@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adults with Atopic Dermatitis
 
 Three randomized, double-blind, placebo-controlled, multicenter trials (Trials 1, 2, and 3) and one dose-ranging trial (Trial 4) evaluated the safety of DUPIXENT in subjects with moderate-to-severe atopic dermatitis.
-The safety population had a mean age of 38 years; 41% of subjects were female, 67% were white, 24% were Asian, and 6% were black; in terms of comorbid conditions, 48% of the subjects had asthma, 49% had allergic rhinitis, 37% had food allergy, and 27% had allergic conjunctivitis.
+The safety population had a mean age of 38 years; 41% of subjects were female, 67% were white, 24% were Asian, and 6% were black; in terms of co-morbid conditions, 48% of the subjects had asthma, 49% had allergic rhinitis, 37% had food allergy, and 27% had allergic conjunctivitis.
 In these 4 trials, 1472 subjects were treated with subcutaneous injections of DUPIXENT, with or without concomitant topical corticosteroids (TCS).
 
 A total of 739 subjects were treated with DUPIXENT for at least 1 year in the development program for moderate-to-severe atopic dermatitis.
@@ -28,11 +28,11 @@ Table 2 summarizes the adverse reactions that occurred at a rate of at least 1% 
 
 Table 2: Adverse Reactions Occurring in ≥1% of the DUPIXENT Monotherapy Group or the DUPIXENT + TCS Group in the Atopic Dermatitis Trials through Week 16
 
-|  | N=529 n (%) | N=517 n (%) | N=110 n (%) | N=315 n (%) |
+| N=529 n (%) | N=517 n (%) | N=110 n (%) | N=315 n (%) |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | DUPIXENT Monotherapypooled analysis of Trials 1, 2, and 4 |  | DUPIXENT + TCSanalysis of Trial 3 where subjects were on background TCS therapy |  |
-|  | DUPIXENT 300 mg Q2WDUPIXENT 600 mg at Week 0, followed by 300 mg every two weeks | Placebo | DUPIXENT 300 mg Q2W + TCS | Placebo + TCS |
-| Injection site reactions | 51 (10) | 28 (5) | 11 (10) | 18 (6) |
+| Adverse Reaction | DUPIXENT MonotherapyPooled analysis of Trials 1, 2, and 4. |  | DUPIXENT + TCSAnalysis of Trial 3 where subjects were on background TCS therapy. |  |
+| DUPIXENT 300 mg Q2WDUPIXENT 600 mg at Week 0, followed by 300 mg every two weeks. | Placebo | DUPIXENT 300 mg Q2W + TCS | Placebo + TCS |  |
+| Injection site reaction | 51 (10) | 28 (5) | 11 (10) | 18 (6) |
 | ConjunctivitisConjunctivitis cluster includes conjunctivitis, allergic conjunctivitis, bacterial conjunctivitis, viral conjunctivitis, giant papillary conjunctivitis, eye irritation, and eye inflammation. | 51 (10) | 12 (2) | 10 (9) | 15 (5) |
 | Blepharitis | 2 (<1) | 1 (<1) | 5 (5) | 2 (1) |
 | Oral herpes | 20 (4) | 8 (2) | 3 (3) | 5 (2) |
@@ -71,15 +71,40 @@ Table 3 summarizes the adverse reactions that occurred at a rate of at least 1% 
 
 Table 3: Adverse Reactions Occurring in ≥1% of the DUPIXENT Groups in Asthma Trials 1 and 2 and Greater than Placebo (6 Month Safety Pool)
 
-|  | N=779 n (%) | N=788 n (%) | N=792 n (%) |
+| N=779 n (%) | N=788 n (%) | N=792 n (%) |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | AS Trials 1 and 2 |  |  |
-|  | DUPIXENT 200 mg Q2W | DUPIXENT 300 mg Q2W | Placebo |
-| Injection site reactionsInjection site reactions cluster includes erythema, edema, pruritus, pain, and inflammation | 111 (14%) | 144 (18%) | 50 (6%) |
+| DUPIXENT 200 mg Q2W | DUPIXENT 300 mg Q2W | Placebo |  |
+| Injection site reactionsInjection site reactions cluster includes erythema, edema, pruritus, pain, and inflammation. | 111 (14%) | 144 (18%) | 50 (6%) |
 | Oropharyngeal pain | 13 (2%) | 19 (2%) | 7 (1%) |
-| EosinophiliaEosinophilia = blood eosinophils ≥ 3,000 cells/mcL, or deemed by the investigator to be an adverse event. None met the criteria for serious eosinophilic conditions [see Section 5.3 Warnings and Precautions] | 17 (2%) | 16 (2%) | 2 (<1%) |
+| EosinophiliaEosinophilia = blood eosinophils ≥3,000 cells/mcL, or deemed by the investigator to be an adverse event. None met the criteria for serious eosinophilic conditions [see Warnings and Precautions (5.3)]. | 17 (2%) | 16 (2%) | 2 (<1%) |
 
 Injection site reactions were most common with the loading (initial) dose.
+
+The safety profile of DUPIXENT through Week 52 was generally consistent with the safety profile observed at Week 24.
+
+Chronic Rhinosinusitis with Nasal Polyposis
+
+A total of 722 adult subjects with chronic rhinosinusitis with nasal polyposis (CRSwNP) were evaluated in 2 randomized, placebo-controlled, multicenter trials of 24 to 52 weeks duration (CSNP Trials 1 and 2).
+The safety pool consisted of data from the first 24 weeks of treatment from both studies.
+
+In the safety pool, the proportion of subjects who discontinued treatment due to adverse events was 5% of the placebo group and 2% of the DUPIXENT 300 mg Q2W group.
+
+Table 4 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in CSNP Trials 1 and 2.
+
+Table 4: Adverse Reactions Occurring in ≥1% of the DUPIXENT Group in CRSwNP Trials 1 and 2 and Greater than Placebo (24 Week Safety Pool)
+
+|  | N=440 n (%) | N=282 n (%) |
+| --- | --- | --- |
+| Adverse Reaction | CSNP Trials 1 and 2 |  |
+|  | DUPIXENT 300 mg Q2W | Placebo |
+| Injection site reactionsInjection site reactions cluster includes injection site reaction, pain, bruising and swelling. | 28 (6%) | 12 (4%) |
+| ConjunctivitisConjunctivitis cluster includes conjunctivitis, allergic conjunctivitis, bacterial conjunctivitis, viral conjunctivitis, giant papillary conjunctivitis, eye irritation, and eye inflammation. | 7 (2%) | 2 (1%) |
+| Arthralgia | 14 (3%) | 5 (2%) |
+| Gastritis | 7 (2%) | 2 (1%) |
+| Insomnia | 6 (1%) | 0 (<1%) |
+| Eosinophilia | 5 (1%) | 1 (<1%) |
+| Toothache | 5 (1%) | 1 (<1%) |
 
 The safety profile of DUPIXENT through Week 52 was generally consistent with the safety profile observed at Week 24.
 
@@ -88,7 +113,9 @@ Specific Adverse Reactions
 Conjunctivitis
 
 During the 52-week treatment period of concomitant therapy atopic dermatitis trial (Trial 3), conjunctivitis was reported in 16% of the DUPIXENT 300 mg Q2W + TCS group (20 per 100 subject-years) and in 9% of the placebo + TCS group (10 per 100 subject-years).
-Among asthma subjects, the frequency of conjunctivitis was similar between DUPIXENT and placebo [see Warnings and Precautions (5.2)].
+Among asthma subjects, the frequency of conjunctivitis was similar between DUPIXENT and placebo.
+In the 52-week CRSwNP study (CSNP Trial 2), the frequency of conjunctivitis was 3% in the DUPIXENT subjects and 1% in the placebo subjects; all of these subjects recovered.
+[see Warnings and Precautions (5.2)].
 
 Eczema Herpeticum and Herpes Zoster
 
@@ -97,6 +124,7 @@ The rate of eczema herpeticum was similar in the placebo and DUPIXENT groups in 
 Herpes zoster was reported in <0.1% of the DUPIXENT groups (<1 per 100 subject-years) and in <1% of the placebo group (1 per 100 subject-years) in the 16-week atopic dermatitis monotherapy trials.
 In the 52-week DUPIXENT + TCS atopic dermatitis trial, herpes zoster was reported in 1% of the DUPIXENT + TCS group (1 per 100 subject-years) and 2% of the placebo + TCS group (2 per 100 subject-years).
 Among asthma subjects the frequency of herpes zoster was similar between DUPIXENT and placebo.
+Among CRSwNP subjects there were no reported cases of herpes zoster or eczema herpeticum.
 
 Hypersensitivity Reactions
 
@@ -108,7 +136,9 @@ Eosinophils
 DUPIXENT-treated subjects had a greater initial increase from baseline in blood eosinophil count compared to subjects treated with placebo.
 In subjects with atopic dermatitis, the mean and median increases in blood eosinophils from baseline to Week 4 were 100 and 0 cells/mcL respectively.
 In subjects with asthma, the mean and median increases in blood eosinophils from baseline to Week 4 were 130 and 10 cells/mcL respectively.
-The incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was similar in DUPIXENT and placebo groups.
+In subjects with CRSwNP, the mean and median increases in blood eosinophils from baseline to Week 16 were 150 and 50 cells/mcL, respectively.
+
+Across all indications, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was similar in DUPIXENT and placebo groups.
 Treatment-emergent eosinophilia (≥5,000 cells/mcL) was reported in <2% of DUPIXENT-treated patients and <0.5% in placebo-treated patients.
 Blood eosinophil counts declined to near baseline levels during study treatment [see Warnings and Precautions (5.3)].
 
@@ -118,6 +148,9 @@ In the 1-year placebo controlled trial in subjects with asthma (AS Trial 2), car
 
 In the 1-year placebo controlled trial in subjects with atopic dermatitis (Trial 3), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.9%) of the DUPIXENT + TCS 300 mg Q2W group, 0 (0.0%) of the DUPIXENT + TCS 300 mg QW group, and 1 (0.3%) of the placebo + TCS group.
 
+In the 24-week placebo controlled trial in subjects with CRSwNP (CSNP Trial 1), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.7%) of the DUPIXENT group and 0 (0.0%) of the placebo group.
+In the 1-year placebo controlled trial in subjects with CRSwNP (CSNP Trial 2), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
@@ -125,11 +158,11 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to dupilumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
-Approximately 6% of subjects with atopic dermatitis or asthma who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 2% exhibited persistent ADA responses, and approximately 2% had neutralizing antibodies.
+Approximately 5% of subjects with atopic dermatitis, asthma, or CRSwNP who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 2% exhibited persistent ADA responses, and approximately 2% had neutralizing antibodies.
 
 Approximately 9% of subjects with asthma who received DUPIXENT 200 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 4% exhibited persistent ADA responses, and approximately 4% had neutralizing antibodies.
 
-Approximately 5% of subjects in the placebo groups in the 52-week studies were positive for antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
+Approximately 4% of subjects in the placebo groups in the 52-week studies were positive for antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
 
 Approximately 16% of adolescent subjects with atopic dermatitis who received DUPIXENT 300 mg or 200 mg Q2W for 16 weeks developed antibodies to dupilumab; approximately 3% exhibited persistent ADA responses, and approximately 5% had neutralizing antibodies.
 

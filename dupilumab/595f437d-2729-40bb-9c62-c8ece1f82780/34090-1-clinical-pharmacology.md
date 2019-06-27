@@ -5,13 +5,14 @@
 Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes.
 Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor.
 
-Inflammation is an important component in the pathogenesis of asthma and atopic dermatitis.
+Inflammation is an important component in the pathogenesis of asthma, atopic dermatitis, and CRSwNP.
 Multiple cell types that express IL-4Rα (e.g., mast cells, eosinophils, macrophages, lymphocytes, epithelial cells, goblet cells) and inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines, chemokines) are involved in inflammation.
 Blocking IL-4Rα with dupilumab inhibits IL-4 and IL-13 cytokine-induced inflammatory responses, including the release of proinflammatory cytokines, chemokines, nitric oxide, and IgE; however, the mechanism of dupilumab action in asthma has not been definitively established.
 
 ## 12.2 Pharmacodynamics
 
-Consistent with inhibition of IL-4 and IL-13 signaling, dupilumab treatment markedly decreased fractional exhaled nitric oxide (FeNO) and circulating concentrations of eotaxin-3, total IgE, allergen specific IgE, TARC, and periostin in asthma subjects relative to placebo.
+Consistent with inhibition of IL-4 and IL-13 signaling, dupilumab treatment decreased certain biomarkers.
+In asthma subjects, fractional exhaled nitric oxide (FeNO) and circulating concentrations of eotaxin-3, total IgE, allergen specific IgE, TARC, and periostin were decreased relative to placebo.
 These reductions in biomarkers were comparable for the 300 mg Q2W and 200 mg Q2W regimens.
 These markers were near maximal suppression after 2 weeks of treatment, except for IgE which declined more slowly.
 These effects were sustained throughout treatment.
@@ -20,16 +21,15 @@ For FeNO, the mean percent reduction from baseline at Week 2 was 35% and 24% in 
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of dupilumab is similar in subjects with atopic dermatitis and asthma.
+The pharmacokinetics of dupilumab is similar in subjects with atopic dermatitis, asthma, and CRSwNP.
 
 Absorption
 
-Following an initial subcutaneous (SC) dose of 600 mg or 400 mg, dupilumab reached peak mean ± SD concentrations (Cmax) of 70.1±24.1 mcg/mL or 41.8±12.4 mcg/mL, respectively, by approximately 1 week post dose.
+Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilumab reached peak mean ± SD concentrations (Cmax) of 70.1±24.1 mcg/mL, 41.8±12.4 mcg/mL, or 30.5±9.39 mcg/mL respectively, by approximately 1 week post dose.
+Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly (twice the recommended dosing frequency) or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
+Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 193±77.0 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mg/L for 200 mg administered Q2W.
 
-Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly (twice the recommended dosing frequency) or Q2W, or 400 mg starting dose and 200 mg dose Q2W.
-Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 79.9±41.4 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 193±77.0 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mg/L for 200 mg administered Q2W.
-
-The bioavailability of dupilumab following a SC dose is similar between AD and asthma patients, ranging between 61% and 64%.
+The bioavailability of dupilumab following a SC dose is similar between AD, asthma, and CRSwNP patients, ranging between 61% and 64%.
 
 Distribution
 
@@ -39,7 +39,7 @@ Elimination
 
 The metabolic pathway of dupilumab has not been characterized.
 As a human monoclonal IgG4 antibody, dupilumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
-After the last steady-state dose of 300 mg Q2W, 300 mg QW, or 200 mg Q2W dupilumab, the median times to non-detectable concentration (<78 ng/mL) are 10-11, 13, and 9 weeks, respectively.
+After the last steady-state dose of 300 mg Q2W, 300 mg QW, or 200 mg Q2W dupilumab, the median times to non-detectable concentration (<78 ng/mL) are 10-12, 13, and 9 weeks, respectively.
 
 Dose Linearity
 
@@ -63,18 +63,18 @@ Specific Populations
 
 Geriatric Patients
 
-In subjects who are 65 years and older, the mean ±SD steady-state trough concentrations of dupilumab were 69.4±31.4 mcg/mL and 166±62.3 mcg/mL, respectively, for 300 mg administered Q2W and weekly, and 39.7±21.7 mcg/mL for 200 mg administered Q2W.
+In subjects who are 65 years and older, the mean ± SD steady-state trough concentrations of dupilumab were 69.4±31.4 mcg/mL and 166±62.3 mcg/mL, respectively, for 300 mg administered Q2W and weekly, and 39.7±21.7 mcg/mL for 200 mg administered Q2W.
 
 Pediatric Patients
 
 Atopic Dermatitis
 
-For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean±SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
+For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
 Asthma
 
 A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in AS Trial 2.
-The mean ±SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered Q2W.
+The mean ± SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered Q2W.
 
 Renal or Hepatic Impairment
 

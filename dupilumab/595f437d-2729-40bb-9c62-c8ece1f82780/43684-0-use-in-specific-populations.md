@@ -52,7 +52,7 @@ Safety and efficacy in pediatric patients (<12 years of age) with atopic dermati
 
 Asthma
 
-A total of 107 adolescents aged 12 to 17 years with moderate to severe asthma were enrolled in AS Trial 2 and received either 200 mg (N=21) or 300 mg (N=18) DUPIXENT (or matching placebo either 200 mg [N=34] or 300 mg [N=34]) Q2W.
+A total of 107 adolescents aged 12 to 17 years with moderate-to-severe asthma were enrolled in AS Trial 2 and received either 200 mg (N=21) or 300 mg (N=18) DUPIXENT (or matching placebo either 200 mg [N=34] or 300 mg [N=34]) Q2W.
 Asthma exacerbations and lung function were assessed in both adolescents and adults.
 For both the 200 mg and 300 mg Q2W doses, improvements in FEV1 (LS mean change from baseline at Week 12) were observed (0.36 L and 0.27 L, respectively).
 For the 200 mg Q2W dose, subjects had a reduction in the rate of severe exacerbations that was consistent with adults.
@@ -61,6 +61,11 @@ Dupilumab exposure was higher in adolescent patients than that in adults at the 
 
 The adverse event profile in adolescents was generally similar to the adults [see Adverse Reactions (6.1)].
 
+CRSwNP
+
+CRSwNP does not normally occur in children.
+Safety and efficacy in pediatric patients (<18 years of age) with CRSwNP have not been established.
+
 ## 8.5 Geriatric Use
 
 Of the 1472 subjects with atopic dermatitis exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 67 subjects were 65 years or older.
@@ -68,3 +73,6 @@ Although no differences in safety or efficacy were observed between older and yo
 
 Of the 1977 subjects with asthma exposed to DUPIXENT, a total of 240 subjects were 65 years or older.
 Efficacy and safety in this age group was similar to the overall study population.
+
+Of the 440 subjects with CRSwNP exposed to DUPIXENT, a total of 79 subjects were 65 years or older.
+Efficacy and safety in this age group were similar to the overall study population.

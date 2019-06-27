@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patients and/or caregivers to read the FDA-approved patient labeling (Patient Information and Instructions for Use) before the patient starts using DUPIXENT and each time the prescription is renewed as there may be new information they need to know.
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Pregnancy Registry
 
@@ -35,6 +35,6 @@ Reduction in Corticosteroid Dosage
 Inform patients to not discontinue systemic or inhaled corticosteroids except under the direct supervision of a physician.
 Inform patients that reduction in corticosteroid dose may be associated with systemic withdrawal symptoms and/or unmask conditions previously suppressed by systemic corticosteroid therapy [see Warnings and Precautions (5.5)].
 
-Atopic Dermatitis Patients with Comorbid Asthma
+Patients with Co-morbid Asthma
 
-Advise atopic dermatitis patients with comorbid asthma not to adjust or stop their asthma treatment without talking to their physicians [see Warnings and Precautions (5.6)].
+Advise patients with atopic dermatitis or CRSwNP who have co-morbid asthma not to adjust or stop their asthma treatment without talking to their physicians [see Warnings and Precautions (5.6)].
