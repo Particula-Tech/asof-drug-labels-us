@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210821"
+  ],
+  "inn": "tetracaine",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-920-64"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "tetracaine hydrochloride",
+      "name": "Tetracaine Hydrochloride"
+    }
+  ],
+  "setid": "807dae5d-f34a-4f3d-9f54-dd350b056a92",
+  "source": "dailymed"
+}

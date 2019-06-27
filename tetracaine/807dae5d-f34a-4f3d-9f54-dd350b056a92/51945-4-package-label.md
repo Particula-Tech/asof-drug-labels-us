@@ -1,0 +1,13 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- Carton 15 mL
+
+NDC 68682-920-64
+
+Rx only
+
+Tetracaine Hydrochloride
+
+Ophthalmic Solution, USP 0.05% (Sterile)
+
+15 mL
+
+OCEANSIDE PHARMACEUTICALS
