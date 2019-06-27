@@ -20,8 +20,8 @@ Clinical Trials Experience with PROCYSBI in Patients Switched from Immediate-Rel
 Sixty-two patients with nephropathic cystinosis (38 males and 24 females) received PROCYSBI in two clinical trials at doses ranging from 0.29 grams/m2 per day to 2.19 grams/m2 per day [see Clinical Studies (14.2)].
 All patients were switched from immediate-release cysteamine to PROCYSBI.
 Forty-three patients, ages 6 to 26 years old, received PROCYSBI in an 8-week, open-label, randomized, cross-over trial comparing PROCYSBI to immediate-release cysteamine bitartrate.
-Forty of 43 patients continued PROCYSBI treatment in an open-label extension trial, and were treated with PROCYSBI for longer than 2 years.
-An additional 19 patients (6 renal transplanted patients and 13 patients aged 2 to 6 years) were enrolled directly into this trial and were treated with PROCYSBI for up to 18 months.
+Forty of 43 patients continued PROCYSBI treatment in an open-label extension trial (36 patients were treated with PROCYSBI for longer than 2 years, and 20 patients were treated for longer than 5 years).
+An additional 19 patients (6 renal transplanted patients and 13 patients aged 2 to 6 years) were enrolled directly into this trial (12 patients were treated with PROCYSBI for longer than 2 years, and 9 patients were treated for longer than 5 years).
 
 In the open-label, randomized, cross-over trial, a higher incidence of adverse reactions was reported in patients during the PROCYSBI treatment period compared with the immediate-release cysteamine bitartrate treatment period (see Table 2).
 Other significant adverse reactions reported during clinical trials included hypersensitivity reactions, including anaphylaxis.
@@ -38,7 +38,7 @@ Table 2: Adverse Reactions in ≥5% of Patients with Nephropathic Cystinosis in 
 | Dizziness | 0 | 5 |
 | Anorexia/loss of appetite | 5 | 2 |
 
-For all patients treated with PROCYSBI in both trials (N=62), the most commonly reported adverse reactions (>5%) were vomiting, nausea, abdominal pain, breath odor, diarrhea, skin odor, fatigue, rash, and headache.
+In the open-label extension trial (N=59), the most commonly reported adverse reactions (>15%) were vomitin g, headache, diarrhea, nausea, conjunctivitis, influenza, gastroenteritis, nasopharyngitis, abdominal pain, dehydration, ear infection, upper respiratory tract infection, fatigue, arthralgia, cough, and pain in extremity.
 
 Clinical Trials Experience with PROCYSBI in Cysteamine-Naïve Patients
 

@@ -63,13 +63,13 @@ Table 5: Comparison of WBC cystine concentrations in open-label, randomized, cro
 
 Multi-Center, Single-Arm, Open-Label, Long-Term Extension Clinical Trial of PROCYSBI
 
-Forty of the 41 patients completing the randomized trial continued treatment with PROCYSBI in an ongoing, open-label extension trial, for a total treatment duration ranging from 3 to 35 months (Study RP103-03-04; NCT01197378).
-Thirty-four of the 36 patients continued treatment with PROCYSBI for at least 22 months in the extension trial and maintained their mean WBC cystine concentrations below 1 nmol ½ cystine/mg protein (measured using the mixed leukocyte assay) over this time period.
+Forty of the 41 patients completing the randomized trial continued treatment with PROCYSBI in an open-label extension trial, for a total treatment duration ranging from 1 month to 6.7 years in the study (Study RP103-03-04; NCT01197378).
+Thirty-six of the 40 patients continued treatment with PROCYSBI for at least 24 months and 20 patients continued treatment for longer than 60 months in the extension trial, and maintained their mean WBC cystine concentrations below 1 nmol ½ cystine/mg protein (measured using the mixed leukocyte assay) over this time period.
 
-Thirteen pediatric patients, aged 2 to 6 years, were also enrolled in the extension trial.
+Thirteen pediatric patients, aged 2 to 6 years, were also enrolled in the extension trial and treated with PROCYSBI.
 All of them were on treatment with immediate-release cysteamine bitartrate at the time of enrollment.
-Twelve of the 13 patients received at least 12 months of treatment with PROCYSBI, and their mean ± SD WBC cystine concentration (measured using the mixed leukocyte assay) decreased from 1.40 ± 1.08 nmol ½ cystine/mg protein at screening to 1.13 ± 0.56 nmol ½ cystine/mg protein after 12 months of treatment.
-Seven of these pediatric patients were able to achieve a WBC cystine concentration (measured using the mixed leukocyte assay) of less than 1.0 nmol ½ cystine/mg protein after 12 months of treatment; their mean ± SD dose of PROCYSBI increased from 0.84 ± 0.22 grams/m2 per day at screening to 1.06 ± 0.33 grams/m2 per day after 12 months of treatment.
+All 13 patients received at least 18 months of treatment with PROCYSBI, and their mean ± SD WBC cystine concentration (measured using the mixed leukocyte assay) decreased from 1.41 ± 1.03 nmol ½ cystine/mg protein at baseline to 1.22 ± 1.40 nmol ½ cystine/mg protein after 18 months of treatment.
+Seven of these pediatric patients were able to achieve a WBC cystine concentration (measured using the mixed leukocyte assay) of less than 1.0 nmol ½ cystine/mg protein after 18 months of treatment; their mean ± SD dose of PROCYSBI increased from 0.81 ± 0.25 grams/m2 per day at baseline to 0.90 ± 0.25 grams/m2 per day after 18 months of treatment.
 
 During extended treatment with PROCYSBI, mean estimates of renal function, as measured by the eGFR, were maintained.
 
