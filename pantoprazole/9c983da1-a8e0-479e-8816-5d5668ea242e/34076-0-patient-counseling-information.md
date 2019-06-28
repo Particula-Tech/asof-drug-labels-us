@@ -32,15 +32,16 @@ Advise patients to report any clinical symptoms that may be associated with hypo
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [Warnings and Precautions (5.11)]
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.12)].
 
 Pregnancy
 
-Inform female patients of reproductive potential that pantoprazole sodium delayed-release tablets may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Administration
 
-- Do not split, crush, or chew pantoprazole sodium delayed-release Tablets.
+- Do not split, crush, or chew pantoprazole sodium delayed-release tablets.
 - Swallow pantoprazole sodium delayed-release tablets whole, with or without food in the stomach.
 - Concomitant administration of antacids does not affect the absorption of pantoprazole sodium delayed-release tablets
 - Take a missed dose as soon as possible.
@@ -52,11 +53,10 @@ For current full prescribing information, please visit www.torrentpharma.com
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-For:
+Manufactured For:
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8067454 Revised January 2018
+8075354 Revised May 2019

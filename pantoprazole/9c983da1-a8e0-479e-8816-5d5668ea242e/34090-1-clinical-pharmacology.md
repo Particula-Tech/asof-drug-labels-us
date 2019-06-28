@@ -17,12 +17,12 @@ With once-a-day dosing for 7 days, the mean inhibition was increased to 85%.
 Pantoprazole suppressed acid secretion in excess of 95% in half of the subjects.
 Acid secretion had returned to normal within a week after the last dose of pantoprazole; there was no evidence of rebound hypersecretion.
 
-In a series of dose-response studies, pantoprazole, at oral doses ranging from 20 to 120 mg, caused dose-related increases in median basal gastric pH and in the percent of time gastric pH was > 3 and > 4.
+In a series of dose-response studies, pantoprazole, at oral doses ranging from 20 to 120 mg, caused dose-related increases in median basal gastric pH and in the percent of time gastric pH was >3 and >4.
 Treatment with 40 mg of pantoprazole produced significantly greater increases in gastric pH than the 20 mg dose.
 Doses higher than 40 mg (60, 80, 120 mg) did not result in further significant increases in median gastric pH.
 The effects of pantoprazole on median pH from one double-blind crossover study are shown in Table 5.
 
-Table 5: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
+Table 5 Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
 |  | ––––––––––––––––––––––––––Median pH on day 7–––––––––––––––––––––––––––– |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -68,12 +68,12 @@ Peak serum concentration (Cmax) and area under the serum concentration time curv
 Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with multiple daily dosing.
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
 
-In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 µg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 µg•h/mL (range 1.4 to 13.3 µg•h/mL).
+In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 mcg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 mcg•h/mL (range 1.4 to 13.3 mcg•h/mL).
 Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to 14.0 L/h, and its apparent volume of distribution is 11.0 to 23.6 L.
 
 Absorption
 
-After administration of a single or multiple oral 40 mg doses of pantoprazole sodium delayed-release tablets, the peak plasma concentration of pantoprazole was achieved in approximately 2.5 hours, and Cmax was 2.5 µg/mL.
+After administration of a single or multiple oral 40 mg doses of pantoprazole sodium delayed-release tablets, the peak plasma concentration of pantoprazole was achieved in approximately 2.5 hours, and Cmax was 2.5 mcg/mL.
 Pantoprazole undergoes little first-pass metabolism, resulting in an absolute bioavailability of approximately 77%.
 Pantoprazole absorption is not affected by concomitant administration of antacids.
 
@@ -96,7 +96,7 @@ There is no evidence that any of the pantoprazole metabolites have significant p
 
 Excretion
 
-After a single oral or intravenous dose of 14C-labeled pantoprazole to healthy, normal metabolizer volunteers, approximately 71% of the dose was excreted in the urine, with 18% excreted in the feces through biliary excretion.
+After a single oral or intravenous dose of 14C-labeled pantoprazole to healthy, normal metabolizer subjects, approximately 71% of the dose was excreted in the urine, with 18% excreted in the feces through biliary excretion.
 There was no renal excretion of unchanged pantoprazole.
 
 Specific populations
@@ -122,13 +122,13 @@ The pharmacokinetics of pantoprazole sodium delayed-release tablets were evaluat
 The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
 The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 7).
 
-Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg pantoprazole sodium delayed-release tablets
+Table 7 PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg pantoprazole sodium delayed-release tablets
 
 |  | 6 to 11 years (n=12) | 12 to 16 years (n=11) |
 | --- | --- | --- |
-| Cmax (µg/mL)a | 1.8 | 1.8 |
+| Cmax (mcg/mL)a | 1.8 | 1.8 |
 | tmax (h)b | 2.0 | 2.0 |
-| AUC (µg•hr/mL) | 6.9 | 5.5 |
+| AUC (mcg•hr/mL) | 6.9 | 5.5 |
 | CL/F (L/h)b | 6.6 | 6.8 |
 | aGeometric mean values |  |  |
 | bMedian values |  |  |
@@ -149,7 +149,7 @@ Patients with Hepatic Impairment
 In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects.
 Although serum half-life values increased to 7 to 9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
 These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration.
-Doses higher than 40 mg per day of pantoprazole have not been studied in hepatically impaired patients.
+Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
 
 Drug Interaction Studies
 
@@ -189,7 +189,7 @@ There was also no interaction with concomitantly administered antacids.
 ## 12.5 Pharmacogenomics
 
 CYP2C19 displays a known genetic polymorphism due to its deficiency in some subpopulations (e.g., approximately 3% of Caucasians and African-Americans and 17% to 23% of Asians are poor metabolizers).
-Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10.0 hours in adults, they still have minimal accumulation (23% or less) with once-daily dosing.
+Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10 hours in adults, they still have minimal accumulation (23% or less) with once-daily dosing.
 For adult patients who are CYP2C19 poor metabolizers, no dosage adjustment is needed.
 
 Similar to adults, pediatric patients who have the poor metabolizer genotype of CYP2C19 (CYP2C19 *2/*2) exhibited greater than a 6-fold increase in AUC compared to pediatric extensive (CYP2C19 *1/*1) and intermediate (CYP2C19 *1/*x) metabolizers.

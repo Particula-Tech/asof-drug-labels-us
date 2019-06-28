@@ -10,7 +10,7 @@ A US multicenter, double-blind, placebo-controlled study of pantoprazole 10 mg, 
 In this study, approximately 25% of enrolled patients had severe EE of grade 3, and 10% had grade 4.
 The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 8.
 
-Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
+Table 8 Erosive Esophagitis Healing Rates (Per Protocol)
 
 | ––––––––––––––– Pantoprazole ––––––––––––––– |  |  |  | Placebo |
 | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Patients taking pantoprazole consumed significantly fewer antacid tablets per da
 Pantoprazole 40 mg and 20 mg once daily were also compared with nizatidine 150 mg twice daily in a US multicenter, double-blind study of 243 patients with reflux symptoms and endoscopically diagnosed EE of grade 2 or above.
 The percentages of patients healed (per protocol, n = 212) are shown in Table 9.
 
-Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
+Table 9 Erosive Esophagitis Healing Rates (Per Protocol)
 
 | –––––––––––– Pantoprazole –––––––––––– |  |  | Nizatidine |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Pediatric Patients Ages 5 Years through 16 Years
 
 The efficacy of pantoprazole in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
 Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
-Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (20 mg or 40 mg).
+Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (20 mg or 40 mg).
 All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
@@ -58,7 +58,7 @@ The two US studies enrolled 386 and 404 patients, respectively, to receive eithe
 As demonstrated in Table 10, pantoprazole 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, pantoprazole 40 mg was superior to all other treatments studied.
 
-Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
+Table 10 Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
 
 |  | Pantoprazole 20 mg daily | Pantoprazole 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
@@ -72,24 +72,24 @@ Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Di
 | Month 3 | 78* | 91*# | 47 |
 | Month 6 | 72* | 88*# | 39 |
 | Month 12 | 72* | 83* | 37 |
-| * (p < 0.05 vs. ranitidine) |  |  |  |
-| # (p < 0.05 vs. pantoprazole 20 mg) |  |  |  |
-| Note: pantoprazole 10 mg was superior (p < 0.05) to ranitidine in Study 2, but not Study 1. |  |  |  |
+| * (p <0.05 vs. ranitidine) |  |  |  |
+| # (p <0.05 vs. pantoprazole 20 mg) |  |  |  |
+| Note: pantoprazole 10 mg was superior (p <0.05) to ranitidine in Study 2, but not Study 1. |  |  |  |
 
 Pantoprazole 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
 Pantoprazole 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.
 
-Table 11: Number of Episodes of Heartburn (mean ± SD)
+Table 11 Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | Pantoprazole 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
 | Month 1 | Daytime Nighttime | 5.1 ± 1.6* 3.9 ± 1.1* | 18.3 ± 1.6 11.9 ± 1.1 |
 | Month 12 | Daytime Nighttime | 2.9 ± 1.5* 2.5 ± 1.2* | 17.5 ± 1.5 13.8 ± 1.3 |
-| *(p < 0.001 vs. ranitidine, combined data from the two US studies) |  |  |  |
+| *(p <0.001 vs. ranitidine, combined data from the two US studies) |  |  |  |
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole successfully controlled gastric acid secretion.
+In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole successfully controlled gastric acid secretion.
 Doses ranging from 80 mg daily to 240 mg daily maintained gastric acid output below 10 mEq/h in patients without prior acid-reducing surgery and below 5 mEq/h in patients with prior acid-reducing surgery.
 
 Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)].

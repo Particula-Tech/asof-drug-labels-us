@@ -8,6 +8,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
 - Hypomagnesemia [see Warnings and Precautions (5.7)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -18,7 +19,7 @@ Adults
 Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
-Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
+Table 3 Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
 
 |  | Pantoprazole | Comparators | Placebo |
 | --- | --- | --- | --- |
@@ -33,7 +34,7 @@ Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GE
 | Dizziness | 3.0 | 2.9 | 1.2 |
 | Arthralgia | 2.8 | 1.4 | 1.2 |
 
-Additional adverse reactions that were reported for pantoprazole in clinical trials with a frequency of ≤ 2% are listed below by body system:
+Additional adverse reactions that were reported for pantoprazole in clinical trials with a frequency of ≤2% are listed below by body system:
 
 Body as a Whole: allergic reaction, pyrexia, photosensitivity reaction, facial edema
 
@@ -56,11 +57,11 @@ Pediatric Patients
 Safety of pantoprazole in the treatment of EE associated with GERD was evaluated in pediatric patients ages 1 year through 16 years in three clinical trials.
 Safety trials involved pediatric patients with EE; however, as EE is uncommon in the pediatric population, 249 pediatric patients with endoscopically-proven or symptomatic GERD were also evaluated.
 All adult adverse reactions to pantoprazole are considered relevant to pediatric patients.
-In patients ages 1 year through 16 years, the most commonly reported (> 4%) adverse reactions include: URI, headache, fever, diarrhea, vomiting, rash, and abdominal pain.
+In patients ages 1 year through 16 years, the most commonly reported (>4%) adverse reactions include: URI, headache, fever, diarrhea, vomiting, rash, and abdominal pain.
 
 For safety information in patients less than 1 year of age see Use in Specific Populations (8.4).
 
-Additional adverse reactions that were reported for pantoprazole in pediatric patients in clinical trials with a frequency of ≤ 4% are listed below by body system:
+Additional adverse reactions that were reported for pantoprazole in pediatric patients in clinical trials with a frequency of ≤4% are listed below by body system:
 
 Body as a Whole: allergic reaction, facial edema
 
@@ -87,6 +88,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 These adverse reactions are listed below by body system:
 
+Gastrointestinal Disorders: fundic gland polyps
+
 General Disorders and Administration Conditions: asthenia, fatigue, malaise
 
 Hematologic: pancytopenia, agranulocytosis
@@ -109,4 +112,4 @@ Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
 Renal and Urinary Disorders: interstitial nephritis
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke's edema) and cutaneous lupus erythematosus
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke's edema) and cutaneous lupus erythematosus

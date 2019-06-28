@@ -24,7 +24,7 @@ Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-Release Tab
 
 Directions for method of administration are presented in Table 2.
 
-Table 2: Administration Instructions
+Table 2 Administration Instructions
 
 | Formulation | Route | InstructionsDo not split, chew, or crush Pantoprazole sodium delayed-release tablets. |
 | --- | --- | --- |

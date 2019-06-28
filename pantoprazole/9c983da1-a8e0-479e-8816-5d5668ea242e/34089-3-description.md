@@ -4,9 +4,9 @@ The active ingredient in pantoprazole sodium delayed-release tablets USP a PPI, 
 Its empirical formula is C16H14F2N3NaO4S x 1.5 H2O, with a molecular weight of 432.4.
 The structural formula is:
 
-Pantoprazole sodium (sesquihydrate), USP is a white to off-white crystalline powder and is racemic.
+Pantoprazole sodium sesquihydrate, USP is a white to off-white crystalline powder and is racemic.
 Pantoprazole has weakly basic and acidic properties.
-Pantoprazole sodium (sesquihydrate), USP is freely soluble in water, very slightly soluble in phosphate buffer at pH 7.4, and practically insoluble in n-hexane.
+Pantoprazole sodium sesquihydrate, USP is freely soluble in water, very slightly soluble in phosphate buffer at pH 7.4, and practically insoluble in n-hexane.
 
 The stability of the compound in aqueous solution is pH-dependent.
 The rate of degradation increases with decreasing pH.
@@ -15,4 +15,4 @@ At ambient temperature, the degradation half-life is approximately 2.8 hours at 
 Pantoprazole sodium is supplied as a delayed-release tablet, available in two strengths 20 mg pantoprazole (equivalent to 22.56 mg of pantoprazole sodium) and 40 mg pantoprazole (equivalent to 45.1 mg of pantoprazole sodium).
 
 Pantoprazole sodium delayed-release tablet, USP contains the following inactive ingredients: calcium stearate, crospovidone, hydroxypropyl cellulose, hypromellose, mannitol, methacrylic acid copolymer dispersion, propylene glycol, sodium carbonate, talc, titanium dioxide, and triethyl citrate.
-Pantoprazole sodium delayed-release tablets, USP (40 mg and 20 mg) complies with USP dissolution test 2.
+Pantoprazole sodium delayed-release tablets, USP (40 mg and 20 mg) complies with USP dissolution test 3.
