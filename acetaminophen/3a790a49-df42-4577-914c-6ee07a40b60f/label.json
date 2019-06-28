@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA208653"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "KVK-Tech, Inc.",
+  "package_ndcs": [
+    "10702-340-01",
+    "10702-341-01",
+    "10702-342-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "benzhydrocodone and acetaminophen",
+      "name": "APADAZ"
+    }
+  ],
+  "setid": "3a790a49-df42-4577-914c-6ee07a40b60f",
+  "source": "dailymed"
+}

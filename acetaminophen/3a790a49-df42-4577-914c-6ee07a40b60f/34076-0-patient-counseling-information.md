@@ -1,0 +1,71 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Important Administration Instructions
+
+Instruct patients how to properly take APADAZ [see Dosage and Administration (2), Warnings and Precautions (5)].
+
+- Do not take more than 4,000 milligrams of acetaminophen per day.
+  Call your doctor if you took more than the recommended dose.
+- Use APADAZ exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression).
+- Do not discontinue APADAZ without first discussing the need for a tapering regimen with your doctor.
+
+Addiction, Abuse, and Misuse
+
+Inform patients that the use of APADAZ, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
+Instruct patients not to share APADAZ with others and to take steps to protect APADAZ from theft or misuse.
+
+Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting APADAZ or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
+Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+
+Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
+Instruct patients to take steps to store APADAZ securely and to dispose of unused APADAZ by flushing the tablets down the toilet.
+
+Maximum Daily Acetaminophen Use Advise patients not to take more than 4,000 milligrams of acetaminophen per day and call their doctor if they have taken more than the recommended dose.
+Advise patients not to take APADAZ in combination with other tramadol or acetaminophen-containing products, including over-the-counter preparations [(see Warnings and Precautions (5.6)].
+
+Interactions with Benzodiazepines and Other CNS Depressants Inform patients that potentially fatal additive effects may occur if APADAZ is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these unless supervised by a healthcare provider [see Warnings and Precautions (5.7), Drug Interactions (7)].
+
+Serotonin Syndrome Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
+Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
+
+MAOI Interaction Inform patients to avoid taking APADAZ while using any drugs that inhibit monoamine oxidase.
+Patients should not start MAOIs while taking APADAZ [see Drug Interactions (7)].
+
+Adrenal Insufficiency Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.9)].
+
+Hypotension Inform patients that APADAZ may cause orthostatic hypotension and syncope.
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.10)].
+
+Serious Skin Reactions Advise patients to stop APADAZ immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.11)].
+
+Anaphylaxis Inform patients that anaphylaxis have been reported with ingredients contained in APADAZ.
+Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Warnings and Precautions (5.13), Adverse Reactions (6)].
+
+Pregnancy Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that prolonged use of APADAZ during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+
+Embryo-Fetal Toxicity Inform female patients of reproductive potential that APADAZ can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Instruct nursing mothers to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
+
+Infertility Inform patients that chronic use of opioids may cause reduced fertility.
+It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
+
+Driving or Operating Heavy Machinery Inform patients that APADAZ may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.17)].
+
+Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
+
+Disposal of Unused APADAZ Advise patients to flush the unused tablets down the toilet when APADAZ is no longer needed or to contact the Drug Enforcement Administration (DEA) to find the location of an authorized collector (1-800-882-9539).
+
+Manufactured for: KVK-Tech, Inc. 110 Terry Drive, Newtown, PA 18940
+
+Manufacturer’s Code: 10702 Item ID#: 006398/00 Rev.
+01/2019
+
+Made in U.S.A
