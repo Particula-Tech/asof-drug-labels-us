@@ -4,7 +4,7 @@ The following adverse reactions are described elsewhere in the labeling:
 
 - Angioedema [see Warnings and Precautions (5.1)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
-- Suicidal Behavior and Ideation ([see Warnings and Precautions (5.3)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
 - Peripheral Edema [see Warnings and Precautions (5.4)]
 - Dizziness and Somnolence [see Warnings and Precautions (5.5)]
 - Weight Gain [see Warnings and Precautions (5.6)]
@@ -122,5 +122,5 @@ The following adverse reactions have been identified during post-approval use of
 These adverse reactions have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
 The listing is alphabetized: breast enlargement, gynecomastia.
 
-There are also postmarketing reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medications.
+There are also postmarketing reports of respiratory failure, coma and deaths in patients taking pregabalin and other CNS depressant medications, including in patients who are substance abusers.
 In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when LYRICA was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.

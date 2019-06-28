@@ -45,7 +45,7 @@ Instruct patients to promptly report unexplained muscle pain, tenderness, or wea
 
 CNS Depressants
 
-Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as somnolence and dizziness [see Drug Interactions (7)].
+Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as somnolence and dizziness [see Warnings and Precautions (5.5, 5.13) and Drug Interactions (7)].
 
 Alcohol
 
