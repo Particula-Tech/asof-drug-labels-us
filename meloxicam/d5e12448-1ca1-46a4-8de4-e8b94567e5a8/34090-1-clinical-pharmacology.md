@@ -58,9 +58,7 @@ This was demonstrated when oral administration of cholestyramine following a sin
 The mean elimination half-life (t1/2) ranges from 15 hours to 20 hours.
 The elimination half-life is constant across dose levels indicating linear metabolism within the therapeutic dose range.
 Plasma clearance ranges from 7 to 9 mL/min.
-Specific Populations
-
-Pediatric After single (0.25 mg/kg) dose administration and after achieving steady state (0.375 mg/kg/day), there was a general trend of approximately 30% lower exposure in younger patients (2 to 6 years old) as compared to the older patients (7 to 16 years old).
+Specific Populations Pediatric After single (0.25 mg/kg) dose administration and after achieving steady state (0.375 mg/kg/day), there was a general trend of approximately 30% lower exposure in younger patients (2 to 6 years old) as compared to the older patients (7 to 16 years old).
 The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg [see Dosage and Administration (2.4)].
 The meloxicam mean (SD) elimination half-life was 15.2 (10.1) and 13 hours (3) for the 2 to 6 year old patients, and 7 to 16 year old patients, respectively.
 In a covariate analysis, utilizing population pharmacokinetics body-weight, but not age, was the single predictive covariate for differences in the meloxicam apparent oral plasma clearance.
