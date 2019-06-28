@@ -423,4 +423,4 @@ Gastrointestinal Disorders – Nausea, Diarrhea
 Reproductive System and Breast Disorders – Gynecomastia, Breast Enlargement
 
 In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when LYRICA was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
-There are also postmarketing reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medications.
+There are also postmarketing reports of respiratory failure, coma and deaths in patients taking pregabalin and other CNS depressant medications, including in patients who are substance abusers.
