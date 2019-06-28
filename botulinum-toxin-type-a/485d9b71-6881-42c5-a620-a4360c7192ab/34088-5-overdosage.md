@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10OVERDOSAGE
 
 Excessive doses of BOTOX Cosmetic (onabotulinumtoxinA) for injection may be expected to produce neuromuscular weakness with a variety of symptoms.
 

@@ -1,6 +1,6 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long term studies in animals have not been performed to evaluate carcinogenic potential of BOTOX Cosmetic.
 

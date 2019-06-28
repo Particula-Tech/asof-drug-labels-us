@@ -1,11 +1,11 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Lack of Interchangeability between Botulinum Toxin Products
+## 5.1Lack of Interchangeability between Botulinum Toxin Products
 
 The potency Units of BOTOX Cosmetic are specific to the preparation and assay method utilized.
 They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX Cosmetic cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
-## 5.2 Spread of Toxin Effect
+## 5.2Spread of Toxin Effect
 
 Postmarketing safety data from BOTOX Cosmetic and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence, and breathing difficulties.
@@ -19,7 +19,7 @@ No definitive serious adverse event reports of distant spread of toxin effect as
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below), strabismus, or chronic migraine at the labeled doses have been reported.
 
-## 5.3 Serious Adverse Reactions with Unapproved Use
+## 5.3Serious Adverse Reactions with Unapproved Use
 
 Serious adverse reactions, including excessive weakness, dysphagia, and aspiration pneumonia, with some adverse reactions associated with fatal outcomes, have been reported in patients who received BOTOX injections for unapproved uses.
 In these cases, the adverse reactions were not necessarily related to distant spread of toxin, but may have resulted from the administration of BOTOX to the site of injection and/or adjacent structures.
@@ -27,7 +27,7 @@ In several of the cases, patients had pre-existing dysphagia or other significan
 There is insufficient information to identify factors associated with an increased risk for adverse reactions associated with the unapproved uses of BOTOX.
 The safety and effectiveness of BOTOX for unapproved uses have not been established.
 
-## 5.4 Hypersensitivity Reactions
+## 5.4Hypersensitivity Reactions
 
 Serious and/or immediate hypersensitivity reactions have been reported.
 These reactions include anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea.
@@ -40,7 +40,7 @@ There have been reports following administration of BOTOX of adverse events invo
 Some of these patients had risk factors including pre-existing cardiovascular disease.
 Use caution when administering to patients with pre-existing cardiovascular disease.
 
-## 5.6 Increased Risk of Clinically Significant Effects with Pre-Existing Neuromuscular Disorders
+## 5.6Increased Risk of Clinically Significant Effects with Pre-Existing Neuromuscular Disorders
 
 Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored when given botulinum toxin.
 Patients with neuromuscular disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from onabotulinumtoxinA [see Warnings and Precautions (5.2, 5.7)].
@@ -81,7 +81,7 @@ This may require protective drops, ointment, therapeutic soft contact lenses, or
 Inducing paralysis in one or more extraocular muscles may produce spatial disorientation, double vision or past pointing.
 Covering the affected eye may alleviate these symptoms.
 
-## 5.11 Human Albumin and Transmission of Viral Diseases
+## 5.11Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
 Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).

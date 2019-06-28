@@ -1,6 +1,6 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 BOTOX Cosmetic blocks neuromuscular transmission by binding to acceptor sites on motor nerve terminals, entering the nerve terminals, and inhibiting the release of acetylcholine.
 This inhibition occurs as the neurotoxin cleaves SNAP-25, a pre-synaptic protein integral to the successful docking and release of acetylcholine from vesicles situated within nerve endings.
@@ -8,10 +8,10 @@ When injected intramuscularly at therapeutic doses, BOTOX Cosmetic produces part
 In addition, the muscle may atrophy, axonal sprouting may occur, and extrajunctional acetylcholine receptors may develop.
 There is evidence that reinnervation of the muscle may occur, thus slowly reversing muscle denervation produced by BOTOX Cosmetic.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 No formal pharmacodynamic studies have been conducted with BOTOX Cosmetic (onabotulinumtoxinA) for injection.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Using currently available analytical technology, it is not possible to detect BOTOX Cosmetic in the peripheral blood following intramuscular injection at the recommended doses.

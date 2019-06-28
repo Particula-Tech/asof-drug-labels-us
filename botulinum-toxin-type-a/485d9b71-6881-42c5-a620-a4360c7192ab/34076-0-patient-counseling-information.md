@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (Medication Guide)
 
@@ -12,10 +12,20 @@ Ability to Operate Machinery or Vehicles
 
 Patients should be counseled that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2017 Allergan.
+Manufactured by: Allergan Pharmaceuticals Ireland
+
+a subsidiary of: Allergan, Inc.
+
+2525 Dupont Dr.
+
+Irvine, CA 92612
+
+2017 Allergan.
 All rights reserved.
+
 All trademarks are the property of their respective owners.
+
 Patented.
 See: www.allergan.com/patents
 
-72715SU10
+72715US10

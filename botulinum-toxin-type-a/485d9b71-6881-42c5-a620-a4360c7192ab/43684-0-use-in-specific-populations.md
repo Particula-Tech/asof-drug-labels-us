@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary
 
@@ -25,19 +25,19 @@ The developmental no-effect doses in these studies of 1 Unit/kg in rats is appro
 When pregnant rats received single intramuscular injections (1, 4, or 16 Units/kg) at three different periods of development (prior to implantation, implantation, or organogenesis), no adverse effects on fetal development were observed.
 The developmental no-effect level for a single maternal dose in rats (16 Units/kg) is approximately 16 times the average high human dose of 64 Units based on Units/kg.
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
 There are no data on the presence of BOTOX Cosmetic in human or animal milk, the effects on the breastfed child, or the effects on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BOTOX Cosmetic and any potential adverse effects on the breastfed infant from BOTOX Cosmetic or from the underlying maternal conditions.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for BOTOX Cosmetic and any potential adverse effects on the breastfed infant from BOTOX Cosmetic or from the underlying maternal conditions.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Safety and effectiveness in patients below the age of 18 years have not been established.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Glabellar Lines
 

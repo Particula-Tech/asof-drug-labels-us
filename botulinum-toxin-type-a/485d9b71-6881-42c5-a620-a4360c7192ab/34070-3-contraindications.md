@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
 ## 4.1 Known Hypersensitivity to Botulinum Toxin
 

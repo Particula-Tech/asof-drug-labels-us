@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 ## 2.1 Instructions for Safe Use
 
@@ -13,7 +13,7 @@ The safety and effectiveness of dosing with BOTOX Cosmetic more frequently than 
 The safe and effective use of BOTOX Cosmetic depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
 Physicians administering BOTOX Cosmetic must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease.
 
-## 2.2 Preparation and Dilution Technique
+## 2.2Preparation and Dilution Technique
 
 BOTOX Cosmetic is supplied in single-use 50 Units and 100 Units per vial.
 Prior to intramuscular injection, reconstitute each vacuum-dried vial of BOTOX Cosmetic with sterile, preservative-free 0.9% Sodium Chloride Injection USP (see Table 1).
@@ -32,7 +32,8 @@ Table 1: Dilution Instructions for BOTOX Cosmetic Vials (100 Units and 50 Units)
 | Diluent* Added to 100 Unit Vial | Resulting Dose Units per 0.1 mL | Diluent* Added to 50 Unit Vial | Resulting Dose Units per 0.1 mL |
 | --- | --- | --- | --- |
 | 2.5 mL | 4 Units | 1.25 mL | 4 Units |
-| *Preservative-free 0.9% Sodium Chloride Injection, USP Only |  |  |  |
+
+*Preservative-free 0.9% Sodium Chloride Injection, USP Only
 
 Reconstituted BOTOX Cosmetic should be clear, colorless, and free of particulate matter.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration and whenever the solution and the container permit.
@@ -51,14 +52,17 @@ These muscles move the brow medially, and the procerus and depressor supercilii 
 This creates a frown or “furrowed brow”.
 The location, size, and use of the muscles vary markedly among individuals.
 Lines induced by facial expression occur perpendicular to the direction of action of contracting facial muscles.
-An effective dose for facial lines is determined by gross observation of the patient's ability to activate the superficial muscles injected.
+An effective dose for facial lines is determined by gross observation of the patient’s ability to activate the superficial muscles injected.
 
 In order to reduce the complication of ptosis the following steps should be taken:
 
-- Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
-- Lateral corrugator injections should be placed at least 1 cm above the bony supraorbital ridge.
-- Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
-- Do not inject toxin closer than 1 cm above the central eyebrow.
+• Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
+
+• Lateral corrugator injections should be placed at least 1 cm above the bony supraorbital ridge.
+
+• Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
+
+• Do not inject toxin closer than 1 cm above the central eyebrow.
 
 Inject 4 Units (0.1 mL) of reconstituted BOTOX Cosmetic intramuscularly into each of 5 sites, 2 in each corrugator muscle and 1 in the procerus muscle for a total dose of 20 Units (see Figure 1).
 Typically the initial doses of reconstituted BOTOX Cosmetic induce chemical denervation of the injected muscles one to two days after injection, increasing in intensity during the first week.
@@ -70,7 +74,7 @@ Figure 1:
 Lateral Canthal Lines
 
 Lateral canthal lines arise largely from the activity of the orbicularis oculi muscles around the eye responsible for blinking and eyelid closure.
-Forceful contraction of the orbicularis oculi results in lateral and radially oriented folds (crow's feet lines) which originate from the lateral canthus.
+Forceful contraction of the orbicularis oculi results in lateral and radially oriented folds (crow’s feet lines) which originate from the lateral canthus.
 The distribution of these radial lines differs among patients.
 
 Injections should be given with the needle bevel tip up and oriented away from the eye.
@@ -78,8 +82,6 @@ Inject 4 Units/0.1 mL of reconstituted BOTOX Cosmetic into 3 sites per side (6 t
 The first injection (A) should be approximately 1.5-2.0 cm temporal to the lateral canthus and just temporal to the orbital rim.
 If the lines in the lateral canthal region are above and below the lateral canthus, inject per Figure 2.
 Alternatively, if the lines in the lateral canthal region are primarily below the lateral canthus, inject per Figure 3.
-
-Figure 2: Figure 3:
 
 For simultaneous treatment with glabellar lines, the dose is 24 Units for lateral canthal lines and 20 Units for glabellar lines (see Glabellar Lines Administration and Figure 1), with a total dose of 44 Units.
 
@@ -93,19 +95,12 @@ The location, size, and use of the muscles vary markedly among individuals.
 Treat forehead lines in conjunction with glabellar lines (see Glabellar Lines Administration and Figure 1) to minimize the potential for brow ptosis.
 The recommended total dose for treatment of forehead lines (20 Units [0.5 mL]) in conjunction with glabellar lines (20 Units [0.5 mL]) is 40 Units (1mL).
 
-When identifying the location of the appropriate injection sites in the frontalis muscle, assess the overall relationship between the size of the subject's forehead, and the distribution of frontalis muscle activity.
+When identifying the location of the appropriate injection sites in the frontalis muscle, assess the overall relationship between the size of the subject’s forehead, and the distribution of frontalis muscle activity.
 
-Locate the following horizontal treatment rows by light palpation of the forehead at rest and maximum eyebrow elevation:
-
-- Superior Margin of Frontalis Activity: approximately 1 cm above the most superior forehead crease
-- Lower Treatment Row: midway between the superior margin of frontalis activity and the eyebrow, at least 2 cm above the eyebrow
-- Upper Treatment Row: midway between the superior margin of frontalis activity and lower treatment row
+Locate the following horizontal treatment rows by light palpation of the forehead at rest and maximum eyebrow elevation: • Superior Margin of Frontalis Activity: approximately 1 cm above the most superior forehead crease • Lower Treatment Row: midway between the superior margin of frontalis activity and the eyebrow, at least 2 cm above the eyebrow • Upper Treatment Row: midway between the superior margin of frontalis activity and lower treatment row
 
 Inject 4 Units (0.1 mL) of reconstituted BOTOX Cosmetic into 5 sites in the frontalis muscle, for a total of 20 Units (0.5 mL).
-Place the 5 injections at the intersection of the horizontal treatment rows with the following vertical landmarks (see Figure 4):
-
-- On the lower treatment row at the midline of the face, and 0.5 – 1.5 cm medial to the palpated temporal fusion line (temporal crest); repeat for the other side.
-- On the upper treatment row, midway between the lateral and medial sites on the lower treatment row; repeat for the other side.
+Place the 5 injections at the intersection of the horizontal treatment rows with the following vertical landmarks (see Figure 4): • On the lower treatment row at the midline of the face, and 0.5 – 1.5 cm medial to the palpated temporal fusion line (temporal crest); repeat for the other side. • On the upper treatment row, midway between the lateral and medial sites on the lower treatment row; repeat for the other side.
 
 Figure 4:
 

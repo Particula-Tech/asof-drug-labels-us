@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following adverse reactions to BOTOX Cosmetic (onabotulinumtoxinA) for injection are discussed in greater detail in other sections of the labeling:
 
@@ -6,7 +6,7 @@ The following adverse reactions to BOTOX Cosmetic (onabotulinumtoxinA) for injec
 - Hypersensitivity [see Contraindications (4.1) and Warnings and Precautions (5.4)]
 - Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -22,9 +22,9 @@ However, weakness of nearby muscles may also occur due to spread of toxin [see W
 
 Glabellar Lines
 
-Table 2 lists selected adverse reactions reported by ≥1% of BOTOX Cosmetic treated subjects (N=405) aged 18 to 75 who were evaluated in the randomized, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of glabellar lines.
+Table 2 lists selected adverse reactions reported by >1% of BOTOX Cosmetic treated subjects (N=405) aged 18 to 75 who were evaluated in the randomized, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of glabellar lines.
 
-Table 2: Adverse Reactions Reported by ≥1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects in Double-blind, Placebo-controlled Clinical Studies of Treatment of Glabellar Lines
+Table 2: Adverse Reactions Reported by >1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects in Double-blind, Placebo-controlled Clinical Studies of Treatment of Glabellar Lines
 
 | Adverse Reactions by System Organ Class | BOTOX Cosmetic (N=405) | Placebo (N=130) |
 | --- | --- | --- |
@@ -35,17 +35,17 @@ Table 2: Adverse Reactions Reported by ≥1% of BOTOX Cosmetic treated Subjects 
 
 Lateral Canthal Lines
 
-Table 3 lists selected adverse reactions reported within 90 days following injection by ≥1% of BOTOX Cosmetic treated subjects (N=526) aged 18 to 75 who were evaluated in two randomized, double-blind, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of lateral canthal lines alone.
+Table 3 lists selected adverse reactions reported within 90 days following injection by >1% of BOTOX Cosmetic treated subjects (N=526) aged 18 to 75 who were evaluated in two randomized, double-blind, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of lateral canthal lines alone.
 
 Table 3: Adverse Reaction Reported by ≥1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects Within 90 Days, in Double-blind, Placebo-controlled Clinical Studies of Treatment of Lateral Canthal Lines
 
-| Adverse Reactions by System Organ Class | BOTOX Cosmetic 24 Units(N=526) | Placebo(N=530) |
+| Adverse Reactions by System Organ Class | BOTOX Cosmetic 24 Units (N=526) | Placebo (N=530) |
 | --- | --- | --- |
 | Eye disorders Eyelid edema | 5 (1%) | 0 (0%) |
 
 Forehead Lines
 
-Table 4 lists selected adverse reactions reported by ≥1% of BOTOX Cosmetic treated subjects (N=665) aged 18 to 77 who were evaluated in two randomized, double-blind, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of forehead lines with glabellar lines.
+Table 4 lists selected adverse reactions reported by >1% of BOTOX Cosmetic treated subjects (N=665) aged 18 to 77 who were evaluated in two randomized, double-blind, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of forehead lines with glabellar lines.
 
 Table 4: Adverse Reactions Reported by ≥1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects, in Double-blind, Placebo-controlled Clinical Studies of Treatment of Forehead Lines
 
@@ -57,7 +57,7 @@ Table 4: Adverse Reactions Reported by ≥1% of BOTOX Cosmetic treated Subjects 
 
 There were no additional adverse drug reactions reported with the simultaneous treatment of forehead lines, glabellar lines, and lateral canthal lines.
 
-## 6.2 Immunogenicity
+## 6.2Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
@@ -74,7 +74,7 @@ The critical factors for neutralizing antibody formation have not been well char
 The results from some studies suggest that botulinum toxin injections at more frequent intervals or at higher doses may lead to greater incidence of antibody formation.
 The potential for antibody formation may be minimized by injecting with the lowest effective dose given at the longest feasible intervals between injections.
 
-## 6.3 Post-marketing Experience
+## 6.3Post-marketing Experience
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
