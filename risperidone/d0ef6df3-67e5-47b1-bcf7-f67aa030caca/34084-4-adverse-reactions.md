@@ -27,7 +27,7 @@ Of these 9803 patients, 2687 were patients who received risperidone while partic
 The conditions and duration of treatment with risperidone varied greatly and included (in overlapping categories) double-blind, fixed- and flexible-dose, placebo- or active-controlled studies and open-label phases of studies, inpatients and outpatients, and short-term (up to 12 weeks) and longer-term (up to 3 years) exposures.
 Safety was assessed by collecting adverse events and performing physical examinations, vital signs, body weights, laboratory analyses, and ECGs.
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 ### Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Schizophrenia
 
@@ -220,7 +220,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 
 ### Commonly-Observed Adverse Reactions in ≥5% Double-Blind, Placebo-Controlled Clinical Trials - Autistic Disorder
 
-Table 13 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients treated for irritability associated with autistic disorder in two 8 week, double blind, placebo controlled trials.
+Table 13 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients treated for irritability associated with autistic disorder in two 8 week, double blind, placebo- controlled trials and one 6-week double blind, placebo-controlled study.
 
 Table 13.
 Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greater than placebo) Treated for Irritability Associated with Autistic Disorder in Double-Blind, Placebo-Controlled Trials
@@ -414,4 +414,4 @@ In two controlled schizophrenia trials in adolescents (aged 13 to 17 years), the
 
 The following adverse reactions have been identified during postapproval use of risperidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
-These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
+These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation,somnambulism, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.

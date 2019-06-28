@@ -27,11 +27,11 @@ Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperid
 
 *Change relative to reference
 
-Effect of Risperidone on other drugs
+Effect of Risperidone on Other Drugs
 
 Lithium
 
-Repeated oral dose of risperidone (3mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n=13).
+Repeated oral doses of risperidone (3mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n=13).
 Dose adjustment for lithium is not recommended.
 
 Valproate

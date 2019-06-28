@@ -6,7 +6,7 @@
 
 #### Short-Term Efficacy
 
-The efficacy of risperidone in the treatment of schizophrenia was established in four short-term (4 to 8 week) controlled trials of psychotic inpatients who met DSM-III-R criteria for schizophrenia.
+The efficacy of risperidone in the treatment of schizophrenia was established in four short-term (4- to 8- week) controlled trials of psychotic inpatients who met DSM-III-R criteria for schizophrenia.
 
 Several instruments were used for assessing psychiatric signs and symptoms in these studies, among them the Brief Psychiatric Rating Scale (BPRS), a multi-item inventory of general psychopathology traditionally used to evaluate the effects of drug treatment in schizophrenia.
 The BPRS psychosis cluster (conceptual disorganization, hallucinatory behavior, suspiciousness, and unusual thought content) is considered a particularly useful subset for assessing actively psychotic schizophrenic patients.
@@ -75,11 +75,12 @@ Doses higher than 2.5 mg/day did not reveal any trend towards greater efficacy.
 The efficacy of risperidone with concomitant lithium or valproate in the treatment of acute manic or mixed episodes was established in one controlled trial in adult patients who met the DSM-IV criteria for Bipolar I Disorder.
 This trial included patients with or without psychotic features and with or without a rapid-cycling course.
 
-- In this 3-week placebo-controlled combination trial, 148 in- or outpatients on lithium or valproate therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone, placebo, or an active comparator, in combination with their original therapy.
-  Risperidone, in a dose range of 1 to 6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.8 mg/day), combined with lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.4 mEq/L or 50 mcg/mL to 120 mcg/mL, respectively) was superior to lithium or valproate alone in the reduction of YMRS total score.
-- In a second 3-week placebo-controlled combination trial, 142 in- or outpatients on lithium, valproate, or carbamazepine therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone or placebo, in combination with their original therapy.
-  Risperidone, in a dose range of 1 to 6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.7 mg/day), combined with lithium, valproate, or carbamazepine (in therapeutic ranges of 0.6 mEq/L to 1.4 mEq/L for lithium, 50 mcg/mL to 125 mcg/mL for valproate, or 4 to 12 mcg/mL for carbamazepine, respectively) was not superior to lithium, valproate, or carbamazepine alone in the reduction of YMRS total score.
-  A possible explanation for the failure of this trial was induction of risperidone and 9-hydroxyrisperidone clearance by carbamazepine, leading to subtherapeutic levels of risperidone and 9-hydroxyrisperidone.
+(1) In this 3-week placebo-controlled combination trial, 148 in- or outpatients on lithium or valproate therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone, placebo, or an active comparator, in combination with their original therapy.
+Risperidone, in a dose range of 1 to 6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.8 mg/day), combined with lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.4 mEq/L or 50 mcg/mL to 120 mcg/mL, respectively) was superior to lithium or valproate alone in the reduction of YMRS total score.
+
+(2) In a second 3-week placebo-controlled combination trial, 142 in- or outpatients on lithium, valproate, or carbamazepine therapy with inadequately controlled manic or mixed symptoms were randomized to receive risperidone or placebo, in combination with their original therapy.
+Risperidone, in a dose range of 1 to 6 mg/day, once daily, starting at 2 mg/day (mean modal dose of 3.7 mg/day), combined with lithium, valproate, or carbamazepine (in therapeutic ranges of 0.6 mEq/L to 1.4 mEq/L for lithium, 50 mcg/mL to 125 mcg/mL for valproate, or 4 to 12 mcg/mL for carbamazepine, respectively) was not superior to lithium, valproate, or carbamazepine alone in the reduction of YMRS total score.
+A possible explanation for the failure of this trial was induction of risperidone and 9-hydroxyrisperidone clearance by carbamazepine, leading to subtherapeutic levels of risperidone and 9-hydroxyrisperidone.
 
 ## 14.4 Irritability Associated with Autistic Disorder
 

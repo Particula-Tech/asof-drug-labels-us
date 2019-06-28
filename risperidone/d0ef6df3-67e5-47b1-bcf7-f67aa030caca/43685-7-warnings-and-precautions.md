@@ -43,7 +43,7 @@ A syndrome of potentially irreversible, involuntary, dyskinetic movements may de
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -103,7 +103,7 @@ Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dos
 | Proportion of patients with shifts |  |  |
 | Serum Glucose (>100mg/dL to ≥126 mg/dL) | 0%(0/64) | 0.8%(1/120) |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2mg/dL at Week 24 (N=119).
+In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2mg/dL at Week 24 (n=119).
 
 Dyslipidemia
 
@@ -162,6 +162,17 @@ Data on mean changes in body weight and the proportion of subjects meeting a wei
 Table 6.
 Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
 
+| Risperidone |  |  |  |
+| --- | --- | --- | --- |
+|  | Placebo(n=597) | 1 to 8mg/day (n=769) | >8 to 16 mg/day(n=158) |
+| Weight (kg) |  |  |  |
+| Change from baseline | -0.3 | 0.7 | 2.2 |
+| Weight Gain |  |  |  |
+| ≥7% increase from baseline | 2.9% | 8.7% | 20.9% |
+
+Table 6.
+Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
+
 | 1 to 8 mg/day (n=769) | >8 to 16 mg/day (n=158) |  |  |
 | --- | --- | --- | --- |
 |  | Placebo (n=597) | Risperidone |  |
@@ -172,7 +183,7 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 
 In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in weight of +4.3kg at Week 24 (N=395) and +5.3kg at Week 48 (N=203).
 
-Data on mean changes in body weight and the proportion of subjects meeting the criterion of ≥7% gain in body weight from 9 placebo-controlled, 3- to 8-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), autistic disorder (5 to 17 years of age), or other psychiatric disorders (5 to 17 years of age) are presented in Table 7.
+Data on mean changes in body weight and the proportion of subjects meeting the criterion of ≥7% gain in body weight from nine placebo-controlled, 3- to 8-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), autistic disorder (5 to 17 years of age), or other psychiatric disorders (5 to 17 years of age) are presented in Table 7.
 
 Table 7.
 Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥ 7% Gain in Body Weight from Nine Placebo-Controlled, 3- to 8-Week, Fixed- Dose Studies in Children and Adolescents With Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), Autistic Disorder (5 to 17 Years of Age) or Other Psychiatric Disorders (5 to 17 Years of Age)
@@ -195,7 +206,7 @@ In long-term, open-label trials (studies in patients with autistic disorder or o
 The majority of that increase occurred within the first 6 months of exposure to risperidone.
 The average percentiles at baseline and 12 months, respectively, were 49 and 60 for weight, 48 and 53 for height, and 50 and 62 for body mass index.
 
-In one 3-week, placebo controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the risperidone groups than the placebo group, but not dose related (1.90kg in the risperdidone 0.5 to 2 to 5 mg group, 1.44kg in the risperidone 3 to 6 mg group, and 0.65kg in the placebo group).
+In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the risperidone groups than the placebo group, but not dose related (1.90kg in the risperdidone 0.5 to 2 to 5 mg group, 1.44kg in the risperidone 3 to 6 mg group, and 0.65kg in the placebo group).
 A similar trend was observed in the mean change from baseline in body mass index.
 
 When treating pediatric patients with risperidone for any indication, weight gain should be assessed against that expected with normal growth.
@@ -243,7 +254,7 @@ Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should di
 ## 5.10 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction associated with risperidone treatment, especially when ascertained by direct questioning of patients.
-This adverse event is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (risperidone 16 mg/day) reported somnolence compared to 16% of placebo patients.
+This adverse reaction is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (risperidone 16 mg/day) reported somnolence compared to 16% of placebo patients.
 Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of risperidone 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse reaction.
 Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely.
 
