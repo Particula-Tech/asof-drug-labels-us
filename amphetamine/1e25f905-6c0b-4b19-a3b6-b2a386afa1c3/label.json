@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA209905"
+  ],
+  "inn": "amphetamine",
+  "labeler": "Arbor Pharmaceuticals",
+  "package_ndcs": [
+    "24338-031-01",
+    "24338-031-30",
+    "24338-033-01",
+    "24338-033-30",
+    "24338-035-01",
+    "24338-035-30",
+    "24338-037-02",
+    "24338-037-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "amphetamine sulfate",
+      "name": "Evekeo ODT"
+    }
+  ],
+  "setid": "1e25f905-6c0b-4b19-a3b6-b2a386afa1c3",
+  "source": "dailymed"
+}
