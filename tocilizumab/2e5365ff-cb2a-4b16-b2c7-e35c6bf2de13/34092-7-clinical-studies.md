@@ -139,7 +139,7 @@ General health status was assessed by the Short Form Health Survey (SF-36) in St
 
 Cardiovascular Outcomes
 
-Study WA25204 was a randomized, open-label (sponsor-blinded), 2-arm parallel-group, multi-center, non-inferiority, cardiovascular (CV) outcomes trial in patients with a diagnosis of moderate to severe RA.
+Study WA25204 (NCT01331837) was a randomized, open-label (sponsor-blinded), 2-arm parallel-group, multi-center, non-inferiority, cardiovascular (CV) outcomes trial in patients with a diagnosis of moderate to severe RA.
 This CV safety study was designed to exclude a moderate increase in CV risk in patients treated with ACTEMRA compared with a TNF inhibitor standard of care (etanercept).
 
 The study included 3,080 seropositive RA patients with active disease and an inadequate response to non-biologic disease-modifying anti-rheumatic drugs, who were aged ≥50 years with at least one additional CV risk factor beyond RA.

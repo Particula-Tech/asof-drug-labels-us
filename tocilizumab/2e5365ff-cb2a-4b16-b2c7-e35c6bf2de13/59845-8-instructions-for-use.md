@@ -129,7 +129,7 @@ Record your Injection
 If you have questions or concerns about your ACTEMRA prefilled syringe, please contact your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: April 2019 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: 06/2019 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
@@ -293,7 +293,7 @@ Record your Injection
 If you have any questions or concerns about your ACTEMRA Autoinjector, talk to your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: April 2019 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: 06/2019 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 

@@ -46,7 +46,29 @@ Events of gastrointestinal perforation have been reported in clinical trials, pr
 Use ACTEMRA with caution in patients who may be at increased risk for gastrointestinal perforation.
 Promptly evaluate patients presenting with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
-## 5.3 Laboratory Parameters
+## 5.3 Hepatotoxicity
+
+Serious cases of hepatic injury have been observed in patients taking intravenous or subcutaneous ACTEMRA.
+Some of these cases have resulted in liver transplant or death.
+Time to onset for cases ranged from months to years after treatment initiation with tocilizumab.
+While most cases presented with marked elevations of transaminases (> 5 times ULN), some cases presented with signs or symptoms of liver dysfunction and only mildly elevated transaminases.
+
+During randomized controlled studies, treatment with ACTEMRA was associated with a higher incidence of transaminase elevations [see Adverse Reactions (6.1, 6.2, 6.4, 6.6)].
+Increased frequency and magnitude of these elevations was observed when potentially hepatotoxic drugs (e.g., MTX) were used in combination with ACTEMRA.
+
+For RA and GCA patients, obtain a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) before initiating ACTEMRA, every 4 to 8 weeks after start of therapy for the first 6 months of treatment and every 3 months thereafter.
+It is not recommended to initiate ACTEMRA treatment in RA or GCA patients with elevated transaminases ALT or AST greater than 1.5× ULN.
+In patients who develop elevated ALT or AST greater than 5× ULN, discontinue ACTEMRA.
+For recommended modifications based upon increase in transaminases see Dosage and Administration (2.9).
+
+Measure liver tests promptly in patients who report symptoms that may indicate liver injury, such as fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
+In this clinical context, if the patient is found to have abnormal liver tests (e.g., ALT greater than three times the upper limit of the reference range, serum total bilirubin greater than two times the upper limit of the reference range), ACTEMRA treatment should be interrupted and investigation done to establish the probable cause.
+ACTEMRA should only be restarted in patients with another explanation for the liver test abnormalities after normalization of the liver tests.
+
+A similar pattern of liver enzyme elevation is noted with ACTEMRA treatment in the PJIA and SJIA populations.
+Monitor liver test panel at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
+
+## 5.4 Laboratory Parameters
 
 Rheumatoid Arthritis and Giant Cell Arteritis
 
@@ -72,19 +94,8 @@ Treatment-related reduction in platelets was not associated with serious bleedin
 
 Elevated Liver Enzymes
 
-Treatment with ACTEMRA was associated with a higher incidence of transaminase elevations.
-These elevations did not result in apparent permanent or clinically evident hepatic injury in clinical trials [see Adverse Reactions (6.1, 6.2)].
-Increased frequency and magnitude of these elevations was observed when potentially hepatotoxic drugs (e.g., MTX) were used in combination with ACTEMRA.
-
-In one case, a patient who had received ACTEMRA 8 mg per kg monotherapy without elevations in transaminases experienced elevation in AST to above 10× ULN and elevation in ALT to above 16× ULN when MTX was initiated in combination with ACTEMRA.
-Transaminases normalized when both treatments were held, but elevations recurred when MTX and ACTEMRA were restarted at lower doses.
-Elevations resolved when MTX and ACTEMRA were discontinued.
-
-- –It is not recommended to initiate ACTEMRA treatment in patients with elevated transaminases ALT or AST greater than 1.5× ULN.
-  In patients who develop elevated ALT or AST greater than 5× ULN treatment is not recommended.
-- –Monitor ALT and AST levels 4 to 8 weeks after start of therapy and every 3 months thereafter.
-  When clinically indicated, other liver function tests such as bilirubin should be considered.
-  For recommended modifications based on transaminases [see Dosage and Administration (2.9)].
+Refer to 5.3 Hepatotoxicity.
+For recommended modifications [see Dosage modifications 2.9]
 
 Lipid Abnormalities
 
@@ -99,12 +110,12 @@ A similar pattern of liver enzyme elevation, low neutrophil count, low platelet 
 Monitor neutrophils, platelets, ALT and AST at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
 Monitor lipids as above for approved adult indications [see Dosage and Administration (2.9)].
 
-## 5.4 Immunosuppression
+## 5.5 Immunosuppression
 
 The impact of treatment with ACTEMRA on the development of malignancies is not known but malignancies were observed in clinical studies [see Adverse Reactions (6.1)].
 ACTEMRA is an immunosuppressant, and treatment with immunosuppressants may result in an increased risk of malignancies.
 
-## 5.5 Hypersensitivity Reactions, Including Anaphylaxis
+## 5.6 Hypersensitivity Reactions, Including Anaphylaxis
 
 Hypersensitivity reactions, including anaphylaxis, have been reported in association with ACTEMRA [see Adverse Reactions (6)] and anaphylactic events with a fatal outcome have been reported with intravenous infusion of ACTEMRA.
 Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials of intravenous ACTEMRA, 0.2% (8 out of 4009) of patients in the intravenous all-exposure RA population, 0.7% (8 out of 1068) in the subcutaneous 6-month controlled RA trials, and in 0.7% (10 out of 1465) of patients in the subcutaneous all-exposure population.
@@ -121,17 +132,17 @@ For ACTEMRA subcutaneous injection, advise patients to seek immediate medical at
 If anaphylaxis or other hypersensitivity reaction occurs, stop administration of ACTEMRA immediately and discontinue ACTEMRA permanently.
 Do not administer ACTEMRA to patients with known hypersensitivity to ACTEMRA [see Contraindications (4) and Adverse Reactions (6)].
 
-## 5.6 Demyelinating Disorders
+## 5.7 Demyelinating Disorders
 
 The impact of treatment with ACTEMRA on demyelinating disorders is not known, but multiple sclerosis and chronic inflammatory demyelinating polyneuropathy were reported rarely in RA clinical studies.
 Monitor patients for signs and symptoms potentially indicative of demyelinating disorders.
 Prescribers should exercise caution in considering the use of ACTEMRA in patients with preexisting or recent onset demyelinating disorders.
 
-## 5.7 Active Hepatic Disease and Hepatic Impairment
+## 5.8 Active Hepatic Disease and Hepatic Impairment
 
 Treatment with ACTEMRA is not recommended in patients with active hepatic disease or hepatic impairment [see Adverse Reactions (6.1), Use in Specific Populations (8.6)].
 
-## 5.8 Vaccinations
+## 5.9 Vaccinations
 
 Avoid use of live vaccines concurrently with ACTEMRA as clinical safety has not been established.
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving ACTEMRA.

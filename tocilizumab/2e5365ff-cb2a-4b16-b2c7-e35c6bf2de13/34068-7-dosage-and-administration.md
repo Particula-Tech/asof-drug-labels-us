@@ -8,7 +8,7 @@ Recommended Intravenous Dosage Regimen:
 
 The recommended dosage of ACTEMRA for adult patients given as a 60-minute single intravenous drip infusion is 4 mg per kg every 4 weeks followed by an increase to 8 mg per kg every 4 weeks based on clinical response.
 
-- Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9), Warnings and Precautions (5.3), and Adverse Reactions (6.1)].
+- Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.1)].
 - Doses exceeding 800 mg per infusion are not recommended in RA patients [see Clinical Pharmacology (12.3)].
 
 Recommended Subcutaneous Dosage Regimen:
@@ -19,7 +19,7 @@ Recommended Subcutaneous Dosage Regimen:
 
 When transitioning from ACTEMRA intravenous therapy to subcutaneous administration administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9), Warnings and Precautions (5.3), and Adverse Reactions (6.2)].
+Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.2)].
 
 ## 2.2 Giant Cell Arteritis
 
@@ -165,21 +165,21 @@ Rheumatoid Arthritis and Giant Cell Arteritis
 
 | Lab Value | Recommendation |
 | --- | --- |
-| Liver Enzyme Abnormalities [see Warnings and Precautions (5.3)]: |  |
+| Liver Enzyme Abnormalities [see Warnings and Precautions (5.3,5.4)]: |  |
 | Greater than 1 to 3× ULN | Dose modify concomitant DMARDs (RA) or immunomodulatory agents (GCA) if appropriate For persistent increases in this range: For patients receiving intravenous ACTEMRA, reduce dose to 4 mg per kg or hold ACTEMRA until ALT or AST have normalizedFor patients receiving subcutaneous ACTEMRA, reduce injection frequency to every other week or hold dosing until ALT or AST have normalized. Resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate. |
 | Greater than 3 to 5× ULN (confirmed by repeat testing) | Hold ACTEMRA dosing until less than 3× ULN and follow recommendations above for greater than 1 to 3× ULN For persistent increases greater than 3× ULN, discontinue ACTEMRA |
 | Greater than 5× ULN | Discontinue ACTEMRA |
 
 | Lab Value (cells per mm3) | Recommendation |
 | --- | --- |
-| Low Absolute Neutrophil Count (ANC) [see Warnings and Precautions (5.3)]: |  |
+| Low Absolute Neutrophil Count (ANC) [see Warnings and Precautions (5.4)]: |  |
 | ANC greater than 1000 | Maintain dose |
 | ANC 500 to 1000 | Hold ACTEMRA dosing When ANC greater than 1000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
 | ANC less than 500 | Discontinue ACTEMRA |
 
 | Lab Value (cells per mm3) | Recommendation |
 | --- | --- |
-| Low Platelet Count [see Warnings and Precautions (5.3)]: |  |
+| Low Platelet Count [see Warnings and Precautions (5.4)]: |  |
 | 50,000 to 100,000 | Hold ACTEMRA dosing When platelet count is greater than 100,000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
 | Less than 50,000 | Discontinue ACTEMRA |
 

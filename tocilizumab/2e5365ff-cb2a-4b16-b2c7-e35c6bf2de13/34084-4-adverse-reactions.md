@@ -4,11 +4,11 @@ The following serious adverse reactions are described elsewhere in labeling:
 
 - Serious Infections [see Warnings and Precautions (5.1)]
 - Gastrointestinal Perforations [see Warnings and Precautions (5.2)]
-- Laboratory Parameters [see Warnings and Precautions (5.3)]
-- Immunosuppression [see Warnings and Precautions (5.4)]
-- Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.5)]
-- Demyelinating Disorders [see Warnings and Precautions (5.6)]
-- Active Hepatic Disease and Hepatic Impairment [see Warnings and Precautions (5.7)]
+- Laboratory Parameters [see Warnings and Precautions (5.4)]
+- Immunosuppression [see Warnings and Precautions (5.5)]
+- Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.6)]
+- Demyelinating Disorders [see Warnings and Precautions (5.7)]
+- Active Hepatic Disease and Hepatic Impairment [see Warnings and Precautions (5.8)]
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
 
@@ -68,7 +68,7 @@ Anaphylaxis
 
 Hypersensitivity reactions requiring treatment discontinuation, including anaphylaxis, associated with ACTEMRA-IV were reported in 0.1% (3 out of 2644) in the 24 week, controlled trials and in 0.2% (8 out of 4009) in the all-exposure population.
 These reactions were generally observed during the second to fourth infusion of ACTEMRA-IV.
-Appropriate medical treatment should be available for immediate use in the event of a serious hypersensitivity reaction [see Warnings and Precautions (5.5)].
+Appropriate medical treatment should be available for immediate use in the event of a serious hypersensitivity reaction [see Warnings and Precautions 5.6)].
 
 Laboratory Abnormalities
 
@@ -79,19 +79,19 @@ Approximately half of the instances of ANC below 1000 per mm3 occurred within 8 
 Decreases in neutrophil counts below 500 per mm3 occurred in 0.4% and 0.3% of patients in the 4 mg per kg and 8 mg per kg ACTEMRA-IV plus DMARD, respectively, compared to 0.1% of patients in the placebo plus DMARD group.
 There was no clear relationship between decreases in neutrophils below 1000 per mm3 and the occurrence of serious infections.
 
-In the all-exposure population, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions (5.3)].
+In the all-exposure population, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions (5.4)].
 
 Thrombocytopenia
 
 In the 24 week, controlled clinical studies, decreases in platelet counts below 100,000 per mm3 occurred in 1.3% and 1.7% of patients on 4 mg per kg and 8 mg per kg ACTEMRA-IV plus DMARD, respectively, compared to 0.5% of patients on placebo plus DMARD, without associated bleeding events.
 
-In the all-exposure population, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions (5.3)].
+In the all-exposure population, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions 5.4)].
 
 Elevated Liver Enzymes
 
 Liver enzyme abnormalities are summarized in Table 1.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA-IV, or reduction in ACTEMRA-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.6)].
-These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3)].
+These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3, 5.4)].
 
 Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
 
@@ -108,7 +108,10 @@ Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period
 | > 5× ULN | 0.7 | 1 | 1.3 | 1.5 | 0.3 |
 | ULN = Upper Limit of Normal |  |  |  |  |  |
 
-In the all-exposure population, the elevations in ALT and AST remained consistent with what was seen in the 24 week, controlled clinical trials
+In the all-exposure population, the elevations in ALT and AST remained consistent with what was seen in the 24 week, controlled clinical trials.
+
+In Study WA25204, of the 1538 patients with moderate to severe RA (see Section 14, Clinical Studies) and treated with tocilizumab, elevations in ALT or AST >3 × ULN occurred in 5.3% and 2.2% patients, respectively.
+One serious event of drug induced hepatitis with hyperbilirubinemia was reported in association with tocilizumab.
 
 Lipids
 
@@ -142,7 +145,7 @@ Malignancies
 During the 24 week, controlled period of the studies, 15 malignancies were diagnosed in patients receiving ACTEMRA-IV, compared to 8 malignancies in patients in the control groups.
 Exposure-adjusted incidence was similar in the ACTEMRA-IV groups (1.32 events per 100 patient-years) and in the placebo plus DMARD group (1.37 events per 100 patient-years).
 
-In the all-exposure population, the rate of malignancies remained consistent with the rate observed in the 24 week, controlled period [see Warnings and Precautions (5.4)].
+In the all-exposure population, the rate of malignancies remained consistent with the rate observed in the 24 week, controlled period [see Warnings and Precautions (5.5)].
 
 Other Adverse Reactions
 
@@ -352,7 +355,7 @@ One of these events, urticaria, was considered serious.
 
 Anaphylaxis
 
-Anaphylaxis was reported in 1 out of 112 patients (less than 1%) treated with ACTEMRA-IV during the controlled and open label extension study [see Warnings and Precautions (5.5)].
+Anaphylaxis was reported in 1 out of 112 patients (less than 1%) treated with ACTEMRA-IV during the controlled and open label extension study [see Warnings and Precautions (5.6)].
 
 Immunogenicity
 
@@ -413,6 +416,7 @@ No adverse reactions related to tocilizumab were reported [see Clinical Studies 
 The following adverse reactions have been identified during post-approval use of ACTEMRA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Fatal anaphylaxis [see Warnings and Precautions (5.5)]
+- Fatal anaphylaxis [see Warnings and Precautions (5.6)]
 - Stevens-Johnson Syndrome
 - Pancreatitis
+- Drug-induced liver injury, Hepatitis, Hepatic failure, Jaundice [see Warnings and Precautions (5.3)]

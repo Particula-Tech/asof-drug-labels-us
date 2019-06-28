@@ -24,7 +24,7 @@ Clinical Considerations
 Fetal/Neonatal adverse reactions
 
 Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
-Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to ACTEMRA in utero [see Warnings and Precautions (5.8)]
+Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to ACTEMRA in utero [see Warnings and Precautions 5.9)]
 
 Data
 
@@ -99,7 +99,7 @@ Clinical studies that included ACTEMRA for CRS did not include sufficient number
 
 ## 8.6 Hepatic Impairment
 
-The safety and efficacy of ACTEMRA have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions (5.7)].
+The safety and efficacy of ACTEMRA have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions 5.8)].
 
 ## 8.7 Renal Impairment
 

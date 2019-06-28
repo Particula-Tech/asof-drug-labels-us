@@ -21,4 +21,4 @@ Exercise caution when coadministering ACTEMRA with CYP3A4 substrate drugs where 
 
 ## 7.3 Live Vaccines
 
-Avoid use of live vaccines concurrently with ACTEMRA [see Warnings and Precautions (5.8)].
+Avoid use of live vaccines concurrently with ACTEMRA [see Warnings and Precautions (5.9)].

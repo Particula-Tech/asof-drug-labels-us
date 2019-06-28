@@ -16,7 +16,7 @@ The relationship between these pharmacodynamic findings and clinical efficacy is
 
 In healthy subjects administered ACTEMRA in doses from 2 to 28 mg per kg intravenously and 81 to 162 mg subcutaneously, absolute neutrophil counts decreased to the nadir 3 to 5 days following ACTEMRA administration.
 Thereafter, neutrophils recovered towards baseline in a dose dependent manner.
-Rheumatoid arthritis and GCA patients demonstrated a similar pattern of absolute neutrophil counts following ACTEMRA administration [see Warnings and Precautions (5.3)].
+Rheumatoid arthritis and GCA patients demonstrated a similar pattern of absolute neutrophil counts following ACTEMRA administration [see Warnings and Precautions (5.4)].
 
 ## 12.3 Pharmacokinetics
 
