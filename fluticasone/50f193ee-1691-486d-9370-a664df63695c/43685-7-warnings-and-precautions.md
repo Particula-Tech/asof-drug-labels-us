@@ -91,4 +91,4 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AR
 ## 5.11 Glaucoma and Cataracts
 
 Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with asthma following the long-term administration of ICS, including fluticasone furoate.
-Consider referral to an ophthalmologist in patients who develop ocular symptoms or useARNUITY ELLIPTA long term.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use ARNUITY ELLIPTA long term.

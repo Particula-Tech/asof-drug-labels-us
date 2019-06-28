@@ -7,7 +7,7 @@ Systemic and local corticosteroid use may result in the following:
 - •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.5)]
 - •Reduction in BMD [see Warnings and Precautions (5.9)]
 - •Growth effects in pediatrics [see Warnings and Precautions (5.10)]
-- •Eye disorders [see Warnings and Precautions (5.11)]
+- •Glaucoma and cataracts[see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -49,7 +49,7 @@ This trial did not have a placebo arm.
 Table 2.
 Adverse Reactions with ARNUITY ELLIPTA 200 mcg with ≥3% Incidence (Trial 3, Safety Population)
 
-| Adverse Reaction | ARNUITY ELLIPTA 200 mcg(n = 119)% | ARNUITY ELLIPTA 100 mcg(n = 119)% |
+| Adverse Reaction | ARNUITY ELLIPTA200 mcg(n = 119)% | ARNUITY ELLIPTA100 mcg(n = 119)% |
 | --- | --- | --- |
 | Nasopharyngitis | 13 | 12 |
 | Headache | 13 | 10 |
