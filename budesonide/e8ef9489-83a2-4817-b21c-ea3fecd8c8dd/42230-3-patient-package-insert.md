@@ -1,9 +1,10 @@
-# PATIENT PACKAGE INSERT
+# Patient Information
 
-Patient Information and Instructions for Use Budesonide (bew DEH so nide) Inhalation Suspension 2 mL ampules containing 0.25 mg or 0.5 mg.
+Budesonide (bue des’oh nide) Inhalation Suspension (2 mL ampules containing 0.25 mg or 0.5 mg)
 
-| For inhalation only. Do not swallow. Only use budesonide inhalation suspension with a jet nebulizer machine that is connected to an air compressor. Do not use with an ultrasonic nebulizer. |
-| --- |
+For inhalation only Do not swallow.
+Only use budesonide inhalation suspension with a jet nebulizer machine that is connected to an air compressor.
+Do not use with an ultrasonic nebulizer.
 
 Read the Patient Information that comes with budesonide inhalation suspension before your child starts using it and each time you get a refill.
 There may be new information.
@@ -16,6 +17,7 @@ Budesonide inhalation suspension is a long-term maintenance medicine used to con
 
 Inhaled corticosteroids help to decrease inflammation in the lungs.
 Inflammation in the lungs can lead to asthma symptoms.
+
 Budesonide inhalation suspension helps reduce swelling and inflammation in the lungs, and helps keep the airways open to reduce asthma symptoms.
 
 Budesonide inhalation suspension does not treat the sudden symptoms (wheezing, cough, shortness of breath, and chest pain or tightness) of an asthma attack.
@@ -30,7 +32,8 @@ Do not use budesonide inhalation suspension:
 
 - to treat sudden symptoms of asthma
 - if your child is allergic to budesonide or any of the ingredients in budesonide inhalation suspension.
-  See the end of this leaflet for a complete list of ingredients in budesonide inhalation suspension.
+
+See the end of this leaflet for a complete list of ingredients in budesonide inhalation suspension.
 
 What should I tell my healthcare provider before using budesonide inhalation suspension?
 
@@ -54,8 +57,8 @@ Budesonide inhalation suspension may not be right for children who have had any 
   Your child is at risk for decreased bone mineral density if he or she:
   - is inactive for a long period of time
   - has a family history of osteoporosis
-  - does not eat well (poor nutrition)
   - takes bone thinning medicines (such as anticonvulsant medicines or corticosteroids) for a long time.
+  - does not eat well (poor nutrition)
 - has an eye problem such as increased pressure in the eye, glaucoma or cataracts.
 - has liver problems
 - is planning to have surgery.
@@ -93,7 +96,7 @@ How should I use budesonide inhalation suspension?
   Use budesonide inhalation suspension with a jet nebulizer connected to an air compressor set up with a mouthpiece or face mask.
   Do not use an ultrasonic nebulizer to give budesonide inhalation suspension.
 - Do not mix budesonide inhalation suspension with other nebulizer medicines.
-  If you child uses another medicine by inhalation to treat asthma, talk with your healthcare provider for instructions on when to use the other medicine.
+  If your child uses another medicine by inhalation to treat asthma, talk with your healthcare provider for instructions on when to use the other medicine.
 - If your child misses a dose, just give the next regularly scheduled dose when it is due.
   Do not use budesonide inhalation suspension more often than has been prescribed.
 - Improvement in the control of asthma symptoms with budesonide inhalation suspension can occur within 2 to 8 days.
@@ -159,14 +162,15 @@ The most common side effects of budesonide inhalation suspension include:
 - rash
 
 Tell your healthcare provider if your child has any side effect that bothers him or her or that does not go away.
+
 For more information, ask your healthcare provider or pharmacist.
 
 Call your healthcare provider for medical advice about side effects.
-You may report side effects to Impax Laboratories, Inc. at 1-800-934-6729 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to Amneal Pharmaceuticals at 1-877-835-5472 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store budesonide inhalation suspension?
 
-- Store budesonide inhalation suspension in an upright position between 68°F to 77°F (20°C to 25°C).
+- Store budesonide inhalation suspension in an upright position between 68° to 77°F (20° to 25°C).
 - Keep budesonide inhalation suspension in the aluminum foil envelope to protect from light until ready to use.
 - After a budesonide inhalation suspension ampule is opened it should be used right away.
 - Budesonide inhalation suspension ampules can be stored for 2 weeks after opening the protective aluminum foil envelope.
@@ -186,7 +190,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about budesonide inhalation suspension that is written for health professionals.
 
-For more information, call Impax Laboratories, Inc. at 1-800-934-6729
+For more information, call Amneal Pharmaceuticals at 1-877-835-5472.
 
 What are the ingredients in budesonide inhalation suspension?
 
@@ -194,7 +198,7 @@ Active ingredient: budesonide
 
 Inactive ingredients: sodium chloride, disodium edetate, polysorbate 80, citric acid, tri sodium citrate, and water for injection.
 
-Patient Instructions for Use
+Patient Instructions for Use Budesonide (bue des’oh nide) Inhalation Suspension (2 mL ampules containing 0.25 mg or 0.5 mg)
 
 Important:
 
@@ -229,8 +233,11 @@ Throw away the empty ampule.
 5.
 Use your jet nebulizer as directed.
 
-Manufactured By: Catalent Pharma Solutions Woodstock, IL 60098, USA
+Manufactured by: Catalent Pharma Solutions Woodstock, IL 60098 USA
 
-Distributed By: Impax Generics Hayward, CA 94544
+Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-LA-1841-01 Revised: May 2016
+Product of Spain
+
+Rev.
+04-2019-00

@@ -2,7 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B – Studies of pregnant women, have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
+Teratogenic Effects
+
+Pregnancy Category B
+
+Studies of pregnant women, have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
 The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995 to 1997 (ie, Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
 Congenital malformations were studied in 2014 infants born to mothers reporting the use of inhaled budesonide for asthma in early pregnancy (usually 10 to 12 weeks after the last menstrual period), the period when most major organ malformations occur.
 The rate of recorded congenital malformations was similar compared to the general population rate (3.8% vs. 3.5%, respectively).
@@ -12,10 +16,12 @@ These same data were utilized in a second study bringing the total to 2534 infan
 In this study, the rate of congenital malformations among infants whose mothers were exposed to inhaled budesonide during early pregnancy was not different from the rate for all newborn babies during the same period (3.6%).
 
 Despite the animal findings, it would appear that the possibility of fetal harm is remote if the drug is used during pregnancy.
+
 Nevertheless, because the studies in humans cannot rule out the possibility of harm, budesonide inhalation suspension should be used during pregnancy only if clearly needed.
 
 As with other corticosteroids, budesonide was teratogenic and embryocidal in rabbits and rats.
 Budesonide produced fetal loss, decreased pup weights, and skeletal abnormalities at a subcutaneous dose in rabbits that was approximately 0.4 times the maximum recommended daily inhalation dose in adults on a mcg/m2 basis and at subcutaneous dose that was approximately 4 times the maximum recommended daily inhalation dose in adults on a mcg/m2 basis.
+
 In another study in rats, no teratogenic or embryocidal effects were seen at inhalation doses up to approximately 2 times the maximum recommended daily inhalation dose in adults on a mcg/m2 basis.
 
 Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
@@ -40,6 +46,7 @@ Safety and effectiveness in children 12 months to 8 years of age have been estab
 
 A 12-week study in 141 pediatric patients 6 to 12 months of age with mild to moderate asthma or recurrent/persistent wheezing was conducted.
 All patients were randomized to receive either 0.5 mg or 1 mg of budesonide inhalation suspension or placebo.
+
 Adrenal-axis function was assessed with an ACTH stimulation test at the beginning and end of the study, and mean changes from baseline in this variable did not indicate adrenal suppression in patients who received budesonide inhalation suspension versus placebo.
 However, on an individual basis, 7 patients in this study (6 in the budesonide inhalation suspension treatment arms and 1 in the placebo arm) experienced a shift from having a normal baseline stimulated cortisol level to having a subnormal level at Week 12 [see Clinical Pharmacology, Pharmacodynamics (12.2)].
 Pneumonia was observed more frequently in patients treated with budesonide inhalation suspension than in patients treated with placebo, (N = 2, 1, and 0) in the budesonide inhalation suspension 0.5 mg, 1 mg, and placebo groups, respectively.

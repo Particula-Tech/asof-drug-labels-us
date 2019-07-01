@@ -3,6 +3,7 @@
 ## 17.1 Administration with a Jet Nebulizer
 
 Patients should be advised that budesonide inhalation suspension should be administered with a jet nebulizer connected to a compressor with an adequate air flow, equipped with a mouthpiece or suitable face mask.
+
 Ultrasonic nebulizers are not suitable for the adequate administration of budesonide inhalation suspension and, therefore, are not recommended.
 The effects of mixing budesonide inhalation suspension with other nebulizable medications have not been adequately assessed.
 Budesonide inhalation suspension should be administered separately in the nebulizer [see Dosage and Administration (2)].
@@ -28,7 +29,7 @@ Patients should be instructed to notify their healthcare professional immediatel
 
 Patients should not stop therapy with budesonide inhalation suspension without physician/provider guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.2)]
 
-## 17.4 Hypersensitivity including Anaphylaxis
+## 17.4 Hypersensitivity Including Anaphylaxis
 
 Hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm have been reported with use of budesonide inhalation suspension.
 Discontinue budesonide inhalation suspension if such reactions occur [see Contraindications (4); Warning and Precautions (5.3)].
@@ -64,14 +65,13 @@ Patients should be advised to use budesonide inhalation suspension at regular in
 Maximum benefit may not be achieved for 4 to 6 weeks or longer after starting treatment.
 If symptoms do not improve in that time frame or if the condition worsens, patients should be instructed to contact their healthcare professional.
 
-## 17.11 FDA-APPROVED PATIENT LABELING
+## 17.11 FDA-Approved Patient Labeling
 
 See accompanying Patient Information and Instructions for Use.
 
-Manufactured By: Catalent Pharma Solutions Woodstock, IL 60098 USA
-
-Distributed By: Impax Generics Hayward, CA 94544
+Manufactured by: Catalent Pharma Solutions Woodstock, IL 60098 USA Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Product of Spain
 
-LA-1841-01 Revised: May 2016
+Rev.
+04-2019-00

@@ -12,5 +12,6 @@ Budesonide inhalation suspension is a sterile suspension for inhalation via jet 
 Two dose strengths are available in single-dose ampules: 0.25 mg and 0.5 mg per 2 mL ampule.
 For budesonide inhalation suspension, like all other nebulized treatments, the amount delivered to the lungs will depend on patient factors, the jet nebulizer utilized, and compressor performance.
 Using the Pari-LC-Jet Plus Nebulizer/Pari Master compressor system, under in vitro conditions, the mean delivered dose at the mouthpiece (% nominal dose) was approximately 17% at a mean flow rate of 5.5 L/min.
+
 The mean nebulization time was 5 minutes or less.
 Budesonide inhalation suspension should be administered from jet nebulizers at adequate flow rates, via face masks or mouthpieces [see Dosage and Administration (2)].

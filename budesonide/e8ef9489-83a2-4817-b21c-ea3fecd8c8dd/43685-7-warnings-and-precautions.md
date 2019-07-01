@@ -33,7 +33,7 @@ If chicken pox develops, treatment with antiviral agents may be considered.
 
 The clinical course of chicken pox or measles infection in patients on inhaled corticosteroids has not been studied.
 However, a clinical study has examined the immune responsiveness of asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension.
-An open-label non-randomized clinical study examined the immune responsiveness of varicella vaccine in 243 asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension 0.25 mg to 1 mg daily (n=151) or noncorticosteroid asthma therapy (n=92) (i.e., beta2-agonists, leukotriene receptor antagonists, cromones).
+An open-label non-randomized clinical study examined the immune responsiveness of varicella vaccine in 243 asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension 0.25 mg to 1 mg daily (n=151) or noncorticosteroid asthma therapy (n=92) (i.e. beta2-agonists, leukotriene receptor antagonists, cromones).
 The percentage of patients developing a seroprotective antibody titer of ≥ 5.0 (gpELISA value) in response to the vaccination was similar in patients treated with budesonide inhalation suspension (85%) compared to patients treated with non-corticosteroid asthma therapy (90%).
 No patient treated with budesonide inhalation suspension developed chicken pox as a result of vaccination.
 
@@ -57,6 +57,7 @@ Initially, budesonide inhalation suspension should be used concurrently with the
 After approximately one week, gradual withdrawal of the systemic corticosteroid may be initiated by reducing the daily or alternate daily dose.
 Further incremental reductions may be made after an interval of one or two weeks, depending on the response of the patient.
 Generally, these decrements should not exceed 25% of the prednisone dose or its equivalent.
+
 A slow rate of withdrawal is strongly recommended.
 
 Lung function (FEV1 or AM PEF), beta-agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
@@ -70,6 +71,7 @@ During withdrawal from oral corticosteroids, patients may experience symptoms of
 
 Budesonide inhalation suspension will often help control asthma symptoms with less suppression of HPA function than therapeutically equivalent oral doses of prednisone.
 Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing budesonide inhalation suspension.
+
 Because of the possibility of systemic absorption of inhaled corticosteroids, patients treated with budesonide inhalation suspension should be observed carefully for any evidence of systemic corticosteroid effects.
 Particular care should be taken in observing patients post-operatively or during periods of stress for evidence of inadequate adrenal response.
 It is possible that systemic corticosteroid effects such as hypercorticism, and adrenal suppression (including adrenal crisis) may appear in a small number of patients, particularly when budesonide is administered at higher than recommended doses over prolonged periods of time.
@@ -101,11 +103,11 @@ Treatment with budesonide inhalation suspension should be discontinued and alter
 ## 5.11 Eosinophilic Conditions and Churg-Strauss Syndrome
 
 In rare cases, patients on inhaled corticosteroids may present with systemic eosinophilic conditions.
-Some of these patients have clinical features of vasculitis consistent with Churg- Strauss syndrome, a condition that is often treated with systemic corticosteroids therapy.
+Some of these patients have clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroids therapy.
 These events usually, but not always, have been associated with the reduction and/or withdrawal of oral corticosteroid therapy following the introduction of inhaled corticosteroids.
 Healthcare providers should be alert to eosinophilia, vasculitis rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal relationship between budesonide and these underlying conditions has not been established.
 
 ## 5.12 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of budesonide inhalation suspension with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1) and Clinical Pharmacology, Clinical Pharmacokinetics (12.3)].
+Caution should be exercised when considering the co-administration of budesonide inhalation suspension with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1) and Clinical Pharmacology, Clinical Pharmacokinetics (12.3)].
