@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 Docetaxel is a CYP3A4 substrate.
 In vitro studies have shown that the metabolism of docetaxel may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4.

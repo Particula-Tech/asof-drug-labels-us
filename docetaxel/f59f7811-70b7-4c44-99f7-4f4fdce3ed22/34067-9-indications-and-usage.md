@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Breast Cancer
 
@@ -6,15 +6,15 @@ Docetaxel Injection is indicated for the treatment of patients with locally adva
 
 Docetaxel Injection in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with operable node-positive breast cancer.
 
-## 1.2 Non-Small Cell Lung Cancer
+## 1.2 Non-small Cell Lung Cancer
 
-Docetaxel Injection as a single agent is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior platinum based chemotherapy.
+Docetaxel Injection as a single agent is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior platinum-based chemotherapy.
 
 Docetaxel Injection in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small cell lung cancer who have not previously received chemotherapy for this condition.
 
 ## 1.3 Prostate Cancer
 
-Docetaxel Injection in combination with prednisone is indicated for the treatment of patients with androgen independent (hormone refractory) metastatic prostate cancer.
+Docetaxel Injection in combination with prednisone is indicated for the treatment of patients with metastatic castration-resistant prostate cancer.
 
 ## 1.4 Gastric Adenocarcinoma
 
