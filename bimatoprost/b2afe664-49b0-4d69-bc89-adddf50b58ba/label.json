@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207601"
+  ],
+  "inn": "bimatoprost",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-401-01",
+    "70069-402-01",
+    "70069-403-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bimatoprost",
+      "name": "Bimatoprost"
+    }
+  ],
+  "setid": "b2afe664-49b0-4d69-bc89-adddf50b58ba",
+  "source": "dailymed"
+}
