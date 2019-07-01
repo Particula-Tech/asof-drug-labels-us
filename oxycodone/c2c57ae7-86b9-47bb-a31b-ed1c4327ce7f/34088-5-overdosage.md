@@ -2,7 +2,7 @@
 
 Clinical Presentation
 
-Acute overdose with OXYCODONE HCl EXTENDED-RELEASE TABLETS can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring and death.
+Acute overdose with oxycodone HCl extended-release tablets can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
 Treatment of Overdose
@@ -15,8 +15,8 @@ The opioid antagonists, naloxone or nalmefene, are specific antidotes to respira
 For clinically significant respiratory or circulatory depression secondary to oxycodone overdose, administer an opioid antagonist.
 Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to oxycodone overdose.
 
-Because the duration of reversal is expected to be less than the duration of action of oxycodone in OXYCODONE HCl EXTENDED-RELEASE TABLETS, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-OXYCODONE HCl EXTENDED-RELEASE TABLETS will continue to release oxycodone and add to the oxycodone load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
+Because the duration of reversal is expected to be less than the duration of action of oxycodone in oxycodone HCl extended-release tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+Oxycodone HCl extended-release tablets will continue to release oxycodone and add to the oxycodone load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.

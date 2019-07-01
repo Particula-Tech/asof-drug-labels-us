@@ -2,12 +2,12 @@
 
 ## 9.1 Controlled Substance
 
-OXYCODONE HCl EXTENDED-RELEASE TABLETS contains oxycodone, a Schedule II controlled substance.
+Oxycodone HCl extended-release tablets contains oxycodone, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-OXYCODONE HCl EXTENDED-RELEASE TABLETS contains oxycodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxymorphone, and tapentadol.
-OXYCODONE HCl EXTENDED-RELEASE TABLETS can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+Oxycodone HCl extended-release tablets contains oxycodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxymorphone, and tapentadol.
+Oxycodone HCl extended-release tablets can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
@@ -25,81 +25,82 @@ Abuse and addiction are separate and distinct from physical dependence and toler
 Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-OXYCODONE HCl EXTENDED-RELEASE TABLETS, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Oxycodone HCl extended-release tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of OXYCODONE HCl EXTENDED-RELEASE TABLETS
+Risks Specific to Abuse of Oxycodone HCl Extended-Release Tablets
 
-OXYCODONE HCl EXTENDED-RELEASE TABLETS are for oral use only.
-Abuse of OXYCODONE HCl EXTENDED-RELEASE TABLETS poses a risk of overdose and death.
-The risk is increased with concurrent use of OXYCODONE HCl EXTENDED-RELEASE TABLETS with alcohol and other central nervous system depressants.
-Taking cut, broken, chewed, crushed, or dissolved OXYCODONE HCl EXTENDED-RELEASE TABLETS enhances drug release and increases the risk of overdose and death.
+Oxycodone HCl extended-release tablets are for oral use only.
+Abuse of oxycodone HCl extended-release tablets poses a risk of overdose and death.
+The risk is increased with concurrent use of oxycodone HCl extended-release tablets with alcohol and other central nervous system depressants.
+Taking cut, broken, chewed, crushed, or dissolved oxycodone HCl extended-release tablets enhances drug release and increases the risk of overdose and death.
 
-With parenteral abuse, the inactive ingredients in OXYCODONE HCl EXTENDED-RELEASE TABLETS can be expected to result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis, valvular heart injury, embolism, and death.
+With parenteral abuse, the inactive ingredients in oxycodone HCl extended-release tablets can be expected to result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis, valvular heart injury, embolism, and death.
 Cases of thrombotic microangiopathy (a condition characterized clinically by thrombocytopenia and microangiopathic hemolytic anemia) associated with parenteral abuse have been reported.
 
 Parenteral drug abuse is commonly associated with transmission of infectious diseases, such as hepatitis and HIV.
 
 Abuse Deterrence Studies
 
-OXYCODONE HCl EXTENDED-RELEASE TABLETS are formulated with inactive ingredients intended to make the tablet more difficult to manipulate for misuse and abuse.
-For the purposes of describing the results of studies of the abuse-deterrent characteristics of OXYCODONE HCl EXTENDED-RELEASE TABLETS resulting from a change in formulation, in this section, the original formulation of OXYCODONE HCl EXTENDED-RELEASE TABLETS, which is no longer marketed, will be referred to as “original OxyContin” and the reformulated, currently marketed product will be referred to as “OXYCODONE HCl EXTENDED-RELEASE TABLETS".
+Oxycodone HCl extended-release tablets are formulated with inactive ingredients intended to make the tablet more difficult to manipulate for misuse and abuse.
+For the purposes of describing the results of studies of the abuse-deterrent characteristics of oxycodone HCl extended-release tablets resulting from a change in formulation, in this section, the original formulation of oxycodone HCl extended-release tablets, which is no longer marketed, will be referred to as “original OxyContin” and the reformulated, currently marketed product will be referred to as “oxycodone HCl extended-release tablets".
 
 In Vitro Testing
 
 In vitro physical and chemical tablet manipulation studies were performed to evaluate the success of different extraction methods in defeating the extended-release formulation.
-Results support that, relative to original OxyContin, there is an increase in the ability of OXYCODONE HCl EXTENDED-RELEASE TABLETS to resist crushing, breaking, and dissolution using a variety of tools and solvents.
-The results of these studies also support this finding for OXYCODONE HCl EXTENDED-RELEASE TABLETS relative to an immediate-release oxycodone.
-When subjected to an aqueous environment, OXYCODONE HCl EXTENDED-RELEASE TABLETS gradually forms a viscous hydrogel (i.e., a gelatinous mass) that resists passage through a needle.
+Results support that, relative to original OxyContin, there is an increase in the ability of oxycodone HCl extended-release tablets to resist crushing, breaking, and dissolution using a variety of tools and solvents.
+The results of these studies also support this finding for oxycodone HCl extended-release tablets relative to an immediate-release oxycodone.
+When subjected to an aqueous environment, oxycodone HCl extended-release tablets gradually forms a viscous hydrogel (i.e., a gelatinous mass) that resists passage through a needle.
 
 Clinical Studies
 
 In a randomized, double-blind, placebo-controlled 5-period crossover pharmacodynamic study, 30 recreational opioid users with a history of intranasal drug abuse received intranasally administered active and placebo drug treatments.
-The five treatment arms were finely crushed OXYCODONE HCl EXTENDED-RELEASE TABLETS 30 mg tablets, coarsely crushed OXYCODONE HCl EXTENDED-RELEASE TABLETS 30 mg tablets, finely crushed original OxyContin 30 mg tablets, powdered oxycodone HCl 30 mg, and placebo.
-Data for finely crushed OXYCODONE HCl EXTENDED-RELEASE TABLETS, finely crushed original OxyContin, and powdered oxycodone HCl are described below.
+The five treatment arms were finely crushed oxycodone HCl extended-release tablets 30 mg tablets, coarsely crushed oxycodone HCl extended-release tablets 30 mg tablets, finely crushed original OxyContin 30 mg tablets, powdered oxycodone HCl 30 mg, and placebo.
+Data for finely crushed oxycodone HCl extended-release tablets, finely crushed original OxyContin, and powdered oxycodone HCl are described below.
 
 Drug liking was measured on a bipolar drug liking scale of 0 to 100 where 50 represents a neutral response of neither liking nor disliking, 0 represents maximum disliking and 100 represents maximum liking.
 Response to whether the subject would take the study drug again was also measured on a bipolar scale of 0 to 100 where 50 represents a neutral response, 0 represents the strongest negative response (“definitely would not take drug again”) and 100 represents the strongest positive response (“definitely would take drug again”).
 
 Twenty-seven of the subjects completed the study.
-Incomplete dosing due to granules falling from the subjects’ nostrils occurred in 34% (n = 10) of subjects with finely crushed OXYCODONE HCl EXTENDED-RELEASE TABLETS, compared with 7% (n = 2) of subjects with finely crushed original OxyContin and no subjects with powdered oxycodone HCl.
+Incomplete dosing due to granules falling from the subjects’ nostrils occurred in 34% (n = 10) of subjects with finely crushed oxycodone HCl extended-release tablets, compared with 7% (n = 2) of subjects with finely crushed original OxyContin and no subjects with powdered oxycodone HCl.
 
-The intranasal administration of finely crushed OXYCODONE HCl EXTENDED-RELEASE TABLETS was associated with a numerically lower mean and median drug liking score and a lower mean and median score for take drug again, compared to finely crushed original OxyContin or powdered oxycodone HCl as summarized in Table 5.
+The intranasal administration of finely crushed oxycodone HCl extended-release tablets was associated with a numerically lower mean and median drug liking score and a lower mean and median score for take drug again, compared to finely crushed original OxyContin or powdered oxycodone HCl as summarized in Table 5.
 
 Table 5: Summary of Maximum Drug Liking (Emax) Data Following Intranasal Administration
 
-| VAS Scale (100 mm)Bipolar scale (0 = maximum negative response, 50 = neutral response, 100 = maximum positive response) |  | OXYCODONE HCl EXTENDED-RELEASE TABLETS (finely crushed) | Original OxyContin (finely crushed) | Oxycodone HCl (powdered) |
+| VAS Scale (100 mm)* |  | Oxycodone HCl extended-release tablets (finely crushed) | Original OxyContin (finely crushed) | Oxycodone HCl(powdered) |
 | --- | --- | --- | --- | --- |
 | Drug Liking | Mean (SE) | 80.4 (3.9) | 94.0 (2.7) | 89.3 (3.1) |
 | Median (Range) | 88 (36-100) | 100 (51-100) | 100 (50-100) |  |
 | Take Drug Again | Mean (SE) | 64.0 (7.1) | 89.6 (3.9) | 86.6 (4.4) |
 | Median (Range) | 78 (0-100) | 100 (20-100) | 100 (0-100) |  |
+| * Bipolar scales (0 = maximum negative response, 50 = neutral response, 100 = maximum positive response) |  |  |  |  |
 
-Figure 1 demonstrates a comparison of drug liking for finely crushed OXYCODONE HCl EXTENDED-RELEASE TABLETS compared to powdered oxycodone HCl in subjects who received both treatments.
-The Y-axis represents the percent of subjects attaining a percent reduction in drug liking for OXYCODONE HCl EXTENDED-RELEASE TABLETS vs. oxycodone HCl powder greater than or equal to the value on the X-axis.
-Approximately 44% (n = 12) had no reduction in liking with OXYCODONE HCl EXTENDED-RELEASE TABLETS relative to oxycodone HCl.
-Approximately 56% (n = 15) of subjects had some reduction in drug liking with OXYCODONE HCl EXTENDED-RELEASE TABLETS relative to oxycodone HCl.
-Thirty-three percent (n = 9) of subjects had a reduction of at least 30% in drug liking with OXYCODONE HCl EXTENDED-RELEASE TABLETS compared to oxycodone HCl, and approximately 22% (n = 6) of subjects had a reduction of at least 50% in drug liking with OXYCODONE HCl EXTENDED-RELEASE TABLETS compared to oxycodone HCl.
+Figure 1 demonstrates a comparison of drug liking for finely crushed oxycodone HCl extended-release tablets compared to powdered oxycodone HCl in subjects who received both treatments.
+The Y-axis represents the percent of subjects attaining a percent reduction in drug liking for oxycodone HCl extended-release tablets vs. oxycodone HCl powder greater than or equal to the value on the X-axis.
+Approximately 44% (n = 12) had no reduction in liking with oxycodone HCl extended-release tablets relative to oxycodone HCl.
+Approximately 56% (n = 15) of subjects had some reduction in drug liking with oxycodone HCl extended-release tablets relative to oxycodone HCl.
+Thirty-three percent (n = 9) of subjects had a reduction of at least 30% in drug liking with oxycodone HCl extended-release tablets compared to oxycodone HCl, and approximately 22% (n = 6) of subjects had a reduction of at least 50% in drug liking with oxycodone HCl extended-release tablets compared to oxycodone HCl.
 
-Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for OXYCODONE HCl EXTENDED-RELEASE TABLETS vs. oxycodone HCl, N=27 Following Intranasal Administration
+Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for Oxycodone HCl Extended-Release Tablets vs. Oxycodone HCl, N=27 Following Intranasal Administration
 
-The results of a similar analysis of drug liking for finely crushed OXYCODONE HCl EXTENDED-RELEASE TABLETS relative to finely crushed original OxyContin were comparable to the results of finely crushed OXYCODONE HCl EXTENDED-RELEASE TABLETS relative to powdered oxycodone HCl.
-Approximately 43% (n = 12) of subjects had no reduction in liking with OXYCODONE HCl EXTENDED-RELEASE TABLETS relative to original OxyContin.
-Approximately 57% (n = 16) of subjects had some reduction in drug liking, 36% (n = 10) of subjects had a reduction of at least 30% in drug liking, and approximately 29% (n = 8) of subjects had a reduction of at least 50% in drug liking with OXYCODONE HCl EXTENDED-RELEASE TABLETS compared to original OxyContin.
+The results of a similar analysis of drug liking for finely crushed oxycodone HCl extended-release tablets relative to finely crushed original OxyContin were comparable to the results of finely crushed oxycodone HCl extended-release tablets relative to powdered oxycodone HCl.
+Approximately 43% (n = 12) of subjects had no reduction in liking with oxycodone HCl extended-release tablets relative to original OxyContin.
+Approximately 57% (n = 16) of subjects had some reduction in drug liking, 36% (n = 10) of subjects had a reduction of at least 30% in drug liking, and approximately 29% (n = 8) of subjects had a reduction of at least 50% in drug liking with oxycodone HCl extended-release tablets compared to original OxyContin.
 
 Summary
 
-The in vitro data demonstrate that OXYCODONE HCl EXTENDED-RELEASE TABLETS have physicochemical properties expected to make abuse via injection difficult.
-The data from the clinical study, along with support from the in vitro data, also indicate that OXYCODONE HCl EXTENDED-RELEASE TABLETS have physicochemical properties that are expected to reduce abuse via the intranasal route.
-However, abuse of OXYCODONE HCl EXTENDED-RELEASE TABLETS by these routes, as well as by the oral route, is still possible.
+The in vitro data demonstrate that oxycodone HCl extended-release tablets have physicochemical properties expected to make abuse via injection difficult.
+The data from the clinical study, along with support from the in vitro data, also indicate that oxycodone HCl extended-release tablets have physicochemical properties that are expected to reduce abuse via the intranasal route.
+However, abuse of oxycodone HCl extended-release tablets by these routes, as well as by the oral route, is still possible.
 
-Additional data, including epidemiological data, when available, may provide further information on the impact of the current formulation of OXYCODONE HCl EXTENDED-RELEASE TABLETS on the abuse liability of the drug.
+Additional data, including epidemiological data, when available, may provide further information on the impact of the current formulation of oxycodone HCl extended-release tablets on the abuse liability of the drug.
 Accordingly, this section may be updated in the future as appropriate.
 
-OXYCODONE HCl EXTENDED-RELEASE TABLETS contain oxycodone, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit, including fentanyl, hydromorphone, methadone, morphine, and oxymorphone.
-OXYCODONE HCl EXTENDED-RELEASE TABLETS can be abused and is subject to misuse, addiction, and criminal diversion [seeWarnings and Precautions (5.1) and Drug Abuse and Dependence (9.1)].
+Oxycodone HCl extended-release tablets contain oxycodone, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit, including fentanyl, hydromorphone, methadone, morphine, and oxymorphone.
+Oxycodone HCl extended-release tablets can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1) and Drug Abuse and Dependence (9.1)].
 
 ## 9.3 Dependence
 
@@ -111,9 +112,9 @@ Physical dependence results in withdrawal symptoms after abrupt discontinuation 
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-OXYCODONE HCl EXTENDED-RELEASE TABLETS should not be abruptly discontinued [see Dosage and Administration (2.9)].
-If OXYCODONE HCl EXTENDED-RELEASE TABLETS are abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
+Oxycodone HCl extended-release tablets should not be abruptly discontinued [see Dosage and Administration (2.9)].
+If oxycodone HCl extended-release tablets are abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

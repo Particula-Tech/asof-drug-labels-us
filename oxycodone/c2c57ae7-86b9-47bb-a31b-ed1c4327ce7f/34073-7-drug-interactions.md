@@ -1,17 +1,17 @@
 # 7 DRUG INTERACTIONS
 
-Table 4 includes clinically significant drug interactions with OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+Table 4 includes clinically significant drug interactions with oxycodone HCl extended-release tablets.
 
-Table 4: Clinically Significant Drug Interactions with OXYCODONE HCl EXTENDED-RELEASE TABLETS
+Table 4: Clinically Significant Drug Interactions with Oxycodone HCl Extended-Release Tablets
 
 | Inhibitors of CYP3A4 and CYP2D6 |  |
 | --- | --- |
-| Clinical Impact: | The concomitant use of OXYCODONE HCl EXTENDED-RELEASE TABLETS and CYP3A4 inhibitors can increase the plasma concentration of oxycodone, resulting in increased or prolonged opioid effects. These effects could be more pronounced with concomitant use of OXYCODONE HCl EXTENDED-RELEASE TABLETS and CYP2D6 and CYP3A4 inhibitors, particularly when an inhibitor is added after a stable dose of OXYCODONE HCl EXTENDED-RELEASE TABLETS is achieved [see Warnings and Precautions (5.5)].After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the oxycodone plasma concentration will decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to oxycodone. |
-| Intervention: | If concomitant use is necessary, consider dosage reduction of OXYCODONE HCl EXTENDED-RELEASE TABLETS until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals.If a CYP3A4 inhibitor is discontinued, consider increasing the OXYCODONE HCl EXTENDED-RELEASE TABLETS dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
+| Clinical Impact: | The concomitant use of oxycodone HCl extended-release tablets and CYP3A4 inhibitors can increase the plasma concentration of oxycodone, resulting in increased or prolonged opioid effects. These effects could be more pronounced with concomitant use of oxycodone HCl extended-release tablets and CYP2D6 and CYP3A4 inhibitors, particularly when an inhibitor is added after a stable dose of oxycodone HCl extended-release tablets is achieved [see Warnings and Precautions (5.5)].After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the oxycodone plasma concentration will decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to oxycodone. |
+| Intervention: | If concomitant use is necessary, consider dosage reduction of oxycodone HCl extended-release tablets until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals.If a CYP3A4 inhibitor is discontinued, consider increasing the oxycodone HCl extended-release tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
 | Examples | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir) |
 | CYP3A4 Inducers |  |
-| Clinical Impact: | The concomitant use of OXYCODONE HCl EXTENDED-RELEASE TABLETS and CYP3A4 inducers can decrease the plasma concentration of oxycodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to oxycodone [see Warnings and Precautions (5.5)].After stopping a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
-| Intervention: | If concomitant use is necessary, consider increasing the OXYCODONE HCl EXTENDED-RELEASE TABLETS dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider OXYCODONE HCl EXTENDED-RELEASE TABLETS dosage reduction and monitor for signs of respiratory depression. |
+| Clinical Impact: | The concomitant use of oxycodone HCl extended-release tablets and CYP3A4 inducers can decrease the plasma concentration of oxycodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to oxycodone [see Warnings and Precautions (5.5)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
+| Intervention: | If concomitant use is necessary, consider increasing the oxycodone HCl extended-release tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider oxycodone HCl extended-release tablets dosage reduction and monitor for signs of respiratory depression. |
 | Examples: | Rifampin, carbamazepine, phenytoin |
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
@@ -19,22 +19,22 @@ Table 4: Clinically Significant Drug Interactions with OXYCODONE HCl EXTENDED-RE
 | Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
-| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue OXYCODONE HCl EXTENDED-RELEASE TABLETS if serotonin syndrome is suspected. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue oxycodone HCl extended-release tablets if serotonin syndrome is suspected. |
 | Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.3)]. |
-| Intervention: | The use of OXYCODONE HCl EXTENDED-RELEASE TABLETS is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
+| Intervention: | The use of oxycodone HCl extended-release tablets is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
 | Examples: | phenelzine, tranylcypromine, linezolid |
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
-| Clinical Impact: | May reduce the analgesic effect of OXYCODONE HCl EXTENDED-RELEASE TABLETS and/or precipitate withdrawal symptoms. |
+| Clinical Impact: | May reduce the analgesic effect of oxycodone HCl extended-release tablets and/or precipitate withdrawal symptoms. |
 | Intervention: | Avoid concomitant use. |
 | Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
 | Muscle Relaxants |  |
 | Clinical Impact: | Oxycodone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of OXYCODONE HCl EXTENDED-RELEASE TABLETS and/or the muscle relaxant as necessary. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of oxycodone HCl extended-release tablets and/or the muscle relaxant as necessary. |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
-| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when OXYCODONE HCl EXTENDED-RELEASE TABLETS is used concomitantly with anticholinergic drugs. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when oxycodone HCl extended-release tablets is used concomitantly with anticholinergic drugs. |
