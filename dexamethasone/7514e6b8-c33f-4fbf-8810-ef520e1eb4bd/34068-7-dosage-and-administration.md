@@ -3,7 +3,7 @@
 ## 2.1 General Dosing Information
 
 DEXTENZA is an ophthalmic insert that is inserted in the lower lacrimal punctum into the canaliculus.
-A single DEXTENZA releases a 0.4 mg dose of dexamethasone for up to 30 days following insertion.
+A single DEXTENZA insert releases a 0.4 mg dose of dexamethasone for up to 30 days following insertion.
 
 DEXTENZA is resorbable and does not require removal.
 Saline irrigation or manual expression can be performed to remove the insert if necessary.
