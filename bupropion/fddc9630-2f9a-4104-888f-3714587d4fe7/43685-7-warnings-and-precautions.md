@@ -21,33 +21,33 @@ Table 1: Risk Differences in the Number of Suicidality Cases by Age Group in the
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
-| <18 years | 14 additional cases |
+| < 18 years | 14 additional cases |
 | 18 to 24 years | 5 additional cases |
 | Decreases Compared to Placebo |  |
 | 25 to 64 years | 1 fewer case |
-| ≥65 years | 6 fewer cases |
+| ≥ 65 years | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e. beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases [see Boxed Warning and Use in Specific Populations (8.4)].
 
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
+The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for bupropion hydrochloride extended-release tablets (XL) should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Bupropion hydrochloride extended-release tablets (XL) are not approved for smoking cessation treatment; however, bupropion HCl sustained-release is approved for this use.
-Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation.
+Bupropion hydrochloride extended-release tablets (XL) are not approved for smoking cessation treatment; however, bupropion hydrochloride sustained-release is approved for this use.
+Serious neuropsychiatric adverse events have been reported in patients taking bupropion for smoking cessation.
 These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
 Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
@@ -70,17 +70,17 @@ Discontinue bupropion hydrochloride extended-release tablets (XL) and do not res
 
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications that lower the seizure threshold.
 Consider these risks before initiating treatment with bupropion hydrochloride extended-release tablets (XL).
-Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients with a seizure disorder or conditions that increase the risk of seizure (e.g., severe head injury, arteriovenous malformation, CNS tumor or CNS infection, severe stroke, anorexia nervosa or bulimia, or abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4)].
+Bupropion hydrochloride extended-release tablets (XL) is contraindicated in patients with a seizure disorder or conditions that increase the risk of seizure (e.g., severe head injury, arteriovenous malformation, CNS tumor or CNS infection, severe stroke, anorexia nervosa or bulimia, or abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4)].
 The following conditions can also increase the risk of seizure: concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids), metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia), or use of illicit drugs (e.g., cocaine) or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin, use of anorectic drugs, excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
 Incidence of Seizure with Bupropion Use
 
 The incidence of seizure with bupropion hydrochloride extended-release tablets (XL) has not been formally evaluated in clinical trials.
-In studies using bupropion HCl sustained-release up to 300 mg per day the incidence of seizure was approximately 0.1% (1/1000 patients).
-In a large prospective, follow-up study, the seizure incidence was approximately 0.4% (13/3200) with bupropion HCl immediate-release in the range of 300 mg to 450 mg per day.
+In studies using bupropion hydrochloride sustained-release up to 300 mg per day the incidence of seizure was approximately 0.1% (1/1000 patients).
+In a large prospective, follow-up study, the seizure incidence was approximately 0.4% (13/3200) with bupropion hydrochloride immediate-release in the range of 300 mg to 450 mg per day.
 
-Additional data accumulated for bupropion immediate-release suggests that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day.
+Additional data accumulated for bupropion immediate-release suggests that the estimated seizure incidence increases almost tenfold between 450 mg/day and 600 mg/day.
 The risk of seizure can be reduced if the bupropion hydrochloride extended-release tablets (XL) dose does not exceed 450 mg once daily and the titration rate is gradual.
 
 ## 5.4 Hypertension
@@ -90,13 +90,13 @@ Treatment with bupropion hydrochloride extended-release tablets (XL) can result 
 Assess blood pressure before initiating treatment with bupropion hydrochloride extended-release tablets (XL), and monitor periodically during treatment.
 The risk of hypertension is increased if bupropion hydrochloride extended-release tablets (XL) are used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
-Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
+Data from a comparative trial of the sustained-release formulation of bupropion hydrochloride, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
 In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared to 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
 The majority of these subjects had evidence of pre-existing hypertension.
 Three subjects (1.2%) treated with the combination of sustained-release bupropion and NTS and 1 subject (0.4%) treated with NTS had study medication discontinued due to hypertension compared with none of the subjects treated with sustained-release bupropion or placebo.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
 
-In the 3 trials of bupropion HCl extended-release in seasonal affective disorder, there were significant elevations in blood pressure.
+In the 3 trials of bupropion hydrochloride extended-release in seasonal affective disorder, there were significant elevations in blood pressure.
 Hypertension was reported as an adverse reaction for 2% of the bupropion group (11/537) and none in the placebo group (0/511).
 In the SAD trials, 2 patients treated with bupropion discontinued from the study because they developed hypertension.
 None of the placebo group discontinued because of hypertension.
@@ -108,7 +108,7 @@ In the SAD trials, 82% of patients were treated with 300 mg per day, and 18% wer
 The mean daily dose was 270 mg per day.
 The mean duration of bupropion exposure was 126 days.
 
-In a clinical trial of bupropion immediate-release in MDD subjects with stable congestive heart failure (N=36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 patients, leading to discontinuation of bupropion treatment.
+In a clinical trial of bupropion immediate-release in MDD subjects with stable congestive heart failure (N=36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 subjects, leading to discontinuation of bupropion treatment.
 There are no controlled studies assessing the safety of bupropion in patients with a recent history of myocardial infarction or unstable cardiac disease.
 
 ## 5.5 Activation of Mania/Hypomania
@@ -133,8 +133,8 @@ Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many
 
 Anaphylactoid/anaphylactic reactions have occurred during clinical trials with bupropion.
 Reactions have been characterized by pruritus, urticaria, angioedema, and dyspnea, requiring medical treatment.
-In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
-Instruct patients to discontinue bupropion hydrochloride extended-release tablets (XL) and consult a health care provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
+In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson Syndrome, and anaphylactic shock associated with bupropion.
+Instruct patients to discontinue bupropion hydrochloride extended-release tablets (XL) and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
 There are reports of arthralgia, myalgia, fever with rash and other symptoms of serum sickness suggestive of delayed hypersensitivity.
 

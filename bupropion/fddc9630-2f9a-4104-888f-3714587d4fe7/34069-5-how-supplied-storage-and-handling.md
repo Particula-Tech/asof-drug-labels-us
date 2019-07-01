@@ -1,14 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Bupropion hydrochloride extended-release tablets (XL), 150 mg of bupropion hydrochloride, are yellow, oval, film-coated tablets, debossed with "681" on one side and plain on the other side.
+Bupropion Hydrochloride Extended-release Tablets (XL), 150 mg are yellow, oval, film-coated tablets, debossed with “681” on one side and plain on the other side.
+They are available as:
 
-| Bottles of 30 | NDC 0115-6811-08 |
-| --- | --- |
-| Bottles of 90 | NDC 0115-6811-10 |
-| Bottles of 500 | NDC 0115-6811-02 |
+Bottles of 30: NDC 0115-6811-08 Bottles of 90: NDC 0115-6811-10 Bottles of 500: NDC 0115-6811-02
 
 Dispense in a tightly-closed, light-resistant container (USP).
 
-Store at 20°C to 25°C (68°F to 77°F); excursion permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursion permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Bupropion hydrochloride extended-release tablets (XL) may have an odor.

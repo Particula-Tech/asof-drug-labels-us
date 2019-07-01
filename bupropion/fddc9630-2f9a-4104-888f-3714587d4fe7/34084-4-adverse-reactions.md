@@ -13,53 +13,53 @@ The following adverse reactions are discussed in greater detail in other section
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Commonly Observed Adverse Reactions in Controlled Clinical Trials of Sustained-Release Bupropion Hydrochloride
 
-Adverse reactions that occurred in at least 5% of patients treated with bupropion HCl sustained-release (300 mg and 400 mg per day) and at a rate at least twice the placebo rate are listed below.
+Adverse reactions that occurred in at least 5% of patients treated with bupropion hydrochloride sustained-release (300 mg and 400 mg per day) and at a rate at least twice the placebo rate are listed below.
 
-300 mg/day of bupropion HCl sustained-release: anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
+300 mg/day of bupropion hydrochloride sustained-release: anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
 
-400 mg/day of bupropion HCl sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
+400 mg/day of bupropion hydrochloride sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
 Bupropion hydrochloride extended-release tablets (XL) have been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
-The information included under this subsection and under the subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended release formulations of bupropion hydrochloride.
+The information included under this subsection and under subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended-release formulations of bupropion hydrochloride.
 
 Major Depressive Disorder
 
-Adverse Reactions Leading to Discontinuation of Treatment with Bupropion HCl Immediate-Release, Bupropion HCl Sustained-Release, and Bupropion HCl Extended-Release in Major Depressive Disorder Trials
+Adverse Reactions Leading to Discontinuation of Treatment with Bupropion Hydrochloride Immediate-Release, Bupropion Hydrochloride Sustained-Release, and Bupropion Hydrochloride Extended-Release in Major Depressive Disorder Trials
 
-In placebo-controlled clinical trials with bupropion HCl sustained-release, 4%, 9%, and 11% of the placebo, 300 mg/day and 400 mg/day groups, respectively, discontinued treatment because of adverse reactions.
+In placebo-controlled clinical trials with bupropion hydrochloride sustained-release, 4%, 9%, and 11% of the placebo, 300 mg/day and 400 mg/day groups, respectively, discontinued treatment because of adverse reactions.
 The specific adverse reactions leading to discontinuation in at least 1% of the 300 mg/day or 400 mg/day groups and at a rate at least twice the placebo rate are listed in Table 2.
 
 Table 2: Treatment Discontinuation Due to Adverse Reactions in Placebo-Controlled Trials in MDD
 
-| Adverse Reaction Term | Placebo (n=385) | Bupropion HCl Sustained-Release 300 mg/day (n=376) | Bupropion HCl Sustained-Release 400 mg/day (n=114) |
+| Adverse Reaction Term | Placebo(n=385) | Bupropion Hydrochloride Sustained-Release300 mg/day(n=376) | Bupropion Hydrochloride Sustained-Release400 mg/day(n=114) |
 | --- | --- | --- | --- |
 | Rash | 0.0% | 2.4% | 0.9% |
 | Nausea | 0.3% | 0.8% | 1.8% |
 | Agitation | 0.3% | 0.3% | 1.8% |
 | Migraine | 0.3% | 0.0% | 1.8% |
 
-In clinical trials with bupropion HCl immediate-release, 10% of patients and volunteers discontinued due to an adverse reaction.
-Reactions resulting in discontinuation, (in addition to those listed above for the sustained-release formulation), included vomiting, seizures, and sleep disturbances.
+In clinical trials with bupropion hydrochloride immediate-release, 10% of patients and volunteers discontinued due to an adverse reaction.
+Reactions resulting in discontinuation (in addition to those listed above for the sustained-release formulation) included vomiting, seizures, and sleep disturbances.
 
-Adverse Reactions Occurring at an Incidence of >1% in Patients Treated with Bupropion HCl Immediate-Release or Bupropion HCl Sustained-Release in MDD
+Adverse Reactions Occurring at an Incidence of > 1% in Patients Treated with Bupropion Hydrochloride Immediate-Release or Bupropion Hydrochloride Sustained-Release in MDD
 
-Table 3 summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion HCl sustained-release 300 mg/day and 400 mg/day.
+Table 3 summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion hydrochloride sustained-release 300 mg/day and 400 mg/day.
 These include reactions that occurred in either the 300 mg or 400 mg group at an incidence of 1% or more and were more frequent than in the placebo group.
 
 Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 
-| Body System/Adverse Reaction | Placebo (n=385) | Bupropion HCl Sustained-Release 300 mg/day (n=376) | Bupropion HCl Sustained-Release 400 mg/day (n=114) |
+| Body System/Adverse Reaction | Placebo(n=385) | Bupropion Hydrochloride Sustained-Release 300 mg/day(n=376) | Bupropion Hydrochloride Sustained-Release 400 mg/day(n=114) |
 | --- | --- | --- | --- |
 | Body (General) |  |  |  |
 | Headache | 23% | 26% | 25% |
 | Infection | 6% | 8% | 9% |
 | Abdominal pain | 2% | 3% | 9% |
 | Asthenia | 2% | 2% | 4% |
-| Chest Pain | 1% | 3% | 4% |
+| Chest pain | 1% | 3% | 4% |
 | Pain | 2% | 2% | 3% |
 | Fever | – | 1% | 2% |
 | Cardiovascular |  |  |  |
@@ -104,37 +104,38 @@ Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Special Senses |  |  |  |
 | Tinnitus | 2% | 6% | 6% |
 | Taste perversion | – | 2% | 4% |
-| Blurred vision of diplopia | 2% | 3% | 2% |
+| Blurred vision or diplopia | 2% | 3% | 2% |
 | Urogenital |  |  |  |
 | Urinary frequency | 2% | 2% | 5% |
 | Urinary urgency | 0% | – | 2% |
-| Vaginal hemorrhageIncidence based on the number of female patients. | – | 0% | 2% |
-| Urinary tract infection | –Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients | 1% | 0% |
+| Vaginal hemorrhage* | – | 0% | 2% |
+| Urinary tract infection | –† | 1% | 0% |
+| * Incidence based on the number of female patients.† Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. |  |  |  |
 
-The following additional adverse reactions occurred in controlled trials of bupropion HCl immediate-release (300 to 600 mg per day) at an incidence of at least 1% more frequently than in the placebo group were: cardiac arrhythmia (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
+The following additional adverse reactions occurred in controlled trials of bupropion hydrochloride immediate-release (300 mg per day to 600 mg per day) at an incidence of at least 1% more frequently than in the placebo group were: cardiac arrhythmia (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
 
 Seasonal Affective Disorder
 
 In placebo-controlled clinical trials in SAD, 9% of patients treated with bupropion hydrochloride extended-release tablets (XL) and 5% of patients treated with placebo discontinued treatment because of adverse reactions.
-The adverse reactions leading to discontinuation in at least 1% of patients treated with bupropion and at a rate numerically greater than the placebo rate were insomnia (2% vs. <1%) and headache (1% vs. <1%).
+The adverse reactions leading to discontinuation in at least 1% of patients treated with bupropion and at a rate numerically greater than the placebo rate were insomnia (2% vs. < 1%) and headache (1% vs. < 1%).
 
 Table 4 summarizes the adverse reactions that occurred in patients treated with bupropion hydrochloride extended-release tablets (XL) for up to approximately 6 months in 3 placebo-controlled trials.
 These include reactions that occurred at an incidence of 2% or more and were more frequent than in the placebo group.
 
 Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 
-| System Organ Class/Preferred Term | Placebo (n=511) | Bupropion HCl Extended-Release (n=537) |
+| System Organ Class/Preferred Term | Placebo (n=511) | Bupropion Hydrochloride Extended-Release (n=537) |
 | --- | --- | --- |
 | Gastrointestinal Disorder |  |  |
 | Dry mouth | 15% | 26% |
 | Nausea | 8% | 13% |
 | Constipation | 2% | 9% |
 | Flatulence | 3% | 6% |
-| Abdominal pain | <1% | 2% |
+| Abdominal pain | < 1% | 2% |
 | Nervous System Disorders |  |  |
 | Headache | 26% | 34% |
 | Dizziness | 5% | 6% |
-| Tremor | <1% | 3% |
+| Tremor | < 1% | 3% |
 | Infections and Infestations |  |  |
 | Nasopharyngitis | 12% | 13% |
 | Upper respiratory tract infection | 8% | 9% |
@@ -143,7 +144,7 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 | Insomnia | 13% | 20% |
 | Anxiety | 5% | 7% |
 | Abnormal dreams | 2% | 3% |
-| Agitation | <1% | 2% |
+| Agitation | < 1% | 2% |
 | Musculoskeletal and Connective Tissue Disorders |  |  |
 | Myalgia | 2% | 3% |
 | Pain in extremity | 2% | 3% |
@@ -156,34 +157,34 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 | Metabolism and Nutrition Disorders |  |  |
 | Decreased appetite | 1% | 4% |
 | Reproductive System and Breast Disorders |  |  |
-| Dysmenorrhea | <1% | 2% |
+| Dysmenorrhea | < 1% | 2% |
 | Ear and Labyrinth Disorders |  |  |
-| Tinnitus | <1% | 3% |
+| Tinnitus | < 1% | 3% |
 | Vascular Disorders |  |  |
 | Hypertension | 0% | 2% |
 
 Changes in Body Weight
 
-Table 5 presents the incidence of body weight changes (≥5 lbs) in the short-term MDD trials using bupropion HCl sustained-release.
+Table 5 presents the incidence of body weight changes (≥ 5 lbs) in the short-term MDD trials using bupropion hydrochloride sustained-release.
 There was a dose-related decrease in body weight.
 
-Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs.) in MDD Trials Using Bupropion HCl Sustained-Release
+Table 5: Incidence of Weight Gain or Weight Loss (≥ 5 lbs) in MDD Trials Using Bupropion Hydrochloride Sustained-Release
 
-| Weight Change | Bupropion HCl Sustained-Release 300 mg/day (n=339) | Bupropion HCl Sustained-Release 400 mg/day (n=112) | Placebo (n=347) |
+| Weight Change | Bupropion Hydrochloride Sustained-Release 300 mg/day(n=339) | Bupropion Hydrochloride Sustained-Release 400 mg/day(n=112) | Placebo(n=347) |
 | --- | --- | --- | --- |
-| Gained >5 lbs | 3% | 2% | 4% |
-| Lost >5 lbs | 14% | 19% | 6% |
+| Gained > 5 lbs | 3% | 2% | 4% |
+| Lost > 5 lbs | 14% | 19% | 6% |
 
-Table 6 presents the incidence of body weight changes (≥5 lbs) in the 3 SAD trials using bupropion HCl extended-release.
-A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥5 lbs., compared to the placebo group (11%).
+Table 6 presents the incidence of body weight changes (≥ 5 lbs) in the 3 SAD trials using bupropion hydrochloride extended-release.
+A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥ 5 lbs, compared to the placebo group (11%).
 These were relatively long-term trials (up to 6 months).
 
-Table 6: Incidence of Weight Gain or Weight Loss (≥5 lbs) in SAD Trials Using Bupropion HCl Extended-Release
+Table 6: Incidence of Weight Gain or Weight Loss (≥ 5 lbs) in SAD Trials Using Bupropion Hydrochloride Extended-Release
 
-| Weight Change | Bupropion HCl Extended-Release 150 to 300 mg/day (n=537) | Placebo (n=511) |
+| Weight Change | Bupropion Hydrochloride Extended-Release 150 to 300 mg/day (n=537) | Placebo(n=511) |
 | --- | --- | --- |
-| Gained >5 lbs | 11% | 21% |
-| Lost >5 lbs | 23% | 11% |
+| Gained > 5 lbs | 11% | 21% |
+| Lost > 5 lbs | 23% | 11% |
 
 ## 6.2 Postmarketing Experience
 
@@ -209,7 +210,7 @@ Hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone 
 Hemic and Lymphatic
 
 Ecchymosis, anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
-Altered PT and/or INR, associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
+Altered PT and/or INR, associated with hemorrhagic or thrombotic complications, were observed when bupropion was co-administered with warfarin.
 
 Metabolic and Nutritional
 

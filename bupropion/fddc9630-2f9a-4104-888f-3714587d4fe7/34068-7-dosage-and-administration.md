@@ -21,17 +21,17 @@ Periodically reassess the need for maintenance treatment and the appropriate dos
 
 The recommended starting dose for SAD is 150 mg once daily.
 After 7 days of dosing, the dose may be increased to the target dose of 300 mg once daily in the morning.
-Doses above 300 mg of bupropion HCl extended-release were not assessed in the SAD trials.
+Doses above 300 mg of bupropion hydrochloride extended-release were not assessed in the SAD trials.
 
 For the prevention of seasonal MDD episodes associated with SAD, initiate bupropion hydrochloride extended-release tablets (XL) in the autumn, prior to the onset of depressive symptoms.
 Continue treatment through the winter season.
 Taper and discontinue bupropion hydrochloride extended-release tablets (XL) in early spring.
 For patients treated with 300 mg per day, decrease the dose to 150 mg once daily before discontinuing bupropion hydrochloride extended-release tablets (XL).
-Individualize the timing of initiation and duration of treatment should be individualized, based on the patient's historical pattern of seasonal MDD episodes.
+Individualize the timing of initiation, and duration of treatment should be individualized, based on the patient's historical pattern of seasonal MDD episodes.
 
-## 2.4 Switching Patients from WELLBUTRIN Tablets or from WELLBUTRIN SR Sustained-Release Tablets
+## 2.4 Switching Patients from WELLBUTRIN (Bupropion Hydrochloride) Tablets or from WELLBUTRIN SR (Bupropion Hydrochloride (Sustained-Release)) Tablets
 
-When switching patients from WELLBUTRIN Tablets to bupropion hydrochloride extended-release tablets (XL) or from WELLBUTRIN SR Sustained-Release Tablets to bupropion hydrochloride extended-release tablets (XL), give the same total daily dose when possible.
+When switching patients from WELLBUTRIN (bupropion hydrochloride) tablets to bupropion hydrochloride extended-release tablets (XL) or from WELLBUTRIN SR (bupropion hydrochloride (sustained-release) tablets to bupropion hydrochloride extended-release tablets (XL), give the same total daily dose when possible.
 
 ## 2.5 To Discontinue Bupropion Hydrochloride Extended-Release Tablets (XL), Taper the Dose
 
@@ -40,7 +40,7 @@ When discontinuing treatment in patients treated with bupropion hydrochloride ex
 ## 2.6 Dosage Adjustment in Patients with Hepatic Impairment
 
 In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose is 150 mg every other day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) andClinical Pharmacology (12.3)].
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 2.7 Dose Adjustment in Patients with Renal Impairment
 
