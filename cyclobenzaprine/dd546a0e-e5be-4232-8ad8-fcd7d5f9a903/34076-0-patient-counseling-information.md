@@ -15,7 +15,7 @@ See FDA-approved patient labeling (Patient Information).
 
 Manufactured By: Adare Pharmaceuticals, Inc. Vandalia, OH 45377
 
-Distributed By: Impax Generics Hayward, CA 94544
+Distributed By: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2019-00
+12-2018-00

@@ -24,10 +24,7 @@ Do not take cyclobenzaprine hydrochloride extended-release capsules if you:
 
 Talk to your healthcare provider or get medical help right away if you have symptoms of an allergic reaction such as:
 
-- difficulty breathing
-- hives
-- swelling of your face or tongue
-- itching
+o difficulty breathing o hives o swelling of your face or tongue o itching
 
 - are taking certain antidepressants, known as monoamine oxidase (MAO) inhibitors or it has been 14 days or less since you stopped taking a MAO inhibitor.
   Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
@@ -139,7 +136,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about cyclobenzaprine hydrochloride extended-release capsules that is written for healthcare professionals.
 
-For more information, call Impax Laboratories, LLC at 1-800-934-6729.
+For more information, go to www.amneal.com or call 1-877-835-5472.
 
 What are the ingredients in cyclobenzaprine hydrochloride extended-release capsules?
 
@@ -153,6 +150,6 @@ Cyclobenzaprine hydrochloride 30 mg extended-release capsules also contain: FD&C
 
 Manufactured By: Adare Pharmaceuticals, Inc. Vandalia, OH 45377
 
-Distributed by: Impax Generics Hayward, CA 94544
+Distributed By: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-Revised: 01-2019-00
+Revised: 12-2018-00

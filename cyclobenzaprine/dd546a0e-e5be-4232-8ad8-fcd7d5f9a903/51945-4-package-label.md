@@ -1,3 +1,3 @@
-NDC 0115-1436-13 Cyclobenzaprine Hydrochloride Extended-Release Capsules 15 mg 60 Capsules
+# PRINCIPAL DISPLAY PANEL - 15 mg Bottle Label
 
-NDC 0115-1437-13 Cyclobenzaprine Hydrochloride Extended-Release Capsules 30 mg 60 Capsules
+# PRINCIPAL DISPLAY PANEL - 30 mg Bottle Label
