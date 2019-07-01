@@ -10,7 +10,7 @@ Animal reproduction studies have not been conducted with digoxin.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -46,9 +46,9 @@ There are no data on the effects of digoxin on the breastfed infant or the effec
 
 Data
 
-Based on data from two lactation studies in a total of 13 breastfed infants, the digoxin concentrations in breast milk were between 0.4 to 1.0 ng/mL following 0.25 mg once daily dose of digoxin in the lactating mother.
-Thus, the amount of digoxin ingested daily by the infants is estimated to be between 0.03 to 0.16 μg/kg/day.
-This translates to a relative infant dose of digoxin between 1 to 7% of the maternal weight-adjusted dose and about 0.2 to 4% of the neonatal maintenance dose.
+Based on data from two lactation studies in a total of 13 breastfed infants, the digoxin concentrations in breast milk were between 0.4 ng/mL to 1.0 ng/mL following 0.25 mg once daily dose of digoxin in the lactating mother.
+Thus, the amount of digoxin ingested daily by the infants is estimated to be between 0.03 to 0.16 mcg/kg/day.
+This translates to a relative infant dose of digoxin between 1% to 7% of the maternal weight-adjusted dose and about 0.2% to 4% of the neonatal maintenance dose.
 
 ## 8.4 Pediatric Use
 

@@ -6,7 +6,7 @@ The signs and symptoms of toxicity are generally similar to those described in t
 Signs and symptoms of digoxin toxicity become more frequent with levels above 2 ng/mL.
 However, in deciding whether a patient's symptoms are due to digoxin, the clinical state together with serum electrolyte levels and thyroid function are important factors [see Dosage and Administration (2)].
 
-Adults: The most common signs and symptoms of digoxin toxicity are nausea, vomiting, anorexia, and fatigue that occur in 30 to 70% of patients who are overdosed.
+Adults: The most common signs and symptoms of digoxin toxicity are nausea, vomiting, anorexia, and fatigue that occur in 30% to 70% of patients who are overdosed.
 Extremely high serum concentrations produce hyperkalemia especially in patients with impaired renal function.
 Almost every type of cardiac arrhythmia has been associated with digoxin overdose and multiple rhythm disturbances in the same patient are common.
 Peak cardiac effects occur 3 to 6 hours following ingestion and may persist for 24 hours or longer.
@@ -16,7 +16,7 @@ Cardiac arrest from asystole or ventricular fibrillation is usually fatal.
 Digoxin toxicity is related to serum concentration.
 As digoxin serum levels increase above 1.2 ng/mL, there is a potential for increase in adverse reactions.
 Furthermore, lower potassium levels increase the risk for adverse reactions.
-In adults with heart disease, clinical observations suggest that an overdose of digoxin of 10 to 15 mg results in death of half of patients.
+In adults with heart disease, clinical observations suggest that an overdose of digoxin of 10 mg to 15 mg results in death of half of patients.
 A dose above 25 mg ingested by an adult without heart disease appeared to be uniformly fatal if no Digoxin Immune Fab (DIGIBIND®, DIGIFAB®) was administered.
 
 Among the extra-cardiac manifestations, gastrointestinal symptoms (e.g., nausea, vomiting, anorexia) are very common (up to 80% incidence) and precede cardiac manifestations in approximately half of the patients in most literature reports.
@@ -31,7 +31,7 @@ Other reported manifestations of overdose are weight loss in older age groups, f
 Arrhythmias and combinations of arrhythmias that occur in adult patients can also occur in pediatric patients although sinus tachycardia, supraventricular tachycardia, and rapid atrial fibrillation are seen less frequently in pediatric patients.
 Pediatric patients are more likely to develop A-V conduction disturbances, or sinus bradycardia.
 Any arrhythmia in a child treated with digoxin should be considered related to digoxin until otherwise ruled out.
-In pediatric patients aged 1 to 3 years without heart disease, clinical observations suggest that an overdose of digoxin of 6 to 10 mg would result in death of half of the patients.
+In pediatric patients aged 1 to 3 years without heart disease, clinical observations suggest that an overdose of digoxin of 6 mg to 10 mg would result in death of half of the patients.
 In the same population, a dose above 10 mg resulted in death if no Digoxin Immune Fab were administered.
 
 ## 10.2 Treatment
@@ -54,7 +54,7 @@ Correct factors that may be contributing to the adverse reactions [see Warnings 
 In particular, correct hypokalemia and hypomagnesemia.
 Digoxin is not effectively removed from the body by dialysis because of its large extravascular volume of distribution.
 Life-threatening arrhythmias (ventricular tachycardia, ventricular fibrillation, high degree A-V block, bradyarrhythmia, sinus arrest) or hyperkalemia requires administration of Digoxin Immune Fab.
-Digoxin Immune Fab has been shown to be 80 to 90% effective in reversing signs and symptoms of digoxin toxicity.
+Digoxin Immune Fab has been shown to be 80% to 90% effective in reversing signs and symptoms of digoxin toxicity.
 Bradycardia and heart block caused by digoxin are parasympathetically mediated and respond to atropine.
 A temporary cardiac pacemaker may also be used.
 Ventricular arrhythmias may respond to lidocaine or phenytoin.

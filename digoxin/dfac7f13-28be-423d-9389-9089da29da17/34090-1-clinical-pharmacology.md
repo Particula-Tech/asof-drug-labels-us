@@ -45,7 +45,7 @@ Digoxin tablets do not significantly reduce heart rate during exercise.
 Note: The following data are from studies performed in adults, unless otherwise stated.
 
 Absorption: Following oral administration, peak serum concentrations of digoxin occur at 1 to 3 hours.
-Absorption of digoxin from digoxin tablets has been demonstrated to be 60 to 80% complete compared to an identical intravenous dose of digoxin (absolute bioavailability).
+Absorption of digoxin from digoxin tablets has been demonstrated to be 60% to 80% complete compared to an identical intravenous dose of digoxin (absolute bioavailability).
 When digoxin tablets are taken after meals, the rate of absorption is slowed, but the total amount of digoxin absorbed is usually unchanged.
 When taken with meals high in bran fiber, however, the amount absorbed from an oral dose may be reduced.
 Comparisons of the systemic availability and equivalent doses for oral preparations of digoxin tablets are shown in Dosage and Administration (2.6).
@@ -67,17 +67,17 @@ The peak height and slope of the early portion (absorption/distribution phases) 
 Clinical evidence indicates that the early high serum concentrations do not reflect the concentration of digoxin at its site of action, but that with chronic use, the steady-state post-distribution serum concentrations are in equilibrium with tissue concentrations and correlate with pharmacologic effects.
 In individual patients, these post-distribution serum concentrations may be useful in evaluating therapeutic and toxic effects [see Dosage and Administration (2.1)].
 
-Digoxin is concentrated in tissues and therefore has a large apparent volume of distribution (approximately 475 to 500 L). Digoxin crosses both the blood-brain barrier and the placenta.
+Digoxin is concentrated in tissues and therefore has a large apparent volume of distribution (approximately 475 L to 500 L). Digoxin crosses both the blood-brain barrier and the placenta.
 At delivery, the serum digoxin concentration in the newborn is similar to the serum concentration in the mother.
 Approximately 25% of digoxin in the plasma is bound to protein.
-Serum digoxin concentrations are not significantly altered by large changes in fat tissue weight, so that its distribution space correlates best with lean (i.e., ideal) body weight, not total body weight.
+Serum digoxin concentrations are not significantly altered by large changes in fat tissue weight, so that its distribution space correlates best with lean (i.e. ideal) body weight, not total body weight.
 
 Metabolism: Only a small percentage (13%) of a dose of digoxin is metabolized in healthy volunteers.
 The urinary metabolites, which include dihydrodigoxin, digoxigenin bisdigitoxoside, and their glucuronide and sulfate conjugates are polar in nature and are postulated to be formed via hydrolysis, oxidation, and conjugation.
 The metabolism of digoxin is not dependent upon the cytochrome P-450 system, and digoxin is not known to induce or inhibit the cytochrome P-450 system.
 
 Excretion: Elimination of digoxin follows first-order kinetics (that is, the quantity of digoxin eliminated at any time is proportional to the total body content).
-Following intravenous administration to healthy volunteers, 50 to 70% of a digoxin dose is excreted unchanged in the urine.
+Following intravenous administration to healthy volunteers, 50% to 70% of a digoxin dose is excreted unchanged in the urine.
 Renal excretion of digoxin is proportional to creatinine clearance and is largely independent of urine flow.
 In healthy volunteers with normal renal function, digoxin has a half-life of 1.5 to 2 days.
 The half-life in anuric patients is prolonged to 3.5 to 5 days.

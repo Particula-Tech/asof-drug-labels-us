@@ -37,20 +37,22 @@ Recommended Starting Digoxin Tablets Maintenance Dosage in Adults and Pediatric 
 | Age | Total Oral Maintenance Dose, mcg/kg/day (given once daily) |
 | --- | --- |
 | Adults and pediatric patients over 10 years | 3.4 to 5.1 |
-| mcg = microgram |  |
+
+mcg = microgram
 
 Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function.
 The doses are based on studies in adult patients with heart failure.
 Alternatively, the maintenance dose may be estimated by the following formula (peak body stores lost each day through elimination):
 
-Total Maintenance Dose = Loading Dose (i.e., Peak Body Stores) × % Daily Loss/100 (% Daily Loss = 14 + Creatinine clearance/5)
+Total Maintenance Dose = Loading Dose (i.e.
+Peak Body Stores) × % Daily Loss/100 (% Daily Loss = 14 + Creatinine clearance/5)
 
 Reduce the dose of digoxin tablets in patients whose lean weight is an abnormally small fraction of their total body mass because of obesity or edema.
 
 Table 3.
 Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Tablets in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Functiona
 
-| Corrected Creatinine Clearanceb | Lean Body Weightd |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |
+| Corrected Creatinine Clearanceb | Lean Body Weightd |  |  |  |  |  |  |  | Number of Days Before Steady-State Achievedc |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
 | 10 mL/min |  | 62.5* | 125 | 125 | 187.5 | 187.5 | 187.5 | 250 | 19 |
@@ -102,7 +104,7 @@ Table 5 provides average daily maintenance dose requirements for pediatric patie
 Table 5.
 Recommended Maintenance Dose (in micrograms given TWICE daily) of Digoxin Tablets in Pediatric Patients between 5 and 10 Years of Agea Based upon Lean Body Weight and Renal Functiona,b
 
-| Corrected Creatinine Clearancec | Lean Body Weight |  |  |  |  |  | Number of Days Before Steady State Achievedd |
+| Corrected Creatinine Clearancec | Lean Body Weight |  |  |  |  |  | Number of Days Before Steady-State Achievedd |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | kg | 20 | 30 | 40 | 50 | 60 |  |  |
 | 10 mL/min |  | - | 62.5 | 62.5* | 125 | 125 | 19 |
@@ -139,7 +141,7 @@ Serum digoxin concentrations may be falsely elevated by endogenous digoxin-like 
 If the assay is sensitive to these substances, consider obtaining a baseline digoxin level before starting digoxin tablets and correct post-treatment values by the reported baseline level.
 
 Obtain serum digoxin concentrations just before the next scheduled digoxin tablets dose or at least 6 hours after the last dose.
-The digoxin concentration is likely to be 10 to 25% lower when sampled right before the next dose (24 hours after dosing) compared to sampling 8 hours after dosing (using once-daily dosing).
+The digoxin concentration is likely to be 10% to 25% lower when sampled right before the next dose (24 hours after dosing) compared to sampling 8 hours after dosing (using once-daily dosing).
 However, there will be only minor differences in digoxin concentrations using twice daily dosing whether sampling is done at 8 or 12 hours after a dose.
 
 ## 2.6 Switching from Intravenous Digoxin to Oral Digoxin
@@ -149,7 +151,7 @@ When switching from intravenous to oral digoxin formulations, make allowances fo
 Table 6.
 Comparison of the Systemic Availability and Equivalent Doses of Oral and Intravenous Digoxin Tablets
 
-|  | Absolute Bioavailability | Equivalent Doses (mcg) |  |  |  |
+|  | AbsoluteBioavailability | Equivalent Doses (mcg) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Digoxin Tablets | 60 to 80% | 62.5 | 125 | 250 | 500 |
+| Digoxin Tablets | 60% to 80% | 62.5 | 125 | 250 | 500 |
 | Digoxin Intravenous Injection | 100% | 50 | 100 | 200 | 400 |
