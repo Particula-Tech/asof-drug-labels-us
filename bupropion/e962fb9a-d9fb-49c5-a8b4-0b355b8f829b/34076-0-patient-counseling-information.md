@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with bupropion hydrochloride extended-release tablets (SR) and counsel them in its appropriate use.
 
-A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions," "Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions," and "What Other Important Information Should I Know About Bupropion Hydrochloride Extended-Release Tablets (SR)?" is available for bupropion hydrochloride extended-release tablets (SR).
+A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About Bupropion Hydrochloride Extended-Release Tablets (SR)?” is available for bupropion hydrochloride extended-release tablets (SR).
 Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -22,7 +22,7 @@ Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
 Although bupropion hydrochloride extended-release tablets (SR) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
-Instruct patients to discontinue bupropion and contact a healthcare profession if they experience such symptoms [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].
+Instruct patients to discontinue bupropion and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].
 
 Severe Allergic Reactions
 
@@ -39,14 +39,14 @@ As the dose is increased during initial titration to doses above 150 mg per day,
 Angle-Closure Glaucoma
 
 Patients should be advised that taking bupropion hydrochloride extended-release tablets (SR) can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
-Pre-existing glaucoma is almost always open angle-glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
 
 Bupropion-Containing Products
 
-Educate patients that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient (bupropion hydrochloride) found in ZYBAN®, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN® or any other medications that contain bupropion (such as WELLBUTRIN®, the immediate-release formulation, and WELLBUTRIN XL® or FORFIVO XL™, the extended-release formulations, and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
-In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
+Educate patients that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient (bupropion hydrochloride) found in ZYBAN®, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN® or any other medications that contain bupropion (such as WELLBUTRIN®, the immediate-release formulation and WELLBUTRIN XL® or FORFIVO XL™, the extended-release formulations, and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
+In addition, there are a number of generic bupropion hydrochloride products for the immediate-, sustained-, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
 
@@ -68,7 +68,7 @@ Advise patients that bupropion hydrochloride is present in human milk in small a
 
 Storage Information
 
-Instruct patients to store bupropion hydrochloride extended-release tablets (SR) at room temperature, between 20°C to 25°C (68°F to 77°F) and keep the tablets dry and out of the light.
+Instruct patients to store bupropion hydrochloride extended-release tablets (SR) at room temperature, between 20° to 25°C (68° to 77°F) and keep the tablets dry and out of the light.
 
 Administration Information
 

@@ -21,17 +21,17 @@ Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled P
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Subjects Treated |
 | --- | --- |
-| Increases Compared With Placebo |  |
+| Increases Compared with Placebo |  |
 | <18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
-| Decreases Compared With Placebo |  |
+| Decreases Compared with Placebo |  |
 | 25 to 64 | 1 fewer case |
-| ≥65 | 6 fewer cases |
+| ≥ 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e. beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases [see Boxed Warning].
@@ -72,7 +72,7 @@ The risk of seizures is also related to patient factors, clinical situations, an
 Consider these risks before initiating treatment with bupropion hydrochloride extended-release tablets (SR).
 Bupropion hydrochloride extended-release tablets (SR) are contraindicated in patients with a seizure disorder, current or prior diagnosis of anorexia nervosa or bulimia, or undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4), Drug Interactions (7.3)].
 The following conditions can also increase the risk of seizure: severe head injury; arteriovenous malformation; CNS tumor or CNS infection; severe stroke; concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids); metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia); use of illicit drugs (e.g., cocaine); or abuse or misuse of prescription drugs such as CNS stimulants.
-Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/ hypnotics, or opiates.
+Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
 Incidence of Seizure with Bupropion Use
 
@@ -87,7 +87,7 @@ Assess blood pressure before initiating treatment with bupropion hydrochloride e
 The risk of hypertension is increased if bupropion hydrochloride extended-release tablets (SR) are used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
 Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
-In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared to 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
+In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared with 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
 The majority of these subjects had evidence of pre-existing hypertension.
 Three subjects (1.2%) treated with the combination of sustained-release bupropion and NTS and 1 subject (0.4%) treated with NTS had study medication discontinued due to hypertension compared with none of the subjects treated with sustained-release bupropion or placebo.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.

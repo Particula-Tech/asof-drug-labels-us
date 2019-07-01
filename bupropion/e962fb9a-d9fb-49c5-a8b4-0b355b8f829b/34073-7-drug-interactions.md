@@ -8,12 +8,12 @@ Therefore, the potential exists for drug interactions between bupropion hydrochl
 Inhibitors of CYP2B6
 
 Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposure but decrease hydroxybupropion exposure.
-Based on clinical response, dosage adjustment of bupropion hydrochloride extended-release tablets (SR) may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
+Based on clinical response, dosage adjustment of bupropion hydrochloride extended-release tablets (SR) may be necessary when co-administered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
 
 Inducers of CYP2B6
 
 Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
-Dosage increase of bupropion hydrochloride extended-release tablets (SR) may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)] but should not exceed the maximum recommended dose.
+Dosage increase of bupropion hydrochloride extended-release tablets (SR) may be necessary when co-administered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)] but should not exceed the maximum recommended dose.
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
 If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.
@@ -23,7 +23,7 @@ If bupropion is used concomitantly with a CYP inducer, it may be necessary to in
 Drugs Metabolized by CYP2D6
 
 Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
-Therefore, coadministration of bupropion hydrochloride extended-release tablets (SR) with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
+Therefore, co-administration of bupropion hydrochloride extended-release tablets (SR) with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
 Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone and flecainide).
 When used concomitantly with bupropion hydrochloride extended-release tablets (SR), it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
 
@@ -32,18 +32,18 @@ Patients treated concomitantly with bupropion hydrochloride extended-release tab
 
 Digoxin
 
-Coadministration of bupropion hydrochloride extended-release tablets (SR) with digoxin may decrease plasma digoxin levels.
+Co-administration of bupropion hydrochloride extended-release tablets (SR) with digoxin may decrease plasma digoxin levels.
 Monitor plasma digoxin levels in patients treated concomitantly with bupropion hydrochloride extended-release tablets (SR) and digoxin [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Drugs that Lower Seizure Threshold
 
-Use extreme caution when coadministering bupropion hydrochloride extended-release tablets (SR) with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
+Use extreme caution when co-administering bupropion hydrochloride extended-release tablets (SR) with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
 Use low initial doses and increase the dose gradually [see Contraindications (4), Warnings and Precautions (5.3)].
 
 ## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 
 Bupropion, levodopa, and amantadine have dopamine agonist effects.
-CNS toxicity has been reported when bupropion was coadministered with levodopa or amantadine.
+CNS toxicity has been reported when bupropion was co-administered with levodopa or amantadine.
 Adverse reactions have included restlessness, agitation, tremor, ataxia, gait disturbance, vertigo, and dizziness.
 It is presumed that the toxicity results from cumulative dopamine agonist effects.
 Use caution when administering bupropion hydrochloride extended-release tablets (SR) concomitantly with these drugs.

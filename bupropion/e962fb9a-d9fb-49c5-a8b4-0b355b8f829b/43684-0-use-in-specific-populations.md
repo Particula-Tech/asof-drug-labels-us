@@ -53,8 +53,8 @@ Safety and effectiveness in the pediatric population have not been established [
 
 ## 8.5 Geriatric Use
 
-Of the approximately 6,000 subjects who participated in clinical trials with bupropion sustained-release tablets (depression and smoking cessation trials), 275 were aged ≥65 years and 47 were aged ≥75 years.
-In addition, several hundred subjects aged ≥65 years participated in clinical trials using the immediate-release formulation of bupropion (depression trials).
+Of the approximately 6,000 subjects who participated in clinical trials with bupropion sustained-release tablets (depression and smoking cessation trials), 275 were aged ≥ 65 years and 47 were aged ≥ 75 years.
+In addition, several hundred subjects aged ≥ 65 years participated in clinical trials using the immediate-release formulation of bupropion (depression trials).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

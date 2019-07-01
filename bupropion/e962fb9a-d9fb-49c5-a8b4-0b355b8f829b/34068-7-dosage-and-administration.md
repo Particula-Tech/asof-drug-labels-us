@@ -31,7 +31,7 @@ Consider reducing the dose and/or frequency of bupropion hydrochloride extended-
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with bupropion hydrochloride extended-release tablets (SR).
 Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (SR) before starting an MAOI antidepressant [see Contraindications (4), Drug Interactions (7.6)].
 
-## 2.5 Use of Bupropion Hydrochloride Extended-Release Tablets (SR) with Reversible MAOIs such as Linezolid or Methylene Blue
+## 2.5 Use of Bupropion Hydrochloride Extended-Release Tablets (SR) with Reversible MAOIs Such as Linezolid or Methylene Blue
 
 Do not start bupropion hydrochloride extended-release tablets (SR) in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
 Drug interactions can increase the risk of hypertensive reactions.

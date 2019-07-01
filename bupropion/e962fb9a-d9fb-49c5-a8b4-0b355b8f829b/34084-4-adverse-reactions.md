@@ -23,7 +23,7 @@ The specific adverse reactions leading to discontinuation in at least 1% of the 
 Table 2.
 Treatment Discontinuations Due to Adverse Reactions in Placebo-Controlled Trials
 
-| Adverse Reaction | Placebo (n=385) | Bupropion Hydrochloride Extended-Release Tablets (SR) 300 mg/day (n=376) | Bupropion Hydrochloride Extended-Release Tablets (SR) 400 mg/day (n=114) |
+| Adverse Reaction | Placebo(n=385) | Bupropion Hydrochloride Extended-Release Tablets (SR)300 mg/day(n = 376) | Bupropion Hydrochloride Extended-Release Tablets (SR)400 mg/day(n = 114) |
 | --- | --- | --- | --- |
 | Rash | 0.0% | 2.4% | 0.9% |
 | Nausea | 0.3% | 0.8% | 1.8% |
@@ -32,7 +32,7 @@ Treatment Discontinuations Due to Adverse Reactions in Placebo-Controlled Trials
 
 Commonly Observed Adverse Reactions
 
-Adverse reactions from Table 3 occurring in at least 5% of subjects treated with bupropion hydrochloride extended-release tablets (SR) and at a rate at least twice the placebo rate are listed below for the 300- and 400-mg-per-day dose groups.
+Adverse reactions from Table 3 occurring in at least 5% of subjects treated with bupropion hydrochloride extended-release tablets (SR) and at a rate at least twice the placebo rate are listed below for the 300-mg-per-day and 400-mg-per-day dose groups.
 
 Bupropion hydrochloride extended-release tablets (SR) 300 mg per day: Anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
 
@@ -42,9 +42,9 @@ Adverse reactions reported in placebo-controlled trials are presented in Table 3
 Reported adverse reactions were classified using a COSTART-based Dictionary.
 
 Table 3.
-Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency Than Placebo in Controlled Clinical Trials
+Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in Controlled Clinical Trials
 
-| Body System/ Adverse Reaction | Bupropion Hydrochloride Extended-Release Tablets (SR) 300 mg/day (n = 376) | Bupropion Hydrochloride Extended-Release Tablets (SR) 400 mg/day (n = 114) | Placebo (n = 385) |
+| Body System/Adverse Reaction | Bupropion Hydrochloride Extended-Release Tablets (SR) 300 mg/day(n = 376) | Bupropion Hydrochloride Extended-Release Tablets (SR) 400 mg/day(n = 114) | Placebo(n = 385) |
 | --- | --- | --- | --- |
 | Body (General) |  |  |  |
 | Headache | 26% | 25% | 23% |
@@ -53,10 +53,10 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Asthenia | 2% | 4% | 2% |
 | Chest pain | 3% | 4% | 1% |
 | Pain | 2% | 3% | 2% |
-| Fever | 1% | 2% | Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of subjects.- |
+| Fever | 1% | 2% | — |
 | Cardiovascular |  |  |  |
 | Palpitation | 2% | 6% | 2% |
-| Flushing | 1% | 4% | - |
+| Flushing | 1% | 4% | — |
 | Migraine | 1% | 4% | 1% |
 | Hot flashes | 1% | 3% | 1% |
 | Digestive |  |  |  |
@@ -71,7 +71,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Myalgia | 2% | 6% | 3% |
 | Arthralgia | 1% | 4% | 1% |
 | Arthritis | 0% | 2% | 0% |
-| Twitch | 1% | 2% | - |
+| Twitch | 1% | 2% | — |
 | Nervous system |  |  |  |
 | Insomnia | 11% | 16% | 6% |
 | Dizziness | 7% | 11% | 5% |
@@ -81,7 +81,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Nervousness | 5% | 3% | 3% |
 | Somnolence | 2% | 3% | 2% |
 | Irritability | 3% | 2% | 2% |
-| Memory decreased | - | 3% | 1% |
+| Memory decreased | — | 3% | 1% |
 | Paresthesia | 1% | 2% | 1% |
 | Central nervous system stimulation | 2% | 1% | 1% |
 | Respiratory |  |  |  |
@@ -95,15 +95,16 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Urticaria | 2% | 1% | 0% |
 | Special senses |  |  |  |
 | Tinnitus | 6% | 6% | 2% |
-| Taste perversion | 2% | 4% | - |
+| Taste perversion | 2% | 4% | — |
 | Blurred vision or diplopia | 3% | 2% | 2% |
 | Urogenital |  |  |  |
 | Urinary frequency | 2% | 5% | 2% |
-| Urinary urgency |  | 2% | 0% |
-| Vaginal hemorrhageIncidence based on the number of female subjects. | 0% | 2% | - |
-| Urinary tract infection | 1% | 0% | - |
+| Urinary urgency | — | 2% | 0% |
+| Vaginal hemorrhagea | 0% | 2% | — |
+| Urinary tract infection | 1% | 0% | — |
+| a Incidence based on the number of female subjects.— Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of subjects. |  |  |  |
 
-Other Adverse Reactions Observed During the Clinical Development of Bupropion
+Other Adverse Reactions Observed during the Clinical Development of Bupropion
 
 In addition to the adverse reactions noted above, the following adverse reactions have been reported in clinical trials with the sustained-release formulation of bupropion in depressed subjects and in nondepressed smokers, as well as in clinical trials with the immediate-release formulation of bupropion.
 
@@ -142,12 +143,12 @@ Changes in Body Weight
 In placebo-controlled trials, subjects experienced weight gain or weight loss as shown in Table 4.
 
 Table 4.
-Incidence of Weight Gain and Weight Loss (≥5 lbs.) in Placebo-Controlled Trials
+Incidence of Weight Gain and Weight Loss (≥ 5 lbs) in Placebo-Controlled Trials
 
-| Weight Change | Bupropion Hydrochloride Extended- Release Tablets (SR) 300 mg/day (n = 339) | Bupropion Hydrochloride Extended- Release Tablets (SR) 400 mg/day (n = 112) | Placebo (n = 347) |
+| Weight Change | Bupropion Hydrochloride Extended-Release Tablets (SR) 300 mg/day (n = 339) | Bupropion Hydrochloride Extended-Release Tablets (SR) 400 mg/day (n = 112) | Placebo (n = 347) |
 | --- | --- | --- | --- |
-| Gained >5 lbs | 3% | 2% | 4% |
-| Lost >5 lbs | 14% | 19% | 6% |
+| Gained > 5 lbs | 3% | 2% | 4% |
+| Lost > 5 lbs | 14% | 19% | 6% |
 
 In clinical trials conducted with the immediate-release formulation of bupropion, 35% of subjects receiving tricyclic antidepressants gained weight, compared with 9% of subjects treated with the immediate-release formulation of bupropion.
 If weight loss is a major presenting sign of a patient's depressive illness, the anorectic and/or weight-reducing potential of bupropion hydrochloride extended-release tablets (SR) should be considered.
@@ -177,7 +178,7 @@ Hyperglycemia, hypoglycemia, hyponatremia, and syndrome of inappropriate antidiu
 ### Hemic and Lymphatic
 
 Anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
-Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
+Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was co-administered with warfarin.
 
 ### Metabolic and Nutritional
 

@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The exact mechanism of the antidepressant action of bupropion is not known, but is presumed to be related to noradrenergic and/or dopaminergic mechanisms.
-Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine and does not inhibit the reuptake of serotonin.
+Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin.
 Bupropion does not inhibit monoamine oxidase.
 
 ## 12.3 Pharmacokinetics
@@ -20,10 +20,10 @@ In rat and dog studies, the bioavailability of bupropion ranged from 5% to 20%.
 
 In humans, following oral administration of bupropion hydrochloride extended-release tablets (SR), peak plasma concentration (Cmax) of bupropion is usually achieved within 3 hours.
 
-In a trial comparing chronic dosing with bupropion hydrochloride extended-release tablets (SR) 150 mg twice daily to bupropion immediate-release formulation 100 mg 3 times daily, the steady state Cmax for bupropion after bupropion hydrochloride extended-release tablets (SR) administration was approximately 85% of those achieved after bupropion immediate-release formulation administration.
+In a trial comparing chronic dosing with bupropion hydrochloride extended-release tablets (SR) 150 mg twice daily to bupropion immediate-release formulation 100 mg 3 times daily, the steady-state Cmax for bupropion after bupropion hydrochloride extended-release tablets (SR) administration was approximately 85% of those achieved after bupropion immediate-release formulation administration.
 Exposure (AUC) to bupropion was equivalent for both formulations.
-Bioequivalence was also demonstrated for all three major active metabolites (i.e., hydroxybupropion, threohydrobupropion and erythrohydrobupropion) for both Cmax and AUC.
-Thus, at steady state, bupropion hydrochloride extended-release tablets (SR) given twice daily and the immediate-release formulation of bupropion given 3 times daily are essentially bioequivalent for both bupropion and the 3 quantitatively important metabolites.
+Bioequivalence was also demonstrated for all three major active metabolites (i.e. hydroxybupropion, threohydrobupropion and erythrohydrobupropion) for both Cmax and AUC.
+Thus, at steady-state, bupropion hydrochloride extended-release tablets (SR) given twice daily, and the immediate-release formulation of bupropion given 3 times daily, are essentially bioequivalent for both bupropion and the 3 quantitatively important metabolites.
 
 Bupropion hydrochloride extended-release tablets (SR) can be taken with or without food.
 Bupropion Cmax and AUC were increased by 11% to 35% and 16% to 19%, respectively, when bupropion hydrochloride extended-release tablets (SR) were administered with food to healthy volunteers in three trials.
@@ -44,8 +44,8 @@ The potency and toxicity of the metabolites relative to bupropion have not been 
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance because the plasma concentrations of the metabolites are as high as or higher than those of bupropion.
 
-Following a single dose administration of bupropion hydrochloride extended-release tablets (SR) in humans, Cmax of hydroxybupropion occurs approximately 6 hours post-dose and is approximately 10 times the peak level of the parent drug at steady state.
-The elimination half-life of hydroxybupropion is approximately 20 (±5) hours and its AUC at steady state is about 17 times that of bupropion.
+Following a single-dose administration of bupropion hydrochloride extended-release tablets (SR) in humans, Cmax of hydroxybupropion occurs approximately 6 hours post-dose and is approximately 10 times the peak level of the parent drug at steady-state.
+The elimination half-life of hydroxybupropion is approximately 20 (±5) hours and its AUC at steady-state is about 17 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of the hydroxybupropion metabolite.
 However, their elimination half-lives are longer, 33 (±10) and 37 (±13) hours, respectively, and steady-state AUCs are 1.5 and 7 times that of bupropion, respectively.
 
@@ -80,15 +80,16 @@ In subjects with severe hepatic cirrhosis, significant alterations in the pharma
 Table 5.
 Pharmacokinetics of Bupropion and Metabolites in Patients with Severe Hepatic Cirrhosis: Ratio Relative to Healthy Matched Controls
 
-|  | Cmax | AUC | t½ | Tmax Difference. |
+|  | Cmax | AUC | t½ | Tmaxa |
 | --- | --- | --- | --- | --- |
 | Bupropion | 1.69 | 3.12 | 1.43 | 0.5 h |
 | Hydroxybupropion | 0.31 | 1.28 | 3.88 | 19 h |
 | Threo/erythrohydrobupropion amino alcohol | 0.69 | 2.48 | 1.96 | 20 h |
+| a Difference. |  |  |  |  |
 
-Left Ventricular Dysfunction: During a chronic dosing trial with bupropion in 14 depressed subjects with left ventricular dysfunction (history of CHF or an enlarged heart on x- ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared with healthy volunteers.
+Left Ventricular Dysfunction: During a chronic dosing trial with bupropion in 14 depressed subjects with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared with healthy volunteers.
 
-Age: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy trials involving subjects dosed in a range of 300 to 750 mg per day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
+Age: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy trials involving subjects dosed in a range of 300 mg per day to 750 mg per day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic trial demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects.
 These data suggest there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetics trial suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations (8.5)].
 
@@ -107,7 +108,7 @@ In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine
 
 Inhibitors of CYP2B6: Ticlopidine, Clopidogrel: In a trial in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (Cmax and AUC) of bupropion by 40% and 60% for clopidogrel, and by 38% and 85% for ticlopidine, respectively.
 The exposures (Cmax and AUC) of hydroxybupropion were decreased 50% and 52%, respectively, by clopidogrel, and 78% and 84%, respectively, by ticlopidine.
-This effect is thought to be due to the inhibition of the CYP2B6- catalyzed bupropion hydroxylation.
+This effect is thought to be due to the inhibition of the CYP2B6-catalyzed bupropion hydroxylation.
 
 Prasugrel: Prasugrel is a weak inhibitor of CYP2B6.
 In healthy subjects, prasugrel increased bupropion Cmax and AUC values by 14% and 18%, respectively, and decreased Cmax and AUC values of hydroxybupropion, an active metabolite of bupropion, by 32% and 24%, respectively.
@@ -115,14 +116,14 @@ In healthy subjects, prasugrel increased bupropion Cmax and AUC values by 14% an
 Cimetidine: The threohydrobupropion metabolite of bupropion does not appear to be produced by cytochrome P450 enzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
 Following oral administration of bupropion 300 mg with and without cimetidine 800 mg, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
-However, there were 16% and 32% increases in the AUC and Cmax, respectively of the combined moieties of threohydrobupropion and erythrohydrobupropion.
+However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
 
 Citalopram: Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
 Inducers of CYP2B6: Ritonavir and Lopinavir: In a healthy volunteer trial, ritonavir 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
 
-In a second healthy volunteer trial, ritonavir 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
+In a second healthy volunteer trial, ritonavir at a dose of 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
 
 In another healthy volunteer trial, lopinavir 400 mg/ritonavir 100 mg twice daily decreased bupropion AUC and Cmax by 57%.
@@ -140,7 +141,7 @@ In one trial, following chronic administration of bupropion 100 mg three times d
 Nevertheless, there may be potential for clinically important alterations of blood levels of co-administered drugs.
 
 Drugs Metabolized by CYP2D6: In vitro, bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
-In a clinical trial of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion 300 mg per day followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
+In a clinical trial of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion 300 mg per day followed by a single-dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 
