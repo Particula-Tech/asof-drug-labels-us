@@ -34,7 +34,7 @@ In a controlled trial (Study 3) in pediatric patients (12 to 17 years), 3% of AD
 The most frequent adverse reactions leading to discontinuation in at least 1% of ADHANSIA XR-treated patients and at a rate greater that placebo was irritability (1%).
 Two patients taking ADHANSIA XR 70 or 85 mg had delirium leading to discontinuation.
 
-In a controlled trial (Study 4) in pediatric patients (6 to 12 years), 1% of of ADHANSIA XR-treated patients discontinued due to adverse reactions compared to 0% of placebo-treated patients.
+In a controlled trial (Study 4) in pediatric patients (6 to 12 years), 1% of ADHANSIA XR-treated patients discontinued due to adverse reactions compared to 0% of placebo-treated patients.
 
 Adult Patients with ADHD The most common adverse reactions (incidence of ≥5% and at least twice placebo) of ADHANSIA XR occurring in controlled trials in adults were insomnia, dry mouth, and decreased appetite.
 
@@ -45,7 +45,7 @@ Table 1: Adverse Reactions Occurring in ≥ 2% of Adult Patients with ADHD on AD
 | Adverse Reaction | ADHANSIA XR |  |  |  | All doses ADHANSIA XR | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 25 mg | 45 mg | 70 mg | 100 mg |  |  |
-| N=375 | (N=77) | (N=73) | (N=73) | (N=100) | (N=297) | (N=78) |
+| N=375 | (N=77) | (N=73) | (N=73) | (N=74) | (N=297) | (N=78) |
 | Initial Insomnia | 4% | 8% | 6% | 7% | 5% | 1% |
 | Insomnia | 17% | 11% | 16% | 19% | 13% | 4% |
 | Dry mouth | 8% | 8% | 7% | 14% | 8% | 4% |

@@ -40,7 +40,7 @@ Pregnancy Registry Advise patients that there is a pregnancy exposure registry t
 Marketed by: Adlon Therapeutics L.P.
 Stamford, CT 06901-3431 A subsidiary of Purdue Pharma L.P.
 
-Jointly Manufactured by: Glatt Air Techniques, Inc. Ramsey, NJ 07446 and Purdue Pharmaceuticals L.P.
+Manufactured by: Purdue Pharmaceuticals L.P.
 Wilson, NC 27893
 
 ADHANSIA XR™ is a trademark of Purdue Pharma L.P.

@@ -10,7 +10,7 @@ Assess the risk of abuse prior to prescribing, and monitor for signs of abuse an
 Sudden death, stroke and myocardial infarction have occurred in adults treated with CNS stimulant treatment at recommended doses.
 Sudden death has occurred in pediatric patients with structural cardiac abnormalities and other serious cardiac problems taking CNS stimulants at recommended doses for ADHD.
 Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious heart arrhythmia, coronary artery disease, and other serious heart problems.
-Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during treatment during ADHANSIA XR treatment.
+Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during ADHANSIA XR treatment.
 
 ## 5.3 Blood Pressure and Heart Rate Increases
 

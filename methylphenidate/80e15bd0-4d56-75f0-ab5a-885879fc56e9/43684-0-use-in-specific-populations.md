@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHANSIA XR during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388.
 
-Risk Summary Published studies and post-marketing reports on methylphenidate use during pregnancy are insufficient to identify a drug-associated risk of major birth defects, miscarriage or adverse maternal of fetal outcomes.
+Risk Summary Published studies and post-marketing reports on methylphenidate use during pregnancy are insufficient to identify a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 There are risks to the fetus associated with the use of central nervous system (CNS) stimulants during pregnancy (see Clinical Considerations).
 No effects on morphological development were observed in embryo-fetal studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis at doses up to 7 and 11 times, respectively, the maximum recommended human dose (MRHD) of 85 mg/day given to adolescents on a mg/m2 basis.
 However, fetal spina bifida was observed in rabbits at a dose 36 times the MRHD given to adolescents.
