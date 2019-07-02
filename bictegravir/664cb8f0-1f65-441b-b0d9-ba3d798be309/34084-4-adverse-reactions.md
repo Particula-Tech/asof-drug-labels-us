@@ -20,7 +20,7 @@ The most common adverse reactions (all Grades) reported in at least 5% of subjec
 The proportion of subjects who discontinued treatment with BIKTARVY, abacavir [ABC]/dolutegravir [DTG]/ lamivudine [3TC]), or DTG + FTC/TAF, due to adverse events, regardless of severity, was 1%, 1%, and <1%, respectively.
 Table 1 displays the frequency of adverse reactions (all Grades) greater than or equal to 2% in the BIKTARVY group.
 
-Table 1 Adverse Reactions Frequencies of adverse reactions are based on all adverse events attributed to trial drugs by the investigator.
+Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to trial drugs by the investigator.
 No adverse reactions of Grade 2 or higher occurred in ≥ 1% of subjects treated with BIKTARVY.
 (All Grades) Reported in ≥ 2% of HIV-1 Infected Adults with No Antiretroviral Treatment History Receiving BIKTARVY in Trials 1489 or 1490 (Week 48 analysis)
 
@@ -52,14 +52,14 @@ The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2
 
 Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects Receiving BIKTARVY in Trials 1489 or 1490 (Week 48 analysis)
 
-| Laboratory Parameter Abnormality Frequencies are based on treatment-emergent laboratory abnormalities. | BIKTARVY N=314 | ABC/DTG/3TC N=315 | BIKTARVY N=320 | DTG + FTC/TAF N=325 |
+| Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities. | BIKTARVY N=314 | ABC/DTG/3TC N=315 | BIKTARVY N=320 | DTG + FTC/TAF N=325 |
 | --- | --- | --- | --- | --- |
 |  | Trial 1489 |  | Trial 1490 |  |
 | Amylase (>2.0 × ULN) | 2% | 2% | 2% | 2% |
 | ALT (>5.0 × ULN) | 1% | 1% | 2% | 1% |
 | AST (>5.0 × ULN) | 2% | 1% | 1% | 3% |
 | Creatine Kinase (≥10.0 × ULN) | 4% | 3% | 4% | 2% |
-| Neutrophils (<750 mm 3) | 2% | 3% | 2% | 1% |
+| Neutrophils (<750 mm3) | 2% | 3% | 2% | 1% |
 | LDL-cholesterol (fasted) (>190 mg/dL) | 2% | 3% | 3% | 3% |
 | ULN = Upper limit of normal |  |  |  |  |
 
@@ -73,3 +73,23 @@ Increases were primarily Grade 1 (1.0 to 1.5 × ULN) (9%) and Grade 2 (1.5 to 2.
 Graded bilirubin increases in the ABC/DTG/3TC, and DTG + FTC/TAF groups, were 4% and 6%, respectively.
 Increases were primarily Grade 1 (3% ABC/DTG/3TC and 5% DTG + FTC/TAF) or Grade 2 (1% ABC/DTG/3TC and 1% DTG + FTC/TAF).
 There were no discontinuations due to hepatic adverse events through Week 48 in BIKTARVY clinical studies.
+
+Clinical Trials in Pediatric Subjects
+
+The safety of BIKTARVY was evaluated in HIV-1 infected virologically-suppressed subjects between the ages of 12 to less than 18 years and weighing at least 35 kg (N=50) through Week 48 (cohort 1), and in virologically-suppressed subjects between the ages of 6 to less than 12 years and weighing at least 25 kg (N=50) through Week 24 (cohort 2) in an open label clinical trial (Trial 1474) [see Clinical Studies (14.4)].
+No new adverse reactions or laboratory abnormalities were identified compared to those observed in adults.
+Adverse reactions were reported in 10% of pediatric subjects.
+The majority (85%) of adverse reactions were Grade 1.
+No Grade 3 or 4 adverse reactions were reported.
+The adverse reaction reported by more than one subject (regardless of severity) was abdominal pain (n=2).
+One subject (1%) had Grade 2 adverse reactions of insomnia and anxiety that led to discontinuation of BIKTARVY.
+The other adverse reactions that occurred in single subjects were similar to those seen in adults.
+
+## 6.2 Postmarketing Experience
+
+The following events have been identified during post approval use of products containing TAF.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Subcutaneous Tissue Disorders
+
+Angioedema and urticaria

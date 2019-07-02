@@ -73,7 +73,12 @@ Tenofovir was excreted into the milk of lactating monkeys following a single sub
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of BIKTARVY in pediatric patients less than 18 years of age have not been established.
+The safety and effectiveness of BIKTARVY for the treatment of HIV-1 infection was established in pediatric patients with body weight greater than or equal to 25 kg [see Indications and Usage (1) and Dosage and Administration (2.2)].
+
+Use of BIKTARVY in pediatric patients between the ages of 6 to less than 18 years and weighing at least 25 kg is supported by trials in adults and by an open-label trial in virologically-suppressed pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg receiving BIKTARVY through Week 48 (cohort 1 of Trial 1474, N=50) and in virologically-suppressed pediatric subjects aged 6 to less than 12 years and weighing at least 25 kg receiving BIKTARVY through Week 24 (cohort 2 of Trial 1474, N=50).
+The safety and efficacy of BIKTARVY in these pediatric subjects was similar to that in adults, and there was no clinically significant change in exposure for the components of BIKTARVY [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+
+Safety and effectiveness of BIKTARVY in pediatric patients weighing less than 25 kg have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -81,8 +86,8 @@ Clinical trials of BIKTARVY did not include sufficient numbers of subjects aged 
 
 ## 8.6 Renal Impairment
 
-BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance (CL cr) below 30 mL per minute, estimated by Cockcroft-Gault (C-G).
-No dosage adjustment of BIKTARVY is recommended in patients with CL cr greater than or equal to 30 mL per minute [see Dosage and Administration (2.3)].
+BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance (CLcr) below 30 mL per minute, estimated by Cockcroft-Gault (C-G).
+No dosage adjustment of BIKTARVY is recommended in patients with CLcr greater than or equal to 30 mL per minute [see Dosage and Administration (2.3)].
 
 ## 8.7 Hepatic Impairment
 

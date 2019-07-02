@@ -10,7 +10,7 @@ In patients with chronic kidney disease, also assess serum phosphorus [see Warni
 ## 2.2 Recommended Dosage
 
 BIKTARVY is a three-drug fixed dose combination product containing 50 mg of bictegravir (BIC), 200 mg of emtricitabine (FTC), and 25 mg of tenofovir alafenamide (TAF).
-The recommended dosage of BIKTARVY is one tablet taken orally once daily with or without food [see Clinical Pharmacology (12.3)].
+The recommended dosage of BIKTARVY is one tablet taken orally once daily with or without food in adults and pediatric patients weighing at least 25 kg [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Not Recommended in Patients with Severe Renal Impairment
 

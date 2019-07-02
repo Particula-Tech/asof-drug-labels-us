@@ -13,7 +13,7 @@ BIKTARVY may interact with certain drugs; therefore, advise patients to report t
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.2)].
+Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.3)].
 
 Renal Impairment
 
@@ -23,7 +23,7 @@ Renal impairment including cases of acute renal failure has been reported in ass
 Lactic Acidosis and Severe Hepatomegaly
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to BIKTARVY.
-Advise patients that they should stop BIKTARVY if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.3)].
+Advise patients that they should stop BIKTARVY if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.5)].
 
 Missed Dosage
 
