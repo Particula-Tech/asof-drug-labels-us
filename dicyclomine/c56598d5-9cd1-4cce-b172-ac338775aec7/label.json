@@ -1,28 +1,15 @@
 {
   "application_numbers": [
-    "NDA007409",
     "NDA008370"
   ],
   "inn": "dicyclomine",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
-    "58914-012-10",
-    "58914-013-10",
     "58914-080-52"
   ],
   "products": [
     {
-      "form": "CAPSULE",
-      "generic": "dicyclomine hydrochloride",
-      "name": "Bentyl"
-    },
-    {
       "form": "INJECTION, SOLUTION",
-      "generic": "dicyclomine hydrochloride",
-      "name": "Bentyl"
-    },
-    {
-      "form": "TABLET",
       "generic": "dicyclomine hydrochloride",
       "name": "Bentyl"
     }
