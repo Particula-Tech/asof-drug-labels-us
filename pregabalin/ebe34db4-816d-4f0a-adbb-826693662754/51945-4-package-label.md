@@ -1,0 +1,127 @@
+# PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1342-1 90 Capsules
+
+GREENSTONE® BRAND
+
+pregabalin capsules CV
+
+25 mg
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1344-1 90 Capsules
+
+GREENSTONE® BRAND
+
+pregabalin capsules CV
+
+50 mg
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1346-1 90 Capsules
+
+GREENSTONE® BRAND
+
+pregabalin capsules CV
+
+75 mg
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1348-1 90 Capsules
+
+GREENSTONE® BRAND
+
+pregabalin capsules CV
+
+100 mg
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1351-1 90 Capsules
+
+GREENSTONE® BRAND
+
+pregabalin capsules CV
+
+150 mg
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1354-1 90 Capsules
+
+GREENSTONE® BRAND
+
+pregabalin capsules CV
+
+200 mg
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 225 mg Capsule Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1360-1 90 Capsules
+
+GREENSTONE® BRAND
+
+pregabalin capsules CV
+
+225 mg
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1364-1 90 Capsules
+
+GREENSTONE® BRAND
+
+pregabalin capsules CV
+
+300 mg
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1576-1 16 fl oz (473 mL)
+
+GREENSTONE® BRAND
+
+pregabalin oral solution CV
+
+20 mg per mL
+
+for oral use only
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Carton
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1576-1 16 fl oz (473 mL)
+
+GREENSTONE® BRAND
+
+pregabalin oral solution CV
+
+20 mg per mL
+
+for oral use only
+
+Rx only
