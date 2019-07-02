@@ -32,25 +32,7 @@ For Intravenous Infusion Only READY TO ADD TO INFUSION SOLUTION
 
 CAUTION: Cytotoxic Agent
 
-Contains 4 mL Single-Use Vial
-
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
-
-Actavis
-
-Rx Only
-
-NDC 45963-781-74
-
-Docetaxel Injection
-
-140 mg/7 mL 20 mg/mL
-
-For Intravenous Infusion Only READY TO ADD TO INFUSION SOLUTION
-
-CAUTION: Cytotoxic Agent
-
-Contains 7 mL Single-Use Vial
+Contains 1 mL Single-Use Vial
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
@@ -68,4 +50,4 @@ For Intravenous Infusion Only READY TO ADD TO INFUSION SOLUTION
 
 CAUTION: Cytotoxic Agent
 
-Contains 8 mL Single-Use Vial
+Contains 1 mL Single-Use Vial

@@ -70,10 +70,10 @@ Single Arm Studies
 
 Docetaxel Injection at a dose of 100 mg/m2 was studied in six single arm studies involving a total of 309 patients with metastatic breast cancer in whom previous chemotherapy had failed.
 Among these, 190 patients had anthracycline-resistant breast cancer, defined as progression during an anthracycline-containing chemotherapy regimen for metastatic disease, or relapse during an anthracycline-containing adjuvant regimen.
-In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% CI: 31.0 to 44.8) and the complete response rate was 2.1%.
+In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% C.I.: 31.0 to 44.8) and the complete response rate was 2.1%.
 
 Docetaxel Injection was also studied in three single arm Japanese studies at a dose of 60 mg/m2, in 174 patients who had received prior chemotherapy for locally advanced or metastatic breast cancer.
-Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% CI: 17.2 to 55.7), similar to the response rate in single arm studies of 100 mg/m2.
+Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% C.I.: 17.2 to 55.7), similar to the response rate in single arm studies of 100 mg/m2.
 
 ## 14.2 Adjuvant Treatment of Breast Cancer
 
@@ -112,7 +112,7 @@ Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
-The efficacy and safety of Docetaxel Injection has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naive.
+The efficacy and safety of Docetaxel Injection has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naïve.
 
 Monotherapy with Docetaxel Injection for NSCLC Previously Treated with Platinum-Based Chemotherapy
 
@@ -161,7 +161,7 @@ In the second study (TAX320) the rate of survival at one year favored Docetaxel 
 
 Patients treated with Docetaxel Injection at a dose of 75 mg/m2 experienced no deterioration in performance status and body weight relative to the comparator arms used in these trials.
 
-Combination Therapy with Docetaxel Injection for Chemotherapy-Naive NSCLC
+Combination Therapy with Docetaxel Injection for Chemotherapy-Naïve NSCLC
 
 In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: Docetaxel Injection 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6 to 10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of Docetaxel Injection and carboplatin.
 
@@ -171,7 +171,7 @@ The 95% confidence interval of the hazard ratio (adjusted for interim analysis a
 The results of a further statistical analysis showed that at least (the lower bound of the 95% confidence interval) 62% of the known survival effect of vinorelbine when added to cisplatin (about a 2-month increase in median survival; Wozniak et al. JCO, 1998) was maintained.
 The efficacy data for the Docetaxel Injection+cisplatin arm and the comparator arm are summarized in Table 16.
 
-Table 16 - Survival Analysis of Docetaxel Injection in Combination Therapy for Chemotherapy-Naive NSCLC
+Table 16 - Survival Analysis of Docetaxel Injection in Combination Therapy for Chemotherapy-Naïve NSCLC
 
 |  | n=408 | n=405 |
 | --- | --- | --- |
@@ -180,15 +180,15 @@ Table 16 - Survival Analysis of Docetaxel Injection in Combination Therapy for C
 | p-valuea | 0.122 |  |
 | Estimated Hazard Ratiob | 0.88 |  |
 | Adjusted 95% CIc | (0.74, 1.06) |  |
-| a From the superiority test (stratified log rank) comparing Docetaxel Injection+cisplatin to vinorelbine+cisplatin |  |  |
-| bHazard ratio of Docetaxel Injection+cisplatin vs. vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that Docetaxel Injection+cisplatin is associated with a longer survival. |  |  |
+| a From the superiority test (stratified log rank) comparing docetaxel injection+cisplatin to vinorelbine+cisplatin |  |  |
+| bHazard ratio of docetaxel injection+cisplatin vs. vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that docetaxel injection+cisplatin is associated with a longer survival. |  |  |
 | cAdjusted for interim analysis and multiple comparisons. |  |  |
 
 The second comparison in the same three-arm study, vinorelbine+cisplatin versus Docetaxel Injection+carboplatin, did not demonstrate superior survival associated with the Docetaxel Injection arm (Kaplan-Meier estimate of median survival was 9.1 months for Docetaxel Injection+carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the Docetaxel Injection+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
 Secondary endpoints evaluated in the trial included objective response and time to progression.
 There was no statistically significant difference between Docetaxel Injection+cisplatin and vinorelbine+cisplatin with respect to objective response and time to progression (see Table 17).
 
-Table 17 - Response and TTP Analysis of Docetaxel Injection in Combination Therapy for Chemotherapy-Naive NSCLC
+Table 17 - Response and TTP Analysis of Docetaxel Injection in Combination Therapy for Chemotherapy-Naïve NSCLC
 
 | Endpoint | Docetaxel Injection+Cisplatin | Vinorelbine+Cisplatin | p-value |
 | --- | --- | --- | --- |
@@ -200,9 +200,9 @@ Table 17 - Response and TTP Analysis of Docetaxel Injection in Combination Thera
 | aAdjusted for multiple comparisons. |  |  |  |
 | bKaplan-Meier estimates. |  |  |  |
 
-## 14.4 Castration-Resistant Prostate Cancer
+## 14.4 Hormone Refractory Prostate Cancer
 
-The safety and efficacy of Docetaxel Injection in combination with prednisone in patients with metastatic castration-resistant prostate cancer were evaluated in a randomized multicenter active control trial.
+The safety and efficacy of Docetaxel Injection in combination with prednisone in patients with androgen independent (hormone refractory) metastatic prostate cancer were evaluated in a randomized multicenter active control trial.
 A total of 1006 patients with Karnofsky Performance Status (KPS) ≥60 were randomized to the following treatment groups:
 
 - Docetaxel Injection 75 mg/m2 every 3 weeks for 10 cycles.
@@ -215,7 +215,7 @@ In the Docetaxel Injection every three week arm, a statistically significant ove
 In the Docetaxel Injection weekly arm, no overall survival advantage was demonstrated compared to the mitoxantrone control arm.
 Efficacy results for the Docetaxel Injection every 3 week arm versus the control arm are summarized in Table 18 and Figure 5.
 
-Table 18 - Efficacy of Docetaxel Injection in the Treatment of Patients with Metastatic Castration-Resistant Prostate Cancer (Intent-to-Treat Analysis)
+Table 18 - Efficacy of Docetaxel Injection in the Treatment of Patients with Androgen Independent (Hormone Refractory) Metastatic Prostate Cancer (Intent-to-Treat Analysis)
 
 |  | every 3 weeks | every 3 weeks |
 | --- | --- | --- |
@@ -260,7 +260,7 @@ Table 19 - Efficacy of Docetaxel Injection in the treatment of patients with Gas
 | Overall Response Rate (CR+PR) (%) | 36.7 | 25.4 |
 | p-value | 0.0106 |  |
 | *Unstratified log-rank test |  |  |
-| †For the hazard ratio (TCF/CF), values less than 1.00 favor the Docetaxel Injection arm. |  |  |
+| †For the hazard ratio (TCF/CF), values less than 1.00 favor the docetaxel injection arm. |  |  |
 
 Subgroup analyses were consistent with the overall results across age, gender and race.
 
@@ -309,7 +309,7 @@ Table 20 - Efficacy of Docetaxel Injection in the Induction Treatment of Patient
 | treatment [chemotherapy +/- radiotherapy] (%) | 72.3 | 58.6 |
 | (95%CI) | (65.1 to 78.8) | (51.0 to 65.8) |
 | ***p-value | 0.006 |  |
-| A Hazard ratio of less than 1 favors Docetaxel Injection+Cisplatin+Fluorouracil |  |  |
+| A Hazard ratio of less than 1 favors docetaxel injection+Cisplatin+Fluorouracil |  |  |
 | * Stratified log-rank test based on primary tumor site |  |  |
 | ** Stratified log-rank test, not adjusted for multiple comparisons |  |  |
 | *** Chi square test, not adjusted for multiple comparisons |  |  |
@@ -333,7 +333,7 @@ Overall survival results are presented in Table 21 and Figure 10.
 
 Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| Endpoint | n=255 | n=246 |
+| ENDPOINT | n=255 | n=246 |
 | --- | --- | --- |
 |  | Docetaxel Injection + | Cisplatin+ |
 |  | Cisplatin+ Fluorouracil | Fluorouracil |
@@ -342,6 +342,6 @@ Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patient
 | Hazard ratio: | 0.70 |  |
 | (95% CI) | (0.54 to 0.90) |  |
 | *p-value | 0.0058 |  |
-| A Hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil |  |  |
+| A Hazard ratio of less than 1 favors docetaxel injection+cisplatin+fluorouracil |  |  |
 | * un-adjusted log-rank test |  |  |
 | NE - not estimable |  |  |
