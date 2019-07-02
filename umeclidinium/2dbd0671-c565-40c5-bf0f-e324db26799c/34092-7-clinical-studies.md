@@ -61,7 +61,7 @@ The primary endpoint was change from baseline in trough (predose) FEV1 at Day 16
 The comparison of ANORO ELLIPTA with umeclidinium 62.5 mcg and vilanterol 25 mcg was assessed to evaluate the contribution of the individual comparators to ANORO ELLIPTA.
 ANORO ELLIPTA demonstrated a larger increase in mean change from baseline in trough (predose) FEV1 relative to placebo, umeclidinium 62.5 mcg, and vilanterol 25 mcg (Table 2).
 
-Table.
+Table 2.
 Least Squares Mean Change from Baseline in Trough FEV1 (mL) at Day 169 in the Intent-to-Treat Population (Trial 1)
 
 | Treatment | n | Trough FEV1 (mL) at Day 169 |  |  |
@@ -108,10 +108,10 @@ The benefit of umeclidinium on exacerbations is not expected to diminish when co
 
 ANORO ELLIPTA and COPD Exacerbations: In Trial 6, the primary efficacy analysis of the rate of moderate/severe exacerbations, treatment with fluticasone furoate/umeclidinium/vilanterol statistically significantly reduced the on-treatment annual rate of moderate/severe exacerbations by 25% compared with ANORO ELLIPTA (Table 3).
 
-Table.
+Table 3.
 Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations (Trial 6)a
 
-| Treatment | n | Mean Annual Rate (exacerbations/year) | FF/UMEC/VI Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |  |  |  |  |  |
+| Treatment | n | Mean Annual Rate(exacerbations/year) | FF/UMEC/VI Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FF/UMEC/VI | 4,145 | 0.91 |  |  |  |  |  |  |  |  |
 | FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |  |  |  |  |  |

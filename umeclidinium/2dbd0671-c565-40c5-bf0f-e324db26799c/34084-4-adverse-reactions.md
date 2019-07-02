@@ -28,7 +28,7 @@ At screening, the mean postbronchodilator percent predicted forced expiratory vo
 
 Subjects received 1 dose once daily of the following: ANORO ELLIPTA, umeclidinium/vilanterol 125 mcg/25 mcg, umeclidinium 62.5 mcg, umeclidinium 125 mcg, vilanterol 25 mcg, active control, or placebo.
 
-Table.
+Table 1.
 Adverse Reactions with ANORO ELLIPTA with ≥1% Incidence and More Common than Placebo in Subjects with Chronic Obstructive Pulmonary Disease
 
 | Adverse Reaction | ANORO ELLIPTA(n = 842)% | Umeclidinium62.5 mcg(n = 418)% | Vilanterol25 mcg(n = 1,034)% | Placebo(n = 555)% |
