@@ -16,3 +16,8 @@ Use within 30 days.
 Keep out of reach of children.
 
 Rx only.
+
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+
+Rev.
+03-2018-02
