@@ -6,7 +6,7 @@ Corticosteroids play a role in cellular signaling, immune function, inflammation
 
 ## 12.2 Pharmacodynamics
 
-Vasoconstrictor Assay
+### Vasoconstrictor Assay
 
 Trials performed with betamethasone dipropionate ointment (augmented), 0.05% indicate that it is in the super-high range of potency as demonstrated in vasoconstrictor trials in healthy subjects when compared with other topical corticosteroids.
 However, similar blanching scores do not necessarily imply therapeutic equivalence.
@@ -15,7 +15,7 @@ However, similar blanching scores do not necessarily imply therapeutic equivalen
 
 No pharmacokinetics trials have been conducted with betamethasone dipropionate ointment (augmented), 0.05%.
 
-The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings [see Dosage and Administration (2)].
+The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
 
 Topical corticosteroids can be absorbed through normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.

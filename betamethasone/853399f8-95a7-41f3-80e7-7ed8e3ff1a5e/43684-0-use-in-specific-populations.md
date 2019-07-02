@@ -2,19 +2,38 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Betamethasone dipropionate ointment (augmented), 0.05% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no available data on betamethasone dipropionate ointment (augmented), 0.05% use in pregnant women to identify a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
-Betamethasone dipropionate has been shown to be teratogenic in rabbits when given by the intramuscular route at doses of 0.05 mg/kg.
+Observational studies suggest an increased risk of low birthweight infants with the use of greater than 300 grams of potent or very potent topical corticosteroid during a pregnancy.
+Advise pregnant women that betamethasone dipropionate ointment (augmented), 0.05% may increase the risk of having a low birthweight infant and to use betamethasone dipropionate ointment (augmented), 0.05% on the smallest area of skin and for the shortest duration possible.
+
+In animal reproduction studies, increased malformations, including umbilical hernias, cephalocele, and cleft palate, were observed after intramuscular administration of betamethasone dipropionate to pregnant rabbits.
+The available data do not allow the calculation of relevant comparisons between the systemic exposure of betamethasone dipropionate in animal studies to the systemic exposure that would be expected in humans after topical use of betamethasone dipropionate ointment (augmented), 0.05% (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
+
+Betamethasone dipropionate has been shown to cause malformations in rabbits when given by the intramuscular route at doses of 0.05 mg/kg.
 The abnormalities observed included umbilical hernias, cephalocele, and cleft palate.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Systemically administered corticosteroids appear in human milk and can suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-It is not known whether topical administration of corticosteroids can result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when betamethasone dipropionate ointment (augmented), 0.05% is administered to a nursing woman.
+There are no data regarding the presence of betamethasone dipropionate in human milk, the effects on the breastfed infant, or the effects on milk production after topical application of betamethasone dipropionate ointment (augmented), 0.05% to women who are breastfeeding.
+
+It is possible that topical administration of betamethasone dipropionate could result in sufficient systemic absorption to produce detectable quantities in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for betamethasone dipropionate ointment (augmented), 0.05% and any potential adverse effects on the breastfed infant from betamethasone dipropionate ointment (augmented), 0.05% or from the underlying maternal condition.
+
+Clinical Considerations
+
+To minimize potential exposure to the breastfed infant via breast milk, use betamethasone dipropionate ointment (augmented), 0.05% on the smallest area of skin and for the shortest duration possible while breastfeeding.
+Advise breastfeeding women not to apply betamethasone dipropionate ointment (augmented), 0.05% directly to the nipple and areola to avoid direct infant exposure [see Use in Specific Populations (8.4)].
 
 ## 8.4 Pediatric Use
 
