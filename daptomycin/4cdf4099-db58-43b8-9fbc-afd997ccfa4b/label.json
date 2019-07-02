@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212513"
+  ],
+  "inn": "daptomycin",
+  "labeler": "BE Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71839-107-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "daptomycin"
+    }
+  ],
+  "setid": "4cdf4099-db58-43b8-9fbc-afd997ccfa4b",
+  "source": "dailymed"
+}
