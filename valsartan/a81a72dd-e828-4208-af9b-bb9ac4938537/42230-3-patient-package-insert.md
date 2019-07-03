@@ -39,8 +39,8 @@ Tell your doctor about all your medical conditions including whether you:
 - are pregnant or planning to become pregnant.
   See "What is the most important information I should know about valsartan tablets?"
 - are breastfeeding.
-  It is not known if valsartan passes into your breast milk.
-  You and your doctor should decide if you will take valsartan tablets or breastfeed, but not both.
+  It is not known if valsartan passes into your breast milk, or effects your breastfed baby or milk production.
+  Do not breastfeed while you are taking valsartan tablets.
   Talk with your doctor about the best way to feed your baby if you take valsartan tablets.
 - have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
@@ -152,4 +152,4 @@ Aurobindo Pharma Limited
 
 Hyderabad-500 038, India
 
-Revised: 05/2018
+Revised: 06/2019
