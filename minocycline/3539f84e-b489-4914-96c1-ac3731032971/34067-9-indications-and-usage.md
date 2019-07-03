@@ -18,7 +18,7 @@ Nongonococcal urethritis, endocervical, or rectal infections in adults caused by
 
 Relapsing fever due to Borrelia recurrentis.
 
-Chancroid caused by Haemophilus ducreyi.
+Relapsing fever due to Borrelia recurrentis.
 
 Plague due to Yersinia pestis.
 
@@ -68,7 +68,7 @@ Listeriosis due to Listeria monocytogenes.
 
 Anthrax due to Bacillus anthracis.
 
-Vincent's infection caused by Fusobacterium fusiforme.
+Vincent’s infection caused by Fusobacterium fusiforme.
 
 Actinomycosis caused by Actinomyces israelii.
 

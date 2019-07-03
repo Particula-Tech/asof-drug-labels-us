@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Due to oral minocycline's virtually complete absorption, side effects to the lower bowel, particularly diarrhea, have been infrequent.
+Due to oral minocycline’s virtually complete absorption, side effects to the lower bowel, particularly diarrhea, have been infrequent.
 The following adverse reactions have been observed in patients receiving tetracyclines.
 
 Body as a whole: Fever, and discoloration of secretions.

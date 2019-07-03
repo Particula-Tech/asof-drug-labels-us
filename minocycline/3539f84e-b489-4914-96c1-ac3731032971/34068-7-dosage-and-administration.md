@@ -8,11 +8,11 @@ Minocycline hydrochloride tablets may be taken with or without food (See CLINICA
 Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline-class is recommended to reduce the risk of esophageal irritation and ulceration.
 The tablets should be swallowed whole.
 
-For Pediatric Patients Above 8 Years Of Age
+## For Pediatric Patients Above 8 Years Of Age
 
 Usual pediatric dose: 4 mg/kg initially followed by 2 mg/kg every 12 hours, not to exceed the usual adult dose.
 
-Adults
+## Adults
 
 The usual dosage of minocycline hydrochloride tablets is 200 mg initially followed by 100 mg every 12 hours.
 Alternatively, if more frequent doses are preferred, two or four 50 mg tablets may be given initially followed by one 50 mg tablet 4 times daily.

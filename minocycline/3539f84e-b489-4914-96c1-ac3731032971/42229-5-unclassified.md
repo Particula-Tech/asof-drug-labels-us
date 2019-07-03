@@ -1,8 +1,12 @@
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of minocycline hydrochloride tablets, USP and other antibacterial drugs, minocycline hydrochloride tablets, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
+# PATIENT INFORMATION
+
 PATIENT INFORMATION
 
-MINOCYCLINE HYDROCHLORIDE (Mi-no-syk-lin hi-droh-clor-ride) TABLETS, USP
+MINOCYCLINE HYDROCHLORIDE
+
+(Mi-no-syk-lin hi-droh-clor-ride) TABLETS, USP
 
 50 mg, 75 mg and 100 mg
 
@@ -29,15 +33,11 @@ Do not take minocycline hydrochloride tablets, USP if you are allergic to minocy
 
 Ask your doctor or pharmacist for a list of these medications if you are not sure.
 See the end of this leaflet for a complete list of ingredients in minocycline hydrochloride tablets, USP.
-
 Minocycline hydrochloride tablets, USP are not recommended for pregnant women or children up to 8 years old because:
 
-1.
-Minocycline hydrochloride tablets, USP may harm an unborn baby
-
-2.
-Minocycline hydrochloride tablets, USP may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
-Tooth development happens in the last half of pregnancy and birth to age 8 years.
+1. Minocycline hydrochloride tablets, USP may harm an unborn baby
+2. Minocycline hydrochloride tablets, USP may permanently turn a baby’s or child’s teeth yellow-gray-brown during tooth development.
+   Tooth development happens in the last half of pregnancy and birth to age 8 years.
 
 What should I tell my doctor before starting minocycline hydrochloride tablets, USP?
 
@@ -71,8 +71,11 @@ How should I take minocycline hydrochloride tablets, USP?
 
 - Take minocycline hydrochloride tablets, USP exactly as your doctor tells you to take them.
   Skipping doses or not taking all your minocycline hydrochloride tablets, USP may:
-- Decrease the effectiveness of the treatment.
-- Increase the chance that bacteria will develop resistance to minocycline hydrochloride tablets, USP.
+
+ο Decrease the effectiveness of the treatment.
+
+ο Increase the chance that bacteria will develop resistance to minocycline hydrochloride tablets, USP.
+
 - Take minocycline hydrochloride tablets, USP with a full glass of liquid.
   Taking minocycline hydrochloride tablets, USP with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
   Your esophagus is the tube that connects your mouth to your stomach.
@@ -88,7 +91,7 @@ Stop minocycline hydrochloride tablets, USP and call your doctor if you have:
 - watery diarrhea
 - bloody stools
 - stomach cramps
-- unusual headaches
+- unusyal headaches
 - blurred vision
 - fever
 - rash
@@ -129,7 +132,6 @@ It may harm them.
 This Patient Information leaflet summarizes the most important information about minocycline hydrochloride tablets, USP.
 
 If you would like more information, talk with your doctor.
-
 Your doctor or pharmacist can give you information about minocycline hydrochloride tablets, USP that is written for health care professionals.
 For more information, you can also call Torrent Pharmaceuticals Inc. at 1-269-544-2299.
 
@@ -143,12 +145,20 @@ This Patient information has been approved by the U.S. Food and Drug Administrat
 
 Trademarks are the property of their respective owners.
 
-Manufactured by
+Manufactured by:
 
 Ohm Laboratories Inc., North Brunswick, NJ 08902.
 
-Manufactured for
-
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
-
 8064300 Revised May 2017
+
+​Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD.
+
+Bharuch-392130, INDIA.
+
+8065295 Revised May 2018
+
+​Manufactured for:
+
+​TORRENT PHARMA INC., Basking Ridge, NJ 07920.
