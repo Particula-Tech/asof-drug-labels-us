@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA205421"
+  ],
+  "inn": "febuxostat",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-190-08",
+    "46708-190-10",
+    "46708-190-30",
+    "46708-190-31",
+    "46708-190-91",
+    "46708-191-06",
+    "46708-191-10",
+    "46708-191-30",
+    "46708-191-31",
+    "46708-191-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "febuxostat",
+      "name": "Febuxostat"
+    }
+  ],
+  "setid": "41a95424-046e-413b-a121-cd7335e67135",
+  "source": "dailymed"
+}
