@@ -105,7 +105,7 @@ Table 2 – Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 | Vaginal Bleeding | 167 (5) | 317 (10) | 0.50 | 0.41 - 0.61 |
 | Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 - 1.60 |
 | Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 - 0.30 |
-| Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 - 0.80 |
+| Venous Thromboembolic Events | 87 (3) | 140 (5) | 0.61 | 0.47 - 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 - 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 - 0.97 |
 | Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 - 0.94 |
@@ -247,7 +247,7 @@ Anastrozole tablets were tolerated in two controlled clinical trials (i.e., Tria
 The principal adverse reaction more common with anastrozole tablets than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
 
-Table 5 – Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005
+Table 5 – Number (n) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005
 
 | Adverse ReactionA patient may have had more than one adverse reaction. | Anastrozole tablets 1 mg (N=262) n (%) | Anastrozole tablets 10 mg (N=246) n (%) | Megestrol Acetate 160 mg (N=253) n (%) |
 | --- | --- | --- | --- |
@@ -328,5 +328,5 @@ The following have been reported in post-approval use of anastrozole tablets:
 
 - Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
-- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
+- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4)]
 - Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
