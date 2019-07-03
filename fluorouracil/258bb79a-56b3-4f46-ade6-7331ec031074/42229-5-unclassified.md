@@ -1,5 +1,5 @@
-Revised March 2012
+Revised July 2016
 
-Manufactured for: Aqua Pharmaceuticals West Chester, PA 19380, U.S.A. By: Contract Pharmaceuticals Limited Mississauga Ontario, Canada L5N 6L6 ® Marks owned by Aqua Pharmaceuticals Printed in U.S.A.
+AQUA PHARMACEUTICALS an Almirall company
 
-4716X 2005931
+® Marks owned by Aqua Pharmaceuticals Manufactured by: Aqua Pharmaceuticals, an Almirall Company Exton, PA 19341, U.S.A. Made in Germany
