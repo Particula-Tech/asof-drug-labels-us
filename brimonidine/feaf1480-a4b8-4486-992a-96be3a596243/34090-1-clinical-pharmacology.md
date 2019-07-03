@@ -32,7 +32,7 @@ The lower plasma brimonidine concentrations with COMBIGAN® appears to be due to
 Distribution
 
 The protein binding of timolol is approximately 60%.
-The protein binding of brimonidine is approximately 29%.
+The protein binding of brimonidine has not been studied.
 
 Metabolism
 

@@ -2,23 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-There are no adequate and well-controlled studies with COMBIGAN®, in pregnant women.
-Postmarketing safety and literature reviews do not suggest increased risk of fetal malformations, congenital abnormalities, or other pregnancy related abnormal outcomes, compared with the data obtained from epidemiology studies in the U.S. general population [see Data].
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
-
-In animal studies, brimonidine crossed the placenta and entered into the fetal circulation to a limited extent [see Data].
-Because animal reproduction studies are not always predictive of human response, COMBIGAN® should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
-
-Data
-
-Human Data
-
-Literature review showed no adverse outcome on pregnancy from topical ophthalmic brimonidine treatment.
-
-Animal Data
-
 Teratogenicity studies have been performed in animals.
 Brimonidine tartrate was not teratogenic when given orally during gestation days 6 through 15 in rats and days 6 through 18 in rabbits.
 The highest doses of brimonidine tartrate in rats (2.5 mg/kg/day) and rabbits (5 mg/kg/day) achieved AUC exposure values 580 and 37-fold higher, respectively, than similar values estimated in humans treated with COMBIGAN®, 1 drop in both eyes twice daily.
@@ -28,22 +11,14 @@ Although delayed fetal ossification was observed at this dose in rats, there wer
 Doses of 1,000 mg/kg/day (83,000 times the MRHOD) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
 Increased fetal resorptions were also seen in rabbits at doses 8,300 times the MRHOD without apparent maternotoxicity.
 
-## 8.2 Lactation
+There are no adequate and well-controlled studies in pregnant women; however, in animal studies, brimonidine crossed the placenta and entered into the fetal circulation to a limited extent.
+Because animal reproduction studies are not always predictive of human response, COMBIGAN® should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
-Risk Summary
+## 8.3 Nursing Mothers
 
 Timolol has been detected in human milk following oral and ophthalmic drug administration.
-It is not known whether brimonidine tartrate is excreted in human milk, although in animal studies, brimonidine tartrate has been shown to cross the blood-brain barrier and is excreted into breast milk after oral administration to lactating rats [see Data].
-
-Because of the potential for serious adverse reactions, including central nervous system depression and apnea, from COMBIGAN® in nursing infants, COMBIGAN® is not recommended for use during lactation.
-
-Data
-
-Animal Data
-
-After a single oral dose of 14C-labeled brimonidine tartrate to lactating rats, brimonidine tartrate and trace metabolites were detected in milk after 30 minutes.
-There was 30% higher milk concentration compared to maternal plasma concentration 30 minutes after dosing and a 10-fold higher milk concentration compared to maternal plasma concentration 8 hours after dosing.
-No radiolabeled brimonidine tartrate or metabolites were detectable in milk 24 hours after dosing.
+It is not known whether brimonidine tartrate is excreted in human milk, although in animal studies, brimonidine tartrate has been shown to be excreted in breast milk.
+Because of the potential for serious adverse reactions from COMBIGAN® in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 

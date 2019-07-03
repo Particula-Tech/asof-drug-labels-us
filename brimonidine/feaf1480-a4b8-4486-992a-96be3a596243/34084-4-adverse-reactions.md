@@ -1,19 +1,5 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the labeling:
-
-- Hypersensitivity Reactions [see Contraindications (4.4)]
-- Potential for Severe Respiratory or Cardiac Reactions [see Warnings and Precautions (5.1)]
-- Cardiac Failure [see Warnings and Precautions (5.2)]
-- Potentiation of Vascular Insufficiency [see Warnings and Precautions (5.4)]
-- Increased Reactivity to Allergens [see Warnings and Precautions (5.5)]
-- Potentiation of Muscle Weakness [see Warnings and Precautions (5.6)]
-- Masking of Hypoglycemic Symptoms in Patients with Diabetes Mellitus [see Warnings and Precautions (5.7)]
-- Masking of Thyrotoxicosis [see Warnings and Precautions (5.8)]
-- Ocular Hypersensitivity [see Warnings and Precautions (5.9)]
-- Contamination of Topical Ophthalmic Products after Use [see Warnings and Precautions (5.10)]
-- Impairment of Beta-adrenergically Mediated Reflexes During Surgery [see Warnings and Precautions (5.11)]
-
 ## 6.1 Clinical Studies Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
@@ -31,7 +17,7 @@ Abnormal taste, allergic reaction, blepharoconjunctivitis, blurred vision, bronc
 
 Timolol (Ocular Administration)
 
-Body as a whole: chest pain; Cardiovascular: Arrhythmia, bradycardia, cardiac arrest, cardiac failure, cerebral ischemia, cerebral vascular accident, claudication, cold hands and feet, edema, heart block, palpitation, pulmonary edema, Raynaud’s phenomenon, syncope, and worsening of angina pectoris; Digestive: anorexia, diarrhea, nausea; Immunologic: Systemic lupus erythematosus; Nervous System/Psychiatric: Increase in signs and symptoms of myasthenia gravis, insomnia, nightmares, paresthesia, behavioral changes and psychic disturbances including confusion, hallucinations, anxiety, disorientation, nervousness, and memory loss; Skin: Alopecia, psoriasiform rash or exacerbation of psoriasis; Hypersensitivity: Signs and symptoms of systemic allergic reactions, including anaphylaxis, angioedema, urticaria, and generalized and localized rash; Respiratory: Bronchospasm (predominantly in patients with pre-existing bronchospastic disease) [see Contraindications (4.1)], dyspnea, nasal congestion, respiratory failure, upper respiratory infections; Endocrine: Masked symptoms of hypoglycemia in diabetes patients [see Warnings and Precautions (5.7)]; Special Senses: diplopia, choroidal detachment following filtration surgery, cystoid macular edema, decreased corneal sensitivity, pseudopemphigoid, ptosis, refractive changes, tinnitus; Urogenital: Decreased libido, impotence, Peyronie’s disease, retroperitoneal fibrosis.
+Body as a whole: chest pain; Cardiovascular: Arrhythmia, bradycardia, cardiac arrest, cardiac failure, cerebral ischemia, cerebral vascular accident, claudication, cold hands and feet, edema, heart block, palpitation, pulmonary edema, Raynaud's phenomenon, syncope, and worsening of angina pectoris; Digestive: anorexia, diarrhea, nausea; Immunologic: Systemic lupus erythematosus; Nervous System/Psychiatric: Increase in signs and symptoms of myasthenia gravis, insomnia, nightmares, paresthesia, behavioral changes and psychic disturbances including confusion, hallucinations, anxiety, disorientation, nervousness, and memory loss; Skin: Alopecia, psoriasiform rash or exacerbation of psoriasis; Hypersensitivity: Signs and symptoms of systemic allergic reactions, including anaphylaxis, angioedema, urticaria, and generalized and localized rash; Respiratory: Bronchospasm (predominantly in patients with pre-existing bronchospastic disease) [see Contraindications (4.1)], dyspnea, nasal congestion, respiratory failure, upper respiratory infections; Endocrine: Masked symptoms of hypoglycemia in diabetes patients [see Warnings and Precautions (5.7)]; Special Senses: diplopia, choroidal detachment following filtration surgery, cystoid macular edema, decreased corneal sensitivity, pseudopemphigoid, ptosis, refractive changes, tinnitus; Urogenital: Decreased libido, impotence, Peyronie's disease, retroperitoneal fibrosis.
 
 ## 6.2 Postmarketing Experience
 

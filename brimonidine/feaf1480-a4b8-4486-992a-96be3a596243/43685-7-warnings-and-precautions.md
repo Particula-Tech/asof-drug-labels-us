@@ -21,7 +21,7 @@ Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, e
 ## 5.4 Potentiation of Vascular Insufficiency
 
 COMBIGAN® may potentiate syndromes associated with vascular insufficiency.
-COMBIGAN® should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud’s phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
+COMBIGAN® should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud's phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
 
 ## 5.5 Increased Reactivity to Allergens
 
@@ -47,7 +47,7 @@ Patients suspected of developing thyrotoxicosis should be managed carefully to a
 
 Ocular hypersensitivity reactions have been reported with brimonidine tartrate ophthalmic solutions 0.2%, with some reported to be associated with an increase in intraocular pressure [see Contraindications (4.4)].
 
-## 5.10Contamination of Topical Ophthalmic Products After Use
+## 5.10 Contamination of Topical Ophthalmic Products After Use
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
 These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (17)].
