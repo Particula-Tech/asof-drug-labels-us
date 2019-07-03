@@ -1,8 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacokinetics:
+## Pharmacokinetics
 
-Serum, urine and tear concentrations of ofloxacin were measured in 30 healthy women at various time points during a ten-day course of treatment with ofloxacin ophthalmic solution.
+Serum, urine and tear concentrations of ofloxacin were measured in 30 healthy women at various time points during a ten-day course of treatment with Ofloxacin Ophthalmic Solution.
 The mean serum ofloxacin concentration ranged from 0.4 ng/mL to 1.9 ng/mL.
 Maximum ofloxacin concentration increased from 1.1 ng/mL on day one to 1.9 ng/mL on day 11 after QID dosing for 10 1/2 days.
 Maximum serum ofloxacin concentrations after ten days of topical ophthalmic dosing were more than 1000 times lower than those reported after standard oral doses of ofloxacin.
@@ -13,7 +13,7 @@ Mean tear concentration measured four hours after topical ophthalmic dosing was 
 Corneal tissue concentrations of 4.4 mcg/mL were observed four hours after beginning topical ocular application of two drops of Ofloxacin Ophthalmic Solution every 30 minutes.
 Ofloxacin was excreted in the urine primarily unmodified.
 
-## Microbiology:
+## Microbiology
 
 Ofloxacin has in vitro activity against a broad range of gram-positive and gram-negative aerobic and anaerobic bacteria.
 Ofloxacin is bactericidal at concentrations equal to or slightly greater than inhibitory concentrations.
@@ -21,7 +21,7 @@ Ofloxacin is thought to exert a bactericidal effect on susceptible bacterial cel
 
 Cross-resistance has been observed between ofloxacin and other fluoroquinolones.
 There is generally no cross-resistance between ofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
-Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections as described in the INDICATIONS AND USAGE section.
+Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections (see INDICATIONS and USAGE).
 
 AEROBES, GRAM-POSITIVE:
 
@@ -52,12 +52,12 @@ OTHER:
 
 Chlamydia trachomatis
 
-## Clinical Studies:
+## Clinical Studies
 
-Conjunctivitis: In a randomized, double-masked, multicenter clinical trial, Ofloxacin Ophthalmic Solution was superior to its vehicle after 2 days of treatment in patients with conjunctivitis and positive conjunctival cultures.
+Conjunctivitis In a randomized, double-masked, multicenter clinical trial, Ofloxacin Ophthalmic Solution was superior to its vehicle after 2 days of treatment in patients with conjunctivitis and positive conjunctival cultures.
 Clinical outcomes for the trial demonstrated a clinical improvement rate of 86% (54/63) for the ofloxacin treated group versus 72% (48/67) for the placebo treated group after 2 days of therapy.
 Microbiological outcomes for the same clinical trial demonstrated an eradication rate for causative pathogens of 65% (41/63) for the ofloxacin treated group versus 25% (17/67) for the vehicle treated group after 2 days of therapy.
 Please note that microbiologic eradication does not always correlate with clinical outcome in anti-infective trials.
 
-Corneal Ulcers: In a randomized, double-masked, multicenter clinical trial of 140 subjects with positive cultures, Ofloxacin Ophthalmic Solution treated subjects had an overall clinical success rate (complete re-epithelialization and no progression of the infiltrate for two consecutive visits) of 82% (61/74) compared to 80% (53/66) for the fortified antibiotic group, consisting of 1.5% tobramycin and 10% cefazolin solutions.
+Corneal Ulcers In a randomized, double-masked, multicenter clinical trial of 140 subjects with positive cultures, Ofloxacin Ophthalmic Solution treated subjects had an overall clinical success rate (complete re-epithelialization and no progression of the infiltrate for two consecutive visits) of 82% (61/74) compared to 80% (53/66) for the fortified antibiotic group, consisting of 1.5% tobramycin and 10% cefazolin solutions.
 The median time to clinical success was 11 days for the ofloxacin treated group and 10 days for the fortified treatment group.

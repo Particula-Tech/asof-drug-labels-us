@@ -26,4 +26,4 @@ Anaerobic species:
 
 Propionibacterium acnes
 
-*Efficacy for this organism was studied in fewer than 10 infections
+*Efficacy for this organism was studied in fewer than 10 infections.

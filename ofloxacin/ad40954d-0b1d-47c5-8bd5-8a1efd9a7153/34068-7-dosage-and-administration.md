@@ -10,7 +10,7 @@ The recommended dosage regimen for the treatment of bacterial corneal ulcer is:
 
 Days 1 and 2 Instill one to two drops into the affected eye every 30 minutes, while awake.
 
-Awaken at approximately four and six hours after retiring and instill one to two drops.
+1. Awaken at approximately four and six hours after retiring and instill one to two drops.
 
 Days 3 through 7 to 9 Instill one to two drops hourly, while awake.
 

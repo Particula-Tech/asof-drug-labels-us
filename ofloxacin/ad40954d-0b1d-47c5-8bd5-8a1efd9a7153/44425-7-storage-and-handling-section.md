@@ -1,11 +1,18 @@
-STORAGE Store at 15º-25°C (59º-77°F)
+NOTE: Store at 15º-25°C (59º-77°F).
 
 KEEP OUT OF REACH OF CHILDREN.
 
-FOR OPHTHALMIC USE ONLY
+FOR OPHTHALMIC USE ONLY.
 
-Revised: August 2016 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Bausch & Lomb Incorporated, a division of Bausch Health Americas, Inc.
 
-©Bausch & Lomb Incorporated
+Bridgewater, NJ 08807 USA
 
-9118303 (FOLDED) 9118203 (FLAT
+© 2019 Bausch Health Companies Inc. or its affiliates
+
+Rev.
+06/2019
+
+Update P/N (FOLDED)
+
+Update P/N (FLAT)
