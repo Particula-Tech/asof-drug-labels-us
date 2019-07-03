@@ -46,7 +46,7 @@ Important: Instruct patients to throw away the old Handset parts after using 60 
 Manufactured for Sunovion Respiratory Development Inc., 84 Waterford Drive Marlborough, MA 01752 USA a direct wholly-owned subsidiary of Sunovion Pharmaceuticals Inc. Made in Germany.
 
 For Sunovion customer service, call 1-888-394-7377.
-For medical information, call 1-800-739-0665.
+For medical information, call 1-800-739-0565.
 To report suspected adverse events, call 1-877-737-7226.
 
-©2018 Sunovion Pharmaceuticals Inc. All rights reserved.
+©2019 Sunovion Pharmaceuticals Inc. All rights reserved.
