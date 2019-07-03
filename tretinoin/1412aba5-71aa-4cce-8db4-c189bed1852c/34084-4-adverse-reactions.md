@@ -18,7 +18,7 @@ Table 1: Adverse Reactions Reported by ≥1% of Subjects Treated with ALTRENO an
 | Application site pain | 25 (3) | 3 (<1) |
 | Application site erythema | 12 (2) | 1 (<1) |
 | Application site irritation | 7 (1) | 1 (<1) |
-| Application site exfoliation | 6 (1) | 3(<1) |
+| Application site exfoliation | 6 (1) | 1.(<1) |
 
 Skin irritation was evaluated by active assessment of erythema, scaling, hypopigmentation, hyperpigmentation, itching, burning and stinging.
 The percentage of subjects who were assessed to have these signs and symptoms at any post baseline visit are summarized in Table 2.

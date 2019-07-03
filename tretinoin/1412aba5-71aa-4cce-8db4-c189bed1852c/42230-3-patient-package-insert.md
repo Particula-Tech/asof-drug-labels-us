@@ -50,11 +50,12 @@ Apply a thin layer to cover the
 affected areas, as prescribed by your doctor.
 Spread ALTRENO evenly over the affected areas.
 
-1. • Wash your hands after applying ALTRENO.
-2. What should I avoid while using ALTRENO?
-3. •You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with ALTRENO.
-4. •Minimize exposure to sunlight.
-5. •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with an SPF (sun protection factor) of 15 or more and wear protective clothing and a wide-brimmed hat to cover the treated areas.
+- • Wash your hands after applying ALTRENO.
+- What should I avoid while using ALTRENO?
+
+1. 1.You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with ALTRENO.
+2. 2.Minimize exposure to sunlight.
+3. 3.If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with an SPF (sun protection factor) of 15 or more and wear protective clothing and a wide-brimmed hat to cover the treated areas.
 
 What are the possible side effects of ALTRENO?
 
