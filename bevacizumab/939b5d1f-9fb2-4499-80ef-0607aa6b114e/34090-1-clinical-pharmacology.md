@@ -28,5 +28,4 @@ Specific Populations
 The clearance of bevacizumab varied by body weight, sex, and tumor burden.
 After correcting for body weight, males had a higher bevacizumab clearance (0.26 L/day vs. 0.21 L/day) and a larger central volume of distribution (3.2 L vs. 2.7 L) than females.
 Patients with higher tumor burden (at or above median value of tumor surface area) had a higher bevacizumab clearance (0.25 L/day vs. 0.20 L/day) than patients with tumor burdens below the median.
-In AVF2107g, there was no evidence of lesser efficacy (hazard ratio for overall survival) in males or patients with higher tumor burden treated with Avastin as compared to females and patients with low tumor burden.
-Based on data in specific populations, no dose adjustments for Avastin are needed.
+In Study AVF2107g, there was no evidence of lesser efficacy (hazard ratio for overall survival) in males or patients with higher tumor burden treated with Avastin as compared to females and patients with low tumor burden.

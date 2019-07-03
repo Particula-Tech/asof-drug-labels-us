@@ -9,7 +9,7 @@ Advise patients that Avastin should not be used for at least 28 days before or a
 Hemorrhage: Avastin can increase the risk of hemorrhage.
 Advise patients to immediately contact their health care provider for signs and symptoms of serious or unusual bleeding including coughing or spitting blood [see Warnings and Precautions (5.3)].
 
-Arterial and Venous Thromboembolism: Avastin increases the risk of arterial and venous thromboembolic events.
+Arterial and Venous Thromboembolic Events: Avastin increases the risk of arterial and venous thromboembolic events.
 Advise patients to immediately contact their health care provider for signs and symptoms of arterial or venous thromboembolism [see Warnings and Precautions (5.4, 5.5)].
 
 Hypertension: Avastin can increase blood pressure.
@@ -21,16 +21,16 @@ Advise patients to immediately contact their health care provider for new onset 
 Renal Injury and Proteinuria: Avastin increases the risk of proteinuria and renal injury, including nephrotic syndrome.
 Advise patients that treatment with Avastin requires regular monitoring of renal function and to contact their health care provider for proteinuria or signs and symptoms of nephrotic syndrome [see Warnings and Precautions (5.8)].
 
-Infusion Reactions: Avastin can cause infusion reactions.
-Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion reactions [see Warnings and Precautions (5.9)].
+Infusion-Related Reactions: Avastin can cause infusion-related reactions.
+Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.9)].
 
 Congestive Heart Failure: Avastin can increase the risk of developing congestive heart failure.
 Advise patients to contact their healthcare provider immediately for signs and symptoms of CHF [see Warnings and Precautions (5.12)].
 
 Embryo-Fetal Toxicity: Advise female patients that Avastin may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with Avastin and for 6 months after the last dose of Avastin [see Use in Specific Populations (8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with Avastin and for 6 months after the last dose [see Use in Specific Populations (8.3)].
 
 Ovarian Failure: Avastin may lead to ovarian failure.
 Advise patients of potential options for preservation of ova prior to starting treatment [see Warnings and Precautions (5.11)].
 
-Lactation: Advise lactating women not to breastfeed while taking Avastin or within 6 months following their last dose of treatment [see Use in Specific Populations (8.2)].
+Lactation: Advise women not to breastfeed during treatment with Avastin and for 6 months after the last dose [see Use in Specific Populations (8.2)].
