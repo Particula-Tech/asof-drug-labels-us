@@ -10,9 +10,9 @@ Pulmonary Toxicity
 Advise patients of the risks of pulmonary toxicity including respiratory failure and death.
 Instruct patients to immediately contact their healthcare provider for development of shortness of breath, wheezing, or cough [see Warnings and Precautions (5.3)].
 
-Hemolytic-Uremic Syndrome and Renal Failure
+Hemolytic Uremic Syndrome and Renal Failure
 
-Advise patients of the risks of hemolytic-uremic syndrome and associated renal failure.
+Advise patients of the risks of hemolytic uremic syndrome and associated renal failure.
 Instruct patients to immediately contact their healthcare provider for changes in the color or volume of urine output or for increased bruising or bleeding [see Warnings and Precautions (5.4)].
 
 Hepatic Toxicity

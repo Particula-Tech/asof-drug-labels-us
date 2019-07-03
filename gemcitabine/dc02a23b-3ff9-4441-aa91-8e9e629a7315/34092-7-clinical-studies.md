@@ -94,7 +94,7 @@ Table 19: Efficacy Results in Study 2
 | Overall SurvivalBased on the ITT population. |  |  |
 | Median (95% CI) in months | 18.6 (16.5, 20.7) | 15.8 (14.1, 17.3) |
 | Hazard Ratio (95% CI) | 0.86 (0.71, 1.04) |  |
-| p-value | Not significant |  |
+| p-value | Not Significant |  |
 | Overall Response Rate (95% CI) | 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) |
 | p-value | p<0.0001 |  |
 
@@ -201,7 +201,7 @@ Table 23: Efficacy Results in Study 5
 | --- | --- | --- |
 | Clinical Benefit Response | 22.2% | 4.8% |
 | p-valuep-value for clinical benefit response calculated using the two-sided test for difference in binomial proportions. All other p-values are calculated using log rank test. | p=0.004 |  |
-| Survival |  |  |
+| Overall Survival |  |  |
 | Median (95% CI) in months | 5.7 (4.7, 6.9) | 4.2 (3.1, 5.1) |
 | p-value | p=0.0009 |  |
 | Time to Disease Progression |  |  |

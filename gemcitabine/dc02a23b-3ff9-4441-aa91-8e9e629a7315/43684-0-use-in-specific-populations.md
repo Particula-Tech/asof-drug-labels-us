@@ -18,7 +18,7 @@ Animal Data
 Gemcitabine is embryotoxic in mice.
 Daily dosing of gemcitabine to pregnant mice increased the incidence of fetal malformations (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day [about 0.005 times the 1000 mg/m2 clinical dose based on body surface area (BSA)].
 Gemcitabine is embryotoxic and fetotoxic in rabbits.
-Daily dosing of gemcitabine to pregnant rabbits resulted in fetotoxicity (decreased fetal viability, reduced litter sizes and developmental delays) and increased the incidence of fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day in rabbits (about 0.002 times the 1000 mg/m2 clinical dose based on BSA).
+Daily dosing of gemcitabine to pregnant rabbits resulted in fetotoxicity (decreased fetal viability, reduced litter sizes and developmental delays) and increased the incidence of fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day (about 0.002 times the 1000 mg/m2 clinical dose based on BSA).
 
 ## 8.2 Lactation
 
@@ -54,7 +54,7 @@ It is not known whether these effects on fertility are reversible.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of gemcitabine has not been established in pediatric patients.
+The safety and effectiveness of gemcitabine have not been established in pediatric patients.
 
 The safety and pharmacokinetics of gemcitabine were evaluated in a trial in pediatric patients with refractory leukemia.
 The maximum tolerated dose was 10 mg/m2/min for 360 minutes weekly for three weeks followed by a one-week rest period.
@@ -72,7 +72,7 @@ In a randomized trial in women with ovarian cancer (Study 1), 175 women received
 Similar effectiveness was observed between older and younger women.
 There was significantly higher Grade 3–4 neutropenia in women 65 years of age or older [see Dosage and Administration (2.1)].
 
-Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients' age [see Clinical Pharmacology (12.3)].
+Gemcitabine clearance is affected by age; however, there are no recommended dose adjustments based on patients' age [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Gender
 

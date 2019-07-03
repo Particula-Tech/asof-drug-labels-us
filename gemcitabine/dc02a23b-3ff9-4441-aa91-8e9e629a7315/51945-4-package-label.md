@@ -6,9 +6,8 @@ Gemcitabine Injection
 
 (38 mg/mL)
 
-For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single use vial.
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) 26.3 mL Single-Dose Vial.
 Discard unused portion.
-Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 1 g/26.3 mL Vial Carton
 
@@ -20,7 +19,7 @@ Gemcitabine Injection
 
 (38 mg/mL)
 
-For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single Use Vial Discard Unused Portion
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) 26.3 mL Single-Dose Vial Discard Unused Portion
 
 Caution: Cytotoxic Agent
 
@@ -32,9 +31,8 @@ Gemcitabine Injection
 
 (38 mg/mL)
 
-For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single use vial.
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) 5.26 mL Single-Dose Vial.
 Discard unused portion.
-Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/5.26 mL Vial Carton
 
@@ -46,7 +44,7 @@ Gemcitabine Injection
 
 (38 mg/mL)
 
-For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single Use Vial Discard Unused Portion
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) 5.26 mL Single-Dose Vial Discard Unused Portion
 
 Caution: Cytotoxic Agent
 
@@ -58,9 +56,8 @@ Gemcitabine Injection
 
 (38 mg/mL)
 
-For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single use vial.
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) 52.6 Single-Dose Vial.
 Discard unused portion.
-Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 2 g/52.6 mL Vial Carton
 
@@ -72,6 +69,6 @@ Gemcitabine Injection
 
 (38 mg/mL)
 
-For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single Use Vial Discard Unused Portion
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) 52.6 mL Single-Dose Vial Discard Unused Portion
 
 Caution: Cytotoxic Agent

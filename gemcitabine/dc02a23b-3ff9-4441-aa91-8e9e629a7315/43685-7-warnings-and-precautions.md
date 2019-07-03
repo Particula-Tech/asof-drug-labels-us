@@ -8,7 +8,7 @@ Refer to the recommended Gemcitabine Injection dosage [see Dosage and Administra
 
 ## 5.2 Myelosuppression
 
-Myelosuppression manifested by neutropenia, thrombocytopenia, and anemia, occurs with gemcitabine as a single-agent and the risks are increased when gemcitabine is combined with other cytotoxic drugs.
+Myelosuppression manifested by neutropenia, thrombocytopenia, and anemia, occurs with gemcitabine as a single agent and the risks are increased when gemcitabine is combined with other cytotoxic drugs.
 In clinical trials, Grade 3–4 neutropenia, anemia, and thrombocytopenia occurred in 25%, 8%, and 5%, respectively of the 979 patients who received single agent gemcitabine.
 The frequencies of Grade 3–4 neutropenia, anemia, and thrombocytopenia varied from 48% to 71%, 8% to 28%, and 5% to 55%, respectively, in patients receiving gemcitabine in combination with another drug [see Adverse Reactions (6.1)].
 
@@ -23,9 +23,9 @@ The onset of pulmonary symptoms may occur up to 2 weeks after the last dose of g
 
 Permanently discontinue Gemcitabine Injection in patients who develop unexplained dyspnea, with or without bronchospasm, or evidence of severe pulmonary toxicity.
 
-## 5.4 Hemolytic-Uremic Syndrome
+## 5.4 Hemolytic Uremic Syndrome
 
-Hemolytic-uremic syndrome (HUS), including fatalities from renal failure or the requirement for dialysis, can occur with gemcitabine.
+Hemolytic uremic syndrome (HUS), including fatalities from renal failure or the requirement for dialysis, can occur with gemcitabine.
 In clinical trials, HUS occurred in 0.25% of 2429 patients.
 Most fatal cases of renal failure were due to HUS [see Adverse Reactions (6.1)].
 Serious cases of thrombotic microangiopathy (TMA) other than HUS have been reported with gemcitabine [see Adverse Reactions (6.2)].

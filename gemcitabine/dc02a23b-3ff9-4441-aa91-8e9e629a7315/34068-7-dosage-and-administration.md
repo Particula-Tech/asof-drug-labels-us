@@ -16,11 +16,11 @@ Table 1: Recommended Dosage Modifications for Gemcitabine Injection for Myelosup
 
 | Treatment Day | Absolute Neutrophil Count (× 106/L) |  | Platelet Count (× 106/L) | Dosage Modification |
 | --- | --- | --- | --- | --- |
-| Day 1 | ≥1500 | And | ≥100,000 | None |
-|  | Less than 1500 | Or | Less than 100,000 | Delay Treatment Cycle |
-| Day 8 | ≥1500 | And | ≥100,000 | None |
-|  | 1000 to 1499 | Or | 75,000 to 99,999 | 50% of full dose |
-|  | Less than 1000 | Or | Less than 75,000 | Hold |
+| Day 1 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| Less than 1500 | Or | Less than 100,000 | Delay Treatment Cycle |  |
+| Day 8 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| 1000 to 1499 | Or | 75,000 to 99,999 | 50% of full dose |  |
+| Less than 1000 | Or | Less than 75,000 | Hold |  |
 
 Table 2: Recommended Dosage Modifications for Gemcitabine Injection for Myelosuppression in Previous Cycle in Ovarian Cancer
 
@@ -45,12 +45,12 @@ Table 3: Recommended Dosage Modifications for Gemcitabine Injection for Myelosup
 
 | Treatment Day | Absolute Neutrophil Count (× 106/L) |  | Platelet Count (× 106/L) | Dosage Modification |
 | --- | --- | --- | --- | --- |
-| Day 1 | ≥1500 | And | ≥100,000 | None |
-|  | Less than 1500 | Or | Less than 100,000 | Hold |
-| Day 8 | ≥1200 | And | >75,000 | None |
-|  | 1000 to 1199 | Or | 50,000 to 75,000 | 75% of full dose |
-|  | 700 to 999 | And | ≥50,000 | 50% of full dose |
-|  | Less than 700 | Or | Less than 50,000 | Hold |
+| Day 1 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| Less than 1500 | Or | Less than 100,000 | Hold |  |
+| Day 8 | Greater than or equal to 1200 | And | Greater than 75,000 | None |
+| 1000 to 1199 | Or | 50,000 to 75,000 | 75% of full dose |  |
+| 700 to 999 | And | Greater than or equal to 50,000 | 50% of full dose |  |
+| Less than 700 | Or | Less than 50,000 | Hold |  |
 
 ## 2.3 Non-Small Cell Lung Cancer
 
@@ -90,7 +90,7 @@ Table 4: Recommended Dosage Modifications for Gemcitabine Injection for Myelosup
 
 | Absolute Neutrophil Count (× 106/L) |  | Platelet Count (× 106/L) | Dosage Modification |
 | --- | --- | --- | --- |
-| ≥1000 | And | ≥100,000 | None |
+| Greater than or equal to 1000 | And | Greater than or equal to 100,000 | None |
 | 500 to 999 | Or | 50,000 to 99,999 | 75% of full dose |
 | Less than 500 | Or | Less than 50,000 | Hold |
 
@@ -98,8 +98,8 @@ Table 4: Recommended Dosage Modifications for Gemcitabine Injection for Myelosup
 
 Permanently discontinue Gemcitabine Injection for any of the following:
 
-- Unexplained dyspnea or other evidence of severe pulmonary toxicity [see Warnings and Precautions (5.3)]
-- Hemolytic Uremic syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.4)]
+- Unexplained dyspnea or evidence of severe pulmonary toxicity [see Warnings and Precautions (5.3)]
+- Hemolytic uremic syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.4)]
 - Severe hepatic toxicity [see Warnings and Precautions (5.5)]
 - Capillary leak syndrome (CLS) [see Warnings and Precautions (5.8)]
 - Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)]
