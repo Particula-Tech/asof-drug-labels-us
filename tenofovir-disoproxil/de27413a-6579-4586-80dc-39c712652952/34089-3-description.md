@@ -15,4 +15,4 @@ Tenofovir disoproxil fumarate tablets are for oral administration.
 Each tablet contains 300 mg of tenofovir disoproxil fumarate, which is equivalent to 245 mg of tenofovir disoproxil, and the following inactive ingredients: Lactose monohydrate, Croscarmellose sodium, Corn starch, Polysorbate 80, Microcrystalline cellulose, Magnesium stearate, Opadry II Y-30-10671-A Light blue.
 (Lactose monohydrate, HPMC2910/Hypromellose 15cP, Titanium dioxide, Triacetin / Glycerol triacetate, FD&C Blue #2/Indigo carmine Aluminum Lake).
 
-In this insert, all dosages are expressed in terms of tenofovir disoproxil fumarate except where otherwise noted.
+In this insert, all dosages are expressed in terms of TDF except where otherwise noted.

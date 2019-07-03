@@ -51,7 +51,7 @@ Treatment Duration
 Advise patients that in the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
 The relationship between response and long-term prevention of outcomes such as hepatocellular carcinoma is not known.
 
-VIREAD, ATRIPLA, COMPLERA, EMTRIVA, EPCLUSA, HARVONI, HEPSERA, SOVALDI, STRIBILD, and TRUVADA are trademarks of Gilead Sciences, Inc., or its related companies.
+VIREAD, ATRIPLA, COMPLERA, EPCLUSA, HARVONI, HEPSERA, SOVALDI, STRIBILD, and TRUVADA are trademarks of Gilead Sciences, Inc., or its related companies.
 All other trademarks referenced herein are the property of their respective owners.
 
 Manufactured by:
@@ -72,4 +72,4 @@ Cipla USA, Inc.
 
 Suite 130, Sunrise, FL 33323
 
-Revised: 01/2019
+Revised: 6/2019

@@ -103,7 +103,7 @@ Table 6 Selected Adverse Reactionsa (Grades 2–4) Reported in ≥5% in Any Trea
 | Nasopharyngitis | 5% | 3% |
 | Vomiting | 2% | 5% |
 | a. Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug. |  |  |
-| b. From Weeks 96 to 144 of the trial, subjects received TRUVADA with EFV in place of tenofovir disoproxil fumarate + FTC with EFV. |  |  |
+| b. From Weeks 96 to 144 of the trial, subjects received TRUVADA® with EFV in place of tenofovir disoproxil fumarate + FTC with EFV. |  |  |
 | c. Rash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculopapular, rash pruritic, and rash vesicular. |  |  |
 
 Laboratory Abnormalities: Laboratory abnormalities observed in this trial were generally consistent with those seen in previous trials (Table 7).
@@ -136,7 +136,7 @@ Table 8 provides the treatment-emergent adverse reactions (Grades 2−4) occurri
 
 Table 8 Selected Adverse Reactionsa (Grades 2-4) Reported in ≥3% in Any Treatment Group in Trial 907 (0-48 Weeks)
 
-|  | Tenofovir disoproxil fumarate (N=368) (Week 0-24) | Placebo (N=182) (Week 0-24) | Tenofovir disoproxil fumarate (N=368) (Week 0-48) | Placebo Crossover to Tenofovir disoproxil fumarate (N=170) (Week 24-48) |
+|  | Tenofovir disoproxil fumarate N=368 (Week 0-24) | Placebo N=182 (Week 0-24) | Tenofovir disoproxil fumarate N=368 (Week 0-48) | Placebo Crossover to Tenofovir disoproxil fumarate N=170 (Week 24-48) |
 | --- | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |  |
 | Asthenia | 7% | 6% | 11% | 1% |
@@ -176,7 +176,7 @@ Laboratory abnormalities occurred with similar frequency in the tenofovir disopr
 
 Table 9 Grades 3-4 Laboratory Abnormalities Reported in ≥1% of Tenofovir disoproxil fumarate-Treated Subjects in Trial 907 (0–48 Weeks)
 
-|  | Tenofovir disoproxil fumarate (N=368) (Week 0-24) | Placebo (N=182) (Week 0–24) | Tenofovir disoproxil fumarate (N=368) (Week 0-48) | Placebo Crossover to Tenofovir disoproxil fumarate (N=170) (Week 24-48) |
+|  | Tenofovir disoproxil fumarate N=368 (Week 0-24) | Placebo N=182 (Week 0–24) | Tenofovir disoproxil fumarate N=368 (Week 0-48) | Placebo Crossover to Tenofovir disoproxil fumarate N=170 (Week 24-48) |
 | --- | --- | --- | --- | --- |
 | Any ≥ Grade 3 Laboratory Abnormality | 25% | 38% | 35% | 34% |
 | Triglycerides (>750 mg/dL) | 8% | 13% | 11% | 9% |
@@ -193,7 +193,7 @@ Adverse Reactions from Clinical Trials Experience in HIV-1 Infected Pediatric Su
 Assessment of adverse reactions is based on two randomized trials (Trials 352 and 321) in 184 HIV-1 infected pediatric subjects (2 years to less than 18 years of age) who received treatment with tenofovir disoproxil fumarate (N=93) or placebo/active comparator (N=91) in combination with other antiretroviral agents for 48 weeks [see Clinical Studies (14.3)].
 The adverse reactions observed in subjects who received treatment with tenofovir disoproxil fumarate were consistent with those observed in clinical trials in adults.
 
-In trial 352, 89 pediatric subjects (2 years to less than 12 years of age) received tenofovir disoproxil fumarate in Study 352 for a median exposure of 104 weeks.
+In Trial 352, 89 pediatric subjects (2 years to less than 12 years of age) received tenofovir disoproxil fumarate for a median exposure of 104 weeks.
 Of these, 4 subjects discontinued from the trial due to adverse reactions consistent with proximal renal tubulopathy.
 Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z-score [see Warnings and Precautions (5.5)].
 
@@ -210,7 +210,7 @@ Adverse Reactions from Clinical Trials Experience in HBV-Infected Adults
 
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease
 
-In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with tenofovir disoproxil fumarate during the 48-week double-blind period experienced nausea: 9% with tenofovir disoproxil fumarate versus 2% with HEPSERA.
+In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with tenofovir disoproxil fumarate during the 48-week double-blind period experienced nausea: 9% with tenofovir disoproxil fumarate versus 2% with HEPSERA®.
 Other treatment-emergent adverse reactions reported in more than 5% of subjects treated with tenofovir disoproxil fumarate included: abdominal pain, diarrhea, headache, dizziness, fatigue, nasopharyngitis, back pain, and skin rash.
 
 In Trials 0102 and 0103, during the open-label phase of treatment with tenofovir disoproxil fumarate (weeks 48–384), 2% of subjects (13/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
@@ -221,7 +221,7 @@ Grades 3-4 laboratory abnormalities were similar in subjects continuing tenofovi
 
 Table 10 Grades 3-4 Laboratory Abnormalities Reported in ≥ 1% of Tenofovir disoproxil fumarate-Treated Subjects in Trials 0102 and 0103 (0-48 Weeks)
 
-|  | Tenofovir disoproxil fumarate (N=426) | HEPSERA (N=215) |
+|  | Tenofovir disoproxil fumarate N=426 | HEPSERA N=215 |
 | --- | --- | --- |
 | Any ≥ Grade 3 Laboratory Abnormality | 19% | 13% |
 | Creatine Kinase (M: >990 U/L; F: >845 U/L) | 2% | 3% |
@@ -249,38 +249,38 @@ Because both tenofovir disoproxil fumarate and decompensated liver disease may h
 
 One of 45 subjects experienced an on-treatment hepatic flare during the 48-week trial.
 
-Adverse Reactions from Clinical Trials Experience in HBV-Infected Pediatric Subjects 2 Years and Older
+Adverse Reactions from Clinical Trials Experience in HBV-Infected Pediatric Subjects 12 Years and Older
 
-Assessment of adverse reactions in pediatric subjects infected with chronic HBV is based on two randomized trials: Trial GS-US-174-0115 in 106 subjects (12 years to less than 18 years of age) receiving treatment with tenofovir disoproxil fumarate (N=52) or placebo (N=54) for 72 weeks and Trial GS-US-174-0144 in 89 subjects (2 years to less than 12 years of age) receiving treatment with tenofovir disoproxil fumarate (N=60) or placebo (N=29) for 48 weeks [see Clinical Studies (14.5)].
+Assessment of adverse reactions in pediatric subjects infected with chronic HBV is based on one randomized trial: Trial GS-US-174-0115 in 106 subjects (12 years to less than 18 years of age) receiving treatment with tenofovir disoproxil fumarate (N=52) or placebo (N=54) for 72 weeks.
 The adverse reactions observed in pediatric subjects who received treatment with tenofovir disoproxil fumarate were consistent with those observed in clinical trials of tenofovir disoproxil fumarate in adults.
 
-In Trial 115 (12 years to less than 18 years of age) and Trial 144 (2 years to less than 12 years of age), both the tenofovir disoproxil fumarate and placebo treatment arms experienced an overall increase in mean lumbar spine and total body BMD over 72 and 48 weeks, respectively, as expected for a pediatric population (Table 11).
+In Trial 115 (12 years to less than 18 years of age), both the tenofovir disoproxil fumarate and placebo treatment arms experienced an overall increase in mean lumbar spine and total body BMD over 72 weeks, as expected for a pediatric population (Table 11).
 In Trial 115, the mean percentage BMD gains from baseline to Week 72 in lumbar spine and total body BMD in tenofovir disoproxil fumarate-treated subjects were less than the mean percentage BMD gains observed in placebo-treated subjects (Table 11).
 Three subjects (6%) in the tenofovir disoproxil fumarate group and two subjects (4%) in the placebo group had significant (greater than or equal to 4%) lumbar spine BMD loss at Week 72.
-In Trial 144 (2 years to less than 12 years of age), mean percentage BMD gains from baseline to Week 48 in lumbar spine and total body BMD in tenofovir disoproxil fumarate-treated subjects were less than the mean percentage BMD gains observed in placebo-treated subjects.
-At Week 48, the cumulative percentage of subjects with greater than or equal to 4% decreases in spine or whole body BMD was numerically higher for subjects in the TDF group compared with the placebo group (Table 11).
-As observed in pediatric studies of HIV-infected subjects, normal skeletal growth (height) was not affected for the duration of the clinical trial [see Warnings and Precautions (5.5)].
 
-Table 11 Change in Bone Mineral Density from Baseline in Pediatric Subjects 2 Years to <12 Years of Age (Trials 115 and 144)
+Table 11 Change in Bone Mineral Density from Baseline in Pediatric Subjects 2 Years to <12 Years of Age (Trials 115)
 
-|  | Trial 115 (Week 72) |  | Trial 144 (Week 48) |  |
-| --- | --- | --- | --- | --- |
-| Tenofovir disoproxil fumarate (N=52) | Placebo (N=54) | Tenofovir disoproxil fumarate (N=60) | Placebo (N=29) |  |
-| Mean percentage change in BMD |  |  |  |  |
-| Lumbar spine | +5% | +8% | +4% | +8% |
-| Total body | +3% | +5% | +5% | +9% |
-| Cumulative incidence of ≥4% decrease in BMD |  |  |  |  |
-| Lumbar spine | 6% | 4% | 18% | 7% |
-| Total body | 0% | 2% | 7% | 0% |
-| Baseline BMD Z-score (mean) |  |  |  |  |
-| Lumbar spine | −0.43 | −0.28 | +0.02% | -0.29% |
-| Total body | −0.20 | −0.26 | +0.11% | -0.05% |
-| Mean change in BMD Z-score |  |  |  |  |
-| Lumbar spine | -0.05 | +0.07 | -0.12% | +0.14% |
-| Total body | -0.15 | +0.06 | -0.18% | +0.22% |
+|  | Trial 115 (Week 72) |  |
+| --- | --- | --- |
+| Tenofovir disoproxil fumarate (N=52) | Placebo (N=54) |  |
+| Mean percentage change in BMD |  |  |
+| Lumbar spine | +5% | +8% |
+| Total body | +3% | +5% |
+| Cumulative incidence of ≥4% decrease in BMD |  |  |
+| Lumbar spine | 6% | 4% |
+| Total body | 0% | 2% |
+| Baseline BMD Z-score (mean) |  |  |
+| Lumbar spine | −0.43 | −0.28 |
+| Total body | −0.20 | −0.26 |
+| Mean change in BMD Z-score |  |  |
+| Lumbar spine | -0.05 | +0.07 |
+| Total body | -0.15 | +0.06 |
 
 The effects of tenofovir disoproxil fumarate-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in pediatric patients 2 years and older are unknown.
 The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients 2 years and older, and in particular, the effects of long-duration exposure in younger children is unknown [see Warnings and Precautions (5.5)].
+
+Pediatric use information is approved for Gilead Sciences, Inc.'s VIREAD® (tenofovir disoproxil fumarate) tablets.
+However, due to Gilead Sciences, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 

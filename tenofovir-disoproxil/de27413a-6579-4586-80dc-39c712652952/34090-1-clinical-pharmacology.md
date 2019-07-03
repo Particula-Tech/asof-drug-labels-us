@@ -55,10 +55,10 @@ Tenofovir pharmacokinetics are similar in male and female subjects.
 
 Pediatric Patients
 
-2 Years and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 years to less than 18 years of age (Table 13).
+Steady-state pharmacokinetics of tenofovir were evaluated in HIV-1 infected pediatric subjects 12 years to less than 18 years of age (Table 13).
 Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of tenofovir disoproxil fumarate 300 mg (tablet) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil fumarate 300 mg.
 
-Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV-1-infected Pediatric Patients 2 years and older for the Tablet
+Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters for HIV-1-infected Pediatric Patients 12 years and older for the Tablet
 
 | Dose and Formulation | 300 mg Tablet |
 | --- | --- |
@@ -66,7 +66,7 @@ Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV
 | Cmax (µg/mL) | 0.38 ± 0.13 |
 | AUCtau (µg•hr/mL) | 3.39 ± 1.22 |
 
-Tenofovir exposures in HBV-infected pediatric subjects (12 years to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet and pediatric subjects 2 years to less than 12 years of age receiving tenofovir disoproxil fumarate 8 mg/kg of body weight (tablet or powder) up to a maximum dose of 300 mg were comparable to exposures achieved in HIV-1 infected adult subjects receiving identical doses.
+Tenofovir exposures in HBV-infected pediatric subjects (12 years to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet were comparable to exposures achieved in HIV-1 infected adult subjects receiving identical doses.
 
 Geriatric Patients
 
@@ -135,12 +135,12 @@ Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira
 | e. Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results. |  |  |  |  |  |
 | f. Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. |  |  |  |  |  |
 | g. Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. |  |  |  |  |  |
-| h. Study conducted with ATRIPLA (EFV/FTC/TDF) coadministered with HARVONI; coadministration with HARVONI also results in comparable increases in tenofovir exposure when TDF is administered as COMPLERA (FTC/rilpivirine/TDF), or TRUVADA + dolutegravir. |  |  |  |  |  |
+| h. Study conducted with ATRIPLA® (EFV/FTC/TDF) coadministered with HARVONI; coadministration with HARVONI also results in comparable increases in tenofovir exposure when TDF is administered as COMPLERA® (FTC/rilpivirine/TDF), or TRUVADA + dolutegravir. |  |  |  |  |  |
 | i. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). |  |  |  |  |  |
-| j. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD (elvitegravir/cobicistat/FTC/TDF), TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. |  |  |  |  |  |
+| j. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD® (elvitegravir/cobicistat/FTC/TDF), TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. |  |  |  |  |  |
 | k. Administered as raltegravir + FTC/TDF. |  |  |  |  |  |
-| l Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. |  |  |  |  |  |
-| m.. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. |  |  |  |  |  |
+| l. Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. |  |  |  |  |  |
+| m. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. |  |  |  |  |  |
 | n. Aptivus Prescribing Information. |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with tenofovir disoproxil fumarate: abacavir, didanosine (buffered tablets), emtricitabine, entecavir, and lamivudine.
@@ -174,6 +174,9 @@ Table 16 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | h. Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when TDF and ritonavir-boosted saquinavir are coadministered. |  |  |  |  |  |
 | i. Aptivus Prescribing Information. |  |  |  |  |  |
 
+Pediatric use information is approved for Gilead Sciences, Inc.'s VIREAD® (tenofovir disoproxil fumarate) tablets.
+However, due to Gilead Sciences, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 12.4 Microbiology
 
 Mechanism of Action
@@ -195,7 +198,7 @@ Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B
 Resistance
 
 HIV-1 isolates with reduced susceptibility to tenofovir have been selected in cell culture.
-These viruses expressed a K65R substitution in RT and showed a 2- to 4- fold reduction in susceptibility to tenofovir.
+These viruses expressed a K65R substitution in RT and showed a 2- to 4-fold reduction in susceptibility to tenofovir.
 In addition, a K70E substitution in HIV-1 RT has been selected by tenofovir and results in low-level reduced susceptibility to tenofovir.
 
 In Trial 903 of treatment-naïve subjects (tenofovir disoproxil fumarate + 3TC + EFV versus d4T + 3TC + EFV) [see Clinical Studies (14.2)], genotypic analyses of isolates from subjects with virologic failure through Week 144 showed development of EFV and 3TC resistance-associated substitutions to occur most frequently and with no difference between the treatment arms.
@@ -210,7 +213,7 @@ Through 144 weeks of Trial 934, no subjects have developed a detectable K65R sub
 
 Cross Resistance
 
-Cross resistance among certain HIV-1 NRTIs has been recognized.
+Cross-resistance among certain HIV-1 NRTIs has been recognized.
 The K65R and K70E substitutions selected by tenofovir are also selected in some HIV-1 infected subjects treated with abacavir or didanosine.
 HIV-1 isolates with this substitution also show reduced susceptibility to FTC and 3TC.
 Therefore, cross resistance among these drugs may occur in patients whose virus harbors the K65R or K70E substitution.

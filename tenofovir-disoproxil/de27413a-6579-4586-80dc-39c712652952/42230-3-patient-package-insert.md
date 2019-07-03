@@ -29,7 +29,7 @@ Tenofovir disoproxil fumarate is a prescription medicine that is used to:
 
 - treat HIV-1 infection when used with other anti-HIV-1 medicines in adults and children 2 years of age and older who weigh at least 77 pounds (35 kg).
   HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
-- treat HBV infection in adults and children 2 years of age and older who weigh at least 77 pounds (35 kg).
+- treat HBV infection in adults and children 12 years of age and older who weigh at least 77 pounds (35 kg).
   It is not known if tenofovir disoproxil fumarate is safe and effective in children under 2 years of age.
 
 What should I tell my healthcare provider before taking tenofovir disoproxil fumarate tablets?
@@ -45,12 +45,12 @@ Before you take tenofovir disoproxil fumarate tablets, tell your healthcare prov
   Pregnancy Registry.
   There is a pregnancy registry for women who take tenofovir disoproxil fumarate during pregnancy.
   The purpose of this registry is to collect information about the health of you and your baby.
-  Talk to your healthcare provider about how you can take part in this registry
+  Talk to your healthcare provider about how you can take part in this registry.
 
 - are breastfeeding or plan to breastfeed.
-  Tenofovir disoproxil fumarate can pass to your baby in your breast milk
-- Do not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby
-- If you take tenofovir disoproxil fumarate for treatment of HBV infection, talk with your healthcare provider about the best way to feed your baby
+  Tenofovir disoproxil fumarate can pass to your baby in your breast milk.
+- Do not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+- If you take tenofovir disoproxil fumarate for treatment of HBV infection, talk with your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -146,9 +146,9 @@ You can ask your healthcare provider for information about this vaccine.
 
 What are the ingredients in Tenofovir disoproxil fumarate tablet?
 
-Active Ingredient: tenofovir disoproxil fumarate
+Active ingredient: tenofovir disoproxil fumarate
 
-Inactive Ingredients: Lactose monohydrate, Croscarmellose sodium, Corn starch, Polysorbate 80, Microcrystalline cellulose, Magnesium stearate.
+Inactive ingredients: Lactose monohydrate, Croscarmellose sodium, Corn starch, Polysorbate 80, Microcrystalline cellulose, Magnesium stearate.
 
 Tablet Coating: Opadry II Y-30-10671-A Light blue (Lactose monohydrate, HPMC2910/Hypromellose 15cP, Titanium dioxide, Triacetin / Glycerol triacetate, FD&C Blue #2/Indigo carmine Aluminum Lake).
 
@@ -175,4 +175,4 @@ Cipla USA, Inc.
 
 Suite 130, Sunrise, FL 33323
 
-Revised: 01/2019
+Revised: 6/2019

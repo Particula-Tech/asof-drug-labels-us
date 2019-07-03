@@ -16,11 +16,14 @@ Table 19 Trials Conducted with Tenofovir Disoproxil Fumarate in Adults and Pedia
 | Trial 121b (NCT00737568) | Adults with lamivudine-resistant chronic HBV | tenofovir disoproxil fumarate (141) | 96 |
 | Trial 0108b (NCT00298363) | Adults with chronic HBV and decompensated liver disease | tenofovir disoproxil fumarate (45) | 48 |
 | Trial 321d (NCT00352053) | HIV-1 treatment-experienced pediatric subjects 12 years to <18 years | tenofovir disoproxil fumarate (45) Placebo (42) | 48 |
-| Trial 115d (NCT00734162) | Pediatric subjects 12 years to <18 years with chronic HBV | tenofovir disoproxil fumarate D (52) Placebo (54) | 72 |
+| Trial 115d (NCT00734162) | Pediatric subjects 12 years to <18 years with chronic HBV | tenofovir disoproxil fumarate (52) Placebo (54) | 72 |
 | a. Randomized and dosed. |  |  |  |
 | b. Randomized, double-blind, active-controlled trial. |  |  |  |
 | c. Randomized, open-label active-controlled trial. |  |  |  |
 | d. Randomized, double-blind, placebo-controlled trial. |  |  |  |
+
+Pediatric use information is approved for Gilead Sciences, Inc.'s VIREAD® (tenofovir disoproxil fumarate) tablets.
+However, due to Gilead Sciences, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.2 Clinical Trial Results in Adults with HIV-1 Infection
 
@@ -146,7 +149,7 @@ The primary data analysis was conducted after all subjects reached 48 weeks of t
 
 The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL (69 IU/mL) and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (see Table 23).
 
-Table 23 Histological, Virological, Biochemical, and Serological Response at Week 48 (Trials 0102 and 0103
+Table 23 Histological, Virological, Biochemical, and Serological Response at Week 48 (Trials 0102 and 0103)
 
 |  | 0102 (HBeAg-) |  | 0103 (HBeAg+) |  |
 | --- | --- | --- | --- | --- |
@@ -215,8 +218,15 @@ Pediatric Subjects 12 Years to less than 18 Years of Age with Chronic HBV
 
 In Trial 115, 106 HBeAg negative (9%) and positive (91%) subjects aged 12 to less than 18 years with chronic HBV infection were randomized to receive blinded treatment with tenofovir disoproxil fumarate 300 mg (N=52) or placebo (N=54) for 72 weeks.
 At trial entry, the mean HBV DNA was 8.1 log10 copies/mL and mean ALT was 101 U/L.
-Of 52 subjects treated with tenofovir disoproxil fumarate, 20 subjects were nucleos(t)idenaïve and 32 subjects were nucleos(t)ide-experienced.
+Of 52 subjects treated with tenofovir disoproxil fumarate, 20 subjects were nucleos(t)ide-naïve and 32 subjects were nucleos(t)ide-experienced.
 Thirty-one of the 32 nucleos(t)ide-experienced subjects had prior lamivudine experience.
 At Week 72, 88% (46/52) of subjects in the tenofovir disoproxil fumarate group and 0% (0/54) of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
 Among subjects with abnormal ALT at baseline, 74% (26/35) of subjects receiving tenofovir disoproxil fumarate had normalized ALT at Week 72 compared to 31% (13/42) in the placebo group.
 One tenofovir disoproxil fumarate-treated subject experienced sustained HBsAg-loss and seroconversion to anti-HBs during the first 72 weeks of trial participation.
+
+In Trial 115, sequencing data from paired baseline and on treatment HBV isolates from subjects who received tenofovir disoproxil fumarate were available for 14 of 15 subjects who had plasma HBV DNA ≥400 copies/mL.
+
+No amino acid substitutions associated with resistance to tenofovir disoproxil fumarate were identified in these isolates by Week 72 (Trial 115).
+
+Pediatric use information is approved for Gilead Sciences, Inc.'s VIREAD® (tenofovir disoproxil fumarate) tablets.
+However, due to Gilead Sciences, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
