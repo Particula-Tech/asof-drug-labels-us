@@ -139,10 +139,10 @@ This interaction is not considered clinically significant as no dose adjustment 
 Lamivudine is a substrate of P-gp and BCRP; however, considering its absolute bioavailability (87%), it is unlikely that these transporters play a significant role in the absorption of lamivudine.
 Therefore, coadministration of drugs that are inhibitors of these efflux transporters is unlikely to affect the disposition and elimination of lamivudine.
 
-Interferon Alfa There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects [see Warnings and Precautions (5.3)].
+Interferon Alfa There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects.
 
 Ribavirin In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.3)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects.
 
 Sorbitol (Excipient)
 

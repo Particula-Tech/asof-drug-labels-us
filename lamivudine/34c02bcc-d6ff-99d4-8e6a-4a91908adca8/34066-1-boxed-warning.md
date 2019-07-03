@@ -1,4 +1,4 @@
-# WARNING: EXACERBATIONS OF HEPATITIS B, and DIFFERENT FORMULATIONS OF LAMIVUDINE TABLETS.
+# WARNING: EXACERBATIONS OF HEPATITIS B, AND DIFFERENT FORMULATIONS OF LAMIVUDINE TABLETS.
 
 Exacerbations of Hepatitis B Severe acute exacerbations of hepatitis B have been reported in patients who are co-infected with hepatitis B virus (HBV) and human immunodeficiency virus (HIV-1) and have discontinued lamivudine tablets.
 Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue lamivudine tablets and are co-infected with HIV-1 and HBV.

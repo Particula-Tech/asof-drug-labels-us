@@ -18,9 +18,6 @@ Lamivudine tablets can cause serious side effects, including:
   - If you stop taking lamivudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver.
 - Resistant Hepatitis B Virus (HBV).
   If you have HIV-1 and hepatitis B, the hepatitis B virus can change (mutate) during your treatment with lamivudine tablets and become harder to treat (resistant).
-- Use with interferon and ribavirin-based regimens.
-  Worsening of liver disease that has caused death has happened in people infected with both HIV-1 and hepatitis C virus who are taking antiretroviral medicines and are also being treated for hepatitis C with interferon with or without ribavirin.
-  If you are taking lamivudine tablets and interferon with or without ribavirin, tell your healthcare provider if you have any new symptoms.
 
 What is lamivudine?
 Lamivudine is a prescription medicine used together with other antiretroviral medicines to treat Human Immunodeficiency Virus (HIV-1) infection.
@@ -163,7 +160,7 @@ APOTEX INC. LAMIVUDINE TABLETS, USP 150 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: May 2018
+Revised: May 2019
 
 Rev.
-12
+13

@@ -25,28 +25,19 @@ A majority of these cases have been in women.
 Female sex and obesity may be risk factors for the development of lactic acidosis and severe hepatomegaly with steatosis in patients treated with antiretroviral nucleoside analogues.
 Treatment with lamivudine tablets should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
-## 5.3 Use with Interferon- and Ribavirin-Based Regimens
-
-In vitro studies have shown ribavirin can reduce the phosphorylation of pyrimidine nucleoside analogues such as lamivudine.
-Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with lamivudine in HIV-1/HCV co-infected patients [see Clinical Pharmacology (12.3)], hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin.
-Patients receiving interferon alfa with or without ribavirin and lamivudine should be closely monitored for treatment-associated toxicities, especially hepatic decompensation.
-Discontinuation of lamivudine should be considered as medically appropriate.
-Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh greater than 6).
-See the full prescribing information for interferon and ribavirin.
-
-## 5.4 Pancreatitis
+## 5.3 Pancreatitis
 
 In pediatric patients with a history of prior antiretroviral nucleoside exposure, a history of pancreatitis, or other significant risk factors for the development of pancreatitis, lamivudine should be used with caution.
 Treatment with lamivudine should be stopped immediately if clinical signs, symptoms, or laboratory abnormalities suggestive of pancreatitis occur [see Adverse Reactions (6.1)].
 
-## 5.5 Immune Reconstitution Syndrome
+## 5.4 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including lamivudine tablets.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.6 Lower Virologic Suppression Rates and Increased Risk of Viral Resistance with Oral Solution
+## 5.5 Lower Virologic Suppression Rates and Increased Risk of Viral Resistance with Oral Solution
 
 Pediatric subjects who received lamivudine oral solution (at weight band-based doses approximating 8 mg per kg per day) concomitantly with other antiretroviral oral solutions at any time in the ARROW trial had lower rates of virologic suppression, lower plasma lamivudine exposure, and developed viral resistance more frequently than those receiving lamivudine tablets [see Clinical Pharmacology (12.3), Microbiology (12.4), Clinical Studies (14.2)].
 
