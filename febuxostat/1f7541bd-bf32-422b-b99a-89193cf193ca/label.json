@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA205467"
+  ],
+  "inn": "febuxostat",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "47335-721-13",
+    "47335-721-81",
+    "47335-721-83",
+    "47335-722-18",
+    "47335-722-83",
+    "47335-722-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "febuxostat",
+      "name": "Febuxostat"
+    }
+  ],
+  "setid": "1f7541bd-bf32-422b-b99a-89193cf193ca",
+  "source": "dailymed"
+}
