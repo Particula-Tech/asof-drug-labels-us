@@ -58,7 +58,7 @@ Injections into the levator scapulae may be associated with an increased risk of
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
 These reactions can occur within hours to weeks after injection with botulinum toxin [see Warnings and Precautions (5.2)].
 
-## 5.7 Pulmonary Effects of BOTOX in Patients with Compromised Respiratory Status Treated for Spasticity or for Detrusor Overactivity Associated with a Neurologic Condition
+## 5.7 Pulmonary Effects of BOTOX in Patients with Compromised Respiratory Status Treated for Spasticity or for Detrusor Overactivity associated with a Neurologic Condition
 
 Patients with compromised respiratory status treated with BOTOX for spasticity should be monitored closely.
 In a double-blind, placebo-controlled, parallel group study in adult patients treated for upper limb spasticity with stable reduced pulmonary function (defined as FEV1 40-80% of predicted value and FEV1/FVC ≤ 0.75), the event rate in change of Forced Vital Capacity (FVC) ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 6).

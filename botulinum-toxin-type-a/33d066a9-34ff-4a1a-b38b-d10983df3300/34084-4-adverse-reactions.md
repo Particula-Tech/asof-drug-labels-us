@@ -78,7 +78,7 @@ The table below presents the most frequently reported adverse reactions within 1
 
 Table 15: Adverse Reactions Reported in a Post Approval Study (NDO-3) by >2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients Within the First 12 Weeks after Intradetrusor Injection
 
-| Adverse Reactions | BOTOX 100 Unit (N=66) % | Placebo (N=78) % |
+| Adverse Reactions | BOTOX 100 Units (N=66) % | Placebo (N=78) % |
 | --- | --- | --- |
 | Urinary tract infection Bacteriuria Urinary retention Dysuria Residual urine volume* | 26 9 15 5 17 | 6 5 1 1 1 |
 
@@ -117,14 +117,14 @@ The most frequently reported adverse reactions following injection of BOTOX for 
 
 Table 17: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Adult Upper Limb Spasticity Double-blind, Placebo-controlled Clinical Trials
 
-| Adverse Reactions | BOTOX 251 Units- 360 Units (N=115) % | BOTOX 150 Units- 250 Units (N=188) % | BOTOX <150 Units (N=54) % | Placebo (N=182) % |
+| Adverse Reactions | BOTOX 251 Units - 360 Units (N=115) % | BOTOX 150 Units - 250 Units (N=188) % | BOTOX <150 Units (N=54) % | Placebo (N=182) % |
 | --- | --- | --- | --- | --- |
 | Gastrointestinal disorder Nausea | 3 | 2 | 2 | 1 |
 | General disorders and administration site conditions Fatigue | 3 | 2 | 2 | 0 |
 | Infections and infestations Bronchitis | 3 | 2 | 0 | 1 |
 | Musculoskeletal and connective tissue disorders Pain in extremity Muscular weakness | 6 0 | 5 4 | 9 2 | 4 1 |
 
-Twenty two adult patients, enrolled in double-blind placebo controlled studies, received 400 Units or higher of BOTOX for treatment of upper limb spasticity.
+Twenty-two adult patients, enrolled in double-blind placebo controlled studies, received 400 Units or higher of BOTOX for treatment of upper limb spasticity.
 In addition, 44 adults received 400 Units of BOTOX or higher for four consecutive treatments over approximately one year for treatment of upper limb spasticity.
 The type and frequency of adverse reactions observed in patients treated with 400 Units of BOTOX were similar to those reported in patients treated for upper limb spasticity with 360 Units of BOTOX.
 
@@ -158,7 +158,7 @@ Table 19: Adverse Reactions Reported by >2% of BOTOX 6 Units/kg treated Patients
 | Respiratory, thoracic and mediastinal disorders Rhinorrhea Nasal congestion | 4 3 | 0 0 | 1 1 |
 | Nervous system disorders Seizure** | 5 | 1 | 0 |
 
-*Includes upper respiratory tract infection and viral upper respiratory tract infection
+*Includes upper respiratory tract infection and viral respiratory tract infection
 
 **Includes seizure and partial seizure
 

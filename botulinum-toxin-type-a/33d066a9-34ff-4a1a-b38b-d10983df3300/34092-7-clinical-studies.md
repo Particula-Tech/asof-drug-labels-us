@@ -5,7 +5,7 @@
 Two double-blind, placebo-controlled, randomized, multi-center, 24-week clinical studies were conducted in patients with OAB with symptoms of urge urinary incontinence, urgency, and frequency (Studies OAB-1 and OAB-2).
 Patients needed to have at least 3 urinary urgency incontinence episodes and at least 24 micturitions in 3 days to enter the studies.
 A total of 1105 patients, whose symptoms had not been adequately managed with anticholinergic therapy (inadequate response or intolerable side effects), were randomized to receive either 100 Units of BOTOX (n=557), or placebo (n=548).
-Patients received 20 injections of study drug (5 units of BOTOX or placebo) spaced approximately 1 cm apart into the detrusor muscle.
+Patients received 20 injections of study drug (5 Units of BOTOX or placebo) spaced approximately 1 cm apart into the detrusor muscle.
 
 In both studies, significant improvements compared to placebo in the primary efficacy variable of change from baseline in daily frequency of urinary incontinence episodes were observed for BOTOX 100 Units at the primary time point of week 12.
 Significant improvements compared to placebo were also observed for the secondary efficacy variables of daily frequency of micturition episodes and volume voided per micturition.
@@ -128,7 +128,7 @@ Re-treatment was based on loss of effect on incontinence episode frequency (50% 
 A placebo-controlled, double-blind randomized post-approval 52 week study (Study NDO-3) was conducted in MS patients with urinary incontinence due to neurogenic detrusor overactivity who were not adequately managed with at least one anticholinergic agent and not catheterizing at baseline.
 These patients were randomized to receive either 100 Units of BOTOX (n=66) or placebo (n=78).
 
-Significant improvements compared to placebo in the primary efficacy variable of change from baseline in daily frequency of incontinence episodes were observed for BOTOX® (100 Units) at the primary efficacy time point at week 6.
+Significant improvements compared to placebo in the primary efficacy variable of change from baseline in daily frequency of incontinence episodes were observed for BOTOX (100 Units) at the primary efficacy time point at week 6.
 Increases in maximum cystometric capacity and reductions in maximum detrusor pressure during the first involuntary detrusor contraction were also observed.
 These primary and secondary endpoints are shown in Table 25.
 
@@ -199,7 +199,7 @@ Table 27: BOTOX Dose and Injection Sites in Study 1
 | Thumb Adductor Pollicisa | 0.4 | 20 | 1 |
 | Flexor Pollicis Longusa | 0.4 | 20 | 1 |
 
-a injected only if spasticity is present in this muscle
+a Injected only if spasticity is present in this muscle
 
 The primary efficacy variable was wrist flexors muscle tone at week 6, as measured by the Ashworth score.
 The Ashworth Scale is a 5-point scale with grades of 0 [no increase in muscle tone] to 4 [limb rigid in flexion or extension].
@@ -301,9 +301,9 @@ c Total dose of BOTOX injected into the flexor digitorum profundus and flexor di
 d Dose of BOTOX injected into biceps brachii muscle
 
 Study 4 included 170 adult patients (87 BOTOX and 83 placebo) with upper limb spasticity who were at least 6 months post-stroke.
-In Study 4, patients received 20 Units of BOTOX into the adductor pollicis and flexor pollicis longus (total BOTOX dose =40 Units in thumb muscles) or placebo (see Table 32).
+In Study 4, patients received 20 Units of BOTOX into the adductor pollicis and flexor pollicis longus (total BOTOX dose = 40 Units in thumb muscles) or placebo (see Table 32).
 Study 5 included 109 patients with upper limb spasticity who were at least 6 months post-stroke.
-In Study 5, adult patients received 15 Units (low dose) or 20 Units (high dose) of BOTOX into the adductor pollicis and flexor pollicis longus under EMG guidance (total BOTOX low dose =30 Units, total BOTOX high dose =40 Units), or placebo (see Table 32).
+In Study 5, adult patients received 15 Units (low dose) or 20 Units (high dose) of BOTOX into the adductor pollicis and flexor pollicis longus under EMG guidance (total BOTOX low dose = 30 Units, total BOTOX high dose = 40 Units), or placebo (see Table 32).
 The duration of follow-up in Study 4 and Study 5 was 12 weeks.
 
 Table 32: BOTOX Dose and Injection Sites in Studies 4 and 5
@@ -413,9 +413,9 @@ Table 37: BOTOX Dose and Injection Sites in Study 1
 | Flexor digitorum profundus | 0.5 Units/kg (25 Units) | 1 Units/kg (50 Units) | 2 |
 | Flexor digitorum sublimis | 0.5 Units/kg (25 Units) | 1 Units/kg (50 Units) | 2 |
 
-* did not exceed a total dose of 100 Units
+* Did not exceed a total dose of 100 Units
 
-** did not exceed a total dose of 200 Units
+** Did not exceed a total dose of 200 Units
 
 The co-primary endpoints were the average of the change from baseline in modified Ashworth Scale (MAS) principal muscle group score (elbow or wrist) at Week 4 and Week 6, and the average of the Clinical Global Impression of Overall Change by Physician (CGI) at Week 4 and Week 6.
 The CGI evaluated the response to treatment in terms of how the patient was doing in his/her life using a 9-point scale (-4=very marked worsening to +4=very marked improvement).
@@ -432,7 +432,7 @@ Table 38: Co-Primary Efficacy Endpoints Results in Study 1 (Pediatric Upper Limb
 | Mean Clinical Global Impression Score |  |  |  |
 | Week 4 and 6 Average | 1.88 | 1.87 | 1.66 |
 
-* Nominal p value <0.05
+*Nominal p value <0.05
 
 Figure 14: Modified Ashworth Scale Score for Study 1 (Pediatric Upper Limb Spasticity) – Mean Change from Baseline by Visit
 

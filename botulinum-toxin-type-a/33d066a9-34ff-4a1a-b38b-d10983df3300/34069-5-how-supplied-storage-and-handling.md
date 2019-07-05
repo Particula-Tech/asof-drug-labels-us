@@ -1,6 +1,6 @@
 # 16HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+## 16.1How Supplied
 
 BOTOX (onabotulinumtoxinA) for injection is a sterile, vacuum-dried powder supplied in a single-dose vial in the following sizes:
 
