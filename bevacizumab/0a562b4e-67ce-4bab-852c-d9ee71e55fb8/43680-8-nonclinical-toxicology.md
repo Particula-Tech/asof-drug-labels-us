@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No carcinogenicity or mutagenicity studies of bevacizumab products have been conducted.
+No studies have been conducted to assess potential of bevacizumab products for carcinogenicity or mutagenicity.
 
 Bevacizumab products may impair fertility.
 Female cynomolgus monkeys treated with 0.4 to 20 times the recommended human dose of bevacizumab exhibited arrested follicular development or absent corpora lutea as well as dose-related decreases in ovarian and uterine weights, endometrial proliferation, and the number of menstrual cycles.

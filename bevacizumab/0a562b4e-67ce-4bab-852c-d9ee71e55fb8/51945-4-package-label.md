@@ -18,7 +18,7 @@ Discard unused portion
 
 Contains 1 single dose vial
 
-For Intravenous Infusion after Dilution
+For Intravenous Infusion After Dilution
 
 Store refrigerated at 2°C to 8°C (36°F to 46°F).
 
@@ -26,8 +26,6 @@ Protect from light.
 Do not Freeze or Shake
 
 Sterile Solution – No Preservative
-
-This Product Contains Dry Natural Rubber.
 
 Rx Only
 
@@ -53,15 +51,13 @@ Discard unused portion
 
 Contains 1 single dose vial
 
-For Intravenous Infusion after Dilution
+For Intravenous Infusion After Dilution
 
 Store refrigerated at 2°C to 8°C (36°F to 46°F).
 Protect from light.
 Do not Freeze or Shake
 
 Sterile Solution – No Preservative
-
-This Product Contains Dry Natural Rubber.
 
 Rx Only
 

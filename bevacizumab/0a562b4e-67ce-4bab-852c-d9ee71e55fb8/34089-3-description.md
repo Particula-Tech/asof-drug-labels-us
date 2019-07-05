@@ -1,11 +1,12 @@
 # 11DESCRIPTION
 
-MVASI (bevacizumab-awwb) is a recombinant humanized monoclonal IgG1 antibody that binds to and inhibits the biologic activity of human vascular endothelial growth factor (VEGF) in in vitro and in vivo assay systems.
-Bevacizumab products contain human framework regions and the complementarity-determining regions of a murine antibody that binds to VEGF.
-MVASI has an approximate molecular weight of 149 kD.
-MVASI is produced in a mammalian cell (Chinese Hamster Ovary) expression system.
+Bevacizumab-awwb is a vascular endothelial growth factor inhibitor.
+Bevacizumab-awwb is a recombinant humanized monoclonal IgG1 antibody that contains human framework regions and murine complementarity-determining regions.
+Bevacizumab-awwb has an approximate molecular weight of 149 kDa.
+Bevacizumab-awwb is produced in a mammalian cell (Chinese Hamster Ovary) expression system.
 
-MVASI is a colorless to pale yellow, sterile, pH 6.2 solution for intravenous infusion.
-MVASI is supplied in 100 mg and 400 mg preservative-free, single-use vials to deliver 4 mL or 16 mL of bevacizumab-awwb (25 mg/mL).
-The 100 mg product is formulated in 240 mg α,α-trehalose dihydrate, 23.2 mg sodium phosphate (monobasic, monohydrate), 4.8 mg sodium phosphate (dibasic, anhydrous), 1.6 mg polysorbate 20, and Water for Injection, USP.
-The 400 mg product is formulated in 960 mg α,α-trehalose dihydrate, 92.8 mg sodium phosphate (monobasic, monohydrate), 19.2 mg sodium phosphate (dibasic, anhydrous), 6.4 mg polysorbate 20, and Water for Injection, USP.
+MVASI (bevacizumab-awwb) injection is a sterile, preservative-free, clear to slightly opalescent, colorless to pale yellow solution in a single-dose vial for intravenous use.
+MVASI contains bevacizumab-awwb at a concentration of 25 mg/mL in either 100 mg/4 mL or 400 mg/16 mL, single-dose vials.
+
+Each mL of solution contains 25 mg bevacizumab-awwb, α,α-trehalose dihydrate (60 mg), polysorbate 20 (0.4 mg), sodium phosphate dibasic, anhydrous (1.2 mg), sodium phosphate monobasic, monohydrate (5.8 mg), and Water for Injection, USP.
+The pH is 6.2.

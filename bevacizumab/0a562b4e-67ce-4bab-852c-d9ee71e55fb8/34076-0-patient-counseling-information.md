@@ -1,26 +1,74 @@
 # 17PATIENT COUNSELING INFORMATION
 
-Advise patients:
+Gastrointestinal Perforations and Fistulae
 
-- To undergo routine blood pressure monitoring and to contact their health care provider if blood pressure is elevated.
-- To immediately contact their health care provider for unusual bleeding, high fever, rigors, sudden onset of worsening neurological function, or persistent or severe abdominal pain, severe constipation, or vomiting.
-- Of increased risk of wound healing complications during and following MVASI.
-- Of increased risk of an arterial thromboembolic event.
-- Of the increased risk for ovarian failure following MVASI treatment.
+Bevacizumab products may increase the risk of developing gastrointestinal perforations and fistulae.
+Advise patients to immediately contact their health care provider for high fever, rigors, persistent or severe abdominal pain, severe constipation, or vomiting [see Warnings and Precautions (5.1)].
 
-Embryo-fetal Toxicity
+Surgery and Wound Healing Complications
 
-- Advise female patients that MVASI may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.11), Use in Specific Populations (8.1)].
-- Advise females of reproductive potential to use effective contraception during treatment with MVASI and for 6 months after the last dose of MVASI [see Use in Specific Populations (8.3)].
+Bevacizumab products can increase the risk of wound healing complications.
+Advise patients that MVASI should not be used for at least 28 days before or after surgery and until surgical wounds are fully healed [see Warnings and Precautions (5.2)].
+
+Hemorrhage
+
+Bevacizumab products can increase the risk of hemorrhage.
+Advise patients to immediately contact their health care provider for signs and symptoms of serious or unusual bleeding including coughing or spitting blood [see Warnings and Precautions (5.3)].
+
+Arterial and Venous Thromboembolic Events
+
+Bevacizumab products increase the risk of arterial and venous thromboembolic events.
+Advise patients to immediately contact their health care provider for signs and symptoms of arterial or venous thromboembolism [see Warnings and Precautions (5.4, 5.5)].
+
+Hypertension
+
+Bevacizumab products can increase blood pressure.
+Advise patients that they will undergo routine blood pressure monitoring and to contact their healthcare provider if they experience changes in blood pressure [see Warnings and Precautions (5.6)].
+
+Posterior Reversible Leukoencephalopathy Syndrome
+
+Posterior reversible encephalopathy syndrome (PRES) has been associated with bevacizumab products treatment.
+Advise patients to immediately contact their health care provider for new onset or worsening neurological function [see Warnings and Precautions (5.7)].
+
+Renal Injury and Proteinuria
+
+Bevacizumab products increase the risk of proteinuria and renal injury, including nephrotic syndrome.
+Advise patients that treatment with MVASI requires regular monitoring of renal function and to contact their health care provider for proteinuria or signs and symptoms of nephrotic syndrome [see Warnings and Precautions (5.8)].
+
+Infusion-Related Reactions
+
+Bevacizumab products can cause infusion-related reactions.
+Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.9)].
+
+Congestive Heart Failure
+
+Bevacizumab products can increase the risk of developing congestive heart failure.
+Advise patients to contact their healthcare provider immediately for signs and symptoms of CHF [see Warnings and Precautions (5.12)].
+
+Embryo-Fetal Toxicity
+
+Advise female patients that bevacizumab products may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with MVASI and for 6 months after the last dose of MVASI [see Use in Specific Populations (8.3)].
+
+Ovarian Failure
+
+Bevacizumab products may lead to ovarian failure.
+Advise patients of potential options for preservation of ova prior to starting treatment [see Warnings and Precautions (5.11)].
 
 Lactation
 
-- Advise nursing women that breastfeeding is not recommended during treatment with MVASI [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during treatment with MVASI and for 6 months after the last dose [see Use in Specific Populations (8.2)].
 
-MVASI (bevacizumab-awwb)
+MVASITM (bevacizumab-awwb)
 
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 Marketed by Amgen Inc.
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 US License No. 1080
 
-© 2017 Amgen Inc. All rights reserved.
+Marketed by Amgen Inc.
 
-1xxxxxx- v1
+AMGEN® and MVASITM (bevacizumab-awwb) are trademarks owned or licensed by Amgen Inc., its subsidiaries, or affiliates.
+
+AVASTIN® (bevacizumab) is a registered trademark owned or licensed by Genentech Inc., its subsidiaries, or affiliates.
+
+© 2017-2019 Amgen Inc. All rights reserved.
+
+1xxxxxx- v2

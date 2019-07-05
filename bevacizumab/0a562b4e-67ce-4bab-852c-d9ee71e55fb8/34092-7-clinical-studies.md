@@ -1,243 +1,262 @@
 # 14CLINICAL STUDIES
 
-## 14.1 Metastatic Colorectal Cancer (mCRC)
+## 14.1 Metastatic Colorectal Cancer
 
-Study 1
+Study AVF2107g
 
-In this double-blind, active-controlled study, patients were randomized (1:1:1) to IV bolus-IFL (irinotecan 125 mg/m2, 5-FU 500 mg/m2, and leucovorin (LV) 20 mg/m2 given once weekly for 4 weeks every 6 weeks) plus placebo (Arm 1), bolus-IFL plus bevacizumab (5 mg/kg every 2 weeks) (Arm 2), or 5-FU/LV plus bevacizumab (5 mg/kg every 2 weeks) (Arm 3).
-Enrollment in Arm 3 was discontinued, as pre-specified, when the toxicity of bevacizumab in combination with the bolus-IFL regimen was deemed acceptable.
+The safety and efficacy of Avastin was evaluated in a double-blind, active-controlled study [AVF2107g (NCT00109070)] in 923 patients with previously untreated mCRC who were randomized (1:1:1) to placebo with bolus-IFL (irinotecan 125 mg/m2, fluorouracil 500 mg/m2, and leucovorin 20 mg/m2 given once weekly for 4 weeks every 6 weeks), bevacizumab (5 mg/kg every 2 weeks) with bolus-IFL, or bevacizumab (5 mg/kg every 2 weeks) with fluorouracil and leucovorin.
+Enrollment to the bevacizumab with fluorouracil and leucovorin arm was discontinued, after enrollment of 110 patients in accordance with the protocol-specified adaptive design.
+Bevacizumab was continued until disease progression or unacceptable toxicity or for a maximum of 96 weeks.
 The main outcome measure was overall survival (OS).
 
-Of the 813 patients randomized to Arms 1 and 2, the median age was 60, 40% were female, 79% were Caucasian, 57% had an ECOG performance status of 0, 21% had a rectal primary and 28% received prior adjuvant chemotherapy.
-In 56% of the patients, the dominant site of disease was extra-abdominal, while the liver was the dominant site in 38% of patients.
+The median age was 60 years; 60% were male, 79% were White, 57% had an ECOG performance status of 0, 21% had a rectal primary and 28% received prior adjuvant chemotherapy.
+The dominant site of disease was extra-abdominal in 56% of patients and was the liver in 38% of patients.
 
-The addition of bevacizumab resulted in an improvement in survival across subgroups defined by age (<65 yrs, ≥65 yrs) and gender.
+The addition of bevacizumab improved survival across subgroups defined by age (< 65 years, ≥ 65 years) and sex.
 Results are presented in Table 5 and Figure 1.
 
-Table 5: Study 1 Efficacy Results
+Table 5: Efficacy Results in Study AVF2107g
 
-|  | IFL + Placebo | IFL+ bevacizumab 5 mg/kg q 2 wks |
+| Efficacy Parameter | Bevacizumab with bolus-IFL (N = 402) | Placebo with bolus-IFL (N = 411) |
 | --- | --- | --- |
-| Number of Patients | 411 | 402 |
-| Overall Survivala |  |  |
-| Median (months) | 15.6 | 20.3 |
-| Hazard ratio |  | 0.66 |
-| Progression-free Survivala |  |  |
-| Median (months) | 6.2 | 10.6 |
-| Hazard ratio |  | 0.54 |
-| Overall Response Rateb |  |  |
-| Rate (percent) | 35% | 45% |
+| Overall Survival |  |  |
+| Median, in months | 20.3 | 15.6 |
+| Hazard ratio (95% CI) | 0.66 (0.54, 0.81) |  |
+| p-valuea | < 0.001 |  |
+| Progression-Free Survival |  |  |
+| Median, in months | 10.6 | 6.2 |
+| Hazard ratio (95% CI) | 0.54 (0.45, 0.66) |  |
+| p-valuea | < 0.001 |  |
+| Overall Response Rate |  |  |
+| Rate (%) | 45% | 35% |
+| p-valueb | < 0.01 |  |
 | Duration of Response |  |  |
-| Median (months) | 7.1 | 10.4 |
+| Median, in months | 10.4 | 7.1 |
 
-a p < 0.001 by stratified log rank test. b p < 0.01 by χ2 test.
+a by stratified log-rank test.
 
-Figure 1: Duration of Survival in Study 1
+b by χ2 test.
 
-Among the 110 patients enrolled in Arm 3, median OS was 18.3 months, median progression-free survival (PFS) was 8.8 months, objective response rate (ORR) was 39%, and median duration of response was 8.5 months.
+| Figure 1: Kaplan-Meier Curves for Duration of Survival in Metastatic Colorectal Cancer in Study AVF2107g |
+| --- |
 
-Study 2
+Among the 110 patients randomized to bevacizumab with fluorouracil and leucovorin, median OS was 18.3 months, median progression-free survival (PFS) was 8.8 months, overall response rate (ORR) was 39%, and median duration of response was 8.5 months.
 
-Study 2 was a randomized, open-label, active-controlled trial in patients who were previously treated with irinotecan ± 5-FU for initial therapy for metastatic disease or as adjuvant therapy.
-Patients were randomized (1:1:1) to IV FOLFOX4 (Day 1: oxaliplatin 85 mg/m2 and LV 200 mg/m2 concurrently, then 5-FU 400 mg/m2 bolus followed by 600 mg/m2 continuously; Day 2: LV 200 mg/m2, then 5-FU 400 mg/m2 bolus followed by 600 mg/m2 continuously; repeated every 2 weeks), FOLFOX4 plus bevacizumab (10 mg/kg every 2 weeks prior to FOLFOX4 on Day 1), or bevacizumab monotherapy (10 mg/kg every 2 weeks).
+Study E3200
+
+The safety and efficacy of Avastin were evaluated in a randomized, open-label, active-controlled study [E3200 (NCT00025337)] in 829 patients who were previously treated with irinotecan and fluorouracil for initial therapy for metastatic disease or as adjuvant therapy.
+Patients were randomized (1:1:1) to FOLFOX4 (Day 1: oxaliplatin 85 mg/m2 and leucovorin 200 mg/m2 concurrently, then fluorouracil 400 mg/m2 bolus followed by 600 mg/m2 continuously; Day 2: leucovorin 200 mg/m2, then fluorouracil 400 mg/m2 bolus followed by 600 mg/m2 continuously; every 2 weeks), bevacizumab (10 mg/kg every 2 weeks prior to FOLFOX4 on Day 1) with FOLFOX4, or bevacizumab alone (10 mg/kg every 2 weeks).
+Bevacizumab was continued until disease progression or unacceptable toxicity.
 The main outcome measure was OS.
 
-The bevacizumab monotherapy arm was closed to accrual after enrollment of 244 of the planned 290 patients following a planned interim analysis by the data monitoring committee based on evidence of decreased survival compared to FOLFOX4 alone.
+The bevacizumab alone arm was closed to accrual after enrollment of 244 of the planned 290 patients following a planned interim analysis by the data monitoring committee based on evidence of decreased survival compared to FOLFOX4 alone.
 
-Of the 829 patients randomized to the three arms, the median age was 61 years, 40% were female, 87% were Caucasian, 49% had an ECOG performance status of 0, 26% received prior radiation therapy, and 80% received prior adjuvant chemotherapy, 99% received prior irinotecan, with or without 5-FU as therapy for metastatic disease, and 1% received prior irinotecan and 5-FU as adjuvant therapy.
+The median age was 61 years; 60% were male, 87% were White, 49% had an ECOG performance status of 0, 26% received prior radiation therapy, and 80% received prior adjuvant chemotherapy, 99% received prior irinotecan, with or without fluorouracil for metastatic disease, and 1% received prior irinotecan and fluorouracil as adjuvant therapy.
 
-The addition of bevacizumab to FOLFOX4 resulted in significantly longer survival as compared to FOLFOX4 alone (median OS 13.0 months vs. 10.8 months; hazard ratio 0.75 [95% CI 0.63, 0.89], p = 0.001 stratified log rank test) with clinical benefit seen in subgroups defined by age (<65 yrs, ≥65 yrs) and gender.
-PFS and ORR based on investigator assessment were higher in the bevacizumab plus FOLFOX4 arm.
+The addition of bevacizumab to FOLFOX4 resulted in significantly longer survival as compared to FOLFOX4 alone; median OS was 13.0 months vs. 10.8 months [hazard ratio (HR) 0.75 (95% CI: 0.63, 0.89), p-value of 0.001 stratified log-rank test] with clinical benefit seen in subgroups defined by age (< 65 years, ≥ 65 years) and sex.
+PFS and ORR based on investigator assessment were higher in patients receiving bevacizumab with FOLFOX4.
 
-Study 3
+Study TRC-0301
 
-The activity of bevacizumab in combination with bolus or infusional 5-FU/LV was evaluated in a single arm study enrolling 339 patients with mCRC with disease progression following both irinotecan-and oxaliplatin-containing chemotherapy regimens.
-Seventy-three percent of patients received concurrent bolus 5-FU/LV.
-One objective partial response was verified in the first 100 evaluable patients for an overall response rate of 1% (95% CI 0-5.5%).
+The activity of bevacizumab with fluorouracil (as bolus or infusion) and leucovorin was evaluated in a single arm study [TRC-0301 (NCT00066846)] enrolling 339 patients with mCRC with disease progression following both irinotecan- and oxaliplatin-based chemotherapy.
+Seventy-three percent of patients received concurrent bolus fluorouracil and leucovorin.
+One objective partial response was verified in the first 100 evaluable patients for an ORR of 1% (95 % CI: 0%, 5.5%).
 
-Study 4
+Study ML18147
 
-Study 4 was a prospective, randomized, open-label, multinational, controlled trial in patients with histologically confirmed metastatic colorectal cancer who had progressed on a first-line bevacizumab containing regimen.
-Patients were excluded if they progressed within 3 months of initiating first- line chemotherapy and if they received bevacizumab for less than 3 consecutive months in the first-line setting.
-
-Patients were randomized (1:1) within 3 months after discontinuation of bevacizumab as first-line therapy to receive fluoropyrimidine/oxaliplatin- or fluoropyrimidine/irinotecan-based chemotherapy with or without bevacizumab administered at 5 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks.
-The choice of second line therapy was contingent upon first-line chemotherapy treatment.
+The safety and efficacy of Avastin were evaluated in a prospective, randomized, open-label, multinational, controlled study [ML18147 (NCT00700102)] in 820 patients with histologically confirmed mCRC who had progressed on a first-line bevacizumab-containing regimen.
+Patients were excluded if they progressed within 3 months of initiating first-line chemotherapy and if they received bevacizumab for less than 3 consecutive months in the first-line setting.
+Patients were randomized (1:1) within 3 months after discontinuing bevacizumab as first-line treatment to receive fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy with or without bevacizumab (5 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks).
+The choice of second-line treatment was contingent upon first-line chemotherapy.
 Second-line treatment was administered until progressive disease or unacceptable toxicity.
-The main outcome measure was OS defined as the time from randomization until death from any cause.
+The main outcome measure was OS.
+A secondary outcome measure was ORR.
 
-Of the 820 patients randomized, the majority of patients were male (64%) and the median age was 63.0 years (range 21 to 84 years).
-At baseline, 52% of patients were ECOG performance status (PS) 1, 44% were ECOG PS 0, 58% received irinotecan-based therapy as first-line treatment, 55% progressed on first-line treatment within 9 months, and 77% received their last dose of bevacizumab as first-line treatment within 42 days of being randomized.
-Second-line chemotherapy regimens were generally balanced between each treatment arm.
+The median age was 63 years (21 to 84 years); 64% were male, 52% had an ECOG performance status of 1, 44% had an ECOG performance status of 0, 58% received irinotecan-based therapy as first-line treatment, 55% progressed on first-line treatment within 9 months, and 77% received their last dose of bevacizumab as first-line treatment within 42 days of being randomized.
+Second-line chemotherapy regimens were generally balanced between each arm.
 
-The addition of bevacizumab to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of survival and PFS; there was no significant difference in overall response rate, a key secondary outcome measure.
+The addition of bevacizumab to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of OS and PFS.
+There was no significant difference in ORR.
 Results are presented in Table 6 and Figure 2.
 
-Table 6: Study 4 Efficacy Results
+Table 6: Efficacy Results in Study ML18147
 
-|  | Chemotherapy | Bevacizumab + Chemotherapy |
+| Efficacy Parameter | Bevacizumab with Chemotherapy (N = 409) | Chemotherapy (N = 411) |
 | --- | --- | --- |
-| Number of Patients | 411 | 409 |
 | Overall Survivala |  |  |
-| Median (months) | 9.8 | 11.2 |
+| Median, in months | 11.2 | 9.8 |
 | Hazard ratio (95% CI) | 0.81 (0.69, 0.94) |  |
 | Progression-Free Survivalb |  |  |
-| Median (months) | 4.0 | 5.7 |
+| Median, in months | 5.7 | 4.0 |
 | Hazard ratio (95% CI) | 0.68 (0.59, 0.78) |  |
 
-a p = 0.0057 by unstratified log rank test.
+a p = 0.0057 by unstratified log-rank test.
 
-b p-value < 0.0001 by unstratified log rank test.
+b p-value < 0.0001 by unstratified log-rank test.
 
-Figure 2: Duration of Survival in Study 4
+| Figure 2: Kaplan-Meier Curves for Duration of Survival in Metastatic Colorectal Cancer in Study ML18147 |
+| --- |
 
 ## 14.2 Lack of Efficacy in Adjuvant Treatment of Colon Cancer
 
-Lack of efficacy of bevacizumab as an adjunct to standard chemotherapy for the adjuvant treatment of colon cancer was determined in two randomized, open-label, multicenter clinical trials.
+Lack of efficacy of bevacizumab as an adjunct to standard chemotherapy for the adjuvant treatment of colon cancer was determined in two randomized, open-label, multicenter clinical studies.
+The first study [BO17920 (NCT00112918)] was conducted in 3451 patients with high-risk stage II and III colon cancer, who had undergone surgery for colon cancer with curative intent.
+Patients were randomized to receive bevacizumab at a dose equivalent to 2.5 mg/kg/week on either a 2-weekly schedule with FOLFOX4 (N = 1155), or on a 3-weekly schedule with XELOX (N = 1145) or FOLFOX4 alone (N = 1151).
+The main outcome measure was disease free survival (DFS) in patients with stage III colon cancer.
 
-The first study conducted in 3451 patients with high risk stage II and III colon cancer, who had undergone surgery for colon cancer with curative intent, was a 3-arm study of bevacizumab administered at a dose equivalent to 2.5 mg/kg/week on either a 2-weekly schedule in combination with FOLFOX4, or on a 3-weekly schedule in combination with XELOX and FOLFOX4 alone.
-Patients were randomized as follows: 1151 patients to FOLFOX4 arm, 1155 to FOLFOX4 plus bevacizumab arm, and 1145 to XELOX plus bevacizumab arm.
-The median age was 58 years, 54% were male, 84% were Caucasian and 29% were ≥ age 65.
+The median age was 58 years; 54% were male, 84% were White and 29% were ≥ 65 years.
 Eighty-three percent had stage III disease.
 
-The main efficacy outcome of the study was disease free survival (DFS) in patients with stage III colon cancer.
-Addition of bevacizumab to chemotherapy did not improve DFS.
-As compared to the control arm, the proportion of stage III patients with disease recurrence or with death due to disease progression were numerically higher in the FOLFOX4 plus bevacizumab and in the XELOX plus bevacizumab arms.
-The hazard ratios for DFS were 1.17 (95% CI: 0.98-1.39) for the FOLFOX4 plus bevacizumab versus FOLFOX4 and 1.07 (95% CI: 0.90-1.28) for the XELOX plus bevacizumab versus FOLFOX4.
+The addition of bevacizumab to chemotherapy did not improve DFS.
+As compared to FOLFOX4 alone, the proportion of stage III patients with disease recurrence or with death due to disease progression were numerically higher for patients receiving bevacizumab with FOLFOX4 or with XELOX.
+The hazard ratios for DFS were 1.17 (95% CI: 0.98, 1.39) for bevacizumab with FOLFOX4 versus FOLFOX4 alone and 1.07 (95% CI: 0.90, 1.28) for bevacizumab with XELOX versus FOLFOX4 alone.
+The hazard ratios for OS were 1.31 (95% CI = 1.03, 1.67) and 1.27 (95% CI = 1, 1.62) for the comparison of bevacizumab with FOLFOX4 versus FOLFOX4 alone and bevacizumab with XELOX versus FOLFOX4 alone, respectively.
+Similar lack of efficacy for DFS was observed in the bevacizumab-containing arms compared to FOLFOX4 alone in the high-risk stage II cohort.
 
-The hazard ratios for overall survival were 1.31 (95% CI = 1.03, 1.67) and 1.27 (95% CI = 1.00, 1.62) for the comparison of bevacizumab plus FOLFOX4 versus FOLFOX4 and bevacizumab plus XELOX versus FOLFOX4, respectively.
-Similar lack of efficacy for DFS was observed in the bevacizumab-containing arms compared to control in the high-risk stage II cohort.
-
-In a second study, 2710 patients with stage II and III colon cancer who had undergone surgery with curative intent, were randomized to receive either bevacizumab administered at a dose equivalent to 2.5 mg/kg/week in combination with mFOLFOX6 (N = 1354) or mFOLFOX6 alone (N = 1356).
-The median age was 57 years, 50% were male and 87% Caucasian.
+In a second study [NSABP-C-08 (NCT00096278)], patients with stage II and III colon cancer who had undergone surgery with curative intent, were randomized to receive either bevacizumab administered at a dose equivalent to 2.5 mg/kg/week with mFOLFOX6 (N = 1354) or mFOLFOX6 alone (N = 1356).
+The median age was 57 years, 50% were male and 87% White.
 Seventy-five percent had stage III disease.
-The main efficacy outcome was DFS among stage III patients.
-The hazard ratio for DFS was 0.92 (95% CI: 0.77, 1.10).
-Overall survival, an additional efficacy outcome, was not significantly improved with the addition of bevacizumab to mFOLFOX6 (HR = 0.96, 95% CI = [0.75, 1.22].
+The main outcome was DFS among stage III patients.
+The HR for DFS was 0.92 (95% CI: 0.77, 1.10).
+OS was not significantly improved with the addition of bevacizumab to mFOLFOX6 [HR 0.96 (95% CI: 0.75, 1.22)].
 
-## 14.3 Unresectable Non–Squamous Non–Small Cell Lung Cancer (NSCLC)
+## 14.3 First-Line Non-Squamous Non-Small Cell Lung Cancer
 
-Study 5
+Study E4599
 
-The safety and efficacy of bevacizumab as first-line treatment of patients with locally advanced, metastatic, or recurrent non–squamous NSCLC was studied in a single, large, randomized, active-controlled, open-label, multicenter study.
-
-Chemotherapy-naïve patients with locally advanced, metastatic or recurrent non–squamous NSCLC were randomized (1:1) to receive six 21-day cycles of paclitaxel 200 mg/m2 and carboplatin AUC = 6.0, by IV on day 1 (PC) or PC in combination with bevacizumab 15 mg/kg by IV on day 1 (PC plus bevacizumab).
-After completion or upon discontinuation of chemotherapy, patients in the PC plus bevacizumab arm continued to receive bevacizumab alone until disease progression or until unacceptable toxicity.
-Patients with predominant squamous histology (mixed cell type tumors only), central nervous system (CNS) metastasis, gross hemoptysis (≥1/2 tsp of red blood), unstable angina, or receiving therapeutic anticoagulation were excluded.
+The safety and efficacy of bevacizumab as first-line treatment of patients with locally advanced, metastatic, or recurrent non-squamous NSCLC was studied in a single, large, randomized, active-controlled, open-label, multicenter study [E4599 (NCT00021060)].
+A total of 878 chemotherapy-naïve patients with locally advanced, metastatic or recurrent non-squamous NSCLC were randomized (1:1) to receive six 21-day cycles of paclitaxel (200 mg/m2) and carboplatin (AUC 6) with or without bevacizumab 15 mg/kg.
+After completing or discontinuing chemotherapy, patients randomized to receive bevacizumab continued to receive bevacizumab alone until disease progression or until unacceptable toxicity.
+The trial excluded patients with predominant squamous histology (mixed cell type tumors only), CNS metastasis, gross hemoptysis (1/2 teaspoon or more of red blood), unstable angina, or receiving therapeutic anticoagulation.
 The main outcome measure was duration of survival.
 
-Of the 878 patients randomized, the median age was 63, 46% were female, 43% were ≥age 65, and 28% had ≥5% weight loss at study entry.
-Eleven percent had recurrent disease and of the 89% with newly diagnosed NSCLC, 12% had Stage IIIB with malignant pleural effusion and 76% had Stage IV disease.
+The median age was 63 years; 54% were male, 43% were ≥ 65 years, and 28% had ≥ 5% weight loss at study entry.
+Eleven percent had recurrent disease.
+Of the 89% with newly diagnosed NSCLC, 12% had Stage IIIB with malignant pleural effusion and 76% had Stage IV disease.
 
-The results are presented in Figure 3.
-OS was statistically significantly higher among patients receiving PC plus bevacizumab compared with those receiving PC alone; median OS was 12.3 months vs. 10.3 months [hazard ratio 0.80 (repeated 95% CI 0.68, 0.94), final p-value 0.013, stratified log-rank test].
-Based on investigator assessment which was not independently verified, patients were reported to have longer PFS with bevacizumab in combination with PC compared to PC alone.
+OS was statistically significantly longer for patients receiving bevacizumab with paclitaxel and carboplatin compared with those receiving chemotherapy alone.
+Median OS was 12.3 months vs. 10.3 months [HR 0.80 (95% CI: 0.68, 0.94), final p-value of 0.013, stratified log-rank test].
+Based on investigator assessment which was not independently verified, patients were reported to have longer PFS with bevacizumab with paclitaxel and carboplatin compared to chemotherapy alone.
+Results are presented in Figure 3.
 
-Figure 3: Duration of Survival in Study 5
+| Figure 3: Kaplan-Meier Curves for Duration of Survival in First-Line Non-Squamous Non-Small Cell Lung Cancer in Study E4599 |
+| --- |
 
-In an exploratory analyses across patient subgroups, the impact of bevacizumab on OS was less robust in the following: women [HR = 0.99 (95% CI: 0.79, 1.25)], age ≥65 years [HR = 0.91 (95% CI: 0.72, 1.14)] and patients with ≥5% weight loss at study entry [HR = 0.96 (95% CI: 0.73, 1.26)].
+In an exploratory analysis across patient subgroups, the impact of bevacizumab on OS was less robust in the following subgroups: women [HR 0.99 (95% CI: 0.79, 1.25)], patients ≥ 65 years [HR 0.91 (95% CI: 0.72, 1.14)] and patients with ≥ 5% weight loss at study entry [HR 0.96 (95% CI: 0.73, 1.26)].
 
-The safety and efficacy of bevacizumab in patients with locally advanced, metastatic or recurrent non-squamous NSCLC, who had not received prior chemotherapy, was studied in another randomized, double-blind, placebo controlled, three-arm study of bevacizumab in combination with cisplatin and gemcitabine (CG) versus placebo and CG.
-A total of 1043 patients were randomized 1:1:1 to receive placebo plus CG, bevacizumab 7.5 mg/kg plus CG or bevacizumab 15.0 mg/kg plus CG.
-The median age was 58 years, 36% were female, and 29% were ≥ age 65.
+Study BO17704
+
+The safety and efficacy of bevacizumab in patients with locally advanced, metastatic or recurrent non-squamous NSCLC, who had not received prior chemotherapy was studied in another randomized, double-blind, placebo-controlled study [BO17704 (NCT00806923)].
+A total of 1043 patients were randomized (1:1:1) to receive cisplatin and gemcitabine with placebo, bevacizumab 7.5 mg/kg or bevacizumab 15 mg/kg.
+The main outcome measure was PFS.
+Secondary outcome measure was OS.
+
+The median age was 58 years; 36% were female and 29% were ≥ 65 years.
 Eight percent had recurrent disease and 77% had Stage IV disease.
-Progression-free survival, the main efficacy outcome measure, was significantly higher in both bevacizumab containing arms compared to the placebo arm [HR 0.75 (95% CI 0.62, 0.91), p = 0.0026 for the bevacizumab 7.5 mg/kg plus CG arm and HR 0.82 (95% CI 0.68; 0.98), p = 0.0301 for the bevacizumab 15.0 mg/kg plus CG arm].
-The addition of bevacizumab to CG chemotherapy failed to demonstrate an improvement in the duration of overall survival, an additional efficacy outcome measure, [HR 0.93 (95% CI 0.78; 1.11), p = 0.4203 for the bevacizumab 7.5 mg/kg plus CG arm and HR 1.03 (95% CI 0.86; 1.23), p = 0.7613 for the bevacizumab 15.0 mg/kg plus CG arm].
 
-## 14.4 Glioblastoma
+PFS was significantly higher in both bevacizumab-containing arms compared to the placebo arm [HR 0.75 (95% CI: 0.62, 0.91), p-value of 0.0026 for bevacizumab 7.5 mg/kg and HR 0.82 (95% CI: 0.68, 0.98), p-value of 0.0301 for bevacizumab 15 mg/kg].
+The addition of bevacizumab to cisplatin and gemcitabine failed to demonstrate an improvement in the duration of OS [HR 0.93 (95% CI: 0.78, 1.11), p-value of 0.420 for bevacizumab 7.5 mg/kg and HR 1.03 (95% CI: 0.86, 1.23), p-value of 0.761 for bevacizumab 15 mg/kg].
 
-Study 6
+## 14.4 Recurrent Glioblastoma
 
-The efficacy and safety of bevacizumab was evaluated in Study 6, an open-label, multicenter, randomized, non-comparative study of patients with previously treated glioblastoma.
-Patients received bevacizumab (10 mg/kg IV) alone or bevacizumab plus irinotecan every 2 weeks until disease progression or until unacceptable toxicity.
-All patients received prior radiotherapy (completed at least 8 weeks prior to receiving bevacizumab) and temozolomide.
-Patients with active brain hemorrhage were excluded.
+Study EORTC 26101
 
-Of the 85 patients randomized to the bevacizumab arm, the median age was 54 years, 32% were female, 81% were in first relapse, Karnofsky performance status was 90-100 for 45% and 70-80 for 55%.
+The safety and efficacy of bevacizumab were evaluated in a multicenter, randomized (2:1), open-label study in patients with recurrent GBM (EORTC 26101, NCT01290939).
+Patients with first progression following radiotherapy and temozolomide were randomized (2:1) to receive bevacizumab (10 mg/kg every 2 weeks) with lomustine (90 mg/m2 every 6 weeks) or lomustine (110 mg/m2 every 6 weeks) alone until disease progression or unacceptable toxicity.
+Randomization was stratified by World Health Organization performance status (0 vs. > 0), steroid use (yes vs. no), largest tumor diameter (≤ 40 vs. > 40 mm), and institution.
+The main outcome measure was OS.
+Secondary outcome measures were investigator-assessed PFS and ORR per the modified Response Assessment in Neuro-oncology (RANO) criteria, health related quality of life (HRQoL), cognitive function, and corticosteroid use.
 
-The efficacy of bevacizumab was demonstrated using response assessment based on both WHO radiographic criteria and by stable or decreasing corticosteroid use, which occurred in 25.9% (95% CI 17.0%, 36.1%) of the patients.
-Median duration of response was 4.2 months (95% CI 3.0, 5.7).
-Radiologic assessment was based on MRI imaging (using T1 and T2/FLAIR).
-MRI does not necessarily distinguish between tumor, edema, and radiation necrosis.
+A total of 432 patients were randomized to receive lomustine alone (N = 149) or bevacizumab with lomustine (N = 283).
+The median age was 57 years; 24.8% of patients were ≥ 65 years.
+The majority of patients with were male (61%); 66% had a WHO performance status score > 0; and in 56% the largest tumor diameter was ≤ 40 mm.
+Approximately 33% of patients randomized to receive lomustine received bevacizumab following documented progression.
 
-Study 7
+No difference in OS (HR 0.91, p-value of 0.4578) was observed between arms; therefore, all secondary outcome measures are descriptive only.
+PFS was longer in the bevacizumab with lomustine arm [HR 0.52 (95% CI: 0.41, 0.64)] with a median PFS of 4.2 months in the bevacizumab with lomustine arm and 1.5 months in the lomustine arm.
+Among the 50% of patients receiving corticosteroids at the time of randomization, a higher percentage of patients in the bevacizumab with lomustine arm discontinued corticosteroids (23% vs. 12%).
 
-Study 7, was a single-arm, single institution trial with 56 patients with glioblastoma.
-All patients had documented disease progression after receiving temozolomide and radiation therapy.
-Patients received bevacizumab 10 mg/kg IV every 2 weeks until disease progression or unacceptable toxicity.
+Study AVF3708g and Study NCI 06-C-0064E
 
-The median age was 54, 54% were male, 98% Caucasian, and 68% had a Karnofsky Performance Status of 90-100.
+The efficacy and safety of bevacizumab 10 mg/kg every 2 weeks in patients with previously treated GBM were evaluated in one single arm single center study (NCI 06-C-0064E) and a randomized noncomparative multicenter study [AVF3708g (NCT00345163)].
+Response rates in both studies were evaluated based on modified WHO criteria that considered corticosteroid use.
+In AVF3708g, the response rate was 25.9% (95% CI: 17%, 36.1%) with a median duration of response of 4.2 months (95% CI: 3, 5.7).
+In Study NCI 06-C-0064E, the response rate was 19.6% (95% CI: 10.9%, 31.3%) with a median duration of response of 3.9 months (95% CI: 2.4, 17.4).
 
-The efficacy of bevacizumab was supported by an objective response rate of 19.6% (95% CI 10.9%, 31.3%) using the same response criteria as in Study 6.
-Median duration of response was 3.9 months (95% CI 2.4, 17.4).
+## 14.5 Metastatic Renal Cell Carcinoma
 
-## 14.5 Metastatic Renal Cell Carcinoma (mRCC)
+Study BO17705
 
-Study 8
-
-Patients with treatment-naïve mRCC were evaluated in a multicenter, randomized, double-blind, international study comparing bevacizumab plus interferon alfa 2a (IFN-α2a) versus placebo plus IFN-α2a.
-A total of 649 patients who had undergone a nephrectomy were randomized (1:1) to receive either bevacizumab (10 mg/kg IV infusion every 2 weeks; n = 327) or placebo (IV every 2 weeks; n = 322) in combination with IFN-α2a (9 MIU subcutaneously three times weekly, for a maximum of 52 weeks).
+The safety and efficacy of Avastin were evaluated in patients with treatment-naïve mRCC in a multicenter, randomized, double-blind, international study [BO17705 (NCT00738530)] comparing interferon-alfa and bevacizumab versus interferon alfa and placebo.
+A total of 649 patients who had undergone a nephrectomy were randomized (1:1) to receive either bevacizumab (10 mg/kg every 2 weeks; N = 327) or placebo (every 2 weeks; N = 322) with interferon-alfa (9 MIU subcutaneously three times weekly, for a maximum of 52 weeks).
 Patients were treated until disease progression or unacceptable toxicity.
-The main outcome measure of the study was investigator-assessed PFS.
+The main outcome measure was investigator-assessed PFS.
 Secondary outcome measures were ORR and OS.
 
-The median age was 60 years (range 18-82), 96% were white, and 70% were male.
+The median age was 60 years (18 to 82 years); 70% were male and 96% were White.
 The study population was characterized by Motzer scores as follows: 28% favorable (0), 56% intermediate (1-2), 8% poor (3-5), and 7% missing.
 
-The results are presented in Figure 4.
-PFS was statistically significantly prolonged among patients receiving bevacizumab plus IFN-α2a compared to those receiving IFN-α2a alone; median PFS was 10.2 months vs. 5.4 months [HR 0.60 (95% CI 0.49, 0.72), p-value < 0.0001, stratified log-rank test].
-Among the 595 patients with measurable disease, ORR was also significantly higher (30% vs. 12%, p <0.0001, stratified CMH test).
-There was no improvement in OS based on the final analysis conducted after 444 deaths, with a median OS of 23 months in the bevacizumab plus IFN-α2a arm and 21 months in the IFN-α2a plus placebo arm [HR 0.86, (95% CI 0.72, 1.04)].
+PFS was statistically significantly prolonged among patients receiving bevacizumab compared to placebo; median PFS was 10.2 months vs. 5.4 months [HR 0.60 (95% CI: 0.49, 0.72), p-value < 0.0001, stratified log-rank test].
+Among the 595 patients with measurable disease, ORR was also significantly higher (30% vs. 12%, p-value < 0.0001, stratified CMH test).
+There was no improvement in OS based on the final analysis conducted after 444 deaths, with a median OS of 23 months in the patients receiving bevacizumab with interferon-alfa and 21 months in patients receiving interferon alone [HR 0.86, (95% CI: 0.72, 1.04)].
+Results are presented in Figure 4.
 
-Figure 4: Progression-Free Survival in Study 8
+| Figure 4: Kaplan-Meier Curves for Progression-Free Survival in Metastatic Renal Cell Carcinoma in Study BO17705 |
+| --- |
 
-## 14.6 Persistent, Recurrent, or Metastatic Carcinoma of the Cervix
+## 14.6 Persistent, Recurrent, or Metastatic Cervical Cancer
 
-Study 9
+Study GOG-0240
 
-Patients with persistent, recurrent, or metastatic carcinoma of the cervix were evaluated in a randomized, four-arm, multi-center trial comparing bevacizumab plus chemotherapy versus chemotherapy alone (Study 9; GOG-0240).
-A total of 452 patients were randomized (1:1:1:1) to receive paclitaxel and Cisplatin with or without bevacizumab, or paclitaxel and topotecan with or without bevacizumab.
+The safety and efficacy of Avastin were evaluated in patients with persistent, recurrent, or metastatic cervical cancer in a randomized, four-arm, multicenter study comparing bevacizumab with chemotherapy versus chemotherapy alone [GOG-0240 (NCT00803062)].
+A total of 452 patients were randomized (1:1:1:1) to receive paclitaxel and cisplatin with or without bevacizumab, or paclitaxel and topotecan with or without bevacizumab.
 
-The dosing regimens for bevacizumab, Paclitaxel, Cisplatin and Topotecan were as follows:
+The dosing regimens for bevacizumab, paclitaxel, cisplatin and topotecan were as follows:
 
-- Day 1: Paclitaxel 135 mg/m2 IV over 24 hours, Day 2: cisplatin 50 mg/m2 IV plus bevacizumab; or Day 1: paclitaxel 175 mg/m2 IV over 3 hours, Day 2: cisplatin 50 mg/m2 IV plus bevacizumab; or Day 1: paclitaxel 175 mg/m2 IV over 3 hours plus cisplatin 50 mg/m2 IV plus bevacizumab
-- Day 1: Paclitaxel 175 mg/m2 over 3 hours plus bevacizumab, Days 1-3: topotecan 0.75 mg/m2 over 30 minutes
+- Day 1: Paclitaxel 135 mg/m2 over 24 hours, Day 2: cisplatin 50 mg/m2 with bevacizumab;
+- Day 1: Paclitaxel 175 mg/m2 over 3 hours, Day 2: cisplatin 50 mg/m2 with bevacizumab;
+- Day 1: Paclitaxel 175 mg/m2 over 3 hours with cisplatin 50 mg/m2 with bevacizumab;
+- Day 1: Paclitaxel 175 mg/m2 over 3 hours with bevacizumab, Days 1-3: topotecan 0.75 mg/m2 over 30 minutes.
 
-Patients were treated until disease progression or unacceptable adverse events precluded further therapy.
-The main outcome measure of the study was overall survival (OS).
-Response rate (ORR) was a secondary outcome measure.
+Patients were treated until disease progression or unacceptable adverse reactions.
+The main outcome measure was OS.
+Secondary outcome measures included ORR.
 
-The median age was 48 years (range: 20-85).
-Of the 452 patients randomized at baseline, 78% of patients were Caucasian, 80% had received prior radiation, 74% had received prior chemotherapy concurrent with radiation, and 32% had a platinum-free interval of less than 6 months.
-Patients had a GOG Performance Status (PS) of 0 (58%) or 1 (42%).
+The median age was 48 years (20 to 85 years).
+Of the 452 patients randomized at baseline, 78% of patients were White, 80% had received prior radiation, 74% had received prior chemotherapy concurrent with radiation, and 32% had a platinum-free interval of less than 6 months.
+Patients had a GOG performance status of 0 (58%) or 1 (42%).
 Demographic and disease characteristics were balanced across arms.
 
-The study results for OS in patients who received chemotherapy plus bevacizumab as compared to chemotherapy alone are presented in Table 7 and Figure 5.
+Results are presented in Figure 5 and Table 7.
 
-Figure 5: Study 9: Overall Survival for Chemotherapy vs. Chemotherapy plus bevacizumab
+| Figure 5: Kaplan-Meier Curves for Overall Survival in Persistent, Recurrent, or Metastatic Cervical Cancer in Study GOG-0240 |
+| --- |
 
-Table 7: Study 9 Efficacy Results: Chemotherapy versus Chemotherapy + Bevacizumab
+Table 7: Efficacy Results in Study GOG-0240
 
-|  | Chemotherapy (n = 225) | Chemotherapy + Bevacizumab (n = 227) |
+| Efficacy Parameter | Bevacizumab with Chemotherapy (N = 227) | Chemotherapy (N = 225) |
 | --- | --- | --- |
 | Overall Survival |  |  |
-| Median (months)a | 12.9 | 16.8 |
-| Hazard ratio [95% CI] | 0.74 [0.58;0.94] (p-valueb = 0.0132) |  |
+| Median, in monthsa | 16.8 | 12.9 |
+| Hazard ratio (95% CI) | 0.74 (0.58;0.94) |  |
+| p-valueb | 0.0132 |  |
 
 a Kaplan-Meier estimates.
 
 b log-rank test (stratified).
 
-The overall response rate was also higher in patients who received chemotherapy plus bevacizumab [45% (95% CI: 39, 52)] than in patients who received chemotherapy alone [34% (95% CI: 28, 40)].
+The ORR was higher in patients who received bevacizumab with chemotherapy [45% (95% CI: 39, 52)] compared to patients who received chemotherapy alone [34% (95% CI: 28, 40)].
 
-Table 8: Study 9 Efficacy Results: Platinum Doublet versus Nonplatinum Doublet
+Table 8: Efficacy Results in Study GOG-0240
 
-|  | Topotecan + Paclitaxel +/- bevacizumab (n = 223) | Cisplatin + Paclitaxel +/- bevacizumab (n = 229) |
+| Efficacy Parameter | Topotecan and Paclitaxel with or without Bevacizumab (N = 223) | Cisplatin and Paclitaxel with or without Bevacizumab (N = 229) |
 | --- | --- | --- |
 | Overall Survival |  |  |
-| Median (months)a | 13.3 | 15.5 |
-| Hazard ratio [95% CI] | 1.15 [0.91, 1.46] p-value = 0.23 |  |
+| Median, in monthsa | 13.3 | 15.5 |
+| Hazard ratio (95% CI)] | 1.15 (0.91, 1.46) |  |
+| p-value | 0.23 |  |
 
 a Kaplan-Meier estimates.
 
-The hazard ratio for OS with Cisplatin + Paclitaxel + bevacizumab as compared to Cisplatin + Paclitaxel alone was 0.72 (95% CI: 0.51, 1.02).
-The hazard ratio for OS with Topotecan + Paclitaxel + bevacizumab as compared to Topotecan + Paclitaxel alone was 0.76 (95% CI: 0.55, 1.06).
+The HR for OS with bevacizumab with cisplatin and paclitaxel as compared to cisplatin and paclitaxel alone was 0.72 (95% CI: 0.51, 1.02).
+The HR for OS with bevacizumab with topotecan and paclitaxel as compared to topotecan and paclitaxel alone was 0.76 (95% CI: 0.55, 1.06).
