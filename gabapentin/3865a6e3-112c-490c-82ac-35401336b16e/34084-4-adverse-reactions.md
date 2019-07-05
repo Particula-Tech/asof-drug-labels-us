@@ -24,7 +24,7 @@ The adverse reactions that most frequently led to withdrawal in gabapentin-treat
 Table 3 lists adverse reactions that occurred in at least 1% of gabapentin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin group than in the placebo group.
 
 TABLE 3.
-Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia
+Adverse Reactions in Pooled Placebo- Controlled Trials in Postherpetic Neuralgia
 
 |  | GabapentinN=336% | PlaceboN=227% |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ In these studies, either gabapentin or placebo was added to the patient’s curr
 TABLE 4.
 Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patients > 12 years of age
 
-|  | GabapentinaN=543 % | Placeboa N=378 % |
+|  | Gabapentina N=543 % | Placeboa N=378 % |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Fatigue | 11 | 5 |
@@ -129,7 +129,7 @@ Because only 3% of patients (28/921) in placebo-controlled studies were identifi
 Table 5 lists adverse reactions that occurred in at least 2% of gabapentin-treated patients, age 3 to 12 years of age with epilepsy participating in placebo-controlled trials, and which were numerically more common in the gabapentin group.
 
 TABLE 5.
-Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients age 3 to 12 Years
+Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
 
 |  | GabapentinaN=119 % | PlaceboaN=128 % |
 | --- | --- | --- |

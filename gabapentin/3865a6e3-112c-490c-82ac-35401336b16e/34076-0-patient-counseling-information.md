@@ -37,6 +37,10 @@ Encourage patients to enroll in the NAAED Pregnancy Registry if they become preg
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
+Medication Guide available at
+
+www.glenmarkpharma-us.com/medguides
+
 Manufactured by:
 
 Glenmark Pharmaceuticals Ltd. India
@@ -46,6 +50,6 @@ Manufactured for:
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-December 2017
+June 2019

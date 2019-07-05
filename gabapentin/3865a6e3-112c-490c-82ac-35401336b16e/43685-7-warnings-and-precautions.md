@@ -65,8 +65,7 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-TABLE 2.
-Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+TABLE 2 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
@@ -90,7 +89,7 @@ Gabapentin use in pediatric patients with epilepsy 3 to 12 years of age is assoc
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
 Among the gabapentin-treated patients, most of the reactions were mild to moderate in intensity.
 
-In controlled clinical epilepsy trials in pediatric patients 3 to 12 years of age, the incidence of these adverse reactions was: emotional lability 6% (gabapentin-treated patients) vs. 1.3% (placebo-treated patients); hostility 5.2% versus 1.3%; hyperkinesia 4.7% versus 2.9%; and thought disorder 1.7% versus 0%.
+In controlled clinical epilepsy trials in pediatric patients 3 to 12 years of age, the incidence of these adverse reactions was: emotional lability 6% (gabapentin-treated patients) versus 1.3% (placebo-treated patients); hostility 5.2% versus 1.3%; hyperkinesia 4.7% versus 2.9%; and thought disorder 1.7% versus 0%.
 One of these reactions, a report of hostility, was considered serious.
 Discontinuation of gabapentin treatment occurred in 1.3% of patients reporting emotional lability and hyperkinesia and 0.9% of gabapentin-treated patients reporting hostility and thought disorder.
 One placebo-treated patient (0.4%) withdrew due to emotional lability.
