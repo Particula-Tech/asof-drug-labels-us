@@ -2,7 +2,7 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
 NDC 25021-230-02
 
-2 mL Single-Use Vial
+2 mL Single-Dose Vial
 
 Irinotecan Hydrochloride Injection, USP
 

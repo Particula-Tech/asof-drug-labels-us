@@ -10,7 +10,7 @@ Consider prophylactic or therapeutic administration of 0.25 mg to 1 mg of intrav
 These symptoms are expected to occur more frequently with higher irinotecan doses.
 
 Late diarrhea (generally occurring more than 24 hours after administration of irinotecan hydrochloride injection) can be life threatening since it may be prolonged and may lead to dehydration, electrolyte imbalance, or sepsis.
-Grade 3–4 late diarrhea occurred in 23–31% of patients receiving weekly dosing.
+Grade 3–4 late diarrhea occurred in 23 to 31% of patients receiving weekly dosing.
 In the clinical studies, the median time to the onset of late diarrhea was 5 days with 3-week dosing and 11 days with weekly dosing.
 Late diarrhea can be complicated by colitis, ulceration, bleeding, ileus, obstruction, and infection.
 Cases of megacolon and intestinal perforation have been reported.
@@ -28,6 +28,9 @@ If grade 2, 3, or 4 late diarrhea recurs, subsequent doses of irinotecan hydroch
 Avoid diuretics or laxatives in patients with diarrhea.
 
 ## 5.2 Myelosuppression
+
+Irinotecan hydrochloride injection can cause severe myelosuppression.
+Bacterial, viral, and fungal infections have occurred in patients treated with irinotecan hydrochloride injection.
 
 Deaths due to sepsis following severe neutropenia have been reported in patients treated with irinotecan hydrochloride injection.
 In the clinical studies evaluating the weekly dosage schedule, neutropenic fever (concurrent NCI grade 4 neutropenia and fever of grade 2 or greater) occurred in 3% of the patients; 6% of patients received G-CSF for the treatment of neutropenia.
@@ -77,7 +80,7 @@ If IPD is diagnosed, irinotecan hydrochloride injection and other chemotherapy s
 
 ## 5.7 Toxicity of the 5 Day Regimen
 
-Outside of a well-designed clinical study, irinotecan hydrochloride injection should not be used in combination with a regimen of 5-FU/LV administered for 4–5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
+Outside of a well-designed clinical study, irinotecan hydrochloride injection should not be used in combination with a regimen of 5-FU/LV administered for 4 to 5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
 Irinotecan hydrochloride injection should be used as recommended [see Dosage and Administration (2)].
 
 ## 5.8 Increased Toxicity in Patients with Performance Status 2

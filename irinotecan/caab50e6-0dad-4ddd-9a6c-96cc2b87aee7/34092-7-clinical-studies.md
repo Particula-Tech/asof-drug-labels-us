@@ -20,19 +20,19 @@ All 90 patients enrolled in Study 4 received a starting dose of 125 mg/m2.
 Study 5 was a multicenter study that enrolled 166 patients from 30 institutions.
 The initial dose in Study 5 was 125 mg/m2 but was reduced to 100 mg/m2 because the toxicity seen at the 125-mg/m2 dose was perceived to be greater than that seen in previous studies.
 All patients in these studies had metastatic colorectal cancer, and the majority had disease that recurred or progressed following a 5-FU-based regimen administered for metastatic disease.
-The results of the individual studies are shown in Table 6.
+The results of the individual studies are shown in Table 11.
 
-Table 6.
+Table 11.
 Weekly Dosage Schedule: Study Results
 
 |  | Study |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | 3 | 4 | 5 |  |
 | Number of Patients | 48 | 90 | 64 | 102 |
-| Starting Dose (mg/m2/week × 4) | 125* | 125 | 125 | 100 |
+| Starting Dose (mg/m2/week × 4) | 125a | 125 | 125 | 100 |
 | Demographics and Treatment Administration |  |  |  |  |
 | Female/Male (%) | 46/54 | 36/64 | 50/50 | 51/49 |
-| Median Age in years (range) | 63 (29–78) | 63 (32–81) | 61 (42–84) | 64 (25–84) |
+| Median Age in years (range) | 63 (29 to 78) | 63 (32 to 81) | 61 (42 to 84) | 64 (25 to 84) |
 | Ethnic Origin (%) |  |  |  |  |
 | White | 79 | 96 | 81 | 91 |
 | African American | 12 | 4 | 11 | 5 |
@@ -56,16 +56,16 @@ Weekly Dosage Schedule: Study Results
 | Other | 0 | 9 | 2 | 4 |
 | None | 97 | 62 | 98 | 96 |
 | Duration of Treatment with irinotecan (median, months) | 5 | 4 | 4 | 3 |
-| Relative Dose Intensity† (median %) | 74 | 67 | 73 | 81 |
+| Relative Dose Intensityb (median %) | 74 | 67 | 73 | 81 |
 | Efficacy |  |  |  |  |
-| Confirmed Objective Response Rate (%)‡ (95% CI) | 21 (9.3 – 32.3) | 13 (6.3 – 20.4) | 14 (5.5 – 22.6) | 9 (3.3 – 14.3) |
+| Confirmed Objective Response Rate (%)c (95% CI) | 21 (9.3 to 32.3) | 13 (6.3 to 20.4) | 14 (5.5 to 22.6) | 9 (3.3 to 14.3) |
 | Time to Response (median, months) | 2.6 | 1.5 | 2.8 | 2.8 |
 | Response Duration (median, months) | 6.4 | 5.9 | 5.6 | 6.4 |
 | Survival (median, months) | 10.4 | 8.1 | 10.7 | 9.3 |
 | 1-Year Survival (%) | 46 | 31 | 45 | 43 |
-| * Nine patients received 150 mg/m2 as a starting dose; two (22.2%) responded to irinotecan hydrochloride injection. |  |  |  |  |
-| † Relative dose intensity for irinotecan hydrochloride injection based on planned dose intensity of 100, 83.3, and 66.7 mg/m2/wk corresponding with 150, 125, and 100 mg/m2 starting doses, respectively. |  |  |  |  |
-| ‡ Confirmed ≥ 4 to 6 weeks after first evidence of objective response. |  |  |  |  |
+| a Nine patients received 150 mg/m2 as a starting dose; two (22.2%) responded to irinotecan hydrochloride injection. |  |  |  |  |
+| b Relative dose intensity for irinotecan hydrochloride injection based on planned dose intensity of 100, 83.3, and 66.7 mg/m2/wk corresponding with 150, 125, and 100 mg/m2 starting doses, respectively. |  |  |  |  |
+| c Confirmed ≥ 4 to 6 weeks after first evidence of objective response. |  |  |  |  |
 
 In the intent-to-treat analysis of the pooled data across all three studies, 193 of the 304 patients began therapy at the recommended starting dose of 125 mg/m2.
 Among these 193 patients, 2 complete and 27 partial responses were observed, for an overall response rate of 15.0% (95% Confidence Interval [CI], 10.0% to 20.1%) at this starting dose.
@@ -104,7 +104,7 @@ Patients were to be followed every 3 to 6 weeks for 1 year.
 
 A total of 535 patients were randomized in the two studies at 94 centers.
 The primary endpoint in both studies was survival.
-The studies demonstrated a significant overall survival advantage for irinotecan compared with best supportive care (p=0.0001) and infusional 5-FU-based therapy (p=0.035) as shown in Figures 1 and 2.
+The studies demonstrated a significant overall survival advantage for irinotecan compared with best supportive care (p=0.0001) and infusional 5-FU-based therapy (p=0.035) as shown in Figures 3 and 4.
 In Study 7, median survival for patients treated with irinotecan was 9.2 months compared with 6.5 months for patients receiving best supportive care.
 In Study 8, median survival for patients treated with irinotecan was 10.8 months compared with 8.5 months for patients receiving infusional 5-FU-based therapy.
 Multiple regression analyses determined that patients' baseline characteristics also had a significant effect on survival.
@@ -114,22 +114,22 @@ When comparing irinotecan with best supportive care in Study 7, this analysis sh
 Additionally, 33.3% (33/99) of patients with a baseline performance status of 1 or 2 showed an improvement in performance status when treated with irinotecan versus 11.3% (7/62) of patients receiving best supportive care (p=0.002).
 Because of the inclusion of patients with non-measurable disease, intent-to-treat response rates could not be assessed.
 
-Figure 1.
+Figure 3.
 Survival Second-Line Irinotecan vs Best Supportive Care (BSC) Study 7
 
-Figure 2.
+Figure 4.
 Survival Second-Line Irinotecan vs Infusion 5-FU Study 8
 
-Table 7.
+Table 12.
 Once-Every-3-Week Dosage Schedule: Study Results
 
 |  | Study 7 |  | Study 8 |  |
 | --- | --- | --- | --- | --- |
-|  | Irinotecan | BSC* | Irinotecan | 5-FU |
+|  | Irinotecan | BSCa | Irinotecan | 5-FU |
 | Number of patients | 189 | 90 | 127 | 129 |
-| Demographics and treatment administration |  |  |  |  |
+| Demographics and Treatment Administration |  |  |  |  |
 | Female/Male (%) | 32/68 | 42/58 | 43/57 | 35/65 |
-| Median age in years (range) | 59 (22–75) | 62 (34–75) | 58 (30–75) | 58 (25–75) |
+| Median age in years (range) | 59 (22 to 75) | 62 (34 to 75) | 58 (30 to 75) | 58 (25 to 75) |
 | Performance status (%) |  |  |  |  |
 | 0 | 47 | 31 | 58 | 54 |
 | 1 | 39 | 46 | 35 | 43 |
@@ -142,30 +142,30 @@ Once-Every-3-Week Dosage Schedule: Study Results
 | As adjuvant treatment | 30 | 37 | 42 | 32 |
 | Prior irradiation (%) | 26 | 27 | 18 | 20 |
 | Duration of study treatment (median, months) (Log-rank test) | 4.1 | -- | 4.2 (p=0.02) | 2.8 |
-| Relative dose intensity (median %)† | 94 | -- | 95 | 81–99 |
+| Relative dose intensity (median %)b | 94 | -- | 95 | 81 to 99 |
 | Survival |  |  |  |  |
 | Survival (median, months) (Log-rank test) | 9.2 (p=0.0001) | 6.5 | 10.8 (p=0.035) | 8.5 |
-| * BSC = best supportive care |  |  |  |  |
-| † Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. |  |  |  |  |
+| a BSC = best supportive care |  |  |  |  |
+| b Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. |  |  |  |  |
 
 In the two randomized studies, the EORTC QLQ-C30 instrument was utilized.
 At the start of each cycle of therapy, patients completed a questionnaire consisting of 30 questions, such as “Did pain interfere with daily activities?”
 (1 = Not at All, to 4 = Very Much) and “Do you have any trouble taking a long walk?”
 (Yes or No). The answers from the 30 questions were converted into 15 subscales, that were scored from 0 to 100, and the global health status subscale that was derived from two questions about the patient's sense of general well being in the past week.
-The results as summarized in Table 8 are based on patients' worst post-baseline scores.
+The results as summarized in Table 13 are based on patients' worst post-baseline scores.
 In Study 7, a multivariate analysis and univariate analyses of the individual subscales were performed and corrected for multivariate testing.
 Patients receiving irinotecan reported significantly better results for the global health status, on two of five functional subscales, and on four of nine symptom subscales.
 As expected, patients receiving irinotecan noted significantly more diarrhea than those receiving best supportive care.
 In Study 8, the multivariate analysis on all 15 subscales did not indicate a statistically significant difference between irinotecan and infusional 5-FU.
 
-Table 8.
-EORTC QLQ-C30: Mean Worst Post-Baseline Score*
+Table 13.
+EORTC QLQ-C30: Mean Worst Post-Baseline Scorea
 
 | QLQ-C30 Subscale | Study 7 |  |  | Study 8 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Irinotecan | BSC | p-value | Irinotecan | 5-FU | p-value |
 | Global health status | 47 | 37 | 0.03 | 53 | 52 | 0.9 |
-| Functional scales |  |  |  |  |  |  |
+| Functional Scales |  |  |  |  |  |  |
 | Cognitive | 77 | 68 | 0.07 | 79 | 83 | 0.9 |
 | Emotional | 68 | 64 | 0.4 | 64 | 68 | 0.9 |
 | Social | 58 | 47 | 0.06 | 65 | 67 | 0.9 |
@@ -181,4 +181,4 @@ EORTC QLQ-C30: Mean Worst Post-Baseline Score*
 | Nausea/Vomiting | 27 | 29 | 0.5 | 25 | 16 | 0.09 |
 | Financial impact | 22 | 26 | 0.5 | 24 | 15 | 0.3 |
 | Diarrhea | 32 | 19 | 0.01 | 32 | 22 | 0.2 |
-| * For the five functional subscales and global health status subscale, higher scores imply better functioning, whereas, on the nine symptom subscales, higher scores imply more severe symptoms. The subscale scores of each patient were collected at each visit until the patient dropped out of the study. |  |  |  |  |  |  |
+| a For the five functional subscales and global health status subscale, higher scores imply better functioning, whereas, on the nine symptom subscales, higher scores imply more severe symptoms. The subscale scores of each patient were collected at each visit until the patient dropped out of the study. |  |  |  |  |  |  |
