@@ -90,12 +90,11 @@ Glycemic Parameters at Week 26 for NESINA and Metformin Alone and in Combination
 | Change from baseline (adjusted mean) | 12 | -10 | -12 | -32 | -32 | -46 |
 | Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -20 (-33, -8) | -14 (-26, -2) |
 | Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -22 (-35, -10) | -36 (-49, -24) |
-| 2-Hour PPG (mg/dL) | N=26 | N=34 | N=28 | N=37 | N=31 | N=37 |
+| 2-Hour PPG (mg/dL)Intent-to-treat population using data available at Week 26 | N=26 | N=34 | N=28 | N=37 | N=31 | N=37 |
 | Baseline (mean) | 263 | 272 | 247 | 266 | 261 | 268 |
 | Change from baseline (adjusted mean) | -21 | -43 | -49 | -54 | -68 | -86 |
 | Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -19 (-49, 11) | -32 (-58, -5) |
 | Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -25 (-53, -3) | -43 (-70, -16) |
-| ¶ Intent-to-treat population using data available at Week 26 |  |  |  |  |  |  |
 
 ## 14.2 Combination Therapy
 
