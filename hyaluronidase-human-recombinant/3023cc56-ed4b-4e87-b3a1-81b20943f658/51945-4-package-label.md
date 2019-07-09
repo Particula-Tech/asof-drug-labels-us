@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 4 x 1 mL Single Dose Vials Carton
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
 NDC 18657-117-04
 
