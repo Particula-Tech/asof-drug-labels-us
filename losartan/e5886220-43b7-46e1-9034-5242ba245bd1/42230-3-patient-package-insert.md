@@ -66,6 +66,7 @@ Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
+- other medicines that may increase serum potassium
 - water pills (diuretics)
 - lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
@@ -155,4 +156,4 @@ United States
 
 MADE IN INDIA
 
-Revised: March 2016 ID#: 244886
+Revised: January 2019 ID#: 258153

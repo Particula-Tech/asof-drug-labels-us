@@ -22,6 +22,6 @@ United States
 
 MADE IN INDIA.
 
-Revised: November 2017 ID#: 253863
+Revised: January 2019 ID#: 258152
 
 The trademarks depicted herein are owned by their respective companies.

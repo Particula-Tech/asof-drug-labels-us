@@ -2,7 +2,7 @@
 
 Losartan potassium tablet USP is a white film-coated tablet supplied as follows:
 
-| Losartan | Shape | Engraving |  | NDC 68180-xxxx-xx |  |  |  |
+| Losartan | Shape | Engraving |  | NDC 68180-xxx-xx |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | One side | Other side | Bottle/30 | Bottle/90 | Bottle/100 | Bottle/1000 |
 | 25 mg | Capsule shaped | LU | P21 | 376-06 | 376-09 | 376-01 | 376-03 |
