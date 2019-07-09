@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207234"
+  ],
+  "inn": "azacitidine",
+  "labeler": "Panacea Biotec Ltd.",
+  "package_ndcs": [
+    "43817-906-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azacitidine",
+      "name": "Azacitidine"
+    }
+  ],
+  "setid": "9abb489d-ce54-4140-83f6-b756f00b0967",
+  "source": "dailymed"
+}
