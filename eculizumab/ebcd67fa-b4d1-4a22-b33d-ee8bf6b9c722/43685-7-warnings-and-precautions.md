@@ -41,8 +41,8 @@ Serious infections with Neisseria species (other than N. meningitides), includin
 
 Soliris blocks terminal complement activation; therefore patients may have increased susceptibility to infections, especially with encapsulated bacteria.
 Additionally, Aspergillus infections have occurred in immunocompromised and neutropenic patients.
-Children treated with Soliris may be at increased risk of developing serious infections due to Streptococcus pneumoniae and Haemophilus influenza type b (Hib).
-Administer vaccinations for the prevention of Streptococcus pneumoniae and Haemophilus influenza type b (Hib) infections according to ACIP guidelines.
+Children treated with Soliris may be at increased risk of developing serious infections due to Streptococcus pneumoniae and Haemophilus influenzae type b (Hib).
+Administer vaccinations for the prevention of Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) infections according to ACIP guidelines.
 Use caution when administering Soliris to patients with any systemic infection [see Warnings and Precautions (5.1)].
 
 ## 5.3 Monitoring Disease Manifestations after Soliris Discontinuation

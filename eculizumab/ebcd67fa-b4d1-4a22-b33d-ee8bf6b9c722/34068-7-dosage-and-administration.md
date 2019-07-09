@@ -40,9 +40,9 @@ Table 1: Dosing Recommendations in Patients Less Than 18 Years of Age
 
 Administer Soliris at the recommended dosage regimen time points, or within two days of these time points.
 
-## 2.4 Recommended Dosage Regimen – gMG
+## 2.4 Recommended Dosage Regimen – gMG and NMOSD
 
-For patients with generalized Myasthenia Gravis, Soliris therapy consists of:
+For patients with generalized myasthenia gravis or neuromyelitis optica spectrum disorder, Soliris therapy consists of:
 
 - 900 mg weekly for the first 4 weeks, followed by
 - 1200 mg for the fifth dose 1 week later, then
@@ -84,7 +84,7 @@ Table 3: Preparation and Reconstitution of Soliris
 Gently invert the infusion bag containing the diluted Soliris solution to ensure thorough mixing of the product and diluent.
 Discard any unused portion left in a vial, as the product contains no preservatives.
 
-Prior to administration, the admixture should be allowed to adjust to room temperature [18°-25° C, 64-77° F]. The admixture must not be heated in a microwave or with any heat source other than ambient air temperature.
+Prior to administration, the admixture should be allowed to adjust to room temperature [18°-25° C, 64°-77° F]. The admixture must not be heated in a microwave or with any heat source other than ambient air temperature.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
@@ -92,10 +92,10 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Only administer as an intravenous infusion.
 
-Do Not Administer As An Intravenous Push or Bolus Injection
+Do not administer as an intravenous push or bolus injection
 
 Administer the Soliris admixture by intravenous infusion over 35 minutes in adults and 1 to 4 hours in pediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
-Admixed solutions of Soliris are stable for 24 h at 2-8° C (36-46° F) and at room temperature.
+Admixed solutions of Soliris are stable for 24 h at 2°-8° C (36°-46° F) and at room temperature.
 
 If an adverse reaction occurs during the administration of Soliris, the infusion may be slowed or stopped at the discretion of the physician.
 If the infusion is slowed, the total infusion time should not exceed two hours in adults.

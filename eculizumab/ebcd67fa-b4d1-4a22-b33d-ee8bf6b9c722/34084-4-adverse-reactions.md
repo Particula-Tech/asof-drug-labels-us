@@ -30,7 +30,7 @@ Table 4 summarizes the adverse reactions that occurred at a numerically higher r
 
 Table 4: Adverse Reactions Reported in 5% or More of Soliris Treated Patients with PNH and Greater than Placebo in the Controlled Clinical Study
 
-| Reaction | Soliris N = 43 N (%) | Placebo N = 44 N (%) |
+| Reaction | Soliris (N=43) N (%) | Placebo (N=44) N (%) |
 | --- | --- | --- |
 | Headache | 19 (44) | 12 (27) |
 | Nasopharyngitis | 10 (23) | 8 (18) |
@@ -65,7 +65,7 @@ Table 5 summarizes all adverse events reported in at least 10% of patients in St
 
 Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adolescent Patients Enrolled in Studies C08-002A/B, C08-003A/B and C10-004 Separately and in Total
 
-|  | C08-002A/B (n=17) | C08-003A/B (n=20) | C10-004 (n=41) | Total (n=78) |
+|  | C08-002A/B (N=17) | C08-003A/B (N=20) | C10-004 (N=41) | Total (N=78) |
 | --- | --- | --- | --- | --- |
 |  |  | Number (%) of Patients |  |  |
 | Vascular Disorders |  |  |  |  |
@@ -76,7 +76,7 @@ Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adoles
 | Nasopharyngitis | 3 (18) | 11 (55) | 7 (17) | 21 (27) |
 | Gastroenteritis | 3 (18) | 4 (20) | 2 (5) | 9 (12) |
 | Upper respiratory tract infection | 5 (29) | 8 (40) | 2 (5) | 15 (19) |
-| Urinary tract infection | 6 (35.3) | 3 (15) | 8 (20) | 17 (22) |
+| Urinary tract infection | 6 (35) | 3 (15) | 8 (20) | 17 (22) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Diarrhea | 8 (47) | 8 (40) | 12 (32) | 29 (37) |
 | Vomiting | 8 (47) | 9 (45) | 6 (15) | 23 (30) |
@@ -122,7 +122,7 @@ Table 6 summarizes all adverse events reported in at least 10% of patients enrol
 
 Table 6: Per Patient Incidence of Adverse Reactions in 10% or More Patients Enrolled in StudyC10-003
 
-|  | 1 month to <12 yrs (n=18) | Total (n=22) |
+|  | 1 month to <12 yrs (N=18) | Total (N=22) |
 | --- | --- | --- |
 | Eye Disorders | 3 (17) | 3 (14) |
 | Gastrointestinal Disorders |  |  |
@@ -162,7 +162,7 @@ The most common (≥15%) adverse events occurring in pediatric patients are pres
 
 Table 7: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Years of Age Enrolled in Study C09-001r
 
-|  | < 2 yrs (n=5) | 2 to < 12 yrs (n=10) | 12 to <18 yrs (n=4) | Total (n=19) |
+|  | < 2 yrs (N=5) | 2 to < 12 yrs (N=10) | 12 to <18 yrs (N=4) | Total (N=19) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of Patients |  |  |  |
 | General Disorders and Administration Site Conditions |  |  |  |  |
@@ -180,7 +180,7 @@ Table 7: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Ye
 
 Generalized Myasthenia Gravis (gMG)
 
-In a 26-week placebo-controlled trial evaluating the effect of Soliris for the treatment of gMG (gMG Study 1), 62 patients received Soliris at the recommended dosage regimen and 63 patients received placebo.
+In a 26-week placebo-controlled trial evaluating the effect of Soliris for the treatment of gMG (gMG Study 1), 62 patients received Soliris at the recommended dosage regimen and 63 patients received placebo [see Clinical Studies (14.3)].
 Patients were 19 to 79 years of age, and 66% were female.
 Table 8 displays the most common adverse reactions from gMG Study 1 that occurred in ≥5% of Soliris-treated patients and at a greater frequency than placebo.
 
@@ -202,6 +202,55 @@ Table 8: Adverse Reactions Reported in 5% or More of Soliris-Treated Patients in
 
 The most common adverse reactions (≥10%) that occurred in Soliris-treated patients in the long-term extension to gMG Study 1, Study ECU-MG-302, that are not included in Table 8 were headache (26%), nasopharyngitis (24%), diarrhea (15%), arthralgia (12%), upper respiratory tract infection (11%), and nausea (10%).
 
+Neuromyelitis Optica Spectrum Disorder (NMOSD)
+
+In a placebo-controlled trial evaluating the effect of Soliris for the treatment of NMOSD (NMOSD Study 1), 96 patients received Soliris at the recommended dosage regimen and 47 patients received placebo [see Clinical Studies (14.4)].
+Patients were 19 to 75 years of age (mean 44 years of age), and 91% were female.
+Table 9 displays the most common adverse reactions from NMOSD Study 1 that occurred in ≥5% of Soliris-treated patients and at a greater frequency than on placebo.
+
+Table 9: Adverse Reactions Reported in 5% or More of Soliris-Treated Patients in NMOSD Study 1 and at a Greater Frequency than in Placebo-Treated Patients
+
+|  | Soliris (N=96) N (%) | Placebo (N=47) N (%) |
+| --- | --- | --- |
+| Events/Patients | 1295/88 | 617/45 |
+| Blood and lymphatic system disorders |  |  |
+| Leukopenia | 5 (5) | 1 (2) |
+| Lymphopenia | 5 (5) | 0 (0) |
+| Eye disorders |  |  |
+| Cataract | 6 (6) | 2 (4) |
+| Gastrointestinal disorders |  |  |
+| Diarrhea | 15 (16) | 7 (15) |
+| Constipation | 9 (9) | 3 (6) |
+| General disorders and administration site conditions |  |  |
+| Asthenia | 5 (5) | 1 (2) |
+| Infections and infestations |  |  |
+| Upper respiratory tract infection | 28 (29) | 6 (13) |
+| Nasopharyngitis | 20 (21) | 9 (19) |
+| Influenza | 11 (11) | 2 (4) |
+| Pharyngitis | 10 (10) | 3 (6) |
+| Bronchitis | 9 (9) | 3 (6) |
+| Conjunctivitis | 9 (9) | 4 (9) |
+| Cystitis | 8 (8) | 1 (2) |
+| Hordeolum | 7 (7) | 0 (0) |
+| Sinusitis | 6 (6) | 0 (0) |
+| Cellulitis | 5 (5) | 1 (2) |
+| Injury, poisoning and procedural complications |  |  |
+| Contusion | 10 (10) | 2 (4) |
+| Metabolism and nutrition disorders |  |  |
+| Decreased appetite | 5 (5) | 1 (2) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 14 (15) | 6 (13) |
+| Arthralgia | 11 (11) | 5 (11) |
+| Musculoskeletal pain | 6 (6) | 0 (0) |
+| Muscle spasms | 5 (5) | 2 (4) |
+| Nervous system disorders |  |  |
+| Dizziness | 14 (15) | 6 (13) |
+| Paraesthesia | 8 (8) | 3 (6) |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Oropharyngeal pain | 7 (7) | 2 (4) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Alopecia | 5 (5) | 2 (4) |
+
 ## 6.2 Immunogenicity
 
 As with all proteins, there is a potential for immunogenicity.
@@ -209,12 +258,14 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to eculizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
-The immunogenicity of Soliris has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS indication, as well as for additional patients with PNH.
+The immunogenicity of Soliris has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS, gMG and NMOSD indications, as well as for additional patients with PNH.
 In the PNH population, antibodies to Soliris were detected in 3/196 (2%) patients using the ELISA assay and in 5/161 (3%) patients using the ECL assay.
 In the aHUS population, antibodies to Soliris were detected in 3/100 (3%) patients using the ECL assay.
-An ECL based neutralizing assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 3 patients with aHUS and the 5 patients with PNH with positive samples using the ECL assay.
-Two of 161 patients with PNH (1.2%) and 1 of 100 patients with aHUS (1%) had low positive values for neutralizing antibodies.
-None of 62 patients with gMG had antibodies to Soliris detected immediately following the 26-week active treatment.
+None of the 62 patients with gMG had antibodies to Soliris detected following the 26-week active treatment.
+Two of the 96 (2%) Soliris-treated patients with NMOSD had antibodies to Soliris detected during the entire treatment period.
+
+An ECL based neutralizing assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 5 patients with PNH, the 3 patients with aHUS and the 2 patients with NMOSD with anti-eculizumab antibody positive samples using the ECL assay.
+Two of 161 patients with PNH (1.2%) and 1 of 100 patients with aHUS (1%), and none of the 96 patients with NMOSD had low positive values for neutralizing antibodies.
 
 No apparent correlation of antibody development to clinical response was observed.
 

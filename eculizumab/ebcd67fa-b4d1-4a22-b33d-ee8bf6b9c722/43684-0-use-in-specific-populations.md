@@ -54,9 +54,9 @@ The safety and effectiveness of Soliris for the treatment of aHUS appear similar
 
 The safety and effectiveness of Soliris for the treatment of generalized Myasthenia Gravis in pediatric patients have not been established.
 
-Administer vaccinations for the prevention of infection due to Neisseria meningitidis, Streptococcus pneumoniae and Haemophilus influenza type b (Hib) according to ACIP guidelines [see Warnings and Precautions (5.1, 5.2, 5.3)].
+Administer vaccinations for the prevention of infection due to Neisseria meningitidis, Streptococcus pneumoniae and Haemophilus influenza type b (Hib) according to ACIP guidelines [see Warnings and Precautions (5.1, 5.2)].
 
 ## 8.5 Geriatric Use
 
-Forty-five patients 65 years of age or older (15 with PNH, 4 with aHUS, and 26 with gMG) were treated with Soliris in clinical trials in the approved indications.
+Fifty-one patients 65 years of age or older (15 with PNH, 4 with aHUS, 26 with gMG and 6 with NMOSD) were treated with Soliris in clinical trials in the approved indications.
 Although there were no apparent age-related differences observed in these studies, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.

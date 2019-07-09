@@ -14,4 +14,8 @@ Soliris is not indicated for the treatment of patients with Shiga toxin E. coli 
 
 ## 1.3 Generalized Myasthenia Gravis (gMG)
 
-Soliris is indicated for the treatment of adult patients with generalized Myasthenia Gravis (gMG) who are anti-acetylcholine receptor (AchR) antibody positive.
+Soliris is indicated for the treatment of adult patients with generalized myasthenia gravis (gMG) who are anti-acetylcholine receptor (AchR) antibody positive.
+
+## 1.4 Neuromyelitis Optica Spectrum Disorder (NMOSD)
+
+Soliris is indicated for the treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-aquaporin-4 (AQP4) antibody positive.
