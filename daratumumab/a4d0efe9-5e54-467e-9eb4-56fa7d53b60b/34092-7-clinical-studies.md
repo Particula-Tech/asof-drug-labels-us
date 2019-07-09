@@ -2,9 +2,56 @@
 
 ## 14.1 Newly Diagnosed Multiple Myeloma
 
+Combination treatment with Lenalidomide and Dexamethasone in Patients Ineligible for Autologous Stem Cell Transplant
+
+MAIA (NCT02252172), an open-label, randomized, active-controlled Phase 3 study, compared treatment with DARZALEX 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients with newly diagnosed multiple myeloma ineligible for autologous stem cell transplant.
+Lenalidomide (25 mg once daily orally on Days 1–21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (or a reduced dose of 20 mg/week for patients >75 years or body mass index [BMI] <18.5).
+On DARZALEX infusion days, the dexamethasone dose was given as a pre-infusion medication.
+Dose adjustments for lenalidomide and dexamethasone were applied according to manufacturer's prescribing information.
+Treatment was continued in both arms until disease progression or unacceptable toxicity.
+
+A total of 737 patients were randomized: 368 to the DRd arm and 369 to the Rd arm.
+The baseline demographic and disease characteristics were similar between the two treatment groups.
+The median age was 73 (range: 45–90) years, with 44% of the patients ≥75 years of age.
+The majority were white (92%), male (52%), 34% had an Eastern Cooperative Oncology Group (ECOG) performance score of 0, 50% had an ECOG performance score of 1 and 17% had an ECOG performance score of ≥2.
+Twenty-seven percent had International Staging System (ISS) Stage I, 43% had ISS Stage II and 29% had ISS Stage III disease.
+Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
+
+MAIA demonstrated an improvement in Progression Free Survival (PFS) in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (hazard ratio [HR]=0.56; 95% CI: 0.43, 0.73; p<0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd.
+
+Figure 1: Kaplan-Meier Curve of PFS in MAIA
+
+Additional efficacy results from MAIA are presented in Table 17 below.
+
+Table 17: Additional efficacy results from MAIABased on intent-to-treat population
+
+|  | DRd (N=368) | Rd (N=369) |
+| --- | --- | --- |
+| Overall response (sCR+CR+VGPR+PR) n(%) | 342 (92.9%) | 300 (81.3%) |
+| p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
+| Stringent complete response (sCR) | 112 (30.4%) | 46 (12.5%) |
+| Complete response (CR) | 63 (17.1%) | 46 (12.5%) |
+| Very good partial response (VGPR) | 117 (31.8%) | 104 (28.2%) |
+| Partial response (PR) | 50 (13.6%) | 104 (28.2%) |
+| CR or better (sCR + CR) | 175 (47.6%) | 92 (24.9%) |
+| p-value | <0.0001 |  |
+| VGPR or better (sCR + CR + VGPR) | 292 (79.3%) | 196 (53.1%) |
+| p-value | <0.0001 |  |
+| MRD negativity rate, Based on threshold of 10-5 using a next-generation sequencing assay (ClonoSEQ). n(%) | 89 (24.2%) | 27 (7.3%) |
+| 95% CI (%) | (19.9%, 28.9%) | (4.9%, 10.5%) |
+| p-valuep-value from Fisherʼs exact test | <0.0001 |  |
+| MRD negativity rate in patients with CR or better |  |  |
+| Number of patients with CR or better | N=175 | N=92 |
+| MRD negativity rate n(%) | 89 (50.9%) | 27 (29.3%) |
+| 95% CI (%) | (43.2%, 58.5%) | (20.3%, 39.8%) |
+| DRd=daratumumab-lenalidomide-dexamethasone; Rd=lenalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval |  |  |
+
+In responders, the median time to response was 1.05 months (range: 0.2 to 12.1 months) in the DRd group and 1.05 months (range: 0.3 to 15.3 months) in the Rd group.
+The median duration of response had not been reached in the DRd group and was 34.7 months (95% CI: 30.8, not estimable) in the Rd group.
+
 Combination Treatment with Bortezomib, Melphalan and Prednisone (VMP) in Patients Ineligible for Autologous Stem Cell Transplant
 
-ALCYONE (NCT02195479), an open-label, randomized, active-controlled Phase 3 study, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma.
+ALCYONE (NCT02195479), an open-label, randomized, active-controlled Phase 3 study, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma ineligible for autologous stem cell transplant.
 Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2–9; 4 doses per cycle).
 Melphalan at 9 mg/m2, and prednisone at 60 mg/m2 were orally administered on Days 1 to 4 of the nine 6-week cycles (Cycles 1–9).
 DARZALEX treatment was continued until disease progression or unacceptable toxicity.
@@ -12,19 +59,19 @@ DARZALEX treatment was continued until disease progression or unacceptable toxic
 A total of 706 patients were randomized: 350 to the D-VMP arm and 356 to the VMP arm.
 The baseline demographic and disease characteristics were similar between the two treatment groups.
 The median age was 71 (range: 40–93) years, with 30% of the patients ≥75 years of age.
-The majority were white (85%), female (54%), 25% had an Eastern Cooperative Oncology Group (ECOG) performance score of 0, 50% had an ECOG performance score of 1 and 25% had an ECOG performance score of 2.
+The majority were white (85%), female (54%), 25% had an ECOG performance score of 0, 50% had an ECOG performance score of 1 and 25% had an ECOG performance score of 2.
 Nineteen percent of patients had ISS Stage I, 42% had ISS Stage II and 38% had ISS Stage III disease.
-Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
+Efficacy was evaluated by PFS based on IMWG criteria.
 
-ALCYONE demonstrated an improvement in PFS in the D-VMP arm as compared to the VMP arm; the median PFS had not been reached in the D-VMP arm and was 18.1 months (95% CI:16.53, 19.91) in the VMP arm (hazard ratio [HR]=0.5; 95% CI: 0.38, 0.65; p<0.0001), representing 50% reduction in the risk of disease progression or death in patients treated with D-VMP.
+ALCYONE demonstrated an improvement in PFS in the D-VMP arm as compared to the VMP arm; the median PFS had not been reached in the D-VMP arm and was 18.1 months (95% CI:16.53, 19.91) in the VMP arm (HR=0.5; 95% CI: 0.38, 0.65; p<0.0001), representing 50% reduction in the risk of disease progression or death in patients treated with D-VMP.
 
-Figure 1: Kaplan-Meier Curve of PFS in ALCYONE
+Figure 2: Kaplan-Meier Curve of PFS in ALCYONE
 
-Additional efficacy results from ALCYONE are presented in Table 15 below.
+Additional efficacy results from ALCYONE are presented in Table 18 below.
 
-Table 15: Additional efficacy results from ALCYONE
+Table 18: Additional efficacy results from ALCYONE
 
-|  | D-VMP (n=350) | VMP (n=356) |
+|  | D-VMP (N=350) | VMP (N=356) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) n(%)Based on intent-to-treat population | 318 (90.9%) | 263 (73.9%) |
 | p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
@@ -32,10 +79,12 @@ Table 15: Additional efficacy results from ALCYONE
 | Complete response (CR) | 86 (24.6%) | 62 (17.4%) |
 | Very good partial response (VGPR) | 100 (28.6%) | 90 (25.3%) |
 | Partial response (PR) | 69 (19.7%) | 86 (24.2%) |
-| MRD negativity rate, Based on threshold of 10-5 n(%) | 78 (22.3%) | 22 (6.2%) |
+| MRD negativity rate, Based on threshold of 10-5 using a next-generation sequencing assay (ClonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
 | 95% CI (%) | (18.0, 27.0) | (3.9, 9.2) |
 | p-valuep-value from Fisherʼs exact test. | <0.0001 |  |
-| MRD negativity rate in patients with CR or better n(%) | 74 (49.7%) | 22 (25.3%) |
+| MRD negativity rate in patients with CR or better |  |  |
+| Number of patients with CR or better | N=149 | N=87 |
+| MRD negativity rate n(%) | 74 (49.7%) | 22 (25.3%) |
 | 95% CI (%) | (41.4, 58.0) | (16.6, 35.7) |
 | D-VMP = daratumumab-bortezomib-melphalan-prednisone; VMP = bortezomib-melphalan-prednisone; MRD = minimal residual disease; CI = confidence interval |  |  |
 
@@ -47,7 +96,7 @@ The median duration of response had not been reached in the D-VMP group and was 
 Combination Treatment with Lenalidomide and Dexamethasone
 
 POLLUX (NCT02076009), an open-label, randomized, active-controlled Phase 3 trial, compared treatment with DARZALEX 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients with multiple myeloma who had received at least one prior therapy.
-Lenalidomide (25 mg once daily orally on Days 1–21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (or a reduced dose of 20 mg/week for patients >75 years or body mass index [BMI] <18.5).
+Lenalidomide (25 mg once daily orally on Days 1–21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (or a reduced dose of 20 mg/week for patients >75 years or BMI <18.5).
 On DARZALEX infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medication and the remainder given the day after the infusion.
 For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX pre-infusion medication.
 Dose adjustments for lenalidomide and dexamethasone were applied according to manufacturer's prescribing information.
@@ -61,17 +110,17 @@ Sixty-three percent (63%) of patients had received prior autologous stem cell tr
 The majority of patients (86%) received a prior PI, 55% of patients had received a prior immunomodulatory agent, including 18% of patients who had received prior lenalidomide; and 44% of patients had received both a prior PI and immunomodulatory agent.
 At baseline, 27% of patients were refractory to the last line of treatment.
 Eighteen percent (18%) of patients were refractory to a PI only, and 21% were refractory to bortezomib.
-Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
+Efficacy was evaluated by PFS based on IMWG criteria.
 
 POLLUX demonstrated an improvement in PFS in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (hazard ratio [HR]=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing 63% reduction in the risk of disease progression or death in patients treated with DRd.
 
-Figure 2: Kaplan-Meier Curve of PFS in POLLUX
+Figure 3: Kaplan-Meier Curve of PFS in POLLUX
 
-Additional efficacy results from POLLUX are presented in Table 16 below.
+Additional efficacy results from POLLUX are presented in Table 19 below.
 
-Table 16: Additional efficacy results from POLLUXBased on Intent-to-treat population
+Table 19: Additional efficacy results from POLLUXBased on Intent-to-treat population
 
-|  | DRd (n=286) | Rd (n=283) |
+|  | DRd (N=286) | Rd (N=283) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) | 261 (91.3%) | 211 (74.6%) |
 | p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
@@ -104,17 +153,17 @@ Patients had received a median of 2 prior lines of therapy and 61% of patients h
 Sixty-nine percent (69%) of patients had received a prior PI (66% received bortezomib) and 76% of patients received an immunomodulatory agent (42% received lenalidomide).
 At baseline, 32% of patients were refractory to the last line of treatment and the proportions of patients refractory to any specific prior therapy were in general well balanced between the treatment groups.
 Thirty-three percent (33%) of patients were refractory to an immunomodulatory agent only, with 24% patients in the DVd arm and 33% of patients in the Vd arm respectively refractory to lenalidomide.
-Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
+Efficacy was evaluated by PFS based on IMWG criteria.
 
 CASTOR demonstrated an improvement in PFS in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value < 0.0001), representing a 61% reduction in the risk of disease progression or death for patients treated with DVd versus Vd.
 
-Figure 3: Kaplan-Meier Curve of PFS in CASTOR
+Figure 4: Kaplan-Meier Curve of PFS in CASTOR
 
-Additional efficacy results from CASTOR are presented in Table 17 below.
+Additional efficacy results from CASTOR are presented in Table 20 below.
 
-Table 17: Additional efficacy results from CASTORBased on Intent-to-treat population
+Table 20: Additional efficacy results from CASTORBased on Intent-to-treat population
 
-|  | DVd (n=251) | Vd (n=247) |
+|  | DVd (N=251) | Vd (N=247) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) | 199 (79.3%) | 148 (59.9%) |
 | P-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
@@ -132,7 +181,7 @@ With a median follow-up of 7.4 months, 65 deaths were observed; 29 in the DVd gr
 Combination Treatment with Pomalidomide and Dexamethasone
 
 EQUULEUS (NCT01998971) was an open-label trial in which 103 patients with multiple myeloma who had received a prior PI and an immunomodulatory agent, received 16 mg/kg DARZALEX in combination with pomalidomide and low-dose dexamethasone until disease progression.
-Pomalidomide (4 mg once daily orally on Days 1–21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/ week (reduced dose of 20 mg/week for patients >75 years or body mass index [BMI] <18.5).
+Pomalidomide (4 mg once daily orally on Days 1–21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (reduced dose of 20 mg/week for patients >75 years or BMI <18.5).
 On DARZALEX infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medication and the remainder given the day after the infusion.
 For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX pre-infusion medication.
 
@@ -143,9 +192,9 @@ Ninety-eight percent (98%) of patients received prior bortezomib treatment, and 
 All patients received prior lenalidomide treatment, with 98% of patients previously treated with the combination of bortezomib and lenalidomide.
 Eighty nine percent (89%) of patients were refractory to lenalidomide and 71% refractory to bortezomib; 64% of patients were refractory to bortezomib and lenalidomide.
 
-Efficacy results were based on overall response rate as determined by Independent Review Committee using IMWG criteria (see Table 18).
+Efficacy results were based on overall response rate as determined by Independent Review Committee using IMWG criteria (see Table 21).
 
-Table 18: Efficacy results for EQUULEUS
+Table 21: Efficacy results for EQUULEUS
 
 |  | N=103 |
 | --- | --- |
@@ -154,8 +203,7 @@ Table 18: Efficacy results for EQUULEUS
 | Complete response (CR) | 6 (5.8%) |
 | Very good partial response (VGPR) | 29 (28.2%) |
 | Partial response (PR) | 18 (17.5%) |
-| ORR = sCR+CR+VGPR+PR |  |
-| CI=Confidence Interval |  |
+| ORR = sCR+CR+VGPR+PR CI = Confidence Interval |  |
 
 The median time to response was 1 month (range: 0.9 to 2.8 months).
 The median duration of response was 13.6 months (range: 0.9+ to 14.6+ months).
@@ -172,9 +220,9 @@ Eighty percent of patients had received prior autologous stem cell transplantati
 Prior therapies included bortezomib (99%), lenalidomide (99%), pomalidomide (63%) and carfilzomib (50%).
 At baseline, 97% of patients were refractory to the last line of treatment, 95% were refractory to both, a proteasome inhibitor (PI) and immunomodulatory agent, and 77% were refractory to alkylating agents.
 
-Efficacy results were based on overall response rate as determined by the Independent Review Committee assessment using IMWG criteria (see Table 19).
+Efficacy results were based on overall response rate as determined by the Independent Review Committee assessment using IMWG criteria (see Table 22).
 
-Table 19: Efficacy results for SIRIUS
+Table 22: Efficacy results for SIRIUS
 
 |  | N=106 |
 | --- | --- |
@@ -183,8 +231,7 @@ Table 19: Efficacy results for SIRIUS
 | Complete response (CR) | 0 |
 | Very good partial response (VGPR) | 10 (9.4%) |
 | Partial response (PR) | 18 (17.0%) |
-| ORR = sCR+CR+VGPR+PR |  |
-| CI = confidence interval |  |
+| ORR = sCR+CR+VGPR+PR CI = confidence interval |  |
 
 The median time to response was 1 month (range: 0.9 to 5.6 months).
 The median duration of response was 7.4 months (range: 1.2 to 13.1+ months).

@@ -6,13 +6,29 @@
 - Administer only as an intravenous infusion after dilution in 0.9% Sodium Chloride Injection, USP [see Dosage and Administration (2.4, 2.5)].
 - DARZALEX should be administered by a healthcare professional, with immediate access to emergency equipment and appropriate medical support to manage infusion reactions if they occur [see Warnings and Precautions (5.1)].
 
-Newly Diagnosed Multiple Myeloma
+The DARZALEX dosing schedule in Table 1 is for combination therapy (4-week cycle regimens) and monotherapy as follows:
 
-Dosing Schedule for DARZALEX in Combination with Bortezomib, Melphalan and Prednisone (6-week cycle regimen) for Patients Ineligible for Autologous Stem Cell Transplant
+- -combination therapy with lenalidomide and low-dose dexamethasone for newly diagnosed patients ineligible for autologous stem cell transplant (ASCT) and in patients with relapsed/refractory multiple myeloma
+- -combination therapy with lenalidomide or pomalidomide and low-dose dexamethasone for patients with relapsed/refractory multiple myeloma
+- -monotherapy for patients with relapsed/refractory multiple myeloma.
 
-The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule in Table 1.
+The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule:
 
-Table 1: DARZALEX dosing schedule in combination with bortezomib, melphalan and prednisone ([VMP], 6-week cycle dosing regimen)
+Table 1: DARZALEX dosing schedule in combination with lenalidomide or pomalidomide (4-week cycle dosing regimens) and low-dose dexamethasone and for monotherapy
+
+| Weeks | Schedule |
+| --- | --- |
+| Weeks 1 to 8 | weekly (total of 8 doses) |
+| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+
+For dosing instructions of combination agents administered with DARZALEX, see Clinical Studies (14) and manufacturer's prescribing information.
+
+The DARZALEX dosing schedule in Table 2 is for combination therapy with bortezomib, melphalan and prednisone (6-week cycle regimen) for patients with newly diagnosed multiple myeloma ineligible for ASCT.
+
+The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule:
+
+Table 2: DARZALEX dosing schedule in combination with bortezomib, melphalan and prednisone ([VMP], 6-week cycle dosing regimen)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -22,27 +38,11 @@ Table 1: DARZALEX dosing schedule in combination with bortezomib, melphalan and 
 
 For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.1).
 
-Relapsed/Refractory Multiple Myeloma
-
-Monotherapy and Combination Therapy with Lenalidomide or Pomalidomide and Low-Dose Dexamethasone (4-week cycle regimens)
-
-The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule in Table 2:
-
-Table 2: DARZALEX dosing schedule for monotherapy and in combination with lenalidomide or pomalidomide (4-week cycle dosing regimens)
-
-| Weeks | Schedule |
-| --- | --- |
-| Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
-| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
-
-For dosing instructions of combination agents administered with DARZALEX, see Clinical Studies (14.2) and manufacturer's prescribing information.
-
-Combination Therapy with Bortezomib and Dexamethasone (3-week cycle regimen)
+The DARZALEX dosing schedule in Table 3 is for combination therapy with bortezomib and dexamethasone (3-week cycle regimen) for patients with relapsed/refractory multiple myeloma.
 
 The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule in Table 3:
 
-Table 3: DARZALEX dosing schedule with bortezomib (3-week cycle dosing regimen)
+Table 3: DARZALEX dosing schedule with bortezomib and dexamethasone (3-week cycle dosing regimen)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -95,7 +95,8 @@ Administer the following pre-infusion medications to reduce the risk of infusion
 
 - Corticosteroid (long-acting or intermediate-acting) Monotherapy: Methylprednisolone 100 mg, or equivalent, administered intravenously.
   Following the second infusion, the dose of corticosteroid may be reduced (oral or intravenous methylprednisolone 60 mg).
-  Combination therapy: Administer 20 mg dexamethasone (or equivalent) prior to every DARZALEX infusion [Clinical Studies (14)].Dexamethasone is given intravenously prior to the first DARZALEX infusion and oral administration may be considered prior to subsequent infusions.
+  Combination therapy:Administer 20 mg dexamethasone (or equivalent) prior to every DARZALEX infusion.
+  When dexamethasone is the background regimen specific corticosteroid, the dexamethasone treatment dose will instead serve as pre-medication on DARZALEX infusion days [see Clinical Studies (14)].Dexamethasone is given intravenously prior to the first DARZALEX infusion and oral administration may be considered prior to subsequent infusions.
   Additional background regimen-specific corticosteroids (e.g. prednisone) should not be taken on DARZALEX infusion days when patients receive dexamethasone (or equivalent) as a pre-medication.
 - Antipyretics (oral acetaminophen 650 to 1000 mg)
 - Antihistamine (oral or intravenous diphenhydramine 25 to 50 mg or equivalent).
@@ -104,15 +105,9 @@ Post-infusion Medication
 
 Administer post-infusion medication to reduce the risk of delayed infusion reactions to all patients as follows:
 
-Monotherapy:
-
-Administer oral corticosteroid (20 mg methylprednisolone or equivalent dose of an intermediate-acting or long-acting corticosteroid in accordance with local standards) on each of the 2 days following all DARZALEX infusions (beginning the day after the infusion).
-
-Combination therapy:
-
-Consider administering low-dose oral methylprednisolone (≤20 mg) or equivalent, the day after the DARZALEX infusion.
-
-However, if a background regimen-specific corticosteroid (e.g. dexamethasone, prednisone) is administered the day after the DARZALEX infusion, additional post-infusion medications may not be needed [see Clinical Studies (14)].
+- Monotherapy: Administer oral corticosteroid (20 mg methylprednisolone or equivalent dose of an intermediate-acting or long-acting corticosteroid in accordance with local standards) on each of the 2 days following all DARZALEX infusions (beginning the day after the infusion).
+- Combination therapy: Consider administering low-dose oral methylprednisolone (≤20 mg) or equivalent, the day after the DARZALEX infusion.
+  However, if a background regimen-specific corticosteroid (e.g. dexamethasone, prednisone) is administered the day after the DARZALEX infusion, additional post-infusion medications may not be needed [see Clinical Studies (14)].
 
 In addition, for any patients with a history of chronic obstructive pulmonary disease, consider prescribing post-infusion medications such as short and long-acting bronchodilators, and inhaled corticosteroids.
 Following the first four infusions, if the patient experiences no major infusion reactions, these additional inhaled post-infusion medications may be discontinued.

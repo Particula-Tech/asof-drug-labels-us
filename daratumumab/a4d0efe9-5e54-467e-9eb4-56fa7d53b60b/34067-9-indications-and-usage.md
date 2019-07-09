@@ -1,8 +1,9 @@
 # 1 INDICATIONS AND USAGE
 
-DARZALEX is indicated:
+DARZALEX is indicated for the treatment of adult patients with multiple myeloma:
 
-- in combination with bortezomib, melphalan and prednisone for the treatment of patients with newly diagnosed multiple myeloma who are ineligible for autologous stem cell transplant.
-- in combination with lenalidomide and dexamethasone, or bortezomib and dexamethasone, for the treatment of patients with multiple myeloma who have received at least one prior therapy.
-- in combination with pomalidomide and dexamethasone for the treatment of patients with multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor.
-- as monotherapy, for the treatment of patients with multiple myeloma who have received at least three prior lines of therapy including a proteasome inhibitor (PI) and an immunomodulatory agent or who are double-refractory to a PI and an immunomodulatory agent.
+- in combination with lenalidomide and dexamethasone in newly diagnosed patients who are ineligible for autologous stem cell transplant and in patients with relapsed or refractory multiple myeloma who have received at least one prior therapy.
+- in combination with bortezomib, melphalan and prednisone in newly diagnosed patients who are ineligible for autologous stem cell transplant.
+- in combination with bortezomib and dexamethasone in patients who have received at least one prior therapy.
+- in combination with pomalidomide and dexamethasone in patients who have received at least two prior therapies including lenalidomide and a proteasome inhibitor.
+- as monotherapy, in patients who have received at least three prior lines of therapy including a proteasome inhibitor (PI) and an immunomodulatory agent or who are double-refractory to a PI and an immunomodulatory agent.

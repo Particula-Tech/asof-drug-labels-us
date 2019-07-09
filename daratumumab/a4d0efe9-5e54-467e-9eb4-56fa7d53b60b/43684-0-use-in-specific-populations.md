@@ -6,7 +6,7 @@ Risk Summary
 
 There are no human data to inform a risk with use of DARZALEX during pregnancy.
 Animal studies have not been conducted.
-However, there are clinical considerations [see Clinical Considerations].
+However, there are clinical considerations (see Clinical Considerations).
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
@@ -48,5 +48,5 @@ Safety and effectiveness of DARZALEX in pediatric patients have not been establi
 
 ## 8.5 Geriatric Use
 
-Of the 1166 patients that received DARZALEX at the recommended dose, 46% were 65 to 75 years of age, and 15% were 75 years of age or older.
+Of the 1530 patients that received DARZALEX at the recommended dose, 48% were 65 to 75 years of age, and 22% were 75 years of age or older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients [see Clinical Studies (14)].
