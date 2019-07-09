@@ -227,7 +227,7 @@ KAZANO and NESINA are trademarks of Takeda Pharmaceutical Company Limited regist
 
 ©2013 - 2017 Takeda Pharmaceuticals America, Inc.
 
-ALM143 R10
+ALM143 R11
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 2/2017
