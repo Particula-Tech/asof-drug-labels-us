@@ -39,7 +39,7 @@ APOTEX INC. CELECOXIB CAPSULES 50 mg, 100 mg and 200 mg
 | Weston, Florida |
 | 33326 |
 
-Revised: July 2018
+Revised: June 2019
 
 Rev.
-8
+9

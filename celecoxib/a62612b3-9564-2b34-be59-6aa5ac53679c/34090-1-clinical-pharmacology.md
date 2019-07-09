@@ -31,7 +31,7 @@ Celecoxib exhibits dose-proportional increase in exposure after oral administrat
 It has extensive distribution and high protein binding.
 It is primarily metabolized by CYP2C9 with a half-life of approximately 11 hours.
 
-Absorption Peak plasma levels of celecoxib occur approximately 3 hrs after an oral dose.
+Absorption Peak plasma levels of celecoxib occur approximately 3 hours after an oral dose.
 Under fasting conditions, both peak plasma levels (Cmax) and area under the curve (AUC) are roughly dose-proportional up to 200 mg twice daily; at higher doses there are less than proportional increases in Cmax and AUC [see Food Effects].
 Absolute bioavailability studies have not been conducted.
 With multiple dosing, steady- state conditions are reached on or before Day 5.
@@ -56,7 +56,7 @@ In healthy adult volunteers, the overall systemic exposure (AUC) of celecoxib wa
 There were no significant alterations in Cmax, Tmax or t1/2 after administration of capsule contents on applesauce [see Dosage and Administration (2)].
 
 Distribution In healthy subjects, celecoxib is highly protein bound (~97%) within the clinical dose range.
-In vitro studies indicate that celecoxib binds primarily to albumin and, to a lesser extent, α1-acid glycoprotein.
+In vitro studies indicate that celecoxib binds primarily to albumin and, to a lesser extent, α1 -acid glycoprotein.
 The apparent volume of distribution at steady state (Vss/F) is approximately 400 L, suggesting extensive distribution into the tissues.
 Celecoxib is not preferentially bound to red blood cells.
 
@@ -79,7 +79,7 @@ However, for patients of less than 50 kg in body weight, initiate therapy at the
 Pediatric The steady state pharmacokinetics of celecoxib administered as an investigational oral suspension was evaluated in 152 JRA patients 2 years to 17 years of age weighing ≥10 kg with pauciarticular or polyarticular course JRA and in patients with systemic onset JRA.
 Population pharmacokinetic analysis indicated that the oral clearance (unadjusted for body weight) of celecoxib increases less than proportionally to increasing weight, with 10 kg and 25 kg patients predicted to have 40% and 24% lower clearance, respectively, compared with a 70 kg adult RA patient.
 
-Twice-daily administration of 50 mg capsules to JRA patients weighing ≥12 to ≤25 kg and 100 mg capsules to JRA patients weighing >25 kg should achieve plasma concentrations similar to those observed in a clinical trial that demonstrated the non-inferiority of celecoxib to naproxen 7.5 mg/kg twice daily (see Dosage and Administration (2.4).
+Twice-daily administration of 50 mg capsules to JRA patients weighing ≥12 to ≤25 kg and 100 mg capsules to JRA patients weighing >25 kg should achieve plasma concentrations similar to those observed in a clinical trial that demonstrated the non-inferiority of celecoxib to naproxen 7.5 mg/kg twice daily [see Dosage and Administration (2.4].
 Celecoxib has not been studied in JRA patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), or beyond 24 weeks.
 
 Race Meta-analysis of pharmacokinetic studies has suggested an approximately 40% higher AUC of celecoxib in Blacks compared to Caucasians.

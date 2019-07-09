@@ -10,7 +10,7 @@ For the management of the signs and symptoms of OA [see Clinical Studies (14.1)]
 
 For the management of the signs and symptoms of RA [see Clinical Studies (14.2)]
 
-## 1.3 Juvenile Rheumatoid Arthritis (JRA)
+## 1.3 Juvenile Rheumatoid Arthritis(JRA)
 
 For the management of the signs and symptoms of JRA in patients 2 years and older [see Clinical Studies (14.3)]
 

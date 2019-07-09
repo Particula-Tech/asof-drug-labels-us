@@ -9,14 +9,14 @@ Avoid use of NSAIDs, including celecoxib capsules, in pregnant women starting at
 
 There are no adequate and well-controlled studies of celecoxib capsules in pregnant women.
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose of 200 mg twice daily.
+In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose (MRHD) of 200 mg twice daily.
 In addition, structural abnormalities (e.g., septal defects, ribs fused, sternebrae fused and sternebrae misshapen) were observed in rabbits given daily oral doses of celecoxib during the period of organogenesis at approximately 2 times the MRHD [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as celecoxib, resulted in increased pre- and post- implantation loss.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2% to 4% for major malformations, and 15% to 20% for pregnancy loss.
 
 Clinical Considerations Labor or Delivery There are no studies on the effects of celecoxib capsules during labor or delivery.
 In animal studies, NSAIDs, including celecoxib, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
@@ -49,14 +49,14 @@ Consider withdrawal of NSAIDs, including celecoxib capsules, in women who have d
 
 Celecoxib is approved for relief of the signs and symptoms of Juvenile Rheumatoid Arthritis in patients 2 years and older.
 Safety and efficacy have not been studied beyond six months in children.
-The long-term cardiovascular toxicity in children exposed to celecoxib has not been evaluated and it is unknown if long-term risks may be similar to that seen in adults exposed to celecoxib or other COX-2 selective and non-selective NSAIDs [(see Boxed Warning, Warnings and Precautions (5.12), and Clinical Studies (14.3)].
+The long-term cardiovascular toxicity in children exposed to celecoxib has not been evaluated and it is unknown if long-term risks may be similar to that seen in adults exposed to celecoxib or other COX-2 selective and non-selective NSAIDs [see Boxed Warning, Warnings and Precautions (5.12), and Clinical Studies (14.3)].
 
 The use of celecoxib in patients 2 years to 17 years of age with pauciarticular, polyarticular course JRA or in patients with systemic onset JRA was studied in a 12-week, double-blind, active controlled, pharmacokinetic, safety and efficacy study, with a 12-week open-label extension.
 Celecoxib has not been studied in patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), and in patients with active systemic features.
 Patients with systemic onset JRA (without active systemic features) appear to be at risk for the development of abnormal coagulation laboratory tests.
 In some patients with systemic onset JRA, both celecoxib and naproxen were associated with mild prolongation of activated partial thromboplastin time (APTT) but not prothrombin time (PT).
 When NSAIDs including celecoxib are used in patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, due to the risk of disseminated intravascular coagulation.
-Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.4), Warnings and Precautions (5.12), Adverse Reactions (6.1), Animal Toxicology (13.2), Clinical Studies (14.3)].
+Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.4), Warnings and Precautions (5.12), Adverse Reactions (6.3), Animal Toxicology (13.2), Clinical Studies (14.3)].
 
 Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 substrates (8.8)].
 

@@ -22,7 +22,7 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
 The risk of getting an ulcer or bleeding increases with:
 
 - past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
-- taking medicines called "corticosteroids", "anticoagulants", "SSRIs", or "SNRIs"
+- taking medicines called "corticosteroids", “antiplatelet drugs”, "anticoagulants", "SSRIs" or "SNRIs"
 - increasing doses of NSAIDs
 - longer use of NSAIDs
 - smoking
@@ -143,6 +143,6 @@ CELECOXIB CAPSULES
 | Weston, Florida |
 | USA 33326 |
 
-Revised: July 2018
+Revised: June 2019
 
-Revision: 8
+Revision: 9
