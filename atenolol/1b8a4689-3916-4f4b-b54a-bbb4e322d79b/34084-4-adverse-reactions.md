@@ -5,7 +5,7 @@ The frequency estimates in the following table were derived from controlled stud
 The reported frequency of elicited adverse effects was higher for both atenolol and placebo-treated patients than when these reactions were volunteered.
 Where frequency of adverse effects of atenolol and placebo is similar, causal relationship to atenolol is uncertain.
 
-|  | Volunteered (U.S. Studies) |  | Total – Volunteered and Elicited (Foreign+U.S. Studies) |  |
+|  | Volunteered (U.S. Studies) |  | Total - Volunteered and Elicited (Foreign+U.S. Studies) |  |
 | --- | --- | --- | --- | --- |
 | Atenolol (n=164) % | Placebo (n=206) % | Atenolol (n=399) % | Placebo (n=407) % |  |
 | CARDIOVASCULAR |  |  |  |  |
@@ -61,9 +61,9 @@ In a study of 477 patients, the following adverse events were reported during ei
 
 In the subsequent International Study of Infarct Survival (ISIS-1) including over 16,000 patients of whom 8,037 were randomized to receive atenolol treatment, the dosage of intravenous and subsequent oral atenolol was either discontinued or reduced for the following reasons:
 
-| IV Atenolol Reduced Dose (< 5 mg)* |  | Oral Partial Dose |  |  |
-| --- | --- | --- | --- | --- |
 |  | Reasons for Reduced Dosage |  |  |  |
+| --- | --- | --- | --- | --- |
+| IV Atenolol Reduced Dose (< 5 mg)* |  | Oral Partial Dose |  |  |
 | Hypotension/Bradycardia | 105 | (1.3%) | 1168 | (14.5%) |
 | Cardiogenic Shock | 4 | (.04%) | 35 | (.44%) |
 | Reinfarction | 0 | (0%) | 5 | (.06%) |
