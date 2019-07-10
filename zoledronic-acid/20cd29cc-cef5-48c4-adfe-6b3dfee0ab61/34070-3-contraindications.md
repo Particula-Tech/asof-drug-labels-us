@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Hypersensitivity to Zoledronic Acid or Any Components of Zoledronic Acid Injection
 

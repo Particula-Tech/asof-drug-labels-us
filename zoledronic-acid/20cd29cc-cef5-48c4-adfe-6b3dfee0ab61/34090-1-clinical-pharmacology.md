@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -10,7 +10,7 @@ Zoledronic acid inhibits the increased osteoclastic activity and skeletal calciu
 
 ## 12.2 Pharmacodynamics
 
-Clinical studies in patients with hypercalcemia of malignancy (HCM) showed that single-dose infusions of zoledronic acid injection are associated with decreases in serum calcium and phosphorus and increases in urinary calcium and phosphorus excretion.
+Clinical studies in patients with hypercalcemia of malignancy (HCM) showed that single-dose infusions of zoledronic acid are associated with decreases in serum calcium and phosphorus and increases in urinary calcium and phosphorus excretion.
 
 Osteoclastic hyperactivity resulting in excessive bone resorption is the underlying pathophysiologic derangement in hypercalcemia of malignancy (HCM, tumor-induced hypercalcemia) and metastatic bone disease.
 Excessive release of calcium into the blood as bone is resorbed results in polyuria and gastrointestinal disturbances, with progressive dehydration and decreasing glomerular filtration rate.
@@ -27,7 +27,7 @@ Tumors commonly associated with locally mediated hypercalcemia include breast ca
 
 Total serum calcium levels in patients who have hypercalcemia of malignancy may not reflect the severity of hypercalcemia, since concomitant hypoalbuminemia is commonly present.
 Ideally, ionized calcium levels should be used to diagnose and follow hypercalcemic conditions; however, these are not commonly or rapidly available in many clinical situations.
-Therefore, adjustment of the total serum calcium value for differences in albumin levels (corrected serum calcium, CSC) is often used in place of measurement of ionized calcium; several nomograms are in use for this type of calculation [see Dosage And Administration (2.1)].
+Therefore, adjustment of the total serum calcium value for differences in albumin levels (corrected serum calcium, CSC) is often used in place of measurement of ionized calcium; several nomograms are in use for this type of calculation [see Dosage and Administration (2.1)].
 
 ## 12.3 Pharmacokinetics
 
@@ -35,9 +35,9 @@ Pharmacokinetic data in patients with hypercalcemia are not available.
 
 Distribution
 
-Single or multiple (q 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid injection were given to 64 patients with cancer and bone metastases.
-The postinfusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours postinfusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
-The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 postinfusion, and a terminal elimination half-life t 1/2γ of 146 hours.
+Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8, or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
+The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end of infusion to less than 1% of Cmax 24 hours postinfusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
+The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 postinfusion, and a terminal elimination half-life t1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
 The accumulation of zoledronic acid measured over three cycles was low, with mean AUC0-24h ratios for cycles 2 and 3 versus 1 of 1.13 ± 0.30 and 1.16 ± 0.36, respectively.
 
@@ -58,15 +58,15 @@ The cumulative percent of drug excreted in the urine over 0 to 24 hours was inde
 The balance of drug not recovered in urine over 0 to 24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
 The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2.0 L/h.
 
-Zoledronic acid clearance was independent of dose but dependent upon the patient's creatinine clearance.
-In a study in patients with cancer and bone metastases, increasing the infusion time of a 4-mg dose of zoledronic acid from 5 minutes (n=5) to 15 minutes (n=7) resulted in a 34% decrease in the zoledronic acid concentration at the end of the infusion ([mean ± SD] 403 ± 118 ng/mL versus 264 ± 86 ng/mL) and a 10% increase in the total AUC (378 ± 116 ng x h/mL versus 420 ± 218 ng x h/mL).
+Zoledronic acid clearance was independent of dose but dependent upon the patient’s creatinine clearance.
+In a study in patients with cancer and bone metastases, increasing the infusion time of a 4 mg dose of zoledronic acid from 5 minutes (n = 5) to 15 minutes (n = 7) resulted in a 34% decrease in the zoledronic acid concentration at the end of the infusion ([mean ± SD] 403 ± 118 ng/mL versus 264 ± 86 ng/mL) and a 10% increase in the total AUC (378 ± 116 ng x h/mL versus 420 ± 218 ng x h/mL).
 The difference between the AUC means was not statistically significant.
 
 Special Populations
 
 Pediatrics
 
-Zoledronic acid injection is not indicated for use in children [see Use in Specific Populations (8.4)].
+Zoledronic acid is not indicated for use in children [see Use in Specific Populations (8.4)].
 
 Geriatrics
 
@@ -83,12 +83,16 @@ No clinical studies were conducted to evaluate the effect of hepatic impairment 
 Renal Insufficiency
 
 The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately impaired renal function.
-Compared to patients with normal renal function (N=37), patients with mild renal impairment (N=15) showed an average increase in plasma AUC of 15%, whereas patients with moderate renal impairment (N=11) showed an average increase in plasma AUC of 43%.
-Limited pharmacokinetic data are available for zoledronic acid injection in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
+Compared to patients with normal renal function (N = 37), patients with mild renal impairment (N = 15) showed an average increase in plasma AUC of 15%, whereas patients with moderate renal impairment (N = 11) showed an average increase in plasma AUC of 43%.
+Limited pharmacokinetic data are available for zoledronic acid in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
 Based on population PK/PD modeling, the risk of renal deterioration appears to increase with AUC, which is doubled at a creatinine clearance of 10 mL/min.
 Creatinine clearance is calculated by the Cockcroft-Gault formula:
 
-Zoledronic acid injection systemic clearance in individual patients can be calculated from the population clearance of zoledronic acid injection, CL (L/h)=6.5(CLcr/90)0.4.
-These formulae can be used to predict the zoledronic acid injection AUC in patients, where CL = Dose/AUC0-∞.
-The average AUC0-24 in patients with normal renal function was 0.42 mg•h/L and the calculated AUC0-∞ for a patient with creatinine clearance of 75 mL/min was 0.66 mg•h/L following a 4-mg dose of zoledronic acid injection.
+CrCl = [140-age (years)] x weight (kg) {x 0.85 for female patients}
+
+[72 x serum creatinine (mg/dL)]
+
+Zoledronic acid systemic clearance in individual patients can be calculated from the population clearance of zoledronic acid, CL (L/h)=6.5(CrCl/90)0.4.
+These formulae can be used to predict the zoledronic acid AUC in patients, where CL = Dose/AUC0-∞.
+The average AUC0-24 in patients with normal renal function was 0.42 mg•h/L and the calculated AUC0-∞ for a patient with creatinine clearance of 75 mL/min was 0.66 mg•h/L following a 4 mg dose of zoledronic acid.
 However, efficacy and safety of adjusted dosing based on these formulae have not been prospectively assessed [see Warnings and Precautions (5.3)].
