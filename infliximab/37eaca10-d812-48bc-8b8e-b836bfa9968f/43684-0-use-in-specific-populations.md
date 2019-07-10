@@ -2,40 +2,67 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. It is not known whether infliximab products can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-INFLECTRA should be given to a pregnant woman only if clearly needed.
-Because infliximab products do not cross-react with TNFα in species other than humans and chimpanzees, animal reproduction studies have not been conducted with infliximab products.
-No evidence of maternal toxicity, embryotoxicity or teratogenicity was observed in a developmental toxicity study conducted in mice using an analogous antibody that selectively inhibits the functional activity of mouse TNFα.
+Risk Summary
 
+Available data from published literature on the use of infliximab products during pregnancy have not reported a clear association with infliximab products and adverse pregnancy outcomes.
+Infliximab products cross the placenta and infants exposed in utero should not be administered live vaccines for at least 6 months after birth (see Clinical Considerations).
+No evidence of maternal toxicity, embryotoxicity or teratogenicity was observed in a developmental toxicity study conducted in mice using an analogous antibody that selectively inhibits the functional activity of mouse TNFα (see Data).
+
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Infliximab products cross the placenta, and have been detected in the serum of infants up to 6 months following birth.
+Consequently, these infants may be at increased risk of infection, including disseminated infection which can become fatal.
+At least a six-month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.15)].
+Cases of agranulocytosis in infants exposed in utero have also been reported [see Adverse Reactions (6.2)].
+
+Data
+
+Animal Data
+
+Because infliximab products do not cross-react with TNFα in species other than humans and chimpanzees, animal reproduction studies have not been conducted with infliximab products.
+No evidence of maternal toxicity or embryotoxicity was observed in a developmental toxicity study conducted in mice using an analogous antibody that selectively inhibits the functional activity of mouse TNFα.
 Doses of 10 to 15 mg/kg in pharmacodynamic animal models with the anti-TNF analogous antibody produced maximal pharmacologic effectiveness.
 Doses up to 40 mg/kg were shown to produce no adverse effects in animal reproduction studies.
 
-As with other IgG antibodies, infliximab products cross the placenta.
-Infliximab has been detected in the serum of infants at up to 6 months following birth.
-Consequently, these infants may be at increased risk of infection, including disseminated infection which can become fatal.
-At least a six month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.15)].
-Cases of agranulocytosis in infants exposed in utero have also been reported [See Adverse Reactions (6.2)]
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
-It is not known whether infliximab products are excreted in human milk or absorbed systemically after ingestion.
-Because many drugs and immunoglobulins are excreted in human milk, and because of the potential for adverse reactions in nursing infants from infliximab products, women should not breast-feed their infants while taking INFLECTRA.
-A decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Available information is insufficient to assess the amount of infliximab products present in human milk, and the effects on breastfed infants.
+There are no data on the effects of infliximab products on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for an infliximab product and any potential adverse effects on the breastfed infant from infliximab products or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of infliximab products have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of Crohn's disease.
+The safety and effectiveness of infliximab products have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of Crohn's disease or ulcerative colitis.
 However, infliximab products have not been studied in children with Crohn's disease or ulcerative colitis <6 years of age.
 
 Pediatric Crohn's Disease
 
-INFLECTRA is indicated for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients with moderately to severely active Crohn's disease who have had an inadequate response to conventional therapy [see Boxed Warning, Warnings and Precautions (5), Indications and Usage (1.2), Dosage and Administration (2.2), Clinical Studies (14.2) and Adverse Reactions (6.1)].
+INFLECTRA is indicated for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients with moderately to severely active Crohn's disease who have had an inadequate response to conventional therapy [see Boxed Warning, Warnings and Precautions (5), Indications and Usage (1.2), Dosage and Administration (2.2), Clinical Studies (14.2), Adverse Reactions (6.1)].
 
 Infliximab has been studied only in combination with conventional immunosuppressive therapy in pediatric Crohn's disease.
 The longer term (greater than 1 year) safety and effectiveness of infliximab products in pediatric Crohn's disease patients have not been established in clinical trials.
 
-A pediatric assessment for INFLECTRA demonstrates that INFLECTRA is safe and effective in another pediatric indication.
-However, INFLECTRA is not approved for such indication due to marketing exclusivity for REMICADE (infliximab).
+Pediatric Ulcerative Colitis
+
+The safety and effectiveness of infliximab products for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy are supported by evidence from adequate and well-controlled studies of infliximab in adults.
+Additional safety and pharmacokinetic data were collected in 60 pediatric patients aged 6 years and older [see Clinical Pharmacology (12.3), Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Studies (14.4)].
+The effectiveness of infliximab in inducing and maintaining mucosal healing could not be established.
+Although 41 patients had a Mayo endoscopy subscore of 0 or 1 at the Week 8 endoscopy, the induction phase was open-label and lacked a control group.
+Only 9 patients had an optional endoscopy at Week 54.
+
+In the pediatric UC trial, approximately half of the patients were on concomitant immunomodulators (AZA, 6-MP, MTX) at study start.
+Due to the risk of HSTCL, a careful risk-benefit assessment should be made when INFLECTRA is used in combination with other immunosuppressants.
+
+The longer term (greater than 1 year) safety and effectiveness of infliximab-products in pediatric ulcerative colitis patients have not been established in clinical trials.
 
 Juvenile Rheumatoid Arthritis (JRA)
 

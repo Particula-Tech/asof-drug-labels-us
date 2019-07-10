@@ -4,7 +4,7 @@
 
 Patients treated with infliximab products are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
 
-Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis and tuberculosis have been reported with TNF blockers.
+Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, cryptococcosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, salmonellosis and tuberculosis have been reported with TNF blockers.
 Patients have frequently presented with disseminated rather than localized disease.
 
 Treatment with INFLECTRA should not be initiated in patients with an active infection, including clinically important localized infections.
@@ -72,7 +72,7 @@ These cases have had a very aggressive disease course and have been fatal.
 Almost all patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with a TNF-blocker at or prior to diagnosis.
 The majority of reported cases have occurred in patients with Crohn's disease or ulcerative colitis and most were in adolescent and young adult males.
 It is uncertain whether the occurrence of HSTCL is related to TNF blockers or TNF blockers in combination with these other immunosuppressants.
-When treating patients, consideration of whether to use INFLECTRA alone or in combination with other immunosuppressants such as azathioprine or 6-mercaptopurine should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with infliximab product monotherapy from the clinical trial data from studies with infliximab [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+When treating patients, consideration of whether to use INFLECTRA alone or in combination with other immunosuppressants such as azathioprine or 6-mercaptopurine should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with infliximab product monotherapy from the clinical trial data from studies with infliximab [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
 Skin Cancer
 
@@ -83,7 +83,7 @@ Cervical Cancer
 
 A population-based retrospective cohort study using data from Swedish national health registries found a 2 to 3 fold increase in the incidence of invasive cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, particularly those over 60 years of age.
 A causal relationship between infliximab products and cervical cancer cannot be excluded.
-Periodic screening should continue in women treated with infliximab products [see Adverse Reactions (6.2)].
+Periodic screening should continue in women treated with INFLECTRA [see Adverse Reactions (6.2)].
 
 Other Malignancies
 
@@ -133,12 +133,12 @@ The results of a randomized study evaluating the use of infliximab in patients w
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking infliximab.
 There have also been rare postmarketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
 Some of these patients have been under 50 years of age.
-If a decision is made to administer INFLECTRA to patients with heart failure, they should be closely monitored during therapy, and INFLECTRA should be discontinued if new or worsening symptoms of heart failure appear [see Contraindications (4) and Adverse Reactions (6.1)].
+If a decision is made to administer INFLECTRA to patients with heart failure, they should be closely monitored during therapy, and INFLECTRA should be discontinued if new or worsening symptoms of heart failure appear [see Contraindications (4), Adverse Reactions (6.1)].
 
 ## 5.6 Hematologic Reactions
 
 Cases of leukopenia, neutropenia, thrombocytopenia, and pancytopenia, some with a fatal outcome, have been reported in patients receiving infliximab products.
-The causal relationship to infliximab therapy remains unclear.
+The causal relationship to infliximab product therapy remains unclear.
 Although no high-risk group(s) has been identified, caution should be exercised in patients being treated with INFLECTRA who have ongoing or a history of significant hematologic abnormalities.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias or infection (e.g., persistent fever) while on INFLECTRA.
 Discontinuation of INFLECTRA therapy should be considered in patients who develop significant hematologic abnormalities.
@@ -149,7 +149,7 @@ Infliximab products have been associated with hypersensitivity reactions that va
 Most hypersensitivity reactions, which include anaphylaxis, urticaria, dyspnea, and/or hypotension, have occurred during or within 2 hours of infusion.
 However, in some cases, serum sickness-like reactions have been observed in patients after initial therapy with infliximab products (i.e., as early as after the second dose), and when therapy with infliximab products was reinstituted following an extended period without treatment.
 Symptoms associated with these reactions include fever, rash, headache, sore throat, myalgias, polyarthralgias, hand and facial edema and/or dysphagia.
-These reactions were associated with a marked increase in antibodies to infliximab product, loss of detectable serum concentrations of infliximab products, and possible loss of drug efficacy.
+These reactions were associated with a marked increase in antibodies to infliximab products, loss of detectable serum concentrations of infliximab products, and possible loss of drug efficacy.
 
 INFLECTRA should be discontinued for severe hypersensitivity reactions.
 Medications for the treatment of hypersensitivity reactions (e.g., acetaminophen, antihistamines, corticosteroids and/or epinephrine) should be available for immediate use in the event of a reaction [see Adverse Reactions (6.1)].
@@ -160,10 +160,10 @@ In the case where INFLECTRA maintenance therapy for psoriasis is interrupted, IN
 
 ## 5.8 Cardiovascular and Cerebrovascular Reactions During and After Infusion
 
-Serious cerebrovascular accidents, myocardial ischemia/infarction (some fatal), hypotension, hypertension, and arrhythmias have been reported during and within 24 hours of initiation of infliximab infusion.
-Cases of transient visual loss have been reported during or within 2 hours of infusion of infliximab.
+Serious cerebrovascular accidents, myocardial ischemia/infarction (some fatal), hypotension, hypertension, and arrhythmias have been reported during and within 24 hours of initiation of infliximab product infusion.
+Cases of transient visual loss have been reported during or within 2 hours of infliximab product infusion.
 Monitor patients during infusion and if serious reaction occurs, discontinue infusion.
-Further management of reactions should be dictated by signs and symptoms [See Adverse Reactions (6)]
+Further management of reactions should be dictated by signs and symptoms [see Adverse Reactions (6)].
 
 ## 5.9 Neurologic Reactions
 

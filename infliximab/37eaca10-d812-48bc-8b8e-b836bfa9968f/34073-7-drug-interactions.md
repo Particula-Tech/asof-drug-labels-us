@@ -4,7 +4,7 @@
 
 An increased risk of serious infections was seen in clinical studies of other TNFα blocking agents used in combination with anakinra or abatacept, with no added clinical benefit.
 Because of the nature of the adverse reactions seen with these combinations with TNF blocker therapy, similar toxicities may also result from the combination of anakinra or abatacept with other TNFα blocking agents.
-Therefore, the combination of INFLECTRA and anakinra or abatacept is not recommended [see Warnings and Precautions (5.10 and 5.11)].
+Therefore, the combination of INFLECTRA and anakinra or abatacept is not recommended [see Warnings and Precautions (5.10, 5.11)].
 
 ## 7.2 Use with Tocilizumab
 
@@ -21,7 +21,7 @@ The majority of patients in rheumatoid arthritis or Crohn's disease clinical stu
 In rheumatoid arthritis, concomitant medications besides MTX were nonsteroidal anti-inflammatory agents (NSAIDs), folic acid, corticosteroids and/or narcotics.
 Concomitant Crohn's disease medications were antibiotics, anti-virals, corticosteroids, 6-MP/AZA and aminosalicylates.
 In psoriatic arthritis clinical trials, concomitant medications included MTX in approximately half of the patients as well as NSAIDs, folic acid and corticosteroids.
-Concomitant MTX use may decrease the incidence of anti-infliximab antibody production and increase infliximab concentrations.
+Concomitant MTX use may decrease the incidence of anti-drug antibody production and increase infliximab product concentrations.
 
 ## 7.5 Immunosuppressants
 
