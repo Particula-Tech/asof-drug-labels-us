@@ -1,8 +1,6 @@
 # INDICATIONS AND USAGE
 
-Gemfibrozil Tablets, USP are indicated as adjunctive therapy to diet for:
-
-1.
+Gemfibrozil Tablets are indicated as adjunctive therapy to diet for: 1.
 Treatment of adult patients with very high elevations of serum triglyceride levels (Types IV and V hyperlipidemia) who present a risk of pancreatitis and who do not respond adequately to a determined dietary effort to control them.
 Patients who present such risk typically have serum triglycerides over 2,000 mg/dL and have elevations of VLDL-cholesterol as well as fasting chylomicrons (Type V hyperlipidemia).
 Subjects who consistently have total serum or plasma triglycerides below 1,000 mg/dL are unlikely to present a risk of pancreatitis.

@@ -7,17 +7,17 @@ There was no difference in mortality between the clofibrate-treated subjects and
 In the other study, conducted by the World Health Organization (WHO), 5,000 subjects without known coronary heart disease were treated with clofibrate for five years and followed one year beyond.
 There was a statistically significant (44%) higher age-adjusted total mortality in the clofibrate-treated group than in a comparable placebo-treated control group during the trial period.
 The excess mortality was due to a 33% increase in non-cardiovascular causes, including malignancy, post-cholecystectomy complications, and pancreatitis.
-The higher risk of clofibrate-treated subjects for gallbladder disease was confirmed.
+The higher risk of clofibrate- treated subjects for gallbladder disease was confirmed.
 
 Because of the more limited size of the Helsinki Heart Study, the observed difference in mortality from any cause between the gemfibrozil and placebo groups is not statistically significantly different from the 29% excess mortality reported in the clofibrate group in the separate WHO study at the nine year follow-up (see CLINICAL PHARMACOLOGY).
 Noncoronary heart disease related mortality showed an excess in the group originally randomized to gemfibrozil primarily due to cancer deaths observed during the open-label extension.
 
 During the five year primary prevention component of the Helsinki Heart Study, mortality from any cause was 44 (2.2%) in the gemfibrozil group and 43 (2.1%) in the placebo group; including the 3.5 year follow-up period since the trial was completed, cumulative mortality from any cause was 101 (4.9%) in the gemfibrozil group and 83 (4.1%) in the group originally randomized to placebo (hazard ratio 1:20 in favor of placebo).
-Because of the more limited size of the Helsinki Heart Study, the observed difference in mortality from any cause between the gemfibrozil and placebo groups at Year-5 or at year-8.5 is not statistically significantly different from the 29% excess mortality reported in the clofibrate group in the separate WHO study at the nine year follow-up.
+Because of the more limited size of the Helsinki Heart Study, the observed difference in mortality from any cause between the gemfibrozil and placebo groups at Year-5 or at Year-8.5 is not statistically significantly different from the 29% excess mortality reported in the clofibrate group in the separate WHO study at the nine year follow-up.
 Noncoronary heart disease related mortality showed an excess in the group originally randomized to gemfibrozil at the 8.5 year follow-up (65 gemfibrozil versus 45 placebo noncoronary deaths).
 
 The incidence of cancer (excluding basal cell carcinoma) discovered during the trial and in the 3.5 years after the trial was completed was 51 (2.5%) in both originally randomized groups.
-In addition, there were 16 basal cell carcinomas in the group originally randomized to gemfibrozil and 9 in the group originally randomized to placebo (p=0.22).
+In addition, there were 16 basal cell carcinomas in the group originally randomized to gemfibrozil and 9 in the group randomized to placebo (p=0.22).
 There were 30 (1.5%) deaths attributed to cancer in the group originally randomized to gemfibrozil and 18 (0.9%) in the group originally randomized to placebo (p=0.11).
 Adverse outcomes, including coronary events, were higher in gemfibrozil patients in a corresponding study in men with a history of known or suspected coronary heart disease in the secondary prevention component of the Helsinki Heart Study (see CLINICAL PHARMACOLOGY).
 
@@ -39,13 +39,13 @@ If a significant serum lipid response is not obtained, gemfibrozil should be dis
 
 4.
 Concomitant Anticoagulants-Caution should be exercised when warfarin is given in conjunction with gemfibrozil.
-The dosage of the warfarin should be reduced to maintain the prothrombin time at the desired level to prevent bleeding complications.
+The dosage of warfarin should be reduced to maintain the prothrombin time at the desired level to prevent bleeding complications.
 Frequent prothrombin determinations are advisable until it has been definitely determined that the prothrombin level has stabilized.
 
 5.
 The concomitant administration of gemfibrozil with simvastatin is contraindicated (see CONTRAINDICATIONS and PRECAUTIONS).
 Concomitant therapy with gemfibrozil and an HMG-CoA reductase inhibitor is associated with an increased risk of skeletal muscle toxicity manifested as rhabdomyolysis, markedly elevated creatine kinase (CPK) levels, and myoglobinuria, leading in a high proportion of cases to acute renal failure and death.
-IN PATIENTS WHO HAVE HAD AN UNSATISFACTORY LIPID RESPONSE TO EITHER DRUG ALONE, THE BENEFIT OF COMBINED THERAPY WITH GEMFIBROZIL AND an HMG-CoA REDUCTASE INHIBITOR DOES NOT OUTWEIGH THE RISKS OF SEVERE MYOPATHY, RHABDOMYOLYSIS, AND ACUTE RENAL FAILURE (see PRECAUTIONS, Drug Interactions).
+IN PATIENTS WHO HAVE HAD AN UNSATISFACTORY LIPID RESPONSE TO EITHER DRUG ALONE, THE BENEFIT OF COMBINED THERAPY WITH GEMFIBROZIL and an HMG-CoA REDUCTASE INHIBITOR DOES NOT OUTWEIGH THE RISKS OF SEVERE MYOPATHY, RHABDOMYOLYSIS, AND ACUTE RENAL FAILURE (see PRECAUTIONS, Drug Interactions).
 The use of fibrates alone, including gemfibrozil, may occasionally be associated with myositis.
 Patients receiving gemfibrozil and complaining of muscle pain, tenderness, or weakness should have prompt medical evaluation for myositis, including serum creatine-kinase level determination.
 If myositis is suspected or diagnosed, gemfibrozil therapy should be withdrawn.
@@ -57,7 +57,7 @@ Cataracts-Subcapsular bilateral cataracts occurred in 10%, and unilateral in 6.3
 CYP2C8 substrates -Gemfibrozil, a strong inhibitor of CYP2C8, may increase exposure of CYP2C8 substrates when administered concomitantly (see PRECAUTIONS, Drug Interactions).
 
 8.
-OATP1B1 substrates – Gemfibrozil is an inhibitor of organic anion-transporter polyprotein (OATP) 1B1 and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan).
+OATP1B1 substrates – Gemfibrozil is an inhibitor of organic anion-transporter polyprotein (OATP) 1B1 and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN-38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan).
 Therefore, dosing reductions of drugs that are substrates of OATP1B1 may be required when gemfibrozil is used concomitantly (see PRECAUTIONS, Drug Interactions).
 Combination therapy of gemfibrozil with simvastatin or with repaglinide, which are OATP1B1 substrates, is contraindicated (see CONTRAINDICATIONS).
 
@@ -70,15 +70,14 @@ Before instituting gemfibrozil therapy, every attempt should be made to control 
 2.
 Continued Therapy-Periodic determination of serum lipids should be obtained, and the drug withdrawn if lipid response is inadequate after three months of therapy.
 
-## 3. Drug Interactions
-
-(A) HMG-CoA Reductase Inhibitors: The concomitant administration of gemfibrozil with simvastatin is contraindicated (see CONTRAINDICATIONS and WARNINGS).
+3.
+Drug Interactions- (A) HMG-CoA Reductase Inhibitors: The concomitant administration of gemfibrozil with simvastatin is contraindicated (see CONTRAINDICATIONS and WARNINGS).
 The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy.
 Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (see WARNINGS).
 There is no assurance that periodic monitoring of creatine kinase will prevent the occurrence of severe myopathy and kidney damage.
 
 (B) Anticoagulants: CAUTION SHOULD BE EXERCISED WHEN WARFARIN IS GIVEN IN CONJUNCTION WITH GEMFIBROZIL.
-THE DOSAGE OF THE WARFARIN SHOULD BE REDUCED TO MAINTAIN THE PROTHROMBIN TIME AT THE DESIRED LEVEL TO PREVENT BLEEDING COMPLICATIONS.
+THE DOSAGE OF WARFARIN SHOULD BE REDUCED TO MAINTAIN THE PROTHROMBIN TIME AT THE DESIRED LEVEL TO PREVENT BLEEDING COMPLICATIONS.
 FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY DETERMINED THAT THE PROTHROMBIN LEVEL HAS STABILIZED.
 
 (C) CYP2C8 Substrates: Gemfibrozil is a strong inhibitor of CYP2C8 and may increase exposure of drugs mainly metabolized by CYP2C8 (e.g., dabrafenib, enzalutamide, loperamide, montelukast, paclitaxel, pioglitazone, rosiglitazone).
@@ -90,7 +89,10 @@ In addition, gemfibrozil alone or gemfibrozil + itraconazole prolonged the hypog
 Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
 
 Dasabuvir: Co-administration of gemfibrozil with dasabuvir increased dasabuvir AUC and Cmax (ratios: 11.3 and 2.01, respectively) due to CYP2C8 inhibition.
-Increased dasabuvir exposure may increase the risk of QT prolongation, therefore, coadministration of gemfibrozil with dasabuvir is contraindicated (see CONTRAINDICATIONS).
+Increased dasabuvir exposure may increase the risk of QT prolongation, therefore, co-administration of gemfibrozil with dasabuvir is contraindicated (see CONTRAINDICATIONS).
+
+Selexipag: Co-administration of gemfibrozil with selexipag doubled exposure to selexipag and increased exposure to the active metabolite by approximately 11-fold.
+Concomitant administration of gemfibrozil with selexipag is contraindicated (see CONTRAINDICATIONS).
 
 Enzalutamide: In healthy volunteers given a single 160 mg dose of enzalutamide after gemfibrozil 600 mg twice daily, the AUC of enzalutamide plus active metabolite (N-desmethyl enzalutamide) was increased by 2.2 fold and corresponding Cmax was decreased by 16%.
 Increased enzalutamide exposure may increase the risk of seizures.
@@ -110,7 +112,7 @@ Patients with renal dysfunction and elderly patients are at increased risk.
 Caution should be exercised when prescribing gemfibrozil with colchicine, especially in elderly patients or patients with renal dysfunction.
 
 4.
-Carcinogenesis, Mutagenesis, Impairment of Fertility - Long-term studies have been conducted in rats at 0.2 and 1.3 times the human exposure (based on AUC).
+Carcinogenesis, Mutagenesis, Impairment of Fertility – Long-term studies have been conducted in rats at 0.2 and 1.3 times the human exposure (based on AUC).
 The incidence of benign liver nodules and liver carcinomas was significantly increased in high dose male rats.
 The incidence of liver carcinomas increased also in low dose males, but this increase was not statistically significant (p=0.1).
 Male rats had a dose-related and statistically significant increase of benign Leydig cell tumors.
@@ -127,7 +129,7 @@ Administration of approximately 2 times the human dose (based on surface area) t
 Subsequent studies demonstrated that this effect was reversed after a drug-free period of about eight weeks, and it was not transmitted to the offspring.
 
 5.
-Pregnancy Category C-Gemfibrozil has been shown to produce adverse effects in rats and rabbits at doses between 0.5 and 3 times the human dose (based on surface area).
+Pregnancy-Gemfibrozil has been shown to produce adverse effects in rats and rabbits at doses between 0.5 and 3 times the human dose (based on surface area).
 There are no adequate and well-controlled studies in pregnant women.
 Gemfibrozil should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -144,8 +146,8 @@ Nursing Mothers-It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for gemfibrozil in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 7.
-Hematologic Changes-Mild hemoglobin, hematocrit and white blood cell decreases have been observed in occasional patients following initiation of gemfibrozil therapy.
-However, these levels stabilize during longterm administration.
+Hematologic Changes-Mild hemoglobin, hematocrit, and white blood cell decreases have been observed in occasional patients following initiation of gemfibrozil therapy.
+However, these levels stabilize during long-term administration.
 Rarely, severe anemia, leukopenia, thrombocytopenia, and bone marrow hypoplasia have been reported.
 Therefore, periodic blood counts are recommended during the first 12 months of gemfibrozil administration.
 

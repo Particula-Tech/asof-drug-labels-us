@@ -2,7 +2,7 @@
 
 Gemfibrozil is a lipid regulating agent which decreases serum triglycerides and very low density lipoprotein (VLDL) cholesterol, and increases high density lipoprotein (HDL) cholesterol.
 While modest decreases in total and low density lipoprotein (LDL) cholesterol may be observed with gemfibrozil therapy, treatment of patients with elevated triglycerides due to Type IV hyperlipoproteinemia often results in a rise in LDL-cholesterol.
-LDL-cholesterol levels in Type IIb patients with elevations of both serum LDL-cholesterol and triglycerides are, in general, minimally affected by gemfibrozil treatment; however, gemfibrozil usually raises HDL-cholesterol significantly in this group.
+LDL-cholesterol levels in Type IIb patients with elevations of both serum LDL-cholesterol and triglycerides are, in general, minimally affected by gemfibrozil treatment; however, gemfibrozil usually raises HDLcholesterol significantly in this group.
 Gemfibrozil increases levels of high density lipoprotein (HDL) subfractions HDL2 and HDL3, as well as apolipoproteins AI and AII.
 Epidemiological studies have shown that both low HDL-cholesterol and high LDL-cholesterol are independent risk factors for coronary heart disease.
 
@@ -18,7 +18,7 @@ Table I Reduction in CHD Rates (events per 1000 patients) by Baseline Lipids1 in
 | --- | --- | --- | --- | --- |
 |  | P G Dif3 | P G Dif | P G Dif | P G Dif |
 | Incidence of Events4 | 41 27 14 | 32 29 3 | 71 44 27 | 149 64 85 |
-| 1lipid values in mg/dL at baseline 2P = placebo group; G = gemfibrozil tablets group 3difference in rates between placebo and gemfibrozil groups 4fatal and nonfatal myocardial infarctions plus sudden cardiac deaths (events per 1,000 patients over 5 years) |  |  |  |  |
+| 1lipid values in mg/dL at baseline 2p = placebo group; G = Gemfibrozil tablets group 3difference in rates between placebo and gemfibrozil groups 4fatal and nonfatal myocardial infarctions plus sudden cardiac deaths (events per 1,000 patients over 5 years) |  |  |  |  |
 
 Among Fredrickson types, during the 5-year double-blind portion of the primary prevention component of the Helsinki Heart Study, the greatest reduction in the incidence of serious coronary events occurred in Type IIb patients who had elevations of both LDL-cholesterol and total plasma triglycerides.
 This subgroup of Type IIb gemfibrozil group patients had a lower mean HDL-cholesterol level at baseline than the Type IIa subgroup that had elevations of LDL-cholesterol and normal plasma triglycerides.
@@ -39,10 +39,10 @@ Table II Cardiac Events and All-Cause Mortality (events per 1000 patients) Occur
 | --- | --- | --- | --- | --- | --- | --- |
 | Cardiac Events | 38.8 | 22.9 | 22.5 | 37.2 | 28.3 | 25.4 |
 | All-Cause Mortality | 41.9 | 22.3 | 15.6 | 72.3 | 19.2 | 24.9 |
-| 1The six open-label groups are designated first by the original randomization (P = placebo, G = gemfibrozil tablets) and then by the drug taken in the follow-up period (N = Attend clinic but took no drug, G = gemfibrozil tablets, Drop = No attendance at clinic during open-label). |  |  |  |  |  |  |
+| 1The six open-label groups are designated first by the original randomization (P = placebo, G = Gemfibrozil) and then by the drug taken in the follow-up period (N = Attend clinic but took no drug, G = Gemfibrozil, Drop = No attendance at clinic during open-label). |  |  |  |  |  |  |
 
 Cumulative mortality through 8.5 years showed a 20% relative excess of deaths in the group originally randomized to gemfibrozil versus the originally randomized placebo group and a 20% relative decrease in cardiac events in the group originally randomized to gemfibrozil versus the originally randomized placebo group (see Table III).
-This analysis of the originally randomized “intent-to-treat” population neglects the possible complicating effects of treatment switching during the open-label phase.
+This analysis of the originally randomized "intent-to-treat" population neglects the possible complicating effects of treatment switching during the open-label phase.
 Adjustment of hazard ratios, taking into account open-label treatment status from years 6.5 to 8.5, could change the reported hazard ratios for mortality toward unity.
 
 Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Mortality in the Helsinki Heart Study, Years 0-8.51
@@ -53,11 +53,11 @@ Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Morta
 | Cardiac Deaths | 36 | 38 | 0.98 | 0.63-1.54 |
 | Non-Cardiac Deaths | 65 | 45 | 1.40 | 0.95-2.05 |
 | All-Cause Mortality | 101 | 83 | 1.20 | 0.90-1.61 |
-| 1Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions. 2Hazard ration for risk event in the group originally randomized to gemfibrozil compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study conditions. 395% confidence intervals of gemfibrozil: placebo group hazard ratio 4Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period. |  |  |  |  |
+| 1Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions. 2Hazard ratio for risk event in the group originally randomized to gemfibrozil compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study conditions. 395% confidence intervals of gemfibrozil: placebo group hazard ratio 4Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period. |  |  |  |  |
 
 It is not clear to what extent the findings of the primary prevention component of the Helsinki Heart Study can be extrapolated to other segments of the dyslipidemic population not studied (such as women, younger or older males, or those with lipid abnormalities limited solely to HDL-cholesterol) or to other lipid-altering drugs.
 
-The secondary prevention component of the Helsinki Heart Study was conducted over five years in parallel and at the same centers in Finland in 628 middle-aged males excluded from the primary prevention component of the Helsinki Heart Study because of a history of angina, myocardial infarction, or unexplained ECG changes.
+The secondary prevention component of the Helsinki Heart Study was conducted over five years in parallel and at the same centers in Finland in 628 middle-aged males excluded from the primary prevention component of the Helsinki Heart Study because of a history of angina, myocardial infarction or unexplained ECG changes.
 The primary efficacy endpoint of the study was cardiac events (the sum of fatal and non-fatal myocardial infarctions and sudden cardiac deaths).
 The hazard ratio (gemfibrozil: placebo) for cardiac events was 1.47 (95% confidence limits 0.88-2.48, p=0.14).
 Of the 35 patients in the gemfibrozil group who experienced cardiac events, 12 patients suffered events after discontinuation from the study.

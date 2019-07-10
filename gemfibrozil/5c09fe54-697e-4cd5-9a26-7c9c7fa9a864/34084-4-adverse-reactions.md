@@ -3,7 +3,7 @@
 In the double-blind controlled phase of the primary prevention component of the Helsinki Heart Study, 2,046 patients received gemfibrozil for up to five years.
 In that study, the following adverse reactions were statistically more frequent in subjects in the gemfibrozil group:
 
-|  | Gemfibrozil(N = 2,046) | Placebo(N = 2,035) |
+|  | GEMFIBROZIL (N = 2046) | PLACEBO (N = 2035) |
 | --- | --- | --- |
 |  | Frequency in percent of subjects |  |
 | Gastrointestinal reactions | 34.2 | 23.8 |
@@ -24,7 +24,7 @@ In that study, the following adverse reactions were statistically more frequent 
 
 Gallbladder surgery was performed in 0.9% of gemfibrozil and 0.5% of placebo subjects in the primary prevention component, a 64% excess, which is not statistically different from the excess of gallbladder surgery observed in the clofibrate group compared to the placebo group of the WHO study.
 Gallbladder surgery was also performed more frequently in the gemfibrozil group compared to the placebo group (1.9% versus 0.3%, p=0.07) in the secondary prevention component.
-A statistically significant increase in appendectomy in the gemfibrozil group was seen also in the secondary prevention component (6 on gemfibrozil vs 0 on placebo, p=0.014).
+A statistically significant increase in appendectomy in the gemfibrozil group was seen also in the secondary prevention component (6 on gemfibrozil versus 0 on placebo, p=0.014).
 
 Nervous system and special senses adverse reactions were more common in the gemfibrozil group.
 These included hypesthesia, paresthesias, and taste perversion.
@@ -38,16 +38,16 @@ These are categorized according to whether a causal relationship to treatment wi
 
 |  | CAUSAL RELATIONSHIP PROBABLE | CAUSAL RELATIONSHIP NOT ESTABLISHED |
 | --- | --- | --- |
-| General: |  | Weight loss |
+| General: |  | weight loss |
 | Cardiac: |  | extrasystoles |
 | Gastrointestinal: | cholestatic jaundice | pancreatitis hepatoma colitis |
-| Central Nervous System: | dizziness Somnolence Paresthesia peripheral neuritis decreased libido depression headache | confusion convulsions syncope |
+| Central Nervous System: | dizziness somnolence paresthesia peripheral neuritis decreased libido depression headache | confusion convulsions syncope |
 | Eye: | blurred vision | retinal edema |
 | Genitourinary: | impotence | decreased male fertility renal dysfunction |
-| Musculoskeletal: | myopathy myasthenia myalgia painful extremities arthralgia synovitis rhabdomyolysis (see WARNINGS and Drug Interactions under PRECUATIONS) |  |
+| Musculoskeletal: | myopathy myasthenia myalgia painful extremities arthralgia synovitis rhabdomyolysis (see WARNINGS and Drug Interactions under PRECAUTIONS) |  |
 | Clinical Laboratory: | increased creatine phosphokinase increased bilirubin increased liver transaminases (AST, ALT) increased alkaline phosphatase | positive antinuclear antibody |
 | Hematopoietic: | anemia leukopenia bone marrow hypoplasia eosinophilia | thrombocytopenia |
-| Immunologic: | angioedema laryngeal edema urticaria | anaphylaxis Lupus-like syndrome vasculitis |
-| Integumentary: | exfoliative dermatitis rash dermatitis pruritis | alopecia photosensitivity |
+| Immunologic: | angicedema laryngeal edema urticaria | anaphylaxis Lupus-like syndrome vasculitis |
+| Integumentary: | exfoliative dermatitis rash dermatitis pruritus | alopecia photosensitivity |
 
 Additional adverse reactions that have been reported include cholecystitis and cholelithiasis (see WARNINGS).
