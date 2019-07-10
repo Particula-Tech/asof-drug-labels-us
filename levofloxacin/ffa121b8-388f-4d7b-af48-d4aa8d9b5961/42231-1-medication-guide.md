@@ -26,17 +26,17 @@ Some tendon problems include pain, swelling, tears, and swelling of tendons incl
   - tendon problems in the past, such as in people with rheumatoid arthritis (RA).
 - Stop taking levofloxacin immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
   Avoid exercise and using the affected area.
-
-The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
-This can also happen with other tendons.
-You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
-
+- The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
+  This can also happen with other tendons.
+  You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 - Tendon rupture can happen while you are taking or after you have finished taking levofloxacin.
   Tendon ruptures can happen within hours or days of taking levofloxacin and have happened up to several months after people have finished taking their fluoroquinolone.
 - Stop taking levofloxacin immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
   - hear or feel a snap or pop in a tendon area
   - bruising right after an injury in a tendon area
   - unable to move the affected area or bear weight
+
+The tendon problems may be permanent.
 
 2.
 Changes in sensation and possible nerve damage (Peripheral Neuropathy).
@@ -55,24 +55,29 @@ The nerve damage may be permanent.
 3.
 Central Nervous System (CNS) effects.
 
-Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including levofloxacin.
-Tell your healthcare provider if you have a history of seizures before you start taking levofloxacin.
+Mental health problems and seizures have been reported in people who take fluoroquinolone antibacterial medicines, including levofloxacin.
+Tell your healthcare provider if you have a history of mental health problems, including depression, or have a history of seizures before you start taking levofloxacin.
 CNS side effects may happen as soon as after taking the first dose of levofloxacin.
 Stop taking levofloxacin immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
 
 - seizures
 - hear voices, see things, or sense things that are not there (hallucinations)
-- feel restless
+- feel restless or agitated
 - tremors
 - feel anxious or nervous
 - confusion
 - depression
+- reduced awareness of surroundings
 - trouble sleeping
 - nightmares
 - feel lightheaded or dizzy
 - feel more suspicious (paranoia)
 - suicidal thoughts or acts
 - headaches that will not go away, with or without blurred vision
+- memory problems
+- false or strange thoughts or beliefs (delusions)
+
+The CNS changes may be permanent.
 
 4.
 Worsening of myasthenia gravis (a problem that causes muscle weakness).
@@ -88,18 +93,18 @@ These bacterial infections include:
 
 - nosocomial pneumonia
 - community-acquired pneumonia
-- acute sinus infection
-- acute worsening of chronic bronchitis
 - skin infections, complicated and uncomplicated
 - chronic prostate infection
-- urinary tract infections, complicated and uncomplicated
-- acute kidney infection (pyelonephritis)
 - inhalation anthrax germs
 - plague
+- urinary tract infections, complicated and uncomplicated
+- acute kidney infection (pyelonephritis)
+- acute worsening or chronic bronchitis
+- acute sinus infection
 
 Studies of levofloxacin for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 
-Levofloxacin should not be used in patients with uncomplicated urinary tract infections, acute bacterial exacerbation of chronic bronchitis, or acute bacterial sinusitis if there are other treatment options available.
+Levofloxacin should not be used in people with uncomplicated urinary tract infections, acute bacterial exacerbation of chronic bronchitis, or acute bacterial sinusitis if there are other treatment options available.
 
 Levofloxacin tablets are also used to treat children who weigh at least 66 pounds (or at least 30 kilograms) and may have breathed in anthrax germs, have plague, or been exposed to plague germs.
 
@@ -114,10 +119,11 @@ See the end of this leaflet for a complete list of ingredients in levofloxacin t
 
 Before you take levofloxacin, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have tendon problems; levofloxacin should not be used in people who have a history of tendon problems
-- have a problem that causes muscle weakness (myasthenia gravis); levofloxacin should not be used in people who have a known history of myasthenia gravis
+- have tendon problems. levofloxacin should not be used in people who have a history of tendon problems
+- have a problem that causes muscle weakness (myasthenia gravis). levofloxacin should not be used in people who have a known history of myasthenia gravis
+- have a history of mental health problems, including depression.
 - have central nervous system problems such as seizures (epilepsy)
-- have nerve problems; levofloxacin should not be used in patients how have a history of a nerve problem called peripheral neuropathy
+- have nerve problems. levofloxacin should not be used in people who have a history of a nerve problem called peripheral neuropathy
 - have or anyone in your family has an irregular heartbeat, especially a condition called "QT prolongation."
 - have low blood potassium (hypokalemia)
 - have bone problems
@@ -129,9 +135,9 @@ Before you take levofloxacin, tell your healthcare provider about all of your me
 - are pregnant or plan to become pregnant.
   It is not known if levofloxacin will harm your unborn child.
 - are breastfeeding or plan to breastfeed.
-  It is not known if levofloxacin passes into your breast milk.
-  You and your healthcare provider should decide if you will take levofloxacin or breastfeed.
-  You should not do both.
+  Levofloxacin passes into your breast milk.
+  You should not breastfeed during treatment with levofloxacin and for 2 days after taking your last dose of levofloxacin.
+  You may pump your breast milk and throw it away during treatment with levofloxacin and for 2 days after taking your last dose of levofloxacin.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -164,19 +170,22 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 How should I take levofloxacin?
 
 - Take levofloxacin exactly as your healthcare provider tells you to take it.
-- Take levofloxacin at about the same time each day.
+- Take levofloxacin at the same time each day.
 - Drink plenty of fluids while you take levofloxacin.
 - Levofloxacin tablets can be taken with or without food.
-- If you miss a dose of levofloxacin, take it as soon as you remember.
-  Do not take more than 1 dose in 1 day.
+- If you miss a dose of levofloxacin and it is:
+  - 8 hours or more until your next scheduled dose, take your missed dose right away.
+    Then take the next dose at your regular time.
+  - less than 8 hours until your next scheduled dose, do not take the missed dose.
+    Take the next dose at your regular time.
 - Do not skip any doses of levofloxacin or stop taking it, even if you begin to feel better, until you finish your prescribed treatment, unless:
   - you have tendon problems.
     See "What is the most important information I should know about levofloxacin?".
   - you have a nerve problem.
-    See "What are the possible side effects of levofloxacin?
+    See "What is the most important information I should know about levofloxacin?
     ".
-  - you have a central nervous sytem problem.
-    See "What are the possible side effects of levofloxacin?
+  - you have a central nervous system problem.
+    See "What is the most important information I should know about levofloxacin?
     ".
   - you have a serious allergic reaction.
     See "What are the possible side effects of levofloxacin?".
@@ -231,7 +240,7 @@ Call your healthcare provider right away if you have unexplained symptoms such a
 - stomach pain
 - fever
 - weakness
-- abdominal pain or tenderness
+- pain or tenderness in the upper right side of your stomach-area
 - itching
 - unusual tiredness
 - loss of appetite
@@ -249,12 +258,12 @@ Get emergency medical help right away if you have sudden chest, stomach, or back
 
 - Intestine infection (Pseudomembranous colitis)
 
-Pseudomembranous colitis can happen with many antibiotics, including levofloxacin.
+Clostridium difficile-associated diarrhea (CDAD) can happen with many antibiotics, including levofloxacin.
 Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
 You may have stomach cramps and a fever.
-Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
+CDAD can happen 2 or more months after you have finished your antibiotic.
 
-- Serious heart rhythm changes (QT prolongation and torsades de pointes)
+- Serious heart rhythm changes (QT prolongation and torsades de pointes).
 
 Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
 Levofloxacin may cause a rare heart problem known as prolongation of the QT interval.
@@ -266,19 +275,19 @@ The chances of this happening are higher in people:
 - with low blood potassium (hypokalemia)
 - who take certain medicines to control heart rhythm (antiarrhythmics)
 
-- Joint Problems
+- Joint Problems.
 
 Increased chance of problems with joints and tissues around joints in children can happen.
 Tell your child’s healthcare provider if your child has any joint problems during or after treatment with levofloxacin.
 
-- Changes in blood sugar
+- Changes in blood sugar.
 
 People who take levofloxacin and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
 Follow your healthcare provider’s instructions for how often to check your blood sugar.
 If you have diabetes and you get low blood sugar while taking levofloxacin, stop taking levofloxacin and call your healthcare provider right away.
 Your antibiotic medicine may need to be changed.
 
-- Sensitivity to sunlight (photosensitivity)
+- Sensitivity to sunlight (photosensitivity).
 
 See "What should I avoid while taking levofloxacin?"
 
@@ -315,7 +324,7 @@ It may harm them.
 
 This Medication Guide summarizes the most important information about levofloxacin.
 If you would like more information about levofloxacin, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about levofloxacin that is written for healthcare professionals.
+You can ask your healthcare provider or pharmacist for information about levofloxacin that is written for health professionals.
 
 Please address medical inquiries to, MedicalAffairs@zydususa.com orTel.: 1-877-993-8779.
 
