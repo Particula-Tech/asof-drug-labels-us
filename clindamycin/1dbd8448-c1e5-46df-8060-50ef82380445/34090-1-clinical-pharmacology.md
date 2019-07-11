@@ -70,7 +70,7 @@ Gram-positive bacteria
 - Prevotella melaninogenica
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
 However, the efficacy of clindamycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
@@ -90,74 +90,6 @@ Gram-positive bacteria
 - Prevotella intermedia
 - Propionibacterium acnes
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide cumulative in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid in the selection of an appropriate antibacterial drug for treatment.
-
-Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method 2,3 (broth and/or agar).
-The MIC values should be interpreted according to the criteria provided in Table 1.
-
-Diffusion Techniques
-
-Quantitative methods that require the measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized method 2,5.
-This procedure uses paper disks impregnated with 2 mcg of clindamycin to test the susceptibility of bacteria to clindamycin.
-The disk diffusion breakpoints are provided in Table 1.
-
-Anaerobic Techniques
-
-For anaerobic bacteria, the susceptibility to clindamycin can be determined by a standardized test method 2,4.
-The MIC values obtained should be interpreted according to the criteria provided in Table 1.
-
-Table 1.
-Susceptibility Test Interpretive Criteria for Clindamycin
-
-| Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone diameters in mm) |  |  |  |
-| Staphylococcus spp. | S | I | R | S | I | R |
-| ≤ 0.5 | 1 to 2 | ≥ 4 | ≥ 21 | 15 to 20 | ≤ 14 |  |
-| Streptococcus pneumoniae and other Streptococcus spp. | ≤ 0.25 | 0.5 | ≥ 1 | ≥ 19 | 16 to 18 | ≤ 15 |
-| Anaerobic Bacteria | ≤ 2 | 4 | ≥ 8 | NA | NA | NA |
-
-NA = not applicable
-
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone that prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.2,3,4,5 Standard clindamycin powder should provide the following range of MIC values noted in Table 2.
-For the disk diffusion technique using the 2 mcg clindamycin disk the criteria provided in Table 2 should be achieved.
-
-Table 2.
-Acceptable Quality Control Ranges for Clindamycin
-
-|  | Acceptable Quality Control Ranges |  |
-| --- | --- | --- |
-| QC Strain | Minimum Inhibitory Concentrations(mcg/mL) | Disk Diffusion (Zone Diameters in mm) |
-| Enterococcus faecalis1 ATCC 29212 | 4 to 16 | NA |
-| Staphylococcus aureus ATCC 29213 | 0.06 to 0.25 | NA |
-| Staphylococcus aureus ATCC 25923 | NA | 24 to 30 |
-| Streptococcus pneumoniae ATCC 49619 | 0.03 to 0.12 | 19 to 25 |
-| Bacteroides fragilis ATCC 25285 | 0.5 to 2 | NA |
-| Bacteroides thetaiotaomicron ATCC 29741 | 2 to 8 | NA |
-| Clostridium difficile2 ATCC 700057 | 2 to 8 | NA |
-| Eggerthella lenta ATCC 43055 | 0.06 to 0.25 | NA |
-
-- 1.
-  Enterococcus faecalis has been included in this table for quality control purposes only.
-- 2.
-  Quality control for C. difficile is performed using the agar dilution method only, all other obligate anaerobes may be tested by either broth microdilution or agar dilution methods.
-
-NA = Not applicable
-
-ATCC® is a registered trademark of the American Type Culture Collection
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
