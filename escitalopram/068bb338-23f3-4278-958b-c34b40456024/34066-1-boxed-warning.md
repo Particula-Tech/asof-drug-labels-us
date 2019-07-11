@@ -1,4 +1,4 @@
-## WARNING: Suicidality and Antidepressant Drugs
+## WARNING: SUICIDALITY and ANTIDEPRESSANT DRUGS
 
 Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
 Anyone considering the use of escitalopram tablets or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.

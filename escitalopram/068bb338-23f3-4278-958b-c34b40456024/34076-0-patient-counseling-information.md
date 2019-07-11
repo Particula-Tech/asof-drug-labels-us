@@ -8,7 +8,7 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 General Information about Medication Guide
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with escitalopram oxalate and should counsel them in its appropriate use.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with escitalopram and should counsel them in its appropriate use.
 A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for escitalopram tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
@@ -25,11 +25,11 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram oxalate with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
 
 Abnormal Bleeding
 
-Patients should be cautioned about the concomitant use of escitalopram oxalate and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7)].
+Patients should be cautioned about the concomitant use of escitalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7)].
 
 Angle Closure Glaucoma
 
@@ -53,40 +53,33 @@ Because psychoactive drugs may impair judgment, thinking, or motor skills, patie
 
 Alcohol
 
-Patients should be told that, although escitalopram oxalate has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of escitalopram oxalate and alcohol in depressed patients is not advised.
+Patients should be told that, although escitalopram has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of escitalopram and alcohol in depressed patients is not advised.
 
 Pregnancy and Breast Feeding
 
 Patients should be advised to notify their physician if they
 
-> become pregnant or intend to become pregnant during therapy.
+o become pregnant or intend to become pregnant during therapy.
 
-> are breastfeeding an infant.
+o are breastfeeding an infant.
 
 Need for Comprehensive Treatment Program
 
 Escitalopram tablets are indicated as an integral part of a total treatment program for MDD that may include other measures (psychological, educational, social) for patients with this syndrome.
 Drug treatment may not be indicated for all adolescents with this syndrome.
-Safety and effectiveness of escitalopram oxalate in MDD has not been established in pediatric patients less than 12 years of age.
+Safety and effectiveness of escitalopram in MDD has not been established in pediatric patients less than 12 years of age.
 Antidepressants are not intended for use in the adolescent who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-OR
-
-Manufactured by:
-
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
-
-For:
+Manufactured For:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8063651 Revised March 2017
+8075448 Revised June 2019
 
 ## 17.2 FDA-Approved Medication Guide
