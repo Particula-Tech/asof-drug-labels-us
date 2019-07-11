@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Inform patients, families, or caregivers that the primary side effect of phenylephrine is hypertension and rarely, hypertensive crisis.
+Inform patients, families, or caregivers that the primary side effect of phenylephrine is hypertension and, rarely, hypertensive crisis.
 Patients may experience bradycardia (slow heart rate), which in some cases may produce heart block or other cardiac arrhythmias, extra ventricular beats, myocardial ischemia in patients with underlying cardiac disease, and pulmonary edema (fluid in the lungs) or rales.
 Common, less serious symptoms include the following:
 

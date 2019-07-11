@@ -3,10 +3,14 @@
     "NDA203826"
   ],
   "inn": "phenylephrine",
-  "labeler": "West-Ward Pharmaceuticals Corp.",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
   "package_ndcs": [
     "0641-6142-01",
-    "0641-6142-25"
+    "0641-6142-25",
+    "0641-6188-01",
+    "0641-6188-10",
+    "0641-6189-01",
+    "0641-6189-10"
   ],
   "products": [
     {
