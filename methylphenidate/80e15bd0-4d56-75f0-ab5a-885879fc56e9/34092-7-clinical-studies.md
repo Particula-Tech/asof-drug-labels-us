@@ -28,7 +28,7 @@ After 1 week of double-blind treatment, patients were evalu-ated at pre-dose and
 The primary efficacy endpoint was the comparison of the ADHANSIA XR with placebo in mean SKAMP-Combined scores, averaged across 8 timepoints on the analog classroom day.
 ADHANSIA XR demonstrated a statistically significant re-sponse over placebo (Study 4 in Table 5.).
 The secondary efficacy endpoints were onset and duration of clinical effect, as assessed by the treatment difference in SKAMP-Combined scores at post-dose time points.
-The SKAMP-Combined scores were also statistically significantly lower (improved) at all time points (1, 2, 4, 6, 8, 10, 12, 13 hours) post-dose with ADHANSIA XR compared to placebo (Figure 1).
+The SKAMP-Combined scores were also statistically significantly lower (improved) at all time points (1, 2, 4, 6, 8, 10, 12, 13 hours) post-dose with ADHANSIA XR compared to placebo (Figure 2).
 
 Table 4: Summary of Primary Efficacy Results from Studies in Adults (Study 1) and Pediatric Patients 12 to 17 years (Study 3) with ADHD
 

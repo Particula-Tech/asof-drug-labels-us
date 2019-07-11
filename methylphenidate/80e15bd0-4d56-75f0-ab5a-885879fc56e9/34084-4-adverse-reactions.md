@@ -46,14 +46,14 @@ Table 1: Adverse Reactions Occurring in ≥ 2% of Adult Patients with ADHD on AD
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 25 mg | 45 mg | 70 mg | 100 mg |  |  |
 | N=375 | (N=77) | (N=73) | (N=73) | (N=74) | (N=297) | (N=78) |
-| Initial Insomnia | 4% | 8% | 6% | 7% | 5% | 1% |
-| Insomnia | 17% | 11% | 16% | 19% | 13% | 4% |
-| Dry mouth | 8% | 8% | 7% | 14% | 8% | 4% |
-| Nausea | 4% | 6% | 4% | 11% | 5% | 3% |
-| Diarrhea | 1% | 3% | 7% | 5% | 3% | 1% |
-| Decreased appetite | 4% | 7% | 15% | 19% | 9% | 3% |
+| Initial Insomnia | 4% | 8% | 6% | 7% | 6% | 1% |
+| Insomnia | 17% | 11% | 16% | 19% | 16% | 4% |
+| Dry mouth | 8% | 8% | 7% | 14% | 9% | 4% |
+| Nausea | 4% | 6% | 4% | 11% | 6% | 3% |
+| Diarrhea | 1% | 3% | 7% | 5% | 4% | 1% |
+| Decreased appetite | 4% | 7% | 15% | 19% | 11% | 3% |
 | Feeling jittery | 1% | 3% | 8% | 4% | 4% | 1% |
-| Weight decreased | 3% | 4% | 3% | 5% | 3% | 1% |
+| Weight decreased | 3% | 4% | 3% | 5% | 4% | 1% |
 | Upper respiratory tract infection | 0% | 4% | 3% | 3% | 2% | 1% |
 
 Pediatric Patients (12 to 17 years) with ADHD The most common (incidence ≥5% and at least twice placebo) adverse reactions reported in pediatric patients (12 to 17 years) were decreased appetite, insomnia, and weight decreased.

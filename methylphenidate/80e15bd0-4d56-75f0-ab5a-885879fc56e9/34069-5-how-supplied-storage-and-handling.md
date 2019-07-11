@@ -2,12 +2,12 @@
 
 ADHANSIA XR (methylphenidate hydrochloride) extended-release capsules are available as follows:
 
-- 25 mg Capsules – blue, (imprinted with “MLR-02” and “25 mg”) Bottles of 100.........................................………………………………NDC 72912-525-10 Bottles of 30.........................................………………………………NDC 72912-525-30
-- 35 mg Capsules – orange, (imprinted with “MLR-02” and “35 mg”) Bottles of 100.........................................………………………………NDC 72912-535-10 Bottles of 30.........................................………………………………NDC 72912-535-30
-- 45 mg Capsules – yellow, (imprinted with “MLR-02” and “45 mg”) Bottles of 100..........................................………………………….......NDC 72912-545-10 Bottles of 30.........................................………………………………NDC 72912-545-30
-- 55 mg Capsules – light green, (imprinted with “MLR-02” and “55 mg”) Bottles of 100.........................................………………………………NDC 72912-555-10 Bottles of 30.........................................………………………………NDC 72912-555-30
-- 70 mg Capsules – iron gray, (imprinted with “MLR-02” and “70 mg”) Bottles of 100.........................................………………………………NDC 72912-570-10 Bottles of 30.........................................………………………………NDC 72912-570-30
-- 85 mg Capsules – white, (imprinted with “MLR-02” and “85 mg”) Bottles of 100.........................................…………………………...….NDC 72912-585-10 Bottles of 30.........................................………………………………NDC 72912-585-30
+- 25 mg Capsules – blue, (imprinted with “MLR-02” and “25 mg”) Bottles of 30.........................................………………………………NDC 72912-525-30
+- 35 mg Capsules – orange, (imprinted with “MLR-02” and “35 mg”) Bottles of 30.........................................………………………………NDC 72912-535-30
+- 45 mg Capsules – yellow, (imprinted with “MLR-02” and “45 mg”) Bottles of 30.........................................………………………………NDC 72912-545-30
+- 55 mg Capsules – light green, (imprinted with “MLR-02” and “55 mg”) Bottles of 30.........................................………………………………NDC 72912-555-30
+- 70 mg Capsules – iron gray, (imprinted with “MLR-02” and “70 mg”) Bottles of 30.........................................………………………………NDC 72912-570-30
+- 85 mg Capsules – white, (imprinted with “MLR-02” and “85 mg”) Bottles of 30.........................................………………………………NDC 72912-585-30
 
 Storage and Handling Store between 20º C to 25º C (68º F to 77º F); excursions permitted from 15º C to 30º C (59º F to 86º F) [see USP Controlled Room Temperature].
 Protect from light and moisture.

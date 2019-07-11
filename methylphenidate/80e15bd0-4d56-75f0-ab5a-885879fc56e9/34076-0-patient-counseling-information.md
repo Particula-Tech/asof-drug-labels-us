@@ -44,4 +44,4 @@ Manufactured by: Purdue Pharmaceuticals L.P.
 Wilson, NC 27893
 
 ADHANSIA XR™ is a trademark of Purdue Pharma L.P.
-U.S. Patent Numbers: 9,974,752 and 10,111,839
+U.S. Patent Numbers: 9,974,752, 10,111,839, 10,292,938 and 10,292,939
