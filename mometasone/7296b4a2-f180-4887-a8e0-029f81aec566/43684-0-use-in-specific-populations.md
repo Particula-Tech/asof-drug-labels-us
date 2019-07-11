@@ -5,7 +5,7 @@
 ### Teratogenic Effects Pregnancy Category C:
 
 There are no adequate and well-controlled studies in pregnant women.
-Therefore, Mometasone Furoate Topical Solution USP, 0.1% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Therefore, Mometasone Furoate Topical Solution 0.1% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
@@ -37,11 +37,11 @@ Similar effects were not observed at 7.5 mcg/kg.
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Mometasone Furoate Topical Solution USP, 0.1% is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Mometasone Furoate Topical Solution 0.1% is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Since safety and efficacy of Mometasone Furoate Topical Solution USP, 0.1% have not been established in pediatric patients below 12 years of age, its use in this age group is not recommended.
+Since safety and efficacy of Mometasone Furoate Topical Solution 0.1% have not been established in pediatric patients below 12 years of age, its use in this age group is not recommended.
 
 Mometasone furoate lotion caused HPA axis suppression in approximately 29% of pediatric subjects ages 6 to 23 months, who showed normal adrenal function by Cortrosyn test before starting treatment, and were treated for approximately 3 weeks over a mean body surface area of 40% (range 16%-90%).
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
@@ -57,7 +57,7 @@ HPA axis suppression, Cushing’s syndrome, linear growth retardation, delayed w
 Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
-Mometasone Furoate Topical Solution USP, 0.1% should not be used in the treatment of diaper dermatitis.
+Mometasone Furoate Topical Solution 0.1% should not be used in the treatment of diaper dermatitis.
 
 ## 8.5 Geriatric Use
 

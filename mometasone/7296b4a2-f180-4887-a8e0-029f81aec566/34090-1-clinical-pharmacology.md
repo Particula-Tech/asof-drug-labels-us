@@ -18,7 +18,7 @@ At the end of treatment, the plasma cortisol levels for each of the 4 subjects r
 Sixty-five pediatric subjects ages 6 to 23 months, with atopic dermatitis, were enrolled in an open-label, HPA axis safety trial.
 Mometasone furoate lotion was applied once daily for approximately 3 weeks over a mean body surface area of 40% (range 16%-90%).
 In approximately 29% of subjects who showed normal adrenal function by Cortrosyn test before starting treatment, adrenal suppression was observed at the end of treatment with mometasone furoate lotion.
-The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute poststimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
+The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
 Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the subjects, demonstrated suppressed HPA axis function in 1 subject, using these same criteria [see Use in Specific Populations (8.4)].
 
 ## 12.3 Pharmacokinetics
