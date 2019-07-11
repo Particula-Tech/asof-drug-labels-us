@@ -172,13 +172,15 @@ Three of these 11 daptomycin-treated patients discontinued therapy due to CPK el
 The following adverse reactions have been identified during post-approval use of daptomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: anemia
+Blood and Lymphatic System Disorders: anemia, thrombocytopenia
 
 General and Administration Site Conditions: pyrexia
 
 Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
 
 Infections and Infestations: Clostridium difficile–associated diarrhea [see Warnings and Precautions (5.6)]
+
+Laboratory Investigations: platelet count decreased
 
 Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with daptomycin and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
 
