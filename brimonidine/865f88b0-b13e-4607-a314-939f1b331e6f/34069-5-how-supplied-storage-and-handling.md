@@ -8,6 +8,6 @@ Brimonidine Tartrate Ophthalmic Solution 0.2% is supplied sterile in a plastic b
 
 15 mL - NDC 24208-411-15
 
-Storage: Store between 15° - 25°C (59°-77°F).
+Storage: Store between 15° to 25°C (59° to 77°F).
 
-KEEP OUT OF REACH OF CHILDREN.
+Keep out of reach of children.

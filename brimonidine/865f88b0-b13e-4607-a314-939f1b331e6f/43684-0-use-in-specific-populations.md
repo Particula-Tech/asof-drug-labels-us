@@ -1,25 +1,23 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-Click here to enter Use in Specific Populations
-
 ## 8.1 Pregnancy
 
 Pregnancy Category B: Teratogenicity studies have been performed in animals.
 
 Brimonidine tartrate was not teratogenic when given orally during gestation days 6 through 15 in rats and days 6 through 18 in rabbits.
-The highest doses of brimonidine tartrate in rats (2.5 mg/kg/day) and rabbits (5 mg/kg/day) achieved AUC exposure values 375-fold higher or 19-fold higher, respectively, than similar values estimated in humans treated with Brimonidine Tartrate Ophthalmic Solution0.2%, one drop in one eye, twice daily.
+The highest doses of brimonidine tartrate in rats (2.5 mg/kg/day) and rabbits (5 mg/kg/day) achieved AUC exposure values 375-fold higher or 19-fold higher, respectively, than similar values estimated in humans treated with Brimonidine Tartrate Ophthalmic Solution 0.2%, one drop in one eye, twice daily.
 
 There are no adequate and well-controlled studies in pregnant women; however, in animal studies, brimonidine crossed the placenta and entered into the fetal circulation to a limited extent.
 Because animal reproduction studies are not always predictive of human response, Brimonidine Tartrate Ophthalmic Solution should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
-## 8.3 Females and Males of Reproductive Potential
+## 8.3 Nursing Mothers
 
 It is not known whether brimonidine tartrate is excreted in human milk, although in animal studies, brimonidine tartrate has been shown to be excreted in breast milk.
 Because of the potential for serious adverse reactions from Brimonidine Tartrate Ophthalmic Solution in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-Brimonidine Tartrate Ophthalmic Solution is contraindicated in children under the age of 2 years [see (4.1) Contraindications].
+Brimonidine Tartrate Ophthalmic Solution is contraindicated in children under the age of 2 years [see Contraindications (4.1)].
 During postmarketing surveillance, apnea, bradycardia, coma, hypotension, hypothermia, hypotonia, lethargy, pallor, respiratory depression, and somnolence have been reported in infants receiving brimonidine.
 The safety and effectiveness of brimonidine tartrate have not been studied in children below the age of 2 years.
 

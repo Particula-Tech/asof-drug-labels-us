@@ -2,10 +2,10 @@
 
 - The following serious adverse reactions are described elsewhere in the labeling:
 
-1. 1.Potentiation of Vascular Insufficiency [see (5.1) Warnings and Precautions]
-2. 2.Severe Cardiovascular Disease [see (5.2) Warnings and Precautions]
-3. 3.Contamination of Topical Ophthalmic Products after Use [see (5.3) Warnings and Precautions]
-4. 4.Neonates and Infants (under the age of 2 years) [see (4.1) Contraindications]
+- •Potentiation of Vascular Insufficiency [see Warnings and Precautions (5.1)]
+- •Severe Cardiovascular Disease [see Warnings and Precautions (5.2)]
+- •Contamination of Topical Ophthalmic Products after Use [see Warnings and Precautions (5.3)]
+- •Neonates and Infants (under the age of 2 years) [see Contraindications (4.1)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -21,5 +21,5 @@ The following reactions have been identified during postmarketing use of brimoni
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to brimonidine tartrate ophthalmic solutions, or a combination of these factors, include:
 
-- •Bradycardia; conjunctivitis; hypersensitivity; hypotension; iritis; keratoconjuctivitis sicca; lacrimation increased; miosis; nausea; skin reactions (including erythema, eyelid pruritus, rash, and vasodilation); and tachycardia.
+- •Bradycardia; conjunctivitis; hypersensitivity; hypotension; iritis; keratoconjunctivitis sicca; lacrimation increased; miosis; nausea; skin reactions (including erythema, eyelid pruritus, rash, and vasodilation); and tachycardia.
 - •Apnea, bradycardia, coma, hypotension, hypothermia, hypotonia, lethargy, pallor, respiratory depression, and somnolence in infants receiving brimonidine tartrate ophthalmic solutions.

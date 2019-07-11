@@ -14,17 +14,16 @@ Advise patients that if they have ocular surgery or develop an intercurrent ocul
 
 Use with Contact Lenses
 
-Advise patients that contact lenses should be removed prior to instillation of Brimonidine Tartrate Ophthalmic Solutionand may be reinserted 15 minutes following its administration.
+Advise patients that contact lenses should be removed prior to instillation of Brimonidine Tartrate Ophthalmic Solution and may be reinserted 15 minutes following its administration.
 
 Use with Other Ophthalmic Drugs
 
 Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five minutes apart.
 
 - Potential for Decreased Mental Alertness
-- As with other similar medications, Brimonidine Tartrate Ophthalmic Solutionmay cause fatigue and/or drowsiness in some patients.
+- As with other similar medications, Brimonidine Tartrate Ophthalmic Solution may cause fatigue and/or drowsiness in some patients.
   Caution patients who engage in hazardous activities of the potential for a decrease in mental alertness.
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA © Bausch & Lomb Incorporated
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA © 2018 Bausch & Lomb Incorporated
 
-Update p/n (Folded) Update p/n (Flat) Prod.
-No. 411
+9104705 (Folded) 9104605 (Flat)

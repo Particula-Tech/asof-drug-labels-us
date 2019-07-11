@@ -1,7 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-## Click here to enter Drug Interactions
-
 ## 7.1 Antihypertensives/Cardiac Glycosides
 
 Because Brimonidine Tartrate Ophthalmic Solution may reduce blood pressure, caution in using drugs such as antihypertensives and/or cardiac glycosides with Brimonidine Tartrate Ophthalmic Solution is advised.
