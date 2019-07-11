@@ -1,20 +1,23 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Sumatriptan tablets should not be given to patients with history, symptoms, or signs of ischemic cardiac, cerebrovascular, or peripheral vascular syndromes.
-In addition, patients with other significant underlying cardiovascular diseases should not receive sumatriptane tablets.
-Ischemic cardiac syndromes include, but are not limited to, angina pectoris of any type (e.g., stable angina of effort, vasospastic forms of angina such as the Prinzmetal variant), all forms of myocardial infarction, and silent myocardial ischemia.
+Sumatriptan tablets are contraindicated in patients with:
 
-Cerebrovascular syndromes include, but are not limited to, strokes of any type as well as transient ischemic attacks.
-Peripheral vascular disease includes, but is not limited to, ischemic bowel disease (see WARNINGS).
+• Ischemic coronary artery disease (CAD) (angina pectoris, history of myocardial infarction, or documented silent ischemia) or coronary artery vasospasm, including Prinzmetal’s angina [see Warnings and Precautions (5.1)]
 
-Because sumatriptan tablets may increase blood pressure, they should not be given to patients with uncontrolled hypertension.
+• Wolff-Parkinson-White syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Warnings and Precautions (5.2)]
 
-Concurrent administration of MAO-A inhibitors or use within 2 weeks of discontinuation of MAO-A inhibitor therapy is contraindicated (see CLINICAL PHARMACOLOGY: Drug Interactions and PRECAUTIONS: Drug Interactions).
+• History of stroke or transient ischemic attack (TIA) or history of hemiplegic or basilar migraine because these patients are at a higher risk of stroke [see Warnings and Precautions (5.4)]
 
-Sumatriptan tablets should not be administered to patients with hemiplegic or basilar migraine.
+• Peripheral vascular disease [see Warnings and Precautions (5.5)]
 
-Sumatriptan tablets and any ergotamine-containing or ergot-type medication (like dihydroergotamine or methysergide) should not be used within 24 hours of each other, nor should sumatriptan and another 5-HT1 agonist.
+• Ischemic bowel disease [see Warnings and Precautions (5.5)]
 
-Sumatriptan tablets are contraindicated in patients with hypersensitivity to sumatriptan or any of their components.
+• Uncontrolled hypertension [see Warnings and Precautions (5.8)]
 
-Sumatriptan tablets are contraindicated in patients with severe hepatic impairment.
+• Recent use (i.e., within 24 hours) of ergotamine-containing medication, ergot-type medication (such as dihydroergotamine or methysergide), or another 5-hydroxytryptamine1 (5-HT1) agonist [see Drug Interactions (7.1, 7.3)]
+
+• Concurrent administration of a monoamine oxidase (MAO)-A inhibitor or recent (within 2 weeks) use of an MAO-A inhibitor [see Drug Interactions (7.2), Clinical Pharmacology (12.3)]
+
+• Hypersensitivity to sumatriptan (angioedema and anaphylaxis seen) [see Warnings and Precautions (5.9)]
+
+• Severe hepatic impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]
