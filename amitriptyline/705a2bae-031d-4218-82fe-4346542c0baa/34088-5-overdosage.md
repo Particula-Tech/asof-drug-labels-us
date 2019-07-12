@@ -22,7 +22,7 @@ Other signs of overdose may include: impaired myocardial contractility, confusio
 Obtain an ECG and immediately initiate cardiac monitoring.
 Protect the patient’s airway, establish an intravenous line and initiate gastric decontamination.
 A minimum of six hours of observation with cardiac monitoring and observation for signs of CNS or respiratory depression, hypotension, cardiac dysrhythmias and/or conduction blocks, and seizures is necessary.
-If signs of toxicity occur at any time during the period extended monitoring is required.
+If signs of toxicity occur at any time during the period, extended monitoring is required.
 There are case reports of patients succumbing to fatal dysrhythmias late after overdose; these patients had clinical evidence of significant poisoning prior to death and most received inadequate gastrointestinal decontamination.
 Monitoring of plasma drug levels should not guide management of the patient.
 
@@ -41,7 +41,7 @@ If the pH response is inadequate, hyperventilation may also be used.
 Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring.
 A pH >7.60 or a pCO2 <20 mm Hg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin.
-Type 1 A and 1 C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
+Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
 
 In rare instances, hemoperfusion may be beneficial in acute refractory cardiovascular instability in patients with acute toxicity.
 However, hemodialysis, peritoneal dialysis, exchange transfusions, and forced diuresis generally have been reported as ineffective in tricyclic antidepressant poisoning.

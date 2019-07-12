@@ -2,19 +2,17 @@
 
 NDC 0781-1486-01
 
-Amitriptyline
+Amitriptyline HCl
 
-HCl Tablets,
-
-USP
+Tablets, USP
 
 10 mg
 
-ATTENTION: DISPENSE
+Rx Only
 
-WITH MEDICATION GUIDE.
+PHARMACIST: Please dispense with Medication Guide provided separately.
 
-Rx only 100 Tablets
+100 Tablets
 
 SANDOZ
 
@@ -22,19 +20,17 @@ SANDOZ
 
 NDC 0781-1487-01
 
-Amitriptyline
+Amitriptyline HCl
 
-HCl Tablets,
-
-USP
+Tablets, USP
 
 25 mg
 
-ATTENTION: DISPENSE
+Rx Only
 
-WITH MEDICATION GUIDE.
+PHARMACIST: Please dispense with Medication Guide provided separately.
 
-Rx only 100 Tablets
+100 Tablets
 
 SANDOZ
 
@@ -42,19 +38,17 @@ SANDOZ
 
 NDC 0781-1488-01
 
-Amitriptyline
+Amitriptyline HCl
 
-HCl Tablets,
-
-USP
+Tablets, USP
 
 50 mg
 
-ATTENTION: DISPENSE
+Rx Only
 
-WITH MEDICATION GUIDE.
+PHARMACIST: Please dispense with Medication Guide provided separately.
 
-Rx only 100 Tablets
+100 Tablets
 
 SANDOZ
 
@@ -70,11 +64,11 @@ USP
 
 75 mg
 
-ATTENTION: DISPENSE
+Rx Only
 
-WITH MEDICATION GUIDE.
+PHARMACIST: Please dispense with Medication Guide provided separately.
 
-Rx only 100 Tablets
+100 Tablets
 
 SANDOZ
 
@@ -82,19 +76,17 @@ SANDOZ
 
 NDC 0781-1490-01
 
-Amitriptyline
+Amitriptyline HCl
 
-HCl Tablets,
-
-USP
+Tablets, USP
 
 100 mg
 
-ATTENTION: DISPENSE
+Rx Only
 
-WITH MEDICATION GUIDE.
+PHARMACIST: Please dispense with Medication Guide provided separately.
 
-Rx only 100 Tablets
+100 Tablets
 
 SANDOZ
 
@@ -102,18 +94,16 @@ SANDOZ
 
 NDC 0781-1491-01
 
-Amitriptyline
+Amitriptyline HCl
 
-HCl Tablets,
-
-USP
+Tablets, USP
 
 150 mg
 
-ATTENTION: DISPENSE
+Rx Only
 
-WITH MEDICATION GUIDE.
+PHARMACIST: Please dispense with Medication Guide provided separately.
 
-Rx only 100 Tablets
+100 Tablets
 
 SANDOZ

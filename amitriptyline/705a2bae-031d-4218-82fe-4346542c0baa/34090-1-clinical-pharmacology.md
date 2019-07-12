@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Amitriptyline HCl is an antidepressant with sedative effects.
+Amitriptyline hydrochloride is an antidepressant with sedative effects.
 Its mechanism of action in man is not known.
 It is not a monoamine oxidase inhibitor and it does not act primarily by stimulation of the central nervous system.
 

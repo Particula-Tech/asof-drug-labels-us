@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Amitriptyline Hydrochloride Tablets, USP (am'' i trip' tileen)
+Amitriptyline Hydrochloride Tablets, USP (a-mee-TRIP-ti-leen)
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
@@ -18,11 +18,11 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-   - ∘Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-     This is very important when an antidepressant medicine is started or when the dose is changed.
-   - ∘Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-   - ∘Keep all follow-up visits with the healthcare provider as scheduled.
-     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+4. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+   This is very important when an antidepressant medicine is started or when the dose is changed.
+5. •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+6. •Keep all follow-up visits with the healthcare provider as scheduled.
+   Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -44,7 +44,8 @@ What else do I need to know about antidepressant medicines?
 
 - •Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
-- •Visual problems: Only some people are at risk for these problems.
+- •Visual problems.
+  Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - •Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.

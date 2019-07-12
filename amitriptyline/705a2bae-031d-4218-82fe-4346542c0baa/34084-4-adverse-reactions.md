@@ -4,21 +4,37 @@ Within each category the following adverse reactions are listed in order of decr
 Included in the listing are a few adverse reactions which have not been reported with this specific drug.
 However, pharmacological similarities among the tricyclic antidepressant drugs require that each of the reactions be considered when amitriptyline is administered.
 
-Cardiovascular: Myocardial infarction; stroke; nonspecific ECG changes and changes in AV conduction; heart block; arrhythmias; hypotension, particularly orthostatic hypotension; syncope; hypertension; tachycardia; palpitation.
+Cardiovascular
 
-CNS and Neuromuscular: Coma; seizures; hallucinations; delusions; confusional states; disorientation; incoordination; ataxia; tremors; peripheral neuropathy; numbness, tingling and paresthesias of the extremities; extrapyramidal symptoms including abnormal involuntary movements and tardive dyskinesia; dysarthria; disturbed concentration; excitement; anxiety; insomnia; restlessness; nightmares; drowsiness; dizziness; weakness; fatigue; headache; syndrome of inappropriate ADH (antidiuretic hormone) secretion; tinnitus; alteration in EEG patterns.
+Myocardial infarction; stroke; nonspecific ECG changes and changes in AV conduction; heart block; arrhythmias; hypotension, particularly orthostatic hypotension; syncope; hypertension; tachycardia; palpitation.
 
-Anticholinergic: Paralytic ileus, hyperpyrexia; urinary retention, dilatation of the urinary tract; constipation; blurred vision, disturbance of accommodation, increased ocular pressure, mydriasis; dry mouth.
+CNS and Neuromuscular
 
-Allergic: Skin rash; urticaria; photosensitization; edema of face and tongue.
+Coma; seizures; hallucinations; delusions; confusional states; disorientation; incoordination; ataxia; tremors; peripheral neuropathy; numbness, tingling and paresthesias of the extremities; extrapyramidal symptoms including abnormal involuntary movements and tardive dyskinesia; dysarthria; disturbed concentration; excitement; anxiety; insomnia; restlessness; nightmares; drowsiness; dizziness; weakness; fatigue; headache; syndrome of inappropriate ADH (antidiuretic hormone) secretion; tinnitus; alteration in EEG patterns.
 
-Hematologic: Bone marrow depression including agranulocytosis, leukopenia, thrombocytopenia; purpura; eosinophilia.
+Anticholinergic
 
-Gastrointestinal: Rarely hepatitis (including altered liver function and jaundice); nausea; epigastric distress; vomiting; anorexia; stomatitis; peculiar taste; diarrhea; parotid swelling; black tongue.
+Paralytic ileus, hyperpyrexia; urinary retention, dilatation of the urinary tract; constipation; blurred vision, disturbance of accommodation, increased ocular pressure, mydriasis; dry mouth.
 
-Endocrine: Testicular swelling and gynecomastia in the male; breast enlargement and galactorrhea in the female; increased or decreased libido; impotence; elevation and lowering of blood sugar levels.
+Allergic
 
-Other: Alopecia; edema; weight gain or loss; urinary frequency; increased perspiration.
+Skin rash; urticaria; photosensitization; edema of face and tongue.
+
+Hematologic
+
+Bone marrow depression including agranulocytosis, leukopenia, thrombocytopenia; purpura; eosinophilia.
+
+Gastrointestinal
+
+Rarely hepatitis (including altered liver function and jaundice); nausea; epigastric distress; vomiting; anorexia; stomatitis; peculiar taste; diarrhea; parotid swelling; black tongue.
+
+Endocrine
+
+Testicular swelling and gynecomastia in the male; breast enlargement and galactorrhea in the female; increased or decreased libido; impotence; elevation and lowering of blood sugar levels.
+
+Other
+
+Alopecia; edema; weight gain or loss; urinary frequency; increased perspiration.
 
 ## Withdrawal Symptoms
 
@@ -32,9 +48,13 @@ Rare instances have been reported of mania or hypomania occurring within 2 to 7 
 
 Other reactions, reported under circumstances where a causal relationship could not be established, are listed to serve as alerting information to physicians:
 
-Body as a Whole: Lupus-like syndrome (migratory arthritis, positive ANA and rheumatoid factor).
+Body as a Whole
 
-Digestive: Hepatic failure, ageusia.
+Lupus-like syndrome (migratory arthritis, positive ANA and rheumatoid factor).
+
+Digestive
+
+Hepatic failure, ageusia.
 
 ## Postmarketing Adverse Events
 
@@ -42,3 +62,5 @@ A syndrome resembling neuroleptic malignant syndrome (NMS) has been very rarely 
 Symptoms have included muscle rigidity, fever, mental status changes, diaphoresis, tachycardia, and tremor.
 
 Very rare cases of serotonin syndrome (SS) have been reported with amitriptyline hydrochloride in combination with other drugs that have a recognized association with SS.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

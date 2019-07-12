@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1
@@ -41,7 +41,7 @@ Consideration should be given to changing the therapeutic regimen, including pos
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for amitriptyline hydrochloride should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -62,7 +62,7 @@ Myocardial infarction and stroke have been reported with drugs of this class.
 
 Close supervision is required when amitriptyline hydrochloride is given to hyperthyroid patients or those receiving thyroid medication.
 
-Amitriptyline may enhance the response to alcohol and the effects of barbiturates and other CNS depressants.
+Amitriptyline hydrochloride may enhance the response to alcohol and the effects of barbiturates and other CNS depressants.
 In patients who may use alcohol excessively, it should be borne in mind that the potentiation may increase the danger inherent in any suicide attempt or overdosage.
 Delirium has been reported with concurrent administration of amitriptyline and disulfiram.
 
@@ -118,15 +118,15 @@ Amitriptyline hydrochloride should be used with caution in patients with impaire
 
 ## Information for Patients
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with amitriptyline hydrochloride and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions” is available for amitriptyline hydrochloride.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with amitriptyline hydrochloride tablets and should counsel them in its appropriate use.
+A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions” is available for amitriptyline hydrochloride tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking amitriptyline hydrochloride.
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking amitriptyline hydrochloride tablets.
 
-Patients should be advised that taking amitriptyline hydrochloride can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Patients should be advised that taking amitriptyline hydrochloride tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
@@ -167,9 +167,9 @@ It is desirable to monitor TCA plasma levels whenever a TCA is going to be coadm
 Monoamine oxidase inhibitors – see CONTRAINDICATIONS section.
 Guanethidine or similarly acting compounds; thyroid medication; alcohol, barbiturates and other CNS depressants; and disulfiram – see WARNINGS section.
 
-When amitriptyline is given with anticholinergic agents or sympathomimetic drugs, including epinephrine combined with local anesthetics, close supervision and careful adjustment of dosages are required.
+When amitriptyline hydrochloride is given with anticholinergic agents or sympathomimetic drugs, including epinephrine combined with local anesthetics, close supervision and careful adjustment of dosages are required.
 
-Hyperpyrexia has been reported when amitriptyline is administered with anticholinergic agents or with neuroleptic drugs, particularly during hot weather.
+Hyperpyrexia has been reported when amitriptyline hydrochloride is administered with anticholinergic agents or with neuroleptic drugs, particularly during hot weather.
 
 Paralytic ileus may occur in patients taking tricyclic antidepressants in combination with anticholinergic-type drugs.
 

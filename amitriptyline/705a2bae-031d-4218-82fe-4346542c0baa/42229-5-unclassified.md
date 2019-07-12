@@ -1,3 +1,5 @@
+# Rx Only
+
 # METABOLISM
 
 Studies in man following oral administration of 14C-labeled drug indicated that amitriptyline is rapidly absorbed and metabolized.
@@ -7,10 +9,13 @@ Amitriptyline is metabolized by N-demethylation and bridge hydroxylation in man,
 Virtually the entire dose is excreted as glucuronide or sulfate conjugate of metabolites, with little unchanged drug appearing in the urine.
 Other metabolic pathways may be involved.
 
-03-2016M
+Manufactured by
 
-7339
-
-Sandoz Inc.,
+Sandoz Inc.
 
 Princeton, NJ 08540
+
+Rev.
+August 2018
+
+MF1486REV08/18

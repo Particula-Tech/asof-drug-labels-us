@@ -6,12 +6,12 @@ Dosage should be initiated at a low level and increased gradually, noting carefu
 
 ## Initial Dosage for Adults
 
-For outpatients, 75 mg of amitriptyline HCl a day in divided doses is usually satisfactory.
+For outpatients, 75 mg of amitriptyline hydrochloride a day in divided doses is usually satisfactory.
 If necessary, this may be increased to a total of 150 mg per day.
 Increases are made preferably in the late afternoon and/or bedtime doses.
 A sedative effect may be apparent before the antidepressant effect is noted, but an adequate therapeutic effect may take as long as 30 days to develop.
 
-An alternate method of initiating therapy in outpatients is to begin with 50 to 100 mg amitriptyline HCl at bedtime.
+An alternate method of initiating therapy in outpatients is to begin with 50 to 100 mg amitriptyline hydrochloride at bedtime.
 This may be increased by 25 or 50 mg as necessary in the bedtime dose to a total of 150 mg per day.
 
 Hospitalized patients may require 100 mg a day initially.
@@ -25,7 +25,7 @@ Ten mg 3 times a day with 20 mg at bedtime may be satisfactory in adolescent and
 
 ## Maintenance
 
-The usual maintenance dosage of amitriptyline HCl is 50 to 100 mg per day.
+The usual maintenance dosage of amitriptyline hydrochloride is 50 to 100 mg per day.
 In some patients, 40 mg per day is sufficient.
 For maintenance therapy, the total daily dosage may be given in a single dose, preferably at bedtime.
 When satisfactory improvement has been reached, dosage should be reduced to the lowest amount that will maintain relief of symptoms.
