@@ -49,7 +49,7 @@ Silver may become tarnished after exposure, but this is not harmful to the drug 
 Nebulizing Gases
 
 Compressed tank gas (air) or an air compressor should be used to provide pressure for nebulizing the solution.
-Oxygen may also be used but should be used with the usual precautions in patients with severe respiratory disease and CO2 retention.
+Oxygen may also be used but should be used with the usual precautions in patients with severe respiratory disease and CO 2 retention.
 
 Apparatus
 
@@ -57,7 +57,7 @@ Acetylcysteine is usually administered as fine nebulae and the nebulizer used sh
 
 Commercially available nebulizers will produce nebulae of acetylcysteine satisfactory for retention in the respiratory tract.
 Most of the nebulizers tested will supply a high proportion of the drug solution as particles of less than 10 microns in diameter.
-Mitchell2 has shown that particles less than 10 microns should be retained in the respiratory tract satisfactorily.
+Mitchell 2 has shown that particles less than 10 microns should be retained in the respiratory tract satisfactorily.
 
 Various intermittent positive pressure breathing devices nebulized acetylcysteine with a satisfactory efficiency including: No. 40 De Vilbiss (The De Vilbiss Co., Somerset, Pennsylvania), and the Bennett Twin-Jet Nebulizer (Puritan Bennett Corp., Oak at 13th., Kansas City, Missouri).
 
@@ -112,38 +112,38 @@ Do not store unused mixtures.
 | Lidocaine HCl | Compatible | 10% | 2% |
 | Tetracaine HCl | Compatible | 10% | 1% |
 | ANTIBACTERIALS (A parenteral form of each antibiotic was used) |  |  |  |
-| Bacitracin2,3 (mix and use at once) | Compatible | 10% | 5,000 U/mL |
+| Bacitracin 2,3 (mix and use at once) | Compatible | 10% | 5,000 U/mL |
 | Chloramphenicol Sodium Succinate | Compatible | 20% | 20 mg/mL |
-| Carbenicillin Disodium2(mix and use at once) | Compatible | 10% | 125 mg/mL |
-| Gentamicin Sulfate2 | Compatible | 10% | 20 mg/mL |
-| Kanamycin Sulfate2(mix and use at once) | Compatible | 10% | 167 mg/mL |
+| Carbenicillin Disodium 2(mix and use at once) | Compatible | 10% | 125 mg/mL |
+| Gentamicin Sulfate 2 | Compatible | 10% | 20 mg/mL |
+| Kanamycin Sulfate 2(mix and use at once) | Compatible | 10% | 167 mg/mL |
 |  | Compatible | 17% | 85 mg/mL |
-| Lincomycin HCl2 | Compatible | 10% | 150 mg/mL |
-| Neomycin Sulfate2 | Compatible | 10% | 100 mg/mL |
-| Novobiocin Sodium2 | Compatible | 10% | 25 mg/mL |
-| Penicillin G Potassium2(mix and use at once) | Compatible | 10% | 25,000 U/mL |
+| Lincomycin HCl 2 | Compatible | 10% | 150 mg/mL |
+| Neomycin Sulfate 2 | Compatible | 10% | 100 mg/mL |
+| Novobiocin Sodium 2 | Compatible | 10% | 25 mg/mL |
+| Penicillin G Potassium 2(mix and use at once) | Compatible | 10% | 25,000 U/mL |
 |  | Compatible | 10% | 100,000 U/mL |
-| Polymyxin B Sulfate2 | Compatible | 10% | 50,000 U/mL |
+| Polymyxin B Sulfate 2 | Compatible | 10% | 50,000 U/mL |
 | Cephalothin Sodium | Compatible | 10% | 110 mg/mL |
-| Colistimethate Sodium2(mix and use at once) | Compatible | 10% | 37.5 mg/mL |
-| Vancomycin HCl2 | Compatible | 10% | 25 mg/mL |
+| Colistimethate Sodium 2(mix and use at once) | Compatible | 10% | 37.5 mg/mL |
+| Vancomycin HCl 2 | Compatible | 10% | 25 mg/mL |
 | Amphotericin B | Incompatible | 4% to 15% | 1 to 4 mg/mL |
-| Chlortetracycline HCl2 | Incompatible | 10% | 12.5 mg/mL |
+| Chlortetracycline HCl 2 | Incompatible | 10% | 12.5 mg/mL |
 | Erythromycin Lactobionate | Incompatible | 10% | 15 mg/mL |
 | Oxytetracycline HCl | Incompatible | 10% | 12.5 mg/mL |
 | Ampicillin Sodium | Incompatible | 10% | 50 mg/mL |
 | Tetracycline HCl | Incompatible | 10% | 12.5 mg/mL |
 | BRONCHODILATORS |  |  |  |
-| Isoproterenol HCl2 | Compatible | 3.0% | 0.5% |
-| Isoproterenol HCl2 | Compatible | 10% | 0.05% |
-| Isoproterenol HCl2 | Compatible | 20% | 0.05% |
+| Isoproterenol HCl 2 | Compatible | 3.0% | 0.5% |
+| Isoproterenol HCl 2 | Compatible | 10% | 0.05% |
+| Isoproterenol HCl 2 | Compatible | 20% | 0.05% |
 | Isoproterenol HCl | Compatible | 13.3% (2 parts) | 0.33% (1 part) |
 | Isoetharine HCl | Compatible | 13.3% (2 parts) | (1 part) |
 | Epinephrine HCl | Compatible | 13.3% (2 parts) | 0.33% (1 part) |
 | CONTRAST MEDIA |  |  |  |
 | Iodized Oil | Incompatible | 20%/20 mL | 40%/10 mL |
 | DECONGESTANTS |  |  |  |
-| Phenylephrine HCl2 | Compatible | 3.0% | 0.25% |
+| Phenylephrine HCl 2 | Compatible | 3.0% | 0.25% |
 | Phenylephrine HCl | Compatible | 13.3% (2 parts) | 0.17% (1 part) |
 | ENZYMES |  |  |  |
 | Chymotrypsin | Incompatible | 5% | 400 γ/mL |
@@ -153,11 +153,11 @@ Do not store unused mixtures.
 | Propylene Glycol | Compatible | 3% | 10% |
 | STEROIDS |  |  |  |
 | Dexamethasone Sodium Phosphate | Compatible | 16% | 0.8 mg/mL |
-| Prednisolone Sodium Phosphate5 | Compatible | 16.7% | 3.3 mg/mL |
+| Prednisolone Sodium Phosphate 5 | Compatible | 16.7% | 3.3 mg/mL |
 | OTHER AGENTS |  |  |  |
 | Hydrogen Peroxide | Incompatible | (All ratios) |  |
 | Sodium Bicarbonate | Compatible | 20% (1 part) | 4.2% (1 part) |
-| The rating, Incompatible, is based on the formulation of a precipitate, a change in clarity, immiscibility or a rapid loss of potency of acetylcysteine or the active ingredient of the PRODUCT AND/OR AGENT in the admixture.The rating, Compatible, means that there was no significant physical change in the admixture when compared with a control solution of the PRODUCT AND/OR AGENT, and that there was no predicted chemical incompatibility. All of the admixtures have been tested for short-term chemical compatibility by assaying for the concentration of acetylcysteine after mixing.The active ingredient in the PRODUCT AND/OR AGENT was also assayed after mixing. Some of the admixtures developed minor physical changes which were considered to be insufficient to rate the admixtures incompatible. These are listed in footnotes 3, 4, and 5.A strong odor developed after storage for 24 hours at room temperature.The admixture was a slightly darker shade of yellow than a control solution of the PRODUCT AND/OR AGENT.A light tan color developed after storage for 24 hours at room temperature.Entries are final concentrations. Values in parentheses relate volumes of acetylcysteine solutions to volume of test solutions. |  |  |  |
+| The rating, Incompatible, is based on the formulation of a precipitate, a change in clarity, immiscibility or a rapid loss of potency of acetylcysteine or the active ingredient of the PRODUCT AND/OR AGENT in the admixture. The rating, Compatible, means that there was no significant physical change in the admixture when compared with a control solution of the PRODUCT AND/OR AGENT, and that there was no predicted chemical incompatibility. All of the admixtures have been tested for short-term chemical compatibility by assaying for the concentration of acetylcysteine after mixing. The active ingredient in the PRODUCT AND/OR AGENT was also assayed after mixing. Some of the admixtures developed minor physical changes which were considered to be insufficient to rate the admixtures incompatible. These are listed in footnotes 3, 4, and 5. A strong odor developed after storage for 24 hours at room temperature.The admixture was a slightly darker shade of yellow than a control solution of the PRODUCT AND/OR AGENT.A light tan color developed after storage for 24 hours at room temperature.Entries are final concentrations. Values in parentheses relate volumes of acetylcysteine solutions to volume of test solutions. |  |  |  |
 
 # DOSAGE AND ADMINISTRATION:
 
@@ -177,8 +177,8 @@ The following procedures are recommended:
 4. Administer the loading dose of acetylcysteine, 140 mg per kg of body weight.
    (Prepare acetylcysteine for oral administration as described in the Dosage Guide and Preparation table).
 5. Determine subsequent action based on predetoxification plasma acetaminophen information.
-   Choose ONE of the following four courses of therapy.A.
-   Predetoxification plasma acetaminophen level is clearly in the toxic range (See Acetaminophen Assays - Interpretation and Methodology below):Administer a first maintenance dose (70 mg/kg acetylcysteine) 4 hours after the loading dose.
+   Choose ONE of the following four courses of therapy.
+   A. Predetoxification plasma acetaminophen level is clearly in the toxic range (See Acetaminophen Assays - Interpretation and Methodology below):Administer a first maintenance dose (70 mg/kg acetylcysteine) 4 hours after the loading dose.
    The maintenance dose is then repeated at 4-hour intervals for a total of 17 doses.
    Monitor hepatic and renal function and electrolytes throughout the detoxification process.B.
    Predetoxification acetaminophen level could not be obtained: Proceed as in A.C.
@@ -244,7 +244,7 @@ Supportive Treatment of Acetaminophen Overdose
 
 1. Maintain fluid and electrolyte balance based on clinical evaluation of state of hydration and serum electrolytes.
 2. Treat as necessary for hypoglycemia.
-3. Administer vitamin K1 if prothrombin time ratio exceeds 1.5 or fresh frozen plasma if the prothrombin time ratio exceeds 3.0.
+3. Administer vitamin K 1 if prothrombin time ratio exceeds 1.5 or fresh frozen plasma if the prothrombin time ratio exceeds 3.0.
 4. Diuretics and forced diuresis should be avoided.
 
 DOSAGE GUIDE AND PREPARATION:

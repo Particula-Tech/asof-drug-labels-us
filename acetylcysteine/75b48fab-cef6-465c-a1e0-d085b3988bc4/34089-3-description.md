@@ -4,7 +4,7 @@ Acetylcysteine Solution, USP is for inhalation (mucolytic agent) or oral adminis
 The solutions contain 20% (200 mg/mL) or 10% (100 mg/mL) acetylcysteine, with disodium edetate in purified water.
 Sodium hydroxide and/or hydrochloric acid is added to adjust pH (range 6.0 to 7.5).
 Acetylcysteine is the N-acetyl derivative of the naturally-occurring amino acid, cysteine.
-The compound is a white crystalline powder with the molecular formula C5H9NO3S, a molecular weight of 163.2, and chemical name of N-acetyl-L-cysteine.
+The compound is a white crystalline powder with the molecular formula C 5H 9NO 3S, a molecular weight of 163.2, and chemical name of N-acetyl-L-cysteine.
 Acetylcysteine has the following structural formula:
 
 This product contains the following inactive ingredients: disodium edetate, sodium hydroxide, purified water, and hydrochloric acid, if necessary.

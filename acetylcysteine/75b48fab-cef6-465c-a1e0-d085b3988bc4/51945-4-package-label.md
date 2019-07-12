@@ -1,191 +1,207 @@
 PRINCIPAL DISPLAY PANEL - 4 mL (20%) carton
 
+NDC 63323- 694-04 694104
+
 ACETYLCYSTEINE SOLUTION, USP
 
-(20%) 200 mg/mL
-
-NDC 63323-694-04
-
-25 x 4 mL VIALS
+20% (200 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
 
-Rx only
+25 x 4 mL Vials Rx only
 
 PRINCIPAL DISPLAY PANEL - 4 mL (20%) container
 
+NDC 63323- 694-04 694104
+
 ACETYLCYSTEINE SOLUTION, USP
 
-(20%) 200 mg/mL
-
-NDC 63323-694-04
+20% (200 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
 
-Rx only
+4 mL Vial Rx Only
 
 PRINCIPAL DISPLAY PANEL - 10 mL (20%) carton
 
+NDC 63323- 692-10 692110
+
 ACETYLCYSTEINE SOLUTION, USP
 
-(20%) 200 mg/mL
-
-NDC 63323-692-10
-
-3 x 10 mL VIALS
+20% (200 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
 
-Rx only
+3 x 10 mL Vials Rx only
 
 PRINCIPAL DISPLAY PANEL - 10 mL (20%) container
 
+NDC 63323- 692-10 692110
+
 ACETYLCYSTEINE SOLUTION, USP
 
-(20%) 200 mg/mL
-
-NDC 63323-692-10
+20% (200 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
 
-Rx only
+10 mL Vial
+
+Rx Only
 
 PRINCIPAL DISPLAY PANEL - 30 mL (20%) carton
 
+NDC 63323- 690-30 690130
+
 ACETYLCYSTEINE SOLUTION, USP
 
-(20%) 200 mg/mL
-
-NDC 63323-690-30
-
-3 x 30 mL VIALS
+20% (200 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
+
+3 x 30 mL Vials
 
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 30 mL (20%) container
 
+NDC 63323 -690-30 690130
+
 ACETYLCYSTEINE SOLUTION, USP
 
-(20%) 200 mg/mL
-
-NDC 63323-690-30
+20% (200 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
+
+30 mL VIal
 
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 4 mL (10%) carton
 
-ACETYLCYSTEINE SOLUTION, USP
+NDC 63323- 695-04 695104
 
-(10%) 100 mg/mL
+ACETYLCYSTEINE
 
-NDC 63323-695-04
+SOLUTION, USP
 
-25 x 4 mL VIALS
+10% (100 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
+
+25 x 4 mL Vials
 
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 4 mL (10%) container
 
-ACETYLCYSTEINE SOLUTION, USP
+NDC 63323- 695-04 695104
 
-(10%) 100 mg/mL
+ACETYLCYSTEINE
 
-NDC 63323-695-04
+SOLUTION, USP
+
+10% (100 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
+
+4 mL Vial
 
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 10 mL (10%) carton
 
-ACETYLCYSTEINE SOLUTION, USP
+NDC 63323- 693-10 693110
 
-(10%) 100 mg/mL
+ACETYLCYSTEINE
 
-NDC 63323-693-10
+SOLUTION, USP
 
-3 x 10 mL VIALS
+10% (100 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
+
+3 x 10 mL Vials
 
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 10 mL (10%) container
 
-ACETYLCYSTEINE SOLUTION, USP
+NDC 63323- 693-10 693110
 
-(10%) 100 mg/mL
+ACETYLCYSTEINE
 
-NDC 63323-693-10
+SOLUTION, USP
+
+10% (100 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
 
-Rx only
+10 mL Vial
+
+Rx Only
 
 PRINCIPAL DISPLAY PANEL - 30 mL (10%) carton
 
-ACETYLCYSTEINE SOLUTION, USP
+NDC 63323- 691-30 691130
 
-(10%) 100 mg/mL
+ACETYLCYSTEINE
 
-NDC 63323-691-30
+SOLUTION, USP
 
-3 x 30 mL VIALS
+10% (100 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
 PRESERVATIVE FREE
+
+3 x 30 mL Vials
 
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 30 mL (10%) container
 
-ACETYLCYSTEINE SOLUTION, USP
+NDC 63323- 691-30 691130
 
-(10%) 100 mg/mL
+ACETYLCYSTEINE
 
-NDC 63323-691-30
+SOLUTION, USP
+
+10% (100 mg/mL)
 
 For Inhalation (Mucolytic Agent) or Oral Administration (Acetaminophen Antidote)
 
 NOT FOR INJECTION.
-PRESERVATIVE FREE
+PRESERVATIVE FREE 30 mL Vial
 
 Rx only

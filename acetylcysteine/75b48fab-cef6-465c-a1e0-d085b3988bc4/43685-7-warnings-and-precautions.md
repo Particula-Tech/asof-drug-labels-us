@@ -35,7 +35,7 @@ Long-term oral studies of acetylcysteine alone in rats (12 months of treatment f
 
 Mutagenesis
 
-Published data1 indicate that acetylcysteine is not mutagenic in the Ames test, both with and without metabolic activation.
+Published data 1 indicate that acetylcysteine is not mutagenic in the Ames test, both with and without metabolic activation.
 
 Impairment of Fertility
 
@@ -43,7 +43,8 @@ A reproductive toxicity test to assess potential impairment of fertility was per
 The combination was administered for 25, 30, or 35 minutes twice a day for 68 days before mating, to 200 male and 150 female rats; no adverse effects were noted in dams or pups.
 Females after mating were continued on treatment for the next 42 days.
 
-Reproductive toxicity studies of acetylcysteine in the rat given oral doses of acetylcysteine up to 1,000 mg/kg (5.2 times the human mucolytic dose) have also been reported in the literature.1 The only adverse effect observed was a slight non-dose-related reduction in fertility at dose levels of 500 or 1,000 mg/kg/day (2.6 or 5.2 times the human mucolytic dose) in the Segment I study.
+Reproductive toxicity studies of acetylcysteine in the rat given oral doses of acetylcysteine up to 1,000 mg/kg (5.2 times the human mucolytic dose) have also been reported in the literature.
+1 The only adverse effect observed was a slight non-dose-related reduction in fertility at dose levels of 500 or 1,000 mg/kg/day (2.6 or 5.2 times the human mucolytic dose) in the Segment I study.
 
 Pregnancy
 
