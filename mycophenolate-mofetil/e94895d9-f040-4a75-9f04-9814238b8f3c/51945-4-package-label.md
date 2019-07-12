@@ -1,3 +1,15 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
+Mycophenolate Mofetil Capsules, 250 mg
+
+NDC 0054-0163-25
+
+Rx Only
+
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Mycophenolate Mofetil Tablets, 500 mg
+
+NDC 0054-0166-25
+
+Rx Only

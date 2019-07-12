@@ -1,16 +1,15 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The experience with overdose of mycophenolate mofetil in humans is very limited.
-The events received from reports of overdose fall within the known safety profile of the drug.
-The highest dose administered to renal transplant patients in clinical trials has been 4 g/day.
-In limited experience with cardiac and hepatic transplant patients in clinical trials, the highest doses used were 4 g/day or 5 g/day.
-At doses of 4 g/day or 5 g/day, there appears to be a higher rate, compared to the use of 3 g/day or less, of gastrointestinal intolerance (nausea, vomiting, and/or diarrhea), and occasional hematologic abnormalities, principally neutropenia, leading to a need to reduce or discontinue dosing.
+Possible signs and symptoms of acute overdose include hematological abnormalities such as leukopenia and neutropenia, and gastrointestinal symptoms such as abdominal pain, diarrhea, nausea, vomiting, and dyspepsia.
 
-In acute oral toxicity studies, no deaths occurred in adult mice at doses up to 4000 mg/kg or in adult monkeys at doses up to 1000 mg/kg; these were the highest doses of mycophenolate mofetil tested in these species.
-These doses represent 11 times the recommended clinical dose in renal transplant patients and approximately 7 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
-In adult rats, deaths occurred after single-oral doses of 500 mg/kg of mycophenolate mofetil.
-The dose represents approximately 3 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
+The experience with overdose of mycophenolate mofetil in humans is limited.
+The reported effects associated with overdose fall within the known safety profile of the drug.
+The highest dose administered to kidney transplant patients in clinical trials has been 4 g/day.
+In limited experience with heart and liver transplant patients in clinical trials, the highest doses used were 4 g/day or 5 g/day.
+At doses of 4 g/day or 5 g/day, there appears to be a higher rate, compared to the use of 3 g/day or less, of gastrointestinal intolerance (nausea, vomiting, and/or diarrhea), and occasional hematologic abnormalities, particularly neutropenia [see Warnings and Precautions (5.4)].
 
-MPA and MPAG are usually not removed by hemodialysis.
-However, at high MPAG plasma concentrations (>100 mcg/mL), small amounts of MPAG are removed.
-By increasing excretion of the drug, MPA can be removed by bile acid sequestrants, such as cholestyramine (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
+Treatment and Management:
+
+MPA and the phenolic glucuronide metabolite of MPA (MPAG) are usually not removed by hemodialysis.
+However, at high MPAG plasma concentrations (>100 g/mL), small amounts of MPAG are removed.
+By increasing excretion of the drug, MPA can be removed by bile acid sequestrants, such as cholestyramine [see Clinical Pharmacology(12.3)].
