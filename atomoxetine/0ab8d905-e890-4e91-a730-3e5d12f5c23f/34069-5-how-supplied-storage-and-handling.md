@@ -15,4 +15,4 @@
 
 ## 16.2 Storage and Handling
 
-1. Store at 20o to 25oC (68o to 77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
+- Store at 20o to 25oC (68o to 77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
