@@ -33,12 +33,8 @@ Tell your healthcare provider right away if you have any of the symptoms listed 
 
 What is REBIF?
 
-REBIF is a prescription medicine used to treat adults with relapsing forms of multiple sclerosis (MS).
+REBIF is a prescription medicine used to treat relapsing forms of multiple sclerosis, to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.
 It is a form of protein called beta interferon that is produced in the body.
-
-REBIF will not cure your MS but may decrease the number of flare-ups of the disease and slow the occurrence of some of the physical disability that is common in people with MS.
-
-The way REBIF works in MS is not known.
 
 It is not known if REBIF is safe and effective in children.
 
@@ -160,3 +156,7 @@ What are the ingredients in REBIF?
 Active ingredient: interferon beta-1a
 
 Inactive ingredients: albumin (human), mannitol, sodium acetate, water for injection
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+07/2019

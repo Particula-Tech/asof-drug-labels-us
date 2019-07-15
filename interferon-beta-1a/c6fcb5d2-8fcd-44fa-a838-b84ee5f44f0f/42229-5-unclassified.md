@@ -4,11 +4,9 @@ Marketed by:
 
 EMD Serono, Inc. Rockland, MA 02370
 
-Revised: 11/2015
+Revised: 07/2019
 
 *AVONEX is a registered trademark of Biogen
-
-N67Z0104G
 
 This Instructions for Use has been approved by the Food and Drug Administration.
 

@@ -3,7 +3,7 @@
 Two multicenter studies evaluated the safety and efficacy of REBIF in patients with relapsing-remitting multiple sclerosis.
 
 Study 1 was a randomized, double-blind, placebo controlled study in patients with multiple sclerosis for at least one year, Kurtzke Expanded Disability Status Scale (EDSS) scores ranging from 0 to 5, and at least 2 acute exacerbations in the previous 2 years.
-Patients with secondary progressive multiple sclerosis were excluded from the study.
+Patients with chronic progressive forms of multiple sclerosis were excluded from the study.
 Patients received subcutaneous injections of either placebo (n = 187), REBIF 22 mcg (n = 189), or REBIF 44 mcg (n = 184) administered three times per week for two years.
 Doses of study agents were progressively increased to their target doses during the first 4 to 8 weeks for each patient in the study [see Dosage and Administration (2.1)].
 
@@ -18,10 +18,6 @@ Of the 560 patients enrolled, 533 (95%) provided 2 years of data and 502 (90%) r
 Study results are shown in Table 4 and Figure 1.
 REBIF at doses of 22 mcg and 44 mcg administered three times per week significantly reduced the number of exacerbations per patient as compared to placebo.
 Differences between the 22 mcg and 44 mcg groups were not significant (p >0.05).
-
-The exact relationship between MRI findings and the clinical status of patients is unknown.
-Changes in lesion area often do not correlate with changes in disability progression.
-The prognostic significance of the MRI findings in these studies has not been evaluated.
 
 Table 4: Clinical and MRI Endpoints from Study 1
 
@@ -42,11 +38,9 @@ The Kaplan-Meier estimates of the proportions of patients with sustained disabil
 
 Figure 1: Proportions of Patients with Sustained Disability Progression
 
-The safety and efficacy of treatment with REBIF beyond 2 years have not been established.
-
 Study 2 was a randomized, open-label, evaluator-blinded, active comparator study.
 Patients with relapsing-remitting multiple sclerosis with EDSS scores ranging from 0 to 5.5, and at least 2 exacerbations in the previous 2 years were eligible for inclusion.
-Patients with secondary progressive multiple sclerosis were excluded from the study.
+Patients with chronic progressive forms of multiple sclerosis were excluded from the study.
 Patients were randomized to treatment with three times per week subcutaneous injections of REBIF 44 mcg (n=339) or once weekly intramuscular injections of 30 mcg AVONEX (n=338).
 Study duration was 48 weeks.
 
