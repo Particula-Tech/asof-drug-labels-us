@@ -1,23 +1,19 @@
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Label
 
-4 mL Fill in 5 mL Vial Single dose Fliptop Vial
-
-NDC 0409-3375-04 LV45
+4 mL Fill in 5 mL Vial NDC 0409-3375-14 Single dose Fliptop Vial Rx only
 
 Levophed® norepinephrine bitartrate injection, USP 4 mg/4mL (1 mg/mL)
 
-FOR IV INFUSION ONLY Warning: Contains Sulfites.
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-Rx only
+FOR INTRAVENOUS INFUSION ONLY Warning: Contains Sulfites.
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
 
-4 mL 10 Single dose Fliptop Vials STERILE INJECTION NDC 0409-3375-04
+4 mL 10 Single dose Fliptop Vials STERILE INJECTION NDC 0409-3375-04 Contains 10 of NDC 0409-3375-14
 
-Levophed® norepinephrine bitartrate injection, USP 4 mg/4 mL 1 mg per mL
+Levophed® norepinephrine bitartrate injection, USP
 
-Rx only
+4 mg/4 mL (1 mg/mL) Rx only
 
 Warning: This is a potent drug.
 Dosage should be controlled by frequent determination of blood pressure.
