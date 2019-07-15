@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211082"
+  ],
+  "inn": "ranolazine",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-319-05",
+    "68462-319-60",
+    "68462-320-05",
+    "68462-320-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "ranolazine",
+      "name": "Ranolazine"
+    }
+  ],
+  "setid": "0cf58732-c242-49b0-8e3f-248778b4458d",
+  "source": "dailymed"
+}
