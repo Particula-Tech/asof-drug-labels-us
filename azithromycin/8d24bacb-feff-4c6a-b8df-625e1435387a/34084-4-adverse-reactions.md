@@ -35,7 +35,7 @@ Special senses: Taste perversion.
 The following adverse reactions have been identified during post-approval use of azithromycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported with azithromycin during the post-marketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
+Adverse reactions reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
 
 Allergic: Arthralgia, edema, urticaria and angioedema.
 

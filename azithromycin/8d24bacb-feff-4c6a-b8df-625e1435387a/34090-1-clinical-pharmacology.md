@@ -62,17 +62,17 @@ Biliary excretion is a major route of elimination for unchanged drug, following 
 
 Specific Populations
 
-Renal Insufficiency
+Patients with Renal Impairment
 
 Azithromycin pharmacokinetics were investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
 Following the oral administration of a single 1,000 mg dose of azithromycin, mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0–120 increased 61% and 35%, respectively in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been established.
 
-Gender
+Male and Female Patients
 
 There are no significant differences in the disposition of azithromycin between male and female subjects.
 No dosage adjustment is recommended based on gender.
@@ -81,13 +81,13 @@ Geriatric Patients
 
 Pharmacokinetic studies with intravenous azithromycin have not been performed in older volunteers.
 Pharmacokinetics of azithromycin following oral administration in older volunteers (65–85 years old) were similar to those in younger volunteers (18–40 years old) for the 5-day therapeutic regimen.
-[see Geriatric Use 8.5)]
+[see Geriatric Use (8.5)]
 
 Pediatric Patients
 
 Pharmacokinetic studies with intravenous azithromycin have not been performed in children.
 
-Drug-drug Interactions
+Drug Interaction Studies
 
 Drug interaction studies were performed with oral azithromycin and other drugs likely to be co-administered.
 The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
@@ -117,7 +117,7 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 0.90 (0.81 to 1.01) | 0.85 (0.78 to 0.93) |
 | Sildenafil | 100 mg on days 1 and 4 | 500 mg/day orally for 3 days | 12 | 1.16 (0.86 to 1.57) | 0.92 (0.75 to 1.12) |
 | Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
-| Theophylline | 300 mg orally BID ×15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
+| Theophylline | 300 mg orally BID × 15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
 | Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95/ 0.96 (0.88 to 1.03) |
 | Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
