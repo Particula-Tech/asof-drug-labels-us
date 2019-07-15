@@ -40,12 +40,12 @@ Behaviors of concern should be reported immediately to healthcare providers [see
 
 Use in Pregnancy
 
-Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1, 8.3)].
+Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breastfeeding or intend to breastfeed during therapy [see Use in Specific Populations (8.1, 8.3)].
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/[see Use in Specific Populations (8.1)].
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
 Withdrawal of Vigabatrin for Oral Solution Therapy
 

@@ -130,7 +130,7 @@ Pediatrics 10 to 16 years of age
 
 Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving vigabatrin or placebo as add-on therapy for refractory complex partial seizures.
 Adverse reactions that are listed occurred in at least 2% of vigabatrin treated patients and more frequently than placebo.
-The median vigabatrin dose was 49.4 mg/kg (range of 8.0 – 105.9 mg/kg).
+The median vigabatrin dose was 49.4 mg/kg (range of 8.0 to 105.9 mg/kg).
 
 Table 6.
 Adverse Reactions in Pooled, Add-On Trials in Pediatric Patients 10 to 16 Years of Age with Refractory Complex Partial Seizures
@@ -170,7 +170,7 @@ Infantile Spasms
 
 In a randomized, placebo-controlled IS study with a 5 day double-blind treatment phase (n=40), the adverse reactions that occurred in >5% of patients receiving vigabatrin and that occurred more frequently than in placebo patients were somnolence (vigabatrin 45%, placebo 30%), bronchitis (vigabatrin 30%, placebo 15%), ear infection (vigabatrin 10%, placebo 5%), and acute otitis media (vigabatrin 10%, placebo 0%).
 
-In a dose response study of low-dose (18-36 mg/kg/day) versus high-dose (100-148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse reactions was observed.
+In a dose response study of low-dose (18 to 36 mg/kg/day) versus high-dose (100 to 148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse reactions was observed.
 The adverse reactions (≥5% in either dose group) are summarized in Table 7.
 
 Table 7.
@@ -240,4 +240,4 @@ Psychiatric Disorders: Acute psychosis, apathy, delirium, hypomania, neonatal ag
 
 Respiratory Disorders: Laryngeal edema, pulmonary embolism, respiratory failure, stridor
 
-Skin and Subcutaneous Tissue Disorders: Angioedema, maculo-papular rash, pruritus, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)
+Skin and Subcutaneous Tissue Disorders: Angioedema, maculo-papular rash, pruritus, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), alopecia

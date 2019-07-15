@@ -43,7 +43,7 @@ Patients weighing more than 60 kg should be dosed according to adult recommendat
 Table 1.
 Pediatric CPS Dosing Recommendations
 
-| Body Weight[kg] | Total Daily*Starting Dose[mg/day] | Total Daily*Maintenance Dose†[mg/day] |
+| Body Weight [kg] | Total Daily*Starting Dose [mg/day] | Total Daily*Maintenance Dose† [mg/day] |
 | --- | --- | --- |
 | 25 to 60†† | 500 | 2000 |
 
@@ -103,7 +103,7 @@ Adult and pediatric patients 10 years and older
 - Moderate renal impairment (CLcr >30 to 50 mL/min): dose should be decreased by 50%
 - Severe renal impairment (CLcr >10 to 30 mL/min): dose should be decreased by 75%
 
-CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the following formulas
+CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the following formulas:
 
 - Patients 10 to <12 years old: CLcr (mL/min/1.73 m2) = (K × Ht) / Scr
 
@@ -113,7 +113,7 @@ K (proportionality constant): Female Child (<12 years): K=0.55;
 
 Male Child (<12 years): K=0.70
 
-- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serumcreatinine (mg/dL)] (×0.85 for female patients)
+- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (×0.85 for female patients)
 
 The effect of dialysis on vigabatrin for oral solution clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
 
@@ -132,7 +132,7 @@ The concentration after reconstitution is 50 mg/mL.
 Table 3.
 Number of Vigabatrin for Oral Solution Packets and mL of Water Needed for Each Individual Dose
 
-| Individual Dose [mg][Given Twice Daily] | Total Number ofVigabatrin for Oral Solution Packets | Total mL of WaterRequired for Dissolving |
+| Individual Dose [mg][Given Twice Daily] | Total Number of Vigabatrin for Oral Solution Packets | Total mL of WaterRequired for Dissolving |
 | --- | --- | --- |
 | 0 to 500 | 1 Packet | 10 mL |
 | 501 to 1000 | 2 Packet | 20 mL |

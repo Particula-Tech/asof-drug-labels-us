@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanism of vigabatrin's anti-seizure effect is unknown, but it is believed to be the result of its action as an irreversible inhibitor of y-aminobutyric acid transaminase (GABA-T), the enzyme responsible for the metabolism of the inhibitory neurotransmitter GABA.
+The precise mechanism of vigabatrin’s anti-seizure effect is unknown, but it is believed to be the result of its action as an irreversible inhibitor of γ-aminobutyric acid transaminase (GABA-T), the enzyme responsible for the metabolism of the inhibitory neurotransmitter GABA.
 This action results in increased levels of GABA in the central nervous system.
 
 No direct correlation between plasma concentration and efficacy has been established.

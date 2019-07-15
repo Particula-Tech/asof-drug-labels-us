@@ -53,13 +53,13 @@ It is possible that vision loss can worsen despite discontinuation of vigabatrin
 
 Vigabatrin is available only through a restricted distribution program called the Vigabatrin REMS Program, because of the risk of permanent vision loss.
 
-Notable requirements of the Vigabatrin REMS Program include the following:.
+Notable requirements of the Vigabatrin REMS Program include the following:
 
 - Prescribers must be certified by enrolling in the program, agreeing to counsel patients on the risk of vision loss and the need for periodic monitoring of vision, and reporting any event suggestive of vision loss to Vigabatrin REMS Program.
 - Patients must enroll in the program.
 - Pharmacies must be certified and must only dispense to patients authorized to receive vigabatrin.
 
-Further information is available at www.vigabatrinREMS.com or call 1-866-244-8175.
+Further information is available at www.vigabatrinREMS.com, or call 1-866-244-8175.
 
 ## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities in Infants
 
@@ -71,7 +71,7 @@ In a few patients, the lesion resolved despite continued use.
 It has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
 
 Neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development, and brain histopathological changes were observed in dogs exposed to vigabatrin during the juvenile period of development.
-The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warningsand Precautions (5.4) and Use in Specific Populations (8.1)].
+The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
 The specific pattern of signal changes observed in IS patients was not observed in older pediatric and adult patients treated with vigabatrin for refractory CPS.
 In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory CPS 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo treated patients.
@@ -121,12 +121,9 @@ Table 4 shows absolute and relative risk by indication for all evaluated AEDs.
 Table 4.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events per 1000 Patients | Drug Patientswith Events per 1000 Patients | Relative Risk:Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
-| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1.0 | 1.8 | 1.9 | 0.9 |
-| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+| EpilepsyPsychiatricOtherTotal | 1.05.71.02.4 | 3.48.51.84.3 | 3.51.51.91.8 | 2.42.90.91.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
@@ -147,7 +144,7 @@ In controlled clinical studies in adults with complex partial seizures, vigabatr
 
 In a controlled study in pediatric patients with complex partial seizures, vigabatrin was tapered by decreasing the daily dose by one third every week for three weeks.
 
-In a controlled clinical study in patients with infantile spasms, vigabatrin was tapered by decreasing the daily dose at a rate of 25-50 mg/kg every 3-4 days.
+In a controlled clinical study in patients with infantile spasms, vigabatrin was tapered by decreasing the daily dose at a rate of 25 to 50 mg/kg every 3-4 days.
 
 ## 5.7 Anemia
 

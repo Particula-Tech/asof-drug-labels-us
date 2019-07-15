@@ -27,7 +27,7 @@ Pregnancy Registry
 
 To provide information regarding the effects of in utero exposure to vigabatrin, physicians are advised to recommend that pregnant patients taking vigabatrin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org.
 
 ## 8.3 Nursing Mothers
 
@@ -66,7 +66,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 Oral administration of a single dose of 1.5 g of vigabatrin to elderly (≥65 years) patients with reduced creatinine clearance (<50 mL/min) was associated with moderate to severe sedation and confusion in 4 of 5 patients, lasting up to 5 days.
 The renal clearance of vigabatrin was 36% lower in healthy elderly subjects (≥65 years) than in young healthy males.
 Adjustment of dose or frequency of administration should be considered.
-Such patients may respond to a lower maintenance dose [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3].
+Such patients may respond to a lower maintenance dose [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 

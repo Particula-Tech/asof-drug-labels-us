@@ -84,8 +84,8 @@ The data from all three pediatric studies were pooled and used in a pharmacometr
 All three studies were randomized, double-blind, placebo-controlled, parallel-group, adjunctive-treatment studies in patients aged 3-16 years with uncontrolled complex partial seizures with or without secondary generalization.
 The study period included a 6 to 10 week baseline phase and a 14 to 17 week treatment phase (composed of a titration and maintenance period).
 
-The pharmacometric bridging approach consisted of defining a weight-normalized dose-response, and showing that a similar dose­response relationship exists between pediatric patients and adult patients when vigabatrin was given as adjunctive therapy for complex partial seizures.
-Dosing recommendations in pediatric patients 10 to 16 years of age were derived from simulations utilizing these phamacometric dose-response analyses [see Dosage and Administration (2.2)}.
+The pharmacometric bridging approach consisted of defining a weight-normalized dose-response, and showing that a similar dose-response relationship exists between pediatric patients and adult patients when vigabatrin was given as adjunctive therapy for complex partial seizures.
+Dosing recommendations in pediatric patients 10 to 16 years of age were derived from simulations utilizing these pharmacometric dose-response analyses [see Dosage and Administration (2.2)].
 
 ## 14.2 Infantile Spasms
 
@@ -97,9 +97,9 @@ Study 1
 Study 1 (N=221) was a multicenter, randomized, low-dose high-dose, parallel-group, partially-blind (caregivers knew the actual dose but not whether their child was classified as low or high dose; EEG reader was blinded but investigators were not blinded) study to evaluate the safety and efficacy of vigabatrin in patients <2 years of age with new-onset infantile spasms.
 Patients with both symptomatic and cryptogenic etiologies were studied.
 The study was comprised of two phases.
-The first phase was a 14 to 21 day partially-blind phase in which patients were randomized to receive either low-dose (18-36 mg/kg/day) or high-dose (100-148 mg/kg/day) vigabatrin.
+The first phase was a 14 to 21 day partially-blind phase in which patients were randomized to receive either low-dose (18 to 36 mg/kg/day) or high-dose (100 to 148 mg/kg/day) vigabatrin.
 Study drug was titrated over 7 days, followed by a constant dose for 7 days.
-If the patient became spasm­free on or before day 14, another 7 days of constant dose was administered.
+If the patient became spasm-free on or before day 14, another 7 days of constant dose was administered.
 The primary efficacy endpoint of this study was the proportion of patients who were spasm-free for 7 consecutive days beginning within the first 14 days of vigabatrin therapy.
 Patients considered spasm-free were defined as those patients who remained free of spasms (evaluated according to caregiver response to direct questioning regarding spasm frequency) and who had no indication of spasms or hypsarrhythmia during 8 hours of CCTV EEG recording (including at least one sleep-wake-sleep cycle) performed within 3 days of the seventh day of spasm freedom and interpreted by a blinded EEG reader.
 Seventeen patients in the high-dose group achieved spasm freedom compared with 8 patients in the low dose group.
@@ -109,10 +109,10 @@ Primary efficacy results are shown in Table 10.
 Table 10.
 Spasm Freedom by Primary Criteria (Study 1)
 
-| Vigabatrin Treatment Group |  |
-| --- | --- |
-| 18 to 36 mg/kg/day [N=114] n (%) | 100 to 148 mg/kg/day [N=107] n (%) |
-| Patients who Achieved Spasm Freedom 8 (7.0) | 17 (15.9) |
+| Vigabatrin Treatment Group |  |  |
+| --- | --- | --- |
+|  | 18 to 36 mg/kg/day [N=114]n (%) | 100 to 148 mg/kg/day [N=107]n (%) |
+| Patients who Achieved Spasm Freedom | 8 (7.0) | 17 (15.9) |
 
 p=0.0375
 

@@ -26,40 +26,28 @@ If this happens, it will not get better.
 Tell your healthcare provider right away if you (or your child):
 
 - might not be seeing as well as before starting vigabatrin for oral solution
-
 - start to trip, bump into things, or are more clumsy than usual
-
 - are surprised by people or things coming in front of you that seem to come out of nowhere
 
 - These changes can mean that you (or your child) have damage to your vision.
-
 - It is recommended that your healthcare provider test your (or your child’s) vision (including peripheral vision) and visual acuity (ability to read an eye chart) before you (or your child) start vigabatrin for oral solution or within 4 weeks after starting vigabatrin for oral solution, and at least every 3 months after that until vigabatrin for oral solution is stopped.
   It is also recommended that you (or your child) have a vision test about 3 to 6 months after vigabatrin for oral solution is stopped.
-
 - Some people are not able to complete testing of vision.
   Your healthcare provider will determine if you (or your child) can be tested.
   If you (or your child) cannot complete vision testing, your healthcare provider may continue prescribing vigabatrin for oral solution, but your healthcare provider will not be able to watch for any vision loss you (or your child) may get.
-
 - Even if your vision (or your child’s vision) seems fine, it is important that you get these regular vision tests because vision damage can happen before you (or your child) notice any changes.
-
 - These vision tests cannot prevent the vision damage that can happen with vigabatrin for oral solution, but they do allow the healthcare provider to decide if you (or your child) should stop vigabatrin for oral solution if vision has gotten worse, which usually will lessen further damage.
-
 - If you do not have these vision tests regularly, your healthcare provider may stop prescribing vigabatrin for oral solution.
-
 - If you drive and your vision is damaged by vigabatrin for oral solution, driving might be more dangerous, or you may not be able to drive safely at all.
   Talk about this with your healthcare provider.
-
 - Vision loss in babies: Because of the risk of vision loss, vigabatrin for oral solution is used in babies 1 month to 2 years of age with infantile spasms (IS) only when you and your healthcare provider decide that the possible benefits of vigabatrin for oral solution are more important than the risks.
-
-- Parents or caregivers are not likely to recognize the symptoms of vision loss in babies until it is severe.
-  Healthcare providers may not find vision loss in babies until it is severe.
-
-- It is difficult to test vision in babies, but, to the extent possible, all babies should have their vision tested before starting vigabatrin for oral solution or within 4 weeks after starting vigabatrin for oral solution, and every 3 months after that until vigabatrin for oral solution is stopped.
-  Your baby should also have a vision test about 3 to 6 months after vigabatrin for oral solution is stopped.
-
-- Your baby may not be able to be tested.
-  Your healthcare provider will determine if your baby can be tested.
-  If your baby cannot be tested, your healthcare provider may continue prescribing vigabatrin for oral solution, but your healthcare provider will not be able to watch for any vision loss.
+  - Parents or caregivers are not likely to recognize the symptoms of vision loss in babies until it is severe.
+    Healthcare providers may not find vision loss in babies until it is severe.
+  - It is difficult to test vision in babies, but, to the extent possible, all babies should have their vision tested before starting vigabatrin for oral solution or within 4 weeks after starting vigabatrin for oral solution, and every 3 months after that until vigabatrin for oral solution is stopped.
+    Your baby should also have a vision test about 3 to 6 months after vigabatrin for oral solution is stopped.
+  - Your baby may not be able to be tested.
+    Your healthcare provider will determine if your baby can be tested.
+    If your baby cannot be tested, your healthcare provider may continue prescribing vigabatrin for oral solution, but your healthcare provider will not be able to watch for any vision loss.
 
 Tell your healthcare provider right away if you think that your baby is:
 
@@ -69,7 +57,7 @@ Tell your healthcare provider right away if you think that your baby is:
 - Even if your baby’s vision seems fine, it is important to get regular vision tests because damage can happen before your baby acts differently.
   Even these regular vision exams may not show the damage to your baby’s vision before it is serious and permanent.
 
-| All people who take vigabatrin for oral solution: You are at risk for permanent vision loss with any amount of vigabatrin for oral solution.Your risk of vision loss may be higher the more vigabatrin for oral solution you take daily and the longer you take it.It is not possible for your healthcare provider to know when vision loss will happen. It could happen soon after starting vigabatrin for oral solution or any time during treatment. It may even happen after treatment has stopped. |
+| All people who take vigabatrin for oral solution: You are at risk for permanent vision loss with any amount of vigabatrin for oral solution. Your risk of vision loss may be higher the more vigabatrin for oral solution you take daily and the longer you take it.It is not possible for your healthcare provider to know when vision loss will happen. It could happen soon after starting vigabatrin for oral solution or any time during treatment. It may even happen after treatment has stopped. |
 | --- |
 
 - Because vigabatrin for oral solution might cause permanent vision loss, it is available to healthcare providers and patients only under a special program called the Vigabatrin Risk Evaluation and Mitigation Strategy (REMS) Program.
@@ -120,10 +108,9 @@ What is vigabatrin for oral solution?
 - Vigabatrin for oral solution is a prescription medicine used along with other treatments to treat adults and children 10 years and older with complex partial seizures (CPS) if:
 
 - The CPS does not respond well enough to several other treatments, and
-
 - You and your healthcare provider decide the possible benefit of taking vigabatrin for oral solution is more important than the risk of vision loss.
 
-Vigabatrin for oral solution should not be the first medicine used to treat CPS.
+- Vigabatrin for oral solution should not be the first medicine used to treat CPS.
 
 - Vigabatrin for oral solution is also used to treat babies 1 month to 2 years of age who have infantile spasms (IS) if you and your healthcare provider decide the possible benefits of taking vigabatrin for oral solution are more important than the possible risk of vision loss.
 
@@ -139,7 +126,7 @@ If you or your child has CPS, before taking vigabatrin for oral solution tell yo
 - any nervous or mental illnesses, such as depression, thoughts of suicide, or attempts at suicide
 - any other medical conditions
 - are breastfeeding or planning to breastfeed.
-  Vigabatrin can pass into breast milk and may harm your baby.
+  Vigabatrin for oral solution can pass into breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take vigabatrin for oral solution.
 - are pregnant or plan to become pregnant.
   It is not known if vigabatrin for oral solution will harm your unborn baby.
@@ -162,7 +149,7 @@ Vigabatrin for oral solution and other medicines may affect each other causing s
 
 How should I take vigabatrin for oral solution?
 
-- Vigabatrin come as powder for oral solution.
+- Vigabatrin comes as powder for oral solution.
 - You or your child will receive vigabatrin for oral solution from a specialty pharmacy.
 - Take vigabatrin for oral solution exactly as your healthcare provider tells you to.
   Vigabatrin for oral solution is usually taken 2 times each day.
@@ -180,7 +167,7 @@ How should I take vigabatrin for oral solution?
   If vigabatrin for oral solution improves your (or your child’s) seizures, you and your healthcare provider should talk about whether the benefit of taking vigabatrin for oral solution is more important than the risk of vision loss, and decide if you (or your child) will continue to take vigabatrin for oral solution.
 - If you are giving vigabatrin for oral solution to your child, it can be given at the same time as their meal.
   Vigabatrin for oral solution powder should be mixed with water only.
-- See “Instructions for Use” for detailed information about how to mix and give Vigabatrin for oral solution to your baby the right way.
+- See “Instructions for Use” for detailed information about how to mix and give vigabatrin for oral solution to your baby the right way.
 
 What should I avoid while taking vigabatrin for oral solution?
 
@@ -222,10 +209,10 @@ The most common side effects of vigabatrin for oral solution in adults include:
 The most common side effects of vigabatrin for oral solution in children 10 to 16 years of age include:
 
 - weight gain
-- upper respiratory tract infection
 - tiredness
-- aggression
 - Also expect side effects like those seen in adults
+- upper respiratory tract infection
+- aggression
 
 If you are giving vigabatrin for oral solution to your baby for IS:
 
@@ -237,8 +224,8 @@ The most common side effects of vigabatrin for oral solution in babies include:
 
 - sleepiness - vigabatrin for oral solution may cause your baby to be sleepy.
   Sleepy babies may have a harder time suckling and feeding, or may be irritable.
-- swelling in the bronchial tubes (bronchitis)
 - ear infection
+- swelling in the bronchial tubes (bronchitis)
 - irritability
 
 Tell your healthcare provider if you or your child have any side effect that bothers you or that does not go away.
