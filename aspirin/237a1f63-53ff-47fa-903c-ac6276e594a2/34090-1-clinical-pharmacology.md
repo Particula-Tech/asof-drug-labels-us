@@ -6,12 +6,12 @@ The antithrombotic action of aspirin and extended-release dipyridamole is the re
 
 Dipyridamole
 
-Dipyridamole inhibits the uptake of adenosine into platelets, endothelial cells and erythrocytes in vitro and in vivo; the inhibition occurs in a dose-dependent manner at therapeutic concentrations (0.5 to1.9 mcg/mL).
+Dipyridamole inhibits the uptake of adenosine into platelets, endothelial cells and erythrocytes in vitro and in vivo; the inhibition occurs in a dose-dependent manner at therapeutic concentrations (0.5 to 1.9 mcg/mL).
 This inhibition results in an increase in local concentrations of adenosine which acts on the platelet A2-receptor thereby stimulating platelet adenylate cyclase and increasing platelet cyclic-3',5'-adenosine monophosphate (cAMP) levels.
 Via this mechanism, platelet aggregation is inhibited in response to various stimuli such as platelet activating factor (PAF), collagen and adenosine diphosphate (ADP).
 
 Dipyridamole inhibits phosphodiesterase (PDE) in various tissues.
-While the inhibition of cAMP-PDE is weak, therapeutic levels of dipyridamole inhibit cyclic-3',5'­ guanosine monophosphate-PDE (cGMP-PDE), thereby augmenting the increase in cGMP produced by EDRF (endothelium-derived relaxing factor, now identified as nitric oxide).
+While the inhibition of cAMP-PDE is weak, therapeutic levels of dipyridamole inhibit cyclic-3',5'­-guanosine monophosphate-PDE (cGMP-PDE), thereby augmenting the increase in cGMP produced by EDRF (endothelium-derived relaxing factor, now identified as nitric oxide).
 
 Aspirin
 
@@ -26,48 +26,14 @@ The effect of either agent on the other's inhibition of platelet reactivity has 
 There are no significant interactions between aspirin and dipyridamole.
 The kinetics of the components are unchanged by their coadministration as aspirin and extended-release dipyridamole.
 
-Dipyridamole
-
 Absorption
+
+Dipyridamole:
 
 Peak plasma levels of dipyridamole are achieved 2 hours (range 1 to 6 hours) after administration of a daily dose of 400 mg aspirin and extended-release dipyridamole (given as 200 mg BID).
-The peak plasma concentration at steady-state is 1.98 mcg/mL (1.01 to 3.99 mcg/mL) and the steady-state trough concentration is 0.53 mcg/mL (0.18 to1.01 mcg /mL).
+The peak plasma concentration at steady-state is 1.98 mcg/mL (1.01 to 3.99 mcg/mL) and the steady-state trough concentration is 0.53 mcg/mL (0.18 to 1.01 mcg/mL).
 
-Effect of Food
-
-When aspirin and extended-release dipyridamole capsules were taken with a high fat meal, dipyridamole peak plasma levels (Cmax) and total absorption (AUC) were decreased at steady-state by 20 to 30% compared to fasting.
-Due to the similar degree of inhibition of adenosine uptake at these plasma concentrations, this food effect is not considered clinically relevant.
-
-Distribution
-
-Dipyridamole is highly lipophilic (log P=3.71, pH=7); however, it has been shown that the drug does not cross the blood-brain barrier to any significant extent in animals.
-The steady-state volume of distribution of dipyridamole is about 92 L. Approximately 99% of dipyridamole is bound to plasma proteins, predominantly to alpha 1-acid glycoprotein and albumin.
-
-Metabolism and Elimination
-
-Dipyridamole is metabolized in the liver, primarily by conjugation with glucuronic acid, of which monoglucuronide which has low pharmacodynamic activity is the primary metabolite.
-In plasma, about 80% of the total amount is present as parent compound and 20% as monoglucuronide.
-Most of the glucuronide metabolite (about 95%) is excreted via bile into the feces, with some evidence of enterohepatic circulation.
-Renal excretion of parent compound is negligible and urinary excretion of the glucuronide metabolite is low (about 5%).
-With intravenous (i.v.) treatment of dipyridamole, a triphasic profile is obtained: a rapid alpha phase, with a half-life of about 3.4 minutes, a beta phase, with a half-life of about 39 minutes, (which, together with the alpha phase accounts for about 70% of the total area under the curve, AUC) and a prolonged elimination phase λz with a half-life of about 15.5 hours.
-Due to the extended absorption phase of the dipyridamole component, only the terminal phase is apparent from oral treatment with aspirin and extended-release dipyridamole which, in Trial 9.123 was 13.6 hours.
-
-Special Populations
-
-Geriatric Patients: In ESPS2[see CLINICAL STUDIES (14)], plasma concentrations (determined as AUC) of dipyridamole in healthy elderly subjects (>65 years) were about 40% higher than in subjects younger than 55 years receiving treatment with aspirin and extended-release dipyridamole.
-
-Hepatic Dysfunction: No study has been conducted with aspirin and extended-release dipyridamole in patients with hepatic dysfunction.
-
-In a study conducted with an intravenous formulation of dipyridamole, patients with mild to severe hepatic insufficiency showed no change in plasma concentrations of dipyridamole but showed an increase in the pharmacologically inactive monoglucuronide metabolite.
-Dipyridamole can be dosed without restriction as long as there is no evidence of hepatic failure.
-
-Renal Dysfunction: No study has been conducted with aspirin and extended-release dipyridamole in patients with renal dysfunction.
-
-In ESPS2 patients [see CLINICAL STUDIES (14)], with creatinine clearances ranging from about 15 mL/min to >100 mL/min, no changes were observed in the pharmacokinetics of dipyridamole or its glucuronide metabolite if data were corrected for differences in age.
-
-Aspirin
-
-Absorption
+Aspirin:
 
 Peak plasma levels of aspirin are achieved 0.63 hours (0.5 to 1 hour) after administration of a 50 mg aspirin daily dose from aspirin and extended-release dipyridamole (given as 25 mg BID).
 The peak plasma concentration at steady-state is 319 ng/mL (175 to 463 ng/mL).
@@ -75,16 +41,41 @@ Aspirin undergoes moderate hydrolysis to salicylic acid in the liver and the gas
 
 Effect of Food
 
+Dipyridamole:
+
+When aspirin and extended-release dipyridamole capsules were taken with a high fat meal, dipyridamole peak plasma levels (Cmax) and total absorption (AUC) were decreased at steady-state by 20 to 30% compared to fasting.
+Due to the similar degree of inhibition of adenosine uptake at these plasma concentrations, this food effect is not considered clinically relevant.
+
+Aspirin:
+
 When aspirin and extended-release dipyridamole capsules were taken with a high fat meal, there was no difference for aspirin in AUC at steady-state, and the approximately 50% decrease in Cmax was not considered clinically relevant based on a similar degree of cyclooxygenase inhibition comparing the fed and fasted state.
 
 Distribution
 
+Dipyridamole:
+
+Dipyridamole is highly lipophilic (log P=3.71, pH=7); however, it has been shown that the drug does not cross the blood-brain barrier to any significant extent in animals.
+The steady-state volume of distribution of dipyridamole is about 92 L. Approximately 99% of dipyridamole is bound to plasma proteins, predominantly to alpha 1-acid glycoprotein and albumin.
+
+Aspirin:
+
 Aspirin is poorly bound to plasma proteins and its apparent volume of distribution is low (10 L). Its metabolite, salicylic acid, is highly bound to plasma proteins, but its binding is concentration-dependent (nonlinear).
 At low concentrations (<100 mcg/mL), approximately 90% of salicylic acid is bound to albumin.
 Salicylic acid is widely distributed to all tissues and fluids in the body, including the central nervous system, breast milk, and fetal tissues.
-Early signs of salicylate overdose (salicylism), including tinnitus (ringing in the ears), occur at plasma concentrations approximating 200 mcg/mL [see ADVERSE REACTIONS (6)andOVERDOSAGE (10)].
+Early signs of salicylate overdose (salicylism), including tinnitus (ringing in the ears), occur at plasma concentrations approximating 200 mcg/mL [see Overdosage (10)].
 
 Metabolism and Elimination
+
+Dipyridamole:
+
+Dipyridamole is metabolized in the liver, primarily by conjugation with glucuronic acid, of which monoglucuronide which has low pharmacodynamic activity is the primary metabolite.
+In plasma, about 80% of the total amount is present as parent compound and 20% as monoglucuronide.
+Most of the glucuronide metabolite (about 95%) is excreted via bile into the feces, with some evidence of enterohepatic circulation.
+Renal excretion of parent compound is negligible and urinary excretion of the glucuronide metabolite is low (about 5%).
+With intravenous (i.v.) treatment of dipyridamole, a triphasic profile is obtained: a rapid alpha phase, with a half-life of about 3.4 minutes, a beta phase, with a half-life of about 39 minutes, (which, together with the alpha phase accounts for about 70% of the total area under the curve, AUC) and a prolonged elimination phase λz with a half-life of about 15.5 hours.
+Because of the extended absorption phase of the dipyridamole component, only the terminal phase is apparent from oral treatment with aspirin and extended-release dipyridamole which was 13.6 hours.
+
+Aspirin:
 
 Aspirin is rapidly hydrolyzed in plasma to salicylic acid, with a half-life of 20 minutes.
 Plasma levels of aspirin are essentially undetectable 2 to 2.5 hours after dosing and peak salicylic acid concentrations occur 1 hour (range: 0.5 to 2 hours) after administration of aspirin.
@@ -98,18 +89,41 @@ Both values correspond well with data from the literature at lower doses which s
 At higher doses, the elimination of salicylic acid follows zero-order kinetics (i.e., the rate of elimination is constant in relation to plasma concentration), with an apparent half-life of 6 hours or higher.
 Renal excretion of unchanged drug depends upon urinary pH.
 As urinary pH rises above 6.5, the renal clearance of free salicylate increases from <5% to >80%.
-Alkalinization of the urine is a key concept in the management of salicylate overdose[see OVERDOSAGE (10)].
+Alkalinization of the urine is a key concept in the management of salicylate overdose [see Overdosage (10)].
 Following therapeutic doses, about 10% is excreted as salicylic acid and 75% as salicyluric acid, as the phenolic and acyl glucuronides, in urine.
 
-Special Populations
+Specific Populations
 
-Hepatic Dysfunction: Avoid aspirin in patients with severe hepatic insufficiency.
+Geriatric Patients:
 
-Renal Dysfunction: Avoid aspirin in patients with severe renal failure (glomerular filtration rate less than 10 mL/min).
+Dipyridamole:
 
-Aspirin and extended-release dipyridamole capsules
+In ESPS2 [see Clinical Studies (14)], plasma concentrations (determined as AUC) of dipyridamole in healthy elderly subjects (>65 years) were about 40% higher than in subjects younger than 55 years receiving treatment with aspirin and extended-release dipyridamole.
 
-Drug Interaction
+Hepatic Dysfunction:
+
+No study has been conducted with aspirin and extended-release dipyridamole in patients with hepatic dysfunction.
+
+Dipyridamole:
+
+In a study conducted with an intravenous formulation of dipyridamole, patients with mild to severe hepatic insufficiency showed no change in plasma concentrations of dipyridamole but showed an increase in the pharmacologically inactive monoglucuronide metabolite.
+Dipyridamole can be dosed without restriction as long as there is no evidence of hepatic failure.
+
+Aspirin:
+
+Avoid aspirin in patients with severe hepatic insufficiency.
+
+Renal Dysfunction:
+
+Dipyridamole:
+
+In ESPS2 patients [see Clinical Studies (14)], with creatinine clearances ranging from about 15 mL/min to >100 mL/min, no changes were observed in the pharmacokinetics of dipyridamole or its glucuronide metabolite if data were corrected for differences in age.
+
+Aspirin:
+
+Avoid aspirin in patients with severe renal failure (glomerular filtration rate <10 mL/min).
+
+Drug Interaction Studies
 
 A dedicated drug interaction study was conducted in 60 healthy volunteers to evaluate the effects of omeprazole 80 mg administered once daily on the pharmacokinetics (PK) of dipyridamole and the pharmacodynamics (PD) of acetylsalicylic acid when coadministered with aspirin and extended-release dipyridamole twice daily.
 Dipyridamole exposure (Cmax and AUC) at steady-state were similar with or without omeprazole coadministration.
