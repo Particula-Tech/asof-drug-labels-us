@@ -154,105 +154,63 @@ Levofloxacin has been shown to be active against most isolates of the following 
 
 Aerobic bacteria
 
-Gram-Positive Bacteria
+- Gram-Positive Bacteria
+  - Enterococcus faecalis
+  - Staphylococcus aureus (methicillin-susceptible isolates)
+  - Staphylococcus epidermidis (methicillin-susceptible isolates)
+  - Staphylococcus saprophyticus
+  - Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.)
+  - Streptococcus pyogenes
+- Gram-Negative Bacteria
+  - Enterobacter cloacae
+  - Escherichia coli
+  - Haemophilus influenzae
+  - Haemophilus parainfluenzae
+  - Klebsiella pneumoniae
+  - Legionella pneumophila
+  - Moraxella catarrhalis
+  - Proteus mirabilis
+  - Pseudomonas aeruginosa
+  - Serratia marcescens
+- Other microorganisms
+  - Chlamydophila pneumoniae
+  - Mycoplasma pneumoniae
 
-Enterococcus faecalis
-
-Staphylococcus aureus (methicillin-susceptible isolates)
-
-Staphylococcus epidermidis (methicillin-susceptible isolates)
-
-Staphylococcus saprophyticus
-
-Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.)
-
-Streptococcus pyogenes
-
-Gram-Negative Bacteria
-
-Enterobacter cloacae
-
-Escherichia coli
-
-Haemophilus influenzae
-
-Haemophilus parainfluenzae
-
-Klebsiella pneumoniae
-
-Legionella pneumophila
-
-Moraxella catarrhalis
-
-Proteus mirabilis
-
-Pseudomonas aeruginosa
-
-Serratia marcescens
-
-Other microorganisms
-
-Chlamydophila pneumoniae
-
-Mycoplasma pneumoniae
-
-The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of LEVAQUIN® in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentrations (MIC) less than or equal to the susceptible breakpoint for LEVAQUIN against isolates of similar genus or organism group.
+However, efficacy of LEVAQUIN® in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Aerobic bacteria
 
-Gram-Positive Bacteria
-
-Staphylococcus haemolyticus
-
-β-hemolytic Streptococcus (Group C/F)
-
-β-hemolytic Streptococcus (Group G)
-
-Streptococcus agalactiae
-
-Streptococcus milleri
-
-Viridans group streptococci
-
-Bacillus anthracis
-
-Gram-Negative Bacteria
-
-Acinetobacter baumannii
-
-Acinetobacter lwoffii
-
-Bordetella pertussis
-
-Citrobacter koseri
-
-Citrobacter freundii
-
-Enterobacter aerogenes
-
-Enterobacter sakazakii
-
-Klebsiella oxytoca
-
-Morganella morganii
-
-Pantoea agglomerans
-
-Proteus vulgaris
-
-Providencia rettgeri
-
-Providencia stuartii
-
-Pseudomonas fluorescens
-
-Yersinia pestis
+- Gram-Positive Bacteria
+  - Staphylococcus haemolyticus
+  - β-hemolytic Streptococcus (Group C/F)
+  - β-hemolytic Streptococcus (Group G)
+  - Streptococcus agalactiae
+  - Streptococcus milleri
+  - Viridans group streptococci
+  - Bacillus anthracis
+- Gram-Negative Bacteria
+  - Acinetobacter baumannii
+  - Acinetobacter lwoffii
+  - Bordetella pertussis
+  - Citrobacter koseri
+  - Citrobacter freundii
+  - Enterobacter aerogenes
+  - Enterobacter sakazakii
+  - Klebsiella oxytoca
+  - Morganella morganii
+  - Pantoea agglomerans
+  - Proteus vulgaris
+  - Providencia rettgeri
+  - Providencia stuartii
+  - Pseudomonas fluorescens
+  - Yersinia pestis
 
 Anaerobic bacteria
 
-Gram-Positive Bacteria
-
-Clostridium perfringens
+- Gram-Positive Bacteria
+  - Clostridium perfringens
 
 Susceptibility Tests
 
