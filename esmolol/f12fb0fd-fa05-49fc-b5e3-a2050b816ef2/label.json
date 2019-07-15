@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA207107"
+  ],
+  "inn": "esmolol",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-308-84",
+    "25021-309-82"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "esmolol hydrochloride",
+      "name": "esmolol hydrochloride"
+    }
+  ],
+  "setid": "f12fb0fd-fa05-49fc-b5e3-a2050b816ef2",
+  "source": "dailymed"
+}
