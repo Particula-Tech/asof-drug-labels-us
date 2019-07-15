@@ -1,12 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 1 g Tablet Bottle Label
 
-NDC 59762-0450-1
-
-120 Tablets
+NDC 59762-0450-1 120 Tablets
 
 GREENSTONE® BRAND
 
-micronized colestipol hydrochloride tablets
+colestipol hydrochloride tablets
 
 1 g
 
