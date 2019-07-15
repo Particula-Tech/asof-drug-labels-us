@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hypertension, Hypokalemia and Fluid Retention Due to Mineralocorticoid Excess
+## 5.1 Hypokalemia, Fluid Retention, and Cardiovascular Adverse Reactions Due to Mineralocorticoid Excess
 
 Abiraterone acetate tablets may cause hypertension, hypokalemia, and fluid retention as a consequence of increased mineralocorticoid levels resulting from CYP17 inhibition [see Clinical Pharmacology (12.1)].
 Monitor patients for hypertension, hypokalemia, and fluid retention at least once a month.
@@ -10,6 +10,8 @@ In the combined data from 4 placebo-controlled trials using prednisone 5 mg twic
 Grades 3-4 hypertension were observed in 2% of patients each arm and grades 3-4 fluid retention in 1% of patients each arm.
 
 Closely monitor patients whose underlying medical conditions might be compromised by increases in blood pressure, hypokalemia or fluid retention, such as those with heart failure, recent myocardial infarction, cardiovascular disease, or ventricular arrhythmia.
+In postmarketing experience, QT prolongation and Torsades de Pointes have been observed in patients who develop hypokalemia while taking abiraterone acetate tablets.
+
 The safety of abiraterone acetate tablets in patients with left ventricular ejection fraction < 50% or New York Heart Association (NYHA) Class III or IV heart failure (in COU-AA-301) or NYHA Class II to IV heart failure (in COU-AA-302) has not been established because these patients were excluded from these randomized clinical trials [see Clinical Studies (14)].
 
 ## 5.2 Adrenocortical Insufficiency
@@ -42,3 +44,20 @@ Re-treatment with abiraterone acetate tablets at a reduced dose level may take p
 Permanently discontinue abiraterone acetate tablets for patients who develop a concurrent elevation of ALT greater than 3X ULN and total bilirubin greater than 2X ULN in the absence of biliary obstruction or other causes responsible for the concurrent elevation [see Dosage and Administration (2.4)].
 
 The safety of abiraterone acetate tablets re-treatment of patients who develop AST or ALT greater than or equal to 20X ULN and/or bilirubin greater than or equal to 10X ULN is unknown.
+
+## 5.4 Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride
+
+Abiraterone acetate tablets plus prednisone/prednisolone are not recommended for use in combination with radium 223 dichloride outside of clinical trials.
+
+The clinical efficacy and safety of concurrent initiation of abiraterone acetate tablets plus prednisone/prednisolone and radium Ra 223 dichloride was assessed in a randomized, placebo-controlled multicenter study (ERA-223 trial) in 806 patients with asymptomatic or mildly symptomatic castration-resistant prostate cancer with bone metastases.
+The study was unblinded early based on an Independent Data Monitoring Committee recommendation.
+
+At the primary analysis, increased incidences of fractures (28.6% vs 11.4%) and deaths (38.5% vs 35.5%) have been observed in patients who received abiraterone acetate tablets plus prednisone/prednisolone in combination with radium Ra 223 dichloride compared to patients who received placebo in combination with abiraterone acetate tablets plus prednisone/prednisolone.
+
+## 5.5 Embryo-Fetal Toxicity
+
+The safety and efficacy of abiraterone acetate tablets have not been established in females.
+Based on animal reproductive studies and mechanism of action, abiraterone acetate tablets can cause fetal harm and loss of pregnancy when administered to a pregnant female.
+In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis caused adverse developmental effects at maternal exposures approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with abiraterone acetate tablets and for 3 weeks after the last dose of abiraterone acetate tablets [see Use in Specific Populations (8.1, 8.3)].
+Abiraterone acetate tablets should not be handled by females who are or may become pregnant [see How Supplied/Storage and Handling (16)].

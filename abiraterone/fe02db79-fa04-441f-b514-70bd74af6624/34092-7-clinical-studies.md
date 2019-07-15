@@ -5,7 +5,7 @@ All patients in these studies received a GnRH analog or had prior bilateral orch
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 Concurrent use of spironolactone was not allowed during the study period.
 
-COU-AA-301 (NCT00638690): Patients with Metastatic CRPC who had Received Prior Docetaxel Chemotherapy: A total of 1195 patients were randomized 2:1 to receive either abiraterone acetate tablets orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N = 797) or placebo once daily plus prednisone 5 mg orally twice daily (N = 398).
+COU-AA-301: Patients with Metastatic CRPC who had Received Prior Docetaxel Chemotherapy: In COU-AA-301 (NCT00638690), a total of 1195 patients were randomized 2:1 to receive either abiraterone acetate tablets orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N = 797) or placebo once daily plus prednisone 5 mg orally twice daily (N = 398).
 Patients randomized to either arm were to continue treatment until disease progression (defined as a 25% increase in PSA over the patient’s baseline/nadir together with protocol-defined radiographic progression and symptomatic or clinical progression), initiation of new treatment, unacceptable toxicity or withdrawal.
 
 The following patient demographics and baseline disease characteristics were balanced between the treatment arms.
@@ -33,7 +33,7 @@ Table 7: Overall Survival of Patients Treated with Either Abiraterone Acetate Ta
 | Median survival (months) (95% CI) | 15.8 (14.8, 17.0) | 11.2 (10.4, 13.1) |
 | Hazard ratio (95% CI) | 0.740 (0.638, 0.859) |  |
 
-COU-AA-302 (NCT00887198): Patients with Metastatic CRPC who had not Received Prior Cytotoxic Chemotherapy: In COU-AA-302, 1088 patients were randomized 1:1 to receive either abiraterone acetate tablets orally at a dose of 1,000 mg once daily (N = 546) or Placebo orally once daily (N = 542).
+COU-AA-302: Patients with Metastatic CRPC who had not Received Prior Cytotoxic Chemotherapy: In COU-AA-302 (NCT00887198), 1088 patients were randomized 1:1 to receive either abiraterone acetate tablets orally at a dose of 1,000 mg once daily (N = 546) or Placebo orally once daily (N = 542).
 Both arms were given concomitant prednisone 5 mg twice daily.
 Patients continued treatment until radiographic or clinical (cytotoxic chemotherapy, radiation or surgical treatment for cancer, pain requiring chronic opioids, or ECOG performance status decline to 3 or more) disease progression, unacceptable toxicity or withdrawal.
 Patients with moderate or severe pain, opiate use for cancer pain, or visceral organ metastases were excluded.
@@ -54,8 +54,9 @@ Abiraterone acetate tablets were used as a subsequent therapy in 13% of patients
 
 Table 8: Overall Survival of Patients Treated with Either Abiraterone Acetate Tablets or Placebo in Combination with Prednisone in COU-AA-302 (Intent-to-Treat Analysis)
 
-| Overall Survival | Abiraterone Acetate Tablets with Prednisone (N = 546) | Placebo with Prednisone (N = 542) |
+|  | Abiraterone Acetate Tablets with Prednisone (N = 546) | Placebo with Prednisone (N = 542) |
 | --- | --- | --- |
+| Overall Survival |  |  |
 | Deaths | 354 (65%) | 387 (71%) |
 | Median survival (months) (95% CI) | 34.7 (32.7, 36.8) | 30.3 (28.7, 33.3) |
 | p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | 0.0033 |  |
@@ -66,8 +67,9 @@ A significant difference in rPFS between treatment groups was observed (Table 9 
 
 Table 9: Radiographic Progression-free Survival of Patients Treated with Either Abiraterone Acetate Tablets or Placebo in Combination with Prednisone in COU-AA-302 (Intent-to-Treat Analysis)
 
-| Radiographic Progression-free Survival | Abiraterone Acetate Tablets with Prednisone (N = 546) | Placebo with Prednisone (N = 542) |  |  |  |  |  |  |
+|  | Abiraterone Acetate Tablets with Prednisone (N = 546) | Placebo with Prednisone (N = 542) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Radiographic Progression-free Survival |  |  |  |  |  |  |  |  |
 | Progression or death | 150 (28%) | 251 (46%) |  |  |  |  |  |  |
 | Median rPFS (months) (95% CI) | NR (11.66, NR) | 8.28 (8.12, 8.54) |  |  |  |  |  |  |
 | p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | < 0.0001 |  |  |  |  |  |  |  |
