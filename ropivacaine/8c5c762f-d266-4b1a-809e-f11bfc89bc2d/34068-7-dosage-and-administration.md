@@ -68,7 +68,7 @@ The figures reflect the expected average dose range needed.
 For other local anesthetic techniques standard current textbooks should be consulted.
 
 When prolonged blocks are used, either through continuous infusion or through repeated bolus administration, the risks of reaching a toxic plasma concentration or inducing local neural injury must be considered.
-Experience to date indicates that a cumulative dose of up to 770 mg ropivacaine hydrochloride injection administered over 24 hours is well tolerated in adults when used for postoperative pain management: ie, 2016 mg.
+Experience to date indicates that a cumulative dose of up to 770 mg ropivacaine hydrochloride injection administered over 24 hours is well tolerated in adults when used for postoperative pain management: i.e., 2016 mg.
 Caution should be exercised when administering ropivacaine hydrochloride injection for prolonged periods of time, e.g., >70 hours in debilitated patients.
 
 For treatment of postoperative pain, the following technique can be recommended: If regional anesthesia was not used intraoperatively, then an initial epidural block with 5 mL to 7 mL ropivacaine hydrochloride injection is induced via an epidural catheter.
