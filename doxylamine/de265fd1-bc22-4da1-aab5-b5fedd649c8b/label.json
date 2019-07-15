@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208518"
+  ],
+  "inn": "doxylamine",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-186-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "doxylamine succinate and pyridoxine hydrochloride, delayed release tablets 10 mg/10 mg",
+      "name": "Doxylamine Succinate and Pyridoxine Hydrochloride"
+    }
+  ],
+  "setid": "de265fd1-bc22-4da1-aab5-b5fedd649c8b",
+  "source": "dailymed"
+}
