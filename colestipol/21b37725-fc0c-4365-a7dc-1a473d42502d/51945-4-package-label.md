@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 g Packet Label
+# PRINCIPAL DISPLAY PANEL - 5 gram Packet Label
 
 Pfizer NDC 0009-0260-01
 
@@ -6,17 +6,15 @@ Colestid® colestipol hydrochloride for oral suspension, USP
 
 5 grams Rx only
 
-# PRINCIPAL DISPLAY PANEL - 5 g Packet Carton
+# PRINCIPAL DISPLAY PANEL - 5 gram Packet Carton
 
-NDC 0009-0260-04
+NDC 0009-0260-01
 
-Pfizer Colestid®
+Pfizer Colestid® colestipol hydrochloride for oral suspension, USP
 
-colestipol hydrochloride for oral suspension, USP
+30 Foil Packets – 5 grams each Rx only
 
-90 foil packets – 5 grams each Rx only
-
-# PRINCIPAL DISPLAY PANEL - 300 g Bottle Label
+# PRINCIPAL DISPLAY PANEL - 300 gram Bottle Label
 
 Pfizer NDC 0009-0260-17
 
@@ -36,57 +34,63 @@ colestipol hydrochloride for oral suspension, USP
 
 300 grams Rx only
 
-# PRINCIPAL DISPLAY PANEL - 7.5 g Packet Label
+# PRINCIPAL DISPLAY PANEL - 7.5 gram Packet Label
 
 Pfizer NDC 0009-0370-03
 
 Flavored Colestid® colestipol hydrochloride for oral suspension
 
-NUTRASWEET® BRAND SWEETENER
+7.5 grams powder containing 5 grams of colestipol hydrochloride
 
-Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
+NUTRASWEET® BRAND SWEETENER*
 
-7.5 grams Rx only
+Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 grams
 
-# PRINCIPAL DISPLAY PANEL - 30-7.5 g Packet Carton
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 30-7.5 gram Packet Carton
 
 NOT TO BE SOLD SEPARATELY NDC 0009-0370-03
 
-Pfizer
+Pfizer Flavored Colestid® colestipol hydrochloride for oral suspension
 
-Flavored Colestid® colestipol hydrochloride for oral suspension
+7.5 grams powder containing 5 grams of colestipol hydrochloride per packet
 
-NUTRASWEET® BRAND SWEETENER
+NUTRASWEET® BRAND SWEETENER*
 
-Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
+Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 grams
 
-One of Two Cartons of 30-7.5 gram packets Rx only
+30 packets (One of Two Cartons) Rx only
 
-# PRINCIPAL DISPLAY PANEL - 60-7.5 g Packet Carton
+# PRINCIPAL DISPLAY PANEL - 60-7.5 gram Packet Carton
 
 NDC 0009-0370-03
 
 Pfizer Flavored Colestid® colestipol hydrochloride for oral suspension
 
-NUTRASWEET® BRAND SWEETENER
+7.5 grams powder containing 5 grams of colestipol hydrochloride per packet
 
-Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
+NUTRASWEET® BRAND SWEETENER*
 
-60-7.5 gram packets Rx only
+Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 grams
 
-# PRINCIPAL DISPLAY PANEL - 450 g Bottle Label
+60 packets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 450 gram Bottle Label
 
 Pfizer NDC 0009-0370-05
 
-Flavored Colestid®
+Flavored Colestid® colestipol hydrochloride for oral suspension
 
-colestipol hydrochloride for oral suspension
+7.5 grams powder containing 5 grams of colestipol hydrochloride per scoop
 
-NUTRASWEET® BRAND SWEETENER
+NUTRASWEET® BRAND SWEETENER*
 
-Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
+Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 grams
 
-450 grams (60-7.5 gram scoops) Rx only
+450 grams (60 scoops of 7.5 grams each)
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 450 gram Bottle Carton
 
@@ -94,8 +98,12 @@ Pfizer NDC 0009-0370-05
 
 Flavored Colestid® colestipol hydrochloride for oral suspension
 
-NUTRASWEET® BRAND SWEETENER
+7.5 grams powder containing 5 grams of colestipol hydrochloride per scoop
 
-Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
+NUTRASWEET® BRAND SWEETENER*
 
-450 grams (60-7.5 gram scoops) Rx only
+Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 grams
+
+450 grams (60 scoops of 7.5 grams each)
+
+Rx only
