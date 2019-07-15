@@ -2,102 +2,70 @@
 
 Fluid and Electrolyte Disturbances
 
-Sodium retention
-
-Congestive heart failure in susceptible patients
-
-Hypertension
-
-Fluid retention
-
-Potassium loss
-
-Hypokalemic alkalosis
+- Sodium retention
+- Congestive heart failure in susceptible patients
+- Hypertension
+- Fluid retention
+- Potassium loss
+- Hypokalemic alkalosis
 
 Musculoskeletal
 
-Muscle weakness
-
-Loss of muscle mass
-
-Vertebral compression fractures
-
-Pathologic fracture of long bones
-
-Tendon rupture, particularly of the Achilles tendon
-
-Steroid myopathy
-
-Osteoporosis
-
-Aseptic necrosis of femoral and humeral heads
+- Muscle weakness
+- Loss of muscle mass
+- Steroid myopathy
+- Osteoporosis
+- Tendon rupture, particularly of the Achilles tendon
+- Vertebral compression fractures
+- Aseptic necrosis of femoral and humeral heads
+- Pathologic fracture of long bones
 
 Gastrointestinal
 
-Peptic ulcer with possible perforation and hemorrhage
-
-Ulcerative esophagitis
+- Peptic ulcer with possible perforation and hemorrhage
+- Pancreatitis
+- Abdominal distention
+- Ulcerative esophagitis
 
 Increases in alanine transaminase (ALT, SGPT), aspartate transaminase (AST, SGOT), and alkaline phosphatase have been observed following corticosteroid treatment.
 These changes are usually small, not associated with any clinical syndrome and are reversible upon discontinuation.
 
-Pancreatitis
-
-Abdominal distention
-
 Dermatologic
 
-Impaired wound healing
-
-Petechiae and ecchymoses
-
-May suppress reactions to skin tests
-
-Thin fragile skin
-
-Facial erythema
-
-Increased sweating
+- Impaired wound healing
+- Petechiae and ecchymoses
+- May suppress reactions to skin tests
+- Thin fragile skin
+- Facial erythema
+- Increased sweating
 
 Neurological
 
-Increased intracranial pressure with papilledema (pseudo-tumor cerebri) usually after treatment
-
-Convulsions
-
-Vertigo
-
-Headache
+- Increased intracranial pressure with papilledema (pseudo-tumor cerebri) usually after treatment
+- Convulsions
+- Vertigo
+- Headache
 
 Endocrine
 
-Development of Cushingoid state
-
-Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illness
-
-Menstrual irregularities
-
-Decreased carbohydrate tolerance
-
-Increased requirements of insulin or oral hypoglycemic agents in diabetics
-
-Suppression of growth in children
-
-Manifestations of latent diabetes mellitus
+- Development of Cushingoid state
+- Suppression of growth in children
+- Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illness
+- Menstrual irregularities
+- Decreased carbohydrate tolerance
+- Manifestations of latent diabetes mellitus
+- Increased requirements of insulin or oral hypoglycemic agents in diabetics
 
 Ophthalmic
 
-Posterior subcapsular cataracts
-
-Glaucoma
-
-Increased intraocular pressure
-
-Exophthalmos
+- Posterior subcapsular cataracts
+- Increased intraocular pressure
+- Glaucoma
+- Exophthalmos
 
 Metabolic
 
-Negative nitrogen balance due to protein catabolism
+- Negative nitrogen balance due to protein catabolism
 
 The following additional reactions have been reported following oral as well as parenteral therapy:
 

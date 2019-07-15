@@ -1,17 +1,170 @@
 # INDICATIONS AND USAGE
 
-MethylPREDNISolone Tablets are indicated in the following conditions:
+Methylprednisolone tablets are indicated in the following conditions:
 
-1. Endocrine DisordersPrimary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the first choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy mineralocorticoid supplementation is of particular importance).Congenital adrenal hyperplasiaHypercalcemia associated with cancerNonsuppurative thyroiditis
-2. Rheumatic DisordersAs adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in:Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy)Ankylosing spondylitisAcute and subacute bursitisSynovitis of osteoarthritisAcute nonspecific tenosynovitisPsoriatic arthritisEpicondylitisAcute gouty arthritisPost-traumatic osteoarthritis
-3. Collagen DiseasesDuring an exacerbation or as maintenance therapy in selected cases of:Systemic lupus erythematosusAcute rheumatic carditisSystemic dermatomyositis (polymyositis)
-4. Dermatologic DiseasesBullous dermatitis herpetiformisSevere erythema multiforme (Stevens-Johnson syndrome)Severe seborrheic dermatitisExfoliative dermatitisMycosis fungoidesPemphigusSevere psoriasis
-5. Allergic StatesControl of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment:Seasonal or perennial allergic rhinitisSerum sicknessContact dermatitisDrug hypersensitivity reactionsBronchial asthmaAtopic dermatitis
-6. Ophthalmic DiseasesSevere acute and chronic allergic and inflammatory processes involving the eye and its adnexa such as:Allergic corneal marginal ulcersAnterior segment inflammationSympathetic ophthalmiaKeratitisOptic neuritisIritis and iridocyclitisHerpes zoster ophthalmicusDiffuse posterior uveitis and choroiditisAllergic conjunctivitisChorioretinitis
-7. Respiratory DiseasesSymptomatic sarcoidosisLoeffler's syndrome not manageable by other meansFulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapyAspiration pneumonitisBerylliosis
-8. Hematologic DisordersIdiopathic thrombocytopenia purpura in adultsAcquired (autoimmune) hemolytic anemiaCongenital (erythroid) hypoplastic anemiaSecondary thrombocytopenia in adultsErythroblastopenia (RBC anemia)
-9. Neoplastic DiseasesFor palliative management of:Leukemias and lymphomas in adultsAcute leukemia of childhood
-10. Edematous StatesTo induce a diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus.
-11. Gastrointestinal DiseasesTo tide the patient over a critical period of the disease in:Ulcerative colitisRegional enteritis
-12. Nervous SystemAcute exacerbations of multiple sclerosis
-13. MiscellaneousTuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy.Trichinosis with neurologic or myocardial involvement.
+1.
+Endocrine Disorders
+
+Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the first choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy mineralocorticoid supplementation is of particular importance).
+
+Congenital adrenal hyperplasia
+
+Nonsuppurative thyroiditis
+
+Hypercalcemia associated with cancer
+
+2.
+Rheumatic Disorders
+
+As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in:
+
+Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy)
+
+Ankylosing spondylitis
+
+Acute and subacute bursitis
+
+Synovitis of osteoarthritis
+
+Acute nonspecific tenosynovitis
+
+Post-traumatic osteoarthritis
+
+Psoriatic arthritis
+
+Epicondylitis
+
+Acute gouty arthritis
+
+3.
+Collagen Diseases
+
+During an exacerbation or as maintenance therapy in selected cases of:
+
+Systemic lupus erythematosus
+
+Systemic dermatomyositis (polymyositis)
+
+Acute rheumatic carditis
+
+4.
+Dermatologic Diseases
+
+Bullous dermatitis herpetiformis
+
+Severe erythema multiforme
+
+(Stevens-Johnson syndrome)
+
+Severe seborrheic dermatitis
+
+Exfoliative dermatitis
+
+Mycosis fungoides
+
+Pemphigus
+
+Severe psoriasis
+
+5.
+Allergic States
+
+Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment:
+
+Seasonal or perennial allergic rhinitis
+
+Drug hypersensitivity reactions
+
+Serum sickness
+
+Contact dermatitis
+
+Bronchial asthma
+
+Atopic dermatitis
+
+6.
+Ophthalmic Diseases
+
+Severe acute and chronic allergic and inflammatory processes involving the eye and its adnexa such as:
+
+Allergic corneal marginal ulcers
+
+Herpes zoster ophthalmicus
+
+Anterior segment inflammation
+
+Diffuse posterior uveitis and choroiditis
+
+Sympathetic ophthalmia
+
+Keratitis
+
+Optic neuritis
+
+Allergic conjunctivitis
+
+Chorioretinitis
+
+Iritis and iridocyclitis
+
+7.
+Respiratory Diseases
+
+Symptomatic sarcoidosis
+
+Berylliosis
+
+Loeffler’s syndrome not manageable by other means
+
+Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy
+
+Aspiration pneumonitis
+
+8.
+Hematologic Disorders
+
+Idiopathic thrombocytopenic purpura in adults
+
+Secondary thrombocytopenia in adults
+
+Acquired (autoimmune) hemolytic anemia
+
+Erythroblastopenia (RBC anemia)
+
+Congenital (erythroid) hypoplastic anemia
+
+9.
+Neoplastic Diseases
+
+For palliative management of:
+
+Leukemias and lymphomas in adults
+
+Acute leukemia of childhood
+
+10.
+Edematous States
+
+To induce a diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus.
+
+11.
+Gastrointestinal Diseases
+
+To tide the patient over a critical period of the disease in:
+
+Ulcerative colitis
+
+Regional enteritis
+
+12.
+Nervous System
+
+Acute exacerbations of multiple sclerosis
+
+13.
+Miscellaneous
+
+Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy.
+
+Trichinosis with neurologic or myocardial involvement.

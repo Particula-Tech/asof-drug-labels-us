@@ -10,9 +10,7 @@ With increasing doses of corticosteroids, the rate of occurrence of infectious c
 
 Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
 
-## Usage in pregnancy:
-
-Since adequate human reproduction studies have not been done with corticosteroids, the use of these drugs in pregnancy, nursing mothers, or women of child-bearing potential requires that the possible benefits of the drug be weighed against the potential hazards to the mother and embryo or fetus.
+Usage in pregnancy: Since adequate human reproduction studies have not been done with corticosteroids, the use of these drugs in pregnancy, nursing mothers or women of child-bearing potential requires that the possible benefits of the drug be weighed against the potential hazards to the mother and embryo or fetus.
 Infants born of mothers who have received substantial doses of corticosteroids during pregnancy, should be carefully observed for signs of hypoadrenalism.
 
 Average and large doses of hydrocortisone or cortisone can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
@@ -24,7 +22,7 @@ Administration of live or live, attenuated vaccines is contraindicated in patien
 Killed or inactivated vaccines may be administered to patients receiving immunosuppressive doses of corticosteroids; however, the response to such vaccines may be diminished.
 Indicated immunization procedures may be undertaken in patients receiving nonimmunosuppressive doses of corticosteroids.
 
-The use of MethylPREDNISolone Tablets in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
+The use of methylprednisolone tablets in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
@@ -58,6 +56,8 @@ The lowest possible dose of corticosteroid should be used to control the conditi
 Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression, to frank psychotic manifestations.
 Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
 
+Caution is required in patients with systemic sclerosis because an increased incidence of scleroderma renal crisis has been observed with corticosteroids, including methylprednisolone.
+
 Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess or other pyogenic infection; diverticulitis; fresh intestinal anastomoses; active or latent peptic ulcer; renal insufficiency; hypertension; osteoporosis; and myasthenia gravis.
 
 Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed.
@@ -66,7 +66,8 @@ Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid
 Discontinuation of corticosteroids may result in clinical remission.
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that corticosteroids affect the ultimate outcome or natural history of the disease.
-The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect (see DOSAGE AND ADMINISTRATION).
+The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
+(See DOSAGE AND ADMINISTRATION.)
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
 
