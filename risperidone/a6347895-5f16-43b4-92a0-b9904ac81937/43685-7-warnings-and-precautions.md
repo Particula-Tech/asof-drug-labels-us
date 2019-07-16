@@ -9,7 +9,7 @@ Although the causes of death were varied, most of the deaths appeared to be eith
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 
-In two of four placebo-controlled trials in elderly patients with dementia-related psychosis, a higher incidence of mortality was observed in patients treated with furosemide plus Risperidone when compared to patients treated with Risperidone alone or with placebo plus furosemide.
+In two of four placebo-controlled trials in elderly patients with dementia-related psychosis, a higher incidence of mortality was observed in patients treated with furosemide plus risperidone when compared to patients treated with risperidone alone or with placebo plus furosemide.
 No pathological mechanism has been identified to explain this finding, and no consistent pattern for cause of death was observed.
 
 Risperidone is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
@@ -19,11 +19,11 @@ Risperidone is not approved for the treatment of dementia-related psychosis [see
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
 Risperidone is not approved for the treatment of patients with dementia-related psychosis.
-[See Boxed Warnings and Warnings and Precautions (5.1)]
+[see Boxed WarningandWarnings and Precautions (5.1)]
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
-Antipsychotic drugs including Risperidone can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
+Antipsychotic drugs including risperidone can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
 Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase (CPK), myoglobinuria, rhabdomyolysis, and acute renal failure.
 
@@ -41,6 +41,8 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
+However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
 The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
@@ -50,9 +52,13 @@ The effect that symptomatic suppression has upon the long-term course of the syn
 Given these considerations, prescribe risperidone in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that: (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
+The need for continued treatment should be reassessed periodically.Given these considerations, prescribe risperidone in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
+Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that: (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient treated with risperidone, consider drug discontinuation.
+However, some patients may require treatment with risperidone despite the presence of the syndrome.If signs and symptoms of tardive dyskinesia appear in a patient treated with risperidone, consider drug discontinuation.
 However, some patients may require treatment with risperidone despite the presence of the syndrome.
 
 ## 5.5 Metabolic Changes
@@ -63,17 +69,17 @@ While all of the drugs in the class have been shown to produce some metabolic ch
 
 Hyperglycemia and Diabetes Mellitus
 
-Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics including Risperidone.
+Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics including risperidone.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
 Precise risk estimates for hyperglycemia-related adverse events in patients treated with atypical antipsychotics are not available.
 
-Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics, including Risperidone, should be monitored regularly for worsening of glucose control.
-Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics, including Risperidone, should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
-Any patient treated with atypical antipsychotics, including Risperidone, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
-Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including Risperidone, should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic, including Risperidone, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of Risperidone.
+Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics, including risperidone, should be monitored regularly for worsening of glucose control.
+Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
+Any patient treated with atypical antipsychotics, including risperidone, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
+Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic, including risperidone, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of risperidone.
 
 Pooled data from three double-blind, placebo-controlled schizophrenia studies and four double-blind, placebo-controlled bipolar monotherapy studies are presented in Table 2.
 
@@ -91,7 +97,7 @@ Change in Random Glucose from Seven Placebo-Controlled, 3- to 8- Week, Fixed- or
 | (<140 mg/dL to ≥ 200 mg/dL) | 0.6% | 0.4% | 0% |
 |  | (3/525) | (3/702) | (0/158) |
 
-In longer-term, controlled and uncontrolled studies, Risperidone was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (n=151) and +4.1 mg/dL at Week 48 (n=50).
+In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (n=151) and +4.1 mg/dL at Week 48 (n=50).
 
 Data from the placebo-controlled 3- to 6-week study in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 3.
 
@@ -109,16 +115,16 @@ Change in Fasting Glucose from Three Placebo-controlled, 3- to 6-week, Fixed Dos
 | (<100 mg/dL to ≥126 | 0% | 0.8% |
 | mg/dL) | (0/64) | (1/120) |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, Risperidone was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n=119).
+In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n=119).
 
 Dyslipidemia
 
-Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics
+Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
 
 Pooled data from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 4.
 
 Table 4.
-Change in Random Lipids From Seven Placebo-Controlled, 3-to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
+Change in Random Lipids from Seven Placebo-Controlled, 3-to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
 
 |  | Risperidone |  |  |
 | --- | --- | --- | --- |
@@ -134,12 +140,12 @@ Change in Random Lipids From Seven Placebo-Controlled, 3-to 8-Week, Fixed- or Fl
 | Triglycerides | 1.1% | 2.7% | 2.5% |
 | (<500 mg/dL to ≥500 mg/dL) | (2/180) | (8/301) | (3/121) |
 
-In longer-term, controlled and uncontrolled studies, Risperidone was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
+In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
 
 Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 5.
 
 Table 5.
-Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed- Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
+Change in Fasting Lipids From Three Placebo-Controlled, 3- to 6-Week, Fixed- Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
 
 |  |  | Risperidone |
 | --- | --- | --- |
@@ -163,7 +169,7 @@ Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed- Dos
 | Triglycerides | 1.5 % | 7.1 % |
 | (<150 mg/dL to ≥200 mg/dL) | (1/65) | (8/113) |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, Risperidone was associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n=114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n=103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n=120).
+In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n=114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n=103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n=120).
 
 Weight Gain
 
@@ -183,7 +189,7 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain i
 | Weight Gain |  |  |  |
 | ≥ 7% increase from baseline | 2.9% | 8.7% | 20.9% |
 
-In longer-term, controlled and uncontrolled studies, Risperidone was associated with a mean change in weight of +4.3 kg at Week 24 (n=395) and +5.3 kg at Week 48 (n=203).
+In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in weight of +4.3 kg at Week 24 (n=395) and +5.3 kg at Week 48 (n=203).
 
 Data on mean changes in body weight and the proportion of subjects meeting the criterion of ≥7% gain in body weight from nine placebo-controlled, 3- to 8-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), autistic disorder (5 to 17 years of age), or other psychiatric disorders (5 to 17 years of age) are presented in Table 7.
 
@@ -197,25 +203,39 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥7% Gain i
 | Weight Gain |  |  |
 | ≥ 7% increase from baseline | 6.9 % | 32.6 % |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, Risperidone was associated with a mean change in weight of +5.5 kg at Week 24 (n=748) and +8.0 kg at Week 48 (n=242).
+In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in weight of +5.5 kg at Week 24 (n=748) and +8.0 kg at Week 48 (n=242).
 
 In a long-term, open-label extension study in adolescent patients with schizophrenia, weight increase was reported as a treatment-emergent adverse event in 14% of patients.
-In 103 adolescent patients with schizophrenia, a mean increase of 9.0 kg was observed after 8 months of Risperidone treatment.
+In 103 adolescent patients with schizophrenia, a mean increase of 9.0 kg was observed after 8 months of risperidone treatment.
 The majority of that increase was observed within the first 6 months.
 The average percentiles at baseline and 8 months, respectively, were 56 and 72 for weight, 55 and 58 for height, and 51 and 71 for body mass index.
 
-In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5 kg after 12 months of Risperidone treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5 kg per year adjusted for age, based on Centers for Disease Control and Prevention normative data).
-The majority of that increase occurred within the first 6 months of exposure to Risperidone.
+In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5 kg after 12 months of risperidone treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5 kg per year adjusted for age, based on Centers for Disease Control and Prevention normative data).
+The majority of that increase occurred within the first 6 months of exposure to risperidone.
 The average percentiles at baseline and 12 months, respectively, were 49 and 60 for weight, 48 and 53 for height, and 50 and 62 for body mass index.
 
-In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the Risperidone groups than the placebo group, but not dose related (1.90 kg in the Risperidone 0.5 to 2.5 mg group, 1.44 kg in the Risperidone 3 to 6 mg group, and 0.65 kg in the placebo group).
+In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the risperidone groups than the placebo group, but not dose related (1.90 kg in the risperidone 0.5 to 2.5 mg group, 1.44 kg in the risperidone 3 to 6 mg group, and 0.65 kg in the placebo group).
 A similar trend was observed in the mean change from baseline in body mass index.
 
-When treating pediatric patients with Risperidone for any indication, weight gain should be assessed against that expected with normal growth.
+When treating pediatric patients with risperidone for any indication, weight gain should be assessed against that expected with normal growth.
+
+Summary of Heart Protection Study Results
+
+| Endpoint | Simvastatin Tablets (N=10,269) n (%) number of patients with indicated event. | Placebo (N=10,267) n (%) | Risk Reduction (%) (95% CI) | p-Value |
+| --- | --- | --- | --- | --- |
+| Primary |  |  |  |  |
+| Mortality | 1,328 (12.9) | 1,507 (14.7) | 13 (6 to 19) | p=0.0003 |
+| CHD mortality | 587 (5.7) | 707 (6.9) | 18 (8 to 26) | p=0.0005 |
+| Secondary |  |  |  |  |
+| Non-fatal MI | 357 (3.5) | 574 (5.6) | 38 (30 to 46) | p<0.0001 |
+| Stroke | 444 (4.3) | 585 (5.7) | 25 (15 to 34) | p<0.0001 |
+| Tertiary |  |  |  |  |
+| Coronary revascularization | 513 (5) | 725 (7.1) | 30 (22 to 38) | p<0.0001 |
+| 1 volume of distribution/bioavailability. |  |  |  |  |
 
 ## 5.6 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D2 receptors, Risperidone elevates prolactin levels and the elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D 2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
 Risperidone is associated with higher levels of prolactin elevation than other antipsychotic agents.
 
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -230,39 +250,39 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 ## 5.7 Orthostatic Hypotension
 
 Risperidone may induce orthostatic hypotension associated with dizziness, tachycardia, and in some patients, syncope, especially during the initial dose-titration period, probably reflecting its alpha-adrenergic antagonistic properties.
-Syncope was reported in 0.2% (6/2607) of Risperidone-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [see Dosage and Administration (2.1, 2.4)].
+Syncope was reported in 0.2% (6/2,607) of risperidone-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [seeDosageandAdministration(2.1, 2.4)].
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 A dose reduction should be considered if hypotension occurs.
 Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia.
-Clinically significant hypotension has been observed with concomitant use of Risperidone and antihypertensive medication.
+Clinically significant hypotension has been observed with concomitant use of risperidone and antihypertensive medication.
 
 ## 5.8 Falls
 
-Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, incluiding Risperidone, which may lead to fall and, consequently, fractures or other fall-related injuries.
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including risperidone, which may lead to falls and, consequently, fractures or other fall-related injuries.
 For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
-Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including Risperidone.
+ClassEffect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of Risperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of risperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Risperidone and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1,000/mm 3) should discontinue risperidone and have their WBC followed until recovery.
 
 ## 5.10 Potential for Cognitive and Motor Impairment
 
-Somnolence was a commonly reported adverse reaction associated with Risperidone treatment, especially when ascertained by direct questioning of patients.
-This adverse reaction is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (Risperidone 16 mg/day) reported somnolence compared to 16% of placebo patients.
-Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of Risperidone 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse reaction.
-Since Risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Risperidone therapy does not affect them adversely.
+Somnolence was a commonly reported adverse reaction associated with risperidone treatment, especially when ascertained by direct questioning of patients.
+This adverse reaction is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (risperidone 16 mg/day) reported somnolence compared to 16% of placebo patients.
+Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of risperidone 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse reaction.
+Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that risperidone therapy does not affect them adversely.
 
 ## 5.11 Seizures
 
-During premarketing testing in adult patients with schizophrenia, seizures occurred in 0.3% (9/2607) of Risperidone-treated patients, two in association with hyponatremia.
+During premarketing testing in adult patients with schizophrenia, seizures occurred in 0.3% (9/2,607) of risperidone-treated patients, two in association with hyponatremia.
 Risperidone should be used cautiously in patients with a history of seizures.
 
 ## 5.12 Dysphagia
@@ -280,5 +300,5 @@ Severe priapism may require surgical intervention.
 ## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
-Both hyperthermia and hypothermia have been reported in association with oral Risperidone use.
+Both hyperthermia and hypothermia have been reported in association with oral risperidone use.
 Caution is advised when prescribing for patients who will be exposed to temperature extremes.
