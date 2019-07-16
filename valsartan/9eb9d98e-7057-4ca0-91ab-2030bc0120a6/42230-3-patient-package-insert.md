@@ -15,14 +15,14 @@ Valsartan tablets can cause harm or death to an unborn baby.
 Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 If you get pregnant while taking valsartan tablets, tell your doctor right away.
 
-What is valsartan tablets?
+What is valsartan tablet?
 
 Valsartan tablet is a prescription medicine called an angiotensin receptor blocker (ARB).
 It is used in adults to:
 
 - lower high blood pressure (hypertension) in adults and children, 6 to 16 years of age.
 - treat heart failure in adults.
-  In these patients, valsartan tablets may lower the need for hospitalization that happens from heart failure.
+  In these patients, valsartan tablet may lower the need for hospitalization that happens from heart failure.
 - improve the chance of living longer after a heart attack (myocardial infarction) in adults.
 
 Valsartan tablet is not for children under 6 years of age or children with certain kidney problems.
@@ -53,8 +53,8 @@ Tell your doctor about all your medical conditions including whether you:
 - are pregnant or planning to become pregnant.
   See "What is the most important information I should know about valsartan tablets?"
 - are breastfeeding.
-  It is not known if valsartan passes into your breast milk.
-  You and your doctor should decide if you will take valsartan tablets or breastfeed, but not both.
+  It is not known if valsartan passes into your breast milk or effects your breastfed baby or milk production.
+  Do not breastfeed while you are taking valsartan tablets.
   Talk with your doctor about the best way to feed your baby if you take valsartan tablets.
 - have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
@@ -145,7 +145,7 @@ For a complete list, ask your doctor or pharmacist.
 
 How do I store valsartan tablets?
 
-- Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F).
+- Store valsartan tablets at room temperature between 59ºF to 86ºF (15ºC to 30ºC)
 - Keep valsartan tablets in a closed container in a dry place.
 - Keep valsartan tablets and all medicines out of the reach of children.
 
@@ -185,4 +185,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: May 2017 ID#: 251210
+Revised: July 12, 2019 ID#: 261473

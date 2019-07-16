@@ -1,14 +1,26 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Information for Patients
-
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Pregnancy
 
-Female patients of childbearing age should be told about the consequences of exposure to valsartan tablets during pregnancy.
+Advise female patients of childbearing age about the consequences of exposure to valsartan tablets during pregnancy.
 Discuss treatment options with women planning to become pregnant.
-Patients should be asked to report pregnancies to their physicians as soon as possible.
+Ask patients to report pregnancies to their healthcare provider as soon as possible [see WARNINGS AND PRECAUTIONS (5.1) and USE IN SPECIFIC POPULATIONS (8.1)].
+
+Lactation
+
+Advise women not to breastfeed during treatment with valsartan tablets [see USE IN SPECIFIC POPULATIONS (8.2)].
+
+Symptomatic Hypotension
+
+Advise patients that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to their healthcare provider.
+Tell patients that if syncope occurs to discontinue valsartan tablets until the physician has been consulted.
+Caution all patients that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope [see WARNINGS AND PRECAUTIONS (5.2)].
+
+Hyperkalemia
+
+Advise patients not to use salt substitutes without consulting their healthcare provider [see DRUG INTERACTIONS (7.1)].
 
 Manufactured for:
 
@@ -26,4 +38,4 @@ Goa - 403 722
 
 INDIA
 
-Revised: May 2017 ID#: 251189
+Revised: July 12, 2019
