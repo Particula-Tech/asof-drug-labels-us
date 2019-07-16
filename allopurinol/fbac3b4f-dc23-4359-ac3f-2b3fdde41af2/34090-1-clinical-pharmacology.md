@@ -21,8 +21,7 @@ This enzyme is required for the conversion of hypoxanthine, xanthine, and guanin
 The third patient had lymphosarcoma and produced an extremely large amount of uric acid because of rapid cell lysis during chemotherapy.
 
 Allopurinol is approximately 90% absorbed from the gastrointestinal tract.
-Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol respectively.
-After a single oral dose of 300 mg allopurinol, maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol are produced.
+Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol respectively, and after a single oral dose of 300 mg allopurinol, maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol are produced.
 
 Approximately 20% of the ingested allopurinol is excreted in the feces.
 Because of its rapid oxidation to oxipurinol and a renal clearance rate approximately that of glomerular filtration rate, allopurinol has a plasma half-life of about 1 to 2 hours.
@@ -40,9 +39,9 @@ Gout is a metabolic disorder which is characterized by hyperuricemia and resulta
 The etiology of this hyperuricemia is the overproduction of uric acid in relation to the patient's ability to excrete it.
 If progressive deposition of urates is to be arrested or reversed, it is necessary to reduce the serum uric acid level below the saturation point to suppress urate precipitation.
 
-Administration of allopurinol generally results in a fall in both serum and urinary uric acid within two to three days.
+Administration of allopurinol generally results in a fall in both serum and urinary uric acid within 2 to 3 days.
 The degree of this decrease can be manipulated almost at will since it is dose-dependent.
-A week or more of treatment with allopurinol may be required before its full effects are manifested; likewise, uric acid may return to pretreatment levels slowly (usually after a period of seven to ten days following cessation of therapy).
+A week or more of treatment with allopurinol may be required before its full effects are manifested; likewise, uric acid may return to pretreatment levels slowly (usually after a period of 7 to 10 days following cessation of therapy).
 This reflects primarily the accumulation and slow clearance of oxipurinol.
 In some patients a dramatic fall in urinary uric acid excretion may not occur, particularly in those with severe tophaceous gout.
 It has been postulated that this may be due to the mobilization of urate from tissue deposits as the serum uric acid level begins to fall.

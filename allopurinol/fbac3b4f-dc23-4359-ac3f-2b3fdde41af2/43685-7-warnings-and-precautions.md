@@ -1,7 +1,7 @@
 # WARNINGS
 
 ALLOPURINOL SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR OTHER SIGNS WHICH MAY INDICATE AN ALLERGIC REACTION.
-In some instances a skin rash may be followed by more severe hypersensitivity reactions such as exfoliative, urticarial, and purpuric lesions, as well as Stevens-Johnson syndrome (erythema multiforme exudativum), and/or generalized vasculitis, irreversible hepatotoxicity and, on rare occasions, death.
+In some instances a skin rash may be followed by more severe hypersensitivity reactions such as exfoliative, urticarial, and purpuric lesions, as well as Stevens-Johnson syndrome (erythema multiforme exudativum), Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) and/or generalized vasculitis, irreversible hepatotoxicity, and, on rare occasions, death (see ADVERSE REACTIONS).
 
 In patients receiving PURINETHOL® (mercaptopurine) or IMURAN® (azathioprine), the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
 Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
@@ -17,9 +17,7 @@ For this reason, in this clinical setting, such combinations should be administe
 
 # PRECAUTIONS
 
-## General
-
-An increase in acute attacks of gout has been reported during the early stages of allopurinol administration, even when normal or subnormal serum uric acid levels have been attained.
+General: An increase in acute attacks of gout has been reported during the early stages of administration of allopurinol, even when normal or subnormal serum uric acid levels have been attained.
 Accordingly, maintenance doses of colchicine generally should be given prophylactically when allopurinol is begun.
 In addition, it is recommended that the patient start with a low dose of allopurinol (100 mg daily) and increase at weekly intervals by 100 mg until a serum uric acid level of 6 mg/dL or less is attained but without exceeding the maximum recommended dose (800 mg per day).
 The use of colchicine or anti-inflammatory agents may be required to suppress gouty attacks in some cases.
@@ -27,7 +25,7 @@ The attacks usually become shorter and less severe after several months of thera
 The mobilization of urates from tissue deposits which cause fluctuations in the serum uric acid levels may be a possible explanation for these episodes.
 Even with adequate therapy with allopurinol, it may require several months to deplete the uric acid pool sufficiently to achieve control of the acute attacks.
 
-A fluid intake sufficient to yield a daily urinary output of at least two liters and the maintenance of a neutral or, preferably, slightly alkaline urine are desirable to (1) avoid the theoretical possibility of formation of xanthine calculi under the influence of therapy with allopurinol and (2) help prevent renal precipitation of urates in patients receiving concomitant uricosuric agents.
+A fluid intake sufficient to yield a daily urinary output of at least 2 liters and the maintenance of a neutral or, preferably, slightly alkaline urine are desirable to (1) avoid the theoretical possibility of formation of xanthine calculi under the influence of therapy with allopurinol and (2) help prevent renal precipitation of urates in patients receiving concomitant uricosuric agents.
 
 Some patients with pre-existing renal disease or poor urate clearance have shown a rise in BUN during administration of allopurinol.
 Although the mechanism responsible for this has not been established, patients with impaired renal function should be carefully observed during the early stages of administration of allopurinol and the dosage decreased or the drug withdrawn if increased abnormalities in renal function appear and persist.
@@ -43,22 +41,20 @@ In patients with severely impaired renal function or decreased urate clearance, 
 Therefore, a dose of 100 mg per day or 300 mg twice a week, or perhaps less, may be sufficient to maintain adequate xanthine oxidase inhibition to reduce serum urate levels.
 
 Bone marrow depression has been reported in patients receiving allopurinol, most of whom received concomitant drugs with the potential for causing this reaction.
-This has occurred as early as six weeks to as long as six years after the initiation of therapy of allopurinol.
-Rarely a patient may develop varying degrees of bone marrow depression, affecting one or more cell lines, while receiving allopurinol alone.
+This has occurred as early as 6 weeks to as long as 6 years after the initiation of therapy of allopurinol.
+Rarely, a patient may develop varying degrees of bone marrow depression, affecting one or more cell lines, while receiving allopurinol alone.
 
-## Information for Patients
+Information for Patients: Patients should be informed of the following:
 
-Patients should be informed of the following: (1) They should be cautioned to discontinue allopurinol and to consult their physician immediately at the first sign of a skin rash, painful urination, blood in the urine, irritation of the eyes, or swelling of the lips or mouth.
-(2) They should be reminded to continue drug therapy prescribed for gouty attacks since optimal benefit of allopurinol may be delayed for two to six weeks.
+(1) They should be cautioned to discontinue allopurinol and to consult their physician immediately at the first sign of a skin rash, painful urination, blood in the urine, irritation of the eyes, or swelling of the lips or mouth.
+(2) They should be reminded to continue drug therapy prescribed for gouty attacks since optimal benefit of allopurinol may be delayed for 2 to 6 weeks.
 (3) They should be encouraged to increase fluid intake during therapy to prevent renal stones.
 (4) If a single dose of allopurinol is occasionally forgotten, there is no need to double the dose at the next scheduled time.
 (5) There may be certain risks associated with the concomitant use of allopurinol and dicumarol, sulfinpyrazone, mercaptopurine, azathioprine, ampicillin, amoxicillin, and thiazide diuretics, and they should follow the instructions of their physician.
 (6) Due to the occasional occurrence of drowsiness, patients should take precautions when engaging in activities where alertness is mandatory.
 (7) Patients may wish to take allopurinol after meals to minimize gastric irritation.
 
-## Laboratory Tests
-
-The correct dosage and schedule for maintaining the serum uric acid within the normal range is best determined by using the serum uric acid as an index.
+Laboratory Tests: The correct dosage and schedule for maintaining the serum uric acid within the normal range is best determined by using the serum uric acid as an index.
 
 In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy (see WARNINGS).
 
@@ -67,9 +63,7 @@ In patients with decreased renal function or who have concurrent illnesses which
 
 The prothrombin time should be reassessed periodically in the patients receiving dicumarol who are given allopurinol.
 
-## Drug Interactions
-
-In patients receiving mercaptopurine or IMURAN (azathioprine), the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
+Drug Interactions: In patients receiving mercaptopurine or IMURAN (azathioprine), the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one third to one fourth of the usual dose of mercaptopurine or azathioprine.
 Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
 
 It has been reported that allopurinol prolongs the half-life of the anticoagulant, dicumarol.
@@ -79,7 +73,7 @@ Since the excretion of oxipurinol is similar to that of urate, uricosuric agents
 The concomitant administration of uricosuric agents and allopurinol has been associated with a decrease in the excretion of oxypurines (hypoxanthine and xanthine) and an increase in urinary uric acid excretion compared with that observed with allopurinol alone.
 Although clinical evidence to date has not demonstrated renal precipitation of oxypurines in patients either on allopurinol alone or in combination with uricosuric agents, the possibility should be kept in mind.
 
-The reports that the concomitant use of allopurinol and thiazide diuretics may contribute to the enhancement of allopurinol toxicity in some patients have been reviewed in an attempt to establish a cause-and-effect relationship, and a mechanism of causation.
+The reports that the concomitant use of allopurinol and thiazide diuretics may contribute to the enhancement of allopurinol toxicity in some patients have been reviewed in an attempt to establish a cause-and-effect relationship and a mechanism of causation.
 Review of these case reports indicates that the patients were mainly receiving thiazide diuretics for hypertension and that tests to rule out decreased renal function secondary to hypertensive nephropathy were not often performed.
 In those patients in whom renal insufficiency was documented, however, the recommendation to lower the dose of allopurinol was not followed.
 Although a causal mechanism and a cause-and-effect relationship have not been established, current evidence suggests that renal function should be monitored in patients on thiazide diuretics and allopurinol even in the absence of renal failure, and dosage levels should be even more conservatively adjusted in those patients on such combined therapy if diminished renal function is detected.
@@ -97,19 +91,11 @@ Chlorpropamide's plasma half-life may be prolonged by allopurinol, since allopur
 The risk of hypoglycemia secondary to this mechanism may be increased if allopurinol and chlorpropamide are given concomitantly in the presence of renal insufficiency.
 
 Rare reports indicate that cyclosporine levels may be increased during concomitant treatment with allopurinol.
-Monitoring of cyclosporine levels and possible adjustment of cyclosporine dosage should be considered when these drugs are coadministered.
+Monitoring of cyclosporine levels and possible adjustment of cyclosporine dosage should be considered when these drugs are co-administered.
 
-## Drug/Laboratory Test Interactions
+Drug/Laboratory Test Interactions: Allopurinol is not known to alter the accuracy of laboratory tests.
 
-Allopurinol is not known to alter the accuracy of laboratory tests.
-
-## Pregnancy
-
-## Teratogenic Effects:
-
-### Pregnancy Category C.
-
-Reproductive studies have been performed in rats and rabbits at doses up to twenty times the usual human dose (5 mg/kg/day), and it was concluded that there was no impaired fertility or harm to the fetus due to allopurinol.
+Pregnancy: Teratogenic Effects:Reproductive studies have been performed in rats and rabbits at doses up to twenty times the usual human dose (5 mg/kg per day), and it was concluded that there was no impaired fertility or harm to the fetus due to allopurinol.
 There is a published report of a study in pregnant mice given 50 or 100 mg/kg allopurinol intraperitoneally on gestation days 10 or 13.
 There were increased numbers of dead fetuses in dams given 100 mg/kg allopurinol but not in those given 50 mg/kg.
 There were increased numbers of external malformations in fetuses at both doses of allopurinol on gestation day 10 and increased numbers of skeletal malformations in fetuses at both doses on gestation day 13.
@@ -118,13 +104,12 @@ There are, however, no adequate or well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 Experience with allopurinol during human pregnancy has been limited partly because women of reproductive age rarely require treatment with allopurinol.
-There are two unpublished reports and one published paper of women giving birth to normal offspring after receiving allopurinol during pregnancy.
+However, in 2011, a literature publication case report describes the outcome of a full term pregnancy in a 35 year-old woman who had recurrent kidney stones since age 18 who took allopurinol throughout the pregnancy.
+The child had multiple complex birth defects and died at 8 days of life.
+A second report in 2013 (Hoeltzenbein M et al (2013); PLoS ONE 8(6): e66637), provided data on 31 prospectively ascertained pregnancies involving mothers exposed to allopurinol for varying durations during the first trimester.
+The overall rate of major fetal malformations and spontaneous abortions was reported to be within the normal expected range; however, one child had severe malformations similar to those described in the cited earlier case report.
 
-## Nursing Mothers
-
-Allopurinol and oxipurinol have been found in the milk of a mother who was receiving allopurinol.
+Nursing Mothers: Allopurinol and oxipurinol have been found in the milk of a mother who was receiving allopurinol.
 Since the effect of allopurinol on the nursing infant is unknown, caution should be exercised when allopurinol is administered to a nursing woman.
 
-## Pediatric Use
-
-Allopurinol is rarely indicated for use in children with the exception of those with hyperuricemia secondary to malignancy or to certain rare inborn errors of purine metabolism (see INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
+Pediatric Use: Allopurinol is rarely indicated for use in children with the exception of those with hyperuricemia secondary to malignancy or to certain rare inborn errors of purine metabolism (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION).
