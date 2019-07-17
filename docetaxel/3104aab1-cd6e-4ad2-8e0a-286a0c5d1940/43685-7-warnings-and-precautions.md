@@ -104,8 +104,8 @@ Symptoms of fatigue and weakness may last a few days up to several weeks and may
 ## 5.11 Use in Pregnancy
 
 Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
-Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
-Embryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the recommended human dose on a body surface area basis.
+Docetaxel caused embryo-fetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
+Embryo-fetal effects in animals occurred at doses as low as 1/50 and 1/300 the recommended human dose on a body surface area basis.
 There are no adequate and well-controlled studies in pregnant women using Docetaxel Injection.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection [see Use in Specific Populations (8.1)].
