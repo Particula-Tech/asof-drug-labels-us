@@ -11,7 +11,9 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-### Animal Data
+### Data
+
+Animal Data
 
 In an embryofetal developmental study, intramuscular doses up to 4 unit/kg JEUVEAU were administered to pregnant rats once daily during organogenesis (gestation days 6 to 16).
 No maternal or embryofetal toxicities were observed at doses up to 4 unit/kg (12 times the MRHD of 20 units, based on unit/kg comparison).
@@ -29,5 +31,4 @@ Safety and effectiveness in pediatric patients have not been established.
 ## 8.5 Geriatric Use
 
 The two clinical trials of JEUVEAU included 68 subjects age 65 and greater.
-Although no differences in safety or efficacy were observed between older and younger subjects.
-Clinical studies of JEUVEAU did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Although no differences in safety or efficacy were observed between older and younger subjects, clinical studies of JEUVEAU did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

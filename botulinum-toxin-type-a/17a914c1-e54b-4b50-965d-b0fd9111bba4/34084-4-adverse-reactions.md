@@ -15,11 +15,11 @@ Localized pain, infection, inflammation, tenderness, swelling, erythema, and/or 
 Needle-related pain and/or anxiety may result in vasovagal responses, including syncope and hypotension, which may require appropriate medical therapy.
 
 Local weakness of the injected muscle(s) represents the expected pharmacological action of botulinum toxin.
-However, weakness of nearby muscles may also occur due to spread of toxin [see Warnings and Precautions (5.1)].
+However, weakness of nearby muscles may also occur due to spread of toxin effect [see Warnings and Precautions (5.1)].
 
 Glabellar Lines
 
-The adverse reactions below reflect exposure to JEUVEAU with glabellar lines in placebo-controlled studies [See Clinical Studies (14)].
+The adverse reactions below reflect exposure to JEUVEAU in the treatment of glabellar lines in placebo-controlled trials [See Clinical Studies (14)].
 
 Table 2.
 Adverse Reactions Reported at Higher Frequency (≥1%) in the JEUVEAU Group Compared to the Placebo Group
@@ -33,7 +33,7 @@ Adverse Reactions Reported at Higher Frequency (≥1%) in the JEUVEAU Group Comp
 
 Two multi-center, open label, 1-year repeat dose safety trials, EV-004 [NCT02184988] and EV-006 [NCT02428608], were also conducted with JEUVEAU.
 Both trials evaluated repeat treatments of 20 units of JEUVEAU, up to a maximum total of 80 units, for the treatment of moderate to severe glabellar lines in adult subjects.
-Of the 922 subjects enrolled the median number of treatments was three.
+Of the 922 subjects enrolled, the median number of treatments was three.
 The adverse events profile was similar to that reported in single dose trials.
 
 ## 6.2 Immunogenicity

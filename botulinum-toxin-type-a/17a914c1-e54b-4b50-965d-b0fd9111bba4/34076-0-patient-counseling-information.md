@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Advise patients to inform their doctor or pharmacist if they develop any unusual symptoms (including difficulty with swallowing, speaking or breathing), or if any known symptom persists or worsens [see Warnings and Precautions (5.1, 5.4)].
+Advise patients to inform their doctor if they develop any unusual symptoms (including difficulty with swallowing, speaking or breathing), or if any known symptom persists or worsens [see Warnings and Precautions (5.1, 5.4)].
 
 Inform patients that JEUVEAU injection may cause eye dryness.
 Advise patients to report symptoms of eye dryness (e.g., eye pain, eye irritation, photosensitivity, or changes in vision) to their doctor [see Warnings and Precautions (5.9)].
@@ -19,3 +19,5 @@ at: Daewoong Pharmaceutical Co., Ltd. 12, Bongeunsa-ro 114-gil, Gangnam-gu, Seou
 All rights reserved.
 
 All Trademarks are the property of their respective owners.
+
+DWG-131
