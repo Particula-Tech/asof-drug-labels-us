@@ -2,9 +2,10 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Hypertension, Hypokalemia, and Fluid Retention due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)].
+- Hypokalemia, Fluid Retention, and Cardiovascular Adverse Reactions due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)].
 - Adrenocortical Insufficiency [see Warnings and Precautions (5.2)].
 - Hepatotoxicity [see Warnings and Precautions (5.3)].
+- Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trial Experience
 
@@ -186,3 +187,5 @@ Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
 Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.
 
 Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
+
+Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).

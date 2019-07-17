@@ -5,9 +5,9 @@ All patients in these studies received a GnRH analog or had prior bilateral orch
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 Concurrent use of spironolactone was not allowed during the study period.
 
-COU-AA-301 (NCT00638690): Patients with metastatic CRPC who had received prior docetaxel chemotherapy
+COU-AA-301: Patients with metastatic CRPC who had received prior docetaxel chemotherapy
 
-A total of 1195 patients were randomized 2:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N=797) or placebo once daily plus prednisone 5 mg orally twice daily (N=398).
+In COU-AA-301 (NCT00638690), a total of 1195 patients were randomized 2:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N=797) or placebo once daily plus prednisone 5 mg orally twice daily (N=398).
 Patients randomized to either arm were to continue treatment until disease progression (defined as a 25% increase in PSA over the patient’s baseline/nadir together with protocol-defined radiographic progression and symptomatic or clinical progression), initiation of new treatment, unacceptable toxicity or withdrawal.
 
 The following patient demographics and baseline disease characteristics were balanced between the treatment arms.
@@ -42,9 +42,9 @@ Hazard ratio <1 favors abiraterone acetate with prednisone.
 
 Figure 1: Kaplan-Meier Overall Survival Curves in COU-AA-301 (Intent-to-Treat Analysis)
 
-COU-AA-302 (NCT00887198): Patients with metastatic CRPC who had not received prior cytotoxic chemotherapy
+COU-AA-302: Patients with metastatic CRPC who had not received prior cytotoxic chemotherapy
 
-In COU-AA-302, 1088 patients were randomized 1:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily (N=546) or Placebo orally once daily (N=542).
+In COU-AA-302 (NCT00887198), 1088 patients were randomized 1:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily (N=546) or Placebo orally once daily (N=542).
 Both arms were given concomitant prednisone 5 mg twice daily.
 Patients continued treatment until radiographic or clinical (cytotoxic chemotherapy, radiation or surgical treatment for cancer, pain requiring chronic opioids, or ECOG performance status decline to 3 or more) disease progression, unacceptable toxicity or withdrawal.
 Patients with moderate or severe pain, opiate use for cancer pain, or visceral organ metastases were excluded.
