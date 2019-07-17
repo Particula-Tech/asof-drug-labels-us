@@ -1,18 +1,15 @@
 # 14 CLINICAL STUDIES
 
-TRADJENTA has been studied as monotherapy and in combination with metformin, glimepiride, pioglitazone, and insulin.
+## 14.1 Glycemic Control Trials
 
-A total of 3648 patients with type 2 diabetes were randomized and exposed to linagliptin for at least 12 weeks in 10 double-blind, placebo-controlled clinical efficacy studies evaluating the effects of TRADJENTA on glycemic control.
-The overall ethnic/racial distribution in these studies was 69% White, 29% Asian, and 2.5% Black, and included 16% Hispanic/Latino patients.
-Fifty two percent of patients were male.
-Patients had an overall mean age of 57 years (range 20 to 91 years).
-In addition, an active (glimepiride)-controlled study of 104 weeks’ duration was conducted in 1551 patients with type 2 diabetes who had inadequate glycemic control on metformin, and a placebo-controlled study of 52 weeks’ duration was conducted in 133 patients with type 2 diabetes and severe chronic renal impairment (eGFR <30 mL/min).
+TRADJENTA has been studied as monotherapy and in combination with metformin, sulfonylurea, pioglitazone, and insulin.
+TRADJENTA has also been studied in patients with type 2 diabetes and severe chronic renal impairment.
 
 In patients with type 2 diabetes, treatment with TRADJENTA produced clinically significant improvements in hemoglobin A1c (A1C), fasting plasma glucose (FPG), and 2-hour post-prandial glucose (PPG) compared with placebo.
 
-## 14.1 Monotherapy
+Monotherapy
 
-A total of 730 patients with type 2 diabetes participated in 2 double-blind, placebo-controlled studies, one of 18 weeks’ and another of 24 weeks’ duration, to evaluate the efficacy and safety of TRADJENTA monotherapy.
+A total of 730 patients with type 2 diabetes participated in 2 double-blind, placebo-controlled studies, one of 18 weeks' and another of 24 weeks' duration, to evaluate the efficacy and safety of TRADJENTA monotherapy.
 In both monotherapy studies, patients currently on an antihyperglycemic agent discontinued the agent and underwent a diet, exercise, and drug washout period of about 6 weeks that included an open-label placebo run-in during the last 2 weeks.
 Patients with inadequate glycemic control (A1C 7% to 10%) after the washout period were randomized; patients not currently on antihyperglycemic agents (off therapy for at least 8 weeks) with inadequate glycemic control (A1C 7% to 10%) were randomized after completing the 2-week, open-label, placebo run-in period.
 In the 18-week study, only patients ineligible for metformin were recruited.
@@ -50,9 +47,7 @@ Table 4 Glycemic Parameters in Placebo-Controlled Monotherapy Studies of TRADJEN
 | Difference from placebo (adjusted mean) (95% CI) | -- | -- | -58 (-82, -34) | -- |
 | *Full analysis population using last observation on study **18-week study: Placebo, n=68; TRADJENTA, n=136 24-week study: Placebo, n=147; TRADJENTA, n=306 ***18-week study. HbA1c: ANCOVA model included treatment, reason for metformin intolerance and number of prior oral anti-diabetic medicine(s) (OADs) as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, reason for metformin intolerance and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. 24-week study. HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |  |  |
 
-## 14.2 Combination Therapy
-
-### Add-on Combination Therapy with Metformin
+Add-on Combination Therapy with Metformin
 
 A total of 701 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of TRADJENTA in combination with metformin.
 Patients already on metformin (n = 491) at a dose of at least 1500 mg per day were randomized after completing a 2-week, open-label, placebo run-in period.
@@ -86,10 +81,10 @@ Table 5 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combina
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -67 (-95, -40) | -- |
 | *Full analysis population using last observation on study **TRADJENTA 5 mg + Metformin, n=485; Placebo + Metformin, n=163 ***HbA1c: ANCOVA model included treatment and number of prior oral OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |
 
-### Initial Combination Therapy with Metformin
+Initial Combination Therapy with Metformin
 
 A total of 791 patients with type 2 diabetes mellitus and inadequate glycemic control on diet and exercise participated in the 24-week, randomized, double-blind, portion of this placebo-controlled factorial study designed to assess the efficacy of TRADJENTA as initial therapy with metformin.
-Patients on an antihyperglycemic agent (52%) underwent a drug washout period of 4 weeks’ duration.
+Patients on an antihyperglycemic agent (52%) underwent a drug washout period of 4 weeks' duration.
 After the washout period and after completing a 2-week single-blind placebo run-in period, patients with inadequate glycemic control (A1C ≥7.0% to ≤10.5%) were randomized.
 Patients with inadequate glycemic control (A1C ≥7.5% to <11.0%) not on antihyperglycemic agents at study entry (48%) immediately entered the 2-week, single-blind, placebo run-in period and then were randomized.
 Randomization was stratified by baseline A1C (<8.5% vs ≥8.5%) and use of a prior oral antidiabetic drug (none vs monotherapy).
@@ -122,10 +117,10 @@ Table 6 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and M
 | Difference from placebo (adjusted mean) (95% CI) | -- | -19 (-31, -6) | -26 (-38, -14) | -43 (-56, -31) | -42 (-55, -30) | -60 (-72, -47) |
 | *Total daily dose of TRADJENTA is equal to 5 mg **Full analysis population using last observation on study ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1000 mg twice daily, n=138 ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
 
-### Active-Controlled Study vs Glimepiride in Combination with Metformin
+Active-Controlled Study vs Glimepiride in Combination with Metformin
 
 The efficacy of TRADJENTA was evaluated in a 104-week, double-blind, glimepiride-controlled, non-inferiority study in patients with type 2 diabetes with insufficient glycemic control despite metformin therapy.
-Patients being treated with metformin only entered a run-in period of 2 weeks’ duration, whereas patients pretreated with metformin and one additional antihyperglycemic agent entered a run-in treatment period of 6 weeks’ duration with metformin monotherapy (dose of ≥1500 mg/day) and washout of the other agent.
+Patients being treated with metformin only entered a run-in period of 2 weeks' duration, whereas patients pretreated with metformin and one additional antihyperglycemic agent entered a run-in treatment period of 6 weeks' duration with metformin monotherapy (dose of ≥1500 mg/day) and washout of the other agent.
 After an additional 2-week placebo run-in period, those with inadequate glycemic control (A1C 6.5% to 10%) were randomized 1:1 to the addition of TRADJENTA 5 mg once daily or glimepiride.
 Randomization was stratified by baseline HbA1c (<8.5% vs ≥8.5%), and the previous use of antidiabetic drugs (metformin alone vs metformin plus one other OAD).
 Patients receiving glimepiride were given an initial dose of 1 mg/day and then electively titrated over the next 12 weeks to a maximum dose of 4 mg/day as needed to optimize glycemic control.
@@ -157,7 +152,7 @@ Table 7 Glycemic Parameters at 52 and 104 Weeks in Study Comparing TRADJENTA to 
 Patients treated with linagliptin had a mean baseline body weight of 86 kg and were observed to have an adjusted mean decrease in body weight of 1.1 kg at 52 weeks and 1.4 kg at 104 weeks.
 Patients on glimepiride had a mean baseline body weight of 87 kg and were observed to have an adjusted mean increase from baseline in body weight of 1.4 kg at 52 weeks and 1.3 kg at 104 weeks (treatment difference p<0.0001 for both timepoints).
 
-### Add-On Combination Therapy with Pioglitazone
+Add-On Combination Therapy with Pioglitazone
 
 A total of 389 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of TRADJENTA in combination with pioglitazone.
 Therapy was stopped in patients on oral antihyperglycemic therapy for a period of 6 weeks (4 weeks followed by a 2-week, open-label, placebo run-in period).
@@ -187,7 +182,7 @@ Table 8 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combina
 | Difference from placebo + pioglitazone (adjusted mean) (95% CI) | -14 (-21, -7) | -- |
 | *Full analysis population using last observation on study **HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
-### Add-On Combination with Sulfonylureas
+Add-On Combination with Sulfonylureas
 
 A total of 245 patients with type 2 diabetes participated in an 18-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of TRADJENTA in combination with sulfonylurea (SU).
 Patients on sulfonylurea monotherapy (n = 142) were randomized after completing a 2-week, single-blind, placebo run-in period.
@@ -196,7 +191,7 @@ Patients were randomized to the addition of TRADJENTA 5 mg or to placebo, each a
 Patients who failed to meet specific glycemic goals during the studies were treated with metformin rescue.
 Glycemic endpoints measured included A1C and FPG.
 
-In combination with a sulfonylurea, TRADJENTA provided statistically significant improvements in A1C compared with placebo following 18 weeks’ treatment; the improvements in FPG observed with TRADJENTA were not statistically significant compared with placebo (Table 9).
+In combination with a sulfonylurea, TRADJENTA provided statistically significant improvements in A1C compared with placebo following 18 weeks' treatment; the improvements in FPG observed with TRADJENTA were not statistically significant compared with placebo (Table 9).
 Rescue therapy was used in 7.6% of patients treated with TRADJENTA 5 mg and 15.9% of patients treated with placebo.
 There was no significant difference between TRADJENTA and placebo in body weight.
 
@@ -217,7 +212,7 @@ Table 9 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combina
 | Difference from placebo + SU (adjusted mean) (95% CI) | -6 (-17, 4) | -- |
 | SU = sulfonylurea *Full analysis population using last observation on study **TRADJENTA 5 mg + SU, n=156; Placebo + SU, n=82 ***HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates |  |  |
 
-### Add-On Combination Therapy with Metformin and a Sulfonylurea
+Add-On Combination Therapy with Metformin and a Sulfonylurea
 
 A total of 1058 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of TRADJENTA in combination with a sulfonylurea and metformin.
 The most common sulfonylureas used by patients in the study were: glimepiride (31%), glibenclamide (26%), and gliclazide (26%, not available in the United States).
@@ -247,9 +242,11 @@ Table 10 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combin
 | Difference from placebo (adjusted mean) (95% CI) | -13 (-18, -7) | -- |
 | SU = sulfonylurea *Full analysis population using last observation on study **TRADJENTA 5 mg + Metformin + SU, n=742; Placebo + Metformin + SU, n=247 ***HbA1c: ANCOVA model included treatment as class-effects and baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
-Add-On Combination Therapy with Insulin A total of 1261 patients with type 2 diabetes inadequately controlled on basal insulin alone or basal insulin in combination with oral drugs participated in a randomized, double-blind placebo-controlled trial designed to evaluate the efficacy of TRADJENTA as add-on therapy to basal insulin over 24 weeks.
+Add-On Combination Therapy with Insulin
+
+A total of 1261 patients with type 2 diabetes inadequately controlled on basal insulin alone or basal insulin in combination with oral drugs participated in a randomized, double-blind, placebo-controlled trial designed to evaluate the efficacy of TRADJENTA as add-on therapy to basal insulin over 24 weeks.
 Randomization was stratified by baseline HbA1c (<8.5% vs ≥8.5%), renal function impairment status (based on baseline eGFR), and concomitant use of oral antidiabetic drugs (none, metformin only, pioglitazone only, metformin + pioglitazone).
-Patients with a baseline A1C of >7% and <10% were included in the study including 709 patients with renal impairment (eGFR <90 mL/min), most of whom (n=575) were categorized as mild renal impairment (eGFR 60 to <90 mL/min).
+Patients with a baseline A1C of ≥7% and ≤10% were included in the study including 709 patients with renal impairment (eGFR <90 mL/min), most of whom (n=575) were categorized as mild renal impairment (eGFR 60 to <90 mL/min).
 Patients entered a 2 week placebo run-in period on basal insulin (e.g., insulin glargine, insulin detemir, or NPH insulin) with or without metformin and/or pioglitazone background therapy.
 Following the run-in period, patients with inadequate glycemic control were randomized to the addition of either 5 mg of TRADJENTA or placebo, administered once daily.
 Patients were maintained on a stable dose of insulin prior to enrollment, during the run-in period, and during the first 24 weeks of treatment.
@@ -281,7 +278,7 @@ Table 11 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combin
 
 The difference between treatment with linagliptin and placebo in terms of adjusted mean change from baseline in HbA1c after 24 weeks was comparable for patients with no renal impairment (eGFR ≥90 mL/min, n=539), with mild renal impairment (eGFR 60 to <90 mL/min, n= 565), or with moderate renal impairment (eGFR 30 to <60 mL/min, n=124).
 
-## 14.3 Renal Impairment
+Renal Impairment
 
 A total of 133 patients with type 2 diabetes participated in a 52 week, double-blind, randomized, placebo-controlled trial designed to evaluate the efficacy and safety of TRADJENTA in patients with both type 2 diabetes and severe chronic renal impairment.
 Participants with an estimated (based on the four variables modified diet in renal disease [MDRD] equation) GFR value of <30 mL/min were eligible to participate in the study.
@@ -292,3 +289,39 @@ At baseline in this trial, 62.5% of patients were receiving insulin alone as bac
 
 After 12 weeks of treatment, TRADJENTA 5 mg provided statistically significant improvement in A1C compared to placebo, with an adjusted mean change of -0.6% compared to placebo (95% confidence interval -0.9, -0.3) based on the analysis using last observation carried forward (LOCF).
 With adjustments in antidiabetic background therapy after the initial 12 weeks, efficacy was maintained for 52 weeks, with an adjusted mean change from baseline in A1C of -0.7% compared to placebo (95% confidence interval -1.0, -0.4) based on analysis using LOCF.
+
+## 14.2 Cardiovascular Safety Trial
+
+The cardiovascular risk of TRADJENTA was evaluated in CARMELINA, a multi-national, multi-center, placebo-controlled, double-blind, parallel group trial comparing TRADJENTA (N=3494) to placebo (N=3485) in adult patients with type 2 diabetes mellitus and a history of established macrovascular and/or renal disease.
+The trial compared the risk of major adverse cardiovascular events (MACE) between TRADJENTA and placebo when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
+The trial was event driven, the median duration of follow-up was 2.2 years and vital status was obtained for 99.7% of patients.
+
+Patients were eligible to enter the trial if they were adults with type 2 diabetes, with HbA1c of 6.5% to 10%, and had either albuminuria and previous macrovascular disease (39% of enrolled population), or evidence of impaired renal function by eGFR and Urinary Albumin Creatinine Ratio (UACR) criteria (42% of enrolled population), or both (18% of enrolled population).
+
+At baseline the mean age was 66 years and the population was 63% male, 80% Caucasian, 9% Asian, and 6% Black.
+Mean HbA1c was 8.0% and mean duration of type 2 diabetes mellitus was 15 years.
+The trial population included 17% patients ≥75 years of age and 62% patients with renal impairment defined as eGFR <60 mL/min/1.73m2.
+The mean eGFR was 55 mL/min/1.73m2 and 27% of patients had mild renal impairment (eGFR 60 to 90 mL/min/1.73m2), 47% of patients had moderate renal impairment (eGFR 30 to <60 mL/min/1.73 m2) and 15% of patients had severe renal impairment (eGFR <30 mL/min/1.73 m2).
+Patients were taking at least one antidiabetic drug (97%), and the most common were insulin and analogues (57%), metformin (54%) and sulfonylurea (32%).
+Patients were also taking antihypertensives (96%), lipid lowering drugs (76%) with 72% on statin, and aspirin (62%).
+
+The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, nonfatal myocardial infarction or nonfatal stroke.
+The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
+
+The results of CARMELINA, including the contribution of each component to the primary composite endpoint, are shown in Table 12.
+The estimated hazard ratio for MACE associated with TRADJENTA relative to placebo was 1.02 with a 95% confidence interval of (0.89, 1.17).
+The upper bound of this confidence interval, 1.17, excluded the risk margin of 1.3.
+The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 1.
+
+Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
+
+|  | TRADJENTA 5 mg n = 3494 |  | Placebo n = 3485 |  | Hazard Ratio |
+| --- | --- | --- | --- | --- | --- |
+|  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
+| Composite of first event of CV death, non-fatal myocardial infarction (MI), or non-fatal stroke (MACE) | 434 (12.4) | 57.7 | 420 (12.1) | 56.3 | 1.02 (0.89, 1.17) |
+| CV death** | 255 (7.3) | 32.6 | 264 (7.6) | 34.0 | 0.96 (0.81, 1.14) |
+| Non-fatal MI** | 156 (4.5) | 20.6 | 135 (3.9) | 18.0 | 1.15 (0.91, 1.45) |
+| Non-fatal stroke** | 65 (1.9) | 8.5 | 73 (2.1) | 9.6 | 0.88 (0.63, 1.23) |
+| *PY=patient years **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
+
+Figure 1 Kaplan-Meier: Time to First Occurrence of MACE in the CARMELINA Trial

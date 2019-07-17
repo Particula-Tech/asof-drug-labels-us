@@ -2,7 +2,11 @@
 
 ## 5.1 Pancreatitis
 
-There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients taking TRADJENTA.
+Acute pancreatitis, including fatal pancreatitis, has been reported in patients treated with TRADJENTA.
+In the CARMELINA trial [see Clinical Studies (14.2)], acute pancreatitis was reported in 9 (0.3%) patients treated with TRADJENTA and in 5 (0.1%) patients treated with placebo.
+Two patients treated with TRADJENTA in the CARMELINA trial had acute pancreatitis with a fatal outcome.
+There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients treated with TRADJENTA.
+
 Take careful notice of potential signs and symptoms of pancreatitis.
 If pancreatitis is suspected, promptly discontinue TRADJENTA and initiate appropriate management.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using TRADJENTA.
@@ -43,11 +47,8 @@ Consider DPP-4 inhibitors as a possible cause for severe joint pain and disconti
 
 ## 5.6 Bullous Pemphigoid
 
+Bullous pemphigoid was reported in 7 (0.2%) patients treated with TRADJENTA compared to none in patients treated with placebo in the CARMELINA trial [see Clinical Studies (14.2)], and 3 of these patients were hospitalized due to bullous pemphigoid.
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving TRADJENTA.
 If bullous pemphigoid is suspected, TRADJENTA should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.7 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with TRADJENTA tablets.

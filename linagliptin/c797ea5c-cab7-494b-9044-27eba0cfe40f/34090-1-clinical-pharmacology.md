@@ -6,7 +6,7 @@ Linagliptin is an inhibitor of DPP-4, an enzyme that degrades the incretin hormo
 Thus, linagliptin increases the concentrations of active incretin hormones, stimulating the release of insulin in a glucose-dependent manner and decreasing the levels of glucagon in the circulation.
 Both incretin hormones are involved in the physiological regulation of glucose homeostasis.
 Incretin hormones are secreted at a low basal level throughout the day and levels rise immediately after meal intake.
-GLP-1 and GIP increase insulin biosynthesis and secretion from pancreatic beta-cells in the presence of normal and elevated blood glucose levels.
+GLP-1 and GIP increase insulin biosynthesis and secretion from pancreatic beta cells in the presence of normal and elevated blood glucose levels.
 Furthermore, GLP-1 also reduces glucagon secretion from pancreatic alpha-cells, resulting in a reduction in hepatic glucose output.
 
 ## 12.2 Pharmacodynamics
@@ -15,7 +15,7 @@ Linagliptin binds to DPP-4 in a reversible manner and thus increases the concent
 Linagliptin glucose dependently increases insulin secretion and lowers glucagon secretion, thus resulting in better regulation of glucose homeostasis.
 Linagliptin binds selectively to DPP-4, and selectively inhibits DPP-4 but not DPP-8 or DPP-9 activity in vitro at concentrations approximating therapeutic exposures.
 
-### Cardiac Electrophysiology
+Cardiac Electrophysiology
 
 In a randomized, placebo-controlled, active-comparator, 4-way crossover study, 36 healthy subjects were administered a single oral dose of linagliptin 5 mg, linagliptin 100 mg (20 times the recommended dose), moxifloxacin, and placebo.
 No increase in QTc was observed with either the recommended dose of 5 mg or the 100-mg dose.
@@ -115,7 +115,7 @@ Linagliptin is a weak to moderate inhibitor of CYP isozyme CYP3A4, but does not 
 Linagliptin is a P-glycoprotein (P-gp) substrate, and inhibits P-gp mediated transport of digoxin at high concentrations.
 Based on these results and in vivo drug interaction studies, linagliptin is considered unlikely to cause interactions with other P-gp substrates at therapeutic concentrations.
 
-### In vivo Assessment of Drug Interactions
+In vivo Assessment of Drug Interactions
 
 Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
 For patients requiring use of such drugs, an alternative to linagliptin is strongly recommended.
@@ -127,26 +127,23 @@ Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |
 | --- | --- | --- | --- | --- |
 | AUC† | Cmax |  |  |  |
-| No dosing adjustments required for TRADJENTA when given with the following coadministered drugs: |  |  |  |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
-| Glyburide | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
+| Glyburide** | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
 | Ritonavir | 200 mg BID | 5 mg# | 2.01 | 2.96 |
-| The efficacy of TRADJENTA may be reduced when administered in combination with strong inducers of CYP3A4 or P-gp (e.g., rifampin). Use of alternative treatments is strongly recommended [see Drug Interactions (7.1)]. |  |  |  |  |
-| Rifampin | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| *Multiple dose (steady state) unless otherwise noted #Single dose †AUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
+| Rifampin*** | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
+| *Multiple dose (steady state) unless otherwise noted **Coadministration of TRADJENTA with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3) and Drug Interactions (7.2)]. ***For information regarding clinical recommendations [see Drug Interactions (7.1)]. #Single dose †AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
 
 Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | AUC† | Cmax |  |  |  |
-| No dosing adjustments required for the following coadministered drugs: |  |  |  |  |  |
 | Metformin | 850 mg TID | 10 mg QD | metformin | 1.01 | 0.89 |
-| Glyburide | 1.75 mg# | 5 mg QD | glyburide | 0.86 | 0.86 |
+| Glyburide*** | 1.75 mg# | 5 mg QD | glyburide | 0.86 | 0.86 |
 | Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone metabolite M-III metabolite M-IV | 0.94 0.98 1.04 | 0.86 0.96 1.05 |
 | Digoxin | 0.25 mg QD | 5 mg QD | digoxin | 1.02 | 0.94 |
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.34 1.33 | 1.10 1.21 |
 | Warfarin | 10 mg# | 5 mg QD | R-warfarin S-warfarin INR PT | 0.99 1.03 0.93** 1.03** | 1.00 1.01 1.04** 1.15** |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
-| *Multiple dose (steady state) unless otherwise noted #Single dose †AUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |
+| *Multiple dose (steady state) unless otherwise noted #Single dose †AUC=AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points ***Coadministration of TRADJENTA with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3) and Drug Interactions (7.2)]. INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |

@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-TRADJENTA is contraindicated in patients with a history of a hypersensitivity reaction to linagliptin, such as anaphylaxis, angioedema, exfoliative skin conditions, urticaria, or bronchial hyperreactivity [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+TRADJENTA is contraindicated in patients with hypersensitivity to linagliptin or any of the excipients in TRADJENTA, reactions such as anaphylaxis, angioedema, exfoliative skin conditions, urticaria, or bronchial hyperreactivity have occurred [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
