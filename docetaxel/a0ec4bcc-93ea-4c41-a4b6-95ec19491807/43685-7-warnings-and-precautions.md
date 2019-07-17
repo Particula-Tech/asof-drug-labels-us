@@ -28,7 +28,7 @@ A 25% reduction in the dose of Docetaxel Injection is recommended during subsequ
 
 Neutropenia (<2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
 Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
-Docetaxel Injection, should not be administered to patients with neutrophils <1500 cells/mm3.
+Docetaxel Injection should not be administered to patients with neutrophils <1500 cells/mm3.
 
 Febrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was very uncommon in patients given 60 mg/m2.
 
@@ -104,8 +104,8 @@ Symptoms of fatigue and weakness may last a few days up to several weeks and may
 ## 5.11 Use in Pregnancy
 
 Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
-Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
-Embryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the recommended human dose on a body surface area basis.
+Docetaxel caused embryo-fetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
+Embryo-fetal effects in animals occurred at doses as low as 1/50 and 1/300 the recommended human dose on a body surface area basis.
 There are no adequate and well-controlled studies in pregnant women using Docetaxel Injection.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection [see Use in Specific Populations (8.1)].

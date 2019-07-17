@@ -21,7 +21,7 @@ The recommended dose of Docetaxel Injection is 75 mg/m2 administered intravenous
 
 ## 2.3 Prostate Cancer
 
-For hormone-refractory metastatic prostate cancer, the recommended dose of Docetaxel Injection is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
+For metastatic castration-resistant prostate cancer, the recommended dose of Docetaxel Injection is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
 Prednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
 
 ## 2.4 Gastric Adenocarcinoma
@@ -36,13 +36,13 @@ Patients must receive premedication with antiemetics, and appropriate hydration 
 Prophylaxis for neutropenic infections should be administered.
 All patients treated on the Docetaxel Injection containing arms of the TAX323 and TAX324 studies received prophylactic antibiotics.
 
-Induction chemotherapy followed by radiotherapy (TAX323)
+Induction Chemotherapy Followed by Radiotherapy (TAX323)
 
 For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
 This regimen is administered every 3 weeks for 4 cycles.
 Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 
-Induction chemotherapy followed by chemoradiotherapy (TAX324)
+Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
 For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
 This regimen is administered every 3 weeks for 3 cycles.
@@ -52,7 +52,7 @@ Following chemotherapy, patients should receive chemoradiotherapy [see Dosage an
 
 All patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to Docetaxel Injection administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.4)].
 
-For hormone-refractory metastatic prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the Docetaxel Injection infusion [see Warnings and Precautions (5.4)].
+For metastatic castration-resistant prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the Docetaxel Injection infusion [see Warnings and Precautions (5.4)].
 
 ## 2.7 Dosage Adjustments During Treatment
 
@@ -74,12 +74,12 @@ If the patient continues to experience these reactions at 60 mg/m2, treatment sh
 
 Non-Small Cell Lung Cancer
 
-Monotherapy with Docetaxel Injection for NSCLC treatment after failure of prior platinum-based chemotherapy
+Monotherapy with Docetaxel Injection for NSCLC Treatment after Failure of Prior Platinum-Based Chemotherapy
 
 Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during Docetaxel Injection treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
 Patients who develop ≥grade 3 peripheral neuropathy should have Docetaxel Injection treatment discontinued entirely.
 
-Combination therapy with Docetaxel Injection for chemotherapy-naïve NSCLC
+Combination Therapy with Docetaxel Injection for Chemotherapy-Naïve NSCLC
 
 For patients who are dosed initially at Docetaxel Injection 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is <25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the Docetaxel Injection dosage in subsequent cycles should be reduced to 65 mg/m2.
 In patients who require a further dose reduction, a dose of 50 mg/m2 is recommended.
@@ -87,7 +87,7 @@ For cisplatin dosage adjustments, see manufacturers' prescribing information.
 
 Prostate Cancer
 
-Combination therapy with Docetaxel Injection for hormone-refractory metastatic prostate cancer
+Combination Therapy with Docetaxel Injection for Metastatic Castration-Resistant Prostate Cancer
 
 Docetaxel Injection should be administered when the neutrophil count is ≥1,500 cells/mm3.
 Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have the dosage of Docetaxel Injection reduced from 75 mg to 60 mg/m2.
@@ -95,7 +95,7 @@ If the patient continues to experience these reactions at 60 mg/m2, the treatmen
 
 Gastric or Head and Neck Cancer
 
-Docetaxel Injection in combination with cisplatin and fluorouracil in gastric cancer or head and neck cancer
+Docetaxel Injection in Combination with Cisplatin and Fluorouracil in Gastric Cancer or Head and Neck Cancer
 
 Patients treated with Docetaxel Injection in combination with cisplatin and fluorouracil must receive antiemetics and appropriate hydration according to current institutional guidelines.
 In both studies, G-CSF was recommended during the second and/or subsequent cycles in case of febrile neutropenia, or documented infection with neutropenia, or neutropenia lasting more than 7 days.
@@ -121,9 +121,9 @@ Liver dysfunction: In case of AST/ALT >2.5 to ≤5 × ULN and AP ≤2.5 × ULN, 
 In case of AST/ALT >5 × ULN and/or AP >5 × ULN Docetaxel Injection should be stopped.
 The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below:
 
-Cisplatin dose modifications and delays
+Cisplatin Dose Modifications and Delays
 
-Peripheral neuropathy
+Peripheral Neuropathy
 
 A neurological examination should be performed before entry into the study, and then at least every 2 cycles and at the end of treatment.
 In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCIC-CTC grade:
@@ -147,7 +147,7 @@ Table 2 – Dose Reductions for Evaluation of Creatinine Clearance
 | CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only. If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued. If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
 | CrCl = Creatinine clearance |  |
 
-Fluorouracil dose modifications and treatment delays
+Fluorouracil Dose Modifications and Treatment Delays
 
 For diarrhea and stomatitis, see Table 1.
 

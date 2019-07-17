@@ -14,6 +14,7 @@ See FDA-Approved Patient Labeling
   Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
 - Instruct patients to report myalgia, cutaneous, or neurologic reactions.
 - Explain to patients that side effects such as nausea, vomiting, diarrhea, constipation, fatigue, excessive tearing, infusion site reactions, and hair loss (cases of permanent hair loss have been reported) are associated with Docetaxel Injection administration.
+- Tell patients to report any irregular and/or rapid heartbeat, severe shortness of breath, dizziness, and/or fainting.
 - Explain to patients the possible side effects of the alcohol content in Docetaxel Injection, including possible side effects on the central nervous system.
   Patients in whom alcohol should be avoided or minimized should consider the alcohol content of Docetaxel Injection.
   Alcohol could impair their ability to drive or use machines immediately after infusion.

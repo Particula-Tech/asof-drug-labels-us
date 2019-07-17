@@ -7,7 +7,7 @@ Patients with elevations of bilirubin or abnormalities of transaminase concurren
 Patients with isolated elevations of transaminase >1.5 × ULN also had a higher rate of febrile neutropenia grade 4 but did not have an increased incidence of toxic death.
 Bilirubin, AST or ALT, and alkaline phosphatase values should be obtained prior to each cycle of Docetaxel Injection therapy [see Warnings and Precautions (5.2)].
 
-Docetaxel Injection therapy should not be given to patients with neutrophil counts of <1500 cells/mm3.
+Docetaxel Injection therapy should not be given to patients with neutrophil counts of <1500 cells/mm3 [see Contraindications (4)].
 In order to monitor the occurrence of neutropenia, which may be severe and result in infection, frequent blood cell counts should be performed on all patients receiving Docetaxel Injection [see Warnings and Precautions (5.3)].
 
 Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients who received a 3-day dexamethasone premedication.
