@@ -2,7 +2,9 @@
 
 ## 5.1 Lactic Acidosis
 
-Metformin There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
+Metformin
+
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
 Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase risk of lactic acidosis, especially in patients at risk.
@@ -17,7 +19,7 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
 
 - Before initiating JENTADUETO, obtain an estimated glomerular filtration rate (eGFR).
 - JENTADUETO is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
@@ -29,7 +31,7 @@ Clinical recommendations based upon the patient’s renal function include [see 
 Drug Interactions: The concomitant use of JENTADUETO with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7.1)].
 Therefore, consider more frequent monitoring of patients.
 
-Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
 Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
 
 Radiological Studies with Contrast: Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
@@ -52,7 +54,11 @@ Therefore, avoid use of JENTADUETO in patients with clinical or laboratory evide
 
 ## 5.2 Pancreatitis
 
-There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients taking linagliptin.
+Acute pancreatitis, including fatal pancreatitis, has been reported in patients treated with linagliptin.
+In the CARMELINA trial [see Clinical Studies (14.2)], acute pancreatitis was reported in 9 (0.3%) patients treated with linagliptin and in 5 (0.1%) patients treated with placebo.
+Two patients treated with linagliptin in the CARMELINA trial had acute pancreatitis with a fatal outcome.
+There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients treated with linagliptin.
+
 Take careful notice of potential signs and symptoms of pancreatitis.
 If pancreatitis is suspected, promptly discontinue JENTADUETO and initiate appropriate management.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JENTADUETO.
@@ -68,14 +74,11 @@ If heart failure develops, evaluate and manage according to current standards of
 
 ## 5.4 Use with Medications Known to Cause Hypoglycemia
 
-Linagliptin Insulin secretagogues and insulin are known to cause hypoglycemia.
+Insulin secretagogues and insulin are known to cause hypoglycemia.
 The use of linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial [see Adverse Reactions (6.1)].
 The use of linagliptin in combination with insulin in subjects with severe renal impairment was associated with a higher rate of hypoglycemia [see Adverse Reactions (6.1)].
+Metformin may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue.
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JENTADUETO [see Drug Interactions (7.3)].
-
-Metformin Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
-Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
-Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
 ## 5.5 Hypersensitivity Reactions
 
@@ -90,12 +93,11 @@ Use caution in a patient with a history of angioedema to another DPP-4 inhibitor
 ## 5.6 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia or neurologic manifestations.
 This risk may be more relevant to patients receiving long-term treatment with metformin, and adverse hematologic and neurologic reactions have been reported postmarketing.
 The decrease in vitamin B12 levels appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on JENTADUETO and any apparent abnormalities should be appropriately investigated and managed.
+Measurement of hematologic parameters on an annual basis and routine serum vitamin B12 measurement at 2- to 3-year intervals is advised in patients on JENTADUETO and any apparent abnormalities should be appropriately investigated and managed.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
 ## 5.7 Severe and Disabling Arthralgia
 
@@ -107,11 +109,8 @@ Consider DPP-4 inhibitors as a possible cause for severe joint pain and disconti
 
 ## 5.8 Bullous Pemphigoid
 
+Bullous pemphigoid was reported in 7 (0.2%) patients treated with linagliptin compared to none in patients treated with placebo in the CARMELINA trial [see Clinical Studies (14.2)], and 3 of these patients were hospitalized due to bullous pemphigoid.
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving JENTADUETO.
 If bullous pemphigoid is suspected, JENTADUETO should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.9 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with linagliptin or metformin.

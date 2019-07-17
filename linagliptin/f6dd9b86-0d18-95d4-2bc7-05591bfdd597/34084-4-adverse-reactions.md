@@ -1,15 +1,28 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below or elsewhere in the prescribing information:
+
+- Lactic Acidosis [see Warnings and Precautions (5.1)]
+- Pancreatitis [see Warnings and Precautions (5.2)]
+- Heart Failure [see Warnings and Precautions (5.3)]
+- Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Vitamin B12 Levels [see Warnings and Precautions (5.6)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.7)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.8)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Linagliptin/Metformin The safety of concomitantly administered linagliptin (daily dose 5 mg) and metformin (mean daily dose of approximately 1800 mg) has been evaluated in 2816 patients with type 2 diabetes mellitus treated for ≥12 weeks in clinical trials.
+Linagliptin/Metformin
+
+The safety of concomitantly administered linagliptin (daily dose 5 mg) and metformin (mean daily dose of approximately 1800 mg) has been evaluated in 2816 patients with type 2 diabetes mellitus treated for ≥12 weeks in clinical trials.
 
 Three placebo-controlled studies with linagliptin + metformin were conducted: 2 studies were 24 weeks in duration, 1 study was 12 weeks in duration.
-In the 3 placebo-controlled clinical studies, adverse events which occurred in ≥5% of patients receiving linagliptin + metformin (n=875) and were more common than in patients given placebo + metformin (n=539) included nasopharyngitis (5.7% vs 4.3%).
+In the 3 placebo-controlled clinical studies, adverse reactions which occurred in ≥5% of patients receiving linagliptin + metformin (n=875) and were more common than in patients given placebo + metformin (n=539) included nasopharyngitis (5.7% vs 4.3%).
 
-In a 24-week factorial design study, adverse events reported in ≥5% of patients receiving linagliptin + metformin and were more common than in patients given placebo are shown in Table 1.
+In a 24-week factorial design study, adverse reactions reported in ≥5% of patients receiving linagliptin + metformin and were more common than in patients given placebo are shown in Table 1.
 
 Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Linagliptin + Metformin and Greater than with Placebo in a 24-week Factorial-Design Study
 
@@ -21,7 +34,9 @@ Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Linagliptin
 
 Other adverse reactions reported in clinical studies with treatment of linagliptin + metformin were hypersensitivity (e.g., urticaria, angioedema, or bronchial hyperreactivity), cough, decreased appetite, nausea, vomiting, pruritus, and pancreatitis.
 
-Linagliptin Adverse reactions reported in ≥2% of patients treated with linagliptin 5 mg and more commonly than in patients treated with placebo included: nasopharyngitis (7.0% vs 6.1%), diarrhea (3.3% vs 3.0%), and cough (2.1% vs 1.4%).
+Linagliptin
+
+Adverse reactions reported in ≥2% of patients treated with linagliptin 5 mg and more commonly than in patients treated with placebo included: nasopharyngitis (7.0% vs 6.1%), diarrhea (3.3% vs 3.0%), and cough (2.1% vs 1.4%).
 
 Rates for other adverse reactions for linagliptin 5 mg vs placebo when linagliptin was used in combination with specific anti-diabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when linagliptin was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when linagliptin was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when linagliptin was used as add-on to basal insulin therapy.
 
@@ -29,17 +44,27 @@ Other adverse reactions reported in clinical studies with treatment of linaglipt
 In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with linagliptin compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).
 Three additional cases of pancreatitis were reported following the last administered dose of linagliptin.
 
-Metformin The most common adverse reactions due to initiation of metformin are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
+Metformin
 
-Hypoglycemia Linagliptin/Metformin In a 24-week factorial design study, hypoglycemia was reported in 4 (1.4%) of 286 subjects treated with linagliptin + metformin, 6 (2.1%) of 291 subjects treated with metformin, and 1 (1.4%) of 72 subjects treated with placebo.
+The most common adverse reactions due to initiation of metformin are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
+
+Hypoglycemia
+
+Linagliptin/Metformin
+
+In a 24-week factorial design study, hypoglycemia was reported in 4 (1.4%) of 286 subjects treated with linagliptin + metformin, 6 (2.1%) of 291 subjects treated with metformin, and 1 (1.4%) of 72 subjects treated with placebo.
 When linagliptin was administered in combination with metformin and a sulfonylurea, 181 (22.9%) of 792 patients reported hypoglycemia compared with 39 (14.8%) of 263 patients administered placebo in combination with metformin and sulfonylurea.
 Adverse reactions of hypoglycemia were based on all reports of hypoglycemia.
 A concurrent glucose measurement was not required or was normal in some patients.
 Therefore, it is not possible to conclusively determine that all these reports reflect true hypoglycemia.
 
-Linagliptin In the study of patients receiving linagliptin as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose ≤70 mg/dL, was noted between the linagliptin- (31.4%) and placebo- (32.9%) treated groups.
+Linagliptin
 
-Use in Renal Impairment Linagliptin was compared to placebo as add-on to pre-existing antidiabetic therapy over 52 weeks in 133 patients with severe renal impairment (estimated GFR <30 mL/min).
+In the study of patients receiving linagliptin as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose ≤70 mg/dL, was noted between the linagliptin- (31.4%) and placebo- (32.9%) treated groups.
+
+Use in Renal Impairment
+
+Linagliptin was compared to placebo as add-on to pre-existing antidiabetic therapy over 52 weeks in 133 patients with severe renal impairment (estimated GFR <30 mL/min).
 For the initial 12 weeks of the study, background antidiabetic therapy was kept stable and included insulin, sulfonylurea, glinides, and pioglitazone.
 For the remainder of the trial, dose adjustments in antidiabetic background therapy were allowed.
 
@@ -49,14 +74,20 @@ Ten linagliptin-treated patients (15%) and 11 placebo-treated patients (17%) rep
 During the same time period, severe hypoglycemic events, defined as an event requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions, were reported in 3 (4.4%) linagliptin-treated patients and 3 (4.6%) placebo-treated patients.
 Events that were considered life-threatening or required hospitalization were reported in 2 (2.9%) patients on linagliptin and 1 (1.5%) patient on placebo.
 
-Renal function as measured by mean eGFR and creatinine clearance did not change over 52 weeks’ treatment compared to placebo.
+Renal function as measured by mean eGFR and creatinine clearance did not change over 52 weeks' treatment compared to placebo.
 
-Laboratory Tests Linagliptin Increase in Uric Acid: Changes in laboratory values that occurred more frequently in the linagliptin group and ≥1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the linagliptin group).
+Laboratory Tests
+
+Linagliptin
+
+Increase in Uric Acid: Changes in laboratory values that occurred more frequently in the linagliptin group and ≥1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the linagliptin group).
 
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
 
-Metformin Decrease in Vitamin B12 Absorption: Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.6)].
+Metformin
+
+Decrease in Vitamin B12 Absorption: Treatment with metformin has been associated with a decrease in vitamin B12 absorption which may result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.6)].
 
 ## 6.2 Postmarketing Experience
 
@@ -65,12 +96,13 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Linagliptin
 
-- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.2)]
-- Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.5)]
-- Severe and disabling arthralgia [see Warnings and Precautions (5.7)]
-- Bullous pemphigoid [see Warnings and Precautions (5.8)]
+- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1)]
+- Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions
+- Severe and disabling arthralgia
+- Bullous pemphigoid
 - Rash
 - Mouth ulceration, stomatitis
+- Rhabdomyolysis
 
 Metformin
 
