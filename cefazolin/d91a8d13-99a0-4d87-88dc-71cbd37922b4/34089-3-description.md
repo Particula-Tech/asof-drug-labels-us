@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Cefazolin Injection is a frozen, premixed, iso-osmotic, sterile, nonpyrogenic, single-dose 100 mL solution containing cefazolin sodium equivalent to 2 g of Cefazolin, USP in the GALAXY container (PL 2040 Plastic).
+Cefazolin Injection is a frozen, premixed, iso-osmotic, sterile, nonpyrogenic, single-dose 100 mL solution containing 2 g Cefazolin, USP, equivalent to 2.10 g Cefazolin Sodium, USP in the GALAXY container (PL 2040 Plastic).
 Dextrose, USP has been added to adjust osmolality (4 g as dextrose hydrous).
 The approximate osmolality for Cefazolin injection is 290 mOsmol/kg.
 
@@ -11,7 +11,7 @@ Cefazolin Sodium, USP has the following structural formula:
 
 The sodium content is 48 mg/g of cefazolin sodium.
 
-The pH of Cefazolin injection has been adjusted with sodium bicarbonate.
+The pH of Cefazolin injection may have been adjusted with sodium bicarbonate/cefazolin free acid, or sodium hydroxide/hydrochloric acid.
 Water for injection, USP is added as drug vehicle.
 Contains no preservative.
 The solution is intended for intravenous use after thawing to room temperature.

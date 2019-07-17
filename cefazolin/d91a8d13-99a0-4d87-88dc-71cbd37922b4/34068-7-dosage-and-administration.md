@@ -38,7 +38,7 @@ Use Cefazolin injection only in patients whose creatinine clearance is greater t
   Potency is not affected.
   Agitate after solution has reached room temperature.
   If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted or if any seals are not intact, the container should be discarded.
-- •The thawed solution is stable for 30 days under refrigeration (5°C/41°F) and 48 hours at 25°C/77°F.
+- •The thawed solution is stable for 30 days under refrigeration (5°C/41°F) or 48 hours at 25°C/77°F.
   Do not refreeze thawed antibacterial drugs.
 - Preparation for Administration
 - •Suspend container from support.
