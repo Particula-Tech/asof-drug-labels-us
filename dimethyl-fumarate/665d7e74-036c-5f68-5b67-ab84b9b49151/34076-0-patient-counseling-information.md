@@ -44,10 +44,10 @@ Instruct patients that if they are pregnant or plan to become pregnant while tak
 
 Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA [see Use in Specific Populations (8.1)].
 
-41347-09
+41347-10
 
-Manufactured by: Biogen Inc. Cambridge, MA 02142
+Manufactured for: Biogen Inc. Cambridge, MA 02142
 
 TECFIDERA is a registered trademark of Biogen.
 
-© Biogen 2013 - 2017
+© Biogen 2013 - 2019
