@@ -4,11 +4,11 @@
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
 
-The safety data derived from XERESE clinical trials reflect exposure to XERESE in 1056 subjects with recurrent herpes labialis treated 5 times daily for 5 days.
+The safety data derived from XERESE clinical trials reflect exposure to XERESE in 1,056 subjects with recurrent herpes labialis treated 5 times daily for 5 days.
 
 The most common adverse reactions (<1%) were local skin reactions, and occurred in the area of the application site, including:
 
-- 1.Drying or flaking of the skin; burning or tingling following application; erythema; pigmentation changes; application site reaction including signs and symptoms of inflammation.
+- -Drying or flaking of the skin; burning or tingling following application; erythema; pigmentation changes; application site reaction including signs and symptoms of inflammation.
 
 Contact dermatitis following application has been observed when applied under occlusion in dermal safety trials.
 Where contact sensitivity tests have been conducted, the reactive substances were hydrocortisone or a component of the cream base.

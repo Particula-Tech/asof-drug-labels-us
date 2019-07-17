@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Acyclovir is an antiviral drug and hydrocortisone an anti-inflammatory drug [see Clinical Pharmacology (12.4)].
+Acyclovir is an antiviral drug and hydrocortisone is an anti-inflammatory drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -37,7 +37,7 @@ Antiviral Activity
 
 The quantitative relationship between the cell culture susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50), vary greatly depending upon a number of factors.
-Using plaque-reduction assays on Vero cells, the median EC50 value of acyclovir against clinical herpes virus isolates (subjects receiving placebo) was 1.3 µM (range: <0.56 to 3.3 µM).
+Using plaque-reduction assays on Vero cells, the median EC50 value of acyclovir against clinical herpes virus isolates (subjects receiving placebo) was 1.3 mcM (range: <0.56 to 3.3 mcM).
 
 Resistance
 

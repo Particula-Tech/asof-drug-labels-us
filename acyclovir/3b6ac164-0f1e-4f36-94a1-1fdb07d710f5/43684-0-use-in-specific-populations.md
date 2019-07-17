@@ -10,7 +10,7 @@ A prospective epidemiologic registry of acyclovir use during pregnancy between 1
 The occurrence rate of birth defects approximated that found in the general population.
 However, the size of the registry was insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses.
 
-Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
+Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low-dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
 Animal reproduction studies have not been conducted with XERESE.
