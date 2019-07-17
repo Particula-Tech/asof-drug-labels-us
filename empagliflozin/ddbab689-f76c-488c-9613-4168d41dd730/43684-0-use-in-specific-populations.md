@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Based on animal data showing adverse renal effects, from empagliflozin, GLYXAMBI is not recommended during the second and third trimesters of pregnancy.
+Risk Summary
+
+Based on animal data showing adverse renal effects from empagliflozin, GLYXAMBI is not recommended during the second and third trimesters of pregnancy.
 
 The limited available data with GLYXAMBI, linagliptin, or empagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects and miscarriage.
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
@@ -15,14 +17,20 @@ The estimated background risk of major birth defects is 6-10% in women with pre-
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Clinical Considerations Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
-Data Animal Data The combined components administered during the period of organogenesis were not teratogenic in rats up to and including a combined dose of 700 mg/kg/day empagliflozin and 140 mg/kg/day linagliptin, which is 253 and 353 times the clinical exposure.
+Data
+
+Animal Data
+
+The combined components administered during the period of organogenesis were not teratogenic in rats up to and including a combined dose of 700 mg/kg/day empagliflozin and 140 mg/kg/day linagliptin, which is 253 and 353 times the clinical exposure.
 A pre- and post-natal development study was not conducted with the combined components of GLYXAMBI.
 
-Empagliflozin: Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30 and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
-These findings were not observed after a 13 week drug-free recovery period.
+Empagliflozin: Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30, and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
+These findings were not observed after a 13-week drug-free recovery period.
 These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
 
 In embryo-fetal development studies in rats and rabbits, empagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
@@ -42,13 +50,17 @@ Linagliptin crosses the placenta into the fetus following oral dosing in pregnan
 
 ## 8.2 Lactation
 
-Risk Summary There is no information regarding the presence of GLYXAMBI, or its individual components in human milk, the effects on the breastfed infant, or the effects on milk production.
+Risk Summary
+
+There is no information regarding the presence of GLYXAMBI, or its individual components in human milk, the effects on the breastfed infant, or the effects on milk production.
 Empagliflozin and linagliptin are present in rat milk (see Data).
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in a breastfed infant, including the potential for empagliflozin to affect postnatal renal development, advise patients that use of GLYXAMBI is not recommended while breastfeeding.
 
-Data Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
+Data
+
+Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
 In rat milk, the mean milk to plasma ratio ranged from 0.634 -5, and was greater than one from 2 to 24 hours post-dose.
 The mean maximal milk to plasma ratio of 5 occurred at 8 hours post-dose, suggesting accumulation of empagliflozin in the milk.
 Juvenile rats directly exposed to empagliflozin showed a risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
@@ -59,15 +71,21 @@ Safety and effectiveness of GLYXAMBI in pediatric patients under 18 years of age
 
 ## 8.5 Geriatric Use
 
-GLYXAMBI Empagliflozin is associated with osmotic diuresis, which could affect hydration status of patients age 75 years and older.
+GLYXAMBI
 
-Empagliflozin No empagliflozin dosage change is recommended based on age [see Dosage and Administration (2)].
+Empagliflozin is associated with osmotic diuresis, which could affect hydration status of patients age 75 years and older.
+
+Empagliflozin
+
+No empagliflozin dosage change is recommended based on age [see Dosage and Administration (2)].
 A total of 2721 (32%) patients treated with empagliflozin were 65 years of age and older, and 491 (6%) were 75 years of age and older.
 Empagliflozin is expected to have diminished efficacy in elderly patients with renal impairment [see Use in Specific Populations (8.6)].
 The risk of volume depletion-related adverse reactions increased in patients who were 75 years of age and older to 2.1%, 2.3%, and 4.4% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg.
 The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
-Linagliptin There were 4040 type 2 diabetes patients treated with linagliptin 5 mg from 15 clinical trials of linagliptin; 1085 (27%) were 65 years and over, while 131 (3%) were 75 years and over.
+Linagliptin
+
+There were 4040 type 2 diabetes patients treated with linagliptin 5 mg from 15 clinical trials of linagliptin; 1085 (27%) were 65 years and over, while 131 (3%) were 75 years and over.
 Of these patients, 2566 were enrolled in 12 double-blind placebo-controlled studies; 591 (23%) were 65 years and over, while 82 (3%) were 75 years and over.
 No overall differences in safety or effectiveness were observed between patients 65 years and over and younger patients.
 Therefore, no dose adjustment is recommended in the elderly population.
@@ -75,7 +93,9 @@ While clinical studies of linagliptin have not identified differences in respons
 
 ## 8.6 Renal Impairment
 
-Empagliflozin The efficacy and safety of empagliflozin have not been established in patients with severe renal impairment, with ESRD, or receiving dialysis.
+Empagliflozin
+
+The efficacy and safety of empagliflozin have not been established in patients with severe renal impairment, with ESRD, or receiving dialysis.
 Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.3, 5.5)].
 
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.

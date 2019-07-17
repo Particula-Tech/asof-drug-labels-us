@@ -2,7 +2,9 @@
 
 GLYXAMBI tablets contain two oral antihyperglycemic drugs used in the management of type 2 diabetes: empagliflozin and linagliptin.
 
-Empagliflozin Empagliflozin is an orally-active inhibitor of the sodium-glucose co-transporter (SGLT2).
+Empagliflozin
+
+Empagliflozin is an orally-active inhibitor of the sodium-glucose co-transporter (SGLT2).
 
 The chemical name of empagliflozin is D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4-[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S).
 
@@ -12,7 +14,9 @@ The structural formula is:
 Empagliflozin is a white to yellowish, non-hygroscopic powder.
 It is very slightly soluble in water, sparingly soluble in methanol, slightly soluble in ethanol and acetonitrile; soluble in 50% acetonitrile/water; and practically insoluble in toluene.
 
-Linagliptin Linagliptin is an orally-active inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
+Linagliptin
+
+Linagliptin is an orally-active inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
 
 The chemical name of linagliptin is 1H-Purine-2,6-dione, 8-[(3R)-3-amino-1-piperidinyl]-7-(2-butyn-1-yl)-3,7-dihydro-3-methyl-1-[(4-methyl-2-quinazolinyl)methyl]-
 
@@ -23,6 +27,8 @@ Linagliptin is a white to yellowish, not or only slightly hygroscopic solid subs
 It is very slightly soluble in water.
 Linagliptin is soluble in methanol, sparingly soluble in ethanol, very slightly soluble in isopropanol, and very slightly soluble in acetone.
 
-GLYXAMBI GLYXAMBI tablets for oral administration are available in two dosage strengths containing 10 mg or 25 mg empagliflozin in combination with 5 mg linagliptin.
+GLYXAMBI
+
+GLYXAMBI tablets for oral administration are available in two dosage strengths containing 10 mg or 25 mg empagliflozin in combination with 5 mg linagliptin.
 The inactive ingredients of GLYXAMBI are the following: Tablet Core: mannitol, pregelatinized starch, corn starch, copovidone, crospovidone, talc and magnesium stearate.
 Coating: hypromellose, mannitol, talc, titanium dioxide, polyethylene glycol and ferric oxide, yellow (10 mg/5 mg) or ferric oxide, red (25 mg/5 mg).

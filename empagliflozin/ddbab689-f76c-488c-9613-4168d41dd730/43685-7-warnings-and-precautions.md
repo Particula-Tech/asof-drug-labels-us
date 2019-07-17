@@ -2,7 +2,11 @@
 
 ## 5.1 Pancreatitis
 
-There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients taking linagliptin.
+Acute pancreatitis, including fatal pancreatitis, has been reported in patients treated with linagliptin.
+In the CARMELINA trial [see Clinical Studies (14.3)], acute pancreatitis was reported in 9 (0.3%) patients treated with linagliptin and in 5 (0.1%) patients treated with placebo.
+Two patients treated with linagliptin in the CARMELINA trial had acute pancreatitis with a fatal outcome.
+There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients treated with linagliptin.
+
 Take careful notice of potential signs and symptoms of pancreatitis.
 If pancreatitis is suspected, promptly discontinue GLYXAMBI and initiate appropriate management.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using GLYXAMBI.
@@ -68,9 +72,9 @@ Insulin and insulin secretagogues are known to cause hypoglycemia.
 The use of empagliflozin or linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial.
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with GLYXAMBI.
 
-## 5.8 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+## 5.8 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier’s gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
 Cases have been reported in both females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 
@@ -113,11 +117,8 @@ Consider as a possible cause for severe joint pain and discontinue drug if appro
 
 ## 5.13 Bullous Pemphigoid
 
+Bullous pemphigoid was reported in 7 (0.2%) patients treated with linagliptin compared to none in patients treated with placebo in the CARMELINA trial [see Clinical Studies (14.3)], and 3 of these patients were hospitalized due to bullous pemphigoid.
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving GLYXAMBI.
 If bullous pemphigoid is suspected, GLYXAMBI should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.14 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLYXAMBI.
