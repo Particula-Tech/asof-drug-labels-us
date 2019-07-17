@@ -49,4 +49,4 @@ Patients with Renal Impairment
 Total body clearance was similar for PTCA patients with normal renal function and with mild renal impairment.
 Clearance was reduced by 21% in patients with moderate and severe renal impairment with a half-life of 34 and 57 minutes, respectively.
 In dialysis patients, clearance was reduced by 70%, with a half-life of 3.5 hours.
-Approximately 25% bivalirudin is cleared by hemodialysis..
+Approximately 25% bivalirudin is cleared by hemodialysis.
