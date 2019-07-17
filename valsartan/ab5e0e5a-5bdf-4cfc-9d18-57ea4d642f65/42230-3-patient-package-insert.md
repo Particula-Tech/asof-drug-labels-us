@@ -55,8 +55,8 @@ Tell your doctor about all your medical conditions including whether you:
 - •are pregnant or planning to become pregnant.
   See “What is the most important information I should know about valsartan tablets?”
 - •are breastfeeding.
-  It is not known if valsartan passes into your breast milk.
-  You and your doctor should decide if you will take valsartan tablets or breastfeed, but not both.
+  It is not known if valsartan passes into your breast milk, or effects your breastfed baby or milk production.
+  Do not breastfeed while you are taking valsartan tablets.
   Talk with your doctor about the best way to feed your baby if you take valsartan tablets.
 - •have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
@@ -145,9 +145,8 @@ Common side effects of valsartan tablets used to treat people after a heart atta
 
 How do I store valsartan tablets?
 
-- •Store valsartan tablets at room temperature between 68º to 77º F (20º to 25º C).
+- •Store valsartan tablets at room temperature between 59°F-86°F (15°C-30°C).
 - •Keep valsartan tablets in a closed container in a dry place.
-- •Store bottles of valsartan suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or refrigerate between 35ºF to 46ºF (2ºC to 8ºC) for up to 75 days.
 - •Keep valsartan tablets and all medicines out of the reach of children.
 
 General information about valsartan tablets
@@ -181,4 +180,4 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-January 2019 FDA-06
+June 2019 FDA-07

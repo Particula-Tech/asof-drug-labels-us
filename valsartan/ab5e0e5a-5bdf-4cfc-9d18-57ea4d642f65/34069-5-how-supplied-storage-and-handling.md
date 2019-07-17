@@ -35,7 +35,7 @@ NDC 51660-143-90 Bottles of 90
 
 NDC 51660-143-05 Bottles of 500
 
-Store at 20o to 25o C (68o to 77o F) [See USP Controlled Room Temperature].
+Store at 20o to 25o C (68o to 77o F); excursions permitted to 15°C-30°C (59°F-86°F) [See USP Controlled Room Temperature].
 
 Protect from moisture.
 

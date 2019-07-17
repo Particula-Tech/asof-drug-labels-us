@@ -27,7 +27,7 @@ The 7 studies of valsartan monotherapy included over 2,000 patients randomized t
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6 to 9/3 to 5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
 In a controlled trial the addition of HCTZ to valsartan 80 mg resulted in additional lowering of systolic and diastolic blood pressure by approximately 6/3 and 12/5 mmHg for 12.5 and 25 mg of HCTZ, respectively, compared to valsartan 80 mg alone.
 
-Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a comparable response in both groups.
+Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a similar response in both groups.
 
 In controlled trials, the antihypertensive effect of once-daily valsartan 80 mg was similar to that of once-daily enalapril 20 mg or once-daily lisinopril 10 mg.
 
@@ -104,7 +104,7 @@ In the combination group, the dose of valsartan was titrated from 20 mg twice da
 The population studied was 69% male, 94% Caucasian, and 53% were 65 years of age or older.
 Baseline therapy included aspirin (91%), beta-blockers (70%), ACE inhibitors (40%), thrombolytics (35%) and statins (34%).
 The mean treatment duration was 2 years.
-The mean daily dose of Diovan in the monotherapy group was 217 mg.
+The mean daily dose of valsartan in the monotherapy group was 217 mg.
 
 The primary endpoint was time to all-cause mortality.
 Secondary endpoints included (1) time to cardiovascular (CV) mortality, and (2) time to the first event of cardiovascular mortality, reinfarction, or hospitalization for heart failure.
