@@ -7,6 +7,7 @@ Tacrolimus Capsules USP
 Read this Patient Information before you start taking tacrolimus capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+If you have any questions about tacrolimus capsules, ask your healthcare provider or pharmacist.
 
 What is the most important information I should know about tacrolimus capsules?
 
@@ -31,7 +32,10 @@ Call your healthcare provider right away if you have any symptoms of an infectio
 
 What are tacrolimus capsules?
 
-Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant.
+• Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant.
+
+• Tacrolimus capsules are a type of tacrolimus immediate-release drugs and they are not the same as tacrolimus extended-release tablets or tacrolimus extended-release capsules.
+Your healthcare provider should decide what medicine is right for you.
 
 Who should not take tacrolimus capsules?
 
@@ -46,7 +50,7 @@ Before you take tacrolimus capsules, tell your healthcare provider if your medic
   People taking tacrolimus capsules should not receive live vaccines.
 - have or have had liver, kidney or heart problems
 - are pregnant or plan to become pregnant.
-  Tacrolimus capsules may harm your unborn baby.
+  Tacrolimus capsules can harm your unborn baby.
 - If you are able to become pregnant, you should use effective birth control before and during treatment with tacrolimus.
   Talk to your healthcare provider before starting treatment with tacrolimus about birth control methods that may be right for you.
 - Males who have female partners who are able to become pregnant should also use effective birth control before and during treatment with tacrolimus.
@@ -91,6 +95,8 @@ Especially tell your healthcare provider if you take:
 
 • ritonavir (KALETRA, NORVIR, TECHNIVIE, VIEKIRA PAK, VIEKIRA XR)
 
+• letermovir (PREVYMIS)
+
 • ketoconazole
 
 • itraconazole (ONMEL, SPORANOX)
@@ -106,7 +112,7 @@ Especially tell your healthcare provider if you take:
 • amiodarone (NEXTERONE, PACERONE)
 
 Ask your healthcare provider or pharmacist if you are not sure if you take any of the medicines listed above.
-Tacrolimus capsules may affect the way other medicines work, and other medicines may affect how tacrolimus capsules works.
+Tacrolimus capsules may affect the way other medicines work, and other medicines may affect how tacrolimus capsules work.
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
@@ -139,7 +145,7 @@ Tacrolimus capsules may cause serious side effects, including:
 - See “What is the most important information I should know about tacrolimus capsules?
 - problems from medicine errors.
   People who take tacrolimus have sometimes been given the wrong type of tacrolimus product.Tacrolimus extended-release medicines are not the same as tacrolimus capsules or granules and cannot be substituted for each other, unless specifically prescribed by your healthcare provider, who will send you to get blood tacrolimus levels at a lab.
-  Check your tacrolimus when you get a new prescription and before you take it to make sure you have received tacrolimus capsule or tacrolimus granules.
+  Check your tacrolimus when you get a new prescription and before you take it to make sure you have received tacrolimus capsules or tacrolimus granules.
 - Check with the pharmacist and call your healthcare provider if you think you were given the wrong medicine.
 - high blood sugar (diabetes).
   Your healthcare provider may do blood tests to check for diabetes while you take tacrolimus capsules.
@@ -220,15 +226,18 @@ How should I store tacrolimus capsules?
 
 Store Tacrolimus capsules at room temperature between 20°C-25°C (68°F-77°F)
 
-Keep tacrolimus capsules and all medicines out of reach of children.
+Keep tacrolimus capsules and all medicines out of the reach of children.
 
 General information about the safe and effective use of tacrolimus capsules
 
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+• Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use tacrolimus capsules for a condition for which it was not prescribed.
 Do not give tacrolimus capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
-You can ask your pharmacist or healthcare provider for information about tacrolimus that is written for health professionals
+You can ask your pharmacist or healthcare provider for information about tacrolimus that is written for health professionals.
+
+• This Patient Information leaflet summarizes the most important information about tacrolimus capsules.
+If you would like more information, talk to your healthcare provider.
 
 What are the ingredients in tacrolimus capsules?
 
@@ -251,7 +260,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 1218
+Revised: 0619
 
 Dispense with Patient Information Sheet available at:
 

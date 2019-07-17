@@ -5,11 +5,12 @@
 Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
-As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor.
 
-Post transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
-The majority of PTLD events appear related to Epstein Barr Virus (EBV) infection.
+Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
+The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection.
 The risk of PTLD appears greatest in those individuals who are EBV seronegative, a population which includes many young children.
+Monitor EBV serology during treatment.
 
 ## 5.2 Serious Infections
 
@@ -17,7 +18,7 @@ Patients receiving immunosuppressants, including tacrolimus, are at increased ri
 These infections may lead to serious, including fatal, outcomes.
 Serious viral infections reported include:
 
-• Polyoma virus-associated nephropathy (PVAN), mostly due to BK virus infection
+• Polyomavirus-associated nephropathy (PVAN), mostly due to BK virus infection
 
 • JC virus-associated progressive multifocal leukoencephalopathy (PML)
 
@@ -25,11 +26,12 @@ Serious viral infections reported include:
 
 Monitor for the development of infection and adjust the immunosuppressive regimen to balance the risk of rejection with the risk of infection [see Adverse Reactions (6.1, 6.2)].
 
-## 5.3 Not Interchangeable With Extended-Release Tacrolimus Products -Medication Errors
+## 5.3 Not Interchangeable with Extended-Release Tacrolimus Products -Medication Errors
 
-Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under-or over-exposure to tacrolimus.
-Tacrolimus is not interchangeable or substitutable with tacrolimus extended-release products.
-Instruct patients and caregivers to recognize the appearance of tacrolimus dosage forms [see Dosage Forms and Strengths (3)].
+Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under-or overexposure to tacrolimus.
+Tacrolimus is not interchangeable or substitutable for tacrolimus extended-release products.
+Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision.
+Instruct patients and caregivers to recognize the appearance of tacrolimus dosage forms [see Dosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
 
 ## 5.4 New Onset Diabetes After Transplant
 
@@ -49,20 +51,20 @@ Monitor renal function and consider dosage reduction if nephrotoxicity occurs.
 ## 5.6 Neurotoxicity
 
 Tacrolimus may cause a spectrum of neurotoxicities.
-The most severe neurotoxicities include posterior reversible encephalopathy syndrome (PRES), delirium, seizure and coma, others include tremors, paresthesias, headache, mental status changes, and changes in motor and sensory functions [see Adverse Reactions (6.1, 6.2)].
+The most severe neurotoxicities include posterior reversible encephalopathy syndrome (PRES), delirium, seizure and coma; others include tremors, paresthesias, headache, mental status changes, and changes in motor and sensory functions [see Adverse Reactions (6.1, 6.2)].
 As symptoms may be associated with tacrolimus whole blood trough concentrations at or above the recommended range, monitor for neurologic symptoms and consider dosage reduction or discontinuation of tacrolimus if neurotoxicity occurs.
 
 ## 5.7 Hyperkalemia
 
 Hyperkalemia has been reported with tacrolimus use.
 Serum potassium levels should be monitored.
-Careful consideration should be given prior to use of other agents also associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) during tacrolimus therapy[see Adverse Reactions (6.1)].
+Careful consideration should be given prior to use of other agents also associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) during tacrolimus therapy [see Adverse Reactions (6.1)].
+Monitor serum potassium levels periodically during treatment.
 
 ## 5.8 Hypertension
 
 Hypertension is a common adverse effect of tacrolimus therapy and may require antihypertensive therapy [see Adverse Reactions (6.1)].
-The control of blood pressure can be accomplished with any of the common antihypertensive agents, though careful consideration should be given prior to use of antihypertensive agents associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) [see Warnings and Precautions (5.7)].].
-
+The control of blood pressure can be accomplished with any of the common antihypertensive agents, though careful consideration should be given prior to use of antihypertensive agents associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) [see Warnings and Precautions (5.7)].
 Calcium-channel blocking agents may increase tacrolimus blood concentrations and therefore require dosage reduction of tacrolimus [see Drug Interactions (7.2)].
 
 ## 5.9 Anaphylactic Reactions with Tacrolimus Injection
@@ -81,7 +83,7 @@ Tacrolimus capsules are not recommended for use with sirolimus:
 
 ## 5.11 Interactions with CYP3A4 Inhibitors and Inducers
 
-When co-administering tacrolimus with strong CYP3A4 inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
+When co-administering tacrolimus with strong CYP3A4 inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
 
 ## 5.12 QT Prolongation
 
@@ -101,7 +103,11 @@ If myocardial hypertrophy is diagnosed, dosage reduction or discontinuation of t
 
 ## 5.14 Immunizations
 
+Whenever possible, administer the complete complement of vaccines before transplantation and treatment with tacrolimus.
+
 The use of live vaccines should be avoided during treatment with tacrolimus; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
+
+Inactivated vaccines noted to be safe for administration after transplantation may not be sufficiently immunogenic during treatment with tacrolimus.
 
 ## 5.15 Pure Red Cell Aplasia
 
