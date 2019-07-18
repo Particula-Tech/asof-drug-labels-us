@@ -9,16 +9,16 @@ There are no available data on the use of gemcitabine for injection in pregnant 
 In animal reproduction studies, gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits (see Data).
 Advise pregnant women of the potential risk to a fetus [see Use in Special Populations (8.3)].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies 2-4% and 15-20% respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2-4% and 15-20% respectively.
 
 Data
 
 Animal Data
 
 Gemcitabine is embryotoxic in mice.
-Daily dosing of gemcitabine to pregnant mice increased the incidence of fetal malformation (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day [approximately 0.005 times the 1000 mg/m 2 clinical dose based on body surface area (BSA)].
+Daily dosing of gemcitabine to pregnant mice increased the incidence of fetal malformation (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day [approximately 0.005 times the 1000 mg/m2 clinical dose based on body surface area (BSA)].
 Gemcitabine was embryotoxic and fetotoxic in rabbits.
-Daily dosing of gemcitabine to pregnant rabbits resulted in fetotoxicity (decreased fetal viability, reduced litter sizes, and developmental delays) and increased the incidence of fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day (approximately 0.002 times the 1000 mg/m 2 clinical dose based on BSA).
+Daily dosing of gemcitabine to pregnant rabbits resulted in fetotoxicity (decreased fetal viability, reduced litter sizes, and developmental delays) and increased the incidence of fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day (approximately 0.002 times the 1000 mg/m2 clinical dose based on BSA).
 
 ## 8.2 Lactation
 
@@ -43,23 +43,23 @@ Because of the potential for genotoxicity, advise females of reproductive potent
 
 Males
 
-Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with gemcitabine for injection and for 3 months after the last dose of gemcitabine for injection [see Nonclinical Toxicology (13.1)].
+Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with gemcitabine for injection and for 3 months after the final dose [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
 Males
 
-Based on animal studies, gemcitabine for injection may impair fertility in males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Nonclinical Toxicology (13.1)].
+Based on animal studies, gemcitabine for injection may impair fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
+It is not known whether these effects on fertility are reversible.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of gemcitabine for injection have not been established in pediatric patients.
 
 The safety and pharmacokinetics of gemcitabine were evaluated in a trial in pediatric patients with refractory leukemia.
-The maximum tolerated dose was 10 mg/m 2/min for 360 minutes weekly for three weeks followed by a one-week rest period.
+The maximum tolerated dose was 10 mg/m2/min for 360 minutes weekly for three weeks followed by a one-week rest period.
 
-The safety and activity of gemcitabine for injection were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m 2/min administered over 360 minutes weekly for three weeks followed by a one-week rest period.
+The safety and activity of gemcitabine for injection were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes weekly for three weeks followed by a one-week rest period.
 Patients with M1 or M2 bone marrow on Day 28 who did not experience unacceptable toxicity were eligible to receive a maximum of one additional four-week course.
 Toxicities observed included myelosuppression, febrile neutropenia, increased serum transaminases, nausea, and rash/desquamation.
 No meaningful clinical activity was observed in this trial.

@@ -3,7 +3,7 @@
 Gemcitabine is a nucleoside metabolic inhibitor.
 Gemcitabine hydrochloride is 2′-deoxy-2′,2′-difluorocytidine monohydrochloride (β-isomer) with the following structural formula:
 
-The empirical formula for gemcitabine hydrochloride is C 9H 11F 2N 3O 4 • HCl.
+The empirical formula for gemcitabine hydrochloride is C9H11F2N3O4 • HCl.
 It has a molecular weight of 299.66 g/mol.
 
 Gemcitabine HCl, USP is a white to off-white solid.

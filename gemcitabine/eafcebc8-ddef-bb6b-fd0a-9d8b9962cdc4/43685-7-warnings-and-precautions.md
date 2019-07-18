@@ -28,6 +28,7 @@ Permanently discontinue gemcitabine for injection in patients who develop unexpl
 Hemolytic uremic syndrome (HUS), including fatalities from renal failure or the requirement for dialysis, can occur with gemcitabine for injection.
 In clinical trials, HUS occurred in 0.25% of 2429 patients.
 Most fatal cases of renal failure were due to HUS [see Adverse Reactions (6.1)].
+Serious cases of thrombotic microangiopathy other than HUS have been reported with gemcitabine for injection [see Adverse Reactions (6.2)].
 
 Assess renal function prior to initiation of gemcitabine for injection and periodically during treatment.
 Consider the diagnosis of HUS in patients who develop anemia with evidence of microangiopathic hemolysis; increased bilirubin or LDH; reticulocytosis; severe thrombocytopenia; or renal failure (increased serum creatinine or BUN).
@@ -37,7 +38,7 @@ Renal failure may not be reversible even with the discontinuation of therapy.
 ## 5.5 Hepatic Toxicity
 
 Drug-induced liver injury, including liver failure and death, has been reported in patients receiving gemcitabine for injection alone or with other potentially hepatotoxic drugs [see Adverse Reactions (6.1, 6.2)].
-Administration of gemcitabine for injection in patients with concurrent liver metastases or a pre-existing medical history or hepatitis, alcoholism, or liver cirrhosis can lead to exacerbation of the underlying hepatic insufficiency.
+Administration of gemcitabine for injection in patients with concurrent liver metastases or a pre-existing medical history of hepatitis, alcoholism, or liver cirrhosis can lead to exacerbation of the underlying hepatic insufficiency.
 Assess hepatic function prior to initiation of gemcitabine for injection and periodically during treatment.
 Permanently discontinue gemcitabine for injection in patients who develop severe hepatic toxicity.
 
@@ -46,7 +47,7 @@ Permanently discontinue gemcitabine for injection in patients who develop severe
 Based on animal data and its mechanism of action, gemcitabine for injection can cause fetal harm when administered to a pregnant woman.
 Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
 
-Advise women of the potential risk to a fetus.
+Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with gemcitabine for injection and for 6 months after the final dose.
 Advise male patients with female partners of reproductive potential to use effective contraception during treatment with gemcitabine for injection and for 3 months following the final dose [see Use in Specific Populations (8.1, 8.3)].
 
@@ -56,12 +57,12 @@ Gemcitabine for injection is not recommended for use in combination with radiati
 
 Concurrent (given together or ≤7 days apart)
 
-Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine for injection was administered at a dose of 1000 mg/m 2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
+Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine for injection was administered at a dose of 1000 mg/m2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
 
 Non-concurrent (given >7 days apart)
 
 Excessive toxicity has not been observed when gemcitabine for injection is administered more than 7 days before or after radiation.
-Radiation recall has been reported in patients who receive gemcitabine for injection after prior radiation.
+Radiation recall has been reported in patients who received gemcitabine for injection after prior radiation.
 
 ## 5.8 Capillary Leak Syndrome
 

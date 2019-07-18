@@ -4,7 +4,7 @@
 
 Recommended Dose and Schedule
 
-The recommended dosage of gemcitabine for injection is 1000 mg/m 2 intravenously over 30 minutes on Days 1 and 8 of each 21-day cycle in combination with carboplatin AUC 4 administered intravenously on Day 1 after gemcitabine for injection administration.
+The recommended dosage of gemcitabine for injection is 1000 mg/m2 intravenously over 30 minutes on Days 1 and 8 of each 21-day cycle in combination with carboplatin AUC 4 administered intravenously on Day 1 after gemcitabine for injection administration.
 Refer to carboplatin prescribing information for additional information.
 
 Dosage Modifications
@@ -16,24 +16,24 @@ Table 1: Recommended Dosage Modifications for Gemcitabine For Injection for Myel
 
 | Treatment Day | Absolute Neutrophil Count (x 106/L) |  | Platelet Count (x 106/L) | Dosage Modification |
 | --- | --- | --- | --- | --- |
-| Day 1 | Greater than or equal to 1500 | and | Greater than or equal to 100,000 | None |
-| Less than 1500 | or | Less than 100,000 | Delay Treatment Cycle |  |
-| Day 8 | Greater than or equal to 1500 | and | Greater than or equal to 100,000 | None |
-| 1000 to 1499 | or | 75,000 to 99,999 | 50% of full dose |  |
-| Less than 1000 | or | Less than 75,000 | Hold |  |
+| Day 1 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| Less than 1500 | Or | Less than 100,000 | Delay Treatment Cycle |  |
+| Day 8 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| 1000 to 1499 | Or | 75,000 to 99,999 | 50% of full dose |  |
+| Less than 1000 | Or | Less than 75,000 | Hold |  |
 
 Table 2: Recommended Dosage Modifications for Gemcitabine For Injection for Myelosuppression in Previous Cycle in Ovarian Cancer
 
 | Occurrence | Myelosuppression During Treatment Cycle | Dosage Modification |
 | --- | --- | --- |
-| Initial Occurrence | Absolute neutrophil count less than 500 x 10 6/L for more than 5 days or Absolute neutrophil count less than 100 x 10 6/L for more than 3 days or Febrile neutropenia or Platelets less than 25,000 x 10 6/L or Cycle delay for more than one week due to toxicity | Permanently reduce gemcitabine for injection to 800 mg/m 2 on Days 1 and 8 |
-| Subsequent Occurrence | If any of the above toxicities occur after the initial dose reduction: | Permanently reduce gemcitabine for injection to 800 mg/m 2 on Day 1 only |
+| Initial Occurrence | Absolute neutrophil count less than 500 x 106/L for more than 5 days or Absolute neutrophil count less than 100 x 106/L for more than 3 days or Febrile neutropenia or Platelets less than 25,000 x 106/L or Cycle delay for more than one week due to toxicity | Permanently reduce gemcitabine for injection to 800 mg/m2 on Days 1 and 8 |
+| Subsequent Occurrence | If any of the above toxicities occur after the initial dose reduction: | Permanently reduce gemcitabine for injection to 800 mg/m2 on Day 1 only |
 
 ## 2.2 Breast Cancer
 
 Recommended Dose and Schedule
 
-The recommended dosage of gemcitabine for injection is 1250 mg/m 2 intravenously over 30 minutes on Days 1 and 8 of each 21-day cycle in combination with paclitaxel 175 mg/m 2 administered as a 3-hour intravenous infusion on Day 1 before gemcitabine for injection administration.
+The recommended dosage of gemcitabine for injection is 1250 mg/m2 intravenously over 30 minutes on Days 1 and 8 of each 21-day cycle in combination with paclitaxel 175 mg/m2 administered as a 3-hour intravenous infusion on Day 1 before gemcitabine for injection administration.
 Refer to paclitaxel prescribing information for additional information.
 
 Dosage Modifications
@@ -45,12 +45,12 @@ Table 3: Recommended Dosage Modifications for Gemcitabine For Injection for Myel
 
 | Treatment Day | Absolute Neutrophil Count (x 106/L) |  | Platelet Count (x 106/L) | Dosage Modification |
 | --- | --- | --- | --- | --- |
-| Day 1 | Greater than or equal to 1500 | and | Greater than or equal to 100,000 | None |
-| Less than 1500 | or | Less than 100,000 | Hold |  |
-| Day 8 | Greater than or equal to 1200 | and | Greater than 75,000 | None |
-| 1000 to 1199 | or | 50,000 to 75,000 | 75% of full dose |  |
-| 700 to 999 | and | Greater than or equal to 50,000 | 50% of full dose |  |
-| Less than 700 | or | Less than 50,000 | Hold |  |
+| Day 1 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| Less than 1500 | Or | Less than 100,000 | Hold |  |
+| Day 8 | Greater than or equal to 1200 | And | Greater than 75,000 | None |
+| 1000 to 1199 | Or | 50,000 to 75,000 | 75% of full dose |  |
+| 700 to 999 | And | Greater than or equal to 50,000 | 50% of full dose |  |
+| Less than 700 | Or | Less than 50,000 | Hold |  |
 
 ## 2.3 Non-Small Cell Lung Cancer
 
@@ -58,11 +58,11 @@ Recommended Dose and Schedule
 
 28-day schedule
 
-The recommended dosage of gemcitabine for injection is 1000 mg/m 2 intravenously over 30 minutes on Days 1, 8, and 15 of each 28-day cycle in combination with cisplatin 100 mg/m 2 administered intravenously on Day 1 after gemcitabine for injection administration.
+The recommended dosage of gemcitabine for injection is 1000 mg/m2 intravenously over 30 minutes on Days 1, 8, and 15 of each 28-day cycle in combination with cisplatin 100 mg/m2 administered intravenously on Day 1 after gemcitabine for injection administration.
 
 21-day schedule
 
-The recommended dosage of gemcitabine for injection is 1250 mg/m 2 intravenously over 30 minutes on Days 1 and 8 of each 21-day cycle in combination with cisplatin 100 mg/m 2 administered intravenously on Day 1 after gemcitabine for injection administration.
+The recommended dosage of gemcitabine for injection is 1250 mg/m2 intravenously over 30 minutes on Days 1 and 8 of each 21-day cycle in combination with cisplatin 100 mg/m2 administered intravenously on Day 1 after gemcitabine for injection administration.
 
 Refer to cisplatin prescribing information for additional information.
 
@@ -75,7 +75,7 @@ Refer to the recommended dosage modifications for non-hematologic adverse reacti
 
 Recommended Dose and Schedule
 
-The recommended dosage of gemcitabine for injection is 1000 mg/m 2 intravenously over 30 minutes.
+The recommended dosage of gemcitabine for injection is 1000 mg/m2 intravenously over 30 minutes.
 The recommended treatment schedule is as follows:
 
 - Weeks 1 to 8: weekly dosing for the first 7 weeks followed by one week rest.
@@ -88,11 +88,11 @@ Refer to the recommended dosage modifications for non-hematologic adverse reacti
 
 Table 4: Recommended Dosage Modifications for Gemcitabine For Injection for Myelosuppression in Pancreatic Cancer and Non-Small Cell Lung Cancer
 
-| Absolute Neutrophil Count (x 10 6/L) |  | Platelet Count (x 10 6/L) | Dosage Modification |
+| Absolute Neutrophil Count (x 106/L) |  | Platelet Count (x 106/L) | Dosage Modification |
 | --- | --- | --- | --- |
-| Greater than or equal to 1000 | and | Greater than or equal to 100,000 | None |
-| 500 to 999 | or | 50,000 to 99,999 | 75% of full dose |
-| Less than 500 | or | Less than 50,000 | Hold |
+| Greater than or equal to 1000 | And | Greater than or equal to 100,000 | None |
+| 500 to 999 | Or | 50,000 to 99,999 | 75% of full dose |
+| Less than 500 | Or | Less than 50,000 | Hold |
 
 ## 2.5 Dosage Modifications for Non-Hematologic Adverse Reactions
 
@@ -111,8 +111,7 @@ No dose modifications are recommended for alopecia, nausea, or vomiting.
 
 - Gemcitabine for injection vials contain no antimicrobial preservatives and are intended for single use only.
 - Gemcitabine for injection is a cytotoxic drug.
-  Follow applicable special handling and disposal procedures.
-  1
+  Follow applicable special handling and disposal procedures.1
 - Exercise caution and wear gloves when preparing gemcitabine for injection solutions.
   Immediately wash the skin thoroughly or rinse the mucosa with copious amounts of water if gemcitabine for injection contacts the skin or mucus membranes.
   Death has occurred in animal studies due to dermal absorption.

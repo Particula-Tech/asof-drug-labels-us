@@ -13,13 +13,13 @@ After the gemcitabine nucleotide is incorporated into DNA, only one additional n
 
 The pharmacokinetics of gemcitabine were examined in 353 patients with various solid tumors.
 Pharmacokinetic parameters were derived using data from patients treated for varying durations of therapy given weekly with periodic rest weeks and using both short infusions (<70 minutes) and long infusions (70 to 285 minutes).
-The total gemcitabine for injection dose varied from 500 mg/m 2 to 3600 mg/m 2.
+The total gemcitabine for injection dose varied from 500 mg/m2 to 3600 mg/m2.
 
 Distribution
 
 The volume of distribution was increased with infusion length.
-Volume of distribution of gemcitabine was 50 L/m 2 following infusions lasting <70 minutes.
-For long infusions, the volume of distribution rose to 370 L/m 2.
+Volume of distribution of gemcitabine was 50 L/m2 following infusions lasting <70 minutes.
+For long infusions, the volume of distribution rose to 370 L/m2.
 
 Gemcitabine pharmacokinetics are linear and are described by a 2-compartment model.
 Population pharmacokinetic analyses of combined single and multiple dose studies showed that the volume of distribution of gemcitabine was significantly influenced by duration of infusion and sex.
@@ -34,7 +34,7 @@ The half-life of the terminal phase for gemcitabine triphosphate from mononuclea
 
 Excretion
 
-Gemcitabine disposition was studied in 5 patients who received a single 1000 mg/m 2 of radiolabeled drug as a 30-minute infusion.
+Gemcitabine disposition was studied in 5 patients who received a single 1000 mg/m2 of radiolabeled drug as a 30-minute infusion.
 Within one week, 92% to 98% of the dose was recovered, almost entirely in the urine.
 Gemcitabine (<10%) and the inactive uracil metabolite, 2′-deoxy-2′,2′-difluorouridine (dFdU) accounted for 99% of the excreted dose.
 The metabolite dFdU is also found in plasma.
@@ -46,7 +46,7 @@ Geriatric Patients
 Clearance of gemcitabine was affected by age.
 The lower clearance in geriatric patients results in higher concentrations of gemcitabine for any given dose.
 Differences in either clearance or volume of distribution based on patient characteristics or the duration of infusion result in changes in half-life and plasma concentrations.
-Table 15 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and gender.
+Table 15 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and sex.
 
 Table 15: Gemcitabine Clearance and Half-Life for the “Typical” Patient
 
@@ -58,7 +58,7 @@ Table 15: Gemcitabine Clearance and Half-Life for the “Typical” Patient
 | 79 | 40.7 | 30.7 | 79 | 94 |
 | a Half-life for patients receiving a <70 minute infusion. |  |  |  |  |
 
-Gemcitabine half-life for short infusions ranged from 42 to 94 minutes and for long infusions varied from 245 to 638 minutes, depending on age and gender, reflecting a greatly increased volume of distribution with longer infusions.
+Gemcitabine half-life for short infusions ranged from 42 to 94 minutes and for long infusions varied from 245 to 638 minutes, depending on age and sex, reflecting a greatly increased volume of distribution with longer infusions.
 
 Male and Female Patients
 
@@ -74,7 +74,7 @@ No clinical studies have been conducted with gemcitabine in patients with decrea
 
 Drug Interaction Studies
 
-When gemcitabine for injection (1250 mg/m 2 on Days 1 and 8) and cisplatin (75 mg/m 2 on Day 1) were administered in patients with NSCLC, the clearance of gemcitabine on Day 1 was 128 L/hr/m 2 and on Day 8 was 107 L/hr/m 2.
+When gemcitabine for injection (1250 mg/m2 on Days 1 and 8) and cisplatin (75 mg/m2 on Day 1) were administered in patients with NSCLC, the clearance of gemcitabine on Day 1 was 128 L/hr/m2 and on Day 8 was 107 L/hr/m2.
 Data from patients with NSCLC demonstrate that gemcitabine for injection and carboplatin given in combination does not alter the pharmacokinetics of gemcitabine or carboplatin compared to administration of either single agent; however, due to wide confidence intervals and small sample size, interpatient variability may be observed.
 
 Data from metastatic breast cancer patients shows that gemcitabine for injection has little or no effect on the pharmacokinetics (clearance and half-life) of paclitaxel and paclitaxel has little or no effect on the pharmacokinetics of gemcitabine.

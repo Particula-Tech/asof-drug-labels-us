@@ -6,7 +6,6 @@ Gemcitabine for injection, USP is a white to off-white lyophilized powder availa
 - 1 g vial: NDC 55111-687-25
 
 Gemcitabine for injection, USP is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.
-1
+Follow applicable special handling and disposal procedures.1
 
 Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].

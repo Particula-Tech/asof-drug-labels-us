@@ -42,4 +42,4 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam-530 046, INDIA
 
-Revised: 0119
+Revised: 0719
