@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA065211",
+    "ANDA065212"
+  ],
+  "inn": "azithromycin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-8089-26",
+    "0781-8089-31",
+    "0781-8089-69",
+    "0781-8090-03",
+    "0781-8090-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "azithromycin",
+      "name": "Azithromycin"
+    }
+  ],
+  "setid": "ec619299-e0ef-44dd-acdb-8c53bbfc5b8a",
+  "source": "dailymed"
+}
