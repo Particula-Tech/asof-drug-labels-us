@@ -1,55 +1,91 @@
-# PRINCIPAL DISPLAY PANEL - Kit Carton
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 8822
+
+Rebif® Titration Pack (interferon beta-1a)
 
 NDC 44087-8822-1
 
-Rebif®Titration Pack (interferon beta-1a)
+8.8 mcg/0.2 mL 22 mcg/0.5 mL
 
-6 single-use 8.8 mcg/0.2 mL prefilled syringes 6 single-use 22 mcg/0.5 mL prefilled syringes
+For subcutaneous injection Rx Only Medication Guide for patients enclosed
 
-For subcutaneous injection Rx only
+6 Single-use 8.8 mcg/0.2 mL prefilled syringes 6 Single-use 22 mcg/0.5 mL prefilled syringes
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton
+EMD Serono
+
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 0188
+
+Rebif® Rebidose® (interferon beta-1a) Injection
 
 NDC 44087-0188-1
 
-Rebif® Rebidose® Titration Pack (interferon beta-1a) Injection
-
 6 single-use 8.8 mcg / 0.2 mL autoinjectors 6 single-use 22 mcg / 0.5 mL autoinjectors
 
-For subcutaneous injection Rx only
+8.8 mcg / 0.2 mL 22 mcg / 0.5 mL
 
-# PRINCIPAL DISPLAY PANEL - 12 Single Use Prefilled Syringe Carton
+Titration Pack For subcutaneous injection
 
-NDC 44087-0022-3
+Rx only
+
+Attention pharmacist: Each patient is required to receive the enclosed Medication Guide
+
+EMD Serono
+
+# PRINCIPAL DISPLAY PANEL - 12 Syringe Carton - 0022
 
 Rebif® 22 mcg/0.5 mL (interferon beta-1a)
 
-For subcutaneous injection Rx only
+NDC 44087-0022-3
 
-# PRINCIPAL DISPLAY PANEL - 12 Single Use Prefilled Syringe Carton
+For subcutaneous injection Rx only Medication Guide for patients enclosed
 
-NDC 44087-0044-3
+12 Single-use prefilled syringes
+
+EMD Serono
+
+# PRINCIPAL DISPLAY PANEL - 12 Syringe Carton - 0044
 
 Rebif® 44 mcg/0.5 mL (interferon beta-1a)
 
-For subcutaneous injection Rx only
+NDC 44087-0044-3
 
-# PRINCIPAL DISPLAY PANEL - 12 Single Use Autoinjector Carton
+For subcutaneous injection Rx only Medication Guide for patients enclosed
+
+12 Single-use prefilled syringes
+
+EMD Serono
+
+# PRINCIPAL DISPLAY PANEL - 12 Autoinjector Carton - 3322
 
 NDC 44087-3322-1
 
 Rebif® Rebidose® (interferon beta-1a) Injection
 
-22 mcg / 0.5 mL 12 single-use autoinjectors
+22 mcg / 0.5 mL
 
-For subcutaneous injection Rx only
+For subcutaneous injection
 
-# PRINCIPAL DISPLAY PANEL - 12 Single Use Autoinjector Carton
+12 single-use autoinjectors
+
+Rx only
+
+Attention pharmacist: Each patient is required to receive the enclosed Medication Guide
+
+EMD Serono
+
+# PRINCIPAL DISPLAY PANEL - 12 Autoinjector Carton - 3344
 
 NDC 44087-3344-1
 
 Rebif® Rebidose® (interferon beta-1a) Injection
 
-44 mcg / 0.5 mL 12 single-use autoinjectors
+44 mcg / 0.5 mL
 
-For subcutaneous injection Rx only
+For subcutaneous injection
+
+12 single-use autoinjectors
+
+Rx only
+
+Attention pharmacist: Each patient is required to receive the enclosed Medication Guide
+
+EMD Serono
