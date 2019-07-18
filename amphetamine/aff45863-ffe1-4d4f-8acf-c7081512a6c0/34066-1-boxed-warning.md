@@ -1,7 +1,4 @@
-# WARNING: POTENTIAL FOR ABUSE
+# WARNING: ABUSE AND DEPENDENCE
 
-Amphetamines have a high potential for abuse.
-Administration of amphetamines for prolonged periods of time may lead to drug dependence.
-Pay particular attention to the possibility of subjects obtaining amphetamines for non-therapeutic use or distribution to others and the drugs should be prescribed or dispensed sparingly [see DRUG ABUSE AND DEPENDENCE (9)].
-
-Misuse of amphetamine may cause sudden death and serious cardiovascular adverse reactions.
+CNS stimulants, including ADDERALL XR, other amphetamine-containing products, and methylphenidate, have a high potential for abuse and dependence.
+Assess the risk of abuse prior to prescribing and monitor for signs of abuse and dependence while on therapy [see Warnings and Precautions (5.1) and Drug Abuse and Dependence (9.2, 9.3)].

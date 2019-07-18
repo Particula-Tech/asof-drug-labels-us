@@ -1,32 +1,37 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Serious Cardiovascular Events
+## 5.1 Potential for Abuse and Dependence
+
+CNS stimulants, including ADDERALL XR, other amphetamine-containing products, and methylphenidate, have a high potential for abuse and dependence.
+Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy [see Boxed Warning, Drug Abuse and Dependence (9.2, 9.3)].
+
+## 5.2 Serious Cardiovascular Reactions
 
 Sudden Death and Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 Children and Adolescents
 
 Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
-Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug [see CONTRAINDICATIONS (4)].
+Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug [see Contraindications (4)].
 
 Adults
 
 Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
-Adults with such abnormalities should also generally not be treated with stimulant drugs [see CONTRAINDICATIONS (4)].
+Adults with such abnormalities should also generally not be treated with stimulant drugs [see Contraindications (4)].
 
 Hypertension and Other Cardiovascular Conditions
 
 Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia [see CONTRAINDICATIONS (4) and ADVERSE REACTIONS (6)].
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia [see Contraindications (4) and Adverse Reactions (6)].
 
 Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
 
 Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g. electrocardiogram and echocardiogram).
 Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
 
-## 5.2 Psychiatric Adverse Events
+## 5.3 Psychiatric Adverse Events
 
 Pre-Existing Psychosis
 
@@ -48,23 +53,23 @@ Aggression
 Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
 Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of or worsening of aggressive behavior or hostility.
 
-## 5.3 Long-Term Suppression of Growth
+## 5.4 Long-Term Suppression of Growth
 
 Monitor growth in children during treatment with stimulants.
 Patients who are not growing or gaining weight as expected may need to have their treatment interrupted.
 
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 
-In a controlled trial of ADDERALL XR in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 lbs. and -2.8 lbs., respectively, for patients receiving 10 mg and 20 mg ADDERALL XR.
+In a controlled trial of ADDERALL XR in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was −1.1 lbs. and −2.8 lbs., respectively, for patients receiving 10 mg and 20 mg ADDERALL XR.
 Higher doses were associated with greater weight loss within the initial 4 weeks of treatment.
 Chronic use of amphetamines can be expected to cause a similar suppression of growth.
 
-## 5.4 Seizures
+## 5.5 Seizures
 
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in the absence of seizures, and very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, ADDERALL XR should be discontinued.
 
-## 5.5 Peripheral Vasculopathy, including Raynaud's phenomenon
+## 5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
 Stimulants, including ADDERALL XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
@@ -73,30 +78,30 @@ Signs and symptoms generally improve after reduction in dose or discontinuation 
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-## 5.6 Serotonin Syndrome
+## 5.7 Serotonin Syndrome
 
-Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as MAOIs, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort [see DRUG INTERACTIONS (7.1)].
-Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [see CLINICAL PHARMACOLOGY (12.3)].
+Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as MAOIs, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort [see Drug Interactions (7.1)].
+Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [see Clinical Pharmacology (12.3)].
 The potential for a pharmacokinetic interaction exists with the co-administration of CYP2D6 inhibitors which may increase the risk with increased exposure to ADDERALL XR.
-In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see DRUG INTERACTIONS (7.1)].
+In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see Drug Interactions (7.1)].
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-Concomitant use of ADDERALL XR with MAOI drugs is contraindicated [see CONTRAINDICATIONS (4)].
+Concomitant use of ADDERALL XR with MAOI drugs is contraindicated [see Contraindications (4)].
 
 Discontinue treatment with ADDERALL XR and any concomitant serotonergic agents immediately if symptoms of serotonin syndrome occur, and initiate supportive symptomatic treatment.
 Concomitant use of ADDERALL XR with other serotonergic drugs or CYP2D6 inhibitors should be used only if the potential benefit justifies the potential risk.
 If clinically warranted, consider initiating ADDERALL XR with lower doses, monitoring patients for the emergence of serotonin syndrome during drug initiation or titration, and informing patients of the increased risk for serotonin syndrome.
 
-## 5.7 Visual Disturbance
+## 5.8 Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
-## 5.8 Tics
+## 5.9 Tics
 
 Amphetamines have been reported to exacerbate motor and phonic tics and Tourette's syndrome.
 Therefore, clinical evaluation for tics and Tourette's syndrome in patients and their families should precede use of stimulant medications.
 
-## 5.9 Prescribing and Dispensing
+## 5.10 Prescribing and Dispensing
 
 The least amount of amphetamine feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
 ADDERALL XR should be used with caution in patients who use other sympathomimetic drugs.

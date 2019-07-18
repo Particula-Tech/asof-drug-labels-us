@@ -1,25 +1,51 @@
-MEDICATION GUIDE ADDERALL XR® (ADD-ur-all X-R) CII
+# MEDICATION GUIDE ADDERALL XR® (ADD-ur-all X-R) CII
 
 Read the Medication Guide that comes with ADDERALL XR before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about you or your child's treatment with ADDERALL XR.
 
 What is the most important information I should know about ADDERALL XR?
+
 ADDERALL XR is a stimulant medicine.
 The following have been reported with use of stimulant medicines.
+
 1.
-Heart-related problems: • sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults • increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
+Heart-related problems:
+
+- sudden death in patients who have heart problems or heart defects
+- stroke and heart attack in adults
+- increased blood pressure and heart rate
+
+Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
+
 Your doctor should check you or your child carefully for heart problems before starting ADDERALL XR.
+
 Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with ADDERALL XR.
+
 Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking ADDERALL XR.
+
 2.
-Mental (Psychiatric) problems: All Patients • new or worse behavior and thought problems • new or worse bipolar illness • new or worse aggressive behavior or hostility Children and Teenagers • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
+Mental (Psychiatric) problems:
+
+All Patients
+
+- new or worse behavior and thought problems
+- new or worse bipolar illness
+- new or worse aggressive behavior or hostility
+
+Children and Teenagers
+
+- new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms
+
+Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
+
 Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking ADDERALL XR, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
 
 3.
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]:
 
-• Fingers or toes may feel numb, cool, painful • Fingers or toes may change from pale, to blue, to red
+- Fingers or toes may feel numb, cool, painful
+- Fingers or toes may change from pale, to blue, to red
 
 Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
 
@@ -36,6 +62,7 @@ ADDERALL XR should be used as a part of a total treatment program for ADHD that 
 ADDERALL XR is a federally controlled substance (CII) because it can be abused or lead to dependence.
 Keep ADDERALL XR in a safe place to prevent misuse and abuse.
 Selling or giving away ADDERALL XR may harm others, and is against the law.
+
 Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs.
 
 Who should not take ADDERALL XR?
@@ -54,19 +81,25 @@ ADDERALL XR should not be taken if you or your child:
 ADDERALL XR has not been studied in children less than 6 years old.
 
 ADDERALL XR may not be right for you or your child.
-Before starting ADDERALL XR tell you or your child's doctor about all health conditions (or a family history of) including:
+Before starting ADDERALL XR tell you or your child's doctor about all health conditions (or a family history of) including if you or your child:
 
-- heart problems, heart defects, or high blood pressure
-- mental problems including psychosis, mania, bipolar illness, or depression
-- tics or Tourette's syndrome
-- liver problems
-- kidney problems
-- end stage renal disease (ESRD)
-- thyroid problems
-- seizures or have had an abnormal brain wave test (EEG)
-- circulation problems in fingers and toes
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
+- have heart problems, heart defects, or high blood pressure
+- have mental problems including psychosis, mania, bipolar illness, or depression
+- have tics or Tourette's syndrome
+- have liver problems
+- have kidney problems
+- have end stage renal disease (ESRD)
+- have thyroid problems
+- have seizures or have had an abnormal brain wave test (EEG)
+- have circulation problems in fingers and toes
+- are pregnant or plan to become pregnant.
+  It is not known if ADDERALL XR will harm your unborn baby.
+  - There is a pregnancy registry for females who are exposed to ADDERALL XR during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to ADDERALL XR and their baby.
+    If you or your child becomes pregnant during treatment with ADDERALL XR, talk to your healthcare provider about registering with the National Pregnancy Registry of Psychostimulants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/clinical-and -research-programs/pregnancyregistry/othermedications/.
+  - are breastfeeding or plan to breastfeed.
+    ADDERALL XR passes into breast milk.
+    You or your child should not breastfeed during treatment with ADDERALL XR.
 
 Can ADDERALL XR be taken with other medicines?
 
@@ -109,6 +142,7 @@ How should ADDERALL XR be taken?
 - Your doctor may do regular checks of the heart and blood pressure while taking ADDERALL XR.
   Children should have their height and weight checked often while taking ADDERALL XR.
   ADDERALL XR treatment may be stopped if a problem is found during these check-ups.
+
 - If you or your child takes too much ADDERALL XR or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 What are possible side effects of ADDERALL XR?
@@ -123,16 +157,8 @@ Other serious side effects include:
 
 Common side effects include:
 
-- headache
-- decreased appetite
-- stomach ache
-- nervousness
-- trouble sleeping
-- mood swings
-- weight loss
-- dizziness
-- dry mouth
-- fast heart beat
+| headachestomach achetrouble sleepingweight lossdry mouth | decreased appetitenervousnessmood swingsdizzinessfast heart beat |
+| --- | --- |
 
 ADDERALL XR may affect you or your child's ability to drive or do other dangerous activities.
 
@@ -163,7 +189,7 @@ For more information, you may also contact Shire Pharmaceuticals (the maker of A
 
 What are the ingredients in ADDERALL XR?
 
-Active Ingredients: dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate.
+Active Ingredients: dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate
 
 Inactive Ingredients: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate.
 Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide.
@@ -171,6 +197,10 @@ The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide
 
 Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421.
-ADDERALL XR® is a registered trademark of Shire LLC © 2018 Shire US Inc. All rights reserved.
+ADDERALL XR® is a registered trademark of Shire LLC, a Takeda company. © 2019 Takeda Pharmaceutical Company Limited.
+All Rights Reserved.
+
 Rev.
-7/2018 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+7/2019
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

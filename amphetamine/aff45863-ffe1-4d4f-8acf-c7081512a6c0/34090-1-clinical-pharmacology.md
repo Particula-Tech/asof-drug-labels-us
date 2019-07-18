@@ -4,7 +4,10 @@
 
 Amphetamines are non-catecholamine sympathomimetic amines with CNS stimulant activity.
 The mode of therapeutic action in ADHD is not known.
-Amphetamines are thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+
+## 12.2 Pharmacodynamics
+
+Amphetamines block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 ## 12.3 Pharmacokinetics
 
@@ -47,7 +50,7 @@ Since amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly de
 Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
 Urinary recovery of amphetamine has been reported to range from 1% to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized.
 Consequently, both hepatic and renal dysfunction have the potential to inhibit the elimination of amphetamine and result in prolonged exposures.
-In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased [see DRUG INTERACTIONS (7)].
+In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased [see Drug Interactions (7)].
 
 Special Populations
 
@@ -78,4 +81,4 @@ The effect of renal impairment on d- and l-amphetamine after administration of A
 The impact of renal impairment on the disposition of amphetamine is expected to be similar between oral administration of lisdexamfetamine and Adderall XR.
 
 In a pharmacokinetic study of lisdexamfetamine in adult subjects with normal and impaired renal function, mean d-amphetamine clearance was reduced from 0.7 L/hr/kg in normal subjects to 0.4 L/hr/kg in subjects with severe renal impairment (GFR 15 to <30mL/min/1.73m2).
-Dialysis did not significantly affect the clearance of d-amphetamine [see USE IN SPECIFIC POPULATIONS (8.6)].
+Dialysis did not significantly affect the clearance of d-amphetamine [see Use in Specific Populations (8.6)].
