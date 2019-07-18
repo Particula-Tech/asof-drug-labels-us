@@ -5,7 +5,7 @@
 The efficacy and safety of TIVICAY were evaluated in the studies summarized in Table 13.
 
 Table 13.
-Trials Conducted with TIVICAY in HIV‑1‑Infected Subjects
+Trials Conducted with TIVICAY in HIV‑1–Infected Subjects
 
 | Population | Trial | Trial Arms | Timepoint (Week) |
 | --- | --- | --- | --- |
@@ -85,7 +85,7 @@ No treatment-emergent primary resistance substitutions were observed in either t
 
 Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects
 
-In the international, multicenter, double-blind trial (SAILING), 719 HIV‑1‑infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least 1 fully active agent.
+In the international, multicenter, double-blind trial (SAILING), 719 HIV‑1–infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least 1 fully active agent.
 There were 715 subjects included in the efficacy and safety analyses.
 At baseline, the median age was 43 years, 32% were female, 50% non-white, 16% had hepatitis B and/or C virus co-infection, 46% were CDC Class C (AIDS), 20% had HIV-1 RNA greater than 100,000 copies per mL, and 72% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
 All subjects had at least 2-class antiretroviral treatment resistance, and 49% of subjects had at least 3-class antiretroviral treatment resistance at baseline.
@@ -128,7 +128,7 @@ Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects
 
 VIKING-3 examined the effect of TIVICAY 50 mg twice daily over 7 days of functional monotherapy, followed by optimized background therapy (OBT) with continued treatment of TIVICAY 50 mg twice daily.
 
-In the multicenter, open-label, single-arm VIKING-3 trial, 183 HIV‑1‑infected, antiretroviral treatment-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received TIVICAY 50 mg twice daily with the current failing background regimen for 7 days, then received TIVICAY with OBT from Day 8.
+In the multicenter, open-label, single-arm VIKING-3 trial, 183 HIV‑1–infected, antiretroviral treatment-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received TIVICAY 50 mg twice daily with the current failing background regimen for 7 days, then received TIVICAY with OBT from Day 8.
 A total of 183 subjects enrolled: 133 subjects with INSTI resistance at screening and 50 subjects with only historical evidence of resistance (and not at screening).
 At baseline, median age of subjects was 48 years; 23% were female, 29% non-white, and 20% had hepatitis B and/or C virus co-infection.
 Median baseline CD4+ cell count was 140 cells per mm3, median duration of prior antiretroviral treatment was 13 years, and 56% were CDC Class C. Subjects showed multiple-class antiretroviral treatment resistance at baseline: 79% had greater than or equal to 2 NRTI, 75% greater than or equal to 1 NNRTI, and 71% greater than or equal to 2 PI major substitutions; 62% had non-R5 virus.

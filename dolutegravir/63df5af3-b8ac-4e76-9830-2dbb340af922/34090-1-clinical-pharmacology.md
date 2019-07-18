@@ -69,7 +69,7 @@ Renal elimination of unchanged drug was low (less than 1% of the dose).
 
 Specific Populations
 
-Pediatric Patients: The pharmacokinetics of dolutegravir in HIV‑1–infected children (n = 17) weighing at least 30 kg (dosed by weight bands, receiving either 35 mg or 50 mg) were similar to those observed in HIV‑1–infected adults who received dolutegravir 50 mg once daily (Table 8) [see Clinical Studies (14.2)].
+Pediatric Patients: The pharmacokinetics of dolutegravir in HIV‑1–infected children (n = 17) weighing at least 30 kg (dosed by weight bands, receiving either 35 mg or 50 mg) were similar to those observed in HIV‑1–infected adults who received dolutegravir 50 mg once daily (Table 8) [see Clinical Studies (14.3)].
 
 Table 8.
 Dolutegravir Steady-State Pharmacokinetic Parameters in Pediatric Subjects

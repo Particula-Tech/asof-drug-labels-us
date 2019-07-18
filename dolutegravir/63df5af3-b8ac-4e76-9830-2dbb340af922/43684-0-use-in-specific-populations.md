@@ -42,7 +42,7 @@ In the rat pre/post-natal development study, decreased body weight of the develo
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommends that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+The Centers for Disease Control and Prevention recommends that HIV‑1–infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 
 It is not known whether TIVICAY is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
 When administered to lactating rats, dolutegravir was present in milk (see Data).
@@ -67,8 +67,8 @@ Advise adolescents and adults of childbearing potential who are taking TIVICAY t
 
 ## 8.4 Pediatric Use
 
-The safety, virologic, and immunologic responses in subjects who received TIVICAY were evaluated in 46 treatment-experienced, INSTI-naïve, HIV‑1–infected subjects aged 6 to less than 18 years in an open-label, multicenter, dose-finding clinical trial, IMPAACT P1093 [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
-Frequency, type, and severity of adverse reactions among the 46 pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.2)].
+The safety, virologic, and immunologic responses in subjects who received TIVICAY were evaluated in 46 treatment-experienced, INSTI-naïve, HIV‑1–infected subjects aged 6 to less than 18 years in an open-label, multicenter, dose-finding clinical trial, IMPAACT P1093 [see Clinical Pharmacology (12.3), Clinical Studies (14.3)].
+Frequency, type, and severity of adverse reactions among the 46 pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.1)].
 In 17 subjects weighing at least 30 kg, pharmacokinetic parameters of dolutegravir were comparable to adults receiving 50 mg once daily [see Clinical Pharmacology (12.3)].
 
 Safety and efficacy of TIVICAY have not been established in pediatric patients weighing less than 30 kg or in any pediatric patients who are INSTI-experienced.

@@ -3,7 +3,7 @@
 The following serious adverse drug reactions are discussed in other sections of the labeling:
 
 - •Hypersensitivity reactions [see Warnings and Precautions (5.1)].
-- •Hepatotoxicity [see Warnings and Precautions (5.3)].
+- •Hepatotoxicity [see Warnings and Precautions (5.2)].
 - •Immune Reconstitution Syndrome [see Warnings and Precautions (5.5)].
 
 ## 6.1 Clinical Trials Experience
@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials Experience in Adult Subjects
 
-Treatment-Naïve Subjects: The safety assessment of TIVICAY in HIV‑1‑infected treatment-naïve subjects is based on the analyses of data from 2 international, multicenter, double-blind trials, SPRING-2 (ING113086) and SINGLE (ING114467) and data from the international, multicenter, open-label FLAMINGO (ING114915) trial.
+Treatment-Naïve Subjects: The safety assessment of TIVICAY in HIV‑1–infected treatment-naïve subjects is based on the analyses of data from 2 international, multicenter, double-blind trials, SPRING-2 (ING113086) and SINGLE (ING114467) and data from the international, multicenter, open-label FLAMINGO (ING114915) trial.
 
 In SPRING-2, 822 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily, both in combination with fixed-dose dual nucleoside reverse transcriptase inhibitor (NRTI) treatment (either abacavir sulfate and lamivudine [EPZICOM] or emtricitabine/tenofovir [TRUVADA]).
 There were 808 subjects included in the efficacy and safety analyses.
@@ -56,12 +56,12 @@ There were 484 subjects included in the efficacy and safety analyses.
 Through 96 weeks, the rates of adverse events leading to discontinuation were 3% in subjects receiving TIVICAY and 6% in subjects receiving darunavir/ritonavir.
 The ARs observed in FLAMINGO were generally consistent with those seen in SPRING-2 and SINGLE.
 
-Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects: In an international, multicenter, double-blind trial (ING111762, SAILING), 719 HIV‑1‑infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least one fully active agent.
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects: In an international, multicenter, double-blind trial (ING111762, SAILING), 719 HIV‑1–infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least one fully active agent.
 At 48 weeks, the rates of adverse events leading to discontinuation were 3% in subjects receiving TIVICAY 50 mg once daily + background regimen and 4% in subjects receiving raltegravir 400 mg twice daily + background regimen.
 
 The only treatment-emergent AR of moderate to severe intensity with at least 2% frequency in either treatment group was diarrhea, 2% (6 of 354) in subjects receiving TIVICAY 50 mg once daily + background regimen and 1% (5 of 361) in subjects receiving raltegravir 400 mg twice daily + background regimen.
 
-Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: In a multicenter, open-label, single-arm trial (ING112574, VIKING-3), 183 HIV‑1‑infected, antiretroviral treatment-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received TIVICAY 50 mg twice daily with the current failing background regimen for 7 days and with optimized background therapy from Day 8.
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: In a multicenter, open-label, single-arm trial (ING112574, VIKING-3), 183 HIV‑1–infected, antiretroviral treatment-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received TIVICAY 50 mg twice daily with the current failing background regimen for 7 days and with optimized background therapy from Day 8.
 The rate of adverse events leading to discontinuation was 4% of subjects at Week 48.
 
 Treatment-emergent ARs in VIKING-3 were generally similar compared with observations with the 50-mg once-daily dose in adult Phase 3 trials.
@@ -154,7 +154,7 @@ Creatinine increases were comparable by background NRTIs and were similar in tre
 
 Clinical Trials Experience in Pediatric Subjects
 
-IMPAACT P1093 is an ongoing multicenter, open-label, non-comparative trial of approximately 160 HIV‑1‑infected pediatric subjects aged 4 weeks to less than 18 years, of which 46 treatment-experienced, INSTI-naïve subjects aged 6 to less than 18 years have been enrolled [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
+IMPAACT P1093 is an ongoing multicenter, open-label, non-comparative trial of approximately 160 HIV‑1–infected pediatric subjects aged 4 weeks to less than 18 years, of which 46 treatment-experienced, INSTI-naïve subjects aged 6 to less than 18 years have been enrolled [see Use in Specific Populations (8.4), Clinical Studies (14.3)].
 
 The adverse reaction profile was similar to that for adults.
 Grade 2 ARs reported by more than one subject were decreased neutrophil count (n = 3) and diarrhea (n = 2).
