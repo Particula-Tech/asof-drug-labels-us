@@ -1,55 +1,83 @@
-If possible, a healthcare provider or someone who has been trained to identify and treat the symptoms of exposure to nerve agents or insecticides should administer the Atropine autoinjector.
-However, if a healthcare provider is not available during an emergency, a patient or a caregiver might need to administer the Atropine Autoinjector.
+Instructions for Use
 
-STEP 1: Determine if the 2 mg Atropine autoinjector is appropriate based on weight/age.
+ATROPINE
 
-- The 2 mg Atropine autoinjector is intended for use ONLY in adults and pediatric patients weighing over 90 lbs (41 kg) (generally over 10 years of age).
-- Do NOT administer the 2 mg Atropine autoinjector to pediatric patients weighing 90 lbs (41 kg) and less (generally 10 years of age and younger).
-  Dose adjustment is not possible on an autoinjector.
+injection, for intramuscular use
 
-Step 2: Determine the severity of symptoms using Table 1 below.
+2 mg Atropine single-dose autoinjector
 
-Note: Not all of these symptoms may be exhibited in a person exposed to nerve agent or certain insecticide poisoning.
+If possible, a healthcare provider or someone who has been trained to identify and treat the symptoms of exposure to nerve agents or insecticides should give (administer) the Atropine autoinjector.
+If a healthcare provider is not available during an emergency, a patient or a caregiver might need to give the Atropine injection.
+
+Individuals should not rely only on Atropine for protection from nerve agent or insecticide poisoning.
+
+Patients and caregivers need to wear clothing to protect their skin and goggles and masks to protect their face and eyes when available to avoid exposure.
+
+Leave the exposed (contaminated) area as quickly as possible.
+
+Get medical help right away after exposure.
+
+Step 1: Decide if the 2 mg Atropine autoinjector is right to use based on weight and age.
+
+- The 2 mg Atropine autoinjector is for use only in adults and children weighing over 90 pounds (41 kg) (generally over 10 years of age).
+- Do not use the 2 mg Atropine autoinjector for children weighing 90 pounds (41 kg) and less (generally 10 years of age and younger).
+  The dose of the 2 mg Atropine autoinjector cannot be changed.
+
+​
+
+Step 2: Decide if symptoms are mild or severe using Table 1 below.
+The number of injections needed depends on if there are 2 or more mild symptoms or if there are any severe symptoms.
+
+Note: You may not see all of these symptoms in yourself or others exposed to a nerve agent or certain insecticide poisoning.
 
 Table 1.
 Symptoms of Nerve Agent or Insecticide Poisoning
 
-| Mild sypmtoms include: Blurred vision or small pupilsUnexplained excessive teary eyesUnexplained excessive runny noseIncreased saliva or droolingChest tightness, difficulty breathing, wheezing, or coughingShaking (tremors) throughout the body or muscle twitchingNausea, vomiting, stomach cramps, or diarrheaFast heartbeat or pounding in your chest (tachycardia) or slow heartbeat (bradycardia) | SEVERE symptoms include: Strange or confused behaviorPassing out (unconsciousness)Severe problems with breathing and/or gasping, shortness of breathLarge amount of fluid (secretions) coming from the mouth or noseSevere muscle twitching, general weakness, or paralysisInability to control urine and/or stool (bowel movement)Sudden violent or irregular movements of parts of your body (convulsions or seizures) |
+| Mild symptoms include: Blurred visionThe black circle in the center of the colored part of the eye (pupil) is very smallUnexplained excessive teary eyesUnexplained excessive runny noseIncreased saliva or droolingChest tightness, difficulty breathing, wheezing, or coughingShaking (tremors) throughout the body or muscle twitchingNausea or vomitingStomach cramps or diarrheaFast heartbeat or pounding in your chest (tachycardia)Slow heartbeat (bradycardia) | Severe symptoms include: Strange or confused behaviorPassing out (unconsciousness)Severe breathing problems such as short, quick breaths through the mouth (gasping for air)Large amount of fluid (secretions) coming from the mouth or noseSevere muscle twitching, general weakness, or paralysisInability to control urine or stool (bowel movement)Sudden uncontrollable or irregular movements of parts of your body (convulsions or seizures) |
 | --- | --- |
 
-Step 3: Determine the number of Atropine autoinjectors to administer based on severity of symptoms.
+Step 3: Decide the number of Atropine autoinjectors to use based on if the symptoms are mild or severe.
 See Table 1 and Figure 1.
 
-MILD SYMPTOMS (see Table 1)
+Mild Symptoms (see Table 1)
 
-First Dose: If you have or see someone who has 2 or more mild symptoms listed in Table 1 and exposure is known or suspected, give one (1) injection of atropine into the outer thigh using the Atropine autoinjector.
+First Dose: If you have or see someone with 2 or more mild symptoms listed in Table 1 and exposure is known or suspected, give 1 injection of Atropine into the outer thigh using the Atropine autoinjector.
 You can inject through clothing, but make sure pockets at the injection site are empty.
-Keep checking to see if symptoms are continuing or getting worse.
-Seek medical help right away.
+Keep checking to see if symptoms continue or get worse.
+Get medical help right away.
 
-Additional Doses: Wait 10 minutes after giving the first dose (1 injection) for the medicine to work.
-If after the first dose (1 injection) the person who was exposed starts to show any of the severe symptoms listed in Table 1, you will need to give two (2) more injections to the person using a new Atropine autoinjector for each injection, quickly one right after the other.
-Do not use the same autoinjector more than once.
-If possible, someone other than the affected person should give the second and third injections.
-You can give additional doses through clothing, but make sure pockets at the injection site are empty.
+Additional Doses: If at any time after the first dose (1 injection) the person who was exposed starts to have any of the severe symptoms listed in Table 1, you will need to give 2 more injections quickly one right after the other using a new Atropine autoinjector for each injection.
+Do not use the same autoinjector more than one time.
+If you have given yourself the first injection, someone else should give you the second and third injections, if possible.
 
-SEVERE SYMPTOMS (see Table 1)
+You can inject additional doses through clothing, but make sure pockets at the injection site are empty.
 
-If you have or see someone with any of the severe symptoms listed in Table 1 and exposure is known or suspected, or you see an exposed person passed out (unconscious), immediately give three (3) injections, using three separate autoinjectors.
-The autoinjectors should be given quickly into the outer thigh, one right after the other.
+No more injections are needed if the person who was exposed does not get sever symptoms 10 to 15 minutes after the first dose (1 injection).
+
+Severe Symptoms (see Table 1)
+
+If you have or see someone with any of the severe symptoms listed in Table 1 and exposure is known or suspected, or you see an exposed person passed out (unconscious), give 3 injections into the outer thigh quickly one right after the other, using 3 new autoinjectors.
+
 You can inject through clothing, but make sure pockets at the injection site are empty.
 Get medical help right away.
 
-Figure 1.
-Summary of steps for determining number of Atropine Autoinjector(s) to administer
+Step 4: Instructions for how to use the Atropine autoinjector
 
-STEP 4: Instructions for administration of the Atropine autoinjector:
-
-|  | A.) Hold the plastic sleeve on both sides of the perforation and tear apart at edge to open. Remove the autoinjector from the plastic sleeve. Be careful not to place fingers on the green tip. |
+|  | A.) Hold the plastic sleeve on both sides of the dotted lines (perforation) and tear apart at the edge to open. Remove the autoinjector from the plastic sleeve.Be careful not to place fingers on the green tip. |
 | --- | --- |
 |  | B.) Firmly hold the autoinjector with the green tip pointed down. |
 |  | C.) Pull off the yellow safety cap with your other hand. |
-|  | D.) Aim and firmly jab the green tip straight down (a 90° angle) against the outer thigh. The autoinjector device will give the medicine when you do this. You can inject through clothing, but make sure pockets at the injection site are empty. *People who may not have a lot of fat at the injection site should also be injected in the thigh, but before giving the injection, bunch up the thigh to provide a thicker area of injection |
+|  | D.) Aim and firmly inject the green tip straight down (at a 90° angle) against the outer thigh. The autoinjector will give the medicine when you do this. You can inject through clothing, but make sure pockets at the injection site are empty.Note: People who may not have a lot of fat at the injection site should also be injected in the outer thigh. Before giving the injection, pinch a fold of skin firmly on the outer thigh to provide a thicker area for the injection. |
 |  | E.) Hold the autoinjector firmly in place for at least 10 seconds to allow the injection to finish. |
-|  | F.) After 10 seconds, remove the autoinjector from the thigh (or from the thigh of the individual to whom you are administering the autoinjector) and massage the injection site in a circle motion for several seconds. Note: If you do not see the needle visible after removal from the thigh it means an injection did not occur. Check to be sure the yellow safety cap has been removed. After yellow safety cap removal has been verified, repeat steps D and E pressing harder against the thigh to activate the injector. If you still do not see the needle, use a new autoinjector and start over again at step A. |
-|  | G.) After the injection, avoid contact with blood or needle by carefully bending the needle back against the injector using a hard surface. Using the bent needle as a hook, pin the used autoinjectors to the patient’s clothing. Alternatively, either place the used autoinjector(s) back into plastic sleeve(s) and leave it next to the patient or write the dose and number of autoinjector(s) used on a triage tag, hand, forehead, chest, etc. Move yourself and the exposed person away from the contaminated area right away. Try to find medical help.Autoinjectors contain only a single dose. If you need more than 1 injection, obtain a fresh autoinjector, go back to step A, and follow the same instructions for each new autoinjector used. |
+|  | F.) After 10 seconds, remove the autoinjector from the outer thigh and massage the injection site in a circle motion for several seconds.Note: If you do not see the needle after removing it from the outer thigh, the injection is not completed.Check to be sure the yellow safety cap has been removed. If the yellow safety cap has been removed, repeat Step 4 D) to Step 4 E) pressing more firmly against the outer thigh to activate the autoinjector. If you still do not see the needle, use a new autoinjector and start over again at Step 4 A). |
+|  | G.) After the injection, avoid contact with blood or the needle by carefully bending the needle back against the autoinjector using a hard surface. Use the bent needle as a hook to pin the used autoinjector to the clothing of the person who has been exposed. This will allow medical personnel to see the number of Atropine autoinjectors given. You can also put the used autoinjector back into the plastic sleeve and leave it next to the person or write the dose and number of autoinjectors used on a triage tag, hand, forehead, chest or other part of the body.Move yourself and the exposed person away from the contaminated area right away. Get medical help right away.Each autoinjector has only a single dose (1 injection) of medicine. If you need more than 1 injection, repeat the instructions in Step 4 using a new autoinjector for each injection. |
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by:
+
+Rafa Laboratories, Ltd.
+
+Jerusalem, Israel
+
+Revised: 07/2019

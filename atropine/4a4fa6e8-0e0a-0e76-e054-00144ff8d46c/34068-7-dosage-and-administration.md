@@ -1,56 +1,55 @@
-CAUTION!
-PRIMARY PROTECTION AGAINST EXPOSURE TO CHEMICAL NERVE AGENT AND INSECTICIDE POISONING IS THE WEARING OF PROTECTIVE GARMENTS, INCLUDING MASKS DESIGNED SPECIFICALLY FOR THIS USE.
+Important Administration Information
 
-INDIVIDUALS SHOULD NOT RELY SOLELY UPON THE AVAILABILITY OF ANTIDOTES SUCH AS ATROPINE AND PRALIDOXIME TO PROVIDE COMPLETE PROTECTION FROM CHEMICAL NERVE AGENT AND INSECTICIDE POISONING.
+- Three (3) Atropine autoinjectors should be available for use in each patient at risk for nerve agent or organophosphate insecticide poisoning; one (1) for mild symptoms plus two (2) more for severe symptoms [see Dosage and Administration (2.2)].
+- Only administer Atropine to patients experiencing symptoms of organophosphorus poisoning in a situation where exposure is known or suspected.
+  The Atropine autoinjector is intended as an initial treatment of the muscarinic symptoms of insecticide or nerve agent poisonings as soon as symptoms appear; definitive medical care should be sought immediately.
+- In general, atropine should not be used until cyanosis has been overcome since atropine may produce ventricular fibrillation and possible seizures in the presence of hypoxia.
+- The Atropine autoinjector should be used by persons who have had adequate training in the recognition and treatment of nerve agent or insecticide intoxication, but may be administered by a caregiver or by self-administration if a trained provider is not available.
+- Close supervision of all treated patients is indicated for at least 48 to 72 hours.
+- In severe poisonings, concurrent administration of an anticonvulsant (preferably a benzodiazepine) may be warranted if seizure is suspected in the unconscious individual because overt jerking may not be apparent because of the effects of the poison [see Drug Interactions (7.2)].
+- In poisonings caused by organophosphorous nerve agents and insecticides it may also be helpful to concurrently administer a cholinesterase reactivator such as pralidoxime chloride [see Drug Interactions (7.1)].
+- The injection site is the mid-lateral thigh area.
+  The Atropine autoinjector can inject through clothing.
+  However, make sure pockets at the injection site are empty.
+  People who may not have a lot of fat at the injection site should also be injected in the mid-lateral thigh, but before giving the injection, bunch up the thigh to provide a thicker area for injection.
 
-Immediate evacuation from the contaminated environment is essential.
-Decontamination of the poisoned individual should occur as soon as possible.
+Dosage Information
 
-The Atropine autoinjector should be used by persons who have had adequate training in the recognition and treatment of nerve agent or insecticide intoxication.
-Pralidoxime chloride may serve as an important adjunct to atropine therapy.
+Dosage for Mild Symptoms in Adults and Pediatric Patients Weighing More Than 41 kg (90 Pounds)
 
-The Atropine autoinjector is intended as an initial treatment of the muscarinic symptoms of insecticide or nerve agent poisonings (generally breathing difficulties due to increased secretions); definitive medical care should be sought immediately.
-The Atropine autoinjector should be administered as soon as symptoms of organophosphorous or carbamate poisoning appear (usually tearing, excessive oral secretions, wheezing, muscle fasciculations, etc.) In moderate to severe poisoning, the administration of more than one Atropine autoinjector may be required until atropinization is achieved (flushing, mydriasis, tachycardia, dryness of the mouth and nose).
-In severe poisonings, concurrent administration of an anticonvulsant (preferably a benzodiazepine) may be warranted if seizure is suspected in the unconscious individual because overt jerking may not be apparent because of the effects of the poison.
-Note: Barbiturates are potentiated by the anticholinesterases; therefore, barbiturates should be used cautiously in the treatment of convulsions resulting from exposure to anticholinesterases.
-In poisonings caused by organophosphorous nerve agents and insecticides it may also be helpful to concurrently administer a cholinesterase reactivator such as pralidoxime chloride.
+First Dose: If the patient experiences two or more mild symptoms of nerve agent (nerve gas) or insecticide exposure listed in Table 1, administer one (1) Atropine injection intramuscularly into the mid-lateral outer thigh.
 
-It is recommended that three (3) 2 mg Atropine autoinjectors be available for use in each person at risk for nerve agent or organophosphate insecticide poisoning; one (1) for mild symptoms plus two (2) more for severe symptoms as described below (see Table 1).
-No more than three (3) Atropine autoinjectors should be used unless the patient is under the supervision of a trained medical provider.
+Additional Doses: If, at any time after the first dose, the patient develops any of the severe symptoms listed in Table 1, administer two (2) additional Atropine injections intramuscularly in rapid succession.
 
-Administer each dose of the 2 mg Atropine autoinjector into the patient’s mid-lateral outer thigh.
+Wait 10 to 15 minutes for Atropine to take effect.
+If, after 10 to 15 minutes, the patient does not develop any of the severe symptoms listed in Table 1, no additional Atropine injections are recommended.
 
-Treatment of MILD SYMPTOMS:
-
-One (1) 2 mg Atropine autoinjector administered intramuscularly is recommended if two or more MILD symptoms of nerve agent (nerve gas) or insecticide exposure appear in individuals whose exposure is known or suspected.
-
-Two (2) additional 2 mg Atropine autoinjectors given intramuscularly in rapid succession are recommended 10 minutes after receiving the first 2 mg Atropine autoinjector if the patient develops any of the SEVERE symptoms listed below.
 If possible, a person other than the patient should administer the second and third 2 mg Atropine autoinjectors.
 
-Treatment of SEVERE SYMPTOMS:
+Dosage for Severe Symptoms in Adults and Pediatric Patients Weighing More Than 41 kg (90 Pounds)
 
-If a patient is encountered who is either unconscious or has any of the SEVERE symptoms listed below, immediately administer three (3) 2 mg Atropine autoinjectors intramuscularly in rapid succession.
+If a patient is either unconscious or has any of the severe symptoms listed in Table 1, immediately administer three (3) Atropine injections intramuscularly into the patient’s mid-lateral outer thigh in rapid succession.
 
-Table 1: Signs/Symptoms in Individuals with Known or Suspected Nerve Agent or Certain Insecticide (Organophosphorus and/or Carbamate) Poisoning
+Table 1: Common Signs/Symptoms of Organophosphorus and/or Carbamate Poisoning
 
-| Mild symptoms include:•Blurred vision or miosis (constriction of the pupil) •Unexplained excessive lacrimation (excessive teary eyes) •Unexplained excessive nasopharyngeal secretions (excessive runny nose) •Increased salivation (e.g., unexplained sudden excessive drooling) •Chest tightness, difficulty breathing, wheezing, or coughing •Tremors throughout the body or muscular twitching (fasciculations) •Nausea, vomiting, abdominal cramping, or diarrhea •Tachycardia or bradycardia | SEVERE symptoms include:•Altered mental status (strange or confused behavior) •Loss of consciousness •Respiratory distress (severe difficulty breathing) •Excessive secretions from the lungs/airway •Severe muscular twitching (fasciculations), generalized weakness or paralysis •Involuntary urination and/or defecation (release of feces) •Convulsions or seizures |
+| MILD symptoms include: Blurred vision or miosisUnexplained excessive lacrimationUnexplained excessive nasopharyngeal secretionsIncreased salivationChest tightness, difficulty breathing, wheezing, or coughingTremors throughout the body or muscular twitchingNausea, vomiting, abdominal cramping, or diarrheaTachycardia or bradycardia | SEVERE symptoms include: Altered mental statusLoss of consciousnessRespiratory distressExcessive secretions from the lungs/airwaySevere muscular twitching, generalized weakness or paralysisInvoluntary urination and/or defecationConvulsions or seizures |
 | --- | --- |
 
+Additional Care Instructions
+
+Environmental
+
 All patients should be evacuated immediately from the contaminated environment.
-Medical help should be sought immediately.
 Protective masks and clothing should be used when available.
-Decontamination procedures should be undertaken as soon as possible.
+Aggressive and safe decontamination procedures should be undertaken as soon as possible.
 If dermal exposure has occurred, clothing should be removed and the hair and skin washed thoroughly with sodium bicarbonate or alcohol as soon as possible.
+Physicians and/or other medical personnel assisting evacuated patients of nerve and insecticide poisoning should avoid exposing themselves to contamination by the patient’s clothing.
 
+Medical
+
+Medical help should be sought immediately.
 Emergency care of the severely poisoned individual should include removal of oral and bronchial secretions, maintenance of a patent airway, supplemental oxygen and, if necessary, artificial ventilation.
-In general, atropine should not be used until cyanosis has been overcome since atropine may produce ventricular fibrillation and possible seizures in the presence of hypoxia.
+Severe difficulty in breathing requires artificial respiration in addition to the use of Atropine since Atropine is not dependable in reversing the weakness or paralysis of the respiratory muscles.
 
-Close supervision of all moderately to severely poisoned patients is indicated for at least 48 to 72 hours.
-
-IMPORTANT: PHYSICIANS AND/OR OTHER MEDICAL PERSONNEL ASSISTING EVACUATED VICTIMS OF NERVE AGENTS AND INSECTICIDE POISONING SHOULD AVOID EXPOSING THEMSELVES TO CONTAMINATION BY THE VICTIM’S CLOTHING.
-AGGRESSIVE AND SAFE DECONTAMINATION IS STRONGLY SUGGESTED.
-
-Instructions for administering the 2 mg Atropine autoinjector (please refer to the illustrated dose specific Self Aid and Caregiver Directions for Use at the end of this package insert):
-
-Warning: Administering additional 2 mg Atropine autoinjectors by mistake in the absence of actual nerve agent or insecticide poisoning may cause an overdose of atropine which could result in temporary incapacitation (inability to walk properly, see clearly or think clearly for several or more hours).
-Patients with cardiac disease may be at risk for serious adverse events, including death.
+Refer to the illustrated dose-specific Instructions for Use for autoinjector administration instructions.
+Antidotes, such as Atropine, should not be relied upon solely to provide complete protection from chemical nerve agents and insecticide poisoning.
