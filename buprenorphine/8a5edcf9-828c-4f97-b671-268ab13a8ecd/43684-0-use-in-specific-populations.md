@@ -150,7 +150,7 @@ The effect of hepatic impairment on the pharmacokinetics of buprenorphine and na
 Both drugs are extensively metabolized in the liver.
 While no clinically significant changes have been observed in subjects with mild hepatic impairment; the plasma levels have been shown to be higher and half-life values have been shown to be longer for both buprenorphine and naloxone in subjects with moderate and severe hepatic impairment.
 The magnitude of the effects on naloxone are greater than that on buprenorphine in both moderately and severely impaired subjects.
-The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
+The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjectswith moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
 
 Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.12), Clinical Pharmacology (12.3)].
 
