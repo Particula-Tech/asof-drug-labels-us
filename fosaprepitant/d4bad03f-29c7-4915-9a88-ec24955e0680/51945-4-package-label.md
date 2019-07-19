@@ -1,0 +1,19 @@
+# PRINCIPAL DISPLAY PANEL - 150 mg Vial Carton
+
+NDC 0006-3061-02
+
+Emend® (fosaprepitant) for Injection
+
+150 mg per vial
+
+Reconstitute with 5 mL of 0.9% Sodium Chloride for Injection.
+
+STERILE LYOPHILIZED POWDER FOR INTRAVENOUS USE ONLY AFTER RECONSTITUTION AND DILUTION
+
+DO NOT USE WITH SOLUTIONS CONTAINING DIVALENT CATIONS (e.g., Ca2+, Mg2+) INCLUDING LACTATED RINGER'S SOLUTION AND HARTMANN'S SOLUTION.
+
+Rx only
+
+Single-Dose Vial – Discard Unused Portion
+
+PREMIERProRx®
