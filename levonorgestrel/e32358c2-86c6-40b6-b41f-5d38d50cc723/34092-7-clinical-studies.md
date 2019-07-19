@@ -11,9 +11,9 @@ The mean BMI of LILETTA subjects was 26.9 kg/m2; 24% were overweight, 24% were o
 
 The pregnancy rate calculated as the Pearl Index (PI) in women aged 16 to 35 years, inclusive, was the primary efficacy endpoint used to assess contraceptive reliability.
 The PI was calculated based on 28-day equivalent exposure cycles; evaluable cycles excluded those in which back-up contraception was used unless a pregnancy occurred in that cycle.
-The Year 1 PI was based on two pregnancies and the cumulative 4-year pregnancy rate was calculated by the life table method, based on a total of eight pregnancies that occurred after the onset of treatment and within 7 days after LILETTA removal or expulsion.
+The Year 1 PI was based on two pregnancies and the cumulative 5-year pregnancy rate was calculated by the life table method, based on a total of nine pregnancies that occurred after the onset of treatment and within 7 days after LILETTA removal or expulsion.
 Contraceptive protection did not appear to vary by parity, race or body mass index.
-Table 5 shows the annual PI for each of the four years and the calculated cumulative life table pregnancy rates through years 1, 2, 3 and 4.
+Table 5 shows the annual PI for each of the five years and the calculated cumulative life table pregnancy rates through years 1, 2, 3, 4 and 5.
 
 Table 5: Pregnancy Rates
 
@@ -22,7 +22,8 @@ Table 5: Pregnancy Rates
 | Year 1 | 17,175 | 0.15 (0.02, 0.55) | 17,175 | 0.14 (0.04, 0.57) |
 | Year 2 | 14,205 | 0.37 (0.10, 0.94) | 31,380 | 0.49 (0.22, 1.09) |
 | Year 3 | 11,760 | 0.11 (0.00, 0.62) | 43,140 | 0.59 (0.28, 1.25) |
-| Year 4 | 9,755 | 0.13 (0.00, 0.74) | 52,895 | 0.73 (0.36, 1.47) |
+| Year 4 | 9,863 | 0.13 (0.00, 0.73) | 53,003 | 0.72 (0.36, 1.45) |
+| Year 5 | 6,396 | 0.20 (0.01, 1.13) | 59,399 | 0.92 (0.46, 1.82) |
 
 The use of LILETTA does not appear to alter the course of female fertility after removal of the IUS.
-Of 153 women who desired pregnancy after study discontinuation, 78% conceived within 6 months following LILETTA removal, and 88% conceived within 12 months after removal of LILETTA.
+Of 165 women who desired pregnancy after study discontinuation, 79% conceived within 6 months following LILETTA removal, and 88% conceived within 12 months after removal of LILETTA.

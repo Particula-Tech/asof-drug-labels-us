@@ -24,6 +24,8 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   Advise the patient on how she can check that the threads still protrude from her cervix, and not to pull on them.
   Advise her that there is no contraceptive protection if LILETTA is displaced or expelled.
   [See Warnings and Precautions (5.6).]
+- Advise patients that excessive pain or vaginal bleeding during insertion, worsening pain or bleeding after insertion, or the inability to feel the threads may occur with perforation and expulsion.
+  [See Warnings and Precautions (5.5, 5.6).]
 - Advise the patient regarding the risk of ovarian cysts and that cysts can cause clinical symptoms including pelvic pain, abdominal pain or dyspareunia and infrequently will need surgery.
   [See Warnings and Precautions (5.7).]
 - Advise the patient that irregular or prolonged bleeding and spotting, and/or cramps may occur during the first three to six months after insertion.
@@ -39,7 +41,7 @@ LILETTA® and its design are registered trademarks of Odyssea Pharma SPRL, an Al
 
 Manufactured by:
 
-Odyssea Pharma, Belgium
+Odyssea Pharma, SPRL, Belgium
 
 An affiliated company of Allergan USA, Inc.
 
@@ -53,5 +55,5 @@ Allergan USA, Inc. Medicines360
 
 Irvine, CA 92612 San Francisco, CA 94111
 
-© 2017 Allergan and Medicines360.
+© 2018 Allergan and Medicines360.
 All rights reserved.

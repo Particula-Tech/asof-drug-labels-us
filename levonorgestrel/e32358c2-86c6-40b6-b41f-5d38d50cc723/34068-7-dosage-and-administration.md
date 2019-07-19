@@ -3,28 +3,27 @@
 ## 2.1 Dosing Over Time
 
 LILETTA contains 52 mg of levonorgestrel (LNG).
-Initially, LNG is released at a rate of 19.5 mcg/day.
-This rate decreases progressively to approximately 17.0 mcg/day at 1 year, 14.8 mcg/day at 2 years, 12.9 mcg/day at 3 years and 11.3 mcg/day at 4 years after insertion.
-The average in vivo release rate of LNG is approximately 15.4 mcg/day over a period of 4 years.
-
-LILETTA can be removed at any time but must be removed by the end of the fourth year.
+Initially, LNG is released at a rate of approximately 20 mcg/day.
+This rate decreases progressively to about 50% after 5 years.
+The average in vivo release rate of LNG is approximately 14.7 mcg/day over a period of 5 years.
+LILETTA can be removed at any time but must be removed by the end of the fifth year.
 LILETTA can be replaced at the time of removal with a new LILETTA if continued contraceptive protection is desired.
 
 ## 2.2Timing of Insertion
 
 Refer to Table 1 for instruction on when to start use of LILETTA.
 
-Table 1: When to Insert Liletta
+Table 1: When to Insert LILETTA
 
 | Starting LILETTA in women not currently using hormonal or intrauterine contraception | LILETTA can be inserted any time the provider can be reasonably certain the woman is not pregnant. Consider the possibility of ovulation and conception prior to initiation of this product. If LILETTA is inserted after the first 7 days of the menstrual cycle, the patient should use a barrier method of contraception (such as condoms and spermicide) or abstain from vaginal intercourse for 7 days after insertion to prevent pregnancy. |
 | --- | --- |
-| Switching to Liletta from an oral, transdermal or vaginal hormonal contraceptive | LILETTA may be inserted at any time. • May be inserted during the hormone-free interval of the previous method. • If inserted during active use of the previous method, continue that method for 7 days after LILETTA insertion or until the end of the current treatment cycle. If using continuous hormonal contraception, discontinue that method 7 days after LILETTA insertion. |
+| Switching to LILETTA from an oral, transdermal or vaginal hormonal contraceptive | LILETTA may be inserted at any time. • May be inserted during the hormone-free interval of the previous method. • If inserted during active use of the previous method, continue that method for 7 days after LILETTA insertion or until the end of the current treatment cycle. If using continuous hormonal contraception, discontinue that method 7 days after LILETTA insertion. |
 | Switching to LILETTA from an injectable progestin contraceptive | LILETTA may be inserted at any time. If LILETTA is inserted more than 3 months (13 weeks) after the last injection, a barrier method of contraception (such as condoms and spermicide) should also be used for 7 days after insertion. |
 | Switching to LILETTA from a contraceptive implant or another IUS | Insert LILETTA on the same day the implant or IUS is removed. LILETTA may be inserted at any time during the menstrual cycle. |
-| Inserting Liletta after abortion or miscarriage |  |
+| Inserting LILETTA after abortion or miscarriage |  |
 | First-trimester | LILETTA may be inserted immediately after a first-trimester abortion or miscarriage. |
-| Second-trimester | Delay inserting Delay inserting LILETTA until a minimum of 6 weeks after second-trimester abortion or miscarriage, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.5, 5.6)]. If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of LILETTA. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] LILETTA can be inserted any time the provider can be reasonably certain the woman is not pregnant. If LILETTA is not inserted during the first 7 days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days after insertion to prevent pregnancy. |
-| Inserting Liletta after Childbirth | Delay inserting LILETTA until a minimum of 6 weeks after delivery, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.5, 5.6)]. If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of LILETTA. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] LILETTA can be inserted any time the provider can be reasonably certain the woman is not pregnant. If LILETTA is not inserted during the first 7 days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days after insertion to prevent pregnancy. There appears to be an increased risk of perforation in lactating women. [See Warnings and Precautions (5.5).] |
+| Second-trimester | Delay inserting Delay inserting LILETTA until a minimum of 4 weeks after second-trimester abortion or miscarriage, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.5, 5.6)]. If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of LILETTA. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] LILETTA can be inserted any time the provider can be reasonably certain the woman is not pregnant. If LILETTA is not inserted during the first 7 days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days after insertion to prevent pregnancy. |
+| Inserting LILETTA after Childbirth | Delay inserting LILETTA until a minimum of 4 weeks after delivery, or until the uterus is fully involuted. If involution is delayed, wait until involution is complete before insertion [see Warnings and Precautions (5.5, 5.6)]. If the woman has not yet had a period, consider the possibility of ovulation and conception occurring prior to insertion of LILETTA. [See Contraindications (4), Warnings and Precautions (5.2), and FDA-Approved Patient Labeling.] LILETTA can be inserted any time the provider can be reasonably certain the woman is not pregnant. If LILETTA is not inserted during the first 7 days of the menstrual cycle, a barrier method of contraception should be used or the patient should abstain from vaginal intercourse for 7 days after insertion to prevent pregnancy. There appears to be an increased risk of perforation in lactating women. [See Warnings and Precautions (5.5).] |
 
 ## 2.3Insertion Instructions
 
@@ -50,11 +49,11 @@ Healthcare providers should become thoroughly familiar with the product, product
 
 Planning for Insertion
 
-- Ensure all needed items for LILETTA insertion are readily available: ○ Gloves ○ Speculum ○ Sterile uterine sound ○ Sterile tenaculum ○ Antiseptic solution ○ LILETTA with inserter in sealed pouch ○ Sterile, blunt-tipped scissors ○ Additional items that may be useful could include:
+- Ensure all needed items for LILETTA insertion are readily available: ○ Gloves ○ Sterile speculum ○ Sterile uterine sound ○ Sterile tenaculum ○ Antiseptic solution ○ LILETTA with inserter in sealed pouch ○ Sterile, blunt-tipped scissors ○ Additional items that may be useful could include:
 
 • Local anesthesia, needle, and syringe
 
-• Os finder and/or cervical dilators
+• Sterile os finder and/or cervical dilators
 
 • Ultrasound with abdominal probe
 
@@ -233,16 +232,16 @@ Timing of Removal
 - If pregnancy is desired, LILETTA can be removed at any time.
 - If pregnancy is not desired, LILETTA can be removed at any time; however, a contraception method should be started prior to removal of LILETTA [see Dosage and Administration (2.5)].
   Counsel your patient that she is at risk of pregnancy if she has intercourse in the week prior to removal without use of a backup contraceptive method.
-- LILETTA should be removed after 4 years.
+- LILETTA should be removed after 5 years.
   LILETTA can be replaced at the time of removal with a new LILETTA if continued contraceptive protection is desired.
 
 Planning for Removal
 
-- Ensure all needed items for LILETTA removal are readily available: ○ Gloves ○ Speculum ○ Sterile forceps ○ Additional items that may be required could include:
+- Ensure all needed items for LILETTA removal are readily available: ○ Gloves ○ Sterile speculum ○ Sterile forceps ○ Additional items that may be required could include:
 
 • Local anesthetic, needle, and syringe
 
-• Os finder and/or cervical dilators
+• Sterile os finder and/or cervical dilators
 
 • Ultrasound with abdominal probe
 
@@ -250,7 +249,7 @@ Planning for Removal
 
 • Antiseptic solution
 
-• Long, narrow forceps
+• Sterile long, narrow forceps
 
 - Removal may be associated with some pain and/or bleeding or vasovagal reactions (e.g., syncope, bradycardia, or seizure), especially in patients with a predisposition to these conditions.
 - After removal of LILETTA, examine the system to ensure that it is intact.
@@ -261,7 +260,8 @@ Removal Instructions
 - When the threads of LILETTA are visible: ○ Remove the IUS by applying traction on the threads with forceps (Figure 13). ○ The arms of the device will fold upward as it is withdrawn from the uterus. ○ If the IUS cannot be removed with traction on the threads, perform an ultrasound examination to confirm location of the IUS, including assessment for partial or total perforation.
   If the IUS is in the uterus, use long, narrow forceps to grasp LILETTA.
   Consider use of a tenaculum, cervical anesthesia, cervical dilators, and/or ultrasound guidance as needed. ○ After removal, examine the system to ensure it is intact.
-- If the threads of LILETTA are not visible: ○ Determine location of the IUS by ultrasound examination. ○ If the IUS is in the uterine cavity, use long, narrow forceps (e.g., Alligator forceps) to grasp LILETTA.
+- If the threads of LILETTA are not visible: ○ Determine location of the IUS by ultrasound examination. ○ If the IUS is in the uterine cavity, thoroughly cleanse the cervix and vagina with antiseptic solution.
+  Use long, narrow forceps (e.g., Alligator forceps) to grasp LILETTA.
   Consider use of a tenaculum, cervical anesthesia, cervical dilators, and/or ultrasound guidance as needed.
   If LILETTA cannot be removed using the above techniques, consider hysteroscopic evaluation for removal. ○ If the IUS is not in the uterine cavity, consider an abdominal x-ray or CT scan to evaluate if the IUS is in the abdominal cavity.
   Consider laparoscopic evaluation for removal, as clinically indicated. ○ After removal, examine the system to ensure it is intact.

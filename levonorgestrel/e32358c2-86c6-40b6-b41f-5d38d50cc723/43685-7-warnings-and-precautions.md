@@ -7,7 +7,7 @@ Approximately half of pregnancies that occur with LILETTA in place are likely to
 Also consider the possibility of ectopic pregnancy in the case of lower abdominal pain, especially in association with missed periods or if an amenorrheic woman starts bleeding.
 If an ectopic pregnancy is confirmed, LILETTA should be removed.
 
-The incidence of ectopic pregnancy in the clinical trial with LILETTA, which excluded women with a history of ectopic pregnancy who did not have a subsequent intrauterine pregnancy, was approximately 0.16 per 100 women-years.
+The incidence of ectopic pregnancy in the clinical trial with LILETTA, which excluded women with a history of ectopic pregnancy who did not have a subsequent intrauterine pregnancy, was approximately 0.13 per 100 women-years.
 The risk of ectopic pregnancy in women who have a history of ectopic pregnancy and use LILETTA is unknown.
 Women with a previous history of ectopic pregnancy, tubal surgery or pelvic infection have a higher risk of ectopic pregnancy.
 Ectopic pregnancy may require surgery and may result in loss of fertility.
@@ -88,6 +88,7 @@ When possible, confirm a Pap test diagnosis with cultures.
 ## 5.5Perforation
 
 Perforation (total or partial, including penetration/embedment of LILETTA in the uterine wall or cervix) may occur, most often during insertion, although the perforation may not be detected until sometime later.
+Perforation may also occur at any time during IUS use.
 Perforation may reduce contraceptive efficacy and result in pregnancy.
 This may be associated with severe pain and continued bleeding.
 
@@ -99,17 +100,19 @@ Delayed detection or removal of LILETTA in case of perforation may result in mig
 In a large prospective comparative non-interventional cohort study with another IUS the incidence of uterine perforation was reported as 6.3 per 1,000 insertions for lactating women, compared to 1.0 per 1,000 insertions for non-lactating women.
 
 The risk of perforation may be increased if LILETTA is inserted when the uterus is fixed retroverted or not completely involuted during the post-partum period.
-Delay LILETTA insertion a minimum of six weeks or until involution is complete following a delivery or a second trimester abortion.
+Delay LILETTA insertion a minimum of four weeks or until involution is complete following a delivery or a second trimester abortion.
 
 ## 5.6Expulsion
 
 Partial or complete expulsion of LILETTA may occur, resulting in the loss of contraceptive protection.
-In the clinical trial with LILETTA, an overall expulsion rate of 3.7% was reported, with a rate of 2.1% in nulliparous women and 5.7% in parous women.
+In the clinical trial with LILETTA, an overall expulsion rate of 3.7% was reported, with a rate of 2.1% in nulliparous women and 5.9% in parous women.
+The majority (76.9%) occur in the first 12 months, with 26.2% occurring in the first three months and 43.1% in the first six months, cumulatively.
 Expulsion may be associated with symptoms of bleeding or pain, or it may be asymptomatic and go unnoticed.
 LILETTA typically decreases menstrual bleeding over time; therefore, an increase in menstrual bleeding may be indicative of an expulsion.
+Consider further diagnostic imaging, such as sonography or X-ray, to confirm expulsion if LILETTA is not found in the uterus.
 
 The risk of expulsion may be increased when the uterus is not completely involuted at the time of insertion.
-Delay LILETTA insertion a minimum of 6 weeks or until uterine involution is complete following a delivery or a second trimester abortion.
+Delay LILETTA insertion a minimum of 4 weeks or until uterine involution is complete following a delivery or a second trimester abortion.
 
 Remove a partially expelled LILETTA.
 If expulsion has occurred, a new LILETTA may be inserted within 7 days after the onset of a menstrual period after pregnancy has been ruled out.
@@ -120,7 +123,7 @@ Because the contraceptive effect of LILETTA is mainly due to its local effects w
 Sometimes atresia of the follicle is delayed and the follicle may continue to grow.
 Most ovarian cysts that occur during use of LNG-releasing IUSs are asymptomatic and disappear spontaneously during two to three months of observation.
 Cysts that cause clinical symptoms can result in pelvic or abdominal pain or dyspareunia.
-Symptomatic ovarian cysts occurred in 4.3% of subjects using LILETTA, and 0.3% of subjects discontinued use of LILETTA because of an ovarian cyst.
+Symptomatic ovarian cysts occurred in 4.5% of subjects using LILETTA, and 0.3% of subjects discontinued use of LILETTA because of an ovarian cyst.
 
 Evaluate persistent ovarian cysts.
 Surgical intervention is not usually required, but may be necessary in some cases.
@@ -132,7 +135,7 @@ LILETTA can alter the bleeding pattern and result in spotting, irregular bleedin
 During the first three to six months of LILETTA use, the number of bleeding and spotting days may be increased and bleeding patterns may be irregular.
 Thereafter, the number of bleeding and spotting days usually decreases but bleeding may remain irregular.
 
-In the LILETTA clinical trial, amenorrhea developed in approximately 19% of LILETTA users by the end of the first year of use, in 27% by the end of the second year of use, in 37% by the end of the third year of use and 41% by the end of the fourth year of use.
+In the LILETTA clinical trial, amenorrhea developed in approximately 19% of LILETTA users by the end of the first year of use, in 27% by the end of the second year of use, in 37% by the end of the third year of use, 37% by the end of the fourth year of use, and 42% by the end of the fifth year of use.
 In the trial, 2.2% of LILETTA subjects discontinued due to bleeding complaints.
 Table 2 shows the bleeding and spotting days based on 28-day cycle equivalents.
 
@@ -147,8 +150,8 @@ Table 2: Mean Number of Bleeding and Spotting Days per 28-Day Cycle Equivalent
 
 Note: Includes all LILETTA subjects.
 
-In the LILETTA clinical trial, 429 of 439 (97.7%) women evaluated experienced menses after LILETTA removal.
-Excluding nine women who became pregnant or had a hysterectomy before having a return of their menses, 429 of 430 (99.8%) had a return of their menses, 99.1% within three months.
+In the LILETTA clinical trial, 487 of 488 (99.8%) women evaluated experienced menses after LILETTA removal.
+This excludes twelve women who became pregnant, had a hysterectomy or became menopausal before having a return of their menses.
 
 If a significant change in bleeding develops during prolonged use, take appropriate diagnostic measures to rule out endometrial pathology.
 Consider the possibility of pregnancy if menstruation does not occur within six weeks of the onset of a previous menstruation.

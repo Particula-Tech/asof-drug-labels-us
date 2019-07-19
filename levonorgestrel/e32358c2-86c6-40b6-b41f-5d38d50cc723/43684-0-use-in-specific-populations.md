@@ -35,11 +35,7 @@ LILETTA has not been studied in women over age 65 and is not indicated for postm
 
 No studies were conducted to evaluate the effect of hepatic disease on the disposition of LNG released from LILETTA [see Contraindications (4)].
 
-## 8.7Renal Impairment
-
-No studies were conducted to evaluate the effect of renal disease on the disposition of LNG released from LILETTA.
-
-## 8.8Obesity
+## 8.7Obesity
 
 The safety and efficacy of LILETTA have been evaluated in overweight, obese, and morbidly obese patients.
 There was no apparent effect of BMI or body weight on contraceptive efficacy [see Clinical Pharmacology (12.3)].

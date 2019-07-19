@@ -13,7 +13,7 @@ You should also learn about other birth control methods to choose the one that i
 
 What is LILETTA?
 
-- LILETTA is a hormone-releasing system placed in your uterus by your healthcare provider to prevent pregnancy for up to 4 years.
+- LILETTA is a hormone-releasing system placed in your uterus by your healthcare provider to prevent pregnancy for up to 5 years.
 - LILETTA can be removed by your healthcare provider at any time.
 - LILETTA can be used whether or not you have given birth to a child.
 
@@ -24,18 +24,18 @@ LILETTA does not contain estrogen.
 Two thin threads are attached to the stem (lower end) of LILETTA.
 The threads are the only part of LILETTA you can feel when LILETTA is in your uterus; however, unlike a tampon string, the threads do not extend outside your body.
 
-What if I need birth control for more than 4 years?
+What if I need birth control for more than 5 years?
 
-LILETTA must be removed after 4 years.
+LILETTA must be removed after 5 years.
 Your healthcare provider can place a new LILETTA during the same office visit if you choose to continue using LILETTA.
 
 What if I want to stop using LILETTA?
 
-LILETTA is intended for use up to 4 years, but you can stop using LILETTA at any time by asking your healthcare provider to remove it.
+LILETTA is intended for use up to 5 years, but you can stop using LILETTA at any time by asking your healthcare provider to remove it.
 You could become pregnant as soon as LILETTA is removed, so you should use another method of birth control if you do not want to become pregnant.
 Talk to your healthcare provider about the best birth control methods for you, because your new method may need to be started 7 days before LILETTA is removed to prevent pregnancy.
 
-What if I change my mind about birth control and want to become pregnant in less than 4 years?
+What if I change my mind about birth control and want to become pregnant in less than 5 years?
 
 Your healthcare provider can remove LILETTA at any time.
 You could become pregnant as soon as LILETTA is removed.
@@ -59,7 +59,7 @@ Who might use LILETTA?
 You might choose LILETTA if you:
 
 - want long-term birth control that provides a low chance of getting pregnant (less than 1 in 100)
-- want birth control that works continuously for up to 4 years
+- want birth control that works continuously for up to 5 years
 - want birth control that is reversible
 - want a birth control method that you do not need to take daily
 - are willing to use a birth control method that is placed in the uterus
@@ -68,7 +68,8 @@ You might choose LILETTA if you:
 Do not use LILETTA if you:
 
 - are or might be pregnant; LILETTA cannot be used as an emergency contraceptive
-- have a serious pelvic infection called pelvic inflammatory disease (PID) or endometritis unless you have had a normal pregnancy after the infection went awayhave an untreated lower genital infection now
+- have a serious pelvic infection called pelvic inflammatory disease (PID) or endometritis unless you have had a normal pregnancy after the infection went away
+- have an untreated lower genital infection now
 - have had an infection from an abortion within the last 3 months
 - can get infections easily.
   For example, if you: ○ have problems with your immune system ○ have multiple sexual partners or your partner has multiple sexual partners ○ use or abuse intravenous drugs
@@ -93,7 +94,7 @@ Before having LILETTA placed, tell your healthcare provider if you have any medi
 - have severe or frequent headaches
 - have AIDS, HIV, or any other sexually transmitted infection
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+.
 
 How is LILETTA placed?
 
@@ -140,6 +141,7 @@ Unusual vaginal bleeding or abdominal pain especially with missed periods may be
 
 Ectopic pregnancy is a medical emergency that often requires surgery.
 Ectopic pregnancy can cause internal bleeding, infertility, and even death.
+
 There are also risks if you get pregnant while using LILETTA and the pregnancy is in the uterus.
 Severe infection, miscarriage, premature labor, premature delivery, and even death can occur with pregnancies that continue with an intrauterine system (IUS).
 Because of this, your healthcare provider may try to remove LILETTA, even though removing it may cause a miscarriage.
@@ -200,7 +202,8 @@ LILETTA can cause serious side effects, including:
   It is not known if LILETTA can cause long-term effects on the fetus if it stays in place during a pregnancy.
 - life-threatening infection.
   Life-threatening infection can occur within the first few days after LILETTA is placed.
-  Call your healthcare provider immediately if you develop severe pain or fever shortly after LILETTA is placed. • pelvic inflammatory disease (PID) or endometritis.
+  Call your healthcare provider immediately if you develop severe pain or fever shortly after LILETTA is placed.
+- pelvic inflammatory disease (PID) or endometritis.
   Some IUS users get a serious pelvic infection called pelvic inflammatory disease (PID) or endometritis.
   PID and endometritis are usually sexually transmitted.
   You have a higher chance of getting PID or endometritis if you or your partner has sex with other partners.
@@ -246,7 +249,7 @@ The most common side effects of LILETTA include:
 | mood changes | anxiety |
 
 - Pain, bleeding, or dizziness during and after placement.
-  If these symptoms do not stop within 30 minutes after placement, LILETTA may not have been placed correctly.
+  If these symptoms do not stop within 30 minutes after placement, LILETTA may not have been placed correctly, or they may be symptoms of perforation or expulsion.
   Your healthcare provider will examine you to see if LILETTA needs to be removed or replaced.
 - Missed menstrual periods.
   About 2 out of 10 women stop having periods after 1 year of LILETTA use.
@@ -293,13 +296,14 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 LILETTA® and its design are registered trademarks of Odyssea Pharma SPRL, an Allergan affiliate.
 
-Manufactured by: Odyssea Pharma, Belgium An affiliated company of Allergan USA, Inc.
+Manufactured by: Odyssea Pharma, SPRL, Belgium An affiliated company of Allergan USA, Inc.
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Marketed by: Allergan USA, Inc. Medicines360 Irvine, CA 92612 San Francisco, CA 94111
 
-© 2017 Allergan and Medicines360.
+© 2018 Allergan and Medicines360.
 All rights reserved.
+Allergan® and its design are trademarks of Allergan, Inc.
 
-Approved: October 2017
+Approved: October 2018
