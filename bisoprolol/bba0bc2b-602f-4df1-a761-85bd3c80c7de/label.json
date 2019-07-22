@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA075474"
+  ],
+  "inn": "bisoprolol",
+  "labeler": "TruPharma, LLC",
+  "package_ndcs": [
+    "52817-270-10",
+    "52817-270-30",
+    "52817-271-10",
+    "52817-271-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bisoprolol fumarate",
+      "name": "Bisoprolol"
+    }
+  ],
+  "setid": "bba0bc2b-602f-4df1-a761-85bd3c80c7de",
+  "source": "dailymed"
+}
