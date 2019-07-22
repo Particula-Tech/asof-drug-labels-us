@@ -4,7 +4,7 @@
 
 Developmental toxicology studies have been performed with rocuronium bromide in pregnant, conscious, nonventilated rabbits and rats.
 Inhibition of neuromuscular function was the endpoint for high-dose selection.
-The maximum tolerated dose served as the high-dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15% to 30% of human intubation dose of 0.6 to 1.2 mg/kg based on the body surface unit of mg/m2) from Day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from Day 6 to 18 of pregnancy.
+The maximum tolerated dose served as the high-dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15% to 30% of human intubation dose of 0.6 to 1.2 mg/kg based on the body surface unit of mg/m 2) from Day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from Day 6 to 18 of pregnancy.
 High-dose treatment caused acute symptoms of respiratory dysfunction due to the pharmacological activity of the drug.
 Teratogenicity was not observed in these animal species.
 The incidence of late embryonic death was increased at the high dose in rats, most likely due to oxygen deficiency.

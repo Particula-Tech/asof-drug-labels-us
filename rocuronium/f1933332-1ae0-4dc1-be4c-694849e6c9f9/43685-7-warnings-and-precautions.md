@@ -38,7 +38,7 @@ Rocuronium Bromide Injection has not been studied for long-term use in the inten
 As with other nondepolarizing neuromuscular blocking drugs, apparent tolerance to Rocuronium Bromide Injection may develop during chronic administration in the ICU.
 While the mechanism for development of this resistance is not known, receptor up-regulation may be a contributing factor.
 It is strongly recommended that neuromuscular transmission be monitored continuously during administration and recovery with the help of a nerve stimulator.
-Additional doses of Rocuronium Bromide Injection or any other neuromuscular blocking agent should not be given until there is a definite response (one twitch of the train-of-four) to nerve stimulation.
+Additional doses of Rocuronium Bromide Injectionor any other neuromuscular blocking agent should not be given until there is a definite response (one twitch of the train-of-four) to nerve stimulation.
 Prolonged paralysis and/or skeletal muscle weakness may be noted during initial attempts to wean from the ventilator patients who have chronically received neuromuscular blocking drugs in the ICU.
 
 Myopathy after long-term administration of other nondepolarizing neuromuscular blocking agents in the ICU alone or in combination with corticosteroid therapy has been reported.
