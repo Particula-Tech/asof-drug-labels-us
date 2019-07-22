@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "ANDA211384"
+  ],
+  "inn": "pregabalin",
+  "labeler": "Cipla USA, Inc.",
+  "package_ndcs": [
+    "69097-954-05",
+    "69097-954-12",
+    "69097-955-05",
+    "69097-955-12",
+    "69097-956-05",
+    "69097-956-12",
+    "69097-957-05",
+    "69097-957-12",
+    "69097-958-05",
+    "69097-958-12",
+    "69097-959-05",
+    "69097-961-05",
+    "69097-962-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "pregabalin",
+      "name": "Pregabalin"
+    }
+  ],
+  "setid": "17a8087c-579f-42de-ae92-006ea64def2a",
+  "source": "dailymed"
+}
