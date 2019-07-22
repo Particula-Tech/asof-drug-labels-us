@@ -2,7 +2,7 @@
 
 Tablets
 
-Tenofovir Disoproxil Fumarate Tablets 300 mg, are white circular film-coated convex tablets containing 300 mg of tenofovir disoproxil fumarate, which is equivalent to 245 mg of tenofovir disoproxil, engraved TDF on one side and plain on other side and are available in a 40 cc/ 50 cc HDPE container containing a desiccant (silica gel sachet) and closed with child-resistant screw cap.:
+Tenofovir Disoproxil Fumarate Tablets 300 mg are white circular film-coated convex tablets containing 300 mg of tenofovir disoproxil fumarate, which is equivalent to 245 mg of tenofovir disoproxil, engraved TDF on one side and plain on other side and are available in a 40 cc/ 50 cc HDPE container containing a desiccant (silica gel sachet) and closed with child-resistant screw cap.
 
 - Bottle of 30 tablets (NDC 64380-714-04)
 
