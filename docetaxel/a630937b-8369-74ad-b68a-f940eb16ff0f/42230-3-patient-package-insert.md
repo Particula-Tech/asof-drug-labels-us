@@ -1,6 +1,6 @@
 Patient Information
 
-Docetaxel injection USP
+Docetaxel (doe-se-TAKS-el) Injection USP
 
 for Intravenous use
 
@@ -83,7 +83,7 @@ Before you receive docetaxel injection, tell your healthcare provider about all 
   It is not known if docetaxel passes into your breast milk.
   You and your healthcare provider should decide if you will receive docetaxel injection or breastfeed.
 
-Tell your healthcare provider about all the medicines you take,including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Docetaxel injection may affect the way other medicines work, and other medicines may affect the way docetaxel injection works.
 
 Know the medicines you take.
@@ -107,7 +107,8 @@ Docetaxel injection may cause serious side effects including death.
   Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel injection.
 - Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
   Tell your healthcare provider if you are having a skin reaction.
-- Neurologic problems.Neurologic symptoms are common in people who receive docetaxel injection but can be severe.
+- Neurologic problems.
+  Neurologic symptoms are common in people who receive docetaxel injection but can be severe.
   Tell your healthcare provider if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness).
 - Vision Problems including blurred vision or loss of vision.
   Tell your healthcare provider right away if you have any vision changes.
@@ -160,4 +161,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Rx Only Manufactured by: Dr. Reddy’s Laboratories Limited Visakhapatnam - 530 046 Andhra Pradesh, INDIA
 
-Revised: 1018
+Revised: 0419
