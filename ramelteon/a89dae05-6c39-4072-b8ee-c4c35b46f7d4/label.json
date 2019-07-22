@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091610"
+  ],
+  "inn": "ramelteon",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-2191-01",
+    "0591-2191-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ramelteon",
+      "name": "Ramelteon"
+    }
+  ],
+  "setid": "a89dae05-6c39-4072-b8ee-c4c35b46f7d4",
+  "source": "dailymed"
+}
