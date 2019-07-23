@@ -14,7 +14,6 @@ Dosage and frequency of administration are dependent on age, clinical response, 
 (See package circulars for physostigmine products.)
 
 Saline cathartics, as milk of magnesia, by osmosis draw water into the bowel and, therefore, are valuable for their action in rapid dilution of bowel content.
-
 Stimulants should not be used.
 
 Vasopressors may be used to treat hypotension.
