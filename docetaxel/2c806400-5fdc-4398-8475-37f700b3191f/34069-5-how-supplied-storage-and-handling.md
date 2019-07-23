@@ -2,18 +2,15 @@
 
 ## 16.1 How Supplied
 
-One-vial Docetaxel Injection
+Docetaxel Injection USP, is supplied as a sterile, pyrogen-free, non-aqueous solution in single-dose, flip-top glass vials, as a clear, viscous, colorless to pale yellow solution, without macroscopic particles in solution at 20 mg/mL concentration, in the following package strengths:
 
-Docetaxel Injection is supplied as a sterile, pyrogen-free, non-aqueous solution in single-use, flip-top glass vials, as a clear, viscous, colorless to pale yellow solution, without macroscopic particles in solution at 20 mg/mL concentration in the following package strengths:
+Docetaxel Injection USP, 20 mg/mL available as one vial per carton NDC 45963-734-54
 
-Docetaxel Injection 20 mg/mL NDC 45963-734-54
+Docetaxel Injection USP, 80 mg/4 mL (20 mg/mL) available as one vial per carton NDC 45963-765-52
 
-Docetaxel Injection 80 mg/4 mL (20 mg/mL) NDC 45963-765-52
+Docetaxel Injection USP, 160 mg/8 mL (20 mg/mL) available as one vial per carton NDC 45963-790-56
 
-Docetaxel Injection 140 mg/7 mL (20 mg/mL) NDC 45963-781-74
-
-Docetaxel Injection 160 mg/8 mL (20 mg/mL) NDC 45963-790-56
-
+Discard unused portion.
 The vial stopper is not made with natural rubber latex.
 
 ## 16.2 Storage
