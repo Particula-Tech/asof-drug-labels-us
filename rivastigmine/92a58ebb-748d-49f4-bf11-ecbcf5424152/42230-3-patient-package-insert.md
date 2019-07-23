@@ -4,6 +4,8 @@ Rivastigmine Transdermal System
 
 (riv-ah-STIG-meen)
 
+What is the most important information I should know about rivastigmine transdermal system?
+
 Rivastigmine transdermal system is for skin use only.
 
 What is rivastigmine transdermal system?
@@ -11,9 +13,9 @@ What is rivastigmine transdermal system?
 Rivastigmine transdermal system is a prescription medicine used to treat:
 
 - •Mild, moderate, and severe memory problems (dementia) associated with Alzheimer’s disease.
-- •Mild to moderate memory problems (dementia) associated with Parkinson’s disease.
+- •Mild-to-moderate memory problems (dementia) associated with Parkinson’s disease (PD).
 
-Based on clinical trials conducted over 6 to 12 months rivastigmine transdermal system was shown to help with cognition which includes (memory, understanding communication, reasoning) and with doing daily tasks.
+Based on clinical trials conducted over 6 to 12 months, rivastigmine transdermal system was shown to help with cognition which includes (memory, understanding communication, and reasoning) and with doing daily tasks.
 Rivastigmine transdermal system does not work the same in all people.
 Some people treated with rivastigmine transdermal system may:
 
@@ -62,10 +64,9 @@ Before you use rivastigmine transdermal system, tell your healthcare provider if
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - •are breastfeeding or plan to breastfeed.
   It is not known if the medicine in the rivastigmine transdermal system passes into your breast milk.
-  You and your healthcare provider should decide if you will use the rivastigmine transdermal system or breastfeed.
-  You should not do both.
+  Talk to your doctor about the best way to feed your baby if you take rivastigmine transdermal system.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Especially tell your healthcare provider if you take:
 
@@ -82,7 +83,7 @@ Keep a list of them to show to your healthcare provider and pharmacist when you 
 
 How should I use rivastigmine transdermal system?
 
-- •Use Rivastigmine transdermal system exactly as your healthcare provider tells you to use it.
+- •Use rivastigmine transdermal system exactly as your healthcare provider tells you to use it.
 - •Rivastigmine transdermal systems come in 3 different dosage strengths.
 - •Your healthcare provider may change your dose as needed.
 - •Wear only 1 rivastigmine transdermal system at a time.
@@ -98,7 +99,7 @@ How should I use rivastigmine transdermal system?
 - •Rivastigmine transdermal system is designed to deliver medication during the time it is worn.
   If your rivastigmine transdermal system falls off before its usual replacement time, put on a new rivastigmine transdermal system right away.
   Replace the new patch the next day at the same time as usual.
-  Do not use overlays, bandages, or tape to secure a patch that has become loose or try to reapply a rivastigmine transdermal system that has fallen off.
+  Do not use overlays, bandages, or tape to secure a rivastigmine transdermal system that has become loose or try to reapply a rivastigmine transdermal system that has fallen off.
 - •If you miss a dose or forget to change your rivastigmine transdermal system apply your next rivastigmine transdermal system as soon as you remember.
   Do not apply 2 rivastigmine transdermal systems to make up for the missed dose.
 - •If you miss more than 3 doses of applying rivastigmine transdermal system, call your healthcare provider before putting on a new rivastigmine transdermal system.
@@ -138,9 +139,9 @@ Rivastigmine transdermal system may cause serious side effects, including:
   Symptoms of ACD may be intense and include:
   - ∘itching, redness, swelling, warmth or tenderness of the skin
   - ∘peeling or blistering of the skin that may ooze, drain or crust over
-- •heart problems
-- •seizures
-- •problems with movement (tremors)
+- •Heart problems
+- •Seizures
+- •Problems with movement (tremors)
 
 The most common side effects of rivastigmine transdermal system include:
 
@@ -184,11 +185,14 @@ For more information, call 1-800-525-8747.
 
 What are the ingredients of rivastigmine transdermal system?
 
-Active ingredient: rivastigmine Excipients include: acrylic copolymer, poly (butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E
+Active ingredient: rivastigmine Excipients include: acrylic copolymer, poly (butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E.
 
-T2016-99/T2016-100
+Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-November 2016/November 2016
+T2019-04
+
+| This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 12/2018 |
+| --- |
 
 ## Instructions for Use
 
@@ -198,7 +202,7 @@ Rivastigmine Transdermal System
 
 You will need the following supplies (See Figure A):
 
-Rivastigmine transdermal system is supplied in cartons containing 30 patches (see Figure A)
+Rivastigmine transdermal system is supplied in cartons containing 30 patches (See Figure A)
 
 Figure A
 
@@ -288,10 +292,10 @@ Step 8: Wash your hands with soap and water right away.
 - •After you remove the rivastigmine transdermal system, if any adhesive remains on your skin, you can use soap and water or an oil-based substance (such as baby oil) to remove the adhesive.
   Alcohol or other dissolving liquids (such as nail polish remover) should not be used.
 
-This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
+This Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-T2016-99/T2016-100/T2015-36 November 2016/November 2016/February 2015
+T2019-05 December 2018
 
-0003862 USG
+6514969 USG

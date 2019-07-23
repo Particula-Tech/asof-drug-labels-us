@@ -32,7 +32,7 @@ Figure 2: Rivastigmine Plasma Concentrations Following Dermal 24-Hour Patch Appl
 
 Over a 24-hour dermal application, approximately 50% of the drug content of the patch is released from the system.
 
-Exposure (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the patch was applied to the upper back, chest, or upper arm.
+Exposure area under the plasma concentration-time curve from time zero to infinity (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the patch was applied to the upper back, chest, or upper arm.
 Two other sites (abdomen and thigh) could be used if none of the 3 other sites is available, but the practitioner should be aware that the rivastigmine plasma exposure associated with these sites was approximately 20% to 30% lower.
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease with daily dosing.
@@ -83,7 +83,7 @@ Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state
 Renal Impairment
 
 No study was conducted with rivastigmine transdermal system in subjects with renal impairment.
-Based on population analysis creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
+Based on population analysis, creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
 
 Hepatic Impairment
 
@@ -106,7 +106,7 @@ Rivastigmine is primarily metabolized through hydrolysis by esterases.
 Minimal metabolism occurs via the major cytochrome P450 isoenzymes.
 Based on in vitro studies, no pharmacokinetic drug interactions with drugs metabolized by the following isoenzyme systems are expected: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1, CYP2C9, CYP2C8, CYP2C19, or CYP2B6.
 
-No pharmacokinetic interaction was observed between rivastigmine taken orally and digoxin, warfarin, diazepam or fluoxetine in studies in healthy volunteers.
+No pharmacokinetic interaction was observed between rivastigmine taken orally and digoxin, warfarin, diazepam, or fluoxetine in studies in healthy volunteers.
 The increase in prothrombin time induced by warfarin is not affected by administration of rivastigmine.
 
 Effect of Other Drugs on the Metabolism of Rivastigmine

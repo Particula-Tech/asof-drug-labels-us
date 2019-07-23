@@ -3,7 +3,7 @@
 The effectiveness of the rivastigmine transdermal system in dementia of the Alzheimer’s type and dementia associated with Parkinson’s disease was based on the results of 3 controlled trials of rivastigmine transdermal system in patients with Alzheimer’s disease (Studies 1, 2, and 3) (see below); 3 controlled trials of oral rivastigmine in patients with dementia of the Alzheimer’s type; and 1 controlled trial of oral rivastigmine in patients with dementia associated with Parkinson’s disease.
 See the prescribing information for oral rivastigmine for details of the four studies of oral rivastigmine.
 
-Mild to Moderate Alzheimer’s Disease
+Mild-to-Moderate Alzheimer’s Disease
 
 International 24-Week Study of Rivastigmine Transdermal System in Dementia of the Alzheimer’s Type (Study 1)
 
@@ -14,7 +14,7 @@ The racial distribution was Caucasian 75%, Black 1%, Asian 9%, and other races 1
 
 The effectiveness of the rivastigmine transdermal system was evaluated in Study 1 using a dual outcome assessment strategy, evaluating for changes in both cognitive performance and overall clinical effect.
 
-The ability of the rivastigmine transdermal system to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer’s disease patients.
+The ability of the rivastigmine transdermal system to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer’s-disease patients.
 The ADAS-Cog examines selected aspects of cognitive performance including elements of memory, orientation, attention, reasoning, language, and praxis.
 The ADAS-Cog scoring range is from 0 to 70, with higher scores indicating greater cognitive impairment.
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
