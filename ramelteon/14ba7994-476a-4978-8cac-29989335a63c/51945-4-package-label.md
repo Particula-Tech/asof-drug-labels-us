@@ -1,0 +1,9 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70771-1495-3
+
+Ramelteon Tablets, 8 mg
+
+30 Tablets
+
+Rx only

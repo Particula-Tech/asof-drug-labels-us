@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211567"
+  ],
+  "inn": "ramelteon",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1495-1",
+    "70771-1495-3",
+    "70771-1495-5"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ramelteon",
+      "name": "Ramelteon"
+    }
+  ],
+  "setid": "14ba7994-476a-4978-8cac-29989335a63c",
+  "source": "dailymed"
+}
