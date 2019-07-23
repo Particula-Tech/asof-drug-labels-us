@@ -1,6 +1,6 @@
 # Medication Guide
 
-1. FDA-Approved Medication Guide
+- FDA-Approved Medication Guide
 
 MEDICATION GUIDE
 
@@ -27,14 +27,14 @@ Tendon rupture or swelling of the tendon (tendinitis).
   Symptoms of tendon problems may include:
 - •Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 - •The risk of getting tendon problems while you take AVELOX is higher if you:
-- oAre over 60 years of age
-- oAre taking steroids (corticosteroids)
-- oHave had a kidney, heart or lung transplant
+- •Are over 60 years of age
+- •Are taking steroids (corticosteroids)
+- •Have had a kidney, heart or lung transplant
 - •Tendon problems can happen in people who do not have the above risk factors when they take AVELOX.
 - •Other reasons that can increase your risk of tendon problems can include:
-- oPhysical activity or exercise
-- oKidney failure
-- oTendon problems in the past, such as in people with rheumatoid arthritis (RA).
+- •Physical activity or exercise
+- •Kidney failure
+- •Tendon problems in the past, such as in people with rheumatoid arthritis (RA).
 - •Stop taking AVELOX immediately and call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking AVELOX until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
@@ -45,9 +45,9 @@ Tendon rupture or swelling of the tendon (tendinitis).
 - •Tendon rupture can happen while you are taking or after you have finished taking AVELOX.
   Tendon ruptures can happen within hours or days after taking AVELOX and have happened up to several months after patients have finished taking their fluoroquinolone.
 - •Stop taking AVELOX immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-- oHear or feel a snap or pop in a tendon area
-- oBruising right after an injury in a tendon area
-- oUnable to move the affected area or bear weight.
+- •Hear or feel a snap or pop in a tendon area
+- •Bruising right after an injury in a tendon area
+- •Unable to move the affected area or bear weight.
 - 2.
   Changes in sensation and possible nerve damage (Peripheral Neuropathy).
   Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including AVELOX.
@@ -58,7 +58,7 @@ Tendon rupture or swelling of the tendon (tendinitis).
 - •numbness
 - •weakness
 - AVELOX may need to be stopped to prevent permanent nerve damage.
-- 3.Central Nervous System (CNS) effects.
+- •Central Nervous System (CNS) effects.
   Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including AVELOX.
   Tell your healthcare provider if you have a history of seizures before you start taking AVELOX.
   CNS side effects may happen as soon as after taking the first dose of AVELOX.
@@ -158,9 +158,9 @@ Especially tell your healthcare provider if you take:
   See “What is the most important information I should know about AVELOX?”
 - •Certain medicines may keep AVELOX from working correctly.
   Take AVELOX either 4 hours before or 8 hours after taking these products:
-- oAn antacid, multivitamin, or other product that has magnesium, aluminum, iron, or zinc
-- oSucralfate (Carafate®)
-- oDidanosine oral suspension or solution
+- •An antacid, multivitamin, or other product that has magnesium, aluminum, iron, or zinc
+- •Sucralfate (Carafate®)
+- •Didanosine oral suspension or solution
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
 
@@ -176,12 +176,12 @@ How should I take AVELOX?
 - •Drink plenty of fluids while taking AVELOX.
 - •AVELOX Injection is given to you by intravenous infusion into your vein slowly, over 60 minutes, as prescribed by your healthcare provider.
 - •Do not skip any doses, or stop taking AVELOX even if you begin to feel better, until you finish your prescribed treatment, unless:
-  - oYou have tendon effects (see “What is the most important information I should know about AVELOX?”).
-  - oYou have nerve problems.
+  - •You have tendon effects (see “What is the most important information I should know about AVELOX?”).
+  - •You have nerve problems.
     See “What is the most important information I should know about AVELOX?”
-  - oYou have central nervous system problems.
+  - •You have central nervous system problems.
     See “What is the most important information I should know about AVELOX?”
-  - oYou have a serious allergic reaction (see “What are the possible side effects of AVELOX?”), or your healthcare provider tells you to stop.
+  - •You have a serious allergic reaction (see “What are the possible side effects of AVELOX?”), or your healthcare provider tells you to stop.
 - •This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to AVELOX.
   If this happens, AVELOX and other antibiotic medicines may not work in the future.
 - •If you miss a dose of AVELOX, take it as soon as you remember.
@@ -227,10 +227,10 @@ Serious allergic reactions
   AVELOX may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this event are higher in people:
-- oWho are elderly
-- oWith a family history of prolonged QT interval
-- oWith low blood potassium (hypokalemia)
-- oWho take certain medicines to control heart rhythm (antiarrhythmics)
+- •Who are elderly
+- •With a family history of prolonged QT interval
+- •With low blood potassium (hypokalemia)
+- •Who take certain medicines to control heart rhythm (antiarrhythmics)
 - •Intestine infection (Pseudomembranous colitis)
 - Pseudomembranous colitis can happen with most antibiotics, including AVELOX.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
@@ -253,8 +253,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store AVELOX?
 
 - •AVELOX Tablets
-- oStore AVELOX 59–86°F (15–30°C)
-- oKeep AVELOX away from moisture (humidity)
+- •Store AVELOX 59–86°F (15–30°C)
+- •Keep AVELOX away from moisture (humidity)
 
 Keep AVELOX and all medicines out of the reach of children.
 
@@ -272,11 +272,11 @@ General Information about AVELOX
 What are the ingredients in AVELOX?
 
 - •AVELOX Tablets:
-- oActive ingredient: moxifloxacin hydrochloride
-- oInactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and ferric oxide
+- •Active ingredient: moxifloxacin hydrochloride
+- •Inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and ferric oxide
 - •AVELOX Injection:
-- oActive ingredient: moxifloxacin hydrochloride
-- oInactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
+- •Active ingredient: moxifloxacin hydrochloride
+- •Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
 - Manufactured for:
 - Bayer HealthCare Pharmaceuticals Inc.
 - Whippany NJ, 07981
