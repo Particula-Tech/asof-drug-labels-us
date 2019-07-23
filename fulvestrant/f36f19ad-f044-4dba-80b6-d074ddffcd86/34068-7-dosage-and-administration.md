@@ -4,21 +4,25 @@
 
 Monotherapy
 
-The recommended dose of fulvestrant injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 to 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
+The recommended dose of fulvestrant injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 to 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
 
 Combination Therapy
 
-When fulvestrant injection is used in combination with palbociclib or abemaciclib, the recommended dose of fulvestrant injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 to 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter.
+When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, the recommended dose of fulvestrant injection is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 to 2 minutes per injection) as two 5 mL injections, one in each buttock, on Days 1, 15, 29 and once monthly thereafter.
 
 When fulvestrant injection is used in combination with palbociclib, the recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days.
 Palbociclib should be taken with food.
-Please refer to the Full Prescribing Information for palbociclib.
+Refer to the Full Prescribing Information for palbociclib.
 
 When fulvestrant injection is used in combination with abemaciclib, the recommended dose of abemaciclib is 150 mg orally, twice daily.
 Abemaciclib may be taken with or without food.
-Please refer to the Full Prescribing Information for abemaciclib.
+Refer to the Full Prescribing Information for abemaciclib.
 
-Pre/perimenopausal women treated with the combination of fulvestrant injection plus palbociclib or abemaciclib should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
+When fulvestrant injection is used in combination with ribociclib, the recommended dose of ribociclib is 600 mg taken orally, once daily for 21 consecutive days followed by 7 days off treatment resulting in a complete cycle of 28 days.
+Ribociclib can be taken with or without food.
+Refer to the Full Prescribing Information for ribociclib.
+
+Pre/perimenopausal women treated with the combination of fulvestrant injection plus palbociclib, abemaciclib, or ribociclib, should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
 
 ## 2.2 Dose Modification
 
@@ -26,15 +30,15 @@ Monotherapy
 
 Hepatic Impairment:
 
-A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 to 2 minutes) as one 5 mL injection on days 1, 15, 29 and once monthly thereafter.
+A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 to 2 minutes) as one 5 mL injection on Days 1, 15, 29 and once monthly thereafter.
 
 Fulvestrant injection has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 
 Combination Therapy
 
-When fulvestrant injection is used in combination with palbociclib or abemaciclib refer to monotherapy dose modification instructions for fulvestrant injection.
+When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to monotherapy dose modification instructions for fulvestrant injection.
 
-Refer to the Full Prescribing Information of co-administered palbociclib or abemaciclib for dose modification guidelines in the event of toxicities, for use with concomitant medications, and other relevant safety information.
+Refer to the Full Prescribing Information of co-administered palbociclib, abemaciclib, or ribociclib for dose modification guidelines in the event of toxicities, for use with concomitant medications, and other relevant safety information.
 
 ## 2.3 Administration Technique
 
@@ -44,7 +48,7 @@ NOTE: Due to the proximity of the underlying sciatic nerve, caution should be ta
 
 The proper method of administration of fulvestrant injection for intramuscular use is described in the following instructions.
 
-For each syringe:
+For each single-dose prefilled syringe:
 
 1. Remove glass syringe barrel from tray and check that it is not damaged.
 2. Remove perforated patient record label from syringe.
@@ -98,7 +102,7 @@ NOTE: Activate away from self and others.
 Figure 5
 
 13.
-Discard the empty single use syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
+Discard the empty syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
 
 14.
 Repeat steps 1 through 13 for second syringe.

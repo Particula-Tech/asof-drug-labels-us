@@ -22,9 +22,7 @@ Fulvestrant caused an increased incidence of fetal abnormalities in rats (tarsal
 Fulvestrant administered at 2 mg/kg/day caused fetal loss.
 
 When administered to pregnant rabbits during the period of organogenesis, fulvestrant caused pregnancy loss at an intramuscular dose of 1 mg/kg/day (equivalent to the human dose based on mg/m2).
-Further, at
-
-0.25 mg/kg/day (30% the human dose based on mg/m2), fulvestrant caused increases in placental weight and post-implantation loss in rabbits.
+Further, at 0.25 mg/kg/day (30% the human dose based on mg/m2), fulvestrant caused increases in placental weight and post-implantation loss in rabbits.
 Fulvestrant was associated with an increased incidence of fetal variations in rabbits (backwards displacement of the pelvic girdle, and 27 pre-sacral vertebrae at 0.25 mg/kg/day; 30% the human dose based on mg/m2) when administered during the period of organogenesis.
 
 ## 8.2 Lactation
@@ -62,13 +60,13 @@ The effects of fulvestrant on fertility were reversible in female rats [see Nonc
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
-A multi-center, single-arm, open-label, study of fulvestrant was conducted in 30 girls with McCune-Albright Syndrome (MAS) associated with progressive precocious puberty (PPP).
+A multi-center, single-arm, open-label, study of fulvestrant was conducted in 30 girls with McCune-Albright Syndrome (MAS) associated with Progressive Precocious Puberty (PPP).
 The median age at informed consent was 6 years old (range: 1 to 8).
 
 The first 10 patients initially received fulvestrant 2 mg/kg.
 Based on PK data from the first 6 patients, all 10 patients receiving 2 mg/kg were escalated to a dose of 4 mg/kg and all other patients received 4 mg/kg from study entry.
 
-Baseline measurements for vaginal bleeding days, bone age, growth velocity, and Tanner staging for at least 6 months prior to study entry were provided retrospectively by the parent, guardian or local consultant.
+Baseline measurements for vaginal bleeding days, bone age, growth velocity, and Tanner staging for at least 6 months prior to study entry were provided retrospectively by the parent, guardian, or local consultant.
 All measurements during the study period were collected prospectively.
 Patients’ baseline characteristics included the following: a mean ± SD chronological age of 5.9 ± 1.8 years; a mean rate of bone age advancement (change in bone age in years divided by change in chronological age in years) of 2.0 ± 1.03; and a mean growth velocity z-score of 2.4 ± 3.26.
 
@@ -98,7 +96,7 @@ For fulvestrant 250 mg, when tumor response was considered by age, objective res
 
 Fulvestrant is metabolized primarily in the liver.
 
-The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n = 7 subjects/group), using a shorter-acting intramuscular injection formulation.
+The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n=7 subjects/group), using a shorter-acting intramuscular injection formulation.
 Subjects with mild hepatic impairment (Child-Pugh class A) had comparable mean AUC and clearance values to those with normal hepatic function.
 In subjects with moderate hepatic impairment (Child-Pugh class B), the average AUC of fulvestrant increased by 70% compared to patients with normal hepatic function.
 AUC was positively correlated with total bilirubin concentration (p = 0.012).

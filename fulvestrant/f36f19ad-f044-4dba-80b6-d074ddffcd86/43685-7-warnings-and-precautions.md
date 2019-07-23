@@ -7,7 +7,7 @@ Because fulvestrant is administered intramuscularly, it should be used with caut
 ## 5.2 Increased Exposure in Patients with Hepatic Impairment
 
 The safety and pharmacokinetics of fulvestrant were evaluated in a study in seven subjects with moderate hepatic impairment (Child-Pugh class B) and seven subjects with normal hepatic function.
-Exposure was increased in patients with moderate hepatic impairment, therefore a dose of 250 mg is recommended [see Dosage and Administration (2.2)].
+Exposure was increased in patients with moderate hepatic impairment, therefore, a dose of 250 mg is recommended [see Dosage and Administration (2.2)].
 
 Fulvestrant has not been studied in patients with severe hepatic impairment (Child-Pugh class C) [see Use in Specific Populations (8.6)].
 

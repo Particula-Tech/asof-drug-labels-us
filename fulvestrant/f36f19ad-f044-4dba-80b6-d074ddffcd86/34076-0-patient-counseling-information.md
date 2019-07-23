@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Monotherapy
 
@@ -17,18 +17,14 @@ Lactation
 
 - Advise women not to breastfeed during treatment with fulvestrant and for one year after the last dose [see Use in Specific Populations (8.2)].
 
-Combination Therapy with Palbociclib
+Combination Therapy
 
-See palbociclib Full Prescribing Information for Patient Counseling Information.
-
-Combination Therapy with Abemaciclib
-
-See abemaciclib Full Prescribing Information for Patient Counseling Information.
+When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 
-Distributed by: Amneal Biosciences LLC Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2018-00
+06-2019-02

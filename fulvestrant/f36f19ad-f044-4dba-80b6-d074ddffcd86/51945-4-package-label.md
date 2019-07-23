@@ -7,5 +7,3 @@ Name: Fulvestrant injection
 Strength: 250 mg/5 mL
 
 Rx Only
-
-Amneal Biosciences LLC
