@@ -60,7 +60,7 @@ See full prescribing information for EPIVIR® (lamivudine).
 ## 5.6 Use with Interferon- and Ribavirin-Based Regimens
 
 Patients receiving interferon alfa with or without ribavirin and abacavir, lamivudine and zidovudine tablets should be closely monitored for treatment-associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
-See full prescribing information for EPIVIR® (lamivudine) and RETROVIR® (zidovudine).
+See full prescribing information for RETROVIR® (zidovudine).
 Discontinuation of abacavir, lamivudine and zidovudine tablets should be considered as medically appropriate.
 Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh greater than 6) (see full prescribing information for interferon and ribavirin).
 
@@ -78,7 +78,7 @@ Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-BarrÉ
 
 Treatment with zidovudine, a component of abacavir, lamivudine and zidovudine tablets, has been associated with loss of subcutaneous fat.
 The incidence and severity of lipoatrophy are related to cumulative exposure.
-This fat loss, which is most evident in the face, limbs, and buttocks, may be only partially reversible and improvement may take months to years after switching to a non-zidovudine containing regimen.
+This fat loss, which is most evident in the face, limbs, and buttocks, may be only partially reversible and improvement may take months to years after switching to a non-zidovudine-containing regimen.
 Patients should be regularly assessed for signs of lipoatrophy during therapy with zidovudine-containing products, and if feasible, therapy should be switched to an alternative regimen if there is suspicion of lipoatrophy.
 
 ## 5.9 Myocardial Infarction

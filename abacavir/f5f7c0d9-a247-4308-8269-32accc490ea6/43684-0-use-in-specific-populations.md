@@ -16,6 +16,11 @@ The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
 The background risk for major birth defects and miscarriage for the indicated population is unknown.
 
+Hyperlactatemia, which may be due to mitochondrial dysfunction, has been reported in infants with in utero exposure to zidovudine-containing products.
+These events were transient and asymptomatic in most cases.
+There have been few reports of developmental delay, seizures, and other neurological disease.
+However, a causal relationship between these events and exposure to zidovudine-containing products in utero or peri-partum has not been established (see Data).
+
 In animal reproduction studies, oral administration of abacavir to pregnant rats during organogenesis resulted in fetal malformations and other embryonic and fetal toxicities at exposures 35 times the human exposure (AUC) at the recommended clinical daily dose.
 However, no adverse developmental effects were observed following oral administration of abacavir to pregnant rabbits during organogenesis, at exposures approximately 9 times the human exposure (AUC) at the recommended clinical dose.
 Oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at systemic exposure (AUC) similar to the recommended clinical dose; however, no adverse development effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (Cmax) 35 times the recommended clinical dose.
@@ -61,6 +66,11 @@ See full prescribing information for RETROVIR® (zidovudine) and COMBIVIR® (lam
 
 Zidovudine has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see CLINICAL PHARMACOLOGY (12.3)].
 
+There have been reports of mild, transient elevations in serum lactate levels, which may be due to mitochondrial dysfunction, in neonates and infants exposed in utero or peri-partum to zidovudine-containing products.
+There have been few reports of developmental delay, seizures, and other neurological disease.
+However, a causal relationship between these events and exposure to zidovudine-containing products in utero or peri-partum has not been established.
+The clinical relevance of transient elevations in serum lactate is unknown.
+
 Animal Data:
 
 Abacavir
@@ -98,7 +108,7 @@ Risk Summary
 The Centers for Disease Control and Prevention recommends that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Abacavir, lamivudine and zidovudine are present in human milk.
 There is no information on the effects of abacavir, lamivudine and zidovudine on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving abacavir, lamivudine and zidovudine tablets.
+Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving abacavir, lamivudine and zidovudine tablets.
 
 ## 8.4 Pediatric Use
 
