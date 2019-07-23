@@ -6,7 +6,7 @@ As the management is complex and changing, it is recommended that the physician 
 Signs and symptoms of toxicity develop rapidly after tricyclic overdose.
 Therefore, hospital monitoring is required as soon as possible.
 
-Human Experience
+## Human Experience
 
 In U.S. clinical trials, 2 deaths occurred in 12 reported cases of acute overdosage with clomipramine either alone or in combination with other drugs.
 One death involved a patient suspected of ingesting a dose of 7000 mg.
@@ -16,7 +16,7 @@ All 10 patients completely recovered.
 Among reports from other countries of clomipramine overdose, the lowest dose associated with a fatality was 750 mg.
 Based upon postmarketing reports in the United Kingdom, CMI's lethality in overdose is considered to be similar to that reported for closely related tricyclic compounds marketed as antidepressants.
 
-Manifestations
+## Manifestations
 
 Signs and symptoms vary in severity depending upon factors such as the amount of drug absorbed, the age of the patient, and the time elapsed since drug ingestion.
 Critical manifestations of overdose include cardiac dysrhythmias, severe hypotension, convulsions, and CNS depression including coma.
@@ -25,7 +25,7 @@ Other CNS manifestations may include drowsiness, stupor, ataxia, restlessness, a
 Cardiac abnormalities may include tachycardia, signs of congestive heart failure, and in very rare cases, cardiac arrest.
 Respiratory depression, cyanosis, shock, vomiting, hyperpyrexia, mydriasis, and oliguria or anuria may also be present.
 
-Management
+## Management
 
 Obtain an ECG and immediately initiate cardiac monitoring.
 Protect the patient's airway, establish an intravenous line, and initiate gastric decontamination.
@@ -35,14 +35,14 @@ If signs of toxicity occur at any time during this period, extended monitoring i
 There are case reports of patients succumbing to fatal dysrhythmias late after overdose; these patients had clinical evidence of significant poisoning prior to death and most received inadequate gastrointestinal decontamination.
 Monitoring of plasma drug levels should not guide management of the patient.
 
-Gastrointestinal Decontamination
+## Gastrointestinal Decontamination
 
 All patients suspected of tricyclic overdose should receive gastrointestinal decontamination.
 This should include large volume gastric lavage followed by activated charcoal.
 If consciousness is impaired, the airway should be secured prior to lavage.
 Emesis is contraindicated.
 
-Cardiovascular
+## Cardiovascular
 
 A maximal limb-lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
 Intravenous sodium bicarbonate should be used to maintain the serum pH in the range of 7.45 to 7.55.
@@ -55,18 +55,18 @@ Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, d
 In rare instances, hemoperfusion may be beneficial in acute refractory cardiovascular instability in patients with acute toxicity.
 However, hemodialysis, peritoneal dialysis, exchange transfusions, and forced diuresis generally have been reported as ineffective in tricyclic poisoning.
 
-CNS
+## CNS
 
 In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration.
 Seizures should be controlled with benzodiazepines, or if these are ineffective, other anticonvulsants (e.g., phenobarbital, phenytoin).
 Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
 
-Psychiatric Follow-up
+## Psychiatric Follow-up
 
 Since overdosage is often deliberate, patients may attempt suicide by other means during the recovery phase.
 Psychiatric referral may be appropriate.
 
-Pediatric Management
+## Pediatric Management
 
 The principles of management of child and adult overdosages are similar.
 It is strongly recommended that the physician contact the local poison control center for specific pediatric treatment.

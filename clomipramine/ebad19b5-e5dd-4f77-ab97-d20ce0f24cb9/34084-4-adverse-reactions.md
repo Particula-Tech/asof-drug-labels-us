@@ -1,10 +1,10 @@
 # ADVERSE REACTIONS
 
-Commonly Observed
+## Commonly Observed
 
 The most commonly observed adverse events associated with the use of clomipramine and not seen at an equivalent incidence among placebo-treated patients were gastrointestinal complaints, including dry mouth, constipation, nausea, dyspepsia, and anorexia; nervous system complaints, including somnolence, tremor, dizziness, nervousness, and myoclonus; genitourinary complaints, including changed libido, ejaculatory failure, impotence, and micturition disorder; and other miscellaneous complaints, including fatigue, sweating, increased appetite, weight gain, and visual changes.
 
-Leading to Discontinuation of Treatment
+## Leading to Discontinuation of Treatment
 
 Approximately 20% of 3616 patients who received clomipramine hydrochloride in U.S. premarketing clinical trials discontinued treatment because of an adverse event.
 Approximately one- half of the patients who discontinued (9% of the total) had multiple complaints, none of which could be classified as primary.
@@ -13,7 +13,7 @@ The second-most-frequent reason for discontinuation was digestive system complai
 
 There was no apparent relationship between the adverse events and elevated plasma drug concentrations.
 
-Incidence in Controlled Clinical Trials
+## Incidence in Controlled Clinical Trials
 
 The following table enumerates adverse events that occurred at an incidence of 1% or greater among patients with OCD who received clomipramine hydrochloride in adult or pediatric placebo- controlled clinical trials.
 The frequencies were obtained from pooled data of clinical trials involving either adults receiving clomipramine hydrochloride (N=322) or placebo (N=319) or children treated with clomipramine hydrochloride (N=46) or placebo (N=44).
@@ -21,7 +21,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, provide the physician with a basis for estimating the relative contribution of drug and nondrug factors to the incidence of side effects in the populations studied.
 
-Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinical Trials(Percentage of Patients Reporting Event)
+Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinical Trials (Percentage of Patients Reporting Event)
 
 |  | Adults |  | Children and Adolescents |  |
 | --- | --- | --- | --- | --- |
@@ -142,8 +142,9 @@ Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinica
 | Metabolic and |  |  |  |  |
 | Nutritional |  |  |  |  |
 | Thirst | 2 | 2 | - | 2 |
+| *Events reported by at least 1% of clomipramine hydrochloride patients are included. |  |  |  |  |
 
-Other Events Observed During the Premarketing Evaluation of Clomipramine
+## Other Events Observed During the Premarketing Evaluation of Clomipramine
 
 During clinical testing in the U.S., multiple doses of clomipramine were administered to approximately 3600 subjects.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
@@ -156,76 +157,85 @@ It is important to emphasize that although the events reported occurred during t
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in less than 1/1000 patients.
 
-Body as a Whole
+## Body as a Whole
 
 Infrequent - general edema, increased susceptibility to infection, malaise.
 Rare - dependent edema, withdrawal syndrome.
 
-Cardiovascular System
+## Cardiovascular System
 
 Infrequent -abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor.
+
 Rare - aneurysm, atrial flutter, bundle branch block, cardiac failure, cerebral hemorrhage, heart block, myocardial infarction, myocardial ischemia, peripheral ischemia, thrombophlebitis, vasospasm, ventricular tachycardia.
 
-Digestive System
+## Digestive System
 
 Infrequent - abnormal hepatic function, blood in stool, colitis, duodenitis, gastric ulcer, gastritis, gastroesophageal reflux, gingivitis, glossitis, hemorrhoids, hepatitis, increased saliva, irritable bowel syndrome, peptic ulcer, rectal hemorrhage, tongue ulceration, tooth caries.
 Rare - cheilitis, chronic enteritis, discolored feces, gastric dilatation, gingival bleeding, hiccup, intestinal obstruction, oral/pharyngeal edema, paralytic ileus, salivary gland enlargement.
 
-Endocrine System
+## Endocrine System
 
 Infrequent - hypothyroidism.
 Rare - goiter, gynecomastia, hyperthyroidism.
 
-Hemic and Lymphatic System
+## Hemic and Lymphatic System
 
 Infrequent - lymphadenopathy.
 Rare - leukemoid reaction, lymphoma-like disorder, marrow depression.
 
-Metabolic and Nutritional Disorder
+## Metabolic and Nutritional Disorder
 
 Infrequent - dehydration, diabetes mellitus, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypokalemia.
 Rare - fat intolerance, glycosuria.
 
-Musculoskeletal System
+## Musculoskeletal System
 
 Infrequent - arthrosis.
 Rare - dystonia, exostosis, lupus erythematosus rash, bruising, myopathy, myositis, polyarteritis nodosa, torticollis.
 
-Nervous System
+## Nervous System
 
 Frequent - abnormal thinking, vertigo.
 Infrequent - abnormal coordination, abnormal EEG, abnormal gait, apathy, ataxia, coma, convulsions, delirium, delusion, dyskinesia, dysphonia, encephalopathy, euphoria, extrapyramidal disorder, hallucinations, hostility, hyperkinesia, hypnagogic hallucinations, hypokinesia, leg cramps, manic reaction, neuralgia, paranoia, phobic disorder, psychosis, sensory disturbance, somnambulism, stimulation, suicidal ideation, suicide attempt, teeth- grinding.
 Rare - anticholinergic syndrome, aphasia, apraxia, catalepsy, cholinergic syndrome, choreoathetosis, generalized spasm, hemiparesis, hyperesthesia, hyperreflexia, hypoesthesia, illusion, impaired impulse control, indecisiveness, mutism, neuropathy, nystagmus, oculogyric crisis, oculomotor nerve paralysis, schizophrenic reaction, stupor, suicide.
 
-Respiratory System
+## Respiratory System
 
 Infrequent - bronchitis, hyperventilation, increased sputum, pneumonia.
 Rare - cyanosis, hemoptysis, hypoventilation, laryngismus.
 
-Skin and Appendages
+## Skin and Appendages
 
 Infrequent - alopecia, cellulitis, cyst, eczema, erythematous rash, genital pruritus, maculopapular rash, photosensitivity reaction, psoriasis, pustular rash, skin discoloration.
 Rare - chloasma, folliculitis, hypertrichosis, piloerection, seborrhea, skin hypertrophy, skin ulceration.
 
-Special Senses
+## Special Senses
 
 Infrequent - abnormal accommodation, deafness, diplopia, earache, eye pain, foreign body sensation, hyperacusis, parosmia, photophobia, scleritis, taste loss.
 Rare - blepharitis, chromatopsia, conjunctival hemorrhage, exophthalmos, glaucoma, keratitis, labyrinth disorder, night blindness, retinal disorder, strabismus, visual field defect.
 
-Urogenital System
+## Urogenital System
 
 Infrequent - endometriosis, epididymitis, hematuria, nocturia, oliguria, ovarian cyst, perineal pain, polyuria, prostatic disorder, renal calculus, renal pain, urethral disorder, urinary incontinence, uterine hemorrhage, vaginal hemorrhage.
 Rare - albuminuria, anorgasmy, breast engorgement, breast fibroadenosis, cervical dysplasia, endometrial hyperplasia, premature ejaculation, pyelonephritis, pyuria, renal cyst, uterine inflammation, vulvar disorder.
 
-Postmarketing Experience
+## Postmarketing Experience
 
 The following adverse drug reaction has been reported during post-approval use of clomipramine.
 Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency.
 
-Eye Disorders
+## Eye Disorders
 
 Angle-closure glaucoma.
 
-Immune System Disorders
+## Immune System Disorders
 
 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+
+## Metabolism and Nutrition Disorders
+
+Hyponatremia.
+
+## Endocrine Disorders
+
+Syndrome of inappropriate antidiuretic hormone secretion (SIADH).

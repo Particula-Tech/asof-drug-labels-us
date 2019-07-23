@@ -1,11 +1,11 @@
 # CLINICAL PHARMACOLOGY
 
-Pharmacodynamics
+## Pharmacodynamics
 
 Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission.
 The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important.
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Absorption/Bioavailability
 
@@ -20,14 +20,14 @@ After multiple daily doses of 150 mg of clomipramine hydrochloride capsules, ste
 Additional information from a rising dose study of doses up to 250 mg suggests that DMI may exhibit nonlinear pharmacokinetics over the usual dosing range.
 At a dose of clomipramine hydrochloride capsules 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both.
 
-Distribution
+## Distribution
 
 CMI distributes into cerebrospinal fluid (CSF) and brain and into breast milk.
 DMI also distributes into CSF, with a mean CSF/plasma ratio of 2.6.
 The protein binding of CMI is approximately 97%, principally to albumin, and is independent of CMI concentration.
 The interaction between CMI and other highly protein-bound drugs has not been fully evaluated, but may be important (see PRECAUTIONS, Drug Interactions).
 
-Metabolism
+## Metabolism
 
 CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates.
 DMI is pharmacologically active, but its effects on OCD behaviors are unknown.
@@ -36,7 +36,7 @@ After a 25 mg radiolabeled dose of CMI in two subjects, 60% and 51%, respectivel
 In the same study, the combined urinary recoveries of CMI and DMI were only about 0.8% to 1.3% of the dose administered.
 CMI does not induce drug- metabolizing enzymes, as measured by antipyrine half-life.
 
-Elimination
+## Elimination
 
 Evidence that the Css and AUC for CMI and DMI may increase disproportionately with increasing oral doses suggests that the metabolism of CMI and DMI may be capacity limited.
 This fact must be considered in assessing the estimates of the pharmacokinetic parameters presented below, as these were obtained in individuals exposed to doses of 150 mg.
@@ -49,7 +49,7 @@ After multiple dosing with 150 mg/day, the accumulation factor for CMI is approx
 Importantly, it may take two weeks or longer to achieve this extent of accumulation at constant dosing because of the relatively long elimination half- lives of CMI and DMI (see DOSAGE AND ADMINISTRATION).
 The effects of hepatic and renal impairment on the disposition of clomipramine hydrochloride have not been determined.
 
-Interactions
+## Interactions
 
 Co-administration of haloperidol with CMI increases plasma concentrations of CMI.
 Co-administration of CMI with phenobarbital increases plasma concentrations of phenobarbital (see PRECAUTIONS, Drug Interactions).

@@ -3,7 +3,7 @@
 Clomipramine hydrochloride capsules USP is indicated for the treatment of obsessions and compulsions in patients with Obsessive-Compulsive Disorder (OCD).
 The obsessions or compulsions must cause marked distress, be time-consuming, or significantly interfere with social or occupational functioning, in order to meet the DSM-III-R (circa 1989) diagnosis of OCD.
 
-Obsessions are recurrent, persistent ideas, thoughts, images, or impulses that are ego- dystonic.
+Obsessions are recurrent, persistent ideas, thoughts, images, or impulses that are ego dystonic.
 Compulsions are repetitive, purposeful, and intentional behaviors performed in response to an obsession or in a stereotyped fashion, and are recognized by the person as excessive or unreasonable.
 
 The effectiveness of clomipramine hydrochloride capsules USP for the treatment of OCD was demonstrated in multicenter, placebo-controlled, parallel-group studies, including two 10-week studies in adults and one 8-week study in children and adolescents 10 to 17 years of age.

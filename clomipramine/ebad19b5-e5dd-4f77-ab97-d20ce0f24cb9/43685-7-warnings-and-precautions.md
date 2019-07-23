@@ -1,6 +1,6 @@
 # WARNINGS
 
-Clinical Worsening and Suicide Risk
+## Clinical Worsening and Suicide Risk
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -41,7 +41,7 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for clomipramine hydrochloride should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-Screening Patients for Bipolar Disorder
+## Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -49,7 +49,7 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that clomipramine hydrochloride is not approved for use in treating bipolar depression.
 
-Serotonin Syndrome
+## Serotonin Syndrome
 
 The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including clomipramine hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
@@ -67,11 +67,11 @@ If concomitant use of clomipramine hydrochloride with other serotonergic drugs, 
 
 Treatment with clomipramine hydrochloride and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-Angle-Closure Glaucoma
+## Angle-Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs including clomipramine hydrochloride may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
-Seizures
+## Seizures
 
 During premarket evaluation, seizure was identified as the most significant risk of clomipramine hydrochloride use.
 
@@ -97,7 +97,7 @@ In the event of severe acute reactions such as DRESS, discontinue clomipramine t
 
 # PRECAUTIONS
 
-General
+## General
 
 Suicide
 
@@ -146,6 +146,16 @@ Sexual Dysfunction
 The rate of sexual dysfunction in male patients with OCD who were treated with clomipramine in the premarketing experience was markedly increased compared with placebo controls (i.e., 42% experienced ejaculatory failure and 20% experienced impotence, compared with 2.0% and 2.6%, respectively, in the placebo group).
 Approximately 85% of males with sexual dysfunction chose to continue treatment.
 
+Hyponatremia
+
+Hyponatremia has occurred as a result of treatment with clomipramine.
+In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Elderly patients may be at greater risk of developing hyponatremia with a serotonergic antidepressant.
+Also, patients taking diuretics or who are otherwise volume-depleted can be at greater risk.
+Discontinuation of clomipramine in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
+More severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
+
 Weight Changes
 
 In controlled studies of OCD, weight gain was reported in 18% of patients receiving clomipramine, compared with 1% of patients receiving placebo.
@@ -174,7 +184,7 @@ Withdrawal Symptoms
 
 A variety of withdrawal symptoms have been reported in association with abrupt discontinuation of clomipramine hydrochloride, including dizziness, nausea, vomiting, headache, malaise, sleep disturbance, hyperthermia, and irritability.
 In addition, such patients may experience a worsening of psychiatric status.
-While the withdrawal effects of clomipramine have not been systematically evaluated in controlled trials, they are well known with closely related tricyclic antidepressants, and it is recommended that the dosage be tapered gradually and the patient monitored carefully during discontinuation (see DRUG ABUSE AND DEPENDENCE).
+While the withdrawal effects of clomipramine have not been systematically evaluated in controlled trials, they are well known with closely related tricyclic antidepressants, and it is recommended that the dosage be tapered gradually and the patient monitored carefully during discontinuation (see DRUG ABUSE and DEPENDENCE).
 
 Information for Patients
 
@@ -207,7 +217,7 @@ Pre existing glaucoma is almost always open-angle glaucoma because angle-closure
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
-Drug Interactions
+## Drug Interactions
 
 The risks of using clomipramine in combination with other drugs have not been systematically evaluated.
 Given the primary CNS effects of clomipramine, caution is advised in using it concomitantly with other CNS-active drugs (see Information for Patients).
@@ -220,7 +230,7 @@ Several tricyclic antidepressants have been reported to block the pharmacologic 
 The plasma concentration of CMI has been reported to be increased by the concomitant administration of haloperidol; plasma levels of several closely related tricyclic antidepressants have been reported to be increased by the concomitant administration of methylphenidate or hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decreased by the concomitant administration of hepatic enzyme inducers (e.g., barbiturates, phenytoin), and such an effect may be anticipated with CMI as well.
 Administration of CMI has been reported to increase the plasma levels of phenobarbital, if given concomitantly (see CLINICAL PHARMACOLOGY, Interactions).
 
-Drugs Metabolized by P450 2D6
+## Drugs Metabolized by P450 2D6
 
 The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so-called "poor metabolizers"); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
 Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.
@@ -240,21 +250,21 @@ It is desirable to monitor TCA plasma levels whenever an agent of the tricyclic 
 Because clomipramine hydrochloride is highly bound to serum protein, the administration of clomipramine hydrochloride to patients taking other drugs that are highly bound to protein (e.g., warfarin, digoxin) may cause an increase in plasma concentrations of these drugs, potentially resulting in adverse effects.
 Conversely, adverse effects may result from displacement of protein- bound clomipramine by other highly bound drugs (see CLINICAL PHARMACOLOGY, Distribution).
 
-Monoamine Oxidase Inhibitors (MAOIs)
+## Monoamine Oxidase Inhibitors (MAOIs)
 
 (See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
 
-Serotonergic Drugs
+## Serotonergic Drugs
 
 (See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenicity was found in two 2-year bioassays in rats at doses up to 100 mg/kg, which is 24 and 4 times the maximum recommended human daily dose (MRHD) on a mg/kg and mg/m2 basis, respectively, or in a 2-year bioassay in mice at doses up to 80 mg/kg, which is 20 and 1.5 times the MRHD on a mg/kg and mg/m2 basis, respectively.
 
 In reproduction studies, no effects on fertility were found in rats given up to 24 mg/kg, which is 6 times, and approximately equal to, the MRHD on a mg/kg and mg/m2 basis, respectively.
 
-Pregnancy Category C
+## Pregnancy Category C
 
 No teratogenic effects were observed in studies performed in rats and mice at doses up to 100 mg/kg, which is 24 times the maximum recommended human daily dose (MRHD) on a mg/kg basis and 4 times (rats) and 2 times (mice) the MRHD on a mg/m2 basis.
 Slight nonspecific embryo/fetotoxic effects were seen in the offspring of treated rats given 50 and 100 mg/kg and of treated mice given 100 mg/kg.
@@ -263,12 +273,12 @@ There are no adequate or well-controlled studies in pregnant women.
 Withdrawal symptoms, including jitteriness, tremor, and seizures, have been reported in neonates whose mothers had taken clomipramine until delivery.
 Clomipramine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nursing Mothers
+## Nursing Mothers
 
 Clomipramine has been found in human milk.
 Because of the potential for adverse reactions, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use
+## Pediatric Use
 
 Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
 Anyone considering the use of clomipramine in a child or adolescent must balance the potential risks with the clinical need.
@@ -286,9 +296,12 @@ Although there is no evidence to suggest that clomipramine adversely affects gro
 The safety and effectiveness in pediatric patients below the age of 10 have not been established.
 Therefore, specific recommendations cannot be made for the use of clomipramine in pediatric patients under the age of 10.
 
-Geriatric Use
+## Geriatric Use
 
 Clinical studies of clomipramine did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects; 152 patients at least 60 years of age participating in various U.S. clinical trials received clomipramine for periods of several months to several years.
 No unusual age- related adverse events were identified in this population.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+
+Clomipramine has been associated with cases of clinically significant hyponatremia.
+Elderly patients may be at greater risk for this adverse reaction (see PRECAUTIONS, Hyponatremia).
