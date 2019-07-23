@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "BLA761074"
+  ],
+  "inn": "trastuzumab",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-845-50",
+    "67457-846-20",
+    "67457-847-44",
+    "67457-991-15"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab",
+      "name": "OGIVRI"
+    },
+    {
+      "form": "KIT",
+      "generic": "trastuzumab",
+      "name": "OGIVRI"
+    }
+  ],
+  "setid": "6b7938e6-14c7-4a65-9605-967542ecfb8f",
+  "source": "dailymed"
+}
