@@ -1,26 +1,20 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Methylphenidate Hydrochloride Extended-Release Capsules 10 mg: white/light brown (imprinted NVR R10)
+10 mg extended-release capsules (NDC 0781-2361-01) white/light brown, (imprinted NVR R10) supplied in bottles of 100
 
-Bottles of 100………………………………………………………NDC 0781-2361-01
+20 mg extended-release capsules (NDC 0781-2362-01) white, (imprinted NVR R20) supplied in bottles of 100
 
-Methylphenidate Hydrochloride Extended-Release Capsules 20 mg: white (imprinted NVR R20)
+30 mg extended-release capsules (NDC 0781-2363-01) yellow, (imprinted NVR R30) supplied in bottles of 100
 
-Bottles of 100………………………………………………………NDC 0781-2362-01
+40 mg extended-release capsules (NDC 0781-2364-01) light brown, (imprinted NVR R40) supplied in bottles of 100
 
-Methylphenidate Hydrochloride Extended-Release Capsules 30 mg: yellow (imprinted NVR R30)
-
-Bottles of 100………………………………………………………NDC 0781-2363-01
-
-Methylphenidate Hydrochloride Extended-Release Capsules 40 mg: light brown (imprinted NVR R40)
-
-Bottles of 100………………………………………………………NDC 0781-2364-01
-
-Store at 25°C (77°F), excursions permitted 15°C‑30°C (59°F‑86°F).
-[See USP controlled room temperature]
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C (59°F to 86°F) [see USP controlled room temperature].
 
 Dispense in tight container (USP).
 
-SODAS® is a registered trademark of Alkermes Pharma Ireland Limited.
+Disposal
 
-This product is covered by US patents including US 5,837,284 and 6,228,398.
+Comply with local laws and regulations on drug disposal of CNS stimulants.
+Dispose of remaining, unused, or expired methylphenidate hydrochloride extended-release capsules by a medicine takeback program or by an authorized collector registered with the Drug Enforcement Administration.
+If no take-back program or authorized collector is available, mix methylphenidate hydrochloride extended-release capsules with an undesirable, nontoxic substance to make it less appealing to children and pets.
+Place the mixture in a container such as a sealed plastic bag and discard methylphenidate hydrochloride extended-release capsules in the household trash.

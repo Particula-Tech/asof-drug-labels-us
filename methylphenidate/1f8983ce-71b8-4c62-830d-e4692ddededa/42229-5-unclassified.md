@@ -1,3 +1,0 @@
-Rx only
-
-Prescribing Information

@@ -1,4 +1,4 @@
-# PACKAGE DISPLAY PANEL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0781-2361-01
 
@@ -6,7 +6,7 @@ Methylphenidate HCl
 
 Extended-Release
 
-Capsules
+Capsules CII
 
 10 mg
 
@@ -28,7 +28,7 @@ Methylphenidate HCl
 
 Extended-Release
 
-Capsules
+Capsules CII
 
 20 mg
 
@@ -50,7 +50,7 @@ Methylphenidate HCl
 
 Extended-Release
 
-Capsules
+Capsules CII
 
 30 mg
 
@@ -72,7 +72,7 @@ Methylphenidate HCl
 
 Extended-Release
 
-Capsules
+Capsules CII
 
 40 mg
 
