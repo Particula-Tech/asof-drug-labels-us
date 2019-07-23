@@ -1,9 +1,14 @@
-# 11 DESCRIPTION
+# DESCRIPTION:
 
 Cefazolin for Injection, USP is a semi-synthetic cephalosporin for parenteral administration.
-It is the sodium salt of 3-{[(5-methyl-1,3,4-thiadiazol-2-yl)thio]-methyl}-8-oxo-7-[2-(1H-tetrazol-1-yl)acetamido]-5-thia-1-azabicyclo [4.2.0]oct-2-ene-2-carboxylic acid.
+It is the sodium salt of 3-{[(5-methyl-1,3,4-thiadiazol-2-yl)thio]methyl}-8-oxo-7-[2-(1H-tetrazol-1-yl) acetamido]-5-thia-1-azabicyclo [4.2.0]oct2-ene-2-carboxylic acid.
 
 Structural Formula:
+
+C 14H 13N 8NaO 4S 3
+
+M.W.
+476.5
 
 The pH of the reconstituted solution is between 4 and 6.
 
