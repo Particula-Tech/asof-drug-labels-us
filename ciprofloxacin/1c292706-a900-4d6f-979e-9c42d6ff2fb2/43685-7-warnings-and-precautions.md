@@ -49,3 +49,12 @@ No teratogenicity was observed at either dose.
 After intravenous administration, at doses up to 20 mg/kg, no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed.
 There are no adequate and well controlled studies in pregnant women.
 CILOXAN® (ciprofloxacin ophthalmic ointment) 0.3% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Nursing Mothers: It is not known whether topically applied ciprofloxacin is excreted in human milk.
+However, it is known that orally administered ciprofloxacin is excreted in the milk of lactating rats and oral ciprofloxacin has been reported in human breast milk after a single 500 mg dose.
+Caution should be exercised when CILOXAN® (ciprofloxacin ophthalmic ointment) 0.3% is administered to a nursing mother.
+
+Pediatric Use: Safety and effectiveness of CILOXAN® (ciprofloxacin ophthalmic ointment) 0.3% in pediatric patients below the age of two years have not been established.
+Although ciprofloxacin and other quinolones may cause arthropathy in immature Beagle dogs after oral administration, topical ocular administration of ciprofloxacin to immature animals did not cause any arthropathy and there is no evidence that the ophthalmic dosage form has any effect on the weight bearing joints.
+
+Geriatric Use: No overall clinical differences in safety or effectiveness have been observed between the elderly and other adult patients.

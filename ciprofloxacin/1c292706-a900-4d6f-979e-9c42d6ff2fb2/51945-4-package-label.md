@@ -6,10 +6,6 @@ Alcon®
 
 Ciloxan®
 
-(ciprofloxacin HCl
-
-ophthalmic ointment)
-
-0.3% as base
+(ciprofloxacin ophthalmic ointment) 0.3%
 
 Sterile 3.5 g Net Wt.
