@@ -4,11 +4,7 @@ NDC 0069-0314-01 For Intravenous Use Only
 
 MERREM® IV meropenem for injection
 
-1g meropenem equivalent
-
-Contents are Sterile
-
-Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017 Made in Japan
+1 g meropenem equivalent
 
 Pfizer Injectables
 
@@ -32,11 +28,7 @@ NDC 0069-0313-01 For Intravenous Use Only
 
 MERREM® IV meropenem for injection
 
-500mg meropenem equivalent
-
-Contents are Sterile
-
-Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017 Made in Japan
+500 mg meropenem equivalent
 
 Pfizer Injectables
 
