@@ -11,7 +11,7 @@ In addition, avoid the use of fluoroquinolones, including levofloxacin, in patie
 
 ## 5.2 Tendinitis and Tendon Rupture
 
-Fluoroquinolones, including levofloxacin, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
+Fluoroquinolones, including levofloxacin, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 This adverse reaction most frequently involves the Achilles tendon and has also been reported with the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites.
 Tendinitis or tendon rupture can occur within hours or days of starting levofloxacin or as long as several months after completion of fluoroquinolone therapy.
 Tendinitis and tendon rupture can occur bilaterally.
@@ -20,13 +20,13 @@ Other factors that may independently increase the risk of tendon rupture include
 Tendinitis and tendon rupture have been reported in patients taking fluoroquinolones who do not have the above risk factors.
 Discontinue levofloxacin immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
-Avoid levofloxacin in patients who have a history of tendon disorders or tendon rupture [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
+Avoid levofloxacin in patients who have a history of tendon disorders or tendon rupture [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
 ## 5.3 Peripheral Neuropathy
 
 Fluoroquinolones, including levofloxacin, have been associated with an increased risk of peripheral neuropathy.
 Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
-Symptoms may occur soon after initiation of levofloxacin and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
+Symptoms may occur soon after initiation of levofloxacin and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6, 6.1)].
 Discontinue levofloxacin immediately if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation.
 Avoid fluoroquinolones, including levofloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
@@ -48,7 +48,7 @@ If these reactions occur in patients receiving levofloxacin, discontinue levoflo
 
 Fluoroquinolones, including levofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis.
 Postmarketing serious adverse reactions including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in patients with myasthenia gravis.
-Avoid levofloxacin in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
+Avoid levofloxacin in patients with a known history of myasthenia gravis [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
 ## 5.6 Other Serious and Sometimes Fatal Adverse Reactions
 
@@ -99,14 +99,14 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.1) and Patient Counseling Information (17)].
 
 ## 5.11 Prolongation of the QT Interval
 
 Some fluoroquinolones, including levofloxacin, have been associated with prolongation of the QT interval on the electrocardiogram and infrequent cases of arrhythmia.
 Rare cases of torsade de pointes have been spontaneously reported during postmarketing surveillance in patients receiving fluoroquinolones, including levofloxacin.
 Levofloxacin should be avoided in patients with known prolongation of the QT interval, patients with uncorrected hypokalemia, and patients receiving Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
-Elderly patients may be more susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.3), Use in Specific Populations (8.5), and Patient Counseling Information (17)].
+Elderly patients may be more susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.2), Use in Specific Populations (8.5), and Patient Counseling Information (17)].
 
 ## 5.12 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
@@ -122,13 +122,13 @@ Other fluoroquinolones also produce similar erosions in the weight-bearing joint
 Fluoroquinolones, including levofloxacin, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
 Severe cases of hypoglycemia resulting in coma or death have been reported.
-If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, discontinue levofloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.2), Drug Interactions (7.3) and Patient Counseling Information (17)].
+If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, discontinue levofloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7.3) and Patient Counseling Information (17)].
 
 ## 5.14 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3) and Patient Counseling Information (17)].
+Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
 
 ## 5.15 Development of Drug Resistant Bacteria
 

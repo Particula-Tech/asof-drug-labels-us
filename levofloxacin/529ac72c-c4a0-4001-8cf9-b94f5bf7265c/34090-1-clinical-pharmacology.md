@@ -50,7 +50,6 @@ Table 8: Mean ± SD Levofloxacin PK Parameters
 * Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet;
 
 ND=not determined.
-
 Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.
 Steady-state conditions are reached within 48 hours following a 500 mg or 750 mg once-daily dosage regimen.
 The mean ± SD peak and trough plasma concentrations attained following multiple once-daily oral dosage regimens were approximately 5.7 ± 1.4 and 0.5 ± 0.2 mcg/mL after the 500 mg doses, and 8.6 ± 1.9 and 1.1 ± 0.4 mcg/mL after the 750 mg doses, respectively.
@@ -184,7 +183,6 @@ Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]1)
 Streptococcus pyogenes
 
 1MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
-
 Gram-Negative Bacteria
 
 Enterobacter cloacae
@@ -213,8 +211,9 @@ Chlamydophila pneumoniae
 
 Mycoplasma pneumoniae
 
-The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
-
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentrations (MIC) less than or equal to the susceptible breakpoint for levofloxacin against isolates of similar genus or organism group.
+However, efficacy of levofloxacin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 Aerobic bacteria Gram-Positive Bacteria
 
 Staphylococcus haemolyticus

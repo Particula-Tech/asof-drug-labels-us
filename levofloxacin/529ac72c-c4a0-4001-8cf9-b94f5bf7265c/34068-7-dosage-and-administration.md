@@ -59,7 +59,7 @@ Table 2: Levofloxacin Tablets Dosage in Pediatric Patients Weighing 30 kg or gre
 
 | Type of Infection* | Dose | Frequency | Duration† |
 | --- | --- | --- | --- |
-| Inhalational Anthrax (post-exposure)‡, § |  |  |  |
+| Inhalational Anthrax (post-exposure)‡,§ |  |  |  |
 | Pediatric patients weighing 50 kg or greater | 500 mg | every 24 hours | 60 days§ |
 | Pediatric patients weighing 30 kg to less than 50 kg | 250 mg | every 12 hours | 60 days§ |
 | Plague¶ |  |  |  |
@@ -96,8 +96,14 @@ Table 3: Dosage Adjustment in Adult Patients with Renal Impairment (Creatinine C
 
 Levofloxacin tablets should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets or the pediatric powder for oral solution [see Drug Interactions (7.1) and Patient Counseling Information (17)].
 
-## 2.5 Administration Instructions
+## 2.5 Important Administration Instructions
 
 Levofloxacin tablets can be administered without regard to food.
-Hydration for Patients Receiving Levofloxacin Tablets Adequate hydration of patients receiving levofloxacin tablets should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17)].
+
+If patients miss a dose, they should take it as soon as possible anytime up to 8 hours prior to their next scheduled dose.
+If less than 8 hours remain before the next dose, wait until their next scheduled dose.
+
+## 2.6 Hydration for Patients Receiving Levofloxacin Tablets
+
+Adequate hydration of patients receiving levofloxacin tablets should be maintained to prevent the formation of highly concentrated urine.
+Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6) and Patient Counseling Information (17)].

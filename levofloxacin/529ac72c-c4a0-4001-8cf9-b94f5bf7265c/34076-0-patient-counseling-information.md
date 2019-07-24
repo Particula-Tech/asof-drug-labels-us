@@ -45,6 +45,9 @@ Inform patients of the following serious adverse reactions that have been associ
   If patients need to be outdoors while using fluoroquinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 
+- Lactation: Advise a lactating woman that she may pump and discard during treatment with levofloxacin and for an additional 2 days after the last dose.
+  Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with levofloxacin and for an additional 2 days after the last dose [see Use in Specific Populations (8.2)].
+
 Antibacterial Resistance Antibacterial drugs including levofloxacin should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When levofloxacin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -59,4 +62,4 @@ Patients should be informed that concurrent administration of warfarin and levof
 Patients should notify their physician if they are taking warfarin, be monitored for evidence of bleeding, and also have their anticoagulation tests closely monitored while taking warfarin concomitantly.
 Plague and Anthrax Studies Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2019 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides

@@ -1,7 +1,5 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Serious and Otherwise Important Adverse Reactions
-
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
 - Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
@@ -23,7 +21,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 Crystalluria and cylindruria have been reported with quinolones, including levofloxacin.
 Therefore, adequate hydration of patients receiving levofloxacin should be maintained to prevent the formation of a highly concentrated urine [see Dosage and Administration (2.5)].
 
-## 6.2 Clinical Trial Experience
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -69,7 +67,7 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Respiratory, Thoracic and Mediastinal Disorders | epistaxis |
 | Cardiac Disorders | cardiac arrest palpitation ventricular tachycardia ventricular arrhythmia |
 | Vascular Disorders | phlebitis |
-| Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembranous/C. difficile colitis [see Warnings and Precautions (5.10)] |
+| Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembranous/ C. difficile colitis [see Warnings and Precautions (5.10)] |
 | Hepatobiliary Disorders | abnormal hepatic function increased hepatic enzymes increased alkaline phosphatase |
 | Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.7)] |
 | Musculoskeletal and Connective Tissue Disorders | arthralgia tendinitis [see Warnings and Precautions (5.2)] myalgia skeletal pain |
@@ -80,7 +78,7 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 In clinical trials using multiple-dose therapy, ophthalmologic abnormalities, including cataracts and multiple punctate lenticular opacities, have been noted in patients undergoing treatment with quinolones, including levofloxacin.
 The relationship of the drugs to these events is not presently established.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 Table 6 lists adverse reactions that have been identified during post-approval use of levofloxacin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
