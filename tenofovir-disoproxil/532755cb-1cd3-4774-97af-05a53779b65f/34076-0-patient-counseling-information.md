@@ -37,7 +37,7 @@ Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
 
-Revised: December 2018
+Revised: July 2019
 
 ## 17.2 FDA-Approved Patient Labeling
 
@@ -59,7 +59,7 @@ Tell your healthcare provider about any new or unusual symptoms you may have aft
 For more information about side effects, see “What are the possible side effects of tenofovir disoproxil fumarate tablets?”
 What is tenofovir disoproxil fumarate tablets?
 Tenofovir disoproxil fumarate tablets is a prescription medicine that is used to: • treat HIV-1 infection when used with other anti-HIV-1 medicines in adults and children 2 years of age and older who weigh at least 22 pounds (10 kg).
-HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome). • treat HBV infection in adults and children 2 years of age and older who weigh at least 22 pounds (10 kg).
+HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome). • treat HBV infection in adults and children 12 years of age and older who weigh at least 22 pounds (10 kg).
 It is not known if tenofovir disoproxil fumarate tablets is safe and effective in children under 2 years of age.
 What should I tell my healthcare provider before taking tenofovir disoproxil fumarate tablets?
 Before you take tenofovir disoproxil fumarate tablets, tell your healthcare provider about all of your medical conditions, including if you: • have liver problems, including HBV infection • have kidney problems or receive kidney dialysis treatment • have bone problems • have HIV infection • are pregnant or plan to become pregnant.
@@ -91,7 +91,7 @@ Too much lactic acid is a serious but rare medical emergency that can lead to de
 Tell your healthcare provider right away if you get these symptoms: weakness or being more tired than usual, unusual muscle pain, being short of breath or fast breathing, stomach pain with nausea and vomiting, cold or blue hands and feet, feel dizzy or lightheaded, or a fast or abnormal heartbeat. • Severe liver problems.
 In rare cases, severe liver problems can happen that can lead to death.
 Tell your healthcare provider right away if you get these symptoms: skin or the white part of your eyes turns yellow, dark “tea-colored” urine, light-colored stools, loss of appetite for several days or longer, nausea, or stomach-area pain.
-The most common side effects in all people who take tenofovir disoproxil fumarate tablets are:
+The most common side effects in all people taking tenofovir disoproxil fumarate tablets are:
 
 | nausea | pain |
 | --- | --- |
@@ -136,4 +136,5 @@ Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
 
-Revised: December 2018 PM02690104
+Revised: July 2019 Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.
+However, due to Gilead Sciences, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

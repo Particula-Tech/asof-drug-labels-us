@@ -15,8 +15,6 @@ Table 12 provides a listing of established or clinically significant drug intera
 The drug interactions described are based on studies conducted with TDF [see Clinical Pharmacology (12.3)].
 Table 12 Established and Significanta Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Trials
 
-Csh
-
 | Concomitant Drug Class: Drug Name | Effect on Concentrationb | Clinical Comment |
 | --- | --- | --- |
 | NRTI: didanosine | ↑ didanosine | Patients receiving tenofovir disoproxil fumarate and didanosine should be monitored closely for didanosine-associated adverse reactions. Discontinue didanosine in patients who develop didanosine-associated adverse reactions. Higher didanosine concentrations could potentiate didanosine-associated adverse reactions, including pancreatitis, and neuropathy. Suppression of CD4+ cell counts has been observed in patients receiving tenofovir disoproxil fumarate with didanosine 400 mg daily. In patients weighing greater than 60 kg, reduce the didanosine dose to 250 mg when it is coadministered with tenofovir disoproxil fumarate. In patients weighing less than 60 kg, reduce the didanosine dose to 200 mg when it is coadministered with tenofovir disoproxil fumarate. When coadministered, tenofovir disoproxil fumarate and Videx EC may be taken under fasted conditions or with a light meal (less than 400 kcal, 20% fat). |
