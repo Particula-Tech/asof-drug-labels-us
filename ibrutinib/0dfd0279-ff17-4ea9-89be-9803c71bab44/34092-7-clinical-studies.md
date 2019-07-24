@@ -293,8 +293,7 @@ Table 24: Efficacy Results in Patients with WM in INNOVATE
 | Median duration of response, months (range) | NE (1.9+, 36.4+) | 21.2 (4.6, 25.8) |
 | CI = confidence interval; HR = hazard ratio; NE = not evaluable; R = rituximab |  |  |
 
-| Figure 6: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE |
-| --- |
+Figure 6: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE
 
 An exploratory analysis demonstrated a sustained hemoglobin improvement (defined as increase of ≥ 2 g/dL over baseline for at least 8 weeks without blood transfusions or growth factor support) in 65% of patients in the IMBRUVICA + R group and 39% of patients in the placebo + R group.
 

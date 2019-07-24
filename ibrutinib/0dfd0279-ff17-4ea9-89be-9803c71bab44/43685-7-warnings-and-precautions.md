@@ -3,12 +3,16 @@
 ## 5.1 Hemorrhage
 
 Fatal bleeding events have occurred in patients treated with IMBRUVICA.
-Grade 3 or higher bleeding events (intracranial hemorrhage [including subdural hematoma], gastrointestinal bleeding, hematuria, and post procedural hemorrhage) have occurred in 3% of patients, with fatalities occurring in 0.3% of 1,124 patients exposed to IMBRUVICA in clinical trials.
-Bleeding events of any grade, including bruising and petechiae, occurred in 44% of patients treated with IMBRUVICA.
+Major hemorrhage (≥ Grade 3, serious, or any central nervous system events; e.g., intracranial hemorrhage [including subdural hematoma], gastrointestinal bleeding, hematuria, and post procedural hemorrhage) have occurred in 4% of patients, with fatalities occurring in 0.4% of 2,838 patients exposed to IMBRUVICA in 27 clinical trials.
+Bleeding events of any grade, including bruising and petechiae, occurred in 39% of patients treated with IMBRUVICA.
 
 The mechanism for the bleeding events is not well understood.
 
-IMBRUVICA may increase the risk of hemorrhage in patients receiving antiplatelet or anticoagulant therapies and patients should be monitored for signs of bleeding.
+Use of either anticoagulant or antiplatelet agents concomitantly with IMBRUVICA increases the risk of major hemorrhage.
+In IMBRUVICA clinical trials, 3.1% of patients taking IMBRUVICA without antiplatelet or anticoagulant therapy experienced major hemorrhage.
+The addition of antiplatelet therapy with or without anticoagulant therapy increased this percentage to 4.4%, and the addition of anticoagulant therapy with or without antiplatelet therapy increased this percentage to 6.1%.
+Consider the risks and benefits of anticoagulant or antiplatelet therapy when co-administered with IMBRUVICA.
+Monitor for signs and symptoms of bleeding.
 
 Consider the benefit-risk of withholding IMBRUVICA for at least 3 to 7 days pre- and post-surgery depending upon the type of surgery and the risk of bleeding [see Clinical Studies (14)].
 
