@@ -37,7 +37,7 @@ The effect on offspring survival was pronounced at doses greater than or equal t
 When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at greater than or equal to 250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1250 mg/kg.
 The no-effect dose for pre- and postnatal developmental toxicity in rats (50 mg/kg) produced a plasma exposure approximately 2 times human exposure at the MRD.
 
-In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 µg∙hr/mL) at the MRD.
+In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC(0–24) of 123 µg∙hr/mL) at the MRD.
 
 ## 8.2 Lactation
 

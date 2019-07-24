@@ -244,7 +244,7 @@ Patients were allowed to take opioids, non-opioid analgesics, antiepileptic drug
 Patients were allowed to take acetaminophen and nonsteroidal anti-inflammatory drugs during the studies.
 
 Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter, flexible dose (150–600 mg/day) study compared pregabalin with placebo.
-The 12-week study consisted of a 3--week dose adjustment phase and a 9-week dose maintenance phase.
+The 12-week study consisted of a 3-week dose adjustment phase and a 9-week dose maintenance phase.
 Treatment with pregabalin 150–600 mg/day statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 12 is presented in Figure 11.
 Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
