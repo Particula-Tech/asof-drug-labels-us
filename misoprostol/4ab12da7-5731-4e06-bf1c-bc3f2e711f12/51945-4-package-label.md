@@ -5,12 +5,11 @@ NDC 0025-1451-34
 Cytotec® misoprostol tablets 100 mcg
 
 Distributed by G.D.
-Searle Division of Pfizer Inc. NY, NY 10017
+Searle LLC Division of Pfizer Inc. NY, NY 10017
 
-EXP.
-YYYY.MM.DD LOT A01234
+EXP: YYYY.MM.DD LOT A01234
 
-21540981
+21540986
 
 # PRINCIPAL DISPLAY PANEL - 100 mcg Tablet Blister Pack Carton
 
@@ -46,12 +45,11 @@ NDC 0025-1461-34
 Cytotec® misoprostol tablets 200 mcg
 
 Distributed by G.D.
-Searle Division of Pfizer Inc. NY, NY 10017
+Searle LLC Division of Pfizer Inc. NY, NY 10017
 
-EXP.
-YYYY.MM.DD LOT A01234
+EXP: YYYY.MM.DD LOT A01234
 
-21540991
+21540995
 
 # PRINCIPAL DISPLAY PANEL - 200 mcg Tablet Blister Pack Carton
 
