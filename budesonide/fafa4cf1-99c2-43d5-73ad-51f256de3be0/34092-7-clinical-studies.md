@@ -133,7 +133,7 @@ The proportion of patients with at least 0.5 points improvement from baseline to
 Postmarketing Safety and Efficacy Study
 
 A randomized, double-blind, parallel-group, safety study compared SYMBICORT with budesonide, each administered as 2 inhalations twice daily over 26 weeks (NCT01444430).
-The primary safety objective was to evaluate whether the addition of formoterol to budesonide therapy (SYMBICORT) was non-inferior to budesonide in terms of the risk of serious asthma-related events (asthma-related hospitalization, endotracheal intubation and death).
+The primary safety objective was to evaluate whether the addition of formoterol to budesonide therapy (SYMBICORT) was non-inferior to budesonide in terms of the risk of serious asthma-related events (asthma-related hospitalization, endotracheal intubation, and death).
 The study was designed to rule out a pre-defined risk margin of serious asthma-related events of 2.0.
 A blinded adjudication committee determined whether events were asthma-related.
 

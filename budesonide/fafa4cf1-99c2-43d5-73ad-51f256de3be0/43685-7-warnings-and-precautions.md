@@ -23,7 +23,7 @@ These trials were not designed to rule out all risk for serious asthma-related e
 Table 1.
 Meta-analysis of Serious Asthma-Related Events in Patients with Asthma Aged 12 Years and Older
 
-|  | ICS/LABA(N=17,537)Randomized patients who had taken at least 1 dose of study drug. Planned treatment used for analysis. | ICS (N=17,552) | ICS/LABA vs ICSHazard ratio (95% CI)Estimated using a Cox proportional hazards model of time to first event with baseline hazards stratified by each of the 3 trials. |
+|  | ICS/LABA(N = 17,537)Randomized patients who had taken at least 1 dose of study drug. Planned treatment used for analysis. | ICS (N = 17,552) | ICS/LABA vs ICSHazard ratio (95% CI)Estimated using a Cox proportional hazards model of time to first event with baseline hazards stratified by each of the 3 trials. |
 | --- | --- | --- | --- |
 | Serious asthma-related eventNumber of patients with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Patients can have one or more events, but only the first event was counted for analysis. A single, blinded, independent adjudication committee determined whether events were asthma-related. | 116 | 105 | 1.10 (0.85, 1.44) |
 | Asthma-related death | 2 | 0 |  |
