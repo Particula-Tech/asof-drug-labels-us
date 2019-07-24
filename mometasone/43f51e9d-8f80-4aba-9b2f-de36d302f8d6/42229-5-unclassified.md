@@ -4,6 +4,6 @@ Manufactured by: Schering-Plough Labo NV Heist-op-den-Berg, Belgium
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 1987-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 1987-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0887-cr-1805r008
+uspi-mk0887-cr-1907r009
