@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-FML® (fluorometholone ophthalmic suspension, USP) 0.1% is supplied sterile in opaque white LDPE plastic bottles with white high impact polystyrene (HIPS) caps as follows:
+FML (fluorometholone ophthalmic suspension, USP) 0.1% is supplied sterile in opaque white LDPE plastic bottles with white high impact polystyrene (HIPS) caps as follows:
 
 5 mL in 10 mL bottle NDC 11980-211-05
 
@@ -17,7 +17,7 @@ Allergan USA, Inc.
 
 Madison, NJ 07940
 
-© 2018 Allergan.
+© 2019 Allergan.
 All rights reserved.
 
 All trademarks are the property of their respective owners.
