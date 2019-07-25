@@ -1,81 +1,158 @@
-# PRINCIPAL DISPLAY PANEL - 2 mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 2 mL Vial Label RL-7447
 
-2 mL Single-Dose Vial Preservative-Free
+2 mL Single-Dose Vial NDC 0409-2305-16
 
-NDC 0409-2305-17 Rx only
+Preservative-Free Rx only
 
-Midazolam Injection, USP
+Midazolam Injection, USP CIV
 
-CIV
-
-2 mg / 2 mL (1 mg / mL)
-
-RL-6964
-
-FOR I.M. or I.V.
+2 mg / 2 mL (1 mg/mL) For I.V. or I.M.
 Use.
 Discard unused portion.
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-RL-6964
-
-# PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 2 mL Vial Box CA-7201
 
 25 x 2 mL Single-dose Fliptop Vial
 
-Preservative-Free
+Preservative-Free Rx only
 
-NDC 0409-2305-17 R x only
+NDC 0409-2305-17 Contains 25 of NDC 0409-2305-16
 
-Midazolam Injection, USP
-
-CIV
+Midazolam Injection, USP CIV
 
 2 mg /2 mL (1 mg/mL)
 
 Sterile.
-For Intramuscular or Intravenous Use.
+For Intravenous or Intramuscular Use.
 Discard unused portion.
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 5 mL Vial Label RL-7448
 
-1 mL Single-Dose Vial Preservative-Free
+5 mL Single-Dose Vial
 
-NDC 0409-2308-01 Rx only
+NDC 0409-2305-04
 
-Midazolam Injection, USP
+Preservative-Free
 
-CIV
+Rx only
 
-5 mg / mL
+Midazolam Injection, USP CIV
 
-RL-6960
+5 mg/5 mL (1 mg/mL)
 
-FOR I.M. or I.V.
+For I.V. or I.M.
 Use.
 Discard unused portion.
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 5 mL Vial Box CA7202
 
-10 x 1 mL Single-dose Fliptop Vial
+10 x 5 mL Single-dose Fliptop Vial Preservative-Free
 
-NDC 0409-2308-01 Rx only
+Rx only
 
-Preservative-Free Midazolam Injection, USP
+NDC 0409-2305-05 Contains 10 of NDC 0409-2305-04
+
+Sterile.
+For Intravenous or Intramuscular Use.
+
+Discard unused portion.
+
+Midazolam Injection, USP CIV
+
+5 mg / 5 mL (1 mg/mL)
+
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Label RL-7449
+
+1 mL Single-Dose Vial
+
+Preservative-Free
+
+NDC 0409-2308-21
+
+Rx only
+
+Midazolam Injection, USP CIV
 
 5 mg / mL
 
-CIV
+For I.V. or I.M.
+Use.
+
+Discard unused portion.
+
+Hospira
+
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Box CA7205
+
+10 x 1 mL Single-dose Fliptop Vial
+
+Rx only
+
+NDC 0409-2308-01 Contains 10 of NDC 0409-2308-21
+
+Preservative-Free
+
+Midazolam Injection, USP CIV
+
+5 mg / mL
 
 Sterile.
-For Intramuscular or Intravenous Use.
+For Intravenous or Intramuscular Use.
+
+Discard unused portion.
+
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 2 mL Vial Label RL-7450
+
+2 mL Single-Dose Vial
+
+Preservative-Free
+
+NDC 0409-2308-22
+
+Rx only
+
+Midazolam Injection, USP CIV
+
+10 mg / 2 mL (5 mg / mL)
+
+For I.V. or I.M.
+Use.
+
+Discard unused portion.
+
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
+
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 2 mL Vial Box CA7206
+
+10 x 2 mL Single-dose Fliptop Vial
+
+Rx only
+
+NDC 0409-2308-02 Contains 10 of NDC 0409-2308-22
+
+Preservative-Free
+
+Midazolam Injection, USP CIV
+
+10 mg / 2 mL (5 mg/mL)
+
+Sterile.
+For Intravenous or Intramuscular Use.
 
 Discard unused portion.
 
