@@ -56,17 +56,17 @@ Flu-like Symptoms
 Inform patients that flu-like symptoms are common following initiation of therapy with AVONEX [see Dosage and Administration (2.3) and Adverse Reactions (6)].
 Advise patients that starting with a lower dose than 30 micrograms and increasing the dose over 3 weeks reduces the incidence and severity of flu-like symptoms.
 
+41613-04
+
 Manufactured by:
 
 Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-U.S. License #1697
+U.S. License #1697 1-800-456-2255
 
-© Biogen [1996-2016].
+© Biogen 1996-2019.
 All rights reserved.
-
-1-800-456-2255
 
 *MICRO PIN® is the trademark of B. Braun Medical Inc.

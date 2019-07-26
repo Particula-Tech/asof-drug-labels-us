@@ -46,12 +46,7 @@ Tell your healthcare provider right away if you have any of the symptoms listed 
 What is AVONEX?
 
 AVONEX is a form of a protein called beta interferon that occurs naturally in the body.
-AVONEX is a prescription medicine used to treat adults with relapsing forms of multiple sclerosis (MS).
-This includes people who have had their first symptoms of multiple sclerosis and have an MRI consistent with multiple sclerosis.
-
-AVONEX will not cure your MS but may decrease the number of flare-ups of the disease and slow the occurrence of some of the physical disability that is common in people with MS. MS is a life-long disease that affects your nervous system by destroying the protective covering (myelin) that surrounds your nerve fibers.
-
-The way AVONEX works in MS is not known.
+AVONEX is a prescription medicine used to treat relapsing forms of multiple sclerosis (MS),to include clinically isolated syndrome, relapsing -remitting disease, and active secondary progressive disease, in adults.
 
 It is not known if AVONEX is safe and effective in children.
 
@@ -106,7 +101,7 @@ How should I use AVONEX?
   - Single-Use Prefilled Autoinjector Pen (AVONEX PEN®)
 
 Your healthcare provider will decide which one is best for you.
-See the Instructions for Use at the end of this Medication Guide for detailed instructions for preparing and injecting your dose of AVONEX.
+See the Instructions for Use for detailed instructions for preparing and injecting your dose of AVONEX.
 
 - Always use a new, unopened AVONEX vial, prefilled syringe, or single-use prefilled autoinjector pen for each intramuscular injection.
 
@@ -207,11 +202,9 @@ Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-U.S. License #1697
+U.S. License #1697 1 800 456 2255
 
-© Biogen [1996-2016].
+AVONEX is a registered trademark of Biogen © Biogen [1996-2019].
 All rights reserved.
 
-1-800-456-2255
-
-Revised: 03/2016
+Revised: 7/2019

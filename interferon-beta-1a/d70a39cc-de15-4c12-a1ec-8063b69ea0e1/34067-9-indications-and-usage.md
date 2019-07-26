@@ -1,4 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-AVONEX (interferon beta-1a) is indicated for the treatment of patients with relapsing forms of multiple sclerosis to slow the accumulation of physical disability and decrease the frequency of clinical exacerbations.
-Patients with multiple sclerosis in whom efficacy has been demonstrated include patients who have experienced a first clinical episode and have MRI features consistent with multiple sclerosis.
+AVONEX is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.

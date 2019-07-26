@@ -1,7 +1,6 @@
 # 14 CLINICAL STUDIES
 
 The clinical effects of AVONEX in patients with relapsing forms of multiple sclerosis (MS) were studied in two randomized, multicenter, double-blind, placebo-controlled studies in patients with MS (Studies 1 and 2).
-Safety and efficacy of treatment with AVONEX beyond 3 years is not known.
 
 In Study 1, 301 patients received either 30 micrograms of AVONEX (n=158) or placebo (n=143) by intramuscular injection once weekly.
 Patients received injections for up to 2 years, and continued to be followed until study completion.
@@ -43,9 +42,6 @@ AVONEX-treated patients demonstrated significantly lower Gd-enhanced lesion numb
 The volume of Gd-enhanced lesions showed similar treatment effects in the AVONEX and placebo groups (p ≤ 0.03).
 Percentage change in T2-weighted lesion volume from study entry to Year 1 was significantly lower in AVONEX-treated than placebo-treated patients (p = 0.02).
 A significant difference in T2-weighted lesion volume change was not seen between study entry and Year 2 in the AVONEX and placebo groups.
-
-The exact relationship between MRI findings and the clinical status of MS patients is unknown.
-The prognostic significance of MRI findings in these studies has not been evaluated.
 
 Summary of Effects of Clinical and MRI Endpoints in Study 1
 
