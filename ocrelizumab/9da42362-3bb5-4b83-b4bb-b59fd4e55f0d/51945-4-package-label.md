@@ -2,22 +2,22 @@
 
 NDC 50242-150-01
 
-Ocrevus™ (ocrelizumab) Injection
+Ocrevus® (ocrelizumab) Injection
 
 300 mg/10 mL (30 mg/mL)
 
 For Intravenous Infusion.
-Must Be Diluted
+Must Be Diluted.
 
 Single-Dose Vial.
 Discard Unused Portion.
 
 Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-1 vial
-
 Rx only
+
+1 vial
 
 Genentech
 
-10182525
+10211676
