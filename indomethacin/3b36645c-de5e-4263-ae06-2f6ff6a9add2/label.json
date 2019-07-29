@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA073314"
+  ],
+  "inn": "indomethacin",
+  "labeler": "Egalet US Inc.",
+  "package_ndcs": [
+    "69344-102-33"
+  ],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "indomethacin",
+      "name": "INDOCIN"
+    }
+  ],
+  "setid": "3b36645c-de5e-4263-ae06-2f6ff6a9add2",
+  "source": "dailymed"
+}
