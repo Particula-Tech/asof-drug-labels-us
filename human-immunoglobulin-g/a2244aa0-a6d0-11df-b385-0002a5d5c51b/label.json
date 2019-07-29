@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA125389"
+  ],
+  "inn": "human-immunoglobulin-g",
+  "labeler": "ADMA Biologics, Inc.",
+  "package_ndcs": [
+    "69800-6502-1",
+    "69800-6503-1"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "immune globulin intravenous (human) 10%",
+      "name": "BIVIGAM"
+    }
+  ],
+  "setid": "a2244aa0-a6d0-11df-b385-0002a5d5c51b",
+  "source": "dailymed"
+}
