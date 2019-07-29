@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Controlled Trial
+## 14.1 Controlled Trial in Myelodysplastic Syndrome
 
 A randomized open-label, multicenter, controlled trial evaluated 170 adult patients with myelodysplastic syndromes (MDS) meeting French-American-British (FAB) classification criteria and International Prognostic Scoring System (IPSS) High-Risk, Intermediate-2 and Intermediate-1 prognostic scores.
 Eighty-nine patients were randomized to Decitabine for injection therapy plus supportive care (only 83 received Decitabine for injection), and 81 to Supportive Care (SC) alone.
@@ -85,7 +85,7 @@ Table 6 Analysis of Response (ITT)
 All patients with a CR or PR were RBC and platelet transfusion independent in the absence of growth factors.
 Responses occurred in patients with an adjudicated baseline diagnosis of AML.
 
-## 14.2 Single-arm Studies
+## 14.2 Single-arm Studies in Myelodysplastic Syndrome
 
 Three open-label, single-arm, multicenter studies were conducted to evaluate the safety and efficacy of Decitabine for injection in MDS patients with any of the FAB subtypes.
 In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received Decitabine for injection by intravenous infusion at a dose of 20 mg/m2 IV over 1-hour daily, on days 1-5 of week 1 every 4 weeks (1 cycle).

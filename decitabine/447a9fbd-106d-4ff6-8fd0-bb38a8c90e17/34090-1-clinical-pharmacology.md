@@ -16,7 +16,8 @@ However, there have been no studies of decitabine-induced hypomethylation and ph
 ## 12.3 Pharmacokinetics
 
 Pharmacokinetic parameters were evaluated in patients.
-Eleven patients received 20 mg/m2 infused over 1 hour intravenously (treatment Option 2), Fourteen patients received 15 mg/m2 infused over 3 hours (treatment Option 1).
+Eleven patients received 20 mg/m2 infused over 1 hour intravenously (treatment Option 2).
+Fourteen patients received 15 mg/m2 infused over 3 hours (treatment Option 1).
 PK parameters are shown in Table 3.
 Plasma concentration-time profiles after discontinuation of infusion showed a biexponential decline.
 The CL of decitabine was higher following treatment Option 2.
@@ -37,3 +38,11 @@ Table 3 Mean (CV% or 95% CI) Pharmacokinetic Parameters of Decitabine
 
 The exact route of elimination and metabolic fate of decitabine is not known in humans.
 One of the pathways of elimination of decitabine appears to be deamination by cytidine deaminase found principally in the liver but also in granulocytes, intestinal epithelium and whole blood.
+
+Specific Populations
+
+Patients with Renal Impairment
+
+There are no data on the use of Decitabine for injection in patients with renal impairment; therefore, if Decitabine for injection is administered to these patients, monitor them frequently for excessive toxicity.
+
+Patients with Hepatic Impairment There are no data on the use of Decitabine for injection in patients with hepatic impairment; therefore, if Decitabine for injection is administered to these patients, monitor them frequently for excessive toxicity.
