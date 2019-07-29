@@ -31,7 +31,8 @@ Renal disease does not affect the plasma concentrations nor LDL-C reduction of a
 
 ## 2.6 Dosage in Patients Taking Cyclosporine, Clarithromycin, Itraconazole, or Certain Protease Inhibitors
 
-In patients taking cyclosporine or the HIV protease inhibitors (tipranavir plus ritonavir) or the hepatitis C protease inhibitor (telaprevir), therapy with atorvastatin should be avoided.
-In patients with HIV taking lopinavir plus ritonavir, caution should be used when prescribing atorvastatin and the lowest dose necessary employed.
-In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, therapy with atorvastatin should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is employed.
-In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, therapy with atorvastatin should be limited to 40 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is employed [see Warnings and Precautions (5.1) and Drug Interactions (7)].
+In patients taking cyclosporine or the HIV protease inhibitor tipranavir plus ritonavir or the hepatitis C virus (HCV) protease inhibitor glecaprevir plus pibrentasvir, therapy with atorvastatin calcium tablets should be avoided.
+In patients with HIV taking lopinavir plus ritonavir, use the lowest dose necessary of atorvastatin calcium tablets.
+In patients taking clarithromycin, itraconazole, elbasvir plus grazoprevir, or in patients with HIV taking a combination of saquinavirplus ritonavir, darunavirplus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, therapy with atorvastatin calcium tablets should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium tablets is used.
+In patients taking the HIV protease inhibitor nelfinavir therapy with atorvastatin calcium tablets should be limited to 40 mg.
+When co-prescribing atorvastatin with other protease inhibitors, appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium tablets is used [see Warnings and Precautions (5.1) and Drug Interactions (7)].

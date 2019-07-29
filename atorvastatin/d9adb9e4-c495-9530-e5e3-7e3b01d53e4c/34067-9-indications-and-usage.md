@@ -33,7 +33,7 @@ Atorvastatin calcium tablets are indicated
 - As an adjunct to diet for the treatment of adult patients with elevated serum TG levels (Fredrickson Type IV);
 - For the treatment of adult patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet;
 - To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable;
-- As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in pediatric patients, 10 to 17 years of age, with heterozygous familial hypercholesterolemia (HeFH) if after an adequate trial of diet therapy the following findings are present: a. LDL-C remains ≥ 190 mg/dL or b. LDL-C remains ≥ 160 mg/dL and:
+- As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in pediatric patients, 10 years to 17 years of age, with heterozygous familial hypercholesterolemia (HeFH) if after an adequate trial of diet therapy the following findings are present: a. LDL-C remains ≥ 190 mg/dL or b. LDL-C remains ≥ 160 mg/dL and:
   - there is a positive family history of premature cardiovascular disease or
   - two or more other CVD risk factors are present in the pediatric patient
 
