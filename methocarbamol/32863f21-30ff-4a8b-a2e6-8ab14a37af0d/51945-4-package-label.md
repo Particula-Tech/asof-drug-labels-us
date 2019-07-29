@@ -12,9 +12,11 @@ Solco Healthcare U.S. 100 Tablets
 
 NDC 43547- 226-10
 
+Rx only
+
 Methocarbamol Tablets, USP
 
-Rx only
+750 mg
 
 Each tablet contains 750 mg of Methocarbamol, USP.
 
@@ -22,7 +24,6 @@ See enclosed package insert for dosage information.
 
 Store at controlled room temperature, between 20℃ and 25℃ (68℉ and 77℉).
 [see USP Controlled Room Temperature].
-
 Dispense in tight container.
 
 Keep this and all drugs out of the reach of children.
@@ -31,17 +32,19 @@ Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
 
 Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
-Rev: JUL2017
+Rev: MAY2018
 
-9040315-01
+9040317-02
 
 # Container Label - 500 mg - 100 tablets
 
 NDC 43547- 405-10
 
+Rx only
+
 Methocarbamol Tablets, USP
 
-Rx only
+500 mg
 
 Each tablet contains 500 mg of Methocarbamol, USP.
 
@@ -49,7 +52,6 @@ See enclosed package insert for dosage information.
 
 Store at controlled room temperature, between 20℃ and 25℃ (68℉ and 77℉).
 [see USP Controlled Room Temperature].
-
 Dispense in tight container.
 
 Keep this and all drugs out of the reach of children.
@@ -58,6 +60,6 @@ Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
 
 Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
-Rev: JUL2017
+Rev: MAY2018
 
-9040315-01
+9040315-02
