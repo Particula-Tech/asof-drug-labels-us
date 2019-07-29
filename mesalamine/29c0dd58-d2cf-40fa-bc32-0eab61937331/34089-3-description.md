@@ -11,7 +11,7 @@ Mesalamine, USP is a light tan to pink colored, needle-shaped crystals.
 Color may darken on exposure to air.
 It is odorless or may have a slight characteristic odor.
 
-The tablet is coated with a pH dependent polymer film, which breaks down at or above pH 6.8, normally in the terminal ileum where mesalamine then begins to be released from the tablet core.
+The tablet is coated with a pH-dependent polymer film, which breaks down at or above pH 6.8, normally in the terminal ileum where mesalamine then begins to be released from the tablet core.
 The tablet core contains mesalamine with hydrophilic excipients and provides for extended release of mesalamine.
 
 Each mesalamine delayed-release tablet intended for oral administration contains 1.2 g of mesalamine.

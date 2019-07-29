@@ -9,6 +9,5 @@
   - have a history of myocarditis or pericarditis;
   - have kidney or liver disease;
   - have a history of stomach blockage;
-  - are pregnant, intend to become pregnant or are breastfeeding.
   - have increased sensitivity of the skin to sun and ultraviolet light
 - Patients should be instructed to swallow mesalamine delayed-release tablets whole, taking care not to break the outer coating.

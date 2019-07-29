@@ -7,5 +7,3 @@ Mesalamine Delayed-release Tablets, 1.2 g
 Rx only
 
 120 tablets
-
-ZYDUS
