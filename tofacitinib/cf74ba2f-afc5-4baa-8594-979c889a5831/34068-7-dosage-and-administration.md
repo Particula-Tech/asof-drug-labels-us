@@ -3,7 +3,7 @@
 ## 2.1 Important Administration Instructions
 
 - Do not initiate XELJANZ/XELJANZ XR in patients with an absolute lymphocyte count less than 500 cells/mm3, an absolute neutrophil count (ANC) less than 1000 cells/mm3 or who have hemoglobin levels less than 9 g/dL.
-- Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
+- Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 - Interrupt use of XELJANZ/XELJANZ XR if a patient develops a serious infection until the infection is controlled [see Warnings and Precautions (5.1)].
 - Take XELJANZ/XELJANZ XR with or without food [see Clinical Pharmacology (12.3)].
 - Swallow XELJANZ XR tablets whole and intact.
@@ -38,7 +38,7 @@ Table 2: Recommended Dosage of XELJANZ in Patients with UC
 
 | Ulcerative Colitis | XELJANZ |
 | --- | --- |
-| Adult patients | 10 mg twice daily for at least 8 weeks; followed by 5 or 10 mg twice daily, depending on therapeutic response [see Clinical Studies (14.3)]. Use the lowest effective dose to maintain response [see Warnings and Precautions (5.1, 5.2, 5.5)]. Discontinue XELJANZ after 16 weeks of treatment with 10 mg twice daily, if adequate therapeutic benefit is not achieved. |
+| Adult patients | Induction 10 mg twice daily for 8 weeks [see Clinical Studies (14.3)]; evaluate patients and transition to maintenance therapy depending on therapeutic response. If needed, continue 10 mg twice daily for a maximum of 16 weeks. Discontinue 10 mg twice daily after 16 weeks if adequate therapeutic response is not achieved. Maintenance 5 mg twice daily. Use of 10 mg twice daily beyond induction should be limited to those with loss of response and used for the shortest duration, with careful consideration of the benefits and risks for the individual patient. Use the lowest effective dose needed to maintain response [see Warnings and Precautions (5.1, 5.3, 5.4, 5.7)]. |
 | Patients receiving: Strong CYP3A4 inhibitors (e.g., ketoconazole), ora moderate CYP3A4 inhibitor(s) with a strong CYP2C19 inhibitor(s) (e.g., fluconazole) [see Drug Interactions (7)] | If taking 10 mg twice daily, reduce to 5 mg twice daily. If taking 5 mg twice daily, reduce to 5 mg once daily. |
 | Patients with: moderate or severe renal impairment [see Use in Specific Populations (8.7)]moderate hepatic impairment [see Use in Specific Populations (8.8)]Use in patients with severe hepatic impairment is not recommended. | If taking 10 mg twice daily, reduce to 5 mg twice daily. If taking 5 mg twice daily, reduce to 5 mg once daily. For patients undergoing hemodialysis, dose should be administered after the dialysis session on dialysis days. If a dose was taken before the dialysis procedure, supplemental doses are not recommended in patients after dialysis. |
 | Patients with lymphocyte count less than 500 cells/mm3, confirmed by repeat testing | Discontinue dosing. |
