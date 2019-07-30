@@ -26,7 +26,7 @@ Table 17: Efficacy Results in Study 1
 
 | Efficacy Parameter | Gemcitabine for Injection, USP/Carboplatin (N=178) | Carboplatin (N=178) |
 | --- | --- | --- |
-| Progression-free Survival |  |  |
+| Progression-Free Survival |  |  |
 | Median (95% C Ia) in mon ths | 8.6 (8.0, 9.7) | 5.8 (5.2, 7.1) |
 | Hazard Ratio (95% CI) | 0.72 (0.57, 0.90) |  |
 | p-valueb | p =0.0038 |  |
@@ -44,11 +44,11 @@ Table 17: Efficacy Results in Study 1
 | PR wi th P RNMe | 37.2% | 31.7% |
 
 a CI=confidence interval. b Log rank, unadjusted. c Chi square. d CR=Complete response. e PR with PRNM=Partial response with partial response, non-measurable disease. f Independently reviewed cohort – Gemcitabine for Injection, USP/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam.
-Figure 1: Kaplan-Meier Curves for Progression Free Survival in Study 1
+Figure 1: Kaplan-Meier Curves for Progression-Free Survival in Study 1
 
 ## 14.2 Breast Cancer
 
-The efficacy of Gemcitabine for Injection, USP were evaluated in a multi-national, randomized, open-label trial (Study 2) conducted in women receiving initial treatment for metastatic breast cancer and who have received prior adjuvant/neoadjuvant anthracycline chemotherapy unless clinically contraindicated.
+The efficacy of Gemcitabine for Injection, USP were evaluated in a multinational, randomized, open-label trial (Study 2) conducted in women receiving initial treatment for metastatic breast cancer and who have received prior adjuvant/neoadjuvant anthracycline chemotherapy unless clinically contraindicated.
 Patients were randomized to receive either Gemcitabine for Injection, USP 1250 mg/m2 on Days 1 and 8 of each 21-day cycle with paclitaxel 175 mg/m2 administered on Day 1 before Gemcitabine for Injection, USP administration (n=267) or paclitaxel 175 mg/m2 on Day 1 of each 21-day cycle (n=262).
 The major efficacy outcome measure was time to documented disease progression.
 A total of 529 patients were enrolled.
@@ -74,10 +74,10 @@ Table 19: Efficacy Results in Study 2
 | --- | --- | --- |
 | T ime to Do cu ment ed D isease Prog ress iona |  |  |
 | Median (95% C I) in mon ths | 5.2 (4.2, 5.6) | 2.9 (2.6, 3.7) |
-| Hazard Ratio (95% CI) | 0.650 (0.59, 0.85) |  |
+| Hazard Ratio (95% CI) | 0.650 (0.524, 0.805) |  |
 | p-value | p <0.0001 |  |
 | O vera ll Su r v i valb |  |  |
-| Median (95% C I) in mon ths | 18.6 (16.6, 20.7) | 15.8 (14.1, 17.4) |
+| Median (95% C I) in mon ths | 18.6 (16.5, 20.7) | 15.8 (14.1, 17.3) |
 | Hazard Ratio (95% CI) | 0.86 (0.71, 1.04) |  |
 | p-value | Not Signi fi c ant |  |
 | O vera ll Response Rate | 40.8% | 22.1% |
@@ -87,7 +87,7 @@ Table 19: Efficacy Results in Study 2
 a These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. b Based on the ITT population.
 Figure 2: Kaplan-Meier Curves for Time to Documented Disease Progression in Study 2
 
-## 14.3 Non-Small Cell Lung Cancer (NSCLC)
+## 14.3 Non-Small Cell Lung Cancer
 
 The efficacy of Gemcitabine for Injection, USP was evaluated in two randomized, multicenter trials.
 Study 3: 28-Day Schedule A multinational, randomized trial (Study 3) compared Gemcitabine for Injection, USP with cisplatin to cisplatin alone in the treatment of patients with inoperable Stage IIIA, IIIB, or IV NSCLC who had not received prior chemotherapy.
@@ -152,7 +152,7 @@ Table 22: Baseline Demographics and Clinical Characteristics for Study 5
 |  | Gemcitabine for Injection, USP (N=63) | Fluorouracil (N=63) |
 | --- | --- | --- |
 | Male | 54% | 54% |
-| Median age | 62 years | 61 years |
+| Median age, years | 62 | 61 |
 | Range | 37 to 79 | 36 to 77 |
 | Stage IV disease | 71% | 76% |
 | Baseline KPSa ≤70 | 70% | 68% |

@@ -29,7 +29,7 @@ The metabolite dFdU is also found in plasma.
 Specific Populations Geriatric Patients Clearance of gemcitabine was affected by age.
 The lower clearance in geriatric patients results in higher concentrations of gemcitabine for any given dose.
 Differences in either clearance or volume of distribution based on patient characteristics or the duration of infusion result in changes in half-life and plasma concentrations.
-Table 15 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and gender.
+Table 15 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and sex.
 Table 15: Gemcitabine Clearance and Half-Life for the “Typical” Patient
 
 | Age | Clearance Men (L/hr/m2) | Clearance Women (L/hr/m2) | Half-Lifea Men (min) | Half-LifeaWomen (min) |
@@ -40,7 +40,7 @@ Table 15: Gemcitabine Clearance and Half-Life for the “Typical” Patient
 | 79 | 40.7 | 30.7 | 79 | 94 |
 
 a Half-life for patients receiving <70 minute infusion.
-Gemcitabine half-life for short infusions ranged from 42 to 94 minutes and for long infusions varied from 245 to 638 minutes, depending on age and gender, reflecting a greatly increased volume of distribution with longer infusions.
+Gemcitabine half-life for short infusions ranged from 42 to 94 minutes and for long infusions varied from 245 to 638 minutes, depending on age and sex, reflecting a greatly increased volume of distribution with longer infusions.
 Male and Female Patients Females have lower clearance and longer half-lives than male patients as described in Table 15.
 Patients with Renal Impairment No clinical studies have been conducted with gemcitabine in patients with decreased renal function.
 Patients with Hepatic Impairment No clinical studies have been conducted with gemcitabine in patients with decreased hepatic function.

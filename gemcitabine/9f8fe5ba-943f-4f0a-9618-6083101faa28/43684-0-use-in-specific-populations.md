@@ -24,9 +24,9 @@ Pregnancy Testing Verify pregnancy status in females of reproductive potential p
 Contraception Gemcitabine for Injection, USP can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Females Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with Gemcitabine for Injection, USP and for 6 months after the final dose of Gemcitabine for Injection, USP.
-Males Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with Gemcitabine for Injection, USP and for 3 months after the last dose of Gemcitabine for Injection, USP [see Nonclinical Toxicology (13.1)].
-Infertility Males Based on animal studies, Gemcitabine for Injection, USP may impair fertility in males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Nonclinical Toxicology (13.1)].
+Males Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with Gemcitabine for Injection, USP and for 3 months after the final dose of Gemcitabine for Injection, USP [see Nonclinical Toxicology (13.1)].
+Infertility Males Based on animal studies, GEMZAR may impair fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
+It is not known whether these effects on fertility are reversible.
 
 ## 8.4 Pediatric Use
 

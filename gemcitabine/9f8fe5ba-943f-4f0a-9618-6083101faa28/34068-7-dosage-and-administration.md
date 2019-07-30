@@ -10,11 +10,11 @@ Table 1: Recommended Dosage Modifications for Gemcitabine for Injection, USP for
 
 | Treatment Day | Absolute Neutrophil Count (x 106/L) |  | Platelet Count (x 106/L) | Dosage Modification |
 | --- | --- | --- | --- | --- |
-| Day 1 | Greater than or equal to 1500 | and | Greater than or equal to 100,000 | None |
-| Less than 1500 | or | Less than 100,000 | Delay Treatment Cycle |  |
-| Day 8 | Greater than or equal to 1500 | and | Greater than or equal to 100,000 | None |
-| 1000 to 1499 | or | 75,000 to 99,999 | 50% of full dose |  |
-| Less than 1000 | or | Less than 75,000 | Hold |  |
+| Day 1 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| Less than 1500 | Or | Less than 100,000 | Delay Treatment Cycle |  |
+| Day 8 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| 1000 to 1499 | Or | 75,000 to 99,999 | 50% of full dose |  |
+| Less than 1000 | Or | Less than 75,000 | Hold |  |
 
 Table 2: Recommended Dosage Modifications for Gemcitabine for Injection, USP for Myelosuppression in Previous Cycle in Ovarian Cancer
 
@@ -33,12 +33,12 @@ Table 3: Recommended Dosage Modifications for Gemcitabine for Injection, USP for
 
 | Treatment Day | Absolute Neutrophil Count (x 106/L) |  | Platelet Count (x 106/L) | Dosage Modification |
 | --- | --- | --- | --- | --- |
-| Day 1 | Greater than or equal to 1500 | and | Greater than or equal to 100,000 | None |
-| Less than 1500 | or | Less than 100,000 | Hold |  |
-| Day 8 | Greater than or equal to 1200 | and | Greater than 75,000 | None |
-| 1000 to 1199 | or | 50,000 to 75,000 | 75% of full dose |  |
-| 700 to 999 | and | Greater than or equal to 50,000 | 50% of full dose |  |
-| Less than 700 | or | Less than 50,000 | Hold |  |
+| Day 1 | Greater than or equal to 1500 | And | Greater than or equal to 100,000 | None |
+| Less than 1500 | Or | Less than 100,000 | Hold |  |
+| Day 8 | Greater than or equal to 1200 | And | Greater than 75,000 | None |
+| 1000 to 1199 | Or | 50,000 to 75,000 | 75% of full dose |  |
+| 700 to 999 | And | Greater than or equal to 50,000 | 50% of full dose |  |
+| Less than 700 | Or | Less than 50,000 | Hold |  |
 
 ## 2.3 Non-Small Cell Lung Cancer
 
@@ -61,13 +61,13 @@ Table 4: Recommended Dosage Modifications for Gemcitabine for Injection, USP for
 
 | Absolute Neutrophil Count (x 106/L) |  | Platelet Count (x 106/L) | Dosage Modification |
 | --- | --- | --- | --- |
-| Greater than or equal to 1000 | and | Greater than or equal to 100,000 | None |
-| 500 to 999 | or | 50,000 to 99,999 | 75% of full dose |
-| Less than 500 | or | Less than 50,000 | Hold |
+| Greater than or equal to 1000 | And | Greater than or equal to 100,000 | None |
+| 500 to 999 | Or | 50,000 to 99,999 | 75% of full dose |
+| Less than 500 | Or | Less than 50,000 | Hold |
 
 ## 2.5 Dosage Modifications for Non-Hematologic Adverse Reactions
 
-Permanently discontinue Gemcitabine for Injection, USP for any of the following: • Unexplained dyspnea or other evidence of severe pulmonary toxicity [see Warnings and Precautions (5.3)] • Hemolytic-uremic syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.4)] • Severe hepatic toxicity [see Warnings and Precautions (5.5)] • Capillary leak syndrome (CLS) [see Warnings and Precautions (5.8)] • Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)] Withhold Gemcitabine for Injection, USP or reduce dose by 50% for other Grade 3 or 4 non-hematological adverse reactions until resolved.
+Permanently discontinue Gemcitabine for Injection, USP for any of the following: • Unexplained dyspnea or other evidence of severe pulmonary toxicity [see Warnings and Precautions (5.3)] • Hemolytic Uremic Syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.4)] • Severe hepatic toxicity [see Warnings and Precautions (5.5)] • Capillary leak syndrome (CLS) [see Warnings and Precautions (5.8)] • Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)] Withhold Gemcitabine for Injection, USP or reduce dose by 50% for other Grade 3 or 4 non-hematological adverse reactions until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.
 
 ## 2.6 Preparation

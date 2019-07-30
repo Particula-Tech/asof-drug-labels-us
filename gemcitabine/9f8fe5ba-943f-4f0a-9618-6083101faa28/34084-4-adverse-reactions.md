@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in another section of the label • Hypersensitivity [see Contraindications (4)] • Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)] • Myelosuppression [see Warnings and Precautions (5.2)] • Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)] • Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)] • Hepatic Toxicity [see Warnings and Precautions (5.5)] • Exacerbation of Radiation Toxicity [see Warnings and Precautions (5.7)] • Capillary Leak Syndrome [see Warnings and Precautions (5.8)] • Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
+The following clinically significant adverse reactions are described elsewhere in the labeling: • Hypersensitivity [see Contraindications (4)] • Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)] • Myelosuppression [see Warnings and Precautions (5.2)] • Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)] • Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)] • Hepatic Toxicity [see Warnings and Precautions (5.5)] • Exacerbation of Radiation Toxicity [see Warnings and Precautions (5.7)] • Capillary Leak Syndrome [see Warnings and Precautions (5.8)] • Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -12,7 +12,7 @@ The data described below reflect exposure to Gemcitabine for Injection, USP as a
 The most common (≥20%) adverse reactions of single agent Gemcitabine for Injection, USP are nausea/vomiting, anemia, increased alanine aminotransferase (ALT), increased aspartate aminotransferase (AST), neutropenia, increased alkaline phosphatase, proteinuria, fever, hematuria, rash, thrombocytopenia, dyspnea, and edema.
 The most common (≥5%) Grade 3 or 4 adverse reactions were neutropenia, nausea/vomiting, increased ALT, increased alkaline phosphatase, anemia, increased AST, and thrombocytopenia.
 Approximately 10% of the 979 patients discontinued Gemcitabine for Injection, USP due to adverse reactions.
-Adverse reactions resulting in discontinuation of Gemcitabine for Injection, USP in 2% of 979 patients were cardiovascular adverse events (myocardial infarction, cerebrovascular accident, arrhythmia, and hypertension) and adverse reactions resulting in discontinuation of Gemcitabine for Injection, USP in <1% of 979 patients were anemia, thrombocytopenia, hepatic dysfunction, renal dysfunction, nausea/vomiting, fever, rash, dyspnea, hemorrhage, infection, stomatitis, somnolence, flu-like syndrome, and edema.
+Adverse reactions resulting in discontinuation of Gemcitabine for Injection, USP in 2% of 979 patients were cardiovascular adverse reactions (myocardial infarction, cerebrovascular accident, arrhythmia, and hypertension) and adverse reactions resulting in discontinuation of Gemcitabine for Injection, USP in <1% of 979 patients were anemia, thrombocytopenia, hepatic dysfunction, renal dysfunction, nausea/vomiting, fever, rash, dyspnea, hemorrhage, infection, stomatitis, somnolence, flu-like syndrome, and edema.
 Tables 5 and 6 present the incidence of selected adverse reactions and laboratory abnormalities reported in patients with various malignancies receiving single agent Gemcitabine for Injection, USP across 5 clinical trials.
 Additional clinically significant adverse reactions are provided following Table 6.
 Table 5: Selected Adverse Reactions Occurring in ≥10% of Patients Receiving Single Agent Gemcitabine for Injection, USPa
@@ -54,13 +54,91 @@ Table 6: Selected Laboratory Abnormalities Occurring in Patients Receiving Singl
 | Increased Creatinine | 8 | <1 | 0 |
 
 a Grade based on criteria from the WHO. b Regardless of causality. c N=699-974; all patients with laboratory or non-laboratory data.
-Additional adverse reactions include the following: • Transfusion requirements: Red blood cell transfusions (19%); platelet transfusions (<1%) • Edema: Edema (13%), peripheral edema (20%) and generalized edema (<1%) • Flu-like Symptoms: Fever, asthenia, anorexia, headache, cough, chills, myalgia, asthenia insomnia, rhinitis, sweating, and/or malaise (19%) • Infection: Sepsis (<1%) • Extravasation: Injection-site reactions (4%) • Allergic: Bronchospasm (<2%); anaphylactoid reactions Non-Small Cell Lung Cancer: Tables 7 and 8 presents the incidence of selected adverse reactions and laboratory abnormalities occurring in ≥10% of Gemcitabine for Injection, USP-treated patients and at a higher incidence in the Gemcitabine for Injection, USP with cisplatin arm, reported in a randomized trial (Study 3) of Gemcitabine for Injection, USP with cisplatin (n=260) administered in 28-day cycles as compared to cisplatin alone (n=262) in patients receiving first-line treatment for locally advanced or metastatic non-small cell lung cancer (NSCLC) [see Clinical Studies (14.3)].
+Additional adverse reactions include the following: • Transfusion requirements: Red blood cell transfusions (19%); platelet transfusions (<1%) • Edema: Edema (13%), peripheral edema (20%) and generalized edema (<1%) • Flu-like Symptoms: Fever, asthenia, anorexia, headache, cough, chills, myalgia, asthenia insomnia, rhinitis, sweating, and/or malaise (19%) • Infection: Sepsis (<1%) • Extravasation: Injection-site reactions (4%) • Allergic: Bronchospasm (<2%); anaphylactoid reactions
+
+Ovarian Cancer Tables 7 and 8 present the incidence of selected adverse reactions and laboratory abnormalities, occurring in ≥10% of Gemcitabine for Injection, USP-treated patients and at a higher incidence in the Gemcitabine for Injection, USP with carboplatin arm, reported in a randomized trial (Study 1) of Gemcitabine for Injection, USP with carboplatin (n=175) compared to carboplatin alone (n=174) for the second-line treatment of ovarian cancer in women with disease that had relapsed more than 6 months following first-line platinum-based chemotherapy [see Clinical Studies (14.1)].
+Additional clinically significant adverse reactions, occurring in <10% of patients, are provided following Table 8.
+The proportion of patients with dose adjustments for carboplatin (1.8% versus 3.8%), doses of carboplatin omitted (0.2% versus 0) and discontinuing treatment for adverse reactions (11% versus 10%), were similar between arms.
+Dose adjustment for Gemcitabine for Injection, USP occurred in 10% of patients and Gemcitabine for Injection, USP dose was omitted in 14% of patients in the Gemcitabine for Injection, USP/carboplatin arm.
+
+Table 7: Adverse Reactions Occurring in >10% of Patients Receiving in Gemcitabine with Carboplatin and at Higher Incidence than in Patients Receiving Single Agent Carboplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 1a
+
+| Adverse Reactionsb | Gemcitabine for Injection, USP/Carboplatin (N=175) |  |  | Carboplatin (N=174) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+| Nausea | 69 | 6 | 0 | 61 | 3 | 0 |
+| Alopecia | 49 | 0 | 0 | 17 | 0 | 0 |
+| Vomiting | 46 | 6 | 0 | 36 | 2 | <1 |
+| Constipation | 42 | 6 | 1 | 37 | 3 | 0 |
+| Fatigue | 40 | 3 | <1 | 32 | 5 | 0 |
+| Diarrhea | 25 | 3 | 0 | 14 | <1 | 0 |
+| Stomatitis/pharyngitis | 22 | <1 | 0 | 13 | 0 | 0 |
+
+a Grade based on National Cancer Institute CTC Version 2.0. b Regardless of causality.
+
+Table 8: Laboratory Abnormalities Occurring in Patients Receiving Gemcitabine with Carboplatin and at Higher Incidence than in Patients Receiving Single Agent Carboplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 1a
+
+| Laboratory Abnormalityb | Gemcitabine for Injection, USP/Carboplatin (N=175) |  |  | Carboplatin (N=174) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+| Hematologic |  |  |  |  |  |  |
+| Neutropenia | 90 | 42 | 29 | 58 | 11 | 1 |
+| Anemia | 86 | 22 | 6 | 75 | 9 | 2 |
+| Thrombocytopenia | 78 | 30 | 5 | 57 | 10 | 1 |
+| RBC Transfusionsc | 38 | - | - | 15 | - | - |
+| Platelet Transfusionsc | 9 | - | - | 3 | - | - |
+
+a Grade based on National Cancer Institute CTC Version 2.0. b Regardless of causality. c Percent of patients receiving transfusions.
+Transfusions are not CTC-graded events.
+Blood transfusions included both packed red blood cells and whole blood.
+Hematopoietic growth factors were administered more frequently in the Gemcitabine for Injection, USP-containing arm: leukocyte growth factor (24% and 10%) and erythropoiesis-stimulating agent (7% and 3.9%).
+
+The following clinically relevant Grade 3 and 4 adverse reactions occurred more frequently in the Gemcitabine for Injection, USP with carboplatin arm: dyspnea (3.4% versus 2.9%), febrile neutropenia (1.1% versus 0), hemorrhagic event (2.3% versus 1.1%), motor neuropathy (1.1% versus 0.6%), and rash/desquamation (0.6% versus 0).
+
+Breast Cancer Tables 9 and 10 presents the incidence of selected adverse reactions and laboratory abnormalities, occurring in ≥10% of Gemcitabine for Injection, USP-treated patients and at a higher incidence in the Gemcitabine for Injection, USP with paclitaxel arm, reported in a randomized trial (Study 2) of Gemcitabine for Injection, USP with paclitaxel (n=262) compared to paclitaxel alone (n=259) for the first-line treatment of metastatic breast cancer (MBC) in women who received anthracycline-containing chemotherapy in the adjuvant/neo-adjuvant setting or for whom anthracyclines were contraindicated [see Clinical Studies (14.2)].
+Additional clinically significant adverse reactions, occurring in <10% of patients, are provided following Table 10.
+The requirement for dose reduction of paclitaxel were higher for patients in the Gemcitabine for Injection, USP/paclitaxel arm (5% versus 2%).
+The number of paclitaxel doses omitted (<1%), the proportion of patients discontinuing treatment for adverse reactions (7% versus 5%) and the number of treatment-related deaths (1 patient in each arm) were similar between the two arms.
+Table 9: Selected Adverse Reactions Occurring in Patients Receiving Gemcitabine with Paclitaxel and at Higher Incidence than in Patients Receiving Single Agent Paclitaxel [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 2a
+
+| Adverse Reactionsb | Gemcitabine for Injection, USP/Paclitaxel (N=262) |  |  | Paclitaxel (N=259) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+| Alopecia | 90 | 14 | 4 | 92 | 19 | 3 |
+| Neuropathy-sensory | 64 | 5 | <1 | 58 | 3 | 0 |
+| Nausea | 50 | 1 | 0 | 31 | 2 | 0 |
+| Fatigue | 40 | 6 | <1 | 28 | 1 | <1 |
+| Vomiting | 29 | 2 | 0 | 15 | 2 | 0 |
+| Diarrhea | 20 | 3 | 0 | 13 | 2 | 0 |
+| Anorexia | 17 | 0 | 0 | 12 | <1 | 0 |
+| Neuropathy-motor | 15 | 2 | <1 | 10 | <1 | 0 |
+| Stomatitis/pharyngitis | 13 | 1 | <1 | 8 | <1 | 0 |
+| Fever | 13 | <1 | 0 | 3 | 0 | 0 |
+| Rash/desquamation Febrile neutropenia | 11 6 | <1 5 | <1 <1 | 5 2 | 0 1 | 0 0 |
+
+a Grade based on National Cancer Institute CTC Version 2.0. b Non-laboratory events were graded only if assessed to be possibly drug-related.
+Table 10: Selected Laboratory Abnormalities Occurring in >10% of Patients Receiving Gemcitabine with Paclitaxel and at a Higher Incidence than Patients Receiving Single Agent Paclitaxel [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 2a
+
+| Laboratory Abnormalityb | Gemcitabine for Injection, USP/ Paclitaxel (N=262) |  |  |  | Paclitaxel (N=259) |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3 (%) | Grade 4 (%) |  | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+| Hematologic |  |  |  |  |  |  |  |
+| Anemia | 69 | 6 | 1 |  | 51 | 3 | <1 |
+| Neutropenia | 69 | 31 | 17 |  | 31 | 4 | 7 |
+| Thrombocytopenia | 26 | 5 | <1 |  | 7 | <1 | <1 |
+| Hepatobiliary |  |  |  |  |  |  |  |
+| Increased ALT | 18 | 5 | <1 |  | 6 | <1 | 0 |
+| Increased AST | 16 | 2 |  | 0 | 5 | <1 | 0 |
+
+a Grade based on National Cancer Institute CTC Version 2.0. b Regardless of causality.
+Clinically relevant Grade 3 or 4 dyspnea occurred with a higher incidence in the Gemcitabine for Injection, USP with paclitaxel arm compared with the paclitaxel arm (1.9% versus 0).
+Non-Small Cell Lung Cancer: Tables 11 and 12 presents the incidence of selected adverse reactions and laboratory abnormalities occurring in ≥10% of Gemcitabine for Injection, USP-treated patients and at a higher incidence in the Gemcitabine for Injection, USP with cisplatin arm, reported in a randomized trial (Study 3) of Gemcitabine for Injection, USP with cisplatin (n=260) administered in 28-day cycles as compared to cisplatin alone (n=262) in patients receiving first-line treatment for locally advanced or metastatic NSCLC [see Clinical Studies (14.3)].
 Patients randomized to Gemcitabine for Injection, USP with cisplatin received a median of 4 cycles of treatment and those randomized to cisplatin alone received a median of 2 cycles of treatment.
 In this trial, the requirement for dose adjustments (>90% versus 16%), discontinuation of treatment for adverse reactions (15% versus 8%), and the proportion of patients hospitalized (36% versus 23%) were all higher for patients receiving Gemcitabine for Injection, USP with cisplatin compared to those receiving cisplatin alone.
 The incidence of febrile neutropenia (3% versus <1%), sepsis (4% versus 1%), Grade 3 cardiac dysrhythmias (3% versus <1%) were all higher in the Gemcitabine for Injection, USP with cisplatin arm compared to the cisplatin alone arm.
 The two-drug combination was more myelosuppressive with 4 (1.5%) possibly treatment-related deaths, including 3 resulting from myelosuppression with infection and one case of renal failure associated with pancytopenia and infection.
 No deaths due to treatment were reported on the cisplatin arm.
-Table 7: Selected Adverse Reactions Occurring in ≥10% of Patients Receiving Gemcitabine with Cisplatin and at Higher Incidence than in Patients Receiving Single Agent Cisplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 3a
+Table 11: Selected Adverse Reactions Occurring in ≥10% of Patients Receiving Gemcitabine with Cisplatin and at Higher Incidence than in Patients Receiving Single Agent Cisplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 3a
 
 | Adverse Reactionsb | Gemcitabine for Injection, USP/Cisplatinc |  |  | Cisplatind |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -84,7 +162,7 @@ Table 7: Selected Adverse Reactions Occurring in ≥10% of Patients Receiving Ge
 
 a Grade based on National Cancer Institute Common Toxicity Criteria (CTC). b Non-laboratory events were graded only if assessed to be possibly drug-related. c N=217-253; all Gemcitabine for Injection, USP/cisplatin patients with laboratory or non-laboratory data d N=213-248; all cisplatin patients with laboratory or non-laboratory data
 
-Table 8: Selected Laboratory Abnormalities Occurring in >10% of Patients Receiving Gemcitabine with Cisplatin and at Higher Incidence than in Patients Receiving Single Agent Cisplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 3a
+Table 12: Selected Laboratory Abnormalities Occurring in >10% of Patients Receiving Gemcitabine with Cisplatin and at Higher Incidence than in Patients Receiving Single Agent Cisplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 3a
 
 | Laboratory Abnormalityb | Gemcitabine for Injection, USP/ Cisplatin |  |  | Cisplatin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -97,7 +175,7 @@ Table 8: Selected Laboratory Abnormalities Occurring in >10% of Patients Receivi
 | Hepatic |  |  |  |  |  |  |
 | Increased Transaminases | 22 | 2 | 1 | 10 | 1 | 0 |
 | Increased Alkaline Phosphatase | 19 | 1 | 0 | 13 | 0 | 0 |
-| Renal Elevated creatinine | 38 | 4 | <1 | 31 | 2 | <1 |
+| Renal Increased creatinine | 38 | 4 | <1 | 31 | 2 | <1 |
 | Proteinuria | 23 | 0 | 0 | 18 | 0 | 0 |
 | Hematuria | 15 | 0 | 0 | 13 | 0 | 0 |
 | Other Laboratory |  |  |  |  |  |  |
@@ -108,15 +186,15 @@ Table 8: Selected Laboratory Abnormalities Occurring in >10% of Patients Receivi
 a Grade based on National Cancer Institute CTC. b Regardless of causality. c N=217-253; all Gemcitabine for Injection, USP plus cisplatin patients with laboratory or non-laboratory data d N=213-248; all cisplatin patients with laboratory or non-laboratory data e Percent of patients receiving transfusions.
 Percent transfusions are not CTC-graded events.
 
-Tables 9 and 10 present the incidence of selected adverse reactions and laboratory abnormalities occurring in ≥10% of Gemcitabine for Injection, USP-treated patients and at a higher incidence in the Gemcitabine for Injection, USP with cisplatin arm, reported in a randomized trial (Study 4) of Gemcitabine for Injection, USP with cisplatin (n=69) administered in 21-day cycles as compared to etoposide with cisplatin (n=66) in patients receiving first-line treatment for locally advanced or metastatic non-small cell lung cancer (NSCLC) [see Clinical Studies (14.3)].
-Additional clinically significant adverse reactions are provided following Table 10.
+Tables 13 and 14 present the incidence of selected adverse reactions and laboratory abnormalities occurring in ≥10% of Gemcitabine for Injection, USP-treated patients and at a higher incidence in the Gemcitabine for Injection, USP with cisplatin arm, reported in a randomized trial (Study 4) of Gemcitabine for Injection, USP with cisplatin (n=69) administered in 21-day cycles as compared to etoposide with cisplatin (n=66) in patients receiving first-line treatment for locally advanced or metastatic NSCLC [see Clinical Studies (14.3)].
+Additional clinically significant adverse reactions are provided following Table 14.
 Patients in the Gemcitabine for Injection, USP/cisplatin (GC) arm received a median of 5 cycles and those in the etoposide/cisplatin (EC) arm received a median of 4 cycles.
 The majority of patients receiving more than one cycle of treatment required dose adjustments; 81% in the GC arm and 68% in the EC arm.
 The incidence of hospitalizations for adverse reactions was 22% in the GC arm and 27% in the EC arm.
 The proportion of patients who discontinued treatment for adverse reactions was higher in the GC arm (14% versus 8%).
 The proportion of patients who were hospitalized for febrile neutropenia was lower in the GC arm (7% versus 12%).
 There was one death attributed to treatment, a patient with febrile neutropenia and renal failure, which occurred in the GC arm.
-Table 9: Selected Adverse Reactions in Patients Receiving Gemcitabine with Cisplatin in Study 4a
+Table 13: Selected Adverse Reactions in Patients Receiving Gemcitabine with Cisplatin in Study 4a
 
 | Adverse Reactionsb | Gemcitabine for Injection, USP/Cisplatinc |  |  | Etoposide/Cisplatind |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -137,7 +215,7 @@ Table 9: Selected Adverse Reactions in Patients Receiving Gemcitabine with Cispl
 
 a Grade based on criteria from the WHO. b Non-laboratory events were graded only if assessed to be possibly drug-related.
 Pain data were not collected. c N=67-69; all Gemcitabine for Injection, USP/cisplatin patients with laboratory or non-laboratory data. d N=57-63; all Etoposide/cisplatin patients with laboratory or non-laboratory data. e Flu-like syndrome and edema were not graded.
-Table 10: Selected Laboratory Abnormalities Occurring in Patients Receiving Gemcitabine with Cisplatin in Study 4a
+Table 14: Selected Laboratory Abnormalities Occurring in Patients Receiving Gemcitabine with Cisplatin in Study 4a
 
 | Laboratory Abnormalityb | Gemcitabine for Injection, USP/ Cisplatinc |  |  | Etoposide/Cisplatind |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -152,90 +230,13 @@ Table 10: Selected Laboratory Abnormalities Occurring in Patients Receiving Gemc
 | Increased Alkaline Phosphatase | 16 | 0 | 0 | 11 | 0 | 0 |
 | Increased ALT | 6 | 0 | 0 | 12 | 0 | 0 |
 | Increased AST | 3 | 0 | 0 | 11 | 0 | 0 |
-| Bilirubin | 0 | 0 | 0 | 0 | 0 | 0 |
 | Renal |  |  |  |  |  |  |
 | Hematuria | 22 | 0 | 0 | 10 | 0 | 0 |
 | Proteinuria | 12 | 0 | 0 | 5 | 0 | 0 |
-| BUN | 6 | 0 | 0 | 4 | 0 | 0 |
-| Creatinine | 2 | 0 | 0 | 2 | 0 | 0 |
+| Increased BUN | 6 | 0 | 0 | 4 | 0 | 0 |
+| Increased Creatinine | 2 | 0 | 0 | 2 | 0 | 0 |
 
 a Grade based on criteria from the WHO. b Regardless of causality. c N=67-69; all Gemcitabine for Injection, USP/cisplatin patients with laboratory or non-laboratory data. d N=57-63; all Etoposide/cisplatin patients with laboratory or non-laboratory data. e WHO grading scale not applicable to proportion of patients with transfusions.
-Breast Cancer Tables 11 and 12 presents the incidence of selected adverse reactions and laboratory abnormalities, occurring in ≥10% of Gemcitabine for Injection, USP-treated patients and at a higher incidence in the Gemcitabine for Injection, USP with paclitaxel arm, reported in a randomized trial (Study 2) of Gemcitabine for Injection, USP with paclitaxel (n=262) compared to paclitaxel alone (n=259) for the first-line treatment of metastatic breast cancer (MBC) in women who received anthracycline-containing chemotherapy in the adjuvant/neo-adjuvant setting or for whom anthracyclines were contraindicated [see Clinical Studies (14.2)].
-Additional clinically significant adverse reactions, occurring in <10% of patients, are provided following Table 12.
-The requirement for dose reduction of paclitaxel were higher for patients in the Gemcitabine for Injection, USP/paclitaxel arm (5% versus 2%).
-The number of paclitaxel doses omitted (<1%), the proportion of patients discontinuing treatment for adverse reactions (7% versus 5%) and the number of treatment-related deaths (1 patient in each arm) were similar between the two arms.
-Table 11: Selected Adverse Reactions Occurring in Patients Receiving Gemcitabine with Paclitaxel and at Higher Incidence than in Patients Receiving Single Agent Paclitaxel [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 2a
-
-| Adverse Reactionsb | Gemcitabine for Injection, USP/Paclitaxel (N=262) |  |  | Paclitaxel (N=259) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
-| Alopecia | 90 | 14 | 4 | 92 | 19 | 3 |
-| Neuropathy-sensory | 64 | 5 | <1 | 58 | 3 | 0 |
-| Nausea | 50 | 1 | 0 | 31 | 2 | 0 |
-| Fatigue | 40 | 6 | <1 | 28 | 1 | <1 |
-| Vomiting | 29 | 2 | 0 | 15 | 2 | 0 |
-| Diarrhea | 20 | 3 | 0 | 13 | 2 | 0 |
-| Anorexia | 17 | 0 | 0 | 12 | <1 | 0 |
-| Neuropathy-motor | 15 | 2 | <1 | 10 | <1 | 0 |
-| Stomatitis/pharyngitis | 13 | 1 | <1 | 8 | <1 | 0 |
-| Fever | 13 | <1 | 0 | 3 | 0 | 0 |
-| Rash/desquamation Febrile neutropenia | 11 6 | <1 5 | <1 <1 | 5 2 | 0 1 | 0 0 |
-
-a Grade based on National Cancer Institute CTC Version 2.0. b Non-laboratory events were graded only if assessed to be possibly drug-related.
-Table 12: Selected Laboratory Abnormalities Occurring in >10% of Patients Receiving Gemcitabine with Paclitaxel and at a Higher Incidence than Patients Receiving Single Agent Paclitaxel [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 2a
-
-| Laboratory Abnormalityb | Gemcitabine for Injection, USP/ Paclitaxel (N=262) |  |  |  | Paclitaxel (N=259) |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) |  | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
-| Hematologic |  |  |  |  |  |  |  |
-| Anemia | 69 | 6 | 1 |  | 51 | 3 | <1 |
-| Neutropenia | 69 | 31 | 17 |  | 31 | 4 | 7 |
-| Thrombocytopenia | 26 | 5 | <1 |  | 7 | <1 | <1 |
-| Hepatobiliary |  |  |  |  |  |  |  |
-| Increased ALT | 18 | 5 | <1 |  | 6 | <1 | 0 |
-| Increased AST | 16 | 2 |  | 0 | 5 | <1 | 0 |
-
-a Grade based on National Cancer Institute CTC Version 2.0. b Regardless of causality.
-Clinically relevant Grade 3 or 4 dyspnea occurred with a higher incidence in the Gemcitabine for Injection, USP with paclitaxel arm compared with the paclitaxel arm (1.9% versus 0).
-
-Ovarian Cancer Tables 13 and 14 present the incidence of selected adverse reactions and laboratory abnormalities, occurring in ≥10% of Gemcitabine for Injection, USP-treated patients and at a higher incidence in the Gemcitabine for Injection, USP with carboplatin arm, reported in a randomized trial (Study 1) of Gemcitabine for Injection, USP with carboplatin (n=175) compared to carboplatin alone (n=174) for the second-line treatment of ovarian cancer in women with disease that had relapsed more than 6 months following first-line platinum-based chemotherapy [see Clinical Studies (14.1)].
-Additional clinically significant adverse reactions, occurring in <10% of patients, are provided following Table 14.
-The proportion of patients with dose adjustments for carboplatin (1.8% versus 3.8%), doses of carboplatin omitted (0.2% versus 0) and discontinuing treatment for adverse reactions (11% versus 10%), were similar between arms.
-Dose adjustment for Gemcitabine for Injection, USP occurred in 10% of patients and Gemcitabine for Injection, USP dose was omitted in 14% of patients in the Gemcitabine for Injection, USP/carboplatin arm.
-
-Table 13: Adverse Reactions Occurring in >10% of Patients Receiving in Gemcitabine with Carboplatin and at Higher Incidence than in Patients Receiving Single Agent Carboplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 1a
-
-| Adverse Reactionsb | Gemcitabine for Injection, USP/Carboplatin (N=175) |  |  | Carboplatin (N=174) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
-| Nausea | 69 | 6 | 0 | 61 | 3 | 0 |
-| Alopecia | 49 | 0 | 0 | 17 | 0 | 0 |
-| Vomiting | 46 | 6 | 0 | 36 | 2 | <1 |
-| Constipation | 42 | 6 | 1 | 37 | 3 | 0 |
-| Fatigue | 40 | 3 | <1 | 32 | 5 | 0 |
-| Diarrhea | 25 | 3 | 0 | 14 | <1 | 0 |
-| Stomatitis/pharyngitis | 22 | <1 | 0 | 13 | 0 | 0 |
-
-a Grade based on National Cancer Institute CTC Version 2.0. b Regardless of causality.
-
-Table 14: Laboratory Abnormalities Occurring in Patients Receiving Gemcitabine with Carboplatin and at Higher Incidence than in Patients Receiving Single Agent Carboplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)] in Study 1a
-
-| Laboratory Abnormalityb | Gemcitabine for Injection, USP/Carboplatin (N=175) |  |  | Carboplatin (N=174) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
-| Hematologic |  |  |  |  |  |  |
-| Neutropenia | 90 | 42 | 29 | 58 | 11 | 1 |
-| Anemia | 86 | 22 | 6 | 75 | 9 | 2 |
-| Thrombocytopenia | 78 | 30 | 5 | 57 | 10 | 1 |
-| RBC Transfusionsc | 38 | - | - | 15 | - | - |
-| Platelet Transfusionsc | 9 | - | - | 3 | - | - |
-
-a Grade based on National Cancer Institute CTC Version 2.0. b Regardless of causality. c Percent of patients receiving transfusions.
-Transfusions are not CTC-graded events.
-Blood transfusions included both packed red blood cells and whole blood.
-Hematopoietic growth factors were administered more frequently in the Gemcitabine for Injection, USP-containing arm: leukocyte growth factor (24% and 10%) and erythropoiesis-stimulating agent (7% and 3.9%).
-
-The following clinically relevant Grade 3 and 4 adverse reactions occurred more frequently in the Gemcitabine for Injection, USP with carboplatin arm: dyspnea (3.4% versus 2.9%), febrile neutropenia (1.1% versus 0), hemorrhagic event (2.3% versus 1.1%), motor neuropathy (1.1% versus 0.6%), and rash/desquamation (0.6% versus 0).
 
 ## 6.2 Postmarketing Experience
 
