@@ -1,13 +1,13 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Heparin Sodium and 0.9% Sodium Chloride Injection in VIAFLEX PLUS plastic container is supplied as follows:
+Heparin Sodium in Sodium Chloride Injection in VIAFLEX PLUS plastic container is supplied as follows:
 
-| Code | Size (mL) | NDC | Product Name |
+| Product Description | Size | Code | NDC |
 | --- | --- | --- | --- |
-| 2B0953 | 500 | 0338-0431-03 | 1000 USP Heparin Units and 0.9% Sodium Chloride Injection |
-| AHB0953U | 500 | 0338-0424-18 | 1000 USP Heparin Units and 0.9% Sodium Chloride Injection |
-| 2B0944 | 1000 | 0338-0433-04 | 2000 USP Heparin Units and 0.9% Sodium Chloride Injection |
+| 1,000 USP Heparin Units in Sodium Chloride Injection | 500 mL | 2B0953 | 0338-0431-03 |
+| 1,000 USP Heparin Units in Sodium Chloride Injection | 500 mL | AHB0953U | 0338-0424-18 |
+| 2,000 USP Heparin Units in Sodium Chloride Injection | 1,000 mL | 2B0944 | 0338-0433-04 |
 
-Exposure of pharmaceutical products to heat should be minimized.
+Store at 25°C (77°F).
+Brief exposure up to 40°C (104°F) does not adversely affect the product.
 Avoid excessive heat.
-It is recommended the product be stored at room temperature (25°C); brief exposure up to 40°C does not adversely affect the product.
