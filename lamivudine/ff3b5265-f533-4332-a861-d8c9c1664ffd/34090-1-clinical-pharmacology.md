@@ -166,12 +166,12 @@ Therefore, coadministration of drugs that are inhibitors of these efflux transpo
 
 Interferon Alfa:
 
-There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects [see WARNINGS AND PRECAUTIONS (5.3)].
+There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects.
 
 Ribavirin:
 
 In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n =10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see WARNINGS AND PRECAUTIONS (5.3)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n =10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects.
 
 Sorbitol (Excipient):
 

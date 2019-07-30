@@ -7,8 +7,6 @@ Patients with Hepatitis B or C Co-infection
 Inform patients co-infected with HIV-1 and HBV that deterioration of liver disease has occurred in some cases when treatment with lamivudine was discontinued.
 Advise patients to discuss any changes in regimen with their healthcare provider [see WARNINGS AND PRECAUTIONS (5.1)].
 
-Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see WARNINGS AND PRECAUTIONS (5.3)].
-
 Differences in Formulations of Lamivudine
 
 Advise patients that lamivudine tablets contain a higher dose of the same active ingredient (lamivudine) as EPIVIR-HBV tablets and oral solution.
@@ -21,11 +19,11 @@ Advise patients to stop taking lamivudine if they develop clinical symptoms sugg
 
 Risk of Pancreatitis
 
-Advise parents or guardians to monitor pediatric patients for signs and symptoms of pancreatitis [see WARNINGS AND PRECAUTIONS (5.4)].
+Advise parents or guardians to monitor pediatric patients for signs and symptoms of pancreatitis [see WARNINGS AND PRECAUTIONS (5.3)].
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when lamivudine tablet is started [see WARNINGS AND PRECAUTIONS (5.5)].
+Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when lamivudine tablet is started [see WARNINGS AND PRECAUTIONS (5.4)].
 
 Pregnancy Registry
 
@@ -58,4 +56,4 @@ Goa - 403722
 
 India
 
-Revised: July 2018 ID: 255610
+Revised: August 2019 ID: 260999

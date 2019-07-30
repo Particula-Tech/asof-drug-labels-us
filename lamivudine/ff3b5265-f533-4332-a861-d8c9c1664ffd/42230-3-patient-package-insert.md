@@ -21,9 +21,6 @@ Lamivudine tablets can cause serious side effects, including:
 
 - Resistant Hepatitis B Virus (HBV).
   If you have HIV-1 and hepatitis B, the hepatitis B virus can change (mutate) during your treatment with lamivudine tablets and become harder to treat (resistant).
-- Use with interferon and ribavirin-based regimens.
-  Worsening of liver disease that has caused death has happened in people infected with both HIV-1 and hepatitis C virus who are taking antiretroviral medicines and are also being treated for hepatitis C with interferon with or without ribavirin.
-  If you are taking lamivudine tablets and interferon with or without ribavirin, tell your healthcare provider if you have any new symptoms.
 
 What are lamivudine tablets?
 
@@ -145,7 +142,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lamivudine tablets?
 
-- Store lamivudine tablets at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store lamivudine tablets at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep lamivudine tablets and all medicines out of the reach of children.
 
@@ -190,4 +187,4 @@ Goa - 403722
 
 India
 
-Revised: July 2018 ID#: 255611
+Revised: August 2019 ID#: 261051
