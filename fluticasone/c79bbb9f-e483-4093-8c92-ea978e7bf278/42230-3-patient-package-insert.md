@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-| PATIENT INFORMATIONXHANCE™ (ex hans’)(fluticasone propionate) nasal spray, 93 mcg |  |
+| PATIENT INFORMATIONXHANCE® (ex hans’)(fluticasone propionate) nasal spray, 93 mcg |  |
 | --- | --- |
 | What is XHANCE?XHANCE is a prescription medicine used to treat nasal polyps in adults.It is not known if XHANCE is safe and effective in children. |  |
 | Do not use XHANCE if you are allergic to fluticasone propionate or any of the ingredients in XHANCE. See the end of this Patient Information leaflet for a complete list of ingredients in XHANCE. |  |
@@ -18,7 +18,7 @@
 | How should I store XHANCE? •Store XHANCE at room temperature between 59°F and 77°F (15°C and 25°C). •Protect XHANCE from light. •Throw away XHANCE after using 120 sprays after initial priming. Even though the bottle may not be completely empty, you may not get the correct dose of medicine if you continue to use it. Keep XHANCE and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of XHANCE.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use XHANCE for a condition for which it was not prescribed. Do not give your XHANCE to other people, even if they have the same symptoms that you have. It may harm them.You can ask your pharmacist or healthcare provider for information about XHANCE that is written for health professionals. |  |
 | What are the ingredients in XHANCE?Active ingredient: fluticasone propionateInactive ingredients: microcrystalline cellulose, carboxymethylcellulose sodium, dextrose, benzalkonium chloride, polysorbate 80, edetate disodium dihydrate, and purified water |  |
-| Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd, Yardley, PA 19067XHANCE and OPTINOSE are trademarks or registered trademarks of OptiNose AS©2017, OptiNose Companies US, Inc. All rights reserved.Patented. See www.xhance.com/patentsFor more information, go to www.XHANCE.com or call 1-833-678-6673. |  |
+| Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd, Yardley, PA 19067XHANCE and OPTINOSE are trademarks or registered trademarks of OptiNose AS©2019, OptiNose US, Inc. All rights reserved.Patented. See www.xhance.com/patentsFor more information, go to www.XHANCE.com or call 1-833-678-6673. |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 

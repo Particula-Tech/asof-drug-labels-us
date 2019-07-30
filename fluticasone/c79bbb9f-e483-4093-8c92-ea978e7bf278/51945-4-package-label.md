@@ -2,7 +2,7 @@
 
 NDC 71143-375-01
 
-XHANCE™ (fluticasone propionate) nasal spray 93 mcg
+XHANCE® (fluticasone propionate) nasal spray 93 mcg
 
 This carton contains: 1 Prefilled XHANCE unit (each spray contains 93 mcg fluticasone propionate)
 
@@ -12,11 +12,11 @@ Shake Before Each Use For Intranasal Use Only Rx ONLY
 
 NDC 71143-375-01
 
-XHANCE™ (fluticasone propionate) nasal spray 93 mcg
+XHANCE® (fluticasone propionate) nasal spray 93 mcg
 
 Please read instructions carefully before use.
 
-XHANCE™ (fluticasone propionate) nasal spray 93 mcg
+XHANCE® (fluticasone propionate) nasal spray 93 mcg
 
 For more information, please visit www.XHANCE.com or call 1.833.678.6673
 
@@ -36,6 +36,6 @@ Avoid exposure to extreme heat, cold or light.
 
 00371143375011
 
-LOT ###### EXP XXOOOX SERIAL #
+LOT ####### EXP XXXXXX SERIAL #
 
-2007379
+2008227

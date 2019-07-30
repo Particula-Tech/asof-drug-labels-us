@@ -80,6 +80,4 @@ Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd Yardley, PA 19067
 
 XHANCE and OPTINOSE are trademarks or registered trademarks of OptiNose AS
 
-©2017, OptiNose US, Inc. All rights reserved.
-
-September 2017
+©2019, OptiNose US, Inc. All rights reserved.
