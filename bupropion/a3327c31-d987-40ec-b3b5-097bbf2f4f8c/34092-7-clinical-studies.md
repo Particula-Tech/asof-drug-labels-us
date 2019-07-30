@@ -91,7 +91,7 @@ Postmarketing Neuropsychiatric Safety Outcome Trial
 
 ZYBAN was evaluated in a randomized, double-blind, active- and placebo-controlled trial that included subjects without a history of psychiatric disorder (non-psychiatric cohort, n = 3,912) and subjects with a history of psychiatric disorder (psychiatric cohort, n = 4003).
 Subjects aged 18 to 75 years, smoking 10 or more cigarettes per day were randomized 1:1:1:1 to ZYBAN 150 mg twice daily, varenicline 1 mg twice daily, nicotine replacement therapy patch (NRT) 21 mg per day with taper or placebo for a treatment period of 12 weeks; they were then followed for another 12 weeks post-treatment.
-[See Warnings and Precautions (5.1).]
+[See Warnings and Precautions (5.2).]
 
 A composite safety endpoint intended to capture clinically significant neuropsychiatric (NPS) adverse events including the following NPS adverse events: anxiety, depression, feeling abnormal, hostility, agitation, aggression, delusions, hallucinations, homicidal ideation, mania, panic, paranoia, psychosis, irritability, suicidal ideation, suicidal behavior, or completed suicide.
 
