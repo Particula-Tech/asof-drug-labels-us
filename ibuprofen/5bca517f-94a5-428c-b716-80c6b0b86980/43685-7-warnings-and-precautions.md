@@ -3,6 +3,7 @@
 ## Allergy alert
 
 Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin.
+
 Symptoms may include:
 
 - hives
@@ -18,6 +19,7 @@ If an allergic reaction occurs, stop use and seek medical help right away.
 ## Stomach bleeding warning
 
 This product contains an NSAID, which may cause severe stomach bleeding.
+
 The chance is higher if you:
 
 - are age 60 or older
