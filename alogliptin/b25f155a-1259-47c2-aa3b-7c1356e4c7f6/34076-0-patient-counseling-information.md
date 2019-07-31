@@ -34,4 +34,4 @@ If a dose is missed, advise patients not to double their next dose.
 Instruct patients to read the Medication Guide before starting alogliptin tablets therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
 
-ALO332 R4
+ALO332 R5
