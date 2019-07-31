@@ -117,7 +117,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Alogliptin
 
-Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.2, 5.4, 5.5, 5.8, 5.9)].
+Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, rhabdomyolysis, diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.2, 5.4, 5.5, 5.8, 5.9)].
 
 Metformin
 

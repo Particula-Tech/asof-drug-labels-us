@@ -36,4 +36,4 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 Instruct patients to read the Medication Guide before starting alogliptin and metformin HCl tablets therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
 
-ALK334 R5
+ALK334 R6
