@@ -8,7 +8,7 @@ Bleeding Advise patients that they:
 
 - will bruise and bleed more easily
 - will take longer than usual to stop bleeding
-- must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)].
+- must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)]
 
 Thrombotic Thrombocytopenic Purpura Instruct patients to get prompt medical attention if they experience symptoms of TTP that cannot otherwise be explained [see Warnings and Precautions (5.4)].
 
@@ -25,7 +25,7 @@ APOTEX INC. CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: October 2018
+Revised: June 2019
 
 Rev.
-25
+26

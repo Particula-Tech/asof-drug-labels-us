@@ -96,7 +96,7 @@ Especially tell your doctor if you take:
   Always talk to your doctor about whether you should take aspirin along with clopidogrel to treat your condition.
 - Non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
-- warfarin (Coumadin®, Jantoven®)
+- warfarin (Coumadin®, Jantoven®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 
@@ -143,6 +143,8 @@ Clopidogrel tablets can cause serious side effects including:
   - stomach area (abdominal) pain
   - nausea, vomiting, or diarrhea
   - vision changes
+
+- Persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -198,7 +200,7 @@ CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: October 2018
+Revised: June 2019
 
 Rev.
-25
+26

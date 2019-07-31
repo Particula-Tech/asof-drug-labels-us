@@ -21,11 +21,11 @@ Geriatric Patients
 
 Elderly (≥75 years) and young healthy subjects had similar effects on platelet aggregation.
 
-Renally-Impaired Patients
+Renally Impaired Patients
 
 After repeated doses of 75 mg clopidogrel per day, patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) and moderate renal impairment (creatinine clearance from 30 to 60 mL/min) showed low (25%) inhibition of ADP-induced platelet aggregation.
 
-Hepatically-Impaired Patients
+Hepatically Impaired Patients
 
 After repeated doses of 75 mg clopidogrel per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects.
 

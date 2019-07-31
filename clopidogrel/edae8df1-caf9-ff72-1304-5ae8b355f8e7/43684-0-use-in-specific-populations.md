@@ -51,7 +51,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Safety and effectiveness in pediatric populations have not been established.
 
 A randomized, placebo-controlled trial (CLARINET) did not demonstrate a clinical benefit of clopidogrel in neonates and infants with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt.
-Possible factors contributing to this outcome were the dose of clopidogrel, the concomitant administration of aspirin and the late initiation of therapy following shunt palliation.
+Possible factors contributing to this outcome were the dose of clopidogrel, the concomitant administration of aspirin, and the late initiation of therapy following shunt palliation.
 It cannot be ruled out that a trial with a different design would demonstrate a clinical benefit in this patient population.
 
 ## 8.5 Geriatric Use
