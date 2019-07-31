@@ -2,17 +2,18 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In an 18-month carcinogenicity study in CD-mice, salmeterol at oral doses of 1.4 mg/kg and above (approximately 20 times the MRHDID for adults and children based on comparison of the plasma AUCs) caused a dose-related increase in the incidence of smooth muscle hyperplasia, cystic glandular hyperplasia, leiomyomas of the uterus, and ovarian cysts.
-No tumors were seen at 0.2 mg/kg (approximately 3 times the MRHDID for adults and children based on comparison of the AUCs).
+In an 18-month carcinogenicity study in CD-mice, salmeterol at oral doses of 1,400 mcg/kg and above (approximately 20 times the MRHDID for adults and children based on comparison of the plasma AUCs) caused a dose-related increase in the incidence of smooth muscle hyperplasia, cystic glandular hyperplasia, leiomyomas of the uterus, and ovarian cysts.
+No tumors were seen at 200 mcg/kg (approximately 3 times the MRHDID for adults and children based on comparison of the AUCs).
 
-In a 24-month oral and inhalation carcinogenicity study in Sprague Dawley rats, salmeterol caused a dose-related increase in the incidence of mesovarian leiomyomas and ovarian cysts at doses of 0.68 mg/kg and above (approximately 55 and 25 times the MRHDID for adults and children, respectively, on a mg/m2 basis).
-No tumors were seen at 0.21 mg/kg (approximately 15 and 8 times the MRHDID for adults and children, respectively, on a mg/m2 basis).
+In a 24-month oral and inhalation carcinogenicity study in Sprague Dawley rats, salmeterol caused a dose-related increase in the incidence of mesovarian leiomyomas and ovarian cysts at doses of 680 mcg/kg and above (approximately 66 and 35 times the MRHDID for adults and children, respectively, on a mcg/m2 basis).
+No tumors were seen at 210 mcg/kg (approximately 20 and 10 times the MRHDID for adults and children, respectively, on a mcg/m2 basis).
 These findings in rodents are similar to those reported previously for other beta-adrenergic agonist drugs.
 The relevance of these findings to human use is unknown.
 
 Salmeterol produced no detectable or reproducible increases in microbial and mammalian gene mutation in vitro.
 No clastogenic activity occurred in vitro in human lymphocytes or in vivo in a rat micronucleus test.
-No effects on fertility were identified in rats treated with salmeterol at oral doses up to 2 mg/kg (approximately 160 times the MRHDID for adults on a mg/m2 basis).
+
+Fertility and reproductive performance were unaffected in male and female rats at oral doses up to 2,000 mcg/kg (approximately 195 times the MRHDID for adults on a mcg/m2 basis).
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

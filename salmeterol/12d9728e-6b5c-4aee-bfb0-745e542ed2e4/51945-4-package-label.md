@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0521-00
 
-Serevent® Diskus®
+Serevent Diskus
 
 (salmeterol xinafoate inhalation powder)
 
@@ -18,20 +18,20 @@ See prescribing information for dosing information.
 
 Rx only
 
-1 DISKUS® Inhalation Device Containing 1 Foil Strip of 60 Blisters
+1 DISKUS Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
 Made in Singapore
 
-©2017 the GSK group of companies
+©2019 GSK group of companies or its licensor.
 
-1. 10000000144242 Rev.
-   1/17
+1. 62000000035029 Rev.
+   2/19
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0520-00
 
-Serevent® Diskus®
+Serevent Diskus
 
 (salmeterol xinafoate inhalation powder)
 
@@ -49,11 +49,11 @@ See prescribing information for dosing information.
 
 Rx only
 
-1 DISKUS® Inhalation Device Containing 1 Foil Strip of 28 Blisters
+1 DISKUSInhalation Device Containing 1 Foil Strip of 28 Blisters
 
 Made in Singapore
 
-©2017 the GSK group of companies
+©2019 GSK group of companies or its licensor.
 
-1. 10000000144241 Rev.
-   1/17
+1. 62000000035014 Rev.
+   2/19

@@ -2,7 +2,7 @@
 
 ## 5.1 Asthma-Related Death
 
-LABA, such as salmeterol, the active ingredient in SEREVENT DISKUS, as monotherapy (without ICS)increase the risk of asthma-related death.
+LABA, such as salmeterol, the active ingredient in SEREVENT DISKUS, as monotherapy (without ICS) increase the risk of asthma-related death.
 When LABA are used in fixed‑dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
 
 Use of SEREVENT DISKUS for the treatment of asthma without concomitant use of an ICS is contraindicated.
@@ -11,7 +11,7 @@ Do not use SEREVENT DISKUS for patients whose asthma is adequately controlled on
 
 Pediatric and Adolescent Patients
 
-Available data from controlled clinical trials suggest that LABA as monotherapyincrease the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Available data from controlled clinical trials suggest that LABA as monotherapy increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 For pediatric and adolescent patients with asthma who require addition of a LABA to an ICS, a fixed-dose combination product containing both an ICS and a LABA should ordinarily be used to ensure adherence with both drugs.
 In cases where use of a separate ICS and a LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
 If adherence cannot be assured, a fixed-dose combination product containing both an ICS and a LABA is recommended.

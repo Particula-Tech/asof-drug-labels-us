@@ -10,7 +10,7 @@ Patients using SEREVENT DISKUS should not use additional LABA for any reason.
 
 LABA, such as salmeterol, the active ingredient in SEREVENT DISKUS, as monotherapy (without ICS) increase the risk of asthma-related death [see Warnings and Precautions (5.1)].
 
-Because of this risk, use of SEREVENT DISKUS for the treatment of asthma without concomitant use of an ICSis contraindicated.
+Because of this risk, use of SEREVENT DISKUS for the treatment of asthma without concomitant use of an ICS is contraindicated.
 Use SEREVENT DISKUS only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on an ICS.
 Do not use SEREVENT DISKUS for patients whose asthma is adequately controlled on low- or medium-dose ICS.
 
@@ -37,4 +37,4 @@ Patients who are receiving SEREVENT DISKUS twice daily should not use additional
 
 ## 2.3 Chronic Obstructive Pulmonary Disease
 
-For maintenance treatment of bronchospasm associated with COPD (including chronic bronchitis and emphysema), the dosage for adults is 1 inhalation (50 mcg) twice daily approximately 12 hours apart.
+For maintenance treatment of bronchospasm associated with COPD (including chronic bronchitis and emphysema), the dosage for adults is 1 inhalation (50 mcg) twice daily, approximately 12 hours apart.

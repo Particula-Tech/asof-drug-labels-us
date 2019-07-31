@@ -2,32 +2,59 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C. There are no adequate and well-controlled trials with SEREVENT DISKUS in pregnant women.
-Beta2-agonists have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Because animal reproduction studies are not always predictive of human response, SEREVENT DISKUS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking SEREVENT DISKUS.
+The available data from published epidemiological studies and case reports with use of SEREVENT DISKUS in pregnant women have not identified a drug‑associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+Beta‑agonists may interfere with uterine contractility.
+There are clinical considerations in pregnant women with asthma (see Clinical Considerations).
 
-No teratogenic effects occurred in rats at salmeterol doses approximately 160 times the maximum recommended human daily inhalation dose (MRHDID) (on a mg/m2 basis at maternal oral doses up to 2 mg/kg/day).
-In pregnant Dutch rabbits administered oral doses approximately 50 times the MRHDID (on an AUC basis at maternal oral doses of 1 mg/kg/day and higher), fetal toxic effects were observed characteristically resulting from beta-adrenoceptor stimulation.
-These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
-No such effects occurred at a salmeterol dose approximately 20 times the MRHDID (on an AUC basis at a maternal oral dose of 0.6 mg/kg/day).
+Oral administration of salmeterol to pregnant rabbits caused teratogenicity characteristic of beta‑adrenoceptor stimulation at maternal doses approximately 50 times the maximum recommended human daily inhaled dose (MRHDID) on an AUC basis.
+These adverse effects generally occurred at large multiples of the MRHDID when salmeterol was administered by the oral route to achieve high systemic exposures.
+No such effects occurred at an oral salmeterol dose approximately 20 times the MRHDID (see Data).
 
-New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at an oral dose approximately 1,600 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 10 mg/kg/day).
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Salmeterol crossed the placenta following oral administration to mice and rats.
+Clinical Considerations
 
-## 8.2 Labor and Delivery
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Severe asthma during pregnancy has been associated with maternal mortality, fetal mortality, or both.
+Pregnant women with asthma should be closely monitored and medication adjusted as necessary to maintain optimal asthma control.
 
-There are no well-controlled human trials that have investigated effects of salmeterol on preterm labor or labor at term.
+Labor and Delivery: There are no adequate and well-controlled human studies that have evaluated the effects of SEREVENT DISKUS during labor and delivery.
 Because of the potential for beta-agonist interference with uterine contractility, use of SEREVENT DISKUS during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
 
-## 8.3 Nursing Mothers
+Data
 
-Plasma levels of salmeterol after inhaled therapeutic doses are very low.
-In rats, salmeterol xinafoate is excreted in the milk.
-Since there are no data from controlled trials on the use of SEREVENT DISKUS by nursing mothers, caution should be exercised when SEREVENT DISKUS is administered to a nursing woman.
+Human Data: While available studies cannot definitively establish the absence of risk, published data from epidemiological studies and case reports have not established an association with SEREVENT DISKUS use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+The available studies have methodologic limitations, including retrospective data collection and inconsistent comparator groups.
+
+Animal Data: In 3 embryofetal development studies, pregnant rabbits received oral administration of salmeterol at doses ranging from 100 to 10,000 mcg/kg/day during the period of organogenesis.
+In pregnant Dutch rabbits administered salmeterol doses approximately 50 times the MRHDID (on an AUC basis at maternal oral doses of 1,000 mcg/kg/day and higher), fetal toxic effects were observed characteristically resulting from beta‑adrenoceptor stimulation.
+These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
+No such effects occurred at a salmeterol dose approximately 20 times the MRHDID (on an AUC basis at a maternal oral dose of 600 mcg/kg/day).
+New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at a salmeterol dose approximately 2,000 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 10,000 mcg/kg/day).
+
+In 2 embryofetal development studies, pregnant rats received salmeterol by oral administration at doses ranging from 100 to 10,000 mcg/kg/day during the period of organogenesis.
+Salmeterol produced no maternal toxicity or embryofetal effects at doses up to 973 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 10,000 mcg/kg/day).
+
+In a peri- and post-natal development study in pregnant rats dosed by the oral route from late gestation through delivery and lactation, salmeterol at a dose 973 times the MRHDID (on a mcg/m2 basis with a maternal oral dose of 10,000 mcg/kg/day) was fetotoxic and decreased the fertility of survivors.
+
+Salmeterol xinafoate crossed the placenta following oral administration to mice and rats.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of salmeterol in human milk, the effects on the breastfed child, or the effects on milk production.
+Salmeterol is detected in rat milk (see Data).
+Salmeterol concentrations in human plasma after inhaled therapeutic doses are low and therefore concentrations in human breast milk are likely to be low [see Clinical Pharmacology (12.3)].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for SEREVENT DISKUS and any potential adverse effects on the breastfed child from SEREVENT DISKUS or from the underlying maternal condition.
+
+Data
+
+Animal Data: Oral administration of salmeterol at a dose of 10,000 mcg/kg/day to lactating rats resulted in measurable levels in milk.
 
 ## 8.4 Pediatric Use
 
@@ -36,7 +63,7 @@ For pediatric and adolescent patients with asthma who require addition of a LABA
 
 The safety and efficacy of SEREVENT DISKUS in adolescents (aged 12 years and older) have been established based on adequate and well-controlled trials conducted in adults and adolescents [see Clinical Studies (14.1)].
 A large 28-week placebo-controlled U.S. trial comparing salmeterol (SEREVENT Inhalation Aerosol) and placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol [see Clinical Studies (14.1)].
-Post-hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
+Post hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
 Pediatric subjects accounted for approximately 12% of subjects in each treatment arm.
 Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).
 All-cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (less than 1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).

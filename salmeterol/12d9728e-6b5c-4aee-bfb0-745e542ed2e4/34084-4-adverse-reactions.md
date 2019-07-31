@@ -1,8 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-LABA, including salmeterol, the active ingredient in SEREVENT DISKUS, as monotherapy (without ICS)increase the risk of asthma-related death.
+LABA, including salmeterol, the active ingredient in SEREVENT DISKUS, as monotherapy (without ICS) increase the risk of asthma-related death.
 Data from a large 28-week placebo-controlled U.S. trial that compared the safety of salmeterol or placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol.
-Available data from controlled clinical trials suggest that LABA as monotherapyincrease the risk of asthma-related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1), Clinical Studies (14.1)].
+Available data from controlled clinical trials suggest that LABA as monotherapy increase the risk of asthma-related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1), Clinical Studies (14.1)].
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -28,8 +28,7 @@ Adverse Reactions with SEREVENT DISKUS with ≥3% Incidence and More Common than
 | Asthma | 3 | <1 | 1 |
 | Tracheitis/bronchitis | 7 | 3 | 4 |
 | Influenza | 5 | 5 | 2 |
-
-1. a Table 1 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
+| a Table 1 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group. |  |  |  |
 
 Pharyngitis, sinusitis, upper respiratory tract infection, and cough occurred at ≥3% but were more common in the placebo group.
 However, throat irritation has been described at rates exceeding that of placebo in other controlled clinical trials.
@@ -99,8 +98,7 @@ Adverse Reactions with SEREVENT DISKUS with ≥3% Incidence in U.S. Controlled C
 | Headache | 14 | 11 |
 | Dizziness | 4 | 2 |
 | Average duration of exposure (days) | 138.5 | 128.9 |
-
-aTable 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
+| a Table 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group. |  |  |
 
 Additional Adverse Reactions
 

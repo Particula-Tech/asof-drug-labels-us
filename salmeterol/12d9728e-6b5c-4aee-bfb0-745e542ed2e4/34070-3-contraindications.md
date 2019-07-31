@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Use of SEREVENT DISKUS for the treatment of asthma without concomitant use of an ICSis contraindicated [see Warnings and Precautions (5.1)].
+Use of SEREVENT DISKUS for the treatment of asthma without concomitant use of an ICS is contraindicated [see Warnings and Precautions (5.1)].
 
 The use of SEREVENT DISKUS is contraindicated in the following conditions:
 
