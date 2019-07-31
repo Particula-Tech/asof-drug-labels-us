@@ -7,7 +7,5 @@ The chemical name for bivalirudin trifluoroacetate is D-phenylalanyl-L-prolyl-L-
 The molecular weight of bivalirudin is 2180 daltons (anhydrous free base peptide).
 
 Bivalirudin for injection is supplied as a sterile white lyophilized cake, in single-dose vials.
-Each vial contains 250 mg bivalirudin, equivalent to an average of 275 mg of bivalirudin trifluoroacetate *, 125 mg mannitol, and sodium hydroxide to adjust the pH to 5 to 6 (equivalent of approximately 12.5 mg sodium).
-When reconstituted with Sterile Water for Injection, the product yields a clear to opalescent, colorless to slightly yellow solution, pH 5 to 6.
-
-*The range of bivalirudin trifluoroacetate is 270 mg to 280 mg based on a range of trifluoroacetic acid composition of 1.7 to 2.6 equivalents.
+Each vial contains 250 mg bivalirudin, equivalent to an average of 275 mg of bivalirudin trifluoroacetate*, 125 mg mannitol, and sodium hydroxide to adjust the pH to 5-6 (equivalent of approximately 12.5 mg sodium).
+When reconstituted with Sterile Water for Injection, the product yields a clear to opalescent, colorless to slightly yellow solution, pH 5-6. *The range of bivalirudin trifluoroacetate is 270 mg to 280 mg based on a range of trifluoroacetic acid composition of 1.7 to 2.6 equivalents.
