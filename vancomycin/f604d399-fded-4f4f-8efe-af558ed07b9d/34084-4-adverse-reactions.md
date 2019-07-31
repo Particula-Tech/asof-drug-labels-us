@@ -11,7 +11,8 @@ In studies of normal volunteers, infusion-related events did not occur when vanc
 Nephrotoxicity Systemic vancomycin exposure may result in acute kidney injury (AKI).
 The risk of AKI increases as systemic exposure/serum levels increase.
 Additional risk factors for AKI in patients receiving vancomycin include receipt of concomitant drugs known to be nephrotoxic, in patients with pre-existing renal impairment, or with co-morbidities that predispose to renal impairment.
-Interstitial nephritis has also been reported in patients receiving vancomycin.Gastrointestinal
+Interstitial nephritis has also been reported in patients receiving vancomycin.
+Gastrointestinal
 
 Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS).
 
@@ -27,7 +28,7 @@ Reversible neutropenia, usually starting 1 week or more after onset of therapy w
 
 Neutropenia appears to be promptly reversible when vancomycin is discontinued.
 Thrombocytopenia has rarely been reported.
-Although a causal relationship has not been established, reversible agranulocytosis (granulocytes <500/mm3) has been reported rarely.
+Although a causal relationship has not been established, reversible agranulocytosis (granulocytes <500/mm 3) has been reported rarely.
 
 Phlebitis
 

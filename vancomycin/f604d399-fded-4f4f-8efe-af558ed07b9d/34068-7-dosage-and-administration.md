@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION:
 
 Infusion-related events are related to both the concentration and the rate of administration of vancomycin.
-Concentrations of no more than 5 mg/mL and rates of no more than 10 mg/min, are recommended in adults (see also age-specific recommendations).
+Concentrations of no more than 5 mg/mL and rates of no more than 10 mg/min are recommended in adults (see also age-specific recommendations).
 In selected patients in need of fluid restriction, a concentration up to 10 mg/mL may be used; use of such higher concentrations may increase the risk of infusion-related events.
 An infusion rate of 10 mg/min or less is associated with fewer infusion-related events (see ADVERSE REACTIONS).
 Infusion-related events may occur, however, at any rate or concentration.
@@ -11,7 +11,7 @@ Patients with Normal Renal Function
 Adults
 
 The usual daily intravenous dose is 2 g divided either as 500 mg every six hours or 1 g every 12 hours.
-Each dose should be administered at no more than 10 mg/min or over a period of at least 60 minutes, whichever is longer.
+Each dose should be administered at no more than 10 mg/min, or over a period of at least 60 minutes, whichever is longer.
 Other patient factors, such as age or obesity, may call for modification of the usual intravenous daily dose.
 
 Pediatric Patients
@@ -40,7 +40,7 @@ The dosage of vancomycin hydrochloride for injection per day in mg is about 15 t
 
 | DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION |  |
 | --- | --- |
-| (Adapted from Moellering et al.4) |  |
+| (Adapted from Moellering et al.1) |  |
 | Creatinine Clearance mL/min | Vancomycin Dose mg/24 hr |
 | 100 | 1,545 |
 | 90 | 1,390 |
@@ -87,11 +87,11 @@ Lactated Ringer’s Injection, USP
 
 5% Dextrose and Lactated Ringer’s Injection, USP
 
-Normosol®-M and 5% Dextrose Injection, USP
+Normosol ®-M and 5% Dextrose Injection, USP
 
 0.9% Sodium Chloride Injection, USP
 
-Isolyte® E
+Isolyte ® E
 
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
@@ -125,9 +125,9 @@ Lactated Ringer’s Injection, USP
 
 Lactated Ringer’s and 5% Dextrose Injection, USP
 
-Normosol®-M and 5% Dextrose Injection, USP
+Normosol ®-M and 5% Dextrose Injection, USP
 
-Isolyte® E
+Isolyte ® E
 
 Acetated Ringer’s Injection
 

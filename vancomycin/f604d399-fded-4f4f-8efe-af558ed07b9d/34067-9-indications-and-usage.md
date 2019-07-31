@@ -7,7 +7,7 @@ Vancomycin hydrochloride for injection, USP is effective in the treatment of sta
 Its effectiveness has been documented in other infections due to staphylococci, including septicemia, bone infections, lower respiratory tract infections, and skin and skin-structure infections.
 When staphylococcal infections are localized and purulent, antibiotics are used as adjuncts to appropriate surgical measures.
 Vancomycin hydrochloride for injection, USP has been reported to be effective alone or in combination with an aminoglycoside for endocarditis caused by S. viridans or S. bovis.
-For endocarditis caused by enterococci (e.g.,E. faecalis),vancomycin hydrochloride for injection, USP has been reported to be effective only in combination with an aminoglycoside.
+For endocarditis caused by enterococci (e.g., E. faecalis), vancomycin hydrochloride for injection, USP has been reported to be effective only in combination with an aminoglycoside.
 Vancomycin hydrochloride for injection, USP has been reported to be effective for the treatment of diphtheroid endocarditis.
 Vancomycin hydrochloride for injection, USP has been used successfully in combination with either rifampin, an aminoglycoside, or both in early-onset prosthetic valve endocarditis caused by S. epidermidis or diphtheroids.
 Specimens for bacteriologic cultures should be obtained in order to isolate and identify causative organisms and to determine their susceptibilities to vancomycin.

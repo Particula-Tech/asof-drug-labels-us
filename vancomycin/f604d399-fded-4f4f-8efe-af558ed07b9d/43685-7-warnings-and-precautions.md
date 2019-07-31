@@ -3,6 +3,8 @@
 Infusion Reactions
 
 Rapid bolus administration (e.g., over several minutes) may be associated with exaggerated hypotension, including shock and rarely cardiac arrest.
+Vancomycin hydrochloride for injection should be administered in a diluted solution over a period of not less than 60 minutes to avoid rapid-infusion-related reactions.
+Stopping the infusion usually results in prompt cessation of these reactions.
 
 Nephrotoxicity
 
@@ -14,10 +16,10 @@ Ototoxicity
 
 Ototoxicity has occurred in patients receiving vancomycin hydrochloride for injection.
 It may be transient or permanent.
-It has been reported mostly in patients who have been given excessive doses, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent, such as an aminoglycoside.
+It has been reported mostly in patients who have been given excessive doses, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent such as an aminoglycoside.
 Vancomycin should be used with caution in patients with renal insufficiency because the risk of toxicity is appreciably increased by high, prolonged blood concentrations.
 Dosage of vancomycin hydrochloride for injection must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
-Clostridium Difficile Associated Diarrhea (CDAD) Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin hydrochloride for injection and may range in severity from mild diarrhea to fatal colitis.
+Clostridium Difficile Associated Diarrhea (CDAD) Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin hydrochloride for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -58,11 +60,11 @@ Prescribing vancomycin hydrochloride for injection in the absence of a proven or
 ## Drug Interactions
 
 Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing (see PRECAUTIONS, Pediatric Use) and anaphylactoid reactions (see ADVERSE REACTIONS).
-Monitor renal function in patients receiving vancomycin and concurrent and/or sequential systemic or topical use of other potentially, neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymyxin B, colistin, viomycin, or cisplatin.
+Monitor renal function in patients receiving vancomycin and concurrent and/or sequential systemic or topical use of other potentially neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymyxin B, colistin, viomycin, or cisplatin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Although no long-term studies in animals have been performed to evaluate carcinogenic potential, no mutagenic potential of vancomycin hydrochloride for injection was found in standard laboratory tests.
+Although no long-term studies in animals have been performed to evaluate carcinogenic potential, no mutagenic potential of vancomycin was found in standard laboratory tests.
 No definitive fertility studies have been performed.
 
 ## Pregnancy
@@ -82,7 +84,7 @@ Vancomycin should be given to a pregnant woman only if clearly needed.
 
 Vancomycin hydrochloride for injection is excreted in human milk.
 Caution should be exercised when vancomycin hydrochloride for injection is administered to a nursing woman.
-Because of the potential for adverse events, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for adverse events, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
