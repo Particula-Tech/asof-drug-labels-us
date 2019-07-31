@@ -25,17 +25,21 @@ Mesalamine-induced nephrotoxicity should be suspected in patients developing ren
 
 ## Interference with Laboratory Tests
 
-Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection, because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetylaminosalicylic acid (N-Ac-5-ASA).
-An alternative, selective assay for normetanephrine should be considered.
+Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
+Consider an alternative, selective assay for normetanephrine.
 
 ## Drug Interactions
 
-There are no data on interactions between PENTASA and other drugs.
+No investigations of interactions between PENTASA and other drugs have been performed; however, the following drug-drug interactions have been reported for products containing mesalamine:
+
+The concurrent use of mesalamine with known nephrotoxic agents, including non-steroidal anti-inflammatory drugs (NSAIDs), may increase the risk of renal reactions.
+
+The concurrent use of mesalamine with azathioprine or 6-mercaptopurine and/or any other drugs known to cause myelotoxicity may increase the risk for blood disorders, bone marrow failure, and associated complications.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 104-week dietary carcinogenicity study of mesalamine, CD-1 mice were treated with doses up to 2500 mg/kg/day and it was not tumorigenic.
-For a 50 kg person of average height (1.46 m2 body surface area), this represents 2.5 times the recommended human dose on a body surface area basis (2960 mg/m2/day).
+For a 50-kg person of average height (1.46 m2 body surface area), this represents 2.5 times the recommended human dose on a body surface area basis (2960 mg/m2/day).
 In a 104-week dietary carcinogenicity study in Wistar rats, mesalamine up to a dose of 800 mg/kg/day was not tumorigenic.
 This dose represents 1.5 times the recommended human dose on a body surface area basis.
 

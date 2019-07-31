@@ -6,8 +6,7 @@ There is no clinical experience with PENTASA overdosage.
 PENTASA is an aminosalicylate, and symptoms of salicylate toxicity may be possible, such as: tinnitus, vertigo, headache, confusion, drowsiness, sweating, hyperventilation, vomiting, and diarrhea.
 Severe intoxication with salicylates can lead to disruption of electrolyte balance and blood-pH, hyperthermia, and dehydration.
 
-Treatment of Overdosage.
-Since PENTASA is an aminosalicylate, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage.
+Treatment of Overdosage: Since PENTASA is an aminosalicylate, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage.
 This includes prevention of further gastrointestinal tract absorption by emesis and, if necessary, by gastric lavage.
 Fluid and electrolyte imbalance should be corrected by the administration of appropriate intravenous therapy.
 Adequate renal function should be maintained.

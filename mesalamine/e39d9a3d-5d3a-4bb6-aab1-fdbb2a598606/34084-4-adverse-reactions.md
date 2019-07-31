@@ -2,9 +2,9 @@
 
 In combined domestic and foreign clinical trials, more than 2100 patients with ulcerative colitis or Crohn's disease received PENTASA therapy.
 Generally, PENTASA therapy was well tolerated.
-The most common events (ie, greater than or equal to 1%) were diarrhea (3.4%), headache (2.0%), nausea (1.8%), abdominal pain (1.7%), dyspepsia (1.6%), vomiting (1.5%), and rash (1.0%).
+The most common events (i.e., greater than or equal to 1%) were diarrhea (3.4%), headache (2.0%), nausea (1.8%), abdominal pain (1.7%), dyspepsia (1.6%), vomiting (1.5%), and rash (1.0%).
 
-In two domestic placebo-controlled trials involving over 600 ulcerative colitis patients, adverse events were fewer in PENTASA (mesalamine)-treated patients than in the placebo group (PENTASA 14% vs placebo 18%) and were not dose-related.
+In two domestic placebo-controlled trials involving over 600 patients with ulcerative colitis, adverse events were fewer in PENTASA (mesalamine)-treated patients than in the placebo group (PENTASA 14% vs placebo 18%) and were not dose-related.
 Events occurring in more than 1% are shown in the table below.
 Of these, only nausea and vomiting were more frequent in the PENTASA group.
 Withdrawal from therapy due to adverse events was more common on placebo than PENTASA (7% vs 4%).
@@ -16,7 +16,7 @@ Withdrawal from therapy due to adverse events was more common on placebo than PE
 
 Clinical laboratory measurements showed no significant abnormal trends for any test, including measurement of hematological, liver, and kidney function.
 
-The following adverse events, presented by body system, were reported infrequently (ie, less than 1%) during domestic ulcerative colitis and Crohn's disease trials.
+The following adverse events, presented by body system, were reported infrequently (i.e., less than 1%) during domestic ulcerative colitis and Crohn's disease trials.
 In many cases, the relationship to PENTASA has not been established.
 
 Gastrointestinal: abdominal distention, anorexia, constipation, duodenal ulcer, dysphagia, eructation, esophageal ulcer, fecal incontinence, GGTP increase, GI bleeding, increased alkaline phosphatase, LDH increase, mouth ulcer, oral moniliasis, pancreatitis, rectal bleeding, SGOT increase, SGPT increase, stool abnormalities (color or texture change), thirst
@@ -45,4 +45,4 @@ Gastrointestinal: Reports of hepatotoxicity, including elevated liver enzymes (S
 Some of these cases were fatal.
 One case of Kawasaki-like syndrome which included hepatic function changes was also reported.
 
-Other: Postmarketing reports of anaphylactic reaction, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), pneumonitis, granulocytopenia, systemic lupus erythematosus, lupus-like syndrome, acute renal failure, interstitial lung disease, Hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), chronic renal failure, nephrogenic diabetes insipidus, intracranial hypertension, angioedema and oligospermia (reversible) have been received in patients taking PENTASA.
+Other: Postmarketing reports of anaphylactic reaction, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), pneumonitis, granulocytopenia, systemic lupus erythematosus, lupus-like syndrome, acute renal failure, interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), chronic renal failure, nephrogenic diabetes insipidus, intracranial hypertension, angioedema and oligospermia (reversible) have been received in patients taking PENTASA.
