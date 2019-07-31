@@ -35,11 +35,10 @@ An analysis of all PCP events (intent-to-treat analysis) for both trials showed 
 
 ## 14.2 Treatment of PCP
 
-The indication for treatment of mild-to-moderate PCP is based on the results of 2 efficacy trials: a randomized, double-blind trial comparing MEPRON tablets with TMP-SMX in subjects with HIV/AIDS and mild-to-moderate PCP (defined in the protocol as [(A-a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing MEPRON tablets with IV pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+The indication for treatment of mild‑to‑moderate PCP is based on the results of 2 efficacy trials: a randomized, double‑blind trial comparing MEPRON tablets with TMP‑SMX in subjects with HIV/AIDS and mild‑to‑moderate PCP (defined in the protocol as [(A‑a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing MEPRON tablets with IV pentamidine isethionate in subjects with mild‑to‑moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 Both trials were conducted with the tablet formulation using 750 mg 3 times daily.
-Results from these efficacy trials established a relationship between plasma atovaquone concentration and successful outcome.
-Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
-Comparative pharmacokinetic trials of the oral suspension and tablet formulations established the currently recommended oral suspension dose of 750 mg twice daily [see Clinical Pharmacology (12.3)].
+Results from these efficacy trials established a relationship between plasma atovaquone concentrations and successful outcome.
+Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (12.2)].
 
 TMP-SMX Comparative Trial
 
