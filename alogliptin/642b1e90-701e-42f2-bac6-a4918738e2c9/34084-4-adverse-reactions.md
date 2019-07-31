@@ -238,7 +238,7 @@ Alogliptin
 The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, diarrhea, constipation, nausea and ileus [see Warnings and Precautions (5.2, 5.3, 5.4, 5.10, 5.11)].
+Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, rhabdomyolysis, diarrhea, constipation, nausea and ileus [see Warnings and Precautions (5.2, 5.3, 5.4, 5.10, 5.11)].
 
 Pioglitazone
 
