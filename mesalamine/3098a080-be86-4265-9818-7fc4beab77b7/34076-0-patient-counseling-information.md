@@ -9,7 +9,6 @@
   - have a history of myocarditis or pericarditis;
   - have kidney or liver disease;
   - have a history of stomach blockage;
-  - are pregnant, intend to become pregnant or are breast-feeding.
   - have increased sensitivity of the skin to sun and ultraviolet light
 - Patients should be instructed to swallow LIALDA delayed-release tablets whole, taking care not to break the outer coating.
 
@@ -18,4 +17,4 @@ By license of Nogra Pharma Limited, Dublin, Ireland.
 
 U.S. Patent No. 6,773,720.
 
-© 2018 Shire US Inc.
+© 2019 Takeda Pharmaceutical Company Limited

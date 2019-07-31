@@ -7,8 +7,7 @@ Renal impairment, including minimal change nephropathy, acute and chronic inters
 It is recommended that patients have an evaluation of renal function prior to initiation of LIALDA therapy and periodically while on therapy.
 Exercise caution when using LIALDA in patients with known renal dysfunction or a history of renal disease.
 
-In animal studies, the kidney was the principal organ for toxicity.
-[See Drug Interactions (7.1) and Nonclinical Toxicology (13.2)]
+In animal studies, the kidney was the principal organ for toxicity [See Drug Interactions (7.1) and Nonclinical Toxicology (13.2.].
 
 ## 5.2 Mesalamine-Induced Acute Intolerance Syndrome
 
@@ -23,16 +22,16 @@ If acute intolerance syndrome is suspected, promptly discontinue treatment with 
 Some patients who have experienced a hypersensitivity reaction to sulfasalazine may have a similar reaction to LIALDA tablets or to other compounds that contain or are converted to mesalamine.
 
 Mesalamine-induced cardiac hypersensitivity reactions (myocarditis and pericarditis) have been reported with LIALDA and other mesalamine medications.
-Caution should be taken in prescribing this medicine to patients with conditions predisposing them to the development of myocarditis or pericarditis.
+Take caution in prescribing this medicine to patients with conditions predisposing them to the development of myocarditis or pericarditis.
 
 ## 5.4 Hepatic Impairment
 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine.
-Caution should be exercised when administering LIALDA to patients with liver disease.
+Exercise caution when administering LIALDA to patients with liver disease.
 
 ## 5.5 Upper GI Tract Obstruction
 
-Pyloric stenosis or other organic or functional obstruction in the upper gastrointestinal tract may cause prolonged gastric retention of LIALDA which would delay mesalamine release in the colon.
+Pyloric stenosis or other organic or functional obstruction in the upper gastrointestinal tract may cause prolonged gastric retention of LIALDA, which would delay mesalamine release in the colon.
 
 ## 5.6 Photosensitivity
 
@@ -40,5 +39,5 @@ Patients with pre-existing skin conditions such as atopic dermatitis and atopic 
 
 ## 5.7 Interference with Laboratory Tests
 
-Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetylaminosalicylic acid (N-Ac-5-ASA).
-An alternative, selective assay for normetanephrine should be considered.
+Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
+Consider an alternative, selective assay for normetanephrine.
