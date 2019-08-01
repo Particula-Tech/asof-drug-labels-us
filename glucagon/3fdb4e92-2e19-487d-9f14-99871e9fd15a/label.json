@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA210134"
+  ],
+  "inn": "glucagon",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-6145-01",
+    "0002-6145-11",
+    "0002-6145-27"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "glucagon",
+      "name": "Baqsimi"
+    }
+  ],
+  "setid": "3fdb4e92-2e19-487d-9f14-99871e9fd15a",
+  "source": "dailymed"
+}
