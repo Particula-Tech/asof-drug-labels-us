@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "NDA212516"
+  ],
+  "inn": "duloxetine",
+  "labeler": "SUN PHARMACEUTICAL INDUSTRIES, INC.",
+  "package_ndcs": [
+    "47335-616-10",
+    "47335-616-30",
+    "47335-616-60",
+    "47335-616-90",
+    "47335-617-10",
+    "47335-617-30",
+    "47335-617-60",
+    "47335-617-90",
+    "47335-618-10",
+    "47335-618-30",
+    "47335-618-60",
+    "47335-618-90",
+    "47335-619-10",
+    "47335-619-30",
+    "47335-619-60",
+    "47335-619-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "duloxetine",
+      "name": "Duloxetine"
+    }
+  ],
+  "setid": "b41423b8-dfec-4d79-ba3c-e43a87803d85",
+  "source": "dailymed"
+}
