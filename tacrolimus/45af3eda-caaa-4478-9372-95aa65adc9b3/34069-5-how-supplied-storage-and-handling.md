@@ -32,6 +32,6 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Tacrolimus can cause fetal harm.
 Tacrolimus capsules should not be opened or crushed.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in tacrolimus capsules.
-If such contact occurs wash the skin thoroughly with soap and water; if ocular contact occurs, rinse eyes with water.
+If such contact occurs, wash the skin thoroughly with soap and water; if ocular contact occurs, rinse eyes with water.
 In case a spill occurs, wipe the surface with a wet paper towel.
 Follow applicable special handling and disposal procedures1.
