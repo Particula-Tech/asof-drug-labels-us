@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "ANDA076684"
+    "ANDA076684",
+    "ANDA208600"
   ],
   "inn": "enoxaparin",
   "labeler": "Amphastar Pharmaceuticals, Inc.",
@@ -11,7 +12,8 @@
     "0548-5604-00",
     "0548-5605-00",
     "0548-5606-00",
-    "0548-5607-00"
+    "0548-5607-00",
+    "0548-5608-00"
   ],
   "products": [
     {

@@ -1,12 +1,11 @@
 # 10 OVERDOSAGE
 
-Accidental overdosage following administration of enoxaparin sodium injection may lead to hemorrhagic complications.
-Injected enoxaparin sodium injection may be largely neutralized by the slow IV injection of protamine sulfate (1% solution).
-The dose of protamine sulfate should be equal to the dose of enoxaparin sodium injection injected: 1 mg protamine sulfate should be administered to neutralize 1 mg enoxaparin sodium injection, if enoxaparin sodium was administered in the previous 8 hours.
-An infusion of 0.5 mg protamine per 1 mg of enoxaparin sodium may be administered if enoxaparin sodium was administered greater than 8 hours previous to the protamine administration, or if it has been determined that a second dose of protamine is required.
-The second infusion of 0.5 mg protamine sulfate per 1 mg of enoxaparin sodium injection may be administered if the aPTT measured 2 to 4 hours after the first infusion remains prolonged.
-
-If at least 12 hours have elapsed since the last enoxaparin sodium injection, protamine administration may not be required; however, even with higher doses of protamine, the aPTT may remain more prolonged than following administration of heparin.
+Accidental overdosage following administration of Enoxaparin Sodium Injection may lead to hemorrhagic complications.
+Injected Enoxaparin Sodium Injection may be largely neutralized by the slow intravenous injection of protamine sulfate (1% solution).
+The dose of protamine sulfate should be equal to the dose of Enoxaparin Sodium Injection injected: 1 mg protamine sulfate should be administered to neutralize 1 mg Enoxaparin Sodium Injection, if Enoxaparin Sodium Injection was administered in the previous 8 hours.
+An infusion of 0.5 mg protamine per 1 mg of Enoxaparin Sodium Injection may be administered if Enoxaparin Sodium Injection was administered greater than 8 hours previous to the protamine administration, or if it has been determined that a second dose of protamine is required.
+The second infusion of 0.5 mg protamine sulfate per 1 mg of Enoxaparin Sodium Injection may be administered if the aPTT measured 2 to 4 hours after the first infusion remains prolonged.
+If at least 12 hours have elapsed since the last Enoxaparin Sodium Injection, protamine administration may not be required; however, even with higher doses of protamine, the aPTT may remain more prolonged than following administration of heparin.
 In all cases, the anti-Factor Xa activity is never completely neutralized (maximum about 60%).
 Particular care should be taken to avoid overdosage with protamine sulfate.
 Administration of protamine sulfate can cause severe hypotensive and anaphylactoid reactions.
