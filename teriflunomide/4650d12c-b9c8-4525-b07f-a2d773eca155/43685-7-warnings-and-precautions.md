@@ -27,12 +27,20 @@ Monitor serum transaminase and bilirubin on AUBAGIO therapy, particularly in pat
 If liver injury is suspected to be AUBAGIO-induced, discontinue AUBAGIO and start an accelerated elimination procedure [see Warnings and Precautions (5.3)] and monitor liver tests weekly until normalized.
 If AUBAGIO-induced liver injury is unlikely because some other probable cause has been found, resumption of AUBAGIO therapy may be considered.
 
-## 5.2 Teratogenicity
+## 5.2 Embryofetal Toxicity
 
 AUBAGIO may cause fetal harm when administered to a pregnant woman.
-Teratogenicity and embryo-fetal lethality occurred in animal reproduction studies in multiple animal species at plasma teriflunomide exposures similar to or lower than that in humans at the maximum human recommended dose (MHRD) of 14 mg/day [see Use in Specific Populations (8.1)].
+Teratogenicity and embryofetal lethality occurred in animal reproduction studies in multiple animal species at plasma teriflunomide exposures similar to or lower than that in humans at the maximum recommended human dose (MRHD) of 14 mg/day [see Use in Specific Populations (8.1)].
 
-AUBAGIO is contraindicated for use in pregnant women and females of reproductive potential not using effective contraception [see Contraindications (4) and Warnings and Precautions (5.3)].
+AUBAGIO is contraindicated for use in pregnant women and in females of reproductive potential not using effective contraception [see Contraindications (4)].
+Exclude pregnancy before starting treatment with AUBAGIO in females of reproductive potential [see Dosage and Administration (2)].
+Advise females of reproductive potential to use effective contraception during AUBAGIO treatment and during an accelerated drug elimination procedure after AUBAGIO treatment [see Use in Specific Populations (8.3)].
+If a woman becomes pregnant while taking AUBAGIO, stop treatment with AUBAGIO, apprise the patient of the potential risk to a fetus, and perform an accelerated drug elimination procedure to achieve a plasma teriflunomide concentration of less than 0.02 mg/L [see Warnings and Precautions (5.3)].
+
+Upon discontinuing AUBAGIO, it is recommended that all females of reproductive potential undergo an accelerated drug elimination procedure.
+Women receiving AUBAGIO treatment who wish to become pregnant must discontinue AUBAGIO and undergo an accelerated drug elimination procedure, which includes verification that plasma concentrations of teriflunomide are less than 0.02 mg/L (0.02 mcg/mL).
+Men wishing to father a child should also discontinue use of AUBAGIO and either undergo an accelerated elimination procedure or wait until verification that the plasma teriflunomide concentration is less than 0.02 mg/L (0.02 mcg/ml) [see Use in Specific Population (8.3)].
+Based on animal data, human plasma concentrations of teriflunomide of less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal embryofetal risk [see Contraindications (4), Warnings and Precautions (5.3), and Use in Specific Populations (8.1)].
 
 ## 5.3 Procedure for Accelerated Elimination of Teriflunomide
 
@@ -77,7 +85,7 @@ Medications like AUBAGIO that have immunosuppression potential may cause patient
 In placebo-controlled studies of AUBAGIO, no overall increase in the risk of serious infections was observed with AUBAGIO 7 mg (2.2%) or 14 mg (2.7%) compared to placebo (2.2%).
 
 However, one fatal case of klebsiella pneumonia sepsis occurred in a patient taking AUBAGIO 14 mg for 1.7 years.
-Fatal infections have been reported in the postmarketing setting in patients receiving leflunomide, especially Pneumocystis jiroveci pneumonia and aspergillosis.
+Fatal infections have been reported in the postmarketing setting in patients receiving leflunomide, especially Pneumocystis jirovecii pneumonia and aspergillosis.
 Most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to rheumatoid disease, may predispose patients to infection.
 In clinical studies with AUBAGIO, cytomegalovirus hepatitis reactivation has been observed.
 

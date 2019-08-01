@@ -9,12 +9,12 @@ Hepatotoxicity
 Inform patients that AUBAGIO may increase liver enzymes and that their liver enzymes will be checked before starting AUBAGIO and for at least 6 months while they are taking AUBAGIO.
 Advise patients that they should contact their physician if they have any unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
 
-Importance of Preventing Pregnancy
+Embryofetal Toxicity
 
-- Inform patients that based on animal studies, AUBAGIO may cause fetal harm.
-- Advise females of reproductive potential of the need for effective contraception during AUBAGIO treatment and until completion of an accelerated elimination procedure.
-  Advise them that an accelerated elimination procedure can be used at any time after the discontinuation of AUBAGIO.
-- Instruct the patient that if she suspects or confirms pregnancy, she should immediately inform her physician.
+- Advise females of reproductive potential
+  - of the potential for fetal harm if AUBAGIO is taken during pregnancy.
+  - to notify their healthcare provider immediately if a pregnancy occurs or is suspected.
+  - to use effective contraception during treatment with AUBAGIO and until the teriflunomide plasma concentration is verified to be less than 0.02 mg/L [see Warnings and Precautions (5.2, 5.3), Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.3)].
 - Instruct men taking AUBAGIO and not wishing to father a child to use effective contraception to minimize any possible risk to the fetus; their female partners should also use effective contraception.
 - Advise men wishing to father a child to discontinue use of AUBAGIO and undergo an accelerated elimination procedure.
 
@@ -50,6 +50,4 @@ Inform patients that AUBAGIO may increase blood pressure.
 
 Lactation
 
-Inform patients that it is not known whether this drug is present in human milk.
-Advise patients, if they are considering breastfeeding, to discuss this with their healthcare provider to decide if they will take AUBAGIO or breastfeed.
-Advise patients that they should not do both.
+Advise females not to breastfeed during treatment with AUBAGIO [see Use in Specific Populations (8.2)].

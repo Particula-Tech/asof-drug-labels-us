@@ -30,13 +30,13 @@ Table 2: Clinical and MRI Results of Study 1
 |  | AUBAGIO 7 mg N=365 | AUBAGIO 14 mg N=358 | Placebo N=363 |
 | --- | --- | --- | --- |
 | Clinical Endpoints |  |  |  |
-| Annualized relapse rate | 0.370 (p = 0.0002) | 0.369 (p = 0.0005) | 0.539 |
+| Annualized relapse rate | 0.370 (p=0.0002) | 0.369 (p=0.0005) | 0.539 |
 | Relative risk reduction | 31% | 31% |  |
 | Percent of patients remaining relapse-free at week 108 | 53.7% | 56.5% | 45.6% |
-| Percent disability progression at week 108 | 21.7% (p = 0.084) | 20.2% (p = 0.028) | 27.3% |
+| Percent disability progression at week 108 | 21.7% (p=0.084) | 20.2% (p=0.028) | 27.3% |
 | Hazard ratio | 0.76 | 0.70 |  |
 | MRI Endpoints |  |  |  |
-| Median change from baseline in Total lesion volumeTotal lesion volume: sum of T2 and hypointense T1 lesion volume in mL (mL) at week 108 | 0.755 (p = 0.0317)p-values based on cubic root transformed data for total lesion volume | 0.345 (p = 0.0003) | 1.127 |
+| Median change from baseline in Total lesion volumeTotal lesion volume: sum of T2 and hypointense T1 lesion volume in mL (mL) at week 108 | 0.755 (p=0.0317)p-values based on cubic root transformed data for total lesion volume | 0.345 (p=0.0003) | 1.127 |
 | Mean number of Gd-enhancing T1-lesions per scan | 0.570 (p <0.0001) | 0.261 (p <0.0001) | 1.331 |
 
 | Figure 1: Kaplan-Meier Plot of Time to Disability Progression Sustained for 12 Weeks (Study 1) |
@@ -64,10 +64,10 @@ Table 3: Clinical Results of Study 2
 |  | AUBAGIO 7 mg N=407 | AUBAGIO 14 mg N=370 | Placebo N=388 |
 | --- | --- | --- | --- |
 | Clinical Endpoints |  |  |  |
-| Annualized relapse rate | 0.389 (p = 0.0183) | 0.319 (p = 0.0001) | 0.501 |
+| Annualized relapse rate | 0.389 (p=0.0183) | 0.319 (p=0.0001) | 0.501 |
 | Relative risk reduction | 22% | 36% |  |
 | Percent of patients remaining relapse-free at week 108 | 58.2% | 57.1% | 46.8% |
-| Percent disability progression at week 108 | 21.1% (p = 0.762) | 15.8% (p = 0.044) | 19.7% |
+| Percent disability progression at week 108 | 21.1% (p=0.762) | 15.8% (p=0.044) | 19.7% |
 | Hazard ratio | 0.96 | 0.69 |  |
 
 | Figure 2: Kaplan-Meier Plot of Time to Disability Progression Sustained for 12 Weeks (Study 2) |
