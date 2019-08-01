@@ -41,7 +41,7 @@ Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or
 | (n=120) | (5 / 81) | (9 / 39) | (1 / 81) | (2 / 39) | (4 / 81) | (7 / 39) |
 | Heart | 6% | 10% | 0% | 5% | 6% | 5% |
 | (n=56) | (2 / 35) | (2 / 21) | (0 / 35) | (1 / 21) | (2 / 35) | (1 / 21) |
-| Kidney / Pancreas | 0% | 17% | 0% | 17% | 0% | 0% |
+| Kidney/ Pancreas | 0% | 17% | 0% | 17% | 0% | 0% |
 | (n=11) | (0 / 5) | (1 / 6) | (0 / 5) | (1 / 6) | (0 / 5) | (0 / 6) |
 
 GCV = oral ganciclovir; VGCV = valganciclovir
@@ -57,12 +57,12 @@ These results are summarized in Table 21.
 
 Table 21 Percentage of Kidney Transplant Patients with CMV Disease, Tissue-Invasive CMV Disease or CMV Syndrome, 12 Month ITT Population
 
-|  | CMV Disease1 |  | Tissue-Invasive Disease | CMV | CMV Syndrome2 |  |
+|  | CMV Disease1 |  | Tissue-Invasive CMV Disease |  | CMV Syndrome2 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 100 Days VGCV (N=163) | 200 Days VGCV (N=155) | 100 Days VGCV (N=163) | 200 Days VGCV (N=155) | 100 Days VGCV (N=163) | 200 Days VGCV (N=155) |
 | Cases | 36.8% (60/163) | 16.8% (26/155) | 1.8% (3/163)3 | 0.6% (1/155) | 35% (57/163) | 16.1% (25/155) |
 
-VGCV = valganciclovir.
+VGCV = valganciclovir
 
 1 Number of patients with CMV disease = Number of patients with tissue-invasive CMV disease or CMV syndrome
 
@@ -79,7 +79,7 @@ Patients received valganciclovir once daily within 10 days after transplant unti
 The daily doses of valganciclovir were calculated at each study visit based on body surface area and a modified creatinine clearance [see Dosage and Administration (2.3)].
 
 The pharmacokinetics of ganciclovir were similar across organ transplant types and age ranges.
-The mean daily ganciclovir exposures in pediatric patients somewhat increased relative to those observed in adult solid organ transplant patients receiving valganciclovir 900 mg once daily, but were within the range considered safe and effective in adults [see Clinical Pharmacology (12.3)].
+The mean daily ganciclovir exposures in pediatric patients were somewhat increased relative to those observed in adult solid organ transplant patients receiving valganciclovir 900 mg once daily, but were within the range considered safe and effective in adults [see Clinical Pharmacology (12.3)].
 No case of CMV syndrome or tissue-invasive CMV disease was reported within the first six months post-transplantation.
 
 Prevention of CMV in Pediatric Kidney Transplantation: Fifty-seven children, 1 to 16 years of age, who had a renal transplant and were at risk for developing CMV disease, were enrolled in an open-label tolerability study of oral valganciclovir (valganciclovir for oral solution or tablets).

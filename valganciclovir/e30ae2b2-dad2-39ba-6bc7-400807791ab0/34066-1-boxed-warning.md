@@ -1,6 +1,4 @@
-# BOXED WARNING
-
-WARNING: HEMATOLOGIC TOXICITY, IMPAIRMENT OF FERTILITY, FETAL TOXICITY, MUTAGENESIS AND CARCINOGENESIS
+# WARNING: HEMATOLOGIC TOXICITY, IMPAIRMENT OF FERTILITY, FETAL TOXICITY, MUTAGENESIS AND CARCINOGENESIS
 
 • Hematologic Toxicity: Severe leukopenia, neutropenia, anemia, thrombocytopenia, pancytopenia, and bone marrow failure including aplastic anemia have been reported in patients treated with valganciclovir [see Warnings and Precautions (5.1)].
 

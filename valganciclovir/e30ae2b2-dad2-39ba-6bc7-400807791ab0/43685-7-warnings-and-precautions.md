@@ -10,7 +10,7 @@ Cell counts usually begin to recover within 3 to 7 days after discontinuing drug
 In patients with severe leukopenia, neutropenia, anemia and/or thrombocytopenia, treatment with hematopoietic growth factors may be considered.
 
 Due to the frequency of neutropenia, anemia, and thrombocytopenia in patients receiving valganciclovir [see Adverse Reactions (6.1)], complete blood counts with differential and platelet counts should be performed frequently, especially in infants, in patients with renal impairment and in patients in whom ganciclovir or other nucleoside analogues have previously resulted in leukopenia, or in whom neutrophil counts are less than 1,000 cells/μL at the beginning of treatment.
-Increased monitoring for cytopenias may be warranted if therapy with oral ganciclovir is changed to valganciclovir, because of increased plasma concentrations of ganciclovir after valganciclovir administration [see Clinical Pharmacology (12.3)].
+Increased monitoring for cytopenias may be warranted if therapy with oral ganciclovir is changed to valganciclovir because of increased plasma concentrations of ganciclovir after valganciclovir administration [see Clinical Pharmacology (12.3)].
 
 ## 5.2 Acute Renal Failure
 
@@ -27,7 +27,7 @@ Adequate hydration should be maintained for all patients.
 
 ## 5.3 Impairment of Fertility
 
-Based on animal data and limited human data, with ganciclovir, valganciclovir at the recommended human doses may cause temporary or permanent inhibition of spermatogenesis in males, and may cause suppression of fertility in females.
+Based on animal data and limited human data, valganciclovir at the recommended human doses may cause temporary or permanent inhibition of spermatogenesis in males, and may cause suppression of fertility in females.
 Advise patients that fertility may be impaired with use of valganciclovir [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
 ## 5.4 Fetal Toxicity
@@ -42,5 +42,5 @@ Similarly, males should be advised to use condoms during and for at least 90 day
 
 ## 5.5 Mutagenesis and Carcinogenesis
 
-Animal data indicate that administration of ganciclovir is mutagenic and carcinogenic.
+Animal data indicate that ganciclovir is mutagenic and carcinogenic.
 Valganciclovir should therefore be considered a potential carcinogen in humans [see Dosage and Administration (2.6), Nonclinical Toxicology (13.1)].

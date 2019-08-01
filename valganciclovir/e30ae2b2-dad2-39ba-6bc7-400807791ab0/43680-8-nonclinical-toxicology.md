@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term carcinogenicity studies have not been conducted with valganciclovir.
 However, upon oral administration, valganciclovir is rapidly and extensively converted to ganciclovir.
@@ -23,4 +23,5 @@ Ganciclovir caused decreased mating behavior, decreased fertility, and an increa
 Ganciclovir caused decreased fertility in male mice and hypospermatogenesis in mice and dogs following daily oral or intravenous administration.
 Systemic drug exposure (AUC) at the lowest dose showing toxicity in each species ranged from 0.03 to 0.1x the AUC of the recommended human intravenous dose.
 Valganciclovir caused similar effects on spermatogenesis in mice, rats, and dogs.
-These effects were reversible at lower doses but irreversible at higher doses.It is considered likely that ganciclovir (and valganciclovir) could cause temporary or permanent inhibition of human spermatogenesis.
+These effects were reversible at lower doses but irreversible at higher doses.
+It is considered likely that ganciclovir (and valganciclovir) could cause temporary or permanent inhibition of human spermatogenesis.

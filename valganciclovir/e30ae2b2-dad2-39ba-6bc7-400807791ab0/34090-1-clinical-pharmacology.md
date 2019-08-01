@@ -11,7 +11,7 @@ Valganciclovir Cmax and AUC are approximately 1% and 3% of those of ganciclovir,
 
 Pharmacokinetics in Adults: The pharmacokinetics of ganciclovir after administration of valganciclovir tablets have been evaluated in HIV- and CMV-seropositive patients, patients with AIDS and CMV retinitis, and in solid organ transplant patients (Table 10).
 
-Table 10 Ganciclovir Pharmacokinetic* in Healthy Volunteers and HIV-positive/CMV-positive Adults Administered Valganciclovir Tablets 900 mg Once Daily with Food.
+Table 10 Ganciclovir Pharmacokinetics* in Healthy Volunteers and HIV-positive/CMV-positive Adults Administered Valganciclovir Tablets 900 mg Once Daily with Food
 
 | PK parameter | N | Value (Mean ± SD) |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Patients with CMV retinitis tended to have higher ganciclovir plasma concentrati
 
 The systemic ganciclovir exposures attained following administration of 900 mg valganciclovir tablets once daily were comparable across kidney, heart and liver transplant recipients (Table 11).
 
-Table 11 Ganciclovir Pharmacokinetics in Solid Organ Transplant Recipients Administered Valganciclovir Tablets 900 mg Once Daily with Food.
+Table 11 Ganciclovir Pharmacokinetics in Solid Organ Transplant Recipients Administered Valganciclovir Tablets 900 mg Once Daily with Food
 
 | Parameter | Value (Mean ± SD) |  |  |
 | --- | --- | --- | --- |
@@ -37,13 +37,13 @@ Table 11 Ganciclovir Pharmacokinetics in Solid Organ Transplant Recipients Admin
 
 * Includes kidney-pancreas
 
-The pharmacokinetic parameters of ganciclovir following 200 days of valganciclovir administration in high risk kidney transplant patients were similar to those in solid organ transplant patients who received valganciclovir for 100 days.
+The pharmacokinetic parameters of ganciclovir following 200 days of valganciclovir administration in high-risk kidney transplant patients were similar to those in solid organ transplant patients who received valganciclovir for 100 days.
 
 Absorption, Distribution, Metabolism, and Excretion
 
 The pharmacokinetic (PK) properties of valganciclovir are provided in Table 12.
 
-Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated with Valganciclovir Tablets.
+Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated with Valganciclovir Tablets
 
 |  | Valganciclovir | Ganciclovir |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated
 | Tmax (h) median (min-max) (fed conditions) |  | 2.18 1.7h to 3.0h |
 | Food effect (high fat meal/fasting): PK parameter ratio and 90% confidence intervala |  | Cmax: 1.14 (0.95, 1.36) AUC: 1.30 (1.07, 1.51)a Tmax: ↔: 1.30 (1.07, 1.51)a |
 | Distribution |  |  |
-| % Bound to human plasma proteins (ex vivo) | Unknown | 1to 2% over 0.5 to 51 mcg/mL |
+| % Bound to human plasma proteins (ex vivo) | Unknown | 1 to 2% over 0.5 to 51 mcg/mL |
 | Cerebrospinal fluid penetration | Unknown | Yes |
 | Metabolism |  |  |
 |  | Hydrolyzed by intestinal and liver esterases | No significant metabolism |
@@ -62,7 +62,7 @@ Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated
 | % Of dose excreted in urine | Unknown |  |
 | % Of dose excreted in feces | Unknown |  |
 
-aSteady state ganciclovir PK was assessed after administration of valganciclovir tablets (875 mg once daily) were administered with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) to 16 HIV-positive subjects.
+a Steady state ganciclovir PK was assessed after administration of valganciclovir tablets (875 mg once daily) with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) to 16 HIV-positive subjects.
 
 Specific Populations:
 
@@ -86,21 +86,21 @@ In these studies, patients received oral doses of valganciclovir (either valganc
 In studies using the pediatric valganciclovir dosing algorithm, the pharmacokinetics of ganciclovir were similar across organ types and age ranges (Table 14).
 Relative to adult transplant patients (Table 11), AUC values in pediatric patients were somewhat increased, but were within the range considered safe and effective in adults.
 
-Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patientsa
+Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant PatientsAdministered Valganciclovir Tablets
 
 | Organ | Age Group |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PK Parameter Mean (SD) | < 4 months | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |  |  |  |  |
+| PK Parameter mean (SD) | < 4 months | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |  |  |  |  |
 | Heart (N=26) | N | 14a | 6 | 2 | 4 |  |  |  |
-| AUC0-24h (μg∙h/mL) Cmax (μg/mL) t1/2 (h) | 66.3 (20.5) 10.8 (3.30) 3.5 (0.87) | 55.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 59.6 (21) 12.5 (1.2) 2.8 (0.9) | 60.6 (25) 9.5 (3.3) 4.9 (0.8) |  |  |  |  |
+| AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 66.3 (20.5) 10.8 (3.30) 3.5 (0.87) | 55.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 59.6 (21) 12.5 (1.2) 2.8 (0.9) | 60.6 (25) 9.5 (3.3) 4.9 (0.8) |  |  |  |  |
 | Kidney (N=31) | N |  | 2 | 10 | 19 |  |  |  |
-| AUC0-24h (μg·h/mL) Cmax (μg/mL) t1/2(h) | NA | 67.6 (13) 10.4 (0.4) 4.5 (1.5) | 55.9 (12.1) 8.7 (2.1) 4.8 (1) | 47.8 (12.4) 7.7 (2.1) 6 (1.3) |  |  |  |  |
+| AUC0-24h (mcg·h/mL) Cmax (mcg/mL) t1/2(h) | NA | 67.6 (13) 10.4 (0.4) 4.5 (1.5) | 55.9 (12.1) 8.7 (2.1) 4.8 (1) | 47.8 (12.4) 7.7 (2.1) 6 (1.3) |  |  |  |  |
 | Liver (N=17) | N |  | 9 | 6 | 2 |  |  |  |
-| AUC0-24h (μg·h/mL) Cmax (μg/mL) t1/2 (h) | NA | 69.9 (37) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |  |  |  |  |
+| AUC0-24h (mcg·h/mL) Cmax (mcg/mL) t1/2 (h) | NA | 69.9 (37) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |  |  |  |  |
 
-N= number of patients
+N= number of patients, NA=not applicable
 
-a Pharmacokinetic parameters were estimated by using population pharmacokinetic modeling.
+a Ages ranged from 26 to 124 days.
 
 Pharmacokinetics in Geriatric Patients: The pharmacokinetic characteristics of valganciclovir in elderly patients have not been established.
 
@@ -158,11 +158,11 @@ Growth of CMV strains in the presence of ganciclovir resulted in the selection o
 In vivo: Viruses resistant to ganciclovir can arise after prolonged treatment or prophylaxis with valganciclovir by selection of substitutions in pUL97 and/or pUL54.
 Limited clinical data are available on the development of clinical resistance to ganciclovir and many pathways to resistance likely exist.
 In clinical isolates, seven canonical pUL97 substitutions, (M460V/I, H520Q, C592G, A594V, L595S, and C603W) are the most frequently reported ganciclovir resistance-associated substitutions.
-These and other substitutions less frequently reported in the literature, or observed in clinical trials, are listed in Table 17
+These and other substitutions less frequently reported in the literature, or observed in clinical trials, are listed in Table 17.
 
-Table 17: Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
+Table 17 Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
 
-| pUL97 | L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L, del 590-593, A591D/V, C592G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600- 601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y,I610T, A613V |
+| pUL97 | L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L, del 590-593, A591D/V, C592G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
 | --- | --- |
 | pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
 
@@ -185,6 +185,6 @@ Resistance data based on assays that do not include this region should be interp
 
 Table 18 Summary of pUL54 Amino Acid Substitutions with Cross-Resistance between Ganciclovir, Cidofovir, and/or Foscarnet
 
-| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E/N, P488R, L501I, T503I, K513E/N, L516R/W, I521T, P522S/A, V526L, C539G/R, L545S/W, Q578H, D588N, I726T/V, E756K, V812L, T813S, A834P, G841A, del 981-982, A987G |
+| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E/N, P488R, L501I, T503I, K513E/N, L516R/W, I521T, P522S/A, V526L, C539G/R, L545S/W, Q578H, D588N, I726T/V, E756K, L733V, V812L, T813S, A834P, G841A, del 981-982, A987G |
 | --- | --- |
 | Cross-resistant to foscarnet | F412C, Q578H/L, D588N, V715A/M, E756K, L733V, V781I, V787L, L802M, A809V, V812L, T813S, T821I, A834P, G841A/S, del 981-982 |

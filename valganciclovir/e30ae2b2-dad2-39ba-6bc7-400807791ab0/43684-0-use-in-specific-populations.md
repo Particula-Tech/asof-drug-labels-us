@@ -20,7 +20,7 @@ However, in immunocompromised patients (i.e., transplant patients or patients wi
 The transmission of CMV to the fetus is a result of maternal viremia and transplacental infection.
 Perinatal infection can also occur from exposure of the neonate to CMV shedding in the genital tract.
 Approximately 10% of children with congenital CMV infection are symptomatic at birth.
-Mortality in these infants is about 10%and approximately 50 to 90% of symptomatic surviving newborns experience significant morbidity, including mental retardation, sensorineural hearing loss, microcephaly, seizures, and other medical problems.
+Mortality in these infants is about 10% and approximately 50 to 90% of symptomatic surviving newborns experience significant morbidity, including mental retardation, sensorineural hearing loss, microcephaly, seizures, and other medical problems.
 The risk of congenital CMV infection resulting from primary maternal CMV infection may be higher and of greater severity than that resulting from maternal reactivation of CMV infection.
 
 Data
@@ -84,7 +84,7 @@ Valganciclovir was administered once daily within 10 days of transplantation for
 Study 2 was a safety and tolerability study where valganciclovir was administered once daily within 10 days of transplantation for a maximum of 200 days post-transplantation in pediatric kidney transplant patients.
 The results of these studies were supported by previous demonstration of efficacy in adult patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
-The use of valganciclovir oral solution and tablets for the prevention of CMV disease in pediatric heart transplant patients 1 month to 16 years of age is based on two studies (Study 1 described above and Study 3) and was supported by previous demonstration of efficacy in adult patients [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The use of valganciclovir for oral solution and tablets for the prevention of CMV disease in pediatric heart transplant patients 1 month to 16 years of age is based on two studies (Study 1 described above and Study 3) and was supported by previous demonstration of efficacy in adult patients [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 Study 3 was a pharmacokinetic and safety study of valganciclovir in pediatric heart transplant patients less than 4 months of age who received a single dose of valganciclovir oral solution on each of two consecutive days.
 A physiologically based pharmacokinetic (PBPK) model was developed based on the available pharmacokinetic data from pediatric and adult patients to support dosing in heart transplant patients less than 1 month of age.
 However, due to uncertainty in model predictions for neonates, valganciclovir is not indicated for prophylaxis in this age group.
@@ -109,8 +109,8 @@ Renal function should be monitored and dosage adjustments should be made accordi
 
 Dose reduction is recommended when administering valganciclovir to patients with renal impairment [see Dosageand Administration (2.5), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
-For adult patients on hemodialysis (CrCl less than10 mL/min) valganciclovir tablets should not be used.
-Adult hemodialysis patients should use ganciclovir in accordance with the dose-reduction algorithm cited in the CYTOVENE®-IV and ganciclovir capsules complete product information section on DOSAGE AND ADMINISTRATION: Renal Impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+For adult patients on hemodialysis (CrCl less than10 mL/min), valganciclovir tablets should not be used.
+Adult hemodialysis patients should use ganciclovir in accordance with the dose-reduction algorithm cited in the CYTOVENE®-IV complete product information section on DOSAGE AND ADMINISTRATION: Renal Impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

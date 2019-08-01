@@ -8,11 +8,11 @@ The use of hematopoietic growth factors should be considered [see Warnings and P
 Reports of adverse reactions after overdoses with valganciclovir, some with fatal outcomes, have been received from clinical trials and during postmarketing experience.
 The majority of patients experienced one or more of the following adverse events:
 
-Hematological toxicity: myelosuppression including pancytopenia, bone marrow failure, medullary aplasia, leukopenia, neutropenia, granulocytopenia
+Hematological toxicity: myelosuppression including pancytopenia, bone marrow failure, leukopenia, neutropenia, granulocytopenia
 
 Hepatotoxicity: hepatitis, liver function disorder
 
-Renal toxicity: worsening of hematuria in a patient with pre-existing renal impairment, acute kidney injury, renal failure, elevated creatinine
+Renal toxicity: worsening of hematuria in a patient with pre-existing renal impairment, acute kidney injury, elevated creatinine
 
 Gastrointestinal toxicity: abdominal pain, diarrhea, vomiting
 

@@ -5,7 +5,7 @@
 - Adult patients should use valganciclovir tablets, not valganciclovir for oral solution.
 - Valganciclovir tablets should be taken with food [see Clinical Pharmacology (12.3)].
 
-## 2.2 Recommended Dosage in Adult Patients With Normal Renal Function
+## 2.2 Recommended Dosage in Adult Patients with Normal Renal Function
 
 For dosage recommendations in adult patients with renal impairment [see Dosage and Administration (2.5)].
 
@@ -44,7 +44,7 @@ Table 1. k Values According to Pediatric Patient Age*
 
 Monitor serum creatinine levels regularly and consider changes in height and body weight and adapt the dose as appropriate during prophylaxis period.
 
-All calculated doses should be rounded to the nearest 10mg increment for the actual deliverable dose.
+All calculated doses should be rounded to the nearest 10 mg increment for the actual deliverable dose.
 If the calculated dose exceeds 900 mg, a maximum dose of 900 mg should be administered.
 Valganciclovir for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above; however, valganciclovir tablets may be used if the calculated doses are within 10% of available tablet strength (450 mg).
 For example, if the calculated dose is between 405 mg and 495 mg, one 450 mg tablet may be taken.
@@ -54,7 +54,7 @@ Before prescribing valganciclovir tablets, pediatric patients should be assessed
 
 Serum creatinine levels or estimated creatinine clearance should be monitored regularly during treatment.
 Dosage recommendations for adult patients with reduced renal function are provided in Table 2.
-For adult patients on hemodialysis (CrCl less than10 mL/min), a dose recommendation for valganciclovir tablets cannot be given [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
+For adult patients on hemodialysis (CrCl less than 10 mL/min), a dose recommendation for valganciclovir tablets cannot be given [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
 
 Table 2 Dosage Recommendations for Adult Patients with Impaired Renal Function
 
