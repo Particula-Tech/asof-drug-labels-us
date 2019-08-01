@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020873"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3447-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bivalirudin",
+      "name": "Angiomax"
+    }
+  ],
+  "setid": "5f133813-f74e-4508-bc64-debbf104ff1e",
+  "source": "dailymed"
+}
