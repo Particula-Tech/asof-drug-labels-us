@@ -8,13 +8,13 @@ The most serious adverse reactions from docetaxel injection are:
 
 • Hematologic Effects [see Boxed Warning, Warnings and Precautions (5.3)]
 
-• Enterocolitis and Neutropenic Colitis [see Boxed Warning, Warnings and Precautions (5.4)]
+• Enterocolitis and Neutropenic Colitis [see Warnings and Precautions (5.4)]
 
 • Hypersensitivity Reactions [see Boxed Warning, Warnings and Precautions (5.5)]
 
 • Fluid Retension [see Boxed Warning, see Warnings and Precautions (5.6)]
 
-• Acute Myeloid Leukemia [see Warnings and Precautions (5.7)]
+• Second Primary Malignancies [see Warnings and Precautions (5.7)]
 
 • Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
@@ -24,7 +24,7 @@ The most serious adverse reactions from docetaxel injection are:
 
 • Asthenia [see Warnings and Precautions (5.11)]
 
-• Alcohol Content [see Warnings and Precations (5.12)]
+• Alcohol Content [see Warnings and Precations (5.13)]
 
 The most common adverse reactions across all docetaxel injection indications are infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.
 Incidence varies depending on the indication.
@@ -258,9 +258,9 @@ The following adverse reactions were associated with increasingdocetaxel doses: 
 
 Combination therapy with Docetaxel Injection in the adjuvant treatment of breast cancer
 
-The following table presents treatment emergent adverse reactions observed in 744 patients, who were treated with docetaxel injection 75 mg/m² every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
+The following table presents treatment-emergent adverse reactions observed in 744 patients, who were treated with docetaxel injection 75 mg/m² every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
 
-Table 6: Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel Injection in Combination with Doxorubicin and Cyclophosphamide (TAX316)
+Table 6: Clinically Important Treatment-Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel Injection in Combination with Doxorubicin and Cyclophosphamide (TAX316)
 
 | Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | --- | --- | --- | --- | --- |
@@ -307,20 +307,20 @@ Table 6: Clinically Important Treatment Emergent Adverse Reactions Regardless of
 
 * COSTART term and grading system for events related to treatment.
 
-Of the 744 patients treated with TAC, 36.3% experienced severe treatment emergent adverse reactions compared to 26.6% of the 736 patients treated with FAC.Dose reductions due to hematologic toxicity occurred in 1% of cycles in the TAC arm versus 0.1% of cycles in the FAC arm.
+Of the 744 patients treated with TAC, 36.3% experienced severe treatment-emergent adverse reactions compared to 26.6% of the 736 patients treated with FAC.Dose reductions due to hematologic toxicity occurred in 1% of cycles in the TAC arm versus 0.1% of cycles in the FAC arm.
 Six percent of patients treated with TAC discontinued treatment due to adverse reactions, compared to 1.1% treated with FAC; fever in the absence of infection and allergy being the most common reasons for withdrawal among TAC-treated patients.
 Two patients died in each arm within 30 days of their last study treatment; 1 death per arm was attributed to study drugs.
 
 Fever and Infection
 
-Fever in the traetment period, fever in the absence of infection was seen in 46.5% of TAC-treated patients and in 17.1% of FAC-treated patients.
+During the treatment period, fever in the absence of infection was seen in 46.5% of TAC-treated patients and in 17.1% of FAC-treated patients.
 Grade 3/4 fever in the absence of infection was seen in 1.3% and 0% of TAC- and FAC-treated patients respectively.Infection was seen in 39.4% of TAC-treated patients compared to 36.3% of FAC-treated patients.
 Grade 3/4 infection was seen in 3.9% and 2.2% of TAC-treated and FAC-treated patients respectively.
 There were no septic deaths in either treatment arm during the treatment period.
 
 Gastrointestinal Reactions
 
-In addition to gastrointestinal reactions reflected in the table above, 7 patients in the TAC arm were reported to have colitis/enteritis/large intestine perforation vs. one patient in the FAC arm.
+In addition to gastrointestinal reactions reflected in the table above, 7 patients in the TAC arm were reported to have colitis/enteritis/large intestine perforation versus one patient in the FAC arm.
 Five of the 7 TAC-treated patients required treatment discontinuation; no deaths due to these events occurred during the treatment period.
 
 Cardiovascular Reactions
@@ -356,7 +356,7 @@ At the end of the follow-up period (actual median follow-uptime of 8 years), per
 At the end of the follow-up period (actual median follow-up time of 8 years), lymphedemawas observed to be ongoing in 6 TAC patients (0.8%) and 1 FAC patient (0.1%).In study TAX316, asthenia that started during the treatmentperiod and persisted into the follow-up period after the end ofchemotherapy was reported in 236 of 744 TAC patients (31.7%)and 180 of 736 FAC patients (24.5%).
 At the end of the followupperiod (actual median follow-up time of 8 years), astheniawas observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
 
-Acute Myeloid Leukemia (AML)/Myelodysplastic Syndrome
+Acute myeloid leukemia (AML)/Myelodysplastic syndrome (MDS)
 
 AML occurred in the adjuvant breast cancer trial (TAX316).
 The cumulative risk of developing treatment-related AML at median follow-up time of 8 years in TAX316 was 0.4% for TAC-treated patients and 0.1% for FAC-treated patients.
@@ -372,7 +372,7 @@ Docetaxel injection 75 mg/m2: Treatment emergent adverse drug reactions are show
 Included in this table are safety data for a total of 176 patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who were treated in two randomized, controlled trials.
 These reactions were described using NCI Common Toxicity Criteria regardless of relationship to study treatment, except for the hematologic toxicities or where otherwise noted.
 
-Table 7: Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel Injection as Monotherapy for Non-Small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy*
+Table 7: Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving Docetaxel Injection as Monotherapy for Non-small Cell Lung Cancer Previously Treated with Platinum-Based Chemotherapy*
 
 | Reaction | Docetaxel Injection 75 mg/m2 n=176 % | Best Supportive Care n=49 % | Vinorelbine/Ifosfamiden=119 % |
 | --- | --- | --- | --- |
@@ -456,7 +456,7 @@ Combination therapy with Docetaxel Injection in chemotherapy-naive advanced unre
 Table 8 presents safety data from two arms of an open label, randomized controlled trial (TAX326) that enrolled patients with unresectable stage IIIB or IV non-small cell lung cancer and no history of prior chemotherapy.
 Adverse reactions were described using the NCI Common Toxicity Criteria except where otherwise noted.
 
-Table 8: Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy- Naïve Advanced Non-Small Cell Lung Cancer Patients Receiving Docetaxel Injection in Combination with Cisplatin
+Table 8: Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy- Naïve Advanced Non-small Cell Lung Cancer Patients Receiving Docetaxel Injection in Combination with Cisplatin
 
 | Adverse Reaction | Docetaxel Injection 75 mg/m2 + Cisplatin 75 mg/m2 n=406% | Vinorelbine 25 mg/m2 + Cisplatin 100 mg/m2 n=396% |
 | --- | --- | --- |
@@ -541,7 +541,7 @@ Combination therapy with Docetaxel Injection in patients with prostate cancer
 
 The following data are based on the experience of 332 patients, who were treated with docetaxel injection 75 mg/m² every 3 weeks in combination with prednisone 5 mg orally twice daily (see Table 9).
 
-Table 9: Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer who Received Docetaxel Injection in Combination with Prednisone (TAX327)
+Table 9: Clinically Important Treatment-Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer Who Received Docetaxel Injection in Combination with Prednisone (TAX327)
 
 | Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | --- | --- | --- | --- | --- |
@@ -582,7 +582,7 @@ Combination therapy with docetaxel injection in gastric adenocarcinoma
 
 Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease, who were treated with docetaxel injection 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 10).
 
-Table 10: Clinically Important Treatment Emergent Adverse Reactions Regardless ofRelationship to Treatment in the Gastric Cancer Study
+Table 10: Clinically Important Treatment-Emergent Adverse Reactions Regardless ofRelationship to Treatment in the Gastric Cancer Study
 
 | Adverse Reaction | Any % | Grade 3/4% | Any % | Grade 3/4 % |
 | --- | --- | --- | --- | --- |
@@ -619,7 +619,7 @@ Table 10: Clinically Important Treatment Emergent Adverse Reactions Regardless o
 | Tearing | 8 | 0 | 2 | 0 |
 | Altered hearing | 6 | 0 | 13 | 2 |
 
-Clinically important treatment emergent adverse reactions were determined based upon frequency,severity, and clinical impact of the adverse reaction.
+Clinically important treatment-emergent adverse reactions were determined based upon frequency,severity, and clinical impact of the adverse reaction.
 
 *Related to treatment
 
@@ -630,7 +630,7 @@ Combination therapy with docetaxel injection in head and neck cancer
 Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with docetaxel injection 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
 The treatment regimens are described in Section 14.6.
 
-Table 11: Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
+Table 11: Clinically Important Treatment-Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
 
 |  | TAX323 (n=355) |  |  |  | TAX324 (n=494) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -676,7 +676,7 @@ Table 11: Clinically Important Treatment Emergent Adverse Reactions (Regardless 
 | Tearing | 2 | 0 | 1 | 0 | 2 | 0 | 2 | 0 |
 | Conjunctivitis | 1 | 0 | 1 | 0 | 1 | 0 | 0.4 | 0 |
 
-Clinically important treatment emergent adverse reactions based upon frequency, severity, and clinical impact.
+Clinically important treatment-emergent adverse reactions based upon frequency, severity, and clinical impact.
 
 *Febrile neutropenia: grade ≥2 fever concomitant with grade 4 neutropenia requiring intravenous antibiotics and/or hospitalization.
 
@@ -684,7 +684,7 @@ Clinically important treatment emergent adverse reactions based upon frequency, 
 
 *** Includes superficial and deep vein thrombosis and pulmonary embolism
 
-## 6.2 Postmarketing Experiences
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified from clinical trials and/or postmarketing surveillance.
 Because they are reported from a population of unknown size, precise estimates of frequency cannot be made.
@@ -701,15 +701,18 @@ Cases of permanent alopecia have been reported.
 Gastrointestinal: enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, has been reported with a potential fatal outcome.
 Abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, intestinal obstruction, ileus, and dehydration as a consequence to gastrointestinal events have been reported.
 
+Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
+
 Hematologic: bleeding episodes.
 Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
-Cases of acute myeloid leukemia and myelodysplastic syndrome have been reported in association with docetaxel injection when used in combination with other chemotherapy agents and/or radiotherapy.
+
+Hepatic: rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
 
 Hypersensitivity: rare cases of anaphylactic shock have been reported.
 Very rarely these cases resulted in a fatal outcome in patients who received premedication.
 Hypersensitivity reactions with potential fatal outcome have been reported with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
 
-Hepatic: rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
+Metabolism and nutrition disorders: electrolyte imbalance, including cases of hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia has been reported.
 
 Neurologic: confusion, rare cases of seizures or transient loss of consciousness have been observed, sometimes appearing during the infusion of the drug.
 
@@ -717,13 +720,11 @@ Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conju
 Excessive tearing which may be attributable to lacrimal duct obstruction has been reported.
 Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
 These were reversible upon discontinuation of the infusion.
-Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel.
-
-Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
+Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel injection.
 
 Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
 
 Renal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.
 
-Metabolism and nutrition disorders: electrolyte imbalance, including cases of hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia has been reported.
+Second primary malignancies: second primary malignancies, including AML, MDS, NHL, and renal cancer, have been reported in patients treated with docetaxel injection-containing regimens [see Warnings and Precautions (5.7)].

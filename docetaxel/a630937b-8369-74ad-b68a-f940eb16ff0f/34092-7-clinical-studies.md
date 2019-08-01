@@ -87,11 +87,11 @@ Figure 1: TAX316 Disease Free Survival K-M curve
 
 Figure 2: TAX316 Overall Survival K-M Curve
 
-The following table describes the results of subgroup analyses for DFS and OS (See Table 14).
+The following table describes the results of subgroup analyses for DFS and OS (see Table 14).
 
 Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
-| Patient subset | Number of patients | Hazard ratio* | 95% CI | Hazard ratio* | 95% CI |
+| Patient subset | Number of patient | Hazard ratio* | 95% CI | Hazard ratio* | 95% CI |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Disease Free Survival |  | Overall Survival |  |
 | No. of positive nodes |  |  |  |  |  |
@@ -104,7 +104,7 @@ Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
 *a hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC.
 
-## 14.3 Non-Small Cell Lung Cancer (NSCLC)
+## 14.3 Non-small Cell Lung Cancer (NSCLC)
 
 The efficacy and safety of docetaxel injection has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naïve.
 
@@ -123,7 +123,7 @@ Forty percent of the patients in this study had a history of prior paclitaxel ex
 The primary endpoint was survival in both trials.
 The efficacy data for the docetaxel injection 75 mg/m2 arm and the comparator arms are summarized in Table 15 and Figures 3 and 4 showing the survival curves for the two studies.
 
-Table 15: Efficacy of Docetaxel Injection in the Treatment of Non-Small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
+Table 15: Efficacy of Docetaxel Injection in the Treatment of Non-small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
 
 |  | Docetaxel 75 mg/m2 n=55 | Best Supportive Care n=49 | Docetaxel 75 mg/m2 n=125 | Control (V/I*) n=123 |
 | --- | --- | --- | --- | --- |
@@ -169,7 +169,7 @@ The 95% confidence interval of the hazard ratio (adjusted for interim analysis a
 The results of a further statistical analysis showed that at least (the lower bound of the 95% confidence interval) 62% of the known survival effect of vinorelbine when added to cisplatin (about a 2-month increase in median survival; Wozniak et al. JCO, 1998) was maintained.
 The efficacy data for the docetaxel injection+cisplatin arm and the comparator arm are summarized in Table 16.
 
-Table 16:Survival Analysis of Docetaxel Injection in Combination Therapy for Chemotherapy- Naïve NSCLC
+Table 16:Survival Analysis of Docetaxel Injection in Combination Therapy for Chemotherapy- Naive NSCLC
 
 | Comparison | Docetaxel Injection+Cisplatin n=408 | Vinorelbine+Cisplatin n=405 |
 | --- | --- | --- |
@@ -244,9 +244,9 @@ Table 19: Efficacy of Docetaxel Injection in the Treatment of Patients with Gast
 
 | Endpoint | TCF n=221 | CF n=224 |
 | --- | --- | --- |
-| Median TTP (months) (95%CI) Hazard ratio† (95%CI) *p-value | 5.6 (4.86 to 5.91) | 3.7 (3.45 to 4.47) |
+| Median TTP (months) (95% CI) Hazard ratio† (95% CI) *p-value | 5.6 (4.86 to 5.91) | 3.7 (3.45 to 4.47) |
 | 0.68 (0.55 to 0.84) 0.0004 |  |  |
-| Median survival (months) (95%CI) Hazard ratio† (95%CI) *p-value | 9.2 (8.38 to 10.58) | 8.6 (7.16 to 9.46) |
+| Median survival (months) (95% CI) Hazard ratio† (95% CI) *p-value | 9.2 (8.38 to 10.58) | 8.6 (7.16 to 9.46) |
 | 0.77 (0.62 to 0.96) 0.0201 |  |  |
 | Overall Response Rate (CR+PR) (%) p-value | 36.7 | 25.4 |
 | 0.0106 |  |  |
@@ -283,15 +283,15 @@ Efficacy results are presented in Table 20 and Figures 8 and 9.
 
 Table 20: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| ENDPOINT | Docetaxel injection+ Cisplatin+ Fluorouracil n=177 | Cisplatin+ Fluorouracil n=181 |
+| Endpoint | Docetaxel injection+ Cisplatin+ Fluorouracil n=177 | Cisplatin+ Fluorouracil n=181 |
 | --- | --- | --- |
-| Median progression free survival (months) (95%CI) Adjusted Hazard ratio (95%CI) *p-value | 11.4 (10.1 to 14) | 8.3 (7.4 to 9.1) |
+| Median progression free survival (months) (95% CI) Adjusted Hazard ratio (95% CI) *p-value | 11.4 (10.1 to 14) | 8.3 (7.4 to 9.1) |
 | 0.71 (0.56 to 0.91) 0.0077 |  |  |
-| Median survival (months) (95%CI) Hazard ratio (95%CI) **p-value | 18.6 (15.7 to 24) | 14.2 (11.5 to 18.7) |
+| Median survival (months) (95% CI) Hazard ratio (95% CI) **p-value | 18.6 (15.7 to 24) | 14.2 (11.5 to 18.7) |
 | 0.71 (0.56 to 0.90) 0.0055 |  |  |
-| Best overall response (CR + PR) to chemotherapy (%) (95%CI) ***p-value | 67.8 (60.4 to 74.6) | 53.6 (46 to 61) |
+| Best overall response (CR + PR) to chemotherapy (%) (95% CI) ***p-value | 67.8 (60.4 to 74.6) | 53.6 (46 to 61) |
 | 0.006 |  |  |
-| Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95%CI) ***p-value | 72.3 (65.1 to 78.8) | 58.6 (51 to 65.8) |
+| Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95% CI) ***p-value | 72.3 (65.1 to 78.8) | 58.6 (51 to 65.8) |
 | 0.006 |  |  |
 
 A Hazard ratio of less than 1 favors docetaxel injection+Cisplatin+Fluorouracil
@@ -326,7 +326,7 @@ Overall survival results are presented in Table 21 and Figure 10.
 
 Table 21: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| ENDPOINT | Docetaxel Injection + Cisplatin+ Fluorouracil n=255 | Cisplatin+ Fluorouracil n=246 |
+| Endpoint | Docetaxel Injection + Cisplatin+ Fluorouracil n=255 | Cisplatin+ Fluorouracil n=246 |
 | --- | --- | --- |
 | Median overall survival (months) (95% CI) | 70.6 (49-NE) | 30.1 (20.9 to 51.5) |
 | Hazard ratio: (95% CI) *p-value | 0.70 (0.54 to 0.90) 0.0058 |  |

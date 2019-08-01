@@ -2,11 +2,7 @@ Patient Information
 
 Docetaxel (doe-se-TAKS-el) Injection USP
 
-for Intravenous use
-
-Read this Patient Information before you receive your first treatment with docetaxel injection and each time before you are treated.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+for intravenous use
 
 What is the most important information I should know about docetaxel injection?
 
@@ -26,8 +22,8 @@ Docetaxel injection can cause serious side effects, including death.
   Follow your healthcare provider’s instructions for how often to take your temperature during treatment with docetaxel injection.
   Call your healthcare provider right away if you have a fever.
 - Swelling (inflammation) of the small intestine and colon.
-  This can happen at any time and could lead to death as early as the first day you get symptoms.
-  Tell your healthcare provider right away if you develop new or worse symptoms of intestinal problems, including stomach (abdominal) pain or tenderness, diarrhea, or fever.
+  This can happen at any time during treatment and could lead to death as early as the first day you get symptoms.
+  Tell your healthcare provider right away if you develop new or worse symptoms of intestinal problems, including stomach (abdominal) pain or tenderness or diarrhea, with or without fever.
 - Severe allergic reactions are medical emergencies that can happen in people who receive docetaxel injection and can lead to death.
   You may be at higher risk of developing a severe allergic reaction to docetaxel injection if you are allergic to paclitaxel.
   Your healthcare provider will monitor you closely for allergic reactions during your docetaxel injection infusion.
@@ -77,11 +73,20 @@ Before you receive docetaxel injection, tell your healthcare provider about all 
 - are pregnant or plan to become pregnant.
   Docetaxel injection can harm your unborn baby.
   You should not become pregnant during treatment with docetaxel injection.
-  Females who are able to become pregnant should use effective birth control (contraception) during treatment with docetaxel injection.
-  Talk to your healthcare provider if you have questions about birth control options that are right for you.
+  Tell your healthcare provider if you become pregnant or you think you may be pregnant during treatment with docetaxel injection.
+
+Females who are able to become pregnant:
+
+- Your healthcare provider will check to see if you are pregnant before you start treatment with docetaxel injection.
+- You should use effective birth control (contraception) during treatment with docetaxel injection and for 6 months after the last dose.
+
+Males with female partners who are able to become pregnant should use effective birth control during treatment with docetaxel injection and for 3 months after the last dose.
+
+Talk to your healthcare provider if you have questions about birth control options that are right for you.
+
 - are breastfeeding or plan to breastfeed.
-  It is not known if docetaxel passes into your breast milk.
-  You and your healthcare provider should decide if you will receive docetaxel injection or breastfeed.
+  It is not known if docetaxel injection passes into your breast milk.
+  Do not breastfeed during treatment with docetaxel injection and for 1 week after the last dose.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Docetaxel injection may affect the way other medicines work, and other medicines may affect the way docetaxel injection works.
@@ -102,14 +107,16 @@ What are the possible side effects of docetaxel injection?
 Docetaxel injection may cause serious side effects including death.
 
 - See “What is the most important information I should know about docetaxel injection?”
-- Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who receive docetaxel injection along with certain other medicines.
-- Other Blood Disorders.
-  Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel injection.
+- Risk of new cancers.
+  An increase in new (second) cancers has happened in people treated with docetaxel injection together with certain other anticancer treatments.
+  This includes certain blood cancers, such as acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), Non-Hodgkin’s Lymphoma (NHL), and kidney cancer.
+  Your healthcare provider will check you for new cancers during and after your treatment with docetaxel injection.
+  - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel injection.
 - Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
   Tell your healthcare provider if you are having a skin reaction.
 - Neurologic problems.
   Neurologic symptoms are common in people who receive docetaxel injection but can be severe.
-  Tell your healthcare provider if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness).
+  Tell your healthcare provider right away if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness).
 - Vision Problems including blurred vision or loss of vision.
   Tell your healthcare provider right away if you have any vision changes.
 - Docetaxel Injection contains alcohol.
@@ -143,6 +150,9 @@ The most common side effects of docetaxel injection include:
 Tell your healthcare provider if you have a fast or irregular heartbeat, severe shortness of breath, dizziness or fainting during your infusion.
 If any of these events occurs after your infusion, get medical help right away.
 
+Docetaxel injection may affect fertility in males.
+Talk to your healthcare provider if this is a concern for you.
+
 These are not all the possible side effects of docetaxel injection.
 For more information, ask your healthcare provider or pharmacist.
 
@@ -154,11 +164,11 @@ Medicines are sometimes prescribed for purposes other than those listed in this 
 You can ask your pharmacist or healthcare provider for information about docetaxel injection that is written for health professionals.
 For more information, call 1-888-375-3784
 
-What are the ingredients in Docetaxel Injection?
+What are the ingredients in docetaxel injection?
 Active ingredient: docetaxel Inactive ingredients include: dehydrated alcohol, citric acid and polysorbate 80
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Rx Only Manufactured by: Dr. Reddy’s Laboratories Limited Visakhapatnam - 530 046 Andhra Pradesh, INDIA
 
-Revised: 0419
+Revised: 0719

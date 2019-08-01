@@ -9,7 +9,7 @@ Among patients dosed at 60 mg/m2, mortality related to treatment occurred in 0.6
 Approximately half of these deaths occurred during the first cycle.
 Sepsis accounted for the majority of the deaths.
 
-Non-Small Cell Lung Cancer
+Non-small Cell Lung Cancer
 
 Docetaxel injection administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
 There were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m2 dose in the randomized trials.
@@ -17,7 +17,7 @@ Among patients who experienced treatment-related mortality at the 75 mg/m2 dose 
 
 ## 5.2 Hepatic Impairment
 
-Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with docetaxel injection [see Boxed Warning, Use in Specific Populations (8.6), Clinical studies (14)].
+Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with docetaxel injection [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
 
 ## 5.3 Hematologic Effects
 
@@ -27,7 +27,8 @@ Patients should not be retreated with subsequent cycles of docetaxel injection u
 A 25% reduction in the dose of docetaxel injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a docetaxel injection cycle [see Dosage and Administration (2.7)].
 
 Neutropenia (<2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel injection and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
-Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted. docetaxel injection should not be administered to patients with neutrophils <1500 cells/mm3.
+Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
+Docetaxel injection should not be administered to patients with neutrophils <1500 cells/mm3.
 
 Febrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was very uncommon in patients given 60 mg/m2.
 Hematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see Adverse Reactions (6.1), Clinical Studies (14)].
@@ -38,7 +39,7 @@ Patients receiving TCF should be closely monitored during the first and subseque
 
 ## 5.4 Enterocolitis and Neutropenic Colitis
 
-Enterocolitis and Neutropenic Colitis Enterocolitis and neutropenic colitis (typhlitis) have occurred in patients treated with docetaxel injection alone and in combination with other chemotherapeutic agents, despite the co-administration of G-CSF.
+Enterocolitis and neutropenic colitis (typhlitis) have occurred in patients treated with docetaxel injection alone and in combination with other chemotherapeutic agents, despite the coadministration of G-CSF.
 Caution is recommended for patients with neutropenia, particularly at risk for developing gastrointestinal complications.
 Enterocolitis and neutropenic enterocolitis may develop at any time, and could lead to death as early as the first day of symptom onset.
 Monitor patients closely from onset of any symptoms of gastrointestinal toxicity.
@@ -52,7 +53,7 @@ Severe hypersensitivity reactions require immediate discontinuation of the docet
 Patients with a history of severe hypersensitivity reactions should not be rechallenged with docetaxel injection.
 
 Patients who have previously experienced a hypersensitivity reaction to paclitaxel may develop a hypersensitivity reaction to docetaxel that may include severe or fatal reactions such as anaphylaxis.
-Monitor patients with a previous history of hypersensitivity to paclitaxel closely during initiation of docetaxel injection therapy.Hypersensitivity reactions may occur within a few minutes following initiation of a docetaxel infusion.
+Monitor patients with a previous history of hypersensitivity to paclitaxel closely during initiation of docetaxel injection therapy.Hypersensitivity reactions may occur within a few minutes following initiation of a docetaxel injection infusion.
 If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
 All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of docetaxel injection [see Dosage and Administration (2.6)].
 
@@ -71,11 +72,15 @@ The median cumulative dose to treatment discontinuation due to fluid retention w
 Fluid retention was completely, but sometimes slowly, reversible with a median of 16 weeks from the last infusion of docetaxel injection to resolution (range: 0 to 42+ weeks).
 Patients developing peripheral edema may be treated with standard measures, e.g., salt restriction, oral diuretic(s).
 
-## 5.7 Acute Myeloid Leukemia
+## 5.7 Second Primary Malignancies
 
-Treatment-related acute myeloid leukemia (AML) or myelodysplasia has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
-In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel injection, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
+Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), Non-Hodgkin's Lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
+These adverse reactions may occur several months or years after docetaxel-containing therapy.
+
+Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
+In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel injection, doxorubicin, and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
 In TAC- treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
+Monitor patients for second primary malignancies [see Adverse Reactions (6.1)].
 
 ## 5.8 Cutaneous Reactions
 
@@ -104,7 +109,18 @@ Alternative non-taxane cancer treatment should be considered.
 Severe asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
 Symptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
 
-## 5.12 Alcohol Content
+## 5.12 Embryo-Fetal Toxicity
+
+Based on findings from animal reproduction studies and its mechanism of action, docetaxel injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Available data from case reports in the literature and pharmacovigilance with docetaxel use in pregnant women are not sufficient to inform the drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+In animal reproduction studies, administration of docetaxel to pregnant rats and rabbits during the period of organogenesis caused embryo-fetal toxicities, including intrauterine mortality, at doses as low as 0.02 and 0.003 times the recommended human dose based on body surface area, respectively.
+
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Verify pregnancy status in females of reproductive potential prior to initiating docetaxel injection.
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of docetaxel injection.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel injection [see Use in Specific Populations (8.1, 8.3)].
+
+## 5.13 Alcohol Content
 
 Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
 The alcohol content in a dose of docetaxel injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
@@ -112,13 +128,3 @@ Consideration should be given to the alcohol content in docetaxel injection on t
 Each administration of docetaxel injection at 100 mg/m2 delivers 2 g/m2 of ethanol.
 For a patient with a BSA of 2 m2, this would deliver 4 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
-
-## 5.13 Use in Pregnancy
-
-Docetaxel injection can cause fetal harm when administered to a pregnant woman.
-Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
-Embryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the recommended human dose on a body surface area basis.
-
-There are no adequate and well-controlled studies in pregnant women using docetaxel injection.
-If docetaxel injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with docetaxel injection [see Use in Specific Populations (8.1)].

@@ -7,6 +7,7 @@ One-vial Formulation Docetaxel Injection USP
 Docetaxel Injection USP (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 
 Docetaxel injection USP is supplied in a single-dose vial as a sterile, pyrogen-free, non-aqueous, solution.
+Discard unused portion.
 
 Docetaxel injection USP 20 mg/mL (NDC 43598-258-11)
 
@@ -31,5 +32,5 @@ Freezing does not adversely affect the product.
 
 ## 16.3 Handling and Disposal
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
+Docetaxel injection is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1

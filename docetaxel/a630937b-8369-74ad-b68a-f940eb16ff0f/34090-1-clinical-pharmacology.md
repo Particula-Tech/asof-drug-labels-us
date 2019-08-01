@@ -74,7 +74,7 @@ The pharmacokinetic profile of cisplatin in combination therapy with docetaxel w
 
 Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
 
-Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant hormone-refractory metastatic prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
+Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
 
 Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug-interactions between docetaxel (75 mg/m²), doxorubicin (50 mg/m²), and cyclophosphamide (500 mg/m²) when administered in combination.
 The coadministration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to coadministration of doxorubicin and cyclophosphamide only.
