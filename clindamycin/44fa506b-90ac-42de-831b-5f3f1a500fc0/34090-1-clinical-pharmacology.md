@@ -36,7 +36,8 @@ No significant concentrations of clindamycin are attained in the cerebrospinal f
 
 ### Elimination
 
-Biologically inactive clindamycin phosphate disappears from the serum with 6 minutes of the average elimination half-life; however, the average serum elimination half-life of active clindamycin is about 3 hours in adults and 2 ½ hours in pediatric patients.
+Clindamycin is metabolized predominantly by CYP3A4, and to a lesser extent by CYP3A5, to the major metabolite clindamycin sulfoxide and minor metabolite N-desmethylclindamycin.
+Biologically inactive clindamycin phosphate disappears from the serum with 6 minutes of the average elimination half-life; however, the average serum elimination half-life of active clindamycin is about 3 hours in adults and 2.5 hours in pediatric patients.
 
 ### Specific Populations
 
@@ -51,6 +52,10 @@ Geriatric Patients
 Pharmacokinetic studies in elderly volunteers (61-79 years) and younger adults (18-39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after intravenous administration of clindamycin phosphate.
 After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4.0 hours (range 3.4-5.1 h) in the elderly, compared to 3.2 hours (range 2.1-4.2 h) in younger adults.
 The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
+
+Drug Interaction Studies
+
+In vitro studies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
 
 ## 12.4 Microbiology
 

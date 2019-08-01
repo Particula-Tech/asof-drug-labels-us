@@ -1,13 +1,16 @@
 # 7 DRUG INTERACTIONS
 
-Neuromuscular Blocking Agents
+## 7.1 Neuromuscular Blocking Agents
 
 Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore, it should be avoided in patients receiving such agents.
 
-Clindamycin is metabolized predominantly by CYP3A4, and to a lesser extent by CYP3A5, to the major metabolite clindamycin sulfoxide and minor metabolite N-desmethylclindamycin.
-Therefore inhibitors of CYP3A4 and CYP3A5 may increase plasma concentrations of clindamycin and inducers of these isoenzymes may reduce plasma concentrations of clindamycin.
-In the presence of strong CYP3A4 inhibitors, monitor for adverse reactions.
-In the presence of strong CYP3A4 inducers such as rifampicin, monitor for loss of effectiveness.
+## 7.2 Inhibitors of CYP3A4 and CYP3A5
 
-In vitro studies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
+Inhibitors of CYP3A4 and/or CYP3A5 may increase plasma concentrations of clindamycin [see Clinical Pharmacology (12.3)].
+Monitor for adverse reactions when strong CYP3A4 and/or CYP3A5 inhibitors are coadministered with clindamycin.
+
+## 7.3 Inhibitors of CYP3A4 and CYP3A5
+
+Inducers of CYP3A4 and/or CYP3A5 may reduce plasma concentrations of clindamycin.
+In the presence of strong CYP3A4 and/or CYP3A5 inducers such as rifampicin, monitor for loss of effectiveness.

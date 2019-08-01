@@ -36,7 +36,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ### Clinical Considerations
 
 If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
-Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or blood in the stool indicating possible antibacterial-associated colitis.
 
 ## 8.4 Pediatric Use
 

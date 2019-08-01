@@ -14,7 +14,7 @@ Clostridium difficile colitis
 
 Gastrointestinal
 
-Antibiotic-associated colitis [see Warnings and Precautions (5.1)], pseudomembranous colitis, abdominal pain, nausea, and vomiting.
+Antibacterial-associated colitis [see Warnings and Precautions (5.1)], pseudomembranous colitis, abdominal pain, nausea, and vomiting.
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.1)].
 An unpleasant or metallic taste has been reported after intravenous administration of the higher doses of clindamycin phosphate.
 

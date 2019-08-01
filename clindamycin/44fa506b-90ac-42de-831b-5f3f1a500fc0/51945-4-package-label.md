@@ -39,7 +39,7 @@ Clindamycin in 0.9% Sodium Chloride Injection Rx only NDC 0338-9545-24
 
 300 mg per 50 mL (6 mg / mL) Code 2G3455
 
-Contains 12 - 50 mL Single Dose Containers Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature].
+Contains 12 - 50 mL Single Dose Containers Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
 FOR BAR CODE POSITION ONLY (01) XXXXXXXXXXXX
@@ -51,6 +51,26 @@ Dosage: See prescribing information.
 Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
+
+Clindamycin in 0.9% Sodium Chloride Injection 300mg/50mL Code 2G3455 NDC 0338-9545-24
+
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Avoid temperatures above 30°C.
+
+Rx Only Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+LOT NC123456 EXP DD MMM YY SN 0123456789
+
+Clindamycin in 0.9% Sodium Chloride Injection 300mg/50mL Code 2G3455 NDC 0338-9545-24
+
+Rx Only Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Avoid temperatures above 30°C.
+
+LOT NC123456 EXP DD MMM YY SN 0123456789
+
+07-06-77-459
 
 NDC 0338-9549-50 Clindamycin in 0.9% Sodium Chloride Injection
 
@@ -68,7 +88,7 @@ Each 50 mL contains: Clindamycin phosphate, USP equivalent to 600 mg clindamycin
 
 Dosage: See prescribing information.
 
-Rx only Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature].
+Rx only Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
 PL 2501 Plastic
@@ -105,6 +125,26 @@ Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
 
+Clindamycin in 0.9% Sodium Chloride Injection 600mg/50mL Code 2G3456 NDC 0338-9549-24
+
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Avoid temperatures above 30°C.
+
+Rx Only Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+LOT NC123456 EXP DD MMM YY SN 0123456789
+
+Clindamycin in 0.9% Sodium Chloride Injection 600mg/50mL Code 2G3456 NDC 0338-9549-24
+
+Rx Only Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Avoid temperatures above 30°C.
+
+LOT NC123456 EXP DD MMM YY SN 0123456789
+
+07-06-77-460
+
 NDC 0338-9553-50 Clindamycin in 0.9% Sodium Chloride Injection
 
 900 mg per 50 mL (18 mg / mL)
@@ -118,7 +158,7 @@ Check for minute leaks and solution clarity.
 Each 50 mL contains: Clindamycin phosphate, USP equivalent to 900 mg clindamycin, 450 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
 Dosage: See prescribing information.
 
-Rx only Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature].
+Rx only Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
 PL 2501 Plastic
@@ -155,3 +195,23 @@ Dosage: See prescribing information.
 Caution: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
+
+Clindamycin in 0.9% Sodium Chloride Injection 900mg/50mL Code 2G3457 NDC 0338-9553-24
+
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Avoid temperatures above 30°C.
+
+Rx Only Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+LOT NC123456 EXP DD MMM YY SN 0123456789
+
+Clindamycin in 0.9% Sodium Chloride Injection 900mg/50mL Code 2G3457 NDC 0338-9553-24
+
+Rx Only Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+Avoid temperatures above 30°C.
+
+LOT NC123456 EXP DD MMM YY SN 0123456789
+
+07-06-77-461
