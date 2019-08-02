@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 As a sterile ophthalmic solution in Alcon’s DROP-TAINER® dispensing system consisting of a natural low density polyethylene bottle and dispensing plug and tan polypropylene closure.
 Tamper evidence is provided with a shrink band around the closure and neck area of the package.
@@ -9,7 +9,5 @@ Tamper evidence is provided with a shrink band around the closure and neck area 
 
 10 mL in 10 mL bottle NDC 61314-656-10
 
-STORAGE
-
-Store at 2° to 25°C (36° to 77°F).
+Storage: Store at 2°C to 25°C (36°F - 77°F).
 Protect from light.
