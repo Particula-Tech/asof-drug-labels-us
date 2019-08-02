@@ -82,7 +82,7 @@ Periodic quantitative monitoring of urinary protein excretion is recommended.
 In a study evaluating conversion from calcineurin inhibitors (CNI) to Rapamune in maintenance renal transplant patients 6–120 months post-transplant, increased urinary protein excretion was commonly observed from 6 through 24 months after conversion to Rapamune compared with CNI continuation [see Clinical Studies (14.4), Adverse Reactions (6.4)].
 Patients with the greatest amount of urinary protein excretion prior to Rapamune conversion were those whose protein excretion increased the most after conversion.
 New onset nephrosis (nephrotic syndrome) was also reported as a treatment-emergent adverse reaction in 2.2% of the Rapamune conversion group patients in comparison to 0.4% in the CNI continuation group of patients.
-Nephrotic range proteinuria (defined as urinary protein to creatinine ratio > 3.5) was also reported in 9.2% in the Rapamune conversion group of patients in comparison to 3.7% in the CNI continuation group of patients.
+Nephrotic range proteinuria (defined as urinary protein to creatinine ratio >3.5) was also reported in 9.2% in the Rapamune conversion group of patients in comparison to 3.7% in the CNI continuation group of patients.
 In some patients, reduction in the degree of urinary protein excretion was observed for individual patients following discontinuation of Rapamune.
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established.
 
@@ -128,21 +128,32 @@ Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantat
 
 ## 5.15 Embryo-Fetal Toxicity
 
-Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], Rapamune may cause fetal harm when administered to a pregnant woman.
-In animal studies, mTOR inhibitors caused embryo-fetal toxicity when administered during the period of organogenesis at maternal exposures that were equal to or less than human exposures at the recommended lowest starting dose.
+Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], Rapamune can cause fetal harm when administered to a pregnant woman.
+In animal studies, sirolimus caused embryo-fetal toxicity when administered during the period of organogenesis at maternal exposures that were equal to or less than human exposures at the recommended lowest starting dose.
 Advise pregnant women of the potential risk to a fetus.
-Advise women of childbearing potential to avoid becoming pregnant and to use effective contraception while using Rapamune and for 12 weeks after ending treatment [see Use in Specific Populations (8.1)].
+Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception while using Rapamune and for 12 weeks after ending treatment [see Use in Specific Populations (8.1)].
 
-## 5.16 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
+## 5.16 Male Infertility
+
+Azoospermia or oligospermia may be observed [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
+Rapamune is an anti-proliferative drug and affects rapidly dividing cells like the germ cells.
+
+## 5.17 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
 
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by various chromatographic and immunoassay methodologies.
 Patient sample concentration values from different assays may not be interchangeable [see Dosage and Administration (2.5)].
 
-## 5.17 Skin Cancer Events
+## 5.18 Skin Cancer Events
 
 Patients on immunosuppressive therapy are at increased risk for skin cancer.
-Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor [see Adverse Reactions (6.1, 6.2, 6.7)].
+Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Adverse Reactions (6.1, 6.2, 6.7)].
 
-## 5.18 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
+## 5.19 Immunizations
+
+The use of live vaccines should be avoided during treatment with Rapamune; live vaccines may include, but are not limited to, the following: measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid.
+Immunosuppressants may affect response to vaccination.
+Therefore, during treatment with Rapamune, vaccination may be less effective.
+
+## 5.20 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
 Avoid concomitant use of Rapamune with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see Drug Interactions (7.2)].

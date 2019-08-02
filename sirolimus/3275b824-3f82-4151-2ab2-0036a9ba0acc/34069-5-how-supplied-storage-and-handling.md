@@ -3,7 +3,7 @@
 Since Rapamune is not absorbed through the skin, there are no special precautions.
 However, if direct contact of the oral solution occurs with the skin or eyes, wash skin thoroughly with soap and water; rinse eyes with plain water.
 
-Do not use RAPAMUNE after the expiration date that is located on the blister and carton.
+Do not use RAPAMUNE after the expiration date.
 The expiration date refers to the last day of that month.
 
 ## 16.1 Rapamune Oral Solution
@@ -32,6 +32,6 @@ Rapamune Tablets are available as follows:
 - NDC 0008-1041-10, 1 mg, white, triangular-shaped tablets marked "RAPAMUNE 1 mg" on one side; in Redipak® cartons of 100 tablets (10 blister cards of 10 tablets each).
 - NDC 0008-1042-05, 2 mg, yellow-to-beige triangular-shaped tablets marked "RAPAMUNE 2 mg" on one side; bottle containing 100 tablets.
 
-Rapamune Tablets should be stored at 20° to 25°C [USP Controlled Room Temperature] (68° to 77°F).
+Rapamune Tablets should be stored at 20°C to 25°C [USP Controlled Room Temperature] (68°F to 77°F).
 Use cartons to protect blister cards and strips from light.
 Dispense in a tight, light-resistant container as defined in the USP.

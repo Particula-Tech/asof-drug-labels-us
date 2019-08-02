@@ -59,9 +59,9 @@ Also contains a mixture of propylene glycol and phosphatidylcholine derived from
 
 60 mL Patient Kit Rx only
 
-Each Rapamune Oral Solution carton contains:
+Each RAPAMUNE Oral Solution carton contains:
 
-- a)A 2 oz.
+- a)a 2 oz.
   (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL)
 - b)1 oral syringe adapter for fitting into the neck of the bottle
 - c)30 amber oral syringes and 30 caps for daily dosing
@@ -88,7 +88,7 @@ For oral use only.
 
 100 Tablets Rx only
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Pack
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS - REDIPAK®BLISTER
 
 NDC 0008-1040-10
 
@@ -98,19 +98,15 @@ Rapamune® (sirolimus) Tablet
 
 Wyeth Sub of Pfizer Inc Phila, PA 19101
 
-PAA073118
+13096000
 
-LOT X
-
-EXP Y
+EXP AND LOT AREA
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1040-10
+Pfizer NDC 0008-1040-10
 
 Rapamune® (sirolimus) Tablets
 
@@ -118,9 +114,9 @@ Rapamune® (sirolimus) Tablets
 
 For oral use only.
 
-Unit Dose - 100 Tablets
+Unit Dose - 100 Tablets (10 Blister Cards of 10 Tablets Each)
 
-(10 Blister Cards of 10 Tablets Each) Rx only
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
@@ -136,7 +132,7 @@ For oral use only.
 
 100 Tablets Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Pack
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS - REDIPAK®BLISTER
 
 NDC 0008-1041-10
 
@@ -146,19 +142,15 @@ Rapamune® (sirolimus) Tablet
 
 Wyeth Sub of Pfizer Inc Phila, PA 19101
 
-PAA086081
+13096300
 
-LOT X
-
-EXP Y
+EXP AND LOT AREA
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1041-10
+Pfizer NDC 0008-1041-10
 
 Rapamune® (sirolimus) Tablets
 
@@ -166,9 +158,9 @@ Rapamune® (sirolimus) Tablets
 
 For oral use only.
 
-Unit Dose - 100 Tablets
+Unit Dose - 100 Tablets (10 Blister Cards of 10 Tablets Each)
 
-(10 Blister Cards of 10 Tablets Each) Rx only
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 

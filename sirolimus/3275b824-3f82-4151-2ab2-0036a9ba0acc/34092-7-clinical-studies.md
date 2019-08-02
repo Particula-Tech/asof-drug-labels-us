@@ -86,12 +86,10 @@ TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSPatients received cy
 | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |
 | Black (n = 166) | 34.9 (n = 63) | 18.0 (n = 61) | 33.3 (n = 42) |  |
-| Non-Black | 14.0 (n = 221) | 16.4 (n = 213) | 31.9 (n = 119) |  |
-| (n = 553) |  |  |  |  |
+| Non-Black (n = 553) | 14.0 (n = 221) | 16.4 (n = 213) | 31.9 (n = 119) |  |
 | Study 2 |  |  |  |  |
 | Black (n = 66) | 30.8 (n = 26) | 33.7 (n = 27) |  | 38.5 (n = 13) |
-| Non-Black | 29.9 (n = 201) | 24.5 (n = 192) |  | 48.7 (n = 117) |
-| (n = 510) |  |  |  |  |
+| Non-Black (n = 510) | 29.9 (n = 201) | 24.5 (n = 192) |  | 48.7 (n = 117) |
 
 Mean glomerular filtration rates (GFR) post-transplant were calculated by using the Nankivell equation at 12 and 24 months for Study 1, and 12 and 36 months for Study 2.
 Mean GFR was lower in patients treated with cyclosporine and Rapamune Oral Solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
@@ -125,7 +123,7 @@ This study compared patients who were administered Rapamune, cyclosporine, and c
 During cyclosporine withdrawal, the Rapamune dosages were adjusted to achieve targeted sirolimus whole blood trough concentration ranges (16 to 24 ng/mL until month 12, then 12 to 20 ng/mL thereafter, expressed as chromatographic assay values).
 At 3 months, 430 patients were equally randomized to either continue Rapamune with cyclosporine therapy or to receive Rapamune as a maintenance regimen following cyclosporine withdrawal.
 
-Eligibility for randomization included no Banff Grade 3 acute rejection or vascular rejection episode in the 4 weeks before random assignment, serum creatinine ≤ 4.5 mg/dL, and adequate renal function to support cyclosporine withdrawal (in the opinion of the investigator).
+Eligibility for randomization included no Banff Grade 3 acute rejection or vascular rejection episode in the 4 weeks before random assignment, serum creatinine ≤4.5 mg/dL, and adequate renal function to support cyclosporine withdrawal (in the opinion of the investigator).
 The primary efficacy endpoint was graft survival at 12 months after transplantation.
 Secondary efficacy endpoints were the rate of biopsy-confirmed acute rejection, patient survival, incidence of efficacy failure (defined as the first occurrence of either biopsy-proven acute rejection, graft loss, or death), and treatment failure (defined as the first occurrence of either discontinuation, acute rejection, graft loss, or death).
 
@@ -159,8 +157,8 @@ TABLE 14: INCIDENCE OF FIRST BIOPSY-PROVEN ACUTE REJECTION (%) BY TREATMENT GROU
 | Post-randomization through 36 months | 5.6 | 10.2 |
 | Total at 36 months | 14.9 | 20.5 |
 
-Patients receiving renal allografts with ≥ 4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% versus 3.0%).
-Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% versus 7.7%) following randomization.
+Patients receiving renal allografts with ≥4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% versus 3.0%).
+Patients receiving renal allografts with ≤3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% versus 7.7%) following randomization.
 
 The following table summarizes the mean calculated GFR in Study 3 (cyclosporine withdrawal study).
 
@@ -185,7 +183,7 @@ Fifty-two percent (112/215) of the patients in the Rapamune with cyclosporine wi
 
 ## 14.3 High-Immunologic Risk Renal Transplant Patients
 
-Rapamune was studied in a one-year, clinical trial in high risk patients (Study 4) who were defined as Black transplant recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reasons and/or patients with high panel-reactive antibodies (PRA; peak PRA level > 80%).
+Rapamune was studied in a one-year, clinical trial in high risk patients (Study 4) who were defined as Black transplant recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reasons and/or patients with high panel-reactive antibodies (PRA; peak PRA level >80%).
 Patients received concentration-controlled sirolimus and cyclosporine (MODIFIED), and corticosteroids per local practice.
 The Rapamune dose was adjusted to achieve target whole blood trough sirolimus concentrations of 10–15 ng/mL (chromatographic method) throughout the 12-month study period.
 The cyclosporine dose was adjusted to achieve target whole blood trough concentrations of 200–300 ng/mL through week 2, 150–200 ng/mL from week 2 to week 26, and 100–150 ng/mL from week 26 to week 52 [see Clinical Pharmacology (12.3)] for the observed trough concentrations ranges.
@@ -219,9 +217,10 @@ Concomitant immunosuppressive medications included mycophenolate mofetil (MMF), 
 Rapamune was initiated with a single loading dose of 12–20 mg, after which dosing was adjusted to achieve a target sirolimus whole blood trough concentration of 8–20 ng/mL (chromatographic method).
 The efficacy endpoint was calculated GFR at 12 months post-randomization.
 Additional endpoints included biopsy-confirmed acute rejection, graft loss, and death.
-Findings in the patient stratum with baseline calculated GFR greater than 40 mL/min (Rapamune conversion, n = 497; CNI continuation, n = 246) are summarized below: There was no clinically or statistically significant improvement in Nankivell GFR compared to baseline.
+Findings in the patient stratum with baseline calculated GFR greater than 40 mL/min (Rapamune conversion, n = 497; CNI continuation, n = 246) are summarized below.
+There was no clinically or statistically significant improvement in Nankivell GFR compared to baseline.
 
-TABLE 17: RENAL FUNCTION IN STABLE RENAL TRANSPLANT PATIENTS IN PATIENTS WITH BASELINE GFR > 40 mL/min THE RAPAMUNE CONVERSION STUDY (STUDY 5)
+TABLE 17: RENAL FUNCTION IN STABLE RENAL TRANSPLANT PATIENTS IN PATIENTS WITH BASELINE GFR >40 mL/min THE RAPAMUNE CONVERSION STUDY (STUDY 5)
 
 | Parameter | Rapamune conversion N = 496 | CNI continuation N = 245 | Difference (95% CI) |
 | --- | --- | --- | --- |
@@ -233,12 +232,12 @@ Treatment-emergent adverse events occurred more frequently during the first 6 mo
 The rates of pneumonia were significantly higher for the sirolimus conversion group.
 
 While the mean and median values for urinary protein to creatinine ratio were similar between treatment groups at baseline, significantly higher mean and median levels of urinary protein excretion were seen in the Rapamune conversion arm at 1 year and at 2 years, as shown in the table below [see Warnings and Precautions (5.9)].
-In addition, when compared to patients who continued to receive calcineurin inhibitors, a higher percentage of patients had urinary protein to creatinine ratios > 1 at 1 and 2 years after sirolimus conversion.
-This difference was seen in both patients who had a urinary protein to creatinine ratio ≤ 1 and those who had a protein to creatinine ratio > 1 at baseline.
-More patients in the sirolimus conversion group developed nephrotic range proteinuria, as defined by a urinary protein to creatinine ratio > 3.5 (46/482 [9.5%] versus 9/239 [3.8%]), even when the patients with baseline nephrotic range proteinuria were excluded.
-The rate of nephrotic range proteinuria was significantly higher in the sirolimus conversion group compared to the calcineurin inhibitor continuation group with baseline urinary protein to creatinine ratio > 1 (13/29 versus 1/14), excluding patients with baseline nephrotic range proteinuria.
+In addition, when compared to patients who continued to receive calcineurin inhibitors, a higher percentage of patients had urinary protein to creatinine ratios >1 at 1 and 2 years after sirolimus conversion.
+This difference was seen in both patients who had a urinary protein to creatinine ratio ≤1 and those who had a protein to creatinine ratio >1 at baseline.
+More patients in the sirolimus conversion group developed nephrotic range proteinuria, as defined by a urinary protein to creatinine ratio >3.5 (46/482 [9.5%] versus 9/239 [3.8%]), even when the patients with baseline nephrotic range proteinuria were excluded.
+The rate of nephrotic range proteinuria was significantly higher in the sirolimus conversion group compared to the calcineurin inhibitor continuation group with baseline urinary protein to creatinine ratio >1 (13/29 versus 1/14), excluding patients with baseline nephrotic range proteinuria.
 
-TABLE 18: MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) BETWEEN TREATMENT GROUPS AT BASELINE, 1 AND 2 YEARS IN THE STRATUM WITH BASELINE CALCULATED GFR > 40 mL/min
+TABLE 18: MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) BETWEEN TREATMENT GROUPS AT BASELINE, 1 AND 2 YEARS IN THE STRATUM WITH BASELINE CALCULATED GFR >40 mL/min
 
 |  | N | Mean ± SD | Median | N | Mean ± SD | Median | p-value |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -290,8 +289,7 @@ The absolute between-group difference in the mean change in FEV1 during the 12-m
 Similar improvements were seen for forced vital capacity (FVC).
 After discontinuation of Rapamune, the decline in lung function resumed in the Rapamune group and paralleled that in the placebo group (see Figure 1).
 
-| FIGURE 1: CHANGE IN FORCED EXPIRATORY VOLUME IN 1 SECOND (FEV1) DURING THE TREATMENT AND OBSERVATION PHASES OF THE STUDY IN LAM PATIENTS |
-| --- |
+FIGURE 1: CHANGE IN FORCED EXPIRATORY VOLUME IN 1 SECOND (FEV1) DURING THE TREATMENT AND OBSERVATION PHASES OF THE STUDY IN LAM PATIENTS
 
 The rate of change over 12 months of vascular endothelial growth factor-D (VEGF-D), a lymphangiogenic growth factor which has been shown to be elevated in patients with LAM, was significantly different in the Rapamune-treated group (-88.0 ± 16.6 pg/mL/month) compared to placebo (-2.42 ± 17.2 pg/mL/month) with a treatment difference of -86 pg/mL/month (95% CI: -133, -39).
 The absolute between-group difference in the mean change in VEGF-D during the 12-month treatment period was -1017.2, or approximately 50% of the mean VEGF-D at enrollment.

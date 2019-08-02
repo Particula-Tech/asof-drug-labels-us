@@ -10,11 +10,11 @@ In patients at high-immunologic risk (defined as Black recipients and/or repeat 
 
 ## 1.2 Limitations of Use in Renal Transplantation
 
-Cyclosporine withdrawal has not been studied in patients with Banff Grade 3 acute rejection or vascular rejection prior to cyclosporine withdrawal, those who are dialysis-dependent, those with serum creatinine > 4.5 mg/dL, Black patients, patients of multi-organ transplants, secondary transplants, or those with high levels of panel-reactive antibodies [see Clinical Studies (14.2)].
+Cyclosporine withdrawal has not been studied in patients with Banff Grade 3 acute rejection or vascular rejection prior to cyclosporine withdrawal, those who are dialysis-dependent, those with serum creatinine >4.5 mg/dL, Black patients, patients of multi-organ transplants, secondary transplants, or those with high levels of panel-reactive antibodies [see Clinical Studies (14.2)].
 
 In patients at high-immunologic risk, the safety and efficacy of Rapamune used in combination with cyclosporine and corticosteroids has not been studied beyond one year; therefore after the first 12 months following transplantation, any adjustments to the immunosuppressive regimen should be considered on the basis of the clinical status of the patient [see Clinical Studies (14.3)].
 
-In pediatric patients, the safety and efficacy of Rapamune have not been established in patients < 13 years old, or in pediatric (< 18 years) renal transplant patients considered at high-immunologic risk [see Adverse Reactions (6.5), Clinical Studies (14.6)].
+In pediatric patients, the safety and efficacy of Rapamune have not been established in patients <13 years old, or in pediatric (<18 years) renal transplant patients considered at high-immunologic risk [see Adverse Reactions (6.5), Clinical Studies (14.6)].
 
 The safety and efficacy of de novo use of Rapamune without cyclosporine have not been established in renal transplant patients [see Warnings and Precautions (5.12)].
 

@@ -1,9 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
-The complete text of the Medication Guide is reprinted at the end of the document.
+Advise patients, their families, and their caregivers to read the Medication Guide and Instructions for Use for the Oral Solution and assist them in understanding its contents.
+The complete text of the Medication Guide and Instructions for Use for the Oral Solution are reprinted at the end of the document.
 
-See FDA-Approved Medication Guide.
+See FDA-Approved Medication Guide and Instructions for Use for the Oral Solution.
 
 ## 17.1 Dosage
 
@@ -11,8 +11,15 @@ Patients should be given complete dosage instructions [see FDA-Approved Medicati
 
 ## 17.2 Skin Cancer Events
 
-Patients should be told that exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor because of the increased risk for skin cancer [see Warnings and Precautions (5.17)].
+Advise patients that exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor because of the increased risk for skin cancer [see Warnings and Precautions (5.18)].
 
-## 17.3 Pregnancy Risks
+## 17.3 Pregnancy and Lactation
 
-Women of childbearing potential should be informed of the potential risks during pregnancy and told that they should use effective contraception prior to initiation of Rapamune therapy, during Rapamune therapy, and for 12 weeks after Rapamune therapy has been stopped [see Use in Specific Populations (8.1)].
+Advise female patients of reproductive potential to avoid becoming pregnant throughout treatment and for 12 weeks after Rapamune therapy has stopped.
+Rapamune can cause fetal harm if taken during pregnancy.
+Advise a pregnant woman of the potential risk to her fetus.
+Before making a decision to breastfeed, inform the patient that the effects of breastfeeding in infants while taking this drug are unknown, but there is potential for serious adverse effects [see Warnings and Precautions (5.15), Use in Specific Populations (8.1, 8.2, 8.3)].
+
+## 17.4 Infertility
+
+Inform male and female patients that Rapamune may impair fertility [see Warnings and Precautions (5.16), Adverse Reactions (6.7), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
