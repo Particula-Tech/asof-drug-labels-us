@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 Rheumatoid Arthritis The use of NAPRELAN Tablets for the management of the signs and symptoms of rheumatoid arthritis was assessed in a 12 week double-blind, randomized, placebo, and active-controlled study in 348 patients.
-Two NAPRELAN 500 mg tablets (1,000 mg) once daily and naproxen 500 mg tablets twice daily (1,000 mg) were more effective than placebo.
+Two NAPRELAN 500 mg tablets (1,000 mg) once daily and naproxen 500 mg tablets twice daily (1000 mg) were more effective than placebo.
 Clinical effectiveness was demonstrated at one week and continued for the duration of the study.
 
 Osteoarthritis The use of NAPRELAN Tablets for the management of the signs and symptoms of osteoarthritis of the knee was assessed in a 12 week double-blind, placebo, and active-controlled study in 347 patients.

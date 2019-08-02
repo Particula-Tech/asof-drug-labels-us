@@ -1,5 +1,4 @@
-Product of Italy
+Distributed by: Almatica Pharma, Inc. Morristown, NJ 07960 USA
 
-Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
-
-PI272-06
+PI272-07 PKG02619 Rev.
+07/2019
