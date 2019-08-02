@@ -17,15 +17,11 @@ Edluar may cause serious side effects, including:
   The next morning, you may not remember that you did anything during the night.
   These activities may happen whether or not you drink alcohol or take other medicines that make you sleepy with Edluar.
   Reported activities include:
-
-You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with Edluar.
-Reported activities include:
-
-- odriving a car (“sleep-driving”)
-- omaking and eating food
-- otalking on the phone
-- ohaving sex
-- osleep-walking
+  - odriving a car (“sleep-driving”)
+  - omaking and eating food
+  - otalking on the phone
+  - ohaving sex
+  - osleep-walking
 
 Stop taking Edluar and call your healthcare provider right away if you find out that you have done any of the above activities after taking Edluar.
 
@@ -189,5 +185,5 @@ EDLUAR is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
 
 The brands listed are trademarks of their respective owners.
 
-IG-6010-XX2 Rev.
+IG-6010-XX3 Rev.
 XX/2019 797139

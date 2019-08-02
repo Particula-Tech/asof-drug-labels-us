@@ -4,9 +4,9 @@
 
 ### Risk Summary
 
-Neonates born to mothers using zolpidem late in the third trimester of pregnancy have been reported to experience symptoms of respiratory depression and sedation [see Clinical Considerations and Data].
-Published data on the use of zolpidem during pregnancy have not identified a drug-associated risk of and major birth defects [see Data].
-Oral administration of zolpidem to pregnant rats and rabbits did not indicate a risk for adverse effects on fetal development at clinically relevant doses [see Data].
+Neonates born to mothers using zolpidem late in the third trimester of pregnancy have been reported to experience symptoms of respiratory depression and sedation (see Clinical Considerations and Data).
+Published data on the use of zolpidem during pregnancy have not identified a drug-associated risk of and major birth defects (see Data).
+Oral administration of zolpidem to pregnant rats and rabbits did not indicate a risk for adverse effects on fetal development at clinically relevant doses (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -44,7 +44,7 @@ Oral administration of zolpidem to pregnant rats from day 15 of gestation throug
 ### Risk Summary
 
 Limited data from published literature reports the presence of zolpidem in human milk.
-There are reports of excess sedation in infants exposed to zolpidem through breastmilk [see Clinical Considerations].
+There are reports of excess sedation in infants exposed to zolpidem through breastmilk (see Clinical Considerations).
 There is no information on the effects of zolpidem on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Edluar and any potential adverse effects on the breastfed infant from Edluar or from the underlying maternal condition.
 

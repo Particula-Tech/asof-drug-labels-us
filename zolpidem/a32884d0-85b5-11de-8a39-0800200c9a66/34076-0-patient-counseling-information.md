@@ -9,9 +9,9 @@ Instruct patients or caregivers that Edluar should be taken only as prescribed.
 
 Complex Sleep Behaviors
 
-Instruct patients and their families that Edluar can cause complex sleep behaviors, such as sleep walking, sleep driving, preparing and eating food, making phone calls, or having sex while not being fully awake.
-Serious injuries and death have occurred during a complex sleep behavior episode.
-Tell patients to discontinue Edluar and call you immediately if they develop any of these symptoms [see Warnings and Precautions (5.1)].
+Instruct patients and their families that Edluar may cause complex sleep behaviors, including sleep-walking, sleep-driving, preparing and eating food, making phone calls, or having sex while not being fully awake.
+Serious injuries and death have occurred during complex sleep behavior episodes.
+Tell patients to discontinue Edluar and notify their healthcare provider immediately if they develop any of these symptoms [see Boxed Warning, Warnings and Precautions (5.1)].
 
 CNS-depressant Effects and Next-Day Impairment
 

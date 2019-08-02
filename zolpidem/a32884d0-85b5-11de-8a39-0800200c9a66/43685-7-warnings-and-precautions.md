@@ -2,17 +2,17 @@
 
 ## 5.1 Complex Sleep Behaviors
 
-Complex sleep behaviors including sleepwalking, sleep driving, and engaging in other activities while not fully awake have been reported following use of Edluar.
+Complex sleep behaviors including sleep-walking, sleep-driving, and engaging in other activities while not fully awake may occur following use of zolpidem.
 Serious injuries and death have occurred during a complex sleep behavior episode.
 Other complex sleep behaviors (e.g., preparing and eating food, making phone calls, or having sex) have also been reported.
 Patients usually do not remember these events.
-Post-marketing reports have shown that complex sleep behaviors may occur with Edluar alone at therapeutic doses, with or without the concomitant use of alcohol or other CNS depressants [see Drug Interactions (7.1)], and may occur on first use of Edluar.
-Patients who have experienced complex sleep behaviors after taking a sedative-hypnotic drug are more likely to experience a complex sleep behavior resulting in serious injuries or death after taking Edluar [see Contraindications (4)].
+Post-marketing reports have shown that complex sleep behaviors may occur with zolpidem alone at recommended dosages, with or without the concomitant use of alcohol or other central nervous system (CNS) depressants [see Drug Interactions (7.1)], and may occur on first use of zolpidem.
+Patients who have experienced complex sleep behaviors after taking Edluar may experience a future complex sleep behavior resulting in serious injuries or death after taking a subsequent dose of Edluar[see Contraindications (4)].
 Discontinue Edluar immediately if a patient experiences a complex sleep behavior.
 
 ## 5.2 CNS Depressant Effects and Next-Day Impairment
 
-Edluar, like other sedative-hypnotic drugs, has central nervous system (CNS) depressant effects.
+Edluar, like other sedative-hypnotic drugs, CNS depressant effects.
 Co-administration with other CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants, alcohol) increases the risk of CNS depression.
 Dosage adjustments of Edluar and of other concomitant CNS depressants may be necessary when Edluar is administered with such agents because of the potentially additive effects.
 The use of Edluar with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see Dosage and Administration (2.3)].
