@@ -3,10 +3,10 @@
 ## Acromegaly
 
 Octreotide acetate injection is indicated to reduce blood levels of growth hormone and IGF-I (somatomedin C) in acromegaly patients who have had inadequate response to or cannot be treated with surgical resection, pituitary irradiation, and bromocriptine mesylate at maximally tolerated doses.The goal is to achieve normalization of growth hormone and IGF-I (somatomedin C) levels (see DOSAGE AND ADMINISTRATION).
-In patients with acromegaly, octreotide acetate injection reduces growth hormone to within normal ranges in 50% of patients and reduces IGF-I (somatomedin C) to within normal ranges in 50% to 60% of patients.
+In patients with acromegaly, octreotide acetate injection reduces growth hormone to within normal ranges in 50% of patients and reduces IGF-I (somatomedin C) to within normal ranges in 50%-60% of patients.
 Since the effects of pituitary irradiation may not become maximal for several years, adjunctive therapy with octreotide acetate injection to reduce blood levels of growth hormone and IGF-I (somatomedin C) offers potential benefit before the effects of irradiation are manifested.
 
-Improvement in clinical signs and symptoms or reduction in tumor size or rate of growth were not shown in clinical trials performed with octreotide acetate injection; these trials were not optimally designed to detect such effects.
+Improvement in clinical signs and symptoms, or reduction in tumor size or rate of growth, were not shown in clinical trials performed with octreotide acetate injection; these trials were not optimally designed to detect such effects.
 
 ## Carcinoid Tumors
 

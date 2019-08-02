@@ -20,6 +20,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 Manufactured by: Italfarmaco S.p.A.
 V.le Fulvio Testi, 330 20126 Milano, Italy
 
-Revised: 5/2017 MI:OCTRIJ:R5
+Revised: 6/2019 MI:OCTRIJ:R6
 
-PK20560
+PK20876
