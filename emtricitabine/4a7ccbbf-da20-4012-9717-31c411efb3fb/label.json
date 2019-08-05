@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212114"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Laurus Labs Limited",
+  "package_ndcs": [
+    "42385-913-30",
+    "42385-913-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "emtricitabine and tenofovir disoproxil fumarate",
+      "name": "Emtricitabine and Tenofovir Disoproxil Fumarate"
+    }
+  ],
+  "setid": "4a7ccbbf-da20-4012-9717-31c411efb3fb",
+  "source": "dailymed"
+}
