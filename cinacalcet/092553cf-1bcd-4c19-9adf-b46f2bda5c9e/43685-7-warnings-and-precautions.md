@@ -7,7 +7,7 @@ Significant lowering of serum calcium can cause paresthesias, myalgias, muscle s
 Life threatening events and fatal outcomes associated with hypocalcemia have been reported in patients treated with cinacalcet, including in pediatric patients.
 The safety and effectiveness of cinacalcet have not been established in pediatric patients [see Pediatric Use (8.4)].
 
-Cinacalcet hydrochloride tablets are not indicated for patients with CKD not on dialysis [see Indications and Usage (1)].
+Cinacalcet tablets are not indicated for patients with CKD not on dialysis [see Indications and Usage (1)].
 In patients with secondary HPT and CKD not on dialysis, the long-term safety and efficacy of cinacalcet have not been established.
 Clinical studies indicate that cinacalcet-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with cinacalcet-treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.
 In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of cinacalcet-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.

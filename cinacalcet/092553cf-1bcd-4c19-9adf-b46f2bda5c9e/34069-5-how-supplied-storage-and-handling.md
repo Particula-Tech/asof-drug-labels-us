@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Cinacalcet hydrochloride tablets are supplied as follows:
+Cinacalcet tablets are supplied as follows:
 
 30 mg light-green, film-coated, oval-shaped tablets, debossed with “379” on one side and plain on other side.
 

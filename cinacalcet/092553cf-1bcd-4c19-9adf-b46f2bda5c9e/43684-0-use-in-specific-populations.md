@@ -42,7 +42,7 @@ Dosing with cinacalcet in a pediatric study was stopped because of a fatality in
 The individual was noted to be severely hypocalcemic at the time of death.
 The cause of death was multifactorial and a contribution of cinacalcet to the death could not be excluded [see Warnings and Precautions (5.1)].
 
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Amgen Inc.’ SENSIPAR® (cinacalcet hydrochloride).
+Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Amgen Inc.’ SENSIPAR® (cinacalcet).
 However, due to Amgen Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use

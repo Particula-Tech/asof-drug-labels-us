@@ -115,7 +115,7 @@ In this trial, 1.1% of patients receiving cinacalcet and 0.1% of patients receiv
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of cinacalcet hydrochloride tablets.
+The following adverse reactions have been identified during post approval use of cinacalcet tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Rash and hypersensitivity reactions (including angioedema and urticaria), and myalgia

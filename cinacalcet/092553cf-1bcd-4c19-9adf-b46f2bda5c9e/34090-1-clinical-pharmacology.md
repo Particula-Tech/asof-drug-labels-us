@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
-Cinacalcet, the active ingredient in cinacalcet hydrochloride tablets directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
+Cinacalcet, the active ingredient in cinacalcet tablets directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
 
 ## 12.2 Pharmacodynamics
@@ -44,9 +44,9 @@ Drug Interactions In vitro studies indicate that cinacalcet is a strong inhibito
 In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 enzymes.
 Tables 5 and 6 list the findings from in vivo drug-drug interaction studies.
 Table 5.
-Effect of co-administered drugs on cinacalcet
+Effect of coadministered drugs on cinacalcet
 
-| Co-administered drug and dosing regimen | Cinacalcet |  |  |
+| Coadministered drug and dosing regimen | Cinacalcet |  |  |
 | --- | --- | --- | --- |
 |  | DoseSingle dose. | Mean change in AUC(0-inf) | Mean change in Cmax |
 | 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑127% | ↑116% |
@@ -55,9 +55,9 @@ Effect of co-administered drugs on cinacalcet
 | 2,400 mg sevelamer HCl three times a day for 2 days | 90 mg on day 1 with first dose of sevelamer | ↓4% | ↓7% |
 
 Table 6.
-Effect of cinacalcet co-administration on other drugs
+Effect of cinacalcet coadministration on other drugs
 
-| Cinacalcet dosing regimen | Co-administered drug |  |  |
+| Cinacalcet dosing regimen | Coadministered drug |  |  |
 | --- | --- | --- | --- |
 |  | Name and Dose | Mean change in AUC(0-inf) | Mean change in Cmax |
 | 30 mg twice daily for 8 days | 25 mg warfarinNo significant change in prothrombin time. tabletSingle dose on day 5. | ↑1 % for R-warfarin ↓1% S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
