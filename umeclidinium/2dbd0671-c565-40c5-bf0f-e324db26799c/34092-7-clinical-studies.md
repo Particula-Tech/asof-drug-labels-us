@@ -92,7 +92,7 @@ The median time to onset on Day 1, defined as a 100-mL increase from baseline in
 
 Exacerbations
 
-In Trial 6 (NCT #02164513), a total of 10,355 subjects with COPD with a history of 1 or more moderate or severe exacerbations in the prior 12 months were randomized (1:2:2) to receive ANORO ELLIPTA (n = 2,070), fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg (n = 4,145), or fluticasone furoate/vilanterol 100 mcg/25 mcg (n = 4,133) administered once daily in a 12-month trial.
+In Trial 6 (NCT #02164513), a total of 10,355 subjects with COPD with a history of 1 or more moderate or severe exacerbations in the prior 12 months were randomized (1:2:2) to receive ANORO ELLIPTA (n = 2,070), fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg (n = 4,151), or fluticasone furoate/vilanterol 100 mcg/25 mcg (n = 4,134) administered once daily in a 12-month trial.
 The population demographics across all treatments were: mean age of 65 years, 77% white, 66% male, and an average smoking history of 46.6 pack-years, with 35% identified as current smokers.
 At trial entry, the most common COPD medications were ICS + anticholinergic + LABA (34%), ICS + LABA (26%), anticholinergic + LABA (8%), and anticholinergic (7%).
 The mean postbronchodilator percent predicted FEV1 was 46% (standard deviation: 15%), the mean postbronchodilator FEV1/FVC ratio was 0.47 (standard deviation: 0.12), and the mean percent reversibility was 10% (range: -59% to 125%).
