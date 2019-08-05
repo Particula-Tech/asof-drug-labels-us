@@ -4,7 +4,7 @@ In two randomized, double-masked, multicenter controlled clinical trials, 224 pa
 The primary efficacy endpoint in both trials was the rate of recurrence of uveitis affecting the posterior segment of the study eye in the 34 week pre-implantation period compared to the rate of recurrence in the 34 week post-implantation period.
 Uveitis recurrence rates at 1, 2, and 3 year post-implantation were also compared to the 34 week pre-implantation period.
 
-Detailed results are shown in table 1 below:
+Detailed results are shown in Table 1 below:
 
 Table 1: Uveitis Recurrence Rates
 
