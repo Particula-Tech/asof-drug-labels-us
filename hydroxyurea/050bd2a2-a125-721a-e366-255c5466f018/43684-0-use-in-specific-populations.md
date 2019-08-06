@@ -61,7 +61,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Elderly patients may be more sensitive to the effects of hydroxyurea, and may require a lower dose regimen.
+Elderly patients may be more sensitive to the effects of hydroxyurea and may require a lower dose regimen.
 Hydroxyurea is excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.3)].
 

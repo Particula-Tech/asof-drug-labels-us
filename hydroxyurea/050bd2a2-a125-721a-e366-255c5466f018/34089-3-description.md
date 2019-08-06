@@ -5,5 +5,5 @@ Inactive ingredients include citric acid, colorants (D&C Yellow No. 10, FD&C Blu
 
 Hydroxyurea is a white to off-white crystalline powder.
 It is hygroscopic and freely soluble in water, but practically insoluble in alcohol.
-The empirical formula is CH4N2O2 and it has a molecular weight of 76.05.
+The empirical formula is CH​4N2O2 and it has a molecular weight of 76.05.
 Its structural formula is:

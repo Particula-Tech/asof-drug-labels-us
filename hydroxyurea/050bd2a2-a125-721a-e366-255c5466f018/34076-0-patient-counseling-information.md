@@ -10,3 +10,4 @@
 - Advise females to discontinue breastfeeding during treatment with HYDREA [see Use in Specific Populations (8.2)].
 - Patients with HIV infection should contact their physician for signs and symptoms of pancreatitis, hepatic events, and peripheral neuropathy [see Warnings and Precautions (5.6)].
 - Post-irradiation erythema can occur in patients who have received previous irradiation therapy [see Warnings and Precautions (5.7)].
+- Advise patients of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.9)].

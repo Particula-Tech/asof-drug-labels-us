@@ -25,7 +25,7 @@ Based on the mechanism of action and findings in animals, HYDREA can cause fetal
 Hydroxyurea was embryotoxic and teratogenic in rats and rabbits at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m2 basis.
 Advise pregnant women of the potential risk to a fetus [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during and after treatment with HYDREA for at least 6 months after therapy.
-Advise males of reproductive potential to use effective contraception during and after treatment with HYDREA for at least 1 year after therapy [see Use in Specific Populations (8.1,8.3)].
+Advise males of reproductive potential to use effective contraception during and after treatment with HYDREA for at least 1 year after therapy [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.4 Vasculitic Toxicities
 
@@ -57,6 +57,12 @@ The morphologic change resembles pernicious anemia, but is not related to vitami
 This may mask the diagnosis of pernicious anemia.
 Prophylactic administration of folic acid is recommended.
 
-## 5.9 Laboratory Test Interference
+## 5.9 Pulmonary Toxicity
+
+Interstitial lung disease including pulmonary fibrosis, lung infiltration, pneumonitis, and alveolitis/allergic alveolitis (including fatal cases) have been reported in patients treated for myeloproliferative neoplasm.
+Monitor patients developing pyrexia, cough, dyspnea, or other respiratory symptoms frequently, investigate and treat promptly.
+Discontinue HYDREA and manage with corticosteroids [see Adverse Reactions (6.1)].
+
+## 5.10 Laboratory Test Interference
 
 Interference with Uric Acid, Urea, or Lactic Acid Assays is possible, rendering falsely elevated results of these in patients treated with hydroxyurea [see Drug Interactions (7.2)].
