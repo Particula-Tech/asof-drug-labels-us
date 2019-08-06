@@ -5,7 +5,7 @@
 ### Pregnancy Category B
 
 Animal reproduction studies have not been conducted with Omnitrope.
-It is not known whether Omnitrope®can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
+It is not known whether Omnitrope can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
 
 Reproduction studies carried out with another somatropin product at doses of 0.3, 1, and 3.3 mg/kg/day administered subcutaneously in the rat and 0.08, 0.3, and 1.3 mg/kg/day administered intramuscularly in the rabbit (highest doses approximately 24 times and 19 times the recommended human therapeutic levels, respectively, based on body surface area) resulted in decreased maternal body weight gains but were not teratogenic.
 In rats receiving subcutaneous doses during gametogenesis and up to 7 days of pregnancy, 3.3 mg/kg/day (approximately 24 times human dose) produced anestrus or extended estrus cycles in females and fewer and less motile sperm in males.

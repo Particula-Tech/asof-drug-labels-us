@@ -19,7 +19,7 @@ All patients with Prader-Willi Syndrome treated with somatropin should also have
 
 In childhood cancer survivors who were treated with radiation to the brain/head for their first neoplasm and who developed subsequent GHD and were treated with somatropin, an increased risk of a second neoplasm has been reported.
 Intracranial tumors, in particular meningiomas, were the most common of these second neoplasms.
-In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4.3)].
+In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4)].
 Monitor all patients with a history of GHD secondary to an intracranial neoplasm routinely while on somatropin therapy for progression or recurrence of the tumor [see Contraindications (4)].
 
 Because children with certain rare genetic causes of short stature have an increased risk of developing malignancies, practitioners should thoroughly consider the risks and benefits of starting somatropin in these patients.
@@ -49,7 +49,7 @@ Patients with Turner syndrome and Prader-Willi Syndrome may be at increased risk
 
 ## 5.6 Hypersensitivity
 
-Serious systemic hypersensitivity reactions includinganaphylactic reactions and antioedema have been reported with postmarketing use of somatropin products.
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products.
 Patients and caregivers should be informed that such reactions are possible and that prompt medical attention should be sought if an allergic reaction occurs [see Contraindications (4)].
 
 ## 5.7 Fluid Retention
@@ -100,7 +100,7 @@ This can be avoided by rotating the injection site [see Dosage and Administratio
 
 ## 5.15 Laboratory Tests
 
-Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH) and IGF-1 may increase after somatropin therapy.
+Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH) and IGF-I may increase after somatropin therapy.
 
 ## 5.16 Pancreatitis
 

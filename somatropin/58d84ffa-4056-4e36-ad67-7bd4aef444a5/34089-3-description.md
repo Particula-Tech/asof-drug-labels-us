@@ -19,8 +19,8 @@ Contents of Omnitrope Cartridges and Vial
 | --- | --- | --- | --- |
 | Component |  |  |  |
 | Somatropin | 5 mg | 10 mg | 5.8 mg |
-| Disodium hydrogen phosphate heptahydrate | 1.3 mg | 1.70 mg | 2.09 mg |
-| Sodium dihydrogen phosphate dihydrate | 1.6 mg | 1.35 mg | 0.56 mg |
+| Disodium hydrogen phosphate heptahydrate | 1.15 mg | 1.34 mg | 1.88 mg |
+| Sodium dihydrogen phosphate dihydrate | 1.67 mg | 1.56 mg | 0.68 mg |
 | Poloxamer 188 | 3.0 mg | 3.0 mg | - |
 | Mannitol | 52.5 mg | - | - |
 | Glycine | - | 27.75 mg | 27.6 mg |

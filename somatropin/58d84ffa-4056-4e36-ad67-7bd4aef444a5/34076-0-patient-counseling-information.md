@@ -5,7 +5,7 @@ See FDA-approved patient labeling (Instructions For Use: Omnitrope Pen 5 Instruc
 Patients being treated with Omnitrope (and/or their parents) should be informed about the potential risks and benefits associated with somatropin treatment.
 This information is intended to better educate patients (and caregivers); it is not a disclosure of all possible adverse or intended effects.
 
-Patients and caregivers who will administer Omnitrope should receive appropriate training and instruction on the proper use of Omnitrope® from the physician or other suitably qualified health care professional.
+Patients and caregivers who will administer Omnitrope should receive appropriate training and instruction on the proper use of Omnitrope from the physician or other suitably qualified health care professional.
 A puncture-resistant container for the disposal of used syringes and needles should be strongly recommended.
 Patients and/or parents should be thoroughly instructed in the importance of proper disposal, and cautioned against any reuse of needles and syringes.
 Counsel patients and parents that they should never share an Omnitrope Pen with another person, even if the needle is changed.
@@ -22,4 +22,4 @@ Manufactured in Austria by Sandoz GmbH
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-December 2016
+June 2019

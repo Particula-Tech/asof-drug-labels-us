@@ -79,9 +79,9 @@ In renal cells, at least a portion of the breakdown products are returned to the
 ### Excretion
 
 The mean terminal half-life of somatropin after subcutaneous administration of Omnitrope Cartridge in healthy adults is 2.5-2.8 hours.
-The mean clearance of subcutaneously administered Omnitrope Cartridge in healthy adults was about 0.14 L/hr/kg.
+The mean clearance of subcutaneously administered Omnitrope Cartridge in healthy adults was about 0.14 L/hr·kg.
 
-### SpecificPopulations
+### Specific Populations
 
 Pediatric: No pharmacokinetic studies of Omnitrope have been conducted in pediatric patients.
 

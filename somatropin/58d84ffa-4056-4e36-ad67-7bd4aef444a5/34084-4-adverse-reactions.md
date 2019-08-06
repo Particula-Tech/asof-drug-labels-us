@@ -3,7 +3,7 @@
 The following important adverse reactions area also described elsewhere in labeling:
 
 - •Increased mortality in patients with acute critical illness [see Warnings and Precautions (5.1)]
-- •Fatalities in children with Prader-Willi Syndrome [see Warnings and Precautions (5.2)].
+- •Fatalities in children with Prader-Willi Syndrome [see Warnings and Precautions (5.2)]
 - •Neoplasms [see Warnings and Precautions (5.3)]
 - •aGlucose intolerance and diabetes mellitus [Warnings and Precautions (5.4)]
 - •Intracranial hypertension [see Warnings and Precautions (5.5)]
@@ -13,7 +13,7 @@ The following important adverse reactions area also described elsewhere in label
 - •Hypothyroidism [see Warnings and Precautions (5.9)]
 - •Slipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.10)]
 - •Progression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.11)]
-- •Otitis media and cardiovascular disorders in patients with Turner syndrome [see Warnings and Precautions (5.12)]
+- •Otitis media and cardiovascular disorders in patients with Turner syndrome [see Warnings and Precautions (5.13)]
 - •Lipoatrophy [see Warnings and Precautions (5.14)]
 - •Pancreatitis [see Warnings and Precautions (5.16)]
 - •Benzyl Alcohol [see Warnings and Precautions (5.17)]
@@ -124,6 +124,6 @@ It is uncertain whether these cases of leukemia are related to GH therapy, the p
 On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
 The risk for children with GHD, if any, remains to be established [see Contraindications (4) and Warnings and Precautions (5.3)].
 
-The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.16)].
+The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults) [see Warnings and Precautions (5.16)].
 
 New-onset type 2 diabetes mellitus has been reported.

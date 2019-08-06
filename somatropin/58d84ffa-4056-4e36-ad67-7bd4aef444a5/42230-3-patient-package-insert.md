@@ -1,286 +1,235 @@
 # INSTRUCTIONS FOR USE
 
-## OMNITROPE® PEN 5
+## OMNITROPE® PEN 5 INSTRUCTIONS FOR USE
 
-For use with Omnitrope® (om-KNEE-trope)
+Omnitrope (om-KNEE-trope)
 
-(somatropin) injection 5 mg/1.5 mL cartridges
+(somatropin) injection, for subcutaneous use
 
-TABLE OF CONTENTS
+5 mg/1.5 mL cartridges for use with
 
-Important Safety Information
+Omnitrope Pen 5
 
-DOs and DON’Ts
+Read these Instructions for Use before you start using Omnitrope Pen 5 and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to the healthcare provider about the medical condition or the treatment.
 
-Pen Parts
+Note:
 
-Auto-positioning Feature
+- •Omnitrope is for use under the skin only (subcutaneous).
+- •Do not share your Omnitrope Pen or needles with anyone else.
+  You may give an infection to them or get an infection from them.
+- •The “Start use by no later than” date, presented in year, month and day on the outer carton, indicates the date after which therapy should not be initiated with this pen.
 
-Pen Components
+Omnitrope Pen 5, cartridge containing Omnitrope, needle, alcohol swab and storage case:
 
-How to Use Your Omnitrope Pen 5
+Supplies you will need to give an Omnitrope Injection.
+See Figure A.
 
-Loading the Cartridge into the Pen
+- •Omnitrope Pen 5
+- •5 mg/1.5 mL cartridge containing Omnitrope
+- •1 new BD™ Pen needle (29G x 12.7 mm or 31G x 8 mm or 31G x 5 mm).
+  Needles are not included with the Pen.
+- •1 alcohol swab
+- •flat surface like a table
+- •a sharps disposal container.
+  See Step 6 for information on how to dispose of used needles and syringes.
 
-Attaching the Pen Needle
+Steps you should follow to give an Omnitrope injection:
 
-Priming
+Step 1.
+Placing the cartridge in the Omnitrope Pen 5
 
-Dose Dialing
+Step 2.
+Attaching the needle to the Omnitrope Pen 5
 
-Making the Injection
+Step 3.
+Priming a new cartridge
 
-Removing the Pen Needle
+Step 4.
+Selecting the correct dose of Omnitrope
 
-Trouble Shooting
+Step 5.
+Selecting the injection site and injecting the dose of Omnitrope
 
-Care and Storage
+Step 6.
+Removing and throwing away the needle and empty cartridge
 
-Guarantee
+Step 1.
+Placing the cartridge in the Omnitrope Pen 5
 
-Important Personal Notes
+- •Take an Omnitrope cartridge out of the refrigerator and leave at room temperature for about 30 minutes.
+  Wash and dry your hands while you wait.
+- •Assemble all of the supplies needed on a flat surface.
+  Remove the Pen and cartridge from their cartons if you are preparing the injection for the first time.
+- •Hold the body of the Pen with 1 hand and pull off the Pen cap with the other hand.
+  See Figure B.
 
-READ FIRST: Important Safety Information
+- •Hold the body of the Pen with 1 hand and unscrew the cartridge holder in a clockwise direction until the Pen and cartridge holder are completely separated.
+  See Figure C.
 
-1. 1.Read the following instructions before using the Omnitrope Pen 5.
-   Ask your healthcare professional if there is something you do not understand.
-2. 2.The Omnitrope Pen 5 is a pen injector.
-   It is for use with Omnitrope cartridges 5 mg/1.5 mL and BD® pen needles (29G x 12.7 mm or 31G x 8 mm or 31G x 5 mm).
-3. 3.People with very poor vision should not use the Omnitrope Pen 5 unless someone with good eyesight is able to help.
+- •Hold the cartridge in 1 hand with the metal cap end pointing down.
+  Insert the cartridge into the cartridge holder.
+  See Figure D.
 
-DOS AND DON’TS
+- •Lower the Pen body onto the cartridge holder so that the black rod presses against the cartridge plunger.
+  Screw the cartridge holder onto the Pen body in a counterclockwise direction until the cartridge holder will not turn anymore.
+  One of the blue arrows on the cartridge holder must line up with the yellow line mark on the Pen body.
+  Do not over tighten the cartridge holder.
+  See Figure E.
 
-DOs
+Step 2.
+Attaching the needle to the Omnitrope Pen 5
 
-1. 1.Always keep Omnitrope cartridges refrigerated.
-2. 2.Cartridges should be handled with care at all times.
-3. 3.After taking a cartridge out of the refrigerator, allow it to reach room temperature (about 30 minutes) before injecting the medicine.
-4. 4.When starting a new cartridge, always ready (prime) the pen.
-5. 5.When making an injection, insert the pen needle into the skin in the way that your healthcare professional teaches you.
-   After pen needle insertion, push the injection button in as far as it will go and continue to press firmly for at least five seconds, before you remove the pen needle from the skin.
-   If medicine continues to drip from the pen needle after injection, hold the pen needle in the skin longer the next time you inject.
-6. 6.This device must not be shared with other patients even if the needle is changed.
-   Sharing of the pen between patients may pose a risk of transmission of infection.
-   However, if you are giving an injection to another person, be careful when removing the pen needle.
-   Accidental pen needle sticks can transmit infections.
-7. 7.For safety and injection comfort, use a new, sterile pen needle with each injection.
+- •Take a new disposable needle and tear off the paper tab.
+  Do not touch the needle or lay it on a surface.
+  See Figure F.
 
-DON’Ts
+- •Holding the cartridge holder with 1 hand, firmly press the needle onto the cartridge holder end of the Pen.
+  See Figure G. Screw the threaded hub of the needle onto the cartridge holder in a counterclockwise direction until the needle will not turn anymore.
+  See Figure H.
 
-1. 1.Do not share the Omnitrope Pen 5 even if the needle is changed.
-   It is made for only one person to use.
-2. 2.The pen needle unit is sterile.
-   To avoid contaminating the pen needle after opening, do not place it on a surface or touch exposed parts.
-3. 3.Never dial your dose or attempt to correct a dialing error with the pen needle in your skin.
-   This may result in a wrong dose.
-4. 4.Never store or carry your Omnitrope Pen 5 with a pen needle attached.
+- •Gently pull off the outer needle shield and put it on a flat surface.
+  You will use the outer needle shield later to remove the needle from the Pen after the injection is finished.
+  See Figure I.
 
-Never recap pen with pen needle on.
+Note: Check that the cartridge holder is attached to the Pen body before each injection.
+One of the blue arrows on the cartridge should be lined up with the yellow mark on the Pen body.
+After you attach the needle, you may see a few drops of medicine at the tip of the needle.
 
-Storing or carrying your Omnitrope Pen 5 with a pen needle attached may lead to needle pricks and leaves an open passage for:
+Step 3.
+Priming a new cartridge
 
-- •Air to enter the cartridge
-- •medicine to leak out
+- •Priming is not needed for a cartridge you have used before.
+  If the cartridge has already been primed, go to Step 4.
+- •Before you use a new cartridge you must first prepare it for use.
+  Hold the Pen with the needle pointing upwards.
+  Gently tap the cartridge holder with your finger to help air bubbles rise to the top of the cartridge.
+  See Figure J.
 
-Both of these conditions can affect the dose of the injection.
+- •Hold the pen with the needle pointing up and the dose window facing you and you will see the numbers in the dose window at the bottom of the Pen body.
+  Using the dose knob on the bottom of the Pen, slowly turn the dose knob in a clockwise direction as shown in Figure K until you hear 1 “click”.
+  The arrow on the Pen body will then be lined up with the small line between “0” and “0.1” (0.05 mg).
+  See Figure K.
 
-1. 5.Do not use your Omnitrope Pen 5 if the cap or other parts are missing.
+- •Remove the inner needle shield.
+  See Figure L.
+- •With the needle pointing up, firmly turn the dose knob in a counterclockwise direction and back to the “0” position.
 
-PEN PARTS
+At least 2 drops of medicine must flow out of the needle for the Pen to be properly primed.
+See Figure M.
 
-AUTO-POSITIONING FEATURE
+- •If at least 2 drops of medicine do not flow out, set the dose to 0.05 mg and repeat this step until at least 2 drops of medicine appear at the tip of the needle.
+- •When you see 2 drops of medicine flow out of the needle, the Pen is correctly primed and ready to use.
 
-The Omnitrope Pen 5 has a black rod with an auto-positioning feature.
-This auto-positioning feature makes priming easier (fewer steps), especially when a new cartridge is used.
+Step 4.
+Selecting the correct dose of Omnitrope
 
-How it works
+- •Hold the pen with the needle pointing up and the dose window facing you and turn (dial) the dose knob in a clockwise direction until you see the number of mg for the prescribed dose in the middle of the dose window.
+  The dose should be lined up with the arrow on the Pen body.
+  You will hear 1 click for every single unit you dial.
+  See Figure N.
 
-(Pictures are included only to demonstrate the auto-positioning feature.
-These steps are not necessary to operate pen).
+Do not count the clicks to measure the correct dose of medicine.
 
-Notice that the black rod moves into the pen easily and returns to the fully extended position automatically.
-This automatic extension of the black rod positions it correctly against the cartridge plunger.
+- •If you turn the dose knob past the correct dose, do not dial counterclockwise.
 
-PEN PARTS
+Instead, hold the Pen body with the needle pointing up and turn the dose knob in a clockwise direction until you see a bent arrow () in the dose dialing window.
+See Figure O. Now continue to turn the dose knob in a clockwise direction until you hear a click and the entire Pen body is fully extended.
 
-|  | PEN CAP 1. Clip |
-| --- | --- |
-|  | CARTRIDGE HOLDER |
-|  | PEN BODY 2. Black rod 3. Dose window with arrow indicator 4. White dose knob 5. Red injection button |
-|  | PEN NEEDLE UNIT 6. Outer pen needle shield 7. Inner pen needle shield 8. Pen needle 9. Hub 10. Paper tab |
-
-Note – Pen Needle Unit is supplied assembled and sterile.
-Do not disassemble at this point.
-
-|  | CARTRIDGE 11. Rubber septum 12. Metal Cap 13. Cartridge plunger |
-| --- | --- |
-
-HOW TO USE YOUR OMNITROPE PEN 5
-
-LOADING THE CARTRIDGE INTO THE PEN
-
-1. 1.Remove the pen cap by pulling it off the pen.
-2. 2.Unscrew the cartridge holder from the pen body
-
-1. 3.Insert the cartridge, metal cap first, into the cartridge holder
-2. 4.Lower the pen body onto the cartridge holder so that the black rod presses against the cartridge plunger.
-   Screw the cartridge holder onto the pen body until no gap remains.
-   One of the blue arrows must line-up with the yellow line mark on the pen body.
-
-Note – Do not overtighten.
-
-ATTACHING THE PEN NEEDLE
-
-1. 5.Remove the paper tab from the back of a new pen needle.
-2. 6a.
-   Holding the cartridge holder, push the pen needle unit onto the pen.
-   Then screw the threaded hub of the pen needle onto the cartridge holder as shown.
-3. 6b.
-   With a gentle pull, remove the outer pen needle shield.
-   Save the outer shield.
-   You will use it to remove the pen needle from the pen after your injection is finished.
-4. 6c.
-   Do not remove the inner pen needle shield at this time.
-5. 6d.
-   Check that the cartridge holder is attached to the pen body, with the blue arrow lined-up with the yellow mark on the pen body before each injection.
-6. PRIMING
-
-Important – Before using a new cartridge, you must prime the Omnitrope Pen 5.
-
-For a New Cartridge Only
-
-1. 7.Hold the pen with the needle pointing upwards.
-   Gently tap the cartridge holder with your finger to help air bubbles rise to the top of the cartridge.
-   Set the dose to 0.05 mg (one click) by turning the dose knob.
-2. 8.Remove the inner pen needle shield.
-   With the pen needle pointing up, firmly turn the dose knob back to the “0” position and hold for at least 5 seconds.
-   At least 2 drops of medicine must flow out of the pen needle for the pen to be properly primed.
-   If at least 2 drops do not flow out, set the dose to 0.05 mg and repeat the steps until at least 2 drops of medicine appear at the tip of the pen needle.
-   When medicine appears, the Omnitrope Pen 5 is properly primed for injection and ready to use.
-
-For a previously used Cartridge
-
-No priming is needed.
-Remove the inner pen needle shield and continue with dose dialing.
-
-DOSE DIALING
-
-1. 9.To set your dose, turn the dose knob until you see the number of mg for your dose in the middle of the dose window lined-up with the arrow.
-   You will hear a click for each dose increment you dial.
-   However, do not rely on counting these clicks to measure the right dose.
-
-Important – Dose Correction
-
-If you turn the dose knob past your dose, do not dial backwards.
-
-Hold the pen body and turn the dose knob until it is fully extended as shown in picture 9a.
-You will see a bent arrow () in the dose dialing window.
 The injection button can now be fully pressed, resetting the dial to “0” without giving medicine.
-The right dose can now be redialed as described in step 9.
+The correct dose can now be redialed.
 
-Note – Check that the cartridge holder is still attached to the pen body, with the blue arrow lined-up with the yellow mark on the pen body.
+- •Check that the cartridge holder is still attached to the Pen body, with the blue arrow lined up with the yellow mark on the Pen body.
 
-MAKING THE INJECTION
+Step 5.
+Selecting the injection site and injecting the dose of Omnitrope
 
-1. 10.Insert the pen needle into the skin as instructed by your healthcare professional.
+Change the injection site every day.
+See Figure P.
 
-1. 11.After inserting the pen needle, push the injection button in as far in as it will go and press firmly.
-   A clicking sound will be heard while your dose is injecting.
-   Continue to press firmly for at least 5 seconds, before you remove the pen needle from the skin.
+- •Select the injection site and wipe the skin with an alcohol pad as your healthcare provider showed you.
+- •Insert the needle under the skin as your healthcare provider showed you.
+  See Figure Q.
 
-If medicine continues to drip from the pen needle after injection, hold the pen needle in your skin for a longer time the next time you inject.
+- •After inserting the needle into the skin, push the injection button as far in as it will go and press the button firmly.
+  A clicking sound will be heard while the dose is being injected.
+  Continue to press firmly on the injection button for 5 seconds before you remove the needle from the skin.
+  See Figure R.
 
-If you cannot push the Injection button in as far in as it goes and the dose window does not read “0”, the cartridge is empty and the full dose of medicine has not been injected.
-The dose indicator window will show the amount of medicine still needed.
-Remove the pen needle from the skin and note the number.
-Reset the dose knob to “0” by holding the pen and turning the dose knob until it is fully extended as shown in picture 9a.
-The dose injection button can now be fully pressed to “0”.
-Remove the pen needle from the pen (see step 12 below) and remove the empty cartridge by unscrewing the cartridge holder.
-Insert a new cartridge and prime the pen as described in steps 7 and 8.
-Set the dose, which you noted, and inject.
-This completes your dose.
+- •Stop pressing the injection button before you carefully remove the needle from the skin.
+- •If the injection button cannot be pushed in completely or stops during the injection, and the cartridge is empty, then the full dose has not been given.
+  The dose indicator window will show the amount of medicine still needed.
+  Reset the dose knob to “0” as described in Step 4.
+  Remove the needle as described in Step 6.
+  Replace the empty cartridge with a new cartridge as described in Step 1.
+  Prime the new cartridge as described in Step 3.
+  Set the dose, which you noted, and inject.
+  This completes your dose.
 
-Important – Before replacing a cartridge, be sure that the pen needle unit is NOT attached to the Omnitrope Pen 5.
+Step 6.
+Removing and throwing away the needle and empty cartridge
 
-REMOVING THE PEN NEEDLE
+- •Carefully replace the outer needle shield.
+  See Figure S.
 
-1. 12.Carefully replace the outer pen needle shield.
-   Hold the pen by the cartridge holder and unscrew the pen needle from the cartridge holder.
-   Recap the pen.
-2. 13.Store your Omnitrope Pen 5 with attached Omnitrope cartridge in its pouch or refrigerator storage box.
-   Store in a refrigerator between 36 and 46°F (2 and 8°C).
-3. 14.Dispose of used pen needles in a special container called a “sharps” container.
-   Your healthcare professional can give you a sharps container or tell you how to make one.
-   Do not dispose of used pen needles in the trash.
+- •Hold the Pen by the cartridge holder and carefully remove the needle from the Pen by turning the needle in a clockwise direction.
+  See Figure T. Recap the pen.
 
-TROUBLESHOOTING
+- •Put your used needles and cartridges in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and cartridges in your household trash.
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
+  - oleak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and cartridges.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
-| PROBLEM | POSSIBLE CAUSE | HOW TO FIX |
+How should I store Omnitrope Pen 5?
+
+- •Store Omnitrope cartridges in the refrigerator between 36°F and 46°F (2°C and 8°C).
+- •When the Omnitrope Pen 5 contains a cartridge, do not remove the cartridge from the Pen in between injections.
+  Store the Pen containing the cartridge in the storage case provided and place in the refrigerator.
+- •When the Pen does not contain a cartridge, you may store the Pen at room temperature.
+- •Do not freeze Omnitrope cartridges.
+- •Protect the Omnitrope Pen 5 and cartridge from light by storing in their cartons or the storage case.
+- •The Omnitrope cartridge must be thrown away 28 days after the first injection.
+  The Omnitrope Pen 5 can be reloaded with a new cartridge and can be used multiple times.
+
+Important information about possible problems you may have with the Omnitrope Pen 5
+
+| Problem | Possible cause | How to fix |
 | --- | --- | --- |
-| Dial unit does not turn easily. | Dust or dirt | Turn the dial beyond the highest setting on the scale. Wipe all exposed surfaces with a clean, damp cloth. Please also refer to the chapter “Care and Storage”. |
-| You have dialed a higher dose than needed. |  | Correct dose as described in step 9, “Dose correction”. |
-| The injection button cannot be pushed or stops during injection. (Dose knob does not return to “0”). | Cartridge is empty and full dose has not been dispensed. | Remove the pen needle as per step 12 and replace the empty cartridge with a new cartridge. Refer to step 11, “If the injection button stops”. |
-| Clogged pen needle. | Remove the pen needle as per step 12 and replace it with a new needle as described in step 5. |  |
-| No clicking is heard during the injection (Dose knob moves freely). | Pen is in dose correction mode. | Remove pen needle from skin. Press injection button all the way in so the dial returns to zero and repeat from step 9 to make the injection. |
-| Medicine continues to drip from the pen needle after injection. | Pen needle was removed from the skin too early. | Hold the pen needle in your skin longer next time you inject. |
-| Cartridge holder is not properly attached to the pen body. | Line-up blue arrow on cartridge holder with yellow mark on pen body. |  |
+| Dial unit does not turn easily. | Dust or dirt | Turn the dial beyond the highest setting on the scale. Wipe all exposed surfaces with a clean, damp cloth. |
+| The injection button cannot be pushed or stops during injection. The dose knob does not return to “0”. | Cartridge is empty and full dose has not been given. | Remove the needle as described in Step 6. Replace the empty cartridge with a new cartridge as described in Step 1. Prime the new cartridge as described in Step 3. |
+| Clogged needle. | Remove the needle as described in Step 6. Replace with a new needle as described in Step 2. |  |
+| No clicking is heard during the injection and dose knob moves freely. | Pen is in dose correction mode. | Remove the needle from skin. Press injection button all the way in so the dial returns to zero and repeat Step 2, Step 4 and Step 5 to give the injection. |
+| Medicine continues to drip from the needle before injection. | Cartridge holder is not properly attached to the Pen body. | Line up blue arrow on cartridge holder with yellow mark on Pen body. |
+| Medicine continues to drip from the needle after injection. | Needle was removed from the skin too early. | Hold the needle in the skin for 5 seconds to complete the injection, before you carefully remove the needle from the skin.For the next injection, make sure that you hold the needle in the skin for 5 seconds. |
+| Cartridge holder is not properly attached to the Pen body. | Line up blue arrow on cartridge holder with yellow mark on Pen body. |  |
+| The needle is left on the Pen after injection. | Carefully remove the needle from the Pen right after the injection. |  |
 
-CARE AND STORAGE
+If the Omnitrope Pen 5 is damaged or does not work, call the pharmacy where you got the Omnitrope Pen 5.
+If you got your Omnitrope Pen 5 from OmniSource, call 1-877-456-6794.
 
-Once your Omnitrope Pen 5 contains a somatropin cartridge, it has to be stored in the refrigerator between 36 and 46°F (2 and 8°C).
-
-Do not remove the cartridge between injections.
-
-Protect your Omnitrope Pen 5 and cartridge from light by storing in its pouch or refrigerator storage box.
-
-The Omnitrope cartridge must be discarded 28 days after the first injection.
-The Omnitrope Pen 5 can be reloaded with a new cartridge and be used multiple times.
-
-Your Omnitrope Pen 5 must be properly cared for.
-
-- •Only a clean, damp cloth should be used for routine cleaning.
-  Never wash the pen in water or with strong surgical disinfectants.
-- •Avoid exposure to dust, moisture and temperature extremes.
-  Do not expose to heat or freeze.
-
-If your Omnitrope Pen 5 is damaged or you cannot get it to work, contact the pharmacy that provided you the Omnitrope Pen 5 or, if OmniSource provided you with your Omnitrope Pen 5, call 1-877-456-6794.
-For other questions or additional information please call OmniSource at 1-877-456-6794.
-Do not attempt to repair the pen yourself.
-
-GUARANTEE
+For other questions or additional information, call OmniSource at 1-877-456-6794.
+Do not try to repair the Pen yourself.
 
 Your Omnitrope Pen 5 is covered by a 2 year guarantee.
 Contact your Omnitrope Pen 5 provider after you have used the pen for 2 years to have it replaced by a new one.
 
-If your Omnitrope Pen 5 is defective in materials or workmanship within the period of the guarantee, the provider of your Omnitrope Pen 5 will replace your pen and/or rectify the fault at its own cost.
-If OmniSource provided your Omnitrope Pen 5, call 1-877-456-6794.
-Otherwise call the pharmacy that provided the Omnitrope Pen 5.
+This guarantee is invalid if your Omnitrope Pen 5 has not been used in accordance with the manufacturer’s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
 
-In case of complaints, please contact your Omnitrope Pen 5 provider to report a complaint.
+These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-This guarantee is invalid if your Omnitrope Pen 5 has not been used in accordance with the manufacturer`s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
+Omnitrope is a trademark of Novartis.
 
-IMPORTANT PERSONAL NOTES
-
-Date I first used the Omnitrope Pen 5:
-
-____________________________________(dd/mm/yy)
-
-Pen log no:
-
-______________________________________
-
-Additional Comments:
-
-______________________________________
-
-______________________________________
-
-______________________________________
-
-______________________________________
-
-Omnitrope Pen 5
+BD and BD Logo are trademarks of Becton, Dickinson and Company © 2016 BD
 
 Manufactured for
 
@@ -292,297 +241,240 @@ Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-09-2016M
+12-2017
 
-CE0344
-
-Omnitrope® is a trademark of Novartis.
-
-BD and BD Logo are trademarks of Becton, Dickinson and Company.
-
-OP5.ifU.06.1
-
-46193261
+46170948
 
 ## OMNITROPE® PEN 10 INSTRUCTIONS FOR USE
 
-For use with Omnitrope® (somatropin) injection 10 mg/1.5 mL cartridges
+Omnitrope (om-KNEE-trope)
 
-TABLE OF CONTENTS
+(somatropin) injection, for subcutaneous use
 
-Important Safety Information
+10 mg/1.5 mL cartridges for use with
 
-DOs and DON’Ts
+Omnitrope Pen 10
 
-Pen Parts
+Read these Instructions for Use before you start using Omnitrope Pen 10 and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to the healthcare provider about the medical condition or the treatment.
 
-Auto-positioning Feature
+Note:
 
-Pen Components
+- •Omnitrope is for use under the skin only (subcutaneous).
+- •Do not share your Omnitrope Pen or needles with anyone else.
+  You may give an infection to them or get an infection from them.
+- •The “Start use by no later than” date, presented in year, month and day on the outer carton, indicates the date after which therapy should not be initiated with this pen.
 
-How to Use Your Omnitrope Pen 10
+Omnitrope Pen 10, cartridge containing Omnitrope, needle, alcohol swab and storage case:
 
-Loading the Cartridge into the Pen
+Supplies you will need to give an Omnitrope Injection.
+See Figure A.
 
-Attaching the Pen Needle
+- •Omnitrope Pen 10
+- •10 mg/1.5 mL cartridge containing Omnitrope
+- •1 new BD™ Pen needle (29G x 12.7 mm or 31G x 8 mm or 31G x 5 mm).
+  Needles are not included with the Pen.
+- •1 alcohol swab
+- •flat surface like a table
+- •a sharps disposal container.
+  See Step 6 for information on how to dispose of used needles and syringes.
 
-Priming
+Steps you should follow to give an Omnitrope injection:
 
-Dose Dialing
+Step 1.
+Placing the cartridge in the Omnitrope Pen 10
 
-Making the Injection
+Step 2.
+Attaching the needle to the Omnitrope Pen 10
 
-Removing the Pen Needle
+Step 3.
+Priming a new cartridge
 
-Trouble Shooting
+Step 4.
+Selecting the correct dose of Omnitrope
 
-Care and Storage
+Step 5.
+Selecting the injection site and injecting the dose of Omnitrope
 
-Guarantee
+Step 6.
+Removing and throwing away the needle and empty cartridge
 
-Important Personal Notes
+Step 1.
+Placing the cartridge in the Omnitrope Pen 10
 
-READ FIRST: Important Safety Information
+- •Take an Omnitrope cartridge out of the refrigerator and leave at room temperature for about 30 minutes.
+  Wash and dry your hands while you wait.
+- •Assemble all of the supplies needed on a flat surface.
+  Remove the Pen and cartridge from their cartons if you are preparing the injection for the first time.
+- •Hold the body of the Pen with 1 hand and pull off the Pen cap with the other hand.
+  See Figure B.
 
-1. 1.Read the following instructions before using the Omnitrope Pen 10.
-   Ask your healthcare professional if there is something you do not understand.
-2. 2.The Omnitrope Pen 10 is a pen injector.
-   It is for use with Omnitrope cartridges 10 mg/1.5 mL and BD® pen needles (29G x 12.7 mm or 31G x 8 mm or 31G x 5 mm).
-3. 3.People with very poor vision should not use the Omnitrope Pen 10 unless someone with good eyesight is able to help.
+- •Hold the body of the Pen with 1 hand and unscrew the cartridge holder in a clockwise direction until the Pen and cartridge holder are completely separated.
+  See Figure C.
 
-DOS AND DON’TS
+- •Hold the cartridge in 1 hand with the metal cap end pointing down.
+  Insert the cartridge into the cartridge holder.
+  See Figure D.
 
-DOs
+- •Lower the Pen body onto the cartridge holder so that the black rod presses against the cartridge plunger.
+  Screw the cartridge holder onto the Pen body in a counterclockwise direction until the cartridge holder will not turn anymore.
+  One of the blue arrows on the cartridge holder must line up with the white line mark on the Pen body.
+  Do not over tighten the cartridge holder.
+  See Figure E.
 
-1. 1.Always keep Omnitrope cartridges refrigerated.
-2. 2.Cartridges should be handled with care at all times.
-3. 3.After taking a cartridge out of the refrigerator, allow it to reach room temperature (about 30 minutes) before injecting the medicine.
-4. 4.When starting a new cartridge, always ready (prime) the pen.
-5. 5.When making an injection, insert the pen needle into the skin in the way that your healthcare professional teaches you.
-   After pen needle insertion, push the injection button in as far as it will go and continue to press firmly for at least five seconds, before you remove the pen needle from the skin.
-   If medicine continues to drip from the pen needle after injection, hold the pen needle in the skin longer the next time you inject.
-6. 6.This device must not be shared with other patients even if the needle is changed.
-   Sharing of the pen between patients may pose a risk of transmission of infection.
-   However, if you are giving an injection to another person, be careful when removing the pen needle.
-   Accidental pen needle sticks can transmit infections.
-7. 7.For safety and injection comfort, use a new, sterile pen needle with each injection.
+Step 2.
+Attaching the needle to the Omnitrope Pen 10
 
-DON’Ts
+- •Take a new disposable needle and tear off the paper tab.
+  Do not touch the needle or lay it on a surface.
+  See Figure F.
 
-1. 1.Do not share the Omnitrope Pen 10 even if the needle is changed.
-   It is made for only one person to use.
-2. 2.The pen needle unit is sterile.
-   To avoid contaminating the pen needle after opening, do not place it on a surface or touch exposed parts.
-3. 3.Never dial your dose or attempt to correct a dialing error with the pen needle in your skin.
-   This may result in a wrong dose.
-4. 4.Never store or carry your Omnitrope Pen 10 with a pen needle attached.
+- •Holding the cartridge holder with 1 hand, firmly press the needle onto the cartridge holder end of the Pen.
+  See Figure G. Screw the threaded hub of the needle onto the cartridge holder in a counterclockwise direction until the needle will not turn anymore.
+  See Figure H.
 
-Never recap pen with pen needle on.
+- •Gently pull off the outer needle shield and put it on a flat surface.
+  You will use the outer needle shield later to remove the needle from the Pen after the injection is finished.
+  See Figure I.
 
-Storing or carrying your Omnitrope Pen 10 with a pen needle attached may lead to needle pricks and leaves an open passage for:
+Note: Check that the cartridge holder is attached to the Pen body before each injection.
+One of the blue arrows on the cartridge should be lined up with the white mark on the Pen body.
+After you attach the needle, you may see a few drops of medicine at the tip of the needle.
 
-- •Air to enter the cartridge
-- •medicine to leak out
+Step 3.
+Priming a new cartridge
 
-Both of these conditions can affect the dose of the injection.
+- •Priming is not needed for a cartridge you have used before.
+  If the cartridge has already been primed, go to Step 4.
+- •Before you use a new cartridge you must first prepare it for use.
+  Hold the Pen with the needle pointing upwards.
+  Gently tap the cartridge holder with your finger to help air bubbles rise to the top of the cartridge.
+  See Figure J.
 
-1. 5.Do not use your Omnitrope Pen 10 if the cap or other parts are missing.
+- •Hold the pen with the needle pointing up and the dose window facing you and you will see the numbers in the dose window at the bottom of the Pen body.
+  Using the dose knob on the bottom of the Pen, slowly turn the dose knob in a clockwise direction as shown in Figure K until you hear 1 “click”.
+  The arrow on the Pen body will then be lined up with the small line between “0” and “0.2” (0.1 mg).
+  See Figure K.
 
-PEN PARTS
+- •Remove the inner needle shield.
+  See Figure L.
+- •With the needle pointing up, firmly turn the dose knob in a counterclockwise direction and back to the “0” position.
 
-AUTO-POSITIONING FEATURE
+At least 2 drops of medicine must flow out of the needle for the Pen to be properly primed.
+See Figure M.
 
-The Omnitrope Pen 10 has a black rod with an auto-positioning feature.
-This auto-positioning feature makes priming easier (fewer steps), especially when a new cartridge is used.
+- •If at least 2 drops of medicine do not flow out, set the dose to 0.1 mg and repeat this step until at least 2 drops of medicine appear at the tip of the needle.
+- •When you see 2 drops of medicine flow out of the needle, the Pen is correctly primed and ready to use.
 
-How it works
+Step 4.
+Selecting the correct dose of Omnitrope
 
-(Pictures are included only to demonstrate the auto-positioning feature.
-These steps are not necessary to operate pen).
+- •Hold the pen with the needle pointing up and the dose window facing you and turn (dial) the dose knob in a clockwise direction until you see the number of mg for the prescribed dose in the middle of the dose window.
+  The dose should be lined up with the arrow on the Pen body.
+  You will hear 1 click for every single unit you dial.
+  See Figure N.
 
-Notice that the black rod moves into the pen easily and returns to the fully extended position automatically.
-This automatic extension of the black rod positions it correctly against the cartridge plunger.
+Do not count the clicks to measure the correct dose of medicine.
 
-PEN PARTS
+- •If you turn the dose knob past the correct dose, do not dial counterclockwise.
 
-|  | PEN CAP 1. Clip |
-| --- | --- |
-|  | CARTRIDGE HOLDER |
-|  | PEN BODY 2. Black rod 3. Dose window with arrow indicator 4. White dose knob 5. Red injection button |
-|  | PEN NEEDLE UNIT 6. Outer pen needle shield 7. Inner pen needle shield 8. Pen needle 9. Hub 10. Paper tab |
+Instead, hold the Pen body with the needle pointing up and turn the dose knob in a clockwise direction until you see a bent arrow () in the dose dialing window.
+See Figure O. Now continue to turn the dose knob in a clockwise direction until you hear a click and the entire Pen body is fully extended.
 
-Note – Pen Needle Unit is supplied assembled and sterile.
-Do not disassemble at this point.
-
-|  | CARTRIDGE 11. Rubber septum 12. Metal Cap 13. Cartridge plunger |
-| --- | --- |
-
-HOW TO USE YOUR OMNITROPE PEN 10
-
-LOADING THE CARTRIDGE INTO THE PEN
-
-1. 1.Remove the pen cap by pulling it off the pen.
-2. 2.Unscrew the cartridge holder from the pen body
-
-1. 3.Insert the cartridge, metal cap first, into the cartridge holder
-2. 4.Lower the pen body onto the cartridge holder so that the black rod presses against the cartridge plunger.
-   Screw the cartridge holder onto the pen body until no gap remains.
-   One of the blue arrows must line-up with the white line mark on the pen body.
-
-Note – Do not overtighten.
-
-ATTACHING THE PEN NEEDLE
-
-1. 5.Remove the paper tab from the back of a new pen needle.
-2. 6a.
-   Holding the cartridge holder, push the pen needle unit onto the pen.
-   Then screw the threaded hub of the pen needle onto the cartridge holder as shown.
-3. 6b.
-   With a gentle pull, remove the outer pen needle shield.
-   Save the outer shield.
-   You will use it to remove the pen needle from the pen after your injection is finished.
-4. 6c.
-   Do not remove the inner pen needle shield at this time.
-5. 6d.
-   Check that the cartridge holder is attached to the pen body, with the blue arrow lined-up with the white mark on the pen body before each injection.
-6. PRIMING
-
-Important – Before using a new cartridge, you must prime the Omnitrope Pen 10.
-
-For a New Cartridge Only
-
-1. 7.Hold the pen with the needle pointing upwards.
-   Gently tap the cartridge holder with your finger to help air bubbles rise to the top of the cartridge.
-   Set the dose to 0.1 mg (one click) by turning the dose knob.
-2. 8.Remove the inner pen needle shield.
-   With the pen needle pointing up, firmly turn the dose knob back to the “0” position and hold for at least 5 seconds.
-   At least 2 drops of medicine must flow out of the pen needle for the pen to be properly primed.
-   If at least 2 drops do not flow out, set the dose to 0.1 mg and repeat the steps until at least 2 drops of medicine appear at the tip of the pen needle.
-   When medicine appears, the Omnitrope Pen 10 is properly primed for injection and ready to use.
-
-For a previously used Cartridge
-
-No priming is needed.
-Remove the inner pen needle shield and continue with dose dialing.
-
-DOSE DIALING
-
-1. 9.To set your dose, turn the dose knob until you see the number of mg for your dose in the middle of the dose window lined-up with the arrow.
-   You will hear a click for each dose increment you dial.
-   However, do not rely on counting these clicks to measure the right dose.
-
-Important – Dose Correction
-
-If you turn the dose knob past your dose, do not dial backwards.
-
-Hold the pen body and turn the dose knob until it is fully extended as shown in picture 9a.
-You will see a bent arrow () in the dose dialing window.
 The injection button can now be fully pressed, resetting the dial to “0” without giving medicine.
-The right dose can now be redialed as described in step 9.
+The correct dose can now be redialed.
 
-Note – Check that the cartridge holder is still attached to the pen body, with the blue arrow lined-up with the white mark on the pen body.
+- •Check that the cartridge holder is still attached to the Pen body, with the blue arrow lined up with the white mark on the Pen body.
 
-MAKING THE INJECTION
+Step 5.
+Selecting the injection site and injecting the dose of Omnitrope
 
-1. 10.Insert the pen needle into the skin as instructed by your healthcare professional.
+Change the injection site every day.
+See Figure P.
 
-1. 11.After inserting the pen needle, push the injection button in as far in as it will go and press firmly.
-   A clicking sound will be heard while your dose is injecting.
-   Continue to press firmly for at least 5 seconds, before you remove the pen needle from the skin.
+- •Select the injection site and wipe the skin with an alcohol pad as your healthcare provider showed you.
+- •Insert the needle under the skin as your healthcare provider showed you.
+  See Figure Q.
 
-If medicine continues to drip from the pen needle after injection, hold the pen needle in your skin for a longer time the next time you inject.
+- •After inserting the needle into the skin, push the injection button as far in as it will go and press the button firmly.
+  A clicking sound will be heard while the dose is being injected.
+  Continue to press firmly on the injection button for 5 seconds before you remove the needle from the skin.
+  See Figure R.
 
-If you cannot push the Injection button in as far in as it goes and the dose window does not read “0”, the cartridge is empty and the full dose of medicine has not been injected.
-The dose indicator window will show the amount of medicine still needed.
-Remove the pen needle from the skin and note the number.
-Reset the dose knob to “0” by holding the pen and turning the dose knob until it is fully extended as shown in picture 9a.
-The dose injection button can now be fully pressed to “0”.
-Remove the pen needle from the pen (see step 12 below) and remove the empty cartridge by unscrewing the cartridge holder.
-Insert a new cartridge and prime the pen as described in steps 7 and 8.
-Set the dose, which you noted, and inject.
-This completes your dose.
+- •Stop pressing the injection button before you carefully remove the needle from the skin.
+- •If the injection button cannot be pushed in completely or stops during the injection, and the cartridge is empty, then the full dose has not been given.
+  The dose indicator window will show the amount of medicine still needed.
+  Reset the dose knob to “0” as described in Step 4.
+  Remove the needle as described in Step 6.
+  Replace the empty cartridge with a new cartridge as described in Step 1.
+  Prime the new cartridge as described in Step 3.
+  Set the dose, which you noted, and inject.
+  This completes your dose.
 
-Important – Before replacing a cartridge, be sure that the pen needle unit is NOT attached to the Omnitrope Pen 10.
+Step 6.
+Removing and throwing away the needle and empty cartridge
 
-REMOVING THE PEN NEEDLE
+- •Carefully replace the outer needle shield.
+  See Figure S.
 
-1. 12.Carefully replace the outer pen needle shield.
-   Hold the pen by the cartridge holder and unscrew the pen needle from the cartridge holder.
-   Recap the pen.
-2. 13.Store your Omnitrope Pen 10 with attached Omnitrope cartridge in its pouch or refrigerator storage box.
-   Store in a refrigerator between 36 and 46°F (2 and 8°C).
-3. 14.Dispose of used pen needles in a special container called a “sharps” container.
-   Your healthcare professional can give you a sharps container or tell you how to make one.
-   Do not dispose of used pen needles in the trash.
+- •Hold the Pen by the cartridge holder and carefully remove the needle from the Pen by turning the needle in a clockwise direction.
+  See Figure T. Recap the pen.
 
-TROUBLESHOOTING
+- •Put your used needles and cartridges in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and cartridges in your household trash.
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
+  - oleak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and cartridges.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
-| PROBLEM | POSSIBLE CAUSE | HOW TO FIX |
+How should I store Omnitrope Pen 10?
+
+- •Store Omnitrope cartridges in the refrigerator between 36°F and 46°F (2°C and 8°C).
+- •When the Omnitrope Pen 10 contains a cartridge, do not remove the cartridge from the Pen in between injections.
+  Store the Pen containing the cartridge in the storage case provided and place in the refrigerator.
+- •When the Pen does not contain a cartridge, you may store the Pen at room temperature.
+- •Do not freeze Omnitrope cartridges.
+- •Protect the Omnitrope Pen 10 and cartridge from light by storing in their cartons or the storage case.
+- •The Omnitrope cartridge must be thrown away 28 days after the first injection.
+  The Omnitrope Pen 10 can be reloaded with a new cartridge and can be used multiple times.
+
+Important information about possible problems you may have with the Omnitrope Pen 10
+
+| Problem | Possible cause | How to fix |
 | --- | --- | --- |
-| Dial unit does not turn easily. | Dust or dirt | Turn the dial beyond the highest setting on the scale. Wipe all exposed surfaces with a clean, damp cloth. Please also refer to the chapter “Care and Storage”. |
-| You have dialed a higher dose than needed. |  | Correct dose as described in step 9, “Dose correction”. |
-| The injection button cannot be pushed or stops during injection. (Dose knob does not return to “0”). | Cartridge is empty and full dose has not been dispensed. | Remove the pen needle as per step 12 and replace the empty cartridge with a new cartridge. Refer to step 11, “If the injection button stops”. |
-| Clogged pen needle. | Remove the pen needle as per step 12 and replace it with a new needle as described in step 5. |  |
-| No clicking is heard during the injection (Dose knob moves freely). | Pen is in dose correction mode. | Remove pen needle from skin. Press injection button all the way in so the dial returns to zero and repeat from step 9 to make the injection. |
-| Medicine continues to drip from the pen needle after injection. | Pen needle was removed from the skin too early. | Hold the pen needle in your skin longer next time you inject. |
-| Cartridge holder is not properly attached to the pen body. | Line-up blue arrow on cartridge holder with white mark on pen body. |  |
+| Dial unit does not turn easily. | Dust or dirt | Turn the dial beyond the highest setting on the scale. Wipe all exposed surfaces with a clean, damp cloth. |
+| The injection button cannot be pushed or stops during injection. The dose knob does not return to “0”. | Cartridge is empty and full dose has not been given. | Remove the needle as described in Step 6. Replace the empty cartridge with a new cartridge as described in Step 1. Prime the new cartridge as described in Step 3. |
+| Clogged needle. | Remove the needle as described in Step 6. Replace with a new needle as described in Step 2. |  |
+| No clicking is heard during the injection and dose knob moves freely. | Pen is in dose correction mode. | Remove the needle from skin. Press injection button all the way in so the dial returns to zero and repeat Step 2, Step 4 and Step 5 to give the injection. |
+| Medicine continues to drip from the needle before injection. | Cartridge holder is not properly attached to the Pen body. | Line up blue arrow on cartridge holder with white mark on Pen body. |
+| Medicine continues to drip from the needle after injection. | Needle was removed from the skin too early. | Hold the needle in the skin for 5 seconds to complete the injection, before you carefully remove the needle from the skin.For the next injection, make sure that you hold the needle in the skin for 5 seconds. |
+| Cartridge holder is not properly attached to the Pen body. | Line up blue arrow on cartridge holder with white mark on Pen body. |  |
+| The needle is left on the Pen after injection. | Carefully remove the needle from the Pen right after the injection. |  |
 
-CARE AND STORAGE
+If the Omnitrope Pen 10 is damaged or does not work, call the pharmacy where you got the Omnitrope Pen 10.
+If you got your Omnitrope Pen 10 from OmniSource, call 1-877-456-6794.
 
-Once your Omnitrope Pen 10 contains a somatropin cartridge, it has to be stored in the refrigerator between 36 and 46°F (2 and 8°C).
-
-Do not remove the cartridge between injections.
-
-Protect your Omnitrope Pen 10 and cartridge from light by storing in its pouch or refrigerator storage box.
-
-The Omnitrope cartridge must be discarded 28 days after the first injection.
-The Omnitrope Pen 10 can be reloaded with a new cartridge and be used multiple times.
-
-Your Omnitrope Pen 10 must be properly cared for.
-
-- •Only a clean, damp cloth should be used for routine cleaning.
-  Never wash the pen in water or with strong surgical disinfectants.
-- •Avoid exposure to dust, moisture and temperature extremes.
-  Do not expose to heat or freeze.
-
-If your Omnitrope Pen 10 is damaged or you cannot get it to work, contact the pharmacy that provided you the Omnitrope Pen 10 or, if OmniSource provided you with your Omnitrope Pen 10, call 1-877-456-6794.
-For other questions or additional information please call OmniSource at 1-877-456-6794.
-Do not attempt to repair the pen yourself.
-
-GUARANTEE
+For other questions or additional information, call OmniSource at 1-877-456-6794.
+Do not try to repair the Pen yourself.
 
 Your Omnitrope Pen 10 is covered by a 2 year guarantee.
 Contact your Omnitrope Pen 10 provider after you have used the pen for 2 years to have it replaced by a new one.
 
-If your Omnitrope Pen 10 is defective in materials or workmanship within the period of the guarantee, the provider of your Omnitrope Pen 10 will replace your pen and/or rectify the fault at its own cost.
-If OmniSource provided your Omnitrope Pen 10, call 1-877-456-6794.
-Otherwise call the pharmacy that provided the Omnitrope Pen 10.
+This guarantee is invalid if your Omnitrope Pen 10 has not been used in accordance with the manufacturer’s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
 
-In case of complaints, please contact your Omnitrope Pen 10 provider to report a complaint.
+These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-This guarantee is invalid if your Omnitrope Pen 10 has not been used in accordance with the manufacturer`s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
+Omnitrope is a trademark of Novartis.
 
-IMPORTANT PERSONAL NOTES
-
-Date I first used the Omnitrope Pen 10:
-
-____________________________________(dd/mm/yy)
-
-Pen log no:
-
-______________________________________
-
-Additional Comments:
-
-______________________________________
-
-______________________________________
-
-______________________________________
-
-______________________________________
-
-Omnitrope Pen 10
+BD and BD Logo are trademarks of Becton, Dickinson and Company © 2016 BD
 
 Manufactured for
 
@@ -594,41 +486,33 @@ Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-09-2016M
+12-2017
 
-CE0344
-
-Omnitrope® is a trademark of Novartis.
-
-BD and BD Logo are trademarks of Becton, Dickinson and Company.
-
-OP10.ifU.07.1
-
-46193263
+46170949
 
 ## INSTRUCTIONS FOR OMNITROPE® 5.8 MG/VIAL
 
-The following instructions explain how to inject OMNITROPE® 5.8 mg.
-Do not inject OMNITROPE® yourself until your healthcare provider has taught you and you understand the instructions.
-Ask your healthcare provider or pharmacist if you have any questions about injecting OMNITROPE®.
+The following instructions explain how to inject OMNITROPE 5.8 mg.
+Do not inject OMNITROPE yourself until your healthcare provider has taught you and you understand the instructions.
+Ask your healthcare provider or pharmacist if you have any questions about injecting OMNITROPE.
 
-- •OMNITROPE® 5.8 mg is for multiple uses.
-- •The concentration of OMNITROPE® after mixing is 5 mg/mL.
-- •After mixing, OMNITROPE® 5.8 mg contains a preservative and should not be used in newborns.
+- •OMNITROPE 5.8 mg is for multiple uses.
+- •The concentration of OMNITROPE after mixing is 5 mg/mL.
+- •After mixing, OMNITROPE 5.8 mg contains a preservative and should not be used in newborns.
 
 Preparation
 
 Collect necessary items before you begin:
 
-- •a vial with OMNITROPE® 5.8 mg
-- •a vial with diluent (mixing liquid - Bacteriostatic Water for Injection containing benzyl alcohol as preservative) for OMNITROPE® 5.8 mg
+- •a vial with OMNITROPE 5.8 mg
+- •a vial with diluent (mixing liquid - Bacteriostatic Water for Injection containing benzyl alcohol as preservative) for OMNITROPE 5.8 mg
 - •a sterile, disposable 3 mL syringe and needle for withdrawing the diluent from the vial (not supplied in the pack)
 - •sterile disposable 1 mL syringes and needles for under the skin (subcutaneous) injection (not supplied in the pack)
 - •2 alcohol swabs (not supplied in the pack)
 
 Wash your hands before you start with the next steps.
 
-Mixing OMNITROPE® 5.8 mg
+Mixing OMNITROPE 5.8 mg
 
 - •Remove the protective caps from the two vials.
   With one alcohol swab, clean both the rubber top of the vial that contains the powder and the rubber top of the vial that contains diluent.
@@ -652,13 +536,13 @@ Mixing OMNITROPE® 5.8 mg
 - •After mixing the medicine, the medicine in the vial must be used within 3 weeks.
   Store the vial in a refrigerator at 2° to 8°C (36° to 46°F) after mixing and using it each time.
 
-Measuring the Dose of OMNITROPE® 5.8 mg to Be Injected
+Measuring the Dose of OMNITROPE 5.8 mg to Be Injected
 
 - •Next use the sterile, disposable 1 mL (or similar) syringe and needle for subcutaneous injection.
   Push the needle through the rubber top of the vial that contains the medicine that you have just mixed.
 - •Turn the vial and the syringe upside down.
 
-- •Be sure the tip of the syringe is in the OMNITROPE® mixed medicine.
+- •Be sure the tip of the syringe is in the OMNITROPE mixed medicine.
 - •Pull back on the plunger slowly and withdraw the dose prescribed by your doctor into the syringe.
 - •Hold the syringe with the needle in the vial pointing up and remove the syringe from the vial.
 - •Check for air bubbles in the syringe.
@@ -669,7 +553,7 @@ Measuring the Dose of OMNITROPE® 5.8 mg to Be Injected
   Do not use if discolored or particles are present.
   You are now ready to inject the dose.
 
-Injecting OMNITROPE® 5.8 mg
+Injecting OMNITROPE 5.8 mg
 
 - •Choose the site of injection on your body.
   The best sites for injection are tissues with a layer of fat between skin and muscle such as the upper leg (thigh), buttocks, or stomach area (abdomen) as in the picture shown below.
@@ -694,7 +578,7 @@ Injecting OMNITROPE® 5.8 mg
   After injection, press the injection site with a small bandage or sterile gauze if needed for bleeding, for several seconds.
   Do not massage or rub the injection site.
 
-After Injecting OMNITROPE® 5.8 mg
+After Injecting OMNITROPE 5.8 mg
 
 - •Discard the injection materials.
 - •Dispose the syringes safely in a closed container.
@@ -705,12 +589,12 @@ After Injecting OMNITROPE® 5.8 mg
 - •The solution should be clear after removal from the refrigerator.
   If the solution is cloudy or contains particles, discard the vial.
   Do not inject the medicine from this vial.
-  Start over with a new vial of OMNITROPE® 5.8 mg.
+  Start over with a new vial of OMNITROPE 5.8 mg.
   Call your pharmacist if you need a replacement.
 - •Before each use disinfect the rubber top of the reconstituted vial with an alcohol swab.
   You must use a new disposable 1 mL syringe and needle for each injection.
 
-Omnitrope® is a trademark of Novartis.
+Omnitrope is a trademark of Novartis.
 
 Manufactured in Austria by Sandoz GmbH
 

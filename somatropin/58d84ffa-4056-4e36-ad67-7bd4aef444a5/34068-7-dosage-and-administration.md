@@ -46,11 +46,11 @@ The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
 Based on the weight-based dosing utilized in clinical studies with another somatropin product, the recommended dosage at the start of therapy is not more than 0.04 mg/kg/week given as a daily subcutaneous injection.
 The dose may be increased at 4- to 8-week intervals according to individual patient requirements to not more than 0.08 mg/kg/week.
-Clinical response, side effects, and determination of age- and gender-adjusted serum IGF-1 levels may be used as guidance in dose titration.
+Clinical response, side effects, and determination of age- and gender-adjusted serum IGF-I levels may be used as guidance in dose titration.
 
 Alternatively, taking into account recent literature, a starting dose of approximately 0.2 mg/day (range, 0.15-0.30 mg/day) may be used without consideration of body weight.
-This dose can be increased gradually every 1-2 months by increments of approximately 0.1 to 0.2 mg/day, according to individual patient requirements based on the clinical response and serum IGF-1 concentrations.
-During therapy, the dose should be decreased if required by the occurrence of adverse events and/or serum IGF-1 levels above the age- and gender-specific normal range.
+This dose can be increased gradually every 1-2 months by increments of approximately 0.1 to 0.2 mg/day, according to individual patient requirements based on the clinical response and serum IGF-I concentrations.
+During therapy, the dose should be decreased if required by the occurrence of adverse events and/or serum IGF-I levels above the age- and gender-specific normal range.
 Maintenance dosages vary considerably from person to person.
 
 A lower starting dose and smaller dose increments should be considered for older patients, who are more prone to the adverse effects of somatropin than younger individuals.
