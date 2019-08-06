@@ -38,7 +38,7 @@ For males taking DROXIA:
 DROXIA may cause fertility problems in males.
 Talk to your healthcare provider if this is a concern for you.
 
-See What are the possible side effects of DROXIA? for more information about side effects.
+See "What are the possible side effects of DROXIA?" for more information about side effects.
 
 What is DROXIA?
 DROXIA is a prescription medicine that is used to reduce the frequency of painful crises and reduce the need for blood transfusions in people with sickle cell anemia with recurrent moderate to severe painful crises.
@@ -57,9 +57,9 @@ Before taking DROXIA, tell your healthcare provider about all of your medical co
 - have a history of receiving interferon therapy or are currently receiving interferon therapy.
 - have leg wounds or ulcers
 - plan to receive any vaccinations.
-  You should not receive live vaccines during treatment with DROXIA.
+  You should not receive "live vaccines" during treatment with DROXIA.
 - are pregnant or plan to become pregnant.
-  See What is the most important information I should know about DROXIA?
+  See "What is the most important information I should know about DROXIA?"
 - are breastfeeding or plan to breastfeed.
   DROXIA can pass into your breast milk.
   Do not breastfeed during treatment with DROXIA.
@@ -74,25 +74,34 @@ How should I take DROXIA?
 - DROXIA capsules must be handled with care.
   To decrease the risk of exposure, you or your caregivers should do the following when handling DROXIA:
 
-- Wear disposable gloves when handling DROXIA capsules or bottles containing DROXIA. - Wash your hands with soap and water before and after handling DROXIA capsules or bottles containing DROXIA. - Swallow DROXIA capsules whole.
-Do not open the capsules. - Avoid contact with crushed or opened capsules.
-If contact from crushed or opened capsules happens on the skin, wash the skin area right away and thoroughly with soap and water.
-If contact from crushed or opened capsules happens in the eyes, flush the eyes thoroughly with water or isotonic eyewash used for that purpose for at least 15 minutes.
-
+- Wear disposable gloves when handling DROXIA capsules or bottles containing DROXIA.
+- Wash your hands with soap and water before and after handling DROXIA capsules or bottles containing DROXIA.
+- Do NOT open, break, or chew the capsules.
+- Avoid contact with crushed or opened capsules.
+  If contact from crushed or opened capsules happens on the skin, wash the skin area right away and thoroughly with soap and water.
+  If contact from crushed or opened capsules happens in the eyes, flush the eyes thoroughly with water or isotonic eyewash used for that purpose for at least 15 minutes.
 - If the powder from the capsule is spilled, wipe it up right away with a damp disposable towel.
-Throw the damp disposable towel and the empty capsules away in a closed container, such as a plastic bag.
-The spill areas should then be cleaned three times using a detergent solution followed by clean water.
+  Throw the damp disposable towel and the empty capsules away in a closed container, such as a plastic bag.
+  The spill areas should then be cleaned three times using a detergent solution followed by clean water.
 
 What are the possible side effects of DROXIA?
 DROXIA may cause serious side effects, including:
 
-- See What is the most important information I should know about DROXIA?
+- See "What is the most important information I should know about DROXIA?"
 - Skin ulcers and death of tissue (gangrene) have happened in people who take DROXIA.
   This has happened most often in people who receive interferon therapy or have a history of interferon therapy.
   Your healthcare provider will stop treatment with DROXIA if you develop any skin ulcers.
 - Enlarged red blood cells (macrocytosis).
   Macrocytosis is common in people who take DROXIA and can make it difficult to detect a decrease of folic acid.
   Your healthcare provider may prescribe a folic acid supplement for you.
+- Respiratory (breathing) problems.
+  Some people have developed life-threatening respiratory conditions called interstitial lung disease.
+  Your healthcare provider may tell you to stop taking DROXIA if you develop respiratory problems.
+  Tell your healthcare provider right away if you get any of the following symptoms:
+
+| fever | shortness of breath |
+| --- | --- |
+| cough |  |
 
 The most common side effects of DROXIA include:
 
@@ -128,6 +137,5 @@ Active ingredient: hydroxyurea Inactive ingredients: citric acid, gelatin, lacto
 Manufactured for: Bristol-Myers Squibb Company, Princeton, New Jersey 08543 USA For more information, go to www.BMS.com or call 1-800-721-5072.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: December 2017
 
-[Print code]
+1375188A2 Revised: July 2019

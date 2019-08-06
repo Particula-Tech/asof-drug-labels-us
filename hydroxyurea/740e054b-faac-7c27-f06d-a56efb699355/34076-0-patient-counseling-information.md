@@ -12,3 +12,4 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
   Advise females and males of reproductive potential to use contraception during and after treatment with DROXIA [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1, 8.3)].
 - Advise females to discontinue breastfeeding during treatment with DROXIA [see Use in Specific Populations (8.2)].
 - Patients with HIV infection should contact their physician for signs and symptoms of pancreatitis, hepatic events, and peripheral neuropathy [see Warnings and Precautions (5.6)].
+- Advise patients of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.8)].

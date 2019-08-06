@@ -63,7 +63,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Clinical studies of DROXIA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
-Elderly patients may be more sensitive to the effects of hydroxyurea, and may require a lower dose regimen.
+Elderly patients may be more sensitive to the effects of hydroxyurea and may require a lower dose regimen.
 Hydroxyurea is excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.2)].
 

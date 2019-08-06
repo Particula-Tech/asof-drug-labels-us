@@ -53,6 +53,14 @@ The morphologic change resembles pernicious anemia, but is not related to vitami
 This may mask the diagnosis of pernicious anemia.
 Prophylactic administration of folic acid is recommended.
 
-## 5.8 Laboratory Test Interference
+## 5.8 Pulmonary Toxicity
+
+Interstitial lung disease including pulmonary fibrosis, lung infiltration, pneumonitis, and alveolitis/allergic alveolitis (including fatal cases) have been reported in patients treated for myeloproliferative neoplasm.
+Safety and effectiveness have not been established for the use of DROXIA in the treatment of myeloproliferative neoplasms and the use is not approved by the FDA.
+Monitor patients developing pyrexia, cough, dyspnea, or other respiratory symptoms frequently, investigate and treat promptly.
+Discontinue DROXIA and manage with corticosteroids.
+[see Adverse Reactions (6.1)].
+
+## 5.9 Laboratory Test Interference
 
 Interference with Uric Acid, Urea, or Lactic Acid Assays is possible, rendering falsely elevated results of these in patients treated with hydroxyurea [see Drug Interactions (7.2)].

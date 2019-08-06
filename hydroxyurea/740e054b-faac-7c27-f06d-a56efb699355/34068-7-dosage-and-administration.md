@@ -12,7 +12,8 @@ Table 1: Dosing Recommendation Based on Blood Count
 | Between acceptable and toxic range | Do not increase dose. | If blood counts are considered toxic, discontinue DROXIA until hematologic recovery. | Blood Counts Toxic Rangeneutrophils <2000 cells/mm3platelets <80,000/mm3hemoglobin <4.5 g/dLreticulocytes <80,000/mm3 if the hemoglobin concentration <9 g/dL |
 | Dosing After Hematologic Recovery | Reduce dose by 2.5 mg/kg/day. | Reduce the dose from the dose associated with hematologic toxicity.May titrate up or down every 12 weeks in 2.5 mg/kg/day increments.The patient should be at a stable dose with no hematologic toxicity for 24 weeks.Discontinue the treatment permanently if a patient develops hematologic toxicity twice. |  |
 
-Patients should swallow DROXIA capsules whole and not to open, since hydroxurea is a cytotoxic drug.
+Swallow DROXIA capsules whole.
+Do NOT open, break, or chew capsules because DROXIA is a cytotoxic drug.
 Patients must be able to follow directions regarding drug administration and their monitoring and care.
 
 Fetal hemoglobin (HbF) levels may be used to evaluate the efficacy of DROXIA in clinical use.

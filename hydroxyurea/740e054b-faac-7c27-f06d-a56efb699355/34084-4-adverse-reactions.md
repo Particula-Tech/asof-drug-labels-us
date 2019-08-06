@@ -1,13 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described in detail in other labeling sections:
+The following clinically significant adverse reactions are described in detail in other labeling sections:
 
-- •Myelosuppression [see Warnings and Precautions (5.1)]
-- •Malignancies [see Warnings and Precautions (5.2)]
-- •Embryo-fetal toxicity [see Boxed Warning and Warnings and Precautions (5.3)]
-- •Vasculitic toxicities [see Warnings and Precautions (5.4)]
-- •Risks with concomitant use of antiretroviral drugs [see Warnings and Precautions (5.6)]
-- •Macrocytosis [see Warnings and Precautions (5.7)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Malignancies [see Warnings and Precautions (5.2)]
+- Vasculitic toxicities [see Warnings and Precautions (5.4)]
+- Risks with concomitant use of antiretroviral drugs [see Warnings and Precautions (5.6)]
+- Macrocytosis [see Warnings and Precautions (5.7)]
+- Pulmonary Toxicity [see Warnings and Precautions (5.8)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -26,12 +26,13 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Reproductive System and Breast disorders: azoospermia, and oligospermia
 - Gastrointestinal disorders: stomatitis, nausea, vomiting, diarrhea, and constipation
 - Metabolism and Nutrition disorders: anorexia
-- Skin and subcutaneous tissue disorders: maculopapular rash, skin ulceration, dermatomyositis-like skin changes, peripheral and facial erythema, hyperpigmentation, nail hyperpigmentation, atrophy of skin and nails, scaling, violet papules, and alopecia
+- Skin and subcutaneous tissue disorders: maculopapular rash, skin ulceration, cutaneous lupus erythematosus, dermatomyositis-like skin changes, peripheral and facial erythema, hyperpigmentation, nail hyperpigmentation, atrophy of skin and nails, scaling, violet papules, and alopecia
 - Renal and urinary disorders: dysuria, elevations in serum uric acid, blood urea nitrogen (BUN), and creatinine levels
 - Nervous system disorders: headache, dizziness, drowsiness, disorientation, hallucinations, and convulsions
 - General disorders: fever, chills, malaise, edema, and asthenia
 - Hepatobiliary disorders: elevation of hepatic enzymes, cholestasis, and hepatitis
-- Respiratory disorders: diffuse pulmonary infiltrates, dyspnea, and pulmonary fibrosis
+- Respiratory disorders: diffuse pulmonary infiltrates, dyspnea, and pulmonary fibrosis, interstitial lung disease, pneumonitis, alveolitis, allergic alveolitis and cough
+- Immune disorders: systemic lupus erythematosus
 - Hypersensitivity: Drug-induced fever (pyrexia) (>39°C, >102°F) requiring hospitalization has been reported concurrently with gastrointestinal, pulmonary, musculoskeletal, hepatobiliary, dermatological or cardiovascular manifestations.
   Onset typically occurred within 6 weeks of initiation and resolved upon discontinuation of hydroxyurea.
   Upon re-administration fever re-occurred typically within 24 hours.
