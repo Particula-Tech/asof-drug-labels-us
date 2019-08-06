@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021926"
+  ],
+  "inn": "naproxen",
+  "labeler": "Currax Pharmaceuticals LLC",
+  "package_ndcs": [
+    "42847-850-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sumatriptan succinate and naproxen sodium",
+      "name": "Treximet"
+    }
+  ],
+  "setid": "42ddf376-8dc0-4236-be2a-0c6ae92ece04",
+  "source": "dailymed"
+}
