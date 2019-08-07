@@ -48,6 +48,9 @@ Inform patients to minimize or avoid exposure to natural or artificial sunlight 
 If patients need to be outdoors while using fluoroquinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
 If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 
+• Lactation: Advise a lactating woman that she may pump and discard during treatment with levofloxacin and for an additional 2 days after the last dose.
+Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with levofloxacin and for an additional 2 days after the last dose [see Use in Specific Populations (8.2)].
+
 Antibacterial Resistance
 
 Antibacterial drugs including levofloxacin should only be used to treat bacterial infections.

@@ -2,17 +2,41 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended oral human dose based upon relative body surface area.
-The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality.
-No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended oral human dose based upon relative body surface area.
+Risk Summary
 
-There are, however, no adequate and well-controlled studies in pregnant women.
-Levofloxacin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Published information from case reports, case control studies and observational studies on levofloxacin administered during pregnancy have not identified any drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 
-## 8.3 Nursing Mothers
+In animal reproduction studies, oral administration of levofloxacin to pregnant rats and rabbits during organogenesis at doses up to 9.4 times and 1.1 times the maximum recommended human dose (MRHD), respectively, did not result in teratogenicity.
+Fetal toxicity was seen in the rat study, but was absent at doses up to 1.2 times the maximum recommended human dose (see Data).
 
-Based on data on other fluoroquinolones and very limited data on levofloxacin, it can be presumed that levofloxacin will be excreted in human milk.
-Because of the potential for serious adverse reactions from levofloxacin in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
+
+Levofloxacin was not teratogenic in an embryofetal development study in rats treated during organogenesis with oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the MRHD (based upon doses normalized for total body surface area).
+The oral dose of 810 mg/kg/day (high dose) to rats caused decreased fetal body weight and increased fetal mortality that was not seen at the next lower dose (mid-dose, 90 mg/kg/day, equivalent to 1.2 times the MRHD (based upon doses normalized for total body surface area).
+Maternal toxicity was limited to lower weight gain in the mid and high dose groups.
+No teratogenicity was observed in an embryofetal development study in rabbits dosed orally during organogenesis with doses as high as 50 mg/kg/day, which corresponds to 1.1 times the MRHD (based upon doses normalized for total body surface area).
+Maternal toxicity at that dose consisted of lower weight gain and decreased food consumption relative to controls and abortion in four of sixteen dams.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Published literature reports that levofloxacin is present in human milk following intravenous and oral administration (see Data).
+There is no information regarding effects of levofloxacin on milk production or the breastfed infant.
+Because of the potential risks of serious adverse reactions, in breastfed infants, a lactating woman may consider pumping and discarding breast milk during treatment with levofloxacin and an additional two days (five half-lives) after the last dose.
+Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with levofloxacin and for an additional two days (five half-lives) after the last dose [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+
+Data
+
+A published literature reports that peak levofloxacin human milk concentration was 8.2 mg/L at 5 hours after dosing in a woman who received 500 mg of intravenous, followed by oral, levofloxacin daily.
+For an infant fed exclusively with human milk (approximately 900 ml/day), an estimated maximum daily dose of levofloxacin through breastfeeding is 5 mg (i.e., approximately 1% of maternal daily dose).
+The above data come from a single case and may not be generalizable to the general population of lactating women.
 
 ## 8.4 Pediatric Use
 
@@ -25,7 +49,9 @@ Levofloxacin is indicated in pediatric patients 6 months of age and older, for i
 The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate.
 The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see Indications and Usage (1.7), Dosage and Administration (2.2) and Clinical Studies (14.9)].
 
-Plague Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
+Plague
+
+Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
 Efficacy studies of levofloxacin could not be conducted in humans with pneumonic plague for ethical and feasibility reasons.
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
 The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.10)].

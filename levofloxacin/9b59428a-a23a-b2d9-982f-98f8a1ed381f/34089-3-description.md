@@ -23,3 +23,5 @@ Levofloxacin tablets USP are available as film-coated tablets and contain the fo
 - 250 mg (as expressed in the anhydrous form): colloidal silicon dioxide, corn starch, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
 - 500 mg (as expressed in the anhydrous form): colloidal silicon dioxide, corn starch, crospovidone, FD&C yellow no. 5 aluminum lake, FD&C yellow no. 6 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
 - 750 mg (as expressed in the anhydrous form): colloidal silicon dioxide, corn starch, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, synthetic yellow iron oxide and titanium dioxide.
+
+Levofloxacin tablets meets USP Dissolution Test 2.
