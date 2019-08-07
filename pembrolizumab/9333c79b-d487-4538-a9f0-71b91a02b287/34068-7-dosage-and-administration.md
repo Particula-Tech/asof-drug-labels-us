@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for NSCLC, HNSCC, Urothelial Carcinoma, Gastric Cancer, or Cervical Cancer
+## 2.1 Patient Selection for NSCLC, HNSCC, Urothelial Carcinoma, Gastric Cancer, Esophageal Cancer, or Cervical Cancer
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
@@ -10,7 +10,8 @@ Select patients for treatment with KEYTRUDA as a single agent based on the prese
 - metastatic urothelial carcinoma [see Clinical Studies (14.7)].
 - metastatic gastric cancer [see Clinical Studies (14.9)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
-- recurrent or metastatic cervical cancer [see Clinical Studies (14.10)].
+- metastatic esophageal cancer [see Clinical Studies (14.10)].
+- recurrent or metastatic cervical cancer [see Clinical Studies (14.11)].
 
 Information on FDA-approved tests for the detection of PD-L1 expression for these indications is available at: http://www.fda.gov/CompanionDiagnostics.
 
@@ -64,27 +65,31 @@ The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maxim
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.11 Recommended Dosage for Cervical Cancer
+## 2.11 Recommended Dosage for Esophageal Cancer
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.12 Recommended Dosage for HCC
+## 2.12 Recommended Dosage for Cervical Cancer
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.13 Recommended Dosage for MCC
+## 2.13 Recommended Dosage for HCC
+
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+## 2.14 Recommended Dosage for MCC
 
 The recommended dose of KEYTRUDA in adults is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maximum of 200 mg), administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
-## 2.14 Recommended Dosage for RCC
+## 2.15 Recommended Dosage for RCC
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks in combination with 5 mg axitinib orally twice daily until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months in patients without disease progression.
 When axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer.
 See also the Prescribing Information for recommended axitinib dosing information.
 
-## 2.15 Dose Modifications
+## 2.16 Dose Modifications
 
 No dose reductions of KEYTRUDA are recommended.
 Withhold or discontinue KEYTRUDA to manage adverse reactions as described in Table 1.
@@ -123,7 +128,7 @@ In patients with RCC being treated with KEYTRUDA in combination with axitinib:
   If rechallenging with axitinib, consider dose reduction as per the axitinib Prescribing Information.
 - If ALT or AST ≥10 times ULN or >3 times ULN with concurrent total bilirubin ≥2 times ULN, permanently discontinue both KEYTRUDA and axitinib and consider corticosteroid therapy.
 
-## 2.16 Preparation and Administration
+## 2.17 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 

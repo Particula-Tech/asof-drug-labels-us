@@ -20,7 +20,7 @@ In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAU
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in nine randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, and KEYNOTE 426) and nine non-randomized, open-label trials (KEYNOTE-028, KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, and KEYNOTE-017).
+The data described in this section were obtained in ten randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, KEYNOTE-181, and KEYNOTE-426) and nine non-randomized, open-label trials (KEYNOTE-028, KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, and KEYNOTE-017).
 The data described in this section also included a single randomized, double-blind, placebo-controlled trial (KEYNOTE-054) in which KEYTRUDA was administered for the adjuvant treatment of 509 patients with melanoma with involvement of lymph node(s) following complete surgical resection.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
@@ -188,7 +188,7 @@ Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Melanoma 
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range:503 to 507 patients) and placebo (range: 492 to 498 patients). | KEYTRUDA 200 mg every 3 weeks |  | Placebo |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 503 to 507 patients) and placebo (range: 492 to 498 patients). | KEYTRUDA 200 mg every 3 weeks |  | Placebo |  |
 | Chemistry |  |  |  |  |
 | Increased ALT | 27 | 2.4 | 16 | 0.2 |
 | Increased AST | 24 | 1.8 | 15 | 0.4 |
@@ -504,7 +504,7 @@ Serious adverse reactions occurred in 45% of patients receiving KEYTRUDA.
 The most frequent serious adverse reactions reported in at least 2% of patients were pneumonia, dyspnea, confusional state, vomiting, pleural effusion, and respiratory failure.
 The incidence of adverse reactions, including serious adverse reactions, was similar between dosage regimens (10 mg/kg every 2 weeks or 200 mg every 3 weeks); therefore, summary safety results are provided in a pooled analysis.
 The most common adverse reactions (occurring in ≥20% of patients) were fatigue, decreased appetite, and dyspnea.
-Adverse reactions occurring in patients with HNSCC were generally similar to those occurring in patients with melanoma or NSCLC, with the exception of increased incidences of facial edema (10% all Grades; 2.1% Grades 3-4) and new or worsening hypothyroidism [see Warnings and Precautions (5.4)].
+Adverse reactions occurring in patients with HNSCC were generally similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent, with the exception of increased incidences of facial edema (10% all Grades; 2.1% Grades 3-4) and new or worsening hypothyroidism [see Warnings and Precautions (5.4)].
 
 cHL
 
@@ -705,7 +705,7 @@ Table 21: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA i
 | Musculoskeletal painIncludes back pain, myalgia, bone pain, musculoskeletal pain, pain in extremity, musculoskeletal chest pain, musculoskeletal discomfort, neck pain | 32 | 3.0 | 27 | 2.0 |
 | Skin and Subcutaneous Tissue |  |  |  |  |
 | Pruritus | 23 | 0 | 6 | 0.4 |
-| RashIncludes rash maculo-papular, rash, genital rash, rash erythematous, rash papular, rash pruritic, rash pustular, erythema, drug eruption, eczema, eczema asteatotic, dermatitis contact, dermatitis acneiform, dermatitis, seborrhoeic keratosis, lichenoid keratosis | 20 | 0.4 | 13 | 0.4 |
+| RashIncludes rash maculo-papular, rash, genital rash, rash erythematous, rash papular, rash pruritic, rash pustular, erythema, drug eruption, eczema, eczema asteatotic, dermatitis contact, dermatitis acneiform, dermatitis, seborrheic keratosis, lichenoid keratosis | 20 | 0.4 | 13 | 0.4 |
 | Gastrointestinal |  |  |  |  |
 | Nausea | 21 | 1.1 | 29 | 1.6 |
 | Constipation | 19 | 1.1 | 32 | 3.1 |
@@ -744,11 +744,17 @@ Gastric Cancer
 
 Among the 259 patients with gastric cancer enrolled in KEYNOTE-059 [see Clinical Studies (14.9)], the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 21.4 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression or with clinical evidence of ascites by physical exam were ineligible.
-Adverse reactions occurring in patients with gastric cancer were similar to those occurring in patients with melanoma or NSCLC.
+Adverse reactions occurring in patients with gastric cancer were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
+
+Esophageal Cancer
+
+Among the 314 patients with esophageal cancer enrolled in KEYNOTE-181 [see Clinical Studies (14.10)] treated with KEYTRUDA, the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 24.4 months).
+Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
+Adverse reactions occurring in patients with esophageal cancer were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 
 Cervical Cancer
 
-Among the 98 patients with cervical cancer enrolled in Cohort E of KEYNOTE-158 [see Clinical Studies (14.10)], the median duration of exposure to KEYTRUDA was 2.9 months (range: 1 day to 22.1 months).
+Among the 98 patients with cervical cancer enrolled in Cohort E of KEYNOTE-158 [see Clinical Studies (14.11)], the median duration of exposure to KEYTRUDA was 2.9 months (range: 1 day to 22.1 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
 KEYTRUDA was discontinued due to adverse reactions in 8% of patients.
@@ -813,20 +819,20 @@ Other laboratory abnormalities occurring in ≥10% of patients receiving KEYTRUD
 
 HCC
 
-Among the 104 patients with HCC who received KEYTRUDA in KEYNOTE-224 [see Clinical Studies (14.11)], the median duration of exposure to KEYTRUDA was 4.2 months (range: 1 day to 1.5 years).
-Adverse reactions occurring in patients with HCC were generally similar to those in patients with melanoma or NSCLC, with the exception of increased incidences of ascites (8% Grades 3-4) and immune-mediated hepatitis (2.9%).
+Among the 104 patients with HCC who received KEYTRUDA in KEYNOTE-224 [see Clinical Studies (14.12)], the median duration of exposure to KEYTRUDA was 4.2 months (range: 1 day to 1.5 years).
+Adverse reactions occurring in patients with HCC were generally similar to those in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent, with the exception of increased incidences of ascites (8% Grades 3-4) and immune-mediated hepatitis (2.9%).
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (20%), ALT (9%), and hyperbilirubinemia (10%).
 
 MCC
 
-Among the 50 patients with MCC enrolled in KEYNOTE-017 [see Clinical Studies (14.12)], the median duration of exposure to KEYTRUDA was 6.6 months (range 1 day to 23.6 months).
+Among the 50 patients with MCC enrolled in KEYNOTE-017 [see Clinical Studies (14.13)], the median duration of exposure to KEYTRUDA was 6.6 months (range 1 day to 23.6 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
-Adverse reactions occurring in patients with MCC were similar to those occurring in patients with melanoma or NSCLC.
+Adverse reactions occurring in patients with MCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (11%) and hyperglycemia (19%).
 
 RCC
 
-The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.13)].
+The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.14)].
 Patients with medical conditions that required systemic corticosteroids or other immunosuppressive medications or had a history of severe autoimmune disease other than type 1 diabetes, vitiligo, Sjogren's syndrome, and hypothyroidism stable on hormone replacement were ineligible.
 Patients received KEYTRUDA 200 mg intravenously every 3 weeks and axitinib 5 mg orally twice daily, or sunitinib 50 mg once daily for 4 weeks and then off treatment for 2 weeks.
 The median duration of exposure to the combination therapy of KEYTRUDA and axitinib was 10.4 months (range: 1 day to 21.2 months).

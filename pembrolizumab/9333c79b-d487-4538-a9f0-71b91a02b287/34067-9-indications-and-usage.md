@@ -31,7 +31,7 @@ Continued approval for this indication may be contingent upon verification and d
 
 KEYTRUDA, in combination with platinum and fluorouracil (FU), is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent head and neck squamous cell carcinoma (HNSCC).
 
-KEYTRUDA, as a single agent, is indicated for the first line treatment of patients with metastatic or with unresectable, recurrent HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with recurrent or metastatic HNSCC with disease progression on or after platinum-containing chemotherapy.
 
@@ -74,32 +74,36 @@ Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patien
 
 ## 1.9 Gastric Cancer
 
-KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after two or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy and if appropriate, HER2/neu-targeted therapy.
+KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after 2 or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy and if appropriate, HER2/neu-targeted therapy.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.9)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.10 Cervical Cancer
+## 1.10 Esophageal Cancer
+
+KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic squamous cell carcinoma of the esophagus whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression after one or more prior lines of systemic therapy.
+
+## 1.11 Cervical Cancer
 
 KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.10)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
-
-## 1.11 Hepatocellular Carcinoma
-
-KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.11)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.12 Merkel Cell Carcinoma
+## 1.12 Hepatocellular Carcinoma
 
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with recurrent locally advanced or metastatic Merkel cell carcinoma (MCC).
+KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.12)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.13 Renal Cell Carcinoma
+## 1.13 Merkel Cell Carcinoma
+
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with recurrent locally advanced or metastatic Merkel cell carcinoma (MCC).
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.13)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.14 Renal Cell Carcinoma
 
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC).
