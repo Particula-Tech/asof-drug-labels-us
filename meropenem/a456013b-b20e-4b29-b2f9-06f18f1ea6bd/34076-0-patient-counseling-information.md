@@ -22,4 +22,4 @@ Bridgewater, NJ 08807
 Made in Taiwan
 
 Rev.
-05-2019-06
+08-2019-07
