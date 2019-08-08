@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210942"
+  ],
+  "inn": "colchicine",
+  "labeler": "Avion Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "75854-801-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "colchicine",
+      "name": "Gloperba"
+    }
+  ],
+  "setid": "8f9ba661-b7aa-11fc-e053-2995a90a0bd1",
+  "source": "dailymed"
+}
