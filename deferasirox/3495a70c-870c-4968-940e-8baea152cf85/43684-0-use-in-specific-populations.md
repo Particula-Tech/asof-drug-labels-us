@@ -21,8 +21,8 @@ Animal Data
 In embryo-fetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to 100 mg/kg/day in rats and 50 mg/kg/day in rabbits (1.2 times the maximum recommended human dose (MRHD) on an mg/m2 basis).
 These doses resulted in maternal toxicity but no fetal harm was observed.
 
-In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses of 10, 30, and 90 mg/kg/day (0.1, 0.3, and 1.0 times the MRHD on a mg/m2 basis).
-Maternal toxicity, loss of litters, and decreased offspring viability occurred at 90 mg/kg/day (1.0 times the MRHD on an mg/m2 basis) and increases in renal anomalies in male offspring occurred at 30 mg/kg/day (0.3 times the MRHD on a mg/m2 basis).
+In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses of 10, 30, and 90 mg/kg/day (0.1, 0.3, and 1.0 times the MRHD on an mg/m2 basis).
+Maternal toxicity, loss of litters, and decreased offspring viability occurred at 90 mg/kg/day (1.0 times the MRHD on an mg/m2 basis) and increases in renal anomalies in male offspring occurred at 30 mg/kg/day (0.3 times the MRHD on an mg/m2 basis).
 
 ## 8.2 Lactation
 
@@ -31,6 +31,12 @@ Risk Summary
 No data are available regarding the presence of Exjade or its metabolites in human milk, the effects of the drug on the breastfed child, or the effects of the drug on milk production.
 Deferasirox and its metabolites were excreted in rat milk.
 Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in a breastfeeding child from deferasirox and its metabolites, a decision should be made whether to discontinue breastfeeding or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Counsel patients to use non-hormonal method(s) of contraception since Exjade can render hormonal contraceptives ineffective [see Drug Interactions (7.2)].
 
 ## 8.4 Pediatric Use
 
@@ -58,7 +64,7 @@ Use of Exjade in these age groups is supported by evidence from adequate and wel
 In general, risk factors for deferasirox-associated kidney injury include preexisting renal disease, volume depletion, overchelation, and concomitant use of other nephrotoxic drugs.
 Acute kidney injury, and acute liver injury and failure has occurred in pediatric patients.
 In a pooled safety analysis, pediatric patients with higher Exjade exposures had a greater probability of renal toxicity and decreased renal function, resulting in increased deferasirox exposure and progressive renal toxicity/kidney injury.
-Higher rates of renal adverse events have been identified among pediatric patients receiving Exjade doses greater than 25 mg/kg/day when their serum ferritin values were less than 1,000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
+Higher rates of renal adverse events have been identified among pediatric patients receiving Exjade doses greater than 25 mg/kg/day when their serum ferritin values were less than 1000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
 
 Monitor renal function by estimating GFR using an eGFR prediction equation appropriate for pediatric patients and evaluate renal tubular function.
 Monitor renal function more frequently in pediatric patients in the presence of renal toxicity risk factors, including episodes of dehydration, fever and acute illness that may result in volume depletion or decreased renal perfusion.
@@ -85,9 +91,11 @@ Monitor elderly patients for early signs or symptoms of adverse reactions that m
 Elderly patients are at increased risk for toxicity due to the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range.
 
+In elderly patients, including those with MDS, individualize the decision to remove accumulated iron based on clinical circumstances and the anticipated clinical benefit and risks of Exjade therapy.
+
 ## 8.6 Renal Impairment
 
-Exjade is contraindicated in patients with eGFR less than 40 ml/min/1.73 m2 [see Contraindications (4)].
+Exjade is contraindicated in patients with eGFR less than 40 mL/min/1.73 m2 [see Contraindications (4)].
 For patients with renal impairment (eGFR 40–60 mL/min/1.73 m2), reduce the starting dose by 50% [see Dosage and Administration (2.4)].
 Exercise caution in pediatric patients with eGFR between 40 and 60 mL/minute/1.73 m2 [see Dosage and Administration (2.4)].
 If treatment is needed, use the minimum effective dose with enhanced monitoring of glomerular and renal tubular function.

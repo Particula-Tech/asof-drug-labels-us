@@ -15,7 +15,7 @@ Preexisting renal disease and concomitant use of other nephrotoxic drugs may inc
 Acute illnesses associated with volume depletion and overchelation may increase the risk of acute kidney injury in pediatric patients.
 In pediatric patients, small decreases in eGFR can result in increases in Exjade exposure, particularly in younger patients with body surface area typical of patients less than age 7 years.
 This can lead to a cycle of worsening renal function and further increases in Exjade exposure, unless the dose is reduced or interrupted.
-Renal tubular toxicity, including acquired Fanconi syndrome, has been reported in patients treated with Exjade, most commonly in pediatric patients with beta-thalassemia and serum ferritin levels less than 1,500 mcg/L [see Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Special Populations (8.4), Clinical Pharmacology (12.3)].
+Renal tubular toxicity, including acquired Fanconi syndrome, has been reported in patients treated with Exjade, most commonly in pediatric patients with beta-thalassemia and serum ferritin levels less than 1,500 mcg/L [see Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 Evaluate renal glomerular and tubular function before initiating therapy or increasing the dose.
 Use prediction equations validated for use in adult and pediatric patients to estimate GFR.
@@ -25,7 +25,7 @@ Monitor all patients for changes in eGFR and for renal tubular toxicity weekly d
 Monitor serum ferritin monthly to evaluate for overchelation.
 Use the minimum dose to establish and maintain a low iron burden.
 Monitor renal function more frequently in patients with preexisting renal disease or decreased renal function.
-In pediatric patients, interrupt Exjade during acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor renal function more frequently.
+In pediatric patients, interrupt Exjade during acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor renal function more frequently.
 Promptly correct fluid deficits to prevent renal injury.
 Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations (8.4)].
 
@@ -39,7 +39,7 @@ Acute liver injury and failure, including fatal outcomes, have occurred in pedia
 Liver failure occurred in association with acute kidney injury in pediatric patients at risk for overchelation during a volume depleting event.
 Interrupt Exjade therapy when acute liver injury or acute kidney injury is suspected and during volume depletion.
 Monitor liver and renal function more frequently in pediatric patients who are receiving Exjade in the 20-40 mg/kg/day range and when iron burden is approaching normal.
-Use the minimum effective dose to achieve and maintain a low iron burden [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1)]
+Use the minimum effective dose to achieve and maintain a low iron burden [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1)].
 
 Measure transaminases (AST and ALT) and bilirubin in all patients before the initiation of treatment, and every 2 weeks during the first month and at least monthly thereafter.
 Consider dose modifications or interruption of treatment for severe or persistent elevations.
@@ -82,7 +82,7 @@ Use the minimum effective dose to achieve and maintain a low iron burden [see Do
 ## 5.6 Overchelation
 
 For patients with transfusional iron overload, measure serum ferritin monthly to assess for possible overchelation of iron.
-An analysis of pediatric patients treated with Exjade in pooled clinical trials (n = 158) found a higher rate of renal adverse events among patients receiving doses greater than 25 mg/kg/day while their serum ferritin values were less than 1,000 mcg/L.
+An analysis of pediatric patients treated with Exjade in pooled clinical trials (n = 158) found a higher rate of renal adverse events (AEs) among patients receiving doses greater than 25 mg/kg/day while their serum ferritin values were less than 1000 mcg/L.
 Consider dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels during these periods.
 Use the minimum effective dose to maintain a low-iron burden [see Adverse Reactions (6.1), Use in Specific Populations (8.4)].
 
@@ -104,7 +104,7 @@ Exjade is contraindicated in patients with known hypersensitivity to deferasirox
 
 ## 5.8 Severe Skin Reactions
 
-Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) which could be life-threatening or fatal have been reported during Exjade therapy [see Adverse Reactions (6.1, 6.2)].
+Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which could be life-threatening or fatal have been reported during Exjade therapy [see Adverse Reactions (6.1, 6.2)].
 Cases of erythema multiforme have been observed.
 Advise patients of the signs and symptoms of severe skin reactions, and closely monitor.
 If any severe skin reactions are suspected, discontinue Exjade immediately and do not reintroduce Exjade therapy.
@@ -112,14 +112,14 @@ If any severe skin reactions are suspected, discontinue Exjade immediately and d
 ## 5.9 Skin Rash
 
 Rashes may occur during Exjade treatment [see Adverse Reactions (6.1)].
-For rashes of mild to moderate severity, Exjade may be continued without dose adjustment, since the rash often resolves spontaneously.
+For rashes of mild-to-moderate severity, Exjade may be continued without dose adjustment, since the rash often resolves spontaneously.
 In severe cases, interrupt treatment with Exjade.
 Reintroduction at a lower dose with escalation may be considered after resolution of the rash.
 
 ## 5.10 Auditory and Ocular Abnormalities
 
 Auditory disturbances (high frequency hearing loss, decreased hearing), and ocular disturbances (lens opacities, cataracts, elevations in intraocular pressure, and retinal disorders) were reported at a frequency of less than 1% with Exjade therapy in the clinical studies.
-The frequency of auditory adverse events irrespective of causality was increased among pediatric patients who received Exjade doses greater than 25 mg/kg/day when serum ferritin was less than 1,000 mcg/L [see Warnings and Precautions (5.6)].
+The frequency of auditory adverse events irrespective of causality was increased among pediatric patients who received Exjade doses greater than 25 mg/kg/day when serum ferritin was less than 1000 mcg/L [see Warnings and Precautions (5.6)].
 
 Perform auditory and ophthalmic testing (including slit-lamp examinations and dilated fundoscopy) before starting Exjade treatment and thereafter at regular intervals (every 12 months).
 If disturbances are noted, monitor more frequently.

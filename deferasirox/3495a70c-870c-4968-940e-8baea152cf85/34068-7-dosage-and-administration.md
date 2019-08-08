@@ -34,7 +34,7 @@ During Therapy:
   - Evaluate the need for ongoing chelation therapy for patients whose conditions no longer require regular blood transfusions.
   - Use the minimum effective dose to maintain iron burden in the target range [see Warnings and Precautions (5.6)].
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
-- Interrupt Exjade for pediatric patients who have acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+- Interrupt Exjade for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
   Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 ## 2.2 Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
@@ -70,7 +70,7 @@ During Therapy:
 - If after 6 months of therapy, the LIC is 3-7 mg Fe/g dw, continue treatment with deferasirox at no more than 10 mg/kg/day.
 - When the LIC is less than 3 mg Fe/g dw, interrupt treatment with deferasirox and continue to monitor the LIC.
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
-- Increase monitoring frequency for pediatric patients who have acute illness which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
+- Increase monitoring frequency for pediatric patients who have acute illness, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
   Consider dose interruption until oral intake and volume status are normal [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 Restart treatment when the LIC rises again to more than 5 mg Fe/g dw.
@@ -105,7 +105,7 @@ Exercise caution in pediatric patients with eGFR between 40 and 60 mL/min/1.73 m
 If treatment is needed, use the minimum effective dose and monitor renal function frequently.
 Individualize dose titration based on improvement in renal injury [see Use in Specific Populations (8.6)].
 
-## 2.5 Dose Modifications for Decreases in Renal Function while on Exjade
+## 2.5 Dose Modifications for Decreases in Renal Function While on Exjade
 
 Exjade is contraindicated in patients with eGFR less than 40 mL/min/1.73 m2 [see Contraindications (4)].
 
@@ -120,7 +120,7 @@ Adults:
 Pediatric Patients (ages 2 years–17 years):
 
 - Reduce the dose by 10 mg/ kg/day if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
-- Interrupt Exjade for acute illnesses which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+- Interrupt Exjade for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
   Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal.
   Avoid use of other nephrotoxic drugs [see Warnings and Precautions (5.1)].
 - In the setting of decreased renal function, evaluate the risk benefit profile of continued Exjade use.

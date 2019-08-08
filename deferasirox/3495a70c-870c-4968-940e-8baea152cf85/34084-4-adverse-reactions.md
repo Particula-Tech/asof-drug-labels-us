@@ -19,7 +19,7 @@ Transfusional Iron Overload
 
 A total of 700 adult and pediatric patients were treated with Exjade (deferasirox) for 48 weeks in premarketing studies.
 These included 469 patients with beta-thalassemia, 99 with rare anemias, and 132 with sickle cell disease.
-Of these patients, 45% were male, 70% were Caucasian and 292 patients were less than 16 years of age.
+Of these patients, 45% were male, 70% were Caucasian, and 292 patients were less than 16 years of age.
 In the sickle cell disease population, 89% of patients were black.
 Median treatment duration among the sickle cell patients was 51 weeks.
 Of the 700 patients treated, 469 (403 beta-thalassemia and 66 rare anemias) were entered into extensions of the original clinical protocols.
@@ -47,8 +47,8 @@ Adverse Reactions *Occurring in Greater Than 5% of Exjade-treated Patients in St
 | Vomiting | 30 (10) | 28 (10) | 28 (21) | 10 (16) | 83 (13) |  |
 | Rash | 25 (8) | 9 (3) | 14 (11) | 3 (5) | 83 (13) |  |
 | *Adverse reaction frequencies are based on adverse events reported regardless of relationship to study drug. |  |  |  |  |  |  |
-| **Includes ‘abdominal pain’, ‘abdominal pain lower’, and ‘abdominal pain upper’ which were reported as adverse events. |  |  |  |  |  |  |
-| ***Includes ‘blood creatinine increased’ and ‘blood creatinine abnormal’ which were reported as adverse events. See also Table 2. |  |  |  |  |  |  |
+| **Includes ‘abdominal pain’, ‘abdominal pain lower’, and ‘abdominal pain upper’, which were reported as adverse events. |  |  |  |  |  |  |
+| ***Includes ‘blood creatinine increased’ and ‘blood creatinine abnormal’, which were reported as adverse events. See also Table 2. |  |  |  |  |  |  |
 
 In Study 1, a total of 113 (38%) patients treated with Exjade had increases in serum creatinine greater than 33% above baseline on 2 separate occasions (Table 2) and 25 (8%) patients required dose reductions.
 Increases in serum creatinine appeared to be dose related [see Warnings and Precautions (5.1)].
@@ -83,15 +83,15 @@ Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in Study 1
 
 Non-Transfusion-Dependent Thalassemia Syndromes
 
-In Study 4, 110 patients with NTDT received 1 year of treatment with Exjade 5 or 10 mg/kg/day and 56 patients received placebo in a double-blind, randomized trial.
-In Study 5, 130 of the patients who completed Study 4 were treated with open-label Exjade at 5, 10, or 20 mg/kg/day (depending on the baseline LIC) for 1 year [see Clinical Studies (14)].
+In Study 5, 110 patients with NTDT received 1 year of treatment with Exjade 5 or 10 mg/kg/day and 56 patients received placebo in a double-blind, randomized trial.
+In Study 6, 130 of the patients who completed Study 5 were treated with open-label Exjade at 5, 10, or 20 mg/kg/day (depending on the baseline LIC) for 1 year [see Clinical Studies (14)].
 Table 3 displays adverse reactions occurring in greater than 5% in any group.
 The most frequent adverse reactions with a suspected relationship to study drug were nausea, rash, and diarrhea.
 
 Table 3.
 Adverse Reactions Occurring in Greater Than 5% in NTDT Patients
 
-|  | Study 4 |  | Study 5 |
+|  | Study 5 |  | Study 6 |
 | --- | --- | --- | --- |
 |  | Exjade | Placebo | Exjade |
 |  | N = 110 | N = 56 | N = 130 |
@@ -101,15 +101,15 @@ Adverse Reactions Occurring in Greater Than 5% in NTDT Patients
 | Rash | 7 (6) | 1 (2) | 2 (2) |
 | Diarrhea | 5 (5) | 1 (2) | 7 (5) |
 
-In Study 4, 1 patient in the placebo 10 mg/kg/day group experienced an ALT increase to greater than 5 times ULN and greater than 2 times baseline (Table 4).
+In Study 5, 1 patient in the placebo 10 mg/kg/day group experienced an ALT increase to greater than 5 times ULN and greater than 2 times baseline (Table 4).
 Three Exjade-treated patients (all in the 10 mg/kg/day group) had 2 consecutive serum creatinine level increases greater than 33% from baseline and greater than ULN.
 Serum creatinine returned to normal in all 3 patients (in 1 spontaneously and in the other 2 after drug interruption).
-Two additional cases of ALT increase and 2 additional cases of serum creatinine increase were observed in the 1-year extension of Study 4.
+Two additional cases of ALT increase and 2 additional cases of serum creatinine increase were observed in the 1-year extension of Study 5.
 
 Table 4.
 Number (%) of NTDT Patients with Increases in Serum Creatinine or SGPT/ALT
 
-|  | Study 4 |  | Study 5 |
+|  | Study 5 |  | Study 6 |
 | --- | --- | --- | --- |
 |  | Exjade | Placebo | Exjade |
 |  | N = 110 | N = 56 | N = 130 |
@@ -124,9 +124,9 @@ Intermittent proteinuria (urine protein/creatinine ratio greater than 0.6 mg/mg)
 
 Other Adverse Reactions
 
-In the population of more than 5,000 patients with transfusional iron overload who have been treated with Exjade during clinical trials, adverse reactions occurring in 0.1% to 1% of patients included gastritis, edema, sleep disorder, pigmentation disorder, dizziness, anxiety, maculopathy, cholelithiasis, pyrexia, fatigue, laryngeal pain, cataract, hearing loss, gastrointestinal hemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, renal tubular disorder (Fanconi Syndrome), and acute pancreatitis (with and without underlying biliary conditions).
+In the population of more than 5000 patients with transfusional iron overload who have been treated with Exjade during clinical trials, adverse reactions occurring in 0.1% to 1% of patients included gastritis, edema, sleep disorder, pigmentation disorder, dizziness, anxiety, maculopathy, cholelithiasis, pyrexia, fatigue, laryngeal pain, cataract, hearing loss, gastrointestinal hemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, renal tubular disorder (Fanconi Syndrome), and acute pancreatitis (with and without underlying biliary conditions).
 Adverse reactions occurring in 0.01% to 0.1% of patients included optic neuritis, esophagitis, erythema multiforme, and drug reaction with eosinophilia and systemic symptoms (DRESS).
-Adverse reactions which most frequently led to dose interruption or dose adjustment during clinical trials were rash, gastrointestinal disorders, infections, increased serum creatinine, and increased serum transaminases.
+Adverse reactions, which most frequently led to dose interruption or dose adjustment during clinical trials were rash, gastrointestinal disorders, infections, increased serum creatinine, and increased serum transaminases.
 
 Pooled Analysis of Pediatric Clinical Trial Data
 
