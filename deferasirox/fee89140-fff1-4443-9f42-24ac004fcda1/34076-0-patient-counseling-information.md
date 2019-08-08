@@ -18,15 +18,34 @@ Blood Testing
 
 Advise patients that blood tests will be performed frequently to check for damage to kidneys, liver, or blood cells [see Warnings and Precautions (5.1, 5.2, 5.3, 5.4, 5.5)].
 
+Acute Kidney Injury, Including Acute Renal Failure
+
+Caution patients about the potential for kidney toxicity when taking JADENU tablets or JADENU Sprinkle granules.
+Inform patients of the signs and symptoms of kidney injury.
+Advise patients to contact their healthcare provider immediately if they experience any of these symptoms [see Warnings and Precautions (5.1)].
+
+Hepatic Toxicity and Failure
+
+Caution patients about the potential for hepatic toxicity when taking JADENU tablets or JADENU Sprinkle granules.
+Inform patients of the signs and symptoms of hepatic toxicity.
+Advise patients to contact their healthcare provider immediately if they experience any of these symptoms [see Warnings and Precautions (5.2)].
+
 Gastrointestinal Ulceration and Hemorrhage
 
 Caution patients about the potential for the development of GI ulcers or bleeding when taking JADENU in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants.
-Advise patients to contact their healthcare provider for signs and symptoms of gastrointestinal ulceration and hemorrhage [see Warnings and Precautions (5.3)].
+Inform patients of the signs and symptoms of GI ulcers or bleeding.
+Advise patients to contact their healthcare provider for symptoms of heartburn but to seek immediate medical attention for symptoms of gastrointestinal hemorrhage [see Warnings and Precautions (5.3)].
 
 Allergic Reactions
 
 Serious allergic reactions (which include swelling of the throat) have been reported in patients taking -JADENU, usually within the first month of treatment.
-If reactions are severe, advise patients to stop taking JADENU immediately and seek immediate medical attention [see Warnings and Precautions (5.7, 5.8)].
+If reactions are severe, advise patients to stop taking JADENU immediately and seek immediate medical attention [see Warnings and Precautions (5.7)].
+
+Severe Skin Reactions
+
+Severe skin reactions have been reported in patients taking JADENU tablets or JADENU Sprinkle granules.
+Inform patients of the signs and symptoms of severe skin reactions.
+If reactions are severe, advise patients to stop taking JADENU tablets or JADENU Sprinkle granules immediately and seek immediate medical attention [see Warnings and Precautions (5.8)].
 
 Skin Rash
 
@@ -68,4 +87,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2019-65
+T2019-86

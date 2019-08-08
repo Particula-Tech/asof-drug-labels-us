@@ -125,7 +125,7 @@ Exercise caution in pediatric patients with eGFR between 40 and 60 mL/minute/1.7
 If treatment is needed, use the minimum effective dose and monitor renal function frequently.
 Individualize dose titration based on improvement in renal injury [see Use in Specific Populations (8.6)].
 
-## 2.5 Dose Modifications for Decreases in Renal Function while on JADENU
+## 2.5 Dose Modifications for Decreases in Renal Function While on JADENU
 
 JADENU is contraindicated in patients with eGFR less than 40 mL/minute/1.73 m2 [see Contraindications (4)].
 
@@ -159,7 +159,7 @@ Adults:
 
 - If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within 1 week, and if still elevated by 33% or more, interrupt therapy if the dose is 3.5 mg per kg, or reduce by 50% if the dose is 7 or 14 mg per kg.
 
-Pediatric Patients (ages 10 years – 17 years):
+Pediatric Patients (ages 10 years–17 years):
 
 - Reduce the dose by 3.5 mg per kg if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
 - Increase monitoring frequency for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.

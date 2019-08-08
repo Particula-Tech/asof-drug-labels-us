@@ -12,6 +12,4 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.3 Limitations of Use
 
-Controlled clinical trials of JADENU with myelodysplastic syndromes (MDS) and chronic iron overload due to blood transfusions have not been performed [see Clinical Studies (14)].
-
 The safety and efficacy of JADENU when administered with other iron chelation therapy have not been established.

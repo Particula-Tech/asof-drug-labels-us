@@ -15,7 +15,7 @@ Preexisting renal disease and concomitant use of other nephrotoxic drugs may inc
 Acute illnesses associated with volume depletion and overchelation may increase the risk of acute kidney injury in pediatric patients.
 In pediatric patients, small decreases in eGFR can result in increases in deferasirox exposure, particularly in younger patients with body surface area typical of patients less than age 7 years.
 This can lead to a cycle of worsening renal function and further increases in Exjade exposure, unless the dose is reduced or interrupted.
-Renal tubular toxicity, including acquired Fanconi syndrome, has been reported in patients treated with deferasirox, most commonly in pediatric patients with beta-thalassemia and serum ferritin levels less than 1,500 mcg/L [see Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Special Populations (8.4), Clinical Pharmacology (12.3)].
+Renal tubular toxicity, including acquired Fanconi syndrome, has been reported in patients treated with deferasirox, most commonly in pediatric patients with beta-thalassemia and serum ferritin levels less than 1,500 mcg/L [see Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 Evaluate renal glomerular and tubular function before initiating therapy or increasing the dose.
 Use prediction equations validated for use in adult and pediatric patients to estimate GFR.
@@ -83,7 +83,7 @@ Use the minimum effective dose to achieve and maintain a low iron burden [see Do
 ## 5.6 Overchelation
 
 For patients with transfusional iron overload, measure serum ferritin monthly to assess for possible overchelation of iron.
-An analysis of pediatric patients treated with Exjade in pooled clinical trials (n = 158), found a higher rate of renal adverse events among patients receiving doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU while their serum ferritin values were less than 1000 mcg/L.
+An analysis of pediatric patients treated with Exjade in pooled clinical trials (n = 158), found a higher rate of renal adverse events (AEs) among patients receiving doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU while their serum ferritin values were less than 1000 mcg/L.
 Consider dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels during these periods.
 Use the minimum effective dose to maintain a low-iron burden [see Adverse Reactions (6.1), Use in Specific Populations (8.4)].
 
@@ -113,7 +113,7 @@ If any severe skin reactions are suspected, discontinue JADENU immediately and d
 ## 5.9 Skin Rash
 
 Rashes may occur during JADENU treatment [see Adverse Reactions (6.1)].
-For rashes of mild to moderate severity, JADENU may be continued without dose adjustment, since the rash often resolves spontaneously.
+For rashes of mild-to-moderate severity, JADENU may be continued without dose adjustment, since the rash often resolves spontaneously.
 In severe cases, interrupt treatment with JADENU.
 Reintroduction at a lower dose with escalation may be considered after resolution of the rash.
 
