@@ -9,4 +9,4 @@ It reacts readily with formaldehyde or acetone to form a thiazolidine-carboxylic
 
 Depen® (penicillamine tablets, USP) Titratable Tablets for oral administration contain 250 mg of penicillamine.
 
-Other ingredients (inactive): edetate disodium, hypromellose, lactose, magnesium stearate, magnesium trisilicate, polyethylene glycol, povidone, simethicone emulsion, starch, and stearic acid.
+Other ingredients (inactive): edetate disodium, hypromellose, lactose, magnesium stearate, magnesium trisilicate, polyethylene glycol, povidone, starch, and stearic acid.

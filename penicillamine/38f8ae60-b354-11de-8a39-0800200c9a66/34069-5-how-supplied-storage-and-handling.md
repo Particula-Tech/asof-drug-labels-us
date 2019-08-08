@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Depen® (penicillamine tablets, USP) Titratable Tablets: 250 mg scored, oval, white tablets coded with 37-4401; available in bottles of 100 (NDC 0037-4401-01).
+Depen® (penicillamine tablets, USP) Titratable Tablets: 250 mg functionally scored, oval, white tablets coded with 37-4401; available in bottles of 100 (NDC 0037-4401-01).
 
 Storage: Store at controlled room temperature 20°–25°C (68°–77°F).
 Protect from moisture.
@@ -11,11 +11,11 @@ To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-80
 
 Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-©2018 Mylan Specialty LP
+©2019 Mylan Specialty LP
 
 DEPEN is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
 
-500493-03 Rev.
-7/18
+500493-05 Rev.
+1/2019
 
-IN-4401-01
+IN-4401-03
