@@ -8,7 +8,9 @@ Oxaliplatin Injection, USP
 
 Rx only
 
-50 mg/ 10 mL (5 mg/mL)
+50 mg/ 10 mL
+
+(5 mg/mL)
 
 For Intravenous Use Only See package insert for further required dilution Do not dilute with sodium chloride/ chloride-containing solutions Caution: Cytotoxic Agent
 
@@ -26,7 +28,9 @@ Sterile Aqueous Solution
 
 Oxaliplatin Injection, USP
 
-50 mg/ 10 mL (5 mg/mL)
+50 mg/ 10 mL
+
+(5 mg/mL)
 
 Rx only
 
@@ -50,7 +54,9 @@ Oxaliplatin Injection, USP
 
 Rx only
 
-100 mg/ 20 mL (5 mg/mL)
+100 mg/ 20 mL
+
+(5 mg/mL)
 
 For Intravenous Use Only See package insert for further required dilution Do not dilute with sodium chloride/ chloride-containing solutions Caution: Cytotoxic Agent
 
@@ -68,7 +74,9 @@ Sterile Aqueous Solution
 
 Oxaliplatin Injection, USP
 
-100 mg/ 20 mL (5 mg/mL)
+100 mg/ 20 mL
+
+(5 mg/mL)
 
 Rx only
 
