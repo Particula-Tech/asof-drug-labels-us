@@ -1,0 +1,12 @@
+# INDICATIONS AND USAGE
+
+Carefully consider the potential benefits and risks of Ibuprofen Tablets and other treatment options before deciding to use Ibuprofen Tablets.
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see WARNINGS].
+
+Ibuprofen Tablets are indicated for relief of the signs and symptoms of rheumatoid arthritis and osteoarthritis.
+
+Ibuprofen Tablets are indicated for relief of mild to moderate pain.
+
+Ibuprofen Tablets are also indicated for the treatment of primary dysmenorrhea.
+
+Controlled clinical trials to establish the safety and effectiveness of Ibuprofen Tablets in children have not been conducted.
