@@ -32,7 +32,9 @@ Store at room temperature 20° to 25°C (68° to 77°F); excursions permitted be
 
 Dispense in a tight, light-resistant container.
 
+Store hydrocodone bitartrate and ibuprofen tablets securely and dispose of properly (see PRECAUTIONS: Information for Patients).
+
 Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
 
 Rev.
-07-2018-06
+04-2019-08

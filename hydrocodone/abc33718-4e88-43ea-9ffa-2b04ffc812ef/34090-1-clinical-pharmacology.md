@@ -26,6 +26,8 @@ Because ibuprofen is an inhibitor of prostaglandin synthesis, its mode of action
 
 Pharmacodynamics
 
+Hydrocodone
+
 Effects on the Central Nervous System
 
 Hydrocodone produces respiratory depression by direct action on brain stem respiratory centers.
@@ -71,6 +73,17 @@ Concentration-Adverse Reaction Relationships
 There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions (see DOSAGE AND ADMINISTRATION).
 
+Ibuprofen
+
+In a healthy volunteer study, ibuprofen 400 mg given once daily, administered 2 hours prior to immediate-release aspirin (81 mg) for 6 days, showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane B2 (TxB2) inhibition at 24 hours following the day-6 aspirin dose [53%].
+An interaction was still observed, but minimized, when ibuprofen 400 mg given once-daily was administered as early as 8 hours prior to the immediate-release aspirin dose [90.7%].
+However, there was no interaction with the antiplatelet activity of aspirin when ibuprofen 400 mg, given once daily, was administered 2 hours after (but not concomitantly, 15 min, or 30 min after) the immediate-release aspirin dose [99.2%].
+
+In another study, where immediate-release aspirin 81 mg was administered once daily with ibuprofen 400 mg given three times daily (1, 7, and 13 hours post-aspirin dose) for 10 consecutive days, the mean % serum thromboxane B2 (TxB2) inhibition suggested no interaction with the antiplatelet activity of aspirin [98.3%].
+However, there were individual subjects with serum TxB2 inhibition below 95%, with the lowest being 90.2%.
+
+When a similarly designed study was conducted with enteric-coated aspirin, where healthy subjects were administered enteric-coated aspirin 81 mg once daily for 6 days and ibuprofen 400 mg three times daily (2, 7 and 12 h post-aspirin dose) for 6 days, there was an interaction with the antiplatelet activity at 24 hours following the day-6 aspirin dose [67%] (see PRECAUTIONS: Drug Interactions).
+
 Pharmacokinetics
 
 Absorption
@@ -90,7 +103,7 @@ Metabolism
 
 Hydrocodone exhibits a complex pattern of metabolism, including O-demethylation, N-demethylation, and 6-keto reduction to the corresponding 6-α-and 6-β-hydroxy metabolites.
 Hydromorphone, a potent opioid, is formed from the O-demethylation of hydrocodone and contributes to the total analgesic effect of hydrocodone.
-The O- and N- demethylation processes are mediated by separate P-450 isoenzymes: CYP2D6 and CYP3A4, respectively.
+The O- and N-demethylation processes are mediated by separate P-450 isoenzymes: CYP2D6 and CYP3A4, respectively.
 
 Ibuprofen is present in this product as a racemate, and following absorption it undergoes interconversion in the plasma from the R-isomer to the S-isomer.
 Both the R- and S- isomers are metabolized to two primary metabolites: (+)-2-4'-(2hydroxy-2-methyl-propyl) phenyl propionic acid and (+)-2-4'-(2carboxypropyl) phenyl propionic acid, both of which circulate in the plasma at low levels relative to the parent.

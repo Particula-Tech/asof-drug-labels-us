@@ -50,6 +50,10 @@ Overestimating the hydrocodone bitartrate and ibuprofen dosage when converting p
 
 Accidental ingestion of even one dose of hydrocodone bitartrate and ibuprofen, especially by children, can result in respiratory depression and death due to an overdose of hydrocodone bitartrate and ibuprofen.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper (see DOSAGE AND ADMINISTRATION).
+
 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of hydrocodone bitartrate and ibuprofen during pregnancy can result in withdrawal in the neonate.
@@ -87,7 +91,7 @@ Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disea
 
 The use of hydrocodone bitartrate and ibuprofen in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: hydrocodone bitartrate and ibuprofen-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of hydrocodone bitartrate and ibuprofen (see WARNINGS: Life-Threatening Respiratory Depression).
+Patients with Chronic Pulmonary Disease: Hydrocodone bitartrate and ibuprofen-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of hydrocodone bitartrate and ibuprofen (see WARNINGS: Life-Threatening Respiratory Depression).
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS: Life-Threatening Respiratory Depression).
 
@@ -135,7 +139,10 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydrocodone bitartrate and ibuprofen.
+Do not abruptly discontinue hydrocodone bitartrate and ibuprofen in a patient physically dependent on opioids.
+Rapid tapering of hydrocodone bitartrate and ibuprofen in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain (see DOSAGE AND ADMINISTRATION, DRUG ABUSE AND DEPENDENCE).
+
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydrocodone bitartrate and ibuprofen.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms (see PRECAUTIONS: Drug Interactions).
 When discontinuing hydrocodone bitartrate and ibuprofen in a physically-dependent patient, gradually taper the dosage (see DOSAGE AND ADMINISTRATION).
 Do not abruptly discontinue hydrocodone bitartrate and ibuprofen in these patients (see DRUG ABUSE AND DEPENDENCE).
@@ -310,68 +317,83 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide) 
 Patients, families, or their caregivers should be informed of the following information before initiating therapy with hydrocodone bitartrate and ibuprofen and periodically during the course of ongoing therapy.
 
 1.
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse and abuse, advise patients to store hydrocodone bitartrate and ibuprofen tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home (see WARNINGS, DRUG ABUSE AND DEPENDENCE).
+Inform patients that leaving hydrocodone bitartrate and ibuprofen tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused hydrocodone bitartrate and ibuprofen tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
+2.
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of hydrocodone bitartrate and ibuprofen, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death (see WARNINGS: Addiction, Abuse, and Misuse).
 Instruct patients not to share hydrocodone bitartrate and ibuprofen with others and to take steps to protect hydrocodone bitartrate and ibuprofen from theft or misuse.
 
-2.
+3.
 Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate and ibuprofen or when the dosage is increased, and that it can occur even at recommended dosages (see WARNINGS: Life-Threatening Respiratory Depression).
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
-3.
+4.
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS: Life-Threatening Respiratory Depression).
 Instruct patients to take steps to store hydrocodone bitartrate and ibuprofen securely and to dispose of unused hydrocodone bitartrate and ibuprofen appropriately as described below.
 
-4.
+5.
 Interactions with Benzodiazepines and Other CNS Depressants
 
 Inform patients and caregivers that potentially fatal additive effects may occur if hydrocodone bitartrate and ibuprofen is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider (see WARNINGS: Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants, PRECAUTIONS: Drug Interactions).
 
-5.
+6.
 Serotonin Syndrome
 
 Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications (see PRECAUTIONS: Drug Interactions).
 
-6.
+7.
 MAOI Interaction
 
 Inform patients to avoid taking hydrocodone bitartrate and ibuprofen while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking hydrocodone bitartrate and ibuprofen (see PRECAUTIONS: Drug Interactions).
 
-7.
+8.
 Adrenal Insufficiency
 
 Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms (see WARNINGS: Adrenal Insufficiency).
 
-8.
+9.
 Important Administration Instructions
 
 Instruct patients how to properly take hydrocodone bitartrate and ibuprofen.
 For the short-term (generally less than 10 days) management of acute pain, the recommended dose of hydrocodone bitartrate and ibuprofen is one tablet every 4 to 6 hours, as necessary.
 Inform patients that the dosage should not exceed 5 tablets in a 24-hour period (see DOSAGE AND ADMINISTRATION).
 
-9.
+10.
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue hydrocodone bitartrate and ibuprofen tablets without first discussing a tapering plan with the prescriber (see DOSAGE AND ADMINISTRATION).
+
+11.
 Hypotension
 
 Inform patients that hydrocodone bitartrate and ibuprofen may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) (see WARNINGS: Severe Hypotension).
 
-10.
+12.
 Anaphylaxis
 
 Inform patients that anaphylaxis has been reported with ingredients contained in hydrocodone bitartrate and ibuprofen.
 Advise patients how to recognize such a reaction and when to seek medical attention (see CONTRAINDICATIONS, WARNINGS: Anaphylactic Reactions).
 
-11.
+13.
 Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
@@ -383,77 +405,72 @@ Embryo-Fetal Toxicity
 Inform female patients of reproductive potential that hydrocodone bitartrate and ibuprofen can cause fetal harm and to inform the prescriber of a known or suspected pregnancy.
 Inform pregnant women to avoid use of hydrocodone bitartrate and ibuprofen and other NSAIDs starting at 30 weeks gestation because of the risk of premature closing of the fetal ductus arteriosus (see WARNINGS: Premature Closure of Fetal Ductus Arteriosis, PRECAUTIONS: Pregnancy).
 
-12.
+14.
 Lactation
 
 Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
 Instruct nursing mothers to seek immediate medical care if they notice these signs (see PRECAUTIONS: Nursing Mothers).
 
-13.
+15.
 Infertility
 
 Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible.
 Advise female patients of reproductive potential who desire pregnancy that NSAIDs, including hydrocodone bitartrate and ibuprofen, may be associated with a reversible delay in ovulation (see PRECAUTIONS: Carcinogenicity, Mutagenicity, Impairment of Fertility).
 
-14.
+16.
 Driving or Operating Heavy Machinery
 
 Inform patients that hydrocodone bitartrate and ibuprofen may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
 Advise patients not to perform such tasks until they know how they will react to the medication (see WARNINGS: Risks of Driving and Operating Machinery).
 
-15.
+17.
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS: Clinical Trials Experience).
 
-16.
+18.
 Cardiovascular Thrombotic Events
 
 Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their healthcare provider immediately (see WARNINGS: Cardiovascular Thrombotic Events).
 
-17.
+19.
 Gastrointestinal Bleeding, Ulceration, and Perforation
 
 Advise patients to report symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their healthcare provider.
 In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for and the signs and symptoms of GI bleeding (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation).
 
-18.
+20.
 Hepatotoxicity
 
 Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
 If these occur, instruct patients to stop hydrocodone bitartrate and ibuprofen and seek immediate medical therapy (see WARNINGS: Hepatotoxicity).
 
-19.
+21.
 Heart Failure and Edema
 
 Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS: Heart Failure and Edema).
 
-20.
+22.
 Serious Skin Reactions
 
 Advise patients to stop hydrocodone bitartrate and ibuprofen immediately if they develop any type of rash and to contact their healthcare provider as soon as possible (see WARNINGS: Serious Skin Reactions).
 
-21.
+23.
 Avoid Concomitant use of NSAIDs
 
 Inform patients that the concomitant use of hydrocodone bitartrate and ibuprofen with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation, PRECAUTIONS: Drug Interactions).
 Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
 
-22.
+24.
 Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with hydrocodone bitartrate and ibuprofen until they talk to their healthcare provider (see PRECAUTIONS: Drug Interactions).
 
-23.
+25.
 Ophthalmological Effects
 
 Instruct patients to report any signs of blurred vision or other eye symptoms (see PRECAUTIONS: Ophthalmological Effects).
-
-24.
-Disposal of Unused Hydrocodone Bitartrate and Ibuprofen
-
-Advise patients to flush the unused tablets down the toilet when hydrocodone bitartrate and ibuprofen is no longer needed or to contact the Drug Enforcement Agency (DEA) to find the location of an authorized collector (1-800-882-9539).
 
 ## Laboratory Monitoring
 
@@ -492,10 +509,11 @@ Follow patients closely for signs of respiratory depression and sedation (see WA
 
 Serotonergic Drugs
 
-The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome (see PRECAUTIONS: Information for Patients).
-
-If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
-Discontinue hydrocodone bitartrate and ibuprofen if serotonin syndrome is suspected.
+| Serotonergic Drugs |  |
+| --- | --- |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue hydrocodone bitartrate and ibuprofen if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e. cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 
 Monoamine Oxidase Inhibitors (MAOIs)
 
@@ -533,6 +551,12 @@ Case-control and cohort epidemiological studies showed that concomitant use of d
 Monitor patients with concomitant use of hydrocodone bitartrate and ibuprofen with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), SSRIs, and SNRIs for signs of bleeding (see WARNINGS: Hematologic Toxicity).
 
 Aspirin
+
+Pharmacodynamic studies have demonstrated interference with the antiplatelet activity of aspirin when ibuprofen 400 mg, given three times daily, is administered with entericcoated low-dose aspirin.
+The interaction exists even following a once-daily regimen of ibuprofen 400 mg, particularly when ibuprofen is dosed prior to aspirin.
+The interaction is alleviated if immediate-release low-dose aspirin is dosed at least 2 hours prior to a once-daily regimen of ibuprofen; however, this finding cannot be extended to enteric-coated low-dose aspirin (see CLINICAL PHARMACOLOGY: Pharmacodynamics).
+
+Because there may be an increased risk of cardiovascular events due to the interference of ibuprofen with the antiplatelet effect of aspirin, for patients taking low-dose aspirin for cardioprotection who require analgesics, consider use of an NSAID that does not interfere with the antiplatelet effect of aspirin, or non-NSAID analgesics, where appropriate.
 
 Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone.
 In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation).
