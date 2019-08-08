@@ -21,3 +21,7 @@ Interference with Laboratory Tests
 Advise patients to inform healthcare providers including blood transfusion centers/personnel that they are taking DARZALEX, in the event of a planned transfusion [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
 Advise patients that DARZALEX can affect the results of some tests used to determine complete response in some patients and additional tests may be needed to evaluate response [see Warnings and Precautions (5.5) and Drug Interactions (7.1)].
+
+Hepatitis B Virus (HBV) Reactivation:
+
+Advise patients to inform healthcare providers if they have ever had or might have a hepatitis B infection and that DARZALEX could cause hepatitis B virus to become active again [see Adverse Reactions (6.1)].

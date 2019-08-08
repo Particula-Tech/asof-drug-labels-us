@@ -364,6 +364,10 @@ Pneumonia was the most commonly reported severe (Grade 3 or 4) infection across 
 In the active controlled studies, discontinuations from treatment due to infections (1–4%) and fatal infections were generally infrequent and balanced between the DARZALEX containing regimens and active control arms.
 Fatal infections were primarily due to pneumonia and sepsis.
 
+Hepatitis B Virus (HBV) Reactivation
+
+Hepatitis B virus reactivation has been reported in less than 1% of patients (including fatal cases) treated with DARZALEX in clinical trials.
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.
