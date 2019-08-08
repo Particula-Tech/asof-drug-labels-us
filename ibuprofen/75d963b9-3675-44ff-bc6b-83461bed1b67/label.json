@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA071935"
+  ],
+  "inn": "ibuprofen",
+  "labeler": "Amneal Pharmaceuticals of New York LLC",
+  "package_ndcs": [
+    "53746-137-01",
+    "53746-137-05",
+    "53746-137-30",
+    "53746-137-50",
+    "53746-137-60",
+    "53746-137-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ibuprofen",
+      "name": "Ibuprofen"
+    }
+  ],
+  "setid": "75d963b9-3675-44ff-bc6b-83461bed1b67",
+  "source": "dailymed"
+}
