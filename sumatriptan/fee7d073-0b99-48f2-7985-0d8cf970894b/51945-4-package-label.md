@@ -80,13 +80,13 @@ NDC 0173-0479-00
 
 IMITREX
 
-STATdose SYSTEM®
+STATdose SYSTEM
 
 6 mg
 
 This carton contains:
 
-- •Imitrex®
+- •Imitrex
 
 (sumatriptan succinate)
 
@@ -94,10 +94,12 @@ Injection
 
 2 prefilled 0.5-mL syringe cartridges, each containing 6 mg of sumatriptan for subcutaneous injection only
 
-- •1 Imitrex STATdose Pen®
+- •1 Imitrex STATdose Pen
 - •1 Carrying Case
 - •Instructions for Use/Information for the Patient
 - •Prescribing Information
+
+This Product Contains Dry Natural Rubber
 
 Rx only
 
@@ -105,7 +107,7 @@ Do not use if tamper-evident label is broken or missing.
 
 Made in India
 
-©2017 the GSK group of companies
+©2018 the GSK group of companies
 
-1. 10000000145308 Rev.
-   1/17
+1. 62000000028442 Rev.
+   12/18
