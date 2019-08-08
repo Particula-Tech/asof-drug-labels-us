@@ -63,18 +63,18 @@ For most patients, steady-state will be reached after 3 days of dosing when no d
 A trough concentration (i.e., at the end of the dosing interval) provides no additional useful information and may lead to an inappropriate dose increase since the peak serum theophylline concentration can be two or more times greater than the trough concentration with an immediate-release formulation.
 If the serum sample is drawn more than 12 hours after the evening dose, or more than 9 hours after a morning dose, the results must be interpreted with caution since the concentration may not be reflective of the peak concentration.
 In contrast, when signs or symptoms of theophylline toxicity are present, a serum sample should be obtained as soon as possible, analyzed immediately, and the result reported to the healthcare professional without delay.
-In patients in whom decreased serum protein binding is suspected (e.g., cirrhosis, women during the third trimester of pregnancy), the concentration of unbound theophylline should be measured and the dosage adjusted to achieve an unbound concentration of 6-12 mcg/mL.
+In patients in whom decreased serum protein binding is suspected (e.g., cirrhosis, women during the third trimester of pregnancy), the concentration of unbound theophylline should be measured and the dosage adjusted to achieve an unbound concentration of 6 to 12 mcg/mL.
 
 Saliva concentrations of theophylline cannot be used reliably to adjust dosage without special techniques.
 
 ## Effects on Laboratory Tests
 
-As a result of its pharmacological effects, theophylline at serum concentrations within the 10-20 mcg/mL range modestly increases plasma glucose (from a mean of 88 mg% to 98 mg%), uric acid (from a mean of 4 mg/dL to 6 mg/dL), free fatty acids (from a mean of 451 μEq/L to 800 μEq/L, total cholesterol (from a mean of 140 vs 160 mg/dL), HDL (from a mean of 36 to 50 mg/dL), HDL/LDL ratio (from a mean of 0.5 to 0.7), and urinary free cortisol excretion (from a mean of 44 to 63 mcg/24 hr). Theophylline at serum concentrations within the 10-20 mcg/mL range may also transiently decrease serum concentrations of triiodothyronine (144 before, 131 after one week and 142 ng/dL after 4 weeks of theophylline).
+As a result of its pharmacological effects, theophylline at serum concentrations within the 10 to 20 mcg/mL range modestly increases plasma glucose (from a mean of 88 mg% to 98 mg%), uric acid (from a mean of 4 mg/dL to 6 mg/dL), free fatty acids (from a mean of 451 μEq/L to 800 μEq/L, total cholesterol (from a mean of 140 vs 160 mg/dL), HDL (from a mean of 36 to 50 mg/dL), HDL/LDL ratio (from a mean of 0.5 to 0.7), and urinary free cortisol excretion (from a mean of 44 to 63 mcg/24 hr). Theophylline at serum concentrations within the 10 to 20 mcg/mL range may also transiently decrease serum concentrations of triiodothyronine (144 before, 131 after one week and 142 ng/dL after 4 weeks of theophylline).
 The clinical importance of these changes should be weighed against the potential therapeutic benefit of theophylline in individual patients.
 
 ## Information for Patients:
 
-The patient (or parent/caregiver) should be instructed to seek medical advice whenever nausea, vomiting, persistent headache, insomnia or rapid heartbeat occurs during treatment with theophylline, even if another cause is supected.
+The patient (or parent/caregiver) should be instructed to seek medical advice whenever nausea, vomiting, persistent headache, insomnia, or rapid heartbeat occurs during treatment with theophylline, even if another cause is supected.
 The patient should be instructed to contact their healthcare professional if they develop a new illness, especially if accompanied by a persistent fever, if they experience worsening of a chronic illness, if they start or stop smoking cigarettes or marijuana, or if another healthcare professional adds a new medication or discontinues a previously prescribed medication.
 Patients should be informed that theophylline interacts with a wide variety of drugs (see Table II).
 The dietary supplement St.John's Wort (Hypericum perforatum) should not be taken at the same time as theophylline, since it may result in decreased theophylline levels.
@@ -151,13 +151,13 @@ Clinically significant drug interactions with theophylline.*Refer to PRECAUTIONS
 | Phenytoin | Phenytoin increases theophylline clearance by increasing microsomal enzyme activity. Theophylline decreases phenytoin absorption. | Serum theophylline and phenytoin concentrations decrease about 40%. |
 | Propafenone | Decreases theophylline clearance and pharmacologic interaction. | 40% increase. Beta-2 blocking effect may decrease efficacy of theophylline. |
 | Propranolol | Similar to cimetidine and pharmacologic interaction. | 100% increase. Beta-2 blocking effect may decrease efficacy of theophylline. |
-| Rifampin | Increases theophylline clearance by increasing cytochrome P450 1A2 and 3A3 activity. | 20-40% decrease. |
+| Rifampin | Increases theophylline clearance by increasing cytochrome P450 1A2 and 3A3 activity. | 20 to 40% decrease. |
 | St. John's Wort (Hypericum Perforatum) | Decrease in theophylline plasma concentrations. | Higher doses of theophylline may be required to achieve desired effect. Stopping St. John's Wort may result in theophylline toxicity. |
 | Sulfinpyrazone | Increases theophylline clearance by increasing demethylation and hydroxylation. Decreases renal clearance of theophylline. | 20% decrease |
 | Tacrine | Similar to cimetidine, also increases renal clearance of theophylline. | 90% increase |
 | Thiabendazole | Decreases theophylline clearance. | 190% increase |
 | Ticlopidine | Decreases theophylline clearance. | 60% increase |
-| Troleandomycin | Similar to erythromycin. | 33-100% increase depending on troleandomycin dose. |
+| Troleandomycin | Similar to erythromycin. | 33 to 100% increase depending on troleandomycin dose. |
 | Verapamil | Similar to disulfiram. | 20% increase |
 
 Table III.
@@ -202,13 +202,13 @@ Caffeine and xanthine metabolites in neonates or patients with renal dysfunction
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 
-Long term carcinogenicity studies have been carried out in mice (oral doses 30-150 mg/kg) and rats (oral doses 5-75 mg/kg).
+Long term carcinogenicity studies have been carried out in mice (oral doses 30 to 150 mg/kg) and rats (oral doses 5 to 75 mg/kg).
 Results are pending.
 
 Theophylline has been studied in Ames salmonella, in vivo and in vitro cytogenetics, micronucleus and Chinese hamster ovary test systems and has not been shown to be genotoxic.
 
-In a 14 week continuous breeding study, theophylline, administered to mating pairs of B6C3F1mice at oral doses of 120, 270 and 500 mg/kg (approximately 1.0-3.0 times the human dose on a mg/m2basis) impaired fertility, as evidenced by decreases in the number of live pups per litter, decreases in the mean number of litters per fertile pair, and increases in the gestation period at the high dose as well as decreases in the proportion of pups born alive at the mid and high dose.
-In 13 week toxicity studies, theophylline was administered to F344 rats and B6C3F1mice at oral doses of 40-300 mg/kg (approximately 2.0 times the human dose on a mg/m2basis).
+In a 14 week continuous breeding study, theophylline, administered to mating pairs of B6C3F1mice at oral doses of 120, 270 and 500 mg/kg (approximately 1 to 3 times the human dose on a mg/m2basis) impaired fertility, as evidenced by decreases in the number of live pups per litter, decreases in the mean number of litters per fertile pair, and increases in the gestation period at the high dose as well as decreases in the proportion of pups born alive at the mid and high dose.
+In 13 week toxicity studies, theophylline was administered to F344 rats and B6C3F1mice at oral doses of 40 to 300 mg/kg (approximately 2 times the human dose on a mg/m2basis).
 At the high dose, systemic toxicity was observed in both species including decreases in testicular weight.
 
 ## Pregnancy: Teratogenic Effects: Category C
@@ -231,7 +231,7 @@ Theophylline should be used during pregnancy only if the potential benefit justi
 
 Theophylline is excreted into breast milk and may cause irritability or other signs of mild toxicity in nursing human infants.
 The concentration of theophylline in breast milk is about equivalent to the maternal serum concentration.
-An infant ingesting a liter of breast milk containing 10-20 mcg/mL of theophylline per day is likely to receive 10-20 mg of theophylline per day.
+An infant ingesting a liter of breast milk containing 10 to 20 mcg/mL of theophylline per day is likely to receive 10 to 20 mg of theophylline per day.
 Serious adverse effects in the infant are unlikely unless the mother has toxic serum theophylline concentrations.
 
 ## Pediatric Use:

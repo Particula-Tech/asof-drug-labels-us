@@ -11,7 +11,7 @@ This action appears to be due to enhancement of calcium uptake through an adenos
 
 ## Serum Concentration-Effect Relationship
 
-Bronchodilation occurs over the serum theophylline concentration range of 5-20 mcg/mL.
+Bronchodilation occurs over the serum theophylline concentration range of 5 to 20 mcg/mL.
 Clinically important improvement in symptom control has been found in most studies to require peak serum theophylline concentrations >10 mcg/mL, but patients with mild disease may benefit from lower concentrations.
 At serum theophylline concentrations >20 mcg/mL, both the frequency and severity of adverse reactions increase.
 In general, maintaining peak serum theophylline concentrations between 10 and 15 mcg/mL will achieve most of the drug’s potential therapeutic benefit while minimizing the risk of serious adverse events.
@@ -21,12 +21,12 @@ In general, maintaining peak serum theophylline concentrations between 10 and 15
 ### Overview:
 
 Theophylline is rapidly and completely absorbed after oral administration in solution or immediate-release solid oral dosage form.
-Theophylline does not undergo any appreciable pre-systemic elimination, distributes freely into fat-free tissues and is extensively metabolized in the liver.
+Theophylline does not undergo any appreciable pre-systemic elimination, distributes freely into fat-free tissues, and is extensively metabolized in the liver.
 
 The pharmacokinetics of theophylline vary widely among similar patients and cannot be predicted by age, sex, body weight or other demographic characteristics.
 In addition, certain concurrent illnesses and alterations in normal physiology (see Table I) and co-administration of other drugs (see Table II) can significantly alter the pharmacokinetic characteristics of theophylline.
 Within-subject variability in metabolism has also been reported in some studies, especially in acutely ill patients.
-It is, therefore, recommended that serum theophylline concentrations be measured frequently in acutely ill patients (e.g., at 24-hr intervals) and periodically in patients receiving long-term therapy, e.g., at 6-12 month intervals.
+It is, therefore, recommended that serum theophylline concentrations be measured frequently in acutely ill patients (e.g., at 24-hr intervals) and periodically in patients receiving long-term therapy, e.g., at 6 to 12 month intervals.
 More frequent measurements should be made in the presence of any condition that may significantly alter theophylline clearance (see PRECAUTIONS,Laboratory Tests).
 
 TABLE I. Mean and range of total body clearance and half-life of theophylline related to age and altered physiological statesFor various North American patient populations from literature reports.
@@ -36,38 +36,38 @@ Different rates of elimination and consequent dosage requirements have been obse
 | --- | --- | --- |
 | Age |  |  |
 | Premature neonates |  |  |
-| postnatal age 3-15 days | 0.29 (0.09-0.49) | 30 (17-43) |
-| postnatal age 25-57 days | 0.64 (0.04-1.2) | 20 (9.4-30.6) |
+| postnatal age 3 to 15 days | 0.29 (0.09 to 0.49) | 30 (17 to 43) |
+| postnatal age 25 to 57 days | 0.64 (0.04 to 1.2) | 20 (9.4 to 30.6) |
 | Term infants |  |  |
-| postnatal age 1-2 days | NRNR = not reported or not reported in a comparable format. | 25.7 (25-26.5) |
-| postnatal age 3-30 weeks | NR | 11 (6-29) |
+| postnatal age 1 to 2 days | NRNR = not reported or not reported in a comparable format. | 25.7 (25 to 26.5) |
+| postnatal age 3-30 weeks | NR | 11 (6 to 29) |
 | Children |  |  |
-| 1-4 years | 1.7 (0.5-2.9) | 3.4 (1.2-5.6) |
-| 4-12 years | 1.6 (0.8-2.4) | NR |
-| 13-15 years | 0.9 (0.48-1.3) | NR |
-| 6-17 years | 1.4 (0.2-2.6) | 3.7 (1.5-5.9) |
-| Adults (16-60 years) |  |  |
-| otherwise healthy non-smoking asthmatics | 0.65 (0.27-1.03) | 8.7 (6.1-12.8) |
+| 1 to 4 years | 1.7 (0.5 to 2.9) | 3.4 (1.2 to 5.6) |
+| 4 to 12 years | 1.6 (0.8 to 2.4) | NR |
+| 13 to 15 years | 0.9 (0.48 to 1.3) | NR |
+| 6 to 17 years | 1.4 (0.2 to 2.6) | 3.7 (1.5 to 5.9) |
+| Adults (16 to 60 years) |  |  |
+| otherwise healthy non-smoking asthmatics | 0.65 (0.27 to 1.03) | 8.7 (6.1 to 12.8) |
 | Elderly (>60 years) |  |  |
-| non-smokers with normal cardiac, liver, and renal function | 0.41 (0.21-0.61) | 9.8 (1.6-18) |
+| non-smokers with normal cardiac, liver, and renal function | 0.41 (0.21 to 0.61) | 9.8 (1.6 to 18) |
 | Concurrent illness or altered physiological state |  |  |
-| Acute pulmonary edema | 0.33Median (0.07-2.45) | 19 (3.1-82) |
-| COPD->60 years, stable non-smoker > 1 year | 0.54 (0.44-0.64) | 11 (9.4-12.6) |
-| COPD with cor pulmonale | 0.48 (0.08-0.88) | NR |
-| Cystic fibrosis (14-28 years) | 1.25 (0.31-2.2) | 6.0 (1.8-10.2) |
-| Fever associated with acute viral respiratory illness (children 9-15 years) | NR | 7.0 (1.0-13) |
+| Acute pulmonary edema | 0.33Median (0.07 to 2.45) | 19 (3.1 to 82) |
+| COPD->60 years, stable non-smoker > 1 year | 0.54 (0.44 to 0.64) | 11 (9.4 to 12.6) |
+| COPD with cor pulmonale | 0.48 (0.08 to 0.88) | NR |
+| Cystic fibrosis (14 to 28 years) | 1.25 (0.31 to 2.2) | 6.0 (1.8 to 10.2) |
+| Fever associated with acute viral respiratory illness (children 9 to 15 years) | NR | 7.0 (1.0 to 13) |
 | Liver disease |  |  |
-| cirrhosis | 0.31 (0.1-0.7) | 32 (10-56) |
-| acute hepatitis | 0.35 (0.25-0.45) | 19.2 (16.6-21.8) |
-| cholestasis | 0.65 (0.25-1.45) | 14.4 (5.7-31.8) |
+| cirrhosis | 0.31 (0.1 to 0.7) | 32 (10 to 56) |
+| acute hepatitis | 0.35 (0.25 to 0.45) | 19.2 (16.6 to 21.8) |
+| cholestasis | 0.65 (0.25 to 1.45) | 14.4 (5.7 to 31.8) |
 | Pregnancy |  |  |
-| 1st trimester | NR | 8.5 (3.1-13.9) |
-| 2nd trimester | NR | 8.8 (3.8-13.8) |
-| 3rd trimester | NR | 13.0 (8.4-17.6) |
-| Sepsis with multi-organ failure | 0.47 (0.19-1.9) | 18.8 (6.3-24.1) |
+| 1st trimester | NR | 8.5 (3.1 to 13.9) |
+| 2nd trimester | NR | 8.8 (3.8 to 13.8) |
+| 3rd trimester | NR | 13.0 (8.4 to 17.6) |
+| Sepsis with multi-organ failure | 0.47 (0.19 to 1.9) | 18.8 (6.3 to 24.1) |
 | Thyroid disease |  |  |
-| hypothyroid | 0.38 (0.13-0.57) | 11.6 (8.2-25) |
-| hyperthyroid | 0.8 (0.68-0.97) | 4.5 (3.7-5.6) |
+| hypothyroid | 0.38 (0.13 to 0.57) | 11.6 (8.2 to 25) |
+| hyperthyroid | 0.8 (0.68 to 0.97) | 4.5 (3.7 to 5.6) |
 
 ### Note:
 
@@ -78,32 +78,32 @@ A high carbohydrate/low protein diet can decrease the clearance and prolong the 
 
 Theophylline administered in the fed state is completely absorbed after oral administration.
 
-In a single-dose crossover study, two 400 mg theophylline tablets were administered to19 normal volunteers in the morning or evening immediately following the same standardized meal (769 calories consisting of 97 grams carbohydrates, 33 grams protein and 27 grams fat).
+In a single-dose crossover study, two 400 mg theophylline extended-release tablets were administered to19 normal volunteers in the morning or evening immediately following the same standardized meal (769 calories consisting of 97 grams carbohydrates, 33 grams protein and 27 grams fat).
 There was no evidence of dose dumping nor were there any significant differences in pharmacokinetic parameters attributable to time of drug administration.
-On the morning arm, the pharmacokinetic parameters were AUC=241.9±83.0 mcg hr/mL, Cmax=9.3±2.0 mcg/mL, Tmax=12.8±4.2 hours.
-On the evening arm, the pharmacokinetic parameters were AUC=219.7±83.0 mcg hr/mL, Cmax=9.2±2.0 mcg/mL, Tmax=12.5±4.2 hours.
+On the morning arm, the pharmacokinetic parameters were AUC=241.9±83 mcg hr/mL, Cmax=9.3±2 mcg/mL, Tmax=12.8±4.2 hours.
+On the evening arm, the pharmacokinetic parameters were AUC=219.7±83 mcg hr/mL, Cmax=9.2±2 mcg/mL, Tmax=12.5±4.2 hours.
 
-A study in which theophylline 400 mg tablets were administered to 17 fed adult asthmatics produced similar theophylline level-time curves when administered in the morning or evening.
+A study in which theophylline extended-release 400 mg tablets were administered to 17 fed adult asthmatics produced similar theophylline level-time curves when administered in the morning or evening.
 Serum levels were generally higher in the evening regimen but there were no statistically significant differences between the two regimens.
 
 |  | MORNING | EVENING |
 | --- | --- | --- |
-| AUC (0-24 hrs) (mcg hr/mL) | 236.0 ± 76.7 | 256.0 ± 80.4 |
+| AUC (0-24 hrs) (mcg hr/mL) | 236 ± 76.7 | 256 ± 80.4 |
 | Cmax (mcg/mL) | 14.5 ± 4.1 | 16.3 ± 4.5 |
 | Cmin (mcg/mL) | 5.5 ± 2.9 | 5.0 ± 2.5 |
 | Tmax (hours) | 8.1 ± 3.7 | 10.1 ± 4.1 |
 
-A single-dose study in 15 normal fasting male volunteers whose theophylline inherent mean elimination half-life was verified by a liquid theophylline product to be 6.9 ± 2.5 (SD) hours were administered two or three 400 mg theophylline tablets.
+A single-dose study in 15 normal fasting male volunteers whose theophylline inherent mean elimination half-life was verified by a liquid theophylline product to be 6.9 ± 2.5 (SD) hours were administered two or three 400 mg theophylline extended-release tablets.
 The relative bioavailability of theophylline given in the fasting state in comparison to an immediate-release product was 59%.
 Peak serum theophylline levels occurred at 6.9 ± 5.2 (SD) hours, with a normalized (to 800 mg) peak level being 6.2 ± 2.1 (SD).
-The apparent elimination half-life for the 400 mg theophylline tablets was 17.2±5.8 (SD) hours.
+The apparent elimination half-life for the 400 mg theophylline extended-release tablets was 17.2±5.8 (SD) hours.
 
 Steady-state pharmacokinetics were determined in a study in 12 fasted patients with chronic reversible obstructive pulmonary disease.
-All were dosed with two 400 mg theophylline tablets given once daily in the morning and a reference controlled-release BID product administered as two 200 mg tablets given 12 hours apart.
-The pharmacokinetic parameters obtained for theophylline tablets given at doses of 800 mg once daily in the morning were virtually identical to the corresponding parameters for the reference drug when given as 400 mg BID.
+All were dosed with two 400 mg theophylline extended-release tablets given once daily in the morning and a reference controlled-release BID product administered as two 200 mg tablets given 12 hours apart.
+The pharmacokinetic parameters obtained for theophylline extended-release tablets given at doses of 800 mg once daily in the morning were virtually identical to the corresponding parameters for the reference drug when given as 400 mg BID.
 In particular, the AUC, Cmax and Cmin values obtained in this study were as follows:
 
-|  | Theophylline Tablets 800 mg Q24h SD | Reference Drug 400 mg Q12h SD |
+|  | Theophylline Extended-Release Tablets 800 mg Q24h SD | Reference Drug 400 mg Q12h SD |
 | --- | --- | --- |
 | AUC, (0-24 hours), mcg/mL | 288.9 ± 21.5 | 283.5 ± 38.4 |
 | Cmax, mcg/mL | 15.7 ± 2.8 | 15.2 ± 2.1 |
@@ -115,39 +115,39 @@ One single-dose study in 20 normal volunteers dosed with two (2) 400 mg tablets 
 Under fed conditions, the pharmacokinetic parameters were: AUC=231.7±92.4 mcg hr/mL, Cmax=8.4±2.6 mcg/mL, Tmax=17.3±6.7 hours.
 Under fasting conditions, these parameters were AUC=141.2±6.53 mcg hr/mL, Cmax=5.5±1.5 mcg/mL, Tmax=6.5±2.1 hours.
 
-Another single-dose study in 21 normal male volunteers, dosed in the evening, compared fasting to a standardized high calorie, high fat meal (870-1,020 calories, consisting of 33 grams protein, 55-75 grams fat, 58 grams carbohydrates).
-In the fasting arm subjects received one theophylline 400 mg tablet at 8 p.m. after an eight hour fast followed by a further four hour fast.
+Another single-dose study in 21 normal male volunteers, dosed in the evening, compared fasting to a standardized high calorie, high fat meal (870 to 1,020 calories, consisting of 33 grams protein, 55 to 75 grams fat, 58 grams carbohydrates).
+In the fasting arm subjects received one theophylline extended-release 400mg tablet at 8 p.m. after an eight hour fast followed by a further four hour fast.
 In the fed arm, subjects were again dosed with one 400 mg theophylline tablet, but at 8 p.m. immediately after the high fat content standardized meal cited above.
 The pharmacokinetic parameters (normalized to 800 mg) fed were AUC=221.8±40.9 mcg hr/mL, Cmax=10.9±1.7 mcg/mL, Tmax=11.8±2.2 hours.
 In the fasting arm, the pharmacokinetic parameters (normalized to 800 mg) were AUC=146.4±40.9 mcg hr/mL, Cmax=6.7±1.7 mcg/mL, Tmax=7.3±2.2 hours.
 
-Thus, administration of single theophylline doses to healthy normal volunteers, under prolonged fasted conditions (at least 10 hour overnight fast before dosing followed by an additional four (4) hour fast after dosing) results in decreased bioavailability.
-However, there was no failure of this delivery system leading to a sudden and unexpected release of a large quantity of theophylline with theophylline tablets even when they are administered with a high fat, high calorie meal.
+Thus, administration of single theophylline extended-release doses to healthy normal volunteers, under prolonged fasted conditions (at least 10 hour overnight fast before dosing followed by an additional four (4) hour fast after dosing) results in decreased bioavailability.
+However, there was no failure of this delivery system leading to a sudden and unexpected release of a large quantity of theophylline with theophylline extended-release tablets even when they are administered with a high fat, high calorie meal.
 
-Similar studies were conducted with the 600 mg theophylline tablet.
-A single-dose study in 24 subjects with an established theophylline clearance of ≤4 L/hr, compared the pharmacokinetic evaluation of one 600 mg theophylline tablet and one and one-half 400 mg theophylline tablets under fed (using a standard high fat diet) and fasted conditions.
-The results of this 4-way randomized crossover study demonstrate the bioequivalence of the 400 mg and 600 mg theophylline tablets.
-Under fed conditions, the pharmacokinetic results for the one and one-half 400 mg tablets were AUC=214.64 ± 55.88 mcg hr/mL, Cmax=10.58 ± 2.21 mcg/mL and Tmax=9.00 ± 2.64 hours, and for the 600 mg tablet were AUC=207.85 ± 48.9 mcg hr/mL, Cmax=10.39 ± 1.91 mcg/mL and Tmax=9.58 ± 1.86 hours.
+Similar studies were conducted with the 600 mg theophylline extended-release tablet.
+A single-dose study in 24 subjects with an established theophylline clearance of ≤4 L/hr, compared the pharmacokinetic evaluation of one 600 mg theophylline extended-release tablet and one and one-half 400 mg theophylline extended-release tablets under fed (using a standard high fat diet) and fasted conditions.
+The results of this 4-way randomized crossover study demonstrate the bioequivalence of the 400 mg and 600 mg theophylline extended-release tablets.
+Under fed conditions, the pharmacokinetic results for the one and one-half 400 mg tablets were AUC=214.64 ± 55.88 mcg hr/mL, Cmax=10.58 ± 2.21 mcg/mL and Tmax=9 ± 2.64 hours, and for the 600 mg tablet were AUC=207.85 ± 48.9 mcg hr/mL, Cmax=10.39 ± 1.91 mcg/mL and Tmax=9.58 ± 1.86 hours.
 Under fasted conditions the pharmacokinetic results for the one and one-half 400 mg tablets were AUC=191.85 ± 51.1 mcg hr/mL, Cmax= 7.37 ± 1.83 mcg/mL and Tmax=8.08 ± 4.39 hours; and for the 600 mg tablet were AUC=199.39 ± 70.27 mcg hr/mL, Cmax=7.66 ± 2.09 mcg/mL and Tmax=9.67 ± 4.89 hours.
 
 In this study the mean fed/fasted ratios for the one and one-half 400 mg tablets and the 600 mg tablet were about 112% and 104%, respectively.
 
-In another study, the bioavailability of the 600 mg theophylline tablet was examined with morning and evening administration.
+In another study, the bioavailability of the 600 mg theophylline extended-release tablet was examined with morning and evening administration.
 This single-dose, crossover study in 22 healthy males was conducted under fed (standard high fat diet) conditions.
-The results demonstrated no clinically significant difference in the bioavailability of the 600 mg theophylline tablet administered in the morning or in the evening.
+The results demonstrated no clinically significant difference in the bioavailability of the 600 mg theophylline extended-release tablet administered in the morning or in the evening.
 The results were: AUC=233.6 ± 45.1 mcg hr/mL, Cmax=10.6 ± 1.3 mcg/mL and Tmax=12.5 ± 3.2 hours with morning dosing; AUC=209.8 ± 46.2 mcg hr/mL, Cmax=9.7 ± 1.4 mcg/mL and Tmax=13.7 ± 3.3 hours with evening dosing.
 The PM/AM ratio was 89.3%.
 
-The absorption characteristics of theophylline (anhydrous) tablets have been extensively studied.
+The absorption characteristics of theophylline (anhydrous) extended-release tablets have been extensively studied.
 A steady-state crossover bioavailability study in 22 normal males compared two theophylline 400 mg tablets administered q24h at 8 a.m. immediately after breakfast with a reference controlled-release theophylline product administered BID in fed subjects at 8 a.m. immediately after breakfast and 8 p.m. immediately after dinner (769 calories, consisting of 97 grams carbohydrates, 33 grams protein and 27 grams fat).
 
-The pharmacokinetic parameters for theophylline 400 mg tablets under these steady-state conditions were AUC=203.3 ± 87.1 mcg hr/mL, Cmax=12.1 ± 3.8 mcg/mL, Cmin=4.50 ± 3.6, Tmax=8.8 ± 4.6 hours.
-For the reference BID product, the pharmacokinetic parameters were AUC=219.2 ± 88.4 mcg hr/mL, Cmax=11.0 ± 4.1 mcg/mL, Cmin=7.28 ± 3.5, Tmax=6.9 ± 3.4 hours.
+The pharmacokinetic parameters for theophylline 400 mg extended-release tablets under these steady-state conditions were AUC=203.3 ± 87.1 mcg hr/mL, Cmax=12.1 ± 3.8 mcg/mL, Cmin=4.50 ± 3.6, Tmax=8.8 ± 4.6 hours.
+For the reference BID product, the pharmacokinetic parameters were AUC=219.2 ± 88.4 mcg hr/mL, Cmax=11 ± 4.1 mcg/mL, Cmin=7.28 ± 3.5, Tmax=6.9 ± 3.4 hours.
 The mean percent fluctuation [(Cmax-Cmin/Cmin)x100]=169% for the once-daily regimen and 51% for the reference product BID regimen.
 
-The bioavailability of the 600 mg theophylline tablet was further evaluated in a multiple dose, steady-state study in 26 healthy males comparing the 600 mg tablet to one and one-half 400 mg theophylline tablets.
+The bioavailability of the 600 mg theophylline extended-release tablet was further evaluated in a multiple dose, steady-state study in 26 healthy males comparing the 600 mg tablet to one and one-half 400 mg theophylline extended-release tablets.
 All subjects had previously established theophylline clearances of ≤4 L/hr and were dosed once-daily for 6 days under fed conditions.
-The results showed no clinically significant difference between the 600 mg and one and one-half 400 mg theophylline tablet regimens.
+The results showed no clinically significant difference between the 600 mg and one and one-half 400 mg theophylline extended-release tablet regimens.
 Steady-state results were:
 
 |  | 600 mg Tablet FED | 600 mg (One + One-Half 400 mg Tablets) FED |
@@ -161,21 +161,21 @@ Steady-state results were:
 The bioavailability ratio for the 600/400 mg tablets was 98.8%.
 Thus, under all study conditions the 600 mg tablet is bioequivalent to one and one-half 400 mg tablets.
 
-Studies demonstrate that as long as subjects were either consistently fed or consistently fasted, there is similar bioavailability with once-daily administration of theophylline tablets whether dosed in the morning or evening.
+Studies demonstrate that as long as subjects were either consistently fed or consistently fasted, there is similar bioavailability with once-daily administration of theophylline extended-release tablets whether dosed in the morning or evening.
 
 ### Distribution:
 
 Once theophylline enters the systemic circulation, about 40% is bound to plasma protein, primarily albumin.
 Unbound theophylline distributes throughout body water, but distributes poorly into body fat.
-The apparent volume of distribution of theophylline is approximately 0.45 L/kg (range 0.3-0.7 L/kg) based on ideal body weight.
+The apparent volume of distribution of theophylline is approximately 0.45 L/kg (range 0.3 to 0.7 L/kg) based on ideal body weight.
 Theophylline passes freely across the placenta, into breast milk and into the cerebrospinal fluid (CSF).
 Saliva theophylline concentrations approximate unbound serum concentrations, but are not reliable for routine or therapeutic monitoring unless special techniques are used.
 An increase in the volume of distribution of theophylline, primarily due to reduction in plasma protein binding, occurs in premature neonates, patients with hepatic cirrhosis, uncorrected acidemia, the elderly and in women during the third trimester of pregnancy.
-In such cases, the patient may show signs of toxicity at total (bound+unbound) serum concentrations of theophylline in the therapeutic range (10-20 mcg/mL) due to elevated concentrations of the pharmacologically active unbound drug.
+In such cases, the patient may show signs of toxicity at total (bound+unbound) serum concentrations of theophylline in the therapeutic range (10 to 20 mcg/mL) due to elevated concentrations of the pharmacologically active unbound drug.
 Similarly, a patient with decreased theophylline binding may have a sub-therapeutic total drug concentration while the pharmacologically active unbound concentration is in the therapeutic range.
 If only total serum theophylline concentration is measured, this may lead to an unnecessary and potentially dangerous dose increase.
 In patients with reduced protein binding, measurement of unbound serum theophylline concentration provides a more reliable means of dosage adjustment than measurement of total serum theophylline concentration.
-Generally, concentrations of unbound theophylline should be maintained in the range of 6-12 mcg/mL.
+Generally, concentrations of unbound theophylline should be maintained in the range of 6 to 12 mcg/mL.
 
 ### Metabolism:
 
@@ -204,13 +204,13 @@ Accurate prediction of dosedependency of theophylline metabolism in patients a p
 
 In neonates, approximately 50% of the theophylline dose is excreted unchanged in the urine.
 Beyond the first three months of life, approximately 10% of the theophylline dose is excreted unchanged in the urine.
-The remainder is excreted in the urine mainly as 1,3-dimethyluric acid (35-40%), 1-methyluric acid (20-25%) and 3-methylxanthine (15-20%).
+The remainder is excreted in the urine mainly as 1,3-dimethyluric acid (35 to 40%), 1-methyluric acid (20 to 25%) and 3-methylxanthine (15 to 20%).
 Since little theophylline is excreted unchanged in the urine and since active metabolites of theophylline (i.e., caffeine, 3-methylxanthine) do not accumulate to clinically significant levels even in the face of end-stage renal disease, no dosage adjustment for renal insufficiency is necessary in adults and children >3 months of age.
 In contrast, the large fraction of the theophylline dose excreted in the urine as unchanged theophylline and caffeine in neonates requires careful attention to dose reduction and frequent monitoring of serum theophylline concentrations in neonates with reduced renal function (See WARNINGS).
 
 ### Serum Concentrations at Steady-State:
 
-After multiple doses of theophylline, steady-state is reached in 30-65 hours (average 40 hours) in adults.
+After multiple doses of theophylline, steady-state is reached in 30 to 65 hours (average 40 hours) in adults.
 At steady-state, on a dosage regimen with 24-hour intervals, the expected mean trough concentration is approximately 50% of the mean peak concentration, assuming a mean theophylline half-life of 8 hours.
 The difference between peak and trough concentrations is larger in patients with more rapid theophylline clearance.
 In these patients administration of theophylline may be required more frequently (every 12 hours).
