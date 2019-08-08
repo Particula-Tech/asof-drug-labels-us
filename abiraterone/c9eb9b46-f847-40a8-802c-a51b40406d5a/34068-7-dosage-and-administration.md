@@ -1,13 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose for metastatic CRPC
+## 2.1 Recommended Dose for Metastatic CRPC
 
 The recommended dose of abiraterone acetate tablets are 1,000 mg (four 250 mg tablets) orally once daily with prednisone 5 mg orally twice daily.
 
 ## 2.3 Important Administration Instructions
 
 Patients receiving abiraterone acetate tablets should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy.
-Abiraterone acetate tablets must be taken on an empty stomach, either one hour before or two hours after a meal [see Clinical Pharmacology (12.3)].
+Abiraterone acetate tablets must be taken on an empty stomach, at least one hour before or at least two hours after a meal [see Clinical Pharmacology (12.3)].
 The tablets should be swallowed whole with water.
 Do not crush or chew tablets.
 

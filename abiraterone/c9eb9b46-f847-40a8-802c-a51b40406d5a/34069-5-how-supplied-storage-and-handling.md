@@ -5,7 +5,7 @@ Abiraterone acetate tablets are available in the strengths and packages listed b
 Abiraterone acetate tablets, USP, 250 mg, are available as white to off-white, oval-shaped, uncoated tablets and debossed with “AN65” on one side and plain on the other side.
 They are supplied as follows:
 
-Bottles of 120 NDC 69238-1165-7
+Bottles of 120: NDC 69238-1165-7
 
 Storage and Handling
 

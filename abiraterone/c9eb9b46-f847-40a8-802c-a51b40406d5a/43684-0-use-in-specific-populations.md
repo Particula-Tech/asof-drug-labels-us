@@ -4,8 +4,8 @@
 
 Risk Summary
 
-Based on findings from animal studies and the mechanism of action, abiraterone acetate is contraindicated for use in pregnant women because the drug can cause fetal harm and potential loss of pregnancy.
-Abiraterone acetate is not indicated for use in females.
+The safety and efficacy of abiraterone acetate have not been established in females.
+Based on findings from animal studies and the mechanism of action, abiraterone acetate can cause fetal harm and potential loss of pregnancy.
 
 There are no human data on the use of abiraterone acetate in pregnant women.
 In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis caused adverse developmental effects at maternal exposures approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose (see Data).
@@ -23,7 +23,7 @@ The doses tested in rats resulted in systemic exposures (AUC) approximately 0.03
 
 Risk Summary
 
-Abiraterone acetate is not indicated for use in women.
+The safety and efficacy of abiraterone acetate have not been established in females.
 There is no information available on the presence of abiraterone acetate in human milk, or on the effects on the breastfed child or milk production.
 
 ## 8.3 Females and Males of Reproductive Potential

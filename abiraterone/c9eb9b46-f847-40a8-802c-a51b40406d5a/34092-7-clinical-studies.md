@@ -5,9 +5,9 @@ All patients in these studies received a GnRH analog or had prior bilateral orch
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 Concurrent use of spironolactone was not allowed during the study period.
 
-COU-AA-301 (NCT00638690): Patients with metastatic CRPC who had received prior docetaxel chemotherapy
+COU-AA-301: Patients with metastatic CRPC who had received prior docetaxel chemotherapy
 
-A total of 1195 patients were randomized 2:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N=797) or placebo once daily plus prednisone 5 mg orally twice daily (N=398).
+In COU-AA-301 (NCT00638690), a total of 1195 patients were randomized 2:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N=797) or placebo once daily plus prednisone 5 mg orally twice daily (N=398).
 Patients randomized to either arm were to continue treatment until disease progression (defined as a 25% increase in PSA over the patient’s baseline/nadir together with protocol-defined radiographic progression and symptomatic or clinical progression), initiation of new treatment, unacceptable toxicity or withdrawal.
 
 The following patient demographics and baseline disease characteristics were balanced between the treatment arms.
@@ -21,28 +21,26 @@ The protocol pre-specified interim analysis was conducted after 552 deaths and s
 An updated survival analysis was conducted when 775 deaths (97% of the planned number of deaths for final analysis) were observed.
 Results from this analysis were consistent with those from the interim analysis (Table 7).
 
-| Table 7: Overall Survival of Patients Treated with Either Abiraterone Acetate or Placebo in Combination with Prednisone in COU-AA-301 (Intent-to-Treat Analysis) |  |  |
-| --- | --- | --- |
+Table 7: Overall Survival of Patients Treated with Either Abiraterone Acetate or Placebo in Combination with Prednisone in COU-AA-301 (Intent-to-Treat Analysis)
+
 |  | Abiraterone Acetate with Prednisone (N=797) | Placebo with Prednisone (N=398) |
+| --- | --- | --- |
 | Primary Survival Analysis |  |  |
 | Deaths (%) | 333 (42%) | 219 (55%) |
-| Median survival (months) | 14.8 (14.1, 15.4) | 10.9 (10.2, 12.0) |
-| (95% CI) |  |  |
+| Median survival (months)(95% CI) | 14.8 (14.1, 15.4) | 10.9 (10.2, 12.0) |
 | p-value1 | <0.0001 |  |
 | Hazard ratio (95% CI)2 | 0.646 (0.543, 0.768) |  |
 | Updated Survival Analysis |  |  |
 | Deaths (%) | 501 (63%) | 274 (69%) |
-| Median survival (months) | 15.8 (14.8, 17.0) | 11.2 (10.4, 13.1) |
-| (95% CI) |  |  |
+| Median survival (months)(95% CI) | 15.8 (14.8, 17.0) | 11.2 (10.4, 13.1) |
 | Hazard ratio (95% CI)2 | 0.740 (0.638, 0.859) |  |
-| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 to 1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). |  |  |
-| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |
+| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 to 1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |
 
 Figure 1: Kaplan-Meier Overall Survival Curves in COU-AA-301 (Intent-to-Treat Analysis)
 
-COU-AA-302 (NCT00887198): Patients with metastatic CRPC who had not received prior cytotoxic chemotherapy
+COU-AA-302: Patients with metastatic CRPC who had not received prior cytotoxic chemotherapy
 
-In COU-AA-302, 1,088 patients were randomized 1:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily (N=546) or Placebo orally once daily (N=542).
+In COU-AA-302 (NCT00887198), 1,088 patients were randomized 1:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily (N=546) or Placebo orally once daily (N=542).
 Both arms were given concomitant prednisone 5 mg twice daily.
 Patients continued treatment until radiographic or clinical (cytotoxic chemotherapy, radiation or surgical treatment for cancer, pain requiring chronic opioids, or ECOG performance status decline to 3 or more) disease progression, unacceptable toxicity or withdrawal.
 Patients with moderate or severe pain, opiate use for cancer pain, or visceral organ metastases were excluded.
@@ -61,31 +59,33 @@ The planned final analysis for OS, conducted after 741 deaths (median follow up 
 Sixty-five percent of patients on the abiraterone acetate arm and 78% of patients on the placebo arm used subsequent therapies that may prolong OS in metastatic CRPC.
 Abiraterone acetate was used as a subsequent therapy in 13% of patients on the abiraterone acetate arm and 44% of patients on the placebo arm.
 
-| Table 8: Overall Survival of Patients Treated with Either Abiraterone Acetate or Placebo in Combination with Prednisone in COU-AA-302 (Intent-to-Treat Analysis) |  |  |
+Table 8: Overall Survival of Patients Treated with Either Abiraterone Acetate or Placebo in Combination with Prednisone in COU-AA-302 (Intent-to-Treat Analysis)
+
+|  | Abiraterone Acetate with Prednisone (N=546) | Placebo with Prednisone (N=542) |
 | --- | --- | --- |
-| Overall Survival | Abiraterone Acetate with Prednisone (N=546) | Placebo with Prednisone (N=542) |
+| Overall Survival |  |  |
 | Deaths | 354 (65%) | 387 (71%) |
 | Median survival (months) (95% CI) | 34.7 (32.7, 36.8) | 30.3 (28.7, 33.3) |
 | p-value1 | 0.0033 |  |
 | Hazard ratio2 (95% CI) | 0.81 (0.70, 0.93) |  |
-| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). |  |  |
-| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |
+| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |
 
 Figure 2: Kaplan Meier Overall Survival Curves in COU-AA-302
 
 At the pre-specified rPFS analysis, 150 (28%) patients treated with abiraterone acetate with prednisone and 251 (46%) patients treated with placebo with prednisone had radiographic progression.
 A significant difference in rPFS between treatment groups was observed (Table 9 and Figure 3).
 
-| Table 9: Radiographic Progression-free Survival of Patients Treated with Either Abiraterone Acetate or Placebo in Combination with Prednisone in COU-AA-302 (Intent-to-Treat Analysis) |  |  |
+Table 9: Radiographic Progression-free Survival of Patients Treated with Either Abiraterone Acetate or Placebo in Combination with Prednisone in COU-AA-302 (Intent-to-Treat Analysis)
+
+|  | Abiraterone Acetate with Prednisone (N=546) | Placebo with Prednisone (N=542) |
 | --- | --- | --- |
-| Radiographic Progression-free Survival | Abiraterone Acetate with Prednisone (N=546) | Placebo with Prednisone (N=542) |
+| Radiographic Progression-free Survival |  |  |
 | Progression or death | 150 (28%) | 251 (46%) |
 | Median rPFS (months) (95% CI) | NR (11.66, NR) | 8.28 (8.12, 8.54) |
 | p-value1 | <0.0001 |  |
 | Hazard ratio2 (95% CI) | 0.425 (0.347, 0.522) |  |
 | NR=Not reached. |  |  |
-| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). |  |  |
-| 2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |
+| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1).2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors abiraterone acetate with prednisone. |  |  |
 
 Figure 3: Kaplan Meier Curves of Radiographic Progression-free Survival in COU-AA-302 (Intent-to-Treat Analysis)
 

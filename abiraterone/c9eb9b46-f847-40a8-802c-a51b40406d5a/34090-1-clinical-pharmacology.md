@@ -17,6 +17,14 @@ It is not necessary to monitor the effect of abiraterone acetate on serum testos
 
 Changes in serum prostate specific antigen (PSA) levels may be observed but have not been shown to correlate with clinical benefit in individual patients.
 
+## 12.2 Pharmacodynamics
+
+Cardiac Electrophysiology
+
+In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received abiraterone acetate orally at a dose of 1,000 mg once daily at least 1 hour before or 2 hours after a meal in combination with prednisone 5 mg orally twice daily.
+Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e. >20 ms) from baseline.
+However, small increases in the QTc interval (i.e. <10 ms) due to abiraterone acetate cannot be excluded due to study design limitations.
+
 ## 12.3 Pharmacokinetics
 
 Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic CRPC.
@@ -32,14 +40,14 @@ At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state val
 No major deviation from dose proportionality was observed in the dose range of 250 mg to 1,000 mg.
 However, the exposure was not significantly increased when the dose was doubled from 1,000 to 2,000 mg (8% increase in the mean AUC).
 
-Systemic exposure of abiraterone is increased when abiraterone acetate is administered with food.
+Systemic exposure of abiraterone is increased when abiraterone acetate tablet is administered with food.
 In healthy subjects abiraterone Cmax and AUC0-∞ were approximately 7- and 5-fold higher, respectively, when a single dose of abiraterone acetate was administered with a low-fat meal (7% fat, 300 calories) and approximately 17- and 10-fold higher, respectively, when a single dose of abiraterone acetate was administered with a high-fat (57% fat, 825 calories) meal compared to overnight fasting.
 Abiraterone AUC0-∞ was approximately 7-fold or 1.6-fold higher, respectively, when a single dose of abiraterone acetate was administered 2 hours after or 1 hour before a medium fat meal (25% fat, 491 calories) compared to overnight fasting.
 
 Systemic exposures of abiraterone in patients with metastatic CRPC, after repeated dosing of abiraterone acetate were similar when abiraterone acetate was taken with low-fat meals for 7 days and increased approximately 2-fold when taken with high-fat meals for 7 days compared to when taken at least 2 hours after a meal and at least 1 hour before a meal for 7 days.
 
 Given the normal variation in the content and composition of meals, taking abiraterone acetate with meals has the potential to result in increased and highly variable exposures.
-Therefore, abiraterone acetate must be taken on an empty stomach, either one hour before or two hours after a meal.
+Therefore, abiraterone acetate tablets must be taken on an empty stomach, at least one hour before or at least two hours after a meal.
 The tablets should be swallowed whole with water [see Dosage and Administration (2.3)].
 
 Distribution and Protein Binding
@@ -94,9 +102,3 @@ In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglita
 
 In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.
 There are no clinical data available to confirm transporter based interaction.
-
-## 12.6 QT Prolongation
-
-In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received abiraterone acetate orally at a dose of 1,000 mg once daily at least 1 hour before or 2 hours after a meal in combination with prednisone 5 mg orally twice daily.
-Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e., >20 ms) from baseline.
-However, small increases in the QTc interval (i.e., <10 ms) due to abiraterone acetate cannot be excluded due to study design limitations.
