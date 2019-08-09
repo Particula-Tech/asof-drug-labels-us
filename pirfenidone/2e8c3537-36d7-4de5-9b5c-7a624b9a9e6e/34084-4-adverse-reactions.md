@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Liver Enzyme Elevations [see Warnings and Precautions (5.1)]
+- Liver Enzyme Elevations and Drug-Induced Liver Injury [see Warnings and Precautions (5.1)]
 - Photosensitivity Reaction or Rash [see Warnings and Precautions (5.2)]
 - Gastrointestinal Disorders [see Warnings and Precautions (5.3)]
 
@@ -57,4 +57,4 @@ Blood and Lymphatic System Disorders Agranulocytosis
 
 Immune System Disorders Angioedema
 
-Hepatobiliary Disorders Bilirubin increased in combination with increases of ALT and AST
+Hepatobiliary Disorders Drug-induced liver injury [see Warnings and Precautions (5.1)]
