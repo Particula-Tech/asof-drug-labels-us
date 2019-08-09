@@ -38,10 +38,7 @@ The components of the composite endpoint are shown in Table 9.
 | Death | 32 (21.8) |  | 27 (16.9) | 13 (28.3) | 26 (18.1) | 45 (23.3) | 53 (17.4) |
 | Amputation | 3 (2.0) |  | 3 (1.9) | 4 (8.7) | 16 (11.1) | 7 (3.6) | 19 (6.2) |
 | New Thrombosis | 22 (15.0) |  | 11 (6.9) | 9 (19.6) | 21 (14.6) | 31 (16.1) | 32 (10.5) |
-
-a) Death (all cause), amputation (all cause), or new thrombosis within 37-day study period
-
-b) Reported as the most severe outcome among the components of composite endpoint (severity ranking: death > amputation > new thrombosis); patients may have had multiple outcomes.
+| a) Death (all cause), amputation (all cause), or new thrombosis within 37-day study period b) Reported as the most severe outcome among the components of composite endpoint (severity ranking: death > amputation > new thrombosis); patients may have had multiple outcomes. |  |  |  |  |  |  |  |
 
 Time-to-event analyses showed significant improvements in the time-to-first event in patients with HIT or HITTS treated with argatroban versus those in the historical control group.
 The between-group differences in the proportion of patients who remained free of death, amputation, or new thrombosis were statistically significant in favor of argatroban by these analyses.
