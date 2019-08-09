@@ -17,7 +17,7 @@ Advise patients to also inform their physician that they are receiving paricalci
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 
-Distributed by: Amneal Biosciences LLC Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2018-01
+05-2019-02
