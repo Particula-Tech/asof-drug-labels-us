@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211215"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "MAIA Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70511-141-50",
+    "70511-141-84"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bivalirudin",
+      "name": "bivalirudin"
+    }
+  ],
+  "setid": "72c5413f-882a-4784-9be6-312c0a0a2a97",
+  "source": "dailymed"
+}
