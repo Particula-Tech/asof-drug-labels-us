@@ -20,12 +20,12 @@ Activella® is a registered trademark owned by Novo Nordisk Health Care AG.
 
 Distributed by:
 
-Gemini Laboratories, LLC
+Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 
-Bridgewater, NJ 08807, USA www.gemini-labs.com
+Bridgewater, NJ 08807
 
 Rev.
-05-2018-00
+08-2019-02
 
 # PATIENT INFORMATION
 
@@ -151,7 +151,7 @@ Less serious, but common side effects include:
 These are not all the possible side effects of Activella.
 For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you or does not go away.
-You may report side effects to Gemini Laboratories, LLC at 1-855-346-8326 or to FDA at 1-800-FDA-1088.
+You may report side effects to Amneal Pharmaceuticals at 1-877-835-5472 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of a serious side effect with Activella?
 
@@ -183,17 +183,13 @@ This leaflet summarizes the most important information about Activella.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask your pharmacist or healthcare provider for information about Activella that is written for health professionals.
 
-For more information go to www.activella.com or call 1-855-346-8326.
+For more information go to www.activella.com or call 1-877-835-5472.
 
 What are the ingredients in Activella?
 
 Active ingredients: estradiol and norethindrone acetate
 
-Inactive Ingredients: lactose monohydrate, starch (corn), talc, magnesium stearate, hypromellose, and triacetin.
-
-The 1 mg/0.5 mg tablet also contains copovidone.
-
-The 0.5 mg/0.1 mg tablet also contains hydroxypropyl cellulose.
+Inactive Ingredients: lactose monohydrate, starch (corn), copovidone, talc, magnesium stearate, hypromellose, and triacetin.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -201,11 +197,9 @@ Activella® is a registered trademark owned by Novo Nordisk Health Care AG.
 
 Distributed by:
 
-Gemini Laboratories, LLC
+Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 
-Bridgewater, NJ 08807, USA
-
-www.gemini-labs.com
+Bridgewater, NJ 08807
 
 Rev.
-05-2018-00
+08-2019-02
