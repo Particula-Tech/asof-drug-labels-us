@@ -18,7 +18,7 @@ Revised: 06/2018
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2018 Allergan.
+© 2019 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
 
