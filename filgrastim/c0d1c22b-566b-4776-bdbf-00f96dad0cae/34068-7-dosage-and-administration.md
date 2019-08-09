@@ -26,9 +26,9 @@ Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cance
 
 | Absolute Neutrophil Count | ZARXIO Dosage Adjustment |
 | --- | --- |
-| When ANC greater than 1000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/dayIf ANC decreases to less than 1000/mm3 at any time during the 5 mcg/kg/day administration‚ increase ZARXIO to 10 mcg/kg/day‚ and then follow the above steps. |
-| Then, if ANC remains greater than 1000/mm3 for 3 more consecutive days | Discontinue ZARXIO |
-| Then, if ANC decreases to less than 1000/mm3 | Resume at 5 mcg/kg/day |
+| When ANC greater than 1,000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/dayIf ANC decreases to less than 1,000/mm3 at any time during the 5 mcg/kg/day administration‚ increase ZARXIO to 10 mcg/kg/day‚ and then follow the above steps. |
+| Then, if ANC remains greater than 1,000/mm3 for 3 more consecutive days | Discontinue ZARXIO |
+| Then, if ANC decreases to less than 1,000/mm3 | Resume at 5 mcg/kg/day |
 
 ## 2.3 Dosage in Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
@@ -71,20 +71,18 @@ Thus, the direct administration to patients requiring doses of less than 0.3 mL 
 ZARXIO is supplied in single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
 Prior to use‚ remove the prefilled syringe from the refrigerator and allow ZARXIO to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
 Discard any prefilled syringe left at room temperature for greater than 24 hours.
-Visually inspect ZARXIO for particulate matter and discoloration prior to administration (the solution is clear and colorless to slightly yellowish).
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration (the solution is clear and colorless to slightly yellowish).
 Do not administer ZARXIO if particulates or discoloration are observed.
 
 Discard unused portion of ZARXIO in prefilled syringes.
 Do not save unused drug for later administration.
-
-If you miss a dose of ZARXIO, talk to your doctor about when you should give your next dose.
 
 Subcutaneous Injection
 
 Inject ZARXIO subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
 If patients or caregivers are to administer ZARXIO, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Instructions for Use for the prefilled syringe [see Patient Counseling Information (17)].
 
-Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of ZARXIO, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use for the prefilled syringe.
+Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of ZARXIO, and the focus should be on ensuring that a patient or caregiver can successfully perform all the steps in the Instructions for Use for the prefilled syringe.
 If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO.
 
 If the patient or caregiver misses a dose of ZARXIO, instruct them to contact their healthcare provider.
@@ -102,4 +100,4 @@ When diluted in 5% Dextrose Injection, USP, or 5% Dextrose plus Albumin (Human)�
 Do not dilute with saline at any time, because the product may precipitate.
 
 Diluted ZARXIO solution can be stored at room temperature for up to 24 hours.
-This 24 hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.
+This 24-hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.

@@ -25,9 +25,9 @@ Such changes were transient and were not associated with clinical sequelae, nor 
 
 ## 12.3 Pharmacokinetics
 
-Filgrastim exhibits nonlinear pharmacokinetics.
-Clearance is dependent on filgrastim concentration and neutrophil count: G-CSF receptor-mediated clearance is saturated by high concentration of filgrastim and is diminished by neutropenia.
-In addition, filgrastim is cleared by the kidney.
+Filgrastim products exhibit nonlinear pharmacokinetics.
+Clearance is dependent on filgrastim product concentration and neutrophil count: G-CSF receptor-mediated clearance is saturated by high concentration of filgrastim products and is diminished by neutropenia.
+In addition, filgrastim products are cleared by the kidney.
 
 Subcutaneous administration of 3.45 mcg/kg and 11.5 mcg/kg of filgrastim resulted in maximum serum concentrations of 4 and 49 ng/mL‚ respectively‚ within 2 to 8 hours.
 After intravenous administration, the volume of distribution averaged 150 mL/kg and the elimination half-life was approximately 3.5 hours in both normal subjects and subjects with cancer.

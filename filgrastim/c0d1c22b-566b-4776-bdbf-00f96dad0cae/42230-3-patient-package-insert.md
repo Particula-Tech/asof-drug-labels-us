@@ -6,131 +6,18 @@ ZARXIO® (zar-zee-oh)
 
 injection
 
-What is ZARXIO?
-
-ZARXIO is a man-made form of granulocyte colony-stimulating factor (G‑CSF).
-G-CSF is a substance produced by the body.
-It stimulates the growth of neutrophils, a type of white blood cell important in the body’s fight against infection.
-
-Do not take ZARXIO if you have had a serious allergic reaction to human G-CSFs such as filgrastim or pegfilgrastim products.
-
-Before you take ZARXIO, tell your healthcare provider about all of your medical conditions, including if you:
-
-- •have a sickle cell disorder.
-- •have kidney problems.
-- •are receiving radiation therapy.
-- •are allergic to latex.
-  The needle cap on the prefilled syringe contains natural rubber (derived from latex).
-  Do not handle the prefilled syringe if you are allergic to latex.
-- •are pregnant or plan to become pregnant.
-  It is not known if ZARXIO will harm your unborn baby.
-- •are breastfeeding or plan to breastfeed.
-  It is not known if ZARXIO passes into your breast milk.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
-How will I receive ZARXIO?
-
-- •ZARXIO injections can be given by a healthcare provider or nurse by intravenous (IV) infusion or under your skin (subcutaneous injection).
-  Your healthcare provider may decide subcutaneous injections can be given at home by you or your caregiver.
-  If ZARXIO is given at home, see the detailed “Instructions for Use” that comes with your ZARXIO for information on how to prepare and inject a dose of ZARXIO.
-- •You and your caregiver will be shown how to prepare and inject ZARXIO before you use it.
-- •Your healthcare provider will tell you how much ZARXIO to inject and when to inject it.
-  Do not change your dose unless your doctor tells you to.
-- •You should not inject a dose of ZARXIO less than 0.3 mL (180 mcg) from a ZARXIO prefilled syringe.
-  A dose less than 0.3 mL cannot be accurately measured using the ZARXIO prefilled syringe.
-- •If you are receiving ZARXIO because you are also receiving chemotherapy, your dose of ZARXIO should be injected at least 24 hours before or 24 hours after your dose of chemotherapy.
-- •If you miss a dose of ZARXIO, talk to your healthcare provider about when you should give your next dose.
-- •Your healthcare provider will do blood tests before and during treatment with ZARXIO to check your blood cell counts and to check you for side effects.
-
-What are the possible side effects of ZARXIO?
-ZARXIO may cause serious side effects, including:
-
-- •Spleen rupture.
-  Your spleen may become enlarged and can rupture.
-  A ruptured spleen can cause death.
-  Call your healthcare provider right away if you have pain in the left upper stomach (abdomen) area or your left shoulder.
-- •A serious lung problem called acute respiratory distress syndrome (ARDS).
-  Call your healthcare provider or get emergency medical help right away if you have shortness of breath with or without a fever, trouble breathing, or a fast rate of breathing.
-- •Serious allergic reactions.
-  ZARXIO can cause serious allergic reactions.
-  These reactions can cause a rash over your whole body, shortness of breath, wheezing, dizziness, swelling around your mouth or eyes, fast heart rate, and sweating.
-  If you have any of these symptoms, stop using ZARXIO and call your healthcare provider or get emergency medical help right away.
-- •Sickle cell crises.
-  You may have a serious sickle cell crisis if you have a sickle cell disorder and take ZARXIO.
-  Serious sickle cell crisis has happened in people with sickle cell disorders receiving filgrastim that has sometimes led to death.
-  Call your healthcare provider right away if you have symptoms of sickle cell crisis such as pain or difficulty breathing.
-- •Kidney injury (glomerulonephritis).
-  Kidney injury has been seen in patients who received ZARXIO.
-  Call your healthcare provider right away if you develop any of the following symptoms:
-  - oswelling in your face or ankles,
-  - oblood in your urine or dark colored urine
-  - oyou urinate less than usual.
-- •Capillary leak syndrome.
-  ZARXIO can cause fluid to leak from blood vessels into your body’s tissues.
-  This condition is called “Capillary Leak Syndrome” (CLS).
-  CLS can quickly cause you to have symptoms that may become life-threatening.
-  Get emergency medical help right away if you develop any of the following symptoms:
-  - oswelling or puffiness and are urinating less than usual
-  - otrouble breathing
-  - oswelling of your stomach-area (abdomen) and feeling of fullness
-  - odizziness or feeling faint
-  - oa general feeling of tiredness
-- •Decreased platelet count (thrombocytopenia).
-  Your healthcare provider will check your blood during treatment with ZARXIO.
-  Tell your healthcare provider if you have unusual bleeding or bruising during treatment with ZARXIO.
-  This could be a sign of decreased platelet counts, which may reduce the ability of your blood to clot.
-- •Increased white blood cell count (leukocytosis).
-  Your healthcare provider will check your blood during treatment with ZARXIO.
-- •Inflammation of your blood vessels (cutaneous vasculitis).
-  Tell your healthcare provider if you develop purple spots or redness of your skin.
-
-The most common side effects of ZARXIO include aching in the bones and muscles.
-
-These are not all the possible side effects of ZARXIO.
-
-Call your healthcare provider for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store ZARXIO?
-
-- •Store ZARXIO in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- •Protect from freezing ZARXIO.
-  If frozen, thaw in the refrigerator before use.
-  Throw away (dispose of) ZARXIO if it has been frozen more than 1 time.
-- •Store ZARXIO in the original pack to protect it from light.
-- •Avoid shaking ZARXIO.
-- •Take ZARXIO out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
-- •ZARXIO may be allowed to reach room temperature for up to 24 hours.
-  Throw away (dispose of) any ZARXIO that has been left at room temperature for longer than 24 hours.
-- •After you inject your dose, throw away (dispose of) any unused ZARXIO left in the prefilled syringe.
-  Do not save unused ZARXIO in the prefilled syringe for later use.
-
-Keep ZARXIO and all medicines out of the reach of children.
-
-General information about the safe and effective use of ZARXIO:
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use ZARXIO for a condition for which it was not prescribed.
-Do not give ZARXIO to other people, even if they have the same symptoms that you have.
-It may harm them.
-You can ask your pharmacist or healthcare provider for information about ZARXIO that is written for healthcare professionals.
-
-What are the ingredients in ZARXIO?
-
-Active ingredient: filgrastim-sndz
-
-Inactive ingredients: glutamic acid, polysorbate 80, sorbitol, sodium hydroxide, water for injection
-
-Manufactured by: Sandoz Inc., Princeton, NJ 08540, US License No. 2003
-
-At: Sandoz GmbH, Langkampfen, Austria, Product of Austria
-
-For more information visit www.zarxio.com or call 1-800-525-8747.
+| What is ZARXIO?ZARXIO is a man-made form of granulocyte colony-stimulating factor (G‑CSF). G-CSF is a substance produced by the body. It stimulates the growth of neutrophils, a type of white blood cell important in the body’s fight against infection. |
+| --- |
+| Do not take ZARXIO if you have had a serious allergic reaction to human G-CSFs such as filgrastim products or pegfilgrastim products. |
+| Before you take ZARXIO, tell your healthcare provider about all of your medical conditions, including if you: •have a sickle cell disorder.•have kidney problems.•are receiving radiation therapy.•are allergic to latex. The needle cap on the prefilled syringe contains dry natural rubber (derived from latex). You should not give ZARXIO using the prefilled syringe if you have latex allergies.•are pregnant or plan to become pregnant. It is not known if ZARXIO will harm your unborn baby.•are breastfeeding or plan to breastfeed. It is not known if ZARXIO passes into your breast milk. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. |
+| How will I receive ZARXIO? •ZARXIO injections can be given by a healthcare provider by intravenous (IV) infusion or under your skin (subcutaneous injection). Your healthcare provider may decide subcutaneous injections can be given at home by you or your caregiver. If ZARXIO is given at home, see the detailed “Instructions for Use” that comes with your ZARXIO for information on how to prepare and inject a dose of ZARXIO.•You and your caregiver should be shown how to prepare and inject ZARXIO before you use it by your healthcare provider.•Your healthcare provider will tell you how much ZARXIO to inject and when to inject it. Do not change your dose or stop ZARXIO unless your healthcare provider tells you to.•You should not inject a dose of ZARXIO less than 0.3 mL (180 mcg) from a ZARXIO prefilled syringe. A dose less than 0.3 mL cannot be accurately measured using the ZARXIO prefilled syringe. •If you are receiving ZARXIO because you are also receiving chemotherapy, your dose of ZARXIO should be injected at least 24 hours before or 24 hours after your dose of chemotherapy. Your healthcare provider will do blood tests to monitor your white blood cell count, and if necessary, adjust your ZARXIO dose.•If you miss a dose of ZARXIO, talk to your healthcare provider about when you should give your next dose. |
+| What are the possible side effects of ZARXIO? ZARXIO may cause serious side effects, including: •Spleen rupture. Your spleen may become enlarged and can rupture. A ruptured spleen can cause death. Call your healthcare provider right away if you have pain in the left upper stomach (abdomen) area or your left shoulder.•A serious lung problem called acute respiratory distress syndrome (ARDS). Call your healthcare provider or get emergency medical help right away if you have shortness of breath with or without a fever, trouble breathing, or a fast rate of breathing.•Serious allergic reactions. ZARXIO can cause serious allergic reactions. These reactions can cause a rash over your whole body, shortness of breath, wheezing, dizziness, swelling around your mouth or eyes, fast heart rate, and sweating. If you have any of these symptoms, stop using ZARXIO and call your healthcare provider or get emergency medical help right away.•Sickle cell crises. You may have a serious sickle cell crisis, which could lead to death, if you have a sickle cell disorder and receive ZARXIO. Call your healthcare provider right away if you have symptoms of sickle cell crisis such as pain or difficulty breathing.•Kidney injury (glomerulonephritis). ZARXIO can cause kidney injury. Call your healthcare provider right away if you develop any of the following symptoms: oswelling of your face or ankles, oblood in your urine or dark colored urine oyou urinate less than usual. •Capillary leak syndrome. ZARXIO can cause fluid to leak from blood vessels into your body’s tissues. This condition is called “Capillary Leak Syndrome” (CLS). CLS can quickly cause you to have symptoms that may become life-threatening. Get emergency medical help right away if you develop any of the following symptoms: oswelling or puffiness and are urinating less than usualotrouble breathingoswelling of your stomach area (abdomen) and feeling of fullnessodizziness or feeling faintoa general feeling of tiredness •Decreased platelet count (thrombocytopenia). Your healthcare provider will check your blood during treatment with ZARXIO. Tell your healthcare provider if you have unusual bleeding or bruising during treatment with ZARXIO. This could be a sign of decreased platelet counts, which may reduce the ability of your blood to clot.•Increased white blood cell count (leukocytosis). Your healthcare provider will check your blood during treatment with ZARXIO.•Inflammation of your blood vessels (cutaneous vasculitis). Tell your healthcare provider right away if you develop purple spots or redness of your skin.•Inflammation of the aorta (aortitis). Inflammation of the aorta (the large blood vessel which transports blood from the heart to the body) has been reported in patients who received filgrastim products. Symptoms may include fever, abdominal pain, feeling tired, and back pain. Call your healthcare provider if you experience these symptoms. The most common side effects experienced in patients receiving ZARXIO include: oPatients with cancer receiving chemotherapy: fever, pain, rash, cough, and shortness of breathoPatients with acute myeloid leukemia receiving chemotherapy: pain, nose bleed, and rashoPatients with cancer receiving chemotherapy followed by bone marrow transplant: rashoPatients who are having their own blood cells collected: bone pain, fever, and headacheoPatients with severe chronic neutropenia: pain, decreased red blood cells, nose bleed, diarrhea, reduced sensation, and hair loss These are not all the possible side effects of ZARXIO.Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store ZARXIO? •Store ZARXIO in the refrigerator between 36°F to 46°F (2°C to 8°C).•Do not freeze. •Store ZARXIO in the original pack to protect it from light.•Do not shake ZARXIO.•Take ZARXIO out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.•ZARXIO may be allowed to reach room temperature for up to 24 hours. Throw away (dispose of) any ZARXIO that has been left at room temperature for longer than 24 hours.•After you inject your dose, throw away (dispose of) any unused ZARXIO left in the prefilled syringe. Do not save unused ZARXIO in the prefilled syringe for later use. Keep ZARXIO and all medicines out of the reach of children. |
+| General information about the safe and effective use of ZARXIO:Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ZARXIO for a condition for which it was not prescribed. Do not give ZARXIO to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about ZARXIO that is written for healthcare professionals. |
+| What are the ingredients in ZARXIO?Active ingredient: filgrastim-sndzInactive ingredients: glutamic acid, polysorbate 80, sorbitol, sodium hydroxide, water for injection Manufactured by: Sandoz Inc., Princeton, NJ 08540, US License No. 2003At: Sandoz GmbH, Langkampfen, Austria, Product of AustriaFor more information visit www.zarxio.com or call 1-800-525-8747. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Revised: April 2018
+Revised: 08/2019
 
 Instructions for Use
 
@@ -373,5 +260,3 @@ Langkampfen, Austria,
 Product of Austria
 
 Revised: April 2018
-
-46228889

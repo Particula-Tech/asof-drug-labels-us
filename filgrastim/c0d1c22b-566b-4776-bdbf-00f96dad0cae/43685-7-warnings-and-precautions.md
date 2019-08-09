@@ -18,11 +18,12 @@ The majority of reported events occurred upon initial exposure.
 Provide symptomatic treatment for allergic reactions.
 Allergic reactions, including anaphylaxis, in patients receiving filgrastim products can recur within days after the discontinuation of initial anti-allergic treatment.
 Permanently discontinue ZARXIO in patients with serious allergic reactions.
-ZARXIO is contraindicated in patients with a history of serious allergic reactions to human granulocyte colony-stimulating factors such as filgrastim or pegfilgrastim products.
+ZARXIO is contraindicated in patients with a history of serious allergic reactions to human granulocyte colony-stimulating factors such as filgrastim products or pegfilgrastim products.
 
 ## 5.4 Sickle Cell Disorders
 
-Sickle cell crisis, in some cases fatal, has been reported with the use of filgrastim products in patients with sickle cell trait or sickle cell disease.
+Severe and sometimes fatal sickle cell crisis can occur in patients with sickle cell disorders receiving filgrastim products.
+Discontinue ZARXIO if sickle cell crisis occurs.
 
 ## 5.5 Glomerulonephritis
 
@@ -35,7 +36,7 @@ If causality is likely, consider dose-reduction or interruption of ZARXIO.
 ## 5.6 Alveolar Hemorrhage and Hemoptysis
 
 Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization have been reported in healthy donors treated with filgrastim products undergoing peripheral blood progenitor cell (PBPC) collection mobilization.
-Hemoptysis resolved with discontinuation of filgrastim.
+Hemoptysis resolved with discontinuation of filgrastim products.
 The use of ZARXIO for PBPC mobilization in healthy donors is not an approved indication.
 
 ## 5.7 Capillary Leak Syndrome
@@ -51,7 +52,7 @@ Myelodysplastic syndrome (MDS) and acute myelogenous leukemia (AML) have been re
 Cytogenetic abnormalities, transformation to MDS, and AML have also been observed in patients treated with filgrastim products for SCN.
 Based on available data including a postmarketing surveillance study, the risk of developing MDS and AML appears to be confined to the subset of patients with congenital neutropenia.
 Abnormal cytogenetics and MDS have been associated with the eventual development of myeloid leukemia.
-The effect of filgrastim products on the development of abnormal cytogenetics and the effect of continued filgrastim administration in patients with abnormal cytogenetics or MDS are unknown.
+The effect of filgrastim products on the development of abnormal cytogenetics and the effect of continued filgrastim product administration in patients with abnormal cytogenetics or MDS are unknown.
 If a patient with SCN develops abnormal cytogenetics or myelodysplasia‚ the risks and benefits of continuing ZARXIO should be carefully considered.
 
 ## 5.9 Thrombocytopenia
@@ -84,7 +85,7 @@ ZARXIO may be started at a reduced dose when the symptoms resolve and the ANC ha
 ## 5.12 Potential Effect on Malignant Cells
 
 ZARXIO is a growth factor that primarily stimulates neutrophils.
-The granulocyte-colony stimulating factor (G‑CSF) receptor through which ZARXIO acts has also been found on tumor cell lines.
+The granulocyte colony-stimulating factor (G‑CSF) receptor through which ZARXIO acts has also been found on tumor cell lines.
 The possibility that ZARXIO acts as a growth factor for any tumor type cannot be excluded.
 The safety of filgrastim products in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
 
@@ -103,3 +104,11 @@ Avoid the simultaneous use of ZARXIO with chemotherapy and radiation therapy.
 
 Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging changes.
 This should be considered when interpreting bone-imaging results.
+
+## 5.15 Aortitis
+
+Aortitis has been reported in patients receiving filgrastim products.
+It may occur as early as the first week after start of therapy.
+Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
+Consider aortitis in patients who develop these signs and symptoms without known etiology.
+Discontinue ZARXIO if aortitis is suspected.

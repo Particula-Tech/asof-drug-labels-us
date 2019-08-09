@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - •Splenic Rupture [see Warnings and Precautions (5.1)]
 - •Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
@@ -12,6 +12,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - •Thrombocytopenia [see Warnings and Precautions (5.9)]
 - •Leukocytosis [see Warnings and Precautions (5.10)]
 - •Cutaneous Vasculitis [see Warnings and Precautions (5.11)]
+- •Aortitis [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -73,9 +74,9 @@ Adverse events with ≥ 2% higher incidence in filgrastim patients compared to p
 
 Adverse Reactions in Patients with Cancer Undergoing Bone Marrow Transplantation
 
-The following adverse reaction data are from one randomized, no treatment-controlled study in patients with acute lymphoblastic leukemia or lymphoblastic lymphoma receiving high-dose chemotherapy (cyclophosphamide or cytarabine, and melphalan) and total body irradiation (Study 5) and one randomized, no treatment controlled study in patients with Hodgkin’s disease (HD) and NHL undergoing high-dose chemotherapy and autologous bone marrow transplantation (Study 6).
+The following adverse reaction data are from one randomized, no treatment-controlled study in patients with acute lymphoblastic leukemia or lymphoblastic lymphoma receiving high-dose chemotherapy (cyclophosphamide or cytarabine, and melphalan) and total body irradiation (Study 5) and one randomized, no treatment-controlled study in patients with Hodgkin’s disease (HD) and NHL undergoing high-dose chemotherapy and autologous bone marrow transplantation (Study 6).
 Patients receiving autologous bone marrow transplantation only were included in the analysis.
-A total of 100 patients received either 30 mcg/kg/day as a 4 hour infusion (Study 5) or 10 mcg/kg/day or 30 mcg/kg/day as a 24 hour infusion (Study 6) filgrastim (n=72), no treatment control or placebo (n=28).
+A total of 100 patients received either 30 mcg/kg/day as a 4-hour infusion (Study 5) or 10 mcg/kg/day or 30 mcg/kg/day as a 24-hour infusion (Study 6) filgrastim (n=72), no treatment control or placebo (n=28).
 The median age was 30 (range 15 to 57) years, 57% were male.
 
 Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included rash and hypersensitivity.
@@ -106,7 +107,7 @@ Adverse Reactions in Patients with Cancer Undergoing Autologous PBPC in the Mobi
 Adverse Reactions in Patients with Severe Chronic Neutropenia
 
 The following adverse reaction data were identified in a randomized, controlled study in patients with SCN receiving filgrastim (Study 7).
-123 patients were randomized to a 4 month observation period followed by subcutaneous filgrastim treatment or immediate subcutaneous filgrastim treatment.
+123 patients were randomized to a 4-month observation period followed by subcutaneous filgrastim treatment or immediate subcutaneous filgrastim treatment.
 The median age was 12 years (range 7 months to 76 years) and 46% were male.
 The dosage of filgrastim was determined by the category of neutropenia.
 
@@ -122,12 +123,14 @@ Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared t
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-The incidence of antibody development in patients receiving filgrastim has not been adequately determined.
-While available data suggest that a small proportion of patients developed binding antibodies to filgrastim, the nature and specificity of these antibodies has not been adequately studied.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other filgrastim products may be misleading.
+
+The incidence of antibody development in patients receiving filgrastim products has not been adequately determined.
+While available data suggest that a small proportion of patients developed binding antibodies to filgrastim products, the nature and specificity of these antibodies has not been adequately studied.
 In clinical studies using filgrastim, the incidence of antibodies binding to filgrastim was 3% (11/333).
-In these 11 patients, no evidence of a neutralizing response was observed using a cell-based bioassay.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, timing of sampling, sample handling, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to filgrastim reported in this section with the incidence of antibodies in other studies or to other filgrastim products may be misleading.
+In these 11 patients, no evidence of a neutralizing response was observed using a cell based bioassay.
 
 Cytopenias resulting from an antibody response to exogenous growth factors have been reported on rare occasions in patients treated with other recombinant growth factors.
 
@@ -147,3 +150,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •cutaneous vasculitis [see Warnings and Precautions (5.11)]
 - •Sweet’s syndrome (acute febrile neutrophilic dermatosis)
 - •decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with filgrastim products
+- •Aortitis [see Warnings and Precautions (5.15)]

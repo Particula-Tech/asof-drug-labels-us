@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ZARXIO (filgrastim-sndz) is a 175 amino acid human granulocyte colony-stimulating factor (G-CSF) manufactured by recombinant DNA technology.
+Filgrastim-sndz is a 175 amino acid human granulocyte colony-stimulating factor (G-CSF) manufactured by recombinant DNA technology.
 
 ZARXIO is produced by Escherichia coli (E coli) bacteria into which has been inserted the human granulocyte colony-stimulating factor gene.
 ZARXIO has a molecular weight of 18‚800 daltons.

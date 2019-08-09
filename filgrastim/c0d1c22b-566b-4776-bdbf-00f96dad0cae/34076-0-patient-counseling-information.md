@@ -21,7 +21,10 @@ Advise patients of the following risks and potential risks with ZARXIO:
   Advise patients to report signs or symptoms of glomerulonephritis to their physician immediately [see Warnings and Precautions (5.5)].
 - •Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
   Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.11)].
-- •Advise females of reproductive potential that ZARXIO should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
+- •Aortitis may occur.
+  Symptoms may include fever, abdominal pain, malaise, back pain, and increased inflammatory markers.
+  Advise patients to report signs and symptoms of aortitis to their physician immediately [see Warnings and Precautions (5.15)].
+- 
 
 Instruct patients who self-administer ZARXIO using the prefilled syringe of the:
 
@@ -32,7 +35,7 @@ Instruct patients who self-administer ZARXIO using the prefilled syringe of the:
 
 ZARXIO® (filgrastim-sndz)
 
-ZARXIO is a trademark of Novartis AG
+ZARXIO is a registered trademark of Novartis AG
 
 UltraSafe Passive is a registered trademark of Safety Syringes, Inc.
 
