@@ -6,14 +6,14 @@ Memantine Hydrochloride
 
 Tablets
 
-Read tis Patint Information that comes with memantine hydrochloride tablets before you start taking them and each time you get a refill.
+Read tis Patient Information that comes with memantine hydrochloride tablets before you start taking them and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your doctor about your medical condition or your treatment.
 
 What are memantine hydrochloride tablets?
 
 Memantine hydrochloride tablets are a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer’s disease.
-Memantine hydrochloride tablets belong to a class of medicines called NMDA (N-methyl-D-aspartate) inhibitors.
+Memantine hydrochloride tablets belong to a class of medicines called N-methyl-D-aspartate (NMDA) inhibitors.
 
 It is not known if memantine hydrochloride tablets are safe and effective in children.
 
@@ -62,7 +62,7 @@ How should I take memantine hydrochloride tablets?
 - If you forget to take one dose of memantine hydrochloride tablets, do not double up on the next dose.
   You should take only the next dose as scheduled.
 - If you have forgotten to take memantine hydrochloride tablets for several days, you should not take the next dose until you talk to your doctor.
-- If you take too many memantine hydrochloride tablets, call your doctor or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
+- If you take too many memantine hydrochloride tablets, call your doctor or poison control center at 1-800-222-1222, or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of memantine hydrochloride tablets?
 
@@ -130,3 +130,6 @@ All rights reserved
 All trademarks are the property of their respective owners.
 
 Content updated: November 2018
+
+Rev.
+6/2019

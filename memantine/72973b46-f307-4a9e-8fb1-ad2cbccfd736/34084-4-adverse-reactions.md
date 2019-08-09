@@ -61,7 +61,7 @@ Cardiac Disorders - cardiac failure congestive.
 
 Gastrointestinal Disorders - pancreatitis.
 
-Hepatobiliary Disorders – hepatitis.
+Hepatobiliary Disorders - hepatitis.
 
 Psychiatric Disorders - suicidal ideation.
 

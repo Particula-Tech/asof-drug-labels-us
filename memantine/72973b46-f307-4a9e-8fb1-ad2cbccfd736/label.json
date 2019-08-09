@@ -5,7 +5,6 @@
   "inn": "memantine",
   "labeler": "Actavis Pharma, Inc.",
   "package_ndcs": [
-    "0591-3011-07",
     "0591-3870-44",
     "0591-3870-45",
     "0591-3870-60",
@@ -17,11 +16,6 @@
   "products": [
     {
       "form": "KIT",
-      "generic": "memantine hydrochloride",
-      "name": "memantine hydrochloride"
-    },
-    {
-      "form": "SOLUTION",
       "generic": "memantine hydrochloride",
       "name": "memantine hydrochloride"
     },

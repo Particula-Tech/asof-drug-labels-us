@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The effectiveness of memantine hydrochloride as a treatment for patients with moderate to severe Alzheimer’s disease was demonstrated in 2 randomized, double-blind, placebo-controlled clinical studies (Studies 1 and 2) conducted in the United States that assessed both cognitive function and day to day function.
-The mean age of patients participating in these two trials was 76 with a range of 50-93 years.
+The mean age of patients participating in these two trials was 76 years with a range of 50-93 years.
 Approximately 66% of patients were female and 91% of patients were Caucasian.
 A third study (Study 3), carried out in Latvia, enrolled patients with severe dementia, but did not assess cognitive function as a planned endpoint.
 Study Outcome Measures: In each U.S. study, the effectiveness of memantine hydrochloride was determined using both an instrument designed to evaluate overall function through caregiver-related assessment, and an instrument that measures cognition.

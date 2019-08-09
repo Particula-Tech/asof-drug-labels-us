@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 To assure safe and effective use of memantine hydrochloride tablets, the following information and instructions provided in the patient information section should be discussed with patients and caregivers.
 
