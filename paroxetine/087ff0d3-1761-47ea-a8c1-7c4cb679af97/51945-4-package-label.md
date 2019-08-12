@@ -1,6 +1,6 @@
 Principal Display Panel
 
-NDC 60505-3673-3
+NDC 60505-1316-3
 
 Paroxetine HCl
 
@@ -25,26 +25,9 @@ Important: Use safety closures when dispensing this product unless otherwise dir
 
 Made in Canada
 
-Rev.
-9/12
-
-Manufactured by:
-
-GlaxoSmithKline
-
-RTP, NC 27709
-
-Manufactured for:
-
-Apotex Corp.
-
-Weston, FL 33326
-
-A110192
-
 Principal Display Panel
 
-NDC 60505-3674-3
+NDC 60505-1317-3
 
 Paroxetine HCl
 
@@ -69,26 +52,9 @@ Important: Use safety closures when dispensing this product unless otherwise dir
 
 Made in Canada
 
-Rev.
-9/12
-
-Manufactured by:
-
-GlaxoSmithKline
-
-RTP, NC 27709
-
-Manufactured for:
-
-Apotex Corp.
-
-Weston, FL 33326
-
-A110191
-
 Principal Display Panel
 
-NDC 60505-3675-3
+NDC 60505-1318-3
 
 Paroxetine HCl
 
@@ -112,20 +78,3 @@ Usual dosage: See package insert.
 Important: Use safety closures when dispensing this product unless otherwise directed by physician or requested by purchaser.
 
 Made in Canada
-
-Rev.
-9/12
-
-Manufactured by:
-
-GlaxoSmithKline
-
-RTP, NC 27709
-
-Manufactured for:
-
-Apotex Corp.
-
-Weston, FL 33326
-
-A110222

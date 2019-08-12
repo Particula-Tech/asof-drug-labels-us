@@ -4,7 +4,7 @@ Paroxetine Hydrochloride (PA-rox-eh-tine HY-dro-chlo-ride)
 
 Controlled-Release Tablets
 
-Read the Medication Guide that comes with Paroxetine Hydrochloride Controlled-Release Tablets before you start taking them and each time you get a refill.
+Read the Medication Guide that comes with paroxetine hydrochloride controlled-release tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -107,19 +107,19 @@ Paroxetine hydrochloride is also used to treat:
 - •Social Anxiety Disorder
 - •Premenstrual Dysphoric Disorder (PMDD)
 
-Talk to your healthcare provider if you do not think that your condition is getting better with treatment using Paroxetine Hydrochloride Controlled-Release Tablets.
+Talk to your healthcare provider if you do not think that your condition is getting better with treatment using paroxetine hydrochloride controlled-release tablets.
 
 Who should not take Paroxetine Hydrochloride Controlled-Release Tablets?
 
 Do not take Paroxetine Hydrochloride Controlled-Release Tablets if you:
 
 - •are allergic to paroxetine or any of the ingredients in this product.
-  See the end of this Medication Guide for a complete list of ingredients in Paroxetine Hydrochloride Controlled-Release Tablets.
+  See the end of this Medication Guide for a complete list of ingredients in paroxetine hydrochloride controlled-release tablets.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- •Do not take an MAOI within 2 weeks of stopping Paroxetine Hydrochloride Controlled-Release Tablets unless directed to do so by your physician.
-- •Do not start Paroxetine Hydrochloride Controlled-Release Tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
-- •People who take Paroxetine Hydrochloride Controlled-Release Tablets close in time to an MAOI may have serious or even life-threatening side effects.
+- •Do not take an MAOI within 2 weeks of stopping paroxetine hydrochloride controlled-release tablets unless directed to do so by your physician.
+- •Do not start paroxetine hydrochloride controlled-release tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+- •People who take paroxetine hydrochloride controlled-release tablets close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
 - ●high fever
 - ●uncontrolled muscle spasms
@@ -128,22 +128,22 @@ Do not take Paroxetine Hydrochloride Controlled-Release Tablets if you:
 - ●confusion
 - ●loss of consciousness (pass out)
 - •take MELLARIL® (thioridazine).
-  Do not take MELLARIL® together with Paroxetine Hydrochloride Controlled-Release Tablets because this can cause serious heart rhythm problems or sudden death.
+  Do not take MELLARIL® together with paroxetine hydrochloride controlled-release tablets because this can cause serious heart rhythm problems or sudden death.
 - •take the antipsychotic medicine pimozide (ORAP®) because this can cause serious heart problems.
 
 What should I tell my healthcare provider before taking Paroxetine Hydrochloride Controlled-Release Tablets?
 Ask if you are not sure.
 
-Before starting Paroxetine Hydrochloride Controlled-Release Tablets, tell your healthcare provider if you:
+Before starting paroxetine hydrochloride controlled-release tablets, tell your healthcare provider if you:
 
 - •are pregnant, may be pregnant, or plan to become pregnant.
-  There is a possibility that Paroxetine Hydrochloride Controlled-Release Tablets may harm your unborn baby, including an increased risk of birth defects, particularly heart defects.
+  There is a possibility that paroxetine hydrochloride controlled-release tablets may harm your unborn baby, including an increased risk of birth defects, particularly heart defects.
   Other risks may include a serious condition in which there is not enough oxygen in the baby’s blood.
   Your baby may also have certain other symptoms shortly after birth.
-  Premature births have also been reported in some women who used Paroxetine Hydrochloride Controlled-Release Tablets during pregnancy.
+  Premature births have also been reported in some women who used paroxetine hydrochloride controlled-release tablets during pregnancy.
 - •are breastfeeding.
-  Paroxetine Hydrochloride Controlled-Release Tablets pass into your milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking Paroxetine Hydrochloride Controlled-Release Tablets.
+  Paroxetine hydrochloride controlled-release tablets pass into your milk.
+  Talk to your healthcare provider about the best way to feed your baby while taking paroxetine hydrochloride controlled-release tablets.
 - •are taking certain drugs such as:
 - ●triptans used to treat migraine headache
 - ●other antidepressants (SSRIs, SNRIs, tricyclics, or lithium) or antipsychotics
@@ -172,10 +172,10 @@ Before starting Paroxetine Hydrochloride Controlled-Release Tablets, tell your h
 - •have glaucoma (high pressure in the eye)
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Paroxetine Hydrochloride Controlled-Release Tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
+Paroxetine hydrochloride controlled-release tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 
-Your healthcare provider or pharmacist can tell you if it is safe to take Paroxetine Hydrochloride Controlled-Release Tablets with your other medicines.
-Do not start or stop any medicine while taking Paroxetine Hydrochloride Controlled-Release Tablets without talking to your healthcare provider first.
+Your healthcare provider or pharmacist can tell you if it is safe to take paroxetine hydrochloride controlled-release tablets with your other medicines.
+Do not start or stop any medicine while taking paroxetine hydrochloride controlled-release tablets without talking to your healthcare provider first.
 
 How should I take Paroxetine Hydrochloride Controlled-Release Tablets?
 
@@ -250,17 +250,17 @@ Active ingredient: paroxetine hydrochloride
 
 Inactive ingredients: hypromellose, polyvinylpyrrolidone, lactose monohydrate, magnesium stearate, silicon dioxide, glyceryl behenate, methacrylic acid copolymer type C, sodium lauryl sulfate, polysorbate 80, talc, triethyl citrate, titanium dioxide, polyethylene glycols, and 1 or more of the following colorants: Yellow ferric oxide, red ferric oxide, D&C Red No. 30 aluminum lake, FD&C Yellow No. 6 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake.
 
-PAXIL and PAXIL CR are registered trademarks of GlaxoSmithKline.
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
-The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
+Paroxetine hydrochloride controlled-release tablets are registered trademarks of GlaxoSmithKline.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
-GlaxoSmithKline
+Apotex Inc.
 
-Research Triangle Park, NC 27709
+Toronto, Ontario
+
+M9L 1T9
 
 Manufactured for:
 
@@ -268,4 +268,4 @@ Apotex Corp.
 
 Weston, FL33326
 
-July 2011 PCA-AP:3MG
+May 2017

@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 The efficacy of paroxetine in the treatment of major depressive disorder, panic disorder, social anxiety disorder, and premenstrual dysphoric disorder (PMDD) is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-hydroxy-tryptamine, 5-HT).
 Studies at clinically relevant doses in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
@@ -9,25 +9,25 @@ In vitro radioligand binding studies indicate that paroxetine has little affinit
 
 Because the relative potencies of paroxetine’s major metabolites are at most 1/50 of the parent compound, they are essentially inactive.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
-The elimination half-life is approximately 15 to 20 hours after a single dose of Paroxetine Hydrochloride Controlled-Release Tablets.
+The elimination half-life is approximately 15 to 20 hours after a single dose of paroxetine hydrochloride controlled-release tablets.
 Paroxetine is extensively metabolized and the metabolites are considered to be inactive.
 Nonlinearity in pharmacokinetics is observed with increasing doses.
 Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.
 Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
 
-### Absorption and Distribution
+### Absorption and Distribution:
 
-Paroxetine Hydrochloride Controlled-Release Tablets contain a degradable polymeric matrix (GEOMATRIX™) designed to control the dissolution rate of paroxetine over a period of approximately 4 to 5 hours.
+Paroxetine hydrochloride controlled-release tablets contain a degradable polymeric matrix designed to control the dissolution rate of paroxetine over a period of approximately 4 to 5 hours.
 In addition to controlling the rate of drug release in vivo, an enteric coat delays the start of drug release until Paroxetine Hydrochloride Controlled-Release Tablets have left the stomach.
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
-In a study in which normal male and female subjects (n = 23) received single oral doses of Paroxetine Hydrochloride Controlled-Release Tablets at 4 dosage strengths (12.5 mg, 25 mg, 37.5 mg, and 50 mg), paroxetine Cmax and AUC0-inf increased disproportionately with dose (as seen also with immediate-release formulations).
+In a study in which normal male and female subjects (n = 23) received single oral doses of paroxetine hydrochloride controlled-release tablets at 4 dosage strengths (12.5 mg, 25 mg, 37.5 mg, and 50 mg), paroxetine Cmax and AUC0-inf increased disproportionately with dose (as seen also with immediate-release formulations).
 Mean Cmax and AUC0-inf values at these doses were 2.0, 5.5, 9.0, and 12.5 ng/mL, and 121, 261, 338, and 540 ng●hr./mL, respectively.
 Tmax was observed typically between 6 and 10 hours post-dose, reflecting a reduction in absorption rate compared with immediate-release formulations.
-The bioavailability of 25 mg Paroxetine Hydrochloride Controlled-Release Tablets is not affected by food.
+The bioavailability of 25 mg paroxetine hydrochloride controlled-release tablets is not affected by food.
 
 Paroxetine distributes throughout the body, including the CNS, with only 1% remaining in the plasma.
 
@@ -35,11 +35,11 @@ Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/mL 
 Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/mL.
 Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
 
-### Metabolism and Excretion
+### Metabolism and Excretion:
 
-The mean elimination half-life of paroxetine was 15 to 20 hours throughout a range of single doses of Paroxetine Hydrochloride Controlled-Release Tablets (12.5 mg, 25 mg, 37.5 mg, and 50 mg).
-During repeated administration of Paroxetine Hydrochloride Controlled-Release Tablets (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate-release formulations).
-In a repeat-dose study in which normal male and female subjects (n = 23) received Paroxetine Hydrochloride Controlled-Release Tablets (25 mg daily), mean steady state Cmax, Cmin, and AUC0-24 values were 30 ng/mL, 20 ng/mL, and 550 ng●hr./mL, respectively.
+The mean elimination half-life of paroxetine was 15 to 20 hours throughout a range of single doses of paroxetine hydrochloride controlled-release tablets (12.5 mg, 25 mg, 37.5 mg, and 50 mg).
+During repeated administration of paroxetine hydrochloride controlled-release tablets (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate-release formulations).
+In a repeat-dose study in which normal male and female subjects (n = 23) received paroxetine hydrochloride controlled-release tablets (25 mg daily), mean steady state Cmax, Cmin, and AUC0-24 values were 30 ng/mL, 20 ng/mL, and 550 ng●hr./mL, respectively.
 
 Based on studies using immediate-release formulations, steady-state drug exposure based on AUC0-24 was several-fold greater than would have been predicted from single-dose data.
 The excess accumulation is a consequence of the fact that 1 of the enzymes that metabolizes paroxetine is readily saturable.
@@ -58,9 +58,9 @@ The role of this enzyme in paroxetine metabolism also suggests potential drug-dr
 Approximately 64% of a 30-mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10-day post-dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10-day post-dosing period.
 
-## Other Clinical Pharmacology Information
+## Other Clinical Pharmacology Information:
 
-### Specific Populations
+### Specific Populations:
 
 #### Renal and Liver Disease
 
