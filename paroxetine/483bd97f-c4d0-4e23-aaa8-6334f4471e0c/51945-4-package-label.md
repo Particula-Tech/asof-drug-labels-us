@@ -1,6 +1,6 @@
 Principal Display Panel
 
-NDC 60505-3668-3
+NDC 60505-4377-3
 
 PAXIL CR®
 
@@ -24,26 +24,11 @@ Dosage: See accompanying prescribing information.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physician or requested by purchaser.
 
-Manufactured by:
-
-GlaxoSmithKline
-
-RTP, NC 27709
-
-Distributed by:
-
-Apotex Corp.
-
-Weston, FL 33326
-
 Made in Canada
-
-A108356 Rev.
-7/12
 
 Principal Display Panel
 
-NDC 60505-3669-3
+NDC 60505-4378-3
 
 PAXIL CR®
 
@@ -67,26 +52,11 @@ Dosage: See accompanying prescribing information.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physician or requested by purchaser.
 
-Manufactured by:
-
-GlaxoSmithKline
-
-RTP, NC 27709
-
-Distributed by:
-
-Apotex Corp.
-
-Weston, FL 33326
-
 Made in Canada
-
-A108017 Rev.
-7/12
 
 Principal Display Panel
 
-NDC 60505-3670-3
+NDC 60505-4379-3
 
 PAXIL CR®
 
@@ -110,19 +80,4 @@ Dosage: See accompanying prescribing information.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physician or requested by purchaser.
 
-Manufactured by:
-
-GlaxoSmithKline
-
-RTP, NC 27709
-
-Distributed by:
-
-Apotex Corp.
-
-Weston, FL 33326
-
 Made in Canada
-
-A108019 Rev.
-7/12

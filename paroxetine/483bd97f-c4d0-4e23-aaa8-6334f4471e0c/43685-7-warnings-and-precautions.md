@@ -85,7 +85,9 @@ Therefore, it is recommended that paroxetine not be used in combination with thi
 
 ## Usage in Pregnancy:
 
-Teratogenic Effects: Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
+### Teratogenic Effects:
+
+Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
 The findings from these studies are summarized below:
 
 - •A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
@@ -108,7 +110,9 @@ If a patient becomes pregnant while taking paroxetine, she should be advised of 
 Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS: Discontinuation of Treatment With PAXIL CR).
 For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
 
-Animal Findings: Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis.
+### Animal Findings:
+
+Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis.
 These doses are approximately 8 (rat) and 2 (rabbit) times the maximum recommended human dose (MRHD) on an mg/m2 basis.
 These studies have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in pup deaths during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation.
@@ -116,7 +120,9 @@ This effect occurred at a dose of 1 mg/kg/day or approximately one-sixth of the 
 The no-effect dose for rat pup mortality was not determined.
 The cause of these deaths is not known.
 
-Nonteratogenic Effects: Neonates exposed to PAXIL CR and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+### Nonteratogenic Effects:
+
+Neonates exposed to PAXIL CR and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
@@ -465,7 +471,7 @@ These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg
 
 ## Pregnancy:
 
-Pregnancy Category D. See WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects.
+Pregnancy Category D. See WARNINGS: Usage in Pregnancy:Teratogenic Effects and Nonteratogenic Effects.
 
 ## Labor and Delivery:
 

@@ -152,7 +152,7 @@ Before starting PAXIL CR, tell your healthcare provider if you:
   There is a possibility that PAXIL CR may harm your unborn baby, including an increased risk of birth defects, particularly heart defects.
   Other risks may include a serious condition in which there is not enough oxygen in the baby’s blood.
   Your baby may also have certain other symptoms shortly after birth.
-  Premature births have also been reported in some women who used PAXIL CR during pregnancy
+  Premature births have also been reported in some women who used PAXIL CR during pregnancy.
 - •are breastfeeding.
   PAXIL CR passes into your milk.
   Talk to your healthcare provider about the best way to feed your baby while taking PAXIL CR.
@@ -268,9 +268,11 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-GlaxoSmithKline
+Apotex Inc.
 
-Research Triangle Park, NC 27709
+Toronto, Ontario
+
+M9L 1T9
 
 Manufactured for:
 
@@ -278,4 +280,4 @@ Apotex Corp.
 
 Weston, FL 33326
 
-October 2016
+May 2017
