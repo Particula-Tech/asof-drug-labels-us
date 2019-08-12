@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209627"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "TherapeuticsMD, Inc.",
+  "package_ndcs": [
+    "50261-313-01"
+  ],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "segesterone acetate and ethinyl estradiol",
+      "name": "ANNOVERA"
+    }
+  ],
+  "setid": "37bb9ebd-2e99-4453-bbe6-9dd4a2897193",
+  "source": "dailymed"
+}
