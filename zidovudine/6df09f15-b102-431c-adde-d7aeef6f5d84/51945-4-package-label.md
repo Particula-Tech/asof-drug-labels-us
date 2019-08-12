@@ -46,7 +46,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 49702-212-48
 
-RETROVIR®
+RETROVIR
 
 (zidovudine)
 
@@ -58,6 +58,8 @@ SYRUP
 
 Rx only
 
+Note to Pharmacist: Please ensure the caregiver has an appropriate sytring with 0.1-mL graduation to accurately measure the oral dose of RETROVIR syrup in neonates.
+
 Manufactured for:
 
 ViiV Healthcare
@@ -66,20 +68,19 @@ Research Triangle Park, NC 27709
 
 by:
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Canada
+
+Trademark owned by or licensed to the ViiV Healthcare group of companies.
 
 Do not use if shrinkband on bottle is broken or missing.
 
 Contains sodium benzoate 0.2% added as a preservative.
 
-©2015, the ViiV Healtchare group of companies
+©2018, ViiV Healthcare group of companies or its licensor.
 
-1. A135225 Rev.
-   7/15
+1. 62000000031044 Rev.11/18
 
 PRINCIPAL DISPLAY PANEL
 
