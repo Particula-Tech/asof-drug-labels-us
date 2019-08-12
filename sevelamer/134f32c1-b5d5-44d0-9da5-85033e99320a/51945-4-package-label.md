@@ -1,0 +1,11 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 69097-967-93 Rx Only
+
+Sevelamer Carbonate Tablets
+
+800 mg
+
+270 film coated tablets
+
+Cipla

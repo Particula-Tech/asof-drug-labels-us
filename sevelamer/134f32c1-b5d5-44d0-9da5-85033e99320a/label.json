@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203860"
+  ],
+  "inn": "sevelamer",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-967-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sevelamer carbonate",
+      "name": "Sevelamer carbonate"
+    }
+  ],
+  "setid": "134f32c1-b5d5-44d0-9da5-85033e99320a",
+  "source": "dailymed"
+}
