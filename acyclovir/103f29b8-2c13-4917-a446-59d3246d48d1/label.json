@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021478"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0093-3630-20"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "acyclovir",
+      "name": "Acyclovir"
+    }
+  ],
+  "setid": "103f29b8-2c13-4917-a446-59d3246d48d1",
+  "source": "dailymed"
+}
