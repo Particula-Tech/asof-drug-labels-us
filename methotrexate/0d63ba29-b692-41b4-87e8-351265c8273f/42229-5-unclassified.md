@@ -24,6 +24,4 @@ Storage for 24 hours at a temperature of 21° to 25°C results in a product whic
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0997-3.0
-
-Revised: 06/2018
+LAB-0997-3.0 05/2018
