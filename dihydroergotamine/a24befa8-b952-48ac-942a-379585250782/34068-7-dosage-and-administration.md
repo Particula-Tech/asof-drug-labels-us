@@ -4,9 +4,9 @@ The solution used in Migranal® (dihydroergotamine mesylate) Nasal Spray (4 mg/m
 
 In clinical trials, Migranal® (dihydroergotamine mesylate) Nasal Spray has been effective for the acute treatment of migraine headaches with or without aura.
 One spray (0.5 mg) of Migranal® (dihydroergotamine mesylate) Nasal Spray should be administered in each nostril.
-Fifteen minutes later, an additional one spray (0.5 mg) of Migranal® (dihydroergotamine mesylate) Nasal Spray should be administered in each nostril, for a total dosage of four sprays (2.0 mg) of Migranal® (dihydroergotamine mesylate) Nasal Spray.
-Studies have shown no additional benefit from acute doses greater than 2.0 mg for a single migraine administration.
-The safety of doses greater than 3.0 mg in a 24 hour period and 4.0 mg in a 7 day period has not been established.
+Fifteen minutes later, an additional one spray (0.5 mg) of Migranal® (dihydroergotamine mesylate) Nasal Spray should be administered in each nostril, for a total dosage of four sprays (2 mg) of Migranal® (dihydroergotamine mesylate) Nasal Spray.
+Studies have shown no additional benefit from acute doses greater than 2 mg for a single migraine administration.
+The safety of doses greater than 3 mg in a 24 hour period and 4 mg in a 7 day period has not been established.
 
 Migranal® (dihydroergotamine mesylate) Nasal Spray, should not be used for chronic daily administration.
 
