@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Bivalirudin for injection contains bivalirudin which is a specific and reversible direct thrombin inhibitor.
-Bivalirudin is a synthetic, 20 amino acid peptide, with the chemical name of D-phenylalanyl-Lprolyl-L-arginyl-L-prolyl-glycyl-glycyl-glycyl-glycyl-L-asparagyl-glycyl-L-aspartyl-Lphenylalanyl-L-glutamyl-L-glutamyl-L-isoleucyl-L-prolyl-L-glutamyl-L-glutamyl-L-tyrosyl-Lleucine.
+Bivalirudin is a synthetic, 20 amino acid peptide, with the chemical name of D-phenylalanyl-L-prolyl-L-arginyl-L-prolyl-glycyl-glycyl-glycyl-glycyl-L-asparagyl-glycyl-L-aspartyl-Lphenylalanyl-L-glutamyl-L-glutamyl-L-isoleucyl-L-prolyl-L-glutamyl-L-glutamyl-L-tyrosyl-Lleucine.
 The active pharmaceutical ingredient is in the form of bivalirudin trifluoroacetate as a white to off-white powder.
 The chemical name for bivalirudin trifluoroacetate is D-phenylalanyl-L-prolyl-L-arginyl-L-prolyl-glycyl-glycyl-glycyl-glycyl-L-asparagyl-glycyl-L-aspartyl-Lphenylalanyl-L-glutamyl-L-glutamyl-L-isoleucyl-L-prolyl-L-glutamyl-L-glutamyl-L-tyrosyl-L-leucine trifluoroacetate (Figure 1).
 The molecular weight of bivalirudin is 2180 daltons (anhydrous free base peptide).

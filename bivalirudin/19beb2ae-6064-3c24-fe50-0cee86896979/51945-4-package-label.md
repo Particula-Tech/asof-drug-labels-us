@@ -2,6 +2,6 @@
 
 Vial Label:
 
-Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
-
 Vial Carton Label:
+
+Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
