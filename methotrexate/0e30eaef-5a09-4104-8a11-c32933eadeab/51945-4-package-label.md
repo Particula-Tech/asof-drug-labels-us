@@ -2,9 +2,7 @@
 
 NDC 61703-350-09 2 mL Sterile
 
-Methotrexate Injection, USP
-
-Rx only
+Methotrexate Injection, USP Rx only
 
 50 mg/2 mL (25 mg/mL)
 
@@ -16,9 +14,9 @@ Contains preservative Cytotoxic Agent
 
 VIAL
 
-NDC 61703-350-10 Sterile
+NDC 61703-350-10 5 x 2 mL Vials
 
-5 x 2 mL Vials Rx only
+Sterile Rx only
 
 Methotrexate Injection, USP
 
@@ -26,7 +24,7 @@ Methotrexate Injection, USP
 
 Isotonic Liquid
 
-NOVAPLUS®
+novaplus™
 
 CONTAINS PRESERVATIVE NOT FOR INTRATHECAL USE
 
