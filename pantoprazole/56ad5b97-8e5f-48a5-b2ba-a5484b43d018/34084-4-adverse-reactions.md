@@ -9,6 +9,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
 - •Hypomagnesemia [see Warnings and Precautions (5.7)]
 - •Fundic Gland Polyps [see Warnings and Precautions (5.9)]
+- •
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,12 +17,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Adults
 
-Safety in 9 randomized comparative U.S. clinical trials in patients with GERD included 1473 patients on oral pantoprazole sodium delayed-release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
+Safety in nine randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed-release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
 
-|  | Pantoprazole Sodium Delayed-Release Tablets (n = 1473) % | Comparators (n = 345) % | Placebo (n = 82) % |
+|  | Pantoprazole Sodium Delayed-Release Tablets (n = 1,473) % | Comparators (n = 345) % | Placebo (n = 82) % |
 | --- | --- | --- | --- |
 | Headache | 12.2 | 12.8 | 8.5 |
 | Diarrhea | 8.8 | 9.6 | 4.9 |
@@ -52,7 +53,7 @@ Special Senses: blurred vision
 
 ### Pediatric Patients
 
-Safety of pantoprazole in the treatment of EE associated with GERD was evaluated in pediatric patients ages 1 year through 16 years in 3 clinical trials.
+Safety of pantoprazole in the treatment of EE associated with GERD was evaluated in pediatric patients ages 1 year through 16 years in three clinical trials.
 Safety trials involved pediatric patients with EE; however, as EE is uncommon in the pediatric population, 249 pediatric patients with endoscopically-proven or symptomatic GERD were also evaluated.
 All adult adverse reactions to pantoprazole sodium delayed-release tablets are considered relevant to pediatric patients.
 In patients ages 1 year through 16 years, the most commonly reported (> 4%) adverse reactions include: URI, headache, fever, diarrhea, vomiting, rash, and abdominal pain.
@@ -77,7 +78,7 @@ The following adverse reactions seen in adults in clinical trials were not repor
 
 ### Zollinger-Ellison (ZE) Syndrome
 
-In clinical studies of ZE syndrome, adverse reactions reported in 35 patients taking pantoprazole 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
+In clinical studies of ZE Syndrome, adverse reactions reported in 35 patients taking pantoprazole 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
 
 ## 6.2 Postmarketing Experience
 

@@ -38,9 +38,9 @@ Table 5: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
 ### Serum Gastrin Effects
 
-Fasting serum gastrin levels were assessed in 2 double-blind studies of the acute healing of EE in which 682 patients with gastroesophageal reflux disease (GERD) received 10, 20, or 40 mg of pantoprazole for up to 8 weeks.
+Fasting serum gastrin levels were assessed in two double-blind studies of the acute healing of EE in which 682 patients with gastroesophageal reflux disease (GERD) received 10, 20, or 40 mg of pantoprazole for up to 8 weeks.
 At 4 weeks of treatment there was an increase in mean gastrin levels of 7%, 35%, and 72% over pretreatment values in the 10, 20, and 40 mg treatment groups, respectively.
-A similar increase in serum gastrin levels was noted at the 8-week visit with mean increases of 3%, 26%, and 84% for the 3 pantoprazole dose groups.
+A similar increase in serum gastrin levels was noted at the 8-week visit with mean increases of 3%, 26%, and 84% for the three pantoprazole dose groups.
 Median serum gastrin levels remained within normal limits during maintenance therapy with pantoprazole sodium delayed-release tablets.
 
 In long-term international studies involving over 800 patients, a 2- to 3-fold mean increase from the pretreatment fasting serum gastrin level was observed in the initial months of treatment with pantoprazole at doses of 40 mg per day during GERD maintenance studies and 40 mg or higher per day in patients with refractory GERD.
@@ -80,7 +80,7 @@ After administration of a single or multiple oral 40 mg doses of pantoprazole so
 Pantoprazole undergoes little first-pass metabolism, resulting in an absolute bioavailability of approximately 77%.
 Pantoprazole absorption is not affected by concomitant administration of antacids.
 
-Administration of pantoprazole sodium delayed-release tablets with food may delay its absorption up to 2 hours or longer; however, the Cmax and the extent of pantoprazole absorption (AUC) are not altered.
+Administration of pantoprazole sodium delayed-release tablets with food may delay their absorption up to 2 hours or longer; however, the Cmax and the extent of pantoprazole absorption (AUC) are not altered.
 Thus, pantoprazole sodium delayed-release tablets may be taken without regard to timing of meals.
 
 ### Distribution
@@ -110,7 +110,7 @@ Only slight to moderate increases in the AUC (43%) and Cmax (26%) of pantoprazol
 
 #### Pediatric Patients
 
-The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in 4 randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
+The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
 A pediatric granule formulation was studied in children through 5 years of age, and pantoprazole sodium delayed-release tablets were studied in children older than 5 years.
 
 In a population PK analysis, total clearance increased with increasing bodyweight in a non-linear fashion.

@@ -52,7 +52,7 @@ All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
 
 Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed EE to demonstrate efficacy of pantoprazole sodium delayed-release tablets in long-term maintenance of healing.
-The 2 U.S. studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of pantoprazole sodium delayed-release tablets once daily or 150 mg of ranitidine twice daily.
+The two U.S. studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of pantoprazole sodium delayed-release tablets once daily or 150 mg of ranitidine twice daily.
 As demonstrated in Table 10, pantoprazole sodium delayed-release tablets 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, pantoprazole sodium delayed-release tablets 40 mg were superior to all other treatments studied.
 
@@ -78,14 +78,14 @@ Table 11: Number of Episodes of Heartburn (Mean ± SD)
 
 |  |  | Pantoprazole Sodium Delayed-Release Tablets 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
-| Month 1 | Daytime | 5.1 ± 1.6(p < 0.001 vs. ranitidine, combined data from the 2 U.S. studies) | 18.3 ± 1.6 |
+| Month 1 | Daytime | 5.1 ± 1.6(p < 0.001 vs. ranitidine, combined data from the two U.S. studies) | 18.3 ± 1.6 |
 | Nighttime | 3.9 ± 1.1 | 11.9 ± 1.1 |  |
 | Month 12 | Daytime | 2.9 ± 1.5 | 17.5 ± 1.5 |
 | Nighttime | 2.5 ± 1.2 | 13.8 ± 1.3 |  |
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole sodium delayed-release tablets successfully controlled gastric acid secretion.
+In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole sodium delayed-release tablets successfully controlled gastric acid secretion.
 Doses ranging from 80 mg daily to 240 mg daily maintained gastric acid output below 10 mEq/h in patients without prior acid-reducing surgery and below 5 mEq/h in patients with prior acid-reducing surgery.
 
 Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)].

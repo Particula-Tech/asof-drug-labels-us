@@ -53,7 +53,7 @@ This diagnosis should be considered if clinical symptoms consistent with cyanoco
 
 ## 5.7 Hypomagnesemia
 
-Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least 3 months, in most cases after a year of therapy.
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least 3 months, and in most cases after a year of therapy.
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 

@@ -2,19 +2,20 @@ PRINCIPAL DISPLAY PANEL - 20 mg
 
 NDC 0378-6688-77
 
-Pantoprazole Sodium Delayed-Release Tablets, USP 20 mg*
+Pantoprazole Sodium Delayed-Release Tablets, USP 20 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 90 Tablets
 
-*Each film-coated tablet contains pantoprazole sodium, USP equivalent to 20 mg of pantoprazole.
+Each film-coated tablet contains: Pantoprazole 20 mg (equivalent to 22.55 mg of pantoprazole sodium, USP)
 
 Meets USP Dissolution Test 3.
 
 Usual Dosage: See accompanying prescribing information.
 
-TABLETS MUST NOT BE SPLIT, CHEWED OR CRUSHED BEFORE ADMINISTRATION.
+Swallow tablets whole.
+Do NOT split, chew, or crush tablets.
 
 Keep this and all medication out of the reach of children.
 
@@ -25,7 +26,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6688MM5
+RMX6688MM6
 
 Mylan.com
 
@@ -39,19 +40,20 @@ PRINCIPAL DISPLAY PANEL - 40 mg
 
 NDC 0378-6689-77
 
-Pantoprazole Sodium Delayed-Release Tablets, USP 40 mg*
+Pantoprazole Sodium Delayed-Release Tablets, USP 40 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 90 Tablets
 
-*Each film-coated tablet contains pantoprazole sodium, USP equivalent to 40 mg of pantoprazole.
+Each film-coated tablet contains: Pantoprazole 40 mg (equivalent to 45.10 mg of pantoprazole sodium, USP)
 
 Meets USP Dissolution Test 3.
 
 Usual Dosage: See accompanying prescribing information.
 
-TABLETS MUST NOT BE SPLIT, CHEWED OR CRUSHED BEFORE ADMINISTRATION.
+Swallow tablets whole.
+Do NOT split, chew, or crush tablets.
 
 Keep this and all medication out of the reach of children.
 
@@ -62,7 +64,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6689MM5
+RMX6689MM6
 
 Mylan.com
 

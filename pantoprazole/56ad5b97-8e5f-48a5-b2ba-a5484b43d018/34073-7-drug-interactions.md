@@ -12,7 +12,7 @@ Table 4: Clinically Relevant Interactions Affecting Drugs Co-Administered with P
 | Intervention: | Rilpivirine-containing products: Concomitant use with pantoprazole sodium delayed-release tablets is contraindicated [see Contraindications (4)]. See prescribing information. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with pantoprazole sodium delayed-release tablets. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir and monitor for potential saquinavir toxicities. Other antiretrovirals: See prescribing information. |
 | Warfarin |  |
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including pantoprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
-| Intervention: | Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain the target INR range. See prescribing information for warfarin. |
+| Intervention: | Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain target INR range. See prescribing information for warfarin. |
 | Clopidogrel |  |
 | Clinical Impact: | Concomitant administration of pantoprazole and clopidogrel in healthy subjects had no clinically important effect on exposure to the active metabolite of clopidogrel or clopidogrel-induced platelet inhibition [see Clinical Pharmacology (12.3)]. |
 | Intervention: | No dose adjustment of clopidogrel is necessary when administered with an approved dose of pantoprazole sodium delayed-release tablets. |
