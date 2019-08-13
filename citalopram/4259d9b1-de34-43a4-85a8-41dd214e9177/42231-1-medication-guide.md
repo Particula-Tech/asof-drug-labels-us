@@ -1,4 +1,4 @@
-v1.1MG4040
+v1.2USPI4040
 
 Medication Guide
 
@@ -277,4 +277,4 @@ Distributed by: Allergan USA, Inc. Madison, NJ 07940 Licensed from H. Lundbeck A
 © 2019 Allergan.
 All rights reserved.
 
-Rev. -January 2019 v1.1MG4040
+Rev. -January 2019 v1.2MG4040

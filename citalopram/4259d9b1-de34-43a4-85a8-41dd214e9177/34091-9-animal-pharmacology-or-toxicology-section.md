@@ -28,8 +28,8 @@ Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-© 2018 Allergan.
+© 2019 Allergan.
 All rights reserved.
 
 Rev.
-October 2018
+January 2019
