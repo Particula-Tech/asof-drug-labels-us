@@ -18,8 +18,10 @@ Such increases in heart rate will also tend to increase cardiac work and oxygen 
 Adequate filling of the intravascular compartment by suitable volume expanders is of primary importance in most cases of shock and should precede the administration of vasoactive drugs.
 In patients with normal cardiac function, determination of central venous pressure is a reliable guide during volume replacement.
 If evidence of hypoperfusion persists after adequate volume replacement, isoproterenol hydrochloride injection may be given.
+
 In addition to the routine monitoring of systemic blood pressure, heart rate, urine flow, and the electrocardiograph, monitor the response to therapy by frequent determination of the central venous pressure and blood gases.
 Closely observe patients in shock during isoproterenol hydrochloride injection administration.
+
 If the heart rate exceeds 110 beats per minute, it may be advisable to decrease the infusion rate or temporarily discontinue the infusion.
 Determinations of cardiac output and circulation time may also be helpful.
 Take appropriate measures to ensure adequate ventilation.
@@ -54,7 +56,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 Safety and efficacy of isoproterenol in pediatric patients have not been established.
 
 Intravenous infusions of isoproterenol in refractory asthmatic children at rates of 0.05 - 2.7 mcg/kg/min have caused clinical deterioration, myocardial necrosis, congestive heart failure and death.
-The risks of cardiac toxicity appear to be increased by some factors [acidosis, hypoxemia, coadministration of corticosteroids, co-administration of methylxanthines (theophylline, theobromine) or aminophylline] that are especially likely to be present in these patients.
+The risks of cardiac toxicity appear to be increased by some factors [acidosis, hypoxemia, coadministration of corticosteroids, coadministration of methylxanthines (theophylline, theobromine) or aminophylline] that are especially likely to be present in these patients.
 If I.V. isoproterenol is used in children with refractory asthma, patient monitoring must include continuous assessment of vital signs, frequent electrocardiography, and daily measurements of cardiac enzymes, including CPK-MB.
 
 ## Geriatric Use

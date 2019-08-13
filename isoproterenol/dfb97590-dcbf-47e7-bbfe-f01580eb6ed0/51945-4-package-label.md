@@ -1,40 +1,38 @@
-# Principal Display Panel - Isoproterenol Injection 1 mL Vial Label
+# Principal Display Panel - 1 mL Vial Label
 
-NDC 14789-011-01 Rx Only
-
-1 mL Single Dose Vial
+NDC 14789-011-07 Rx Only
 
 Isoproterenol HCL Injection, USP
 
 0.2 mg/mL
 
-PROTECT FROM LIGHT
-
 Intravenous, Subcutaneous, Intramuscular or Intracardiac Use Only
 
-045-T-01622
+PROTECT FROM LIGHT
 
-# Principal Display Panel - Isoproterenol Injection 1 mL Vial Label
+1 mL Single Dose Vial
+
+# Principal Display Panel - 1 mL Carton Label
 
 NDC 14789-011-01
 
-1 mL Single Dose Vial x 10 vials per carton
+NEXUS
+
+PHARMACEUTICALS
 
 Isoproterenol Hydrochloride Injection, USP
 
 0.2 mg/mL
 
-Intravenous, Subcutaneous, Intramuscular or Intracardiac Use Only
+Intravenous, Subcutaneous Intramuscular or Intracardiac Use Only
 
-NEXUS PHARMACEUTICALS
+1 mL Single Dose Vial x 10 vials per carton
 
 Rx Only
 
-# Principal Display Panel - Isoproterenol Injection 5 mL Vial Label
+# Principal Display Panel - 5 mL Vial Label
 
-NDC 14789-015-05
-
-5 mL Single Dose Vial
+NDC 14789-015-07
 
 Isoproterenol HCL Injection, USP
 
@@ -44,20 +42,22 @@ Intravenous, Subcutaneous, Intramuscular or Intracardiac Use Only
 
 PROTECT FROM LIGHT
 
-Rx Only 045-T-01623
+Rx Only
 
-# Principal Display Panel - Isoproterenol Injection 5 mL Vial Label
+# Principal Display Panel - 5 mL Carton Label
 
 NDC 14789-015-05
 
-5 mL Single Dose Vial x 10 vials per carton
+NEXUS
 
-Isoproterenol Hydrochroride Injection, USP
+PHARMACEUTICALS
+
+Isoproterenol Hydrochloride Injection, USP
 
 1 mg/5 mL (0.2 mg/mL)
 
-Intravenous, Subcutaneous, Intramuscular or Intracardiac Use Only
+Intravenous, Subcutaneous Intramuscular or Intracardiac Use Only
 
-NEXUS PHARMACEUTICALS
+5 mL Single Dose Vial x 10 vials per carton
 
 Rx Only

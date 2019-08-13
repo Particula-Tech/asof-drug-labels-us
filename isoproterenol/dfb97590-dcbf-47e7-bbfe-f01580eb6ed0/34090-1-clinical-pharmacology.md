@@ -7,8 +7,10 @@ Renal blood flow is decreased in normotensive subjects but is increased markedly
 Systolic blood pressure may remain unchanged or rise, although mean arterial pressure typically falls.
 Cardiac output is increased because of the positive inotropic and chronotropic effects of the drug in the face of diminished peripheral vascular resistance.
 The cardiac effects of isoproterenol may lead to palpitations, sinus tachycardia, and more serious arrhythmias; large doses of isoproterenol may cause myocardial necrosis in animals.
+
 Isoproterenol relaxes almost all varieties of smooth muscle when the tone is high, but this action is most pronounced on bronchial and gastrointestinal smooth muscle.
 It prevents or relieves bronchoconstriction, but tolerance to this effect develops with overuse of the drug.
+
 In man, isoproterenol causes less hyperglycemia than does epinephrine.
 Isoproterenol and epinephrine are equally effective in stimulating the release of free fatty acids and energy production.
 
