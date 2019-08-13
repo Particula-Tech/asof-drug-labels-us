@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA013174"
+  ],
+  "inn": "triamterene",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-831-02",
+    "66993-832-02"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "triamterene",
+      "name": "Triamterene"
+    },
+    {
+      "form": "CAPSULE",
+      "generic": "triamterene",
+      "name": "triamterene"
+    }
+  ],
+  "setid": "a09c2212-1dd5-4fbe-ad09-2a57aeabcaea",
+  "source": "dailymed"
+}
