@@ -1,5 +1,11 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
+25 mg tablets: light green film-coated, engraved on one side with "ZOLOFT" and on the other side scored and engraved with "25 mg"
+
+50 mg tablets: light blue film-coated, engraved on one side with "ZOLOFT" and on the other side scored and engraved with "50 mg"
+
+100 mg tablets: light yellow film-coated, engraved on one side with "ZOLOFT" and on the other side scored and engraved with "100 mg"
+
 25 mg tablets: light green film-coated, engraved on one side with "G 4960" and on the other side scored and engraved with "25 mg"
 
 50 mg tablets: light blue film-coated, engraved on one side with "G 4900" and on the other side scored and engraved with "50 mg"

@@ -1,5 +1,24 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Sertraline hydrochloride 25 mg tablets: light green, film-coated, capsular-shaped tablets engraved on one side with "ZOLOFT" and on the other side scored and engraved with "25 mg"
+
+|  | NDC 59762-6347-1 | Bottles of 30 |
+| --- | --- | --- |
+
+Sertraline hydrochloride 50 mg tablets: light blue, film-coated, capsular-shaped tablets engraved on one side with "ZOLOFT" and on the other side scored and engraved with "50 mg"
+
+|  | NDC 59762-6443-1 | Bottles of 30 |
+| --- | --- | --- |
+|  | NDC 59762-6443-2 | Bottles of 100 |
+|  | NDC 59762-6443-3 | Bottles of 500 |
+
+Sertraline hydrochloride 100 mg tablets: light yellow, film-coated, capsular-shaped, tablets engraved on one side with "ZOLOFT" and on the other side scored and engraved with "100 mg"
+
+|  | NDC 59762-5160-1 | Bottles of 30 |
+| --- | --- | --- |
+|  | NDC 59762-5160-2 | Bottles of 100 |
+|  | NDC 59762-5160-3 | Bottles of 500 |
+
 Sertraline hydrochloride 25 mg tablets: light green, film-coated, capsular-shaped tablets engraved on one side with "G 4960" and on the other side scored and engraved with "25 mg"
 
 |  | NDC 59762-4960-1 | Bottles of 30 |
@@ -7,18 +26,16 @@ Sertraline hydrochloride 25 mg tablets: light green, film-coated, capsular-shape
 
 Sertraline hydrochloride 50 mg tablets: light blue, film-coated, capsular-shaped tablets engraved on one side with "G 4900" and on the other side scored and engraved with "50 mg"
 
-|  | NDC 59762-4900-1 | Bottles of 30 |
-| --- | --- | --- |
 |  | NDC 59762-4900-4 | Bottles of 100 |
+| --- | --- | --- |
 |  | NDC 59762-4900-5 | Bottles of 500 |
 |  | NDC 59762-4900-2 | Bottles of 5000 |
 |  | NDC 59762-4900-3 | Unit Dose Packages of 100 |
 
 Sertraline hydrochloride 100 mg tablets: light yellow, film-coated, capsular-shaped, tablets engraved on one side with "G 4910" and on the other side scored and engraved with "100 mg"
 
-|  | NDC 59762-4910-1 | Bottles of 30 |
-| --- | --- | --- |
 |  | NDC 59762-4910-4 | Bottles of 100 |
+| --- | --- | --- |
 |  | NDC 59762-4910-5 | Bottles of 500 |
 |  | NDC 59762-4910-2 | Bottles of 5000 |
 |  | NDC 59762-4910-3 | Unit Dose Packages of 100 |
