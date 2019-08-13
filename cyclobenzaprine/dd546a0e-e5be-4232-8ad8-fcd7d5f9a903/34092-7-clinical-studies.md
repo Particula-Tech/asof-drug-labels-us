@@ -17,7 +17,7 @@ Table 2: Patients’ Rating of Medication Helpfulness - Study 1*
 | Poor | 10 (16%) | 5 (8%) | 9 (14%) | 4 (6%) |
 | Missing | 9 (14%) | 1 (2%) | 8 (13%) | 1 (2%) |
 
-* Percentages are rounded to the nearest whole percent.
+*Percentages are rounded to the nearest whole percent.
 
 Table 3: Patients’ Rating of Medication Helpfulness - Study 2*
 
@@ -32,7 +32,7 @@ Table 3: Patients’ Rating of Medication Helpfulness - Study 2*
 | Poor | 19 (30%) | 6 (10%) | 12 (19%) | 5 (8%) |
 | Missing | 4 (6%) | 5 (8%) | 3 (5%) | 5 (8%) |
 
-* Percentages are rounded to the nearest whole percent.
+*Percentages are rounded to the nearest whole percent.
 
 In addition, one of the two studies demonstrated significant differences between the cyclobenzaprine hydrochloride extended-release capsules, 30 mg group and the placebo group in terms of patient-rated relief from local pain due to muscle spasm at Day 4 and Day 8, in patient-rated restriction of movement at Day 4 and Day 8, and in patient-rated global impression of change at Day 4, Day 8, and Day 14.
 

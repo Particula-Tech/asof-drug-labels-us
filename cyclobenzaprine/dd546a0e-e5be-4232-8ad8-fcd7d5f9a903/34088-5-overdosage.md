@@ -1,11 +1,11 @@
 # 10 OVERDOSAGE
 
+## 10.1 Manifestations
+
 Although rare, deaths may occur from overdosage with cyclobenzaprine hydrochloride extended-release.
 Multiple drug ingestion (including alcohol) is common in deliberate cyclobenzaprine overdose.
 As management of overdose is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
 Signs and symptoms of toxicity may develop rapidly after cyclobenzaprine overdose; therefore, hospital monitoring is required as soon as possible.
-
-## 10.1 Manifestations
 
 The most common effects associated with cyclobenzaprine overdose are drowsiness and tachycardia.
 Less frequent manifestations include tremor, agitation, coma, ataxia, hypertension, slurred speech, confusion, dizziness, nausea, vomiting, and hallucinations.

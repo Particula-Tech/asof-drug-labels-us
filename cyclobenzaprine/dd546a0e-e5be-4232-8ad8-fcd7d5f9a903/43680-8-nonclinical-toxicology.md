@@ -2,14 +2,20 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term studies were conducted in CD-1 mice and Sprague-Dawley rats with cyclobenzaprine to evaluate its carcinogenic potential.
-In an 81-week carcinogenicity study, metastatic hemangiosarcoma was seen in 3 of 21 male mice at 10 mg/kg/day (2 times the MRHD on a mg/m2 basis).
-In a 105-week carcinogenicity study, malignant astrocytoma was seen in 3 of 50 male rats at 10 mg/kg/day (3 times the MRHD on a mg/m2 basis).
+Carcinogenesis
+
+Long-term studies were conducted in CD-1 mice and Sprague-Dawley rats with oral cyclobenzaprine to evaluate its carcinogenic potential.
+In an 81-week carcinogenicity study, metastatic hemangiosarcoma was seen in 3 of 21 male mice at 10 mg/kg/day (approximately 2 times the maximum recommended human dose (MRHD) of 30 mg/day on a mg/m2 basis).
+In a 105-week carcinogenicity study, malignant astrocytoma was seen in 3 of 50 male rats at 10 mg/kg/day (approximately 3 times the MRHD on a mg/m2 basis).
 There were no tumor findings in female mice or rats.
+
+Mutagenesis
 
 Cyclobenzaprine hydrochloride was not mutagenic or clastogenic in the following assays: an in vitro Ames bacterial mutation assay, in vitro Chinese hamster ovary (CHO) cell chromosomal aberration test, and in vivo mouse bone marrow micronucleus assay.
 
-Cyclobenzaprine hydrochloride had no effects on fertility and reproductive performance in male or female rats at oral doses up to 20 mg/kg/day (6 times the MRHD on a mg/m2 basis).
+Impairment of Fertility
+
+Cyclobenzaprine hydrochloride, when administered 70 and 14 days prior to mating to male and female rats, respectively, had no effects on fertility or reproductive performance at oral doses up to 20 mg/kg/day (approximately 6.5 times the MRHD on a mg/m2 basis).
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
