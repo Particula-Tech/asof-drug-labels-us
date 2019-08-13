@@ -28,4 +28,4 @@ Prescribers should be alert to the potential for secondary bacterial infections 
 
 Fructose can be harmful to patients with hereditary fructose intolerance.
 One dose of 75 mg TAMIFLU for oral suspension delivers 2 grams of sorbitol.
-This is above the daily maximum limit of sorbitol for patients with hereditary fructose intolerance, and may cause dyspepsia and diarrhea.
+This is above the daily maximum limit of sorbitol for patients with hereditary fructose intolerance and may cause dyspepsia and diarrhea.
