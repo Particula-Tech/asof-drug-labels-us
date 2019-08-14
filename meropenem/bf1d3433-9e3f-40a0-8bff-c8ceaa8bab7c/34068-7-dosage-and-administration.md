@@ -38,7 +38,7 @@ There is inadequate information regarding the use of Meropenem for Injection in 
 
 Pediatric Patients 3 Months of Age and Older
 
-- For pediatric patients 3 months of age and older, the Meropenem for Injection dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (cSSSI, cIAI, intra-a bdominal infection or meningitis).
+- For pediatric patients 3 months of age and older, the Meropenem for Injection dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (cSSSI, cIAI, intra-abdominal infection or meningitis).
   See dosing Table 2 below.
 - For pediatric patients weighing over 50 kg administer Meropenem for Injection at a dose of 500 mg every 8 hours for cSSSI, 1 gram every 8 hours for cIAI and 2 grams every 8 hours for meningitis.
 - Administer Meropenem for Injection as an intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
@@ -96,8 +96,7 @@ For Infusion
 - Injection vials (500 mg and 1 gram) may be directly re-constituted with a compatible infusion fluid.
 
 - Alternatively, an injection vial may be re-constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
-
-Do not use flexible container in series connections.
+- Do not use flexible container in series connections.
 
 ## 2.5 Compatibility
 
