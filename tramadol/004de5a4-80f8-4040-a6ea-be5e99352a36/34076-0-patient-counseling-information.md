@@ -29,7 +29,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store tramadol hydrochloride extended-release tablets securely and to dispose of unused tramadol hydrochloride extended-release tablets in accordance with the local state guidelines and/or regulations.
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 

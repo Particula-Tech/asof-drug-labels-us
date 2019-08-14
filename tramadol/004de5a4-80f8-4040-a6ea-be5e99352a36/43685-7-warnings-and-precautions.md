@@ -204,12 +204,11 @@ Advise patients to seek immediate medical attention if they experience any sympt
 ## 5.17 Withdrawal
 
 Do not abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
-Rapid tapering of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+When discontinuing tramadol hydrochloride extended-release tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride extended-release tablets.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
-When discontinuing tramadol hydrochloride extended-release tablets, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue tramadol hydrochloride extended-release tablets [see Drug Abuse and Dependence (9.3)].
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.18 Risks of Driving and Operating Machinery
 
