@@ -18,7 +18,7 @@ Peri/postnatal development in rats was impaired with reduced pup weights, increa
 
 Risk Summary Piperacillin is excreted in human milk; tazobactam concentrations in human milk have not been studied.
 No information is available on the effects of piperacillin and tazobactam on the breastfed child or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for piperacillin and tazobacatam and any potential adverse effects on the breastfed child from piperacillin and tazobactam or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for piperacillin and tazobactam and any potential adverse effects on the breastfed child from piperacillin and tazobactam or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

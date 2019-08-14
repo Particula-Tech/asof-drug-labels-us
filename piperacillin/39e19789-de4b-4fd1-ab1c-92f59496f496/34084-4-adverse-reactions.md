@@ -75,9 +75,9 @@ Additional laboratory events include abnormalities in electrolytes (i.e., increa
 
 In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Hepatobiliary—hepatitis, jaundice Hematologic—hemolytic anemia, agranulocytosis, pancytopenia Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock) Renal—interstitial nephritis Respiratory—eosinophilic pneumonia Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
+Hepatobiliary—hepatitis, jaundice Hematologic—hemolytic anemia, agranulocytosis, pancytopenia Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock) Renal—interstitial nephritis Psychiatric disorders—delirium Respiratory—eosinophilic pneumonia Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
 
-## 6.3 Additional Experience with piperacillin
+## 6.3 Additional Experience with Piperacillin
 
 The following adverse reaction has also been reported for piperacillin for injection: Skeletal—prolonged muscle relaxation [see Drug Interactions (7.5)].
 Post-marketing experience with piperacillin and tazobactam in pediatric patients suggests a similar safety profile to that seen in adults.
