@@ -143,22 +143,22 @@ The number of events in Study 2 was small with the exception of the IHC 3+/FISH+
 Definitive conclusions cannot be drawn regarding efficacy within other subgroups due to the small number of events.
 The number of events in Study 3 was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH +/IHC unknown subgroups.
 
-| Table 10 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification |  |  |  |  |  |
-| Study 2 |  |  |  |  | Study 3c |
-| HER2 Assay Resulta | Number of Patients |  | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
-| IHC 3+ |  |  |  |  |  |
-| FISH (+) | 1170 | 0.42 |  | 91 | 0.56 |
-|  |  | (0.27, 0.64) |  |  | (0.13, 2.50) |
-| FISH (+) | 51 | 0.71 |  | 8 | ______ |
-|  |  | (0.04, 11.79) |  |  |  |
-| FISH Unknown | 51 | 0.69 |  | 2258 | 0.53 |
-|  |  | (0.09, 5.14) |  |  | (0.41, 0.69) |
-| IHC < 3+ / | 174 | 1.01 |  | 299b | 0.53 |
-| FISH (+) |  | (0.18, 5.65) |  |  | (0.20, 1.42) |
-| IHC unknown / | ______ | ______ |  | 724 | 0.59 |
-| FISH (+) |  |  |  |  | (0.38, 0.93) |
+| Table 10 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification |  |  |  |  |  |  |
+|  | Study 2 |  |  |  |  | Study 3c |
+| HER2 Assay Resulta |  | Number of Patients |  | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
+| IHC 3+ |  |  |  |  |  |  |
+| FISH (+) |  | 1170 | 0.42 |  | 91 | 0.56 |
+|  |  |  | (0.27, 0.64) |  |  | (0.13, 2.50) |
+| FISH (+) |  | 51 | 0.71 |  | 8 | ______ |
+|  |  |  | (0.04, 11.79) |  |  |  |
+| FISH Unknown |  | 51 | 0.69 |  | 2258 | 0.53 |
+|  |  |  | (0.09, 5.14) |  |  | (0.41, 0.69) |
+| IHC < 3+ / |  | 174 | 1.01 |  | 299b | 0.53 |
+| FISH (+) |  |  | (0.18, 5.65) |  |  | (0.20, 1.42) |
+| IHC unknown / |  | ______ | ______ |  | 724 | 0.59 |
+| FISH (+) |  |  |  |  |  | (0.38, 0.93) |
 
 a IHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory.
 
@@ -189,7 +189,7 @@ These treatment effects were observed both in patients who received trastuzumab 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer |  |  |  |  |  |  |  |  |
 |  |  | Combined Results |  | Paclitaxel Subgroup |  | AC Subgroup |  |  |
-|  |  | Trastuzumab + All Chemo- therapy (n = 235) | All Chemo- therapy (n = 235) | Trastuzumab+ Paclitaxel (n = 92) | Paclitaxel (n = 96) | Trastuzumab + ACa (n = 143) | AC (n = 138) |  |
+|  |  | Trastuzumab + All Chemo- therapy (n = 235) | All Chemo- therapy (n = 234) | Trastuzumab+ Paclitaxel (n = 92) | Paclitaxel (n = 96) | Trastuzumab + ACa (n = 143) | AC (n = 138) |  |
 | Primary Endpoint |  |  |  |  |  |  |  |  |
 | Median | 7.2 |  | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |  |
 | TTP (mos)b,c |  |  |  |  |  |  |  |  |
@@ -268,7 +268,7 @@ The efficacy results of both the final and the updated analyses are summarized i
 | Table 13 |  |  |  |
 | --- | --- | --- | --- |
 | Study 7: Overall Survival in ITT Population |  |  |  |
-| FC Arm N = 296 |  |  | FC + H Arm N = 298 |
+|  | FC Arm N = 296 |  | FC + H Arm N = 298 |
 | Definitive (Second Interim) Overall Survival |  |  |  |
 | No. Deaths (%) | 184 (62.2%) |  | 167 (56.0%) |
 | Median | 11.0 |  | 13.5 |

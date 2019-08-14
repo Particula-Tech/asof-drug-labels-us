@@ -82,12 +82,7 @@ Among the 3386 patients enrolled in the observation and one-year trastuzumab arm
 | Immune System Disorders |  |  |
 | Hypersensitivity | 10 (0.6%) | 1 (0.06%) |
 | Autoimmune Thyroiditis | 4 (0.3%) | 0 (0%) |
-
-a Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm.
-
-b The incidence of Grade 3 or higher adverse reactions was <1% in both arms for each listed term
-
-c Higher level grouping term
+| a Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm. b The incidence of Grade 3 or higher adverse reactions was <1% in both arms for each listed term c Higher level grouping term |  |  |
 
 In Study 3, a comparison of 3-weekly trastuzumab treatment for two years versus one year was also performed.
 The rate of asymptomatic cardiac dysfunction was increased in the 2-year trastuzumab treatment arm (8.1% versus 4.6% in the one-year trastuzumab treatment arm).
@@ -124,59 +119,59 @@ Among the 352 patients treated in single agent studies (213 patients from Study 
 Most of the patients received 4 mg/kg initial dose of trastuzumab followed by 2 mg/kg weekly.
 The percentages of patients who received trastuzumab treatment for ≥ 6 months and ≥ 12 months were 31% and 16%, respectively.
 
-| Table 4 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Per-Patient Incidence of Adverse Reactions Occurring in ≥5% of Patients in Uncontrolled Studies or at Increased Incidence in the Trastuzumab Arm (Studies 5 and 6) |  |  |  |  |  |  |
-| Single Agenta n = 352 |  |  | Trastuzumab + Paclitaxel n = 91 | Paclitaxel Alone n = 95 | Trastuzumab+ ACb n = 143 | ACb Alone n =135 |
-| Body as a Whole |  |  |  |  |  |  |
-| Pain |  | 47% | 61% | 62% | 57% | 42% |
-| Asthenia |  | 42% | 62% | 57% | 54% | 55% |
-| Fever |  | 36% | 49% | 23% | 56% | 34% |
-| Chills |  | 32% | 41% | 4% | 35% | 11% |
-| Headache |  | 26% | 36% | 28% | 44% | 31% |
-| Abdominal pain |  | 22% | 34% | 22% | 23% | 18% |
-| Back pain |  | 22% | 34% | 30% | 27% | 15% |
-| Infection |  | 20% | 47% | 27% | 47% | 31% |
-| Flu syndrome |  | 10% | 12% | 5% | 12% | 6% |
-| Accidental injury |  | 6% | 13% | 3% | 9% | 4% |
-| Allergic reaction |  | 3% | 8% | 2% | 4% | 2% |
-| Cardiovascular |  |  |  |  |  |  |
-| Tachycardia |  | 5% | 12% | 4% | 10% | 5% |
-| Congestive heart failure |  | 7% | 11% | 1% | 28% | 7% |
-| Digestive |  |  |  |  |  |  |
-| Nausea | 33% |  | 51% | 9% | 76% | 77% |
-| Diarrhea | 25% |  | 45% | 29% | 45% | 26% |
-| Vomiting | 23% |  | 37% | 28% | 53% | 49% |
-| Nausea and vomiting | 8% |  | 14% | 11% | 18% | 9% |
-| Anorexia | 14% |  | 24% | 16% | 31% | 26% |
-| Heme & Lymphatic |  |  |  |  |  |  |
-| Anemia | 4% |  | 14% | 9% | 36% | 26% |
-| Leukopenia | 3% |  | 24% | 17% | 52% | 34% |
-| Metabolic |  |  |  |  |  |  |
-| Peripheral edema | 10% |  | 22% | 20% | 20% | 17% |
-| Edema | 8% |  | 10% | 8% | 11% | 5% |
-| Musculoskeletal |  |  |  |  |  |  |
-| Bone pain | 7% |  | 24% | 18% | 7% | 7% |
-| Arthralgia | 6% |  | 37% | 21% | 8% | 9% |
-| Nervous |  |  |  |  |  |  |
-| Insomnia | 14% |  | 25% | 13% | 29% | 15% |
-| Dizziness | 13% |  | 22% | 24% | 24% | 18% |
-| Paresthesia | 9% |  | 48% | 39% | 17% | 11% |
-| Depression | 6% |  | 12% | 13% | 20% | 12% |
-| Peripheral neuritis | 2% |  | 23% | 16% | 2% | 2% |
-| Neuropathy | 1% |  | 13% | 5% | 4% | 4% |
-| Respiratory |  |  |  |  |  |  |
-| Cough increased | 26% |  | 41% | 22% | 43% | 29% |
-| Dyspnea | 22% |  | 27% | 26% | 42% | 25% |
-| Rhinitis | 14% |  | 22% | 5% | 22% | 16% |
-| Pharyngitis | 12% |  | 22% | 14% | 30% | 18% |
-| Sinusitis | 9% |  | 21% | 7% | 13% | 6% |
-| Skin |  |  |  |  |  |  |
-| Rash | 18% |  | 38% | 18% | 27% | 17% |
-| Herpes simplex | 2% |  | 12% | 3% | 7% | 9% |
-| Acne | 2% |  | 11% | 3% | 3% | < 1% |
-| Urogenital |  |  |  |  |  |  |
-| Urinary tract infection | 5% |  | 18% | 14% | 13% | 7% |
+| Table 4 |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Per-Patient Incidence of Adverse Reactions Occurring in ≥5% of Patients in Uncontrolled Studies or at Increased Incidence in the Trastuzumab Arm (Studies 5 and 6) |  |  |  |  |  |
+|  | Single Agenta n = 352 | Trastuzumab + Paclitaxel n = 91 | Paclitaxel Alone n = 95 | Trastuzumab+ ACb n = 143 | ACb Alone n =135 |
+| Body as a Whole |  |  |  |  |  |
+| Pain | 47% | 61% | 62% | 57% | 42% |
+| Asthenia | 42% | 62% | 57% | 54% | 55% |
+| Fever | 36% | 49% | 23% | 56% | 34% |
+| Chills | 32% | 41% | 4% | 35% | 11% |
+| Headache | 26% | 36% | 28% | 44% | 31% |
+| Abdominal pain | 22% | 34% | 22% | 23% | 18% |
+| Back pain | 22% | 34% | 30% | 27% | 15% |
+| Infection | 20% | 47% | 27% | 47% | 31% |
+| Flu syndrome | 10% | 12% | 5% | 12% | 6% |
+| Accidental injury | 6% | 13% | 3% | 9% | 4% |
+| Allergic reaction | 3% | 8% | 2% | 4% | 2% |
+| Cardiovascular |  |  |  |  |  |
+| Tachycardia | 5% | 12% | 4% | 10% | 5% |
+| Congestive heart failure | 7% | 11% | 1% | 28% | 7% |
+| Digestive |  |  |  |  |  |
+| Nausea | 33% | 51% | 9% | 76% | 77% |
+| Diarrhea | 25% | 45% | 29% | 45% | 26% |
+| Vomiting | 23% | 37% | 28% | 53% | 49% |
+| Nausea and vomiting | 8% | 14% | 11% | 18% | 9% |
+| Anorexia | 14% | 24% | 16% | 31% | 26% |
+| Heme & Lymphatic |  |  |  |  |  |
+| Anemia | 4% | 14% | 9% | 36% | 26% |
+| Leukopenia | 3% | 24% | 17% | 52% | 34% |
+| Metabolic |  |  |  |  |  |
+| Peripheral edema | 10% | 22% | 20% | 20% | 17% |
+| Edema | 8% | 10% | 8% | 11% | 5% |
+| Musculoskeletal |  |  |  |  |  |
+| Bone pain | 7% | 24% | 18% | 7% | 7% |
+| Arthralgia | 6% | 37% | 21% | 8% | 9% |
+| Nervous |  |  |  |  |  |
+| Insomnia | 14% | 25% | 13% | 29% | 15% |
+| Dizziness | 13% | 22% | 24% | 24% | 18% |
+| Paresthesia | 9% | 48% | 39% | 17% | 11% |
+| Depression | 6% | 12% | 13% | 20% | 12% |
+| Peripheral neuritis | 2% | 23% | 16% | 2% | 2% |
+| Neuropathy | 1% | 13% | 5% | 4% | 4% |
+| Respiratory |  |  |  |  |  |
+| Cough increased | 26% | 41% | 22% | 43% | 29% |
+| Dyspnea | 22% | 27% | 26% | 42% | 25% |
+| Rhinitis | 14% | 22% | 5% | 22% | 16% |
+| Pharyngitis | 12% | 22% | 14% | 30% | 18% |
+| Sinusitis | 9% | 21% | 7% | 13% | 6% |
+| Skin |  |  |  |  |  |
+| Rash | 18% | 38% | 18% | 27% | 17% |
+| Herpes simplex | 2% | 12% | 3% | 7% | 9% |
+| Acne | 2% | 11% | 3% | 3% | < 1% |
+| Urogenital |  |  |  |  |  |
+| Urinary tract infection | 5% | 18% | 14% | 13% | 7% |
 
 a Data for trastuzumab single agent were from 4 studies, including 213 patients from Study 6.
 
@@ -196,9 +191,9 @@ Median duration of trastuzumab treatment was 21 weeks; median number of trastuzu
 | Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Incidence ≥ 5% between Arms) or Grade 3 /4 (Incidence > 1% between Arms) and Higher Incidence in Trastuzumab Arm |  |  |  |  |  |
 |  | Trastuzumab + FC (N = 294) N (%) |  |  | FC (N = 290) N (%) |  |
 | Body System/Adverse Event | All Grades | Grades 3/4 | All Grades |  | Grades 3/4 |
-| Investigations | 230 (78) | 101 (34) | 212 (73) |  | 83 (29) |
-| Neutropenia |  |  |  |  |  |
-| Hypokalemia | 83 (28) | 28 (10) | 69 (24) |  | 6 (6) |
+| Investigations |  |  |  |  |  |
+| Neutropenia | 230 (78) | 101 (34) | 212 (73) |  | 83 (29) |
+| Hypokalemia | 83 (28) | 28 (10) | 69 (24) |  | 16 (6) |
 | Anemia | 81 (28) | 36 (12) | 61 (21) |  | 30 (10) |
 | Thrombocytopenia | 47 (16) | 14 (5) | 33 (11) |  | 8 (3) |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |
