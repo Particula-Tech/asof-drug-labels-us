@@ -1,43 +1,39 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions For Use)]
+See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Inform patients of the following:
+Flammability
 
-- Instruct patients to shake before use.
-- Instruct patients not to use more than 60 g every 4 days.
-- Discontinue therapy when control is achieved unless directed otherwise by the physician.
-- Avoid use of Enstilar® Foam on the face, underarms, groin or eyes.
+Instruct patients that Enstilar Foam is flammable; avoid heat, flame, or smoking when applying this medication.
+
+Administration Instructions
+
+- Shake before use and spray the foam by holding the can in any orientation except horizontally.
+- Do not to use more than 60 grams every 4 days.
+- Discontinue therapy when control is achieved unless directed otherwise by the healthcare provider.
+- Avoid use of Enstilar Foam on the face, underarms, groin or eyes.
   If this medicine gets on face or in mouth or eyes, wash area right away.
+- Do not occlude the treatment area with a bandage or other covering unless directed by the healthcare provider.
+  Instruct the patients not to use other products containing calcipotriene or a corticosteroid with Enstilar Foam without first talking to the healthcare provider.
 - Wash hands after application.
-- Do not occlude the treatment area with a bandage or other covering unless directed by the physician.
-  Instruct the patients not to use other products containing calcipotriene or a corticosteroid with Enstilar® Foam without first talking to the physician.
-- Instruct patients who use Enstilar® Foam to avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.). Physicians may wish to limit or avoid use of phototherapy in patients who use Enstilar® Foam.
-- Enstilar® Foam is flammable; avoid heat, flame, or smoking when applying this medication.
-- The foam can be sprayed holding the can in any orientation except horizontally.
 
-Manufactured by:
+Local Reactions and Skin Atrophy
 
-LEO Laboratories Ltd.
+Advise patients that local reactions and skin atrophy are more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids.
 
-285 Cashel Road
+Hypercalcemia and Hypercalciuria
 
-Dublin 12, Ireland
+Advise patients that hypercalcemia and hypercalciuria have been observed with the use of Enstilar Foam [see Warnings and Precautions (5.1)].
 
-or
+HPA Axis Suppression, Cushing's Syndrome, and Hyperglycemia
 
-Colep Laupheim GmbH & Co. KG
+Advise patients that Enstilar Foam can cause HPA axis suppression, Cushing's syndrome, and/or hyperglycemia [see Warnings and Precautions (5.2)].
 
-Fockestraße 12
+Ophthalmic Adverse Reactions
 
-88471 Laupheim
+Advise patients to avoid contact of Enstilar Foam with eyes and to report any visual symptoms [see Warnings and Precautions (5.5)].
 
-Germany (DE)
+Pregnancy and Lactation
 
-Distributed by:
-
-LEO Pharma Inc.
-
-Seven Giralda Farms
-
-Madison, NJ 07940, USA
+- Advise pregnant women that Enstilar® Foam may increase the potential risk of having a low birth weight infant and to use Enstilar Foam on the smallest area of skin and for the shortest duration possible [see Use in Specific Populations (8.1)].
+- Advise breastfeeding women not to apply Enstilar Foam directly to the nipple and areola to avoid direct infant exposure [see Use in Specific Populations (8.2)].
