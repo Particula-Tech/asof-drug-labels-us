@@ -7,13 +7,13 @@ Doses of 1 to 900 mg were included in these trials in order to fully explore the
 These studies allowed comparison of once- or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by sex, age, and race.
 Two of the seven placebo-controlled trials identified above examined the antihypertensive effects of irbesartan and hydrochlorothiazide in combination.
 The 7 studies of irbesartan monotherapy included a total of 1915 patients randomized to irbesartan (1-900 mg) and 611 patients randomized to placebo.
-Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post-dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8-10/5-6 mmHg and 8-12/5-8 mmHg, respectively.
+Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8-10/5-6 mmHg and 8-12/5-8 mmHg, respectively.
 No further increase in effect was seen at dosages greater than 300 mg.
 The dose-response relationships for effects on systolic and diastolic pressure are shown in Figures 1 and 2.
 
 Once-daily administration of therapeutic doses of irbesartan gave peak effects at around 3 to 6 hours and, in one ambulatory blood pressure monitoring study, again around 14 hours.
 This was seen with both once-daily and twice-daily dosing.
-Trough-to-peak ratios for systolic and diastolic response were generally between 60% to 70%.
+Trough-to-peak ratios for systolic and diastolic response were generally between 60% and 70%.
 In a continuous ambulatory blood pressure monitoring study, once-daily dosing with 150 mg gave trough and mean 24-hour responses similar to those observed in patients receiving twice-daily dosing at the same total daily dose.
 In controlled trials, the addition of irbesartan to hydrochlorothiazide doses of 6.25 mg, 12.5 mg, or 25 mg produced further dose-related reductions in blood pressure similar to those achieved with the same monotherapy dose of irbesartan.
 HCTZ also had an approximately additive effect.
@@ -26,7 +26,7 @@ There was essentially no change in average heart rate in irbesartan-treated pati
 
 ## 14.2 Nephropathy in Type 2 Diabetic Patients
 
-The Irbesartan Diabetic Nephropathy Trial (IDNT) was a randomized, placebo- and active- controlled, double-blind, multicenter study conducted worldwide in 1715 patients with type 2 diabetes, hypertension (SeSBP >135 mmHg or SeDBP >85 mmHg), and nephropathy (serum creatinine 1.0 to 3.0 mg/dL in females or 1.2 to 3.0 mg/dL in males and proteinuria ≥900 mg/day).
+The Irbesartan Diabetic Nephropathy Trial (IDNT) was a randomized, placebo- and active-controlled, double-blind, multicenter study conducted worldwide in 1715 patients with type 2 diabetes, hypertension (SeSBP >135 mmHg or SeDBP >85 mmHg), and nephropathy (serum creatinine 1.0 to 3.0 mg/dL in females or 1.2 to 3.0 mg/dL in males and proteinuria ≥900 mg/day).
 Patients were randomized to receive irbesartan 75 mg, amlodipine 2.5 mg, or matching placebo once-daily.
 Patients were titrated to a maintenance dose of irbesartan 300 mg, or amlodipine 10 mg, as tolerated.
 Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and calcium channel blockers) were added as needed to achieve blood pressure goal (≤135/85 or 10 mmHg reduction in systolic blood pressure if higher than 160 mmHg) for patients in all groups.

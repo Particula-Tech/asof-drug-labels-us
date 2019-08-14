@@ -13,6 +13,6 @@ The dosage can be increased to a maximum dose of 300 mg once daily as needed to 
 
 The recommended dose is 300 mg once daily [see Clinical Studies (14.2)].
 
-## 2.4 Dose Adjustment in Volume- and Salt-Depleted Patients
+## 2.4 Dose Adjustment in Volume and Salt-Depleted Patients
 
 The recommended initial dose is 75 mg once daily in patients with depletion of intravascular volume or salt (e.g., patients treated vigorously with diuretics or on hemodialysis) [see Warnings and Precautions (5.2)].

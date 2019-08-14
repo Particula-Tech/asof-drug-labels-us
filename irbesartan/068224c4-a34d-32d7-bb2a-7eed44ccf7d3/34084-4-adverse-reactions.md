@@ -2,7 +2,7 @@
 
 The following important adverse reactions are described elsewhere in the labeling:
 
-- Hypotension in Volume- or Salt-depleted Patients [see Warnings and Precautions (5.2)]
+- Hypotension in Volume or Salt-Depleted Patients [see Warnings and Precautions (5.2)]
 - Impaired Renal Function [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
@@ -18,8 +18,8 @@ Nephropathy in Type 2 Diabetic Patients Hyperkalemia: In the Irbesartan Diabetic
 Discontinuations due to hyperkalemia in the irbesartan group were 2.1% versus 0.4% in the placebo group.
 In IDNT, the adverse reactions were similar to those seen in patients with hypertension with the exception of an increased incidence of orthostatic symptoms which occurred more frequently in the irbesartan versus placebo group: dizziness (10.2% vs 6.0%), orthostatic dizziness (5.4% vs 2.7%) and orthostatic hypotension (5.4% vs 3.2%).
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of irbesartan.
+The following adverse reactions have been identified during postapproval use of irbesartan.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
-Urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); increased liver function tests; jaundice; hepatitis; hyperkalemia; thrombocytopenia; increased CPK; tinitus.
+Urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); anaphylactic reaction including anaphylactic shock; increased liver function tests; jaundice; hepatitis; hyperkalemia; thrombocytopenia; increased CPK; tinnitus.
