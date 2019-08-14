@@ -15,6 +15,9 @@ Injection of methylprednisolone sodium succinate may result in dermal and/or sub
 In order to minimize the incidence of dermal and subdermal atrophy, care must be exercised not to exceed recommended doses in injections.
 Injection into the deltoid muscle should be avoided because of a high incidence of subcutaneous atrophy.
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
+In patients receiving the 40 mg presentation of methylprednisolone sodium succinate during the treatment for acute allergic conditions and where these symptoms worsen or any new allergic symptoms occur, consideration should be given to the potential for hypersensitivity reactions to cow’s milk ingredients (see CONTRAINDICATIONS).
+If appropriate, administration of methylprednisolone sodium succinate should be stopped, and the patient’s condition should be treated accordingly.
+Alternative treatments, including the use of corticosteroid formulations that do not contain ingredients produced from cow’s milk, should be considered for acute allergy management, where appropriate.
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy who are subjected to any unusual stress before, during, and after the stressful situation.
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including methylprednisolone sodium succinate, should not be used for the treatment of traumatic brain injury.
@@ -82,7 +85,8 @@ When reduction in dosage is possible, the reduction should be gradual.
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
 Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
 Discontinuation of corticosteroids may result in clinical improvement.
-Cardio-renal As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
+Cardio-renal Caution is required in patients with systemic sclerosis because an increased incidence of scleroderma renal crisis has been observed with corticosteroids, including methylprednisolone.
+As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
 Endocrine Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
@@ -146,7 +150,7 @@ No adequate studies have been conducted in animals to determine whether corticos
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
 Corticosteroids have been shown to impair fertility in male rats.
 
-## Pregnancy: Teratogenic effects: Pregnancy Category C.
+## Pregnancy: Teratogenic effects
 
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.

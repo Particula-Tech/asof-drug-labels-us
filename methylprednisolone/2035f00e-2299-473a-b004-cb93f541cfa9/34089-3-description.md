@@ -3,7 +3,7 @@
 Methylprednisolone sodium succinate for injection, USP is an anti-inflammatory glucocorticoid, which contains methylprednisolone sodium succinate as the active ingredient.
 Methylprednisolone sodium succinate USP, is the sodium succinate ester of methylprednisolone, and it occurs as a white, or nearly white, odorless hygroscopic, amorphous solid.
 It is very soluble in water and in alcohol; it is insoluble in chloroform and is very slightly soluble in acetone.
-Methylprednisolone sodium succinate USP is the sodium salt of Methylprednisolone hemisuccinate USP, which is formed in situ, with the aid of sodium hydroxide.
+Methylprednisolone sodium succinate USP is the sodium salt of methylprednisolone hemisuccinate USP, which is formed in situ, with the aid of sodium hydroxide.
 The chemical name for methylprednisolone sodium succinate is pregna-1,4-diene-3,20-dione,21-(3-carboxy-1-oxopropoxy)-11,17-dihydroxy-6-methyl-monosodium salt, (6α, 11β), and the molecular weight is 496.53.
 The structural formula is represented below: Methylprednisolone sodium succinate USP is soluble in water; it may be administered in a small volume of diluent and is well suited for intravenous use in situations where high blood levels of methylprednisolone are required rapidly.
 Methylprednisolone sodium succinate for injection, USP is a sterile, white color lyophilized cake, available in preservative and preservative-free formulations: 40 mg (Single Dose Vial): Each mL (when mixed with 1 mL of Water for Injection USP) contains 53 mg of methylprednisolone sodium succinate USP equivalent to 40 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; 17.46 mg dibasic sodium phosphate dried; 25 mg lactose hydrous.
