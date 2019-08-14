@@ -11,4 +11,4 @@ The pH range of the reconstituted solution is 8 to 10.
 Ampicillin for Injection, USP contains 65.8 mg [2.9 mEq] sodium per gram ampicillin.
 Each Ampicillin for Injection, USP pharmacy bulk package bottle contains ampicillin sodium equivalent to 10 grams of ampicillin.
 A pharmacy bulk package is a container of a sterile preparation for parenteral use that contains many single doses.
-The contents of this pharmacy bulk package are intended for use by a pharmacy admixture service for addition to suitable parenteral fluids in the preparation of admixtures for intravenous infusion (See DOSAGE AND ADMINISTRATION, Directions for Proper Use of PHARMACY BULK PACKAGE).
+The contents of this pharmacy bulk package are intended for use by a pharmacy admixture service for addition to suitable parenteral fluids in the preparation of admixtures for intravenous infusion (See DOSAGE AND ADMINISTRATION, Directions for Proper Use of Pharmacy Bulk Package).
