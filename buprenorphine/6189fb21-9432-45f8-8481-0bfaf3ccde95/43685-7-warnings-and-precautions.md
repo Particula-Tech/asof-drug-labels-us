@@ -35,11 +35,7 @@ Use SUBLOCADE with caution in patients with compromised respiratory function (e.
 
 Due to its extended-release characteristics, if SUBLOCADE is discontinued as a result of compromised respiratory function, monitor patients for ongoing buprenorphine effects for several months.
 
-Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
-Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
-
-## 5.5 Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants With Buprenorphine
+## 5.5 Managing Risks From Concomitant Use of Benzodiazepines Or Other CNS Depressants With Buprenorphine
 
 Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose, respiratory depression, and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.

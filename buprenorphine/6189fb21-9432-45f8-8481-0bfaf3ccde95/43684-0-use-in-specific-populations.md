@@ -9,9 +9,24 @@ There are limited data from randomized clinical trials in women maintained on bu
 
 Observational studies have reported congenital malformations among buprenorphine‐exposed pregnancies, but were also not designed appropriately to assess the risk of congenital malformations specifically due to buprenorphine exposure [see Human Data].
 
-In published animal reproduction studies with NMP, an excipient in SUBLOCADE, preimplantation losses, delayed ossification, reduced fetal weight, developmental delays and reduced cognitive function were reported at doses equivalent to the doses of NMP via SUBLOCADE.
-Decreased pup survival at 2 times the dose of NMP and malformation and postimplantation losses were reported at 3 times the dose of NMP via SUBLOCADE.
-In animal reproduction studies with SUBLOCADE, SUBLOCADE administered subcutaneously to pregnant rats and rabbits during the period of organogenesis at a buprenorphine dose equivalent to 38 and 15 times, respectively, the maximum recommended human dose (MRHD) of 300 mg caused embryolethality, which appeared to be attributable primarily to the SUBLOCADE vehicle.
+Embryofetal development studies were conducted with NMP administered daily via SC injection, from gestational day (GD) 6 – 17 or 6 – 18 in rats and rabbits, respectively.
+In rats, the no observed adverse effect level (NOAEL) was 28 times the Maximum Recommended Human Dose (MRHD) of 300 mg SUBLOCADE (mg/m2 based on overall monthly exposure); lower mean fetal body weights (7-12% lower than concurrent controls) were noted at ≥ 94 times the MRHD on an mg/m2 overall monthly exposure basis.
+No fetal external, visceral or skeletal NMP-related effects were noted at 121 times the MRHD on an overall monthly exposure basis.
+
+In rabbits, daily doses 233 times the MRHD of 300 mg SUBLOCADE (mg/m2 based on overall monthly exposure), resulted in lower mean fetal body weights (7-8%), external malformations of the digits and visceral variations of the gallbladder.
+A dose 87 times the MRHD of 300 mg SUBLOCADE (mg/m2 based on overall monthly exposure) had no adverse effects in any embryofetal or maternal parameter.
+
+In a pre- and post-natal development study, pregnant female rats were administered daily NMP via SC injections from GD 6 through end of lactation (postnatal day [PND] 20).
+There were no effects observed on offspring survival, clinical observations, body weights, sexual maturation, behavioral assessments, reproductive parameters including mating, fertility, and fecundity indices, sperm assessments, organ weights, macroscopic findings or GD 13 cesarean section data at ≤47 times the MRHD of 300 mg SUBLOCADE (mg/m2 based on overall monthly exposure).
+A transient reduction in offspring (F1) body weights at 94 times the MRHD on an mg/m2 overall monthly exposure basis was observed throughout the lactation, postweaning periods (PND 21 through PND 28), and early growth phase but body weights returned to control levels during the later period of the F1 growth phase.
+These differences were considered NMP-related but were not adverse due to the slight magnitude in change (-5% to -9%).
+F1 body weights at ≤ 47 times the MRHD on an mg/m2 basis were unaffected.
+At 94 times the MRHD on an mg/m2 basis, NMP-related lower fertility and fecundity indices were observed in the F1 males and females.
+Fertility and fecundity indices ranged from 70% to 75% in comparison to concurrent controls at 95%.
+In addition, these values were outside recent historical control data (80% to 100%) and were considered adverse.
+Reproductive parameters at ≤47 times the MRHD on an mg/m2 basis were unaffected.
+
+In animal reproduction studies with SUBLOCADE, SUBLOCADE administered subcutaneously to pregnant rats and rabbits during the period of organogenesis at a buprenorphine dose equivalent to 38 and 15 times, respectively, the MRHD of 300 mg caused embryolethality, which appeared to be attributable primarily to the SUBLOCADE vehicle.
 In addition, reduced fetal body weights, increased visceral malformations and skeletal malformations were observed in rats and rabbits at a buprenorphine dose equivalent to 38 and 15 times, respectively, the MRHD.
 These effects were also observed with the SUBLOCADE vehicle alone, but the skeletal and visceral malformations in rat appear at least partially attributable to buprenorphine [see Animal Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
@@ -59,16 +74,12 @@ They reported no significant difference in the incidence of NOWS, but in the pre
 
 Animal Data
 
-Preimplantation losses, delayed ossification and reduced fetal body weights were reported in published studies following treatment of pregnant rats during organogenesis with NMP, an excipient in SUBLOCADE, via inhalation at approximately equivalent doses of NMP delivered by SUBLOCADE.
-Fetal malformations and resorptions have also been reported following oral administration of 3 times the MDD of NMP delivered by SUBLOCADE at the MDD based on a body surface area comparison.
+In an embryofetal development study, pregnant female rats administered daily SC NMP from GD 6 -17 had fetuses with lower mean body weights noted at ≥ 94 times the MRHD on an mg/m2 overall monthly exposure basis (288 mg/kg/day).
+No fetal external, visceral or skeletal NMP-related effects were noted at doses up to 370 mg/kg/day or 121 times the MRHD on an overall monthly exposure basis.
+An embryofetal study in pregnant rabbits with SC NMP doses of up to 356 mg/kg/day or 233 times the MRHD on an overall monthly exposure basis resulted in lower fetal body weights, external malformations of the digits and visceral variations of the gallbladder.
+A dose of 133 mg/kg/day or 87 times the MRHD on an overall monthly exposure basis no adverse effects in any fetal or maternal parameter.
 
-Post-implantation loss and increased cardiovascular and skull malformations were demonstrated in pregnant rabbits administered oral NMP, an excipient in SUBLOCADE, at doses 3.2 times the human MDD of NMP via SUBLOCADE in the absence of maternal toxicity.
-No adverse effects were reported at an oral dose equivalent to the MDD via SUBLOCADE based on a body surface area comparison.
-
-Decreased pup survival was noted following oral treatment of pregnant rats prior to and during gestation and lactation with NMP, an excipient in SUBLOCADE at doses 1.8 times the MDD.
-Developmental delays and impaired cognitive function were reported in pups born to pregnant rats treated with NMP via inhalation during gestation at doses equivalent to the MDD of NMP via SUBLOCADE based on a body surface area comparison.
-
-In an embryofetal development study in rats, SUBLOCADE administered subcutaneously to pregnant animals before mating and again on GD 7 during the period of organogenesis resulted in increased post-implantation loss, which correlated with higher mean number of resorptions and decreased number of viable fetuses per litter, and decreased mean fetal body weights at 900 mg/kg (approximately 38 times the maximum recommended human dose [MRHD] of 300 mg of SUBLOCADE on an AUC basis); however, similar effects were observed with an equivalent level of ATRIGEL® delivery system alone, indicating they may be attributable to the vehicle.
+In an embryofetal development study in rats, SUBLOCADE administered subcutaneously to pregnant animals before mating and again on GD 7 during the period of organogenesis resulted in increased post-implantation loss, which correlated with higher mean number of resorptions and decreased number of viable fetuses per litter, and decreased mean fetal body weights at 900 mg/kg (approximately 38 times the MRHDof 300 mg of SUBLOCADE on an AUC basis); however, similar effects were observed with an equivalent level of ATRIGEL® delivery system alone, indicating they may be attributable to the vehicle.
 Dose-related increases in incidences of skeletal malformations of the head and visceral malformations were observed with SUBLOCADE with significant changes at 900 mg/kg (approximately 38 times the MRHD on an AUC basis).
 Although similar effects were observed with equivalent levels of ATRIGEL® delivery system, the incidence of skeletal malformations, primarily skull malformations, was higher in the SUBLOCADE groups suggesting that buprenorphine contributed to the increased incidence.
 Based on these results, the NOAEL for developmental toxicity was 300 mg/kg (approximately 15 times the MRHD on an AUC basis).
@@ -77,7 +88,19 @@ In an embryofetal development study in rabbits, administration of a single subcu
 There was also an increased litter incidence of external malformations, visceral, and skeletal malformations and variations at 390 mg/kg SUBLOCADE (approximately 15 times the MRHD on an AUC basis); however, similar effects were observed with an equivalent level of the ATRIGEL® delivery system, indicating they may be attributable to the vehicle In addition, increased post-implantation loss, which correlated with increased mean number of resorptions and decreased mean number of viable fetuses, and decreased fetal body weights were observed at 390 mg/kg (approximately 15 times the MRHD on an AUC basis); however, similar findings were also observed with an equivalent level of the ATRIGEL® delivery system alone.
 Based on these results, the NOAEL for developmental toxicity for SUBLOCADE was 78 mg/kg (approximately 3 times the MRHD on an AUC basis).
 
-In a pre- and postnatal development study in rats, SUBLOCADE was administered subcutaneously to pregnant animals once during implantation (on Gestation Day 7) and once during weaning (on Lactation Day 7.
+In a pre- and post-natal development study, pregnant female rats were administered daily SC NMP injections from GD 6 through parturition and the end of lactation (PND 20).
+No adverse effects from administration of NMP in pregnant or lactating females were observed on survival, gestation and lactation body weights, body weight change, food consumption, parturition, or weaning of the offspring.
+No effects were observed on offspring survival, clinical observations, body weights, sexual maturation (vaginal opening and preputial separation), behavioral assessments (passive avoidance and motor activity), reproductive parameters including mating, fertility, and fecundity indices, sperm assessments (motility, concentration, and morphology) organ weights, macroscopic findings or GD 13 cesarean section data at ≤144 mg/kg/day or ≤47 times the MRHD on an overall monthly exposure basis.
+
+A transient reduction in F1 body weights at 288 mg/kg/day (94 times the MRHD on an overall monthly exposure basis) was observed throughout the lactation, postweaning periods (PND 21 through PND 28), and early growth phase but body weights returned to control levels during the later period of the F1 growth phase.
+These differences were considered NMP-related but were not adverse due to the slight magnitude in change (-5% to -9%).
+F1 body weights at ≤144 mg/kg/day or ≤47 times the MRHD on a mg/m2 overall monthly exposure basis were unaffected.
+At 288 mg/kg/day or 94 times the MRHD on a mg/m2 overall monthly exposure basis, NMP-related lower fertility and fecundity indices were observed in the F1 males and females.
+Fertility and fecundity indices ranged from 70% to 75% in comparison to concurrent controls at 95%.
+In addition, these values were outside recent historical control data (80% to 100%) and were considered adverse.
+Reproductive parameters at ≤ 144 mg/kg/day or ≤47 times the MRHD on a mg/m2 overall monthly exposure basis were unaffected.
+
+In a pre- and postnatal development study in rats, SUBLOCADE was administered subcutaneously to pregnant animals once during implantation (on Gestation Day 7) and once during weaning (on Lactation Day 7).
 There were no adverse effects on offspring survival, sexual maturation, behavioral assessment, or reproductive performance at up to 300 mg/kg (approximately 10 times the MRHD on an mg/m2 basis).
 
 ## 8.2 Lactation
