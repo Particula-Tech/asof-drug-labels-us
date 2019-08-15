@@ -10,6 +10,8 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Risk Summary
 
 There are insufficient human data on the use of BIKTARVY during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
+Dolutegravir, another integrase inhibitor, has been associated with neural tube defects (NTDs) (see Data).
+Discuss the benefit-risk of using BIKTARVY with individuals of childbearing potential, particularly if pregnancy is being planned.
 Bictegravir (BIC) and tenofovir alafenamide (TAF) use in women during pregnancy has not been evaluated; however, emtricitabine (FTC) use during pregnancy has been evaluated in a limited number of women reported to the APR.
 Available data from the APR show no difference in the overall risk of major birth defects for FTC compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
@@ -24,6 +26,9 @@ In rat pre/postnatal development studies, maternal systemic exposures (AUC) were
 Data
 
 Human Data
+
+Bictegravir: Data from an observational study in Botswana showed that dolutegravir, another integrase inhibitor, was associated with increased risk of neural tube defects when administered at the time of conception and in early pregnancy.
+Data available to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to address this risk with BIC.
 
 Emtricitabine: Based on prospective reports to the APR of 3,406 exposures to FTC-containing regimens during pregnancy resulting in live births (including 2,326 exposed in the first trimester and 1,080 exposed in the second/third trimester), there was no difference between FTC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
 The prevalence of birth defects in live births was 2.3% (95% CI: 1.7% to 3.0%) with first trimester exposure to FTC-containing regimens and 2.0% (95% CI: 1.3% to 3.1%) with the second/third trimester exposure to FTC-containing regimens.
@@ -76,7 +81,7 @@ Tenofovir was excreted into the milk of lactating monkeys following a single sub
 The safety and effectiveness of BIKTARVY for the treatment of HIV-1 infection was established in pediatric patients with body weight greater than or equal to 25 kg [see Indications and Usage (1) and Dosage and Administration (2.2)].
 
 Use of BIKTARVY in pediatric patients between the ages of 6 to less than 18 years and weighing at least 25 kg is supported by trials in adults and by an open-label trial in virologically-suppressed pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg receiving BIKTARVY through Week 48 (cohort 1 of Trial 1474, N=50) and in virologically-suppressed pediatric subjects aged 6 to less than 12 years and weighing at least 25 kg receiving BIKTARVY through Week 24 (cohort 2 of Trial 1474, N=50).
-The safety and efficacy of BIKTARVY in these pediatric subjects was similar to that in adults, and there was no clinically significant change in exposure for the components of BIKTARVY [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+The safety and efficacy of BIKTARVY in these pediatric subjects was similar to that in adults, and there was no clinically significant change in exposure for the components of BIKTARVY [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
 
 Safety and effectiveness of BIKTARVY in pediatric patients weighing less than 25 kg have not been established.
 

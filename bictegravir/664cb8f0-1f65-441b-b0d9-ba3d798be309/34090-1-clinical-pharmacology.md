@@ -79,7 +79,7 @@ Pediatric Patients
 
 Mean BIC Ctrough was lower in 50 pediatric patients aged 12 to less than 18 years and weighing at least 35 kg who received BIKTARVY in Trial 1474 relative to adults following administration of BIKTARVY, but was not considered clinically significant based on exposure-response relationships; exposures of FTC and TAF in these pediatric patients were similar to those in adults (Table 6).
 
-Table 6 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects Aged 12 to less than 18 years.
+Table 6 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects Aged 12 to less than 18 years
 
 | Parameter Mean (CV%) | BictegravirFrom Population PK analysis of cohort 1 of Trial 1474 (n=50 for BIC; n=49 for TAF). | EmtricitabineFrom Intensive PK analysis of cohort 1 of Trial 1474 (n=24). | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
@@ -235,8 +235,8 @@ Phenotypic resistance analyses of failure isolates found fold-changes in drug su
 In Virologically Suppressed Adult Subjects: In 2 switch trials, Trials 1844 and 1878 [see Clinical Studies (14.3)], of virologically suppressed HIV-1 infected subjects (n=572), only one subject with virologic rebound in the resistance analysis population had IN genotypic and phenotypic data, and 2 rebounders had RT genotypic and phenotypic data.
 No subjects had HIV-1 with treatment-emergent genotypic or phenotypic resistance to BIC, FTC, or TAF.
 
-In Virologically Suppressed Pediatric Subjects: In Trial 1474 [see Clinical Studies (14.4)], two of 50 subjects in cohort 1, were evaluated for the development of resistance through Week 48; no amino acid substitutions known to be associated with resistance to BIC, FTC, or TFV were detected.
-No subjects in cohort 2 met criteria for resistance analyses.
+In Virologically Suppressed Pediatric Subjects: In Trial 1474 [see Clinical Studies (14.4)], two of 50 subjects in cohort 1 were evaluated for the development of resistance through Week 48; no amino acid substitutions known to be associated with resistance to BIC, FTC, or TFV were detected.
+No subjects in cohort 2 met the criteria for resistance analyses.
 
 Cross-Resistance
 
