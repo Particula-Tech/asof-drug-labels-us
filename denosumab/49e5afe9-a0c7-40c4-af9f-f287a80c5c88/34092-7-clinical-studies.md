@@ -36,10 +36,9 @@ Effect on Hip Fractures
 The incidence of hip fracture was 1.2% for placebo-treated women compared to 0.7% for Prolia-treated women at year 3.
 The age-adjusted absolute risk reduction of hip fractures was 0.3% with a relative risk reduction of 40% at 3 years (p = 0.04) (Figure 1).
 
-Figure 1.
-Cumulative Incidence of Hip Fractures Over 3 Years
-
-N = number of subjects randomized
+| Figure 1. Cumulative Incidence of Hip Fractures Over 3 Years |
+| --- |
+| N = number of subjects randomized |
 
 Effect on Nonvertebral Fractures
 

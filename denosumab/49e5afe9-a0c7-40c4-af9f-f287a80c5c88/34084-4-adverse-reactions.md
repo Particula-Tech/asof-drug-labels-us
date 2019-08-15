@@ -175,8 +175,7 @@ Adverse Reactions Occurring in ≥ 2% of Patients with Glucocorticoid-induced Os
 | Dizziness | 9 (2.3) | 8 (2.1) |
 | Fall | 8 (2.0) | 7 (1.8) |
 | Polymyalgia rheumatica* | 8 (2.0) | 1 (0.3) |
-
-*Events of worsening of underlying polymyalgia rheumatica.
+| *Events of worsening of underlying polymyalgia rheumatica. |  |  |
 
 Osteonecrosis of the Jaw
 
@@ -228,6 +227,7 @@ The following adverse reactions have been identified during post approval use of
 - Parathyroid Hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
 - Multiple vertebral fractures following discontinuation of Prolia
 - Cutaneous and mucosal lichenoid drug eruptions (e.g. lichen planus-like reactions)
+- Alopecia
 
 ## 6.3 Immunogenicity
 
