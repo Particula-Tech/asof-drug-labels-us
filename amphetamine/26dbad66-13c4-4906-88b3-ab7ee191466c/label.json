@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212619"
+  ],
+  "inn": "amphetamine",
+  "labeler": "Granules Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "70010-040-01",
+    "70010-041-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amphetamine sulfate",
+      "name": "Amphetamine Sulfate"
+    }
+  ],
+  "setid": "26dbad66-13c4-4906-88b3-ab7ee191466c",
+  "source": "dailymed"
+}
