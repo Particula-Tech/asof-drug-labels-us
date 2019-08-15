@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212172"
+  ],
+  "inn": "methenamine",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-332-01",
+    "42571-332-23"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "Methenamine Hippurate"
+    }
+  ],
+  "setid": "e07ddd63-4725-49db-bec2-bd4f966c6e48",
+  "source": "dailymed"
+}
