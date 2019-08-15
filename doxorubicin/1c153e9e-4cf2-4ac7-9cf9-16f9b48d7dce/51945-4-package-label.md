@@ -1,8 +1,40 @@
 # PRINCIPAL DISPLAY PANEL - 20 mg Vial Carton
 
-693388
+NDC 0338-0063-01
 
-REYNDERS 3 R R
+DOXIL (DOXOrubicin HCl liposome injection)
+
+20 mg in 10 mL (2 mg/mL)
+
+Single-Dose Vial.
+Discard unused portion.
+
+LIPOSOMAL FORMULATION - DO NOT SUBSTITUTE FOR DOXORUBICIN HCL
+
+FOR INTRAVENOUS INFUSION ONLY
+
+Rx only
+
+Cytotoxic
+
+HA-65-01-746
+
+Refrigerate, 2°-8°C (36°-46°F).
+Do Not Freeze.
+
+See package insert for dosage information.
+
+Baxter Healthcare Corporation Deerfield, IL 60015
+
+Baxter, Doxil, and Stealth are registered trademarks of Baxter International Inc., or its subsidiaries.
+
+Bar Code 01003380063017
+
+Bar Code 693388
+
+LOT
+
+EXP
 
 NDC 0338-0063-01 DOXIL (DOXOrubicin HCl liposome injection)
 
@@ -104,9 +136,41 @@ Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine; hydroch
 
 HA-80-02-744
 
-693387
+NDC 0338-0067-01
 
-REYNDERS 3 R R
+DOXIL (DOXOrubicin HCl liposome injection)
+
+50 mg in 25 mL (2 mg/mL)
+
+Single-Dose Vial.
+Discard unused portion.
+
+LIPOSOMAL FORMULATION - DO NOT SUBSTITUTE FOR DOXORUBICIN HCL
+
+FOR INTRAVENOUS INFUSION ONLY
+
+Rx only
+
+Cytotoxic
+
+HA-65-01-747
+
+Refrigerate, 2°-8°C (36°-46°F).
+Do Not Freeze.
+
+See package insert for dosage information.
+
+Baxter Healthcare Corporation Deerfield, IL 60015
+
+Baxter, Doxil, and Stealth are registered trademarks of Baxter International Inc., or its subsidiaries.
+
+Bar Code 01003380067015
+
+Bar Code 693387
+
+LOT
+
+EXP
 
 NDC 0338-0067-01
 

@@ -35,19 +35,19 @@ Of the 474 patients, the median age at diagnosis was 60 years (range 25 to 87), 
 There was no statistically significant difference in TTP between the two arms.
 Results are provided in Table 10.
 
-Table 10: Results of Efficacy Analyses
+Table 10: Results of Efficacy AnalysesAnalysis based on investigators' strata for protocol defined ITT population.
 
 |  | DOXIL Liposomal Infusion (n=239) | Topotecan (n=235) |
 | --- | --- | --- |
 |  | Protocol Defined ITT Population |  |
 | TTP (Protocol Specified Primary Endpoint) |  |  |
-| Median (Months) | 4.1 | 4.2 |
-| p-value | 0.62 |  |
-| Hazard Ratio | 0.96 |  |
+| Median (Months)Kaplan-Meier estimates. | 4.1 | 4.2 |
+| p-valuep-value is based on the stratified log-rank test. | 0.62 |  |
+| Hazard RatioHazard ratio is based on Cox proportional-hazard model with the treatment as single independent variable. A hazard ratio less than 1 indicates an advantage for DOXIL liposomal infusion. | 0.96 |  |
 | 95% CI for Hazard Ratio | (0.76, 1.20) |  |
 | Overall Survival |  |  |
 | Median (Months) | 14.4 | 13.7 |
-| p-value | 0.05 |  |
+| p-valuep-value not adjusted for multiple comparisons. | 0.05 |  |
 | Hazard Ratio | 0.82 |  |
 | 95% CI for Hazard Ratio | (0.68, 1.00) |  |
 | Response Rate |  |  |
