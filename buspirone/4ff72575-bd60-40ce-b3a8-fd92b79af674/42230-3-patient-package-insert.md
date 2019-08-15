@@ -52,7 +52,7 @@ If your doctor prescribed the 30 mg tablet:
 To break a tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown in the photo.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
 
-Manufactured for:
+Distributed by:
 
 Heritage Pharmaceuticals Inc.
 
@@ -60,6 +60,6 @@ East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-Revised: 04/2018
+51U000000211US03
 
-AP/DRUGS/37/2003
+Revised: 06/2019
