@@ -5,7 +5,9 @@
   "inn": "fluorouracil",
   "labeler": "Pierre Fabre Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "64370-421-40"
+    "64370-421-03",
+    "64370-421-40",
+    "64370-421-83"
   ],
   "products": [
     {
