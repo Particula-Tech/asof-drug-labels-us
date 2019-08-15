@@ -36,11 +36,11 @@ Because of the potential for serious adverse reactions from vigabatrin in nursin
 
 The safety and effectiveness of SABRIL as adjunctive treatment of refractory complex partial seizures in pediatric patients aged 10 to 16 years of age have been established [see Clinical Studies (14.1)].
 The dosing recommendation in this population varies according to age group and is weight based [see Dosage and Administration (2.2)].
-Adverse reactions in this pediatric population are similar to those observed in the adult population [see Adverse Reactions, (6.1)].
+Adverse reactions in this pediatric population are similar to those observed in the adult population [see Adverse Reactions, (6.1).
 
 The safety and effectiveness of SABRIL have not been established in pediatric patients under 10 years of age with refractory complex partial seizures.
 
-The safety and effectiveness of SABRIL as monotherapy for pediatric patients with infantile spasms (1 month to 2 years of age) have been established [see Dosage and Administration (2.3) and Clinical Studies (14.2)].
+The safety and effectiveness of SABRIL as monotherapy for pediatric patients with infantile spasms (1 month to 2 years of age) have been established [see Dosage and Administration (2.3) and Clinical Studies (14.2).
 
 Duration of therapy for infantile spasms was evaluated in a post hoc analysis of a Canadian Pediatric Epilepsy Network (CPEN) study of developmental outcomes in infantile spasms patients.
 This analysis suggests that a total duration of 6 months of vigabatrin therapy is adequate for the treatment of infantile spasms.

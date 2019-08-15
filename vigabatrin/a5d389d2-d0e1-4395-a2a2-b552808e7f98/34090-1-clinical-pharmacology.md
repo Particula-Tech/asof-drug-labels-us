@@ -20,7 +20,7 @@ Bioequivalence has been established between the oral solution and tablet formula
 The following PK information (Tmax, half-life, and clearance) of vigabatrin was obtained from stand-alone PK studies and population PK analyses.
 
 Absorption Following oral administration, vigabatrin is essentially completely absorbed.
-The time to maximum concentration (Tmax) is approximately 1 hour for children (10 years – 16 years) and adults, and approximately 2.5 hours for infants (5 months - 2 years).
+The time to maximum concentration (Tmax) is approximately 1 hour for children (10 years – 16 years) and adults, and approximately 2.5 hours for infants (5 months – 2 years).
 There was little accumulation with multiple dosing in adult and pediatric patients.
 A food effect study involving administration of vigabatrin to healthy volunteers under fasting and fed conditions indicated that the Cmax was decreased by 33%, Tmax was increased to 2 hours, and AUC was unchanged under fed conditions.
 

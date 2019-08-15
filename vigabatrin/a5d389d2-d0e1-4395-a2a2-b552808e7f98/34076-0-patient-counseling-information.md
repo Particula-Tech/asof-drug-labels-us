@@ -35,7 +35,7 @@ Use in Pregnancy Instruct patients to notify their physician if they become preg
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/[see Use in Specific Populations (8.1)].
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
 Withdrawal of SABRIL Therapy Instruct patients and caregivers not to suddenly discontinue SABRIL therapy without consulting with their healthcare provider.
 As with all AEDs, withdrawal should be gradual [see Warnings and Precautions (5.6)].

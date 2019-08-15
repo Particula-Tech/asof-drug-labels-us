@@ -17,7 +17,7 @@ Monitoring of SABRIL plasma concentrations to optimize therapy is not helpful.
 
 Administration
 
-Sabril is given orally with or without food.
+SABRIL is given orally with or without food.
 
 SABRIL powder for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
 
@@ -54,7 +54,7 @@ The initial daily dosing is 50 mg/kg/day given in two divided doses (25 mg/kg tw
 
 Table 2 provides the volume of the 50 mg/mL dosing solution that should be administered as individual doses in infants of various weights.
 
-| Table 2 Infant Dosing Table |  |  |  |  |
+| Table 2. Infant Dosing Table |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Weight [kg] | Starting Dose 50 mg/kg/day |  | Maximum Dose 150 mg/kg/day |  |
 | 3 | 1.5 mL twice daily |  | 4.5 mL twice daily |  |
@@ -113,10 +113,10 @@ The concentration after reconstitution is 50 mg/mL.
 
 | Table 3. Number of SABRIL Packets and mL of Water Needed for Each Individual Dose |  |  |
 | --- | --- | --- |
-| Individual Dose [mg][Given Twice Daily] | Total Number ofSabril Packets | Total mL of WaterRequired for Dissolving |
-| 0 to 500 | 1 packet | 10 mL |
-| 501 to 1000 | 2 packets | 20 mL |
-| 1001 to 1500 | 3 packets | 30 mL |
+| Individual Dose [mg][Given Twice Daily] | Total Number ofSABRIL Packets | Total mL of WaterRequired for Dissolving |
+| 0 to 500 | 1 Packet | 10 mL |
+| 501 to 1000 | 2 Packets | 20 mL |
+| 1001 to 1500 | 3 Packets | 30 mL |
 
 Discard the resulting solution if it is not clear (or free of particles) and colorless.
 Each individual dose should be prepared and used immediately.
