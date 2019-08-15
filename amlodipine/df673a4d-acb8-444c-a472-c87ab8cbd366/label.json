@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA211340"
+  ],
+  "inn": "amlodipine",
+  "labeler": "Silvergate Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52652-5001-1"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "amlodipine",
+      "name": "Katerzia"
+    }
+  ],
+  "setid": "df673a4d-acb8-444c-a472-c87ab8cbd366",
+  "source": "dailymed"
+}
