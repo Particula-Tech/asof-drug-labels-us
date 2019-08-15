@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide andInstructions for Use).
 
 Administration Instructions for SABRIL Powder for Oral Solution
 

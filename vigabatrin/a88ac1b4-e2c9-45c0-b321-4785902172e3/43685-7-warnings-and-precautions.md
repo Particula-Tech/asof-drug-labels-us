@@ -80,6 +80,11 @@ For adults treated with SABRIL, routine MRI surveillance is unnecessary as there
 
 ## 5.4 Neurotoxicity
 
+Intramyelinic Edema (IME) has been reported in postmortem examination of infants being treated for IS with vigabatrin.
+
+Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have also been observed in some infants treated for IS with vigabatrin.
+Studies of the effects of vigabatrin on MRI and EP in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
+
 Vacuolation, characterized by fluid accumulation and separation of the outer layers of myelin, has been observed in brain white matter tracts in adult and juvenile rats and adult mice, dogs, and possibly monkeys following administration of vigabatrin.
 This lesion, referred to as intramyelinic edema (IME), was seen in animals at doses within the human therapeutic range.
 A no-effect dose was not established in rodents or dogs.
@@ -97,11 +102,6 @@ These effects in young animals occurred at doses lower than those producing neur
 In a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodegeneration in the brain of young rats when administered by intraperitoneal injection on postnatal days 5-7.
 
 Administration of vigabatrin to female rats during pregnancy and lactation at doses below those used clinically resulted in hippocampal vacuolation and convulsions in the mature offspring.
-
-Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated for IS with vigabatrin.
-Studies of the effects of vigabatrin on MRI and EP in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
-
-Intramyelinic Edema (IME) has been reported very rarely in postmortem examination of vigabatrin treated infants.
 
 ## 5.5 Suicidal Behavior and Ideation
 

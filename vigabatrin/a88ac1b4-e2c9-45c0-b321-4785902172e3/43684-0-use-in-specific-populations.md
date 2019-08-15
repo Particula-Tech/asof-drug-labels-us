@@ -34,7 +34,7 @@ Because of the potential for serious adverse reactions from vigabatrin in nursin
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of SABRIL as adjunctive treatment of refractory complex partial seizures in pediatric patients aged 10 to 16 years of age have been established [see Clinical Studies (14.1)].
+rThe safety and effectiveness of SABRIL as adjunctive treatment of refractory complex partial seizures in pediatric patients aged 10 to 16 years of age have been established [see Clinical Studies (14.1)].
 The dosing recommendation in this population varies according to age group and is weight based [see Dosage and Administration (2.2)].
 Adverse reactions in this pediatric population are similar to those observed in the adult population [see Adverse Reactions (6.1)].
 

@@ -103,7 +103,7 @@ height (Ht) in cm; serum creatinine (Scr) in mg/dL K (proportionality constant):
 
 - Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (×0.85 for female patients)
 
-The effect of dialysis on SABRIL clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
+The effect of dialysis on SABRIL clearance has not been adequately studied [see Clinical Pharmacology (12.3)and Use in Specific Populations (8.6)].
 
 ## 2.5 Preparation and Administration Instructions for SABRIL Powder for Oral Solution
 
