@@ -5,4 +5,4 @@ Aflibercept is a dimeric glycoprotein with a protein molecular weight of 97 kilo
 Aflibercept is produced in recombinant Chinese hamster ovary (CHO) cells.
 
 EYLEA (aflibercept) Injection is a sterile, clear, and colorless to pale yellow solution.
-EYLEA is supplied as a preservative-free, sterile, aqueous solution for intravitreal injection in a single-dose, glass vial designed to deliver 0.05 mL (50 microliters) of solution containing 2 mg of EYLEA (40 mg/mL in 10 mM sodium phosphate, 40 mM sodium chloride, 0.03% polysorbate 20, and 5% sucrose, pH 6.2).
+EYLEA is supplied as a preservative-free, sterile, aqueous solution for intravitreal injection in a single-dose pre-filled glass syringe or a single-dose glass vial designed to deliver 0.05 mL (50 microliters) of solution containing 2 mg of aflibercept in 10 mM sodium phosphate, 40 mM sodium chloride, 0.03% polysorbate 20, and 5% sucrose, with a pH of 6.2.

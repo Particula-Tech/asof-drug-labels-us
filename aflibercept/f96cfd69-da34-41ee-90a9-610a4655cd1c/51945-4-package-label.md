@@ -15,3 +15,20 @@ Carton contents: Each EYLEA carton contains
 - one package insert
 
 Rx ONLY
+
+# PRINCIPAL DISPLAY PANEL - 2 mg/0.05 mL Syringe Carton
+
+NDC 61755-005-01 Rx ONLY
+
+EYLEA® (aflibercept) Injection For Intravitreal Injection
+
+2 mg/0.05 mL
+
+Single-dose Pre-filled Syringe
+
+Carton contents:
+
+- one blister pack containing one sterile, single dose pre-filled glass syringe
+- package insert
+
+REGENERON
