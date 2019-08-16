@@ -262,10 +262,14 @@ Toronto, Ontario
 
 M9L 1T9
 
+Manufactured by:
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
 Manufactured for:
 
 Apotex Corp.
 
 Weston, FL33326
-
-May 2017
