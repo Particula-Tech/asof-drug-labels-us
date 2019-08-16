@@ -215,13 +215,15 @@ Other reported hypersensitivity reactions include pruritus, hives, bronchospasm,
 Patients with a history of hypersensitivity reactions to tramadol and other opioids may be at increased risk and therefore should not receive tramadol hydrochloride extended-release tablets.
 If anaphylaxis or other hypersensitivity occurs, stop administration of tramadol hydrochloride extended-release tablets immediately, discontinue tramadol hydrochloride extended-release tablets permanently, and do not rechallenge with any formulation of tramadol.
 Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction [see CONTRAINDICATIONS and PRECAUTIONS; Information forPatients].
-Withdrawal Do not abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
-Rapid tapering of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see DOSAGE and ADMINISTRATION, DRUG ABUSE and DEPENDENCE].
-Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride extended-release tablets.
-In these patients, mixed agonist/antagonist and partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+Withdrawal
 
-When discontinuing tramadol hydrochloride extended-release tablets, gradually taper the dosage [see DOSAGE and ADMINISTRATION].
-Do not abruptly discontinue tramadol hydrochloride extended-release tablets [see DRUG ABUSE and DEPENDENCE].
+Do not abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
+When discontinuing tramadol hydrochloride extended-release tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see DOSAGE and ADMINISTRATION, DRUG ABUSE and DEPENDENCE].
+
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride extended-release tablets.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions].
+
 Risks of Driving and Operating Machinery
 
 Tramadol hydrochloride extended-release tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
@@ -274,7 +276,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see WARNINGS].
-Instruct patients to take steps to store tramadol hydrochloride extended-release tablets securely and to dispose of unused tramadol hydrochloride extended-release tablets in accordance with the local state guidelines and/or regulations.
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
 Advise caregivers that tramadol hydrochloride extended-release tablets are contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
