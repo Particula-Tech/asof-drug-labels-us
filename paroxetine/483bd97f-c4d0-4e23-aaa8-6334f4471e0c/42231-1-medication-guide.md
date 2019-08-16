@@ -58,7 +58,7 @@ Visual problems
 
 - eye pain
 - changes in vision
-- swelling or redness in or around the eyeOnly some people are at risk for these problems.
+- swelling or redness in or around the eye Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 4.
@@ -274,10 +274,14 @@ Toronto, Ontario
 
 M9L 1T9
 
+Manufactured by:
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
 Manufactured for:
 
 Apotex Corp.
 
 Weston, FL 33326
-
-May 2017
