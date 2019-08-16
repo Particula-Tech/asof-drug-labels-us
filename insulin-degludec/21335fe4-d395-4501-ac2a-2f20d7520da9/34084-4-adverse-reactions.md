@@ -21,7 +21,7 @@ The mean age was 57 years and 2.8% were older than 75 years; 52.6% were male, 75
 The mean body mass index (BMI) was 31.8 kg/m2.
 The mean duration of diabetes was 8.7 years and the mean HbA1c at baseline was 8.2%.
 A history of neuropathy, ophthalmopathy, nephropathy and cardiovascular disease at baseline was reported in 25.4%, 12.0%, 6.5% and 6.3% respectively.
-The mean eGFR at baseline was 88.3 mL/min/1.73 m2 and 6.24% of the patients had an eGFR less than 60 mL/min/1.73 m2.
+The mean estimated glomerular filtration rate (eGFR) at baseline was 88.3 mL/min/1.73 m2 and 6.24% of the patients had an eGFR less than 60 mL/min/1.73 m2.
 
 Table 3: Adverse Reactions Occurring in ≥5% of XULTOPHY 100/3.6-Treated Patients with Type 2 Diabetes Mellitus
 
@@ -46,13 +46,13 @@ No clinically important differences in risk of severe hypoglycemia between XULTO
 
 Table 4: Hypoglycemia Episodes Reported in XULTOPHY 100/3.6-Treated Patients with T2DM
 
-|  | Patients naïve to basal insulin or GLP-1 receptor agonist |  | Patients currently on liraglutide | Patients Currently on basal insulin |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | XULTOPHY 100/3.6 NCT01336023 | XULTOPHY 100/3.6 NCT01618162 | XULTOPHY 100/3.6NCT01676116 | XULTOPHY 100/3.6NCT01392573 | XULTOPHY 100/3.6NCT01952145 |  |  |
-| Total Subjects (N) | 825 | 288 | 291 | 199 | 278 |  |  |
-| Severe Hypoglycemia (%)† | 0.2 | 0.7 | 0.3 | 0.5 | 0.0 |  |  |
-| Hypoglycemia with a glucose level <54 mg/dL (%)* | 27.6 | 37.2 | 27.1 | 22.1 | 24.8 |  |  |
-| † episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions. |  |  |  |  |  |  |  |
+|  | Patients naïve to basal insulin or GLP-1 receptor agonist |  |  | Patients currently on GLP-1 receptor agonist | Patients Currently on basal insulin |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | XULTOPHY 100/3.6 NCT01336023 | XULTOPHY 100/3.6 NCT01618162 | XULTOPHY 100/3.6NCT02773368 | XULTOPHY 100/3.6NCT01676116 | XULTOPHY 100/3.6NCT01392573 | XULTOPHY 100/3.6NCT01952145 |  |  |
+| Total Subjects (N) | 825 | 288 | 209 | 291 | 199 | 278 |  |  |
+| Severe Hypoglycemia (%)† | 0.2 | 0.7 | 0.5 | 0.3 | 0.5 | 0.0 |  |  |
+| Hypoglycemia with a glucose level <54 mg/dL (%)* | 27.6 | 37.2 | 14.4 | 27.1 | 22.1 | 24.8 |  |  |
+| † episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions. |  |  |  |  |  |  |  |  |
 
 *Episodes of hypoglycemia with a glucose level below 54 mg/dL that are associated with or without symptoms of hypoglycemia.
 

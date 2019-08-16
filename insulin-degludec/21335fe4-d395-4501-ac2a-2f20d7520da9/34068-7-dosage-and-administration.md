@@ -16,7 +16,7 @@ In patients naïve to basal insulin or a GLP-1 receptor agonist
 
 In patients currently on basal insulin or a GLP-1 receptor agonist
 
-- •Discontinue therapy with basal insulin or liraglutide prior to initiation of XULTOPHY 100/3.6.
+- •Discontinue therapy with basal insulin or GLP-1 receptor agonist prior to initiation of XULTOPHY 100/3.6.
 - •The recommended starting dose of XULTOPHY 100/3.6 is 16 units (16 units of insulin degludec and 0.58 mg of liraglutide) given subcutaneously once-daily (see Table 1).
 
 Table 1: Units of Insulin Degludec and Milligrams of Liraglutide in Each Dosage of XULTOPHY 100/3.6
@@ -70,10 +70,10 @@ Table 1: Units of Insulin Degludec and Milligrams of Liraglutide in Each Dosage 
 
 ## 2.3 Titration of XULTOPHY 100/3.6
 
-- •After starting the recommended starting dose of XULTOPHY 100/3.6 [see Dosage and Administration (2.2)], titrate the dosage upwards or downwards by two units (see Table 2) every three to four days based on the patient’s metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
+- •After starting the recommended starting dose of XULTOPHY 100/3.6 [see Dosage and Administration (2.2)], titrate the dosage upwards or downwards by two units (see Table 2) once weekly or twice weekly (every three to four days), based on the patient’s metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
 - •To minimize the risk of hypoglycemia or hyperglycemia, additional titration may be needed with changes in physical activity, meal patterns (i.e., macronutrient content or timing of food intake), or renal or hepatic function; during acute illness; or when used with other medications [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
-Table 2: Recommended Titration of XULTOPHY 100/3.6 (Every Three to Four Days)
+Table 2: Recommended Titration of XULTOPHY 100/3.6 (Once or Twice Weekly)
 
 | Self-Monitored Fasting Plasma Glucose | XULTOPHY 100/3.6 Dosage Adjustment |
 | --- | --- |

@@ -62,9 +62,9 @@ Pregnancy
 
 Instruct female patients of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Date of Issue: 02/2019
+Date of Issue: 08/2019
 
-Version: 3
+Version: 4
 
 © 2016 - 2019 Novo Nordisk
 

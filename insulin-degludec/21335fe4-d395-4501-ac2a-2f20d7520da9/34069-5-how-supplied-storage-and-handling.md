@@ -7,7 +7,7 @@ The XULTOPHY 100/3.6 pen dials in one unit increments.
 
 | Dosage Unit/Strength | Package size | NDC # |
 | --- | --- | --- |
-| 3 mL XULTOPHY 100/3.6 disposable prefilled pen100 units/mL insulin degludec and 3.6 mg/mL liraglutide | Package of 5 | 0169-2911-15 |
+| 3 mL XULTOPHY 100/3.6 disposable prefilled pen(100 units/mL insulin degludec and 3.6 mg/mL liraglutide) | Package of 5 | 0169-2911-15 |
 
 ## 16.2 Recommended Storage
 
@@ -24,9 +24,9 @@ Always remove the needle after each injection and store the XULTOPHY 100/3.6 pen
 This prevents contamination and/or infection, or leakage of the XULTOPHY 100/3.6 pen, and will ensure accurate dosing.
 Always use a new needle for each injection to prevent contamination.
 
-The storage conditions are summarized in Table 10:
+The storage conditions are summarized in Table 11:
 
-Table 10: Storage Conditions for XULTOPHY 100/3.6 Pen
+Table 11: Storage Conditions for XULTOPHY 100/3.6 Pen
 
 | Prior to first use | After first use |  |
 | --- | --- | --- |
