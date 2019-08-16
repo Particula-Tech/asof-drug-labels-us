@@ -2,10 +2,9 @@
 
 ## 1.1. Multiple Sclerosis (MS)
 
-TYSABRI is indicated as monotherapy for the treatment of patients with relapsing forms of multiple sclerosis.
-TYSABRI increases the risk of PML.
+TYSABRI is indicated as monotherapy for the treatment of relapsing forms of multiple sclerosis, to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.
+TYSABRI increases the risk of PML [see Warnings and Precautions (5.1)].
 When initiating and continuing treatment with TYSABRI, physicians should consider whether the expected benefit of TYSABRI is sufficient to offset this risk.
-See important information regarding the risk of PML with TYSABRI [see Warnings and Precautions (5.1)].
 
 ## 1.2. Crohn's Disease (CD)
 
