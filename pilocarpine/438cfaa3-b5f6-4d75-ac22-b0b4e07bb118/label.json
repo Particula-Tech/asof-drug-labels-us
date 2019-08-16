@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212377"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-224-01",
+    "59651-225-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pilocarpine hydrochloride",
+      "name": "Pilocarpine Hydrochloride"
+    }
+  ],
+  "setid": "438cfaa3-b5f6-4d75-ac22-b0b4e07bb118",
+  "source": "dailymed"
+}
