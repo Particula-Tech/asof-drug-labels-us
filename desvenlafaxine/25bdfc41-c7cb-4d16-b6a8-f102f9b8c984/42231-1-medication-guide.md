@@ -197,9 +197,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by:
 
-Breckenridge Pharmaceutical, Inc.
-
-Boca Raton, FL 33487
+Breckenridge Pharmaceutical, Inc. Berlin, CT 06037
 
 Manufactured by:
 
@@ -209,4 +207,4 @@ Village Panelav, P. O. Tajpura, Near Baska,
 
 Taluka-Halol, Panchmahal, Gujarat, India.
 
-Revised: 07/2018
+Revised: 05/2019
