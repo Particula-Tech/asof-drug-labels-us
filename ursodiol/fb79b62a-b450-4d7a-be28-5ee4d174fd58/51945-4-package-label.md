@@ -1,7 +1,19 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Ursodiol Tablets, USP – 250 mg, 100’s
+UrsodiolTablets, USP
+
+NDC 68462-4723-01
+
+250 mg
+
+100’s Count
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Ursodiol Tablets, USP – 500 mg, 100’s
+Ursodiol Tablets, USP
+
+NDC 68462-474-01
+
+500 mg
+
+100’s Count
