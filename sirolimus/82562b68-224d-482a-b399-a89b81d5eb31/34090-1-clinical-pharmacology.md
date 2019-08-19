@@ -8,6 +8,7 @@ In cells, sirolimus binds to the immunophilin, FK Binding Protein-12 (FKBP-12), 
 The sirolimus:FKBP-12 complex has no effect on calcineurin activity.
 This complex binds to and inhibits the activation of the mammalian target of rapamycin (mTOR), a key regulatory kinase.
 This inhibition suppresses cytokine-driven T-cell proliferation, inhibiting the progression from the G1 to the S phase of the cell cycle.
+Mammalian target of rapamycin (mTOR) inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.
 
 Studies in experimental models show that sirolimus prolongs allograft (kidney, heart, skin, islet, small bowel, pancreatico-duodenal, and bone marrow) survival in mice, rats, pigs, and/or primates.
 Sirolimus reverses acute rejection of heart and kidney allografts in rats and prolongs the graft survival in presensitized rats.
@@ -26,7 +27,7 @@ Therapeutic drug monitoring should be used to maintain sirolimus drug levels wit
 
 Sirolimus pharmacokinetics activity have been determined following oral administration in healthy subjects, pediatric patients, hepatically impaired patients, and renal transplant patients.
 
-The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with sirolimus 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in the Table 4.
+The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with sirolimus 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in Table 4.
 
 TABLE 4 MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING SIROLIMUS 2 MG DAILYa,b
 
@@ -44,7 +45,7 @@ TABLE 4 MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO 
 
 Whole blood trough sirolimus concentrations, as measured by LC/MS/MS in renal transplant patients, were significantly correlated with AUCτ,ss.
 Upon repeated, twice-daily administration without an initial loading dose in a multiple-dose study, the average trough concentration of sirolimus increases approximately 2- to 3-fold over the initial 6 days of therapy, at which time steady-state is reached.
-A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see Dosage and Administration (2.5), Warnings and Precautions (5.15)].
+A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see Dosage and Administration (2.3, 2.5), Warnings And Precautions (5.17)].
 
 Absorption
 
@@ -71,7 +72,7 @@ Metabolism
 Sirolimus is a substrate for both CYP3A4 and P-gp.
 Sirolimus is extensively metabolized in the intestinal wall and liver and undergoes counter-transport from enterocytes of the small intestine into the gut lumen.
 Inhibitors of CYP3A4 and P-gp increase sirolimus concentrations.
-Inducers of CYP3A4 and P-gp decrease sirolimus concentrations [see Warnings and Precautions (5.18) and Drug Interactions (7)].
+Inducers of CYP3A4 and P-gp decrease sirolimus concentrations [see Warnings and Precautions (5.20) and Drug Interactions (7)].
 Sirolimus is extensively metabolized by O-demethylation and/or hydroxylation.
 Seven (7) major metabolites, including hydroxy, demethyl, and hydroxydemethyl, are identifiable in whole blood.
 Some of these metabolites are also detectable in plasma, fecal, and urine samples.
@@ -80,7 +81,7 @@ Sirolimus is the major component in human whole blood and contributes to more th
 Excretion
 
 After a single dose of [14C] sirolimus oral solution in healthy volunteers, the majority (91%) of radioactivity was recovered from the feces, and only a minor amount (2.2%) was excreted in urine.
-The mean ± SD terminal elimination half life (t½) of sirolimus after multiple dosing in stable renal transplant patients was estimated to be about 62 ± 16 hours.
+The mean ± SD terminal elimination half -life (t½) of sirolimus after multiple dosing in stable renal transplant patients was estimated to be about 62 ± 16 hours.
 
 Sirolimus Concentrations (Chromatographic Equivalent) Observed in Phase 3 Clinical Studies
 
@@ -90,11 +91,11 @@ TABLE 5 SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT
 
 | Patient Population (Study number) | Treatment | Year 1 |  | Year 3 |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Mean (ng/mL) | 10th to 90th percentiles (ng/mL) | Mean (ng/mL) | 10th to 90th percentiles (ng/mL) |
+| Mean (ng/mL) | 10th to 90th percentiles (ng/mL) | Mean (ng/mL) | 10th to 90th percentiles (ng/mL) |  |  |
 | Low-to-moderate risk (Studies 1 & 2) | sirolimus (2 mg/day) + CsA | 7.2 | 3.6 to 11 | – | – |
-|  | sirolimus (5 mg/day) + CsA | 14 | 8 to 22 | – | – |
+| sirolimus (5 mg/day) + CsA | 14 | 8 to 22 | – | – |  |
 | Low-to-moderate risk (Study 3) | sirolimus + CsA | 8.6 | 5 to 13a | 9.1 | 5.4 to 14 |
-|  | sirolimus alone | 19 | 14 to 22a | 16 | 11 to 22 |
+| sirolimus alone | 19 | 14 to 22a | 16 | 11 to 22 |  |
 | High risk (Study 4) | sirolimus + CsA | 15.7 11.8 11.5 | 5.4 to 27.3b 6.2 to 16.9c 6.3 to 17.3d | _ | _ |
 | a: Months 4 through 12 |  |  |  |  |  |
 | b: Up to Week 2; observed CsA Cmin was 217 (56 to 432) ng/mL |  |  |  |  |  |
@@ -149,7 +150,7 @@ TABLE 7 SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS 
 | --- | --- | --- | --- | --- |
 | 5 to 11 | 9 | 1.1 ± 0.5 | 71 ± 40 | 580 ± 450 |
 | 12 to 18 | 11 | 0.79 ± 0.17 | 55 ± 18 | 450 ± 232 |
-| *All subjects received Sirolimus Oral Solution. |  |  |  |  |
+| * All subjects received Sirolimus Oral Solution. |  |  |  |  |
 
 Geriatric
 
@@ -207,13 +208,13 @@ Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabol
 
 Erythromycin
 
-Erythromycin is a substrate and inhibitor of CYP3A4 and P-gp; coadministration of sirolimus oral solution or tablets and erythromycin is not recommended [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
+Erythromycin is a substrate and inhibitor of CYP3A4 and P-gp; coadministration of sirolimus oral solution or tablets and erythromycin is not recommended [see Warnings and Precautions (5.20), Drug Interactions (7.2)].
 The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 800 mg q 8h of erythromycin as erythromycin ethylsuccinate tablets at steady state to 24 healthy volunteers significantly affected the bioavailability of sirolimus and erythromycin.
 Sirolimus Cmax and AUC were increased 4.4- and 4.2-fold respectively and tmax was increased by 0.4 hr. Erythromycin Cmax and AUC were increased 1.6- and 1.7-fold, respectively, and tmax was increased by 0.3 hr.
 
 Ketoconazole
 
-Ketoconazole is a strong inhibitor of CYP3A4 and P-gp; coadministration of sirolimus oral solution or tablets and ketoconazole is not recommended [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
+Ketoconazole is a strong inhibitor of CYP3A4 and P-gp; coadministration of sirolimus oral solution or tablets and ketoconazole is not recommended [see Warnings and Precautions (5.20), Drug Interactions (7.2)].
 Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure after administration of Sirolimus Oral Solution, as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 38%, and 10.9-fold, respectively.
 However, the terminal t½ of sirolimus was not changed.
 Single-dose sirolimus did not affect steady-state 12 hour plasma ketoconazole concentrations.
@@ -221,7 +222,7 @@ Single-dose sirolimus did not affect steady-state 12 hour plasma ketoconazole co
 Rifampin
 
 Rifampin is a strong inducer of CYP3A4 and P-gp; coadministration of sirolimus oral solution or tablets and rifampin is not recommended.
-In patients where rifampin is indicated, alternative therapeutic agents with less enzyme induction potential should be considered [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
+In patients where rifampin is indicated, alternative therapeutic agents with less enzyme induction potential should be considered [see Warnings and Precautions (5.20), Drug Interactions (7.2)].
 Pretreatment of 14 healthy volunteers with multiple doses of rifampin, 600 mg daily for 14 days, followed by a single 20 mg dose of sirolimus oral solution, greatly decreased sirolimus AUC and Cmax by about 82% and 71%, respectively.
 
 Verapamil
@@ -236,25 +237,18 @@ Drugs Which May Be Coadministered Without Dose Adjustment
 Clinically significant pharmacokinetic drug-drug interactions were not observed in studies of drugs listed below.
 Sirolimus and these drugs may be coadministered without dose adjustments.
 
-Acyclovir
-
-Atorvastatin
-
-Digoxin
-
-Glyburide
-
-Nifedipine
-
-Norgestrel/ethinyl estradiol (Lo/Ovral®%)
-
-Prednisolone
-
-Sulfamethoxazole/trimethoprim (Bactrim®@)
+- Acyclovir
+- Atorvastatin
+- Digoxin
+- Glyburide
+- Nifedipine
+- Norgestrel/ethinyl estradiol (Lo/Ovral®%)
+- Prednisolone
+- Sulfamethoxazole/trimethoprim (Bactrim®@)
 
 Other Drug-Drug Interactions
 
-Coadministration of sirolimus with other known strong inhibitors of CYP3A4 and/or P-gp (such as voriconazole, itraconazole, telithromycin, or clarithromycin) or other known strong inducers of CYP3A4 and/or P-gp (such as rifabutin) is not recommended [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
+Coadministration of sirolimus with other known strong inhibitors of CYP3A4 and/or P-gp (such as voriconazole, itraconazole, telithromycin, or clarithromycin) or other known strong inducers of CYP3A4 and/or P-gp (such as rifabutin) is not recommended [see Warnings and Precautions (5.20), Drug Interactions (7.2)].
 In patients in whom strong inhibitors or inducers of CYP3A4 are indicated, alternative therapeutic agents with less potential for inhibition or induction of CYP3A4 should be considered.
 
 Care should be exercised when drugs or other substances that are substrates and/or inhibitors or inducers of CYP3A4 are administered concomitantly with sirolimus.

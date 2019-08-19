@@ -106,16 +106,16 @@ Mean GFR was lower in patients treated with cyclosporine and sirolimus oral solu
 
 TABLE 12 OVERALL CALCULATED GLOMERULAR FILTRATION RATES (Mean ± SEM, cc/min) BY NANKIVELL EQUATION POST-TRANSPLANTa,b
 
-| Parameter | Sirolimus Oral Solution 2 mg/day | Sirolimus Oral Solution 5 mg/day | Azathioprine 2 to 3 mg/kg/day | Placebo |
-| --- | --- | --- | --- | --- |
-| Study 1 |  |  |  |  |
-| Month 12 | 57.4 ± 1.3 (n = 269) | 54.6 ± 1.3 (n = 248) | 64.1 ± 1.6) (n = 149) |  |
-| Month 24 | 58.4 ± 1.5 (n = 221) | 52.6 ± 1.5 (n = 222) | 62.4 ± 1.9 (n = 132) |  |
-| Study 2 |  |  |  |  |
-| Month 12 | 52.4 ± 1.5 (n = 211) | 51.5 ± 1.5 (n = 199) |  | 58 ± 2.1 (n = 117) |
-| Month 36 | 48.1 ± 1.8 (n = 183) | 46.1 ± 2 (n = 177) |  | 53.4 ± 2.7 (n = 102) |
-| a:Includes patients who prematurely discontinued treatment. |  |  |  |  |
-| b:Patients who had a graft loss were included in the analysis with GFR set to 0. |  |  |  |  |
+| Parameter | Sirolimus Oral Solution 2 mg/day | Sirolimus Oral Solution 5 mg/day | Azathioprine 2 to 3 mg/kg/day |  | Placebo |
+| --- | --- | --- | --- | --- | --- |
+| Study 1 |  |  |  |  |  |
+| Month 12 | 57.4 ± 1.3 (n = 269) | 54.6 ± 1.3 (n = 248) | 64.1 ± 1.6) (n = 149) |  |  |
+| Month 24 | 58.4 ± 1.5 (n = 221) | 52.6 ± 1.5 (n = 222) | 62.4 ± 1.9 (n = 132) |  |  |
+| Study 2 |  |  |  |  |  |
+| Month 12 | 52.4 ± 1.5 (n = 211) | 51.5 ± 1.5 (n = 199) |  | 58 ± 2.1 (n = 117) |  |
+| Month 36 | 48.1 ± 1.8 (n = 183) | 46.1 ± 2 (n = 177) |  | 53.4 ± 2.7 (n = 102) |  |
+| a: Includes patients who prematurely discontinued treatment. |  |  |  |  |  |
+| b: Patients who had a graft loss were included in the analysis with GFR set to 0. |  |  |  |  |  |
 
 Within each treatment group in Studies 1 and 2, mean GFR at one year post-transplant was lower in patients who experienced at least one episode of biopsy-proven acute rejection, compared with those who did not.
 
@@ -215,7 +215,7 @@ A total of 224 patients received a transplant and at least one dose of sirolimus
 Efficacy was assessed with the following endpoints, measured at 12 months: efficacy failure (defined as the first occurrence of biopsy-confirmed acute rejection, graft loss, or death), first occurrence of graft loss or death, and renal function as measured by the calculated GFR using the Nankivell formula.
 The table below summarizes the result of these endpoints.
 
-TABLE 16 EFFICACY FAILURE, GRAFT LOSS OR DEATH AND CALCULATED GLOMERULAR FUNCTION RATES (mL/min) BY NANKIVELL EQUATION AT 12 MONTHS POST TRANSPLANT: STUDY 4
+TABLE 16 EFFICACY FAILURE, GRAFT LOSS OR DEATH AND CALCULATED GLOMERULAR FUNCTION RATES (mL/min) BY NANKIVELL EQUATION AT 12 MONTHS POST-TRANSPLANT: STUDY 4
 
 | Parameter | Sirolimus with Cyclosporine, Corticosteroids (n = 224) |
 | --- | --- |
@@ -240,7 +240,8 @@ This study compared renal transplant patients (6 to 120 months after transplanta
 Concomitant immunosuppressive medications included mycophenolate mofetil (MMF), azathioprine (AZA), and corticosteroids. sirolimus was initiated with a single loading dose of 12 to 20 mg, after which dosing was adjusted to achieve a target sirolimus whole blood trough concentration of 8 to 20 ng/mL (chromatographic method).
 The efficacy endpoint was calculated GFR at 12 months post-randomization.
 Additional endpoints included biopsy-confirmed acute rejection, graft loss, and death.
-Findings in the patient stratum with baseline calculated GFR greater than 40 mL/min (sirolimus conversion, n = 497; CNI continuation, n = 246) are summarized below: There was no clinically or statistically significant improvement in Nankivell GFR compared to baseline.
+Findings in the patient stratum with baseline calculated GFR greater than 40 mL/min (sirolimus conversion, n = 497; CNI continuation, n = 246) are summarized below:.
+There was no clinically or statistically significant improvement in Nankivell GFR compared to baseline.
 
 TABLE 17 RENAL FUNCTION IN STABLE RENAL TRANSPLANT PATIENTS IN PATIENTS WITH BASELINE GFR > 40 mL/min THE SIROLIMUS CONVERSION STUDY (STUDY 5)
 
@@ -263,7 +264,7 @@ TABLE 18 MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) 
 
 | Study period | Sirolimus Conversion |  |  | CNI Continuation |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Header$ | N | Mean ± SD | Median | N | Mean ± SD | Median | p-value |
+|  | N | Mean ± SD | Median | N | Mean ± SD | Median | p-value |
 | Baseline | 410 | 0.35 ± 0.76 | 0.13 | 207 | 0.28 ± 0.61 | 0.11 | 0.381 |
 | 1 year | 423 | 0.88 ± 1.61 | 0.31 | 203 | 0.37 ± 0.88 | 0.14 | < 0.001 |
 | 2 years | 373 | 0.86 ± 1.48 | 0.32 | 190 | 0.47 ± 0.98 | 0.13 | < 0.001 |
@@ -276,7 +277,7 @@ Overall, 44/131 (33.6%) discontinued treatment in the sirolimus group versus 12/
 More patients reported adverse events 130/131 (99.2%) versus 112/123 (91.1%) and more patients reported discontinuations from the treatment due to adverse events 28/131 (21.4%) versus 4/123 (3.3%) in the sirolimus group compared to the tacrolimus group.
 
 The incidence of biopsy-confirmed acute rejection was higher for patients in the sirolimus group 11/131 (8.4%) compared to the tacrolimus group 2/123 (1.6%) through 2 years post-transplant.
-The rate of new-onset diabetes mellitus postrandomization, defined as 30 days or longer of continuous or at least 25 days nonstop (without gap) use of any diabetic treatment after randomization, a fasting glucose ≥126 mg/dL or a nonfasting glucose ≥200 mg/dL, was higher in the sirolimus group 15/82 (18.3%) compared to the tacrolimus group 4/72 (5.6%).
+The rate of new-onset diabetes mellitus post-randomization, defined as 30 days or longer of continuous or at least 25 days non-stop (without gap) use of any diabetic treatment after randomization, a fasting glucose ≥126 mg/dL or a nonfasting glucose ≥200 mg/dL, was higher in the sirolimus group 15/82 (18.3%) compared to the tacrolimus group 4/72 (5.6%).
 A greater incidence of proteinuria, was seen in the sirolimus group 19/131 (14.5%) versus 2/123 (1.6%) in the tacrolimus group.
 
 ## 14.5 Conversion from a CNI-based Regimen to a Sirolimus-based Regimen in Liver Transplant Patients
@@ -294,7 +295,7 @@ The rates of premature study discontinuation (primarily due to adverse events or
 
 Sirolimus was evaluated in a 36 month, open-label, randomized, controlled clinical trial at 14 North American centers in pediatric (aged 3 to < 18 years) renal transplant patients considered to be at high-immunologic risk for developing chronic allograft nephropathy, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy.
 Seventy-eight (78) subjects were randomized in a 2:1 ratio to sirolimus (sirolimus target concentrations of 5 to 15 ng/mL, by chromatographic assay, n = 53) in combination with a calcineurin inhibitor and corticosteroids or to continue calcineurin-inhibitor-based immunosuppressive therapy (n = 25).
-The primary endpoint of the study was efficacy failure as defined by the first occurrence of biopsy-confirmed acute rejection, graft loss, or death, and the trial was designed to show superiority of sirolimus added to a calcineurin- inhibitor-based immunosuppressive regimen compared to a calcineurin-inhibitor-based regimen.
+The primary endpoint of the study was efficacy failure as defined by the first occurrence of biopsy-confirmed acute rejection, graft loss, or death, and the trial was designed to show superiority of sirolimus added to a calcineurin-inhibitor-based immunosuppressive regimen compared to a calcineurin-inhibitor-based regimen.
 The cumulative incidence of efficacy failure up to 36 months was 45.3% in the sirolimus group compared to 44% in the control group, and did not demonstrate superiority.
 There was one death in each group.
 The use of sirolimus in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections [see Warnings and Precautions (5.8)].

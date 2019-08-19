@@ -9,8 +9,12 @@ In the 104 week rat study at dosages equal to or lower than the clinical dose of
 
 Sirolimus was not genotoxic in the in vitro bacterial reverse mutation assay, the Chinese hamster ovary cell chromosomal aberration assay, the mouse lymphoma cell forward mutation assay, or the in vivo mouse micronucleus assay.
 
-Fertility was diminished slightly in both male and female rats following oral administration of sirolimus at doses approximately 10 times or 2 times, respectively, the clinical dose of 2 mg daily (adjusted for body surface area).
-In male rats, atrophy of testes, epididymides, prostate, seminiferous tubules and/or reduction in sperm counts were observed.
-In female rats, reduced size of ovaries and uteri was observed.
-Reduction of sperm count in male rats was reversible upon cessation of dosing in one study.
-Testicular tubular degeneration was also seen in a 4 week intravenous study of sirolimus in monkeys at doses that were approximately equal to the clinical dose (adjusted for body surface area).
+When female rats were treated by oral gavage with sirolimus and mated to untreated males, female fertility was decreased at 0.5 mg/kg (2.5-fold the clinical dose of 2 mg, on a body surface area basis) due to decreased implantation.
+In addition, reduced ovary and uterus weight were observed.
+The NOAEL for female rat fertility was 0.1 mg/kg (0.5-fold the clinical dose of 2 mg).
+
+When male rats were treated by oral gavage with sirolimus and mated to untreated females, male fertility was decreased at 2 mg/kg (9.7-fold the clinical dose of 2 mg, on a body surface area basis).
+Atrophy of testes, epididymides, prostate, seminiferous tubules, and reduced sperm counts were observed.
+The NOAEL for male rat fertility was 0.5 mg/kg (2.5-fold the clinical dose of 2 mg).
+
+Testicular tubular degeneration was also seen in a 4 -week intravenous study of sirolimus in monkeys at 0.1 mg/kg (1-fold the clinical dose of 2 mg, on a body surface area basis).

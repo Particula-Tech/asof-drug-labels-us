@@ -1,10 +1,6 @@
 MEDICATION GUIDE
 
-Sirolimus
-
-(sir-OH-li-mus)
-
-Tablets
+Sirolimus (sir oh′ li mus) Tablets
 
 What is the most important information I should know about sirolimus?
 
@@ -16,10 +12,9 @@ Sirolimus can cause serious side effects, including:
 
 Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus.
 
-2.
-Increased risk of getting certain cancers.
-People who take Sirolimus have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
-Talk with your doctor about your risk for cancer.
+1. Increased risk of getting certain cancers.
+   People who take Sirolimus have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
+   Talk with your doctor about your risk for cancer.
 
 Sirolimus has not been shown to be safe and effective in people who have had liver or lung transplants.
 Serious complications and death may happen in people who take sirolimus after a liver or lung transplant.
@@ -47,20 +42,17 @@ See the end of this leaflet for a complete list of ingredients in sirolimus.
 
 What should I tell my doctor before taking sirolimus?
 
-Before taking sirolimus, tell your doctor if you:
-
 - have liver problems
 - have skin cancer or it runs in your family
 - have high cholesterol or triglycerides (fat in your blood)
 - are pregnant or are a female who can become pregnant.
-  Sirolimus may harm your unborn baby.
+  Sirolimus can harm your unborn baby.
   You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus.
   In order to avoid pregnancy, a female who can get pregnant should use effective birth control during treatment and for 12 weeks after your final dose of sirolimus.
   Talk with your doctor about what birth control method is right for you during this time.
   Tell your doctor right away if you become pregnant or think you are pregnant during treatment with sirolimus or within 12 weeks after your final dose of sirolimus.
-- It is not known whether sirolimus passes into breastmilk.
-  You and your doctor should decide if you will take sirolimus or breastfeed.
-  You should not do both.
+- It is not known whether sirolimus passes into breast milk; however, there is a risk of serious side effects in breastfed infants.
+  You and your doctor should decide about the best way to feed your baby if you take sirolimus.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Using sirolimus with certain medicines may affect each other causing serious side effects.
@@ -86,7 +78,7 @@ How should I take sirolimus?
 - Take sirolimus exactly as your doctor tells you to take it.
 - Your doctor will tell you how much sirolimus to take and when to take it.
   Do not change your dose of sirolimus unless your doctor tells you to.
-- If you also take cyclosporine (Gengraf, Neoral, Sandimmune), you should take your sirolimus and cyclosporine about 4 hours apart.
+- If you also take cyclosporine (Gengraf®^, Neoral®$, Sandimmune®#), you should take your sirolimus and cyclosporine about 4 hours apart.
 - Do not stop taking sirolimus or your other anti-rejection medicines unless your doctor tells you to.
 - Your doctor will check the levels of sirolimus in your blood.
   Your doctor may change your dose of sirolimus depending on your blood test results.
@@ -105,7 +97,7 @@ What should I avoid while taking sirolimus?
 - Avoid receiving live vaccines while taking sirolimus.
   Some vaccines may not work as well while you are taking sirolimus.
 - Limit your time in sunlight and UV light.
-  Cover your skin with clothing and use a sunscreen with a high protection factor because of the increased risk for skin cancer with sirolimus.
+  Cover your skin with clothing and use a broad spectrum sunscreen with a high protection factor because of the increased risk for skin cancer with sirolimus.
 
 What are the possible side effects of sirolimus?
 
@@ -114,12 +106,12 @@ Sirolimus may cause serious side effects, including:
 - See "What is the most important information I should know about sirolimus?"
 - Serious allergic reactions.
   Tell your doctor or get medical help right away if you get any of following symptoms of an allergic reaction:
-- swelling of your face, eyes, or mouth
-- trouble breathing or wheezing
-- throat tightness
-- chest pain or tightness
-- feeling dizzy or faint
-- rash or peeling of your skin
+  - swelling of your face, eyes, or mouth
+  - trouble breathing or wheezing
+  - throat tightness
+  - chest pain or tightness
+  - feeling dizzy or faint
+  - rash or peeling of your skin
 - Swelling (edema).
   Fluid may collect in your hands and feet and in various tissues of your body, including in the sac around your heart or lungs.
   Call your doctor if you have trouble breathing.
@@ -136,14 +128,14 @@ Sirolimus may cause serious side effects, including:
 - Increased protein in your urine.
   Your doctor may regularly test your urine protein.
 - Increased risk for viral infections.
-- Certain viruses can live in your body and cause active infections when your immune system is weak.
-  BK virus can affect how your kidney works and cause your transplanted kidney to fail.
-- A certain virus can cause a rare serious brain infection called Progressive Multifocal Leukoencephalopathy (PML).
-  PML usually causes death or severe disability.
-  Call your doctor right away if you notice any new or worsening medical problems such as:
-- confusion
-- sudden change in thinking, walking, strength on one side of your body
-- other problems that have lasted over several days.
+  - Certain viruses can live in your body and cause active infections when your immune system is weak.
+    BK virus can affect how your kidney works and cause your transplanted kidney to fail.
+  - A certain virus can cause a rare serious brain infection called Progressive Multifocal Leukoencephalopathy (PML).
+    PML usually causes death or severe disability.
+    Call your doctor right away if you notice any new or worsening medical problems such as:
+    1. confusion
+    2. sudden change in thinking, walking, strength on one side of your body
+    3. other problems that have lasted over several days.
 - Lung or breathing problems.
   This can sometimes lead to death.
   Tell your doctor if you have a new or worsening cough, shortness of breath, difficulty breathing or any new breathing problems.
@@ -151,6 +143,9 @@ Sirolimus may cause serious side effects, including:
 - Blood clotting problems.
   When sirolimus is taken with cyclosporine or tacrolimus, you may develop a blood clotting problem.
   Tell your doctor if you get any unexplained bleeding or bruising.
+- Possible harm to your unborn baby. sirolimus can harm your unborn baby.
+  You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus.
+  See "What should I tell my doctor before taking sirolimus?".
 
 The most common side effects of sirolimus in people with renal transplant include:
 
@@ -165,11 +160,19 @@ The most common side effects of sirolimus in people with renal transplant includ
 - low platelet count (cells that help blood to clot)
 - high blood sugar (diabetes)
 
+Other side effects that may occur with sirolimus:
+
+- Sirolimus may affect fertility in females and may affect your ability to become pregnant.
+  Talk to your healthcare provider if this is a concern for you.
+- Sirolimus may affect fertility in males and may affect your ability to father a child.
+  Talk to your healthcare provider if this is a concern for you.
+
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 These are not all of the possible side effects of sirolimus.
 For more information ask your doctor or pharmacist.
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+
+Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -177,12 +180,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store sirolimus tablets?
 
 - Store at 20° to 25°C (68° to 77°F).
-- Blister cards and strips:
-- Keep the tablets in the original blister container and use the outer carton to protect blister cards and strips from light.
-- Bottles
-- Keep the bottle of sirolimus tablets tightly closed.
+- Blister cards and strips: Keep the tablets in the original blister container and use the outer carton to protect blister cards and strips from light.
+- Bottles: Keep the bottle of sirolimus tablets tightly closed.
 
-Do not use sirolimus after the expiration date, which is located on the blister and carton.
+Do not use sirolimus after the expiration date.
 The expiration date refers to the last day of that month.
 
 Safely throw away medicine that is out of date or no longer needed.
@@ -204,17 +205,14 @@ What are the ingredients in sirolimus tablets?
 
 Active ingredients: sirolimus.
 
-Inactive ingredients: citric acid monohydrate, crospovidone, FD&C yellow #5 Aluminium Lake, glyceryl monooleate, hypromellose, iron oxide yellow, lactose monohydrate, microcrystalline cellulose, poloxamer, polyethylene glycol, povidone, sucrose, talc, titanium dioxide and vitamin E acetate.
+Inactive ingredients: citric acid monohydrate, crospovidone, FD&C yellow #5 Aluminum Lake, glyceryl monooleate, hypromellose, iron oxide yellow, lactose monohydrate, microcrystalline cellulose, poloxamer, polyethylene glycol, povidone, sucrose, talc, titanium dioxide and vitamin E acetate.
 
 ^Gengraf® is the registered trademark of AbottLabratries
 
-$Neoral® Soft Gelatin Capsules, # Sandimmune® Oral Solution and *Parlodel® are the registered trade mark of Novartis
+$Neoral® Soft Gelatin Capsules, #Sandimmune® Oral Solution and *Parlodel® are the registered trade mark of Novartis
 
 +Prograf® is the registered trademark of Astellas Pharms.
 
 ~Cycloset® is the registered trademark of Veroscience, LLC.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-This product's package insert may have been updated.
-For current package insert, please visit www.zydususa.com

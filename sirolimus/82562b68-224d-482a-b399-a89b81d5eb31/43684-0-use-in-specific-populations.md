@@ -2,22 +2,64 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-Sirolimus was embryo/fetotoxic in rats when given in doses approximately 0.2 to 0.5 the human doses (adjusted for body surface area).
-Embryo/fetotoxicity was manifested as mortality and reduced fetal weights (with associated delays in skeletal ossification).
-However, no teratogenesis was evident.
-In combination with cyclosporine, rats had increased embryo/feto mortality compared with sirolimus alone.
-There were no effects on rabbit development at a maternally toxic dosage approximately 0.3 to 0.8 times the human doses (adjusted for body surface area).
-There are no adequate and well-controlled studies in pregnant women.
-Effective contraception must be initiated before sirolimus therapy, during sirolimus therapy, and for 12 weeks after sirolimus therapy has been stopped.
+Based on animal studies and the mechanism of action, sirolimus can cause fetal harm when administered to a pregnant woman [see Data, Clinical Pharmacology (12.1)].
+There are limited data on the use of sirolimus during pregnancy; however, these data are insufficient to inform a drug-associated risk of adverse developmental outcomes.
+In animal studies, sirolimus was embryo/fetotoxic in rats at sub-therapeutic doses [see Data].
+Advise pregnant women of the potential risk to a fetus.
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Sirolimus is excreted in trace amounts in milk of lactating rats.
-It is not known whether sirolimus is excreted in human milk.
+Data
+
+Animal Data
+
+Sirolimus crossed the placenta and was toxic to the conceptus.
+
+In rat embryo-fetal development studies, pregnant rats were administered sirolimus orally during the period of organogenesis (Gestational Day 6 to 15).
+Sirolimus produced embryo-fetal lethality at 0.5 mg/kg (2.5-fold the clinical dose of 2 mg, on a body surface area basis) and reduced fetal weight at 1 mg/kg (5-fold the clinical dose of 2 mg).
+The no observed adverse effect level (NOAEL) for fetal toxicity in rats was 0.1 mg/kg (0.5-fold the clinical dose of 2 mg).
+Maternal toxicity (weight loss) was observed at 2 mg/kg (10-fold the clinical dose of 2 mg).
+The NOAEL for maternal toxicity was 1 mg/kg.
+In combination with cyclosporine, rats had increased embryo-fetal mortality compared with sirolimus alone.
+
+In rabbit embryo-fetal development studies, pregnant rabbits were administered sirolimus orally during the period of organogenesis (Gestational Day 6 to 18).
+There were no effects on embryo-fetal development at doses up to 0.05 mg/kg (0.5-fold the clinical dose of 2 mg, on a body surface area basis); however, at doses of 0.05 mg/kg and above, the ability to sustain a successful pregnancy was impaired (i.e., embryo-fetal abortion or early resorption).
+Maternal toxicity (decreased body weight) was observed at 0.05 mg/kg.
+The NOAEL for maternal toxicity was 0.025 mg/kg (0.25-fold the clinical dose of 2 mg).
+
+In a pre-and post-natal development study in rats, pregnant females were dosed during gestation and lactation (Gestational Day 6 through Lactation Day 20).
+An increased incidence of dead pups, resulting in reduced live litter size, occurred at 0.5 mg/kg (2.5-fold the clinical dose of 2 mg/kg on a body surface area basis).
+At 0.1 mg/kg (0.5-fold the clinical dose of 2 mg), there were no adverse effects on offspring.
+Sirolimus did not cause maternal toxicity or affect developmental parameters in the surviving offspring (morphological development, motor activity, learning, or fertility assessment) at 0.5 mg/kg, the highest dose tested.
+
+## 8.2 Lactation
+
+Risk Summary
+
+It is not known whether sirolimus is present in human milk.
+There are no data on its effects on the breastfed infant or milk production.
 The pharmacokinetic and safety profiles of sirolimus in infants are not known.
-Because many drugs are excreted in human milk, and because of the potential for adverse reactions in nursing infants from sirolimus, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Sirolimus is present in the milk of lactating rats.
+There is potential for serious adverse effects from sirolimus in breastfed infants based on mechanism of action [see Clinical Pharmacology (12.1)].
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for sirolimus and any potential adverse effects on the breastfed child from sirolimus.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Females should not be pregnant or become pregnant while receiving sirolimus.
+Advise females of reproductive potential that animal studies have been shown sirolimus to be harmful to the developing fetus.
+Females of reproductive potential are recommended to use highly effective contraceptive method.
+Effective contraception must be initiated before sirolimus therapy, during sirolimus therapy, and for 12 weeks after sirolimus therapy has been stopped [see Warnings and Precautions (5.15), Use in Specific Populations (8.1)].
+
+Infertility
+
+Based on clinical findings and findings in animals, male and female fertility may be compromised by the treatment with sirolimus [see Adverse Reactions (6.7), Nonclinical Toxicology (13.1)].
+Ovarian cysts and menstrual disorders (including amenorrhea and menorrhagia) have been reported in females with the use of sirolimus.
+Azoospermia has been reported in males with the use of sirolimus and has been reversible upon discontinuation of sirolimus in most cases.
 
 ## 8.4 Pediatric Use
 
