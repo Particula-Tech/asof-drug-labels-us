@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050718"
+  ],
+  "inn": "doxorubicin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-0080-01",
+    "0338-0086-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, LIPOSOMAL",
+      "generic": "doxorubicin hydrochloride liposome",
+      "name": "Doxorubicin Hydrochloride Liposome"
+    }
+  ],
+  "setid": "cf25a018-e795-49e4-8533-a581f8366dd9",
+  "source": "dailymed"
+}
