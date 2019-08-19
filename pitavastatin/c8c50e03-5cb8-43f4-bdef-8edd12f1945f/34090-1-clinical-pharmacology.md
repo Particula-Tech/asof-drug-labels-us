@@ -15,10 +15,10 @@ In a randomized, double-blind, placebo-controlled, 4-way parallel, active-compar
 Absorption
 
 Pitavastatin peak plasma concentrations are achieved about 1 hour after oral administration.
-Both Cmax and AUC0-inf increased in an approximately dose-proportional manner for single pitavastatin doses from 1 mg to 24 mg once daily.
+Both C max and AUC 0-inf increased in an approximately dose-proportional manner for single pitavastatin doses from 1 mg to 24 mg once daily.
 The absolute bioavailability of pitavastatin oral solution is 51%.
-Administration of a 4 mg ZYPITAMAG tablet with a high fat meal (50% fat content) decreases pitavastatin Cmax by 39% but does not significantly reduce pitavastatin AUC.
-The Cmax and AUC of pitavastatin did not differ following evening or morning drug administration.
+Administration of a 4 mg ZYPITAMAG tablet with a high fat meal (50% fat content) decreases pitavastatin C max by 39% but does not significantly reduce pitavastatin AUC.
+The C max and AUC of pitavastatin did not differ following evening or morning drug administration.
 In healthy volunteers receiving 4 mg pitavastatin, the percent change from baseline for LDL-C following evening dosing was slightly greater than that following morning dosing.
 Pitavastatin was absorbed in the small intestine but very little in the colon.
 
@@ -38,27 +38,27 @@ The mean plasma elimination half-life is approximately 12 hours.
 
 Race
 
-In pharmacokinetic studies pitavastatin Cmax and AUC were 21 and 5% lower, respectively in Black or African American healthy volunteers compared with those of Caucasian healthy volunteers.
-In pharmacokinetic comparison between Caucasian volunteers and Japanese volunteers, there were no significant differences in Cmax and AUC.
+In pharmacokinetic studies pitavastatin C max and AUC were 21 and 5% lower, respectively in Black or African American healthy volunteers compared with those of Caucasian healthy volunteers.
+In pharmacokinetic comparison between Caucasian volunteers and Japanese volunteers, there were no significant differences in C max and AUC.
 
 Gender
 
-In a pharmacokinetic study which compared healthy male and female volunteers, pitavastatin Cmax and AUC were 60 and 54% higher, respectively in females.
+In a pharmacokinetic study which compared healthy male and female volunteers, pitavastatin C max and AUC were 60 and 54% higher, respectively in females.
 This had no effect on the efficacy or safety of pitavastatin in women in clinical studies.
 
 Geriatric
 
-In a pharmacokinetic study which compared healthy young and elderly (≥ 65 years) volunteers, pitavastatin Cmax and AUC were 10 and 30% higher, respectively, in the elderly.
+In a pharmacokinetic study which compared healthy young and elderly (≥ 65 years) volunteers, pitavastatin C max and AUC were 10 and 30% higher, respectively, in the elderly.
 This had no effect on the efficacy or safety of pitavastatin in elderly subjects in clinical studies.
 
 Renal Impairment
 
-In patients with moderate renal impairment (glomerular filtration rate of 30 mL/min/1.73 m2 to 59 mL/min/1.73 m2) and end stage renal disease receiving hemodialysis, pitavastatin AUC0-inf is 102 and 86% higher than those of healthy volunteers, respectively, while pitavastatin Cmax is 60 and 40% higher than those of healthy volunteers, respectively.
+In patients with moderate renal impairment (glomerular filtration rate of 30 mL/min/1.73 m 2 to 59 mL/min/1.73 m 2) and end stage renal disease receiving hemodialysis, pitavastatin AUC 0-inf is 102 and 86% higher than those of healthy volunteers, respectively, while pitavastatin C max is 60 and 40% higher than those of healthy volunteers, respectively.
 Patients received hemodialysis immediately before pitavastatin dosing and did not undergo hemodialysis during the pharmacokinetic study.
 Hemodialysis patients have 33 and 36% increases in the mean unbound fraction of pitavastatin as compared to healthy volunteers and patients with moderate renal impairment, respectively.
 
-In another pharmacokinetic study, patients with severe renal impairment (glomerular filtration rate 15 mL/min/1.73 m2 to 29 mL/min/1.73 m2) not receiving hemodialysis were administered a single dose of pitavastatin 4 mg.
-The AUC0-inf and the Cmax were 36 and 18% higher, respectively, compared with those of healthy volunteers.
+In another pharmacokinetic study, patients with severe renal impairment (glomerular filtration rate 15 mL/min/1.73 m 2 to 29 mL/min/1.73 m 2) not receiving hemodialysis were administered a single dose of pitavastatin 4 mg.
+The AUC 0-inf and the C max were 36 and 18% higher, respectively, compared with those of healthy volunteers.
 For both patients with severe renal impairment and healthy volunteers, the mean percentage of protein-unbound pitavastatin was approximately 0.6%.
 
 The effect of mild renal impairment on pitavastatin exposure has not been studied.
@@ -66,11 +66,11 @@ The effect of mild renal impairment on pitavastatin exposure has not been studie
 Hepatic Impairment
 
 The disposition of pitavastatin was compared in healthy volunteers and patients with various degrees of hepatic impairment.
-The ratio of pitavastatin Cmax between patients with moderate hepatic impairment (Child-Pugh B disease) and healthy volunteers was 2.7.
-The ratio of pitavastatin AUCinf between patients with moderate hepatic impairment and healthy volunteers was 3.8.
-The ratio of pitavastatin Cmax between patients with mild hepatic impairment (Child-Pugh A disease) and healthy volunteers was 1.3.
-The ratio of pitavastatin AUCinf between patients with mild hepatic impairment and healthy volunteers was 1.6.
-Mean pitavastatin t½ for moderate hepatic impairment, mild hepatic impairment, and healthy were 15, 10, and 8 hours, respectively.
+The ratio of pitavastatin C max between patients with moderate hepatic impairment (Child-Pugh B disease) and healthy volunteers was 2.7.
+The ratio of pitavastatin AUC inf between patients with moderate hepatic impairment and healthy volunteers was 3.8.
+The ratio of pitavastatin C max between patients with mild hepatic impairment (Child-Pugh A disease) and healthy volunteers was 1.3.
+The ratio of pitavastatin AUC inf between patients with mild hepatic impairment and healthy volunteers was 1.6.
+Mean pitavastatin t ½ for moderate hepatic impairment, mild hepatic impairment, and healthy were 15, 10, and 8 hours, respectively.
 
 Drug-Drug Interactions
 
@@ -84,7 +84,7 @@ However, patients receiving warfarin should have their PT time or INR monitored 
 
 Table 2 Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
-| Coadministered drug | Dose regimen | Change in AUC* | Change in Cmax* |
+| Coadministered drug | Dose regimen | Change in AUC* | Change in C max* |
 | --- | --- | --- | --- |
 | Cyclosporine | Pitavastatin 2 mg QD for 6 days + cyclosporine 2 mg/kg on Day 6 | ↑ 4.6 fold † | ↑ 6.6 fold † |
 | Erythromycin | Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days | ↑ 2.8 fold † | ↑ 3.6 fold † |
@@ -106,7 +106,7 @@ Table 2 Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
 Table 3 Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
 
-| Coadministered drug | Dose regimen |  | Change in AUC* | Change in Cmax * |
+| Coadministered drug | Dose regimen |  | Change in AUC* | Change in C max * |
 | --- | --- | --- | --- | --- |
 | Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days |  | ↑ 6% | ↑ 13% |
 | Darunavir | Pitavastatin 4 mg QD on Days 1 to 5 and 12 to 16 + darunavir/ritonavir 800 mg/100 mg QD on Days 6 to 16 |  | ↑ 3% | ↑ 6% |

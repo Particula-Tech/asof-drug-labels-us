@@ -14,7 +14,7 @@ Table 4 Dose-Response in Patients with Primary Hypercholesterolemia (Adjusted Me
 | Placebo | 53 | -3 | -2 | -2 | 1 | 0 |
 | Pitavastatin 1 mg | 52 | -32 | -25 | -23 | -15 | 8 |
 | Pitavastatin 2 mg | 49 | -36 | -30 | -26 | -19 | 7 |
-| Pitavastatin 4 mg | 51# | -43 | -35 | -31 | -18 | 5 |
+| Pitavastatin 4 mg | 51 # | -43 | -35 | -31 | -18 | 5 |
 | # The number of subjects for Apo-B was 49 |  |  |  |  |  |  |
 
 Active-controlled study with atorvastatin (NK-104-301)
@@ -80,7 +80,7 @@ Table 7 Response by Dose of Pitavastatin and Pravastatin in Patients with Primar
 | Pravastatin 40 mg daily | 102 | -34 | -28 | -24 | -15 | 1 | -32 |
 | Pravastatin 80 mg daily | --------------------------------------Not Studied-------------------------------- |  |  |  |  |  |  |
 
-Active-controlled study with simvastatin in patients with ≥ 2 risk factors for coronary heart disease (NK-104-304)
+Active-controlled study with simvastatin in patients with ≥2 risk factors for coronary heart disease (NK-104-304)
 
 Pitavastatin was compared with the HMG-CoA reductase inhibitor simvastatin in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority Phase 3 study of 351 patients with primary hyperlipidemia or mixed dyslipidemia with ≥ 2 risk factors for coronary heart disease.
 After a 6 to 8 week wash-out/dietary lead-in period, patients were randomized to a 12 week treatment with either pitavastatin or simvastatin (Table 8).
@@ -98,7 +98,7 @@ Table 8 Response by Dose of Pitavastatin and Simvastatin in Patients with Primar
 | Simvastatin 40 mg daily | 118 | -44 | -34 | -31 | -15 | 5 | -39 |
 | Simvastatin 80 mg daily | -------------------------------------------Not Studied-------------------------------- |  |  |  |  |  |  |
 
-Active-controlled study with atorvastatin in patients with type II diabetes mellitus (NK-104-305)
+Active -controlled study with atorvastatin in patients with type II diabetes mellitus (NK-104-305)
 
 Pitavastatin was compared with the HMG-CoA reductase inhibitor atorvastatin in a randomized, multicenter, double-blind, double-dummy, parallel group, active-controlled, non-inferiority Phase 3 study of 410 subjects with type II diabetes mellitus and combined dyslipidemia.
 Patients entered a 6 to 8 week wash-out/dietary lead-in period and were randomized to a once daily dose of pitavastatin or atorvastatin for 12 weeks.

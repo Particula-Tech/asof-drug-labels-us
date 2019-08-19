@@ -7,7 +7,7 @@ The use of ZYPITAMAG is contraindicated in the following conditions:
 - Patients with active liver disease which may include unexplained persistent elevations of hepatic transaminase levels [see Warnings and Precautions (5.2), Use in Specific Populations (8.7)].
 - Coadministration with cyclosporine [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 - Pregnancy.
-  [see Use in Specific Populations (8.1,8.3)].
+  [see Use in Specific Populations (8.1, 8.3)].
 - Lactation.
   It is not known if ZYPITAMAG is present in human milk; however, another drug in this class passes into breast milk.
   Since HMG-CoA reductase inhibitors have the potential for serious adverse reactions in breastfed infants, women who require ZYPITAMAG treatment should not breastfeed their infants [see Use in Specific Populations (8.2)].

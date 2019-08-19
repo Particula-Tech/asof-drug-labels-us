@@ -10,7 +10,7 @@ After initiation or upon titration of ZYPITAMAG, lipid levels should be analyzed
 
 ## 2.2 Dosage in Patients with Renal Impairment
 
-Patients with moderate and severe renal impairment (glomerular filtration rate 30 mL/min/1.73 m2 to 59 mL/min/1.73 m2 and 15 mL/min/1.73 m2 to 29 mL/min/1.73 m2 not receiving hemodialysis, respectively) as well as end-stage renal disease receiving hemodialysis should receive a starting dose of ZYPITAMAG 1 mg once daily and a maximum dose of ZYPITAMAG 2 mg once daily.
+Patients with moderate and severe renal impairment (glomerular filtration rate 30 mL/min/1.73 m 2 to 59 mL/min/1.73 m 2 and 15 mL/min/1.73 m 2 to 29 mL/min/1.73 m 2 not receiving hemodialysis, respectively) as well as end-stage renal disease receiving hemodialysis should receive a starting dose of ZYPITAMAG 1 mg once daily and a maximum dose of ZYPITAMAG 2 mg once daily.
 
 ## 2.3 Use with Erythromycin
 
