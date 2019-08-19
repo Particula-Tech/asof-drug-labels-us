@@ -168,11 +168,9 @@ The 10 mg tablets also contain FD&C Blue #1.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Mikart, Inc. Atlanta, GA 30318
-
 Manufactured for: Arbor Pharmaceuticals, LLC Atlanta, GA 30328
 
-AM-MG-06
+AM-MG-07
 
 Rev.
-09/16
+04/19
