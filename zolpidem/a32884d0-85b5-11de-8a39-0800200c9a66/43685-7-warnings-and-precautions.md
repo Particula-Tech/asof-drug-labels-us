@@ -3,11 +3,11 @@
 ## 5.1 Complex Sleep Behaviors
 
 Complex sleep behaviors including sleep-walking, sleep-driving, and engaging in other activities while not fully awake may occur following use of zolpidem.
-Serious injuries and death have occurred during a complex sleep behavior episode.
+Patients can be seriously injured or injure others during complex sleep behaviors.
+Such injuries may result in a fatal outcome.
 Other complex sleep behaviors (e.g., preparing and eating food, making phone calls, or having sex) have also been reported.
 Patients usually do not remember these events.
-Post-marketing reports have shown that complex sleep behaviors may occur with zolpidem alone at recommended dosages, with or without the concomitant use of alcohol or other central nervous system (CNS) depressants [see Drug Interactions (7.1)], and may occur on first use of zolpidem.
-Patients who have experienced complex sleep behaviors after taking Edluar may experience a future complex sleep behavior resulting in serious injuries or death after taking a subsequent dose of Edluar[see Contraindications (4)].
+Post-marketing reports have shown that complex sleep behaviors may occur with zolpidem alone at recommended dosages, with or without the concomitant use of alcohol or other central nervous system (CNS) depressants [see Drug Interactions (7.1)].
 Discontinue Edluar immediately if a patient experiences a complex sleep behavior.
 
 ## 5.2 CNS Depressant Effects and Next-Day Impairment
