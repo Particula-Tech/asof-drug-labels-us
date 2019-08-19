@@ -1,8 +1,8 @@
-# PATIENT INFORMATION
+# BUSPIRONE HYDROCHLORIDE TABLETS, USP
+
+PATIENT INFORMATION
 
 Rx only
-
-BUSPIRONE HYDROCHLORIDE TABLETS, USP
 
 HOW TO USE BUSPIRONE HYDROCHLORIDE TABLETS, 15 mg
 
@@ -14,26 +14,6 @@ Each tablet is scored and can be broken accurately to provide any of the followi
 
 To break a tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown below.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
-
-Manufactured by:
-
-Strides Shasun Limited,
-
-Bengaluru - 560076, India.
-
-Distributed by:
-
-Strides Pharma Inc.
-
-East Brunswick, NJ 08816
-
-Revised: 02/2017
-
-PATIENT INFORMATION
-
-Rx only
-
-BUSPIRONE HYDROCHLORIDE TABLETS, USP
 
 HOW TO USE BUSPIRONE HYDROCHLORIDE TABLETS, 30 mg
 
@@ -48,9 +28,9 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Manufactured by:
 
-Strides Shasun Limited,
+Strides Pharma Science Ltd.
 
-Bengaluru - 560076, India.
+Bengaluru - 562106, India
 
 Distributed by:
 
@@ -58,4 +38,4 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 02/2017
+Revised: 06/2019

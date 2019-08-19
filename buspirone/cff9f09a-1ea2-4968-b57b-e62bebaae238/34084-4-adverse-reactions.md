@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-(See also PRECAUTIONS.)
+(See also PRECAUTIONS)
 
 ## Commonly Observed
 
@@ -21,47 +21,50 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 Comparison of the cited figures, however, does provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
 
-|  | Buspirone | Placebo |
-| --- | --- | --- |
-| Adverse Experience | (n = 477) | (n = 464) |
-| Cardiovascular |  |  |
-| Tachycardia/Palpitations | 1 | 1 |
-| CNS |  |  |
-| Dizziness | 12 | 3 |
-| Drowsiness | 10 | 9 |
-| Nervousness | 5 | 1 |
-| Insomnia | 3 | 3 |
-| Lightheadedness | 3 | - |
-| Decreased Concentration | 2 | 2 |
-| Excitement | 2 | - |
-| Anger/Hostility | 2 | - |
-| Confusion | 2 | - |
-| Depression | 2 | 2 |
-| EENT |  |  |
-| Blurred Vision | 2 | - |
-| Gastrointestinal |  |  |
-| Nausea | 8 | 5 |
-| Dry Mouth | 3 | 4 |
-| Abdominal/Gastric Distress | 2 | 2 |
-| Diarrhea | 2 | - |
-| Constipation | 1 | 2 |
-| Vomiting | 1 | 2 |
-| Musculoskeletal |  |  |
-| Musculoskeletal Aches/Pains | 1 | - |
-| Neurological |  |  |
-| Numbness | 2 | - |
-| Paresthesia | 1 | - |
-| Incoordination | 1 | - |
-| Tremor | 1 | - |
-| Skin |  |  |
-| Skin Rash | 1 | - |
-| Miscellaneous |  |  |
-| Headache | 6 | 3 |
-| Fatigue | 4 | 4 |
-| Weakness | 2 | - |
-| Sweating/Clamminess | 1 | - |
-| *Events reported by at least 1% of buspirone patients are included. |  |  |
-| - Incidence less than 1%. |  |  |
+TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS*
+
+(Percent of Patients Reporting)
+
+| Adverse Experience |  | Buspirone (n = 477) | Placebo (n = 464) |
+| --- | --- | --- | --- |
+| Cardiovascular |  |  |  |
+|  | Tachycardia/Palpitations | 1 | 1 |
+| CNS |  |  |  |
+|  | Dizziness | 12 | 3 |
+|  | Drowsiness | 10 | 9 |
+|  | Nervousness | 5 | 1 |
+|  | Insomnia | 3 | 3 |
+|  | Lightheadedness | 3 | - |
+|  | Decreased Concentration | 2 | 2 |
+|  | Excitement | 2 | - |
+|  | Anger/Hostility | 2 | - |
+|  | Confusion | 2 | - |
+|  | Depression | 2 | 2 |
+| EENT |  |  |  |
+|  | Blurred Vision | 2 | - |
+| Gastrointestinal |  |  |  |
+|  | Nausea | 8 | 5 |
+|  | Dry Mouth | 3 | 4 |
+|  | Abdominal/Gastric Distress | 2 | 2 |
+|  | Diarrhea | 2 | - |
+|  | Constipation | 1 | 2 |
+|  | Vomiting | 1 | 2 |
+| Musculoskeletal |  |  |  |
+|  | Musculoskeletal Aches/Pains | 1 | - |
+| Neurological |  |  |  |
+|  | Numbness | 2 | - |
+|  | Paresthesia | 1 | - |
+|  | Incoordination | 1 | - |
+|  | Tremor | 1 | - |
+| Skin |  |  |  |
+|  | Skin Rash | 1 | - |
+| Miscellaneous |  |  |  |
+|  | Headache | 6 | 3 |
+|  | Fatigue | 4 | 4 |
+|  | Weakness | 2 | - |
+|  | Sweating/Clamminess | 1 | - |
+| *Events reported by at least 1% of buspirone patients are included. |  |  |  |
+| - Incidence less than 1%. |  |  |  |
 
 ## Other Events Observed During the Entire Premarketing Evaluation of Buspirone
 

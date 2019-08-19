@@ -4,9 +4,9 @@
 
 Manufactured by:
 
-Strides Shasun Limited,
+Strides Pharma Science Ltd.
 
-Bengaluru - 560076, India.
+Bengaluru - 562106, India
 
 Distributed by:
 
@@ -14,4 +14,4 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 02/2017
+Revised: 05/2019

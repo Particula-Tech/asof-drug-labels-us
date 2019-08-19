@@ -12,7 +12,7 @@ Some studies do suggest that buspirone may have indirect effects on other neurot
 Buspirone is rapidly absorbed in man and undergoes extensive first-pass metabolism.
 In a radiolabeled study, unchanged buspirone in the plasma accounted for only about 1% of the radioactivity in the plasma.
 Following oral administration, plasma concentrations of unchanged buspirone are very low and variable between subjects.
-Peak plasma levels of 1 to 6 ng/mL have been observed 40 to 90 minutes after single oral doses of 20 mg.
+Peak plasma levels of 1 ng/mL to 6 ng/mL have been observed 40 to 90 minutes after single oral doses of 20 mg.
 The single-dose bioavailability of unchanged buspirone when taken as a tablet is on the average about 90% of an equivalent dose of solution, but there is large variability.
 
 The effects of food upon the bioavailability of buspirone have been studied in eight subjects.
@@ -37,18 +37,18 @@ The average elimination half-life of unchanged buspirone after single doses of 1
 
 ## Special Populations
 
-### Age and Gender Effects
+Age and Gender Effects
 
 After single or multiple doses in adults, no significant differences in buspirone pharmacokinetics (AUC and Cmax) were observed between elderly and younger subjects or between men and women.
 
-### Hepatic Impairment
+Hepatic Impairment
 
 After multiple-dose administration of buspirone to patients with hepatic impairment, steady-state AUC of buspirone increased 13 fold compared with healthy subjects (see PRECAUTIONS).
 
-### Renal Impairment
+Renal Impairment
 
-After multiple-dose administration of buspirone to renally impaired (Clcr = 10 to 70 mL/min/1.73 m2) patients, steady-state AUC of buspirone increased 4 fold compared with healthy (Clcr ≥ 80 mL/min/1.73 m2) subjects (see PRECAUTIONS).
+After multiple-dose administration of buspirone to renally impaired (Clcr = 10 - 70 mL/min/1.73 m2) patients, steady-state AUC of buspirone increased 4 fold compared with healthy (Clcr ≥ 80 mL/min/1.73 m2) subjects (see PRECAUTIONS).
 
-### Race Effects
+Race Effects
 
 The effects of race on the pharmacokinetics of buspirone have not been studied.
