@@ -2,7 +2,7 @@
 
 ## 2.1 Important Use Information
 
-Do not substitute DOXIL for doxorubicin HCl injection.
+Do not substitute DOXIL for other doxorubicin hydrochloride products.
 
 Do not administer as an undiluted suspension or as an intravenous bolus [see Warnings and Precautions (5.2)].
 
@@ -25,9 +25,9 @@ Do not increase DOXIL after a dose reduction for toxicity.
 
 Table 1: Recommended Dose Modifications for Hand-Foot Syndrome, Stomatitis, or Hematologic Adverse Reactions
 
-| Hand-Foot Syndrome (HFS) |  |
-| --- | --- |
 | Toxicity | Dose Adjustment |
+| --- | --- |
+| Hand-Foot Syndrome (HFS) |  |
 | Grade 1: Mild erythema, swelling, or desquamation not interfering with daily activities | If no previous Grade 3 or 4 HFS: no dose adjustment.If previous Grade 3 or 4 HFS: delay dose up to 2 weeks, then decrease dose by 25%. |
 | Grade 2: Erythema, desquamation, or swelling interfering with, but not precluding normal physical activities; small blisters or ulcerations less than 2 cm in diameter | Delay dosing up to 2 weeks or until resolved to Grade 0–1.Discontinue DOXIL if no resolution after 2 weeks.If resolved to Grade 0–1 within 2 weeks: And no previous Grade 3 or 4 HFS: continue treatment at previous dose.And previous Grade 3 or 4 toxicity: decrease dose by 25%. |
 | Grade 3: Blistering, ulceration, or swelling interfering with walking or normal daily activities; cannot wear regular clothing | Delay dosing up to 2 weeks or until resolved to Grade 0–1, then decrease dose by 25%.Discontinue DOXIL if no resolution after 2 weeks. |

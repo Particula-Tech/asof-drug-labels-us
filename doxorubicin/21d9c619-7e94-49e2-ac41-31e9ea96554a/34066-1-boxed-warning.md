@@ -1,8 +1,9 @@
 # WARNING: CARDIOMYOPATHY and INFUSION-RELATED REACTIONS
 
-- DOXIL (doxorubicin HCl liposome injection) can cause myocardial damage, including congestive heart failure, as the total cumulative dose of doxorubicin HCl approaches 550 mg/m2.
-  In a clinical study of 250 patients with advanced cancer who were treated with DOXIL, the risk of cardiotoxicity was 11% when the cumulative anthracycline dose was between 450–550 mg/m2.
-  Prior use of other anthracyclines or anthracenediones should be included in calculations of total cumulative dosage.
-  The risk of cardiomyopathy may be increased at lower cumulative doses in patients with prior mediastinal irradiation [see Warnings and Precautions (5.1)].
-- Acute infusion-related reactions consisting of, but not limited to, flushing, shortness of breath, facial swelling, headache, chills, back pain, tightness in the chest or throat, and/or hypotension occurred in 11% of patients with solid tumors treated with DOXIL.
-  Serious, life-threatening and fatal infusion reactions have been reported [see Dosage and Administration (2.6) and Warnings and Precautions (5.2)].
+- DOXIL can cause myocardial damage, including acute left ventricular failure.
+  The risk of cardiomyopathy was 11% when the cumulative anthracycline dose was between 450 mg/m2 to 550 mg/m2.
+  Assess left ventricular cardiac function prior to initiation of DOXIL and during and after treatment [see Warnings and Precautions (5.1)].
+- Serious, life-threatening, and fatal infusion-related reactions can occur with DOXIL.
+  Acute infusion-related reactions occurred in 11% of patients with solid tumors.
+  Withhold DOXIL for infusion-related reactions and resume at a reduced rate.
+  Discontinue DOXIL for serious or life-threatening infusion-related reactions [see Warnings and Precautions (5.2)].

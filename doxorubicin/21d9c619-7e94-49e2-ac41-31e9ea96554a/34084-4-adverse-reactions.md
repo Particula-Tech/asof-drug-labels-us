@@ -7,13 +7,12 @@ The following adverse reactions are discussed in more detail in other sections o
 - Hand-Foot Syndrome [see Warnings and Precautions (5.3)]
 - Secondary Oral Neoplasms [see Warnings and Precautions (5.4)]
 
-The most common adverse reactions (>20%) observed with DOXIL are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
-
-## 6.1 Adverse Reactions in Clinical Trials
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates on other clinical trials and may not reflect the rates observed in clinical practice.
 
 The safety data reflect exposure to DOXIL in 1310 patients including: 239 patients with ovarian cancer, 753 patients with AIDS-related Kaposi's sarcoma, and 318 patients with multiple myeloma.
+The most common adverse reactions (>20%) observed with DOXIL are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
 
 The following tables present adverse reactions from clinical trials of single-agent DOXIL in ovarian cancer and AIDS-Related Kaposi's sarcoma.
 
@@ -213,15 +212,15 @@ Table 7: Frequency of Treatment-Emergent Adverse Reactions Reported in ≥10% Pa
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post approval use of DOXIL.
+The following additional adverse reactions have been identified during postapproval use of DOXIL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal and Connective Tissue Disorders: muscle spasms
 
 Respiratory, Thoracic and Mediastinal Disorders: pulmonary embolism (in some cases fatal)
 
-Hematologic disorders: Secondary acute myelogenous leukemia
+Hematologic Disorders: Secondary acute myelogenous leukemia
 
-Skin and subcutaneous tissue disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis
+Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, lichenoid keratosis
 
-Secondary oral neoplasms: [see Warnings and Precautions (5.4)].
+Secondary Oral Neoplasms: [see Warnings and Precautions (5.4)].
