@@ -15,10 +15,12 @@ Do not use if the injection is pinkish or darker than slightly yellow or contain
 
 Manufactured by:
 
-M/s.
+Cipla Ltd., India
+
+At M/s.
 Gland Pharma Limited,
 
-India
+India.
 
 Manufactured for:
 
@@ -28,4 +30,4 @@ Cipla USA, Inc.
 
 Suite 130, Sunrise, FL 33323
 
-Revised: 5/2018
+Revised: 07/2018
