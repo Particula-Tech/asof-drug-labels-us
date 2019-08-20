@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208538"
+  ],
+  "inn": "esmolol",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-211-01",
+    "68083-211-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "esmolol hydrochloride",
+      "name": "Esmolol Hydrochloride"
+    }
+  ],
+  "setid": "017023a9-00f0-4284-861f-a3634d4fdb17",
+  "source": "dailymed"
+}
