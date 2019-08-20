@@ -77,9 +77,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 The safety and effectiveness of DULERA have been established in patients 12 years of age and older in 3 clinical trials up to 52 weeks in duration.
 In the 3 clinical trials, 101 patients 12 to 17 years of age were treated with DULERA.
 Patients in this age-group demonstrated efficacy results similar to those observed in patients 18 years of age and older.
-There were no obvious differences in the type or frequency of adverse drug reactions reported in this age group compared to patients 18 years of age and older.
+There were no obvious differences in the type or frequency of adverse reactions reported in this age group compared to patients 18 years of age and older.
 Similar efficacy and safety results were observed in an additional 22 patients 12 to 17 years of age who were treated with DULERA in another clinical trial.
-The safety and efficacy of DULERA have not been established in children less than 12 years of age.
+
+The safety and effectiveness of DULERA 50 mcg/5 mcg, two inhalations twice daily, have been established in patients with asthma aged 5 to less than 12 years in clinical trials up to 24 weeks of treatment duration.
+Patients in this age group demonstrated efficacy and safety results similar to those observed in patients aged 12 years and older who were treated with DULERA [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+
+The safety and effectiveness of DULERA have not been established in children younger than 5 years of age.
 
 Controlled clinical studies have shown that inhaled corticosteroids may cause a reduction in growth velocity in pediatric patients.
 In these studies, the mean reduction in growth velocity was approximately 1 cm per year (range 0.3 to 1.8 per year) and appears to depend upon dose and duration of exposure.

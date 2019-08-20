@@ -8,11 +8,11 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2010-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0887a-ao-1904r030
+uspi-mk0887a-ao-1908r031
 
 Patient Instructions for Use
 
-DULERA® DULERA® 100 mcg/5 mcg (mometasone furoate 100 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol DULERA® 200 mcg/5 mcg (mometasone furoate 200 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol
+DULERA® DULERA® 50 mcg/5 mcg (mometasone furoate 50 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol DULERA® 100 mcg/5 mcg (mometasone furoate 100 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol DULERA® 200 mcg/5 mcg (mometasone furoate 200 mcg and formoterol fumarate dihydrate 5 mcg) Inhalation Aerosol
 
 How to use your DULERA
 
@@ -43,6 +43,9 @@ The counter will stop counting at 0.
 
 Before using your DULERA:
 
+Note: Adults may assist children with using DULERA as prescribed.
+Children may use DULERA with or without a spacer device.
+
 REMOVE THE CAP FROM THE MOUTHPIECE OF THE ACTUATOR (see Figure 2).
 Check the mouthpiece for objects before use.
 Make sure the canister is fully inserted into the actuator.
@@ -60,11 +63,12 @@ Before you use DULERA for the first time, you must prime the inhaler.
 
 Using your DULERA
 
-- 4.REMOVE THE CAP FROM THE MOUTHPIECE OF THE ACTUATOR (see Figure 3).
+- 4.Confirm that the strength indicated on the actuator and canister labels matches the prescribed dosage.
+- 5.REMOVE THE CAP FROM THE MOUTHPIECE OF THE ACTUATOR (see Figure 3).
   Check the mouthpiece for objects before use.
   Make sure the canister is fully inserted into the actuator.
-- 5.Shake the inhaler well before each use.
-- 6.Breathe out as fully as you comfortably can through your mouth.
+- 6.Shake the inhaler well before each use.
+- 7.Breathe out as fully as you comfortably can through your mouth.
   Push out as much air from your lungs as possible.
   Hold the inhaler in the upright position and place the mouthpiece into your mouth (see Figure 4).
   Close your lips around the mouthpiece.
@@ -72,18 +76,18 @@ Using your DULERA
 | Figure 3 | Figure 4 |
 | --- | --- |
 
-- 7.Take a deep breath (inhale) in slowly through your mouth.
+- 8.Take a deep breath (inhale) in slowly through your mouth.
   While doing this, press down firmly and fully on the top of the canister until it stops moving in the actuator.
   Take your finger off the canister.
-- 8.When you have finished breathing in, hold your breath as long as you comfortably can, up to 10 seconds.
+- 9.When you have finished breathing in, hold your breath as long as you comfortably can, up to 10 seconds.
   Then remove the inhaler from your mouth and breathe out through your nose, while keeping your lips closed.
-- 9.Wait at least 30 seconds to take your second puff of DULERA.
-- 10.Shake the inhaler well again and repeat steps 6 through 8 to take your second puff of DULERA.
+- 10.Wait at least 30 seconds to take your second puff of DULERA.
+- 11.Shake the inhaler well again and repeat steps 6 through 8 to take your second puff of DULERA.
 
 After using your DULERA inhaler:
 
-- 11.Replace the cap over the mouthpiece right away after use (see Figure 5).
-- 12.After you finish taking DULERA (2 puffs), rinse your mouth with water.
+- 12.Replace the cap over the mouthpiece right away after use (see Figure 5).
+- 13.After you finish taking DULERA (2 puffs), rinse your mouth with water.
   Spit out the water.
   Do not swallow it.
 
@@ -135,8 +139,8 @@ For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2010-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2010-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2018
+Revised: 08/2019
 
-usppi-mk0887a-ao-1803r001
+usppi-mk0887a-ao-1908r002

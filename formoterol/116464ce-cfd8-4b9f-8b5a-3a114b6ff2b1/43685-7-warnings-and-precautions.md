@@ -70,8 +70,8 @@ Patients using DULERA should not use an additional long-acting beta2-agonist (e.
 ## 5.4 Local Effects
 
 In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans have occurred in patients treated with DULERA.
-If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while remaining on treatment with DULERA therapy, but at times therapy with DULERA may need to be interrupted.
-Advise patients to rinse the mouth after inhalation of DULERA.
+If oropharyngeal candidiasis develops, treat with appropriate local or systemic (i.e., oral) antifungal therapy while remaining on treatment with DULERA therapy, but at times therapy with DULERA may need to be interrupted.
+To reduce the risk of oropharyngeal candidiasis, after dosing with DULERA, advise patients to rinse their mouth with water and spit out the contents without swallowing.
 
 ## 5.5 Immunosuppression
 
@@ -150,7 +150,7 @@ Decreases in bone mineral density (BMD) have been observed with long-term admini
 The clinical significance of small changes in BMD with regard to long-term outcomes, such as fracture, is unknown.
 Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants and corticosteroids) should be monitored and treated with established standards of care.
 
-In a 2-year double-blind study in 103 male and female asthma patients 18 to 50 years of age previously maintained on bronchodilator therapy (Baseline FEV1 85%–88% predicted), treatment with mometasone furoate dry powder inhaler 200 mcg twice daily resulted in significant reductions in lumbar spine (LS) BMD at the end of the treatment period compared to placebo.
+In a 2-year double-blind study in 103 male and female asthma patients 18 to 50 years of age previously maintained on bronchodilator therapy (Baseline FEV1 85%–88% predicted), treatment with mometasone furoate dry powder inhaler (DPI) 200 mcg twice daily resulted in significant reductions in lumbar spine (LS) BMD at the end of the treatment period compared to placebo.
 The mean change from Baseline to Endpoint in the lumbar spine BMD was -0.015 (-1.43%) for the mometasone furoate group compared to 0.002 (0.25%) for the placebo group.
 In another 2-year double-blind study in 87 male and female asthma patients 18 to 50 years of age previously maintained on bronchodilator therapy (Baseline FEV1 82%–83% predicted), treatment with mometasone furoate 400 mcg twice daily demonstrated no statistically significant changes in lumbar spine BMD at the end of the treatment period compared to placebo.
 The mean change from Baseline to Endpoint in the lumbar spine BMD was -0.018 (-1.57%) for the mometasone furoate group compared to -0.006 (-0.43%) for the placebo group.

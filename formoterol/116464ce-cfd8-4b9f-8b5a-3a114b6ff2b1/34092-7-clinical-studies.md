@@ -2,13 +2,15 @@
 
 ## 14.1 Asthma
 
+Adult and Adolescent Patients Aged 12 Years of Age and Older
+
 The safety and efficacy of DULERA were demonstrated in two randomized, double-blind, parallel group, multicenter clinical trials of 12 to 26 weeks in duration involving 1509 patients 12 years of age and older with persistent asthma uncontrolled on medium or high dose inhaled corticosteroids (baseline FEV1 means of 66% to 73% of predicted normal).
 These studies included a 2 to 3-week run-in period with mometasone furoate to establish a certain level of asthma control.
 One clinical trial compared DULERA to placebo and the individual components, mometasone furoate and formoterol (Trial 1) and one clinical trial compared two different strengths of DULERA to mometasone furoate alone (Trial 2).
 
 Trial 1: Clinical Trial with DULERA 100 mcg/5 mcg
 
-This 26-week, placebo-controlled trial evaluated 781 patients 12 years of age and older comparing DULERA 100 mcg/5 mcg (n=191 patients), mometasone furoate 100 mcg (n=192 patients), formoterol fumarate 5 mcg (n=202 patients) and placebo (n=196 patients); each administered as 2 inhalations twice daily by metered dose inhalation aerosols.
+This 26-week, placebo-controlled trial (NCT00383240) evaluated 781 patients 12 years of age and older comparing DULERA 100 mcg/5 mcg (n=191 patients), mometasone furoate 100 mcg (n=192 patients), formoterol fumarate 5 mcg (n=202 patients) and placebo (n=196 patients); each administered as 2 inhalations twice daily by metered dose inhalation aerosols.
 All other maintenance therapies were discontinued.
 This study included a 2 to 3-week run-in period with mometasone furoate 100 mcg, 2 inhalations twice daily.
 This trial included patients ranging from 12 to 76 years of age, 41% male and 59% female, and 72% Caucasian and 28% non-Caucasian.
@@ -63,7 +65,7 @@ The mean difference in AQLQ between patients receiving DULERA 100 mcg/5 mcg and 
 
 Trial 2: Clinical Trial With DULERA 200 mcg/5 mcg
 
-This 12-week double-blind trial evaluated 728 patients 12 years of age and older comparing DULERA 200 mcg/5 mcg (n=255 patients) with DULERA 100 mcg/5 mcg (n=233 patients) and mometasone furoate 200 mcg (n=240 patients), each administered as 2 inhalations twice daily by metered dose inhalation aerosols.
+This 12-week double-blind trial (NCT00381485) evaluated 728 patients 12 years of age and older comparing DULERA 200 mcg/5 mcg (n=255 patients) with DULERA 100 mcg/5 mcg (n=233 patients) and mometasone furoate 200 mcg (n=240 patients), each administered as 2 inhalations twice daily by metered dose inhalation aerosols.
 All other maintenance therapies were discontinued.
 This trial included a 2 to 3-week run-in period with mometasone furoate 200 mcg, 2 inhalations twice daily.
 Patients had persistent asthma and were uncontrolled on high dose inhaled corticosteroids prior to study entry.
@@ -102,10 +104,23 @@ Patients could have experienced more than one event criterion.
 | Hospitalization | 0 | 1 (<1%) | 0 |
 | Treatment with excluded asthma medicationTwenty four patients received glucocorticosteroids; 1 patient received albuterol in the DULERA 200 mcg / 5 mcg group. | 5 (2%) | 8 (3%) | 12 (5%) |
 
-Other Studies
+Other Studies in Adults
 
-In addition to Trial 1 and Trial 2, the safety and efficacy of the individual components, mometasone furoate MDI 100 mcg and 200 mcg, in comparison to placebo were demonstrated in three other, 12-week, placebo controlled trials which evaluated the mean change in FEV1 from baseline as a primary endpoint.
-The safety and efficacy of formoterol MDI 5 mcg alone in comparison to placebo was replicated in another 26-week trial that evaluated a lower dose of mometasone furoate MDI in combination with formoterol.
+In addition to Trial 1 and Trial 2, the safety and efficacy of the individual components, mometasone furoate MDI 100 mcg and 200 mcg (each administered as 2 inhalations by MDI), in comparison to placebo were demonstrated in two other, 12-week, placebo-controlled trials that evaluated the mean change in FEV1 from baseline as a primary endpoint.
+The safety and efficacy of formoterol MDI 5 mcg (administered as 2 inhalations twice daily) alone in comparison to placebo was replicated in another 26-week trial (NCT00383552) that also evaluated the same endpoint with a lower dose of mometasone furoate MDI in combination with formoterol.
+
+Pediatric Patients Aged 5 to Less Than 12 Years
+
+The efficacy of DULERA 50 mcg/5 mcg in children aged 5 to less than 12 years was demonstrated in a randomized, active-controlled, multicenter clinical trial (NCT02741271) in which DULERA 50 mcg/5 mcg (administered as two inhalations, twice daily; n=91) was compared with mometasone furoate MDI 50 mcg (administered as two inhalations, twice daily; n=90), in 181 asthma patients aged 5 to less than 12 years.
+These participants had been adequately controlled on an ICS/LABA for at least 4 weeks and had no symptoms of asthma worsening during a 2-week run-in on mometasone furoate MDI 50 mcg (administered as two inhalations twice daily).
+Primary endpoint results showed that patients receiving DULERA 50 mcg/5 mcg had a statistically significant change from baseline to Week 12 in 60-min AM post-dose % predicted FEV1 compared to mometasone furoate MDI 50 mcg (5.21, 95% CI: 3.22, 7.20) [Figure 2].
+Bronchodilatory improvement with DULERA 50 mcg/5 mcg relative to mometasone furoate MDI 50 mcg was significant from the first assessment at 5 minutes and was sustained through 4 hours post-dose.
+These improvements were evident as early as the first dose and were maintained through Week 12.
+
+Figure 2: Change from Baseline AM Post-Dose in % Predicted FEV1 Through Week 12
+
+MF = mometasone furoate; MF/F = mometasone furoate/formoterol fumarate Population consists of all subjects who received at least one dose of blinded treatment and completed at least one efficacy evaluation.
+Treatment Effects were estimated using the Primary Analysis Method [i.e., a cLDA model with control-based multiple imputation, including terms for treatment, time, age strata (5-7 yrs., 8-11 yrs.), treatment by time interaction, and region (US, ex-US)].
 
 Postmarketing Safety and Efficacy Trial with DULERA
 

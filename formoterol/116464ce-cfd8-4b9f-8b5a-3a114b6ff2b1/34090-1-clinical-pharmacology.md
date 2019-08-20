@@ -29,11 +29,13 @@ The relevance of these in vitro and animal findings to humans is unknown.
 
 ## 12.2 Pharmacodynamics
 
-Cardiovascular Effects:
-
 DULERA:
 
-In a single-dose, double-blind placebo-controlled crossover trial in 25 patients with asthma, single-dose treatment of 10 mcg formoterol fumarate in combination with 400 mcg of mometasone furoate delivered via DULERA 200 mcg/5 mcg were compared to formoterol fumarate 10 mcg MDI, formoterol fumarate 12 mcg dry powder inhaler (DPI; nominal dose of formoterol fumarate delivered 10 mcg), or placebo.
+Adult and Adolescent Patients Aged 12 Years and Older
+
+Cardiovascular Effects:
+
+In a single-dose, double-blind placebo-controlled crossover trial in 25 adult patients with asthma, single-dose treatment of 10 mcg formoterol fumarate in combination with 400 mcg of mometasone furoate delivered via DULERA 200 mcg/5 mcg were compared to formoterol fumarate 10 mcg MDI, formoterol fumarate 12 mcg dry powder inhaler (DPI; nominal dose of formoterol fumarate delivered 10 mcg), or placebo.
 The degree of bronchodilation at 12 hours after dosing with DULERA was similar to formoterol fumarate delivered alone via MDI or DPI.
 
 ECGs and blood samples for glucose and potassium were obtained prior to dosing and post dose.
@@ -44,7 +46,7 @@ There was no evidence of significant hypokalemia or hyperglycemia in response to
 No relevant changes in heart rate or changes in ECG data were observed with DULERA in the trial.
 No patients had a QTcB (QTc corrected by Bazett's formula) ≥500 msec during treatment.
 
-In a single-dose crossover trial involving 24 healthy subjects, single dose of formoterol fumarate 10, 20, or 40 mcg in combination with 400 mcg of mometasone furoate delivered via DULERA were evaluated for safety (ECG, blood potassium and glucose changes).
+In a single-dose crossover trial involving 24 adult healthy subjects, single dose of formoterol fumarate 10, 20, or 40 mcg in combination with 400 mcg of mometasone furoate delivered via DULERA were evaluated for safety (ECG, blood potassium and glucose changes).
 ECGs and blood samples for glucose and potassium were obtained at baseline and post dose.
 Decrease in mean serum potassium was similar across all three treatment groups (approximately 0.3 mmol/L) and values were within the normal range.
 No clinically significant increases in mean blood glucose values or heart rate were observed.
@@ -53,7 +55,10 @@ No subjects had a QTcB >500 msec during treatment.
 Three active- and placebo-controlled trials (study duration ranging from 12, 26, and 52 weeks) evaluated 1913 patients 12 years of age and older with asthma.
 No clinically meaningful changes were observed in potassium and glucose values, vital signs, or ECG parameters in patients receiving DULERA.
 
-HPA Axis Effects:
+Pediatric Patients: Among 91 children with asthma aged 5 to less than 12 years treated with DULERA for up to 24 weeks, there were no notable changes from baseline in heart rate or blood pressure.
+There were no reports of hypokalemia or hypoglycemia.
+
+HPA Axis Effects: Adults
 
 The effects of inhaled mometasone furoate administered via DULERA on adrenal function were evaluated in two clinical trials in patients with asthma.
 HPA-axis function was assessed by 24-hour plasma cortisol AUC.
@@ -65,14 +70,25 @@ At Day 42, the mean change from baseline plasma cortisol AUC(0-24 hr) was 8%, 22
 In a 52-week, open-label safety study, primary analysis of the plasma cortisol 24-hour AUC was performed on 57 patients with asthma who received 2 inhalations twice daily of DULERA 100 mcg/5 mcg, DULERA 200 mcg/5 mcg, fluticasone propionate/salmeterol xinafoate 125/25 mcg, or fluticasone propionate/salmeterol xinafoate 250/25 mcg.
 At Week 52, the mean plasma cortisol AUC(0-24 hr) was 2.2%, 29.6%, 16.7%, and 32.2% lower from baseline for the DULERA 100 mcg/5 mcg (n=18), DULERA 200 mcg/5 mcg (n=20), fluticasone propionate/salmeterol xinafoate 125/25 mcg (n=8), and fluticasone propionate/salmeterol xinafoate 250/25 mcg (n=11) treatment groups, respectively.
 
-Other Mometasone Products
+Other Mometasone Products:
 
-HPA Axis Effects:
+Systemic effects of inhaled corticosteroids are related to systemic exposure.
+Pharmacokinetic data have demonstrated that, in adults, systemic exposure to mometasone furoate administered as DULERA is the same or lower than that of equivalent doses of inhaled mometasone furoate administered via DPI [see Clinical Pharmacology (12.3)].
+Based upon the pharmacokinetic data, the systemic effects (e.g., HPA-axis suppression and growth retardation) of mometasone furoate delivered from DULERA in adult and pediatric patients would be expected to be no greater than what is reported for inhaled mometasone furoate when administered at comparable doses via DPI [see Use in Specific Populations (8.4)].
+
+HPA Axis Effects: Adults
 
 The potential effect of mometasone furoate via a dry powder inhaler (DPI) on the HPA axis was assessed in a 29-day study.
 A total of 64 adult patients with mild to moderate asthma were randomized to one of 4 treatment groups: mometasone furoate DPI 440 mcg twice daily, mometasone furoate DPI 880 mcg twice daily, oral prednisone 10 mg once daily, or placebo.
-The 30-minute post-Cosyntropin stimulation serum cortisol concentration on Day 29 was 23.2 mcg/dl for the mometasone furoate DPI 440 mcg twice daily group and 20.8 mcg/dl for the mometasone furoate DPI 880 mcg twice daily group, compared to 14.5 mcg/dl for the oral prednisone 10 mg group and 25 mcg/dl for the placebo group.
+The 30-minute post-cosyntropin stimulation serum cortisol concentration on Day 29 was 23.2 mcg/dl for the mometasone furoate DPI 440 mcg twice daily group and 20.8 mcg/dl for the mometasone furoate DPI 880 mcg twice daily group, compared to 14.5 mcg/dl for the oral prednisone 10 mg group and 25 mcg/dl for the placebo group.
 The difference between mometasone furoate DPI 880 mcg twice daily (twice the maximum recommended dose) and placebo was statistically significant.
+
+HPA Axis Effect: Pediatrics
+
+The potential effect of mometasone furoate via a DPI on the HPA axis was assessed in 50 children aged 6 to 11 years in a 29-day, randomized, double-blind, placebo-controlled, parallel-group clinical trial.
+In this study, the mean difference from placebo in plasma cortisol AUC(0-12hr) for DPI 110 mcg twice daily was 3.4 mcg∙hr/dL (95% CI: -14.0, 20.7) and for 220 mcg twice daily was -16.0 mcg∙hr/dL (95% CI: -33.9, 1.9).
+The mean difference from placebo in plasma cortisol AUC(0-12hr) for the 440 mcg twice daily group (eight times the currently recommended mometasone furoate dose via a DPI in children ages 4-11) was -17.9 mcg∙hr/dL (95% CI: -35.8, 0.0).
+The mean differences in urinary-free cortisol changes from baseline compared to placebo were 3.1 mcg/day (95% CI: -3.3, 9.6), 3.3 mcg/day (95% CI: -3.0, 9.7), and -2.0 mcg/day (95% CI: -8.6, 4.6) for the groups treated with 110 mcg twice daily, 220 mcg twice daily, and 440 mcg twice daily, respectively.
 
 ## 12.3 Pharmacokinetics
 
@@ -80,7 +96,7 @@ Absorption
 
 Mometasone furoate:
 
-Healthy Subjects: The systemic exposures to mometasone furoate from DULERA versus mometasone furoate delivered via DPI were compared.
+Adult Healthy Subjects: The systemic exposures to mometasone furoate from DULERA versus mometasone furoate delivered via DPI were compared.
 Following oral inhalation of single and multiple doses of the DULERA, mometasone furoate was absorbed in healthy subjects with median Tmax values ranging from 0.50 to 4 hours.
 Following single-dose administration of higher than recommended dose of DULERA (4 inhalations of DULERA 200 mcg/5 mcg) in healthy subjects, the arithmetic mean (CV%) Cmax and AUC(0-12 hr) values for MF were 67.8 (49) pg/mL and 650 (51) pg∙hr/mL, respectively while the corresponding estimates following 5 days of BID dosing of DULERA 800 mcg/20 mcg were 241 (36) pg/mL and 2200 (35) pg∙hr/mL.
 Exposure to mometasone furoate increased with increasing inhaled dose of DULERA 100 mcg/5 mcg to 200 mcg/5 mcg.
@@ -88,22 +104,22 @@ Studies using oral dosing of labeled and unlabeled drug have demonstrated that t
 
 The above study demonstrated that the systemic exposure to mometasone furoate (based on AUC) was approximately 52% and 25% lower on Day 1 and Day 5, respectively, following DULERA administration compared to mometasone furoate via a DPI.
 
-Asthma Patients: Following oral inhalation of single and multiple doses of the DULERA, mometasone furoate was absorbed in asthma patients with median Tmax values ranging from 1 to 2 hours.
+Adult Asthma Patients: Following oral inhalation of single and multiple doses of the DULERA, mometasone furoate was absorbed in asthma patients with median Tmax values ranging from 1 to 2 hours.
 Following single-dose administration of DULERA 400 mcg/10 mcg, the arithmetic mean (CV%) Cmax and AUC(0-12 hr) values for MF were 20 (88) pg/mL and 170 (94) pg∙hr/mL, respectively while the corresponding estimates following BID dosing of DULERA 400 mcg/10 mcg at steady-state were 60 (36) pg/mL and 577 (40) pg∙hr/mL.
 
 Formoterol fumarate:
 
-Healthy Subjects: When DULERA was administered to healthy subjects, formoterol was absorbed with median Tmax values ranging from 0.167 to 0.5 hour.
+Adult Healthy Subjects: When DULERA was administered to healthy subjects, formoterol was absorbed with median Tmax values ranging from 0.167 to 0.5 hour.
 In a single-dose study with DULERA 400 mcg/10 mcg in healthy subjects, arithmetic mean (CV%) Cmax and AUC for formoterol were 15 (50) pmol/L and 81 (51) pmol*h/L, respectively.
 Over the dose range of 10 to 40 mcg for formoterol from DULERA, the exposure to formoterol was dose proportional.
 
-Asthma Patients: When DULERA was administered to patients with asthma, formoterol was absorbed with median Tmax values ranging from 0.58 to 1.97 hours.
+Adult Asthma Patients: When DULERA was administered to patients with asthma, formoterol was absorbed with median Tmax values ranging from 0.58 to 1.97 hours.
 In a single-dose study with DULERA 400 mcg/10 mcg in patients with asthma, arithmetic mean (CV%) Cmax and AUC(0-12 hr) for formoterol were 22 (29) pmol/L and 125 (42) pmol*h/L, respectively.
 Following multiple-dose administration of DULERA 400 mcg/10 mcg, the steady-state arithmetic mean (CV%) Cmax and AUC(0-12 hr) for formoterol were 41 (59) pmol/L and 226 (54) pmol*hr/L.
 
 Distribution
 
-Mometasone furoate: Based on the study employing a 1000 mcg inhaled dose of tritiated mometasone furoate inhalation powder in humans, no appreciable accumulation of mometasone furoate in the red blood cells was found.
+Mometasone furoate: Based on the study employing a 1000 mcg inhaled dose of tritiated mometasone furoate inhalation powder in adult subjects, no appreciable accumulation of mometasone furoate in the red blood cells was found.
 Following an intravenous 400 mcg dose of mometasone furoate, the plasma concentrations showed a biphasic decline, with a mean steady-state volume of distribution of 152 liters.
 The in vitro protein binding for mometasone furoate was reported to be 98% to 99% (in a concentration range of 5 to 500 ng/mL).
 
@@ -132,14 +148,14 @@ Mometasone furoate: Following an intravenous dosing, the terminal half-life was 
 Following the inhaled dose of tritiated 1000 mcg mometasone furoate, the radioactivity is excreted mainly in the feces (a mean of 74%), and to a small extent in the urine (a mean of 8%) up to 7 days.
 No radioactivity was associated with unchanged mometasone furoate in the urine.
 Absorbed mometasone furoate is cleared from plasma at a rate of approximately 12.5 mL/min/kg, independent of dose.
-The effective t½ for mometasone furoate following inhalation with DULERA was 25 hours in healthy subjects and in patients with asthma.
+The effective t½ for mometasone furoate following inhalation with DULERA was 25 hours in adult healthy subjects and in adult patients with asthma.
 
 Formoterol fumarate: Following oral administration of 80 mcg of radiolabeled formoterol fumarate to 2 healthy subjects, 59% to 62% of the radioactivity was eliminated in the urine and 32% to 34% in the feces over a period of 104 hours.
 In an oral inhalation study with DULERA, renal clearance of formoterol from the blood was 217 mL/min.
 In single-dose studies, the mean t½ values for formoterol in plasma were 9.1 hours and 10.8 hours from the urinary excretion data.
 The accumulation of formoterol in plasma after multiple dose administration was consistent with the increase expected with a drug having a terminal t½ of 9 to 11 hour.
 
-Following single inhaled doses ranging from 10 to 40 mcg to healthy subjects from the MFF MDI, 6.2% to 6.8% of the formoterol dose was excreted in urine unchanged.
+Following single inhaled doses ranging from 10 to 40 mcg to adult healthy subjects from the MF/F MDI, 6.2% to 6.8% of the formoterol dose was excreted in urine unchanged.
 The (R,R) and (S,S)-enantiomers accounted, respectively, for 37% and 63% of the formoterol recovered in urine.
 From urinary excretion rates measured in healthy subjects, the mean terminal elimination half-lives for the (R,R)- and (S,S)-enantiomers were determined to be 13 and 9.5 hours, respectively.
 The relative proportion of the two enantiomers remained constant over the dose range studied.
@@ -148,7 +164,7 @@ Special Populations
 
 Hepatic/Renal Impairment: There are no data regarding the specific use of DULERA in patients with hepatic or renal impairment.
 
-A study evaluating the administration of a single inhaled dose of 400 mcg mometasone furoate by a dry powder inhaler to patients with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 patients in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50–105 pcg/mL).
+A study evaluating the administration of a single inhaled dose of 400 mcg mometasone furoate by a dry powder inhaler to adult patients with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 patients in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50–105 pcg/mL).
 The observed peak plasma concentrations appear to increase with severity of hepatic impairment; however, the numbers of detectable levels were few.
 
 Gender and Race: Specific studies to examine the effects of gender and race on the pharmacokinetics of DULERA have not been specifically studied.
@@ -160,7 +176,7 @@ Drug-Drug Interactions
 A single-dose crossover study was conducted to compare the pharmacokinetics of 4 inhalations of the following: mometasone furoate MDI, formoterol MDI, DULERA (mometasone furoate/formoterol fumarate MDI), and mometasone furoate MDI plus formoterol fumarate MDI administered concurrently.
 The results of the study indicated that there was no evidence of a pharmacokinetic interaction between the two components of DULERA.
 
-Inhibitors of Cytochrome P450 Enzymes: Ketoconazole: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg delivered by a dry powder inhaler was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
+Inhibitors of Cytochrome P450 Enzymes: Ketoconazole: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg delivered by a dry powder inhaler was given to 24 adult healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
 Mometasone furoate plasma concentrations were <150 pcg/mL on Day 3 prior to coadministration of ketoconazole or placebo.
 Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211–324 pcg/mL).
 Mometasone furoate plasma levels appeared to increase and plasma cortisol levels appeared to decrease upon concomitant administration of ketoconazole.

@@ -5,7 +5,7 @@
 DULERA: DULERA contains both mometasone furoate and formoterol fumarate; therefore, the risks associated with overdosage for the individual components described below apply to DULERA.
 
 Mometasone Furoate: Chronic overdosage may result in signs/symptoms of hypercorticism [see Warnings and Precautions (5.7)].
-Single oral doses up to 8000 mcg of mometasone furoate have been studied on human volunteers with no adverse reactions reported.
+Single oral doses up to 8000 mcg of mometasone furoate have been studied on adult subjects with no adverse reactions reported.
 
 Formoterol Fumarate: The expected signs and symptoms with overdosage of formoterol are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of any of the following signs and symptoms: angina, hypertension or hypotension, tachycardia, with rates up to 200 beats/min., arrhythmias, nervousness, headache, tremor, seizures, muscle cramps, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, hypokalemia, hyperglycemia, and insomnia.
 Metabolic acidosis may also occur.
