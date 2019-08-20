@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL-Locoid Solution – 60 mL Carton
+# PRINCIPAL DISPLAY PANEL - Locoid Solution – 60 mL Carton
 
 NDC 16781-391-60
 
