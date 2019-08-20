@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211581"
+  ],
+  "inn": "triamterene",
+  "labeler": "TRUPHARMA LLC",
+  "package_ndcs": [
+    "52817-364-10",
+    "52817-365-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "triamterene capsules",
+      "name": "Triamterene"
+    }
+  ],
+  "setid": "fea50328-b3d5-4300-8c67-82cda0a975b7",
+  "source": "dailymed"
+}
