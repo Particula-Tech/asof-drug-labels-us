@@ -12,13 +12,23 @@ Take guanfacine extended-release tablets orally once daily, either in the mornin
 Begin at a dose of 1 mg/day, and adjust in increments of no more than 1 mg/week.
 
 In monotherapy-clinical trials, there was dose- and exposure-related clinical improvement as well as risks for several clinically significant adverse reactions (hypotension, bradycardia, sedative events).
-To balance the exposure-related potential benefits and risks, the recommended target dose range depending on clinical response and tolerability for guanfacine extended-release is 0.05 to 0.12 mg/kg/day (total daily dose between 1 mg to 4 mg).
+To balance the exposure-related potential benefits and risks, the recommended target dose range depending on clinical response and tolerability for guanfacine extended-release is 0.05 to 0.12 mg/kg/day (total daily dose between 1 to 7 mg) (See Table 1).
+
+Table 1: Recommended Target Dose Range for Therapy with Guanfacine Extended-Release
+
+| Weight | Target dose range (0.05 to 0.12 mg/kg/day) |
+| --- | --- |
+| 25 to 33.9 kg | 2 to 3 mg/day |
+| 34 to 41.4 kg | 2 to 4 mg/day |
+| 41.5 to 49.4 kg | 3 to 5 mg/day |
+| 49.5 to 58.4 kg | 3 to 6 mg/day |
+| 58.5 to 91 kg | 4 to 7 mg/day |
+| >91 kg | 5 to 7 mg/day |
+
+Doses above 4 mg/day have not been evaluated in children (ages 6 to 12 years) and doses above 7 mg/day have not been evaluated in adolescents (ages 13 to 17 years)
 
 In the adjunctive trial which evaluated guanfacine extended-release treatment with psychostimulants, the majority of patients reached optimal doses in the 0.05 to 0.12 mg/kg/day range.
 Doses above 4 mg/day have not been studied in adjunctive trials.
-
-Additional pediatric use information for patients ages 6 to 17 years is approved for Shire US Inc.’s INTUNIV® (guanfacine) extended-release tablet product.
-However, due to Shire US Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.3 Switching from Immediate-Release Guanfacine to Guanfacine Extended-Release
 
@@ -32,9 +42,7 @@ Guanfacine extended-release has significantly reduced Cmax (60% lower), bioavail
 Pharmacological treatment of ADHD may be needed for extended periods.
 Healthcare providers should periodically re-evaluate the long-term use of guanfacine extended-release, and adjust weight-based dosage as needed.
 The majority of children and adolescents reach optimal doses in the 0.05 to 0.12 mg/kg/day range.
-
-Additional pediatric use information for patients ages 6 to 17 years is approved for Shire US Inc.’s INTUNIV® (guanfacine) extended-release tablet product.
-However, due to Shire US Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Doses above 4 mg/day have not been evaluated in children (ages 6 to 12 years) and above 7 mg/day have not been evaluated in adolescents (ages 13 to 17 years) [see Clinical Studies (14)].
 
 ## 2.5 Discontinuation of Treatment
 
@@ -56,5 +64,5 @@ Table 2: Guanfacine Extended-Release Dosage Adjustments for Patients Taking Conc
 |  | Clinical Scenarios |  |  |
 | --- | --- | --- | --- |
 |  | Starting guanfacine extended-release while currently on a CYP3A4 modulator | Continuing guanfacine extended- release while adding a CYP3A4 modulator | Continuing guanfacine extended-release while stopping a CYP3A4 modulator |
-| CYP3A4 Strong and Moderate Inhibitors | Decrease guanfacine extended-release dosage to half the recommended level. | Decrease guanfacine extended-release dosage to half the recommended level. | Increase guanfacine extended-release dosage to recommended level. |
-| CYP3A4 Strong and Moderate Inducers | Consider increasing guanfacine extended- release dosage up to double the recommended level. | Consider increasing guanfacine extended-release dosage up to double the recommended level over 1 to 2 weeks. | Decrease guanfacine extended-release dosage to recommended level over 1 to 2 weeks. |
+| CYP3A4 Strong and Moderate Inhibitors | Decrease guanfacine extended-release dosage to half the recommended level. (see Table 1) | Decrease guanfacine extended-release dosage to half the recommended level. (see Table 1) | Increase guanfacine extended-release dosage to recommended level. (see Table 1) |
+| CYP3A4 Strong and Moderate Inducers | Consider increasing guanfacine extended- release dosage up to double the recommended level. (see Table 1) | Consider increasing guanfacine extended-release dosage up to double the recommended level over 1 to 2 weeks. (see Table 1) | Decrease guanfacine extended-release dosage to recommended level over 1 to 2 weeks. (see Table 1) |

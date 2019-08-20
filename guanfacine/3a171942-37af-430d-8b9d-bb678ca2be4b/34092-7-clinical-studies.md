@@ -2,8 +2,9 @@
 
 Efficacy of guanfacine extended-release in the treatment of ADHD was established in children and adolescents (6 to 17 years) in:
 
-- Three short-term, placebo-controlled monotherapy trials (Studies 1, 2, and 4)
+- Five short-term, placebo-controlled monotherapy trials (Studies 1, 2, 4, 5, and 6)
 - One short-term, placebo-controlled adjunctive trial with psychostimulants (Study 3).
+- One long-term, placebo-controlled monotherapy maintenance trial (Study 7).
 
 Studies 1 and 2: Fixed-dose Guanfacine Extended-Release Monotherapy
 
@@ -65,7 +66,7 @@ Endpoint was defined as the last post- randomization treatment week prior to dos
 Mean reductions in ADHD-RS-IV total scores at endpoint were statistically significantly greater for guanfacine extended-release given in combination with a psychostimulant compared to placebo given with a psychostimulant for Study 3, for both morning and evening guanfacine extended-release dosing (see Table 17).
 Nearly two-thirds (64.2%) of patients reached optimal doses in the 0.05 to 0.12 mg/kg/day range.
 
-Study 4: Flexible-dose Guanfacine Extended-Release Monotherapy
+Studies 4, 5 and 6: Flexible-dose Guanfacine Extended-Release Monotherapy
 
 Study 4 (314 study) was a double-blind, randomized, placebo-controlled, dose-optimization study, in which efficacy of once daily dosing (morning or evening) with guanfacine extended-release (1 mg, 2 mg, 3 mg, and 4 mg) was evaluated for 8 weeks in children aged 6 to 12 years (n=340).
 
@@ -75,20 +76,41 @@ Endpoint was defined as the last post-randomization treatment week for which a v
 
 Mean reductions in ADHD-RS-IV total scores at endpoint were statistically significantly greater for guanfacine extended-release compared to placebo in both AM and PM dosing groups of guanfacine extended-release (see Table 17).
 
+Study 5 (312 study) was a 15-week, double-blind, randomized, placebo-controlled, dose-optimization study conducted in adolescents aged 13 to 17 years (n=314) to evaluate the efficacy and safety of guanfacine extended-release (1 to 7 mg/day; optimized dose range of 0.05 to 0.12 mg/kg/day) in the treatment of ADHD as measured by the ADHD Rating Scale-IV (ADHD-RS-IV).
+Patients receiving guanfacine extended-release showed statistically significantly greater improvement on the ADHD-RS-IV total score compared with patients receiving placebo (see Table 17).
+
+Study 6 (316 study) was a 12-week (for children aged 6 to 12) or 15-week (for adolescents aged 13 to 17), randomized, double-blind, parallel-group, placebo- and active-reference, dose-optimization study conducted in pediatric patients (children and adolescents aged 6 to 17 years old inclusive) (n=337) to assess the efficacy and safety of once-daily dosing (children: 1 to 4 mg/day, adolescents: 1 to 7 mg/day; optimized dose range of 0.05 to 0.12 mg/kg/day) in the treatment of ADHD.
+Guanfacine extended-release was statistically superior to placebo on symptoms of ADHD in patients 6 to 17 years as measured by change from baseline in ADHD-RS-IV total scores (see Table 17).
+
 Table 17: Flexible-Dose Studies
 
-|  |  |  | Primary Efficacy Measure: ADHD-RS-IV Total Score |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Study |  |  | Mean Baseline | LS Mean | Placebo- |
-| Number |  |  | Score (SD) | Change from | subtracted |
-| (Age Range) | Treatment Group |  |  | Baseline (SE) | Differenceb (95% CI) |
-| Study 3a | Guanfacine Extended-Release | 1 to 4 mg AM* | 37.6 (8.13) | -20.3 (0.97) | -4.5 (-7.5, -1.4) |
-| (6 to 17 years) | Guanfacine Extended-Release | 1 to 4 mg PM* | 37.0 (7.65) | -21.2 (0.97) | -5.3 (-8.3, -2.3) |
-|  | Placebo |  | 37.7 (7.75) | -15.9 (0.96) | -- |
-| Study 4 | Guanfacine Extended-Release | 1 to 4 mg AM* | 41.7 (6.39) | -20.0 (1.23) | -9.4 (-12.8, -6.0) |
-| (6 to 12 years) | Guanfacine Extended-Release | 1 to 4 mg PM* | 41.6 (6.66) | -20.4 (1.19) | -9.8 (-13.1, -6.4) |
-|  | Placebo |  | 42.9 (6.29) | -10.6 (1.20) | -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Treatment was given in combination with a psychostimulant. b Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |  |
+|  |  |  |  | Primary Efficacy Measure: ADHD-RS-IV Total Score |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Study |  |  |  | Mean Baseline | LS Mean | Placebo- |  |
+| Number |  |  |  | Score (SD) | Change from | subtracted |  |
+| (Age Range) | Treatment Group |  |  |  | Baseline (SE) | Differenceb (95% CI) |  |
+| Study 3a | Guanfacine Extended-Release |  | 1 to 4 mg AM* | 37.6 (8.13) | -20.3 (0.97) | -4.5 (-7.5, -1.4) |  |
+| (6 to 17 years) | Guanfacine Extended-Release |  | 1 to 4 mg PM* | 37.0 (7.65) | -21.2 (0.97) | -5.3 (-8.3, -2.3) |  |
+|  | Placebo |  |  | 37.7 (7.75) | -15.9 (0.96) | -- |  |
+| Study 4 | Guanfacine Extended-Release |  | 1 to 4 mg AM* | 41.7 (6.39) | -20.0 (1.23) | -9.4 (-12.8, -6.0) |  |
+| (6 to 12 years) | Guanfacine Extended-Release |  | 1 to 4 mg PM* | 41.6 (6.66) | -20.4 (1.19) | -9.8 (-13.1, -6.4) |  |
+|  | Placebo |  |  | 42.9 (6.29) | -10.6 (1.20) | -- |  |
+| Study 5 | Guanfacine Extended-Release |  | 1 to 7 mg* | 39.9 (5.57) | -24.6 (1.06) | 6.03 (-8.87, -3.19) |  |
+| (13 to 17 years) | Placebo |  |  | 40.0 (6.11) | -18.5 (1.08) |  |  |
+| Study 6 | Guanfacine Extended-Release |  | 1 to 7 mg* | 43.1 (5.47) | -23.89 (1.15) |  |  |
+| (6 to 17 years) | Placebo |  |  | 43.2 (5.60) | 15.01 (1.16) | -8.88 (-11.94, -5.81)-- |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Treatment was given in combination with a psychostimulant. b Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |  |  |  |
 
-Additional pediatric use information for patients ages 6 to 17 years is approved for Shire US Inc.’s INTUNIV® (guanfacine) extended-release tablet product.
-However, due to Shire US Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Study 7: Long-Term Maintenance of Guanfacine Extended-Release Efficacy
+
+Study 7 (315 study) was a double-blind, placebo-controlled, randomized withdrawal trial in pediatric patients aged 6 to 17 years with DSM-IV-TR diagnosis of ADHD.
+The study consisted of an open-label phase, including a 7-week dose optimization period to titrate patients to an optimal dose (maximum 4 mg/day for children and 7 mg/day for adolescents; optimized dose range: 0.05 to 0.12 mg/kg/day) and a 6-week dose maintenance period.
+There were 526 patients included in the open-label phase.
+Among those, 315 patients who met response criteria in the open-label phase were then randomized (1:1, guanfacine extended-release:placebo) in a 26-week, double-blind, randomized withdrawal phase.
+The response criteria were defined by ≥30% reduction in ADHD-RS-IV total score and a Clinical Global Impression-Improvement (CGI-I) score of 1 or 2 during the open-label phase.
+A statistically significantly lower proportion of treatment failures occurred among guanfacine extended-release patients compared to placebo at the end of the randomized withdrawal period (Figure 4).
+Treatment failure was defined as a ≥50% increase (worsening) in ADHD-RS-IV total score and a ≥2-point increase in Clinical Global Impression-Severity (CGI-S) score.
+Patients who met the treatment failure criteria on two consecutive visits or discontinued for any reason were classified as treatment failure.
+
+Figure 4.
+Kaplan-Meier Estimation of Proportion of Patients with Treatment Failure for Children and Adolescents Ages 6 to 17 (Study 7)

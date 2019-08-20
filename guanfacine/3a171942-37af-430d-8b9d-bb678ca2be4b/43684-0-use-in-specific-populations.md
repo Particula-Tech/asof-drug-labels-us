@@ -25,10 +25,7 @@ Observe human milk-fed infants for sedation and somnolence.
 ## 8.4 Pediatric Use
 
 Safety and efficacy of guanfacine extended-release in pediatric patients less than 6 years of age have not been established.
-The efficacy of guanfacine extended-release was studied for the treatment of ADHD in three controlled monotherapy clinical trials (up to 8 weeks in duration), and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6 to 17 who met DSM-IV® criteria for ADHD [see Adverse Reactions (6) and Clinical Studies (14)].
-
-Additional pediatric use information for patients ages 6 to 17 years is approved for Shire US Inc.’s INTUNIV® (guanfacine) extended-release tablet product.
-However, due to Shire US Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The efficacy of guanfacine extended-release was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration), one randomized withdrawal study and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6 to 17 who met DSM-IV® criteria for ADHD [see Adverse Reactions (6) and Clinical Studies (14)].
 
 Animal Data
 
