@@ -1,6 +1,6 @@
 # Instructions for Use
 
-ASMANEX® HFA (mometasone furoate) Inhalation Aerosol
+ASMANEX® HFA (AZ-ma-neks) 50 mcg ASMANEX® HFA 100 mcg ASMANEX® HFA 200 mcg (mometasone furoate) Inhalation Aerosol
 
 Read these Instructions for Use before you start using ASMANEX HFA and each time you get a refill.
 There may be new information.
@@ -23,6 +23,8 @@ There are 2 main parts to your ASMANEX HFA inhaler: the metal canister that hold
 Important Information:
 
 - Use ASMANEX HFA exactly as your healthcare provider tells you to.
+  Adults may assist children with using ASMANEX HFA as prescribed.
+  Children may use ASMANEX HFA with or without a spacer device.
 - Remove the cap from the mouthpiece of the actuator before using ASMANEX HFA.
 - Do not remove the canister from the actuator because:
   - you may not receive the correct amount of medication.
@@ -49,11 +51,13 @@ Before you use ASMANEX HFA for the first time, you must prime the inhaler.
 
 Using your ASMANEX HFA:
 
-1. 4.Remove the cap from the mouthpiece of the actuator (see Figure 3).
+1. 4.
+   Confirm that the strength indicated on the actuator and canister labels matches the prescribed dosage.
+2. 5.Remove the cap from the mouthpiece of the actuator (see Figure 3).
    Check the mouthpiece for objects before use.
    Make sure the canister is fully inserted into the actuator.
-2. 5.Shake the inhaler well before each use.
-3. 6.Breathe out as fully as you comfortably can through your mouth.
+3. 6.Shake the inhaler well before each use.
+4. 7.Breathe out as fully as you comfortably can through your mouth.
    Push out as much air from your lungs as possible.
    Hold the inhaler in the upright position and place the mouthpiece into your mouth (see Figure 4).
    Close your lips around the mouthpiece.
@@ -61,19 +65,19 @@ Using your ASMANEX HFA:
 | Figure 3 | Figure 4 |
 | --- | --- |
 
-1. 7.Take a deep breath (inhale) in slowly through your mouth.
+1. 8.Take a deep breath (inhale) in slowly through your mouth.
    While doing this, press down firmly and fully on the top of the canister until it stops moving in the actuator.
    Take your finger off the canister.
-2. 8.When you have finished breathing in, hold your breath as long as you comfortably can, up to 10 seconds.
+2. 9.When you have finished breathing in, hold your breath as long as you comfortably can, up to 10 seconds.
    Then remove the inhaler from your mouth and breathe out through your nose, while keeping your lips closed.
-3. 9.Wait at least 30 seconds to take your second puff of ASMANEX HFA.
-4. 10.Shake the inhaler well again and repeat steps 6 through 8 to take your second puff of ASMANEX HFA.
+3. 10.Wait at least 30 seconds to take your second puff of ASMANEX HFA.
+4. 11.Shake the inhaler well again and repeat steps 6 through 8 to take your second puff of ASMANEX HFA.
 
 After using your ASMANEX HFA inhaler:
 
-- 11.Replace the cap over the mouthpiece right away after use (see Figure 5).
+- 12.Replace the cap over the mouthpiece right away after use (see Figure 5).
 
-- 12.After you finish taking ASMANEX HFA (2 puffs), rinse your mouth with water.
+- 13.After you finish taking ASMANEX HFA (2 puffs), rinse your mouth with water.
 
 Reading the counter:
 

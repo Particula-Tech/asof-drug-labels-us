@@ -6,8 +6,8 @@ Not for Acute Symptoms
 
 Advise patients that ASMANEX HFA is not indicated to relieve acute asthma symptoms, and extra doses should not be used for that purpose.
 ASMANEX HFA is not a bronchodilator and should not be used to treat status asthmaticus or to relieve acute asthma symptoms.
-Acute asthma symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
-Prescribe the patient with such medication and instruct the patient in how it should be used [see Warnings and Precautions (5.1)].
+Treat acute asthma symptoms with an inhaled, short-acting beta2-agonist such as albuterol.
+Prescribe the patient with such medication and instruct the patient on how to use it [see Warnings and Precautions (5.1)].
 
 Instruct patients to seek medical attention immediately if they experience any of the following:
 
@@ -16,7 +16,7 @@ Instruct patients to seek medical attention immediately if they experience any o
 - If they need more inhalations of a short-acting beta2-agonist than usual
 
 Advise patients not to increase the dose or frequency of ASMANEX HFA.
-The daily dosage of ASMANEX HFA should not exceed two inhalations twice daily.
+Do not exceed the daily dosage of ASMANEX HFA two inhalations twice daily.
 If they miss a dose, instruct patients to take their next dose at the same time they normally do.
 
 Advise patients not to stop or reduce ASMANEX HFA therapy without physician/provider guidance since symptoms may recur after discontinuation.
@@ -24,8 +24,8 @@ Advise patients not to stop or reduce ASMANEX HFA therapy without physician/prov
 Local Effects
 
 Advise patients that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
-If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing with ASMANEX HFA therapy, but at times therapy with ASMANEX HFA may need to be temporarily interrupted under close medical supervision.
-Advise patients to rinse the mouth after inhalation of ASMANEX HFA [see Warnings and Precautions (5.2)].
+If oropharyngeal candidiasis develops, treat with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing with ASMANEX HFA therapy, but at times therapy with ASMANEX HFA may need to be temporarily interrupted under close medical supervision.
+After dosing, advise patients to rinse their mouth with water and spit out contents without swallowing [see Warnings and Precautions (5.2)].
 
 Immunosuppression
 
@@ -36,7 +36,7 @@ Hypercorticism and Adrenal Suppression
 
 Advise patients that ASMANEX HFA may cause systemic corticosteroid effects of hypercorticism and adrenal suppression.
 Additionally, instruct patients that deaths due to adrenal insufficiency have occurred during and after transfer from systemic corticosteroids.
-Patients should taper slowly from systemic corticosteroids if transferring to ASMANEX HFA [see Warnings and Precautions (5.4 and 5.5)].
+Instruct patients to slowly taper from systemic corticosteroids if transferring to ASMANEX HFA [see Warnings and Precautions (5.4 and 5.5)].
 
 Reduction in Bone Mineral Density
 
@@ -49,7 +49,7 @@ Physicians should closely follow the growth of pediatric patients taking cortico
 
 Glaucoma and Cataracts
 
-Advise patients that long-term use of inhaled corticosteroids may increase the risk of some eye problems (glaucoma or cataracts); regular eye examinations should be considered [see Warnings and Precautions (5.11)].
+Advise patients that long-term use of inhaled corticosteroids may increase the risk of some eye problems (glaucoma or cataracts); consider regular eye examinations [see Warnings and Precautions (5.11)].
 
 Hypersensitivity Reactions Including Anaphylaxis
 
@@ -69,6 +69,8 @@ Instruct patients regarding the following:
 - Read the Patient Information before use and follow the Instructions for Use carefully.
 - Remind patients to:
   - Remove the cap from the mouthpiece of the actuator before use.
+  - After dosing, rinse their mouth with water and spit out contents without swallowing.
+    This will help reduce the risk of oropharyngeal candidiasis.
   - Not remove the canister from the actuator.
   - Not wash inhaler in water.
     The mouthpiece should be cleaned using a dry wipe after every 7 days of use.

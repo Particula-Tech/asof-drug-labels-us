@@ -11,8 +11,8 @@ During such episodes, patients may require therapy with oral corticosteroids.
 ## 5.2 Local Effects
 
 In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans have occurred in patients treated with ASMANEX HFA.
-If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while remaining on treatment with ASMANEX HFA therapy, but at times therapy with ASMANEX HFA may need to be interrupted.
-Advise patients to rinse the mouth after inhalation of ASMANEX HFA.
+If oropharyngeal candidiasis develops, treat with appropriate local or systemic (i.e., oral) antifungal therapy while remaining on treatment with ASMANEX HFA therapy, but at times therapy with ASMANEX HFA may need to be interrupted.
+To reduce the risk of oropharyngeal candidiasis, after dosing with ASMANEX HFA, advise patients to rinse their mouth with water and spit out the contents without swallowing.
 
 ## 5.3 Immunosuppression
 
@@ -75,7 +75,7 @@ ASMANEX HFA should be discontinued immediately and alternative therapy institute
 Hypersensitivity reactions such as urticaria, flushing, allergic dermatitis, and bronchospasm, may occur after administration of ASMANEX HFA.
 Discontinue ASMANEX HFA if such reactions occur [see Contraindications (4.2)].
 
-The following additional hypersensitivity reactions, such as rash, pruritus, angioedema, and anaphylactic reaction, have been reported after administration of mometasone furoate dry powder inhaler [see Adverse Reactions (6.2)].
+The following additional hypersensitivity reactions, such as rash, pruritus, angioedema, and anaphylactic reaction, have been reported after administration of mometasone furoate dry powder inhaler (DPI) [see Adverse Reactions (6.2)].
 
 ## 5.9 Reduction in Bone Mineral Density
 

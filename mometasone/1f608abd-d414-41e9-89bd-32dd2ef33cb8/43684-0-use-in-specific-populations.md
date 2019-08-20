@@ -51,8 +51,12 @@ The developmental and health benefits of breastfeeding should be considered alon
 The safety and effectiveness of ASMANEX HFA have been established in patients 12 years of age and older in 2 clinical trials of 12 and 26 weeks in duration.
 In the 2 clinical trials, 32 patients 12 to 17 years of age were treated with ASMANEX HFA.
 No overall differences in effectiveness were observed between patients in this age group compared to those observed in patients 18 years of age and older.
-There were no obvious differences in the type or frequency of adverse drug reactions reported in this age group compared to patients 18 years of age and older.
-The safety and efficacy of ASMANEX HFA have not been established in children less than 12 years of age.
+There were no obvious differences in the type or frequency of adverse reactions reported in this age group compared to patients 18 years of age and older.
+
+The safety and effectiveness of ASMANEX HFA 50 mcg, two inhalations twice daily, have been established in patients with asthma aged 5 to less than 12 years in clinical trials up to 24 weeks of treatment duration.
+The safety profile and overall effectiveness in this age group were consistent with that observed in patients aged 12 years and older who also received ASMANEX HFA [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+
+The safety and effectiveness of ASMANEX HFA have not been established in children younger than 5 years of age.
 
 Controlled clinical studies have shown that inhaled corticosteroids may cause a reduction in growth velocity in pediatric patients.
 In these studies, the mean reduction in growth velocity was approximately 1 cm per year (range 0.3 to 1.8 per year) and appears to depend upon dose and duration of exposure.

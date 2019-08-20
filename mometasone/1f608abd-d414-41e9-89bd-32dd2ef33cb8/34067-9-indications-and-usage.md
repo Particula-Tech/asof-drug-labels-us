@@ -2,7 +2,7 @@
 
 ## 1.1 Treatment of Asthma
 
-ASMANEX® HFA is indicated for the maintenance treatment of asthma as prophylactic therapy in patients 12 years of age and older.
+ASMANEX® HFA is indicated for the maintenance treatment of asthma as prophylactic therapy in patients 5 years of age and older.
 
 Important Limitations of Use
 

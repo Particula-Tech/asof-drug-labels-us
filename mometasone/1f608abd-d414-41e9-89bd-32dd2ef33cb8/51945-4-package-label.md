@@ -35,3 +35,22 @@ Rx only
 
 120 Metered Actuations Net Wt.
 13g
+
+# PRINCIPAL DISPLAY PANEL - 50 mcg Canister Carton
+
+NDC 0085-2222-01
+
+Asmanex® HFA (mometasone furoate) Inhalation Aerosol
+
+50 mcg per actuation
+
+For oral inhalation only
+
+Asmanex HFA canister to be used with Asmanex HFA actuator only.
+
+SHAKE WELL BEFORE USING.
+
+Rx only
+
+120 Metered Actuations Net Wt.
+13g
