@@ -40,7 +40,7 @@ Advise patients they should not take CONTRAVE if they have any symptoms of opioi
 Patients should be advised to call their healthcare provider if they experience increased blood pressure or heart rate.
 
 Patients should be advised to notify their healthcare provider if they are taking, or plan to take, any prescription or over-the-counter drugs.
-Concern is warranted because CONTRAVE and other drugs may affect each other’s metabolism.
+Concern is warranted because CONTRAVE and other drugs may affect each other's metabolism.
 
 Patients should be advised to notify their healthcare provider if they become pregnant, intend to become pregnant, or are breastfeeding during therapy.
 

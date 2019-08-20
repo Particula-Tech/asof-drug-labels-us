@@ -1,6 +1,6 @@
 # 16HOW SUPPLIED/STORAGE AND HANDLING
 
-CONTRAVE 8 mg/90 mg (naltrexone HCl 8 mg and bupropion HCl 90 mg) extended-release, tri-layer tablets are blue, round, bi-convex, film-coated tablets debossed with “NB-890” on one side.
+CONTRAVE 8 mg/90 mg (naltrexone HCl 8 mg and bupropion HCl 90 mg) extended-release, tri-layer tablets are blue, round, bi-convex, film-coated tablets debossed with "NB-890" on one side.
 CONTRAVE tablets are available as follows:
 
 | NDC 64764-890-99 | Bottles of 120 tablets |

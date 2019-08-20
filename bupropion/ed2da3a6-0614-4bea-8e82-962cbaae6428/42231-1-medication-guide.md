@@ -139,7 +139,7 @@ What are the possible side effects of CONTRAVE?
 
 CONTRAVE may cause serious side effects, including:
 
-- •See “What is the most important information I should know about CONTRAVE?”
+- •See "What is the most important information I should know about CONTRAVE?"
 - •Seizures.
   There is a risk of having a seizure when you take CONTRAVE.
   The risk of seizure is higher in people who:
