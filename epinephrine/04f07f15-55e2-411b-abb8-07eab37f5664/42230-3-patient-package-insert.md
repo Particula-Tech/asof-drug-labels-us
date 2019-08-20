@@ -386,7 +386,7 @@ Important differences between the Trainer and your real yellow Epinephrine Injec
 | Has needle? | NO | YES | YES |
 | Comes in Carrier Tube? | NO | NO | NO |
 | Color of label | Grey | Yellow | Green |
-| Has expiration date? | YES | YES | YES |
+| Has expiration date? | NO | YES | YES |
 | Can be reused? | YES | NO (use only once) | NO (use only once) |
 | Okay to remove and replace cap and/or safety release? | YES | NO (remove just oncebefore use) | NO (remove just oncebefore use) |
 | Pressure needed to hold against thigh? | Moderate | Strong | Strong |
@@ -401,5 +401,5 @@ Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
-Iss.
-6/2018
+Rev.
+A 7/2019
