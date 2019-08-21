@@ -3,18 +3,18 @@
 There have been a few reports of serious adverse events associated with the coadministration of dihydroergotamine and potent CYP 3A4 inhibitors, such as protease inhibitors and macrolide antibiotics, resulting in vasospasm that led to cerebral ischemia and/or ischemia of the extremities.
 The use of potent CYP 3A4 inhibitors (ritonavir, nelfinavir, indinavir, erythromycin, clarithromycin, troleandomycin, ketoconazole, itraconazole) with dihydroergotamine is, therefore contraindicated (See WARNINGS: CYP 3A4 Inhibitors).
 
-Migranal® (dihydroergotamine mesylate) Nasal Spray should not be given to patients with ischemic heart disease (angina pectoris, history of myocardial infarction, or documented silent ischemia) or to patients who have clinical symptoms or findings consistent with coronary artery vasospasm including Prinzmetal's variant angina.
+MIGRANAL® (dihydroergotamine mesylate) Nasal Spray should not be given to patients with ischemic heart disease (angina pectoris, history of myocardial infarction, or documented silent ischemia) or to patients who have clinical symptoms or findings consistent with coronary artery vasospasm including Prinzmetal's variant angina.
 (See WARNINGS)
 
-Because Migranal® (dihydroergotamine mesylate) Nasal Spray may increase blood pressure, it should not be given to patients with uncontrolled hypertension.
+Because MIGRANAL® (dihydroergotamine mesylate) Nasal Spray may increase blood pressure, it should not be given to patients with uncontrolled hypertension.
 
-Migranal® (dihydroergotamine mesylate) Nasal Spray, 5-HT1 agonists (e.g., sumatriptan), ergotamine-containing or ergot-type medications or methysergide should not be used within 24 hours of each other.
+MIGRANAL® (dihydroergotamine mesylate) Nasal Spray, 5-HT1 agonists (e.g., sumatriptan), ergotamine-containing or ergot-type medications or methysergide should not be used within 24 hours of each other.
 
-Migranal® (dihydroergotamine mesylate) Nasal Spray should not be administered to patients with hemiplegic or basilar migraine.
+MIGRANAL® (dihydroergotamine mesylate) Nasal Spray should not be administered to patients with hemiplegic or basilar migraine.
 
-In addition to those conditions mentioned above, Migranal® (dihydroergotamine mesylate) Nasal Spray is also contraindicated in patients with known peripheral arterial disease, sepsis, following vascular surgery, and severely impaired hepatic or renal function.
+In addition to those conditions mentioned above, MIGRANAL® (dihydroergotamine mesylate) Nasal Spray is also contraindicated in patients with known peripheral arterial disease, sepsis, following vascular surgery, and severely impaired hepatic or renal function.
 
-Migranal® (dihydroergotamine mesylate) Nasal Spray may cause fetal harm when administered to a pregnant woman.
+MIGRANAL® (dihydroergotamine mesylate) Nasal Spray may cause fetal harm when administered to a pregnant woman.
 Dihydroergotamine possesses oxytocic properties and, therefore, should not be administered during pregnancy.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
@@ -28,7 +28,7 @@ A no effect level was not established.
 Effects on development occurred at doses below those that produced evidence of significant maternal toxicity in these studies.
 Dihydroergotamine-induced intrauterine growth retardation has been attributed to reduced uteroplacental blood flow resulting from prolonged vasoconstriction of the uterine vessels and/or increased myometrial tone.
 
-Migranal® (dihydroergotamine mesylate) Nasal Spray is contraindicated in patients who have previously shown hypersensitivity to ergot alkaloids.
+MIGRANAL® (dihydroergotamine mesylate) Nasal Spray is contraindicated in patients who have previously shown hypersensitivity to ergot alkaloids.
 
 Dihydroergotamine mesylate should not be used by nursing mothers.
 (See PRECAUTIONS)
