@@ -2,19 +2,28 @@
 
 ## 8.1 Pregnancy
 
-Animal reproduction studies have not been conducted with mannitol.
-It is also not known whether mannitol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-OSMITROL should be given to a pregnant woman only if clearly needed.
+### Risk Summary
 
-## 8.2 Labor and Delivery
+The available case report data with mannitol over decades of use have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Mannitol crosses the placenta and may cause fluid shifts that could potentially result in adverse effects in the fetus (see Data).
+No adverse developmental effects from mannitol were reported in published animal studies; however, fluid shifts occurred in fetal ewes in response to maternal infusion of mannitol.
 
-Studies have not been conducted to evaluate the effects of mannitol on labor and delivery.
-Caution should be exercised when administering OSMITROL during labor and delivery.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.3 Nursing Mothers
+### Data
 
-It is not known whether mannitol is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when OSMITROL is administered to a nursing woman.
+Human Data
+
+Published literature reports the presence of mannitol in amniotic fluid when mannitol is administered to pregnant women during the third trimester of pregnancy.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of mannitol in either human or animal milk, the effects on the breastfed infant, or the effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for OSMITROL and any potential adverse effects on the breastfed infant from OSMITROL or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

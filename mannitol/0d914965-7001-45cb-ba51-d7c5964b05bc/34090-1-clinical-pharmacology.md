@@ -22,7 +22,7 @@ The elimination half-life of mannitol is 0.5 to 2.5 hours.
 
 Metabolism
 
-Only relatively small amount of the dose administered is metabolized after intravenous administration of OSMITROL to healthy subjects.
+Only relatively small amount of the dose administered is metabolized after intravenous administration of mannitol to healthy subjects.
 
 Excretion
 
@@ -37,4 +37,4 @@ Patients with Renal Impairment
 In patients with renal impairment, the elimination half-life of mannitol is prolonged.
 In a published study, in patients with renal impairment including acute renal failure and end stage renal failure, the elimination half-life of mannitol was estimated at about 36 hours, based on serum osmolarity.
 In patients with renal impairment on dialysis, the elimination half-life of mannitol was reduced to 6 and 21 hours during hemodialysis and peritoneal dialysis, respectively.
-[see Use in Specific Populations (8.6), Overdosage (10)]
+[see Use in Specific Populations (8.6), Overdosage (10)].

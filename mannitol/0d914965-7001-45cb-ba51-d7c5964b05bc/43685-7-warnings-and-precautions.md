@@ -6,32 +6,21 @@ Serious hypersensitivity reactions, including anaphylaxis, hypotension and dyspn
 
 Stop the infusion immediately if signs or symptoms of a suspected hypersensitivity reaction develop.
 Initiate appropriate therapeutic countermeasures as clinically indicated.
-During and following OSMITROL infusion, monitor the patient clinically and monitor laboratory tests for changes in fluid and electrolyte status.
-Discontinue OSMITROL if renal function worsens [see Warnings and Precautions (5.5)].
 
 ## 5.2 Renal Complications Including Renal Failure
 
 Renal complications, including irreversible renal failure have been reported in patients receiving mannitol.
-In patients with severe renal impairment, a test dose should be utilized.
-A second test dose may be tried if there is an inadequate response, but no more than two test doses should be attempted [see Dosage and Administration (2.2)].
-
-Reversible, oliguric acute kidney injury (AKI) has occurred in patients with normal pretreatment renal function who received large intravenous doses of OSMITROL.
-Although the osmotic nephrosis associated with OSMITROL administration is in principle reversible, osmotic nephrosis in general is known to potentially proceed chronic or even end-stage renal failure.
-Monitor renal function closely during OSMITROL infusion.
+Reversible, oliguric acute kidney injury (AKI) has occurred in patients with normal pretreatment renal function who received large intravenous doses of mannitol.
+Although the osmotic nephrosis associated with mannitol administration is in principle reversible, osmotic nephrosis in general is known to potentially proceed chronic or even end-stage renal failure.
+Monitor renal function closely, including signs of urine output reduction, during OSMITROL infusion.
 Patients with pre-existing renal disease, patients with conditions that put them at high risk for renal failure, or those receiving potentially nephrotoxic drugs or other diuretics, are at increased risk of renal failure following administration of OSMITROL.
 Avoid concomitant administration of nephrotoxic drugs (e.g., aminoglycosides) or, other diuretics with OSMITROL, if possible [see Drug Interactions (7.1, 7.2)].
 
 Patients with oliguric AKI who subsequently develop anuria while receiving mannitol are at risk of congestive heart failure, pulmonary edema, hypertensive crisis, coma and death.
 
 During and following OSMITROL infusion for the reduction in intracranial pressure, monitor the patient clinically and laboratory tests for changes in fluid and electrolyte status.
-Discontinue OSMITROL if CNS toxicity develops.
+Discontinue OSMITROL if renal function worsens.
 [see Warnings and Precautions (5.5)].
-
-OSMITROL should be administered with caution to patients with impaired renal function [see Dosage and Administration (2.2)].
-
-If the urine output declines during OSMITROL infusion, the patient’s clinical status should be closely monitored for developing renal impairment, and the OSMITROL infusion suspended, if necessary.
-
-OSMITROL should not be administered in patients with renal dysfunction until volume and electrolytes have been restored [see Warnings and Precautions (5.5)].
 
 ## 5.3 Central Nervous System (CNS) Toxicity
 
@@ -47,10 +36,13 @@ Patients with a compromised blood brain barrier are at increased risk.
 Concomitant administration of neurotoxic drugs (e.g., aminoglycosides) with OSMITROL may potentiate neurotoxicity.
 Avoid concomitant use of neurotoxic drugs, if possible [see Drug Interactions (7.3)].
 
+During and following OSMITROL infusion for the reduction in intracranial pressure, monitor the patient clinically and laboratory tests for changes in fluid and electrolyte status.
+Discontinue OSMITROL if CNS toxicity develops [see Warnings and Precautions (5.5)].
+
 ## 5.4 Fluid and Electrolyte Imbalances, Hyperosmolarity
 
 Depending on dosage and duration, administration of OSMITROL may result in hypervolemia leading to or exacerbating existing congestive heart failure.
-Accumulation of mannitol due to insufficient renal excretion increases risk of hypervolemia.
+Accumulation of mannitol due to insufficient renal excretion increases the risk of hypervolemia.
 Mannitol-induced osmotic diuresis may cause or worsen dehydration/hypovolemia and hemoconcentration.
 Administration of OSMITROL may also cause hyperosmolarity [see Description (11)].
 

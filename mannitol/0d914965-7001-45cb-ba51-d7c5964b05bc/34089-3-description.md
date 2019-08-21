@@ -1,16 +1,14 @@
 # 11 DESCRIPTION
 
-OSMITROL is a sterile, nonpyrogenic solution of Mannitol, USP in a single-dose flexible container for intravenous administration.
+OSMITROL is a sterile, nonpyrogenic solution of Mannitol, USP in a single-dose flexible container for intravenous administration as an osmotic diuretic.
 It contains no antimicrobial agents.
 Mannitol is a six carbon sugar alcohol prepared commercially by the reduction of dextrose.
-Although virtually inert metabolically in humans, it occurs naturally in fruits and vegetables.
-OSMITROL is an osmotic diuretic.
 The pH is adjusted with sodium hydroxide or hydrochloric acid.
-Composition, osmolarity, and pH are shown in Table 1.
+Composition, osmolarity, and pH are shown in.
 
-| Table 1 |  | Composition |  |  |
+| Table 11 | Size | Composition | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L.Osmolarity | pH |
 | --- | --- | --- | --- | --- |
-| Size (mL) | Mannitol, USP (g/L) | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L.Osmolarity (mOsmol/L) (calc) | pH |  |
+| (mL) | Mannitol, USP (g/L) | (mOsmol/L) (calc) |  |  |
 | 5% OSMITROL | 1000 | 50 | 274 | 5.0 (4.5 TO 7.0) |
 | 10% OSMITROL | 500 | 100 | 549 | 5.0 (4.5 TO 7.0) |
 | 15% OSMITROL | 500 | 150 | 823 | 5.0 (4.5 TO 7.0) |

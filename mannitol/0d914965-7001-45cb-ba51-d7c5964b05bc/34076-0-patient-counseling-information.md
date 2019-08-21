@@ -6,4 +6,4 @@ Inform patients or caregivers of the following risks of OSMITROL:
 - •Renal Failure [see Warnings and Precautions (5.2)]
 - •CNS Toxicity [see Warnings and Precautions (5.3)]
 - •Fluid and Electrolyte Imbalances, Hyperosmolarity [see Warnings and Precautions (5.4)]
-- •Infusion Site Reactions [see Warnings and Precautions (5.6)
+- •Infusion Site Reactions [see Warnings and Precautions (5.6)]

@@ -13,7 +13,7 @@ Avoid use of other diuretics with OSMITROL, if possible [see Warnings and Precau
 ## 7.3 Neurotoxic Drugs
 
 Concomitant administration of systemic neurotoxic drugs (e.g., aminoglycosides) with OSMITROL may potentiate the CNS toxicity of mannitol.
-Avoid use of systemic neurotoxic drugs with OSMITROL, if possible[see Warnings and Precautions (5.3)].
+Avoid use of systemic neurotoxic drugs with OSMITROL, if possible [see Warnings and Precautions (5.3)].
 
 ## 7.4 Drugs Affected by Electrolyte Imbalances
 
