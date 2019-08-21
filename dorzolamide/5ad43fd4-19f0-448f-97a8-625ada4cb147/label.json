@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212639"
+  ],
+  "inn": "dorzolamide",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-519-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "dorzolamide hydrochloride",
+      "name": "Dorzolamide Hydrochloride"
+    }
+  ],
+  "setid": "5ad43fd4-19f0-448f-97a8-625ada4cb147",
+  "source": "dailymed"
+}
