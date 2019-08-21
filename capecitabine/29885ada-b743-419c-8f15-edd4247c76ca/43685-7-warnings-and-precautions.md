@@ -2,7 +2,7 @@
 
 ## 5.1 Coagulopathy
 
-Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored closely with great frequency and the anticoagulant dose should be adjusted accordingly [see Boxed Warningand Dosage and Administration (2.2)].
+Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored closely with great frequency and the anticoagulant dose should be adjusted accordingly [see Boxed Warning and Drug Interactions (7.1)].
 
 ## 5.2 Diarrhea
 
@@ -12,7 +12,7 @@ In 875 patients with either metastatic breast or colorectal cancer who received 
 The median duration of grade 3 to 4 diarrhea was 5 days.
 National Cancer Institute of Canada (NCIC) grade 2 diarrhea is defined as an increase of 4 to 6 stools/day or nocturnal stools, grade 3 diarrhea as an increase of 7 to 9 stools/day or incontinence and malabsorption, and grade 4 diarrhea as an increase of ≥10 stools/day or grossly bloody diarrhea or the need for parenteral support.
 If grade 2, 3 or 4 diarrhea occurs, administration of capecitabine should be immediately interrupted until the diarrhea resolves or decreases in intensity to grade 1 [see Dosage and Administration (2.3)].
-Standard antidiarrheal treatments (eg, loperamide) are recommended.
+Standard antidiarrheal treatments (e.g., loperamide) are recommended.
 
 Necrotizing enterocolitis (typhlitis) has been reported.
 
@@ -42,7 +42,7 @@ Dose modifications should be applied for the precipitating adverse event as nece
 
 Patients with moderate renal impairment at baseline require dose reduction [see Dosage and Administration (2.4)].
 Patients with mild and moderate renal impairment at baseline should be carefully monitored for adverse reactions.
-Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2 [see Dosage and Administration (2.3), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2[see Dosage and Administration (2.3), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 5.6 Embryo-Fetal Toxicity
 
@@ -68,7 +68,7 @@ Following grade 3 hand-and-foot syndrome, subsequent doses of capecitabine shoul
 
 ## 5.8 Hyperbilirubinemia
 
-In 875 patients with either metastatic breast or colorectal cancer who received at least one dose of capecitabine 1250 mg/m2 twice daily as monotherapy for 2 weeks followed by a 1-week rest period, grade 3 (1.5-3 × ULN) hyperbilirubinemia occurred in 15.2% (n=133) of patients and grade 4 (>3 × ULN) hyperbilirubinemia occurred in 3.9% (n=34) of patients.
+In 875 patients with either metastatic breast or colorectal cancer who received at least one dose of capecitabine 1,250 mg/m2 twice daily as monotherapy for 2 weeks followed by a 1-week rest period, grade 3 (1.5-3 × ULN) hyperbilirubinemia occurred in 15.2% (n=133) of patients and grade 4 (>3 × ULN) hyperbilirubinemia occurred in 3.9% (n=34) of patients.
 Of 566 patients who had hepatic metastases at baseline and 309 patients without hepatic metastases at baseline, grade 3 or 4 hyperbilirubinemia occurred in 22.8% and 12.3%, respectively.
 Of the 167 patients with grade 3 or 4 hyperbilirubinemia, 18.6% (n=31) also had postbaseline elevations (grades 1 to 4, without elevations at baseline) in alkaline phosphatase and 27.5% (n=46) had postbaseline elevations in transaminases at any time (not necessarily concurrent).
 The majority of these patients, 64.5% (n=20) and 71.7% (n=33), had liver metastases at baseline.
@@ -85,7 +85,7 @@ If drug-related grade 3 to 4 elevations in bilirubin occur, administration of ca
 
 ## 5.9 Hematologic
 
-In 875 patients with either metastatic breast or colorectal cancer who received a dose of 1250 mg/m2 administered twice daily as monotherapy for 2 weeks followed by a 1-week rest period, 3.2%, 1.7%, and 2.4% of patients had grade 3 or 4 neutropenia, thrombocytopenia or decreases in hemoglobin, respectively.
+In 875 patients with either metastatic breast or colorectal cancer who received a dose of 1,250 mg/m2 administered twice daily as monotherapy for 2 weeks followed by a 1-week rest period, 3.2%, 1.7%, and 2.4% of patients had grade 3 or 4 neutropenia, thrombocytopenia or decreases in hemoglobin, respectively.
 In 251 patients with metastatic breast cancer who received a dose of capecitabine in combination with docetaxel, 68% had grade 3 or 4 neutropenia, 2.8% had grade 3 or 4 thrombocytopenia, and 9.6% had grade 3 or 4 anemia.
 
 Patients with baseline neutrophil counts of <1.5 × 109/L and/or thrombocyte counts of <100 × 109/L should not be treated with capecitabine.

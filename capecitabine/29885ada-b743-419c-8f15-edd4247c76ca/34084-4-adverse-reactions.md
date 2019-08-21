@@ -5,7 +5,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Adjuvant Colon Cancer
 
 Table 4 shows the adverse reactions occurring in ≥5% of patients from one phase 3 trial in patients with Dukes' C colon cancer who received at least one dose of study medication and had at least one safety assessment.
-A total of 995 patients were treated with 1250 mg/m2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 974 patients were administered 5-FU and leucovorin (20 mg/m2 leucovorin IV followed by 425 mg/m2 IV bolus 5-FU on days 1-5 every 28 days).
+A total of 995 patients were treated with 1,250 mg/m2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 974 patients were administered 5-FU and leucovorin (20 mg/m2 leucovorin IV followed by 425 mg/m2 IV bolus 5-FU on days 1-5 every 28 days).
 The median duration of treatment was 164 days for capecitabine-treated patients and 145 days for 5-FU/LV-treated patients.
 A total of 112 (11%) and 73 (7%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions.
 A total of 18 deaths due to all causes occurred either on study or within 28 days of receiving study drug: 8 (0.8%) patients randomized to capecitabine and 10 (1.0%) randomized to 5-FU/LV.
@@ -66,86 +66,73 @@ Table 5 Percent Incidence of Grade 3/4 Laboratory Abnormalities Reported in ≥1
 
 ## 6.2 Metastatic Colorectal Cancer
 
-Monottherapy
-
-Table 6 shows the adverse reactions occurring in ≥5% of patients from pooling the two phase 3 trials in first line metastatic colorectal cancer.
-A total of 596 patients with metastatic colorectal cancer were treated with 1250 mg/m2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 593 patients were administered 5-FU and leucovorin in the Mayo regimen (20 mg/m2 leucovorin IV followed by 425 mg/m2 IV bolus 5-FU, on days 1-5, every 28 days).
+Monotherapy Table 6 shows the adverse reactions occurring in ≥5% of patients from pooling the two phase 3 trials in first line metastatic colorectal cancer.
+A total of 596 patients with metastatic colorectal cancer were treated with 1,250 mg/m2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 593 patients were administered 5-FU and leucovorin in the Mayo regimen (20 mg/m2 leucovorin IV followed by 425 mg/m2 IV bolus 5-FU, on days 1-5, every 28 days).
 In the pooled colorectal database the median duration of treatment was 139 days for capecitabine-treated patients and 140 days for 5-FU/LV-treated patients.
 A total of 78 (13%) and 63 (11%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions/intercurrent illness.
 A total of 82 deaths due to all causes occurred either on study or within 28 days of receiving study drug: 50 (8.4%) patients randomized to capecitabine and 32 (5.4%) randomized to 5-FU/LV.
-
 Table 6 Pooled Phase 3 Colorectal Trials: Percent Incidence of Adverse Reactions in ≥5% of Patients
 
-|  | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
-| --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event | Capecitabine (n=596) |  |  | 5-FU/LV (n=593) |  |  |
-| Number of Patients With > One Adverse Event | 96 | 52 | 9 | 94 | 45 | 9 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
+| Number of Patients With ˃One Adverse Event | 96 | 52 | 9 | 94 | 45 | 9 |
 | Body System/Adverse Event |  |  |  |  |  |  |
-| GI |  |  |  |  |  |  |
-| Diarrhea | 55 | 13 | 2 | 61 | 10 | 2 |
-| Nausea | 43 | 4 | – | 51 | 3 | <1 |
-| Vomiting | 27 | 4 | <1 | 30 | 4 | <1 |
-| Stomatitis | 25 | 2 | <1 | 62 | 14 | 1 |
-| Abdominal Pain | 35 | 9 | <1 | 31 | 5 | – |
-| Gastrointestinal Motility Disorder | 10 | <1 | – | 7 | <1 | – |
-| Constipation | 14 | 1 | <1 | 17 | 1 | – |
-| Oral Discomfort | 10 | – | – | 10 | – | – |
-| Upper GI Inflammatory Disorders | 8 | <1 | – | 10 | 1 | – |
-| Gastrointestinal Hemorrhage | 6 | 1 | <1 | 3 | 1 | – |
-| Ileus | 6 | 4 | 1 | 5 | 2 | 1 |
+| GI Diarrhea Nausea Vomiting Stomatitis Abdominal Pain Gastrointestinal Motility Disorder Constipation Oral Discomfort Upper GI Inflammatory Disorders Gastrointestinal Hemorrhage Ileus |  |  |  |  |  |  |
+| 55 43 27 25 35 10 14 10 8 6 6 | 13 4 4 2 9 ˂1 1 – ˂1 1 4 | 2 – ˂1 ˂1 ˂1 – ˂1 – – ˂1 1 | 61 51 30 62 31 7 17 10 10 3 5 | 10 3 4 14 5 ˂1 1 – 1 1 2 | 2 ˂1 ˂1 1 – – – – – – 1 |  |
 | Skin and Subcutaneous |  |  |  |  |  |  |
 | Hand-and-Foot Syndrome | 54 | 17 | NA | 6 | 1 | NA |
 | Dermatitis | 27 | 1 | – | 26 | 1 | – |
-| Skin Discoloration | 7 | <1 | – | 5 | – | – |
-| Alopecia | 6 | – | – | 21 | <1 | – |
+| Skin Discoloration | 7 | ˂1 | – | 5 | – | – |
+| Alopecia | 6 | – | – | 21 | ˂1 | – |
 | General |  |  |  |  |  |  |
 | Fatigue/Weakness | 42 | 4 | – | 46 | 4 | – |
 | Pyrexia | 18 | 1 | – | 21 | 2 | – |
 | Edema | 15 | 1 | – | 9 | 1 | – |
 | Pain | 12 | 1 | – | 10 | 1 | – |
-| Chest Pain | 6 | 1 | – | 6 | 1 | <1 |
+| Chest Pain | 6 | 1 | – | 6 | 1 | ˂1 |
 | Neurological |  |  |  |  |  |  |
 | Peripheral Sensory Neuropathy | 10 | – | – | 4 | – | – |
 | Headache | 10 | 1 | – | 7 | – | – |
-| Dizziness<p>Excluding vertigo</p> | 8 | <1 | – | 8 | <1 | – |
+| Dizziness* | 8 | ˂1 | – | 8 | ˂1 | – |
 | Insomnia | 7 | – | – | 7 | – | – |
-| Taste Disturbance | 6 | 1 | – | 11 | <1 | 1 |
+| Taste Disturbance | 6 | 1 | – | 11 | ˂1 | 1 |
 | Metabolism |  |  |  |  |  |  |
-| Appetite Decreased | 26 | 3 | <1 | 31 | 2 | <1 |
-| Dehydration | 7 | 2 | <1 | 8 | 3 | 1 |
+| Appetite Decreased | 26 | 3 | ˂1 | 31 | 2 | ˂1 |
+| Dehydration | 7 | 2 | ˂1 | 8 | 3 | 1 |
 | Eye |  |  |  |  |  |  |
-| Eye Irritation | 13 | – | – | 10 | <1 | – |
+| Eye Irritation | 13 | – | – | 10 | ˂1 | – |
 | Vision Abnormal | 5 | – | – | 2 | – | – |
 | Respiratory |  |  |  |  |  |  |
-| Dyspnea | 14 | 1 | – | 10 | <1 | 1 |
-| Cough | 7 | <1 | 1 | 8 | – | – |
+| Dyspnea | 14 | 1 | – | 10 | ˂1 | 1 |
+| Cough | 7 | ˂1 | 1 | 8 | – | – |
 | Pharyngeal Disorder | 5 | – | – | 5 | – | – |
-| Epistaxis | 3 | <1 | – | 6 | – | – |
+| Epistaxis | 3 | ˂1 | – | 6 | – | – |
 | Sore Throat | 2 | – | – | 6 | – | – |
 | Musculoskeletal |  |  |  |  |  |  |
-| Back Pain | 10 | 2 | – | 9 | <1 | – |
+| Back Pain | 10 | 2 | – | 9 | ˂1 | – |
 | Arthralgia | 8 | 1 | – | 6 | 1 | – |
 | Vascular |  |  |  |  |  |  |
-| Venous Thrombosis | 8 | 3 | <1 | 6 | 2 | – |
+| Venous Thrombosis | 8 | 3 | ˂1 | 6 | 2 | – |
 | Psychiatric |  |  |  |  |  |  |
-| Mood Alteration | 5 | – | – | 6 | <1 | – |
-| Depression | 5 | – | – | 4 | <1 | – |
+| Mood Alteration | 5 | – | – | 6 | ˂1 | – |
+| Depression | 5 | – | – | 4 | ˂1 | – |
 | Infections |  |  |  |  |  |  |
-| Viral | 5 | <1 | – | 5 | <1 | – |
+| Viral | 5 | ˂1 | – | 5 | ˂1 | – |
 | Blood and Lymphatic |  |  |  |  |  |  |
-| Anemia | 80 | 2 | <1 | 79 | 1 | <1 |
+| Anemia | 80 | 2 | ˂1 | 79 | 1 | ˂1 |
 | Neutropenia | 13 | 1 | 2 | 46 | 8 | 13 |
 | Hepatobiliary |  |  |  |  |  |  |
 | Hyperbilirubinemia | 48 | 18 | 5 | 17 | 3 | 3 |
-| – Not observed |  |  |  |  |  |  |
-| NA = Not Applicable |  |  |  |  |  |  |
+
+– Not observed * Excluding vertigo NA = Not Applicable
 
 ## 6.3 Breast Cancer
 
 In Combination with Docetaxel
 
 The following data are shown for the combination study with capecitabine and docetaxel in patients with metastatic breast cancer in Table 7 and Table 8.
-In the capecitabine and docetaxel combination arm the treatment was capecitabine administered orally 1250 mg/m2 twice daily as intermittent therapy (2 weeks of treatment followed by 1 week without treatment) for at least 6 weeks and docetaxel administered as a 1-hour intravenous infusion at a dose of 75 mg/m2 on the first day of each 3-week cycle for at least 6 weeks.
+In the capecitabine and docetaxel combination arm the treatment was capecitabine administered orally 1,250 mg/m2 twice daily as intermittent therapy (2 weeks of treatment followed by 1 week without treatment) for at least 6 weeks and docetaxel administered as a 1-hour intravenous infusion at a dose of 75 mg/m2 on the first day of each 3-week cycle for at least 6 weeks.
 In the monotherapy arm docetaxel was administered as a 1-hour intravenous infusion at a dose of 100 mg/m2 on the first day of each 3-week cycle for at least 6 weeks.
 The mean duration of treatment was 129 days in the combination arm and 98 days in the monotherapy arm.
 A total of 66 patients (26%) in the combination arm and 49 (19%) in the monotherapy arm withdrew from the study because of adverse reactions.
@@ -157,7 +144,7 @@ Table 7 Percent Incidence of Adverse Events Considered Related or Unrelated to T
 
 |  | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event | Capecitabine1250 mg/m2/bid With Docetaxel 75 mg/m2/3 weeks |  |  | Docetaxel 100 mg/m2/3 weeks |  |  |
+| Adverse Event | Capecitabine1,250 mg/m2/bid With Docetaxel 75 mg/m2/3 weeks |  |  | Docetaxel 100 mg/m2/3 weeks |  |  |
 |  | (n=251) |  |  | (n=255) |  |  |
 | Number of Patients With at Least One Adverse Event | 99 | 76.5 | 29.1 | 97 | 57.6 | 31.8 |
 | Body System/Adverse Event |  |  |  |  |  |  |
@@ -238,7 +225,7 @@ Table 8 Percent of Patients With Laboratory Abnormalities Participating in the C
 
 | Body System/Adverse Event | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event | Capecitabine 1250 mg/m2/bid With Docetaxel 75 mg/m2/3 weeks |  |  | Docetaxel 100 mg/m2/3 weeks |  |  |
+| Adverse Event | Capecitabine 1,250 mg/m2/bid With Docetaxel 75 mg/m2/3 weeks |  |  | Docetaxel 100 mg/m2/3 weeks |  |  |
 |  | (n=251) |  |  | (n=255) |  |  |
 | Hematologic |  |  |  |  |  |  |
 | Leukopenia | 91 | 37 | 24 | 88 | 42 | 33 |
@@ -251,7 +238,7 @@ Table 8 Percent of Patients With Laboratory Abnormalities Participating in the C
 
 Monotherapy
 
-The following data are shown for the study in stage IV breast cancer patients who received a dose of 1250 mg/m2 administered twice daily for 2 weeks followed by a 1-week rest period.
+The following data are shown for the study in stage IV breast cancer patients who received a dose of 1,250 mg/m2 administered twice daily for 2 weeks followed by a 1-week rest period.
 The mean duration of treatment was 114 days.
 A total of 13 out of 162 patients (8%) discontinued treatment because of adverse reactions/intercurrent illness.
 
@@ -302,7 +289,7 @@ Table 9 Percent Incidence of Adverse Reactions Considered Remotely, Possibly or 
 
 ## 6.4 Clinically Relevant Adverse Events in <5% of Patients
 
-Clinically relevant adverse events reported in <5% of patients treated with Capecitabine either as monotherapy or in combination with docetaxel that were considered at least remotely related to treatment are shown below; occurrences of each grade 3 and 4 adverse event are provided in parentheses.
+Clinically relevant adverse events reported in <5% of patients treated with capecitabine either as monotherapy or in combination with docetaxel that were considered at least remotely related to treatment are shown below; occurrences of each grade 3 and 4 adverse event are provided in parentheses.
 
 Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastatic Breast Cancer)
 
@@ -324,9 +311,7 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 | Ear: | vertigo |
 | Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
 | Immune System: | drug hypersensitivity (0.1%) |
-| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)] persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints[see Warnings and Precautions (5.7)] |
 
-.
 Capecitabine In Combination With Docetaxel (Metastatic Breast Cancer)
 
 | Gastrointestinal: | ileus (0.4%), necrotizing enterocolitis (0.4%), esophageal ulcer (0.4%), hemorrhagic diarrhea (0.8%) |
@@ -339,3 +324,7 @@ Capecitabine In Combination With Docetaxel (Metastatic Breast Cancer)
 | Renal: | renal failure (0.4%) |
 | Hepatobiliary: | jaundice (0.4%), abnormal liver function tests (0.4%), hepatic failure (0.4%), hepatic coma (0.4%), hepatotoxicity (0.4%) |
 | Immune System: | hypersensitivity (1.2%) |
+
+## 6.5 Postmarketing Experience
+
+The following adverse reactions have been observed in the postmarketing setting: hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)], persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)] In instances of exposure to crushed capecitabine tablets, the following adverse reactions have been reported: eye irritation and swelling, skin rash, diarrhea, paresthesia, headache, gastric irritation, vomiting, and nausea.

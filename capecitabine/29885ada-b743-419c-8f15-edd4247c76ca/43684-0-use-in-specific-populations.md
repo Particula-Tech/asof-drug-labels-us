@@ -27,9 +27,7 @@ Pregnancy Testing Pregnancy testing is recommended for females of reproductive p
 Contraception Females Capecitabine can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment and for 6 months following the final dose of capecitabine.
 Males Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the last dose of Capecitabine [see Nonclinical Toxicology (13.1)].
-Infertility
-
-Based on animal studies, capacetabine may impair fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
+Infertility Based on animal studies, capacetabine may impair fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -42,22 +40,22 @@ In the dose-finding portion of the trial, patients received capecitabine with co
 After a 2 week break, patients received 1,250 mg/m2 capecitabine every 12 hours on Days 1 to 14 of a 21­day cycle for up to 3 cycles.
 The maximum tolerated dose (MTD) of capecitabine administered concomitantly with radiation therapy was 650 mg/m2 every 12 hours.
 The major dose limiting toxicities were palmar-plantar erythrodysesthesia and alanine aminotransferase (ALT) elevation.
-The second trial was conducted in 34 additional pediatric patients with newly diagnosed nondisseminated intrinsic diffuse brainstem gliomas (median age 7 years, range 3 to 16 years) and 10 pediatric patients who received the MTD of capecitabine in the dose-finding trial and met the eligibility criteria for this trial.
+The second trial was conducted in 34 additional pediatric patients with newly diagnosed non-disseminated intrinsic diffuse brainstem gliomas (median age 7 years, range 3 to 16 years) and 10 pediatric patients who received the MTD of capecitabine in the dose-finding trial and met the eligibility criteria for this trial.
 All patients received 650 mg/m2 capecitabine every 12 hours with concomitant radiation therapy for up to 9 weeks.
 After a 2 week break, patients received 1, 250 mg/m2 capecitabine every 12 hours on Days 1 to 14 of a 21-day cycle for up to 3 cycles.
 There was no improvement in one-year progression-free survival rate and one-year overall survival rate in pediatric patients with newly diagnosed intrinsic brainstem gliomas who received capecitabine relative to a similar population of pediatric patients who participated in other clinical trials.
 The adverse reaction profile of capecitabine was consistent with the known adverse reaction profile in adults, with the exception of laboratory abnormalities which occurred more commonly in pediatric patients.
-The most frequently reported laboratory abnormalities (per-patient incidence ≥40%) were increased ALT (75%), lymphocytopenia (73%), leukopenia (73%), hypokalemia (68%), thrombocytopenia (57%), hypoalbuminemia (55%), neutropenia (50%), low hematocrit (50%), hypocalcemia(48%), hypophosphatemia (45%) and hyponatremia (45%).
+The most frequently reported laboratory abnormalities (per-patient incidence ≥40%) were increased ALT (75%), lymphocytopenia (73%), leukopenia (73%), hypokalemia (68%), thrombocytopenia (57%), hypoalbuminemia (55%), neutropenia (50%), low hematocrit (50%), hypocalcemia (48%), hypophosphatemia (45%) and hyponatremia (45%).
 
 ## 8.5 Geriatric Use
 
-Physicians should pay particular attention to monitoring the adverse effects of capecitabine in the elderly [see Warnings and Precautions (5.11)].
+Physicians should pay particular attention to monitoring the adverse effects of capecitabine in the elderly[see Warnings and Precautions (5.10)].
 
 ## 8.6 Hepatic Insufficiency
 
 Exercise caution when patients with mild to moderate hepatic dysfunction due to liver metastases are treated with capecitabine.
-The effect of severe hepatic dysfunction on capecitabine is not known [see Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)].
+The effect of severe hepatic dysfunction on capecitabine is not known [seeWarnings and Precautions (5.11)andClinical Pharmacology (12.3)].
 
 ## 8.7 Renal Insufficiency
 
-Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed higher exposure for capecitabine, 5-DFUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed higher exposure for capecitabine, 5-DFUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].

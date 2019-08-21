@@ -2,13 +2,13 @@
 
 150 mg
 
-Capecitabine tablets are supplied as:
+•Capecitabine tablets, USP, 150 mg are supplied as light peach to peach colored, oblong shaped, biconvex film coated tablets, debossed with “C” on one side and “150” on other side.
+Bottles of 60 tablets 72205-006-60
 
-•Capecitabine tablets 150 mg are supplied as Light peach to peach colored, oblong shaped, biconvex film coated tablets, debossed with “C” on one side and “150” on other side.
-Bottles of 60 tablets NDC-72205-006-60 500 mg
+500 mg
 
-•Capecitabine tablets 500 mg are supplied as Light peach to peach colored, oblong shaped, biconvex film coated tablets, debossed with “C” on one side and “500” on other side.
-Bottles of 120 tablets NDC-72205-007-92 Storage and Handling
+•Capecitabine tablets, USP, 500 mg are supplied as light peach to peach colored, oblong shaped, biconvex film coated tablets, debossed with “C” on one side and “500” on other side.
+Bottles of 120 tablets 72205-007-92 Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature].
