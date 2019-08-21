@@ -144,11 +144,11 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Gilead Sciences, Inc. Foster City, CA 94404
 
-Revised: January 2016
+Revised: August 2019
 
 RANEXA is a trademark of Gilead Sciences, Inc., or its related companies.
 All other trademarks referenced herein are the property of their respective owners.
 
-© 2016 Gilead Sciences, Inc.
+© 2019 Gilead Sciences, Inc.
 
-21-526-GS-015
+21526-GS-016
