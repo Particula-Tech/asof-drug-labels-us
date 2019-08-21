@@ -28,7 +28,7 @@ The trial population had a mean age of 43 years (mean ± SD was 43±13 years on 
 The 12-month post-transplant information from this trial is presented below.
 
 The most common adverse reactions (≥30%) observed in tacrolimus-treated kidney transplant patients are: infection, tremor, hypertension, abnormal renal function, constipation, diarrhea, headache, abdominal pain, insomnia, nausea, hypomagnesemia, urinary tract infection, hypophosphatemia, peripheral edema, asthenia, pain, hyperlipidemia, hyperkalemia, and anemia.
-Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 52% of kidney transplantation patients.
+Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 52% of kidney transplantation patients.
 
 Adverse reactions that occurred in ≥15% of kidney transplant patients treated with tacrolimus in conjunction with azathioprine are presented below:
 
@@ -165,7 +165,7 @@ Adverse reactions reported in ≥15% in tacrolimus patients (combined trial resu
 The most common adverse reactions (≥40%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
 These all occur with oral administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
-Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials.
+Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials.
 
 Table 7 Liver Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus
 
@@ -223,10 +223,10 @@ Heart Transplantation
 
 The incidence of adverse reactions was determined based on two trials in primary orthotopic heart transplantation.
 In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids, and azathioprine (AZA) in combination with tacrolimus (n=157) or cyclosporine (n=157) for 18 months.
-The trial population had a mean age of 51 years (range 18 to 65), the distribution was 82% male, and the composition was White (96%), Black (3%), and other (1%).
+The trial population had a mean age of 51 years (range 18 to 65), the distribution was 82% male, and the composition was White (96%), Black (3%), and Other (1%).
 
 The most common adverse reactions (≥15%) observed in tacrolimus-treated heart transplant patients are: abnormal renal function, hypertension, diabetes mellitus, CMV infection, tremor, hyperglycemia, leukopenia, infection, anemia, bronchitis, pericardial effusion, urinary tract infection, and hyperlipemia.
-Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 59% of heart transplantation patients in the European trial.
+Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 59% of heart transplantation patients in the European trial.
 
 Adverse reactions in heart transplant patients in the European trial are presented below:
 
@@ -234,7 +234,7 @@ Table 9 Heart Transplantation: Adverse Reactions Occurring in ≥15% of Patients
 
 |  | Tacrolimus/AZA | Cyclosporine/AZA |
 | --- | --- | --- |
-|  | (n=157) | (n=157) |
+|  | (N=157) | (N=157) |
 | Cardiovascular System |  |  |
 | Hypertension | 62% | 69% |
 | Pericardial Effusion | 15% | 14% |
@@ -259,7 +259,7 @@ Table 9 Heart Transplantation: Adverse Reactions Occurring in ≥15% of Patients
 In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32% to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74% to 86% of the patients in the tacrolimus treatment arm.
 
 In a U.S. trial, the incidence of adverse reactions was based on 331 heart transplant patients that received corticosteroids and tacrolimus in combination with sirolimus (n=109), tacrolimus in combination with MMF (n=107) or cyclosporine modified in combination with MMF (n=115) for 1 year.
-The trial population had a mean age of 53 years (range 18 to 75), the distribution was 78% male, and the composition was White (83%), African-American (13%) and other (4%).
+The trial population had a mean age of 53 years (range 18 to 75), the distribution was 78% male, and the composition was White (83%), African-American (13%) and Other (4%).
 
 Only selected targeted treatment-emergent adverse reactions were collected in the U.S. heart transplantation trial.
 Those reactions that were reported at a rate of 15% or greater in patients treated with tacrolimus and MMF include the following: any target adverse reactions (99%), hypertension (89%), hyperglycemia requiring antihyperglycemic therapy (70%), hypertriglyceridemia (65%), anemia (hemoglobin <10 g/dL) (65%), fasting blood glucose >140 mg/dL (on two separate occasions) (61%), hypercholesterolemia (57%), hyperlipidemia (34%), WBCs <3000 cells/mcL (34%), serious bacterial infections (30%), magnesium <1.2 mEq/L (24%), platelet count <75,000 cells/mcL (19%), and other opportunistic infections (15%).
@@ -278,7 +278,7 @@ Table 10 Incidence of New Onset Diabetes After Transplant at 1 Year in Kidney Tr
 
 | Parameter | Treatment Group |  |
 | --- | --- | --- |
-| Tacrolimus/MMF(n=212) | NEORAL/MMF(n=212) |  |
+| Tacrolimus/MMF(N=212) | NEORAL/MMF(N=212) |  |
 | NODAT | 112/150 (75%) | 93/152 (61%) |
 | Fasting Plasma Glucose ≥126 mg/dL | 96/150 (64%) | 80/152 (53%) |
 | HbA1C ≥6% | 59/150 (39%) | 28/152 (18%) |
@@ -356,7 +356,7 @@ The following adverse reactions were reported in either liver, kidney, and/or he
 - •Urogenital
 - Acute kidney failure [see Warnings and Precautions (5.5)], albuminuria, BK nephropathy, bladder spasm, cystitis, dysuria, hematuria, hydronephrosis, kidney failure, kidney tubular necrosis, nocturia, pyuria, toxic nephropathy, urge incontinence, urinary frequency, urinary incontinence, urinary retention, vaginitis
 - •Metabolic/Nutritional
-- Acidosis, alkaline phosphatase increased, alkalosis, ALT (SGPT) increased, AST (SGOT) increased, bicarbonate decreased, bilirubinemia, dehydration, GGT increased, gout, healing abnormal, hypercalcemia, hypercholesterolemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypoglycemia, hyponatremia, hypoproteinemia, lactic dehydrogenase increase, weight gain
+- Acidosis, alkaline phosphatase increased, alkalosis, ALT (SGPT) increased, AST (SGOT) increased, bicarbonate decreased, bilirubinemia, dehydration, GGT increased, gout, healing abnormal, hypercalcemia, hypercholesterolemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypoglycemia, hyponatremia, hypoproteinemia, lactic dehydrogenase increased, weight gain
 - •Endocrine
 - Cushing’s syndrome
 - •Hemic/Lymphatic
@@ -383,7 +383,7 @@ Other reactions include:
 - •Gastrointestinal
 - Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastroesophageal reflux disease, hepatic cytolysis, hepatic necrosis, hepatotoxicity, impaired gastric emptying, liver fatty, mouth ulceration, pancreatitis hemorrhagic, pancreatitis necrotizing, stomach ulcer, veno-occlusive liver disease
 - •Hemic/Lymphatic
-- Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.15)]
+- Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.15)]
 - •Infections
 - Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy, (PVAN) including graft loss [see Warnings and Precautions (5.2)]
 - •Metabolic/Nutritional
@@ -399,6 +399,6 @@ Other reactions include:
 - •Skin
 - Stevens-Johnson syndrome, toxic epidermal necrolysis
 - •Special Senses
-- Blindness, blindness cortical, hearing loss including deafness, photophobia
+- Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
 - •Urogenital
 - Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome

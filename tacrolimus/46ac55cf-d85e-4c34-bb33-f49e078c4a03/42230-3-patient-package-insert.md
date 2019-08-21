@@ -7,6 +7,7 @@ Tacrolimus Capsules, USP, for oral use
 Read this Patient Information before you start taking tacrolimus capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+If you have any questions about tacrolimus capsules, ask your healthcare provider or pharmacist.
 
 What is the most important information I should know about Tacrolimus Capsules?
 
@@ -27,7 +28,9 @@ Tacrolimus Capsules can cause serious side effects, including:
 
 What are Tacrolimus Capsules?
 
-Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant.
+- •Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant.
+- •Tacrolimus capsules are types of tacrolimus immediate-release drugs and they are not the same as tacrolimus extended-release tablets or tacrolimus extended-release capsules.
+  Your healthcare provider should decide what medicine is right for you.
 
 Who should not take Tacrolimus Capsules?
 
@@ -72,6 +75,7 @@ Especially tell your healthcare provider if you take:
 - •telaprevir (INCIVEK)
 - •boceprevir
 - •ritonavir (KALETRA, NORVIR, TECHNIVIE, VIEKIRA PAK, VIEKIRA XR)
+- •letermovir (PREVYMIS)
 - •ketoconazole
 - •itraconazole (ONMEL, SPORANOX)
 - •voriconazole (VFEND)
@@ -100,7 +104,7 @@ How should I take Tacrolimus Capsules?
   For example, if you take your first dose at 7:00 a.m., you should take your second dose at 7:00 p.m.
 - •Taking tacrolimus capsules at the same time each day helps to keep the amount of medicine in your body at a steady level.
 - •Do not eat grapefruit or drink grapefruit juice while taking tacrolimus capsules.
-- •If you take too much tacrolimus capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
+- •If you take too many tacrolimus capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
 - •Do not open or crush tacrolimus capsules.
 
 What should I avoid while taking Tacrolimus Capsules?
@@ -159,6 +163,7 @@ Tacrolimus Capsules may cause serious side effects, including:
   - ∘feel lightheaded
   - ∘feel faint
 - •severe low red blood cell count (anemia).
+- 
 
 The most common side effects of Tacrolimus Capsules in people who have received a kidney, liver or heart transplant are:
 
@@ -201,11 +206,13 @@ Keep Tacrolimus Capsules and all medicines out of the reach of children.
 
 General information about the safe and effective use of Tacrolimus Capsules.
 
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use tacrolimus capsules for a condition for which it was not prescribed.
-Do not give tacrolimus capsules to other people, even if they have the same symptoms that you have.
-It may harm them.
-You can ask your pharmacist or healthcare provider for information about tacrolimus capsules that is written for health professionals.
+- •Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+  Do not use tacrolimus capsules for a condition for which it was not prescribed.
+  Do not give tacrolimus capsules to other people, even if they have the same symptoms that you have.
+  It may harm them.
+  You can ask your pharmacist or healthcare provider for information about tacrolimus capsules that is written for health professionals.
+- •This Patient Information leaflet summarizes the most important information about tacrolimus capsules.
+  If you would like more information, talk to your helathcare provider.
 
 What are the ingredients in Tacrolimus Capsules?
 
@@ -230,4 +237,4 @@ Manufactured in India by Sandoz Private Limited for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Revised: June 2018
+Revised: June 2019

@@ -97,7 +97,7 @@ Risk Summary
 
 Controlled lactation studies have not been conducted in humans; however tacrolimus has been reported to be present in human milk.
 The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
-Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies, exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1), Nonclinical Toxicology (13.1)].
+Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies, exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1), and Nonclinical Toxicology (13.1)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
 
@@ -106,7 +106,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Contraception
 
 Tacrolimus can cause fetal harm when administered to pregnant women.
-Advise female and male patients of reproductive potential to speak to their healthcare provider on family planning options including appropriate contraception prior to starting treatment with tacrolimus [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.1)].
+Advise female and male patients of reproductive potential to speak to their healthcare provider on family planning options including appropriate contraception prior to starting treatment with tacrolimus [see Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)].
 
 Infertility
 
@@ -118,7 +118,7 @@ Safety and effectiveness have been established in pediatric liver, kidney, and h
 
 Kidney and heart transplant
 
-Use of tacrolimus capsules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Use of tacrolimus capsules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -126,17 +126,24 @@ Clinical trials of tacrolimus did not include sufficient numbers of subjects age
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-## 8.6 Use in Renal Impairment
+## 8.6 Renal Impairment
 
 The pharmacokinetics of tacrolimus in patients with renal impairment was similar to that in healthy volunteers with normal renal function.
 However, consideration should be given to dosing tacrolimus at the lower end of the therapeutic dosing range in patients who have received a liver or heart transplant and have pre-existing renal impairment.
-Further reductions in dose below the targeted range may be required [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Further reductions in dose below the targeted range may be required [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
-## 8.7 Use in Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 The mean clearance of tacrolimus was substantially lower in patients with severe hepatic impairment (mean Child-Pugh score: >10) compared to healthy volunteers with normal hepatic function.
 Close monitoring of tacrolimus trough concentrations is warranted in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
 The use of tacrolimus in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole blood trough concentrations of tacrolimus.
 These patients should be monitored closely and dosage adjustments should be considered.
-Some evidence suggests that lower doses should be used in these patients [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+Some evidence suggests that lower doses should be used in these patients [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+
+## 8.8 Race or Ethnicity
+
+African-American patients may need to be titrated to higher dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+
+African-American and Hispanic patients are at increased risk for new onset diabetes after transplant.
+Monitor blood glucose concentrations and treat appropriately [see Warnings and Precautions (5.4)].

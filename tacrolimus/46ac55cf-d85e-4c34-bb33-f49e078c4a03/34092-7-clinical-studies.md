@@ -21,7 +21,7 @@ Tacrolimus-based immunosuppression in conjunction with MMF, corticosteroids, and
 In a randomized, open-label, multicenter trial (Study 1), 1,589 kidney transplant patients received tacrolimus (Group C, n=401), sirolimus (Group D, n=399), or one of two cyclosporine (CsA) regimens (Group A, n=390 and Group B, n=399) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
 The trial was conducted outside the United States; the trial population was 93% Caucasian.
 In this trial, mortality at 12 months in patients receiving tacrolimus/MMF was similar (3%) compared to patients receiving cyclosporine/MMF (3% and 2%) or sirolimus/MMF (3%).
-Patients in the tacrolimus group exhibited higher estimated creatinine clearance rates (eCLcr) using the Cockcroft-Gault formula (Table 20) and experienced fewer efficacy failures, defined as biopsy-proven acute rejection (BPAR), graft loss, death, and/or lost to follow-up (Table 21) in comparison to each of the other three groups.
+Patients in the tacrolimus group exhibited higher estimated creatinine clearance rates (eCLcr) using the Cockcroft-Gault formula (Table 20) and experienced fewer efficacy failures, defined as biopsy-proven acute rejection (BPAR), graft loss, death, and/or loss to follow-up (Table 21) in comparison to each of the other three groups.
 Patients randomized to tacrolimus/MMF were more likely to develop diarrhea and diabetes after the transplantation and experienced similar rates of infections compared to patients randomized to either cyclosporine/MMF regimen [see Adverse Reactions (6.1)].
 
 Table 20 Estimated Creatinine Clearance at 12 Months (Study 1)
@@ -118,7 +118,7 @@ Approximately 63% and 55% of these MMF dose reductions were because of adverse r
 
 Table 26 MMF Dose Over Time in the Tacrolimus /MMF Group (Study 2)
 
-| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
+| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that the MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | --- | --- | --- | --- |
 | Less than 2 | 2 | Greater than 2 |  |
 | 0 to 30 (N=212) | 25% | 69% | 6% |
@@ -149,7 +149,7 @@ In both trials, the median time to convert from IV to oral tacrolimus dosing was
 
 Although there is a lack of direct correlation between tacrolimus concentrations and drug efficacy, data from clinical trials of liver transplant patients have shown an increasing incidence of adverse reactions with increasing trough blood concentrations.
 Most patients are stable when trough whole blood concentrations are maintained between 5 to 20 ng/mL.
-Long-term post-transplant patients often are maintained at the low end of this target range.
+Long-term post-transplant patients are often maintained at the low end of this target range.
 
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation, ranged from 9.8 ng/mL to 19.4 ng/mL.
 
@@ -157,7 +157,7 @@ Data from the U.S. clinical trial show that the median trough blood concentratio
 
 Two open-label, randomized, comparative trials evaluated the safety and efficacy of tacrolimus-based and cyclosporine-based immunosuppression in primary orthotopic heart transplantation.
 In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids, and azathioprine in combination with tacrolimus or cyclosporine modified for 18 months.
-In a 3-arm trial conducted in the US, 331 patients received corticosteroids and tacrolimus plus sirolimus, tacrolimus plus mycophenolate mofetil (MMF) or cyclosporine modified plus MMF for 1 year.
+In a 3-arm trial conducted in the U.S., 331 patients received corticosteroids and tacrolimus plus sirolimus, tacrolimus plus mycophenolate mofetil (MMF) or cyclosporine modified plus MMF for 1 year.
 
 In the European trial, patient/graft survival at 18 months post-transplant was similar between treatment arms, 92% in the tacrolimus group and 90% in the cyclosporine group.
 In the U.S. trial, patient and graft survival at 12 months was similar with 93% survival in the tacrolimus plus MMF group and 86% survival in the cyclosporine modified plus MMF group.
