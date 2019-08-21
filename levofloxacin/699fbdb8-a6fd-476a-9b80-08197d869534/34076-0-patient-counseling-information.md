@@ -64,4 +64,4 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: March 2019
+Revised: July 2019

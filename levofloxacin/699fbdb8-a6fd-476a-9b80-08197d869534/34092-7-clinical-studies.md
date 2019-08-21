@@ -228,7 +228,7 @@ The predicted steady-state pharmacokinetic parameters in pediatric patients rang
 
 In adults, the safety of levofloxacin for treatment durations of up to 28 days is well characterized.
 However, information pertaining to extended use at 500 mg daily up to 60 days is limited.
-Prolonged levofloxacin therapy in adults should only be used when the benefit outweighs the risk.
+Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
 
 In pediatric patients, the safety of levofloxacin for treatment durations of more than 14 days has not been studied.
 An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendinopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.

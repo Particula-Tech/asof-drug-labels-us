@@ -48,7 +48,20 @@ If you have any of the following serious side effects while you take LEVOFLOXACI
    Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including LEVOFLOXACIN.
    Tell your healthcare provider if you have a history of seizures before you start taking LEVOFLOXACIN.
    CNS side effects may happen as soon as after taking the first dose of LEVOFLOXACIN.
-   Stop taking LEVOFLOXACIN immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior: seizures hear voices, see things, or sense things that are not there (hallucinations) feel restless tremors feel anxious or nervous confusion depression trouble sleeping nightmares feel lightheaded or dizzy feel more suspicious (paranoia) suicidal thoughts or acts headaches that will not go away, with or without blurred vision
+   Stop taking LEVOFLOXACIN immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
+   - seizures
+   - hear voices, see things, or sense things that are not there (hallucinations)
+   - feel restless
+   - tremors
+   - feel anxious or nervous
+   - confusion
+   - depression
+   - trouble sleeping
+   - nightmares
+   - feel lightheaded or dizzy
+   - feel more suspicious (paranoia)
+   - suicidal thoughts or acts
+   - headaches that will not go away, with or without blurred vision
 4. Worsening of myasthenia gravis (a problem that causes muscle weakness).
    Fluoroquinolones like LEVOFLOXACIN may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
    Tell your healthcare provider if you have a history of myasthenia gravis before you start taking LEVOFLOXACIN.
@@ -59,8 +72,16 @@ What is LEVOFLOXACIN?
 LEVOFLOXACIN is a fluoroquinolone antibiotic medicine used in adults age 18 years or older to treat certain infections caused by certain germs called bacteria.
 These bacterial infections include:
 
-| nosocomial pneumonia community acquired pneumonia acute sinus infection acute worsening of chronic bronchitis skin infections, complicated and uncomplicated | chronic prostate infection urinary tract infections, complicated and uncomplicated acute kidney infection (pyelonephritis) inhalational anthrax plague |
-| --- | --- |
+- nosocomial pneumonia
+- community acquired pneumonia
+- acute sinus infection
+- acute worsening of chronic bronchitis
+- skin infections, complicated and uncomplicated
+- chronic prostate infection
+- urinary tract infections, complicated and uncomplicated
+- acute kidney infection (pyelonephritis)
+- inhalational anthrax
+- plague
 
 Studies of LEVOFLOXACIN for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 
@@ -246,7 +267,7 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: March 2019
+Revised: July 2019
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
