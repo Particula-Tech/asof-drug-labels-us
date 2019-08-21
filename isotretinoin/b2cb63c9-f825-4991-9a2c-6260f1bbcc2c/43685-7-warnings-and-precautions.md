@@ -140,8 +140,8 @@ These include:
 - •Registering prior to distributing isotretinoin and re-registering annually thereafter
 - •Distributing only FDA approved isotretinoin product
 - •Only shipping isotretinoin to
-  - •wholesalers registered in the iPLEDGE Program with prior written consent from the manufacturer or
-  - •pharmacies licensed in the US and registered and activated in the iPLEDGE Program
+  - -wholesalers registered in the iPLEDGE Program with prior written consent from the manufacturer or
+  - -pharmacies licensed in the US and registered and activated in the iPLEDGE Program
 - •Notifying the isotretinoin manufacturer (or delegate) of any non-registered and/or non-activated pharmacy or unregistered wholesaler that attempts to order isotretinoin
 - •Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE Program by the isotretinoin manufacturer (or delegate)
 - •Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE Program or if the wholesaler chooses to not re-register annually
@@ -156,7 +156,7 @@ Prescribers can only activate their registration by affirming that they meet req
 - •I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
 - •I have the expertise to provide the patient with detailed pregnancy prevention counseling, or I will refer her to an expert for such counseling, reimbursed by the manufacturer.
 - •I will comply with the iPLEDGE Program requirements described in the booklets entitled Guide to Best Practices for the iPLEDGE Program and Prescriber Contraception Counseling Guide.
-- •Before beginning treatment of females of reproductive potential with isotretinoin, and on a monthly basis, the patient will be counseled to avoid pregnancy by using two methods of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence.
+- •Before beginning treatment of females of reproductive potential with isotretinoin, and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence.
 - •I will not prescribe isotretinoin to any female of reproductive potential until verifying she has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
   Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test one month later.
 - •I will report any pregnancy case that I become aware of while the female patient is on isotretinoin or one month after the last dose to the pregnancy registry.
@@ -166,8 +166,8 @@ To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the
 1. 1.Register each patient in the iPLEDGE Program.
 2. 2.Confirm monthly that each patient has received counseling and education.
 3. 3.For females of reproductive potential:
-   1. 1.Enter patient’s two chosen methods of contraception each month.
-   2. 2.Enter monthly result from CLIA-certified laboratory conducted pregnancy test.
+   1. •Enter patient’s two chosen forms of contraception each month.
+   2. •Enter monthly result from CLIA-certified laboratory conducted pregnancy test.
 
 Isotretinoin must only be prescribed to female patients who are known not to be pregnant as confirmed by a negative CLIA-certified laboratory conducted pregnancy test.
 
@@ -180,33 +180,33 @@ Meeting the requirements for a female of reproductive potential signifies that s
   The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for isotretinoin.
   The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
   The interval between the two tests should be at least 19 days.
-  - •For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two methods of contraception for one month.
-  - •For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two methods of contraception for one month.
+  - -For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
+  - -For patients with amenorrhea, irregular cycles, or using a contraceptive form that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
 - •Has had a negative result from a urine or serum pregnancy test in a CLIA-certified laboratory before receiving each subsequent course of isotretinoin.
   A pregnancy test must be repeated every month, in a CLIA-certified laboratory, prior to the female patient receiving each prescription.
-- •Has selected and has committed to use two methods of effective contraception simultaneously, at least one of which must be a primary method, unless the patient commits to continuous abstinence from heterosexual contact, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
-  Patients must use two methods of effective contraception for at least one month prior to initiation of isotretinoin therapy, during isotretinoin therapy, and for one month after discontinuing isotretinoin therapy.
+- •Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary form, unless the patient commits to continuous abstinence from heterosexual contact, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
+  Patients must use two forms of effective contraception for at least one month prior to initiation of isotretinoin therapy, during isotretinoin therapy, and for one month after discontinuing isotretinoin therapy.
   Counseling about contraception and behaviors associated with an increased risk of pregnancy must be repeated on a monthly basis.
 
 If the patient has unprotected heterosexual intercourse at any time one month before, during, or one month after therapy, she must:
 
 1. 1.Stop taking Amnesteem immediately, if on therapy
 2. 2.Have a pregnancy test at least 19 days after the last act of unprotected heterosexual intercourse
-3. 3.Start using two methods of effective contraception simultaneously again for one month before resuming Amnesteem therapy
-4. 4.Have a second pregnancy test after using two methods of effective contraception for one month as described above depending on whether she has regular menses or not.
+3. 3.Start using two forms of effective contraception simultaneously again for one month before resuming Amnesteem therapy
+4. 4.Have a second pregnancy test after using two forms of effective contraception for one month as described above depending on whether she has regular menses or not.
 
-Effective methods of contraception include both primary and secondary methods of contraception:
+Effective forms of contraception include both primary and secondary forms of contraception:
 
-| Primary methods •tubal sterilization•male vasectomy•intrauterine device•hormonal (combination oral contraceptives, transdermal patch, injectables, implantables, or vaginal ring) | Secondary methodsBarrier: •male latex condom with or without spermicide•diaphragm with spermicide•cervical cap with spermicide Other: •vaginal sponge (contains spermicide) |
+| Primary forms •tubal sterilization•male vasectomy•intrauterine device•hormonal (combination oral contraceptives, transdermal patch, injectables, implantables, or vaginal ring) | Secondary formsBarrier: •male latex condom with or without spermicide•diaphragm with spermicide•cervical cap with spermicide Other: •vaginal sponge (contains spermicide) |
 | --- | --- |
 
 Any birth control method can fail.
 There have been reports of pregnancy from female patients who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking Amnesteem.
-These reports are more frequent for female patients who use only a single method of contraception.
-Therefore, it is critically important that females of reproductive potential use two effective methods of contraception simultaneously.
+These reports are more frequent for female patients who use only a single form of contraception.
+Therefore, it is critically important that females of reproductive potential use two effective forms of contraception simultaneously.
 Patients must receive written warnings about the rates of possible contraception failure (included in patient education kits).
 
-Using two methods of contraception simultaneously substantially reduces the chances that a female will become pregnant over the risk of pregnancy with either method alone.
+Using two forms of contraception simultaneously substantially reduces the chances that a female will become pregnant over the risk of pregnancy with either form alone.
 A drug interaction that decreases effectiveness of hormonal contraceptives has not been entirely ruled out for Amnesteem (see PRECAUTIONS: Drug Interactions).
 Although hormonal contraceptives are highly effective, prescribers are advised to consult the package insert of any medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
 
@@ -242,7 +242,7 @@ In addition to the requirements for all patients described above, females of rep
 - •Must be capable of complying with the mandatory contraceptive measures required for isotretinoin therapy, or commit to continuous abstinence from heterosexual intercourse, and understand behaviors associated with an increased risk of pregnancy
 - •Must understand that it is her responsibility to avoid pregnancy one month before, during and one month after isotretinoin therapy
 - •Must have signed an additional Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
-- •Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and one month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen methods of contraception
+- •Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and one month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen forms of contraception
 - •Must have been informed of the purpose and importance of providing information to the iPLEDGE Program should she become pregnant while taking isotretinoin or within one month of the last dose
 
 ## Pharmacists
@@ -255,7 +255,7 @@ After registration, the Responsible Site Pharmacist can only activate the pharma
 - •I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - •I will train all pharmacists, who participate in the filling and dispensing of isotretinoin prescriptions, on the iPLEDGE Program requirements.
 - •I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE Program requirements described in the booklet entitled Pharmacist Guide, specifically the “Key Information for Pharmacists” section including the following dispensing information:
-  - •Prescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE Program system and the product returned to inventory.
+  - oPrescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE Program system and the product returned to inventory.
 - •I will obtain Amnesteem product only from iPLEDGE registered wholesalers.
 - •I will not sell, buy, borrow, loan or otherwise transfer isotretinoin in any manner to or from another pharmacy.
 - •I will return to the manufacturer (or delegate) any unused product if the pharmacy is deactivated by the iPLEDGE Program or if the pharmacy chooses to not reactivate annually.
@@ -287,7 +287,7 @@ A description of the iPLEDGE Program educational materials available with iPLEDG
 The main goal of these educational materials is to explain the iPLEDGE Program requirements and to reinforce the educational messages.
 
 1. 1.Guide to Best Practices for the iPLEDGE Program includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified Amnesteem prescription.
-2. 2.Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive methods, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
+2. 2.Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive forms, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
 3. 3.Pharmacist Guide includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
 4. 4.The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
    The iPLEDGE Program includes information on the risks and benefits of Amnesteem which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
@@ -295,7 +295,7 @@ The main goal of these educational materials is to explain the iPLEDGE Program r
    Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line which provides Amnesteem information in two languages.
 6. 6.The booklet for females of non-reproductive potential and male patients, Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share isotretinoin with others or to donate blood during Amnesteem therapy and for one month following discontinuation of isotretinoin.
 7. 7.The booklet for females of reproductive potential, Guide to Isotretinoin for Female Patients Who Can Get Pregnant, includes a referral program that offers female patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form concerning birth defects.
-8. 8.The booklet, Birth Control Workbook includes information on the types of contraceptive methods, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
+8. 8.The booklet, Birth Control Workbook includes information on the types of contraceptive forms, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
 9. 9.In addition to the booklets, patient educational materials also include the iPLEDGE Program Birth Control Information Sheet and the following videos—“Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin” (see Information for Patients).
 
 ## General
@@ -315,10 +315,10 @@ See PRECAUTIONS and Boxed CONTRAINDICATIONS AND WARNINGS.
   The complete text of the Medication Guide is reprinted at the end of this document.
   For additional information, patients must also be instructed to read the iPLEDGE Program patient educational materials.
   All patients must sign the Patient Information/Informed Consent (for all patients) form.
-- •Females of reproductive potential must be instructed that they must not be pregnant when Amnesteem therapy is initiated, and that they should use two methods of effective contraception simultaneously for one month before starting Amnesteem, while taking Amnesteem, and for one month after Amnesteem has been stopped, unless they commit to continuous abstinence from heterosexual intercourse.
+- •Females of reproductive potential must be instructed that they must not be pregnant when Amnesteem therapy is initiated, and that they should use two forms of effective contraception simultaneously for one month before starting Amnesteem, while taking Amnesteem, and for one month after Amnesteem has been stopped, unless they commit to continuous abstinence from heterosexual intercourse.
   They should also sign a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form prior to beginning Amnesteem therapy.
   They should be given an opportunity to view the patient video provided by the manufacturer to the prescriber.
-  The video includes information about contraception, the most common reasons that contraception fails, and the importance of using two methods of effective contraception when taking teratogenic drugs and comprehensive information about types of potential birth defects which could occur if a female patient who is pregnant takes Amnesteem at any time during pregnancy.
+  The video includes information about contraception, the most common reasons that contraception fails, and the importance of using two forms of effective contraception when taking teratogenic drugs and comprehensive information about types of potential birth defects which could occur if a female patient who is pregnant takes Amnesteem at any time during pregnancy.
   Female patients should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another Amnesteem prescription is written (see Boxed CONTRAINDICATIONS AND WARNINGS and PRECAUTIONS).
 - •Amnesteem is found in the semen of male patients taking Amnesteem, but the amount delivered to a female partner would be about one million times lower than an oral dose of 40 mg.
   While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of post-marketing reports include four with isolated defects compatible with features of retinoid exposed fetuses; however two of these reports were incomplete, and two had other possible explanations for the defects observed.
@@ -377,9 +377,9 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
 - •Tetracyclines: Concomitant treatment with Amnesteem and tetracyclines should be avoided because Amnesteem use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
 - •Micro-dosed Progesterone Preparations: Micro-dosed progesterone preparations (“minipills” that do not contain an estrogen) may be an inadequate method of contraception during Amnesteem therapy.
   Although other hormonal contraceptives are highly effective, there have been reports of pregnancy from female patients who have used combined oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products.
-  These reports are more frequent for female patients who use only a single method of contraception.
+  These reports are more frequent for female patients who use only a single form of contraception.
   It is not known if hormonal contraceptives differ in their effectiveness when used with Amnesteem.
-  Therefore, it is critically important for females of reproductive potential to select and commit to use two methods of effective contraception simultaneously, at least one of which must be a primary method (see PRECAUTIONS).
+  Therefore, it is critically important for females of reproductive potential to select and commit to use two forms of effective contraception simultaneously, at least one of which must be a primary form (see PRECAUTIONS).
 - •Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving OrthoNovum® 7/7/7 Tablets as an oral contraceptive agent, Amnesteem at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
   Prescribers are advised to consult the package insert of medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
 - •St.
@@ -399,13 +399,13 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
 
 ### Pregnancy Test
 
-- •Females of reproductive potential must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial Amnesteem prescription.
+- -Females of reproductive potential must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial Amnesteem prescription.
   The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for Amnesteem.
   The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
   The interval between the two tests must be at least 19 days.
-- •For patients with regular menstrual cycles, the second pregnancy test must be done during the first 5 days of the menstrual period immediately preceding the beginning of Amnesteem therapy and after the patient has used 2 methods of contraception for one month.
-- •For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of Amnesteem therapy and after the patient has used 2 methods of contraception for one month.
-- •Each month of therapy, patients must have a negative result from a urine or serum pregnancy test.
+- -For patients with regular menstrual cycles, the second pregnancy test must be done during the first 5 days of the menstrual period immediately preceding the beginning of Amnesteem therapy and after the patient has used 2 forms of contraception for one month.
+- -For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of Amnesteem therapy and after the patient has used 2 forms of contraception for one month.
+- -Each month of therapy, patients must have a negative result from a urine or serum pregnancy test.
   A pregnancy test must be repeated each month, in a CLIA-certified laboratory, prior to the female patient receiving each prescription.
 
 ### Lipids

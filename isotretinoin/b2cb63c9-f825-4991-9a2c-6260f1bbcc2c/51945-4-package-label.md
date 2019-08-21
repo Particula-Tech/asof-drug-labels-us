@@ -41,13 +41,11 @@ Protect from light.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in France
-
-©2002-2012 Mylan Pharmaceuticals Inc.
+©2002-2016 Mylan Pharmaceuticals Inc.
 
 Mylan.com
 
-MCAT:6611:93:30C:R2
+MCATSP:6611:93:30C:R2
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -92,13 +90,11 @@ Protect from light.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in France
-
-©2002-2012 Mylan Pharmaceuticals Inc.
+©2002-2016 Mylan Pharmaceuticals Inc.
 
 Mylan.com
 
-MCAT:6612:93:30C:R2
+MCATSP:6612:93:30C:R2
 
 PRINCIPAL DISPLAY PANEL - 40 mg
 
@@ -143,10 +139,8 @@ Protect from light.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in France
-
-©2002-2012 Mylan Pharmaceuticals Inc.
+©2002-2016 Mylan Pharmaceuticals Inc.
 
 Mylan.com
 
-MCAT:6614:93:30C:R2
+MCATSP:6614:93:30C:R2

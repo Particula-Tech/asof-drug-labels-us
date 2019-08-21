@@ -18,6 +18,6 @@ If pregnancy does occur during treatment of a female patient who is taking Amnes
 - Special Prescribing Requirements
 
 Because of Amnesteem’s teratogenicity and to minimize fetal exposure, Amnesteem is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
-This program is called iPLEDGE®.
+This program is called iPLEDGE™.
 Amnesteem must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
 Amnesteem must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE (see PRECAUTIONS).

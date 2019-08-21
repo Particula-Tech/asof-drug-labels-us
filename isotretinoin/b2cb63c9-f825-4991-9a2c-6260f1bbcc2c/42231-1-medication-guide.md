@@ -11,37 +11,38 @@ What is the most important information I should know about Amnesteem?
 - •Amnesteem® is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
 - •Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
 - •Amnesteem may cause serious mental health problems.
-- •Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-  Female patients who are pregnant or who plan to become pregnant must not take Amnesteem.
-  Female patients must not get pregnant:
-  - •for one month before starting Amnesteem
-  - •while taking Amnesteem
-  - •for one month after stopping Amnesteem.
-- If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
-  Doctors and patients should report all cases of pregnancy to:
-  1. •FDA MedWatch at 1-800-FDA-1088, and
-  2. •the iPLEDGE Pregnancy Registry at 1-866-495-0654
-- •Serious mental health problems.
-  Amnesteem may cause:
-  - •depression
-  - •psychosis (seeing or hearing things that are not real)
-  - •suicide.
-    Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
-    Some people tried to end their own lives.
-    And some people have ended their own lives.
-- Stop Amnesteem and call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
-  1. •start to feel sad or have crying spells
-  2. •lose interest in activities you once enjoyed
-  3. •sleep too much or have trouble sleeping
-  4. •become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
-  5. •have a change in your appetite or body weight
-  6. •have trouble concentrating
-  7. •withdraw from your friends or family
-  8. •feel like you have no energy
-  9. •have feelings of worthlessness or guilt
-  10. •start having thoughts about hurting yourself or taking your own life (suicidal thoughts)
-  11. •start acting on dangerous impulses
-  12. •start seeing or hearing things that are not real
+
+1. 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
+   Female patients who are pregnant or who plan to become pregnant must not take Amnesteem.
+   Female patients must not get pregnant:
+   1. •for one month before starting Amnesteem
+   2. •while taking Amnesteem
+   3. •for one month after stopping Amnesteem.
+2. If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
+   Doctors and patients should report all cases of pregnancy to:
+   1. •FDA MedWatch at 1-800-FDA-1088, and
+   2. •the iPLEDGE Pregnancy Registry at 1-866-495-0654
+3. 2.Serious mental health problems.
+   Amnesteem may cause:
+   1. •depression
+   2. •psychosis (seeing or hearing things that are not real)
+   3. •suicide.
+      Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
+      Some people tried to end their own lives.
+      And some people have ended their own lives.
+4. Stop Amnesteem and call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
+   1. •start to feel sad or have crying spells
+   2. •lose interest in activities you once enjoyed
+   3. •sleep too much or have trouble sleeping
+   4. •become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
+   5. •have a change in your appetite or body weight
+   6. •have trouble concentrating
+   7. •withdraw from your friends or family
+   8. •feel like you have no energy
+   9. •have feelings of worthlessness or guilt
+   10. •start having thoughts about hurting yourself or taking your own life (suicidal thoughts)
+   11. •start acting on dangerous impulses
+   12. •start seeing or hearing things that are not real
 
 After stopping Amnesteem, you may also need follow-up mental health care if you had any of these symptoms.
 
@@ -244,7 +245,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Amnesteem?
 
-- •Store at 68° to 77°F (20° to 25°C).
+- •Store Amnesteem at 68° to 77°F (20° to 25°C).
   Protect from light.
 - •Keep Amnesteem and all medicines out of the reach of children.
 
@@ -276,6 +277,6 @@ Dilantin is a registered trademark of Warner-Lambert Company LLC.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Catalent Pharma Solutions 74 rue Principale 67930 Beinheim France
+Manufactured by: Catalent Pharma Solutions 2725 Scherer Drive North St. Petersburg, FL 33716
 
-Revised: 4/2018 CAT:ISOTFR:R5
+Revised: 8/2018 CAT:ISOTSP:R2
