@@ -17,7 +17,7 @@ See Table 3.
 
 Table 3 TOTAL SYMPTOM SCORE (TSS) Changes in a 2 Week Clinical Trial in Patients with Seasonal Allergic Rhinitis
 
-| Treatment Group (n) | Mean BaselineAt baseline, a total nasal symptom score (sum of 4 individual symptoms) of at least 6 and a total non-nasal symptom score (sum of 4 individual symptoms) of at least 5 (each symptom scored 0 to 3 where 0=no symptom and 3=severe symptoms) was required for trial eligibility. TSS ranges from 0=no symptoms to 24=maximal symptoms. (SEM) | Change from BaselineMean reduction in TSS averaged over the 2 - week treatment period. (SEM) | Placebo Comparison (P-value) |
+| Treatment Group (n) | Mean BaselineAt baseline, a total nasal symptom score (sum of 4 individual symptoms) of at least 6 and a total non-nasal symptom score (sum of 4 individual symptoms) of at least 5 (each symptom scored 0 to 3 where 0=no symptom and 3=severe symptoms) was required for trial eligibility. TSS ranges from 0=no symptoms to 24=maximal symptoms. (SEM) | Change from BaselineMean reduction in TSS averaged over the 2-week treatment period. (SEM) | Placebo Comparison (P-value) |
 | --- | --- | --- | --- |
 | Desloratadine 5.0 mg (171) | 14.2 (0.3) | -4.3 (0.3) | P<0.01 |
 | Placebo (173) | 13.7 (0.3) | -2.5 (0.3) |  |
@@ -47,9 +47,9 @@ Secondary endpoints were also evaluated, and during the first week of therapy De
 
 Table 5 PRURITUS SYMPTOM SCORE Changes in the First Week of a Clinical Trial in Patients with Chronic Idiopathic Urticaria
 
-| Treatment Group (n) | Mean Baseline (SEM) | Change from BaselineMean reduction in Pruritus averaged over the first week of treatment. (SEM) | Placebo Comparison (P-value) |
+| Treatment Group (n) | Mean Baseline (SEM) | Change from BaselineMean reduction in pruritus averaged over the first week of treatment. (SEM) | Placebo Comparison (P-value) |
 | --- | --- | --- | --- |
-| Desloratadine 5.0 mg (115) | 2.19 (0.04) | -1.05 (0.07) | P=0.01 |
+| Desloratadine 5.0 mg (115) | 2.19 (0.04) | -1.05 (0.07) | P<0.01 |
 | Placebo (110) | 2.21 (0.04) | -0.52 (0.07) |  |
-| Pruritus scored 0 to 3 where 0=no symptom to 3=maximum symptom |  |  |  |
+| Pruritus scored 0 to 3 where 0=no symptom to 3=maximal symptom |  |  |  |
 | SEM = Standard Error of the Mean |  |  |  |

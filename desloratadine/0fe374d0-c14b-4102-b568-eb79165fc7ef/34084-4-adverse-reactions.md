@@ -34,7 +34,7 @@ There were no differences in adverse events for subgroups of patients as defined
 Chronic Idiopathic Urticaria: In multiple-dose, placebo-controlled trials of chronic idiopathic urticaria, 211 patients ages 12 years or older received Desloratadine Tablets and 205 received placebo.
 Adverse events that were reported by greater than or equal to 2% of patients who received Desloratadine Tablets and that were more common with Desloratadine than placebo were (rates for Desloratadine and placebo, respectively): headache (14%, 13%), nausea (5%, 2%), fatigue (5%, 1%), dizziness (4%, 3%), pharyngitis (3%, 2%), dyspepsia (3%, 1%), and myalgia (3%, 1%).
 
-Pediatrics: Two hundred and forty-six pediatric subjects 6 months to 11 years of age received Desloratadine Oral Solution for 15 days in three placebo controlled clinical trials.
+Pediatrics Two hundred and forty-six pediatric subjects 6 months to 11 years of age received Desloratadine Oral Solution for 15 days in three placebo controlled clinical trials.
 Pediatric subjects aged 6 to 11 years received 2.5 mg once a day, subjects aged 1 to 5 years received 1.25 mg once a day, and subjects 6 to 11 months of age received 1.0 mg once a day.
 
 In subjects 6 to 11 years of age, no individual adverse event was reported by 2 percent or more of the subjects.
@@ -51,4 +51,18 @@ Only one of the 246 pediatric subjects receiving Desloratadine Oral Solution in 
 ## 6.2 Post-Marketing Experience
 
 Because adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following spontaneous adverse events have been reported during the marketing of desloratadine: tachycardia, palpitations, rare cases of hypersensitivity reactions (such as rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis), psychomotor hyperactivity, movement disorders (including dystonia, tics, and extrapyramidal symptoms), seizures, and elevated liver enzymes including bilirubin, and very rarely, hepatitis.
+The following spontaneous adverse events have been reported during the marketing of desloratadine: Cardiac disorders: tachycardia, palpitations
+
+Respiratory, thoracic and mediastinal disorders: dyspnea
+
+Skin and subcutaneous tissue disorders: rash, pruritus
+
+Nervous system disorders: psychomotor hyperactivity, movement disorders (including dystonia, tics, and extrapyramidal symptoms), seizures (reported in patients with and without a known seizure disorder)
+
+Immune system disorders: hypersensitivity reactions (such as urticaria, edema and anaphylaxis)
+
+Investigations: elevated liver enzymes including bilirubin
+
+Hepatobiliary disorders: hepatitis
+
+Metabolism and nutrition disorders: increased appetite

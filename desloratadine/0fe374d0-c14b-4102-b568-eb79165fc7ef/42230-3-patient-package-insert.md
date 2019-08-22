@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Desloratadine Tablets, 5 mg
+Desloratadine Tablets
 
 Read the Patient Information that comes with Desloratadine Tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -62,20 +62,19 @@ How should I take Desloratadine Tablets?
 - •Take Desloratadine Tablets exactly as your doctor tells you to take it.
 - •Do not change your dose of Desloratadine Tablets or take more often than prescribed.
 - •Desloratadine Tablets can be taken with or without food.
-- •If you take too much Desloratadine Tablets, call your doctor or get medical attention right away.
+- •If you take too many Desloratadine Tablets, call your doctor or get medical attention right away.
 
 What are the possible side effects of Desloratadine Tablets?
 
 Desloratadine Tablets may cause serious side effects, including:
 
-Allergic reactions.
-Stop taking Desloratadine Tablets and call your doctor right away or get emergency help if you have any of these symptoms:
-
-- •rash
-- •itching
-- •hives
-- •swelling of your lips, tongue, face, and throat
-- •shortness of breath or trouble breathing
+- •Allergic reactions.
+  Stop taking Desloratadine Tablets and call your doctor right away or get emergency help if you have any of these symptoms:
+  - orash
+  - oitching
+  - ohives
+  - oswelling of your lips, tongue, face, and throat
+  - oshortness of breath or trouble breathing
 
 The most common side effects of Desloratadine Tablets in adults and children 12 years of age and older with allergic rhinitis include:
 
@@ -121,4 +120,4 @@ What are the ingredients in Desloratadine Tablets?
 Active ingredient: Desloratadine Inactive ingredients in Desloratadine Tablets: microcrystalline cellulose NF, pregelatinized starch NF, croscarmellose sodium NF, talc USP, zinc stearate, USP and FD&C Blue #2 HT 11-14%.
 
 Manufactured for: Virtus Pharmaceuticals, LLC Langhorne, PA 19047 1-888-848-3593 MADE IN USA Rev.
-12/2018 R-1812
+03/2019 R-1903

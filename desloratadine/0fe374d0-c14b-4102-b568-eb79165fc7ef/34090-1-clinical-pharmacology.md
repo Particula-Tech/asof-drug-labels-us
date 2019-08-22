@@ -16,10 +16,10 @@ The clinical relevance of histamine wheal skin testing is unknown.
 
 Effects on QTc: Single daily doses of 45 mg were given to normal male and female volunteers for 10 days.
 All ECGs obtained in this study were manually read in a blinded fashion by a cardiologist.
-In Desloratadine - treated subjects, there was an increase in mean heart rate of 9.2 bpm relative to placebo.
+In Desloratadine-treated subjects, there was an increase in mean heart rate of 9.2 bpm relative to placebo.
 The QT interval was corrected for heart rate (QTc) by both the Bazett and Fridericia methods.
 Using the QTc (Bazett) there was a mean increase of 8.1 msec in Desloratadine-treated subjects relative to placebo.
-Using QTc (Fridericia) there was a mean increase of 0.4 msec in Desloratadine treated subjects relative to placebo.
+Using QTc (Fridericia) there was a mean increase of 0.4 msec in Desloratadine-treated subjects relative to placebo.
 No clinically relevant adverse events were reported.
 
 ## 12.3 Pharmacokinetics
