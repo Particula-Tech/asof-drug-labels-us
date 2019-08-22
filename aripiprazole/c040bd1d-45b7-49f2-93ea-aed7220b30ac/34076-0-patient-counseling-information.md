@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Discuss the following issues with patients prescribed ABILIFY:
 
@@ -37,10 +37,6 @@ Interference with Cognitive and Motor Performance
 
 Because ABILIFY may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ABILIFY therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
-Nursing
-
-Advise patients that breastfeeding is not recommended with ABILIFY treatment because of the potential for serious adverse reactions in a nursing infant [see Use in Specific Populations (8.3)].
-
 Concomitant Medication
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see Drug Interactions (7)].
@@ -55,14 +51,11 @@ Patients should be advised that each mL of ABILIFY Oral Solution contains 400 mg
 
 Pregnancy
 
-Advise patients that ABILIFY may cause extrapyramidal and/or withdrawal symptoms in a neonate and to notify their healthcare provider with a known or suspected pregnancy.
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ABILIFY during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ABILIFY.
+Advise patients that ABILIFY may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to ABILIFY during pregnancy [see Use in Specific Populations (8.1)].
 
 Phenylketonurics
 
 Phenylalanine is a component of aspartame.
 Each ABILIFY DISCMELT Orally Disintegrating Tablet contains the following amounts: 10 mg, 1.12 mg phenylalanine and 15 mg, 1.68 mg phenylalanine.
-
-Tablets manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
-
-Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA

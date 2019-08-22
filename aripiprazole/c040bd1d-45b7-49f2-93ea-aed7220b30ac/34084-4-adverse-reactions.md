@@ -473,75 +473,75 @@ Adults - Oral Administration
 
 Blood and Lymphatic System Disorders:
 
-- rare - thrombocytopenia
+rare - thrombocytopenia
 
 Cardiac Disorders:
 
-- infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
+infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
 
 Eye Disorders:
 
-- infrequent – photophobia; rare - diplopia
+infrequent – photophobia; rare - diplopia
 
 Gastrointestinal Disorders:
 
-- infrequent - gastroesophageal reflux disease
+infrequent - gastroesophageal reflux disease
 
 General Disorders and Administration Site Conditions:
 
-- frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
+frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
 
 Hepatobiliary Disorders:
 
-- rare - hepatitis, jaundice
+rare - hepatitis, jaundice
 
 Immune System Disorders:
 
-- rare - hypersensitivity
+rare - hypersensitivity
 
 Injury, Poisoning, and Procedural Complications:
 
-- infrequent – fall; rare – heat stroke
+infrequent – fall; rare – heat stroke
 
 Investigations:
 
-- frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
 
 Metabolism and Nutrition Disorders:
 
-- frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
+frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
 
 Musculoskeletal and Connective Tissue Disorders:
 
-- infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
+infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
 
 Nervous System Disorders:
 
-- infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
+infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
 
 Psychiatric Disorders:
 
-- infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
+infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
 
 Renal and Urinary Disorders:
 
-- rare - urinary retention, nocturia
+rare - urinary retention, nocturia
 
 Reproductive System and Breast Disorders:
 
-- infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
+infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
 
 Respiratory, Thoracic, and Mediastinal Disorders:
 
-- infrequent - nasal congestion, dyspnea
+infrequent - nasal congestion, dyspnea
 
 Skin and Subcutaneous Tissue Disorders:
 
-- infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
+infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
 
 Vascular Disorders:
 
-- infrequent – hypotension, hypertension
+infrequent – hypotension, hypertension
 
 Pediatric Patients - Oral Administration
 
@@ -550,27 +550,27 @@ Additional adverse reactions observed in the pediatric population are listed bel
 
 Eye Disorders
 
-- infrequent - oculogyric crisis
+infrequent - oculogyric crisis
 
 Gastrointestinal Disorders:
 
-- infrequent -tongue dry, tongue spasm
+infrequent -tongue dry, tongue spasm
 
 Investigations:
 
-- frequent - blood insulin increased
+frequent - blood insulin increased
 
 Nervous System Disorders:
 
-- infrequent - sleep talking
+infrequent - sleep talking
 
 Renal and Urinary Disorders
 
-- frequent – enuresis
+frequent – enuresis
 
 Skin and Subcutaneous Tissue Disorders:
 
-- infrequent - hirsutism
+infrequent - hirsutism
 
 Adults - Intramuscular Injection
 
@@ -579,7 +579,7 @@ Additional adverse reactions observed in the ABILIFY injection population are li
 
 General Disorders and Administration Site Conditions:
 
-- ≥1/100 patients - injection site reaction; ≥1/1000 patients and <1/100 patients - venipuncture site bruise
+≥1/100 patients - injection site reaction; ≥1/1000 patients and <1/100 patients - venipuncture site bruise
 
 ## 6.2 Postmarketing Experience
 

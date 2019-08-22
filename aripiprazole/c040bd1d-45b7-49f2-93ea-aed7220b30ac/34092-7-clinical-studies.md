@@ -261,8 +261,7 @@ Patients ≥50 kg in the high dose ABILIFY group, started at 2 mg per day increa
 ABILIFY (both high and low dose groups) demonstrated statistically significantly improved scores on the YGTSS TTS (Study 1 in Table 30) and on the CGI-TS scale compared with placebo.
 The estimated improvements on the YGTSS TTS over the course of the study are displayed in Figure 9.
 
-| Figure 9: Least Square Means of Change from Baseline in YGTSS TTS by Week (Tourette's Disorder Study 1) |
-| --- |
+Figure 9: Least Square Means of Change from Baseline in YGTSS TTS by Week (Tourette's Disorder Study 1)
 
 In the 10-week, placebo-controlled, flexible-dose trial in children and adolescents with Tourette's disorder (n=61), aged 6 to 18 years, patients received daily doses of placebo or ABILIFY, starting at 2 mg/day with increases allowed up to 20 mg/day based on clinical response.
 ABILIFY demonstrated statistically significantly improved scores on the YGTSS TTS scale compared with placebo (Study 2 in Table 30).
