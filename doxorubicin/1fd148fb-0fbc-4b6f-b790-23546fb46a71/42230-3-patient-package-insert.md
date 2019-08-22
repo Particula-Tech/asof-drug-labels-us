@@ -137,4 +137,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 LAB-0436-2.0
 
-10/2013
+Revised: 10/2013
