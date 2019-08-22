@@ -15,7 +15,7 @@
 
 Manufactured for:
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC
 
 Bridgewater, NJ 08807
 
