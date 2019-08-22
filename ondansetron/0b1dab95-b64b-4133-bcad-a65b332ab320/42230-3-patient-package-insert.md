@@ -116,8 +116,8 @@ Inactive ingredients: butylated hydroxytoluene, calcium carbonate, colloidal sil
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Monosol Rx, LLC Warren, NJ 07059
+Manufactured by: Aquestive Therapeutics Warren, NJ 07059
 
 Distributed by: Midatech Pharma US Inc. Raleigh, NC 27615
 
-Revised: July 2016
+Revised: April 2019
