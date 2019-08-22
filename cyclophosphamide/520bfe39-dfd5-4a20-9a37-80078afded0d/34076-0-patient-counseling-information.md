@@ -19,18 +19,10 @@ Advise the patient of the following:
 - Explain to patients that side effects such as nausea, vomiting, stomatitis, impaired wound healing, amenorrhea, premature menopause, sterility and hair loss may be associated with cyclophosphamide administration.
   Other undesirable effects (including, e.g., dizziness, blurred vision, visual impairment) could affect the ability to drive or use machines [see Adverse Reactions (6.1 and 6.2)].
 
-Manufactured by:
+Manufactured by: Amneal Oncology Pvt.
+Ltd. Telangana 509301, INDIA
 
-Amneal Oncology Pvt.
-Ltd.
-
-Telangana 509301, INDIA
-
-Distributed by:
-
-Amneal Biosciences LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-10-2017-00
+08-2019-01
