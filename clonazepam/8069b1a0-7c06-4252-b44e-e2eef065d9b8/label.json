@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA074569"
+  ],
+  "inn": "clonazepam",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-3212-01",
+    "0093-3212-05",
+    "0093-3212-10",
+    "0093-3213-01",
+    "0093-3213-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonazepam",
+      "name": "Clonazepam"
+    }
+  ],
+  "setid": "8069b1a0-7c06-4252-b44e-e2eef065d9b8",
+  "source": "dailymed"
+}
