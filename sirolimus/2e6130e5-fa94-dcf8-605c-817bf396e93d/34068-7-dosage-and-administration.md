@@ -51,7 +51,7 @@ Antibody induction therapy may be used.
 
 ## 2.5 Therapeutic Drug Monitoring
 
-Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus tablets dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
+Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus tablets dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
 
 Therapeutic drug monitoring should not be the sole basis for adjusting sirolimus tablets therapy.
 Careful attention should be made to clinical signs/symptoms, tissue biopsy findings, and laboratory parameters.
@@ -60,9 +60,9 @@ When used in combination with cyclosporine, sirolimus trough concentrations shou
 Following cyclosporine withdrawal in transplant patients at low- to moderate-immunologic risk, the target sirolimus trough concentrations should be 16 to 24 ng/mL for the first year following transplantation.
 Thereafter, the target sirolimus concentrations should be 12 to 20 ng/mL.
 
-The above recommended 24 hour trough concentration ranges for sirolimus are based on chromatographic methods.
+The above recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by both chromatographic and immunoassay methodologies.
-Because the measured sirolimus whole blood concentrations depend on the type of assay used, the concentrations obtained by these different methodologies are not interchangeable [see Warnings and Precautions (5.16), Clinical Pharmacology (12.3)].
+Because the measured sirolimus whole blood concentrations depend on the type of assay used, the concentrations obtained by these different methodologies are not interchangeable [see Warnings and Precautions (5.17), Clinical Pharmacology (12.3)].
 Adjustments to the targeted range should be made according to the assay utilized to determine sirolimus trough concentrations.
 Since results are assay and laboratory dependent, and the results may change over time, adjustments to the targeted therapeutic range must be made with a detailed knowledge of the site-specific assay used.
 Therefore, communication should be maintained with the laboratory performing the assay.
@@ -70,7 +70,7 @@ A discussion of different assay methods is contained in Clinical Therapeutics, V
 
 ## 2.6 Patients with Low Body Weight
 
-The initial dosage in patients ≥ 13 years who weigh less than 40 kg should be adjusted, based on body surface area, to 1 mg/m2/day.
+The initial dosage in patients ≥13 years who weigh less than 40 kg should be adjusted, based on body surface area, to 1 mg/m2/day.
 The loading dose should be 3 mg/m2.
 
 ## 2.7 Patients with Hepatic Impairment

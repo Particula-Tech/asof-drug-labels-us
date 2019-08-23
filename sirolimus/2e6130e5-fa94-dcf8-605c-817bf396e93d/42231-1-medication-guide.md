@@ -13,7 +13,7 @@ Increased risk of getting infections.
 Serious infections can happen including infections caused by viruses, bacteria, and fungi (yeast).
 Your doctor may put you on medicine to help prevent some of these infections.
 
-Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus.
+Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus tablets.
 
 2.
 Increased risk of getting certain cancers.
@@ -50,14 +50,13 @@ What should I tell my doctor before taking sirolimus?
 - have skin cancer or it runs in your family
 - have high cholesterol or triglycerides (fat in your blood)
 - are pregnant or are a female who can become pregnant.
-  Sirolimus may harm your unborn baby.
+  Sirolimus can harm your unborn baby.
   You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus tablets.
   In order to avoid pregnancy, a female who can get pregnant should use effective birth control during treatment and for 12 weeks after your final dose of sirolimus tablets.
   Talk with your doctor about what birth control method is right for you during this time.
   Tell your doctor right away if you become pregnant or think you are pregnant during treatment with sirolimus or within 12 weeks after your final dose of sirolimus tablets.
-- It is not known whether sirolimus passes into breast milk.
-  You and your doctor should decide if you will take sirolimus or breastfeed.
-  You should not do both.
+- It is not known whether sirolimus passes into breast milk; however, there is a risk of serious side effects in breastfed infants.
+  You and your doctor should decide about the best way to feed your baby if you take sirolimus tablets.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Using sirolimus with certain medicines may affect each other causing serious side effects.
@@ -102,7 +101,7 @@ What should I avoid while taking sirolimus?
 - Avoid receiving live vaccines while taking sirolimus.
   Some vaccines may not work as well while you are taking sirolimus.
 - Limit your time in sunlight and UV light.
-  Cover your skin with clothing and use a sunscreen with a high protection factor because of the increased risk for skin cancer with sirolimus.
+  Cover your skin with clothing and use a broad spectrum sunscreen with a high protection factor because of the increased risk for skin cancer with sirolimus.
 
 What are the possible side effects of sirolimus?
 
@@ -148,6 +147,10 @@ Sirolimus may cause serious side effects, including:
 - Blood clotting problems.
   When sirolimus is taken with cyclosporine or tacrolimus, you may develop a blood clotting problem.
   Tell your doctor if you get any unexplained bleeding or bruising.
+- Possible harm to your unborn baby.
+  Sirolimus can harm your unborn baby.
+  You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus.
+  See “What should I tell my doctor before taking sirolimus tablets?”.
 
 The most common side effects of sirolimus in people with renal tranplant include:
 
@@ -160,6 +163,14 @@ The most common side effects of sirolimus in people with renal tranplant include
 - nausea
 - low platelet count (cells that help blood to clot)
 - high blood sugar (diabetes)
+
+Other side effects that may occur with sirolimus:
+
+• Sirolimus may affect fertility in females and may affect your ability to become pregnant.
+Talk to your healthcare provider if this is a concern for you.
+
+• Sirolimus may affect fertility in males and may affect your ability to father a child.
+Talk to your healthcare provider if this is a concern for you.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -176,6 +187,9 @@ Sirolimus tablets:
 - Store sirolimus tablets at 20° to 25°C (68° to 77°F).
 - Bottles: Keep the bottle of sirolimus tablets tightly closed.
 
+Do not use sirolimus tablets after the expiration date.
+The expiration date refers to the last day of that month.
+
 Safely throw away medicine that is out of date or no longer needed.
 
 Keep sirolimus tablets and all medicines out of the reach of children.
@@ -184,7 +198,7 @@ General Information about the safe and effective use of sirolimus
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use sirolimus for a condition for which it was not prescribed.
-Do not give sirolimus to other people even if they have the same symptoms that you have.
+Do not give sirolimus tablets to other people even if they have the same symptoms that you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about sirolimus.
@@ -214,7 +228,7 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam – 530 046 INDIA
 
-Revised: 0618
+Revised: 0719
 
 Dispense with Medication Guide available at:
 

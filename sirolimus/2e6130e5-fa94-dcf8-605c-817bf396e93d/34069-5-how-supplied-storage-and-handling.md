@@ -2,6 +2,9 @@
 
 Since sirolimus is not absorbed through the skin, there are no special precautions.
 
+Do not use sirolimus tablets after the expiration date.
+The expiration date refers to the last day of that month.
+
 ## 16.2 Sirolimus Tablets
 
 Sirolimus Tablets are available as follows:
