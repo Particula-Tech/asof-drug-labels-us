@@ -140,6 +140,6 @@ Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
 Manufactured by: Ajanta Pharma Limited Z-103/A, Dahej SEZ - Part II Bharuch, Gujarat 392130, India
 
-Revised: 03/2019
+Revised: 08/2019
 
 # All trademarks are the properties of their respective owners
