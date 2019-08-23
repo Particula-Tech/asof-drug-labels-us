@@ -6,8 +6,6 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Common adverse reactions (greater than or equal to 30%) observed in single-agent therapy clinical studies are: nausea, vomiting, abdominal pain, diarrhea, constipation, anorexia, neutropenia, leukopenia (including lymphocytopenia), anemia, asthenia, fever, body weight decreasing, and alopecia.
 
-Serious opportunistic infections have not been observed, and no complications have specifically been attributed to lymphocytopenia.
-
 Second-Line Single-Agent Therapy
 
 Weekly Dosage Schedule
@@ -167,3 +165,5 @@ Transient dysarthria has been reported in patients treated with Irinotecan Hydro
 
 Interaction between irinotecan and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.
+
+Infections: fungal and viral infections have been reported.

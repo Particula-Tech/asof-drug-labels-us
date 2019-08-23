@@ -33,7 +33,7 @@ Pharmacokinetic parameters for irinotecan and SN-38 following a 90-minute infusi
 Table 9.
 Summary of Mean (±Standard Deviation) Irinotecan and SN-38
 
-| (mg/ m2) | (ng/mL) | (ng·h/mL) | (h) | L/m2) | (L/h/m2) | (ng/mL) | (ng·h/ mL) | (h) |
+| (mg/ m2) | (ng/mL) | (ng·h/mL) | (h) | L/m2) | (L/h/m2) | (ng/mL) | (ng·h/mL) | (h) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pharmacokinetic Parameters in Patients with Solid Tumors |  |  |  |  |  |  |  |  |
 |  | Irinotecan |  |  |  |  | SN-38 |  |  |

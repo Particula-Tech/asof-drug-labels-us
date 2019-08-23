@@ -29,6 +29,9 @@ Avoid diuretics or laxatives in patients with diarrhea.
 
 ## 5.2 Myelosuppression
 
+Irinotecan Hydrochloride Injection can cause severe myelosuppression.
+Bacterial, viral, and fungal infections have occurred in patients treated with Irinotecan Hydrochloride Injection.
+
 Deaths due to sepsis following severe neutropenia have been reported in patients treated with Irinotecan Hydrochloride Injection.
 In the clinical studies evaluating the weekly dosage schedule, neutropenic fever (concurrent NCI grade 4 neutropenia and fever of grade 2 or greater) occurred in 3% of the patients; 6% of patients received G-CSF for the treatment of neutropenia.
 Manage febrile neutropenia promptly with antibiotic support [see Warnings and Precautions (5.2)].

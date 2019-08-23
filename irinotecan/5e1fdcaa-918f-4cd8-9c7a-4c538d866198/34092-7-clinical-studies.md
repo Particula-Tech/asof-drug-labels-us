@@ -6,10 +6,6 @@ Clinical studies of single-agent use are described below.
 
 ## 14.1 Metastatic Colorectal Cancer
 
-Irinotecan has been studied in clinical trials as a single-agent [see Dosage and Administration (2)].
-Weekly and once-every-3-week dosage schedules were used for the single-agent irinotecan studies.
-Clinical studies of single-agent use are described below.
-
 Second-Line Therapy After 5-FU-Based Treatment
 
 4 Weekly Doses on a 6-Week Cycle: Studies 3, 4, and 5
@@ -63,8 +59,8 @@ Weekly Dosage Schedule: Study Results
 | 5 | 4 | 4 | 3 |  |
 | Relative Dose Intensityb (median %) | 74 | 67 | 73 | 81 |
 | Efficacy |  |  |  |  |
-| Confirmed Objective Response Rate (%)c (95% CI) | 21 | 13 | 14 | 9 |
-|  | (9.3 to 32.3) | (6.3 to 20.4) | (5.5 to 22.6) | (3.3 to 14.3) |
+| Confirmed Objective Response Rate (%)c | 21 | 13 | 14 | 9 |
+| (95% CI) | (9.3 to 32.3) | (6.3 to 20.4) | (5.5 to 22.6) | (3.3 to 14.3) |
 | Time to Response (median, months) | 2.6 | 1.5 | 2.8 | 2.8 |
 | Response Duration (median, months) | 6.4 | 5.9 | 5.6 | 6.4 |
 | Survival (median, months) | 10.4 | 8.1 | 10.7 | 9.3 |

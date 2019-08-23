@@ -4,7 +4,7 @@ Irinotecan Hydrochloride Injection, USP is an antineoplastic agent of the topois
 
 Irinotecan Hydrochloride Injection, USP is supplied as a sterile, pale yellow, clear, aqueous solution.
 Each milliliter of solution contains 20 mg of irinotecan hydrochloride, USP (on the basis of the trihydrate salt), 45 mg of sorbitol, NF, and 0.9 mg of lactic acid, USP.
-The pH of the solution has been adjusted to 3.5 (range, 3.0 to 4.0) with sodium hydroxide or hydrochloric acid.
+The pH of the solution has been adjusted to 3.4 (range, 3.0 to 3.8) with sodium hydroxide or hydrochloric acid.
 Irinotecan Hydrochloride Injection, USP is intended for dilution with 5% Dextrose Injection, USP (D5W), or 0.9% Sodium Chloride Injection, USP, prior to intravenous infusion.
 The preferred diluent is 5% Dextrose Injection, USP.
 

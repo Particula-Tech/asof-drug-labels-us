@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects:
-
 Pregnancy Category D [see Warnings and Precautions (5.9)]
 
 Irinotecan Hydrochloride Injection can cause fetal harm when administered to a pregnant woman.
