@@ -2,6 +2,10 @@
 
 NDC 65862-554-30 Rx only Minocycline Hydrochloride Extended-Release Tablets, USP 45 mg* AUROBINDO 30 Tablets
 
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 55 mg (30 Tablets Bottle)
+
+NDC 65862-883-30 Rx only Minocycline Hydrochloride Extended-Release Tablets, USP 55 mg* AUROBINDO 30 Tablets
+
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 65 mg (30 Tablets Bottle)
 
 NDC 65862-555-30 Rx only Minocycline Hydrochloride Extended-Release Tablets, USP 65 mg* AUROBINDO 30 Tablets

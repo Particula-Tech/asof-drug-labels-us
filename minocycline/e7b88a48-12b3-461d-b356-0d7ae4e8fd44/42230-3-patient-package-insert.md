@@ -185,6 +185,7 @@ Active Ingredient: Minocycline Hydrochloride, USP.
 
 Inactive Ingredients: colloidal silicon dioxide, hypromellose, lactose monohydrate, magnesium stearate, titanium dioxide, and triacetin.
 The 45 mg tablets also contain iron oxide black.
+The 55 mg tablets also contain FD&C Red # 40/Allura Red AC aluminum lake and polyethylene glycol.
 The 65 mg tablets also contain D&C Yellow #10 aluminum lake, FD&C Blue #1/Brilliant blue FCF aluminum lake, FD&C Blue #2/Indigo caramine aluminum lake, and polyethylene glycol.
 The 80 mg tablets also contain FD&C Blue #2 indigo caramine aluminum lake, FD&C Red # 40/Allura Red AC aluminum lake, FD&C Yellow #6/Sunset yellow FCF aluminum lake and polyethylene glycol.
 The 90 mg tablets also contain iron oxide yellow and polyethylene glycol.
