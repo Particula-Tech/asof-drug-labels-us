@@ -43,7 +43,7 @@ Each mL contains: 10 mg Chloroprocaine HCl, equivalent to 8.81 mg Chloroprocaine
 
 Rx Only 10 Single Dose Ampules x 5 mL Discard Unused Portion
 
-LOT EXP
+GTIN (01) LOT (10) EXPIRY SERIAL (21)
 
 Do not refrigerate or freeze.
 Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
@@ -61,4 +61,4 @@ Switzerland
 
 Clorotekal is a registered trademark of Sintetica S.A.
 
-66699 01 LD-580-1
+66699 02 LD-580-2
