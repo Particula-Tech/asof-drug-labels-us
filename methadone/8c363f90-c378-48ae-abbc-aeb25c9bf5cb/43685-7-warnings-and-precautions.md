@@ -62,7 +62,7 @@ Accidental ingestion of even one dose of methadone, especially by children, can 
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper[see Dosage and Administration (2.4)].
 
 ## 5.5 Life-Threatening QT Prolongation
 
@@ -217,13 +217,11 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 ## 5.16 Withdrawal
 
 Do not abruptly discontinue Methadone Hydrochloride Oral Solution in a patient physically dependent on opioids.
-Rapid tapering of Methadone Hydrochloride Oral Solution in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+When discontinuing Methadone Hydrochloride Oral Solution in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of methadone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain[see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
-Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including Methadone Hydrochloride Oral Solution.
-In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
-
-When discontinuing Methadone Hydrochloride Oral Solution, gradually taper the dosage [see Dosage and Administration (2.5)].
-Do not abruptly discontinue Methadone Hydrochloride Oral Solution [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Methadone Hydrochloride Oral Solution.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.17 Risks of Driving and Operating Machinery
 
