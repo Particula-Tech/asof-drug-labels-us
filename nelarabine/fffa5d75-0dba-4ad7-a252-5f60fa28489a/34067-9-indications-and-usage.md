@@ -1,5 +1,3 @@
 # 1INDICATIONS AND USAGE
 
-ARRANON is indicated for the treatment of patients with T-cell acute lymphoblastic leukemia and T-cell lymphoblastic lymphoma whose disease has not responded to or has relapsed following treatment with at least two chemotherapy regimens.
-This use is based on the induction of complete responses.
-Randomized trials demonstrating increased survival or other clinical benefit have not been conducted.
+ARRANON is indicated for the treatment of T-cell acute lymphoblastic leukemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL) in adult and pediatric patients age 1 year and older whose disease has not responded to or has relapsed following treatment with at least 2 chemotherapy regimens.

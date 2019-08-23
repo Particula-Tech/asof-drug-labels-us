@@ -2,9 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Patient labeling is provided at the end of this full prescribing information.
-However, inform the patients of the following:
-
 Hematologic Adverse Reactions
 
 - Advise patients that leukopenia, thrombocytopenia, anemia, and neutropenia, including febrile neutropenia, have been associated with ARRANON.
@@ -49,4 +46,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2018-130
+T2019-90
