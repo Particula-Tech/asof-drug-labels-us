@@ -11,8 +11,7 @@ Two hundred three patients were randomized to docetaxel and 189 to the comparato
 Most patients had received prior chemotherapy for metastatic disease; only 27 patients on the docetaxel arm and 33 patients on the comparator arm entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
-The following table summarizes the study results.
-(See Table 12)
+The following table summarizes the study results (See Table 12).
 
 Table 12: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
 
@@ -33,8 +32,7 @@ One hundred sixty-one patients were randomized to docetaxel and 165 patients to 
 Approximately one-half of patients had received prior chemotherapy for metastatic disease, and one-half entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
-The study results are summarized below.
-(See Table 13)
+The study results are summarized below (See Table 13).
 
 Table 13: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
 
@@ -100,7 +98,7 @@ Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 | Positive Negative | 566 178 | 0.76 0.68 | (0.59, 0.98) (0.48, 0.97) | 0.69 0.66 | (0.48, 0.99) (0.44, 0.98) |
 | *a hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. |  |  |  |  |  |
 
-## 14.3 Non-Small Cell Lung Cancer (NSCLC)
+## 14.3 Non-small Cell Lung Cancer (NSCLC)
 
 The efficacy and safety of docetaxel has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naive.
 
@@ -119,7 +117,7 @@ Forty percent of the patients in this study had a history of prior paclitaxel ex
 The primary endpoint was survival in both trials.
 The efficacy data for the docetaxel 75 mg/m 2 arm and the comparator arms are summarized in Table 15 and Figure 3 and Figure 4 showing the survival curves for the two studies.
 
-Table 15: Efficacy of Docetaxel in the Treatment of Non-Small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
+Table 15: Efficacy of Docetaxel in the Treatment of Non-small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
 
 | Docetaxel 75 mg/m2 n=55 | Best Supportive Care n=49 |  | Docetaxel 75 mg/m2 n=125 |  | Control (V/I*) n=123 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -252,8 +250,8 @@ At the end of chemotherapy, with a minimal interval of 4 weeks and a maximal int
 Locoregional therapy with radiation was delivered either with a conventional fraction regimen (1.8 Gy-2.0 Gy once a day, 5 days per week for a total dose of 66 to 70 Gy) or with an accelerated/hyperfractionated regimen (twice a day, with a minimum interfraction interval of 6 hours, 5 days per week, for a total dose of 70 to 74 Gy, respectively).
 Surgical resection was allowed following chemotherapy, before or after radiotherapy.
 
-The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs 8.3 months respectively) with an overall median follow-up time of 33.7 months.
-Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs 14.2 months respectively).
+The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs 8.3 months, respectively) with an overall median follow-up time of 33.7 months.
+Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs 14.2 months, respectively).
 Efficacy results are presented in Table 20 and Figure 8 and Figure 9.
 
 Table 20: Efficacy of Docetaxel in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)

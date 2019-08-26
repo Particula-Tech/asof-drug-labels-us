@@ -4,10 +4,6 @@ Docetaxel (doe-se-TAKS-el) Injection USP
 
 for intravenous use
 
-Read this Patient Information before you receive your first treatment with Docetaxel Injection USP and each time before you are treated.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
-
 What is the most important information I should know about Docetaxel Injection USP?
 
 Docetaxel Injection USP can cause serious side effects, including death.
@@ -25,8 +21,8 @@ Docetaxel Injection USP can cause serious side effects, including death.
    Follow your healthcare provider's instructions for how often to take your temperature during treatment with Docetaxel Injection USP.
    Call your healthcare provider right away if you have a fever.
 3. Swelling (inflammation) of the small intestine and colon.
-   This can happen at any time and could lead to death as early as the first day you get symptoms.
-   Tell your healthcare provider right away if you develop new or worse symptoms of intestinal problems, including stomach (abdominal) pain or tenderness, diarrhea, or fever.
+   This can happen at any time during treatment and could lead to death as early as the first day you get symptoms.
+   Tell your healthcare provider right away if you develop new or worse symptoms of intestinal problems, including stomach (abdominal) pain or tenderness or diarrhea, with or without fever.
 4. Severe allergic reactions are medical emergencies that can happen in people who receive Docetaxel Injection USP and can lead to death.
    You may be at higher risk of developing a severe allergic reaction to Docetaxel Injection USP if you are allergic to paclitaxel.
    Your healthcare provider will monitor you closely for allergic reactions during your Docetaxel Injection USP infusion.
@@ -71,13 +67,22 @@ Before you receive Docetaxel Injection USP, tell your healthcare provider about 
 - are pregnant or plan to become pregnant.
   Docetaxel Injection USP can harm your unborn baby.
   You should not become pregnant during treatment with Docetaxel Injection USP.
-  Females who are able to become pregnant should use effective birth control (contraception) during treatment with Docetaxel Injection USP.
-  Talk to your healthcare provider if you have questions about birth control options that are right for you.
+  Tell your healthcare provider if you become pregnant or you think you may be pregnant during treatment with Docetaxel Injection USP.
+
+Females who are able to become pregnant:
+
+o Your healthcare provider will check to see if you are pregnant before you start treatment with Docetaxel Injection USP.
+
+o You should use effective birth control (contraception) during treatment with Docetaxel Injection USP and for 6 months after the last dose.
+Males with female partners who are able to become pregnant should use effective birth control during treatment with Docetaxel Injection USP and for 3 months after the last dose.
+
+Talk to your healthcare provider if you have questions about birth control options that are right for you.
+
 - are breastfeeding or plan to breastfeed.
   It is not known if Docetaxel Injection USP passes into your breast milk.
-  You and your healthcare provider should decide if you will receive Docetaxel Injection USP or breastfeed.
+  Do not breastfeed during treatment with Docetaxel Injection USP and for 1 week after the last dose.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the –counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Docetaxel Injection USP may affect the way other medicines work, and other medicines may affect the way Docetaxel Injection, USP works.
 
 Know the medicines you take.
@@ -96,14 +101,19 @@ What are the possible side effects of Docetaxel Injection USP?
 Docetaxel Injection USP may cause serious side effects including death.
 
 - See “ What is the most important information I should know about Docetaxel Injection USP?”
-- Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who receive Docetaxel Injection, USP along with certain other medicines.
-- Other blood disorders.
-  Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection USP.
+- Risk of new cancers.
+  An increase in new (second) cancers has happened in people treated with Docetaxel Injection USP together with certain other anticancer treatments.
+  This includes certain blood cancers, such as acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), Non-Hodgkin’s Lymphoma (NHL), and kidney cancer.
+
+o Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection USP.
+
+Your healthcare provider will check you for new cancers during and after your treatment with Docetaxel Injection USP.
+
 - Skin reactions including redness and swelling of your arms and legs with peeling of your skin.
   Tell your healthcare provider if you are having a skin reaction.
 - Neurologic problems.
   Neurologic symptoms are common in people who receive Docetaxel Injection USP but can be severe.
-  Tell your healthcare provider if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness)
+  Tell your healthcare provider right away if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness)
 - Vision problems including blurred vision or loss of vision.
   Tell your healthcare provider right away if you have any vision changes.
 - Docetaxel Injection USP contains alcohol.
@@ -136,11 +146,14 @@ The most common side effects of Docetaxel Injection USP include:
 Tell your healthcare provider if you have a fast or irregular heartbeat, severe shortness of breath, dizziness or fainting during your infusion.
 If any of these events occurs after your infusion, get medical help right away.
 
+Docetaxel Injection USP may affect fertility in males.
+Talk to your healthcare provider if this is a concern for you.
+
 These are not all the possible side effects of Docetaxel Injection, USP.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your healthcare provider for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA­ 1088.
+You may report side effects to FDA at 1-800-FDA­-1088.
 
 General information about the safe and effective use of Docetaxel Injection USP.
 
@@ -167,7 +180,7 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2018
+Revised: 06/2019
 
 | Every three-week injection of Docetaxel Injection USP for breast, non-small cell lung and stomach, and head and neck cancers Take your oral corticosteroid medicine as your healthcare provider tells you. |
 | --- |
@@ -185,6 +198,6 @@ Revised: 10/2018
 | (Docetaxel Injection USP Treatment Day) |
 | Time: ________ |
 
-Revised: October 2018
+Revised: June 2019
 
-10VUF02
+10VUF03

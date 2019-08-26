@@ -12,8 +12,7 @@ One-vial Docetaxel Injection USP (Injection)
 
 Docetaxel Injection USP is a sterile, non-pyrogenic, pale-yellow to brownish-yellow solution at 20 m/mL concentration.
 
-Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams dehydrated alcohol solution.
-Also contains anhydrous citric acid as pH adjuster.
+Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams dehydrated alcohol (50% v/v) solution, with citric acid for pH adjustment.
 
 Docetaxel Injection USP is available in single-dose vials containing 20 mg (1 mL), 80 mg (4 mL) or 160 mg (8 mL) docetaxel (anhydrous).
 
