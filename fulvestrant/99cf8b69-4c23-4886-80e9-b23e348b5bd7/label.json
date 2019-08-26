@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207754"
+  ],
+  "inn": "fulvestrant",
+  "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+  "package_ndcs": [
+    "68462-317-32"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fulvestrant",
+      "name": "Fulvestrant"
+    }
+  ],
+  "setid": "99cf8b69-4c23-4886-80e9-b23e348b5bd7",
+  "source": "dailymed"
+}

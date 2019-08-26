@@ -1,0 +1,3 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 68462-317-32 Fulvestrant Injection 250 mg/5 mL (50 mg/mL)
