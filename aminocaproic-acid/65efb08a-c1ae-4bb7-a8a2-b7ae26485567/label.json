@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212780"
+  ],
+  "inn": "aminocaproic-acid",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-1596-8"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "aminocaproic acid",
+      "name": "Aminocaproic acid"
+    }
+  ],
+  "setid": "65efb08a-c1ae-4bb7-a8a2-b7ae26485567",
+  "source": "dailymed"
+}
