@@ -22,7 +22,7 @@ Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth, and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
 
 Data
@@ -46,9 +46,9 @@ Placental transfer of sitagliptin was observed in pregnant rats and rabbits.
 
 Sitagliptin administered to female rats from gestation day 6 to lactation day 21 caused no functional or behavioral toxicity in offspring of rats at doses up to 1000 mg/kg.
 
-Metformin hydrochloride
+Metformin HCl
 
-Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
+Metformin HCl did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
 This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
 
 ## 8.2 Lactation
@@ -70,7 +70,7 @@ Sitagliptin
 
 Sitagliptin is secreted in the milk of lactating rats at a milk to plasma ratio of 4:1.
 
-Metformin hydrochloride
+Metformin HCl
 
 Published clinical lactation studies report that metformin is present in human milk, which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
 However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
@@ -96,7 +96,7 @@ Of the total number of subjects (N=3884) in Phase II and III clinical studies of
 No overall differences in safety or effectiveness were observed between subjects 65 years and over and younger subjects.
 While this and other reported clinical experience have not identified differences in responses between the elderly and younger patients, greater sensitivity of some older individuals cannot be ruled out.
 
-Metformin hydrochloride
+Metformin HCl
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
@@ -116,7 +116,7 @@ Sitagliptin
 Sitagliptin is excreted by the kidney, and sitagliptin exposure is increased in patients with renal impairment.
 Lower dosages are recommended in patients with eGFR less than 45 mL/min/1.73 m2 (moderate and severe renal impairment, as well as in ESRD patients requiring dialysis).
 
-Metformin hydrochloride
+Metformin HCl
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
 

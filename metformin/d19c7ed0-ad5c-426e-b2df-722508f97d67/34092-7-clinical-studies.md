@@ -2,7 +2,7 @@
 
 The coadministration of sitagliptin and metformin has been studied in patients with type 2 diabetes inadequately controlled on diet and exercise and in combination with other antihyperglycemic agents.
 
-None of the clinical efficacy studies described below was conducted with JANUMET; however, bioequivalence of JANUMET with coadministered sitagliptin and metformin hydrochloride tablets was demonstrated.
+None of the clinical efficacy studies described below was conducted with JANUMET; however, bioequivalence of JANUMET with coadministered sitagliptin and metformin HCl tablets was demonstrated.
 
 Sitagliptin and Metformin Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
 
@@ -165,6 +165,33 @@ Table 12: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin as 
 | Change from baseline (adjusted mean) | -39 | 1 |
 | Difference from placebo (adjusted mean) (95% CI) | -40 (-53, -28) |  |
 
+Maintenance of Sitagliptin During Initiation and Titration of Insulin Glargine
+
+A total of 746 patients with type 2 diabetes (mean baseline HbA1C 8.8%, disease duration 10.8 years) participated in a 30-week, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of continuing sitagliptin during the initiation and uptitration of insulin glargine.
+Patients who were on a stable dose of metformin (≥1500 mg/day) in combination with a DPP-4 inhibitor and/or sulfonylurea but with inadequate glycemic control (A1C 7.5% to 11%) were enrolled in the study.
+Those on metformin and sitagliptin (100 mg/day) directly entered the double-blind treatment period; those on another DPP-4 inhibitor and/or on a sulfonylurea entered a 4-8 week run-in period in which they were maintained on metformin and switched to sitagliptin (100 mg); other DPP-4 inhibitors and sulfonylureas were discontinued.
+At randomization patients were randomized either to continue sitagliptin or to discontinue sitagliptin and switch to a matching placebo.
+On the day of randomization, insulin glargine was initiated at a dose of 10 units subcutaneously in the evening.
+Patients were instructed to uptitrate their insulin dose in the evening based on fasting blood glucose measurements to achieve a target of 72-100 mg/dL.
+
+At 30 weeks, the mean reduction in A1C was greater in the sitagliptin group than in the placebo group (Table 13).
+At the end of the trial, 27.3% of patients in the sitagliptin group and 27.3% in the placebo group had a fasting plasma glucose (FPG) in the target range; there was no significant difference in insulin dose between arms.
+
+Table 13: Change from Baseline in A1C and FPG at Week 30 in the Maintenance of Sitagliptin During Initiation and Titration of Insulin Glargine Study
+
+|  | Sitagliptin 100 mg +Metformin + Insulin Glargine | Placebo +Metformin + Insulin Glargine |
+| --- | --- | --- |
+| A1C (%) | N = 373N is the number of randomized and treated patients. | N = 370 |
+| Baseline (mean) | 8.8 | 8.8 |
+| Week 30 (mean) | 6.9 | 7.3 |
+| Change from baseline (adjusted mean)Analysis of Covariance including all post-baseline data regardless of rescue or treatment discontinuation. Model estimates calculated using multiple imputation to model washout of the treatment effect using placebo data for all subjects having missing Week 30 data. | -1.9 | -1.4 |
+| Difference from placebo (adjusted mean) (95% CI) | -0.4 (-0.6, -0.3)p<0.001 compared to placebo. |  |
+| Patients (%) with A1C <7% | 202 (54.2%) | 131 (35.4%) |
+| FPG (mg/dL) | N = 373 | N = 370 |
+| Baseline (mean) | 199 | 201 |
+| Week 30 (mean) | 118 | 123 |
+| Change from baseline (adjusted mean) | -81 | -76 |
+
 Sitagliptin Add-on Therapy vs. Glipizide Add-on Therapy in Patients with Type 2 Diabetes Inadequately Controlled on Metformin
 
 The efficacy of sitagliptin was evaluated in a 52-week, double-blind, glipizide-controlled noninferiority trial in patients with type 2 diabetes.
@@ -174,11 +201,11 @@ Patients receiving glipizide were given an initial dosage of 5 mg/day and then e
 Thereafter, the glipizide dose was to be kept constant, except for down-titration to prevent hypoglycemia.
 The mean dose of glipizide after the titration period was 10 mg.
 
-After 52 weeks, sitagliptin and glipizide had similar mean reductions from baseline in A1C in the intent-to-treat analysis (Table 13).
+After 52 weeks, sitagliptin and glipizide had similar mean reductions from baseline in A1C in the intent-to-treat analysis (Table 14).
 These results were consistent with the per protocol analysis (Figure 2).
 A conclusion in favor of the non-inferiority of sitagliptin to glipizide may be limited to patients with baseline A1C comparable to those included in the study (over 70% of patients had baseline A1C less than 8% and over 90% had A1C less than 9%).
 
-Table 13: Glycemic Parameters in a 52-Week Study Comparing Sitagliptin to Glipizide as Add-On Therapy in Patients Inadequately Controlled on Metformin (Intent-to-Treat Population)The intent-to-treat analysis used the patients' last observation in the study prior to discontinuation.
+Table 14: Glycemic Parameters in a 52-Week Study Comparing Sitagliptin to Glipizide as Add-On Therapy in Patients Inadequately Controlled on Metformin (Intent-to-Treat Population)The intent-to-treat analysis used the patients' last observation in the study prior to discontinuation.
 
 |  | Sitagliptin 100 mg + Metformin | Glipizide + Metformin |
 | --- | --- | --- |

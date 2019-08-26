@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosing
 
-The dosage of JANUMET should be individualized on the basis of the patient's current regimen, effectiveness, and tolerability while not exceeding the maximum recommended daily dose of 100 mg sitagliptin and 2000 mg metformin.
+The dosage of JANUMET should be individualized on the basis of the patient's current regimen, effectiveness, and tolerability while not exceeding the maximum recommended daily dose of 100 mg sitagliptin and 2000 mg metformin hydrochloride (HCl).
 Initial combination therapy or maintenance of combination therapy should be individualized and left to the discretion of the health care provider.
 
 JANUMET should generally be given twice daily with meals, with gradual dose escalation, to reduce the gastrointestinal (GI) side effects due to metformin.
@@ -12,14 +12,14 @@ The starting dose of JANUMET should be based on the patient's current regimen.
 JANUMET should be given twice daily with meals.
 The following doses are available:
 
-50 mg sitagliptin/500 mg metformin hydrochloride
+50 mg sitagliptin/500 mg metformin HCl
 
-50 mg sitagliptin/1000 mg metformin hydrochloride.
+50 mg sitagliptin/1000 mg metformin HCl.
 
-The recommended starting dose in patients not currently treated with metformin is 50 mg sitagliptin/500 mg metformin hydrochloride twice daily, with gradual dose escalation recommended to reduce gastrointestinal side effects associated with metformin.
+The recommended starting dose in patients not currently treated with metformin is 50 mg sitagliptin/500 mg metformin HCl twice daily, with gradual dose escalation recommended to reduce gastrointestinal side effects associated with metformin.
 
 The starting dose in patients already treated with metformin should provide sitagliptin dosed as 50 mg twice daily (100 mg total daily dose) and the dose of metformin already being taken.
-For patients taking metformin 850 mg twice daily, the recommended starting dose of JANUMET is 50 mg sitagliptin/1000 mg metformin hydrochloride twice daily.
+For patients taking metformin 850 mg twice daily, the recommended starting dose of JANUMET is 50 mg sitagliptin/1000 mg metformin HCl twice daily.
 
 No studies have been performed specifically examining the safety and efficacy of JANUMET in patients previously treated with other oral antihyperglycemic agents and switched to JANUMET.
 Any change in therapy of type 2 diabetes should be undertaken with care and appropriate monitoring as changes in glycemic control can occur.

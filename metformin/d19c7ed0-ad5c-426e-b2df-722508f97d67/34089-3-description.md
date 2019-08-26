@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JANUMET (sitagliptin and metformin HCl) tablets contain two oral antihyperglycemic drugs used in the management of type 2 diabetes: sitagliptin and metformin hydrochloride.
+JANUMET (sitagliptin and metformin HCl) tablets contain two oral antihyperglycemic drugs: sitagliptin and metformin HCl.
 
 Sitagliptin
 
@@ -12,17 +12,21 @@ The structural formula is:
 Sitagliptin phosphate monohydrate is a white to off-white, crystalline, non-hygroscopic powder.
 It is soluble in water and N,N-dimethyl formamide; slightly soluble in methanol; very slightly soluble in ethanol, acetone, and acetonitrile; and insoluble in isopropanol and isopropyl acetate.
 
-Metformin hydrochloride
+Metformin HCl
 
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
-Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63.
-Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
+Metformin HCl (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
+Metformin HCl is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63.
+Metformin HCl is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
-The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
+The pH of a 1% aqueous solution of metformin HCl is 6.68.
 The structural formula is as shown:
 
 JANUMET
 
-JANUMET is available for oral administration as tablets containing 64.25 mg sitagliptin phosphate monohydrate and metformin hydrochloride equivalent to: 50 mg sitagliptin as free base and 500 mg metformin hydrochloride (JANUMET 50 mg/500 mg) or 1000 mg metformin hydrochloride (JANUMET 50 mg/1000 mg).
+JANUMET is available as film-coated tablets containing:
+
+- 64.25 mg sitagliptin monohydrate equivalent to 50 mg of sitagliptin and 389.93 mg of metformin equivalent to 500 mg metformin HCl (JANUMET 50/500).
+- 64.25 mg sitagliptin monohydrate equivalent to 50 mg of sitagliptin and 779.86 mg of metformin equivalent to 1000 mg metformin HCl (JANUMET 50/1000).
+
 Each film-coated tablet of JANUMET contains the following inactive ingredients: microcrystalline cellulose, polyvinylpyrrolidone, sodium lauryl sulfate, and sodium stearyl fumarate.
 In addition, the film coating contains the following inactive ingredients: polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, red iron oxide, and black iron oxide.
