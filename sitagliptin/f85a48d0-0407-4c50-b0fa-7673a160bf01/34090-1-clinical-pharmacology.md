@@ -127,7 +127,6 @@ Table 4: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
 |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without sitagliptin) No Effect = 1.00 |  |  |
-| No dosing adjustments required for the following: |  |  |  |  |  |
 | Digoxin | 0.25 mgMultiple dose. once daily for 10 days | 100 mg once daily for 10 days | Digoxin | 1.11AUC0-24hr. | 1.18 |
 | Glyburide | 1.25 mg | 200 mg once daily for 6 days | Glyburide | 1.09 | 1.01 |
 | Simvastatin | 20 mg | 200 mg once daily for 5 days | Simvastatin | 0.85AUC0-last. | 0.80 |
@@ -148,6 +147,5 @@ Table 5: Effect of Coadministered Drugs on Systemic Exposure of Sitagliptin
 |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
-| No dosing adjustments required for the following: |  |  |  |  |  |
 | Cyclosporine | 600 mg once daily | 100 mg once daily | Sitagliptin | 1.29 | 1.68 |
 | Metformin | 1000 mgMultiple dose. twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr. | 1.05 |

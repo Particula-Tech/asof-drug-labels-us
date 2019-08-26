@@ -300,3 +300,30 @@ Table 14: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA as Add-
 | Baseline (mean) | 291 | 292 |
 | Change from baseline (adjusted mean) | -31 | 5 |
 | Difference from placebo (adjusted mean) (95% CI) | -36 (-47, -25) |  |
+
+Maintenance of JANUVIA During Initiation and Titration of Insulin Glargine
+
+A total of 746 patients with type 2 diabetes (mean baseline HbA1C 8.8%, disease duration 10.8 years) participated in a 30-week, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of continuing JANUVIA during the initiation and uptitration of insulin glargine.
+Patients who were on a stable dose of metformin (≥1500 mg/day) in combination with a DPP-4 inhibitor and/or sulfonylurea but with inadequate glycemic control (A1C 7.5% to 11%) were enrolled in the study.
+Those on metformin and JANUVIA (100 mg/day) directly entered the double-blind treatment period; those on another DPP-4 inhibitor and/or on a sulfonylurea entered a 4-8 week run-in period in which they were maintained on metformin and switched to JANUVIA (100 mg); other DPP-4 inhibitors and sulfonylureas were discontinued.
+At randomization patients were randomized either to continue JANUVIA or to discontinue JANUVIA and switch to a matching placebo.
+On the day of randomization, insulin glargine was initiated at a dose of 10 units subcutaneously in the evening.
+Patients were instructed to uptitrate their insulin dose in the evening based on fasting blood glucose measurements to achieve a target of 72-100 mg/dL.
+
+At 30 weeks, the mean reduction in A1C was greater in the sitagliptin group than in the placebo group (Table 15).
+At the end of the trial, 27.3% of patients in the sitagliptin group and 27.3% in the placebo group had a fasting plasma glucose (FPG) in the target range; there was no significant difference in insulin dose between arms.
+
+Table 15: Change from Baseline in A1C and FPG at Week 30 in the Maintenance of JANUVIA During Initiation and Titration of Insulin Glargine Study
+
+|  | Sitagliptin 100 mg +Metformin + Insulin Glargine | Placebo +Metformin + Insulin Glargine |
+| --- | --- | --- |
+| A1C (%) | N = 373N is the number of randomized and treated patients. | N = 370 |
+| Baseline (mean) | 8.8 | 8.8 |
+| Week 30 (mean) | 6.9 | 7.3 |
+| Change from baseline (adjusted mean)Analysis of Covariance including all post-baseline data regardless of rescue or treatment discontinuation. Model estimates calculated using multiple imputation to model washout of the treatment effect using placebo data for all subjects having missing Week 30 data. | -1.9 | -1.4 |
+| Difference from placebo (adjusted mean) (95% CI) | -0.4 (-0.6, -0.3)p<0.001 compared to placebo. |  |
+| Patients (%) with A1C <7% | 202 (54.2%) | 131 (35.4%) |
+| FPG (mg/dL) | N = 373 | N = 370 |
+| Baseline (mean) | 199 | 201 |
+| Week 30 (mean) | 118 | 123 |
+| Change from baseline (adjusted mean) | -81 | -76 |

@@ -61,7 +61,7 @@ In a pooled analysis of 19 double-blind clinical trials that included data from 
 
 Hypoglycemia
 
-In all (N=9) studies, adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia.
+In the above studies (N=9), adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia.
 A concurrent blood glucose measurement was not required although most (74%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
 When JANUVIA was coadministered with a sulfonylurea or with insulin, the percentage of patients with at least one adverse reaction of hypoglycemia was higher than in the corresponding placebo group (Table 3).
 
@@ -88,6 +88,8 @@ In the 24-week, placebo-controlled factorial study of initial therapy with JANUV
 
 In the study of JANUVIA as initial therapy with pioglitazone, one patient taking JANUVIA experienced a severe episode of hypoglycemia.
 There were no severe hypoglycemia episodes reported in other studies except in the study involving coadministration with insulin.
+
+In an additional, 30-week placebo-controlled, study of patients with type 2 diabetes inadequately controlled with metformin comparing the maintenance of sitagliptin 100 mg versus withdrawal of sitagliptin when initiating basal insulin therapy, the event rate and incidence of documented symptomatic hypoglycemia (blood glucose measurement ≤70 mg/dL) did not differ between the sitagliptin and placebo groups.
 
 Laboratory Tests
 
