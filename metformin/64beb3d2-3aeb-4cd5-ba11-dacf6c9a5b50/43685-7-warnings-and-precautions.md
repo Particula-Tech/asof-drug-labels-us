@@ -2,15 +2,13 @@
 
 ## 5.1 Lactic Acidosis
 
-Metformin hydrochloride
-
 There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
 Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels were generally >5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of JANUMET XR.
-In JANUMET XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
+In JANUMET XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin HCl is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
 Educate patients and their families about the symptoms of lactic acidosis, and if these symptoms occur instruct them to discontinue JANUMET XR and report these symptoms to their health care provider.
@@ -87,7 +85,7 @@ If heart failure develops, evaluate and manage according to current standards of
 
 Metformin and sitagliptin are substantially excreted by the kidney.
 
-Metformin hydrochloride
+Metformin HCl
 
 JANUMET XR is contraindicated in patients with severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.1)].
 
@@ -97,15 +95,12 @@ There have been postmarketing reports of worsening renal function in patients ta
 Before initiation of therapy with JANUMET XR and at least annually thereafter, renal function should be assessed.
 In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and JANUMET XR discontinued if evidence of renal impairment is present.
 
-## 5.5 Vitamin B12 Levels
+## 5.5 Vitamin B12 Deficiency
 
-In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on JANUMET XR and any apparent abnormalities should be appropriately investigated and managed.
-[See Adverse Reactions (6.1).]
-
-Certain individuals (those with inadequate Vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal Vitamin B12 levels.
-In these patients, routine serum Vitamin B12 measurements at two- to three-year intervals may be useful.
+In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
+Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
+Measure hematologic parameters on an annual basis and vitamin B12 measurements at 2- to 3-year intervals in patients on JANUMET XR and manage any abnormalities [see Adverse Reactions (6.1)].
 
 ## 5.6 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
 
@@ -120,7 +115,7 @@ Sitagliptin
 When sitagliptin was used in combination with a sulfonylurea or with insulin, medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin [see Adverse Reactions (6)].
 Therefore, patients also receiving an insulin secretagogue (e.g., sulfonylurea) or insulin may require a lower dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Drug Interactions (7.4)].
 
-Metformin hydrochloride
+Metformin HCl
 
 Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.

@@ -1,9 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-JANUMET® XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both sitagliptin and metformin extended-release is appropriate.
-[See Clinical Studies (14).]
+JANUMET® XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
 
-Important Limitations of Use
+Limitations of Use
 
 JANUMET XR should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
 

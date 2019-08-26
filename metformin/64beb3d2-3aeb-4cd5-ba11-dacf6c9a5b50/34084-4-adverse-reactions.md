@@ -55,7 +55,7 @@ In a 24-week placebo-controlled study of sitagliptin 100 mg as add-on therapy in
 
 Hypoglycemia
 
-In all (N=5) studies, adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required although most (77%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
+In the above studies (N=5), adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required although most (77%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
 When the combination of sitagliptin and metformin immediate-release was coadministered with a sulfonylurea or with insulin, the percentage of patients reporting at least one adverse reaction of hypoglycemia was higher than that observed with placebo and metformin immediate-release coadministered with a sulfonylurea or with insulin (Table 3).
 
 Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required: Intent-to-treat population.
@@ -78,6 +78,8 @@ In patients with type 2 diabetes inadequately controlled on metformin immediate-
 
 In the study of sitagliptin and add-on combination therapy with metformin immediate-release and rosiglitazone, the overall incidence of hypoglycemia was 2.2% in patients given add-on sitagliptin and 0.0% in patients given add-on placebo through Week 18.
 Through Week 54, the overall incidence of hypoglycemia was 3.9% in patients given add-on sitagliptin and 1.0% in patients given add-on placebo.
+
+In an additional 30-week placebo-controlled study of patients with type 2 diabetes inadequately controlled with metformin comparing the maintenance of sitagliptin 100 mg versus withdrawal of sitagliptin when initiating basal insulin therapy, the event rate and incidence of documented symptomatic hypoglycemia (blood glucose measurement ≤70 mg/dL) did not differ between the sitagliptin and placebo groups.
 
 Vital Signs and Electrocardiograms
 
@@ -104,10 +106,10 @@ The incidence of laboratory adverse reactions was similar in patients treated wi
 In most but not all studies, a small increase in white blood cell count (approximately 200 cells/microL difference in WBC vs. placebo; mean baseline WBC approximately 6600 cells/microL) was observed due to a small increase in neutrophils.
 This change in laboratory parameters is not considered to be clinically relevant.
 
-Metformin hydrochloride
+Metformin HCl
 
-In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation.
+In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 [See Warnings and Precautions (5.5).]
 
 ## 6.2 Postmarketing Experience

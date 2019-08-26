@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JANUMET XR tablets contain two oral antidiabetic medications used in the management of type 2 diabetes: sitagliptin and metformin hydrochloride extended-release.
+JANUMET XR tablets contain two oral antidiabetic medications: sitagliptin and metformin HCl extended-release.
 
 Sitagliptin
 
@@ -12,20 +12,21 @@ The structural formula is:
 Sitagliptin phosphate monohydrate is a white to off-white, crystalline, non-hygroscopic powder.
 It is soluble in water and N,N-dimethyl formamide; slightly soluble in methanol; very slightly soluble in ethanol, acetone, and acetonitrile; and insoluble in isopropanol and isopropyl acetate.
 
-Metformin hydrochloride
+Metformin HCl
 
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
-Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
+Metformin HCl (N,N-dimethylimidodicarbonimidic diamide HCl) is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
+Metformin HCl is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
-The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
+The pH of a 1% aqueous solution of metformin HCl is 6.68.
 The structural formula is as shown:
 
 JANUMET XR
 
-JANUMET XR consists of an extended-release metformin core tablet coated with an immediate-release layer of sitagliptin.
-The sitagliptin layer is coated with a soluble polymeric film.
-JANUMET XR is available for oral administration as tablets containing 64.25 mg sitagliptin phosphate monohydrate (equivalent to 50 mg sitagliptin as free base) and either 500 mg metformin hydrochloride extended-release (50 mg/500 mg) or 1000 mg metformin hydrochloride extended-release (50 mg/1000 mg).
-Additionally, JANUMET XR is available for oral administration as tablets containing 128.5 mg sitagliptin phosphate monohydrate (equivalent to 100 mg sitagliptin as free base) and 1000 mg metformin hydrochloride extended-release (100 mg/1000 mg).
+JANUMET XR is available as film-coated tablets containing:
+
+- 64.25 mg sitagliptin monohydrate equivalent to 50 mg sitagliptin and 389.93 mg of metformin equivalent to 500 mg metformin HCl (JANUMET XR 50/500).
+- 64.25 mg sitagliptin monohydrate equivalent to 50 mg sitagliptin and 779.86 mg of metformin equivalent to 1000 mg metformin HCl (JANUMET XR 50/1000).
+- 128.5 mg sitagliptin monohydrate equivalent to 100 mg sitagliptin and 779.86 mg of metformin equivalent to 1000 mg metformin HCl (JANUMET XR 100/1000).
 
 All doses of JANUMET XR contain the following inactive ingredients: povidone, hypromellose, colloidal silicon dioxide, sodium stearyl fumarate, propyl gallate, polyethylene glycol, and kaolin.
 The JANUMET XR 50 mg/500 mg tablet contains the additional inactive ingredient microcrystalline cellulose.
