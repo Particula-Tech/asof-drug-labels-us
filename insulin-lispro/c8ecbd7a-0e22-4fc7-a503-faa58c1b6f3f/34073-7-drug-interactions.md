@@ -2,7 +2,7 @@
 
 ## 7.1 Drugs That May Increase the Risk of Hypoglycemia
 
-The risk of hypoglycemia associated with HUMALOG use may be increased when co-administered with antidiabetic agents, salicylates, sulfonamide antibiotics, monoamine oxidase inhibitors, fluoxetine, pramlintide, disopyramide, fibrates, propoxyphene, pentoxifylline, ACE inhibitors, angiotensin II receptor blocking agents, and somatostatin analogs (e.g., octreotide).
+The risk of hypoglycemia associated with HUMALOG use may be increased when co-administered with antidiabetic agents, salicylates, sulfonamide antibiotics, monoamine oxidase inhibitors, fluoxetine, pramlintide, disopyramide, fibrates, pentoxifylline, ACE inhibitors, angiotensin II receptor blocking agents, and somatostatin analogs (e.g., octreotide).
 Dose adjustment and increased frequency of glucose monitoring may be required when HUMALOG is co-administered with these drugs.
 
 ## 7.2 Drugs That May Decrease the Blood Glucose Lowering Effect of HUMALOG

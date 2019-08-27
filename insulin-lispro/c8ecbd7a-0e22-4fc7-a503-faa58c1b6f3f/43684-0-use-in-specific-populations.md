@@ -2,27 +2,51 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
-This background risk is increased in pregnancies complicated by hyperglycemia and may be decreased with good metabolic control.
-It is essential for patients with diabetes or history of gestational diabetes to maintain good metabolic control before conception and throughout pregnancy.
-In patients with diabetes or gestational diabetes insulin requirements may decrease during the first trimester, generally increase during the second and third trimesters, and rapidly decline after delivery.
-Careful monitoring of glucose control is essential in these patients.
-Therefore, female patients should be advised to tell their physicians if they intend to become, or if they become pregnant while taking HUMALOG.
+Risk Summary
 
-Although there are limited clinical studies of the use of HUMALOG in pregnancy, published studies with human insulins suggest that optimizing overall glycemic control, including postprandial control, before conception and during pregnancy improves fetal outcome.
+The limited available data with HUMALOG in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
+Published studies with insulin lispro used during pregnancy have not reported an association between insulin lispro and the induction of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
-In a combined fertility and embryo-fetal development study, female rats were given subcutaneous insulin lispro injections of 5 and 20 units/kg/day (0.8 and 3 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area, respectively) from 2 weeks prior to cohabitation through Gestation Day 19.
+Pregnant rats and rabbits were exposed to insulin lispro in animal reproduction studies during organogenesis.
+No adverse effects on embryo/fetal viability or morphology were observed in offspring of rats exposed to insulin lispro at a dose approximately 3 times the human subcutaneous dose of 1 unit insulin lispro/kg/day.
+No adverse effects on embryo/fetal development were observed in offspring of rabbits exposed to insulin lispro at doses up to approximately 0.2 times the human subcutaneous dose of 1 unit/kg/day (see Data).
+
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with a HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+Data
+
+Human Data
+
+Published data from retrospective studies and meta-analyses do not report an association with insulin lispro and major birth defects, miscarriage, or adverse maternal or fetal outcomes when insulin lispro is used during pregnancy.
+However, these studies cannot definitely establish or exclude the absence of any risk because of methodological limitations including small sample size, selection bias, confounding by unmeasured factors, and some lacking comparator groups.
+
+Animal Data
+
+In a combined fertility and embryo-fetal development study, female rats were given subcutaneous insulin lispro injections of 1, 5, and 20 units/kg/day (0.2, 0.8, and 3 times the human subcutaneous dose of 1 unit insulin lispro/kg/day, based on units/body surface area, respectively) from 2 weeks prior to cohabitation through Gestation Day 19.
 There were no adverse effects on female fertility, implantation, or fetal viability and morphology.
 However, fetal growth retardation was produced at the 20 units/kg/day-dose as indicated by decreased fetal weight and an increased incidence of fetal runts/litter.
 
-In an embryo-fetal development study in pregnant rabbits, insulin lispro doses of 0.1, 0.25, and 0.75 unit/kg/day (0.03, 0.08, and 0.24 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area, respectively) were injected subcutaneously on Gestation days 7 through 19.
+In an embryo-fetal development study in pregnant rabbits, insulin lispro doses of 0.1, 0.25, and 0.75 unit/kg/day (0.03, 0.08, and 0.2 times the human subcutaneous dose of 1 unit insulin lispro/kg/day, based on units/body surface area, respectively) were injected subcutaneously on Gestation days 7 through 19.
 There were no adverse effects on fetal viability, weight, and morphology at any dose.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is unknown whether insulin lispro is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when HUMALOG is administered to a nursing woman.
-Use of HUMALOG is compatible with breastfeeding, but women with diabetes who are lactating may require adjustments of their insulin doses.
+Risk Summary
+
+There are no data on the presence of HUMALOG in human milk, the effects on the breastfed infant, or the effect on milk production.
+One small published study reported that exogenous insulin was present in human milk.
+However, there is insufficient information to determine the effects of HUMALOG on the breastfed infant and no available information on the effects of HUMALOG on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for insulin, any potential adverse effects on the breastfed child from HUMALOG or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

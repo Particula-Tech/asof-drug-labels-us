@@ -35,7 +35,7 @@ Continuous Subcutaneous Infusion (Insulin Pump): HUMALOG U-100 ONLY
 - Change HUMALOG U-100 in the pump reservoir at least every 7 days.
 - Change the infusion sets and the infusion set insertion site at least every 3 days.
 - Do NOT expose HUMALOG U-100 in the pump reservoir to temperatures greater than 98.6°F (37°C).
-- Use HUMALOG U-100 in pump systems suitable for insulin infusion [see Patient Counseling Information (17.7)].
+- Use HUMALOG U-100 in pump systems suitable for insulin infusion [see Patient Counseling Information (17.6)].
 
 Intravenous Administration: HUMALOG U-100 ONLY
 

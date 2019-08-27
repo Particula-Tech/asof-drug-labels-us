@@ -65,4 +65,4 @@ If heart failure develops, it should be managed according to current standards o
 Malfunction of the insulin pump or insulin infusion set or insulin degradation can rapidly lead to hyperglycemia and ketoacidosis.
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
 Interim subcutaneous injections with HUMALOG may be required.
-Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see How Supplied/Storage and Handling (16.2) and Patient Counseling Information (17.7)].
+Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see How Supplied/Storage and Handling (16.2) and Patient Counseling Information (17.6)].

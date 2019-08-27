@@ -2,16 +2,16 @@
 
 ## 16.1 How Supplied
 
-HUMALOG is available as:
+HUMALOG injection is a clear and colorless solution available as:
 
 | HUMALOG | Total Volume | Concentration | Total Units Available in Presentation | NDC Number | Max Dose per Injection | Dose Increment | Package Size |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| U-100 vial | 10 mL | 100 units/mL | 1000 units | 0002-7510-01 | n/a | n/a | 1 vial |
-| U-100 vial | 3 mL | 100 units/mL | 300 units | 0002-7510-17 | n/a | n/a | 1 vial |
-| U-100 cartridge1 | 3 mL | 100 units/mL | 300 units | 0002-7516-59 | n/a | n/a | 5 cartridges |
-| U-100 KwikPen | 3 mL | 100 units/mL | 300 units | 0002-8799-59 | 60 units | 1 unit | 5 pens |
-| U-100 Junior KwikPen | 3 mL | 100 units/mL | 300 units | 0002-7714-59 | 30 units | 0.5 units | 5 pens |
-| U-200 KwikPen | 3 mL | 200 units/mL | 600 units | 0002-7712-27 | 60 units | 1 unit | 2 pens |
+| U-100 multiple-dose vial | 10 mL | 100 units/mL | 1000 units | 0002-7510-01 | n/a | n/a | 1 vial |
+| U-100 multiple-dose vial | 3 mL | 100 units/mL | 300 units | 0002-7510-17 | n/a | n/a | 1 vial |
+| U-100 single-patient-use cartridge1 | 3 mL | 100 units/mL | 300 units | 0002-7516-59 | n/a | n/a | 5 cartridges |
+| U-100 single-patient-use KwikPen | 3 mL | 100 units/mL | 300 units | 0002-8799-59 | 60 units | 1 unit | 5 pens |
+| U-100 single-patient-use Junior KwikPen | 3 mL | 100 units/mL | 300 units | 0002-7714-59 | 30 units | 0.5 units | 5 pens |
+| U-200 single-patient-use KwikPen | 3 mL | 200 units/mL | 600 units | 0002-7712-27 | 60 units | 1 unit | 2 pens |
 
 Each prefilled KwikPen, cartridge, and reusable pen compatible with Lilly 3 mL cartridges is for use by a single patient.
 HUMALOG KwikPens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges must never be shared between patients, even if the needle is changed.
@@ -30,13 +30,13 @@ See table below:
 |  | Not In-Use (Unopened) Room Temperature (Below 86°F [30°C]) | Not In-Use (Unopened) Refrigerated | In-Use (Opened) Room Temperature, (Below 86°F [30°C]) |
 | --- | --- | --- | --- |
 | HUMALOG U-100 |  |  |  |
-| 10 mL vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
-| 3 mL vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
-| 3 mL cartridge | 28 days | Until expiration date | 28 days, Do not refrigerate. |
-| 3 mL Humalog KwikPen (prefilled) | 28 days | Until expiration date | 28 days, Do not refrigerate. |
-| 3 mL Humalog Junior KwikPen (prefilled) | 28 days | Until expiration date | 28 days, Do not refrigerate. |
+| 10 mL multiple-dose vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
+| 3 mL multiple-dose vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
+| 3 mL single-patient-use cartridge | 28 days | Until expiration date | 28 days, Do not refrigerate. |
+| 3 mL single-patient-use Humalog KwikPen | 28 days | Until expiration date | 28 days, Do not refrigerate. |
+| 3 mL single-patient-use Humalog Junior KwikPen | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 | HUMALOG U-200 |  |  |  |
-| 3 mL Humalog KwikPen (prefilled) | 28 days | Until expiration date | 28 days, Do not refrigerate. |
+| 3 mL single-patient use Humalog KwikPen | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 
 Use in an External Insulin Pump — Change the HUMALOG U-100 in the reservoir at least every 7 days, change the infusion sets and the infusion set insertion site at least every 3 days or after exposure to temperatures that exceed 98.6°F (37°C).
 A HUMALOG 3 mL cartridge used in the D-Tron pumps should be discarded after 7 days, even if it still contains HUMALOG.

@@ -37,11 +37,7 @@ The markings on the syringe will not measure the dose correctly and this can res
 
 Instruct patients to NOT mix HUMALOG U-200 with any other insulin.
 
-## 17.6 Women of Reproductive Potential
-
-Advise females of reproductive potential with diabetes to inform their doctor if they are pregnant or are contemplating pregnancy [see Use in Specific Populations (8.1)].
-
-## 17.7 Instructions For Patients Using Continuous Subcutaneous Insulin Pumps
+## 17.6 Instructions For Patients Using Continuous Subcutaneous Insulin Pumps
 
 Patients using external pump infusion therapy should be trained appropriately.
 
@@ -81,13 +77,13 @@ Humalog®, Humalog KwikPen®, Humalog® Junior KwikPen®, HumaPen®, HumaPen® L
 
 Other product and company names may be the trademarks of their respective owners.
 
-Literature revised November 2018
+Literature revised August 2019
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 1996, 2018, Eli Lilly and Company.
+Copyright © 1996, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0007-USPI-20181101
+LOG-0008-USPI-20190813
