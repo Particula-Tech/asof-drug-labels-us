@@ -8,11 +8,11 @@ Prior to initiation of treatment with LAMICTAL XR, inform patients that a rash o
 
 Hemophagocytic Lymphohistiocytosis
 
-Prior to initiation of treatment with LAMICTAL, inform patients that excessive immune activation may occur with LAMICTAL and that they should report signs or symptoms such as fever, rash, or lymphadenopathy to a healthcare provider immediately.
+Prior to initiation of treatment with LAMICTAL XR, inform patients that excessive immune activation may occur with LAMICTAL XR and that they should report signs or symptoms such as fever, rash, or lymphadenopathy to a healthcare provider immediately.
 
 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
 
-Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL.
+Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL XR.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
 Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
 
@@ -70,6 +70,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-LXR:21PI
+LXR:22PI

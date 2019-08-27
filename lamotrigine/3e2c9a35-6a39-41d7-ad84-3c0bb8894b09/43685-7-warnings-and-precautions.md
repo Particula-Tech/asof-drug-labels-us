@@ -34,14 +34,14 @@ The risk of nonserious rash may be increased when the recommended initial dose a
 
 ## 5.2 Hemophagocytic Lymphohistiocytosis
 
-Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking LAMICTAL for various indications.
+Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking LAMICTAL XR for various indications.
 HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
 It is associated with high mortality rates if not recognized early and treated.
-Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, and liver function and coagulation abnormalities.
-In cases of HLH reported with LAMICTAL, patients have presented with signs of systemic inflammation (fever, rash, hepatosplenomegaly, and organ system dysfunction) and blood dyscrasias.
+Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, hypertriglyceridemia, and liver function and coagulation abnormalities.
+In cases of HLH reported with LAMICTAL XR, patients have presented with signs of systemic inflammation (fever, rash, hepatosplenomegaly, and organ system dysfunction) and blood dyscrasias.
 Symptoms have been reported to occur within 8 to 24 days following the initiation of treatment.
 Patients who develop early manifestations of pathologic immune activation should be evaluated immediately, and a diagnosis of HLH should be considered.
-LAMICTAL should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+LAMICTAL XR should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
 ## 5.3 Multiorgan Hypersensitivity Reactions and Organ Failure
 
@@ -123,7 +123,7 @@ Some patients also had new onset of signs and symptoms of involvement of other o
 
 ## 5.7 Potential Medication Errors
 
-Medication errors involving LAMICTAL have occurred.
+Medication errors involving LAMICTAL XR have occurred.
 In particular, the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of LAMICTAL.
 To reduce the potential of medication errors, write and say LAMICTAL XR clearly.
