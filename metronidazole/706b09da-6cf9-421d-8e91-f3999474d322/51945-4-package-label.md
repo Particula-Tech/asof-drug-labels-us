@@ -7,7 +7,7 @@ Rx only
 Noritate® metronidazole cream Cream, 1%
 
 Net Wt.
-60 g Tube
+60 g
 
 ONCE-A-DAY FOR TOPICAL USE ONLY
 

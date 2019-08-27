@@ -2,9 +2,9 @@ FOR TOPICAL USE ONLY
 
 NOT FOR OPHTHALMIC USE
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-Noritate is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates. © Valeant Pharmaceuticals North America LLC 9468002 20001001C Rev.
-03/18
+Noritate is a trademark of Bausch Health Companies Inc. or its affiliates. © 2019 Bausch Health Companies Inc. or its affiliates 9468003 20001001D Rev.
+06/19

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Cream - 60 g aluminum tube NDC - 0187-5202-60.
+Cream - 60 g aluminum tube - NDC 0187-5202-60.
 
 Keep out of reach of children.
 
