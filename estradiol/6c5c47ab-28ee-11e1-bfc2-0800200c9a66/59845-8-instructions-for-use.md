@@ -72,4 +72,10 @@ This Patient Information and Instructions for Use have been approved by the U.S 
 
 Manufactured by: Noven Pharmaceuticals Inc. Miami, FL 33186
 
-Approved 11/2017
+Approved 03/2019
+
+Vivelle® is a registered trademark of Novartis Corporation.
+
+Minivelle® is a registered trademark of Noven Therapeutics, LLC.
+
+102455-4
