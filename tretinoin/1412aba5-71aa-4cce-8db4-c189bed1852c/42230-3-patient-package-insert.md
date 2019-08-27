@@ -39,23 +39,20 @@ Applying ALTRENO:
   If you have been prescribed the:
 
 Tube: Squeeze the lotion from the tube onto a fingertip.
-Apply a thin layer to cover the affected areas, as prescribed
-
-by your doctor.
+Apply a thin layer to cover the affected areas, as prescribed by your doctor.
 Spread ALTRENO evenly over the affected areas.
 
 Pump: Fully depress the pump to dispense ALTRENO onto a fingertip.
-Apply a thin layer to cover the
-
-affected areas, as prescribed by your doctor.
+Apply a thin layer to cover the affected areas, as prescribed by your doctor.
 Spread ALTRENO evenly over the affected areas.
 
-- • Wash your hands after applying ALTRENO.
-- What should I avoid while using ALTRENO?
+- •Wash your hands after applying ALTRENO.
 
-1. 1.You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with ALTRENO.
-2. 2.Minimize exposure to sunlight.
-3. 3.If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with an SPF (sun protection factor) of 15 or more and wear protective clothing and a wide-brimmed hat to cover the treated areas.
+What should I avoid while using ALTRENO?
+
+- •You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with ALTRENO.
+- •Minimize exposure to sunlight.
+- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with an SPF (sun protection factor) of 15 or more and wear protective clothing and a wide-brimmed hat to cover the treated areas.
 
 What are the possible side effects of ALTRENO?
 
@@ -68,23 +65,24 @@ Avoid applying ALTRENO to skin that is affected by eczema or sunburned skin.
 
 These are not all the possible side effects of ALTRENO.
 
-- Call your doctor for medical advice about side effects.
-  You may report side effects to FDA at 1-800-FDA-1088.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ALTRENO?
 
 - •Store ALTRENO at room temperature between 68° to 77°F (20° to 25°C).
 - •Do not freeze.
 - •Store ALTRENO pump upright.
-- Keep ALTRENO and all medicines out of the reach of children.
+
+Keep ALTRENO and all medicines out of the reach of children.
 
 General information about the safe and effective use of ALTRENO
 
-- Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-  Do not use ALTRENO for a condition for which it was not prescribed.
-  Do not give ALTRENO to other people, even if they have the same symptoms that you have.
-  It may harm them.
-  You can ask your pharmacist or healthcare provider for information about ALTRENO that is written for health professionals.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use ALTRENO for a condition for which it was not prescribed.
+Do not give ALTRENO to other people, even if they have the same symptoms that you have.
+It may harm them.
+You can ask your pharmacist or healthcare provider for information about ALTRENO that is written for health professionals.
 
 What are the ingredients in ALTRENO?
 
