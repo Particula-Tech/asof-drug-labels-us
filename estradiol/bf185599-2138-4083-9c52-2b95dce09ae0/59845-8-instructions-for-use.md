@@ -70,8 +70,8 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Distributed by: Grove Pharmaceuticals Miami, FL 33186
 
-Approved 11/2017
+Approved 03/2019
 
 Vivelle® is a registered trademark of Novartis Corporation.
 
-102631
+102631-1
