@@ -21,5 +21,3 @@ tablets
 Rx only 90 Tablets
 
 Salix
-
-Salix

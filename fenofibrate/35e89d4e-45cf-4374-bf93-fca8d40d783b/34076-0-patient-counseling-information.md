@@ -16,8 +16,12 @@ Patients should be advised:
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Fenoglide is a trademark of Bausch Health Companies Inc. or its affiliates.
+Fenoglide is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2019 Salix Pharmaceuticals, Inc. or its affiliates
 
 U.S. Patent Numbers: 7,658,944; 8,124,125; 8,481,078 and 9,173,847
+
+9606802
+
+70014445
