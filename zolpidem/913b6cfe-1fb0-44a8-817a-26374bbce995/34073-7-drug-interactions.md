@@ -2,7 +2,7 @@
 
 ## 7.1 CNS-active Drugs
 
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1)].
+Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1, 5.2)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 
 Imipramine Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
@@ -11,7 +11,7 @@ Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinet
 Haloperidol A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
 The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration.
 
-Alcohol An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1)].
+Alcohol An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1, 5.2)].
 
 Sertraline Concomitant administration of zolpidem and sertraline increases exposure to zolpidem and may increase the pharmacodynamic effect of zolpidem.
 

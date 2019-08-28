@@ -17,7 +17,7 @@ Drug addiction is a treatable disease, using a multidisciplinary approach, but r
 
 Studies of abuse potential in former drug abusers found that the effects of single doses of 40 mg of oral zolpidem tartrate were similar, but not identical, to diazepam 20 mg, while 10 mg of oral zolpidem tartrate was difficult to distinguish from placebo.
 
-Because persons with a history of addiction to or abuse of drugs or alcohol are at increased risk for misuse, abuse and addiction of zolpidem, they should be monitored carefully when receiving Intermezzo.
+Because persons with a history of addiction to or abuse of drugs or alcohol are at increased risk for misuse, abuse and addiction of zolpidem, they should be monitored carefully when receiving INTERMEZZO.
 
 ## 9.3 Dependence
 

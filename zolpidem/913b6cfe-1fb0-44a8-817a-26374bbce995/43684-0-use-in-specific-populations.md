@@ -8,7 +8,7 @@ There are no adequate and well-controlled studies of zolpidem in pregnant women.
 Studies in children to assess the effects of prenatal exposure to zolpidem have not been conducted; however, cases of severe neonatal respiratory depression have been reported when zolpidem was used at the end of pregnancy, especially when taken with other CNS-depressants.
 Children born to mothers taking sedative-hypnotic drugs may be at risk for withdrawal symptoms during the postnatal period.
 Neonatal flaccidity has also been reported in infants born to mothers who received sedative-hypnotic drugs during pregnancy.
-Intermezzo should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus.
+INTERMEZZO should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus.
 
 Administration of zolpidem to pregnant rats and rabbits resulted in adverse effects on offspring at doses greater than the recommended human dose (RHD) of 3.5 mg/day (approximately 2.8 mg/day zolpidem base); however, teratogenicity was not observed.
 
@@ -24,16 +24,16 @@ The effect of zolpidem on the nursing infant is not known.
 
 ## 8.4 Pediatric Use
 
-Intermezzo is not recommended for use in children.
-Safety and effectiveness of Intermezzo have not been established in pediatric patients below the age of 18.
+INTERMEZZO is not recommended for use in children.
+Safety and effectiveness of INTERMEZZO have not been established in pediatric patients below the age of 18.
 
 In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia associated with ADHD, an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo.
 Hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations.
 
 ## 8.5 Geriatric Use
 
-Intermezzo dosage adjustment is necessary in geriatric patients.
-Sedating drugs may cause confusion and over-sedation in the elderly; elderly patients generally should be started on low doses of Intermezzo and observed closely [see Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
+INTERMEZZO dosage adjustment is necessary in geriatric patients.
+Sedating drugs may cause confusion and over-sedation in the elderly; elderly patients generally should be started on low doses of INTERMEZZO and observed closely [see Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
 
 Clinical trial experience with other zolpidem formulations (5 mg to 10 mg oral zolpidem tartrate) given at bedtime:
 
@@ -53,10 +53,10 @@ Of these 28 patients, 23 (82%) were receiving zolpidem tartrate doses > 10 mg.
 A total of 24/1,959 (1%) non-U.S. patients receiving zolpidem reported confusion, including 18/24 (75%) who were ≥70 years of age.
 Of these 18 patients, 14 (78%) were receiving zolpidem tartrate doses >10 mg.
 
-The dose of Intermezzo in elderly patients is 1.75 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative-hypnotic drugs.
+The dose of INTERMEZZO in elderly patients is 1.75 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative-hypnotic drugs.
 
 ## 8.6 Gender Differences in Pharmacokinetics
 
-Women cleared zolpidem tartrate from the body after sublingual administration of a 3.5 mg dose of Intermezzo at a lower rate than men (2.7 mL/min/kg vs. 4.0 mL/min/kg).
+Women cleared zolpidem tartrate from the body after sublingual administration of a 3.5 mg dose of INTERMEZZO at a lower rate than men (2.7 mL/min/kg vs. 4.0 mL/min/kg).
 Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
-Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended dose of Intermezzo for women is 1.75 mg, and the recommended dose for adult men is 3.5 mg.
+Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended dose of INTERMEZZO for women is 1.75 mg, and the recommended dose for adult men is 3.5 mg.

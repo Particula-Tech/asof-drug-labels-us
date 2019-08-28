@@ -11,26 +11,26 @@ This selective binding of zolpidem on the BZ1 receptor is not absolute, but it m
 
 ### Absorption
 
-Intermezzo disintegrates in the sublingual cavity after administration.
-On average, Intermezzo is rapidly absorbed in both genders, with a mean Tmax across studies of about 35 minutes to about 75 minutes.
+INTERMEZZO disintegrates in the sublingual cavity after administration.
+On average, INTERMEZZO is rapidly absorbed in both genders, with a mean Tmax across studies of about 35 minutes to about 75 minutes.
 
-In healthy normal volunteers (age 21 to 45 years) dosed with 3.5 mg Intermezzo, the average Cmax and AUC were 77 ng/mL and 296 ng•h/mL, respectively in women.
+In healthy normal volunteers (age 21 to 45 years) dosed with 3.5 mg INTERMEZZO, the average Cmax and AUC were 77 ng/mL and 296 ng•h/mL, respectively in women.
 The average Cmax and AUC were 53 ng/mL and 198 ng•h/mL, respectively in men.
-In women, the average Cmax and AUC of the 1.75 mg Intermezzo dose were 37 ng/mL and 151 ng•h/mL, respectively.
+In women, the average Cmax and AUC of the 1.75 mg INTERMEZZO dose were 37 ng/mL and 151 ng•h/mL, respectively.
 
-Food decreased the overall Cmax and AUC of Intermezzo 3.5 mg by 42% and 19%, respectively, and increased the time to peak exposure (Tmax) to nearly 3 hours.
-For optimal effect, Intermezzo should not be administered with or immediately after a meal.
+Food decreased the overall Cmax and AUC of INTERMEZZO 3.5 mg by 42% and 19%, respectively, and increased the time to peak exposure (Tmax) to nearly 3 hours.
+For optimal effect, INTERMEZZO should not be administered with or immediately after a meal.
 
 Distribution Based on data obtained with oral zolpidem, the total protein binding was found to be 93% ± 0.1% and remained constant independent of concentration between 40 ng/mL and 790 ng/mL.
 
 Metabolism Based on data obtained with oral zolpidem, zolpidem tartrate is converted to inactive metabolites that are eliminated primarily by renal excretion.
 
-Elimination The elimination half-life of a single dose of a 3.5 mg Intermezzo sublingual tablet is approximately 2.5 hours (range 1.4 to 3.6 hours).
+Elimination The elimination half-life of a single dose of a 3.5 mg INTERMEZZO sublingual tablet is approximately 2.5 hours (range 1.4 to 3.6 hours).
 
 Special Populations
 
-Elderly: The recommended dose for Intermezzo is 1.75 mg.
-A pharmacokinetic study of 1.75 mg and 3.5 mg doses of Intermezzo showed that the plasma Cmax and AUC0-4 hr in elderly subjects following the 3.5 mg dose was higher by 34% and 30%, respectively, than the non-elderly subjects.
+Elderly: The recommended dose for INTERMEZZO is 1.75 mg.
+A pharmacokinetic study of 1.75 mg and 3.5 mg doses of INTERMEZZO showed that the plasma Cmax and AUC0-4 hr in elderly subjects following the 3.5 mg dose was higher by 34% and 30%, respectively, than the non-elderly subjects.
 The Cmax and AUC of 1.75 mg in elderly subjects were consistently lower than those observed for the 3.5 mg dose in non-elderly subjects but consistently higher than the 1.75 mg dose in non-elderly subjects.
 The elimination half-life remained unchanged.
 
