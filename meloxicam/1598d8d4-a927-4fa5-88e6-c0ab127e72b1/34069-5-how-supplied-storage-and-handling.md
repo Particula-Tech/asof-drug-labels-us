@@ -11,5 +11,6 @@ QMIIZ ODT (meloxicam) orally disintegrating tablets are supplied as:
 
 Storage
 
-Store at 20° to 25°C (68° to 77°F), excursions permitted between 15°C and 30°C (59° to 86°F) [See USP Controlled Room Temperature].
-Avoid high humidity and excessive heat above 40°C (104°F).
+Store at room temperature, between 20 °C to 25 °C (68 °F to 77 °F), excursions permitted between 15 °C and 30 °C (59 °F to 86 °F) [See USP Controlled Room Temperature].
+Keep package dry and away from moisture.
+Avoid high humidity and excessive heat above 40 °C (104 °F).

@@ -68,5 +68,5 @@ Each 7.5-mg orally disintegrating tablet contains 0.30 mg phenylalanine, and eac
 
 Manufactured for: TerSera Therapeutics LLC Lake Forest, IL 60045
 
-Manufactured by: Catalent Health, Inc. Swindon, Wiltshire, SN5 8RU, UK QMIIZ™ ODT is a trademark of TerSera Therapeutics LLC. © 2018 TerSera Therapeutics LLC.
-Rev: 10/2018
+Manufactured by: Catalent Pharma Solutions, Limited Swindon, Wiltshire, SN5 8RU, UK QMIIZ™ ODT is a trademark of TerSera Therapeutics LLC. © 2019 TerSera Therapeutics LLC.
+Rev: 07/2019
