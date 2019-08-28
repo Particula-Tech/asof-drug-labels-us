@@ -1,16 +1,16 @@
-The solution used in Dihydroergotamine Mesylate, USP Nasal Spray (4 mg/mL) is intended for intranasal use and must not be injected.
+The solution used in Dihydroergotamine Mesylate Nasal Spray (4 mg/mL) is intended for intranasal use and must not be injected.
 
 Rx only
 
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
-Manufactured by: MiPharm S.p.A.
-Milan, Italy
+Manufactured by: Mipharm S.p.A.
+Milano, Italy
 
 D.H.E.
-45 is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+45 is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
+© 2019 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-09/2017 9606500 USA/933346
+07/2019 9606501 USA/933554

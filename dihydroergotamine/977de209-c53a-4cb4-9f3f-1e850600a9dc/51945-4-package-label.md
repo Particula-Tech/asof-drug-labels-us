@@ -2,17 +2,15 @@
 
 NDC 68682-357-10 Rx only
 
-Dihydroergotamine Mesylate, USP NASAL SPRAY
+Dihydroergotamine Mesylate NASAL SPRAY
 
 This Kit Contains:
 
-- •8 Dihydroergotamine Mesylate, USP Vials
-- •8 Dihydroergotamine Mesylate, USP Nasal Sprayers
+- •8 Dihydroergotamine Mesylate Vials
+- •8 Dihydroergotamine Mesylate Nasal Sprayers
 - •Administration Instructions
 - •Package Insert
 
 FOR NASAL USE ONLY-NOT FOR INJECTION
 
 4mg/mL (1 mL/Vial)
-
-1. 9613301 A199/903993/USA
