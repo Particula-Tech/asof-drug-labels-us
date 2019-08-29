@@ -16,11 +16,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adverse Reactions in Adults
 
 The safety of NORVIR alone and in combination with other antiretroviral agents was studied in 1,755 adult patients.
-Table 2 lists treatment-emergent Adverse Reactions (with possible or probable relationship to study drug) occurring in greater than or equal to 1% of adult patients receiving NORVIR in combined Phase II/IV studies.
+Table 1 lists treatment-emergent Adverse Reactions (with possible or probable relationship to study drug) occurring in greater than or equal to 1% of adult patients receiving NORVIR in combined Phase II/IV studies.
 
 The most frequently reported adverse drug reactions among patients receiving NORVIR alone or in combination with other antiretroviral drugs were gastrointestinal (including diarrhea, nausea, vomiting, abdominal pain (upper and lower)), neurological disturbances (including paresthesia and oral paresthesia), rash, and fatigue/asthenia.
 
-Table 2.
+Table 1.
 Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to Study Drug) Occurring in greater than or equal to 1% of Adult Patients Receiving NORVIR in Combined Phase II/IV Studies (N = 1,755)
 
 | Adverse Reactions | n | % |
@@ -42,7 +42,7 @@ Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to 
 | Blood bilirubin increased (including jaundice)* | 25 | 1.4 |
 | Hepatitis (including increased AST, ALT, GGT)* | 153 | 8.7 |
 | Immune system disorders |  |  |
-| Hypersensitivity including urticatria and face edema* | 114 | 8.2 |
+| Hypersensitivity including urticaria and face edema* | 114 | 8.2 |
 | Metabolism and nutrition disorders |  |  |
 | Edema and peripheral edema* | 110 | 6.3 |
 | Gout* | 24 | 1.4 |
@@ -80,9 +80,9 @@ Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to 
 
 Laboratory Abnormalities in Adults
 
-Table 3 shows the percentage of adult patients who developed marked laboratory abnormalities.
+Table 2 shows the percentage of adult patients who developed marked laboratory abnormalities.
 
-| Table 3. Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and Hematology Abnormalities Occurring in greater than 3% of Patients Receiving NORVIR |  |  |  |  |  |  |  |
+| Table 2. Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and Hematology Abnormalities Occurring in greater than 3% of Patients Receiving NORVIR |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Study 245 Naive Patients |  |  | Study 247 Advanced Patients |  | Study 462 PI-Naive Patients |
 | Variable | Limit | NORVIR plus ZDV | NORVIR | ZDV | NORVIR | Placebo | NORVIR plus Saquinavir |

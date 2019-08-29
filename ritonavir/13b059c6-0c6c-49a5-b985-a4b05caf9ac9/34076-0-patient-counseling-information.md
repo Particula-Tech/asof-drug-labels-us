@@ -75,4 +75,4 @@ NORVIR 100 mg soft gelatin capsules are manufactured for:
 
 AbbVie Inc. North Chicago, IL 60064 USA
 
-©2018 AbbVie Inc. All rights reserved.
+©2019 AbbVie Inc. All rights reserved.
