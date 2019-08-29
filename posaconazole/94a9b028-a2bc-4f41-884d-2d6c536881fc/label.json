@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212411"
+  ],
+  "inn": "posaconazole",
+  "labeler": "Lannett Company Inc.",
+  "package_ndcs": [
+    "0527-2133-35",
+    "0527-2133-43"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "posaconazole",
+      "name": "POSACONAZOLE"
+    }
+  ],
+  "setid": "94a9b028-a2bc-4f41-884d-2d6c536881fc",
+  "source": "dailymed"
+}
