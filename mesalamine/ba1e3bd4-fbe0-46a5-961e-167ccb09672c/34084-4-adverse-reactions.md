@@ -11,18 +11,18 @@ The most serious adverse reactions seen in mesalamine clinical trials or with ot
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Mesalamine has been evaluated in 1368 ulcerative colitis patients in controlled and open-label trials.
+Mesalamine has been evaluated in 1368 patients with ulcerative colitis in controlled and open-label trials.
 
 Induction of Remission
 
-In two 8-week placebo-controlled clinical trials involving 535 ulcerative colitis patients, 356 received 2.4 g/day or 4.8 g/day mesalamine delayed-release tablets and 179 received placebo.
+In two 8-week, placebo-controlled clinical trials involving 535 patients with ulcerative colitis, 356 received 2.4 g/day or 4.8 g/day mesalamine delayed-release tablets and 179 received placebo.
 The most frequent adverse reaction leading to discontinuation from mesalamine therapy was exacerbation of ulcerative colitis (0.8%).
 Pancreatitis occurred in less than 1% of patients during clinical trials and resulted in discontinuation of therapy with mesalamine in patients experiencing this event.
 
-Adverse reactions occurring in mesalamine or placebo groups at a frequency of at least 1% in two 8-week, double blind, placebo-controlled trials are listed in Table 1.
+Adverse reactions occurring in mesalamine or placebo groups at a frequency of at least 1% in two 8-week, double-blind, placebo-controlled trials are listed in Table 1.
 The most common adverse reactions with mesalamine 2.4 g/day and 4.8 g/day were headache (5.6% and 3.4%, respectively) and flatulence (4% and 2.8%, respectively).
 
-Table 1: Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at Least 1% of the Mesalamine Group and at a Rate Greater than Placeboa
+Table 1: Adverse Reactions in Two Eight-Week, Placebo-Controlled Trials Experienced by at Least 1% of the Mesalamine Group and at a Rate Greater than Placebo*
 
 | Adverse Reaction | Mesalamine 2.4 g/day (n = 177) | Mesalamine 4.8 g/day (n = 179) | Placebo (n = 179) |
 | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ Table 1: Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienc
 | Liver Function Test Abnormal | 1 (0.6%) | 4 (2.2%) | 2 (1.1%) |
 | Alopecia | 0 | 2 (1.1%) | 0 |
 | Pruritus | 1 (0.6%) | 2 (1.1%) | 2 (1.1%) |
-| a: Adverse reactions for which the placebo rate equalled or exceeded the rate for at least one of the mesalamine treatment groups were abdominal pain, dizziness, dyspepsia, and nausea. |  |  |  |
+| * Adverse reactions for which the placebo rate equalled or exceeded the rate for at least one of the mesalamine treatment groups were abdominal pain, dizziness, dyspepsia, and nausea. |  |  |  |
 
 The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by mesalamine-treated ulcerative colitis patients in the two controlled trials.
 
@@ -58,7 +58,7 @@ Ear and Labyrinth Disorders: ear pain
 Maintenance of Remission of Ulcerative Colitis
 
 The dose evaluated in three studies of mesalamine given for the maintenance of remission in patients with ulcerative colitis was 1.2 g twice daily or 2.4 g/once daily.
-One of these studies was a 6-month double-blind comparator study while two were 12- to 14-month open-label studies.
+One of these studies was a 6-month double-blind comparator study, while two were 12- to 14-month open-label studies.
 
 The most common adverse reactions with mesalamine in the maintenance arms of long-term trials were colitis ulcerative (5.8%), headache (2.9%), liver function test abnormal (2.3%), and abdominal pain (2.2%).
 Of the 1082 subjects in the all maintenance studies pooled, 1.9% had severe adverse reactions.
@@ -83,11 +83,11 @@ Table 2: Adverse Reactions in Three Maintenance Trials Experienced by at Least 1
 | Fatigue | 11 | (1.0%) |
 | Hypertension | 10 | (1.0%) |
 
-The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by mesalamine-treated ulcerative colitis patients in the three long-term maintenance trials (maintenance phases of these trials):
+The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by mesalamine-treated patients with ulcerative colitis in the three long-term maintenance trials (maintenance phases of these trials):
 
 Cardiac Disorder: tachycardia
 
-Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritis, urticaria
+Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritus, urticaria
 
 Gastrointestinal Disorders: colitis, flatulence, nausea, pancreatitis, rectal polyp, vomiting
 
@@ -124,6 +124,6 @@ Renal Disorders: interstitial nephritis, nephrogenic diabetes insipidus
 
 Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
 
-Skin: psoriasis, pyoderma gangrenosum, erythema nodosum
+Skin: psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity
 
 Urogenital: reversible oligospermia

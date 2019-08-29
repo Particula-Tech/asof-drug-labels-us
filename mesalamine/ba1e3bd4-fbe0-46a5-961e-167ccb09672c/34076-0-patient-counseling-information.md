@@ -9,11 +9,12 @@
   - have a history of myocarditis or pericarditis;
   - have kidney or liver disease;
   - have a history of stomach blockage;
-  - are pregnant, intend to become pregnant or are breast-feeding.
+  - have increased sensitivity of the skin to sun and ultraviolet light
 - Patients should be instructed to swallow mesalamine delayed-release tablets whole, taking care not to break the outer coating.
 
 Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: August 2017
+Rev.
+A 7/2019
