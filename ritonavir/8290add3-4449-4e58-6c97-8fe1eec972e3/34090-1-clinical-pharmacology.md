@@ -16,12 +16,12 @@ The maximum mean (95% upper confidence bound) difference from placebo in the PR 
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic properties of lopinavir are summarized in Table 14.
-The steady-state pharmacokinetic parameters of lopinavir are summarized in Table 15.
+The pharmacokinetic properties of lopinavir are summarized in Table 13.
+The steady-state pharmacokinetic parameters of lopinavir are summarized in Table 14.
 Under fed conditions, lopinavir concentrations were similar following administration of KALETRA tablets to capsules with less pharmacokinetic variability.
 Under fed conditions (500 kcal, 25% from fat), lopinavir concentrations were similar following administration of KALETRA capsules and oral solution.
 
-Table 14.
+Table 13.
 Pharmacokinetic Properties of Lopinavir
 
 | Absorption |  |
@@ -40,7 +40,7 @@ Pharmacokinetic Properties of Lopinavir
 | % of dose excreted in feces | 82.6 ± 2.5 |
 | a. Kaletra tablet b. Changes in AUC values |  |
 
-Table 15.
+Table 14.
 Steady-State Pharmacokinetic Parameters of Lopinavir, Mean ± SD
 
 | Pharmacokinetic Parameter | Twice Dailya | Once Dailyb |
@@ -61,7 +61,7 @@ Pediatric Patients
 
 The 230/57.5 mg/m2 twice daily regimen without nevirapine and the 300/75 mg/m2 twice daily regimen with nevirapine provided lopinavir plasma concentrations similar to those obtained in adult patients receiving the 400/100 mg twice daily regimen without nevirapine.
 
-Table 16.
+Table 15.
 Lopinavir Pharmacokinetic Data from Pediatric Clinical Trials, Mean ± SD
 
 | Cmax (μg/mL) | Cmin (μg/mL) | AUC12 (μg•hr/m) |
@@ -97,10 +97,10 @@ KALETRA does not inhibit CYP2D6, CYP2C9, CYP2C19, CYP2E1, CYP2B6 or CYP1A2 at cl
 
 KALETRA has been shown in vivo to induce its own metabolism and to increase the biotransformation of some drugs metabolized by cytochrome P450 enzymes and by glucuronidation.
 
-The effects of co-administration of KALETRA on the AUC, Cmax and Cmin are summarized in Table 17 (effect of other drugs on lopinavir) and Table 18 (effect of KALETRA on other drugs).
-For information regarding clinical recommendations, see Table 13 in Drug Interactions (7).
+The effects of co-administration of KALETRA on the AUC, Cmax and Cmin are summarized in Table 16 (effect of other drugs on lopinavir) and Table 17 (effect of KALETRA on other drugs).
+For information regarding clinical recommendations, see Table 12 in Drug Interactions (7).
 
-Table 17.
+Table 16.
 Drug Interactions: Pharmacokinetic Parameters for Lopinavir in the Presence of the Co-administered Drug for Recommended Alterations in Dose or Regimen
 
 | Co- administered Drug | Dose of Co- administered Drug (mg) | Dose of KALETRA (mg) | n | Ratio (in combination with Co-administered drug/alone) of Lopinavir Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
@@ -130,7 +130,7 @@ Drug Interactions: Pharmacokinetic Parameters for Lopinavir in the Presence of t
 | Tipranavir/ ritonavir | 500/200 twice daily | 400/100 capsule twice daily | 21 693 | 0.53 (0.40, 0.69) | 0.45 (0.32, 0.63) | 0.30 (0.17, 0.51) 0.484 (0.40, 0.58) |
 | 1 Reference for comparison is lopinavir/ritonavir 400/100 mg twice daily without efavirenz. 2 Data extracted from the U.S. prescribing information of co-administered drugs. 3 Parallel group design 4 Drug levels obtained at 8-16 hours post dose N/A = Not available. |  |  |  |  |  |  |
 
-Table 18.
+Table 17.
 Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug in the Presence of KALETRA for Recommended Alterations in Dose or Regimen
 
 | Co- administered Drug | Dose of Co- administered Drug (mg) | Dose of KALETRA (mg) | n | Ratio (in combination with KALETRA/alone) of Co- administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
@@ -195,9 +195,9 @@ Following viral rebound, isolates from these patients all contained additional s
 Cross-resistance - Nonclinical Studies
 
 Varying degrees of cross-resistance have been observed among HIV-1 protease inhibitors.
-The antiviral activity in cell culture of lopinavir against clinical isolates from patients previously treated with a single protease inhibitor was determined (Table 19).
+The antiviral activity in cell culture of lopinavir against clinical isolates from patients previously treated with a single protease inhibitor was determined (Table 18).
 
-Table 19.
+Table 18.
 Susceptibility Reduction to Lopinavir Against Isolates from Patients Previously Treated With a Single Protease Inhibitor
 
 | Susceptibility reduced by >4 fold | Susceptibility reduced to LPV |
@@ -214,10 +214,10 @@ Clinical Studies - Antiviral Activity of KALETRA in Patients with Previous Prote
 The clinical relevance of reduced susceptibility in cell culture to lopinavir has been examined by assessing the virologic response to KALETRA therapy in treatment-experienced patients, with respect to baseline viral genotype in three studies and baseline viral phenotype in one study.
 
 Virologic response to KALETRA has been shown to be affected by the presence of three or more of the following amino acid substitutions in protease at baseline: L10F/I/R/V, K20M/N/R, L24I, L33F, M36I, I47V, G48V, I54L/T/V, V82A/C/F/S/T, and I84V.
-Table 20 shows the 48-week virologic response (HIV-1 RNA <400 copies/mL) according to the number of the above protease inhibitor resistance-associated substitutions at baseline in studies 888 and 765 [see Clinical Studies (14.2) and (14.3)] and study 957 (see below).
+Table 19 shows the 48-week virologic response (HIV-1 RNA <400 copies/mL) according to the number of the above protease inhibitor resistance-associated substitutions at baseline in studies 888 and 765 [see Clinical Studies (14.2) and (14.3)] and study 957 (see below).
 Once daily administration of KALETRA for adult patients with three or more of the above substitutions is not recommended.
 
-Table 20.
+Table 19.
 Virologic Response (HIV-1 RNA <400 copies/mL) at Week 48 by Baseline KALETRA Susceptibility and by Number of Protease Substitutions Associated with Reduced Response to KALETRA1
 
 | Number of protease inhibitor substitutions at baseline1 | Study 888 (Single protease inhibitor-experienced2, NNRTI-naïve) n=130 | Study 765 (Single protease inhibitor-experienced3, NNRTI-naïve) n=56 | Study 957 (Multiple protease inhibitor-experienced4, NNRTI-naïve) n=50 |
@@ -232,9 +232,9 @@ In this study 56 NNRTI-naïve patients with HIV-1 RNA >1,000 copies/mL despite p
 The EC50 values of lopinavir against the 56 baseline viral isolates ranged from 0.5- to 96-fold the wild-type EC50 value.
 Fifty-five percent (31/56) of these baseline isolates displayed >4-fold reduced susceptibility to lopinavir.
 These 31 isolates had a median reduction in lopinavir susceptibility of 18-fold.
-Response to therapy by baseline lopinavir susceptibility is shown in Table 21.
+Response to therapy by baseline lopinavir susceptibility is shown in Table 20.
 
-Table 21.
+Table 20.
 HIV-1 RNA Response at Week 48 by Baseline Lopinavir Susceptibility1
 
 | Lopinavir susceptibility2 at baseline | HIV-1 RNA <400 copies/mL (%) | HIV-1 RNA <50 copies/mL (%) |

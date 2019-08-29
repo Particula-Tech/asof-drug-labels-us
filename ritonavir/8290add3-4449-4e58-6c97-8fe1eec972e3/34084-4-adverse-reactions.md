@@ -22,9 +22,9 @@ At the time of treatment discontinuation, 4.2-6.3% of patients taking once daily
 
 Commonly reported adverse reactions to KALETRA included diarrhea, nausea, vomiting, hypertriglyceridemia and hypercholesterolemia.
 Diarrhea, nausea and vomiting may occur at the beginning of the treatment while hypertriglyceridemia and hypercholesterolemia may occur later.
-The following have been identified as adverse reactions of moderate or severe intensity (Table 9):
+The following have been identified as adverse reactions of moderate or severe intensity (Table 8):
 
-Table 9.
+Table 8.
 Adverse Reactions of Moderate or Severe Intensity Occurring in at Least 0.1% of Adult Patients Receiving KALETRA in Combined Phase II/IV Studies (N=2,612)
 
 | System Organ Class (SOC) and Adverse Reaction |  | n | % |
@@ -127,9 +127,9 @@ Adverse Reactions of Moderate or Severe Intensity Occurring in at Least 0.1% of 
 
 Laboratory Abnormalities in Adults
 
-The percentages of adult patients treated with combination therapy with Grade 3-4 laboratory abnormalities are presented in Table 10 (treatment-naïve patients) and Table 11 (treatment-experienced patients).
+The percentages of adult patients treated with combination therapy with Grade 3-4 laboratory abnormalities are presented in Table 9 (treatment-naïve patients) and Table 10 (treatment-experienced patients).
 
-Table 10.
+Table 9.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-Naïve Patients
 
 |  |  | Study 863 (48 Weeks) |  | Study 720 (360 Weeks) | Study 730 (48 Weeks) |  |
@@ -151,7 +151,7 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-Na
 | Neutrophils | <0.75 x 109/L | 1% | 3% | 5% | 2% | 1% |
 | 1 ULN = upper limit of the normal range; N/A = Not Applicable. 2 Criterion for Study 730 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
 
-Table 11.
+Table 10.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibitor-Experienced Patients
 
 |  |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) | Study 802 (48 Weeks) |  |
@@ -199,9 +199,9 @@ Both subjects with QT prolongation had additional predisposing conditions such a
 
 Laboratory Abnormalities in Pediatric Patients
 
-The percentages of pediatric patients treated with combination therapy including KALETRA with Grade 3-4 laboratory abnormalities are presented in Table 12.
+The percentages of pediatric patients treated with combination therapy including KALETRA with Grade 3-4 laboratory abnormalities are presented in Table 11.
 
-Table 12.
+Table 11.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% Pediatric Patients in Study 940
 
 | Variable | Limit1 | KALETRA Twice Daily + RTIs (N = 100) |

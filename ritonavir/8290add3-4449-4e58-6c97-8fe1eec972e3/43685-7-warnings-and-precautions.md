@@ -10,7 +10,7 @@ These interactions may lead to:
 - Clinically significant adverse reactions from greater exposures of KALETRA.
 - Loss of therapeutic effect of KALETRA and possible development of resistance.
 
-See Table 13 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+See Table 12 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during KALETRA therapy; review concomitant medications during KALETRA therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Toxicity in Preterm Neonates
