@@ -20,13 +20,3 @@ The WHI estrogen plus progestin substudy demonstrated an increased risk of invas
 In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and MPA, and other combinations and dosage forms of estrogens and progestins.
 
 Progestins with estrogens should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
-
-What is the most important information I should know about MPA (a progestin hormone)?
-
-Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).
-
-Using estrogens with progestins may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.
-
-Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years or older.
-
-You and your healthcare provider should talk regularly about whether you still need treatment with medroxyprogesterone acetate tablets.
