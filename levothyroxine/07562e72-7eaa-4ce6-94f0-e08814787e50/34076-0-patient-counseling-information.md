@@ -27,6 +27,6 @@ Adverse Reactions
 
 Manufactured by: Jerome Stevens Pharmaceuticals, Inc. Bohemia, NY 11716
 
-Distributed by: Gemini Laboratories Bridgewater, NJ 08807
+Distributed by: Amneal Specialty, a division of Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-Revised: 12/2018
+Revised: 06/2019
