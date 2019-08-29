@@ -2,14 +2,9 @@
 
 ## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
 
-Carcinogenesis
-
-A 2-year study was performed in rats to evaluate the carcinogenic potential of naproxen at rat doses of 8, 16, and 24 mg/kg/day (0.05, 0.1, and 0.16 times the maximum recommended human daily dose [MRHD] of 1500 mg/day based on a body surface area comparison).
+Carcinogenesis A 2-year study was performed in rats to evaluate the carcinogenic potential of naproxen at rat doses of 8, 16, and 24 mg/kg/day (0.05, 0.1, and 0.16 times the maximum recommended human daily dose [MRHD] of 1500 mg/day based on a body surface area comparison).
 No evidence of tumorigenicity was found.
-
-Mutagenesis
-
-Naproxen tested positive in the in vivo sister chromatid exchange assay for but was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test).
+Mutagenesis Naproxen tested positive in the in vivo sister chromatid exchange assay for but was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test).
 
 Impairment of Fertility
 

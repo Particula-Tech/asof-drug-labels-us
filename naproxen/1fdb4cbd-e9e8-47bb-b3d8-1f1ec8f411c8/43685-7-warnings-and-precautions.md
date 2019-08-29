@@ -27,8 +27,8 @@ Observational studies conducted in the Danish National Registry have demonstrate
 In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
 Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
-Avoid the use of Naproxen Tablets in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
-If Naproxen Tablets are used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+Avoid the use of naproxen tablets in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If naproxen tablets are used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
 5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
 
@@ -57,7 +57,7 @@ For such patients, as well as those with active GI bleeding, consider alternate 
 
 • Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
 
-• If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue Naproxen Tablets until a serious GI adverse event is ruled out.
+• If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue naproxen tablets until a serious GI adverse event is ruled out.
 
 • In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
@@ -69,11 +69,11 @@ In addition, rare, sometimes fatal, cases of severe hepatic injury, including fu
 Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs including naproxen.
 
 Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue Naproxen Tablets immediately, and perform a clinical evaluation of the patient.
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue naproxen tablets immediately, and perform a clinical evaluation of the patient.
 
 5.4 Hypertension
 
-NSAIDs, including Naproxen Tablets can lead to new onset of hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs, including naproxen tablets can lead to new onset of hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
 
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
@@ -86,8 +86,8 @@ In a Danish National Registry study of patients with heart failure, NSAID use in
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
 Use of naproxen may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
 
-Avoid the use of Naproxen Tablets in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
-If Naproxen Tablet is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+Avoid the use of naproxen tablets in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If naproxen tablet is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
 5.6 Renal Toxicity and Hyperkalemia
 
@@ -100,13 +100,13 @@ In these patients, administration of an NSAID may cause a dose-dependent reducti
 Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly.
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
-No information is available from controlled clinical studies regarding the use of Naproxen Tablets, in patients with advanced renal disease.
-The renal effects of Naproxen Tablets may hasten the progression of renal dysfunction in patients with preexisting renal disease.
+No information is available from controlled clinical studies regarding the use of naproxen tablets in patients with advanced renal disease.
+The renal effects of naproxen tablets may hasten the progression of renal dysfunction in patients with preexisting renal disease.
 
-Correct volume status in dehydrated or hypovolemic patients prior to initiating Naproxen Tablets.
-Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of Naproxen Tablets [see Drug Interactions (7)].
-Avoid the use of Naproxen Tablets in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
-If Naproxen Tablets is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
+Correct volume status in dehydrated or hypovolemic patients prior to initiating naproxen tablets.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of naproxen tablets [see Drug Interactions (7)].
+Avoid the use of naproxen tablets in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+If naproxen tablets is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 
 Hyperkalemia
 
@@ -123,37 +123,37 @@ Seek emergency help if an anaphylactic reaction occurs.
 
 A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
 
-Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, Naproxen Tablets are contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].When Naproxen Tablets is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, naproxen tablets are contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
+When naproxen tablets are used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 5.9 Serious Skin Reactions
 
 NSAIDs, including naproxen, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
-Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of Naproxen Tablets at the first appearance of skin rash or any other sign of hypersensitivity.
-Naproxen Tablets are contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of naproxen tablets at the first appearance of skin rash or any other sign of hypersensitivity. naproxen tablets are contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
 5.10 Premature Closure of Fetal Ductus Arteriosus
 
 Naproxen may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including Naproxen Tablets in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
+Avoid use of NSAIDs, including naproxen tablets in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
 
 5.11 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
-If a patient treated with Naproxen Tablets has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
+If a patient treated with naproxen tablets has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
-NSAIDs, including Naproxen Tablets may increase the risk of bleeding events.
+NSAIDs, including naproxen tablets may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders or concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
 5.12 Masking of Inflammation and Fever
 
-The pharmacological activity of Naproxen Tablets in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
+The pharmacological activity of naproxen tablets in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-5.13 Long-Term Use and Laboratory Monitoring
+5.13 Long -Term Use and Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically[see Warnings and Precautions (5.2,5.3, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2,5.3,5.6)].
 
 Patients with initial hemoglobin values of 10g or less who are to receive long-term therapy should have hemoglobin values determined periodically.
 

@@ -2,20 +2,20 @@
 
 2.1 General Dosing Instructions
 
-Carefully consider the potential benefits and risks of Naproxen Tablet and other treatment options before deciding to use naproxen tablets.
+Carefully consider the potential benefits and risks of naproxen tablets and other treatment options before deciding to use naproxen tablets.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-After observing the response to initial therapy with Naproxen Tablets, the dose and frequency should be adjusted to suit an individual patients needs.
+After observing the response to initial therapy with naproxen tablets, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
 Naproxen-containing products such as naproxen tablet and other naproxen products should not be used concomitantly since they all circulate in the plasma as the naproxen anion.
 
 2.2 Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis
 
-The recommended dosages for Naproxen Tablets are shown in table 1.
+The recommended dosages of naproxen tablets are shown in Table 1.
 
-Table 1: Recommended dosages for Naproxen Tablets
+Table 1: Recommended dosages for Naproxen Tablets, USP
 
-| Naproxen Tablets, USP | 250 mg | twice daily |
+| Naproxen Tablets, USP | 250 mg (one half tablet) | twice daily |
 | --- | --- | --- |
 | 375 mg | twice daily |  |
 | 500 mg | twice daily |  |
@@ -36,17 +36,17 @@ A liquid formulation may be more appropriate for weight-based dosing and due to 
 
 In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [see Clinical Pharmacology (12)].
 The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses.
-Dosing with Naproxen Tablets is not appropriate for children weighing less than 50 kilograms.
+Dosing with naproxen tablets is not appropriate for children weighing less than 50 kilograms.
 
 2.4 Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis and Bursitis
 
-Naproxen Tablets may also be used.
-The recommended starting dose of Naproxen Tablets is 500 mg, followed by 250 mg (one half of a 500 mg Naproxen tablet) every 6 to 8 hours as required.
+Naproxen Tablets, USP may also be used.
+The recommended starting dose of naproxen tablet is 500 mg, followed by 250 mg (one half of a 500 mg naproxen tablet) every 6-8 hours as required.
 The total daily dose should not exceed 1250 mg of naproxen.
 
 2.5 Acute Gout
 
-The recommended starting dose is 750 mg (one and one-half tablets) of Naproxen Tablets followed by 250 mg (one-half tablet) every 8 hours until the attack has subsided.
+The recommended starting dose is 750 mg (one and one-half tablets) of naproxen tablets followed by 250 mg (one-half tablet) every 8 hours until the attack has subsided.
 
 2.6 Non-Interchangeability with Other Formulations of Naproxen
 

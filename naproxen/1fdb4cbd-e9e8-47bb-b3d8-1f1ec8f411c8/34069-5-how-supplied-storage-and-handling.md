@@ -1,25 +1,24 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Naproxen Tablets
-
-250 mg: white to off-white, round shaped tablet with “138” debossed on one side and scored on other side.
+Naproxen Tablets, USP 250 mg: white to off-white, round shaped tablet with “138” debossed on one side and scored on the other side.
 Packaged in light-resistant bottles of 30 and 1000.
 
-30's (bottle): NDC 25000-138-03
+30’s (bottle): NDC 25000-138-03
 
 1000’s (bottle): NDC 25000-138-14
 
-375 mg: white to off-white, oval shaped tablet with “139” debossed on one side and plain on other side.
+Naproxen Tablets, USP 375 mg: white to off-white, oval shaped tablet with “139” debossed on one side and plain on other side.
+
 Packaged in light-resistant bottles of 30 and 1000.
 
-30's (bottle): NDC 25000-139-03
+30’s (bottle): NDC 25000-139-03
 
 1000’s (bottle): NDC 25000-139-14
 
-500 mg: white to off-white, capsule-shaped tablets with “140” debossed on one side and scored on other side.
+Naproxen Tablets, USP 500 mg: white to off-white, capsule-shaped tablets with “140” debossed on one side and scored on the other side.
 Packaged in light-resistant bottles of 30 and 1000.
 
-30's (bottle): NDC 25000-140-03
+30’s (bottle): NDC 25000-140-03
 
 1000’s (bottle): NDC 25000-140-14
 

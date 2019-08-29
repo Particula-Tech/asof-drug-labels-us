@@ -6,7 +6,7 @@ Hypertension, acute renal failure, respiratory depression, and coma have occurre
 Because naproxen sodium may be rapidly absorbed, high and early blood levels should be anticipated.
 A few patients have experienced convulsions, but it is not clear whether or not these were drug-related.
 It is not known what dose of the drug would be life threatening.
-[see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
+[see Warnings and Precautions (5.1,5.2, 5.4, 5.6)].
 
 Manage patients with symptomatic and supportive care following an NSAID overdosage.
 There are no specific antidotes.

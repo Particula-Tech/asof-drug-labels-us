@@ -27,5 +27,4 @@ Whether naproxen has a “steroid-sparing” effect has not been adequately stud
 When added to the regimen of patients receiving gold salts, naproxen did result in greater improvement.
 Its use in combination with salicylates is not recommended because there is evidence that aspirin increases the rate of excretion of naproxen and data are inadequate to demonstrate that naproxen and aspirin produce greater improvement over that achieved with aspirin alone.
 In addition, as with other NSAIDs, the combination may result in higher frequency of adverse events than demonstrated for either product alone.
-
-In 51Cr blood loss and gastroscopy studies with normal volunteers, daily administration of 1000 mg of naproxen as 1000 mg of Naproxen has been demonstrated to cause statistically significantly less gastric bleeding and erosion than 3250 mg of aspirin.
+In 51Cr blood loss and gastroscopy studies with normal volunteers, daily administration of 1000 mg of naproxen as 1000 mg of naproxen has been demonstrated to cause statistically significantly less gastric bleeding and erosion than 3250 mg of aspirin.

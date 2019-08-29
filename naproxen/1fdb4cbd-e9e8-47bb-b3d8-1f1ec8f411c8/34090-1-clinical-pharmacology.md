@@ -14,10 +14,18 @@ Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action 
 
 ## 12.2 Pharmacodynamics
 
+In a healthy volunteer study, 10 days of concomitant administration of naproxen 220 mg once-daily with low-dose immediate-release aspirin (81 mg) showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane B2 inhibition at 24 hours following the day 10 dose [98.7% (aspirin alone) vs 93.1% (naproxen and aspirin)].
+The interaction was observed even following discontinuation of naproxen on day 11 (while aspirin dose was continued) but normalized by day 13.
+In the same study, the interaction was greater when naproxen was administered 30 minutes prior to aspirin [98.7% vs 87.7%] and minimal when aspirin was administered 30 minutes prior to naproxen [98.7% vs 95.4%].
+
+Following administration of naproxen 220 mg twice-daily with low-dose immediate-release aspirin (first naproxen dose given 30 minutes prior to aspirin), the interaction was minimal at 24 h following day 10 dose [98.7% vs 95.7%].
+However, the interaction was more prominent after discontinuation of naproxen (washout) on day 11 [98.7% vs 84.3%] and did not normalize completely by day 13 [98.5% vs 90.7%].
+[see Drug Interactions (7)].
+
 ## 12.3 Pharmacokinetics
 
 Naproxen is rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%.
-The different dosage forms of Naproxen is bioequivalent in terms of extent of absorption (AUC) and peak concentration (Cmax); however, the products do differ in their pattern of absorption.
+The different dosage forms of naproxen is bioequivalent in terms of extent of absorption (AUC) and peak concentration (Cmax); however, the products do differ in their pattern of absorption.
 These differences between naproxen products are related to both the chemical form of naproxen used and its formulation.
 Even with the observed differences in pattern of absorption, the elimination half-life of naproxen is unchanged across products ranging from 12 to 17 hours.
 Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of naproxen accumulation is consistent with this half-life.
@@ -25,7 +33,7 @@ This suggests that the differences in pattern of release play only a negligible 
 
 Absorption
 
-After administration of Naproxen Tablets peak plasma levels are attained in 2 to 4 hours.
+After administration of naproxen tablets peak plasma levels are attained in 2 to 4 hours.
 
 Distribution
 
@@ -34,9 +42,7 @@ At therapeutic levels naproxen is greater than 99% albumin-bound.
 At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
 The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma [see Use in Specific Populations (8.2)].
 
-Elimination
-
-Metabolism
+Elimination Metabolism
 
 Naproxen is extensively metabolized in the liver to 6-0-desmethyl naproxen, and both parent and metabolites do not induce metabolizing enzymes.
 Both naproxen and 6-0-desmethyl naproxen are further metabolized to their respective acylglucuronide conjugated metabolites.
@@ -57,6 +63,7 @@ Pediatric:
 In pediatric patients aged 5 to 16 years with arthritis, plasma naproxen levels following a 5 mg/kg single dose of naproxen suspension [see Dosage and Administration (2)] were found to be similar to those found in normal adults following a 500 mg dose.
 The terminal half-life appears to be similar in pediatric and adult patients.
 Pharmacokinetic studies of naproxen were not performed in pediatric patients younger than 5 years of age.
+Pharmacokinetic parameters appear to be similar following administration of naproxen suspension or tablets in pediatric patients.
 
 Geriatric:
 
@@ -79,4 +86,4 @@ Drug Interaction Studies
 
 Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
-See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
+See Table 2 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].

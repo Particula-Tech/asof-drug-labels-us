@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
-Inform patients, families, or their caregivers of the following information before initiating therapy with Naproxen Tablets and periodically during the course of ongoing therapy.
+Inform patients, families, or their caregivers of the following information before initiating therapy with naproxen tablets and periodically during the course of ongoing therapy.
 
 Cardiovascular Thrombotic Events
 
-Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions (5.1)].
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions(5.1)].
 
 Gastrointestinal Bleeding, Ulceration, and Perforation
 
@@ -15,7 +15,7 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 Hepatotoxicity
 
 Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
-If these occur, instruct patients to stop Naproxen Tablets and seek immediate medical therapy [see Warnings and Precautions (5.3)].
+If these occur, instruct patients to stop naproxen tablets and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
 Heart Failure and Edema
 
@@ -28,37 +28,21 @@ Instruct patients to seek immediate emergency help if these occur [see Contraind
 
 Serious Skin Reactions
 
-Advise patients to stop Naproxen Tablets immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
+Advise patients to stop naproxen tablets immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
 
 Female Fertility
 
-Advise females of reproductive potential who desire pregnancy that NSAIDs, Naproxen Tablets may be associated with a reversible delay in ovulation (see Use in Specific Populations (8.3).
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including naproxen tablets may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of Naproxen Tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Inform pregnant women to avoid use of naproxen tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
 Avoid Concomitant Use of NSAIDs
 
-Inform patients that the concomitant use of Naproxen Tablets with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+Inform patients that the concomitant use of naproxen tablets with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
 Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
 
 Use of NSAIDS and Low-Dose Aspirin
 
-Inform patients not to use low-dose aspirin concomitantly with Naproxen Tablets until they talk to their healthcare provider [see Drug Interactions (7)].
-
-Manufactured for:
-
-Time-Cap Labs, Inc.
-
-7 Michael Avenue, Farmingdale, NY 11735, USA
-
-Manufactured by:
-
-Marksans Pharma Ltd.
-
-Plot No. L-82, L-83, Verna Indl.
-Estate, Verna, GOA - 403 722, India.
-
-Iss.
-10/17
+Inform patients not to use low-dose aspirin concomitantly with naproxen tablets until they talk to their healthcare provider [see Drug Interactions (7)].
