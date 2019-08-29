@@ -9,15 +9,15 @@ Shake vigorously before use.
 
 Pfizer
 
-Pharmacia & Upjohn Co MADE IN USA (includes foreign content)
+Pharmacia & Upjohn Co
 
-LOT/EXP: 8Q2334
+LOT/EXP: PAA091484
 
 # PRINCIPAL DISPLAY PANEL - 104 mg Syringe Carton
 
 NDC 0009-4709-13
 
-Single Use 0.65 mL Prefilled Syringe Rx only
+Single Use 0.65 mL Prefilled Syringe
 
 depo-subQ provera 104™ medroxyprogesterone acetate injectable suspension (104 mg/0.65 mL for subcutaneous use)
 
@@ -25,4 +25,6 @@ depo-subQ provera 104™ medroxyprogesterone acetate injectable suspension (104 
 
 Pfizer
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 MADE IN USA (includes foreign content)
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+
+Rx only
