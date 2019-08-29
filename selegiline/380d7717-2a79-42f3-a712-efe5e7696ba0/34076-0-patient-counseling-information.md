@@ -67,12 +67,21 @@ Advise patients that ZELAPAR contains aspartame which could cause problems in pa
 
 Instructions for Use
 
-Patients should be instructed not to remove the blister from the outer pouch until just prior to dosing.
+Patients should be instructed not to remove the blister from the sachet pouch until just prior to dosing.
 The blister pack should then be peeled open with dry hands and the orally disintegrating tablet placed on the tongue, where the tablet will disintegrate.
 Patients should also avoid drinking liquids or eating food 5 minutes before and after taking ZELAPAR.
-Use ZELAPAR within 3 months of opening pouch and immediately upon opening individual blister.
-Store blister tablets in pouch.
+Use ZELAPAR within 3 months of opening sachet pouch and immediately upon opening individual blister.
+Store blister tablets in sachet pouch at all times.
+Keep sachet pouch inside clear child-resistant pouch provided.
 Potency cannot be guaranteed after 3 months of opening the pouch.
 
-KEEP THIS MEDICATION OUT OF THE REACH OF CHILDREN.
-BLISTERS AND POUCHES ARE NOT CHILD-RESISTANT.
+How should I store ZELAPAR?
+
+- •Store ZELAPAR at controlled room temperature 25°C (77°F).
+- •Store blister tablets in sachet pouch at all times.
+- •Keep sachet pouch sealed or closed inside of clear child-resistant pouch provided.
+- •Potency cannot be guaranteed after 3 months of opening the sachet pouch.
+- •Keep ZELAPAR and all medicines out of the reach of children.
+
+BLISTERS PACKS AND SACHET POUCHES ARE NOT CHILD-RESISTANT.
+THE CLEAR OUTER POUCH IS CHILD-RESISTANT.

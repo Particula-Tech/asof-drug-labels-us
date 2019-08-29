@@ -86,7 +86,7 @@ This abnormal thinking and behavior can consist of one or more of a variety of m
 Patients with a major psychotic disorder should ordinarily not be treated with ZELAPAR because of the risk of exacerbating psychosis.
 In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of ZELAPAR [see Drug Interactions (7.8)].
 
-## 5.7 Impulse Control/Compulsive Behaviors
+## 5.7 Impulse Control / Compulsive Behaviors
 
 Case reports suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including ZELAPAR, that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.

@@ -10,6 +10,7 @@ Zelapar® 1.25 mg
 
 Orally Disintegrating Tablets
 
-Contents: 6 pouches, each containing 10 tablets
+Contents: Clear child -resistant pouch containing 6 sachet pouches.
+Each sachet pouch contains 10 tablets
 
 VALEANT®
