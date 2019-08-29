@@ -1,3 +1,4 @@
 # 15 REFERENCES
 
-http://www.osha.gov/SLTC/hazardousdrugs/index.html
+1.
+“OSHA Hazardous Drugs.” http://www.osha.gov/SLTC/hazardousdrugs/index.html

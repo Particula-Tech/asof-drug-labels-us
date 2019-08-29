@@ -8,7 +8,7 @@ Strength: 20 mg/mL
 
 Rx Only
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC
 
 NDC: 70121-1222-1
 
@@ -18,7 +18,7 @@ Strength: 80 mg/4 mL
 
 Rx Only
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC
 
 NDC: 70121-1223-1
 
@@ -28,4 +28,4 @@ Strength: 160 mg/8 mL
 
 Rx Only
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC

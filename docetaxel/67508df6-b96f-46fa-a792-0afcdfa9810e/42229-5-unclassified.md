@@ -1,112 +1,8 @@
-# 8 USE IN SPECIFIC POPULATIONS
-
-## 8.1 Pregnancy
-
-Pregnancy Category D [see Warnings and Precautions (5.13)]
-
-Based on its mechanism of action and findings in animals, docetaxel can cause fetal harm when administered to a pregnant woman.
-If docetaxel is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with docetaxel [see Warnings and Precautions (5.13)].
-
-Docetaxel can cause fetal harm when administered to a pregnant woman.
-Studies in both rats and rabbits at doses ≥0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m2 basis), administered during the period of organogenesis, have shown that docetaxel is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
-The doses indicated above also caused maternal toxicity [see Warnings and Precautions (5.13)].
-
-## 8.3 Nursing Mothers
-
-It is not known whether docetaxel is excreted in human milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from docetaxel, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-
-## 8.4 Pediatric Use
-
-The alcohol content of docetaxel injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.12)].
-
-The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established.
-The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
-
-Docetaxel has been studied in a total of 289 pediatric patients: 239 in 2 trials with monotherapy and 50 in combination treatment with cisplatin and 5-fluoruracil (TCF).
-
-Docetaxel Monotherapy
-
-Docetaxel monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1 to 22 years) with a variety of refractory solid tumors.
-The recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 days.
-The primary dose limiting toxicity was neutropenia.
-
-The recommended dose for docetaxel monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1 to 26 years) with a variety of recurrent/refractory solid tumors.
-Efficacy was not established with tumor response rates ranging from one complete response (CR) (0.6%) in a patient with undifferentiated sarcoma to four partial responses (2.2%) seen in one patient each with Ewing Sarcoma, neuroblastoma, osteosarcoma, and squamous cell carcinoma.
-
-Docetaxel in Combination
-
-Docetaxel was studied in combination with cisplatin and 5-fluorouracil (TCF) versus cisplatin and 5-fluorouracil (CF) for the induction treatment of nasopharyngeal carcinoma (NPC) in pediatric patients prior to chemoradiation consolidation.
-Seventy-five patients (median age 16 years, range 9 to 21 years) were randomized (2:1) to docetaxel (75 mg/m2) in combination with cisplatin (75 mg/m2) and 5-fluorouracil (750 mg/m2) (TCF) or to cisplatin (80 mg/m2) and 5-fluorouracil (1000 mg/m2/day) (CF).
-The primary endpoint was the CR rate following induction treatment of NPC.
-One patient out of 50 in the TCF group (2%) had a complete response while none of the 25 patients in the CF group had a complete response.
-
-Pharmacokinetics
-
-Pharmacokinetic parameters for docetaxel were determined in 2 pediatric solid tumor trials.
-Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m2.
-
-Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
-Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20±2.57 mcg.h/mL.
-
-In summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
-
-## 8.5 Geriatric Use
-
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in elderly patients.
-
-Non-Small Cell Lung Cancer
-
-In a study conducted in chemotherapy-naive patients with NSCLC (TAX326), 148 patients (36%) in the docetaxel+cisplatin group were 65 years of age or greater.
-There were 128 patients (32%) in the vinorelbine+cisplatin group 65 years of age or greater.
-In the docetaxel+cisplatin group, patients less than 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
-In patients 65 years of age or greater treated with docetaxel+cisplatin, diarrhea (55%), peripheral edema (39%) and stomatitis (28%) were observed more frequently than in the vinorelbine+cisplatin group (diarrhea 24%, peripheral edema 20%, stomatitis 20%).
-Patients treated with docetaxel+cisplatin who were 65 years of age or greater were more likely to experience diarrhea (55%), infections (42%), peripheral edema (39%) and stomatitis (28%) compared to patients less than the age of 65 administered the same treatment (43%, 31%, 31% and 21%, respectively).
-
-When docetaxel was combined with carboplatin for the treatment of chemotherapy-naive, advanced non-small cell lung carcinoma, patients 65 years of age or greater (28%) experienced higher frequency of infection compared to similar patients treated with docetaxel+cisplatin, and a higher frequency of diarrhea, infection and peripheral edema than elderly patients treated with vinorelbine+cisplatin.
-
-Prostate Cancer
-
-Of the 333 patients treated with docetaxel every three weeks plus prednisone in the prostate cancer study (TAX327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with docetaxel every three weeks, the following treatment emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs 59%), infection (37% vs 24%), nail changes (34% vs 23%), anorexia (21% vs 10%), weight loss (15% vs 5%) respectively.
-
-Breast Cancer
-
-In the adjuvant breast cancer trial (TAX316), docetaxel in combination with doxorubicin and cyclophosphamide was administered to 744 patients of whom 48 (6%) were 65 years of age or greater.
-The number of elderly patients who received this regimen was not sufficient to determine whether there were differences in safety and efficacy between elderly and younger patients.
-
-Gastric Cancer
-
-Among the 221 patients treated with docetaxel in combination with cisplatin and fluorouracil in the gastric cancer study, 54 were 65 years of age or older and 2 patients were older than 75 years.
-In this study, the number of patients who were 65 years of age or older was insufficient to determine whether they respond differently from younger patients.
-However, the incidence of serious adverse reactions was higher in the elderly patients compared to younger patients.
-The incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates ≥10% higher in patients who were 65 years of age or older compared to younger patients.
-Elderly patients treated with TCF should be closely monitored.
-
-Head and Neck Cancer
-
-Among the 174 and 251 patients who received the induction treatment with docetaxel in combination with cisplatin and fluorouracil (TPF) for SCCHN in the TAX323 and TAX324 studies, 18 (10%) and 32 (13%) of the patients were 65 years of age or older, respectively.
-
-These clinical studies of docetaxel in combination with cisplatin and fluorouracil in patients with SCCHN did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
-Other reported clinical experience with this treatment regimen has not identified differences in responses between elderly and younger patients.
-
-## 8.6 Hepatic Impairment
-
-Patients with bilirubin >ULN should not receive docetaxel.
-Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive docetaxel [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
-
-The alcohol content of docetaxel injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.12)].
-
 # Patient Information
 
 Docetaxel (doe” se tax’el) Injection
 
 For Intravenous use
-
-Read this Patient Information before you receive your first treatment with docetaxel injection and each time before you are treated.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
 What is the most important information I should know about docetaxel injection?
 
@@ -127,8 +23,8 @@ Docetaxel injection can cause serious side effects, including death.
   Follow your healthcare provider’s instructions for how often to take your temperature during treatment with docetaxel injection.
   Call your healthcare provider right away if you have a fever.
 - Swelling (inflammation) of the small intestine and colon.
-  This can happen at any time and could lead to death as early as the first day you get symptoms.
-  Tell your healthcare provider right away if you develop new or worse symptoms of intestinal problems, including stomach (abdominal) pain or tenderness, diarrhea, or fever.
+  This can happen at any time during treatment and could lead to death as early as the first day you get symptoms.
+  Tell your healthcare provider right away if you develop new or worse symptoms of intestinal problems, including stomach (abdominal) pain or tenderness or diarrhea, with or without fever.
 
 - Severe allergic reactions are medical emergencies that can happen in people who receive docetaxel injection and can lead to death.
   You may be at higher risk of developing a severe allergic reaction to docetaxel if you are allergic to paclitaxel.
@@ -180,11 +76,20 @@ Before you receive docetaxel injection, tell your healthcare provider about all 
 - are pregnant or plan to become pregnant.
   Docetaxel injection can harm your unborn baby.
   You should not become pregnant during treatment with docetaxel injection.
-  Females who are able to become pregnant should use effective birth control (contraception) during treatment with docetaxel injection.
-  Talk to your healthcare provider if you have questions about birth control options that are right for you.
+  Tell your healthcare provider if you become pregnant or you think you may be pregnant during treatment with docetaxel injection.
+
+Females who are able to become pregnant:
+
+- Your healthcare provider will check to see if you are pregnant before you start treatment with docetaxel injection.
+- You should use effective birth control (contraception) during treatment with docetaxel injection and for 6 months after the last dose.
+
+Males with female partners who are able to become pregnant should use effective birth control during treatment with docetaxel injection and for 3 months after the last dose.
+
+Talk to your healthcare provider if you have questions about birth control options that are right for you.
+
 - are breastfeeding or plan to breastfeed.
   It is not known if docetaxel passes into your breast milk.
-  You and your healthcare provider should decide if you will receive docetaxel injection or breastfeed.
+  Do not breastfeed during treatment with docetaxel injection and for 1 week after the last dose.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Docetaxel injection may affect the way other medicines work, and other medicines may affect the way docetaxel injection works.
@@ -205,14 +110,15 @@ What are the possible side effects of docetaxel injection?
 Docetaxel injection may cause serious side effects including death.
 
 - See “What is the most important information I should know about docetaxel injection?”
-- Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who receive docetaxel injection along with certain other medicines.
-- Other blood disorders.
-  Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel injection.
+- Risk of new cancers.
+  An increase in new (second) cancers has happened in people treated with docetaxel injection together with certain other anticancer treatments.
+  This includes certain blood cancers, such as acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), Non-Hodgkin’s Lymphoma (NHL), and kidney cancer.Your healthcare provider will check you for new cancers during and after your treatment with docetaxel injection.
+  - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel injection.
 - Skin reactions including redness and swelling of your arms and legs with peeling of your skin.
   Tell your healthcare provider if you are having a skin reaction.
 - Neurologic problems.
   Neurologic symptoms are common in people who receive docetaxel injection but can be severe.
-  Tell your healthcare provider if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness).
+  Tell your healthcare provider right away if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness).
 - Vision problems including blurred vision or loss of vision.
   Tell your healthcare provider right away if you have any vision changes.
 - Docetaxel injection contains alcohol.
@@ -237,6 +143,9 @@ The most common side effects of docetaxel injection include:
 Tell your healthcare provider if you have a fast or irregular heartbeat, severe shortness of breath, dizziness or fainting during your infusion.
 If any of these events occurs after your infusion, get medical help right away.
 
+Docetaxel injection may affect fertility in males.
+Talk to your healthcare provider if this is a concern for you.
+
 These are not all the possible side effects of docetaxel injection.
 For more information, ask your healthcare provider or pharmacist.
 
@@ -254,17 +163,19 @@ Active ingredient: docetaxel anhydrous, USP
 
 Inactive ingredients: citric acid anhydrous, dehydrated alcohol and polysorbate 80
 
-For more information, go to www.amneal.com or call toll-free 1-855-266-3251.
+For more information, go to www.amneal.com or call toll-free 1-877-835-5472.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Amneal Oncology Pvt.
 Ltd. Telangana 509301, INDIA
 
-Distributed by: Amneal Biosciences LLC Bridgewater, NJ 08807
+Distributed by:
+
+Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2018-01
+07-2019-02
 
 | Every three-week injection of docetaxel injection forbreast, non-small cell lung and stomach,and head and neck cancersTake your oral corticosteroid medicine as your healthcare provider tells you.Oral corticosteroid dosing:Day 1 Date: _____ Time: ___ AM _____ PMDay 2 Date: _____ Time: ___ AM _____ PM(Docetaxel Injection Treatment Day)Day 3 Date: _____ Time: ___ AM _____ PM |
 | --- |
