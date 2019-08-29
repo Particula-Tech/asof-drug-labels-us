@@ -25,7 +25,7 @@ Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-08-2019-02
+08-2019-01
 
 # PATIENT INFORMATION
 
@@ -202,4 +202,4 @@ Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-08-2019-02
+08-2019-01
