@@ -33,7 +33,22 @@ For patients who develop a QTc greater than 500 msec, immediately withhold treat
 Correct electrolyte abnormalities.
 When the QTc normalizes, resume TRISENOX at a reduced dose [see Dosage and Administration (2.2)].
 
-## 5.3 Hepatotoxicity
+## 5.3 Encephalopathy
+
+Serious encephalopathies were reported in patients receiving TRISENOX.
+Monitor patients for neurological symptoms such as confusion, decreased level of consciousness, seizures, cognitive deficits, ataxia, visual symptoms and ocular motor dysfunction.
+Advise patients and caregivers of the need for close observation.
+
+Wernicke’s Encephalopathy
+
+Wernicke’s encephalopathy occurred in patients receiving TRISENOX.
+Wernicke’s encephalopathy is a neurologic emergency that can be prevented and treated with thiamine.
+Consider testing thiamine levels in patients at risk for thiamine deficiency (e.g., chronic alcohol use, malabsorption, nutritional deficiency, concomitant use of furosemide).
+Administer parenteral thiamine in patients with or at risk for thiamine deficiency.
+Monitor patients for neurological symptoms and nutritional status while receiving TRISENOX.
+If Wernicke’s encephalopathy is suspected, immediately interrupt TRISENOX and initiate parenteral thiamine.
+
+## 5.4 Hepatotoxicity
 
 In the clinical trials, 44% of patients with newly-diagnosed low-risk APL treated with TRISENOX in combination with tretinoin experienced elevated aspartate aminotransferase (AST), alkaline phosphatase, and/or serum bilirubin.
 These abnormalities resolved with temporary discontinuation of TRISENOX and/or tretinoin.
@@ -43,12 +58,12 @@ Withhold treatment with TRISENOX and/or tretinoin if elevations in AST), alkalin
 Long-term liver abnormalities can occur in APL patients treated with TRISENOX in combination with tretinoin.
 In a published series, mild liver dysfunction and hepatic steatosis were seen in 15% and 43%, respectively, of patients at a median of 7 years (range 0-14 years) after treatment with arsenic trioxide in combination with tretinoin.
 
-## 5.4 Carcinogenesis
+## 5.5 Carcinogenesis
 
 The active ingredient of TRISENOX, arsenic trioxide, is a human carcinogen.
 Monitor patients for the development of second primary malignancies.
 
-## 5.5 Embryo-Fetal Toxicity
+## 5.6 Embryo-Fetal Toxicity
 
 TRISENOX can cause fetal harm when administered to a pregnant woman.
 Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m² basis.
