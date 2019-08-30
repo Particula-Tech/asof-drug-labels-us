@@ -29,19 +29,19 @@ Macular Edema
 Advise patients that GILENYA may cause macular edema, and that they should contact their physician if they experience any changes in their vision.
 Inform patients with diabetes mellitus or a history of uveitis that their risk of macular edema is increased [see Warnings and Precautions (5.4)].
 
+Hepatic Effects
+
+Inform patients that GILENYA may cause liver injury.
+Advise patients that they should contact their physician if they have any unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine [see Warnings and Precautions (5.5)].
+
 Posterior Reversible Encephalopathy Syndrome
 
 Advise patients to immediately report to their healthcare provider any symptoms involving sudden onset of severe headache, altered mental status, visual disturbances, or seizure.
-Inform patients that delayed treatment could lead to permanent neurological sequelae [see Warnings and Precautions (5.5)].
+Inform patients that delayed treatment could lead to permanent neurological sequelae [see Warnings and Precautions (5.6)].
 
 Respiratory Effects
 
-Advise patients that they should contact their physician if they experience new onset or worsening of dyspnea [see Warnings and Precautions (5.6)].
-
-Hepatic Effects
-
-Inform patients that GILENYA may increase liver enzymes.
-Advise patients that they should contact their physician if they have any unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine [see Warnings and Precautions (5.7)].
+Advise patients that they should contact their physician if they experience new onset or worsening of dyspnea [see Warnings and Precautions (5.7)].
 
 Fetal Risk
 
@@ -76,4 +76,4 @@ Pregnancy and Pregnancy Registry
 Instruct patients that if they are pregnant or plan to become pregnant while taking GILENYA they should inform their physician.
 Encourage patients to enroll in the GILENYA Pregnancy Registry if they become pregnant while taking GILENYA [see Use in Specific Populations (8.1)].
 
-T2019-18
+T2019-92

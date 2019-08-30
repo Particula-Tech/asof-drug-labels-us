@@ -83,7 +83,7 @@ Fingolimod-phosphate has a smaller uptake in blood cells of < 17%.
 Fingolimod and fingolimod-phosphate are > 99.7% protein bound.
 Fingolimod and fingolimod-phosphate protein binding is not altered by renal or hepatic impairment.
 
-Fingolimod is extensively distributed to body tissues with a volume of distribution of about 1200±260 L.
+Fingolimod is extensively distributed to body tissues with a volume of distribution of about 1200 ± 260 L.
 
 Metabolism
 
@@ -96,7 +96,7 @@ Following single oral administration of [14C] fingolimod, the major fingolimod-r
 
 Elimination
 
-Fingolimod blood clearance is 6.3±2.3 L/h, and the average apparent terminal half-life (t1/2) is 6 to 9 days.
+Fingolimod blood clearance is 6.3 ± 2.3 L/h, and the average apparent terminal half-life (t1/2) is 6 to 9 days.
 Blood levels of fingolimod-phosphate decline in parallel with those of fingolimod in the terminal phase, yielding similar half-lives for both.
 
 After oral administration, about 81% of the dose is slowly excreted in the urine as inactive metabolites.

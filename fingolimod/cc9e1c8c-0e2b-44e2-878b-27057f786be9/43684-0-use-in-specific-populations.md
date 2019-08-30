@@ -54,9 +54,9 @@ Since it takes approximately 2 months to eliminate the compound from the body af
 Safety and effectiveness of GILENYA for the treatment of relapsing forms of multiple sclerosis in pediatric patients 10 to less than 18 years of age were established in one randomized, double-blind clinical study in 215 patients (GILENYA n = 107; intramuscular interferon (IFN) beta-1a n = 108) [see Clinical Studies (14.2)].
 
 In the controlled pediatric study, the safety profile in pediatric patients (10 to less than 18 years of age) receiving GILENYA 0.25 mg or 0.5 mg daily was similar to that seen in adult patients.
-In the pediatric study, cases of seizures were reported in 5.6% of GILENYA treated patients and 0.9% of interferon beta-1a treated patients.
+In the pediatric study, cases of seizures were reported in 5.6% of GILENYA-treated patients and 0.9% of interferon beta-1a-treated patients.
 
-It is recommended that pediatric patients if possible, complete all immunizations in accordance with current immunization guidelines prior to initiating GILENYA therapy.
+It is recommended that pediatric patients, if possible, complete all immunizations in accordance with current immunization guidelines prior to initiating GILENYA therapy.
 
 Safety and effectiveness of GILENYA in pediatric patients below the age of 10 years have not been established.
 
@@ -78,7 +78,7 @@ GILENYA should be used with caution in patients aged 65 years and over, reflecti
 
 ## 8.6 Hepatic Impairment
 
-Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
+Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
 No dose adjustment is needed in patients with mild or moderate hepatic impairment.
 

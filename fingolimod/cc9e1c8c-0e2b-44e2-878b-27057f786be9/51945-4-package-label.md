@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0607-15
+NDC 0078-0607-15 Rx only
 
 GILENYA®
 
@@ -16,9 +16,11 @@ Equivalent to 0.56 mg fingolimod hydrochloride
 
 Dispense with enclosed Medication Guide.
 
+NOVARTIS
+
 PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0965-89
+NDC 0078-0965-89
 
 GILENYA®
 
@@ -32,6 +34,10 @@ Equivalent to 0.28 mg fingolimod hydrochloride
 
 7 Capsules
 
+Rx only
+
 This package includes a 1-week supply of capsules.
 
 Dispense with enclosed Medication Guide.
+
+NOVARTIS

@@ -14,6 +14,6 @@ Each 0.25 mg capsule contains 0.28 mg of fingolimod hydrochloride, equivalent to
 
 Each 0.5 mg capsule contains 0.56 mg of fingolimod hydrochloride, equivalent to 0.5 mg of fingolimod.
 
-Each GILENYA 0.25 mg capsule contains the following inactive ingredients: gelatin, hydroxypropylbetadex, hydroxypropylcellulose, magnesium stearate, mannitol, titanium dioxide, yellow iron oxide.
+Each GILENYA 0.25 mg capsule contains the following inactive ingredients: gelatin, hydroxypropylbetadex, hydroxypropylcellulose, magnesium stearate, mannitol, titanium dioxide, and yellow iron oxide.
 
-Each GILENYA 0.5 mg capsule contains the following inactive ingredients: gelatin, magnesium stearate, mannitol, titanium dioxide, yellow iron oxide.
+Each GILENYA 0.5 mg capsule contains the following inactive ingredients: gelatin, magnesium stearate, mannitol, titanium dioxide, and yellow iron oxide.

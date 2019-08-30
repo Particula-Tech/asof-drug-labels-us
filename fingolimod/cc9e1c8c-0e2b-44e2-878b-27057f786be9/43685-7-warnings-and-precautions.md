@@ -140,7 +140,30 @@ In the combined clinical trial experience in adult patients with all doses of fi
 GILENYA has not been tested in MS patients with diabetes mellitus.
 In addition to the examination of the fundus including the macula prior to treatment and at 3 to 4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
 
-## 5.5 Posterior Reversible Encephalopathy Syndrome
+## 5.5 Liver Injury
+
+Clinically significant liver injury has occurred in patients treated with Gilenya in the postmarketing setting.
+Signs of liver injury, including markedly elevated serum hepatic enzymes and elevated total bilirubin, have occurred as early as ten days after the first dose and have also been reported after prolonged use.
+Cases of acute liver failure requiring liver transplant have been reported.
+
+In 2-year placebo-controlled clinical trials in adult patients, elevation of liver enzymes (ALT, AST and GGT) to 3-fold the upper limit of normal (ULN) or greater occurred in 14% of patients treated with GILENYA 0.5 mg and 3% of patients on placebo.
+Elevations 5-fold the ULN or greater occurred in 4.5% of patients on GILENYA and 1% of patients on placebo.
+The majority of elevations occurred within 6 to 9 months.
+In clinical trials, GILENYA was discontinued if the elevation exceeded 5 times the ULN.
+Serum transaminase levels returned to normal within approximately 2 months after discontinuation of GILENYA.
+Recurrence of liver transaminase elevations occurred with rechallenge in some patients.
+
+Prior to starting treatment with GILENYA (within 6 months), obtain serum transaminases (ALT and AST) and total bilirubin levels.
+Obtain transaminase levels and total bilirubin levels periodically until two months after GILENYA discontinuation.
+
+Patients should be monitored for signs and symptoms of any hepatic injury.
+Measure liver transaminase and bilirubin levels promptly in patients who report symptoms that may indicate liver injury, including new or worsening fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
+In this clinical context, if the patient is found to have an alanine aminotransferase (ALT) greater than three times the reference range with serum total bilirubin greater than two times the reference range, treatment with GILENYA treatment should be interrupted.
+Treatment should not be resumed if a plausible alternative etiology for the signs and symptoms cannot be established, because these patients are at risk for severe drug-induced liver injury.
+
+Because GILENYA exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+
+## 5.6 Posterior Reversible Encephalopathy Syndrome
 
 There have been rare cases of posterior reversible encephalopathy syndrome (PRES) reported in adult patients receiving GILENYA.
 Symptoms reported included sudden onset of severe headache, altered mental status, visual disturbances, and seizure.
@@ -148,7 +171,7 @@ Symptoms of PRES are usually reversible but may evolve into ischemic stroke or c
 Delay in diagnosis and treatment may lead to permanent neurological sequelae.
 If PRES is suspected, GILENYA should be discontinued.
 
-## 5.6 Respiratory Effects
+## 5.7 Respiratory Effects
 
 Dose-dependent reductions in forced expiratory volume over 1 second (FEV1) and diffusion lung capacity for carbon monoxide (DLCO) were observed in patients treated with GILENYA as early as 1 month after treatment initiation.
 In 2-year placebo-controlled trials in adult patients, the reduction from baseline in the percent of predicted values for FEV1 at the time of last assessment on drug was 2.8% for GILENYA 0.5 mg and 1.0% for placebo.
@@ -160,26 +183,6 @@ Several patients discontinued GILENYA because of unexplained dyspnea during the 
 GILENYA has not been tested in MS patients with compromised respiratory function.
 
 Spirometric evaluation of respiratory function and evaluation of DLCO should be performed during therapy with GILENYA if clinically indicated.
-
-## 5.7 Liver Injury
-
-Elevations of liver enzymes may occur in patients receiving GILENYA.
-Recent (i.e., within last 6 months) transaminase and bilirubin levels should be available before initiation of GILENYA therapy.
-
-In 2-year placebo-controlled clinical trials in adult patients, elevation of liver transaminases to 3-fold the upper limit of normal (ULN) or greater occurred in 14% of patients treated with GILENYA 0.5 mg and 3% of patients on placebo.
-Elevations 5-fold the ULN or greater occurred in 4.5% of patients on GILENYA and 1% of patients on placebo.
-The majority of elevations occurred within 6 to 9 months.
-In clinical trials, GILENYA was discontinued if the elevation exceeded 5 times the ULN.
-Serum transaminase levels returned to normal within approximately 2 months after discontinuation of GILENYA.
-Recurrence of liver transaminase elevations occurred with rechallenge in some patients.
-
-Cases of liver injury with hepatocellular and/or cholestatic hepatitis have been reported with GILENYA in the postmarketing setting.
-
-Liver enzymes and bilirubin should be monitored in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
-GILENYA should be discontinued if significant liver injury is confirmed.
-Patients with preexisting liver disease may be at increased risk of developing elevated liver enzymes when taking GILENYA.
-
-Because GILENYA exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 5.8 Fetal Risk
 

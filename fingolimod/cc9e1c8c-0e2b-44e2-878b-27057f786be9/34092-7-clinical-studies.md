@@ -11,10 +11,10 @@ The primary endpoint was the annualized relapse rate.
 
 Median age was 37 years, median disease duration was 6.7 years and median EDSS score at baseline was 2.0.
 Patients were randomized to receive GILENYA 0.5 mg (N = 425), 1.25 mg (N = 429), or placebo (N = 418) for up to 24 months.
-Median time on study drug was 717 days on 0.5 mg, 715 days on 1.25 mg and 719 days on placebo.
+Median time on study drug was 717 days on 0.5 mg, 715 days on 1.25 mg, and 719 days on placebo.
 
 The annualized relapse rate was significantly lower in patients treated with GILENYA than in patients who received placebo.
-The secondary endpoint was the time to 3-month confirmed disability progression as measured by at least a 1-point increase from baseline in EDSS (0.5 point increase for patients with baseline EDSS of 5.5) sustained for 3 months.
+The secondary endpoint was the time to 3-month confirmed disability progression as measured by at least a 1-point increase from baseline in EDSS (0.5-point increase for patients with baseline EDSS of 5.5) sustained for 3 months.
 Time to onset of 3-month confirmed disability progression was significantly delayed with GILENYA treatment compared to placebo.
 The 1.25 mg dose resulted in no additional benefit over the GILENYA 0.5 mg dose.
 The results for this study are shown in Table 2 and Figure 1.
@@ -44,7 +44,7 @@ Patients were randomized to receive GILENYA 0.5 mg (N = 431), 1.25 mg (N = 426),
 Median time on study drug was 365 days on GILENYA 0.5 mg, 354 days on 1.25 mg, and 361 days on interferon beta-1a IM.
 
 The annualized relapse rate was significantly lower in patients treated with GILENYA 0.5 mg than in patients who received interferon beta-1a IM.
-The key secondary endpoints were number of new and newly enlarging T2 lesions and time to onset of 3-month confirmed disability progression as measured by at least a 1-point increase from baseline in EDSS (0.5 point increase for those with baseline EDSS of 5.5) sustained for 3 months.
+The key secondary endpoints were number of new and newly enlarging T2 lesions and time to onset of 3-month confirmed disability progression as measured by at least a 1-point increase from baseline in EDSS (0.5-point increase for those with baseline EDSS of 5.5) sustained for 3 months.
 The number of new and newly enlarging T2 lesions was significantly lower in patients treated with GILENYA than in patients who received interferon beta-1a IM.
 There was no significant difference in the time to 3-month confirmed disability progression between GILENYA and interferon beta-1a-treated patients at 1 year.
 The 1.25 mg dose resulted in no additional benefit over the GILENYA 0.5 mg dose.
@@ -86,7 +86,7 @@ The annualized rate of the number of new or newly enlarged T2 lesions up to mont
 
 Table 4 summarizes the results of Study 4.
 
-Table 4: Clinical and MRI results of Study 4
+Table 4: Clinical and MRI Results of Study 4
 
 |  | GILENYA 0.25 or 0.5 mg PO N = 107 | Interferon beta-1a 30 mcg IM N = 107 | p-value | Relative Reduction |
 | --- | --- | --- | --- | --- |
