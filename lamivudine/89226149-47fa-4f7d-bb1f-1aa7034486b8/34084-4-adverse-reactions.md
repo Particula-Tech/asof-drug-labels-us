@@ -4,9 +4,8 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 - •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.1)].
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.2)].
-- •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.3)].
-- •Pancreatitis [see Warnings and Precautions (5.4)].
-- •Immune reconstitution syndrome [see Warnings and Precautions (5.5)].
+- •Pancreatitis [see Warnings and Precautions (5.3)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience
 

@@ -31,7 +31,7 @@ Consider HIV-1 viral load and CD4+ cell count/percentage when selecting the dosi
 ## 2.3 Patients with Renal Impairment
 
 Dosing of EPIVIR is adjusted in accordance with renal function.
-Dosage adjustments are listed in Table 2[see Clinical Pharmacology (12.3)].
+Dosage adjustments are listed in Table 2 [see Clinical Pharmacology (12.3)].
 
 Table 2.
 Adjustment of Dosage of EPIVIR in Adults and Adolescents (Greater than or Equal to 25 kg) in Accordance with Creatinine Clearance

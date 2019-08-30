@@ -15,7 +15,7 @@ Results are summarized in Table 9.
 Table 9.
 Number of Subjects (%) with at Least One HIV-1 Disease Progression Event or Death
 
-| Endpoint | Current Therapy(n = 460) | EPIVIR plusCurrent Therapy(n = 896) | EPIVIR plus anNNRTIa plusCurrentTherapy(n = 460) |
+| Endpoint | Current Therapy(n = 460) | EPIVIR plusCurrent Therapy(n = 896) | EPIVIR plus anNNRTIa plusCurrent Therapy(n = 460) |
 | --- | --- | --- | --- |
 | HIV-1 progression or death | 90 (19.6%) | 86 (9.6%) | 41 (8.9%) |
 | Death | 27 (5.9%) | 23 (2.6%) | 14 (3.0%) |

@@ -7,8 +7,6 @@ Patients with Hepatitis B or C Co-infection
 Inform patients co‑infected with HIV‑1 and HBV that deterioration of liver disease has occurred in some cases when treatment with lamivudine was discontinued.
 Advise patients to discuss any changes in regimen with their healthcare provider [see Warnings and Precautions (5.1)].
 
-Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV‑1/HCV co-infected patients receiving combination antiretroviral therapy for HIV‑1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.3)].
-
 Differences in Formulations of EPIVIR
 
 Advise patients that EPIVIR tablets and oral solution contain a higher dose of the same active ingredient (lamivudine) as EPIVIR‑HBV tablets and oral solution.
@@ -21,15 +19,15 @@ Advise patients to stop taking EPIVIR if they develop clinical symptoms suggesti
 
 Risk of Pancreatitis
 
-Advise parents or guardians to monitor pediatric patients for signs and symptoms of pancreatitis [see Warnings and Precautions (5.4)].
+Advise parents or guardians to monitor pediatric patients for signs and symptoms of pancreatitis [see Warnings and Precautions (5.3)].
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when EPIVIR is started [see Warnings and Precautions (5.5)].
+Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when EPIVIR is started [see Warnings and Precautions (5.4)].
 
 Lower Virologic Suppression Rates and Increased Risk of Viral Resistance with Oral Solution
 
-Advise patients that an all-tablet regimen should be used when possible due to an increased rate of treatment failure among pediatric subjects who received EPIVIR oral solution concomitantly with other antiretroviral oral solutions [see Warnings and Precautions (5.6)].
+Advise patients that an all-tablet regimen should be used when possible due to an increased rate of treatment failure among pediatric subjects who received EPIVIR oral solution concomitantly with other antiretroviral oral solutions [see Warnings and Precautions (5.5)].
 
 Sucrose Content of EPIVIR Oral Solution
 
@@ -64,9 +62,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 ViiV Healthcare group of companies.
+©2019 ViiV Healthcare group of companies or its licensor.
 
-EPV:11PI
+EPV:12PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

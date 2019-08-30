@@ -84,7 +84,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 49702-205-48
 
-EPIVIR®
+EPIVIR
 
 (lamivudine)
 
@@ -102,7 +102,7 @@ Made in Canada
 
 Do not use if shrinkband on bottle is broken or missing.
 
-- ©2014, the ViiV Healthcare group of companies
+- ©2018 ViiV Healthcare group of companies or its licensor.
 
-1. 10000000131523 Rev.
-   12/14
+1. 62000000025189 Rev.
+   06/18
