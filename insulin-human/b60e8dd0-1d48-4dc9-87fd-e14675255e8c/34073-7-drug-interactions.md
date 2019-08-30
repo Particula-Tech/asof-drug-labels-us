@@ -2,7 +2,7 @@
 
 ## 7.1 Drugs That May Increase the Risk of Hypoglycemia
 
-The risk of hypoglycemia associated with HUMULIN R U-500 use may be increased with antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, propoxyphene, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics.
+The risk of hypoglycemia associated with HUMULIN R U-500 use may be increased with antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics.
 Dose adjustment and increased frequency of glucose monitoring may be required when HUMULIN R U-500 is co-administered with these drugs.
 
 ## 7.2 Drugs That May Decrease the Blood Glucose Lowering Effect of HUMULIN R U-500

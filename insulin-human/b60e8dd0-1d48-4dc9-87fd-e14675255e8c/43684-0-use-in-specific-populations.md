@@ -2,33 +2,38 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
-
 Risk Summary
 
-All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
-This background risk is increased in pregnancies complicated by hyperglycemia and may be decreased with good metabolic control.
-It is essential for patients with diabetes or history of gestational diabetes to maintain good metabolic control before conception and throughout pregnancy.
-In patients with diabetes or gestational diabetes, insulin requirements may decrease during the first trimester, generally increase during the second and third trimesters, and rapidly decline after delivery.
-Careful monitoring of glucose control is essential in these patients.
-Therefore, female patients should be advised to tell their physicians if they intend to become, or if they become pregnant while taking HUMULIN R U-500.
+Available data from published studies over decades have not established an association with human insulin use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+Animal reproduction studies were not performed.
+
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7% and has been reported to be as high as 20-25% in women with a HbA1c >10%.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia-related morbidity.
+
+Data
 
 Human Data
 
-While there are no adequate and well-controlled studies in pregnant women, evidence from published literature suggests that good glycemic control in patients with diabetes during pregnancy provides significant maternal and fetal benefits.
+While available studies cannot definitively establish the absence of risk, published data from retrospective studies, open-label, randomized, parallel studies and meta-analyses over decades have not established an association with human insulin use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+All available studies have methodological limitations, including lack of blinding, unclear methods or randomization, and small sample size.
 
-Animal Data
+## 8.2 Lactation
 
-Reproduction and fertility studies were not performed in animals.
+Risk Summary
 
-## 8.3 Nursing Mothers
-
-Endogenous insulin is present in human milk.
-Insulin orally ingested is degraded in the gastrointestinal tract.
-No adverse reactions associated with infant exposure to insulin through the consumption of human milk have been reported.
-In a study of eight preterm infants between 26 to 30 weeks gestation, enteral administration of biosynthetic human insulin did not result in hypoglycemia.
-Good glucose control supports lactation in patients with diabetes.
-Women with diabetes who are lactating may require adjustments in their insulin dose.
+Available data from published literature suggests that exogenous human insulin products, including HUMULIN R, are transferred into human milk.
+There are no adverse reactions reported in breastfed infants in the literature.
+There are no data on the effects of exogenous human insulin products, including HUMULIN R on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for HUMULIN R and any potential adverse effects on the breastfed child from HUMULIN R or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

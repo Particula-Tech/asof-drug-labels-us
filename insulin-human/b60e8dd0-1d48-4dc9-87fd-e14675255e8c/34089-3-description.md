@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-HUMULIN R U-500 (insulin human injection, USP) is a human insulin solution used to lower blood glucose.
+HUMULIN R U-500 (insulin human injection) is a human insulin solution used to lower blood glucose.
 Human insulin is produced by recombinant DNA technology utilizing a non-pathogenic laboratory strain of Escherichia coli.
 HUMULIN R has the empirical formula C257H383N65O77S6 with a molecular weight of 5808.
 

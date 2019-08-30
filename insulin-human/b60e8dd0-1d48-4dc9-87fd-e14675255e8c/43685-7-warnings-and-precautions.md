@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hyperglycemia, Hypoglycemia or Death due to Dosing Errors with the Vial Presentation
+## 5.1 Hyperglycemia, Hypoglycemia or Death Due to Dosing Errors with the Vial Presentation
 
 Medication errors associated with the HUMULIN R U-500 vial presentation resulting in patients experiencing hyperglycemia, hypoglycemia or death have been reported.
 The majority of errors occurred due to errors in dispensing, prescribing or administration.
@@ -27,7 +27,7 @@ Use only a U-500 insulin syringe with HUMULIN R U-500 to avoid administration er
 Do not use any other type of syringe to administer Humulin R U-500.
 Adhere to administration instructions [see Dosage and Administration (2.1, 2.4)].
 
-Instruct the patient to inform hospital or emergency department staff of the dose of HUMULIN R U-500 prescribed, in the event of a future hospitalization or visit to the Emergency Department.
+Instruct the patient to inform hospital or emergency department staff of the dose of HUMULIN R U-500 prescribed, in the event of a future hospitalization or visit to the emergency department.
 
 ## 5.2 Never Share a HUMULIN R U-500 KwikPen or U-500 Insulin Syringe Between Patients
 

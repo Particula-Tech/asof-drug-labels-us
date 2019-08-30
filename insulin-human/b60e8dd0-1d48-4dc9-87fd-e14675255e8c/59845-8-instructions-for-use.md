@@ -321,14 +321,14 @@ Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 2015, 2018 Eli Lilly and Company.
+Copyright © 2015, 2019, Eli Lilly and Company.
 All rights reserved.
 
 | HUMULIN R U-500 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
 | --- |
 
-Document revision date: November 2018
+Document revision date: August 2019
 
 Lilly (red script)
 
-LINR500KP-0002-IFU-20181106
+LINR500KP-0003-IFU-20190822

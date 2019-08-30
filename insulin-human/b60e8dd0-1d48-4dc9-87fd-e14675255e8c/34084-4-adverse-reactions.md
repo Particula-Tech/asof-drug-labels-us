@@ -10,11 +10,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including HUMULIN R U-500 [see Warnings and Precautions (5.4)].
+Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including HUMULIN R U-500.
 
 Allergic Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, rash, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including HUMULIN R U-500 and may be life threatening [see Warnings and Precautions (5.5)].
+Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, rash, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including HUMULIN R U-500 and may be life threatening.
 
 Lipodystrophy
 

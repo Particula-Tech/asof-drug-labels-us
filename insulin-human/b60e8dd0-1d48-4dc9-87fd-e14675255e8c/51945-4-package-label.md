@@ -6,7 +6,7 @@ NDC 0002-8501-01
 
 Humulin® R U-500
 
-insulin human injection, USP
+insulin human injection
 
 10,000 units per 20 mL
 
@@ -34,7 +34,7 @@ NDC 0002-8824-27
 
 Humulin®R U-500 KwikPen®
 
-insulin human injection, USP
+insulin human injection
 
 For Single Patient Use Only
 

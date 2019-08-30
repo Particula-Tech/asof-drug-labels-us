@@ -15,20 +15,16 @@ Patients should be instructed on self-management procedures including glucose mo
 Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals.
 Refer patients to the HUMULIN R U-500 Patient Information Leaflet for additional information [see Warnings and Precautions (5)].
 
-Women with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Never use HUMULIN R U-500 if it has become viscous (thickened) or cloudy; use it only if it is clear and colorless.
-
-HUMULIN R U-500 should not be used after the printed expiration date.
+Inspect HUMULIN R U-500 visually for particulate matter and discoloration.
+Only use HUMULIN R U-500 if the solution appears clear and colorless.
 
 Do not dilute or mix HUMULIN R U-500 with any other insulin products or solutions [see Dosage and Administration (2.1)].
 
-Literature Revised: November 2018
+Literature Revised: August 2019
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 1997, 2018, Eli Lilly and Company.
+Copyright © 1997, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LINR500-0006-USPI-20181106
+LINR500-0007-USPI-20190822

@@ -2,11 +2,11 @@
 
 ## 16.1 How Supplied
 
-HUMULIN R U-500 (500 units per mL) is available as:
+HUMULIN R U-500 (500 units per mL) injection is available in a clear, colorless solution as:
 
-| 2 x 3 mL HUMULIN R U-500 KwikPen (prefilled) | NDC 0002-8824-27 |
+| 2 x 3 mL single-patient-use HUMULIN R U-500 KwikPen | NDC 0002-8824-27 |
 | --- | --- |
-| 20 mL multiple dose vials | NDC 0002-8501-01 |
+| 20 mL multiple-dose vial | NDC 0002-8501-01 |
 
 The HUMULIN R U-500 KwikPen dials in 5 unit increments.
 
@@ -65,5 +65,5 @@ See storage table below:
 
 |  | Not In-Use (Unopened) Refrigerated | In-Use (Opened) |
 | --- | --- | --- |
-| 3 mL HUMULIN R U-500 KwikPen (prefilled) | Until expiration date | 28 days, room temperature. Do not refrigerate. |
-| 20 mL multiple dose vial | Until expiration date | 40 days, refrigerated or room temperature |
+| 3 mL single-patient-use HUMULIN R U-500 KwikPen | Until expiration date | 28 days, room temperature. Do not refrigerate. |
+| 20 mL multiple-dose vial | Until expiration date | 40 days, refrigerated or room temperature |
