@@ -52,3 +52,6 @@ Stability
   Discard any unused portion.
 - Store reconstituted product diluted for infusion at approximately 20°C to 25°C (68°F to 77°F) protected from light for no more than 24 hours.
   Discard after 24 hours.
+
+HYCAMTIN for injection is a cytotoxic drug.
+Follow applicable handling and disposal procedures.

@@ -2,6 +2,8 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0674-61
 
+4 mg
+
 HYCAMTIN®
 
 TOPOTECAN
@@ -14,4 +16,4 @@ For Intravenous Use
 
 Rx only
 
-Novartis
+NOVARTIS
