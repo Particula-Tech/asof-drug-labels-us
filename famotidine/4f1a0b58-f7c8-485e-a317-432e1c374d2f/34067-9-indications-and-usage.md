@@ -1,16 +1,19 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-PEPCID is indicated in:
+PEPCID for oral suspension is indicated in adults for the treatment of:
 
-1. Short-term treatment of active duodenal ulcer.
-   Most adult patients heal within 4 weeks; there is rarely reason to use PEPCID at full dosage for longer than 6 to 8 weeks.
-   Studies have not assessed the safety of famotidine in uncomplicated active duodenal ulcer for periods of more than eight weeks.
-2. Maintenance therapy for duodenal ulcer patients at reduced dosage after healing of an active ulcer.
-   Controlled studies in adults have not extended beyond one year.
-3. Short-term treatment of active benign gastric ulcer.
-   Most adult patients heal within 6 weeks.
-   Studies have not assessed the safety or efficacy of famotidine in uncomplicated active benign gastric ulcer for periods of more than 8 weeks.
-4. Short-term treatment of gastroesophageal reflux disease (GERD).
-   PEPCID is indicated for short-term treatment of patients with symptoms of GERD (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
-   PEPCID is also indicated for the short-term treatment of esophagitis due to GERD including erosive or ulcerative disease diagnosed by endoscopy (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
-5. Treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison Syndrome, multiple endocrine adenomas) (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
+- •active duodenal ulcer (DU).
+- •active gastric ulcer (GU).
+- •symptomatic nonerosive gastroesophageal reflux disease (GERD).
+- •erosive esophagitis due to GERD, diagnosed by biopsy.
+- •treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison syndrome, multiple endocrineneoplasias).
+- •reduction of the risk of duodenal ulcer recurrence.
+
+PEPCID for oral suspension is indicated in pediatric patients 1 year of age and older for the treatment of:
+
+- •peptic ulcer disease.
+- •GERD with or without esophagitis and ulcerations.
+
+PEPCID for oral suspension is indicated in pediatric patients from birth to less than 1 year of age for the treatment of:
+
+- •GERD.
