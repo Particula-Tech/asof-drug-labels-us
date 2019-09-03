@@ -12,5 +12,3 @@ All other product/brand names are trademarks of their respective owners.
 Part No. 13EP3454D
 
 9603100
-
-Revised August 2019
