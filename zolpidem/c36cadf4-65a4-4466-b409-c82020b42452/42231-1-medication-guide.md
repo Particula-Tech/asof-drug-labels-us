@@ -12,9 +12,10 @@ What is the most important information I should know about AMBIEN?
 
 AMBIEN may cause serious side effects, including:
 
-- After taking AMBIEN, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+- complex sleep behaviors that have caused serious injury and death.
+  After taking AMBIEN, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing (complex sleep behaviors).
   The next morning, you may not remember that you did anything during the night.
-  You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with AMBIEN.
+  These activities may occur with AMBIEN whether or not you drink alcohol or take other medicines that make you sleepy.
   Reported activities include:
   - driving a car ("sleep-driving")
   - making and eating food
@@ -22,10 +23,11 @@ AMBIEN may cause serious side effects, including:
   - having sex
   - sleep-walking
 
-Call your healthcare provider right away if you find out that you have done any of the above activities after taking AMBIEN.
+Stop taking AMBIEN and call your healthcare provider right away if you find out that you have done any of the above activities after taking AMBIEN.
 
 Do not take AMBIEN if you:
 
+- have ever experienced a complex sleep behavior (such as driving a car, making and eating food, talking on the phone, or having sex while not being fully awake) after taking AMBIEN.
 - drank alcohol that evening or before bed
 - took another medicine to help you sleep
 
@@ -156,6 +158,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Revised: February 2019
+Revised: August 2019
 
 ©2019 sanofi-aventis U.S. LLC
