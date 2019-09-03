@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020237"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "Concordia Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59212-705-10",
+    "59212-775-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pilocarpine hydrochloride",
+      "name": "Salagen"
+    }
+  ],
+  "setid": "62eda83d-d043-4c7e-8fcf-75d05efbf35b",
+  "source": "dailymed"
+}
