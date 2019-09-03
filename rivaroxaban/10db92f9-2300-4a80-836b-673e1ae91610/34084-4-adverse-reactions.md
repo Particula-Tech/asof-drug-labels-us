@@ -2,9 +2,9 @@
 
 The following clinically significant adverse reactions are also discussed in other sections of the labeling:
 
-- Increased risk of stroke after discontinuation in nonvalvular atrial fibrillation [see Boxed Warning and Warnings and Precautions (5.1)]
-- Bleeding risk [see Warnings and Precautions (5.2, 5.4, 5.5, 5.6, 5.7)]
-- Spinal/epidural hematoma [see Boxed Warning and Warnings and Precautions (5.3)]
+- Increased Risk of Stroke After Discontinuation in Nonvalvular Atrial Fibrillation [see Boxed Warning and Warnings and Precautions (5.1)]
+- Bleeding Risk [see Warnings and Precautions (5.2, 5.4, 5.5, 5.6, 5.7)]
+- Spinal/Epidural Hematoma [see Boxed Warning and Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 

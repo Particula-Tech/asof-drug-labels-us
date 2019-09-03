@@ -87,3 +87,8 @@ Therefore, use of XARELTO is not recommended in these patients.
 ## 5.9 Acute PE in Hemodynamically Unstable Patients or Patients Who Require Thrombolysis or Pulmonary Embolectomy
 
 Initiation of XARELTO is not recommended acutely as an alternative to unfractionated heparin in patients with pulmonary embolism who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.
+
+## 5.10 Increased Risk of Thrombosis in Patients with Antiphospholipid Syndrome
+
+Direct-acting oral anticoagulants (DOACs), including XARELTO, are not recommended for use in patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome (APS).
+For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardiolipin, and anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with an increased rate of recurrent thrombotic events compared with vitamin K antagonist therapy.
