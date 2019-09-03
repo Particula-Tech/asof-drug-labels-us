@@ -1,12 +1,22 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 CNS-Depressant Effects and Next-Day Impairment
+## 5.1 Complex Sleep Behaviors
 
-AMBIEN CR is a central nervous system (CNS) depressant and can impair daytime function in some patients even when used as prescribed.
+Complex sleep behaviors, including sleep-walking, sleep-driving, and engaging in other activities while not fully awake, may occur following the first or any subsequent use of AMBIEN CR.
+Patients can be seriously injured or injure others during complex sleep behaviors.
+Such injuries may result in a fatal outcome.
+Other complex sleep behaviors (e.g., preparing and eating food, making phone calls, or having sex) have also been reported.
+Patients usually do not remember these events.
+Postmarketing reports have shown that complex sleep behaviors may occur with AMBIEN CR alone at recommended doses, with or without the concomitant use of alcohol or other central nervous system (CNS) depressants [see Drug Interactions (7.1)].
+Discontinue AMBIEN CR immediately if a patient experiences a complex sleep behavior [see Contraindications (4)].
+
+## 5.2 CNS-Depressant Effects and Next-Day Impairment
+
+AMBIEN CR is a CNS depressant and can impair daytime function in some patients even when used as prescribed.
 Prescribers should monitor for excess depressant effects, but impairment can occur in the absence of subjective symptoms, and may not be reliably detected by ordinary clinical exam (i.e. less than formal psychomotor testing).
 While pharmacodynamic tolerance or adaptation to some adverse depressant effects of AMBIEN CR may develop, patients using AMBIEN CR should be cautioned against driving or engaging in other hazardous activities or activities requiring complete mental alertness the day after use.
 
-Additive effects occur with concomitant use of other CNS depressants (e.g. benzodiazepines, opioids, tricyclic antidepressants, alcohol), including daytime use.
+Additive effects occur with concomitant use of other CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants, alcohol), including daytime use [see Drug Interactions (7.1)].
 Downward dose adjustment of AMBIEN CR and concomitant CNS depressants should be considered [see Dosage and Administration (2.3)].
 
 The use of AMBIEN CR with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended.
@@ -19,14 +29,14 @@ In order to minimize this risk a full night of sleep (7–8 hours) is recommende
 
 Because AMBIEN CR can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
 
-## 5.2 Need to Evaluate for Comorbid Diagnoses
+## 5.3 Need to Evaluate for Comorbid Diagnoses
 
 Because sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient.
 The failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated.
 Worsening of insomnia or the emergence of new thinking or behavior abnormalities may be the consequence of an unrecognized psychiatric or physical disorder.
 Such findings have emerged during the course of treatment with sedative/hypnotic drugs, including zolpidem.
 
-## 5.3 Severe Anaphylactic and Anaphylactoid Reactions
+## 5.4 Severe Anaphylactic and Anaphylactoid Reactions
 
 Cases of angioedema involving the tongue, glottis or larynx have been reported in patients after taking the first or subsequent doses of sedative-hypnotics, including zolpidem.
 Some patients have had additional symptoms such as dyspnea, throat closing or nausea and vomiting that suggest anaphylaxis.
@@ -34,7 +44,7 @@ Some patients have required medical therapy in the emergency department.
 If angioedema involves the throat, glottis or larynx, airway obstruction may occur and be fatal.
 Patients who develop angioedema after treatment with zolpidem should not be rechallenged with the drug.
 
-## 5.4 Abnormal Thinking and Behavioral Changes
+## 5.5 Abnormal Thinking and Behavioral Changes
 
 Abnormal thinking and behavior changes have been reported in patients treated with sedative/hypnotics, including AMBIEN CR.
 Some of these changes included decreased inhibition (e.g., aggressiveness and extroversion that seemed out of character), bizarre behavior, agitation and depersonalization.
@@ -43,37 +53,29 @@ Visual and auditory hallucinations have been reported.
 In controlled trials, <1% of adults with insomnia reported hallucinations.
 In a clinical trial, 7% of pediatric patients treated with Ambien 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see Use in Specific Populations (8.4)].
 
-Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported in sedative-hypnotic–naive as well as in sedative-hypnotic–experienced persons.
-Although behaviors such as "sleep-driving" have occurred with AMBIEN CR alone at therapeutic doses, the coadministration of alcohol and other CNS depressants increases the risk of such behaviors, as does the use of AMBIEN CR at doses exceeding the maximum recommended dose.
-Due to the risk to the patient and the community, discontinuation of AMBIEN CR should be strongly considered for patients who report a "sleep-driving" episode.
-
-Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
-As with "sleep-driving," patients usually do not remember these events.
-Amnesia, anxiety and other neuro-psychiatric symptoms may also occur.
-
 It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder.
 Nonetheless, the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.
 
-## 5.5 Use in Patients with Depression
+## 5.6 Use in Patients with Depression
 
 In primarily depressed patients treated with sedative-hypnotics, worsening of depression, and suicidal thoughts and actions (including completed suicides), have been reported.
 Suicidal tendencies may be present in such patients and protective measures may be required.
 Intentional overdosage is more common in this group of patients; therefore, the lowest number of tablets that is feasible should be prescribed for the patient at any one time.
 
-## 5.6 Respiratory Depression
+## 5.7 Respiratory Depression
 
 Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90%, was observed in patients with mild to moderate sleep apnea when treated with zolpidem compared to placebo.
 Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if AMBIEN CR is prescribed to patients with compromised respiratory function.
 Postmarketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
 The risk of respiratory depression should be considered prior to prescribing AMBIEN CR in patients with respiratory impairment including sleep apnea and myasthenia gravis.
 
-## 5.7 Precipitation of Hepatic Encephalopathy
+## 5.8 Precipitation of Hepatic Encephalopathy
 
 Drugs affecting GABA receptors, such as zolpidem tartrate, have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
 In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
 Avoid AMBIEN CR use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
-## 5.8 Withdrawal Effects
+## 5.9 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
 Monitor patients for tolerance, abuse, and dependence [see Drug Abuse and Dependence (9.2, 9.3)].

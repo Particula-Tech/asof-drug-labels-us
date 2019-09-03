@@ -12,24 +12,25 @@ What is the most important information I should know about AMBIEN CR?
 - Do not take AMBIEN CR unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
 - Take AMBIEN CR right before you get in bed, not sooner.
 
-AMBIEN CR may cause serious side effects that you may not know are happening to you.
-These side effects include:
+AMBIEN CR may cause serious side effects including complex sleep behaviors that have caused serious injury and death.
+After taking AMBIEN CR, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing (complex sleep behaviors).
+The next morning, you may not remember that you did anything during the night.
+These activities may occur with AMBIEN CR whether or not you drink alcohol or take other medicines that make you sleepy.
+Reported activities include:
 
-- sleepiness during the day
-- not thinking clearly
-- act strangely, confused, or upset
-- "sleep-walking" or doing other activities when you are asleep like:
-  - eating
-  - talking
-  - having sex
-  - driving a car
+- driving a car ("sleep-driving")
+- making and eating food
+- talking on the phone
+- having sex
+- sleep-walking
 
-Call your healthcare provider right away if you find out that you have done any of the above activities after taking AMBIEN CR.
+Stop taking AMBIEN CR and call your healthcare provider right away if you find out that you have done any of the above activities after taking AMBIEN CR.
 
 You should not drive a car or do things that require clear thinking the day after you take AMBIEN CR.
 
 Do not take AMBIEN CR if you:
 
+- have ever experienced a complex sleep behavior (such as driving a car, making and eating food, talking on the phone, or having sex while not being fully awake) after taking AMBIEN CR.
 - drank alcohol that evening or before bed.
 - take other medicines that can make you sleepy.
   Taking AMBIEN CR with other drugs can cause side effects.
@@ -107,7 +108,7 @@ AMBIEN CR may cause serious side effects including:
 - getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
   (See "What is the most important information I should know about AMBIEN CR?")
 - abnormal thoughts and behavior.
-  Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
+  Symptoms include more outgoing or aggressive behavior than normal, confusion, acting strangely, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
 - memory loss
 - anxiety
 - severe allergic reactions.
@@ -175,6 +176,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Revised: February 2019
+Revised: August 2019
 
 ©2019 sanofi-aventis U.S. LLC
