@@ -8,4 +8,5 @@ NDC 49884-358-03 Carton of 50 unit dose packets
 
 ## 16.2 Storage and Handling
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature].

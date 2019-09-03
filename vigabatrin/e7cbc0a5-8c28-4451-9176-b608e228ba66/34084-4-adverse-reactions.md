@@ -32,7 +32,7 @@ Table 5 lists the adverse reactions that occurred in ≥2% and more than one pat
 Table 5.
 Adverse Reactions in Pooled, Add-On Trials in Adults with Refractory Complex Partial Seizures
 
-| Body System Adverse Reaction | 3000 [N=134] % | 6000 [N=43] % | Placebo [N=135] % |
+| Body System Adverse Reaction | 3,000 [N=134] % | 6,000 [N=43] % | Placebo [N=135] % |
 | --- | --- | --- | --- |
 | Vigabatrin dosage (mg/day) |  |  |  |
 | Ear Disorders |  |  |  |
@@ -151,7 +151,7 @@ Adverse Reactions in Pooled, Add-On Trials in Pediatric Patients 10 to 16 Years 
 | Influenza | 6 | 2 |
 | Otitis media | 6 | 2 |
 | Investigations |  |  |
-| Weight increased | 17 | 2 |
+| Weight gain | 17 | 2 |
 | Nervous System Disorders |  |  |
 | Somnolence | 6 | 2 |
 | Tremor | 6 | 0 |
@@ -176,7 +176,7 @@ The adverse reactions (≥5% in either dose group) are summarized in Table 7.
 Table 7.
 Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasms
 
-| Body System Adverse Reaction | Vigabatrin Low Dose[N=114]% | Vigabatrin High Dose [N=108] % |
+| Body System Adverse Reaction | Vigabatrin Low Dose[N=114]% | Vigabatrin High Dose[N=108]% |
 | --- | --- | --- |
 | Eye Disorders (other than field or acuity changes) |  |  |
 | Strabismus | 5 | 5 |

@@ -80,11 +80,16 @@ For adults treated with vigabatrin, routine MRI surveillance is unnecessary as t
 
 ## 5.4 Neurotoxicity
 
+Intramyelinic edema (IME) has been reported in postmortem examination of infants being treated for IS with vigabatrin.
+
+Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have also been observed in some infants treated for IS with vigabatrin.
+Studies of the effects of vigabatrin on MRI and evoked potentials (EP) in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
+
 Vacuolation, characterized by fluid accumulation and separation of the outer layers of myelin, has been observed in brain white matter tracts in adult and juvenile rats and adult mice, dogs, and possibly monkeys following administration of vigabatrin.
 This lesion, referred to as intramyelinic edema (IME), was seen in animals at doses within the human therapeutic range.
 A no-effect dose was not established in rodents or dogs.
 In the rat and dog, vacuolation was reversible following discontinuation of vigabatrin treatment, but, in the rat, pathologic changes consisting of swollen or degenerating axons, mineralization, and gliosis were seen in brain areas in which vacuolation had been previously observed.
-Vacuolation in adult animals was correlated with alterations in MRI and changes in visual and somatosensory evoked potentials (EP).
+Vacuolation in adult animals was correlated with alterations in MRI and changes in visual and somatosensory EP.
 
 Administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the brain gray matter (including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the IME observed in vigabatrin treated adult animals.
 Decreased myelination and evidence of oligodendrocyte injury were additional findings in the brains of vigabatrin-treated rats.
@@ -97,9 +102,6 @@ These effects in young animals occurred at doses lower than those producing neur
 In a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodegeneration in the brain of young rats when administered by intraperitoneal injection on postnatal days 5-7.
 
 Administration of vigabatrin to female rats during pregnancy and lactation at doses below those used clinically resulted in hippocampal vacuolation and convulsions in the mature offspring.
-
-Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated for IS with vigabatrin.
-Studies of the effects of vigabatrin on MRI and EP in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
 
 ## 5.5 Suicidal Behavior and Ideation
 
@@ -121,7 +123,7 @@ Table 4 shows absolute and relative risk by indication for all evaluated AEDs.
 Table 4.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | EpilepsyPsychiatricOtherTotal | 1.05.71.02.4 | 3.48.51.84.3 | 3.51.51.91.8 | 2.42.90.91.9 |
 
@@ -140,7 +142,7 @@ As with all AEDs, vigabatrin should be withdrawn gradually.
 However, if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
 Patients and caregivers should be told not to suddenly discontinue vigabatrin therapy.
 
-In controlled clinical studies in adults with complex partial seizures, vigabatrin was tapered by decreasing the daily dose 1000 mg/day on a weekly basis until discontinued.
+In controlled clinical studies in adults with complex partial seizures, vigabatrin was tapered by decreasing the daily dose 1,000 mg/day on a weekly basis until discontinued.
 
 In a controlled study in pediatric patients with complex partial seizures, vigabatrin was tapered by decreasing the daily dose by one third every week for three weeks.
 
@@ -151,7 +153,7 @@ In a controlled clinical study in patients with infantile spasms, vigabatrin was
 In North American controlled trials in adults, 6% of patients (16/280) receiving vigabatrin and 2% of patients (3/188) receiving placebo had adverse events of anemia and/or met criteria for potentially clinically important hematology changes involving hemoglobin, hematocrit, and/or RBC indices.
 Across U.S. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in vigabatrin and placebo treated patients, respectively, and a mean decrease in hematocrit of about 1% in vigabatrin treated patients compared to a mean gain of about 1% in patients treated with placebo.
 
-In controlled and open label epilepsy trials in adults and pediatric patients, 3 vigabatrin patients (0.06%, 3/4855) discontinued for anemia and 2 vigabatrin patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
+In controlled and open label epilepsy trials in adults and pediatric patients, 3 vigabatrin patients (0.06%, 3/4,855) discontinued for anemia and 2 vigabatrin patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
 
 ## 5.8 Somnolence and Fatigue
 
@@ -185,7 +187,7 @@ In these same trials, the mean weight change among vigabatrin patients was 3.5 k
 
 Data pooled from randomized controlled trials in pediatric patients with refractory complex partial seizures found that 47% (77/163) of vigabatrin patients versus 19% (19/102) of placebo patients gained ≥7% of baseline body weight.
 
-In all epilepsy trials, 0.6% (31/4855) of vigabatrin patients discontinued for weight gain.
+In all epilepsy trials, 0.6% (31/4,855) of vigabatrin patients discontinued for weight gain.
 The long term effects of vigabatrin related weight gain are not known.
 Weight gain was not related to the occurrence of edema.
 

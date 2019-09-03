@@ -15,7 +15,6 @@ Important Note:
 - Each packet contains 500 mg of vigabatrin powder
 - Vigabatrin for oral solution powder must be mixed with water only.
   The water may be cold or at room temperature.
-
 - Your healthcare provider will tell you:
 
 - how many packets of vigabatrin for oral solution you will need for each dose
@@ -141,6 +140,6 @@ Mfg.
 Lic.
 No.: TN00002121
 
-OS358-01-74-04
+OS358-01-74-05
 
-Revised: 05/2019
+Revised: 08/2019

@@ -83,7 +83,7 @@ Call a healthcare provider right away if you or your child have any of these sym
 - feeling agitated or restless
 - trouble sleeping (insomnia)
 - acting aggressive, being angry, or violent
-- an extreme increase in activity and talking(mania)
+- an extreme increase in activity and talking (mania)
 - attempts to commit suicide
 - new or worse anxiety
 - panic attacks
@@ -110,7 +110,7 @@ What is vigabatrin for oral solution?
 - The CPS does not respond well enough to several other treatments, and
 - You and your healthcare provider decide the possible benefit of taking vigabatrin for oral solution is more important than the risk of vision loss.
 
-- Vigabatrin for oral solution should not be the first medicine used to treat CPS.
+Vigabatrin for oral solution should not be the first medicine used to treat CPS.
 
 - Vigabatrin for oral solution is also used to treat babies 1 month to 2 years of age who have infantile spasms (IS) if you and your healthcare provider decide the possible benefits of taking vigabatrin for oral solution are more important than the possible risk of vision loss.
 
@@ -248,6 +248,7 @@ You can ask your pharmacist or healthcare provider for information about vigabat
 Do not use vigabatrin for oral solution for a condition for which it was not prescribed.
 Do not give vigabatrin for oral solution to other people, even if they have the same symptoms that you have.
 It may harm them.
+
 For more information, call Par Pharmaceutical at 1-800-828-9393.
 
 What are the ingredients in vigabatrin for oral solution?

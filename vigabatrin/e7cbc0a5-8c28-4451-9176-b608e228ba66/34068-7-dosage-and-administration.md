@@ -27,17 +27,17 @@ If a decision is made to discontinue vigabatrin for oral solution, the dose shou
 
 Adults (Patients 17 Years of Age and Older)
 
-Treatment should be initiated at 1000 mg/day (500 mg twice daily).
+Treatment should be initiated at 1,000 mg/day (500 mg twice daily).
 Total daily dose may be increased in 500 mg increments at weekly intervals, depending on response.
-The recommended dose of vigabatrin for oral solution in adults is 3000 mg/day (1500 mg twice daily).
-A 6000 mg/day dose has not been shown to confer additional benefit compared to the 3000 mg/day dose and is associated with an increased incidence of adverse events.
+The recommended dose of vigabatrin for oral solution in adults is 3,000 mg/day (1,500 mg twice daily).
+A 6,000 mg/day dose has not been shown to confer additional benefit compared to the 3,000 mg/day dose and is associated with an increased incidence of adverse events.
 
-In controlled clinical studies in adults with complex partial seizures, vigabatrin for oral solution was tapered by decreasing the daily dose 1000 mg/day on a weekly basis until discontinued [see Warnings and Precautions (5.6)].
+In controlled clinical studies in adults with complex partial seizures, vigabatrin for oral solution was tapered by decreasing the daily dose 1,000 mg/day on a weekly basis until discontinued [see Warnings and Precautions (5.6)].
 
 Pediatric (Patients 10 to 16 Years of Age)
 
 Treatment is based on body weight as shown in Table 1.
-Treatment should be initiated at a total daily dose of 500 mg/day (250 mg twice daily) and may be increased weekly in 500 mg/day increments to a total maintenance dose of 2000 mg/day (1000 mg twice daily).
+Treatment should be initiated at a total daily dose of 500 mg/day (250 mg twice daily) and may be increased weekly in 500 mg/day increments to a total maintenance dose of 2,000 mg/day (1,000 mg twice daily).
 Patients weighing more than 60 kg should be dosed according to adult recommendations.
 
 Table 1.
@@ -45,11 +45,11 @@ Pediatric CPS Dosing Recommendations
 
 | Body Weight [kg] | Total Daily*Starting Dose [mg/day] | Total Daily*Maintenance Dose† [mg/day] |
 | --- | --- | --- |
-| 25 to 60†† | 500 | 2000 |
+| 25 to 60†† | 500 | 2,000 |
 
 *Administered in two divided doses.
 
-†Maintenance dose is based on 3000 mg/day adult-equivalent dose
+†Maintenance dose is based on 3,000 mg/day adult-equivalent dose
 
 †† Patients weighing more than 60 kg should be dosed according to adult recommendations
 
@@ -135,8 +135,8 @@ Number of Vigabatrin for Oral Solution Packets and mL of Water Needed for Each I
 | Individual Dose [mg][Given Twice Daily] | Total Number of Vigabatrin for Oral Solution Packets | Total mL of WaterRequired for Dissolving |
 | --- | --- | --- |
 | 0 to 500 | 1 Packet | 10 mL |
-| 501 to 1000 | 2 Packet | 20 mL |
-| 1001 to 1500 | 3 Packet | 30 mL |
+| 501 to 1,000 | 2 Packets | 20 mL |
+| 1,001 to 1,500 | 3 Packets | 30 mL |
 
 Discard the resulting solution if it is not clear (or free of particles) and colorless.
 Each individual dose should be prepared and used immediately.
