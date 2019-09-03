@@ -23,9 +23,13 @@ Ciprofloxacin tablets may be administered to adult patients when clinically indi
 | Urinary Tract Infections | 250-500 mg | every 12 hours | 7 to 14 days |
 | Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
 | Acute Sinusitis | 500 mg | every 12 hours | 10 days |
-| 1. Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |  |  |  |
-| 2. Used in conjunction with metronidazole. |  |  |  |
-| 3. Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
+
+1.
+Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure).
+2.
+Used in conjunction with metronidazole.
+3.
+Begin drug administration as soon as possible after suspected or confirmed exposure.
 
 ### Conversion of IV to Oral Dosing in Adults
 
@@ -61,10 +65,10 @@ Dosage guidelines for use in patients with renal impairment are shown in Table 4
 | Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impaired Renal Function |  |
 | --- | --- |
 | Creatinine Clearance (mL/min) | Dose |
-| > 50 | See Usual Dosage. |
-| 30 - 50 | 250-500 mg every 12 hours |
-| 5 - 29 | 250-500 mg every 18 hours |
-| Patients on hemodialysis or Peritoneal dialysis | 250-500 mg every 24 hours (after dialysis) |
+| >50 | See Usual Dosage |
+| 30 - 50 | 250 – 500 mg every 12 hours |
+| 5 - 29 | 250 – 500 mg every 18 hours |
+| Patients on hemodialysis or Peritoneal dialysis | 250 – 500 mg every 24 hours (after dialysis) |
 
 When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
 

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Medication Guide Ciprofloxacin (sip"row flox"a sin) Tablets USP for oral use
+Ciprofloxacin (sip"row flox"a sin) Tablets USP for oral use
 
 Read this Medication Guide before you start taking ciprofloxacin tablets and each time you get a refill.
 There may be new information.
@@ -44,14 +44,16 @@ Changes in sensation and possible nerve damage (Peripheral Neuropathy).
 Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including ciprofloxacin tablets.
 Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
 
-- pain burning
+- pain
+- burning
 - tingling
 - numbness
 - weakness
 
 Ciprofloxacin tablets may need to be stopped to prevent permanent nerve damage.
 
-3.Central Nervous System (CNS) effects.
+3.
+Central Nervous System (CNS) effects.
 Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including ciprofloxacin tablets.
 Tell your healthcare provider if you have a history of seizures before you start taking ciprofloxacin tablets.
 CNS side effects may happen as soon as after taking the first dose of ciprofloxacin.
@@ -71,15 +73,15 @@ Stop taking ciprofloxacin tablets immediately and talk to your healthcare provid
 - suicidal thoughts or acts
 - headaches that will not go away, with or without blurred vision
 
-4.Worsening of myasthenia gravis (a problem that causes muscle weakness).
+4.
+Worsening of myasthenia gravis (a problem that causes muscle weakness).
 Fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
 Tell your healthcare provider if you have a history of myasthenia gravis before you start taking ciprofloxacin tablets.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
-
 What are ciprofloxacin tablets?
 
 Ciprofloxacin tablets are a fluoroquinolone antibacterial medicine used in adults age 18 years and older to treat certain infections caused by certain germs called bacteria.
-These bacterial infection include:
+These bacterial infections include:
 
 - urinary tract infection
 - chronic prostate infection
@@ -182,9 +184,7 @@ How should I take ciprofloxacin tablets?
 - Ciprofloxacin tablets can be taken with or without food.
 - Ciprofloxacin tablets should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone, but may be taken with a meal that contains these products.
 - Drink plenty of fluids while taking ciprofloxacin tablets.
-- Do not skip any doses of ciprofloxacin, or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless: Taking all of your ciprofloxacin doses will help make sure that all of the bacteria are killed.
-  Taking all of your ciprofloxacin doses will help lower the chance that the bacteria will become resistant to ciprofloxacin.
-  If you become resistant to ciprofloxacin, ciprofloxacin tablets and other antibacterial medicines may not work for you in the future.
+- Do not skip any doses of ciprofloxacin tablets, or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless:
   - you have tendon problems.
     See "What is the most important information I should know about ciprofloxacin tablets?”
   - you have nerve problems.
@@ -194,6 +194,11 @@ How should I take ciprofloxacin tablets?
   - you have a serious allergic reaction.
     See "What are the possible side effects of ciprofloxacin tablets?"
   - your healthcare provider tells you to stop taking ciprofloxacin tablets.
+
+Taking all of your ciprofloxacin doses will help make sure that all of the bacteria are killed.
+Taking all of your ciprofloxacin doses will help lower the chance that the bacteria will become resistant to ciprofloxacin.
+If you become resistant to ciprofloxacin, ciprofloxacin tablets and other antibacterial medicines may not work for you in the future.
+
 - If you take too much ciprofloxacin tablets, call your healthcare provider or get medical help right away.
 
 What should I avoid while taking ciprofloxacin tablets?
@@ -223,8 +228,7 @@ Ciprofloxacin tablets may cause serious side effects, including:
   - skin rash
 
 Skin rash may happen in people taking ciprofloxacin tablets even after only 1 dose.
-Stop taking ciprofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
-Skin rash may be a sign of a more serious reaction to ciprofloxacin.
+Stop taking ciprofloxacin tablets at the first sign of a skin rash and call your healthcare provider, Skin rash may be a sign of a more serious reaction to ciprofloxacin.
 
 - Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take ciprofloxacin tablets.
@@ -243,6 +247,10 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin.
 
 Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
+
+- Aortic aneurysm and dissection.
+  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 
 - Intestine infection (Pseudomembranous colitis).
   Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
@@ -274,7 +282,7 @@ Changes in blood sugar
   If you have diabetes and you get low blood sugar while taking ciprofloxacin tablets, stop taking ciprofloxacin tablets and call your healthcare provider right away.
   Your antibiotic medicine may need to be changed.
 
-The most common side effects of ciprofloxacin include:
+The most common side effects of ciprofloxacin tablets include:
 
 - nausea
 - diarrhea
@@ -316,5 +324,7 @@ What are the ingredients in ciprofloxacin tablets?
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owner.
-Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India Rx only Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 125661 Revised: Jan.
+Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India Rx only Distributed by:
+
+Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Revised: Jun.
 2019

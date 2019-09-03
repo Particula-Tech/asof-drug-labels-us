@@ -15,7 +15,7 @@ Inform patients of the following serious adverse reactions that have been associ
 - Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with ciprofloxacin use, symptoms may occur soon after initiation of therapy and may be irreversible.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue ciprofloxacin tablets and tell them to contact their physician.
 
-- Central nervous system effects (for example, convulsions, dizziness, lightheadedness, increased intracranial pressure): Inform patients that convulsions have been reported in patients receiving fluoroquinolones, including ciprofloxacin.
+- Central nervous system effects (for example, convulsions, dizziness, lightheadedness, increased intracranial pressure): Inform patients that convulsions have been reported in patients receiving fluoroquinolones, including Ciprofloxacin.
   Instruct patients to notify their physician before taking this drug if they have a history of convulsions.
   Inform patients that they should know how they react to ciprofloxacin tablets before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
   Instruct patients to notify their physician if persistent headache with or without blurred vision occurs.
@@ -28,6 +28,8 @@ Inform patients of the following serious adverse reactions that have been associ
 - Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking ciprofloxacin tablets.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 
+- Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
+
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, instruct patients to contact their physician as soon as possible.
@@ -36,7 +38,7 @@ Inform patients of the following serious adverse reactions that have been associ
   Instruct patients to notify their physician if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
 
 - Musculoskeletal Disorders in Pediatric Patients: Instruct parents to inform their child's physician if the child has a history of joint-related problems before taking this drug.
-  Inform parents of pediatric patients to notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy [see Warnings and Precautions (5.12) and Use in Specific Populations (8.4)].
+  Inform parents of pediatric patients to notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy [see Warnings and Precautions (5.13) and Use in Specific Populations (8.4)].
 
 - Tizanidine: Instruct patients not to use ciprofloxacin if they are already taking tizanidine.
   Ciprofloxacin increases the effects of tizanidine (Zanaflex®).
@@ -69,7 +71,7 @@ Drug Interactions Oral Antidiabetic Agents Inform patients that hypoglycemia has
 Anthrax and Plague Studies Inform patients given ciprofloxacin for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
 Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
-Rx only Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 125661
+Rx only Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663
 
-Revised: Feb.
+Revised: Jun.
 2019

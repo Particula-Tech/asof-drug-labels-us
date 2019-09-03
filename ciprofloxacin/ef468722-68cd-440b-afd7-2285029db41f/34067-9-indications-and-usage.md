@@ -23,7 +23,7 @@ The efficacy of ciprofloxacin in the eradication of the chronic typhoid carrier 
 
 ## 1.6 Uncomplicated Cervical and Urethral Gonorrhea
 
-Ciprofloxacin is indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae[see Warnings and Precautions (5.16)].
+Ciprofloxacin is indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae[see Warnings and Precautions (5.17)].
 
 ## 1.7 Inhalational Anthrax (Post-Exposure)
 
@@ -47,21 +47,21 @@ Ciprofloxacin is indicated in adult patients for treatment of chronic bacterial 
 Ciprofloxacin is indicated in adult patients for treatment of lower respiratory tract infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae, or Streptococcus pneumoniae.
 Ciprofloxacin is not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumoniae.
 Ciprofloxacin is indicated for the treatment of acute exacerbations of chronic bronchitis (AECB) caused by Moraxella catarrhalis.
-Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.15)] and for some patients AECB is self-limiting, reserve ciprofloxacin for treatment of AECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.16)] and for some patients AECB is self-limiting, reserve ciprofloxacin for treatment of AECB in patients who have no alternative treatment options.
 
 ## 1.11 Urinary Tract Infections
 
 Urinary Tract Infections in Adults Ciprofloxacin is indicated in adult patients for treatment of urinary tract infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Serratia marcescens, Proteus mirabilis, Providencia rettgeri, Morganella morganii, Citrobacter koseri, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus epidermidis, Staphylococcus saprophyticus, or Enterococcus faecalis.
 Acute Uncomplicated Cystitis Ciprofloxacin is indicated in adult female patients for treatment of acute uncomplicated cystitis caused by Escherichia coli or Staphylococcus saprophyticus.
-Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients acute uncomplicated cystitis is self-limiting, reserve ciprofloxacin tablets for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.16)] and for some patients acute uncomplicated cystitis is self-limiting, reserve ciprofloxacin tablets for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
 Complicated Urinary Tract Infection and Pyelonephritis in Pediatric Patients Ciprofloxacin is indicated in pediatric patients aged one to 17 years of age for treatment of complicated urinary tract infections (cUTI) and pyelonephritis due to Escherichia coli [see Use in Specific Populations (8.4)].
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues.
-Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.12), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
+Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.13), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
 
 ## 1.12 Acute Sinusitis
 
 Ciprofloxacin is indicated in adult patients for treatment of acute sinusitis caused by Haemophilus influenzae, Streptococcus pneumoniae, or Moraxella catarrhalis.
-Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions(5.1-5.15)] and for some patients acute sinusitis is self-limiting, reserve ciprofloxacin for treatment of acute sinusitis in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.16)] and for some patients acute sinusitis is self-limiting, reserve ciprofloxacin for treatment of acute sinusitis in patients who have no alternative treatment options.
 
 ## 1.13 Usage
 
