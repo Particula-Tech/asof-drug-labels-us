@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Risankizumab-rzaa, an interleukin-23 antagonist, is a humanized immunoglobulin G1 (IgG1) monoclonal antibody.
-Risankizumab-rzaa is produced in a mammalian cell line using recombinant DNA technology.
+Risankizumab-rzaa is produced by recombinant DNA technology in Chinese hamster ovary cells.
 
 SKYRIZI (risankizumab-rzaa) injection is a sterile, preservative-free, colorless to slightly yellow, and clear to slightly opalescent solution for subcutaneous use.
 

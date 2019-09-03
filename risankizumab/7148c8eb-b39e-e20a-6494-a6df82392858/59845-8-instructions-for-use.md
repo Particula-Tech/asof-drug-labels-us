@@ -1,5 +1,7 @@
 Instructions for Use SKYRIZI™ (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use
 
+Read Before First Use
+
 Refer to the Medication Guide for product information.
 
 SKYRIZI Single-Dose Prefilled Syringe
@@ -13,7 +15,7 @@ IMPORTANT INFORMATION:
 - DO NOT use SKYRIZI if the liquid has been frozen (even if thawed).
 - DO NOT shake the syringe.
 - DO NOT use SKYRIZI if the syringe has been dropped or damaged.
-- DO NOT use SKYRIZI if the syringe tray seal is broken or missing.
+- DO NOT use SKYRIZI if carton perforations are broken.
   Return product to the pharmacy.
 - DO NOT remove the needle cover until right before giving the injections.
 
@@ -36,7 +38,7 @@ IMPORTANT INFORMATION:
 - DO NOT use SKYRIZI if the liquid is cloudy or contains flakes or large particles.
 - DO NOT use SKYRIZI if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
 - DO NOT use SKYRIZI if the syringe has been dropped or damaged.
-- DO NOT use SKYRIZI if the syringe tray seal is broken or missing.
+- DO NOT use SKYRIZI if carton perforations are broken.
   Return product to the pharmacy.
 
 STORAGE INFORMATION:
@@ -86,4 +88,4 @@ For more information about safe sharps disposal, and for specific information ab
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 © 2019 AbbVie Inc. 20059379 Issued: 04/2019
+Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI™ is a trademark of AbbVie Biotechnology Ltd. © 2019 AbbVie Inc. 20059637 Revised: 08/2019

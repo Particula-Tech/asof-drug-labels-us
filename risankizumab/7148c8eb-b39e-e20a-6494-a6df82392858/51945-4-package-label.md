@@ -12,11 +12,11 @@ FOR SUBCUTANEOUS USE ONLY
 
 FOR A 150 MG DOSE, TWO 75 MG SYRINGES ARE REQUIRED, INJECT ONE SYRINGE AFTER THE OTHER
 
-ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medication Guide.
+ATTENTION PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
 The entire carton is to be dispensed as a unit.
 
-Return to pharmacy if syringe tray seal is broken or missing.
+Return to pharmacy if carton perforations are broken.
 
 www.SKYRIZI.com
 
@@ -40,11 +40,11 @@ FOR SUBCUTANEOUS USE ONLY
 
 FOR A 150 MG DOSE, TWO 75 MG SYRINGES ARE REQUIRED, INJECT ONE SYRINGE AFTER THE OTHER
 
-ATTENTION PHYSICIAN: Each patient is required to receive the enclosed Medication Guide.
+ATTENTION PHYSICIAN: Dispense the enclosed Medication Guide to each patient.
 
 The entire carton is to be dispensed as a unit.
 
-Return to physician if syringe tray seal is broken or missing.
+Return to physician if carton perforations are broken.
 
 www.SKYRIZI.com
 

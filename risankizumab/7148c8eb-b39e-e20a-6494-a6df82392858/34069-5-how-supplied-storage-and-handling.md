@@ -12,5 +12,5 @@ The product is supplied in a 1 mL glass syringe with a fixed 29 gauge ½ inch ne
 - Store in a refrigerator at 2°C to 8°C (36°F to 46° F).
 - Do not freeze.
 - Do not shake.
-- Keep the prefilled syringes in the outer carton to protect from light.
+- Keep the prefilled syringes in the original carton to protect from light.
 - Not made with natural rubber latex.
