@@ -1,57 +1,41 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL
 
-Strides Pharma Inc.
+Mycophenolate Mofetil Capsules, USP
 
-Rx Only
-
-NDC 64380-725-06
-
-Mycophenolate Mofetil Tablets, USP 500 mg
-
-Attention Pharmacist
-
-Dispense the accompanying medication guide to each patient.
-
-100 Tablets
-
-Strides Pharma Inc.
+250 mg
 
 Rx Only
-
-NDC 64380-726-06
-
-Mycophenolate Mofetil Capsules, USP 250 mg
-
-Attention Pharmacist
-
-Dispense the accompanying medication guide to each patient.
 
 100 Capsules
 
-Strides Pharma Inc.
+NDC 64380-726-06
+
+Mycophenolate Mofetil Capsules, USP
+
+250 mg
 
 Rx Only
 
-NDC 64380-725-07
-
-Mycophenolate Mofetil Tablets, USP 500 mg
-
-Attention Pharmacist
-
-Dispense the accompanying medication guide to each patient.
-
-500 Tablets
-
-Strides Pharma Inc.
-
-Rx Only
+500 Capsules
 
 NDC 64380-726-07
 
-Mycophenolate Mofetil Capsules, USP 250 mg
+Mycophenolate Mofetil Tablets, USP
 
-Attention Pharmacist
+500 mg
 
-Dispense the accompanying medication guide to each patient.
+Rx Only
 
-500 Capsules
+100 Tablets
+
+NDC 64380-725-06
+
+Mycophenolate Mofetil Tablets, USP
+
+500 mg
+
+Rx Only
+
+500 Tablets
+
+NDC 64380-725-07
