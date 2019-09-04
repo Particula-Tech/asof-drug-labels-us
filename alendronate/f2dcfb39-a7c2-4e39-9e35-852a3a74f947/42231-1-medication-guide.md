@@ -83,7 +83,8 @@ Before you start FOSAMAX, be sure to talk to your doctor if you:
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Are pregnant, trying to become pregnant or suspect that you are pregnant.
+  If you become pregnant while taking FOSAMAX, stop taking it and contact your doctor.
   It is not known if FOSAMAX can harm your unborn baby.
 - Are breast-feeding or plan to breast-feed.
   It is not known if FOSAMAX passes into your milk and may harm your baby.
