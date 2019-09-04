@@ -31,29 +31,29 @@ Adults
 
 The information below is derived from a clinical trial database for SEROQUEL XR consisting of approximately 3400 patients exposed to SEROQUEL XR for the treatment of Schizophrenia, Bipolar Disorder, and Major Depressive Disorder in placebo-controlled trials.
 This experience corresponds to approximately 1020.1 patient-years.
-Adverse reactions were assessed by collecting adverse reactions, results of physical examinations, vital signs, body weights, laboratory analyses and ECG results.
+Adverse reactions were assessed by collecting adverse reactions, results of physical examinations, vital signs, body weights, laboratory analyses, and ECG results.
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, an adverse reaction of the type listed.
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials:
 
-Schizophrenia: There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥ 2% for SEROQUEL XR in schizophrenia trials.
+Schizophrenia: There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥2% for SEROQUEL XR in schizophrenia trials.
 
 Bipolar I Disorder, Manic or Mixed Episodes:
 
-There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥ 2% for SEROQUEL XR in the bipolar mania trial.
+There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥2% for SEROQUEL XR in the bipolar mania trial.
 
 Bipolar Disorder, Depressive Episode: In a single clinical trial in patients with bipolar depression, 14% (19/137) of patients on SEROQUEL XR discontinued due to an adverse reaction compared to 4% (5/140) on placebo.
-Somnolence Somnolence combines adverse reaction terms somnolence and sedation was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥ 2% in SEROQUEL XR in the bipolar depression trial.
+Somnolence Somnolence combines adverse reaction terms somnolence and sedation was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥2% in SEROQUEL XR in the bipolar depression trial.
 
 MDD, Adjunctive Therapy: In adjunctive therapy clinical trials in patients with MDD, 12.1% (76/627) of patients on SEROQUEL XR discontinued due to adverse reaction compared to 1.9% (6/309) on placebo.
-Somnolence was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥ 2% in SEROQUEL XR in MDD trials.
+Somnolence was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥2% in SEROQUEL XR in MDD trials.
 
 Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials:
 
 In short-term placebo-controlled studies for schizophrenia the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater) and observed at a rate on SEROQUEL XR at least twice that of placebo were somnolence (25%), dry mouth (12%), dizziness (10%), and dyspepsia (5%).
 
-Adverse Reactions Occurring at an Incidence of 2% or More Among SEROQUEL XR Treated Patients in Short-Term, Placebo-Controlled Trials:
+Adverse Reactions Occurring at an Incidence of 2% or More Among SEROQUEL XR Treated Patients in Short-Term, Placebo-Controlled Trials.
 
 Table 12 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) in 2% or more in patients treated with SEROQUEL XR (doses ranging from 300 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
@@ -97,7 +97,7 @@ Table 13: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for th
 | Dyspepsia | 7% | 4% |
 | Fatigue | 7% | 4% |
 | Weight Gain | 7% | 1% |
-| Extrapyramidal SymptomsExtrapyramidal symptoms include the terms: muscle spasms, akathisia, cogwheel rigidity, dystonia, extrapyramidal disorder, restlessness and tremor. | 7% | 4% |
+| Extrapyramidal SymptomsExtrapyramidal symptoms include the terms: muscle spasms, akathisia, cogwheel rigidity, dystonia, extrapyramidal disorder, restlessness, and tremor. | 7% | 4% |
 | Nasal Congestion | 5% | 1% |
 | Dysarthria | 5% | 0% |
 | Increased Appetite | 4% | 2% |
@@ -161,7 +161,7 @@ Table 14: Adverse Reactions in an 8-Week Placebo-Controlled Clinical Trial for t
 | Confusional State | 2% | 0% |
 | Disorientation | 2% | 0% |
 
-In the 6-week placebo-controlled fixed dose adjunctive therapy clinical trials, for MDD, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and observed at a rate on SEROQUEL XR and at least twice that of placebo) were somnolence (150 mg: 37%; 300 mg: 43%), dry mouth (150 mg: 27%; 300 mg: 40%), fatigue (150 mg: 14%; 300 mg: 11%), constipation (300 mg only: 11%) and weight increased (300 mg only: 5%).
+In the 6-week placebo-controlled fixed dose adjunctive therapy clinical trials, for MDD, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and observed at a rate on SEROQUEL XR and at least twice that of placebo) were somnolence (150 mg: 37%; 300 mg: 43%), dry mouth (150 mg: 27%; 300 mg: 40%), fatigue (150 mg: 14%; 300 mg: 11%), constipation (300 mg only: 11%), and weight increased (300 mg only: 5%).
 
 Table 15 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during short-term adjunctive therapy of MDD (up to 6 weeks) in 2% or more of patients treated with SEROQUEL XR (at doses of either 150 mg or 300 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
@@ -194,7 +194,7 @@ Table 15: Adverse Reactions in Placebo-Controlled Adjunctive Therapy Clinical Tr
 | Anxiety | 2% | 2% | 1% |
 | Depression | 2% | 1% | 1% |
 
-Adverse Reactions in clinical trials with quetiapine and not listed elsewhere in the label:
+Adverse Reactions in clinical trials with quetiapine and not listed elsewhere in the label
 
 Pyrexia, nightmares, peripheral edema, dyspnea, palpitations, rhinitis, eosinophilia, hypersensitivity, elevations in gamma-GT levels, and elevations in serum creatine phosphokinase (not associated with NMS), somnambulism (and other related events), hypothermia, decreased platelets, galactorrhea, bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/ or syncope), and priapism.
 
@@ -275,7 +275,7 @@ Table 19: Adverse Reactions Associated with EPS in MDD Trials by Dose, Adjunctiv
 Children and Adolescents
 
 The information below is derived from a clinical trial database for SEROQUEL consisting of over 1000 pediatric patients.
-This database includes 677 adolescents (13 – 17 years old) exposed to SEROQUEL for the treatment of schizophrenia and 393 children and adolescents (10 – 17 years old) exposed to SEROQUEL for the treatment of acute bipolar mania.
+This database includes 677 adolescents (13-17 years old) exposed to SEROQUEL for the treatment of schizophrenia and 393 children and adolescents (10-17 years old) exposed to SEROQUEL for the treatment of acute bipolar mania.
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials:
 
@@ -293,9 +293,9 @@ In therapy for schizophrenia (up to 6 weeks), the most commonly observed adverse
 
 In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (53%), dizziness (18%), fatigue (11%), increased appetite (9%), nausea (8%), vomiting (8%), tachycardia (7%), dry mouth (7%), and weight increased (6%).
 
-Adverse Reactions Occurring at an Incidence of ≥ 2% among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of ≥2% among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
 
-Schizophrenia (Adolescents, 13 – 17 years old)
+Schizophrenia (Adolescents, 13-17 years old)
 
 The following findings were based on a 6-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 800 mg/day.
 
@@ -329,7 +329,7 @@ The following findings were based on a 3-week placebo-controlled trial in which 
 
 Table 21 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 3 weeks) of bipolar mania in 2% or more of patients treated with SEROQUEL (doses of 400 or 600 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
-Adverse reactions that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%) and tachycardia (6% vs. 9%).
+Adverse reactions that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%), and tachycardia (6% vs. 9%).
 
 Table 21: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients
 
@@ -389,7 +389,7 @@ Table 22: Adverse Reactions Associated with Extrapyramidal Symptoms in the Place
 
 Table 23 below presents a listing of patients with adverse reactions associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
 
-Table 23: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
+Table 23: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
 
 | Preferred TermThere were no adverse reactions with the preferred term of dystonic or dyskinetic events. | SEROQUEL400 mg/day(N=95) |  | SEROQUEL600 mg/day(N=98) |  | All SEROQUEL(N=193) |  | Placebo(N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -404,7 +404,7 @@ Laboratory Changes:
 
 Neutrophil Counts
 
-Adults: In three-arm SEROQUEL XR placebo-controlled monotherapy clinical trials, among patients with a baseline neutrophil count ≥ 1.5 x 109/L, the incidence of at least one occurrence of neutrophil count <1.5 x 109/L was 1.5% in patients treated with SEROQUEL XR and 1.5% for SEROQUEL, compared to 0.8% in placebo-treated patients.
+Adults: In three-arm SEROQUEL XR placebo-controlled monotherapy clinical trials, among patients with a baseline neutrophil count ≥1.5 x 109/L, the incidence of at least one occurrence of neutrophil count <1.5 x 109/L was 1.5% in patients treated with SEROQUEL XR and 1.5% for SEROQUEL, compared to 0.8% in placebo-treated patients.
 
 In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.10)].
 
@@ -417,8 +417,8 @@ These hepatic enzyme elevations usually occurred within the first 3 weeks of dru
 
 Decreased Hemoglobin
 
-Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo.
-In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 11% (2277/20729) of quetiapine-treated patients.
+Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤13 g/dL males, ≤12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo.
+In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤13 g/dL males, ≤12 g/dL females on at least one occasion occurred in 11% (2277/20729) of quetiapine-treated patients.
 
 Interference with Urine Drug Screens
 
@@ -436,13 +436,13 @@ The slight tendency for tachycardia may be related to quetiapine’s potential f
 
 Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10-17 years of age [see Clinical Studies (14.1 and 14.2)].
 
-In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10-12 years and 13-17 years) occurred in 0% of patients receiving SEROQUEL XR and 1.2% of patients receiving placebo.
+In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (>110 bpm 10-12 years and 13-17 years) occurred in 0% of patients receiving SEROQUEL XR and 1.2% of patients receiving placebo.
 Mean increases in heart rate were 3.4 bpm for SEROQUEL XR, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-In the acute (6-week) SEROQUEL schizophrenia trial in adolescents (13-17 years of age), increases in heart rate (> 110 bpm) occurred in 5.2% of patients receiving SEROQUEL 400 mg and 8.5% of patients receiving SEROQUEL 800 mg compared to 0% of patients receiving placebo.
+In the acute (6-week) SEROQUEL schizophrenia trial in adolescents (13-17 years of age), increases in heart rate (>110 bpm) occurred in 5.2% of patients receiving SEROQUEL 400 mg and 8.5% of patients receiving SEROQUEL 800 mg compared to 0% of patients receiving placebo.
 Mean increases in heart rate were 3.8 bpm and 11.2 bpm for SEROQUEL 400 mg and 800 mg groups, respectively, compared to a decrease of 3.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-In the acute (3-week) SEROQUEL bipolar mania trial in children and adolescents (10-17 years of age), increases in heart rate (> 110 bpm) occurred in 1.1% of patients receiving SEROQUEL 400 mg and 4.7% of patients receiving SEROQUEL 600 mg compared to 0% of patients receiving placebo.
+In the acute (3-week) SEROQUEL bipolar mania trial in children and adolescents (10-17 years of age), increases in heart rate (>110 bpm) occurred in 1.1% of patients receiving SEROQUEL 400 mg and 4.7% of patients receiving SEROQUEL 600 mg compared to 0% of patients receiving placebo.
 Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
 ## 6.2 Postmarketing Experience

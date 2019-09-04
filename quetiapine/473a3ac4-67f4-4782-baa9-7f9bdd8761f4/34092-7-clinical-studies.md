@@ -7,18 +7,18 @@ Short-term Trials – Adults
 The efficacy of SEROQUEL XR in the treatment of schizophrenia was demonstrated in 1 short-term, 6-week, fixed-dose, placebo-controlled trial of inpatients and outpatients with schizophrenia (n=573) who met DSM-IV criteria for schizophrenia.
 SEROQUEL XR (once daily) was administered as 300 mg on Day 1, and the dose was increased to either 400 mg or 600 mg by Day 2, or 800 mg by Day 3.
 The primary endpoint was the change from baseline of the Positive and Negative Syndrome Scale (PANSS) total score at the end of treatment (Day 42).
-SEROQUEL XR doses of 400 mg, 600 mg and 800 mg once daily were superior to placebo in the PANSS total score at Day 42 (study 1 in Table 27).
+SEROQUEL XR doses of 400 mg, 600 mg and 800 mg once daily were superior to placebo in the PANSS total score at Day 42 (study 1 in Table 26).
 
 Short-term Trials –Adolescents (ages 13-17)
 
 The efficacy of SEROQUEL XR in the treatment of schizophrenia in adolescents (13-17 years of age) was supported by a 6-week, double-blind, placebo-controlled trial.
-Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n = 73), SEROQUEL 800 mg/day (n = 74), or placebo (n = 75).
+Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n=73), SEROQUEL 800 mg/day (n=74), or placebo (n=75).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/per day (divided and given two or three times per day).
 Subsequently, the dose was titrated to the target dose of 400 mg/day or 800 mg/day using increments of 100 mg/day, divided and given two or three times daily.
 The primary efficacy variable was the mean change from baseline in total Positive and Negative Syndrome Scale (PANSS).
-SEROQUEL at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score (study 2 in Table 27).
+SEROQUEL at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score (study 2 in Table 26).
 
-Table 27: Schizophrenia Short-Term Trials
+Table 26: Schizophrenia Short-Term Trials
 
 | Study Number | Treatment Group | Primary Efficacy Endpoint: PANSS Total |  |  |
 | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Bipolar I Disorder, manic or mixed episodes
 
 Adults
 
-The efficacy of SEROQUEL XR in the acute treatment of manic episodes was established in one 3-week, placebo-controlled trial (Study 1 in Table 28) in patients who met DSM-IV criteria for bipolar I disorder with manic or mixed episodes with or without psychotic features (N=316).
+The efficacy of SEROQUEL XR in the acute treatment of manic episodes was established in one 3-week, placebo-controlled trial (Study 1 in Table 27) in patients who met DSM-IV criteria for bipolar I disorder with manic or mixed episodes with or without psychotic features (N=316).
 Patients were hospitalized for a minimum of 4 days at randomization.
 Patients randomized to SEROQUEL XR received 300 mg on Day 1 and 600 mg on Day 2.
 Afterwards, the dose could be adjusted between 400 mg and 800 mg per day.
@@ -73,25 +73,25 @@ The results of the trials follow:
 Monotherapy
 
 In two 12-week trials (n=300, n=299) comparing SEROQUEL to placebo, SEROQUEL was superior to placebo in the reduction of the YMRS total score at weeks 3 and 12.
-The majority of patients in these trials taking SEROQUEL were dosed in a range between 400 mg/day and 800 mg/ day (Studies 2 and 3 in Table 28).
+The majority of patients in these trials taking SEROQUEL were dosed in a range between 400 mg/day and 800 mg/ day (Studies 2 and 3 in Table 27).
 
 Adjunct Therapy
 
-In a 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥ 20) were randomized to receive SEROQUEL or placebo as adjunct treatment to lithium or divalproex.
+In a 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥20) were randomized to receive SEROQUEL or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
 SEROQUEL was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score.
-The majority of patients in this trial taking SEROQUEL were dosed in a range between 400 mg/day and 800 mg/day (study 4 in Table 28).
+The majority of patients in this trial taking SEROQUEL were dosed in a range between 400 mg/day and 800 mg/day (study 4 in Table 27).
 
 Children and Adolescents (ages 10-17)
 
-The efficacy of SEROQUEL XR in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 - 17 years of age) was extrapolated from a 3-week, double-blind, placebo-controlled, multicenter trial.
-Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n = 95), SEROQUEL 600 mg/day (n = 98), or placebo (n = 91).
+The efficacy of SEROQUEL XR in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10-17 years of age) was extrapolated from a 3-week, double-blind, placebo-controlled, multicenter trial.
+Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n=95), SEROQUEL 600 mg/day (n=98), or placebo (n=91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
 The primary efficacy variable was the mean change from baseline in total YMRS score.
-SEROQUEL 400 mg/day and 600 mg/day were superior to placebo in the reduction of YMRS total score (study 5 in Table 28).
+SEROQUEL 400 mg/day and 600 mg/day were superior to placebo in the reduction of YMRS total score (study 5 in Table 27).
 
-Table 28: Mania Trials
+Table 27: Mania Trials
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
@@ -121,7 +121,7 @@ Patients randomized to SEROQUEL XR were administered 50 mg on Day 1, 100 mg on D
 
 The primary rating instrument used to assess depressive symptoms was the Montgomery-Asberg Depression Rating Scale (MADRS), a 10-item clinician-rated scale with scores ranging from 0 (no depressive features) to 60 (maximum score).
 The primary endpoint was the change from baseline in MADRS score at week 8.
-SEROQUEL XR was superior to placebo in reduction of MADRS score at week 8 (study 6 in Table 29).
+SEROQUEL XR was superior to placebo in reduction of MADRS score at week 8 (study 6 in Table 28).
 
 The efficacy of SEROQUEL for the treatment of depressive episodes associated with bipolar disorder was established in 2 identical 8-week, randomized, double-blind, placebo-controlled studies (N=1045).
 These studies included patients with either bipolar I or II disorder and those with or without a rapid cycling course.
@@ -129,11 +129,11 @@ Patients randomized to SEROQUEL were administered fixed doses of either 300 mg o
 
 The primary rating instrument used to assess depressive symptoms in these studies was the MADRS.
 The primary endpoint in both studies was the change from baseline in MADRS score at week 8.
-In both studies, SEROQUEL was superior to placebo in reduction of MADRS score at week 8 (Studies 7 and 8 in Table 29).
+In both studies, SEROQUEL was superior to placebo in reduction of MADRS score at week 8 (Studies 7 and 8 in Table 28).
 In these studies, no additional benefit was seen with the 600 mg dose.
 For the 300 mg dose group, statistically significant improvements over placebo were seen in overall quality of life and satisfaction related to various areas of functioning, as measured using the Q-LES-Q(SF).
 
-Table 29: Depressive Episodes Associated with Bipolar Disorder
+Table 28: Depressive Episodes Associated with Bipolar Disorder
 
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |
 | --- | --- | --- | --- | --- |
@@ -156,8 +156,8 @@ In the open-label phase, patients were required to be stable on SEROQUEL plus li
 On average, patients were stabilized for 15 weeks.
 In the randomization phase, patients continued treatment with lithium or divalproex and were randomized to receive either SEROQUEL (administered twice-daily totaling 400 mg/day to 800 mg/day) or placebo.
 Approximately 50% of the patients had discontinued from the SEROQUEL group by day 280 and 50% of the placebo group had discontinued by day 117 of double-blind treatment.
-The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed or depressed episode).
-A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥ 20 or MADRS score ≥ 20 at 2 consecutive assessments; or study discontinuation due to a mood event.
+The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed, or depressed episode).
+A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥20 or MADRS score ≥20 at 2 consecutive assessments; or study discontinuation due to a mood event.
 
 In both studies, SEROQUEL was superior to placebo in increasing the time to recurrence of any mood event (Figure 2 and Figure 3).
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.
@@ -173,14 +173,14 @@ The efficacy of SEROQUEL XR as adjunctive therapy to antidepressants in the trea
 SEROQUEL XR 150 mg/day or 300 mg/day was given as adjunctive therapy to existing antidepressant therapy in patients who had previously shown an inadequate response to at least one antidepressant.
 SEROQUEL XR was administered as 50 mg/day on Days 1 and 2, and increased to 150 mg/day on Day 3 for both dose groups.
 On Day 5, the dose was increased to 300 mg/day in the 300 mg/day fixed-dose group.
-Inadequate response was defined as having continued depressive symptoms for the current episode [Hamilton Depression Rating Scale (HAM-D) total score of ≥ 20] despite using an antidepressant for 6 weeks at or above the minimally effective labelled dose.
+Inadequate response was defined as having continued depressive symptoms for the current episode [Hamilton Depression Rating Scale (HAM-D) total score of ≥20] despite using an antidepressant for 6 weeks at or above the minimally effective labelled dose.
 The mean HAM-D total score at entry was 24, and 17% of patients scored 28 or greater.
-Patients were on various antidepressants prior to study entry including SSRI’s (paroxetine, fluoxetine, sertraline, escitalopram, or citalopram), SNRI’s, (duloxetine and venlafaxine,) TCA (amitriptyline) and other (bupropion).
+Patients were on various antidepressants prior to study entry including SSRI’s (paroxetine, fluoxetine, sertraline, escitalopram, or citalopram), SNRI’s, (duloxetine and venlafaxine,) TCA (amitriptyline), and other (bupropion).
 
 The primary endpoint in these trials was change from baseline to week 6 in the Montgomery-Asberg Depression Rating Scale (MADRS.), SEROQUEL XR 300 mg once daily as adjunctive treatment to other antidepressant therapy was superior to antidepressant alone in reduction of MADRS total score in both trials.
-SEROQUEL XR 150 mg once daily as adjunctive treatment was superior to antidepressant therapy alone in reduction of MADRS total score in one trial (studies 1 and 2 in Table 30).
+SEROQUEL XR 150 mg once daily as adjunctive treatment was superior to antidepressant therapy alone in reduction of MADRS total score in one trial (studies 1 and 2 in Table 29).
 
-Table 30: Major Depressive Disorder, Adjunctive Therapy to Antidepressants
+Table 29: Major Depressive Disorder, Adjunctive Therapy to Antidepressants
 
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |
 | --- | --- | --- | --- | --- |

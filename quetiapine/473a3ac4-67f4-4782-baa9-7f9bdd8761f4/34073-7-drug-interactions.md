@@ -16,7 +16,7 @@ The dose should be reduced to one sixth of the original dose in patients coadmin
 CYP3A4 inducers:
 
 Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mean oral clearance of quetiapine by 5-fold.
-Increased doses of SEROQUEL XR up to 5 fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+Increased doses of SEROQUEL XR up to 5-fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 When the CYP3A4 inducer is discontinued, the dose of SEROQUEL XR should be reduced to the original level within 7-14 days [see Dosage and Administration (2.6)].
 
 The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied.
@@ -28,4 +28,4 @@ Because of its potential for inducing hypotension, SEROQUEL XR may enhance the e
 SEROQUEL XR may antagonize the effects of levodopa and dopamine agonists.
 
 There are no clinically relevant pharmacokinetic interactions of Seroquel on other drugs based on the CYP pathway.
-Seroquel and its metabolites are non-inhibitors of major metabolizing CYPs (1A2, 2C9, 2C19, 2D6 and 3A4).
+Seroquel and its metabolites are non-inhibitors of major metabolizing CYP’s (1A2, 2C9, 2C19, 2D6, and 3A4).
