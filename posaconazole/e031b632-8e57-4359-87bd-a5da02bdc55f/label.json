@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205053"
+  ],
+  "inn": "posaconazole",
+  "labeler": "Par Pharmaceutical Inc.",
+  "package_ndcs": [
+    "0254-2045-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "posaconazole",
+      "name": "POSACONAZOLE"
+    }
+  ],
+  "setid": "e031b632-8e57-4359-87bd-a5da02bdc55f",
+  "source": "dailymed"
+}
