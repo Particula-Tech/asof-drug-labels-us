@@ -10,7 +10,7 @@ Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoc
 
 CYP3A4 inhibitors:
 
-Co-administration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure.
+Coadministration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure.
 The dose of SEROQUEL should be reduced to one sixth of the original dose if co-administered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 CYP3A4 inducers:
@@ -28,4 +28,4 @@ Because of its potential for inducing hypotension, SEROQUEL may enhance the effe
 SEROQUEL may antagonize the effects of levodopa and dopamine agonists.
 
 There are no clinically relevant pharmacokinetic interactions of Seroquel on other drugs based on the CYP pathway.
-Seroquel and its metabolites are non-inhibitors of major metabolizing CYPs (1A2, 2C9, 2C19, 2D6 and 3A4).
+Seroquel and its metabolites are non-inhibitors of major metabolizing CYP’s (1A2, 2C9, 2C19, 2D6, and 3A4).

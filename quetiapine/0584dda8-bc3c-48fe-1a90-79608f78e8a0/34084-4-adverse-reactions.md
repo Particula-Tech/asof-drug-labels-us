@@ -4,24 +4,24 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - •Increased mortality in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)]
 - •Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.2)]
-- •Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see Warnings and Precautions 5.3]
-- •Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions 5.4]
-- •Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions 5.5]
-- •Tardive dyskinesia [see Warnings and Precautions 5.6]
-- •Hypotension [see Warnings and Precautions 5.7]
-- •Falls [see Warnings and Precautions 5.8]
-- •Increases in blood pressure (children and adolescents) [see Warnings and Precautions 5.9]
-- •Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions 5.10]
-- •Cataracts [see Warnings and Precautions 5.11]
-- •QT Prolongation [see Warnings and Precautions 5.12]
-- •Seizures [see Warnings and Precautions 5.13]
-- •Hypothyroidism [see Warnings and Precautions 5.14]
-- •Hyperprolactinemia [see Warnings and Precautions 5.15]
-- •Potential for cognitive and motor impairment [see Warnings and Precautions 5.16]
-- •Body temperature regulation [see Warnings and Precautions 5.17]
-- •Dysphagia [see Warnings and Precautions 5.18]
-- •Discontinuation Syndrome [see Warnings and Precautions 5.19]
-- •Anticholinergic (antimuscarinic) Effects [see Warnings and Precautions 5.20]
+- •Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.3)]
+- •Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
+- •Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions (5.5)]
+- •Tardive dyskinesia [see Warnings and Precautions (5.6)]
+- •Hypotension [see Warnings and Precautions (5.7)]
+- •Falls [see Warnings and Precautions (5.8)]
+- •Increases in blood pressure (children and adolescents) [see Warnings and Precautions (5.9)]
+- •Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions (5.10)]
+- •Cataracts [see Warnings and Precautions (5.11)]
+- •QT Prolongation [see Warnings and Precautions (5.12)]
+- •Seizures [see Warnings and Precautions (5.13)]
+- •Hypothyroidism [see Warnings and Precautions (5.14)]
+- •Hyperprolactinemia [see Warnings and Precautions (5.15)]
+- •Potential for cognitive and motor impairment [see Warnings and Precautions (5.16)]
+- •Body temperature regulation [see Warnings and Precautions (5.17)]
+- •Dysphagia [see Warnings and Precautions (5.18)]
+- •Discontinuation Syndrome [see Warnings and Precautions (5.19)]
+- •Anticholinergic (antimuscarinic) Effects [see Warnings and Precautions (5.20)]
 
 ## 6.1 Clinical Study Experience
 
@@ -57,7 +57,7 @@ Adverse Reactions Occurring at an Incidence of 2% or More Among SEROQUEL Treated
 
 The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence in the population studied.
+The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the side effect incidence in the population studied.
 
 Table 9 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) in 2% or more of patients treated with SEROQUEL (doses ranging from 75 to 800 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
@@ -186,7 +186,7 @@ Logistic regression analyses revealed a positive dose response (p<0.05) for the 
 
 Adverse Reactions in clinical trials with quetiapine and not listed elsewhere in the label:
 
-The following adverse reactions have also been reported with quetiapine: nightmares, hypersensitivity and elevations in serum creatine phosphokinase (not associated with NMS), galactorrhea, bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/ or syncope), decreased platelets, somnambulism (and other related events), elevations in gamma-GT levels, hypothermia, dyspnea, eosinophilia, urinary retention, intestinal obstruction and priapism.
+The following adverse reactions have also been reported with quetiapine: nightmares, hypersensitivity, and elevations in serum creatine phosphokinase (not associated with NMS), galactorrhea, bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/or syncope) decreased platelets, somnambulism (and other related events), elevations in gamma-GT levels, hypothermia, dyspnea, eosinophilia, urinary retention, intestinal obstruction and priapism.
 
 Extrapyramidal Symptoms (EPS):
 
@@ -215,13 +215,13 @@ Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Control
 | Dyskinetic event | 2 | 3.8 | 0 | 0.0 | 0 | 0.0 | 1 | 2.0 | 0 | 0.0 | 0 | 0.0 |
 | Other extrapyramidal event | 2 | 3.8 | 0 | 0.0 | 3 | 5.8 | 3 | 5.9 | 1 | 1.9 | 4 | 7.8 |
 
-Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1.0, -1.2; -1.6; -1.8 and -1.8.
-The rate of anticholinergic medication use to treat EPS for placebo and the five fixed doses was: 14%; 11%; 10%; 8%; 12% and 11%.
+Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1.0, -1.2; -1.6; -1.8, and -1.8.
+The rate of anticholinergic medication use to treat EPS for placebo and the five fixed doses was: 14%; 11%; 10%; 8%; 12%, and 11%.
 
 In six additional placebo-controlled clinical trials (3 in acute mania and 3 in schizophrenia) using variable doses of SEROQUEL, there were no differences between the SEROQUEL and placebo treatment groups in the incidence of EPS, as assessed by Simpson-Angus total scores, spontaneous complaints of EPS and the use of concomitant anticholinergic medications to treat EPS.
 
 In two placebo-controlled clinical trials for the treatment of bipolar depression using 300 mg and 600 mg of SEROQUEL, the incidence of adverse reactions potentially related to EPS was 12% in both dose groups and 6% in the placebo group.
-In these studies, the incidence of the individual adverse reactions (akathisia, extrapyramidal disorder, tremor, dyskinesia, dystonia, restlessness, muscle contractions involuntary, psychomotor hyperactivity and muscle rigidity) were generally low and did not exceed 4% in any treatment group.
+In these studies, the incidence of the individual adverse reactions (akathisia, extrapyramidal disorder, tremor, dyskinesia, dystonia, restlessness, muscle contractions involuntary, psychomotor hyperactivity, and muscle rigidity) were generally low and did not exceed 4% in any treatment group.
 
 The 3 treatment groups were similar in mean change in SAS total score and BARS Global Assessment score at the end of treatment.
 The use of concomitant anticholinergic medications was infrequent and similar across the three treatment groups.
@@ -245,11 +245,11 @@ In therapy for schizophrenia (up to 6 weeks), the most commonly observed adverse
 
 In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (53%), dizziness (18%), fatigue (11%), increased appetite (9%), nausea (8%), vomiting (8%), tachycardia (7%), dry mouth (7%), and weight increased (6%).
 
-In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were dizziness (7%), diarrhea (5%), fatigue (5%) and nausea (5%).
+In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were dizziness (7%), diarrhea (5%), fatigue (5%), and nausea (5%).
 
-Adverse Reactions Occurring at an Incidence of ≥ 2% among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of ≥2% among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
 
-Schizophrenia (Adolescents, 13- 17 years old)
+Schizophrenia (Adolescents, 13-17 years old)
 
 The following findings were based on a 6-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 800 mg/day.
 
@@ -277,7 +277,7 @@ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Tri
 | Epistaxis | 3% | 0% | 1% |
 | Muscle Rigidity | 3% | 0% | 0% |
 
-Bipolar I Mania (Children and Adolescents 10 to 17 years old)
+Bipolar I Mania (Children and Adolescents 10-17 years old)
 
 The following findings were based on a 3-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 600 mg/day.
 
@@ -287,7 +287,7 @@ In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reac
 
 Table 14 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 3 weeks) of bipolar mania in 2% or more of patients treated with SEROQUEL (doses of 400 or 600 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
-Adverse reactions that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%) and tachycardia (6% vs. 9%).
+Adverse reactions that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%), and tachycardia (6% vs. 9%).
 
 Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients
 
@@ -328,9 +328,9 @@ In a short-term placebo-controlled monotherapy trial in children and adolescent 
 
 Table 15 presents a listing of patients with adverse reactions potentially associated with extrapyramidal symptoms in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-In Tables 15 – 16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only dyskinetic event included tardive dyskinesia, dyskinesia; and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
+In Tables 15-16, dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia, and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
-Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
+Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
 
 | Preferred Term | SEROQUEL400 mg/day(N=73) |  | SEROQUEL800 mg/day(N=74) |  | AllSEROQUEL(N=147) |  | Placebo(N=75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -352,7 +352,7 @@ Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo
 | Akathisia | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
 | OtherExtrapyramidalEvent | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
 
-Laboratory, ECG and vital sign changes observed in clinical studies
+Laboratory, ECG, and vital sign changes observed in clinical studies
 
 Laboratory Changes:
 
@@ -362,16 +362,16 @@ Adults: In placebo-controlled monotherapy clinical trials involving 3368 patient
 
 Transaminase Elevations
 
-Adults: Asymptomatic, transient and reversible elevations in serum transaminases (primarily ALT) have been reported.
-In schizophrenia trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for SEROQUEL compared to 1% (3/194) for placebo.
-In acute bipolar mania trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both SEROQUEL (3/560) and placebo (3/294).
+Adults: Asymptomatic, transient, and reversible elevations in serum transaminases (primarily ALT) have been reported.
+In schizophrenia trials in adults, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for SEROQUEL compared to 1% (3/194) for placebo.
+In acute bipolar mania trials in adults, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both SEROQUEL (3/560) and placebo (3/294).
 These hepatic enzyme elevations usually occurred within the first 3 weeks of drug treatment and promptly returned to pre-study levels with ongoing treatment with SEROQUEL.
-In bipolar depression trials, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in two 8-week placebo-controlled trials was 1% (5/698) for SEROQUEL and 2% (6/347) for placebo.
+In bipolar depression trials, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in two 8-week placebo-controlled trials was 1% (5/698) for SEROQUEL and 2% (6/347) for placebo.
 
 Decreased Hemoglobin
 
-Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo.
-In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 11% (2277/20729) of quetiapine-treated patients.
+Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤13 g/dL males, ≤12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo.
+In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤13 g/dL males, ≤12 g/dL females on at least one occasion occurred in 11% (2277/20729) of quetiapine-treated patients.
 
 Interference with Urine Drug Screens
 
@@ -384,17 +384,17 @@ Adults: Between-group comparisons for pooled placebo-controlled trials revealed 
 However, the proportions of patients meeting the criteria for tachycardia were compared in four 3- to 6-week placebo-controlled clinical trials for the treatment of schizophrenia revealing a 1% (4/399) incidence for SEROQUEL compared to 0.6% (1/156) incidence for placebo.
 In acute (monotherapy) bipolar mania trials the proportions of patients meeting the criteria for tachycardia was 0.5% (1/192) for SEROQUEL compared to 0% (0/178) incidence for placebo.
 In acute bipolar mania (adjunct) trials the proportions of patients meeting the same criteria was 0.6% (1/166) for SEROQUEL compared to 0% (0/171) incidence for placebo.
-In bipolar depression trials, no patients had heart rate increases to > 120 beats per minute.
+In bipolar depression trials, no patients had heart rate increases to >120 beats per minute.
 SEROQUEL use was associated with a mean increase in heart rate, assessed by ECG, of 7 beats per minute compared to a mean increase of 1 beat per minute among placebo patients.
 This slight tendency to tachycardia in adults may be related to SEROQUEL's potential for inducing orthostatic changes [see Warnings and Precautions (5.7)].
 
-Children and Adolescents: In the acute (6 week) schizophrenia trial in adolescents, increases in heart rate (> 110 bpm) occurred in 5.2% (3/73) of patients receiving SEROQUEL 400 mg and 8.5% (5/74) of patients receiving SEROQUEL 800 mg compared to 0% (0/75) of patients receiving placebo.
+Children and Adolescents: In the acute (6-week) schizophrenia trial in adolescents, increases in heart rate (>110 bpm) occurred in 5.2% (3/73) of patients receiving SEROQUEL 400 mg and 8.5% (5/74) of patients receiving SEROQUEL 800 mg compared to 0% (0/75) of patients receiving placebo.
 Mean increases in heart rate were 3.8 bpm and 11.2 bpm for SEROQUEL 400 mg and 800 mg groups, respectively, compared to a decrease of 3.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-In the acute (3 week) bipolar mania trial in children and adolescents, increases in heart rate (> 110 bpm) occurred in 1.1% (1/89) of patients receiving SEROQUEL 400 mg and 4.7% (4/85) of patients receiving SEROQUEL 600 mg compared to 0% (0/98) of patients receiving placebo.
+In the acute (3-week) bipolar mania trial in children and adolescents, increases in heart rate (>110 bpm) occurred in 1.1% (1/89) of patients receiving SEROQUEL 400 mg and 4.7% (4/85) of patients receiving SEROQUEL 600 mg compared to 0% (0/98) of patients receiving placebo.
 Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10-12 years and 13-17 years) occurred in 0% of patients receiving SEROQUEL XR and 1.2% of patients receiving placebo.
+In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (>110 bpm 10-12 years and 13-17 years) occurred in 0% of patients receiving SEROQUEL XR and 1.2% of patients receiving placebo.
 Mean increases in heart rate were 3.4 bpm for SEROQUEL XR, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
 ## 6.2 Postmarketing Experience

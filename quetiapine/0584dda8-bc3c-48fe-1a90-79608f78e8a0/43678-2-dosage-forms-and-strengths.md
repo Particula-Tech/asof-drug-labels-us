@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- •25 mg tablets are peach, round, biconvex, film coated tablets, identified with 'SEROQUEL' and ‘25’ on one side and plain on the other side,
+- •25 mg tablets are peach, round, biconvex, film coated tablets, identified with 'SEROQUEL' and ‘25’ on one side and plain on the other side
 - •50 mg tablets are white, round, biconvex, film coated tablets, identified with 'SEROQUEL' and ‘50’ on one side and plain on the other side
 - •100 mg tablets are yellow, round, biconvex, film coated tablets, identified with 'SEROQUEL' and ‘100’ on one side and plain on the other side
 - •200 mg tablets are white, round, biconvex, film coated tablets, identified with ‘SEROQUEL’ and ‘200’ on one side and plain on the other side

@@ -11,6 +11,6 @@ Quetiapine fumarate is a white to off-white crystalline powder which is moderate
 
 SEROQUEL is supplied for oral administration as 25 mg (round, peach), 50 mg (round, white), 100 mg (round, yellow), 200 mg (round, white), 300 mg (capsule-shaped, white), and 400 mg (capsule-shaped, yellow) tablets.
 
-Inactive ingredients are povidone, dibasic dicalcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol and titanium dioxide.
+Inactive ingredients are povidone, dibasic dicalcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 
 The 25 mg tablets contain red ferric oxide and yellow ferric oxide and the 100 mg and 400 mg tablets contain only yellow ferric oxide.
