@@ -75,7 +75,8 @@ Before you start FOSAMAX PLUS D, be sure to talk to your doctor if you:
 - Have sarcoidosis, leukemia, lymphoma.
   These conditions may cause changes in vitamin D.
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant or plan to become pregnant.
+- Are pregnant, trying to become pregnant or suspect that you are pregnant.
+  If you become pregnant while taking FOSAMAX PLUS D, stop taking it and contact your doctor.
   It is not known if FOSAMAX PLUS D can harm your unborn baby.
 - Are breast-feeding or plan to breast-feed.
   It is not known if FOSAMAX PLUS D passes into your milk and may harm your baby.

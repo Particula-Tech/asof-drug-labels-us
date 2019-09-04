@@ -5,9 +5,9 @@ By: FROSST IBERICA, S.A.
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2005, 2007, 2010, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2005-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0217a-t-1603r020
+uspi-mk0217a-t-1908r021
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -16,10 +16,10 @@ By: FROSST IBERICA, S.A.
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2010-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 11/2013
+Revised: 08/2019
 
-usmg-mk0217a-t-1311r015
+usmg-mk0217a-t-1908r016
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
