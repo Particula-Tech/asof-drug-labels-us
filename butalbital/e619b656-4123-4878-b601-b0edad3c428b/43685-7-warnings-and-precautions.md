@@ -37,9 +37,9 @@ Butalbital and acetaminophen tablets should be prescribed with caution in certai
 
 ## Information for Patients/Caregivers
 
-- •Do not take butalbital and acetaminophen tablets if you are allergic to any of its ingredients.
-- •If you develop signs of allergy such as a rash or difficulty breathing, stop taking butalbital and acetaminophen tablets and contact your healthcare provider immediately.
-- •Do not take more than 4000 milligrams of acetaminophen per day.
+- Do not take butalbital and acetaminophen tablets if you are allergic to any of its ingredients.
+- If you develop signs of allergy such as a rash or difficulty breathing, stop taking butalbital and acetaminophen tablets and contact your healthcare provider immediately.
+- Do not take more than 4000 milligrams of acetaminophen per day.
   Call your doctor if you took more than the recommended dose.
 
 This product may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
