@@ -1,12 +1,10 @@
 Bottle LABEL – PRINCIPAL DISPLAY PANEL 40MG
 
-NDC 68012-490-90 Fenoglide®
-
-(fenofibrate) tablets
+NDC 68012-490-90 Fenoglide® (fenofibrate) Tablets
 
 40 mg
 
-Rx only 90 Tablets Salix
+90 Tablets Rx only Salix
 
 Bottle LABEL – PRINCIPAL DISPLAY PANEL 120MG
 
