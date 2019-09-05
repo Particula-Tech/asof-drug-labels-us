@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206197"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-972-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant",
+      "name": "Fosaprepitant"
+    }
+  ],
+  "setid": "ffee61d1-c1c6-4224-871c-ab7ff6cd01e5",
+  "source": "dailymed"
+}
