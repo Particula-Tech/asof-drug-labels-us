@@ -2,10 +2,11 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.2)].
-- Abnormal thinking, behavior changes, and complex behaviors [see Warnings and Precautions (5.3)].
-- Withdrawal effects [see Warnings and Precautions (5.4)].
-- CNS-depressant effects [see Warnings and Precautions (5.5)].
+- Complex Sleep Behaviors [see Warnings and Precautions (5.1)]
+- CNS-Depressant Effects and Next Day Impairment [see Warnings and Precautions (5.2)]
+- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.4)]
+- Abnormal Thinking and Behavioral Changes [see Warnings and Precautions (5.5)]
+- Withdrawal Effects [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -85,8 +86,8 @@ Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled Clinical
 
 Dose relationship for adverse reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem tartrate use, particularly for certain CNS and gastrointestinal adverse reactions.
 
-Oral tissue-related adverse reactions in Zolpimist pharmacokinetics studies: The effect of chronic daily administrations of Zolpimist on oral tissue has not been evaluated.
-In pharmacokinetic studies conducted with Zolpimist in healthy subjects, an oral soft tissue exam was performed and no signs of oral irritation were noted following administration of single doses of Zolpimist.
+Oral tissue-related adverse reactions in ZOLPIMIST pharmacokinetics studies: The effect of chronic daily administrations of ZOLPIMIST on oral tissue has not been evaluated.
+In pharmacokinetic studies conducted with ZOLPIMIST in healthy subjects, an oral soft tissue exam was performed, and no signs of oral irritation were noted following administration of single doses of ZOLPIMIST.
 
 Adverse event incidence across the entire preapproval database: Zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the United States, Canada, and Europe.
 Treatment-emergent adverse event associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.

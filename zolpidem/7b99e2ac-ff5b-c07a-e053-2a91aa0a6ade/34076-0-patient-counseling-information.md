@@ -1,34 +1,31 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Severe anaphylactic and anaphylactoid reactions
+Prescribers or other healthcare professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with sedative-hypnotics, should counsel them in its appropriate use, and should instruct them to read the accompanying Medication Guide and Patient Instructions for Use [see Medication Guide and Patient Instructions for Use].
+
+Complex Sleep Behaviors
+
+Instruct patients and their families that ZOLPIMIST may cause complex sleep behaviors, including sleep-walking, sleep-driving, preparing and eating food, making phone calls, or having sex while not being fully awake.
+Serious injuries and death have occurred during complex sleep behavior episodes.
+Tell patients to discontinue ZOLPIMIST and notify their healthcare provider immediately if they develop any of these symptoms [see Boxed Warning, Warnings and Precautions (5.1)].
+
+CNS-Depressant Effects and Next-Day Impairment
+
+Inform patients that ZOLPIMIST should be administered immediately prior to going to bed.
+Caution patients against engaging in hazardous occupations requiring complete mental alertness or motor coordination such as driving.
+Inform patients that potential impairment of the performance of such activities may occur the day following administration of ZOLPIMST.
+Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients [see Warnings and Precautions (5.2)].
+
+Severe Anaphylactic and Anaphylactoid Reactions
 
 Inform patients that severe anaphylactic and anaphylactoid reactions have occurred with zolpidem.
 Describe the signs/symptoms of these reactions and advise patients to seek medical attention immediately if any of them occur.
+[see Warnings and Precautions (5.4)]
 
-## 17.2 Sleep-Driving and other complex behaviors
-
-There have been reports of people getting out of bed after taking a sedative-hypnotic and driving their cars while not fully awake, often with no memory of the event.
-If a patient experiences such an episode, it should be reported to his or her doctor immediately, since “sleep-driving” can be dangerous.
-This behavior is more likely to occur when Zolpimist is taken with alcohol or other central nervous system depressants [see Warnings and Precautions (5.3)].
-Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
-As with “sleep-driving”, patients usually do not remember these events.
-
-In addition patients should be advised to report all concomitant medications to the prescriber.
-Patients should be instructed to report events such as “sleep-driving” and other complex behaviors immediately to the prescriber.
-
-## 17.3 CNS-depressant effects
-
-Caution patients against engaging in hazardous occupations requiring complete mental alertness or motor coordination such as driving.
-Inform patients that potential impairment of the performance of such activities may occur the day following administration of Zolpimist.
-Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients.
-
-## 17.4 Administration instructions
+Administration Instructions
 
 See the Dosage and Administration section [see Administration (2.4)].
-Zolpimist is packaged in a child-resistant container.
-Patients should be referred to the Patient Instructions for Use (following the Medication Guide) for detailed instructions on how to use Zolpimist.
-Patients should be counseled to take Zolpimist right before they get into bed and only when they are able to stay in bed a full night (7-8 hours) before being active again.
-Zolpimist should not be taken with or immediately after a meal.
-Advise patients NOT to take Zolpimist when drinking alcohol.
-
-## 17.5 Medication Guide and Patient Instructions for Use
+ZOLPIMIST is packaged in a child-resistant container.
+Patients should be referred to the Patient Instructions for Use (following the Medication Guide) for detailed instructions on how to use ZOLPIMIST.
+Patients should be counseled to take ZOLPIMIST right before they get into bed and only when they are able to stay in bed a full night (7-8 hours) before being active again.
+ZOLPIMIST should not be taken with or immediately after a meal.
+Advise patients NOT to take ZOLPIMIST when drinking alcohol.
