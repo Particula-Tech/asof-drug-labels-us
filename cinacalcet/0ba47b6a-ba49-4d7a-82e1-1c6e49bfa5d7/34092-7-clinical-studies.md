@@ -52,7 +52,7 @@ Effects of Cinacalcet Hydrochloride Tablets on iPTH, Ca x P, Serum Calcium, and 
 | Evaluation Phase (mg/dL) | 6.0 | 5.6 | 5.9 | 5.1 | 5.6 | 5.3 |
 | Median Percent Change | -1.0 | -9.0 | -2.4 | -12.4 | -5.6 | -8.6 |
 | Values shown are medians unless indicated otherwise |  |  |  |  |  |  |
-| *iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3) |  |  |  |  |  |  |
+| *iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). |  |  |  |  |  |  |
 | † p < 0.001 compared with placebo; p-values presented for primary endpoint only |  |  |  |  |  |  |
 
 Figure 1.
@@ -73,8 +73,20 @@ Plasma iPTH levels were measured using the Nichols IRMA.
 
 ## 14.2 Parathyroid Carcinoma
 
-No dosage adjustment is required in patients with mild to moderate hepatic impairment.
-The safety and pharmacokinetics in patients with severe hepatic impairment have not been evaluated [see Clinical Pharmacology (12.3)].
+Twenty-nine patients with Parathyroid Carcinoma were enrolled in a single-arm, open-label study.
+The study consisted of two phases, a dose-titration phase and a maintenance phase.
+Patients initially received 30 mg cinacalcet twice daily and then were titrated every 2 weeks to a maximum dose of 90 mg four times daily.
+Dosage escalation during the variable-length (2 to 16 weeks) titration phase continued until the serum calcium concentration was ≤ 10 mg/dL (2.5 mmol/L), the patient reached the highest possible dosage, or adverse events precluded further dosage increases.
+
+Twenty- nine patients entered the study.
+The median exposure to cinacalcet was 229 days (range: 1 to 1051).
+At baseline the mean (SE) serum calcium was 14.1 (0.4) mg/dL.
+At the end of the titration phase, the mean (SE) serum calcium was 12.4 (0.5) mg/dL, which is a mean reduction of 1.7 (0.6) mg/dL from baseline.
+Figure 3 illustrates mean serum calcium (mg/dL) over time for all patients still on study at each time point from the beginning of titration to study visit week 80.
+Daily dose during the study ranged from 30 mg twice daily to 90 mg four times daily.
+
+Figure 3.
+Serum Calcium Values in Patients With Parathyroid Carcinoma Receiving Cinacalcet Hydrochloride Tablets at Baseline, Titration, and Maintenance Phase
 
 n = Number of patients with non-missing values at the time point.
 

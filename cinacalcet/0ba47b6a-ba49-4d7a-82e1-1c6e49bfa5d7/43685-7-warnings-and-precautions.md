@@ -8,9 +8,9 @@ Life threatening events and fatal outcomes associated with hypocalcemia have bee
 The safety and effectiveness of cinacalcet hydrochloride tablets have not been established in pediatric patients [see Pediatric Use (8.4)].
 
 Cinacalcet hydrochloride tablets is not indicated for patients with CKD not on dialysis [see Indications and Usage (1)].
-In patients with secondary HPT and CKD not on dialysis, the long term safety and efficacy of cinacalcet hydrochloride tablets have not been established.
+In patients with secondary HPT and CKD not on dialysis, the long- term safety and efficacy of cinacalcet hydrochloride tablets have not been established.
 Clinical studies indicate that cinacalcet-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with cinacalcet-treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.
-In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of cinacalcet-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
+In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet hydrochloride tablets, 102 placebo), in which the median dose for cinacalcet hydrochloride tablets was 60 mg per day at the completion of the study, 80% of cinacalcet-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
 
 QT Interval Prolongation and Ventricular Arrhythmia
 
@@ -35,7 +35,6 @@ Patient Education and Hypocalcemia Treatment
 Educate patients on the symptoms of hypocalcemia and advise them to contact a healthcare provider if they occur.
 
 If corrected serum calcium falls below the lower limit of normal or symptoms of hypocalcemia develop, start or increase calcium supplementation (including calcium, calcium-containing phosphate binders, and/or vitamin D sterols or increases in dialysate calcium concentration).
-
 Cinacalcet hydrochloride tablets dose reduction or discontinuation of cinacalcet hydrochloride tablets may be necessary [see Dosage and Administration (2.2)].
 
 ## 5.2 Upper Gastrointestinal Bleeding
@@ -49,7 +48,7 @@ Promptly evaluate and treat any suspected GI bleeding.
 
 ## 5.3 Hypotension, Worsening Heart Failure and/or Arrythmias
 
-In post marketing safety surveillance, isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function, in which a causal relationship to cinacalcet hydrochloride tablets could not be completely excluded and which may be mediated by reductions in serum calcium levels [see Adverse Reactions (6.2)].
+In postmarketing safety surveillance, isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function, in which a causal relationship to cinacalcet hydrochloride tablets could not be completely excluded and which may be mediated by reductions in serum calcium levels [see Adverse Reactions (6.2)].
 
 ## 5.4 Adynamic Bone Disease
 

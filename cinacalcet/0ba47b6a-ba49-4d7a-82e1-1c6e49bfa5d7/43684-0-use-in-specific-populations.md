@@ -14,7 +14,7 @@ Data
 
 Animal Data
 
-In pregnant female rats given oral gavage doses of 2, 25, 50 mg/kg/day cinacalcet during gestation, no teratogenicity was observed at doses up to 50 mg/kg/day (exposure 4 times those resulting with a human oral dose of 180 mg/day based on AUC comparison).
+In pregnant female rats given oral gavage doses of 2, 25, 50 mg/kg/day cinacalcet during gestation, no teratogenicity was observed at doses up to 50 mg/kg/day (exposure 4 times those resulting with a human oral dose of 180 mg/day based on Area Under the Curve [AUC] comparison.
 Decreased fetal body weights were observed at all doses (less than 1 to 4 times a human oral dose of 180 mg/ day based on AUC comparison) in conjunction with maternal toxicity (decreased food consumption and body weight gain).
 
 In pregnant female rabbits given oral gavage doses of 2, 12, 25 mg/kg/day cinacalcet during gestation, no adverse fetal effects were observed (exposures less than with a human oral dose of 180 mg/day based on AUC comparisons).
@@ -22,7 +22,7 @@ Reductions in maternal food consumption and body weight gain were seen at doses 
 Cinacalcet has been shown to cross the placental barrier in rabbits.
 
 In pregnant rats given oral gavage doses of 5, 15, 25 mg/kg/day cinacalcet during gestation through lactation, no adverse fetal or pup (post-weaning) effects were observed at 5 mg/kg/day (exposures less than with a human therapeutic dose of 180 mg/day based on AUC comparisons).
-Higher doses of 15 and 25 mg/kg/day cinacalcet (exposures 2 to 3 times a human oral dose of 180 mg/day based on AUC comparisons) were accompanied by maternal signs of hypocalcemia (periparturient mortality and early postnatal pup loss), and reductions in postnatal maternal and pup body-weight gain.
+Higher doses of 15 and 25 mg/kg/day cinacalcet (exposures 2 to 3 times a human oral dose of 180 mg/day based on AUC comparisons) were accompanied by maternal signs of hypocalcemia (periparturient mortality and early postnatal pup loss), and reductions in postnatal maternal and pup body weight gain.
 
 ## 8.2 Lactation
 
@@ -35,11 +35,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 The safety and efficacy of cinacalcet hydrochloride tablets have not been established in pediatric patients.
-Dosing with cinacalcet hydrochloride tablets in a pediatric study was stopped because of a fatality in a cinacalcet-treated individual.
-The individual was noted to be severely hypocalcemic at the time of death.
-The cause of death was multifactorial and a contribution of cinacalcet hydrochloride tablets to the death could not be excluded [see Warnings and Precautions (5.1)].
 
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Amgen Inc.'s Sensipar®(cinacalcet hydrochloride) product.
+Dosing with cinacalcet hydrochloride tablets in a pediatric study was stopped because of a fatality in a cinacalcet-treated Individual.
+The individual was noted to be severely hypocalcemic at the time of death.
+The cause of death was multifactorial and a contribution of cinacalcet hydrochloride tablets to the death could not be excluded (see Warnings and Precautions (5.
+1)
+
+Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Amgen Inc.'s Sensipar ® (cinacalcet hydrochloride) product.
 However, due to Amgen Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use

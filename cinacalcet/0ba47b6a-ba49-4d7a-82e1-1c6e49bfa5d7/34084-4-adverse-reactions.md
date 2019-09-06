@@ -16,15 +16,15 @@ Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysi
 In three double-blind, placebo-controlled clinical trials, 1126 patients with CKD on dialysis received study drug (656 cinacalcet hydrochloride tablets, 470 placebo) for up to 6 months.
 The most frequently reported adverse reactions are listed in Table 1.
 
-Seizures were observed in 1.4% (13/910) of cinacalcet-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo controlled trials.
+Seizures were observed in 1.4% (13/910) of cinacalcet-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo-controlled trials.
 
 Table 1.
 Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term Studies for up to 6 Months
 
-|  | Placebo | Cinacalcet Hydrochloride Tablets |
+| Event*: | Placebo | Cinacalcet Hydrochloride Tablets |
 | --- | --- | --- |
 |  | (n = 470) | (n = 656) |
-| Event*: | (%) | (%) |
+|  | (%) | (%) |
 | Nausea | 19 | 31 |
 | Vomiting | 15 | 27 |
 | Diarrhea | 20 | 21 |
@@ -37,7 +37,7 @@ Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term St
 | Dialysis Access Site Infection | 4 | 5 |
 | *Included are events that were reported at a greater incidence in the cinacalcet hydrochloride tablets group than in the placebo group. |  |  |
 
-In a randomized, double-blind placebo controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet hydrochloride tablets group), the most frequently reported adverse reactions (incidence of ≥ 5% in the cinacalcet hydrochloride tablets group and a difference ≥ 1% compared to placebo) are listed in Table 2.
+In a randomized, double-blind placebo-controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet hydrochloride tablets group), the most frequently reported adverse reactions (incidence of ≥ 5% in the cinacalcet hydrochloride tablets group and a difference ≥ 1% compared to placebo) are listed in Table 2.
 
 Table 2.
 Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months in a Long-Term Study1
@@ -65,15 +65,15 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 | Asthenia | 3.8 | 5.4 |
 | Constipation | 3.8 | 5.0 |
 | 1Adverse reactions that occurred in ≥ 5% Frequency in the cinacalcet hydrochloride tablets group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set) |  |  |
-| Crude incidence rate = 100 * Total number of subjects with event/ N |  |  |
-| N=Number of subjects receiving at least one dose of study drug |  |  |
+| Crude incidence rate = 100 * Total number of subjects with event/ n |  |  |
+| n=Number of subjects receiving at least one dose of study drug |  |  |
 
 Additional adverse reaction rates from the long-term, randomized, double-blind placebo controlled study for cinacalcet hydrochloride tablets versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
 
 Patients with Parathyroid Carcinoma and Primary Hyperparathyroidism
 
 The safety profile of cinacalcet hydrochloride tablets in these patient populations is generally consistent with that seen in patients with CKD on dialysis.
-Forty six patients were treated with cinacalcet hydrochloride tablets in a single arm study, 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
+Forty six patients were treated with cinacalcet hydrochloride tablets in a single-arm study; 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
 Nine (20%) of the patients withdrew from the study due to adverse events.
 The most frequent adverse reactions and the most frequent cause of withdrawal in these patient populations were nausea and vomiting.
 Severe or prolonged cases of nausea and vomiting can lead to dehydration and worsening hypercalcemia so careful monitoring of electrolytes is recommended in patients with these symptoms.
