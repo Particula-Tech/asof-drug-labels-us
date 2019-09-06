@@ -5,7 +5,7 @@
 TYBOST decreases estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function.
 This effect should be considered when interpreting changes in estimated creatinine clearance in patients initiating TYBOST, particularly in patients with medical conditions or receiving drugs needing monitoring with estimated creatinine clearance.
 
-Prior to initiating therapy with TYBOST, assess estimated creatinine clearance [see Dosage and Administration (2.2)].
+Prior to initiating therapy with TYBOST, assess estimated creatinine clearance [see Dosage and Administration (2.3)].
 Dosage recommendations are not available for drugs that require dosage adjustments in TYBOST-treated patients with renal impairment [see Adverse Reactions (6.1), Drug Interactions (7.3), and Clinical Pharmacology (12.2)].
 Consider alternative medications that do not require dosage adjustments in patients with renal impairment.
 
@@ -15,8 +15,8 @@ Although TYBOST may cause modest increases in serum creatinine and modest declin
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when TYBOST was used in an antiretroviral regimen that contained TDF.
 
-- Coadministration of TYBOST and TDF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min because dose adjustment of TDF is required below 50 mL/min and such dose adjustments have not been established for coadministration with TYBOST [see Dosage and Administration (2.2, 2.3)].
-- Document urine glucose and urine protein at baseline [see Dosage and Administration (2.2)] and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment when TYBOST is used with TDF.
+- Coadministration of TYBOST and TDF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min because dose adjustment of TDF is required below 50 mL/min and such dose adjustments have not been established for coadministration with TYBOST [see Dosage and Administration (2.3, 2.4)].
+- Document urine glucose and urine protein at baseline [see Dosage and Administration (2.3)] and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment when TYBOST is used with TDF.
   Measure serum phosphorus in patients with or at risk for renal impairment when used with TDF.
 - Coadministration of TYBOST and TDF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
 
@@ -44,7 +44,7 @@ See Table 5 for steps to prevent or manage these possible and known significant 
 Consider the potential for drug interactions prior to and during TYBOST with atazanavir or darunavir therapy; review concomitant medications during TYBOST with atazanavir or darunavir therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 TYBOST or ritonavir when administered with either atazanavir or darunavir may result in different drug interactions when used with concomitant medications.
-Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain TYBOST interactions [see Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain TYBOST interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.4 Antiretrovirals that are Not Recommended in Combination with TYBOST
 

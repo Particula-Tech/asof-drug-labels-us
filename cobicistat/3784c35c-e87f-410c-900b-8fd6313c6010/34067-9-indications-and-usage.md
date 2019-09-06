@@ -1,8 +1,16 @@
 # 1 INDICATIONS AND USAGE
 
-TYBOST is a CYP3A inhibitor indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection [see Dosage and Administration (2.1)].
+## 1.1 Indications
 
-Limitations of Use:
+Adult Patients:
+
+TYBOST is a CYP3A inhibitor indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection in adults [see Dosage and Administration (2.1)].
+
+Pediatric Patients:
+
+TYBOST is a CYP3A inhibitor indicated to increase systemic exposure of atazanavir in combination with other antiretroviral agents in the treatment of HIV-1 infection in pediatric patients weighing at least 35 kg [see Dosage and Administration (2.2)].
+
+## 1.2 Limitations of Use
 
 - TYBOST is not interchangeable with ritonavir to increase systemic exposure of darunavir 600 mg twice daily, fosamprenavir, saquinavir, or tipranavir due to lack of exposure data.
   The use of TYBOST is not recommended with darunavir 600 mg twice daily, fosamprenavir, saquinavir, or tipranavir [see Warnings and Precautions (5.4)].

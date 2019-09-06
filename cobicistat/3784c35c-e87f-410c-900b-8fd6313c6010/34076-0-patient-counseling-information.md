@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Drug Interaction
 
 Inform patients that TYBOST coadministered with atazanavir or darunavir may interact with many drugs with potential serious implications and that some drugs are contraindicated with TYBOST coadministered with atazanavir or darunavir.
-Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication, including acid-modifying medications or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.3) and Drug Interactions (7)].
+Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication, including acid-modifying medications or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.3), and Drug Interactions (7)].
 
 New Onset or Worsening Renal Impairment
 

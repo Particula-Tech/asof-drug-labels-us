@@ -9,12 +9,12 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-TYBOST coadministered with darunavir or atazanavir is not recommended during pregnancy [see Dosage and Administration (2.4)].
+TYBOST coadministered with darunavir or atazanavir is not recommended during pregnancy [see Dosage and Administration (2.5)].
 In a clinical trial of individuals taking cobicistat coadministered with darunavir, exposures of cobicistat and darunavir were substantially lower during the second and third trimesters of pregnancy [see Data and Clinical Pharmacology (12.3)].
 
 TYBOST use during pregnancy has been evaluated in a limited number of individuals as reported by the APR, and available data show no difference in the rate of overall birth defects for cobicistat compared with the background rate for major defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
-The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15–20%.
+The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15−20%.
 
 In animal reproduction studies in rats and rabbits, no evidence of fetal harm was observed with oral administration of cobicistat during organogenesis at doses that produced exposures up to 1.4 and 3.3 times, respectively, the maximal recommended human dose (MRHD) of 150 mg (see Data).
 Because TYBOST is coadministered with atazanavir or darunavir and other antiretroviral drugs, also refer to the prescribing information of each drug for information about pregnancy.
@@ -35,8 +35,8 @@ There are no clinical data on the virologic response when darunavir/cobicistat i
 
 There were no new clinically relevant safety findings compared with the known safety profile of darunavir/cobicistat in HIV-1-infected adults.
 
-The APR has received prospective reports of live births following exposure to cobicistat-containing regimens during pregnancy, including 204 exposures in the first trimester and 58 exposures in the second/third trimester.
-Birth defects occurred in 5 of 204 (2.5%, 95% CI: 0.8% to 5.6%) live births with first trimester exposure of cobicistat-containing regimens.
+The APR has received prospective reports of live births following exposure to cobicistat-containing regimens during pregnancy, including 258 exposures in the first trimester and 64 exposures in the second/third trimester.
+Birth defects occurred in 6 of 258 (2.3%, 95% CI: 0.9% to 5.0%) live births with first trimester exposure of cobicistat-containing regimens.
 Insufficient numbers of pregnancies with earliest exposure to cobicistat in the second/third trimesters have been reported to the APR to estimate the rate of birth defects in this population.
 Among pregnant mothers in the U.S. reference population, the background rate of birth defects is 2.7%.
 There was no association between cobicistat and overall birth defects observed in the APR.
@@ -49,7 +49,7 @@ Animal Data
 Cobicistat was administered orally to pregnant rats at doses of 0, 25, 50, and 125 mg/kg/day on gestation day 6 to 17.
 Maternal toxicity (adverse clinical signs, decreased body weight and food consumption) was noted at 125 mg/kg/day and was associated with increases in postimplantation loss and decreased fetal weights.
 No malformations were noted at doses up to 125 mg/kg/day.
-Systemic exposures (AUC) at 50 mg/kg/day in pregnant females was 1.4-fold higher than the exposures at the MRHD.
+Systemic exposures (AUC) at 50 mg/kg/day in pregnant females were 1.4-fold higher than the exposures at the MRHD.
 
 In pregnant rabbits, cobicistat was administered orally at doses of 0, 20, 50, and 100 mg/kg/day during the gestation days 7 to 20.
 No maternal or embryo/fetal effects were noted at the highest dose of 100 mg/kg/day.
@@ -74,7 +74,13 @@ TYBOST interacts with certain oral contraceptives [see Drug Interactions (7.3)].
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of TYBOST in pediatric patients younger than 18 years of age have not been established.
+The safety and effectiveness of TYBOST coadministered with atazanavir and two nucleoside reverse transcriptase inhibitors for the treatment of HIV-1 infection have been established in virologically suppressed pediatric patients weighing at least 35 kg [see Indications and Usage (1.1) and Dosage and Administration (2.2)].
+
+Use of TYBOST for this indication is supported by evidence from adequate and well-controlled studies in adults, and by pharmacokinetic, safety, and virologic data from an open-label trial (Trial 128) in virologically suppressed, HIV-1 infected pediatric subjects aged 12 years and older.
+The safety in these subjects through 48 weeks was similar to that in antiretroviral treatment-naïve adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+Safety and effectiveness of TYBOST in combination with atazanavir in pediatric patients weighing less than 35 kg have not been established.
+Safety and effectiveness of TYBOST in combination with darunavir in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
