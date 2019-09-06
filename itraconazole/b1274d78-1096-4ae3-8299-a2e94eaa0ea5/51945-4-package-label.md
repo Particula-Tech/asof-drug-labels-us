@@ -1,3 +1,3 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Itraconazole capsules 100 mg
+Itraconazole capsules USP 100 mg
