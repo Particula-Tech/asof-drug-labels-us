@@ -15,6 +15,10 @@ The rate of administration should be titrated in accordance with the patient's r
 Naloxone Hydrochloride Injection, USP should not be mixed with preparations containing bisulfite, metabisulfite, long-chain or high molecular weight anions, or any solution having an alkaline pH.
 No drug or chemical agent should be added to Naloxone Hydrochloride Injection, USP unless its effect on the chemical and physical stability of the solution has first been established.
 
+General
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+
 Usage in Adults:
 
 Opioid Overdose—Known or Suspected: An initial dose of 0.4 mg to 2 mg of naloxone hydrochloride may be administered intravenously.
@@ -43,14 +47,10 @@ If necessary, Naloxone Hydrochloride Injection, USP can be diluted with sterile 
 Postoperative Opioid Depression: Follow the recommendations and cautions under Adult Postoperative Depression.
 For the initial reversal of respiratory depression, naloxone hydrochloride should be injected in increments of 0.005 mg to 0.01 mg intravenously at two to three minute intervals to the desired degree of reversal.
 
-Usage in Neonates
-
-When using naloxone hydrochloride injection in neonates a product containing 0.02 mg/mL should be used.
+Usage in Neonates:
 
 Opioid-Induced Depression: The usual initial dose is 0.01 mg/kg body weight administered I.V., I.M., or S.C.
 This dose may be repeated in accordance with adult administration guidelines for postoperative opioid depression.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 Do not administer unless solution is clear and container is undamaged.
 Discard unused portion.

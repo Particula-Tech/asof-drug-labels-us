@@ -14,6 +14,6 @@ Protect from light.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1216-3.0
+LAB-1216-4.0
 
-Revised: 5/2019
+Revised: 8/2019

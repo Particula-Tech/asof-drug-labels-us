@@ -45,13 +45,17 @@ Studies in animals to assess the carcinogenic potential of naloxone have not bee
 Naloxone was weakly positive in the Ames mutagenicity and in the in vitro human lymphocyte chromosome aberration test but was negative in the in vitro Chinese hamster V79 cell HGPRT mutagenicity assay and in the in vivo rat bone marrow chromosome aberration study.
 Reproduction studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m2), demonstrated no embryotoxic or teratogenic effects due to naloxone.
 
-Use in Pregnancy: Teratogenic Effects:
+Use in Pregnancy:
+
+Teratogenic Effects:
 
 Teratology studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m2), demonstrated no embryotoxic or teratogenic effects due to naloxone.
 There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, naloxone hydrochloride should be used during pregnancy only if clearly needed.
 
-Non-teratogenic effects: Risk-benefit must be considered before naloxone is administered to a pregnant woman who is known or suspected to be opioid-dependent since maternal dependence may often be accompanied by fetal dependence.
+Non-teratogenic Effects:
+
+Risk-benefit must be considered before naloxone is administered to a pregnant woman who is known or suspected to be opioid-dependent since maternal dependence may often be accompanied by fetal dependence.
 Naloxone crosses the placenta, and may precipitate withdrawal in the fetus as well as in the mother.
 Patients with mild to moderate hypertension who receive naloxone during labor should be carefully monitored as severe hypertension may occur.
 
