@@ -1,7 +1,19 @@
 # WARNINGS
 
-LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS, PRECAUTIONS and OVERDOSAGE).
+LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS and PRECAUTIONS).
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST, AND, POSSIBLY, DEATH.
+
+## Methemoglobinemia
+
+Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious CNS and cardiovascular adverse effects including seizures, coma, arrhythmias, and death.
+Discontinue bupivacaine and any other oxidizing agents.
+Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
 Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
 The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
@@ -24,16 +36,16 @@ Mixing or the prior or intercurrent use of any other local anesthetic with bupiv
 # PRECAUTIONS
 
 General: The safety and effectiveness of spinal anesthetics depend on proper dosage, correct technique, adequate precautions and readiness for emergencies.
-Resuscitative equipment, oxygen and other resuscitative drugs should be available for immediate use (see WARNINGS, ADVERSE REACTIONS and OVERDOSAGE).
+Resuscitative equipment, oxygen and other resuscitative drugs should be available for immediate use (see WARNINGS and ADVERSE REACTIONS).
 The patient should have intravenous fluids running via an indwelling catheter to assure a functioning intravenous pathway.
 The lowest dosage of local anesthetic that results in effective anesthesia should be used.
 Aspiration for blood should be performed before injection and injection should be made slowly.
 Tolerance varies with the status of the patient.
-Debilitated, elderly patients and acutely ill patients may require reduced doses.
+Elderly patients and acutely ill patients may require reduced doses.
 Reduced doses may also be indicated in patients with increased intra-abdominal pressure (including obstetrical patients), if otherwise suitable for spinal anesthesia.
 
 There should be careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness after local anesthetic injection.
-Restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, depression or drowsiness may be early warning signs of central nervous system toxicity.
+Restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, depression or drowsiness may be early warning signs of CNS toxicity.
 
 Spinal anesthetics should be used with caution in patients with severe disturbances of cardiac rhythm, shock, or heart block.
 
@@ -54,13 +66,13 @@ In deciding whether to use these products concurrently in the same patient, the 
 Many drugs used during the conduct of anesthesia are considered potential triggering agents for familial malignant hyperthermia.
 Because it is not known whether amide-type local anesthetics may trigger this reaction and because the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for management should be available.
 Early unexplained signs of tachycardia, tachypnea, labile blood pressure, and metabolic acidosis may precede temperature elevation.
-Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and prompt institution of treatment, including oxygen therapy, indicated supportive measures, and dantrolene (Consult dantrolene sodium intravenous package insert before using).
+Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and institution of treatment, including oxygen therapy, indicated supportive measures, and dantrolene (Consult dantrolene sodium intravenous package insert before using).
 
 The following conditions may preclude the use of spinal anesthesia, depending upon the physician's evaluation of the situation and ability to deal with the complications or complaints which may occur:
 
-- •Pre-existing diseases of the central nervous system, such as those attributable to pernicious anemia, poliomyelitis, syphilis, or tumor.
+- •Pre-existing diseases of the CNS, such as those attributable to pernicious anemia, poliomyelitis, syphilis, or tumor.
 - •Hematological disorders predisposing to coagulopathies or patients on anticoagulant therapy.
-  Trauma to a blood vessel during the conduct of spinal anesthesia may, in some instances, result in uncontrollable central nervous system hemorrhage or soft tissue hemorrhage.
+  Trauma to a blood vessel during the conduct of spinal anesthesia may, in some instances, result in uncontrollable CNS hemorrhage or soft tissue hemorrhage.
 - •Chronic backache and preoperative headache.
 - •Hypotension and hypertension.
 - •Technical problems (persistent paresthesias, persistent bloody tap).
@@ -69,7 +81,10 @@ The following conditions may preclude the use of spinal anesthesia, depending up
 - •Psychosis or other causes of poor cooperation by the patient.
 
 Information for Patients: When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of spinal anesthesia.
-Also, when appropriate, the physician should discuss other information including adverse reactions in the Bupivacaine Spinal (Bupivacaine in Dextrose Injection, USP) package insert.
+Also, when appropriate, the physician should discuss other information including adverse reactions in the Bupivacaine Spinal (bupivacaine in dextrose injection, USP) package insert.
+
+Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
+Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
 
 Clinically Significant Drug Interactions: The administration of local anesthetic solutions containing epinephrine or norepinephrine to patients receiving monoamine oxidase inhibitors or tricyclic antidepressants may produce severe, prolonged hypertension.
 Concurrent use of these agents should generally be avoided.
@@ -78,6 +93,20 @@ In situations when concurrent therapy is necessary, careful patient monitoring i
 Concurrent administration of vasopressor drugs and of ergot-type oxytocic drugs may cause severe persistent hypertension or cerebrovascular accidents.
 
 Phenothiazines and butyrophenones may reduce or reverse the pressor effect of epinephrine.
+
+Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+Examples of Drugs Associated with Methemoglobinemia:
+
+| Class | Examples |
+| --- | --- |
+| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
+| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, isofamide, rasburicase |
+| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
+| Antimalarials | chloroquine, primaquine |
+| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
+| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine hydrochloride have not been conducted.
 The mutagenic potential and the effect on fertility of bupivacaine hydrochloride have not been determined.
@@ -92,7 +121,7 @@ The high doses are approximately 30-times the daily maximum recommended human do
 No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level being approximately 8-times the MRHD on a BSA basis.
 
-In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg/day, decreased pup survival was observed at the high dose.
+In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg, decreased pup survival was observed at the high dose.
 The high dose is approximately 30-times the daily MRHD of 12 mg/day on a BSA basis.
 
 Labor and Delivery: Spinal anesthesia has a recognized use during labor and delivery.
@@ -103,7 +132,7 @@ Local anesthetics produce vasodilation by blocking sympathetic nerves.
 Elevating the patient's legs and positioning her on her left side will help prevent decreases in blood pressure.
 The fetal heart rate also should be monitored continuously and electronic fetal monitoring is highly advisable.
 
-It is extremely important to avoid aortocaval compression by the gravid uterus during administration of regional block to parturients.
+It is extremely important to avoid aortocaval compression by the gravid uterus during administrations of regional block to parturients.
 To do this, the patient must be maintained in the left lateral decubitus position or a blanket roll or sandbag may be placed beneath the right hip and the gravid uterus displaced to the left.
 
 Spinal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
@@ -115,16 +144,16 @@ This has not been reported with bupivacaine.
 
 There have been reports of cardiac arrest during use of bupivacaine hydrochloride 0.75% solution for epidural anesthesia in obstetrical patients.
 The package insert for bupivacaine hydrochloride for epidural, nerve block, etc. has a more complete discussion of preparation for, and management of, this problem.
-These cases are compatible with systemic toxicity following unintended intravascular injection of the much larger dose recommended for epidural anesthesia and have not occurred within the dose range of bupivacaine hydrochloride 0.75% recommended for spinal anesthesia in obstetrics.
+These cases are compatible with systemic toxicity following unintended intravascular injection of the much larger doses recommended for epidural anesthesia and have not occurred within the dose range of bupivacaine hydrochloride 0.75% recommended for spinal anesthesia in obstetrics.
 The 0.75% concentration of bupivacaine hydrochloride is therefore not recommended for obstetrical epidural anesthesia.
-Bupivacaine Spinal (bupivacaine in dextrose injection, USP) is recommended for spinal anesthesia in obstetrics.
+Bupivacaine Spinal (bupivacaine hydrochloride in dextrose injection) is recommended for spinal anesthesia in obstetrics.
 
-Nursing Mothers: It is not known whether local anesthetic drugs are excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when local anesthetic drugs are administered to a nursing woman.
+Nursing Mothers: Bupivacaine has been reported to be excreted in human milk suggesting that the nursing infant could be theoretically exposed to a dose of the drug.
+Because of the potential for serious adverse reactions in nursing infants from bupivacaine, a decision should be made whether to discontinue nursing or not administer bupivacaine, taking into account the importance of the drug to the mother.
 
 Pediatric Use: Until further experience is gained in patients younger than 18 years, administration of Bupivacaine Spinal in this age group is not recommended.
 
-Geriatric Use: Patients over 65 years, particularly those with hypertension, may be at increased risk of developing hypotension while undergoing spinal anesthesia with Bupivacaine Spinal (see PRECAUTIONS, General and ADVERSE REACTIONS, Cardiovascular System).
+Geriatric Use: Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing spinal anesthesia with Bupivacaine Spinal (see PRECAUTIONS, General and ADVERSE REACTIONS, Cardiovascular System).
 
 Elderly patients may require lower doses of Bupivacaine Spinal (see PRECAUTIONS, General and DOSAGE AND ADMINISTRATION).
 

@@ -9,16 +9,16 @@ Factors influencing plasma protein binding, such as acidosis, systemic diseases 
 
 Respiratory System: Respiratory paralysis or underventilation may be noted as a result of upward extension of the level of spinal anesthesia and may lead to secondary hypoxic cardiac arrest if untreated.
 Preanesthetic medication, intraoperative analgesics and sedatives, as well as surgical manipulation, may contribute to underventilation.
-This will usually be noted within minutes of the injection of spinal anesthetic solution, but because of differing surgical maximal onset times, differing intercurrent drug usage and differing manipulation, it may occur at any time during surgery or the immediate recovery period.
+This will usually be noted within minutes of the injection of spinal anesthetic solution, but because of differing maximal onset times, differing intercurrent drug usage and differing surgical manipulation, it may occur at any time during surgery or the immediate recovery period.
 
 Cardiovascular System: Hypotension due to loss of sympathetic tone is a commonly encountered extension of the clinical pharmacology of spinal anesthesia.
-This is more commonly observed in patients with shrunken blood volume, shrunken interstitial fluid volume, cephalad spread of the local anesthetic, and/or mechanical obstruction of venous return.
+This is more commonly observed in elderly patients, particularly those with hypertension, and patients with shrunken blood volume, shrunken interstitial fluid volume, cephalad spread of the local anesthetic, and/or mechanical obstruction of venous return.
 Nausea and vomiting are frequently associated with hypotensive episodes following the administration of spinal anesthesia.
 High doses, or inadvertent intravascular injection, may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, bradycardia, heart block, ventricular arrhythmias, and, possibly, cardiac arrest (see WARNINGS, PRECAUTIONS, and OVERDOSAGE sections).
 
-Central Nervous System: Respiratory paralysis or underventilation secondary to cephalad spread of the level of spinal anesthesia (see Respiratory System) and hypotension for the same reason (see Cardiovascular System) are the two most commonly encountered central nervous system-related adverse observations which demand immediate countermeasures.
+CNS: Respiratory paralysis or underventilation secondary to cephalad spread of the level of spinal anesthesia (see Respiratory System) and hypotension for the same reason (see Cardiovascular System) are the two most commonly encountered CNS-related adverse observations which demand immediate countermeasures.
 
-High doses or inadvertent intravascular injection may lead to high plasma levels and related central nervous system toxicity characterized by excitement and/or depression.
+High doses or inadvertent intravascular injection may lead to high plasma levels and related CNS toxicity characterized by excitement and/or depression.
 Restlessness, anxiety, dizziness, tinnitus, blurred vision or tremors may occur, possibly proceeding to convulsions.
 However, excitement may be transient or absent, with depression being the first manifestation of an adverse reaction.
 This may quickly be followed by drowsiness merging into unconsciousness and respiratory arrest.

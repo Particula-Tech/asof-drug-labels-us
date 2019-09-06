@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Bupivacaine Spinal (Bupivacaine in Dextrose Injection, USP) is contraindicated in patients with a known hypersensitivity to it or to any local anesthetic agent of the amide-type.
+Bupivacaine Spinal (bupivacaine in dextrose injection, USP) is contraindicated in patients with a known hypersensitivity to it or to any local anesthetic agent of the amide-type.
 
 The following conditions preclude the use of spinal anesthesia:
 

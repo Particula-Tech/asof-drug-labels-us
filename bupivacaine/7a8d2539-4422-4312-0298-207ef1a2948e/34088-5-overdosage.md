@@ -11,12 +11,12 @@ This may prevent convulsions if they have not already occurred.
 
 If necessary, use drugs to control the convulsions.
 A 50 mg to 100 mg bolus intravenous injection of succinylcholine will paralyze the patient without depressing the central nervous or cardiovascular systems and facilitate ventilation.
-A bolus intravenous dose of 5 mg to 10 mg of diazepam or 50 mg to 100 mg of thiopental will permit ventilation and counteract central nervous system stimulation, but these drugs also depress central nervous system, respiratory and cardiac function, add to postictal depression and may result in apnea.
+A bolus intravenous dose of 5 mg to 10 mg of diazepam or 50 mg to 100 mg of thiopental will permit ventilation and counteract CNS stimulation, but these drugs also depress CNS, respiratory and cardiac function, add to postictal depression and may result in apnea.
 Intravenous barbiturates, anticonvulsant agents, or muscle relaxants should only be administered by those familiar with their use.
 Immediately after the institution of these ventilatory measures, the adequacy of the circulation should be evaluated.
 Supportive treatment of circulatory depression may require administration of intravenous fluids, and, when appropriate, a vasopressor dictated by the clinical situation (such as ephedrine or epinephrine to enhance myocardial contractile force).
 
-Hypotension due to sympathetic relaxation may be managed by giving intravenous fluids (such as Sodium Chloride Injection 0.9% or Lactated Ringer's Injection), in an attempt to relieve mechanical obstruction of venous return, or by using vasopressors (such as ephedrine which increases the force of myocardial contractions) and, if indicated, by giving plasma expanders or whole blood.
+Hypotension due to sympathetic relaxation may be managed by giving intravenous fluids (such as isotonic saline or lactated Ringer's solution), in an attempt to relieve mechanical obstruction of venous return, or by using vasopressors (such as ephedrine which increases the force of myocardial contractions) and, if indicated, by giving plasma expanders or whole blood.
 
 Endotracheal intubation, employing drugs and techniques familiar to the clinician, may be indicated, after initial administration of oxygen by mask if difficulty is encountered in the maintenance of a patent airway, or if prolonged ventilatory support (assisted or controlled) is indicated.
 

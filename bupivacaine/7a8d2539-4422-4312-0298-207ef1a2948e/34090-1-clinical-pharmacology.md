@@ -4,14 +4,14 @@ Local anesthetics block the generation and the conduction of nerve impulses, pre
 In general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers.
 Clinically, the order of loss of nerve function is as follows: (1) pain, (2) temperature, (3) touch, (4) proprioception and (5) skeletal muscle tone.
 
-Systemic absorption of local anesthetics produces effects on the cardiovascular and central nervous system (CNS).
+Systemic absorption of local anesthetics produces effects on the cardiovascular and central nervous systems (CNS).
 At blood concentrations achieved with normal therapeutic doses, changes in cardiac conduction, excitability, refractoriness, contractility, and peripheral vascular resistance are minimal.
 However, toxic blood concentrations depress cardiac conduction and excitability, which may lead to atrioventricular block, ventricular arrhythmias and cardiac arrest, sometimes resulting in fatalities.
 In addition, myocardial contractility is depressed and peripheral vasodilation occurs, leading to decreased cardiac output and arterial blood pressure.
 Recent clinical reports and animal research suggest that these cardiovascular changes are more likely to occur after unintended direct intravascular injection of bupivacaine.
 Therefore, when epidural anesthesia with bupivacaine is considered, incremental dosing is necessary.
 
-Following systemic absorption, local anesthetics can produce central nervous system stimulation, depression or both.
+Following systemic absorption, local anesthetics can produce CNS stimulation, depression or both.
 Apparent central stimulation is manifested as restlessness, tremors and shivering, progressing to convulsions, followed by depression and coma progressing ultimately to respiratory arrest.
 However, the local anesthetics have a primary depressant effect on the medulla and on higher centers.
 The depressed stage may occur without a prior excited stage.
@@ -45,7 +45,7 @@ The third compartment represents an equilibration of the drug with poorly perfus
 The elimination of drug from tissue distribution depends largely upon the ability of binding sites in the circulation to carry it to the liver where it is metabolized.
 
 Various pharmacokinetic parameters of the local anesthetics can be significantly altered by the presence of hepatic or renal disease, addition of epinephrine, factors affecting urinary pH, renal blood flow, the route of drug administration, and the age of the patient.
-The half-life of bupivacaine in adults is 3.5 ± 2 hours and in neonates 8.1 hours.
+The half-life of bupivacaine in adults is 2.7 hours and in neonates 8.1 hours.
 In clinical studies, elderly patients exhibited a greater spread and higher maximal level of analgesia than younger patients.
 Elderly patients also reached the maximal level of analgesia more rapidly than younger patients, and exhibited a faster onset of motor blockade.
 The total plasma clearance was decreased and the terminal half-life was lengthened in these patients.
@@ -55,7 +55,7 @@ Patients with hepatic disease, especially those with severe hepatic disease, may
 Pipecoloxylidine is the major metabolite of bupivacaine.
 
 The kidney is the main excretory organ for most local anesthetics and their metabolites.
-Urinary excretion is affected by renal perfusion and factors affecting urinary pH.
+Urinary excretion is affected by urinary perfusion and factors affecting urinary pH.
 Only 6% of bupivacaine is excreted unchanged in the urine.
 
-When administered in recommended doses and concentrations, bupivacaine does not ordinarily produce irritation or tissue damage and does not cause methemoglobinemia.
+When administered in recommended doses and concentrations, bupivacaine does not ordinarily produce irritation or tissue damage.
