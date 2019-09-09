@@ -117,10 +117,10 @@ Examples of Drugs Associated with Methemoglobinemia:
 | --- | --- |
 | Nitrates/Nitrites | nitroglycerin, nitroprusside, nitric oxide, nitrous oxide |
 | Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
-| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, isofamide, rasburicase |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
 | Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
 | Antimalarials | chloroquine, primaquine |
-| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
+| Anticonvulsants | phenobarbital, sodium valproate |
 | Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
 ## Pregnancy
