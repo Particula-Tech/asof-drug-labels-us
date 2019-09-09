@@ -2,10 +2,13 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Based on findings in animals, doxorubicin hydrochloride liposome injection can cause fetal harm when administered to a pregnant woman.
-In animal reproduction studies, doxorubicin hydrochloride liposome injection was embryotoxic in rats and abortifacient in rabbits following intravenous administration during organogenesis at doses approximately 0.12 times the recommended clinical dose [see Data].
-There are no available human data informing the drug-associated risk.
+Risk Summary
+
+Based on findings in animals and its mechanism of action, doxorubicin hydrochloride liposome injection can cause fetal harm when administered to a pregnant woman; avoid the use of doxorubicin hydrochloride liposome injection during the 1st trimester.
+In animal reproduction studies, doxorubicin hydrochloride liposome injection was embryotoxic in rats and abortifacient in rabbits following intravenous administration during organogenesis at doses approximately 0.12 times the recommended clinical dose (see Data).
+Available human data do not establish the presence or absence of major birth defects and miscarriage related to the use of doxorubicin hydrochloride during the 2nd and 3rd trimesters.
 Advise pregnant women of the potential risk to a fetus.
+
 The background risk of major birth defects and miscarriage for the indicated populations are unknown.
 However, the background risk in the U.S. general population of major birth defects is 2 to 4% and of miscarriage is 15 to 20% of clinically recognized pregnancies.
 Data Animal Data Doxorubicin hydrochloride liposome injection was embryotoxic at doses of 1 mg/kg/day in rats and was embryotoxic and abortifacient at 0.5 mg/kg/day in rabbits (both doses are about 0.12 times the recommended dose of 50 mg/m2 human dose on a mg/m2 basis).
@@ -14,9 +17,13 @@ Embryotoxicity was characterized by increased embryo-fetal deaths and reduced li
 ## 8.2 Lactation
 
 Risk Summary It is not known whether doxorubicin hydrochloride is present in human milk.
-Because many drugs, including anthracyclines, are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from doxorubicin hydrochloride liposome injection, discontinue breastfeeding during treatment with doxorubicin hydrochloride liposome injection.
+Because many drugs, including anthracyclines, are excreted in human milk and because of the potential for serious adverse reactions in breastfed infants from doxorubicin hydrochloride liposome injection, discontinue breastfeeding during treatment with doxorubicin hydrochloride liposome injection.
 
 ## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating doxorubicin hydrochloride liposome injection.
 
 Contraception Females Doxorubicin hydrochloride liposome injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during and for 6 months after treatment with doxorubicin hydrochloride liposome injection.
@@ -27,7 +34,7 @@ Premature menopause can occur with doxorubicin hydrochloride.
 Recovery of menses and ovulation is related to age at treatment.
 Males Doxorubicin hydrochloride liposome injection may result in oligospermia, azoospermia, and permanent loss of fertility.
 Sperm counts have been reported to return to normal levels in some men.
-This may occur several years after the end of therapy [see Nonclinical Toxicology (13.1)].
+This may occur several years after the end of therapy [see Non-clinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

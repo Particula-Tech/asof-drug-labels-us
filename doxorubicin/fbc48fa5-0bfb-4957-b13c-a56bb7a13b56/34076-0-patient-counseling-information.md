@@ -6,7 +6,7 @@ Advise patients to contact their healthcare provider if they develop symptoms of
 
 Infusion-Related Reactions
 
-Advise patients about the symptoms of infusion related reactions and to seek immediate medical attention if they develop any of these symptoms [see Warnings and Precautions (5.2)].
+Advise patients about the symptoms of infusion-related reactions and to seek immediate medical attention if they develop any of these symptoms [see Warnings and Precautions (5.2)].
 
 Myelosuppression
 
@@ -20,7 +20,7 @@ Stomatitis
 
 Advise patients to notify their healthcare provider if they develop painful redness, swelling, or sores in the mouth (symptoms of stomatitis).
 
-Embryofetal Toxicity
+Embryo-Fetal Toxicity
 
 Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
 
@@ -54,6 +54,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-08/2017
+09/2019
 
-PJPI0355E
+PJPI0355F

@@ -7,12 +7,11 @@ The following adverse reactions are discussed in more detail in other sections o
 - Hand-Foot Syndrome [see Warnings and Precautions (5.3)]
 - Secondary Oral Neoplasms [see Warnings and Precautions (5.4)]
 
-The most common adverse reactions (>20%) observed with doxorubicin hydrochloride liposome injection are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
-
-## 6.1 Adverse Reactions in Clinical Trials
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates on other clinical trials and may not reflect the rates observed in clinical practice.
 The safety data reflect exposure to doxorubicin hydrochloride liposome injection in 1310 patients including: 239 patients with ovarian cancer, 753 patients with AIDS-related Kaposi’s sarcoma, and 318 patients with multiple myeloma.
+The most common adverse reactions (>20%) observed with doxorubicin hydrochloride liposome injection are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
 The following tables present adverse reactions from clinical trials of single-agent doxorubicin hydrochloride liposome injection in ovarian cancer and AIDS-Related Kaposi’s sarcoma.
 Patients With Ovarian Cancer The safety data described below are from Trial 4, which included 239 patients with ovarian cancer treated with doxorubicin hydrochloride liposome injection 50 mg/m2 once every 4 weeks for a minimum of four courses in a randomized, multicenter, open-label study.
 In this trial, patients received doxorubicin hydrochloride liposome injection for a median number of 3.2 months (range 1 day to 25.8 months).
@@ -80,7 +79,7 @@ Tables 5 and 6 summarize adverse reactions reported in patients treated with dox
 
 Table 5: Hematologic Adverse Reactions Reported in Patients With AIDS-Related Kaposi’s Sarcoma
 
-|  | Patients With Refractory or Intolerant AIDS-Related Kaposi’s Sarcoma (n=74This includes a subset of subjects who were retrospectively identified as having disease progression on prior systemic combination chemotherapy (at least 2 cycles of a regimen containing at least 2 of 3 treatments: bleomycin, vincristine or vinblastine, or doxorubicin) or as being intolerant to such therapy.) | Total Patients With AIDS-Related Kaposi’s Sarcoma (n=720This includes only subjects with AIDS-KS who had available adverse event data from the 4 pooled trials.) |
+|  | Patients With Refractory or Intolerant AIDS-Related Kaposi’s Sarcoma (n=74This includes a subset of subjects who were retrospectively identified as having disease progression on prior systemic combination chemotherapy (at least 2 cycles of a regimen containing at least 2 of 3 treatments: bleomycin, vincristine or vinblastine, or doxorubicin) or as being intolerant to such therapy.) | Total Patients With AIDS-Related Kaposi’s Sarcoma (n=720This includes only subjects with AIDS-KS who had available data from the 4 pooled trials.) |
 | --- | --- | --- |
 | Neutropenia |  |  |
 | < 1,000/mm3 | 46% | 49% |
@@ -166,4 +165,4 @@ Table 7: Frequency of Treatment-Emergent Adverse Reactions Reported in ≥10% Pa
 
 The following additional adverse reactions have been identified during post approval use of doxorubicin hydrochloride liposome injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Musculoskeletal and Connective Tissue Disorders: muscle spasms Respiratory, Thoracic and Mediastinal Disorders: pulmonary embolism (in some cases fatal) Hematologic disorders: Secondary acute myelogenous leukemia Skin and subcutaneous tissue disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis Secondary oral neoplasms: [see Warnings and Precautions (5.4)].
+Musculoskeletal and Connective Tissue Disorders: muscle spasms Respiratory, Thoracic and Mediastinal Disorders: pulmonary embolism (in some cases fatal) Hematologic Disorders: Secondary acute myelogenous leukemia Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, lichenoid keratosis Secondary Oral Neoplasms: [see Warnings and Precautions (5.4)].

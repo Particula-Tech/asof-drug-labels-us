@@ -70,7 +70,7 @@ Table 11: Response in Patients with RefractoryPatients with disease that progres
 
 | Investigator Assessment | All Evaluable Patients (n=34) | Evaluable Patients Who Received Prior Doxorubicin (n=20) |
 | --- | --- | --- |
-| ResponseThere were no complete responses in this population. |  |  |
+| Response |  |  |
 | Partial (PR) | 27 % | 30 % |
 | Stable | 29 % | 40 % |
 | Progression | 44 % | 30 % |

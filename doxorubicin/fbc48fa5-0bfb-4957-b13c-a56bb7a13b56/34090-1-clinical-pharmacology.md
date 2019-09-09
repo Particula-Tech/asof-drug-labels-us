@@ -30,7 +30,7 @@ Doxorubicin hydrochloride liposome injection displayed linear pharmacokinetics o
 Relative to doxorubicin hydrochloride liposome injection doses at or below 20 mg/m2, the pharmacokinetics of total doxorubicin following a 50 mg/m2doxorubicin hydrochloride liposome injection dose are nonlinear.
 At this dose, the elimination half-life of doxorubicin hydrochloride liposome injection is longer and the clearance lower compared to a 20 mg/m2 dose.
 
-Distribution:
+Distribution
 
 Direct measurement of liposomal doxorubicin shows that at least 90% of the drug (the assay used cannot quantify less than 5 to 10% free doxorubicin) remains liposome-encapsulated during circulation.
 
@@ -38,11 +38,11 @@ In contrast to doxorubicin, which displays a large volume of distribution (range
 Doxorubicin becomes available after the liposomes are extravasated.
 Plasma protein binding of doxorubicin hydrochloride liposome injection has not been determined; the plasma protein binding of doxorubicin is approximately 70%.
 
-Metabolism:
+Metabolism
 
-Doxorubicinol, the major metabolite of doxorubicin, was detected at concentrations of 0.8 to 26.2 ng/mL in the plasma of patients who received 10 or 20 mg/m2doxorubicin hydrochloride liposome injection.
+Doxorubicinol, the major metabolite of doxorubicin, was detected at concentrations of 0.8 to 26.2 ng/mL in the plasma of patients who received 10 or 20 mg/m2 doxorubicin hydrochloride liposome injection.
 
-Elimination:
+Elimination
 
 The plasma clearance of total doxorubicin from doxorubicin hydrochloride liposome injection was 0.041 L/h/m2 at a dose of 20 mg/m2.
 Following administration of doxorubicin hydrochloride, the plasma clearance of doxorubicin is 24 to 35 L/h/m2.

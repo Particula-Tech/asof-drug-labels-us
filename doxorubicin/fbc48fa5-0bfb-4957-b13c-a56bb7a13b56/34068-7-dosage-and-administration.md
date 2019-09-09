@@ -2,7 +2,8 @@
 
 ## 2.1 Important Use Information
 
-Do not substitute doxorubicin hydrochloride liposome injection for doxorubicin hydrochloride injection.
+Do not substitute doxorubicin hydrochloride liposome injection for other doxorubicin hydrochloride products.
+
 Do not administer as an undiluted suspension or as an intravenous bolus [see Warnings and Precautions (5.2)].
 
 ## 2.2 Ovarian Cancer
