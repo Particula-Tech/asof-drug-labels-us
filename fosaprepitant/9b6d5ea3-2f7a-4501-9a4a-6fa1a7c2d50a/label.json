@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204015"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-888-10",
+    "67457-889-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant",
+      "name": "fosaprepitant"
+    }
+  ],
+  "setid": "9b6d5ea3-2f7a-4501-9a4a-6fa1a7c2d50a",
+  "source": "dailymed"
+}
