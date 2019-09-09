@@ -29,12 +29,15 @@ Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of CAMB
 
 Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with CAMBIA until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured for: Depomed, Inc. Newark, CA 94560 United States of America
+Manufactured by: MIPHARM S.p.A.
+Via Bernardo Quaranta, 12 20141 Milan, Italy
+
+Manufactured for: Assertio Therapeutics Lake Forest, IL 60045 USA
 
 Manufactured and Distributed Under License from APR Applied Pharma Research SA, Balerna, Switzerland
 
 U.S. Patents: 6,974,595; 7,482,377; 7,759,394; 8,097,651
 
-CAM-003-C.5 August 2017
+CAM-007-C.4 Revised: June 2019
 
-©2017 Depomed, Inc.
+©2016 Assertio

@@ -2,25 +2,58 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C prior to 30 weeks gestation; Category D starting at 30 weeks gestation.
+Risk Summary
 
-Starting at 30 weeks gestation, CAMBIA, and other NSAIDS, should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur [see Warnings and Precautions (5.9)].
-There are no adequate and well controlled studies in pregnant women.
+Use of NSAIDs, including CAMBIA, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDS, including CAMBIA, in pregnant women starting at 30 weeks of gestation (third trimester) [see Warnings and Precautions (5.9)].
 
 Prior to 30 weeks gestation, CAMBIA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+There are no adequate and well controlled studies in pregnant women.
+
+Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
 
 Reproductive studies have been performed in mice given diclofenac sodium (up to 20 mg/kg/day, 2 times the recommended human dose [RHD] of 50 mg/day on a body surface area [mg/m2 basis), and in rats and rabbits given diclofenac sodium (up to 10 mg/kg/day; 2 [rats] and 4 [rabbits] times the RHD on a mg/m2 basis) and have revealed no evidence of teratogenicity despite the induction of maternal toxicity and fetal toxicity.
 In rats, maternally toxic doses were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
 
-## 8.2 Labor and Delivery
+Clinical Considerations
+
+Labor or Delivery
 
 The effects of CAMBIA on labor and delivery in pregnant women are unknown.
 In rat studies, maternal exposure to NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, increased the incidence of dystocia, delayed parturition, and decreased pup survival.
 
-## 8.3 Nursing Mothers
+Data
 
-It is not known whether this drug is excreted in human milk.
+Animal Data
+
+Reproductive and developmental studies in animals demonstrated that diclofenac sodium administration during organogenesis did not produce teratogenicity despite the induction of maternal toxicity and fetal toxicity in mice at oral doses up to 20 mg/kg/day based on body surface area (BSA) comparison), and in rats and rabbits at oral doses up to 10 mg/kg/day (approximately 1 and 2 times, respectively, the MRHD based on BSA comparison).
+
+In rats, maternally toxic doses were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
+Diclofenac has been shown to cross the placental barrier in mice, rats, and humans.
+
+Literature studies have shown that diclofenac has been shown to exert direct teratogenic effects on rat embryos in vitro at concentrations of 7.5 and 15 µg/mL, and diclofenac exposure to pregnant rats (1 mg/kg, IP; 0.1 times the MRHD based on BSA comparison) can lead to prolonged gestation as well as liver toxicity and neuronal loss in offspring.
+
+## 8.2 Lactation
+
+Risk Summary
+
+It is not known whether this drug is excreted in human milk; however, there is a case report in the literature indicating that diclofenac can be detected at low levels in breast milk.
+
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from CAMBIA, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for CAMBIA and any potential adverse effects on the breastfed infant from the CAMBIA or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Females
+
+Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including CAMBIA, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
+Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.
+Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
+Consider withdrawal of NSAIDs, including CAMBIA, in women who have difficulties conceiving or who are undergoing investigation of infertility.
 
 ## 8.4 Pediatric Use
 
