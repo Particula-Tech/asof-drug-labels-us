@@ -2,23 +2,23 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The following are discussed in more detail in other sections of the labeling:
+The following are adverse reactions discussed in more detail in other sections of the labeling:
 
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)]
-- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)]
-- Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
-- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
-- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
-- Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.7)].
-- Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
-- Falls [see WARNINGS AND PRECAUTIONS (5.9)].
-- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
-- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)]
-- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)]
-- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)]
-- Suicide [see WARNINGS AND PRECAUTIONS (5.14)]
-- Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Cerebrovascular Adverse Events, Including Stroke [see Warnings and Precautions (5.2)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.3)]
+- Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
+- Tardive Dyskinesia [see Warnings and Precautions (5.5)]
+- Metabolic Changes [see Warnings and Precautions (5.6)]
+- Pathological Gambling and Other Compulsive Behaviors [see Warnings and Precautions (5.7)].
+- Orthostatic Hypotension [see Warnings and Precautions (5.8)]
+- Falls [see Warnings and Precautions (5.9)].
+- Leukopenia, Neutropenia, and Agranulocytosis [see Warnings and Precautions (5.10)]
+- Seizures/Convulsions [see Warnings and Precautions (5.11)]
+- Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.12)]
+- Body Temperature Regulation [see Warnings and Precautions (5.13)]
+- Suicide [see Warnings and Precautions (5.14)]
+- Dysphagia [see Warnings and Precautions (5.15)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
@@ -290,7 +290,7 @@ Additional Findings Observed in Clinical Trials Adverse Reactions in Long-Term, 
 
 The adverse reactions reported in a 26-week, double-blind trial comparing oral aripiprazole and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for aripiprazole vs. 2% (3/153) for placebo].
 In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
-Tremor infrequently led to discontinuation (less than 1%) of aripiprazole.
+Tremor infrequently led to discontinuation (<1%) of aripiprazole.
 In addition, in a long-term (52-week), active-controlled study, the incidence of tremor was 5% (40/859) for aripiprazole.
 A similar profile was observed in a long-term monotherapy study and a long-term adjunctive study with lithium and valproate in bipolar disorder.
 
@@ -302,14 +302,106 @@ Reactions are categorized by body system according to the following definitions:
 
 Adults - Oral Administration
 
-Blood and Lymphatic System Disorders: rare - thrombocytopenia Cardiac Disorders: infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure Eye Disorders: infrequent – photophobia; rare - diplopia Gastrointestinal Disorders: infrequent - gastroesophageal reflux disease General Disorders and Administration Site Conditions:frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema Hepatobiliary Disorders: rare - hepatitis, jaundice Immune System Disorders: rare- hypersensitivity Injury, Poisoning, and Procedural Complications: infrequent– fall; rare – heat stroke Investigations: frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased Metabolism and Nutrition Disorders: frequent –anorexia; infrequent - rare - hypokalemia, hyponatremia, hypoglycemia Musculoskeletal and Connective Tissue Disorders: infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased Nervous System Disorders: infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, myoclonus, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; less than 1/10,000 patients - choreoathetosis Psychiatric Disorders: infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking Renal and Urinary Disorders: rare - urinary retention, nocturia Reproductive System and Breast Disorders: infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism Respiratory, Thoracic, and Mediastinal Disorders: infrequent - nasal congestion, dyspnea Skin and Subcutaneous Tissue Disorders: infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria Vascular Disorders: infrequent – hypotension, hypertension
+Blood and Lymphatic System Disorders:
+
+rare – thrombocytopenia
+
+Cardiac Disorders:
+
+infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
+
+Eye Disorders:
+
+infrequent – photophobia; rare – diplopia
+
+Gastrointestinal Disorders:
+
+infrequent – gastroesophageal reflux disease
+
+General Disorders and Administration Site Conditions:
+
+frequent – asthenia; infrequent – peripheral edema, chest pain; rare – face edema
+
+Hepatobiliary Disorders:
+
+rare – hepatitis, jaundice
+
+Immune System Disorders:
+
+rare – hypersensitivity
+
+Injury, Poisoning, and Procedural Complications:
+
+infrequent – fall; rare – heat stroke
+
+Investigations:
+
+frequent – weight decreased, infrequent – hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+
+Metabolism and Nutrition Disorders:
+
+frequent – anorexia; rare – hypokalemia, hyponatremia, hypoglycemia
+
+Musculoskeletal and Connective Tissue Disorders:
+
+infrequent – muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
+
+Nervous System Disorders:
+
+infrequent – parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients – choreoathetosis
+
+Psychiatric Disorders:
+
+infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
+
+Renal and Urinary Disorders:
+
+rare – urinary retention, nocturia
+
+Reproductive System and Breast Disorders:
+
+infrequent – erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
+
+Respiratory, Thoracic, and Mediastinal Disorders:
+
+infrequent – nasal congestion, dyspnea
+
+Skin and Subcutaneous Tissue Disorders:
+
+infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare – urticaria
+
+Vascular Disorders:
+
+infrequent – hypotension, hypertension
 
 Pediatric Patients - Oral Administration
 
 Most adverse events observed in the pooled database of 1,686 pediatric patients, aged 6 to 18 years, were also observed in the adult population.
 Additional adverse reactions observed in the pediatric population are listed below.
 
-Eye Disorders infrequent - oculogyric crisis Gastrointestinal Disorders: infrequent -tongue dry, tongue spasm Investigations: frequent - blood insulin increased Nervous System Disorders: infrequent - sleep talking Renal and Urinary Disorders frequent – enuresis Skin and Subcutaneous Tissue Disorders: infrequent - hirsutism
+Eye Disorders:
+
+infrequent – oculogyric crisis
+
+Gastrointestinal Disorders:
+
+infrequent – tongue dry, tongue spasm
+
+Investigations:
+
+frequent – blood insulin increased
+
+Nervous System Disorders:
+
+infrequent – sleep talking
+
+Renal and Urinary Disorders:
+
+frequent – enuresis
+
+Skin and Subcutaneous Tissue Disorders:
+
+infrequent – hirsutism
 
 Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -317,4 +409,4 @@ However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity ri
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of aripiprazole.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), and blood glucose fluctuation.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation.

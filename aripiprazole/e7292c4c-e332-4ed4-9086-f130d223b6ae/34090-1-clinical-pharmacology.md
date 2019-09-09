@@ -2,15 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unknown.
-However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
-Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the other clinical effects of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
+The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unclear.
+However, the efficacy of aripiprazole in the listed indications could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
 
 ## 12.2 Pharmacodynamics
 
-Aripiprazole exhibits high affinity for dopamine D 2 and D 3, serotonin 5-HT 1A and 5-HT 2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2C and 5-HT 7, alpha1-adrenergic and histamine H 1 receptors (K i values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
+Aripiprazole exhibits high affinity for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors (Ki values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha1-adrenergic and histamine H1 receptors (Ki values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
 Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1000 nM).
-Aripiprazole functions as a partial agonist at the dopamine D 2 and the serotonin 5-HT 1A receptors, and as an antagonist at serotonin 5-HT 2A receptor.
 
 ## 12.3 Pharmacokinetics
 
@@ -18,7 +16,7 @@ Aripiprazole activity is presumably primarily due to the parent drug, aripiprazo
 The mean elimination half-lives are about 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively.
 Steady-state concentrations are attained within 14 days of dosing for both active moieties.
 Aripiprazole accumulation is predictable from single-dose pharmacokinetics.
-At steady- state, the pharmacokinetics of aripiprazole is dose-proportional.
+At steady-state, the pharmacokinetics of aripiprazole is dose-proportional.
 Elimination of aripiprazole is mainly through hepatic metabolism involving two P450 isozymes, CYP2D6 and CYP3A4.
 For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is about 146 hours.
 
@@ -26,20 +24,20 @@ ORAL ADMINISTRATION
 
 Absorption
 
-Tablet:Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
+Tablet: Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 Aripiprazole can be administered with or without food.
 Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the Cmax or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
-In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see DOSAGE AND ADMINISTRATION (2.6)].
-The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg
+In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see Dosage and Administration (2.8)].
+The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
 
 Distribution
 
 The steady-state volume of distribution of aripiprazole following intravenous administration is high (404 L or 4.9 L/kg), indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and its major metabolite are greater than 99% bound to serum proteins, primarily to albumin.
-In healthy human volunteers administered 0.5 mg/day to 30 mg/day aripiprazole for 14 days, there was dose-dependent D 2 receptor occupancy indicating brain penetration of aripiprazole in humans.
+In healthy human volunteers administered 0.5 mg/day to 30 aripiprazole for 14 days, there was dose-dependent D2 receptor occupancy indicating brain penetration of aripiprazole in humans.
 
 Metabolism and Elimination
 

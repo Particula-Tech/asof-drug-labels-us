@@ -1,31 +1,31 @@
-# 5.WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Increased Mortality
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
+Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer’s Disease
 
 In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56- 99 years), the adverse reactions that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation [placebo 0%, aripiprazole 4%], and lightheadedness [placebo 1%, aripiprazole 4%].
 
 The safety and efficacy of aripiprazole in the treatment of patients with psychosis associated with dementia have not been established.
-If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].
+If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke
 
 In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78-88 years).
 In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
-Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see also BOXED WARNING].
+Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 ## 5.3 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with MDD and other psychiatric disorders.
+Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with MDD and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -35,7 +35,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 2.
 
-Table 2
+Table 2:
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
@@ -63,7 +63,7 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management, in order to reduce the risk of overdose.
 
-Screening Patients for Bipolar Disorder:A major depressive episode may be the initial presentation of bipolar disorder.
+Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
@@ -95,7 +95,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and, thereby, may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -115,7 +115,7 @@ While all drugs in the class have been shown to produce some metabolic changes, 
 Hyperglycemia/Diabetes Mellitus
 
 Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics.
-There have been reports of hyperglycemia in patients treated with aripiprazole [see ADVERSE REACTIONS (6.1, 6.2)].
+There have been reports of hyperglycemia in patients treated with aripiprazole [see Adverse Reactions (6.1, 6.2)].
 
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
@@ -210,15 +210,15 @@ Clinical monitoring of weight is recommended.
 
 Adults
 
-In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole -treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
-At 24 weeks, the mean change from baseline in body weight in aripiprazole -treated patients was –1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
+In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
+At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was –1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
 Table 7 shows the percentage of adult patients with weight gain ≥7% of body weight by indication.
 
 Table 7: Percentage of Patients From Placebo-Controlled Trials in Adult Patients with Weight Gain ≥7% of Body Weight
 
 | Weight gain ≥ 7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Schizophrenia4 to 6 weeks duration. | Aripiprazole | 852 | 69 (8.1) |  |
+| Schizophrenia4-6 weeks duration. | Aripiprazole | 852 | 69 (8.1) |  |
 |  | Placebo | 379 | 12 (3.2) |  |
 | Bipolar Mania3 weeks duration. | Aripiprazole | 719 | 16 (2.2) |  |
 |  | Placebo | 598 | 16 (2.7) |  |
@@ -233,13 +233,13 @@ Table 8: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pe
 
 | Weight gain ≥ 7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Pooled Schizophrenia and Bipolar Mania4 to 6 weeks duration. | Aripiprazole | 381 | 20 (5.2) |  |
+| Pooled Schizophrenia and Bipolar Mania4-6 weeks duration. | Aripiprazole | 381 | 20 (5.2) |  |
 |  | Placebo | 187 | 3 (1.6) |  |
 
 In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
 After 26 weeks, 32.8% of patients gained ≥7% of their body weight, not adjusted for normal growth.
 To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of pediatric patients and adolescents by comparisons to age- and gender-matched population standards.
-A z-score change less than 0.5 SD is considered not clinically significant.
+A z-score change <0.5 SD is considered not clinically significant.
 After 26 weeks, the mean change in z-score was 0.09 SD.
 When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.
 
@@ -249,7 +249,7 @@ However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity ri
 ## 5.7 Pathological Gambling and Other Compulsive Behaviors
 
 Post-marketing case reports suggest that patients can experience intense urges, particularly for gambling, and the inability to control these urges while taking aripiprazole.
-Other compulsive urges, reported less frequently include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
+Other compulsive urges, reported less frequently, include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
 Because patients may not recognize these behaviors as abnormal, it is important for prescribers to ask patients or their caregivers specifically about the development of new or intense gambling urges, compulsive sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole.
 It should be noted that impulse-control symptoms can be associated with the underlying disorder.
 In some cases, although not all, urges were reported to have stopped when the dose was reduced or the medication was discontinued.
@@ -259,11 +259,11 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.8 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%)[see ADVERSE REACTIONS (6.1)].
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%) [see Adverse Reactions (6.1)].
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), in pediatric oral aripiprazole-treated patients aged 6 to 18 years (0.4%, 1%).
 
-Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see DRUG INTERACTIONS (7.1)].
+Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see Drug Interactions (7.1)].
 
 ## 5.9 Falls
 
@@ -280,7 +280,7 @@ In patients with a history of a clinically significant low WBC/ANC or drug-induc
 In such patients, consider discontinuation of aripiprazole at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count less than 1000/mm3) and follow their WBC counts until recovery.
+Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
 
 ## 5.11 Seizures/Convulsions
 
@@ -299,15 +299,15 @@ Despite the relatively modest increased incidence of these events compared to pl
 ## 5.13 Body Temperature Regulation
 
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
+Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see Adverse Reactions (6.2)].
 
 ## 5.14 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
-Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
+Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.15 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including aripiprazole.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.
-Aripiprazole and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see WARNINGS AND PRECAUTIONS (5.1) and ADVERSE REACTIONS (6.2)].
+Aripiprazole and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].

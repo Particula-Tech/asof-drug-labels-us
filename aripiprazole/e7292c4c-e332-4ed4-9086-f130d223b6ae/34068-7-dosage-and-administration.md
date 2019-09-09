@@ -6,10 +6,10 @@ Adults
 
 The recommended starting and target dose for aripiprazole is 10 mg/day or 15 mg/day administered on a once-a-day schedule without regard to meals.
 Aripiprazole has been systematically evaluated and shown to be effective in a dose range of 10 mg/day to 30 mg/day, when administered as the tablet formulation; however, doses higher than 10 mg/day or 15 mg/day were not more effective than 10 mg/day or 15 mg/day.
-Dosage increases should generally not be made before 2 weeks, the time needed to achieve steady-state [see CLINICAL STUDIES (14.1)].
+Dosage increases should generally not be made before 2 weeks, the time needed to achieve steady-state [see Clinical Studies (14.1)].
 
 Maintenance Treatment: Maintenance of efficacy in schizophrenia was demonstrated in a trial involving patients with schizophrenia who had been symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
-These patients were discontinued from those medications and randomized to either aripiprazole 15 mg/day or placebo, and observed for relapse [see CLINICAL STUDIES (14.1)].
+These patients were discontinued from those medications and randomized to either aripiprazole 15 mg/day or placebo, and observed for relapse [see Clinical Studies (14.1)].
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 Adolescents
@@ -19,7 +19,7 @@ Aripiprazole was studied in adolescent patients 13 to 17 years of age with schiz
 The starting daily dose of the tablet formulation in these patients was 2 mg, which was titrated to 5 mg after 2 days and to the target dose of 10 mg after 2 additional days.
 Subsequent dose increases should be administered in 5 mg increments.
 The 30 mg/day dose was not shown to be more efficacious than the 10 mg/day dose.
-Aripiprazole can be administered without regard to meals [see CLINICAL STUDIES (14.1)].
+Aripiprazole can be administered without regard to meals [see Clinical Studies (14.1)].
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 Switching from Other Antipsychotics
@@ -41,7 +41,7 @@ The safety of doses above 30 mg/day has not been evaluated in clinical trials.
 Pediatrics: The recommended starting dose in pediatric patients (10 to 17 years) as monotherapy is 2 mg/day, with titration to 5 mg/day after 2 days, and a target dose of 10 mg/day after 2 additional days.
 Recommended dosing as adjunctive therapy to lithium or valproate is the same.
 Subsequent dose increases, if needed, should be administered in 5 mg/day increments.
-Aripiprazole can be given without regard to meals [see CLINICAL STUDIES (14.2)].
+Aripiprazole can be given without regard to meals [see Clinical Studies (14.2)].
 
 Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -66,4 +66,4 @@ Table 1: Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor
 ## 2.8 Dosing of Oral Solution
 
 The oral solution can be substituted for tablets on a mg-per-mg basis up to the 25 mg dose level.
-Patients receiving 30 mg tablets should receive 25 mg of the solution [see CLINICAL PHARMACOLOGY (12.3)].
+Patients receiving 30 mg tablets should receive 25 mg of the solution [see Clinical Pharmacology (12.3)].

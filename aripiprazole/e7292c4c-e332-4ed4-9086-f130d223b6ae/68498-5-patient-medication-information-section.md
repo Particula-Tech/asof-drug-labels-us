@@ -8,19 +8,24 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about Aripiprazole?
 
-(For other side effects, also see “What are the possible side effects of Aripiprazole?”).
+(For other side effects, also see “What are the possible side effects of Aripiprazole?”)
 
 Serious side effects may happen when you take Aripiprazole Oral Solution, including:
 
-- Increased risk of death in elderly patients with dementia-related psychosis: Medicines like aripiprazole can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
+- Increased risk of death in elderly patients with dementia-related psychosis: Medicines like Aripiprazole can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
   Aripiprazole is not approved for the treatment of patients with dementia-related psychosis.
 - Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
 
-- Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+1.
+Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+
+2.
+Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+Some people may have a particularly high risk of having suicidal thoughts or actions.
+These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+
+3.
+How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -70,24 +75,24 @@ It is not known if Aripiprazole is safe or effective in children:
 - under 13 years of age with schizophrenia
 - under 10 years of age with bipolar I disorder
 
-Who should not take Aripiprazole?
-
 Do not take Aripiprazole if you are allergic to aripiprazole or any of the ingredients in Aripiprazole Oral Solution.
 See the end of this Medication Guide for a complete list of ingredients in Aripiprazole.
 
-What should I tell my healthcare provider before taking Aripiprazole?
+Before taking Aripiprazole, tell your healthcare provider about all your medical conditions, including if you have or had:
 
-Before taking Aripiprazole, tell your healthcare provider if you have or had:
-
-- diabetes or high blood sugar in you or your family; your healthcare provider should check your blood sugar before you start aripiprazole and also during therapy.
+- diabetes or high blood sugar in you or your family; your healthcare provider should check your blood sugar before you start Aripiprazole and also during therapy.
 - seizures (convulsions).
 - low or high blood pressure.
 - heart problems or stroke.
 - pregnancy or plans to become pregnant.
-  It is not known if aripiprazole will harm your unborn baby.
+  It is not known if Aripiprazole will harm your unborn baby.
+  - If you become pregnant while receiving Aripiprazole, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+
 - breast-feeding or plans to breast-feed.
-  Aripiprazole can pass into your breast milk and may harm your baby.
+  Aripiprazole passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you receive Aripiprazole.
+
 - low white blood cell count.
 - any other medical conditions.
 
@@ -116,11 +121,11 @@ What should I avoid while taking Aripiprazole?
 - Do not drive, operate heavy machinery, or do other dangerous activities until you know how Aripiprazole affects you.
   Aripiprazole may make you drowsy.
 - Avoid getting over-heated or dehydrated.
-- Do not over-exercise.
-- In hot weather, stay inside in a cool place if possible.
-- Stay out of the sun.
-  Do not wear too much or heavy clothing.
-- Drink plenty of water.
+  - Do not over-exercise.
+  - In hot weather, stay inside in a cool place if possible.
+  - Stay out of the sun.
+    Do not wear too much or heavy clothing.
+  - Drink plenty of water.
 
 What are the possible side effects of Aripiprazole?
 
@@ -137,7 +142,7 @@ Aripiprazole may cause serious side effects, including:
   Tardive dyskinesia may not go away, even if you stop receiving Aripiprazole.
   Tardive dyskinesia may also start after you stop receiving Aripiprazole.
 - Problems with your metabolism such as:
-- high blood sugar (hyperglycemia) and diabetes.
+- High blood sugar (hyperglycemia) and diabetes.
   Increases in blood sugar can happen in some people who take Aripiprazole.
   Extremely high blood sugar can lead to coma or death.
   If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes), your healthcare provider should check your blood sugar before you start Aripiprazole and during your treatment.
@@ -150,17 +155,24 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - feel weak or tired
 - feel sick to your stomach
 - feel confused, or your breath smells fruity
-- increased fat levels (cholesterol and triglycerides) in your blood.
-- weight gain.
+- Increased fat levels (cholesterol and triglycerides) in your blood.
+- Weight gain.
   You and your healthcare provider should check your weight regularly.
+- Unusual urges.
+  Some people taking Aripiprazole have had unusual urges, such as gambling, binge eating or eating that you cannot control (compulsive), compulsive shopping and sexual urges.
+  If you or your family members notice that you are having unusual urges or behaviors, talk to your healthcare provider.
 - Orthostatic hypotension (decreased blood pressure).
   Lightheadedness or fainting may happen when rising too quickly from a sitting or lying position.
+
+- Falls.
+  Aripiprazole may make you sleepy or dizzy, may cause a decrease in your blood pressure when changing position and can slow your thinking and motor skills which may lead to falls that can cause fractures or other injuries.
+
 - Low white blood cell count
 - Seizures (convulsions)
-- problems with control of your body temperature especially when you exercise a lot or are in an area that is very hot.
+- Problems with control of your body temperature especially when you exercise a lot or are in an area that is very hot.
   It is important for you to drink water to avoid dehydration.
   See “What should I avoid while receiving Aripiprazole?”
-- difficulty swallowing that can cause food or liquid to get into your lungs.
+- Difficulty swallowing that can cause food or liquid to get into your lungs.
 
 The most common side effects of Aripiprazole in adults include:
 
@@ -169,7 +181,7 @@ The most common side effects of Aripiprazole in adults include:
 | vomiting | anxiety |
 | constipation | insomnia |
 | headache | restlessness |
-| blurred vision | inner sense of restlessness/need to move(akathisia) |
+| blurred vision | inner sense of restlessness/need to move (akathisia) |
 | upper respiratory illness |  |
 
 The most common side effects of Aripiprazole in children include:
@@ -179,11 +191,9 @@ The most common side effects of Aripiprazole in children include:
 | headache | nausea |
 | vomiting | stuffy nose |
 | fatigue | weight gain |
-| increased or decreased appetite | uncontrolled movement such as restlessness, tremor, muscle stiffness |
-| increased saliva or drooling |  |
+| increased or decreased appetite increased saliva or drooling | uncontrolled movement such as restlessness, tremor muscle stiffness |
 
 These are not all the possible side effects of Aripiprazole.
-For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -201,9 +211,6 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use Aripiprazole for a condition for which it was not prescribed.
 Do not give Aripiprazole to other people, even if they have the same symptoms you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about Aripiprazole.
-If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about Aripiprazole that was written for healthcare professionals.
 
 What are the ingredients in Aripiprazole?
@@ -215,7 +222,7 @@ The oral solution is flavored with orange flavors.
 Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+For more information about Aripiprazole go to lannett.com or call 1-844-834-0530.
 
 All registered trademarks are the property of their respective owners.
 
@@ -223,9 +230,9 @@ Distributed by:
 
 Lannett Company, Inc.
 
-Philadelphia, PA 19154
+Philadelphia, PA 19136
 
-PI# 10-1187
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Rev.
-10/2017
+PI# 10-1187 Rev.
+09/2019

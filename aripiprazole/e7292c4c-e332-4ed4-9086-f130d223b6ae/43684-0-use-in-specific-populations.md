@@ -2,83 +2,104 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
-Pregnancy Category C
-
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy.
-For more information contact the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including aripiprazole, during pregnancy.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
-Neonates exposed to antipsychotic drugs (including aripiprazole) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms.
-Adequate and well controlled studies with aripiprazole have not been conducted in pregnant women.
-Animal reproduction studies were conducted with aripiprazole in rats and rabbits during organogenesis, and in rats during the pre-and post-natal period.
-Oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses higher than the maximum recommended human dose (MRHD) produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
-Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses higher than the maximum recommended human dose (MRHD) produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival.
-Administer aripiprazole during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Neonates exposed to antipsychotic drugs, including aripiprazole during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Overall available data from published epidemiologic studies of pregnant women exposed to aripiprazole have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+There are risks to the mother associated with untreated schizophrenia, bipolar I disorder, or major depressive disorder, and with exposure to antipsychotics, including aripiprazole, during pregnancy (see Clinical Considerations).
 
-Clinical Considerations Fetal/Neonatal Adverse Reactions
+In animal reproduction studies, oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses 10 and 19 times, respectively, the maximum recommended human dose (MRHD) of 30 mg/day based on mg/m2 body surface area, produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
+Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses 10 times the MRHD based on mg/m2 body surface area, produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival (see Data).
 
-Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs (including aripiprazole) during the third trimester of pregnancy.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+There is a risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
+It is not known if this is a direct result of the illness or other comorbid factors.
+
+A prospective, longitudinal study followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
+The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Fetal/Neonatal Adverse Reactions
+
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs (including aripiprazole) during the third trimester of pregnancy.
 These symptoms have varied in severity.
+Monitor neonates for extrapyramidal and/or withdrawal symptoms, and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
-Monitor neonates for extrapyramidal and/or withdrawal symptoms.
 
-Data Animal Data
+Data
+
+Human Data
+
+Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
+A retrospective study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
+
+Animal Data
 
 In animal studies, aripiprazole demonstrated developmental toxicity, including possible teratogenic effects in rats and rabbits.
 
-Pregnant rats were treated with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the maximum recommended human dose [MRHD] on a mg/m2 basis) of aripiprazole during the period of organogenesis.
-Gestation was slightly prolonged at 30 mg/kg/day.
-Treatment at the high dose of 30 mg/kg/day caused a slight delay in fetal development (decreased fetal weight), undescended testes, and delayed skeletal ossification (also seen at 10 mg/kg/day).
-There were no adverse effects on embryofetal or pup survival.
-Delivered offspring had decreased body weights (10 and 30 mg/kg/day), and increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia at 30 mg/kg (the other dose groups were not examined for these findings).
-Postnatally, delayed vaginal opening was seen at 10 and 30 mg/kg/day and impaired reproductive performance (decreased fertility rate, corpora lutea, implants, live fetuses, and increased post- implantation loss, likely mediated through effects on female offspring) was seen at 30 mg/kg/day.
-Some maternal toxicity was seen at 30 mg/kg/day however, there was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
+In pregnant rats treated orally with aripiprazole during organogenesis at doses of 3, 10, and 30 mg/kg/day, which are approximately 1, 3 and 10 times the MRHD of 30 mg/day based on mg/m2 body surface area, a slight prolongation of gestation and delay in fetal development, as evidenced by decreased fetal weight and undescended testes, were observed at 10 times the MRHD.
+Delayed skeletal ossification was observed at 3 and 10 times the MRHD.
+Delivered offspring had increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia were observed at 10 times the MRHD (the other dose groups were not examined for these findings).
+Postnatally, delayed vaginal opening was seen at 3 and 10 times the MRHD.
+Impaired reproductive performance (decreased fertility rate, corpora lutea, implants, live fetuses, and increased post-implantation loss, likely mediated through effects on female offspring) were observed at 10 times the MRHD; however, there was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
 
-In pregnant rats receiving aripiprazole injection intravenously (3, 9, and 27 mg/kg/day) during the period of organogenesis, decreased fetal weight and delayed skeletal ossification were seen at the highest dose where it also caused maternal toxicity.
+In pregnant rats injected intravenously with aripiprazole during organogenesis at doses of 3, 9, and 27 mg/kg/day, which are 1, 3, and 9 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased fetal weight and delayed skeletal ossification were observed at 9 times the MRHD; this dose also caused maternal toxicity.
 
-Pregnant rabbits were treated with oral doses of 10, 30 and 100 mg/kg/day (2, 3 and 11 times human exposure at MRHD based on AUC and 6, 19 and 65 times the MRHD based on mg/m2) of aripiprazole during the period of organogenesis.
-At the high dose of 100 mg/kg/day decreased maternal food consumption, and increased abortions were seen as well as increased fetal mortality, decreased fetal weight (also seen at 30 mg/kg/day), increased incidence of a skeletal abnormality (fused sternebrae) (also seen at 30 mg/kg/day).
+In pregnant rabbits treated orally with aripiprazole during organogenesis at doses of 10, 30, and 100 mg/kg/day which are 6, 19, and 65 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased maternal food consumption, and increased abortions as well as increased fetal mortality were observed at 65 times the MHRD.
+Decreased fetal weight and increased incidence of fused sternebrae were observed at 19 and 65 times the MRHD.
 
-In pregnant rabbits receiving aripiprazole injection intravenously (3, 10, and 30 mg/kg/day) during the period of organogenesis, the highest dose, which caused pronounced maternal toxicity, resulted in decreased fetal weight, increased fetal abnormalities (primarily skeletal), and decreased fetal skeletal ossification.
-The fetal no- effect dose was 10 mg/kg/day, which is 5 times the human exposure at the MRHD based on AUC and is 6 times the MRHD based on mg/m2.
+In pregnant rabbits injected intravenously with aripiprazole during organogenesis at doses of 3, 10, and 30 mg/kg/day, which are 2, 6, and 19 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased fetal weight, increased fetal abnormalities (primarily skeletal), and decreased fetal skeletal ossification were observed at 19 times the MRHD; this dose also caused maternal toxicity.
+The fetal no-effect dose was 10 mg/kg/day, which is 6 times the MRHD.
 
-In a study in which rats were treated peri- and post-natally with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on a mg/m2 basis) of aripiprazole from gestation day 17 through day 21 postpartum, slight maternal toxicity, slightly prolonged gestation an increase in stillbirths and, decreases in pup weight (persisting into adulthood) and survival were seen at 30 mg/kg/day.
+In rats treated orally with aripiprazole peri- and post-natally from gestation day 17 through postpartum day 21 at doses of 3, 10, and 30 mg/kg/day which are 1, 3, and 10 times the MRHD of 30 mg/day based on mg/m2 body surface area slight maternal toxicity and slightly prolonged gestation were observed at 10 times the MHRD.
+An increase in stillbirths and, decreases in pup weight (persisting into adulthood) and survival were also seen at this dose.
 
-In rats receiving aripiprazole injection intravenously (3, 8, and 20 mg/kg/day) from gestation day 6 through day 20 postpartum, an increase in stillbirths was seen at 8 and 20 mg/kg/day, and decreases in early postnatal pup weights and survival were seen at 20 mg/kg/day; these effects were seen in presence of maternal toxicity.
+In rats injected intravenously with aripiprazole from gestation day 6 through lactation day 20 at doses of 3, 8, and 20 mg/kg/day, which are 1, 3, and 6 times the MRHD of 30 mg/day based on mg/m2 body surface area, increased stillbirths were observed at 3 and 6 times the MRHD; and decreases in early postnatal pup weight and survival were observed at 6 times the MRHD; these doses also caused some maternal toxicity.
 There were no effects on postnatal behavioral and reproductive development.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Aripiprazole is present in human breast milk.
-Because of the potential for serious adverse reactions in nursing infants from aripiprazole, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary
+
+Limited data from published literature report the presence of aripiprazole in human breast milk, at relative infant doses ranging between 0.7% to 8.3% of the maternal weight-adjusted dosage.
+There are reports of poor weight gain in breastfed infants exposed to aripiprazole and reports of inadequate milk supply in lactating women taking aripiprazole.
+
+The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for aripiprazole and any potential adverse effects on the breastfed infant from aripiprazole or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight [see CLINICAL PHARMACOLOGY (12.3)].
+Safety and effectiveness in pediatric patients with major depressive disorder or agitation associated with schizophrenia or bipolar mania have not been established.
+
+The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight [see Clinical Pharmacology (12.3)].
 
 Schizophrenia
 
-Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.1)].
+Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 Bipolar I Disorder
 
-Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.1), and CLINICAL
-
-STUDIES (14.2)].
-Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 The efficacy of adjunctive aripiprazole with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
 However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 Information describing a clinical study in which efficacy was not demonstrated in patients ages 6 to 17 years is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole).
 Additional pediatric use information in patients ages 6 to 18 years is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information
+However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Juvenile Animal Studies
 
@@ -97,22 +118,22 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 ## 8.5 Geriatric Use
 
-No dosage adjustment is recommended for elderly patients [see also BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment is recommended for elderly patients [see Boxed Warning, Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
 Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or another indication did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
-Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 8.6 CYP2D6 Poor Metabolizers
 
 Dosage adjustment is recommended in known CYP2D6 poor metabolizers due to high aripiprazole concentrations.
-Approximately 8% of Caucasians and 3–8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see DOSAGE AND ADMINISTRATION (2.7) and CLINICAL PHARMACOLOGY (12.3)].
+Approximately 8% of Caucasians and 3–8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic and Renal Impairment
 
-No dosage adjustment for aripiprazole is required on the basis of a patient’s hepatic function (mild to severe hepatic impairment, Child-Pugh score between 5 and 15), or renal function (mild to severe renal impairment, glomerular filtration rate between 15 and 90 mL/minute) [see CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment for aripiprazole is required on the basis of a patient’s hepatic function (mild to severe hepatic impairment, Child-Pugh score between 5 and 15), or renal function (mild to severe renal impairment, glomerular filtration rate between 15 and 90 mL/minute) [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Other Specific Populations
 
-No dosage adjustment for aripiprazole is required on the basis of a patient’s sex, race, or smoking status [see CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment for aripiprazole is required on the basis of a patient’s sex, race, or smoking status [see Clinical Pharmacology (12.3)].
