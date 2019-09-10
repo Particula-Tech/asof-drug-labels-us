@@ -1,18 +1,16 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Somnolence
-
-Caution patients against engaging in hazardous occupations requiring complete mental alertness, and motor coordination such as operating machinery or driving a motor vehicle after ingestion of levocetirizine dihydrochloride.
-
-## 17.2 Concomitant Use of Alcohol and other Central Nervous System Depressants
-
-Instruct patients to avoid concurrent use of levocetirizine dihydrochloride with alcohol or other central nervous system depressants because additional reduction in mental alertness may occur.
-
-## 17.3 Dosing of Levocetirizine Dihydrochloride
-
-Do not exceed the recommended daily dose in adults and adolescents 12 years of age and older of 5 mg once daily in the evening.
+Somnolence Caution patients against engaging in hazardous occupations requiring complete mental alertness, and motor coordination such as operating machinery or driving a motor vehicle after ingestion of levocetirizine dihydrochloride.
+Concomitant Use of Alcohol and other Central Nervous System Depressants Instruct patients to avoid concurrent use of levocetirizine dihydrochloride with alcohol or other central nervous system depressants because additional reduction in mental alertness may occur.
+Dosing of Levocetirizine dihydrochloride Do not exceed the recommended daily dose in adults and adolescents 12 years of age and older of 5 mg once daily in the evening.
 In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in the evening.
 Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride because of the increased risk of somnolence at higher doses.
-Pediatric use information in pediatric patients (age 6 months to 5 years) is approved for UCB Inc.’s levocetirizine dihydrochloride drug product labeling.
-However, due to UCB Inc.‘s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
-Manufactured for: 2019184 Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad – 500 055, India.
+
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM
+
+Hetero Labs Limited
+
+Jeedimetla, Hyderabad-500055, India
+
+or By: Annora Pharma Pvt.
+Ltd Sangareddy - 502313, Telangana, India Revised: 04/2019
