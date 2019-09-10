@@ -10,13 +10,13 @@ NDC 46708-267-91 bottle of 1000 capsules NDC 46708-267-12 carton of 80 (10 x 8) 
 
 Celecoxib capsules 100 mg are opaque white/opaque white hard gelatin capsules size “3” having imprinting “135” on body with blue ink and “A” on cap with blue ink filled with white to off-white colored granular powder.
 
-NDC 46708-268-30 bottle of 30 capsules
+NDC 46708-268-30 bottle of 30 capsules NDC 46708-268-60 bottle of 60 capsules
 
-NDC 46708-268-31 bottle of 100 capsules NDC 46708-268-91 bottle of 1000 capsules NDC 46708-268-12 carton of 80 (10 x 8) unit-dose capsules NDC 46708-268-10 carton of 100 (10 x 10) unit-dose capsules
+NDC 46708-268-31 bottle of 100 capsules NDC 46708-268-71 bottle of 500 capsules NDC 46708-268-91 bottle of 1000 capsules NDC 46708-268-12 carton of 80 (10 x 8) unit-dose capsules NDC 46708-268-10 carton of 100 (10 x 10) unit-dose capsules
 
 Celecoxib capsules 200 mg are opaque white/opaque white hard gelatin capsules size “1” having imprinting “136” on body with golden yellow ink and “A” on cap with golden yellow ink filled with white to off-white colored granular powder.
 
-NDC 46708-269-30 bottle of 30 capsules
+NDC 46708-269-30 bottle of 30 capsules NDC 46708-269-60 bottle of 60 capsules
 
 NDC 46708-269-31 bottle of 100 capsules NDC 46708-269-71 bottle of 500 capsules NDC 46708-269-91 bottle of 1000 capsules NDC 46708-269-12 carton of 80 (10 x 8) unit-dose capsules NDC 46708-269-10 carton of 100 (10 x 10) unit-dose capsules
 

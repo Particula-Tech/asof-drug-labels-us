@@ -21,7 +21,7 @@ Celecoxib is indicated for the relief of signs and symptoms of AS [see Clinical 
 
 ## 1.5 Acute Pain (AP)
 
-Celecoxib is indicated for the managementof AP in adults [see Clinical Studies (14.5)]
+Celecoxib is indicated for the management of AP in adults [see Clinical Studies (14.5)]
 
 ## 1.6 Primary Dysmenorrhea (PD)
 

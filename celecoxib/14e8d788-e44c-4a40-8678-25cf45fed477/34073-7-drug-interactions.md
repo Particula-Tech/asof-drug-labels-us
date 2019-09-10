@@ -1,9 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-General: Celecoxib metabolism is predominantly mediated via cytochrome P450 (CYP) 2C9 in the liver.
+General: Celecoxib metabolism is predominantly mediated via cytochrome P450(CYP)2C9 in the liver.
 Co-administration of celecoxib with drugs that are known to inhibit CYP2C9 should be done with caution.
 Significant interactions may occur when celecoxib is administered together with drugs that inhibit CYP2C9.
-
 In vitro studies indicate that celecoxib, although not a substrate, is an inhibitor of CYP2D6.
 Therefore, there is a potential for an in vivo drug interaction with drugs that are metabolized by CYP2D6.
 
@@ -24,12 +23,12 @@ Patients on lithium treatment should be closely monitored when celecoxib is intr
 Celecoxib can be used with low-dose aspirin.
 However, concomitant administration of aspirin with celecoxib increases the rate of GI ulceration or other complications, compared to use of celecoxib alone [see Warnings and Precautions (5.1, 5.4) and Clinical Studies (14.6)].
 
-Because of its lack of platelet effects, celecoxibis not a substitute for aspirin for cardiovascular prophylaxis [see Clinical Pharmacology (12.2)].
+Because of its lack of platelet effects, celecoxib is not a substitute for aspirin for cardiovascular prophylaxis [see Clinical Pharmacology (12.2)].
 
 ## 7.4 ACE-inhibitors and Angiotensin II Antagonists
 
 Reports suggest that NSAIDs may diminish the antihypertensive effect of Angiotensin Converting Enzyme (ACE) inhibitors and angiotensin II antagonists.
-This interaction should be given consideration in patients taking celecoxib concomitantly with ACE-inhibitors and angiotensin II antagonists [see Clinical Pharmacology (12.2)].
+This interaction should be given consideration in patients taking celecoxibconcomitantly with ACE-inhibitors and angiotensin II antagonists [see Clinical Pharmacology (12.2)].
 
 ## 7.5 Fluconazole
 

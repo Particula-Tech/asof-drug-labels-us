@@ -4,7 +4,7 @@
 
 Celecoxib has demonstrated significant reduction in joint pain compared to placebo.
 Celecoxib was evaluated for treatment of the signs and the symptoms of OA of the knee and hip in placebo- and active-controlled clinical trials of up to 12 weeks duration.
-In patients with OA, treatment with celecoxib100 mg twice daily or 200 mg once daily resulted in improvement in WOMAC (Western Ontario and McMaster Universities) osteoarthritis index, a composite of pain, stiffness, and functional measures in OA.
+In patients with OA, treatment with celecoxib 100 mg twice daily or 200 mg once daily resulted in improvement in WOMAC (Western Ontario and McMaster Universities) osteoarthritis index, a composite of pain, stiffness, and functional measures in OA.
 In three 12-week studies of pain accompanying OA flare, celecoxib doses of 100 mg twice daily and 200 mg twice daily provided significant reduction of pain within 24 to 48 hours of initiation of dosing.
 At doses of 100 mg twice daily or 200 mg twice daily the effectiveness of celecoxib was shown to be similar to that of naproxen 500 mg twice daily.
 Doses of 200 mg twice daily provided no additional benefit above that seen with 100 mg twice daily.
@@ -78,21 +78,21 @@ Table 4: Complicated and Symptomatic Ulcer Rates in Patients Taking celecoxib 40
 
 All Patients
 
-Celecoxibalone (n=3,105) 0.78
+Celecoxib alone (n=3,105) 0.78
 
-Celecoxibwith ASA (n=882) 2.19
+Celecoxib with ASA (n=882) 2.19
 
 Patients <65 Years
 
-Celecoxibalone (n=2,025) 0.47
+Celecoxib alone (n=2,025) 0.47
 
 Celecoxibwith ASA (n=403) 1.26
 
 Patients ≥65 Years
 
-Celecoxibalone (n=1,080) 1.4
+Celecoxib alone (n=1,080) 1.4
 
-Celecoxibwith ASA (n=479) 3.06
+Celecoxib with ASA (n=479) 3.06
 
 In a small number of patients with a history of ulcer disease, the complicated and symptomatic ulcer rates in patients taking celecoxib alone or celecoxib with ASA were, respectively, 2.56% (n=243) and 6.85% (n=91) at 48 weeks.
 These results are to be expected in patients with a prior history of ulcer disease [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].

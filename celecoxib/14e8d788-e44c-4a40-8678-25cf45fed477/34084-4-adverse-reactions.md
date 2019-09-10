@@ -115,11 +115,11 @@ Table 2: Adverse Events Occurring in ≥5% of JRA Patients in Any Treatment Grou
 
 ## 6.4 Other Pre-Approval Studies
 
-Adverse Events from Ankylosing Spondylitis Studies: A total of 378 patients were treated with celecoxibin placebo- and active-controlled AS studies.
+Adverse Events from Ankylosing Spondylitis Studies: A total of 378 patients were treated with celecoxib in placebo- and active-controlled AS studies.
 Doses up to 400 mg once daily were studied.
 The types of adverse events reported in the AS studies were similar to those reported in the OA/RA studies.
 
-Adverse Events from Analgesia and Dysmenorrhea Studies: Approximately 1,700 patients were treated with celecoxibin analgesia and dysmenorrhea studies.
+Adverse Events from Analgesia and Dysmenorrhea Studies: Approximately 1,700 patients were treated with celecoxib in analgesia and dysmenorrhea studies.
 All patients in post-oral surgery pain studies received a single dose of study medication.
 Doses up to 600 mg/day of celecoxib were studied in primary dysmenorrhea and post-orthopedic surgery pain studies.
 The types of adverse events in the analgesia and dysmenorrhea studies were similar to those reported in arthritis studies.
@@ -127,7 +127,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 ## 6.5 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies:Exposure to celecoxibin the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.6)].
+Adverse reactions from long-term, placebo-controlled polyp prevention studies:Exposure to celecoxib in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.6)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see adverse events from celecoxib pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxibwere greater as compared to the arthritis pre-marketing trials were as follows:

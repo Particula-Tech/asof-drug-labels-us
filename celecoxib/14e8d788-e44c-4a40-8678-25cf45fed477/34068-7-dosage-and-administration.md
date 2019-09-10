@@ -35,7 +35,7 @@ On subsequent days, the recommended dose is 200 mg twice daily as needed.
 ## 2.6 Special Populations
 
 Hepatic insufficiency: The daily recommended dose of celecoxib in patients with moderate hepatic impairment (Child-Pugh Class B) should be reduced by 50%.
-The use of celecoxib in patients with severe hepatic impairment is not recommended [see Warnings and Precautions(5.5),Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The use of celecoxib in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.5),Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Poor Metabolizers of CYP2C9 Substrates: Patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) should be administered celecoxib with caution.
 Consider starting treatment at half the lowest recommended dose in poor metabolizers (i.e.
