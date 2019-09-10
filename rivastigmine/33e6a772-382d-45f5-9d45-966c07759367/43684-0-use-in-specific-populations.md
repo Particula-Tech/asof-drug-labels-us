@@ -5,7 +5,7 @@
 Pregnancy Category B
 
 There are no adequate and well-controlled studies in pregnant women.
-Reproduction studies conducted in pregnant rats and rabbits at oral doses up to 2.3 mg-base/kg/day, or 2 (rat) and 4 (rabbit) times the maximum recommended human dose (MRHD) of 12 mg/day on a mg/m2basis, revealed no evidence of teratogenicity.
+Reproduction studies conducted in pregnant rats and rabbits at oral doses up to 2.3 mg-base/kg/day, or 2 (rat) and 4 (rabbit) times the maximum recommended human dose (MRHD) of 12 mg/day on a mg/m2 basis, revealed no evidence of teratogenicity.
 Studies in pregnant rats showed slightly decreased fetal/pup weight at doses that were below the MRHD but usually associated with some maternal toxicity.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
