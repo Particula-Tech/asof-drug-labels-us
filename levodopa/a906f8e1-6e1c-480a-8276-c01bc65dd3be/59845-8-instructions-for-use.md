@@ -78,7 +78,7 @@ Disposing of the Inhaler and Capsules
 - Throw out all used capsules in your household trash.
 - After all capsules in the carton have been used, throw out the inhaler and use a new carton containing a new inhaler and capsules.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 12/2018
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 03/2019
 
 Manufactured by: Acorda Therapeutics, Inc. 420 Saw Mill River Road Ardsley, NY 10502 USA
 
@@ -86,4 +86,4 @@ Inbrija™ is a trademark of Acorda Therapeutics, Inc.
 
 ©2018 Acorda Therapeutics, Inc. All rights reserved.
 
-1218342SPL-0
+0319342SPL-0

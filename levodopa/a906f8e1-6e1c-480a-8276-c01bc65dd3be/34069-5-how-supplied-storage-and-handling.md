@@ -4,6 +4,8 @@
 
 INBRIJA 42 mg contains foil blister strips of INBRIJA (levodopa inhalation powder) white capsules with two black bands on the body and "A42" in black on the cap, and one INBRIJA inhaler.
 
+- Carton containing 4 INBRIJA capsules (1 blister card containing 4 capsules) and 1 INBRIJA inhaler: NDC 10144-342-04
+- Carton containing 12 INBRIJA capsules (3 blister cards containing 4 capsules each) and 1 INBRIJA inhaler: NDC 10144-342-12
 - Carton containing 60 INBRIJA capsules (15 blister cards containing 4 capsules each) and 1 INBRIJA inhaler: NDC 10144-342-60
 - Carton containing 92 INBRIJA capsules (23 blister cards containing 4 capsules each) and 1 INBRIJA inhaler: NDC 10144-342-92
 

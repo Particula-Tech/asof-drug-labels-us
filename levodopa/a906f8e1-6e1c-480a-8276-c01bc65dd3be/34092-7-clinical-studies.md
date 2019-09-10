@@ -6,7 +6,7 @@ Study 1:
 
 In Study 1, a total of 114 patients were treated with INBRIJA 84 mg (two 42 mg capsules), and 112 patients received placebo.
 Study medication could be administered up to five times a day.
-At baseline, patients had at least 2 hours per day of OFF time per day, and carbidopa/levodopa medication did not exceed 1600 mg levodopa per day.
+At baseline, patients had at least 2 hours of OFF time per day, and carbidopa/levodopa medication did not exceed 1600 mg levodopa per day.
 The mean UPDRS Part III scores at screening in the ON state were 14.9 for patients randomized to INBRIJA 84 mg and 16.1 for patients randomized to placebo.
 The UPDRS part III is designed to assess the severity of the cardinal motor findings (e.g., tremor, rigidity, bradykinesia, postural instability) in patients with Parkinson's disease.
 
