@@ -8,16 +8,18 @@ The following adverse reactions are discussed in greater detail in other section
 - Hypersensitivity reactions [see Warnings and Precautions (5.4)]
 - Exfoliative dermatitis [see Warnings and Precautions (5.4)]
 - Angioedema [see Warnings and Precautions (5.5)]
-- Fluid Accumulation and Impairment of Wound Healing [see Warnings and Precautions (5.6)]
+- Fluid accumulation and impairment of wound healing [see Warnings and Precautions (5.6)]
 - Hypertriglyceridemia, hypercholesterolemia [see Warnings and Precautions (5.7)]
 - Decline in renal function in long-term combination of cyclosporine with sirolimus[see Warnings and Precautions (5.8)]
 - Proteinuria [see Warnings and Precautions (5.9)]
 - Interstitial lung disease [see Warnings and Precautions (5.11)]
-- Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)].
+- Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)]
+- Embryo-fetal toxicity [see Warnings and Precautions (5.15)]
+- Male infertility [see Warnings and Precautions (5.16)]
 
-The most common (≥ 30%) adverse reactions observed with sirolimus in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
+The most common (≥30%) adverse reactions observed with sirolimus in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
-The most common (≥ 20%) adverse reactions observed with sirolimus in the clinical study for the treatment of LAM are: stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
+The most common (≥20%) adverse reactions observed with sirolimus in the clinical study for the treatment of LAM are: stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
 
 The following adverse reactions resulted in a rate of discontinuation of >5% in clinical trials for renal transplant rejection prophylaxis: creatinine increased, hypertriglyceridemia, and TTP.
 In patients with LAM, 11% of subjects discontinued due to adverse reactions, with no single adverse reaction leading to discontinuation in more than one patient being treated with sirolimus.
@@ -30,7 +32,7 @@ The safety profiles in the two studies were similar.
 The incidence of adverse reactions in the randomized, double-blind, multicenter, placebo-controlled trial (Study 2) in which 219 renal transplant patients received sirolimus oral solution 2 mg/day, 208 received sirolimus oral solution 5 mg/day, and 124 received placebo is presented in Table 1 below.
 The study population had a mean age of 46 years (range 15 to 71 years), the distribution was 67% male, and the composition by race was: White (78%), Black (11%), Asian (3%), Hispanic (2%), and Other (5%).
 All patients were treated with cyclosporine and corticosteroids.
-Data (≥ 12 months post-transplant) presented in the following table show the adverse reactions that occurred in at least one of the sirolimus treatment groups with an incidence of ≥ 20%.
+Data (≥ 12 months post-transplant) presented in the following table show the adverse reactions that occurred in at least one of the sirolimus treatment groups with an incidence of ≥20%.
 
 The safety profile of the tablet did not differ from that of the oral solution formulation [see Clinical Studies (14.1)].
 
@@ -40,7 +42,7 @@ Patients receiving 2 mg of sirolimus oral solution per day demonstrated an overa
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE OF THE SIROLIMUS TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)Patients received cyclosporine and corticosteroids.
+TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥20% IN AT LEAST ONE OF THE SIROLIMUS TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)Patients received cyclosporine and corticosteroids.
 
 | Adverse Reaction | (n = 218) | (n = 208) | (n = 124) |
 | --- | --- | --- | --- |
@@ -66,7 +68,7 @@ TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE O
 | Rash | 10 | 20 | 6 |
 | Edema | 20 | 18 | 15 |
 
-The following adverse reactions were reported less frequently (≥ 3%, but <20%)
+The following adverse reactions were reported less frequently (≥3%, but <20%)
 
 - Body as a Whole – Sepsis, lymphocele, herpes zoster, herpes simplex.
 - Cardiovascular – Venous thromboembolism (including pulmonary embolism, deep venous thrombosis), tachycardia.
@@ -131,7 +133,7 @@ The incidence of malignancies in Study 3 [see Clinical Studies (14.2)] is presen
 In Study 3, the incidence of lymphoma/lymphoproliferative disease was similar in all treatment groups.
 The overall incidence of malignancy was higher in patients receiving sirolimus plus cyclosporine compared with patients who had cyclosporine withdrawn.
 Conclusions regarding these differences in the incidence of malignancy could not be made because Study 3 was not designed to consider malignancy risk factors or systematically screen subjects for malignancy.
-In addition, more patients in the sirolimus with cyclosporine group had a pretransplantation history of skin carcinoma.
+In addition, more patients in the sirolimus with cyclosporine group had a pre-transplantation history of skin carcinoma.
 
 TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
@@ -165,7 +167,7 @@ In the subset of patients with a baseline glomerular filtration rate of greater 
 
 Overall in this study, a 5-fold increase in the reports of tuberculosis among sirolimus 2.0% (11/551) and comparator 0.4% (1/273) treatment groups was observed with 2:1 randomization scheme.
 
-In a second study evaluating the safety and efficacy of conversion from tacrolimus to sirolimus 3 to 5 months post kidney transplant, a higher rate of adverse events, discontinuations due to adverse events, acute rejection, and new onset diabetes mellitus was observed following conversion to sirolimus.
+In a second study evaluating the safety and efficacy of conversion from tacrolimus to sirolimus 3 to 5 months post-kidney transplant, a higher rate of adverse events, discontinuations due to adverse events, acute rejection, and new onset diabetes mellitus was observed following conversion to sirolimus.
 There was also no benefit with respect to renal function and a greater incidence of proteinuria was observed after conversion to sirolimus [(see Clinical Studies (14.4)].
 
 ## 6.5 Pediatric Renal Transplant Patients
@@ -177,7 +179,7 @@ The use of sirolimus in combination with calcineurin inhibitors and corticostero
 
 Safety was assessed in a controlled trial involving 89 patients with lymphangioleiomyomatosis, 46 of whom were treated with sirolimus [see Clinical Studies (14.7)].
 The adverse drug reactions observed in this trial were consistent with the known safety profile for renal transplant patients receiving sirolimus, with the addition of weight decreased which was reported at a greater incidence with sirolimus when compared to placebo.
-Adverse reactions occurring at a frequency of ≥ 20% in the sirolimus treatment group and greater than placebo include stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
+Adverse reactions occurring at a frequency of ≥20% in the sirolimus treatment group and greater than placebo include stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
 
 ## 6.7 Postmarketing Experience
 
@@ -200,6 +202,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of sirolimus.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
-- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma) [see Warnings and Precautions (5.17)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
+- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma) [see Warnings and Precautions (5.18)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
 - Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of sirolimus and has been reversible upon discontinuation of sirolimus in most cases.

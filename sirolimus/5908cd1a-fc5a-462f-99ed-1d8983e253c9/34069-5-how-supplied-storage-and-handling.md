@@ -13,5 +13,5 @@ Sirolimus Tablets are available as follows:
 - NDC 59762-1002-1, 1 mg, white, triangular-shaped tablets marked "RAPAMUNE 1 mg" on one side; bottle containing 100 tablets.
 - NDC 59762-1003-1, 2 mg, yellow-to-beige triangular-shaped tablets marked "RAPAMUNE 2 mg" on one side; bottle containing 100 tablets.
 
-Sirolimus Tablets should be stored at 20° to 25°C [USP Controlled Room Temperature] (68° to 77°F).
+Sirolimus Tablets should be stored at 20°C to 25°C [USP Controlled Room Temperature] (68°F to 77°F).
 Dispense in a tight, light-resistant container as defined in the USP.
