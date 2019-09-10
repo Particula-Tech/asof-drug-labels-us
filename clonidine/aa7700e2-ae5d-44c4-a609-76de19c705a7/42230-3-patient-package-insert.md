@@ -126,15 +126,11 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can also ask your doctor or pharmacist for information about KAPVAY that is written for healthcare professionals.
 
-For more information about KAPVAY, go to www.KAPVAY.com or call 1-877-370-1142.
+For more information about KAPVAY call 1-877-370-1142.
 
 What are the ingredients in KAPVAY?
 
 - Active Ingredient: clonidine hydrochloride
 - Inactive Ingredients: sodium lauryl sulfate, lactose monohydrate, hypromellose type 2208, partially pregelatinized starch, colloidal silicon dioxide, and magnesium stearate
 
-Revised: 1/2018
-
-Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
-
-Kapvay® is a registered trademark of Concordia Pharmaceuticals Inc.
+Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland Kapvay® is a registered trademark under exclusive license to Amdipharm Limited.
