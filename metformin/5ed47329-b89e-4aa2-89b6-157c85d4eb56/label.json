@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212595"
+  ],
+  "inn": "metformin",
+  "labeler": "Sun Pharmaceutical Industries Inc.",
+  "package_ndcs": [
+    "10631-019-17"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "RIOMET ER"
+    }
+  ],
+  "setid": "5ed47329-b89e-4aa2-89b6-157c85d4eb56",
+  "source": "dailymed"
+}
