@@ -2,14 +2,14 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction ratesobserved in the clinical trials of a drug cannot be directly compared to rates in the clinical trialsof another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trialsof another drug and may not reflect the rates observed in practice.
 
-In the BAT trials, 79 of the 2,161 (3.7%) patients undergoing PCI for treatment of unstableangina and randomized to bivalirudin for injection experienced major bleeding events whichconsisted of: intracranial bleeding, retroperitoneal bleeding, and clinically overt bleeding with adecrease in hemoglobin >3 g/dL or leading to a transfusion of >2 units of blood.
+In the BAT trials, 79 of the 2,161 (3.7%) patients undergoing PCI for treatment of unstable angina and randomized to bivalirudin for injection experienced major bleeding events which consisted of: intracranial bleeding, retroperitoneal bleeding, and clinically overt bleeding with a decrease in hemoglobin >3 g/dL or leading to a transfusion of >2 units of blood.
 
 ## 6.2 Immunogenicity
 
 As with all peptides, there is potential for immunogenicity.
-The detection of antibody formationis highly dependent on the sensitivity and specificity of the assay.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observedincidence of antibody (including neutralizing antibody) positivity in an assay may be influencedby several factors including assay methodology, sample handling, timing of sample collection,concomitant medications, and underlying disease.
 For these reasons, comparison of the incidenceof antibodies to bivalirudin for injection in the studies described below with the incidence ofantibodies in other studies or to other products may be misleading.
 

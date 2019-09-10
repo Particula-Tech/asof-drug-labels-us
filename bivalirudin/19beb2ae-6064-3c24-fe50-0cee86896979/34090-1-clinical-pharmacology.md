@@ -15,14 +15,14 @@ In healthy volunteers and patients (with ≥70% vessel occlusion undergoing rout
 Intravenous administration of bivalirudin producesan immediate anticoagulant effect.
 Coagulation times return to baseline approximately 1 hourfollowing cessation of bivalirudin administration.
 Bivalirudin also increase INR.
-Therefore INRmeasurements made in bivalirudin treated patients may not be useful for determining theappropriate dose of warfarin.
+Therefore INR measurements made in bivalirudin treated patients may not be useful for determining the appropriate dose of warfarin.
 
 In 291 patients with ≥70% vessel occlusion undergoing routine PTCA, a positive correlation was observed between the dose of bivalirudin for injection and the proportion of patients achieving ACT values of 300 sec or 350 sec. At a bivalirudin dose of 1 mg/kg IV bolus plus 2.5 mg/kg/h IV infusion for 4 hours, followed by 0.2 mg/kg/h, all patients reached maximal ACT values >300 sec.
 
 ## 12.3 Pharmacokinetics
 
-Bivalirudin exhibits linear pharmacokinetics following IV administration to patients undergoingPTCA.
-In these patients, a mean steady state bivalirudin concentration of 12.3 ± 1.7 mcg/mL isachieved following an IV bolus of 1 mg/kg and a 4-hour 2.5 mg/kg/h IV infusion.
+Bivalirudin exhibits linear pharmacokinetics following IV administration to patients undergoing PTCA.
+In these patients, a mean steady state bivalirudin concentration of 12.3 ± 1.7 mcg/mL is a chieved following an IV bolus of 1 mg/kg and a 4-hour 2.5 mg/kg/h IV infusion.
 
 Distribution
 
@@ -40,14 +40,14 @@ Bivalirudin is metabolized by proteolytic cleavage.
 Excretion
 
 Bivalirudin undergoes glomerular filtration.
-Tubular secretion and tubular reabsorption are alsoimplicated in the excretion of bivalirudin, although the extent is unknown.
+Tubular secretion and tubular reabsorption are also implicated in the excretion of bivalirudin, although the extent is unknown.
 
 Specific Populations
 
 Patients with Renal Impairment
 
 Total body clearance was similar for PTCA patients with normal renal function and with mildrenal impairment.
-Clearance was reduced by 21% in patients with moderate and severe renalimpairment with a half-life of 34 and 57 minutes, respectively.
+Clearance was reduced by 21% in patients with moderate and severe renal impairment with a half-life of 34 and 57 minutes, respectively.
 
 In dialysis patients, clearance was reduced by 70%, with a half-life of 3.5 hours.
 Approximately25% bivalirudin is cleared by hemodialysis.

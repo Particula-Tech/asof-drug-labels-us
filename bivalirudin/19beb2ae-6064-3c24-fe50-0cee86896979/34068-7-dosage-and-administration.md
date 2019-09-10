@@ -4,10 +4,10 @@
 
 Bivalirudin for injection has been studied only in patients receiving concomitant aspirin.
 
-The recommended dose of bivalirudin is an intravenous bolus dose of 0.75 mg/kg, followedimmediately by an infusion of 1.75 mg/kg/h for the duration of the procedure.
+The recommended dose of bivalirudin for injection is an intravenous bolus dose of 0.75 mg/kg, followed immediately by an infusion of 1.75 mg/kg/h for the duration of the procedure.
 Five minutes afterthe bolus dose has been administered, an activated clotting time (ACT) should be performed andan additional bolus of 0.3 mg/kg should be given if needed.
 
-Extended duration of infusion following PCI at 1.75 mg/kg/h for up to 4 hours post-procedureshould be considered in patients with ST segment elevation MI (STEMI).
+Extended duration of infusion following PCI at 1.75 mg/kg/h for up to 4 hours post-procedure should be considered in patients with ST segment elevation MI (STEMI).
 
 ## 2.2 Dose Adjustment in Renal Impairment
 
@@ -24,7 +24,7 @@ In patients on hemodialysis, reduce the infusion rate to 0.25 mg/kg/h [see Use i
 
 ## 2.3 Instructions for Preparation and Administration
 
-Bivalirudin for injection is intended for intravenous bolus injection and continuous infusion afterreconstitution and dilution.
+Bivalirudin for injection is intended for intravenous bolus injection and continuous infusion after reconstitution and dilution.
 
 Preparation Instructions for Bolus Injection and Continuous Infusion
 
@@ -32,9 +32,9 @@ Preparation Instructions for Bolus Injection and Continuous Infusion
 
 • Gently swirl until all material is dissolved.
 
-• Withdraw and discard 5 mL from a 50 mL infusion bag containing 5% Dextrose in Wateror 0.9% Sodium Chloride for Injection.
+• Withdraw and discard 5 mL from a 50 mL infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection.
 
-• Add the contents of the reconstituted vial to the infusion bag containing 5% Dextrose inWater or 0.9% Sodium Chloride for Injection to yield a final concentration of 5 mg/mL(e.g., 1 vial in 50 mL; 2 vials in 100 mL; 5 vials in 250 mL).
+• Add the contents of the reconstituted vial to the infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 5 mg/mL (e.g., 1 vial in 50 mL; 2 vials in 100 mL; 5 vials in 250 mL).
 
 • Adjust the dose to be administered according to the patient’s weight (see Table 1).
 
@@ -57,7 +57,7 @@ Dosing Table
 
 | Weight(kg) | Using 5 mg/mL Concentration |  |  |
 | --- | --- | --- | --- |
-| Bolus 0.75 mg/k (mL) | Infusion 1.75 mg/kg/h(mL/h) |  |  |
+| Bolus 0.75 mg/kg (mL) | Infusion 1.75 mg/kg/h(mL/h) |  |  |
 | 43-47 | 7 | 16 |  |
 | 48-52 | 7.5 | 17.5 |  |
 | 53-57 | 8 | 19 |  |
@@ -81,13 +81,13 @@ Dosing Table
 | 143-147 | 22 | 51 |  |
 | 148-152 | 22.5 | 52.5 |  |
 
-Drug Compatabilities
+Drug Compatibilities
 
-No incompatabilities have been observed with administration sets.
+No incompatibilities have been observed with administration sets.
 
-Do not be administer the drugs listed in Table 1 in the same intravenous line with bivalirudin forinjection.
+Do not be administer the drugs listed in Table 2 in the same intravenous line with bivalirudin for injection.
 
-| Table 1. Drugs Not for Administration in the Same Intravenous Line with Bivalirudin for Injection. |
+| Table 2. Drugs Not for Administration in the Same Intravenous Line with Bivalirudin for Injection. |
 | --- |
 | Alteplase |
 | Amiodarone HCl |
@@ -107,6 +107,6 @@ Reconstituted material will be a clear to slightly opalescent, colorless to slig
 ## 2.4 Storage after Reconstitution
 
 Do not freeze reconstituted or diluted bivalirudin for injection.
-Reconstituted material may be stored at 2° to 8º C for up to 24 hours.
+Reconstituted material may be stored at 2 to 8º C for up to 24 hours.
 Diluted bivalirudin for injection with a concentration of between 0.5 mg/mL and 5 mg/mL is stable at room temperature for up to 24 hours.
-Discard any unused portion of reconstituted solution remaining in the vial
+Discard any unused portion of reconstituted solution remaining in the vial.

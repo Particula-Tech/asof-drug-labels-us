@@ -2,9 +2,9 @@
 
 Bivalirudin Angioplasty Trial (BAT)
 
-In the BAT studies, patients with unstable angina undergoing PCI were randomized 1:1 to a 1 mg/kg bolus of bivalirudin and then 2.5 mg/kg/h for four hours and then 0.2 mg/kg/h for 14 to 20 hours or to 175 IU/kg bolus of heparin followed by an 18 to 24 hour infusion of 15 IU/kg/h infusion.
-Additional heparin but not bivalirudin could be administered for ACT <350 seconds.
-The studies were designed to demonstrate the superiority of bivalirudin to heparin on the occurrence of any of the following during hospitalization up to seven days of death, MI, abrupt closure of dilated vessel, or clinical deterioration requiring revascularization or placement of an aortic balloon pump.
+In the BAT studies, patients with unstable angina undergoing PCI were randomized 1:1 to a 1 mg/kg bolus of bivalirudin for injection and then 2.5 mg/kg/h for four hours and then 0.2 mg/kg/h for 14 to 20 hours or to 175 IU/kg bolus of heparin followed by an 18 to 24 hour infusion of 15 IU/kg/h infusion.
+Additional heparin but not bivalirudin for injection for injection could be administered for ACT <350 seconds.
+The studies were designed to demonstrate the superiority of bivalirudin for injection to heparin on the occurrence of any of the following during hospitalization up to seven days of death, MI, abrupt closure of dilated vessel, or clinical deterioration requiring revascularization or placement of an aortic balloon pump.
 
 The 4,312 subjects ranged in age from 29 to 90 (median 63) years.
 68% were male, and 91% were Caucasian.
@@ -12,12 +12,12 @@ Median weight was 80 kg (39 to 120 kg).
 741 (17%) subjects had post-MI angina.
 Twenty-three percent of patients were treated with heparin within one hour prior to randomization.
 
-The studies did not demonstrate that bivalirudin was statistically superior to heparin for reducing the risk of death, MI, abrupt closure of the dilated vessel, or clinical deterioration requiring revascularization or placement of an aortic balloon pump, but the occurrence of these events was similar in both treatment groups.
-Study outcomes are shown in Table 2.
+The studies did not demonstrate that bivalirudin for injection was statistically superior to heparin for reducing the risk of death, MI, abrupt closure of the dilated vessel, or clinical deterioration requiring revascularization or placement of an aortic balloon pump, but the occurrence of these events was similar in both treatment groups.
+Study outcomes are shown in Table 3.
 
-Table 2: Incidences of In-hospital Endpoints in BAT Trial
+Table 3: Incidences of In-hospital Endpoints in BAT Trial
 
-| Endpoint | Bivalirudin (n=2161) | HEPARIN (n=2151) |
+| Endpoint | Bivalirudin for Injection (n=2161) | HEPARIN (n=2151) |
 | --- | --- | --- |
 | Primary Endpoint1 | 7.9% | 9.3% |
 | Death, MI, revascularization | 6.2% | 7.9% |
