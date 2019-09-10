@@ -36,13 +36,13 @@ An examination of population subgroups did not reveal any clear evidence of diff
 A longer-term trial enrolled 310 inpatients or outpatients meeting DSM-IV criteria for schizophrenia who were, by history, symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
 These patients were discontinued from their antipsychotic medications and randomized to aripiprazole 15 mg/day or placebo for up to 26 weeks of observation for relapse.
 Relapse during the double-blind phase was defined as CGI-Improvement score of ≥5 (minimally worse), scores ≥5 (moderately severe) on the hostility or uncooperativeness items of the PANSS, or ≥20% increase in the PANSS total score.
-Patients receiving aripiprazole 15 mg/day experienced a significantly longer time to relapse over the subsequent 26 weeks compared to those receiving placebo(Study 5 in Figure 6).
+Patients receiving aripiprazole 15 mg/day experienced a significantly longer time to relapse over the subsequent 26 weeks compared to those receiving placebo (Study 5 in Figure 6).
 
 Pediatric Patients
 
 The efficacy of aripiprazole in the treatment of schizophrenia in pediatric patients (13 to 17 years of age) was evaluated in one 6-week, placebo-controlled trial of outpatients who met DSM-IV criteria for schizophrenia and had a PANSS score ≥70 at baseline.
 In this trial (n=302) comparing two fixed doses of aripiprazole (10 or 30 mg/day) to placebo, aripiprazole was titrated starting from 2 mg/day to the target dose in 5 days in the 10 mg/day treatment arm and in 11 days in the 30 mg/day treatment arm.
-Both doses of aripiprazole were superior to placebo in the PANSS total score(Study 6 in Table 13), the primary outcome measure of the study.
+Both doses of aripiprazole were superior to placebo in the PANSS total score (Study 6 in Table 13), the primary outcome measure of the study.
 The 30 mg/day dosage was not shown to be more efficacious than the 10 mg/day dose.
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 

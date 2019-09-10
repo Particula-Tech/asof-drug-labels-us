@@ -4,7 +4,6 @@
 
 Increased Mortality Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
-
 Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer’s Disease In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse events that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation [placebo 0%, aripiprazole 4%], and lightheadedness [placebo 1%, aripiprazole 4%].
 The safety and efficacy of aripiprazole in the treatment of patients with psychosis associated with dementia have not been established.
 If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].

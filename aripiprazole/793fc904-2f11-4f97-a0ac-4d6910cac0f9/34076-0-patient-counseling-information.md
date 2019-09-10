@@ -21,4 +21,4 @@ Heat Exposure and Dehydration Patients should be advised regarding appropriate c
 ABILIFY® is a trademark of Otsuka Pharmaceutical Company.
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal 389350, Gujarat, India.
-Revision: 10/2015
+Revision: 09/2019
