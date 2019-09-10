@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA210188"
+  ],
+  "inn": "ranolazine",
+  "labeler": "Viona Pharmaceuticals Inc",
+  "package_ndcs": [
+    "72578-064-01",
+    "72578-064-05",
+    "72578-064-14",
+    "72578-064-30",
+    "72578-064-77",
+    "72578-065-01",
+    "72578-065-05",
+    "72578-065-14",
+    "72578-065-30",
+    "72578-065-77"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "ranolazine",
+      "name": "Ranolazine"
+    }
+  ],
+  "setid": "00979fb3-d70f-493d-94ca-2914cbadaa9d",
+  "source": "dailymed"
+}
