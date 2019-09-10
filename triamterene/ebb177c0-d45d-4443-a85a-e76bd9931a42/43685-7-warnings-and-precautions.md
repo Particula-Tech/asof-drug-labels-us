@@ -5,7 +5,7 @@ It is particularly important to make serum potassium determinations in elderly o
 
 If hyperkalemia is present or suspected, an electrocardiogram should be obtained.
 If the ECG shows no widening of the QRS or arrhythmia in the presence of hyperkalemia, it is usually sufficient to discontinue Dyrenium (triamterene) and any potassium supplementation, and substitute a thiazide alone.
-Sodium polystyrene sulfonate (Kayexalate®, Concordia Pharmaceuticals Inc.) may be administered to enhance the excretion of excess potassium.
+Sodium polystyrene sulfonate may be administered to enhance the excretion of excess potassium.
 The presence of a widened QRS complex or arrhythmia in association with hyperkalemia requires prompt additional therapy.
 For tachyarrhythmia, infuse 44 mEq of sodium bicarbonate or 10 mL of 10% calcium gluconate or calcium chloride over several minutes.
 For asystole, bradycardia or A-V block transvenous pacing is also recommended.
@@ -111,8 +111,8 @@ These possible hazards include adverse reactions which have occurred in the adul
 ### Nursing Mothers:
 
 Triamterene has not been studied in nursing mothers.
-Triamtereneappears in animal milk and is likely present in human milk.
-If use of thedrug product is deemed essential, the patient should stop nursing.
+Triamterene appears in animal milk and is likely present in human milk.
+If use of the drug product is deemed essential, the patient should stop nursing.
 
 ### Pediatric Use:
 

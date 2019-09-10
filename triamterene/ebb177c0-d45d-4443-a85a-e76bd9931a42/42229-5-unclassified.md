@@ -1,8 +1,3 @@
-©2015 Concordia Pharmaceuticals Inc.
-
-Manufactured for Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
-
-Made in Canada
-
-Rev.
-2_06/2016 N0170E DYR_PI
+©2015 All rights reserved.
+Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited, 17 Northwood House, Dublin 9, Ireland Made in Canada Rev.
+09/19
