@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA204150"
+  ],
+  "inn": "desvenlafaxine",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-152-30",
+    "46708-152-90",
+    "46708-153-30",
+    "46708-153-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desvenlafaxine",
+      "name": "Desvenlafaxine"
+    }
+  ],
+  "setid": "9f74708c-6f6a-46cf-8c79-87a25c2bb6f8",
+  "source": "dailymed"
+}
