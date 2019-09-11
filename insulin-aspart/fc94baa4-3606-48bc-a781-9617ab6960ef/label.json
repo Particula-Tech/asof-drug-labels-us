@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA021172"
+  ],
+  "inn": "insulin-aspart",
+  "labeler": "Novo Nordisk Pharma, Inc.",
+  "package_ndcs": [
+    "73070-200-11",
+    "73070-203-15"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "insulin aspart",
+      "name": ".Insulin Aspart Protamine and Insulin Aspart"
+    },
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "insulin aspart",
+      "name": "Insulin Aspart Protamine and Insulin Aspart"
+    }
+  ],
+  "setid": "fc94baa4-3606-48bc-a781-9617ab6960ef",
+  "source": "dailymed"
+}
