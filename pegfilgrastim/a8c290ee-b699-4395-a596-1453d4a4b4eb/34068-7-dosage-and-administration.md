@@ -18,7 +18,7 @@ Do not administer UDENYCA if discoloration or particulates are observed.
 
 The needle cap on the prefilled syringe is not made with natural rubber latex.
 
-Pediatric Patients weighing less than 45 kg
+Pediatric Patients Weighing Less than 45 kg
 
 The UDENYCA prefilled syringe is not designed to allow for direct administration of doses less than 0.6 mL (6 mg).
 The syringe does not bear graduation marks which are necessary to accurately measure doses of UDENYCA less than 0.6 mL (6 mg) for direct administration to patients.

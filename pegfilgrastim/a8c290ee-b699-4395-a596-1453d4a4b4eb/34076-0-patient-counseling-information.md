@@ -20,12 +20,13 @@ Instruct patients who self-administer UDENYCA using the single-dose prefilled sy
 
 Coherus BioSciences
 
-UDENYCA™ (pegfilgrastim-cbqv)
+UDENYCA® (pegfilgrastim-cbqv)
 
 Manufactured by: Coherus BioSciences, Inc., Redwood City, California 94065-1442 U.S. License No. 2023
 
-© 2018 Coherus BioSciences Inc. All rights reserved.
+© 2019 Coherus BioSciences Inc. All rights reserved.
 
 For more information, go to www.UDENYCA.com or call 1-800-4UDENYCA (1-800-483-3692)
 
-PMD-0004, Version 02
+PMD-0004, Rev.
+03

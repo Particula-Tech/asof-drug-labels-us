@@ -1,4 +1,4 @@
-| Instructions for Use UDENYCA™ (yoo-den-i-kah) (pegfilgrastim-cbqv) Injection Single-Dose Prefilled Syringe |  |
+| Instructions for Use UDENYCA® (yoo-den-i-kah) (pegfilgrastim-cbqv) Injection Single-Dose Prefilled Syringe |  |
 | --- | --- |
 | Guide to Parts |  |
 | Before Use |  |
@@ -16,12 +16,12 @@
 | 1B: Open the carton and remove the sealed syringe tray. (See Figure 4) |  |
 | 2 - Allow UDENYCA to reach room temperature and gather supplies |  |
 | 2A: Place the sealed syringe tray on a flat, clean work surface and allow it to sit at room temperature for at least 30 minutes. (See Figure 5) Do not attempt to warm up the syringe in any other way, such as a microwave, hot water, or direct sunlight. |  |
-| 2B: Gather the following supplies: (See Figure 6) alcohol wipecotton ball or gauze1 adhesive bandagesharps disposal container |  |
+| 2B: Gather the following supplies: (See Figure 6) Alcohol wipeCotton ball or gauze1 adhesive bandageSharps disposal container |  |
 | 3 - Wash your hands and remove syringe from tray |  |
 | 3A: Wash your hands well with soap and warm water. (See Figure 7) |  |
-| 3B: Open the tray by peeling away the cover. Remove the prefilled syringe from the tray by grasping the middle of the syringe body and carefully pulling it out of the tray. (See Figure 8) For Safety reasons: Do not grab the plunger, plunger head.Do not grab the needle cap. |  |
+| 3B: Open the tray by peeling away the cover. Remove the prefilled syringe from the tray by grasping the middle of the syringe body and carefully pulling it out of the tray. (See Figure 8) For Safety reasons: Do not grab the plunger or the plunger head.Do not grab the needle cap. |  |
 | 4 - Inspect the syringe and medicine |  |
-| Check the medicine through the Inspection Window. The medicine should be clear and colorless. It is normal to see 1 or more air bubbles in the syringe. Removal of the air is not needed. (See Figure 9) Do not use the prefilled syringe if: the medicine appears discolored or cloudy.the medicine contains lumps, flakes, or particles.it appears used or damaged.if the needle cap is missing or not securely attached.the expiration date printed on the label has passed. In all cases, use a new prefilled syringe and call your healthcare provider. |  |
+| Check the medicine through the Inspection Window. The medicine should be clear and colorless. It is normal to see 1 or more air bubbles in the syringe. Removal of the air is not needed. (See Figure 9) Do not use the prefilled syringe if: the medicine appears discolored or cloudy.the medicine contains lumps, flakes, or particles.it appears used or damaged.the needle cap is missing or not securely attached.the expiration date printed on the label has passed. In all cases, use a new prefilled syringe and call your healthcare provider. |  |
 | Select and clean injection site |  |
 | 5 - Select and clean the injection site |  |
 | 5A: Select the injection site. The recommended injection sites for a subcutaneous injection are the: (See Figure 10) Abdomen (except for a two-inch area surrounding the navel)ThighsBack of upper arms (only if someone else is giving you the injection)Upper outer area of the buttocks (only if someone else is giving you the injection) Do not inject into moles, scars, birthmarks, or areas where the skin is tender, bruised, red, or hard. If you want to use the same injection site, make sure it is not the same spot on the injection site you used for a previous injection. |  |
@@ -42,13 +42,13 @@
 | 10 – Dispose of used prefilled syringes |  |
 | Put the used prefilled syringe into an FDA-cleared sharps disposal container right away after use. Do not throw away the syringe in the household trash. (See Figure 19) |  |
 | If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plasticcan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come outupright and stable during useleak-resistantproperly labeled to warn of hazardous waste inside the container When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.Do not reuse the prefilled syringe.Do not recycle prefilled syringes or sharps disposal container or throw them into household trash. |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Issued: 11/2018 |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Issued: 09/2019 |
 
 Coherus BioSciences
 
-UDENYCA™ (pegfilgrastim-cbqv) Manufactured by: Coherus BioSciences, Inc., Redwood City, California 94065-1442 U.S. License No. 2023 © 2018 Coherus BioSciences Inc. All rights reserved.
+UDENYCA® (pegfilgrastim-cbqv) Manufactured by: Coherus BioSciences, Inc., Redwood City, California 94065-1442 U.S. License No. 2023 © 2019 Coherus BioSciences Inc. All rights reserved.
 
 For more Information go to www.UDENYCA.com or call 1-800-4UDENYCA (1-800-483-3692)
 
 PMD-0005, Rev.
-01
+02

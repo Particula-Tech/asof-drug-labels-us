@@ -13,7 +13,7 @@ In Study 1, 157 patients were randomized to receive a single subcutaneous inject
 In Study 2, 310 patients were randomized to receive a single subcutaneous injection of pegfilgrastim (100 mcg/kg) on day 2 or daily subcutaneous filgrastim (5 mcg/kg/day) beginning on day 2 of each chemotherapy cycle.
 
 Both studies met the major efficacy outcome measure of demonstrating that the mean days of severe neutropenia of pegfilgrastim-treated patients did not exceed that of filgrastim-treated patients by more than 1 day in cycle 1 of chemotherapy.
-The mean days of cycle 1 severe neutropenia in Study 1 were 1.8 days in the pegfilgrastim arm compared to 1.6 days in the filgrastim arm [difference in means 0.2 (95% CI -0.2, 0.6)] and in Study 2 were 1.7 days in the pegfilgrastim arm compared to 1.6 days in the Filgrastim arm [difference in means 0.1 (95% CI -0.2, 0.4)].
+The mean days of cycle 1 severe neutropenia in Study 1 were 1.8 days in the pegfilgrastim arm compared to 1.6 days in the filgrastim arm [difference in means 0.2 (95% CI -0.2, 0.6)] and in Study 2 were 1.7 days in the pegfilgrastim arm compared to 1.6 days in the filgrastim arm [difference in means 0.1 (95% CI -0.2, 0.4)].
 
 A secondary endpoint in both studies was days of severe neutropenia in cycles 2 through 4 with results similar to those for cycle 1.
 

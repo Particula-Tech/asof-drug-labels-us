@@ -34,7 +34,7 @@ If causality is likely, consider dose-reduction or interruption of UDENYCA.
 
 ## 5.6 Leukocytosis
 
-White blood cell (WBC) counts of 100 x 109 /L or greater have been observed in patients receiving pegfilgrastim products.
+White blood cell (WBC) counts of 100 x 109/L or greater have been observed in patients receiving pegfilgrastim products.
 Monitoring of complete blood count (CBC) during UDENYCA therapy is recommended.
 
 ## 5.7 Capillary Leak Syndrome

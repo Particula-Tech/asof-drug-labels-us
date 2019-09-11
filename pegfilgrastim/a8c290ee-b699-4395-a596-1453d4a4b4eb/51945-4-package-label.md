@@ -8,7 +8,7 @@ Coherus BioSciences
 
 NDC 70114-101-01
 
-UDENYCA™ pegfilgrastim-cbqv Injection
+UDENYCA® pegfilgrastim-cbqv Injection
 
 Rx Only
 
