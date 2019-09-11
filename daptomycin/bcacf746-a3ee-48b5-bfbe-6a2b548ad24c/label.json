@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209949"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Civica, Inc.",
+  "package_ndcs": [
+    "72572-100-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "Daptomycin"
+    }
+  ],
+  "setid": "bcacf746-a3ee-48b5-bfbe-6a2b548ad24c",
+  "source": "dailymed"
+}
