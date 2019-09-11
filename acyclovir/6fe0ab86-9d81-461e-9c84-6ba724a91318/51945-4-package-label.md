@@ -77,31 +77,3 @@ See prescribing information for dosage information.
 Manufactured for Prestium Pharma, Inc. Newtown.
 PA 18940 by GlaxoSmithKline Research Triangle Park, NC, 27709 10000000118936 Rev.
 10/13
-
-# PRINCIPAL DISPLAY PANEL
-
-NDC 40076-953-96
-
-ZOVIRAX®
-
-(acyclovir)
-
-Suspension
-
-1 pint (473 mL)
-
-Each 5 mL (1 teaspoonful) contains acyclovir 200 mg and (added as preservatives) methylparaben 0.1% and propylparaben 0.02%.
-
-SHAKE WELL BEFORE USING.
-
-See prescribing information for dosage information.
-
-Store at 15o to 25oC (59o to 77oF).
-
-Dispense in tight container as defined in the USP.
-
-Rx only Rev.
-7/13
-
-Manufactured for Prestium Pharma, Inc. Newtown.
-PA 18940 by GlaxoSmithKline Mississauga, ON, CANADA A118910

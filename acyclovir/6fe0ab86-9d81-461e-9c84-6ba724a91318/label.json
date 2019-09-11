@@ -1,7 +1,6 @@
 {
   "application_numbers": [
     "NDA018828",
-    "NDA019909",
     "NDA020089"
   ],
   "inn": "acyclovir",
@@ -9,17 +8,11 @@
   "package_ndcs": [
     "40076-945-55",
     "40076-949-55",
-    "40076-953-96",
     "40076-991-55"
   ],
   "products": [
     {
       "form": "CAPSULE",
-      "generic": "acyclovir",
-      "name": "ZOVIRAX"
-    },
-    {
-      "form": "SUSPENSION",
       "generic": "acyclovir",
       "name": "ZOVIRAX"
     },
