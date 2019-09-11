@@ -59,7 +59,7 @@ If the count falls below 100,000/mm3 or if recurrent thrombosis develops, prompt
 
 When using a full dose heparin regimen, adjust the heparin dose based on frequent blood coagulation tests.
 If the coagulation test is unduly prolonged or if hemorrhage occurs, discontinue heparin promptly [see Overdosage (10)].
-Periodic platelet counts and hematocrits are recommended during the entire course of heparin therapy, regardless of the route of administration [see Dosage and Administration (2.2)].
+Periodic platelet counts and hematocrits are recommended during the entire course of heparin therapy, regardless of the route of administration [see Dosage and Administration (2.3)].
 
 ## 5.7 Heparin Resistance
 

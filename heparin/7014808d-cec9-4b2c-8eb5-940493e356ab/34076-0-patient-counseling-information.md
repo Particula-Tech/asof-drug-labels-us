@@ -17,6 +17,6 @@ Other Medications Because of the risk of hemorrhage, advise patients to inform t
 
 Manufactured by: Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
 
-Revised May 2019
+Revised August 2019
 
-462-274-14
+462-274-15

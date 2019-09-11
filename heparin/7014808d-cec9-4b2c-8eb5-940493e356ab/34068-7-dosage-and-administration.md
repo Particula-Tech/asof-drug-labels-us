@@ -28,8 +28,7 @@ The data also show acceptable connections are achieved to the center post ICU Me
 However, spontaneous disconnection of this glass syringe from needles and NLADs with leakage of drug product may occur.
 Assure that the needle or NLAD is securely attached before beginning the injection.
 Visually inspect the glass syringe-needle or glass syringe-NLAD connection before and during drug administration.
-Do not remove the clear plastic wrap around the external collar.
-(See Figure 1)
+Refer to Figure 1 for syringe diagram.
 
 Figure 1
 
@@ -53,7 +52,7 @@ Inspect the outer packaging (plastic tube) by verifying:
 Do not use if package has been damaged.
 
 2.
-Remove the plastic tube cap of the outer packaging that displays the product information to access the syringe.
+Remove the plastic tube cap of the outer packaging to access the syringe.
 
 3.
 Remove the syringe from the plastic tube.
@@ -81,14 +80,10 @@ Perform visual inspection on the syringe by verifying:
 
 - sterile field applicability
 
-- integrity of the plastic wrap around the external collar
-
 5.
-Do not remove plastic wrap around the external collar.
 Push plunger rod slightly to break the stopper loose while tip cap is still on.
 
 6.
-Do not remove plastic wrap around the external collar.
 Remove tip cap by twisting it off.
 (See Figure 2)
 
