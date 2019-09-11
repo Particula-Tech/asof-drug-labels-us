@@ -1,10 +1,15 @@
 # Patient Information
 
+Itraconazole Capsules
+
+(IT-ra-KON-a-zole)
+
 Read this Patient Information that comes with itraconazole capsules before you start taking it and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
-What is the most important information I should know about itraconazole capsules? itraconazole capsules can cause serious side effects, including:
+What is the most important information I should know about itraconazole capsules?
+Itraconazole capsules can cause serious side effects, including:
 
 1. Heart failure.
    Do not take itraconazole capsules if you have had heart failure, including congestive heart failure.
@@ -18,7 +23,17 @@ Stop taking itraconazole capsules and call your healthcare provider right away i
 
 1. Heart problems and other serious medical problems.
    Serious medical problems that affect the heart and other parts of your body can happen if you take itraconazole capsules with certain other medicines.
-   Do not take itraconazole capsules if you also take the following medicines: methadone methylergometrine(methylergonovine) ranolazine disopyramide irinotecan eplerenone dofetilide lurasidone cisapride dronedarone oral midazolam naloxegol quinidine pimozide lomitapide isavuconazole triazolam lovastatin ergot alkaloids (such as dihydroergotamine, ergometrine ergonovine) felodipine nisoldipine ivabradine simvastatinavanafilticagrelor ergotamime
+   Do not take itraconazole capsules if you also take the following medicines:
+
+| methadone | methylergometrine (methylergonovine) | ranolazine |
+| --- | --- | --- |
+| disopyramide | irinotecan | eplerenone |
+| dofetilide | lurasidone | cisapride |
+| dronedarone | oral midazolam | naloxegol |
+| quinidine | pimozide | lomitapide |
+| isavuconazole | triazolam | lovastatin |
+| ergot alkaloids (such as dihydroergotamine, ergometrine ergonovine) | felodipine nisoldipine | simvastatin avanafil |
+| ergotamine | ivabradine | ticagrelor |
 
 This is not a complete list of medicines that can interact with itraconazole capsules.
 Itraconazole capsules may affect the way other medicines work, and other medicines may affect how itraconazole capsules works.
@@ -36,7 +51,7 @@ Before you start any new medicine, ask your healthcare provider or pharmacist if
 - nausea or vomiting • light-colored stools (bowel movement)
 - dark or “tea-colored” urine
 
-For more information about side effects, see 'What are the possible side effects of itraconazole capsules?'
+For more information about side effects, see “What are the possible side effects of itraconazole capsules?”
 
 What is itraconazole capsules?
 
@@ -63,7 +78,7 @@ Before taking itraconazole capsules, tell your healthcare provider about all of 
 - have a weakened immune system (immunocompromised).
 - have lung problems including cystic fibrosis.
 - are breastfeeding or plan to breastfeed.
-  Itraconazole capsules can pass into your breast milk.
+  Itraconazole can pass into your breast milk.
   You and your healthcare provider should decide if you will take itraconazole capsules or breastfeed.
 
 Taking itraconazole capsules with certain medicines may affect each other.
@@ -77,7 +92,6 @@ How should I take itraconazole capsules?
   Your healthcare provider will decide the type of itraconazole capsules that is right for you.
 - Take itraconazole capsules with a full meal.
 - Swallow itraconazole capsules whole.
-
 - You should not take itraconazole capsules oral solution instead of itraconazole capsules, because they will not work the same way.
 - If you take too much itraconazole capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
 
@@ -130,7 +144,7 @@ Active ingredients: itraconazole
 
 Inactive ingredients: hard gelatin capsule, hypromellose, poloxamer 188, ethanol absolute, methylene chloride, polyethylene glycol 20000, talc, colloidal silicon dioxide, SLS,titanium dioxide, FD&C blue 1, FD&C red 40, FD & C red 3 and white ink (containing: shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, titanium dioxide and potassium hydroxide).
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
@@ -144,6 +158,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: May, 2018
-
-PT 2269-01
+Revised: June, 2019 PT 2269-01

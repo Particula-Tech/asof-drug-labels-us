@@ -40,9 +40,9 @@ Patients in these trials were on a continuous dosing regimen of 200 mg once dail
 
 The following adverse events led to temporary or permanent discontinuation of therapy.
 
-Table4: Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
+Table 4: Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
-| Adverse Event | Incidence (%) Itraconaole (N=112) |
+| Adverse Event | Incidence (%) Itraconazole (N=112) |
 | --- | --- |
 | Elevated Liver Enzymes (greater than twice the upper limit of normal) | 4 |
 | Gastrointestinal Disorders | 4 |
@@ -63,7 +63,7 @@ Patients in these trials were on a course regimen consisting of two 1-week treat
 
 The following adverse events led to temporary or permanent discontinuation of therapy.
 
-Table5: Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
+Table 5: Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
 | Adverse Event | Incidence (%) Itraconazole (N=37) |
 | --- | --- |
@@ -106,7 +106,7 @@ Table 6: Postmarketing Reports of Adverse Drug Reactions
 | Blood and lymphatic system disorders: | Leukopenia,neutropenia,thrombocytopenia |
 | --- | --- |
 | Immune system disorders: | Anaphylaxis,anaphylactic,anaphylactoid and allergic reactions;serum sickness;angioneurotic edema |
-| Nervous system disorders: | Peripheral neuropathy,paresthesia,hypoesthesia |
+| Nervous system disorders: | Peripheral neuropathy,paresthesia,hypoesthesia,tremor |
 | Eye disorders: | Visual disturbances,including vision blurred and diplopia |
 | Ear and labyrinth disorders: | Transient or permanent hearing loss |
 | Cardiac disorders: | Congestive heart failure |
