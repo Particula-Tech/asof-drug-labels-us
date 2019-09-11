@@ -2,7 +2,7 @@
 
 Sulfamethoxazole and Trimethoprim Oral Suspension USP, containing 200 mg sulfamethoxazole and 40 mg trimethoprim per teaspoonful (5 mL), is a cherry flavored suspension available in:
 
-NDC 0121-0856-16: 16 fl oz (473 mL) bottle
+NDC 0121-0854-16: 16 fl oz (473 mL) bottle
 
 Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 Protect from light.
