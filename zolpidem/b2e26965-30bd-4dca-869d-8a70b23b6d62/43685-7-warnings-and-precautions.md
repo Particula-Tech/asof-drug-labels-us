@@ -43,6 +43,7 @@ As with "sleep-driving", patients usually do not remember these events.
 Amnesia, anxiety, and other neuropsychiatric symptoms may also occur.
 
 It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder.
+Nonetheless, the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder.
 Nonetheless, the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.
 
 ## 5.5 Use in Patients with Depression

@@ -81,7 +81,7 @@ The child-resistant container should be thrown away when the 60 sprays have been
 There are no special requirements for cleaning and maintaining Zolpimist (zolpidem tartrate) Oral Spray.
 Professional assistance regarding questions about product performance or use can be obtained by calling 1-888-206-5525.
 
-See Medication Guide section "How should I store Zolpimist (zolpidem tartrate) Oral Spray?" for instructions about how to store Zolpimist (zolpidem tartrate) Oral Spray.
+See Medication Guide section " How should I store Zolpimist (zolpidem tartrate) Oral Spray?" for instructions about how to store Zolpimist (zolpidem tartrate) Oral Spray.
 
 Manufactured for: MAGNA Pharmaceuticals 10801 Electron Drive, Suite 100 Louisville KY 40299 by Rechon Life Science AB SE-216 10 Limhamn, Sweden
 

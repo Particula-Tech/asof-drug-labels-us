@@ -2,7 +2,7 @@
 
 NDC 58407-0510-30
 
-ZolpiMiST™ (zolpidem tartrate) ORAL SPRAY
+Zolpi MiST™ (zolpidem tartrate) ORAL SPRAY
 
 5 mg per spray
 

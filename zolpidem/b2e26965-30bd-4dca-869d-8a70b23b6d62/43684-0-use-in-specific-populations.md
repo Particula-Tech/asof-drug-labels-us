@@ -13,10 +13,10 @@ Zolpimist (zolpidem tartrate) Oral Spray should be used during pregnancy only if
 
 Administration of zolpidem to pregnant rats and rabbits resulted in adverse effects on offspring development at doses greater than the zolpidem tartrate maximum recommended human dose (MRHD) of 10 mg/day (approximately 8 mg/day zolpidem base); however, teratogenicity was not observed.
 
-When zolpidem was administered at oral doses of 4, 20, and 100 mg base/kg/day to pregnant rats during the period of organogenesis, dose-related decreases in fetal skull ossification occurred at all but the lowest dose, which is approximately 5 times the MRHD on a mg/m2 basis.
+When zolpidem was administered at oral doses of 4, 20, and 100 mg base/kg/day to pregnant rats during the period of organogenesis, dose-related decreases in fetal skull ossification occurred at all but the lowest dose, which is approximately 5 times the MRHD on a mg/m 2 basis.
 In rabbits treated during organogenesis with zolpidem at oral doses of 1, 4, and 16 mg base/kg/day, increased embryo- fetal death and incomplete fetal skeletal ossification occurred at the highest dose tested.
-The no-effect dose for embryo-fetal toxicity in rabbits is approximately 10 times the MRHD on a mg/m2 basis.
-Administration of zolpidem to rats at oral doses of 4, 20, and 100 mg base/kg/day during the latter part of pregnancy and throughout lactation produced decreased offspring growth and survival at all but the lowest dose, which is approximately 5 times the MRHD on a mg/m2 basis.
+The no-effect dose for embryo-fetal toxicity in rabbits is approximately 10 times the MRHD on a mg/m 2 basis.
+Administration of zolpidem to rats at oral doses of 4, 20, and 100 mg base/kg/day during the latter part of pregnancy and throughout lactation produced decreased offspring growth and survival at all but the lowest dose, which is approximately 5 times the MRHD on a mg/m 2 basis.
 
 ## 8.2 Labor and Delivery
 
@@ -57,7 +57,7 @@ The dose of Zolpimist (zolpidem tartrate) Oral Spray in elderly patients is 5 mg
 ## 8.6 Gender Difference in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
-Maximum concentration (Cmax) and area under the concentration curve (AUC) parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
+Maximum concentration (C max) and area under the concentration curve (AUC) parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
 Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended initial dose of Zolpimist (zolpidem tartrate) Oral Spray for adult women is 5 mg, and the recommended dose for adult men is 5 or 10 mg.
 
 In geriatric patients, clearance of zolpidem is similar in men and women.

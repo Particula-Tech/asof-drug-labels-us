@@ -73,7 +73,7 @@ Keep a list of your medicines with you to show your healthcare provider and phar
 
 How should I take Zolpimist (zolpidem tartrate) Oral Spray?
 
-- See "What is the most important information I should know about Zolpimist (zolpidem tartrate) Oral Spray?"
+- See " What is the most important information I should know about Zolpimist (zolpidem tartrate) Oral Spray?"
 - Take Zolpimist (zolpidem tartrate) Oral Spray exactly as prescribed.
   Only take 1 Zolpimist (zolpidem tartrate) Oral Spray dose a night if needed.
 - Do not take Zolpimist (zolpidem tartrate) Oral Spray if you drank alcohol that evening or before bed.
@@ -87,7 +87,7 @@ What are the possible side effects of Zolpimist (zolpidem tartrate) Oral Spray?
 Zolpimist (zolpidem tartrate) Oral Spray may cause serious side effects, including:
 
 - getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
-  See "What is the most important information I should know about Zolpimist (zolpidem tartrate) Oral Spray?"
+  See " What is the most important information I should know about Zolpimist (zolpidem tartrate) Oral Spray?"
 - abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
 - memory loss
