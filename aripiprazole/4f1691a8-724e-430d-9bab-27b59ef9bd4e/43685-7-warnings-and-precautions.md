@@ -100,110 +100,117 @@ However, some patients may require treatment with aripiprazole despite the prese
 
 Atypical antipsychotic drugs have been associated with metabolic changes that include hyperglycemia/diabetes mellitus, dyslipidemia, and body weight gain.
 While all drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
-Hyperglycemia/Diabetes Mellitus Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics.
-There have been reports of hyperglycemia in patients treated with aripiprazole [see ADVERSE REACTIONS (6.1, 6.2)].
+
+Hyperglycemia/Diabetes Mellitus
+
+Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics.
+There have been reports of hyperglycemia in patients treated with aripiprazole [see Adverse Reactions (6.1, 6.2)].
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
 Because aripiprazole was not marketed at the time these studies were performed, it is not known if aripiprazole is associated with this increased risk.
 Precise risk estimates for hyperglycemia-related adverse events in patients treated with atypical antipsychotics are not available.
+
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
-Adults In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or another indication, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
-Table 3 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
 
-| Table 4: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Adults In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or another indication, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
+Table 6 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
+Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients
+
 | Fasting Glucose | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
-| Normal to High (<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/822 | 3.8 |  |
-| Placebo | 22/605 | 3.6 |  |  |
-| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/176 | 17.6 |  |
-| Placebo | 13/142 | 9.2 |  |  |
+| --- | --- | --- | --- | --- |
+|  | Normal to High (<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/822 | 3.8 |
+|  |  | Placebo | 22/605 | 3.6 |
+|  | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/176 | 17.6 |
+|  |  | Placebo | 13/142 | 9.2 |
 
 At 24 weeks, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.2 mg/dL (n=42) and +9.6 mg/dL (n=28), respectively].
-Pediatric Patients and Adolescents In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication(10 to 17 years), the mean change in fasting glucose in aripiprazole-treated patients (+4.8 mg/dL; with a median exposure of 43 days; N=259) was not significantly different than in placebo-treated patients (+1.7 mg/dL; with a median exposure of 42 days; N=123).
-
-Table 5 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and another indication(median exposure of 42 to 43 days).
+Pediatric Patients and Adolescents In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication (10 to 17 years), the mean change in fasting glucose in aripiprazole-treated patients (+4.8 mg/dL; with a median exposure of 43 days; N=259) was not significantly different than in placebo-treated patients (+1.7 mg/dL; with a median exposure of 42 days; N=123).
+Table 8 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and another indication (median exposure of 42 to 43 days).
+Table 8: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
 
 | Category Change (at least once) from Baseline | Indication | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
-| Table 5: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients |  |  |  |  |
-| Fasting Glucose Normal to High (<100 mg/dL to ≥126 mg/dL) | Pooled Schizophrenia and Another Indication | Aripiprazole | 2/236 | 0.8 |
-| Placebo | 2/110 | 1.8 |  |  |
-| Fasting Glucose Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Pooled Schizophrenia and Another Indication | Aripiprazole | 1/22 | 4.5 |
-| Placebo | 0/12 | 0 |  |  |
+| Fasting Glucose | Pooled Schizophrenia and Another Indication | Aripiprazole | 2/236 | 0.8 |
+| Normal to High (<100 mg/dL to ≥126 mg/dL) |  | Placebo | 2/110 | 1.8 |
+| Fasting Glucose | Pooled Schizophrenia and Another Indication | Aripiprazole | 1/22 | 4.5 |
+| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) |  | Placebo | 0/12 | 0 |
 
-At 12 weeks in the pooled adolescent schizophrenia and other indication trials, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.4 mg/dL (n=81) and +0.1 mg/dL (n=15), respectively].
+At 12 weeks in the pooled adolescent schizophrenia and other indication trials, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.4 mg/dL (n=81) and +0.1 mg/dL (n=15), respectively.
+
 Dyslipidemia
 
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
+
 There were no significant differences between aripiprazole- and placebo-treated patients in the proportion with changes from normal to clinically significant levels for fasting/nonfasting total cholesterol, fasting triglycerides, fasting LDLs, and fasting/nonfasting HDLs.
 Analyses of patients with at least 12 or 24 weeks of exposure were limited by small numbers of patients.
-Adults Table 6 shows the proportion of adult patients, primarily from pooled schizophrenia and another indication monotherapy placebo-controlled trials, with changes in total cholesterol (pooled from 17 trials; median exposure 21 to 25 days), fasting triglycerides (pooled from eight trials; median exposure 42 days), fasting LDL cholesterol (pooled from eight trials; median exposure 39 to 45 days, except for placebo-treated patients with baseline normal fasting LDL measurements, who had median treatment exposure of 24 days) and HDL cholesterol (pooled from nine trials; median exposure 40 to 42 days).
+Adults
 
-| Table 6: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Adults |  |  |  |
-| --- | --- | --- | --- |
+Table 9 shows the proportion of adult patients, primarily from pooled schizophrenia and another indication monotherapy placebo-controlled trials, with changes in total cholesterol (pooled from 17 trials; median exposure 21 to 25 days), fasting triglycerides (pooled from eight trials; median exposure 42 days), fasting LDL cholesterol (pooled from eight trials; median exposure 39 to 45 days, except for placebo-treated patients with baseline normal fasting LDL measurements, who had median treatment exposure of 24 days) and HDL cholesterol (pooled from nine trials; median exposure 40 to 42 days).
+Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Adults
+
 |  | Treatment Arm | n/N | % |
-| Total Cholesterol Normal to High (<200 mg/dL to ≥240 mg/dL) | Aripiprazole | 34/1357 | 2.5 |
-| Placebo | 27/973 | 2.8 |  |
-| Fasting Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 40/539 | 7.4 |
-| Placebo | 30/431 | 7 |  |
-| Fasting LDL Cholesterol Normal to High (<100 mg/dL to ≥160 mg/dL) | Aripiprazole | 2/332 | 0.6 |
-| Placebo | 2/268 | 0.7 |  |
-| HDL Cholesterol Normal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 121/1066 | 11.4 |
-| Placebo | 99/794 | 12.5 |  |
+| --- | --- | --- | --- |
+| Total Cholesterol | Aripiprazole | 34/1357 | 2.5 |
+| Normal to High(<200 mg/dL to ≥240 mg/dL) | Placebo | 27/973 | 2.8 |
+| Fasting Triglycerides | Aripiprazole | 40/539 | 7.4 |
+| Normal to High (<150 mg/dL to ≥200 mg/dL) | Placebo | 30/431 | 7 |
+| Fasting LDL Cholesterol | Aripiprazole | 2/332 | 0.6 |
+| Normal to High (<100 mg/dL to ≥160 mg/dL) | Placebo | 2/268 | 0.7 |
+| HDL Cholesterol | Aripiprazole | 121/1066 | 11.4 |
+| Normal to Low (≥40 mg/dL to <40 mg/dL) | Placebo | 99/794 | 12.5 |
 
 In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
-Pediatric Patients and Adolescents Table 7 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication(10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days), and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
+Pediatric Patients and Adolescents Table 11 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days), and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
+Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients Schizophrenia and Another Indication
 
-| Table 7: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent PatientsSchizophrenia and Another Indication |  |  |  |
-| --- | --- | --- | --- |
 |  | Treatment Arm | n/N | % |
-| Total Cholesterol Normal to High (<170 mg/dL to ≥200 mg/dL) | Aripiprazole | 3/220 | 1.4 |
-| Placebo | 0/116 | 0 |  |
-| Fasting Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 7/187 | 3.7 |
-| Placebo | 4/85 | 4.7 |  |
-| HDL Cholesterol Normal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 27/236 | 11.4 |
-| Placebo | 22/109 | 20.2 |  |
+| --- | --- | --- | --- |
+| Total Cholesterol | Aripiprazole | 3/220 | 1.4 |
+| Normal to High (<170 mg/dL to ≥200 mg/dL) | Placebo | 0/116 | 0 |
+| Fasting Triglycerides | Aripiprazole | 7/187 | 3.7 |
+| Normal to High (<150 mg/dL to ≥200 mg/dL) | Placebo | 4/85 | 4.7 |
+| HDL Cholesterol | Aripiprazole | 27/236 | 11.4 |
+| Normal to Low (≥40 mg/dL to <40 mg/dL) | Placebo | 22/109 | 20.2 |
 
 In monotherapy trials of adolescents with schizophrenia and pediatric patients with another indication, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 0/57 (0%) vs. 0/15 (0%); Fasting Triglycerides, 2/72 (2.8%) vs. 1/14 (7.1%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 0/36 (0%) vs. 0/12 (0%); Fasting Triglycerides, 1/47 (2.1%) vs. 1/10 (10%), respectively.
 Weight Gain Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
+
 Adults In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and another indication, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
 At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was –1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
 
-Table 8 shows the percentage of adult patients with weight gain ≥7% of body weight by indication.
+Table 14 shows the percentage of adult patients with weight gain ≥7% of body weight by indication.
+Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patients with Weight Gain ≥7% of Body Weight
 
-| Table 8: Percentage of Patients From Placebo-Controlled Trials in Adult Patients with Weight Gain ≥7% of Body Weight |  |  |  |  |
-| --- | --- | --- | --- | --- |
 |  | Indication | Treatment Arm | N | Patients n (%) |
-| Weight gain ≥7% of body weight | Schizophreniaa | Aripiprazole | 852 | 69 (8.1) |
-| Placebo | 379 | 12 (3.2) |  |  |
-| Other indicationb | Aripiprazole | 719 | 16(2.2) |  |
-| Placebo | 598 | 16 (2.7) |  |  |
+| --- | --- | --- | --- | --- |
+|  | Schizophreniaa | Aripiprazole | 852 | 69 (8.1) |
+| Weight gain ≥7% of body weight |  | Placebo | 379 | 12 (3.2) |
+|  | Other Indicationb | Aripiprazole | 719 | 16 (2.2) |
+|  |  | Placebo | 598 | 16 (2.7) |
 | a 4 to 6 weeks duration. b 3 weeks duration. |  |  |  |  |
 
-Pediatric Patients and Adolescents In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication(10 to 17 years) with median exposure of 42 to 43 days, the mean change in body weight in aripiprazole-treated patients was +1.6 kg (N=381) compared to +0.3 kg (N=187) in placebo-treated patients.
+Pediatric Patients and Adolescents In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication (10 to 17 years) with median exposure of 42 to 43 days, the mean change in body weight in aripiprazole-treated patients was +1.6 kg (N=381) compared to +0.3 kg (N=187) in placebo-treated patients.
 At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was +5.8 kg (n=62) compared to +1.4 kg (n=13) in placebo-treated patients.
+Table 15 shows the percentage of pediatric and adolescent patients with weight gain ≥7% of body weight by indication.
+Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain ≥7% of Body Weight
 
-Table 9 shows the percentage of pediatric and adolescent patients with weight gain ≥7% of body weight by indication.
-
-| Table 9: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain ≥7% of Body Weight |  |  |  |  |
-| --- | --- | --- | --- | --- |
 |  | Indication | Treatment Arm | N | Patients n (%) |
+| --- | --- | --- | --- | --- |
 | Weight gain ≥7% of body weight | Pooled Schizophrenia and Another Indicationa | Aripiprazole | 381 | 20 (5.2) |
-| Placebo | 187 | 3 (1.6) |  |  |
+|  |  | Placebo | 187 | 3 (1.6) |
 | a 4 to 6 weeks duration. |  |  |  |  |
 
-In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication(10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
+In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
 After 26 weeks, 32.8% of patients gained ≥7% of their body weight, not adjusted for normal growth.
 To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of pediatric patients and adolescents by comparisons to age- and gender-matched population standards.
 A z-score change <0.5 SD is considered not clinically significant.
 After 26 weeks, the mean change in z-score was 0.09 SD.
-
 When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.
 Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -220,14 +227,15 @@ In clinical trial and/or postmarketing experience, events of leukopenia/neutrope
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC)absolute neutrophil count (ANC) and history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC/ANC or drug-induced leukopenia/neutropenia, perform a complete blood count (CBC) monitored frequently during the first few months of therapy.In such patients, consider discontinuation of aripiprazole at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with a history of a clinically significant low WBC/ANC or drug-induced leukopenia/neutropenia, perform a complete blood count (CBC) monitored frequently during the first few months of therapy.
+In such patients, consider discontinuation of aripiprazole at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
 Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
 
 ## 5.9 Seizures/Convulsions
 
-In short-term, placebo-controlled trials, patients with a history of seizures excludedseizures/convulsions occurred in 0.1% (3/2467) of undiagnosedadult patients treated with oral aripiprazole, in 0.1% (1/732) of pediatric patients (6 to 18 years).
+In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2467) of undiagnosed adult patients treated with oral aripiprazole, in 0.1% (1/732) of pediatric patients (6 to 18 years).
 
 As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.

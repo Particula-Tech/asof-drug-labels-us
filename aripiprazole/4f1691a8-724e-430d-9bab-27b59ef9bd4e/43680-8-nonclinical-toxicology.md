@@ -26,11 +26,11 @@ A positive response was obtained in the in vivo micronucleus assay in mice; howe
 
 Impairment of Fertility
 
-Female rats were treated with oral doses of 2, 6, and 20 mg/kg/day (0.6, 2, and 6 times the maximum recommended human dose [MRHD] on a mg/m2basis) of aripiprazole from 2 weeks prior to mating through day 7 of gestation.
+Female rats were treated with oral doses of 2, 6, and 20 mg/kg/day (0.6, 2, and 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) of aripiprazole from 2 weeks prior to mating through day 7 of gestation.
 Estrus cycle irregularities and increased corpora lutea were seen at all doses, but no impairment of fertility was seen.
 Increased pre-implantation loss was seen at 6 and 20 mg/kg/day and decreased fetal weight was seen at 20 mg/kg/day.
 
-Male rats were treated with oral doses of 20, 40, and 60 mg/kg/day (6, 13, and 19 times the MRHD on a mg/m2basis) of aripiprazole from 9 weeks prior to mating through mating.
+Male rats were treated with oral doses of 20, 40, and 60 mg/kg/day (6, 13, and 19 times the MRHD on a mg/m2 basis) of aripiprazole from 9 weeks prior to mating through mating.
 Disturbances in spermatogenesis were seen at 60 mg/kg and prostate atrophy was seen at 40 and 60 mg/kg, but no impairment of fertility was seen.
 
 ## 13.2 Animal Toxicology and/or Pharmacology

@@ -84,7 +84,7 @@ The most common side effects of aripiprazole in children include:
 | headache | nausea |
 | vomiting | stuffy nose |
 | fatigue | weight gain |
-| . increased or decreasedappetite | uncontrolled movement such as restlessness, tremor, muscle stiffness |
+| . increased or decreased appetite | uncontrolled movement such as restlessness, tremor, muscle stiffness |
 | increased saliva or drooling |  |
 
 These are not all the possible side effects of aripiprazole.

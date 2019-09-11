@@ -198,7 +198,7 @@ infrequent - gastroesophageal reflux disease
 
 General Disorders and Administration Site Conditions:
 
-frequent - asthenia;infrequent –peripheral edema, chest pain; rare – face edema
+frequent - asthenia; infrequent –peripheral edema, chest pain; rare – face edema
 
 Hepatobiliary Disorders:
 
