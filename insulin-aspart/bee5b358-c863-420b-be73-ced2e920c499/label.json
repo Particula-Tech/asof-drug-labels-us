@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020986"
+  ],
+  "inn": "insulin-aspart",
+  "labeler": "Novo Nordisk Pharma, Inc.",
+  "package_ndcs": [
+    "73070-100-11",
+    "73070-102-15",
+    "73070-103-15"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin aspart",
+      "name": "Insulin Aspart"
+    }
+  ],
+  "setid": "bee5b358-c863-420b-be73-ced2e920c499",
+  "source": "dailymed"
+}
