@@ -14,75 +14,50 @@ Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Tablet Dose Pack
 
-1st DAY BEFORE BREAKFAST
+START HERE
 
-1st DAY BEFORE BREAKFAST
+DAY 1 Before Breakfast Before Breakfast After Lunch After Dinner At Bedtime At Bedtime
 
-1st DAY AFTER LUNCH
+DAY 2 Before Breakfast After Lunch After Dinner At Bedtime At Bedtime
 
-Unless otherwise directed by your physician, all six (6) tablets in the row labeled 1st day should be taken the day you receive your prescription, even though you may not receive it until late in the day.
+DAY 3 Before Breakfast After Lunch After Dinner At Bedtime
+
+DAY 4 Before Breakfast After Lunch At Bedtime
+
+DAY 5 Before Breakfast At Bedtime
+
+DAY 6 Before Breakfast
+
+NDC 0009-0056-04
+
+Medrol® Dosepak™ (methylprednisolone) tablets, USP 4 mg
+
+Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc, NY, NY 10017
+
+Unless otherwise directed by your physician, all six (6) tablets in the row labeled DAY 1 should be taken the day you receive your prescription, even though you may not receive it until late in the day.
+
 All six (6) tablets may be taken immediately as a single dose, or may be divided into two or three doses and taken at intervals between the time you receive the medicine and your regular bedtime.
 
-1st DAY AFTER DINNER
-
-1st DAY AT BED TIME
-
-1st DAY AT BED TIME
-
-2nd DAY BEFORE BREAKFAST
-
-2nd DAY AFTER LUNCH
-
-2nd DAY AFTER DINNER
-
-NDC 0009-0056-04 Medrol® Dosepak™ 4 mg methylprednisolone Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc, NY, NY 10017
-
-2nd DAY AT BED TIME
-
-2nd DAY AT BED TIME
-
-3rd DAY BEFORE BREAKFAST
-
 Rx only
-
-3rd DAY AFTER LUNCH
-
-3rd DAY AFTER DINNER
-
-3rd DAY AT BED TIME
-
-4th DAY BEFORE BREAKFAST
-
-4th DAY AFTER LUNCH
-
-4th DAY AT BED TIME
-
-Medrol® Dosepak™ 4 mg methylprednisolone
-
-5th DAY BEFORE BREAKFAST
 
 Package Not Child-Resistant.
 Keep Out of Reach of Children.
 
-5th DAY AT BED TIME
-
 LOT: XXXXXXX EXP: YYYY MMM
-
-6th DAY BEFORE BREAKFAST
-
-Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Tablet Dose Pack Carton
 
 NDC 0009-0056-04
 
-Pfizer Medrol® Dosepak™ 4 mg tablets, USP
+Pfizer
 
-methylprednisolone
+Medrol® Dosepak™ 4 mg (methylprednisolone) tablets, USP
 
 Unit of Use
 
-21 Tablets Rx only
+One blister containing 21 tablets
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 8 mg Tablet Bottle Label
 
