@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019081"
+  ],
   "inn": "estradiol",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "0083-2320-08",
     "0083-2320-62"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "estradiol",
+      "name": "Estraderm"
+    }
+  ],
   "setid": "83b78f99-df2e-46c5-b308-03bac56a8c8f",
   "source": "dailymed"
 }

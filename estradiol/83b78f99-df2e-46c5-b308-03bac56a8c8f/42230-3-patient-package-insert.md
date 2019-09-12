@@ -1,4 +1,4 @@
-## Patient Information
+# Patient Information
 
 Estraderm®
 
