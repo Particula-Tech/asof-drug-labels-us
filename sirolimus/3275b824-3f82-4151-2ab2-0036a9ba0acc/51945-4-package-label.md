@@ -1,8 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - 1 mg/mL Oral Solution Bottle Label
+# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1030-04
+Pfizer
+
+NDC 0008-1030-04
 
 Rapamune® (sirolimus) Oral Solution
 
@@ -11,18 +13,17 @@ Rapamune® (sirolimus) Oral Solution
 For oral use only.
 
 Each mL of RAPAMUNE contains 1 mg sirolimus.
-
-1.5%-2.5% ethanol
-
-Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
+1.5%-2.5% ethanol Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
 
 60 mL Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 mg/mL Oral Solution Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1030-04
+Pfizer
+
+NDC 0008-1030-04
 
 Rapamune® (sirolimus) Oral Solution
 
@@ -78,7 +79,9 @@ You will also need:
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1040-05
+Pfizer
+
+NDC 0008-1040-05
 
 Rapamune® (sirolimus) Tablets
 
@@ -102,11 +105,13 @@ Wyeth Sub of Pfizer Inc Phila, PA 19101
 
 EXP AND LOT AREA
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Card Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1040-10
+Pfizer
+
+NDC 0008-1040-10
 
 Rapamune® (sirolimus) Tablets
 
@@ -122,7 +127,9 @@ Rx only
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1041-05
+Pfizer
+
+NDC 0008-1041-05
 
 Rapamune® (sirolimus) Tablets
 
@@ -146,11 +153,13 @@ Wyeth Sub of Pfizer Inc Phila, PA 19101
 
 EXP AND LOT AREA
 
-# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Card Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1041-10
+Pfizer
+
+NDC 0008-1041-10
 
 Rapamune® (sirolimus) Tablets
 
@@ -166,7 +175,9 @@ Rx only
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer NDC 0008-1042-05
+Pfizer
+
+NDC 0008-1042-05
 
 Rapamune® (sirolimus) Tablets
 
