@@ -1,19 +1,34 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# HOW SUPPLIED:
 
-Cefazolin for Injection, USP
+Cefazolin for Injection, USP supplied as follows:
 
-| Product No. | NDC No. | Cefazolin for Injection, USP |
-| --- | --- | --- |
-| 238B1 | 63323-238-61 | 10 grams |
-| 449B1 | 63323-449-61 | 20 grams |
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| 238B1 | NDC 63323-238-61 Unit of 10 | 10 grams per Pharmacy Bulk Package | NDC 63323-238-01 |
+| 449B1 | NDC 63323-449-61 Unit of 10 | 20 grams per Pharmacy Bulk Package | NDC 63323-449-01 |
 
-Cefazolin for Injection, USP, is supplied in 10 and 20 grams Pharmacy Bulk Packages.
-Each Pharmacy Bulk Package contains cefazolin sodium equivalent to 10 or 20 grams of cefazolin and is packaged 10 per tray.
+Cefazolin for Injection, USP, is supplied in 10 and 20 grams Pharmacy Bulk Package.
+Each Pharmacy Bulk Package contains cefazolin sodium equivalent to 10 or 20 grams of cefazolin and is packaged 10 per carton.
 
 Preservative Free.
 
-As with other cephalosporins, Cefazolin for Injection, USP tends to darken depending on storage conditions; within the stated recommendations, however, product potency is not adversely affected.
+As with other cephalosporins, cefazolin tends to darken depending on storage conditions, within the stated recommendations.
+However, product potency is not adversely affected.
 
-Before reconstitution protect from light and store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Before reconstitution protect from light and store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 The container closure is not made with natural rubber latex.
+
+CLINITEST is a registered trademark of Miles, Inc.
+
+CLINISTIX is a registered trademark of Bayer Corporation.
+
+Manufactured for:
+
+Lake Zurich, IL 60047
+
+Made in Italy
+
+www.fresenius-kabi.com/us
+
+451182F Revised: January 2019
