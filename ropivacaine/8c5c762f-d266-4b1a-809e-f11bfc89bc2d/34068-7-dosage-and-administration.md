@@ -17,10 +17,6 @@ Allow adequate time for onset of anesthesia following administration of each tes
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Solutions which are discolored or which contain particulate matter should not be administered.
 
-Caution: After removing the overwrap check for minute leaks by squeezing the inner bag firmly.
-If leaks are found, discard container as sterility may be compromised.
-Use only if solution is clear and the container is undamaged.
-
 Table 7 Dosage Recommendations
 
 |  | Conc. |  | Volume mL | Dose mg | Onset min | Duration hours |
