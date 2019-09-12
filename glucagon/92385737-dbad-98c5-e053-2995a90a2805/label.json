@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA212097"
+  ],
+  "inn": "glucagon",
+  "labeler": "Xeris Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "72065-120-11",
+    "72065-120-12",
+    "72065-121-11",
+    "72065-121-12",
+    "72065-130-11",
+    "72065-130-12",
+    "72065-131-11",
+    "72065-131-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "glucagon injection, solution",
+      "name": "Gvoke HypoPen"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "glucagon injection, solution",
+      "name": "Gvoke PFS"
+    }
+  ],
+  "setid": "92385737-dbad-98c5-e053-2995a90a2805",
+  "source": "dailymed"
+}
