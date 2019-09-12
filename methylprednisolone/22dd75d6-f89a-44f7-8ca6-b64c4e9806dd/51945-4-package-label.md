@@ -12,63 +12,37 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Dose Pack
 
-1st DAY BEFORE BREAKFAST
+START HERE
 
-1st DAY BEFORE BREAKFAST
+DAY 1 Before Breakfast Before Breakfast After Lunch After Dinner At Bedtime At Bedtime
 
-1st DAY AFTER LUNCH
+DAY 2 Before Breakfast After Lunch After Dinner At Bedtime At Bedtime
 
-Unless otherwise directed by your physician, all six (6) tablets in the row labeled 1st day should be taken the day you receive your prescription, even though you may not receive it until late in the day.
-All six (6) tablets may be taken immediately as a single dose, or may be divided into two or three doses and taken at intervals between the time you receive the medicine and your regular bedtime.
+DAY 3 Before Breakfast After Lunch After Dinner At Bedtime
 
-1st DAY AFTER DINNER
+DAY 4 Before Breakfast After Lunch At Bedtime
 
-1st DAY AT BED TIME
+DAY 5 Before Breakfast At Bedtime
 
-1st DAY AT BED TIME
+DAY 6 Before Breakfast
 
-2nd DAY BEFORE BREAKFAST
+Distributed by: Greenstone LLC Peapack, NJ 07977
 
-2nd DAY AFTER LUNCH
+NDC 59762-4440-2
 
-2nd DAY AFTER DINNER
-
-NDC 59762-4440-2 GREENSTONE® BRAND methylprednisolone tablets, USP Dosepak™ 4 mg
-
-2nd DAY AT BED TIME
-
-2nd DAY AT BED TIME
-
-3rd DAY BEFORE BREAKFAST
-
-Rx only
-
-3rd DAY AFTER LUNCH
-
-3rd DAY AFTER DINNER
-
-3rd DAY AT BED TIME
-
-4th DAY BEFORE BREAKFAST
-
-4th DAY AFTER LUNCH
-
-4th DAY AT BED TIME
+GREENSTONE® BRAND
 
 methylprednisolone tablets, USP Dosepak™ 4 mg
 
-5th DAY BEFORE BREAKFAST
+Unless otherwise directed by your physician, all six (6) tablets in the row labeled DAY 1 should be taken the day you receive your prescription, even though you may not receive it until late in the day.
+All six (6) tablets may be taken immediately as a single dose, or may be divided into two or three doses and taken at intervals between the time you receive the medicine and your regular bedtime.
+
+Rx only
 
 Package Not Child-Resistant.
 Keep Out of Reach of Children.
 
-5th DAY AT BED TIME
-
 LOT: XXXXXXX EXP: YYYY MMM
-
-6th DAY BEFORE BREAKFAST
-
-Distributed by: Greenstone LLC Peapack, NJ 07977
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Dose Pack Carton
 
@@ -76,7 +50,7 @@ NDC 59762-4440-2 1 Blister containing 21 Tablets
 
 GREENSTONE® BRAND
 
-methylprednisolone tablets, USP Dosepak ™
+methylprednisolone tablets, USP Dosepak™
 
 4 mg
 
