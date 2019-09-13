@@ -76,7 +76,7 @@ The mechanism for this interaction probably is adsorption of nitrofurantoin onto
 Uricosuric drugs, such as probenecid and sulfinpyrazone, can inhibit renal tubular secretion of nitrofurantoin.
 The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial.
 
-## DRUG & OR LABORATORY TEST INTERACTIONS
+## Drug/Laboratory Test Interactions
 
 As a result of the presence of nitrofurantoin, a false-positive reaction for glucose in the urine may occur.
 This has been observed with Benedict's and Fehling's solutions but not with the glucose enzymatic test.

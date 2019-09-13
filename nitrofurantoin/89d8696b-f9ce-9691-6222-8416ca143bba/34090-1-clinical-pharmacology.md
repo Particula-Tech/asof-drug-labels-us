@@ -32,7 +32,7 @@ The clinical significance of this finding is unknown.
 Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953.
 Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon.
 
-Nitrofurantoin has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections (see Indications and Usage):
+Nitrofurantoin has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections (see INDICATIONS AND USAGE):
 
 ## Aerobic and facultative Gram-positive microorganisms:
 
@@ -45,7 +45,7 @@ Enterococcus faecalis)
 
 Escherichia coli
 
-NOTE: While nitrofurantoin has excellent activity against Enterococcus faecalis, the majority of Enterococcus faecium isolates are not susceptible to nitorfurantoin.
+NOTE: While nitrofurantoin has excellent activity against Enterococcus faecalis, the majority of Enterococcus faecium isolates are not susceptible to nitrofurantoin.
 
 At least 90 percent of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for nitrofurantoin.
 However, the efficacy of nitrofurantoin in treating clinical infections due to these
