@@ -45,7 +45,7 @@ In a study of five subjects receiving a 600 mg dose of 14C-ritonavir oral soluti
 In that study, 86.4 ± 2.9% of the dose was excreted in the feces with 33.8 ± 10.8% of the dose excreted as unchanged parent drug.
 Upon multiple dosing, ritonavir accumulation is less than predicted from a single dose possibly due to a time and dose-related increase in clearance.
 
-Table 5.
+Table 4.
 Ritonavir Pharmacokinetic Characteristics
 
 | Parameter | N | Values (Mean ± SD) |
@@ -100,10 +100,10 @@ Drug Interactions
 
 [see also Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7)]
 
-Table 6 and Table 7 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
-For information about clinical recommendations see Table 4 in Drug Interactions (7).
+Table 5 and Table 6 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
+For information about clinical recommendations see Table 3 in Drug Interactions (7).
 
-Table 6.
+Table 5.
 Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co-administered Drug
 
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
@@ -118,7 +118,7 @@ Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of 
 | Zidovudine | 200 q8h, 4 d | 300 q6h, 4 d | 10 | ↔ | ↔ | ↔ |
 | ND=not determined |  |  |  |  |  |  |
 
-Table 7.
+Table 6.
 Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the Presence of Ritonavir
 
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |

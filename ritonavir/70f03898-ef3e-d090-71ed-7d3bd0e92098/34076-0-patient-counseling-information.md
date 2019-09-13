@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
 
-General Information Dosing and Preparation Information
+General Administration Information [see Dosage and Administration (2)]:
 
 - Advise patients and caregivers to pay special attention to accurate preparation and administration of their dose to minimize the risk of accidental overdose or underdose of ritonavir.
 - Advise caregivers to inform their healthcare provider if their children’s weight changes in order to make sure that the child’s ritonavir dose is adjusted as needed.
@@ -79,5 +79,5 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-© 2018 AbbVie Inc. All rights reserved.
-03-B827
+© 2019 AbbVie Inc. All rights reserved.
+03-B999
