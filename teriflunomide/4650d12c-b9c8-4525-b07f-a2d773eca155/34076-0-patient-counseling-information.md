@@ -12,8 +12,8 @@ Advise patients that they should contact their physician if they have any unexpl
 Embryofetal Toxicity
 
 - Advise females of reproductive potential
-  - of the potential for fetal harm if AUBAGIO is taken during pregnancy.
-  - to notify their healthcare provider immediately if a pregnancy occurs or is suspected.
+  - of the potential for fetal harm if AUBAGIO is taken during pregnancy
+  - to notify their healthcare provider immediately if a pregnancy occurs or is suspected
   - to use effective contraception during treatment with AUBAGIO and until the teriflunomide plasma concentration is verified to be less than 0.02 mg/L [see Warnings and Precautions (5.2, 5.3), Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.3)].
 - Instruct men taking AUBAGIO and not wishing to father a child to use effective contraception to minimize any possible risk to the fetus; their female partners should also use effective contraception.
 - Advise men wishing to father a child to discontinue use of AUBAGIO and undergo an accelerated elimination procedure.

@@ -43,9 +43,7 @@ Talk to your doctor if you want more information about this.
 
 What is AUBAGIO?
 
-AUBAGIO is a prescription medicine used to treat relapsing forms of multiple sclerosis (MS).
-AUBAGIO can decrease the number of MS flare-ups (relapses).
-AUBAGIO does not cure MS, but it can help slow down the physical problems that MS causes.
+AUBAGIO is a prescription medicine used to treat relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.
 
 It is not known if AUBAGIO is safe and effective in children.
 
