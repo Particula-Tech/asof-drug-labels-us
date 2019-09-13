@@ -1,21 +1,19 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 61314-628-10 Rx Only
+NDC 61314-628-10
 
-FALCON PHARMACEUTICALS®
+Polymyxin B
 
-Polymyxin B Sulfate
+Sulfateand
 
-and Trimethoprim
+Trimethoprim
 
 Ophthalmic
 
 Solution, USP
 
-10 mL STERILE
+Rx Only
 
-AFFILIATE OF
+STERILE 10mL
 
-ALCON LABORATORIES, INC.
-
-QUALITY RX
+SANDOZ

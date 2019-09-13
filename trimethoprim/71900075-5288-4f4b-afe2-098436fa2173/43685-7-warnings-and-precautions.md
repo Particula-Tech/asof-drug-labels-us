@@ -22,8 +22,8 @@ Patients should be advised not to wear contact lenses if they have signs and sym
 
 Carcinogenesis: Long-term studies in animals to evaluate carcinogenic potential have not been conducted with polymyxin B sulfate or trimethoprim.
 
-Mutagenesis: Trimethoprim was demonstrated to be nonmutagenic in the Ames assay.
-In studies at two laboratories no chromosomal damage was detected in cultured Chinese hamster ovary cells at concentrations approximately 500 times human plasma levels after oral administration; at concentrations approximately 1000 times human plasma levels after oral administration in these same cells, a low level of chromosomal damage was induced at one of the laboratories.
+Mutagenesis: Trimethoprim was demonstrated to be non-mutagenic in the Ames assay.
+In studies at two laboratories no chromosomal damage was detected in cultured Chinese hamster ovary cells at concentrations approximately 500 times human plasma levels after oral administration; at concentrations approximately 1,000 times human plasma levels after oral administration in these same cells, a low level of chromosomal damage was induced at one of the laboratories.
 Studies to evaluate mutagenic potential have not been conducted with polymyxin B sulfate.
 
 Impairment of Fertility: Polymyxin B sulfate has been reported to impair the motility of equine sperm, but its effects on male or female fertility are unknown.
@@ -32,9 +32,9 @@ No adverse effects on fertility or general reproductive performance were observe
 
 ## Pregnancy
 
-## Teratogenic Effects
+### Teratogenic Effects
 
-Pregnancy Category C. Animal reproduction studies have not been conducted with polymyxin B sulfate.
+Animal reproduction studies have not been conducted with polymyxin B sulfate.
 It is not known whether polymyxin B sulfate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 
 Trimethoprim has been shown to be teratogenic in the rat when given in oral doses 40 times the human dose.
@@ -47,7 +47,7 @@ In a separate survey, Brumfitt and Pursell also found no congenital abnormalitie
 
 Because trimethoprim may interfere with folic acid metabolism, trimethoprim should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nonteratogenic Effects
+### Nonteratogenic Effects
 
 The oral administration of trimethoprim to rats at a dose of 70 mg/kg/day commencing with the last third of gestation and continuing through parturition and lactation caused no deleterious effects on gestation or pup growth and survival.
 
@@ -58,7 +58,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 2 months have not been established (see WARNINGS).
+Safety and effectiveness in children below the age of 2 months have not been established [see Warnings].
 
 ## Geriatric Use
 

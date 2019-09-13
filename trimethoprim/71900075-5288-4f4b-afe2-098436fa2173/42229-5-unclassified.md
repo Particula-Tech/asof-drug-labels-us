@@ -1,17 +1,13 @@
-340176-0103
+Manufactured by
 
-Revised: January 2003
+Alcon Laboratories, Inc.
 
-Dist. by:
+Fort Worth, Texas 76134 for
 
-FALCON Pharmaceuticals, Ltd.
+Sandoz Inc.
 
-Fort Worth, Texas 76134
+Princeton, NJ 08540
 
-Mfd. by:
+Revised: July 2019
 
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134 USA
-
-Printed in USA
+9017852
