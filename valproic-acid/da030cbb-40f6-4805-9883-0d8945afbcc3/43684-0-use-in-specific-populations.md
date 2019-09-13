@@ -109,11 +109,11 @@ Data in the published literature describe the presence of valproate in human mil
 Valproate serum concentrations collected from breastfed infants aged 3 days postnatal to 12 weeks following delivery ranged from 0.7 mcg/mL to 4 mcg/mL, which were 1% to 6% of maternal serum valproate levels.
 A published study in children up to six years of age did not report adverse developmental or cognitive effects following exposure to valproate via breast milk [see Data (Human)].
 
-There are no data to assess the effects of Depakote on milk production or excretion.
+There are no data to assess the effects of Depacon on milk production or excretion.
 
 Clinical Considerations
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Depakote and any potential adverse effects on the breastfed child from Depakote or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Depacon and any potential adverse effects on the breastfed child from Depacon or from the underlying maternal condition.
 
 Monitor the breastfed infant for signs of liver damage including jaundice and unusual bruising or bleeding.
 There have been reports of hepatic failure and clotting abnormalities in offspring of women who used valproate during pregnancy [see Use in Specific Populations (8.1)].
