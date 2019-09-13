@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017851"
+  ],
   "inn": "baclofen",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0028-0023-01",
-    "0028-0033-01"
+    "0028-0023-61",
+    "0028-0033-01",
+    "0028-0033-61"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "baclofen",
+      "name": "Lioresal"
+    }
+  ],
   "setid": "c59b086d-8e2a-47fa-ae4f-135e65c37337",
   "source": "dailymed"
 }
