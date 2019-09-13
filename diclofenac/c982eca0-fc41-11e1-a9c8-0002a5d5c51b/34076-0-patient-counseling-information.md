@@ -49,4 +49,4 @@ Inform patients not to use low-dose aspirin concomitantly with ZIPSOR until they
 
 US Patents: 6,365,180; 7,662,858; 7,884,095; 7,939,518; 8,110,606; 6,287,594; 8,623,920
 
-Distributed by: Depomed, Inc. Newark, CA 94560, USA Issued: 5/2016
+Distributed by: Depomed, Inc. Newark, CA 94560, USA Issued: 9/2019

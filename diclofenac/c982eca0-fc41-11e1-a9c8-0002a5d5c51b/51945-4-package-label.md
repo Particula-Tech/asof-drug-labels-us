@@ -27,3 +27,31 @@ ZIPSOR® (diclofenac potassium)
 25 mg
 
 Marketed by: Depomed®
+
+# Principal Display Panel - 25 mg - Blister Card (Sample - Not for Resale)
+
+NDC 13913-008-94
+
+Rx Only
+
+ZIPSOR® (diclofenac potassium)
+
+Liquid Filled Capsules
+
+25 mg
+
+Marketed by: Depomed®
+
+# Principal Display Panel - 25 mg - Carton (Sample - Not for Resale)
+
+NDC 13913-008-94
+
+Rx Only
+
+ZIPSOR® (diclofenac potassium)
+
+Liquid Filled Capsules
+
+25 mg
+
+Marketed by: Depomed®
