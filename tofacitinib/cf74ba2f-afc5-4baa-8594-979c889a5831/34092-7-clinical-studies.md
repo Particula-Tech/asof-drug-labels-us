@@ -421,5 +421,5 @@ In Study UC-IV, 914 patients were treated of which 156 received 5 mg twice daily
 
 Of the 905 patients who were assigned to XELJANZ 10 mg twice daily in the 8-week induction studies (Study UC-I or Study UC-II), 322 patients completed the induction studies but did not achieve clinical response.
 Of these 322 patients, 291 continued to receive XELJANZ 10 mg twice daily (unblinded) and had available data after an additional 8 weeks in Study UC-IV.
-After 8 additional weeks (a total of 16 weeks treatment), 149 patients achieved clinical response, and 25 patients achieved remission (based on central endoscopy read).
-Among those 144 patients who achieved clinical response by 16 weeks and had available data at Week 52, 65 patients achieved remission (based on local endoscopy read) after continued treatment with XELJANZ 10 mg twice daily for 52 weeks.
+After 8 additional weeks (a total of 16 weeks treatment), 148 patients achieved clinical response, and 25 patients achieved remission (based on central endoscopy read).
+Among those 143 patients who achieved clinical response by 16 weeks and had available data at Week 52, 66 patients achieved remission (based on local endoscopy read) after continued treatment with XELJANZ 10 mg twice daily for 52 weeks.

@@ -182,7 +182,7 @@ The safety experience in these patients was consistent with Studies RA-I through
 
 Psoriatic Arthritis
 
-XELJANZ 5 mg twice daily and 10 mg twice daily were studied in 2 double blind Phase 3 clinical trials in patients with active psoriatic arthritis (PsA).
+XELJANZ 5 mg twice daily and 10 mg twice daily were studied in 2 double-blind Phase 3 clinical trials in patients with active psoriatic arthritis (PsA).
 Although other doses of XELJANZ have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
 The recommended dose for XELJANZ XR is 11 mg once daily.
 A dosage of XELJANZ 10 mg twice daily or XELJANZ XR 22 mg once daily is not recommended for the treatment of PsA [see Dosage and Administration (2.2)].
