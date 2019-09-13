@@ -6,7 +6,7 @@ Gallbladder abnormalities, especially stones and/or biliary sludge, frequently d
 
 ## Cardiac
 
-In acromegalics, sinus bradycardia (<50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during octreotide acetate therapy (see PRECAUTIONS, General).
+In acromegalics, sinus bradycardia (<50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias developed in 9% of patients during octreotide acetate therapy (see PRECAUTIONS,General).
 
 ## Gastrointestinal
 
@@ -25,7 +25,7 @@ Symptoms of hypoglycemia were noted in approximately 2% of patients.
 
 ## Hypothyroidism
 
-In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during octreotide acetate therapy (see PRECAUTIONS, General).
+In acromegalics, biochemical hypothyroidism alone occurred in 12% while goiter occurred in 6% during octreotide acetate therapy (see PRECAUTIONS,General).
 In patients without acromegaly, hypothyroidism has only been reported in several isolated patients and goiter has not been reported.
 
 ## Other Adverse Events

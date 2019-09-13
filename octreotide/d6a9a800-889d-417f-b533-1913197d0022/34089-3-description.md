@@ -18,4 +18,4 @@ sodium acetate trihydrate, USP.....
 
 water for injection, USP.......qs to 1 mL
 
-The molecular weight of octreotide acetate is 1019.3 (free peptide, C49H66N10O10S2) and its amino acid sequence is:
+The molecular weight of octreotide acetate is 1019.3 (free peptide, C 49H 66N 10O 10S 2) and its amino acid sequence is:

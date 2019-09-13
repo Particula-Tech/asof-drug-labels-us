@@ -34,7 +34,7 @@ In non-diabetics and Type II diabetics with partially intact insulin reserves, o
 It is therefore recommended that glucose tolerance and antidiabetic treatment be periodically monitored during therapy with these drugs.
 
 In acromegalic patients, 12% developed biochemical hypothyroidism only, 8% developed goiter, and 4% required initiation of thyroid replacement therapy while receiving octreotide acetate.
-Baseline and periodic assessment of thyroid function (TSH, total and/or free T4) is recommended during chronic therapy.
+Baseline and periodic assessment of thyroid function (TSH, total and/or free T 4) is recommended during chronic therapy.
 
 In acromegalics, bradycardia (<50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias occurred in 9% of patients during octreotide acetate therapy.
 Other EKG changes observed included QT prolongation, axis shifts, early repolarization, low voltage, R/S transition, and early R wave progression.
@@ -49,7 +49,7 @@ Octreotide acetate may alter absorption of dietary fats in some patients.
 
 In patients with severe renal failure requiring dialysis, the half-life of octreotide acetate may be increased, necessitating adjustment of the maintenance dosage.
 
-Depressed vitamin B12 levels and abnormal Schilling’s tests have been observed in some patients receiving octreotide acetate therapy, and monitoring of vitamin B12 levels is recommended during chronic octreotide acetate therapy.
+Depressed vitamin B 12 levels and abnormal Schilling’s tests have been observed in some patients receiving octreotide acetate therapy, and monitoring of vitamin B 12 levels is recommended during chronic octreotide acetate therapy.
 
 ## Information for Patients
 
@@ -65,7 +65,7 @@ Based on diagnosis, measurement of the following substances may be useful in mon
 | Carcinoid: | 5-HIAA (urinary 5-hydroxyindole acetic acid), plasma serotonin, plasma Substance P |
 | VIPoma: | VIP (plasma vasoactive intestinal peptide) |
 
-Baseline and periodic total and/or free T4 measurements should be performed during chronic therapy (see PRECAUTIONS, General).
+Baseline and periodic total and/or free T4 measurements should be performed during chronic therapy (see PRECAUTIONS,General).
 
 ## Drug Interactions
 
@@ -122,7 +122,7 @@ The relationship of these events to octreotide has not been established as the m
 The efficacy and safety of octreotide using the octreotide acetate for injectable suspension formulation was examined in a single randomized, double-blind, placebo-controlled, six–month pharmacokinetics study in 60 pediatric patients age 6 to 17 years with hypothalamic obesity resulting from cranial insult.
 The mean octreotide concentration after 6 doses of 40 mg octreotide acetate for injectable suspension administered by IM injection every four weeks was approximately 3 ng/ml.
 Steady-state concentrations was achieved after 3 injections of a 40 mg dose.
-Mean BMI increased 0.1 kg/m2 in octreotide acetate for injectable suspension treated subjects compared to 0 kg/m2 in saline control-treated subjects.
+Mean BMI increased 0.1 kg/m 2 in octreotide acetate for injectable suspension treated subjects compared to 0 kg/m 2 in saline control-treated subjects.
 Efficacy was not demonstrated.
 Diarrhea occurred in 11 of 30 (37%) patients treated with octreotide acetate for injectable suspension.
 No unexpected adverse events were observed.
