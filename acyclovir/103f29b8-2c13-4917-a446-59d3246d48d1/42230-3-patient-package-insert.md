@@ -49,7 +49,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Acyclovir Cream?
 
-- •Store Acyclovir Cream at room temperature between 68° to 77°F (20° to 25°C).Keep Acyclovir Cream and all medicines out of reach of children.
+- •Store Acyclovir Cream at room temperature between 68° to 77°F (20° to 25°C).
+- Keep Acyclovir Cream and all medicines out of reach of children.
 
 General information about the safe and effective use of Acyclovir Cream
 
