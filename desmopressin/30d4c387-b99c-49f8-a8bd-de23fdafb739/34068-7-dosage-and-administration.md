@@ -11,7 +11,7 @@ Fluid restriction should be observed, and fluid intake should be limited to a mi
 The tendency toward tachyphylaxis (lessening of response) with repeated administration given more frequently than once every 48 hours should be considered in treating each patient.
 
 The nasal spray pump can only deliver doses of 0.1 mL (150 mcg) or multiples of 0.1 mL.
-If doses other than these are required, DDAVP ® Injection may be used.
+If doses other than these are required, DDAVP® Injection may be used.
 
 The spray pump must be primed prior to the first use.
 To prime pump, press down 4 times.

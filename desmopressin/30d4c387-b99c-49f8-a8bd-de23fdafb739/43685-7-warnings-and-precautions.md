@@ -30,11 +30,11 @@ There have been rare reports of thrombotic events (thrombosis, acute cerebrovasc
 No causality has been determined; however, the drug should be used with caution in these patients.
 
 Severe allergic reactions have been reported rarely.
-Fatal anaphylaxis has been reported in one patient who received intravenous DDAVP ® (desmopressin acetate).
+Fatal anaphylaxis has been reported in one patient who received intravenous DDAVP® (desmopressin acetate).
 It is not known whether antibodies to desmopressin acetate are produced after repeated administration.
 
 Since Stimate Nasal Spray is used intranasally, changes in the nasal mucosa such as scarring, edema, or other disease may cause erratic, unreliable absorption in which case Stimate Nasal Spray should be discontinued until the nasal problems resolve.
-For such situations, DDAVP ® Injection should be considered.
+For such situations, DDAVP® Injection should be considered.
 
 ## Information for Patients
 
@@ -69,7 +69,7 @@ There have been no long-term studies in animals to assess the carcinogenic, muta
 ## Pregnancy Category B
 
 Reproduction studies performed in rats and rabbits by the subcutaneous route at doses up to 10 mcg/kg/day have revealed no evidence of harm to the fetus due to desmopressin acetate.
-This dose is equivalent to 10 times (for Factor VIII stimulation) or 38 times (for diabetes insipidus) the systemic human dose based on a mg/M 2 surface area.
+This dose is equivalent to 10 times (for Factor VIII stimulation) or 38 times (for diabetes insipidus) the systemic human dose based on a mg/M2 surface area.
 
 There are no adequate and well-controlled studies in pregnant women.
 Several publications of desmopressin acetate's use in the management of diabetes insipidus during pregnancy are available; these include a few anecdotal reports of congenital anomalies and low birth weight babies.
@@ -80,7 +80,7 @@ As opposed to preparations containing natural hormones, desmopressin acetate in 
 ## Nursing Mothers
 
 There have been no controlled studies in nursing mothers.
-A single study in postpartum women demonstrated a marked change in plasma, but little if any change in assayable DDAVP ® in breast milk following an intranasal dose of 10 mcg.
+A single study in postpartum women demonstrated a marked change in plasma, but little if any change in assayable DDAVP® in breast milk following an intranasal dose of 10 mcg.
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Stimate Nasal Spray is administered to a nursing woman.
 

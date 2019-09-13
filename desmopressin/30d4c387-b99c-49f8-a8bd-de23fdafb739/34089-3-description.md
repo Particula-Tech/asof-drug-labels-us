@@ -1,13 +1,13 @@
 # DESCRIPTION
 
-Stimate ® (desmopressin acetate) is a synthetic analogue of the natural pituitary hormone 811 arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
+Stimate® (desmopressin acetate) is a synthetic analogue of the natural pituitary hormone 811 arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
 Stimate Nasal Spray contains 1.5 mg/mL desmopressin acetate in an aqueous solution at a pH of approximately 5.
 Stimate® Nasal Spray's compression pump delivers 0.1 mL (150 mcg) of solution per spray.
 It is chemically defined as follows:
 
 Mol.
 Wt.
-1183.34 Empirical formula: C 46H 64N 14O 12S 2 ∙C 2H 4O 2∙3H 2O
+1183.34 Empirical formula: C46H64N14O12S2 ∙C2H4O2∙3H2O
 
 1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate.
 
