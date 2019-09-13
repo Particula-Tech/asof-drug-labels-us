@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211860"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-0008-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant dimeglumine",
+      "name": "Fosaprepitant"
+    }
+  ],
+  "setid": "3ed3e0a9-a0a8-4555-9f73-2043e79e3398",
+  "source": "dailymed"
+}
