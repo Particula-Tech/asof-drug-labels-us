@@ -105,6 +105,11 @@ Table 5: Drug Interactions: Changes in Pharmacokinetics of Letermovir in the Pre
 | Co-administered Drug | Regimen of Co-administered Drug | Letermovir Regimen | Geometric Mean Ratio [90% CI] of Letermovir PK with/without Co-administered Drug (No Effect=1.00) |  |  |
 | Antifungals |  |  |  |  |  |
 | fluconazole | 400 mg single dose PO | 480 mg single dose PO | 1.11 (1.01, 1.23) | 1.06 (0.93, 1.21) | 1.28 (1.15, 1.43) |
+| Antimycobacterials |  |  |  |  |  |
+| rifampin | 600 mg single dose PO | 480 mg single dose PO | 2.03 (1.84, 2.26) | 1.59 (1.46, 1.74) | 2.01 (1.59, 2.54) |
+| 600 mg single dose IV | 480 mg single dose PO | 1.58 (1.38, 1.81) | 1.37 (1.16, 1.61) | 0.78 (0.65, 0.93) |  |
+| 600 mg once daily PO | 480 mg once daily PO | 0.81 (0.67, 0.98) | 1.01 (0.79, 1.28) | 0.14 (0.11, 0.19) |  |
+| 600 mg once daily PO (24 hours after rifampin)These data are the effect of rifampin on letermovir 24 hours after final rifampin dose. | 480 mg once daily PO | 0.15 (0.13, 0.17) | 0.27 (0.22, 0.31) | 0.09 (0.06, 0.12) |  |
 | Immunosuppressants |  |  |  |  |  |
 | cyclosporine | 200 mg single dose PO | 240 mg once daily PO | 2.11 (1.97, 2.26) | 1.48 (1.33, 1.65) | 2.06 (1.81, 2.35) |
 | mycophenolate mofetil | 1 g single dose PO | 480 mg once daily PO | 1.18 (1.04, 1.32) | 1.11 (0.92, 1.34) | 1.39 (1.12, 1.74) |
