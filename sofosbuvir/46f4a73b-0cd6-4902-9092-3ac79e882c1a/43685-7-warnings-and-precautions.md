@@ -11,37 +11,37 @@ HBV reactivation is characterized as an abrupt increase in HBV replication manif
 In patients with resolved HBV infection, reappearance of HBsAg can occur.
 Reactivation of HBV replication may be accompanied by hepatitis, i.e., increases in aminotransferase levels and, in severe cases, increases in bilirubin levels, liver failure, and death can occur.
 
-Test all patients for evidence of current or prior HBV infection by measuring HBsAg and anti-HBc before initiating HCV treatment with ledipasvir and sofosbuvir tablets.
-In patients with serologic evidence of HBV infection, monitor for clinical and laboratory signs of hepatitis flare or HBV reactivation during HCV treatment with ledipasvir and sofosbuvir tablets and during post-treatment follow-up.
+Test all patients for evidence of current or prior HBV infection by measuring HBsAg and anti-HBc before initiating HCV treatment with ledipasvir and sofosbuvir.
+In patients with serologic evidence of HBV infection, monitor for clinical and laboratory signs of hepatitis flare or HBV reactivation during HCV treatment with ledipasvir and sofosbuvir and during post-treatment follow-up.
 Initiate appropriate patient management for HBV infection as clinically indicated.
 
 ## 5.2 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
 
-Postmarketing cases of symptomatic bradycardia, as well as fatal cardiac arrest and cases requiring pacemaker intervention, have been reported when amiodarone is coadministered with ledipasvir and sofosbuvir tablets.
+Postmarketing cases of symptomatic bradycardia, as well as fatal cardiac arrest and cases requiring pacemaker intervention, have been reported when amiodarone is coadministered with ledipasvir and sofosbuvir.
 Bradycardia has generally occurred within hours to days, but cases have been observed up to 2 weeks after initiating HCV treatment.
 Patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease, may be at increased risk for symptomatic bradycardia with coadministration of amiodarone.
 Bradycardia generally resolved after discontinuation of HCV treatment.
 The mechanism for this effect is unknown.
 
-Coadministration of amiodarone with ledipasvir and sofosbuvir tablets is not recommended.
-For patients taking amiodarone who have no other alternative, viable treatment options and who will be coadministered ledipasvir and sofosbuvir tablets:
+Coadministration of amiodarone with ledipasvir and sofosbuvir is not recommended.
+For patients taking amiodarone who have no other alternative, viable treatment options and who will be coadministered ledipasvir and sofosbuvir:
 
 - Counsel patients about the risk of serious symptomatic bradycardia
 - Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.
 
-Patients who are taking ledipasvir and sofosbuvir tablets who need to start amiodarone therapy due to no other alternative, viable treatment options should undergo similar cardiac monitoring as outlined above.
+Patients who are taking ledipasvir and sofosbuvir who need to start amiodarone therapy due to no other alternative, viable treatment options should undergo similar cardiac monitoring as outlined above.
 
-Due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting ledipasvir and sofosbuvir tablets should also undergo similar cardiac monitoring as outlined above.
+Due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting ledipasvir and sofosbuvir should also undergo similar cardiac monitoring as outlined above.
 
 Patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately.
 Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion or memory problems [see Adverse Reactions (6.2), Drug Interactions (7.2)].
 
 ## 5.3 Risk of Reduced Therapeutic Effect Due to Use with P-gp Inducers
 
-The concomitant use of ledipasvir and sofosbuvir tablets and P-gp inducers (e.g., rifampin, St. John's wort) may significantly decrease ledipasvir and sofosbuvir plasma concentrations and may lead to a reduced therapeutic effect of ledipasvir and sofosbuvir.
-Therefore, the use of ledipasvir and sofosbuvir tablets with P-gp inducers (e.g., rifampin or St. John's wort) is not recommended [see Drug Interactions (7.2)].
+The concomitant use of ledipasvir and sofosbuvir and P-gp inducers (e.g., rifampin, St. John's wort) may significantly decrease ledipasvir and sofosbuvir plasma concentrations and may lead to a reduced therapeutic effect of ledipasvir and sofosbuvir.
+Therefore, the use of ledipasvir and sofosbuvir with P-gp inducers (e.g., rifampin or St. John's wort) is not recommended [see Drug Interactions (7.2)].
 
 ## 5.4 Risks Associated with Ribavirin Combination Treatment
 
-If ledipasvir and sofosbuvir tablets are administered with ribavirin, the warnings and precautions for ribavirin, in particular the pregnancy avoidance warning, apply to this combination regimen.
+If ledipasvir and sofosbuvir is administered with ribavirin, the warnings and precautions for ribavirin, in particular the pregnancy avoidance warning, apply to this combination regimen.
 Refer to the ribavirin prescribing information for a full list of the warnings and precautions for ribavirin [see Dosage and Administration (2.2)].

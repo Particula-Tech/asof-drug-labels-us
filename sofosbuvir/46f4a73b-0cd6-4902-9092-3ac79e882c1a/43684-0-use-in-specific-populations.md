@@ -4,11 +4,11 @@
 
 Risk Summary
 
-If ledipasvir and sofosbuvir tablets are administered with ribavirin, the combination regimen is contraindicated in pregnant women and in men whose female partners are pregnant.
+If ledipasvir and sofosbuvir is administered with ribavirin, the combination regimen is contraindicated in pregnant women and in men whose female partners are pregnant.
 Refer to the ribavirin prescribing information for more information on ribavirin-associated risks of use during pregnancy.
 
-No adequate human data are available to establish whether or not ledipasvir and sofosbuvir tablets pose a risk to pregnancy outcomes.
-In animal reproduction studies, no evidence of adverse developmental outcomes was observed with the components of ledipasvir and sofosbuvir tablets (ledipasvir or sofosbuvir) at exposures greater than those in humans at the recommended human dose (RHD) [see Data].
+No adequate human data are available to establish whether or not ledipasvir and sofosbuvir pose a risk to pregnancy outcomes.
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed with ledipasvir or sofosbuvir at exposures greater than those in humans at the recommended human dose (RHD) [see Data].
 During organogenesis in the rat and rabbit, systemic exposures (AUC) to ledipasvir were approximately 4 (rats) and 2 (rabbits) times the exposure in humans at the RHD, while exposures to the predominant circulating metabolite of sofosbuvir (GS-331007) were ≥3 (rats) and 7 (rabbits) times the exposure in humans at the RHD.
 In rat pre/postnatal development studies, maternal systemic exposures (AUC) to ledipasvir and GS-331007 were approximately 5 and 7 times, respectively, the exposure in humans at the RHD.
 
@@ -31,13 +31,13 @@ Systemic exposures (AUC) to the predominant circulating metabolite of sofosbuvir
 
 Risk Summary
 
-It is not known whether ledipasvir or sofosbuvir, the components of ledipasvir and sofosbuvir tablets, or their metabolites are present in human breast milk, affect human milk production or have effects on the breastfed infant.
+It is not known whether ledipasvir, sofosbuvir, or their metabolites are present in human breast milk, affect human milk production or have effects on the breastfed infant.
 When administered to lactating rats, ledipasvir was detected in the plasma of nursing pups likely due to the presence of ledipasvir in milk, without clear effects on nursing pups [see Data].
 The predominant circulating metabolite of sofosbuvir (GS-331007) was the primary component observed in the milk of lactating rats, without effect on nursing pups.
 
-The development and health benefits of breastfeeding should be considered along with the mother's clinical need for ledipasvir and sofosbuvir tablets and any potential adverse effects on the breastfed child from ledipasvir and sofosbuvir tablets or from the underlying maternal condition.
+The development and health benefits of breastfeeding should be considered along with the mother's clinical need for ledipasvir and sofosbuvir and any potential adverse effects on the breastfed child from ledipasvir and sofosbuvir or from the underlying maternal condition.
 
-If ledipasvir and sofosbuvir tablets are administered with ribavirin, the nursing mother's information for ribavirin also applies to this combination regimen.
+If ledipasvir and sofosbuvir is administered with ribavirin, the nursing mother's information for ribavirin also applies to this combination regimen.
 Refer to the ribavirin prescribing information for more information on use during lactation.
 
 Data
@@ -52,32 +52,33 @@ In a lactation study, sofosbuvir metabolites (primarily GS-331007) were excreted
 
 ## 8.3 Females and Males of Reproductive Potential
 
-If ledipasvir and sofosbuvir tablets are administered with ribavirin, the information for ribavirin with regard to pregnancy testing, contraception, and infertility also applies to this combination regimen.
+If ledipasvir and sofosbuvir is administered with ribavirin, the information for ribavirin with regard to pregnancy testing, contraception, and infertility also applies to this combination regimen.
 Refer to ribavirin prescribing information for additional information.
 
 ## 8.4 Pediatric Use
 
-The safety, pharmacokinetics, and efficacy of ledipasvir and sofosbuvir tablets for treatment of HCV genotype 1 infection in treatment-naïve and treatment-experienced pediatric patients 12 years of age and older without cirrhosis or with compensated cirrhosis have been established in an open-label, multicenter clinical trial (Study 1116, N=100; 80 treatment-naïve, 20 treatment-experienced) and are comparable to that observed in adults.
+The safety, pharmacokinetics, and efficacy of ledipasvir and sofosbuvir for treatment of HCV genotype 1 and 4 infection in treatment-naïve and treatment-experienced pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis have been established in an open-label, multicenter clinical trial (Study 1116, N=226; 186 treatment-naïve, 40 treatment-experienced) and are comparable to that observed in adults.
 
-The safety and efficacy of ledipasvir and sofosbuvir tablets for treatment of HCV genotypes 4, 5, or 6 infection in pediatric patients 12 years of age and older or weighing at least 35 kg without cirrhosis or with compensated cirrhosis is supported by comparable ledipasvir, sofosbuvir, and GS-331007 exposures between adults and adolescents with HCV genotype 1 and similar efficacy and exposures across HCV genotypes 1, 4, 5, and 6 in adults [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3 and 14.6)].
+The safety and efficacy of ledipasvir and sofosbuvir for treatment of HCV genotypes 5 or 6 infection in pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis is supported by comparable ledipasvir, sofosbuvir, and GS-331007 exposures between adults and pediatric patients with HCV genotype 1 and 4, and similar efficacy and exposures across HCV genotypes 1, 4, 5, and 6 in adults [see Dosage and Administration (2.2 and 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3 and 14.6)].
+Similar rationale is used to support dosing recommendations for pediatric patients with HCV genotype 1 infection who have decompensated cirrhosis (Child-Pugh B or C) and for pediatric patients with HCV genotype 1 and 4 infection who are liver transplant recipients without cirrhosis or with compensated cirrhosis.
 
-The safety and efficacy of ledipasvir and sofosbuvir tablets have not been established in pediatric patients less than 12 years of age and weighing less than 35 kg, in pediatric patients with decompensated cirrhosis, or in pediatric liver transplant recipients.
+The safety and efficacy of ledipasvir and sofosbuvir have not been established in pediatric patients less than 3 years of age.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of ledipasvir and sofosbuvir tablets included 225 subjects aged 65 and over (9% of total number of subjects in the clinical studies).
+Clinical trials of ledipasvir and sofosbuvir included 225 subjects aged 65 and over (9% of total number of subjects in the clinical studies).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-No dosage adjustment of ledipasvir and sofosbuvir tablets is warranted in geriatric patients [see Clinical Pharmacology (12.3)].
+No dosage adjustment of ledipasvir and sofosbuvir is warranted in geriatric patients [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of ledipasvir and sofosbuvir tablets is required for patients with mild or moderate renal impairment.
-The safety and efficacy of ledipasvir and sofosbuvir tablets have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD requiring hemodialysis.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+No dosage adjustment of ledipasvir and sofosbuvir is required for patients with mild or moderate renal impairment.
+The safety and efficacy of ledipasvir and sofosbuvir have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD requiring hemodialysis.
+No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 Refer to ribavirin prescribing information regarding use in patients with renal impairment.
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment of ledipasvir and sofosbuvir tablets is required for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2.2), Clinical Pharmacology (12.3) and Clinical Studies (14.5)].
+No dosage adjustment of ledipasvir and sofosbuvir is required for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2.3), Clinical Pharmacology (12.3) and Clinical Studies (14.5)].
 
-Clinical and hepatic laboratory monitoring, as clinically indicated, is recommended for patients with decompensated cirrhosis receiving treatment with ledipasvir and sofosbuvir tablets and ribavirin [see Adverse Reactions (6.1)].
+Clinical and hepatic laboratory monitoring, as clinically indicated, is recommended for patients with decompensated cirrhosis receiving treatment with ledipasvir and sofosbuvir and ribavirin [see Adverse Reactions (6.1)].

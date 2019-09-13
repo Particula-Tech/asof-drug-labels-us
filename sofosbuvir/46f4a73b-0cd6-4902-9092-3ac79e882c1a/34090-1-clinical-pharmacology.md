@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Ledipasvir and sofosbuvir tablets are a fixed-dose combination of ledipasvir and sofosbuvir which are direct-acting antiviral agents against the hepatitis C virus [see Microbiology (12.4)].
+Ledipasvir and sofosbuvir tablets (90 mg/400 mg) are a fixed-dose combination of ledipasvir and sofosbuvir which are direct-acting antiviral agents against the hepatitis C virus [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -20,7 +20,7 @@ At a dose three times the maximum recommended dose, sofosbuvir does not prolong 
 
 Absorption
 
-The pharmacokinetic properties of ledipasvir, sofosbuvir, and the predominant circulating metabolite GS-331007 have been evaluated in healthy adult subjects and in subjects with chronic hepatitis C. Following oral administration of ledipasvir and sofosbuvir tablets, ledipasvir median peak concentrations were observed 4 to 4.5 hours post-dose.
+The pharmacokinetic properties of ledipasvir, sofosbuvir, and the predominant circulating metabolite GS-331007 have been evaluated in healthy adult subjects and in subjects with chronic hepatitis C. Following oral administration of ledipasvir and sofosbuvir tablets (90 mg/400 mg), ledipasvir median peak concentrations were observed 4 to 4.5 hours post-dose.
 Sofosbuvir was absorbed quickly and the peak median plasma concentration was observed ~0.8 to 1 hour post-dose.
 Median peak plasma concentration of GS-331007 was observed between 3.5 to 4 hours post-dose.
 
@@ -31,10 +31,10 @@ Relative to healthy subjects (N=191), ledipasvir AUC0–24 and Cmax were 24% low
 
 Effect of Food
 
-Relative to fasting conditions, the administration of a single dose of ledipasvir and sofosbuvir tablets with a moderate fat (~600 kcal, 25% to 30% fat) or high fat (~1000 kcal, 50% fat) meal increased sofosbuvir AUC0–inf by approximately 2-fold, but did not significantly affect sofosbuvir Cmax.
+Relative to fasting conditions, the administration of a single dose of ledipasvir and sofosbuvir tablets (90 mg/400 mg) with a moderate fat (~600 kcal, 25% to 30% fat) or high fat (~1000 kcal, 50% fat) meal increased sofosbuvir AUC0–inf by approximately 2-fold, but did not significantly affect sofosbuvir Cmax.
 The exposures of GS-331007 and ledipasvir were not altered in the presence of either meal type.
-The response rates in Phase 3 trials were similar in HCV-infected subjects who received ledipasvir and sofosbuvir tablets with food or without food.
-Ledipasvir and sofosbuvir tablets can be administered without regard to food.
+The response rates in Phase 3 trials were similar in HCV-infected subjects who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) with food or without food.
+Ledipasvir and sofosbuvir can be administered without regard to food.
 
 Distribution
 
@@ -62,12 +62,12 @@ Elimination
 Following a single 90 mg oral dose of [14C]-ledipasvir, mean total recovery of the [14C]-radioactivity in feces and urine was approximately 87%, with most of the radioactive dose recovered from feces (approximately 86%).
 Unchanged ledipasvir excreted in feces accounted for a mean of 70% of the administered dose and the oxidative metabolite M19 accounted for 2.2% of the dose.
 These data indicate that biliary excretion of unchanged ledipasvir is a major route of elimination, with renal excretion being a minor pathway (approximately 1%).
-The median terminal half-life of ledipasvir following administration of ledipasvir and sofosbuvir tablets was 47 hours.
+The median terminal half-life of ledipasvir following administration of ledipasvir and sofosbuvir tablets (90 mg/400 mg) was 47 hours.
 
 Following a single 400 mg oral dose of [14C]-sofosbuvir, mean total recovery of the dose was greater than 92%, consisting of approximately 80%, 14%, and 2.5% recovered in urine, feces, and expired air, respectively.
 The majority of the sofosbuvir dose recovered in urine was GS-331007 (78%) while 3.5% was recovered as sofosbuvir.
 These data indicate that renal clearance is the major elimination pathway for GS-331007.
-The median terminal half-lives of sofosbuvir and GS-331007 following administration of ledipasvir and sofosbuvir tablets were 0.5 and 27 hours, respectively.
+The median terminal half-lives of sofosbuvir and GS-331007 following administration of ledipasvir and sofosbuvir tablets (90 mg/400 mg) were 0.5 and 27 hours, respectively.
 
 Specific Populations
 
@@ -76,18 +76,22 @@ Race: Population pharmacokinetics analysis in HCV-infected subjects indicated th
 Gender: Population pharmacokinetics analysis in HCV-infected subjects indicated that gender had no clinically relevant effect on the exposure of sofosbuvir and GS-331007.
 AUC and Cmax of ledipasvir were 77% and 58% higher, respectively, in females than males; however, the relationship between gender and ledipasvir exposures was not considered clinically relevant, as high response rates (SVR12 >90%) were achieved in male and female subjects across the Phase 3 studies and the safety profiles are similar in females and males.
 
-Pediatric Patients: The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were determined in 100 pediatric subjects 12 years of age and older infected with HCV genotype 1 receiving a daily dose of ledipasvir and sofosbuvir tablets (90 mg ledipasvir and 400 mg sofosbuvir).
-The pharmacokinetic properties of ledipasvir, sofosbuvir, and GS-331007 in pediatric subjects 12 years of age and older are provided in Table 6.
+Pediatric Patients: The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were determined in HCV genotype 1, 3, or 4 infected pediatric subjects 3 years of age and older receiving a daily dose of ledipasvir and sofosbuvir as described below in Table 7.
 Exposures in pediatric subjects were similar to those observed in adults.
 
-Table 6 Pharmacokinetic Properties of the Components of Ledipasvir and Sofosbuvir Tablets in Pediatric Subjects 12 Years of Age and OlderPopulation PK derived parameters
+Table 7 Pharmacokinetic Properties of Ledipasvir, Sofosbuvir, and GS-331007 in Pediatric Subjects 3 Years of Age and OlderPopulation PK derived parameters
 
-| Geometric Mean | LedipasvirLedipasvir N=100; Sofosbuvir N=72; GS-331007 N=100 | Sofosbuvir | GS-331007 |
-| --- | --- | --- | --- |
-| AUCtau (ng∙hr/mL) | 11200 | 1350 | 13600 |
-| Cmax (ng/mL) | 550 | 660 | 921 |
+| Ledipasvir | Sofosbuvir | GS-331007 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Weight Group | Dose | PK Parameter | Geometric Mean (%CV) |  |  |
+|  | 90/400 mg | AUCtau (ng∙hr/mL) | 11200 (45.7) | 1350 (45.2) | 13600 (18.9) |
+| ≥35 kgLedipasvir N=100; Sofosbuvir N=72; GS-331007 N=100 | Cmax (ng/mL) | 550 (44.2) | 660 (51.1) | 921 (17.8) |  |
+|  | 45/200 mg | AUCtau (ng∙hr/mL) | 8750 (46.6) | 1420 (34.2) | 10700 (30.9) |
+| 17 to <35 kgLedipasvir N=86; Sofosbuvir N=66; GS-331007 N=86 | Cmax (ng/mL) | 440 (42.7) | 690 (24.8) | 958 (26.1) |  |
+|  | 33.75/150 mg | AUCtau (ng∙hr/mL) | 7460 (31.0) | 1720 (23.2) | 12200 (15.2) |
+| <17 kgLedipasvir N=9; Sofosbuvir N=9; GS-331007 N=9 | Cmax (ng/mL) | 405 (25.7) | 791 (16.6) | 1070 (13.0) |  |
 
-The pharmacokinetics of ledipasvir or sofosbuvir have not been established in pediatric patients less than 12 years of age [see Use in Specific Populations (8.4), and Clinical Studies (14.6)].
+The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 have not been established in pediatric subjects less than 3 years of age [see Use in Specific Populations (8.4), and Clinical Studies (14.6)].
 
 Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 80 years) analyzed, age did not have a clinically relevant effect on the exposure to ledipasvir, sofosbuvir, and GS-331007 [see Use in Specific Populations (8.5)].
 
@@ -97,7 +101,7 @@ No clinically relevant differences in ledipasvir pharmacokinetics were observed 
 The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
 Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
 In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
-A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C). Ledipasvir plasma exposure (AUC0–inf) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of ledipasvir [see Use in Specific Populations (8.7)].
@@ -108,8 +112,8 @@ Population pharmacokinetics analysis in HCV-infected subjects indicated that cir
 Drug Interaction Studies
 
 Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
-P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of ledipasvir and sofosbuvir tablets, and the use with P-gp inducers is not recommended with ledipasvir and sofosbuvir tablets [see Warnings and Precautions (5.3)].
-Coadministration with drugs that inhibit P-gp and/or BCRP may increase ledipasvir and sofosbuvir plasma concentrations without increasing GS-331007 plasma concentration; ledipasvir and sofosbuvir tablets may be coadministered with P-gp and/or BCRP inhibitors.
+P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of ledipasvir and sofosbuvir, and the use with P-gp inducers is not recommended with ledipasvir and sofosbuvir [see Warnings and Precautions (5.3)].
+Coadministration with drugs that inhibit P-gp and/or BCRP may increase ledipasvir and sofosbuvir plasma concentrations without increasing GS-331007 plasma concentration; ledipasvir and sofosbuvir may be coadministered with P-gp and/or BCRP inhibitors.
 Neither ledipasvir nor sofosbuvir is a substrate for hepatic uptake transporters OCT1, OATP1B1, or OATP1B3.
 GS-331007 is not a substrate for renal transporters, including organic anion transporter OAT1 or OAT3, or organic cation transporter OCT2.
 
@@ -117,16 +121,16 @@ Ledipasvir is subject to slow oxidative metabolism via an unknown mechanism.
 In vitro, no detectable metabolism of ledipasvir by CYP enzymes has been observed.
 Biliary excretion of unchanged ledipasvir is a major route of elimination.
 Sofosbuvir is not a substrate for CYP and UGT1A1 enzymes.
-Clinically significant drug interactions with ledipasvir and sofosbuvir tablets mediated by CYP or UGT1A1 enzymes are not expected.
+Clinically significant drug interactions with ledipasvir and sofosbuvir mediated by CYP or UGT1A1 enzymes are not expected.
 
-The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 7 [see Drug Interactions (7.2)].
+The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 8 [see Drug Interactions (7.2)].
 
-Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
 |  | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Ledi-pasvir Dose (mg) | Sofos-buvir Dose (mg) | N | Mean Ratio (90% CI) of Ledipasvir, Sofosbuvir, and GS-331007 PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
-| Atazanavir/ ritonavir + emtricitabine/ tenofovir DFData generated from simultaneous dosing with ledipasvir and sofosbuvir tablets. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and ledipasvir and sofosbuvir tablets provided similar results.,The effects of atazanavir/ritonavir on ledipasvir and sofosbuvir are similar with or without the presence of emtricitabine/tenofovir DF. | 300/100 + 200/300 once daily | 90 once daily | 400 once daily | 24 | ledipasvir | 1.68 (1.54, 1.84) | 1.96 (1.74, 2.21) | 2.18 (1.91, 2.50) |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Ledipasvir Dose (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Ledipasvir, Sofosbuvir, and GS-331007 PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
+| Atazanavir/ ritonavir + emtricitabine/ tenofovir DFData generated from simultaneous dosing with ledipasvir and sofosbuvir. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and ledipasvir and sofosbuvir provided similar results.,The effects of atazanavir/ritonavir on ledipasvir and sofosbuvir are similar with or without the presence of emtricitabine/tenofovir DF. | 300/100 + 200/300 once daily | 90 once daily | 400 once daily | 24 | ledipasvir | 1.68 (1.54, 1.84) | 1.96 (1.74, 2.21) | 2.18 (1.91, 2.50) |
 | sofosbuvir | 1.01 (0.88, 1.15) | 1.11 (1.02, 1.21) | NA |  |  |  |  |  |
 | GS-331007 | 1.17 (1.12, 1.23) | 1.31 (1.25, 1.36) | 1.42 (1.34, 1.49) |  |  |  |  |  |
 | Cyclosporine | 600 single dose | ND | 400 single dose | 19 | sofosbuvir | 2.54 (1.87, 3.45) | 4.53 (3.26, 6.30) | NA |
@@ -174,14 +178,14 @@ Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, MRP
 
 Ledipasvir, sofosbuvir, and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes.
 
-The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 8 [see Drug Interactions (7.2)].
+The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7.2)].
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or Ledipasvir and Sofosbuvir TabletsAll interaction studies conducted in healthy volunteers.
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or Ledipasvir and SofosbuvirAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Ledi-pasvir Dose (mg) | Sofos-buvir Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Ledipasvir, Sofosbuvir, or Ledipasvir and Sofosbuvir Tablets No Effect=1.00 |  |  |
-| Atazanavir/ ritonavir + emtricitabine /tenofovir DFData generated from simultaneous dosing with ledipasvir and sofosbuvir tablets. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and ledipasvir and sofosbuvir tablets provided similar results.,The effects of ledipasvir and sofosbuvir tablets on atazanavir and ritonavir are similar with or without the presence of emtricitabine/tenofovir DF.,This magnitude of change in tenofovir exposure does not reflect the approximately 60–80% increase caused by the effects of an HIV PI/ritonavir and the effect of food. Therefore, tenofovir exposure is approximately 130% higher when administered as tenofovir DF + atazanavir/ritonavir + ledipasvir and sofosbuvir tablets or tenofovir DF + darunavir/ritonavir + ledipasvir and sofosbuvir tablets and with food as compared to the tenofovir exposure observed following fasted administration of tenofovir DF-based regimens that do not contain an HIV PI/ritonavir and ledipasvir and sofosbuvir tablets. | atazanavir 300 once daily | 90 once daily | 400 once daily | 24 | 1.07 (0.99, 1.14) | 1.27 (1.18, 1.37) | 1.63 (1.45, 1.84) |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Ledipasvir Dose (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Ledipasvir, Sofosbuvir, or Ledipasvir and Sofosbuvir No Effect=1.00 |  |  |
+| Atazanavir/ ritonavir + emtricitabine /tenofovir DFData generated from simultaneous dosing with ledipasvir and sofosbuvir. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and ledipasvir and sofosbuvir provided similar results.,The effects of ledipasvir and sofosbuvir on atazanavir and ritonavir are similar with or without the presence of emtricitabine/tenofovir DF.,This magnitude of change in tenofovir exposure does not reflect the approximately 60–80% increase caused by the effects of an HIV PI/ritonavir and the effect of food. Therefore, tenofovir exposure is approximately 130% higher when administered as tenofovir DF + atazanavir/ritonavir + ledipasvir and sofosbuvir or tenofovir DF + darunavir/ritonavir + ledipasvir and sofosbuvir and with food as compared to the tenofovir exposure observed following fasted administration of tenofovir DF-based regimens that do not contain an HIV PI/ritonavir and ledipasvir and sofosbuvir. | atazanavir 300 once daily | 90 once daily | 400 once daily | 24 | 1.07 (0.99, 1.14) | 1.27 (1.18, 1.37) | 1.63 (1.45, 1.84) |
 | ritonavir 100 once daily | 0.86 (0.79, 0.93) | 0.97 (0.89, 1.05) | 1.45 (1.27, 1.64) |  |  |  |  |
 | tenofovir DF 300 once daily | 1.47 (1.37, 1.58) | 1.35 (1.29, 1.42) | 1.47 (1.38, 1.57) |  |  |  |  |
 | Darunavir/ ritonavir + emtricitabine/ tenofovir DF, | darunavir 800 once daily | 90 once daily | 400 once daily | 23 | 1.01 (0.96, 1.06) | 1.04 (0.99, 1.08) | 1.08 (0.98, 1.20) |
@@ -200,7 +204,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | ND | 400 single dose | 19 | 0.57 (0.44, 0.75) | 0.73 (0.59, 0.91) | 0.95 (0.81, 1.12) |  |  |
 | Simeprevir | 150 once daily | 30 once daily | ND | 22 | 2.61 (2.39, 2.86) | 2.69 (2.44, 2.96) | NA |
 | Tacrolimus | 5 single dose | ND | 400 single dose | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
-| Tenofovir DF | 300 once dailyAdministered as Atripla (efavirenz, emtricitabine, tenofovir DF). The effects of ledipasvir and sofosbuvir tablets on tenofovir exposures are similar when tenofovir is administered as Atripla, Complera®, or Truvada + dolutegravir. | 90 once daily | 400 once daily | 15 | 1.79 (1.56, 2.04) | 1.98 (1.77, 2.23) | 2.63 (2.32, 2.97) |
+| Tenofovir DF | 300 once dailyAdministered as Atripla (efavirenz, emtricitabine, tenofovir DF). The effects of ledipasvir and sofosbuvir on tenofovir exposures are similar when tenofovir is administered as Atripla, Complera®, or Truvada + dolutegravir. | 90 once daily | 400 once daily | 15 | 1.79 (1.56, 2.04) | 1.98 (1.77, 2.23) | 2.63 (2.32, 2.97) |
 | NA = not available/not applicable, ND = not dosed. tenofovir DF = tenofovir disoproxil fumarate |  |  |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with ledipasvir or sofosbuvir: abacavir, cyclosporine, darunavir/ritonavir, dolutegravir, efavirenz, emtricitabine, lamivudine, methadone, or rilpivirine.
@@ -275,11 +279,11 @@ The D61G substitution was previously described in subjects infected with HCV gen
 The E237G substitution was detected in 3 subjects infected with HCV GT1a in the SOLAR-1 and SOLAR-2 trials.
 The clinical significance of these substitutions is currently unknown.
 The sofosbuvir-associated resistance substitution S282T in NS5B was not detected in any failure isolate from the Phase 3 trials.
-NS5B substitutions S282T, L320V/I, and V321I in combination with NS5A substitutions L31M, Y93H, and Q30L were detected in one subject at failure following 8 weeks of treatment with ledipasvir and sofosbuvir tablets in a Phase 2 trial.
+NS5B substitutions S282T, L320V/I, and V321I in combination with NS5A substitutions L31M, Y93H, and Q30L were detected in one subject at failure following 8 weeks of treatment with ledipasvir and sofosbuvir tablets (90 mg/400 mg) in a Phase 2 trial.
 
 Genotype 4, 5 or 6
 
-Resistance analysis was performed for 6 relapse subjects infected with HCV genotype 4 (Study 1119 and ION-4, N=3), genotype 5 (Study 1119, N=2) or genotype 6 (ELECTRON-2, N=1) and treated with ledipasvir and sofosbuvir tablets for 12 weeks.
+Resistance analysis was performed for 6 relapse subjects infected with HCV genotype 4 (Study 1119 and ION-4, N=3), genotype 5 (Study 1119, N=2) or genotype 6 (ELECTRON-2, N=1) and treated with ledipasvir and sofosbuvir tablets (90 mg/400 mg) for 12 weeks.
 All the relapse subjects with NS5A sequencing data (5 of 6) had pretreatment NS5A resistance-associated polymorphisms (single or combinations at positions 24, 28, 30, 31, and 58).
 NS5A resistance substitutions (Y93C or L28V) emerged in two of the genotype 4 relapse subjects post-treatment who also had NS5A polymorphisms pretreatment that were retained post-treatment.
 Two of the relapsers with genotype 4 HCV infection had an NS5B V321I substitution pretreatment, which was retained post-treatment.
@@ -300,16 +304,16 @@ Genotype 1
 Analyses were conducted to explore the association between pre-existing baseline NS5A polymorphisms at resistance-associated positions and relapse rates.
 In the pooled analysis of the Phase 3 trials, 23% (370/1589) of subjects' virus had baseline NS5A polymorphisms at resistance-associated positions (any change from reference at NS5A amino acid positions 24, 28, 30, 31, 58, 92, or 93) identified by population or analysis of deep nucleotide sequences with a 15% frequency threshold.
 
-In treatment-naïve subjects whose virus had baseline NS5A polymorphisms at resistance-associated positions in Studies ION-1 and ION-3, relapse rates were 6% (3/48) after 8 weeks and 1% (1/113) after 12 weeks of treatment with ledipasvir and sofosbuvir tablets.
+In treatment-naïve subjects whose virus had baseline NS5A polymorphisms at resistance-associated positions in Studies ION-1 and ION-3, relapse rates were 6% (3/48) after 8 weeks and 1% (1/113) after 12 weeks of treatment with ledipasvir and sofosbuvir tablets (90 mg/400 mg).
 Relapse rates among subjects without baseline NS5A polymorphisms at resistance-associated positions were 5% (8/167) after 8 weeks and 1% (3/306) after 12 weeks treatment with ledipasvir and sofosbuvir tablets.
 
-In treatment-experienced subjects in Study ION-2 whose virus had baseline NS5A polymorphisms at resistance-associated positions, relapse rates were 22% (5/23) after 12 weeks and 0% (0/19) after 24 weeks of treatment with ledipasvir and sofosbuvir tablets.
-In another study in treatment-experienced subjects (SIRIUS), 0/15 (0%) subjects with NS5A polymorphisms at resistance-associated positions relapsed after 12 weeks of treatment with ledipasvir and sofosbuvir tablets + RBV compared to 2/15 (13%) subjects treated with 24 weeks of ledipasvir and sofosbuvir tablets.
+In treatment-experienced subjects in Study ION-2 whose virus had baseline NS5A polymorphisms at resistance-associated positions, relapse rates were 22% (5/23) after 12 weeks and 0% (0/19) after 24 weeks of treatment with ledipasvir and sofosbuvir tablets (90 mg/400 mg).
+In another study in treatment-experienced subjects (SIRIUS), 0/15 (0%) subjects with NS5A polymorphisms at resistance-associated positions relapsed after 12 weeks of treatment with ledipasvir and sofosbuvir tablets (90 mg/400 mg) + RBV compared to 2/15 (13%) subjects treated with 24 weeks of ledipasvir and sofosbuvir tablets (90 mg/400 mg).
 
 SVR was achieved in all 24 subjects (N=20 with L159F+C316N; N=1 with L159F; and N=3 with N142T) who had baseline polymorphisms associated with resistance to sofosbuvir and/or other NS5B nucleoside inhibitors.
 The NS5B S282T substitution associated with resistance to sofosbuvir was not detected in the baseline NS5B sequence of any subject in Phase 3 trials by population or deep nucleotide sequence analysis.
 
-In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), after 12 weeks of treatment with ledipasvir and sofosbuvir tablets and RBV, relapse rates were 7% (5/71) and 5% (10/217) in genotype 1 subjects with and without baseline NS5A polymorphisms at resistance-associated positions, respectively.
+In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), after 12 weeks of treatment with ledipasvir and sofosbuvir tablets (90 mg/400 mg) and RBV, relapse rates were 7% (5/71) and 5% (10/217) in genotype 1 subjects with and without baseline NS5A polymorphisms at resistance-associated positions, respectively.
 
 In the Phase 3 trials and SOLAR trials, the specific baseline NS5A resistance-associated polymorphisms observed among subjects who relapsed were M28T/V, Q30H/R, L31M, H58D/P, and Y93H/N in genotype 1a, and L28M, L31M, A92T, and Y93H in genotype 1b.
 Subjects with multiple NS5A polymorphisms at resistance-associated positions appeared to have higher relapse rates.
@@ -327,7 +331,7 @@ Thirty-two percent of the subjects had subtype 6a and 24% had subtype 6e.
 One to three subjects were infected with the other subtypes 6l, 6m, 6p, 6q, or 6r.
 The one subject who did not achieve SVR12 had subtype 6l.
 
-Although the data are limited, baseline HCV NS5A resistance-associated polymorphisms are not expected to impact the likelihood of achieving SVR when ledipasvir and sofosbuvir tablets is used as recommended to treat HCV genotype 4, 5, or 6-infected patients, based on the low virologic failure rate observed in Study 1119 and ELECTRON-2.
+Although the data are limited, baseline HCV NS5A resistance-associated polymorphisms are not expected to impact the likelihood of achieving SVR when ledipasvir and sofosbuvir is used as recommended to treat HCV genotype 4, 5, or 6-infected patients, based on the low virologic failure rate observed in Study 1119 and ELECTRON-2.
 The specific baseline polymorphisms observed in subjects with virologic failure were L28M/V, L30R, and P58T for genotype 4; L31M for genotype 5; and Q24K, F28V, R30A, and T58P for genotype 6.
 
 Relapse occurred in 2 of 3 genotype 4 subjects who had baseline NS5B V321I, a polymorphism at a position associated with treatment failure to sofosbuvir and other nucleoside inhibitors; these two subjects also had baseline NS5A resistance-associated polymorphisms.
@@ -336,7 +340,7 @@ The sofosbuvir resistance-associated substitution S282T was not detected in the 
 
 Pediatrics
 
-In Study 1116, the presence of NS5A and NS5B resistance-associated polymorphisms did not impact treatment outcome; all pediatric subjects 12 years of age and older with baseline NS5A or NS5B nucleoside inhibitor resistance-associated polymorphisms (18%; 17/96) achieved SVR following 12 weeks treatment with ledipasvir and sofosbuvir tablets.
+In Study 1116, the presence of NS5A and NS5B resistance-associated polymorphisms did not impact treatment outcome; all pediatric subjects 3 years of age and older with baseline NS5A or NS5B nucleoside inhibitor resistance-associated polymorphisms (14%; 32/223) achieved SVR following 12 weeks treatment with ledipasvir and sofosbuvir tablets.
 
 Cross Resistance
 

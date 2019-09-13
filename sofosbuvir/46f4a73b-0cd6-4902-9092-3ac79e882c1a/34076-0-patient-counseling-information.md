@@ -13,15 +13,15 @@ Advise patients to seek medical evaluation immediately for symptoms of bradycard
 
 Drug Interactions
 
-Inform patients that ledipasvir and sofosbuvir tablets may interact with other drugs.
+Inform patients that ledipasvir and sofosbuvir may interact with other drugs.
 Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John's wort [see Warnings and Precautions (5.2, 5.3) and Drug Interactions (7)].
 
 Pregnancy
 
-Advise patients to avoid pregnancy during combination treatment with ledipasvir and sofosbuvir tablets and ribavirin and for 6 months after completion of treatment.
+Advise patients to avoid pregnancy during combination treatment with ledipasvir and sofosbuvir and ribavirin and for 6 months after completion of treatment.
 Inform patients to notify their healthcare provider immediately in the event of a pregnancy [see Use in Specific Populations (8.1)].
 
 Administration
 
-Advise patients to take ledipasvir and sofosbuvir tablets every day at the regularly scheduled time with or without food.
-Inform patients that it is important not to miss or skip doses and to take ledipasvir and sofosbuvir tablets for the duration that is recommended by the physician.
+Advise patients to take ledipasvir and sofosbuvir every day at the regularly scheduled time with or without food.
+Inform patients that it is important not to miss or skip doses and to take ledipasvir and sofosbuvir for the duration that is recommended by the physician.
