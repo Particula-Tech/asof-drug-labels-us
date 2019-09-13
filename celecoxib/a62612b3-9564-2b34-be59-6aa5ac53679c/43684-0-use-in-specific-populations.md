@@ -70,12 +70,12 @@ No substantial differences in effectiveness were observed between these subjects
 In clinical studies comparing renal function as measured by the GFR, BUN and creatinine, and platelet function as measured by bleeding time and platelet aggregation, the results were not different between elderly and young volunteers.
 However, as with other NSAIDs, including those that selectively inhibit COX-2, there have been more spontaneous post-marketing reports of fatal GI events and acute renal failure in the elderly than in younger patients [see Warnings and Precautions (5.4, 5.6)].
 
-## 8.6 Hepatic Impairment
+## 8.6 Hepatic Insufficiency
 
 The daily recommended dose of celecoxib capsules in patients with moderate hepatic impairment (Child-Pugh Class B) should be reduced by 50%.
 The use of celecoxib capsules in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
-## 8.7 Renal Impairment
+## 8.7 Renal Insufficiency
 
 Celecoxib is not recommended in patients with severe renal insufficiency [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 

@@ -143,6 +143,6 @@ CELECOXIB CAPSULES
 | Weston, Florida |
 | USA 33326 |
 
-Revised: June 2019
+Revised: August 2019
 
-Revision: 9
+Revision: 10
