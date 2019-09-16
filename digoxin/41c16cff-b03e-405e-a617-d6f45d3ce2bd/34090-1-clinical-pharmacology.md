@@ -28,7 +28,7 @@ Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Dig
 | Digoxin Injection/IV | 5 to 30 minutesb | 1 to 4 hours |
 | a Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes. b Depending upon rate of infusion. |  |  |
 
-Hemodynamic Effects: Short-and long-term therapy with the drug increases cardiac output and lowers pulmonary artery pressure, pulmonary capillary wedge pressure, and systemic vascular resistance in patients with heart failure.
+Hemodynamic Effects: Short- and long-term therapy with the drug increases cardiac output and lowers pulmonary artery pressure, pulmonary capillary wedge pressure, and systemic vascular resistance in patients with heart failure.
 These hemodynamic effects are accompanied by an increase in the left ventricular ejection fraction and a decrease in end-systolic and end-diastolic dimensions.
 
 ECG Changes: The use of therapeutic doses of digoxin may cause prolongation of the PR interval and depression of the ST segment on the electrocardiogram.

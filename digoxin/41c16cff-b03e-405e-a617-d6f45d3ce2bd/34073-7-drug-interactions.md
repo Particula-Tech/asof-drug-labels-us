@@ -34,6 +34,7 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Conivaptan | 33% | 43% |  |
 | Diltiazem | 20% | NA |  |
 | Indomethacin | 40% | NA |  |
+| Mirabegron | 29% | 27% |  |
 | Nefazodone | 27% | 15% |  |
 | Nifedipine | 45% | NA |  |
 | Propantheline | 24% | 24% |  |
