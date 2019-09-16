@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206519"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-872-25"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "latanoprost",
+      "name": "Latanoprost"
+    }
+  ],
+  "setid": "19cdfef0-b770-4758-8f59-1769e4b6119c",
+  "source": "dailymed"
+}
