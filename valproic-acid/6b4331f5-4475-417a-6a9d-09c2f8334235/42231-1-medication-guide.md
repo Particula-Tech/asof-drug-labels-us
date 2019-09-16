@@ -251,4 +251,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ©2019 AbbVie Inc.
 
-Revised: February 2019
+Revised: September 2019
