@@ -27,7 +27,7 @@ Ofloxacin has been shown to be active against most strains of the following orga
 | AEROBES, GRAM-POSITIVE: | AEROBES, GRAM-NEGATIVE: |
 | --- | --- |
 | Staphylococcus aureus | Enterobacter cloacae |
-| Staphylococcus epidermidis | Haemophilus influenza |
+| Staphylococcus epidermidis | Haemophilus influenzae |
 | Streptococcus pneumoniae | Proteus mirabilis |
 | ANAEROBIC SPECIES: | Pseudomonas aeruginosa |
 | Propionibacterium acnes | Serratia marcescens* |
