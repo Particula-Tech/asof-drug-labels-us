@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-Vigabatrin tablets, USP are an oral antiepileptic drug and are available as white film-coated 500 mg tablets.
+Vigabatrin Tablets, USP are an oral antiepileptic drug and are available as white film-coated 500 mg tablets.
 
-The chemical name of vigabatrin USP, a racemate consisting of two enantiomers, is (±) 4-amino-5-hexenoic acid.
+The chemical name of vigabatrin, USP, a racemate consisting of two enantiomers, is (±) 4-amino-5-hexenoic acid.
 The molecular formula is C6H11NO2 and the molecular weight is 129.16.
 It has the following structural formula:
 
@@ -12,5 +12,5 @@ The n-octanol/water partition coefficient of vigabatrin, USP is about 0.011 (log
 Vigabatrin, USP melts with decomposition in a 3-degree range within the temperature interval of 171°C to 176°C.
 The dissociation constants (pKa) of vigabatrin, USP are 4 and 9.7 at room temperature (25°C).
 
-Each vigabatrin tablet contains 500 mg of vigabatrin, USP.
+Each Vigabatrin Tablet, USP contains 500 mg of vigabatrin, USP.
 The inactive ingredients are hypromellose 2910, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polyethylene glycol 8000, polysorbate 80, povidone, sodium starch glycolate, and titanium dioxide.

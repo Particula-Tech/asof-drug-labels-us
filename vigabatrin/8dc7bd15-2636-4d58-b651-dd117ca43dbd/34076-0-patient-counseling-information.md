@@ -48,4 +48,5 @@ Manufactured in India by: Watson Pharma Private Limited Verna, Salcette Goa 403 
 
 Manufactured for: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
-Revised — August 2018
+Rev.
+A 8/2019
