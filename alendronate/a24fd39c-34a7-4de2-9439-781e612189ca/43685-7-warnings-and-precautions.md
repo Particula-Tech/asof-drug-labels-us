@@ -9,7 +9,7 @@ Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esoph
 In some cases these have been severe and required hospitalization.
 Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue alendronate sodium and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
 
-The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates including alendronate sodium and/or who fail to swallow oral bisphosphonates including alendronate sodium with the recommended full glass (6-8 oz) of water, and/or who continue to take oral bisphosphonates including alendronate sodium after developing symptoms suggestive of esophageal irritation.
+The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates including alendronate sodium and/or who fail to swallow oral bisphosphonates including alendronate sodium with the recommended full glass (6-8 ounces) of water, and/or who continue to take oral bisphosphonates including alendronate sodium after developing symptoms suggestive of esophageal irritation.
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2.6)].
 In patients who cannot comply with dosing instructions due to mental disability, therapy with alendronate sodium should be used under appropriate supervision.
 
@@ -22,6 +22,7 @@ Other disorders affecting mineral metabolism (such as vitamin D deficiency) shou
 In patients with these conditions, serum calcium and symptoms of hypocalcemia should be monitored during therapy with alendronate sodium.
 
 Presumably due to the effects of alendronate sodium on increasing bone mineral, small, asymptomatic decreases in serum calcium and phosphate may occur, especially in patients with Paget's disease, in whom the pretreatment rate of bone turnover may be greatly elevated, and in patients receiving glucocorticoids, in whom calcium absorption may be decreased.
+
 Ensuring adequate calcium and vitamin D intake is especially important in patients with Paget's disease of bone and in patients receiving glucocorticoids.
 
 ## 5.3 Musculoskeletal Pain
@@ -66,10 +67,11 @@ Interruption of bisphosphonate therapy should be considered, pending a risk/bene
 
 ## 5.6 Renal Impairment
 
-Alendronate sodium is not recommended for patients with creatinine clearance <35 mL/min.
+Alendronate sodium is not recommended for patients with creatinine clearance less than 35 mL/min.
 
 ## 5.7 Glucocorticoid-Induced Osteoporosis
 
 The risk versus benefit of alendronate sodium for treatment at daily dosages of glucocorticoids less than 7.5 mg of prednisone or equivalent has not been established [see Indications and Usage (1.4)].
 Before initiating treatment, the gonadal hormonal status of both men and women should be ascertained and appropriate replacement considered.
+
 A bone mineral density measurement should be made at the initiation of therapy and repeated after 6 to 12 months of combined alendronate sodium and glucocorticoid treatment.

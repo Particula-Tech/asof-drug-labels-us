@@ -29,7 +29,7 @@ The recommended dosage is:
 
 ## 2.4 Treatment of Glucocorticoid-Induced Osteoporosis
 
-The recommended dosage is one 5 mg (alendronate) tablet once daily, except for postmenopausal women not receiving estrogen, for whom the recommended dosage is one 10 mg (alendronate) tablet once daily.
+The recommended dosage is one 5 mg tablet once daily, except for postmenopausal women not receiving estrogen, for whom the recommended dosage is one 10 mg tablet once daily.
 
 ## 2.5 Treatment of Paget's Disease of Bone
 
@@ -48,7 +48,7 @@ Instruct patients to do the following:
   Other beverages (including mineral water), food, and some medications are likely to reduce the absorption of alendronate sodium tablets [see Drug Interactions (7.1)].
   Waiting less than 30 minutes, or taking alendronate sodium tablets with food, beverages (other than plain water) or other medications will lessen the effect of alendronate sodium tablets by decreasing its absorption into the body.
 - Take alendronate sodium tablets upon arising for the day.
-  To facilitate delivery to the stomach and thus reduce the potential for esophageal irritation, an alendronate sodium tablet should be swallowed with a full glass of water (6-8 oz).
+  To facilitate delivery to the stomach and thus reduce the potential for esophageal irritation, an alendronate sodium tablet should be swallowed with a full glass of water (6-8 ounces).
   Patients should not lie down for at least 30 minutes and until after their first food of the day.
   Alendronate sodium tablets should not be taken at bedtime or before arising for the day.
   Failure to follow these instructions may increase the risk of esophageal adverse experiences [see Warnings and Precautions (5.1) and Patient Counseling Information (17.2)].

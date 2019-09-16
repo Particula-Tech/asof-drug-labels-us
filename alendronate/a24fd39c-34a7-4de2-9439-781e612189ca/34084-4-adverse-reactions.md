@@ -9,7 +9,7 @@ Treatment of Osteoporosis in Postmenopausal Women
 Daily Dosing
 
 The safety of alendronate sodium in the treatment of postmenopausal osteoporosis was assessed in four clinical trials that enrolled 7453 women aged 44-84 years.
-Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n=994); Study 3 was the three year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n=2027) and Study 4 was the four-year clinical fracture cohort of FIT (n=4432).
+Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n=994); Study 3 was the three-year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n=2027) and Study 4 was the four-year clinical fracture cohort of FIT (n=4432).
 Overall, 3620 patients were exposed to placebo and 3432 patients exposed to alendronate sodium.
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials.
 In Study 1 and Study 2 all women received 500 mg elemental calcium as carbonate.
@@ -20,7 +20,7 @@ The percentage of patients who discontinued the study due to any clinical advers
 Adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either alendronate sodium or placebo are presented in Table 1.
 
 Table 1.
-Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥ 1% of Patients
+Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | Alendronate sodium 10 mg/day for three years % (n=196) | Placebo % (n=397) | Alendronate sodium 5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years. % (n=3236) | Placebo % (n=3223) |
 | --- | --- | --- | --- | --- |
@@ -55,15 +55,15 @@ In the Study 1 and Study 2 populations, 49-54% had a history of gastrointestinal
 [See Warnings and Precautions (5.1).]
 
 Laboratory Test Findings: In double-blind, multicenter, controlled studies, asymptomatic, mild, and transient decreases in serum calcium and phosphate were observed in approximately 18% and 10%, respectively, of patients taking alendronate sodium versus approximately 12% and 3% of those taking placebo.
-However, the incidences of decreases in serum calcium to <8.0 mg/dL (2.0 mM) and serum phosphate to ≤2.0 mg/dL (0.65 mM) were similar in both treatment groups.
+However, the incidences of decreases in serum calcium to less than 8.0 mg/dL (2.0 mM) and serum phosphate to less than or equal to 2.0 mg/dL (0.65 mM) were similar in both treatment groups.
 
 Weekly Dosing
 
 The safety of alendronate 70 mg once weekly for the treatment of postmenopausal osteoporosis was assessed in a one-year, double-blind, multicenter study comparing alendronate 70 mg once weekly and alendronate 10 mg daily.
 The overall safety and tolerability profiles of once weekly alendronate 70 mg and alendronate 10 mg daily were similar.
-The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients in either treatment group are presented in Table 2.
+The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients in either treatment group are presented in Table 2.
 
-Table 2: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥ 1% of Patients
+Table 2: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | 70 mg % (n=519) | 10 mg/day % (n=370) |
 | --- | --- | --- |
@@ -95,10 +95,10 @@ Weekly Dosing
 The safety of alendronate 35 mg once weekly compared to alendronate 5 mg daily was evaluated in a one-year, double-blind, multicenter study of 723 patients.
 The overall safety and tolerability profiles of once weekly alendronate 35 mg and alendronate 5 mg daily were similar.
 
-The adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either once weekly alendronate 35 mg, alendronate 5 mg/day or placebo are presented in Table 3.
+The adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either once weekly alendronate 35 mg, alendronate 5 mg/day or placebo are presented in Table 3.
 
 Table 3.
-Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥ 1% of Patients
+Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | Alendronate 5 mg/day % (n=642) | Placebo % (n=648) | Alendronate 5 mg/day % (n=361) | Once Weekly Alendronate 35 mg % (n=362) |
 | --- | --- | --- | --- | --- |
@@ -121,10 +121,10 @@ In two studies (of one and two years' duration) of postmenopausal osteoporotic w
 Osteoporosis in Men
 
 In two placebo-controlled, double-blind, multicenter studies in men (a two-year study of alendronate 10 mg/day and a one-year study of once weekly alendronate 70 mg) the rates of discontinuation of therapy due to any clinical adverse event were 2.7% for alendronate 10 mg/day vs. 10.5% for placebo, and 6.4% for once weekly alendronate 70 mg vs. 8.6% for placebo.
-The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in ≥2% of patients treated with either alendronate or placebo are presented in Table 4.
+The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 2% of patients treated with either alendronate or placebo are presented in Table 4.
 
 Table 4.
-Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥ 2% of Patients
+Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 2% of Patients
 
 |  | Alendronate 10 mg/day % (n=146) | Placebo % (n=95) | Once Weekly Alendronate 70 mg % (n=109) | Once Weekly % (n=58) |
 | --- | --- | --- | --- | --- |
@@ -141,10 +141,10 @@ Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or 
 Glucocorticoid-Induced Osteoporosis
 
 In two, one-year, placebo-controlled, double-blind, multicenter studies in patients receiving glucocorticoid treatment, the overall safety and tolerability profiles of alendronate 5 and 10 mg/day were generally similar to that of placebo.
-The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either alendronate 5 or 10 mg/day or placebo are presented in Table 5.
+The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate 5 or 10 mg/day or placebo are presented in Table 5.
 
 Table 5.
-One-Year Studies in Glucocorticoid -Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥ 1% of Patients
+One-Year Studies in Glucocorticoid -Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | % (n=157) | % (n=161) | % (n=159) |
 | --- | --- | --- | --- |

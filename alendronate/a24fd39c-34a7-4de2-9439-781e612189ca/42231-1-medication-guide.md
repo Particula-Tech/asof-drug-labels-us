@@ -16,30 +16,43 @@ Alendronate sodium tablets can cause serious side effects including:
 5. Unusual thigh bone fractures
 
 - Esophagus problems.
-  Some people who take alendronate sodium tablets may develop problems in the esophagus (the tube that connects the mouth and the stomach).
-  These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
-  - It is important that you take alendronate sodium tablets exactly as prescribed to help lower your chance of getting esophagus problems.
-    (See the section " How should I take alendronate sodium tablets?")
-  - Stop taking alendronate sodium tablets and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
+
+Some people who take alendronate sodium tablets may develop problems in the esophagus (the tube that connects the mouth and the stomach).
+These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
+
+- It is important that you take alendronate sodium tablets exactly as prescribed to help lower your chance of getting esophagus problems.
+  (See the section " How should I take alendronate sodium tablets?")
+- Stop taking alendronate sodium tablets and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
+
 - Low calcium levels in your blood (hypocalcemia).
-  Alendronate sodium tablets may lower the calcium levels in your blood.
-  If you have low blood calcium before you start taking alendronate sodium tablets, it may get worse during treatment.
-  Your low blood calcium must be treated before you take alendronate sodium tablets.
-  Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
-  Call your doctor right away if you have symptoms of low blood calcium such as: Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take alendronate sodium tablets.
-  Take calcium and vitamin D as your doctor tells you to.
-  - Spasms, twitches, or cramps in your muscles
-  - Numbness or tingling in your fingers, toes, or around your mouth
+
+Alendronate sodium tablets may lower the calcium levels in your blood.
+If you have low blood calcium before you start taking alendronate sodium tablets, it may get worse during treatment.
+Your low blood calcium must be treated before you take alendronate sodium tablets.
+Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
+Call your doctor right away if you have symptoms of low blood calcium such as:
+
+- Spasms, twitches, or cramps in your muscles
+- Numbness or tingling in your fingers, toes, or around your mouth
+
+Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take alendronate sodium tablets.
+Take calcium and vitamin D as your doctor tells you to.
+
 - Bone, joint, or muscle pain.
-  Some people who take alendronate sodium tablets develop severe bone, joint, or muscle pain.
+
+Some people who take alendronate sodium tablets develop severe bone, joint, or muscle pain.
+
 - Severe jaw bone problems (osteonecrosis).
-  Severe jaw bone problems may happen when you take alendronate sodium tablets.
-  Your doctor should examine your mouth before you start alendronate sodium tablets.
-  Your doctor may tell you to see your dentist before you start alendronate sodium tablets.
-  It is important for you to practice good mouth care during treatment with alendronate sodium tablets.
+
+Severe jaw bone problems may happen when you take alendronate sodium tablets.
+Your doctor should examine your mouth before you start alendronate sodium tablets.
+Your doctor may tell you to see your dentist before you start alendronate sodium tablets.
+It is important for you to practice good mouth care during treatment with alendronate sodium tablets.
+
 - Unusual thigh bone fractures.
-  Some people have developed unusual fractures in their thigh bone.
-  Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+
+Some people have developed unusual fractures in their thigh bone.
+Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -78,7 +91,8 @@ Before you start alendronate sodium tablets, be sure to talk to your doctor if y
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Are pregnant, trying to become pregnant or suspect that you are pregnant.
+  If you become pregnant while taking alendronate sodium tablets, stop taking it and contact your doctor.
   It is not known if alendronate sodium tablets can harm your unborn baby.
 - Are breast-feeding or plan to breast-feed.
   It is not known if alendronate sodium passes into your milk and may harm your baby.
@@ -104,11 +118,11 @@ How should I take alendronate sodium tablets?
 - Do not chew or suck on a tablet of alendronate sodium.
 - Swallow alendronate sodium tablet with a full glass (6-8 oz) of plain water only.
 - Do not take alendronate sodium tablets with mineral water, coffee, tea, soda, or juice.
-  - If you take Alendronate Sodium Tablets Daily:
-    - Take 1 alendronate sodium tablet one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
-  - If you take Once Weekly Alendronate Sodium Tablets:
-    - Choose the day of the week that best fits your schedule.
-    - Take 1 dose of alendronate sodium tablets every week on your chosen day after you get up for the day and before taking your first food, drink, or other medicine.
+- If you take Alendronate Sodium Tablets Daily:
+- Take 1 alendronate sodium tablet one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
+- If you take Once Weekly Alendronate Sodium Tablets:
+- Choose the day of the week that best fits your schedule.
+- Take 1 dose of alendronate sodium tablets every week on your chosen day after you get up for the day and before taking your first food, drink, or other medicine.
 
 After swallowing alendronate sodium tablet, wait at least 30 minutes:
 
@@ -157,7 +171,7 @@ You may report side effects to Hangzhou Minsheng Binjiang Pharmaceutical Co., Lt
 How do I store alendronate sodium tablets?
 
 - Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F).
-  - Keep alendronate sodium tablets in a tightly closed container.
+- Keep alendronate sodium tablets in a tightly closed container.
 
 Keep alendronate sodium tablets and all medicines out of the reach of children.
 
@@ -182,8 +196,12 @@ Inactive ingredients: microcrystalline cellulose, croscarmellose sodium, and mag
 
 Rx only
 
-Manufactured by: Hangzhou Minsheng Binjiang Pharmaceutical Co., Ltd. Hangzhou, 310051, CHINA
+Manufactured by:
+
+Hangzhou Minsheng Binjiang Pharmaceutical Co., Ltd.
+
+Hangzhou, 310051, CHINA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV100917
+REV091219
