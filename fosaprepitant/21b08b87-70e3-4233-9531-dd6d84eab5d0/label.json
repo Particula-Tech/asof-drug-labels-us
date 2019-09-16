@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212309"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "BE Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71839-104-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant",
+      "name": "fosaprepitant"
+    }
+  ],
+  "setid": "21b08b87-70e3-4233-9531-dd6d84eab5d0",
+  "source": "dailymed"
+}
