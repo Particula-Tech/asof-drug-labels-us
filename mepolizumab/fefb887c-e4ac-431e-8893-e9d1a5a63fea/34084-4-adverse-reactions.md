@@ -9,7 +9,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Clinical Trials Experience in Severe Asthma
 
-A total of 1,327 subjects with asthma were evaluated in 3 randomized, placebo-controlled, multicenter trials of 24 to 52 weeks’ duration (Trials 1, 2, and 3).
+Adult and Adolescent Subjects Aged 12 Years and Older
+
+A total of 1,327 subjects with severe asthma were evaluated in 3 randomized, placebo-controlled, multicenter trials of 24 to 52 weeks’ duration (Trial 1, NCT #01000506; Trial 2, NCT #01691521; and Trial 3, NCT #01691508).
 Of these, 1,192 had a history of 2 or more exacerbations in the year prior to enrollment despite regular use of high-dose ICS plus additional controller(s) (Trials 1 and 2), and 135 subjects required daily oral corticosteroids (OCS) in addition to regular use of high-dose ICS plus additional controller(s) to maintain asthma control (Trial 3).
 All subjects had markers of eosinophilic airway inflammation [see Clinical Studies (14.1)].
 Of the subjects enrolled, 59% were female, 85% were white, and ages ranged from 12 to 82 years.
@@ -20,7 +22,7 @@ Approximately 2% of subjects receiving NUCALA 100 mg withdrew from clinical tria
 The incidence of adverse reactions in the first 24 weeks of treatment in the 2 confirmatory efficacy and safety trials (Trials 2 and 3) with NUCALA 100 mg is shown in Table 1.
 
 Table 1.
-Adverse Reactions with NUCALA with ≥3% Incidence and More Common than Placebo in Subjects with Asthma (Trials 2 and 3)
+Adverse Reactions with NUCALA with ≥3% Incidence and More Common than Placebo in Subjects with Severe Asthma (Trials 2 and 3)
 
 | Adverse Reaction | NUCALA(Mepolizumab 100 mg Subcutaneous)(n = 263)% | Placebo(n = 257)% |
 | --- | --- | --- |
@@ -35,28 +37,28 @@ Adverse Reactions with NUCALA with ≥3% Incidence and More Common than Placebo 
 | Eczema | 3 | <1 |
 | Muscle spasms | 3 | <1 |
 
-52-Week Trial
-
-Adverse reactions from Trial 1 with 52 weeks of treatment with mepolizumab 75 mg intravenous (IV) (n = 153) or placebo (n = 155) and with ≥3% incidence and more common than placebo and not shown in Table 1 were: abdominal pain, allergic rhinitis, asthenia, bronchitis, cystitis, dizziness, dyspnea, ear infection, gastroenteritis, lower respiratory tract infection, musculoskeletal pain, nasal congestion, nasopharyngitis, nausea, pharyngitis, pyrexia, rash, toothache, viral infection, viral respiratory tract infection, and vomiting.
+52-Week Trial: Adverse reactions from Trial 1 with 52 weeks of treatment with mepolizumab 75 mg intravenous (IV) (n = 153) or placebo (n = 155) and with ≥3% incidence and more common than placebo and not shown in Table 1 were: abdominal pain, allergic rhinitis, asthenia, bronchitis, cystitis, dizziness, dyspnea, ear infection, gastroenteritis, lower respiratory tract infection, musculoskeletal pain, nasal congestion, nasopharyngitis, nausea, pharyngitis, pyrexia, rash, toothache, viral infection, viral respiratory tract infection, and vomiting.
 In addition, 3 cases of herpes zoster occurred in subjects receiving mepolizumab 75 mg IV compared with 2 subjects in the placebo group.
 
-Systemic Reactions, including Hypersensitivity Reactions
-
-In Trials 1, 2, and 3 described above, the percentage of subjects who experienced systemic (allergic and non-allergic) reactions was 5% in the placebo group and 3% in the group receiving NUCALA 100 mg.
+Systemic Reactions, including Hypersensitivity Reactions: In Trials 1, 2, and 3 described above, the percentage of subjects who experienced systemic (allergic and non-allergic) reactions was 5% in the placebo group and 3% in the group receiving NUCALA 100 mg.
 Systemic allergic/hypersensitivity reactions were reported by 2% of subjects in the placebo group and 1% of subjects in the group receiving NUCALA 100 mg.
 The most commonly reported manifestations of systemic allergic/hypersensitivity reactions reported in the group receiving NUCALA 100 mg included rash, pruritus, headache, and myalgia.
 Systemic non-allergic reactions were reported by 2% of subjects in the group receiving NUCALA 100 mg and 3% of subjects in the placebo group.
 The most commonly reported manifestations of systemic non-allergic reactions reported in the group receiving NUCALA 100 mg included rash, flushing, and myalgia.
 A majority of the systemic reactions in subjects receiving NUCALA 100 mg (5/7) were experienced on the day of dosing.
 
-Injection Site Reactions
+Injection Site Reactions: Injection site reactions (e.g., pain, erythema, swelling, itching, burning sensation) occurred at a rate of 8% in subjects receiving NUCALA 100 mg compared with 3% in subjects receiving placebo.
 
-Injection site reactions (e.g., pain, erythema, swelling, itching, burning sensation) occurred at a rate of 8% in subjects receiving NUCALA 100 mg compared with 3% in subjects receiving placebo.
+Long-term Safety: Nine hundred ninety-eight subjects received NUCALA 100 mg in ongoing open-label extension studies, during which additional cases of herpes zoster were reported.
+The overall adverse event profile has been similar to the severe asthma trials described above.
 
-Long-term Safety
+Pediatric Subjects Aged 6 to 11 Years
 
-Nine hundred ninety-eight subjects received NUCALA 100 mg in ongoing open-label extension studies, during which additional cases of herpes zoster were reported.
-The overall adverse event profile has been similar to the asthma trials described above.
+The safety data for NUCALA is based upon 1 open-label clinical trial that enrolled 36 subjects with severe asthma aged 6 to 11 years.
+Subjects received 40 mg (for those weighing <40 kg) or 100 mg (for those weighing ≥40 kg) of NUCALA administered subcutaneously once every 4 weeks.
+Subjects received NUCALA for 12 weeks (initial short phase).
+After a treatment interruption of 8 weeks, 30 subjects received NUCALA for a further 52 weeks (long phase).
+The adverse reaction profile for subjects aged 6 to 11 years was similar to that observed in subjects aged 12 years and older.
 
 ## 6.2 Clinical Trials Experience in Eosinophilic Granulomatosis with Polyangiitis
 
@@ -81,11 +83,13 @@ Injection site reactions (e.g., pain, erythema, swelling) occurred at a rate of 
 
 ## 6.3 Immunogenicity
 
-In subjects with asthma receiving NUCALA 100 mg, 15/260 (6%) developed anti-mepolizumab antibodies.
+In adult and adolescent subjects with severe asthma receiving NUCALA 100 mg, 15/260 (6%) had detectable anti-mepolizumab antibodies.
 Neutralizing antibodies were detected in 1 subject with asthma receiving NUCALA 100 mg.
 Anti-mepolizumab antibodies slightly increased (approximately 20%) the clearance of mepolizumab.
 There was no evidence of a correlation between anti-mepolizumab antibody titers and change in eosinophil level.
 The clinical relevance of the presence of anti-mepolizumab antibodies is not known.
+In the clinical trial of children aged 6 to 11 years with severe asthma receiving NUCALA 40 or 100 mg, 2/35 (6%) had detectable anti‑mepolizumab antibodies during the initial short phase of the trial.
+No children had detectable anti‑mepolizumab antibodies during the long phase of the trial.
 
 In subjects with EGPA receiving 300 mg of NUCALA, 1/68 (<2%) had detectable anti-mepolizumab antibodies.
 No neutralizing antibodies were detected in any subjects with EGPA.

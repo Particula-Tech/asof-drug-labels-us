@@ -9,14 +9,14 @@ NUCALA for injection is supplied as:
 
 100-mg single-dose vials in cartons of 1 (NDC 0173-0881-01).
 
-Store vials below (77°F) (25°C).
+Store vials below 77°F (25°C).
 Do not freeze.
 Store in the original carton to protect from light.
 
 NUCALA Injection
 
 NUCALA (mepolizumab) injection is a sterile, preservative-free, clear to opalescent, colorless to pale yellow to pale brown solution for SC use.
-Each single-dose prefilled autoinjector or single dose prefilled syringe is designed to deliver 100 mg of mepolizumab in 1 mL of solution.
+Each single-dose prefilled autoinjector or single-dose prefilled syringe is designed to deliver 100 mg of mepolizumab in 1 mL of solution.
 The autoinjectors and syringes are not made with natural rubber latex.
 
 NUCALA injection is supplied as:

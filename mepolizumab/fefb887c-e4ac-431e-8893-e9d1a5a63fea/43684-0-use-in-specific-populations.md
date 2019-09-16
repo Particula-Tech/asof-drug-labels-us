@@ -44,16 +44,32 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy in pediatric patients younger than 12 years with asthma have not been established.
-A total of 28 adolescents aged 12 to 17 years with asthma were enrolled in the Phase 3 asthma studies.
-Of these, 25 were enrolled in the 32-week exacerbation trial (Trial 2) and had a mean age of 14.8 years.
-Subjects had a history of 2 or more exacerbations in the previous year despite regular use of high-dose ICS plus additional controller(s) with or without OCS and had blood eosinophils of ≥150 cells/mcL at screening or ≥300 cells/mcL within 12 months prior to enrollment.
+Severe Asthma
+
+The safety and efficacy of NUCALA for severe asthma, and with an eosinophilic phenotype, have been established in pediatric patients aged 6 years and older.
+
+Use of NUCALA in adolescents aged 12 to 17 years is supported by evidence from adequate and well-controlled trials in adults and adolescents.
+A total of 28 adolescents aged 12 to 17 years with severe asthma were enrolled in the Phase 3 asthma trials.
+Of these, 25 were enrolled in the 32-week exacerbation trial (Trial 2, NCT #01691521) and had a mean age of 14.8 years.
+Subjects had a history of 2 or more exacerbations in the previous year despite regular use of medium- or high-dose ICS plus additional controller(s) with or without OCS and had blood eosinophils of ≥150 cells/mcL at screening or ≥300 cells/mcL within 12 months prior to enrollment.
 [See Clinical Studies (14.1).]
 Subjects had a reduction in the rate of exacerbations that trended in favor of mepolizumab.
-Of the 19 adolescents who received mepolizumab, 9 received NUCALA 100 mg and the mean apparent clearance in these subjects was 35% less than that of adults.
-The adverse event profile in adolescents was generally similar to the overall population in the Phase 3 studies [see Adverse Reactions (6.1)].
+Of the 19 adolescents who received mepolizumab, 9 received 100 mg and the mean apparent clearance in these subjects was 35% less than that of adults.
+The safety profile observed in adolescents was generally similar to that of the overall population in the Phase 3 studies [see Adverse Reactions (6.1)].
 
-The safety and efficacy in pediatric patients other than those with asthma have not been established.
+Use of NUCALA in children aged 6 to 11 years with severe asthma, and with an eosinophilic phenotype, is supported by evidence from adequate and well-controlled trials in adults and adolescents with additional pharmacokinetic, pharmacodynamic, and safety data in children aged 6 to 11 years.
+A single, open-label clinical trial (NCT #02377427) was conducted in 36 children aged 6 to 11 years (mean age: 8.6 years, 31% female) with severe asthma.
+Enrollment criteria were the same as for adolescents in the 32-week exacerbation trial (Trial 2).
+Based upon the pharmacokinetic data from this trial, a dose of 40 mg SC every 4 weeks was determined to have similar exposure to adults and adolescents administered a dose of 100 mg SC [see Clinical Pharmacology (12.3)].
+
+The efficacy of NUCALA in children aged 6 to 11 years is extrapolated from efficacy in adults and adolescents with support from pharmacokinetic analyses showing similar drug exposure levels for 40 mg administered subcutaneously every 4 weeks in children aged 6 to 11 years compared with adults and adolescents [see Clinical Pharmacology (12.3)].
+The safety profile and pharmacodynamic response observed in this trial for children aged 6 to 11 years were similar to that seen in adults and adolescents [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
+
+The safety and efficacy in pediatric patients aged younger than 6 years with severe asthma have not been established.
+
+Eosinophilic Granulomatosis with Polyangiitis
+
+The safety and efficacy in patients aged younger than 18 years with EGPA have not been established.
 
 ## 8.5 Geriatric Use
 
