@@ -22,7 +22,7 @@ Stop taking NOCDURNA and call your healthcare provider if you have any of the fo
 - dizziness
 - change in your mental condition such as hallucinations, confusion, decreased awareness or alertness
 
-- You should not take NOCDURNA if you are at risk for very low salt levels in your blood, for example, if you drink a lot of fluid, have illnesses that can cause you to have fluid or body salt (electrolyte) imbalances, if you take a certain type of “water-pill” called a loop diuretic or take glucocorticoids including inhaled steroids.
+- You should not take NOCDURNA if you are at risk for very low salt levels in your blood, for example, if you drink a lot of fluid, have illnesses that can cause you to have fluid or body salt (electrolyte) imbalances, if you take a certain type of "water-pill" called a loop diuretic or take glucocorticoids including inhaled steroids.
 - Tell your healthcare provider if you have a fever, infection, or diarrhea while taking NOCDURNA as these can cause you to have fluid or body salt (electrolyte) imbalance.
   Your healthcare provider may tell you not to take NOCDURNA while you have these symptoms.
 - Your healthcare provider should check your blood salt levels:
@@ -32,7 +32,7 @@ Stop taking NOCDURNA and call your healthcare provider if you have any of the fo
 - 1 month after you start NOCDURNA.
 - every so often as told to you by your healthcare provider, with testing more often if you are already at risk for low salt levels, for example if you are 65 years or older or take certain medicines that increase your risk of low salt levels.
 
-See “What are the possible side effects of NOCDURNA?” for more information about side effects.
+See "What are the possible side effects of NOCDURNA?" for more information about side effects.
 
 What is NOCDURNA?
 
@@ -115,7 +115,7 @@ What are the possible side effects of NOCDURNA?
 
 NOCDURNA may cause serious side effects, including:
 
-- See “What is the most important information I should know about NOCDURNA?”
+- See "What is the most important information I should know about NOCDURNA?"
 
 The most common side effects of NOCDURNA include:
 
