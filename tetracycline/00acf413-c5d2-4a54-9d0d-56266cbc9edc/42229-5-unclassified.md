@@ -8,6 +8,6 @@ Rx only
 
 Manufactured by: RA Chem Pharma Ltd. Plot No. A-19/C Road No.18, IDA Nacharam Hyderabad 500 076 Telangana, India
 
-Distributed by: Breckenridge Pharmaceutical, Inc. Boca Raton, FL 33487
+Distributed by: Breckenridge Pharmaceutical, Inc. Berlin, CT 06037
 
-Revised: 07/18
+Revised: 07/19

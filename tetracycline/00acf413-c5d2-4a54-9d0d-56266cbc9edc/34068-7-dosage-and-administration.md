@@ -1,13 +1,9 @@
 # DOSAGE AND ADMINISTRATION
 
-## Adults
-
-Usual daily dose, 1 gram as 500 mg twice a day or 250 mg four times a day.
+Adults: Usual daily dose, 1 gram as 500 mg twice a day or 250 mg four times a day.
 Higher doses such as 500 mg four times a day may be required for severe infections or for those infections which do not respond to the smaller doses.
 
-## For pediatric patients above eight years of age
-
-Usual daily dose, 10 mg/lb to 20 mg/lb (25mg/kg to 50 mg/kg) body weight divided in four equal doses.
+For pediatric patients above eight years of age: Usual daily dose, 10 mg/lb to 20 mg/lb (25mg/kg to 50 mg/kg) body weight divided in four equal doses.
 
 Administration of adequate amounts of fluid with the capsule formulation of tetracycline is recommended to wash down the drug and reduce the risk of esophageal irritation and ulceration (see ADVERSE REACTIONS).
 
@@ -23,9 +19,7 @@ Syphilis of more than one year's duration (except neurosyphilis), 500 mg four ti
 
 For treatment of gonorrhea, the recommended dose is 500 mg by mouth four times a day for seven days.
 
-## Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydiatrachomatis
-
-500 mg, by mouth, four times a day for at least seven days.
+Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydiatrachomatis: 500 mg, by mouth, four times a day for at least seven days.
 
 In cases of moderate to severe acne which, in the judgement of the clinician, require long-term treatment, the recommended initial dosage is 1 gram daily in divided doses.
 When improvement is noted, reduce dosage gradually to maintenance levels ranging from 125 mg to 500 mg daily.
