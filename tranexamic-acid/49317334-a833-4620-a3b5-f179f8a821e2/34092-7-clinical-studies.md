@@ -2,7 +2,7 @@
 
 The efficacy and safety of LYSTEDA in the treatment of heavy menstrual bleeding (HMB) was demonstrated in one 3-cycle treatment and one 6-cycle treatment, randomized, double-blind, placebo-controlled study [see Adverse Reactions (6.1)].
 In these studies, HMB was defined as an average menstrual blood loss of ≥ 80 mL as assessed by alkaline hematin analysis of collected sanitary products over two baseline menstrual cycles.
-Subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a BMI of approximately 32 kg/m 2.
+Subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a BMI of approximately 32 kg/m2.
 On average, subjects had an HMB history of approximately 10 years and 40% had fibroids as determined by transvaginal ultrasound.
 Approximately 70% were Caucasian, 25% were Black, and 5% were Asian, Native American, Pacific Islander, or Other.
 Seven percent (7%) of all subjects were of Hispanic origin.
@@ -28,7 +28,7 @@ Mean Reduction from Baseline in MBL
 
 | Treatment Arm | N | Baseline Mean MBL (mL) | Least Squares Mean Reduction in MBL (mL) | Percent Reduction in MBL |
 | --- | --- | --- | --- | --- |
-| LYSTEDA 3900 mg/day | 112 | 169 | 65 p<0.001 versus placebo | 39% |
+| LYSTEDA 3900 mg/day | 112 | 169 | 65p<0.001 versus placebo | 39% |
 | LYSTEDA 1950 mg/day | 115 | 178 | 44 | 25% |
 | Placebo | 67 | 154 | 7 | 5% |
 
@@ -40,14 +40,14 @@ Table 5: Secondary Outcomes in 3-Cycle Study
 | Outcome Measure | N | Baseline Mean Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited | Least Squares Mean Reduction Positive means reflect an improvement from baseline. |
 | --- | --- | --- | --- |
 | Social and Leisure Activities |  |  |  |
-| 3900 mg/day LYSTEDA | 112 | 3.00 | 0.98 p-value <0.05 versus placebo |
+| 3900 mg/day LYSTEDA | 112 | 3.00 | 0.98p-value <0.05 versus placebo |
 | Placebo | 66 | 2.85 | 0.39 |
 | Physical Activities |  |  |  |
 | 3900 mg/day LYSTEDA | 112 | 3.07 | 0.94 |
 | Placebo | 66 | 2.96 | 0.34 |
 |  | N |  | Responders Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |
 | Reduction in Large Stains |  |  |  |
-| 3900 mg/day LYSTEDA | 111 |  | 64% Non-significant difference versus placebo |
+| 3900 mg/day LYSTEDA | 111 |  | 64%Non-significant difference versus placebo |
 | Placebo | 67 |  | 52% |
 
 ## 14.2 Six-Cycle Treatment Study
@@ -64,7 +64,7 @@ Mean Reduction from Baseline in MBL
 
 | Treatment Arm | N | Baseline Mean MBL (mL) | Least Squares Mean Reduction in MBL (mL) | Percent Reduction in MBL |
 | --- | --- | --- | --- | --- |
-| LYSTEDA 3900 mg/day | 115 | 172 | 66 p<0.001 versus placebo | 38% |
+| LYSTEDA 3900 mg/day | 115 | 172 | 66p<0.001 versus placebo | 38% |
 | Placebo | 72 | 153 | 18 | 12% |
 
 Limitations on social, leisure, and physical activities were also statistically significantly reduced in the LYSTEDA group compared to placebo (see Table 7).
@@ -76,14 +76,14 @@ Secondary Outcomes in 6-Cycle Study
 | Outcome Measure | N | Baseline Mean Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited | Least Squares Mean Reduction Positive means reflect an improvement from baseline |
 | --- | --- | --- | --- |
 | Social and Leisure Activities |  |  |  |
-| 3900 mg/day LYSTEDA | 115 | 2.92 | 0.85 p-value <0.05 versus placebo |
+| 3900 mg/day LYSTEDA | 115 | 2.92 | 0.85p-value <0.05 versus placebo |
 | Placebo | 72 | 2.74 | 0.44 |
 | Physical Activities |  |  |  |
 | 3900 mg/day LYSTEDA | 115 | 3.05 | 0.87 |
 | Placebo | 72 | 2.90 | 0.40 |
 |  | N |  | Responders Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains |
 | Reduction in Large Stains |  |  |  |
-| 3900 mg/day LYSTEDA | 115 |  | 57% Non-significant difference versus placebo |
+| 3900 mg/day LYSTEDA | 115 |  | 57%Non-significant difference versus placebo |
 | Placebo | 72 |  | 51% |
 
 ## 14.3 MBL Results over Time

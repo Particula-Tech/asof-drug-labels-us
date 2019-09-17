@@ -6,7 +6,7 @@ Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes th
 In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin's matrix structure.
 
 The antifibrinolytic effects of tranexamic acid are mediated by reversible interactions at multiple binding sites within plasminogen.
-Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (K d = 750 μmol/L) and 1 with high affinity (K d = 1.1 μmol/L).
+Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (Kd = 750 μmol/L) and 1 with high affinity (Kd = 1.1 μmol/L).
 The high affinity lysine site of plasminogen is involved in its binding to fibrin.
 Saturation of the high affinity binding site with tranexamic acid displaces plasminogen from the surface of fibrin.
 Although plasmin may be formed by conformational changes in plasminogen, binding to and dissolution of the fibrin matrix is inhibited.
@@ -32,9 +32,10 @@ Moxifloxacin, the active control, was associated with a maximum 14.11 msec mean 
 
 Absorption
 
-After a single oral administration of two 650 mg tablets of LYSTEDA, the peak plasma concentration (C max) occurred at approximately 3 hours (T max). The absolute bioavailability of LYSTEDA in women aged 18-49 is approximately 45%.
-Following multiple oral doses (two 650 mg tablets three times daily) administration of LYSTEDA for 5 days, the mean C max increased by approximately 19% and the mean area under the plasma concentration-time curve (AUC) remained unchanged, compared to a single oral dose administration (two 650 mg tablets).
-Plasma concentrations reached steady state at the 5 th dose of LYSTEDA on Day 2.
+After a single oral administration of two 650 mg tablets of LYSTEDA, the peak plasma concentration (Cmax) occurred at approximately 3 hours (Tmax).
+The absolute bioavailability of LYSTEDA in women aged 18-49 is approximately 45%.
+Following multiple oral doses (two 650 mg tablets three times daily) administration of LYSTEDA for 5 days, the mean Cmax increased by approximately 19% and the mean area under the plasma concentration-time curve (AUC) remained unchanged, compared to a single oral dose administration (two 650 mg tablets).
+Plasma concentrations reached steady state at the 5th dose of LYSTEDA on Day 2.
 
 The mean plasma pharmacokinetic parameters of tranexamic acid determined in 19 healthy women following a single (two 650 mg tablets) and multiple (two 650 mg tablets three times daily for 5 days) oral dose of LYSTEDA are shown in Table 3.
 
@@ -44,19 +45,19 @@ Mean (CV%) Pharmacokinetic Parameters Following a Single (two 650 mg tablets) an
 | Single dose | Multiple dose |  |
 | --- | --- | --- |
 | Parameter | Arithmetic Mean (CV%) |  |
-| C max (mcg/mL) | 13.83 (32.14) | 16.41 (26.19) |
-| AUC tldc (mcg∙h/mL) | 77.96 (31.14) | 77.67 AUC 0-tau (mcg∙h/mL) = area under the drug concentration curve from time 0 to 8 hours (29.39) |
-| AUC inf (mcg∙h/mL) | 80.19 (30.43) | - |
-| T max (h) Data presented as median (range) | 2.5 (1 – 5) | 2.5 (2 – 3.5) |
-| t 1/2 (h) | 11.08 (16.94) | - |
-| C max = maximum concentration |  |  |
-| AUC tldc = area under the drug concentration curve from time 0 to time of last determinable concentration |  |  |
-| AUC inf = area under the drug concentration curve from time 0 to infinity |  |  |
-| T max = time to maximum concentration |  |  |
-| t 1/2 = terminal elimination half-life |  |  |
+| Cmax (mcg/mL) | 13.83 (32.14) | 16.41 (26.19) |
+| AUCtldc (mcg∙h/mL) | 77.96 (31.14) | 77.67 AUC 0-tau (mcg∙h/mL) = area under the drug concentration curve from time 0 to 8 hours (29.39) |
+| AUCinf (mcg∙h/mL) | 80.19 (30.43) | - |
+| Tmax (h)Data presented as median (range) | 2.5 (1 – 5) | 2.5 (2 – 3.5) |
+| t1/2 (h) | 11.08 (16.94) | - |
+| Cmax = maximum concentration |  |  |
+| AUCtldc = area under the drug concentration curve from time 0 to time of last determinable concentration |  |  |
+| AUCinf = area under the drug concentration curve from time 0 to infinity |  |  |
+| Tmax = time to maximum concentration |  |  |
+| t1/2 = terminal elimination half-life |  |  |
 
 Effect of food: LYSTEDA may be administered without regard to meals.
-A single dose administration (two 650 mg tablets) of LYSTEDA with food increased both C max and AUC by 7% and 16%, respectively.
+A single dose administration (two 650 mg tablets) of LYSTEDA with food increased both Cmax and AUC by 7% and 16%, respectively.
 
 Distribution
 
@@ -100,8 +101,8 @@ Pediatric Use
 LYSTEDA is indicated for women of reproductive age and is not intended for use in premenarcheal girls.
 
 In a randomized, single dose, two-way crossover study of two dose levels (650 mg and 1,300 mg [two 650 mg tablets]), pharmacokinetics of tranexamic acid was evaluated in 20 female adolescents (12 to 16 years of age) with heavy menstrual bleeding.
-The C max and AUC values after a single oral dose of 650 mg in the adolescent females were 32 – 36% less than those after a single oral dose of 1,300 mg in the adolescent females.
-The C max and AUC values after a single oral dose of 1300 mg in the adolescent females were 20 – 25% less than those in the adult females given the same dose in a separate study.
+The Cmax and AUC values after a single oral dose of 650 mg in the adolescent females were 32 – 36% less than those after a single oral dose of 1,300 mg in the adolescent females.
+The Cmax and AUC values after a single oral dose of 1300 mg in the adolescent females were 20 – 25% less than those in the adult females given the same dose in a separate study.
 [See Use in Specific Populations (8.4)]
 
 Geriatric Use
