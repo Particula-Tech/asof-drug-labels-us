@@ -67,22 +67,31 @@ BENLYSTA for intravenous use should be administered by healthcare providers prep
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
 Healthcare providers should be aware of the risk of hypersensitivity reactions, which may present as infusion reactions, and monitor patients closely.
 
-## 5.5 Depression
+## 5.5 Depression and Suicidality
 
-In the controlled clinical trials of BENLYSTA administered intravenously in adults, psychiatric events were reported more frequently with BENLYSTA (16%) than with placebo (12%), related primarily to depression-related events (6.3% BENLYSTA and 4.7% placebo), insomnia (6.0% BENLYSTA and 5.3% placebo), and anxiety (3.9% BENLYSTA and 2.8% placebo).
-Serious psychiatric events were reported in 0.8% of patients receiving BENLYSTA (0.6% and 1.2% with 1 and 10 mg/kg, respectively) and 0.4% of patients receiving placebo.
+In controlled clinical studies, psychiatric disorders (depression, suicidal ideation and behavior) have been reported more frequently in patients receiving BENLYSTA.
+Physicians should assess the risk of depression and suicide considering the patient’s medical history and current psychiatric status before treatment with BENLYSTA and continue to monitor patients during treatment.
+Patients receiving BENLYSTA (and caregivers if applicable) should be instructed to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts or behavior, or other mood changes.
+The risk and benefit of continued treatment with BENLYSTA should be assessed for patients who develop such symptoms.
+
+In controlled clinical trials of BENLYSTA administered intravenously in adults (N = 2,133), psychiatric events were reported more frequently with BENLYSTA (16%) than with placebo (12%), related primarily to depression-related events (6.3% BENLYSTA; 4.7% placebo), insomnia (6.0% BENLYSTA; 5.3% placebo), and anxiety (3.9% BENLYSTA; 2.8% placebo).
+Serious psychiatric events were reported in 0.8% (12/1,458) of patients receiving BENLYSTA and 0.4% (3/675) of patients receiving placebo.
 Serious depression was reported in 0.4% (6/1,458) of patients receiving BENLYSTA and 0.1% (1/675) of patients receiving placebo.
-Two suicides (0.1%) were reported in patients receiving BENLYSTA.
+Two suicides (0.1%) were reported in patients receiving BENLYSTA (one with 10 mg/kg and one with 1 mg/kg).
 
-In the controlled trial of BENLYSTA administered subcutaneously in adults (N = 836), psychiatric events were reported in 6% of patients treated with BENLYSTA and in 11% of patients who received placebo.
-Depression-related events were reported in 2.7% of patients receiving BENLYSTA and 3.6% of patients receiving placebo.
-Serious psychiatric events were reported in 0.2% of patients receiving BENLYSTA and in no patients receiving placebo.
+In a randomized, double-blind, placebo-controlled, postmarketing study of BENLYSTA 10 mg/kg administered intravenously (N = 4,003), serious psychiatric events were reported in 1.0% (20/2,002) of patients receiving BENLYSTA and 0.3% (6/2,001) of patients receiving placebo.
+Serious depression was reported in 0.3% (7/2,002) of patients receiving BENLYSTA and in <0.1% (1/2,001) receiving placebo.
+The overall incidence of serious suicidal ideation or behavior or self-injury without suicidal intent was 0.7% (15/2,002) of patients receiving BENLYSTA and 0.2% (5/2,001) of patients receiving placebo.
+On the Columbia-Suicide Severity Rating Scale (C-SSRS), 2.4% (48/1,974) of patients receiving BENLYSTA reported suicidal ideation or behavior compared with 2.0% (39/1,988) of patients receiving placebo.
+No suicide was reported in either group.
+
+The intravenous studies above did not exclude patients with a history of psychiatric disorders.
+
+In a controlled trial of BENLYSTA 200 mg administered subcutaneously in adults (N = 836), which excluded patients with a history of psychiatric disorders, psychiatric events were reported in 6% of patients receiving BENLYSTA and 11% of patients receiving placebo.
+Depression-related events were reported in 2.7% (15/556) of patients receiving BENLYSTA and 3.6% (10/280) of patients receiving placebo.
+Serious psychiatric events were reported in 0.2% (1/556) of patients receiving BENLYSTA and in no patients receiving placebo.
 There were no serious depression-related events or suicides reported in either group.
-
-The majority of patients who reported serious depression or suicidal behavior had a history of depression or other serious psychiatric disorders and most were receiving psychoactive medications.
-It is unknown if treatment with BENLYSTA is associated with increased risk for these events.
-
-Patients receiving BENLYSTA should be instructed to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts, or other mood changes.
+On the C‑SSRS, 1.3% (7/554) of patients receiving BENLYSTA reported suicidal ideation or behavior compared with 0.7% (2/277) of patients receiving placebo.
 
 ## 5.6 Malignancy
 

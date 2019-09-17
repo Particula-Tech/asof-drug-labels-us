@@ -10,7 +10,7 @@ Recommended Intravenous Dosage Regimen — Adult and Pediatric Patients
 BENLYSTA for intravenous use must be reconstituted and diluted prior to administration.
 Do not administer as an intravenous push or bolus.
 
-The recommended intravenous dosage regimen is 10 mg/kg at 2-week intervals for the first 3 doses and at 4-week intervals thereafter.
+The recommended intravenous dosage regimen is 10 mg/kg at 2‑week intervals for the first 3 doses and at 4‑week intervals thereafter.
 Reconstitute, dilute, and administer as an intravenous infusion over a period of 1 hour.
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
 The infusion must be discontinued immediately if the patient experiences a serious hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.3)].

@@ -6,7 +6,7 @@ The following have been observed with BENLYSTA and are discussed in detail in th
 - •Serious Infections [see Warnings and Precautions (5.2)]
 - •Hypersensitivity Reactions, including Anaphylaxis [see Warnings and Precautions (5.3)]
 - •Infusion Reactions [see Warnings and Precautions (5.4)]
-- •Depression [see Warnings and Precautions (5.5)]
+- •Depression and Suicidality[see Warnings and Precautions (5.5)]
 - •Malignancy [see Warnings and Precautions (5.6)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.

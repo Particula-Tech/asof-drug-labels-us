@@ -25,9 +25,9 @@ Educate patients on the signs and symptoms of hypersensitivity reactions and inf
 Instruct patients to immediately tell their healthcare provider if they experience symptoms of an allergic reaction during or after the administration of BENLYSTA.
 Inform patients to tell their healthcare provider about possible delayed reactions that may include a combination of symptoms such as rash, nausea, fatigue, muscle aches, headache, and/or facial swelling that may occur after administration of BENLYSTA [see Warnings and Precautions (5.3, 5.4)].
 
-Depression
+Depression and Suicidality
 
-Instruct patients to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.5)].
+Instruct patients (and caregivers if applicable) to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.5)].
 
 Immunizations
 
