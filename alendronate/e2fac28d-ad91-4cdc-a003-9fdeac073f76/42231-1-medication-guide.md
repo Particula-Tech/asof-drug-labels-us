@@ -75,7 +75,7 @@ Alendronate sodium tablets, USP are a prescription medicine used to:
 - Treat osteoporosis in either men or women who are taking corticosteroid medicines.
 - Treat certain men and women who have Paget's disease of the bone.
 
-It is not known how long alendronate sodium tablets, USP work for the treatment and prevention of osteoporosis.
+It is not known how long alendronate sodium tablets, USP works for the treatment and prevention of osteoporosis.
 You should see your doctor regularly to determine if alendronate sodium tablets, USP are still right for you.
 
 Alendronate sodium tablets, USP are not for use in children.
@@ -100,7 +100,8 @@ Before you start alendronate sodium tablets, USP, be sure to talk to your doctor
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Are pregnant, trying to become pregnant or suspect that you are pregnant.
+  If you become pregnant while taking alendronate sodium tablets, USP, stop taking it and contact your doctor.
   It is not known if alendronate sodium tablets, USP can harm your unborn baby.
 - Are breast-feeding or plan to breast-feed.
   It is not known if alendronate sodium passes into your milk and may harm your baby.
@@ -120,7 +121,7 @@ Keep a list of them and show it to your doctor and pharmacist each time you get 
 How should I take alendronate sodium tablets, USP?
 
 - Take alendronate sodium tablets, USP exactly as your doctor tells you.
-- Alendronate sodium tablets, USP work only if taken on an empty stomach.
+- Alendronate sodium tablets, USP works only if taken on an empty stomach.
 - Take alendronate sodium tablets, after you get up for the day and before taking your first food, drink, or other medicine.
 - Take alendronate sodium tablets, USP while you are sitting or standing.
 - Do not chew or suck on a tablet of alendronate sodium.
@@ -220,4 +221,4 @@ Cipla USA, Inc.
 
 1560 Sawgrass Corporate Parkway, Suite 130, Sunrise, FL 33323
 
-Revised: 5/2017
+Revised: 08/2019

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Instruct patients to read the Medication Guide before starting therapy with alendronate sodium and to reread it each time the prescription is renewed.
 
@@ -40,4 +40,4 @@ Cipla USA, Inc.
 
 1560 Sawgrass Corporate Parkway, Suite 130, Sunrise, FL 33323
 
-Revised: 5/2017
+Revised: 08/2019

@@ -86,7 +86,7 @@ At three years significant increases in BMD, relative both to baseline and place
 Total body BMD also increased significantly in each study, suggesting that the increases in bone mass of the spine and hip did not occur at the expense of other skeletal sites.
 Increases in BMD were evident as early as three months and continued throughout the three years of treatment.
 (See Figure 3 for lumbar spine results.)
-In the two year extension of these studies, treatment of 147 patients with alendronate sodium 10 mg/day resulted in continued increases in BMD at the lumbar spine and trochanter (absolute additional increases between years 3 and 5: lumbar spine, 0.94%; trochanter, 0.88%).
+In the two-year extension of these studies, treatment of 147 patients with alendronate sodium 10 mg/day resulted in continued increases in BMD at the lumbar spine and trochanter (absolute additional increases between years 3 and 5: lumbar spine, 0.94%; trochanter, 0.88%).
 BMD at the femoral neck, forearm and total body were maintained.
 Alendronate sodium was similarly effective regardless of age, race, baseline rate of bone turnover, and baseline BMD in the range studied (at least 2 standard deviations below the premenopausal mean).
 

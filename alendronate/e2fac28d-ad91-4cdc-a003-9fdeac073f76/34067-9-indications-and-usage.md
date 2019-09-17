@@ -3,12 +3,12 @@
 ## 1.1 Treatment of Osteoporosis in Postmenopausal Women
 
 Alendronate sodium tablets, USP are indicated for the treatment of osteoporosis in postmenopausal women.
-In postmenopausal women, alendronate sodium tablets, USP increase bone mass and reduce the incidence of fractures, including those of the hip and spine (vertebral compression fractures).
+In postmenopausal women, alendronate sodium tablets, USP increases bone mass and reduces the incidence of fractures, including those of the hip and spine (vertebral compression fractures).
 [See Clinical Studies (14.1).]
 
 ## 1.2 Prevention of Osteoporosis in Postmenopausal Women
 
-Alendronate sodium tablets, USP are indicated for the prevention of postmenopausal osteoporosis [see Clinical Studies (14.2)]
+Alendronate sodium tablets, USP are indicated for the prevention of postmenopausal osteoporosis [see Clinical Studies (14.2)].
 
 ## 1.3 Treatment to Increase Bone Mass in Men with Osteoporosis
 

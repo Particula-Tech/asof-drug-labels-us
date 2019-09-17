@@ -20,11 +20,10 @@ The incidence of serious adverse event was 30.7% in the placebo group and 30.9% 
 The percentage of patients who discontinued the study due to any clinical adverse event was 9.5% in the placebo group and 8.9% in the alendronate sodium group.
 Adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate sodium or placebo are presented in Table 1.
 
-Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
-
-|  | United States/Multinational Studies |  | Fracture Intervention Trial |  |
+| Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Alendronatesodium10 mg/day for three years %(n=196) | Placebo%(n=397) | Alendronatesodium5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years %(n=3236) | Placebo%(n=3223) |
+|  | United States/Multinational Studies |  | Fracture Intervention Trial |  |
+|  | Alendronate sodium* % (n=196) | Placebo % (n=397) | Alendronate sodium† % (n=3236) | Placebo % (n=3223) |
 | Gastrointestinal |  |  |  |  |
 | abdominal pain | 6.6 | 4.8 | 1.5 | 1.5 |
 | nausea | 3.6 | 4.0 | 1.1 | 1.5 |
@@ -46,6 +45,7 @@ Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reaction
 | dizziness | 0.0 | 1.0 | 0.0 | 0.1 |
 | Special Senses |  |  |  |  |
 | taste perversion | 0.5 | 1.0 | 0.1 | 0.0 |
+| *10 mg/day for three years † 5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years |  |  |  |  |
 
 Rash and erythema have occurred.
 
@@ -96,11 +96,11 @@ The overall safety and tolerability profiles of once weekly alendronate sodium 3
 
 The adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either once weekly alendronate sodium 35 mg, alendronate sodium 5 mg/day or placebo are presented in Table 3.
 
-Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
+Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients TableFooter EndTableFooter
 
 |  | Two/Three-Year Studies |  | One-Year Study |  |
 | --- | --- | --- | --- | --- |
-|  | Alendronate Sodium5 mg/day%(n=642) | Placebo%(n=648) | Alendronate Sodium 5 mg/day%(n=361) | Once Weekly Alendronate Sodium35 mg%(n=362) |
+|  | Alendronate Sodium 5 mg/day %(n=642) | Placebo %(n=648) | Alendronate Sodium 5 mg/day %(n=361) | Once Weekly Alendronate Sodium 35 mg %(n=362) |
 | Gastrointestinal |  |  |  |  |
 | dyspepsia | 1.9 | 1.4 | 2.2 | 1.7 |
 | abdominal pain | 1.7 | 3.4 | 4.2 | 2.2 |
@@ -121,11 +121,11 @@ Osteoporosis in Men
 In two placebo-controlled, double-blind, multicenter studies in men (a two-year study of alendronate sodium 10 mg/day and a one-year study of once weekly alendronate sodium 70 mg) the rates of discontinuation of therapy due to any clinical adverse event were 2.7% for alendronate sodium 10 mg/day vs. 10.5% for placebo, and 6.4% for once weekly alendronate sodium 70 mg vs. 8.6% for placebo.
 The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 2% of patients treated with either alendronate sodium or placebo are presented in Table 4.
 
-Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported inGreater Than or Equal to 2% of Patients
+Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 2% of Patients TableFooter EndTableFooter
 
 |  | Two-year Study |  | One-year Study |  |
 | --- | --- | --- | --- | --- |
-|  | Alendronate Sodium10 mg/day%(n=146) | Placebo %(n=95) | Once Weekly Alendronate Sodium 70 mg%(n=109) | Placebo%(n=58) |
+|  | Alendronate Sodium 10 mg/day % (n=146) | Placebo % (n=95) | Once Weekly Alendronate Sodium 70 mg % (n=109) | Placebo % (n=58) |
 | Gastrointestinal |  |  |  |  |
 | acid regurgitation | 4.1 | 3.2 | 0.0 | 0.0 |
 | flatulence | 4.1 | 1.1 | 0.0 | 0.0 |
@@ -141,9 +141,9 @@ In two, one-year, placebo-controlled, double-blind, multicenter studies in patie
 The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate sodium 5 or 10 mg/day or placebo are presented in TABLE 5.
 
 Table 5.
-One-Year Studies in Glucocorticoid -Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
+One-Year Studies in Glucocorticoid -Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients TableFooter EndTableFooter
 
-|  | Alendronate10 mg/day%(n=157) | Alendronate5 mg/day%(n=161) | Placebo%(n=159) |
+|  | Alendronate 10 mg/day %(n=157) | Alendronate 5 mg/day %(n=161) | Placebo %(n=159) |
 | --- | --- | --- | --- |
 | Gastrointestinal |  |  |  |
 | abdominal pain | 3.2 | 1.9 | 0.0 |
