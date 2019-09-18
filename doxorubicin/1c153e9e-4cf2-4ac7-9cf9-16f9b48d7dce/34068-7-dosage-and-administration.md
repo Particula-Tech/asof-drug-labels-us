@@ -2,7 +2,7 @@
 
 ## 2.1 Important Use Information
 
-Do not substitute DOXIL liposomal infusion for doxorubicin HCl injection.
+Do not substitute DOXIL liposomal infusion for other doxorubicin hydrochloride products.
 
 Do not administer as an undiluted suspension or as an intravenous bolus [see Warnings and Precautions (5.2)].
 

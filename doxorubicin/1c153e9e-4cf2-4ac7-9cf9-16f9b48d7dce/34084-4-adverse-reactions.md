@@ -7,13 +7,13 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Hand-Foot Syndrome [see Warnings and Precautions (5.3)]
 - •Secondary Oral Neoplasms [see Warnings and Precautions (5.4)]
 
-The most common adverse reactions (>20%) observed with DOXIL liposomal infusion are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
-
-## 6.1 Adverse Reactions in Clinical Trials
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates on other clinical trials and may not reflect the rates observed in clinical practice.
 
 The safety data reflect exposure to DOXIL liposomal infusion in 1310 patients including: 239 patients with ovarian cancer, 753 patients with AIDS-related Kaposi’s sarcoma, and 318 patients with multiple myeloma.
+
+The most common adverse reactions (>20%) observed with DOXIL liposomal infusion are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
 
 The following tables present adverse reactions from clinical trials of single-agent DOXIL liposomal infusion in ovarian cancer and AIDS-Related Kaposi’s sarcoma.
 
@@ -105,7 +105,7 @@ Disease characteristics were: 61% poor risk for KS tumor burden, 91% poor risk f
 Of the 693 patients with concomitant medication information, 59% were on one or more antiretroviral medications [35% zidovudine (AZT), 21% didanosine (ddI), 16% zalcitabine (ddC), and 10% stavudine (D4T)]; 85% received PCP prophylaxis (54% sulfamethoxazole/trimethoprim); 85% received antifungal medications (76% fluconazole); 72% received antivirals (56% acyclovir, 29% ganciclovir, and 16% foscarnet) and 48% patients received colony-stimulating factors (sargramostim/filgrastim) during their course of treatment.
 
 Adverse reactions led to discontinuation of treatment in 5% of patients with AIDS-related Kaposi’s sarcoma and included myelosuppression, cardiac adverse reactions, infusion-related reactions, toxoplasmosis, HFS, pneumonia, cough/dyspnea, fatigue, optic neuritis, progression of a non-KS tumor, allergy to penicillin, and unspecified reasons.
-Tables 5 and 6 summarize adverse reactions reported in patients treated with DOXIL liposomal infusion for AIDS-related Kaposi’s sarcoma in a pooled analysis of the four trials.
+Table 5 and Table 6 summarize adverse reactions reported in patients treated with DOXIL liposomal infusion for AIDS-related Kaposi’s sarcoma in a pooled analysis of the four trials.
 
 Table 5: Hematologic Adverse Reactions Reported in Patients With AIDS-Related Kaposi’s Sarcoma
 
@@ -220,8 +220,8 @@ Musculoskeletal and Connective Tissue Disorders: muscle spasms
 
 Respiratory, Thoracic and Mediastinal Disorders: pulmonary embolism (in some cases fatal)
 
-Hematologic disorders: Secondary acute myelogenous leukemia
+Hematologic Disorders: Secondary acute myelogenous leukemia
 
-Skin and subcutaneous tissue disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis
+Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens‑Johnson syndrome, toxic epidermal necrolysis, lichenoid keratosis
 
-Secondary oral neoplasms: [see Warnings and Precautions (5.4)].
+Secondary Oral Neoplasms: [see Warnings and Precautions (5.4)].

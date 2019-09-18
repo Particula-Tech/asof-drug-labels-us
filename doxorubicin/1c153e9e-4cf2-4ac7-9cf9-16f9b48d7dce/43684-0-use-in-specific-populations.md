@@ -4,9 +4,9 @@
 
 Risk Summary
 
-Based on findings in animals, DOXIL liposomal infusion can cause fetal harm when administered to a pregnant woman.
-In animal reproduction studies, DOXIL liposomal infusion was embryotoxic in rats and abortifacient in rabbits following intravenous administration during organogenesis at doses approximately 0.12 times the recommended clinical dose [see Data].
-There are no available human data informing the drug-associated risk.
+Based on findings in animals and its mechanism of action, DOXIL liposomal infusion can cause fetal harm when administered to a pregnant woman; avoid the use of DOXIL liposomal infusion during the 1st trimester.
+In animal reproduction studies, DOXIL liposomal infusion was embryotoxic in rats and abortifacient in rabbits following intravenous administration during organogenesis at doses approximately 0.12 times the recommended clinical dose (see Data).
+Available human data do not establish the presence or absence of major birth defects and miscarriage related to the use of doxorubicin hydrochloride during the 2nd and 3rd trimesters.
 Advise pregnant women of the potential risk to a fetus.
 
 The background risk of major birth defects and miscarriage for the indicated populations are unknown.
@@ -24,9 +24,13 @@ Embryotoxicity was characterized by increased embryo-fetal deaths and reduced li
 Risk Summary
 
 It is not known whether DOXIL liposomal infusion is present in human milk.
-Because many drugs, including anthracyclines, are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from DOXIL liposomal infusion, discontinue breastfeeding during treatment with DOXIL liposomal infusion.
+Because many drugs, including anthracyclines, are excreted in human milk and because of the potential for serious adverse reactions in breastfed infants from DOXIL liposomal infusion, discontinue breastfeeding during treatment with DOXIL liposomal infusion.
 
 ## 8.3 Females and Males of Reproductive Potential
+
+### Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating DOXIL liposomal infusion.
 
 Contraception
 
@@ -45,7 +49,7 @@ Infertility
 Females
 
 In females of reproductive potential, DOXIL liposomal infusion may cause infertility and result in amenorrhea.
-Premature menopause can occur with doxorubicin HCl.
+Premature menopause can occur with doxorubicin hydrochloride.
 Recovery of menses and ovulation is related to age at treatment.
 
 Males

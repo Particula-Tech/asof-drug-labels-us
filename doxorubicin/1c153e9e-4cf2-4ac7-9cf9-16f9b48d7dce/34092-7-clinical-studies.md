@@ -61,7 +61,7 @@ Table 10: Results of Efficacy AnalysesAnalysis based on investigators' strata fo
 DOXIL liposomal infusion was studied in an open-label, single-arm, multicenter study at a dose of 20 mg/m2 every 3 weeks, until disease progression or unacceptable toxicity (Trial 5).
 
 Data is described for a cohort of 77 patients retrospectively identified as having disease progression on prior systemic combination chemotherapy (at least two cycles of a regimen containing at least two of three treatments: bleomycin, vincristine or vinblastine, or doxorubicin) or as being intolerant to such therapy.
-Forty-nine of the 77 (64%) patients had received prior doxorubicin HCl.
+Forty-nine of the 77 (64%) patients had received prior doxorubicin hydrochloride.
 
 The median time on study was 5.1 months (range 1 day to 15 months).
 The median cumulative dose of DOXIL liposomal infusion was 154 mg/m2 (range 20 to 620 mg/m2).
@@ -142,7 +142,7 @@ The primary outcome measure was time to progression (TTP).
 TTP was defined as the time from randomization to the first occurrence of progressive disease or death due to progressive disease.
 The combination arm demonstrated significant improvement in TTP.
 As the prespecified primary objective was achieved at the interim analysis, patients in the bortezomib monotherapy group were then allowed to receive the DOXIL liposomal infusion + bortezomib combination.
-Efficacy results are as shown in Table 13 and Figure 1.
+Efficacy results are as shown in Table 13 and.
 
 Table 13: Efficacy of DOXIL Liposomal Infusion in Combination With Bortezomib in the Treatment of Patients With Multiple Myeloma
 
@@ -163,9 +163,6 @@ Table 13: Efficacy of DOXIL Liposomal Infusion in Combination With Bortezomib in
 | p-valueCochran-Mantel-Haenszel test adjusted for the stratification factors. | 0.25 |  |
 | Median Duration of Response (months) | 10.2 | 7.0 |
 | (95% CI) | (10.2; 12.9) | (5.9; 8.3) |
-
-| Figure 1- Time to Progression Kaplan-Meier Curve |
-| --- |
 
 At the final analysis of survival, 78% of subjects in the DOXIL liposomal infusion and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had died after a median follow up of 8.6 years.
 The median survival was 33 months in the DOXIL liposomal infusion and bortezomib combination therapy group and 31 months in the bortezomib monotherapy group.

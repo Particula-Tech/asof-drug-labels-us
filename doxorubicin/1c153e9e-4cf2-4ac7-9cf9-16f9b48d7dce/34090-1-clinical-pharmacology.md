@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-The active ingredient of DOXIL liposomal infusion is doxorubicin HCl.
-The mechanism of action of doxorubicin HCl is thought to be related to its ability to bind DNA and inhibit nucleic acid synthesis.
+The active ingredient of DOXIL liposomal infusion is doxorubicin hydrochloride.
+The mechanism of action of doxorubicin hydrochloride is thought to be related to its ability to bind DNA and inhibit nucleic acid synthesis.
 Cell structure studies have demonstrated rapid cell penetration and perinuclear chromatin binding, rapid inhibition of mitotic activity and nucleic acid synthesis, and induction of mutagenesis and chromosomal aberrations.
 
 ## 12.3 Pharmacokinetics
@@ -42,4 +42,4 @@ Doxorubicinol, the major metabolite of doxorubicin, was detected at concentratio
 Elimination
 
 The plasma clearance of total doxorubicin from DOXIL liposomal infusion was 0.041 L/h/m2 at a dose of 20 mg/m2.
-Following administration of doxorubicin HCl, the plasma clearance of doxorubicin is 24 to 35 L/h/m2.
+Following administration of doxorubicin hydrochloride, the plasma clearance of doxorubicin is 24 to 35 L/h/m2.

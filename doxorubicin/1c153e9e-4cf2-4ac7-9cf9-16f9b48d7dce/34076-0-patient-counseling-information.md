@@ -20,7 +20,7 @@ Stomatitis
 
 Advise patients to notify their healthcare provider if they develop painful redness, swelling, or sores in the mouth (symptoms of stomatitis).
 
-Embryofetal Toxicity
+Embryo-Fetal Toxicity
 
 Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
 
