@@ -29,10 +29,3 @@ Its use in combination with salicylates is not recommended because there is evid
 In addition, as with other NSAIDs, the combination may result in higher frequency of adverse events than demonstrated for either product alone.
 
 In 51Cr blood loss and gastroscopy studies with normal volunteers, daily administration of 1000 mg of naproxen as 1000 mg of naproxen or 1100 mg of naproxen sodium has been demonstrated to cause statistically significantly less gastric bleeding and erosion than 3250 mg of aspirin.
-
-Three 6-week, double-blind, multicenter studies with naproxen delayed-release (375 or 500 mg twice a day, n=385) and naproxen (375 or 500 mg twice a day, n=279) were conducted comparing naproxen delayed-release with naproxen, including 355 rheumatoid arthritis and osteoarthritis patients who had a recent history of NSAID-related GI symptoms.
-These studies indicated that naproxen delayed-release and naproxen showed no significant differences in efficacy or safety and had similar prevalence of minor GI complaints.
-Individual patients, however, may find one formulation preferable to the other.
-
-Five hundred and fifty-three patients received naproxen delayed-release during long-term open-label trials (mean length of treatment was 159 days).
-The rates for clinically-diagnosed peptic ulcers and GI bleeds were similar to what has been historically reported for long-term NSAID use.

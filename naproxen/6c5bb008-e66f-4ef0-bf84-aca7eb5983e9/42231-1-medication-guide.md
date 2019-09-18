@@ -1,6 +1,4 @@
-# Medication Guide
-
-Medication Guide for Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+# Medication Guide for Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 
 What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
@@ -8,8 +6,8 @@ NSAIDs can cause serious side effects, including:
 
 - •Increased risk of a heart attack or stroke that can lead to death.
   This risk may happen early in treatment and may increase:
-- •with increasing doses of NSAIDs
-- •with longer use of NSAIDs
+- owith increasing doses of NSAIDs
+- owith longer use of NSAIDs
 
 Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
 
@@ -17,26 +15,26 @@ Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider
 You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
 
 - •Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
-- •any time during use
-- •without warning symptoms
-- •that may cause death
+- oanytime during use
+- owithout warning symptoms
+- othat may cause death
 
 The risk of getting an ulcer or bleeding increases with:
 
-| •past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
+| opast history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
 | --- | --- |
-| •taking medicines | •older age |
-| •increasing doses of NSAIDs | •poor health |
-| •longer use of NSAIDs | •advanced liver disease |
-| •smoking | •bleeding problems |
-| •drinking alcohol |  |
+| otaking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
+| oincreasing doses of NSAIDs | oolder age |
+| olonger use of NSAIDs | opoor health |
+| osmoking | oadvanced liver disease |
+| odrinking alcohol | obleeding problems |
 
 NSAIDs should only be used:
 
 - 
-  - •exactly as prescribed
-  - •at the lowest dose possible for your treatment
-  - •for the shortest time needed
+  - oexactly as prescribed
+  - oat the lowest dose possible for your treatment
+  - ofor the shortest time needed
 
 What are NSAIDs?
 
@@ -57,7 +55,7 @@ Before taking NSAIDS, tell your healthcare provider about all of your medical co
 - •are pregnant or plan to become pregnant.
   Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
   You should not take NSAIDs after 29 weeks of pregnancy.
-- •are breastfeeding or plan to breast feed.
+- •are breastfeeding or plan to breastfeed.
 
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
 NSAIDs and some other medicines can interact with each other and cause serious side effects.
@@ -115,9 +113,7 @@ It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Ltd., INDIA
+Medication Guide available at www.glenmarkpharma-us.com/medguides
 
 Manufactured for:
 
@@ -126,10 +122,10 @@ Glenmark Pharmaceuticals Inc., USA
 Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-May 2017
+September 2019
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

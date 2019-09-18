@@ -11,9 +11,9 @@ Naproxen-containing products such as naproxen and naproxen sodium tablets, and o
 
 ## 2.2 Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis
 
-The recommended dosages of naproxen tablets, naproxen tablets, and naproxen sodium tablets are shown in Table 1.
+The recommended dosages of naproxen tablets and naproxen sodium tablets are shown in Table 1.
 
-Table 1: Recommended dosages for naproxen tablets, and naproxen sodium tablets
+Table 1: Recommended dosages for naproxen tablets and naproxen sodium tablets
 
 | Naproxen tablets | 250 mg (one half tablet) 500 mg | twice daily |
 | --- | --- | --- |
@@ -34,7 +34,7 @@ Naproxen solid-oral dosage forms may not allow for the flexible dose titration n
 A liquid formulation may be more appropriate for weight-based dosing and due to the need for dose flexibility in children.
 
 In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [see Clinical Pharmacology (12)].
-The recommended total daily dose of naproxen is approximately 10 mg/ kg given in 2 divided doses.
+The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses.
 Dosing with naproxen tablets is not appropriate for children weighing less than 50 kilograms.
 
 ## 2.4 Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis and Bursitis

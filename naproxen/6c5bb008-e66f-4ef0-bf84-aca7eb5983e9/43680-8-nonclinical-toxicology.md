@@ -11,7 +11,7 @@ Mutagenesis
 
 Naproxen tested positive in the in vivo sister chromatid exchange assay for but was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test).
 
-Impairment of fertility
+Impairment of Fertility
 
 Male rats were treated with 2, 5, 10, and 20 mg/kg naproxen by oral gavage for 60 days prior to mating and female rats were treated with the same doses for 14 days prior to mating and for the first 7 days of pregnancy.
 There were no adverse effects on fertility noted (up to 0.13 times the MRDH based on body surface area).

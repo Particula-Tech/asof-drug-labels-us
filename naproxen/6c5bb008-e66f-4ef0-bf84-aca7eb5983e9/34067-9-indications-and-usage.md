@@ -1,10 +1,23 @@
 # 1 INDICATIONS AND USAGE
 
-Naproxen Naproxen tablets and naproxen sodium tablets are indicated for:
+Naproxen tablets and naproxen sodium tablets are indicated for:
 
-The relief of the signs and symptoms of:
+the relief of the signs and symptoms of:
 
 - •rheumatoid arthritis
 - •osteoarthritis
 - •ankylosing spondylitis
 - •Polyarticular Juvenile Idiopathic Arthritis
+
+Naproxen tablets and naproxen sodium tablets are also indicated for:
+
+the relief of signs and symptoms of:
+
+- •tendonitis
+- •bursitis
+- •acute gout
+
+the management of:
+
+- •pain
+- •primary dysmenorrhea

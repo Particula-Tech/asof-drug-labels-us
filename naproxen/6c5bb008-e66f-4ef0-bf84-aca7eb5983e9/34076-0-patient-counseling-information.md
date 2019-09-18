@@ -47,9 +47,7 @@ Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with naproxen tablets or naproxen sodium tablets until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Ltd., INDIA
+Medication Guide available atwww.glenmarkpharma-us.com/medguides
 
 Manufactured for:
 
@@ -58,6 +56,8 @@ Glenmark Pharmaceuticals Inc., USA
 Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115
 
-May 2017
+www.glenmarkpharma-us.com
+
+September 2019
