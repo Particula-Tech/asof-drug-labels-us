@@ -16,20 +16,6 @@ PRINCIPAL DISPLAY PANEL
 
 Package Label – 400 mg Tablets
 
-Rx Only NDC 0078-0438-15
-
-GLEEVEC® (imatinib mesylate)
-
-30 Tablets
-
-400 mg
-
-Each tablet contains 400 mg of imatinib free base
-
-PRINCIPAL DISPLAY PANEL
-
-Package Label – 400 mg Tablets
-
 Rx Only NDC 0078-0649-30
 
 GLEEVEC® (imatinib mesylate)
