@@ -4,8 +4,8 @@ Manufactured by: Cephalon, Inc. Salt Lake City, UT 84116, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2019 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 11/2017
+Revised: 09/2019
 
-uspi-mk8246-tod-1711r011
+uspi-mk8246-tod-1909r012
