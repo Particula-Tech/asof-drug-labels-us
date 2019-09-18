@@ -1,3 +1,1 @@
-Rx only
-
-LAB-0126-6.0 November 2016
+LAB-0126-7.0 Revised: September 2019

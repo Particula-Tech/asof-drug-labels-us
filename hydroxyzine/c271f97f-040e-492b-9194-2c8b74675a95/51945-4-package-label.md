@@ -25,7 +25,3 @@ Vistaril® (hydroxyzine pamoate) Capsules
 # PRINCIPAL DISPLAY PANEL
 
 Image not available
-
-# PRINCIPAL DISPLAY PANEL
-
-Image not available
