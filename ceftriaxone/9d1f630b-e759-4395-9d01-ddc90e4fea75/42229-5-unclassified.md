@@ -1,8 +1,8 @@
-Rx only
+Rx Only
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection, and other antibacterial drugs, ceftriaxone for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection and other antibacterial drugs, ceftriaxone for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-# Instructions For Use of the ADD-Vantage® System
+# Instructions for Use of the ADD-Vantage® System
 
 To Open Diluent Container:
 
@@ -74,16 +74,14 @@ Reconstituted ADD-Vantage® units should not be stored in a frozen state (-20°C
 Flagyl® is a registered trademark of G.D.
 Searle & Co.
 
-NOVAPLUS is a registered trademark of Novation, LLC.
-
 ADD-Vantage® is a trademark of Hospira, Inc.
 
-Printed in Austria
+Revised: January 2019
 
-07-2015M
+46222442
 
-46165448
+Novaplus is a registered trademark of Vizient, Inc.
 
-EN-3977
+Manufactured in Austria by Sandoz GmbH for Hospira, Inc.
 
-Manufactured by Sandoz GmbH, Kundl, Austria
+Lake Forest, IL 60045, USA

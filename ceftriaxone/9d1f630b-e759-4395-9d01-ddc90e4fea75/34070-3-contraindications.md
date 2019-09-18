@@ -7,9 +7,13 @@ Patients with previous hypersensitivity reactions to penicillin and other beta l
 
 ## Neonates
 
-Premature neonates: Ceftriaxone for injection is contraindicated in premature neonates up to a postmenstrual age of 41 weeks (gestational age + chronological age).
+Premature neonates
 
-Hyperbilirubinemic neonates: Hyperbilirubinemic neonates should not be treated with ceftriaxone for injection.
+Ceftriaxone for injection is contraindicated in premature neonates up to a postmenstrual age of 41 weeks (gestational age + chronological age).
+
+Hyperbilirubinemic neonates
+
+Hyperbilirubinemic neonates should not be treated with ceftriaxone for injection.
 Ceftriaxone can displace bilirubin from its binding to serum albumin, leading to a risk of bilirubin encephalopathy in these patients.
 
 ## Neonates Requiring Calcium Containing IV Solutions

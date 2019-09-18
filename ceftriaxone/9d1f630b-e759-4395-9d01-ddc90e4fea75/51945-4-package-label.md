@@ -2,20 +2,18 @@
 
 NDC 0409-7333-49
 
-Ceftriaxone for
+Ceftriaxone
 
-Injection, USP
-
-1 gram
+For Injection, USP
 
 For I.V.
-Use
+Use 1 gram
 
-Single Use ADD-Vantage® Vial
+10 ADD-Vantage® Vials
 
 Rx only
 
-NOVAPLUS®
+novaplus
 
 # 2 gram Label
 
@@ -32,6 +30,6 @@ Use
 
 Single Use ADD-Vantage® Vial
 
-Rx only
+Rx Only
 
-NOVAPLUS®
+Novaplus

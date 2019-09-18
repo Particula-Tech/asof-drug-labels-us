@@ -6,7 +6,7 @@ Do not use diluents containing calcium, such as Ringer’s solution or Hartmann�
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
 
 Ceftriaxone must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site.
-However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (seeWARNINGS).
+However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (see WARNINGS).
 
 There have been no reports of an interaction between ceftriaxone and oral calcium-containing products or interaction between intramuscular ceftriaxone and calcium-containing products (IV or oral).
 
@@ -64,8 +64,7 @@ The dosages recommended for adults require no modification in elderly patients, 
 
 Ceftriaxone should be administered intravenously by infusion over a period of 30 minutes, except in neonates where administration over 60 minutes is recommended to reduce the risk of bilirubin encephalopathy.
 
-ADD-Vantage® Vials for IV Use Only contain ceftriaxone sodium equivalent to 1 g or 2 g ceftriaxone to be used with 50 mL or 100 mL of 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP, in the ADD-Vantage® Flexible Diluent Container.
-(See Instructions For Use of the ADD-Vantage® System at the end of this package insert.)
+ADD-Vantage® Vials for IV Use Only contain ceftriaxone sodium equivalent to 1 g or 2 g ceftriaxone to be used with 50 mL or 100 mL of 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP, in the ADD-Vantage® Flexible Diluent Container (see Instructions for Use of the ADD-Vantage® System at the end of this package insert).
 
 ## Compatibility and Stability
 
@@ -91,4 +90,4 @@ The color of solutions ranges from light yellow to amber, depending on the lengt
 After the indicated stability time periods, unused portions of solutions should be discarded.
 
 NOTE: Parenteral drug products should be inspected visually for particulate matter before administration.
-ADD-Vantage® Vials – Ceftriaxone for Injection Units: See Instructions For Use of the ADD-Vantage® System at the end of this package insert.
+ADD-Vantage® Vials – Ceftriaxone for Injection Units: See Instructions for Use of the ADD-Vantage® System at the end of this package insert.
