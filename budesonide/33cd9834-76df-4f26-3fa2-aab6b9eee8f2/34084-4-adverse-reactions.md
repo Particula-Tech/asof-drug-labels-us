@@ -8,7 +8,7 @@ Systemic and inhaled corticosteroid use may result in the following:
 - •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.6)]
 - •Reduction in Bone Mineral Density [see Warnings and Precautions (5.7)]
 - •Growth Effects in Pediatric Patients [see Warnings and Precautions (5.8), Use in Specific Populations (8.4)]
-- •Glaucoma, Increased Intraocular Pressure and Cataracts [see Warnings and Precautions (5.9)]
+- •Glaucoma, Increased Intraocular Pressure, and Cataracts [see Warnings and Precautions (5.9)]
 - •Eosinophilic Conditions and Churg-Strauss Syndrome [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience

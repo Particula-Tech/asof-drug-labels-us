@@ -32,7 +32,7 @@ If chicken pox develops, treatment with antiviral agents may be considered.
 
 The clinical course of chicken pox or measles infection in patients on inhaled corticosteroids has not been studied.
 However, a clinical study has examined the immune responsiveness of asthma patients 12 months to 8 years of age who were treated with PULMICORT RESPULES.
-An open-label non-randomized clinical study examined the immune responsiveness of varicella vaccine in 243 asthma patients 12 months to 8 years of age who were treated with PULMICORT RESPULES 0.25 mg to 1 mg daily (n=151) or noncorticosteroid asthma therapy (n=92) (i.e., beta2-agonists, leukotriene receptor antagonists, cromones).
+An open-label non-randomized clinical study examined the immune responsiveness of varicella vaccine in 243 asthma patients 12 months to 8 years of age who were treated with PULMICORT RESPULES 0.25 mg to 1 mg daily (n=151) or non-corticosteroid asthma therapy (n=92) (i.e., beta2-agonists, leukotriene receptor antagonists, cromones).
 The percentage of patients developing a seroprotective antibody titer of ≥5.0 (gpELISA value) in response to the vaccination was similar in patients treated with PULMICORT RESPULES (85%) compared to patients treated with non-corticosteroid asthma therapy (90%).
 No patient treated with PULMICORT RESPULES developed chicken pox as a result of vaccination.
 

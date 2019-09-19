@@ -47,20 +47,20 @@ Before your child uses PULMICORT RESPULES, tell your healthcare provider if your
 - •has or recently had chicken pox or measles, or has recently been near anyone with chicken pox or measles.
 - •has or had tuberculosis of the respiratory tract.
 - •has certain kinds of infections that have not been treated, including:
-  - ∘fungal infections
-  - ∘bacterial infections
-  - ∘viral infections
-  - ∘parasitic infections
-  - ∘herpes simplex infection of the eye (ocular herpes simplex)
+  - ofungal infections
+  - obacterial infections
+  - oviral infections
+  - oparasitic infections
+  - oherpes simplex infection of the eye (ocular herpes simplex)
 
 PULMICORT RESPULES may not be right for children who have had any of these types of infections.
 
 - •has decreased bone mineral density (bone strength).
   Your child is at risk for decreased bone mineral density if he or she:
-  - ∘is inactive for a long period of time
-  - ∘has a family history of osteoporosis
-  - ∘does not eat well (poor nutrition)
-  - ∘takes bone thinning medicines (such as anticonvulsant medicines or corticosteroids) for a long time.
+  - ois inactive for a long period of time
+  - ohas a family history of osteoporosis
+  - odoes not eat well (poor nutrition)
+  - otakes bone thinning medicines (such as anticonvulsant medicines or corticosteroids) for a long time.
 - •has an eye problem such as increased pressure in the eye, glaucoma or cataracts.
 - •has liver problems.
 - •is planning to have surgery.
@@ -106,9 +106,9 @@ How should I use PULMICORT RESPULES?
 - •Make sure your child always has a short-acting beta2-agonist medicine with him or her.
   Your child should use the short-acting beta2-agonist medicine for breathing problems between doses of PULMICORT RESPULES or if a sudden asthma attack happens.
   Call your healthcare provider right away if:
-  - ∘the short-acting rescue medicine does not work as well for relieving asthma symptoms.
-  - ∘your child needs to use the short-acting rescue medicines more often than usual.
-  - ∘your child’s breathing problems worsen with PULMICORT RESPULES
+  - othe short-acting rescue medicine does not work as well for relieving asthma symptoms.
+  - oyour child needs to use the short-acting rescue medicines more often than usual.
+  - oyour child’s breathing problems worsen with PULMICORT RESPULES
 - •Rinse your child’s mouth with water and have him or her spit the water out after each PULMICORT RESPULES treatment.
   Do not swallow the water.
   This will lessen the chance of getting a fungal infection (thrush) in the mouth.
@@ -125,12 +125,12 @@ PULMICORT RESPULES may cause serious side effects including:
 - •Worsening of asthma or sudden asthma attacks.
 - •Allergic reactions.
   Tell your healthcare provider or get medical help right away if your child has:
-  - ∘skin rash, redness or swelling
-  - ∘severe itching
-  - ∘swelling of the face, mouth and tongue
-  - ∘trouble breathing or swallowing
-  - ∘chest pain
-  - ∘anxiety (feeling of doom)
+  - oskin rash, redness or swelling
+  - osevere itching
+  - oswelling of the face, mouth and tongue
+  - otrouble breathing or swallowing
+  - ochest pain
+  - oanxiety (feeling of doom)
 - •Immune system effects and a higher chance of infections.
   Your child is more likely to get infections when taking medicines that weaken the immune system.
   Symptoms of infection may include: fever, pain, aches, chills, feeling tired, nausea and vomiting.
@@ -167,7 +167,7 @@ Tell your healthcare provider if your child has any side effect that bothers him
 For more information, ask your healthcare provider or pharmacist.
 
 Call your healthcare provider for medical advice about side effects.
-You may report side effects to AstraZeneca at 1-800-236-9933 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to AstraZeneca at 1-800-236-9933 or the FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.
 
 How should I store PULMICORT RESPULES?
 
@@ -238,7 +238,7 @@ Figure 4
 
 Revised: 10/16
 
-©AstraZeneca 2007, 2010, 2016
+©AstraZeneca 2007, 2010, 2016, 2019
 
 Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 

@@ -1,28 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.25 mg/2 mL
 
-NDC 0186-1988-66 PHYSICIAN SAMPLE – NOT FOR SALE
-
-Pulmicort Respules®
-
-(budesonide inhalation suspension)
-
-0.25 mg/2 mL
-
-FOR INHALATION ONLY.
-
-5 single-dose Respules™ ampules per carton
-
-RX only
-
-AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
-
-Product of Netherlands
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.5 mg/2 mL
-
-NDC 0186-1989-04
-
-30 single-dose RESPULES ampules per carton
+NDC 0186-1988-04
 
 Pulmicort Respules®
 
@@ -32,28 +10,83 @@ FOR INHALATION ONLY.
 
 Rx only
 
-0.5 mg/2 mL
+Each single-dose Respules™ ampule delivers 2 mL of a
 
-Store Upright
+Sterile suspension containing 0.25 mg of micronized
 
-AstraZeneca
+Budesonide plus disodium edentate, sodium chloride,
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL 1 mg/2 mL
+Polysorbate 80, citric acid, sodium citrate and Water for
 
-NDC 0186-1990-66 PHYSICIAN SAMPLE – NOT FOR SALE
+Injection.
+
+Once a RESPULES ampule is opened, use the contents
+
+Immediately.
+
+For use only in a jet nebulizer.
+Do NOT use in an
+
+ultrasonic nebulizer.
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.5 mg/2 mL
+
+NDC 0186-1986-04
 
 Pulmicort Respules®
 
 (budesonide inhalation suspension)
 
-1 mg/2 mL
+FOR INHALATION ONLY.
+
+Rx only
+
+Each single-dose Respules™ ampule delivers 2 mL of a
+
+Sterile suspension containing 0.5 mg of micronized
+
+Budesonide plus disodium edentate, sodium chloride,
+
+Polysorbate 80, citric acid, sodium citrate and Water for
+
+Injection.
+
+Once a RESPULES ampule is opened, use the contents
+
+Immediately.
+
+For use only in a jet nebulizer.
+Do NOT use in an
+
+ultrasonic nebulizer.
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL 1 mg/2 mL
+
+NDC 0186-1988-04
+
+Pulmicort Respules®
+
+(budesonide inhalation suspension)
 
 FOR INHALATION ONLY.
 
-5 single-dose Respules™ ampules per carton
+Rx only
 
-RX only
+Each single-dose Respules™ ampule delivers 2 mL of a
 
-AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
+Sterile suspension containing 1 mg of micronized
 
-Product of Netherlands
+Budesonide plus disodium edentate, sodium chloride,
+
+Polysorbate 80, citric acid, sodium citrate and Water for
+
+Injection.
+
+Once a RESPULES ampule is opened, use the contents
+
+Immediately.
+
+For use only in a jet nebulizer.
+Do NOT use in an
+
+ultrasonic nebulizer.
