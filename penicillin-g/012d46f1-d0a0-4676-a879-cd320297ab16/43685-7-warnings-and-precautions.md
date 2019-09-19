@@ -12,6 +12,13 @@ IF AN ALLERGIC REACTION OCCURS, BICILLIN L-A SHOULD BE DISCONTINUED AND APPROPRI
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
+## Severe cutaneous adverse reactions
+
+Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking beta-lactam antibiotics.
+When SCAR is suspected, Bicillin L-A should be discontinued immediately and an alternative treatment should be considered.
+
+## Clostridium difficile associated diarrhea
+
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Bicillin L-A, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
