@@ -15,6 +15,11 @@ IF AN ALLERGIC REACTION OCCURS, BICILLIN C-R SHOULD BE DISCONTINUED AND APPROPRI
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
+## Severe cutaneous adverse reactions
+
+Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking beta-lactam antibiotics.
+When SCAR is suspected, Bicillin C-R should be discontinued immediately and an alternative treatment should be considered.
+
 ## Methemoglobinemia
 
 Cases of methemoglobinemia have been reported in association with local anesthetic use.
@@ -26,6 +31,8 @@ Methemoglobin levels may continue to rise; therefore, immediate treatment is req
 Discontinue Bicillin C-R and any other oxidizing agents.
 Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
 A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
+## Clostridium difficile associated diarrhea
 
 Clostridium difficile associated with diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Bicillin C-R, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
