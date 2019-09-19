@@ -7,27 +7,27 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Hand-Foot Syndrome [see Warnings and Precautions (5.3)]
 - •Secondary Oral Neoplasms [see Warnings and Precautions (5.4)]
 
-The most common adverse reactions (>20%) observed with doxorubicin HCl liposome injection are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
-
-## 6.1 Adverse Reactions in Clinical Trials
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates on other clinical trials and may not reflect the rates observed in clinical practice.
 
-The safety data reflect exposure to doxorubicin HCl liposome injection in 1310 patients including: 239 patients with ovarian cancer, 753 patients with AIDS-related Kaposi’s sarcoma, and 318 patients with multiple myeloma.
+The safety data reflect exposure to doxorubicin hydrochloride liposome injection in 1310 patients including: 239 patients with ovarian cancer, 753 patients with AIDS-related Kaposi’s sarcoma, and 318 patients with multiple myeloma.
 
-The following tables present adverse reactions from clinical trials of single-agent doxorubicin HCl liposome injection in ovarian cancer and AIDS-Related Kaposi’s sarcoma.
+The most common adverse reactions (>20%) observed with doxorubicin hydrochloride liposome injection are asthenia, fatigue, fever, nausea, stomatitis, vomiting, diarrhea, constipation, anorexia, hand-foot syndrome, rash and neutropenia, thrombocytopenia and anemia.
+
+The following tables present adverse reactions from clinical trials of single-agent doxorubicin hydrochloride liposome injection in ovarian cancer and AIDS-Related Kaposi’s sarcoma.
 
 Patients With Ovarian Cancer
 
-The safety data described below are from Trial 4, which included 239 patients with ovarian cancer treated with doxorubicin HCl liposome injection 50 mg/m2 once every 4 weeks for a minimum of four courses in a randomized, multicenter, open-label study.
-In this trial, patients received doxorubicin HCl liposome injection for a median number of 3.2 months (range 1 day to 25.8 months).
+The safety data described below are from Trial 4, which included 239 patients with ovarian cancer treated with doxorubicin hydrochloride liposome injection 50 mg/m2 once every 4 weeks for a minimum of four courses in a randomized, multicenter, open-label study.
+In this trial, patients received doxorubicin hydrochloride liposome injection for a median number of 3.2 months (range 1 day to 25.8 months).
 The median age of the patients is 60 years (range 27 to 87), with 91% Caucasian, 6% Black, and 3% Hispanic or Other.
 
 Table 3 presents the hematologic adverse reactions from Trial 4.
 
 Table 3: Hematologic Adverse Reactions in Trial 4
 
-|  | Doxorubicin HCl Liposome Injection Patients (n=239) | TopotecanPatients(n=235) |
+|  | Doxorubicin Hydrochloride Liposome Injection Patients (n=239) | TopotecanPatients(n=235) |
 | --- | --- | --- |
 | Neutropenia |  |  |
 | 500 - <1000/mm3 | 8% | 14% |
@@ -43,7 +43,7 @@ Table 4 presents the non-hematologic adverse reactions from Trial 4.
 
 Table 4: Non-Hematologic Adverse Reactions in Trial 4
 
-| Non-HematologicAdverse Reaction10% or Greater |  | Doxorubicin HCl Liposome Injection (%)treated(n=239) |  | Topotecan (%)treated(n=235) |  |
+| Non-HematologicAdverse Reaction10% or Greater |  | Doxorubicin Hydrochloride Liposome Injection (%)treated(n=239) |  | Topotecan (%)treated(n=235) |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | All grades | Grades 3-4 | All grades | Grades 3-4 |
 | Digestive |  |  |  |  |  |
@@ -88,9 +88,9 @@ Urinary: urinary tract infection, hematuria, vaginal moniliasis.
 
 Patients With AIDS-Related Kaposi’s Sarcoma
 
-The safety data described is based on the experience reported in 753 patients with AIDS‑related Kaposi’s sarcoma (KS) enrolled in four open-label, uncontrolled trials of doxorubicin HCl liposome injection administered at doses ranging from 10 to 40 mg/m2 every 2 to 3 weeks.
+The safety data described is based on the experience reported in 753 patients with AIDS‑related Kaposi’s sarcoma (KS) enrolled in four open-label, uncontrolled trials of doxorubicin hydrochloride liposome injection administered at doses ranging from 10 to 40 mg/m2 every 2 to 3 weeks.
 Demographics of the population were: median age 38.7 years (range 24-70); 99% male; 88% Caucasian, 6% Hispanic, 4% Black, and 2% Asian/other/unknown.
-The majority of patients were treated with 20 mg/m2 of doxorubicin HCl liposome injection every 2 to 3 weeks with a median exposure of 4.2 months (range 1 day to 26.6 months).
+The majority of patients were treated with 20 mg/m2 of doxorubicin hydrochloride liposome injection every 2 to 3 weeks with a median exposure of 4.2 months (range 1 day to 26.6 months).
 The median cumulative dose was 120 mg/m2 (range 3.3 to 798.6 mg/m2); 3% received cumulative doses of greater than 450 mg/m2.
 
 Disease characteristics were: 61% poor risk for KS tumor burden, 91% poor risk for immune system, and 47% poor risk for systemic illness; 36% were poor risk for all three categories; median CD4 count 21 cells/mm3 (51% less than 50 cells/mm3); mean absolute neutrophil count at study entry approximately 3,000 cells/mm3.
@@ -98,7 +98,7 @@ Disease characteristics were: 61% poor risk for KS tumor burden, 91% poor risk f
 Of the 693 patients with concomitant medication information, 59% were on one or more antiretroviral medications [35% zidovudine (AZT), 21% didanosine (ddI), 16% zalcitabine (ddC), and 10% stavudine (D4T)]; 85% received PCP prophylaxis (54% sulfamethoxazole/trimethoprim); 85% received antifungal medications (76% fluconazole); 72% received antivirals (56% acyclovir, 29% ganciclovir, and 16% foscarnet) and 48% patients received colony-stimulating factors (sargramostim/filgrastim) during their course of treatment.
 
 Adverse reactions led to discontinuation of treatment in 5% of patients with AIDS‑related Kaposi’s sarcoma and included myelosuppression, cardiac adverse reactions, infusion‑related reactions, toxoplasmosis, HFS, pneumonia, cough/dyspnea, fatigue, optic neuritis, progression of a non-KS tumor, allergy to penicillin, and unspecified reasons.
-Tables 5 and 6 summarize adverse reactions reported in patients treated with doxorubicin HCl liposome injection for AIDS-related Kaposi’s sarcoma in a pooled analysis of the four trials.
+Tables 5 and 6 summarize adverse reactions reported in patients treated with doxorubicin hydrochloride liposome injection for AIDS-related Kaposi’s sarcoma in a pooled analysis of the four trials.
 
 Table 5: Hematologic Adverse Reactions Reported in Patients With AIDS-Related Kaposi’s Sarcoma
 
@@ -166,14 +166,14 @@ Special Senses: taste perversion, conjunctivitis.
 
 Patients With Multiple Myeloma
 
-The safety data described are from 318 patients treated with doxorubicin HCl liposome injection (30 mg/m2) administered on day 4 following bortezomib (1.3 mg/m2 i.v. bolus on days 1, 4, 8 and 11) every 3 weeks, in a randomized, open-label, multicenter study (Trial 6).
-In this trial, patients in the doxorubicin HCl liposome injection+ bortezomib combination group were treated for a median number of 4.5 months (range 21 days to 13.5 months).
-The population was 28 to 85 years of age (median age 61), 58% male, 90% Caucasian, 6% Black, and 4% Asian and Other.
-Table 7 lists adverse reactions reported in 10% or more of patients treated with doxorubicin HCl liposome injection in combination with bortezomib for multiple myeloma.
+1. The safety data described are from 318 patients treated with doxorubicin hydrochloride liposome injection (30 mg/m2) administered on day 4 following bortezomib (1.3 mg/m2 i.v. bolus on days 1, 4, 8 and 11) every 3 weeks, in a randomized, open-label, multicenter study (Trial 6).
+   In this trial, patients in the doxorubicin hydrochloride liposome injection + bortezomib combination group were treated for a median number of 4.5 months (range 21 days to 13.5 months).
+   The population was 28 to 85 years of age (median age 61), 58% male, 90% Caucasian, 6% Black, and 4% Asian and Other.
+   Table 7 lists adverse reactions reported in 10% or more of patients treated with doxorubicin hydrochloride liposome injection in combination with bortezomib for multiple myeloma.
 
-Table 7: Frequency of Treatment-Emergent Adverse Reactions Reported in ≥10% Patients Treated for Multiple Myeloma With Doxorubicin HCl Liposome Injection in Combination With Bortezomib
+Table 7: Frequency of Treatment-Emergent Adverse Reactions Reported in ≥10% Patients Treated for Multiple Myeloma With Doxorubicin Hydrochloride Liposome Injection in Combination With Bortezomib
 
-| Adverse Reaction |  | Doxorubicin HCl liposome injection + bortezomib(n=318) |  | Bortezomib(n=318) |  |
+| Adverse Reaction |  | Doxorubicin Hydrochloride liposome injection + bortezomib(n=318) |  | Bortezomib(n=318) |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Any (%) | Grade 3-4 | Any (%) | Grade 3-4 |
 | Blood and lymphatic system disorders |  |  |  |  |  |
@@ -212,15 +212,15 @@ Table 7: Frequency of Treatment-Emergent Adverse Reactions Reported in ≥10% Pa
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post approval use of doxorubicin HCl liposome injection.
+The following additional adverse reactions have been identified during post approval use of doxorubicin hydrochloride liposome injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal and Connective Tissue Disorders: muscle spasms
 
 Respiratory, Thoracic and Mediastinal Disorders: pulmonary embolism (in some cases fatal)
 
-Hematologic disorders: Secondary acute myelogenous leukemia
+Hematologic Disorders: Secondary acute myelogenous leukemia
 
-Skin and subcutaneous tissue disorders: erythema multiforme, Stevens‑Johnson syndrome, toxic epidermal necrolysis
+Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens‑Johnson syndrome, toxic epidermal necrolysis, lichenoid keratosis
 
-Secondary oral neoplasms: [see Warnings and Precautions (5.4)].
+Secondary Oral Neoplasms: [see Warnings and Precautions (5.4)].

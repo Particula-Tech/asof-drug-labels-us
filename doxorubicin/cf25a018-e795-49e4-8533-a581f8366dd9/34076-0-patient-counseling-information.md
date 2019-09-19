@@ -20,25 +20,25 @@ Stomatitis
 
 Advise patients to notify their healthcare provider if they develop painful redness, swelling, or sores in the mouth (symptoms of stomatitis).
 
-Embryofetal Toxicity
+Embryo-Fetal Toxicity
 
 Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
 
-Advise females and males of reproductive potential to use effective contraception during and for 6 months following treatment with doxorubicin HCl liposome injection [see Use in Specific Populations (8.3)].
+Advise females and males of reproductive potential to use effective contraception during and for 6 months following treatment with doxorubicin hydrochloride liposome injection [see Use in Specific Populations (8.3)].
 
 Lactation
 
-Advise females not to breastfeed during treatment with doxorubicin HCl liposome injection [see Use in Specific Populations (8.2)].
+Advise females not to breastfeed during treatment with doxorubicin hydrochloride liposome injection [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise females and males of reproductive potential that doxorubicin HCl liposome injection may cause temporary or permanent infertility [see Use in Specific Populations (8.3)].
+Advise females and males of reproductive potential that doxorubicin hydrochloride liposome injection may cause temporary or permanent infertility [see Use in Specific Populations (8.3)].
 
 Discoloration of Urine and Body Fluids
 
-Inform patients that following doxorubicin HCl liposome injection administration, a reddish-orange color to the urine and other body fluids may be observed.
+Inform patients that following doxorubicin hydrochloride liposome injection administration, a reddish-orange color to the urine and other body fluids may be observed.
 This nontoxic reaction is due to the color of the product and will dissipate as the drug is eliminated from the body.
 
 Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-Baxter and Stealth are registered trademarks of Baxter International Inc. HA-30-01-873
+Baxter and Stealth are registered trademarks of Baxter International Inc. HA-30-01-925
