@@ -10,13 +10,25 @@ Instruct patients to:
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited Village: Kishanpura, Baddi Nalagarh Road, District: Solan, Himachal Pradesh – 173205, India
+Glenmark Pharmaceuticals Limited
+
+Village: Kishanpura,
+
+Baddi Nalagarh Road,
+
+District: Solan,
+
+Himachal Pradesh – 173205, India
 
 Manufactured for:
 
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA
+
+Mahwah, NJ 07430
 
 Questions?
-1(888) 721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115
 
-April 2019
+www.glenmarkpharma-us.com
+
+September 2019

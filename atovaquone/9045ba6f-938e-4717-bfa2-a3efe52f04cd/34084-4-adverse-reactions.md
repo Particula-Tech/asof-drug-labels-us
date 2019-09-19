@@ -32,7 +32,7 @@ Percentage (>2%) of Subjects with Selected Adverse Reactions Requiring Discontin
 | Vomiting | 2.2 | 0.6 |
 
 Aerosolized Pentamidine Comparative Trial: In the aerosolized pentamidine comparative trial (n = 549), the majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
-Subjects received atovaquone oral suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6.0, and 7.8 months, respectively.
+Subjects received atovaquone oral suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6, and 7.8 months, respectively.
 Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500-mg dose of atovaquone oral suspension or aerosolized pentamidine.
 
 Rash occurred more often in subjects treated with atovaquone oral suspension (46%) than in subjects treated with aerosolized pentamidine (28%).

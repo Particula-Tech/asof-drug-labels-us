@@ -42,19 +42,18 @@ An analysis of all PCP events (intent-to-treat analysis) for both trials showed 
 
 The indication for treatment of mild‑to‑moderate PCP is based on the results of two efficacy trials: a randomized, double‑blind trial comparing atovaquone tablets with TMP‑SMX in subjects with HIV/AIDS and mild‑to‑moderate PCP (defined in the protocol as [(A‑a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild‑to‑moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 Both trials were conducted with the tablet formulation using 750 mg three times daily.
-Results from these efficacy trials established a relationship between plasma atovaquone concentration and successful outcome.
-Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
-Comparative pharmacokinetic trials of the oral suspension and tablet formulations established the currently recommended oral suspension dose of 750 mg twice daily [see Clinical Pharmacology (12.3)].
+Results from these efficacy trials established a relationship between plasma atovaquone concentrations and successful outcome.
+Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (12.2)].
 
 TMP‑SMX Comparative Trial
 
-This double‑blind, randomized trial compared the safety and efficacy of atovaquone tablets with that of TMP‑SMX for the treatment of subjects with HIV/AIDS and histologically confirmed PCP.
+This double‑blind, randomized trial compared the safety and efficacy of atovaquone tablets with that of TMP‑SMX for the treatment of subjects with HIV/AIDS and histologically-confirmed PCP.
 Only subjects with mild‑to‑moderate PCP were eligible for enrollment.
 
 A total of 408 subjects were enrolled into the trial.
 The majority of subjects were white (66%) and male (95%); the mean age was 36 years.
 Eighty‑six subjects without histologic confirmation of PCP were excluded from the efficacy analyses.
-Of the 322 subjects with histologically confirmed PCP, 160 were randomized to receive 750 mg atovaquone (three 250 mg tablets) 3 times daily for 21 days and 162 were randomized to receive 320 mg TMP plus 1,600 mg SMX 3 times daily for 21 days.
+Of the 322 subjects with histologically-confirmed PCP, 160 were randomized to receive 750 mg atovaquone (three 250 mg tablets) 3 times daily for 21 days and 162 were randomized to receive 320 mg TMP plus 1,600 mg SMX 3 times daily for 21 days.
 Therapy success was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
 Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
 Therapy failures included lack of response, treatment discontinuation due to an adverse experience, and unevaluable.
@@ -92,7 +91,7 @@ Pentamidine Comparative Trial
 This unblinded, randomized trial was designed to compare the safety and efficacy of atovaquone with that of pentamidine for the treatment of histologically-confirmed mild or moderate PCP in subjects with HIV/AIDS.
 Approximately 80% of the subjects either had a history of intolerance to trimethoprim or sulfa antimicrobials (the primary therapy group) or were experiencing intolerance to TMP‑SMX with treatment of an episode of PCP at the time of enrollment in the trial (the salvage treatment group).
 A total of 174 subjects were enrolled into the trial.
-Subjects were randomized to receive atovaquone 750 mg (three 250 mg tablets) 3 times daily for 21 days or pentamidine isethionate 3- to 4‑mg/kg single IV infusion daily for 21 days.
+Subjects were randomized to receive atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or pentamidine isethionate 3- to 4‑mg/kg single IV infusion daily for 21 days.
 The majority of subjects were white (72%) and male (97%); the mean age was approximately 37 years.
 Thirty‑nine subjects without histologic confirmation of PCP were excluded from the efficacy analyses.
 Of the 135 subjects with histologically-confirmed PCP, 70 were randomized to receive atovaquone and 65 to pentamidine.
