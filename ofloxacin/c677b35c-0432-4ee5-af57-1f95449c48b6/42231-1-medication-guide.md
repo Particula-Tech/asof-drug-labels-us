@@ -62,9 +62,7 @@ The nerve damage may be permanent.
 
 3.
 Central Nervous System (CNS) effects.
-Seizures have been reported in people who take
-
-fluoroquinolone antibacterial medicines, including ofloxacin.
+Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including ofloxacin.
 Tell your healthcare provider if you have a history of seizures before you start taking ofloxacin.
 CNS side effects may happen as soon as after taking the first dose of ofloxacin.
 Stop taking ofloxacin immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
@@ -212,8 +210,7 @@ Stop taking ofloxacin tabletsand get emergency medical help right away if you ge
   - yellowing of the skin or eyes.
     Stop taking ofloxacin tabletsand tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
     These can be signs of a serious reaction to ofloxacin tablets(a liver problem).
-  - Aortic aneurysm and dissection People who take fluoroquinolone medicines, including ofloxacin tablets, have an increased risk of swelling of the large artery that carries blood from the heart to the body (aortic aneurysm) and tearing (dissection) of this artery.
-    Tell your healthcare provider if you have ever been told that you have an aortic aneurysm.
+  - Aortic aneurysm and dissection Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
     Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 
 - 
@@ -305,4 +302,4 @@ Manufactured by:
 
 Cadila Pharmaceuticals Limited 1389, Dholka, District - Ahmedabad,
 
-Gujarat State, INDIA Revised: January 2019
+Gujarat State, INDIA Revised: September 2019

@@ -22,4 +22,4 @@ Cadila Pharmaceuticals Limited
 
 Gujarat State, INDIA
 
-Revised: January 2019
+Revised: September 2019

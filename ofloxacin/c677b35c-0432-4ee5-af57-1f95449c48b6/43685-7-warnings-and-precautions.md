@@ -50,12 +50,9 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated (see ADVERSE REACTIONS).
-Risk of Aortic Aneurysm and Dissection Fluoroquinolones, including ofloxacin, have been associated with aortic aneurysm and dissection.
-Findings from epidemiologic studies show a consistently increased risk of hospitalization for aortic aneurysm or dissection within two months following use of a fluoroquinolone antibacterial drug.
-The annual estimated background risk of aortic aneurysm is as high as approximately 300 aortic aneurysm events per 100,000 persons at the highest risk (e.g., age greater than 85 years).
-The evidence shows the potential for a 2-fold increased risk over the background risk following fluoroquinolone exposure and was based on a small number of cases, mostly in older patients.
-The cause for the risk of aortic aneurysm or dissection has not been identified, but the available data suggest that use of fluoroquinolones may contribute in the short term to aneurysm progression.
-In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve ofloxacin, for use only when there are no alternative antibacterial treatments available.
+Risk of Aortic Aneurysm and Dissection Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve ofloxacin for use only when there are no alternative antibacterial treatments available.
 Ofloxacin has not been shown to be effective in the treatment of syphilis.
 Fluoroquinolones have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
@@ -109,8 +106,7 @@ Other Information Patients should be advised: • to drink fluids liberally. •
 They do not treat viral infections (e.g., the common cold).
 When ofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ofloxacin tablets or other antibacterial drugs in the future. • that if they are diabetic and are being treated with insulin or an oral hypoglycemic drug, to discontinue ofloxacin immediately if a hypoglycemic reaction occurs and consult a physician (see PRECAUTIONS, General and Drug Interactions); • that convulsions have been reported in patients taking quinolones, including ofloxacin, and to notify their physician before taking this drug if there is a history of this condition; • to inform their physician of any personal or family history of QTc prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any class IA (quinidine, procainamide), or class III (amiodarone, sotalol) antiarrhythmic agents.
-Patients should notify their physicians if they have any symptoms of prolongation of the QTc interval including prolonged heart palpitations or a loss of consciousness. • Inform patients who have or are at risk for an aortic aneurysm that fluoroquinolones, including ofloxacin, have been associated with a 2-fold increased risk of hospitalization for aortic aneurysm and dissection.
-Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
+Patients should notify their physicians if they have any symptoms of prolongation of the QTc interval including prolonged heart palpitations or a loss of consciousness. • Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 
 ## Drug Interactions
 
@@ -198,5 +194,4 @@ The clinical significance of such a comparison is not clear(see CLINICAL PHARMAC
 Elderly patients may be more sensitive to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using ofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g.
 Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g. known QT prolongation, uncorrected hypokalemia)(See PRECAUTIONS, General, Torsade de pointes).
-Elderly patients are at greater risk for aortic aneurysm and dissection.
-A two-fold increased risk of aortic aneurysm and dissection has been reported following use of a fluoroquinolone, including ofloxacin [see Warnings].
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings].
