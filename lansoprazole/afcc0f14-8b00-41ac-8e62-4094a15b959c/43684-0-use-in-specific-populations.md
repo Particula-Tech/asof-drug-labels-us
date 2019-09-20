@@ -92,12 +92,12 @@ Twenty one of 27 erosive esophagitis patients were healed at eight weeks and 100
 
 | Table 4: GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 1 to 11 |  |
 | --- | --- |
-| GERD | Final VisitAt Week 8 or Week12 % (n/N) |
+| GERD | Final Visit At Week 8 or Week12 % (n/N) |
 | Symptomatic GERD Improvement in Overall GERD Symptoms Symptoms assessed by patients diary kept by caregiver. | 76% (47/62 No data were available for four pediatric patients.) |
 | Erosive Esophagitis Improvement in Overall GERD Symptoms Healing Rate | 81% (22/27) 100% (27/27) |
 
 In a study of 66 pediatric patients in the age group one year to 11 years old after treatment with lansoprazole given orally in doses of 15 mg daily to 30 mg twice daily, increases in serum gastrin levels were similar to those observed in adult studies.
-Median fasting serum gastrin levels increased 89% from 51 pg/ mL at baseline to 97 pg/mL [interquartile range (25th to 75th percentile) of 71 to 130 pg/mL] at the final visit.
+Median fasting serum gastrin levels increased 89% from 51 pg/ mL at baseline to 97 pg/mL [interquartile range (25 th to 75 th percentile) of 71 to 130 pg/mL] at the final visit.
 
 The pediatric safety of lansoprazole delayed-release capsules has been assessed in 66 pediatric patients aged one to 11 years of age.
 Of the 66 patients with GERD 85% (56/66) took lansoprazole for eight weeks and 15% (10/66) took it for 12 weeks.
@@ -118,11 +118,11 @@ One patient remained unhealed after 12 weeks of treatment (Table 5).
 | Table 5:GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 12 to 17 |  |
 | --- | --- |
 | GERD | Final Visit % (n/N) |
-| Symptomatic GERD (All Patients) Improvement in Overall GERD SymptomsSymptoms assessed by patient diary (parents/caregivers as necessary). | 73.2%(60/82)No data available for five patients. |
+| Symptomatic GERD (All Patients) Improvement in Overall GERD Symptoms Symptoms assessed by patient diary (parents/caregivers as necessary). | 73.2%(60/82) No data available for five patients. |
 | Non-erosive GERD Improvement in Overall GERD Symptoms | 71.2%(42/59) |
-| Erosive Esophagitis Improvement in Overall GERD Symptoms Healing rateData from one healed patient was excluded from this analysis due to timing of final endoscopy. | 78.3%(18/23) 95.5%(21/22) |
+| Erosive Esophagitis Improvement in Overall GERD Symptoms Healing rate Data from one healed patient was excluded from this analysis due to timing of final endoscopy. | 78.3%(18/23) 95.5%(21/22) |
 
-In these 87 adolescent patients, increases in serum gastrin levels were similar to those observed in adult studies, median fasting serum gastrin levels increased 42% from 45 pg/mL at baseline to 64 pg/mL [interquartile range (25th to 75th percentile) of 44 to 88 pg/mL] at the final visit.
+In these 87 adolescent patients, increases in serum gastrin levels were similar to those observed in adult studies, median fasting serum gastrin levels increased 42% from 45 pg/mL at baseline to 64 pg/mL [interquartile range (25 th to 75 th percentile) of 44 to 88 pg/mL] at the final visit.
 (Normal serum gastrin levels are 25 to 111 pg/mL).
 
 The safety of lansoprazole delayed-release capsules has been assessed in these 87 adolescent patients.
@@ -159,4 +159,4 @@ No overall differences in safety or effectiveness were observed between these pa
 
 In patients with various degrees of chronic hepatic impairment the exposure to lansoprazole was increased compared to healthy subjects with normal hepatic function [see Clinical Pharmacology (12.3)].
 No dosage adjustment for lansoprazole is necessary for patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.
-The recommended dosage is 15 mg orally daily in patients with severe hepatic impairment(Child-Pugh Class C)[see Dosage and Administration (2.3)].
+The recommended dosage is 15 mg orally daily in patients with severe hepatic impairment(Child-Pugh Class C) [see Dosage and Administration (2.3)].

@@ -1,7 +1,7 @@
 # 11. DESCRIPTION
 
 The active ingredient in Lansoprazole Delayed-Release Capsules, USP is lansoprazole USP, a substituted benzimidazole, 2-[[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridyl] methyl] sulfinyl] benzimidazole, a compound that inhibits gastric acid secretion.
-Its empirical formula is C16H14F3N3O2S with a molecular weight of 369.37.
+Its empirical formula is C 16H 14F 3N 3O 2S with a molecular weight of 369.37.
 Lansoprazole has the following structure:
 
 Lansoprazole USP is a white to brownish-white odorless crystalline powder which melts with decomposition at approximately 166°C.
@@ -14,7 +14,7 @@ The degradation half-life of the drug substance in aqueous solution at 25°C is 
 Lansoprazole is supplied in delayed-release capsules, USP for oral administration.
 
 Lansoprazole delayed-release capsules,USP are available in two dosage strengths: 15 mg and 30 mg of lansoprazole USP per capsule.
-Each delayed-release capsule contains enteric-coated pellets consisting of 15 mg or 30 mg of lansoprazole USP (active ingredient) and the following inactive ingredients: corn starch, gelatin, hydroxypropyl cellulose, magnesium carbonate, methacrylic acid and ethyl acrylate copolymer dispersion, polyethylene glycol, polysorbate 80, sucrose, sugar spheres, talc, titanium dioxide, FD&C Blue 21, Iron oxide yellow1, Iron oxide black2.
+Each delayed-release capsule contains enteric-coated pellets consisting of 15 mg or 30 mg of lansoprazole USP (active ingredient) and the following inactive ingredients: corn starch, gelatin, hydroxypropyl cellulose, magnesium carbonate, methacrylic acid and ethyl acrylate copolymer dispersion, polyethylene glycol, polysorbate 80, sucrose, sugar spheres, talc, titanium dioxide, FD&C Blue 2 1, Iron oxide yellow 1, Iron oxide black 2.
 
 1 Lansoprazole delayed-release capsules, USP 15 mg only.
 

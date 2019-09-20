@@ -41,14 +41,15 @@ Controlled studies did not extend beyond 12 weeks [see Clinical Studies (14.6)].
 
 ## 1.7 Treatment of Symptomatic Gastroesophageal Reflux Disease (GERD)
 
-Lansoprazole delayed-release capsules are indicated for short-term treatment in adults and pediatric patients 12 to 17 years of age (up to eight weeks) and pediatric patients one to 11 years of age (up to 12 weeks) for the treatment of heartburn and other symptoms associated with GERD[see Clinical Studies (14.7)].
+Lansoprazole delayed-release capsules are indicated for short-term treatment in adults and pediatric patients 12 to 17 years of age (up to eight weeks) and pediatric patients one to 11 years of age (up to 12 weeks) for the treatment of heartburn and other symptoms associated with GERD [see Clinical Studies (14.7)].
 
 ## 1.8 Treatment of Erosive Esophagitis (EE)
 
 Lansoprazole delayed-release capsules are indicated for short-term treatment in adults and pediatric patients 12 to 17 years of age (up to eight weeks) and pediatric patients one to 11 years of age (up to 12 weeks) for healing and symptom relief of all grades of EE.
 
 For adults who do not heal with lansoprazole delayed-release capsules for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment.
-If there is a recurrence of erosive esophagitis an additional eight week course of lansoprazole delayed-release capsules may be considered.[see Clinical Studies (14.8)].
+If there is a recurrence of erosive esophagitis an additional eight week course of lansoprazole delayed-release capsules may be considered.
+[see Clinical Studies (14.8)].
 
 ## 1.9 Maintenance of Healing of EE
 
@@ -57,4 +58,5 @@ Controlled studies did not extend beyond 12 months [see Clinical Studies (14.9)]
 
 ## 1.10 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome (ZES)
 
-Lansoprazole delayed-release capsules are indicated in adults for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison syndrome.[see Clinical Studies (14.10)].
+Lansoprazole delayed-release capsules are indicated in adults for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison syndrome.
+[see Clinical Studies (14.10)].

@@ -5,15 +5,15 @@
 | Indication | Recommended Dose | Frequency |
 | --- | --- | --- |
 | Duodenal Ulcers Short-Term Treatment Maintenance of Healed | 15 mg 15 mg | Once daily for 4 weeks Once daily |
-| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer RecurrencePlease refer to the amoxicillin and clarithromycin full prescribing information, Contraindications and Warningsand Precautions sections, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
+| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence Please refer to the amoxicillin and clarithromycin full prescribing information, Contraindications and Warningsand Precautions sections, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
 | Triple Therapy: Lansoprazole Amoxicillin Clarithromycin Dual Therapy: Lansoprazole Amoxicillin | 30 mg 1 gram 500 mg 30 mg 1 gram | Twice daily for 10 or 14 days Twice daily for 10 or 14 days Twice daily for 10 or 14 days Three times daily for 14 days Three times daily for 14 days |
 | Benign Gastric Ulcer Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
 | NSAID-Associated Gastric Ulcer |  |  |
-| Healing Risk Reduction | 30 mg 15 mg | Once daily for 8 weeksControlled studies did not extend beyond indicated duration. Once daily for up to 12 weeks |
+| Healing Risk Reduction | 30 mg 15 mg | Once daily for 8 weeks Controlled studies did not extend beyond indicated duration. Once daily for up to 12 weeks |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
-| Short-Term Treatment of Symptomatic GERD Short -Term Treatment of Erosive Esophagitis | 15 mg 30 mg | Once daily for up to 8 weeks Once daily for up to 8 weeksFor patients who do not heal with lansoprazole for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole may be considered. |
+| Short-Term Treatment of Symptomatic GERD Short -Term Treatment of Erosive Esophagitis | 15 mg 30 mg | Once daily for up to 8 weeks Once daily for up to 8 weeks For patients who do not heal with lansoprazole for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole may be considered. |
 | Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily Controlled studies did not extend beyond 12 months |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once daily Varies with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |
 
 ## 2.2 Recommended Pediatric Dosage by Indication
 
@@ -39,13 +39,13 @@ Pediatric Patients 12 to 17 Years of Age
 
 ## 2.3 Hepatic Impairment
 
-The recommended dosage is 15 mg orally daily in patients with severe liver impairment (Child-Pugh C)[see Use in Specific Populations (8.6)
+The recommended dosage is 15 mg orally daily in patients with severe liver impairment (Child-Pugh C) [see Use in Specific Populations (8.6)
 
 ## 2.4 Important Administration Information
 
 - Take lansoprazole delayed-release capsules before meals.
 - Do not crush or chew lansoprazole delayed-release capsules.
-- Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate[see Drug Interactions (7)]
+- Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate [see Drug Interactions (7)]
 - Antacids may be used concomitantly with lansoprazole delayed-release capsules.
 - Missed doses: If a dose is missed, administer as soon as possible.
   However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.

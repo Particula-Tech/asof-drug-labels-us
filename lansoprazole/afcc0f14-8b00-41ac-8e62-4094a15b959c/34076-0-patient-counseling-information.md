@@ -6,7 +6,7 @@ Advise patients to:
 
 Acute Interstitial Nephritis
 
-To call their healthcare provider if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions(5.2)].
+To call their healthcare provider if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
 
 Clostridium difficile-Associated Diarrhea
 
@@ -35,7 +35,7 @@ Advise patients to report to their healthcare provider if they are taking rilpiv
 Pregnancy
 
 Advise a pregnant woman of the potential risk to a fetus.
-Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy[see Use in Specific Populations (8.1)]
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)]
 
 Administration
 
