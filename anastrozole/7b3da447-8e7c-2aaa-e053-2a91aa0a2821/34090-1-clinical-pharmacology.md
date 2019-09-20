@@ -3,10 +3,8 @@
 ## 12.1 Mechanism of Action
 
 The growth of many cancers of the breast is stimulated or maintained by estrogens.
-
 In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol.
 The suppression of estrogen biosynthesis in peripheral tissues and in the cancer tissue itself can therefore be achieved by specifically inhibiting the aromatase enzyme.
-
 Anastrozole is a selective non-steroidal aromatase inhibitor.
 It significantly lowers serum estradiol concentrations and has no detectable effect on formation of adrenal corticosteroids or aldosterone.
 
@@ -18,8 +16,7 @@ Mean serum concentrations of estradiol were evaluated in multiple daily dosing t
 Clinically significant suppression of serum estradiol was seen with all doses.
 Doses of 1 mg and higher resulted in suppression of mean serum concentrations of estradiol to the lower limit of detection (3.7 pmol/L).
 The recommended daily dose, Anastrozole 1 mg, reduced estradiol by approximately 70% within 24 hours and by approximately 80% after 14 days of daily dosing.
-Suppression of serum estradiol was maintained for up to 6 days after cessation of daily dosing with Anastrozole 1 mg.
-
+Suppression of serum estradiol was maintained for up to 6 days after cessation of daily dosing with Anastrozole1 mg.
 The effect of Anastrozole in premenopausal women with early or advanced breast cancer has not been studied.
 Because aromatization of adrenal androgens is not a significant source of estradiol in premenopausal women, Anastrozole would not be expected to lower estradiol levels in premenopausal women.
 
@@ -42,13 +39,13 @@ Inhibition of aromatase activity is primarily due to anastrozole, the parent dru
 Absorption of anastrozole is rapid and maximum plasma concentrations typically occur within 2 hours of dosing under fasted conditions.
 Studies with radiolabeled drug have demonstrated that orally administered anastrozole is well absorbed into the systemic circulation.
 Food reduces the rate but not the overall extent of anastrozole absorption.
-The mean C max of anastrozole decreased by 16% and the median T max was delayed from 2 to 5 hours when anastrozole was administered 30 minutes after food.
+The mean Cmax of anastrozole decreased by 16% and the median Tmax was delayed from 2 to 5 hours when anastrozole was administered 30 minutes after food.
 The pharmacokinetics of anastrozole are linear over the dose range of 1 to 20 mg, and do not change with repeated dosing.
 The pharmacokinetics of anastrozole were similar in patients and healthy volunteers.
 
 ### Distribution
 
-Steady-state plasma levels are approximately 3- to 4-fold higher than levels observed after a single dose of ARIMIDEX.
+Steady-state plasma levels are approximately 3- to 4-fold higher than levels observed after a single dose of Anastrozole.
 Plasma concentrations approach steady-state levels at about 7 days of once daily dosing.
 Anastrozole is 40% bound to plasma proteins in the therapeutic range.
 
@@ -57,10 +54,9 @@ Anastrozole is 40% bound to plasma proteins in the therapeutic range.
 Metabolism of anastrozole occurs by N-dealkylation, hydroxylation and glucuronidation.
 Three metabolites of anastrozole (triazole, a glucuronide conjugate of hydroxy-anastrozole, and a glucuronide conjugate of anastrozole itself) have been identified in human plasma and urine.
 The major circulating metabolite of anastrozole, triazole, lacks pharmacologic activity.
-
-Anastrozole inhibited reactions catalyzed by cytochrome P450 1A2, 2C8/9, and 3A4 in vitro with Ki values which were approximately 30 times higher than the mean steady-state C max values observed following a 1 mg daily dose.
+Anastrozole inhibited reactions catalyzed by cytochrome P450 1A2, 2C8/9, and 3A4 in vitro with Ki values which were approximately 30 times higher than the mean steady-state Cmax values observed following a 1 mg daily dose.
 Anastrozole had no inhibitory effect on reactions catalyzed by cytochrome P450 2A6 or 2D6 in vitro.
-Administration of a single 30 mg/kg or multiple 10 mg/kg doses of anastrozole to healthy subjects had no effect on the clearance of antipyrine or urinary recovery of antipyrine metabolites.
+Administration of a single 30 mg/kg or multiple10 mg/kg doses of anastrozole to healthy subjects had no effect on the clearance of antipyrine or urinary recovery of antipyrine metabolites.
 
 ### Excretion
 
@@ -72,7 +68,7 @@ The mean elimination half-life of anastrozole is 50 hours.
 ### Effect of Gender and Age
 
 Anastrozole pharmacokinetics have been investigated in postmenopausal female volunteers and patients with breast cancer.
-No age-related effects were seen over the range <50 to >80 years.
+No age related effects were seen over the range <50 to >80 years.
 
 ### Effect of Race
 
@@ -82,7 +78,7 @@ Anastrozole mean steady-state minimum plasma concentrations in Caucasian and Jap
 ### Effect of Renal Impairment
 
 Anastrozole pharmacokinetics have been investigated in subjects with renal impairment.
-Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m 2) compared to controls.
+Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m2) compared to controls.
 Total clearance was only reduced 10%.
 No dosage adjustment is needed for renal impairment [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)].
 

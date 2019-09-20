@@ -1,7 +1,7 @@
 # 6 ADVERSE REACTIONS
 
 Serious adverse reactions with Anastrozole occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
-This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
+This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [seeAdverse Reactions (6.2)].
 
 Common adverse reactions (occurring with an incidence of ≥10%) in women taking Anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
@@ -20,7 +20,7 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 
 Table 1 — Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial *
 
-| Body system and adverse reactions byCOSTART† preferred term ‡ | Anastrozole 1 mg(N§= 3092) | Tamoxifen 20 mg(N§ = 3094) |
+| Body system and adverse reactions byCOSTART preferred term† ‡ | Anastrozole 1 mg(N§= 3092) | Tamoxifen 20 mg(N§ = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
@@ -116,64 +116,38 @@ Ischemic Cardiovascular Events
 
 Between treatment arms in the overall population of 6186 patients, there was no statistical difference in ischemic cardiovascular events (4% Anastrozole vs. 3% tamoxifen).
 In the overall population, angina pectoris was reported in 71/3092 (2.3%) patients in the Anastrozole arm and 51/3094 (1.6%) patients in the tamoxifen arm; myocardial infarction was reported in 37/3092 (1.2%) patients in the Anastrozole arm and 34/3094 (1.1%) patients in the tamoxifen arm.
-
-In women with pre-existing ischemic heart disease 465/6186 (7.5%), the incidence of ischemic cardiovascular events was 17% in patients on Anastrozole and 10% in patients on tamoxifen.
+In women with pre-existing ischemic heart disease 465/6186 (7.5%), the incidence of ischemic cardiovascular events was 17% inpatients on Anastrozole and 10% in patients on tamoxifen.
 In this patient population, angina pectoris was reported in 25/216 (11.6%) patients receiving Anastrozole and 13/249 (5.2%) patients receiving tamoxifen; myocardial infarction was reported in 2/216 (0.9%) patients receiving Anastrozole and 8/249 (3.2%) patients receiving tamoxifen.
 
-Bone Mineral Density Findings
-
-Results from the ATAC trial bone substudy at 12 and 24 months demonstrated that patients receiving Anastrozole had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline.
+Bone Mineral Density Findings Results from the ATAC trial bone substudy at 12 and 24 months demonstrated that patients receiving Anastrozole had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline.
 Patients receiving tamoxifen had a mean increase in both lumbar spine and total hip BMD compared to baseline.
-
 Because Anastrozole lowers circulating estrogen levels it may cause a reduction in bone mineral density.
-
 A post-marketing trial assessed the combined effects of Anastrozole and the bisphosphonate risedronate on changes from baseline in BMD and markers of bone resorption and formation in postmenopausal women with hormone receptor-positive early breast cancer.
 All patients received calcium and vitamin D supplementation.
 At 12 months, small reductions in lumbar spine bone mineral density were noted in patients not receiving bisphosphonates.
 Bisphosphonate treatment preserved bone density in most patients at risk of fracture.
-
 Postmenopausal women with early breast cancer scheduled to be treated with Anastrozole should have their bone status managed according to treatment guidelines already available for postmenopausal women at similar risk of fragility fracture.
 
-Cholesterol
-
-During the ATAC trial, more patients receiving Anastrozole were reported to have an elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively).
-
+Cholesterol During the ATAC trial, more patients receiving Anastrozole were reported to have an elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively).
 A post-marketing trial also evaluated any potential effects of Anastrozole on lipid profile.
-In the primary analysis population for lipids (Anastrozole alone), there was no clinically significant change in LDL-C from baseline to 12 months and HDL-C from baseline to 12 months.
-
-In secondary population for lipids (Anastrozole +risedronate), there also was no clinically significant change in LDL-C and HDL-C from baseline to 12 months.
-
+In the primary analysis population for lipids (Anastrozole alone), there was no clinically significant change in LDL-C from baseline to 12 months and HDL-C from baseline to 12months.
+In secondary population for lipids (Anastrozole + risedronate), there also was no clinically significant change in LDL-C and HDL-C from baseline to 12 months.
 In both populations for lipids, there was no clinically significant difference in total cholesterol (TC) or serum triglycerides (TG) at 12 months compared with baseline.
-
 In this trial, treatment for 12 months with Anastrozole alone had a neutral effect on lipid profile.
 Combination treatment with Anastrozole and risedronate also had a neutral effect on lipid profile.
-
 The trial provides evidence that postmenopausal women with early breast cancer scheduled to be treated with Anastrozole should be managed using the current National Cholesterol Education Program guidelines for cardiovascular risk-based management of individual patients with LDL elevations.
 
-Other Adverse Reactions
-
-Patients receiving Anastrozole had an increase in joint disorders (including arthritis, arthrosis and arthralgia) compared with patients receiving tamoxifen.
+Other Adverse Reactions Patients receiving Anastrozole had an increase in joint disorders (including arthritis, arthrosis and arthralgia) compared with patients receiving tamoxifen.
 Patients receiving Anastrozole had an increase in the incidence of all fractures (specifically fractures of spine, hip and wrist) [315 (10%)] compared with patients receiving tamoxifen [209 (7%)].
-
 Patients receiving Anastrozole had a higher incidence of carpal tunnel syndrome [78 (2.5%)] compared with patients receiving tamoxifen [22 (0.7%)].
-
-Vaginal bleeding occurred more frequently in the tamoxifen-treated patients versus the Anastrozole -treated patients 317 (10%) versus 167 (5%), respectively.
-
+Vaginal bleeding occurred more frequently in the tamoxifen-treated patients versus the Anastrozole -treated patients 317 (10%) versus167 (5%), respectively.
 Patients receiving Anastrozole had a lower incidence of hot flashes, vaginal bleeding, vaginal discharge, endometrial cancer, venous thromboembolic events and ischemic cerebrovascular events compared with patients receiving tamoxifen.
 
-10-year median follow-up Safety Results from the ATAC Trial
-
-Results are consistent with the previous analyses.
-
-Serious adverse reactions were similar between Anastrozole (50%) and tamoxifen (51%).
-
-- Cardiovascular events were consistent with the known safety profiles of Anastrozole and tamoxifen.
-- The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the Anastrozole group (15%) compared to the tamoxifen group (11%).
-  This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
-- The cumulative incidence of new primary cancers was similar in the Anastrozole group (13.7%) compared to the tamoxifen group (13.9%).
-  Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8%) compared to the Anastrozole group (0.2%).
-- The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
-  There were more deaths related to breast cancer in the tamoxifen than in theAnastrozole treatment group.
+10-year median follow-up Safety Results from the ATAC Trial Results are consistent with the previous analyses.
+Serious adverse reactions were similar between Anastrozole (50%) and tamoxifen (51%). • Cardiovascular events were consistent with the known safety profiles of Anastrozole and tamoxifen. • The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the Anastrozole group (15%) compared to the tamoxifen group (11%).
+This increased first fracture rate during treatment did not continue in the post-treatment follow-up period. • The cumulative incidence of new primary cancers was similar in the Anastrozole group (13.7%) compared to the tamoxifen group (13.9%).
+Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8%) compared to the Anastrozole group (0.2%). • The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
+There were more deaths related to breast cancer in the tamoxifen than in the Anastrozole treatment group.
 
 ### First-Line Therapy
 
@@ -221,8 +195,7 @@ Table 3 – Adverse Reactions Occurring with an Incidence of at Least 5% in Tria
 | Leukorrhea | 9 (2) | 31 (6) |
 | *A patient may have had more than 1 adverse event. |  |  |
 
-Less frequent adverse experiences reported in patients receiving Anastrozole1 mg in either Trial 0030 or Trial 0027 were similar to those reported for second-line therapy.
-
+Less frequent adverse experiences reported in patients receiving Anastrozole 1 mg in either Trial 0030 or Trial 0027 were similar to those reported for second-line therapy.
 Based on results from second-line therapy and the established safety profile of tamoxifen, the incidences of 9 pre-specified adverse event categories potentially causally related to one or both of the therapies because of their pharmacology were statistically analyzed.
 No significant differences were seen between treatment groups.
 
@@ -247,7 +220,6 @@ Table 4 – Number of Patients with Pre-specified Adverse Reactions in Trials 00
 ### Second-Line Therapy
 
 Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 and 0005), with less than 3.3% of the Anastrozole-treated patients and 4.0% of the megestrol acetate-treated patients withdrawing due to an adverse reaction.
-
 The principal adverse reaction more common with Anastrozole than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
 
@@ -290,36 +262,15 @@ Table 5 – Number (N) and Percentage of Patients with Adverse Reactions in Tria
 Other less frequent (2% to 5%) adverse reactions reported in patients receiving Anastrozole1 mg in either Trial 0004 or Trial 0005are listed below.
 These adverse experiences are listed by body system and are in order of decreasing frequency within each body system regardless of assessed causality.
 
-Body as a Whole: Flu syndrome; fever; neck pain; malaise; accidental injury; infection
-
-Cardiovascular: Hypertension; thrombophlebitis
-
-Hepatic: Gamma GT increased; SGOT increased; SGPT increased
-
-Hematologic: Anemia; leukopenia
-
-Metabolic and Nutritional: Alkaline phosphatase increased; weight loss
-
-Mean serum total cholesterol levels increased by 0.5 mmol/L among patients receiving Anastrozole.
+Body as a Whole: Flu syndrome; fever; neck pain; malaise; accidental injury; infection Cardiovascular: Hypertension; thrombophlebitis Hepatic: Gamma GT increased; SGOT increased; SGPT increased Hematologic: Anemia; leukopenia Metabolic and Nutritional: Alkaline phosphatase increased; weight loss Mean serum total cholesterol levels increased by 0.5 mmol/L among patients receiving Anastrozole.
 Increases in LDL cholesterol have been shown to contribute to these changes.
-
-Musculoskeletal: Myalgia; arthralgia; pathological fracture
-
-Nervous: Somnolence; confusion; insomnia; anxiety; nervousness
-
-Respiratory: Sinusitis; bronchitis; rhinitis
-
-Skin and Appendages: Hair thinning (alopecia); pruritus
-
-Urogenital: Urinary tract infection; breast pain
-
-The incidences of the following adverse reaction groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
+Musculoskeletal: Myalgia; arthralgia; pathological fracture Nervous: Somnolence; confusion; insomnia; anxiety; nervousness Respiratory: Sinusitis; bronchitis; rhinitis Skin and Appendages: Hair thinning (alopecia); pruritus Urogenital: Urinary tract infection; breast pain The incidences of the following adverse reaction groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
 These six groups, and the adverse reactions captured in the groups, were prospectively defined.
 The results are shown in the table below.
 
 Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Reactions in Trials 0004 and 0005
 
-|  | Anastrozole |  | Anastrozole |  | MegestrolAcetate |  |
+|  | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
 | (N=262) |  | (N=246) |  | (N=253) |  |  |
@@ -335,9 +286,4 @@ Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Rea
 
 These adverse reactions are reported voluntarily from a population of uncertain size.
 Therefore, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
-The following have been reported in post-approval use of Anastrozole:
-
-- Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
-- Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
-- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
-- Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+The following have been reported in post-approval use of Anastrozole: • Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis • Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome • Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4)] • Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)

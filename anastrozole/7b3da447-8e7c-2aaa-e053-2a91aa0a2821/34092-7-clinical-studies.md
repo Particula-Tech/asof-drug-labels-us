@@ -2,8 +2,7 @@
 
 ## 14.1 Adjuvant Treatment of Breast Cancer in Postmenopausal Women
 
-A multicenter, double-blind trial (ATAC) randomized 9,366 postmenopausal women with operable breast cancer to adjuvant treatment with Anastrozole 1 mg daily, tamoxifen 20 mg daily, or a combination of the two treatments for five years or until recurrence of the disease.
-
+A multicenter, double-blind trial (ATAC) randomized 9,366 postmenopausal women with operable breast cancer to adjuvant treatment with Anastrozole1 mg daily, tamoxifen 20 mg daily, or a combination of the two treatments for five years or until recurrence of the disease.
 The primary endpoint of the trial was disease-free survival (i.e., time to occurrence of a distant or local recurrence, or contralateral breast cancer or death from any cause).
 Secondary endpoints of the trial included distant disease-free survival, the incidence of contralateral breast cancer and overall survival.
 At a median follow-up of 33 months, the combination of Anastrozole and tamoxifen did not demonstrate any efficacy benefit when compared with tamoxifen in all patients as well as in the hormone receptor positive subpopulation.
@@ -36,8 +35,8 @@ Table 7 - Demographic and Baseline Characteristics for ATAC Trial
 | Chemotherapy | 22.3 | 20.8 | 20.8 |
 | Neoadjuvant Tamoxifen | 1.6 | 1.6 | 1.7 |
 | Primary Tumor Size (%) |  |  |  |
-| T1 (£2 cm) | 63.9 | 62.9 | 64.1 |
-| T2 (>2 cm and £5 cm) | 32.6 | 34.2 | 32.9 |
+| T1 (≤2 cm) | 63.9 | 62.9 | 64.1 |
+| T2 (>2 cm and ≤5 cm) | 32.6 | 34.2 | 32.9 |
 | T3 (>5 cm) | 2.7 | 2.2 | 2.3 |
 | Nodal Status (%) |  |  |  |
 | Node positive | 34.9 | 33.6 | 33.5 |
@@ -57,7 +56,7 @@ In the hormone receptor-positive subpopulation representing about 84% of the tri
 
 Figure 1 — Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC trial (Intent-to-Treat)
 
-Figure 2 — Disease-free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial
+Figure 2 — Disease-free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized toAnastrozole or Tamoxifen Monotherapy in the ATAC Trial
 
 The survival data with 68 months follow-up is presented in Table 9.
 
@@ -67,9 +66,9 @@ The frequency of individual events in the intent-to-treat population and the hor
 
 Table 8 - All Recurrence and Death Events*
 
-|  | Intent-To-Treat Population‡ |  | Hormone Receptor-Positive Subpopulation‡ |  |
+|  | Intent-To-Treat Population‡ |  | Hormone Receptor-Positive Subpopulation† |  |
 | --- | --- | --- | --- | --- |
-|  | Anastrozole1 mg(N†=3125) | Tamoxifen20 mg(N†=3116) | Anastrozole1 mg(N†=2618) | Tamoxifen20 mg(N†=2598) |
+|  | Anastrozole1 mg(N‡=3125) | Tamoxifen20 mg(N‡=3116) | Anastrozole1 mg(N‡=2618) | Tamoxifen20 mg(N‡=2598) |
 | Median Duration of Therapy (mo) | 60 | 60 | 60 | 60 |
 | Median EfficacyFollow-up (mo) | 68 | 68 | 68 | 68 |
 | Loco-regional recurrence | 119 (3.8) | 149 (4.8) | 76 (2.9) | 101 (3.9) |
@@ -81,7 +80,7 @@ Table 8 - All Recurrence and Death Events*
 | Death from Any Cause | 411 (13.2) | 420 (13.5) | 296 (11.3) | 301 (11.6) |
 | Death breast cancer | 218 (7.0) | 248 (8.0) | 138 (5.3) | 160 (6.2) |
 | Death other reason(including unknown) | 193 (6.2) | 172 (5.5) | 158 (6.0) | 141 (5.4) |
-| *The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.†N=Number of patients randomized‡Patients may fall into more than one category. |  |  |  |  |
+| *The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.†Patients may fall into more than one category.‡N=Number of patients randomized |  |  |  |  |
 
 A summary of the study efficacy results is provided in Table 9.
 
@@ -126,7 +125,7 @@ Figure 3 - Disease-Free Survival Kaplan Meier Survival Curve for all Patients Ra
 
 a The proportion of patients with 120 months’ follow-up was 29.4%.
 
-Figure 4 - Disease-Free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial (b)
+Figure 4 - Disease-Free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized toAnastrozole or Tamoxifen Monotherapy in the ATAC Trial (b)
 
 bThe proportion of patients with 120 months’ follow-up was 29.8%.
 
@@ -188,18 +187,14 @@ The studies were double-blinded with respect to Anastrozole.
 Time to progression and objective response (only patients with measurable disease could be considered partial responders) rates were the primary efficacy variables.
 Objective response rates were calculated based on the Union Internationale Contre le Cancer (UICC) criteria.
 The rate of prolonged (more than 24 weeks) stable disease, the rate of progression, and survival were also calculated.
-
 Both trials included over 375 patients; demographics and other baseline characteristics were similar for the three treatment groups in each trial.
 Patients in the 0005 trial had responded better to prior tamoxifen treatment.
 Of the patients entered who had prior tamoxifen therapy for advanced disease (58% in Trial 0004; 57% in Trial 0005), 18% of these patients in Trial 0004 and 42% in Trial 0005 were reported by the primary investigator to have responded.
 In Trial 0004, 81% of patients were ER-positive, 13% were ER-unknown, and 6% were ER-negative.
 In Trial 0005, 58% of patients were ER-positive, 37% were ER-unknown, and 5% were ER-negative.
-In Trial
-
-0004, 62% of patients had measurable disease compared to 79% in Trial 0005.
+In Trial 0004, 62% of patients had measurable disease compared to 79% in Trial 0005.
 The sites of metastatic disease were similar among treatment groups for each trial.
 On average, 40% of the patients had soft tissue metastases; 60% had bone metastases; and 40% had visceral (15% liver) metastases.
-
 Efficacy results from the two studies were similar as presented in Table 13.
 In both studies there were no significant differences between treatment arms with respect to any of the efficacy parameters listed in the table below.
 

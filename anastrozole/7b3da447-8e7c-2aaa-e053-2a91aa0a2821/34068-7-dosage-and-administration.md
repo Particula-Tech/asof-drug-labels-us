@@ -13,4 +13,4 @@ No dosage adjustment is necessary for patients with renal impairment or for elde
 ## 2.2 Patients with Hepatic Impairment
 
 No changes in dose are recommended for patients with mild-to-moderate hepatic impairment.
-Anastrozole Tablets has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
+Anastrozole Tablets have not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
