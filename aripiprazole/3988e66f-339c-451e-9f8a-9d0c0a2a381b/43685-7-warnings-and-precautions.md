@@ -5,59 +5,20 @@
 Increased Mortality
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
+Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer's Disease
 
 In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation [placebo 0%, aripiprazole 4%], and lightheadedness [placebo 1%, aripiprazole 4%].
 
 The safety and efficacy of aripiprazole in the treatment of patients with psychosis associated with dementia have not been established.
-If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see BOXED WARNING].
+If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke
 
-Adverse Reactions (frequency 1% to < 5%) included:
-
-General disorders and administration site conditions: Flu symptoms, chills.
-
-Cardiac disorders: Arrhythmia, angina pectoris, heart failure, syncope.
-
-Vascular disorders: Hemorrhage, hypertension, postural hypotension, vasodilatation.
-
-Gastrointestinal disorders: Constipation, gastrointestinal hemorrhage, gastritis.
-
-Blood and lymphatic system disorders: Anemia, thrombocytopenia, ecchymosis.
-
-Hepatobiliary disorders: Elevated liver enzymes.
-
-Musculoskeletal and connective tissue disorders: Arthralgia, myalgia.
-
-Psychiatric disorders: Depression, confusion, nervousness.
-
-Nervous system disorders: Somnolence, insomnia, amnesia, migraine headache.
-
-Respiratory, thoracic and mediastinal disorders: Epistaxis, pneumonia.
-
-Skin and subcutaneous tissue disorders: Alopecia.
-
-Eye disorders: Abnormal vision, diplopia.
-
-Ear and labyrinth disorders: Tinnitus
-
-Renal and urinary disorders: Hematuria, renal failure.
-
-Other less frequent adverse reactions (<1%) were:
-
-Cardiac disorders: Ventricular tachycardia, supraventricular tachycardia.
-
-Nervous system disorders: Hypoesthesia.
-
-Clinical Study in Pediatric Patients
-
-The frequency of adverse events observed in pediatric patients was similar to adult patients.
-The most common adverse events observed in pediatric patients were fever, epistaxis, headache, and fatigue during the 3-month anagrelide treatment in the study.
-Episodes of increased pulse and decreased systolic or diastolic blood pressure beyond the normal ranges in the absence of clinical symptoms were observed.
-Adverse events that had been reported in these pediatric patients prior to the study and were considered to be related to anagrelide treatment based on retrospective review were; palpitations, headache, nausea, vomiting, abdominal pain, back pain, anorexia, fatigue, and muscle cramps.
+In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78 to 88 years).
+In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
+Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 ## 5.3 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
@@ -69,7 +30,7 @@ Other adverse events in pediatric patients reported in spontaneous reports and l
 
 Table 5:
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |  |  |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |  |  |
 | --- | --- | --- | --- |
 |  | Increases Compared to Placebo |  |  |
 | <18 18 to 24 | 14 additional cases 5 additional cases |  |  |
@@ -126,6 +87,10 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and, thereby, may possibly mask the underlying process.
+The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
+
 There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and, thereby, may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
@@ -146,7 +111,7 @@ While all drugs in the class have been shown to produce some metabolic changes, 
 Hyperglycemia/Diabetes Mellitus
 
 Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics.
-There have been reports of hyperglycemia in patients treated with aripiprazole [see ADVERSE REACTIONS (6.1, 6.2)].
+There have been reports of hyperglycemia in patients treated with aripiprazole [see Adverse Reactions (6.1, 6.2)].
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
@@ -161,7 +126,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults
 
-In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or bipolar disorder, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
+In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or bipolar disorder, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1,057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
 Table 6 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
 
 Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients
@@ -231,13 +196,13 @@ Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy T
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
-| Total Cholesterol Normal to High | Aripiprazole | 34/1357 | 2.5 |
+| Total Cholesterol Normal to High | Aripiprazole | 34/1,357 | 2.5 |
 | (<200 mg/dL to ≥240 mg/dL) | Placebo | 27/973 | 2.8 |
 | Fasting Triglycerides Normal to High | Aripiprazole | 40/539 | 7.4 |
 | (<150 mg/dL to ≥200 mg/dL) | Placebo | 30/431 | 7.0 |
 | Fasting LDL Cholesterol Normal to High | Aripiprazole | 2/332 | 0.6 |
 | (<100 mg/dL to ≥160 mg/dL) | Placebo | 2/268 | 0.7 |
-| HDL Cholesterol Normal to Low | Aripiprazole | 121/1066 | 11.4 |
+| HDL Cholesterol Normal to Low | Aripiprazole | 121/1,066 | 11.4 |
 | (≥40 mg/dL to <40 mg/dL) | Placebo | 99/794 | 12.5 |
 
 In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4.0%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
@@ -307,7 +272,7 @@ Clinical monitoring of weight is recommended.
 
 Adults
 
-In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
+In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1,100) in placebo-controlled patients.
 At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was
 
 –1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
@@ -376,12 +341,12 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.8 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%).
-[see ADVERSE REACTIONS (6.1)]
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2,467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%).
+[see Adverse Reactions (6.1)]
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), in pediatric oral aripiprazole-treated patients aged 6 to 18 years (0.4%, 1%).
 
-Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see DRUG INTERACTIONS (7.1)].
+Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see Drug Interactions (7.1)].
 
 ## 5.9 Falls
 
@@ -398,11 +363,11 @@ In patients with a history of a clinically significant low WBC/ANC or drug-induc
 In such patients, consider discontinuation of aripiprazole at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
+Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1,000/mm3) and follow their WBC counts until recovery.
 
 ## 5.11 Seizures/Convulsions
 
-In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2467) of undiagnosed adult patients treated with oral aripiprazole, in 0.1% (1/732) of pediatric patients (6 to 18 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
+In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2,467) of undiagnosed adult patients treated with oral aripiprazole, in 0.1% (1/732) of pediatric patients (6 to 18 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
 
 As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
@@ -410,20 +375,20 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 ## 5.12 Potential for Cognitive and Motor Impairment
 
 Aripiprazole, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
-For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2467) treated with oral aripiprazole (11%, 6%), in pediatric patients ages 6 to 17 (n=611) (24%, 6%), and in adult patients (n=501) on aripiprazole Injection (9%, 6%).
-Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients and 3% (20/732) of pediatric patients (6 to 18 years) on oral aripiprazole in short-term, placebo-controlled trials.
+For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2,467) treated with oral aripiprazole (11%, 6%), in pediatric patients ages 6 to 17 (n=611) (24%, 6%), and in adult patients (n=501) on aripiprazole Injection (9%, 6%).
+Somnolence (including sedation) led to discontinuation in 0.3% (8/2,467) of adult patients and 3% (20/732) of pediatric patients (6 to 18 years) on oral aripiprazole in short-term, placebo-controlled trials.
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with aripiprazole does not affect them adversely.
 
 ## 5.13 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
+Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see Adverse Reactions (6.2)].
 
 ## 5.14 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and major depressive disorder, and close supervision of high-risk patients should accompany drug therapy.
-Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
+Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.15 Dysphagia
 

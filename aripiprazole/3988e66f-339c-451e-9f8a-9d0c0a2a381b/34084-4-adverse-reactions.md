@@ -4,28 +4,28 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)]
-- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)]
-- Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
-- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
-- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
-- Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.7)]
-- Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
-- Falls [see WARNINGS AND PRECAUTIONS (5.9)]
-- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
-- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)]
-- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)]
-- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)]
-- Suicide [see WARNINGS AND PRECAUTIONS (5.14)]
-- Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
+- Cerebrovascular Adverse Events, Including Stroke [see Warnings and Precautions (5.2)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning andWarnings and Precautions (5.3)]
+- Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
+- Tardive Dyskinesia [see Warnings and Precautions (5.5)]
+- Metabolic Changes [see Warnings and Precautions (5.6)]
+- Pathological Gambling and Other Compulsive Behaviors[see Warnings and Precautions (5.7)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.8)]
+- Falls [see Warnings and Precautions (5.9)]
+- Leukopenia, Neutropenia, and Agranulocytosis [see Warnings and Precautions (5.10)]
+- Seizures/Convulsions [see Warnings and Precautions (5.11)]
+- Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.12)]
+- Body Temperature Regulation [see Warnings and Precautions (5.13)]
+- Suicide [see Warnings and Precautions (5.14)]
+- Dysphagia [see Warnings and Precautions (5.15)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
 The most common adverse reactions in the pediatric clinical trials (≥10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
 
-Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, Dementia of the Alzheimer's type, Parkinson's disease, and alcoholism, and who had approximately 7619 patient-years of exposure to oral aripiprazole and 749 patients with exposure to aripiprazole injection.
-A total of 3390 patients were treated with oral aripiprazole for at least 180 days and 1933 patients treated with oral aripiprazole had at least 1 year of exposure.
+Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, Dementia of the Alzheimer's type, Parkinson's disease, and alcoholism, and who had approximately 7,619 patient-years of exposure to oral aripiprazole and 749 patients with exposure to aripiprazole injection.
+A total of 3,390 patients were treated with oral aripiprazole for at least 180 days and 1,933 patients treated with oral aripiprazole had at least 1 year of exposure.
 
 Aripiprazole has been evaluated for safety in 1,686 patients (6 to 18 years) who participated in multiple-dose, clinical trials in schizophrenia, bipolar mania, autistic disorder, or Tourette's disorder and who had approximately 1,342 patient-years of exposure to oral aripiprazole.
 A total of 959 pediatric patients were treated with oral aripiprazole for at least 180 days and 556 pediatric patients treated with oral aripiprazole had at least 1 year of exposure.
@@ -71,7 +71,7 @@ Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Pa
 
 | System Organ Class Preferred Term | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
-| Aripiprazole (n=1843) | Placebo (n=1166) |  |
+| Aripiprazole (n=1,843) | Placebo (n=1,166) |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -440,7 +440,7 @@ Other Adverse Reactions Observed During the Premarketing Evaluation of Aripipraz
 
 The following listing does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
 
-Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients:
+Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients:
 
 Adults - Oral Administration
 
@@ -547,4 +547,5 @@ infrequent - hirsutism
 
 ## 6.2 Postmarketing Experience
 
-Anagrelide capsules 1 mg
+The following adverse reactions have been identified during post-approval use of aripiprazole.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation.
