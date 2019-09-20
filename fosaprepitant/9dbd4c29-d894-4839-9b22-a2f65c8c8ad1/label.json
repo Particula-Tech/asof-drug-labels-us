@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210064"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-4385-79"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant",
+      "name": "Fosaprepitant"
+    }
+  ],
+  "setid": "9dbd4c29-d894-4839-9b22-a2f65c8c8ad1",
+  "source": "dailymed"
+}
