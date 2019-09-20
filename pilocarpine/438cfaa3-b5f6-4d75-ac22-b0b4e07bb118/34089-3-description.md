@@ -6,6 +6,6 @@ Pilocarpine hydrochloride, with a chemical name of (3S-cis)-2(3H)-Furanone, 3-et
 
 Each 5 mg pilocarpine hydrochloride tablet, USP for oral administration contains 5 mg of pilocarpine hydrochloride USP.
 Inactive ingredients in the tablet are: hypromellose, microcrystalline cellulose, polyethylene glycol, stearic acid and titanium dioxide.
-
 Each 7.5 mg pilocarpine hydrochloride tablet, USP for oral administration contains 7.5 mg of pilocarpine hydrochloride USP.
 Inactive ingredients in the tablet are: FD&C blue # 2, hypromellose, microcrystalline cellulose, polyethylene glycol, stearic acid and titanium dioxide.
+FDA approved dissolution test specifications differ from USP.
