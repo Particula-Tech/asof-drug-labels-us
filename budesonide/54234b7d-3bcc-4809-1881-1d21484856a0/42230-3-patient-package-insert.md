@@ -275,9 +275,7 @@ Figure 5
 - •When you are finished taking your dose place the white cover back on the inhaler and twist shut.
 - •Rinse your mouth with water after each dose to decrease your risk of getting thrush.
   Do not swallow the water.
-
-Reading the Dose Indicator Window
-
+- •Reading the Dose Indicator Window
 - •The label on the box or cover will tell you how many doses are in your PULMICORT FLEXHALER.
 - •Your PULMICORT FLEXHALER has a dose indicator window just below the mouthpiece.
   The dose indicator tells you about how many doses are left in the inhaler.
@@ -314,9 +312,7 @@ Figure 7
   Check the dose indicator window to see how many doses are left.
 - •Refill your PULMICORT FLEXHALER prescription before your medicine runs out.
   You will get a new inhaler each time you refill your prescription.
-
-Cleaning your PULMICORT FLEXHALER
-
+- •Cleaning your PULMICORT FLEXHALER
 - •Keep your PULMICORT FLEXHALER clean and dry at all times.
   Do not immerse it in water.
 - •Wipe the outside of the mouthpiece one time each week with a dry tissue.
@@ -328,7 +324,7 @@ Talk to your healthcare provider or pharmacist if you have any problems with you
 
 PULMICORT FLEXHALER is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2007, 2008, 2010, 2016
+©AstraZeneca 2007, 2008, 2010, 2016, 2019
 
 Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington DE 19850
 
