@@ -147,6 +147,8 @@ Tell your healthcare provider right away if you or your child have any of these 
 
 • sleep walking
 
+• stuttering
+
 • suicidal thoughts and actions (including suicide)
 
 • tremor
@@ -265,6 +267,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0119
+Revised: 0819
 
 Dispense with Patient Information Leaflet available at: www.drreddys.com/pi/montelukasttabsandchewtabs.pdf
