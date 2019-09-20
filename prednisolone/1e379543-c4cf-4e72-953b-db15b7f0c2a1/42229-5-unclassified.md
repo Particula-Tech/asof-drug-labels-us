@@ -1,9 +1,3 @@
-Revised 07/2015
+Revised 09/2019
 
-Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
-
-For inquiries call 1-877-370-1142
-
-U.S. Patent No. 6,740,341
-
-Orapred ODT® is a registered trademark of Concordia Pharmaceuticals Inc.
+Manufactured for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited, 17 Northwood House, Dublin 9, Ireland For inquiries call 1-877-370-1142 US Patent No. 6,740,341 Orapred® is a registered trademark under exclusive license to Amdipharm Limited.
