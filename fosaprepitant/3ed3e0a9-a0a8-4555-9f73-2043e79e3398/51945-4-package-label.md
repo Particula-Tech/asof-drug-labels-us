@@ -11,10 +11,10 @@ Fosaprepitant for Injection
 
 Rx only Baxter logo
 
-Bar Code (01)003380008017
+Bar Code 3 03380 00801 8
 
 Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA Product of China Baxter is a registered trademark of Baxter International Inc. Lot/Exp.
-07-32-00-0006
+07-32-00-0011
 
 Fosaprepitant for Injection vial must be refrigerated at 2°C-8°C (36°F-46°F).
 
@@ -26,7 +26,7 @@ Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA Product 
 
 Baxter Logo
 
-07-01-00-0025
+07-01-00-0249
 
 2D DATA MATRIX BARCODE FOR POSITION ONLY
 
@@ -63,4 +63,4 @@ Read accompanying directions carfully for the preparation of Fosaprepitant for I
 Vial for single use only.
 Discard unused portion.
 
-Bar Code 003380008017
+Bar Code 3 03380 00801 8
