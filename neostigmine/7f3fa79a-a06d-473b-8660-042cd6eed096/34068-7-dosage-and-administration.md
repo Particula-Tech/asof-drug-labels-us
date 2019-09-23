@@ -1,6 +1,6 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## 2.1. Important Dosage Information
+## 2.1 Important Dosage Information
 
 BLOXIVERZ should be administered by trained healthcare providers familiar with the use, actions, characteristics, and complications of neuromuscular blocking agents (NMBA) and neuromuscular block reversal agents.
 Doses of BLOXIVERZ should be individualized, and a peripheral nerve stimulator should be used to determine the time of initiation of BLOXIVERZ and should be used to determine the need for additional doses.
@@ -11,9 +11,9 @@ The BLOXIVERZ dosage is weight-based [see Dosage and Administration (2.2)].
 Prior to BLOXIVERZ administration and until complete recovery of normal ventilation, the patient should be well ventilated and a patent airway maintained.
 Satisfactory recovery should be judged by adequacy of skeletal muscle tone and respiratory measurements in addition to the response to peripheral nerve stimulation.
 
-An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be administered prior to or concomitantly with BLOXIVERZ [see Dosage and Administration (2.4)]
+An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be administered prior to or concomitantly with BLOXIVERZ [see Dosage and Administration (2.4)].
 
-## 2.2. Dosage in Adults
+## 2.2 Dosage in Adults
 
 1. Peripheral nerve stimulation devices capable of delivering a train-of-four (TOF) stimulus are essential to effectively using BLOXIVERZ.
 2. There must be a twitch response to the first stimulus in the TOF of at least 10% of its baseline level, i.e., the response prior to NMBA administration, prior to the administration of BLOXIVERZ.
@@ -24,7 +24,7 @@ An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be ad
    - The 0.03 mg/kg dose is recommended for:
      - Reversal of NMBAs with shorter half-lives, e.g., rocuronium, or
      - When the first twitch response to the TOF stimulus is substantially greater than 10% of baseline or when a second twitch is present.
-   - The 0.07 mg/kg dose is recommended for
+   - The 0.07 mg/kg dose is recommended for:
      - NMBAs with longer half-lives, e.g., vecuronium and pancuronium, or
      - When the first twitch response is relatively weak, i.e., not substantially greater than 10% of baseline or
      - There is need for more rapid recovery.
@@ -33,12 +33,12 @@ An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be ad
 8. Patients should continue to be monitored for adequacy of reversal from NMBAs for a period of time that would assure full recovery based on the patient’s medical condition and the pharmacokinetics of neostigmine and the NMBA used.
 9. The recommended maximum total dose is 0.07 mg/kg or up to a total of 5 mg, whichever is less.
 
-## 2.3. Dosage in Pediatric Patients, including Neonates
+## 2.3 Dosage in Pediatric Patients, Including Neonates
 
 Adult guidelines should be followed when BLOXIVERZ is administered to pediatric patients.
 Pediatric patients require BLOXIVERZ doses similar to those for adult patients.
 
-## 2.4. Anticholinergic (Atropine or Glycopyrrolate) Administration
+## 2.4 Anticholinergic (Atropine or Glycopyrrolate) Administration
 
 An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be administered prior to or concomitantly with BLOXIVERZ.
 The anticholinergic agent should be administered intravenously using a separate syringe.

@@ -1,6 +1,6 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1. Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
@@ -9,7 +9,7 @@ It is not known whether BLOXIVERZ can cause fetal harm when administered to a pr
 The incidence of malformations in human pregnancies has not been established for neostigmine as the data are limited.
 All pregnancies, regardless of drug exposure, have a background risk of 2 to 4% for major birth defects, and 15 to 20% for pregnancy loss.
 
-No adverse effects were noted in rats or rabbits treated with human equivalent doses of neostigmine methylsulfate doses up to 8.1 and 13 mcg/kg/day, respectively, during organogenesis (0.1 to 0.2-times the maximum recommended human dose of 5 mg/60 kg person/day based on body surface area comparisons).
+No adverse effects were noted in rats or rabbits treated with human equivalent doses of neostigmine methylsulfate doses up to 8.1 and 13 mcg/kg/day, respectively, during organogenesis (0.1 to 0.2 times the maximum recommended human dose of 5 mg/60 kg person/day based on body surface area comparisons).
 
 Anticholinesterase drugs, including neostigmine may cause uterine irritability and induce premature labor when administered to pregnant women near term.
 
@@ -27,18 +27,18 @@ In a pre- and postnatal development study in rats, neostigmine methylsulfate was
 There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring at HED doses up to 8.1 mcg/kg/day which is 0.097 times the MRHD of 5 mg/60 kg on a mg/m2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
-## 8.2. Labor and Delivery
+## 8.2 Labor and Delivery
 
 The effect of BLOXIVERZ on the mother and fetus with regard to labor, delivery, the need for forceps delivery or other intervention or resuscitation of the newborn, is not known.
 
 Cholinesterase inhibitor drugs may induce premature labor when given intravenously to pregnant women near term.
 
-## 8.3. Nursing Mothers
+## 8.3 Nursing Mothers
 
 It is not known whether neostigmine methylsulfate is excreted in human milk.
 Caution should be exercised when BLOXIVERZ is administered to a nursing woman.
 
-## 8.4. Pediatric Use
+## 8.4 Pediatric Use
 
 BLOXIVERZ is approved for the reversal of the effects of non-depolarizing neuromuscular blocking agents after surgery in pediatric patients of all ages.
 
@@ -50,21 +50,21 @@ The dose of BLOXIVERZ required to reverse neuromuscular blockade in children var
 
 Since the blood pressure in pediatric patients, particularly infants and neonates, is sensitive to changes in heart rate, the effects of an anticholinergic agent (e.g., atropine) should be observed prior to administration of neostigmine to lessen the probability of bradycardia and hypotension.
 
-## 8.5. Geriatric Use
+## 8.5 Geriatric Use
 
 Because elderly patients are more likely to have decreased renal function, BLOXIVERZ should be used with caution and monitored for a longer period in elderly patients.
 The duration of action of neostigmine methylsulfate is prolonged in the elderly; however, elderly patients also experience slower spontaneous recovery from neuromuscular blocking agents.
 Therefore, dosage adjustments are not generally needed in geriatric patients; however, they should be monitored for longer periods than younger adults to assure additional doses of BLOXIVERZ are not required.
 The duration of monitoring should be predicated on the anticipated duration of action for the NMBA used on the patient [see Dosage and Administration (2.3)].
 
-## 8.6. Renal Impairment
+## 8.6 Renal Impairment
 
 Elimination half-life of neostigmine methylsulfate was prolonged in anephric patients compared to normal subjects.
 
 Although no adjustments to BLOXIVERZ dosing appear to be warranted in patients with impaired renal function, they should be closely monitored to assure the effects of the neuromuscular blocking agent, particularly one cleared by the kidneys, do not persist beyond those of BLOXIVERZ.
 In this regard, the interval for re-dosing the neuromuscular blocking agent during the surgical procedure may be useful in determining whether, and to what extent, post-operative monitoring needs to be extended.
 
-## 8.7. Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 The pharmacokinetics of neostigmine methylsulfate in patients with hepatic impairment have not been studied.
 Neostigmine methylsulfate is metabolized by microsomal enzymes in the liver.

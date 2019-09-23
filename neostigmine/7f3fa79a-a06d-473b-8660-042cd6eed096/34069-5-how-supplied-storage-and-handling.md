@@ -1,10 +1,9 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 BLOXIVERZ (Neostigmine Methylsulfate Injection, USP) is available in the following:
 
 | NDC No. | Strength | Vial Size |
 | --- | --- | --- |
-| 76014-902-10 | 0.5 mg/mL | 10 mL multiple-dose vials (supplied in packages of 10) |
 | 76014-903-10 | 1 mg/mL | 10 mL multiple-dose vials (supplied in packages of 10) |
 
 The vial stopper is not made with natural rubber latex.
@@ -13,13 +12,7 @@ BLOXIVERZ should be stored at 20° to 25°C (68° to 77°F); excursions permitte
 Protect from light.
 Store in carton until time of use.
 
-Manufactured for:
-
-Avadel
-
-Avadel Legacy Pharmaceuticals, LLC
-
-Chesterfield, MO 63005
+Manufactured for: Avadel Legacy Pharmaceuticals, LLC Chesterfield, MO 63005
 
 Rev.
-01/17
+09/19
