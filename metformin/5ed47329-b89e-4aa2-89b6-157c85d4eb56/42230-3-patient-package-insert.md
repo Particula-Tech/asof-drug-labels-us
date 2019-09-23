@@ -126,13 +126,13 @@ RIOMET ER may cause serious side effects, including:
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take RIOMET ER.
   Signs and symptoms of low blood sugar may include:
 
-| oheadache | ohunger | odizziness |
+| •headache | •hunger | •dizziness |
 | --- | --- | --- |
-| odrowsiness | ofast heartbeat | osweating |
-| oweakness | oconfusion |  |
-| oirritability | oshaking or feeling jittery |  |
+| •drowsiness | •fast heartbeat | •sweating |
+| •weakness | •confusion |  |
+| •irritability | •shaking or feeling jittery |  |
 
-1. Common side effects of RIOMET ER include:
+- Common side effects of RIOMET ER include:
 
 | •diarrhea | •indigestion |
 | --- | --- |

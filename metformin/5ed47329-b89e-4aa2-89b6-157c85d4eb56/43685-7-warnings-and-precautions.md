@@ -20,12 +20,12 @@ For each of the known and possible risk factors for metformin-associated lactic 
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
 Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)]:
 
-- oBefore initiating RIOMET ER, obtain an estimated glomerular filtration rate (eGFR).
-- oRIOMET ER is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
-- oInitiation of RIOMET ER is not recommended in patients with eGFR between 30 to 45 mL/min/1.73 m2.
-- oObtain an eGFR at least annually in all patients taking RIOMET ER.
+- •Before initiating RIOMET ER, obtain an estimated glomerular filtration rate (eGFR).
+- •RIOMET ER is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
+- •Initiation of RIOMET ER is not recommended in patients with eGFR between 30 to 45 mL/min/1.73 m2.
+- •Obtain an eGFR at least annually in all patients taking RIOMET ER.
   In patients at risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
-- oIn patients taking RIOMET ER whose eGFR falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
+- •In patients taking RIOMET ER whose eGFR falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
 - •Drug interactions - The concomitant use of RIOMET ER with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance, or increase metformin accumulation.
   Consider more frequent monitoring of patients.
 - •Age 65 or greater - The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
