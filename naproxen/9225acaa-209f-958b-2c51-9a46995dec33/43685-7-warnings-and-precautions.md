@@ -75,7 +75,7 @@ Additionally, fluid retention and edema have been observed in some patients trea
 Use of naproxen may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
 
 Avoid the use of Naproxen Sodium Controlled-Release Tablets in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
-If Naproxen Sodium Controlled-Release Tablets is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+If Naproxen Sodium Controlled-Release Tablets are used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
 ## 5.6 Renal Toxicity and Hyperkalemia
 
@@ -86,7 +86,7 @@ Patients at greatest risk of this reaction are those with impaired renal functio
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 No information is available from controlled clinical studies regarding the use of Naproxen Sodium Controlled-Release Tablets in patients with advanced renal disease.
-The renal effects of Naproxen Sodium Controlled-Release Tablets may hasten the progression of renal dysfunction in patients with pre-existing renal disease.
+The renal effects of Naproxen Sodium Controlled-Release Tablets may hasten the progression of renal dysfunction in patients with preexisting renal disease.
 
 Correct volume status in dehydrated or hypovolemic patients prior to initiating Naproxen Sodium Controlled-Release Tablets.
 Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of Naproxen Sodium Controlled-Release Tablets [see Drug Interactions (7)].

@@ -30,5 +30,3 @@ Alert patients that NSAIDs may be present in “over the counter” medications 
 Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with naproxen sodium until they talk to their healthcare provider [see Drug Interactions (7)].
 
 All trademarks are the property of their respective owners.
-
-To request medical information or to report SUSPECTED ADVERSE REACTIONS, contact Alvogen at 1-866-770-3024 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
