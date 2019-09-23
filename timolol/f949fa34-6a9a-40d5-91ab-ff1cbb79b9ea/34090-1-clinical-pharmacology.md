@@ -5,7 +5,7 @@
 Timolol maleate is a beta1 and beta2 (non-selective) adrenergic receptor blocking agent that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity.
 
 Beta-adrenergic receptor blockade reduces cardiac output in both healthy subjects and patients with heart disease.
-In patients with severe impairment of myocardial function beta-adrenergic receptor blockade may inhibit the stimulatory effect of the sympathetic nervous system necessary to maintain adequate cardiac function.
+In patients with severe impairment of myocardial function, beta-adrenergic receptor blockade may inhibit the stimulatory effect of the sympathetic nervous system necessary to maintain adequate cardiac function.
 
 Beta-adrenergic receptor blockade in the bronchi and bronchioles results in increased airway resistance from unopposed parasympathetic activity.
 Such an effect in patients with asthma or other bronchospastic conditions is potentially dangerous.
@@ -29,7 +29,7 @@ The mean peak plasma concentration following morning dosing was 0.46 ng/mL and f
 
 ## Clinical Studies
 
-In controlled multiclinic studies in patients with untreated intraocular pressures of 22 mmHg or greater, timolol maleate ophthalmic solution 0.25 percent or 0.5 percent administered twice a day produced a greater reduction in intraocular pressure than 1, 2, 3, or 4 percent pilocarpine solution administered four times a day or 0.5, 1, or 2 percent epinephrine hydrochloride solution administered twice a day.
+In controlled multiclinic studies in patients with untreated intraocular pressures of 22 mmHg or greater, timolol maleate ophthalmic solution 0.25% or 0.5% administered twice a day produced a greater reduction in intraocular pressure than 1, 2, 3, or 4% pilocarpine solution administered four times a day or 0.5, 1, or 2% epinephrine hydrochloride solution administered twice a day.
 
 In these studies, timolol was generally well tolerated and produced fewer and less severe side effects than either pilocarpine or epinephrine.
 A slight reduction of resting heart rate in some patients receiving timolol (mean reduction 2.9 beats/minute standard deviation 10.2) was observed.

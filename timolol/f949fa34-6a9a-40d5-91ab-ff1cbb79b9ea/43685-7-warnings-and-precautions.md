@@ -3,7 +3,7 @@
 As with many topically applied ophthalmic drugs, this drug is absorbed systemically.
 
 The same adverse reactions found with systemic administration of beta-adrenergic blocking agents may occur with topical administration.
-For example, severe respiratory reactions and cardiac reactions, including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure, have been reported following systemic or ophthalmic administration of timolol maleate (see CONTRAINDICATIONS).
+For example, severe respiratory reactions and cardiac reactions, including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure, have been reported following systemic or ophthalmic administration of timolol maleate [see Contraindications].
 
 ## Cardiac Failure
 
@@ -14,7 +14,7 @@ At the first sign or symptom of cardiac failure, timolol should be discontinued.
 
 ## Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which timolol is contraindicated [see CONTRAINDICATIONS]), should, in general, not receive beta-blockers, including timolol.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which timolol is contraindicated [see Contraindications]) should, in general, not receive beta-blockers, including timolol.
 
 ## Major Surgery
 
@@ -34,21 +34,26 @@ If necessary during surgery, the effects of beta-adrenergic blocking agents may 
 Because of potential effects of beta-adrenergic blocking agents on blood pressure and pulse, these agents should be used with caution in patients with cerebrovascular insufficiency.
 If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with timolol, alternative therapy should be considered.
 
-There have been reports of bacterial keratitis associated with the use of multiple dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface.
-(See PRECAUTIONS, Information for Patients.)
+There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Precautions, Information for Patients].
 
-Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g. timolol).
+Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g., timolol).
 
-Angle-closure glaucoma: In patients with angle-closure glaucoma, the immediate objective of treatment is to reopen the angle.
+Angle-closure glaucoma
+
+In patients with angle-closure glaucoma, the immediate objective of treatment is to reopen the angle.
 This requires constricting the pupil.
 Timolol maleate has little or no effect on the pupil.
 Timolol maleate should not be used alone in the treatment of angle-closure glaucoma.
 
-Anaphylaxis: While taking beta-blockers, patients with a history of atopy or a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge with such allergens.
+Anaphylaxis
+
+While taking beta-blockers, patients with a history of atopy or a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge with such allergens.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat anaphylactic reactions.
 
-Muscle Weakness: Beta-adrenergic blockade has been reported to potentiate muscle weakness consistent with certain myasthenic symptoms (e.g., diplopia, ptosis, and generalized weakness).
+Muscle Weakness
+
+Beta-adrenergic blockade has been reported to potentiate muscle weakness consistent with certain myasthenic symptoms (e.g., diplopia, ptosis, and generalized weakness).
 Timolol has been reported rarely to increase muscle weakness in some patients with myasthenia gravis or myasthenic symptoms.
 
 ## Information for Patients
@@ -56,38 +61,50 @@ Timolol has been reported rarely to increase muscle weakness in some patients wi
 Patients should be instructed to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures.
 
 Patients should also be instructed that ocular solutions, if handled improperly or if the tip of the dispensing container contacts the eye or surrounding structures, can become contaminated by common bacteria known to cause ocular infections.
-Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
-(See PRECAUTIONS, General).
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see Precautions, General].
 
-Patients should also be advised that if they have ocular surgery or develop an intercurrent ocular condition (e. g., trauma, or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
+Patients should also be advised that if they have ocular surgery or develop an intercurrent ocular condition (e. g., trauma or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
 
-Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product.
-(See CONTRAINDICATIONS.)
+Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product [see Contraindications].
 
-Patients should be advised that timolol maleate ophthalmic solution contains benzalkonium chloride, which may be absorbed by soft contact lenses.
-Contacts lenses should be removed prior to administration of the solution.
+Patients should be advised that timolol maleate ophthalmic solution contains benzalkonium chloride which may be absorbed by soft contact lenses.
+Contact lenses should be removed prior to administration of the solution.
 Lenses may be reinserted 15 minutes following timolol maleate ophthalmic solution administration.
 
 ## Drug Interactions
 
 Although timolol used alone has little or no effect on pupil size, mydriasis resulting from concomitant therapy with timolol and epinephrine has been reported occasionally.
 
-Beta-adrenergic blocking agents: Patients who are receiving a beta-adrenergic blocking agent orally and timolol should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
+Beta-adrenergic blocking agents
+
+Patients who are receiving a beta-adrenergic blocking agent orally and timolol should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
 The concomitant use of two topical beta-adrenergic blocking agents is not recommended.
 
-Calcium antagonists: Caution should be used in the coadministration of beta-adrenergic blocking agents, such as timolol, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
+Calcium antagonists
+
+Caution should be used in the coadministration of beta-adrenergic blocking agents, such as timolol, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
 In patients with impaired cardiac function, coadministration should be avoided.
 
-Catecholamine-depleting drugs: Close observation of the patient is recommended when a beta blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
+Catecholamine-depleting drugs
 
-Digitalis and calcium antagonists: The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
+Close observation of the patient is recommended when a beta blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
 
-Quinidine: Potentiated systemic beta-blockade (e.g., decreased heart rate) has been reported during combined treatment with quinidine and timolol, possibly because quinidine inhibits the metabolism of timolol via the P-450 enzyme, CYP2D6.
+Digitalis and calcium antagonists
 
-Clonidine: Oral beta-adrenergic blocking agents may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
+The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
+
+CYP2D6 inhibitors
+
+Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has been reported during combined treatment with CYP2D6 inhibitors (e.g., quinidine, SSRIs) and timolol.
+
+Clonidine
+
+Oral beta-adrenergic blocking agents may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
 There have been no reports of exacerbation of rebound hypertension with ophthalmic timolol maleate.
 
-Injectable Epinephrine: (See PRECAUTIONS, General, Anaphylaxis)
+Injectable epinephrine
+
+[See Precautions, General, Anaphylaxis].
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -102,16 +119,17 @@ An increased incidence of mammary adenocarcinomas in rodents has been associated
 Furthermore, in adult human female subjects who received oral dosages of up to 60 mg of timolol maleate (the maximum recommended human oral dosage), there were no clinically meaningful changes in serum prolactin.
 
 Timolol maleate was devoid of mutagenic potential when tested in vivo (mouse) in the micronucleus test and cytogenetic assay (doses up to 800 mg/kg) and in vitro in a neoplastic cell transformation assay (up to 100 mcg/mL).
-
 In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 mcg/plate, were associated with statistically significant elevations of revertants observed with tester strain TA100 (in seven replicate assays), but not in the remaining three strains.
 In the assays with tester strain TA100, no consistent dose response relationship was observed, and the ratio of test to control revertants did not reach 2.
 A ratio of 2 is usually considered the criterion for a positive Ames test.
 
 Reproduction and fertility studies in rats demonstrated no adverse effect on male or female fertility at doses up to 21,000 times the systemic exposure following the maximum recommended human ophthalmic dose.
 
-## Pregnancy-Teratogenic effects
+## Pregnancy
 
-Pregnancy Category C. Teratogenicity studies with timolol in mice, rats, and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
+Teratogenic effects
+
+Teratogenicity studies with timolol in mice, rats, and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
 Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring.
 Doses of 1000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose, in this case without apparent maternotoxicity.
@@ -126,7 +144,9 @@ Because of the potential for serious adverse reactions from timolol in nursing i
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness of timolol maleate ophthalmic solution have been established when administered in pediatric patients aged 2 years and older.
+Use of timolol maleate ophthalmic solution in these children is supported by evidence from adequate and well controlled studies in children and adults.
+Safety and efficacy in pediatric patients below the age of 2 years have not been established.
 
 ## Geriatric Use
 

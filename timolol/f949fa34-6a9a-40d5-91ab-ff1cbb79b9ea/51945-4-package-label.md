@@ -1,41 +1,51 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 61314-227-05
+NDC 61314-226-05
 
-Timolol Maleate
+Timolol
+
+Maleate
 
 Ophthalmic
 
-Solution USP
+Solution, USP
 
-Equivalent to Timolol Maleate 6.8 mg/mL
+Equivalent to Timolol
 
-0.
-5%
+Maleate 3.4 mg/mL
 
-STERILE 5 mL
+0.25%
 
 Rx only
 
-Sandoz
+STERILE
+
+5 mL
+
+SANDOZ
 
 # Package/Label Display Panel
 
-NDC 61314-226-05
+NDC 61314-227-05
 
-Timolol Maleate
+Timolol
+
+Maleate
 
 Ophthalmic
 
-Solution USP
+Solution, USP
 
-Equivalent to Timolol Maleate 3.4 mg/mL
+Equivalent to Timolol
 
-0.
-25%
+Maleate 6.8 mg/mL
 
-STERILE 5 mL
+0.5%
 
 Rx only
 
-Sandoz
+STERILE
+
+5 mL
+
+SANDOZ
