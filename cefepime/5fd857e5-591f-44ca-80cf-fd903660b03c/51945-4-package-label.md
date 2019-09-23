@@ -1,4 +1,4 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Cefepime 1 gram
+# Package/Label Display Panel
 
 NDC 44567-240-10
 
@@ -8,7 +8,7 @@ For IV or IM use after constitution.
 
 Rx only
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY - Cefepime 2 grams
+# Package/Label Display Panel
 
 NDC 44567-241-10
 
@@ -29,8 +29,6 @@ For IV or IM use after constitution.
 Rx only
 
 # Package/Label Display Panel
-
-## PACKAGE LABEL - PRINCIPAL DISPLAY - Cefepime 2 grams
 
 NDC 44567-241-10
 

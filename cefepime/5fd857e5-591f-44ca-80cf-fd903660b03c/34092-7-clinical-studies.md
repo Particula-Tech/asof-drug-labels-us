@@ -24,7 +24,7 @@ Table 12: Demographics of Evaluable Patients (First Episodes Only)
 | Bone marrow graft | 9 (5%) | 7 (5%) |
 | SBP less than 90 mm Hg at entry | 7 (4%) | 2 (1%) |
 
-ANC = absolute neutrophil count; SBP – systolic blood pressure
+ANC = absolute neutrophil count; SBP = systolic blood pressure
 
 Table 13 describes the clinical response rates observed.
 For all outcome measures, cefepime was therapeutically equivalent to ceftazidime.
