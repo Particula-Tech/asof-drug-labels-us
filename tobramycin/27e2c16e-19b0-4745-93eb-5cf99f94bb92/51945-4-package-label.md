@@ -1,3 +1,3 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 61314-643-05 Tobramycin Ophthalmic Solution USP 0.3% Rx only STERILE 5 mL SANDOZ
+NDC 61314-643-05 Tobramycin Ophthalmic Solution, USP 0.3% Rx only STERILE 5 mL SANDOZ

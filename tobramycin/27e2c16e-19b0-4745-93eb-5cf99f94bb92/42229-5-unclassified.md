@@ -1,3 +1,3 @@
-9007228-1011
+Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc., Princeton, NJ 08540
 
-SANDOZ Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540 Printed in USA
+Revised: August 2019 9017853
