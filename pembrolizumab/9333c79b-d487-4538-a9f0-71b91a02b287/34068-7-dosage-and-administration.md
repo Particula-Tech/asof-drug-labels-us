@@ -89,7 +89,13 @@ The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusi
 When axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer.
 See also the Prescribing Information for recommended axitinib dosing information.
 
-## 2.16 Dose Modifications
+## 2.16 Recommended Dosage for Endometrial Carcinoma
+
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks in combination with lenvatinib 20 mg orally once daily until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months in patients without disease progression.
+
+Refer to the lenvatinib prescribing information for recommended dosing information.
+
+## 2.17 Dose Modifications
 
 No dose reductions of KEYTRUDA are recommended.
 Withhold or discontinue KEYTRUDA to manage adverse reactions as described in Table 1.
@@ -128,7 +134,11 @@ In patients with RCC being treated with KEYTRUDA in combination with axitinib:
   If rechallenging with axitinib, consider dose reduction as per the axitinib Prescribing Information.
 - If ALT or AST ≥10 times ULN or >3 times ULN with concurrent total bilirubin ≥2 times ULN, permanently discontinue both KEYTRUDA and axitinib and consider corticosteroid therapy.
 
-## 2.17 Preparation and Administration
+When administering KEYTRUDA in combination with lenvatinib for the treatment of endometrial carcinoma, interrupt one or both as appropriate.
+No dose reductions are recommended for KEYTRUDA.
+Withhold, dose reduce, or discontinue lenvatinib in accordance with the instructions in the lenvatinib prescribing information.
+
+## 2.18 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 

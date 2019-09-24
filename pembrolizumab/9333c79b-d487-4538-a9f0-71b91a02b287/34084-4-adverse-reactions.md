@@ -20,7 +20,7 @@ In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAU
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in ten randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, KEYNOTE-181, and KEYNOTE-426) and nine non-randomized, open-label trials (KEYNOTE-028, KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, and KEYNOTE-017).
+The data described in this section were obtained in ten randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, KEYNOTE-181, and KEYNOTE-426) and ten non-randomized, open-label trials (KEYNOTE-028, KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, KEYNOTE-017, and KEYNOTE-146).
 The data described in this section also included a single randomized, double-blind, placebo-controlled trial (KEYNOTE-054) in which KEYTRUDA was administered for the adjuvant treatment of 509 patients with melanoma with involvement of lymph node(s) following complete surgical resection.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
@@ -909,6 +909,92 @@ Table 26: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Lymphopenia | 33 | 11 | 46 | 8 |
 | Anemia | 29 | 2.1 | 65 | 8 |
 | Thrombocytopenia | 27 | 1.4 | 78 | 14 |
+
+Endometrial Carcinoma
+
+The safety of KEYTRUDA in combination with lenvatinib (20 mg orally once daily) was investigated in KEYNOTE-146, a single-arm, multicenter, open-label trial in 94 patients with endometrial carcinoma whose tumors had progressed following one line of systemic therapy and were not MSI-H or dMMR [see Clinical Studies (14.15)].
+The median duration of study treatment was 7 months (range: 0.03 to 37.8 months).
+The median duration of exposure to KEYTRUDA was 6 months (range: 0.03 to 23.8 months).
+KEYTRUDA was continued for a maximum of 24 months; however, treatment with lenvatinib could be continued beyond 24 months.
+
+Fatal adverse reactions occurred in 3% of patients receiving KEYTRUDA and lenvatinib, including gastrointestinal perforation, reversible posterior leukoencephalopathy syndrome (RPLS) with intraventricular hemorrhage, and intracranial hemorrhage.
+
+Serious adverse reactions occurred in 52% of patients receiving KEYTRUDA and lenvatinib.
+Serious adverse reactions in ≥3% of patients were hypertension (9%), abdominal pain (6%), musculoskeletal pain (5%), hemorrhage (4%), fatigue (4%), nausea (4%), confusional state (4%), pleural effusion (4%), adrenal insufficiency (3%), colitis (3%), dyspnea (3%), and pyrexia (3%).
+
+KEYTRUDA was discontinued for adverse reactions (Grade 1-4) in 19% of patients, regardless of action taken with lenvatinib.
+The most common adverse reactions (≥ 2%) leading to discontinuation of KEYTRUDA were adrenal insufficiency (2%), colitis (2%), pancreatitis (2%), and muscular weakness (2%).
+
+Adverse reactions leading to interruption of KEYTRUDA occurred in 49% of patients; the most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were: fatigue (14%), diarrhea (6%), decreased appetite (6%), rash (5%), renal impairment (4%), vomiting (4%), increased lipase (4%), decreased weight (4%), nausea (3%), increased blood alkaline phosphatase (3%), skin ulcer (3%), adrenal insufficiency (2%), increased amylase (2%), hypocalcemia (2%), hypomagnesemia (2%), hyponatremia (2%), peripheral edema (2%), musculoskeletal pain (2%), pancreatitis (2%), and syncope (2%).
+
+Tables 27 and 28 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with lenvatinib.
+
+Table 27: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Carcinoma in KEYNOTE-146
+
+| All Grades (%) | Grades 3-4 (%) |  |
+| --- | --- | --- |
+| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks with Lenvatinib N=94 |  |
+| General |  |  |
+| FatigueIncludes asthenia, fatigue, and malaise | 65 | 17 |
+| Musculoskeletal and Connective Tissue |  |  |
+| Musculoskeletal painIncludes arthralgia, arthritis, back pain, breast pain, musculoskeletal chest pain, musculoskeletal pain, musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain, pain in extremity | 65 | 3 |
+| Vascular |  |  |
+| HypertensionIncludes essential hypertension, hypertension, and hypertensive encephalopathy | 65 | 38 |
+| Hemorrhagic eventsIncludes catheter site bruise, contusion, epistaxis, gastrointestinal hemorrhage, hematemesis, hematuria, hemorrhage intracranial, injection site hemorrhage, intraventricular hemorrhage, large intestinal hemorrhage, metrorrhagia, mouth hemorrhage, uterine hemorrhage, and vaginal hemorrhage | 28 | 4 |
+| Gastrointestinal |  |  |
+| DiarrheaIncludes diarrhea, gastroenteritis, gastrointestinal viral infection, and viral diarrhea | 64 | 4 |
+| Nausea | 48 | 5 |
+| StomatitisIncludes glossitis, mouth ulceration, oral discomfort, oral mucosal blistering, oropharyngeal pain, and stomatitis | 43 | 0 |
+| Vomiting | 39 | 0 |
+| Abdominal pain Includes abdominal discomfort, abdominal pain, lower abdominal pain, and upper abdominal pain | 33 | 6 |
+| Constipation | 32 | 0 |
+| Metabolism |  |  |
+| Decreased appetiteIncludes decreased appetite and early satiety | 52 | 0 |
+| Hypomagnesemia | 27 | 3 |
+| Endocrine |  |  |
+| HypothyroidismIncludes increased blood thyroid stimulating hormone and hypothyroidism | 51 | 1 |
+| Investigations |  |  |
+| Decreased weight | 36 | 3 |
+| Nervous System |  |  |
+| Headache | 33 | 1 |
+| Infections |  |  |
+| Urinary tract infectionIncludes cystitis and urinary tract infection | 31 | 4 |
+| Respiratory, Thoracic and Mediastinal |  |  |
+| Dysphonia | 29 | 0 |
+| DyspneaIncludes dyspnea and exertional dyspnea | 24 | 2 |
+| Cough | 21 | 0 |
+| Skin and Subcutaneous Tissue |  |  |
+| Palmar-plantar erythrodysesthesia syndrome | 26 | 3 |
+| RashIncludes rash, rash generalized, rash macular, and rash maculo-papular | 21 | 3 |
+
+Table 28: Laboratory Abnormalities Worsened from Baseline Occurring in ≥3% of Patients with Endometrial Carcinoma in KEYNOTE-146
+
+| All Grades %Laboratory abnormality percentage is based on the number of patients who had both baseline and at least one post-baseline laboratory measurement for each parameter (range: 71 to 92 patients). | Grade 3-4 % |  |
+| --- | --- | --- |
+| Laboratory TestWith at least 1 grade increase from baseline | KEYTRUDA 200 mg every 3 weeks with Lenvatinib |  |
+| Chemistry |  |  |
+| Increased creatinine | 80 | 7 |
+| Hypertriglyceridemia | 58 | 4 |
+| Hyperglycemia | 53 | 1 |
+| Hypercholesteremia | 49 | 6 |
+| Hypoalbuminemia | 48 | 0 |
+| Hypomagnesemia | 47 | 2 |
+| Increased aspartate aminotransferase | 43 | 4 |
+| Hyponatremia | 42 | 13 |
+| Increased lipase | 42 | 18 |
+| Increased alanine aminotransferase | 35 | 3 |
+| Increased alkaline phosphatase | 32 | 1 |
+| Hypokalemia | 27 | 5 |
+| Increased amylase | 19 | 6 |
+| Hypocalcemia | 14 | 3 |
+| Hypermagnesemia | 4 | 3 |
+| Hematology |  |  |
+| Thrombocytopenia | 48 | 0 |
+| Leukopenia | 38 | 2 |
+| Lymphopenia | 36 | 7 |
+| Anemia | 35 | 1 |
+| Increased INR | 21 | 3 |
+| Neutropenia | 12 | 3 |
 
 ## 6.2 Immunogenicity
 

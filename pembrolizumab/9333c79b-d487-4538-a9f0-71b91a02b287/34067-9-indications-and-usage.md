@@ -62,7 +62,7 @@ KEYTRUDA is indicated for the treatment of patients with locally advanced or met
 
 ## 1.8 Microsatellite Instability-High Cancer
 
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR)
 
 - solid tumors that have progressed following prior treatment and who have no satisfactory alternative treatment options, or
 - colorectal cancer that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
@@ -107,3 +107,10 @@ Continued approval for this indication may be contingent upon verification and d
 ## 1.14 Renal Cell Carcinoma
 
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC).
+
+## 1.15 Endometrial Carcinoma
+
+KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of patients with advanced endometrial carcinoma that is not MSI-H or dMMR, who have disease progression following prior systemic therapy and are not candidates for curative surgery or radiation.
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.15)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
