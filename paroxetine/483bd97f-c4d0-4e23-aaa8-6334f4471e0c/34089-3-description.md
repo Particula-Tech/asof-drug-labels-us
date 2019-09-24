@@ -1,13 +1,14 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-PAXIL CR (paroxetine hydrochloride) is an orally administered psychotropic drug with a chemical structure unrelated to other selective serotonin reuptake inhibitors or to tricyclic, tetracyclic, or other available antidepressant or antipanic agents.
-It is the hydrochloride salt of a phenylpiperidine compound identified chemically as (-)-trans-4R-(4'-fluorophenyl)-3S-[(3',4'-methylenedioxyphenoxy) methyl] piperidine hydrochloride hemihydrate and has the empirical formula of C19H20FNO3•HCl•1/2H2O.
-The molecular weight is 374.8 (329.4 as free base).
+PAXIL CR, contains paroxetine hydrochloride, an SSRI.
+It is the hydrochloride salt of a phenylpiperidine compound identified chemically as (-)-trans-4R-(4'-fluorophenyl)-3S-[(3',4'-methylenedioxyphenoxy) methyl] piperidine hydrochloride hemihydrate and has the empirical formula of C19H20FNO3·HCl·1/2H2O.
+The molecular weight is 374.8 g/mol (329.4 g/mol as free base).
 The structural formula of paroxetine hydrochloride is:
 
-Paroxetine hydrochloride is an odorless, off-white powder, having a melting point range of 120° to 138°C and a solubility of 5.4 mg/mL in water.
+Paroxetine hydrochloride is an odorless, off‑white powder, having a melting point range of 120° C to 138°C and a solubility of 5.4 mg/mL in water.
 
-Each enteric, film-coated, controlled-release tablet contains paroxetine hydrochloride equivalent to paroxetine as follows: 12.5 mg–yellow, 25 mg–pink, 37.5 mg–blue.
+PAXIL CR tablets are intended for oral administration.
+Each extended‑release tablet contains 12.5 mg, 25 mg, or 37.5 mg paroxetine equivalent to 14.25 mg, 28.51 mg, or 42.76 mg of paroxetine hydrochloride, respectively.
 One layer of the tablet consists of a degradable barrier layer and the other contains the active material in a hydrophilic matrix.
 
-Inactive ingredients consist of hypromellose, polyvinylpyrrolidone, lactose monohydrate, magnesium stearate, silicon dioxide, glyceryl behenate, methacrylic acid copolymer type C, sodium lauryl sulfate, polysorbate 80, talc, triethyl citrate, titanium dioxide, polyethylene glycols, and 1 or more of the following colorants: Yellow ferric oxide, red ferric oxide, D&C Red No. 30 aluminum lake, FD&C Yellow No. 6 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake.
+Inactive ingredients consist of glyceryl behenate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer type C, polyethylene glycols, polysorbate 80, polyvinylpyrrolidone, silicon dioxide, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate and the following colorants: D&C Red No. 30 aluminum lake (25 mg), D&C Yellow No. 10 aluminum lake (12.5 mg), FD&C Blue No. 2 aluminum lake (37.5 mg), FD&C Yellow No. 6 aluminum lake (12.5 mg), red ferric oxide (25 mg) and Yellow ferric oxide (12.5 mg and 37.5 mg).
