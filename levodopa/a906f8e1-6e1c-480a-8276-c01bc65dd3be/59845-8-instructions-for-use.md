@@ -25,8 +25,9 @@ Do not swallow INBRIJA capsules.
 - Throw out the inhaler after all capsules in the carton have been used.
 - Make sure your hands are clean and dry when using the inhaler and capsules.
 
-If you have any questions, ask your health care provider or pharmacist.
-If you have problems using INBRIJA, contact INBRIJA support at: 1-800-367-5109.
+If you have any questions, ask your healthcare provider or pharmacist.
+If you have problems using INBRIJA, or if your INBRIJA inhaler becomes lost or damaged and you need a replacement, contact INBRIJA support at 1-800-367-5109.
+Then, call your healthcare provider for treatment instructions until you receive your replacement inhaler.
 
 | Parts of your INBRIJA Inhaler (see Figure A) |  |  |
 | --- | --- | --- |
@@ -78,12 +79,12 @@ Disposing of the Inhaler and Capsules
 - Throw out all used capsules in your household trash.
 - After all capsules in the carton have been used, throw out the inhaler and use a new carton containing a new inhaler and capsules.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 03/2019
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 09/2019
 
 Manufactured by: Acorda Therapeutics, Inc. 420 Saw Mill River Road Ardsley, NY 10502 USA
 
 Inbrija™ is a trademark of Acorda Therapeutics, Inc.
 
-©2018 Acorda Therapeutics, Inc. All rights reserved.
+©2019 Acorda Therapeutics, Inc. All rights reserved.
 
-0319342SPL-0
+0919342SPL-0
