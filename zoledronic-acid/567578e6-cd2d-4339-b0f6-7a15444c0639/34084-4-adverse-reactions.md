@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Hypercalcemia of Malignancy
 
-The safety of Zoledronic Acid Injection was studied in 185 patients with hypercalcemia of malignancy (HCM) who received either Zoledronic Acid Injection 4 mg given as a 5-minute intravenous infusion (n=86) or pamidronate 90 mg given as a 2-hour intravenous infusion (n=103).
+The safety of Zoledronic Acid Injection was studied in 185 patients with hypercalcemia of malignancy (HCM) who received either Zoledronic Acid Injection 4 mg given as a 5-minute intravenous infusion (n = 86) or pamidronate 90 mg given as a 2-hour intravenous infusion (n = 103).
 The population was aged 33-84 years, 60% male and 81% Caucasian, with breast, lung, head and neck, and renal cancer as the most common forms of malignancy.
 NOTE: pamidronate 90 mg was given as a 2-hour intravenous infusion.
 The relative safety of pamidronate 90 mg given as a 2-hour intravenous infusion compared to the same dose given as a 24-hour intravenous infusion has not been adequately studied in controlled clinical trials.
@@ -22,7 +22,7 @@ The most frequently observed adverse reactions were fever, nausea, constipation,
 Table 4 provides adverse reactions that were reported by 10% or more of the 189 patients treated with Zoledronic Acid Injection 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse reactions are listed regardless of presumed causality to study drug.
 
-Table 4: Percentage of Patients with Adverse Reactions greater than or equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
+Table 4: Percentage of Patients with Adverse Reactions Greater Than or Equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection 4 mg n (%) |  | Pamidronate 90 mg n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Table 4: Percentage of Patients with Adverse Reactions greater than or equal to 
 | Urogenital |  |  |  |  |
 | Urinary Tract Infection | 12 | (14) | 15 | (15) |
 
-The following adverse reactions from the two controlled multicenter HCM trials (n=189) were reported by a greater percentage of patients treated with Zoledronic Acid Injection 4 mg than with pamidronate 90 mg and occurred with a frequency of greater than or equal to 5% but less than 10%.
+The following adverse reactions from the two controlled multicenter HCM trials (n = 189) were reported by a greater percentage of patients treated with Zoledronic Acid Injection 4 mg than with pamidronate 90 mg and occurred with a frequency of greater than or equal to 5% but less than 10%.
 Adverse reactions are listed regardless of presumed causality to study drug: asthenia, chest pain, leg edema, mucositis, dysphagia, granulocytopenia, thrombocytopenia, pancytopenia, nonspecific infection, hypocalcemia, dehydration, arthralgias, headache and somnolence.
 
 Cases of rash, pruritus, and chest pain have been reported following treatment with Zoledronic Acid Injection.
@@ -88,7 +88,11 @@ Table 5: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Serum Creatinine1 | 2/86 | (2%) | 3/100 | (3%) |
 | Hypocalcemia2 | 1/86 | (1%) | 2/100 | (2%) |
 | Hypophosphatemia3 | 36/70 | (51%) | 27/81 | (33%) |
-| Hypomagnesemia4 | 0/71 | — | 0/84 | — |
+| Hypomagnesemia4 | 0/71 | 0 | 0/84 | 0 |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). |  |  |  |  |
+| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). |  |  |  |  |
+| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). |  |  |  |  |
+| 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L). |  |  |  |  |
 
 Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
 
@@ -96,18 +100,18 @@ Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | --- | --- | --- | --- | --- |
 | Laboratory Parameter | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  |
 |  | n/N | (%) | n/N | (%) |
-| Serum Creatinine1 | 0/86 | — | 1/100 | (1%) |
-| Hypocalcemia2 | 0/86 | — | 0/100 | — |
+| Serum Creatinine1 | 0/86 | 0 | 1/100 | (1%) |
+| Hypocalcemia2 | 0/86 | 0 | 0/100 | 0 |
 | Hypophosphatemia3 | 1/70 | (1%) | 4/81 | (5%) |
-| Hypomagnesemia4 | 0/71 | — | 1/84 | (1%) |
-| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) |  |  |  |  |
-| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) |  |  |  |  |
-| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) |  |  |  |  |
-| 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L) |  |  |  |  |
+| Hypomagnesemia4 | 0/71 | 0 | 1/84 | (1%) |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). |  |  |  |  |
+| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). |  |  |  |  |
+| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). |  |  |  |  |
+| 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L). |  |  |  |  |
 
-Injection Site Reactions
+Injection-Site Reactions
 
-Local reactions at the infusion site, such as redness or swelling, were observed infrequently.
+Local reactions at the infusion-site, such as redness or swelling, were observed infrequently.
 In most cases, no specific treatment is required and the symptoms subside after 24-48 hours.
 
 Ocular Adverse Reactions
@@ -126,16 +130,22 @@ The median duration of exposure for safety analysis for Zoledronic Acid Injectio
 Table 7 describes adverse reactions that were reported by 10% or more of patients.
 Adverse reactions are listed regardless of presumed causality to study drug.
 
-Table 7: Percentage of Patients with Adverse Reactions greater than or equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
+Table 7: Percentage of Patients with Adverse Reactions Greater Than or Equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | n (%) |  | n (%) |  | n (%) |  |
 | Patients Studied |  |  |  |  |  |  |
-| Total No. of Patients Total No. of Patients with any AE Blood and Lymphatic Anemia Neutropenia Thrombocytopenia Gastrointestinal | 1031 1015 344 124 102 | (100) (98) (33) (12) (10) | 556 548 175 83 53 | (100) (99) (32) (15) (10) | 455 445 128 35 20 | (100) (98) (28) (8) (4) |
-| Nausea Vomiting Constipation Diarrhea Abdominal Pain Dyspepsia Stomatitis Sore Throat General Disorders and Administration Site | 476 333 320 249 143 105 86 82 | (46) (32) (31) (24) (14) (10) (8) (8) | 266 183 162 162 81 74 65 61 | (48) (33) (29) (29) (15) (13) (12) (11) | 171 122 174 83 48 31 14 17 | (38) (27) (38) (18) (11) (7) (3) (4) |
-| Fatigue Pyrexia Weakness Edema Lower Limb Rigors Infections | 398 328 252 215 112 | (39) (32) (24) (21) (11) | 240 172 108 126 62 | (43) (31) (19) (23) (11) | 130 89 114 84 28 | (29) (20) (25) (19) (6) |
-| Urinary Tract Infection Upper Respiratory Tract Infection Metabolism | 124 101 | (12) (10) | 50 82 | (9) (15) | 41 30 | (9) (7) |
+| Total No. of Patients | 1031 | (100) | 556 | (100) | 455 | (100) |
+| Total No. of Patients with any AE | 1015 | (98) | 548 | (99) | 445 | (98) |
+| Blood and Lymphatic Anemia Neutropenia Thrombocytopenia | 344 124 102 | (33) (12) (10) | 175 83 53 | (32) (15) (10) | 128 35 20 | (28) (8) (4) |
+| Gastrointestinal |  |  |  |  |  |  |
+| Nausea Vomiting Constipation Diarrhea Abdominal Pain Dyspepsia Stomatitis Sore Throat | 476 333 320 249 143 105 86 82 | (46) (32) (31) (24) (14) (10) (8) (8) | 266 183 162 162 81 74 65 61 | (48) (33) (29) (29) (15) (13) (12) (11) | 171 122 174 83 48 31 14 17 | (38) (27) (38) (18) (11) (7) (3) (4) |
+| General Disorders and Administration Site |  |  |  |  |  |  |
+| Fatigue Pyrexia Weakness Edema Lower Limb Rigors | 398 328 252 215 112 | (39) (32) (24) (21) (11) | 240 172 108 126 62 | (43) (31) (19) (23) (11) | 130 89 114 84 28 | (29) (20) (25) (19) (6) |
+| Infections |  |  |  |  |  |  |
+| Urinary Tract Infection Upper Respiratory Tract Infection | 124 101 | (12) (10) | 50 82 | (9) (15) | 41 30 | (9) (7) |
+| Metabolism |  |  |  |  |  |  |
 | Anorexia Weight Decreased Dehydration Appetite Decreased | 231 164 145 130 | (22) (16) (14) (13) | 81 50 60 48 | (15) (9) (11) (9) | 105 61 59 45 | (23) (13) (13) (10) |
 | Musculoskeletal |  |  |  |  |  |  |
 | Bone Pain | 569 | (55) | 316 | (57) | 284 | (62) |
@@ -170,17 +180,17 @@ Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 |  | n/N | (%) | n/N | (%) | n/N | (%) |
-| Serum Creatinine 1* | 7/529 | (1%) | 4/268 | (2%) | 4/241 | (2%) |
-| Hypocalcemia2 | 6/973 | (<1%) | 4/536 | (<1%) | 0/415 | — |
+| Serum Creatinine1* | 7/529 | (1%) | 4/268 | (2%) | 4/241 | (2%) |
+| Hypocalcemia2 | 6/973 | (<1%) | 4/536 | (<1%) | 0/415 | 0 |
 | Hypophosphatemia3 | 115/973 | (12%) | 38/537 | (7%) | 14/415 | (3%) |
 | Hypermagnesemia4 | 19/971 | (2%) | 2/535 | (<1%) | 8/415 | (2%) |
 | Hypomagnesemia5 | 1/971 | (<1%) | 0/535 | — | 1/415 | (<1%) |
-| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) |  |  |  |  |  |  |
-| * Serum creatinine data for all patients randomized after the 15-minute infusion amendment |  |  |  |  |  |  |
-| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) |  |  |  |  |  |  |
-| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) |  |  |  |  |  |  |
-| 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) |  |  |  |  |  |  |
-| 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
+| * Serum creatinine data for all patients randomized after the 15-minute infusion amendment. |  |  |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). |  |  |  |  |  |  |
+| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). |  |  |  |  |  |  |
+| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). |  |  |  |  |  |  |
+| 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L). |  |  |  |  |  |  |
+| 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L). |  |  |  |  |  |  |
 
 Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
 
@@ -188,17 +198,17 @@ Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 |  | n/N | (%) | n/N | (%) | n/N | (%) |
-| Serum Creatinine 1* | 2/529 | (<1%) | 1/268 | (<1%) | 0/241 | — |
+| Serum Creatinine1* | 2/529 | (<1%) | 1/268 | (<1%) | 0/241 | 0 |
 | Hypocalcemia2 | 7/973 | (<1%) | 3/536 | (<1%) | 2/415 | (<1%) |
-| Hypophosphatemia3 | 5/973 | (<1%) | 0/537 | — | 1/415 | (<1%) |
-| Hypermagnesemia4 | 0/971 | — | 0/535 | — | 2/415 | (<1%) |
-| Hypomagnesemia5 | 2/971 | (<1%) | 1/535 | (<1%) | 0/415 | — |
-| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) |  |  |  |  |  |  |
-| * Serum creatinine data for all patients randomized after the 15-minute infusion amendment |  |  |  |  |  |  |
-| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) |  |  |  |  |  |  |
-| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) |  |  |  |  |  |  |
-| 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) |  |  |  |  |  |  |
-| 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
+| Hypophosphatemia3 | 5/973 | (<1%) | 0/537 | 0 | 1/415 | (<1%) |
+| Hypermagnesemia4 | 0/971 | 0 | 0/535 | 0 | 2/415 | (<1%) |
+| Hypomagnesemia5 | 2/971 | (<1%) | 1/535 | (<1%) | 0/415 | 0 |
+| * Serum creatinine data for all patients randomized after the 15-minute infusion amendment. |  |  |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal). |  |  |  |  |  |  |
+| 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL). |  |  |  |  |  |  |
+| 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL). |  |  |  |  |  |  |
+| 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L). |  |  |  |  |  |  |
+| 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L). |  |  |  |  |  |  |
 
 Among the less frequently occurring adverse reactions (less than 15% of patients), rigors, hypokalemia, influenza-like illness, and hypocalcemia showed a trend for more reactions with bisphosphonate administration (Zoledronic Acid Injection 4 mg and pamidronate groups) compared to the placebo group.
 

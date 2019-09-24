@@ -44,11 +44,11 @@ Patients should also be administered an oral calcium supplement of 500 mg and a 
 
 Zoledronic Acid Injection must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer's solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg per 100 mL Single-Use Ready-to-Use Bag
+4 mg per 100 mL Single-Dose Ready-to-Use Bag
 
 Bags of Zoledronic Acid Injection ready-to-use solution for infusion contain overfill allowing for the administration of 100 mL of solution (equivalent to 4 mg zoledronic acid).
 This solution is ready to use and may be administered directly to the patient without further preparation.
-For single-use only.
+For single-dose only.
 
 Caution: After removing the overwrap check for minute leaks by squeezing the inner bag firmly.
 If leaks are found, discard container as sterility may be compromised.
