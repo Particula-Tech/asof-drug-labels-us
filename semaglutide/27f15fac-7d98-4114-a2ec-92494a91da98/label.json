@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA213051"
+  ],
+  "inn": "semaglutide",
+  "labeler": "Novo Nordisk",
+  "package_ndcs": [
+    "0169-4303-01",
+    "0169-4303-13",
+    "0169-4303-90",
+    "0169-4303-93",
+    "0169-4307-01",
+    "0169-4307-13",
+    "0169-4314-01",
+    "0169-4314-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oral semaglutide",
+      "name": "RYBELSUS"
+    }
+  ],
+  "setid": "27f15fac-7d98-4114-a2ec-92494a91da98",
+  "source": "dailymed"
+}

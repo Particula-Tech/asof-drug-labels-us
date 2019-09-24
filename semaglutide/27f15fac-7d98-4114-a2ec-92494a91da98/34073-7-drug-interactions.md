@@ -1,0 +1,14 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
+
+The risk of hypoglycemia is increased when RYBELSUS is used in combination with insulin secretagogues (e.g., sulfonylureas) or insulin.
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [see Warnings and Precautions (5.4)].
+
+## 7.2 Oral Medications
+
+RYBELSUS causes a delay of gastric emptying, and thereby has the potential to impact the absorption of other oral medications.
+Levothyroxine exposure was increased 33% (90% CI: 125-142) when administered with RYBELSUS in a drug interaction study.
+
+When coadministering oral medications instruct patients to closely follow RYBELSUS administration instructions.
+Consider increased clinical or laboratory monitoring for medications that have a narrow therapeutic index or that require clinical monitoring [see Dosage and Administration (2)].
