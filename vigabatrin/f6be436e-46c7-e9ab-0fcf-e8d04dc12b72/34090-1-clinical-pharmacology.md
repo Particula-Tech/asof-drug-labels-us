@@ -84,16 +84,29 @@ The pharmacokinetics of vigabatrin in patients with impaired liver function has 
 
 Drug Interactions
 
-Phenytoin A 16% to 20% average reduction in total phenytoin plasma levels was reported in adult controlled clinical studies.
+Phenytoin
+
+A 16% to 20% average reduction in total phenytoin plasma levels was reported in adult controlled clinical studies.
 In vitro drug metabolism studies indicate that decreased phenytoin concentrations upon addition of vigabatrin therapy are likely to be the result of induction of cytochrome P450 2C enzymes in some patients.
 Although phenytoin dose adjustments are not routinely required, dose adjustment of phenytoin should be considered if clinically indicated [see Drug Interactions (7.1)].
 
-Clonazepam In a study of 12 healthy adult volunteers, clonazepam (0.5 mg) co-administration had no effect on vigabatrin (1.5 grams twice daily) concentrations.
+Clonazepam
+
+In a study of 12 healthy adult volunteers, clonazepam (0.5 mg) co-administration had no effect on vigabatrin (1.5 grams twice daily) concentrations.
 Vigabatrin increases the mean Cmax of clonazepam by 30% and decreases the mean Tmax by 45% [see Drug Interactions (7.1)].
-Other AEDs When co-administered with vigabatrin, phenobarbital concentration (from phenobarbital or primidone) was reduced by an average of 8% to 16%, and sodium valproate plasma concentrations were reduced by an average of 8%.
+
+Other AEDs
+
+When co-administered with vigabatrin, phenobarbital concentration (from phenobarbital or primidone) was reduced by an average of 8% to 16%, and sodium valproate plasma concentrations were reduced by an average of 8%.
 These reductions did not appear to be clinically relevant.
 Based on population pharmacokinetics, carbamazepine, clorazepate, primidone, and sodium valproate appear to have no effect on plasma concentrations of vigabatrin [see Drug Interactions (7.1)].
-Alcohol Co-administration of ethanol (0.6 grams/kg) with vigabatrin (1.5 grams twice daily) indicated that neither drug influences the pharmacokinetics of the other.
-Oral Contraceptives In a double-blind, placebo-controlled study using a combination oral contraceptive containing 30 mcg ethinyl estradiol and 150 mcg levonorgestrel, vigabatrin (3 grams/day) did not interfere significantly with the cytochrome P450 isoenzyme (CYP3A)-mediated metabolism of the contraceptive tested.
+
+Alcohol
+
+Co-administration of ethanol (0.6 grams/kg) with vigabatrin (1.5 grams twice daily) indicated that neither drug influences the pharmacokinetics of the other.
+
+Oral Contraceptives
+
+In a double-blind, placebo-controlled study using a combination oral contraceptive containing 30 mcg ethinyl estradiol and 150 mcg levonorgestrel, vigabatrin (3 grams/day) did not interfere significantly with the cytochrome P450 isoenzyme (CYP3A)-mediated metabolism of the contraceptive tested.
 Based on this study, vigabatrin is unlikely to affect the efficacy of steroid oral contraceptives.
 Additionally, no significant difference in pharmacokinetic parameters (elimination half-life, AUC, Cmax, apparent oral clearance, time to peak, and apparent volume of distribution) of vigabatrin were found after treatment with ethinyl estradiol and levonorgestrel [see Drug Interactions (7.2)].
