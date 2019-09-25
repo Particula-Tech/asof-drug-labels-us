@@ -7,17 +7,12 @@ Advise patients:
 - •To contact the physician who prescribed CARDIZEM LA or any other physician immediately if they experience possible adverse reactions, including bradycardia, arrhythmias, symptoms indicative of hypotension or heart failure, hepatic and skin reactions.
 - •To consult their physician if they become pregnant while taking CARDIZEM LA or plan to become pregnant.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+By: Bausch Health Companies, Inc. Steinbach, MB R5G 1Z7, Canada
 
-Cardizem is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Cardizem is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
+© 2019 Bausch Health Companies Inc. or its affiliates
 
-9457001
-
-20001733
-
-Rev.
-11/2016
+9457002 20002661

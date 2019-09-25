@@ -64,7 +64,7 @@ A single study in nine patients with severely impaired renal function showed no 
 CARDIZEM LA Tablets: A single 360 mg dose of CARDIZEM LA results in detectable plasma levels within 3 to 4 hours and peak plasma levels between 11 and 18 hours; absorption occurs throughout the dosing interval.
 The apparent elimination half-life for CARDIZEM LA Tablets after single or multiple dosing is 6 to 9 hours.
 When CARDIZEM LA Tablets were coadministered with a high fat content breakfast, diltiazem peak and systemic exposures were not affected indicating that the tablet can be administered without regard to food.
-As the dose of CARDIZEM LA Tablets is increased from 120 to 240 mg, area-under-the-curve increases 2.5-fold.
+As the dose of CARDIZEM LA Tablets is increased from 120 to 240 mg, area-under-the-curve AUC increases 2.5-fold.
 
 Drug Interactions
 
@@ -120,14 +120,10 @@ Diltiazem plasma levels were not significantly affected by lovastatin or pravast
 
 Impact of Other Coadministered Drugs on Diltiazem Include, but Not Limited to:
 
-Rifampin
-
-Coadministration of rifampin with diltiazem lowered the diltiazem plasma concentrations to undetectable levels.
+Rifampin: Coadministration of rifampin with diltiazem lowered the diltiazem plasma concentrations to undetectable levels.
 Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should be avoided when possible, and alternative therapy considered.
 
-Cimetidine and Ranitidine
-
-A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
+Cimetidine and Ranitidine: A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
 Ranitidine produced smaller, non-significant increases.
 The effect may be mediated by cimetidine's known inhibition of hepatic cytochrome P450, the enzyme system responsible for the first-pass metabolism of diltiazem.
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.

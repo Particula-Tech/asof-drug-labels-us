@@ -10,7 +10,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 90 Tablets
 
-VALEANT
+BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
 
@@ -24,7 +24,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 90 Tablets
 
-Valeant
+BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 240 mg Bottle Label
 
@@ -38,11 +38,11 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 90 Tablets
 
-VALEANT
+BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
-NDC 187-2048-90
+NDC 0187-2048-90
 
 Rx only
 
@@ -52,7 +52,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 90 Tablets
 
-Valeant
+BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 360 mg Bottle Label
 
@@ -66,7 +66,7 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 90 Tablets
 
-VALEANT
+BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 420 mg Bottle Label
 
@@ -80,4 +80,4 @@ CARDIZEM® LA (Diltiazem Hydrochloride) Extended-Release Tablets
 
 90 Tablets
 
-VALEANT
+BAUSCH Health
