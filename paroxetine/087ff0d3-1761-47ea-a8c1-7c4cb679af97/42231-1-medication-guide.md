@@ -1,262 +1,253 @@
-# Medication Guide
+# MEDICATION GUIDE
 
-Paroxetine Hydrochloride (PA-rox-eh-tine HY-dro-chlo-ride)
-
-Controlled-Release Tablets
-
-Read the Medication Guide that comes with paroxetine hydrochloride controlled-release tablets before you start taking them and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
-Talk with your healthcare provider if there is something you do not understand or want to learn more about.
+Paroxetine Hydrochloride (PA-rox-eh-tine HY-dro-chlo-ride) Controlled-Release Tablets
 
 What is the most important information I should know about Paroxetine Hydrochloride Controlled-Release Tablets?
 
-Paroxetine Hydrochloride and other antidepressant medicines may cause serious side effects, including:
+Paroxetine CR can cause serious side effects, including:
 
-1.
-Suicidal thoughts or actions:
+- Increased risk of suicidal thoughts or actions.
+  Antidepressant medicines may increase suicidal thoughts and actions in some children and young adults within the first few months of treatment or when the dose is changed.
+  Paroxetine CR is not for use in people younger than 18 years of age.
 
-- •Paroxetine Hydrochloride and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment or when the dose is changed.
-- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-- •Watch for these changes and call your healthcare provider right away if you notice:
-- ●New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-- ●Pay particular attention to such changes when Paroxetine Hydrochloride Controlled-Release Tablets are started or when the dose is changed.
+How can I watch for and try to prevent suicidal thoughts and actions?
 
-Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+- Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+- Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
+- Keep all follow-up visits with your healthcare provider as scheduled.
+  Call your healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
+Call your healthcare provider or get emergency medical help right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
 
-- •attempts to commit suicide
-- •acting on dangerous impulses
-- •acting aggressive or violent
-- •thoughts about suicide or dying
-- •new or worse depression
-- •new or worse anxiety or panic attacks
-- •feeling agitated, restless, angry, or irritable
-- •trouble sleeping
-- •an increase in activity and talking more than what is normal for you
-- •other unusual changes in behavior or mood
+- attempts to commit suicide
+- acting aggressive or violent
+- new or worse depression
+- feeling agitated, restless, angry, or irritable
+- an increase in activity and talking more than what is normal for you
+- acting on dangerous impulses
+- thoughts about suicide or dying
+- new or worse anxiety or panic attacks
+- trouble sleeping
+- other unusual changes in behavior or mood
 
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-Paroxetine Hydrochloride Controlled-Release Tablets may be associated with these serious side effects:
+What is Paroxetine Hydrochloride Controlled-Release Tablets?
 
-2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-This condition can be life-threatening and may include:
+Paroxetine CR is a prescription medicine used in adults to treat:
 
-- •agitation, hallucinations, coma, or other changes in mental status
-- •coordination problems or muscle twitching (overactive reflexes)
-- •racing heartbeat, high or low blood pressure
-- •sweating or fever
-- •nausea, vomiting, or diarrhea
-- •muscle rigidity
+- A certain type of depression called Major Depressive Disorder (MDD)
+- Panic Disorder
+- Social Anxiety Disorder (SAD)
+- Premenstrual Dysphoric Disorder (PMDD)
 
-3.
-Severe allergic reactions:
+Do not take paroxetine hydrochloride controlled-release tablets if you:
 
-- •trouble breathing
-- •swelling of the face, tongue, eyes, or mouth
-- •rash, itchy welts (hives), or blisters, alone or with fever or joint pain
+- take a monoamine oxidase inhibitor (MAOI)
+- have stopped taking an MAOI in the last 14 days
+- are being treated with the antibiotic linezolid or intravenous methylene blue
+- are taking thioridazine
+- are taking pimozide
+- are allergic to paroxetine or any of the ingredients in paroxetine CR.
+  See the end of this Medication Guide for a complete list of ingredients in paroxetine CR.
 
-4.
-Abnormal bleeding: Paroxetine Hydrochloride and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI or one of these medicines, including intravenous methylene blue.
 
-5.
-Seizures or convulsions
+Do not start taking an MAOI for at least 14 days after you stop treatment with paroxetine hydrochloride controlled-release tablets.
 
-6.
-Manic episodes:
+Before taking paroxetine CR, tell your healthcare provider about all your medical conditions, including if you:
 
-- •greatly increased energy
-- •severe trouble sleeping
-- •racing thoughts
-- •reckless behavior
-- •unusually grand ideas
-- •excessive happiness or irritability
-- •talking more or faster than usual
+- have heart problems
+- have or had bleeding problems
+- have, or have a family history of bipolar disorder, mania or hypomania
+- have or had seizures or convulsions
+- have glaucoma (high pressure in the eye)
+- have low sodium levels in your blood
+- have bone problems
+- have kidney or liver problems
+- are pregnant or plan to become pregnant.
+  Paroxetine CR may harm your unborn baby.
+  Talk to your healthcare provider about the risks to your unborn baby if you take Paroxetine CR during pregnancy.
+  Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with paroxetine CR.
+- are breastfeeding or plan to breastfeed.
+  Paroxetine CR passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with paroxetine CR.
 
-7.
-Changes in appetite or weight.
-Children and adolescents should have height and weight monitored during treatment.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-8.
-Low salt (sodium) levels in the blood.
-Elderly people may be at greater risk for this.
-Symptoms may include:
+Paroxetine CR and some other medicines may affect each other causing possible serious side effects.
+Paroxetine CR may affect the way other medicines work and other medicines may affect the way paroxetine CR works.
 
-- •headache
-- •weakness or feeling unsteady
-- •confusion, problems concentrating or thinking, or memory problems
+Especially tell your healthcare provider if you take:
 
-Do not stop Paroxetine Hydrochloride Controlled-Release Tablets without first talking to your healthcare provider.
-Stopping Paroxetine Hydrochloride Controlled-Release Tablets too quickly may cause serious symptoms including:
+- medicines used to treat migraine headaches called triptans
+- tricyclic antidepressants
+- fentanyl
+- lithium
+- tramadol
+- tryptophan
+- buspirone
+- amphetamines
+- St. John’s Wort
+- medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), or warfarin
+- diuretics
+- tamoxifen
 
-- •anxiety, irritability, high or low mood, feeling restless, or changes in sleep habits
-- •headache, sweating, nausea, dizziness
-- •electric shock-like sensations, shaking, confusion
+Ask your healthcare provider if you are not sure if you are taking any of these medicines.
+Your healthcare provider can tell you if it is safe to take paroxetine CR with your other medicines.
 
-What are Paroxetine Hydrochloride Controlled-Release Tablets?
+Do not start or stop any other medicines during treatment with paroxetin CR without talking to your healthcare provider first.
+Stopping paroxetine CR suddenly may cause you to have serious side effects.
+See, “What are the possible side effects of Paroxetine Hydrochloride Controlled-Release Tablets?”
 
-Paroxetine Hydrochloride is a prescription medicine used to treat depression.
-It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
-You should discuss all treatment choices with your healthcare provider.
-Paroxetine hydrochloride is also used to treat:
-
-- •Major Depressive Disorder (MDD)
-- •Panic Disorder
-- •Social Anxiety Disorder
-- •Premenstrual Dysphoric Disorder (PMDD)
-
-Talk to your healthcare provider if you do not think that your condition is getting better with treatment using paroxetine hydrochloride controlled-release tablets.
-
-Who should not take Paroxetine Hydrochloride Controlled-Release Tablets?
-
-Do not take Paroxetine Hydrochloride Controlled-Release Tablets if you:
-
-- •are allergic to paroxetine or any of the ingredients in this product.
-  See the end of this Medication Guide for a complete list of ingredients in paroxetine hydrochloride controlled-release tablets.
-- •take a monoamine oxidase inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- •Do not take an MAOI within 2 weeks of stopping paroxetine hydrochloride controlled-release tablets unless directed to do so by your physician.
-- •Do not start paroxetine hydrochloride controlled-release tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
-- •People who take paroxetine hydrochloride controlled-release tablets close in time to an MAOI may have serious or even life-threatening side effects.
-  Get medical help right away if you have any of these symptoms:
-- ●high fever
-- ●uncontrolled muscle spasms
-- ●stiff muscles
-- ●rapid changes in heart rate or blood pressure
-- ●confusion
-- ●loss of consciousness (pass out)
-- •take MELLARIL® (thioridazine).
-  Do not take MELLARIL® together with paroxetine hydrochloride controlled-release tablets because this can cause serious heart rhythm problems or sudden death.
-- •take the antipsychotic medicine pimozide (ORAP®) because this can cause serious heart problems.
-
-What should I tell my healthcare provider before taking Paroxetine Hydrochloride Controlled-Release Tablets?
-Ask if you are not sure.
-
-Before starting paroxetine hydrochloride controlled-release tablets, tell your healthcare provider if you:
-
-- •are pregnant, may be pregnant, or plan to become pregnant.
-  There is a possibility that paroxetine hydrochloride controlled-release tablets may harm your unborn baby, including an increased risk of birth defects, particularly heart defects.
-  Other risks may include a serious condition in which there is not enough oxygen in the baby’s blood.
-  Your baby may also have certain other symptoms shortly after birth.
-  Premature births have also been reported in some women who used paroxetine hydrochloride controlled-release tablets during pregnancy.
-- •are breastfeeding.
-  Paroxetine hydrochloride controlled-release tablets pass into your milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking paroxetine hydrochloride controlled-release tablets.
-- •are taking certain drugs such as:
-- ●triptans used to treat migraine headache
-- ●other antidepressants (SSRIs, SNRIs, tricyclics, or lithium) or antipsychotics
-- ●drugs that affect serotonin, such as lithium, tramadol, tryptophan, St. John’s wort
-- ●certain drugs used to treat irregular heart beats
-- ●certain drugs used to treat schizophrenia
-- ●certain drugs used to treat HIV infection
-- ●certain drugs that affect the blood, such as warfarin, aspirin, and ibuprofen
-- ●certain drugs used to treat epilepsy
-- ●atomoxetine
-- ●cimetidine
-- ●fentanyl
-- ●metoprolol
-- ●pimozide
-- ●procyclidine
-- ●tamoxifen
-- •have liver problems
-- •have kidney problems
-- •have heart problems
-- •have or had seizures or convulsions
-- •have bipolar disorder or mania
-- •have low sodium levels in your blood
-- •have a history of a stroke
-- •have high blood pressure
-- •have or had bleeding problems
-- •have glaucoma (high pressure in the eye)
-
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Paroxetine hydrochloride controlled-release tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
-
-Your healthcare provider or pharmacist can tell you if it is safe to take paroxetine hydrochloride controlled-release tablets with your other medicines.
-Do not start or stop any medicine while taking paroxetine hydrochloride controlled-release tablets without talking to your healthcare provider first.
+Know the medicines you take.
+Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take Paroxetine Hydrochloride Controlled-Release Tablets?
 
-- •Take Paroxetine Hydrochloride Controlled-Release Tablets exactly as prescribed.
-  Your healthcare provider may need to change the dose of Paroxetine Hydrochloride Controlled-Release Tablets until it is the right dose for you.
-- •Paroxetine Hydrochloride Controlled-Release Tablets may be taken with or without food.
-- •Paroxetine Hydrochloride Controlled-Release Tablets should not be chewed or crushed and should be swallowed whole.
-- •If you miss a dose of Paroxetine Hydrochloride Controlled-Release Tablets, take the missed dose as soon as you remember.
-  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-  Do not take two doses of Paroxetine Hydrochloride Controlled-Release Tablets at the same time.
-- •If you take too many Paroxetine Hydrochloride Controlled-Release Tablets, call your healthcare provider or poison control center right away, or get emergency treatment.
-- •Do not stop taking Paroxetine Hydrochloride Controlled-Release Tablets suddenly without talking to your doctor (unless you have symptoms of a severe allergic reaction).
-  If you need to stop taking Paroxetine Hydrochloride Controlled-Release Tablets, your healthcare provider can tell you how to safely stop taking it.
-
-What should I avoid while taking Paroxetine Hydrochloride Controlled-Release Tablets?
-
-Paroxetine Hydrochloride Controlled-Release Tablets can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
-You should not drive, operate heavy machinery, or do other dangerous activities until you know how Paroxetine Hydrochloride Controlled-Release Tablets affect you.
-Do not drink alcohol while using Paroxetine Hydrochloride Controlled-Release Tablets.
+- Take paroxetine CR exactly as your healthcare provider tell you to.
+  Your healthcare provider may need to change the dose of paroxetine CR until it is the right dose for you.
+- Take paroxetine CR 1 time each day in the morning.
+- Paroxetine CR may be taken with or without food.
+- Swallow paroxetine CR tablets whole.
+  Do not chew or crush paroxetine CR tablets.
+- If you take too much paroxetine CR, call your poison control center at 1-800-222-1222 or got to the nearest hospital emergency room right away.
 
 What are possible side effects of Paroxetine Hydrochloride Controlled-Release Tablets?
 
-Paroxetine Hydrochloride Controlled-Release Tablets may cause serious side effects, including all of those described in the section entitled “What is the most important information I should know about Paroxetine Hydrochloride Controlled-Release Tablets?”
+Paroxetine CR may cause serious side effects, including:
 
-Common possible side effects in people who take Paroxetine Hydrochloride Controlled-Release Tablets include:
+- See, “What is the most important information I should know about Paroxetine CR?”
+- Serotonin syndrome.
+  A potentially life-threatening problem called serotonin syndrome can happen when you take paroxetine CR with certain other medicines.
+  See, “Who should not take paroxetine CR?”
+  Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome:
 
-- •nausea
-- •sleepiness
-- •feeling anxious or trouble sleeping
-- •sexual problems
-- •sweating
-- •shaking
-- •constipation
-- •yawning
-- •blurred vision
-- •diarrhea
-- •dry mouth
-- •decreased appetite
-- •weakness
+- agitation
+- seeing or hearing things that are not real (hallucinations)
+- confusion
+- coma
+- fast heart beat
+- changes in blood pressure
+- dizziness
+- sweating
+- flushing
+- high body temperature (hyperthermia)
+- shaking (tremors), stiff muscles, or muscle twitching
+- loss of coordination
+- seizures
+- nausea, vomiting, diarrhea
 
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-These are not all the possible side effects of Paroxetine Hydrochloride Controlled-Release Tablets.
-For more information, ask your healthcare provider or pharmacist.
+- Medicine interactions.
+  Taking paroxetine CR with certain other medicines including thioridazine and pimozide may increase the risk of developing a serious heart problem called QT prolongation.
+- Abnormal bleeding.
+  Taking paroxetine CR with aspirin, NSAIDs, or blood thinners may add to this risk.
+  Tell your healthcare provider about any unusual bleeding or bruising.
+- Manic episodes.
+  Manic episodes may happen in people with bipolar disorder who take paroxetine CR.
+  Symptoms may include:
 
-CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 or 1-800-332-1088.
+- greatly increased energy
+- racing thoughts
+- unusually grand ideas
+- talking more or faster than usual
+- severe problems sleeping
+- reckless behavior
+- excessive happiness or irritability
 
-How should I store Paroxetine Hydrochloride Controlled-Release Tablets?
+- Discontinuation syndrome.
+  Suddenly stopping paroxetine CR may cause you to have serious side effects.
+  Your healthcare provider may want to decrease your dose slowly.
+  Symptoms may include:
 
-- •Store Paroxetine Hydrochloride Controlled-Release Tablets at or below room temperature (77oF or 25oC).
-- •Keep Paroxetine Hydrochloride Controlled-Release Tablets away from light.
-- •Keep bottle of Paroxetine Hydrochloride Controlled-Release Tablets closed tightly.
+- nausea
+- sweating
+- changes in mood
+- irritability and agitation
+- dizziness
+- electric shock feeling (paresthesia)
+- tremor
+- anxiety
+- confusion
+- headache
+- tiredness
+- problems sleeping
+- ringing in your ears (tinnitus)
+- seizures
 
-Keep Paroxetine Hydrochloride Controlled-Release Tablets and all medicines out of the reach of children.
+- Seizures (convulsions).
+- Eye problems (angle-closure glaucoma).
+  Paroxetine CR may cause a type of eye problem called angle-closure glaucoma in people with certain other eye conditions.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+- Low sodium levels in your blood (hyponatremia).
+  Low sodium levels in your blood that may be serious and may cause death, can happen during treatment with paroxetine CR.
+  Elderly people and people who take certain medicines may be at a greater risk for developing low sodium levels in your blood.
+  Signs and symptoms may include:
 
-General information about Paroxetine Hydrochloride Controlled-Release Tablets
+- headache
+- difficulty concentrating
+- memory changes
+- confusion
+- weakness and unsteadiness on your feet which can lead to falls
+
+In more severe or more sudden cases, signs and symptoms include:
+
+- seeing or hearing things that are not real (hallucinations)
+- fainting
+- seizures
+- coma
+- stopping breathing (respiratory arrest)
+
+- Bone fractures.
+
+The most common side effects paroxetine CR include:
+
+- male and female sexual function problems
+- blurred vision
+- weakness (asthenia)
+- constipation
+- decreased appetite
+- diarrhea
+- dizziness
+- dry mouth
+- problems sleeping
+- nausea
+- sleepiness
+- sweating
+- tremor
+
+These are not all the possible side effects of paroxetine CR.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store Paroxetine Hydrochloride Controlled-Release Tablets??
+
+- Store paroxetine CR at room temperature between 68°F to 77°F (20°C to 25°C).
+
+Keep paroxetine CR and all medicines out of the reach of children.
+
+General information about the safe and effective use of Paroxetine Hydrochloride Controlled-Release Tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Paroxetine Hydrochloride Controlled-Release Tablets for a condition for which it was not prescribed.
-Do not give Paroxetine Hydrochloride Controlled-Release Tablets to other people, even if they have the same condition.
+Do not take paroxetine CR for a condition for which it was not prescribed.
+Do not give paroxetine CR to other people, even if they have the same symptoms that you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about Paroxetine Hydrochloride Controlled-Release Tablets.
-If you would like more information, talk with your healthcare provider.
-You may ask your healthcare provider or pharmacist for information about Paroxetine Hydrochloride Controlled-Release Tablets that is written for healthcare professionals.
-
-For more information about Paroxetine Hydrochloride Controlled-Release Tablets call 1-800-706-5575.
+You may ask your healthcare provider or pharmacist for information about paroxetine CR that is written for healthcare professionals.
 
 What are the ingredients in Paroxetine Hydrochloride Controlled-Release Tablets?
 
 Active ingredient: paroxetine hydrochloride
 
-Inactive ingredients: hypromellose, polyvinylpyrrolidone, lactose monohydrate, magnesium stearate, silicon dioxide, glyceryl behenate, methacrylic acid copolymer type C, sodium lauryl sulfate, polysorbate 80, talc, triethyl citrate, titanium dioxide, polyethylene glycols, and 1 or more of the following colorants: Yellow ferric oxide, red ferric oxide, D&C Red No. 30 aluminum lake, FD&C Yellow No. 6 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake.
+Inactive ingredients: glyceryl behenate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer type C, polyethylene glycols, polysorbate 80, polyvinylpyrrolidone, silicon dioxide, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate and the following colorants: D&C Red No. 30 aluminum lake (25 mg), D&C Yellow No. 10 aluminum lake (12.5 mg), FD&C Blue No. 2 aluminum lake (37.5 mg), FD&C Yellow No. 6 aluminum lake (12.5 mg), red ferric oxide (25 mg) and Yellow ferric oxide (12.5 mg and 37.5 mg).
 
-Paroxetine hydrochloride controlled-release tablets are registered trademarks of GlaxoSmithKline.
+All registered trademarks in this document are the property of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
-Apotex Inc.
+ApotexInc.
 
 Toronto, Ontario
 
@@ -272,4 +263,8 @@ Manufactured for:
 
 Apotex Corp.
 
-Weston, FL33326
+Weston, FL 33326
+
+September 2019
+
+- 
