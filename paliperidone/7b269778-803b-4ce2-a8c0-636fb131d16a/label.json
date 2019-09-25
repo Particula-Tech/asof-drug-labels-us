@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA204707"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-280-03",
+    "65162-280-09",
+    "65162-281-03",
+    "65162-281-09",
+    "65162-282-03",
+    "65162-282-09",
+    "65162-283-03",
+    "65162-283-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "paliperidone",
+      "name": "Paliperidone"
+    }
+  ],
+  "setid": "7b269778-803b-4ce2-a8c0-636fb131d16a",
+  "source": "dailymed"
+}
