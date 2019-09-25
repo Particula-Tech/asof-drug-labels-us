@@ -126,7 +126,7 @@ The adverse reactions considered by the investigators as possibly, probably, or 
 Table 4.
 Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 2% of Patients
 
-|  | Alendronate 10 mg/day % (n=146) | Placebo % (n=95) | Once Weekly Alendronate 70 mg % (n=109) | Once Weekly % (n=58) |
+|  | Alendronate 10 mg/day % (n=146) | Placebo % (n=95) | Once Weekly Alendronate 70 mg % (n=109) | Placebo % (n=58) |
 | --- | --- | --- | --- | --- |
 |  | Two-Year Study |  | One-Year Study |  |
 | Gastrointestinal |  |  |  |  |

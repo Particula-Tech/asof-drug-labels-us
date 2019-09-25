@@ -4,16 +4,16 @@ How Supplied
 
 Alendronate sodium tablets USP, 35 mg (alendronate), are modified oval, white to off-white tablets; one side debossed 'AP207', the other side blank.
 
-NDC 60723-207-31 blister packs of 4.
-NDC 60723-207-32 unit-of-use packages of 12.
+NDC 60723-207-31 blister packs of 4 with child resistant package.
+NDC 60723-207-32 unit-of-use packages of 12 with child resistant package.
 NDC 60723-207-33 unit dose packages of 20.
 This package not intended for household use.
 For institutional use only.
 
 Alendronate sodium tablets USP, 70 mg (alendronate), are modified oval, white to off-white tablets; one side debossed 'AP205', the other side blank.
 
-NDC 60723-205-31 blister packs of 4.
-NDC 60723-205-32 unit-of-use packages of 12.
+NDC 60723-205-31 blister packs of 4 with child resistant package.
+NDC 60723-205-32 unit-of-use packages of 12 with child resistant package.
 NDC 60723-205-33 unit dose packages of 20.
 This package not intended for household use.
 For institutional use only.

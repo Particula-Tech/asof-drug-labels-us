@@ -15,7 +15,7 @@ Delayed or failed delivery of offspring, protracted parturition, and late pregna
 
 Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
 The amount of bisphosphonate incorporated into adult bone and available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use.
-Consequently, based on the mechanism of action of bisphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
+Consequently, based on the mechanism of action of bisphosphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on the risk has not been studied.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
@@ -27,12 +27,12 @@ Data
 Animal Data
 
 Reproduction studies in rats dosed orally from before mating to the end of gestation or lactation showed decreased postimplantation survival starting at 2 mg/kg/day and decreased body weight gain in starting at 1 mg/kg/day, doses equivalent to less than half the 40 mg clinical daily dose based on body surface area, mg/m 2.
-Incidence of incomplete fetal ossification in vertebral, skull, and sternebral bones were increased in rats dosed orally during organogenesis starting at 10 mg/kg/day (approximately 3 times the 40 mg clinical dailydose).
-No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at up to 35 mg/kg/day (equivakent to approximately 10 times the 40 mg clinical daily dose.
+Incidence of incomplete fetal ossification in vertebral, skull, and sternebral bones were increased in rats dosed orally during organogenesis starting at 10 mg/kg/day (approximately 3 times the 40 mg clinical daily dose).
+No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at up to 35 mg/kg/day (equivalent to approximately 10 times the 40 mg clinical daily dose.
 
 Both total and ionized calcium decreased in pregnant rats dosed orally with 15 mg/kg/day alendronate (approximately 4 times the 40 mg clinical daily dose) resulting in delays and failures of delivery.
 Protracted parturition due to maternal hypocalcemia was observed when rats were treated from before mating through gestation starting at 0.5 mg/kg/day (approximately one tenth the 40 mg clinical daily dose).
-Maternotoxicity (late pregnancy deaths) also occurred in the female rats treated orally with 15 mg/kg/day (approximately 4 times the 40 mg clinical daily dose) for varying gestation time periods.
+Maternotoxicity (late pregnancy deaths) also occurred in the female rats treated orally with 15 mg/kg/day (approximately 4 times the 40 mg clinical daily dose) for varying gestational time periods.
 These maternal deaths were lessened but not eliminated by cessation of treatment.
 Calcium supplementation in the drinking water or by subcutaneous minipump to rats dosed orally with 15 mg/kg/day alendronate could not ameliorate the hypocalcemia or prevent the dystocia-related maternal and neonatal deaths.
 However, intravenous calcium supplementation prevented maternal, but not neonatal deaths.
