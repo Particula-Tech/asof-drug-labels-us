@@ -34,7 +34,7 @@ Printed in USA
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
-1. 07-19-00-0356
+1. 07-19-00-719
 
 Rev.
 May 2018
