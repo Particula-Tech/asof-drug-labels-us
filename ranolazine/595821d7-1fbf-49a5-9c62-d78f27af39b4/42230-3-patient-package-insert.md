@@ -55,7 +55,7 @@ It is not known if ranolazine extended-release tablet will harm your unborn baby
 It is not known if ranolazine passes into your breast milk.
 You and your doctor should decide if you will breast-feed.
 
-Tell your doctor about all the medicines you take, including all prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including all prescription and nonprescription medicines, vitamins, and herbal supplements.
 Ranolazine extended-release tablet may affect the way other medicines work and other medicines may affect how ranolazine extended-release tablet works.
 
 Tell your doctor if you take medicines:
@@ -122,7 +122,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ranolazine extended-release tablet?
 
-Store ranolazine extended-release tablets at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Store ranolazine extended-release tablets at room temperature between 59° to 86°F (15° to 30°C).
 
 Keep ranolazine extended-release tablet and all medicines out of the reach of children.
 
@@ -156,6 +156,8 @@ Active ingredient: ranolazine
 Inactive ingredients: colloidal silicon dioxide, lactose monohydrate, magnesium stearate, methacrylic acid co-polymer type C, microcrystalline cellulose, sodium alginate, sodium hydroxide.
 Additional inactive ingredients used in film coating for the 500 mg tablet include FD&C yellow #6, hypromellose, polyethylene glycol, talc and titanium dioxide; additional inactive ingredients used in film coating for the 1000 mg tablet include hypromellose, iron oxide yellow, polyethylene glycol 4000 and titanium dioxide.
 
+The other brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for:
@@ -174,6 +176,4 @@ Goa - 403 722
 
 INDIA.
 
-All trademarks are the property of their respective owners.
-
-Revised: July 2018 ID#: 244912
+Revised: October 2019 ID#: 262256
