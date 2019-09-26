@@ -3,9 +3,9 @@
 Serious adverse reactions are uncommon when verapamil therapy is initiated with upward dose titration within the recommended single and total daily dose.
 See WARNINGS for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response.
 Reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil.
-The following reactions to orally administered verapamil occurred at rates greater than 1% or occurred at lower rates but appeared clearly drug-related in clinical trials in 4,954 patients.
+The following reactions to orally administered verapamil occurred at rates greater than 1% or occurred at lower rates but appeared clearly drug-related in clinical trials in 4,954 patients:
 
-| Constipation 7.3% Dyspnea 1.4% Dizziness 3.3% Bradycardia (HR < 50min) 1.4% Nausea 2.7% AV Block total (1º, 2º, 3º) 1.2%Hypotension 2.5% (2º and 3º) 0.8%Headache 2.2% Rash 1.2%Edema 1.9% Flushing 0.6%CHF/Pulmonary Edema 1.8%Fatigue 1.7% |  |
+| Constipation 7.3% Dyspnea 1.4% Dizziness 3.3% Bradycardia Nausea 2.7% (HR < 50/min) 1.4% Hypotension 2.5% AV block Headache 2.2% (total 1º, 2º, 3º) 1.2% Edema 1.9% (2º and 3º) 0.8% CHF, Pulmonary Rash 1.2% edema 1.8% Flushing 0.6% Fatigue 1.7% |  |
 | --- | --- |
 
 Elevated Liver Enzymes (see WARNINGS)
@@ -24,7 +24,7 @@ Nervous system: cerebrovascular accident, confusion, equilibrium disorders, inso
 
 Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, macules, sweating, urticaria, Stevens-Johnson syndrome, erythema multiforme.
 
-Special Ssenses: blurred vision, tinnitus.
+Special senses: blurred vision, tinnitus.
 
 Urogenital: gynecomastia, galactorrhea/hyperprolactinemia, increased urination, spotty menstruation, impotence.
 
