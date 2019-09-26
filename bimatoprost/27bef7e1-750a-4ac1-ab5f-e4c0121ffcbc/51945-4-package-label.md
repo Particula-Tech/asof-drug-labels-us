@@ -2,13 +2,13 @@
 
 NDC 0781-6206-93
 
-Bimatoprost Ophthalmic Solution
+Bimatoprost
 
-0.03% Sterile
+Ophthalmic
 
-Contents: One 3 mL bottle
+Solution
 
-70 disposable applicators
+0.03%
 
 Rx only
 
@@ -16,6 +16,8 @@ FOR TOPICAL APPLICATION
 
 TO THE UPPER EYE LID
 
-SANDOZ
+Sterile
 
-a Novartis company
+3 mL
+
+SANDOZ

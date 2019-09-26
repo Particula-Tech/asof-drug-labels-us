@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Bimatoprost ophthalmic solution, 0.03% is a synthetic prostaglandin analog.
-Its chemical name is (Z)-7-[(1R,2R,3R,5S)-3,5-Dihydroxy-2-[1E,3S)-3-hydroxy-5-phenyl-1-pentenyl] cyclopentyl]-N-ethyl 5-heptenamide, and its molecular weight is 415.58.
+Its chemical name is (Z)-7-[(1R,2R,3R,5S)-3,5-Dihydroxy-2-[(1E,3S)-3-hydroxy-5-phenyl-1-pentenyl]cyclopentyl]-N-ethyl-5-heptenamide, and its molecular weight is 415.58.
 Its molecular formula is C25H37NO4.
 Its chemical structure is:
 

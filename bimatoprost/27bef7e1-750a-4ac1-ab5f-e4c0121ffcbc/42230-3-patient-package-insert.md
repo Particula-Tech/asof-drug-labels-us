@@ -1,8 +1,4 @@
-# PATIENT INFORMATION
-
-Bimatoprost ophthalmic solution, 0.03%
-
-(bi ma׳ toe prost)
+# PATIENT INFORMATION Bimatoprost Ophthalmic Solution, 0.03% (bye-MAT-oh-prost)
 
 Read the Patient Information that comes with bimatoprost ophthalmic solution before you start using it and each time you get a refill.
 There may be new information.
@@ -38,6 +34,7 @@ These differences, should they occur, will usually go away if you stop using bim
 Who should I tell that I am using bimatoprost ophthalmic solution?
 
 You should tell your physician you are using bimatoprost ophthalmic solution especially if you have a history of eye pressure problems.
+
 You should also tell anyone conducting an eye pressure screening that you are using bimatoprost ophthalmic solution.
 
 What should I do if I get bimatoprost ophthalmic solution in my eye?
@@ -53,7 +50,7 @@ This was reported in approximately 4% of patients.
 Bimatoprost ophthalmic solution may cause other less common side effects which typically occur on the skin close to where bimatoprost ophthalmic solution is applied, or in the eyes.
 These include skin darkening, eye irritation, dryness of the eyes, and redness of the eyelids.
 
-If you develop a new ocular condition (e.g. trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, you should immediately seek your physician’s advice concerning the continued use of bimatoprost ophthalmic solution.
+If you develop a new ocular condition (e.g., trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, you should immediately seek your physician’s advice concerning the continued use of bimatoprost ophthalmic solution.
 
 What happens if I stop using bimatoprost ophthalmic solution?
 
@@ -85,6 +82,7 @@ Fifty percent of patients treated with bimatoprost ophthalmic solution in a clin
 
 If any bimatoprost ophthalmic solution gets into the eye proper, it is not expected to cause harm.
 The eye should not be rinsed.
+
 Don’t allow the tip of the bottle or applicator to contact surrounding structures, fingers, or any other unintended surface in order to avoid contamination by common bacteria known to cause infections.
 
 Contact lenses should be removed prior to application of bimatoprost ophthalmic solution and may be reinserted 15 minutes following its administration.
@@ -109,11 +107,12 @@ What are the ingredients in bimatoprost ophthalmic solution?
 Active ingredient: bimatoprost
 
 Inactive ingredients: benzalkonium chloride, citric acid, purified water, sodium chloride and sodium phosphate dibasic.
-Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.The pH during its shelf life ranges from 6.8 to 7.8.
+Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
+The pH during its shelf life ranges from 6.8 to 7.8.
 
 Lumigan® is a registered trademark of Allergan, Inc.
 
 Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540
 
 Rev.
-August 2016
+September 2019
