@@ -1,12 +1,12 @@
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Glenmark Pharmaceuticals Limited
 
 Plot No. 2, Phase-2, Pharma Zone SEZ
 
 Pithampur, Dist. - Dhar
 
-Madhya Pradesh - 454 775, India
+Madhya Pradesh - 454775, India
 
 Manufactured for:
 
@@ -17,6 +17,6 @@ Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-June 2019
+September 2019

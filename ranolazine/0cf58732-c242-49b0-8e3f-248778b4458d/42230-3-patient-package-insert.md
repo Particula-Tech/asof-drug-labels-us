@@ -16,7 +16,7 @@ This information does not take the place of talking with your doctor about your 
 
 What are ranolazine extended-release tablets?
 
-Ranolazine extended-release tablets are a prescription medicine used to treat angina that keeps coming back (chronic angina).
+Ranolazine extended-release tablets area prescription medicine used to treat angina that keeps coming back (chronic angina).
 
 Ranolazine extended-release tablets may be used with other medicines that are used for heart problems and blood pressure control.
 
@@ -27,13 +27,13 @@ Who should not take ranolazine extended-release tablets?
 Do not take ranolazine extended-release tablets if:
 
 - •you take any of the following medicines:
-  - ofor fungus infection: ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel™)
-  - ofor infection: clarithromycin (Biaxin®)
-  - ofor depression: nefazodone
-  - ofor HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®), indinavir (Crixivan®), saquinavir (Invirase®)
-  - ofor tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentine (Priftin®)
-  - ofor seizures: phenobarbital, phenytoin (Phenytek®, Dilantin®, Dilantin-125®), carbamazepine (Tegretol®)
-  - oSt.
+  - •for fungus infection: ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel™)
+  - •for infection: clarithromycin (Biaxin®)
+  - •for depression: nefazodone
+  - •for HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®), indinavir (Crixivan®), saquinavir (Invirase®)
+  - •for tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentine (Priftin®)
+  - •for seizures: phenobarbital, phenytoin (Phenytek®, Dilantin®, Dilantin-125®), carbamazepine (Tegretol®)
+  - •St.
     John's wort (Hypericum perforatum)
 - •you have scarring (cirrhosis) of your liver
 
@@ -46,9 +46,9 @@ Before you take ranolazine extended-release tablets, tell your doctor if you:
 - •have kidney problems.
 - •are pregnant or plan to become pregnant.
   It is not known if ranolazine will harm your unborn baby.
-- •are breast-feeding or plan to breast-feed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if ranolazine passes into your breast milk.
-  You and your doctor should decide if you will breast-feed.
+  You and your doctor should decide if you will breastfeed.
 
 Tell your doctor about all the medicines you take, including all prescription and nonprescription medicines, vitamins, and herbal supplements.
 Ranolazine extended-release tablets may affect the way other medicines work and other medicines may affect how ranolazine extended-release tablets work.
@@ -150,7 +150,7 @@ Active ingredient: ranolazine
 
 Inactive ingredients: 500 mg tablet: carmine, copolymer based ethyl acrylate and methacrylic acid, D&C Yellow #10 aluminum lake, FD&C Yellow #6/sunset yellow FCF aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium hydroxide, sodium lauryl sulfate, titanium dioxide and triacetin.
 
-1000 mg tablet: carmine, copolymer based ethyl acrylate and methacrylic acid, FD&C Red #40/allura red ac aluminum lake, FD&C Yellow #6/sunset yellow FCF aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid and ethyl acrylate copolymer, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium hydroxide, sodium lauryl sulfate, titanium dioxide and triacetin.
+1000 mg tablet: carmine, copolymer based ethyl acrylate and methacrylic acid, FD&C Red #40/allura red ac aluminum lake, FD&C Yellow #6/sunset yellow FCF aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium hydroxide, sodium lauryl sulfate, titanium dioxide and triacetin.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -158,13 +158,13 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Glenmark Pharmaceuticals Limited
 
 Plot No. 2, Phase-2, Pharma Zone SEZ
 
 Pithampur, Dist. - Dhar
 
-Madhya Pradesh - 454 775, India
+Madhya Pradesh - 454775, India
 
 Manufactured for:
 
@@ -175,6 +175,6 @@ Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-June 2019
+September 2019

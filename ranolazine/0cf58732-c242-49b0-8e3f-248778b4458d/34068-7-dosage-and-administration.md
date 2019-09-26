@@ -2,7 +2,7 @@
 
 ## 2.1 Dosing Information
 
-Initiate ranolazine dosing at 500 mg twice daily and increase to 1000 mg twice daily, as needed, based on clinical symptoms.
+Initiate ranolazine extended-release tablets dosing at 500 mg twice daily and increase to 1000 mg twice daily, as needed, based on clinical symptoms.
 Take ranolazine extended-release tablets with or without meals.
 Swallow ranolazine extended-release tablets whole; do not crush, break, or chew.
 

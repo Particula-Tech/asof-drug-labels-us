@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Ranolazine extended-release tablets are available as film-coated, non-scored, extended-release tablets for oral administration.
+Ranolazine extended-release tablets are available as film-coated, oblong-shaped, extended-release tablets for oral administration.
 
 Ranolazine is a racemic mixture, chemically described as 1-piperazineacetamide, N-(2,6-dimethylphenyl)-4-[2-hydroxy-3-(2-methoxyphenoxy)propyl]-, (±)-.
 It has an empirical formula of C24H33N3O4, a molecular weight of 427.54 g/mole, and the following structural formula:

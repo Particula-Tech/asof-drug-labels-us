@@ -10,4 +10,4 @@ These maximally tolerated doses are 0.8 and 0.1 times, respectively, the daily m
 A published study reported that ranolazine promoted tumor formation and progression to malignancy when given to transgenic APC (min/+) mice at a dose of 30 mg/kg twice daily [see References (15)].
 The clinical significance of this finding is unclear.
 
-In male and female rats, oral administration of ranolazine that produced exposures (AUC) approximatelty 3-fold or 5-fold higher, respectively, than the MRHD had no effect on fertility.
+In male and female rats, oral administration of ranolazine that produced exposures (AUC) approximately 3-fold or 5-fold higher, respectively, than the MRHD had no effect on fertility.
