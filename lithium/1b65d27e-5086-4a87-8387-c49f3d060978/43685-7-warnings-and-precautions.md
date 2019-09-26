@@ -3,7 +3,7 @@
 ## Lithium Toxicity
 
 The toxic concentrations for lithium (≥1.5 mEq/L) are close to the therapeutic range (0.8 to 1.2 mEq/L).
-Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see BOXED WARNING and DOSAGE AND ADMINISTRATION).
+Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see BOXED WARNINGand DOSAGE AND ADMINISTRATION).
 Lithium may take up to 24 hours to distribute into brain tissue, so occurrence of acute toxicity symptoms may be delayed.
 
 Neurological signs of lithium toxicity range from mild neurological adverse reactions such as fine tremor, lightheadedness, lack of coordination, and weakness; to moderate manifestations like giddiness, apathy, drowsiness, hyperreflexia, muscle twitching, ataxia, blurred vision, tinnitus, and slurred speech; and severe manifestations such as clonus, confusion, seizure, coma, and death.
@@ -146,7 +146,7 @@ Patients receiving such combined therapy should be monitored closely.
 Nonsteroidal anti-inflammatory drugs (NSAIDs): Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
 In some cases, lithium toxicity has resulted from interactions between a NSAID and lithium.
 Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
-There is also evidence that other nonsteroidal anti- inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
+There is also evidence that other nonsteroidal anti‑inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
 In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg BID with celecoxib 200 mg BID as compared to subjects receiving lithium alone.
 
 Lithium may impair mental and/or physical abilities.
