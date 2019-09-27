@@ -16,32 +16,42 @@ Advise the patient or caregiver to:
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 Inform patients they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
-Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use a sunscreen with a high protection factor [see Warnings and Precautions (5.1)].
+Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 17.3 Increased Risk of Infection
 
-Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Warnings and Precautions (5.2)].
+Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Boxed Warning and Warnings and Precautions (5.2)].
 
 ## 17.4 New Onset Diabetes After Transplant
 
 Inform patients that tacrolimus can cause diabetes mellitus and should be advised to contact their physician if they develop frequent urination, increased thirst, or hunger [see Warnings and Precautions (5.4)].
 
-## 17.5 Neurotoxicity
+## 17.5 Nephrotoxicity
+
+Inform patients that tacrolimus can have toxic effects on the kidney that should be monitored.
+Advise patients to attend all visits and complete all blood tests ordered by their medical team [see Warnings and Precautions (5.5)].
+
+## 17.6 Neurotoxicity
 
 Inform patients that they are at risk of developing adverse neurologic reactions including seizure, altered mental status, and tremor.
-Advise patients to contact their physician should they develop vision changes, deliriums, or tremors [see Warnings and Precautions (5.6)].
+Advise patients to contact their physician should they develop vision changes, delirium, or tremors [see Warnings and Precautions (5.6)].
 
-## 17.6 Hypertension
+## 17.7 Hyperkalemia
 
-Inform patients that tacrolimus can cause high blood pressure which may require treatment with anti-hypertensive therapy.
+Inform patients that tacrolimus can cause hyperkalemia.
+Monitoring of potassium levels may be necessary, especially with concomitant use of other drugs known to cause hyperkalemia [see Warnings and Precautions (5.7)].
+
+## 17.8 Hypertension
+
+Inform patients that tacrolimus can cause high blood pressure which may require treatment with antihypertensive therapy.
 Advise patients to monitor their blood pressure [see Warnings and Precautions (5.8)].
 
-## 17.7 Drug Interactions
+## 17.9 Drug Interactions
 
-Instruct patients to tell their healthcare providers when they start or stop taking all the medicines, including prescription medicines and non-prescription medicines, natural or herbal remedies, nutritional supplements, and vitamins.
+Instruct patients to tell their healthcare providers when they start or stop taking any medicines, including prescription medicines and nonprescription medicines, natural or herbal remedies, nutritional supplements, and vitamins.
 Advise patients to avoid grapefruit and grapefruit juice [see Drug Interactions (7)].
 
-## 17.8 Pregnancy, Lactation and Infertility
+## 17.10 Pregnancy, Lactation and Infertility
 
 Inform women of childbearing potential that tacrolimus can harm the fetus.
 Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
@@ -52,11 +62,11 @@ To enroll or register, patients can call the toll free number 1-877-955-6877 or 
 
 Based on animal studies, tacrolimus may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
-## 17.9 Myocardial Hypertrophy
+## 17.11 Myocardial Hypertrophy
 
 Inform patients to report symptoms of tiredness, swelling, and/or shortness of breath (heart failure).
 
-## 17.10 Immunizations
+## 17.12 Immunizations
 
 Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
 
@@ -67,6 +77,6 @@ Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham
 Manufactured By: Intas Pharmaceuticals Limited, Plot No: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382210.
 India.
 
-10 0108 2 697776
+10 0108 3 698961
 
-Issued May 2019
+Issued July 2019

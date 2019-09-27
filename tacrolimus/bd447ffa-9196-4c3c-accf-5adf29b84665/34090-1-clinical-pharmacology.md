@@ -3,12 +3,12 @@
 ## 12.1 Mechanism of Action
 
 Tacrolimus binds to an intracellular protein, FKBP-12.
-A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (a ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin inhibited.
+A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (a ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin is inhibited.
 Such inhibition prevents the dephosphorylation and translocation of various factors such as the nuclear factor of activated T-cells (NF-AT), and nuclear factor kappa-light-chain enhancer of activated B-cells (NF-κB).
 
 Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony stimulating factor.
 Tacrolimus also inhibits IL-2 receptor expression and nitric oxide release, induces apoptosis and production of transforming growth factor beta that can lead to immunosuppressive activity.
-The net result is the inhibition of T-lymphocyte activation and proliferation as well as T-helper-cell-dependent B-cell response (i.e., immunosuppression).
+The net result is the inhibition of T-lymphocyte activation and proliferation, as well as T-helper-cell-dependent B-cell response (i.e., immunosuppression).
 
 ## 12.3 Pharmacokinetics
 
@@ -33,7 +33,7 @@ Pharmacokinetics Parameters (mean ± S.D.) of Tacrolimus in Healthy Volunteers a
 | Heart Transplant Patients | 11 | PO (0.075 g/kg/day) Determined after the first dose | 14.7 ± 7.79 | 2.1 [0.5 to 6.0] Median [range] | 82.7 AUC 0-12 ± 63.2 |  |  |  |
 |  | 14 | PO (0.15 mg/kg/day) | 24.5 ± 13.7 | 1.5 [0.4 to 4.0] | 142 ± 116 |  |  |  |
 
-Due to intersubject variability in tacrolimus pharmacokinetics, individualization of dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.7)].
+Due to intersubject variability in tacrolimus pharmacokinetics, individualization of the dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.6)].
 Pharmacokinetic data indicate that whole blood concentrations rather than plasma concentrations serve as the more appropriate sampling compartment to describe tacrolimus pharmacokinetics.
 
 ### Absorption
@@ -64,7 +64,7 @@ When administered 1.5 hours following the meal, mean C max was reduced 63%, and 
 
 In 11 liver transplant patients, tacrolimus administered 15 minutes after a high fat (400 kcal, 34% fat) breakfast, resulted in decreased AUC (27 ± 18%) and C max (50 ± 19%), as compared to a fasted state.
 
-Tacrolimus capsules should be taken consistently every day either with or without food because the presence and composition of food decreases the bioavailability of tacrolimus [see Dosage and Administration (2.2)].
+Tacrolimus capsules should be taken consistently every day either with or without food because the presence and composition of food decreases the bioavailability of tacrolimus [see Dosage and Administration (2.1)].
 
 ### Distribution
 
@@ -93,7 +93,7 @@ Fecal elimination accounted for 92.4 ± 1.0% and the elimination half-life based
 The mean clearance of radiolabel was 0.029 ± 0.015 L/hr/kg and clearance of tacrolimus was 0.029 ± 0.009 L/hr/kg.
 When administered PO, the mean recovery of the radiolabel was 94.9 ± 30.7%.
 Fecal elimination accounted for 92.6 ± 30.7%, urinary elimination accounted for 2.3 ± 1.1% and the elimination half-life based on radioactivity was 31.9 ± 10.5 hours whereas it was 48.4 ± 12.3 hours based on tacrolimus concentrations.
-The mean clearance of radiolabel was 0.226 ± 0.116 L/hr/kg and clearance of tacrolimus 0.172 ± 0.088 L/hr/kg.
+The mean clearance of radiolabel was 0.226 ± 0.116 L/hr/kg and clearance of tacrolimus was 0.172 ± 0.088 L/hr/kg.
 
 ### Specific Populations
 
@@ -109,9 +109,9 @@ Pharmacokinetics of tacrolimus have also been studied in kidney transplantation 
 Following oral administration to the same patients, mean AUC and Cmax were 181 ± 65 ng•hr/mL and 30 ± 11 ng/mL, respectively.
 The absolute bioavailability was 19 ± 14%.
 
-Whole blood trough concentrations from 31 patients less than 12 years old showed that pediatric patients needed higher doses than adults to achieve similar tacrolimus trough concentrations [see Dosage and Administration (2.2)].
+Whole blood trough concentrations from 31 patients less than 12 years old showed that pediatric patients needed higher doses than adults to achieve similar tacrolimus trough concentrations [see Dosage and Administration (2.3)].
 
-Renal and Hepatic Impairment
+Renal and Hepatic Impaired Patients
 
 The mean pharmacokinetic parameters for tacrolimus following single administrations to adult patients with renal and hepatic impairment are given in Table 19.
 
@@ -129,20 +129,20 @@ Pharmacokinetic In Renal and Hepatic Impaired Adult Patients
 |  | 5 mg PO (n = 4) | 533 ± 156 (t = 144 hr) |  |  |  |
 |  | 4 mg PO (n = 1) |  |  |  |  |
 
-### Renal Impairment
+### Patients with Renal Impairment
 
-Tacrolimus pharmacokinetics following a single IV administration were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9 ± 1.6 and 12.0 ± 2.4 mg/dL, respectively) prior to their kidney transplant.
+Tacrolimus pharmacokinetics, following a single IV administration, were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9 ± 1.6 and 12.0 ± 2.4 mg/dL, respectively) prior to their kidney transplant.
 The pharmacokinetic parameters obtained were similar for both groups.
-The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 19) [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 19) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
-### Hepatic Impairment
+### Patients with Hepatic Impairment
 
 Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
 The mean clearance of tacrolimus in patients with mild hepatic dysfunction was not substantially different from that in normal volunteers (see previous table).
 Tacrolimus pharmacokinetics were studied in 6 patients with severe hepatic dysfunction (mean Pugh score: > 10).
-The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
+The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
-### Race
+### Racial or Ethnic Groups
 
 The pharmacokinetics of tacrolimus have been studied following single IV and oral administration of tacrolimus to 10 African-American, 12 Latino-American, and 12 Caucasian healthy volunteers.
 There were no significant pharmacokinetic differences among the three ethnic groups following a 4-hour IV infusion of 0.015 mg/kg.
@@ -151,9 +151,9 @@ However, after single oral administration of 5 mg, mean (± SD) tacrolimus C max
 Mean AUC 0-inf tended to be lower in African-Americans (203 ± 115 ng•hr/mL) than Caucasians (344 ± 186 ng•hr/mL) and Latino-Americans (274 ± 150 ng•hr/mL).
 The mean (± SD) absolute oral bioavailability (F) in African-Americans (12 ± 4.5%) and Latino-Americans (14 ± 7.4%) was significantly lower than in Caucasians (19 ± 5.8%, p = 0.011).
 There was no significant difference in mean terminal T 1/2 among the three ethnic groups (range from approximately 25 to 30 hours).
-A retrospective comparison of African-American and Caucasian kidney transplant patients indicated that African-American patients required higher tacrolimus doses to attain similar trough concentrations [see Dosage and Administration (2.3)].
+A retrospective comparison of African-American and Caucasian kidney transplant patients indicated that African-American patients required higher tacrolimus doses to attain similar trough concentrations [see Dosage and Administration (2.2)].
 
-### Gender
+### Male and Female Patients
 
 A formal trial to evaluate the effect of gender on tacrolimus pharmacokinetics has not been conducted, however, there was no difference in dosing by gender in the kidney transplant trial.
 A retrospective comparison of pharmacokinetics in healthy volunteers, and in kidney, liver, and heart transplant patients indicated no gender-based differences.

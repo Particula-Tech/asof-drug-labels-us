@@ -17,6 +17,6 @@ Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C
 Tacrolimus can cause fetal harm.
 Tacrolimus capsules should not be opened or crushed.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in tacrolimus capsules.
-If such contact occurs wash the skin thoroughly with soap and water; if ocular contact occurs, rinse eyes with water.
+If such contact occurs, wash the skin thoroughly with soap and water; if ocular contact occurs, rinse eyes with water.
 In case a spill occurs, wipe the surface with a wet paper towel.
 Follow applicable special handling and disposal procedures 1.
