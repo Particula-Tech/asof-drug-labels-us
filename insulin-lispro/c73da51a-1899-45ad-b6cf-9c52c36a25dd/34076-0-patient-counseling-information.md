@@ -26,7 +26,7 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with HUMALOG Mix75/25.
 Inform patients on the symptoms of hypersensitivity reactions and to seek medical attention if they occur [see Warnings and Precautions (5.5)].
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2018, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LOG7525-0003-USPI-20180926
+LOG7525-0004-USPI-20190917
