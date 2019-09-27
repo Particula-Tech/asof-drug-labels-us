@@ -14,9 +14,10 @@ What is the most important information I should know about zolpidem tartrate tab
 
 Zolpidem tartrate tablets may cause serious side effects, including:
 
-- After taking zolpidem tartrate tablets, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+- complex sleep behaviors that have caused serious injury and death.
+  After taking zolpidem tartrate tablets, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing (complex sleep behaviors).
   The next morning, you may not remember that you did anything during the night.
-  You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with zolpidem tartrate tablets.
+  These activities may occur with zolpidem tartrate tablets whether or not you drink alcohol or take other medicines that make you sleepy.
   Reported activities include:
 
 o driving a car ("sleep-driving")
@@ -29,10 +30,11 @@ o having sex
 
 o sleep-walking
 
-Call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate tablets.
+Stop taking zolpidem tartrate tablets and call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate tablets.
 
 Do not take zolpidem tartrate tablets if you:
 
+- have ever experienced a complex sleep behavior (such as driving a car, making and eating food, talking on the phone, or having sex while not being fully awake) after taking zolpidem tartrate tablets.
 - drank alcohol that evening or before bed
 - took another medicine to help you sleep
 
@@ -70,11 +72,8 @@ Before starting zolpidem tartrate tablets, tell your healthcare provider about a
 - Using zolpidem tartrate tablets in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
   Monitor for signs of sleepiness (more than usual), troublebreathing, or limpness in the newborn if zolpidem tartrate tablets is taken late in pregnancy.
 - are breastfeeding or plan to breastfeed.
-- Zolpidem tartrate tablets passes into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate tablets.
 
-Zolpidem tartrate tablets can pass into your breast milk.
-It is not known if zolpidem tartrate tablets will harm your baby.
+Zolpidem tartrate tablets passes into your breast milk.
 Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate tablets.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
@@ -111,7 +110,6 @@ Zolpidem tartrate tablets may cause serious side effects, including:
 - severe allergic reactions.
   Symptoms include swelling of the tongue or throat, and trouble breathing.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate tablets.
-- falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate tablets.
 
@@ -187,4 +185,4 @@ Manufactured for
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8075161 Revised April 2019
+8076677 Revised September 2019
