@@ -11,10 +11,10 @@ Co-administration of DELSTRIGO with a CYP3A inducer decreases doravirine plasma 
 
 Co-administration of DELSTRIGO and drugs that are inhibitors of CYP3A may result in increased plasma concentrations of doravirine.
 
-Table 5 shows the significant drug interactions with the components of DELSTRIGO.
+Table 6 shows the significant drug interactions with the components of DELSTRIGO.
 The drug interactions described are based on studies conducted with either DELSTRIGO or the components of DELSTRIGO as individual agents.
 
-Table 5: Drug Interactions with DELSTRIGOThis table is not all-inclusive
+Table 6: Drug Interactions with DELSTRIGOThis table is not all-inclusive
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration | Clinical Comment |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ Table 5: Drug Interactions with DELSTRIGOThis table is not all-inclusive
 | carbamazepine oxcarbazepine phenobarbital phenytoin | ↓ doravirine | Co-administration is contraindicated with these anticonvulsants. At least a 4-week cessation period is recommended prior to initiation of DELSTRIGO. |
 | Antimycobacterials |  |  |
 | rifampinThe interaction between doravirine and the concomitant drug was evaluated in a clinical study. rifapentine | ↓ doravirine | Co-administration is contraindicated with rifampin or rifapentine. At least a 4-week cessation period is recommended prior to initiation of DELSTRIGO. |
-| rifabutin | ↓ doravirine | If DELSTRIGO is co-administered with rifabutin, one tablet of doravirine (PIFELTRO) should be taken approximately 12 hours after the dose of DELSTRIGO [see Dosage and Administration (2.4)]. At least a 4-week cessation period is recommended prior to initiation of DELSTRIGO. |
+| rifabutin | ↓ doravirine | If DELSTRIGO is co-administered with rifabutin, one tablet of doravirine (PIFELTRO) should be taken approximately 12 hours after the dose of DELSTRIGO [see Dosage and Administration (2.4)]. |
 | Cytotoxic Agents |  |  |
 | mitotane | ↓ doravirine | Co-administration is contraindicated with mitotane. At least a 4-week cessation period is recommended prior to initiation of DELSTRIGO. |
 | Hepatitis C Antiviral Agents |  |  |

@@ -11,7 +11,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse Reactions in Adults with No Prior Antiretroviral Treatment History
+Adverse Reactions in Adults with No Antiretroviral Treatment History
 
 The safety assessment of DELSTRIGO is based on Week 48 data from two Phase 3, randomized, international, multicenter, double-blind, active-controlled trials.
 A total of 747 subjects received doravirine either as the single entity in combination with other antiretroviral drugs as background regimens (n=383) or as the fixed-dose DELSTRIGO (n=364), and a total of 747 subjects were randomized to control arms.
@@ -114,10 +114,41 @@ Table 4: Mean Change from Baseline in Fasting Lipids in Adult Subjects with No A
 | Laboratory Parameter Preferred Term | DELSTRIGO Once Daily N=320 |  | EFV/FTC/TDF Once Daily N=307 |  | Difference Estimates (DELSTRIGO - EFV/FTC/TDF) |
 | LDL-Cholesterol (mg/dL)P-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 91.7 | -2.1 | 91.3 | 8.3 | -10.2 (-13.8, -6.7) |
 | Non-HDL Cholesterol (mg/dL) | 114.7 | -4.1 | 115.3 | 12.7 | -16.9 (-20.8, -13.0) |
-| Total Cholesterol (mg/dL) Not pre-specified for hypothesis testing. | 156.8 | -2.2 | 156.8 | 21.1 | - |
+| Total Cholesterol (mg/dL)Not pre-specified for hypothesis testing. | 156.8 | -2.2 | 156.8 | 21.1 | - |
 | Triglycerides (mg/dL) | 118.7 | -12.0 | 122.6 | 21.6 | - |
 | HDL-Cholesterol (mg/dL) | 42.1 | 1.8 | 41.6 | 8.4 | - |
 | Subjects on lipid-lowering agents at baseline were excluded from these analyses (DELSTRIGO n=15 and EFV/FTC/TDF n=10). Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (DELSTRIGO n=3 and EFV/FTC/TDF n=8). |  |  |  |  |  |
+
+Adverse Reactions in Virologically-Suppressed Adults
+
+The safety of DELSTRIGO in virologically-suppressed adults was based on Week 48 data from 670 subjects in the DRIVE-SHIFT trial (Protocol 024), a randomized, international, multicenter, open-label trial in which virologically-suppressed subjects were switched from a baseline regimen consisting of two nucleoside reverse transcriptase inhibitors (NRTIs) in combination with a protease inhibitor (PI) plus either ritonavir or cobicistat, or elvitegravir plus cobicistat, or an NNRTI to DELSTRIGO.
+Overall, the safety profile in virologically-suppressed adult subjects was similar to that in subjects with no antiretroviral treatment history.
+
+Laboratory Abnormalities
+
+Serum ALT and AST Elevations: In the DRIVE-SHIFT trial, 22% and 16% of subjects in the immediate switch group experienced ALT and AST elevations of greater than 1.25 × ULN, respectively, through 48 weeks on DELSTRIGO.
+For these ALT and AST elevations, no apparent time patterns with regard to time to onset relative to switch were observed.
+One percent of subjects had ALT or AST elevations greater than 5 × ULN through 48 weeks on DELSTRIGO.
+The ALT and AST elevations were generally asymptomatic, and not associated with bilirubin elevations.
+In comparison, 4% and 4% of subjects in the delayed switch group experienced ALT and AST elevations of greater than 1.25 × ULN through 24 weeks on their baseline regimen.
+
+Change in Lipids from Baseline
+
+Changes from baseline at Week 24 in LDL-cholesterol, non-HDL-cholesterol, total cholesterol, triglycerides, and HDL-cholesterol in subjects on a PI plus ritonavir-based regimen at baseline are shown in Table 5.
+The LDL and non-LDL comparisons were pre-specified, and the differences were statistically significant, showing superiority for an immediate switch to DELSTRIGO for both parameters.
+The clinical benefit of these findings has not been demonstrated.
+
+Table 5: Mean Change from Baseline in Fasting Lipids in Adult Virologically-Suppressed Subjects on a PI plus Ritonavir-based Regimen at Baseline in DRIVE-SHIFT (Week 24)
+
+|  | Baseline | Change | Baseline | Change | Difference (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+| Laboratory Parameter Preferred Term | DELSTRIGO (Week 0-24) Once Daily N=244 |  | PI+ritonavir (Week 0-24) Once Daily N=124 |  | Difference Estimates |
+| LDL-Cholesterol (mg/dL)P-value for the pre-specified hypothesis testing for treatment difference was <0.0001. | 108.7 | -16.3 | 110.5 | -2.6 | -14.5 (-18.9, -10.1) |
+| Non-HDL Cholesterol (mg/dL) | 138.6 | -24.8 | 138.8 | -2.1 | -22.8 (-27.9, -17.7) |
+| Total Cholesterol (mg/dL)Not pre-specified for hypothesis testing. | 188.5 | -26.1 | 187.4 | -0.2 | - |
+| Triglycerides (mg/dL) | 153.1 | -44.4 | 151.4 | -0.4 | - |
+| HDL-Cholesterol (mg/dL) | 50.0 | -1.3 | 48.5 | 1.9 | - |
+| Subjects on lipid-lowering agents at baseline were excluded from these analyses (DELSTRIGO n=26 and PI+ritonavir n=13). Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (DELSTRIGO n=4 and PI+ritonavir n=2). |  |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 

@@ -33,7 +33,7 @@ The concomitant use of DELSTRIGO and certain other drugs may result in known or 
 - Loss of therapeutic effect of DELSTRIGO and possible development of resistance.
 - Possible clinically significant adverse reactions from greater exposures of a component of DELSTRIGO.
 
-See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during DELSTRIGO therapy, review concomitant medications during DELSTRIGO therapy, and monitor for adverse reactions.
 
 ## 5.4 Bone Loss and Mineralization Defects
@@ -59,4 +59,4 @@ Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
