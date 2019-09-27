@@ -26,7 +26,7 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with HUMALOG Mix50/50.
 Inform patients on the symptoms of hypersensitivity reactions and to seek medical attention if they occur [see Warnings and Precautions (5.5)].
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2018, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LOG5050-0003-USPI-20180926
+LOG5050-0004-USPI-20190917
