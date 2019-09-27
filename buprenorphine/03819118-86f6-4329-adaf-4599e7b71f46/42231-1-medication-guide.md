@@ -27,6 +27,10 @@ What is the most important information I should know about Buprenorphine Subling
 - Call a doctor or get emergency help right away if you: ○ Feel sleepy and uncoordinated ○ Have blurred vision ○ Have slurred speech ○ Cannot think well or clearly ○ Have slowed reflexes and breathing
 - Do not inject (“shoot-up”) Buprenorphine Sublingual Tablets. ○ Injecting Buprenorphine Sublingual Tablets may cause life-threatening infections and other serious health problems. ○ Injecting Buprenorphine Sublingual Tablets may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
 - In an emergency, have family members tell the emergency department staff that you are physically dependent on an opioid and are being treated with Buprenorphine Sublingual Tablets.
+- Never give anyone else your Buprenorphine Sublingual Tablets.
+  They could die from taking it.
+  Selling or giving away Buprenorphine Sublingual Tablets is against the law.
+- Store Buprenorphine Sublingual Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 
 What are Buprenorphine Sublingual Tablets?
 
@@ -102,6 +106,8 @@ How should I take Buprenorphine Sublingual Tablets?
   Your doctor can tell you more about the differences between physical dependence and drug addiction.
   To have fewer withdrawal symptoms, ask your doctor how to stop using Buprenorphine Sublingual Tablets the right way.
 - If you take too many Buprenorphine Sublingual Tablets or overdose, call Poison Control or get emergency medical help right away.
+- Dispose of expired, unwanted, or unused Buprenorphine Sublingual Tablets by promptly flushing down the toilet, if a drug take-back option is not readily available.
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 What should I avoid while taking Buprenorphine Sublingual Tablets?
 
@@ -169,7 +175,6 @@ How should I dispose of unused Buprenorphine Sublingual Tablets?
 
 - Dispose of unused Buprenorphine Sublingual Tablets as soon as you no longer need them.
 - Unused tablets should be flushed down the toilet.
-  If you need help with disposal of buprenorphine and naloxone, call 1-800-432-8534.
 
 General information about the safe and effective use of Buprenorphine Sublingual Tablets
 
@@ -196,6 +201,5 @@ Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-40-9095
-
-(MG 41-1125/1017)
+Rev.
+A 5/2019
