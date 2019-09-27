@@ -63,8 +63,8 @@ Clinical studies of vigabatrin did not include sufficient numbers of patients ag
 Vigabatrin is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-Oral administration of a single dose of 1.5 g of vigabatrin to elderly (≥65 years) patients with reduced creatinine clearance (<50 mL/min) was associated with moderate to severe sedation and confusion in 4 of 5 patients, lasting up to 5 days.
-The renal clearance of vigabatrin was 36% lower in healthy elderly subjects (≥65 years) than in young healthy males.
+Oral administration of a single dose of 1.5 g of vigabatrin to elderly (≥ 65 years) patients with reduced creatinine clearance (< 50 mL/min) was associated with moderate to severe sedation and confusion in 4 of 5 patients, lasting up to 5 days.
+The renal clearance of vigabatrin was 36% lower in healthy elderly subjects (≥ 65 years) than in young healthy males.
 Adjustment of dose or frequency of administration should be considered.
 Such patients may respond to a lower maintenance dose [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
@@ -72,4 +72,4 @@ Other reported clinical experience has not identified differences in responses b
 
 ## 8.6 Renal Impairment
 
-Dose adjustment, including initiating treatment with a lower dose, is necessary in pediatric patients 10 years of age and older and adults with mild (creatinine clearance >50 to 80 mL/min), moderate (creatinine clearance >30 to 50 mL/min) and severe (creatinine clearance >10 to 30 mL/min) renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Dose adjustment, including initiating treatment with a lower dose, is necessary in pediatric patients 10 years of age and older and adults with mild (creatinine clearance > 50 to 80 mL/min), moderate (creatinine clearance > 30 to 50 mL/min) and severe (creatinine clearance > 10 to 30 mL/min) renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

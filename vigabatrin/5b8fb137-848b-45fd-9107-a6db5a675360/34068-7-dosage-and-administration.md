@@ -94,13 +94,13 @@ Information about how to adjust the dose in infants with renal impairment is una
 
 Adult and pediatric patients 10 years and older
 
-- Mild renal impairment (CLcr >50 to 80 mL/min): dose should be decreased by 25%
-- Moderate renal impairment (CLcr >30 to 50 mL/min): dose should be decreased by 50%
-- Severe renal impairment (CLcr >10 to 30 mL/min): dose should be decreased by 75%
+- Mild renal impairment (CLcr > 50 to 80 mL/min): dose should be decreased by 25%
+- Moderate renal impairment (CLcr > 30 to 50 mL/min): dose should be decreased by 50%
+- Severe renal impairment (CLcr > 10 to 30 mL/min): dose should be decreased by 75%
 
 CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the following formulas:
 
-- Patients 10 to <12 years old: CLcr (mL/min/1.73 m2) = (K × Ht) / Scr height (Ht) in cm; serum creatinine (Scr) in mg/dL K (proportionality constant): Female Child (<12 years): K=0.55;Male Child (<12 years): K=0.70
+- Patients 10 to < 12 years old: CLcr (mL/min/1.73 m2) = (K × Ht) / Scr height (Ht) in cm; serum creatinine (Scr) in mg/dL K (proportionality constant): Female Child (< 12 years): K=0.55;Male Child (< 12 years): K=0.70
 - Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (×0.85 for female patients)
 
 The effect of dialysis on vigabatrin for oral solution clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].

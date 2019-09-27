@@ -17,17 +17,17 @@ The following serious and otherwise important adverse reactions are described el
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In U.S. and primary non-U.S. clinical studies of 4,079 vigabatrin treated patients, the most common (≥5%) adverse reactions associated with the use of vigabatrin in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
+In U.S. and primary non-U.S. clinical studies of 4,079 vigabatrin treated patients, the most common (≥ 5%) adverse reactions associated with the use of vigabatrin in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
 
-The adverse reactions most commonly associated with vigabatrin treatment discontinuation in ≥1% of patients were convulsion and depression.
+The adverse reactions most commonly associated with vigabatrin treatment discontinuation in ≥ 1% of patients were convulsion and depression.
 
-In patients with infantile spasms, the adverse reactions most commonly associated with vigabatrin treatment discontinuation in ≥1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight gain, and insomnia.
+In patients with infantile spasms, the adverse reactions most commonly associated with vigabatrin treatment discontinuation in ≥ 1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight gain, and insomnia.
 
 Refractory Complex Partial Seizures
 
 Adults
 
-Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per vigabatrin treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
+Table 5 lists the adverse reactions that occurred in ≥ 2% and more than one patient per vigabatrin treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
 
 Table 5.
 Adverse Reactions in Pooled, Add-On Trials in Adults with Refractory Complex Partial Seizures
@@ -72,10 +72,10 @@ Adverse Reactions in Pooled, Add-On Trials in Pediatric Patients 10 to 16 Years 
 
 Infantile Spasms
 
-In a randomized, placebo-controlled IS study with a 5 day double-blind treatment phase (n=40), the adverse reactions that occurred in >5% of patients receiving vigabatrin and that occurred more frequently than in placebo patients were somnolence (vigabatrin 45%, placebo 30%), bronchitis (vigabatrin 30%, placebo 15%), ear infection (vigabatrin 10%, placebo 5%), and acute otitis media (vigabatrin 10%, placebo 0%).
+In a randomized, placebo-controlled IS study with a 5 day double-blind treatment phase (n=40), the adverse reactions that occurred in > 5% of patients receiving vigabatrin and that occurred more frequently than in placebo patients were somnolence (vigabatrin 45%, placebo 30%), bronchitis (vigabatrin 30%, placebo 15%), ear infection (vigabatrin 10%, placebo 5%), and acute otitis media (vigabatrin 10%, placebo 0%).
 
 In a dose response study of low-dose (18 to 36 mg/kg/day) versus high-dose (100 to 148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse reactions was observed.
-The adverse reactions (≥5% in either dose group) are summarized in Table 7.
+The adverse reactions (≥ 5% in either dose group) are summarized in Table 7.
 
 Table 7.
 Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasms

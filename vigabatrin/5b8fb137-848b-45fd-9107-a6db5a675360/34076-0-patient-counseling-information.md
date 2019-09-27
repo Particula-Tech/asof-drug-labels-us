@@ -55,4 +55,4 @@ As with all AEDs, withdrawal should normally be gradual [see Warnings and Precau
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2018-02
+08-2019-03

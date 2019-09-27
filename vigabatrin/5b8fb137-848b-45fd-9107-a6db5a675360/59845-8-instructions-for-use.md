@@ -1,6 +1,6 @@
 # Instructions for Use
 
-Vigabatrin (vye-GA-ba-trin) for oral solution
+Vigabatrin (vye ga’ ba trin) for oral solution
 
 Read this Instructions for Use before your child starts taking vigabatrin for oral solution and each time you get a refill.
 There may be new information.
@@ -123,4 +123,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-02-2018-01
+08-2019-02

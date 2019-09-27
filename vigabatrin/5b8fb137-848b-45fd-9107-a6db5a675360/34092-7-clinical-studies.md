@@ -31,14 +31,14 @@ Median Monthly Frequency of Complex Partial Seizures+
 | 1 g/day vigabatrin | 45 | 8.5 | 7.7 |
 | 3 g/day vigabatrin | 41 | 8.5 | 3.7* |
 | 6 g/day vigabatrin | 43 | 8.5 | 4.5* |
-| *p<0.05 compared to placebo+Including one patient with simple partial seizures with secondary generalization only |  |  |  |
+| *p< 0.05 compared to placebo+Including one patient with simple partial seizures with secondary generalization only |  |  |  |
 
 Figure 1 presents the percentage of patients (X-axis) with a percent reduction in seizure frequency (responder rate) from baseline to the maintenance phase at least as great as that represented on the Y-axis.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in complex partial seizure frequency), while a negative value indicates a worsening from baseline (i.e., an increase in complex partial seizure frequency).
 Thus, in a display of this type, a curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in complex partial seizure frequency was consistently higher for the vigabatrin 3 and 6 g/day groups compared to the placebo group.
 For example, 51% of patients randomized to vigabatrin 3 g/day and 53% of patients randomized to vigabatrin 6 g/day experienced a 50% or greater reduction in seizure frequency, compared to 9% of patients randomized to placebo.
-Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
+Patients with an increase in seizure frequency > 100% are represented on the Y-axis as equal to or greater than -100%.
 
 Study 2
 
@@ -55,14 +55,14 @@ Median Monthly Frequency of Complex Partial Seizures
 | --- | --- | --- | --- |
 | Placebo | 90 | 9.0 | 7.5 |
 | 3 g/day vigabatrin | 92 | 8.3 | 5.5* |
-| *p<0.05 compared to placebo |  |  |  |
+| *p< 0.05 compared to placebo |  |  |  |
 
 Figure 2 presents the percentage of patients (X-axis) with a percent reduction in seizure frequency (responder rate) from baseline to the maintenance phase at least as great as that represented on the Y-axis.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in complex partial seizure frequency), while a negative value indicates a worsening from baseline (i.e., an increase in complex partial seizure frequency).
 Thus, in a display of this type, a curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in seizure frequency was consistently higher for the vigabatrin 3 g/day group compared to the placebo group.
 For example, 39% of patients randomized to vigabatrin (3 g/day) experienced a 50% or greater reduction in complex partial seizure frequency, compared to 21% of patients randomized to placebo.
-Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
+Patients with an increase in seizure frequency > 100% are represented on the Y-axis as equal to or greater than -100%.
 
 For both studies, there was no difference in the effectiveness of vigabatrin between male and female patients.
 Analyses of age and race were not possible as nearly all patients were between the ages of 18 to 65 and Caucasian.
@@ -85,7 +85,7 @@ Both studies were similar in terms of disease characteristics and prior treatmen
 
 Study 1
 
-Study 1 (N=221) was a multicenter, randomized, low-dose high-dose, parallel-group, partially-blind (caregivers knew the actual dose but not whether their child was classified as low or high dose; EEG reader was blinded but investigators were not blinded) study to evaluate the safety and efficacy of vigabatrin in patients <2 years of age with new-onset infantile spasms.
+Study 1 (N=221) was a multicenter, randomized, low-dose high-dose, parallel-group, partially-blind (caregivers knew the actual dose but not whether their child was classified as low or high dose; EEG reader was blinded but investigators were not blinded) study to evaluate the safety and efficacy of vigabatrin in patients < 2 years of age with new-onset infantile spasms.
 Patients with both symptomatic and cryptogenic etiologies were studied.
 The study was comprised of two phases.
 The first phase was a 14 to 21 day partially-blind phase in which patients were randomized to receive either low-dose (18 to 36 mg/kg/day) or high-dose (100 to 148 mg/kg/day) vigabatrin.

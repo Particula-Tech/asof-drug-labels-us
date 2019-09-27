@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanism of vigabatrin’s anti-seizure effect is unknown, but it is believed to be the result of its action as an irreversible inhibitor of γ -aminobutryric acid transaminase (GABA-T), the enzyme responsible for the metabolism of the inhibitory neurotransmitter GABA.
+The precise mechanism of vigabatrin’s anti-seizure effect is unknown, but it is believed to be the result of its action as an irreversible inhibitor of γ-aminobutyric acid transaminase (GABA-T), the enzyme responsible for the metabolism of the inhibitory neurotransmitter GABA.
 This action results in increased levels of GABA in the central nervous system.
 
 No direct correlation between plasma concentration and efficacy has been established.
@@ -44,7 +44,7 @@ Specific Populations
 
 Geriatric
 
-The renal clearance of vigabatrin in healthy elderly patients (≥65 years of age) was 36% less than those in healthy younger patients.
+The renal clearance of vigabatrin in healthy elderly patients (≥ 65 years of age) was 36% less than those in healthy younger patients.
 This finding is confirmed by an analysis of data from a controlled clinical trial [see Use in Specific Populations (8.5)].
 
 Pediatric
@@ -64,11 +64,11 @@ Inter-subject variability in renal clearance was 20% in Caucasians and was 30% i
 
 Renal Impairment
 
-Mean AUC increased by 30% and the terminal half-life increased by 55% (8.1 hr vs 12.5 hr) in adult patients with mild renal impairment (CLcr from >50 to 80 mL/min) in comparison to normal subjects.
+Mean AUC increased by 30% and the terminal half-life increased by 55% (8.1 hr vs 12.5 hr) in adult patients with mild renal impairment (CLcr from > 50 to 80 mL/min) in comparison to normal subjects.
 
-Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from >30 to 50 mL/min) in comparison to normal subjects.
+Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from > 30 to 50 mL/min) in comparison to normal subjects.
 
-Mean AUC increased by 4.5-fold and the terminal half-life increased by 3.5-fold in adult patients with severe renal impairment (CLcr from >10 to 30 mL/min) in comparison to normal subjects.
+Mean AUC increased by 4.5-fold and the terminal half-life increased by 3.5-fold in adult patients with severe renal impairment (CLcr from > 10 to 30 mL/min) in comparison to normal subjects.
 
 Adult patients with renal impairment
 
