@@ -15,9 +15,9 @@ At a doravirine dose of 1200 mg, which provides approximately 4 times the peak c
 ## 12.3 Pharmacokinetics
 
 Doravirine pharmacokinetics are similar in healthy subjects and HIV-1-infected subjects.
-Doravirine pharmacokinetics are provided in Table 6.
+Doravirine pharmacokinetics are provided in Table 7.
 
-Table 6: Pharmacokinetic Properties of Doravirine
+Table 7: Pharmacokinetic Properties of Doravirine
 
 | Parameter | Doravirine |
 | --- | --- |
@@ -75,10 +75,10 @@ Doravirine is not likely to have a clinically relevant effect on the exposure of
 Doravirine did not inhibit major drug metabolizing enzymes in vitro, including CYPs 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 3A4, and UGT1A1 and is not likely to be an inducer of CYP1A2, 2B6, or 3A4.
 Based on in vitro assays, doravirine is not likely to be an inhibitor of OATP1B1, OATP1B3, P-glycoprotein, BSEP, OAT1, OAT3, OCT2, MATE1, and MATE2K.
 Drug interaction studies were performed with doravirine and other drugs likely to be co-administered or commonly used as probes for pharmacokinetic interactions.
-The effects of co-administration with other drugs on the exposure (Cmax, AUC, and C24) of doravirine are summarized in Table 7.
+The effects of co-administration with other drugs on the exposure (Cmax, AUC, and C24) of doravirine are summarized in Table 8.
 A single doravirine 100 mg dose was administered in these studies unless otherwise noted.
 
-Table 7: Drug Interactions: Changes in Pharmacokinetic Parameter Values of Doravirine in the Presence of Co-administered Drug
+Table 8: Drug Interactions: Changes in Pharmacokinetic Parameter Values of Doravirine in the Presence of Co-administered Drug
 
 | AUCAUC0-∞ for single-dose, AUC0-24 for once daily. | Cmax | C24 |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -106,7 +106,7 @@ Doravirine does not inhibit the human cellular DNA polymerases α, ß, and mitoc
 Antiviral Activity in Cell Culture
 
 Doravirine exhibited an EC50 value of 12.0±4.4 nM against wild-type laboratory strains of HIV-1 when tested in the presence of 100% normal human serum (NHS) using MT4-GFP reporter cells.
-Doravirine demonstrated antiviral activity against a broad panel of primary HIV-1 isolates (A, A1, AE, AG, B, BF, C, D, G, H) with EC50 values ranging from 0.6 nM to 10.0 nM.
+Doravirine demonstrated antiviral activity against a broad panel of primary HIV-1 isolates (A, A1, AE, AG, B, BF, C, D, G, H) with EC50 values ranging from 1.2 nM to 10.0 nM.
 
 Antiviral Activity in Combination with other HIV Antiviral Agents
 
@@ -121,15 +121,23 @@ Observed emergent amino acid substitutions in RT included: V106A, V106M, V106I, 
 
 In Clinical Trials
 
-In the doravirine treatment arms of the DRIVE-FORWARD and DRIVE-AHEAD trials (n=747), 11 subjects showed the emergence of doravirine-associated resistance substitutions in their HIV among 28 (39%) subjects in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having resistance data).
+Clinical Trial Results in Adults with No Antiretroviral Treatment History
+
+In the doravirine treatment arms of the DRIVE-FORWARD and DRIVE-AHEAD trials (n=747) at Week 48, 11 subjects showed the emergence of doravirine-associated resistance substitutions in their HIV among 28 (39%) subjects in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having resistance data).
 Emergent doravirine resistance-associated substitutions in RT included one or more of the following: A98G, V106I, V106A, V106M/T, V108I, E138G/K, Y188L, H221Y, P225H, F227C, F227C/R, and Y318Y/F.
 Seven of 11 (64%) subjects with emergent doravirine-associated resistance substitutions showed doravirine phenotypic resistance and all of them had at least a 100-fold reduction in doravirine susceptibility (range >97- to >211–fold reduction in doravirine susceptibility).
 The other 4 virologic failures who had only amino acid mixtures of NNRTI resistance substitutions showed doravirine phenotypic fold-changes of less than 2-fold.
 Of the 28 subjects in the resistance analysis subset, 8 subjects (29%) developed genotypic and/or phenotypic resistance to the other drugs (abacavir, lamivudine, emtricitabine, or TDF) in the regimens of the DRIVE-FORWARD and DRIVE-AHEAD trials.
 The resistance-associated substitutions that emerged were RT M41L (n=1), A62V (n=1), K65R (n=2), T69T/A (n=1), and M184V (n=5).
 
-In the DRV+r treatment arm of the DRIVE-FORWARD trial (n=383), no subjects showed the emergence of darunavir-associated resistance substitutions among 9 subjects with resistance data and none of the subjects had emergent resistance to lamivudine or TDF.
+In the DRV+r treatment arm of the DRIVE-FORWARD trial (n=383) at Week 48, no subjects showed the emergence of darunavir-associated resistance substitutions among 9 subjects with resistance data and none of the subjects had emergent resistance to lamivudine or TDF.
 In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364), 12 subjects showed the emergence of efavirenz-associated resistance substitutions among 20 (60%) subjects in the resistance analysis subset and genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable subjects; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1), and M184V/I (n=5).
+
+Clinical Trial Results in Virologically-Suppressed Adults
+
+In the DRIVE-SHIFT clinical trial [see Clinical Studies 14.2], there were 6 subjects in the immediate switch group (n=447) and 2 subjects in the delayed switch group (n=209) who met the protocol-defined virologic failure criteria (confirmed HIV-1 RNA ≥ 50 copies/mL).
+Two of the 6 virologic failure subjects in the immediate switch group had available resistance data and neither developed detectable genotypic or phenotypic resistance to doravirine, lamivudine, or tenofovir during treatment with DELSTRIGO.
+One of the two virologic failure subjects in the delayed switch group who had available resistance data developed the RT M184M/I substitution and phenotypic resistance to emtricitabine and lamivudine during treatment with their baseline regimen.
 
 Cross-Resistance
 

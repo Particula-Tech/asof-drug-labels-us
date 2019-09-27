@@ -4,7 +4,7 @@
 
 The concomitant use of PIFELTRO and certain other drugs may result in known or potentially significant drug interactions, some of which may lead to loss of therapeutic effect of PIFELTRO and possible development of resistance [see Dosage and Administration (2.2), Contraindications (4) and Drug Interactions (7.1)].
 
-See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during PIFELTRO therapy, review concomitant medications during PIFELTRO therapy, and monitor for adverse reactions.
 
 ## 5.2 Immune Reconstitution Syndrome
@@ -12,4 +12,4 @@ Consider the potential for drug interactions prior to and during PIFELTRO therap
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.

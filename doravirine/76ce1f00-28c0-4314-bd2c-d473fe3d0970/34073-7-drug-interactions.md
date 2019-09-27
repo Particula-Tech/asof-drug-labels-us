@@ -5,9 +5,9 @@
 Co-administration of PIFELTRO with a CYP3A inducer decreases doravirine plasma concentrations, which may reduce PIFELTRO efficacy [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 Co-administration of PIFELTRO and drugs that are inhibitors of CYP3A may result in increased plasma concentrations of doravirine.
 
-Table 5 shows significant drug interactions with PIFELTRO.
+Table 6 shows significant drug interactions with PIFELTRO.
 
-Table 5: Drug Interactions with PIFELTROThis table is not all inclusive.
+Table 6: Drug Interactions with PIFELTROThis table is not all inclusive.
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration | Clinical Comment |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ Table 5: Drug Interactions with PIFELTROThis table is not all inclusive.
 | carbamazepine oxcarbazepine phenobarbital phenytoin | ↓ doravirine | Co-administration is contraindicated with these anticonvulsants. At least a 4-week cessation period is recommended prior to initiation of PIFELTRO. |
 | Antimycobacterials |  |  |
 | rifampinThe interaction between PIFELTRO and the concomitant drug was evaluated in a clinical study. rifapentine | ↓ doravirine | Co-administration is contraindicated with rifampin or rifapentine. At least a 4-week cessation period is recommended prior to initiation of PIFELTRO. |
-| rifabutin | ↓ doravirine | Increase PIFELTRO dosage to one tablet twice daily when co-administered with rifabutin [see Dosage and Administration (2.2)]. At least a 4-week cessation period is recommended prior to initiation of PIFELTRO. |
+| rifabutin | ↓ doravirine | Increase PIFELTRO dosage to one tablet twice daily when co-administered with rifabutin [see Dosage and Administration (2.2)]. |
 | Cytotoxic Agents |  |  |
 | mitotane | ↓ doravirine | Co-administration is contraindicated with mitotane. At least a 4-week cessation period is recommended prior to initiation of PIFELTRO. |
 | HIV Antiviral Agents |  |  |
