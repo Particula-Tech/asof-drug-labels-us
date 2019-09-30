@@ -48,6 +48,10 @@ Monitor patients for signs and symptoms of colitis.
 Administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by corticosteroid taper for severe (Grade 3) or life-threatening (Grade 4) colitis.
 Administer corticosteroids at a dose of 0.5 to 1 mg/kg/day prednisone equivalents followed by corticosteroid taper for moderate (Grade 2) colitis of more than 5 days duration; if worsening or no improvement occurs despite initiation of corticosteroids, increase dose to 1 to 2 mg/kg/day prednisone equivalents.
 
+Cytomegalovirus (CMV) infection/reactivation has been reported in patients with corticosteroid-refractory immune-mediated colitis.
+In cases of corticosteroid-refractory colitis, consider repeating infectious workup to exclude alternative etiologies.
+Addition of an alternative immunosuppressive agent to the corticosteroid therapy, or replacement of the corticosteroid therapy should be considered in corticosteroid-refractory immune-mediated colitis if other causes are excluded.
+
 Withhold OPDIVO for moderate or severe (Grade 2 or 3) colitis.
 Permanently discontinue OPDIVO for life-threatening (Grade 4) or for recurrent colitis upon re-initiation of OPDIVO [see Dosage and Administration (2.2)].
 

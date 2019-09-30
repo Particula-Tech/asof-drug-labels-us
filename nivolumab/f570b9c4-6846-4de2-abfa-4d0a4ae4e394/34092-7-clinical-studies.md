@@ -4,7 +4,7 @@
 
 ### Previously Treated Metastatic Melanoma
 
-CHECKMATE-037 (NCT01721746) was a multicenter, open-label trial that randomized (2:1) patients with unresectable or metastatic melanoma to receive OPDIVO 3 mg/kg intravenously every 2 weeks or investigator’s choice of chemotherapy, either single-agent dacarbazine 1000 mg/m2 intravenously every 3 weeks or the combination of carboplatin AUC 6 intravenously every 3 weeks and paclitaxel 175 mg/m2 intravenously every 3 weeks.
+CHECKMATE-037 (NCT01721746) was a multicenter, open-label trial that randomized (2:1) patients with unresectable or metastatic melanoma to receive OPDIVO 3 mg/kg intravenously every 2 weeks or investigator’s choice of chemotherapy, either single-agent dacarbazine 1000 mg/m2 every 3 weeks or the combination of carboplatin AUC 6 intravenously every 3 weeks and paclitaxel 175 mg/m2 intravenously every 3 weeks.
 Patients were required to have progression of disease on or following ipilimumab treatment and, if BRAF V600 mutation positive, a BRAF inhibitor.
 The trial excluded patients with autoimmune disease, medical conditions requiring systemic immunosuppression, ocular melanoma, active brain metastasis, or a history of Grade 4 ipilimumab-related adverse reactions (except for endocrinopathies) or Grade 3 ipilimumab-related adverse reactions that had not resolved or were inadequately controlled within 12 weeks of the initiating event.
 Tumor assessments were conducted 9 weeks after randomization then every 6 weeks for the first year, and every 12 weeks thereafter.

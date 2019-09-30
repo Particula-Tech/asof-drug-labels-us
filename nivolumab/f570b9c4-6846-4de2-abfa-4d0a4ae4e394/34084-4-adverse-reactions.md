@@ -338,7 +338,7 @@ Other clinically important adverse reactions observed in OPDIVO-treated patients
 
 Table 13: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of OPDIVO-Treated Patients for all NCI CTCAE Grades and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-017 and CHECKMATE-057
 
-|  | OPDIVO |  | Docetaxel |  |  |  |  |  |  |
+| Adverse Reaction | OPDIVO |  | Docetaxel |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
 | Chemistry |  |  |  |  |  |  |  |  |  |
@@ -810,7 +810,7 @@ Table 23: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 ### Hepatocellular Carcinoma
 
 The safety of OPDIVO was evaluated in a 154-patient subgroup of patients with HCC and Child-Pugh A cirrhosis who progressed on or were intolerant to sorafenib enrolled in CHECKMATE-040, a multicenter, open-label trial [see Clinical Studies (14.10)].
-Patients were required to have an AST and ALT ≤5 x ULN and total bilirubin of <3 mg/dL.
+Patients were required to have an AST and ALT ≤5 x ULN and total bilirubin <3 mg/dL.
 The median duration of exposure to OPDIVO was 6 months.
 
 The toxicity profile observed in patients with advanced HCC was generally similar to that observed in patients with other cancers, with the exception of a higher incidence of elevations in transaminases and bilirubin levels.
