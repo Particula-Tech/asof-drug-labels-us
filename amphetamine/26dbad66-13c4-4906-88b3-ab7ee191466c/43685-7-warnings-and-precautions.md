@@ -138,7 +138,7 @@ Serotonergic Drugs
 
 The concomitant use of amphetamine sulfate and serotonergic drugs increases the risk of serotonin syndrome.
 Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during amphetamine sulfate initiation or dosage increase.
-If serotonin syndrome occurs, discontinue amphetamine sulfate and the concomitant serotonergic drug(s) (see WARNING and PRECAUTIONS).
+If serotonin syndrome occurs, discontinue amphetamine sulfate and the concomitant serotonergic drug(s) (seeWARNINGandPRECAUTIONS).
 Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort.
 
 MAO inhibitors
@@ -244,5 +244,4 @@ Data is inadequate to determine whether chronic administration of amphetamines m
 Drug Treatment is not indicated in all cases of Attention Deficit Disorder with Hyperactivity and should be considered only in light of the complete history and evaluation of the child.
 The decision to prescribe amphetamines should depend on the physician's assessment of the chronicity and severity of the child's symptoms and their appropriateness for his/her age.
 Prescription should not depend solely on the presence of one or more of the behavioral characteristics.
-
 When these symptoms are associated with acute stress reactions, treatment with amphetamines is usually not indicated.
