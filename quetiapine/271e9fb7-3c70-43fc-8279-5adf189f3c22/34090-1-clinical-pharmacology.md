@@ -2,18 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of quetiapine is unknown.
-However, it has been proposed that the efficacy of quetiapine in schizophrenia and its mood stabilizing properties in bipolar depression and mania are mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5HT2) antagonism.
-Antagonism at receptors other than dopamine and 5HT2 with similar receptor affinities may explain some of the other effects of quetiapine.
-
-Quetiapine’s antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
-
-Quetiapine’s antagonism of adrenergic α1 receptors may explain the orthostatic hypotension observed with this drug.
+The mechanism of action of quetiapine in the listed indications is unclear.
+However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5HT2) antagonism.
+The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activity at D2, but greater activity at 5HT2A receptors, than the parent drug (quetiapine).
 
 ## 12.2 Pharmacodynamics
 
-Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148 nM, respectively), dopamine D1 and D2 (IC50s=1,268 & 329 nM, respectively), histamine H1 (IC50=30 nM), and adrenergic α1 and α2 receptors (IC50s=94 & 271 nM, respectively).
-Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s>5,000 nM).
+Quetiapine and its metabolite, norquetiapine, have affinity for multiple neurotransmitter receptors with norquetiapine binding with higher affinity than quetiapine in general.
+The Ki values for quetiapine and norquetiapine at the dopamine D1 are 428/99.8 nM, at D2 626/489nM, at serotonin 5HT1A 1040/191 nM at 5HT2A 38/2.9 nM, at histamine H1 4.4/1.1 nM, at muscarinic M1 1086/38.3 nM, and at adrenergic α1b 14.6/46.4 nM and, at α2 receptors 617/1290 nM, respectively.
+Quetiapine and norquetiapine lack appreciable affinity to the benzodiazepine receptors.
 
 Effect on QT Interval:
 
@@ -91,7 +88,7 @@ Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetic
 
 Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 
-| Coadministered Drug | Dose Schedules |  | Effects on Other Drugs Pharmacokinetics |
+| Coadministered Drug | Dose Schedules |  | Effect on Other Drugs Pharmacokinetics |
 | --- | --- | --- | --- |
 | Coadministered Drug | Quetiapine |  |  |
 | Lorazepam | 2 mg, single dose | 250 mg three times daily | Oral clearance of lorazepam reduced by 20% |

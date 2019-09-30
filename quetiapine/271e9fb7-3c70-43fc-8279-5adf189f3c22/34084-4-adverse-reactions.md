@@ -5,7 +5,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Increased mortality in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)]
 - •Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.2)]
 - •Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.3)]
-- •Neuroleptic malignant syndrome (NMS) [see Warnings and Precautions (5.4)]
+- •Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
 - •Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions (5.5)]
 - •Tardive dyskinesia [see Warnings and Precautions (5.6)]
 - •Hypotension [see Warnings and Precautions (5.7)]
@@ -13,15 +13,15 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Increases in blood pressure (children and adolescents) [see Warnings and Precautions (5.9)]
 - •Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions (5.10)]
 - •Cataracts [see Warnings and Precautions (5.11)]
-- •QT prolongation [see Warnings and Precautions (5.12)]
+- •QT Prolongation [see Warnings and Precautions (5.12)]
 - •Seizures [see Warnings and Precautions (5.13)]
 - •Hypothyroidism [see Warnings and Precautions (5.14)]
 - •Hyperprolactinemia [see Warnings and Precautions (5.15)]
 - •Potential for cognitive and motor impairment [see Warnings and Precautions (5.16)]
 - •Body temperature regulation [see Warnings and Precautions (5.17)]
 - •Dysphagia [see Warnings and Precautions (5.18)]
-- •Discontinuation syndrome [see Warnings and Precautions (5.19)]
-- •Anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.20)]
+- •Discontinuation Syndrome [see Warnings and Precautions (5.19)]
+- •Anticholinergic (antimuscarinic) Effects [see Warnings and Precautions (5.20)]
 
 ## 6.1 Clinical Study Experience
 
@@ -142,7 +142,7 @@ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trial
 
 | Preferred Term | Quetiapine (n=698) | Placebo (n=347) |
 | --- | --- | --- |
-| SomnolenceSomnolence combines adverse reaction terms somnolence and sedation | 57% | 15% |
+| SomnolenceSomnolence combines adverse reaction terms somnolence and sedation. | 57% | 15% |
 | Dry Mouth | 44% | 13% |
 | Dizziness | 18% | 7% |
 | Constipation | 10% | 4% |

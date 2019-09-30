@@ -1,12 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
-
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with quetiapine and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for quetiapine.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The Medication Guide is provided separately.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking quetiapine.
 
@@ -68,9 +62,16 @@ Concomitant Medication:
 
 As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs [see Drug Interactions (7.1)].
 
-Pregnancy and Nursing:
+Pregnancy:
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with quetiapine [see Use in Specific Populations (8.1) and (8.3)].
+Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with quetiapine.
+Advise patients that quetiapine may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to quetiapine during pregnancy.
+
+Infertility:
+
+Advise females of reproductive potential that quetiapine may impair fertility due to an increase in serum prolactin levels.
+The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Need for Comprehensive Treatment Program:
 
@@ -81,6 +82,6 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/05
+10004966/06
 
-Revised April 2019
+Revised September 2019

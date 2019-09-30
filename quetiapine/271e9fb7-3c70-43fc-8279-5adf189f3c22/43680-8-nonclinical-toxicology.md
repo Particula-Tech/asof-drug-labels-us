@@ -6,7 +6,7 @@ Carcinogenesis:
 
 Carcinogenicity studies were conducted in C57BL mice and Wistar rats.
 Quetiapine was administered in the diet to mice at doses of 20, 75, 250, and 750 mg/kg and to rats by gavage at doses of 25, 75, and 250 mg/kg for two years.
-These doses are equivalent to 0.1, 0.5, 1.5, and 4.5 times the maximum human dose (MRHD) of 800 mg/day based on mg/m2 body surface area (mice) or 0.3, 1, and 3 times the MRHD based on mg/m2 body surface area (rats).
+These doses are equivalent to 0.1, 0.5, 1.5, and 4.5 times the MRHD of 800 mg/day based on mg/m2 body surface area (mice) or 0.3, 1, and 3 times the MRHD based on mg/m2 body surface area (rats).
 There were statistically significant increases in thyroid gland follicular adenomas in male mice at doses 1.5 and 4.5 times the MRHD on mg/m2 body surface area and in male rats at a dose of 3 times the MRHD on mg/m2 body surface area.
 Mammary gland adenocarcinomas were statistically significantly increased in female rats at all doses tested (0.3, 1, and 3 times the MRHD on mg/m2 body surface area).
 
@@ -21,13 +21,13 @@ The relevance of this increased incidence of prolactin-mediated mammary gland tu
 
 Mutagenesis:
 
+Quetiapine was not mutagenic or clastogenic in standard genotoxicity tests.
 The mutagenic potential of quetiapine was tested in the in vitro Ames bacterial gene mutation assay and in the in vitro mammalian gene mutation assay in Chinese Hamster Ovary cells.
-The clastogenic potential of quetiapine was tested in the in vitro chromosomal aberration assay in cultured human lymphocytes and in the in vivo bone marrow micronucleus assay in rats up to 500 mg/kg which is 6 times the maximum recommended human dose on mg/m2 body surface area.
-Based on weight of evidence quetiapine was not mutagenic or clastogenic in these tests.
+The clastogenic potential of quetiapine was tested in the in vitro chromosomal aberration assay in cultured human lymphocytes and in the in vivo bone marrow micronucleus assay in rats up to 500 mg/kg, which is 6 times the maximum recommended human dose based on mg/m2 body surface area.
 
 Impairment of Fertility:
 
-Quetiapine decreased mating and fertility in male Sprague-Dawley rats at oral doses of 50 and 150 mg/kg or approximately 1 and 3 times the maximum human dose (MRHD) of 800 mg/day on mg/m2 body surface area.
+Quetiapine decreased mating and fertility in male Sprague-Dawley rats at oral doses of 50 and 150 mg/kg or approximately 1 and 3 times the MRHD of 800 mg/day on mg/m2 body surface area.
 Drug-related effects included increases in interval to mate and in the number of matings required for successful impregnation.
 These effects continued to be observed at 3 times the MRHD even after a two-week period without treatment.
 The no-effect dose for impaired mating and fertility in male rats was 25 mg/kg, or 0.3 times the MRHD dose on mg/m2 body surface area.
@@ -39,7 +39,8 @@ The no-effect dose in female rats was 1 mg/kg, or 0.01 times the MRHD of 800 mg/
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Quetiapine caused a dose-related increase in pigment deposition in thyroid gland in rat toxicity studies which were 4 weeks in duration or longer and in a mouse 2-year carcinogenicity study.
-Doses were 10 to 250 mg/kg in rats and 75 to 750 mg/kg in mice; these doses are 0.1 to 3, and 0.1 to 4.5 times the maximum recommended human dose (MRHD) of 800 mg/day on mg/m2 body surface area, respectively.
+Doses were 10, 25, 50, 75, 150 and 250 mg/kg in rat studies which are approximately 0.1, 0.3, 0.6, 1, 2 and 3-times the MRHD of 800 mg/day based on mg/m2 body surface area, respectively.
+Doses in the mouse carcinogenicity study were 20, 75, 250 and 750 mg/kg which are approximately 0.1, 0.5, 1.5, and 4.5 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 Pigment deposition was shown to be irreversible in rats.
 The identity of the pigment could not be determined, but was found to be co-localized with quetiapine in thyroid gland follicular epithelial cells.
 The functional effects and the relevance of this finding to human risk are unknown.

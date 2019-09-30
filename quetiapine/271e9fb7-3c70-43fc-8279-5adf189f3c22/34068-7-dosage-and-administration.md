@@ -14,10 +14,10 @@ Table 1: Recommended Dosing for Quetiapine Tablets
 | Indication | Initial Dose and Titration | Recommended Dose | Maximum Dose |
 | --- | --- | --- | --- |
 | Schizophrenia-Adults | Day 1: 25 mg twice daily.Increase in increments of 25 mg to 50 mg divided two or three times on Days 2 and 3 to range of 300 to 400 mg by Day 4.Further adjustments can be made in increments of 25 to 50 mg twice a day, in intervals of not less than 2 days. | 150 to 750 mg/day | 750 mg/day |
-| Schizophrenia-Adolescents (13 to 17 years) | Day 1: 25 mg twice daily. Day 2: Twice daily dosing totaling 100 mg. Day 3: Twice daily dosing totaling 200 mg. Day 4: Twice daily dosing totaling 300 mg. Day 5: Twice daily dosing totaling 400 mg. Further adjustments should be in increments no greater than 100 mg/day within the recommended dose range of 400 to 800 mg/day. Based on response and tolerability, may be administered three times daily. | 400 to 800 mg/day | 800 mg/day |
+| Schizophrenia-Adolescents (13 to 17 years) | Day 1: 25 mg twice daily. Day 2: Twice daily dosing totaling 100 mg. Day 3: Twice daily dosing totaling 200 mg. Day 4: Twice daily dosing totaling 300 mg. Day 5: Twice daily dosing totaling 400 mg. Further adjustments should be in increments no greater than 100 mg/day within the recom- mended dose range of 400 to 800 mg/day. Based on response and tolerability, may be administered three times daily. | 400 to 800 mg/day | 800 mg/day |
 | Schizophrenia-Maintenance | Not applicable. | 400 to 800 mg/day | 800 mg/day |
 | Bipolar Mania-Adults Monotherapy or as an adjunct to lithium or divalproex | Day 1: Twice daily dosing totaling 100 mg. Day 2: Twice daily dosing totaling 200 mg. Day 3: Twice daily dosing totaling 300 mg. Day 4: Twice daily dosing totaling 400 mg. Further dosage adjustments up to 800 mg/day by Day 6 should be in increments of no greater than 200 mg/day. | 400 to 800 mg/day | 800 mg/day |
-| Bipolar Mania-Children and Adolescents (10 to 17 years), Monotherapy | Day 1: 25 mg twice daily. Day 2: Twice daily dosing totaling 100 mg. Day 3: Twice daily dosing totaling 200 mg. Day 4: Twice daily dosing totaling 300 mg. Day 5: Twice daily dosing totaling 400 mg. Further adjustments should be in increments no greater than 100 mg/day within the recommended dose range of 400 to 600 mg/day. Based on response and tolerability, may be administered three times daily. | 400 to 600 mg/day | 600 mg/day |
+| Bipolar Mania-Children and Adolescents (10 to 17 years), Monotherapy | Day 1: 25 mg twice daily. Day 2: Twice daily dosing totaling 100 mg. Day 3: Twice daily dosing totaling 200 mg. Day 4: Twice daily dosing totaling 300 mg. Day 5: Twice daily dosing totaling 400 mg. Further adjustments should be in increments no greater than 100 mg/day within the recom- mended dose range of 400 to 600 mg/day. Based on response and tolerability, may be administered three times daily. | 400 to 600 mg/day | 600 mg/day |
 | Bipolar Depression-Adults | Administer once daily at bedtime. Day 1: 50 mg Day 2: 100 mg Day 3: 200 mg Day 4: 300 mg | 300 mg/day | 300 mg/day |
 | Bipolar I Disorder Maintenance Therapy-Adults | Administer twice daily totaling 400 to 800 mg/day as adjunct to lithium or divalproex. Generally, in the maintenance phase, patients continued on the same dose on which they were stabilized. | 400 to 800 mg/day | 800 mg/day |
 
@@ -49,7 +49,7 @@ When the CYP3A4 inducer is discontinued, the dose of quetiapine should be reduce
 ## 2.7 Reinitiation of Treatment in Patients Previously Discontinued
 
 Although there are no data to specifically address re-initiation of treatment, it is recommended that when restarting therapy of patients who have been off quetiapine for more than one week, the initial dosing schedule should be followed.
-When restarting patients who have been off quetiapine for less than one week, gradual dose escalation may not be required and the maintenance dose may be reinitiated.
+When restarting patients who have been off quetiapine for less than one week, gradual dose escalation may not be required and the maintenance dose may be re-initiated.
 
 ## 2.8 Switching from Antipsychotics
 

@@ -32,25 +32,25 @@ Quetiapine may cause serious side effects, including:
    - oKeep all follow-up visits with the healthcare provider as scheduled.
      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
      Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
-7. •Thoughts about suicide or dying.
-8. •Attempts to commit suicide.
-9. •New or worse depression.
-10. •New or worse anxiety.
-11. •Feeling very agitated or restless.
-12. •Panic attacks.
-13. •Trouble sleeping (insomnia).
-14. •New or worse irritability.
-15. •Acting aggressive, being angry, or violent.
-16. •Acting on dangerous impulses.
-17. •An extreme increase in activity and talking (mania).
-18. •Other unusual changes in behavior or mood.
+7. •Thoughts about suicide or dying
+8. •Attempts to commit suicide
+9. •New or worse depression
+10. •New or worse anxiety
+11. •Feeling very agitated or restless
+12. •Panic attacks
+13. •Trouble sleeping (insomnia)
+14. •New or worse irritability
+15. •Acting aggressive, being angry, or violent
+16. •Acting on dangerous impulses
+17. •An extreme increase in activity and talking (mania)
+18. •Other unusual changes in behavior or mood
 
 What else do I need to know about antidepressant medicines?
 
 - •Never stop an antidepressant medicine without first talking to your healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
 - •Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  It is important to discuss all the risks of treating depression, and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
 - •Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
@@ -65,12 +65,12 @@ What is quetiapine?
 
 Quetiapine is a prescription medicine used to treat:
 
-- •Schizophrenia in people 13 years of age or older.
+- •Schizophrenia in people 13 years of age or older
 - •Bipolar disorder in adults, including:
-  - oDepressive episodes associated with bipolar disorder.
-  - oManic episodes associated with bipolar I disorder alone or with lithium or divalproex.
-  - oLong-term treatment of bipolar I disorder with lithium or divalproex.
-- •Manic episodes associated with bipolar I disorder in children ages 10 to 17 years old.
+  - oDepressive episodes associated with bipolar disorder
+  - oManic episodes associated with bipolar I disorder alone or with lithium or divalproex
+  - oLong-term treatment of bipolar I disorder with lithium or divalproex
+- •Manic episodes associated with bipolar I disorder in children ages 10 to 17 years old
 
 It is not known if quetiapine is safe and effective in children under 10 years of age.
 
@@ -80,22 +80,23 @@ Before you take quetiapine, tell your healthcare provider if you have or have ha
 
 - •Diabetes or high blood sugar in you or your family.
   Your healthcare provider should check your blood sugar before you start quetiapine and also during therapy.
-- •High levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL-cholesterol.
-- •Low or high blood pressure.
-- •Low white blood cell count.
+- •High levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL-cholesterol
+- •Low or high blood pressure
+- •Low white blood cell count
 - •Cataracts
 - •Seizures
-- •Abnormal thyroid tests.
-- •High prolactin levels.
-- •Heart problems.
-- •Liver problems.
-- •Any other medical condition.
+- •Abnormal thyroid tests
+- •High prolactin levels
+- •Heart problems
+- •Liver problems
+- •Any other medical condition
 - •Pregnancy or plans to become pregnant.
   It is not known if quetiapine will harm your unborn baby.
-- •Breastfeeding or plans to breastfeed.
+- •If you become pregnant while receiving quetiapine, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+  You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+- •Breast-feeding or plans to breast-feed.
   Quetiapine can pass into your breast milk.
-  You and your healthcare provider should decide if you will take quetiapine or breastfeed.
-  You should not do both.
+  Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine.
 - •If you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
@@ -146,25 +147,25 @@ Quetiapine can cause serious side effects, including:
   - oExcessive sweating
   - oRigid muscles
   - oConfusion
-  - oChanges in your breathing, heartbeat, and blood pressure.
+  - oChanges in your breathing, heartbeat, and blood pressure
 - •Falls can happen in some people who take quetiapine.
   These falls may cause serious injuries.
 - •High blood sugar (hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
   High blood sugar could lead to:
-  - oBuild up of acid in your blood due to ketones (ketoacidosis).
+  - oBuild-up of acid in your blood due to ketones (ketoacidosis).
   - oComa
   - oDeath
 - Increases in blood sugar can happen in some people who take quetiapine.
   Extremely high blood sugar can lead to coma or death.
   If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine and during therapy.
   Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine:
-  1. oFeel very thirsty.
-  2. oNeed to urinate more than usual.
-  3. oFeel very hungry.
-  4. oFeel weak or tired.
-  5. oFeel sick to your stomach.
-  6. oFeel confused, or your breath smells fruity.
+  1. oFeel very thirsty
+  2. oNeed to urinate more than usual
+  3. oFeel very hungry
+  4. oFeel weak or tired
+  5. oFeel sick to your stomach
+  6. oFeel confused, or your breath smells fruity
 - •High fat levels in your blood (increased cholesterol and triglycerides).
   High fat levels may happen in people treated with quetiapine.
   You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with quetiapine.
@@ -185,10 +186,10 @@ Quetiapine can cause serious side effects, including:
 - •Seizures
 - •Abnormal thyroid tests.
   Your healthcare provider may do blood tests to check your thyroid hormone level.
-- •Increases in prolactin levels.
-- •Sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities.
-- •Increased body temperature.
-- •Difficulty swallowing.
+- •Increases in prolactin levels
+- •Sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
+- •Increased body temperature
+- •Difficulty swallowing
 - •Trouble sleeping or trouble staying asleep (insomnia), nausea or vomiting if you suddenly stop taking quetiapine.
   These symptoms usually get better 1 week after you start having them.
 
@@ -196,30 +197,30 @@ The most common side effects of quetiapine include:
 
 In Adults:
 
-- •drowsiness
-- •sudden drop in blood pressure upon standing
-- •weight gain
-- •sluggishness
-- •abnormal liver tests
-- •upset stomach
-- •dry mouth
-- •dizziness
-- •weakness
-- •abdominal pain
-- •constipation
-- •sore throat
+- •Drowsiness
+- •Sudden drop in blood pressure upon standing
+- •Weight gain
+- •Sluggishness
+- •Abnormal liver tests
+- •Upset stomach
+- •Dry mouth
+- •Dizziness
+- •Weakness
+- •Abdominal pain
+- •Constipation
+- •Sore throat
 
 In Children and Adolescents:
 
-- •drowsiness
-- •dizziness
-- •fatigue
-- •nausea
-- •dry mouth
-- •weight gain
-- •increased appetite
-- •vomiting
-- •rapid heart beat
+- •Drowsiness
+- •Dizziness
+- •Fatigue
+- •Nausea
+- •Dry mouth
+- •Weight gain
+- •Increased appetite
+- •Vomiting
+- •Rapid heart beat
 
 These are not all the possible side effects of quetiapine.
 For more information, ask your healthcare provider or pharmacist.
@@ -242,6 +243,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about quetiapine.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about quetiapine that is written for health professionals.
+
 For more information, please call 1-800-962-8364.
 
 What are the ingredients in Quetiapine Tablets USP?
@@ -256,6 +258,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/05
+10004966/06
 
-Revised April 2019
+Revised September 2019

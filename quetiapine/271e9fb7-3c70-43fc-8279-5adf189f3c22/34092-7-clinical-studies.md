@@ -97,20 +97,19 @@ Table 20: Mania Trials
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-square mean change from baseline. (95% CI) |  |  |
-| Study 1 | Quetiapine (200 to 800 mg/day)Doses that are statistically significantly superior to placebo.Included in the trial as an active comparator. | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
-| Haloperidol | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
+| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population.. | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-square mean change from baseline. (95% CI) |  |  |
+| Study 1 | Quetiapine (200 to 800 mg/day)Doses that are statistically significantly superior to placebo. Included in the trial as an active comparator. | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
+| Haloperido | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
 | Study 2 | Quetiapine (200 to 800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5.0) |
 | Lithium | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |
 | Placebo | 34.0 (6.9) | -6.7 (1.6) | -- |  |
-| Study 3 | Quetiapine (200 to 800 mg/day) + Mood Stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
+| Study 3 | Quetiapine (200 to 800 mg/day)+ Mood Stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
 | Placebo + Mood Stabilizer | 31.1 (5.5) | -10.0 (1.5) | -- |  |
 | Study 4 | Quetiapine (400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
 | Quetiapine (600 mg/day) | 29.6 (6.4) | -15.6 (0.97) | -6.6 (-9.5, -3.7) |  |
 | Placebo | 30.7 (5.9) | -9.0 (1.1) | -- |  |
-
-Mood stabilizer: lithium or divalproex; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.
+| Mood stabilizer: lithium or divalproex; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 Bipolar Disorder, Depressive Episodes:
 
@@ -132,12 +131,13 @@ Table 21: Depressive Episodes Associated with Bipolar Disorder
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 5 | Quetiapine (300 mg/day)Doses that are statistically significantly superior to placebo. SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. | 30.3 (5.0) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |
+| Study 5 | Quetiapine (300 mg/day)Doses that are statistically superior to placebo. | 30.3 (5.0) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |
 | Quetiapine (600 mg/day) | 30.3 (5.3) | -16.7 (0.9) | -6.5 (-8.7, -4.3) |  |
 | Placebo | 30.6 (5.3) | -10.3 (0.9) | -- |  |
 | Study 6 | Quetiapine (300 mg/day) | 31.1 (5.7) | -16.9 (1.0) | -5.0 (-7.3, -2.7) |
 | Quetiapine (600 mg/day) | 29.9 (5.6) | -16.0 (1.0) | -4.1 (-6.4, -1.8) |  |
 | Placebo | 29.6 (5.4) | -11.9 (1.0) | -- |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 Maintenance Treatment as an Adjunct to Lithium or Divalproex:
 
