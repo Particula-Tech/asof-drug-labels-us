@@ -97,6 +97,7 @@ Montelukast sodium may cause serious side effects.
   - obsessive-compulsive symptoms
   - restlessness
   - sleep walking
+  - stuttering
   - suicidal thoughts and actions (including suicide)
   - tremor
   - trouble sleeping
@@ -164,4 +165,4 @@ What are the ingredients in montelukast sodium tablets and montelukast sodium ch
 Active ingredient: montelukast sodium Inactive ingredients: 4 mg and 5 mg chewable tablet: artificial cherry flavor, aspartame, croscarmellose sodium, ferric oxide, hydroxypropyl cellulose, magnesium stearate, mannitol, and microcrystalline cellulose.
 People with Phenylketonuria: Montelukast sodium chewable tablets 4 mg contain 0.674 mg of phenylalanine, and montelukast sodium chewable tablets 5 mg contain 0.842 mg of phenylalanine.
 10 mg tablet: carnauba wax, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and titanium dioxide.
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/22/2009 Revised: 02/2019
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/22/2009 Revised: 09/2019
