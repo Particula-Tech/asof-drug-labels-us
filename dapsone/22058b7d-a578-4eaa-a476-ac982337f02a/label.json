@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA207154"
+  ],
+  "inn": "dapsone",
+  "labeler": "Almirall, LLC",
+  "package_ndcs": [
+    "16110-526-30",
+    "16110-526-60",
+    "16110-526-90"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "dapsone",
+      "name": "Aczone"
+    }
+  ],
+  "setid": "22058b7d-a578-4eaa-a476-ac982337f02a",
+  "source": "dailymed"
+}
