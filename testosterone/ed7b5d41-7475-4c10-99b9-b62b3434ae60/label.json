@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA206089"
+  ],
+  "inn": "testosterone",
+  "labeler": "Clarus Therapeutics, Inc.",
+  "package_ndcs": [
+    "69087-158-12",
+    "69087-198-12",
+    "69087-237-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "testosterone undecanoate",
+      "name": "Jatenzo"
+    }
+  ],
+  "setid": "ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+  "source": "dailymed"
+}
