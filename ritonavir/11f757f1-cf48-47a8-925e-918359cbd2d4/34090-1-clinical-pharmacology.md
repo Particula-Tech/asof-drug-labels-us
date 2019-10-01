@@ -18,7 +18,7 @@ The maximum mean (95% confidence interval) difference from placebo in the PR int
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of ritonavir have been studied in healthy volunteers and HIV-infected patients (CD4 greater than or equal to 50 cells per μL).
-See Table 6 for ritonavir pharmacokinetic characteristics.
+See Table 5 for ritonavir pharmacokinetic characteristics.
 Absorption The absolute bioavailability of ritonavir has not been determined.
 After a 600 mg dose of oral solution, peak concentrations of ritonavir were achieved approximately 2 hours and 4 hours after dosing under fasting and non-fasting (514 KCal; 9% fat, 12% protein, and 79% carbohydrate) conditions, respectively.
 Ritonavir tablets are not bioequivalent to ritonavir capsules.
@@ -45,7 +45,7 @@ Elimination In a study of five subjects receiving a 600 mg dose of 14C-ritonavir
 In that study, 86.4 ± 2.9% of the dose was excreted in the feces with 33.8 ± 10.8% of the dose excreted as unchanged parent drug.
 Upon multiple dosing, ritonavir accumulation is less than predicted from a single dose possibly due to a time and dose-related increase in clearance.
 
-| Table 6. Ritonavir Pharmacokinetic Characteristics |  |  |
+| Table 5. Ritonavir Pharmacokinetic Characteristics |  |  |
 | --- | --- | --- |
 | Parameter | N | Values (Mean ± SD) |
 | Vβ/F‡ | 91 | 0.41 ± 0.25 L/kg |
@@ -76,10 +76,10 @@ No dose adjustment is recommended in patients with mild or moderate hepatic impa
 However, health care providers should be aware of the potential for lower ritonavir concentrations in patients with moderate hepatic impairment and should monitor patient response carefully.
 Ritonavir has not been studied in patients with severe hepatic impairment.
 Pregnancy Based on evaluation of the published literature, ritonavir exposures are reduced during pregnancy relative to postpartum.
-Drug Interactions [see also Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7)] Table 7 and Table 8 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
-For information about clinical recommendations see Table 5 in Drug Interactions (7).
+Drug Interactions [see also Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7)] Table 6 and Table 7 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
+For information about clinical recommendations see Table 4 in Drug Interactions (7).
 
-| Table 7. Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co­-administered Drug |  |  |  |  |  |  |
+| Table 6. Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co­-administered Drug |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
 | Clarithromycin | 500 q12h, 4 d | 200 q8h, 4 d | 22 | ↑ 12% (2, 23%) | ↑ 15% (2, 28%) | ↑ 14% (­-3, 36%) |
@@ -92,7 +92,7 @@ For information about clinical recommendations see Table 5 in Drug Interactions 
 | Zidovudine | 200 q8h, 4 d | 300 q6h, 4 d | 10 | ↔ | ↔ | ↔ |
 | ND=not determined |  |  |  |  |  |  |
 
-| Table 8. Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the Presence of Ritonavir |  |  |  |  |  |  |
+| Table 7. Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the Presence of Ritonavir |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
 | Alprazolam | 1, single dose | 500 q12h, 10 d | 12 | ↓ 12% (­-5, 30%) | ↓ 16% (5, 27%) | ND |

@@ -36,6 +36,7 @@ Do not take ritonavir tablets if you or your child:
   - flecainide
   - lovastatin
   - simvastatin
+  - lomitapide
   - sildenafil (REVATIO®) only when used for treating the lung problem, pulmonary arterial hypertension (PAH)
   - triazolam
   - midazolam when taken by mouth
@@ -207,4 +208,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Dispense with Patient Information available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2019
