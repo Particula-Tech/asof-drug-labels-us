@@ -2,118 +2,83 @@
 
 Ketoconazole Foam, 2%
 
-IMPORTANT: For skin use only.
-Do not use in the eyes, mouth or vagina.
-
-Read the Patient Information that comes with Ketoconazole Foam, 2% before you start using it and each time you get a refill.
-There may be new information.
-This leaflet does not take the place of talking with your doctor about your condition or treatment.
+Important Information: Ketoconazole Foam, 2% is for use on the skin only.
+Do not use Ketoconazole Foam, 2% in your eyes, mouth or vagina.
 
 What is Ketoconazole Foam, 2%?
 
-Ketoconazole Foam, 2% is used on the skin (topical) to treat a skin condition called seborrheic dermatitis in patients 12 years and older.
-Seborrheic dermatitis can cause areas of flaky skin (scales) on the scalp, face, ears, chest or upper back.
+Ketoconazole Foam, 2% is a prescription medicine used on the skin (topical) to treat seborrheic dermatitis in people 12 years of age and older with a normal immune system.
 
-Ketoconazole Foam, 2% has not been studied in children less than 12 years old.
+It is not known if Ketoconazole Foam, 2% is safe and effective when used to treat fungal infections.
 
-What should I tell my doctor before using Ketoconazole Foam, 2%?
+It is not known if Ketoconazole Foam, 2% is safe and effective in children less than 12 years of age.
 
-For female patients, tell your doctor if you:
+Before using Ketoconazole Foam, 2%, tell your healthcare provider about all of your medical conditions, including if you:
 
-- •are pregnant or become pregnant.
-  It is not known if Ketoconazole Foam, 2% can harm a fetus (unborn baby).
-- •breastfeeding.
-  It is not known if Ketoconazole Foam, 2% passes into breast milk.
+- •are pregnant or plan to become pregnant.
+  It is not known if Ketoconazole Foam, 2% will harm your unborn baby.
+- •are breastfeeding or plan to breastfeed.
+  It is not known if Ketoconazole Foam, 2% passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with Ketoconazole Foam, 2%.
+
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 How should I use Ketoconazole Foam, 2%?
 
-- 
-  - •Apply Ketoconazole Foam, 2% exactly as prescribed.
-    Ketoconazole Foam, 2% is usually applied to the affected skin areas two times a day (once in the morning and once at night) for 4 weeks.
-    Talk to your doctor if your skin does not improve after 4 weeks of treatment with Ketoconazole Foam, 2%.
-- 
-  - •Keep the Ketoconazole Foam, 2% can away from and do not spray it near fire, open flame, or direct heat.
-    Ketoconazole Foam, 2% is flammable.
-    Never throw the Ketoconazole Foam, 2% can into a fire, even if the can is empty.
+- •Use Ketoconazole Foam, 2% exactly as your healthcare provider tells you to use it.
+  See the detailed “Instructions for Use” at the end of this leaflet for directions about how to apply Ketoconazole Foam, 2% the right way.
+- •Apply Ketoconazole Foam, 2% to the affected skin area(s) 2 times each day for 4 weeks.
+  You should apply enough Ketoconazole Foam, 2% to cover the entire affected area(s).
+- •Talk to your healthcare provider if your skin does not improve after 4 weeks of treatment with Ketoconazole Foam, 2%.
+- •Dispense Ketoconazole Foam, 2% directly into the cap.
+  Do not dispense Ketoconazole Foam, 2% directly onto your hands, because the foam will begin to melt on contact with warm skin.
+- •Wash your hands after applying Ketoconazole Foam, 2%.
 
-Instructions for applying Ketoconazole Foam, 2%
+What should I avoid while using Ketoconazole Foam, 2%?
 
-1. 1.Hold the can at an upright angle.
-
-1. 2.Push the button to spray Ketoconazole Foam, 2% directly into the cap of the can or other cool surface.
-   Spray only the amount of Ketoconazole Foam, 2% that you will need to cover your affected skin.Do not spray Ketoconazole Foam, 2% directly onto your affected skin or your hands because the foam will begin to melt right away when it touches your skin.
-2. 3.If your fingers are warm, rinse them in cold water first.
-   Be sure to dry them well before handling the Ketoconazole Foam, 2%.
-   If the Ketoconazole Foam, 2% can seems warm or the foam seems runny, place the can under cool running water for a few minutes.
-
-1. 4.Using your fingertips, gently massage Ketoconazole Foam, 2% into the affected areas until the foam disappears.
-
-1. 5.If you are treating skin areas with hair such as your scalp, move any hair away so that the foam can be applied to the affected skin.
-
-1. 6.Do not get Ketoconazole Foam, 2% in your eyes, mouth or vagina.
-   If any Ketoconazole Foam, 2% gets in your eyes, mouth or vagina, rinse areas well with water.
-2. 7.Wash your hands well after applying Ketoconazole Foam, 2%.
+- •Ketoconazole Foam, 2% is flammable.
+  Avoid fire, flames, or smoking during and right after you apply Ketoconazole Foam, 2% to your skin.
+- •Avoid getting Ketoconazole Foam, 2% in or near your eyes, mouth, lips or vagina.
+  If you get Ketoconazole Foam, 2% on your lips or in your eyes, mouth or vagina, rinse well with water.
 
 What are the possible side effects of Ketoconazole Foam, 2%?
 
-The most common side effects of Ketoconazole Foam, 2% are reaction or burning on treated skin areas.
-Tell your doctor if you have any reaction on your treated skin such as redness, itching, or a rash.
-These are not all the side effects of Ketoconazole Foam, 2%.
-Ask your doctor or pharmacist for more information.
+Ketoconazole Foam, 2% may cause serious side effects, including:
 
-How should I store Ketoconazole Foam, 2%?
+- •Skin irritation at the application area(s), including skin reactions caused by exposure to light.
+  Tell your healthcare provider if you develop skin irritation during treatment with Ketoconazole Foam, 2%.
 
-- •Ketoconazole Foam, 2% is flammable.
-- •Do not spray Ketoconazole Foam, 2% near fire or direct heat.
-  Never throw the can into a fire, even if the can is empty.
-- •Store the can of Ketoconazole Foam, 2% at room temperature, 20-25°C (68-77°F) [See USP Controlled Room Temperature].
-  Do not place the Ketoconazole Foam, 2% can in the refrigerator or freezer.
-- •Keep the Ketoconazole Foam, 2% can away from all sources of fire and heat.
-  Do not leave the Ketoconazole Foam, 2% can in direct sunlight.
-- •Do not smoke while holding the Ketoconazole Foam, 2% can or while spraying or applying the foam.
-- •Do not pierce or burn the Ketoconazole Foam, 2% can.
-- •Keep Ketoconazole Foam, 2% and all medicines out of the reach of children.
+The most common side effects of Ketoconazole Foam, 2% include, burning, dryness, redness, irritation, numbness, itching, rash and warmth at the application site.
 
-General information about Ketoconazole Foam, 2%
-
-Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information leaflets.
-Do not use Ketoconazole Foam, 2% for any other condition for which it was not prescribed.
-Do not give Ketoconazole Foam, 2% to other people, even if they have the same condition that you have.
-It may harm them.
-
-This leaflet summarizes the most important information about Ketoconazole Foam, 2%.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Ketoconazole Foam, 2% that is written for health professionals.
-
-What are the ingredients in Ketoconazole Foam, 2%?
-
-Active ingredient: ketoconazole, USP
-
-Inactive Ingredients: cetyl alcohol NF, citric acid USP, ethanol (denatured with tert-butyl alcohol and brucine sulfate) 58%, polysorbate 60 NF, potassium citrate USP, propylene glycol USP, purified water USP, and stearyl alcohol NF pressurized with a hydrocarbon (propane/butane) propellant.
-
-This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.
-
-The Patient Information leaflet was last revised: March 2015
+These are not all of the possible side effects of Ketoconazole Foam, 2%.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-Rx Only
+How should I store Ketoconazole Foam, 2%?
 
-Made in Israel
+- •Store Ketoconazole Foam, 2% at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Do not store the Ketoconazole Foam, 2% can in the refrigerator or freezer.
+- •Keep Ketoconazole Foam, 2% away from heat.
+  Never throw the Ketoconazole Foam, 2% can into a fire, even if the can is empty.
+- •Do not store Ketoconazole Foam, 2% at temperatures above 120°F (49°C).
+- •Do not break through (puncture) the Ketoconazole Foam, 2% can.
+- Keep Ketoconazole Foam, 2% and all medicines out of the reach of children.
 
-Manufactured By Perrigo
+General information about the safe and effective use of Ketoconazole Foam, 2%.
 
-Yeruham 80500, Israel
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use Ketoconazole Foam, 2% for a condition for which it was not prescribed.
+Do not give Ketoconazole Foam, 2% to other people, even if they have the same symptoms that you have.
+It may harm them.
+You can ask your pharmacist or healthcare provider for information about Ketoconazole Foam, 2% that is written for health professionals.
 
-Distributed By
+What are the ingredients in Ketoconazole Foam, 2%?
 
-Perrigo®
+Active ingredient: ketoconazole
 
-Allegan, MI 49010
+Inactive Ingredients: cetyl alcohol, citric acid, ethanol (denatured with tert-butyl alcohol and brucine sulfate) 58%, polysorbate 60, potassium citrate, propylene glycol, purified water, and stearyl alcohol pressurized with a hydrocarbon (propane/butane) propellant
 
-www.perrigo.com
+For more information, call Perrigo at 1-866-634-9120
 
-Rev 03-15
-
-: 5K200 RC J2
+This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.

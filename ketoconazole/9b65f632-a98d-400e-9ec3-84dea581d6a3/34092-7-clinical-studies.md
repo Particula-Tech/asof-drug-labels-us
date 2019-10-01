@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of ketoconazole foam, 2% were evaluated in a randomized, double-blind, vehicle-controlled study in subjects 12 years and older with mild to severe seborrheic dermatitis.
-In the study, 427 subjects received ketoconazole foam, 2% and 420 subjects received vehicle foam.
+The safety and efficacy of ketoconazole foam, 2% were evaluated in a randomized, double-blind, vehicle-controlled trial in subjects 12 years and older with mild to severe seborrheic dermatitis.
+In the trial, 427 subjects received ketoconazole foam, 2% and 420 subjects received vehicle foam.
 Subjects applied ketoconazole foam, 2% or vehicle foam twice daily for 4 weeks to affected areas on the face, scalp, and/or chest.
 The overall disease severity in terms of erythema, scaling, and induration was assessed at Baseline and week 4 on a 5-point Investigator’s Static Global Assessment (ISGA) scale.
 

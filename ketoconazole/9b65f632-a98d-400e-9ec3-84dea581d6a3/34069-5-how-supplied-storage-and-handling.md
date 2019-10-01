@@ -1,14 +1,24 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ketoconazole Foam, 2% is supplied in 50 g (NDC 45802-532-32) and 100 g (NDC 45802-532-33) aluminum containers.
+Ketoconazole Foam, 2% contains 20 mg of ketoconazole, USP per gram.
+The thermolabile hydroethanolic foam is available as follows:
 
-Store at 20-25°C (68-77°F) [See USP Controlled Room Temperature].
+NDC 45802-532-32
+
+50 g aluminum can
+
+NDC 45802-532-33
+
+100 g aluminum can
+
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature].
+
 Do not store under refrigerated conditions.
 
-Do not expose containers to heat, and/or store at temperatures above 120°F (49°C).
-Do not store in direct sunlight.
-
 Contents are flammable.
+Do not expose containers to heat and/or store at temperatures above 49°C (120°F).
+Do not store in direct sunlight.
 
 Contents under pressure.
 Do not puncture and/or incinerate container.

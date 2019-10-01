@@ -10,6 +10,6 @@ For Topical Use Only.
 
 Not For Ophthalmic, Oral, or Intravaginal Use.
 
-50 g
+100 g
 
 The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
