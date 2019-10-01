@@ -729,7 +729,7 @@ Run / Program switch
 Slide up to Run mode when you are ready to deliver your dose.
 Slide down to Program mode to program the number of breaths for your dose.
 
-Volume / Breaths switch
+Volume / Breaths toggle button
 
 When set to Run mode, push + to increase beeping volume, or push - to decrease beeping volume.
 
@@ -754,7 +754,7 @@ Port for plugging into a power source using the AC wall plug.
 |  | The TYVASO Inhalation System requires a 14V DC power supply. Use only the power supply intended for the TYVASO Inhalation System. (Direct Current, Symbol 5031 of IEC 60417 Database Snapshot - Graphical symbols for use on equipment) |
 |  | The TYVASO Inhalation System complies with the requirements of Protection Class II. Class II equipment provides additional precautions, over and above basic insulation, to provide protection against electric shock. (Class II equipment, Symbol 5172 of IEC 60417 Database Snapshot - Graphical symbols for use on equipment) |
 |  | The TYVASO Inhalation Device provides level 2 solid particle protection and level 2 liquid ingress protection per IEC 60529 specifications. |
-|  | The TYVASO Inhalation System should only be used on the order of your doctor or licensed healthcare provider. (Symbol statement as provided under 21 CFR 801.109(b)(1).) |
+|  | The TYVASO Inhalation System should only be used on the order of your doctor or licensed healthcare provider. (Symbol statement as provided under 21 CFR 801.109(b)(1)) |
 |  | Power stand by. Indicates the control for powering on and off the TYVASO Inhalation System. ("On" / "Off", Symbol 5010 of IEC 60417 Database Snapshot - Graphical symbols for use on equipment) |
 |  | Start/Pause. Indicates the control for starting a treatment session once the device is powered on, and for pausing a treatment once a treatment session has started. (Play and Pause, Symbols 5107B and 5111B, respectively, of IEC 60417 Database Snapshot - Graphical symbols for use on equipment) |
 
@@ -874,7 +874,7 @@ The programmed number of breaths will appear with the words "Breaths left" and t
 3.
 Adjust volume
 
-With the Run / Program switch in the Run position, press the Volume / Breaths toggle button to access then Adjust Volume screen.
+With the Run / Program switch in the Run position, press the Volume / Breaths toggle button to access the Adjust Volume screen.
 Push + on the Volume / Breaths toggle button to increase beeping volume, or push - to decrease beeping volume.
 
 | audio off | mid-level volume | maximum volume |
@@ -960,10 +960,10 @@ Important:
   You can purchase distilled water at most grocery stores and pharmacies.
 
 1.
-Fill chamber
+Fill water chamber
 
 Fill the water level cup with distilled water up to the arrow markers on the water cup.
-Use fresh distilled water each day (ie, do not use water left in the chamber from the previous day).
+Use fresh distilled water each day (ie, do not use water left in the water chamber from the previous day).
 Pour the distilled water into the water chamber.
 
 Make sure the water level is above the upper, silver sensor and below the blue ring in the water chamber (about 45 mL of distilled water).
@@ -976,9 +976,9 @@ Place medicine cup
 Obtain 1 new medicine cup and inspect it.
 Do not use a medicine cup that is damaged (e.g., cracked or contains holes or dents), dirty, or was used before.
 
-Place the empty medicine cup into the chamber of the device, making sure that the cup's bottom tip is in the distilled water.
+Place the empty medicine cup into the water chamber of the device, making sure that the cup's bottom tip is in the distilled water.
 
-CAUTION: Make sure you place only one medicine cup.
+CAUTION: Make sure you place only 1 medicine cup.
 Placing multiple cups will prevent the flow of medicine.
 
 3.
@@ -991,7 +991,7 @@ Remove 1 ampule of TYVASO.
 Keep unused ampules in the foil pouch because the TYVASO medicine is sensitive to light.
 Write the date you first opened the pouch on the foil pouch.
 
-One ampule contains enough medicine for one day of treatment no matter how many breaths your doctor has prescribed.
+One ampule contains enough medicine for 1 day of treatment no matter how many breaths your doctor has prescribed.
 
 CAUTION: Ampules must be used within 7 days of opening foil pouch.
 Open only 1 pouch at a time.
@@ -1231,7 +1231,7 @@ If you have more treatment sessions left in the day, perform the steps in this s
 
 If you have completed your last treatment session of the day, skip to "End of day cleaning" on page 52.
 
-Be sure to pack all parts, including the AC wall plug, in the carry case whenever transporting your device.
+Be sure to pack all parts, including the AC wall plug, in the carrying case whenever transporting your device.
 
 1.
 Disconnect AC wall plug (if it is currently connected)
@@ -1257,17 +1257,17 @@ Leave dome assembly and medicine cup (with the medicine still in it) attached to
 6.
 Place plugs in dome assembly
 
-Insert a plug into each of the two open holes on the dome assembly to prevent the medicine from spilling out.
+Insert a plug into each of the 2 open holes on the dome assembly to prevent the medicine from spilling out.
 
 Important: If the plugs are not in place, the medicine may spill.
-If you spill any medicine, start your next treatment with a new ampule.
+If you spill any medicine, discard remaining medicine and start your next treatment with a new ampule.
 
 7.
-Store in carry case
+Store in carrying case
 
 You can store the inhalation device with the plugged dome assembly and disassembled accessories in the carrying case between treatment sessions.
 
-Keep the carry case upright while inserting the device and components so that water and medicine does not spill out of the device.
+Keep the carrying case upright while inserting the device and components so that water and medicine does not spill out of the device.
 
 Important: Store the inhalation device in an upright position until the next treatment session.
 See "Specifications" on page 76 for additional storage and transport information.
@@ -1326,8 +1326,8 @@ Do not reuse or recycle medicine cup.
 9.
 Empty and clean device
 
-Empty distilled water from chamber and let inhalation device air dry upside down.
-You can wipe the chamber with a soft cloth or paper towel to remove any remaining water.
+Empty distilled water from water chamber and let inhalation device air dry upside down.
+You can wipe the water chamber with a soft cloth or paper towel to remove any remaining water.
 
 Important: Do not place the inhalation device in water or in a dishwasher.
 
@@ -1348,7 +1348,7 @@ Store components
 
 Once all the items are dry, you can store the filter shells, inhalation piece, mouthpiece, dome assembly, AC wall plug, and inhalation device in the carrying case until the next day's treatment sessions.
 
-You can also recharge the device for the next day of use (see page 57.)
+You can also recharge the device for the next day of use (see page 57).
 
 | C: Recharging the Battery |
 | --- |
@@ -1386,8 +1386,8 @@ If the device is powered on, the battery charging icon appears next to the batte
 
 Clean the device once a week to help avoid corrosion and leaks and to keep your device working properly.
 
-Once a week, use a clean, dry cloth to wipe the interior of the inhalation device chamber.
-Make sure to wipe the two silver sensors and the white disc in the bottom of the device.
+Once a week, use a clean, dry cloth to wipe the interior of the water chamber.
+Make sure to wipe the 2 silver sensors and the white disc in the bottom of the water chamber.
 
 You may wipe the exterior of the device with a damp cloth if the lights or buttons become difficult to see.
 
@@ -1397,7 +1397,7 @@ You may wipe the exterior of the device with a damp cloth if the lights or butto
 Once a month, you will receive a refill kit that will come with a new set of accessories from your specialty pharmacy provider.
 
 - Inspect the shipment to be sure all parts are included.
-- Once the new kit has arrived, discard the used dome assembly, inhalation piece, mouthpiece, and 2 filter shells.
+- Once the new kit has arrived, discard the used dome assembly, inhalation piece, mouthpiece, filter shells, and plugs.
 - Do not recycle the used accessories.
 
 | Dome assembly | 2 filter shells |  |
@@ -1430,8 +1430,9 @@ Use this section to troubleshoot difficulties you have with the device, or to le
 | --- | --- |
 | A: Troubleshooting | 64 |
 | B: Specifications | 76 |
-| C: Glossary | 87 |
-| D: Warranty information | 90 |
+| C: Electromagnetic compatibility (EMC) | 79 |
+| D: Glossary | 87 |
+| E: Warranty information | 90 |
 
 Important:
 
@@ -1448,32 +1449,32 @@ For further support, you can:
 | Charge Battery screen appears | Low battery | Charge the device battery by attaching the AC wall plug to an outlet. You can conduct a treatment session with the device plugged in. |
 | AC wall plug not properly connected | Ensure that the plug adapter piece (the detachable piece with the metal prongs) is securely attached to the AC wall plug. Then, make sure the AC wall plug is properly connected to an outlet and device. The status lights on the back of the AC wall plug and device should light green. You can conduct a treatment session with the device plugged in. |  |
 | AC wall plug is defective | Use the replacement AC wall plug. Confirm that status light on AC wall plug is green when plugged in. You can conduct a treatment session with the device plugged in. |  |
-| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for a replacement. |  |  |
+| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
 | Screen does not turn on | Device battery is completely empty | Charge the device battery by attaching the AC wall plug to an outlet. You can conduct a treatment session with the device plugged in. |
 | AC wall plug not properly connected | Ensure that the plug adapter piece (the detachable piece with the metal prongs) is securely attached to the AC wall plug. Then, make sure the AC wall plug is properly connected to an outlet and device. The status lights on the back of the AC wall plug and device should light green. You can conduct a treatment session with the device plugged in. |  |
 | AC wall plug is defective | Use the replacement AC wall plug. Confirm that status light on AC wall plug is green when plugged in. You can conduct a treatment session with the device plugged in. |  |
-| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for a replacement. |  |  |
+| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
 | Call Support screen appears | Temporary device failure. | Unplug device, if plugged in, and power off device. Power on device and check that Call Support screen does not reappear. Continue treatment. |
-| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for a replacement. |  |  |
+| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
 | Loss of power during treatment | Device is disconnected from power source and battery is empty | Reconnect device to power source and confirm the power status light on back of device is green (battery is charging). Press and hold the blue On/Off button to turn on the device. The display will show how many breaths are left in that treatment session. Press and immediately release (do not hold down) the blue button again to continue your treatment session. |
 | Power source is temporarily disrupted (for example, electricity interruption due to a storm) | Reconnect device to power source and confirm the power status light on back of device is green (battery is charging). Press and hold the blue On/Off button to turn on the device. The display will show how many breaths are left in that treatment session. Press and immediately release (do not hold down) the blue button again to continue your treatment session. |  |
-| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for a replacement. |  |  |
-| Add Water screen appears | Chamber is empty or distilled water level is too low. | Unplug device, if plugged in, and power off device. Remove dome assembly (making sure not to spill medicine) and place it aside, keeping it upright. Then empty water chamber. Refill chamber with distilled water using water level cup (see page 32). Reassemble device. Power the device on and continue treatment. |
-| The distilled water is too pure. | Unplug device, if plugged in, and power off device. Remove dome assembly (making sure not to spill medicine) and place it aside, keeping it upright. Then empty device chamber. Add 1 teaspoon of tap water to the water level cup. Fill rest of cup with distilled water up to level between the two arrow markings on cup (see page 32). Pour cup's contents into device chamber. Reassemble device. Power the device on and continue treatment. |  |
-| Water level sensors have a thin layer of build-up | Unplug device, if plugged in, and power off device. Remove dome assembly (making sure not to spill medicine) and place it aside, keeping it upright. Then empty device chamber. Clean sensors and interior surfaces of water chamber with a clean cloth. Refill chamber with distilled water using water level cup (see page 32). Reassemble device. Power the device on and continue treatment. |  |
-| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for a replacement. |  |  |
-| No "click" (or crunch) was heard when attaching the dome assembly | No medicine cup in the chamber of the device | Unplug device, if plugged in, and power off device. Place an empty medicine cup into the water chamber of the device and fill it with 1 ampule of TYVASO. Reassemble device. Power the device on and continue treatment. |
+| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
+| Add Water screen appears | Water chamber is empty or distilled water level is too low. | Unplug device, if plugged in, and power off device. Remove dome assembly (making sure not to spill medicine) and place it aside, keeping it upright. Then empty water chamber. Refill water chamber with distilled water using water level cup (see page 32). Reassemble device. Power the device on and continue treatment. |
+| The distilled water is too pure. | Unplug device, if plugged in, and power off device. Remove dome assembly (making sure not to spill medicine) and place it aside, keeping it upright. Then empty water chamber. Add 1 teaspoon of tap water to the water level cup. Fill rest of cup with distilled water up to level between the 2 arrow markings on cup (see page 32). Pour cup's contents into water chamber. Reassemble device. Power the device on and continue treatment. |  |
+| Water level sensors have a thin layer of build-up | Unplug device, if plugged in, and power off device. Remove dome assembly (making sure not to spill medicine) and place it aside, keeping it upright. Then empty water chamber. Clean sensors and interior surfaces of water chamber with a clean cloth. Refill water chamber with distilled water using water level cup (see page 32). Reassemble device. Power the device on and continue treatment. |  |
+| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
+| No "click" (or crunch) was heard when attaching the dome assembly | No medicine cup in the water chamber of the device | Unplug device, if plugged in, and power off device. Place an empty medicine cup into the water chamber of the device and fill it with 1 ampule of TYVASO. Reassemble device. Power the device on and continue treatment. |
 | Multiple medicine cups attached to the dome assembly | Unplug device, if plugged in, and power off device. Remove and dispose of all medicine cups in the device. Place a single, new medicine cup into device water chamber and fill with 1 ampule of TYVASO. Reassemble device. Power the device on and continue treatment. |  |
 | Dome assembly is not securely in place | Unplug device, if plugged in, and power off device. Align the raised circle on the side of the dome assembly with the raised circle on the side of the device. |  |
 |  | Push down and screw the dome assembly onto the device clockwise (right) until the filter shell port is tight and pointed to the back of the device and the raised circles line up again. You will hear clicks (or crunch sound) as the dome assembly presses down on the medicine cup. Reassemble device. Power the device on and continue treatment. |  |
-| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for a replacement. |  |  |
+| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
 | No medicine comes out of the device during a treatment session | No TYVASO® (treprostinil) Inhalation Solution in the medicine cup | Unplug device, if plugged in, and power off device. Fill medicine cup with 1 ampule of TYVASO. Reassemble device. Power the device on and continue treatment. |
-| Damaged medicine cup | Unplug device, if plugged in, and power off device. Replace the medicine cup. Reassemble device. Power the device on and continue treatment. |  |
-| Distilled water level in the device chamber is too high | Unplug device, if plugged in, and power off device. Empty the device chamber then refill it with 45 mL of distilled water (see page 32). Reassemble device. Power the device on and continue treatment. |  |
-| Multiple medicine cups attached to the dome assembly | Unplug device, if plugged in, and power off device. Remove and dispose of all medicine cups in the device. Place a single, new medicine cup into device chamber and fill with 1 ampule of TYVASO. Reassemble device. Power the device on and continue treatment. |  |
-| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for a replacement. |  |  |
-| Difficult to breathe in medicine through the mouthpiece | Filter membrane is clogged | Unplug device, if plugged in, and power off device. Replace filter membrane (see page 37). Reassemble device. Power the device on and continue treatment. |
-| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for a replacement. |  |  |
+| Damaged medicine cup | Unplug device, if plugged in, and power off device. Remove and dispose of the medicine cup in the device. Empty the water chamber then refill it with 45 mL of distilled water (see page 32). Place a single, new medicine cup into water chamber and fill with 1 ampule of TYVASO. Reassemble device. Power the device on and continue treatment. |  |
+| Distilled water level in the water chamber is too high | Unplug device, if plugged in, and power off device. Remove dome assembly (making sure not to spill medicine) and place it aside, keeping it upright. Empty the water chamber then refill it with 45 mL of distilled water (see page 32). Reassemble device. Power the device on and continue treatment. |  |
+| Multiple medicine cups attached to the dome assembly | Unplug device, if plugged in, and power off device. Remove and dispose of all medicine cups in the device. Place a single, new medicine cup into water chamber and fill with 1 ampule of TYVASO. Reassemble device. Power the device on and continue treatment. |  |
+| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
+| Difficult to breathe in medicine through the mouthpiece | Filter membrane is clogged | Unplug device, if plugged in, and power off device. Replace both filter membranes (see page 37). Reassemble device. Power the device on and continue treatment. |
+| If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
 
 | B: Specifications |
 | --- |
@@ -1482,18 +1483,18 @@ For further support, you can:
 | --- | --- |
 | Model | TD-300/A |
 | Size | 3.5" × 3.2" × 4.7" (90 × 82 × 120 mm) |
-| Weight, inhalation device | 365g (12.8 oz) |
-| Types of power supply | AC wall plug, 120V, 60 Hz |
-| Power input | 14V DC, 1.1A maximum |
+| Weight, inhalation device | 365 g (12.8 oz) |
+| Types of power supply | AC wall plug, 120 V, 60 Hz |
+| Power input | 14 V DC, 1.1 A maximum |
 | Operating power consumption | 18 Watt maximum |
 | Ultrasonic frequency | 2.4 MHz (nominal) |
 | Nebulization rate | 0.50 - 0.55 mg/min (0.9% Saline) |
 | Medicine cup capacity | 6 mL, nominal |
-| Contact fluid chamber capacity | 45 mL, nominal |
+| Water chamber capacity | 45 mL, nominal |
 | Electric protection class | II, Type BF |
 | Storage temperature/humidity | 15 to 30ºC/20-80% relative humidity |
 | Operating temperature/humidity | 15 to 25ºC/40-75% relative humidity |
-| A-weighted sound pressure level | 75 dBA (1m), maximum |
+| A-weighted sound pressure level | 75 dBA (1 m), maximum |
 
 | Packaging Dimensions (Approximate Length × Width × Height) |  |
 | --- | --- |
@@ -1521,7 +1522,7 @@ For further support, you can:
 | ON-104/C | Inhalation piece |
 | ON-105/C | Mouthpiece |
 | TD-118 | Water level cup |
-| TD-158 | Tyvaso case |
+| TD-158 | Carrying case |
 | TD-155 | Distilled water carrier |
 | Note: Part number subject to change. |  |
 
@@ -1552,13 +1553,13 @@ Table 2: Guidance and manufacturer's declaration – electromagnetic immunity
 | Guidance and manufacturer's declaration – electromagnetic immunity |  |  |  |
 | --- | --- | --- | --- |
 | The Tyvaso Inhalation System is intended for use in the electromagnetic environment specified below. The customer or the user of the Tyvaso Inhalation System should assure that it is used in such an environment. |  |  |  |
-| Immunity test | IEC 60601 Test level | Compliance level | Electromagnetic environment guidance – |
+| Immunity test | IEC 60601 Test level | Compliance level | Electromagnetic environment - guidance |
 | Electrostatic discharge (ESD) IEC 61000-4-2 | ± 8 kV contact ± 15 kV air | ± 8 kV contact ± 15 kV air | Floors should be wood, concrete or ceramic tile. If floors are covered with synthetic material, the relative humidity should be at least 30%. |
 | Electrical fast transient/burst IEC 61000-4-4 | ± 2 kV for power supply lines ± 1 kV for input/output lines | ± 2 kV for power supply lines ± 1 kV for input/output lines | Mains power quality should be that of a typical commercial or hospital environment. |
 | Surge IEC 61000-4-5 | ± 1 kV line(s) to line(s) ± 2 kV line(s) to earth | ± 1 kV line(s) to line(s) ± 2 kV line(s) to earth | Mains power quality should be that of a typical commercial or hospital environment. |
 | Voltage dips, short interruptions and voltage variations on power supply input lines IEC 61000-4-11 | 0 % UT (100 % dip in UT) for 0,5 cycle 0 % UT (100 % dip in UT) for 1 cycle 70 % UT (30 % dip in UT) for 25/30 cycles 0 % UT (100 % dip in UT) for 250/300 cycle | 0 % UT (100 % dip in UT) for 0,5 cycle 0 % UT (100 % dip in UT) for 1 cycle 70 % UT (30 % dip in UT) for 25/30 cycles 0 % UT (100 % dip in UT) for 250/300 cycle | Mains power quality should be that of a typical commercial or hospital environment. If the user of the Tyvaso Inhalation System requires continued operation during power mains interruptions, it is recommended that the Tyvaso Inhalation System be powered from an uninterruptible power supply or the internal battery. |
 | Power frequency (50/60 Hz) magnetic field IEC 61000-4-8 | 30 A/m | 30 A/m | Power frequency magnetic fields should be at levels characteristic of a typical location in a typical commercial or hospital environment. |
-| Conducted RF IEC 61000-4-6 Radiated RF IEC 61000-4-3 | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | Portable and mobile RF communications equipment should be used no closer to any part of Tyvaso Inhalation System, including cables, than the recommended separation distance calculated from the equation applicable to the frequency of the transmitter. Recommended separation distance d = 1.2 √P d = 1.2 √P 80 MHZ to 800 MHZ d = 2.3 √P 800 MHZ to 2.5 GHZ where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer and d is the recommended separation distance in meters (m). Field strengths from fixed RF transmitters, as determined by an electromagnetic site surveyField strengths from fixed transmitters, such as base stations for radio (cellular/cordless) telephones and land mobile radios, amateur radio, AM and FM radio broadcast and TV broadcast cannot be predicted theoretically with accuracy. To assess the electromagnetic environment due to fixed RF transmitters, an electromagnetic site survey should be considered. If the measured field strength in the location in which the Tyvaso Inhalation System is used exceeds the applicable RF compliance level above, the Tyvaso Inhalation System should be observed to verify normal operation. If abnormal performance is observed, additional measures may be necessary, such as re-orienting or relocating the Tyvaso Inhalation System., should be less than the compliance level in each frequency rangeOver the frequency range 150 kHz to 80 MHz, field strengths should be less than [V1] V/m.. Interference may occur in the vicinity of equipment marked with the following symbol: |
+| Conducted RF IEC 61000-4-6 Radiated RF IEC 61000-4-3 | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | Portable and mobile RF communications equipment should be used no closer to any part of Tyvaso Inhalation System, including cables, than the recommended separation distance calculated from the equation applicable to the frequency of the transmitter. Recommended separation distance d = 1.2 √P d = 1.2 √P 80 MHz to 800 MHz d = 2.3 √P 800 MHz to 2.5 GHz where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer and d is the recommended separation distance in meters (m). Field strengths from fixed RF transmitters, as determined by an electromagnetic site surveyField strengths from fixed transmitters, such as base stations for radio (cellular/cordless) telephones and land mobile radios, amateur radio, AM and FM radio broadcast and TV broadcast cannot be predicted theoretically with accuracy. To assess the electromagnetic environment due to fixed RF transmitters, an electromagnetic site survey should be considered. If the measured field strength in the location in which the Tyvaso Inhalation System is used exceeds the applicable RF compliance level above, the Tyvaso Inhalation System should be observed to verify normal operation. If abnormal performance is observed, additional measures may be necessary, such as re-orienting or relocating the Tyvaso Inhalation System., should be less than the compliance level in each frequency rangeOver the frequency range 150 kHz to 80 MHz, field strengths should be less than [V1] V/m.. Interference may occur in the vicinity of equipment marked with the following symbol: |
 | NOTE UT is the a.c. mains voltage prior to application of the test level. NOTE 1 At 80 MHz and 800 MHz, the higher frequency range applies. NOTE 2 These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structures, objects and people. |  |  |  |
 
 Table 3: Manufacturer's Declaration – Recommended separation distances between portable and mobile communications equipment and the Tyvaso Inhalation System
@@ -1584,9 +1585,9 @@ See page 29.
 Ampule: A sealed, lightweight clear plastic vial containing a 1-day supply of TYVASO® (treprostinil) Inhalation Solution.
 
 Black ring: A round seal that fits on the bottom of the dome assembly.
-The seal helps ensure that TYVASO does not mix with the distilled water in the device chamber.
+The seal helps ensure that TYVASO does not mix with the distilled water in the device water chamber.
 
-Display screen: A small area on the inhalation device that displays number and letter prompts to guide you through your treatment sessions.
+Display screen: A small area on the inhalation device that provides instructions and device information.
 
 Distilled water: Water that is highly purified so that it contains only essential elements.
 
@@ -1606,11 +1607,11 @@ The inhalation device contains the display screen and lights.
 Inhale: How you will breathe in TYVASO with the TYVASO Inhalation System.
 
 Medicine cup: The disposable plastic cone-shaped cup into which TYVASO is poured.
-The medicine cup fits inside the inhalation device chamber.
+The medicine cup fits inside the water chamber.
 
 Mouthpiece: The plastic part that you will breathe through (using your mouth) to inhale TYVASO.
 
-On/Off, Start/Pause button: A manually activated control on the front of the device that switches between fully on and fully off power states.
+On/Off, Start/Pause (blue) button: A manually activated control on the front of the device that switches between fully on and fully off power states.
 Once the device power is on, the button begins or pauses treatment.
 
 Plugs: Plastic accessories that are inserted into the openings of the dome assembly between treatment sessions.
@@ -1624,7 +1625,7 @@ Prompts: The audio and visual signals that help guide you through the treatment 
 
 Run / Program switch: A manually activated control on the side of the device that switches between the modes for delivering treatment (Run) and programming breaths (Program).
 
-Sensors: The silver objects on the inside wall of the device chamber.
+Sensors: The silver objects on the inside wall of the water chamber.
 The sensors must be covered with distilled water for the TYVASO Inhalation System to function properly.
 
 Specialty pharmacy provider: A pharmacy that carries only specialized medicines and medical devices.
@@ -1634,7 +1635,7 @@ Treatment session: 1 of 4 daily sessions during which you will take TYVASO with 
 
 TYVASO: The prescription medicine that you will use with the TYVASO Inhalation System.
 
-Volume / Breaths switch: A manually activated control on the side of the device that increases or decreases audio volume (when in Run mode) and programmed breaths (when in Program mode).
+Volume / Breaths toggle button: A manually activated control on the side of the device that increases or decreases audio volume (when in Run mode) and programmed breaths (when in Program mode).
 
 Water chamber: The white hollow portion in the center of the inhalation device into which distilled water and the medicine cup are placed.
 
@@ -1676,10 +1677,10 @@ For further questions and information, or to report a problem with your device o
 
 Distributed by: United Therapeutics Corporation Research Triangle Park, North Carolina 27709
 
-© 2018, United Therapeutics Corporation.
+© 2019, United Therapeutics Corporation.
 All rights reserved.
 
 TYVASO is a registered trademark of United Therapeutics Corporation.
 
-Literature issued 2018-08-01 RTP-4-00104, Rev.
-G
+Literature issued 2019-09-15 RTP-4-00104, Rev.
+H
