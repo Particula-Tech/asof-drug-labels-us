@@ -51,8 +51,8 @@ Drugs that induce or inhibit hepatic microsomal enzymes may alter diltiazem disp
 
 Total radioactivity measurement following short IV administration in healthy volunteers suggests the presence of other unidentified metabolites, which attain higher concentrations than those of diltiazem and are more slowly eliminated; half-life of total radioactivity is about 20 hours compared to 2 to 5 hours for diltiazem.
 
-In vitro binding studies show diltiazem is 70% to 80% bound to plasma proteins.
-Competitive in vitro ligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
+In vitrobinding studies show diltiazem is 70% to 80% bound to plasma proteins.
+Competitive in vitroligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent as a coronary vasodilator as diltiazem.
 Minimum therapeutic plasma diltiazem concentrations appear to be in the range of 50 to 200 ng/mL.
@@ -64,7 +64,7 @@ A single study in nine patients with severely impaired renal function showed no 
 Diltiazem Hydrochloride Extended-Release Tablets: A single 360 mg dose of Diltiazem Hydrochloride Extended-Release Tablets results in detectable plasma levels within 3 to 4 hours and peak plasma levels between 11 and 18 hours; absorption occurs throughout the dosing interval.
 The apparent elimination half-life for Diltiazem Hydrochloride Extended-Release Tablets after single or multiple dosing is 6 to 9 hours.
 When Diltiazem Hydrochloride Extended-Release Tablets were coadministered with a high fat content breakfast, diltiazem peak and systemic exposures were not affected indicating that the tablet can be administered without regard to food.
-As the dose of Diltiazem Hydrochloride Extended-Release Tablets is increased from 120 to 240 mg, area-under-the-curve increases 2.5-fold.
+As the dose of Diltiazem Hydrochloride Extended-Release Tablets is increased from 120 to 240 mg, area-under-the-curve (AUC) increases 2.5-fold.
 
 Drug Interactions
 
@@ -86,7 +86,7 @@ If combination therapy is initiated or withdrawn in conjunction with propranolol
 Buspirone: In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5-fold and Cmax 4.1-fold compared to placebo.
 The elimination half-life and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
-Subsequent dose adjustments may be necessary during coadministration, and should be based on clinical assessment.
+Subsequent dose adjustments may be necessary during coadministration,and should be based on clinical assessment.
 
 Carbamazepine: Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated serum levels of carbamazepine (40% to 72% increase), resulting in toxicity in some cases.
 
@@ -120,10 +120,10 @@ Diltiazem plasma levels were not significantly affected by lovastatin or pravast
 
 Impact of Other Coadministered Drugs on Diltiazem Include, but Not Limited to:
 
-Rifampin:Coadministration of rifampin with diltiazem lowered the diltiazem plasma concentrations to undetectable levels.
+Rifampin: Coadministration of rifampin with diltiazem lowered the diltiazem plasma concentrations to undetectable levels.
 Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should be avoided when possible, and alternative therapy considered.
 
-Cimetidine and Ranitidine:A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
+Cimetidine and Ranitidine: A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
 Ranitidine produced smaller, non-significant increases.
 The effect may be mediated by cimetidine’s known inhibition of hepatic cytochrome P450, the enzyme system responsible for the first-pass metabolism of diltiazem.
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.

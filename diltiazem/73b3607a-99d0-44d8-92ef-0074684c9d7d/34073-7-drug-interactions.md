@@ -11,6 +11,6 @@ Avoid concomitant use of ivabradine and diltiazem.
 
 Diltiazem is both a substrate and an inhibitor of the cytochrome P450 3A4 enzyme system.
 
-Simvastatin: Limit daily dose of simvastatin to 10 mg and diltiazem to 240 mg, if coadministration of both drugs are required [see Clinical Pharmacology (12.3)].
+Simvastatin: Limit daily dose of simvastatin to 10 mg and diltiazem to 240 mg, if coadministration of both drugs is required [see Clinical Pharmacology (12.3)].
 
 Rifampin: Avoid coadministration of rifampin with diltiazem [see Clinical Pharmacology (12.3)].

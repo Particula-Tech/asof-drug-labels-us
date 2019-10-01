@@ -1,9 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Diltiazem Hydrochloride Extended-Release Tablets are supplied as white, capsule-shaped tablets debossed with "B" on one side and the diltiazem content (mg) on the other.
+Diltiazem Hydrochloride Extended-Release Tablets are supplied as capsule shaped, white, film-coated tablets, debossed with “B” on one side and the diltiazem content (mg) on the other.
 
 | Strength | NDC # Bottles of 30 | NDC # Bottles of 90 |
 | --- | --- | --- |
+| 120 mg | NDC 68682-704-30 | NDC 68682-704-90 |
 | 180 mg | NDC 68682-705-30 | NDC 68682-705-90 |
 | 240 mg | NDC 68682-706-30 | NDC 68682-706-90 |
 | 300 mg | NDC 68682-707-30 | NDC 68682-707-90 |
