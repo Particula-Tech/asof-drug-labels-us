@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA206648"
+  ],
+  "inn": "treprostinil",
+  "labeler": "Teva Parenteral Medicines, Inc.",
+  "package_ndcs": [
+    "0703-0666-01",
+    "0703-0676-01",
+    "0703-0686-01",
+    "0703-0696-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "treprostinil",
+      "name": "Treprostinil"
+    }
+  ],
+  "setid": "4b2ce4aa-4302-49db-9456-c8cf0e034968",
+  "source": "dailymed"
+}
