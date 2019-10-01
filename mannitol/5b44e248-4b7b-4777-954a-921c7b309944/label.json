@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018316"
+  ],
+  "inn": "mannitol",
+  "labeler": "ICU Medical Inc.",
+  "package_ndcs": [
+    "0990-7981-08"
+  ],
+  "products": [
+    {
+      "form": "IRRIGANT",
+      "generic": "sorbitol and mannitol",
+      "name": "Sorbitol-Mannitol"
+    }
+  ],
+  "setid": "5b44e248-4b7b-4777-954a-921c7b309944",
+  "source": "dailymed"
+}
