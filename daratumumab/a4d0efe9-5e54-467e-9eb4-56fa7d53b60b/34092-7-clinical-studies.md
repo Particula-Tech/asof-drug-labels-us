@@ -21,9 +21,9 @@ MAIA demonstrated an improvement in Progression Free Survival (PFS) in the DRd a
 
 Figure 1: Kaplan-Meier Curve of PFS in MAIA
 
-Additional efficacy results from MAIA are presented in Table 17 below.
+Additional efficacy results from MAIA are presented in Table 20 below.
 
-Table 17: Additional efficacy results from MAIABased on intent-to-treat population
+Table 20: Additional Efficacy Results From MAIABased on intent-to-treat population
 
 |  | DRd (N=368) | Rd (N=369) |
 | --- | --- | --- |
@@ -67,9 +67,9 @@ ALCYONE demonstrated an improvement in PFS in the D-VMP arm as compared to the V
 
 Figure 2: Kaplan-Meier Curve of PFS in ALCYONE
 
-Additional efficacy results from ALCYONE are presented in Table 18 below.
+Additional efficacy results from ALCYONE are presented in Table 21 below.
 
-Table 18: Additional efficacy results from ALCYONE
+Table 21: Additional Efficacy Results From ALCYONE
 
 |  | D-VMP (N=350) | VMP (N=356) |
 | --- | --- | --- |
@@ -90,6 +90,42 @@ Table 18: Additional efficacy results from ALCYONE
 
 In responders, the median time to response was 0.79 months (range: 0.4 to 15.5 months) in the D-VMP group and 0.82 months (range: 0.7 to 12.6 months) in the VMP group.
 The median duration of response had not been reached in the D-VMP group and was 21.3 months (range: 0.5+, 23.7+) in the VMP group.
+
+Combination Treatment with Bortezomib, Thalidomide and Dexamethasone in Patients Eligible for Autologous Stem Cell Transplant (ASCT)
+
+CASSIOPEIA (NCT02541383), an open-label, randomized, active-controlled Phase 3 study compared induction and consolidation treatment with DARZALEX 16 mg/kg in combination with bortezomib, thalidomide and dexamethasone (DVTd) to treatment with bortezomib, thalidomide and dexamethasone (VTd) in patients with newly diagnosed multiple myeloma eligible for ASCT.
+The consolidation phase of treatment began a minimum of 30 days post-ASCT, when the patient had recovered sufficiently, and engraftment was complete.
+The trial was limited to patients 65 years of age and younger.
+
+Bortezomib was administered by subcutaneous (SC) injection or intravenous (IV) injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28-day (4-week) induction treatment cycles (Cycles 1–4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
+Thalidomide was administered orally at 100 mg daily during the six bortezomib cycles.
+Dexamethasone (oral or intravenous) was administered at 40 mg on Days 1, 2, 8, 9, 15, 16, 22 and 23 of Cycles 1 and 2, and at 40 mg on Days 1–2 and 20 mg on subsequent dosing days (Days 8, 9, 15, 16) of Cycles 3–4.
+Dexamethasone 20 mg was administered on Days 1, 2, 8, 9, 15, 16 in Cycles 5 and 6.
+On the days of DARZALEX infusion, the dexamethasone dose was administered intravenously as a pre-infusion medication.
+Dose adjustments for bortezomib, thalidomide and dexamethasone were applied according to manufacturer's prescribing information.
+
+A total of 1,085 patients were randomized: 543 to the DVTd arm and 542 to the VTd arm.
+The baseline demographic and disease characteristics were similar between the two treatment groups.
+The median age was 58 years (range: 22 to 65 years).
+The majority were male (59%), 48% had an ECOG performance score of 0, 42% had an ECOG performance score of 1 and 10% had an ECOG performance score of 2.
+Forty percent had ISS Stage I, 45% had ISS Stage II and 15% had ISS Stage III disease.
+
+Efficacy was evaluated by stringent Complete Response (sCR) rate at Day 100 post-transplant, Complete Response Rate (CR) at Day 100 post-transplant, and Progression-Free Survival (PFS).
+
+Table 22: Efficacy Results From CASSIOPEIA at Day 100 Post-Transplant
+
+|  | DVTd (N=543) | VTd (N=542) |
+| --- | --- | --- |
+| Overall response (sCR+CR+VGPR+PR) n(%)Based on intent-to-treat population | 503 (92.6%) | 487 (89.9%) |
+| Stringent complete response (sCR) | 157 (28.9%) | 110 (20.3%) |
+| p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | 0.0010 |  |
+| Complete response (CR) | 54 (9.9%) | 31 (5.7%) |
+| Very good partial response (VGPR) | 242 (44.6%) | 282 (52.0%) |
+| Partial response (PR) | 50 (9.2%) | 64 (11.8%) |
+| D-VTd = daratumumab-bortezomib-thalidomide-dexamethasone; VTd = bortezomib-thalidomide-dexamethasone |  |  |
+
+CASSIOPEIA demonstrated an improvement in PFS in the DVTd arm as compared to the VTd arm; with a median follow up of 18.8 months, the median PFS had not been reached in either arm.
+Treatment with DVTd resulted in a reduction in the risk of progression or death by 53% compared to VTd alone (HR=0.47; 95% CI: 0.33, 0.67; p<0.0001).
 
 ## 14.2 Relapsed/Refractory Multiple Myeloma
 
@@ -112,13 +148,13 @@ At baseline, 27% of patients were refractory to the last line of treatment.
 Eighteen percent (18%) of patients were refractory to a PI only, and 21% were refractory to bortezomib.
 Efficacy was evaluated by PFS based on IMWG criteria.
 
-POLLUX demonstrated an improvement in PFS in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (hazard ratio [HR]=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing 63% reduction in the risk of disease progression or death in patients treated with DRd.
+POLLUX demonstrated an improvement in PFS in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (HR=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing 63% reduction in the risk of disease progression or death in patients treated with DRd.
 
-Figure 3: Kaplan-Meier Curve of PFS in POLLUX
+Figure 4: Kaplan-Meier Curve of PFS in POLLUX
 
-Additional efficacy results from POLLUX are presented in Table 19 below.
+Additional efficacy results from POLLUX are presented in Table 23 below.
 
-Table 19: Additional efficacy results from POLLUXBased on Intent-to-treat population
+Table 23: Additional Efficacy Results From POLLUXBased on Intent-to-treat population
 
 |  | DRd (N=286) | Rd (N=283) |
 | --- | --- | --- |
@@ -157,11 +193,11 @@ Efficacy was evaluated by PFS based on IMWG criteria.
 
 CASTOR demonstrated an improvement in PFS in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value < 0.0001), representing a 61% reduction in the risk of disease progression or death for patients treated with DVd versus Vd.
 
-Figure 4: Kaplan-Meier Curve of PFS in CASTOR
+Figure 5: Kaplan-Meier Curve of PFS in CASTOR
 
-Additional efficacy results from CASTOR are presented in Table 20 below.
+Additional efficacy results from CASTOR are presented in Table 24 below.
 
-Table 20: Additional efficacy results from CASTORBased on Intent-to-treat population
+Table 24: Additional Efficacy Results From CASTORBased on Intent-to-treat population
 
 |  | DVd (N=251) | Vd (N=247) |
 | --- | --- | --- |
@@ -192,9 +228,9 @@ Ninety-eight percent (98%) of patients received prior bortezomib treatment, and 
 All patients received prior lenalidomide treatment, with 98% of patients previously treated with the combination of bortezomib and lenalidomide.
 Eighty nine percent (89%) of patients were refractory to lenalidomide and 71% refractory to bortezomib; 64% of patients were refractory to bortezomib and lenalidomide.
 
-Efficacy results were based on overall response rate as determined by Independent Review Committee using IMWG criteria (see Table 21).
+Efficacy results were based on overall response rate as determined by Independent Review Committee using IMWG criteria (see Table 25).
 
-Table 21: Efficacy results for EQUULEUS
+Table 25: Efficacy Results for EQUULEUS
 
 |  | N=103 |
 | --- | --- |
@@ -220,9 +256,9 @@ Eighty percent of patients had received prior autologous stem cell transplantati
 Prior therapies included bortezomib (99%), lenalidomide (99%), pomalidomide (63%) and carfilzomib (50%).
 At baseline, 97% of patients were refractory to the last line of treatment, 95% were refractory to both, a proteasome inhibitor (PI) and immunomodulatory agent, and 77% were refractory to alkylating agents.
 
-Efficacy results were based on overall response rate as determined by the Independent Review Committee assessment using IMWG criteria (see Table 22).
+Efficacy results were based on overall response rate as determined by the Independent Review Committee assessment using IMWG criteria (see Table 26).
 
-Table 22: Efficacy results for SIRIUS
+Table 26: Efficacy Results for SIRIUS
 
 |  | N=106 |
 | --- | --- |
