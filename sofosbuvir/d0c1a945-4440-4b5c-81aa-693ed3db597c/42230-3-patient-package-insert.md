@@ -28,5 +28,5 @@
 | The tablet film-coat contains: iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide. |  |  |  |
 | Manufactured for: Asegua Therapeutics LLC, an affiliate of Gilead Sciences, Inc., Foster City, CA 94404 |  |  |  |
 | For more information, call 1-800-445-3235 or go to www.asegua.com. |  |  |  |
-| Asegua is a trademark of Asegua Therapeutics LLC. All other trademarks referenced herein are the property of their respective owners. 208341-AG-004 |  |  |  |
+| Asegua is a trademark of Asegua Therapeutics LLC. All other trademarks referenced herein are the property of their respective owners. 208341-AG-005 |  |  |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 11/2018 |
