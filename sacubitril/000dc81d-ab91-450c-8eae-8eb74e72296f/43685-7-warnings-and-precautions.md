@@ -49,4 +49,4 @@ In patients with renal artery stenosis, monitor renal function.
 Through its actions on the RAAS, hyperkalemia may occur with ENTRESTO.
 In the double-blind period of PARADIGM-HF, 12% of patients treated with ENTRESTO and 14% of patients treated with enalapril reported hyperkalemia as an adverse event [see Adverse Reactions (6.1)].
 Monitor serum potassium periodically and treat appropriately, especially in patients with risk factors for hyperkalemia such as severe renal impairment, diabetes, hypoaldosteronism, or a high potassium diet.
-Dosage reduction or interruption of ENTRESTO may be required [see Dosage and Administration (2.1)].
+Dosage reduction or interruption of ENTRESTO may be required [see Dosage and Administration (2.6)].

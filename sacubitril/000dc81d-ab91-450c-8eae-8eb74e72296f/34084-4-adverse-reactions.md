@@ -11,6 +11,8 @@ Clinically significant adverse reactions that appear in other sections of the la
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Adult Heart Failure
+
 In the PARADIGM-HF trial, subjects were required to complete sequential enalapril and ENTRESTO run-in periods of (median) 15 and 29 days, respectively, prior to entering the randomized double-blind period comparing ENTRESTO and enalapril.
 During the enalapril run-in period, 1,102 patients (10.5%) were permanently discontinued from the study, 5.6% because of an adverse event, most commonly renal dysfunction (1.7%), hyperkalemia (1.7%) and hypotension (1.4%).
 During the ENTRESTO run-in period, an additional 10.4% of patients permanently discontinued treatment, 5.9% because of an adverse event, most commonly renal dysfunction (1.8%), hypotension (1.7%) and hyperkalemia (1.3%).
@@ -20,9 +22,9 @@ In the double-blind period, safety was evaluated in 4,203 patients treated with 
 In PARADIGM-HF, patients randomized to ENTRESTO received treatment for up to 4.3 years, with a median duration of exposure of 24 months; 3,271 patients were treated for more than one year.
 Discontinuation of therapy because of an adverse event during the double-blind period occurred in 450 (10.7%) of ENTRESTO treated patients and 516 (12.2%) of patients receiving enalapril.
 
-Adverse reactions occurring at an incidence of ≥ 5% in patients who were treated with ENTRESTO in the double-blind period are shown in Table 1.
+Adverse reactions occurring at an incidence of ≥ 5% in patients who were treated with ENTRESTO in the double-blind period are shown in Table 2.
 
-Table 1: Adverse Reactions Reported in ≥ 5% of Patients Treated with ENTRESTO in the Double-Blind Period
+Table 2: Adverse Reactions Reported in ≥ 5% of Patients Treated with ENTRESTO in the Double-Blind Period
 
 |  | ENTRESTO (n = 4,203) % | Enalapril (n = 4,229) % |
 | --- | --- | --- |
@@ -38,6 +40,10 @@ The incidence of angioedema in Black patients was 2.4% with ENTRESTO and 0.5% wi
 
 Orthostasis was reported in 2.1% of patients treated with ENTRESTO compared to 1.1% of patients treated with enalapril during the double-blind period of PARADIGM-HF.
 Falls were reported in 1.9% of patients treated with ENTRESTO compared to 1.3% of patients treated with enalapril.
+
+Pediatric Heart Failure
+
+The adverse reactions observed in pediatric patients 1 to < 18 years old who received treatment with ENTRESTO were consistent with those observed in adult patients.
 
 Laboratory Abnormalities
 

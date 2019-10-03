@@ -53,7 +53,21 @@ After a single oral administration of 3 mg/kg [14C] valsartan to lactating rats,
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of ENTRESTO in pediatric heart failure patients 1 to < 18 years old are supported by the reduction from baseline to 12 weeks in NT-proBNP in a randomized, double-blind clinical study [see Clinical Studies (14.2)].
+The analysis of NT-proBNP included 90 patients age 6 to 18 years and 20 patients age 1 to 6 years.
+
+Safety and effectiveness have not been established in pediatric patients less than 1 year of age.
+
+Animal Data
+
+Sacubitril given orally to juvenile rats from postnatal day (PND) 7 to PND 35 or PND 70 (an age approximately equivalent to neonatal through pre-pubertal development or adulthood in humans) at doses ≥ 400 mg/kg/day (approximately 2-fold the AUC exposure to the active metabolite of sacubitril, LBQ657, at an ENTRESTO pediatric clinical dose of 3.1 mg/kg twice daily) resulted in decreases in body weight, bone length, and bone mass.
+The decrease in body weight was transient from PND 10 to PND 20 and the effects for most bone parameters were reversible after treatment stopped.
+Exposure at the No-Observed-Adverse-Effect-Level (NOAEL) of 100 mg/kg/day was approximately 0.5-fold the AUC exposure to LBQ657 at the 3.1 mg/kg twice daily dose of ENTRESTO.
+The mechanism underlying bone effects in rats and the translatability to pediatric patients are unknown.
+
+Valsartan given orally to juvenile rats from PND 7 to PND 70 (an age approximately equivalent to neonatal through adulthood in humans) produced persistent, irreversible kidney damage at all dose levels.
+Exposure at the lowest tested dose of 1 mg/kg/day was approximately 0.2-fold the exposure at 3.1 mg/kg twice daily dose of ENTRESTO based on AUC.
+These kidney effects in neonatal rats represent expected exaggerated pharmacological effects that are observed if rats are treated during the first 13 days of life.
 
 ## 8.5 Geriatric Use
 
@@ -63,9 +77,9 @@ No relevant pharmacokinetic differences have been observed in elderly (≥ 65 ye
 
 No dose adjustment is required when administering ENTRESTO to patients with mild hepatic impairment (Child-Pugh A classification).
 The recommended starting dose in patients with moderate hepatic impairment (Child-Pugh B classification) is 24/26 mg twice daily.
-The use of ENTRESTO in patients with severe hepatic impairment (Child-Pugh C classification) is not recommended, as no studies have been conducted in these patients [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+The use of ENTRESTO in patients with severe hepatic impairment (Child-Pugh C classification) is not recommended, as no studies have been conducted in these patients [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 No dose adjustment is required in patients with mild (eGFR 60 to 90 mL/min/1.73 m2) to moderate (eGFR 30 to 60 mL/min/1.73 m2) renal impairment.
-The recommended starting dose in patients with severe renal impairment (eGFR < 30 mL/min/1.73 m2) is 24/26 mg twice daily [see Dosage and Administration (2.3), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+The recommended starting dose in patients with severe renal impairment (eGFR < 30 mL/min/1.73 m2) is 24/26 mg twice daily [see Dosage and Administration (2.5), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].

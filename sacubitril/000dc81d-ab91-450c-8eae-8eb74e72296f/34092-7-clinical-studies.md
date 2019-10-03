@@ -1,6 +1,8 @@
 # 14 CLINICAL STUDIES
 
-Dosing in clinical trials was based on the total amount of both components of ENTRESTO, i.e., 24/26 mg, 49/51 mg and 97/103 mg were referred to as 50 mg, 100 mg, and 200 mg, respectively.
+Dosing in clinical trials was based on the total amount of both components of ENTRESTO, i.e., 24/26 mg, 49/51 mg, and 97/103 mg were referred to as 50 mg, 100 mg, and 200 mg, respectively.
+
+## 14.1 Adult Heart Failure
 
 PARADIGM-HF
 
@@ -23,13 +25,13 @@ Most patients were taking beta-blockers (94%), mineralocorticoid antagonists (58
 Few patients had an implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) (15%).
 
 PARADIGM-HF demonstrated that ENTRESTO, a combination of sacubitril and a RAS inhibitor (valsartan), was superior to a RAS inhibitor (enalapril), in reducing the risk of the combined endpoint of cardiovascular death or hospitalization for heart failure, based on a time-to-event analysis (hazard ratio [HR]: 0.80, 95% confidence interval [CI], 0.73, 0.87, p < 0.0001).
-The treatment effect reflected a reduction in both cardiovascular death and heart failure hospitalization; see Table 2 and Figure 3.
+The treatment effect reflected a reduction in both cardiovascular death and heart failure hospitalization; see Table 3 and Figure 3.
 Sudden death accounted for 45% of cardiovascular deaths, followed by pump failure, which accounted for 26%.
 
-ENTRESTO also improved overall survival (HR 0.84; 95% CI [0.76, 0.93], p = 0.0009) (Table 2).
+ENTRESTO also improved overall survival (HR 0.84; 95% CI [0.76, 0.93], p = 0.0009) (Table 3).
 This finding was driven entirely by a lower incidence of cardiovascular mortality on ENTRESTO.
 
-Table 2: Treatment Effect for the Primary Composite Endpoint, its Components, and All-cause Mortality
+Table 3: Treatment Effect for the Primary Composite Endpoint, its Components, and All-cause Mortality
 
 |  | ENTRESTO N = 4,187 n (%) | Enalapril N = 4,212 n (%) | Hazard Ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
@@ -50,3 +52,17 @@ Figure 4: Primary Composite Endpoint (CV Death or HF Hospitalization) - Subgroup
 Note: The figure above presents effects in various subgroups, all of which are baseline characteristics.
 The 95% confidence limits that are shown do not take into account the number of comparisons made, and may not reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+## 14.2 Pediatric Heart Failure
+
+PANORAMA-HF
+
+The efficacy of ENTRESTO was evaluated in a multinational, randomized, double-blind trial comparing ENTRESTO and enalapril based on an analysis in 110 pediatric patients 1 to < 18 years old with heart failure (NYHA/Ross class II-IV) due to systemic left ventricular systolic dysfunction (LVEF ≤ 40%).
+Patients with systemic right ventricles and single ventricles were excluded from the trial.
+The target maintenance dose of ENTRESTO in pediatric patients 1 to < 18 years old was 3.1 mg/kg twice daily.
+
+The endpoint was the between-group difference in the change in plasma NT-proBNP from baseline to 12 weeks.
+The reduction from baseline in NT-proBNP was 44% and 33% in the ENTRESTO and enalapril groups, respectively.
+While the between-group difference was not statistically significant, the reductions for ENTRESTO and enalapril were similar to or larger than what was seen in adults; these reductions did not appear to be attributable to post-baseline changes in background therapy.
+
+Because ENTRESTO improved outcomes and reduced NT-proBNP in PARADIGM-HF, the effect on NT-proBNP was considered a reasonable basis to infer improved cardiovascular outcomes in pediatric patients.

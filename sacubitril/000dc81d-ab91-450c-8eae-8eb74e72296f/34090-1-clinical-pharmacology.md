@@ -84,3 +84,8 @@ Effect of specific populations on the pharmacokinetics of LBQ657 and valsartan a
 Figure 2: Pharmacokinetics of ENTRESTO in Specific Populations
 
 Note: Child-Pugh Classification was used for hepatic impairment.
+
+Pediatric Patients:
+
+The pharmacokinetics of ENTRESTO were evaluated in pediatric heart failure patients 1 to < 18 years old administered oral doses of 0.8 mg/kg and 3.1 mg/kg of ENTRESTO.
+Pharmacokinetic data indicated that exposure to ENTRESTO in pediatric and adult patients is similar.
