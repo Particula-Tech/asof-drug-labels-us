@@ -1,9 +1,9 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Treatment of Gastroesophageal Reflux Disease (GERD) with Erosive Esophagitis
+## 1.1 Treatment of Gastroesophageal Reflux Disease (GERD) with Erosive Esophagitis (EE)
 
-NEXIUM I.V. for Injection is indicated for the short-term treatment of GERD with erosive esophagitis in adults and pediatric patients 1 month to 17 years, inclusively as an alternative to oral therapy when oral NEXIUM is not possible or appropriate.
+NEXIUM I.V. is indicated for the short-term treatment of GERD with EE in adults and pediatric patients 1 month to 17 years, inclusively as an alternative to oral therapy when oral NEXIUM is not possible or appropriate.
 
 ## 1.2 Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers following Therapeutic Endoscopy in Adults
 
-NEXIUM I.V. for Injection is indicated for risk reduction of rebleeding in patients following therapeutic endoscopy for acute bleeding gastric or duodenal ulcers in adults.
+NEXIUM I.V. is indicated for risk reduction of rebleeding of gastric or duodenal ulcers following therapeutic endoscopy for acute bleeding gastric or duodenal ulcers in adults.

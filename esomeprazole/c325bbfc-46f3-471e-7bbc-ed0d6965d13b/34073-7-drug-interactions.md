@@ -1,78 +1,53 @@
 # 7 DRUG INTERACTIONS
 
-Esomeprazole is extensively metabolized in the liver by CYP2C19 and CYP3A4.
+Tables 5 and 6 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with esomeprazole and instructions for preventing or managing them.
 
-In vitro and in vivo studies have shown that esomeprazole is not likely to inhibit CYPs 1A2, 2A6, 2C9, 2D6, 2E1 and 3A4.
-No clinically relevant interactions with drugs metabolized by these CYP enzymes would be expected.
-Drug interaction studies have shown that esomeprazole does not have any clinically significant interactions with phenytoin, warfarin, quinidine, clarithromycin or amoxicillin.
-Post-marketing reports of changes in prothrombin measures have been received among patients on concomitant warfarin and esomeprazole therapy.
-Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
-Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.
+Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-Esomeprazole may potentially interfere with CYP2C19, the major esomeprazole metabolizing enzyme.
-Co-administration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resulted in a 45% decrease in clearance of diazepam.
-Increased plasma levels of diazepam were observed 12 hours after dosing and onwards.
-However, at that time, the plasma levels of diazepam were below the therapeutic interval, and thus this interaction is unlikely to be of clinical relevance.
+Table 5: Clinically Relevant Interactions Affecting Drugs Co-Administered with Esomeprazole and Interaction with Diagnostics
 
-Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of esomeprazole 40 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
-Avoid concomitant administration of NEXIUM I.V. with clopidogrel.
-When using NEXIUM I.V., consider use of alternative anti-platelet therapy [see Clinical Pharmacology (12.3)].
+| Antiretrovirals |  |
+| --- | --- |
+| Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. •Decreased exposure of some antiretroviral drugs (e.g., rilpivirine atazanavir, and nelfinavir) when used concomitantly with esomeprazole may reduce antiviral effect and promote the development of drug resistance [see Clinical Pharmacology (12.3)].•Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with esomeprazole may increase toxicity [see Clinical Pharmacology (12.3)].•There are other antiretroviral drugs which do not result in clinically relevant interactions with esomeprazole. |
+| Intervention: | Rilpivirine-containing products: Concomitant use with NEXIUM I.V. is contraindicated [see Contraindications (4)].Atazanavir: See prescribing information for atazanavir for dosing information.Nelfinavir: Avoid concomitant use with NEXIUM I.V. See prescribing information for nelfinavir.Saquinavir: See the prescribing information for saquinavir for monitoring of potential saquinavir-related toxicities.Other antiretrovirals: See prescribing information for specific antiretroviral drugs |
+| Warfarin |  |
+| Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including esomeprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
+| Intervention: | Monitor INR and prothrombin time and adjust the dose of warfarin, if needed, to maintain the target INR range. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of esomeprazole with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)]. |
+| Intervention: | A temporary withdrawal of NEXIUM I.V. may be considered in some patients receiving high-dose methotrexate. |
+| 2C19 Substrates (e.g., clopidogrel, citalopram, cilostazol, diazepam) |  |
+| Clopidogrel |  |
+| Clinical Impact: | Concomitant use of esomeprazole 40 mg resulted in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Clinical Pharmacology (12.3)].There are no adequate combination studies of a lower dose of esomeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel. |
+| Intervention: | Avoid concomitant use with NEXIUM I.V. Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.6)]. |
+| Citalopram |  |
+| Clinical Impact: | Increased exposure of citalopram leading to an increased risk of QT prolongation [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Limit the dose of citalopram to a maximum of 20 mg per day. See prescribing information for citalopram. |
+| Cilostazol |  |
+| Clinical Impact: | Increased exposure of cilostazol and one of its active metabolites (3,4-dihydro-cilostazol) [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Consider reducing the dose of cilostazol to 50 mg twice daily. See prescribing information for cilostazol. |
+| Digoxin |  |
+| Clinical Impact: | Potential for increased exposure of digoxin [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Monitor digoxin concentrations and adjust the dose, if needed, to maintain therapeutic drug concentrations. See prescribing information for digoxin. |
+| Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
+| Clinical Impact: | Esomeprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity |
+| Intervention: | Mycophenolate mofetil (MMF): Co-administration of omeprazole, of which esomeprazole is an enantiomer, in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving NEXIUM I.V. and MMF. Use NEXIUM I.V. with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| Tacrolimus |  |
+| Clinical Impact: | Potentially increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
+| Intervention: | Monitor tacrolimus whole blood concentrations and consider reducing the dose, if needed, to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
+| Interactions with Investigations of Neuroendocrine Tumors |  |
+| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.9), Clinical Pharmacology (12.2)]. |
+| Intervention: | Discontinue NEXIUM I.V. at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
+| Interaction with Secretin Stimulation Test |  |
+| Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |
+| Intervention: | Discontinue NEXIUM I.V. 4 weeks prior to testing [see Clinical Pharmacology (12.2)] |
 
-Omeprazole acts as an inhibitor of CYP2C19.
-Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26%, respectively.
-Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
-Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
-Therefore, a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
+Table 6: Clinically Relevant Interactions Affecting Esomeprazole When Co-Administered with Other Drugs
 
-Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
-Dose adjustment of esomeprazole is not normally required for the recommended doses.
-However, in patients who may require higher doses, dose adjustment may be considered.
-
-Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased esomeprazole serum levels.
-Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort, an inducer of CYP3A4.
-In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
-Avoid concomitant use of St. John’s Wort or rifampin with NEXIUM.
-
-Co-administration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
-
-Concomitant use of atazanavir and proton pump inhibitors is not recommended.
-Co-administration of atazanavir with proton pump inhibitors is expected to substantially decrease atazanavir plasma concentrations and thereby reduce its therapeutic effect.
-
-Omeprazole has been reported to interact with some antiretroviral drugs.
-The clinical importance and the mechanisms behind these interactions are not always known.
-Increased gastric pH during omeprazole treatment may change the absorption of the antiretroviral drug.
-Other possible interaction mechanisms are via CYP2C19.
-For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
-Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75%, respectively, for nelfinavir and M8.
-Following multiple doses of atazanavir (400 mg daily) and omeprazole (40 mg daily, 2 hr before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
-Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
-For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported with an increase in AUC by 82%, in Cmax by 75% and in Cmin by 106% following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
-Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
-There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
-
-Studies evaluating concomitant administration of esomeprazole and either naproxen (non-selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
-
-Due to its effects on gastric acid secretion, esomeprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
-Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with esomeprazole.
-Esomeprazole is an enantiomer of omeprazole.
-Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
-Co-administration of digoxin with NEXIUM I.V. is expected to increase the systemic exposure of digoxin.
-Therefore, patients may need to be monitored when digoxin is taken concomitantly with NEXIUM I.V.
-
-Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
-The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving NEXIUM I.V. and MMF.
-Use NEXIUM I.V. with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].
-
-## 7.1 Interactions with Investigations of Neuroendocrine Tumors
-
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.9) and Clinical Pharmacology (12.2)].
-
-## 7.2 Tacrolimus
-
-Concomitant administration of esomeprazole and tacrolimus may increase the serum levels of tacrolimus.
-
-## 7.3 Methotrexate
-
-Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)].
+| CYP2C19 or CYP3A4 Inducers |  |
+| --- | --- |
+| Clinical Impact: | Decreased exposure of esomeprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
+| Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with NEXIUM I.V. [see Warnings and Precautions (5.8)].Ritonavir-containing products: see prescribing information for specific drugs |
+| Voriconazole |  |
+| Clinical Impact: | Increased exposure of esomeprazole [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Dose adjustment of NEXIUM I.V. is not normally required. See prescribing information for voriconazole. |

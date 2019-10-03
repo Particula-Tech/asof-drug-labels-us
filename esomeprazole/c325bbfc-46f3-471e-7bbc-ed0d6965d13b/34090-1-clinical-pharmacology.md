@@ -2,92 +2,84 @@
 
 ## 12.1 Mechanism of Action
 
-Esomeprazole is a proton pump inhibitor that suppresses gastric acid secretion by specific inhibition of the H+/K+- ATPase in the gastric parietal cell.
-The S- and R-isomers of omeprazole are protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide.
-By acting specifically on the proton pump, esomeprazole blocks the final step in acid production, thus reducing gastric acidity.
-This effect is dose-related up to a daily dose of 20 to 40 mg and leads to inhibition of gastric acid secretion.
+Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
+Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide.
+Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, esomeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production.
+This effect is dose-related and leads to inhibition of both basal and stimulated acid secretion irrespective of the stimulus.
 
 ## 12.2 Pharmacodynamics
 
 Antisecretory Activity
 
-The effect of intravenous esomeprazole on intragastric pH was determined in two separate studies.
-In the first study, 20 mg of NEXIUM I.V. for Injection was administered intravenously once daily at constant rate over 30 minutes for 5 days.
-Twenty-two healthy subjects were included in the study.
-In the second study, 40 mg of NEXIUM I.V. for Injection was administered intravenously once daily at constant rate over 30 minutes for 5 days.
-Thirty-eight healthy subjects were included in the study.
+The effect of esomeprazole on 24-hour intragastric pH in healthy subjects was evaluated in two studies of 20 mg and 40 mg NEXIUM I.V. infused intravenously once daily over 30 minutes for 5 days, as shown in Table 7.
 
-Table 4: Effect of NEXIUM I.V. for Injection on Intragastric pH on Day 5
+Table 7: Effect of NEXIUM I.V. on Intragastric pH on Day 5
 
-|  | Esomeprazole 20 mg(n=22) | Esomeprazole 40 mg(n=38) |
+|  | NEXIUM I.V.20 mg once daily(n=22) | NEXIUM I.V.40 mg once daily(n=38) |
 | --- | --- | --- |
-| % Time Gastric pH>4 (95% CI) | 49.541.9–57.2 | 66.262.4–70.0 |
+| % Time Gastric pH>4 (95% CI) | 49.541.9-57.2 | 66.262.4-70.0 |
 
 Gastric pH was measured over a 24-hour period
 
-In a study in H. pylori negative healthy Caucasian volunteers (n=24), the % time over 24 hours (95 % CI) when intragastric pH was > 6 and > 7 was 52.3 % (40.3 – 64.4) and 4.8 % (1.8 – 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+The effects of esomeprazole on 24-hour intragastric pH following administration of an intravenous infusion of 80 mg NEXIUM.I.V. over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours was evaluated in two studies.
 
-In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n=19), the % time over 24 hours (95 % CI) when intragastric pH was > 6 and > 7 was 53 % (45.6 – 60.3) and 15.1 % (9.5 – 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
-When comparing H. pylori positive (n=8) vs. negative (n=11) subjects, the percentage of time in a 24 h period with intragastric pH > 6 [59 % vs. 47 %] and with pH > 7 [17 % vs. 11 %] tended to be larger in the H. pylori positive subjects.
+In H. pylori-negative healthy Caucasian subjects (n=24), the % time over 24 hours (95% CI) when the intragastric pH was > 6 and > 7 was 52.3% (40.3, 64.4) and 4.8% (1.8, 7.8), respectively.
+
+In H. pylori-positive (n=8) and H. pylori-negative (n=11) healthy Chinese subjects, the % time over 24 hours (95% CI) when intragastric pH was > 6 and > 7 was 53% (45.6, 60.3) and 15.1% (9.5, 20.7).
+The percentage of time with intragastric pH > 6 [59% vs. 47%] and with pH > 7 [17% vs. 11%] tended to be larger in the H. pylori positive subjects compared to H. pylori-negative subjects.
 
 Serum Gastrin Effects
 
-In oral studies, the effect of NEXIUM on serum gastrin concentrations was evaluated in approximately 2,700 patients in clinical trials up to 8 weeks and in over 1,300 patients for up to 6-12 months.
+The effect of esomeprazole on serum gastrin concentrations was evaluated in approximately 2,700 patients in clinical trials of oral esomeprazole for up to 8 weeks and in over 1,300 patients treated for up to 12 months.
 The mean fasting gastrin level increased in a dose-related manner.
-This increase reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
+The increase in serum gastrin concentrations reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
-Healthcare providers should temporarily stop esomeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.9)].
 
 Enterochromaffin-like (ECL) Cell Effects
 
 There are no data available on the effects of intravenous esomeprazole on ECL cells.
 
-In 24-month carcinogenicity studies of oral omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
-Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
-
 Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated orally with omeprazole in long-term clinical trials.
-The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
+The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [see Nonclinical Toxicology (13.1)].
 
-In over 1,000 patients treated with NEXIUM (10, 20 or 40 mg/day) up to 6-12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
+In over 1,000 patients treated with oral esomeprazole (10 mg, 20 mg or 40 mg/day) for up to 12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
 No patient developed ECL cell carcinoids, dysplasia, or neoplasia in the gastric mucosa.
 
 Endocrine Effects
 
-NEXIUM had no effect on thyroid function when given in oral doses of 20 or 40 mg for 4 weeks.
-Other effects of NEXIUM on the endocrine system were assessed using omeprazole studies.
-Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on carbohydrate metabolism, circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin or secretin.
+Esomeprazole had no effect on thyroid function when given in oral doses of 20 mg or 40 mg for 4 weeks.
+Other effects of esomeprazole on the endocrine system were assessed in studies of omeprazole.
+Oral doses of omeprazole 30 mg or 40 mg per day for 2 to 4 weeks had no effect on carbohydrate metabolism, circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin or secretin.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-The pharmacokinetic profile of NEXIUM I.V. for Injection 20 mg and 40 mg was determined in 24 healthy volunteers for the 20 mg dose and 38 healthy volunteers for the 40 mg dose following once daily administration of 20 mg and 40 mg of NEXIUM I.V. for Injection by constant rate over 30 minutes for five days.
-The results are shown in the following table:
+The pharmacokinetics of esomeprazole in healthy subjects following administration of NEXIUM I.V.
+20 mg and 40 mg once daily as intravenous infusion over 30 minutes for 5 days are shown in Table 8.
 
-Table 5: Pharmacokinetic Parameters of NEXIUM Following I.V.
-Dosing for 5 days
+Table 8: Geometric Mean (95% CI) Pharmacokinetic Parameters of NEXIUM I.V.
+Following Dosing for 5 Days
 
-| Parameter |  | NEXIUM I.V.20 mg | NEXIUM I.V.40 mg |
-| --- | --- | --- | --- |
-| AUC (μmol*h/L) |  | 5.11(3.96:6.61) | 16.21(14.46:18.16) |
-| Cmax (μmol/L) |  | 3.86(3.16:4.72) | 7.51(6.93:8.13) |
-| t1/2 (h) |  | 1.05(0.90:1.22) | 1.41(1.30:1.52) |
+| Parameter | NEXIUM I.V.20 mg(n=24) | NEXIUM I.V.40 mg(n=38) |
+| --- | --- | --- |
+| AUC(micromol*h/L)Cmax (micromol/L) | 5.1(4.0:6:6)3.9 | 16.2(1.5:18.2)7.5 |
+| t ½ (h) | (3.2:4.7)1.1(0.9:1.2) | (6.9:8.1)1.4(1.3:1.5) |
 
-Values represent the geometric mean (95% CI)
+Following intravenous administration of NEXIUM I.V. in 24 healthy subjects as a loading dose of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours (for a total of 24 hours), esomeprazole pharmacokinetic parameters [geometric mean value (95% CI)] were as follows: AUCt 111.1 micromol*h/L (100.5, 122.7 micromol*h/L), Cmax 15.0 micromol/L (13.5, 16.6 micromol/L), and steady state plasma concentration (Css) 3.9 micromol/L (3.5, 4.5 micromol/L).
+In another study of healthy Caucasian subjects administered the same treatment regimen.
 
-During administration of esomeprazole over 24 hours as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours (for a total of 24 hours) in healthy volunteers (n=24), esomeprazole PK parameters [geometric mean value (95% CI)] were as follows: AUCt 111.1 µmol*h/L (100.5-122.7 µmol*h/L), Cmax 15.0 µmol/L (13.5-16.6 µmol/L), and steady state plasma concentration (Css) 3.9 µmol/L (3.5-4.5 µmol/L).
-
-In a Caucasian healthy volunteer study evaluating esomeprazole 80 mg over 30 minutes, followed by 8 mg/h over 23.5 h, systemic esomeprazole exposures were modestly higher (~ 17%) in the CYP2C19 intermediate metabolizers (IM; n=6) compared to extensive metabolizers (EM; n=17) of CYP2C19.
-Similar PK differences were noted across these genotypes in a Chinese healthy volunteer study that included 7 EMs and 11 IMs.
-There is very limited PK information for poor metabolizers (PM) from these studies.
+Esomeprazole is a time-dependent inhibitor of CYP2C19, resulting in autoinhibition and nonlinear pharmacokinetics.
+The systemic exposure increases in a more than dose proportional manner after multiple oral doses of esomeprazole.
+Compared to the first dose, the systemic exposure (Cmax and AUC0-24h) at steady state following once a day dosing increased by 43% and 90%, respectively, compared to after the first dose for the 20 mg dose and increased by 95% and 159%, respectively, for the 40 mg dose.
 
 Distribution
 
 Esomeprazole is 97% bound to plasma proteins.
-Plasma protein binding is constant over the concentration range of 2- 20 μmol/L.
-The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L.
+Plasma protein binding is constant over the concentration range of 2 to 20 micromol/L.
+The apparent volume of distribution at steady state in healthy subjects is approximately 16 L.
 
 Elimination
 
@@ -97,72 +89,126 @@ Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP
 The metabolites of esomeprazole lack antisecretory activity.
 The major part of esomeprazole’s metabolism is dependent upon the CYP2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
 The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite.
-CYP2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15-20% of Asians lack CYP2C19 and are termed Poor Metabolizers.
-At steady state, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (Extensive metabolizers) is approximately 2.
-
-Following administration of equimolar doses, the S- and R-isomers are metabolized differently by the liver, resulting in higher plasma levels of the S- than of the R-isomer.
 
 Excretion
 
 Esomeprazole is excreted as metabolites primarily in urine but also in feces.
 Less than 1% of parent drug is excreted in the urine.
 Esomeprazole is completely eliminated from plasma, and there is no accumulation during once daily administration.
-The plasma elimination half-life of intravenous esomeprazole is approximately 1.1 to 1.4 hours and is prolonged with increasing dose of intravenous esomeprazole.
-During administration of esomeprazole over 24 hours as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours plasma clearance (CL) is approximately 5.9 to 7.2 L/h.
+The plasma elimination half-life of esomeprazole following intravenous administration of NEXIUM I.V. is approximately 1.1 to 1.4 hours and is prolonged with increasing doses.
 
-Concomitant Use with Clopidogrel
-
-Results from a crossover study in healthy subjects have shown a pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg p.o. once daily) when co-administered for 30 days.
-Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period.
-Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite.
-
-Concomitant Use with Mycophenolate Mofetil
-
-Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
+The plasma clearance (CL) is approximately 5.9 to 7.2 L/h during administration of NEXIUM I.V. as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours.
 
 Specific Populations
 
-Investigation of age, gender, race, renal, and hepatic impairment and metabolizer status has been made previously with oral esomeprazole.
-The pharmacokinetics of esomeprazole is not expected to be affected differently by intrinsic or extrinsic factors after intravenous administration compared to oral administration.
-The same recommendations for dose adjustment in special populations are suggested for intravenous esomeprazole as for oral esomeprazole.
+Geriatric Patients
 
-Age: Geriatric Population
+The AUC and Cmax values of esomeprazole were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
+This increase in exposure is not considered clinically relevant.
 
-In oral studies, the AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
-Dosage adjustment based on age is not necessary.
+Pediatric Patients
 
-Age: Pediatric Population
+The pharmacokinetics of esomeprazole were evaluated in 50 pediatric patients birth to 17 years of age, inclusive (of which 44 pediatric patients were 1 month to 17 years) in a randomized, open-label, multi-national, multiple dose study of 20 mg NEXIUM I.V. administered as a once-daily 3-minute intravenous injection.
+Esomeprazole plasma AUC values were 183% and 60% higher in pediatric patients aged 6 to 11 years and 12 to 17 years, respectively, compared to adults.
 
-In a randomized, open-label, multi-national, repeated dose study, esomeprazole PK was evaluated following a once-daily 3-minute injection in a total of 50 pediatric patients 0 to 17 years old, inclusive.
-Esomeprazole plasma AUC values for 20 mg NEXIUM IV were 183% and 60% higher in pediatric patients aged 6 – 11 years and 12 –17 years respectively compared to adults given 20 mg.
-Subsequent pharmacokinetic analyses predicted that a dosage regimen of 0.5 mg/kg once-daily for pediatric patients 1-11 months of age, 10 mg for pediatric patients 1-17 years with body weight <55 kg, and 20 mg for pediatric patients 1-17 years with body >55 kg would achieve comparable steady-state plasma exposures (AUC0-24) to those observed in adult patients administered 20 mg of NEXIUM I.V. once every 24 hours.
-Further, increasing the infusion duration from 3 minutes to 10 minutes or 30 minutes was predicted to produce steady-state Cmax values that were comparable to those observed in adult patients at the 40 mg and 20 mg NEXIUM I.V. doses.
+Subsequent pharmacokinetic analyses predicted the following dosage regimens would achieve comparable steady-state plasma exposures (AUC0-24) to those observed in adult patients administered 20 mg of NEXIUM I.V. once daily: 0.5 mg/kg once daily for pediatric patients 1 month to 11 months of age, 10 mg once daily for pediatric patients 1 year to 17 years with body weight less than 55 kg, and 20 mg once daily for pediatric patients 1 year to 17 years with body weight of 55 kg and greater.
+Increasing the infusion duration from 3 minutes to 10 minutes or 30 minutes was predicted to produce steady-state Cmax values that were comparable to those observed in adult patients at the 40 mg and 20 mg NEXIUM I.V. doses, respectively [see Use in Specific Populations (8.4)].
 
-Gender
+Male and Female Patients
 
-In oral studies, the AUC and Cmax values were slightly higher (13%) in females than in males at steady state.
+The AUC and Cmax values of esomeprazole were slightly higher (13%) in females than in males at steady state when dosed orally.
 Similar differences have been seen for intravenous administration of esomeprazole.
-Dosage adjustment based on gender is not necessary.
+This increase in exposure is not considered clinically relevant.
 
-Hepatic Impairment
+Patients with Renal Impairment
 
-In oral studies, the steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child‑Pugh Class A), moderate (Child‑Pugh Class B), and severe (Child‑Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
-In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
-In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child‑Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child‑Pugh Class C) a maximum dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2), Use in Specific Populations (8.6)].
+The pharmacokinetics of esomeprazole in patients with renal impairment are not expected to be altered relative to healthy subjects as less than 1% of esomeprazole is excreted unchanged in urine.
+
+Patients with Hepatic Impairment
+
+The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg orally once daily to 4 patients each with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) hepatic impairment were compared to those obtained in 36 male and female GERD patients with normal liver function.
+In patients with mild and moderate hepatic impairment, the AUCs were within the range that could be expected in patients with normal liver function.
+In patients with severe hepatic impairment, the AUCs were 2 to 3 times higher than in the patients with normal liver function.
+[see Use in Specific Populations (8.6)].
 
 There are no pharmacokinetic data available for esomeprazole administered as continuous intravenous administration in patients with liver impairment.
-The pharmacokinetics of omeprazole 80 mg over 30 minutes, followed by 8 mg/h over 47.5 hours in patients with mild (Child‑Pugh Class A; n=5), moderate (Child‑Pugh Class B; n=4) and severe (Child‑Pugh Class C; n=3) liver impairment were compared to those obtained in 24 male and female healthy volunteers.
-In patients with mild and moderate liver impairment, omeprazole clearance and steady state plasma concentration was approximately 35% lower and 50% higher, respectively, than in healthy volunteers.
-In patients with severe liver impairment, the omeprazole clearance was 50% of that in healthy volunteers and the steady state plasma concentration was double that in healthy volunteers.
+The pharmacokinetics of intravenous omeprazole 80 mg infused over 30 minutes, followed by 8 mg/hour over 47.5 hours in patients with mild (Child-Pugh Class A; n=5), moderate (Child-Pugh Class B; n=4) and severe (Child-Pugh Class C; n=3) liver impairment were compared to those obtained in 24 male and female healthy subjects.
+In patients with mild and moderate liver impairment, omeprazole clearance and steady state plasma concentration was approximately 35% lower and 50% higher, respectively, than in healthy subjects.
+In patients with severe liver impairment, the omeprazole clearance was 50% of that in healthy subjects and the steady state plasma concentration was double that in healthy subjects [see Use in Specific Populations (8.6)].
 
-For adult patients with bleeding gastric or duodenal ulcers and liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
-For adult patients with mild to moderate liver impairment (Child‑Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For adult patients with severe liver impairment (Child‑Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
+Drug Interaction Studies
 
-Renal Impairment
+Effect of Esomeprazole/Omeprazole on Other Drugs
 
-The pharmacokinetics of esomeprazole in patients with renal impairment are not expected to be altered relative to healthy volunteers as less than 1% of esomeprazole is excreted unchanged in urine.
+In vitro and in vivo studies have shown that esomeprazole is not likely to inhibit CYPs 1A2, 2A6, 2C9, 2D6, 2E1 and 3A4.
+
+Antiretrovirals
+
+For some antiretroviral drugs, such as rilpivirine, atazanavir and nelfinavir, decreased serum concentrations have been reported when given together with omeprazole [see Drug Interactions (7)].
+
+Rilpivirine:
+
+Following multiple doses of rilpivirine (150 mg, daily) and omeprazole (20 mg, daily), AUC was decreased by 40%, Cmax by 40%, and Cmin by 33% for rilpivirine [see Contraindications (4)].
+
+Nelfinavir:
+
+Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
+
+Atazanavir:
+
+Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
+
+Saquinavir:
+
+Following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
+The AUC was increased by 82%, Cmax by 75%, and Cmin by 106%.
+The mechanism behind this interaction is not fully elucidated.
+
+Clopidogrel
+
+In a crossover study, healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day as the maintenance dosage for 28 days) alone and with esomeprazole (40 mg orally once daily at the same time as clopidogrel) for 29 days.
+Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period when clopidogrel and esomeprazole were administered together.
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite [see Warnings and Precautions (5.6), Drug Interactions (7)].
+
+Mycophenolate Mofetil
+
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA [see Drug Interactions (7)].
+
+Cilostazol
+
+Omeprazole acts as an inhibitor of CYP2C19.
+Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
+The Cmax and AUC of one of the active metabolites, 3,4-dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
+Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and the above mentioned active metabolite [see Drug Interactions (7)].
+
+Diazepam
+
+Co-administration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resulted in a 45% decrease in clearance of diazepam.
+Increased plasma levels of diazepam were observed 12 hours after dosing and onwards.
+However, at that time, the plasma levels of diazepam were below the therapeutic interval, and thus this interaction is unlikely to be of clinical relevance.
+
+Digoxin
+
+Concomitant administration of omeprazole 20 mg once daily and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects) [see Drug Interactions (7)].
+
+Other Drugs
+
+Concomitant administration of esomeprazole and either naproxen (non-selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of these NSAIDs.
+
+Effect of Other Drugs on Esomeprazole/Omeprazole
+
+St. John’s Wort
+
+In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6% and 43.9%, respectively) [see Drug Interactions (7)].
+
+Voriconazole
+
+Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
+When voriconazole (400 mg every 12 hours for one day, followed by 200 mg once daily for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, the steady-state Cmax and AUC0-24 of omeprazole significantly increased: an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4), respectively, as compared to when omeprazole was given without voriconazole [see Drug Interactions (7)].
+
+Other Drugs
+
+Co-administration of esomeprazole with oral contraceptives, diazepam, phenytoin, quinidine, naproxen (non-selective NSAID) did not seem to change the pharmacokinetic profile of esomeprazole.
 
 ## 12.4 Microbiology
 
@@ -170,3 +216,20 @@ Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
 Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridium difficile.
+
+## 12.5 Pharmacogenomics
+
+CYP2C19, a polymorphic enzyme, is involved in the metabolism of esomeprazole.
+The CYP2C19*1 allele is fully functional while the CYP2C19*2 and *3 alleles are nonfunctional.
+There are other alleles associated with no or reduced enzymatic function.
+Patients carrying two fully functional alleles are extensive metabolizers and those carrying two loss-of-function alleles are poor metabolizers.
+The systemic exposure to esomeprazole varies with a patient’s metabolism status: poor metabolizers > intermediate metabolizers > extensive metabolizers.
+Approximately 3% of Caucasians and 15 to 20% of Asians are CYP2C19 poor metabolizers.
+
+Systemic esomeprazole exposures were modestly higher (approximately 17%) in CYP2C19 intermediate metabolizers (IM; n=6) compared to extensive metabolizers (EM; n=17) of CYP2C19.
+Similar pharmacokinetic differences were noted across these genotypes in a study of Chinese healthy subjects that included 7 EMs and 11 IMs.
+There is very limited pharmacokinetic information for poor metabolizers (PM) from these studies.
+
+At steady state following once daily administration of NEXIUM I.V.
+40 mg, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (EMs) is approximately 1.5.
+This change in exposure is not considered clinically meaningful.
