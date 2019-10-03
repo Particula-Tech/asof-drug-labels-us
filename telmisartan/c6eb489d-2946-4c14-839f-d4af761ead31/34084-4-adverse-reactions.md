@@ -2,7 +2,7 @@
 
 The following adverse reaction is described elsewhere in labeling:
 
-Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
+- •Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -17,7 +17,7 @@ In placebo-controlled trials involving 1041 patients treated with various doses 
 
 Adverse events occurring at an incidence of ≥1% in patients treated with telmisartan and at a greater rate than in patients treated with placebo, irrespective of their causal association, are presented in Table 1.
 
-Table 1: Adverse Events Occurring at an Incidence of ≥1% in Patients Treated with Telmisartan and at a Greater Rate Than Patients Treated with Placebo
+Table 1 Adverse Events Occurring at an Incidence of ≥1% in Patients Treated with Telmisartan and at a Greater Rate Than Patients Treated with Placebo
 
 |  | Telmisartan n=1455 % | Placebo n=380 % |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ The incidence of cough occurring with telmisartan in 6 placebo-controlled trials
 In addition to those listed above, adverse events that occurred in more than 0.3% of 3500 patients treated with telmisartan monotherapy in controlled or open trials are listed below.
 It cannot be determined whether these events were causally related to telmisartan tablets:
 
-Autonomic Nervous System: impotence, increased sweating, flushing; Body as a Whole: allergy, fever, leg pain, malaise; Cardiovascular: palpitation, dependent edema, angina pectoris, tachycardia, leg edema, abnormal ECG; CNS: insomnia, somnolence, migraine, vertigo, paresthesia, involuntary muscle contractions, hypoesthesia; Gastrointestinal: flatulence, constipation, gastritis, vomiting, dry mouth, hemorrhoids, gastroenteritis, enteritis, gastroesophageal reflux, toothache, nonspecific gastrointestinal disorders; Metabolic: gout, hypercholesterolemia, diabetes mellitus; Musculoskeletal: arthritis, arthralgia, leg cramps; Psychiatric: anxiety, depression, nervousness; Resistance Mechanism: infection, fungal infection, abscess, otitis media; Respiratory: asthma, bronchitis, rhinitis, dyspnea, epistaxis; Skin: dermatitis, rash, eczema, pruritus; Urinary: micturition frequency, cystitis; Vascular: cerebrovascular disorder; and Special Senses: abnormal vision, conjunctivitis, tinnitus, earache.
+Autonomic Nervous System: impotence, increased sweating, flushing; Body as a Whole: allergy, fever, leg pain, malaise; Cardiovascular: palpitation, dependent edema, angina pectoris, tachycardia, leg edema, abnormal ECG; CNS: insomnia, somnolence, migraine, vertigo, paresthesia, involuntary muscle contractions, hypoesthesia; Gastrointestinal: flatulence, constipation, gastritis, vomiting, dry mouth, hemorrhoids, gastroenteritis, enteritis, gastroesophageal reflux, toothache, non-specific gastrointestinal disorders; Metabolic: gout, hypercholesterolemia, diabetes mellitus; Musculoskeletal: arthritis, arthralgia, leg cramps; Psychiatric: anxiety, depression, nervousness; Resistance Mechanism: infection, fungal infection, abscess, otitis media; Respiratory: asthma, bronchitis, rhinitis, dyspnea, epistaxis; Skin: dermatitis, rash, eczema, pruritus; Urinary: micturition frequency, cystitis; Vascular: cerebrovascular disorder; and Special Senses: abnormal vision, conjunctivitis, tinnitus, earache.
 
 During initial clinical studies, a single case of angioedema was reported (among a total of 3781 patients treated).
 
@@ -60,6 +60,6 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to telmisartan.
 
-The most frequent spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, increased CPK, anaphylactic reaction, and tendon pain (including tendonitis, tenosynovitis), drug eruption (toxic skin eruption mostly reported as toxicoderma, rash, and urticaria), hypoglycemia (in diabetic patients), and angioedema (with fatal outcome).
+The most frequent spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, increased CPK, anaphylactic reaction, tendon pain (including tendonitis, tenosynovitis), drug eruption (toxic skin eruption mostly reported as toxicoderma, rash, and urticaria), hypoglycemia (in diabetic patients), and angioedema (with fatal outcome).
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers, including telmisartan.

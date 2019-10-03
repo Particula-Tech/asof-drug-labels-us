@@ -1,8 +1,8 @@
-# Patient Medication Information
+# Patient Information
 
-Patient Information
+Telmisartan (TEL mi SAR tan)
 
-Telmisartan Tablets USP
+tablets
 
 Read this Patient Information before you start taking telmisartan tablets and each time you get a refill.
 There may be new information.
@@ -32,30 +32,30 @@ What should I tell my doctor before taking telmisartan tablets?
 
 Before you take telmisartan tablets, tell your doctor if you:
 
+- •are pregnant or are planning to become pregnant.
+  See “What is the most important information I should know about telmisartan tablets?”
+- •are breastfeeding or plan to breastfeed.
+  It is not known if telmisartan passes into your breast milk.
+  You and your doctor should decide if you will take telmisartan tablets or breastfeed.
+  You should not do both.
+  Talk with your doctor about the best way to feed your baby if you take telmisartan tablets.
 - •have liver problems
 - •have kidney problems
 - •have heart problems
 - •have any other medical conditions
-- •are pregnant or are planning to become pregnant.
-  See “What is the most important information I should know about telmisartan tablets?”
-- •are breast-feeding or plan to breast-feed.
-  It is not known if telmisartan passes into your breast milk.
-  You and your doctor should decide if you will take telmisartan tablets or breast-feed.
-  You should not do both.
-  Talk with your doctor about the best way to feed your baby if you take telmisartan tablets.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-For patients with diabetes, if you are taking telmisartan you should not take aliskiren.
+For patients with diabetes, if you are taking telmisartan tablets you should not take aliskiren.
 
 Telmisartan tablets may affect the way other medicines work, and other medicines may affect how telmisartan tablets work.
 Especially tell your doctor if you take:
 
 - •aliskiren
 - •digoxin (Lanoxin®, Lanoxicaps®)
-- •lithium (Eskalith®, Lithobid®)
-- •medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
-- •ramipril (Altace®) or other medicines used to treat your high blood pressure or heart problem
+- •lithium (Lithobid®, lithium carbonate, lithium citrate)
+- •aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs)
+- •other medicines used to treat your high blood pressure or heart problem
 - •water pills (diuretic)
 
 Know the medicines you take.
@@ -137,11 +137,11 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about telmisartan tablets that is written for health professionals.
 
-For more information, call Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115.
+For more information, call Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115 or visit www.glenmarkpharma-us.com.
 
-What are the ingredients in telmisartan tablets USP?
+What are the ingredients in telmisartan tablets?
 
-Active Ingredient: telmisartan USP
+Active Ingredient: telmisartan
 
 Inactive Ingredients: crospovidone, lactose monohydrate, magnesium stearate, meglumine, povidone and sodium hydroxide pellets
 
@@ -161,22 +161,20 @@ How to open the blister:
 Tear (You may also use scissors to tear the blister apart)
 
 2.
-Peel (Peel off the paper layer from the aluminum foil)
-
-3.
-Push (Push the tablet through the foil)
+Peel back foil on blister.
+Do not push tablet through foil.
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Plot No. S-7, Colvale Industrial Estate Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-January 2015
+September 2019
 
 Trademarks are the property of their respective owners.
