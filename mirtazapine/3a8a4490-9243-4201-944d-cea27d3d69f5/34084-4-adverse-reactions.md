@@ -96,3 +96,5 @@ Other Adverse Events Observed During Postmarketing Evaluation of Mirtazapine Adv
 In the majority of these cases, however, concomitant drugs were implicated.
 Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
 Increased creatine kinase blood levels and rhabdomyolysis have also been reported.
+Hyperprolactinemia (and related symptoms, e.g., galactorrhea and gynecomastia) has been reported.
+Somnambulism (ambulation and other complex behaviors out of bed) has been reported.

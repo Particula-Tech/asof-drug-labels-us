@@ -22,6 +22,6 @@ Aurobindo Pharma Limited
 
 Hyderabad-500 038, India
 
-Revised: 09/2018
+Revised: 09/2019
 
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
