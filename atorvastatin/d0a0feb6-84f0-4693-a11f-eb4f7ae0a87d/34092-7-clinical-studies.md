@@ -172,7 +172,7 @@ Open-Label Crossover Study of 16 Patients with Dysbetalipoproteinemia (Fredricks
 
 ## 14.5 Homozygous Familial Hypercholesterolemia
 
-In a study without a concurrent control group, 29 patients ages 6 to 37 years with HoFH received maximum daily doses of 20 to 80 mg of atorvastatin calcium tablets.
+In a study without a concurrent control group, 29 patients ages 6 years to 37 years with HoFH received maximum daily doses of 20 to 80 mg of atorvastatin calcium tablets.
 The mean LDL-C reduction in this study was 18%.
 Twenty-five patients with a reduction in LDL-C had a mean response of 20% (range of 7% to 53%, median of 24%); the remaining 4 patients had 7% to 24% increases in LDL-C.
 Five of the 29 patients had absent LDL-receptor function.

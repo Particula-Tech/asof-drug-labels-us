@@ -92,4 +92,4 @@ Since advanced age (≥ 65 years) is a predisposing factor for myopathy, atorvas
 
 ## 8.6 Hepatic Impairment
 
-Atorvastatin calcium tablets are contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Pharmacokinetics (12.3)].
+Atorvastatin calcium tablets are contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Clinical Pharmacology (12.3)].

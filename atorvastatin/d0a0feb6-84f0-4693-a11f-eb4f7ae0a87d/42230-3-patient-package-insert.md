@@ -70,6 +70,7 @@ Especially tell your doctor if you take medicines for:
 - •birth control
 - •heart failure
 - •HIV or AIDS
+- •hepatitis C virus
 
 Know all the medicines you take.
 Keep a list of them with you to show your doctor and pharmacist.
@@ -176,6 +177,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75063129
+75068075
 
-Revised: 5/2018 MX:ATOR:R11ppt/MX:PL:ATOR:R8p/MX:PL:ATOR:R8pt
+Revised: 9/2019 MX:ATOR:R12ppt/MX:PL:ATOR:R9p/MX:PL:ATOR:R9pt

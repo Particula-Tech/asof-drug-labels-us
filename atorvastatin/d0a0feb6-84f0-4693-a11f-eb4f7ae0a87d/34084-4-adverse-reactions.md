@@ -19,7 +19,7 @@ Table 3 summarizes the frequency of clinical adverse reactions, regardless of ca
 Table 3.
 Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated with Any Dose of Atorvastatin Calcium Tablets and at an Incidence Greater Than Placebo Regardless of Causality (% of Patients).
 
-| Adverse ReactionAdverse Reaction ≥ 2% in any dose greater than placebo. | Any Dose N = 8,755 | 10 mg N = 3,908 | 20 mg N = 188 | 40 mg N = 604 | 80 mg N = 4,055 | Placebo N = 7,311 |
+| Adverse ReactionAdverse Reaction ≥ 2% in any dose greater than placebo | Any Dose N = 8,755 | 10 mg N = 3,908 | 20 mg N = 188 | 40 mg N = 604 | 80 mg N = 4,055 | Placebo N = 7,311 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nasopharyngitis | 8.3 | 12.9 | 5.3 | 7.0 | 4.2 | 8.2 |
 | Arthralgia | 6.9 | 8.9 | 11.7 | 10.6 | 4.3 | 6.5 |
@@ -90,7 +90,7 @@ The proportions of subjects who experienced non-cardiovascular death were numeri
 
 ### Adverse Reactions from Clinical Studies of Atorvastatin Calcium Tablets in Pediatric Patients
 
-In a 26-week controlled study in boys and postmenarchal girls with HeFH (ages 10 years to 17 years) (n = 140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin calcium tablets 10 to 20 mg daily, as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels, was generally similar to that of placebo [see Use in Special Populations (8.4) and Clinical Studies (14.6)].
+In a 26-week controlled study in boys and postmenarchal girls with HeFH (ages 10 years to 17 years) (n = 140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin calcium tablets 10 to 20 mg daily, as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels, was generally similar to that of placebo [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
 
 ## 6.2 Postmarketing Experience
 
