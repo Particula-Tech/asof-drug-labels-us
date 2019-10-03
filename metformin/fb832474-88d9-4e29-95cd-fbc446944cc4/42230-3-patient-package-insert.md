@@ -23,7 +23,7 @@ You have a higher chance of getting lactic acidosis if you:
 - •have severe kidney problems.
   See “Do not take GLUMETZA if you”
 - •have liver problems.
-- •drink a lot of alcohol (very often or short-term "binge" drinking).
+- •drink a lot of alcohol (very often or short-term “binge” drinking).
 - •get dehydrated (lose a large amount of body fluids).
   This can happen if you are sick with a fever, vomiting, or diarrhea.
   Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids.
@@ -164,13 +164,6 @@ Inactive Ingredient: 500 mg tablet: coloring, hypromellose, magnesium stearate, 
 
 1,000 mg tablet: colloidal silicon dioxide, polyvinyl alcohol, crospovidone, glyceryl behenate, polyacrylate dispersion, hypromellose, talc, polyethylene glycol, eudragit, titanium dioxide, simethicone emulsion, polysorbate and coloring.
 
-Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-
-© 2019 Valeant Pharmaceuticals North America LLC
-
-9618903 20002559
-
-Revised:11/2018
-
-- For more information, go to www.GlumetzaXR.com or call 1-800-321-4576.
-- This Patient Information has been approved by the U.S. Food and Drug Administration.
+Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC, Bridgewater, NJ 08807 USA U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 Glumetza is a trademark of Salix Pharmaceuticals, Inc. or its affiliates. © 2019 Salix Pharmaceuticals, Inc. or its affiliates 9618904 20002702 For more information, go to www.GlumetzaXR.com or call 1-800-321-4576.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: 08/2019

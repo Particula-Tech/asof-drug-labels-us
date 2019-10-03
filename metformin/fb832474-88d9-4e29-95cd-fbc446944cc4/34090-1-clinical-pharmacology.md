@@ -84,7 +84,7 @@ Table 3: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | --- | --- | --- | --- | --- |
 | AUCAUC=AUC0−inf | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgGLUMETZA (metformin HCl extended-release tablets) 500 mg | 0.98Ratio of arithmetic means | 0.99 |
+| Glyburide | 5 mg | 500 mg | 0.98 | 0.99 |
 | Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
@@ -92,7 +92,7 @@ Table 3: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Cationic drugs that are eliminated by renal tubular secretion may increase the accumulation ofmetformin: [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis: [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |
-| Topiramate | 100 mgAt steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC=AUC0-12h | 500 mg | 1.25 | 1.17 |
+| Topiramate | 100 mgGLUMETZA (metformin HCl extended-release tablets) 500 mg | 500 mg | 1.25 | 1.17 |
 
 Table 4: Effect of Metformin on Coadministered Drug Systemic Exposure
 
@@ -100,7 +100,7 @@ Table 4: Effect of Metformin on Coadministered Drug Systemic Exposure
 | --- | --- | --- | --- | --- |
 | AUCAUC=AUC0–inf unless otherwise noted | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgAUC0-24 hr reported | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
+| Glyburide | 5 mg | 500 mg | 0.78 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |

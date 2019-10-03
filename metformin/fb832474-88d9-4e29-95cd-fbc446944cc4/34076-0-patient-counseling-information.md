@@ -24,18 +24,6 @@ Administration Information:
 
 Inform patients that GLUMETZA must be swallowed whole and not crushed, cut, or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
 
-Manufactured for:
+Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Salix Pharmaceuticals, a division of
-
-Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
-
-U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692
-
-Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-
-© 2019 Valeant Pharmaceuticals North America LLC
-
-9618903 20002559
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 Glumetza is a trademark of Salix Pharmaceuticals, Inc. or its affiliates. © 2019 Salix Pharmaceuticals, Inc. or its affiliates 9618904 20002702

@@ -21,7 +21,7 @@ Poorly controlled diabetes mellitus increases the fetal risk for major birth def
 
 Data
 
-Human Data Published data from post-marketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
+Human Data Published data from postmarketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
 However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
 
 Animal Data

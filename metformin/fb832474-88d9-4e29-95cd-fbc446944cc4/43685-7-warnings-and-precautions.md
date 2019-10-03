@@ -11,7 +11,7 @@ If metformin-associated lactic acidosis is suspected, general supportive measure
 In GLUMETZA-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin HCl is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
-Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue GLUMETZA and report these symptoms to their healthcare provider.
+Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur, instruct them to discontinue GLUMETZA and report these symptoms to their healthcare provider.
 
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 

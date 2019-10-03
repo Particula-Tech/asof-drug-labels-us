@@ -30,7 +30,7 @@ ONCE DAILY
 
 Salix
 
-# Package/Label Display Panel – 1000 mg
+# Package/Label Display Panel – 1,000 mg
 
 NDC 68012-003-16
 
@@ -40,7 +40,7 @@ Glumetza®
 
 (metformin hydrochloride extended-release tablets)
 
-1000 mg
+1,000 mg
 
 ONCE DAILY
 
