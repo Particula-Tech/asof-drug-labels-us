@@ -148,4 +148,4 @@ Neoplasms benign, malignant and unspecified: Melanoma, Merkel cell carcinoma [se
 
 Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
 
-Skin and subcutaneous tissue disorders: Skin exfoliation, rash, bullous skin reactions
+Skin and subcutaneous tissue disorders: Skin exfoliation, lichenoid reactions, rash, bullous skin reactions
