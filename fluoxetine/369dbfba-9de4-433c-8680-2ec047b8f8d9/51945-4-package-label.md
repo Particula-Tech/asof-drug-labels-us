@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Fluoxetine Capsules USP 40 mg, 30s Label Text
-
 NDC 0093-7198-56
 
 FLUOXETINE Capsules USP 40 mg*
