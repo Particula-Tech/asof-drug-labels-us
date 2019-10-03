@@ -123,7 +123,7 @@ Biliary excretion of unchanged ledipasvir is a major route of elimination.
 Sofosbuvir is not a substrate for CYP and UGT1A1 enzymes.
 Clinically significant drug interactions with ledipasvir and sofosbuvir mediated by CYP or UGT1A1 enzymes are not expected.
 
-The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 8 [see Drug Interactions (7.2)].
+The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 8 [see Drug Interactions (7)].
 
 Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
@@ -178,7 +178,7 @@ Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, MRP
 
 Ledipasvir, sofosbuvir, and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes.
 
-The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7.2)].
+The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7)].
 
 Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or Ledipasvir and SofosbuvirAll interaction studies conducted in healthy volunteers.
 
