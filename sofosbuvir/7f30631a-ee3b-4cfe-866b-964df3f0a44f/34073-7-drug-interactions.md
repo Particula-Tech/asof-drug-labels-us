@@ -14,10 +14,15 @@ EPCLUSA may be coadministered with P-gp, BCRP, and CYP inhibitors.
 Velpatasvir is an inhibitor of drug transporters P-gp, breast cancer resistance protein (BCRP), OATP1B1, OATP1B3, and OATP2B1.
 Coadministration of EPCLUSA with drugs that are substrates of these transporters may increase the exposure of such drugs.
 
-Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with EPCLUSA.
-Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.
-
 ## 7.3 Established and Potentially Significant Drug Interactions
+
+Clearance of HCV infection with direct acting antivirals may lead to changes in hepatic function, which may impact the safe and effective use of concomitant medications.
+For example, altered blood glucose control resulting in serious symptomatic hypoglycemia has been reported in diabetic patients in postmarketing case reports and published epidemiological studies.
+Management of hypoglycemia in these cases required either discontinuation or dose modification of concomitant medications used for diabetes treatment.
+
+Frequent monitoring of relevant laboratory parameters (e.g.
+International Normalized Ratio [INR] in patients taking warfarin, blood glucose levels in diabetic patients) or drug concentrations of concomitant medications such as cytochrome P450 substrates with a narrow therapeutic index (e.g. certain immunosuppressants) is recommended to ensure safe and effective use.
+Dose adjustments of concomitant medications may be necessary.
 
 Table 2 provides a listing of established or potentially clinically significant drug interactions.
 The drug interactions described are based on studies conducted with either EPCLUSA, the components of EPCLUSA (sofosbuvir and velpatasvir) as individual agents, or are predicted drug interactions that may occur with EPCLUSA [see Warnings and Precautions (5.2, 5.3) and Clinical Pharmacology (12.3)].
@@ -47,7 +52,7 @@ Table 2 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 
 Based on drug interaction studies conducted with the components of EPCLUSA (sofosbuvir or velpatasvir) or EPCLUSA, no clinically significant drug interactions have been observed with the following drugs [see Clinical Pharmacology (12.3)]:
 
-- EPCLUSA: atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, raltegravir, or rilpivirine
-- Sofosbuvir: ethinyl estradiol/norgestimate, methadone, or tacrolimus
+- EPCLUSA: atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, raltegravir, or rilpivirine.
+- Sofosbuvir: ethinyl estradiol/norgestimate, methadone, or tacrolimus.
 - Velpatasvir: ethinyl estradiol/norgestimate, ketoconazole, or pravastatin.
   See Table 2 for use of EPCLUSA with certain HIV antiretroviral regimens [see Drug Interactions (7.3)].

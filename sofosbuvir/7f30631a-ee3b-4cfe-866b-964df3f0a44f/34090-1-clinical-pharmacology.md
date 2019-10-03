@@ -99,7 +99,7 @@ Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, OAT
 Sofosbuvir and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes.
 
 The effects of coadministered drugs on the exposure of sofosbuvir, GS-331007, and velpatasvir are shown in Table 5.
-The effects of sofosbuvir, velpatasvir, or EPCLUSA on the exposure of coadministered drugs are shown in Table 6.
+The effects of sofosbuvir, velpatasvir, or EPCLUSA on the exposure of coadministered drugs are shown in Table 6 [see Drug Interactions (7)].
 
 Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir, GS-331007, and Velpatasvir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
