@@ -18,13 +18,13 @@ The proportion of subjects who permanently discontinued treatment due to adverse
 
 The most common adverse reactions (at least 10%) were fatigue and headache in subjects treated with 8, 12, or 24 weeks of HARVONI.
 
-Table 3 lists adverse reactions (adverse events assessed as causally related by the investigator, all grades) observed in at least 5% of subjects receiving 8, 12, or 24 weeks treatment with HARVONI in clinical trials.
-The majority of adverse reactions presented in Table 3 occurred at severity of grade 1.
+Table 4 lists adverse reactions (adverse events assessed as causally related by the investigator, all grades) observed in at least 5% of subjects receiving 8, 12, or 24 weeks treatment with HARVONI in clinical trials.
+The majority of adverse reactions presented in Table 4 occurred at severity of grade 1.
 The side-by-side tabulation is to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
 
-Table 3 Adverse Reactions (All Grades) Reported in ≥5% of Subjects Receiving 8, 12, or 24 Weeks of Treatment with HARVONI
+Table 4 Adverse Reactions (All Grades) Reported in ≥5% of Subjects Receiving 8, 12, or 24 Weeks of Treatment with HARVONI
 
-|  | HARVONI 8 weeks N=215 | HARVONI 12 weeks N=539 | HARVONI 24 weeks N=326 |
+|  | HARVONI 8 weeks (N=215) | HARVONI 12 weeks (N=539) | HARVONI 24 weeks (N=326) |
 | --- | --- | --- | --- |
 | Fatigue | 16% | 13% | 18% |
 | Headache | 11% | 14% | 17% |
@@ -41,10 +41,10 @@ Adverse Reactions in Subjects with Cirrhosis
 
 The safety assessment of HARVONI with or without ribavirin was based on a randomized, double-blind and placebo-controlled trial in treatment-experienced genotype 1 subjects with compensated cirrhosis and was compared to placebo in the SIRIUS trial.
 Subjects were randomized to receive 24 weeks of HARVONI once daily by mouth without ribavirin or 12 weeks of placebo followed by 12 weeks of HARVONI once daily by mouth + ribavirin [see Clinical Studies (14.2)].
-Table 4 presents the adverse reactions, as defined above, that occurred with at least 5% greater frequency in subjects treated with 24 weeks of HARVONI or 12 weeks of HARVONI + ribavirin, compared to those reported for 12 weeks of placebo.
-The majority of the adverse reactions presented in Table 4 were Grade 1 or 2 in severity.
+Table 5 presents the adverse reactions, as defined above, that occurred with at least 5% greater frequency in subjects treated with 24 weeks of HARVONI or 12 weeks of HARVONI + ribavirin, compared to those reported for 12 weeks of placebo.
+The majority of the adverse reactions presented in Table 5 were Grade 1 or 2 in severity.
 
-Table 4 Adverse Reactions with ≥5% Greater Frequency Reported in Treatment-Experienced Subjects with Cirrhosis Receiving HARVONI for 24 Weeks or HARVONI + RBV for 12 Weeks Compared to Placebo for 12 weeks
+Table 5 Adverse Reactions with ≥5% Greater Frequency Reported in Treatment-Experienced Subjects with Cirrhosis Receiving HARVONI for 24 Weeks or HARVONI + RBV for 12 Weeks Compared to Placebo for 12 weeks
 
 |  | HARVONI 24 weeks (N=78) | HARVONI + RBV 12 weeks (N=76) | Placebo 12 weeks (N=77) |
 | --- | --- | --- | --- |
@@ -103,9 +103,10 @@ Creatine Kinase: Creatine kinase was not assessed in Phase 3 trials ION-3, ION-1
 Creatine kinase was assessed in the ION-4 trial.
 Isolated, asymptomatic creatine kinase elevations of greater than or equal to 10×ULN was observed in 1% of subjects treated with HARVONI for 12 weeks in the ION-4 trial and has also been previously reported in subjects treated with sofosbuvir in combination with ribavirin or peginterferon/ribavirin in other clinical trials.
 
-Adverse Reactions in Pediatric Subjects 12 Years of Age and Older
+Adverse Reactions in Pediatric Subjects 3 Years of Age and Older
 
-The safety assessment of HARVONI in pediatric subjects 12 years of age and older is based on data from a Phase 2, open-label clinical trial (Study 1116) that enrolled 100 subjects without cirrhosis or with compensated cirrhosis who were treated with HARVONI for 12 weeks.
+The safety assessment of HARVONI in pediatric subjects 3 years of age and older is based on data from a Phase 2, open-label clinical trial (Study 1116).
+In total, 226 subjects were enrolled, which included 223 subjects without cirrhosis or with compensated cirrhosis who were treated with HARVONI for 12 weeks; one genotype 1 treatment-experienced subject with cirrhosis who was treated with HARVONI for 24 weeks; and two genotype 3 subjects who were treated with HARVONI + ribavirin for 24 weeks.
 The adverse reactions observed were consistent with those observed in clinical studies of HARVONI in adults.
 Limited safety data are available in pediatric subjects receiving HARVONI for 24 weeks.
 No Grade 3 or 4 adverse reactions or discontinuation due to an adverse reaction was observed in those pediatric subjects receiving HARVONI for 24 weeks [see Clinical Studies (14.6)].

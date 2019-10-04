@@ -12,15 +12,20 @@ Ledipasvir is an inhibitor of the drug transporters P-gp and breast cancer resis
 Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
 P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI [see Warnings and Precautions (5.3)].
 
-Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with HARVONI.
-Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.
-
 ## 7.2 Established and Potentially Significant Drug Interactions
 
-Table 5 provides a listing of established or potentially clinically significant drug interactions.
+Clearance of HCV infection with direct acting antivirals may lead to changes in hepatic function, which may impact the safe and effective use of concomitant medications.
+For example, altered blood glucose control resulting in serious symptomatic hypoglycemia has been reported in diabetic patients in postmarketing case reports and published epidemiological studies.
+Management of hypoglycemia in these cases required either discontinuation or dose modification of concomitant medications used for diabetes treatment.
+
+Frequent monitoring of relevant laboratory parameters (e.g.
+International Normalized Ratio [INR] in patients taking warfarin, blood glucose levels in diabetic patients) or drug concentrations of concomitant medications such as cytochrome P450 substrates with a narrow therapeutic index (e.g. certain immunosuppressants) is recommended to ensure safe and effective use.
+Dose adjustments of concomitant medications may be necessary.
+
+Table 6 provides a listing of established or potentially clinically significant drug interactions.
 The drug interactions described are based on studies conducted with either HARVONI, the components of HARVONI (ledipasvir and sofosbuvir) as individual agents, or are predicted drug interactions that may occur with HARVONI [see Warnings and Precautions (5.2, 5.3) and Clinical Pharmacology (12.3)].
 
-Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
+Table 6 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease, ↑ = increase | Clinical Comment |
 | --- | --- | --- |
@@ -46,4 +51,4 @@ Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 ## 7.3 Drugs without Clinically Significant Interactions with HARVONI
 
 Based on drug interaction studies conducted with the components of HARVONI (ledipasvir or sofosbuvir) or HARVONI, no clinically significant drug interactions have been either observed or are expected when HARVONI is used with the following drugs [see Clinical Pharmacology (12.3)]: abacavir, atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, efavirenz, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, lamivudine, methadone, oral contraceptives, pravastatin, raltegravir, rilpivirine, tacrolimus, or verapamil.
-See Table 5 for use of HARVONI with certain HIV antiretroviral regimens [see Drug Interactions (7.2)].
+See Table 6 for use of HARVONI with certain HIV antiretroviral regimens [see Drug Interactions (7.2)].

@@ -76,18 +76,22 @@ Race: Population pharmacokinetics analysis in HCV-infected subjects indicated th
 Gender: Population pharmacokinetics analysis in HCV-infected subjects indicated that gender had no clinically relevant effect on the exposure of sofosbuvir and GS-331007.
 AUC and Cmax of ledipasvir were 77% and 58% higher, respectively, in females than males; however, the relationship between gender and ledipasvir exposures was not considered clinically relevant, as high response rates (SVR12 >90%) were achieved in male and female subjects across the Phase 3 studies and the safety profiles are similar in females and males.
 
-Pediatric Patients: The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were determined in 100 pediatric subjects 12 years of age and older infected with HCV genotype 1 receiving a daily dose of HARVONI (90 mg ledipasvir and 400 mg sofosbuvir).
-The pharmacokinetic properties of ledipasvir, sofosbuvir, and GS-331007 in pediatric subjects 12 years of age and older are provided in Table 6.
+Pediatric Patients: The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were determined in HCV genotype 1, 3, or 4 infected pediatric subjects 3 years of age and older receiving a daily dose of HARVONI as described below in Table 7.
 Exposures in pediatric subjects were similar to those observed in adults.
 
-Table 6 Pharmacokinetic Properties of the Components of HARVONI in Pediatric Subjects 12 Years of Age and OlderPopulation PK derived parameters
+Table 7 Pharmacokinetic Properties of the Components of HARVONI in HCV-Infected Pediatric Subjects 3 Years of Age and OlderPopulation PK derived parameters
 
-| Geometric Mean | LedipasvirLedipasvir N=100; Sofosbuvir N=72; GS-331007 N=100 | Sofosbuvir | GS-331007 |
-| --- | --- | --- | --- |
-| AUCtau (ng∙hr/mL) | 11200 | 1350 | 13600 |
-| Cmax (ng/mL) | 550 | 660 | 921 |
+| Ledipasvir | Sofosbuvir | GS-331007 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Weight Group | Dose | PK Parameter | Geometric Mean (%CV) |  |  |
+| ≥35 kgLedipasvir N=100; Sofosbuvir N=72; GS-331007 N=100 | 90/400 mg | AUCtau (ng∙hr/mL) | 11200 (45.7) | 1350 (45.2) | 13600 (18.9) |
+| Cmax (ng/mL) | 550 (44.2) | 660 (51.1) | 921 (17.8) |  |  |
+| 17 to <35 kgLedipasvir N=86; Sofosbuvir N=66; GS-331007 N=86 | 45/200 mg | AUCtau (ng∙hr/mL) | 8750 (46.6) | 1420 (34.2) | 10700 (30.9) |
+| Cmax (ng/mL) | 440 (42.7) | 690 (24.8) | 958 (26.1) |  |  |
+| <17 kgLedipasvir N=9; Sofosbuvir N=9; GS-331007 N=9 | 33.75/150 mg | AUCtau (ng∙hr/mL) | 7460 (31.0) | 1720 (23.2) | 12200 (15.2) |
+| Cmax (ng/mL) | 405 (25.7) | 791 (16.6) | 1070 (13.0) |  |  |
 
-The pharmacokinetics of ledipasvir or sofosbuvir have not been established in pediatric patients less than 12 years of age [see Use in Specific Populations (8.4), and Clinical Studies (14.6)].
+The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 have not been established in pediatric subjects less than 3 years of age [see Use in Specific Populations (8.4), and Clinical Studies (14.6)].
 
 Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 80 years) analyzed, age did not have a clinically relevant effect on the exposure to ledipasvir, sofosbuvir, and GS-331007 [see Use in Specific Populations (8.5)].
 
@@ -97,7 +101,7 @@ No clinically relevant differences in ledipasvir pharmacokinetics were observed 
 The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
 Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
 In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
-A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C). Ledipasvir plasma exposure (AUC0–inf) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of ledipasvir [see Use in Specific Populations (8.7)].
@@ -119,9 +123,9 @@ Biliary excretion of unchanged ledipasvir is a major route of elimination.
 Sofosbuvir is not a substrate for CYP and UGT1A1 enzymes.
 Clinically significant drug interactions with HARVONI mediated by CYP or UGT1A1 enzymes are not expected.
 
-The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 7 [see Drug Interactions (7.2)].
+The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 8 [see Drug Interactions (7)].
 
-Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
 |  | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -174,9 +178,9 @@ Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, MRP
 
 Ledipasvir, sofosbuvir, and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes.
 
-The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 8 [see Drug Interactions (7.2)].
+The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7)].
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or HARVONIAll interaction studies conducted in healthy volunteers.
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or HARVONIAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -337,7 +341,7 @@ The sofosbuvir resistance-associated substitution S282T was not detected in the 
 
 Pediatrics
 
-In Study 1116, the presence of NS5A and NS5B resistance-associated polymorphisms did not impact treatment outcome; all pediatric subjects 12 years of age and older with baseline NS5A or NS5B nucleoside inhibitor resistance-associated polymorphisms (18%; 17/96) achieved SVR following 12 weeks treatment with HARVONI.
+In Study 1116, the presence of NS5A and NS5B resistance-associated polymorphisms did not impact treatment outcome; all pediatric subjects 3 years of age and older with baseline NS5A or NS5B nucleoside inhibitor resistance-associated polymorphisms (14%; 32/223) achieved SVR following 12 weeks treatment with HARVONI.
 
 Cross Resistance
 
