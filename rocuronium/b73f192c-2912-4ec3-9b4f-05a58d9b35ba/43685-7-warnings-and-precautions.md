@@ -9,14 +9,13 @@ It is recommended that clinicians administering neuromuscular blocking agents su
 ## 5.2 Anaphylaxis
 
 Severe anaphylactic reactions to neuromuscular blocking agents, including rocuronium bromide, have been reported.
-These reactions have, in some cases (including cases with rocuronium bromide), been life threatening.
+These reactions have, in some cases (including cases with rocuronium bromide), been life threatening and fatal.
 Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
-
 Precautions should also be taken in those patients who have had previous anaphylactic reactions to other neuromuscular blocking agents, since cross-reactivity between neuromuscular blocking agents, both depolarizing and nondepolarizing, has been reported.
 
 ## 5.3 Risk of Death due to Medication Errors
 
-Administration of Rocuronium bromide Injection results in paralysis, which may lead to respiratory arrest and death; this progression may be more likely to occur in a patient for whom it is not intended.
+Administration of Rocuronium bromide Injection results in paralysis, which may lead to respiratory arrest and death, a progression that may be more likely to occur in a patient for whom it is not intended.
 Confirm proper selection of intended product and avoid confusion with other injectable solutions that are present in critical care and other clinical settings.
 If another healthcare provider is administering the product, ensure that the intended dose is clearly labeled and communicated.
 
@@ -47,13 +46,13 @@ Therefore, for patients receiving both neuromuscular blocking agents and cortico
 ## 5.7 Malignant Hyperthermia (MH)
 
 Rocuronium bromide has not been studied in MH-susceptible patients.
-Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic.
+Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of anyanesthetic [see Adverse Reactions (6.2)].
 
 In an animal study in MH-susceptible swine, the administration of rocuronium bromide injection did not appear to trigger malignant hyperthermia.
 
 ## 5.8 Prolonged Circulation Time
 
-Conditions associated with an increased circulatory delayed time, e.g., cardiovascular disease or advanced age, may be associated with a delay in onset time [see Dosage and Administration (2.5)].
+Conditions associated with an increased circulatory delayed time, e.g., cardiovascular disease or advanced age, may be associated with a delay in onset time [see Dosage and Administration (2.6)].
 
 ## 5.9 QT Interval Prolongation
 
@@ -61,17 +60,23 @@ The overall analysis of ECG data in pediatric patients indicates that the concom
 
 ## 5.10 Conditions/Drugs Causing Potentiation of, or Resistance to, Neuromuscular Block
 
-Potentiation: Nondepolarizing neuromuscular blocking agents have been found to exhibit profound neuromuscular blocking effects in cachectic or debilitated patients, patients with neuromuscular diseases, and patients with carcinomatosis.
+Potentiation
+
+Nondepolarizing neuromuscular blocking agents have been found to exhibit profound neuromuscular blocking effects in cachectic or debilitated patients, patients with neuromuscular diseases, and patients with carcinomatosis.
 
 Certain inhalation anesthetics, particularly enflurane and isoflurane, antibiotics, magnesium salts, lithium, local anesthetics, procainamide, and quinidine have been shown to increase the duration of neuromuscular block and decrease infusion requirements of neuromuscular blocking agents [see Drug Interactions (7.3)].
 
-In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of rocuronium bromide should be considered [see Dosage and Administration (2.5)].
+In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of rocuronium bromide should be considered [see Dosage and Administration (2.6)].
 
-Resistance: Resistance to nondepolarizing agents, consistent with up-regulation of skeletal muscle acetylcholine receptors, is associated with burns, disuse atrophy, denervation, and direct muscle trauma.
+Resistance
+
+Resistance to nondepolarizing agents, consistent with up-regulation of skeletal muscle acetylcholine receptors, is associated with burns, disuse atrophy, denervation, and direct muscle trauma.
 Receptor up-regulation may also contribute to the resistance to nondepolarizing muscle relaxants which sometimes develops in patients with cerebral palsy, patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin, or with chronic exposure to nondepolarizing agents.
 When rocuronium bromide is administered to these patients, shorter durations of neuromuscular block may occur, and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
 
-Potentiation or Resistance: Severe acid-base and/or electrolyte abnormalities may potentiate or cause resistance to the neuromuscular blocking action of rocuronium bromide.
+Potentiation or Resistance
+
+Severe acid-base and/or electrolyte abnormalities may potentiate or cause resistance to the neuromuscular blocking action of rocuronium bromide.
 No data are available in such patients and no dosing recommendations can be made.
 
 Rocuronium bromide-induced neuromuscular blockade was modified by alkalosis and acidosis in experimental pigs.

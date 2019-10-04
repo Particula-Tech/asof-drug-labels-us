@@ -1,7 +1,7 @@
 Manufactured for:
 
-X-GEN Pharmaceuticals, Inc. Big Flats, NY 14814United States of America
+X-GEN Pharmaceuticals, Inc. Big Flats, NY 14814 United States of America
 
-ROCU-PI-09
+ROCU-PI-10
 
 Manufactured in Germany

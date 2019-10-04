@@ -1,16 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Rocuronium Bromide Injection is available in the following:
+Rocuronium bromide injection is available in the following:
 
-- Rocurium Bromide Injection 5 mL multiple dose vials containing 50 mg rocuronium bromide (10 mg/mL)
-
-Box of 10 NDC 39822-4200-2
-
-- Rocurium Bromide Injection 10 mL multiple dose vials containing 100 mg rocuronium bromide (10 mg/mL)Box of 10 NDC 39822-4200-6
+- Rocuronium bromide injection multiple dose vials containing 50 mg/5 mL (10 mg/mL) rocuronium bromide injection Box of 10 NDC 39822-4200-2
+- Rocuronium bromide injection multiple dose vials containing 100 mg/10 mL (10 mg/mL) rocuronium bromide injection Box of 10 NDC 39822-4200-6
 
 This container closure is not made with natural rubber latex.
 
-Rocuronium bromide should be stored in a refrigerator, 2° to 8°C (36° to 46°F).
+Rocuronium bromide should be stored in a refrigerator, 2-8°C (36-46°F).
 
 DO NOT FREEZE.
 Upon removal from refrigeration to room temperature storage conditions (25°C / 77°F), use rocuronium bromide within 60 days.
