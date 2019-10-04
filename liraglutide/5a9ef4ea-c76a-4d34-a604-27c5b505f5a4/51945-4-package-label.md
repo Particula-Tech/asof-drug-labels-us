@@ -8,7 +8,7 @@ VICTOZA®
 
 (liraglutide) injection
 
-SINGLE PATIENT USE ONLY
+For Single Patient Use Only
 
 18 mg/3 mL (6 mg/mL)
 
@@ -28,7 +28,7 @@ Dispense the enclosed Medication Guide to each patient
 
 Intended for use with Novo Nordisk disposable needles
 
-3 pens
+3 Pens
 
 # Principal Display Panel - 2 Victoza Pens
 
@@ -40,7 +40,7 @@ VICTOZA®
 
 (liraglutide) injection
 
-SINGLE PATIENT USE ONLY
+For Single Patient Use Only
 
 18 mg/3 mL (6 mg/mL)
 
@@ -60,4 +60,4 @@ Dispense the enclosed Medication Guide to each patient
 
 Intended for use with Novo Nordisk disposable needles
 
-2 pens
+2 Pens
