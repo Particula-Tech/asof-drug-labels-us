@@ -9,4 +9,4 @@ SOVALDI is indicated for the treatment of adult patients with chronic hepatitis 
 
 Pediatric Patients:
 
-SOVALDI is indicated for the treatment of chronic HCV genotype 2 or 3 infection in pediatric patients 12 years of age and older or weighing at least 35 kg without cirrhosis or with compensated cirrhosis for use in combination with ribavirin [see Dosage and Administration (2.3) and Clinical Studies (14.5)].
+SOVALDI is indicated for the treatment of chronic HCV genotype 2 or 3 infection in pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis for use in combination with ribavirin [see Dosage and Administration (2.3) and Clinical Studies (14.5)].

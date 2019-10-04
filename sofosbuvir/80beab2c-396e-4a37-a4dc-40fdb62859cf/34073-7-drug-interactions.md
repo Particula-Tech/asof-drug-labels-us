@@ -5,13 +5,18 @@
 Sofosbuvir is a substrate of drug transporter P-gp and breast cancer resistance protein (BCRP) while the predominant circulating metabolite GS-331007 is not.
 Drugs that are P-gp inducers in the intestine (e.g., rifampin or St. John's wort) may decrease sofosbuvir plasma concentration, leading to reduced therapeutic effect of SOVALDI, and thus concomitant use with SOVALDI is not recommended [see Warnings and Precautions (5.3)].
 
-Information on potential drug interactions with SOVALDI is summarized in Table 6.
+Clearance of HCV infection with direct acting antivirals may lead to changes in hepatic function, which may impact the safe and effective use of concomitant medications.
+For example, altered blood glucose control resulting in serious symptomatic hypoglycemia has been reported in diabetic patients in postmarketing case reports and published epidemiological studies.
+Management of hypoglycemia in these cases required either discontinuation or dose modification of concomitant medications used for diabetes treatment.
+
+Frequent monitoring of relevant laboratory parameters (e.g.
+International Normalized Ratio [INR] in patients taking warfarin, blood glucose levels in diabetic patients) or drug concentrations of concomitant medications such as cytochrome P450 substrates with a narrow therapeutic index (e.g. certain immunosuppressants) is recommended to ensure safe and effective use.
+Dose adjustments of concomitant medications may be necessary.
+
+Information on potential drug interactions with SOVALDI is summarized in Table 7.
 The table is not all-inclusive [see Warnings and Precautions (5.2, 5.3) and Clinical Pharmacology (12.3)].
 
-Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with SOVALDI.
-Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.
-
-Table 6 Potentially Significant Drug Interactions: Alteration in Dosage or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all-inclusive.
+Table 7 Potentially Significant Drug Interactions: Alteration in Dosage or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all-inclusive.
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease. | Clinical Comment |
 | --- | --- | --- |
@@ -23,4 +28,4 @@ Table 6 Potentially Significant Drug Interactions: Alteration in Dosage or Regim
 
 ## 7.2 Drugs without Clinically Significant Interactions with SOVALDI
 
-In addition to the drugs included in Table 6, the interaction between SOVALDI and the following drugs was evaluated in clinical trials and no dose adjustment is needed for either drug [See Clinical Pharmacology (12.3)]: cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, methadone, oral contraceptives, raltegravir, rilpivirine, tacrolimus, or tenofovir disoproxil fumarate.
+Based on drug interaction studies conducted with SOVALDI, no clinically significant drug interactions have been either observed or are expected when SOVALDI is combined with the following drugs [see Clinical Pharmacology (12.3)]: cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, methadone, oral contraceptives, raltegravir, rilpivirine, tacrolimus, or tenofovir disoproxil fumarate.

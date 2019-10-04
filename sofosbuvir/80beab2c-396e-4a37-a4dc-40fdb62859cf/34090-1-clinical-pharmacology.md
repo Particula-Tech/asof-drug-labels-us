@@ -60,18 +60,22 @@ No clinically relevant pharmacokinetic differences have been observed between me
 
 Pediatric Patients
 
-The pharmacokinetics of sofosbuvir and GS-331007 were determined in 50 pediatric subjects 12 years of age and older, infected with HCV genotype 2 or 3, receiving a daily dose of SOVALDI (400 mg sofosbuvir).
-The pharmacokinetic properties of sofosbuvir and GS-331007 in pediatric subjects 12 years of age and older are provided in Table 7.
+The pharmacokinetics of sofosbuvir and GS-331007 were determined in HCV genotype 2 or 3 infected pediatric subjects 3 years of age and older receiving a daily dose of SOVALDI as described in Table 8.
 Exposures in pediatric subjects were similar to those observed in adults.
 
-Table 7 Pharmacokinetic Properties of SOVALDI in HCV-infected Pediatric Subjects 12 Years of Age and OlderPopulation PK derived parameters
+Table 8 Pharmacokinetic Properties of SOVALDI in HCV-infected Pediatric Subjects 3 Years of Age and OlderPopulation PK derived parameters
 
-| Geometric Mean | SofosbuvirSofosbuvir N=28; GS-331007 N=50 | GS-331007 |
-| --- | --- | --- |
-| AUCtau (ng∙hr/mL) | 1060 | 7570 |
-| Cmax (ng/mL) | 472 | 572 |
+| Sofosbuvir | GS-331007 |  |  |  |
+| --- | --- | --- | --- | --- |
+| Weight Group | Dose | PK Parameter | Geometric Mean (%CV) |  |
+| ≥35 kgSofosbuvir N=28; GS-331007 N=50 | 400 mg | AUCtau (ng∙hr/mL) | 1060 (50.6) | 7570 (32.8) |
+| Cmax (ng/mL) | 472 (53.0) | 572 (40.7) |  |  |
+| 17 to <35 kgSofosbuvir N=29; GS-331007 N=30 | 200 mg | AUCtau (ng∙hr/mL) | 891 (36.1) | 10400 (31.6) |
+| Cmax (ng/mL) | 438 (26.4) | 866 (27.1) |  |  |
+| <17 kgSofosbuvir N=7; GS-331007 N=7 | 150 mg | AUCtau (ng∙hr/mL) | 851 (41.7) | 9060 (37.6) |
+| Cmax (ng/mL) | 418 (26.8) | 767 (28.3) |  |  |
 
-The pharmacokinetics of sofosbuvir have not been established in pediatric subjects less than 12 years of age [see Use in Specific Populations (8.4)].
+The pharmacokinetics of sofosbuvir and GS-331007 have not been established in pediatric subjects less than 3 years of age [see Use in Specific Populations (8.4) and Clinical Studies (14.5)].
 
 Geriatric Patients
 
@@ -103,10 +107,10 @@ Sofosbuvir and GS-331007 are not inhibitors of P-gp and BCRP and thus are not ex
 
 The intracellular metabolic activation pathway of sofosbuvir is mediated by generally low affinity and high capacity hydrolase and nucleotide phosphorylation pathways that are unlikely to be affected by concomitant drugs.
 
-The effects of coadministered drugs on the exposure of sofosbuvir and GS-331007 are shown in Table 8.
-The effects of sofosbuvir on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7.2)].
+The effects of coadministered drugs on the exposure of sofosbuvir and GS-331007 are shown in Table 9.
+The effects of sofosbuvir on the exposure of coadministered drugs are shown in Table 10 [see Drug Interactions (7.1, 7.2)].
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers
 
 |  | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -128,7 +132,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir 
 
 No effect on the pharmacokinetic parameters of sofosbuvir and GS-331007 was observed with raltegravir.
 
-Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of SofosbuvirAll interaction studies conducted in healthy volunteers
+Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of SofosbuvirAll interaction studies conducted in healthy volunteers
 
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |

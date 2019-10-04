@@ -1,13 +1,22 @@
 {
   "application_numbers": [
-    "NDA204671"
+    "NDA204671",
+    "NDA212480"
   ],
   "inn": "sofosbuvir",
   "labeler": "Gilead Sciences, Inc.",
   "package_ndcs": [
-    "61958-1501-1"
+    "61958-1501-1",
+    "61958-1503-1",
+    "61958-1504-1",
+    "61958-1505-1"
   ],
   "products": [
+    {
+      "form": "PELLET",
+      "generic": "sofosbuvir",
+      "name": "Sovaldi"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "sofosbuvir",

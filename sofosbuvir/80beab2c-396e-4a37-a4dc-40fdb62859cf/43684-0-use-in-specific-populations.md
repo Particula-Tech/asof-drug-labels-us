@@ -50,14 +50,14 @@ Refer to ribavirin and/or peginterferon prescribing information for additional i
 
 ## 8.4 Pediatric Use
 
-The safety, pharmacokinetics, and efficacy of SOVALDI in pediatric patients 12 years of age and older or weighing at least 35 kg with genotype 2 and 3 infection have been established.
-SOVALDI was evaluated in an open-label clinical trial (Study 1112), which included 50 subjects (13 genotype 2; 37 genotype 3) 12 years of age and older.
+The safety, pharmacokinetics, and efficacy of SOVALDI in pediatric patients 3 years of age and older with genotype 2 and 3 infection have been established.
+SOVALDI was evaluated in an open-label clinical trial (Study 1112), which included 106 subjects (31 genotype 2; 75 genotype 3) 3 years of age and older.
 The safety, pharmacokinetics, and efficacy were comparable to that observed in adults [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
 
-The safety and efficacy of SOVALDI in pediatric patients 12 years of age and older or weighing at least 35 kg with compensated cirrhosis is supported by comparable sofosbuvir and GS-331007 exposures between: 1) adults and adolescents without cirrhosis and 2) adults without cirrhosis and adults with compensated cirrhosis.
-Thus, similar efficacy would be expected for adolescent patients with compensated cirrhosis as adults with compensated cirrhosis.
+The safety and efficacy of SOVALDI in pediatric patients 3 years of age and older with compensated cirrhosis is supported by comparable sofosbuvir and GS-331007 exposures between: 1) adults and pediatric patients without cirrhosis and 2) adults without cirrhosis and adults with compensated cirrhosis.
+Thus, similar efficacy would be expected for pediatric patients with compensated cirrhosis as adults with compensated cirrhosis.
 
-The safety and efficacy of SOVALDI have not been established in pediatric patients less than 12 years of age and weighing less than 35 kg with HCV genotype 2 or 3.
+The safety and efficacy of SOVALDI have not been established in pediatric patients less than 3 years of age with HCV genotype 2 or 3.
 The safety and efficacy of SOVALDI have not been established in pediatric patients with HCV genotype 1 or 4.
 
 ## 8.5 Geriatric Use
@@ -70,7 +70,7 @@ No dosage adjustment of SOVALDI is warranted in geriatric patients [see Clinical
 
 No dosage adjustment of SOVALDI is required for patients with mild or moderate renal impairment.
 The safety and efficacy of SOVALDI have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73m2) or ESRD requiring hemodialysis.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 Refer also to ribavirin and peginterferon alfa prescribing information for patients with CrCl less than 50 mL/min.
 
 ## 8.7 Hepatic Impairment
@@ -83,7 +83,7 @@ See peginterferon alfa prescribing information for contraindication in hepatic d
 
 SOVALDI was studied in HCV-infected adult subjects with hepatocellular carcinoma prior to undergoing liver transplantation in an open-label clinical trial evaluating the safety and efficacy of SOVALDI and ribavirin administered pre-transplant to prevent post-transplant HCV reinfection.
 The primary endpoint of the trial was post-transplant virologic response (pTVR) defined as HCV RNA less than lower limit of quantification (LLOQ) at 12 weeks post-transplant.
-HCV-infected subjects, regardless of genotype, with hepatocellular carcinoma (HCC) meeting the MILAN criteria (defined as the presence of a tumor 5 cm or less in diameter in patients with single hepatocellular carcinomas and no more than three tumor nodules, each 3 cm or less in diameter in patients with multiple tumors and no extrahepatic manifestations of the cancer or evidence of vascular invasion of tumor) received 400 mg SOVALDI and weight-based 1000–1200 mg ribavirin daily for 24-48 weeks or until the time of liver transplantation, whichever occurred first.
+HCV-infected subjects, regardless of genotype, with hepatocellular carcinoma (HCC) meeting the MILAN criteria (defined as the presence of a tumor 5 cm or less in diameter in patients with single hepatocellular carcinomas and no more than three tumor nodules, each 3 cm or less in diameter in patients with multiple tumors and no extrahepatic manifestations of the cancer or evidence of vascular invasion of tumor) received 400 mg SOVALDI and weight-based 1000–1200 mg ribavirin daily for 24–48 weeks or until the time of liver transplantation, whichever occurred first.
 An interim analysis was conducted on 61 subjects who received SOVALDI and ribavirin; 45 subjects had HCV genotype 1; 44 subjects had a baseline CPT score less than 7 and all subjects had a baseline unadjusted MELD score up to 14.
 Of these 61 subjects, 41 subjects underwent liver transplantation following up to 48 weeks of treatment with SOVALDI and ribavirin; 37 had HCV RNA less than LLOQ at the time of transplantation.
 Of the 37 subjects, the post-transplant virologic response (pTVR) rate is 64% (23/36) in the 36 evaluable subjects who have reached the 12 week post-transplant time point.
