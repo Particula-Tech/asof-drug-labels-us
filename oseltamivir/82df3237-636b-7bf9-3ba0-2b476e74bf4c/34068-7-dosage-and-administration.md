@@ -58,7 +58,7 @@ Table 1 Oseltamivir Phosphate for Oral Suspension Dosage Recommendations in Pedi
 Table 2 displays the dosage recommendations for the treatment and prophylaxis of influenza in adults with various stages of renal impairment (estimated creatinine clearance of less than or equal to 90 mL per minute).
 Dosage modifications are recommended in adults with an estimated creatinine clearance less than or equal to 60 mL per minute [see Use in Specific Population (8.6) and Clinical Pharmacology (12.3)].
 
-Table 2 Recommended Dosage for Modifications for Treatment and Prophylaxis of Influenza in Adults with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
+Table 2 Recommended Dosage Modifications for Treatment and Prophylaxis of Influenza in Adults with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
 
 | Renal Impairment (Creatinine Clearance) | Recommended Treatment Regimen* | Recommended Prophylaxis Regimen† |
 | --- | --- | --- |

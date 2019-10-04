@@ -76,11 +76,10 @@ The safety and pharmacokinetics in patients with severe hepatic impairment have 
 
 Efficacy of oseltamivir phosphate in the treatment of influenza in patients with chronic cardiac disease and/or respiratory disease was evaluated in one randomized, placebo-controlled clinical trial.
 Efficacy in this population, as measured by time to alleviation of all symptoms, was not established, but no new safety signals were identified [see Clinical Studies (14.1)].
-No clinical trial data are available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.
 
 No clinical trial data are available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.
 
 ## 8.9 Immunocompromised Patients
 
 Efficacy of oseltamivir phosphate for the treatment or prophylaxis of influenza has not been established in immunocompromised patients [see Clinical Studies (14.2)].
-Safety of oseltamivir phosphate for prophylaxis of influenza has been demonstrated for up to 12 weeks in immunocompromised patients [see Adverse Reactions (6.1)].
+Safety of oseltamivir phosphate has been demonstrated for up to 12 weeks for prophylaxis of influenza in immunocompromised patients [see Adverse Reactions (6.1)].

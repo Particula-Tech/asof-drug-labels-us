@@ -91,6 +91,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store oseltamivir phosphate for oral suspension?
 
 - Store oseltamivir phosphate for oral suspension in the refrigerator for up to 17 days between 36ºF to 46ºF (2ºC to 8ºC).
+  Do not freeze.
 - Store oseltamivir phosphate for oral suspension for up to 10 days at room temperature between 68°F to 77°F (20°C to 25°C).
 - Safely throw away any unused oseltamivir phosphate for oral suspension that is out of date or no longer needed.
 
@@ -112,4 +113,4 @@ Active ingredient: oseltamivir phosphate, USP Inactive ingredients: Oseltamivir 
 Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 01/2019
+Revised: 08/2019

@@ -25,7 +25,7 @@ Rinse oral dosing dispenser under running tap water and allow to air dry after e
 
 Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA
 
-PL384-02
+PL384-03
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 01/2019
+Revised: 08/2019
