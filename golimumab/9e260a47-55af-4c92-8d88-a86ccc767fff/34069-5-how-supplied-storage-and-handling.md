@@ -8,7 +8,7 @@ Each single-dose vial contains 50 mg of SIMPONI ARIA per 4 mL of solution.
 
 Storage and Handling
 
-Regrigerate SIMPONI ARIA 36ºF to 46ºF (2ºC to 8ºC)and protect from light.
+Refrigerate SIMPONI ARIA 36ºF to 46ºF (2ºC to 8ºC)and protect from light.
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.
 Do not shake.
