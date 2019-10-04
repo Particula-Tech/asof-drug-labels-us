@@ -6,7 +6,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Birth defects [see Warnings and Precautions (5.2)]
 - Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
 - Pancreatitis [see Warnings and Precautions (5.5)]
-- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6,5.8, 5.9)]
+- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6, 5.8, 5.9)]
 - Bleeding and other hematopoietic disorders [see Warnings and Precautions (5.7)]
 - Hypothermia [see Warnings and Precautions (5.10)]
 - Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see Warnings and Precautions (5.11)]
@@ -23,7 +23,6 @@ Other adverse reactions leading to discontinuation were hallucinations, pneumoni
 Dizziness and injection site pain were observed more frequently at a 100 mg/min infusion rate than at rates up to 33 mg/min.
 At a 200 mg/min rate, dizziness and taste perversion occurred more frequently than at a 100 mg/min rate.
 The maximum rate of infusion studied was 200 mg/min.
-
 Adverse reactions reported by at least 0.5% of all subjects/patients in clinical trials of valproate sodium are summarized in Table 1.
 
 Table 1.
@@ -69,6 +68,8 @@ Hyperammonemia with encephalopathy has been reported in 2 patients after infusio
 
 ## 6.1 Epilepsy
 
+The data described in the following section were obtained using Depakote (divalproex sodium) tablets.
+
 Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, divalproex sodium was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
 Intolerance was the primary reason for discontinuation in the divalproex sodium-treated patients (6%), compared to 1% of placebo-treated patients.
 
@@ -78,7 +79,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 2.
 Adverse Reactions Reported by ≥ 5% of Patients Treated with Divalproex Sodium During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
-| Body System/Reaction | Divalproex Sodium (%) (n=77) | Placebo (%) (n=70) |
+| Body System/Reaction | Divalproex Sodium (%)(n=77) | Placebo (%)(n=70) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
@@ -118,7 +119,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 Table 3.
 Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures 1
 
-| Body System/Reaction | High Dose (%) (n=131) | Low Dose (%) (n=134) |
+| Body System/Reaction | High Dose (%)(n=131) | Low Dose (%)(n=134) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
@@ -215,11 +216,16 @@ Urogenital System: Cystitis, metrorrhagia, and vaginal hemorrhage.
 The following adverse reactions have been identified during post approval use of divalproex sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
-
-Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
+Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, nail and nail bed disorders, and Stevens-Johnson syndrome.
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
+
+Neurologic: Paradoxical convulsion.
+
+There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
+
+There have been reports of acute or subacute encephalopathy in the absence of elevated ammonia levels, elevated valproate levels, or neuroimaging changes.
+The encephalopathy reversed partially or fully after valproate discontinuation.
 
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
@@ -228,6 +234,10 @@ Hematologic: Relative lymphocytosis, macrocytosis, leucopenia, anemia including 
 Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
+
+Metabolism and nutrition: Weight gain.
+
+Reproductive: Aspermia, azoospermia, decreased sperm count, decreased spermatozoa motility, male infertility, and abnormal spermatozoa morphology.
 
 Genitourinary: Enuresis and urinary tract infection.
 

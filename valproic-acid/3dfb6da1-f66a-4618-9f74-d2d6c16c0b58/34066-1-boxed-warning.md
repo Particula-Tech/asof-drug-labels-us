@@ -15,10 +15,10 @@ The benefits of therapy should be weighed against the risks.
 The incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
 Patients with Mitochondrial Disease: There is an increased risk of valproate-induced acute liver failure and resultant deaths in patients with hereditary neurometabolic syndromes caused by DNA mutations of the mitochondrial DNA Polymerase γ (POLG) gene (e.g., Alpers-Huttenlocher Syndrome).
-Valproate sodium injection is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [seeContraindications (4)].
+Valproate sodium injection is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see Contraindications (4)].
 In patients over two years of age who are clinically suspected of having a hereditary mitochondrial disease, valproate sodium injection should only be used after other anticonvulsants have failed.
 This older group of patients should be closely monitored during treatment with valproate sodium injection for the development of acute liver injury with regular clinical assessments and serum liver testing.
-POLG mutation screening should be performed in accordance with current clinical practice [seeWarnings and Precautions (5.1)].
+POLG mutation screening should be performed in accordance with current clinical practice [see Warnings and Precautions (5.1)].
 
 Fetal Risk
 
@@ -29,7 +29,7 @@ Valproate should only be used to treat pregnant women with epilepsy if other med
 
 Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
 This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
-Women should use effective contraception while using valproate [see Warnings and Precautions (5.2, 5.3, 5.4) andPatient Counseling Information (17)].
+Women should use effective contraception while using valproate [see Warnings and Precautions (5.2, 5.3, 5.4) and Patient Counseling Information (17)].
 
 Pancreatitis
 

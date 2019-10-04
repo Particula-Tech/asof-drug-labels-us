@@ -2,7 +2,7 @@
 
 ## 2.1 Epilepsy
 
-Valproate sodium injection is for intravenous use only.
+Valproate sodium injection is for intravenous infusion only.
 
 Use of valproate sodium injection for periods of more than 14 days has not been studied.
 Patients should be switched to oral valproate products as soon as it is clinically feasible.
@@ -88,7 +88,7 @@ Dosing in Elderly Patients
 Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients.
 Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence.
-The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.13),Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
+The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.13), Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
 
 Dose-Related Adverse Reactions
 
@@ -111,8 +111,10 @@ Compatibility and Stability
 
 Valproate sodium injection was found to be physically compatible and chemically stable in the following parenteral solutions for at least 24 hours when stored in glass or polyvinyl chloride (PVC) bags at controlled room temperature 20° to 25°C (68° to 77°F).
 
-• dextrose (5%) injection, USP
+- dextrose (5%) injection, USP
+- sodium chloride (0.9%) injection, USP
+- lactated ringer's injection, USP
 
-• sodium chloride (0.9%) injection, USP
+## 2.3 Dosing in Patients Taking Rufinamide
 
-• lactated ringer's injection, USP
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].

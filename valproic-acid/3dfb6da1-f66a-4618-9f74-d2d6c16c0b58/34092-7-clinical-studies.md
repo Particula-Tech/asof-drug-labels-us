@@ -6,7 +6,7 @@ The studies described in the following section were conducted with oral divalpro
 
 The efficacy of valproate in reducing the incidence of complex partial seizures (CPS) that occur in isolation or in association with other seizure types was established in two controlled trials.
 
-In one, multiclinic, placebo controlled study employing an add-on design (adjunctive therapy), 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original anti-epilepsy drug (AED), either divalproex sodium or placebo.
+In one, multiclinic, placebo controlled study employing an add-on design (adjunctive therapy), 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the “therapeutic range” were randomized to receive, in addition to their original antiepilepsy drug (AED), either divalproex sodium or placebo.
 Randomized patients were to be followed for a total of 16 weeks.
 The following Table presents the findings.
 
@@ -38,7 +38,7 @@ The following Table presents the findings for all patients randomized who had at
 Table 5.
 Monotherapy Study Median Incidence of CPS per 8 Weeks
 
-| Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
+| Treatment | Number ofPatients | PatientsBaselineIncidence | Randomized Phase Incidence |
 | --- | --- | --- | --- |
 | High dose Divalproex sodium | 131 | 13.2 | 10.7* |
 | Low dose Divalproex sodium | 134 | 14.2 | 13.8 |
@@ -50,3 +50,5 @@ A positive percent reduction indicates an improvement (i.e., a decrease in seizu
 Thus, in a display of this type, the curve for a more effective treatment is shifted to the left of the curve for a less effective treatment.
 This Figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high dose valproate than for low dose valproate.
 For example, when switching from carbamazepine, phenytoin, phenobarbital or primidone monotherapy to high dose valproate monotherapy, 63% of patients experienced no change or a reduction in complex partial seizure rates compared to 54% of patients receiving low dose valproate.
+
+Information on pediatric studies is presented in section 8.

@@ -10,7 +10,7 @@ Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
 Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months of valproate therapy.
-However, physicians should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
+However, healthcare providers should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
 
 Caution should be observed when administering valproate products to patients with a prior history of hepatic disease.
 Patients on multiple anticonvulsants, children, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease may be at particular risk.
@@ -41,10 +41,6 @@ In some cases, hepatic dysfunction has progressed in spite of discontinuation of
 ## 5.2 Birth Defects
 
 Valproate can cause fetal harm when administered to a pregnant woman.
-Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular).
-The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
-Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
-Valproate can cause fetal harm when administered to a pregnant woman.
 Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
@@ -52,14 +48,14 @@ Evidence suggests that folic acid supplementation prior to conception and during
 ## 5.3 Decreased IQ Following in utero Exposure
 
 Valproate can cause decreased IQ scores following in utero exposure.
-Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another anti-epileptic drug or to no anti-epileptic drugs.
+Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs.
 The largest of these studies 1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
-94 to 101]) than children with prenatal exposure to the other anti-epileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
+94 to 101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
 105 to 110]), carbamazepine (105 [95% C.I.
 102 to 108]), and phenytoin (108 [95% C.I.
 104 to 112]).
 It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
-Because the women in this study were exposed to anti-epileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
+Because the women in this study were exposed to antiepileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
 
 Although all of the available studies have methodological limitations, the weight of the evidence supports the conclusion that valproate exposure in utero can cause decreased IQ in children.
 
@@ -102,12 +98,6 @@ Patients who develop symptoms of unexplained hyperammonemic encephalopathy while
 
 ## 5.7 Bleeding and Other Hematopoietic Disorders
 
-.
-In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 10 /L.
-Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
-In the remaining patients, platelet counts normalized with continued treatment.
-In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males).
-The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects..
 Valproate is associated with dose-related thrombocytopenia.
 In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 10 9/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
@@ -116,9 +106,7 @@ In this study, the probability of thrombocytopenia appeared to increase signific
 The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects.
 Valproate use has also been associated with decreases in other cell lines and myelodysplasia.
 
-Because of reports of inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters (e.g., low fibrinogen, counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
-It is recommended that patients receiving valproate be monitored for blood counts and coagulation parameters prior to planned surgery Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
-Because of reports of cytopenias, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters (e.g., low fibrinogen, coagulation factor deficiencies, acquired von Willebrand’s disease), measurements of complete blood counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
+Because of reports of cytopenias, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters (e.g., low fibrinogen, coagulation factor deficiencies, acquired von Willebrand's disease), measurements of complete blood counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
 It is recommended that patients receiving valproate be monitored for blood counts and coagulation parameters prior to planned surgery and during pregnancy [see Use in Specific Populations (8.1)].
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 
@@ -133,14 +121,13 @@ Appropriate interventions for treatment of hyperammonemia should be initiated, a
 Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels.
 If the elevation persists, discontinuation of valproate therapy should be considered.
 
-## 5.9 Hyperammonemia and Encephalopathy associated with Concomitant Topiramate Use
+## 5.9 Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use
 
 Concomitant administration of topiramate and valproate has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.10)].
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.
-It is not known if topiramate monotherapy is associated with hyperammonemia.
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, an interaction of topiramate and valproate may exacerbate existing defects or unmask deficiencies in susceptible persons.
 In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.8)].

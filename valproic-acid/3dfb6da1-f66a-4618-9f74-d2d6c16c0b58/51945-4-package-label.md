@@ -1,25 +1,29 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Valproate Sodium 5 mL Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Valproate Sodium 5 mL SIngle Dose Vial Label
 
-Valproate Sodium Injection
+NDC 63323-494-41
 
-500 mg per 5 mL
+Valproate Sodium Injection, USP
 
-Valproic Acid Activity
+500 mg* per 5 mL
 
 (100 mg per mL)
 
 For intravenous infusion only.
 Preservative free.
 
-5 mL Single Use Vial Rx only
+5 mL Single-dose Vial Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Valproate Sodium 5 mL Vial Tray Label Valproate Sodium Injection
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Valproate Sodium 5 mL Single Dose Vial Tray Label
 
-500 mg per 5 mL
+NDC 63323-494-16
 
-Valproic Acid Activity (100 mg per mL)
+Valproate Sodium Injection, USP
+
+500 mg* per 5 mL
+
+(100 mg per mL)
 
 For intravenous infusion only.
 Preservative free.
 
-10 x 5 mL Single Use Vials Rx only
+10 x 5 mL Single-dose Vials Rx only

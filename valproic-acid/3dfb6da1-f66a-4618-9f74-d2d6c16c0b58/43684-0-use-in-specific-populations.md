@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D for epilepsy [see Warnings and Precautions (5.2,5.3)].
+Pregnancy Category D for epilepsy [see Warnings and Precautions (5.2, 5.3)].
 
 Pregnancy Registry
 
@@ -18,10 +18,12 @@ The risk of major structural abnormalities is greatest during the first trimeste
 The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.3)].
 
 Several published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero [see Warnings and Precautions (5.3)].
+
 An observational study has suggested that exposure to valproate products during pregnancy may increase the risk of autism spectrum disorders.
 In this study, children born to mothers who had used valproate products during pregnancy had 2.9 times the risk (95% confidence interval [CI]: 1.7 to 4.9) of developing autism spectrum disorders compared to children born to mothers not exposed to valproate products during pregnancy.
 The absolute risks for autism spectrum disorders were 4.4% (95% CI: 2.6% to 7.5%) in valproate-exposed children and 1.5% (95% CI: 1.5% to 1.6%) in children not exposed to valproate products.
 Because the study was observational in nature, conclusions regarding a causal association between in utero valproate exposure and an increased risk of autism spectrum disorder cannot be considered definitive.
+
 In animal studies, offspring with prenatal exposure to valproate had structural malformations similar to those seen in humans and demonstrated neurobehavioral deficits.
 
 Clinical Considerations
@@ -29,14 +31,12 @@ Clinical Considerations
 - Neural tube defects are the congenital malformation most strongly associated with maternal valproate use.
   The risk of spina bifida following in utero valproate exposure is generally estimated as 1 to 2%, compared to an estimated general population risk for spina bifida of about 0.06 to 0.07% (6 to 7 in 10,000 births).
 - Valproate can cause decreased IQ scores in children whose mothers were treated with valproate during pregnancy.
-
 - Because of the risks of decreased IQ, neural tube defects, and other fetal adverse events, which may occur very early in pregnancy:
   - Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
     This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
   - Valproate should not be used to treat women with epilepsy who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
     In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
     When treating a pregnant woman or a woman of childbearing potential, carefully consider both the potential risks and benefits of treatment and provide appropriate counseling.
-
 - To prevent major seizures, women with epilepsy should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
   Even minor seizures may pose some hazard to the developing embryo or fetus.
   However, discontinuation of the drug may be considered prior to and during pregnancy in individual cases if the seizure disorder severity and frequency do not pose a serious threat to the patient.
@@ -56,7 +56,7 @@ Data
 Human
 
 There is an extensive body of evidence demonstrating that exposure to valproate in utero increases the risk of neural tube defects and other structural abnormalities.
-Based on published data from the CDC’s National Birth Defects Prevention Network, the risk of spina bifida in the general population is about 0.06 to 0.07%.
+Based on published data from the CDC's National Birth Defects Prevention Network, the risk of spina bifida in the general population is about 0.06 to 0.07%.
 The risk of spina bifida following in utero valproate exposure has been estimated to be approximately 1 to 2%.
 
 The NAAED Pregnancy Registry has reported a major malformation rate of 9 to 11% in the offspring of women exposed to an average of 1,000 mg/day of valproate monotherapy during pregnancy.
@@ -75,6 +75,7 @@ Because the women in this study were exposed to antiepileptic drugs throughout p
 Although all of the available studies have methodological limitations, the weight of the evidence supports a causal association between valproate exposure in utero and subsequent adverse effects on cognitive development.
 
 There are published case reports of fatal hepatic failure in offspring of women who used valproate during pregnancy.
+
 Animal
 
 In developmental toxicity studies conducted in mice, rats, rabbits, and monkeys, increased rates of fetal structural abnormalities, intrauterine growth retardation, and embryo-fetal death occurred following treatment of pregnant animals with valproate during organogenesis at clinically relevant doses (calculated on a body surface area basis).
