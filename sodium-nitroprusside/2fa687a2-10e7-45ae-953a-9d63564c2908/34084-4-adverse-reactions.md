@@ -3,7 +3,9 @@
 The most important adverse reactions to sodium nitroprusside are the avoidable ones of excessive hypotension and cyanide toxicity, described above under WARNINGS.
 The adverse reactions described in this section develop less rapidly and, as it happens, less commonly.
 
-Methemoglobinemia: As described in CLINICAL PHARMACOLOGY above, sodium nitroprusside infusions can cause sequestration of hemoglobin as methemoglobin.
+Methemoglobinemia
+
+As described in CLINICAL PHARMACOLOGY above, sodium nitroprusside infusions can cause sequestration of hemoglobin as methemoglobin.
 The back-conversion process is normally rapid, and clinically significant methemoglobinemia (>10%) is seen only rarely in patients receiving sodium nitroprusside.
 Even patients congenitally incapable of back-converting methemoglobin should demonstrate 10% methemoglobinemia only after they have received about 10 mg/kg of sodium nitroprusside, and a patient receiving sodium nitroprusside at the maximum recommended rate (10 mcg/kg/min) would take over 16 hours to reach this total accumulated dose.
 
@@ -11,10 +13,12 @@ Methemoglobin levels can be measured by most clinical laboratories.
 The diagnosis should be suspected in patients who have received >10 mg/kg of sodium nitroprusside and who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial pO2.
 Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air.
 
-When methemoglobinemia is diagnosed, the treatment of choice is 1 to 2 mg/kg of methylene blue, administered intravenously over several minutes.
+When methemoglobinemia is diagnosed, the treatment of choice is 1 mg/kg to 2 mg/kg of methylene blue, administered intravenously over several minutes.
 In patients likely to have substantial amounts of cyanide bound to methemoglobin as cyanmethemoglobin, treatment of methemoglobinemia with methylene blue must be undertaken with extreme caution.
 
-Thiocyanate Toxicity: As described in CLINICAL PHARMACOLOGY above, most of the cyanide produced during metabolism of sodium nitroprusside is eliminated in the form of thiocyanate.
+Thiocyanate Toxicity
+
+As described in CLINICAL PHARMACOLOGY above, most of the cyanide produced during metabolism of sodium nitroprusside is eliminated in the form of thiocyanate.
 When cyanide elimination is accelerated by the co-infusion of thiosulfate, thiocyanate production is increased.
 
 Thiocyanate is mildly neurotoxic (tinnitus, miosis, hyperreflexia) at serum levels of 1 mmol/L (60 mg/L).
@@ -48,4 +52,4 @@ Neurologic: Increased intracranial pressure.
 
 Miscellaneous: Flushing, venous streaking, irritation at the infusion site.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Amneal Biosciences at 1-855-266-3251 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

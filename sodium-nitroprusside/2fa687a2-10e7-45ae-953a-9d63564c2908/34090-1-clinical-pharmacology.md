@@ -10,13 +10,15 @@ Dilatation of the coronary arteries also occurs.
 In association with the decrease in blood pressure, sodium nitroprusside administered intravenously to hypertensive and normotensive patients produces slight increases in heart rate and a variable effect on cardiac output.
 In hypertensive patients, moderate doses induce renal vasodilatation roughly proportional to the decrease in systemic blood pressure, so there is no appreciable change in renal blood flow or glomerular filtration rate.
 
-In normotensive subjects, acute reduction of mean arterial pressure to 60 to 75 mm Hg by infusion of sodium nitroprusside caused a significant increase in renin activity.
-In the same study, ten renovascular-hypertensive patients given sodium nitroprusside had significant increases in renin release from the involved kidney at mean arterial pressures of 90 to 137 mm Hg.
+In normotensive subjects, acute reduction of mean arterial pressure to 60 mm Hg to 75 mm Hg by infusion of sodium nitroprusside caused a significant increase in renin activity.
+In the same study, ten renovascular-hypertensive patients given sodium nitroprusside had significant increases in renin release from the involved kidney at mean arterial pressures of 90 mm Hg to 137 mm Hg.
 
 The hypotensive effect of sodium nitroprusside is seen within a minute or two after the start of an adequate infusion, and it dissipates almost as rapidly after an infusion is discontinued.
 The effect is augmented by ganglionic blocking agents and inhaled anesthetics.
 
-Pharmacokinetics and Metabolism: Infused sodium nitroprusside is rapidly distributed to a volume that is approximately coextensive with the extracellular space.
+Pharmacokinetics and Metabolism
+
+Infused sodium nitroprusside is rapidly distributed to a volume that is approximately coextensive with the extracellular space.
 The drug is cleared from this volume by intraerythrocytic reaction with hemoglobin (Hgb), and sodium nitroprusside’s resulting circulatory half-life is about 2 minutes.
 
 The products of the nitroprusside/hemoglobin reaction are cyanmethemoglobin (cyanmetHgb) and cyanide ion (CN-).
@@ -47,7 +49,7 @@ Nitroprusside metabolism can lead to methemoglobin formation (a) through dissoci
 Relatively large quantities of sodium nitroprusside, however, are required to produce significant methemoglobinemia.
 
 At physiologic methemoglobin levels, the CN- binding capacity of packed red cells is a little less than 200 μmol/L (5 mg/L).
-Cytochrome toxicity is seen at levels only slightly higher, and death has been reported at levels from 300 to 3000 μmol/L (8 to 80 mg/L).
+Cytochrome toxicity is seen at levels only slightly higher, and death has been reported at levels from 300 μmol/L to 3000 μmol/L (8 mg/L to 80 mg/L).
 Put another way, a patient with a normal red-cell mass (35 mL/kg) and normal methemoglobin levels can buffer about 175 mcg/kg of CN-, corresponding to a little less than 500 mcg/kg of infused sodium nitroprusside.
 
 Some cyanide is eliminated from the body as expired hydrogen cyanide, but most is enzymatically converted to thiocyanate (SCN-) by thiosulfate-cyanide sulfur transferase (rhodanase, EC 2.8.1.1), a mitochondrial enzyme.
@@ -62,13 +64,13 @@ When thiosulfate is being supplied only by normal physiologic mechanisms, conver
 This rate of CN- clearance corresponds to steady-state processing of a sodium nitroprusside infusion of slightly more than 2 mcg/kg/min.
 CN- begins to accumulate when sodium nitroprusside infusions exceed this rate.
 
-Thiocyanate (SCN-) is also a normal physiological constituent of serum, with normal levels typically in the range of 50 to 250 μmol/L (3 to 15 mg/L).
-Clearance of SCN- is primarily renal, with a half-life of about
-
-3 days.
+Thiocyanate (SCN-) is also a normal physiological constituent of serum, with normal levels typically in the range of 50 μmol/L to 250 μmol/L (3 mg/L to 15 mg/L).
+Clearance of SCN- is primarily renal, with a half-life of about 3 days.
 In renal failure, the half-life can be doubled or tripled.
 
-Clinical Trials: Baseline-controlled clinical trials have uniformly shown that sodium nitroprusside has a prompt hypotensive effect, at least initially, in all populations.
+Clinical Trials
+
+Baseline-controlled clinical trials have uniformly shown that sodium nitroprusside has a prompt hypotensive effect, at least initially, in all populations.
 With increasing rates of infusion, sodium nitroprusside has been able to lower blood pressure without an observed limit of effect.
 
 Clinical trials have also shown that the hypotensive effect of sodium nitroprusside is associated with reduced blood loss in a variety of major surgical procedures.
@@ -84,7 +86,9 @@ This tachyphylaxis has frequently been attributed to concomitant cyanide toxicit
 In the only reported comparisons of cyanide levels in resistant and nonresistant patients, cyanide levels did not correlate with tachyphylaxis.
 The mechanism of tachyphylaxis to sodium nitroprusside remains unknown.
 
-Pediatric: The effects of sodium nitroprusside to induce hypotension were evaluated in two trials in
+Pediatric
+
+The effects of sodium nitroprusside to induce hypotension were evaluated in two trials in
 
 pediatric patients less than 17 years of age.
 In both trials, at least 50% of the patients were pre-pubertal, and about 50% of these pre-pubertal patients were less than 2 years of age, including 4 neonates.

@@ -4,19 +4,23 @@
 
 The principal hazards of sodium nitroprusside administration are excessive hypotension and excessive accumulation of cyanide (see also OVERDOSAGE and DOSAGE AND ADMINISTRATION).
 
-Excessive Hypotension: Small transient excesses in the infusion rate of sodium nitroprusside can result in excessive hypotension, sometimes to levels so low as to compromise the perfusion of vital organs.
+Excessive Hypotension
+
+Small transient excesses in the infusion rate of sodium nitroprusside can result in excessive hypotension, sometimes to levels so low as to compromise the perfusion of vital organs.
 These hemodynamic changes may lead to a variety of associated symptoms; see ADVERSE REACTIONS.
 Nitroprusside-induced hypotension will be self-limited within 1 to 10 minutes after discontinuation of the nitroprusside infusion; during these few minutes, it may be helpful to put the patient into a head-down (Trendelenburg) position to maximize venous return.
 If hypotension persists more than a few minutes after discontinuation of the infusion of sodium nitroprusside, sodium nitroprusside is not the cause, and the true cause must be sought.
 
-Cyanide Toxicity: As described in CLINICAL PHARMACOLOGY above, sodium nitroprusside infusions at rates above 2 mcg/kg/min generate cyanide ion (CN-) faster than the body can normally dispose of it.
+Cyanide Toxicity
+
+As described in CLINICAL PHARMACOLOGY above, sodium nitroprusside infusions at rates above 2 mcg/kg/min generate cyanide ion (CN-) faster than the body can normally dispose of it.
 (When sodium thiosulfate is given, as described under DOSAGE AND ADMINISTRATION, the body’s capacity for CN- elimination is greatly increased.)
 Methemoglobin normally present in the body can buffer a certain amount of CN-, but the capacity of this system is exhausted by the CN- produced from about 500 mcg/kg of sodium nitroprusside.
 This amount of sodium nitroprusside is administered in less than an hour when the drug is administered at 10 mcg/kg/min (the maximum recommended rate).
 Thereafter, the toxic effects of CN- may be rapid, serious, and even lethal.
 
 The true rates of clinically important cyanide toxicity cannot be assessed from spontaneous reports or published data.
-Most patients reported to have experienced such toxicity have received relatively prolonged infusions, and the only patients whose deaths have been unequivocally attributed to nitroprusside-induced cyanide toxicity have been patients who had received nitroprusside infusions at rates (30 to 120 mcg/kg/min) much greater than those now recommended.
+Most patients reported to have experienced such toxicity have received relatively prolonged infusions, and the only patients whose deaths have been unequivocally attributed to nitroprusside-induced cyanide toxicity have been patients who had received nitroprusside infusions at rates (30 mcg/kg/min to 120 mcg/kg/min) much greater than those now recommended.
 Elevated cyanide levels, metabolic acidosis, and marked clinical deterioration, however, have occasionally been reported in patients who received infusions at recommended rates for only a few hours and even, in one case, for only 35 minutes.
 In some of these cases, infusion of sodium thiosulfate caused dramatic clinical improvement, supporting the diagnosis of cyanide toxicity.
 
@@ -34,7 +38,9 @@ In patients whose intracranial pressure is already elevated, sodium nitroprussid
 
 Hepatic: Use caution when administering nitroprusside to patients with hepatic insufficiency.
 
-Use in Anesthesia: When sodium nitroprusside (or any other vasodilator) is used for controlled hypotension during anesthesia, the patient’s capacity to compensate for anemia and hypovolemia may be diminished.
+Use in Anesthesia
+
+When sodium nitroprusside (or any other vasodilator) is used for controlled hypotension during anesthesia, the patient’s capacity to compensate for anemia and hypovolemia may be diminished.
 If possible, pre-existing anemia and hypovolemia should be corrected prior to administration of sodium nitroprusside.
 
 Hypotensive anesthetic techniques may also cause abnormalities of the pulmonary ventilation/perfusion ratio.
@@ -52,14 +58,16 @@ Cyanide toxicity will lead to lactic acidosis and venous hyperoxemia, but these 
 
 The hypotensive effect of sodium nitroprusside is augmented by that of most other hypotensive drugs, including ganglionic blocking agents, negative inotropic agents, and inhaled anesthetics.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Animal studies assessing sodium nitroprusside’s carcinogenicity and mutagenicity have not been conducted.
 Similarly, sodium nitroprusside has not been tested for effects on fertility.
 
 ## Pregnancy
 
-Teratogenic effects: Pregnancy Category C.
+Teratogenic effects
+
+Pregnancy Category C
 
 There are no adequate, well-controlled studies of sodium nitroprusside in either laboratory animals or pregnant women.
 It is not known whether sodium nitroprusside can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
@@ -74,7 +82,7 @@ Pregnant ewes infused with 1 mcg/kg/min of sodium nitroprusside for one hour del
 According to one investigator, a pregnant woman at 24 weeks gestation was given sodium nitroprusside to control gestational hypertension secondary to mitral valve disease.
 Sodium nitroprusside was infused at 3.9 mcg/kg/min for a total of 3.5 mg/kg over 15 hours prior to delivery of a 478 gram stillborn infant without any obvious anomalies.
 Cyanide levels in the fetal liver were less than 10 mcg/mL.
-Toxic levels have been reported to be more than 30 to 40 mcg/mL.
+Toxic levels have been reported to be more than 30 mcg/mL to 40 mcg/mL.
 The mother demonstrated no cyanide toxicity.
 
 The effects of administering sodium thiosulfate in pregnancy, either by itself or as a co-infusion with sodium nitroprusside, are completely unknown.
