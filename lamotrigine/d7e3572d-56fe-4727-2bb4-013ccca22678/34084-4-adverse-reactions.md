@@ -383,7 +383,7 @@ Pancreatitis.
 
 Immunologic
 
-Lupus-like reaction, vasculitis.
+Hypogammaglobulinemia, lupus-like reaction, vasculitis.
 
 Lower Respiratory
 

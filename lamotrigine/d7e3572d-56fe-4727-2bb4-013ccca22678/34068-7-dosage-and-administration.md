@@ -65,7 +65,7 @@ Patients Taking Atazanavir/Ritonavir
 
 While atazanavir/ritonavir does reduce the lamotrigine plasma concentration, no adjustments to the recommended dose-escalation guidelines for LAMICTAL should be necessary solely based on the use of atazanavir/ritonavir.
 Dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL based on concomitant AED or other concomitant medications (see Tables 1, 2, and 5).
-In patients already taking maintenance doses of LAMICTAL and not taking glucuronidation inducers, the dose of LAMICTAL may need to be increased if atazanavir/ritonavir is added, or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
+In patients already taking maintenance doses of LAMICTAL and not taking glucuronidation inducers, the dose of LAMICTAL may need to be increased if atazanavir/ritonavir is added or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
 
 Patients with Hepatic Impairment
 
