@@ -1,6 +1,6 @@
-# Package/Label Display Panel, Part 1 of 2
+# 40 mcg Package/Label Display Panel, Part 1 of 2
 
-# Package/Label Display Panel, Part 2 of 2
+# 40 mcg Package/Label Display Panel, Part 2 of 2
 
 ## QVAR® RediHaler™ (beclomethasone dipropionate HFA) 40 mcg, 120 Metered Inhalations Carton Text
 
@@ -34,9 +34,9 @@ Inhalations
 
 TEVA
 
-# Package/Label Display Panel, Part 1 of 2
+# 80 mcg Package/Label Display Panel, Part 1 of 2
 
-# Package/Label Display Panel, Part 2 of 2
+# 80 mcg Package/Label Display Panel, Part 2 of 2
 
 ## QVAR® RediHaler™ (beclomethasone dipropionate HFA) 80 mcg, 120 Metered Inhalations Carton Text
 
