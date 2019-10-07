@@ -2,7 +2,7 @@
 
 NDC 24208-434-10
 
-Ofloxacin Ophthalmic Solution 0.3% (Sterile)
+Ofloxacin Ophthalmic Solution 0.3% Sterile
 
 FOR OPHTHALMIC USE ONLY
 

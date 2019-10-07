@@ -7,17 +7,7 @@ Chemical Name:
 
 (±)-9-Fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido[1,2,3-de]-1,4- benzoxazine-6-carboxylic acid.
 
-C18H20FN3O4
-
-Mol.
-Wt.
-361.37
-
-CONTAINS: ACTIVE: ofloxacin 0.3% (3 mg/mL)
-
-PRESERVATIVE ADDED: benzalkonium chloride (0.005%)
-
-INACTIVES: sodium chloride and purified water.
+CONTAINS: ACTIVE: ofloxacin 0.3% (3 mg/mL) PRESERVATIVE ADDED: benzalkonium chloride (0.005%) INACTIVES: sodium chloride and purified water.
 May also contain hydrochloric acid and/or sodium hydroxide may be added to adjust pH.
 
 Ofloxacin Ophthalmic Solution is unbuffered and formulated with a pH of 6.4 (range - 6.0 to 6.8).

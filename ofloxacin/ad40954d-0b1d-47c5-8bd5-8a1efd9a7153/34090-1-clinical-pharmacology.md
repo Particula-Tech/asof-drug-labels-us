@@ -23,34 +23,22 @@ Cross-resistance has been observed between ofloxacin and other fluoroquinolones.
 There is generally no cross-resistance between ofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
 Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections (see INDICATIONS and USAGE).
 
-AEROBES, GRAM-POSITIVE:
+AEROBES, GRAM-POSITIVE: Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae
 
-Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae
+AEROBES, GRAM-NEGATIVE: Enterobacter cloacae Haemophilus influenzae Proteus mirablis Pseudomonas aeruginosa Serratia marcescens*
 
-AEROBES, GRAM-NEGATIVE:
-
-Enterobacter cloacae Haemophilus influenzae Proteus mirablis Pseudomonas aeruginosa Serratia marcescens*
-
-ANAEROBIC SPECIES:
-
-Propionibacterium acnes
+ANAEROBIC SPECIES: Propionibacterium acnes
 
 *Efficacy for this organism was studied in fewer than 10 infections.
 
 The safety and effectiveness of Ofloxacin Ophthalmic Solution in treating ophthalmologic infections due to the following organisms have not been established in adequate and well-controlled clinical trials.
 Ofloxacin Ophthalmic Solution has been shown to be active in vitro against most strains of these organisms but the clinical significance in ophthalmologic infections is unknown.
 
-AEROBES, GRAM-POSITIVE:
+AEROBES, GRAM-POSITIVE: Enterococcus faecalis Listeria monocytogenes Staphylococcus capitis Staphylococcus hominus Staphylococcus simulans Streptococcus pyogenes
 
-Enterococcus faecalis Listeria monocytogenes Staphylococcus capitis Staphylococcus hominus Staphylococcus simulans Streptococcus pyogenes
+AEROBES, GRAM-NEGATIVE: Acinetobacter calcoaceticus var. anitratus Acinetobacter calcoaceticus var. lwoffi Citrobacter diversus Citrobacter freundii Enterobacter aerogenes Enterobacter agglomerans Escherichia coli Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae Moraxella (Branhamella) catarrhalis Moraxella lacunata Morganella morganii Neisseria gonorrhoeae Pseudomonas acidovorans Pseudomonas fluorescens Shigella sonnei
 
-AEROBES, GRAM-NEGATIVE:
-
-Acinetobacter calcoaceticus var. anitratus Acinetobacter calcoaceticus var. lwoffi Citrobacter diversus Citrobacter freundii Enterobacter aerogenes Enterobacter agglomerans Escherichia coli Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae Moraxella (Branhamella) catarrhalis Moraxella lacunata Morganella morganii Neisseria gonorrhoeae Pseudomonas acidovorans Pseudomonas fluorescens Shigella sonnei
-
-OTHER:
-
-Chlamydia trachomatis
+OTHER: Chlamydia trachomatis
 
 ## Clinical Studies
 
