@@ -49,7 +49,7 @@ What else do I need to know about antidepressant medicines?
 - Never stop an antidepressant medicine without first talking to your healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
 - Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  It is important to discuss all the risks of treating depression, and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
 - Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
@@ -79,7 +79,7 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 
 - diabetes or high blood sugar in you or your family.
   Your healthcare provider should check your blood sugar before you start quetiapine tablets and also during therapy
-- high levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL-cholesterol
+- high levels of total cholesterol, triglycerides or LDL-cholesterol, or low levels of HDL-cholesterol
 - low or high blood pressure
 - low white blood cell count
 - cataracts
@@ -91,13 +91,13 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 - any other medical condition
 - pregnancy or plans to become pregnant.
   It is not known if quetiapine tablets will harm your unborn baby.
-- breast-feeding or plans to breast-feed.
+- If you become pregnant while receiving quetiapine fumarate, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+  You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/ breast-feeding or plans to breast-feed.
   Quetiapine fumarate can pass into your breast milk.
-  You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
-  You should not do both.
+  Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine fumarate.
 - if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
-Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
+Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements, and vitamins.
 
 Quetiapine tablets and other medicines may affect each other causing serious side effects.
 Quetiapine tablets may affect the way other medicines work, and other medicines may affect how quetiapine tablets work.
@@ -154,7 +154,7 @@ Quetiapine tablets can cause serious side effects, including:
   Extremely high blood sugar can lead to coma or death.
   If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine tablets and during therapy.
   Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine tablets:
-  - build up of acid in your blood due to ketones (ketoacidosis)
+  - build-up of acid in your blood due to ketones (ketoacidosis)
   - coma
   - death
   - feel very thirsty
@@ -212,11 +212,11 @@ In Children and Adolescents:
 - drowsiness
 - dizziness
 - fatigue
-- ·nausea
+- nausea
 - dry mouth
 - weight gain
 - increased appetite
-- ·vomiting
+- vomiting
 - rapid heart beat
 
 These are not all the possible side effects of quetiapine tablets.
@@ -235,7 +235,7 @@ General information about the safe and effective use of quetiapine tablets
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use quetiapine tablets for a condition for which they were not prescribed.
 Do not give quetiapine tablets to other people, even if they have the same symptoms you have.
-They may harm them.
+It may harm them.
 
 This Medication Guide summarizes the most important information about quetiapine tablets.
 If you would like more information, talk with your healthcare provider.
@@ -258,4 +258,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-H 12/2018
+I 8/2019

@@ -44,12 +44,12 @@ However, there is substantial evidence from placebo-controlled maintenance trial
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
+The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and non-psychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and non-psychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for quetiapine fumarate should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
@@ -72,7 +72,7 @@ Additional signs may include elevated creatinine phosphokinase, myoglobinuria (r
 
 The diagnostic evaluation of patients with this syndrome is complicated.
 In arriving at a diagnosis, it is important to exclude cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology.
+Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system (CNS) pathology.
 
 The management of NMS should include: 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; 2) intensive symptomatic treatment and medical monitoring; and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
 There is no general agreement about specific pharmacological treatment regimens for NMS.
@@ -103,15 +103,17 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults:
 
-| Table 3: Fasting Glucose - Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤12 weeks) Placebo-Controlled StudiesIncludes quetiapine fumarate and quetiapine fumarate extended-release data. |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 3: Fasting Glucose - Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤12 weeks) Placebo-Controlled Studies1
+
 | LaboratoryAnalyte | Category Change(At Least Once)from Baseline | Treatment Arm | N | Patientsn (%) |
+| --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2,907 | 71 (2.4%) |
 | Placebo | 1,346 | 19 (1.4%) |  |  |
 | Borderline to High | Quetiapine | 572 | 67 (11.7%) |  |
 | (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Placebo | 279 | 33 (11.8%) |  |
+| 1. Includes quetiapine fumarate and quetiapine fumarate extended-release data. |  |  |  |  |
 
-In a 24-week trial (active-controlled, 115 patients treated with quetiapine fumarate) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a post-glucose challenge glucose level ≥200 mg/dL was 1.7% and the incidence of a fasting blood glucose level ≥ 126 mg/dL was 2.6%.
+In a 24-week trial (active-controlled, 115 patients treated with quetiapine fumarate) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at Week 24 the incidence of a post-glucose challenge glucose level ≥200 mg/dL was 1.7% and the incidence of a fasting blood glucose level ≥126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2-hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
 In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine fumarate (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for quetiapine fumarate and -0.05 mg/dL for placebo.
@@ -131,55 +133,57 @@ Dyslipidemia
 
 Adults:
 
-Table 4 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by indication in clinical trials with quetiapine fumarate.
+Table 4 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline by indication in clinical trials with quetiapine fumarate.
 
-Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
+Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol, and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥240 mg/dL | Schizophrenia6 weeks duration | Quetiapine Fumarate | 137 | 24 (18%) |
+| Total Cholesterol ≥240 mg/dL | Schizophrenia1 | Quetiapine Fumarate | 137 | 24 (18%) |
 | Placebo | 92 | 6 (7%) |  |  |
-| Bipolar Depression8 weeks duration | Quetiapine Fumarate | 463 | 41 (9%) |  |
+| Bipolar Depression2 | Quetiapine Fumarate | 463 | 41 (9%) |  |
 | Placebo | 250 | 15 (6%) |  |  |
-| Triglycerides ≥200 mg/dL | Schizophrenia | Quetiapine Fumarate | 120 | 26 (22%) |
+| Triglycerides ≥200 mg/dL | Schizophrenia1 | Quetiapine Fumarate | 120 | 26 (22%) |
 | Placebo | 70 | 11 (16%) |  |  |
-| Bipolar Depression | Quetiapine Fumarate | 436 | 59 (14%) |  |
+| Bipolar Depression2 | Quetiapine Fumarate | 436 | 59 (14%) |  |
 | Placebo | 232 | 20 (9%) |  |  |
-| LDL-Cholesterol ≥160 mg/dL | Schizophrenia | Quetiapine Fumarate | naParameters not measured in the quetiapine fumarate registration studies for schizophrenia. Lipid parameters also were not measured in the bipolar mania registration studies. | na |
-| Placebo | na | na |  |  |
-| Bipolar Depression | Quetiapine Fumarate | 465 | 29 (6%) |  |
+| LDL-Cholesterol ≥160 mg/dL | Schizophrenia1 | Quetiapine Fumarate | na3 | na3 |
+| Placebo | na3 | na3 |  |  |
+| Bipolar Depression2 | Quetiapine Fumarate | 465 | 29 (6%) |  |
 | Placebo | 256 | 12 (5%) |  |  |
-| HDL-Cholesterol ≤40 mg/dL | Schizophrenia | Quetiapine Fumarate | na | na |
-| Placebo | na | na |  |  |
-| Bipolar Depression | Quetiapine Fumarate | 393 | 56 (14%) |  |
+| HDL-Cholesterol ≤40 mg/dL | Schizophrenia1 | Quetiapine Fumarate | na3 | na3 |
+| Placebo | na3 | na3 |  |  |
+| Bipolar Depression2 | Quetiapine Fumarate | 393 | 56 (14%) |  |
 | Placebo | 214 | 29 (14%) |  |  |
+| 6 weeks duration8 weeks durationParameters not measured in the quetiapine fumarate registration studies for schizophrenia. |  |  |  |  |
 
 Children and Adolescents:
 
-Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline in clinical trials with quetiapine fumarate.
+Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline in clinical trials with quetiapine fumarate.
 
-Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels
+Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol, and HDL-Cholesterol from Baseline to Clinically Significant Levels
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥200 mg/dL | Schizophrenia13 to 17 years, 6 weeks duration | Quetiapine Fumarate | 107 | 13 (12%) |
+| Total Cholesterol ≥200 mg/dL | Schizophrenia1 | Quetiapine Fumarate | 107 | 13 (12%) |
 | Placebo | 56 | 1 (2%) |  |  |
-| Bipolar Mania10 to 17 years, 3 weeks duration | Quetiapine Fumarate | 159 | 16 (10%) |  |
+| Bipolar Mania2 | Quetiapine Fumarate | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
-| Triglycerides ≥150 mg/dL | Schizophrenia | Quetiapine Fumarate | 103 | 17 (17%) |
+| Triglycerides ≥150 mg/dL | Schizophrenia1 | Quetiapine Fumarate | 103 | 17 (17%) |
 | Placebo | 51 | 4 (8%) |  |  |
-| Bipolar Mania | Quetiapine Fumarate | 149 | 32 (22%) |  |
+| Bipolar Mania2 | Quetiapine Fumarate | 149 | 32 (22%) |  |
 | Placebo | 60 | 8 (13%) |  |  |
-| LDL-Cholesterol ≥130 mg/dL | Schizophrenia | Quetiapine Fumarate | 112 | 4 (4%) |
+| LDL-Cholesterol ≥130 mg/dL | Schizophrenia1 | Quetiapine Fumarate | 112 | 4 (4%) |
 | Placebo | 60 | 1 (2%) |  |  |
-| Bipolar Mania | Quetiapine Fumarate | 169 | 13 (8%) |  |
+| Bipolar Mania2 | Quetiapine Fumarate | 169 | 13 (8%) |  |
 | Placebo | 74 | 4 (5%) |  |  |
-| HDL-Cholesterol ≤40 mg/dL | Schizophrenia | Quetiapine Fumarate | 104 | 16 (15%) |
+| HDL-Cholesterol ≤40 mg/dL | Schizophrenia1 | Quetiapine Fumarate | 104 | 16 (15%) |
 | Placebo | 54 | 10 (19%) |  |  |
-| Bipolar Mania | Quetiapine Fumarate | 154 | 16 (10%) |  |
+| Bipolar Mania2 | Quetiapine Fumarate | 154 | 16 (10%) |  |
 | Placebo | 61 | 4 (7%) |  |  |
+| 1. 13 to 17 years, 6 weeks duration 2. 10 to 17 years, 3 weeks duration |  |  |  |  |
 
-In a placebo-controlled quetiapine fumarate extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL) and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine fumarate extended-release vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine fumarate extended-release vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine fumarate extended-release vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine fumarate extended-release vs. 15% (11/74) for placebo.
+In a placebo-controlled quetiapine fumarate extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine fumarate extended-release vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine fumarate extended-release vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine fumarate extended-release vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine fumarate extended-release vs. 15% (11/74) for placebo.
 
 Weight Gain
 
@@ -194,34 +198,36 @@ Table 6: Proportion of Patients with Weight Gain ≥7% of Body Weight (Adults)
 
 | Vital Sign | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥7% of Body Weight | Schizophreniaup to 6 weeks duration | Quetiapine Fumarate | 391 | 89 (23%) |
+| Weight Gain ≥7% of Body Weight | Schizophrenia1 | Quetiapine Fumarate | 391 | 89 (23%) |
 | Placebo | 206 | 11 (6%) |  |  |
-| Bipolar Mania (monotherapy)up to 12 weeks duration | Quetiapine Fumarate | 209 | 44 (21%) |  |
+| Bipolar Mania (monotherapy)2 | Quetiapine Fumarate | 209 | 44 (21%) |  |
 | Placebo | 198 | 13 (7%) |  |  |
-| Bipolar Mania (adjunct therapy)up to 3 weeks duration | Quetiapine Fumarate | 196 | 25 (13%) |  |
+| Bipolar Mania (adjunct therapy)3 | Quetiapine Fumarate | 196 | 25 (13%) |  |
 | Placebo | 203 | 8 (4%) |  |  |
-| Bipolar Depressionup to 8 weeks duration | Quetiapine Fumarate | 554 | 47 (8%) |  |
+| Bipolar Depression4 | Quetiapine Fumarate | 554 | 47 (8%) |  |
 | Placebo | 295 | 7 (2%) |  |  |
+| 1. up to 6 weeks duration 2. up to 12 weeks duration 3. up to 3 weeks duration 4. up to 8 weeks duration |  |  |  |  |
 
 Children and Adolescents:
 
-In two clinical trials with quetiapine fumarate, one in bipolar mania and one in schizophrenia, reported increases in weight are included in table 7.
+In two clinical trials with quetiapine fumarate, one in bipolar mania and one in schizophrenia, reported increases in weight are included in Table 7.
 
 Table 7: Proportion of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
 
 | Vital Sign | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥7% of Body Weight | Schizophrenia6 weeks duration | Quetiapine Fumarate | 111 | 23 (21%) |
+| Weight Gain ≥7% of Body Weight | Schizophrenia1 | Quetiapine Fumarate | 111 | 23 (21%) |
 | Placebo | 44 | 3 (7%) |  |  |
-| Bipolar Mania3 weeks duration | Quetiapine Fumarate | 157 | 18 (12%) |  |
+| Bipolar Mania2 | Quetiapine Fumarate | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
+| 1. 6 weeks duration 2. 3 weeks duration |  |  |  |  |
 
 The mean change in body weight in the schizophrenia trial was 2.0 kg in the quetiapine fumarate group and -0.4 kg in the placebo group and in the bipolar mania trial, it was 1.7 kg in the quetiapine fumarate group and 0.4 kg in the placebo group.
 
 In an open-label study that enrolled patients from the above two pediatric trials, 63% of patients (241/380) completed 26 weeks of therapy with quetiapine fumarate.
 After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
 Forty-five percent of the patients gained ≥7% of their body weight, not adjusted for normal growth.
-In order to adjust for normal growth over 26 weeks an increase of at least 0.5 standard deviation from baseline in BMI was used as a measure of a clinically significant change; 18.3% of patients on quetiapine fumarate met this criterion after 26 weeks of treatment.
+In order to adjust for normal growth over 26 weeks, an increase of at least 0.5 standard deviation from baseline in BMI was used as a measure of a clinically significant change; 18.3% of patients on quetiapine fumarate met this criterion after 26 weeks of treatment.
 
 In a clinical trial for quetiapine fumarate extended-release in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of patients with weight gain ≥7% of body weight at any time was 15% (14/92) for quetiapine fumarate extended-release vs. 10% (10/100) for placebo.
 The mean change in body weight was 1.4 kg in the quetiapine fumarate extended-release group vs. 0.6 kg in the placebo group.
@@ -237,7 +243,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -255,13 +261,13 @@ Quetiapine may induce orthostatic hypotension associated with dizziness, tachyca
 Syncope was reported in 1% (28/3,265) of the patients treated with quetiapine fumarate, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
-Quetiapine fumarate should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications).
+Quetiapine fumarate should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2.2)].
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
 ## 5.8 Falls
 
-Atypical antipsychotic drugs, including quetiapine fumarate, may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+Atypical antipsychotic drugs, including quetiapine fumarate, may cause somnolence, postural hypotension, motor, and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.9 Increases in Blood Pressure (Children and Adolescents)
@@ -272,7 +278,7 @@ Blood pressure in children and adolescents should be measured at the beginning o
 
 In a placebo-controlled quetiapine fumarate extended-release clinical trial (8 weeks duration) in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 6.5% (6/92) for quetiapine fumarate extended-release and 6.0% (6/100) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 46.7% (43/92) for quetiapine fumarate extended-release and 36.0% (36/100) for placebo.
 
-## 5.10 Leukopenia, Neutropenia and Agranulocytosis
+## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine fumarate.
 Agranulocytosis has been reported.
@@ -289,7 +295,7 @@ Patients with severe neutropenia (absolute neutrophil count <1,000/mm3) should d
 ## 5.11 Cataracts
 
 The development of cataracts was observed in association with quetiapine treatment in chronic dog studies [see Nonclinical Toxicology (13.2)].
-Lens changes have also been observed in adults, children and adolescents during long-term quetiapine fumarate treatment, but a causal relationship to quetiapine fumarate use has not been established.
+Lens changes have also been observed in adults, children, and adolescents during long-term quetiapine fumarate treatment, but a causal relationship to quetiapine fumarate use has not been established.
 Nevertheless, the possibility of lenticular changes cannot be excluded at this time.
 Therefore, examination of the lens by methods adequate to detect cataract formation, such as slit lamp exam or other appropriately sensitive methods, is recommended at initiation of treatment or shortly thereafter, and at 6-month intervals during chronic treatment.
 
@@ -303,7 +309,7 @@ The use of quetiapine should be avoided in combination with other drugs that are
 
 Quetiapine should also be avoided in circumstances that may increase the risk of occurrence of torsade de pointes and/or sudden death including (1) a history of cardiac arrhythmias such as bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
 
-Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g., cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure and heart hypertrophy).
+Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g., cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure, and heart hypertrophy).
 
 ## 5.13 Seizures
 
@@ -331,17 +337,19 @@ In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-| Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline. Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 m1U/L at any time.Includes quetiapine fumarate and quetiapine fumarate extended-release data. |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical Trials1, 2
+
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
 | 3.4%(37/1,097) | 0.6%(4/651) | 0.7%(52/7,218) | 0.1%(4/3,668) | 0.5%(2/369) | 0.0%(0/113) | 0.2%(11/5,673) | 0.0%(1/2,679) | 3.2%(240/7,587) | 2.7%(105/3,912) |
+| 1. Based on shifts from normal baseline to potentially clinically important value at any time post-baseline. Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.2. Includes quetiapine fumarate and quetiapine fumarate extended-release data. |  |  |  |  |  |  |  |  |  |
 
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0% for both quetiapine (1/4,800) and placebo (0/2,190) and for T4 and TSH the shifts were 0.1% (7/6,154) for quetiapine versus 0.0% (1/3,007) for placebo.
 
 Children and Adolescents:
 
-In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine fumarate treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
+In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine fumarate treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively, and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145), respectively.
 Of the quetiapine fumarate treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
 ## 5.15 Hyperprolactinemia
@@ -359,7 +367,7 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
+As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
 
 ## 5.16 Potential for Cognitive and Motor Impairment
@@ -387,7 +395,7 @@ Quetiapine fumarate and other antipsychotic drugs should be used cautiously in p
 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine fumarate.
 In short-term placebo-controlled, monotherapy clinical trials with quetiapine fumarate extended-release that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1,993) for quetiapine fumarate extended-release and 6.7% (71/1,065) for placebo.
-The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
+The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
 Gradual withdrawal is advised [see Use in Specific Populations (8.1)].
 
 ## 5.20 Anticholinergic (antimuscarinic) Effects

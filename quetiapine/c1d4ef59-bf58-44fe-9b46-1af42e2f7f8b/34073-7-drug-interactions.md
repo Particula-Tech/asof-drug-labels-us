@@ -28,4 +28,4 @@ Because of its potential for inducing hypotension, quetiapine fumarate may enhan
 Quetiapine fumarate may antagonize the effects of levodopa and dopamine agonists.
 
 There are no clinically relevant pharmacokinetic interactions of quetiapine fumarate on other drugs based on the CYP pathway.
-Quetiapine fumarate and its metabolites are non-inhibitors of major metabolizing CYP’s (1A2, 2C9, 2C19, 2D6 and 3A4).
+Quetiapine fumarate and its metabolites are non-inhibitors of major metabolizing CYP’s (1A2, 2C9, 2C19, 2D6, and 3A4).
