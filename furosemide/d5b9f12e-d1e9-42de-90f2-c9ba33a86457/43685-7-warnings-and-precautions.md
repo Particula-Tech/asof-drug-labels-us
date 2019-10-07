@@ -9,8 +9,7 @@ If increasing azotemia and oliguria occur during treatment of severe progressive
 
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
 Reports usually indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
-If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used).
-(See PRECAUTIONS, Drug Interactions).
+If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used) (see PRECAUTIONS, Drug Interactions).
 
 Pediatric Use: In premature neonates with respiratory distress syndrome, diuretic treatment with furosemide in the first few weeks of life may increase the risk of persistent patent ductus arteriosus (PDA), possibly through a prostaglandin-E-mediated process.
 
@@ -70,8 +69,7 @@ Urine and blood glucose should be checked periodically in diabetics receiving fu
 Furosemide may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
-In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
-(See PRECAUTIONS, Pediatric Use).
+In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (see PRECAUTIONS, Pediatric Use).
 
 ## Drug Interactions:
 
@@ -173,5 +171,4 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
-(See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).

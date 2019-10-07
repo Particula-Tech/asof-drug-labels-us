@@ -6,18 +6,17 @@ Parenteral therapy with Furosemide Injection should be used only in patients una
 
 Edema
 
-The usual initial dose of furosemide is 20 to 40 mg given as a single dose, injected intramuscularly or intravenously.
+The usual initial dose of furosemide is 20 to 40 mg given as a single-dose, injected intramuscularly or intravenously.
 The intravenous dose should be given slowly (1 to 2 minutes).
 Ordinarily a prompt diuresis ensues.
 If needed, another dose may be administered in the same manner 2 hours later or the dose may be increased.
 The dose may be raised by 20 mg and given not sooner than 2 hours after the previous dose until the desired diuretic effect has been obtained.
-This individually determined single dose should then be given once or twice daily.
+This individually determined single-dose should then be given once or twice daily.
 
 Therapy should be individualized according to patient response to gain maximal therapeutic response and to determine the minimal dose needed to maintain that response.
 Close medical supervision is necessary.
 
-When furosemide is given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable.
-(See PRECAUTIONS: Laboratory Tests).
+When furosemide is given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable (see PRECAUTIONS: Laboratory Tests).
 
 If the physician elects to use high dose parenteral therapy, add the furosemide to either Sodium Chloride Injection USP, Lactated Ringer's Injection USP, or Dextrose (5%) Injection USP after pH has been adjusted to above 5.5, and administer as a controlled intravenous infusion at a rate not greater than 4 mg/min.
 Furosemide Injection is a buffered alkaline solution with a pH of about 9 and drug may precipitate at pH values below 7.
@@ -33,8 +32,7 @@ If necessary, additional therapy (e.g., digitalis, oxygen) may be administered c
 
 Geriatric Patients
 
-In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range.
-(See PRECAUTIONS: Geriatric Use).
+In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).
 
 Pediatric Patients
 
@@ -44,7 +42,6 @@ The usual initial dose of Furosemide Injection (intravenously or intramuscularly
 If the diuretic response to the initial dose is not satisfactory, dosage may be increased by 1 mg/kg not sooner than 2 hours after the previous dose, until the desired diuretic effect has been obtained.
 Doses greater than 6 mg/kg body weight are not recommended.
 
-Literature reports suggest that the maximum dose for premature infants should not exceed 1 mg/kg/day.
-(See WARNINGS, Pediatric Use).
+Literature reports suggest that the maximum dose for premature infants should not exceed 1 mg/kg/day (see WARNINGS, Pediatric Use).
 
 Furosemide Injection should be inspected visually for particulate matter and discoloration before administration.
