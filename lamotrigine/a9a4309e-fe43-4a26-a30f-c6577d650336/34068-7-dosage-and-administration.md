@@ -50,7 +50,7 @@ Therefore, adjustments to the dosage of lamotrigine tablets in the presence of p
 
 Patients Taking Atazanavir/Ritonavir While atazanavir/ritonavir does reduce the lamotrigine plasma concentration, no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of atazanavir/ritonavir.
 Dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine tablets based on concomitant AED or other concomitant medications (see Tables 1, 2, and 5).
-In patients already taking maintenance doses of lamotrigine tablets and not taking glucuronidation inducers, the dose of lamotrigine tablets may need to be increased if atazanavir/ritonavir is added, or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
+In patients already taking maintenance doses of lamotrigine tablets and not taking glucuronidation inducers, the dose of lamotrigine tablets may need to be increased if atazanavir/ritonavir is added or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
 
 Patients with Hepatic Impairment Experience in patients with hepatic impairment is limited.
 Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
@@ -71,7 +71,7 @@ Bipolar Disorder: In the controlled clinical trials, there was no increase in th
 In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine tablets.
 Discontinuation of lamotrigine tablets should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
 
-## 2.2 Epilepsy - Adjunctive Therapy
+## 2.2 Epilepsy-Adjunctive Therapy
 
 This section provides specific dosing recommendations for patients older than 12 years and patients aged 2 to 12 years.
 Within each of these age-groups, specific dosing recommendations are provided depending upon concomitant AEDs or other concomitant medications (see Table 1 for patients older than 12 years and Table 2 for patients aged 2 to 12 years).
@@ -99,7 +99,7 @@ Recommended dosing guidelines are summarized in Table 2.
 Lower starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by lower starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
 It may take several weeks to months to achieve an individualized maintenance dose.
-Maintenance doses in patients weighing less than 30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
+Maintenance doses in patients weighing <30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
 
 Table 2.
 Escalation Regimen for Lamotrigine Tablets in Patients Aged 2 to 12 Years with Epilepsy
@@ -110,7 +110,7 @@ Escalation Regimen for Lamotrigine Tablets in Patients Aged 2 to 12 Years with E
 | Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Week 5 onward to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. |
 | Usual maintenance dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
-| Maintenance dose in patients less than 30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
+| Maintenance dose in patients <30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
 | Note: Only whole tablets should be used for dosing. a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 
 Table 3.
@@ -131,7 +131,7 @@ In patients receiving multidrug regimens employing carbamazepine, phenytoin, phe
 In patients receiving valproate alone, maintenance doses of adjunctive lamotrigine tablets as high as 200 mg/day have been used.
 The advantage of using doses above those recommended in Tables 1 to 4 has not been established in controlled trials.
 
-## 2.3 Epilepsy - Conversion from Adjunctive Therapy to Monotherapy
+## 2.3 Epilepsy-Conversion from Adjunctive Therapy to Monotherapy
 
 The goal of the transition regimen is to attempt to maintain seizure control while mitigating the risk of serious rash associated with the rapid titration of lamotrigine tablets.
 
@@ -186,7 +186,7 @@ Escalation Regimen for Lamotrigine Tablets in Adults with Bipolar Disorder
 | a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 
 Table 6.
-Dosage Adjustments to Lamotrigine Tablets in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
+Dosage Adjustments to Lamotrigine Tablets in Adults with Bipolar Disorder following Discontinuation of Psychotropic Medications
 
 |  | Discontinuation of Psychotropic Drugs (excluding Valproate,a Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb) | After Discontinuation of Valproatea | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb |
 | --- | --- | --- | --- |

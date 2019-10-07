@@ -32,10 +32,11 @@ The risk of nonserious rash may be increased when the recommended initial dose a
 Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking lamotrigine for various indications.
 HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
 It is associated with high mortality rates if not recognized early and treated.
-Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, and liver function and coagulation abnormalities.
+Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, hypertriglyceridemia, and liver function and coagulation abnormalities.
 In cases of HLH reported with lamotrigine, patients have presented with signs of systemic inflammation (fever, rash, hepatosplenomegaly, and organ system dysfunction) and blood dyscrasias.
 Symptoms have been reported to occur within 8 to 24 days following the initiation of treatment.
-Patients who develop early manifestations of pathologic immune activation should be evaluated immediately, and a diagnosis of HLH should be considered. lamotrigine should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+Patients who develop early manifestations of pathologic immune activation should be evaluated immediately, and a diagnosis of HLH should be considered.
+Lamotrigine should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
 ## 5.3 Multiorgan Hypersensitivity Reactions and Organ Failure
 
@@ -61,7 +62,7 @@ These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytope
 
 AEDs, including lamotrigine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared with 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
 The increased risk of suicidal thoughts or behavior with AEDs was observed as early as 1 week after starting treatment with AEDs and persisted for the duration of treatment assessed.

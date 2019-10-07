@@ -113,9 +113,9 @@ Immediately call your pharmacist if you receive a lamotrigine tablet that does n
 What are lamotrigine tablets?
 
 - Lamotrigine tablets are a prescription medicine used:
-- together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
-- alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
-- for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
+  - together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
+  - alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
+  - for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
 - It is not known if lamotrigine tablets are safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
 - It is not known if lamotrigine tablets are safe or effective when used alone as the first treatment of seizures.
 - It is not known if lamotrigine tablets are safe or effective for people with mood episodes who have not already been treated with other medicines.
@@ -239,4 +239,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 08/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 10/2019
