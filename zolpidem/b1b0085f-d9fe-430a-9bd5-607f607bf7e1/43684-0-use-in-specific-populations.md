@@ -10,7 +10,7 @@ Oral administration of zolpidem to pregnant rats and rabbits did not indicate a 
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -58,8 +58,8 @@ A lactating woman may consider interrupting breastfeeding and pumping and discar
 Zolpidem tartrate extended-release is not recommended for use in children.
 Safety and effectiveness of zolpidem in pediatric patients below the age of 18 years have not been established.
 
-In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo..
-Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [seeWarnings and Precautions (5.4)].
+In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo.
+Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [seeWarnings and Precautions (5.5)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
 FDA has not required pediatric studies of zolpidem tartrate extended-release in the pediatric population based on these efficacy and safety findings.
@@ -70,13 +70,13 @@ A total of 99 elderly (≥ 65 years of age) received daily doses of 6.25 mg zolp
 The adverse reaction profile of zolpidem tartrate extended-release 6.25 mg in this population was similar to that of zolpidem tartrate extended-release 12.5 mg in younger adults (≤ 64 years of age).
 Dizziness was reported in 8% of zolpidem tartrate extended-release-treated patients compared with 3% of those treated with placebo.
 
-The dose of zolpidem tartrate extended-release in elderly patients is 6.25 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see Warnings and Precautions (5.1)].
+The dose of zolpidem tartrate extended-release in elderly patients is 6.25 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see Warnings and Precautions (5.2)].
 
 ## 8.6 Gender Difference in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
 Cmax and AUC parameters of zolpidem from zolpidem tartrate extended-release were, respectively, approximately 50% and 75% higher at the same dose in adult female subjects compared to adult male subjects.
-Between 6 and 12 hours after dosing, zolpidem concentrations were 2- to 3 fold higher in adult female compared to adult male subjects.
+Between 6 and 12 hours after dosing, zolpidem concentrations were 2 to 3 fold higher in adult female compared to adult male subjects.
 Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended initial dose of zolpidem tartrate extended-release for adult women is 6.25 mg, and the recommended dose for adult men is 6.25 or 12.5 mg.
 
 In geriatric patients, clearance of zolpidem is similar in men and women.
@@ -85,4 +85,4 @@ The recommended dose of zolpidem tartrate extended-release in geriatric patients
 ## 8.7 Hepatic Impairment
 
 The recommended dose of zolpidem tartrate extended-release in patients with mild to moderate hepatic impairment is 6.25 mg once daily immediately before bedtime.
-Avoid zolpidem tartrate extended-release use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
+Avoid zolpidem tartrate extended-release use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].

@@ -2,14 +2,17 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •CNS-depressant effects and next-day impairment [seeWarnings and Precautions (5.1)]
-- •Serious anaphylactic and anaphylactoid reactions [seeWarnings and Precautions (5.3)]
-- •Abnormal thinking and behavior changes, and complex behaviors [seeWarnings and Precautions (5.4)]
-- •Withdrawal effects [seeWarnings and Precautions (5.8)]
+- •Complex sleep behaviors [see Warnings and Precautions (5.1)]
+- •CNS-depressant effects and next-day impairment [seeWarnings and Precautions (5.2)]
+- •Serious anaphylactic and anaphylactoid reactions [seeWarnings and Precautions (5.4)]
+- •Abnormal thinking and behavior changes [see Warnings and Precautions (5.5)]
+- •Withdrawal effects [seeWarnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
-Associated with Discontinuation of Treatment: In 3-week clinical trials in adults and elderly patients (> 65 years), 3.5% (7/201) patients receiving zolpidem tartrate extended-release 6.25 or 12.5 mg discontinued treatment due to an adverse reaction as compared to 0.9% (2/216) of patients on placebo.
+Associated with Discontinuation of Treatment
+
+In 3-week clinical trials in adults and elderly patients (> 65 years), 3.5% (7/201) patients receiving zolpidem tartrate extended-release 6.25 or 12.5 mg discontinued treatment due to an adverse reaction as compared to 0.9% (2/216) of patients on placebo.
 The reaction most commonly associated with discontinuation in patients treated with zolpidem tartrate extended-release was somnolence (1%).
 
 In a 6-month study in adult patients (18 to 64 years of age), 8.5% (57/669) of patients receiving zolpidem tartrate extended-release 12.5 mg as compared to 4.6% on placebo (16/349) discontinued treatment due to an adverse reaction.
@@ -17,11 +20,15 @@ Reactions most commonly associated with discontinuation of zolpidem tartrate ext
 
 Data from a clinical study in which selective serotonin reuptake inhibitor- (SSRI-) treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n =97) was discontinued after an attempted suicide.
 
-Most Commonly Observed Adverse Reactions in Controlled Trials: During treatment with zolpidem tartrate extended-release in adults and elderly at daily doses of 12.5 mg and 6.25 mg, respectively, each for three weeks, the most commonly observed adverse reactions associated with the use of zolpidem tartrate extended-release were headache, next-day somnolence, and dizziness.
+Most Commonly Observed Adverse Reactions in Controlled Trials
+
+During treatment with zolpidem tartrate extended-release in adults and elderly at daily doses of 12.5 mg and 6.25 mg, respectively, each for three weeks, the most commonly observed adverse reactions associated with the use of zolpidem tartrate extended-release were headache, next-day somnolence, and dizziness.
 
 In the 6-month trial evaluating zolpidem tartrate extended-release 12.5 mg, the adverse reaction profile was consistent with that reported in short-term trials, except for a higher incidence of anxiety (6.3% for zolpidem tartrate extended-release versus 2.6% for placebo).
 
-Adverse Reactions Observed at an Incidence of ≥1% in Controlled Trials: The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate extended-release in placebo-controlled trials.
+Adverse Reactions Observed at an Incidence of ≥1% in Controlled Trials
+
+The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate extended-release in placebo-controlled trials.
 Events reported by investigators were classified utilizing the MedDRA dictionary for the purpose of establishing event frequencies.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
@@ -111,7 +118,7 @@ Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlle
 
 | (N=99) | (N=106) |  |
 | --- | --- | --- |
-| Body System/Adverse ReactionReactions reported by at least 1% of patients treated with zolpidem tartrate extended-release and at greater frequency than in the placebo group. | Zolpidem Tartrate Extended-Release 6.25 mg | Placebo |
+| Body System/ Adverse ReactionReactions reported by at least 1% of patients treated with zolpidem tartrate extended-release and at greater frequency than in the placebo group. | Zolpidem Tartrate Extended-Release 6.25 mg | Placebo |
 | Infections and infestations |  |  |
 | Nasopharyngitis | 6 | 4 |
 | Lower respiratory tract infection | 1 | 0 |
@@ -156,11 +163,15 @@ Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlle
 | Injury, poisoning and procedural complications |  |  |
 | Neck injury | 1 | 0 |
 
-Dose Relationship for Adverse Reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
+Dose Relationship for Adverse Reactions
 
-Other Adverse Reactions Observed during the Premarketing Evaluation of Zolpidem Tartrate Extended-Release: Other treatment-emergent adverse reactions associated with participation in zolpidem tartrate extended-release studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
+There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
-Adverse Events Observed during the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate:
+Other Adverse Reactions Observed during the Premarketing Evaluation of Zolpidem Tartrate Extended-Release
+
+Other treatment-emergent adverse reactions associated with participation in zolpidem tartrate extended-release studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
+
+Adverse Events Observed during the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate
 
 Immediate-release zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.

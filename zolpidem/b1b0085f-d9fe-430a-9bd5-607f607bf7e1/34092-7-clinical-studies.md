@@ -20,7 +20,7 @@ In a 24-week double-blind, placebo controlled, randomized study in adult outpati
 
 ## 14.2 Studies Pertinent to Safety Concerns for Sedative/Hypnotic Drugs
 
-Next-Day Residual Effects: In five clinical studies (three controlled studies in adults [18 to 64 years of age] administered zolpidem tartrate extended-release 12.5 mg and two controlled studies in the elderly [≥ 65 years of age administered zolpidem tartrate extended-release 6.25 mg or 12.5 mg), the effect of zolpidem tartrate extended-release on vigilance, memory, or motor function were assessed using neurocognitive tests.
+Next-Day Residual Effects: In five clinical studies (three controlled studies in adults [18 to 64 years of age] administered zolpidem tartrate extended-release 12.5 mg and two controlled studies in the elderly [≥ 65 years of age] administered zolpidem tartrate extended-release 6.25 mg or 12.5 mg), the effect of zolpidem tartrate extended-release on vigilance, memory, or motor function were assessed using neurocognitive tests.
 In these studies, no significant decrease in performance was observed eight hours after a nighttime dose.
 In addition, no evidence of next-day residual effects was detected with zolpidem tartrate extended-release 12.5 mg and 6.25 mg using self-ratings of sedation.
 

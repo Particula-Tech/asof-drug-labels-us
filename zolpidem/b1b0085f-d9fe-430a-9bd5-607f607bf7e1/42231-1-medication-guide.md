@@ -1,4 +1,4 @@
-MEDICATION GUIDE Zolpidem Tartrate Extended-Release Tablets, USPC-IV
+MEDICATION GUIDE Zolpidem Tartrate Extended-Release Tablets, USP C-IV
 
 (ZOL-pih-dem)
 
@@ -11,31 +11,29 @@ What is the most important information I should know about zolpidem tartrate ext
 - •Do not take more zolpidem tartrate extended-release tablets than prescribed.
 - •Do not take zolpidem tartrate extended-release tablets unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
 - •Take zolpidem tartrate extended-release tablets right before you get in bed, not sooner.
-
-Zolpidem tartrate extended-release tablets may cause serious side effects that you may not know are happening to you.
-These side effects include:
-
-- • sleepiness during the day
-- • not thinking clearly
-- • act strangely, confused, or upset
-- • "sleep-walking" or doing other activities when you are asleep like:
-  - ∘eating
-  - ∘talking
-  - ∘having sex
-  - ∘driving a car
-
-Call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate extended-release tablets.
+- Zolpidem tartrate extended-release tablets may cause serious side effects including complex sleep behaviors that have caused serious injury and death.
+  After taking zolpidem tartrate extended-release tablets, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing (complex sleep behaviors).
+  The next morning, you may not remember that you did anything during the night.
+  These activities may occur with zolpidem tartrate extended-release tablets whether or not you drink alcohol or take other medicines that make you sleepy.
+  Reported activities include:
+- odriving a car (“sleep-driving”)
+- omaking and eating food
+- otalking on the phone
+- ohaving sex
+- osleep-walking
+- Stop taking zolpidem tartrate extended-release tablets and call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate extended-release tablets.
 
 You should not drive a car or do things that require clear thinking the day after you take zolpidem tartrate extended-release tablets.
 
 Do not take zolpidem tartrate extended-release tablets if you:
 
-- •drank alcohol that evening or before bed
+- •have ever experienced complex sleep behavior (such as driving a car, making and eating food, talking on the phone call or having sex while not being fully awake) after taking zolpidem tartrate extended-release tablets.
+- •drank alcohol that evening or before bed.
 - •take other medicines that can make you sleepy.
   Taking zolpidem tartrate extended-release tablets with other drugs can cause side effects.
   Talk to your healthcare provider about all of your medicines.
   Your healthcare provider will tell you if you can take zolpidem tartrate extended-release tablets with your other medicines.
-- •cannot get a full night's sleep
+- •cannot get a full night's sleep.
 
 What are zolpidem tartrate extended-release tablets?
 
@@ -73,8 +71,9 @@ Before starting zolpidem tartrate extended-release tablets, tell your healthcare
 - •Using zolpidem tartrate extended-release tablets in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
   Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if zolpidem tartrate extended-release tablets are taken late in pregnancy.
 - •are breastfeeding or plan to breastfeed.
-  Zolpidem passes into your breast milk.
+  Zolpidem tartrate passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate extended-release tablets.
+- 
 - Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
 Medicines can interact with each other, sometimes causing serious side effects.
@@ -85,7 +84,7 @@ Keep a list of your medicines with you to show your healthcare provider and phar
 
 How should I take zolpidem tartrate extended-release tablets?
 
-- •See "what is the most important information I should know about zolpidem tartrate extended-release tablets?"
+- •See "What is the most important information I should know about zolpidem tartrate extended-release tablets?"
 - •Take zolpidem tartrate extended-release tablets exactly as prescribed.
   Only take one zolpidem tartrate extended-release tablet a night if needed.
 - •Do not take zolpidem tartrate extended-release tablets if you drank alcohol that evening or before bed.
@@ -106,7 +105,7 @@ Zolpidem tartrate extended-release tablets may cause serious side effects includ
 - •getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
   (See "What is the most important information I should know about zolpidem tartrate extended-release tablets?")
 - •abnormal thoughts and behavior.
-  Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
+  Symptoms include more outgoing or aggressive behavior than normal, confusion, acting strangely, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
 - •memory loss
 - •anxiety
 - •severe allergic reactions.
@@ -176,4 +175,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.,
 SI-1526 Ljubljana, Slovenia for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-February 2019
+September 2019

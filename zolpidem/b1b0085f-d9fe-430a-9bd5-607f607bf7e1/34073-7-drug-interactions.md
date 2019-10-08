@@ -2,8 +2,10 @@
 
 ## 7.1 CNS-Active Drugs
 
+CNS Depressants
+
 Coadministration of zolpidem with other CNS depressants increases the risk of CNS depression.
-Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [seeWarnings and Precautions (5.1)].
+Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [seeWarnings and Precautions (5.1, 5.2)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 
 Imipramine, Chlorpromazine
@@ -18,7 +20,7 @@ The lack of a drug interaction following single-dose administration does not pre
 
 Alcohol
 
-An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [seeWarnings and Precautions (5.1)].
+An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [seeWarnings and Precautions (5.1, 5.2)].
 
 Sertraline
 
