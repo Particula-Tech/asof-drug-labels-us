@@ -150,10 +150,10 @@ Active Ingredient: metformin hydrochloride
 Inactive Ingredient: 500 mg tablet: coloring, hypromellose, magnesium stearate, microcrystalline cellulose and polyethylene oxide.
 1,000 mg tablet: colloidal silicon dioxide, polyvinyl alcohol, crospovidone, glyceryl behenate, polyacrylate dispersion, hypromellose, talc, polyethylene glycol, eudragit, titanium dioxide, simethicone emulsion, polysorbate and coloring.
 
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 © 2019 Valeant Pharmaceuticals North America LLC For more information, go to www.GlumetzaXR.com or call 1-800-321-4576.
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC, Bridgewater, NJ 08807 USA U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 © 2019 Bausch Health Companies Inc. or its affiliates For more information, go to www.GlumetzaXR.com or call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2018
+Revised: 08/2019
 
-9619002 20002562
+9619003 20002705

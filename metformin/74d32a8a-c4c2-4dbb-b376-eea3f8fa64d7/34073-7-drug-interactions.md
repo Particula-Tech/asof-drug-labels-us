@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
 Table 2 presents clinically significant drug interactions with Metformin Hydrochloride Extended-Release Tablets.
-Table: Clinically Significant Drug Interactions with Metformin Hydrochloride Extended-Release Tablets
+Table 2: Clinically Significant Drug Interactions with Metformin Hydrochloride Extended-Release Tablets
 
 | Carbonic Anhydrase Inhibitors |  |
 | --- | --- |

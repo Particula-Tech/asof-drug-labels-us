@@ -11,10 +11,8 @@ Vitamin B12 Deficiency: Inform patients about importance of regular hematologica
 Females of Reproductive Age: Inform females that treatment with Metformin Hydrochloride Extended-Release Tablets may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
 Administration Information: Inform patients that Metformin Hydrochloride Extended-Release Tablets must be swallowed whole and not crushed, cut, or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
 
-Manufactured for:
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 © 2019 Bausch Health Companies Inc. or its affiliates
 
-Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 © 2019 Valeant Pharmaceuticals North America LLC
+9619003
 
-9619002
-
-20002562
+20002705
