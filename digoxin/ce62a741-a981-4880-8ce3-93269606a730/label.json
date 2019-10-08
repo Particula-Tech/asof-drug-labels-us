@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA213000"
+  ],
+  "inn": "digoxin",
+  "labeler": "VistaPharm, Inc.",
+  "package_ndcs": [
+    "66689-327-02"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "digoxin",
+      "name": "Digoxin"
+    }
+  ],
+  "setid": "ce62a741-a981-4880-8ce3-93269606a730",
+  "source": "dailymed"
+}
