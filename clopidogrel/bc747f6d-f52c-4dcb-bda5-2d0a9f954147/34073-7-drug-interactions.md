@@ -10,7 +10,7 @@ Omeprazole or Esomeprazole
 Avoid concomitant use of clopidogrel with omeprazole or esomeprazole.
 In clinical studies, omeprazole was shown to reduce significantly the antiplatelet activity of clopidogrel when given concomitantly or 12 hours apart.
 A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with clopidogrel.
-Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Dexlansoprazole, lansoprazole, and pantoprazole had less effect on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Opioids
 

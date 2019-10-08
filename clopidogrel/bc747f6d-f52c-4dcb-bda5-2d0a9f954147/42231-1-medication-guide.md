@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Clopidogrel Tablets USP
+Clopidogrel Tablets
 
 (kloe-PID-oh-grel)
 
@@ -76,8 +76,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
   It is not known if clopidogrel tablets will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel passes into your breast milk.
-  You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
-  You should not do both without talking to your doctor.
+  A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing clopidogrel tablets is needed.
 - have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
@@ -144,6 +143,7 @@ Clopidogrel tablets can cause serious side effects including:
   - stomach area (abdominal) pain
   - nausea, vomiting, or diarrhea
   - vision changes
+  - persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
@@ -173,9 +173,9 @@ Ask your doctor or pharmacist for information about clopidogrel tablets that was
 
 For more information, call 1-888-838-2872.
 
-What are the ingredients in clopidogrel tablets USP?
+What are the ingredients in clopidogrel tablets?
 
-Active ingredient: clopidogrel bisulfate, USP
+Active ingredient: clopidogrel bisulfate
 
 Inactive ingredients: crospovidone, hydrogenated vegetable oil, hydroxypropyl cellulose, hypromellose, indigo carmine aluminum lake FD&C blue #2, iron oxide red, iron oxide yellow, lactose, lactose monohydrate, microcrystalline cellulose, polyethylene glycol, sodium lauryl sulfate, and titanium dioxide.
 
@@ -187,4 +187,4 @@ Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-E 9/2016
+F 8/2019

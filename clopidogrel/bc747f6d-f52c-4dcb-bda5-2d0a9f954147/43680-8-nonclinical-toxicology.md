@@ -6,4 +6,4 @@ There was no evidence of tumorigenicity when clopidogrel was administered for 78
 
 Clopidogrel was not genotoxic in four in vitro tests (Ames test, DNA-repair test in rat hepatocytes, gene mutation assay in Chinese hamster fibroblasts, and metaphase chromosome analysis of human lymphocytes) and in one in vivo test (micronucleus test by oral route in mice).
 
-Clopidogrel was found to have no effect on fertility of male and female rats at oral doses up to 400 mg/kg per day (52 times the recommended human dose on a mg/m2 basis).
+Clopidogrel was found to have no effect on fertility of male and female rats treated prior to pairing and throughout gestation at oral doses up to 400 mg/kg per day (52 times the recommended human dose on a mg/m2 basis).

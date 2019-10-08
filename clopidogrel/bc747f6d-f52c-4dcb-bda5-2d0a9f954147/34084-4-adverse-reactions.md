@@ -24,7 +24,7 @@ The overall incidence of bleeding is described in Table 1.
 
 Table 1: CURE Incidence of Bleeding Complications (% patients)
 
-| Event | Clopidogrel (+ aspirin) (n = 6259) | Placebo (+ aspirin) (n = 6303) |
+| Event | Clopidogrel (+ aspirin) (n=6259) | Placebo (+ aspirin) (n=6303) |
 | --- | --- | --- |
 | Major bleedingLife-threatening and other major bleeding. | 3.7 | 2.7 |
 | Life-threatening bleeding | 2.2 | 1.8 |
@@ -46,7 +46,7 @@ In COMMIT, similar rates of major bleeding were observed in the clopidogrel and 
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
-| Type of Bleeding | Clopidogrel(+ aspirin) (n = 22961) | Placebo (+ aspirin) (n = 22891) | p-value |
+| Type of Bleeding | Clopidogrel(+ aspirin) (n=22961) | Placebo (+ aspirin) (n=22891) | p-value |
 | --- | --- | --- | --- |
 | MajorMajor bleeds were cerebral bleeds or noncerebral bleeds thought to have caused death or that required transfusion. noncerebral or cerebral bleeding | 0.6 | 0.5 | 0.59 |
 | Major noncerebral | 0.4 | 0.3 | 0.48 |
@@ -81,7 +81,7 @@ Hemorrhages, including those with fatal outcome, have been reported in patients 
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
 - Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
-- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
+- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness, insulin autoimmune syndrome, which can lead to severe hypoglycemia.
 - Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, headache, ageusia
 - Psychiatric disorders: Confusion, hallucinations

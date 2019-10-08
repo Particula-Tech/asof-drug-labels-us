@@ -25,7 +25,7 @@ Resume clopidogrel as soon as hemostasis is achieved.
 
 ## 5.4 Thrombotic Thrombocytopenic Purpura (TTP)
 
-TTP, sometimes fatal, has been reported following use of clopidogrel, sometimes after a short exposure (< 2 weeks).
+TTP, sometimes fatal, has been reported following use of clopidogrel, sometimes after a short exposure (<2 weeks).
 TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange).
 It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see Adverse Reactions (6.2)].
 

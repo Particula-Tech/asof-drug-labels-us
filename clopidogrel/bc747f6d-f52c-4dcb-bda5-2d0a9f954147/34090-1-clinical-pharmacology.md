@@ -42,7 +42,7 @@ Absorption
 After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
 
-Effect of Food
+Effect of food
 
 Clopidogrel can be administered with or without food.
 In a study in healthy male subjects when clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
@@ -103,7 +103,7 @@ Decreased active metabolite exposure and diminished inhibition of platelet aggre
 
 Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
 
-|  | Dose | Poor(n = 10) | IntermediateIntermediate metabolizers have one but not two nonfunctional alleles.(n = 10) | Normal(n = 10) | UltrarapidUltrarapid metabolizers have at least one gain-of-function allele.(n = 10) |
+|  | Dose | Poor(n=10) | IntermediateIntermediate metabolizers have one but not two nonfunctional alleles.(n=10) | Normal(n=10) | UltrarapidUltrarapid metabolizers have at least one gain-of-function allele.(n=10) |
 | --- | --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | 300 mg (24 h) | 11 (4) | 23 (11) | 32 (21) | 24 (10) |
 |  | 600 mg (24 h) | 17 (6) | 39 (23) | 44 (27) | 36 (13) |

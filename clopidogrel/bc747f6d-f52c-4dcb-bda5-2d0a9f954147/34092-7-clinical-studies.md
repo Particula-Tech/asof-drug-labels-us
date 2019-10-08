@@ -18,7 +18,7 @@ The number of patients experiencing the primary outcome (CV death, MI, or stroke
 
 Table 4: Outcome Events in the CURE Primary Analysis
 
-| Outcome | Clopidogrel (+ aspirin)Other standard therapies were used as appropriate.(n = 6259) | Placebo (+ aspirin)(n = 6303) | Relative Risk Reduction (%) (95% CI) |
+| Outcome | Clopidogrel (+ aspirin)Other standard therapies were used as appropriate.(n=6259) | Placebo (+ aspirin)(n=6303) | Relative Risk Reduction (%) (95% CI) |
 | --- | --- | --- | --- |
 | Primary outcome (Cardiovascular death, MI, stroke) | 582 (9.3%) | 719 (11.4%) | 20% (10.3, 27.9) p < 0.001 |
 | All Individual Outcome Events: The individual components do not represent a breakdown of the primary and coprimary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
@@ -32,7 +32,7 @@ The efficacy of clopidogrel was observed independently of the dose of aspirin (7
 The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 The use of clopidogrel in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
-The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36.0%] in the clopidogrel group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
+The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting) (2253 patients [36.0%] in the clopidogrel group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
 
 COMMIT
 
