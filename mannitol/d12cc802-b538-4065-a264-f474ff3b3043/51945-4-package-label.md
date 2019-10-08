@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 500 mL Container Label
+# PRINCIPAL DISPLAY PANEL - 500 mL
 
 20% Mannitol Injection USP
 
@@ -6,9 +6,7 @@ REF L5781 NDC 0264-7578-10 HK 22605
 
 500 mL EXCEL® CONTAINER
 
-Each 100 mL contains: Mannitol USP 20 g; Water for Injection USP qs
-
-pH: 5.3 (4.5-7.0); Calc.
+Each 100 mL contains: Mannitol USP 20 g; Water for Injection USP qs pH: 5.3 (4.5-7.0); Calc.
 Osmolarity: 1100 mOsmol/liter, hypertonic
 
 Sterile, nonpyrogenic.
@@ -19,7 +17,7 @@ Use only if solution is clear and container and seals are intact.
 
 WARNING: Do not admix with other drugs.
 
-Dissolve any mannitol crystals by heating (≤60°C) and shaking; cool before administration.
+Dissolve any mannitol crystals by heating (< 60°C) and shaking; cool before administration.
 Reject container if crystals are not completely redissolved.
 
 Recommended Storage: Room temperature (25°C).
@@ -32,7 +30,10 @@ After removing the overwrap, check for minute leaks by squeezing container firml
 If leaks are found, discard solution as sterility may be impaired.
 
 Not made with natural rubber latex, PVC or DEHP.
-Rx only EXCEL is a registered trademark of B. Braun Medical Inc.
+
+Rx only
+
+EXCEL is a registered trademark of B. Braun Medical Inc.
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Produced in USA with API from Germany
 
@@ -40,13 +41,13 @@ Y94-003-231 LD-110-3
 
 EXP LOT
 
-# PRINCIPAL DISPLAY PANEL - 250 mL Container Label
+# PRINCIPAL DISPLAY PANEL - 250 mL
 
 20% Mannitol Injection USP
 
 REF L5782 NDC 0264-7578-20 HK 22605
 
-250 mL EXCEL® Container
+250 mL EXCEL® CONTAINER
 
 Each 100 mL contains: Mannitol USP 20 g; Water for Injection USP qs
 
@@ -61,7 +62,7 @@ Use only if solution is clear and container and seals are intact.
 
 WARNING: Do not admix with other drugs.
 
-Dissolve any mannitol crystals by heating (≤60°C) and shaking; cool before administration.
+Dissolve any mannitol crystals by heating (< 60°C) and shaking; cool before administration.
 Reject container if crystals are not completely redissolved.
 
 Recommended Storage: Room temperature (25°C).
@@ -74,7 +75,10 @@ After removing the overwrap, check for minute leaks by squeezing container firml
 If leaks are found, discard solution as sterility may be impaired.
 
 Not made with natural rubber latex, PVC or DEHP.
-Rx only EXCEL is a registered trademark of B. Braun Medical Inc.
+
+EXCEL is a registered trademark of B. Braun Medical Inc.
+
+Rx only
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Produced in USA with API from Germany
 

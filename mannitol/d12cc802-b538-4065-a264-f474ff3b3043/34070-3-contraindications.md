@@ -1,9 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-20% Mannitol Injection USP is contraindicated in patients with:
+Mannitol Injection is contraindicated in patients with:
 
-Well-established anuria due to severe renal disease.
-Severe pulmonary congestion or frank pulmonary edema.
-Active intracranial bleeding except during craniotomy.
-Severe dehydration.
-Progressive heart failure or pulmonary congestion after institution of mannitol therapy.
+- Hypersensitivity to mannitol [see Warnings and Precautions (5.1)]
+- Anuria [see Warnings and Precautions (5.2)]
+- Severe hypovolemia [see Warnings and Precautions (5.4)]
+- Pre-existing severe pulmonary vascular congestion or pulmonary edema [see Warnings and Precautions (5.5)]
+- Active intracranial bleeding except during craniotomy.

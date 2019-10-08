@@ -1,11 +1,7 @@
-For Therapeutic Use Only
-
 Rx only
 
-Revised: January 2019 EXCEL is a registered trademark of B. Braun Medical Inc.
+Manufactured by: B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Produced in USA with API from Germany
 
-B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
+EXCEL® is a registered trademark of B. Braun Medical Inc.
 
-Produced in USA with API from Germany
-
-Y36-002-937 LD-496-2
+Y36-002-994 LD-496-3
