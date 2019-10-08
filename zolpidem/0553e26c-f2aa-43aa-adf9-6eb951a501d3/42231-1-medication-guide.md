@@ -14,9 +14,10 @@ What is the most important information I should know about zolpidem tartrate tab
 
 Zolpidem tartrate tablets may cause serious side effects, including:
 
-- •After taking zolpidem tartrate tablets, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+- •Complex sleep behaviors that have caused serious injury and death.
+  After taking zolpidem tartrate tablets, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing (complex sleep behaviors).
   The next morning, you may not remember that you did anything during the night.
-  You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with zolpidem tartrate tablets.
+  These activities may occur with zolpidem tartrate tablets whether or not you drink alcohol or take other medicines that make you sleepy.
   Reported activities include:
   - ∘driving a car ("sleep-driving")
   - ∘making and eating food
@@ -24,10 +25,11 @@ Zolpidem tartrate tablets may cause serious side effects, including:
   - ∘having sex
   - ∘sleep-walking
 
-Call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate tablets.
+Stop taking zolpidem tartrate tablets and call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate tablets.
 
 Do not take zolpidem tartrate tablets if you:
 
+- •have ever experienced a complex sleep behavior (such as driving a car, making and eating food, talking on the phone, or having sex while not being fully awake) after taking zolpidem tartrate tablets.
 - •drank alcohol that evening or before bed
 - •took another medicine to help you sleep.
 
@@ -37,6 +39,9 @@ Zolpidem tartrate tablets are a sedative-hypnotic (sleep) medicine.
 Zolpidem tartrate tablets are used in adults for the short-term treatment of a sleep problem called insomnia (trouble falling asleep).
 
 Zolpidem tartrate tablets are not recommended for use in children under the age of 18 years.
+
+| Zolpidem tartrate tablets are a federally controlled substance (C-IV) because it can be abused or lead to dependence. Keep zolpidem tartrate tablets in a safe place to prevent misuse and abuse. Selling or giving away zolpidem tartrate tablets may harm others, and is against the law. Tell your healthcare provider if you have ever abused or have been dependent on alcohol, prescription medicines or street drugs. |
+| --- |
 
 Who should not take zolpidem tartrate tablets?
 
@@ -60,7 +65,7 @@ Before starting zolpidem tartrate tablets, tell your healthcare provider about a
 - •Using zolpidem tartrate tablets in the last trimester of pregnancy may cause breathing difficulties or excess sleepiness in your newborn.
   Monitor for signs of sleepiness (more than usual), trouble breathing, or limpness in the newborn if zolpidem tartrate tablets are taken late in pregnancy.
 - •are breastfeeding or plan to breastfeed.
-  Zolpidem passes into your breast milk.
+  Zolpidem tartrate passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while you take zolpidem tartrate tablets.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
@@ -142,6 +147,8 @@ This Medication Guide summarizes the most important information about zolpidem t
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about zolpidem tartrate tablets that is written for healthcare professionals.
 
+For more information about zolpidem tartrate tablets, call Sandoz Inc. at 1-800-525-8747.
+
 What are the ingredients in zolpidem tartrate tablets?
 
 Active Ingredient: Zolpidem tartrate
@@ -157,4 +164,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.
 SI-1526 Ljubljana, Slovenia for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-February 2019
+September 2019

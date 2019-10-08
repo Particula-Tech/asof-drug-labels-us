@@ -17,7 +17,7 @@ Clinical Considerations
 Fetal/neonatal adverse reactions
 
 Zolpidem crosses the placenta and may produce respiratory depression and sedation in neonates.
-Monitor neonates exposed to zolpidem during pregnancy and labor for signs of excess sedation, hypotonia, and respiratory depression and manage accordingly.
+Monitor neonates exposed to zolpidem tartrate during pregnancy and labor for signs of excess sedation, hypotonia, and respiratory depression and manage accordingly.
 
 Data
 
@@ -46,20 +46,20 @@ Risk Summary
 Limited data from published literature report the presence of zolpidem in human milk.
 There are reports of excess sedation in infants exposed to zolpidem through breastmilk [see Clinical Considerations].
 There is no information on the effects of zolpidem on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for zolpidem and any potential adverse effects on the breastfed infant from zolpidem or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for zolpidem tartrate and any potential adverse effects on the breastfed infant from zolpidem tartrate or from the underlying maternal condition.
 
 Clinical Considerations
 
-Infants exposed to zolpidem through breastmilk should be monitored for excess sedation, hypotonia, and respiratory depression.
-A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment and for 23 hours (approximately 5 elimination half-lives) after zolpidem administration in order to minimize drug exposure to a breast fed infant.
+Infants exposed to zolpidem tartrate through breastmilk should be monitored for excess sedation, hypotonia, and respiratory depression.
+A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment and for 23 hours (approximately 5 elimination half-lives) after zolpidem tartrate administration in order to minimize drug exposure to a breast fed infant.
 
 ## 8.4 Pediatric Use
 
 Zolpidem tartrate is not recommended for use in children.
 Safety and effectiveness of zolpidem in pediatric patients below the age of 18 years have not been established.
 
-In an 8-week study, in pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo.
-Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [seeWarnings and Precautions (5.4)].
+In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo.
+Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs 1.5%), headache (12.5% vs 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [seeWarnings and Precautions (5.5)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
 ## 8.5 Geriatric Use
@@ -78,7 +78,7 @@ Of these 28 patients, 23 (82%) were receiving zolpidem doses >10 mg.
 A total of 24/1,959 (1.2%) non-U.S. patients receiving zolpidem reported confusion, including 18/24 (75%) who were ≥ 70 years of age.
 Of these 18 patients, 14 (78%) were receiving zolpidem doses >10 mg.
 
-The dose of zolpidem tartrate in elderly patients is 5 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [seeWarnings and Precautions (5.1)].
+The dose of zolpidem tartrate in elderly patients is 5 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [seeWarnings and Precautions (5.2)].
 
 ## 8.6 Gender Difference in Pharmacokinetics
 
@@ -92,4 +92,4 @@ The recommended dose of zolpidem tartrate in geriatric patients is 5 mg regardle
 ## 8.7 Hepatic Impairment
 
 The recommended dose of zolpidem tartrate in patients with mild to moderate hepatic impairment is 5 mg once daily immediately before bedtime.
-Avoid zolpidem tartrate use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
+Avoid zolpidem tartrate use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].

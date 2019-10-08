@@ -36,7 +36,7 @@ There was subjective evidence of impaired sleep in the elderly on the first post
 Memory Impairment
 
 Controlled studies in adults utilizing objective measures of memory yielded no consistent evidence of next-day memory impairment following the administration of zolpidem tartrate.
-However, in one study involving zolpidem doses of 10 and 20 mg, there was a significant decrease in next-morning recall of information presented to subjects during peak drug effect (90 minutes postdose), i.e., these subjects experienced anterograde amnesia.
+However, in one study involving zolpidem doses of 10 and 20 mg, there was a significant decrease in next-morning recall of information presented to subjects during peak drug effect (90 minutes post dose), i.e., these subjects experienced anterograde amnesia.
 There was also subjective evidence from adverse event data for anterograde amnesia occurring in association with the administration of zolpidem tartrate, predominantly at doses above 10 mg.
 
 Effects on Sleep Stages

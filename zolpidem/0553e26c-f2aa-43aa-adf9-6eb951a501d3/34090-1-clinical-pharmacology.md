@@ -13,18 +13,18 @@ Zolpidem has no appreciable binding affinity for dopaminergic D2, serotonergic 5
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic profile of zolpidem is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/2) in healthy subjects.
+The pharmacokinetic profile of zolpidem tartrate is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/2) in healthy subjects.
 
 In a single-dose crossover study in 45 healthy subjects administered 5 and 10 mg zolpidem tartrate tablets, the mean peak concentrations (Cmax) were 59 (range: 29 to 113) and 121 (range: 58 to 272) ng/mL, respectively, occurring at a mean time (Tmax) of 1.6 hours for both.
-The mean zolpidem elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively.
-Zolpidem is converted to inactive metabolites that are eliminated primarily by renal excretion.
-Zolpidem demonstrated linear kinetics in the dose range of 5 to 20 mg.
+The mean zolpidem tartrate elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively.
+Zolpidem tartrate is converted to inactive metabolites that are eliminated primarily by renal excretion.
+Zolpidem tartrate demonstrated linear kinetics in the dose range of 5 to 20 mg.
 Total protein binding was found to be 92.5 ± 0.1% and remained constant, independent of concentration between 40 and 790 ng/mL.
 Zolpidem did not accumulate in young adults following nightly dosing with 20 mg zolpidem tartrate tablets for 2 weeks.
 
-A food-effect study in 30 healthy male subjects compared the pharmacokinetics of zolpidem 10 mg when administered while fasting or 20 minutes after a meal.
+A food-effect study in 30 healthy male subjects compared the pharmacokinetics of zolpidem tartrate 10 mg when administered while fasting or 20 minutes after a meal.
 Results demonstrated that with food, mean AUC and Cmax were decreased by 15% and 25%, respectively, while mean Tmax was prolonged by 60% (from 1.4 to 2.2 hr). The half-life remained unchanged.
-These results suggest that, for faster sleep onset, zolpidem should not be administered with or immediately after a meal.
+These results suggest that, for faster sleep onset, zolpidem tartrate should not be administered with or immediately after a meal.
 
 Special Populations
 
@@ -32,15 +32,15 @@ Elderly
 
 In the elderly, the dose for zolpidem tartrate should be 5 mg [seeWarnings and Precautions (5), Dosage and Administration (2)].
 This recommendation is based on several studies in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.
-In one study of eight elderly subjects (> 70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng∙hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
+In one study of eight elderly subjects (> 70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs 384 ng/mL), 32% (2.2 vs 2.9 hr), and 64% (955 vs 1,562 ng∙hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
 Zolpidem tartrate did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
 Hepatic Impairment
 
 The pharmacokinetics of zolpidem tartrate in eight patients with chronic hepatic insufficiency was compared to results in healthy subjects.
-Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically compromised patients.
+Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs 499 ng/mL) and five times (788 vs 4,203 ng∙hr/mL) higher, respectively, in hepatically compromised patients.
 Tmax did not change.
-The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr) [see Dosage and Administration (2.2), Warnings and Precautions (5.7), Use in Specific Populations (8.7)].
+The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr) [see Dosage and Administration (2.2), Warnings and Precautions (5.8), Use in Specific Populations (8.7)].
 
 Renal Impairment
 
@@ -53,9 +53,9 @@ No dosage adjustment is necessary in patients with compromised renal function.
 
 Drug Interactions
 
-CNS-Depressants
+CNS Depressants
 
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [seeWarnings and Precautions (5.1)].
+Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [seeWarnings and Precautions (5.2)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
 Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.
@@ -63,7 +63,7 @@ Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinet
 A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
 The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration.
 
-An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [seeWarnings and Precautions (5.1)].
+An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [seeWarnings and Precautions (5.2)].
 
 Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (-53%).
 Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.

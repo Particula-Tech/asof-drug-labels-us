@@ -2,10 +2,11 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
-- •Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
-- •Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
-- •Withdrawal effects [see Warnings and Precautions (5.8)]
+- •Complex Sleep Behaviors [see Warnings and Precautions (5.1)]
+- •CNS-Depressant Effects and Next-Day Impairment [see Warnings and Precautions (5.2)]
+- •Serious Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.4)]
+- •Abnormal Thinking and Behavior Changes [see Warnings and Precautions (5.5)]
+- •Withdrawal effects [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -17,7 +18,7 @@ Reactions most commonly associated with discontinuation from these trials were d
 
 Data from a clinical study in which selective serotonin reuptake inhibitor (SSRI)-treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n =97) was discontinued after an attempted suicide.
 
-Most Commonly Observed Adverse Reactions in Controlled Trials:During short-term treatment (up to 10 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
+Most Commonly Observed Adverse Reactions in Controlled Trials:During short-term treatment (up to 10 nights) with zolpidem tartrate at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were drowsiness (reported by 2% of zolpidem patients), dizziness (1%), and diarrhea (1%).
 During longer-term treatment (28 to 35 nights) with zolpidem at doses up to 10 mg, the most commonly observed adverse reactions associated with the use of zolpidem and seen at statistically significant differences from placebo-treated patients were dizziness (5%) and drugged feelings (3%).
 
 Adverse Reactions Observed at an Incidence of ≥ 1% in Controlled Trials: The following tables enumerate treatment-emergent adverse reactions frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate and at a greater incidence than placebo in U.S. placebo-controlled trials.
@@ -29,9 +30,9 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Table 1: Incidences of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of Patients Reporting)
+Table 1: Incidences of Treatment-Emergent Adverse Reactions in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of Patients Reporting)
 
-| Body System Adverse Event* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
+| Body System Adverse Reaction* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
@@ -80,7 +81,7 @@ Table 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controll
 | Skin and Appendages |  |  |
 | Rash | 2 | 1 |
 
-*Reactions reported by at least 1% of patients treated with zolpidem and at a greater frequency than placebo.
+*Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo.
 
 Dose Relationship for Adverse Reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
@@ -200,7 +201,7 @@ Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, p
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of zolpidem.
+The following adverse reactions have been identified during postapproval use of zolpidem tartrate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2x ULN, alkaline phosphatase ≥2x ULN, transaminase ≥5x ULN).
