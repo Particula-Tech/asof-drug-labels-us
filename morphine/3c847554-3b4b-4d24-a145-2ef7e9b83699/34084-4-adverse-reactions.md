@@ -3,14 +3,14 @@
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- •Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.4)]
-- •Adrenal Insufficiency [see Warnings and Precautions (5.7)]
-- •Severe Hypotension [see Warnings and Precautions (5.8)]
-- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
-- •Seizures [see Warnings and Precautions (5.11)]
-- •Withdrawal [see Warnings and Precautions (5.12)]
+- •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- •Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- •Adrenal Insufficiency [see Warnings and Precautions (5.8)]
+- •Severe Hypotension [see Warnings and Precautions (5.9)]
+- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
+- •Seizures [see Warnings and Precautions (5.12)]
+- •Withdrawal [see Warnings and Precautions (5.13)]
 
 The following adverse reactions associated with the use of morphine were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

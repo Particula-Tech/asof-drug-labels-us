@@ -1,6 +1,6 @@
 # Medication Guide
 
-Morphine Sulfate (mor-pheen) Tablets CII
+Morphine Sulfate (mor’ feen sul’ fate) Tablets CII
 
 Rx only
 
@@ -19,6 +19,6 @@ Rx only
 | Distr. by: West-Ward Pharmaceuticals Corp. Eatontown NJ 07724For more information, please call 1-800-962-8364. |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |
 
-10004596/07
+10004596/09
 
-Revised December 2016
+Revised September 2018
