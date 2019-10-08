@@ -155,7 +155,7 @@ What are the ingredients in ARIMIDEX?
 
 Active ingredient: anastrozole
 
-Inactive ingredients: lactose, magnesium stearate, hydroxypropylmethylcellulose, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.
+Inactive ingredients: lactose, magnesium stearate, hypromellose, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
