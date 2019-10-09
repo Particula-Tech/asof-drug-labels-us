@@ -13,14 +13,13 @@ The median time to re-treatment was 14 weeks and 18 weeks for the 75th percentil
 
 The primary assessment of efficacy was based on the total Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) change from baseline at Week 4 for both studies.
 The scale evaluates the severity of dystonia, patient-perceived disability from dystonia, and pain.
-The adjusted mean change from baseline in the TWSTRS total score was statistically significantly greater for the DYSPORT group than the placebo group at Week 4 in both studies (see Table 11).
+The adjusted mean change from baseline in the TWSTRS total score was statistically significantly greater for the DYSPORT group than the placebo group at Week 4 in both studies (see Table 14).
 
-Table 11: TWSTRS Total Score Efficacy Outcome from the Phase 3 Cervical Dystonia Studies Intent to Treat Population
+Table 14: TWSTRS Total Score Efficacy Outcome from the Phase 3 Cervical Dystonia Studies Intent to Treat Population
 
-| N=55 | N=61 | N=37 | N=43 |  |
+| DYSPORT 500 Units N=55 | Placebo N=61 | DYSPORT 500 Units N=37 | Placebo N=43 |  |
 | --- | --- | --- | --- | --- |
 |  | Study 1 |  | Study 2 |  |
-| DYSPORT 500 Units | Placebo | DYSPORT 500 Units | Placebo |  |
 | Baseline (Week 0) |  |  |  |  |
 | Mean (SD) | 43.8 (8.0) | 45.8 (8.9) | 45.1 (8.7) | 46.2 (9.4) |
 | Week 4 |  |  |  |  |
@@ -36,9 +35,9 @@ Table 11: TWSTRS Total Score Efficacy Outcome from the Phase 3 Cervical Dystonia
 
 Analyses by gender, weight, geographic region, underlying pain, cervical dystonia severity at baseline and history of treatment with botulinum toxin did not show any meaningful differences between groups.
 
-Table 12 indicates the average DYSPORT dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trials.
+Table 15 indicates the average DYSPORT dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trials.
 
-Table 12: DYSPORT 500 Units starting dose (units and % of the total dose) by Unilateral Muscle Injected During Double-blind Pivotal Phase 3 studies 2 and 1 Combined
+Table 15: DYSPORT 500 Units starting dose (units and % of the total dose) by Unilateral Muscle Injected During Double-blind Pivotal Phase 3 studies 2 and 1 Combined
 
 | Median [DYSPORT Units] (min, max) | 75th percentile [DYSPORT Units] | Median [%] (min, max) | 75th percentile [%] |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -61,12 +60,12 @@ The total dose was delivered in equally divided aliquots to specified injection 
 
 Investigators and subjects assessed efficacy at maximum frown by using a 4-point scale (none, mild, moderate, severe).
 
-Overall treatment success was defined as post-treatment glabellar line severity of none or mild with at least 2 grade improvement from baseline for the combined investigator and subject assessments (composite assessment) on Day 30 (see Table 13).
+Overall treatment success was defined as post-treatment glabellar line severity of none or mild with at least 2 grade improvement from baseline for the combined investigator and subject assessments (composite assessment) on Day 30 (see Table 16).
 Additional endpoints for each of the studies were post-treatment glabellar line severity of none or mild with at least a 1 grade improvement from baseline for the separate investigator and subject assessments on Day 30.
 
 After completion of the randomized studies, subjects were offered participation in a two-year, open-label re-treatment study to assess the safety of multiple treatments.
 
-Table 13: Treatment Success at Day 30 (None or Mild with at least 2 Grade Improvement from Baseline at Maximum Frown for the combined Investigator and Subject Assessments (Composite))
+Table 16: Treatment Success at Day 30 (None or Mild with at least 2 Grade Improvement from Baseline at Maximum Frown for the combined Investigator and Subject Assessments (Composite))
 
 | Study | DYSPORT n/N (%) | Placebo n/N (%) |
 | --- | --- | --- |
@@ -79,14 +78,14 @@ Treatment with DYSPORT reduced the severity of glabellar lines for up to four mo
 
 Study GL-1
 
-Study GL-1 was a single-dose, double-blind, multi-center, randomized, placebo-controlled study in which 158 previously untreated subjects received either placebo or 50 Units of DYSPORT, administered in five aliquots of 10 Units (see Figure 1).
+Study GL-1 was a single-dose, double-blind, multicenter, randomized, placebo-controlled study in which 158 previously untreated subjects received either placebo or 50 Units of DYSPORT, administered in five aliquots of 10 Units (see Figure 1).
 Subjects were followed for 180 days.
 The mean age was 43 years; most of the subjects were women (85%), and predominantly Caucasian (49%) or Hispanic (47%).
-At Day 30, 55% of DYSPORT-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 13).
+At Day 30, 55% of DYSPORT-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 16).
 
-In study GL-1, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT group compared to the placebo group as assessed by both Investigators and subjects (see Table 14).
+In study GL-1, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT group compared to the placebo group as assessed by both Investigators and subjects (see Table 17).
 
-Table 14: GL-1: Investigators' and Subjects' Assessment of Glabellar Line Severity at Maximum Frown Using a 4-point Scale (% and Number of Subjects with Severity of None or Mild)
+Table 17: GL-1: Investigators' and Subjects' Assessment of Glabellar Line Severity at Maximum Frown Using a 4-point Scale (% and Number of Subjects with Severity of None or Mild)
 
 | Day | DYSPORT N=105 | Placebo N=53 | DYSPORT N=105 | Placebo N=53 |
 | --- | --- | --- | --- | --- |
@@ -101,7 +100,7 @@ Table 14: GL-1: Investigators' and Subjects' Assessment of Glabellar Line Severi
 
 Study GL-2
 
-Study GL-2 was a repeat-dose, double-blind, multi-center, placebo-controlled, randomized study.
+Study GL-2 was a repeat-dose, double-blind, multicenter, placebo-controlled, randomized study.
 The study was initiated with two or three open-label treatment cycles of 50 Units of DYSPORT administered in five aliquots of 10 Units DYSPORT (see Figure 1).
 After the open-label treatments, subjects were randomized to receive either placebo or 50 Units of DYSPORT.
 Subjects could have received up to four treatments through the course of the study.
@@ -109,13 +108,13 @@ Efficacy was assessed in the final randomized treatment cycle.
 The study enrolled 311 subjects into the first treatment cycle and 142 subjects were randomized into the final treatment cycle.
 Overall, the mean age was 47 years; most of the subjects were women (86%) and predominantly Caucasian (80%).
 
-At Day 30, 52% of DYSPORT-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 13).
+At Day 30, 52% of DYSPORT-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 16).
 
 The proportion of responders in the final treatment cycle was comparable to the proportion of responders in all prior treatment cycles.
 
-After the final repeat treatment with DYSPORT, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT group compared to the placebo group as assessed by both Investigators and subjects (see Table 15).
+After the final repeat treatment with DYSPORT, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT group compared to the placebo group as assessed by both Investigators and subjects (see Table 18).
 
-Table 15: GL-2: Investigators' and Subjects' Assessments of Glabellar Line Severity at Maximum Frown Using a 4-point Scale (% and Number of Subjects with Severity of None or Mild)
+Table 18: GL-2: Investigators' and Subjects' Assessments of Glabellar Line Severity at Maximum Frown Using a 4-point Scale (% and Number of Subjects with Severity of None or Mild)
 
 | Day | DYSPORT N=71 | Placebo N=71 | DYSPORT N=71 | Placebo N=71 |
 | --- | --- | --- | --- | --- |
@@ -124,15 +123,15 @@ Table 15: GL-2: Investigators' and Subjects' Assessments of Glabellar Line Sever
 
 Study GL-3
 
-Study GL-3 was a single-dose, double-blind, multi-center, randomized, placebo-controlled study in which 300 previously untreated subjects received either placebo or 50 Units of DYSPORT, administered in five aliquots of 10 Units (see Figure 1).
+Study GL-3 was a single-dose, double-blind, multicenter, randomized, placebo-controlled study in which 300 previously untreated subjects received either placebo or 50 Units of DYSPORT, administered in five aliquots of 10 Units (see Figure 1).
 Subjects were followed for 150 days.
 The mean age was 44 years; most of the subjects were women (87%), and predominantly Caucasian (75%) or Hispanic (18%).
 
 At Day 30, 60% of DYSPORT-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 16).
 
-In study GL-3, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT group compared to the placebo group as assessed by both Investigators and subjects (see Table 16).
+In study GL-3, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT group compared to the placebo group as assessed by both Investigators and subjects (see Table 19).
 
-Table 16.
+Table 19.
 GL-3: Investigators' and Subjects' Assessment of Glabellar Line Severity at Maximum Frown Using a 4-point Scale (% and Number of Subjects with Severity of None or Mild)
 
 | Day | DYSPORT N=200 | Placebo N=100 | DYSPORT N=200 | Placebo N=100 |
@@ -154,17 +153,18 @@ None of the geriatric DYSPORT subjects were a treatment success at maximum frown
 
 Upper Limb Spasticity
 
-The efficacy and safety of DYSPORT for the treatment of upper limb spasticity in adult patients was evaluated in a randomized, multi-center, double-blind, placebo-controlled study that included 238 patients (159 DYSPORT and 79 placebo) with upper limb spasticity (Modified Ashworth Scale (MAS) score ≥2 in the primary targeted muscle group for toxin-naive patients or MAS score ≥3 in the primary targeted muscle group for toxin non-naive patients at least 4 months after the last botulinum toxin injection, of any serotype) who were at least 6 months post-stroke or post-traumatic brain injury.
+The efficacy and safety of DYSPORT for the treatment of upper limb spasticity in adults was evaluated in a randomized, multicenter, double-blind, placebo-controlled study that included 238 patients (159 DYSPORT and 79 placebo) with upper limb spasticity (Modified Ashworth Scale (MAS) score ≥2 in the primary targeted muscle group for toxin-naive patients or MAS score ≥3 in the primary targeted muscle group for toxin non-naive patients at least 4 months after the last botulinum toxin injection, of any serotype) who were at least 6 months post-stroke or post-traumatic brain injury.
+The median age of the patients in this study was 55 years (range 18 to 78 years), 64% were male, and 86% were Caucasian.
 
 DYSPORT 500 Units (N=80), DYSPORT 1000 Units (N=79), or placebo (N=79) was injected intramuscularly into the affected upper limb muscles.
 After injection of the primary targeted muscle groups (PTMG), the remainder of the dose was injected into at least two additional upper limb muscles determined by the patient's individual presentation.
-Table 17 provides the mean and range of DYSPORT doses injected and the number of injections into specific muscles of the upper limb.
+Table 20 provides the mean and range of DYSPORT doses injected and the number of injections into specific muscles of the upper limb.
 
-Table 17: DYSPORT Dose Injected and Number of Injections per Muscle in Adult Patients with Upper Limb Spasticity
+Table 20: DYSPORT Dose Injected and Number of Injections per Muscle in Adults with Upper Limb Spasticity
 
 | Muscle | DYSPORT Treatment Group | Number of Patients | Mean DYSPORT Units Injected (Min, Max) | Number of Injection Sites Median, [Q1; Q3] |
 | --- | --- | --- | --- | --- |
-| Flexor digitorum profundus (FDP)PTMG | 500 U | 54 | 93.5 Units (50 to 100) | 1, [1; 2] |
+| Flexor digitorum profundus (FDP)Primary Targeted Muscle Group | 500 U | 54 | 93.5 Units (50 to 100) | 1, [1; 2] |
 | 1000 U | 65 | 195.5 Units (100 to 300) | 2, [1; 2] |  |
 | Flexor digitorum superficialis (FDS) | 500 U | 63 | 95.4 Units (50 to 100) | 2, [1; 2] |
 | 1000 U | 73 | 196.8 Units (100 to 300) | 2, [1; 2] |  |
@@ -181,9 +181,9 @@ Table 17: DYSPORT Dose Injected and Number of Injections per Muscle in Adult Pat
 | Pronator Teres | 500 U | 14 | 81.8 Units (45 to 200) | 1, [1; 1] |
 | 1000 U | 30 | 157.3 Units (80 to 200) | 1, [1; 1] |  |
 
-The co-primary efficacy variables were muscle tone assessed by the MAS at the primary targeted muscle group at Week 4 and the Physician Global Assessment (PGA) at Week 4 (see Table 18).
+The co-primary efficacy variables were muscle tone assessed by the MAS at the primary targeted muscle group at Week 4 and the Physician Global Assessment (PGA; ranges from –4 = markedly worse to +4= markedly improved) at Week 4 (see Table 21).
 
-Table 18: Primary Endpoints (PTMG MAS and PGA) and MAS by Muscle Group at Week 4 in Adult Patients with Upper Limb Spasticity
+Table 21: Primary Endpoints (PTMG MAS and PGA) and MAS by Muscle Group at Week 4 in Adults with Upper Limb Spasticity
 
 | (500 Units) (N=80) | (1000 Units) (N=79) |  |  |
 | --- | --- | --- | --- |
@@ -197,18 +197,17 @@ Table 18: Primary Endpoints (PTMG MAS and PGA) and MAS by Muscle Group at Week 4
 
 Lower Limb Spasticity
 
-The efficacy of DYSPORT for the treatment of lower limb spasticity was evaluated in a randomized, multi-center, double-blind, placebo-controlled study that included 381 patients (253 DYSPORT and 128 placebo).
+The efficacy of DYSPORT for the treatment of lower limb spasticity was evaluated in a randomized, multicenter, double-blind, placebo-controlled study that included 381 patients (253 DYSPORT and 128 placebo).
 Patients had lower limb spasticity (Modified Ashworth Scale (MAS) score ≥2 in the affected ankle joint for toxin-naive patients, or MAS score ≥3 in the affected ankle joint for toxin non-naive patients) and were at least 6 months post-stroke or post-traumatic brain injury.
 
-Table 19 provides the median DYSPORT doses injected and the number of injections into specific muscles of the lower limb as reported in the double-blind study.
+Table 22 provides the median DYSPORT doses injected and the number of injections into specific muscles of the lower limb as reported in the double-blind study.
 In the study, the gastrocnemius and soleus muscles, and at least one additional lower limb muscle were injected, according to the clinical presentation.
 
-Table 19: DYSPORT Dose Injected and Number of Injections per Muscle in the Lower Limb - Median for the 1000 Unit and 1500 Unit Dose Groups
+Table 22: DYSPORT Dose Injected and Number of Injections per Muscle in the Lower Limb - Median for the 1000 Unit and 1500 Unit Dose Groups
 
 | Injected Muscle | DYSPORT Units Injected | Number of Injection Sites |
 | --- | --- | --- |
-| Gastrocnemius |  |  |
-| Lateral | 100 Units to 150 Units | 1 |
+| Gastrocnemius Lateral | 100 Units to 150 Units | 1 |
 | Medial | 100 Units to 150 Units | 1 |
 | Soleus | 333 Units to 500 Units | 3 |
 | Tibialis posterior | 200 Units to 300 Units | 2 |
@@ -216,27 +215,73 @@ Table 19: DYSPORT Dose Injected and Number of Injections per Muscle in the Lower
 | Flexor hallucis longus | 67 Units to 200 Units | 1 |
 
 The primary efficacy variable was muscle tone assessed by the MAS at the ankle joint at Week 4.
-The first secondary endpoint was the Physician Global Assessment (ranges from –4 = markedly worse to +4= markedly improved) at Week 4 (see Table 20).
+The first secondary endpoint was the Physician Global Assessment at Week 4 (see Table 23).
 
-Table 20: Primary Endpoint Change in MAS and the First Secondary Endpoint PGA at Week 4 in Adult Patients with Lower Limb Spasticity
+Table 23: Primary Endpoint Change in MAS and the First Secondary Endpoint PGA at Week 4 in Adults with Lower Limb Spasticity
 
-| LS Mean Change from Baseline on the Modified Ashworth Scale | DYSPORT 1000 Units | DYSPORT 1500 Units | Placebo |
+| LS Mean Change from Baseline on the Modified Ashworth Scale | DYSPORT 1000 Units (N=125) | DYSPORT 1500 Units (N=128) | Placebo (N=128) |
 | --- | --- | --- | --- |
-| (N=125) | (N=128) | (N=128) |  |
 | Week 4 | -0.6 | -0.8p<0.05 | -0.5 |
-| LS Mean Physician Global Assessment ScoreInvestigator |  |  |  |
+| LS Mean Physician Global Assessment Score Investigator |  |  |  |
 | Week 4 | 0.9 | 0.9 | 0.7 |
 
-## 14.4 Pediatric Patients with Lower Limb Spasticity
+## 14.4 Spasticity in Pediatric Patients
 
-The efficacy of DYSPORT was evaluated in a double-blind, placebo-controlled multi-center study in patients 2 to 17 years of age treated for lower limb spasticity because of cerebral palsy causing dynamic equinus foot deformity.
-A total of 235 (158 DYSPORT and 77 placebo) toxin-naive or non-naive patients with a Modified Ashworth Score (MAS) of grade 2 or greater at the ankle plantar flexor were enrolled to receive DYSPORT 10 Units/kg/leg (n=79), DYSPORT 15 Units/kg/leg (n=79) or placebo (n=77) injected into the gastrocnemius and soleus muscles.
+Upper Limb Spasticity in Pediatric Patients
+
+The efficacy of DYSPORT for the treatment of upper limb spasticity in pediatric patients 2 years of age and older was evaluated in a double-blind, low-dose controlled, multicenter study (NCT02106351).
+A total of 208 toxin naive or non-naive (66% had prior treatment with a botulinum toxin) patients weighing at least 10 kgs, with a baseline Modified Ashworth Score (MAS) of grade 2 or greater (99% patients) at the primary targeted muscle groups (PTMG), were enrolled in the modified Intention to Treat population (mITT).
+Patients received DYSPORT 16 Units/kg (n=70), DYSPORT 8 Units/kg (n=69), or DYSPORT 2 Units/kg (n=69) injected into the upper limb.
+The elbow flexors and wrist flexors respectively were the PTMG in 57% and in 43% of patients.
+The median age of the patients in this study was 9 years (range 2 to 17 years; 57% were between 2 and 9 years of age); 60% of patients were male, and 75% were White.
+
+The primary efficacy endpoint was the mean change from baseline in MAS in the PTMG at Week 6 (see Table 24).
+The secondary efficacy endpoint was the mean Physician Global Assessment (PGA) score assessed at Week 6 (Table 25).
+Although PGA scores numerically favored DYSPORT treatment over the low-dose control, the difference was not statistically significant.
+
+Table 24: Modified Ashworth Scale Score in the PTMG Change from Baseline at Week 6 in Pediatric Patients with Upper Limb Spasticity (mITT Population)
+
+|  | DYSPORT 2 U/kg (N=69) | DYSPORT 8 U/kg (N=69) | DYSPORT 16 U/kg (N=70) |
+| --- | --- | --- | --- |
+|  | Control Group | Treatment Groups |  |
+| Baseline |  |  |  |
+| Mean (SD) | 3.1 (0.3) | 3.1 (0.3) | 3.1 (0.5) |
+| Week 6 |  |  |  |
+| LSLS=Least Square mean change from baseline in PTMGPTMG=Primary Targeted Muscle Group on MAS | -1.6 | -2.0 | -2.3 |
+| Difference from control in LS means |  | -0.4 | -0.7 |
+| p-value p-value is derived from ANCOVA on ranked MAS score change from baseline with treatment, baseline score, age range at baseline, prior botulinum toxin treatment status at baseline, and center as explanatory variables |  | 0.0118Nominal p-value <0.05 | <0.0001 |
+| Week 16 |  |  |  |
+| LS mean change from baseline in PTMG on MAS | -0.9 | -1.2 | -1.5 |
+| Difference from control in LS means |  | -0.3 | -0.6 |
+
+Table 25: Physician Global Assessment of Treatment Response at Week 6 in Pediatric Patients with Upper Limb Spasticity (mITT Population)
+
+|  | Dysport 2 U/kg (N=68) | Dysport 8 U/kg (N=69) | Dysport 16 U/kg (N=70) |
+| --- | --- | --- | --- |
+|  | Control Group | Treatment Groups |  |
+| Week 6 |  |  |  |
+| Mean score (SD) | 1.7 (0.9) | 2.0 (0.9) | 2.0 (0.9) |
+| LSLS=Least Square mean in PGA | 1.8 | 2.0 | 2.0 |
+| Difference from control in LS means |  | 0.2 | 0.2 |
+| p-value p-value is derived from ANOVA on ranked PGA score with treatment, age range at baseline, prior botulinum toxin treatment status at baseline, and center as explanatory variables |  | 0.2043 | 0.1880 |
+| Week 16 |  |  |  |
+| Mean score (SD) | 1.7 (1.0) | 1.6 (1.1) | 1.9 (1.2) |
+| LS mean in PGA | 1.8 | 1.7 | 1.9 |
+| Difference from control in LS means |  | -0.1 | 0.1 |
+| p-value |  | 0.7001 | 0.4041 |
+
+Lower Limb Spasticity in Pediatric Patients
+
+The efficacy of DYSPORT was evaluated in a double-blind, placebo-controlled, multicenter study in patients 2 to 17 years of age treated for lower limb spasticity because of cerebral palsy causing dynamic equinus foot deformity.
+A total of 235 (158 DYSPORT and 77 placebo) toxin-naive or non-naive patients with a Modified Ashworth Score (MAS) of grade 2 or greater at the ankle plantar flexors were enrolled to receive DYSPORT 10 Units/kg/leg (n=79), DYSPORT 15 Units/kg/leg (n=79) or placebo (n=77) injected into the gastrocnemius and soleus muscles (see Table 27).
 Forty-one percent of patients (n=66) were treated bilaterally and received a total lower limb DYSPORT dose of either 20 Units/kg (n=37) or 30 Units/kg (n=29).
-The primary efficacy endpoint was the mean change from baseline in MAS in ankle plantar flexor at Week 4; a co-primary endpoint was the mean Physician's Global Assessment (PGA) score at Week 4 (see Table 21).
+The median age of the patients in this study was 5 years (range 2 to 17 years); 60% of patients were male, and 73% were Caucasian.
 
-Table 21: MAS and PGA Change from Baseline at Week 4 in Pediatric Patients with Lower Limb Spasticity (ITT Population)
+The primary efficacy endpoint was the mean change from baseline in MAS in ankle plantar flexor at Week 4; a co-primary endpoint was the mean Physician's Global Assessment (PGA) score at Week 4 (see Table 26).
 
-|  |  | Placebo (N=77) | DYSPORT 10 U/kg/leg (N=79) | DYSPORT 15 U/kg/leg (N=79) |
+Table 26: MAS and PGA Change from Baseline at Week 4 in Pediatric Patients with Lower Limb Spasticity (ITT Population)
+
+|  |  | Placebo (N=77) | DYSPORT 10 Units/kg/leg (N=79) | DYSPORT 15 Units/kg/leg (N=79) |
 | --- | --- | --- | --- | --- |
 | LS Mean Change from Baseline in Ankle plantar flexor Muscle Tone on the MAS | Week 4 | -0.5 | -0.9p<0.05 | -1.0 |
 | Week 12 | -0.5 | -0.8 | -1.0 |  |
