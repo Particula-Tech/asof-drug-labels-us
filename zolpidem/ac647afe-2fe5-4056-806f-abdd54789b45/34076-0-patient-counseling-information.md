@@ -6,6 +6,12 @@ Inform patients of the availability of a Medication Guide and instruct them to r
 Review the zolpidem tartrate extended-release tablets Medication Guide with every patient prior to initiation of treatment.
 Instruct patients or caregivers that zolpidem tartrate extended-release tablets should be taken only as prescribed.
 
+Complex Sleep Behaviors
+
+Instruct patients and their families that zolpidem tartrate extended-release tablets may cause complex sleep behaviors, including sleep-walking, sleep-driving, preparing and eating food, making phone calls, or having sex while not being fully awake.
+Serious injuries and death have occurred during complex sleep behavior episodes.
+Tell patients to discontinue zolpidem tartrate extended-release tablets and notify their healthcare provider immediately if they develop any of these symptoms [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1)].
+
 CNS-Depressant Effects and Next-Day Impairment
 
 Tell patients that zolpidem tartrate extended-release tablets can cause next-day impairment even when used as prescribed, and that this risk is increased if dosing instructions are not carefully followed.
@@ -17,11 +23,6 @@ Severe Anaphylactic and Anaphylactoid Reactions
 
 Inform patients that severe anaphylactic and anaphylactoid reactions have occurred with zolpidem.
 Describe the signs/symptoms of these reactions and advise patients to seek medical attention immediately if any of them occur.
-
-Sleep-Driving and other Complex Behaviors
-
-Instruct patients and their families that sedative hypnotics can cause abnormal thinking and behavior change, including "sleep driving" and other complex behaviors while not being fully awake (preparing and eating food, making phone calls, or having sex).
-Tell patients to call you immediately if they develop any of these symptoms.
 
 Suicide
 
@@ -72,4 +73,4 @@ Goa 403 722
 
 INDIA
 
-Revised: March 6, 2019 ID#: 259651
+Revised: October 2019 ID#: 262323
