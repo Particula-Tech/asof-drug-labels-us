@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions can occur with Tasigna and are discussed in greater detail in other sections of labeling:
+The following clinically significant adverse reactions can occur with Tasigna and are discussed in greater detail in other sections of labeling:
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - QT Prolongation [see Boxed Warning, Warnings and Precautions (5.2)]
@@ -18,7 +18,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 In Adult Patients with Newly Diagnosed Ph+ CML-CP
 
-The data below reflect exposure to Tasigna from a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279).
+The data below reflect exposure to Tasigna from a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n = 279).
 The median time on treatment in the Tasigna 300 mg twice daily group was 61 months (range 0.1 to 71 months).
 The median actual dose intensity was 593 mg/day in the Tasigna 300 mg twice daily group.
 
@@ -28,25 +28,25 @@ Constipation, diarrhea, dry skin, muscle spasms, arthralgia, abdominal pain, per
 Increase in QTcF greater than 60 msec from baseline was observed in 1 patient (0.4%) in the 300 mg twice daily treatment group.
 No patient had an absolute QTcF of greater than 500 msec while on study drug.
 
-The most common hematologic adverse drug reactions (all grades) were myelosuppression including: thrombocytopenia (18%), neutropenia (15%) and anemia (8%).
+The most common hematologic adverse drug reactions (all Grades) were myelosuppression including: thrombocytopenia (18%), neutropenia (15%), and anemia (8%).
 See Table 9 for Grade 3/4 laboratory abnormalities.
 
 Discontinuation due to adverse reactions, regardless of relationship to study drug, was observed in 10% of patients.
 
 In Adult Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-In the single open-label multicenter clinical trial, a total of 458 patients with Ph+ CML-CP and CML-AP resistant to or intolerant to at least one prior therapy including imatinib were treated (CML-CP=321; CML-AP=137) at the recommended dose of 400 mg twice daily.
+In the single-arm, open-label multicenter clinical trial, a total of 458 patients with Ph+ CML-CP and CML-AP resistant to or intolerant to at least one prior therapy including imatinib were treated (CML-CP = 321; CML-AP = 137) at the recommended dose of 400 mg twice daily.
 
 The median duration of exposure in days for CML-CP and CML-AP patients is 561 (range 1 to 1096) and 264 (range 2 to 1160), respectively.
 The median dose intensity for patients with CML-CP and CML-AP is 789 mg/day (range 151 to 1110) and 780 mg/day (range 150 to 1149), respectively and corresponded to the planned 400 mg twice daily dosing.
 
 The median cumulative duration in days of dose interruptions for the CML-CP patients was 20 (range 1 to 345), and the median duration in days of dose interruptions for the CML-AP patients was 23 (range 1 to 234).
 
-In patients with CML-CP, the most commonly reported non-hematologic adverse drug reactions (greater than or equal to 10%) were rash, pruritus, nausea, fatigue, headache, constipation, diarrhea, vomiting and myalgia.
-The common serious drug-related adverse reactions (greater than or equal to 1% and less than 10%) were thrombocytopenia, neutropenia and anemia.
+In patients with CML-CP, the most commonly reported non-hematologic adverse drug reactions (greater than or equal to 10%) were rash, pruritus, nausea, fatigue, headache, constipation, diarrhea, vomiting, and myalgia.
+The common serious drug-related adverse reactions (greater than or equal to 1% and less than 10%) were thrombocytopenia, neutropenia, and anemia.
 
 In patients with CML-AP, the most commonly reported non-hematologic adverse drug reactions (greater than or equal to 10%) were rash, pruritus and fatigue.
-The common serious adverse drug reactions (greater than or equal to 1% and less than 10%) were thrombocytopenia, neutropenia, febrile neutropenia, pneumonia, leukopenia, intracranial hemorrhage, elevated lipase and pyrexia.
+The common serious adverse drug reactions (greater than or equal to 1% and less than 10%) were thrombocytopenia, neutropenia, febrile neutropenia, pneumonia, leukopenia, intracranial hemorrhage, elevated lipase, and pyrexia.
 
 Sudden deaths and QT prolongation were reported.
 The maximum mean QTcF change from baseline at steady-state was 10 msec.
@@ -63,85 +63,83 @@ Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless 
 
 |  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily |
-|  |  | N=279 | N=280 | N=279 | N=280 |
+|  |  | Tasigna 300 mg twice daily | Imatinib 400 mg once daily | Tasigna 300 mg twice daily | Imatinib 400 mg once daily |
+|  |  | N = 279 | N = 280 | N = 279 | N = 280 |
 | Body System and Adverse Reaction |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
-| Skin and subcutaneous tissue disorders | Rash | 38 | 19 | <1 | 2 |
-|  | Pruritus | 21 | 7 | <1 | 0 |
+| Skin and subcutaneous tissue disorders | Rash | 38 | 19 | < 1 | 2 |
+|  | Pruritus | 21 | 7 | < 1 | 0 |
 |  | Alopecia | 13 | 7 | 0 | 0 |
 |  | Dry skin | 12 | 6 | 0 | 0 |
 | Gastrointestinal disorders | Nausea | 22 | 41 | 2 | 2 |
-|  | Constipation | 20 | 8 | <1 | 0 |
+|  | Constipation | 20 | 8 | < 1 | 0 |
 |  | Diarrhea | 19 | 46 | 1 | 4 |
-|  | Vomiting | 15 | 27 | <1 | <1 |
-|  | Abdominal pain upper | 18 | 14 | 1 | <1 |
+|  | Vomiting | 15 | 27 | < 1 | < 1 |
+|  | Abdominal pain upper | 18 | 14 | 1 | < 1 |
 |  | Abdominal pain | 15 | 12 | 2 | 0 |
 |  | Dyspepsia | 10 | 12 | 0 | 0 |
-| Nervous system disorders | Headache | 32 | 23 | 3 | <1 |
-|  | Dizziness | 12 | 11 | <1 | <1 |
-| General disorders and administration site conditions | Fatigue | 23 | 20 | 1 | 1 |
-|  | Pyrexia | 14 | 13 | <1 | 0 |
-|  | Asthenia | 14 | 12 | <1 | 0 |
-|  | Peripheral edema | 9 | 20 | <1 | 0 |
-|  | Face edema | <1 | 14 | 0 | <1 |
-| Musculoskeletal and connective tissue disorders | Myalgia | 19 | 19 | <1 | <1 |
-|  | Arthralgia | 22 | 17 | <1 | <1 |
+| Nervous system disorders | Headache | 32 | 23 | 3 | < 1 |
+|  | Dizziness | 12 | 11 | < 1 | < 1 |
+| General disorders and administration-site conditions | Fatigue | 23 | 20 | 1 | 1 |
+|  | Pyrexia | 14 | 13 | < 1 | 0 |
+|  | Asthenia | 14 | 12 | < 1 | 0 |
+|  | Peripheral edema | 9 | 20 | < 1 | 0 |
+|  | Face edema | < 1 | 14 | 0 | < 1 |
+| Musculoskeletal and connective tissue disorders | Myalgia | 19 | 19 | < 1 | < 1 |
+|  | Arthralgia | 22 | 17 | < 1 | < 1 |
 |  | Muscle spasms | 12 | 34 | 0 | 1 |
-|  | Pain in extremity | 15 | 16 | <1 | <1 |
+|  | Pain in extremity | 15 | 16 | < 1 | < 1 |
 |  | Back pain | 19 | 17 | 1 | 1 |
-| Respiratory, thoracic and mediastinal disorders | Cough | 17 | 13 | 0 | 0 |
+| Respiratory, thoracic, and mediastinal disorders | Cough | 17 | 13 | 0 | 0 |
 |  | Oropharyngeal pain | 12 | 6 | 0 | 0 |
-|  | Dyspnea | 11 | 6 | 2 | <1 |
+|  | Dyspnea | 11 | 6 | 2 | < 1 |
 | Infections and infestations | Nasopharyngitis | 27 | 21 | 0 | 0 |
-|  | Upper respiratory tract infection | 17 | 14 | <1 | 0 |
+|  | Upper respiratory tract infection | 17 | 14 | < 1 | 0 |
 |  | Influenza | 13 | 9 | 0 | 0 |
-|  | Gastroenteritis | 7 | 10 | 0 | <1 |
-| Eye disorders | Eyelid edema | 1 | 19 | 0 | <1 |
-|  | Periorbital edema | <1 | 15 | 0 | 0 |
+|  | Gastroenteritis | 7 | 10 | 0 | < 1 |
+| Eye disorders | Eyelid edema | 1 | 19 | 0 | < 1 |
+|  | Periorbital edema | < 1 | 15 | 0 | 0 |
 | Psychiatric disorders | Insomnia | 11 | 9 | 0 | 0 |
-| Vascular disorder | Hypertension | 10 | 4 | 1 | <1 |
+| Vascular disorder | Hypertension | 10 | 4 | 1 | < 1 |
+| aExcluding laboratory abnormalities. bNCI Common Terminology Criteria for Adverse Events, version 3.0. |  |  |  |  |  |
 
-aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0
-
-Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Patients with Resistant or Intolerant Ph+ CML Receiving TASIGNA 400 mg Twice Daily (Regardless of Relationship to Study Drug) (Greater than or equal to 10% in any Group) 24-Month Analysisa
+Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Patients with Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice Daily (Regardless of Relationship to Study Drug) (Greater than or equal to 10% in any Group) 24-Month Analysisa
 
 | Body System and Adverse Reaction |  | CML-CP |  | CML-AP |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | N=321 |  | N=137 |  |
+|  |  | N = 321 |  | N = 137 |  |
 |  |  | All Grades (%) | CTC Gradesb 3/4 (%) | All Grades (%) | CTC Gradesb 3/4 (%) |
 | Skin and subcutaneous tissue disorders | Rash | 36 | 2 | 29 | 0 |
-|  | Pruritus | 32 | <1 | 20 | 0 |
-|  | Night sweat | 12 | <1 | 27 | 0 |
+|  | Pruritus | 32 | < 1 | 20 | 0 |
+|  | Night sweat | 12 | < 1 | 27 | 0 |
 |  | Alopecia | 11 | 0 | 12 | 0 |
-| Gastrointestinal disorders | Nausea | 37 | 1 | 22 | <1 |
-|  | Constipation | 26 | <1 | 19 | 0 |
+| Gastrointestinal disorders | Nausea | 37 | 1 | 22 | < 1 |
+|  | Constipation | 26 | < 1 | 19 | 0 |
 |  | Diarrhea | 28 | 3 | 24 | 2 |
-|  | Vomiting | 29 | <1 | 13 | 0 |
+|  | Vomiting | 29 | < 1 | 13 | 0 |
 |  | Abdominal pain | 15 | 2 | 16 | 3 |
-|  | Abdominal pain upper | 14 | <1 | 12 | <1 |
-|  | Dyspepsia | 10 | <1 | 4 | 0 |
+|  | Abdominal pain upper | 14 | < 1 | 12 | < 1 |
+|  | Dyspepsia | 10 | < 1 | 4 | 0 |
 | Nervous system disorders | Headache | 35 | 2 | 20 | 1 |
-| General disorders and administration site conditions | Fatigue | 32 | 3 | 23 | <1 |
-|  | Pyrexia | 22 | <1 | 28 | 2 |
+| General disorders and administration-site conditions | Fatigue | 32 | 3 | 23 | < 1 |
+|  | Pyrexia | 22 | < 1 | 28 | 2 |
 |  | Asthenia | 16 | 0 | 14 | 1 |
-|  | Peripheral edema | 15 | <1 | 12 | 0 |
-| Musculoskeletal and connective tissue disorders | Myalgia | 19 | 2 | 16 | <1 |
+|  | Peripheral edema | 15 | < 1 | 12 | 0 |
+| Musculoskeletal and connective tissue disorders | Myalgia | 19 | 2 | 16 | < 1 |
 |  | Arthralgia | 26 | 2 | 16 | 0 |
-|  | Muscle spasms | 13 | <1 | 15 | 0 |
-|  | Bone pain | 14 | <1 | 15 | 2 |
+|  | Muscle spasms | 13 | < 1 | 15 | 0 |
+|  | Bone pain | 14 | < 1 | 15 | 2 |
 |  | Pain in extremity | 20 | 2 | 18 | 1 |
-|  | Back pain | 17 | 2 | 15 | <1 |
-|  | Musculoskeletal pain | 11 | <1 | 12 | 1 |
-| Respiratory, thoracic and mediastinal disorders | Cough | 27 | <1 | 18 | 0 |
+|  | Back pain | 17 | 2 | 15 | < 1 |
+|  | Musculoskeletal pain | 11 | < 1 | 12 | 1 |
+| Respiratory, thoracic, and mediastinal disorders | Cough | 27 | < 1 | 18 | 0 |
 |  | Dyspnea | 15 | 2 | 9 | 2 |
 |  | Oropharyngeal pain | 11 | 0 | 7 | 0 |
-| Infections and infestations | Nasopharyngitis | 24 | <1 | 15 | 0 |
+| Infections and infestations | Nasopharyngitis | 24 | < 1 | 15 | 0 |
 |  | Upper respiratory tract infection | 12 | 0 | 10 | 0 |
-| Metabolism and nutrition disorders | Decreased appetitec | 15 | <1 | 17 | <1 |
+| Metabolism and nutrition disorders | Decreased appetitec | 15 | < 1 | 17 | < 1 |
 | Psychiatric disorders | Insomnia | 12 | 1 | 7 | 0 |
-| Vascular disorders | Hypertension | 10 | 2 | 11 | <1 |
-
-aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 cAlso includes preferred term anorexia
+| Vascular disorders | Hypertension | 10 | 2 | 11 | < 1 |
+| aExcluding laboratory abnormalities. bNCI Common Terminology Criteria for Adverse Events, version 3.0. cAlso includes preferred term anorexia. |  |  |  |  |  |
 
 Laboratory Abnormalities
 
@@ -153,61 +151,53 @@ Table 9: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | --- | --- | --- | --- | --- |
 |  | Newly Diagnosed Adult Ph+ CML-CP |  | Resistant or Intolerant Adult Ph+ |  |
 |  |  |  | CML-CP | CML-AP |
-|  | TASIGNA 300 mg twice daily N=279 (%) | Imatinib 400 mg once daily N=280 (%) | TASIGNA 400 mg twice daily N=321 (%) | TASIGNA 400 mg twice daily N=137 (%) |
+|  | Tasigna 300 mg twice daily N = 279 (%) | Imatinib 400 mg once daily N = 280 (%) | Tasigna 400 mg twice daily N = 321 (%) | Tasigna 400 mg twice daily N = 137 (%) |
 | Hematologic Parameters |  |  |  |  |
 | Thrombocytopenia | 10 | 9 | 301 | 423 |
 | Neutropenia | 12 | 22 | 312 | 424 |
 | Anemia | 4 | 6 | 11 | 27 |
 | Biochemistry Parameters |  |  |  |  |
 | Elevated lipase | 9 | 4 | 18 | 18 |
-| Hyperglycemia | 7 | <1 | 12 | 6 |
+| Hyperglycemia | 7 | < 1 | 12 | 6 |
 | Hypophosphatemia | 8 | 10 | 17 | 15 |
-| Elevated bilirubin (total) | 4 | <1 | 7 | 9 |
+| Elevated bilirubin (total) | 4 | < 1 | 7 | 9 |
 | Elevated SGPT (ALT) | 4 | 3 | 4 | 4 |
 | Hyperkalemia | 2 | 1 | 6 | 4 |
-| Hyponatremia | 1 | <1 | 7 | 7 |
-| Hypokalemia | <1 | 2 | 2 | 9 |
+| Hyponatremia | 1 | < 1 | 7 | 7 |
+| Hypokalemia | < 1 | 2 | 2 | 9 |
 | Elevated SGOT (AST) | 1 | 1 | 3 | 2 |
-| Decreased albumin | 0 | <1 | 4 | 3 |
-| Hypocalcemia | <1 | <1 | 2 | 5 |
-| Elevated alkaline phosphatase | 0 | <1 | <1 | 1 |
-| Elevated creatinine | 0 | <1 | <1 | <1 |
+| Decreased albumin | 0 | < 1 | 4 | 3 |
+| Hypocalcemia | < 1 | < 1 | 2 | 5 |
+| Elevated alkaline phosphatase | 0 | < 1 | < 1 | 1 |
+| Elevated creatinine | 0 | < 1 | < 1 | < 1 |
+| Abbreviations: ALT alanine aminotransferase; AST, aspartate aminotransferase (AST). *NCI Common Terminology Criteria for Adverse Events, version 3.0. 1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4. 2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4. 3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4. 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4. |  |  |  |  |
 
-*NCI Common Terminology Criteria for Adverse Events, version 3.0
-
-1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4
-
-2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4
-
-3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4
-
-4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4
-
-Elevated total cholesterol (all grades) occurred in 28% (Tasigna 300 mg twice daily) and 4% (imatinib).
-Elevated triglycerides (all grades) occurred in 12% and 8% of patients in the Tasigna and imatinib arms, respectively.
+Elevated total cholesterol (all Grades) occurred in 28% (Tasigna 300 mg twice daily) and 4% (imatinib).
+Elevated triglycerides (all Grades) occurred in 12% and 8% of patients in the Tasigna and imatinib arms, respectively.
 Hyperglycemia (all Grades) occurred in 50% and 31% of patients in the Tasigna and imatinib arms, respectively.
 
-Most common biochemistry laboratory abnormalities (all grades) were alanine aminotransferase increased (72%), blood bilirubin increased (59%), aspartate aminotransferase increased (47%), lipase increased (28%), blood glucose increased (50%), blood cholesterol increased (28%), and blood triglyceride increased (12%).
+Most common biochemistry laboratory abnormalities (all Grades) were alanine aminotransferase increased (72%), blood bilirubin increased (59%), aspartate aminotransferase increased (47%), lipase increased (28%), blood glucose increased (50%), blood cholesterol increased (28%), and blood triglyceride increased (12%).
 
 Treatment discontinuation in Ph+ CML-CP patients who have achieved a sustained molecular response (MR4.5)
 
-In eligible patients who discontinued Tasigna therapy after attaining a sustained molecular response (MR4.5), musculoskeletal symptoms (e.g. myalgia, pain in extremity, arthralgia, bone pain, spinal pain, or musculoskeletal pain), were reported more frequently than before treatment discontinuation in the first year, as noted in Table 10.
+In eligible patients who discontinued Tasigna therapy after attaining a sustained molecular response (MR4.5), musculoskeletal symptoms (e.g., myalgia, pain in extremity, arthralgia, bone pain, spinal pain, or musculoskeletal pain), were reported more frequently than before treatment discontinuation in the first year, as noted in Table 10.
 The rate of new musculoskeletal symptoms generally decreased in the second year after treatment discontinuation.
 
 In the newly diagnosed population in whom musculoskeletal symptoms occurred at any time during the TFR phase, 23/53 (43.4%) had not resolved by the TFR end date or data cut-off date.
 In the population previously treated with imatinib in whom musculoskeletal events occurred at any time during the TFR phase, 32/57 (56.1%) had not resolved by the data cut-off date.
 
 The rate of musculoskeletal symptoms decreased in patients who entered the Tasigna treatment reinitiation (NTRI) phase, at 11/88 (12.5%) in the newly diagnosed population and 14/56 (25%) in the population previously treated with imatinib.
-Other adverse reactions observed in the Tasigna re-treatment phase were similar to those observed Tasigna use in patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP.
+Other adverse reactions observed in the Tasigna re-treatment phase were similar to those observed during Tasigna use in patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP.
 
-Table 10: Musculoskeletal symptoms occurring upon treatment discontinuation in the context of treatment-free remission (TFR)
+Table 10: Musculoskeletal Symptoms Occurring Upon Treatment Discontinuation in the Context of Treatment-free Remission (TFR)
 
 |  | Entire TFR period in all TFR patients |  |  |  | By time interval, in subset of patients in TFR greater than 48 weeks |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ph+ CML-CP patients | N | Median follow-up in TFR | Patients with musculoskeletal symptoms |  | N | Year prior to TASIGNA discontinuation |  | 1st year after TASIGNA discontinuation |  | 2nd year after TASIGNA discontinuation |  |
+| Ph+ CML-CP patients | N | Median follow-up in TFR | Patients with musculoskeletal symptoms |  | N | Year prior to Tasigna discontinuation |  | 1st year after Tasigna discontinuation |  | 2nd year after Tasigna discontinuation |  |
 |  |  |  | All Grades | Grade 3/4 |  | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | Newly Diagnosed | 190 | 76 weeks | 28% | 1% | 100 | 17% | 0% | 34% | 2% | 9% | 0% |
 | Previously treated with imatinib | 126 | 99 weeks | 45% | 2% | 73 | 14% | 0% | 48% | 3% | 15% | 1% |
+| Abbreviation: TFR, treatment-free remission. |  |  |  |  |  |  |  |  |  |  |  |
 
 Additional Data from Clinical Trials
 
@@ -272,7 +262,7 @@ Gastrointestinal Disorders: Common: pancreatitis, abdominal discomfort, abdomina
 Uncommon: gastrointestinal hemorrhage, melena, mouth ulceration, gastroesophageal reflux, stomatitis, esophageal pain, dry mouth, gastritis, sensitivity of teeth.
 Unknown frequency: gastrointestinal ulcer perforation, retroperitoneal hemorrhage, hematemesis, gastric ulcer, esophagitis ulcerative, subileus, enterocolitis, hemorrhoids, hiatus hernia, rectal hemorrhage, gingivitis.
 
-Hepatobiliary Disorders: Very Common: hyperbilirubinemia.
+Hepatobiliary Disorders: Very common: hyperbilirubinemia.
 Common: hepatic function abnormal.
 Uncommon: hepatotoxicity, toxic hepatitis, jaundice.
 Unknown frequency: cholestasis, hepatomegaly.
@@ -301,7 +291,7 @@ Common: hemoglobin decreased, blood amylase increased, gamma-glutamyltransferase
 Uncommon: blood lactate dehydrogenase increased, blood urea increased.
 Unknown frequency: troponin increased, blood bilirubin unconjugated increased, insulin C-peptide decreased, blood parathyroid hormone increased.
 
-In Pediatric Patients with Newly Diagnosed Ph+ CML-CP or Resistant or Intolerant Ph+ CML-CP The data below reflect exposure to Tasigna from two studies in pediatric patients from 2 to less than 18 years of age with either newly diagnosed Ph+ CML-CP or imatinib/dasatinib resistant or intolerant Ph+ CML-CP treated at the recommended dose of 230 mg/m2 twice daily (n=69) [see Clinical Studies (14.5)].
+In Pediatric Patients with Newly Diagnosed Ph+ CML-CP or Resistant or Intolerant Ph+ CML-CP The data below reflect exposure to Tasigna from two studies in pediatric patients from 2 to less than 18 years of age with either newly diagnosed Ph+ CML-CP or imatinib/dasatinib resistant or intolerant Ph+ CML-CP treated at the recommended dose of 230 mg/m2 twice daily (n = 69) [see Clinical Studies (14.5)].
 The median time on treatment with Tasigna was 13.8 months (range: 0.7 to 30.9 months).
 The median actual dose intensity was 435.5 mg/m2/day (range: 149 to 517 mg/m2/day), and the median relative dose intensity was 94.7% (range: 32 to 112%).
 Forty patients (58.0%) had relative dose intensity superior to 90%.
@@ -311,13 +301,20 @@ The most common (greater than 5%) Grade 3/4 non-hematologic adverse drug reactio
 
 Laboratory abnormalities of hyperbilirubinemia (Grade 3/4: 13%) and transaminase elevation (AST Grade 3/4: 1%, ALT Grade 3/4: 9%), were reported at a higher frequency than in adult patients.
 
-The most common hematological adverse drug reactions (greater than or equal to 30% of patients, of all grades) were decreases in total white blood cells (54%), platelet count (44%), absolute neutrophils (41%), absolute lymphocytes (32%), and hemoglobin (30%).
+The most common hematological adverse drug reactions (greater than or equal to 30% of patients, of all Grades) were decreases in total white blood cells (54%), platelet count (44%), absolute neutrophils (41%), absolute lymphocytes (32%), and hemoglobin (30%).
 
 Discontinuation due to adverse reactions occurred in 9 patients (13%).
 The adverse reactions leading to discontinuation were hyperbilirubinemia (6%) and rash (4%).
 
 Increase in QTcF greater than 30 msec from baseline was observed in 17 patients (25%).
 No patient had an absolute QTcF of greater than 500 msec or QTcF increase of greater than 60 msec from baseline.
+
+Growth Retardation in Pediatric Population
+
+In a multicenter, open-label, single-arm study of 58 pediatric patients with newly diagnosed or resistant Ph+ CML-CP treated with Tasigna, with a median exposure of 33 months in each cohort, adverse reactions associated with growth and deceleration of growth in regard to height were reported in 3 patients (5%).
+The adverse reactions include growth retardation in 2 adolescent patients and growth hormone deficiency with body height below normal in the remaining patient (age category: child).
+Of the 58 pediatric patients, 12% (n = 7) experienced a decrease of two main height percentiles compared with baseline (percentile lines: 5th, 10th, 25th, 50th, 75th, 90th, and 95th).
+Close monitoring of growth in pediatric patients under Tasigna treatment is recommended [see Warnings and Precautions (5.14)].
 
 ## 6.2 Postmarketing Experience
 

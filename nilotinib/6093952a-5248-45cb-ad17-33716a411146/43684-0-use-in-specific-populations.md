@@ -12,7 +12,7 @@ Advise pregnant women of the potential risk to a fetus.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2%-4% and 15%-20%, respectively.
 
 Data
 
@@ -21,7 +21,7 @@ Animal Data
 In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of nilotinib up to 100 mg/kg/day and 300 mg/kg/day, respectively, during the period of organogenesis.
 
 In rats, oral administration of nilotinib produced embryo-lethality/fetal effects at doses ≥ 30 mg/kg/day.
-At ≥ 30 mg/kg/day skeletal variations of incomplete ossification of the frontals and misshapen sternebra were noted, and there was an increased incidence of small renal papilla and fetal edema.
+At ≥ 30 mg/kg/day, skeletal variations of incomplete ossification of the frontals and misshapen sternebra were noted, and there was an increased incidence of small renal papilla and fetal edema.
 At 100 mg/kg/day, nilotinib was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption) and resulted in a single incidence of cleft palate and two incidences of pale skin were noted in the fetuses.
 A single incidence of dilated ureters was noted in a fetus also displaying small renal papilla at 100 mg/kg/day.
 Additional variations of forepaw and hindpaw phalanx unossified, fused sternebra, bipartite sternebra ossification, and incomplete ossification of the cervical vertebra were noted at 100 mg/kg/day.
@@ -41,7 +41,7 @@ Risk Summary
 
 No data are available regarding the presence of nilotinib or its metabolites in human milk or its effects on a breastfed child or on milk production.
 However, nilotinib is present in the milk of lactating rats.
-Because of the potential for serious adverse reactions in a nursing child, advise lactating women not to breastfeed during treatment with Tasigna and for at least 14 days after the last dose.
+Because of the potential for serious adverse reactions in a breastfed child, advise lactating women not to breastfeed during treatment with Tasigna and for at least 14 days after the last dose.
 
 Animal Data
 
@@ -81,6 +81,7 @@ All pediatric patients received Tasigna treatment at a dose of 230 mg/m2 twice d
 No differences in efficacy or safety were observed between the different age subgroups in the two trials.
 
 The frequency, type, and severity of adverse reactions observed were generally consistent with those observed in adults, with the exception of the laboratory abnormalities of hyperbilirubinemia (Grade 3/4: 13%) and transaminase elevation (AST Grade 3/4: 1%, ALT Grade 3/4: 9%), which were reported at a higher frequency in pediatric patients than in adults [see Adverse Reactions (6.1)].
+For pediatric growth and development, growth retardation has been reported in pediatric patients with Ph+ CML-CP treated with Tasigna [see Warnings and Precautions (5.14), and Adverse Reactions (6.1)].
 
 The long-term effects of prolonged treatment with Tasigna in pediatric patients are unknown.
 

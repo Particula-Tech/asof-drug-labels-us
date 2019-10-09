@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage
 
-Tasigna should be taken twice daily at approximately 12-hour intervals and must be taken on an empty stomach.
+Dose Tasigna twice daily at approximately 12-hour intervals on an empty stomach.
 No food should be consumed for at least 2 hours before the dose is taken and for at least 1 hour after the dose is taken.
 Advise patients to swallow the capsules whole with water [see Boxed Warning, Clinical Pharmacology (12.3)].
 
@@ -14,32 +14,32 @@ Tasigna may be given with hydroxyurea or anagrelide if clinically indicated.
 
 Dosage in Adult Patients with Newly Diagnosed Ph+ CML-CP
 
-The recommended dose of Tasigna is 300 mg orally twice daily.
+The recommended dosage of Tasigna is 300 mg orally twice daily.
 
 Dosage in Adult Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-The recommended dose of Tasigna is 400 mg orally twice daily.
+The recommended dosage of Tasigna is 400 mg orally twice daily.
 
 Dosage in Pediatric Patients with Newly Diagnosed Ph+ CML-CP or Resistant or Intolerant Ph+ CML-CP
 
-The recommended dose of Tasigna for pediatric patients is 230 mg/m2 orally twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg) (see Table 1).
+The recommended dosage of Tasigna for pediatric patients is 230 mg/m2 orally twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg) (see Table 1).
 If needed, attain the desired dose by combining different strengths of Tasigna capsules.
 Continue treatment as long as clinical benefit is observed or until unacceptable toxicity occurs.
 
-Table 1: Pediatric dosing of Tasigna (230 mg/m2 twice daily, maximum single dose of 400 mg)
+Table 1: Pediatric Dosing of Tasigna (230 mg/m2 twice daily, maximum single dose of 400 mg)
 
-| Body Surface Area (BSA) | Single Dose | Total Daily Dose |
+| Body Surface Area | Single Dose | Total Daily Dose |
 | --- | --- | --- |
 | Up to 0.32 m2 | 50 mg | 100 mg |
-| 0.33 - 0.54 m2 | 100 mg | 200 mg |
-| 0.55 - 0.76 m2 | 150 mg | 300 mg |
-| 0.77 - 0.97 m2 | 200 mg | 400 mg |
-| 0.98 - 1.19 m2 | 250 mg | 500 mg |
-| 1.20 - 1.41 m2 | 300 mg | 600 mg |
-| 1.42 - 1.63 m2 | 350 mg | 700 mg |
-| ≥1.64 m2 | 400 mg | 800 mg |
+| 0.33–0.54 m2 | 100 mg | 200 mg |
+| 0.55–0.76 m2 | 150 mg | 300 mg |
+| 0.77–0.97 m2 | 200 mg | 400 mg |
+| 0.98–1.19 m2 | 250 mg | 500 mg |
+| 1.20–1.41 m2 | 300 mg | 600 mg |
+| 1.42–1.63 m2 | 350 mg | 700 mg |
+| ≥ 1.64 m2 | 400 mg | 800 mg |
 
-## 2.2 Discontinuation of treatment after a sustained molecular response (MR4.5) on Tasigna
+## 2.2 Discontinuation of Treatment After a Sustained Molecular Response (MR4.5) on Tasigna
 
 Patient Selection
 
@@ -48,7 +48,7 @@ Eligibility for Discontinuation of Treatment
 Ph+ CML-CP patients with typical BCR-ABL transcripts who have been taking Tasigna for a minimum of 3 years and have achieved a sustained molecular response (MR4.5, corresponding to = BCR-ABL/ABL ≤ 0.0032% IS) may be eligible for treatment discontinuation [see Clinical Studies (14.3, 14.4)].
 Information on FDA authorized tests for the detection and quantitation of BCR-ABL transcripts to determine eligibility for treatment discontinuation is available at http://www.fda.gov/CompanionDiagnostics.
 
-Patients with typical BCR-ABL transcripts (i.e., 13a2/b2a2 or e14a2/b3a2) who achieve the sustained MR4.5 criteria are eligible for discontinuation of Tasigna treatment.
+Patients with typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2) who achieve the sustained MR4.5 criteria are eligible for discontinuation of Tasigna treatment.
 Patients must continue to be monitored for possible loss of molecular remission after treatment discontinuation.
 Use the same FDA authorized test to consistently monitor molecular response levels while on and off treatment.
 
@@ -82,12 +82,12 @@ Consider discontinuation of treatment in patients with Ph+ CML-CP that are resis
 
 ● no history of prior attempts of treatment-free remission discontinuation that resulted in relapse.
 
-Monitor BCR-ABL transcript levels and complete blood count with differential in patients who have discontinued Tasigna therapy monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter [see Warnings and Precautions (5.16)].
+Monitor BCR-ABL transcript levels and complete blood count (CBC) with differential in patients who have discontinued Tasigna therapy monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter [see Warnings and Precautions (5.16)].
 
-Upon the loss of MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01%IS) during the treatment-free phase, monitor BCR-ABL transcript levels every 2 weeks until BCR-ABL levels remain lower than major molecular response (MMR, corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1%IS) for 4 consecutive measurements.
+Upon the loss of MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01% IS) during the treatment-free phase, monitor BCR-ABL transcript levels every 2 weeks until BCR-ABL levels remain lower than major molecular response [(MMR), corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1% IS] for 4 consecutive measurements.
 The patient can then proceed to the original monitoring schedule.
 
-## 2.3 Reinitiation of treatment in patients who lose molecular response after discontinuation of therapy with Tasigna.
+## 2.3 Reinitiation of Treatment in Patients who Lose Molecular Response After Discontinuation of Therapy With Tasigna
 
 ● Newly diagnosed patients who lose MMR must reinitiate treatment within 4 weeks at the dose level prior to discontinuation of therapy [see Warnings and Precautions (5.16)].
 Patients who reinitiate Tasigna therapy should have their BCR-ABL transcript levels monitored monthly until major molecular response is re-established and every 12 weeks thereafter.
@@ -104,6 +104,7 @@ Table 2: Dose Adjustments for Adult and Pediatric Patients with QT Prolongation
 | Degree of QTc Prolongation | Dose Adjustment |
 | --- | --- |
 | ECGs with a QTc greater than 480 msec | 1. Withhold Tasigna, and perform an analysis of serum potassium and magnesium, and if below lower limit of normal, correct with supplements to within normal limits. Concomitant medication usage must be reviewed. 2. Resume within 2 weeks at prior dose if QTcF returns to less than 450 msec and to within 20 msec of baseline. 3. If QTcF is between 450 msec and 480 msec after 2 weeks, reduce the dose to 400 mg once daily in adults and 230 mg/m2 once daily in pediatric patients. 4. Discontinue Tasigna if, following dose-reduction to 400 mg once daily in adults and 230 mg/m2 once daily in pediatric patients, QTcF returns to greater than 480 msec. 5. An ECG should be repeated approximately 7 days after any dose adjustment. |
+| Abbreviation: ECG, electrocardiogram. |  |
 
 ## 2.5 Dosage Modifications for Myelosuppression
 
@@ -115,7 +116,7 @@ Table 3: Dose Adjustments for Neutropenia and Thrombocytopenia
 | --- | --- | --- |
 | Adult patients with: - Newly diagnosed Ph+ CML in chronic phase at 300 mg twice daily - Resistant or intolerant Ph+ CML in chronic phase or accelerated phase at 400 mg twice daily | ANC* less than 1.0 x 109/L and/or platelet counts less than 50 x 109/L | 1. Stop Tasigna, and monitor blood counts 2. Resume within 2 weeks at prior dose if ANC greater than 1.0 x 109/L and platelets greater than 50 x 109/L 3. If blood counts remain low for greater than 2 weeks, reduce the dose to 400 mg once daily |
 | Pediatric patients with: - Newly diagnosed Ph+ CML in chronic phase at 230 mg/m2 twice daily - Resistant or intolerant Ph+ CML in chronic phase at 230 mg/m2 twice daily | ANC* less than 1.0 x 109/L and/or platelet counts less than 50 x 109/L | 1. Stop Tasigna and monitor blood counts 2. Resume within 2 weeks at prior dose if ANC greater than 1.5 x 109/L and/or platelets greater than 75 x 109/L 3. If blood counts remain low for greater than 2 weeks, a dose reduction to 230 mg/m2 once daily may be required 4. If event occurs after dose reduction, consider discontinuing treatment |
-| *ANC=absolute neutrophil count |  |  |
+| *ANC = absolute neutrophil count. |  |  |
 
 See Table 4 for dose adjustments for elevations of lipase, amylase, bilirubin, and/or hepatic transaminases [see Adverse Reactions (6.1)].
 

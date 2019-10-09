@@ -60,6 +60,7 @@ Advise patients that Tasigna can cause fluid retention and to seek immediate med
 Effects on Growth and Development in Pediatric Patients
 
 Inform pediatric patients and their caregivers of the possibility of developing growth abnormalities.
+Growth retardation has been reported in pediatric patients treated with Tasigna.
 Therefore, monitor growth and development in pediatric patients [see Warnings and Precautions (5.14)].
 
 Treatment Free Remission (TFR)
@@ -76,7 +77,7 @@ Embryo-Fetal Toxicity
 Advise females to inform their healthcare provider if they are pregnant or become pregnant.
 Inform female patients of the risk to a fetus and potential loss of the pregnancy [see Use in Specific Populations (8.1)].
 
-Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after receiving the last dose of Tasigna [see Warnings and Precautions (5.15) and Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after receiving the last dose of Tasigna [see Warnings and Precautions (5.15), and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -92,4 +93,4 @@ Advise patients of the following:
 - If a dose is missed, take the next dose as scheduled.
   Do not take a double dose to make up for the missed capsules.
 
-T2018-103
+© Novartis T2019-108

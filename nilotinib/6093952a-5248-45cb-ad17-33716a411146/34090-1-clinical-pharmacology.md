@@ -99,7 +99,7 @@ CYP3A4 Substrates: Multiple doses of Tasigna increased the systemic exposure of 
 
 CYP2C9 Substrates: Single-dose of Tasigna did not change the pharmacokinetics and pharmacodynamics of warfarin (a CYP2C9 substrate).
 
-In Vitro Studies Where Drug Interaction Potential Was Not Further Evaluated Clinically
+In Vitro Studies Where Drug Interaction Potential was not Further Evaluated Clinically
 
 CYP Substrates: Nilotinib is a competitive inhibitor of CYP2C8, CYP2D6, and is an inducer of CYP2B6 and CYP2C8.
 

@@ -2,7 +2,7 @@
 
 ## 1.1 Adult and Pediatric Patients with Newly Diagnosed Ph+ CML-CP
 
-Tasigna (nilotinib) is indicated for the treatment of adult and pediatric patients greater than or equal to 1 year of age with newly diagnosed Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) in chronic phase.
+Tasigna is indicated for the treatment of adult and pediatric patients greater than or equal to 1 year of age with newly diagnosed Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) in chronic phase.
 
 ## 1.2 Adult Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 

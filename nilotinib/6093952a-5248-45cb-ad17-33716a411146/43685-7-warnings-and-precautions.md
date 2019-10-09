@@ -2,8 +2,8 @@
 
 ## 5.1 Myelosuppression
 
-Treatment with Tasigna can cause Grade 3/4 thrombocytopenia, neutropenia and anemia.
-Perform complete blood counts every 2 weeks for the first 2 months and then monthly thereafter, or as clinically indicated.
+Treatment with Tasigna can cause Grade 3/4 thrombocytopenia, neutropenia, and anemia.
+Perform complete blood counts (CBCs) every 2 weeks for the first 2 months and then monthly thereafter, or as clinically indicated.
 Myelosuppression was generally reversible and usually managed by withholding Tasigna temporarily or dose reduction [see Dosage and Administration (2.5)].
 
 ## 5.2 QT Prolongation
@@ -12,8 +12,8 @@ Tasigna has been shown to prolong cardiac ventricular repolarization as measured
 Prolongation of the QT interval can result in a type of ventricular tachycardia called torsade de pointes, which may result in syncope, seizure, and/or death.
 ECGs should be performed at baseline, 7 days after initiation of Tasigna, and periodically as clinically indicated and following dose adjustments [see Warnings and Precautions (5.12)].
 
-Tasigna should not be used in patients who have hypokalemia, hypomagnesemia or long QT syndrome.
-Before initiating Tasigna and periodically, test electrolyte, calcium and magnesium blood levels.
+Tasigna should not be used in patients who have hypokalemia, hypomagnesemia, or long QT syndrome.
+Before initiating Tasigna and periodically, test electrolyte, calcium, and magnesium blood levels.
 Hypokalemia or hypomagnesemia must be corrected prior to initiating Tasigna and these electrolytes should be monitored periodically during therapy [see Warnings and Precautions (5.12)].
 
 Significant prolongation of the QT interval may occur when Tasigna is inappropriately taken with food and/or strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT.
@@ -42,7 +42,7 @@ Test serum lipase levels monthly or as clinically indicated.
 
 ## 5.6 Hepatotoxicity
 
-Tasigna may result in hepatotoxicity as measured by elevations in bilirubin, AST, ALT, and alkaline phosphatase.
+Tasigna may result in hepatotoxicity as measured by elevations in bilirubin, aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase.
 Grade 3-4 elevations of bilirubin, AST, and ALT were reported at a higher frequency in pediatric than in adult patients.
 Monitor hepatic function tests monthly or as clinically indicated [see Warnings and Precautions (5.12)].
 
@@ -95,27 +95,28 @@ Monitor patients for signs of severe fluid retention (e.g., unexpected rapid wei
 
 ## 5.14 Effects on Growth and Development in Pediatric Patients
 
-Adverse reactions associated with growth and development can occur in pediatric patients receiving BCR-ABL tyrosine kinase inhibitors.
-The long-term effect of prolonged treatment with BCR-ABL tyrosine kinase inhibitors on growth and development in pediatric patients are unknown.
-Therefore, monitor growth and development in pediatric patients receiving BCR-ABL tyrosine kinase inhibitor treatment.
+Growth retardation has been reported in pediatric patients with Ph+ CML in chronic phase treated with Tasigna.
+In a pediatric trial with 58 patients with Ph+ CML in chronic phase after a median follow-up of 33 months, 12% (n = 7) of patients experienced a decrease of two main height percentile lines (percentile lines: 5th, 10th, 25th, 50th, 75th, 90th, and 95th).
+Adverse reactions associated with growth retardation were reported in 3 patients (5%).
+Monitor growth and development in pediatric patients receiving Tasigna treatment.
 
 ## 5.15 Embryo-Fetal Toxicity
 
 Based on findings from animal studies and its mechanism of action, Tasigna can cause fetal harm when administered to a pregnant woman.
-In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes including embryo-fetal lethality/fetal effects (small renal papilla, fetal edema, and skeletal variations) in rats and increased resorptions of fetuses and fetal skeletal variations in rabbits at maternal AUCs approximately 2 and 0.5 times, respectively, the AUC in patients receiving the recommended dose.
+In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes including embryo-fetal lethality/fetal effects (small renal papilla, fetal edema, and skeletal variations) in rats and increased resorptions of fetuses and fetal skeletal variations in rabbits at maternal area under the curve (AUCs) approximately 2 and 0.5 times, respectively, the AUC in patients receiving the recommended dose.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
+Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after the last dose [see Use in Specific Populations (8.1, 8.3), and Clinical Pharmacology (12.1)].
 
 ## 5.16 Monitoring of BCR-ABL Transcript Levels
 
-Monitoring of BCR-ABL Transcript Levels in Patients Who Discontinued Tasigna
+Monitoring of BCR-ABL Transcript Levels in Patients who Discontinued Tasigna
 
 Monitor BCR-ABL transcript levels in patients eligible for treatment discontinuation using an FDA authorized test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS).
-In patients who discontinue Tasigna therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (14.3,14.4) and Dosage and Administration (2.2)].
+In patients who discontinue Tasigna therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (14.3,14.4), and Dosage and Administration (2.2)].
 
-Newly diagnosed patients must reinitiate Tasigna therapy within 4 weeks of a loss of Major Molecular Response (MMR, corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1%IS).
+Newly diagnosed patients must reinitiate Tasigna therapy within 4 weeks of a loss of major molecular response [(MMR), corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1% IS].
 
-Patients resistant or intolerant to prior treatment which included imatinib must reinitiate Tasigna therapy within 4 weeks of a loss of MMR or confirmed loss of MR4.0 (two consecutive measures separated by at least 4 weeks showing loss of MR4.0, corresponding to = BCR-ABL/ABL ≤ 0.01%IS).
+Patients resistant or intolerant to prior treatment which included imatinib must reinitiate Tasigna therapy within 4 weeks of a loss of MMR or confirmed loss of MR4.0 (two consecutive measures separated by at least 4 weeks showing loss of MR4.0, corresponding to = BCR-ABL/ABL ≤ 0.01% IS).
 
 For patients who fail to achieve MMR after three months of treatment reinitiation, BCR-ABL kinase domain mutation testing should be performed.
 
