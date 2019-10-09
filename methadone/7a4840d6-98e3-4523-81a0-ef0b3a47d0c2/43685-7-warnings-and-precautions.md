@@ -53,6 +53,10 @@ Overestimating the DOLOPHINE Tablets dosage when converting patients from anothe
 
 Accidental ingestion of even one dose of DOLOPHINE Tablets, especially by children, can result in respiratory depression and death due to an overdose of methadone.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+
 ## 5.4 Life-Threatening QT Prolongation
 
 Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
@@ -98,7 +102,7 @@ When using DOLOPHINE Tablets with CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of DOLOPHINE Tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 
-For Patients Being Treated for Pain
+For Patients Being Treated for Pain:
 
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
@@ -114,7 +118,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
-For Patients Being Treated for Opioid Addiction
+For Patients Being Treated for Opioid Addiction:
 
 Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
@@ -142,11 +146,11 @@ Toxicology screening should test for prescribed and illicit benzodiazepines [see
 
 The use of DOLOPHINE Tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease
+Patients with Chronic Pulmonary Disease:
 
 DOLOPHINE Tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of DOLOPHINE Tablets [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients
+Elderly, Cachectic, or Debilitated Patients:
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
@@ -156,7 +160,7 @@ Alternatively, consider the use of non-opioid analgesics in these patients.
 ## 5.9 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of DOLOPHINE Tablets with serotonergic drugs.
-Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
 This may occur within the recommended dosage range.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -175,11 +179,11 @@ The information available does not identify any particular opioids as being more
 
 ## 5.11 Severe Hypotension
 
-- DOLOPHINE Tablets may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-  There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
-  Monitor these patients for signs of hypotension after initiating or titrating the dosage of DOLOPHINE Tablets.
-  In patients with circulatory shock, DOLOPHINE Tablets may cause vasodilation that can further reduce cardiac output and blood pressure.
-  Avoid the use of DOLOPHINE Tablets in patients with circulatory shock.
+DOLOPHINE Tablets may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of DOLOPHINE Tablets.
+In patients with circulatory shock, DOLOPHINE Tablets may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of DOLOPHINE Tablets in patients with circulatory shock.
 
 ## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
@@ -205,11 +209,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.15 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including DOLOPHINE Tablets.
-In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue DOLOPHINE Tablets in a patient physically dependent on opioids.
+When discontinuing DOLOPHINE Tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of methadone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
-When discontinuing DOLOPHINE Tablets, gradually taper the dosage [see Dosage and Administration (2.5)].
-Do not abruptly discontinue DOLOPHINE Tablets [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including DOLOPHINE Tablets.
+In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.16 Risks Driving and Operating Machinery
 

@@ -12,3 +12,5 @@ NDC 0054-4219-25: Bottle of 100 Tablets
 
 Store at 20º to 25ºC (68º to 77ºF), with excursions permitted between 15º to 30ºC (59º to 86ºF).
 [See USP Controlled Room Temperature.]
+
+Store DOLOPHINE securely and dispose of properly [see Patient Counseling Information (17)].
