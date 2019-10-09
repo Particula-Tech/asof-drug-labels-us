@@ -2,10 +2,14 @@
 
 ## 7.1 UGT Enzyme Inducers
 
-Rifampin: Co-administration of canagliflozin with rifampin, a nonselective inducer of several UGT enzymes, including UGT1A9, UGT2B4, decreased canagliflozin area under the curve (AUC) by 51%.
+Co-administration of canagliflozin with rifampin, a nonselective inducer of several UGT enzymes, including UGT1A9, UGT2B4, decreased canagliflozin area under the curve (AUC) by 51%.
 This decrease in exposure to canagliflozin may decrease efficacy.
-If an inducer of these UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) must be co-administered with INVOKANA (canagliflozin), consider increasing the dose to 300 mg once daily if patients are currently tolerating INVOKANA 100 mg once daily, have an eGFR greater than 60 mL/min/1.73 m2, and require additional glycemic control.
-Consider other antihyperglycemic therapy in patients with an eGFR of 45 to less than 60 mL/min/1.73 m2 receiving concurrent therapy with a UGT inducer and require additional glycemic control [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+
+For patients with eGFR 60 mL/min/1.73 m2 or greater, if an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
+The dose may be increased to 300 mg once daily in patients currently tolerating INVOKANA 200 mg and who require additional glycemic control.
+
+For patients with eGFR less than 60 mL/min/1.73 m2, if an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
+Consider adding another antihyperglycemic agent in patients who require additional glycemic control [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Digoxin
 

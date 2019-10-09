@@ -6,6 +6,9 @@ Sodium-glucose co-transporter 2 (SGLT2), expressed in the proximal renal tubules
 Canagliflozin is an inhibitor of SGLT2.
 By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RTG), and thereby increases urinary glucose excretion (UGE).
 
+Canagliflozin increases the delivery of sodium to the distal tubule by blocking SGLT2-dependent glucose and sodium reabsorption.
+This is believed to increase tubuloglomerular feedback and reduce intraglomerular pressure.
+
 ## 12.2 Pharmacodynamics
 
 Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in the renal threshold for glucose (RTG) and increases in urinary glucose excretion were observed.
@@ -67,10 +70,10 @@ Renal Impairment
 A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
 
 Renal impairment did not affect the Cmax of canagliflozin.
-Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESRD (N=8) subjects and healthy subjects.
+Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESKD (N=8) subjects and healthy subjects.
 
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
-The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.4)].
+The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 
@@ -97,7 +100,7 @@ Canagliflozin is also a substrate of drug transporters P-glycoprotein (P-gp) and
 
 In Vivo Assessment of Drug Interactions
 
-Table 7: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
+Table 7: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozin
 
 | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |

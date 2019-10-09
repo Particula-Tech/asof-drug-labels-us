@@ -8,21 +8,27 @@ In patients with volume depletion not previously treated with canagliflozin, nor
 
 ## 2.2 Recommended Dosage
 
-The recommended starting dose of INVOKANA (canagliflozin) is 100 mg once daily, taken before the first meal of the day.
-In patients tolerating INVOKANA 100 mg once daily who have an eGFR of 60 mL/min/1.73 m2 or greater and require additional glycemic control, the dose can be increased to 300 mg once daily [see Dosage and Administration (2.3), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
+See Table 1 for dosage recommendations based on estimated glomerular filtration rate (eGFR).
+There are insufficient data to support dosing recommendations for initiation of therapy in patients with an eGFR < 30 mL/min/1.73 m2 with albuminuria greater than 300 mg/day or in patients with an eGFR < 45 mL/min/1.73 m2 with albuminuria less than or equal to 300 mg/day.
+In patients already initiated on therapy who meet the criterion of an eGFR < 30 mL/min/1.73 m2 with albuminuria greater than 300 mg/day, therapy can be continued at 100 mg once daily [see Use in Specific Populations (8.6) and Clinical Studies (14.3)].
 
-## 2.3 Patients with Renal Impairment
+Table 1: Recommended Dosage
 
-The dose of INVOKANA is limited to 100 mg once daily in patients with moderate renal impairment with an eGFR of 45 to less than 60 mL/min/1.73 m2.
+| estimated glomerular filtration rate eGFR (mL/min/1.73 m2) | Recommended Dosage |
+| --- | --- |
+| eGFR ≥ 60 | 100 mg orally once daily, taken before the first meal of the day. Dose can be increased to 300 mg once daily for additional glycemic control. |
+| eGFR 45 to < 60 | 100 mg once daily. |
+| eGFR 30 to < 45with albuminuria >300 mg/day. |  |
+| On dialysis | Contraindicated [see Contraindications]. |
 
-Initiation of INVOKANA is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2.
+## 2.3 Concomitant Use with UDP-Glucuronosyl Transferase (UGT) Enzyme Inducers
 
-Use of INVOKANA is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
+Patients with eGFR 60 mL/min/1.73 m2 or greater
 
-INVOKANA is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
+If an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
+The dose may be increased to 300 mg once daily in patients currently tolerating INVOKANA 200 mg and who require additional glycemic control [see Drug Interactions (7.1)].
 
-## 2.4 Concomitant Use with UDP-Glucuronosyl Transferase (UGT) Enzyme Inducers
+Patients with eGFR less than 60 mL/min/1.73 m2
 
-If an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, consider increasing the dosage to 300 mg once daily in patients currently tolerating INVOKANA 100 mg once daily who have an eGFR of 60 mL/min/1.73 m2 or greater and require additional glycemic control [see Drug Interactions (7.1)].
-
-Consider another antihyperglycemic agent in patients with an eGFR of 45 to less than 60 mL/min/1.73 m2 receiving concurrent therapy with a UGT inducer.
+If an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
+Consider adding another antihyperglycemic agent in patients who require additional glycemic control.

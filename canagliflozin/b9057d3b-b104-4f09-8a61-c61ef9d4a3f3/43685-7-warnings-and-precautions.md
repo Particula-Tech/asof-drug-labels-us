@@ -2,9 +2,9 @@
 
 ## 5.1 Lower Limb Amputation
 
-An approximately 2-fold increased risk of lower limb amputations associated with INVOKANA use was observed in CANVAS and CANVAS-R, two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
+An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
 The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
-The amputation data for CANVAS and CANVAS-R are shown in Tables 2 and 3, respectively [see Adverse Reactions (6.1)].
+The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively [see Adverse Reactions (6.1)].
 
 Amputations of the toe and midfoot (99 out of 140 patients with amputations receiving INVOKANA in the two trials) were the most frequent; however, amputations involving the leg, below and above the knee, were also observed (41 out of 140 patients with amputations receiving INVOKANA in the two trials).
 Some patients had multiple amputations, some involving both lower limbs.
@@ -25,7 +25,7 @@ Monitor for signs and symptoms after initiating therapy.
 
 ## 5.3 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including INVOKANA.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including INVOKANA.
 Fatal cases of ketoacidosis have been reported in patients taking INVOKANA.
 INVOKANA is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
@@ -43,17 +43,14 @@ In patients treated with INVOKANA consider monitoring for ketoacidosis and tempo
 ## 5.4 Acute Kidney Injury
 
 INVOKANA causes intravascular volume contraction [see Warnings and Precautions (5.2)] and can cause acute kidney injury.
-There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving INVOKANA; some reports involved patients younger than 65 years of age.
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including INVOKANA.
 
+Increases in serum creatinine and decreases in estimated GFR may also be observed with initiation of INVOKANA [see Adverse Reactions (6.1) and Clinical Pharmacology (12.1)].
 Before initiating INVOKANA, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing INVOKANA in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
+Consider temporarily discontinuing INVOKANA in the setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
 If acute kidney injury occurs, discontinue INVOKANA promptly and institute treatment.
 
-Initiation of INVOKANA may increase serum creatinine and decrease eGFR.
-Patients with hypovolemia may be more susceptible to these changes [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of INVOKANA and monitored periodically thereafter.
-Dosage adjustment and more frequent renal function monitoring are recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-Use of INVOKANA is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.3), Contraindications (4) and Use in Specific Populations (8.6)].
 
 ## 5.5 Urosepsis and Pyelonephritis
 
@@ -93,8 +90,3 @@ If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and moni
 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using INVOKANA in the CANVAS trial [see Clinical Studies (14.2)].
 Consider factors that contribute to fracture risk prior to initiating INVOKANA [see Adverse Reactions (6.1)].
-
-## 5.11 Increases in Low-Density Lipoprotein (LDL-C)
-
-Dose-related increases in LDL-C occur with INVOKANA [see Adverse Reactions (6.1)].
-Monitor LDL-C and treat if appropriate after initiating INVOKANA.

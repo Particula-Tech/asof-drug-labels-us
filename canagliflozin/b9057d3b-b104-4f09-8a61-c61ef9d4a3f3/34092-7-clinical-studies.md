@@ -1,13 +1,10 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Glycemic Control Trials in Adults with Type 2 Diabetes Mellitus
+
 INVOKANA (canagliflozin) has been studied as monotherapy, in combination with metformin, sulfonylurea, metformin and sulfonylurea, metformin and sitagliptin, metformin and a thiazolidinedione (i.e., pioglitazone), and in combination with insulin (with or without other anti-hyperglycemic agents).
 The efficacy of INVOKANA was compared to a dipeptidyl peptidase-4 (DPP-4) inhibitor (sitagliptin), both as add-on combination therapy with metformin and sulfonylurea, and a sulfonylurea (glimepiride), both as add-on combination therapy with metformin.
 INVOKANA was also evaluated in adults 55 to 80 years of age and patients with moderate renal impairment.
-
-In patients with type 2 diabetes, treatment with INVOKANA produced clinically and statistically significant improvements in HbA1C compared to placebo.
-Reductions in HbA1C were observed across subgroups including age, gender, race, and baseline body mass index (BMI).
-
-## 14.1 Glycemic Control Trials in Adults with Type 2 Diabetes Mellitus
 
 Monotherapy
 
@@ -110,10 +107,10 @@ Other patients (N=522) were switched to metformin monotherapy (at doses describe
 After the 2-week run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or glimepiride (titration allowed throughout the 52-week trial to 6 or 8 mg), administered once daily as add-on therapy to metformin.
 
 As shown in Table 12 and Figure 1, at the end of treatment, INVOKANA 100 mg provided similar reductions in HbA1C from baseline compared to glimepiride when added to metformin therapy.
-INVOKANA 300 mg provided a greater reduction from baseline in HbA1C compared to glimepiride, and the relative treatment difference was -0.12% (95% CI: −0.22; −0.02).
+INVOKANA 300 mg provided a greater reduction from baseline in HbA1C compared to glimepiride, and the relative treatment difference was -0.12% (95% CI: –0.22; –0.02).
 As shown in Table 12, treatment with INVOKANA 100 mg and 300 mg daily provided greater improvements in percent body weight change, relative to glimepiride.
 
-Table 12: Results from 52−Week Clinical Study Comparing INVOKANA to Glimepiride in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 12: Results from 52–Week Clinical Study Comparing INVOKANA to Glimepiride in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | INVOKANA 100 mg + Metformin (N=483) | INVOKANA 300 mg + Metformin (N=485) | Glimepiride (titrated) + Metformin (N=482) |
 | --- | --- | --- | --- |
@@ -134,7 +131,7 @@ Table 12: Results from 52−Week Clinical Study Comparing INVOKANA to Glimepirid
 | Figure 1: Mean HbA1C Change at Each Time Point (Completers) and at Week 52 Using Last Observation Carried Forward (mITT Population) |
 | --- |
 
-Add-on Combination Therapy With Sulfonylurea
+Add-on Combination Therapy with Sulfonylurea
 
 A total of 127 patients with type 2 diabetes inadequately controlled on sulfonylurea monotherapy participated in an 18-week, double-blind, placebo-controlled sub-study to evaluate the efficacy and safety of INVOKANA in combination with sulfonylurea.
 The mean age was 65 years, 57% of patients were men, and the mean baseline eGFR was 69 mL/min/1.73 m2.
@@ -144,7 +141,7 @@ After the run-in period, patients with inadequate glycemic control were randomiz
 As shown in Table 13, at the end of treatment, INVOKANA 100 mg and 300 mg daily provided statistically significant (p<0.001 for both doses) improvements in HbA1C relative to placebo when added to sulfonylurea.
 INVOKANA 300 mg once daily compared to placebo resulted in a greater proportion of patients achieving an HbA1C less than 7%, (33% vs 5%), greater reductions in fasting plasma glucose (-36 mg/dL vs +12 mg/dL), and greater percent body weight reduction (-2.0% vs -0.2%).
 
-Table 13: Results from 18-Week Placebo−Controlled Clinical Study of INVOKANA in Combination with SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 13: Results from 18-Week Placebo–Controlled Clinical Study of INVOKANA in Combination with SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Sulfonylurea (N=45) | INVOKANA 100 mg + Sulfonylurea (N=42) | INVOKANA 300 mg + Sulfonylurea (N=40) |
 | --- | --- | --- | --- |
@@ -153,7 +150,7 @@ Table 13: Results from 18-Week Placebo−Controlled Clinical Study of INVOKANA i
 | Change from baseline (adjusted mean) | 0.04 | -0.70 | -0.79 |
 | Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value |  | -0.74p<0.001 (-1.15; -0.33) | -0.83 (-1.24; -0.41) |
 
-Add-on Combination Therapy With Metformin and Sulfonylurea
+Add-on Combination Therapy with Metformin and Sulfonylurea
 
 A total of 469 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and sulfonylurea (maximal or near-maximal effective dose) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with metformin and sulfonylurea.
 The mean age was 57 years, 51% of patients were men, and the mean baseline eGFR was 89 mL/min/1.73 m2.
@@ -182,7 +179,7 @@ Table 14: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in 
 | % change from baseline (adjusted mean) | -0.7 | -2.1 | -2.6 |
 | Difference from placebo (adjusted mean) (95% CI) |  | -1.4 (-2.1; -0.7) | -2.0 (-2.7; -1.3) |
 
-Add-on Combination Therapy With Metformin and Sitagliptin
+Add-on Combination Therapy with Metformin and Sitagliptin
 
 A total of 217 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 1,500 mg/day) and sitagliptin 100 mg/day (or equivalent fixed-dose combination) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with metformin and sitagliptin.
 The mean age was 57 years, 58% of patients were men, 73% of patients were Caucasian, 15% were Asian, and 12% were Black or African-American.
@@ -194,7 +191,7 @@ While up-titration occurred as early as Week 4, most (90%) patients randomized t
 
 At the end of 26 weeks, INVOKANA resulted in a statistically significant improvement in HbA1C (p<0.001) compared to placebo when added to metformin and sitagliptin.
 
-Table 15: Results from 26−Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Metformin and Sitagliptin
+Table 15: Results from 26–Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Metformin and Sitagliptin
 
 | Efficacy Parameter | Placebo + Metformin and Sitagliptin (N=108To preserve the integrity of randomization, all randomized patients were included in the analysis. The patient who was randomized once to each arm was analyzed on INVOKANA.) | INVOKANA + Metformin and Sitagliptin (N=109) |
 | --- | --- | --- |
@@ -208,7 +205,7 @@ Table 15: Results from 26−Week Placebo-Controlled Clinical Study of INVOKANA i
 | Change from baseline (adjusted mean) | -3 | -28 |
 | Difference from placebo (adjusted mean) (95% CI) |  | -25 (-39; -11) |
 
-INVOKANA Compared to Sitagliptin, Both as Add-on Combination Therapy With Metformin and Sulfonylurea
+INVOKANA Compared to Sitagliptin, Both as Add-on Combination Therapy with Metformin and Sulfonylurea
 
 A total of 755 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and sulfonylurea (near-maximal or maximal effective dose) participated in a 52-week, double-blind, active-controlled trial to compare the efficacy and safety of INVOKANA 300 mg versus sitagliptin 100 mg in combination with metformin and sulfonylurea.
 The mean age was 57 years, 56% of patients were men, and the mean baseline eGFR was 88 mL/min/1.73 m2.
@@ -240,7 +237,7 @@ Table 16: Results from 52-Week Clinical Study Comparing INVOKANA to Sitagliptin 
 
 Figure 2: Mean HbA1C Change at Each Time Point (Completers) and at Week 52 Using Last Observation Carried Forward (mITT Population)
 
-Add-on Combination Therapy With Metformin and Pioglitazone
+Add-on Combination Therapy with Metformin and Pioglitazone
 
 A total of 342 patients with type 2 diabetes inadequately controlled on the combination of metformin (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and pioglitazone (30 or 45 mg/day) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of INVOKANA in combination with metformin and pioglitazone.
 The mean age was 57 years, 63% of patients were men, and the mean baseline eGFR was 86 mL/min/1.73 m2.
@@ -270,7 +267,7 @@ Table 17: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in 
 | % change from baseline (adjusted mean) | -0.1 | -2.8 | -3.8 |
 | Difference from placebo (adjusted mean) (95% CI) |  | -2.7 (-3.6; -1.8) | -3.7 (-4.6; -2.8) |
 
-Add-On Combination Therapy With Insulin (With or Without Other Antihyperglycemic Agents)
+Add-On Combination Therapy with Insulin (With or Without Other Antihyperglycemic Agents)
 
 A total of 1,718 patients with type 2 diabetes inadequately controlled on insulin greater than or equal to 30 units/day or insulin in combination with other antihyperglycemic agents participated in an 18-week, double-blind, placebo-controlled substudy of a cardiovascular trial to evaluate the efficacy and safety of INVOKANA in combination with insulin.
 The mean age was 63 years, 66% of patients were men, and the mean baseline eGFR was 75 mL/min/1.73 m2.
@@ -309,13 +306,13 @@ Patients were randomized in a 1:1:1 ratio to the addition of INVOKANA 100 mg, IN
 At the end of treatment, INVOKANA provided statistically significant improvements from baseline relative to placebo in HbA1C (p<0.001 for both doses) of -0.57% (95% CI: -0.71%; -0.44%) for INVOKANA 100 mg and -0.70% (95% CI: -0.84%; -0.57%) for INVOKANA 300 mg.
 [see Use in Specific Populations (8.5)].
 
-Moderate Renal Impairment
+Glycemic Control in Patients with Moderate Renal Impairment
 
 A total of 269 patients with type 2 diabetes and a baseline eGFR of 30 mL/min/1.73 m2 to less than 50 mL/min/1.73 m2 inadequately controlled on current diabetes therapy participated in a 26-week, double-blind, placebo-controlled clinical trial to evaluate the efficacy and safety of INVOKANA in combination with current diabetes treatment (diet or antihyperglycemic agent therapy, with 95% of patients on insulin and/or sulfonylurea).
 The mean age was 68 years, 61% of patients were men, and the mean baseline eGFR was 39 mL/min/1.73 m2.
 Patients were randomized in a 1:1:1 ratio to the addition of INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily.
 
-At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53%; -0.07%] and -0.40%, [95% CI: -0.64%; -0.17%], respectively) [see Warnings and Precautions (5.4), Adverse Reactions (6.1), and Use in Specific Populations (8.6)].
+At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53%; -0.07%] and -0.40%, [95% CI: -0.64%; -0.17%], respectively) [see Warnings and Precautions (5.4), Adverse Reactions (6.1), Use in Specific Populations (8.6), and Clinical Studies (14.3)].
 
 ## 14.2 Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
@@ -329,7 +326,7 @@ In CANVAS, patients were randomly assigned 1:1:1 to canagliflozin 100 mg, canagl
 In CANVAS-R, patients were randomly assigned 1:1 to canagliflozin 100 mg or matching placebo, and titration to 300 mg was permitted at the investigator's discretion (based on tolerability and glycemic needs) after Week 13.
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
-A total of 10,134 patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) and exposed for a mean of 149 weeks (exposed for a mean of 223 weeks [4.3 years] in CANVAS and 94 weeks [1.8 years] in CANVAS-R).
+A total of 10,134 patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) for a mean exposure duration of 149 weeks (223 weeks [4.3 years] in CANVAS and 94 weeks [1.8 years] in CANVAS-R).
 Approximately 78% of the trial population was Caucasian, 13% was Asian, and 3% was Black.
 The mean age was 63 years and approximately 64% were male.
 
@@ -352,7 +349,7 @@ The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Fi
 
 Table 19: Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in the Integrated Analysis of CANVAS and CANVAS-R studiesIntent-To-Treat Analysis Set
 
-|  | Placebo N=4347 | Canagliflozin N=5795 | Hazard ratio (95% C.I.)Stratified Cox-proportional hazards model with treatment as a factor and stratified by study and by prior CV disease |
+|  | Placebo N=4347(%) | Canagliflozin N=5795 (%) | )Hazard ratio (95% C.I.)Stratified Cox-proportional hazards model with treatment as a factor and stratified by study and by prior CV disease |
 | --- | --- | --- | --- |
 | Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence)P-value for superiority (2-sided) = 0.0158, Number and percentage of first events, Due to pooling of unequal randomization ratios, Cochran-Mantel-Haenszel weights were applied to calculate percentages, | 426 (10.4) | 585 (9.2) | 0.86 (0.75, 0.97) |
 | Non-fatal myocardial infarction, | 159 (3.9) | 215 (3.4) | 0.85 (0.69, 1.05) |
@@ -360,3 +357,51 @@ Table 19: Treatment Effect for the Primary Composite Endpoint, MACE, and its Com
 | Cardiovascular Death, | 185 (4.6) | 268 (4.1) | 0.87 (0.72, 1.06) |
 
 Figure 3: Time to First Occurrence of MACE
+
+## 14.3 Renal and Cardiovascular Outcomes in Patients with Diabetic Nephropathy and Albuminuria
+
+The Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation Trial (CREDENCE) was a multinational, randomized, double-blind, placebo-controlled trial comparing canagliflozin with placebo in patients with type 2 diabetes mellitus, an eGFR ≥ 30 to < 90 mL/min/1.73 m2 and albuminuria (urine albumin/creatinine > 300 to ≤ 5000 mg/g) who were receiving standard of care including a maximum-tolerated, labeled daily dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
+
+The primary objective of CREDENCE was to assess the efficacy of canagliflozin relative to placebo in reducing the composite endpoint of end stage kidney disease (ESKD), doubling of serum creatinine, and renal or CV death.
+
+Patients were randomized to receive canagliflozin 100 mg (N=2,202) or placebo (N=2,199) and treatment was continued until the initiation of dialysis or renal transplantation.
+
+The median follow-up duration for the 4,401 randomized subjects was 137 weeks.
+Vital status was obtained for 99.9% of subjects.
+
+The population was 67% White, 20% Asian, and 5% Black; 32% were of Hispanic or Latino ethnicity.
+The mean age was 63 years and 66% were male.
+
+At randomization, the mean HbA1c was 8.3%, the median urine albumin/creatinine was 927 mg/g, the mean eGFR was 56.2 mL/min/1.73 m2, 50% had prior CV disease, and 15% reported a history of heart failure.
+The most frequent antihyperglycemic agents (AHA) medications used at baseline were insulin (66%), biguanides (58%), and sulfonylureas (29%).
+Nearly all subjects (99.9%) were on ACEi or ARB at randomization, approximately 60% were taking an anti-thrombotic agent (including aspirin), and 69% were on a statin.
+
+The primary composite endpoint in the CREDENCE study was the time to first occurrence of ESKD (defined as an eGFR < 15 mL/min/1.73 m2, initiation of chronic dialysis or renal transplant), doubling of serum creatinine, and renal or CV death.
+Canagliflozin 100 mg significantly reduced the risk of the primary composite endpoint based on a time-to-event analysis [HR: 0.70; 95% CI: 0.59, 0.82; p<0.0001] (see Figure 4).
+The treatment effect reflected a reduction in progression to ESKD, doubling of serum creatinine and cardiovascular death as shown in Table 20 and Figure 4.
+There were few renal deaths during the trial.
+Canagliflozin 100 mg also significantly reduced the risk of hospitalization for heart failure [HR: 0.61; 95% CI: 0.47 to 0.80; p<0.001].
+
+Table 20: Analysis of Primary Endpoint (including the Individual Components) and Secondary Endpoints from the CREDENCE Study
+
+| Endpoint | N=2,199 (%) | Event RateEvent rate per 100 patient-years. | N=2,202 (%) | Event Rate | HRHazard ratio (canagliflozin compared to placebo), 95% CI and p-value are estimated using a stratified Cox proportional hazards model including treatment as the explanatory variable and stratified by screening eGFR (≥ 30 to < 45, ≥ 45 to < 60, ≥ 60 to < 90 mL/min/1.73 m2). HR is not presented for renal death due to the small number of events in each group. (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+|  | Placebo |  | canagliflozin |  |  |
+| Primary Composite Endpoint (ESKD, doubling of serum creatinine, renal death, or CV death) | 340 (15.5) | 6.1 | 245 (11.1) | 4.3 | 0.70 (0.59, 0.82) P-value <0.0001 |
+| ESKD | 165 (7.5) | 2.9 | 116 (5.3) | 2.0 | 0.68 (0.54, 0.86) |
+| Doubling of serum creatinine | 188 (8.5) | 3.4 | 118 (5.4) | 2.1 | 0.60 (0.48, 0.76) |
+| Renal death | 5 (0.2) | 0.1 | 2 (0.1) | 0.0 |  |
+| CV death | 140 (6.4) | 2.4 | 110 (5.0) | 1.9 | 0.78 (0.61, 1.00) |
+| CV death or hospitalization for heart failure | 253 (11.5) | 4.5 | 179 (8.1) | 3.1 | 0.69 (0.57, 0.83) P-value <0.001 |
+| CV death, non-fatal myocardial infarction or non-fatal stroke | 269 (12.2) | 4.9 | 217 (9.9) | 3.9 | 0.80 (0.67, 0.95) P-value <0.02 |
+| Non-fatal myocardial infarction | 87 (4.0) | 1.6 | 71 (3.2) | 1.3 | 0.81 (0.59, 1.10) |
+| Non-fatal stroke | 66 (3.0) | 1.2 | 53 (2.4) | 0.9 | 0.80 (0.56, 1.15) |
+| Hospitalization for heart failure | 141 (6.4) | 2.5 | 89 (4.0) | 1.6 | 0.61 (0.47, 0.80) |
+| ESKD, doubling of serum creatinine or renal death | 224 (10.2) | 4.0 | 153 (6.9) | 2.7 | 0.66 (0.53, 0.81) |
+| Intent-To-Treat Analysis Set (time to first occurrence) |  |  |  |  |  |
+| The individual components do not represent a breakdown of the composite outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |  |  |
+
+The Kaplan-Meier curve (Figure 4) shows time to first occurrence of the primary composite endpoint of ESKD, doubling of serum creatinine, renal death, or CV death.
+The curves begin to separate by Week 52 and continue to diverge thereafter.
+
+Figure 4: CREDENCE: Time to First Occurrence of the Primary Composite Endpoint
