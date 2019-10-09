@@ -99,7 +99,7 @@ In clinical pharmacology studies, both sofosbuvir and the primary circulating me
 Sofosbuvir, velpatasvir, and voxilaprevir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
 Voxilaprevir, and to a lesser extent velpatasvir, are also substrates of OATP1B1 and OATP1B3.
 In vitro, slow metabolic turnover of velpatasvir by CYP2B6, CYP2C8, and CYP3A4 and of voxilaprevir by CYP1A2, CYP2C8, and primarily CYP3A4 was observed.
-Inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir leading to reduced therapeutic effect of VOSEVI [see Contraindications (4), Warnings and Precautions (5.3), and Drug Interactions (7.3)].
+Inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir leading to reduced therapeutic effect of VOSEVI [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.3)].
 Coadministration with drugs that inhibit P-gp and/or BCRP may increase sofosbuvir, velpatasvir, and/or voxilaprevir plasma concentrations without increasing GS-331007 plasma concentration.
 Coadministration with drugs that inhibit OATP may increase voxilaprevir plasma concentrations.
 Drugs that inhibit CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration of velpatasvir and/or voxilaprevir.
@@ -114,7 +114,7 @@ Voxilaprevir is an inhibitor of drug transporters P-gp, BCRP, OATP1B1 and OATP1B
 At clinically relevant concentrations, voxilaprevir is not an inhibitor of hepatic transporters OCT1, renal transporters OCT2, OAT1, OAT3 or MATE1, or CYP or UGT1A1 enzymes.
 
 The effects of coadministered drugs on the exposure of sofosbuvir, GS-331007, velpatasvir, and voxilaprevir are shown in Table 6.
-The effects of sofosbuvir, velpatasvir, voxilaprevir, sofosbuvir/velpatasvir, or VOSEVI on the exposure of coadministered drugs are shown in Table 7.
+The effects of sofosbuvir, velpatasvir, voxilaprevir, sofosbuvir/velpatasvir, or VOSEVI on the exposure of coadministered drugs are shown in Table 7 [see Drug Interactions (7)].
 
 Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir, GS-331007, Velpatasvir, and Voxilaprevir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 

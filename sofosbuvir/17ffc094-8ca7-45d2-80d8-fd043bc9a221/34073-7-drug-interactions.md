@@ -7,7 +7,7 @@ Voxilaprevir is also a substrate of OATP1B1 and OATP1B3.
 In vitro, slow metabolic turnover of velpatasvir by CYP2B6, CYP2C8, and CYP3A4 and of voxilaprevir by CYP1A2, CYP2C8, and primarily CYP3A4 was observed.
 
 Drugs that are inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir leading to reduced therapeutic effect of VOSEVI.
-The use of these agents with VOSEVI is not recommended [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+The use of these agents with VOSEVI is not recommended [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 VOSEVI may be coadministered with P-gp, BCRP, and CYP inhibitors.
 The use of OATP inhibitors which may substantially increase exposure of voxilaprevir (e.g., cyclosporine) with VOSEVI is not recommended [see Clinical Pharmacology (12.3)].
 
@@ -18,13 +18,18 @@ Velpatasvir is also an inhibitor of OATP2B1.
 Coadministration of VOSEVI with drugs that are substrates of these transporters may alter the exposure of such drugs.
 Coadministration of VOSEVI with BCRP substrates (e.g., methotrexate, mitoxantrone, imatinib, irinotecan, lapatinib, rosuvastatin, sulfasalazine, topotecan) is not recommended [see Clinical Pharmacology (12.3)].
 
-Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with VOSEVI.
-Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.
-
 ## 7.3 Established and Potentially Significant Drug Interactions
 
+Clearance of HCV infection with direct acting antivirals may lead to changes in hepatic function, which may impact the safe and effective use of concomitant medications.
+For example, altered blood glucose control resulting in serious symptomatic hypoglycemia has been reported in diabetic patients in postmarketing case reports and published epidemiological studies.
+Management of hypoglycemia in these cases required either discontinuation or dose modification of concomitant medications used for diabetes treatment.
+
+Frequent monitoring of relevant laboratory parameters (e.g.
+International Normalized Ratio [INR] in patients taking warfarin, blood glucose levels in diabetic patients) or drug concentrations of concomitant medications such as cytochrome P450 substrates with a narrow therapeutic index (e.g. certain immunosuppressants) is recommended to ensure safe and effective use.
+Dose adjustments of concomitant medications may be necessary.
+
 Table 3 provides a listing of established or potentially clinically significant drug interactions.
-The drug interactions described are based on studies conducted with either VOSEVI, the components of VOSEVI (sofosbuvir, velpatasvir, and/or voxilaprevir), or are predicted drug interactions that may occur with VOSEVI [see Contraindications (4), Warnings and Precautions (5.2, 5.3), and Clinical Pharmacology (12.3)].
+The drug interactions described are based on studies conducted with either VOSEVI, the components of VOSEVI (sofosbuvir, velpatasvir, and/or voxilaprevir), or are predicted drug interactions that may occur with VOSEVI [see Contraindications (4), Warnings and Precautions (5.3, 5.4), and Clinical Pharmacology (12.3)].
 
 Table 3 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
 
@@ -36,7 +41,7 @@ Table 3 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 | H2-receptor antagonists (e.g., famotidine)These interactions have been studied in healthy adults. |  | H2-receptor antagonists may be administered simultaneously with or staggered from VOSEVI at a dose that does not exceed doses comparable with famotidine 40 mg twice daily. |
 | Proton-pump inhibitors (e.g., omeprazole) |  | Omeprazole 20 mg can be administered with VOSEVI. Use with other proton pump-inhibitors has not been studied. |
 | Antiarrhythmics: |  |  |
-| amiodarone | Effect on amiodarone, sofosbuvir, velpatasvir, and voxilaprevir concentrations unknown | Coadministration of amiodarone with VOSEVI may result in serious symptomatic bradycardia. The mechanism of this effect is unknown. Coadministration of amiodarone with VOSEVI is not recommended; if coadministration is required, cardiac monitoring is recommended [see Warnings and Precautions (5.2)]. |
+| amiodarone | Effect on amiodarone, sofosbuvir, velpatasvir, and voxilaprevir concentrations unknown | Coadministration of amiodarone with VOSEVI may result in serious symptomatic bradycardia. The mechanism of this effect is unknown. Coadministration of amiodarone with VOSEVI is not recommended; if coadministration is required, cardiac monitoring is recommended [see Warnings and Precautions (5.3)]. |
 | digoxin | ↑ digoxin | Therapeutic concentration monitoring of digoxin is recommended when coadministered with VOSEVI. Refer to digoxin prescribing information for monitoring and dose modification recommendations for concentration increases with unclear magnitude. |
 | Anticoagulants: |  |  |
 | dabigatran etexilate | ↑ dabigatran | Clinical monitoring of dabigatran is recommended when coadministered with VOSEVI. Refer to dabigatran etexilate prescribing information for dose modification recommendations in the setting of moderate renal impairment. |

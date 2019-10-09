@@ -15,7 +15,17 @@ Test all patients for evidence of current or prior HBV infection by measuring HB
 In patients with serologic evidence of HBV infection, monitor for clinical and laboratory signs of hepatitis flare or HBV reactivation during HCV treatment with VOSEVI and during post-treatment follow-up.
 Initiate appropriate patient management for HBV infection as clinically indicated.
 
-## 5.2 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
+## 5.2 Risk of Hepatic Decompensation/Failure in Patients with Evidence of Advanced Liver Disease
+
+Postmarketing cases of hepatic decompensation/failure, including those with fatal outcomes, have been reported in patients treated with HCV NS3/4A protease inhibitor-containing regimens, including treatment with VOSEVI.
+Reported cases occurred in patients with baseline cirrhosis with and without moderate or severe liver impairment (Child-Pugh B or C). Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+In patients with compensated cirrhosis (Child-Pugh A) or evidence of advanced liver disease such as portal hypertension, perform hepatic laboratory testing as clinically indicated; and monitor for signs and symptoms of hepatic decompensation such as the presence of jaundice, ascites, hepatic encephalopathy, and variceal hemorrhage.
+Discontinue VOSEVI in patients who develop evidence of hepatic decompensation/failure.
+
+VOSEVI is not recommended in patients with moderate to severe hepatic impairment (Child-Pugh B or C) or those with any history of prior hepatic decompensation [see Dosage and Administration (2.4), Adverse Reactions (6.2), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
+
+## 5.3 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
 
 Postmarketing cases of symptomatic bradycardia and cases requiring pacemaker intervention have been reported when amiodarone is coadministered with a sofosbuvir-containing regimen.
 A fatal cardiac arrest was reported in a patient taking amiodarone who was coadministered a sofosbuvir-containing regimen (HARVONI® (ledipasvir/sofosbuvir)).
@@ -37,7 +47,7 @@ Due to amiodarone's long half-life, patients discontinuing amiodarone just prior
 Patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately.
 Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion, or memory problems [see Adverse Reactions (6.2) and Drug Interactions (7.3)].
 
-## 5.3 Risk of Reduced Therapeutic Effect Due to Concomitant Use of VOSEVI with Inducers of P-gp and/or Moderate to Potent Inducers of CYP
+## 5.4 Risk of Reduced Therapeutic Effect Due to Concomitant Use of VOSEVI with Inducers of P-gp and/or Moderate to Potent Inducers of CYP
 
 Drugs that are inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir, leading to potentially reduced therapeutic effect of VOSEVI.
 The use of these agents with VOSEVI is not recommended [see Drug Interactions (7.3)].

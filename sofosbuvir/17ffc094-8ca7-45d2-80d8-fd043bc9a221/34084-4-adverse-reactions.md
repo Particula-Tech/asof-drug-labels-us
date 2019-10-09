@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Serious Symptomatic Bradycardia When Coadministered with Amiodarone [see Warnings and Precautions (5.2)].
+- Serious Symptomatic Bradycardia When Coadministered with Amiodarone [see Warnings and Precautions (5.3)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -40,8 +40,8 @@ Less Common Adverse Reactions Reported in Clinical Trials
 The following adverse reactions occurred in less than 5% of subjects without cirrhosis or with compensated cirrhosis treated with VOSEVI for 12 weeks and are included because of a potential causal relationship.
 
 Rash: In the POLARIS-1 and POLARIS-4 trials, rash occurred in less than 1% and 2% of subjects treated with VOSEVI, respectively.
-Rash was reported in 1% of subjects treated with placebo in POLARIS-1, and was not reported by any subject taking sofosbuvir/velpatasvir in POLARIS-4.
-No serious adverse reactions of rash occurred and all rashes were mild or moderate in severity.
+Rash was reported in 1% of subjects treated with placebo in POLARIS-1 and was not reported by any subject taking sofosbuvir/velpatasvir in POLARIS-4.
+No serious adverse reactions of rash occurred, and all rashes were mild or moderate in severity.
 
 Depression: In the POLARIS-1 and POLARIS-4 trials, depressed mood occurred in less than 1% and 1% of subjects treated with VOSEVI, respectively.
 Depressed mood was not reported by any subject taking placebo in POLARIS-1 and was reported in 1% of subjects treated with sofosbuvir/velpatasvir in POLARIS-4.
@@ -61,9 +61,13 @@ No subjects experienced jaundice and total bilirubin levels decreased after comp
 The following adverse reactions have been identified during post approval use of sofosbuvir-containing regimens.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Hepatobiliary Disorders
+
+Hepatic decompensation, hepatic failure with NS3/4A protease inhibitor-containing regimens [see Warnings and Precautions (5.2)].
+
 Cardiac Disorders
 
-Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiated treatment with a sofosbuvir-containing regimen [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiated treatment with a sofosbuvir-containing regimen [see Warnings and Precautions (5.3) and Drug Interactions (7.3)].
 
 Skin and Subcutaneous Tissue Disorders
 

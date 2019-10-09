@@ -23,4 +23,4 @@ No dosage recommendation can be given for patients with severe renal impairment 
 
 ## 2.4 Moderate or Severe Hepatic Impairment
 
-VOSEVI is not recommended in patients with moderate or severe hepatic impairment (Child-Pugh B or C) due to higher exposures of voxilaprevir in these patients [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+VOSEVI is not recommended in patients with moderate or severe hepatic impairment (Child-Pugh B or C) due to higher exposures of voxilaprevir in these patients [see Warnings and Precautions (5.2), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
