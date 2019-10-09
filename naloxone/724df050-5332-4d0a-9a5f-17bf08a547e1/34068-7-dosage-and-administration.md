@@ -25,7 +25,7 @@ Emphasize the following instructions to the patient or caregiver:
   Do not prime or test the device prior to administration.
 - To administer the dose press firmly on the device plunger.
 - Remove the device nozzle from the nostril after use.
-- Turn patient on their side as shown in the InstructionsforUse and call for emergency medical assistance immediately after administration of the first dose of NARCAN Nasal Spray.
+- Turn patient on their side as shown in the Instructions for Use and call for emergency medical assistance immediately after administration of the first dose of NARCAN Nasal Spray.
 
 ## 2.2 Dosing in Adults and Pediatric Patients
 
@@ -50,4 +50,4 @@ Additional supportive and/or resuscitative measures may be helpful while awaitin
 
 ## 2.3 Dosing Modifications due to Partial Agonists or Mixed Agonist/Antagonists
 
-Reversal of respiratory depression by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete and require higher doses of naloxone hydrochloride or repeated administration of NARCAN Nasal Spray using a new nasal spray [see Warnings and Precautions (5.2)]
+Reversal of respiratory depression by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete and require higher doses of naloxone hydrochloride or repeated administration of NARCAN Nasal Spray using a new nasal spray [see Warnings and Precautions (5.2)].
