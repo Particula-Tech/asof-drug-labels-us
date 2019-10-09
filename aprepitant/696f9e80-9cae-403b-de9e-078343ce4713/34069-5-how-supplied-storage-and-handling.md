@@ -16,13 +16,6 @@ No. 3862 — Unit-of-use TriPack containing one 125-mg capsule and two 80-mg cap
 
 NDC 0006-3862-03.
 
-No. 6741 — 40-mg capsules: Opaque, hard gelatin capsule with white body and mustard yellow cap with "464" and "40 mg" printed radially in black ink on the body.
-They are supplied as follows:
-
-NDC 0006-0464-10 unit-of-use package of 1
-
-NDC 0006-0464-05 unit-dose package of 5.
-
 No. 3066 — 125 mg for oral suspension: Pink to light pink powder, in a single-use pouch, packaged as a kit with one 1 mL oral dosing dispenser, one 5 mL oral dosing dispenser, one cap and one mixing cup.
 It is supplied as follows:
 

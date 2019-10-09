@@ -9,12 +9,12 @@ Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an
 - Use of EMEND with strong or moderate CYP3A4 inhibitors (e.g., ketoconazole, diltiazem) may increase plasma concentrations of aprepitant and result in an increased risk of adverse reactions related to EMEND.
 - Use of EMEND with strong CYP3A4 inducers (e.g., rifampin) may result in a reduction in aprepitant plasma concentrations and decreased efficacy of EMEND.
 
-See Table 10 and Table 11 for a listing of potentially significant drug interactions [see Drug Interactions (7.1, 7.2)].
+See Table 8 and Table 9 for a listing of potentially significant drug interactions [see Drug Interactions (7.1, 7.2)].
 
 ## 5.2 Decrease in INR with Concomitant Warfarin
 
 Coadministration of EMEND with warfarin, a CYP2C9 substrate, may result in a clinically significant decrease in International Normalized Ratio (INR) of prothrombin time [see Clinical Pharmacology (12.3)].
-Monitor the INR in patients on chronic warfarin therapy in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of EMEND with each chemotherapy cycle, or following administration of a single 40-mg dose of EMEND for the prevention of postoperative nausea and vomiting [see Drug Interactions (7.1)].
+Monitor the INR in patients on chronic warfarin therapy in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of EMEND with each chemotherapy cycle [see Drug Interactions (7.1)].
 
 ## 5.3 Risk of Reduced Efficacy of Hormonal Contraceptives
 

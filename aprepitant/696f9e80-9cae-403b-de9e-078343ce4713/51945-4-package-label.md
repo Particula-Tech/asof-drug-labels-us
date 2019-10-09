@@ -6,7 +6,7 @@ BiPack 2 capsules
 
 EMEND® (aprepitant) capsules
 
-80 mg
+80mg
 
 For Adults and Pediatric Patients 12 years of Age and Older
 
@@ -22,7 +22,7 @@ Rx only
 
 Keep this and all drugs out of the reach of children.
 
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manuf. by: Alkermes Pharma Ireland Limited, Athlone, Ireland Aprepitant (active ingred.)
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC.,Whitehouse Station, NJ 08889, USA Manuf. by: Alkermes Pharma Ireland Limited, Athlone, Ireland Aprepitant (active ingred.)
 Made in Switzerland.
 Formulated in Ireland.
 

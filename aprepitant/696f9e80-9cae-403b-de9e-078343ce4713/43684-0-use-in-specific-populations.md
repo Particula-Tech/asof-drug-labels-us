@@ -36,18 +36,12 @@ Advise females of reproductive potential using hormonal contraceptives to use an
 
 ## 8.4 Pediatric Use
 
-Prevention of Nausea and Vomiting Associated with HEC or MEC
-
 The safety and effectiveness of EMEND for oral suspension have been established in pediatric patients 6 months of age and older and EMEND capsules in pediatric patients 12 years of age and older for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC, including high-dose cisplatin, and MEC.
 Use of EMEND in these age groups is supported by evidence from 302 pediatric patients in a randomized, double-blind, active comparator controlled clinical study (n = 207 patients aged 6 months to less than 12 years, n = 95 patients aged 12 through 17 years).
 EMEND was studied in combination with ondansetron with or without dexamethasone (at the discretion of the physician) [see Clinical Studies (14.3)].
 Adverse reactions were similar to those reported in adult patients [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of EMEND for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months.
-
-Prevention of Postoperative Nausea and Vomiting (PONV)
-
-The safety and effectiveness of EMEND have not been established for the prevention of postoperative nausea and vomiting in pediatric patients.
 
 Juvenile Animal Study
 
@@ -59,7 +53,6 @@ There were no effects in neurobehavioral tests of sensory function, motor functi
 ## 8.5 Geriatric Use
 
 Of the 544 adult cancer patients treated with EMEND in CINV clinical studies, 31% were aged 65 and over, while 5% were aged 75 and over.
-Of the 1120 adult cancer patients treated with EMEND in PONV clinical studies, 7% were aged 65 and over, while 2% were aged 75 and over.
 Other reported clinical experience with EMEND has not identified differences in responses between elderly and younger patients.
 In general, use caution when dosing elderly patients as they have a greater frequency of decreased hepatic, renal or cardiac function and concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 

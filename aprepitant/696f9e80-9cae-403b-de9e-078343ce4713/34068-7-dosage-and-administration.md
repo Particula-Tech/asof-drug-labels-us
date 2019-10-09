@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Prevention of Chemotherapy Induced Nausea and Vomiting (CINV)
+## 2.1 Recommended Dosage
 
 Adults and Pediatric Patients 12 Years of Age and Older
 
@@ -40,17 +40,12 @@ Table 3: Recommended Dosing in Pediatric Patients 6 Months to Less than 12 Years
 | Pediatric Patients 6 Months to Less than12 Years or Pediatric Patients Unable to Swallow Capsules | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 through 4 [see Clinical Studies (14.3)].Administer dexamethasone 30 minutes prior to chemotherapy treatment on Day 1. A 50% dosage reduction of dexamethasone is recommended to account for a drug interaction with EMEND [see Clinical Pharmacology (12.3)]. |  |  |  |  |
 | 5-HT3 antagonist | Pediatric Patients 6 Months to Less than12 Years or Pediatric and Adult Patients Unable to Swallow Capsules | See selected 5-HT3 antagonist prescribing information for the recommended dosage | none | none | none |
 
-## 2.2 Prevention of Postoperative Nausea and Vomiting (PONV)
-
-The recommended oral dosage of EMEND capsules in adults is 40 mg within 3 hours prior to induction of anesthesia.
-
-## 2.3 Preparation Instructions for EMEND for Oral Suspension -- for Healthcare Providers
+## 2.2 Preparation Instructions for EMEND for Oral Suspension -- for Healthcare Providers
 
 EMEND for oral suspension should be prepared by a healthcare provider.
-
 Once prepared, it may be administered either by a healthcare provider, patient, or caregiver.
 
-Before you prepare EMEND:
+Before preparing EMEND:
 
 - Do not open the pouch of EMEND until ready to prepare the medicine.
 - Store the pouch at room temperature [between 68°F-77°F (20°C-25°C)].
@@ -59,18 +54,19 @@ Table 4: Instructions for Healthcare Providers on How to Prepare EMEND for Oral 
 
 | EMEND for oral suspension is packaged as a kit with one 1 mL oral dosing dispenser, one 5 mL oral dosing dispenser, one cap and one mixing cup. |  |
 | --- | --- |
-| 1.Fill the mixing cup with room temperature drinking water. |  |
-| 2.Fill the 5 mL oral dosing dispenser with 4.6 mL of water from the mixing cup. Make sure no air is in the dispenser - if air is present, remove. |  |
-| 3.Discard all the unused water remaining in the mixing cup. |  |
-| 4.Add the 4.6 mL of water from the dispenser back into the mixing cup. |  |
-| 5.Each pouch of EMEND for oral suspension contains 125 mg of aprepitant which is to be suspended in 4.6 mL of water giving a final concentration of 25 mg/mL. Hold the EMEND for oral suspension pouch upright and shake the contents to the bottom before opening the pouch.6.Pour the entire contents of the pouch into the 4.6 mL of water in the mixing cup and snap the lid shut. |  |
-| 7.Mix the EMEND suspension gently by swirling 20 times; then gently invert the mixing cup 5 times. To prevent foaming, do not shake the mixing cup. The mixture will be cloudy pink to light pink. |  |
-| 8.Check the EMEND mixture for any clumps or foaming: If any clumps are present, repeat Step 7 until there are no clumps. If there is any foam, wait for the foam to disappear before going on to Step 9. |  |
-| 9.Fill the dispenser with the prescribed dose shown above in Table 3. Choose the dispenser based on dose: Use 1 mL dispenser if dose is 1 mL or less. Use 5 mL dispenser if dose is more than 1 mL. Fill the dispenser with the prescribed dose from the cup. If the dose is less than 1 mL round to the nearest 0.1 mL. If the dose is more than 1 mL round to the nearest 0.2 mL. It is common to have medicine leftover in the cup. Make sure no air is in the dispenser - if air is present, remove.Make sure the dispenser contains the prescribed dose. |  |
-| 10. Place the cap on the dispenser until it clicks. 11. If the dose is not administered immediately after measuring, store filled oral dosing dispenser(s) in the refrigerator [between 36°F-46°F (2°C-8°C)] for up to 72 hours prior to use. When dispensing dose(s) to the patient or caregiver, instruct them to refrigerate the oral dosing dispenser(s) until they are ready to administer the dose. 12.When ready to use, the mixture can be kept at room temperature [between 68°F-77°F (20°C-25°C)] for up to 3 hours. |  |
-| 13.Discard the mixing cup along with any remaining suspension. |  |
+| 1. Fill the mixing cup with room temperature drinking water. |  |
+| 2. Fill the 5 mL oral dosing dispenser with 4.6 mL of water from the mixing cup. Make sure no air is in the dispenser - if air is present, remove. |  |
+| 3. Discard all the unused water remaining in the mixing cup. |  |
+| 4. Add the 4.6 mL of water from the dispenser back into the mixing cup. |  |
+| 5. Each pouch of EMEND for oral suspension contains 125 mg of aprepitant which is to be suspended in 4.6 mL of water giving a final concentration of 25 mg/mL. Hold the EMEND for oral suspension pouch upright and shake the contents to the bottom before opening the pouch.6. Pour the entire contents of the pouch into the 4.6 mL of water in the mixing cup and snap the lid shut. |  |
+| 7. Mix the EMEND suspension gently by swirling 20 times; then gently invert the mixing cup 5 times. To prevent foaming, do not shake the mixing cup. The mixture will be cloudy pink to light pink. |  |
+| 8. Check the EMEND mixture for any clumps or foaming: If any clumps are present, repeat Step 7 until there are no clumps.If there is any foam, wait for the foam to disappear before going on to Step 9. |  |
+| 9. Fill the dispenser with the prescribed dose shown above in Table 3. Choose the dispenser based on dose: Use 1 mL dispenser if dose is 1 mL or less.Use 5 mL dispenser if dose is more than 1 mL. Fill the dispenser with the prescribed dose from the cup. If the dose is less than 1 mL round to the nearest 0.1 mL.If the dose is more than 1 mL round to the nearest 0.2 mL. It is common to have medicine leftover in the cup. |  |
+| Make sure no air is in the dispenser - if air is present, remove. Make sure the dispenser contains the prescribed dose. |  |
+| 10. Place the cap on the dispenser until it clicks.11. If the dose is not administered immediately after measuring, store filled oral dosing dispenser(s) in the refrigerator [between 36°F-46°F (2°C-8°C)] for up to 72 hours prior to use. When dispensing dose(s) to the patient or caregiver, instruct them to refrigerate the oral dosing dispenser(s) until they are ready to administer the dose.12. When ready to use, the mixture can be kept at room temperature [between 68°F-77°F (20°C-25°C)] for up to 3 hours. |  |
+| 13. Discard the mixing cup along with any remaining suspension. |  |
 
-## 2.4 Administration Instructions
+## 2.3 Administration Instructions
 
 EMEND capsules and EMEND for oral suspension can be administered with or without food.
 

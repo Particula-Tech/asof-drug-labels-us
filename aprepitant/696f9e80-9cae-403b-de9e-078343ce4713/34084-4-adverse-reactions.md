@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The overall safety of EMEND was evaluated in approximately 6800 individuals.
 
-Adverse Reactions in Adults in the Prevention of Nausea and Vomiting Associated with HEC and MEC
+Adults
 
 In 2 active-controlled, double-blind clinical trials in patients receiving highly emetogenic chemotherapy (HEC) (Studies 1 and 2), EMEND in combination with ondansetron and dexamethasone (EMEND regimen) was compared to ondansetron and dexamethasone alone (standard therapy) [see Clinical Studies (14.1)].
 
@@ -55,7 +55,7 @@ In another CINV study, Stevens-Johnson syndrome was reported as a serious advers
 
 Adverse reactions in the Multiple-Cycle extensions of HEC and MEC studies for up to 6 cycles of chemotherapy were generally similar to that observed in Cycle 1.
 
-Adverse Reactions in Pediatric Patients 6 Months to 17 Years of Age in the Prevention of Nausea and Vomiting Associated with HEC or MEC
+Pediatric Patients 6 Months to 17 Years of Age
 
 In a pooled analysis of 2 active-controlled clinical trials in pediatric patients aged 6 months to 17 years who received highly or moderately emetogenic cancer chemotherapy (Study 5 and a safety study, Study 6), EMEND in combination with ondansetron with or without dexamethasone (EMEND regimen) was compared to ondansetron with or without dexamethasone (control regimen).
 
@@ -81,43 +81,10 @@ Forty-nine patients were treated with ifosfamide chemotherapy in each arm.
 Two of the patients treated with ifosfamide in the aprepitant arm developed behavioral changes (agitation = 1; abnormal behavior = 1), whereas no patient treated with ifosfamide in the control arm developed behavioral changes.
 Aprepitant has the potential for increasing ifosfamide-mediated neurotoxicity through induction of CYP3A4 [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
-Adverse Reactions in Adult Patients in the Prevention of PONV
+Non-CINV Studies
 
-In 2 active-controlled, double-blind clinical studies in patients receiving general anesthesia (Studies 7 and 8), 40-mg oral EMEND was compared to 4-mg intravenous ondansetron [see Clinical Studies (14.4)].
-
-There were 564 patients treated with EMEND and 538 patients treated with ondansetron.
-
-The most common adverse reactions reported in patients treated with EMEND for PONV in pooled Studies 7 and 8 are listed in Table 8.
-
-Table 8: Most Common Adverse Reactions in EMEND-Treated Patients in a Pooled Analysis of PONV StudiesReported in ≥ 3% of patients treated with the EMEND 40 mg and at a greater incidence than ondansetron.
-
-|  | EMEND 40 mg (N = 564) | Ondansetron (N = 538) |
-| --- | --- | --- |
-| constipation | 9% | 8% |
-| hypotension | 6% | 5% |
-
-In a pooled analysis of PONV studies, less common adverse reactions reported in patients treated with EMEND are listed in Table 9.
-
-Table 9: Less Common Adverse Reactions in EMEND-Treated Patients in a Pooled Analysis of PONV StudiesReported in > 0.5% of patients treated with EMEND and at a greater incidence than ondansetron
-
-| Infections and Infestations | postoperative infection |
-| --- | --- |
-| Metabolism and Nutrition Disorders | hypokalemia, hypovolemia |
-| Nervous System Disorders | dizziness, hypoesthesia, syncope |
-| Cardiac Disorders | bradycardia |
-| Vascular Disorders | hematoma |
-| Respiratory, Thoracic and Mediastinal Disorders | dyspnea, hypoxia, respiratory depression |
-| Gastrointestinal Disorders | abdominal pain, dry mouth, dyspepsia |
-| Skin and Subcutaneous Tissue Disorders | urticaria |
-| General Disorders and Administration Site Conditions | hypothermia |
-| Investigations | blood albumin decreased, bilirubin increased, blood glucose increased, blood potassium decreased |
-| Injury, Poisoning and Procedural Complications | operative hemorrhage, wound dehiscence |
-
-In addition, two serious adverse reactions were reported in PONV clinical studies in patients taking a higher than recommended dose of EMEND: one case of constipation, and one case of sub-ileus.
-
-Other Studies
-
-Angioedema and urticaria were reported as serious adverse reactions in a patient receiving EMEND in a non-CINV/non-PONV study (EMEND is only approved in the CINV and PONV populations).
+Serious adverse reactions reported in adult patients receiving a non-recommended dosage of EMEND in non-CINV studies include single cases of each of the following: angioedema and urticaria, constipation, and sub-ileus.
+EMEND is only approved in the CINV population.
 
 ## 6.2 Postmarketing Experience
 
