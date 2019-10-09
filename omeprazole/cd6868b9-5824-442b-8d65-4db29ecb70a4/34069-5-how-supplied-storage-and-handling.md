@@ -1,18 +1,16 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZEGERID 20 mg Capsules: Each opaque, hard gelatin, white capsule, imprinted with the Santarus logo and “20”, contains 20 mg omeprazole and 1,100 mg sodium bicarbonate.
+- ZEGERID is supplied as:
 
-1. NDC 68012-102-30 Bottles of 30 capsules
-
-ZEGERID 40 mg Capsules: Each opaque, hard gelatin, colored dark blue and white capsule, imprinted with the Santarus logo and “40”, contains 40 mg omeprazole and 1,100 mg sodium bicarbonate.
-
-1. NDC 68012-104-30 Bottles of 30 capsules
-
-ZEGERID Powder for Oral Suspension is a white, flavored powder packaged in unit-dose packets.
-Each packet contains either 20 mg or 40 mg omeprazole and 1,680 mg sodium bicarbonate.
-
-1. NDC 68012-052-30 Cartons of 30: 20 mg unit-dose packets
-2. NDC 68012-054-30 Cartons of 30: 40 mg unit-dose packets
+| ZEGERID Capsules |  |  |  |
+| --- | --- | --- | --- |
+| NDC | Strength | Quantity | Description |
+| 68012‑102‑30 | 20 mg omeprazole and 1,100 mg sodium bicarbonate | Bottles of 30 capsules | Opaque, hard gelatin, white capsule, imprinted with the Santarus logo and “20” |
+| 68012‑104‑30 | 40 mg omeprazole and 1,100 mg sodium bicarbonate | Bottles of 30 capsules | Opaque, hard gelatin, colored dark blue and white capsule, imprinted with the Santarus logo and “40” |
+| ZEGERID for Oral Suspension |  |  |  |
+| NDC | Strength | Quantity | Description |
+| 68012‑052‑30 | 20 mg omeprazole and 1,680 mg sodium bicarbonate | Cartons of 30 unit‑dose packets | White, flavored powder packaged in unit-dose packets |
+| 68012‑054‑30 | 40 mg omeprazole and 1,680 mg sodium bicarbonate | Cartons of 30 unit‑dose packets | White, flavored powder packaged in unit-dose packets. |
 
 Storage
 

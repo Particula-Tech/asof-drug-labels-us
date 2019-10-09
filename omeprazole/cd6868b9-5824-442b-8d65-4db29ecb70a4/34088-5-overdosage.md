@@ -1,18 +1,18 @@
 # 10 OVERDOSAGE
 
+If over-exposure occurs, call your Poison Control Center at 1-800-222-1222 for current information on the management of poisoning or overdosage.
+
+Omeprazole
+
 Reports have been received of overdosage with omeprazole in humans.
-Doses ranged up to 2,400 mg (120 times the usual recommended clinical dose).
-Manifestations were variable, but included confusion, drowsiness, blurred vision, tachycardia, nausea, vomiting, diaphoresis, flushing, headache, dry mouth, and other adverse reactions similar to those seen in normal clinical experience [see Adverse Reactions (6)].
+Doses ranged up to 2400 mg (120 times the usual recommended clinical dose).
+Manifestations were variable, but included confusion, drowsiness, blurred vision, tachycardia, nausea, vomiting, diaphoresis, flushing, headache, dry mouth, and other adverse reactions similar to those seen in clinical experience with the recommended dosage [see Adverse Reactions (6)].
 Symptoms were transient, and no serious clinical outcome has been reported when omeprazole was taken alone.
 No specific antidote for omeprazole overdosage is known.
 Omeprazole is extensively protein bound and is, therefore, not readily dialyzable.
 In the event of overdosage, treatment should be symptomatic and supportive.
 
-As with the management of any overdose, the possibility of multiple drug ingestion should be considered.
-For current information on treatment of any drug overdose, a certified Regional Poison Control Center should be contacted.
-Telephone numbers are listed in the Physicians’ Desk Reference (PDR) or local telephone book.
+Sodium Bicarbonate
 
-Single oral doses of omeprazole at 1,350, 1,339, and 1,200 mg/kg were lethal to mice, rats, and dogs, respectively.
-Animals given these doses showed sedation, ptosis, tremors, convulsions, and decreased activity, body temperature, and respiratory rate and increased depth of respiration.
-
-In addition, a sodium bicarbonate overdose may cause hypocalcemia, hypokalemia, hypernatremia, and seizures.
+Overdosage of sodium bicarbonate can cause electrolyte abnormalities (hypocalcemia, hypokalemia, hypernatremia), metabolic alkalosis, and seizures.
+Institute supportive care and correct electrolyte abnormalities.

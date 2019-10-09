@@ -1,112 +1,85 @@
-# Medication Guide
+# MEDICATION GUIDE
 
-ZEGERID (ze-ger-id)
+ZEGERID® (ze-ger-id)
 
-(omeprazole/sodium bicarbonate)
+(omeprazole and sodium bicarbonate)
 
-Powder for Oral Suspension and Capsules
-
-Read this Medication Guide before you start taking ZEGERID and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your doctor about your medical condition or treatment.
+for oral suspension and capsules, for oral use
 
 What is the most important information I should know about ZEGERID?
 
-ZEGERID may help with your acid-related symptoms, but you could still have serious stomach problems.
+ZEGERID may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
 
 ZEGERID can cause serious side effects, including:
 
 - •A type of kidney problem (acute interstitial nephritis).
   Some people who take proton pump inhibitor (PPI) medicines, including ZEGERID, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with ZEGERID.
-  Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
+  Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •ZEGERID contains sodium bicarbonate.
-  Tell your doctor if you are on a sodium restricted diet or if you have Bartter’s Syndrome (a rare kidney disorder).
-- Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
-- •Diarrhea.
-  ZEGERID may increase your risk of getting severe diarrhea.
-  This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
-- Call your doctor right away if you have watery stool, stomach pain, and fever that do not go away.
-- •Bone fractures.
-  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
-  You should take ZEGERID exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
-  Talk to your doctor about your risk of bone fracture if you take ZEGERID.
-- •Certain types of lupus erythematosus.
+  Long-term use of bicarbonate with calcium or milk can cause a condition called “milk-alkali syndrome”.
+  Long-term use of sodium bicarbonate can cause a condition called “systemic alkalosis”.
+  Talk to your doctor about any questions you may have.Too much sodium can cause swelling and weight gain.
+  Tell your doctor if you are on a low-sodium diet or if you have Bartter’s Syndrome (a rare kidney disorder).Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
+- •Diarrhea caused by an infection (Clostridium difficile) in your intestines.
+  Call your doctor right away if you have watery stools or stomach pain that does not go away.
+  You may or may not have a fever.
+- •Bone fractures (hip, wrist, or spine).
+  Bone fractures in the hip, wrist or spine may happen in people who take multiple daily doses of PPI medicines and for a long period of time (a year or longer).
+  Tell your doctor if you have bone fracture, especially in the hip, wrist, or spine.
+  Certain types of lupus erythematosus.
   Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
   Some people who take PPI medicines, including ZEGERID, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
   Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
+- Talk to your doctor about your risk of these serious side effects.
 
 ZEGERID can have other serious side effects.
 See “What are the possible side effects of ZEGERID?”
 
 What is ZEGERID?
 
-ZEGERID is a prescription medicine called a proton pump inhibitor (PPI).
-ZEGERID reduces the amount of acid in your stomach.
+A prescription medicine called a proton pump inhibitor (PPI) used to reduce the amount of acid in your stomach.
 
-ZEGERID is used in adults:
+1. ZEGERID for oral suspension and ZEGERID capsules is used in adults for:
+2. •up to 8 weeks for the healing of duodenal ulcers.
+3. •up to 8 weeks for the healing of stomach ulcers.
+4. •up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
+5. •up to 8 weeks for the healing and symptom relief of acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
+   Your doctor may prescribe another 4 weeks of ZEGERID in patients whose EE does not heal.
+6. •maintaining healing of EE and to help prevent the return of heartburn symptoms caused by GERD.
+   It is not known if ZEGERID is safe and effective when used for longer than 12 months for this purpose.
 
-- •for 4 weeks to heal ulcers in the first part of the small bowel (duodenal ulcers).
-  Your doctor may prescribe another 4 weeks of ZEGERID.
-- •for up to 8 weeks for healing stomach ulcers.
-- •for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
-- GERD happens when acid from the stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
-  This may cause a burning feeling in your chest or throat, sour taste, or burping.
-- •for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
-- •to maintain healing of the esophagus.
-  It is not known if ZEGERID is safe and effective if used longer than 12 months (1 year).
-- •to lower the risk of stomach bleeding in critically ill people (40 mg Oral Suspension only).
+ZEGERID for oral suspension is used:
 
-It is not known if ZEGERID is safe and effective in children less than 18 years of age.
+- •in critically ill adults to lower the risk of stomach bleeding (40 mg oral suspension only).
 
-Who should not take ZEGERID?
+It is not known if ZEGERID is safe and effective in children.
 
-Do not take ZEGERID if you:
+Do not take ZEGERID if you are:
 
-- •are allergic to omeprazole or any of the ingredients in ZEGERID.
+- •allergic to omeprazole, any other PPI medicine, or any of the ingredients in ZEGERID.
   See the end of this Medication Guide for a complete list of ingredients in ZEGERID.
-- •are allergic to any other proton pump inhibitor (PPI) medicine.
+- •taking a medicine that contains rilpivirine, used to treat HIV-1 (Human Immunodeficiency Virus).
 
-What should I tell my doctor before I take ZEGERID?
+Before taking ZEGERID, tell your doctor about all of your medical conditions, including if you:
 
-Before you take ZEGERID, tell your doctor if you:
-
-- •have been told that you have low magnesium, calcium, or potassium levels in your blood
-- •have liver problems
-- •have heart failure
-- •have Bartter’s syndrome (a rare kidney disorder)
-- •have any allergies
-- •have any other medical conditions
+- •have low magnesium, calcium, or potassium levels in your blood.
+- •have problems with the acid-base (pH) balance in your body.
+- •have liver problems.
+- •have heart failure.
+- •are on a low-sodium diet.
+- •have Bartter’s syndrome (a rare kidney problem).
+- •are of Asian descent and have been told that your body’s ability to break down (metabolize) omeprazole is poor or if your genotype called CYP2C19 is not known.
 - •are pregnant or plan to become pregnant.
-  It is not known if ZEGERID can harm your unborn baby.
+  It is not known if ZEGERID will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
-  ZEGERID can pass into your breast milk and may harm your baby.
-  You and your doctor should decide if you will take ZEGERID or breastfeed.
-  You should not do both.
+  ZEGERID can pass into your breast milk.
   Talk with your doctor about the best way to feed your baby if you take ZEGERID.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription drugs, anti-cancer drugs, vitamins and herbal supplements.
-ZEGERID may affect how other medicines work, and other medicines may affect how ZEGERID works.
-
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Especially tell your doctor if you take:
 
-- •mycophenolate mofetil (Cellcept)
-- •diazepam (Valium)
-- •warfarin (Coumadin, Jantoven)
-- •phenytoin (Dilantin)
-- •cyclosporine (Gengraf, Neoral, Sandimmune)
-- •disulfiram (Antabuse)
-- •a benzodiazepine medicine
-- •ketoconazole (Nizoral)
-- •an antibiotic that contains ampicillin
-- •products that contain iron
 - •digoxin (Lanoxin)
-- •voriconazole (Vfend)
-- •atazanavir (Reyataz)
-- •nelfinavir (Viracept)
-- •tacrolimus (Prograf)
-- •saquinavir (Fortovase)
-- •clarithromycin (Biaxin, Biaxin XL)
 - •clopidogrel (Plavix)
 - •St.
   John’s wort (Hypericum perforatum)
@@ -122,139 +95,128 @@ How should I take ZEGERID?
 
 - •Take ZEGERID exactly as prescribed by your doctor.
 - •Do not change your dose or stop taking ZEGERID without talking to your doctor.
-  Take ZEGERID on an empty stomach at least one hour before a meal.
-- •Empty the contents of a packet of ZEGERID Powder for Oral Suspension into a small cup containing 1 to 2 tablespoons of water.
-  Do not use other liquids or foods.
-  Stir well and drink immediately.
-  Refill cup with water and drink.
-- •Swallow ZEGERID Capsules whole with water.
+- •Swallow ZEGERID capsules whole with water.
   Do not use other liquids.
   Do not crush or chew the capsule.
   Do not open the capsule and sprinkle contents into food.
+- •Take ZEGERID capsules on an empty stomach at least 1 hour before a meal.
+- •ZEGERID can be taken by mouth or given through a nasogastric (NG) or orogastric (OG) tube.
+- •See the “Instructions for Use” that come with ZEGERID for instructions on how to mix ZEGERID for oral suspension with water and give the medicine through a NG tube or OG tube.
 - •If you miss a dose of ZEGERID, take it as soon as you remember.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose at your regular time.
   Do not take two doses to make up for a missed dose.
-- •Do not substitute two 20 mg packets for one 40 mg packet of ZEGERID Powder for Oral Suspension because you will receive twice the amount of sodium bicarbonate.
+- •Do not substitute two 20 mg packets for one 40 mg packet of ZEGERID for oral Suspension because you will receive twice the amount of sodium bicarbonate.
   Talk to your doctor if you have questions.
 - •Do not substitute two 20 mg capsules for one 40 mg capsule of ZEGERID because you will receive twice the amount of sodium bicarbonate.
   Talk to your doctor if you have questions.
-- •If you take too much ZEGERID, call your doctor or Poison Control Center right away, or go to the nearest hospital emergency room.
-- •Your doctor may prescribe antibiotic medicines with ZEGERID to help treat a stomach infection and heal stomach-area (duodenal) ulcers that are caused by bacteria called H. pylori.
-  Make sure you read the patient information that comes with an antibiotic before you start taking it.
-- •See the “Instructions for Use” at the end of this Medication Guide for instructions on how to mix and give ZEGERID Powder for Oral Suspension through a nasogastric tube or orogastric tube.
+- •If you take too much ZEGERID, call your doctor or Poison Control Center at 1-800-222-1222 right away or go to the nearest hospital emergency room.
 
 What are the possible side effects of ZEGERID?
 
-ZEGERID may cause serious side effects, including:
+ZEGERID can cause serious side effects, including:
 
 - •See “What is the most important information I should know about ZEGERID?”
-- •Vitamin B-12 deficiency.
-  ZEGERID reduces the amount of acid in your stomach.
-  Stomach acid is needed to absorb vitamin B-12 properly.
-  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on ZEGERID for a long time (more than 3 years).
-- •Low magnesium levels in your body.
-  This problem can be serious.
-  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
-  If low magnesium levels happen, it is usually after a year of treatment.
-  You may or may not have symptoms of low magnesium.
-  Tell your doctor right away if you develop any of these symptoms:
-  - •seizures
-  - •dizziness
-  - •abnormal or fast heartbeat
-  - •jitteriness
-  - •jerking movements or shaking (tremors)
-  - •muscle weakness
-  - •spasms of the hands and feet
-  - •cramps or muscle aches
-  - •spasm of the voice box
-
-Your doctor may check the level of magnesium in your body before you start taking ZEGERID, or during treatment, if you will be taking ZEGERID for a long period of time.
-
+- •Low vitamin B-12 levels in your body can happen in people who have taken ZEGERID for a long time (more than 3 years).Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
+- •Low magnesium levels in your body can happen in people who have taken ZEGERID for at least 3 months.
+  Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
-  The most common side effects with ZEGERID include:
+  The most common side effects of ZEGERID include:
 - •headache
 - •abdominal pain
 - •nausea
 - •diarrhea
 - •vomiting
 - •gas
-- Other side effects:
-- •Serious allergic reactions.
-  Tell your doctor if you get any of the following symptoms with ZEGERID.
-  - •rash
-  - •face swelling
-  - •throat tightness
-  - •difficulty breathing
-
-Your doctor may stop ZEGERID if these symptoms happen.
-
-Using ZEGERID for a long time may cause problems such as swelling and weight gain.
-Tell your doctor if this happens.
-
-If you are on a low-sodium diet or at risk of developing congestive heart failure (CHF), you and your doctor should decide if you will take ZEGERID.
-
-Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of ZEGERID.
-For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZEGERID?
 
-- •Store ZEGERID at room temperature between 59° to 86°F (15° to 30°C).
-- •Keep ZEGERID Capsules in a tightly closed container.
+- •Store ZEGERID at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Keep ZEGERID in a tightly closed container.
 - •Keep ZEGERID in a dry place and out of light.
 
-Keep ZEGERID and all medicines out of reach of children.
+Keep ZEGERID and all medicines out of the reach of children.
 
-General information about ZEGERID
+General information about the safe and effective use of ZEGERID.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use ZEGERID for any condition for which it was not prescribed by your doctor.
-Do not give ZEGERID to other people, even if they have the same symptoms as you.
+Do not use ZEGERID for any condition for which it was not prescribed.
+Do not give ZEGERID to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about ZEGERID.
-If you would like more information, talk to your doctor.
-You can also ask your doctor or pharmacist for information about ZEGERID that is written for healthcare professionals.
-
-For more information, go to www.Salix.com or 1-800-321-4576.
+You can also ask your doctor or pharmacist for information about ZEGERID that is written for health professionals.
 
 What are the ingredients in ZEGERID?
 
 Active ingredients: omeprazole and sodium bicarbonate
 
-Inactive ingredients of ZEGERID Powder for Oral Suspension: xylitol, sucrose, sucralose, xanthan gum, and flavorings.
+Inactive ingredients in ZEGERID for oral suspension: xylitol, sucrose, sucralose, xanthan gum, and flavorings.
 
-Inactive ingredients of ZEGERID Capsules: croscarmellose sodium and sodium stearyl fumarate.
+Inactive ingredients in ZEGERID capsules, for oral use: croscarmellose sodium and sodium stearyl fumarate.
+
+Manufactured for: Salix Pharmaceuticals, a division of
+
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+Zegerid is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+
+Any other product/brand names are trademarks of the respective owners.
+
+© 2019 of Salix Pharmaceuticals, Inc. or its affiliates.
+
+For more information, go to www.Salix.com or 1-800-321-4576.
+
+Update p/n
+
+Update p/n
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: September 2019
 
 Instructions for Use
 
-For instructions on taking ZEGERID Capsules and ZEGERID Powder for Oral Suspension by mouth, see “How should I take ZEGERID?”
+ZEGERID® (ze-ger-id)
 
-Giving ZEGERID Powder for Oral Suspension through a nasogastric tube (NG tube) or orogastric tube:
+(omeprazole and sodium bicarbonate)
 
-- Add 20 mL of water to a catheter tipped syringe and then add the contents of a packet as prescribed by your doctor.
-  Use only a catheter tipped syringe to give ZEGERID through an NG tube or orogastric tube.
-- Shake the syringe to dissolve the powder.
-- Give the medicine through the NG or orogastric tube into the stomach right away.
-- Refill the syringe with an equal amount of water.
-- Shake and flush any remaining contents from the NG tube or orogastric tube into the stomach.
+for oral suspension
 
-Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Taking ZEGERID for oral suspension:
 
-Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-All other product/brand names and/or logos are trademarks of the respective owners.
+Important: ZEGERID should be taken on an empty stomach at least 1 hour before a meal.
 
-© Valeant Pharmaceuticals North America LLC
+1. 1.ZEGERID comes in packets containing 20 mg or 40 mg of ZEGERID.
+2. 2.Use an oral syringe to draw up the amount of water needed to mix your dose.
+   Ask your pharmacist for an oral syringe.
+3. 3.Using the oral syringe, draw up 5 mL to 10 mL of water and add the water to a small cup.
+   Do not mix ZEGERID with foods or liquids other than water.
+4. 4.Empty the contents of the packet into the small cup.
+5. 5.Stir well to dissolve the powder and drink the mixture right away.
+6. 6.If any medicine remains after drinking, add more water, stir, and drink right away.
 
-Revised: 06/2018
+Giving ZEGERID for oral suspension with water through a nasogastric (NG) tube or orogastric (OG) tube:
 
-1. 9654500 70013887
-2. 9524003 2000010801
+- Important: For patients receiving ZEGERID through a NG tube or OG tube, enteral feeding should be stopped approximately 3 hours before giving ZEGERID.
+  You should wait at least 1 hour after giving ZEGERID before you start enteral feeding again.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+1. 1.ZEGERID comes in packets containing 20 mg or 40 mg of ZEGERID.
+2. 2.You will mix ZEGERID with 20 mL of water in a catheter tipped syringe.
+3. 3.Use only a catheter tipped syringe to give ZEGERID through the NG or OG tube.
+   Talk to your doctor about the size catheter tipped syringe you should use.
+4. 4.Add 20 mL of water to the catheter tipped syringe.
+   Do not use any food or liquids other than water to mix ZEGERID.
+5. 5.Add the contents of 1 packet of ZEGERID to the syringe.
+6. 6.Shake the syringe well to dissolve the powder.
+7. 7.Inject the medicine through the NG or OG tube into the stomach right away.
+8. 8.Refill the syringe with the same amount of water (20 mL) you used to prepare your dose of ZEGERID.
+9. 9.Shake the syringe and flush any remaining medicine from the NG tube or OG tube into the stomach.
+10. Issued: September 2019

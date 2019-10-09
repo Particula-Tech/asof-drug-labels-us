@@ -2,65 +2,69 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Adverse Reactions
+Acute Interstitial Nephritis
 
-Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
+Advise the patient to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
 
-- •Hypersensitivity Reactions [see Contraindications (4)]
-- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
-- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.4)]
-- •Bone Fracture [see Warnings and Precautions (5.5)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
-- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
-- •Hypomagnesemia [see Warnings and Precautions (5.9)]
+Sodium Bicarbonate Buffer Content
 
-Sodium Content
+Inform patients on a sodium-restricted diet or patients at risk of developing congestive heart failure of the sodium content of ZEGERID capsules (304 mg per capsule) and ZEGERID for oral suspension (460 mg per packet).
 
-Patients on a sodium-restricted diet or patients at risk of developing congestive heart failure (CHF) should be informed of the sodium content of ZEGERID Capsules (304 mg per capsule) and ZEGERID Powder (460 mg per packet).
-Patients should be informed that chronic use of sodium bicarbonate may cause problems and increased sodium intake can cause swelling and weight gain.
-If this occurs, they should contact their healthcare provider.
-[See Warnings and Precautions (5.3).]
+Advise patients that:
+
+- •chronic use of bicarbonate with calcium or milk can cause milk-alkali syndrome
+- •chronic use of sodium bicarbonate may systemic alkalosis
+- •increased sodium intake can cause swelling and weight gain.
+
+If any of these occur, instruct patients to contact their healthcare provider [see Warnings and Precautions (5.3)].
+
+Clostridium difficile-Associated Diarrhea
+
+Advise the patient to immediately call their healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.4)].
+
+Bone Fracture
+
+Advise the patient to report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.5)].
+
+Cutaneous and Systemic Lupus Erythematosus
+
+Advise the patient to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)].
+
+Cyanocobalamin (Vitamin B-12) Deficiency
+
+Advise the patient to report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider if they have been receiving ZEGERID for longer than 3 years [see Warnings and Precautions (5.8)].
+
+Hypomagnesemia
+
+Advise the patient to report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving ZEGERID for at least 3 months [see Warnings and Precautions (5.9)].
 
 Drug Interactions
 
-Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s wort or rifampin, or if they take high-dose methotrexate.
-[See Warnings and Precautions (5.7, 5.10, 5.12).]
+Advise patients to report to their healthcare provider if they start treatment with rilpivirine-containing products, clopidogrel, St. John’s wort or rifampin, or if they take high-dose methotrexate [see Contraindications (4),Warnings and Precautions (5.7, 5.10, 5.12)].
 
 Administration
 
-Instruct patients that ZEGERID should be taken on an empty stomach at least one hour prior to a meal.
-[See Dosage and Administration (2).]
+1. Instruct patients that:
+2. •two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
+3. •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
 
-Instruct patients in Directions for Use as follows:
+Administration of ZEGERID Capsules
 
-Capsules: Swallow intact capsule with water.
-DO NOT USE OTHER LIQUIDS.
-DO NOT OPEN CAPSULE AND SPRINKLE CONTENTS INTO FOOD.
+- •Instruct patients to swallow ZEGERID capsules intact with water.
+  Do not open the capsule and do not administer with liquids other than water.
+- •Instruct patients to take ZEGERID capsules on an empty stomach at least one hour before a meal [see Dosage and Administration (2.3)].
 
-Powder for Oral Suspension: Empty packet contents into a small cup containing 1-2 tablespoons of water.
-DO NOT USE OTHER LIQUIDS OR FOODS.
-Stir well and drink immediately.
-Refill cup with water and drink.
+Administration of ZEGERID for Oral Suspension
 
-ZEGERID is available either as 40 mg or 20 mg capsules with 1,100 mg sodium bicarbonate.
-ZEGERID is also available either as 40 mg or 20 mg single-dose packets of powder for oral suspension with 1,680 mg sodium bicarbonate.
+- •Advise patients that ZEGERID for oral suspension is intended to be mixed with water and administered orally or via a nasogastric (NG)/orogastric (OG) tube, as described in the Medication Guide.
+- •Instruct patients to suspend enteral feeding approximately 3 hours before and 1 hour after administration of ZEGERID for oral suspension [see Dosage and Administration (2.3)].
 
-Patients should be instructed not to substitute ZEGERID Capsules or Suspension for other ZEGERID dosage forms because different dosage forms contain different amounts of sodium bicarbonate and magnesium hydroxide.
-[See Dosage and Administration (2).]
+Manufactured for: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Patients should be advised that since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1,680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
-Conversely ½ of a 40 mg packet should not be substituted for one 20 mg packet.
-[See Dosage and Administration (2).]
+Zegerid is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-Patients should be advised that since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1,100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
-[See Dosage and Administration (2).]
+Any other product/brand names are trademarks of the respective owners.
 
-Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-All other product/brand names and/or logos are trademarks of the respective owners.
+© 2019 Salix Pharmaceuticals, Inc. or its affiliates
 
-© Valeant Pharmaceuticals North America LLC
-
-Salix PHARMACEUTICALS
-
-1. 9524003 2000010801
-2. 9654500 70013887
+- Update p/n

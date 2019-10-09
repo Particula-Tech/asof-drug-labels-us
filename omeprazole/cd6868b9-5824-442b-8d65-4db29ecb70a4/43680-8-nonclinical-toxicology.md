@@ -18,26 +18,10 @@ In a 2-year carcinogenicity study in Sprague Dawley rats, no astrocytomas were f
 A 78-week mouse carcinogenicity study of omeprazole did not show increased tumor occurrence, but the study was not conclusive.
 A 26-week p53 (+/-) transgenic mouse carcinogenicity study was not positive.
 
-Omeprazole was positive for clastogenic effects in an in vitro human lymphocyte chromosomal aberration assay, in one of two in vivo mouse micronucleus tests, and in an in vivo bone marrow cell chromosomal aberration assay.
+Omeprazole was positive for clastogenic effects in an in vitro human lymphocyte chromosomal aberration assay, in one of two in vivo mouse micronucleus tests, and in an in vivobone marrow cell chromosomal aberration assay.
 Omeprazole was negative in the in vitro Ames test, an in vitro mouse lymphoma cell forward mutation assay and an in vivo rat liver DNA damage assay.
 
-In a 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Warnings and Precautions (5)].
-Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
+In a 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals.
+Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other PPIs or high doses of H2-receptor antagonists.
 
 Omeprazole at oral doses up to 138 mg/kg/day (about 33.6 times the human dose of 40 mg/day on a body surface area basis) was found to have no effect on the fertility and general reproductive performance in rats.
-
-## 13.2 Animal Toxicology and/or Pharmacology
-
-Reproductive Toxicology Studies
-
-Reproduction studies conducted in pregnant rats with omeprazole at doses up to 138 mg/kg/day (about 33.6 times an oral human dose of 40 mg on a body surface area basis) and in pregnant rabbits at doses up to 69 mg/kg/day (about 33.6 times an oral human dose of 40 mg on a body surface area basis) did not disclose any evidence for a teratogenic potential of omeprazole.
-
-In rabbits, omeprazole in a dose range of 6.9 to 69 mg/kg/day (about 3.3 to 33.6 times the human dose of 40 mg/day on a body surface area basis) produced dose-related increases in embryo-lethality, fetal resorptions and pregnancy disruptions.
-In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 3.3 to 33.6 times the human dose of 40 mg/day on a body surface area basis).
-
-Juvenile Animal Study
-
-A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 to 280 mg/kg/day (about 17 to 68 times a daily oral human dose of 40 mg on a body surface area basis).
-An increase in the number of deaths at the high dose of 280 mg/kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal Day 7 through postnatal Day 35.
-In addition, doses equal to or greater than 140 mg/kg/day (about 34 times a daily oral human dose of 40 mg on a body surface area basis), produced treatment-related decreases in body weight (approximately 14%) and body weight gain, decreases in femur weight and femur length, and affected overall growth.
-Comparable findings described above have also been observed in this study with another esomeprazole salt, esomeprazole strontium, at equimolar doses of esomeprazole.

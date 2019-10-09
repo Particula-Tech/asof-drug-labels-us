@@ -1,51 +1,67 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-ZEGERID (omeprazole/sodium bicarbonate) is available as a capsule and as a powder for oral suspension in 20 mg and 40 mg strengths of omeprazole for adult use.
-Directions for use for each indication are summarized in Table 1.
-All recommended doses throughout the labeling are based upon omeprazole.
+## 2.1 Important Administration Instructions
 
-Since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1,680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
+- •ZEGERID (omeprazole and sodium bicarbonate) is available as a capsule and as a powder for oral suspension in 20 mg and 40 mg strengths of omeprazole for adult use.
+  All recommended doses throughout the labeling are based upon omeprazole.
+- •The sodium content of ZEGERID capsules and ZEGERID for oral suspension should be taken into consideration when prescribing this product [see Warnings and Precautions (5.3)]:
+  - oZEGERID capsule: each 20 mg and 40 mg capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
+    The total content of sodium in each capsule is 304 mg.
+  - oZEGERID for oral suspension: each 20 mg and 40 mg packet of contains 1,680 mg (20 mEq) of sodium bicarbonate.
+    The total content of sodium in each packet is 460 mg.
+- •Due to the sodium bicarbonate content of ZEGERID:
+- •Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
+- •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
 
-Since both the 20 mg and 40 mg capsules contain the same amount of sodium bicarbonate (1,100 mg), two capsules of 20 mg are not equivalent to one capsule of ZEGERID 40 mg; therefore, two 20 mg capsules of ZEGERID should not be substituted for one capsule of ZEGERID 40 mg.
+## 2.2 Dosage Regimen
 
-ZEGERID should be taken on an empty stomach at least one hour before a meal.
+The recommended dosage regimen by indication in adults of ZEGERID for oral suspension and ZEGERID capsules is summarized in Table 1.
+Only 40 mg ZEGERID for oral suspension is indicated for the reduction of risk of upper GI bleeding in critically ill adult patients and the dosage regimen is summarized in Table 2.
+All recommended dosages are based upon omeprazole content.
 
-For patients receiving continuous Nasogastric (NG)/Orogastric (OG) tube feeding, enteral feeding should be suspended approximately 3 hours before and 1 hour after administration of ZEGERID Powder for Oral Suspension.
+Table 1: Recommended Dosage Regimen of ZEGERID for Oral Suspension and ZEGERID Capsules in Adults by Indication
 
-Table 1: Recommended Doses of ZEGERID by Indication for Adults 18 Years and Older
-
-| Indication | Recommended Dose | Frequency |
+| Indication | Dosage of ZEGERID for oral suspension or ZEGERID capsules | Treatment Duration |
 | --- | --- | --- |
-| Short-Term Treatment of Active Duodenal Ulcer | 20 mg | Once daily for 4 weeksMost patients heal within 4 weeks. Some patients may require an additional 4 weeks of therapy. [See Clinical Studies (14.1).]For additional information, [see Indications and Usage (1)]. |
-| Benign Gastric Ulcer | 40 mg | Once daily for 4-8 weeksControlled studies do not extend beyond 12 months. [See Clinical Studies (14).] |
-| Gastroesophageal Reflux Disease (GERD) |  |  |
-| Symptomatic GERD (with no esophageal erosions) | 20 mg | Once daily for up to 4 weeks |
-| Erosive Esophagitis | 20 mg | Once daily for 4-8 weeks |
-| Maintenance of Healing of Erosive Esophagitis | 20 mg | Once daily |
-| Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients (40 mg oral suspension only) | 40 mg | 40 mg initially followed by 40 mg 6-8 hours later and 40 mg daily thereafter for 14 days |
+| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeksMost patients heal within 4 weeks. Some patients may require an additional 4 weeks of therapy. [see Clinical Studies (14.1)] The efficacy of ZEGERID used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of ZEGERID may be considered. |
+| Treatment of Active Benign Gastric Ulcer | 40 mg once daily | 4 to 8 weeks |
+| Treatment of Symptomatic GERD | 20 mg once daily | Up to 4 weeks |
+| Treatment of EE due to Acid-Mediated GERD | 20 mg once daily | 4 to 8 weeks |
+| Maintenance of Healing of EE due to Acid-Mediated GERD | 20 mg once daily | Controlled studies do not extend beyond 12 months. |
 
-Special Populations
+Table 2: Recommended Dosage Regimen of 40 mg ZEGERID for Oral Suspension in Adults by Indication
 
-Hepatic Insufficiency
+| Indication | Dosage of40 mg ZEGERID for oral suspension | Treatment Duration |
+| --- | --- | --- |
+| Reduction of Risk of Upper GI Bleeding in Critically Ill Patients | 40 mg initially; followed by 40 mg 6 to 8 hours later; and 40 mg once daily thereafter | 14 days |
 
-Consider dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3).]
+## 2.3 Preparation and Administration
 
-Administration of Capsules
+ZEGERID Capsules
 
-ZEGERID Capsules should be swallowed intact with water.
-DO NOT USE OTHER LIQUIDS.
-DO NOT OPEN CAPSULE AND SPRINKLE CONTENTS INTO FOOD.
+- •Swallow capsules intact with water.
+  Do not open the capsule and do not administer with liquids other than water.
+- •Take on an empty stomach at least one hour before a meal [see Clinical Pharmacology (12.3)].
 
-Preparation and Administration of Suspension
+ZEGERID for Oral Suspension
 
-Directions for use: Empty packet contents into a small cup containing 1-2 tablespoons of water.
-DO NOT USE OTHER LIQUIDS OR FOODS.
-Stir well and drink immediately.
-Refill cup with water and drink.
+- •ZEGERID for oral suspension is intended to be mixed with water and administered orally or via a nasogastric (NG) or orogastric (OG) tube.
+- •If administered orally, take on an empty stomach at least one hour before a meal.
+- •If administered via NG or OG tube, suspend enteral feeding approximately 3 hours before and 1 hour after administration of ZEGERID for oral suspension.
 
-If ZEGERID is to be administered through a nasogastric (NG) or orogastric (OG) tube, the suspension should be constituted with approximately 20 mL of water.
-DO NOT USE OTHER LIQUIDS OR FOODS.
-Stir well and administer immediately.
-An appropriately-sized syringe should be used to instill the suspension in the tube.
-The suspension should be washed through the tube with 20 mL of water.
+Oral Administration
+
+- oEmpty the contents of a packet into a small cup containing 5 to 10 mL of water.
+  Do not mix with liquids or foods other than water.
+- oStir well and drink immediately.
+- oRefill cup with water and drink immediately.
+
+Nasogastric (NG) or Orogastric (OG) Tube Administration
+
+- oAdd 20 mL of water to a catheter tipped syringe and then add the contents of a packet.
+  Use an appropriately-sized catheter tipped syringe.
+  Do not mix with liquids or foods other than water.
+- o Shake the syringe to dissolve the powder.
+- oAdminister through the NG or orogastric tube into the stomach right away.
+- oRefill the syringe with an equal amount of water.
+- oShake and flush any remaining contents from the NG tube or orogastric tube into the stomach.

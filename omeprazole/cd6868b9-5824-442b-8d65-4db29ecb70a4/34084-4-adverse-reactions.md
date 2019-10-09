@@ -14,111 +14,111 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In the U.S. clinical trial population of 465 patients, the adverse reactions summarized in Table 2 were reported to occur in 1% or more of patients on therapy with omeprazole.
-Numbers in parentheses indicate percentages of the adverse reactions considered by investigators as possibly, probably or definitely related to the drug.
+The safety of ZEGERID has been established, in part, based on oral studies of an oral delayed-release omeprazole product.
 
-Table 2: Adverse Reactions Occurring in 1% or More of Patients on Omeprazole Therapy
+Clinical Trials with Omeprazole
 
-|  | Omeprazole(n = 465) | Placebo(n = 64) | Ranitidine(n = 195) |
+In the U.S. clinical trial population of 465 adult patients, the adverse reactions summarized in Table 3 were reported to occur in 1% or more of patients on therapy with omeprazole.
+
+Table 3: Adverse Reactions Occurring in 1% or More of Adult Patients in US Clinical Trials of Omeprazole Therapy
+
+|  | Omeprazole%(n = 465) | Placebo%(n = 64) | Ranitidine%(n = 195) |
 | --- | --- | --- | --- |
-| Headache | 6.9 (2.4) | 6.3 | 7.7 (2.6) |
-| Diarrhea | 3.0 (1.9) | 3.1 (1.6) | 2.1 (0.5) |
-| Abdominal Pain | 2.4 (0.4) | 3.1 | 2.1 |
-| Nausea | 2.2 (0.9) | 3.1 | 4.1 (0.5) |
-| URI | 1.9 | 1.6 | 2.6 |
-| Dizziness | 1.5 (0.6) | 0.0 | 2.6 (1.0) |
-| Vomiting | 1.5 (0.4) | 4.7 | 1.5 (0.5) |
-| Rash | 1.5 (1.1) | 0.0 | 0.0 |
-| Constipation | 1.1 (0.9) | 0.0 | 0.0 |
-| Cough | 1.1 | 0.0 | 1.5 |
-| Asthenia | 1.1 (0.2) | 1.6 (1.6) | 1.5 (1.0) |
-| Back Pain | 1.1 | 0.0 | 0.5 |
+| Headache | 7 | 6 | 8 |
+| Diarrhea | 3 | 3 | 2 |
+| Abdominal Pain | 2 | 3 | 3 |
+| Nausea | 2 | 3 | 4 |
+| Upper Respiratory Infection (URI) | 2 | 2 | 3 |
+| Dizziness | 2 | 0 | 3 |
+| Vomiting | 2 | 5 | 2 |
+| Rash | 2 | 0 | 0 |
+| Constipation | 1 | 0 | 0 |
+| Cough | 1 | 0 | 2 |
+| Asthenia | 1 | 2 | 2 |
+| Back Pain | 1 | 0 | 1 |
 
-Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
+Table 4 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
 
-Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship Not Assessed
+Table 4: Adverse Reactions Occurring in 1% or More of Adult Patients in International Clinical Trials of Omeprazole Therapy
 
-|  | Omeprazole (n = 2,631) | Placebo(n = 120) |
+|  | Omeprazole% (N = 2631) | Placebo% (N = 120) |
 | --- | --- | --- |
-| Body as a Whole, Site Unspecified |  |  |
 | Abdominal Pain | 5.2 | 3.3 |
-| Asthenia | 1.3 | 0.8 |
-| Digestive System |  |  |
-| Constipation | 1.5 | 0.8 |
-| Diarrhea | 3.7 | 2.5 |
-| Flatulence | 2.7 | 5.8 |
 | Nausea | 4.0 | 6.7 |
+| Diarrhea | 3.7 | 2.5 |
 | Vomiting | 3.2 | 10.0 |
-| Acid Regurgitation | 1.9 | 3.3 |
-| Nervous System/Psychiatric |  |  |
 | Headache | 2.9 | 2.5 |
+| Flatulence | 2.7 | 5.8 |
+| Acid Regurgitation | 1.9 | 3.3 |
+| Constipation | 1.5 | 0.8 |
+| Asthenia | 1.3 | 0.8 |
 
-A controlled clinical trial was conducted in 359 critically ill patients, comparing ZEGERID 40 mg/1,680 mg suspension once daily to I.V. cimetidine 1,200 mg/day for up to 14 days.
-The incidence and total number of AEs experienced by ≥3% of patients in either group are presented in Table 4 by body system and preferred term.
+Clinical Trial of 40 mg ZEGERID for Oral Suspension
 
-Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥3%) Adverse Events by Body System and Preferred Term
+Adverse reactions reported in at least 3% of critically ill adult patients in a clinical trial of 40 mg ZEGERID for oral suspension compared to intravenous cimetidine for up to 14 days are presented in Table 5.
 
-|  | ZEGERID®(N=178) | Cimetidine(N=181) |
+Table 5: Common Adverse Reactionsreported in at least 3% of patients in either treatment group. by Body System and Preferred Term in a Randomized Controlled Trial of Critically Ill Adult Patients Treated up to 14 Days
+
+| Body System Preferred Term | ZEGERID40 mg for oral suspension once daily% (N=178) | Intravenous Cimetidine1,200 mg per day% (N=181) |
 | --- | --- | --- |
-| MedDRA |  |  |
-| Body System | All AEs | All AEs |
-| Preferred Term | n (%) | n (%) |
-| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
-| Anemia NOS | 14 (7.9) | 14 (7.7) |
-| Anemia NOS Aggravated | 4 (2.2) | 7 (3.9) |
-| Thrombocytopenia | 18 (10.1) | 11 (6.1) |
-| CARDIAC DISORDERS |  |  |
-| Atrial Fibrillation | 11 (6.2) | 7 (3.9) |
-| Bradycardia NOS | 7 (3.9) | 5 (2.8) |
-| Supraventricular Tachycardia | 6 (3.4) | 2 (1.1) |
-| Tachycardia NOS | 6 (3.4) | 6 (3.3) |
-| Ventricular Tachycardia | 8 (4.5) | 6 (3.3) |
-| GASTROINTESTINAL DISORDERSClinically significant upper gastrointestinal bleeding was considered a serious adverse event but it is not included in this table. |  |  |
-| Constipation | 8 (4.5) | 8 (4.4) |
-| Diarrhea NOS | 7 (3.9) | 15 (8.3) |
-| Gastric Hypomotility | 3 (1.7) | 6 (3.3) |
-| GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
-| Hyperpyrexia | 8 (4.5) | 3 (1.7) |
-| Edema NOS | 5 (2.8) | 11 (6.1) |
-| Pyrexia | 36 (20.2) | 29 (16.0) |
-| INFECTIONS AND INFESTATIONS |  |  |
-| Candidal Infection NOS | 3 (1.7) | 7 (3.9) |
-| Oral Candidiasis | 7 (3.9) | 1 (0.6) |
-| Sepsis NOS | 9 (5.1) | 9 (5.0) |
-| Urinary Tract Infection NOS | 4 (2.2) | 6 (3.3) |
-| INVESTIGATIONS |  |  |
-| Liver Function Tests NOS Abnormal | 3 (1.7) | 6 (3.3) |
-| METABOLISM AND NUTRITION DISORDERS |  |  |
-| Fluid Overload | 9 (5.1) | 14 (7.7) |
-| Hyperglycemia NOS | 19 (10.7) | 21 (11.6) |
-| Hyperkalemia | 4 (2.2) | 6 (3.3) |
-| Hypernatremia | 3 (1.7) | 9 (5.0) |
-| Hypocalcemia | 11 (6.2) | 10 (5.5) |
-| Hypoglycemia NOS | 6 (3.4) | 8 (4.4) |
-| Hypokalemia | 22 (12.4) | 24 (13.3) |
-| Hypomagnesemia | 18 (10.1) | 18 (9.9) |
-| Hyponatremia | 7 (3.9) | 5 (2.8) |
-| Hypophosphatemia | 11 (6.2) | 7 (3.9) |
-| PSYCHIATRIC DISORDERS |  |  |
-| Agitation | 6 (3.4) | 16 (8.8) |
-| RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS |  |  |
-| Acute Respiratory Distress Syndrome | 6 (3.4) | 7 (3.9) |
-| Nosocomial Pneumonia | 20 (11.2) | 17 (9.4) |
-| Pneumothorax NOS | 1 (0.6) | 8 (4.4) |
-| Respiratory Failure | 3 (1.7) | 6 (3.3) |
-| SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |
-| Decubitus Ulcer | 6 (3.4) | 5 (2.8) |
-| Rash NOS | 10 (5.6) | 11 (6.1) |
-| VASCULAR DISORDERS |  |  |
-| Hypertension NOS | 14 (7.9) | 6 (3.3) |
-| Hypotension NOS | 17 (9.6) | 12 (6.6) |
+| Blood and Lymphatic System Disorders |  |  |
+| Anemia NOS | 7.9 | 7.7 |
+| Anemia NOS Aggravated | 2.2 | 3.9 |
+| Thrombocytopenia | 10.1 | 6.1 |
+| Cardiac Disorders |  |  |
+| Atrial Fibrillation | 6.2 | 3.9 |
+| Bradycardia NOS | 3.9 | 2.8 |
+| Supraventricular Tachycardia | 3.4 | 1.1 |
+| Tachycardia NOS | 3.4 | 3.3 |
+| Ventricular Tachycardia | 4.5 | 3.3 |
+| Gastrointestinal DisordersIn this trial, clinically significant upper gastrointestinal bleeding was considered a serious adverse reaction, but it is not included in this table. |  |  |
+| Constipation | 4.5 | 4.4 |
+| Diarrhea NOS | 3.9 | 8.3 |
+| Gastric Hypomotility | 1.7 | 3.3 |
+| General Disorders and Administration Site Conditions |  |  |
+| Hyperpyrexia | 4.5 | 1.7 |
+| Edema NOS | 2.8 | 6.1 |
+| Pyrexia | 20.2 | 16.0 |
+| Infections and Infestations |  |  |
+| Candidal Infection NOS | 1.7 | 3.9 |
+| Oral Candidiasis | 3.9 | 0.6 |
+| Sepsis NOS | 5.1 | 5.0 |
+| Urinary Tract Infection | 2.2 | 3.3 |
+| Investigations |  |  |
+| Liver Function Tests NOS Abnormal | 1.7 | 3.3 |
+| Metabolism and Nutrition Disorders |  |  |
+| Fluid Overload | 5.1 | 7.7 |
+| Hyperglycemia NOS | 10.7 | 11.6 |
+| Hyperkalemia | 2.2 | 3.3 |
+| Hypernatremia | 1.7 | 5.0 |
+| Hypocalcemia | 6.2 | 5.5 |
+| Hypoglycemia NOS | 3.4 | 4.4 |
+| Hypokalemia | 12.4 | 13.3 |
+| Hypomagnesemia | 10.1 | 9.9 |
+| Hyponatremia | 3.9 | 2.8 |
+| Hypophosphatemia | 6.2 | 3.9 |
+| Psychiatric Disorders |  |  |
+| Agitation | 3.4 | 8.8 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Acute Respiratory Distress Syndrome | 3.4 | 3.9 |
+| Nosocomial Pneumonia | 11.2 | 9.4 |
+| Pneumothorax NOS | 0.6 | 4.4 |
+| Respiratory Failure | 1.7 | 3.3 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Decubitus Ulcer | 3.4 | 2.8 |
+| Rash NOS | 5.6 | 6.1 |
+| Vascular Disorders |  |  |
+| Hypertension NOS | 7.9 | 3.3 |
+| Hypotension NOS | 9.6 | 6.6 |
 
-NOS = Not otherwise specified.
+NOS = not otherwise specified
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of omeprazole.
+The following adverse reactions have been identified during post-approval use of omeprazole and sodium bicarbonate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Omeprazole
 
 Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise, and systemic lupus erythematosus.
 
@@ -151,6 +151,6 @@ Urogenital: Interstitial nephritis (some with positive rechallenge), urinary tra
 
 Hematologic: Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, neutropenia, leukopenia, anemia, leukocytosis, and hemolytic anemia have been reported.
 
-The incidence of clinical adverse experiences in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
+Sodium Bicarbonate
 
-Additional adverse reactions that could be caused by sodium bicarbonate include metabolic alkalosis, seizures, and tetany.
+metabolic alkalosis, seizures, and tetany.

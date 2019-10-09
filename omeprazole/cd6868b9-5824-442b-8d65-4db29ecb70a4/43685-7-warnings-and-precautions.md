@@ -11,27 +11,28 @@ In older patients, also consider an endoscopy.
 Acute interstitial nephritis has been observed in patients taking PPIs including ZEGERID.
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
 Discontinue ZEGERID if acute interstitial nephritis develops.
-[See Contraindications (4).]
+[see Contraindications (4)]
 
-## 5.3 Buffer Content
+## 5.3 Sodium Bicarbonate Buffer Content
 
-Each ZEGERID Capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
+Each 20 mg and 40 mg ZEGERID capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
 The total content of sodium in each capsule is 304 mg.
 
-Each packet of ZEGERID Powder for Oral Suspension contains 1,680 mg (20 mEq) of sodium bicarbonate (equivalent to 460 mg of Na+).
+Each 20 mg and 40 mg packet of ZEGERID for oral suspension contains 1,680 mg (20 mEq) of sodium bicarbonate.
+The total content of sodium in each packet is 460 mg.
 
-The sodium content of ZEGERID products should be taken into consideration when administering to patients on a sodium restricted diet.
+Chronic administration of bicarbonate with calcium or milk can cause milk-alkali syndrome.
+Chronic use of sodium bicarbonate may lead to systemic alkalosis, and increased sodium intake can produce edema and weight gain.
 
-Because ZEGERID products contain sodium bicarbonate, they should be used with caution in patients with Bartter’s syndrome, hypokalemia, hypocalcemia, and problems with acid-base balance.
-Long-term administration of bicarbonate with calcium or milk can cause milk-alkali syndrome.
+The sodium content of ZEGERID products should be taken into consideration when administering to patients on a sodium-restricted diet or those at risk for developing congestive heart failure.
 
-Chronic use of sodium bicarbonate may lead to systemic alkalosis, and increased sodium intake can produce edema and weight increase.
+Avoid ZEGERID in patients with Bartter’s syndrome, hypokalemia, hypocalcemia, and problems with acid-base balance.
 
 ## 5.4 Clostridium difficile-Associated Diarrhea
 
 Published observational studies suggest that PPI therapy like ZEGERID may be associated with an increased risk of Clostridium difficile-associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve.
-[See Adverse Reactions (6.2).]
+[see Adverse Reactions (6.2)]
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
@@ -41,7 +42,7 @@ Several published observational studies suggest that proton pump inhibitor (PPI)
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to the established treatment guidelines.
-[See Dosage and Administration (2) and Adverse Reactions (6.2).]
+[see Dosage and Administration (2.2) and Adverse Reactions (6.2)]
 
 ## 5.6 Cutaneous and Systemic Lupus Erythematosus
 
@@ -70,13 +71,13 @@ Inhibition of platelet aggregation by clopidogrel is entirely due to an active m
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as omeprazole, that interfere with CYP2C19 activity.
 Concomitant use of clopidogrel with 80 mg omeprazole reduces the pharmacological activity of clopidogrel, even when administered 12 hours apart.
 When using ZEGERID, consider alternative antiplatelet therapy.
-[See Drug Interactions (7.5) and Clinical Pharmacology (12.3).]
+[see Drug Interactions (7) and Clinical Pharmacology (12.3)]
 
 ## 5.8 Cyanocobalamin (Vitamin B-12) Deficiency
 
 Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than 3 years) may lead to malabsorption of cyanocobalamin (vitamin B-12) caused by hypo- or achlorhydria.
 Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
-This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed.
+This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed in patients treated with ZEGERID.
 
 ## 5.9 Hypomagnesemia
 
@@ -85,26 +86,26 @@ Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), healthcare professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
-[See Adverse Reactions (6.2).]
+[see Adverse Reactions (6.2).]
 
-## 5.10 Concomitant Use of ZEGERID with St. John’s Wort or Rifampin
+## 5.10 Interaction with St. John’s Wort or Rifampin
 
-Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7.2)].
+Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7)].
 Avoid concomitant use of ZEGERID with St. John’s wort or rifampin.
 
 ## 5.11 Interactions with Investigations for Neuroendocrine Tumors
 
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
-Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+Providers should temporarily stop ZEGERID treatment for at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
-[See Clinical Pharmacology (12.2).]
+[see Drug Interactions (7)]
 
-## 5.12 Concomitant Use of ZEGERID with Methotrexate
+## 5.12 Interaction with Methotrexate
 
-Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
-[See Drug Interactions (7.8).]
+[see Drug Interactions (7)]
 
 ## 5.13 Fundic Gland Polyps
 

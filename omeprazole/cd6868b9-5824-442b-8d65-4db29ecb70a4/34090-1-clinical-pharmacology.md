@@ -2,25 +2,21 @@
 
 ## 12.1 Mechanism of Action
 
-Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that do not exhibit anticholinergic or H2 histamine antagonistic properties, but that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
+Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
 Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production.
 This effect is dose related and leads to inhibition of both basal and stimulated acid secretion irrespective of the stimulus.
-Animal studies indicate that after rapid disappearance from plasma, omeprazole can be found within the gastric mucosa for a day or more.
-
-Omeprazole is acid labile and thus rapidly degraded by gastric acid.
-ZEGERID Capsules and Powder for Oral Suspension are immediate-release formulations that contain sodium bicarbonate which raises the gastric pH and thus protects omeprazole from acid degradation.
 
 ## 12.2 Pharmacodynamics
 
 Antisecretory Activity
 
-Results from a PK/PD study of the antisecretory effect of repeated once-daily dosing of 40 mg and 20 mg of ZEGERID Oral Suspension in healthy subjects are shown in Table 5 below.
+Results from a pharmacokinetic/pharmacodynamic (PK/PD) study of the antisecretory effect of repeated once-daily dosing of 40 mg and 20 mg of ZEGERID for oral suspension in healthy subjects are shown in Table 8 below.
 
-Table 5: Effect of ZEGERID Oral Suspension on Intragastric pH, Day 7
+Table 8: Effect of ZEGERID for Oral Suspension on Intragastric pH, Day 7
 
-|  | Omeprazole/Sodium Bicarbonate |  |
+|  | Once Daily Dosage of ZEGERID for Oral Suspension |  |
 | --- | --- | --- |
-| Parameter | 40 mg/1,680 mg(n = 24) | 20 mg/1,680 mg(n = 28) |
+| Parameter | 40 mg omeprazole and1,680 mg sodium bicarbonate (n = 24) | 20 mg omeprazole and 1,680 mg sodium bicarbonate (n = 28) |
 | % Decrease from Baseline for Integrated Gastric Acidity (mmol•hr/L) | 84% | 82% |
 | Coefficient of Variation | 20% | 24% |
 | % Time Gastric pH > 4 P < 0.05 20 mg vs. 40 mg(Hours) | 77%(18.6 h) | 51%(12.2 h) |
@@ -29,15 +25,13 @@ Table 5: Effect of ZEGERID Oral Suspension on Intragastric pH, Day 7
 | Coefficient of Variation | 17% | 37% |
 | Note: Values represent medians. All parameters were measured over a 24-hour period. |  |  |
 
-Results from a separate PK/PD study of antisecretory effect on repeated once-daily dosing of 40 mg/1,100 mg and 20 mg/1,100 mg of ZEGERID Capsules in healthy subjects show similar effects in general on the above three PD parameters as those for ZEGERID 40 mg/1,680 mg and 20 mg/1,680 mg Oral Suspension, respectively.
+Results from a separate PK/PD study of antisecretory effect on repeated once-daily dosing of 40 mg/1,100 mg and 20 mg/1,100 mg of ZEGERID capsules in healthy subjects show similar effects in general on the above three PD parameters as those for ZEGERID for oral suspension 40 mg/1,680 mg and 20 mg/1,680 mg, respectively.
 
 The antisecretory effect lasts longer than would be expected from the very short (1 hour) plasma half-life, apparently due to irreversible binding to the parietal H+/K+ ATPase enzyme.
 
 Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
-Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
-Human gastric biopsy specimens have been obtained from more than 3,000 patients treated with omeprazole in long-term clinical trials.
+Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
 These studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
@@ -49,15 +43,15 @@ In comparison with histamine H2-receptor antagonists, the median increases produ
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11)].
 
 Other Effects
 
-Systemic effects of omeprazole in the CNS, cardiovascular and respiratory systems have not been found to date.
+Systemic effects of omeprazole in the central nervous system (CNS), cardiovascular and respiratory systems have not been found to date.
 Omeprazole, given in oral doses of 30 or 40 mg for 2 to 4 weeks, had no effect on thyroid function, carbohydrate metabolism, or circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin or secretin.
 
 No effect on gastric emptying of the solid and liquid components of a test meal was demonstrated after a single dose of omeprazole 90 mg.
-In healthy subjects, a single I.V. dose of omeprazole (0.35 mg/kg) had no effect on intrinsic factor secretion.
+In healthy subjects, a single intravenous dose of omeprazole (0.35 mg/kg) had no effect on intrinsic factor secretion.
 No systematic dose-dependent effect has been observed on basal or stimulated pepsin output in humans.
 However, when intragastric pH is maintained at 4.0 or above, basal pepsin output is low, and pepsin activity is decreased.
 
@@ -75,36 +69,116 @@ No significant differences between treatment groups were observed in development
 
 Absorption
 
-In separate in vivo bioavailability studies, when ZEGERID Oral Suspension and Capsules are administered on an empty stomach 1 hour prior to a meal, the absorption of omeprazole is rapid, with mean peak plasma levels (% CV) of omeprazole being 1,954 ng/mL (33%) and 1,526 ng/mL (49%), respectively, and time to peak of approximately 30 minutes (range 10-90 min) after a single-dose or repeated-dose administration.
-Absolute bioavailability of ZEGERID Powder for Oral Suspension (compared to I.V. administration) is about 30-40% at doses of 20 to 40 mg, due in large part to presystemic metabolism.
+Tables 9 and 10 show the systemic exposures and the time reach peak concentration (Tmax) of omeprazole in healthy subjects following administration of ZEGERID capsules and oral suspension, respectively, on an empty stomach one hour prior to a meal.
 
-When ZEGERID Oral Suspension 40 mg/1,680 mg was administered in a two-dose loading regimen, the omeprazole AUC (0-inf) (ng•hr/mL) was 1,665 after Dose 1 and 3,356 after Dose 2, while Tmax was approximately 30 minutes for both Dose 1 and Dose 2.
+Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once Daily Doses of ZEGERID Capsules
 
-Following single or repeated once-daily dosing, peak plasma concentrations of omeprazole from ZEGERID are approximately proportional from 20 to 40 mg doses, but a greater than linear mean AUC (three-fold increase) is observed when doubling the dose to 40 mg.
+|  | 20 mg ZEGERID capsules |  |  | 40 mg ZEGERID capsules |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Day 1 | Day 7 | % Change(Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
+| Cmax (ng/mL) | 498.1 (50.9) | 679.8 (44.0) | 36 | 1154 (53.0) | 1526 (48.7) | 32 |
+| Tmax (hr)[min – max] | 0.61 [0.25-1.5] | 0.82 [0.25-1.5] | n.a. | 0.56 [0.25-1.5] | 0.97 [0.25-3.5] | n.a. |
+| AUC0-inf* (ng•hr/mL) | 509.7 (60.5) | 1029 (67.9) | 102 | 1882 (120) | 3866 (83.3) | 105 |
+
+1. n.a.: not applicable
+2. * AUC0-24h was used on Day 7
+
+Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once Daily Doses of ZEGERID Oral Suspension
+
+|  | 20 mg ZEGERID oral suspension |  |  | 40 mg ZEGERID oral suspension |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Day 1 | Day 7 | % Change(Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
+| Cmax (ng/mL) | 671.9 (43.8) | 902.2 (39.6) | 34 | 1412 (43.7) | 1954 (33.5) | 38 |
+| Tmax (hr)[min – max] | 0.50[0.17-1.5] | 0.47[0.17-1.0] | n.a. | 0.44[0.17-1.0] | 0.58[0.25-1.0] | n.a. |
+| AUC0-inf* (ng•hr/mL) | 825.4 (71.9) | 1449 (61.7) | 76 | 2228 (107) | 4692 (60.5) | 111 |
+
+1. n.a.: not applicable
+2. * AUC0-24h was used on Day 7
+3. 
+
+Following single or repeated once-daily dosing, peak plasma concentrations (Cmax) of omeprazole from ZEGERID were approximately proportional from 20 to 40 mg doses.
+A greater than dose proportional increase in mean steady-state AUC (more than three-fold increase on Day 7) was observed when doubling the dose to 40 mg.
 The bioavailability of omeprazole from ZEGERID increases upon repeated administration.
+The percent changes in Cmax and AUC between steady-state (Day 7) and single dose (Day 1) indicate omeprazole is a time-dependent autoinhibitor of CYP2C19.
 
-When ZEGERID is administered 1 hour after a meal, the omeprazole AUC is reduced by approximately 24% relative to administration 1 hour prior to a meal.
+When ZEGERID for oral suspension 40 mg was administered in a two-dose loading regimen, the omeprazole AUC(0-inf) (ng•hr/mL) was 1665 after Dose 1 and 3356 after Dose 2, while Tmax was approximately 30 minutes for both Dose 1 and Dose 2.
+
+When ZEGERID for oral suspension 40 mg or ZEGERID capsule 40 mg is administered one hour after a meal, the omeprazole AUC is reduced by approximately 27% and 22%, respectively, relative to administration one hour prior to a meal [see Dosage and Administration (2.3)].
 
 Distribution
 
 Omeprazole is bound to plasma proteins.
 Protein binding is approximately 95%.
 
-Metabolism
+Elimination Metabolism
 
-Following single-dose oral administration of omeprazole, the majority of the dose (about 77%) is eliminated in urine as at least six metabolites.
+Omeprazole is extensively metabolized by the cytochrome P450 (CYP) enzyme system.
+The major part of its metabolism is dependent on the polymorphically expressed CYP2C19 [see Clinical Pharmacology (12.5)], responsible for the formation of hydroxyomeprazole, the major metabolite in plasma.
+The remaining part is dependent on another specific isoform, CYP3A4, responsible for the formation of omeprazole sulphone.
+
+The mean plasma omeprazole half-life following administration of ZEGERID capsule or ZEGERID oral suspension in healthy subjects is approximately 1 hour (range 0.4 to 4.2 hours), and the total body clearance is 500 to 600 mL/min.
+
+Excretion
+
+Following single-dose oral administration of a buffered solution of omeprazole, the majority of the dose (about 77%) is eliminated in urine as at least six metabolites.
 Two metabolites have been identified as hydroxyomeprazole and the corresponding carboxylic acid.
 The remainder of the dose was recoverable in feces.
 This implies a significant biliary excretion of the metabolites of omeprazole.
 Three metabolites have been identified in plasma – the sulfide and sulfone derivatives of omeprazole, and hydroxyomeprazole.
 These metabolites have very little or no antisecretory activity.
 
-Excretion
+Specific Populations
 
-Following single-dose oral administration of omeprazole, little, if any, unchanged drug is excreted in urine.
-The mean plasma omeprazole half-life in healthy subjects is approximately 1 hour (range 0.4 to 3.2 hours), and the total body clearance is 500-600 mL/min.
+Geriatric Patients
 
-Concomitant Use with Clopidogrel
+The elimination rate of omeprazole was somewhat decreased in the elderly, and bioavailability was increased.
+Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly subjects versus 58% in young subjects given the same dose.
+Nearly 70% of the dose was recovered in urine as metabolites of omeprazole, and no unchanged drug was detected.
+The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects), and its plasma half-life averaged one hour, similar to that of young healthy subjects.
+
+Male and Female Patients
+
+There are no known differences in the absorption or excretion of omeprazole between males and females.
+
+Racial or Ethnic Groups
+
+[see Clinical Pharmacology (12.5)]
+
+Patients with Renal Impairment
+
+In patients with chronic renal impairment (creatinine clearance between 10 and 62 mL/min/1.73 m2), the disposition of omeprazole was very similar to that in healthy subjects, although there was a slight increase in bioavailability.
+Because urinary excretion is a primary route of excretion of omeprazole metabolites, their elimination slowed in proportion to the decreased creatinine clearance.
+This increase in bioavailability is not considered to be clinically meaningful.
+
+Patients with Hepatic Impairment
+
+In patients with chronic hepatic disease classified as Child-Pugh Class A (n=3), B (n=4) and C (n=1), the bioavailability of omeprazole increased to approximately 100% compared to healthy subjects, reflecting decreased first-pass effect, and the plasma half-life of the drug increased to nearly 3 hours compared to the in healthy subjects of 0.5 to 1 hour.
+Plasma clearance averaged 70 mL/min, compared to a value of 500 to 600 mL/min in healthy subjects [see Use in Specific Populations (8.6)].
+
+Drug Interactions Studies
+
+Effect of Omeprazole on Other Drugs
+
+Omeprazole is a time-dependent inhibitor of CYP2C19 and can increase the systemic exposure of co-administered drugs that are CYP2C19 substrates.
+In addition, administration of omeprazole increases intragastric pH and can alter the systemic exposure of certain drugs that exhibit pH-dependent solubility [see Drug Interactions (7)].
+
+Antiretrovirals
+
+For some antiretroviral drugs, such as rilpivirine, atazanavir and nelfinavir, decreased serum concentrations have been reported when given together with omeprazole [see Drug Interactions (7)].
+
+Rilpivirine: Following multiple doses of rilpivirine (150 mg, daily) and omeprazole (20 mg, daily), AUC was decreased by 40%, Cmax by 40%, and Cmin by 33% for rilpivirine.
+
+Nelfinavir: Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
+
+Atazanavir: Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
+
+Saquinavir: Following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
+
+AUC was increased by 82%, Cmax by 75%, and Cmin by 106%.
+The mechanism behind this interaction is not fully elucidated.
+Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with PRILOSEC.
+
+Clopidogrel
 
 In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
 The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
@@ -113,41 +187,47 @@ Results from another crossover study in healthy subjects showed a similar pharma
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
 In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole, but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
+[seeWarnings and Precautions (5.7), DRUG INTERACTIONS (7)].
 
-Concomitant Use with Mycophenolate Mofetil
+Mycophenolate Mofetil
 
-Administration of omeprazole 20 mg twice daily for 4 days and a single 1,000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a crossover study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a crossover study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA [see Drug Interactions (7)].
 
-Special Populations
+Cilostazol
 
-Geriatric
+Omeprazole acts as an inhibitor of CYP2C19.
+Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
+The Cmax and AUC of one of the active metabolites, 3,4-dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
+Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and the above mentioned active metabolite [see Drug Interactions (7)].
 
-The elimination rate of omeprazole was somewhat decreased in the elderly, and bioavailability was increased.
-Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly subjects versus 58% in young subjects given the same dose.
-Nearly 70% of the dose was recovered in urine as metabolites of omeprazole, and no unchanged drug was detected.
-The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects), and its plasma half-life averaged one hour, similar to that of young healthy subjects.
+Diazepam
 
-Pediatric
+Concomitant administration of omeprazole 20 mg once daily and diazepam 0.1 mg/kg given intravenously resulted in 27% decrease in clearance and 36% increase in diazepam half-life [see Drug Interactions (7)].
 
-The pharmacokinetics of ZEGERID has not been studied in patients <18 years of age.
+Digoxin
 
-Gender
+Concomitant administration of omeprazole 20 mg once daily and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects) [see Drug Interactions (7)].
 
-There are no known differences in the absorption or excretion of omeprazole between males and females.
+Effect of Other Drugs on Omeprazole
 
-Hepatic Insufficiency
+Voriconazole
 
-In patients with chronic hepatic disease, the bioavailability of omeprazole from a buffered solution increased to approximately 100% compared to an I.V. dose, reflecting decreased first-pass effect, and the mean plasma half-life of the drug increased to nearly 3 hours compared to the mean half-life of 1 hour in normal subjects.
-Plasma clearance averaged 70 mL/min, compared to a value of 500-600 mL/min in normal subjects.
-Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for the hepatically impaired should be considered.
+Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
+When voriconazole (400 mg every 12 hours for one day, followed by 200 mg once daily for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, the steady-state Cmax and AUC0-24 of omeprazole significantly increased: an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90%
 
-Renal Insufficiency
+CI: 3.3, 4.4), respectively, as compared to when omeprazole was given without voriconazole [see Drug Interactions (7)].
 
-In patients with chronic renal impairment, whose creatinine clearance ranged between 10 and 62 mL/min/1.73 m2, the disposition of omeprazole from a buffered solution was very similar to that in healthy subjects, although there was a slight increase in bioavailability.
-Because urinary excretion is a primary route of excretion of omeprazole metabolites, their elimination slowed in proportion to the decreased creatinine clearance.
-No dose reduction is necessary in patients with renal impairment.
+## 12.5 Pharmacogenomics
 
-Asian Population
+CYP2C19, a polymorphic enzyme, is involved in the metabolism of omeprazole.
+The CYP2C19*1 allele is fully functional while the CYP2C19*2 and *3 alleles are nonfunctional.
+There are other alleles associated with no or reduced enzymatic function.
+Patients carrying two fully functional alleles are extensive metabolizers and those carrying two loss-of-function alleles are poor metabolizers.
+In extensive metabolizers, omeprazole is primarily metabolized by CYP2C19.
 
-In pharmacokinetic studies of single 20 mg omeprazole doses, an increase in AUC of approximately four-fold was noted in Asian subjects compared to Caucasians.
-Dose adjustment, particularly where maintenance of healing of erosive esophagitis is indicated, for Asian subjects should be considered.
+The systemic exposure to omeprazole varies with a patient’s metabolism status: poor metabolizers > intermediate
+
+metabolizers > extensive metabolizers.
+Approximately 3% of Caucasians and 15 to 20% of Asians are CYP2C19 poor metabolizers.
+
+In pharmacokinetic studies of single 20 mg omeprazole dose, the AUC of omeprazole in Asian subjects was approximately four-fold of that in Caucasians [see Use in Specific Populations (8.7)].
