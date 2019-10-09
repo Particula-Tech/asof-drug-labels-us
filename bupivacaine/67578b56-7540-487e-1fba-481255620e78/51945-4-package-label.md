@@ -2,7 +2,7 @@
 
 10 mL Single-dose Vial NDC 0409-1559-18 Rx only
 
-Preservative-Free Rx only
+Preservative-Free
 
 Marcaine™ 0.25% bupivacaine HCl injection, USP 25 mg/10 mL (2.5 mg/mL)
 
@@ -12,7 +12,23 @@ NOT FOR SPINAL ANESTHESIA.
 
 Hospira
 
-# CA-3497
+# PRINCIPAL DISPLAY PANEL - 25 mg/10 mL Vial Tray - 1559
+
+10 mL Preservative-Free
+
+10 Single-dose Vials
+
+Rx only NDC 0409-1559-10 Contains 10 of NDC 0409-1559-18
+
+Marcaine™ 0.25% bupivacaine HCl injection, USP
+
+25 mg/10 mL (2.5 mg/mL)
+
+For INFILTRATION, NERVE BLOCK, CAUDAL, and EPIDURAL ANESTHESIA
+
+NOT FOR SPINAL ANESTHESIA
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 75 mg/30 mL Vial Label - 1559
 
@@ -28,7 +44,7 @@ for INFILTRATION, NERVE BLOCK, CAUDAL, and EPIDURAL ANESTHESIA
 
 NOT FOR SPINAL ANESTHESIA
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
@@ -36,21 +52,21 @@ Hospira
 
 30 mL 10 SINGLE-DOSE VIALS–PRESERVATIVE FREE
 
-NDC 0409-1559-30 Rx only
+Rx only NDC 0409-1559-30 Contains 10 of NDC 0409-1559-19
 
 Marcaine™ 0.25% bupivacaine HCl injection, USP
 
 75 mg/30 mL (2.5 mg/mL)
 
-For INFILTRATION, NERVE BLOCK, CAUDAL, and EPIDURAL ANESTHESIA NOT FOR SPINAL ANESTHESIA
+For INFILTRATION, NERVE BLOCK, CAUDAL, and EPIDURAL ANESTHESIA
+
+NOT FOR SPINAL ANESTHESIA
 
 Hospira
 
 # PRINCIPAL DISPLAY PANEL - 50 mg/10 mL Vial Label - 1560
 
-10 mL Single-dose Vial
-
-NDC 0409-1560-18 Rx only
+10 mL Single-dose Vial NDC 0409-1560-18 Rx only
 
 Preservative-Free
 
@@ -62,11 +78,29 @@ NOT FOR SPINAL ANESTHESIA
 
 Hospira
 
-# CA-3501
+# PRINCIPAL DISPLAY PANEL - 50 mg/10 mL Vial Tray - 1560
+
+10 mL Preservative-Free
+
+10 Single-dose Vials
+
+Rx only NDC 0409-1560-10 Contains 10 of NDC 0409-1560-18
+
+Marcaine™ 0.5% bupivacaine HCl injection, USP
+
+50 mg/10 mL (5 mg/mL)
+
+For NERVE BLOCK, CAUDAL, and EPIDURAL ANESTHESIA
+
+NOT FOR SPINAL ANESTHESIA
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 150 mg/30 mL Vial Label - 1560
 
-30 mL SINGLE-DOSE VIAL – PRESERVATIVE FREE
+30 mL SINGLE-DOSE VIAL– PRESERVATIVE FREE
+
+NDC 0409-1560-19 Rx only
 
 Marcaine™ 0.5% bupivacaine HCl injection, USP
 
@@ -82,13 +116,15 @@ Hospira
 
 30 mL 10 SINGLE-DOSE VIALS–PRESERVATIVE FREE
 
-NDC 0409-1560-29 Rx only
+Rx only NDC 0409-1560-29 Contains 10 of NDC 0409-1560-19
 
 Marcaine™ 0.5% bupivacaine HCl injection, USP
 
 150 mg/30 mL (5 mg/mL)
 
-for NERVE BLOCK, CAUDAL, and EPIDURAL ANESTHESIA NOT FOR SPINAL ANESTHESIA
+for NERVE BLOCK, CAUDAL, and EPIDURAL ANESTHESIA
+
+NOT FOR SPINAL ANESTHESIA
 
 Hospira
 
@@ -140,27 +176,59 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 125 mg/50 mL Vial Label - 1587
 
-50 mL Multiple-Dose Vial
+50 mL Multiple-Dose vial
 
-Marcaine™ 0.25% bupivacaine HCl injection, USP 125 mg/50 mL (2.5 mg/mL)
+Marcaine™ 0.25% bupivacaine HCl injection, USP
+
+125 mg/50 mL (2.5 mg/mL)
 
 Each mL contains 2.5 mg bupivacaine HCl, with 1 mg methylparaben as antiseptic preservative and NaCl to make isotonic, in Water for Injection. pH adjusted with NaOH or HCl.
 
 for INFILTRATION and NERVE BLOCK
 
-# CA-3525
+# PRINCIPAL DISPLAY PANEL - 125 mg/50 mL Vial Carton - 1587
+
+NDC 0409-1587-50 Rx only
+
+50 mL Multiple-Dose Vial
+
+Marcaine™ 0.25% bupivacaine HCl injection, USP
+
+125 mg/50 mL (2.5 mg/mL)
+
+for INFILTRATION and NERVE BLOCK
+
+Not for caudal, epidural, or spinal anesthesia
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 250 mg/50 mL Vial Label - 1610
 
 50 mL Multiple-Dose Vial
 
-Marcaine™ 0.5% bupivacaine HCl injection, USP 250 mg/50 mL (5 mg/mL)
+Marcaine™ 0.5% bupivacaine HCl injection, USP
+
+250 mg/50 mL (5 mg/mL)
 
 Each mL contains 5 mg bupivacaine HCl, with 1 mg methylparaben as antiseptic preservative and NaCl to make isotonic, in Water for Injection. pH adjusted with NaOH or HCl.
 
 for NERVE BLOCK
 
-# CA-3527
+# PRINCIPAL DISPLAY PANEL - 250 mg/50 mL Vial Carton - 1610
+
+NDC 0409-1610-50 Rx only
+
+50 mL Multiple-Dose Vial
+
+Marcaine™ 0.5% bupivacaine HCl injection, USP
+
+250 mg/50 mL (5 mg/mL)
+
+for NERVE BLOCK
+
+Not for caudal, epidural, or spinal anesthesia
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/10 mL Vial Label - 1746
 
@@ -282,7 +350,9 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 125 mg/50 mL Vial Label - 1752
 
-50 mL Multiple-Dose Vial NDC 0409-1752-50 Rx only
+50 mL Multiple-Dose Vial
+
+NDC 0409-1752-50 Rx only
 
 Marcaine™ 0.25%
 
@@ -296,7 +366,29 @@ Not for caudal, epidural, or spinal anesthesia
 
 Contains epinephrine–do not autoclave Warning: Contains Sulfites
 
-# CA-3586
+# PRINCIPAL DISPLAY PANEL - 125 mg/50 mL Vial Carton - 1752
+
+NDC 0409-1752-50 Rx only
+
+50 mL Multiple-Dose Vial
+
+Marcaine™ 0.25%
+
+125 mg/50 mL (2.5 mg/mL)
+
+with epinephrine 1:200,000 (as bitartrate)
+
+bupivacaine hydrochloride and epinephrine injection, USP
+
+for INFILTRATION and NERVE BLOCK
+
+Not for caudal, epidural, or spinal anesthesia
+
+Contains epinephrine– do not autoclave
+
+Warning: Contains Sulfites
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 250 mg/50 mL Vial Label - 1755
 
@@ -314,4 +406,26 @@ Not for caudal, epidural, or spinal anesthesia
 
 Contains epinephrine–do not autoclave Warning: Contains Sulfites
 
-# CA-3592
+# PRINCIPAL DISPLAY PANEL - 250 mg/50 mL Vial Carton - 1755
+
+NDC 0409-1755-50 Rx only
+
+50 mL Multiple-Dose Vial
+
+Marcaine™ 0.5%
+
+250 mg/50 mL (5 mg/mL)
+
+with epinephrine 1:200,000 (as bitartrate)
+
+bupivacaine hydrochloride and epinephrine injection, USP
+
+for NERVE BLOCK
+
+Not for caudal, epidural, or spinal anesthesia
+
+Contains epinephrine– do not autoclave
+
+Warning: Contains Sulfites
+
+Hospira
