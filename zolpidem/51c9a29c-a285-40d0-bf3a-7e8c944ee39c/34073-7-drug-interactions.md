@@ -2,14 +2,14 @@
 
 ## 7.1 CNS-Active Drugs
 
-Coadministration of zolpidem with other CNS depressants increases the risk of CNS depression.
-Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [see Warnings and Precautions (5.1)].
+CNS-depressants Coadministration of zolpidem with other CNS depressants increases the risk of CNS depression.
+Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [see Warnings and Precautions (5.1, 5.2)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 Imipramine, Chlorpromazine Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
 Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance [see Clinical Pharmacology (12.3)].
 Haloperidol A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
 The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration [see Clinical Pharmacology (12.3)].
-Alcohol An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1)].
+Alcohol An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1, 5.2)].
 Sertraline Concomitant administration of zolpidem and sertraline increases exposure to zolpidem [see Clinical Pharmacology (12.3)].
 Fluoxetine After multiple doses of zolpidem tartrate and fluoxetine an increase in the zolpidem half-life (17%) was observed.
 There was no evidence of an additive effect in psychomotor performance [see Clinical Pharmacology (12.3)].

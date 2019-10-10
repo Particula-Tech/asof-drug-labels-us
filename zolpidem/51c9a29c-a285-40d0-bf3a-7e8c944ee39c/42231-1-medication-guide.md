@@ -12,9 +12,10 @@ What is the most important information I should know about zolpidem tartrate?
 
 Zolpidem tartrate may cause serious side effects, including:
 
-- After taking zolpidem tartrate, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+- complex sleep behaviors that have caused serious injury and death.
+  After taking zolpidem tartrate, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing (complex sleep behaviors).
   The next morning, you may not remember that you did anything during the night.
-  You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with zolpidem tartrate.
+  These activities may occur with zolpidem tartrate whether or not you drink alcohol or take other medicines that make you sleepy.
   Reported activities include:
   - driving a car ("sleep-driving")
   - making and eating food
@@ -22,10 +23,11 @@ Zolpidem tartrate may cause serious side effects, including:
   - having sex
   - sleep-walking
 
-Call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate.
+Stop taking zolpidem tartrate and call your healthcare provider right away if you find out that you have done any of the above activities after taking zolpidem tartrate.
 
 Do not take zolpidem tartrate if you:
 
+- have ever experienced a complex sleep behavior (such as driving a car, making and eating food, talking on the phone, or having sex while not being fully awake) after taking zolpidem tartrate.
 - drank alcohol that evening or before bed
 - took another medicine to help you sleep
 
@@ -156,4 +158,4 @@ Medication Guides available at www.northstarrxllc.com/products or call 1-800-206
 
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahabubnagar (Dt)-509302 India.
-M.L.No.: 22/MN/AP/2009/F/R Revised: 03/2019
+M.L.No.: 22/MN/AP/2009/F/R Revised: 09/2019

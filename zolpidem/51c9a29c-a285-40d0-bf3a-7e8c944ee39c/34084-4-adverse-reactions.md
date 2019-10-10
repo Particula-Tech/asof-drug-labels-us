@@ -2,10 +2,11 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
-- Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)]
-- Withdrawal effects [see Warnings and Precautions (5.8)]
+- Complex Sleep Behaviors [see Warnings and Precautions (5.1)]
+- CNS-Depressant Effects and Next-Day Impairment [see Warnings and Precautions (5.2)]
+- Serious Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.4)]
+- Abnormal Thinking and Behavior Changes [see Warnings and Precautions (5.5)]
+- Withdrawal effects [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -35,9 +36,9 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Table 1: Incidences of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (percentage of patients reporting)
+Table 1: Incidences of Treatment-Emergent Adverse Reactions in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (percentage of patients reporting)
 
-| Body System Adverse Event* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
+| Body System Adverse Reaction* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
@@ -46,7 +47,7 @@ Table 1: Incidences of Treatment-Emergent Adverse Experiences in Placebo-Control
 | Gastrointestinal System |  |  |
 | Diarrhea | 1 | - |
 
-*Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo.
+* Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo.
 
 The following table was derived from results of three placebo-controlled long-term efficacy trials involving zolpidem tartrate.
 These trials involved patients with chronic insomnia who were treated for 28 to 35 nights with zolpidem at doses of 5, 10, or 15 mg.
@@ -86,7 +87,7 @@ Table 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controll
 | Skin and Appendages |  |  |
 | Rash | 2 | 1 |
 
-*Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo.
+* Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo.
 
 Dose Relationship for Adverse Reactions
 
