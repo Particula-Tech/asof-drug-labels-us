@@ -80,9 +80,9 @@ Table 2: Changes in Fasting Glucose Levels from Adult Olanzapine Monotherapy Stu
 | --- | --- | --- | --- | --- | --- | --- |
 | LaboratoryAnalyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 |  | Normal to High | Olanzapine | 543 | 2.2% | 345 | 12.8% |
-| Fasting | (<100 mg/dL to ≥126 mg/dL) | Placebo | 293 | 3.4% | NA* | NA* |
+| Fasting | (<100 mg/dL to ≥126 mg/dL) | Placebo | 293 | 3.4% | NA * | NA * |
 | Glucose | Borderline to High (≥100 mg/dL and <126 mg/dL | Olanzapine | 178 | 17.4% | 127 | 26.0% |
-|  | to ≥126 mg/dL) | Placebo | 96 | 11.5% | NA* | NA* |
+|  | to ≥126 mg/dL) | Placebo | 96 | 11.5% | NA * | NA * |
 | *Not Applicable. |  |  |  |  |  |  |
 
 The mean change in fasting glucose for patients exposed at least 48 weeks was 4.2 mg/dL (N=487).
@@ -99,7 +99,7 @@ Table 3: Changes in Fasting Glucose Levels from Adolescent Olanzapine Monotherap
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 |  | Normal to High | Olanzapine | 124 | 0% | 108 | 0.9% |
-| Fasting | (<100 mg/dL to ≥126 mg/dL) | Placebo | 53 | 1.9% | NANot Applicable. | NA |
+| Fasting | (<100 mg/dL to ≥126 mg/dL) | Placebo | 53 | 1.9% | NA Not Applicable. | NA |
 | Glucose | Borderline to High (≥100 mg/dL and <126 | Olanzapine | 14 | 14.3% | 13 | 23.1% |
 |  | mg/dL to ≥126 mg/dL) | Placebo | 13 | 0% | NA | NA |
 
@@ -127,7 +127,7 @@ Table 4: Changes in Fasting Lipids Values from Adult Olanzapine Monotherapy Stud
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 |  | Increase by ≥50 | Olanzapine | 745 | 39.6% | 487 | 61.4% |
-|  | mg/dL | Placebo | 402 | 26.1% | NANot Applicable | NA |
+|  | mg/dL | Placebo | 402 | 26.1% | NA Not Applicable | NA |
 |  | Normal to High (<150 | Olanzapine | 457 | 9.2% | 293 | 32.4% |
 | Fasting | mg/dL to ≥200 mg/dL) | Placebo | 251 | 4.4% | NA | NA |
 | Triglycerides | Borderline to High | Olanzapine | 135 | 39.3% | 75 | 70.7% |
@@ -161,23 +161,23 @@ Table 5: Changes in Fasting Lipids Values from Adolescent Olanzapine Monotherapy
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 |  | Increase by ≥50 mg/dL | Olanzapine | 138 | 37.0% | 122 | 45.9% |
-|  |  | Placebo | 66 | 15.2% | NAa | NAa |
+|  |  | Placebo | 66 | 15.2% | NA a | NA a |
 |  | Normal to High | Olanzapine | 67 | 26.9% | 66 | 36.4% |
-| Fasting | (<90 mg/dL to >130 mg/dL) | Placebo | 28 | 10.7% | NAa | NAa |
+| Fasting | (<90 mg/dL to >130 mg/dL) | Placebo | 28 | 10.7% | NA a | NA a |
 | Triglycerides | Borderline to High (≥90 mg/dL and | Olanzapine | 37 | 59.5% | 31 | 64.5% |
-|  | ≤130 mg/dL to >130 mg/dL) | Placebo | 17 | 35.3% | NAa | NAa |
+|  | ≤130 mg/dL to >130 mg/dL) | Placebo | 17 | 35.3% | NA a | NA a |
 |  | Increase by ≥40 mg/dL | Olanzapine | 138 | 14.5% | 122 | 14.8% |
-|  |  | Placebo | 66 | 4.5% | NAa | NAa |
+|  |  | Placebo | 66 | 4.5% | NA a | NA a |
 |  | Normal to High (<170mg/dL to | Olanzapine | 87 | 6.9% | 78 | 7.7% |
-| Fasting | ≥200 mg/dL) | Placebo | 43 | 2.3% | NAa | NAa |
+| Fasting | ≥200 mg/dL) | Placebo | 43 | 2.3% | NA a | NA a |
 | Total Cholesterol | Borderline to High | Olanzapine | 36 | 38.9% | 33 | 57.6% |
-|  | (≥170mg/dL and <200 mg/dL to ≥200 mg/dL) | Placebo | 13 | 7.7% | NAa | NAa |
+|  | (≥170mg/dL and <200 mg/dL to ≥200 mg/dL) | Placebo | 13 | 7.7% | NA a | NA a |
 |  | Increase by ≥30 mg/dL | Olanzapine | 137 | 17.5% | 121 | 22.3% |
-|  |  | Placebo | 63 | 11.1% | NAa | NAa |
+|  |  | Placebo | 63 | 11.1% | NA a | NA a |
 | Fasting | Normal to High | Olanzapine | 98 | 5.1% | 92 | 10.9% |
-| LDL Cholesterol | (<110 mg/dL to ≥130 mg/dL) | Placebo | 44 | 4.5% | NAa | NAa |
+| LDL Cholesterol | (<110 mg/dL to ≥130 mg/dL) | Placebo | 44 | 4.5% | NA a | NA a |
 |  | Borderline to High | Olanzapine | 29 | 48.3% | 21 | 47.6% |
-|  | (≥110 mg/dL and <130 mg/dL to ≥130 mg/dL) | Placebo | 9 | 0% | NAa | NAa |
+|  | (≥110 mg/dL and <130 mg/dL to ≥130 mg/dL) | Placebo | 9 | 0% | NA a | NA a |
 | a Not Applicable. |  |  |  |  |  |  |
 
 Weight Gain
@@ -273,14 +273,14 @@ For specific information about the warnings of lithium or valproate, refer to th
 
 ## 5.7 Orthostatic Hypotension
 
-Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17.8)].
+Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α 1-adrenergic antagonistic properties [see Patient Counseling Information (17.8)].
 
 From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1277/6030) of patients.
 
 For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg QD [see Dosage and Administration (2)].
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
-Syncope was reported in 0.6% (15/2500) of olanzapine-treated patients in phase 2 to 3 oral olanzapine studies.
+Syncope was reported in 0.6% (15/2500) of olanzapine -treated patients in phase 2 to 3 oral olanzapine studies.
 The risk for this sequence of hypotension, bradycardia, and sinus pause may be greater in nonpsychiatric patients compared to psychiatric patients who are possibly more adapted to certain effects of psychotropic drugs.
 
 Olanzapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) where the occurrence of syncope, or hypotension and/or bradycardia might put the patient at increased medical risk.
@@ -301,7 +301,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a history of a clinically significant low WBC or drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of olanzapine should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue olanzapine and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm 3) should discontinue olanzapine and have their WBC followed until recovery.
 
 ## 5.10 Dysphagia
 
@@ -349,7 +349,7 @@ Because of the risk of orthostatic hypotension with olanzapine, caution should b
 
 ## 5.15 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D2 receptors, olanzapine elevates prolactin levels, and the elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D 2 receptors, olanzapine elevates prolactin levels, and the elevation persists during chronic administration.
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
@@ -360,10 +360,10 @@ As is common with compounds which increase prolactin release, an increase in mam
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
 
 In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
-In a pooled analysis from clinical studies including 8136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (2% [49/3240] of females), sexual function-related events2 (2% [150/8136] of females and males), and breast-related events3 (0.7% [23/3240] of females, 0.2% [9/4896] of males).
+In a pooled analysis from clinical studies including 8136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events 1 (2% [49/3240] of females), sexual function-related events 2 (2% [150/8136] of females and males), and breast-related events 3 (0.7% [23/3240] of females, 0.2% [9/4896] of males).
 
 In placebo-controlled olanzapine monotherapy studies in adolescent patients (up to 6 weeks) with schizophrenia or bipolar I disorder (manic or mixed episodes), changes from normal to high in prolactin concentrations were observed in 47% of olanzapine-treated patients compared to 7% of placebo-treated patients.
-In a pooled analysis from clinical trials including 454 adolescents treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (1% [2/168] of females), sexual function-related events2 (0.7% [3/454] of females and males), and breast-related events3 (2% [3/168] of females, 2% [7/286] of males) [see Use in Specific Populations (8.4)].
+In a pooled analysis from clinical trials including 454 adolescents treated with olanzapine, potentially associated clinical manifestations included menstrual-related events 1 (1% [2/168] of females), sexual function-related events 2 (0.7% [3/454] of females and males), and breast-related events 3 (2% [3/168] of females, 2% [7/286] of males) [see Use in Specific Populations (8.4)].
 
 1 Based on a search of the following terms: amenorrhea, hypomenorrhea, menstruation delayed, and oligomenorrhea.
 

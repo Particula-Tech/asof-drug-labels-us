@@ -4,10 +4,10 @@ When using olanzapine and fluoxetine in combination, also refer to the Use in Sp
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects, Pregnancy Category C — In oral reproduction studies in rats at doses up to 18 mg/kg/day and in rabbits at doses up to 30 mg/kg/day (9 and 30 times the maximum recommended human daily oral dose on a mg/m2 basis, respectively) no evidence of teratogenicity was observed.
-In an oral rat teratology study, early resorptions and increased numbers of nonviable fetuses were observed at a dose of 18 mg/kg/day (9 times the maximum recommended human daily oral dose on a mg/m2 basis).
-Gestation was prolonged at 10 mg/kg/day (5 times the maximum recommended human daily oral dose on a mg/m2 basis).
-In an oral rabbit teratology study, fetal toxicity (manifested as increased resorptions and decreased fetal weight) occurred at a maternally toxic dose of 30 mg/kg/day (30 times the maximum recommended human daily oral dose on a mg/m2 basis).
+Teratogenic Effects, Pregnancy Category C — In oral reproduction studies in rats at doses up to 18 mg/kg/day and in rabbits at doses up to 30 mg/kg/day (9 and 30 times the maximum recommended human daily oral dose on a mg/m 2 basis, respectively) no evidence of teratogenicity was observed.
+In an oral rat teratology study, early resorptions and increased numbers of nonviable fetuses were observed at a dose of 18 mg/kg/day (9 times the maximum recommended human daily oral dose on a mg/m 2 basis).
+Gestation was prolonged at 10 mg/kg/day (5 times the maximum recommended human daily oral dose on a mg/m 2 basis).
+In an oral rabbit teratology study, fetal toxicity (manifested as increased resorptions and decreased fetal weight) occurred at a maternally toxic dose of 30 mg/kg/day (30 times the maximum recommended human daily oral dose on a mg/m 2 basis).
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Placental transfer of olanzapine occurs in rat pups.
