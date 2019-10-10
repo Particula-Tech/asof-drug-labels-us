@@ -4,15 +4,15 @@
 
 Do not use HEPARIN SODIUM INJECTION as a "catheter lock flush" product.
 HEPARIN SODIUM INJECTION is supplied in vials containing various strengths of heparin, including vials that contain a highly concentrated solution of 10,000 units in 1 mL.
-Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL HEPARIN SODIUM INJECTION vials were confused with 1 mL "catheter lock flush" vials.
+Fatal hemorrhages have occurred due to medication errors.
 Carefully examine all HEPARIN SODIUM INJECTION vials to confirm the correct vial choice prior to administration of the drug.
 
 ## 5.2 Hemorrhage
 
 Avoid using heparin in the presence of major bleeding, except when the benefits of heparin therapy outweigh the potential risks.
 
+Hemorrhage, including fatal events, has occurred in patients receiving heparin.
 Hemorrhage can occur at virtually any site in patients receiving heparin.
-Fatal hemorrhages have occurred.
 Adrenal hemorrhage (with resultant acute adrenal insufficiency), ovarian hemorrhage, and retroperitoneal hemorrhage have occurred during anticoagulant therapy with heparin [see Adverse Reactions (6.1]).
 A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age [see Clinical Pharmacology (12.3)].
 An unexplained fall in hematocrit or fall in blood pressure should lead to serious consideration of a hemorrhagic event.
@@ -30,12 +30,12 @@ Use heparin sodium with caution in disease states in which there is increased ri
 ## 5.3 Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis
 
 Heparin-induced thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
+HIT occurs in patients treated with heparin and is due to the development of antibodies to a platelet Factor 4-heparin complex that induce in vivo platelet aggregation.
 HIT may progress to the development of venous and arterial thromboses, a condition known as heparin-induced thrombocytopenia and thrombosis (HITT).
 Thrombotic events may also be the initial presentation for HITT.
 These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
 Monitor thrombocytopenia of any degree closely.
 If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant.
-
 HIT and HITT can occur up to several weeks after the discontinuation of heparin therapy.
 Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
 
@@ -61,7 +61,7 @@ If the count falls below 100,000/mm3 or if recurrent thrombosis develops, prompt
 
 When using a full dose heparin regimen, adjust the heparin dose based on frequent blood coagulation tests.
 If the coagulation test is unduly prolonged or if hemorrhage occurs, discontinue heparin promptly [see Overdosage (10)].
-Periodic platelet counts and hematocrits are recommended during the entire course of heparin therapy, regardless of the route of administration [see Dosage and Administration (2.2)].
+Periodically monitor platelet counts, hematocrit, and occult blood in stool during the entire course of heparin therapy, regardless of the route of administration [see Dosage and Administration (2.2)].
 
 ## 5.7 Heparin Resistance
 

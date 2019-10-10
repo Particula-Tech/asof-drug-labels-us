@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the labeling:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Hemorrhage [see Warnings and Precautions (5.2)]
 - Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis [see Warnings and Precautions (5.3)]

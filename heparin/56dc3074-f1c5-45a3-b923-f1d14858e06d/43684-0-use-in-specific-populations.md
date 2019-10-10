@@ -2,28 +2,41 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies on heparin use in pregnant women.
+There are no available data on heparin sodium use in pregnant women to infor a drug associated risk of major birth defects and miscarriage.
 In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
-Heparin sodium does not cross the placenta, based on human and animal studies.
-Administration of heparin to pregnant animals at doses higher than the maximum human daily dose based on body weight resulted in increased resorptions.
-Use heparin sodium during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+No teratogenicity, but early embryo-fetal death was observed in animal reproductive studies with administration of heparin sodium to pregnant rats and rabbits during organogenesis at doses approximately 10 times the maximum recommended human dose (MRHD) of 40,000 USP units/24 hours infusion (see Data).
+Consider the benefits and risks of HEPARIN SODIUM INJECTION to a pregnant woman and possible risks to the fetus when prescribing HEPARIN SODIUM INJECTION to a pregnant woman.
 
 If available, preservative-free HEPARIN SODIUM INJECTION is recommended when heparin therapy is needed during pregnancy.
 There are no known adverse outcomes associated with fetal exposure to the preservative benzyl alcohol through maternal drug administration; however, the preservative benzyl alcohol can cause serious adverse events and death when administered intravenously to neonates and infants [see Use in Specific Populations (8.4)].
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+
+Data
+
+Human Data
+
+The maternal and fetal outcomes associated with uses of heparin via various dosing methods and administration routes during pregnancy have been investigated in numerous studies.
+These studies generally reported normal deliveries with no maternal or fetal bleeding and no other complications.
+
+Animal Data
 
 In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
 The number of early resorptions increased in both species.
 There was no evidence of teratogenic effects.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-If available, preservative-free HEPARIN SODIUM INJECTION is recommended when heparin therapy is needed during lactation.
+Risk Summary
 
-Due to its large molecular weight, heparin is not likely to be excreted in human milk, and any heparin in milk would not be orally absorbed by a nursing infant.
-Benzyl alcohol present in maternal serum is likely to cross into human milk and may be orally absorbed by a nursing infant.
-Exercise caution when administering HEPARIN SODIUM INJECTION to a nursing mother [see Use in Specific Populations (8.4)].
+There is no information regarding the presence of heparin in human milk, the effects on the breastfed child, or the effects on milk production.
+Due to its large molecular weight, heparin is not likely to be excreted in human milk, and any heparin in milk would not be orally absorbed by a breastfed child.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for HEPARIN SODIUM INJECTION and any potential adverse effects on the breastfed child from HEPARIN SODIUM INJECTION or from the underlying maternal condition.
+Benzyl alcohol present in maternal serum is likely to cross into human milk and may be orally absorbed by a nursing infant [see Use in Specific Populations (8.4)].
 
 ## 8.4 Pediatric Use
 
@@ -31,7 +44,7 @@ There are no adequate and well controlled studies on heparin use in pediatric pa
 Pediatric dosing recommendations are based on clinical experience [see Dosage and Administration (2.4)].
 
 Carefully examine all HEPARIN SODIUM INJECTION vials to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which HEPARIN SODIUM INJECTION vials have been confused with "catheter lock flush" vials [see Warnings and Precautions (5.1)].
+Pediatric patients, including neonates, have died as a result of medication errors [see Warnings and Precautions (5.1)].
 
 Benzyl Alcohol Toxicity
 

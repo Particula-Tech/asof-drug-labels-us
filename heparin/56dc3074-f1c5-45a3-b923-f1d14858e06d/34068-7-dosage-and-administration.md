@@ -10,11 +10,11 @@ Use only if solution is clear and the seal is intact.
 Do not use if solution is discolored or contains a precipitate.
 
 When HEPARIN SODIUM INJECTION is added to an infusion solution for continuous intravenous (IV) administration, invert the container at least six times to ensure adequate mixing and prevent pooling of the heparin in the solution.
-Storage of prepared infusion solution should not exceed 4 hours at room temperature or 24 hours at 2 to 8°C.
+Storage of prepared infusion solution should not exceed 4 hours at room temperature or 24 hours at 2° to 8°C (36° to 46°F).
 HEPARIN SODIUM INJECTION is incompatible with certain substances in solution (e.g., alteplase, amikacin sulfate, atracurium besylate, ciprofloxacin, cytarabine, daunorubicin, droperidol, erythromycin lactobionate, gentamicin sulfate, idarubicin, kanamycin sulfate, mitoxantrone HCl, polymyxin B sulfate, promethazine HCl, streptomycin sulfate, tobramycin sulfate).
 Consult specialized references to verify with which substances incompatibilities have been noted, as compatibility may depend on concentration, temperature, time, and other variables.
 
-Administer HEPARIN SODIUM INJECTION by intermittent IV injection, IV infusion, or deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer) injection.
+Administer HEPARIN SODIUM INJECTION by intermittent intravenous injection, intravenous infusion, or deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer) injection.
 HEPARIN SODIUM INJECTION is not intended for intramuscular (IM) use [see Adverse Reactions (6.1)].
 
 ## 2.2 Laboratory Monitoring for Efficacy and Safety
@@ -25,7 +25,7 @@ When initiating treatment with HEPARIN SODIUM INJECTION by continuous intravenou
 When the drug is administered intermittently by intravenous injection, perform coagulation tests before each injection during initiation of treatment and at appropriate intervals thereafter.
 After deep subcutaneous injections, tests for adequacy of dosage are best performed on samples drawn 4 to 6 hours after the injections.
 
-Periodic platelet counts and hematocrits are recommended during the entire course of HEPARIN SODIUM INJECTION therapy, regardless of the route of administration.
+Periodically monitor platelet counts, hematocrit, and occult blood in stool during the entire course of HEPARIN SODIUM INJECTION therapy, regardless of the route of administration.
 
 ## 2.3 Therapeutic Anticoagulant Effect with Full-Dose Heparin
 
@@ -34,14 +34,14 @@ Although dosages must be adjusted for the individual patient according to the re
 
 Table 1: Recommended Adult Full-Dose Heparin Regimens for Therapeutic Anticoagulant Effect
 
-| METHOD OF ADMINISTRATION | FREQUENCY | RECOMMENDED DOSEBased on 150 lb (68 kg) patient |
+| METHOD OF ADMINISTRATION | FREQUENCY | RECOMMENDED DOSEBased on 68 kg patient |
 | --- | --- | --- |
 | Deep Subcutaneous (Intrafat) Injection Use a different site for each injection to prevent the development of hematoma | Initial Dose | 333 units/kg subcutaneously |
 | Every 12 hours | 250 units/kg subcutaneously |  |
-| Intermittent Intravenous Injection | Initial Dose | 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
-| Every 4 to 6 hours | 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |  |
-| Continuous Intravenous Infusion | Initial Dose | 5,000 units by IV injection |
-| Continuous | 20,000 to 40,000 units per 24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |  |
+| Intermittent Intravenous Injection | Initial Dose | 10,000 units, either undiluted or in 50 mL to 100 mL of 0.9% Sodium Chloride Injection, USP |
+| Every 4 to 6 hours | 5,000 units to 10,000 units, either undiluted or in 50 mL to 100 mL of 0.9% Sodium Chloride Injection, USP |  |
+| Continuous Intravenous Infusion | Initial Dose | 5,000 units by intravenous injection |
+| Continuous | 20,000 units to 40,000 units per 24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |  |
 
 ## 2.4 Pediatric Use
 
@@ -51,11 +51,11 @@ There are no adequate and well controlled studies on heparin use in pediatric pa
 Pediatric dosing recommendations are based on clinical experience.
 In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-| Initial Dose | 75 to 100 units/kg (IV bolus over 10 minutes) |
+| Initial Dose | 75 units/kg to 100 units/kg (intravenous bolus over 10 minutes) |
 | --- | --- |
-| Maintenance Dose | Infants: 25 to 30 units/kg/hour; Infants < 2 months have the highest requirements (average 28 units/kg/hour) |
-|  | Children > 1 year of age: 18 to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage |
-| Monitoring | Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70. |
+| Maintenance Dose | Infants: 25 units/kg/hour to 30 units/kg/hour; Infants less than 2 months have the highest requirements (average 28 units/kg/hour) |
+|  | Children greater than 1 year of age: 18 units/kg/hour to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage |
+| Monitoring | Adjust heparin to maintain aPTT of 60 seconds to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70. |
 
 ## 2.5 Cardiovascular Surgery
 
@@ -67,21 +67,16 @@ Frequently, a dose of 300 units per kilogram is used for procedures estimated to
 The most widely used dosage has been 5,000 units 2 hours before surgery and 5,000 units every 8 to 12 hours thereafter for 7 days or until the patient is fully ambulatory, whichever is longer.
 Administer the heparin by deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer, arm, or thigh) injection with a fine (25 to 26-gauge) needle to minimize tissue trauma.
 
-## 2.7 Blood Transfusion
-
-Addition of 400 to 600 USP units per 100 mL of whole blood is usually employed to prevent coagulation.
-Usually, 7,500 USP units of heparin sodium are added to 100 mL of 0.9% Sodium Chloride Injection, USP (or 75,000 USP units per 1,000 mL of 0.9% Sodium Chloride Injection, USP) and mixed; from this sterile solution, 6 to 8 mL are added per 100 mL of whole blood.
-
-## 2.8 Converting to Warfarin
+## 2.7 Converting to Warfarin
 
 To ensure continuous anticoagulation when converting from HEPARIN SODIUM INJECTION to warfarin, continue full heparin therapy for several days until the INR (prothrombin time) has reached a stable therapeutic range.
-Heparin therapy may then be discontinued without tapering [see Drug Interactions (7.3)].
+Heparin therapy may then be discontinued without tapering [see Drug Interactions (7.1)].
 
-## 2.9 Converting to Oral Anticoagulants other than Warfarin
+## 2.8 Converting to Oral Anticoagulants other than Warfarin
 
 For patients currently receiving intravenous heparin, stop intravenous infusion of heparin sodium immediately after administering the first dose of oral anticoagulant; or for intermittent intravenous administration of heparin sodium, start oral anticoagulant 0 to 2 hours before the time that the next dose of heparin was to have been administered.
 
-## 2.10 Extracorporeal Dialysis
+## 2.9 Extracorporeal Dialysis
 
 Follow equipment manufacturers' operating directions carefully.
-A dose of 25 to 30 units/kg followed by an infusion rate of 1,500 to 2,000 units/hour is suggested based on pharmacodynamic data if specific manufacturers' recommendations are not available.
+A dose of 25 units/kg to 30 units/kg followed by an infusion rate of 1,500 units/hour to 2,000 units/hour is suggested based on pharmacodynamic data if specific manufacturers' recommendations are not available.
