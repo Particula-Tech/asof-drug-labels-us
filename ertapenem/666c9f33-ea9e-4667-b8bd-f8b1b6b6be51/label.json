@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208790"
+  ],
+  "inn": "ertapenem",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-823-01",
+    "63323-823-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ertapenem sodium",
+      "name": "Ertapenem"
+    }
+  ],
+  "setid": "666c9f33-ea9e-4667-b8bd-f8b1b6b6be51",
+  "source": "dailymed"
+}

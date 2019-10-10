@@ -1,0 +1,16 @@
+# 11 DESCRIPTION
+
+Ertapenem for Injection is a sterile, synthetic, parenteral, 1-β methyl-carbapenem that is structurally related to beta-lactam antibiotics.
+
+Chemically, Ertapenem for Injection is described as [4 R-[3(3 S*,5 S*),4α,5β,6β(R*)]]-3-[[5-[[(3-carboxyphenyl)amino]carbonyl]-3-pyrrolidinyl]thio]-6-(1-hydroxyethyl)-4-methyl-7-oxo-1-azabicyclo [3.2.0]hept-2-ene-2-carboxylic acid monosodium salt.
+Its molecular weight is 497.5.
+The empirical formula is C 22H 24N 3O 7SNa, and its structural formula is:
+
+Ertapenem sodium is a white to off-white hygroscopic, weakly crystalline powder.
+It is soluble in water and 0.9% sodium chloride solution, practically insoluble in ethanol, and insoluble in isopropyl acetate and tetrahydrofuran.
+
+Ertapenem for Injection is supplied as sterile lyophilized powder for intravenous infusion after reconstitution with appropriate diluent [see Dosage and Administration (2.7)] and transfer to 50 mL 0.9% Sodium Chloride Injection or for intramuscular injection following reconstitution with 1% lidocaine hydrochloride.
+Each vial contains 1.046 grams ertapenem sodium, equivalent to 1 gram ertapenem.
+The sodium content is approximately 137 mg (approximately 6 mEq).
+
+Each vial of Ertapenem for Injection contains the following inactive ingredients: 175 mg sodium bicarbonate and sodium hydroxide to adjust pH to 7.5.
