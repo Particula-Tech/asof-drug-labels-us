@@ -2,11 +2,11 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis
+Carcinogenesis:
 
 Long-term studies in animals to evaluate the carcinogenic potential of morphine have not been conducted.
 
-Mutagenesis
+Mutagenesis:
 
 No formal studies to assess the mutagenic potential of morphine have been conducted.
 In the published literature, morphine was found to be mutagenic in vitro increasing DNA fragmentation in human T-cells.
@@ -14,7 +14,7 @@ Morphine was reported to be mutagenic in the in vivo mouse micronucleus assay an
 Mechanistic studies suggest that the in vivo clastogenic effects reported with morphine in mice may be related to increases in glucocorticoid levels produced by morphine in this species.
 In contrast to the above positive findings, in vitro studies in the literature have also shown that morphine did not induce chromosomal aberrations in human leukocytes or translocations or lethal mutations in Drosophila.
 
-Impairment of Fertility
+Impairment of Fertility:
 
 No formal nonclinical studies to assess the potential of morphine to impair fertility have been conducted.
 

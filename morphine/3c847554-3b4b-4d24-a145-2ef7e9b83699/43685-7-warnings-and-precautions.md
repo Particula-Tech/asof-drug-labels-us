@@ -48,6 +48,10 @@ Overestimating the Morphine Sulfate Tablets dosage when converting patients from
 
 Accidental ingestion of even one dose of Morphine Sulfate Tablets, especially by children, can result in respiratory depression and death due to an overdose of morphine.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper[see Dosage and Administration (2.4)].
+
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of Morphine Sulfate Tablets during pregnancy can result in withdrawal in the neonate.
@@ -75,11 +79,11 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 
 The use of Morphine Sulfate Tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease
+Patients with Chronic Pulmonary Disease:
 
 Morphine Sulfate Tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Morphine Sulfate Tablets [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients
+Elderly, Cachectic, or Debilitated Patients:
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
@@ -132,11 +136,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Morphine Sulfate Tablets.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+Do not abruptly discontinue Morphine Sulfate Tablets in a patient physically dependent on opioids.
+When discontinuing Morphine Sulfate Tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of morphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing Morphine Sulfate Tablets, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue Morphine Sulfate Tablets [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Morphine Sulfate Tablets.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms[see Drug Interactions (7)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

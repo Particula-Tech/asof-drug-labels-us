@@ -2,19 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+Risk Summary:
 
 Prolonged use of opioid analgesics during pregnancy can cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 There are no available data with Morphine Sulfate Tablets in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects [see Human Data].
 In published animal reproduction studies, morphine administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) at 5 and 16 times the human daily dose of 60 mg based on body surface area (HDD) in hamsters and mice, respectively, lower fetal body weight and increased incidence of abortion at 0.4 times the HDD in the rabbit, growth retardation at 6 times the HDD in the rat, and axial skeletal fusion and cryptorchidism at 16 times the HDD in the mouse.
-Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3 to 4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD [see Animal Data].Based on animal data, advise pregnant women of the potential risk to a fetus.
+Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3 to 4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD [see Animal Data].
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+Clinical Considerations:
 
 Fetal/Neonatal Adverse Reactions: Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
@@ -28,7 +29,7 @@ Opioid analgesics, including Morphine Sulfate Tablets, can prolong labor through
 However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Data
+Data:
 
 Human Data: The results from a population-based prospective cohort, including 70 women exposed to morphine during the first trimester of pregnancy and 448 women exposed to morphine at any time during pregnancy, indicate no increased risk for congenital malformations.
 However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including small sample size and non-randomized study design.
@@ -65,7 +66,7 @@ Similar multigenerational findings were also seen in female rats pre-gestational
 
 ## 8.2 Lactation
 
-Risk Summary
+Risk Summary:
 
 Morphine is present in breast milk.
 Published lactation studies report variable concentrations of morphine in breast milk with administration of immediate-release morphine to nursing mothers in the early postpartum period with a milk-to-plasma morphine AUC ratio of 2.5:1 measured in one lactation study.
@@ -74,14 +75,14 @@ Lactation studies have not been conducted with Morphine Sulfate Tablets and no i
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Morphine Sulfate Tablets and any potential adverse effects on the breastfed infant from Morphine Sulfate Tablets or from the underlying maternal condition.
 
-Clinical Considerations
+Clinical Considerations:
 
 Monitor infants exposed to Morphine Sulfate Tablets through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of morphine is stopped, or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
+Infertility:
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2)].

@@ -5,7 +5,7 @@ Addiction, Abuse, and Misuse
 Morphine Sulfate Tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing Morphine Sulfate Tablets, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
-Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS):
+Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.2)].
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
