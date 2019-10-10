@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA211550"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-433-01",
+    "16729-433-10",
+    "16729-433-15",
+    "16729-433-16",
+    "16729-433-17"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe",
+      "name": "EZETIMIBE"
+    }
+  ],
+  "setid": "ceecdbe9-5404-4a93-a488-9211cd103058",
+  "source": "dailymed"
+}
