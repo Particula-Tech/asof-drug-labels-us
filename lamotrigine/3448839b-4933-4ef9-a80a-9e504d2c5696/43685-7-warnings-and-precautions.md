@@ -158,7 +158,7 @@ This evidence suggests, although it certainly does not prove, that the high SUDE
 
 ## 5.12 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
 
-Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)].
+Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage andAdministration (2.2, 2.3, 2.4), Drug Interactions (7)].
 
 ## 5.13 Binding in the Eye and Other Melanin-Containing Tissues
 

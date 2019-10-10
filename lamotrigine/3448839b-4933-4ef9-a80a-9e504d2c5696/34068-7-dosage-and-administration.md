@@ -106,7 +106,7 @@ Recommended dosing guidelines are summarized in Table 1.
 Table 1.
 Escalation Regimen for Lamotrigine in Patients Older than 12 Years with Epilepsy
 
-|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
+|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone band NOT TAKING Valproate a |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg/day |
 | Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day (in 2 divided doses) |
@@ -126,7 +126,7 @@ Maintenance doses in patients weighing less than 30 kg, regardless of age or con
 
 Table 2 Escalation Regimen for Lamotrigine in Patients Aged 2 to 12 Years with Epilepsy
 
-|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
+|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone b and NOT TAKING Valproate a |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
@@ -211,7 +211,7 @@ To avoid an increased risk of rash, the recommended initial dose and subsequent 
 
 Table 5 Escalation Regimen for Lamotrigine in Adults with Bipolar Disorder
 
-|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
+|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone b and NOT TAKING Valproate a |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg daily | 50 mg daily |
 | Weeks 3 and 4 | 25 mg daily | 50 mg daily | 100 mg daily, in divided doses |
@@ -223,7 +223,7 @@ Table 5 Escalation Regimen for Lamotrigine in Adults with Bipolar Disorder
 
 Table 6 Dosage Adjustments to Lamotrigine in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
 
-|  | Discontinuation of Psychotropic Drugs (excluding Valproatea, Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb) | After Discontinuation of Valproatea | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb |
+|  | Discontinuation of Psychotropic Drugs (excluding Valproate a, Carbamazepine, Phenytoin, Phenobarbital, or Primidone b) | After Discontinuation of Valproate a | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidone b |
 | --- | --- | --- | --- |
 |  |  | Current Dose of L amotrigine (mg/day) 100 | Current Dose of L amotrigine (mg/day) 400 |
 | Week 1 | Maintain current dose of Lamotrigine | 150 | 400 |
