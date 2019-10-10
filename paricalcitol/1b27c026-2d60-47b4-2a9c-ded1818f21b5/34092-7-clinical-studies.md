@@ -67,7 +67,7 @@ A total of 18 patients received ZEMPLAR capsules and 18 patients received placeb
 The mean age of the patients was 13.6 years, 69% were male, 86% were Caucasian, and 8% were Asian.
 
 The initial dose of ZEMPLAR capsules was 1 mcg three times a week.
-Serum iPTH, calcium, and phosphorus levels were monitored every 2-4 weeks with a goal to maintain levels within target ranges: iPTH 35 to 70pg/mL for CKD stage 3, iPTH 70 to 100pg/mL for CKD stage 4, calcium < 10.2mg/dL, phosphorous < 5.8mg/dL.
+Serum iPTH, calcium, and phosphorus levels were monitored every 2-4 weeks with a goal to maintain levels within target ranges: iPTH 35 to 70pg/mL for CKD stage 3, iPTH 70 to 110pg/mL for CKD stage 4, calcium < 10.2mg/dL, phosphorous < 5.8mg/dL.
 Starting at Treatment Week 4 and every 4 weeks thereafter, doses may have been increased in 1 mcg increments three times a week (e.g., increase from 1 mcg three times per week to 2 mcg three times per week) based upon safety observations and blood chemistry evaluations.
 Each administered dose could be decreased in 1 mcg increments three times a week, or held if the patient was receiving a 1 mcg dose, as appropriate at any time.
 The average cumulative weekly dose of ZEMPLAR was 4mcg/week during the 12 week blinded treatment period.
