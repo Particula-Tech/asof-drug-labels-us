@@ -113,5 +113,5 @@ Developed and Manufactured by: 3M Health Care Limited Loughborough UK or
 
 3M Drug Delivery Systems Northridge, CA 91324, USA
 
-| Copyright © 1996, 2011, 2012, 2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.All rights reserved. This Instructions for Use has been approved by the U.S. Food and Drug Administration. Revised: 09/2017 | 34-8720-1598-6 |
+| Copyright © 1996, 2011, 2012, 2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.All rights reserved. This Instructions for Use has been approved by the U.S. Food and Drug Administration. Revised: 09/2017 | 34-8722-7984-8 |
 | --- | --- |

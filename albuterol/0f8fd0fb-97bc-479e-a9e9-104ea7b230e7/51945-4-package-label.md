@@ -20,9 +20,7 @@ Manuf. for Merck, Sharp & Dohme Corp., a sub. of
 
 MERCK & CO., INC
 
-Whitehouse Station,
-
-NJ 08889, USA
+Whitehouse Station, NJ 08889, USA
 
 Principal Display Panel – Trade Carton Label
 

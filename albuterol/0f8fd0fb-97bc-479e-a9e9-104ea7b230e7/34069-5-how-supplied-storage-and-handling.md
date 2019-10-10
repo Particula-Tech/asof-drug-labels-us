@@ -31,5 +31,5 @@ or
 
 3M Drug Delivery Systems Northridge, CA 91324, USA
 
-| Copyright © 1996, 2011, 2012, 2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. The trademarks depicted in this piece are owned by their respective companies. | 34-8720-1598-6 Rev. 09/2017 |
+| Copyright © 1996, 2011, 2012, 2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. The trademarks depicted in this piece are owned by their respective companies. | 34-8722-7984-8 Rev. 09/2017 |
 | --- | --- |
