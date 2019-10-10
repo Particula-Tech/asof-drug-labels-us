@@ -10,7 +10,7 @@ INFUGEM in combination with paclitaxel is indicated for the first-line treatment
 
 ## 1.3 Non-Small Cell Lung Cancer
 
-INFUGEM is indicated in combination with cisplatin for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB), or metastatic (Stage IV) non-small cell lung cancer.
+INFUGEM in combination with cisplatin is indicated for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB) or metastatic (Stage IV) non-small cell lung cancer (NSCLC).
 
 ## 1.4 Pancreatic Cancer
 

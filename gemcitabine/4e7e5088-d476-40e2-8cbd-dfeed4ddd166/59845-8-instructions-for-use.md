@@ -1,19 +1,4 @@
-Distributed by:
-
-Sun Pharmaceutical Industries, Inc.
-
-Cranbury, NJ 08512
-
-Manufactured by:
-
-Sun Pharmaceutical Ind.
-Ltd.
-
-Halol-Baroda Highway,
-
-Halol-389 350, Gujarat, India
-
-# INSTRUCTIONS FOR USE: INFUGEM
+# Instructions for Use
 
 (gemcitabine in 0.9% sodium chloride injection), 10 mg/mL
 
@@ -48,6 +33,21 @@ Make sure to select the correct target dose table in order to determine the appr
 
 Based on the calculated dose, one or two INFUGEM bags may be needed.
 
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512
+
+Manufactured by:
+
+Sun Pharmaceutical Ind.
+Ltd.
+
+Halol-Baroda Highway,
+
+Halol-389 350, Gujarat, India
+
 How to Spike the INFUGEM Infusion Bag(s)
 
 To achieve the prescribed dose two bags can be administered sequentially.
@@ -73,7 +73,8 @@ Inspect bag and contents for damage, discoloration or particulate matter.
 
 NOTE: DO NOT spike the bag while the bag is hanging on the IV pole.
 
-7 Twist and push the spike through the diaphragm.(Figure H)
+7 Twist and push the spike through the diaphragm.
+(Figure H)
 
 NOTE: Follow the instructions for use for the infusion set.
 
