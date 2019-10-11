@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA210595"
+  ],
+  "inn": "formoterol",
+  "labeler": "Circassia Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "72124-001-01",
+    "72124-001-02",
+    "72124-001-03"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "aclidinium bromide and formoterol fumarte",
+      "name": "DUAKLIR PRESSAIR"
+    }
+  ],
+  "setid": "bb24d6b0-0d69-4a3c-a7f4-a35ca4804657",
+  "source": "dailymed"
+}
