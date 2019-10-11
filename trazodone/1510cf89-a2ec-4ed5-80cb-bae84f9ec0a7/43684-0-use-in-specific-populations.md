@@ -10,8 +10,8 @@ Healthcare providers are encouraged to register patients by calling the National
 Risk Summary
 
 Published prospective cohort studies, case series, and case reports over several decades with trazodone use in pregnant women have not identified any drug-associated risks of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
-Trazodone hydrochloride has been shown to cause increased fetal resorption and other adverse effects on the fetus in the rat when given at dose levels approximately 7.3 to 11 times the maximum recommended human dose (MRHD) of 400 mg/day in adults on a mg/m2 basis.
-There was also an increase in congenital anomalies in the rabbit at approximately 7.3 to 22 times the MRHD on a mg/m2 basis (see Data).
+Trazodone hydrochloride has been shown to cause increased fetal resorption and other adverse effects on the fetus in the rat when given at dose levels approximately 7.3 to 11 times the maximum recommended human dose (MRHD) of 400 mg/day in adults on a mg/m 2 basis.
+There was also an increase in congenital anomalies in the rabbit at approximately 7.3 to 22 times the MRHD on a mg/m 2 basis (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -35,8 +35,8 @@ All available studies have methodological limitations, including small sample si
 Animal Data
 
 No teratogenic effects were observed when trazodone was given to pregnant rats and rabbits during the period of organogenesis at oral doses up to 450 mg/kg/day.
-This dose is 11 and 22 times, in rats and rabbits, respectively, the maximum recommended human dose (MRHD) of 400 mg/day in adults on a mg/m2 basis.
-Increased fetal resorption and other adverse effects on the fetus in rats at 7.3 to 11 times the MRHD and increase in congenital anomalies in rabbits at 7.3 to 22 times the MRHD on a mg/m2 basis were observed.
+This dose is 11 and 22 times, in rats and rabbits, respectively, the maximum recommended human dose (MRHD) of 400 mg/day in adults on a mg/m 2 basis.
+Increased fetal resorption and other adverse effects on the fetus in rats at 7.3 to 11 times the MRHD and increase in congenital anomalies in rabbits at 7.3 to 22 times the MRHD on a mg/m 2 basis were observed.
 No further details on these studies are available.
 
 ## 8.2 Lactation
