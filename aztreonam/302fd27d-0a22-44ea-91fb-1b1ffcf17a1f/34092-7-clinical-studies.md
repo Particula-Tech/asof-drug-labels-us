@@ -48,25 +48,25 @@ Dextrose and Sodium Chloride Injection, USP, 5%:0.9%,
 
 Sodium Lactate Injection, USP (M/6 Sodium Lactate)
 
-Ionosol® B and 5% Dextrose
+Ionosol ® B and 5% Dextrose
 
-Isolyte® E
+Isolyte ® E
 
-Isolyte® E with 5% Dextrose
+Isolyte ® E with 5% Dextrose
 
-Isolyte® M with 5% Dextrose
+Isolyte ® M with 5% Dextrose
 
-Normosol®-R
+Normosol ®-R
 
-Normosol®-R and 5% Dextrose
+Normosol ®-R and 5% Dextrose
 
-Normosol®-M and 5% Dextrose
+Normosol ®-M and 5% Dextrose
 
 Mannitol Injection, USP, 5% or 10%
 
 Lactated Ringer’s and 5% Dextrose Injection
 
-Plasma-Lyte® M and 5% Dextrose
+Plasma-Lyte ® M and 5% Dextrose
 
 ## Intramuscular Solutions
 
