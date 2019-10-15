@@ -6,7 +6,7 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 
 Clinical trials in adults and adolescents 15 years of age and older demonstrated there is no additional clinical benefit to montelukast doses above 10 mg once daily.
 
-The efficacy of montelukast sodium for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1,576 patients (795 treated with montelukast sodium, 530 treated with placebo, and 251 treated with active control).
+The efficacy of montelukast sodium for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1576 patients (795 treated with montelukast sodium, 530 treated with placebo, and 251 treated with active control).
 The median age was 33 years (range 15 to 85); 56.8% were females and 43.2% were males.
 The ethnic/racial distribution in these studies was 71.6% Caucasian, 17.7% Hispanic, 7.2% other origins and 3.5% Black.
 Patients had mild or moderate asthma and were non-smokers who required approximately 5 puffs of inhaled β-agonist per day on an “as-needed” basis.

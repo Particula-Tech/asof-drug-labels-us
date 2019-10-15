@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Available data from published prospective and retrospective cohort studies over decades with montelukast use in pregnant women have not established a drug-associated risk of major birth defects[see Data].
+Available data from published prospective and retrospective cohort studies over decades with montelukast use in pregnant women have not established a drug-associated risk of major birth defects [see Data].
 In animal reproduction studies, no adverse developmental effects were observed with oral administration of montelukast to pregnant rats and rabbits during organogenesis at doses approximately 100 and 110 times, respectively, the maximum recommended human daily oral dose (MRHDOD) based on AUCs [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -49,7 +49,7 @@ Efficacy of montelukast sodium in this age group is extrapolated from the demons
 Efficacy in this age group is supported by exploratory efficacy assessments from a large, well-controlled safety study conducted in patients 2 to 5 years of age.
 
 The safety of montelukast sodium chewable tablets, 4 mg and 5 mg in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma.
-A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile [see Adverse Reactions (6.1)].
+A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile [see Adverse Reactions(6.1)].
 
 The safety and effectiveness in pediatric patients below the age of 12 months with asthma, 6 months with perennial allergic rhinitis, and 6 years with exercise-induced bronchoconstriction have not been established.
 

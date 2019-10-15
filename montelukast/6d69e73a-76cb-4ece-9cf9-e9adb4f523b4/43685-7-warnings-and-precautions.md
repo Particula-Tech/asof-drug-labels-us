@@ -19,7 +19,7 @@ Although montelukast sodium is effective in improving airway function in asthmat
 ## 5.4 Neuropsychiatric Events
 
 Neuropsychiatric events have been reported in adult, adolescent, and pediatric patients taking montelukast sodium.
-Post-marketing reports with montelukast sodium use include but are not limited to agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor.
+Post-marketing reports with montelukast sodium use include, but are not limited to, agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, dysphemia (stuttering), hallucinations, insomnia, irritability, memory impairment, obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor.
 The clinical details of some post-marketing reports involving montelukast sodium appear consistent with a drug-induced effect.
 
 Patients and prescribers should be alert for neuropsychiatric events.
@@ -31,7 +31,7 @@ Prescribers should carefully evaluate the risks and benefits of continuing treat
 Patients with asthma on therapy with montelukast sodium may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy.
 These events have been sometimes associated with the reduction of oral corticosteroid therapy.
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
-A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions (6.2)].
+A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions(6.2)].
 
 ## 5.6 Phenylketonuria
 
