@@ -28,7 +28,7 @@ Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk 
 Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking lamotrigine for various indications.
 HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
 It is associated with high mortality rates if not recognized early and treated.
-Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, and liver function and coagulation abnormalities.
+Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, hypertriglyceridemia, and liver function and coagulation abnormalities.
 In cases of HLH reported with lamotrigine, patients have presented with signs of systemic inflammation (fever, rash, hepatosplenomegaly, and organ system dysfunction) and blood dyscrasias.
 Symptoms have been reported to occur within 8 to 24 days following the initiation of treatment.
 Patients who develop early manifestations of pathologic immune activation should be evaluated immediately, and a diagnosis of HLH should be considered.

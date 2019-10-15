@@ -27,7 +27,7 @@ Women Taking Estrogen-Containing Oral Contraceptives: Starting Lamotrigine in Wo
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine based on the concomitant AED or other concomitant medications (see Tables 1, 5, and 7).
 See below for adjustments to maintenance doses of lamotrigine in women taking estrogen-containing oral contraceptives.
 
-Adjustments to the Maintenance Dose of Lamotrigine In Women Taking Estrogen-Containing Oral Contraceptives:
+Adjustments to the Maintenance Dose of Lamotrigine in Women Taking Estrogen-Containing Oral Contraceptives:
 
 (1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of lamotrigine will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level.
 
@@ -50,7 +50,7 @@ Therefore, adjustments to the dosage of lamotrigine in the presence of progestog
 
 Patients Taking Atazanavir/Ritonavir: While atazanavir/ritonavir does reduce the lamotrigine plasma concentration, no adjustments to the recommended dose-escalation guidelines for lamotrigine should be necessary solely based on the use of atazanavir/ritonavir.
 Dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine based on concomitant AED or other concomitant medications (see Tables 1, 2, and 5).
-In patients already taking maintenance doses of lamotrigine and not taking glucuronidation inducers, the dose of lamotrigine may need to be increased if atazanavir/ritonavir is added, or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
+In patients already taking maintenance doses of lamotrigine and not taking glucuronidation inducers, the dose of lamotrigine may need to be increased if atazanavir/ritonavir is added or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
 
 Patients with Hepatic Impairment: Experience in patients with hepatic impairment is limited.
 Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
@@ -95,7 +95,7 @@ Patients Aged 2 to 12 Years: Recommended dosing guidelines are summarized in Tab
 Lower starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by lower starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
 It may take several weeks to months to achieve an individualized maintenance dose.
-Maintenance doses in patients weighing less than 30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
+Maintenance doses in patients weighing <30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
 
 Table 2.
 Escalation Regimen for Lamotrigine in Patients Aged 2 to 12 Years with Epilepsy
@@ -106,7 +106,7 @@ Escalation Regimen for Lamotrigine in Patients Aged 2 to 12 Years with Epilepsy
 | Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Week 5 onward to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. |
 | Usual maintenance dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
-| Maintenance dose in patients less than 30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
+| Maintenance dose in patients <30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
 | Note: Only whole tablets should be used for dosing. |  |  |  |
 
 Table 3.
@@ -128,7 +128,6 @@ The advantage of using doses above those recommended in Tables 1-4 has not been 
 ## 2.3 Epilepsy—Conversion from Adjunctive Therapy to Monotherapy
 
 The goal of the transition regimen is to attempt to maintain seizure control while mitigating the risk of serious rash associated with the rapid titration of lamotrigine.
-
 The recommended maintenance dose of lamotrigine as monotherapy is 500 mg/day given in 2 divided doses.
 
 To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations for lamotrigine should not be exceeded [see Boxed Warning].
@@ -139,7 +138,7 @@ The regimen for the withdrawal of the concomitant AED is based on experience gai
 Conversion from Adjunctive Therapy with Valproate to Monotherapy with Lamotrigine: The conversion regimen involves the 4 steps outlined in Table 4.
 
 Table 4.
-Conversion from Adjunctive Therapy with Valproate to Monotherapy with Lamotrigine in Patients Aged 16 Years and Older With Epilepsy
+Conversion from Adjunctive Therapy with Valproate to Monotherapy with Lamotrigine in Patients Aged 16 Years and Older with Epilepsy
 
 |  | Lamotrigine | Valproate |
 | --- | --- | --- |
@@ -184,7 +183,7 @@ Escalation Regimen for Lamotrigine in Adults with Bipolar Disorder
 | Week 7 | 100 mg daily | 200 mg daily | up to 400 mg daily, in divided doses |
 
 Table 6.
-Dosage Adjustments to Lamotrigine in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
+Dosage Adjustments to Lamotrigine in Adults with Bipolar Disorder following Discontinuation of Psychotropic Medications
 
 | Current Dose of Lamotrigine (mg/day) 100 | Current Dose of Lamotrigine (mg/day) 400 |  |  |
 | --- | --- | --- | --- |

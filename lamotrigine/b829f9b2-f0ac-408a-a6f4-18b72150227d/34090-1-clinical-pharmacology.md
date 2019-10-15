@@ -11,7 +11,7 @@ One proposed mechanism of action of lamotrigine, the relevance of which remains 
 In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
 
 Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor–Mediated Activity: Lamotrigine did not inhibit N-methyl d-aspartate (NMDA)-induced depolarizations in rat cortical slices or NMDA-induced cyclic GMP formation in immature rat cerebellum, nor did lamotrigine displace compounds that are either competitive or noncompetitive ligands at this glutamate receptor complex (CNQX, CGS, TCHP).
-The IC50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 μM of glycine) in cultured hippocampal neurons exceeded 100 μM.
+The IC50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 µM of glycine) in cultured hippocampal neurons exceeded 100 µM.
 
 The mechanisms by which lamotrigine exerts its therapeutic action in bipolar disorder have not been established.
 
@@ -79,7 +79,7 @@ The binding of lamotrigine to plasma proteins did not change in the presence of 
 Lamotrigine did not displace other AEDs (carbamazepine, phenytoin, phenobarbital) from protein-binding sites.
 
 Metabolism: Lamotrigine is metabolized predominantly by glucuronic acid conjugation; the major metabolite is an inactive 2-N-glucuronide conjugate.
-After oral administration of 240 mg of 14C-lamotrigine (15 μCi) to 6 healthy volunteers, 94% was recovered in the urine and 2% was recovered in the feces.
+After oral administration of 240 mg of 14C-lamotrigine (15 µCi) to 6 healthy volunteers, 94% was recovered in the urine and 2% was recovered in the feces.
 The radioactivity in the urine consisted of unchanged lamotrigine (10%), the 2-N-glucuronide (76%), a 5-N-glucuronide (10%), a 2-N-methyl metabolite (0.14%), and other unidentified minor metabolites (4%).
 
 Enzyme Induction: The effects of lamotrigine on the induction of specific families of mixed-function oxidase isozymes have not been systematically evaluated.
@@ -173,9 +173,9 @@ Felbamate: In a trial in 21 healthy volunteers, coadministration of felbamate (1
 Folate Inhibitors: Lamotrigine is a weak inhibitor of dihydrofolate reductase.
 Prescribers should be aware of this action when prescribing other medications that inhibit folate metabolism.
 
-Lacosamide: Plasma concentrations of lamotrigine were not affected by concomitant lacosamide (200 mg/day, 400 mg/day, or 600 mg/day) in placebo-controlled clinical trials in patients with partial-onset seizures.
-
 Gabapentin: Based on a retrospective analysis of plasma levels in 34 subjects who received lamotrigine both with and without gabapentin, gabapentin does not appear to change the apparent clearance of lamotrigine.
+
+Lacosamide: Plasma concentrations of lamotrigine were not affected by concomitant lacosamide (200 mg/day, 400 mg/day, or 600 mg/day) in placebo-controlled clinical trials in patients with partial-onset seizures.
 
 Levetiracetam: Potential drug interactions between levetiracetam and lamotrigine were assessed by evaluating serum concentrations of both agents during placebo-controlled clinical trials.
 These data indicate that lamotrigine does not influence the pharmacokinetics of levetiracetam and that levetiracetam does not influence the pharmacokinetics of lamotrigine.
@@ -225,7 +225,7 @@ Zonisamide: In a study in 18 patients with epilepsy, coadministration of zonisam
 Known Inducers or Inhibitors of Glucuronidation: Drugs other than those listed above have not been systematically evaluated in combination with lamotrigine.
 Since lamotrigine is metabolized predominately by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine and doses of lamotrigine may require adjustment based on clinical response.
 
-Other: In vitro assessment of the inhibitory effect of lamotrigine at OCT2 demonstrate that lamotrigine, but not the N(2)-glucuronide metabolite, is an inhibitor of OCT2 at potentially clinically relevant concentrations, with IC50 value of 53.8 μM [see Drug Interactions (7)].
+Other: In vitro assessment of the inhibitory effect of lamotrigine at OCT2 demonstrate that lamotrigine, but not the N(2)-glucuronide metabolite, is an inhibitor of OCT2 at potentially clinically relevant concentrations, with IC50 value of 53.8 µM [see Drug Interactions (7)].
 
 Results of in vitro experiments suggest that clearance of lamotrigine is unlikely to be reduced by concomitant administration of amitriptyline, clonazepam, clozapine, fluoxetine, haloperidol, lorazepam, phenelzine, sertraline, or trazodone.
 
