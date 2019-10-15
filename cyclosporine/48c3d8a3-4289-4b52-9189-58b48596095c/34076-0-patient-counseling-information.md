@@ -52,10 +52,10 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-Copyright 2018, Sun Pharma Global FZE
+Copyright 2019, Sun Pharma Global FZE
 
 All rights reserved
 
-08 2018
+09/2019
 
-uspi-CEQUA-sol-00001
+uspi-CEQUA-sol-00002
