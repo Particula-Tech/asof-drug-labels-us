@@ -27,7 +27,7 @@ Doses smaller than those indicated should not be used.
 ## Renal Impairment in Adult Patients
 
 Prolonged serum levels of aztreonam may occur in patients with transient or persistent renal insufficiency.
-Therefore, the dosage of aztreonam for injection should be halved in patients with estimated creatinine clearances between 10 and 30 mL/min/1.73 m2 after an initial loading dose of 1 or 2 g.
+Therefore, the dosage of aztreonam for injection should be halved in patients with estimated creatinine clearances between 10 and 30 mL/min/1.73 m 2 after an initial loading dose of 1 or 2 g.
 
 When only the serum creatinine concentration is available, the following formula (based on sex, weight, and age of the patient) may be used to approximate the creatinine clearance (Clcr).
 The serum creatinine should represent a steady state of renal function.
@@ -38,7 +38,7 @@ Males: Clcr = weight (kg) x (140 - age)
 
 Females: 0.85 x above value
 
-In patients with severe renal failure (creatinine clearance less than 10 mL/min/1.73 m2), such as those supported by hemodialysis, the usual dose of 500 mg, 1 g or 2 g should be given initially.
+In patients with severe renal failure (creatinine clearance less than 10 mL/min/1.73 m 2), such as those supported by hemodialysis, the usual dose of 500 mg, 1 g or 2 g should be given initially.
 The maintenance dose should be one-fourth of the usual initial dose given at the usual fixed interval of 6, 8 or 12 hours.
 For serious or life-threatening infections, in addition to the maintenance doses, one-eighth of the initial dose should be given after each hemodialysis session.
 
@@ -53,7 +53,7 @@ Therefore, as with all antibiotics eliminated by the kidneys, estimates of creat
 Aztreonam for injection should be administered intravenously to pediatric patients with normal renal function.
 There are insufficient data regarding intramuscular administration to pediatric patients or dosing in pediatric patients with renal impairment (see PRECAUTIONS, Pediatric Use).
 
-Table 5: Aztreonam for Injection Dosage Guidelines for Pediatric Patients*
+Table 5: Aztreonam for Injection Dosage Guid elines for Pediatric Patients*
 
 | Type of Infection | Dose | Frequency (hours) |
 | --- | --- | --- |

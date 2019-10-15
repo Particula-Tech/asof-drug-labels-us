@@ -43,7 +43,7 @@ In the US patient population, pain occurred in 1.5% of patients, while each of t
 
 The following laboratory adverse events, regardless of drug relationship, occurred in at least 1% of treated patients: increased eosinophils (6.3%), increased platelets (3.6%), neutropenia (3.2%), increased AST (3.8%), increased ALT (6.5%), and increased serum creatinine (5.8%).
 
-In US pediatric clinical trials, neutropenia (absolute neutrophil count less than 1,000/mm3) occurred in 11.3% of patients (8/71) younger than 2 years receiving 30 mg/kg every 6 hours.
+In US pediatric clinical trials, neutropenia (absolute neutrophil count less than 1,000/mm 3) occurred in 11.3% of patients (8/71) younger than 2 years receiving 30 mg/kg every 6 hours.
 AST and ALT elevations to greater than 3 times the upper limit of normal were noted in 15% to 20% of patients aged 2 years or above receiving 50 mg/kg every 6 hours.
 The increased frequency of these reported laboratory adverse events may be due to either increased severity of illness treated or higher doses of aztreonam for injection administered.
 
