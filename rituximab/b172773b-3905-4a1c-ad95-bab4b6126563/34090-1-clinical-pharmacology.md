@@ -13,7 +13,7 @@ In this setting, B cells may be acting at multiple sites in the autoimmune/infla
 Non-Hodgkin's Lymphoma (NHL)
 
 In NHL patients, administration of RITUXAN resulted in depletion of circulating and tissue-based B cells.
-Among 166 patients in Study 1 (NCT000168740), circulating CD19-positive B cells were depleted within the first three weeks with sustained depletion for up to 6 to 9 months post treatment in 83% of patients.
+Among 166 patients in NHL Study 1 (NCT000168740), circulating CD19-positive B cells were depleted within the first three weeks with sustained depletion for up to 6 to 9 months post treatment in 83% of patients.
 B-cell recovery began at approximately 6 months and median B-cell levels returned to normal by 12 months following completion of treatment.
 
 There were sustained and statistically significant reductions in both IgM and IgG serum levels observed from 5 through 11 months following rituximab administration; 14% of patients had IgM and/or IgG serum levels below the normal range.
@@ -33,9 +33,9 @@ Treatment with rituximab in patients with RA was associated with reduction of ce
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-In GPA and MPA patients in GPA/MPA Study 1, peripheral blood CD19 B-cells depleted to less than 10 cells/μl following the first two infusions of RITUXAN, and remained at that level in most (84%) patients through Month 6.
-By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/μL.
-By Month 18, most patients (87%) had counts >10 cells/μL.
+In GPA and MPA patients in GPA/MPA Study 1, peripheral blood CD19 B-cells depleted to less than 10 cells/µl following the first two infusions of RITUXAN, and remained at that level in most (84%) patients through Month 6.
+By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/µL.
+By Month 18, most patients (87%) had counts >10 cells/µL.
 
 In GPA/MPA Study 2 where patients received non-U.S.-licensed rituximab as two 500 mg intravenous infusions separated by two weeks, followed by a 500 mg intravenous infusion at Month 6, 12, and 18, 70% (30 out of 43) of the rituximab-treated patients with CD19+ peripheral B cells evaluated post-baseline had undetectable CD19+ peripheral B cells at Month 24.
 At Month 24, all 37 patients with evaluable baseline CD19+ peripheral B cells and Month 24 measurements had lower CD19+ B cells relative to baseline.
@@ -66,15 +66,30 @@ Age, weight and gender had no effect on the pharmacokinetics of rituximab in RA 
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-Based on the population pharmacokinetic analysis of data in 97 GPA and MPA patients in the GPA/MPA Study 1, who received 375 mg/m2 rituximab once weekly by intravenous infusion for four weeks, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
-Rituximab mean clearance and volume of distribution were 0.
-312 L/day (range, 0.115 to 0.728 L/day) and 4.50 L (range, 2.21 to 7.52 L) respectively.
-Male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.
+The PK parameters in adult and pediatric patients 6 years to 17 years of age with GPA/MPA receiving 375 mg/m2 intravenous RITUXAN or non-U.S.-licensed rituximab once weekly for four doses are summarized in Table 5.
+
+Table 5 Population PK in pediatric patients (GPA/MPA Study 4) and adult patients (GPA/MPA Study 1) with GPA/MPA
+
+| Pediatric GPA/MPA (GPA/MPA Study 4) | Adult GPA/MPA (GPA/MPA Study 1) |  |  |
+| --- | --- | --- | --- |
+| Parameter | Statistic | Study |  |
+| N | Number of Patients | 25 | 97 |
+| Terminal Half-life (days) | Median (Range) | 22 (11 to 42) | 25 (11 to 52) |
+| AUC0-180d (µg/mL*day) | Median (Range) | 9787 (4838 to 20446) | 10302 (3653 to 21874) |
+| Clearance (L/day) | Median (Range) | 0.222 (0.0996 to 0.381) | 0.279 (0.113 to 0.653) |
+| Volume of Distribution (L) | Median (Range) | 2.28 (1.43 to 3.17) | 3.12 (2.42 to 3.91) |
+
+Based on a population PK analysis in pediatric patients with GPA and MPA, the PK parameters of rituximab were similar to those in adults with GPA and MPA, once taking into account the BSA effect on clearance and volume of distribution parameters.
+The population PK analysis in adults with GPA and MPA showed that male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.
 However, further dose adjustment based on gender or anti-rituximab antibody status is not necessary.
 
 Specific Populations
 
-The pharmacokinetics of rituximab have not been studied in children and adolescents.
+The pharmacokinetics of rituximab have been studied in pediatric patients 6 years of age and older with active GPA and MPA (GPA/MPA Study 4).
+The effect of body surface area on the pharmacokinetics of rituximab was assessed in a population pharmacokinetic analysis which included 6 patients 6 years to less than 12 years of age and 19 patients 12 years to 17 years of age with GPA and MPA.
+BSA was a significant covariate on rituximab pharmacokinetics.
+The median AUC0-180d in patients 2 years to 5 years of age (BSA of 0.5 m2) was estimated to be 10100 (µg/mL*day) and is comparable to that in adults.
+For follow up treatment of pediatric patients with GPA/MPA, the 250 mg/m2 dose is estimated to provide pediatric GPA and MPA patients with exposure comparable to that observed in adults [see Use in Special Populations (8.4) and Clinical Studies (14.7)].
 
 No formal studies were conducted to examine the effects of either renal or hepatic impairment on the pharmacokinetics of rituximab.
 

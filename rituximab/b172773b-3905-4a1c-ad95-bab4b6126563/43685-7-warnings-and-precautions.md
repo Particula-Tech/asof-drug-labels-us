@@ -7,7 +7,7 @@ Severe reactions typically occurred during the first infusion with time to onset
 RITUXAN-induced infusion-related reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
-For RA and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+For RA, GPA and MPA, and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
 Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue RITUXAN.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
@@ -92,7 +92,7 @@ Evaluate if symptoms of obstruction such as abdominal pain or repeated vomiting 
 
 The safety of immunization with live viral vaccines following RITUXAN therapy has not been studied and vaccination with live virus vaccines is not recommended before or during treatment.
 
-For RA patients, physicians should follow current immunization guidelines and administer non-live vaccines at least 4 weeks prior to a course of RITUXAN.
+For patients treated with RITUXAN, physicians should review the patient's vaccination status and patients should, if possible, be brought up-to-date with all immunizations in agreement with current immunization guidelines prior to initiating RITUXAN and administer non live vaccines at least 4 weeks prior to a course of RITUXAN.
 
 The effect of RITUXAN on immune responses was assessed in a randomized, controlled study in patients with RA treated with RITUXAN and methotrexate (MTX) compared to patients treated with MTX alone.
 

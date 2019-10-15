@@ -58,10 +58,17 @@ Females of childbearing potential should use effective contraception while recei
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of RITUXAN in pediatric patients have not been established.
+RITUXAN is indicated for the treatment of GPA and MPA in pediatric patients 2 years of age and older with GPA and MPA.
+RITUXAN is not indicated in pediatric patients less than 2 years of age with GPA or MPA.
 
-FDA has not required pediatric studies in polyarticular juvenile idiopathic arthritis (PJIA) patients ages 0 to 16 due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
-Hypogammaglobulinemia has been observed in pediatric patients treated with RITUXAN.
+The use of RITUXAN for the treatment of pediatric patients with GPA and MPA 6 years of age and older is supported by evidence from adequate and well-controlled studies of RITUXAN in adults with GPA and MPA; a trial in pediatric patients 6 years of age and older with active GPA and MPA; and population pharmacokinetic (PK) analyses showing similar drug exposure levels in adults and pediatric patients 6 years to 17 years of age.
+The use of RITUXAN for the treatment of pediatric patients with GPA and MPA ages 2 to less than 6 years of age is supported by PK modeling in patients 2 years of age and older and safety data from pediatric patients less than 6 years of age treated with rituximab.
+
+The pediatric trial was a multicenter, open-label, single arm study (GPA/MPA Study 4) to evaluate the safety, PK and exploratory efficacy of RITUXAN or non-U.S.-licensed rituximab in 25 pediatric patients (6 patients 6 years to less than 12 years of age and 19 patients 12 years to 17 years of age) with active GPA and MPA over a 6-month remission induction phase and minimum 12-month follow-up phase, up to 54 months [see Adverse Reactions (6.3), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+
+The safety and effectiveness of RITUXAN have not been established in pediatric patients with NHL, CLL, PV, or RA.
+
+Rituxan was not studied in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
 
 ## 8.5 Geriatric Use
 
@@ -75,7 +82,7 @@ Serious pulmonary adverse reactions were also more common among the elderly, inc
 
 Low-Grade or Follicular Non-Hodgkin's Lymphoma
 
-Patients with previously untreated follicular NHL evaluated in Study 5 were randomized to RITUXAN as single-agent maintenance therapy (n=505) or observation (n=513) after achieving a response to RITUXAN in combination with chemotherapy.
+Patients with previously untreated follicular NHL evaluated in NHL Study 5 were randomized to RITUXAN as single-agent maintenance therapy (n=505) or observation (n=513) after achieving a response to RITUXAN in combination with chemotherapy.
 Of these, 123 (24%) patients in the RITUXAN arm were age 65 or older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 Other clinical studies of RITUXAN in low-grade or follicular, CD20-positive, B-cell NHL did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
@@ -84,11 +91,11 @@ Chronic Lymphocytic Leukemia
 
 Among patients with CLL evaluated in two randomized active-controlled trials, 243 of 676 RITUXAN-treated patients (36%) were 65 years of age or older; of these, 100 RITUXAN-treated patients (15%) were 70 years of age or older.
 
-In exploratory analyses defined by age, there was no observed benefit from the addition of RITUXAN to fludarabine and cyclophosphamide among patients 70 years of age or older in Study 11 or in Study 12; there was also no observed benefit from the addition of RITUXAN to fludarabine and cyclophosphamide among patients 65 years of age or older in Study 12 [see Clinical Studies (14.5)].
+In exploratory analyses defined by age, there was no observed benefit from the addition of RITUXAN to fludarabine and cyclophosphamide among patients 70 years of age or older in CLL Study 11 or in CLL Study 12; there was also no observed benefit from the addition of RITUXAN to fludarabine and cyclophosphamide among patients 65 years of age or older in CLL Study 12 [see Clinical Studies (14.5)].
 Patients 70 years or older received lower dose intensity of fludarabine and cyclophosphamide compared to younger patients, regardless of the addition of RITUXAN.
-In Study 11, the dose intensity of RITUXAN was similar in older and younger patients, however in Study 12 older patients received a lower dose intensity of RITUXAN.
+In CLL Study 11, the dose intensity of RITUXAN was similar in older and younger patients, however in CLL Study 12 older patients received a lower dose intensity of RITUXAN.
 
-The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (Study 11); 56% vs. 39% (Study 12)], febrile neutropenia [16% vs. 6% (Study 10 (NCT00719472)], anemia [5% vs. 2% (Study 11); 21% vs. 10% (Study 12)], thrombocytopenia [19% vs. 8% (Study 12)], pancytopenia [7% vs. 2% (Study 11); 7% vs. 2% (Study 12)] and infections [30% vs. 14% (Study 12)].
+The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (CLL Study 11); 56% vs. 39% (CLL Study 12)], febrile neutropenia [16% vs. 6% (NHL Study 10 (NCT00719472)], anemia [5% vs. 2% (CLL Study 11); 21% vs. 10% (CLL Study 12)], thrombocytopenia [19% vs. 8% (CLL Study 12)], pancytopenia [7% vs. 2% (CLL Study 11); 7% vs. 2% (CLL Study 12)] and infections [30% vs. 14% (CLL Study 12)].
 
 Rheumatoid Arthritis
 

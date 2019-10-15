@@ -4,56 +4,56 @@
 
 The safety and effectiveness of RITUXAN in relapsed, refractory CD20+ NHL were demonstrated in 3 single-arm studies enrolling 296 patients.
 
-Study 1
+NHL Study 1
 
 A multicenter, open-label, single-arm study was conducted in 166 patients with relapsed or refractory, low-grade or follicular, B-cell NHL who received 375 mg/m2 of RITUXAN given as an intravenous infusion weekly for 4 doses.
 Patients with tumor masses > 10 cm or with > 5000 lymphocytes/µL in the peripheral blood were excluded from the study.
 
-Results are summarized in Table 5.
+Results are summarized in Table 6.
 The median time to onset of response was 50 days.
 Disease-related signs and symptoms (including B-symptoms) resolved in 64% (25/39) of those patients with such symptoms at study entry.
 
-Study 2
+NHL Study 2
 
 In a multicenter, single-arm study, 37 patients with relapsed or refractory, low-grade NHL received 375 mg/m2 of RITUXAN weekly for 8 doses.
-Results are summarized in Table 5.
+Results are summarized in Table 6.
 
-Study 3
+NHL Study 3
 
 In a multicenter, single-arm study, 60 patients received 375 mg/m2 of RITUXAN weekly for 4 doses.
 All patients had relapsed or refractory, low-grade or follicular, B-cell NHL and had achieved an objective clinical response to RITUXAN administered 3.8–35.6 months (median 14.5 months) prior to retreatment with RITUXAN.
 Of these 60 patients, 5 received more than one additional course of RITUXAN.
-Results are summarized in Table 5.
+Results are summarized in Table 6.
 
 Bulky Disease
 
 In pooled data from studies 1 and 3, 39 patients with bulky (single lesion > 10 cm in diameter) and relapsed or refractory, low-grade NHL received RITUXAN 375 mg/m2 weekly for 4 doses.
-Results are summarized in Table 5.
+Results are summarized in Table 6.
 
-Table 5 Summary of RITUXAN Efficacy Data by Schedule and Clinical Setting
+Table 6 Summary of RITUXAN Efficacy Data in NHL by Schedule and Clinical Setting
 
 |  | Study 1 Weekly × 4 N=166 | Study 2 Weekly × 8 N=37 | Study 1 and Study 3 Bulky disease, Weekly × 4 N=39Six of these patients are included in the first column. Thus, data from 296 intent-to-treat patients are provided in this table. | Study 3 Retreatment, Weekly × 4 N=60 |
 | --- | --- | --- | --- | --- |
 | Overall Response Rate | 48% | 57% | 36% | 38% |
 | Complete Response Rate | 6% | 14% | 3% | 10% |
-| Median Duration of ResponseKaplan-Meier projected with observed range., "+" indicates an ongoing response., Duration of response: interval from the onset of response to disease progression. | 11.2 [1.9 to 42.1+] | 13.4 [2.5 to 36.5+] | 6.9 [2.8 to 25.0+] | 15.0 [3.0 to 25.1+] |
-| (Months) [Range] |  |  |  |  |
+| Median Duration of ResponseKaplan-Meier projected with observed range., "+" indicates an ongoing response., Duration of response: interval from the onset of response to disease progression. | 11.2 | 13.4 | 6.9 | 15.0 |
+| (Months) [Range] | [1.9 to 42.1+] | [2.5 to 36.5+] | [2.8 to 25.0+] | [3.0 to 25.1+] |
 
 ## 14.2 Previously Untreated, Low-Grade or Follicular, CD20-Positive, B-Cell NHL
 
 The safety and effectiveness of RITUXAN in previously untreated, low-grade or follicular, CD20+ NHL were demonstrated in 3 randomized, controlled trials enrolling 1,662 patients.
 
-Study 4
+NHL Study 4
 
 A total of 322 patients with previously untreated follicular NHL were randomized (1:1) to receive up to eight 3-week cycles of CVP chemotherapy alone (CVP) or in combination with RITUXAN 375 mg/m2 on Day 1 of each cycle (R-CVP) in an open-label, multicenter study.
 The main outcome measure of the study was progression-free survival (PFS) defined as the time from randomization to the first of progression, relapse, or death.
 
 Twenty-six percent of the study population was >60 years of age, 99% had Stage III or IV disease, and 50% had an International Prognostic Index (IPI) score ≥2.
-The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 6.
+The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 7.
 The point estimates may be influenced by the presence of informative censoring.
 The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
 
-Table 6 Efficacy Results in Study 4
+Table 7 Efficacy Results in NHL Study 4
 
 |  | R-CVP N=162 | CVP N=160 |
 | --- | --- | --- |
@@ -61,7 +61,7 @@ Table 6 Efficacy Results in Study 4
 | Median PFS (years)p < 0.0001, two-sided stratified log-rank test. | 2.4 | 1.4 |
 | Hazard ratio (95% CI)Estimates of Cox regression stratified by center. | 0.44 (0.29, 0.65) |  |
 
-Study 5
+NHL Study 5
 
 An open-label, multicenter, randomized (1:1) study was conducted in 1,018 patients with previously untreated follicular NHL who achieved a response (CR or PR) to RITUXAN in combination with chemotherapy.
 Patients were randomized to RITUXAN as single-agent maintenance therapy, 375 mg/m2 every 8 weeks for up to 12 doses or to observation.
@@ -76,9 +76,9 @@ The PFS results based on investigator assessment of progression were similar to 
 
 | Figure 1 |
 | --- |
-| Kaplan-Meier Plot of IRC Assessed PFS |
+| Kaplan-Meier Plot of IRC Assessed PFS in NHL Study 5 |
 
-Study 6
+NHL Study 6
 
 A total of 322 patients with previously untreated low-grade, B-cell NHL who did not progress after 6 or 8 cycles of CVP chemotherapy were enrolled in an open-label, multicenter, randomized trial.
 Patients were randomized (1:1) to receive RITUXAN, 375 mg/m2 intravenous infusion, once weekly for 4 doses every 6 months for up to 16 doses or no further therapeutic intervention.
@@ -92,7 +92,7 @@ There was a reduction in the risk of progression, relapse, or death (hazard rati
 The safety and effectiveness of RITUXAN were evaluated in three randomized, active-controlled, open-label, multicenter studies with a collective enrollment of 1854 patients.
 Patients with previously untreated diffuse large B-cell NHL received RITUXAN in combination with cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) or other anthracycline-based chemotherapy regimens.
 
-Study 7
+NHL Study 7
 
 A total of 632 patients age ≥ 60 years with DLBCL (including primary mediastinal B-cell lymphoma) were randomized in a 1:1 ratio to treatment with CHOP or R-CHOP.
 Patients received 6 or 8 cycles of CHOP, each cycle lasting 21 days.
@@ -102,42 +102,42 @@ The main outcome measure of the study was progression-free survival, defined as 
 Responding patients underwent a second randomization to receive RITUXAN or no further therapy.
 
 Among all enrolled patients, 62% had centrally confirmed DLBCL histology, 73% had Stage III–IV disease, 56% had IPI scores ≥ 2, 86% had ECOG performance status of < 2, 57% had elevated LDH levels, and 30% had two or more extranodal disease sites involved.
-Efficacy results are presented in Table 7.
+Efficacy results are presented in Table 8.
 These results reflect a statistical approach which allows for an evaluation of RITUXAN administered in the induction setting that excludes any potential impact of RITUXAN given after the second randomization.
 
-Analysis of results after the second randomization in Study 7 demonstrates that for patients randomized to R-CHOP, additional RITUXAN exposure beyond induction was not associated with further improvements in progression-free survival or overall survival.
+Analysis of results after the second randomization in NHL Study 7 demonstrates that for patients randomized to R-CHOP, additional RITUXAN exposure beyond induction was not associated with further improvements in progression-free survival or overall survival.
 
-Study 8
+NHL Study 8
 
 A total of 399 patients with DLBCL, age ≥ 60 years, were randomized in a 1:1 ratio to receive CHOP or R-CHOP.
 All patients received up to eight 3-week cycles of CHOP induction; patients in the R-CHOP arm received RITUXAN 375 mg/m2 on Day 1 of each cycle.
 The main outcome measure of the study was event-free survival, defined as the time from randomization to relapse, progression, change in therapy, or death from any cause.
 Among all enrolled patients, 80% had Stage III or IV disease, 60% of patients had an age-adjusted IPI ≥ 2, 80% had ECOG performance status scores < 2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
-Efficacy results are presented in Table 7.
+Efficacy results are presented in Table 8.
 
-Study 9
+NHL Study 9
 
 A total of 823 patients with DLBCL, aged 18–60 years, were randomized in a 1:1 ratio to receive an anthracycline-containing chemotherapy regimen alone or in combination with RITUXAN.
 The main outcome measure of the study was time to treatment failure, defined as time from randomization to the earliest of progressive disease, failure to achieve a complete response, relapse, or death.
 Among all enrolled patients, 28% had Stage III–IV disease, 100% had IPI scores of ≤ 1, 99% had ECOG performance status of < 2, 29% had elevated LDH levels, 49% had bulky disease, and 34% had extranodal involvement.
-Efficacy results are presented in Table 7.
+Efficacy results are presented in Table 8.
 
-Table 7 Efficacy Results in Studies 7, 8, and 9
+Table 8 Efficacy Results in NHL Studies 7, 8, and 9
 
-| Main outcome | Progression-free survival (years) |  | Event-free survival (years) |  | Time to treatment failure (years) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Study 7 (n = 632) |  | Study 8 (n = 399) |  | Study 9 (n = 823) |  |
-|  | R-CHOP | CHOP | R-CHOP | CHOP | R-Chemo | Chemo |
-| Median of main outcome measure | 3.1 | 1.6 | 2.9 | 1.1 | NENE = Not reliably estimable. | NE |
-| Hazard ratioR-CHOP vs. CHOP. | 0.69Significant at p < 0.05, 2-sided. |  | 0.60 |  | 0.45 |  |
-| Overall survival at 2 yearsKaplan-Meier estimates. | 74% | 63% | 69% | 58% | 95% | 86% |
-| Hazard ratio | 0.72 |  | 0.68 |  | 0.40 |  |
+| Main outcome | Progression-free survival (years) |  |  | Event-free survival (years) |  |  | Time to treatment failure (years) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Study 7 (n = 632) |  |  | Study 8 (n = 399) |  |  | Study 9 (n = 823) |  |
+|  | R-CHOP | CHOP |  | R-CHOP | CHOP |  | R-Chemo | Chemo |
+| Median of main outcome measure | 3.1 | 1.6 |  | 2.9 | 1.1 |  | NENE = Not reliably estimable. | NE |
+| Hazard ratioR-CHOP vs. CHOP. | 0.69Significant at p < 0.05, 2-sided. |  |  | 0.60 |  |  | 0.45 |  |
+| Overall survival at 2 yearsKaplan-Meier estimates. | 74% | 63% |  | 69% | 58% |  | 95% | 86% |
+| Hazard ratio | 0.72 |  |  | 0.68 |  |  | 0.40 |  |
 
-In Study 8, overall survival estimates at 5 years were 58% vs. 46% for R-CHOP and CHOP, respectively.
+In NHL Study 8, overall survival estimates at 5 years were 58% vs. 46% for R-CHOP and CHOP, respectively.
 
 ## 14.4 Ninety-Minute Infusions in Previously Untreated Follicular NHL and DLBCL
 
-In Study 10, a total of 363 patients with previously untreated follicular NHL (n=113) or DLBCL (n=250) were evaluated in a prospective, open-label, multi-center, single-arm trial for the safety of 90-minute rituximab infusions.
+In NHL Study 10, a total of 363 patients with previously untreated follicular NHL (n=113) or DLBCL (n=250) were evaluated in a prospective, open-label, multi-center, single-arm trial for the safety of 90-minute rituximab infusions.
 Patients with follicular NHL received rituximab 375 mg/m2 plus CVP chemotherapy.
 Patients with DLBCL received rituximab 375 mg/m2 plus CHOP chemotherapy.
 Patients with clinically significant cardiovascular disease were excluded from the study.
@@ -150,39 +150,39 @@ Patients who tolerated the 90-minute rituximab infusion at Cycle 2 continued to 
 
 The incidence of Grade 3-4 infusion-related reactions at Cycle 2 was 1.1% (95% CI [0.3%, 2.8%]) among all patients, 3.5% (95% CI [1.0%, 8.8%]) for those patients treated with R-CVP, and 0.0% (95% CI [0.0%, 1.5%]) for those patients treated with R-CHOP.
 For Cycles 2-8, the incidence of Grade 3-4 infusion-related reactions was 2.8% (95% CI [1.3%, 5.0%]).
-No acute fatal infusion reactions were observed.
+No acute fatal infusion-related reactions were observed.
 
 ## 14.5 Chronic Lymphocytic Leukemia (CLL)
 
-The safety and effectiveness of RITUXAN were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with RITUXAN for up to 6 cycles in patients with previously untreated CLL [Study 11 (n=817)] or previously treated CLL [Study 12 (n=552)].
+The safety and effectiveness of RITUXAN were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with RITUXAN for up to 6 cycles in patients with previously untreated CLL [CLL Study 1 (n=817)] or previously treated CLL [CLL Study 2 (n=552)].
 Patients received fludarabine 25 mg/m2/day and cyclophosphamide 250 mg/m2/day on days 1, 2 and 3 of each cycle, with or without RITUXAN.
 In both studies, seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of RITUXAN-based therapy.
 
-In Study 11, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0–1, 74% were male, and 100% were White.
-In Study 12, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0–1, 67% were male and 98% were White.
+In CLL Study 1, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0–1, 74% were male, and 100% were White.
+In CLL Study 2, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0–1, 67% were male and 98% were White.
 
-The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (Study 11) or an independent review committee (Study 12).
-The investigator assessed results in Study 12 were supportive of those obtained by the independent review committee.
-Efficacy results are presented in Table 8.
+The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (CLL Study 1) or an independent review committee (CLL Study 2).
+The investigator assessed results in CLL Study 2 were supportive of those obtained by the independent review committee.
+Efficacy results are presented in Table 9.
 
-Table 8 Efficacy Results in Studies 11 and 12
+Table 9 Efficacy Results in CLL Studies 1 and 2
 
 |  | R-FC N = 408 | FC N = 409 | R-FC N = 276 | FC N = 276 |
 | --- | --- | --- | --- | --- |
-|  | Study 11As defined in 1996 National Cancer Institute Working Group guidelines. (Previously untreated) |  | Study 12 (Previously treated) |  |
+|  | Study 1As defined in 1996 National Cancer Institute Working Group guidelines. (Previously untreated) |  | Study 2 (Previously treated) |  |
 | Median PFS (months) | 39.8 | 31.5 | 26.7 | 21.7 |
 | Hazard ratio (95% CI) | 0.56 (0.43, 0.71) |  | 0.76 (0.6, 0.96) |  |
 | P value (Log-Rank test) | < 0.01 |  | 0.02 |  |
 | Response rate (95% CI) | 86% (82, 89) | 73% (68, 77) | 54% (48, 60) | 45% (37, 51) |
 
 Across both studies, 243 of 676 RITUXAN-treated patients (36%) were 65 years of age or older and 100 RITUXAN-treated patients (15%) were 70 years of age or older.
-The results of exploratory subset analyses in elderly patients are presented in Table 9.
+The results of exploratory subset analyses in elderly patients are presented in Table 10.
 
-Table 9 Efficacy Results in Studies 11 and 12 in Subgroups Defined by AgeFrom exploratory analyses.
+Table 10 Efficacy Results in CLL Studies 1 and 2 in Subgroups Defined by AgeFrom exploratory analyses.
 
 | Age subgroup | Number of Patients | Hazard Ratio for PFS (95% CI) | Number of Patients | Hazard Ratio for PFS (95% CI) |
 | --- | --- | --- | --- | --- |
-|  | Study 11 |  | Study 12 |  |
+|  | Study 1 |  | Study 2 |  |
 | Age < 65 yrs | 572 | 0.52 (0.39, 0.70) | 313 | 0.61 (0.45, 0.84) |
 | Age ≥ 65 yrs | 245 | 0.62 (0.39, 0.99) | 233 | 0.99 (0.70, 1.40) |
 | Age < 70 yrs | 736 | 0.51 (0.39, 0.67) | 438 | 0.67 (0.51, 0.87) |
@@ -198,15 +198,15 @@ Patients were 18 years of age or older, diagnosed with active RA according to Am
 In RA Study 1 (NCT00468546), patients were randomized to receive either RITUXAN 2 × 1000 mg + MTX or placebo + MTX for 24 weeks.
 Further courses of RITUXAN 2 × 1000 mg + MTX were administered in an open label extension study at a frequency determined by clinical evaluation, but no sooner than 16 weeks after the preceding course of RITUXAN.
 In addition to the intravenous premedication, glucocorticoids were administered orally on a tapering schedule from baseline through Day 14.
-The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24 of the placebo-controlled period are shown in Table 10.
+The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24 of the placebo-controlled period are shown in Table 11.
 
 In RA Study 2 (NCT00266227), all patients received the first course of RITUXAN 2 × 1000 mg + MTX.
 Patients who experienced ongoing disease activity were randomized to receive a second course of either RITUXAN 2 × 1000 mg + MTX or placebo + MTX, the majority between Weeks 24–28.
 The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24, before the re-treatment course, and at Week 48, after retreatment, are shown in Table 10.
 
-Table 10 ACR Responses in Study 1 and Study 2 (Percent of Patients) (Modified Intent-to-Treat Population)
+Table 11 ACR Responses in RA Study 1 and RA Study 2 (Percent of Patients) (Modified Intent-to-Treat Population)
 
-| Response | Placebo + MTX n = 201 | RITUXAN + MTX n = 298 | Treatment Difference (RITUXAN – Placebo)For Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive > 20 IU/mL, negative < 20 IU/mL) at baseline; For Study 2, weighted difference stratified by RF status at baseline and ≥ 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |  | Response | Placebo + MTX Retreatment n = 157 | RITUXAN + MTX Retreatment n = 318 | Treatment Difference (RITUXAN – Placebo)In Study 2, all patients received a first course of RITUXAN 2 × 1000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either RITUXAN 2 × 1000 mg + MTX or placebo + MTX at or after Week 24.,Since all patients received a first course of RITUXAN, no comparison between Placebo + MTX and RITUXAN + MTX is made at Week 24., (95% CI) |
+| Response | Placebo + MTX n = 201 | RITUXAN + MTX n = 298 | Treatment Difference (RITUXAN – Placebo)For RA Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive > 20 IU/mL, negative < 20 IU/mL) at baseline; For RA Study 2, weighted difference stratified by RF status at baseline and ≥ 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |  | Response | Placebo + MTX Retreatment n = 157 | RITUXAN + MTX Retreatment n = 318 | Treatment Difference (RITUXAN – Placebo)In RA Study 2, all patients received a first course of RITUXAN 2 × 1000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either RITUXAN 2 × 1000 mg + MTX or placebo + MTX at or after Week 24.,Since all patients received a first course of RITUXAN, no comparison between Placebo + MTX and RITUXAN + MTX is made at Week 24., (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Inadequate Response to TNF Antagonists |  |  |  |  |  |  |  |  |
 | Study 1 24 Week Placebo-Controlled (Week 24) |  |  |  |  | Study 2 Placebo-Controlled Retreatment (Week 24 and Week 48) |  |  |  |
@@ -220,9 +220,9 @@ Table 10 ACR Responses in Study 1 and Study 2 (Percent of Patients) (Modified In
 | Week 24 | 1% | 12% | 11% (7%, 15%) |  | Week 24 | 11% | 8% | NA |
 |  |  |  |  |  | Week 48 | 13% | 14% | 1% (-5%, 8%) |
 
-Improvement was also noted for all components of ACR response following treatment with RITUXAN, as shown in Table 11.
+Improvement was also noted for all components of ACR response following treatment with RITUXAN, as shown in Table 12.
 
-Table 11 Components of ACR Response at Week 24 in Study 1 (Modified Intent-to-Treat Population)
+Table 12 Components of ACR Response at Week 24 in RA Study 1 (Modified Intent-to-Treat Population)
 
 | Baseline | Wk 24 | Baseline | Wk 24 |  |
 | --- | --- | --- | --- | --- |
@@ -236,21 +236,21 @@ Table 11 Components of ACR Response at Week 24 in Study 1 (Modified Intent-to-Tr
 | Disability Index (HAQ)Disability Index of the Health Assessment Questionnaire: 0 = best, 3 = worst. | 2.0 | 1.9 | 1.9 | 1.5 |
 | CRP (mg/dL) | 2.4 | 2.5 | 2.6 | 0.9 |
 
-The time course of ACR 20 response for Study 1 is shown in Figure 2.
+The time course of ACR 20 response for RA Study 1 is shown in Figure 2.
 Although both treatment groups received a brief course of intravenous and oral glucocorticoids, resulting in similar benefits at Week 4, higher ACR 20 responses were observed for the RITUXAN group by Week 8.
 A similar proportion of patients achieved these responses through Week 24 after a single course of treatment (2 infusions) with RITUXAN.
 Similar patterns were demonstrated for ACR 50 and 70 responses.
 
 | Figure 2 |
 | --- |
-| Percent of Patients Achieving ACR 20 Response by VisitThe same patients may not have responded at each time point. Study 1 (Inadequate Response to TNF Antagonists) |
+| Percent of Patients Achieving ACR 20 Response by VisitThe same patients may not have responded at each time point. RA Study 1 (Inadequate Response to TNF Antagonists) |
 
 Radiographic Response
 
 In RA Study 1, structural joint damage was assessed radiographically and expressed as changes in Genant-modified Total Sharp Score (TSS) and its components, the erosion score (ES) and the joint space narrowing (JSN) score.
-RITUXAN + MTX slowed the progression of structural damage compared to placebo + MTX after 1 year as shown in Table 12.
+RITUXAN + MTX slowed the progression of structural damage compared to placebo + MTX after 1 year as shown in Table 13.
 
-Table 12 Mean Radiographic Change From Baseline to 104 Weeks
+Table 13 Mean Radiographic Change From Baseline to 104 Weeks in RA Study 1
 
 | Parameter | RITUXAN 2 × 1000 mg + MTXPatients received up to 2 years of treatment with RITUXAN + MTX. | Placebo + MTXPatients receiving Placebo + MTX. Patients receiving Placebo + MTX could have received retreatment with RITUXAN + MTX from Week 16 onward. | Treatment Difference (Placebo – RITUXAN) | 95% CI |
 | --- | --- | --- | --- | --- |
@@ -265,7 +265,7 @@ Table 12 Mean Radiographic Change From Baseline to 104 Weeks
 | JSN Score | 0.20 | 0.42 | — | — |
 
 In RA Study 1 and its open-label extension, 70% of patients initially randomized to RITUXAN + MTX and 72% of patients initially randomized to placebo + MTX were evaluated radiographically at Year 2.
-As shown in Table 12, progression of structural damage in RITUXAN + MTX patients was further reduced in the second year of treatment.
+As shown in Table 13, progression of structural damage in RITUXAN + MTX patients was further reduced in the second year of treatment.
 
 Following 2 years of treatment with RITUXAN + MTX, 57% of patients had no progression of structural damage.
 During the first year, 60% of RITUXAN + MTX treated patients had no progression, defined as a change in TSS of zero or less compared to baseline, compared to 46% of placebo + MTX treated patients.
@@ -286,11 +286,11 @@ RA Study 4 (NCT00299130) is a randomized, double-blind, placebo-controlled study
 Patients were randomized to receive an initial course of RITUXAN 500 mg, RITUXAN 1000 mg, or placebo in addition to background MTX.
 
 Physical function was assessed at Weeks 24 and 48 using the Health Assessment Questionnaire Disability Index (HAQ-DI).
-From baseline to Week 24, a greater proportion of RITUXAN-treated patients had an improvement in HAQ-DI of at least 0.22 (a minimal clinically important difference) and a greater mean HAQ-DI improvement compared to placebo, as shown in Table 13.
+From baseline to Week 24, a greater proportion of RITUXAN-treated patients had an improvement in HAQ-DI of at least 0.22 (a minimal clinically important difference) and a greater mean HAQ-DI improvement compared to placebo, as shown in Table 14.
 HAQ-DI results for the RITUXAN 500 mg treatment group were similar to the RITUXAN 1000 mg treatment group; however radiographic responses were not assessed (see Dosing Precaution in the Radiographic Responses section above).
 These improvements were maintained at 48 weeks.
 
-Table 13 Improvement from Baseline in Health Assessment Questionnaire Disability Index (HAQ-DI) at Week 24 in Study 4
+Table 14 Improvement from Baseline in Health Assessment Questionnaire Disability Index (HAQ-DI) at Week 24 in RA Study 4
 
 |  | Placebo + MTX n = 172 | RITUXAN 2 × 1000 mg + MTX n = 170 | Treatment Difference (RITUXAN – Placebo)Adjusted difference stratified by region (US, rest of the world) and rheumatoid factor (RF) status (positive ≥ 20 IU/mL, negative < 20 IU/mL) at baseline. (95% CI) |
 | --- | --- | --- | --- |
@@ -299,9 +299,9 @@ Table 13 Improvement from Baseline in Health Assessment Questionnaire Disability
 
 ## 14.7 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
-Induction Treatment of Patients with Active Disease (GPA/MPA Study 1)
+Induction Treatment of Adult Patients with Active Disease (GPA/MPA Study 1)
 
-A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculitides) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
+A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculitides) were treated in a randomized, double-blind, active-controlled, multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
 Patients were 15 years of age or older, diagnosed with GPA (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
 All patients had active disease, with a Birmingham Vasculitis Activity Score for Granulomatosis with Polyangiitis (BVAS/GPA) ≥ 3, and their disease was severe, with at least one major item on the BVAS/GPA.
 Ninety-six (49%) of patients had new disease and 101 (51%) of patients had relapsing disease.
@@ -314,14 +314,14 @@ Once remission was achieved or at the end of the 6 month remission induction per
 The RITUXAN group did not receive additional therapy to maintain remission.
 The main outcome measure for both GPA and MPA patients was achievement of complete remission at 6 months defined as a BVAS/GPA of 0, and off glucocorticoid therapy.
 The pre-specified non-inferiority margin was a treatment difference of 20%.
-As shown in Table 14, the study demonstrated non-inferiority of RITUXAN to cyclophosphamide for complete remission at 6 months.
+As shown in Table 15, the study demonstrated non-inferiority of RITUXAN to cyclophosphamide for complete remission at 6 months.
 
-Table 14 Percentage of Patients Who Achieved Complete Remission at 6 Months (Intent-to-Treat Population)
+Table 15 Percentage of Patients with GPA/MPA Who Achieved Complete Remission at 6 Months (Intent-to-Treat Population)
 
 |  | RITUXAN (n = 99) | Cyclophosphamide (n = 98) | Treatment Difference (RITUXAN – Cyclophosphamide) |
 | --- | --- | --- | --- |
 | Rate | 64% | 53% | 11% |
-| 95.1%The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. CI | (54%, 73%) | (43%, 63%) | (-3%, 24%) non-inferiority was demonstrated because the lower bound was higher than the prespecified non-inferiority margin (–3% > –20%). |
+| 95.1%The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. CI | (54%, 73%) | (43%, 63%) | (-3%, 24%) Non-inferiority was demonstrated because the lower bound was higher than the prespecified non-inferiority margin (-3% > -20%). |
 
 Complete Remission (CR) at 12 and 18 months
 
@@ -332,7 +332,7 @@ Retreatment of Flares with RITUXAN
 
 Based upon investigator judgment, 15 patients received a second course of RITUXAN therapy for treatment of relapse of disease activity which occurred between 8 and 17 months after the induction treatment course of RITUXAN.
 
-Follow up Treatment of Patients with GPA/MPA who have achieved disease control with other Immunosuppressant (GPA/MPA Study 2)
+Follow up Treatment of Adult Patients with GPA/MPA who have achieved disease control with other Immunosuppressant (GPA/MPA Study 2)
 
 A total of 115 patients (86 with GPA, 24 with MPA, and 5 with renal-limited ANCA-associated vasculitis) in disease remission were randomized to receive azathioprine (58 patients) or non-U.S.-licensed rituximab (57 patients) in this open-label, prospective, multi-center, randomized, active-controlled study.
 Eligible patients were 21 years and older and had either newly diagnosed (80%) or relapsing disease (20%).
@@ -352,13 +352,53 @@ By month 28, major relapse occurred in 3 patients (5%) in the non-U.S.-licensed 
 
 The observed cumulative incidence rate of first major relapse during the 28 months was lower in patients on non-U.S.-licensed rituximab relative to azathioprine (Figure 3).
 
-| Figure 3 Cumulative Incidence Over Time of First Major Relapse |
+| Figure 3 Cumulative Incidence Over Time of First Major Relapse in Patients with GPA/MPA |
 | --- |
 | Patients were censored at the last follow-up dates if they had no event |
 
+Treatment of Pediatric Patients (GPA/MPA Study 4)
+
+The study design consisted of an initial 6-month remission induction phase, and a minimum 12-month follow-up phase up to a maximum of 54 months (4.5 years) in pediatric patients 2 years to 17 years of age with GPA and MPA.
+Patients were to receive a minimum of 3 doses of intravenous methylprednisolone (30 mg/kg/day, not exceeding 1g/day) prior to the first RITUXAN or non-U.S.-licensed rituximab intravenous infusion.
+If clinically indicated, additional daily doses (up to three), of intravenous methylprednisolone could be given.
+The remission induction regimen consisted of four once weekly intravenous infusions of RITUXAN or non-U.S.-licensed rituximab at a dose of 375 mg/m2 BSA, on study days 1, 8, 15 and 22 in combination with oral prednisolone or prednisone at 1 mg/kg/day (max 60 mg/day) tapered to 0.2 mg/kg/day minimum (max 10 mg/day) by Month 6.
+After the remission induction phase, patients could receive subsequent RITUXAN or non-U.S.-licensed rituximab intravenous infusions on or after Month 6 to maintain remission and control disease activity.
+
+The primary objectives of this study were to evaluate safety and PK parameters in pediatric GPA and MPA patients (2 years to 17 years of age).
+The efficacy objectives of the study were exploratory and principally assessed using the Pediatric Vasculitis Activity Score (PVAS).
+
+A total of 25 pediatric patients 6 years to 17 years of age with active GPA and MPA were treated with RITUXAN or non-U.S.-licensed rituximab in a multicenter, open-label, single-arm, uncontrolled study (NCT01750697).
+The median age of patients in the study was 14 years and the majority of patients (20/25 [80%]) were female.
+A total of 19 patients (76%) had GPA and 6 patients (24%) had MPA at baseline.
+Eighteen patients (72%) had newly diagnosed disease upon study entry (13 patients with GPA and 5 patients with MPA) and 7 patients had relapsing disease (6 patients with GPA and 1 patient with MPA).
+
+All 25 patients completed all four once weekly intravenous infusions for the 6-month remission induction phase.
+A total of 24 out of 25 patients completed at least 18 months from Day 1 (baseline).
+
+The exploratory efficacy using the PVAS is described in Table 16.
+
+Table 16 Percentage of Patients Who Achieved PVAS Remission by Month 6, 12 and 18 (GPA/MPA Study 4)
+
+|  | Month 6 n=25 | Month 12 n = 25 | Month 18 n = 25 |
+| --- | --- | --- | --- |
+|  | Time to Follow Up Since Day 1 |  |  |
+| Response rate | 56% | 92% | 100% |
+| 95% CIThe efficacy results are exploratory and no formal statistical testing was performed for these endpoints | (34.9%, 75.6%) | (74.0%, 99.0%) | (86.3%, 100.0%) |
+| *PVAS remission is defined by a PVAS of 0 and achieved glucocorticoid taper to 0.2 mg/kg/day (or 10 mg/day, whichever is lower), or a PVAS of 0 on two consecutive readings ≥4 weeks apart irrespective of glucocorticoid dose |  |  |  |
+
+Follow-Up Treatment
+
+After the 6-month remission induction phase, patients who had not achieved remission or who had progressive disease or flare that could not be controlled by glucocorticoids alone received additional treatment for GPA and MPA, that could include RITUXAN or non-U.S.-licensed rituximab and/or other therapies, at the discretion of the investigator.
+Planned follow-up was until Month 18 (from Day 1).
+
+Fourteen out of 25 patients (56%) received additional RITUXAN or non-U.S.-licensed rituximab treatment at or post Month 6, up to Month 18.
+Five of these patients received four once weekly doses (375 mg/m2) of intravenous RITUXAN or non-U.S.-licensed rituximab approximately every 6 months; 5 of these patients received a single dose (375 mg/m2) of RITUXAN or non-U.S.-licensed rituximab every 6 months, and 4 of these patients received various other RITUXAN or non-U.S.-licensed rituximab doses/regimens according to investigator.
+Of the 14 patients who received follow-up treatment between Month 6 and Month 18, 4 patients first achieved remission between Months 6 and 12 and 1 patient first achieved remission between Months 12 and 18.
+Nine of these 14 patients achieved PVAS remission by Month 6 but required additional follow-up treatment after Month 6.
+
 ## 14.8 Pemphigus Vulgaris (PV)
 
-Non-U.S.-licensed rituximab in combination with short-term prednisone was compared to prednisone monotherapy as first-line treatment in 90 newly diagnosed adult patients with moderate to severe pemphigus (74 Pemphigus Vulgaris [PV] and 16 Pemphigus Foliaceus [PF]) in this randomized, open-label, controlled, multicenter study.
+Non-U.S.-licensed rituximab in combination with short-term prednisone was compared to prednisone monotherapy as first-line treatment in 90 newly diagnosed adult patients with moderate to severe pemphigus (74 Pemphigus Vulgaris [PV] and 16 Pemphigus Foliaceus [PF]) in this randomized, open-label, controlled, multicenter study (PV Study 1).
 Patients were between 19 and 79 years of age and had not received prior therapies for pemphigus.
 In the PV population, 5 (13%) patients in the group treated with non-U.S.-licensed rituximab and 3 (8%) patients in the prednisone group had moderate disease and 33 (87%) patients in the group treated with non-U.S.-licensed rituximab and 33 (92%) patients in the prednisone group had severe disease according to disease severity defined by Harman's criteria.
 
@@ -373,9 +413,9 @@ Maintenance and relapse infusions were administered no sooner than 16 weeks foll
 
 The primary endpoint for the study was complete remission (complete epithelialization and absence of new and/or established lesions) at Month 24 without the use of prednisone therapy for 2 months or more (CRoff for ≥2 months).
 
-The results of the trial are presented in Table 15.
+The results of the trial are presented in Table 17.
 
-Table 15 Percentage of Pemphigus Patients in Complete Remission Off Corticosteroid Therapy for Two Months or More (CRoff ≥ 2 months) at Month 24 (Intent-to-Treat Population)
+Table 17 Percentage of Pemphigus Patients in Complete Remission Off Corticosteroid Therapy for Two Months or More (CRoff ≥ 2 months) at Month 24, PV Study 1 (Intent-to-Treat Population)
 
 |  | Non-U.S.-licensed rituximab + short-term prednisone N=46 | Prednisone N=44 |
 | --- | --- | --- |
