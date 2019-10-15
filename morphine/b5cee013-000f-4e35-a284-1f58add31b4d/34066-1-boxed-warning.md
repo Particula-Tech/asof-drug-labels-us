@@ -1,11 +1,11 @@
 # WARNING: ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTION WITH ALCOHOL; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
-Addiction, Abuse, and Misuse KADIAN exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Addiction, Abuse, and Misuse KADIAN® exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing KADIAN, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
-To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administratation (FDA) has required a REMS for these products [see Warnings and Precautions (5.2)].
+To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.2)].
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to
 
@@ -15,9 +15,11 @@ Healthcare providers are strongly encouraged to
 
 • emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, and
 
-• consider other tools to impove patient, household, and community safety.
+• consider other tools to improve patient, household, and community safety.
 
-Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of KADIAN.
+Life-Threatening Respiratory Depression
+
+Serious, life-threatening, or fatal respiratory depression may occur with use of KADIAN.
 Monitor for respiratory depression, especially during initiation of KADIAN or following a dose increase.
 Instruct patients to swallow KADIAN capsules whole or to sprinkle the contents of the capsule on applesauce and swallow immediately without chewing.
 Crushing, chewing, or dissolving the pellets in KADIAN capsules can cause rapid release and absorption of a potentially fatal dose of morphine [see Warnings and Precautions (5.3)].

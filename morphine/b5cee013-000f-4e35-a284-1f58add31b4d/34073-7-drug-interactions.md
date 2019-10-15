@@ -15,7 +15,7 @@ Table 1: Clinically Significant Drug Interactions with KADIAN
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue KADIAN if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.7)]. |
 | Intervention: | Do not use KADIAN in patients taking MAOIs or within 14 days of stopping such treatment. |
@@ -36,6 +36,6 @@ Table 1: Clinically Significant Drug Interactions with KADIAN
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
 | Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when KADIAN is used concomitantly with anticholinergic drugs. |
-| P-Glycoprotein (PGP–Inhibitors) |  |
+| P-Glycoprotein (PGP-Inhibitors) |  |
 | Clinical Impact: | The concomitant use of PGP-inhibitors can increase the exposure to morphine by about two-fold and can increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of KADIAN and/or the PGP-inhibitor as necessary. |

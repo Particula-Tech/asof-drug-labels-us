@@ -79,7 +79,7 @@ Risk Summary
 Morphine is present in breast milk.
 Published lactation studies report variable concentrations of morphine in breast milk with administration of immediate-release morphine to nursing mothers in the early postpartum period with a milk-to-plasma morphine AUC ratio of 2.5:1 measured in one lactation study.
 However, there is insufficient information to determine the effects of morphine on the breastfed infant and the effects of morphine on milk production.
-Lactation studies have not been conducted with extended –release morphine, including KADIAN.
+Lactation studies have not been conducted with extended-release morphine, including KADIAN.
 
 Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with KADIAN.
 

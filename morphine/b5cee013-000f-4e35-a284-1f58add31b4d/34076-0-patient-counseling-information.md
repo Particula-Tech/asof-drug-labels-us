@@ -1,6 +1,15 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instruction for use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store KADIAN securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving KADIAN unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused KADIAN should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse
 
@@ -15,7 +24,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store KADIAN securely and to dispose of unused KADIAN by flushing the unused capsules down the toilet.
 
 Interactions with Alcohol
 
@@ -48,10 +56,13 @@ Important Administration Instructions
 
 Instruct patients how to properly take KADIAN, including the following:
 
-- Swallow KADIAN capsules whole or sprinkling the capsule contents on applesauce and then swallow immediately without chewing [see Dosage and Administration (2.1, 2.5)]
-- DO not crush, chew, or dissolve the pellets contained in the capsules due to a risk of fatal morphine overdose [see Dosage and Administration (2.1)]
-- Use KADIAN exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)]
-- Do not discontinue KADIAN without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)]
+- Swallow KADIAN capsules whole or sprinkling the capsule contents on applesauce and then swallow immediately without chewing [see Dosage and Administration (2.1, 2.5)].
+- Do not crush, chew, or dissolve the pellets contained in the capsules due to a risk of fatal morphine overdose [see Dosage and Administration (2.1)].
+- Use KADIAN exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue KADIAN without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -91,10 +102,6 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Disposal of Unused KADIAN
-
-Advise patients to flush the unused capsules down the toilet when KADIAN is no longer needed.
-
 For all medical inquiries contact: Allergan USA, Inc. Medical Communications 1-800-678-1605
 
 Distributed by:
@@ -103,7 +110,9 @@ Allergan USA, Inc.
 
 Madison, NJ 07940
 
-© 2018 Allergan.
+© 2019 Allergan.
 All rights reserved.
 
-v1.0USPI6011
+KADIAN® is a registered trademark of Allergan Sales, LLC.
+
+v2.0USPI6011

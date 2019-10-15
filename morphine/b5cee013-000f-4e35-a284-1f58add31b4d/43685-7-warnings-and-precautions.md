@@ -21,17 +21,20 @@ Consider these risks when prescribing or dispensing KADIAN.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+## 5.2Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for HealthCare Providers Involved in the Management or Support of Patients with Pain.
-- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
-  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
-- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
-- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+• Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
+
+• Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+
+• Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+
+• Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
 To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
 The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
@@ -50,6 +53,10 @@ To reduce the risk of respiratory depression, proper dosing and titration of KAD
 Overestimating the KADIAN dosage when converting patients from another opioid product can result in fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of KADIAN, especially by children, can result in respiratory depression and death due to an overdose of morphine.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
@@ -134,11 +141,11 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist analgesics (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including KADIAN.
-In these patients, mixed agonists/antagonists and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue KADIAN in a patient physically dependent on opioids.When discontinuing KADIAN in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of morphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing KADIAN, gradually taper the dosage [see Dosage and Administration (2.3)].
-Do not abruptly discontinue KADIAN [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist analgesics (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including KADIAN.
+In these patients, mixed agonists/antagonists and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

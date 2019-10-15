@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-KADIAN is contraindicated in patients with
+KADIAN is contraindicated in patients with:
 
 - Significant respiratory depression [see Warnings and Precautions (5.3)]
 - Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.6)]

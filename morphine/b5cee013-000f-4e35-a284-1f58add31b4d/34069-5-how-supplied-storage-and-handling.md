@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-KADIAN capsules contain white to off-white or tan colored polymer coated extended-release pellets of morphine sulfate and are available in nine dose strengths.
+KADIAN® extended-release capsules contain white to off-white or tan colored polymer coated extended-release pellets of morphine sulfate and are available in nine dose strengths.
 
 |  | KADIAN 10 mg | KADIAN 20 mg | KADIAN 30 mg | KADIAN 40 mg |
 | --- | --- | --- | --- | --- |
@@ -20,6 +20,8 @@ KADIAN capsules contain white to off-white or tan colored polymer coated extende
 | Bottle Size | 60 | 60 |
 | NDC # | NDC 0023-6018-60 | NDC 0023-6019-60 |
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F)[see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 Protect from light and moisture.
 Dispense in a sealed tamper-evident, childproof, light-resistant container.
+
+Store KADIAN securely and dispose of properly [see Patient Counseling Information (17)].

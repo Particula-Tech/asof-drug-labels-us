@@ -2,9 +2,9 @@ Instructions For Use
 
 KADIAN® (key-dee-uhn)
 
-(morphine sulfate) extended-release Capsules, CII
+(morphine sulfate) Extended-Release Capsules, CII
 
-If you cannot swallow KADIAN capsules, tell your healthcare provider.
+If you cannot swallow KADIAN® capsules, tell your healthcare provider.
 There may be another way to take KADIAN that may be right for you.
 If your healthcare provider tells you that you can take KADIAN using this other way, follow these steps:
 
@@ -25,6 +25,11 @@ Distributed by:
 Allergan USA, Inc.
 
 Madison, NJ 07940
+
+© 2019 Allergan.
+All rights reserved.
+
+KADIAN® is a registered trademark of Allergan Sales, LLC.
 
 Revised: 12/2016
 
