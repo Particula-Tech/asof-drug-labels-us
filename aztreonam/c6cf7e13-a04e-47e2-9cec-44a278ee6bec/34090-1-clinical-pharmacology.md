@@ -6,15 +6,16 @@ Single 3-minute intravenous injections of the same doses resulted in serum level
 Serum concentrations of aztreonam in healthy subjects following completion of single intramuscular injections of 500 mg and 1 g doses are depicted in Figure 1; maximum serum concentrations occur at about 1 hour.
 After identical single intravenous or intramuscular doses of aztreonam for injection, the serum concentrations of aztreonam are comparable at 1 hour (1.5 hours from start of intravenous infusion) with similar slopes of serum concentrations thereafter.
 
-The serum levels of aztreonam following single 500 mg or 1 g (intramuscular or intravenous) or 2 g (intravenous) doses of aztreonam for injection exceed the MIC90 for Neisseria sp., Haemophilus influenzae and most genera of the Enterobacteriaceae for 8 hours (for Enterobacter sp., the 8-hour serum levels exceed the MIC for 80% of strains).
-For Pseudomonas aeruginosa, a single 2 g intravenous dose produces serum levels that exceed the MIC90 for approximately 4 to 6 hours.
-All of the above doses of aztreonam for injection result in average urine levels of aztreonam that exceed the MIC90 for the same pathogens for up to 12 hours.
+The serum levels of aztreonam following single 500 mg or 1 g (intramuscular or intravenous) or 2 g (intravenous) doses of aztreonam for injection exceed the MIC 90 for Neisseria sp., Haemophilus influenzae and most genera of the Enterobacteriaceae for 8 hours (for Enterobacter sp., the 8-hour serum levels exceed the MIC for 80% of strains).
+For Pseudomonas aeruginosa, a single 2 g intravenous dose produces serum levels that exceed the MIC 90 for approximately 4 to 6 hours.
+All of the above doses of aztreonam for injection result in average urine levels of aztreonam that exceed the MIC 90 for the same pathogens for up to 12 hours.
 
 When aztreonam pharmacokinetics were assessed for adult and pediatric patients, they were found to be comparable (down to 9 months old).
 The serum half-life of aztreonam averaged 1.7 hours (1.5 to 2) in subjects with normal renal function, independent of the dose and route of administration.
 In healthy subjects, based on a 70 kg person, the serum clearance was 91 mL/min and renal clearance was 56 mL/min; the apparent mean volume of distribution at steady-state averaged 12.6 liters, approximately equivalent to extracellular fluid volume.
 
-In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.1-4 The dosage of aztreonam for injection should be adjusted accordingly (see DOSAGE AND ADMINISTRATION,Renal Impairment in Adult Patients).
+In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.
+1-4 The dosage of aztreonam for injection should be adjusted accordingly (see DOSAGE AND ADMINISTRATION,Renal Impairment in Adult Patients).
 
 In patients with impaired renal function, the serum half-life of aztreonam is prolonged (see DOSAGE AND ADMINISTRATION,Renal Impairment in Adult Patients).
 The serum half-life of aztreonam is only slightly prolonged in patients with hepatic impairment since the liver is a minor pathway of excretion.
@@ -31,12 +32,12 @@ Unchanged aztreonam and the inactive beta-lactam ring hydrolysis product of aztr
 Intravenous or intramuscular administration of a single 500 mg or 1 g dose of aztreonam for injection every 8 hours for 7 days to healthy subjects produced no apparent accumulation of aztreonam or modification of its disposition characteristics; serum protein binding averaged 56% and was independent of dose.
 An average of about 6% of a 1 g intramuscular dose was excreted as a microbiologically inactive open beta-lactam ring hydrolysis product (serum half-life approximately 26 hours) of aztreonam in the 0 to 8 hour urine collection on the last day of multiple dosing.
 
-Renal function was monitored in healthy subjects given aztreonam; standard tests (serum creatinine, creatinine clearance, BUN, urinalysis and total urinary protein excretion) as well as special tests (excretion of N-acetyl-ß-glucosaminidase, alanine aminopeptidase and ß2- microglobulin) were used.
+Renal function was monitored in healthy subjects given aztreonam; standard tests (serum creatinine, creatinine clearance, BUN, urinalysis and total urinary protein excretion) as well as special tests (excretion of N-acetyl-ß-glucosaminidase, alanine aminopeptidase and ß 2- microglobulin) were used.
 No abnormal results were obtained.
 
 Aztreonam achieves measurable concentrations in the following body fluids and tissues:
 
-Table 1: Extravascular Concentrations of Aztreonam After a Single Parenteral Dosea
+Table 1: Extravascular Concentrations of Aztreonam After a Single Parenteral Dose a
 
 | Fluid or Tissue | Dose (g) | Route | Hours Post-injection | Number of Patients | Mean Concentration (mcg/mL or mcg/g) |
 | --- | --- | --- | --- | --- | --- |
@@ -149,16 +150,18 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Dilution Techniques
 
-Quantitative methods are used to determine antimicrobial MICs.1-3 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+Quantitative methods are used to determine antimicrobial MICs.
+1-3 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method6 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of aztreonam powder.
+Standardized procedures are based on a dilution method 6 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of aztreonam powder.
 The MIC values should be interpreted according to the criteria in Table 2.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.6,7 This procedure uses paper disks impregnated with 30 mcg aztreonam to test the susceptibility of microorganisms to aztreonam.
+The zone size should be determined using a standardized test method.
+6,7 This procedure uses paper disks impregnated with 30 mcg aztreonam to test the susceptibility of microorganisms to aztreonam.
 The disk diffusion interpretive criteria are provided in Table 2.
 
 Table 2: Susceptibility Test Interpretive Criteria for Aztreonam
@@ -167,7 +170,7 @@ Table 2: Susceptibility Test Interpretive Criteria for Aztreonam
 | --- | --- | --- | --- | --- | --- | --- |
 | (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |
 | Enterobacteriaceae | ≤ 4 | 8 | ≥ 16 | ≥ 21 | 18 to 20 | ≤ 17 |
-| Haemophilus influenzaea | ≤ 2 | — | — | ≥ 26 | — | — |
+| Haemophilus influenzae a | ≤ 2 | — | — | ≥ 26 | — | — |
 | Pseudomonas aeruginosa | ≤ 8 | 16 | ≥ 32 | ≥ 22 | 16 to 21 | ≤ 15 |
 
 a The current absence of data on resistant isolates precludes defining any category other than “Susceptible”.
@@ -175,7 +178,8 @@ If isolates yield MIC results other than susceptible, they should be submitted t
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.6-8 Standard aztreonam powder should provide the following range of MIC values noted in Table 3.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.
+6-8 Standard aztreonam powder should provide the following range of MIC values noted in Table 3.
 For the diffusion technique using the 30 mcg disk, the criteria in Table 3 should be achieved.
 
 Table 3: Acceptable Quality Control Ranges for Aztreonam

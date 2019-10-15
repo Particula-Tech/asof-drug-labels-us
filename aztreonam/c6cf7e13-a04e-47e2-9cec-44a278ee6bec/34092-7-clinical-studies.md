@@ -6,7 +6,7 @@ A total of 612 pediatric patients aged 1 month to 12 years were enrolled in unco
 
 General
 
-Upon the addition of the diluent to the container, contents should be shaken immediatelyand vigorously.
+Upon the addition of the diluent to the container, contents should be shaken immediately and vigorously.
 Constituted solutions are not for multiple-dose use; should the entire volume in the container not be used for a single dose, the unused solution must be discarded.
 
 Depending upon the concentration of aztreonam and diluent used, constituted aztreonam for injection yields a colorless to light straw yellow solution which may develop a slight pink tint on standing (potency is not affected).
@@ -48,25 +48,25 @@ Dextrose and Sodium Chloride Injection, USP, 5%:0.9%,
 
 Sodium Lactate Injection, USP (M/6 Sodium Lactate)
 
-Ionosol® B and 5% Dextrose
+Ionosol ® B and 5% Dextrose
 
-Isolyte® E
+Isolyte ® E
 
-Isolyte® E with 5% Dextrose
+Isolyte ® E with 5% Dextrose
 
-Isolyte® M with 5% Dextrose
+Isolyte ® M with 5% Dextrose
 
-Normosol®-R
+Normosol ®-R
 
-Normosol®-R and 5% Dextrose
+Normosol ®-R and 5% Dextrose
 
-Normosol®-M and 5% Dextrose
+Normosol ®-M and 5% Dextrose
 
 Mannitol Injection, USP, 5% or 10%
 
 Lactated Ringer’s and 5% Dextrose Injection
 
-Plasma-Lyte® M and 5% Dextrose
+Plasma-Lyte ® M and 5% Dextrose
 
 ## Intramuscular Solutions
 
@@ -92,7 +92,7 @@ Aztreonam for Injection, USP, solutions at concentrations exceeding 2% w/v, exce
 Bolus Injection
 
 A bolus injection may be used to initiate therapy.
-The dose should be slowlyinjected directly into a vein, or the tubing of a suitable administration set, over a period of 3 to 5 minutes (see next paragraph regarding flushing of tubing).
+The dose should be slowly injected directly into a vein, or the tubing of a suitable administration set, over a period of 3 to 5 minutes (see next paragraph regarding flushing of tubing).
 
 Infusion
 

@@ -8,13 +8,13 @@ Aztreonam for Injection is indicated for the treatment of the following infectio
 
 Urinary Tract Infections (complicated and uncomplicated), including pyelonephritis and cystitis (initial and recurrent) caused by Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Enterobacter cloacae, Klebsiella oxytoca*, Citrobacter species* and Serratia marcescens*.
 
-Lower Respiratory Tract Infections, including pneumonia and bronchitis caused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Haemophilus influenzae, Proteus mirabilis, Enterobacter species and Serratia marcescens*.
+Lower Respiratory Tract Infectio ns, including pneumonia and bronchitis caused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Haemophilus influenzae, Proteus mirabilis, Enterobacter species and Serratia marcescens*.
 
-Septicemiacaused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Proteus mirabilis*, Serratia marcescens* and Enterobacter species.
+Septicemia caused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Proteus mirabilis*, Serratia marcescens* and Enterobacter species.
 
 Skin and Skin-Structure Infections, including those associated with postoperative wounds, ulcers and burns caused by Escherichia coli, Proteus mirabilis, Serratia marcescens, Enterobacter species, Pseudomonas aeruginosa, Klebsiella pneumoniae and Citrobacter species*.
 
-Intra-abdominal Infections, including peritonitis caused by Escherichia coli, Klebsiella species including K. pneumoniae, Enterobacter species including E. cloacae*, Pseudomonas aeruginosa, Citrobacter species* including C. freundii* and Serratia species* including S. marcescens*.
+Intra-abdominal Infect ions, including peritonitis caused by Escherichia coli, Klebsiella species including K. pneumoniae, Enterobacter species including E. cloacae*, Pseudomonas aeruginosa, Citrobacter species* including C. freundii* and Serratia species* including S. marcescens*.
 
 Gynecologic Infections, including endometritis and pelvic cellulitis caused by Escherichia coli, Klebsiella pneumoniae*, Enterobacter species* including E. cloacae* and Proteus mirabilis*.
 
