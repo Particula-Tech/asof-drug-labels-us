@@ -57,7 +57,7 @@ Administration of 100 mg of oseltamivir phosphate twice daily (about 1.3 times t
 
 Population-derived pharmacokinetic parameters were determined for patients with varying degrees of renal function including ESRD patients on hemodialysis.
 Median simulated exposures of oseltamivir carboxylate for recommended treatment and prophylaxis regimens are provided in Table 7.
-The pharmacokinetics of oseltamivir have not been studied in ESRD patients not undergoing dialysis [see Indications and Usage (1.3) and Use in Specific Populations (8.6)].
+The pharmacokinetics of oseltamivir have not been studied in ESRD patients not undergoing dialysis [see Indications and Usage (1.3), and Use in Specific Populations (8.6)].
 
 Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate in Patients with Normal Renal Function, with Renal Impairment and ESRD Patients on Hemodialysis
 
@@ -78,11 +78,11 @@ Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate i
 
 In continuous ambulatory peritoneal dialysis (CAPD) patients, the peak concentration of oseltamivir carboxylate following a single 30 mg dose of oseltamivir or once weekly oseltamivir was approximately 3-fold higher than in patients with normal renal function who received 75 mg twice daily.
 The plasma concentration of oseltamivir carboxylate on Day 5 (147 ng/mL) following a single 30 mg dose in CAPD patients is similar to the predicted Cmin (160 ng/mL) in patients with normal renal function following 75 mg twice daily.
-Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168 hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
+Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168-hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
 
 Hepatic Impairment
 
-In clinical studies oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Use in Specific Populations (8.7)].
+In clinical studies, oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Use in Specific Populations (8.7)].
 
 Pregnant Women
 
@@ -130,9 +130,7 @@ The median IC50 values of oseltamivir against influenza A/H1N1, influenza A/H3N2
 Antiviral Activity
 
 The antiviral activity of oseltamivir carboxylate against laboratory strains and clinical isolates of influenza virus was determined in cell culture.
-The concentrations of oseltamivir carboxylate required for inhibition of influenza virus in cell culture were highly variable depending on the assay method
-
-used and the virus tested.
+The concentrations of oseltamivir carboxylate required for inhibition of influenza virus in cell culture were highly variable depending on the assay method used and the virus tested.
 The 50% and 90% effective concentrations (EC50 and EC90) were in the range of 0.0008 micromolar to greater than 35 micromolar and 0.004 micromolar to greater than 100 micromolar, respectively (1 micromolar =0.284 microgram per mL).
 The relationship between the antiviral activity in cell culture, inhibitory activity in the neuraminidase assay, and the inhibition of influenza virus replication in humans has not been established.
 
@@ -145,7 +143,7 @@ Clinical studies: Reduced susceptibility isolates have been obtained during trea
 Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
 The clinical impact of this reduced susceptibility is unknown.
 
-Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173G, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
+Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173E, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
 In some cases, HA substitutions were selected in conjunction with known NA resistance substitutions and may contribute to reduced susceptibility to oseltamivir; however, the impact of HA substitutions on antiviral activity of oseltamivir in humans is unknown and likely to be strain-dependent.
 
 Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptibility to Oseltamivir
@@ -162,11 +160,16 @@ Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptib
 * All numbering is N2, except where indicated
 
 Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
-The incidence of oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at rates of 27 to 37% and 3 to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
+Oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at frequencies of 27 to 37% and 3 to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
+
+In immunocompromised adults and pediatrics (1 year of age and older), selection of influenza viruses resistant to oseltamivir can occur at higher frequencies than in the otherwise healthy population.
+In a treatment study of immunocompromised subjects, treatment-associated genotype resistance was detected in 27% (8/30), 12% (6/52), and 0% (0/42) of influenza A/H1N1, A/H3N2, and B virus infections, respectively.
+Treatment-emergent resistance was observed at a higher frequency in hematopoietic stem cell transplant recipients (32%; 6/19).
+
 The frequency of resistance selection to oseltamivir and the prevalence of such resistant virus vary seasonally and geographically.
 
 Circulating seasonal influenza strains expressing neuraminidase resistance-associated substitutions have been observed in individuals who have not received oseltamivir treatment.
-The oseltamivir resistance- associated substitution H275Y was found in more than 99% of US circulating 2008 H1N1 influenza virus isolates.
+The oseltamivir resistance-associated substitution H275Y was found in more than 99% of US circulating 2008 H1N1 influenza virus isolates.
 The 2009 H1N1 influenza virus ("swine flu") was almost uniformly susceptible to oseltamivir; however, the frequency of circulating resistant variants can change from season to season.
 Prescribers should consider available information from the CDC on influenza virus drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate for oral suspension.
 

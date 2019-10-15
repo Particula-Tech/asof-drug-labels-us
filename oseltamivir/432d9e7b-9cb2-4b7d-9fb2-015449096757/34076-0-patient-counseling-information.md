@@ -32,7 +32,7 @@ Oseltamivir Phosphate for Oral Suspension
 
 Manufactured by:
 
-Nesher Pharmaceuticals
+Nesher Pharmaceuticals (USA) LLC.
 
 St. Louis, MO 63044
 
@@ -42,10 +42,10 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-P10291-5
+P10291-7
 
 Rev.
-04/2018
+08/2019
 
 PATIENT INFORMATION
 
@@ -139,11 +139,13 @@ These are not all of the possible side effects of oseltamivir phosphate for oral
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store oseltamivir phosphate for oral suspension?
+How should I store Oseltamivir Phosphate for Oral Suspension?
 
-- Store oseltamivir phosphate for oral suspension in the refrigerator for up to 17 days between 36°F to 46°F (2°C to 8°C)
+- Store oseltamivir phosphate for oral suspension in the refrigerator for up to 17 days between 36°F to 46°F (2°C to 8°C).
+  Do not freeze.
 - Store oseltamivir phosphate for oral suspension for up to 10 days at room temperature between 68°F to 77°F (20°C to 25°C).
 - Safely throw away any unused oseltamivir phosphate for oral suspension that is out of date or no longer needed.
+- Oseltamivir phosphate for oral suspension comes in a child-resistant package.
 
 Keep oseltamivir phosphate for oral suspension and all medicines out of the reach of children.
 
@@ -174,13 +176,13 @@ St. Louis, MO 63044
 
 Distributed by:
 
-Zydus Pharmaceuticals USA LLC
+Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 06/2016
+Revised 08/2019
 
 Instructions For Use
 
@@ -207,6 +209,6 @@ Close the bottle with the child-resistant bottle cap after each use.
 Step 6.
 Rinse oral dosing dispenser under running tap water and allow to air dry after each use.
 
-This Instructions for Use have been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised 06/2016
+Revised 08/2019

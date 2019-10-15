@@ -18,7 +18,7 @@ The majority of these adverse reactions were reported on a single occasion, occu
 This summary includes otherwise healthy adults/adolescents and subjects "at risk" (subjects at higher risk of developing complications associated with influenza, e.g., elderly patients and patients with chronic cardiac or respiratory disease).
 In general, the safety profile in the subjects "at risk" was qualitatively similar to that in otherwise healthy adults/adolscents.
 
-Table 5 Adverse Reactions Occurring in ≥1% of Adults and Adolescents (13 years of age and older) in Treatment and Prophylaxis TrialsAdverse reactions that occurred in ≥1% of oseltamivir phosphate-treated adults and adolescents and ≥1% greater in oseltamivir phosphate-treated subjects compared to placebo-treated subjects in either the treatments or prophylaxis trials.
+Table 5 Adverse Reactions Occurring in ≥1% of Adults and Adolescents (13 years of age and older) in Treatment and Prophylaxis TrialsAdverse reactions that occurred in ≥1% of oseltamivir phosphate-treated adults and adolescents and ≥1% greater in oseltamivir phosphate-treated subjects compared to placebo-treated subjects in either the treatment or prophylaxis trials.
 
 | System Organ Class | Treatment Trials |  | Prophylaxis Trials |  |
 | --- | --- | --- | --- | --- |

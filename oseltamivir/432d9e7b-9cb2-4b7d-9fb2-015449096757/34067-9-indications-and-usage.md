@@ -6,7 +6,7 @@ Oseltamivir Phosphate for Oral Suspension is indicated for the treatment of acut
 
 ## 1.2 Prophylaxis of Influenza
 
-Oseltamivir Phosphate for Oral Suspension is indicated for the prophylaxis of influenza in patients 1 year and older.
+Oseltamivir Phosphate for Oral Suspension is indicated for the prophylaxis of influenza A and B in patients 1 year and older.
 
 ## 1.3 Limitations of Use
 

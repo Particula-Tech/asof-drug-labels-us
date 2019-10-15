@@ -37,7 +37,7 @@ Some seasonal variability was noted in the clinical efficacy outcomes.
 
 Pediatric Subjects (1 year to 12 years of age)
 
-One double-blind placebo-controlled treatment trial was conducted in pediatric subjects aged 1 year to 12 years (median age 5 years), who had fever (at least 100°F) plus one respiratory symptom (cough or corzya) when influenza virus was known to be circulating in the community.
+One double-blind placebo-controlled treatment trial was conducted in pediatric subjects aged 1 year to 12 years (median age 5 years) who had fever (at least 100°F) plus one respiratory symptom (cough or corzya) when influenza virus was known to be circulating in the community.
 Of 698 subjects enrolled in this trial, 452 (65%) were influenza-infected subjects, 67% were infected with influenza A and 33% with influenza B.
 
 Efficacy in this trial was determined by the time to alleviation or resolution of influenza signs and symptoms, measured by a composite endpoint that required the following four individual conditions be met: i) alleviation of cough, ii) alleviation of corzya, iii) resolution of fever, and iv) parental opinion of a return to normal health and activity.

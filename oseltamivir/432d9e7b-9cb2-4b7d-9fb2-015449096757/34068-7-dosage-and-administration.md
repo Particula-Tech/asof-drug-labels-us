@@ -20,7 +20,7 @@ Initiate treatment with oseltamivir phosphate for oral suspension within 48 hour
 
 Adults and Adolescents (13 years of age and older)
 
-The recommended oral dose of oseltamivir phosphate for oral suspension for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (12.5 mL of oral suspension twice daily) for 5 days.
+The recommended oral dosage of oseltamivir phosphate for oral suspension for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (12.5 mL of oral suspension twice daily) for 5 days.
 
 Pediatric Patients (2 weeks of age through 12 years of age)
 
