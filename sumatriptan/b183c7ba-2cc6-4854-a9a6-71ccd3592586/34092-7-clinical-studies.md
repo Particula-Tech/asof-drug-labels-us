@@ -10,7 +10,7 @@ In Study 1, 6 different doses of sumatriptan succinate injection (n = 30 each gr
 Table 2.
 Proportion of Subjects with Migraine Relief and Incidence of Adverse Events by Time and by Sumatriptan Succinate Dose in Study 1
 
-| Dose of Sumatriptan Injection | Percent Subjects with Reliefa |  |  |  | Adverse Events Incidence (%) |
+| Dose of Sumatriptan Injection | Percent Subjects with Relief a |  |  |  | Adverse Events Incidence (%) |
 | --- | --- | --- | --- | --- | --- |
 | at 10 Minutes | at 30 Minutes | at 1 Hour | at 2 Hours |  |  |
 | Placebo 1 mg 2 mg 3 mg 4 mg 6 mg 8 mg | 5 10 7 17 13 10 23 | 15 40 23 47 37 63 57 | 24 43 57 57 50 73 80 | 21 40 43 60 57 70 83 | 55 63 63 77 80 83 93 |
@@ -29,12 +29,12 @@ Proportion of Subjects with Pain Relief and Relief of Migraine Symptoms after 1 
 | 1-Hour Data | Study2 |  | Study 3 |  |
 | --- | --- | --- | --- | --- |
 | Placebo (n = 190) | Sumatriptan Succinate 6 mg (n = 384) | Placebo (n = 180) | Sumatriptan Succinate 6 mg (n = 350) |  |
-| Subjects with pain relief (grade 0/1) Subjects with no pain Subjects without nausea Subjects without photophobia Subjects with little or no clinical disabilityb | 18% 5% 48% 23% 34% | 70%a 48%a 73%a 56%a 76%a | 26% 13% 50% 25% 34% | 70%a 49%a 73%a 58%a 76%a |
+| Subjects with pain relief (grade 0/1) Subjects with no pain Subjects without nausea Subjects without photophobia Subjects with little or no clinical disability b | 18% 5% 48% 23% 34% | 70% a 48% a 73% a 56% a 76% a | 26% 13% 50% 25% 34% | 70% a 49% a 73% a 58% a 76% a |
 | 2-Hour Data | Study2 |  | Study 3 |  |
-| Placeboc | Sumatriptan Succinate 6 mgd | Placeboc | Sumatriptan Succinate 6 mgd |  |
-| Subjects with pain relief (grade 0/1) Subjects with no pain Subjects without nausea Subjects without photophobia Subjects with little or no clinical disabilityb | 31% 11% 56% 31% 42% | 81%a 63%a 82%a 72%a 85%a | 39% 19% 63% 35% 49% | 82%a 65%a 81%a 71%a 84%a |
+| Placebo c | Sumatriptan Succinate 6 mg d | Placebo c | Sumatriptan Succinate 6 mg d |  |
+| Subjects with pain relief (grade 0/1) Subjects with no pain Subjects without nausea Subjects without photophobia Subjects with little or no clinical disability b | 31% 11% 56% 31% 42% | 81% a 63% a 82% a 72% a 85% a | 39% 19% 63% 35% 49% | 82% a 65% a 81% a 71% a 84% a |
 
-a P<0.05 versus placebo.
+aP<0.05 versus placebo.
 
 b A successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally.
 
@@ -59,16 +59,16 @@ Proportion of Subjects with Cluster Headache Relief by Time in Studies 4 and 5
 |  | Study 4 |  | Study 5 |  |
 | --- | --- | --- | --- | --- |
 | Placebo (n = 39) | Sumatriptan Succinate 6 mg (n = 39) | Placebo (n = 88) | Sumatriptan Succinate 6 mg (n = 92) |  |
-| Subjects with pain relief (no/mild) 5 Minutes post-injection 10 Minutes post-injection 15 Minutes post-injection | 8% 10% 26% | 21% 49%a 74%a | 7% 25% 35% | 23%a 49%a 75%a |
+| Subjects with pain relief (no/mild) 5 Minutes post-injection 10 Minutes post-injection 15 Minutes post-injection | 8% 10% 26% | 21% 49% a 74% a | 7% 25% 35% | 23% a 49% a 75% a |
 
-a P<0.05.
+aP<0.05.
 
 (n = Number of headaches treated.)
 
 An estimate of the cumulative probability of a subject with a cluster headache obtaining relief after being treated with either sumatriptan succinate injection or placebo is presented in Figure 1.
 
 Figure 1.
-Time to Relief of Cluster Headache from Time of Injectiona
+Time to Relief of Cluster Headache from Time of Injection a
 
 a The figure uses Kaplan-Meier (product limit) Survivorship Plot.
 Subjects taking rescue medication were censored at 15 minutes.

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Sumatriptan succinate injection contains sumatriptan succinate, a selective 5-HT1B/1D receptor agonist.
+Sumatriptan succinate injection contains sumatriptan succinate, a selective 5-HT 1B/1D receptor agonist.
 Sumatriptan succinate is chemically designated as 3-[2-(dimethylamino)ethyl]-N-methyl-indole-5-methanesulfonamide succinate (1:1), and it has the following structure:
 
 Sumatriptan succinate is a white to off-white powder that is readily soluble in water and in saline.

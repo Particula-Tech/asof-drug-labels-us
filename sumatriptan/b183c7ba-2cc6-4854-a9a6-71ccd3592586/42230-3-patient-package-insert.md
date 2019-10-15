@@ -57,15 +57,15 @@ Do not take sumatriptan succinate injection if you have:
 - had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
 - taken any of the following medicines in the last 24 hours:
 
-- almotriptan (AXERT®)
-- eletriptan (RELPAX®)
-- frovatriptan (FROVA®)
-- naratriptan (AMERGE®)
-- rizatriptan (MAXALT®, MAXALT-MLT®)
-- sumatriptan and naproxen (TREXIMET®)
-- ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+- almotriptan (AXERT ®)
+- eletriptan (RELPAX ®)
+- frovatriptan (FROVA ®)
+- naratriptan (AMERGE ®)
+- rizatriptan (MAXALT ®, MAXALT-MLT ®)
+- sumatriptan and naproxen (TREXIMET ®)
+- ergotamines (CAFERGOT ®, ERGOMAR ®, MIGERGOT ®)
 - dihydroergotamine (D.H.E.
-  45®, MIGRANAL®)
+  45 ®, MIGRANAL ®)
 
 Ask your healthcare provider if you are not sure if your medicine is listed above.
 

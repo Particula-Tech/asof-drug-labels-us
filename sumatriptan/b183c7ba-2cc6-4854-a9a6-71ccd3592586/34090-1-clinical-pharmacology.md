@@ -2,11 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
-Sumatriptan succinate presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5‑HT1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system.
+Sumatriptan binds with high affinity to human cloned 5-HT 1B/1D receptors.
+Sumatriptan succinate presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5‑HT 1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system.
 
 Current theories proposed to explain the etiology of migraine headache suggest that symptoms are due to local cranial vasodilatation and/or to the release of sensory neuropeptides (including substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system.
-The therapeutic activity of sumatriptan succinate for the treatment of migraine and cluster headaches is thought to be due to the agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels (including the arterio-venous anastomoses) and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
+The therapeutic activity of sumatriptan succinate for the treatment of migraine and cluster headaches is thought to be due to the agonist effects at the 5-HT 1B/1D receptors on intracranial blood vessels (including the arterio-venous anastomoses) and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
 
 ## 12.2 Pharmacodynamics
 
@@ -20,9 +20,9 @@ Heart Rate: Transient increases in blood pressure observed in some subjects in c
 
 Absorption and Bioavailability: The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97% ± 16% of that obtained following intravenous injection.
 
-After a single 6 mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age: 24 ± 6 years, weight: 70 kg), the maximum serum concentration (Cmax) of sumatriptan was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range: 5 to 20 minutes).
-In this trial, the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by autoinjector techniques.
-The Tmax or amount absorbed was not significantly altered by either the site or technique of injection.
+After a single 6 mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age: 24 ± 6 years, weight: 70 kg), the maximum serum concentration (C max) of sumatriptan was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (T max) was 12 minutes after injection (range: 5 to 20 minutes).
+In this trial, the same dose injected subcutaneously in the thigh gave a C max of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by autoinjector techniques.
+The T max or amount absorbed was not significantly altered by either the site or technique of injection.
 
 Distribution: Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
 The effect of sumatriptan on the protein binding of other drugs has not been evaluated.
@@ -45,6 +45,6 @@ There were no significant differences in the pharmacokinetics of subcutaneously 
 The pharmacokinetics of subcutaneously administered sumatriptan in patients with severe hepatic impairment has not been studied.
 The use of sumatriptan succinate injection in this population is contraindicated [see Contraindications (4)].
 
-Race: The systemic clearance and Cmax of sumatriptan were similar in Black (n = 34) and Caucasian (n = 38) healthy male subjects.
+Race: The systemic clearance and C max of sumatriptan were similar in Black (n = 34) and Caucasian (n = 38) healthy male subjects.
 
 Drug Interaction Studies: Monoamine Oxidase-A Inhibitors: In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.

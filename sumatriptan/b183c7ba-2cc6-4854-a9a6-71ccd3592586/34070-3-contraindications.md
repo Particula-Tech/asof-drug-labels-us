@@ -9,7 +9,7 @@ Sumatriptan succinate injection is contraindicated in patients with:
 - Peripheral vascular disease [see Warnings and Precautions (5.5)].
 - Ischemic bowel disease [see Warnings and Precautions (5.5)].
 - Uncontrolled hypertension [see Warnings and Precautions (5.8)].
-- Recent (i.e., within 24 hours) use of ergotamine-containing medication, ergot-type medication (such as dihydroergotamine or methysergide), or another 5‑hydroxytryptamine1 (5-HT1) agonist [see Drug Interactions (7.1, 7.3)].
+- Recent (i.e., within 24 hours) use of ergotamine-containing medication, ergot-type medication (such as dihydroergotamine or methysergide), or another 5‑hydroxytryptamine 1 (5-HT 1) agonist [see Drug Interactions (7.1, 7.3)].
 - Concurrent administration of an MAO-A inhibitor or recent (within 2 weeks) use of an MAO-A inhibitor [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 - Known hypersensitivity to sumatriptan [see Warnings and Precautions (5.9) and Adverse Reactions (6.2)].
 - Severe hepatic impairment [see Clinical Pharmacology (12.3)].

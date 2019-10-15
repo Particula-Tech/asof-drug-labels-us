@@ -5,10 +5,10 @@
 Pregnancy Category C: There are no adequate and well-controlled trials of sumatriptan succinate injection in pregnant women.
 Sumatriptan succinate injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 When sumatriptan was administered intravenously to pregnant rabbits daily throughout the period of organogenesis, embryolethality was observed at doses at or close to those producing maternal toxicity.
-These doses were less than the maximum recommended human dose (MRHD) of 12 mg/day on a mg/m2 basis.
+These doses were less than the maximum recommended human dose (MRHD) of 12 mg/day on a mg/m 2 basis.
 Oral administration of sumatriptan to rabbits during organogenesis was associated with increased incidences of fetal vascular and skeletal abnormalities.
 The highest no-effect dose for these effects was 15 mg/kg/day.
-The intravenous administration of sumatriptan to pregnant rats throughout organogenesis at doses that are approximately 10 times the MRHD on a mg/m2 basis, did not produce evidence of embryolethality.
+The intravenous administration of sumatriptan to pregnant rats throughout organogenesis at doses that are approximately 10 times the MRHD on a mg/m 2 basis, did not produce evidence of embryolethality.
 The subcutaneous administration of sumatriptan to pregnant rats prior to and throughout pregnancy did not produce evidence of embryolethality or teratogenicity.
 
 ## 8.3 Nursing Mothers

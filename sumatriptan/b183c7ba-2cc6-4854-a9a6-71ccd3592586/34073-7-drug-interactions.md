@@ -12,7 +12,7 @@ Therefore, the use of sumatriptan succinate injection in patients receiving MAO-
 
 ## 7.3 Other 5-HT1 Agonists
 
-Because their vasospastic effects may be additive, coadministration of sumatriptan succinate injection and other 5-HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
+Because their vasospastic effects may be additive, coadministration of sumatriptan succinate injection and other 5-HT 1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
 
 ## 7.4 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
 

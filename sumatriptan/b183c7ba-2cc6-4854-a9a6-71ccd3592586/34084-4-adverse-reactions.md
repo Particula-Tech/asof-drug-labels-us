@@ -21,7 +21,7 @@ Migraine Headache: Table 1 lists adverse reactions that occurred in 2 US placebo
 Only reactions that occurred at a frequency of 2% or more in groups treated with sumatriptan succinate injection 6 mg and that occurred at a frequency greater than the placebo group are included in Table 1.
 
 Table 1.
-Adverse Reactions Reported by at Least 2% of Subjects and at a Greater Frequency than Placebo in 2 Placebo-Controlled Migraine Clinical Trials (Studies 2 and 3)a
+Adverse Reactions Reported by at Least 2% of Subjects and at a Greater Frequency than Placebo in 2 Placebo-Controlled Migraine Clinical Trials (Studies 2 and 3) a
 
 | Sumatriptan Succinate Injection 6 mg Subcutaneous (n = 547) | Placebo (n=370) |  |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Adverse Reactions Reported by at Least 2% of Subjects and at a Greater Frequency
 | Cardiovascular Flushing | 7 | 2 |
 | Chest discomfort Tightness in chest Pressure in chest | 5 3 2 | 1 < 1 < 1 |
 | Ear, nose, and throat Throat discomfort Discomfort: nasal cavity/sinuses | 3 2 | < 1 < 1 |
-| Injection site reactionb | 59 | 24 |
+| Injection site reaction b | 59 | 24 |
 | Miscellaneous Jaw discomfort | 2 | 0 |
 | Musculoskeletal Weakness Neck pain/stiffness Myalgia | 5 5 2 | < 1 < 1 < 1 |
 | Neurological Dizziness/vertigo Drowsiness/sedation Headache | 12 3 2 | 4 2 < 1 |
