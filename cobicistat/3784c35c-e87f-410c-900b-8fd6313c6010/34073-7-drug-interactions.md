@@ -10,28 +10,28 @@ Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 an
 The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data.
 
 Coadministration of TYBOST with atazanavir or darunavir with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated.
-Coadministration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 5.
+Coadministration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 6.
 
 ## 7.2 Potential Effect of Concomitant Drugs on the Pharmacokinetics of Cobicistat (Coadministered with Atazanavir or Darunavir)
 
 Cobicistat is metabolized by CYP3A, and to a minor extent, by CYP2D6.
 Atazanavir and darunavir are also metabolized by CYP3A.
 
-Coadministration of TYBOST with atazanavir or darunavir in combination with drugs that induce CYP3A activity have the potential to decrease plasma concentrations of cobicistat, atazanavir, and darunavir, which may lead to loss of therapeutic effect and development of resistance (see Table 5).
+Coadministration of TYBOST with atazanavir or darunavir in combination with drugs that induce CYP3A activity have the potential to decrease plasma concentrations of cobicistat, atazanavir, and darunavir, which may lead to loss of therapeutic effect and development of resistance (see Table 6).
 
-Coadministration of TYBOST with atazanavir or darunavir in combination with other drugs that inhibit CYP3A may further increase the plasma concentrations of cobicistat, atazanavir, and darunavir (see Table 5).
+Coadministration of TYBOST with atazanavir or darunavir in combination with other drugs that inhibit CYP3A may further increase the plasma concentrations of cobicistat, atazanavir, and darunavir (see Table 6).
 
 ## 7.3 Established and Other Potentially Significant Interactions
 
 Coadministration of TYBOST with fosamprenavir, saquinavir, or tipranavir is not recommended because pharmacokinetic data are not available to provide appropriate dosing recommendations.
 Use of TYBOST with lopinavir is not recommended because lopinavir is co-formulated with ritonavir.
 
-Table 5 provides dosing recommendations as a result of drug interactions with TYBOST coadministered with atazanavir or darunavir.
+Table 6 provides dosing recommendations as a result of drug interactions with TYBOST coadministered with atazanavir or darunavir.
 These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of the interaction and potential for serious adverse events or loss of therapeutic effect [see Contraindications (4), Warnings and Precautions (5.3, 5.4), and Clinical Pharmacology (12.3)].
 
-In Table 5, if not specifically stated, the drug interaction information applies to both coadministered agents: TYBOST coadministered with atazanavir or darunavir [see Clinical Pharmacology (12.3)].
+In Table 6, if not specifically stated, the drug interaction information applies to both coadministered agents: TYBOST coadministered with atazanavir or darunavir [see Clinical Pharmacology (12.3)].
 
-In addition to the drug interactions noted in Table 5, TYBOST is not recommended for use in combination with fixed-dose combination tablets that contain cobicistat, lopinavir/ritonavir or regimens containing ritonavir, or in combination with more than one antiretroviral agent that requires pharmacokinetic enhancement [see Warnings and Precautions (5.4)].
+In addition to the drug interactions noted in Table 6, TYBOST is not recommended for use in combination with fixed-dose combination tablets that contain cobicistat, lopinavir/ritonavir or regimens containing ritonavir, or in combination with more than one antiretroviral agent that requires pharmacokinetic enhancement [see Warnings and Precautions (5.4)].
 
 Evaluate whether dosing adjustments of concomitant medications or coadministered antiretroviral drugs are necessary in:
 
@@ -43,7 +43,7 @@ Under these circumstances, also monitor for adverse events and/or monitor concen
 
 No dose adjustment is required when TDF or rilpivirine are coadministered with TYBOST and atazanavir or darunavir.
 
-Table 5 Established and Other Potentially SignificantThis table is not all inclusive.
+Table 6 Established and Other Potentially SignificantThis table is not all inclusive.
 Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction
 
 | Concomitant Drug Class: Drug Name | Potential Effect↑ = Increase, ↓ = Decrease, ↔ = No change | Clinical Comment |

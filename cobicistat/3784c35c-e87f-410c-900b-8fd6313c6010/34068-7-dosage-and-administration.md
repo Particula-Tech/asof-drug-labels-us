@@ -16,16 +16,17 @@ Table 1 Recommended Dosing Regimens in Treatment-Naïve or Treatment-Experienced
 
 ## 2.2 Recommended Dosage in Pediatric Patients
 
-Atazanavir:
+Administer TYBOST in conjunction with atazanavir or darunavir and other antiretroviral agents in the treatment of pediatric patients with HIV-1 infection.
+The recommended dosages of TYBOST and atazanavir or darunavir given with food are based on weight and presented in Table 2.
+TYBOST must be coadministered at the same time as atazanavir or darunavir [see Drug Interactions (7)].
+Consult the prescribing information for atazanavir or darunavir.
 
-Administer TYBOST in conjunction with atazanavir and other antiretroviral agents in the treatment of pediatric patients weighing at least 35 kg with HIV-1 infection.
-The recommended dosages are TYBOST 150 mg orally once daily and atazanavir 300 mg orally once daily given with food.
-TYBOST must be coadministered at the same time as atazanavir [see Drug Interactions (7)].
-Consult the prescribing information for atazanavir.
+Table 2 Recommended Dosing Regimens in Treatment-Naïve or Treatment-Experienced Pediatric Patients
 
-Darunavir:
-
-TYBOST is not recommended in combination with darunavir in pediatric patients [see Use in Specific Populations (8.4)].
+| TYBOST Dosage | Coadministered Agent Dosage | Patient Populations and Weight |
+| --- | --- | --- |
+| 150 mg orally once daily | atazanavir 300 mg orally once daily | Treatment-naïve or treatment-experienced weighing at least 35 kg |
+| darunavir 800 mg orally once daily | Treatment-naïve or treatment-experienced with no darunavir resistance-associated substitutions weighing at least 40 kg |  |
 
 ## 2.3 Testing Prior to Initiation of TYBOST
 

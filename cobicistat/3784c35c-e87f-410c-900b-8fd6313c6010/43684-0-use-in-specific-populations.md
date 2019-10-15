@@ -74,13 +74,16 @@ TYBOST interacts with certain oral contraceptives [see Drug Interactions (7.3)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of TYBOST coadministered with atazanavir and two nucleoside reverse transcriptase inhibitors for the treatment of HIV-1 infection have been established in virologically suppressed pediatric patients weighing at least 35 kg [see Indications and Usage (1.1) and Dosage and Administration (2.2)].
+The safety and effectiveness of TYBOST coadministered with atazanavir or darunavir and two nucleoside reverse transcriptase inhibitors for the treatment of HIV-1 infection have been established in virologically suppressed pediatric patients [see Indications and Usage (1.1) and Dosage and Administration (2.2)]:
+
+- weighing at least 35 kg for TYBOST coadministered with atazanavir or
+- weighing at least 40 kg for TYBOST coadministered with darunavir.
 
 Use of TYBOST for this indication is supported by evidence from adequate and well-controlled studies in adults, and by pharmacokinetic, safety, and virologic data from an open-label trial (Trial 128) in virologically suppressed, HIV-1 infected pediatric subjects aged 12 years and older.
 The safety in these subjects through 48 weeks was similar to that in antiretroviral treatment-naïve adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
 
 Safety and effectiveness of TYBOST in combination with atazanavir in pediatric patients weighing less than 35 kg have not been established.
-Safety and effectiveness of TYBOST in combination with darunavir in pediatric patients have not been established.
+Safety and effectiveness of TYBOST in combination with darunavir in pediatric patients weighing less than 40 kg have not been established.
 
 ## 8.5 Geriatric Use
 
