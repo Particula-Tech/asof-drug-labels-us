@@ -28,7 +28,7 @@ Combined Bacteriological Eradication Rates for Azithromycin:
 
 | (at last completed visit) | Azithromycin |
 | --- | --- |
-| S. pneumoniae | 64/67 (96%)a |
+| S. pneumoniae | 64/67 (96%) a |
 | H. influenzae | 41/43 (95%) |
 | M. catarrhalis | 9/10 |
 | S. aureus | 9/10 |
@@ -39,7 +39,7 @@ The presumed bacteriological outcomes at 10 to 14 days post-therapy for patients
 
 Evidence of Cure +
 
-Infection Total Cure Improved Improved
+InfectionTotalCureImprovedImproved
 
 Mycoplasma pneumoniae 18 11 (61%) 5 (28%) 16 (89%)
 

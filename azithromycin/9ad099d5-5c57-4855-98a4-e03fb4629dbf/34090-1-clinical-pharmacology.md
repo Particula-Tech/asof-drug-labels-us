@@ -2,34 +2,34 @@
 
 ## Pharmacokinetics
 
-In patients hospitalized with community-acquired pneumonia receiving single daily one-hour intravenous infusions for 2 to 5 days of 500 mg azithromycin at a concentration of 2 mg/mL, the mean Cmax ± S.D. achieved was 3.63 ± 1.6 mcg/mL, while the 24-hour trough level was 0.2 ± 0.15 mcg/mL, and the AUC24 was 9.6 ± 4.8 mcg•h/mL.
+In patients hospitalized with community-acquired pneumonia receiving single daily one-hour intravenous infusions for 2 to 5 days of 500 mg azithromycin at a concentration of 2 mg/mL, the mean C max ± S.D. achieved was 3.63 ± 1.6 mcg/mL, while the 24-hour trough level was 0.2 ± 0.15 mcg/mL, and the AUC 24 was 9.6 ± 4.8 mcg•h/mL.
 
-The mean Cmax, 24-hour trough and AUC24 values were 1.14 ± 0.14 mcg/mL, 0.18 ± 0.02 mcg/mL, and 8.03 ± 0.86 mcg•h/mL, respectively, in normal volunteers receiving a 3-hour intravenous infusion of 500 mg azithromycin at a concentration of 1 mg/mL.
+The mean C max, 24-hour trough and AUC 24 values were 1.14 ± 0.14 mcg/mL, 0.18 ± 0.02 mcg/mL, and 8.03 ± 0.86 mcg•h/mL, respectively, in normal volunteers receiving a 3-hour intravenous infusion of 500 mg azithromycin at a concentration of 1 mg/mL.
 Similar pharmacokinetic values were obtained in patients hospitalized with community-acquired pneumonia who received the same 3-hour dosage regimen for 2 to 5 days.
 
-| Plasma concentrations (mcg/mL ± S.D.) after the last daily intravenous infusion of 500 mg azithromycin |  |  |  |  |  |  |  |  |  |
+| Plasma concentrations (mcg/mL ± S.D.)after the last daily intravenous infusion of 500 mg azithromycin |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Infusion Concentration, Duration | Time after starting the infusion (hr) |  |  |  |  |  |  |  |  |
 |  | 0.5 | 1 | 2 | 3 | 4 | 6 | 8 | 12 | 24 |
-| 2 mg/mL, 1 hra | 2.98 ± 1.12 | 3.63 ± 1.73 | 0.6 ± 0.31 | 0.4 ± 0.23 | 0.33 ± 0.16 | 0.26 ± 0.14 | 0.27 ± 0.15 | 0.2 ± 0.12 | 0.2 ± 0.15 |
-| 1 mg/mL, 3 hrb | 0.91 ± 0.13 | 1.02 ± 0.11 | 1.14 ± 0.13 | 1.13 ± 0.16 | 0.32 ± 0.05 | 0.28 ± 0.04 | 0.27 ± 0.03 | 0.22 ± 0.02 | 0.18 ± 0.02 |
+| 2 mg/mL, 1 hr a | 2.98 ± 1.12 | 3.63 ± 1.73 | 0.6 ± 0.31 | 0.4 ± 0.23 | 0.33 ± 0.16 | 0.26 ± 0.14 | 0.27 ± 0.15 | 0.2 ± 0.12 | 0.2 ± 0.15 |
+| 1 mg/mL, 3 hr b | 0.91 ± 0.13 | 1.02 ± 0.11 | 1.14 ± 0.13 | 1.13 ± 0.16 | 0.32 ± 0.05 | 0.28 ± 0.04 | 0.27 ± 0.03 | 0.22 ± 0.02 | 0.18 ± 0.02 |
 
 a = 500 mg (2 mg/mL) for 2 to 5 days in community-acquired pneumonia patients.
 
 b = 500 mg (1 mg/mL) for 5 days in healthy subjects.
 
-The average CLt and Vd values were 10.18 mL/min/kg and 33.3 L/kg, respectively, in 18 normal volunteers receiving 1,000 to 4,000 mg doses given as 1 mg/mL over 2 hours.
+The average CL t and V d values were 10.18 mL/min/kg and 33.3 L/kg, respectively, in 18 normal volunteers receiving 1,000 to 4,000 mg doses given as 1 mg/mL over 2 hours.
 
-Comparison of the plasma pharmacokinetic parameters following the 1st and 5th daily doses of 500 mg intravenous azithromycin showed only an 8% increase in Cmax but a 61% increase in AUC24 reflecting a threefold rise in C24 trough levels.
+Comparison of the plasma pharmacokinetic parameters following the 1st and 5th daily doses of 500 mg intravenous azithromycin showed only an 8% increase in C max but a 61% increase in AUC 24 reflecting a threefold rise in C 24 trough levels.
 
-Following single oral doses of 500 mg azithromycin (two 250 mg capsules) to 12 healthy volunteers, Cmax, trough level, and AUC24 were reported to be 0.41 mcg/mL, 0.05 mcg/mL, and 2.6 mcg•h/mL, respectively.
-These oral values are approximately 38%, 83%, and 52% of the values observed following a single 500 mg IV 3-hour infusion (Cmax: 1.08 mcg/mL, trough: 0.06 mcg/mL, and AUC24: 5 mcg•h/mL).
+Following single oral doses of 500 mg azithromycin (two 250 mg capsules) to 12 healthy volunteers, C max, trough level, and AUC 24 were reported to be 0.41 mcg/mL, 0.05 mcg/mL, and 2.6 mcg•h/mL, respectively.
+These oral values are approximately 38%, 83%, and 52% of the values observed following a single 500 mg IV 3-hour infusion (C max: 1.08 mcg/mL, trough: 0.06 mcg/mL, and AUC 24: 5 mcg•h/mL).
 Thus, plasma concentrations are higher following the intravenous regimen throughout the 24-hour interval.
-The pharmacokinetic parameters on day 5 of azithromycin 250 mg capsules following a 500 mg oral loading dose to healthy young adults (age 18 to 40 years old) were as follows: Cmax: 0.24 mcg/mL, AUC24: 2.1 mcg•h/mL.
+The pharmacokinetic parameters on day 5 of azithromycin 250 mg capsules following a 500 mg oral loading dose to healthy young adults (age 18 to 40 years old) were as follows: C max: 0.24 mcg/mL, AUC 24: 2.1 mcg•h/mL.
 Azithromycin 250 mg capsules are no longer commercially available.
 Azithromycin 250 mg tablets are bioequivalent to 250 mg capsules in the fasting state.
 
-Median azithromycin exposure (AUC0-288) in mononuclear (MN) and polymorphonuclear (PMN) leukocytes following 1,500 mg of oral azithromycin, administered in single daily doses over either 5 days (two 250 mg tablets on day 1, followed by one 250 mg tablet on days 2 to 5) or 3 days (500 mg per day for days 1 to 3) to 12 healthy volunteers, was more than a 1000-fold and 800-fold greater than in serum, respectively.
+Median azithromycin exposure (AUC 0-288) in mononuclear (MN) and polymorphonuclear (PMN) leukocytes following 1,500 mg of oral azithromycin, administered in single daily doses over either 5 days (two 250 mg tablets on day 1, followed by one 250 mg tablet on days 2 to 5) or 3 days (500 mg per day for days 1 to 3) to 12 healthy volunteers, was more than a 1000-fold and 800-fold greater than in serum, respectively.
 
 Distribution
 
@@ -40,7 +40,7 @@ Selected tissue (or fluid) concentration and tissue (or fluid) to plasma/serum c
 
 AZITHROMYCIN CONCENTRATIONS FOLLOWING A 500 mg DOSE (TWO 250 mg CAPSULES) IN ADULTS
 
-| TISSUE OR FLUID | TIME AFTER DOSE (h) | TISSUE OR FLUID CONCENTRATION (mcg/g or mcg/mL)1 | CORRESPONDING PLASMA OR SERUM LEVEL (mcg/mL) | TISSUE (FLUID) PLASMA (SERUM) RATIO1 |
+| TISSUE OR FLUID | TIME AFTER DOSE (h) | TISSUE OR FLUID CONCENTRATION (mcg/g or mcg/mL) 1 | CORRESPONDING PLASMA OR SERUM LEVEL (mcg/mL) | TISSUE (FLUID) PLASMA (SERUM) RATIO 1 |
 | --- | --- | --- | --- | --- |
 | SKIN | 72 to 96 | 0.4 | 0.012 | 35 |
 | LUNG | 72 to 96 | 4 | 0.012 | >100 |
@@ -84,8 +84,8 @@ Special Populations
 Renal Insufficiency
 
 Azithromycin pharmacokinetics were investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
-Following the oral administration of a single 1,000 mg dose of azithromycin, mean Cmax and AUC0-120 increased by 5.1% and 4.2%, respectively in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
-The mean Cmax and AUC0-120 increased 61% and 35%, respectively in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min) (see DOSAGE AND ADMINISTRATION).
+Following the oral administration of a single 1,000 mg dose of azithromycin, mean C max and AUC 0-120 increased by 5.1% and 4.2%, respectively in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
+The mean C max and AUC 0-120 increased 61% and 35%, respectively in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min) (see DOSAGE AND ADMINISTRATION).
 
 Hepatic Insufficiency
 
@@ -114,7 +114,7 @@ Co-administration of azithromycin at therapeutic doses had a modest effect on th
 No dosage adjustment of drugs listed in Table 1 is recommended when co-administered with azithromycin.
 
 Co-administration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
-Nelfinavir significantly increased the Cmax and AUC of azithromycin.
+Nelfinavir significantly increased the C max and AUC of azithromycin.
 No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2 (see PRECAUTIONS, Drug Interactions).
 
 Table 1.
@@ -122,7 +122,7 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 
 | Co-administered Drug | Dose ofCo-administered Drug | Dose ofAzithromycin | n | Ratio (with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
 | --- | --- | --- | --- | --- | --- |
-| Mean Cmax | Mean AUC |  |  |  |  |
+| Mean C max | Mean AUC |  |  |  |  |
 | Atorvastatin | 10 mg/day x 8 days | 500 mg/day PO on days 6 to 8 | 12 | 0.83(0.63 to 1.08) | 1.01(0.81 to 1.25) |
 | Carbamazepine | 200 mg/day x 2 days, then 200 mg BID x 18 days | 500 mg/day PO for days 16 to 18 | 7 | 0.97(0.88 to 1.06) | 0.96(0.88 to 1.06) |
 | Cetirizine | 20 mg/day x 11 days | 500 mg PO on day 7, then 250 mg/day on days 8 to 11 | 14 | 1.03(0.93 to 1.14) | 1.02(0.92 to 1.13) |
@@ -148,11 +148,11 @@ NA – Not Available
 Mean rifabutin concentrations one-half day after the last dose of rifabutin were 60 ng/mL when co-administered with azithromycin and 71 ng/mL when co-administered with placebo.
 
 Table 2.
-Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs (see PRECAUTIONS, Drug Interactions)
+Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs(see PRECAUTIONS, Drug Interactions)
 
 | Co-administered Drug | Dose ofCo-administered Drug | Dose of Azithromycin | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters(90% CI); No Effect = 1 |  |
 | --- | --- | --- | --- | --- | --- |
-| Mean Cmax | Mean AUC |  |  |  |  |
+| Mean C max | Mean AUC |  |  |  |  |
 | Efavirenz | 400 mg/day x 7 days | 600 mg PO on day 7 | 14 | 1.22(1.04 to 1.42) | 0.92* |
 | Fluconazole | 200 mg PO single dose | 1,200 mg PO single dose | 18 | 0.82(0.66 to 1.02) | 1.07(0.94 to 1.22) |
 | Nelfinavir | 750 mg TID x 11 days | 1,200 mg PO on day 9 | 14 | 2.36(1.77 to 3.15) | 2.12(1.8 to 2.5) |
@@ -283,13 +283,13 @@ These reports may differ from susceptibility data obtained from outpatient use, 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1,3 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of azithromycin powder.
+Standardized procedures are based on a dilution method 1,3 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of azithromycin powder.
 The MIC values should be interpreted according to criteria provided in Table 3.
 
 ## Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
+One such standardized procedure 2,3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 15 mcg azithromycin to test the susceptibility of microorganisms to azithromycin.
 The disk diffusion interpretive criteria are provided in Table 3.
 
@@ -299,10 +299,10 @@ Susceptibility Interpretive Criteria for Azithromycin Susceptibility Test Result
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion(zone diameters in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen |  |  |  |  |  |  |
-|  | S | I | Ra | S | I | Ra |
-| Haemophilus influenzae | ≤ 4 | - - | - - | ≥ 12 | - - | - - |
+|  | S | I | R a | S | I | R a |
+| Haemophilusinfluenzae | ≤ 4 | - - | - - | ≥ 12 | - - | - - |
 | Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 18 | 14 to 17 | ≤ 13 |
-| Streptococcus pneumoniaeb | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14 to 17 | ≤ 13 |
+| Streptococcus pneumoniae b | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14 to 17 | ≤ 13 |
 
 aThe current absence of data on resistant strains precludes defining any category other than “susceptible”.
 If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.
@@ -329,7 +329,7 @@ The specific strains used for microbiological quality control are not clinically
 Table 4.
 Acceptable Quality Control Ranges for Azithromycin
 
-| QC Strain | Minimum InhibitoryConcentrations (mcg/mL) | Disk Diffusion(zone diameters in mm) |
+| QC Strain | Minimum InhibitoryConcentrations(mcg/mL) | Disk Diffusion(zone diameters in mm) |
 | --- | --- | --- |
 | Haemophilus influenzaeATCC 49247 | 1 to 4 | 13 to 21 |
 | Staphylococcus aureusATCC 29213 | 0.5 to 2 |  |

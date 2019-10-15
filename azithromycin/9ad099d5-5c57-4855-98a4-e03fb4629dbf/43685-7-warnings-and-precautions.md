@@ -110,7 +110,7 @@ Teratogenic Effects.
 Pregnancy Category B
 
 Reproduction studies have been performed in rats and mice at doses up to moderately maternally toxic dose concentrations (i.e., 200 mg/kg/day by the oral route).
-These doses, based on a mg/m2 basis, are estimated to be 4 and 2 times, respectively, the human daily dose of 500 mg by the oral route.
+These doses, based on a mg/m 2 basis, are estimated to be 4 and 2 times, respectively, the human daily dose of 500 mg by the oral route.
 In the animal studies, no evidence of harm to the fetus due to azithromycin was found.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, azithromycin should be used during pregnancy only if clearly needed.

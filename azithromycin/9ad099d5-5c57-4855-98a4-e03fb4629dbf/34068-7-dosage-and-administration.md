@@ -14,7 +14,7 @@ If anaerobic microorganisms are suspected of contributing to the infection, an a
 Renal Insufficiency
 
 No dosage adjustment is recommended for subjects with renal impairment (GFR ≤80 mL/min).
-The mean AUC0-120 was similar in subjects with GFR 10 to 80 mL/min compared to subjects with normal renal function, whereas it increased 35% in subjects with GFR <10 mL/min compared to subjects with normal renal function.
+The mean AUC 0-120 was similar in subjects with GFR 10 to 80 mL/min compared to subjects with normal renal function, whereas it increased 35% in subjects with GFR <10 mL/min compared to subjects with normal renal function.
 Caution should be exercised when azithromycin is administered to subjects with severe renal impairment (see CLINICAL PHARMACOLOGY, Special Populations, Renal Insufficiency).
 
 Hepatic Insufficiency
@@ -61,13 +61,13 @@ Lactated Ringer’s Solution
 
 5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride)
 
-Normosol®-M in 5% Dextrose
+Normosol ®-M in 5% Dextrose
 
-Normosol®-R in 5% Dextrose
+Normosol ®-R in 5% Dextrose
 
 Final Infusion Solution
 
-Concentration (mg/mL) Amount of Diluent (mL)
+Concentration (mg/mL)Amount of Diluent (mL)
 
 1 mg/mL 500 mL
 
