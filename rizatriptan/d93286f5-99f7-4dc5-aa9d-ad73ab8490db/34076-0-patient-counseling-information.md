@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-Related Events, and Cerebrovascular Events
 
@@ -16,9 +16,9 @@ Pregnancy
 
 Inform patients that MAXALT should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
+Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 
 Ability to Perform Complex Tasks
 

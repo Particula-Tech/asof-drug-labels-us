@@ -60,9 +60,7 @@ Before you take MAXALT, tell your doctor if you:
 - have any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if MAXALT will harm your unborn baby.
-  If you become pregnant while taking MAXALT, talk to your healthcare provider about registering with the pregnancy registry at the Merck National Service Center.
-  You can enroll in this registry by calling 1-800-986-8999.
-  The purpose of this registry is to collect information about the safety of MAXALT in pregnancy.
+  If you become pregnant while taking MAXALT, talk to your healthcare provider.
 - are breastfeeding or plan to breastfeed.
   It is not known if MAXALT passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take MAXALT.
@@ -182,7 +180,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk to your doctor.
 You can ask your pharmacist or doctor for information about MAXALT that is written for health professionals.
 
-For more information, go to www.maxalt.com or call 1-800-986-8999.
+For more information, go to www.maxalt.com.
 
 What are the ingredients in MAXALT?
 
