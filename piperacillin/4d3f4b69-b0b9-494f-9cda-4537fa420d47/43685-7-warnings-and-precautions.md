@@ -20,7 +20,7 @@ If bleeding manifestations occur, piperacillin and tazobactam for injection shou
 
 The leukopenia/neutropenia associated with piperacillin and tazobactam for injection administration appears to be reversible and most frequently associated with prolonged administration.
 
-Periodic assessment of hematopoietic function should be performed, especially with prolonged therapy, ie, ≥ 21 days [see Adverse Reactions (6.1)].
+Periodic assessment of hematopoietic function should be performed, especially with prolonged therapy, i.e., ≥ 21 days [see Adverse Reactions (6.1)].
 
 ## 5.4 Central Nervous System Adverse Reactions
 

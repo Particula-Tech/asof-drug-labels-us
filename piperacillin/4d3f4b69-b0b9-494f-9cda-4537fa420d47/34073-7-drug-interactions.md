@@ -31,8 +31,7 @@ No pharmacokinetic interactions have been noted between piperacillin/tazobactam 
 
 ## 7.4 Anticoagulants
 
-Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function.
-[see Warnings and Precautions (5.3)]
+Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function [see Warnings and Precautions (5.3)].
 
 ## 7.5 Vecuronium
 

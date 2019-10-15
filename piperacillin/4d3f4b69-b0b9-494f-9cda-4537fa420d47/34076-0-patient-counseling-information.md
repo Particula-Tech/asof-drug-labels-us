@@ -20,10 +20,10 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Counsel patients that piperacillin and tazobactam can cross the placenta in humans and is excreted in human milk.
 
-August 2017
+July 2019
 
-46192745
+46252799
 
-Manufactured in Austria by Sandoz GmbH for Hospira, Inc.,
+Manufactured by Sandoz GmbH for Hospira, Inc.
 
 Lake Forest, IL 60045, USA.

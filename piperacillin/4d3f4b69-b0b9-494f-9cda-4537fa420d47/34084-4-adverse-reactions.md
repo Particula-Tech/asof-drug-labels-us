@@ -58,7 +58,7 @@ Twenty-five (11%) patients in the piperacillin/tazobactam group and 14 (6.5%) in
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
-Table 4 Adverse Reactions from Piperacillin and Tazobactam Injection Plus Aminoglycoside Clinical TrialsFor adverse drug reactions that appeared in both studies the higher frequency is presented.
+Table 4 Adverse Reactions from Piperacillin and Tazobactam Injection plus Aminoglycoside Clinical TrialsFor adverse drug reactions that appeared in both studies the higher frequency is presented.
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -120,7 +120,7 @@ Adverse Laboratory Events (Seen During Clinical Trials)
 Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of piperacillin and tazobactam for injection was used in combination with an aminoglycoside, changes in laboratory parameters include:
 
 Hematologic–decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
-These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills).
+These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills)
 
 Coagulation–positive direct Coombs’ test, prolonged prothrombin time, prolonged partial thromboplastin time
 
@@ -132,7 +132,7 @@ Additional laboratory events include abnormalities in electrolytes (i.e., increa
 
 ## 6.2 Post-Marketing Experience
 
-In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during postapproval use of piperacillin and tazobactam for injection.
+In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hepatobiliary–hepatitis, jaundice
@@ -142,6 +142,8 @@ Hematologic–hemolytic anemia, agranulocytosis, pancytopenia
 Immune–hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock)
 
 Renal–interstitial nephritis
+
+Psychiatric disorders - delirium
 
 Respiratory–eosinophilic pneumonia
 
