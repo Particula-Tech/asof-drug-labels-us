@@ -4,7 +4,7 @@ Oxytocin Injection, USP (synthetic) is supplied as follows:
 
 | ProductNo. | NDCNo. | Strength | Volume |
 | --- | --- | --- | --- |
-| NP91201* | 63323-012-01 | 10 USP Units/mL | 1 mL fill in a 3 mL vial, packaged in trays of 25. |
+| NP91201 * | 63323-012-01 | 10 USP Units/mL | 1 mL fill in a 3 mL vial, packaged in trays of 25. |
 
 *Packaged in a plastic vial.
 

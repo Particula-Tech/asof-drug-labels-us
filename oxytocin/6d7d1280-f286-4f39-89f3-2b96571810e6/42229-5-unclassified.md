@@ -12,4 +12,4 @@ Fresenius Kabi USA, LLC Lake Zurich, IL 60047
 
 Revised: July 2013
 
-NOVAPLUS®
+NOVAPLUS ®
