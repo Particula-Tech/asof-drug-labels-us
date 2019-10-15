@@ -28,7 +28,7 @@ Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for t
 
 |  | Placebo (n = 65)* | Sildenafil Citrate 20 mg three times a day (n = 65)* |
 | --- | --- | --- |
-| mPAP (mmHg) | 0.6 (-0.8, 2) | -2.1 (-4.3, 0) |
+| mPAP (mmHg) | 0.6 (-0.8, 2.0) | -2.1 (-4.3, 0.0) |
 | PVR (dyn•s/cm5) | 49 (-54, 153) | -122 (-217, -27) |
 | SVR (dyn•s/cm5) | -78 (-197, 41) | -167 (-307, -26) |
 | RAP (mmHg) | 0.3 (-0.9, 1.5) | -0.8 (-1.9, 0.3) |
@@ -49,7 +49,7 @@ Larger effects were recorded among patients receiving concomitant nitrates [see 
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG.
 After chronic dosing of 80 mg three times a day to patients with PAH, no clinically relevant effects on ECG were reported.
 
-After chronic dosing of 80 mg three times a day sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9 mmHg and 8.4 mmHg, respectively.
+After chronic dosing of 80 mg three times a day sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9.0 mmHg and 8.4 mmHg, respectively.
 
 After chronic dosing of 80 mg three times a day sildenafil to patients with systemic hypertension, the mean change from baseline in systolic and diastolic blood pressures was a decrease of 9.4 mmHg and 9.1 mmHg, respectively.
 
@@ -137,7 +137,7 @@ Population pharmacokinetic analysis of data from patients in clinical trials ind
 Sildenafil exposure at a dose of 80 mg three times a day without concomitant medication is shown to be 5-fold the exposure at a dose of 20 mg three times a day.
 This concentration range covers the same increased sildenafil exposure observed in specifically-designed drug interaction studies with CYP3A inhibitors (except for potent inhibitors such as ketoconazole, itraconazole, and ritonavir).
 
-CYP3A4 Inducers
+CYP3A4 Inducers including Bosentan
 
 Concomitant administration of potent CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.
 

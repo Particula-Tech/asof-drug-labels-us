@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Sildenafil (sil-DEN-a-fil) Tablets, USP
+Sildenafil (sil den’ a fil) Tablets, USP
 
 Read this Patient Information before you start taking sildenafil tablets and each time you get a refill.
 There may be new information.
@@ -33,7 +33,7 @@ Your heart has to work hard to pump blood into your lungs.
 Sildenafil tablets improves the ability to exercise and can slow down worsening changes in your physical condition.
 
 - Sildenafil tablets are not for use in children
-- Adding sildenafil tablets to another medication used to treat PAH, does not result in improvement in your ability to exercise.
+- Adding sildenafil tablets to another medication used to treat PAH, bosentan (Tracleer®) does not result in improvement in your ability to exercise.
 
 Sildenafil tablets contain the same medicine as VIAGRA® (sildenafil), which is used to treat erectile dysfunction (impotence).
 Do not take sildenafil tablets with VIAGRA or other PDE-5 inhibitors.
@@ -59,12 +59,12 @@ Tell your doctor about all of your medical conditions, including if you
 - have an eye problem called retinitis pigmentosa
 - have or had loss of sight in one or both eyes
 - have any problem with the shape of your penis or Peyronie’s disease
-- have any blood cell problems such as sickle cell anemia
+- have any blood cell problems such sickle cell anemia
 - have a stomach ulcer or any bleeding problems
 - are pregnant or planning to become pregnant.
   It is not known if sildenafil tablets could harm your unborn baby.
 - are breastfeeding.
-  It is not known if sildenafil citrate passes into your breast milk or if it could harm your baby.
+  Sildenafil citrate passes into your breast milk, it is not known if it could harm your baby.
 
 Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
 Sildenafil tablets and certain other medicines can cause side effects if you take them together.
@@ -156,9 +156,11 @@ Active ingredients: sildenafil citrate, USP
 Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.
 
 This product’s label may have been updated.
-For current full prescribing information, please visit www.amneal.com
+For current full prescribing information, please visit www.amneal.com.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+All trademarks listed are the property of their respective owner.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Ahmedabad 382220, INDIA
@@ -166,4 +168,4 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2017-04
+09-2019-06
