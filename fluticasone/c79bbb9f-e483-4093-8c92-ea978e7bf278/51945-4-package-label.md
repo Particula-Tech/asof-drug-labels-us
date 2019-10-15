@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - CARTON
+# PRINCIPAL DISPLAY PANEL - Carton - Front Side
 
 NDC 71143-375-01
 
@@ -25,7 +25,7 @@ Usual Dosage: See prescribing information.
 Inactive Ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, 0.02% w/w benzalkonium chloride, polysorbate 80, EDTA, purified water
 
 Distributed by: OptiNose US, Inc. Yardley, PA 19067 Made in Canada.
-XHANCE and OPTINOSE are trademarks or registered trademarks of OptiNose AS. ©2017 OptiNose US, Inc. All rights reserved.
+XHANCE and OPTINOSE are trademarks or registered trademarks of OptiNose AS. ©2019 OptiNose US, Inc. All rights reserved.
 
 For Intranasal Use Only.
 See prescribing information.
@@ -38,4 +38,11 @@ Avoid exposure to extreme heat, cold or light.
 
 LOT ####### EXP XXXXXX SERIAL #
 
-2008227
+2008495
+
+# PRINCIPAL DISPLAY PANEL - Carton - Inside
+
+Read enclosed Instructions for Use
+
+The XHANCE Bottle is made of glass and can be damaged if dropped or hit too hard.
+If you drop or hit XHANCE, call 1.833.678.6673.
