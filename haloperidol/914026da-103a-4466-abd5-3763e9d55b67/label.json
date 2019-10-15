@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075305"
+  ],
+  "inn": "haloperidol",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9295-01",
+    "0143-9296-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "haloperidol decanoate",
+      "name": "Haloperidol Decanoate"
+    }
+  ],
+  "setid": "914026da-103a-4466-abd5-3763e9d55b67",
+  "source": "dailymed"
+}
