@@ -29,7 +29,7 @@ Ritonavir oral solution contains the excipients alcohol and propylene glycol [se
 ## 2.4 Dosage Recommendations in Pediatric Patients
 
 Ritonavir tablets must be used in combination with other antiretroviral agents [see Dosage and Administration (2)].
-The recommended dosage of ritonavir tablets in pediatric patients older than 1 month is 350 to 400 mg per m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.
+The recommended dosage of ritonavir tablets in pediatric patients older than 1 month is 350 mg to 400 mg per m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.
 Ritonavir tablets should be started at 250 mg per m2 twice daily and increased at 2 to 3 day intervals by 50 mg per m2 twice daily.
 If patients do not tolerate 400 mg per m2 twice daily due to adverse events, the highest tolerated dose may be used for maintenance therapy in combination with other antiretroviral agents, however, alternative therapy should be considered [see Dosage and Administration (2.6)].
 
@@ -43,7 +43,8 @@ This is especially important for young children.
 Total amounts of ethanol and propylene glycol from all medicines that are to be given to pediatric patients 1 to 6 months of age should be taken into account in order to avoid toxicity from these excipients [see Warnings and Precautions (5.2) and Overdosage (10)].
 When possible, dose should be administered using a calibrated dosing syringe.
 
-Table 1: Pediatric Dosage Guidelines for Oral Solution*
+Table 1.
+Pediatric Dosage Guidelines for Oral Solution*
 
 | Body Surface Area (m2) | Twice Daily Dose 250 mg per m2 | Twice Daily Dose 300 mg per m2 | Twice Daily Dose 350 mg per m2 | Twice Daily Dose 400 mg per m2 |
 | --- | --- | --- | --- | --- |

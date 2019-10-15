@@ -77,7 +77,7 @@ Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passe
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-For patent information, please visit https://www.amneal.com/products/patent-notices/.
+U.S. Patent No. 10,034,865
 
 Rev.
-01-2019-02
+09-2019-03

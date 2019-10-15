@@ -12,7 +12,7 @@ These interactions may lead to:
 
 When co-administering ritonavir with other protease inhibitors, see the full prescribing information for that protease inhibitor including important Warnings and Precautions.
 
-See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+See Table 4 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during ritonavir therapy; review concomitant medications during ritonavir therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Toxicity in Preterm Neonates
@@ -28,7 +28,7 @@ Total amounts of ethanol and propylene glycol from all medicines that are to be 
 
 ## 5.3 Hepatotoxicity
 
-Hepatic transaminase elevations exceeding 5 times the upper limit of normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretroviral drugs (see Table 4).
+Hepatic transaminase elevations exceeding 5 times the upper limit of normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretroviral drugs (see Table 3).
 There may be an increased risk for transaminase elevations in patients with underlying hepatitis B or C. Therefore, caution should be exercised when administering ritonavir to patients with pre-existing liver diseases, liver enzyme abnormalities, or hepatitis.
 Increased AST/ALT monitoring should be considered in these patients, especially during the first three months of ritonavir treatment [see Use in Specific Populations (8.6)].
 
