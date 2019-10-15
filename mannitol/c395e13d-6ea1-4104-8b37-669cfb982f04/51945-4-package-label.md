@@ -8,7 +8,7 @@ Mannitol Injection, USP
 
 25%
 
-12.5 g/50 mL (250 mg/mL)
+12.5 g/50 mL(250 mg/mL)
 
 For Intravenous Use and Urologic Irrigation
 
