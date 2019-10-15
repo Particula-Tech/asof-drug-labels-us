@@ -30,6 +30,6 @@ Limit the total daily dose in patients with severe hepatic impairment to no more
 
 The use of zolmitriptan orally disintegrating tablets is not recommended in patients with moderate or severe hepatic impairment because these orally disintegrating tablets should not be broken in half [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-## 2.4Dosing in Patients taking Cimetidine
+## 2.4 Dosing in Patients taking Cimetidine
 
 If zolmitriptan orally disintegrating tablets are co-administered with cimetidine, limit the maximum single dose of zolmitriptan orally disintegrating tablets to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Drug Interactions (7.5), Clinical Pharmacology (12.3)].

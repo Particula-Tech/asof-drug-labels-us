@@ -18,7 +18,7 @@ Inform patients about the risk of serotonin syndrome with the use of zolmitripta
 
 Pregnancy
 
-1. Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
+- Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
 Lactation
 
@@ -34,3 +34,22 @@ Instruct patients that prior to dosing, peel open the blister pack and place the
 Patients with Phenylketonuria
 
 Inform patients with phenylketonuria (PKU) that zolmitriptan orally disintegrating tablets contain phenylalanine (a component of aspartame) [see Warnings and Precautions (5.9)].
+
+Manufactured by:
+
+Glenmark Pharmaceuticals Ltd.
+
+Colvale-Bardez, Goa 403513, India
+
+Manufactured for:
+
+Glenmark Pharmaceuticals Inc., USA
+
+Mahwah, NJ 07430
+
+Questions?
+1 (888) 721-7115
+
+www.glenmarkpharma-us.com
+
+August 2019

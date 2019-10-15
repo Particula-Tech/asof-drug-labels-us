@@ -1,4 +1,6 @@
-# Patient Information Zolmitriptan (ZOLE-mi-TRIP-tan) Orally Disintegrating Tablets
+# Patient Information
+
+Zolmitriptan (ZOLE-mi-TRIP-tan) Orally Disintegrating Tablets, USP
 
 Please read this information before you start taking zolmitriptan orally disintegrating tablets and each time you renew your prescription just in case anything has changed.
 Remember, this summary does not take the place of discussions with your doctor.
@@ -130,16 +132,16 @@ This leaflet summarizes the most important information about zolmitriptan orally
 If you would like more information about zolmitriptan orally disintegrating tablets, talk to your doctor.
 You can ask your doctor or pharmacist for information on zolmitriptan orally disintegrating tablets that is written for healthcare professionals.
 
-You can also call 1 (888) 721-7115 or visit our website at www.glenmarkpharma.com/usa.
+You can also call 1 (888) 721-7115 or visit our website at www.glenmarkpharma-us.com.
 
 What are the ingredients in zolmitriptan orally disintegrating tablets?
 
 Active ingredient: zolmitriptan
 
-Inactive ingredients: mannitol, microcrystalline cellulose, crospovidone, aspartame, colloidal silicon dioxide, talc, magnesium stearate and peppermint flavor.
+Inactive ingredients: aspartame, colloidal silicon dioxide, crospovidone, magnesium stearate, mannitol, microcrystalline cellulose, peppermint flavor and talc.
 The peppermint flavor contains corn starch.
 
-Store zolmitriptan orally disintegrating tablets at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
+Store zolmitriptan orally disintegrating tablets at 20°C to 25°C (68°F to 77°F); [see USP Controlled Room Temperature].
 
 Protect from light and moisture.
 Discard when expired.
@@ -151,7 +153,7 @@ Manufactured by:
 
 Glenmark Pharmaceuticals Ltd.
 
-Colvale-Bardez, Goa 403 513, India
+Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
@@ -162,6 +164,6 @@ Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-April 2019
+August 2019

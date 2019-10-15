@@ -36,7 +36,7 @@ Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine C
 | Chest-pain/tightness/pressure and/or heaviness | 1% | 2% | 3% | 4% |
 | Neck/throat/jaw-pain/tightness/pressure | 3% | 4% | 7% | 10% |
 | Heaviness other than chest or neck | 1% | 1% | 2% | 5% |
-| Other- pressure/tightness/heaviness | 0% | 2% | 2% | 2% |
+| Other- Pressure/tightness/heaviness | 0% | 2% | 2% | 2% |
 | DIGESTIVE | 8% | 11% | 16% | 14% |
 | Dry mouth | 2% | 5% | 3% | 3% |
 | Dyspepsia | 1% | 3% | 2% | 1% |
@@ -50,7 +50,7 @@ Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine C
 | Asthenia | 3% | 5% | 3% | 9% |
 | Sweating | 1% | 0% | 2% | 3% |
 
-1. *Only adverse reactions that were at least 2% more frequent in a zolmitriptan group compared to the placebo group are included.
+- *Only adverse reactions that were at least 2% more frequent in a zolmitriptan group compared to the placebo group are included.
 
 There were no differences in the incidence of adverse reactions in controlled clinical trials in the following subgroups: gender, weight, age, use of prophylactic medications, or presence of aura.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.

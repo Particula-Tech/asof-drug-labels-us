@@ -1,7 +1,5 @@
 # 14 CLINICAL STUDIES
 
-[Enter Generic Section here]
-
 ### Zolmitriptan Tablets
 
 The efficacy of zolmitriptan tablets in the acute treatment of migraine headaches was demonstrated in five randomized, double-blind, placebo-controlled studies (Studies 1, 2, 3, 4, and 5), of which two utilized the 1 mg dose, two utilized the 2.5 mg dose and four utilized the 5 mg dose.
