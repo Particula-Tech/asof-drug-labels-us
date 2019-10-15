@@ -58,7 +58,7 @@ Hypertensive patients should avoid medications that may increase blood pressure,
 
 ## Laboratory Tests
 
-Serum electrolytes (particularly potassium), CO2, creatinine and BUN should be determined frequently during the first few months of furosemide therapy and periodically thereafter.
+Serum electrolytes (particularly potassium), CO 2, creatinine and BUN should be determined frequently during the first few months of furosemide therapy and periodically thereafter.
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting profusely or receiving parenteral fluids.
 Abnormalities should be corrected or the drug temporarily withdrawn.
 Other medications may also influence serum electrolytes.
@@ -70,7 +70,7 @@ Urine and blood glucose should be checked periodically in diabetics receiving fu
 Furosemide may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
-In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (see PRECAUTIONS, Pediatric Use).
+In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (see PRECAUTIONS,Pediatric Use).
 
 ## Drug Interactions
 
