@@ -172,3 +172,8 @@ It is advisable to discontinue therapy if such changes are observed.
 Blurred vision may be a significant symptom and warrants a thorough ophthalmological examination.
 Since these changes may be asymptomatic, ophthalmologic examination at periodic intervals is desirable in patients receiving prolonged therapy.
 Indomethacin extended-release capsules are not indicated for long-term treatment.
+
+## 5.16 Risk of Allergic Reactions Due to Tartrazine
+
+This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
+Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.

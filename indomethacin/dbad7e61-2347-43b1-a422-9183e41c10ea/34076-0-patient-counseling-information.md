@@ -50,4 +50,4 @@ Inform patients not to use low-dose aspirin concomitantly with indomethacin imme
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2019-03
+09-2019-04
