@@ -4,7 +4,7 @@ NDC 51672-1297-1
 
 15 g
 
-Clobetasol Propionate Cream (Emollient) USP, 0.05%
+Clobetasol Propionate Cream USP, 0.05% (Emollient)
 
 FOR DERMATOLOGIC USE ONLY.
 NOT FOR OPHTHALMIC USE.

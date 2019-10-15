@@ -35,9 +35,9 @@ Clobetasol propionate is not recommended in patients with acne vulgaris, rosacea
 
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation.
 Clinical diagnosis of allergic contact dermatitis can be confirmed with patch testing.
-If irritation develops, clobetasol propionate cream (emollient) should be discontinued and appropriate therapy instituted.
+If irritation develops, clobetasol propionate cream, 0.05% (emollient) should be discontinued and appropriate therapy instituted.
 
 ## 5.4 Concomitant Skin Infections
 
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
-If a favorable response does not occur promptly, use of clobetasol propionate cream (emollient) should be discontinued until the infection has been adequately controlled.
+If a favorable response does not occur promptly, use of clobetasol propionate cream, 0.05% (emollient) should be discontinued until the infection has been adequately controlled.

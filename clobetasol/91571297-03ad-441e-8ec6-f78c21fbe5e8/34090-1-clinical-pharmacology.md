@@ -10,7 +10,7 @@ Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 ## 12.2 Pharmacodynamics
 
-Clobetasol propionate cream (emollient) 0.05% is in the super-high range of potency as demonstrated in a vasoconstrictor study in healthy subjects when compared with other topical corticosteroids.
+Clobetasol propionate cream, 0.05% (emollient) is in the super-high range of potency as demonstrated in a vasoconstrictor study in healthy subjects when compared with other topical corticosteroids.
 However, similar blanching scores do not necessarily imply therapeutic equivalence.
 
 ## 12.3 Pharmacokinetics
