@@ -1,3 +1,5 @@
+# Medication Guide
+
 Medication Guide
 
 Colchicine (kol' chi seen) Capsules
@@ -130,6 +132,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-C50000043/01
+C50000043/02
 
-February 2018
+July 2019

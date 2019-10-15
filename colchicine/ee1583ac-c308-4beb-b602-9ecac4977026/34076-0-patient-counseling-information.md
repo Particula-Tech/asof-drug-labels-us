@@ -20,6 +20,6 @@ Patients developing any of these signs or symptoms must discontinue colchicine c
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-C50000043/01
+C50000043/02
 
-Revised February 2018
+Revised July 2019
