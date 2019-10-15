@@ -83,7 +83,7 @@ If tobramycin is used during pregnancy or if the patient becomes pregnant while 
 
 ## Pediatric Use
 
-See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION.
+See INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATION.
 
 ## Geriatric Use
 

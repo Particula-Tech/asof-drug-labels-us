@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 The patient’s pretreatment body weight should be obtained for calculation of correct dosage.
-It is desirable to measure both peak and trough serum concentrations (see WARNINGS box and PRECAUTIONS).
+It is desirable to measure both peak and trough serum concentrations (see WARNINGSbox and PRECAUTIONS).
 
 ## Administration for Patients with Normal Renal Function
 

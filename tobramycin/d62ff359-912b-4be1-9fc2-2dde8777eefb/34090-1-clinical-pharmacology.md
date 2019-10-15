@@ -37,7 +37,7 @@ Probenecid does not affect the renal tubular transport of tobramycin.
 Tobramycin acts by inhibiting synthesis of protein in bacterial cells.
 In vitro tests demonstrate that tobramycin is bactericidal.
 
-Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections as described in INDICATIONS AND USAGE section:
+Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections as described in INDICATIONS AND USAGEsection:
 
 Aerobic Gram-positive microorganisms
 
@@ -81,7 +81,8 @@ Cross-resistance between aminoglycosides may occur.
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters give the most precise estimates of susceptibility of bacteria to antimicrobial agents.
-One such procedure is the National Committee for Clinical Laboratory Standards (NCCLS)-approved procedure.1 This method has been recommended for use with disks to test susceptibility to tobramycin.
+One such procedure is the National Committee for Clinical Laboratory Standards (NCCLS)-approved procedure.
+1 This method has been recommended for use with disks to test susceptibility to tobramycin.
 Interpretation involves correlation of the diameters obtained in the disk test with minimum inhibitory concentrations (MIC) for tobramycin.
 
 Reports from the laboratory giving results of the standard single-disk susceptibility test with a 10 mcg tobramycin disk should be interpreted according to the following criteria:
@@ -107,7 +108,7 @@ The 10 mcg tobramycin disk should give the following zone diameters:
 
 Dilution Techniques
 
-Broth and agar dilution methods, such as those recommended by the NCCLS2, may be used to determine MICs of tobramycin.
+Broth and agar dilution methods, such as those recommended by the NCCLS 2, may be used to determine MICs of tobramycin.
 MIC test results should be interpreted according to the following criteria:
 
 | MIC (mcg/mL) | Interpretation |
