@@ -1,6 +1,6 @@
 Rx only
 
-PREMIERProRxTM is a trademark of Premier, Inc., used under license.
+PREMIERProRx TM is a trademark of Premier, Inc., used under license.
 
 Manufactured by:
 
