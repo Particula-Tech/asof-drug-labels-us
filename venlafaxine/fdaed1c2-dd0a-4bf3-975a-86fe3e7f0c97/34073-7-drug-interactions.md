@@ -8,7 +8,7 @@ Additionally, administration of venlafaxine in a stable regimen did not exaggera
 ## 7.2 Cimetidine
 
 Concomitant administration of cimetidine and venlafaxine in a steady-state study for both drugs resulted in inhibition of first-pass metabolism of venlafaxine in 18 healthy subjects.
-The oral clearance of venlafaxine was reduced by about 43%, and the exposure (AUC) and maximum concentration (C max) of the drug were increased by about 60%.
+The oral clearance of venlafaxine was reduced by about 43%, and the exposure (AUC) and maximum concentration (Cmax) of the drug were increased by about 60%.
 However, coadministration of cimetidine had no apparent effect on the pharmacokinetics of ODV, which is present in much greater quantity in the circulation than venlafaxine.
 The overall pharmacological activity of venlafaxine plus ODV is expected to increase only slightly, and no dosage adjustment should be necessary for most normal adults.
 However, for patients with pre-existing hypertension, and for elderly patients or patients with hepatic dysfunction, the interaction associated with the concomitant use of venlafaxine and cimetidine is not known and potentially could be more pronounced.
@@ -22,7 +22,7 @@ Venlafaxine also did not have any effect on the pharmacokinetics of diazepam or 
 ## 7.4 Haloperidol
 
 Venlafaxine administered under steady-state conditions at 150 mg/day in 24 healthy subjects decreased total oral-dose clearance (Cl/F) of a single 2 mg dose of haloperidol by 42%, which resulted in a 70% increase in haloperidol AUC.
-In addition, the haloperidol C max increased 88% when coadministered with venlafaxine, but the haloperidol elimination half-life (t 1/2) was unchanged.
+In addition, the haloperidol Cmax increased 88% when coadministered with venlafaxine, but the haloperidol elimination half-life (t1/2) was unchanged.
 The mechanism explaining this finding is unknown.
 
 ## 7.5 Lithium
@@ -60,7 +60,7 @@ In vitro studies indicate that venlafaxine is a relatively weak inhibitor of CYP
 These findings have been confirmed in a clinical drug interaction study comparing the effect of venlafaxine with that of fluoxetine on the CYP2D6-mediated metabolism of dextromethorphan to dextrorphan.
 
 Imipramine - Venlafaxine did not affect the pharmacokinetics of imipramine and 2-OH-imipramine.
-However, desipramine AUC, C max, and C min increased by about 35% in the presence of venlafaxine.
+However, desipramine AUC, Cmax, and Cmin increased by about 35% in the presence of venlafaxine.
 The 2-OH-desipramine AUC's increased by at least 2.5 fold (with venlafaxine 37.5 mg q12h) and by 4.5 fold (with venlafaxine 75 mg q12h).
 Imipramine did not affect the pharmacokinetics of venlafaxine and ODV.
 The clinical significance of elevated 2-OH-desipramine levels is unknown.
@@ -81,7 +81,8 @@ CYP3A4
 Venlafaxine did not inhibit CYP3A4 in vitro.
 This finding was confirmed in vivo by clinical drug interaction studies in which venlafaxine did not inhibit the metabolism of several CYP3A4 substrates, including alprazolam, diazepam, and terfenadine.
 
-Indinavir - In a study of 9 healthy volunteers, venlafaxine administered under steady-state conditions at 150 mg/day resulted in a 28% decrease in the AUC of a single 800 mg oral dose of indinavir and a 36% decrease in indinavir C max. Indinavir did not affect the pharmacokinetics of venlafaxine and ODV.
+Indinavir - In a study of 9 healthy volunteers, venlafaxine administered under steady-state conditions at 150 mg/day resulted in a 28% decrease in the AUC of a single 800 mg oral dose of indinavir and a 36% decrease in indinavir Cmax.
+Indinavir did not affect the pharmacokinetics of venlafaxine and ODV.
 The clinical significance of this finding is unknown.
 
 CYP1A2

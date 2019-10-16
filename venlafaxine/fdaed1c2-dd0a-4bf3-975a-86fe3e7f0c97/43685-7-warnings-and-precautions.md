@@ -116,7 +116,7 @@ Across most indications, a dose-related increase in supine systolic and diastoli
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Venlafaxine Hydrochloride Extended-Release Capsules mg/day |  |  |  | Placebo |  |
 | ≤75 |  | >75 |  |  |  |  |
-| SSBP 1 | SDBP 2 | SSBP | SDBP | SSBP | SDBP |  |
+| SSBP1 | SDBP2 | SSBP | SDBP | SSBP | SDBP |  |
 | Major Depressive Disorder8-12 weeks | -0.28 | 0.37 | 2.93 | 3.56 | -1.08 | -0.10 |
 | Other Clinical Trials12 weeks | -0.29 | -1.26 | 1.18 | 1.34 | -1.96 | -1.22 |
 

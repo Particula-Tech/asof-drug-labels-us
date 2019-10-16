@@ -6,12 +6,12 @@ Teratogenic Effects
 
 Pregnancy Category C
 
-Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 2.5 times (rat) or 4 times (rabbit) the maximum recommended human daily dose on a mg/m 2 basis.
+Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 2.5 times (rat) or 4 times (rabbit) the maximum recommended human daily dose on a mg/m2 basis.
 
 However, in rats, there was a decrease in pup weight, an increase in stillborn pups, and an increase in pup deaths during the first 5 days of lactation, when dosing began during pregnancy and continued until weaning.
 The cause of these deaths is not known.
-These effects occurred at 2.5 times (mg/m 2) the maximum human daily dose.
-The no effect dose for rat pup mortality was 0.25 times the human dose on a mg/m 2 basis.
+These effects occurred at 2.5 times (mg/m2) the maximum human daily dose.
+The no effect dose for rat pup mortality was 0.25 times the human dose on a mg/m2 basis.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
@@ -72,5 +72,5 @@ In patients with renal impairment (GFR = 10 to 70 mL/min), the clearances of ven
 It is recommended that the total daily dose be reduced by 25% to 50% in patients with renal impairment.
 Because there was much individual variability in clearance between patients with renal impairment, individualization of dosage may be desirable in some patients.
 In patients undergoing hemodialysis, it is recommended that the total daily dose be reduced by 50%.
-[S ee Dosage and Administration (2.3).]
+[See Dosage and Administration (2.3).]
 Venlafaxine Extended Release Tablets, like all drugs effective in the treatment of major depressive disorder, should be used with caution in such patients.
