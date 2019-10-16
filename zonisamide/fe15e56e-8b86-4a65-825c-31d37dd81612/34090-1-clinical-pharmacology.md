@@ -118,7 +118,7 @@ Therefore, if zonisamide is given concomitantly with another carbonic anhydrase 
 
 The effectiveness of zonisamide as adjunctive therapy (added to other antiepilepsy drugs) has been established in three multicenter, placebo-controlled, double blind, 3-month clinical trials (two domestic, one European) in 499 patients with refractory partial onset seizures with or without secondary generalization.
 Each patient had a history of at least four partial onset seizures per month in spite of receiving one or two antiepilepsy drugs at therapeutic concentrations.
-The 499 patients (209 women, 290 men) ranged in age from 13–68 years with a mean age of about 35 years.
+The 499 patients (209 women, 290 men) ranged in age from 13 to 68 years with a mean age of about 35 years.
 In the two US studies, over 80% of patients were Caucasian; 100% of patients in the European study were Caucasian.
 
 Zonisamide or placebo was added to the existing therapy.
@@ -127,17 +127,17 @@ The secondary measure was proportion of patients achieving a 50% or greater seiz
 The results described below are for all partial seizures in the intent-to-treat populations.
 
 In the first study (n = 203), all patients had a 1-month baseline observation period, then received placebo or zonisamide in one of two dose escalation regimens; either 1) 100 mg/day for five weeks, 200 mg/day for one week, 300 mg/day for one week, and then 400 mg/day for five weeks; or 2) 100 mg/day for one week, followed by 200 mg/day for five weeks, then 300 mg/day for one week, then 400 mg/day for five weeks.
-This design allowed a 100 mg vs. placebo comparison over weeks 1–5, and a 200 mg vs. placebo comparison over weeks 2–6; the primary comparison was 400 mg (both escalation groups combined) vs. placebo over weeks 8–12.
+This design allowed a 100 mg vs. placebo comparison over weeks 1 to 5, and a 200 mg vs. placebo comparison over weeks 2 to 6; the primary comparison was 400 mg (both escalation groups combined) vs. placebo over weeks 8 to 12.
 The total daily dose was given as twice a day dosing.
 Statistically significant treatment differences favoring zonisamide were seen for doses of 100, 200, and 400 mg/day.
 
-In the second (n = 152) and third (n = 138) studies, patients had a 2–3 month baseline, then were randomly assigned to placebo or zonisamide for three months.
+In the second (n = 152) and third (n = 138) studies, patients had a 2 to 3 month baseline, then were randomly assigned to placebo or zonisamide for three months.
 Zonisamide was introduced by administering 100 mg/day for the first week, 200 mg/day the second week, then 400 mg/day for two weeks, after which the dose (zonisamide or placebo) could be adjusted as necessary to a maximum dose of 20 mg/kg/day or a maximum plasma level of 40 mcg/mL.
 In the second study, the total daily dose was given as twice a day dosing; in the third study, it was given as a single daily dose.
 The average final maintenance doses received in the studies were 530 and 430 mg/day in the second and third studies, respectively.
 Both studies demonstrated statistically significant differences favoring zonisamide for doses of 400 to 600 mg/day, and there was no apparent difference between once daily and twice daily dosing (in different studies).
 Analysis of the data (first 4 weeks) during titration demonstrated statistically significant differences favoring zonisamide at doses between 100 and 400 mg/day.
-The primary comparison in both trials was for any dose over Weeks 5 – 12.
+The primary comparison in both trials was for any dose over Weeks 5 to 12.
 
 Table 1.
 Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy Analyses: Intent-To-Treat Analysis
@@ -146,11 +146,11 @@ Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy 
 | --- | --- | --- | --- | --- |
 | Zonisamide | Placebo | Zonisamide | Placebo |  |
 | Study 1: | n=98 | n=72 | n=98 | n=72 |
-| Weeks 8-12: | 40.5% | 9% | 41.8% | 22.2% |
+| Weeks 8 to 12: | 40.5%1 | 9% | 41.8%1 | 22.2% |
 | Study 2: | n=69 | n=72 | n=69 | n=72 |
-| Weeks 5-12: | 29.6% | -3.2% | 29% | 15% |
+| Weeks 5 to 12: | 29.6%1 | -3.2% | 29% | 15% |
 | Study 3: | n=67 | n=66 | n=67 | n=66 |
-| Weeks 5-12: | 27.2%1 | -1.1% | 28% | 12% |
+| Weeks 5 to 12: | 27.2%1 | -1.1% | 28%1 | 12% |
 
 Table 2.
 Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
@@ -158,12 +158,12 @@ Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in
 | Dose Group | Median % reduction in partial seizures |  | % Responders |  |
 | --- | --- | --- | --- | --- |
 |  | Zonisamide | Placebo | Zonisamide | Placebo |
-| 100-400 mg/day: | n=112 | n=83 | n=112 | n=83 |
-| Weeks 1-12: | 32.3% | 5.6% | 32.1% | 9.6% |
+| 100 to 400 mg/day: | n=112 | n=83 | n=112 | n=83 |
+| Weeks 1 to 12: | 32.3%1 | 5.6% | 32.1%1 | 9.6% |
 | 100 mg/day: | n=56 | n=80 | n=56 | n=80 |
-| Weeks 1-5: | 24.7% | 8.3% | 25% | 11.3% |
+| Weeks 1 to 5: | 24.7%1 | 8.3% | 25%1 | 11.3% |
 | 200 mg/day: | n=55 | n=82 | n=55 | n=82 |
-| Weeks 2-6: | 20.4% | 4% | 25.5% | 9.8% |
+| Weeks 2 to 6: | 20.4%1 | 4% | 25.5%1 | 9.8% |
 
 Figure 1 presents the proportion of patients (X-axis) whose percentage reduction from baseline in the all partial seizure rate was at least as great as that indicated on the Y-axis in the second and third placebo-controlled trials.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure rate), while a negative value indicates a worsening from baseline (i.e., an increase in seizure rate).
@@ -171,6 +171,6 @@ Thus, in a display of this type, the curve for an effective treatment is shifted
 The proportion of patients achieving any particular level of reduction in seizure rate was consistently higher for the zonisamide groups compared to the placebo groups.
 For example, Figure 1 indicates that approximately 27% of patients treated with zonisamide experienced a 75% or greater reduction, compared to approximately 12% in the placebo groups.
 
-Figure 1: Proportion of Patients Achieving Differing Levels of Seizure Reduction in Zonisamide and Placebo Groups in Studies 2 and 3
+Figure 1 Proportion of Patients Achieving Differing Levels of Seizure Reduction in Zonisamide and Placebo Groups in Studies 2 and 3
 
 No differences in efficacy based on age, sex or race, as measured by a change in seizure frequency from baseline, were detected.

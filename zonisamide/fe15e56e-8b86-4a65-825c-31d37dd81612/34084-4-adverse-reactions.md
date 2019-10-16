@@ -71,41 +71,41 @@ All events are included except those already listed in the previous table or dis
 
 Events are further classified within each category and listed in order of decreasing frequency as follows: frequent occurring in at least 1:100 patients; infrequent occurring in 1:100 to 1:1000 patients; rare occurring in fewer than 1:1000 patients.
 
-Body as a Whole:Frequent: Accidental injury, asthenia.
+Body as a Whole: Frequent: Accidental injury, asthenia.
 Infrequent: Chest pain, flank pain, malaise, allergic reaction, face edema, neck rigidity.
 Rare: Lupus erythematosus.
 
-Cardiovascular:Infrequent: Palpitation, tachycardia, vascular insufficiency, hypotension, hypertension, thrombophlebitis, syncope, bradycardia.
+Cardiovascular: Infrequent: Palpitation, tachycardia, vascular insufficiency, hypotension, hypertension, thrombophlebitis, syncope, bradycardia.
 Rare: Atrial fibrillation, heart failure, pulmonary embolus, ventricular extrasystoles.
 
-Digestive:Frequent: Vomiting.
+Digestive: Frequent: Vomiting.
 Infrequent: Flatulence, gingivitis, gum hyperplasia, gastritis, gastroenteritis, stomatitis, cholelithiasis, glossitis, melena, rectal hemorrhage, ulcerative stomatitis, gastro-duodenal ulcer, dysphagia, gum hemorrhage.
 Rare: Cholangitis, hematemesis, cholecystitis, cholestatic jaundice, colitis, duodenitis, esophagitis, fecal incontinence, mouth ulceration.
 
-Hematologic and Lymphatic:Infrequent: Leukopenia, anemia, immunodeficiency, lymphadenopathy.
+Hematologic and Lymphatic: Infrequent: Leukopenia, anemia, immunodeficiency, lymphadenopathy.
 Rare: Thrombocytopenia, microcytic anemia, petechia.
 
-Metabolic and Nutritional:Infrequent: Peripheral edema, weight gain, edema, thirst, dehydration.
+Metabolic and Nutritional: Infrequent: Peripheral edema, weight gain, edema, thirst, dehydration.
 Rare: Hypoglycemia, hyponatremia, lactic dehydrogenase increased, SGOT increased, SGPT increased.
 
-Musculoskeletal:Infrequent: Leg cramps, myalgia, myasthenia, arthralgia, arthritis.
+Musculoskeletal: Infrequent: Leg cramps, myalgia, myasthenia, arthralgia, arthritis.
 
-Nervous System:Frequent: Tremor, convulsion, abnormal gait, hyperesthesia, incoordination.
+Nervous System: Frequent: Tremor, convulsion, abnormal gait, hyperesthesia, incoordination.
 Infrequent: Hypertonia, twitching, abnormal dreams, vertigo, libido decreased, neuropathy, hyperkinesia, movement disorder, dysarthria, cerebrovascular accident, hypotonia, peripheral neuritis, reflexes increased.
 Rare: Dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
 
-Behavioral Abnormalities –Non-Psychosis-Related:Infrequent: Euphoria.
+Behavioral Abnormalities –Non-Psychosis-Related: Infrequent: Euphoria.
 
-Respiratory:Frequent: Pharyngitis, cough increased.
+Respiratory: Frequent: Pharyngitis, cough increased.
 Infrequent: Dyspnea.
 Rare: Apnea, hemoptysis.
 
-Skin and Appendages:Frequent: Pruritus.
+Skin and Appendages: Frequent: Pruritus.
 Infrequent: Maculopapular rash, acne, alopecia, dry skin, sweating, eczema, urticaria, hirsutism, pustular rash, vesiculobullous rash.
 
-Special Senses:Frequent: Amblyopia, tinnitus.
+Special Senses: Frequent: Amblyopia, tinnitus.
 Infrequent: Conjunctivitis, parosmia, deafness, visual field defect, glaucoma.
 Rare: Photophobia, iritis.
 
-Urogenital:Infrequent: Urinary frequency, dysuria, urinary incontinence, hematuria, impotence, urinary retention, urinary urgency, amenorrhea, polyuria, nocturia.
+Urogenital: Infrequent: Urinary frequency, dysuria, urinary incontinence, hematuria, impotence, urinary retention, urinary urgency, amenorrhea, polyuria, nocturia.
 Rare: Albuminuria, enuresis, bladder pain, bladder calculus, gynecomastia, mastitis, menorrhagia.

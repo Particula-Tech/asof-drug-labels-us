@@ -16,7 +16,7 @@ There were no confirmed cases of SJS or TEN in the US, European, or Japanese dev
 
 In the US and European randomized controlled trials, 6 of 269 (2.2%) zonisamide patients discontinued treatment because of rash compared to none on placebo.
 Across all trials during the US and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12 events per 1000 patient-years of exposure).
-During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2% of patients (27.8 events per 1000 patient years).
+During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2% of patients (27.8 events per 1000 patient-years).
 Rash usually occurred early in treatment, with 85% reported within 16 weeks in the US and European studies and 90% reported within two weeks in the Japanese studies.
 There was no apparent relationship of dose to the occurrence of rash.
 
@@ -70,7 +70,7 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
 Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
@@ -90,7 +90,7 @@ Epilepsy and many other illnesses for which AEDs are prescribed are themselves a
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS, Cognitive/ Neuropsychiatric Adverse Events subsection below).
+Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS, Cognitive/Neuropsychiatric Adverse Events subsection below).
 
 ## Metabolic Acidosis:
 
@@ -118,16 +118,16 @@ If metabolic acidosis develops and persists, consideration should be given to re
 If the decision is made to continue patients on zonisamide in the face of persistent acidosis, alkali treatment should be considered.
 
 Serum bicarbonate was not measured in the adjunctive controlled trials of adults with epilepsy.
-However, serum bicarbonate was studied in three clinical trials for indications which have not been approved: a placebo-controlled trial for migraine prophylaxis in adults, a controlled trial for monotherapy in epilepsy in adults, and an open label trial for adjunctive treatment of epilepsy in pediatric patients (3-16 years).
-In adults, mean serum bicarbonate reductions ranged from approximately 2 mEq/L at daily doses of 100 mg to nearly 4mEq at daily doses of 300 mg.
-In pediatric patients, mean serum bicarbonate reductions ranged from approximately 2 mEq/L at daily doses from above 100mg up to 300 mg, to nearly 4 mEq/L at daily doses from above 400 mg up to 600 mg.
+However, serum bicarbonate was studied in three clinical trials for indications which have not been approved: a placebo-controlled trial for migraine prophylaxis in adults, a controlled trial for monotherapy in epilepsy in adults, and an open label trial for adjunctive treatment of epilepsy in pediatric patients (3 to 16 years).
+In adults, mean serum bicarbonate reductions ranged from approximately 2 mEq/L at daily doses of 100 mg to nearly 4 mEq/L at daily doses of 300 mg.
+In pediatric patients, mean serum bicarbonate reductions ranged from approximately 2 mEq/L at daily doses from above 100 mg up to 300 mg, to nearly 4 mEq/L at daily doses from above 400 mg up to 600 mg.
 
 In two controlled studies in adults, the incidence of a persistent treatment-emergent decrease in serum bicarbonate to less than 20 mEq/L (observed at 2 or more consecutive visits or the final visit) was dose-related at relatively low zonisamide doses.
 In the monotherapy trial of epilepsy, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 21% for daily zonisamide doses of 25 mg or 100 mg, and was 43% at a daily dose of 300 mg.
 In a placebo-controlled trial for prophylaxis of migraine, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 7% for placebo, 29% for 150 mg daily, and 34% for 300 mg daily.
-The incidence of persistent markedly abnormally low serum bicarbonate (decrease to less than 17 mEq/L and more than 5 mEq/L) from a pretreatment value of at least 20 mEq/L in these controlled trials was 2% or less.
+The incidence of persistent markedly abnormally low serum bicarbonate (decrease to less than 17 mEq/L and more than 5 mEq/L from a pretreatment value of at least 20 mEq/L) in these controlled trials was 2% or less.
 
-In the pediatric study, the incidence of persistent, treatment-emergent decreases in serum bicarbonate to levels less than 20 mEq/L was 52%at doses up to 100 mg daily, was 90% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
+In the pediatric study, the incidence of persistent, treatment-emergent decreases in serum bicarbonate to levels less than 20 mEq/L was 52% at doses up to 100 mg daily, was 90% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
 The incidence of a persistent markedly abnormally low serum bicarbonate value was 4% at doses up to 100 mg daily, was 18% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
 Some patients experienced moderately severe serum bicarbonate decrements down to a level as low as 10 mEq/L.
 
@@ -176,7 +176,7 @@ Zonisamide is metabolized by the liver and eliminated by the kidneys; caution sh
 
 ### Kidney Stones:
 
-Among 991 patients treated during the development of zonisamide, 40 patients (4%) with epilepsy receiving zonisamide developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
+Among 991 patients treated during the development of zonisamide, 40 patients (4%) with epilepsy receiving zonisamide developed clinically possible or confirmed kidney stones (e.g., clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
 Of these, 12 were symptomatic, and 28 were described as possible kidney stones based on sonographic detection.
 In nine patients, the diagnosis was confirmed by a passage of a stone or by a definitive sonographic finding.
 The rate of occurrence of kidney stones was 28.7 per 1000 patient-years of exposure in the first six months, 62.6 per 1000 patient-years of exposure between 6 and 12 months, and 24.3 per 1000 patient-years of exposure after 12 months of use.
@@ -196,7 +196,7 @@ In several clinical studies, zonisamide was associated with a statistically sign
 The increase appeared to persist over time but was not progressive; this has been interpreted as an effect on glomerular filtration rate (GFR).
 There were no episodes of unexplained acute renal failure in clinical development in the US, Europe, or Japan.
 The decrease in GFR appeared within the first 4 weeks of treatment.
-In a 30-day study, the GFR returned to baseline within 2–3 weeks of drug discontinuation.
+In a 30-day study, the GFR returned to baseline within 2 to 3 weeks of drug discontinuation.
 There is no information about reversibility, after drug discontinuation, of the effects on GFR after long-term use.
 Zonisamide should be discontinued in patients who develop acute renal failure or a clinically significant sustained increase in the creatinine/BUN concentration.
 Zonisamide should not be used in patients with renal failure (estimated GFR < 50 mL/min) as there has been insufficient experience concerning drug dosing and toxicity.
@@ -218,7 +218,7 @@ Patients should be advised as follows: (See Medication Guide)
    Patients should be advised not to drive a car or operate other complex machinery until they have gained experience on zonisamide sufficient to determine whether it affects their performance.
    Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 2. 2.Patients should contact their physician immediately if a skin rash develops or seizures worsen.
-3. 3.Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine, that could indicate a kidney stone.
+3. 3.Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine that could indicate a kidney stone.
    Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones.
 4. 4.Patients should contact their physician immediately if a child has been taking zonisamide and is not sweating as usual with or without a fever.
 5. 5.Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising.
@@ -248,7 +248,7 @@ Therefore, if zonisamide is given concomitantly with another carbonic anhydrase 
 
 No evidence of carcinogenicity was found in mice or rats following dietary administration of zonisamide for two years at doses of up to 80 mg/kg/day.
 In mice, this dose is approximately equivalent to the maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 basis.
-In rats, this dose is 1– 2 times the MRHD on a mg/m2 basis.
+In rats, this dose is 1 to 2 times the MRHD on a mg/m2 basis.
 
 Zonisamide was mutagenic in an in vitro chromosomal aberration assay in CHL cells.
 Zonisamide was not mutagenic or clastogenic in other in vitro assays (Ames, mouse lymphoma tk assay, chromosomal aberration in human lymphocytes) or in the in vivo rat bone marrow cytogenetics assay.
