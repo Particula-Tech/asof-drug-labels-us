@@ -101,14 +101,15 @@ CYMBALTA should be discontinued before initiating treatment with the MAOI [see D
 If concomitant use of CYMBALTA with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with CYMBALTA and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-## 5.5 Abnormal Bleeding
+## 5.5 Increased Risk of Bleeding
 
-SSRIs and SNRIs, including CYMBALTA, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+Drugs that interfere with serotonin reuptake inhibition, including CYMBALTA, may increase the risk of bleeding events.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+A post-marketing study showed a higher incidence of postpartum hemorrhage in mothers taking duloxetine.
+Other bleeding events related to SSRI and SNRI use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of CYMBALTA and NSAIDs, aspirin, or other drugs that affect coagulation.
+Inform patients about the risk of bleeding associated with the concomitant use of CYMBALTA and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.6 Severe Skin Reactions
 
@@ -220,7 +221,3 @@ If symptoms of urinary hesitation develop during treatment with CYMBALTA, consid
 
 In post marketing experience, cases of urinary retention have been observed.
 In some instances of urinary retention associated with CYMBALTA use, hospitalization and/or catheterization has been needed.
-
-## 5.16 Laboratory Tests
-
-No specific laboratory tests are recommended.

@@ -17,7 +17,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Hyponatremia [see Warnings and Precautions (5.13)]
 - Urinary Hesitation and Retention [see Warnings and Precautions (5.15)]
 
-## 6.1 Clinical Trial Data Sources
+## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -34,7 +34,7 @@ The population studied (N=476) was 7 to 17 years of age with 42.4% children age 
 Patients received 30-120 mg per day during placebo-controlled acute treatment studies.
 Additional data come from the overall total of 822 pediatric patients (age 7 to 17 years of age) with 41.7% children age 7 to 11 years of age and 51.8% female exposed to CYMBALTA in MDD and GAD clinical trials up to 36-weeks in length, in which most patients received 30-120 mg per day.
 
-## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
+Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
 Major Depressive Disorder — Approximately 8.4% (319/3779) of the patients who received CYMBALTA in placebo-controlled trials for MDD discontinued treatment due to an adverse reaction, compared with 4.6% (117/2536) of the patients receiving placebo.
 Nausea (CYMBALTA 1.1%, placebo 0.4%) was the only common adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the CYMBALTA-treated patients and at a rate of at least twice that of placebo).
@@ -54,7 +54,7 @@ Common adverse reactions reported as a reason for discontinuation and considered
 Chronic Low Back Pain — Approximately 16.5% (99/600) of the patients who received CYMBALTA in 13-week, placebo-controlled trials for CLBP discontinued treatment due to an adverse reaction, compared with 6.3% (28/441) for placebo.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (CYMBALTA 3.0%, placebo 0.7%), and somnolence (CYMBALTA 1.0%, placebo 0.0%).
 
-## 6.3 Most Common Adult Adverse Reactions
+Most Common Adult Adverse Reactions
 
 Pooled Trials for all Approved Indications — The most commonly observed adverse reactions in CYMBALTA-treated patients (incidence of at least 5% and at least twice the incidence in placebo patients) were nausea, dry mouth, somnolence, constipation, decreased appetite, and hyperhidrosis.
 
@@ -66,7 +66,7 @@ Chronic Pain due to Osteoarthritis — The most commonly observed adverse reacti
 
 Chronic Low Back Pain — The most commonly observed adverse reactions in CYMBALTA-treated patients (as defined above) were nausea, dry mouth, insomnia, somnolence, constipation, dizziness, and fatigue.
 
-## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among CYMBALTA-Treated Patients in Adult Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of 5% or More Among CYMBALTA-Treated Patients in Adult Placebo-Controlled Trials
 
 Table 2 gives the incidence of treatment-emergent adverse reactions in placebo-controlled trials for approved indications that occurred in 5% or more of patients treated with CYMBALTA and with an incidence greater than placebo.
 
@@ -94,7 +94,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More and Great
 | e Also includes hypersomnia and sedation. |  |  |
 | f Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
 
-## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among CYMBALTA-Treated Patients in Adult Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of 2% or More Among CYMBALTA-Treated Patients in Adult Placebo-Controlled Trials
 
 Pooled MDD and GAD Trials — Table 3 gives the incidence of treatment-emergent adverse reactions in MDD and GAD placebo-controlled trials for approved indications that occurred in 2% or more of patients treated with CYMBALTA and with an incidence greater than placebo.
 
@@ -139,13 +139,13 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |  |
 | b For GAD, there were no adverse events that were significantly different between treatments in adults ≥65 years that were also not significant in the adults <65 years. |  |  |  |
 | c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |  |
-| d Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |  |
-| e Also includes asthenia |  |  |  |
-| f Also includes hypersomnia and sedation |  |  |  |
-| g Also includes initial insomnia, middle insomnia, and early morning awakening |  |  |  |
-| h Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |  |
-| i Also includes loss of libido |  |  |  |
-| j Also includes anorgasmia |  |  |  |
+| d Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |  |
+| e Also includes asthenia. |  |  |  |
+| f Also includes hypersomnia and sedation. |  |  |  |
+| g Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |  |
+| h Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity. |  |  |  |
+| i Also includes loss of libido. |  |  |  |
+| j Also includes anorgasmia. |  |  |  |
 
 DPNP, FM, OA, and CLBP — Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with CYMBALTA (determined prior to rounding) in the premarketing acute phase of DPNP, FM, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
 
@@ -194,18 +194,18 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Blood pressure increasedl | 2 | 1 |
 | a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
 | b Incidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
-| c Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and gastrointestinal pain |  |  |
-| d Also includes asthenia |  |  |
-| e Also includes myalgia and neck pain |  |  |
-| f Also includes hypersomnia and sedation |  |  |
-| g Also includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral |  |  |
+| c Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and gastrointestinal pain. |  |  |
+| d Also includes asthenia. |  |  |
+| e Also includes myalgia and neck pain. |  |  |
+| f Also includes hypersomnia and sedation. |  |  |
+| g Also includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral. |  |  |
 | h Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
-| i Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| j Also includes ejaculation failure |  |  |
-| k Also includes hot flush |  |  |
-| l Also includes blood pressure diastolic increased, blood pressure systolic increased, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension |  |  |
+| i Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity. |  |  |
+| j Also includes ejaculation failure. |  |  |
+| k Also includes hot flush. |  |  |
+| l Also includes blood pressure diastolic increased, blood pressure systolic increased, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension. |  |  |
 
-## 6.6 Effects on Male and Female Sexual Function in Adults
+Effects on Male and Female Sexual Function in Adults
 
 Changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of psychiatric disorders or diabetes, but they may also be a consequence of pharmacologic treatment.
 Because adverse sexual reactions are presumed to be voluntarily underreported, the Arizona Sexual Experience Scale (ASEX), a validated measure designed to identify sexual side effects, was used prospectively in 4 MDD placebo-controlled trials.
@@ -227,29 +227,29 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 | Item 3 — Ability to achieve erection (men); Lubrication (women) | 0.03 | -0.25 | -0.17 | -0.18 |
 | Item 4 — Ease of reaching orgasm | 0.40c | -0.24 | -0.09 | -0.13 |
 | Item 5 — Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
-| a n=Number of patients with non-missing change score for ASEX total |  |  |  |  |
-| b p=0.013 versus placebo |  |  |  |  |
-| c p<0.001 versus placebo |  |  |  |  |
+| a n=Number of patients with non-missing change score for ASEX total. |  |  |  |  |
+| b p=0.013 versus placebo. |  |  |  |  |
+| c p<0.001 versus placebo. |  |  |  |  |
 
-## 6.7 Vital Sign Changes in Adults
+Vital Sign Changes in Adults
 
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, CYMBALTA treatment was associated with mean increases of 0.23 mm Hg in systolic blood pressure and 0.73 mm Hg in diastolic blood pressure compared to mean decreases of 1.09 mm Hg systolic and 0.55 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3, 5.11)].
 
-CYMBALTA treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.37 beats per minute (increase of 1.20 beats per minute in CYMBALTA - treated patients, decrease of 0.17 beats per minute in placebo-treated patients).
+CYMBALTA treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.37 beats per minute (increase of 1.20 beats per minute in CYMBALTA-treated patients, decrease of 0.17 beats per minute in placebo-treated patients).
 
-## 6.8 Laboratory Changes in Adults
+Laboratory Changes in Adults
 
 CYMBALTA treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in CYMBALTA-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
 High bicarbonate, cholesterol, and abnormal (high or low) potassium, were observed more frequently in CYMBALTA treated patients compared to placebo.
 
-## 6.9 Electrocardiogram Changes in Adults
+Electrocardiogram Changes in Adults
 
 The effect of CYMBALTA 160 mg and 200 mg administered twice daily to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female subjects.
 No QT interval prolongation was detected.
 CYMBALTA appears to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
-## 6.10 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of CYMBALTA in Adults
+Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of CYMBALTA in Adults
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with CYMBALTA in clinical trials.
 In clinical trials of all indications, 34,756 patients were treated with CYMBALTA.
@@ -292,7 +292,7 @@ Skin and Subcutaneous Tissue Disorders — Frequent: pruritus; Infrequent: cold 
 
 Vascular Disorders — Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
 
-## 6.11 Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
+Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
 
 The adverse drug reaction profile observed in pediatric clinical trials (children and adolescents) was consistent with the adverse drug reaction profile observed in adult clinical trials.
 The specific adverse drug reactions observed in adult patients can be expected to be observed in pediatric patients (children and adolescents) [see Adverse Reactions (6.5)].
@@ -339,14 +339,14 @@ Discontinuation-emergent symptoms have been reported when stopping CYMBALTA.
 The most commonly reported symptoms following discontinuation of CYMBALTA in pediatric clinical trials have included headache, dizziness, insomnia, and abdominal pain [see Warnings and Precautions (5.7) and Adverse Reactions (6.2)].
 
 Growth (Height and Weight) — Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
-Pediatric patients treated with CYMBALTA in clinical trials experienced a 0.1kg mean decrease in weight at 10 weeks, compared with a mean weight gain of approximately 0.9 kg in placebo-treated patients.
+Pediatric patients treated with CYMBALTA in clinical trials experienced a 0.1 kg mean decrease in weight at 10 weeks, compared with a mean weight gain of approximately 0.9 kg in placebo-treated patients.
 The proportion of patients who experienced a clinically significant decrease in weight (≥3.5%) was greater in the CYMBALTA group than in the placebo group (14% and 6%, respectively).
 Subsequently, over the 4- to 6-month uncontrolled extension periods, CYMBALTA-treated patients on average trended toward recovery to their expected baseline weight percentile based on population data from age- and sex-matched peers.
 In studies up to 9 months, CYMBALTA-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
 Weight and height should be monitored regularly in children and adolescents treated with CYMBALTA.
 
-## 6.12 Postmarketing Spontaneous Reports
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of CYMBALTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

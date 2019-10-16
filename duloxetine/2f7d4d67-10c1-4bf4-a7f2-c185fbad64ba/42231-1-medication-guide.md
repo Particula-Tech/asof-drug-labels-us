@@ -98,13 +98,14 @@ Before starting Cymbalta, tell your healthcare provider if you:
 - have delayed stomach emptying
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if Cymbalta will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with Cymbalta during pregnancy.
+  Cymbalta may harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take Cymbalta during pregnancy.
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with Cymbalta.
   - If you become pregnant while taking Cymbalta, talk to your healthcare provider about registering with the Cymbalta Pregnancy Registry.
     You can register by calling 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com.
     The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with Cymbalta at any time during pregnancy.
 - are breastfeeding or plan to breastfeed.
-  Cymbalta can pass into your breast milk.
+  Cymbalta passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking Cymbalta.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -303,13 +304,13 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Eli Lilly and Company.
 
-Medication Guide revised: October 2016
+Medication Guide revised: 10/2019
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 Cymbalta is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2009, 2016, Eli Lilly and Company.
+Copyright © 2009, 2019, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0004-MG-20161024
+CYM-0005-MG-20191004
