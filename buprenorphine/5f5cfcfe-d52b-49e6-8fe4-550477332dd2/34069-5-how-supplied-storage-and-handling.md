@@ -19,4 +19,4 @@ ZUBSOLV is available in six dosage strengths imprinted in their respective bupre
 
 Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature]
 
-Advise patients to store buprenorphine-containing medications safely and out of sight and reach of children and to destroy any unused medication appropriately [see Patient Counseling Information (17)].
+Store ZUBSOLV securely and dispose of properly [see Patient Counseling Information (17)].

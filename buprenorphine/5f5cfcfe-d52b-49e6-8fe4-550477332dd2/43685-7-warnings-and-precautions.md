@@ -7,13 +7,17 @@ Prescribe and dispense buprenorphine with appropriate precautions to minimize ri
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
 
-## 5.2Risk of Respiratory Depression and Central Nervous System (CNS) Depression
+## 5.2Risk of Life-Threatening Respiratory Depression and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
 Many, but not all, post-marketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of buprenorphine and benzodiazepines or other CNS depressants, including alcohol.
 Warn patients of the potential danger of self-administration of benzodiazepines or other CNS depressants while under treatment with ZUBSOLV [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Use ZUBSOLV with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
 
 ## 5.3Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
 

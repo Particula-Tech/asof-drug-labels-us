@@ -1,5 +1,13 @@
 # 17PATIENT COUNSELING INFORMATION
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store ZUBSOLV securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2, 5.4, 5.11), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving ZUBSOLV unsecured can pose a deadly risk to others in the home.
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused ZUBSOLV should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Advise patients to read the FDA-approved patient labeling.
 (Medication Guide)
 
@@ -41,11 +49,6 @@ Instruct patients to read the Medication Guide each time ZUBSOLV is dispensed be
 - Inform patients that chronic use of opioids may cause reduced fertility.
   It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].
 - Advise patients to inform their family members that, in the event of emergency, the treating healthcare provider or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with ZUBSOLV.
-
-Disposal of Unused ZUBSOLV Sublingual Tablets
-
-Unused ZUBSOLV sublingual tablets should be disposed of as soon as they are no longer needed.
-Unused tablets should be flushed down the toilet.
 
 Manufactured for and distributed by Orexo US, Inc.
 
