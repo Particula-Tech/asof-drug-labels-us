@@ -66,6 +66,9 @@ The benefits of the combined use of VYTORIN with the following drugs should be c
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products [see Drug Interactions (7.4)].
 
+Cases of rhabdomyolysis have been reported with VYTORIN administered with daptomycin.
+Temporarily suspend VYTORIN in patients taking daptomycin [see Drug Interactions (7.10)].
+
 Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
@@ -77,6 +80,7 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | Verapamil Diltiazem Dronedarone | Do not exceed 10/10 mg VYTORIN daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 10/20 mg VYTORIN daily |
 | Lomitapide | For patients with HoFH, do not exceed 10/20 mg VYTORIN dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 10/40 mg VYTORIN when taking lomitapide. |
+| Daptomycin | Temporarily suspend VYTORIN |
 | Grapefruit juice | Avoid grapefruit juice |
 
 ## 5.2 Liver Enzymes

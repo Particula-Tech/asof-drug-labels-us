@@ -98,6 +98,7 @@ It is especially important to tell your doctor if you take:
 - grapefruit juice (which should be avoided while taking VYTORIN)
 - colchicine (a medicine used to treat gout)
 - lomitapide (a medicine used to treat a serious and rare genetic cholesterol condition)
+- daptomycin (a drug used to treat complicated skin and bloodstream infections)
 - large doses of niacin or nicotinic acid
 
 Tell your doctor if you are taking niacin or a niacin-containing product, as this may increase your risk of muscle problems, especially if you are Chinese.

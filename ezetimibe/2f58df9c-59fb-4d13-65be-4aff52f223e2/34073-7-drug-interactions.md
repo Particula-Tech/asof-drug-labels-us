@@ -70,3 +70,9 @@ The effect of VYTORIN on the prothrombin time has not been studied.
 ## 7.9 Colchicine
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing VYTORIN with colchicine.
+
+## 7.10 Daptomycin
+
+Cases of rhabdomyolysis have been reported with VYTORIN administered with daptomycin.
+Both VYTORIN and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration.
+Temporarily suspend VYTORIN in patients taking daptomycin [see Warnings and Precautions (5.1)].
