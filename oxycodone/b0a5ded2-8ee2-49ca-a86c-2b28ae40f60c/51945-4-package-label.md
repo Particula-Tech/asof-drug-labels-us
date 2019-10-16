@@ -2,7 +2,7 @@
 
 NDC 24510-110-10
 
-Xtampza™ ER
+Xtampza® ER
 
 (oxycodone) EXTENDED-RELEASE CAPSULES CII
 
@@ -21,7 +21,7 @@ Attention Dispenser: Accompanying Medication Guide must be provided to the patie
 
 NDC 24510-115-10
 
-Xtampza™ ER
+Xtampza® ER
 
 (oxycodone) EXTENDED-RELEASE CAPSULES CII
 
@@ -40,7 +40,7 @@ Attention Dispenser: Accompanying Medication Guide must be provided to the patie
 
 NDC 24510-120-10
 
-Xtampza™ ER
+Xtampza® ER
 
 (oxycodone) EXTENDED-RELEASE CAPSULES CII
 
@@ -59,7 +59,7 @@ Attention Dispenser: Accompanying Medication Guide must be provided to the patie
 
 NDC 24510-130-10
 
-Xtampza™ ER
+Xtampza® ER
 
 (oxycodone) EXTENDED-RELEASE CAPSULES CII
 
@@ -78,7 +78,7 @@ Attention Dispenser: Accompanying Medication Guide must be provided to the patie
 
 NDC 24510-140-10
 
-Xtampza™ ER
+Xtampza® ER
 
 (oxycodone) EXTENDED-RELEASE CAPSULES CII
 

@@ -15,3 +15,5 @@ Table 8: Summary of XTAMPZA ER Capsule Strengths and Packaging Configurations
 Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
 Dispense in tight, light-resistant container, with child-resistant closure.
+
+Store XTAMPZA ER securely and dispose of properly [see Patient Counseling Information (17)].
