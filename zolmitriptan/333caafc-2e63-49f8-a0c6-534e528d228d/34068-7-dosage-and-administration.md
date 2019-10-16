@@ -19,6 +19,6 @@ The safety of zolmitriptan tablets in the treatment of an average of more than t
 The recommended dose of zolmitriptan tablets in patients with moderate to severe hepatic impairment is 1.25 mg (one-half of one 2.5 mg zolmitriptan tablet) because of increased zolmitriptan blood levels in these patients and elevation of blood pressure in some of these patients.
 Limit the total daily dose in patients with severe hepatic impairment to no more than 5 mg per day.
 
-## 2.4Dosing in Patients taking Cimetidine
+## 2.4 Dosing in Patients taking Cimetidine
 
 If zolmitriptan tablets are co-administered with cimetidine, limit the maximum single dose of zolmitriptan tablets to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Drug Interactions (7.5), Clinical Pharmacology (12.3)].

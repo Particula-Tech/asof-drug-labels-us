@@ -25,23 +25,23 @@ Table 2: Percentage of Patients with Headache Response (Reduction in Headache Se
 
 |  | Placebo | Zolmitriptan tablets 1 mg | Zolmitriptan tablets 2.5 mg | Zolmitriptan tablets 5 mg |
 | --- | --- | --- | --- | --- |
-| Study 1a | 16% (n=19) | 27% (n=22) | NA | 60%*# (n=20) |
-| Study 2 | 19% (n=88) | NA | NA | 66%* (n=179) |
-| Study 3 | 34% (n=121) | 50%* (n=140) | 65%*# (n=260) | 67%*# (n=245) |
-| Study 4b | 44% (n=55) | NA | NA | 59%* (n=491) |
-| Study 5 | 36% (n=92) | NA | 62%* (n=178) | NA |
+| Study 1* | 16% (n†=19) | 27% (n=22) | NA‡ | 60%§¶ (n=20) |
+| Study 2 | 19% (n=88) | NA | NA | 66%§ (n=179) |
+| Study 3 | 34% (n=121) | 50%§ (n=140) | 65%§¶ (n=260) | 67%§¶ (n=245) |
+| Study 4# | 44% (n=55) | NA | NA | 59%§ (n=491) |
+| Study 5 | 36% (n=92) | NA | 62%§ (n=178) | NA |
 
-n=number of patients randomized
+* Study 1 was the only study in which patients treated the headache in a clinic setting.
 
-*p<0.05 in comparison with placebo.
+† n = number of patients randomized
 
-#p<0.05 in comparison with 1 mg.
+‡ NA = not applicable
 
-a Study 1 was the only study in which patients treated the headache in a clinic setting.
+§ P<0.05 in comparison with placebo.
 
-b Study 4 was the only study where patients were excluded who had previously used sumatriptan.
+¶ P<0.05 in comparison with 1 mg.
 
-NA - not applicable
+# Study 4 was the only study where patients were excluded who had previously used sumatriptan.
 
 The estimated probability of achieving an initial headache response by 4 hours following treatment in pooled Studies 2, 3, and 5 is depicted in Figure 1.
 

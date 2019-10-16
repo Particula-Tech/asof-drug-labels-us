@@ -24,7 +24,7 @@ Only adverse reactions that were at least 2% more frequent in a zolmitriptan gro
 
 Several of the adverse reactions appear dose related, notably paresthesia, sensation of heaviness or tightness in chest, neck, jaw, and throat, dizziness, somnolence and possibly asthenia and nausea.
 
-Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine Clinical Trials1
+Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine Clinical Trials*
 
 |  | Placebo(n=401) | Zolmitriptan Tablets 1 mg(n=163) | Zolmitriptan Tablets 2.5 mg(n=498) | Zolmitriptan Tablets 5 mg(n=1012) |
 | --- | --- | --- | --- | --- |
@@ -49,12 +49,12 @@ Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine C
 | Asthenia | 3% | 5% | 3% | 9% |
 | Sweating | 1% | 0% | 2% | 3% |
 
-1Only adverse reactions that were at least 2% more frequent in a zolmitriptan group compared to the placebo group are included.
+*Only adverse reactions that were at least 2% more frequent in a zolmitriptan group compared to the placebo group are included.
 
 There were no differences in the incidence of adverse reactions in controlled clinical trials in the following subgroups: gender, weight, age, use of prophylactic medications, or presence of aura.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
 
-### Less Common Adverse Reactions with Zolmitriptan Tablets:
+### Less Common Adverse Reactions with Zolmitriptan Tablets
 
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical reactions are presented.
 Because the reports include reactions observed in open and uncontrolled studies, the role of zolmitriptan in their causation cannot be reliably determined.

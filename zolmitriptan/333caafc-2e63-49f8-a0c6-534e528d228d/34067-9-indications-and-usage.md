@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Zolmitriptan tabletsare indicated for the acute treatment of migraine with or without aura in adults.
+Zolmitriptan tablets are indicated for the acute treatment of migraine with or without aura in adults.
 
 Limitations of Use
 

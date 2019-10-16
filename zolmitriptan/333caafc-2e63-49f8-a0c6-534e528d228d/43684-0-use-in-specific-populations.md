@@ -58,7 +58,7 @@ A cardiovascular evaluation is recommended for geriatric patients who have other
 
 The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged > 65 years) compared to younger patients [see Clinical Pharmacology (12.3)].
 
-## 8.6 Patients with Hepatic Impairment:
+## 8.6 Patients with Hepatic Impairment
 
 After oral zolmitriptan administration, zolmitriptan blood levels were increased in patients with moderate to severe hepatic impairment, and significant elevation in blood pressure was observed in some of these patients [see Warnings and Precautions (5.8)].
 Therefore, adjust the zolmitriptan dose and administer with caution in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12)].

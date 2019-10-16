@@ -1,8 +1,6 @@
 # Patient Information
 
-Zolmitriptan (ZOLE-mi-TRIP-tan)
-
-Tablets
+Zolmitriptan (ZOLE-mi-TRIP-tan) Tablets, USP
 
 Please read this information before you start taking zolmitriptan tablets and each time you renew your prescription just in case anything has changed.
 Remember, this summary does not take the place of discussions with your doctor.
@@ -128,15 +126,15 @@ This leaflet summarizes the most important information about zolmitriptan tablet
 If you would like more information about zolmitriptan tablets, talk to your doctor.
 You can ask your doctor or pharmacist for information on zolmitriptan tablets that is written for healthcare professionals.
 
-You can also call 1 (888) 721-7115 or visit our website at www.glenmarkpharma.com/usa.
+You can also call 1 (888) 721-7115 or visit our website at www.glenmarkpharma-us.com.
 
 What are the ingredients in zolmitriptan tablets?
 
 Active ingredient: zolmitriptan
 
-Inactive ingredients: anhydrous lactose, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, polyethylene glycol 400, yellow iron oxide (2.5 mg tablet), red iron oxide (5 mg tablet), and polyethylene glycol 8000.
+Inactive ingredients: anhydrous lactose, hydroxypropyl methylcellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polyethylene glycol 8000, red iron oxide (5 mg tablet), sodium starch glycolate, titanium dioxide and yellow iron oxide (2.5 mg tablet).
 
-Store zolmitriptan tablets at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
+Store zolmitriptan tablets at 20°C to 25°C (68°F to 77°F); [see USP Controlled Room Temperature].
 
 Protect from light and moisture.
 Discard when expired.
@@ -148,21 +146,17 @@ Manufactured by:
 
 Glenmark Pharmaceuticals Limited
 
-Colvale-Bardez, Goa 403 513,
-
-India
+Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah,
-
-NJ 07430
+Mahwah, NJ 07430
 
 Questions?
 1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-February 2019
+August 2019
