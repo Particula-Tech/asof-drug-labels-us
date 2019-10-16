@@ -2,6 +2,11 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to MYDAYIS during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/research/pregnancyregistry/.
+
 Risk Summary
 
 The limited available data from published literature and postmarketing reports on use of amphetamine in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
@@ -58,12 +63,15 @@ Because of the potential for serious adverse reactions in nursing infants, inclu
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients with ADHD ages 13 to 17 years have been established in two placebo-controlled clinical studies [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
+Safety and effectiveness of MYDAYIS in pediatric patients with ADHD ages 13 to 17 years have been established in two placebo-controlled clinical studies [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
 
-Safety and effectiveness have not been established in pediatric patients ages 12 years and younger.
+Safety and effectiveness of MYDAYIS have not been established in pediatric patients ages 12 years and younger.
 
-In clinical trials, pediatric patients 6 to 12 years of age experienced higher rates of adverse reactions in some cases compared to patients 13 years and older, including higher rates of insomnia (30% versus 8%) and appetite decreased (43% versus 22%).
-In addition, amphetamine systemic exposures (both d- and l-) in patients 6 to 12 years of age following a single dose were higher than those observed in adults at the same dose (72-79% higher Cmax and approximately 83% higher AUC).
+MYDAYIS has been studied for the treatment of ADHD in pediatric patients 6 to 12 years in two placebo controlled safety and efficacy trials.
+In the first trial, pediatric patients 6 to 12 years experienced higher rates of adverse reactions in some cases compared to patients 13 years and older, including higher rates of insomnia (30% versus 8%) and appetite decreased (43% versus 22%).
+In addition, amphetamine systemic exposures (both d- and l-) in pediatric patients 6 to 12 years following a single dose were higher than those observed in adults at the same dose (72-79% higher Cmax and approximately 83% higher AUC).
+A second trial evaluated a lower dose than those approved for pediatric patients 13 to 17 years; efficacy was not demonstrated for the lower dose.
+Therefore, a safe and effective dose cannot be established in pediatric patients 12 years and younger.
 
 Growth Suppression
 

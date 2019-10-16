@@ -1,12 +1,10 @@
 Manufactured for: Shire US Inc., 300 Shire Way, Lexington, MA 02421
 
-Made in USA
-
 For more information call 1-800-828-2088
 
-MYDAYIS is a trademark of Shire LLC
+MYDAYIS is a registered trademark of Shire LLC, a Takeda company.
 
-©2017 Shire.
+©2019 Takeda Pharmaceutical Company Limited.
 All rights reserved.
 
 US Pat No. RE41148, US Pat No. RE42096, US Pat.

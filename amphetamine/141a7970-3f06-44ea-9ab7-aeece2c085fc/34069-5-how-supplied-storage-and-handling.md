@@ -2,7 +2,7 @@
 
 How Supplied
 
-MYDAYIS Extended-Release capsules are available as:
+MYDAYIS extended-release capsules are available as:
 
 - 12.5 mg: Green body/green cap (imprinted with black SHIRE 465 and 12.5 mg), bottles of 100, NDC 54092-468-01
 - 25 mg: Ivory body/green cap (imprinted with black SHIRE 465 and 25 mg), bottles of 100, NDC 54092-471-01

@@ -24,7 +24,7 @@ Advise patients that MYDAYIS, at recommended doses, may cause psychotic or manic
 
 Long-Term Suppression of Growth
 
-Advise patients, family members, and caregivers that amphetamines may cause slowing of growth including weight loss [see Warnings and Precautions (5.5)].
+Advise patients, family members, and caregivers that MYDAYIS may cause slowing of growth including weight loss [see Warnings and Precautions (5.5)].
 
 Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, including Raynaud's Phenomenon]
 
@@ -46,6 +46,10 @@ Advise patients to contact their healthcare provider or report to the emergency 
 Concomitant Medications
 
 Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
+
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to MYDAYIS during pregnancy [see Use in Specific Populations (8.1)].
 
 Pregnancy
 
