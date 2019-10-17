@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.2, 5.4), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Medication Errors
 
 Instruct patients how to measure and take the correct dose of hydromorphone hydrochloride, and to always use the enclosed cup when administering hydromorphone hydrochloride oral solution to ensure the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
@@ -21,8 +30,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4)].
-Instruct patients to take steps to store hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets securely and to dispose of unused hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets.
-When hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets are no longer needed, the unused medication should be destroyed by flushing it down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -52,8 +59,10 @@ Instruct patients how to properly take hydromorphone hydrochloride.
 - Advise patients to always obtain a calibrated oral syringe/dosing cup from the pharmacist for administering hydromorphone hydrochloride oral solution to ensure that the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
   Advise patients never to use household teaspoons or tablespoons to measure hydromorphone hydrochloride oral solution.
 - Advise patients not to adjust the dose of hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets without consulting with a physician or other healthcare professional.
-- If patients have been receiving treatment with hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose as abrupt discontinuation of the medication could precipitate withdrawal symptoms.
-  Provide a dose schedule to accomplish a gradual discontinuation of the medication [see Dosage and Administration (2.5, 2.6)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.6)].
 
 Hypotension
 
@@ -93,7 +102,3 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
-
-Disposal of Unused Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
-
-Advise patients to flush unused hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets down the toilet.

@@ -21,3 +21,5 @@ NDC 42858-303-01: Bottles of 100
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Protect from light.
+
+Store hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets securely and dispose of properly [see Patient Counseling Information (17)].

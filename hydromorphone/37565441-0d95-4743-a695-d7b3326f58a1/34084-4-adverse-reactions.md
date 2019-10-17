@@ -10,7 +10,7 @@ The following serious adverse reactions are described, or described in greater d
 - Severe Hypotension [see Warnings and Precautions (5.9)]
 - Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
 - Seizures [see Warnings and Precautions (5.12)]
-- Withdrawal [see Warnings and Precautions (5.13]
+- Withdrawal [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trial Experience
 
