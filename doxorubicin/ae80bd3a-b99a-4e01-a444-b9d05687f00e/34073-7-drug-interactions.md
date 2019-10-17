@@ -1,29 +1,38 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Effect of CYP3A4 Inhibitors, Inducers and P-gp
+## 7.1 Effect of Other Drugs on Doxorubicin Hydrochloride Injection
 
-Doxorubicin is a major substrate of cytochrome P450 CYP3A4 and CYP2D6, and P-glycoprotein (P-gp).
-Clinically significant interactions have been reported with inhibitors of CYP3A4, CYP2D6, and/or P-gp (e.g., verapamil), resulting in increased concentration and clinical effect of doxorubicin.
-Inducers of CYP3A4 (e.g., phenobarbital, phenytoin, St. John's Wort) and P-gp inducers may decrease the concentration of doxorubicin.
-Avoid concurrent use of doxorubicin HCl with inhibitors and inducers of CYP3A4, CYP2D6, or P-gp.
+Inhibitors of CYP3A4, CYP2D6, and P-gp
 
-## 7.2 Trastuzumab
+Concomitant use of doxorubicin hydrochloride with inhibitors of CYP3A4, CYP2D6, or P-glycoprotein (P-gp), increased concentrations of doxorubicin, which may increase the incidence and severity of adverse reactions of doxorubicin hydrochloride.
+Avoid concomitant use of doxorubicin hydrochloride with inhibitors of CYP3A4, CYP2D6, or P-gp.
 
-Concurrent use of trastuzumab and doxorubicin HCl results in an increased risk of cardiac dysfunction.
-Avoid concurrent administration of doxorubicin and trastuzumab.
-The appropriate interval for administering doxorubicin following trastuzumab therapy has not been determined [see Warnings and Precautions (5.1)].
+Inducers of CYP3A4, CYP2D6, or P-gp
 
-## 7.3 Paclitaxel
+Concomitant use of doxorubicin hydrochloride with inducers of CYP3A4, CYP2D6, or P-gp may decrease the concentration of doxorubicin.
+Avoid concomitant use of doxorubicin hydrochloride with inducers of CYP3A4, CYP2D6, or P-gp.
 
-Paclitaxel, when given prior to doxorubicin HCl, increases the plasma-concentrations of doxorubicin and its metabolites.
-Administer doxorubicin HCl prior to paclitaxel if used concomitantly.
+Paclitaxel
 
-## 7.4 Dexrazoxane
+Paclitaxel, when given prior to doxorubicin hydrochloride, increases the plasma-concentrations of doxorubicin and its metabolites.
+Administer doxorubicin hydrochloride prior to paclitaxel if used concomitantly.
 
-Do not administer dexrazoxane as a cardioprotectant at the initiation of doxorubicin HCl-containing chemotherapy regimens.
-In a randomized trial in women with metastatic breast cancer, initiation of dexrazoxane with doxorubicin HCl-based chemotherapy resulted in a significantly lower tumor response rate (48% vs. 63%; p=0.007) and shorter time to progression than in women who received doxorubicin HCl-based chemotherapy alone.
+## 7.2 Concomitant Use of Trastuzumab
 
-## 7.5 6-Mercaptopurine
+Concomitant use of trastuzumab and doxorubicin hydrochloride results in an increased risk of cardiac dysfunction.
+Avoid concomitant administration of doxorubicin and trastuzumab [see Warnings and Precautions (5.1)].
 
-Doxorubicin HCl may potentiate 6-mercaptopurine-induced hepatotoxicity.
-In 11 patients with refractory leukemia treated with 6-mercaptopurine (500 mg/m2 intravenously daily for 5 days per cycle every 2 to 3 weeks) and doxorubicin HCl (50 mg/m2 intravenous once per cycle every 2 to 3 weeks) alone or with vincristine and prednisone, all developed hepatic dysfunction manifested by elevations of total serum bilirubin, alkaline phosphatase and aspartate aminotransferase.
+Patients receiving doxorubicin after stopping treatment with trastuzumab may also be at an increased risk of developing cardiotoxicity.
+Trastuzumab may persist in the circulation for up to 7 months.
+Therefore, avoid anthracycline-based therapy for up to 7 months after stopping trastuzumab when possible.
+If anthracyclines are used before this time, carefully monitor cardiac function.
+
+## 7.3 Concomitant Use of Dexrazoxane
+
+Do not administer dexrazoxane as a cardioprotectant at the initiation of doxorubicin hydrochloride-containing chemotherapy regimens.
+In a randomized trial in women with metastatic breast cancer, initiation of dexrazoxane with doxorubicin hydrochloride-based chemotherapy resulted in a significantly lower tumor response rate (48% vs. 63%; p=0.007) and shorter time to progression compared to doxorubicin hydrochloride-based chemotherapy alone.
+
+## 7.4 Concomitant Use of 6-Mercaptopurine
+
+Doxorubicin hydrochloride may potentiate 6-mercaptopurine-induced hepatotoxicity.
+In 11 patients with refractory leukemia treated with 6-mercaptopurine (500 mg/m2 intravenously daily for 5 days per cycle every 2 to 3 weeks) and doxorubicin hydrochloride (50 mg/m2 intravenous once per cycle every 2 to 3 weeks) alone or with vincristine and prednisone, all developed hepatic dysfunction manifested by increased total serum bilirubin, alkaline phosphatase and aspartate aminotransferase.

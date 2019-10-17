@@ -143,8 +143,10 @@ Inactive ingredients for Doxorubicin Hydrochloride Injection: Sodium Chloride 0.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-SAGENT™
+SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2014 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: January 2014
+Revised: August 2019
+
+SAGENT Pharmaceuticals®

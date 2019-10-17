@@ -20,8 +20,10 @@ Inform patients of the following:
 - Doxorubicin HCl causes alopecia [see Adverse Reactions (6.1)].
 - Doxorubicin HCl can cause their urine to appear red for 1 to 2 days after administration.
 
-SAGENT™
+SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2014 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: January 2014
+Revised: August 2019
+
+SAGENT Pharmaceuticals®

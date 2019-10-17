@@ -25,6 +25,8 @@ Doxorubicin does not cross the blood brain barrier.
 
 Metabolism
 
+Doxorubicin is a substrate of CYP3A4, CYP2D6, and P-gp.
+
 Enzymatic reduction at the 7 position and cleavage of the daunosamine sugar yields aglycones which are accompanied by free radical formation, the local production of which may contribute to the cardiotoxic activity of doxorubicin HCl.
 Disposition of doxorubicinol in patients is formation rate limited, with the terminal half-life of doxorubicinol being similar to doxorubicin.
 The relative exposure of doxorubicinol, i.e., the ratio between the AUC of doxorubicinol and the AUC of doxorubicin is approximately 0.5.
