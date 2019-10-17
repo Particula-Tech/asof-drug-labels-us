@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210019"
+  ],
+  "inn": "ivermectin",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-4052-89"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "ivermectin",
+      "name": "Ivermectin"
+    }
+  ],
+  "setid": "de9253c3-7d66-47fe-8ad7-8c0d4ee8ebda",
+  "source": "dailymed"
+}
