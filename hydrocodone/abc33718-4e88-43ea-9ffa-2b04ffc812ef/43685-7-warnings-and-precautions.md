@@ -140,12 +140,11 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 Withdrawal
 
 Do not abruptly discontinue hydrocodone bitartrate and ibuprofen in a patient physically dependent on opioids.
+When discontinuing hydrocodone bitartrate and ibuprofen in a physically dependent patient, gradually taper the dosage.
 Rapid tapering of hydrocodone bitartrate and ibuprofen in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain (see DOSAGE AND ADMINISTRATION, DRUG ABUSE AND DEPENDENCE).
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydrocodone bitartrate and ibuprofen.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms (see PRECAUTIONS: Drug Interactions).
-When discontinuing hydrocodone bitartrate and ibuprofen in a physically-dependent patient, gradually taper the dosage (see DOSAGE AND ADMINISTRATION).
-Do not abruptly discontinue hydrocodone bitartrate and ibuprofen in these patients (see DRUG ABUSE AND DEPENDENCE).
 
 Risks of Driving and Operating Machinery
 
@@ -342,7 +341,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS: Life-Threatening Respiratory Depression).
-Instruct patients to take steps to store hydrocodone bitartrate and ibuprofen securely and to dispose of unused hydrocodone bitartrate and ibuprofen appropriately as described below.
 
 5.
 Interactions with Benzodiazepines and Other CNS Depressants
