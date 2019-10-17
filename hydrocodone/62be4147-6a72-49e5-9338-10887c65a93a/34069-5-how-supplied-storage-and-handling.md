@@ -12,7 +12,9 @@ Dispense in a tight, light-resistant container as defined in the USP with a chil
 
 A Schedule II Narcotic DEA Order Form Required.
 
+Store Hydrocodone Bitartrate and Acetaminophen Tablets securely and dispose of properly [see PRECAUTIONS; Information for Patients].
+
 Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
 
 Rev.
-07-2018-09
+08-2019-10
