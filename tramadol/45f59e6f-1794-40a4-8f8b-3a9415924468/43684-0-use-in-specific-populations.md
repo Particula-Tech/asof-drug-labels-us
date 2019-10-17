@@ -25,7 +25,7 @@ Neonatal opioid withdrawal syndrome can present as irritability, hyperactivity a
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
-Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during post-marketing.
+Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during postmarketing.
 
 Labor or Delivery
 
@@ -97,7 +97,7 @@ Children with sleep apnea may be particularly sensitive to the respiratory depre
 Because of the risk of life-threatening respiratory depression and death:
 
 - ULTRAM is contraindicated for all children younger than 12 years of age [see Contraindications (4)].
-- ULTRAM is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+- ULTRAM is contraindicated for postoperative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 
 Avoid the use of ULTRAM in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
 Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.

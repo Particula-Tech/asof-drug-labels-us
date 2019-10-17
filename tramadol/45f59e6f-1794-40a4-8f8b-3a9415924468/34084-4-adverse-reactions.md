@@ -45,7 +45,7 @@ Table 1: Cumulative Incidence of Adverse Reactions for ULTRAM in Chronic Trials 
 | Dry Mouth | 5% | 9% | 10% |
 | Diarrhea | 5% | 6% | 10% |
 
-Incidence 1% to less than 5% possibly causally related
+Incidence 1% to Less than 5% Possibly Causally Related
 
 The following lists adverse reactions that occurred with an incidence of 1% to less than 5% in clinical trials, and for which the possibility of a causal relationship with ULTRAM exists.
 
@@ -65,9 +65,9 @@ Special Senses: Visual disturbance.
 
 Urogenital: Menopausal symptoms, Urinary frequency, Urinary retention.
 
-Incidence less than 1%, possibly causally related
+Incidence Less than 1%, Possibly Causally Related
 
-The following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials of tramadol and/or reported in post-marketing experience with tramadol-containing products.
+The following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials of tramadol and/or reported in postmarketing experience with tramadol-containing products.
 
 Body as a Whole: Accidental injury, Allergic reaction, Anaphylaxis, Death, Suicidal tendency, Weight loss, Serotonin syndrome (mental status change, hyperreflexia, fever, shivering, tremor, agitation, diaphoresis, seizures and coma).
 
@@ -83,9 +83,9 @@ Special Senses: Dysgeusia.
 
 Urogenital: Dysuria, Menstrual disorder.
 
-Other adverse experiences, causal relationship unknown
+Other Adverse Experiences, Causal Relationship Unknown
 
-A variety of other adverse events were reported infrequently in patients taking ULTRAM during clinical trials and/or reported in post-marketing experience.
+A variety of other adverse events were reported infrequently in patients taking ULTRAM during clinical trials and/or reported in postmarketing experience.
 A causal relationship between ULTRAM and these events has not been determined.
 However, the most significant events are listed below as alerting information to the physician.
 

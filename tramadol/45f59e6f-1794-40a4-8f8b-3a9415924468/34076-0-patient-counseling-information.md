@@ -2,6 +2,22 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store ULTRAM securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.17), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving ULTRAM unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
+If no take back programs or Drug Enforcement Administration (DEA)-registered collectors are available, instruct patients to dispose of ULTRAM by following these four steps:
+
+- Mix ULTRAM (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
+- Place the mixture in a container such as a sealed plastic bag;
+- Throw the container in the household trash;
+- Delete all personal information on the prescription label of the empty bottle.
+
+Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of ULTRAM, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -15,7 +31,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store ULTRAM securely and to dispose of unused ULTRAM in accordance with the local state guidelines and/or regulations.
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
@@ -52,8 +67,10 @@ Important Administration Instructions
 - Instruct patients how to properly take ULTRAM.
   [see Dosage and Administration (2)].
 - Advise patients not to adjust the dose of ULTRAM without consulting with a physician or other healthcare professional.
-- If patients have been receiving treatment with ULTRAM for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose as abrupt discontinuation of the medication could precipitate withdrawal symptoms.
-  Provide a dose schedule to accomplish a gradual discontinuation of the medication [see Dosage and Administration (2.4)].
+
+Important Discontinuation Instructions
+
+- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue ULTRAM without first discussing a tapering plan with the prescriber[see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -93,13 +110,6 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
-
-Disposal of Unused ULTRAM
-
-Advise patients to throw the unused ULTRAM in the household trash following these steps.
-
-- 1)Remove the drugs from their original containers and mix with an undesirable substance, such as used coffee grounds or kitty litter (this makes the drug less appealing to children and pets, and unrecognizable to people who may intentionally go through the trash seeking drugs).
-- 2)Place the mixture in a sealable bag, empty can, or other container to prevent the drug from leaking or breaking out of a garbage bag.
 
 Maximum single-dose and 24-hour dose
 

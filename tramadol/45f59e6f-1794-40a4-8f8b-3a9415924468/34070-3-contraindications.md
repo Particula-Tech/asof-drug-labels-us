@@ -3,7 +3,7 @@
 ULTRAM is contraindicated for:
 
 - all children younger than 12 years of age [see Warnings and Precautions (5.4)].
-- post-operative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Warnings and Precautions (5.4)].
+- postoperative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Warnings and Precautions (5.4)].
 
 ULTRAM is also contraindicated in patients with:
 
