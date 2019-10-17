@@ -4,7 +4,7 @@
 
 Monotherapy with Lamotrigine in Adults with Partial-Onset Seizures Already Receiving Treatment with Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single Antiepileptic Drug
 
-The effectiveness of monotherapy with lamotrigine was established in a multicenter double-blind clinical trial enrolling 156 adult outpatients with partial-onset seizures.
+The effectiveness of monotherapy with lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial-onset seizures.
 The patients experienced at least 4 simple partial-onset, complex partial-onset, and/or secondarily generalized seizures during each of 2 consecutive 4-week periods while receiving carbamazepine or phenytoin monotherapy during baseline.
 Lamotrigine (target dose of 500 mg/day) or valproate (1,000 mg/day) was added to either carbamazepine or phenytoin monotherapy over a 4-week period.
 Patients were then converted to monotherapy with lamotrigine or valproate during the next 4 weeks, then continued on monotherapy for an additional 12-week period.
@@ -100,6 +100,6 @@ The mean dose of lamotrigine was about 211 mg/day.
 
 Although these trials were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the 2 trials revealed a statistically significant benefit for lamotrigine over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.
 
-Figure 1: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trail 1)
+Figure 1: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trial 1)
 
-Figure 2: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trail 2)
+Figure 2: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trial 2)

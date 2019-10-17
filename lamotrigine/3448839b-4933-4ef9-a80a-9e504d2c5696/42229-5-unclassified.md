@@ -1,14 +1,9 @@
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Or
+Manufactured for:
 
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-For:
-
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8069899 Revised August 2018
+8076978 Revised October 2019

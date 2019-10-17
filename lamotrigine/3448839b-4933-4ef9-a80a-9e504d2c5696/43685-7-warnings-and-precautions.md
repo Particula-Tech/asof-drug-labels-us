@@ -32,7 +32,11 @@ The risk of nonserious rash may be increased when the recommended initial dose a
 Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking lamotrigine for various indications.
 HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
 It is associated with high mortality rates if not recognized early and treated.
-Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, and liver function and coagulation abnormalities.
+Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin,
+
+hypertriglyceridemia,
+
+and liver function and coagulation abnormalities.
 In cases of HLH reported with lamotrigine, patients have presented with signs of systemic inflammation (fever, rash, hepatosplenomegaly, and organ system dysfunction) and blood dyscrasias.
 Symptoms have been reported to occur within 8 to 24 days following the initiation of treatment.
 Patients who develop early manifestations of pathologic immune activation should be evaluated immediately, and a diagnosis of HLH should be considered.
@@ -122,7 +126,7 @@ Medication errors involving lamotrigine have occurred.
 In particular, the name lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of lamotrigine.
 To reduce the potential of medication errors, write and say lamotrigine clearly.
-Depictions of the Lamotrigine Tablets, USP can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
+Depictions of the lamotrigine tablets, USP can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription.
 
 ## 5.8 Concomitant Use with Oral Contraceptives
@@ -158,7 +162,7 @@ This evidence suggests, although it certainly does not prove, that the high SUDE
 
 ## 5.12 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
 
-Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage andAdministration (2.2, 2.3, 2.4), Drug Interactions (7)].
+Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)].
 
 ## 5.13 Binding in the Eye and Other Melanin-Containing Tissues
 

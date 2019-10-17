@@ -106,7 +106,7 @@ Recommended dosing guidelines are summarized in Table 1.
 Table 1.
 Escalation Regimen for Lamotrigine in Patients Older than 12 Years with Epilepsy
 
-|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone band NOT TAKING Valproate a |
+|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg/day |
 | Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day (in 2 divided doses) |
@@ -122,17 +122,17 @@ Recommended dosing guidelines are summarized in Table 2.
 Lower starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by lower starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
 It may take several weeks to months to achieve an individualized maintenance dose.
-Maintenance doses in patients weighing less than 30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
+Maintenance doses in patients weighing <30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
 
 Table 2 Escalation Regimen for Lamotrigine in Patients Aged 2 to 12 Years with Epilepsy
 
-|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone b and NOT TAKING Valproate a |
+|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Week 5 onward to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. |
 | Usual Maintenance Dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
-| Maintenance dose in patients less than 30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
+| Maintenance dose in patients <30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
 | Note: Only whole tablets should be used for dosing. |  |  |  |
 | a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 | b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
@@ -140,7 +140,7 @@ Table 2 Escalation Regimen for Lamotrigine in Patients Aged 2 to 12 Years with E
 Table 3.
 The Initial Weight-Based Dosing Guide for Patients Aged 2 to 12 Years Taking Valproate (Weeks 1 to 4) with Epilepsy
 
-| If the patient’s weight is |  | Give this daily dose, using the most appropriate combination of lamotrigine 2- and 5-mg tablets |  |
+| If the patient's weight is |  | Give this daily dose, using the most appropriate combination of l amotrigine 2- and 5-mg tablets |  |
 | --- | --- | --- | --- |
 | Greater than | And less than | Weeks 1 and 2 | Weeks 3 and 4 |
 | 6.7 kg | 14 kg | 2 mg every other day | 2 mg every day |
@@ -175,7 +175,7 @@ The conversion regimen involves the 4 steps outlined in Table 4.
 Table 4.
 Conversion from Adjunctive Therapy with Valproate to Monotherapy with Lamotrigine in Patients Aged 16 Years and Older with Epilepsy
 
-|  | Lamotrigine | Valproate |
+|  | L amotrigine | Valproate |
 | --- | --- | --- |
 | Step 1 | Achieve a dose of 200 mg/day according to guidelines in Table 1. | Maintain established stable dose. |
 | Step 2 | Maintain at 200 mg/day. | Decrease dose by decrements no greater than 500 mg/day/week to 500 mg/day and then maintain for 1 week. |
@@ -211,7 +211,7 @@ To avoid an increased risk of rash, the recommended initial dose and subsequent 
 
 Table 5 Escalation Regimen for Lamotrigine in Adults with Bipolar Disorder
 
-|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone b and NOT TAKING Valproate a |
+|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg daily | 50 mg daily |
 | Weeks 3 and 4 | 25 mg daily | 50 mg daily | 100 mg daily, in divided doses |
@@ -223,7 +223,7 @@ Table 5 Escalation Regimen for Lamotrigine in Adults with Bipolar Disorder
 
 Table 6 Dosage Adjustments to Lamotrigine in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
 
-|  | Discontinuation of Psychotropic Drugs (excluding Valproate a, Carbamazepine, Phenytoin, Phenobarbital, or Primidone b) | After Discontinuation of Valproate a | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidone b |
+|  | Discontinuation of Psychotropic Drugs (excluding Valproatea, Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb) | After Discontinuation of Valproatea | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb |
 | --- | --- | --- | --- |
 |  |  | Current Dose of L amotrigine (mg/day) 100 | Current Dose of L amotrigine (mg/day) 400 |
 | Week 1 | Maintain current dose of Lamotrigine | 150 | 400 |
