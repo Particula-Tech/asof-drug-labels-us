@@ -31,6 +31,6 @@ Should NME occur, consider whether the benefits of continuous glucagon infusion 
 
 5.6 Hypoglycemia in Patients with Glucagonoma
 
-Glucagon administered to patients with glucagonoma may cause secondary hyoplycemia.
-Test patients suspected of having glucagonoma for blood levels of glucagon prior to treatment, and monitor for changes in blood glucose levels during treatement.
+Glucagon administered to patients with glucagonoma may cause secondary hypoglycemia.
+Test patients suspected of having glucagonoma for blood levels of glucagon prior to treatment, and monitor for changes in blood glucose levels during treatment.
 If a patient develops symptoms of hypoglycemia after a dose of Glucagon for Injection, give glucose orally or intravenously.

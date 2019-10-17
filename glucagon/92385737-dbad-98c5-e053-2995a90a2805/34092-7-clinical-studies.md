@@ -19,10 +19,10 @@ The mean time to treatment ‘success’ was 13.8 minutes in the GVOKE group and
 
 Table 3: Adult Patients Meeting Treatment Success in Studies A and B Combined
 
-|  | Study A (n=80) |  | Study B (n=81) |  | Pooled Studies A and B (n=161) |  |
+|  | Study A (n=80) |  | Study B (n=81) |  | Pooled Studies A and B (n=161) 2 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | GVOKE | GEK | GVOKE | GEK | GVOKE | GEK |
-| Treatment Success-n (%) | 76 (97%) | 79 (100%) | 76 (100%) | 78 (100%) | 152 (99%) | 157 (100%) |
+| Treatment Success-n (%) 1 | 76 (97%) | 79 (100%) | 76 (100%) | 78 (100%) | 152 (99%) | 157 (100%) |
 | Glucose criteria met- n (%)Greater than 70 mg/dL 20 mg/dL or greater increase from baseline | 74 (95%) 76 (97%) | 79 (100%) 79 (100%) | 76 (100%) 76 (100%) | 78 (100%) 78 (100%) | 150 (97%) 152 (99%) | 157 (100%) 157 (100%) |
 
 1 - Treatment success is defines as blood glucose greater than 70 mg/dL or an increase of blood glucose by 20 mg/dL or greater from baseline.
