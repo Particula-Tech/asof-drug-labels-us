@@ -5,9 +5,9 @@
 Approximately 16% of the 453 patients who received mirtazapine tablets in U.S. 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
 The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) are included in Table 2.
 
-Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6-Week U.S. Mirtazapine Tablets Trials
+Table 2: Common Adverse Events Associated With Discontinuation of Treatment in 6-Week U.S. Mirtazapine Tablets Trials
 
-| Adverse Event | Percentage of Patients Discontinuing with Adverse Event |  |
+| Adverse Event | Percentage of Patients Discontinuing With Adverse Event |  |
 | --- | --- | --- |
 | Mirtazapine Tablets (n = 453) | Placebo (n = 361) |  |
 | Somnolence | 10.4% | 2.2% |
@@ -17,7 +17,7 @@ Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6
 
 The most commonly observed adverse events associated with the use of mirtazapine tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (mirtazapine tablets incidence at least twice that for placebo) are listed in Table 3.
 
-Table 3: Common Treatment-Emergent Adverse Events Associated with the Use of Mirtazapine Tablets in 6-Week U.S. Trials
+Table 3: Common Treatment-Emergent Adverse Events Associated With the Use of Mirtazapine Tablets in 6-Week U.S. Trials
 
 | Adverse Event | Percentage of Patients Reporting Adverse Event |  |
 | --- | --- | --- |
@@ -128,3 +128,7 @@ In the majority of these cases, however, concomitant drugs were implicated.
 Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
 
 Increased creatine kinase blood levels and rhabdomyolysis have also been reported.
+
+Hyperprolactinemia (and related symptoms, e.g., galactorrhea and gynecomastia) has been reported.
+
+Somnambulism (ambulation and other complex behaviors out of bed) has been reported.

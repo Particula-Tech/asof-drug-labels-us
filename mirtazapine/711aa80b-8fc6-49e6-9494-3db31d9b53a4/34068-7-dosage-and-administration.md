@@ -24,7 +24,7 @@ Patients should be periodically reassessed to determine the need for maintenance
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with mirtazapine tablets.
 Conversely, at least 14 days should be allowed after stopping mirtazapine tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-## Use of Mirtazapine Tablets with Other MAOIs, such as Linezolid or Methylene Blue
+## Use of Mirtazapine Tablets With Other MAOIs, such as Linezolid or Methylene Blue
 
 Do not start mirtazapine tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).

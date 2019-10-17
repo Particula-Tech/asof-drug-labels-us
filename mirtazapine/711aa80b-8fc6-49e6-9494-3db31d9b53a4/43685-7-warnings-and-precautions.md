@@ -87,7 +87,7 @@ The effect of mirtazapine tablets on QTc interval was assessed in a clinical ran
 This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.
 However, the degree of QT prolongation observed with both 45 mg (therapeutic) and 75 mg (supratherapeutic) doses of mirtazapine was not at a level generally considered to be clinically meaningful.
 During the postmarketing use of mirtazapine, cases of QT prolongation, Torsades de Pointes, ventricular tachycardia, and sudden death, have been reported (see ADVERSE REACTIONS).
-The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines (see PRECAUTIONS: Drug Interactions and OVERDOSE sections).
+The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines (see PRECAUTIONS: Drug Interactions and OVERDOSAGE sections).
 Caution should be exercised when mirtazapine tablets are prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other medicinal products thought to prolong the QTc interval.
 
 # PRECAUTIONS
@@ -136,7 +136,7 @@ In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49%
 ### Cholesterol/Triglycerides
 
 In U.S. controlled studies, nonfasting cholesterol increases to ≥ 20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine tablets, compared to 7% for placebo and 8% for amitriptyline.
-In these same studies, nonfasting triglyceride increases to ≥ 500 mg/dL were observed in 6% of patients treated with mirtazapine tablets, compared to 3% for placebo and 3% for amitriptyline.
+In these same studies, nonfasting triglyceride increases to ≥ 500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo and 3% for amitriptyline.
 
 ### Transaminase Elevations
 
@@ -172,7 +172,7 @@ Caution is indicated in administering mirtazapine tablets to such patients (see 
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with mirtazapine tablets and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions" is available for mirtazapine tablets.
+A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions” is available for mirtazapine tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -195,7 +195,7 @@ Particular attention should be paid to any flu-like complaints or other symptoms
 ### Interference with Cognitive and Motor Performance
 
 Mirtazapine tablets may impair judgement, thinking, and particularly, motor skills, because of its prominent sedative effect.
-The drowsiness associated with mirtazapine use may impair a patient's ability to drive, use machines, or perform tasks that require alertness.
+The drowsiness associated with mirtazapine use may impair a patient’s ability to drive, use machines, or perform tasks that require alertness.
 Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that mirtazapine tablets therapy does not adversely affect their ability to engage in such activities.
 
 ### Completing Course of Therapy
@@ -210,7 +210,7 @@ Patients should be made aware of a potential increased risk for serotonin syndro
 
 ### Alcohol
 
-The impairment of cognitive and motor skills produced by mirtazapine tablets has been shown to be additive with those produced by alcohol.
+The impairment of cognitive and motor skills produced by mirtazapine tablets have been shown to be additive with those produced by alcohol.
 Accordingly, patients should be advised to avoid alcohol while taking mirtazapine.
 
 ### Pregnancy
@@ -309,7 +309,7 @@ Accordingly, patients should be advised to avoid diazepam and other similar drug
 
 ### QTc-Prolonging Drugs
 
-The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in case of mirtazapine overdose (see ADVERSE REACTIONS and OVERDOSE sections).
+The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in case of mirtazapine overdose (see ADVERSE REACTIONS and OVERDOSAGE sections).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

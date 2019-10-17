@@ -40,7 +40,7 @@ Mirtazapine is approximately 85% bound to plasma proteins over a concentration r
 
 ### Geriatric
 
-Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range, 25‒74), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
+Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range, 25–74), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
 The differences were most striking in males, with a 40% lower clearance in elderly males compared to younger males, while the clearance in elderly females was only 10% lower compared to younger females.
 Caution is indicated in administering mirtazapine tablets to elderly patients (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
