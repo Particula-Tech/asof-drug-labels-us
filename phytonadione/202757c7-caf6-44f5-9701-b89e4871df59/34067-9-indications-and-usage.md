@@ -2,7 +2,7 @@
 
 ## 1.1 Treatment of Hypoprothrombinemia Due to Vitamin K Deficiency or Interference
 
-AquaMEPHYTON is indicated for the treatment of the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity:
+Phytonadione is indicated for the treatment of the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity:
 
 - anticoagulant-induced hypoprothrombinemia caused by coumarin or indanedione derivatives;
 - hypoprothrombinemia due to antibacterial therapy;
@@ -11,4 +11,4 @@ AquaMEPHYTON is indicated for the treatment of the following coagulation disorde
 
 ## 1.2 Prophylaxis and Treatment of Vitamin K Deficiency Bleeding in Neonates
 
-AquaMEPHYTON is indicated for prophylaxis and treatment of vitamin K-deficiency bleeding in neonates.
+Phytonadione is indicated for prophylaxis and treatment of vitamin K-deficiency bleeding in neonates.
