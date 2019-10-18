@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 104-week oral study in Sprague-Dawley rats, a statistically significant increase in the incidence of gliomas was observed in male rats receiving an oral dose of 50 mcg/kg/day (approximately 0.3 times the MRHDID in adults and children 6 to 17 years of age on a mcg/m2 basis).
-No tumorigenicity was seen in male rats at oral doses up to 25 mcg/kg (approximately 0.2 times the MRHDID in adults and children 6 to 17 years of age on a mcg/m2 basis) and in female rats at oral doses up to 50 mc/kg (approximately 0.3 times, the MRHDID doses in adults and children 6 to 17 years of age, respectively, on a mcg/m2 basis).
+No tumorigenicity was seen in male rats at oral doses up to 25 mcg/kg (approximately 0.2 times the MRHDID in adults and children 6 to 17 years of age, on a mcg/m2 basis) and in female rats at oral doses up to 50 mc/kg (approximately 0.3 times, the MRHDID doses in adults and children 6 to 17 years of age, respectively, on a mcg/m2 basis).
 In two additional two-year studies in male Fischer and Sprague-Dawley rats, budesonide caused no gliomas at an oral dose of 50 mcg/kg (approximately 0.3 times the MRHDID in adults and children 6 to 17 years of age, respectively, on a mcg/m2 basis).
 However, in the male Sprague-Dawley rats, budesonide caused a statistically significant increase in the incidence of hepatocellular tumors at an oral dose of 50 mcg/kg (approximately 0.3 times the MRHDID in adults and children 6 to 17 years of age on a mcg/m2 basis).
 The concurrent reference corticosteroids (prednisone and triamcinolone acetonide) in these two studies showed similar findings.

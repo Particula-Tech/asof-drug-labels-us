@@ -218,19 +218,16 @@ Before you use a new PULMICORT FLEXHALER for the first time, you must prime it.
 
 To prime your PULMICORT FLEXHALER, follow the steps below:
 
-Hold the inhaler by the brown grip so that the white cover points upward (upright position).
-With the other hand, turn the white cover and lift it off (see Figure 2).
-
-Continue to hold your PULMICORT FLEXHALER upright as shown in Figure 1.
-Use your other hand to hold the inhaler in the middle.
-Do not hold the inhaler at the top of the mouthpiece.
-
-Twist the brown grip as far as it will go in one direction and then fully back again in the other direction until it stops (it does not matter which way you turn it first).
-You will hear a “click” during one of the twisting movements (see Figures 3 and 4).
-
-Repeat Step 3.
-Your PULMICORT FLEXHALER is now primed.
-You are ready to load your first dose.
+- •Hold the inhaler by the brown grip so that the white cover points upward (upright position).
+  With the other hand, turn the white cover and lift it off (see Figure 2).
+- •Continue to hold your PULMICORT FLEXHALER upright as shown in Figure 1.
+  Use your other hand to hold the inhaler in the middle.
+  Do not hold the inhaler at the top of the mouthpiece.
+- •Twist the brown grip as far as it will go in one direction and then fully back again in the other direction until it stops (it does not matter which way you turn it first).
+  You will hear a “click” during one of the twisting movements (see Figures 3 and 4).
+- •Repeat Step 3.
+  Your PULMICORT FLEXHALER is now primed.
+  You are ready to load your first dose.
 
 You do not have to prime your PULMICORT FLEXHALER again after this even if you do not use it for a long period of time.
 
@@ -275,7 +272,9 @@ Figure 5
 - •When you are finished taking your dose place the white cover back on the inhaler and twist shut.
 - •Rinse your mouth with water after each dose to decrease your risk of getting thrush.
   Do not swallow the water.
-- •Reading the Dose Indicator Window
+
+Reading the Dose Indicator Window
+
 - •The label on the box or cover will tell you how many doses are in your PULMICORT FLEXHALER.
 - •Your PULMICORT FLEXHALER has a dose indicator window just below the mouthpiece.
   The dose indicator tells you about how many doses are left in the inhaler.
@@ -312,7 +311,9 @@ Figure 7
   Check the dose indicator window to see how many doses are left.
 - •Refill your PULMICORT FLEXHALER prescription before your medicine runs out.
   You will get a new inhaler each time you refill your prescription.
-- •Cleaning your PULMICORT FLEXHALER
+
+Cleaning your PULMICORT FLEXHALER
+
 - •Keep your PULMICORT FLEXHALER clean and dry at all times.
   Do not immerse it in water.
 - •Wipe the outside of the mouthpiece one time each week with a dry tissue.
