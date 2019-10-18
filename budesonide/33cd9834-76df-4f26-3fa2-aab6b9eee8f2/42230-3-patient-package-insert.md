@@ -167,7 +167,7 @@ Tell your healthcare provider if your child has any side effect that bothers him
 For more information, ask your healthcare provider or pharmacist.
 
 Call your healthcare provider for medical advice about side effects.
-You may report side effects to AstraZeneca at 1-800-236-9933 or the FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.
+You may report side effects to AstraZeneca at 1-800-236-9933 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store PULMICORT RESPULES?
 
