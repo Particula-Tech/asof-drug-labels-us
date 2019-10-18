@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1Important Dosage and Administration Instructions
+## 2.1 Important Dosage and Administration Instructions
 
 MORPHABOND ER should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
@@ -16,7 +16,7 @@ Crushing, chewing, or dissolving MORPHABOND ER tablets will result in uncontroll
 
 MORPHABOND ER is administered orally every 8 or 12 hours.
 
-## 2.2Initial Dosage
+## 2.2 Initial Dosage
 
 Use of MORPHABOND ER as the First Opioid Analgesic (opioid-naïve patients)
 
@@ -30,7 +30,7 @@ Use of higher starting doses in patients who are not opioid tolerant may cause f
 
 Conversion from Other Oral Morphine to MORPHABOND ER
 
-Patients receiving other oral morphine formulations may be converted to MORPHABOND ER by administering one-half of the patient's 24-hour requirement as MORPHABOND ER on an every-12-hour schedule or by administering one-third of the patient’s daily requirement as MORPHABOND ER on an every-8-hour schedule.
+Patients receiving other oral morphine formulations may be converted to MORPHABOND ER by administering one-half of the patient's 24-hour requirement as MORPHABOND ER on an every-12-hour schedule or by administering one-third of the patient's daily requirement as MORPHABOND ER on an every-8-hour schedule.
 
 Conversion from Other Opioids to MORPHABOND ER
 
@@ -39,7 +39,7 @@ Discontinue all other around-the-clock opioid drugs when MORPHABOND ER therapy i
 There are no established conversion ratios for conversion from other opioids to MORPHABOND ER defined by clinical trials.
 Initiate dosing using MORPHABOND ER 15 mg orally every 8 to 12 hours.
 
-It is safer to underestimate a patient’s 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release morphine) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose.
+It is safer to underestimate a patient's 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release morphine) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose.
 While useful tables of opioid equivalents are readily available, there is inter-patient variability in the relative potency of opioid drugs and formulations.
 
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
@@ -62,7 +62,7 @@ Close monitoring is of particular importance when converting methadone to other 
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-## 2.3Titration and Maintenance of Therapy
+## 2.3 Titration and Maintenance of Therapy
 
 Individually titrate MORPHABOND ER to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving MORPHABOND ER to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -80,8 +80,30 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin MORPHABOND ER, start with the lowest possible dose, 15 mg every 12 hours, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dosage of the concomitant CNS depressant [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
-## 2.5Discontinuation of MORPHABOND ER
+## 2.5 Safe Reduction or Discontinuation of MORPHABOND ER
 
-When the patient no longer requires therapy with MORPHABOND ER tablets, taper the dosage gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
-If a patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue MORPHABOND ER [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue MORPHABOND ER in patients who may be physically dependent on opioids.
+Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
+
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking MORPHABOND ER, there are a variety of factors that should be considered, including the dose of MORPHABOND ER the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
+When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
+Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
+Complex patients with co-morbid pain and substance use disorders may benefit from referral to a specialist.
+
+There are no standard opioid tapering schedules that are suitable for all patients.
+Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
+For patients on MORPHABOND ER who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
+Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
+
+It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
+Reassess the patient frequently to manage pain and withdrawal symptoms, should they emerge.
+Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
+In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+
+When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

@@ -15,3 +15,5 @@ They are supplied as opaque plastic bottles containing 100 tablets (NDC 65597-30
 Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
+
+Store MORPHABOND ER securely and dispose of properly [see Patient Counseling Information (17)].
