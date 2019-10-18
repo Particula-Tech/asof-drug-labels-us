@@ -1,67 +1,71 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+- Hypercalcemia [see Warnings and Precautions (5.1)]
+- Adynamic Bone Disease [see Warnings and Precautions (5.3)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Safety has been evaluated in clinical studies conducted with another paricalcitol injection product in 609 patients with CKD Stage 5.
-In four, placebo-controlled, double-blind, multicenter studies, discontinuation of therapy due to any adverse event occurred in 6.5% of 62 patients treated with paricalcitol injection (dosage titrated as tolerated, [see Clinical Studies (14)]) and 2.0% of 51 patients treated with placebo for 1 to 3 months.
-Adverse reactions occurring with greater frequency in the paricalcitol group and at a frequency of 2% or greater are presented in the following table:
+The safety of Paricalcitol Injection has been established from adequate and well-controlled studies of another paricalcitol injection product [see Clinical Studies (14)].
+Below is a display of the adverse reactions of paricalcitol injection in these adequate and well-controlled studies.
 
-Table 2: Adverse Reactions Occurring at a Rate A patient who reported the same medical term more than once was counted only once for that medical term. of 2% or Greater in CKD Stage 5 Patients In Four Placebo-Controlled Studies
+Four placebo-controlled, double-blind, multicenter studies were conducted in 113 patients (51% male, 10% Caucasian, 81% African-American and 9% Hispanic, ranging in age from 18 to 90 years).
+Sixty-two patients were exposed to paricalcitol injection and the average dose at the end of treatment was 0.12 mcg/kg/dose with a mean number of 55 days of dosing across the studies.
+Discontinuation of therapy due to any adverse reaction occurred in 6.5% of patients treated with paricalcitol injection and 2.0% of patients treated with placebo.
+Adverse reactions occurring with greater frequency in the paricalcitol injection group and at a frequency of 2% or greater are presented in Table 3.
 
-| Adverse Reaction | Placebo(n=51)% | Paricalcitol Injection(n=62)% |
+Table 3: Adverse Reactions Occurring at a Rate of 2% or Greater in Patients with CKD on Dialysis in Four Placebo-Controlled Studies
+
+| Adverse Reaction | Placebo (n = 51) % | Paricalcitol Injection (n = 62) % |
 | --- | --- | --- |
-| Cardiac Disorders |  |  |
-| Palpitations | 0.0 | 3.2 |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 7.8 | 12.9 |
-| Vomiting | 5.9 | 8.1 |
-| Gastrointestinal Hemorrhage | 2.0 | 4.8 |
-| Dry Mouth | 2.0 | 3.2 |
-| General Disorders and Administration Site Conditions |  |  |
-| Edema | 0.0 | 6.5 |
-| Chills | 2.0 | 4.8 |
-| Pyrexia | 2.0 | 4.8 |
-| Malaise | 0.0 | 3.2 |
-| Infections and Infestations |  |  |
-| Pneumonia | 0.0 | 4.8 |
-| Sepsis | 2.0 | 4.8 |
-| Influenza | 3.9 | 4.8 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Arthralgia | 3.9 | 4.8 |
+| Nausea | 8 | 13 |
+| Vomiting | 6 | 8 |
+| Edema | 0 | 7 |
+| Gastrointestinal Hemorrhage | 2 | 5 |
+| Chills | 2 | 5 |
+| Pyrexia | 2 | 5 |
+| Pneumonia | 0 | 5 |
+| Sepsis | 2 | 5 |
+| Influenza | 4 | 5 |
+| Arthralgia | 4 | 5 |
+| Palpitations | 0 | 3 |
+| Dry Mouth | 2 | 3 |
+| Malaise | 0 | 3 |
 
-Specific laboratory parameters [i.e., changes in mean Calcium (Ca), Phosphorus (P), and Calcium Phosphorus product (Ca × P)] were followed in an open-label safety study conducted with another paricalcitol injection product for up to 13 months in duration in this patient population and results are shown below [see Clinical Studies (14)].
+Other Adverse Reactions
 
-Other Adverse Reactions Associated with Paricalcitol Injection Use
-
-The following adverse reactions, occurred in less than 2% of the paricalcitol-treated patients in the above mentioned double-blind, placebo-controlled clinical trials and in additional double-blind, active-controlled and open-label studies:
+The following adverse reactions occurred in less than 2% of the paricalcitol injection treated patients in the above mentioned studies and in additional double-blind, active-controlled and open-label studies:
 
 Blood and Lymphatic System Disorders: Anemia, lymphadenopathy
 
-Cardiac Disorders: Arrhythmia, atrial flutter, cardiac arrest
+Cardiac Disorders: Arrhythmia, atrial flutter, irregular heart rate, cardiac arrest, chest discomfort, chest pain, edema peripheral
 
 Ear and Labyrinth Disorders: Ear discomfort
 
-Endocrine Disorders: hypoparathyroidism
+Endocrine Disorders: Hypoparathyroidism
 
 Eye Disorders: Conjunctivitis, glaucoma, ocular hyperemia
 
 Gastrointestinal Disorders: Abdominal discomfort, constipation, diarrhea, dysphagia, gastritis, intestinal ischemia, rectal hemorrhage
 
-General Disorders and Administration Site Conditions: Asthenia, chest discomfort, chest pain, condition aggravated, edema peripheral, fatigue, feeling abnormal, gait disturbance, injection site extravasation, injection site pain, pain, swelling, thirst
+General Disorders: Asthenia, condition aggravated, fatigue, feeling abnormal, pain, swelling
 
-Infections and Infestations: Nasopharyngitis, upper respiratory tract infection, vaginal infection
+Infections: Nasopharyngitis, upper respiratory tract infection, vaginal infection
 
-Laboratory Investigations and Vital Signs: Increased Aspartate aminotransferase, prolonged bleeding time, irregular heart rate, decreased weight
+Injection site reactions: Injection site extravasation, injection site pain
 
-Metabolism and Nutrition Disorders: Decreased appetite, hypercalcemia, hyperkalemia, hyperphosphatemia, hypocalcemia
+Laboratory abnormalities: Hypercalcemia, hyperkalemia, hyperphosphatemia, hypocalcemia, increased aspartate aminotransferase, prolonged bleeding time
+
+Metabolism and Nutrition Disorders: Decreased appetite, thirst, decreased weight
 
 Musculoskeletal and Connective Tissue Disorders: Joint stiffness, muscle twitching, myalgia
 
 Neoplasms Benign, Malignant and Unspecified: Breast cancer
 
-Nervous System Disorders: Cerebrovascular accident, dizziness, dysgeusia, headache, hypoesthesia, myoclonus, paresthesia, syncope, unresponsive to stimuli
+Nervous System Disorders: Cerebrovascular accident, dizziness, dysgeusia, headache, hypoesthesia, myoclonus, paresthesia, syncope, unresponsive to stimuli, gait disturbance
 
 Psychiatric Disorders: Agitation, confusional state, delirium, insomnia, nervousness, restlessness
 
@@ -75,7 +79,7 @@ Vascular Disorders: Hypertension, hypotension
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of another paricalcitol injection product.
+The following adverse reactions have been identified during post-approval use of Paricalcitol Injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Allergic reactions including rash, urticaria, and angioedema (including laryngeal edema) have been reported.
+Allergic reactions, such as rash, urticaria, and angioedema (including laryngeal edema) have been reported.
