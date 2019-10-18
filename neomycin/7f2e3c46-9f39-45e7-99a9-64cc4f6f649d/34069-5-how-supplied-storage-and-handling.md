@@ -1,30 +1,17 @@
 # HOW SUPPLIED
 
-3.5 g STERILE Ointment supplied in an aluminum tube with a white polyethylene tip and white polyethylene cap.
+Neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment is supplied as a STERILE ointment in an aluminum tube with a white polyethylene tip and white polyethylene cap as follows:
 
-(NDC 61314-631-36).
+1. 3.5 g in an aluminum tube NDC 61314-631-36
 
-STORAGE:
-
-Store at 2°- 25°C (36°- 77°F).
-
-Rx Only
-
-Revised: October 2003
+Storage: Store at 2° to 25°C (36° to 77°F).
 
 Distributed by:
 
-FALCON Pharmaceuticals, Ltd.
+Sandoz Inc.
 
-Fort Worth, Texas 76134 USA
+Princeton, NJ 08540
 
-Manufactured by:
+T2017-128
 
-S.A.
-ALCON-COUVREUR N.V.
-
-Puurs, Belgium
-
-0501
-
-45057-A
+December 2017

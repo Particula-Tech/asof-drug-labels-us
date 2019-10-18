@@ -1,25 +1,13 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 61314-631-36 Rx Only
+NDC 61314-631-36
 
-Neomycin and Polymyxin B
+Neomycin and Polymyxin B Sulfates and
 
-Sulfates and
+Dexamethasone Ophthalmic Ointment
 
-Dexamethasone
+Rx Only
 
-Ophthalmic Ointment
+STERILE 3.5 g Net Wt.
 
-3.5 g STERILE
-
-FALCON
-
-PHARMACEUTICALS®
-
-QUALITY RX
-
-AFFILIATE OF
-
-ALCON
-
-LABORATORIES, INC.
+SANDOZ
