@@ -4,7 +4,7 @@ Dextromethorphan: Dextromethorphan may produce central excitement and mental con
 Very high doses may produce respiratory depression.
 One case of toxic psychosis (hyperactivity, marked visual and auditory hallucinations) after ingestion of a single dose of 20 tablets (300 mg) of dextromethorphan has been reported.
 
-Promethazine: Signs and symptoms of overdosage with promethazine HCI range from mild depression of the central nervous system and cardiovascular system to profound hypotension, respiratory depression, unconsciousness, and sudden death.
+Promethazine: Signs and symptoms of overdosage with promethazine hydrochloride range from mild depression of the central nervous system and cardiovascular system to profound hypotension, respiratory depression, unconsciousness, and sudden death.
 Other reported reactions include hyperreflexia, hypertonia, ataxia, athetosis, and extensor-plantar reflexes (Babinski reflex).
 
 Stimulation may be evident, especially in children and geriatric patients.

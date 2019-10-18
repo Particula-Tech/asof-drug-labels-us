@@ -14,13 +14,13 @@ Hematologic-Leukopenia, thrombocytopenia, thrombocytopenic purpura, agranulocyto
 
 Gastrointestinal-Dry mouth, nausea, vomiting, jaundice.
 
-Respiratory-Asthma, nasal stuffiness, respiratory depression (potentially fatal) and apnea (potentially fatal).
-(See WARNINGS - Promethazine; Respiratory Depression.)
+Respiratory-Asthma, nasal stuffiness, respiratory depression (potentially fatal) and apnea (potentially fatal) (see WARNINGS - Promethazine; Respiratory Depression).
 
 Other-Angioneurotic edema.
-Neuroleptic malignant syndrome (potentially fatal) has also been reported.
-(See WARNINGS - Promethazine; Neuroleptic Malignant Syndrome.)
+Neuroleptic malignant syndrome (potentially fatal) has also been reported (see WARNINGS - Promethazine; Neuroleptic Malignant Syndrome).
 
-Paradoxical Reactions-Hyperexcitability and abnormal movements have been reported in patients following a single administration of promethazine HCI.
-Consideration should be given to the discontinuation of promethazine HCI and to the use of other drugs if these reactions occur.
+Paradoxical Reactions-Hyperexcitability and abnormal movements have been reported in patients following a single administration of promethazine hydrochloride.
+Consideration should be given to the discontinuation of promethazine hydrochloride and to the use of other drugs if these reactions occur.
 Respiratory depression, nightmares, delirium, and agitated behavior have also been reported in some of these patients.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
