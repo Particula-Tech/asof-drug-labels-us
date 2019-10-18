@@ -51,6 +51,10 @@ Overestimating the BUTRANS dosage when converting patients from another opioid p
 
 Accidental exposure to BUTRANS, especially in children, can result in respiratory depression and death due to an overdose of buprenorphine.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of BUTRANS during pregnancy can result in withdrawal in the neonate.
@@ -139,17 +143,26 @@ The most common signs and symptoms include rashes, hives, and pruritus.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 A history of hypersensitivity to buprenorphine is a contraindication to the use of BUTRANS.
 
-## 5.14 Risks of Use with Application of External Heat
+## 5.14 Withdrawal
+
+Do not abruptly discontinue buprenorphine in a patient physically dependent on opioids.
+When discontinuing BUTRANS in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of buprenorphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+
+Additionally, the use of BUTRANS, a partial agonist opioid analgesic, in patients who are receiving a full opioid agonist analgesic may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+Avoid concomitant use of BUTRANS with a full opioid agonist analgesic.
+
+## 5.15 Risks of Use with Application of External Heat
 
 Advise patients and their caregivers to avoid exposing the BUTRANS application site and surrounding area to direct external heat sources, such as heating pads or electric blankets, heat or tanning lamps, saunas, hot tubs, and heated water beds while wearing the system because an increase in absorption of buprenorphine may occur [see Clinical Pharmacology (12.3)].
 Advise patients against exposure of the BUTRANS application site and surrounding area to hot water or prolonged exposure to direct sunlight.
 There is a potential for temperature-dependent increases in buprenorphine released from the system resulting in possible overdose and death [see Patient Counseling Information (17)].
 
-## 5.15 Risk of Use in Patients with Fever
+## 5.16 Risk of Use in Patients with Fever
 
 Monitor patients wearing BUTRANS systems who develop fever or increased core body temperature due to strenuous exertion for opioid side effects and adjust the BUTRANS dose if signs of respiratory or central nervous system depression occur.
 
-## 5.16 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.17 Risks of Use in Patients with Gastrointestinal Conditions
 
 BUTRANS is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -157,16 +170,16 @@ The buprenorphine in BUTRANS may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in the serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-## 5.17 Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.18 Increased Risk of Seizures in Patients with Seizure Disorders
 
 The buprenorphine in BUTRANS may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during BUTRANS therapy.
 
-## 5.18 Risks of Driving and Operating Machinery
+## 5.19 Risks of Driving and Operating Machinery
 
 BUTRANS may impair the mental and physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of BUTRANS and know how they will react to the medication [see Patient Counseling Information (17)].
 
-## 5.19 Use in Addiction Treatment
+## 5.20 Use in Addiction Treatment
 
 BUTRANS has not been studied and is not approved for use in the management of addictive disorders.

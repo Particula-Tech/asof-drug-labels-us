@@ -1,14 +1,14 @@
 | Medication Guide BUTRANS® (BYOO-trans) (buprenorphine) Transdermal System, CIII |  |
 | --- | --- |
 | BUTRANS is: A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage pain severe enough to require daily, around-the-clock, long-term treatment with an opioid, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.Not for use to treat pain that is not around-the-clock. |  |
-| Important information about BUTRANS: Get emergency help right away if you take too much BUTRANS (overdose). When you first start taking BUTRANS, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.Taking BUTRANS with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.Never give anyone else your BUTRANS. They could die from taking it. Store BUTRANS away from children and in a safe place to prevent stealing or abuse. Selling or giving away BUTRANS is against the law. |  |
+| Important information about BUTRANS: Get emergency help right away if you take too much BUTRANS (overdose). When you first start taking BUTRANS, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.Taking BUTRANS with other opioid medicines, benzodiazepines, and alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.Never give anyone else your BUTRANS. They could die from taking it. Selling or giving away BUTRANS is against the law.Store BUTRANS securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home. |  |
 | Do not use BUTRANS if you have: severe asthma, trouble breathing, or other lung problems.a bowel blockage or have narrowing of the stomach or intestines. |  |
 | Before applying BUTRANS, tell your healthcare provider if you have a history of: head injury, seizuresliver, kidney, thyroid problemsproblems urinatingpancreas or gallbladder problemsheart rhythm problems (Long QT syndrome)abuse of street or prescription drugs, alcohol addiction, or mental health problems. Tell your healthcare provider if you: have a feverare pregnant or planning to become pregnant. Prolonged use of BUTRANS during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.are breastfeeding. Not recommended during treatment with BUTRANS. It may harm your baby.are taking prescription or over-the-counter medicines, vitamins, or herbal supplements. Taking BUTRANS with certain other medicines can cause serious side effects. |  |
-| When using BUTRANS: Do not change your dose. Apply BUTRANS exactly as prescribed by your healthcare provider. Use the lowest effective dose for the shortest time needed.See the detailed Instructions for Use for information about how to apply the BUTRANS patch.Do not apply a BUTRANS patch if the pouch seal is broken, or the patch is cut, damaged, or changed in any way.Do not apply more than 1 patch at the same time unless your healthcare provider tells you to.You should wear 1 BUTRANS patch continuously for 7 days.Call your healthcare provider if the dose you are using does not control your pain.Do not stop using BUTRANS without talking to your healthcare provider. To properly dispose of used and unused patches, use the Patch-Disposal Unit or fold in half and flush down the toilet. See the detailed Instructions for Use. |  |
+| When using BUTRANS: Do not change your dose. Apply BUTRANS exactly as prescribed by your healthcare provider. Use the lowest effective dose for the shortest time needed.See the detailed Instructions for Use for information about how to apply the BUTRANS patch.Do not apply a BUTRANS patch if the pouch seal is broken, or the patch is cut, damaged, or changed in any way.Do not apply more than 1 patch at the same time unless your healthcare provider tells you to.You should wear 1 BUTRANS patch continuously for 7 days.Call your healthcare provider if the dose you are using does not control your pain.Do not stop using BUTRANS without talking to your healthcare provider. Dispose of expired, unwanted, or unused BUTRANS by using the Patch-Disposal Unit. Alternatively, BUTRANS can be disposed of by folding the patch in half and promptly flushing down the toilet, if a drug take-back option is not readily available [see Instructions for Use]. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines. |  |
 | While using BUTRANS DO NOT: Take hot baths or sunbathe, use hot tubs, saunas, heating pads, electric blankets, heated waterbeds, or tanning lamps. These can cause an overdose that can lead to death.Drive or operate heavy machinery, until you know how BUTRANS affects you. BUTRANS can make you sleepy, dizzy, or lightheaded.Drink alcohol or use prescription or over-the-counter medicines containing alcohol. Using products containing alcohol during treatment with BUTRANS may cause you to overdose and die. |  |
 | The possible side effects of BUTRANS are: constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, itching, redness or rash where the patch is applied. Call your healthcare provider if you have any of these symptoms and they are severe. |  |
 | Get emergency medical help if you have: trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion. These are not all the possible side effects of BUTRANS. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information go to dailymed.nlm.nih.gov Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431, www.purduepharma.com or call 1-888-726-7535 |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 12/2016 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 10/2019 |
 
 Instructions for Use BUTRANS® (BYOO-trans) CIII (buprenorphine) Transdermal System
 
@@ -103,7 +103,7 @@ Do not replace the new patch until 1 week (7 days) after you put it on (or as di
 Disposing of BUTRANS Patch:
 
 BUTRANS patches should be disposed of by using the Patch-Disposal Unit.
-Alternatively, the patches can be flushed down the toilet.
+Alternatively, the patches can be flushed down the toilet if a drug take-back option is not readily available.
 
 To dispose of BUTRANS patches in household trash using the Patch-Disposal Unit: Remove your patch and follow the directions printed on the Patch-Disposal Unit (See Figure J) or see complete instructions below.
 Use one Patch-Disposal Unit for each patch.
@@ -120,7 +120,7 @@ Close the disposal unit by folding the sticky sides together (See Figure M). Pre
 4.
 The closed disposal unit, with the patch sealed inside may be thrown away in the trash (See Figure N).
 
-Do not put unused patches in household trash without first sealing them in the Patch-Disposal Unit.
+Do not put expired, unwanted or unused patches in household trash without first sealing them in the Patch-Disposal Unit.
 
 Always remove the leftover patches from their protective pouch and remove the protective liner.
 The pouch and liner can be disposed of separately in the trash and should not be sealed in the Patch-Disposal Unit.
@@ -135,7 +135,7 @@ Fold the patches in half with the sticky sides together, and flush the patches d
 Do not flush the pouch or the protective liner down the toilet.
 These items can be thrown away in the trash.
 
-If you prefer not to flush the used patch down the toilet, you must use the Patch-Disposal Unit provided to you to discard the patch.
+If you prefer not to flush the used patch down the toilet, and if there is not a drug take-back option readily available, you must use the Patch-Disposal Unit provided to you to discard the patch.
 
 Never put used BUTRANS patches in the trash without first sealing them in the Patch-Disposal Unit.
 
@@ -143,6 +143,6 @@ This “Instructions for Use” has been approved by the U.S. Food and Drug Admi
 
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431
 
-Revised: June 2014 ©2014, Purdue Pharma L.P.
+Revised: October 2019 ©2019, Purdue Pharma L.P.
 
 Bioclusive is a trademark of Systagenix Wound Management (US), Inc. Tegaderm is a trademark of 3M.

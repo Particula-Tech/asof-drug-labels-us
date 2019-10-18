@@ -2,6 +2,14 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
+Storage and Disposal: Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store BUTRANS securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving BUTRANS unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+BUTRANS patches can be disposed of by using the Patch- Disposal Unit [see Instructions for Use].
+Alternatively, expired, unwanted, or unused BUTRANS should be disposed of by folding the patch in half and flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse Inform patients that the use of BUTRANS, even when taken as recommended, can result in addiction, abuse, and misuse, which could lead to overdose and death [see Warnings and Precautions (5.1)].
 Instruct patients not to share BUTRANS with others and to take steps to protect BUTRANS from theft or misuse.
 
@@ -9,7 +17,6 @@ Life-Threatening Respiratory Depression Inform patients of the risk of life-thre
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Exposure Inform patients that accidental exposure, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store BUTRANS securely and to dispose of unused BUTRANS by folding the patch in half and flushing it down the toilet [see Dosage and Administration (2.7).
 
 Interaction with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if BUTRANS is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5)].
 
@@ -38,8 +45,9 @@ Instruct patients how to properly use BUTRANS, including the following:
    If the application site must be cleaned, use clear water only.
    Soaps, alcohol, oils, lotions, or abrasive devices should not be used.
    Allow the skin to dry before applying BUTRANS [see Dosage and Administration (2.6)].
-3. To avoid exposing the BUTRANS application site to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.14)].
-4. Do not discontinue BUTRANS without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.3)].
+3. To avoid exposing the BUTRANS application site to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.15)].
+
+Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue BUTRANS without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension Inform patients that BUTRANS may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
@@ -56,7 +64,7 @@ Embryofetal Toxicity Inform female patients of reproductive potential that BUTRA
 Lactation Advise patients that breastfeeding is not recommended during treatment with BUTRANS [see Use in Specific Populations (8.2)]
 
 Infertility Inform patients that chronic use of opioids may cause reduced fertility.
-It is not known whether these effects on fertility are reversible [Use in Specific Populations (8.3)].
+It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Driving or Operating Heavy Machinery
 
@@ -65,20 +73,10 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Disposal
-
-Instruct patients to refer to the Instructions for Use for proper disposal of BUTRANS.
-Patients can dispose of used or unused BUTRANS patches in the trash by sealing them in the Patch-Disposal Unit, following the instructions on the unit.
-
-Alternatively, instruct patients to dispose of used patches by folding the adhesive side of the patch to itself, then flushing the patch down the toilet immediately upon removal.
-Unused patches should be removed from their pouches, the protective liners removed, the patches folded so that the adhesive side of the patch adheres to itself, and immediately flushed down the toilet.
-
-Instruct patients to dispose of any patches remaining from a prescription as soon as they are no longer needed [see Dosage and Administration (2.7)].
-
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS Lohmann Therapy Systems Corp., West Caldwell, NJ 07006
 
 U.S. Patent Numbers 5681413; 5804215; 6264980; 6315854; 6344211; RE41408; RE41489; RE41571.
 
-© 2018, Purdue Pharma L.P.
+© 2019, Purdue Pharma L.P.

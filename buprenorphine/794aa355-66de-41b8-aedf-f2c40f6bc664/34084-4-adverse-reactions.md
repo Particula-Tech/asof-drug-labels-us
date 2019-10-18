@@ -12,8 +12,8 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Hepatotoxicity [see Warnings and Precautions (5.11)]
 - Application Site Skin Reactions [see Warnings and Precautions (5.12)]
 - Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.13)]
-- Gastrointestinal Effects [see Warnings and Precautions (5.16)]
-- Seizures [see Warnings and Precautions (5.17)]
+- Gastrointestinal Effects [see Warnings and Precautions (5.17)]
+- Seizures [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -85,7 +85,7 @@ The adverse reactions seen in controlled and open-label studies are presented be
 
 The most common adverse reactions (≥ 5%) reported by patients treated with BUTRANS in the clinical trials were nausea, headache, application site pruritus, dizziness, constipation, somnolence, vomiting, application site erythema, dry mouth, and application site rash.
 
-The common(≥ 1% to < 5%) adverse reactions reported by patients treated with BUTRANS in the clinical trials organized by MedDRA (Medical Dictionary for Regulatory Activities) System Organ Class were:
+The common (≥ 1% to < 5%) adverse reactions reported by patients treated with BUTRANS in the clinical trials organized by MedDRA (Medical Dictionary for Regulatory Activities) System Organ Class were:
 
 Gastrointestinal disorders: diarrhea, dyspepsia, and upper abdominal pain
 
