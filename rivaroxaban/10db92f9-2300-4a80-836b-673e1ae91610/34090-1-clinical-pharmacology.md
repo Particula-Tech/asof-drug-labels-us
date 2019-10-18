@@ -20,7 +20,7 @@ Renal Impairment
 
 The relationship between systemic exposure and pharmacodynamic activity of rivaroxaban was altered in subjects with renal impairment relative to healthy control subjects [see Use in Specific Populations (8.6)].
 
-Table 9: Percentage Increase in Rivaroxaban PK and PD Measures in Subjects with Renal Impairment Relative to Healthy Subjects from Clinical Pharmacology Studies
+Table 10: Percentage Increase in Rivaroxaban PK and PD Measures in Subjects with Renal Impairment Relative to Healthy Subjects from Clinical Pharmacology Studies
 
 | Measure | Parameter | 50–79 | 30–49 | 15–29 | ESRD (on dialysis)Separate stand-alone study. | ESRD (post-dialysis) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in
 Compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased in subjects with renal impairment.
 Increases in pharmacodynamic effects were also observed [see Use in Specific Populations (8.6)].
 
-Hemodialysis in ESRD subjects: Systemic exposure to rivaroxaban administered as a single 15 mg dose in ESRD subjects dosed 3 hours after the completion of a 4-hour hemodialysis session (post-dialysis) is 56% higher when compared to subjects with normal renal function (see Table 9).
+Hemodialysis in ESRD subjects: Systemic exposure to rivaroxaban administered as a single 15 mg dose in ESRD subjects dosed 3 hours after the completion of a 4-hour hemodialysis session (post-dialysis) is 56% higher when compared to subjects with normal renal function (see Table 10).
 The systemic exposure to rivaroxaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 600 mL/min and a blood flow rate in the range of 320 to 400 mL/min is 47% higher compared to those with normal renal function.
 The extent of the increase is similar to the increase in patients with CrCl 15 to 50 mL/min taking XARELTO 15 mg.
 Hemodialysis had no significant impact on rivaroxaban exposure.

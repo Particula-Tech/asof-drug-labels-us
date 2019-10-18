@@ -10,8 +10,8 @@ The following clinically significant adverse reactions are also discussed in oth
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-During clinical development for the approved indications, 27,694 patients were exposed to XARELTO.
-These included 7111 patients who received XARELTO 15 mg or 20 mg orally once daily for a mean of 19 months (5558 for 12 months and 2512 for 24 months) to reduce the risk of stroke and systemic embolism in nonvalvular atrial fibrillation (ROCKET AF); 6962 patients who received XARELTO 15 mg orally twice daily for three weeks followed by 20 mg orally once daily to treat DVT or PE (EINSTEIN DVT, EINSTEIN PE), 10 mg or 20 mg orally once daily (EINSTEIN Extension, EINSTEIN CHOICE) to reduce the risk of recurrence of DVT and/or PE; 4487 patients who received XARELTO 10 mg orally once daily for prophylaxis of DVT following hip or knee replacement surgery (RECORD 1–3); and 9134 patients who received XARELTO 2.5 mg orally twice daily, in combination with aspirin 100 mg once daily, for the reduction in risk of major cardiovascular events in patients with chronic CAD or PAD (COMPASS).
+During clinical development for the approved indications, 31,691 patients were exposed to XARELTO.
+These included 7111 patients who received XARELTO 15 mg or 20 mg orally once daily for a mean of 19 months (5558 for 12 months and 2512 for 24 months) to reduce the risk of stroke and systemic embolism in nonvalvular atrial fibrillation (ROCKET AF); 6962 patients who received XARELTO 15 mg orally twice daily for three weeks followed by 20 mg orally once daily to treat DVT or PE (EINSTEIN DVT, EINSTEIN PE), 10 mg or 20 mg orally once daily (EINSTEIN Extension, EINSTEIN CHOICE) to reduce the risk of recurrence of DVT and/or PE; 4487 patients who received XARELTO 10 mg orally once daily for prophylaxis of DVT following hip or knee replacement surgery (RECORD 1–3); 3997 patients who received 10 mg orally once daily for prophylaxis of VTE and VTE-related death in acutely ill medical patients (MAGELLAN) and 9134 patients who received XARELTO 2.5 mg orally twice daily, in combination with aspirin 100 mg once daily, for the reduction in risk of major cardiovascular events in patients with chronic CAD or PAD (COMPASS).
 
 Hemorrhage
 
@@ -43,7 +43,7 @@ Figure 1 shows the risk of major bleeding events across major subgroups.
 
 Figure 1: Risk of Major Bleeding Events by Baseline Characteristics in ROCKET AF – On Treatment Plus 2 Days
 
-Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score).
+Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup but was a criterion for the CHADS2 score).
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
@@ -133,13 +133,32 @@ Patients may have more than one event. in Patients Undergoing Hip or Knee Replac
 
 Following XARELTO treatment, the majority of major bleeding complications (≥60%) occurred during the first week after surgery.
 
+Prophylaxis of Venous Thromboembolism in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding
+
+In the MAGELLAN study, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events.
+Cases of pulmonary hemorrhage and pulmonary hemorrhage with bronchiectasis were observed.
+Patients with bronchiectasis/pulmonary cavitation, active cancer (i.e., undergoing acute, in-hospital cancer treatment), dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months all had an excess of bleeding with XARELTO compared with enoxaparin/placebo and are excluded from all MAGELLAN data presented in Table 6.
+The incidence of bleeding leading to drug discontinuation was 2.5% for XARELTO vs. 1.4% for enoxaparin/placebo.
+
+Table 6 shows the number of patients experiencing various types of bleeding events in the MAGELLAN study.
+
+Table 6: Bleeding Events in MAGELLANPatients at high risk of bleeding (i.e. bronchiectasis/pulmonary cavitation, active cancer, dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months) were excluded.
+Study–Safety Analysis Set - On Treatment Plus 2 Days
+
+| MAGELLAN StudyPatients received either XARELTO or placebo once daily for 35 ±4 days starting in hospital and continuing post hospital discharge or received enoxaparin or placebo once daily for 10 ±4 days in the hospital. | XARELTO 10 mg N=3218 n (%) | Enoxaparin 40 mg /placebo N=3229 n (%) |
+| --- | --- | --- |
+| Major bleedingDefined as clinically overt bleeding associated with a drop in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome.Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. These events occurred during treatment or within 2 days of stopping treatment. | 22 (0.7) | 15 (0.5) |
+| Critical site bleeding | 7 (0.2) | 4 (0.1) |
+| Fatal bleedingFatal bleeding is adjudicated death with the primary cause of death from bleeding. | 3 (<0.1) | 1 (<0.1) |
+| Clinically relevant non-major bleeding events (CRNM) | 93 (2.9) | 34 (1.1) |
+
 Reduction of Risk of Major Cardiovascular Events in Patients with Chronic CAD or PAD
 
 In the COMPASS trial, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 2.7% for XARELTO 2.5 mg twice daily in combination with aspirin 100 mg once daily vs. 1.2% for aspirin 100 mg once daily.
 
-Table 6 shows the number of patients experiencing various types of major bleeding events in the COMPASS trial.
+Table 7 shows the number of patients experiencing various types of major bleeding events in the COMPASS trial.
 
-Table 6: Major Bleeding EventsMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
+Table 7: Major Bleeding EventsMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
 These events occurred during treatment or within 2 days of stopping treatment. in COMPASS - On Treatment Plus 2 days
 
 | Parameter | n (%/year) | n (%/year) | HR (95 % CI) |
@@ -164,9 +183,9 @@ Figure 2: Risk of Modified ISTH Major Bleeding Events by Baseline Characteristic
 
 Other Adverse Reactions
 
-Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 7.
+Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 8.
 
-Table 7: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
+Table 8: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
 
 | Body System Adverse Reaction |  |  |
 | --- | --- | --- |
@@ -188,9 +207,9 @@ Table 7: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XAR
 | Skin and subcutaneous tissue disorders |  |  |
 | Pruritus | 53 (2.2) | 27 (1.1) |
 
-Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 8.
+Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 9.
 
-Table 8: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
+Table 9: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
 
 | Body System Adverse Reaction | XARELTO 10 mg N=4487 n (%) | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) N=4524 n (%) |
 | --- | --- | --- |
@@ -204,8 +223,6 @@ Table 8: Other Adverse Drug ReactionsAdverse reaction occurring any time followi
 | Skin and subcutaneous tissue disorders |  |  |
 | Pruritus | 96 (2.1) | 79 (1.8) |
 | Blister | 63 (1.4) | 40 (0.9) |
-
-Other clinical trial experience: In an investigational study of acute medically ill patients being treated with XARELTO 10 mg tablets, cases of pulmonary hemorrhage and pulmonary hemorrhage with bronchiectasis were observed.
 
 ## 6.2 Postmarketing Experience
 

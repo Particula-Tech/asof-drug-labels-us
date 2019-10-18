@@ -20,6 +20,11 @@ These include aspirin, P2Y12 platelet inhibitors, dual antiplatelet therapy, oth
 
 Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
 
+Risk of Hemorrhage in Acutely Ill Medical Patients at High Risk of Bleeding
+
+Acutely ill medical patients with the following conditions are at increased risk of bleeding with the use of XARELTO for primary VTE prophylaxis: history of bronchiectasis, pulmonary cavitation, or pulmonary hemorrhage, active cancer (i.e. undergoing acute, in-hospital cancer treatment), active gastroduodenal ulcer in the three months prior to treatment, history of bleeding in the three months prior to treatment, or dual antiplatelet therapy.
+XARELTO is not for use for primary VTE prophylaxis in these hospitalized, acutely ill medical patients at high risk of bleeding.
+
 Reversal of Anticoagulant Effect
 
 An agent to reverse the anti-factor Xa activity of rivaroxaban is available.
@@ -60,6 +65,11 @@ Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected inc
 Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with CrCl 30 to 50 mL/min.
 Patients who develop acute renal failure while on XARELTO should discontinue the treatment [see Use in Specific Populations (8.6)].
 
+Prophylaxis of Venous Thromboembolism in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding
+
+Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population.
+Consider discontinuation of XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.6)].
+
 ## 5.5 Use in Patients with Hepatic Impairment
 
 No clinical data are available for patients with severe hepatic impairment.
@@ -88,7 +98,7 @@ Therefore, use of XARELTO is not recommended in these patients.
 
 Initiation of XARELTO is not recommended acutely as an alternative to unfractionated heparin in patients with pulmonary embolism who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.
 
-## 5.10 Increased Risk of Thrombosis in Patients with Antiphospholipid Syndrome
+## 5.10 Increased Risk of Thrombosis in Patients with Triple Positive Antiphospholipid Syndrome
 
-Direct-acting oral anticoagulants (DOACs), including XARELTO, are not recommended for use in patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome (APS).
-For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardiolipin, and anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with an increased rate of recurrent thrombotic events compared with vitamin K antagonist therapy.
+Direct-acting oral anticoagulants (DOACs), including XARELTO, are not recommended for use in patients with triple-positive antiphospholipid syndrome (APS).
+For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardiolipin, and anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.

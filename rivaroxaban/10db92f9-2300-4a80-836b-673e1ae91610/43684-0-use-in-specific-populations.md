@@ -77,9 +77,10 @@ Of the total number of patients in the RECORD 1–3 clinical studies evaluating 
 In ROCKET AF, approximately 77% were 65 years and over and about 38% were >75 years.
 In the EINSTEIN DVT, PE and Extension clinical studies approximately 37% were 65 years and over and about 16% were >75 years.
 In EINSTEIN CHOICE, approximately 39% were 65 years and over and about 12% were >75 years.
+In the MAGELLAN study, approximately 67% were 65 years and over and about 37% were >75 years.
 In the COMPASS study, approximately 76% were 65 years and over and about 17% were >75 years.
 In clinical trials the efficacy of XARELTO in the elderly (65 years or older) was similar to that seen in patients younger than 65 years.
-Both thrombotic and bleeding event rates were higher in these older patients, but the risk-benefit profile was favorable in all age groups [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+Both thrombotic and bleeding event rates were higher in these older patients [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
 ## 8.6 Renal Impairment
 
@@ -109,6 +110,11 @@ Prophylaxis of DVT Following Hip or Knee Replacement Surgery
 The combined analysis of the RECORD 1–3 clinical efficacy studies did not show an increase in bleeding risk for patients with CrCl 30 to 50 mL/min and reported a possible increase in total venous thromboemboli in this population.
 Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with CrCl 30 to 50 mL/min.
 Avoid the use of XARELTO in patients with CrCl <30 mL/min.
+
+Prophylaxis of Venous Thromboembolism in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding
+
+In the MAGELLAN study, patients with a baseline CrCl <30 mL/min were excluded.
+Avoid use of XARELTO in patients with CrCl <30 mL/min.
 
 Reduction of Risk of Major Cardiovascular Events in Patients with Chronic CAD or PAD
 
