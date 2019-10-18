@@ -10,10 +10,10 @@ In spite of its limited lipid solubility, fluorouracil diffuses readily across t
 
 Seven to 20 percent of the parent drug is excreted unchanged in the urine in 6 hours; of this, over 90% is excreted in the first hour.
 The remaining percentage of the administered dose is metabolized, primarily in the liver.
-The catabolic metabolism of fluorouracil results in degradation products (e.g., CO2, urea and α-fluoro-ß-alanine) which are inactive.
+The catabolic metabolism of fluorouracil results in degradation products (e.g., CO 2, urea and α-fluoro-ß-alanine) which are inactive.
 The inactive metabolites are excreted in the urine over the next 3 to 4 hours.
-When fluorouracil is labeled in the six carbon position, thus preventing the 14C metabolism to CO2, approximately 90% of the total radioactivity is excreted in the urine.
-When fluorouracil is labeled in the two carbon position, approximately 90% of the total radioactivity is excreted in expired CO2.
+When fluorouracil is labeled in the six carbon position, thus preventing the 14C metabolism to CO 2, approximately 90% of the total radioactivity is excreted in the urine.
+When fluorouracil is labeled in the two carbon position, approximately 90% of the total radioactivity is excreted in expired CO 2.
 Ninety percent of the dose is accounted for during the first 24 hours following intravenous administration.
 
 Following intravenous administration of fluorouracil, the mean half-life of elimination from plasma is approximately 16 minutes, with a range of 8 to 20 minutes, and is dose dependent.

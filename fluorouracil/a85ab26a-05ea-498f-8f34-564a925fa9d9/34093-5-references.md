@@ -21,4 +21,4 @@
    Am J Hosp Pharm.
    Jan 1985; 42:131-137.
 
-PREMIERPro®Rx is a trademark of Premier, Inc., used under license.
+PREMIERPro ®Rx is a trademark of Premier, Inc., used under license.

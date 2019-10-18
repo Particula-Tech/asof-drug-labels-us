@@ -5,7 +5,8 @@ IT IS RECOMMENDED THAT PATIENTS BE HOSPITALIZED DURING THEIR FIRST COURSE OF TRE
 
 Fluorouracil should be used with extreme caution in poor risk patients with a history of high-dose pelvic irradiation or previous use of alkylating agents, those who have widespread involvement of bone marrow by metastatic tumors or those with impaired hepatic or renal function.
 
-Rarely, unexpected, severe toxicity (e.g., stomatitis, diarrhea, neutropenia and neurotoxicity) associated with 5-fluorouracil has been attributed to deficiency of dipyrimidine dehydrogenase activity.1 A few patients have been rechallenged with 5-fluorouracil and despite 5-fluorouracil dose lowering, toxicity recurred and progressed with worse morbidity.
+Rarely, unexpected, severe toxicity (e.g., stomatitis, diarrhea, neutropenia and neurotoxicity) associated with 5-fluorouracil has been attributed to deficiency of dipyrimidine dehydrogenase activity.
+1 A few patients have been rechallenged with 5-fluorouracil and despite 5-fluorouracil dose lowering, toxicity recurred and progressed with worse morbidity.
 Absence of this catabolic enzyme appears to result in prolonged clearance of 5-fluorouracil.
 
 ## Pregnancy

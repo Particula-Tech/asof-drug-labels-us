@@ -41,7 +41,8 @@ The patient’s reaction to the previous course of therapy should be taken into 
 Some patients have received from 9 to 45 courses of treatment during periods which ranged from 12 to 60 months.
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published.2-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.
+2-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
 
 ## Note
 

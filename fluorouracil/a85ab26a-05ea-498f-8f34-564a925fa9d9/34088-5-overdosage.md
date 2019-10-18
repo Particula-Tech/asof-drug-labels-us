@@ -8,6 +8,6 @@ Should abnormalities appear, appropriate therapy should be utilized.
 
 The acute intravenous toxicity of fluorouracil is as follows:
 
-| Species | LD50(mg/kg ± S.E.) |
+| Species | LD 50(mg/kg ± S.E.) |
 | --- | --- |
 | MouseRatRabbitDog | 340 ± 17165 ± 26 27 ± 5.131.5 ± 3.8 |
