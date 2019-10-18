@@ -50,6 +50,10 @@ Overestimating the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Ca
 
 Accidental ingestion of (or exposure to) Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, especially by children, can result in respiratory depression and death due to an overdose of codeine and butalbital.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.3)].
+
 ## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
@@ -194,11 +198,13 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.16 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
+Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine in a patient physically dependent on opioids.
+Rapid tapering of Butalbital, Acetaminophen, Caffeine, and Codeine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.3), Drug Abuse and Dependence (9.3)].
+
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
 When discontinuing Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.3)].
-Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in these patients.
 Abrupt discontinuation of butalbital can cause seizures [see Drug Abuse and Dependence (9.3)].
 
 ## 5.17 Risks of Driving and Operating Machinery
