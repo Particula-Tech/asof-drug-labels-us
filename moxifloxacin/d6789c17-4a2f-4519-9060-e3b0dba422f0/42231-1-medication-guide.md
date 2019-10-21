@@ -22,8 +22,7 @@ Symptoms of tendon problems may include: o Pain, swelling, tears and inflammatio
 
 ● The risk of getting tendon problems while you take moxifloxacin tablets is higher if you: o Are over 60 years of age o Are taking steroids (corticosteroids) o Have had a kidney, heart or lung transplant
 
-- 
-  - Tendon problems can happen in people who do not have the above risk factors when they take moxifloxacin tablets.
+- Tendon problems can happen in people who do not have the above risk factors when they take moxifloxacin tablets.
 
 ● Other reasons that can increase your risk of tendon problems can include: o Physical activity or exercise o Kidney failure o Tendon problems in the past, such as in people with rheumatoid arthritis (RA).
 
@@ -295,4 +294,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/product-medica
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 10/2019
