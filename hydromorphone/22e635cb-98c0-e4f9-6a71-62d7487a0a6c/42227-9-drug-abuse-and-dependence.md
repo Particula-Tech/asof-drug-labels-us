@@ -31,9 +31,7 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of EXALGO
-
-EXALGO is for oral use only.
+Risks Specific to Abuse of EXALGO EXALGO is for oral use only.
 Abuse of EXALGO poses a risk of overdose and death.
 This risk is increased with concurrent abuse of EXALGO with alcohol and other central nervous system depressants.
 
@@ -48,12 +46,16 @@ Both tolerance and physical dependence can develop during chronic opioid therapy
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
 Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
-Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Physical dependence is a physiological state in which the body adapts to the drug after a period of regular exposure, resulting in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-EXALGO should not be abruptly discontinued [see Dosage and Administration (2.3)].
-If EXALGO is abruptly discontinued in a physically-dependent patient, an abstinence syndrome may occur.
-Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, piloerection, myalgia, mydriasis, irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, increased blood pressure, respiratory rate, or heart rate.
+Do not abruptly discontinue EXALGO in a patient physically dependent on opioids.
+Rapid tapering of EXALGO in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Warnings and Precautions (5.4)].
+When discontinuing EXALGO, gradually taper the dosage using a patient-specific plan that considers the following: the dose of EXALGO the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
+To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.4), Warnings and Precautions (5.12)].
+
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

@@ -21,13 +21,9 @@ Crushing, chewing, or dissolving EXALGO tablets will result in uncontrolled deli
 
 ## 2.2 Initial Dosage
 
-Conversion from Other Oral Hydromorphone Formulations to EXALGO
+Conversion from Other Oral Hydromorphone Formulations to EXALGO Patients receiving oral immediate-release hydromorphone may be converted to EXALGO by administering a starting dose equivalent to the patient’s total daily oral hydromorphone dose, taken once daily.
 
-Patients receiving oral immediate-release hydromorphone may be converted to EXALGO by administering a starting dose equivalent to the patient’s total daily oral hydromorphone dose, taken once daily.
-
-Conversion from Other Oral Opioids to EXALGO
-
-Discontinue all other around-the-clock opioid drugs when EXALGO therapy is initiated.
+Conversion from Other Oral Opioids to EXALGO Discontinue all other around-the-clock opioid drugs when EXALGO therapy is initiated.
 
 There is substantial inter-patient variability in the relative potency of different opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of EXALGO.
@@ -84,9 +80,7 @@ Round down, if necessary, to the appropriate EXALGO tablet strengths available.
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to EXALGO.
 
-Conversion from Transdermal Fentanyl to EXALGO
-
-Eighteen hours following the removal of the transdermal fentanyl patch, EXALGO treatment can be initiated.
+Conversion from Transdermal Fentanyl to EXALGO Eighteen hours following the removal of the transdermal fentanyl patch, EXALGO treatment can be initiated.
 To calculate the 24-hour EXALGO dose, use a conversion factor of 25 mcg/hr fentanyl transdermal patch to 12 mg of EXALGO.
 Then reduce the EXALGO dose by 50%.
 
@@ -106,9 +100,7 @@ Round down, if necessary, to the appropriate EXALGO tablet strengths available.
 - 50% of 36 mg results in an initial dose of 18 mg, which would be rounded down to 16 mg of EXALGO once daily
 - Adjust individually for each patient
 
-Conversion from Methadone to EXALGO
-
-Close monitoring is of particular importance when converting from methadone to other opioid agonists.
+Conversion from Methadone to EXALGO Close monitoring is of particular importance when converting from methadone to other opioid agonists.
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
@@ -128,13 +120,33 @@ If the level of pain increases after dose stabilization, attempt to identify the
 If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced.
 Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Discontinuation of EXALGO
+## 2.4 Safe Reduction or Discontinuation of EXALGO
 
-When a patient no longer requires therapy with EXALGO, taper doses gradually, by 25% to 50% every 2 to 3 days while monitoring carefully for signs and symptoms of withdrawal.
-If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue EXALGO.
+Do not abruptly discontinue EXALGO in patients who may be physically dependent on opioids.
+Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-To dispose of unused EXALGO flush all remaining tablets down the toilet or remit to authorities at a certified drug take-back program.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking EXALGO, there are a variety of factors that should be considered, including the dose of EXALGO the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
+When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
+Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
+Complex patients with comorbid pain and substance use disorders may benefit from referral to a specialist.
+
+There are no standard opioid tapering schedules that are suitable for all patients.
+Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
+For patients on EXALGO who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
+Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
+
+It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
+Reassess the patient frequently to manage pain and withdrawal symptoms, should they emerge.
+Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
+In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+
+When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
 
 ## 2.5 Dosage Modifications in Patients with Moderate Hepatic Impairment
 

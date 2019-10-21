@@ -10,3 +10,5 @@ EXALGO Extended-Release Tablet Strengths
 | 32 mg | White | Round, biconvex, printed with “EXH 32” | 100 | 23635-432-01 |
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+
+Store EXALGO securely and dispose of properly [see Patient Counseling Information (17)].

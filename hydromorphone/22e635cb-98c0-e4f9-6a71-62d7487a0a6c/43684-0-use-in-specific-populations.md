@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Risk Summary Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 There are no adequate and well-controlled studies in pregnant women.
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
@@ -17,29 +15,19 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
-
-Fetal/Neonatal Adverse Reactions
-
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome, and manage accordingly [see Warnings and Precautions (5.4)].
 
-Labor or Delivery
-
-Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 EXALGO is not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including EXALGO can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Data
-
-Animal Data
-
-Pregnant rats were treated with hydromorphone hydrochloride from Gestation Day 6 to 17 via oral gavage doses of 1.75, 3.5, or 7 mg/kg/day (0.5, 1.1, or 2.1 times the HDD of 32 mg/day based on body surface area, respectively).
+Data Animal Data Pregnant rats were treated with hydromorphone hydrochloride from Gestation Day 6 to 17 via oral gavage doses of 1.75, 3.5, or 7 mg/kg/day (0.5, 1.1, or 2.1 times the HDD of 32 mg/day based on body surface area, respectively).
 Maternal toxicity was noted in all treatment groups (reduced food consumption and body weights in the two highest dose groups).
 There was no evidence of malformations or embryotoxicity reported.
 
@@ -60,23 +48,17 @@ Maternal toxicity was noted in all treatment groups (reduced food consumption an
 
 ## 8.2 Lactation
 
-Risk Summary
-
-Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with EXALGO.
+Risk Summary Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with EXALGO.
 Low concentrations of hydromorphone have been detected in human milk in clinical trials.
 Withdrawal symptoms can occur in breastfeeding infants when maternal administration of an opioid analgesic is stopped.
 Nursing should not be undertaken while a patient is receiving EXALGO since hydromorphone is excreted in the milk.
 
-Clinical Considerations
-
-Monitor infants exposed to EXALGO through breast milk for excess sedation and respiratory depression.
+Clinical Considerations Monitor infants exposed to EXALGO through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
-
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Infertility Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
