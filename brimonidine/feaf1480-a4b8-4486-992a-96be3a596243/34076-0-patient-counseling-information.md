@@ -19,9 +19,16 @@ Lenses may be reinserted 15 minutes following administration of COMBIGAN®.
 As with other similar medications, COMBIGAN® may cause fatigue and/or drowsiness in some patients.
 Patients who engage in hazardous activities should be cautioned of the potential for a decrease in mental alertness.
 
-© 2015 Allergan.All rights reserved.
-Irvine, CA 92612, U.S.A. All trademarks are the property of their respective owners.
+© 2015 Allergan.
+All rights reserved.
+
+Irvine, CA 92612, U.S.A.
+
+All trademarks are the property of their respective owners.
+
 Patented.
-See: www.allergan.com/products/patent_notices Made in the U.S.A.
+See: www.allergan.com/products/patent_notices
+
+Made in the U.S.A.
 
 72060US15

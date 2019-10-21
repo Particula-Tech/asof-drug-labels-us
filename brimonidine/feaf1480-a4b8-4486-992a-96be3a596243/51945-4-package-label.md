@@ -1,11 +1,3 @@
-ALLERGAN
+# PRINCIPAL DISPLAY PANEL
 
-NDC 0023-9211-05
-
-Combigan®
-
-(brimonidine tartrate/ timolol maleate ophthalmic solution) 0.2%/0.5%
-
-Rx only
-
-5 mL sterile
+NDC 0023-9211-05 Combigan Rx Only 5 mL sterile
