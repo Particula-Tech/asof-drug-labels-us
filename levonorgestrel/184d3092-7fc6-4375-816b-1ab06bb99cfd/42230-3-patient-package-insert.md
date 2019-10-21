@@ -8,7 +8,7 @@ Read this Patient Information before you start using Climara Pro and each time y
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about Climara Pro (combinations of estrogen and a progestin)? •Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (declines of brain function).•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots. •Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia.•Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.•You and your healthcare provider should talk regularly about whether you still need treatment with Climara Pro. |
+| What is the most important information I should know about Climara Pro (combinations of estrogen and a progestin)? •Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (declines of brain function).•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots. •Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia.•Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.•Only one estrogen-alone product and dose has been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestin product and dose has been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of DRUG will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with Climara Pro. |
 | --- |
 
 What is Climara Pro?
@@ -272,6 +272,8 @@ Step 6: Throwing away your used patch.
 This Patient Information and Instructions for Use have been approved by the U.S Food and Drug Administration.
 
 © 2013, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
+
+M/2019
 
 Made In USA
 

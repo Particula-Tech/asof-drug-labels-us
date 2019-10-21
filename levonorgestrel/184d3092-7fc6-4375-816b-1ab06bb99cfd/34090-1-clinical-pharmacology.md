@@ -26,6 +26,9 @@ There are no pharmacodynamic data for Climara Pro.
 
 ## 12.3 Pharmacokinetics
 
+Systemic estrogen exposures across different estrogen products should not be compared.
+These comparisons can be unreliable and misleading when there are differences in route of administration, estrogen components, dosing, or analytical methods that were used across the studies.
+
 ### Absorption
 
 Transdermal administration of Climara Pro produces mean maximum estradiol concentrations in serum in about 2 to 2.5 days.
