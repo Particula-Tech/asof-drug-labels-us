@@ -16,4 +16,6 @@ OXYCONTIN (oxycodone hydrochloride) extended-release tablets 80 mg are film-coat
 
 Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
+Store OXYCONTIN securely and dispose of properly [see Patient Counseling Information (17)].
+
 Dispense in tight, light-resistant container.

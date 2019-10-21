@@ -48,7 +48,7 @@ The 25 mg/kg and 125 mg/kg doses high doses produced maternal toxicity character
 
 Pregnant rats were treated with 0.5, 2, and 6 mg/kg oxycodone hydrochloride (0.08, 0.32, and 1 times the human daily dose of 60 mg/kg, respective, based on a mg/m2 basis, during the period of organogenesis through lactation.
 Decreased body weight was found during lactation and the early post-weaning phase in pups nursed by mothers given the highest dose used (6 mg/kg/day, equivalent to an adult human dose of 60 mg/day, on a mg/m2 basis).
-However, body weight of these pups recovered
+However, body weight of these pups recovered.
 
 In published studies, offspring of pregnant rats administered oxycodone hydrochloride during gestation have been reported to exhibit neurobehavioral effects including altered stress responses and increased anxiety-like behavior (2 mg/kg/day IV from Gestation Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3 times an adult human oral dose of 60 mg/day on a mg/m2 basis), and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human oral dose of 60 mg/day on a mg/m2 basis).
 

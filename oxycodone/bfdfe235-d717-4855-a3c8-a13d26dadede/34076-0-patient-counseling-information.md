@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal:
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store OXYCONTIN securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving OXYCONTIN unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused OXYCONTIN should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse and Misuse
 
 Inform patients that the use of OXYCONTIN, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -17,7 +26,6 @@ To guard against excessive exposure to OXYCONTIN by young children, advise careg
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store OXYCONTIN securely and to dispose of unused OXYCONTIN by flushing the tablets down the toilet.
 
 Interactions with Benzodiazepines or Other CNS Depressants
 
@@ -49,7 +57,10 @@ Instruct patients how to properly take OXYCONTIN, including the following:
 - OXYCONTIN tablets should be taken one tablet at a time [see Dosage and Administration (2.1)].
 - Do not pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Dosage and Administration (2.1)].
 - Take each tablet with enough water to ensure complete swallowing immediately after placing in the mouth [see Dosage and Administration (2.1)].
-- Do not discontinue OXYCONTIN without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.9)].
+
+Important Discontinuation Instructions
+
+- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue OXYCONTIN without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension
 
@@ -85,14 +96,11 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
-Disposal of Unused OXYCONTIN
-
-Advise patients to flush the unused tablets down the toilet when OXYCONTIN is no longer needed.
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-©2018, Purdue Pharma L.P.
+©2019, Purdue Pharma L.P.
 
-U.S. Patent Numbers 7,129,248; 8,309,060; 8,808,741; 8,821,929; 8,894,987; 8,894,988; 9,060,976; 9,073,933; 9,492,389, 9,492,391, 9,492,392, 9,492,393; 9,522,919; 9,675,610; 9,763,886; 9,763,933; 9,770,416; 9,775,808; 9,775,810; 9,775,811; 9,777,011, and 10,130,591.
+U.S. Patent Numbers 7,129,248; 8,309,060; 8,808,741; 8,821,929; 8,894,987; 8,894,988; 9,073,933; 9,492,389; 9,492,391; 9,492,392; 9,492,393; 9,522,919; 9,675,610; 9,763,886; 9,763,933; 9,770,416; 9,775,808; 9,775,810; 9,775,811; 9,777,011; 10,130,591; 10,369,109 and 10,407,434.
