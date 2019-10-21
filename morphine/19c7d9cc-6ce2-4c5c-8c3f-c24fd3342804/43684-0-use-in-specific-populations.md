@@ -16,21 +16,21 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Fetal/Neonatal Adverse Reactions
+- Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
-Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
-The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
+- Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+  Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
+  The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+  Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
-Labor or Delivery
+- Labor or Delivery
 
-Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
-Morphine sulfate extended-release tablets are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
-Opioid analgesics, including morphine sulfate extended-release tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
-However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
-Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
+- Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+  An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+  Morphine sulfate extended-release tablets are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
+  Opioid analgesics, including morphine sulfate extended-release tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
+  However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
+  Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
 Data
 
