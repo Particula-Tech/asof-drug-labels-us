@@ -41,7 +41,7 @@ The mean (±SD) absolute bioavailability of atovaquone from a 750-mg dose of ato
 
 Effect of Food: Administering atovaquone oral suspension with food enhances atovaquone bioavailability.
 Sixteen healthy subjects received a single 750 mg- dose of atovaquone oral suspension after an overnight fast and following a meal (23 g fat: 610 kCal).
-The mean (SD) atovaquone AUC under fasting and fed conditions were 324  115 and 801  320 h●mcg/mL, respectively, representing a 2.6  1-fold increase.
+The mean (±SD) atovaquone AUC under fasting and fed conditions were 324 ± 115 and 801 ± 320 h●mcg/mL, respectively, representing a 2.6 ± 1-fold increase.
 
 Distribution
 
@@ -51,11 +51,11 @@ In 3 HIV-1-infected children who received 750 mg atovaquone as the tablet formul
 
 Elimination
 
-The mean (SD) half-life of atovaquone was 62.5  35.3 hours after IV administration and ranged from 67  33.4 to 77.6  23.1 hours following administration of atovaquone oral suspension.
+The mean (±SD) half-life of atovaquone was 62.5 ± 35.3 hours after IV administration and ranged from 67 ± 33.4 to 77.6 ± 23.1 hours following administration of atovaquone oral suspension.
 
 Metabolism: The metabolism of atovaquone is unknown.
 
-Excretion: Following oral administration of 14C-labelled atovaquone was administered to healthy subjects, greater than 94% of the dose was recovered as unchanged atovaquone in the feces over 21 days.
+Excretion: Following oral administration of 14C-labelled atovaquone to healthy subjects, greater than 94% of the dose was recovered as unchanged atovaquone in the feces over 21 days.
 
 Specific Populations
 
@@ -80,7 +80,7 @@ Metoclopramide: Concomitant treatment with metoclopramide has been associated wi
 
 Indinavir: Concomitant administration of atovaquone (750 mg twice daily with food for 14 days) and indinavir (800 mg three times daily without food for 14 days) did not result in any change in the steady‑state AUC and Cmax of indinavir, but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI: 8%, 35%]).
 
-Trimethoprim/Sulfamethoxazole: Concomitant administration of atovaquone oral suspension 500 mg once daily (not the approved dosage) and TMP-SMX in 6 HIV-infected adult subjects did not result in significant changes in either atovaquone or TMP-SMX exposure.
+Trimethoprim/Sulfamethoxazole (TMP-SMX): Concomitant administration of atovaquone oral suspension 500 mg once daily (not the approved dosage) and TMP-SMX in 6 HIV-infected adult subjects did not result in significant changes in either atovaquone or TMP-SMX exposure.
 
 Zidovudine: The administration of atovaquone tablets 750 mg every 12 hours with zidovudine 200 mg every 8 hours to 14 HIV-1 infected subjects resulted in a 24% ± 12% decrease in zidovudine apparent oral clearance, leading to a 35% ± 23% increase in plasma zidovudine AUC.
 The glucuronide metabolite: parent ratio decreased from a mean of 4.5 when zidovudine was administered alone to 3.1 when zidovudine was administered with atovaquone tablets.
