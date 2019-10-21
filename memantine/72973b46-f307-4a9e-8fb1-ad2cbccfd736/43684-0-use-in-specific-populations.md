@@ -100,8 +100,8 @@ The no-effect dose for developmental toxicity was the lowest dose tested (1 mg/k
 
 ## 8.5 Geriatric Use
 
-The majority of people with Alzheimer’s disease are 65 years of age and older.
-In the clinical studies of memantine hydrochloride the mean age of patients was approximately 76 years; over 90% of patients were 65 years and older, 60% were 75 years and older, and 12% were at or above 85 years of age.
+The majority of people with Alzheimer’s disease are 65 years and older.
+In the clinical studies of memantine hydrochloride the mean age of patients was approximately 76; over 90% of patients were 65 years and older, 60% were 75 years and older, and 12% were at or above 85 years of age.
 The efficacy and safety data presented in the clinical trial sections were obtained from these patients.
 There were no clinically meaningful differences in most adverse events reported by patient groups ≥65 years old and <65 years old.
 
