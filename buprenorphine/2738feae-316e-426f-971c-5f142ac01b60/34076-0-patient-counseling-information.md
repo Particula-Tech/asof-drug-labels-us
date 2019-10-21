@@ -2,6 +2,16 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store buprenorphine transdermal system securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving buprenorphine transdermal system unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Buprenorphine transdermal system patches can be disposed of by using the Patch-Disposal Unit [see Instructions for Use].
+Alternatively, expired, unwanted, or unused buprenorphine transdermal system patches should be disposed of by folding the patch in half and flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of buprenorphine transdermal system, even when taken as recommended, can result in addiction, abuse, and misuse, which could lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -15,7 +25,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Exposure
 
 Inform patients that accidental exposure, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store buprenorphine transdermal system securely and to dispose of unused buprenorphine transdermal system by folding the patch in half and flushing it down the toilet [see Dosage and Administration (2.7).
 
 Interaction with Benzodiazepines and Other CNS Depressants
 
@@ -54,8 +63,11 @@ Instruct patients how to properly use buprenorphine transdermal system, includin
    If the application site must be cleaned, use clear water only.
    Soaps, alcohol, oils, lotions, or abrasive devices should not be used.
    Allow the skin to dry before applying buprenorphine transdermal system [see Dosage and Administration (2.6)].
-3. To avoid exposing the buprenorphine transdermal system application site to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.14)].
-4. Do not discontinue buprenorphine transdermal system without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)].
+3. To avoid exposing the buprenorphine transdermal system application site to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.15)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue buprenorphine transdermal system without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -94,13 +106,3 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
-
-Disposal
-
-Instruct patients to refer to the Instructions for Use for proper disposal of buprenorphine transdermal system.
-Patients can dispose of used or unused buprenorphine transdermal system patches in the trash by sealing them in the Patch-Disposal Unit, following the instructions on the unit.
-
-Alternatively, instruct patients to dispose of used patches by folding the adhesive side of the patch to itself, then flushing the patch down the toilet immediately upon removal.
-Unused patches should be removed from their pouches, the protective liners removed, the patches folded so that the adhesive side of the patch adheres to itself, and immediately flushed down the toilet.
-
-Instruct patients to dispose of any patches remaining from a prescription as soon as they are no longer needed [see Dosage and Administration (2.7)].

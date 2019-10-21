@@ -99,7 +99,7 @@ Effects of Heat
 
 In a study of healthy subjects, application of a heating pad directly on the buprenorphine transdermal system 10 mcg/hour caused a 26% to 55% increase in blood concentrations of buprenorphine.
 Concentrations returned to normal within 5 hours after the heat was removed.
-For this reason, instruct patients not to apply heating pads directly to the buprenorphine transdermal system during system wear [see Warnings and Precautions (5.14)].
+For this reason, instruct patients not to apply heating pads directly to the buprenorphine transdermal system during system wear [see Warnings and Precautions (5.15)].
 
 Fever may increase the permeability of the skin, leading to increased buprenorphine concentrations during buprenorphine transdermal system treatment.
 As a result, febrile patients are at increased risk for the possibility of buprenorphine transdermal system-related reactions during treatment with buprenorphine transdermal system.
@@ -179,7 +179,7 @@ The pharmacokinetics of buprenorphine following an IV infusion of 0.3 mg of bupr
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
 Buprenorphine transdermal system has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment.
-[see Warnings and Precautions (5.11), and Use in Specific Populations (8.6)].
+[see Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
 
 Renal Impairment
 

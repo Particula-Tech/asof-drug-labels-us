@@ -6,9 +6,9 @@ Risk Summary
 
 Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Available data with buprenorphine transdermal system in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
+
 In animal reproduction studies, buprenorphine caused an increase in the number of stillborn offspring, reduced litter size, and reduced offspring growth in rats at maternal exposure levels that were approximately 10 times that of human subjects who received one buprenorphine transdermal system 20 mcg/hour, the maximum recommended human dose (MRHD) [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
-
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.

@@ -96,7 +96,7 @@ Do not replace the new patch until 1 week (7 days) after you put it on (or as di
 Disposing of Buprenorphine Transdermal System Patch:
 
 Buprenorphine transdermal system patches should be disposed of by using the Patch-Disposal Unit.
-Alternatively, the patches can be flushed down the toilet.
+Alternatively, the patches can be flushed down the toilet if a drug take-back option is not readily available.
 
 To dispose of buprenorphine transdermal system patches in household trash using the Patch-Disposal Unit:
 
@@ -114,7 +114,7 @@ Figure J
 4. The closed disposal unit, with the patch sealed inside may be thrown away in the trash (﻿See Figure N﻿).
    Figure N
 
-Do not put unused patches in household trash without first sealing them in the Patch-Disposal Unit.
+Do not put expired, unwanted, or unused patches in household trash without first sealing them in the Patch-Disposal Unit.
 
 Always remove the leftover patches from their protective pouch and remove the protective liner.
 The pouch and liner can be disposed of separately in the trash and should not be sealed in the Patch-Disposal Unit.
@@ -130,7 +130,7 @@ Fold the patches in half with the sticky sides together, and flush the patches d
 Do not flush the pouch or the protective liner down the toilet.
 These items can be thrown away in the trash.
 
-If you prefer not to flush the used patch down the toilet, you must use the Patch-Disposal Unit provided to you to discard the patch.
+If you prefer not to flush the used patch down the toilet and if there is not a drug take-back option readily available, you must use the Patch-Disposal Unit provided to you to discard the patch.
 
 Never put used buprenorphine transdermal system patches in the trash without first sealing them in the Patch-Disposal Unit.
 
@@ -138,7 +138,7 @@ This "Instructions for Use" has been approved by the U.S. Food and Drug Administ
 
 Marketed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816
 
-Revised: 06/2014
+Revised: 10/2019
 
 Bioclusive is a trademark of Systagenix Wound Management (US), Inc.
 

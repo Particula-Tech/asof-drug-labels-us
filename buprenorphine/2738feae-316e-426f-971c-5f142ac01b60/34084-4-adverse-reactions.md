@@ -12,8 +12,8 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Hepatotoxicity [see Warnings and Precautions (5.11)]
 - Application Site Skin Reactions [see Warnings and Precautions (5.12)]
 - Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.13)]
-- Gastrointestinal Effects [see Warnings and Precautions (5.16)]
-- Seizures [see Warnings and Precautions (5.17)]
+- Gastrointestinal Effects [see Warnings and Precautions (5.17)]
+- Seizures [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Trial Experience
 
