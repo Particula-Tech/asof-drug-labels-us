@@ -2,15 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unknown.
-However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
-Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the other clinical effects of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
+The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unclear.
+However, the efficacy of aripiprazole in the listed indications could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
 
 ## 12.2 Pharmacodynamics
 
 Aripiprazole exhibits high affinity for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors (Ki values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha1-adrenergic and histamine H1 receptors (Ki values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
 Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1,000 nM).
-[Aripiprazole functions as a partial agonist at the dopamine D2 and the serotonin 5-HT1A receptors, and as an antagonist at serotonin 5-HT2A receptor.]
 
 ## 12.3 Pharmacokinetics
 
@@ -29,7 +27,7 @@ Absorption
 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
-In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see DOSAGE AND ADMINISTRATION (2.6)].
+In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see Dosage and Administration (2.6)].
 The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
 
 Distribution
@@ -54,22 +52,22 @@ Effects of other drugs on the exposures of aripiprazole and dehydro-aripiprazole
 Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
 A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
-Figure 1: The Effects of Other Drugs on Aripiprazole Pharmacokinetics
+Figure 1: The effects of other drugs on aripiprazole pharmacokinetics
 
-Figure 2: The Effects of Other Drugs on Dehydro-Aripiprazole Pharmacokinetics
+Figure 2: The effects of other drugs on dehydro-aripiprazole pharmacokinetics
 
 The effects of aripiprazole on the exposures of other drugs are summarized in Figure 3.
 A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 mg/day or 40 mg/day), paroxetine CR (37.5 mg/day or 50 mg/day), or sertraline (100 mg/day or 150 mg/day) dosed to steady-state.
 The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively, and concentrations of paroxetine decreased by about 27%.
 The steady-state plasma concentrations of sertraline and desmethylsertraline were not substantially changed when these antidepressant therapies were co-administered with aripiprazole.
 
-Figure 3: The Effects of Aripiprazole on Pharmacokinetics of Other Drugs
+Figure 3: The effects of aripiprazole on pharmacokinetics of other drugs
 
 Studies in Specific Populations
 
 Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
 In addition, in pediatric patients (10 to 17 years of age) administered with aripiprazole (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
 
-Figure 4: Effects of Intrinsic Factors on Aripiprazole Pharmacokinetics
+Figure 4: Effects of intrinsic factors on aripiprazole pharmacokinetics
 
-Figure 5: Effects of Intrinsic Factors on Dehydro-Aripiprazole Pharmacokinetics:
+Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics:

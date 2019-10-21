@@ -4,21 +4,21 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- Cerebrovascular Adverse Events, Including Stroke [see WARNINGS AND PRECAUTIONS (5.2)]
-- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.3)]
-- Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.4)]
-- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.5)]
-- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.6)]
-- Pathological Gambling and Other Compulsive Behaviors [see WARNINGS AND PRECAUTIONS (5.7)]
-- Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.8)]
-- Falls [see WARNINGS AND PRECAUTIONS (5.9)]
-- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.10)]
-- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.11)]
-- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.12)]
-- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.13)]
-- Suicide [see WARNINGS AND PRECAUTIONS (5.14)]
-- Dysphagia [see WARNINGS AND PRECAUTIONS (5.15)]
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Cerebrovascular Adverse Events, Including Stroke [see Warnings and Precautions (5.2)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.3)]
+- Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
+- Tardive Dyskinesia [see Warnings and Precautions (5.5)]
+- Metabolic Changes [see Warnings and Precautions (5.6)]
+- Pathological Gambling and Other Compulsive Behaviors [see Warnings and Precautions (5.7)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.8)]
+- Falls [see Warnings and Precautions (5.9)]
+- Leukopenia, Neutropenia, and Agranulocytosis [see Warnings and Precautions (5.10)]
+- Seizures/Convulsions [see Warnings and Precautions (5.11)]
+- Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.12)]
+- Body Temperature Regulation [see Warnings and Precautions (5.13)]
+- Suicide [see Warnings and Precautions (5.14)]
+- Dysphagia [see Warnings and Precautions (5.15)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
@@ -109,8 +109,7 @@ Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Pa
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Pharyngolaryngeal Pain | 3 | 2 |
 | Cough | 3 | 2 |
-
-a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.
+| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
 
 An examination of population subgroups did not reveal any clear evidence of differential adverse reaction incidence on the basis of age, gender, or race.
 
@@ -156,10 +155,7 @@ Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunct
 | Insomnia | 8 | 4 |
 | Anxiety | 4 | 1 |
 | Restlessness | 2 | 1 |
-
-a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.
-
-* Lithium or Valproate
+| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Lithium or Valproate |  |  |
 
 Pediatric Patients (13 to 17 years) with Schizophrenia
 
@@ -230,7 +226,7 @@ Table 20: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Pediatric Patients (6 to 18 years) with Tourette's Disorder
 
-The following findings are based on one 8-week and one 10-week, placebo-controlled trials in which oral aripiprazole is administered in doses of 2 mg/day to 20 mg/day.
+The following findings are based on one 8-week and one 10-week, placebo-controlled trials in which oral aripiprazole was administered in doses of 2 mg/day to 20 mg/day.
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
@@ -303,7 +299,7 @@ Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatri
 | Epistaxis | 2 | 1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 2 | 1 |
-| aAdverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
+| a Adverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
 
 Adult Patients Receiving Aripiprazole as Adjunctive Treatment of Major Depressive Disorder
 
@@ -354,10 +350,7 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Psychiatric Disorders |  |  |
 | Restlessness | 12 | 2 |
 | Insomnia | 8 | 2 |
-
-a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.
-
-*Antidepressant Therapy
+| a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. *Antidepressant Therapy |  |  |
 
 Dose-Related Adverse Reactions
 
@@ -440,7 +433,7 @@ Adverse Reactions in Long-Term, Double-Blind, Placebo-Controlled Trials
 The adverse reactions reported in a 26-week, double-blind trial comparing oral aripiprazole and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for aripiprazole vs. 2% (3/153) for placebo].
 In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
 Tremor infrequently led to discontinuation (<1%) of aripiprazole.
-In addition, in a long-term (52-week), active-controlled study, the incidence of tremor was 5% (40/859) for aripiprazole.
+In addition, in a long-term (52 week), active-controlled study, the incidence of tremor was 5% (40/859) for aripiprazole.
 A similar profile was observed in a long-term monotherapy study and a long-term adjunctive study with lithium and valproate in bipolar disorder.
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Aripiprazole
@@ -489,7 +482,7 @@ frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucos
 
 Metabolism and Nutrition Disorders:
 
-frequent – anorexia; infrequent - rare - hypokalemia, hyponatremia, hypoglycemia
+frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
 
 Musculoskeletal and Connective Tissue Disorders:
 
@@ -497,7 +490,7 @@ infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobil
 
 Nervous System Disorders:
 
-infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, myoclonus, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients -choreoathetosis
+infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
 
 Psychiatric Disorders:
 

@@ -5,20 +5,20 @@
 Increased Mortality
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
+Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer’s Disease
 
 In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation [placebo 0%, aripiprazole 4%], and lightheadedness [placebo 1%, aripiprazole 4%].
 
 The safety and efficacy of aripiprazole in the treatment of patients with psychosis associated with dementia have not been established.
-If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see BOXED WARNING].
+If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke
 
 In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78 to 88 years).
 In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
-Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
+Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 ## 5.3 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
@@ -96,7 +96,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and, thereby, may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -116,7 +116,7 @@ While all drugs in the class have been shown to produce some metabolic changes, 
 Hyperglycemia/Diabetes Mellitus
 
 Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics.
-There have been reports of hyperglycemia in patients treated with aripiprazole [see ADVERSE REACTIONS (6.1, 6.2)].
+There have been reports of hyperglycemia in patients treated with aripiprazole [see Adverse Reactions (6.1, 6.2)].
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
@@ -138,7 +138,7 @@ Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials i
 
 |  | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/822 | 3.8 |
+| Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/822 | 3.8 |
 | Placebo | 22/605 | 3.6 |  |  |
 | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/176 | 17.6 |  |
 | Placebo | 13/142 | 9.2 |  |  |
@@ -204,7 +204,7 @@ Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy T
 | Total CholesterolNormal to High (<200 mg/dL to ≥240 mg/dL) | Aripiprazole | 34/1,357 | 2.5 |
 | Placebo | 27/973 | 2.8 |  |
 | Fasting TriglyceridesNormal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 40/539 | 7.4 |
-| Placebo | 30/431 | 7 |  |
+| Placebo | 30/431 | 7.0 |  |
 | Fasting LDL CholesterolNormal to High (<100 mg/dL to ≥160 mg/dL) | Aripiprazole | 2/332 | 0.6 |
 | Placebo | 2/268 | 0.7 |  |
 | HDL CholesterolNormal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 121/1,066 | 11.4 |
@@ -263,12 +263,12 @@ Table 13: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pe
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
-| Total CholesterolNormal to High (<170 mg/dL to ≥200 mg/dL) | Aripiprazole | 1/85 | 1.2 |
+| Total Cholesterol Normal to High (<170 mg/dL to ≥200 mg/dL) | Aripiprazole | 1/85 | 1.2 |
 | Placebo | 0/46 | 0 |  |
-| Fasting TriglyceridesNormal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 5/94 | 5.3 |
+| Fasting Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 5/94 | 5.3 |
 | Placebo | 2/55 | 3.6 |  |
-| HDL CholesterolNormal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 4/108 | 3.7 |
-| Placebo | 2/67 | 3 |  |
+| HDL Cholesterol Normal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 4/108 | 3.7 |
+| Placebo | 2/67 | 3.0 |  |
 
 Weight Gain
 
@@ -344,15 +344,15 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 ## 5.8 Orthostatic Hypotension
 
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2,467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%) [see ADVERSE REACTIONS (6.1)].
+The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2,467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%) [see Adverse Reactions (6.1)].
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), or in pediatric oral aripiprazole-treated patients aged 6 to 18 years (0.4%, 1%).
 
-Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see DRUG INTERACTIONS (7.1)].
+Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) [see Drug Interactions (7.1)].
 
 ## 5.9 Falls
 
-Aripiprazole may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+Antipsychotics, including aripiprazole may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
@@ -365,7 +365,7 @@ In patients with a history of a clinically significant low WBC/ANC or drug-induc
 In such patients, consider discontinuation of aripiprazole at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
+Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1,000/mm3) and follow their WBC counts until recovery.
 
 ## 5.11 Seizures/Convulsions
 
@@ -385,15 +385,15 @@ Despite the relatively modest increased incidence of these events compared to pl
 ## 5.13 Body Temperature Regulation
 
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
+Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see Adverse Reactions (6.2)].
 
 ## 5.14 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and major depressive disorder, and close supervision of high-risk patients should accompany drug therapy.
-Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
+Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.15 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including aripiprazole.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.
-Aripiprazole and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see WARNINGS AND PRECAUTIONS (5.1) and ADVERSE REACTIONS (6.2)].
+Aripiprazole and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
