@@ -6,7 +6,9 @@ In a study of 12 healthy volunteers, bilateral conjunctivitis and dry mouth were
 
 Treatment of overdosage consists of discontinuation of SPIRIVA HANDIHALER together with institution of appropriate symptomatic and/or supportive therapy.
 
-Accidental Ingestion Acute intoxication by inadvertent oral ingestion of SPIRIVA capsules is unlikely since it is not well-absorbed systemically.
+Accidental Ingestion
+
+Acute intoxication by inadvertent oral ingestion of SPIRIVA capsules is unlikely since it is not well-absorbed systemically.
 
 A case of overdose has been reported from postmarketing experience.
 A female patient was reported to have inhaled 30 capsules over a 2.5 day period, and developed altered mental status, tremors, abdominal pain, and severe constipation.

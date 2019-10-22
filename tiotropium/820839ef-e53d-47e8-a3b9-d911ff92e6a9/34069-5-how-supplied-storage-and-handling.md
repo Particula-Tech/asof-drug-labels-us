@@ -20,7 +20,9 @@ The following packages are available:
 Keep out of reach of children.
 Do not get powder into eyes.
 
-Storage Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Storage
+
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 The SPIRIVA capsules should not be exposed to extreme temperature or moisture.
 Do not store SPIRIVA capsules in the HANDIHALER device.

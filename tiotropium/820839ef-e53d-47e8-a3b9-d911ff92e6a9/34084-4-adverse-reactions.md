@@ -18,7 +18,7 @@ SPIRIVA HANDIHALER was studied in two 1-year placebo-controlled trials, two 1-ye
 In these trials, 1308 patients were treated with SPIRIVA HANDIHALER at the recommended dose of 18 mcg once a day.
 The population had an age ranging from 39 to 87 years with 65% to 85% males, 95% Caucasian, and had COPD with a mean pre-bronchodilator forced expiratory volume in one second (FEV1) percent predicted of 39% to 43%.
 Patients with narrow-angle glaucoma, or symptomatic prostatic hypertrophy or bladder outlet obstruction were excluded from these trials.
-An additional 6-month trial conducted in a Veteran’s Affairs setting is not included in this safety database because only serious adverse events were collected.
+An additional 6-month trial conducted in a Veteran's Affairs setting is not included in this safety database because only serious adverse events were collected.
 
 The most commonly reported adverse drug reaction was dry mouth.
 Dry mouth was usually mild and often resolved during continued treatment.
@@ -33,23 +33,30 @@ Table 1 Adverse Reactions (% Patients) in One-Year COPD Clinical Trials
 |  | SPIRIVA (n = 550) | Placebo (n = 371) | SPIRIVA (n = 356) | Ipratropium (n = 179) |
 | --- | --- | --- | --- | --- |
 | Body System (Event) | Placebo-Controlled Trials |  | Ipratropium-Controlled Trials |  |
-| Body as a Whole Chest Pain (non-specific) | 7 | 5 | 5 | 2 |
+| Body as a Whole |  |  |  |  |
+| Chest Pain (non-specific) | 7 | 5 | 5 | 2 |
 | Edema, Dependent | 5 | 4 | 3 | 5 |
-| Gastrointestinal System Disorders Dry Mouth | 16 | 3 | 12 | 6 |
+| Gastrointestinal System Disorders |  |  |  |  |
+| Dry Mouth | 16 | 3 | 12 | 6 |
 | Dyspepsia | 6 | 5 | 1 | 1 |
 | Abdominal Pain | 5 | 3 | 6 | 6 |
 | Constipation | 4 | 2 | 1 | 1 |
 | Vomiting | 4 | 2 | 1 | 2 |
-| Musculoskeletal System Myalgia | 4 | 3 | 4 | 3 |
-| Resistance Mechanism Disorders Infection | 4 | 3 | 1 | 3 |
+| Musculoskeletal System |  |  |  |  |
+| Myalgia | 4 | 3 | 4 | 3 |
+| Resistance Mechanism Disorders |  |  |  |  |
+| Infection | 4 | 3 | 1 | 3 |
 | Moniliasis | 4 | 2 | 3 | 2 |
-| Respiratory System (Upper) Upper Respiratory Tract Infection | 41 | 37 | 43 | 35 |
+| Respiratory System (Upper) |  |  |  |  |
+| Upper Respiratory Tract Infection | 41 | 37 | 43 | 35 |
 | Sinusitis | 11 | 9 | 3 | 2 |
 | Pharyngitis | 9 | 7 | 7 | 3 |
 | Rhinitis | 6 | 5 | 3 | 2 |
 | Epistaxis | 4 | 2 | 1 | 1 |
-| Skin and Appendage Disorders Rash | 4 | 2 | 2 | 2 |
-| Urinary System Urinary Tract Infection | 7 | 5 | 4 | 2 |
+| Skin and Appendage Disorders |  |  |  |  |
+| Rash | 4 | 2 | 2 | 2 |
+| Urinary System |  |  |  |  |
+| Urinary Tract Infection | 7 | 5 | 4 | 2 |
 
 Arthritis, coughing, and influenza-like symptoms occurred at a rate of ≥3% in the SPIRIVA HANDIHALER treatment group, but were <1% in excess of the placebo group.
 
@@ -61,13 +68,17 @@ In the 1-year trials, the incidence of dry mouth, constipation, and urinary trac
 Two multicenter, 6-month, controlled studies evaluated SPIRIVA HANDIHALER in patients with COPD.
 The adverse reactions and the incidence rates were similar to those seen in the 1-year controlled trials.
 
-4-Year Trial The data described below reflect exposure to SPIRIVA HANDIHALER in 5992 COPD patients in a 4-year placebo-controlled trial.
+4-Year Trial
+
+The data described below reflect exposure to SPIRIVA HANDIHALER in 5992 COPD patients in a 4-year placebo-controlled trial.
 In this trial, 2986 patients were treated with SPIRIVA HANDIHALER at the recommended dose of 18 mcg once a day.
 The population had an age range from 40 to 88 years, was 75% male, 90% Caucasian, and had COPD with a mean pre-bronchodilator FEV1 percent predicted of 40%.
 Patients with narrow-angle glaucoma, or symptomatic prostatic hypertrophy or bladder outlet obstruction were excluded from these trials.
 When the adverse reactions were analyzed with a frequency of ≥3% in the SPIRIVA HANDIHALER group where the rates in the SPIRIVA HANDIHALER group exceeded placebo by ≥1%, adverse reactions included (SPIRIVA HANDIHALER, placebo): pharyngitis (12.5%, 10.8%), sinusitis (6.5%, 5.3%), headache (5.7%, 4.5%), constipation (5.1%, 3.7%), dry mouth (5.1%, 2.7%), depression (4.4%, 3.3%), insomnia (4.4%, 3.0%), and arthralgia (4.2%, 3.1%).
 
-Additional Adverse Reactions Other adverse reactions not previously listed that were reported more frequently in COPD patients treated with SPIRIVA HANDIHALER than placebo include: dehydration, skin ulcer, stomatitis, gingivitis, oropharyngeal candidiasis, dry skin, skin infection, and joint swelling.
+Additional Adverse Reactions
+
+Other adverse reactions not previously listed that were reported more frequently in COPD patients treated with SPIRIVA HANDIHALER than placebo include: dehydration, skin ulcer, stomatitis, gingivitis, oropharyngeal candidiasis, dry skin, skin infection, and joint swelling.
 
 ## 6.2 Postmarketing Experience
 

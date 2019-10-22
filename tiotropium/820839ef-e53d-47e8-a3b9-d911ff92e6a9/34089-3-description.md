@@ -14,7 +14,7 @@ It is sparingly soluble in water and soluble in methanol.
 
 The structural formula is:
 
-Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br • H2O.
+Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br ∙ H2O.
 
 The HANDIHALER device is an inhalation device used to inhale the dry powder contained in the SPIRIVA capsule.
 The dry powder is delivered from the HANDIHALER device at flow rates as low as 20 L/min.

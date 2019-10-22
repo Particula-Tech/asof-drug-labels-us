@@ -11,7 +11,9 @@ The bronchodilation following inhalation of tiotropium is predominantly a site-s
 
 ## 12.2 Pharmacodynamics
 
-Cardiac Electrophysiology In a multicenter, randomized, double-blind trial using tiotropium dry powder for inhalation that enrolled 198 patients with COPD, the number of subjects with changes from baseline-corrected QT interval of 30 to 60 msec was higher in the SPIRIVA HANDIHALER group as compared with placebo.
+Cardiac Electrophysiology
+
+In a multicenter, randomized, double-blind trial using tiotropium dry powder for inhalation that enrolled 198 patients with COPD, the number of subjects with changes from baseline-corrected QT interval of 30 to 60 msec was higher in the SPIRIVA HANDIHALER group as compared with placebo.
 This difference was apparent using both the Bazett (QTcB) [20 (20%) patients vs. 12 (12%) patients] and Fredericia (QTcF) [16 (16%) patients vs. 1 (1%) patient] corrections of QT for heart rate.
 No patients in either group had either QTcB or QTcF of >500 msec.
 Other clinical studies with SPIRIVA HANDIHALER did not detect an effect of the drug on QTc intervals.
@@ -28,20 +30,28 @@ Tiotropium is administered by dry powder inhalation.
 Some of the pharmacokinetic data described below were obtained with higher doses than recommended for therapy.
 A dedicated pharmacokinetic study in patients with COPD evaluating once-daily tiotropium delivered from the RESPIMAT inhaler (5 mcg) and as inhalation powder (18 mcg) from the HANDIHALER device resulted in a similar systemic exposure between the two products.
 
-Absorption Following dry powder inhalation by young healthy volunteers, the absolute bioavailability of 19.5% suggests that the fraction reaching the lung is highly bioavailable.
+Absorption
+
+Following dry powder inhalation by young healthy volunteers, the absolute bioavailability of 19.5% suggests that the fraction reaching the lung is highly bioavailable.
 Oral solutions of tiotropium have an absolute bioavailability of 2-3%.
 Food is not expected to influence the absorption of tiotropium.
 Maximum tiotropium plasma concentrations were observed 7 minutes after inhalation.
 
-Distribution Tiotropium is 72% bound to plasma protein and had a volume of distribution of 32 L/kg after intravenous administration to young healthy volunteers.
+Distribution
+
+Tiotropium is 72% bound to plasma protein and had a volume of distribution of 32 L/kg after intravenous administration to young healthy volunteers.
 Local concentrations in the lung are not known, but the mode of administration suggests substantially higher concentrations in the lung.
 Studies in rats have shown that tiotropium does not readily penetrate the blood-brain barrier.
 
-Elimination The terminal half-life of tiotropium in COPD patients following once daily inhalation of 5 mcg tiotropium was approximately 25 hours.
+Elimination
+
+The terminal half-life of tiotropium in COPD patients following once daily inhalation of 5 mcg tiotropium was approximately 25 hours.
 Total clearance was 880 mL/min after intravenous administration in young healthy volunteers.
 After chronic once-daily dry powder inhalation by COPD patients, pharmacokinetic steady state was reached by day 7 with no accumulation thereafter.
 
-Metabolism The extent of metabolism is small.
+Metabolism
+
+The extent of metabolism is small.
 This is evident from a urinary excretion of 74% of unchanged substance after an intravenous dose to young healthy volunteers.
 Tiotropium, an ester, is nonenzymatically cleaved to the alcohol N-methylscopine and dithienylglycolic acid, neither of which binds to muscarinic receptors.
 
@@ -50,20 +60,32 @@ This enzymatic pathway can be inhibited by CYP450 2D6 and 3A4 inhibitors, such a
 Thus, CYP450 2D6 and 3A4 are involved in the metabolic pathway that is responsible for the elimination of a small part of the administered dose.
 In vitro studies using human liver microsomes showed that tiotropium in supra-therapeutic concentrations did not inhibit CYP450 1A1, 1A2, 2B6, 2C9, 2C19, 2D6, 2E1, or 3A4.
 
-Excretion Intravenously administered tiotropium bromide is mainly excreted unchanged in urine (74%).
-After dry powder inhalation to COPD patients at steady state, urinary excretion was 7% (1.3 mcg) of the unchanged dose over 24 hours.
+Excretion
+
+Intravenously administered tiotropium bromide is mainly excreted unchanged in urine (74%).
+After dry powder inhalation to COPD patients at steady state, urinary excretion was 7% (1.3mcg) of the unchanged dose over 24 hours.
 The renal clearance of tiotropium exceeds the creatinine clearance, indicating secretion into the urine.
 
-Specific Populations Geriatric Patients As expected for all predominantly renally excreted drugs, advancing age was associated with a decrease of tiotropium renal clearance (365 mL/min in COPD patients <65 years to 271 mL/min in COPD patients ≥65 years).
+Specific Populations
+
+Geriatric Patients
+
+As expected for all predominantly renally excreted drugs, advancing age was associated with a decrease of tiotropium renal clearance (365 mL/min in COPD patients <65 years to 271 mL/min in COPD patients ≥65 years).
 This did not result in a corresponding increase in AUC0-6,ss and Cmax,ss values following administration via HANDIHALER device.
 
-Renal Impairment Following 4-week SPIRIVA HANDIHALER or SPIRIVA RESPIMAT once daily dosing in patients with COPD, mild renal impairment (creatinine clearance 60-<90 mL/min) resulted in 6-23% higher AUC0-6,ss and 6-17% higher Cmax,ss values; moderate renal impairment (creatinine clearance 30-<60 mL/min) resulted in 54-57% higher AUC0-6,ss and 15-31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance ≥90 mL/min).
+Renal Impairment
+
+Following 4-week SPIRIVA HANDIHALER or SPIRIVA RESPIMAT once daily dosing in patients with COPD, mild renal impairment (creatinine clearance 60-<90 mL/min) resulted in 6-23% higher AUC0-6,ss and 6-17% higher Cmax,ss values; moderate renal impairment (creatinine clearance 30-<60 mL/min) resulted in 54-57% higher AUC0-6,ss and 15-31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance ≥90 mL/min).
 There is insufficient data for tiotropium exposure in patients with severe renal impairment (creatinine clearance <30 mL/min) following inhalation of SPIRIVA HANDIHALER or SPIRIVA RESPIMAT.
 However AUC0-4 and Cmax were 94% and 52% higher, respectively, in patients with severe renal impairment following intravenous infusion of tiotropium bromide.
 
-Hepatic Impairment The effects of hepatic impairment on the pharmacokinetics of tiotropium were not studied.
+Hepatic Impairment
 
-Drug Interactions An interaction study with tiotropium (14.4 mcg intravenous infusion over 15 minutes) and cimetidine 400 mg three times daily or ranitidine 300 mg once daily was conducted.
+The effects of hepatic impairment on the pharmacokinetics of tiotropium were not studied.
+
+Drug Interactions
+
+An interaction study with tiotropium (14.4 mcg intravenous infusion over 15 minutes) and cimetidine 400 mg three times daily or ranitidine 300 mg once daily was conducted.
 Concomitant administration of cimetidine with tiotropium resulted in a 20% increase in the AUC0-4h, a 28% decrease in the renal clearance of tiotropium and no significant change in the Cmax and amount excreted in urine over 96 hours.
 Co-administration of tiotropium with ranitidine did not affect the pharmacokinetics of tiotropium.
 

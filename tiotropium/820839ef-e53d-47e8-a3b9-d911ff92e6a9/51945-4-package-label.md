@@ -1,7 +1,19 @@
-SPIRIVA HandiHaler 30 capsules (3 blister cards) 1 HandiHaler Inhalation Device NDC 0597-0075-41
+# PRINCIPAL DISPLAY PANEL - 30 Capsule Blister Pack Carton
 
-SPIRIVA HandiHaler 90 capsules (9 blister cards) 1 HandiHaler Inhalation Device NDC 0597-0075-47
+NDC 0597-0075-41
 
-SPIRIVA HandiHaler 5 capsules (1 blister card) 1 HandiHaler Inhalation Device NDC 0597-0075-75
+SPIRIVA® HandiHaler® (tiotropium bromide inhalation powder)
 
-SPIRIVA HandiHaler Professional Sample 10 capsules (1 blister card) 1 HandiHaler Inhalation Device NDC 0597-0075-27
+18 mcg/Capsule*
+
+DO NOT SWALLOW SPIRIVA CAPSULES.
+For Use With HandiHaler Device Only.
+
+FOR ORAL INHALATION ONLY
+
+Rx only 30 capsules 3 blister cards.
+Each card contains 10 capsules.
+
+SPIRIVA capsules should only be used with the HandiHaler device and inhaled through your mouth (oral inhalation).
+
+Boehringer Ingelheim
