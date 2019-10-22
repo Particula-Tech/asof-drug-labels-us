@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018705"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Allegis Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "28595-550-12",
+    "28595-550-49"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "nitroglycerin",
+      "name": "NITROLINGUAL"
+    }
+  ],
+  "setid": "d8765f0e-1fe9-4e2a-9138-186c093edceb",
+  "source": "dailymed"
+}
