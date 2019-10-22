@@ -49,29 +49,14 @@ Consider the following when using the information in Table 1:
 - The conversion factors in this table are only for the conversion from one of the listed oral opioid analgesics to ZOHYDRO ER.
 - The table cannot be used to convert from ZOHYDRO ER to another opioid.
   Doing so will result in an over-estimation of the dose of the new opioid and may result in fatal overdose.
-
-Table 1.
-Conversion Factors to ZOHYDRO ER (Not Equianalgesic Doses)
-
-| Prior Oral Opioid | Oral Dose (mg) | Approximate Oral Conversion Factor |
-| --- | --- | --- |
-| Hydrocodone | 10 | 1 |
-| Oxycodone | 10 | 1 |
-| Methadone | 10 | 1 |
-| Oxymorphone | 5 | 2 |
-| Hydromorphone | 3.75 | 2.67 |
-| Morphine | 15 | 0.67 |
-| Codeine | 100 | 0.10 |
-| The conversion ratios in this table are only to be used for the conversion from current opioid therapy to ZOHYDRO ER. |  |  |
-
-To calculate the estimated daily ZOHYDRO ER dose using Table 1:
-
-- For patients on a single opioid, sum the current total daily dose of the opioid and then multiply the total daily dose by the approximate oral conversion factor to calculate the approximate oral hydrocodone daily dose.
-  Divide the daily dose in half for administration every 12 hours.
-- For patients on a regimen of more than one opioid, calculate the approximate oral hydrocodone dose for each opioid and sum the totals to obtain approximate total hydrocodone daily dose.
-  The daily dose should then be divided in half for administration every 12 hours.
-- For patients on a regimen of fixed-ratio opioid/non-opioid analgesic products, use only the opioid component of these products in the conversion.
-- Reduce the calculated daily oral hydrocodone dose by 25%
+  Table 1.
+  Conversion Factors to ZOHYDRO ER (Not Equianalgesic Doses)Prior Oral OpioidOral Dose (mg)Approximate Oral Conversion FactorThe conversion ratios in this table are only to be used for the conversion from current opioid therapy to ZOHYDRO ER.Hydrocodone101Oxycodone101Methadone101Oxymorphone52Hydromorphone3.752.67Morphine150.67Codeine1000.10 To calculate the estimated daily ZOHYDRO ER dose using Table 1:
+  - For patients on a single opioid, sum the current total daily dose of the opioid and then multiply the total daily dose by the approximate oral conversion factor to calculate the approximate oral hydrocodone daily dose.
+    Divide the daily dose in half for administration every 12 hours.
+  - For patients on a regimen of more than one opioid, calculate the approximate oral hydrocodone dose for each opioid and sum the totals to obtain approximate total hydrocodone daily dose.
+    The daily dose should then be divided in half for administration every 12 hours.
+  - For patients on a regimen of fixed-ratio opioid/non-opioid analgesic products, use only the opioid component of these products in the conversion.
+  - Reduce the calculated daily oral hydrocodone dose by 25%
 
 Always round the dose down, if necessary, to the nearest ZOHYDRO ER strength(s) available and initiate therapy with that dose.
 
@@ -116,21 +101,30 @@ Patients with severe hepatic impairment may have higher plasma concentrations of
 Therefore, initiate therapy with 10 mg every 12 hours and titrate carefully, while monitoring for respiratory depression, sedation, and hypotension.
 No adjustment in starting dose with ZOHYDRO ER is required in patients with mild or moderate hepatic impairment [see Clinical Pharmacology (12.3)].
 
-## 2.5 Discontinuation of ZOHYDRO ER
+## 2.5 Safe Reduction or Discontinuation of ZOHYDRO ER
 
-Do not abruptly discontinue ZOHYDRO ER.
-When a patient no longer requires therapy with ZOHYDRO ER, taper the dose gradually, according to the schedule in Table 2, while monitoring carefully for signs and symptoms of withdrawal.
-If the patient develops these sign or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
+Do not abruptly discontinue ZOHYDRO ER in patients who may be physically dependent on opioids.
+Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-Table 2.
-ZOHYDRO ER Taper Schedule Used in Phase 3 Study
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking ZOHYDRO ER, there are a variety of factors that should be considered, including the dose of ZOHYDRO ER the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
+When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
+Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
+Complex patients with co- morbid pain and substance use disorders may benefit from referral to a specialist.
 
-| Stabilized Dose At Time of Taper Initiation | Taper Schedule |
-| --- | --- |
-| 20 mg to 30 mg q12hq12h = every 12 hours | 10 mg q12h on Days 1 and 2Day 3, stop |
-| 40 mg to 70 mg q12h | 40 mg q12h on Days 1 and 220 mg q12h on Days 3 and 410 mg q12h on Days 5 and 6Day 7, stop |
-| 80 mg to 100 mg q12h | 80 mg q12h on Days 1 and 260 mg q12h on Days 3 and 440 mg q12h on Days 5 and 620 mg q12h on Days 7 and 810 mg q12h on Days 9 and 10Day 11, stop |
+There are no standard opioid tapering schedules that are suitable for all patients.
+Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
+For patients on ZOHYDRO ER who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
+Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
 
-Doses above 100 mg every 12 hours (q12h) were not studied in the Phase 3 trial.
-For patients exceeding 100 mg q12h use a gradual downward titration of the dose every 2 to 4 days.
-Patients should be monitored closely for signs and symptoms of opioid withdrawal which may indicate a need to taper more slowly.
+It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
+Reassess the patient frequently to manage pain and withdrawal symptoms, should they emerge.
+Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
+In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+
+When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

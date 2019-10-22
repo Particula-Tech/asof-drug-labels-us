@@ -86,7 +86,7 @@ Metabolism
 Hydrocodone exhibits a complex pattern of metabolism, including N-demethylation, O-demethylation, and 6-keto reduction to the corresponding 6-α-and 6-β-hydroxy metabolites.
 CYP3A4 mediated N-demethylation to norhydrocodone is the primary metabolic pathway of hydrocodone with a lower contribution from CYP2D6 mediated O-demethylation to hydromorphone.
 Hydromorphone is formed from the O-demethylation of hydrocodone and may contribute to the total analgesic effect of hydrocodone.
-Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs [see Drug Interactions (7.3)].
+Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs [see Drug Interactions (7)].
 Published in vitro studies have shown that N-demethylation of hydrocodone to form norhydrocodone can be attributed to CYP3A4 while O-demethylation of hydrocodone to hydromorphone is predominantly catalyzed by CYP2D6 and to a lesser extent by an unknown low affinity CYP enzyme.
 
 Excretion

@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA approved patient labeling (Medication Guide).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store ZOHYDRO ER securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving ZOHYDRO ER unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused ZOHYDRO ER should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of ZOHYDRO ER, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
@@ -15,7 +24,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store ZOHYDRO ER securely and to dispose of unused ZOHYDRO ER by flushing the capsules down the toilet.
 
 Interaction with Benzodiazepines and Other CNS Depressants
 
@@ -47,7 +55,10 @@ Instruct patients how to properly take ZOHYDRO ER, including the following:
 - Use ZOHYDRO ER exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)].
 - Swallow ZOHYDRO ER capsules whole.
 - Do not crush, chew, or dissolve the capsule or its contents.
-- Do not discontinue ZOHYDRO ER without first discussing the need for a tapering regimen with the prescriber.
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue ZOHYDRO ER without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension
 
