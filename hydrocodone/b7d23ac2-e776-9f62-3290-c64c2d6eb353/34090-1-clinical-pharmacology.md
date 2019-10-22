@@ -14,7 +14,7 @@ However, specific CNS opioid receptors for endogenous compounds with opioid-like
 
 Cardiac Electrophysiology QTc interval prolongation was studied in a double-blind, placebo- and positive-controlled 3-treatment parallel-group, dose-escalating study of HYSINGLA ER in 196 healthy subjects.
 QTc interval prolongation was observed following HYSINGLA ER 160 mg per day.
-The maximum mean (90% upper confidence bound) difference in the QTc interval between HYSINGLA ER and placebo (after baseline-correction) at steady state was 6 (9) milliseconds, 7 (10) milliseconds, and 10 (13) milliseconds at HYSINGLA ER doses of 80 mg, 120 mg and 160mg respectively.
+The maximum mean (90% upper confidence bound) difference in the QTc interval between HYSINGLA ER and placebo (after baseline-correction) at steady state was 6 (9) milliseconds, 7 (10) milliseconds, and 10 (13) milliseconds at HYSINGLA ER doses of 80 mg, 120 mg and 160 mg respectively.
 For clinical implications of the prolonged QTc interval, see Warnings and Precautions (5.10).
 
 Effects on the Central Nervous System Hydrocodone produces respiratory depression by direct action on brainstem respiratory centers.

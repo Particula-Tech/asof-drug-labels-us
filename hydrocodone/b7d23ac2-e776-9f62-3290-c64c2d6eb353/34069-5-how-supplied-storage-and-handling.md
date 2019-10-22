@@ -17,3 +17,5 @@ HYSINGLA ER (hydrocodone bitartrate) extended-release tablets 120 mg are round, 
 Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
 Dispense in tight, light-resistant container, as defined by the USP.
+
+Store HYSINGLA ER securely and dispose of properly [see Patient Counseling Information (17)].

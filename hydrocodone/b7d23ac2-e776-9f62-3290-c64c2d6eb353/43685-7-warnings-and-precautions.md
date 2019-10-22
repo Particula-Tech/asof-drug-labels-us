@@ -51,6 +51,10 @@ Overestimating the HYSINGLA ER dosage when converting patients from another opio
 
 Accidental ingestion of even one dose of HYSINGLA ER, especially by children, can result in respiratory depression and death due to an overdose of hydrocodone.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.3)].
+
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of HYSINGLA ER during pregnancy can result in withdrawal in the neonate.
@@ -67,7 +71,7 @@ When using HYSINGLA ER with CYP3A4 inhibitors or discontinuing CYP3A4 inducers i
 Concomitant use of HYSINGLA ER with CYP3A4 inducers or discontinuation of an CYP3A4 inhibitor could decrease hydrocodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to hydrocodone.
 When using HYSINGLA ER with CYP3A4 inducers or discontinuing CYP3A4 inhibitors, monitor patients closely at frequent intervals and consider increasing the opioid dosage if needed to maintain adequate analgesia or if symptoms of opioid withdrawal occur [see Drug Interactions (7)].
 
-## 5.6 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+## 5.6 Risks of Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of HYSINGLA ER with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
@@ -84,7 +88,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-## 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+## 5.7 Risk of Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of HYSINGLA ER in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
@@ -156,11 +160,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.15 Withdrawal
 
-Avoid the use of mixed agonist/antagonist analgesics (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including HYSINGLA ER.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue HYSINGLA ER in a patient physically dependent on opioids.
+When discontinuing HYSINGLA ER in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of hydrocodone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
 
-When discontinuing HYSINGLA ER, gradually taper the dosage [see Dosage and Administration (2.6)].
-Do not abruptly discontinue HYSINGLA ER [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist analgesics (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including HYSINGLA ER.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.16 Risks of Driving and Operating Machinery
 

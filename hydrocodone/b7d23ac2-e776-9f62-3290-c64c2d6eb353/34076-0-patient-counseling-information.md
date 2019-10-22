@@ -2,6 +2,13 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
+Storage and Disposal: Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store HYSINGLA ER securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving HYSINGLA ER unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused HYSINGLA ER should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse Inform patients that the use of HYSINGLA ER, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share HYSINGLA ER with others and to take steps to protect HYSINGLA ER from theft or misuse.
 
@@ -9,7 +16,6 @@ Life-Threatening Respiratory Depression Inform patients of the risk of life-thre
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store HYSINGLA ER securely and to dispose of unused HYSINGLA ER by flushing the tablets down the toilet.
 
 Interaction with Benzodiazepines and other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if HYSINGLA ER is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
@@ -30,7 +36,10 @@ Important Administration Instructions Instruct patients how to properly take HYS
 - Swallow tablets whole, one tablet at a time, with enough water to ensure swallowing immediately after placing in the mouth [see Dosage and Administration (2.1)].
 - Do not pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Dosage and Administration (2.1)].
 - Do not chew, crush, or dissolve the tablets [see Dosage and Administration (2.1)].
-- Do not discontinue HYSINGLA ER without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.6)].
+
+Important Discontinuation Instructions
+
+- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue HYSINGLA ER without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.6)]
 
 Hypotension Inform patients that HYSINGLA ER may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
@@ -58,14 +67,12 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention.
 Instruct patients to monitor their analgesic response following the use of strong laxatives and to contact the prescriber if changes are noted [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Disposal of unused HYSINGLA ER Advise patients to dispose of any unused tablets from a prescription as soon as they are no longer needed by flushing down the toilet.
-
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-©2018, Purdue Pharma L.P.
+©2019, Purdue Pharma L.P.
 
-U.S. Patent Numbers: 6,488,963; 6,733,783; 8,309,060; 8,361,499; 8,529,948; 8,551,520; 8,647,667 and 8,808,740.
-9,023,401;9,056,052;9,060,940;9,084,816;9,101,661;9,095,614;9,095,615;9,198,863;9,205,055;9,205,056;9,289,391;9,393,206;9,486,412;9,486,413;9,492,389;9,492,390; and 9,492,391
+U.S. Patent Numbers: 6,733,783; 8,309,060; 8,361,499; 8,529,948; 8,551,520; 8,647,667 and 8,808,740.
+9,023,401;9,056,052;9,060,940;9,084,816;9,101,661;9,095,614;9,095,615;9,198,863;9,205,055;9,205,056;9,289,391;9,393,206;9,486,412;9,486,413;9,492,389;9,492,390; 9,492,391; 9,517,236; 9,545,380; 9,572,779; 9,572,804; 9,669,023; 9,669,024; 9,675,610; 9,675,611; 9,682,077, 9,744,136; 9,750,703; 9,763,886; 9,763,933; 9,770,416; 9,770,417; 9,775,809; 9,775,810; 9,861,584; 9,872,837; 10,130,591 and 10,369,109.
