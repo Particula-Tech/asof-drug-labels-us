@@ -17,7 +17,7 @@ The recommended dosage of HYCAMTIN for injection is 1.5 mg/m2 by intravenous inf
 
 The recommended dosage of HYCAMTIN for injection is 0.75 mg/m2 by intravenous infusion over 30 minutes daily on Days 1, 2, and 3, in combination with cisplatin 50 mg/m2 on Day 1, of a 21-day cycle.
 
-## 2.5 Dose Modifications for Adverse Reactions
+## 2.5 Dosage Modifications for Adverse Reactions
 
 Hematologic
 
@@ -54,4 +54,4 @@ Stability
   Discard after 24 hours.
 
 HYCAMTIN for injection is a cytotoxic drug.
-Follow applicable handling and disposal procedures.
+Follow applicable handling and disposal procedures.1

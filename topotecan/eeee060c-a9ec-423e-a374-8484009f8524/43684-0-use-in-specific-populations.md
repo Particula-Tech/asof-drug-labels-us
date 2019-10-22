@@ -74,6 +74,6 @@ No overall differences in effectiveness or safety were observed between these pa
 
 ## 8.6 Renal Impairment
 
-Reduce the dose of HYCAMTIN for injection in patients with a CLcr of 20 to 39 mL/min [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Reduce the dose of HYCAMTIN for injection in patients with a CLcr of 20 to 39 mL/min [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 No dosage adjustment is recommended for patients with CLcr greater than or equal to 40 mL/min.
 Insufficient data are available in patients with CLcr less than 20 mL/min to provide a dosage recommendation for HYCAMTIN for injection.

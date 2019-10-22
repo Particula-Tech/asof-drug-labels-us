@@ -8,4 +8,4 @@ Store between 20°C and 25°C (68°F and 77°F) [see USP Controlled Room Tempera
 Protect from light.
 
 HYCAMTIN for injection is a cytotoxic drug.
-Follow applicable handling and disposal procedures.
+Follow applicable handling and disposal procedures.1
