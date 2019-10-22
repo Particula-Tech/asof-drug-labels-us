@@ -15,10 +15,11 @@ The effect of the other component of DESCOVY, FTC, or the combination of FTC and
 
 Absorption, Distribution, Metabolism, and Excretion
 
-The pharmacokinetic (PK) properties of the components of DESCOVY are provided in Table 3.
-The multiple dose PK parameters of FTC and TAF and its metabolite tenofovir are provided in Table 4.
+The pharmacokinetic (PK) properties of the components of DESCOVY are provided in Table 6.
+The multiple dose PK parameters of FTC and TAF and its metabolite tenofovir are provided in Table 7.
+HIV status has no effect on the pharmacokinetics of FTC and TAF in adults.
 
-Table 3 Pharmacokinetic Properties of the Components of DESCOVY
+Table 6 Pharmacokinetic Properties of the Components of DESCOVY
 
 |  | Emtricitabine | Tenofovir Alafenamide |
 | --- | --- | --- |
@@ -34,13 +35,13 @@ Table 3 Pharmacokinetic Properties of the Components of DESCOVY
 | Elimination |  |  |
 | Major route of elimination | Glomerular filtration and active tubular secretion | Metabolism (>80% of oral dose) |
 | t1/2 (h)t1/2 values refer to median terminal plasma half-life. Note that the pharmacologically active metabolite, tenofovir diphosphate, has a half-life of 150–180 hours within PBMCs. | 10 | 0.51 |
-| % Of dose excreted in urineDosing in mass balance studies: FTC (single dose administration of [14C] emtricitabine after multiple dosing of emtricitabine for ten days); TAF (single dose administration of [14C] tenofovir alafenamide). | 70 | <1 |
+| % Of dose excreted in urineDosing in mass balance studies: FTC (single dose administration of [14C] emtricitabine after multiple dosing of emtricitabine for 10 days); TAF (single dose administration of [14C] tenofovir alafenamide). | 70 | <1 |
 | % Of dose excreted in feces | 13.7 | 31.7 |
 | PBMCs=peripheral blood mononuclear cells; CES1=carboxylesterase 1 |  |  |
 
-Table 4 Multiple Dose PK Parameters of Emtricitabine, Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration with Food in HIV-Infected Adults
+Table 7 Multiple Dose PK Parameters of Emtricitabine, Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration with Food in HIV-Infected Adults
 
-| Parameter Mean (CV%) | EmtricitabineFrom Intensive PK analysis in a phase 2 trial in HIV infected adults treated with FTC+TAF and EVG+COBI. | Tenofovir AlafenamideFrom Population PK analysis in two trials of treatment-naïve adults with HIV-1 infection treated with FTC+TAF with EVG+COBI (N=539). | TenofovirFrom Population PK analysis in two trials of treatment-naïve adults with HIV-1 infection treated with FTC+TAF with EVG+COBI (N=841). |
+| Parameter Mean (CV%) | EmtricitabineFrom Intensive PK analysis in a phase 2 trial in HIV-infected adults treated with FTC+TAF and EVG+COBI. | Tenofovir AlafenamideFrom Population PK analysis in two trials of treatment-naïve adults with HIV-1 infection treated with FTC+TAF with EVG+COBI (N=539). | TenofovirFrom Population PK analysis in two trials of treatment-naïve adults with HIV-1 infection treated with FTC+TAF with EVG+COBI (N=841). |
 | --- | --- | --- | --- |
 | Cmax (microgram per mL) | 2.1 (20.2) | 0.16 (51.1) | 0.02 (26.1) |
 | AUCtau (microgram∙hour per mL) | 11.7 (16.6) | 0.21 (71.8) | 0.29 (27.4) |
@@ -49,11 +50,48 @@ Table 4 Multiple Dose PK Parameters of Emtricitabine, Tenofovir Alafenamide and 
 
 Specific Populations
 
+Geriatric Patients
+
+Pharmacokinetics of FTC and TAF have not been fully evaluated in the elderly (65 years of age and older).
+Population pharmacokinetics analysis of HIV-infected subjects in Phase 2 and Phase 3 trials of FTC+TAF and EVG+COBI showed that age did not have a clinically relevant effect on exposures of TAF up to 75 years of age [see Use in Specific Populations (8.5)].
+
+Pediatric Patients
+
+Treatment of HIV-1 Infection: Mean exposures of TAF in 24 pediatric subjects aged 12 to less than 18 years who received FTC+TAF with EVG+COBI were decreased (23% for AUC) and FTC exposures were similar compared to exposures achieved in treatment-naïve adults following administration of this dosage regimen.
+The TAF exposure differences are not thought to be clinically significant based on exposure-response relationships (Table 8).
+
+Table 8 Multiple Dose PK Parameters of Emtricitabine, Tenofovir Alafenamide, and its Metabolite Tenofovir Following Oral Administration of FTC+TAF with EVG+COBI in HIV-Infected Pediatric Subjects Aged 12 to less than 18 YearsFrom Intensive PK analysis in a trial in treatment-naïve pediatric subjects with HIV-1 infection (N=24).
+
+| Parameter Mean (CV%) | Emtricitabine | Tenofovir Alafenamide | Tenofovir |
+| --- | --- | --- | --- |
+| Cmax (microgram per mL) | 2.3 (22.5) | 0.17 (64.4) | 0.02 (23.7) |
+| AUCtau (microgram∙hour per mL) | 14.4 (23.9) | 0.20N=23 (50.0) | 0.29 (18.8) |
+| Ctrough (microgram per mL) | 0.10 (38.9) | NA | 0.01 (21.4) |
+| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |
+
+Exposures of FTC and TAF achieved in 23 pediatric subjects between the ages of 6 to less than 12 years and weighing at least 25 kg (55 lbs) who received FTC+TAF with EVG+COBI were higher (20% to 80% for AUC) than exposures achieved in adults following the administration of this dosage regimen; however, the increase was not considered clinically significant (Table 9) [see Use in Specific Populations (8.4)].
+
+Table 9 Multiple Dose PK Parameters of Emtricitabine, Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration of FTC+TAF with EVG+COBI in HIV-Infected Pediatric Subjects Aged 6 to less than 12 YearsFrom Intensive PK analysis in a trial in virologically-suppressed pediatric subjects with HIV-1 infection (N=23).
+
+| Parameter Mean (CV%) | Emtricitabine | Tenofovir Alafenamide | Tenofovir |
+| --- | --- | --- | --- |
+| Cmax (microgram per mL) | 3.4 (27.0) | 0.31 (61.2) | 0.03 (20.8) |
+| AUCtau (microgram∙hour per mL) | 20.6N=22 (18.9) | 0.33 (44.8) | 0.44 (20.9) |
+| Ctrough (microgram per mL) | 0.11 (24.1) | NA | 0.02 (24.9) |
+| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |
+
+HIV-1 PrEP: The pharmacokinetic data for FTC and TAF following administration of DESCOVY in HIV-1 uninfected adolescents weighing 35 kg and above are not available.
+The dosage recommendations of DESCOVY for HIV-1 PrEP in this population are based on known pharmacokinetic information in HIV-infected adolescents taking FTC and TAF for treatment [see Use in Specific Populations (8.4)].
+
+Race and Gender
+
+Based on population pharmacokinetic analyses, there are no clinically meaningful differences based on race or gender.
+
 Patients with Renal Impairment
 
-The pharmacokinetics of FTC+TAF combined with EVG+COBI in HIV infected subjects with renal impairment (eGFR 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in a subset of virologically-suppressed subjects in an open-label trial (Table 5).
+The pharmacokinetics of FTC+TAF combined with EVG+COBI in HIV-infected subjects with renal impairment (eGFR 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in a subset of virologically-suppressed subjects in an open-label trial (Table 10).
 
-Table 5 Pharmacokinetics of the Components of DESCOVY and a Metabolite of TAF (Tenofovir) in HIV-Infected Adults with Renal Impairment Compared to Subjects with Normal Renal FunctionTrial in HIV infected adults with renal impairment treated with FTC+TAF with EVG+COBI.
+Table 10 Pharmacokinetics of the Components of DESCOVY and a Metabolite of TAF (Tenofovir) in HIV-Infected Adults with Renal Impairment Compared to Subjects with Normal Renal FunctionTrial in HIV-infected adults with renal impairment treated with FTC+TAF with EVG+COBI.
 
 | Creatinine Clearance | ≥90 mL per minute (N=18)From a phase 2 trial in HIV-infected adults with normal renal function treated with FTC+TAF with EVG+COBI. | 60–89 mL per minute (N=11)These subjects had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18) |
 | --- | --- | --- | --- |
@@ -68,54 +106,16 @@ Emtricitabine: The pharmacokinetics of FTC has not been studied in subjects with
 
 Tenofovir Alafenamide: Clinically relevant changes in tenofovir pharmacokinetics in subjects with hepatic impairment were not observed in subjects with mild to moderate (Child-Pugh Class A and B) hepatic impairment [see Use in Specific Populations (8.7)].
 
-Hepatitis B and/or Hepatitis C Virus Coinfection
+Hepatitis B and/or Hepatitis C Virus Infection
 
-The pharmacokinetics of FTC and TAF have not been fully evaluated in subjects coinfected with hepatitis B and/or C virus.
-
-Pediatric Patients
-
-Mean exposures of TAF in 24 pediatric subjects aged 12 to less than 18 years who received FTC+TAF with EVG+COBI were decreased (23% for AUC) and FTC exposures were similar compared to exposures achieved in treatment-naïve adults following administration of this dosage regimen.
-The TAF exposure differences are not thought to be clinically significant based on exposure-response relationships (Table 6).
-
-Table 6 Multiple Dose PK Parameters of Emtricitabine, Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration of FTC+TAF with EVG+COBI in HIV-Infected Pediatric Subjects Aged 12 to less than 18 YearsFrom Intensive PK analysis in a trial in treatment-naïve pediatric subjects with HIV-1 infection (N=24).
-
-| Parameter Mean (CV%) | Emtricitabine | Tenofovir Alafenamide | Tenofovir |
-| --- | --- | --- | --- |
-| Cmax (microgram per mL) | 2.3 (22.5) | 0.17 (64.4) | 0.02 (23.7) |
-| AUCtau (microgram∙hour per mL) | 14.4 (23.9) | 0.20N=23 (50.0) | 0.29 (18.8) |
-| Ctrough (microgram per mL) | 0.10 (38.9) | NA | 0.01 (21.4) |
-| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |
-
-Exposures of FTC and TAF achieved in 23 pediatric subjects between the ages of 6 to less than 12 years and weighing at least 25 kg (55 lbs) who received FTC+TAF with EVG+COBI were higher (20 to 80% for AUC) than exposures achieved in adults following the administration of this dosage regimen; however, the increase was not considered clinically significant (Table 7) [see Use in Specific Populations (8.4)].
-
-Table 7 Multiple Dose PK Parameters of Emtricitabine, Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration of FTC+TAF with EVG+COBI in HIV-Infected Pediatric Subjects Aged 6 to less than 12 YearsFrom Intensive PK analysis in a trial in virologically-suppressed pediatric subjects with HIV-1 infection (N=23).
-
-| Parameter Mean (CV%) | Emtricitabine | Tenofovir Alafenamide | Tenofovir |
-| --- | --- | --- | --- |
-| Cmax (microgram per mL) | 3.4 (27.0) | 0.31 (61.2) | 0.03 (20.8) |
-| AUCtau (microgram∙hour per mL) | 20.6N=22 (18.9) | 0.33 (44.8) | 0.44 (20.9) |
-| Ctrough (microgram per mL) | 0.11 (24.1) | NA | 0.02 (24.9) |
-| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |
-
-Geriatric Patients
-
-Pharmacokinetics of FTC and TAF have not been fully evaluated in the elderly (65 years of age and older).
-Population pharmacokinetics analysis of HIV-infected subjects in Phase 2 and Phase 3 trials of FTC+TAF and EVG+COBI showed that age did not have a clinically relevant effect on exposures of TAF up to 75 years of age [see Use in Specific Populations (8.5)].
-
-Race
-
-Based on population pharmacokinetic analyses, no dosage adjustment is recommended based on race.
-
-Gender
-
-Based on population pharmacokinetic analyses, no dosage adjustment is recommended based on gender.
+The pharmacokinetics of FTC and TAF have not been fully evaluated in subjects infected with hepatitis B and/or C virus.
 
 Drug Interaction Studies
 
-The effects of coadministered drugs on the exposure of TAF are shown in Table 8 and the effects of DESCOVY or its components on the exposure of coadministered drugs are shown in Table 9 [these studies were conducted with DESCOVY or the components of DESCOVY (FTC or TAF) administered alone].
+The effects of coadministered drugs on the exposure of TAF are shown in Table 11 and the effects of DESCOVY or its components on the exposure of coadministered drugs are shown in Table 12 [these studies were conducted with DESCOVY or the components of DESCOVY (FTC or TAF) administered alone].
 For information regarding clinical recommendations, see Drug Interactions (7).
 
-Table 8 Drug Interactions: Changes in TAF Pharmacokinetic Parameters in the Presence of Coadministered Drug(s)All interaction studies conducted in healthy volunteers.
+Table 11 Drug Interactions: Changes in TAF Pharmacokinetic Parameters in the Presence of Coadministered Drug(s)All interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ Table 8 Drug Interactions: Changes in TAF Pharmacokinetic Parameters in the Pres
 | Sertraline | 50 (dosed as a single dose) | 10Study conducted with FTC+TAF with EVG+COBI. | 19 | 1.00 (0.86, 1.16) | 0.96 (0.89, 1.03) | NC |
 | NC=Not Calculated |  |  |  |  |  |  |
 
-Table 9 Drug Interactions: Changes in PK Parameters for Coadministered Drug in the Presence of DESCOVY or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
+Table 12 Drug Interactions: Changes in PK Parameters for Coadministered Drug in the Presence of DESCOVY or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -178,6 +178,11 @@ TAF displayed antiviral activity in cell culture against all HIV-1 groups (M, N,
 
 In a study of TAF with a broad panel of representatives from the major classes of approved anti-HIV agents (NRTIs, NNRTIs, INSTIs, and PIs) no antagonism was observed for these combinations.
 
+Prophylactic Activity in a Nonhuman Primate Model of HIV-1 Transmission
+
+Emtricitabine and Tenofovir Alafenamide: The prophylactic activity of the combination of oral FTC and TAF was evaluated in a controlled study of macaques administered once weekly intra-rectal inoculations of chimeric simian/human immunodeficiency type 1 virus (SHIV) for up to 19 weeks (n=6).
+All 6 macaques that received FTC and TAF at doses resulting in PBMC exposures consistent with those achieved in humans administered a dose of FTC/TAF 200/25 mg remained SHIV uninfected.
+
 Resistance
 
 In Cell Culture
@@ -190,6 +195,8 @@ HIV-1 isolates selected by TAF expressed a K65R substitution in HIV-1 RT, someti
 
 In Clinical Trials
 
+Treatment of HIV-1
+
 The resistance profile of DESCOVY in combination with other antiretroviral agents for the treatment of HIV-1 infection is based on studies of FTC+TAF with EVG+COBI in the treatment of HIV-1 infection.
 In a pooled analysis of antiretroviral-naïve subjects, genotyping was performed on plasma HIV-1 isolates from all subjects with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure, at Week 48, or at time of early study drug discontinuation.
 Genotypic resistance developed in 7 of 14 evaluable subjects.
@@ -197,6 +204,11 @@ The resistance-associated substitutions that emerged were M184V/I (N=7) and K65R
 Three subjects had virus with emergent R, H, or E at the polymorphic Q207 residue in reverse transcriptase.
 
 One subject was identified with emergent resistance to FTC (M184M/I) out of 4 virologic failure subjects in a clinical study of virologically-suppressed subjects who switched from a regimen containing FTC+TDF to FTC+TAF with EVG+COBI (N=799).
+
+HIV-1 PrEP
+
+In the DISCOVER trial of HIV-1 uninfected men and transgender women who have sex with men and who are at risk of HIV-1 infection receiving DESCOVY or TRUVADA for HIV-1 PrEP, genotyping was performed on participants found to be infected during the trial who had HIV-1 RNA ≥400 copies/mL (6 of 7 participants receiving DESCOVY and 13 of 15 participants receiving TRUVADA).
+The development of FTC resistance-associated substitutions, M184I and/or M184V, was observed in 4 HIV-1 infected participants in the TRUVADA group who had suspected baseline infections.
 
 Cross-Resistance
 

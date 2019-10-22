@@ -3,7 +3,7 @@
 ## 7.1 Potential for Other Drugs to Affect One or More Components of DESCOVY
 
 TAF, a component of DESCOVY, is a substrate of P-gp, BCRP, OATP1B1, and OATP1B3.
-Drugs that strongly affect P-gp and BCRP activity may lead to changes in TAF absorption (see Table 2).
+Drugs that strongly affect P-gp and BCRP activity may lead to changes in TAF absorption (see Table 5).
 Drugs that induce P-gp activity are expected to decrease the absorption of TAF, resulting in decreased plasma concentration of TAF, which may lead to loss of therapeutic effect of DESCOVY and development of resistance.
 Coadministration of DESCOVY with other drugs that inhibit P-gp and BCRP may increase the absorption and plasma concentration of TAF.
 TAF is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or UGT1A1.
@@ -13,15 +13,15 @@ TAF is not an inhibitor or inducer of CYP3A in vivo.
 ## 7.2 Drugs Affecting Renal Function
 
 Because FTC and tenofovir are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion, coadministration of DESCOVY with drugs that reduce renal function or compete for active tubular secretion may increase concentrations of FTC, tenofovir, and other renally eliminated drugs and this may increase the risk of adverse reactions.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.3)].
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.4)].
 
 ## 7.3 Established and Other Potentially Significant Interactions
 
-Table 2 provides a listing of established or potentially clinically significant drug interactions with recommended steps to prevent or manage the drug interaction (the table is not all inclusive).
+Table 5 provides a listing of established or potentially clinically significant drug interactions with recommended steps to prevent or manage the drug interaction (the table is not all inclusive).
 The drug interactions described are based on studies conducted with either DESCOVY, the components of DESCOVY (emtricitabine and tenofovir alafenamide) as individual agents, or are predicted drug interactions that may occur with DESCOVY.
 For magnitude of interaction, see Clinical Pharmacology (12.3).
 
-Table 2 Established and Other Potentially SignificantThis table is not all inclusive.
+Table 5 Established and Other Potentially SignificantThis table is not all inclusive.
 Drug Interactions
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↓=Decrease | Clinical Comment |

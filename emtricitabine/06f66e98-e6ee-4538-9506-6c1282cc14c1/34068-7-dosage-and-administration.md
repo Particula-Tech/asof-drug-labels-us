@@ -1,19 +1,30 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Testing Prior to Initiation of DESCOVY
+## 2.1 Testing When Initiating and During Use of DESCOVY for Treatment of HIV-1 Infection or for HIV-1 PrEP
 
-Prior to initiation of DESCOVY, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.1)].
+Prior to or when initiating DESCOVY, test individuals for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-Estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating DESCOVY therapy and should be monitored during therapy in all patients [see Warnings and Precautions (5.3)].
+Prior to or when initiating DESCOVY, and during use of DESCOVY on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all individuals.
+In individuals with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.4)].
 
-## 2.2 Recommended Dosage
+## 2.2 HIV-1 Screening for Individuals Receiving DESCOVY for HIV-1 PrEP
+
+Screen all individuals for HIV-1 infection immediately prior to initiating DESCOVY for HIV-1 PrEP and at least once every 3 months while taking DESCOVY, and upon diagnosis of any other sexually transmitted infections (STIs) [see Indications and Usage (1.2), Contraindications (4), and Warnings and Precautions (5.2)].
+
+If recent (<1 month) exposures to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection [see Warnings and Precautions (5.2), Use in Specific Populations (8.4), and Clinical Studies (14.3)].
+
+## 2.3 Recommended Dosage for Treatment of HIV-1 Infection in Adults and Pediatric Patients Weighing at Least 25 kg
 
 DESCOVY is a two-drug fixed dose combination product containing 200 mg of emtricitabine (FTC) and 25 mg of tenofovir alafenamide (TAF).
-The recommended dosage of DESCOVY is one tablet taken orally once daily with or without food in adults and pediatric patients with body weight at least 25 kg and creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The recommended dosage of DESCOVY for treatment of HIV-1 is one tablet taken orally once daily with or without food in adults and pediatric patients with body weight at least 25 kg and creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 For specific dosing recommendations for coadministered third agents, refer to their respective prescribing information [see Drug Interactions (7)].
-The safety and effectiveness of DESCOVY coadminstered with an HIV-1 protease inhibitor that is administered with either ritonavir or cobicistat have not been established in pediatric subjects weighing less than 35 kg.
+The safety and effectiveness of DESCOVY coadministered with an HIV-1 protease inhibitor that is administered with either ritonavir or cobicistat have not been established in pediatric subjects weighing less than 35 kg.
 
-## 2.3 Not Recommended in Patients with Severe Renal Impairment
+## 2.4 Recommended Dosage for HIV-1 PrEP in Adults and Adolescents Weighing at Least 35 kg
 
-DESCOVY is not recommended in patients with estimated creatinine clearance below 30 mL per minute [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+The dosage of DESCOVY for HIV-1 PrEP is one tablet (containing 200 mg of FTC and 25 mg of TAF) once daily taken orally with or without food in HIV-1 uninfected adults and adolescents weighing at least 35 kg and with a creatinine clearance greater than or equal to 30 mL per minute, excluding individuals at risk from receptive vaginal sex [see Clinical Pharmacology (12.3)].
+
+## 2.5 Not Recommended in Individuals with Severe Renal Impairment for Treatment of HIV-1 Infection or for HIV-1 PrEP
+
+DESCOVY is not recommended in individuals with estimated creatinine clearance below 30 mL per minute [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].

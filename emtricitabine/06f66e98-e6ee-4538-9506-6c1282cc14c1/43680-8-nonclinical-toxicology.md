@@ -21,9 +21,9 @@ In rats, the study was negative for carcinogenic findings.
 
 TAF was not genotoxic in the reverse mutation bacterial test (Ames test), mouse lymphoma or rat micronucleus assays.
 
-There were no effects on fertility, mating performance or early embryonic development when TAF was administered to male rats at a dose equivalent to 62 times (25 mg TAF) the human dose based on body surface area comparisons for 28 days prior to mating and to female rats for 14 days prior to mating through Day 7 of gestation.
+There were no effects on fertility, mating performance, or early embryonic development when TAF was administered to male rats at a dose equivalent to 62 times (25 mg TAF) the human dose based on body surface area comparisons for 28 days prior to mating and to female rats for 14 days prior to mating through Day 7 of gestation.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Minimal to slight infiltration of mononuclear cells in the posterior uvea was observed in dogs with similar severity after three and nine month administration of TAF; reversibility was seen after a three month recovery period.
+Minimal to slight infiltration of mononuclear cells in the posterior uvea was observed in dogs with similar severity after three- and nine-month administration of TAF; reversibility was seen after a three-month recovery period.
 No eye toxicity was observed in the dog at systemic exposures of 5 (TAF) and 15 (tenofovir) times the exposure seen in humans with the recommended daily TAF dose in DESCOVY.

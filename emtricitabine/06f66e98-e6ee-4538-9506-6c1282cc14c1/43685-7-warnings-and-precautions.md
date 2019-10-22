@@ -1,36 +1,61 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
+## 5.1 Severe Acute Exacerbation of Hepatitis B in Individuals with HBV Infection
 
-Patients with HIV-1 should be tested for the presence of chronic hepatitis B virus (HBV) before initiating antiretroviral therapy [see Dosage and Administration (2.1)].
-DESCOVY is not approved for the treatment of chronic HBV infection, and the safety and efficacy of DESCOVY have not been established in patients coinfected with HIV-1 and HBV.
+All individuals should be tested for the presence of hepatitis B virus (HBV) before or when initiating DESCOVY [see Dosage and Administration (2.1)].
 
-Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients who are coinfected with HIV-1 and HBV and have discontinued products containing FTC and/or tenofovir disoproxil fumarate (TDF), and may occur with discontinuation of DESCOVY.
-Patients coinfected with HIV-1 and HBV who discontinue DESCOVY should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
-If appropriate, initiation of anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post-treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
+Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in HBV-infected individuals who have discontinued products containing FTC and/or tenofovir disoproxil fumarate (TDF) and may occur with discontinuation of DESCOVY.
+Individuals infected with HBV who discontinue DESCOVY should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
+If appropriate, anti-hepatitis B therapy may be warranted, especially in individuals with advanced liver disease or cirrhosis, since post-treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
+HBV-uninfected individuals should be offered vaccination.
 
-## 5.2 Immune Reconstitution Syndrome
+## 5.2 Comprehensive Management to Reduce the Risk of Sexually Transmitted Infections, Including HIV-1, and Development of HIV-1 Resistance When DESCOVY Is Used for HIV-1 PrEP
 
-Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including FTC, a component of DESCOVY.
-During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
+Use DESCOVY for HIV-1 PrEP to reduce the risk of HIV-1 infection as part of a comprehensive prevention strategy, including adherence to daily administration and safer sex practices, including condoms, to reduce the risk of sexually transmitted infections (STIs).
+The time from initiation of DESCOVY for HIV-1 PrEP to maximal protection against HIV-1 infection is unknown.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Risk for HIV-1 acquisition includes behavioral, biological, or epidemiologic factors including but not limited to condomless sex, past or current STIs, self-identified HIV risk, having sexual partners of unknown HIV-1 viremic status, or sexual activity in a high prevalence area or network.
 
-## 5.3 New Onset or Worsening Renal Impairment
+Counsel individuals on the use of other prevention measures (e.g., consistent and correct condom use, knowledge of partner(s)' HIV-1 status, including viral suppression status, regular testing for STIs that can facilitate HIV-1 transmission).
+Inform uninfected individuals about and support their efforts in reducing sexual risk behavior.
+
+Use DESCOVY to reduce the risk of acquiring HIV-1 only in individuals confirmed to be HIV-1 negative.
+HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking only DESCOVY, because DESCOVY alone does not constitute a complete regimen for HIV-1 treatment [see Microbiology (12.4)]; therefore, care should be taken to minimize the risk of initiating or continuing DESCOVY before confirming the individual is HIV-1 negative.
+
+- Some HIV-1 tests only detect anti-HIV antibodies and may not identify HIV-1 during the acute stage of infection.
+  Prior to initiating DESCOVY for HIV-1 PrEP, ask seronegative individuals about recent (in past month) potential exposure events (e.g., condomless sex or condom breaking during sex with a partner of unknown HIV-1 status or unknown viremic status, or a recent STI), and evaluate for current or recent signs or symptoms consistent with acute HIV-1 infection (e.g., fever, fatigue, myalgia, skin rash).
+- If recent (<1 month) exposures to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
+
+While using DESCOVY for HIV-1 PrEP, HIV-1 testing should be repeated at least every 3 months, and upon diagnosis of any other STIs.
+
+- If an HIV-1 test indicates possible HIV-1 infection, or if symptoms consistent with acute HIV-1 infection develop following a potential exposure event, convert the HIV-1 PrEP regimen to an HIV treatment regimen until negative infection status is confirmed using a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
+
+Counsel HIV-1 uninfected individuals to strictly adhere to the once daily DESCOVY dosing schedule.
+The effectiveness of DESCOVY in reducing the risk of acquiring HIV-1 is strongly correlated with adherence, as demonstrated by measurable drug levels in a clinical trial of DESCOVY for HIV-1 PrEP.
+Some individuals, such as adolescents, may benefit from more frequent visits and counseling to support adherence [see Use in Specific Populations (8.4), Microbiology (12.4), and Clinical Studies (14.3)].
+
+## 5.3 Immune Reconstitution Syndrome
+
+Immune reconstitution syndrome has been reported in HIV-1 infected patients treated with combination antiretroviral therapy, including FTC, a component of DESCOVY.
+During the initial phase of combination antiretroviral treatment, HIV-1 infected patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
+
+## 5.4 New Onset or Worsening Renal Impairment
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
-In clinical trials of FTC+TAF with cobicistat (COBI) plus elvitegravir (EVG), there have been no cases of Fanconi syndrome or Proximal Renal Tubulopathy (PRT).
-In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virally suppressed subjects switched to FTC+TAF with EVG+COBI with eGFRs greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
-In a study of virally suppressed subjects with baseline eGFRs between 30 and 69 mL per minute treated with FTC+TAF with EVG+COBI for a median duration of 43 weeks, FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline eGFR between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
-DESCOVY is not recommended in patients with estimated creatinine clearance below 30 mL per minute because data in this population are insufficient.
+In clinical trials of FTC+TAF with cobicistat (COBI) plus elvitegravir (EVG) in HIV-1 infected patients there have been no cases of Fanconi syndrome or Proximal Renal Tubulopathy (PRT).
+In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virally suppressed subjects switched to FTC+TAF with EVG+COBI with estimated creatinine clearance greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
+In a study of virally suppressed subjects with baseline estimated creatinine clearance between 30 and 69 mL per minute treated with FTC+TAF with EVG+COBI for a median duration of 43 weeks, FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline estimated creatinine clearance between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
+DESCOVY is not recommended in individuals with estimated creatinine clearance below 30 mL per minute because data in this population are insufficient.
 
-Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
+Individuals taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 
-Estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating DESCOVY therapy and should be monitored during therapy in all patients.
-Serum phosphorus should be monitored in patients with chronic kidney disease because these patients are at greater risk of developing Fanconi syndrome on tenofovir prodrugs.
-Discontinue DESCOVY in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
+Prior to or when initiating DESCOVY, and during treatment with DESCOVY on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all individuals.
+In individuals with chronic kidney disease, also assess serum phosphorus.
+Discontinue DESCOVY in individuals who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
 
-## 5.4 Lactic Acidosis/Severe Hepatomegaly with Steatosis
+## 5.5 Lactic Acidosis/Severe Hepatomegaly with Steatosis
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including emtricitabine, a component of DESCOVY, and tenofovir DF, another prodrug of tenofovir, alone or in combination with other antiretrovirals.
-Treatment with DESCOVY should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+Treatment with DESCOVY should be suspended in any individual who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
