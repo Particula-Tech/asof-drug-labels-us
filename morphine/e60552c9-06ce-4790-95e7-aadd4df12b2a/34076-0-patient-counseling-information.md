@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal:
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store ARYMO ER securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.3)].
+Inform patients that leaving ARYMO ER unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused ARYMO ER should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of ARYMO ER, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -15,7 +24,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store ARYMO ER securely and to dispose of unused ARYMO ER by flushing the tablets down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -49,7 +57,10 @@ Instruct patients how to properly take ARYMO ER, including the following:
 - ARYMO ER tablets should be taken one tablet at a time [see Dosage and Administration (2.1)].
 - Do not pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Dosage and Administration (2.1)].
 - Take each tablet with enough water to ensure complete swallowing immediately after placing in the mouth [see Dosage and Administration (2.1)].
-- Do not discontinue ARYMO ER without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue ARYMO ER without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -89,18 +100,18 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Disposal of Unused ARYMO ER
-
-Advise patients to flush the unused tablets down the toilet when ARYMO ER is no longer needed.
-
-Healthcare professionals can telephone Egalet US Inc.’s Medical Information Department (1-800-518-1084) for information on this product.
+Healthcare professionals can telephone Zyla Life Sciences US Inc.’s Medical Information Department (1-800-518-1084) for information on this product.
 
 Distributed by:
 
-Egalet US Inc. Wayne, PA 19087
+Zyla Life Sciences US Inc.
 
-© 2018 Egalet Corporation.
+Wayne, PA 19087
+
+© 2019 Zyla Life Sciences.
 All rights reserved.
 US Patent Numbers 9,044,402 and 9,549,899
 
-LBL # 301.04 10/2018
+LBL # 301.05
+
+10/2019

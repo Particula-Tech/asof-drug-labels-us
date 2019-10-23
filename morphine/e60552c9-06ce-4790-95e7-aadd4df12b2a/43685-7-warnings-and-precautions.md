@@ -142,11 +142,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.14 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including ARYMO ER.
-In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
+Do not abruptly discontinue ARYMO ER in a patient physically dependent on opioids.
+When discontinuing ARYMO ER physically dependent patient, gradually taper the dosage.
+Rapid tapering of morphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing ARYMO ER, gradually taper the dose [see Dosage and Administration (2.4)].
-Do not abruptly discontinue ARYMO ER [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including ARYMO ER.
+In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
 
 ## 5.15 Risks of Driving and Operating Machinery
 
