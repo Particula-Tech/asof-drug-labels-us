@@ -43,7 +43,7 @@ Patients receiving TCF should be closely monitored during the first and subseque
 Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
 Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
 Severe hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection infusion and aggressive therapy.
-Patients with a history of severe hypersensitivity reactions should not be rechallenged with Docetaxel Injection.
+Patients with a history of severe hypersensitivity reactions should not be re-challenged with Docetaxel Injection.
 
 Cross-hypersensitivity between paclitaxel and docetaxel has been reported.
 This may include more severe reactions such as anaphylactic reactions.
@@ -84,7 +84,7 @@ Among 92 breast cancer patients premedicated with 3-day corticosteroids, there w
 
 ## 5.8 Neurologic Reactions
 
-Severe neurosensory symptoms (e.g. paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients, and resulted in treatment discontinuation in 6.1%.
+Severe neurosensory symptoms (e.g. paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients and resulted in treatment discontinuation in 6.1%.
 When these symptoms occur, dosage must be adjusted.
 If symptoms persist, treatment should be discontinued [see Dosage and Administration (2.7)].
 Patients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).

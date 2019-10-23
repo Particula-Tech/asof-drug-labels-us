@@ -19,7 +19,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warningsand Precautions(5.12)].
+The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warnings and Precautions(5.12)].
 
 The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established.
 The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
@@ -29,7 +29,7 @@ Docetaxel has been studied in a total of 289 pediatric patients: 239 in 2 trials
 Docetaxel Monotherapy
 
 Docetaxel monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1-22 years) with a variety of refractory solid tumors.
-The recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 days.
+The recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 day.
 The primary dose limiting toxicity was neutropenia.
 
 The recommended dose for docetaxel monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1-26 years) with a variety of recurrent/refractory solid tumors.

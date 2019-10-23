@@ -8,9 +8,9 @@ The following strengths are available:
 
 | Strength | NDC Number | Volume |
 | --- | --- | --- |
-| 20 mg/2 mL | 66758-050-01 | Carton of 1 x 2 mL Multiple Dose Vial |
-| 80 mg/8 mL | 66758-050-02 | Carton of 1 x 8 mL Multiple Dose Vial |
-| 160 mg/16 mL | 66758-050-03 | Carton of 1 x 16 mL Multiple Dose Vial |
+| 20 mg/2 mL | 66758-050-01 | Carton of one 2 mL Multiple-Dose Vial |
+| 80 mg/8 mL | 66758-050-02 | Carton of one 8 mL Multiple-Dose Vial |
+| 160 mg/16 mL | 66758-050-03 | Carton of one 16 mL Multiple-Dose Vial |
 
 ## 16.2 Storage
 

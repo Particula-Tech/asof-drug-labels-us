@@ -17,6 +17,7 @@ See FDA-Approved Patient Labeling
 - •Explain to patients the possible side effects of the alcohol content in Docetaxel Injection, including possible side effects on the central nervous system.
   Patients in whom alcohol should be avoided or minimized should consider the alcohol content of Docetaxel Injection.
   Alcohol could impair their ability to drive or use machines immediately after infusion.
+- •
 
 Manufactured for:
 
@@ -33,4 +34,4 @@ Nfg.KG
 
 A-4866 Unterach, Austria
 
-Revised: September 2018
+Revised: March 2019
