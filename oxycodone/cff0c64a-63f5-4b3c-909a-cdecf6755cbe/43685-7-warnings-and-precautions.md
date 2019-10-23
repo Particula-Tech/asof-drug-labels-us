@@ -133,11 +133,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including OXAYDO.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue OXAYDO in a patient physically dependent on opioids.
+When discontinuing OXAYDO in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of OXAYDO in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing OXAYDO in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue OXAYDO in these patients [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including OXAYDO.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

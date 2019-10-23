@@ -1,6 +1,17 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling
+
+(Medication Guide).
+
+Storage and Disposal:
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store OXAYDO securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving OXAYDO unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused OXAYDO should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse
 
@@ -15,7 +26,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store OXAYDO securely and to dispose of unused OXAYDO by flushing them down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -55,8 +65,9 @@ Advise patients:
   If they are not sure about their dosing, call their healthcare provider.
 - not to adjust the dose of OXAYDO without consulting with a physician or other healthcare professional.
 
-If patients have been receiving treatment with OXAYDO for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose and that abruptly discontinuing the medication could precipitate withdrawal symptoms.
-Provide a dose schedule to help patients gradually discontinue the medication.
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue OXAYDO without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)]
 
 Hypotension
 
@@ -94,16 +105,11 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Disposal of Unused OXAYDO
-
-Advise patients to keep OXAYDO in a secure place out of the reach of children.
-When OXAYDO is no longer needed, the unused tablets should be destroyed by flushing them down the toilet.
-
 Distributed by:
 
-Egalet US Inc. Wayne, PA 19087
+Zyla Life Sciences US Inc. Wayne, PA 19087
 
-© 2018 Egalet Corporation.
+© 2019 Zyla Life Sciences.
 All rights reserved.
 
-09/2018 LBL #: 201.02
+LBL #: 201.05 10/2019

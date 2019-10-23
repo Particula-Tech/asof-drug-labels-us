@@ -25,21 +25,24 @@ Although it is not possible to list every condition that is important to the sel
 6. the type and severity of the patient’s pain
 7. risk factors for abuse or addiction, including a prior history of abuse or addiction
 
-Selection of patients for treatment with OXAYDO should be governed by the same principles that apply to the use of other potent opioid analgesics.
-Opioid analgesics given on a fixed-dosage schedule have a narrow therapeutic index in certain patient populations, especially when combined with other drugs, and should be reserved for cases where the benefits of opioid analgesia outweigh the known risks of respiratory depression, altered mental state, and postural hypotension.
-Healthcare providers should individualize treatment in every case, using non-opioid analgesics, opioids and/or combination products when necessary, and chronic opioid therapy with drugs such as OXAYDO in a progressive plan of pain management such as outlined by the World Health Organization, the Agency for Health Care Policy and Research, and the American Pain Society.
-
 Use of OXAYDO as the First Opioid Analgesic
 
 Initiate treatment with OXAYDO in a dosing range of 5 mg to 15 mg every 4 to 6 hours as needed for pain.
+Titrate the dose based upon the individual patient’s response to their initial dose of OXAYDO.
+Patients with chronic pain should have their dosage given on an around-the-clock basis to prevent the reoccurrence of pain rather than treating the pain after it has occurred.
+This dose can then be adjusted to an acceptable level of analgesia taking into account side effects experienced by the patient.
 
-Patients with chronic pain may need to be dosed at the lowest dosage level that will achieve acceptable analgesia and tolerable adverse reactions, on an around-the-clock basis rather than on an as needed basis.
+For control of severe chronic pain, OXAYDO should be administered on a regularly scheduled basis, every 4 to 6 hours, at the lowest dosage level that will achieve adequate analgesia.
 
 Conversion from Other Opioids to OXAYDO
 
 There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of OXAYDO.
 It is safer to underestimate a patient’s 24-hour OXAYDO dosage than to overestimate the 24-hour OXAYDO dosage and manage an adverse reaction due to overdose.
+If a patient has been receiving opioid-containing medications prior to taking OXAYDO, the potency of the prior opioid relative to oxycodone should be factored into the selection of the total daily dose (TDD) of oxycodone.
+
+In converting patients from other opioids to OXAYDO, close observation and adjustment of dosage based upon the patient’s response to OXAYDO is imperative.
+Administration of supplemental analgesia for breakthrough or incident pain and titration of the total daily dose of OXAYDO may be necessary, especially in patients who have disease states that are changing rapidly.
 
 Conversion from Fixed-Ratio Oral Opioid/Non-Opioid Combinations
 
@@ -66,8 +69,30 @@ If the level of pain increases after dosage stabilization, attempt to identify t
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Discontinuation of OXAYDO
+## 2.4 Safe Reduction or Discontinuation of OXAYDO
 
-When a patient who has been taking OXAYDO regularly and may be physically dependent no longer requires therapy with OXAYDO, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
-If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue OXAYDO in a physically-dependent patient [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue OXAYDO in patients who may be physically dependent on opioids.
+Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
+
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking OXAYDO, there are a variety of factors that should be considered, including the dose of OXAYDO the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
+When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
+Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
+Complex patients with comorbid pain and substance use disorders may benefit from referral to a specialist.
+
+There are no standard opioid tapering schedules that are suitable for all patients.
+Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
+For patients on OXAYDO who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
+Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
+
+It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
+Reassess the patient frequently to manage pain and withdrawal symptoms, should they emerge.
+Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
+In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+
+When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
