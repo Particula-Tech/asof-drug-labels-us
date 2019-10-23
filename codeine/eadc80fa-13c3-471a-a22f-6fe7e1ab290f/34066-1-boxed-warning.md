@@ -25,7 +25,7 @@ Interactions with Drugs Affecting Cytochrome P450 Isoenzymes The effects of conc
 Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with acetaminophen and codeine phosphate tablets requires careful consideration of the effects on the parent drug, codeine, and the active metabolite, morphine (see WARNINGS and PRECAUTIONS, Drug Interactions).
 Hepatotoxicity Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death.
 Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4,000 milligrams per day, and often involve more than one acetaminophen-containing product (see WARNINGS).
-Risks from Concomitant use with Benzodiazepines or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death (see PRECAUTIONS, Drug Interactions).
+Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death (see PRECAUTIONS, Drug Interactions).
 
 - Reserve concomitant prescribing of acetaminophen and codeine phosphate tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.

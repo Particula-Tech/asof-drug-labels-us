@@ -49,6 +49,10 @@ Overestimating the acetaminophen and codeine phosphate tablets dosage when conve
 
 Accidental ingestion of acetaminophen and codeine phosphate tablets, especially by children, can result in respiratory depression and death due to an overdose of codeine.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper (see DOSAGE AND ADMINISTRATION).
+
 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received codeine.
@@ -64,14 +68,10 @@ Because of the risk of life-threatening respiratory depression and death:
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression (see WARNINGS).
 - As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose (see OVERDOSAGE).
 
-Nursing Mothers
-
-At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
+Nursing Mothers At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
 Breastfeeding is not recommended during treatment with acetaminophen and codeine phosphate tablets.
 
-CYP2D6 Genetic Variability: Ultra-Rapid Metabolizers
-
-Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
+CYP2D6 Genetic Variability: Ultra-Rapid Metabolizers Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
 The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 
 These individuals convert codeine into its active metabolite, morphine, more rapidly and completely than other people.
@@ -221,11 +221,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including acetaminophen and codeine phosphate tablets.
-In these patients, mixed agonist/antagonist and partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+Do not abruptly discontinue acetaminophen and codeine phosphate tablets in a patient physically dependent on opioids.
+When discontinuing acetaminophen and codeine phosphate tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of acetaminophen and codeine phosphate tablets in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain (see DOSAGE AND ADMINISTRATION and DRUG ABUSE AND DEPENDENCE).
 
-When discontinuing acetaminophen and codeine phosphate tablets, gradually taper the dosage (see DOSAGE AND ADMINISTRATION).
-Do not abruptly discontinue acetaminophen and codeine phosphate tablets (see DRUG ABUSE AND DEPENDENCE).
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including acetaminophen and codeine phosphate tablets.
+In these patients, mixed agonist/antagonist and partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms (see PRECAUTIONS, Drug Interactions).
 
 # PRECAUTIONS
 
@@ -237,6 +238,22 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 Information for Patients/Caregivers
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store acetaminophen and codeine phosphate tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home (see WARNINGS and DRUG ABUSE AND DEPENDENCE).
+Inform patients that leaving acetaminophen and codeine phosphate tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
+If no take back programs or DEA-registered collectors are available, instruct patients to dispose of acetaminophen and codeine phosphate tablets by following these four steps:
+
+- Mix acetaminophen and codeine phosphate tablets (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
+- Place the mixture in a container such as a sealed plastic bag;
+- Throw the container in the household trash;
+- Delete all personal information on the prescription label of the empty bottle
+
+Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse
 
@@ -251,8 +268,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS).
-Instruct patients to take steps to store acetaminophen and codeine phosphate tablets securely.
-Advise patients to properly dispose of acetaminophen and codeine phosphate tablets in accordance with local state guidelines and/or regulations.
 
 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
@@ -286,8 +301,10 @@ Important Administration Instructions
 Instruct patients how to properly take acetaminophen and codeine phosphate tablets (see DOSAGE AND ADMINISTRATION).
 
 - Advise patients not to adjust the dose of acetaminophen and codeine phosphate tablets without consulting a physician or other healthcare professional.
-- If patients have been receiving treatment with acetaminophen and codeine phosphate tablets for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose and that abruptly discontinuing the medication could precipitate withdrawal symptoms.
-  Provide a dose schedule to accomplish a gradual discontinuation of the medication (see WARNINGS).
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue acetaminophen and codeine phosphate tablets without first discussing a tapering plan with the prescriber (see DOSAGE AND ADMINISTRATION).
 
 Maximum Daily Dose of Acetaminophen
 
@@ -306,13 +323,9 @@ Advise patients how to recognize such a reaction, and if they develop signs of a
 
 Pregnancy
 
-Neonatal Opioid Withdrawal Syndrome
+Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that prolonged use of acetaminophen and codeine phosphate tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated (see PRECAUTIONS, Pregnancy).
 
-Inform female patients of reproductive potential that prolonged use of acetaminophen and codeine phosphate tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated (see PRECAUTIONS, Pregnancy).
-
-Embryo-Fetal Toxicity
-
-Inform female patients of reproductive potential that acetaminophen and codeine phosphate tablets can cause fetal harm and to inform the prescriber of a known or suspected pregnancy (see PRECAUTIONS, Pregnancy).
+Embryo-Fetal Toxicity Inform female patients of reproductive potential that acetaminophen and codeine phosphate tablets can cause fetal harm and to inform the prescriber of a known or suspected pregnancy (see PRECAUTIONS, Pregnancy).
 
 Lactation
 
@@ -327,9 +340,7 @@ Driving or Operating Heavy Machinery
 
 Inform patients that acetaminophen and codeine phosphate tablets may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery and to avoid such tasks while taking this product, until they know how they will react to the medication.
 
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
+Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
 
 Disposal of Unused Acetaminophen and Codeine Phosphate Tablets
 
@@ -391,7 +402,7 @@ Follow patients closely for signs of respiratory depression and sedation (see WA
 Serotonergic Drugs
 
 The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome.
-Examples of these drugs include, selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (used to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) (see PRECAUTIONS, Information for Patients/Caregivers).
+Examples of these drugs include, selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and monoamine oxidase (MAO) inhibitors (used to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) (see PRECAUTIONS, Information for Patients/Caregivers).
 
 If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
 Discontinue acetaminophen and codeine phosphate tablets immediately if serotonin syndrome is suspected.
@@ -476,9 +487,7 @@ Pregnancy
 
 Teratogenic Effects: Pregnancy Category C
 
-Codeine
-
-A study in rats and rabbits reported no teratogenic effect of codeine administered during the period of organogenesis in doses ranging from 5 to 120 mg/kg.
+Codeine A study in rats and rabbits reported no teratogenic effect of codeine administered during the period of organogenesis in doses ranging from 5 to 120 mg/kg.
 In the rat, doses at the 120 mg/kg level, in the toxic range for the adult animal, were associated with an increase in embryo resorption at the time of implantation.
 In another study a single 100 mg/kg subcutaneous dose of codeine administered to pregnant mice reportedly resulted in delayed ossification in the offspring.
 
@@ -487,9 +496,7 @@ Acetaminophen and codeine phosphate tablets should be used during pregnancy only
 
 Nonteratogenic Effects
 
-Fetal/Neonatal Adverse Reactions
-
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -522,9 +529,7 @@ Because of the potential for serious adverse reactions, including excess sedatio
 Acetaminophen is excreted in breast milk in small amounts, but the significance of its effect on nursing infants is not known.
 Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-Clinical Considerations
-
-If infants are exposed to acetaminophen and codeine phosphate tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
+Clinical Considerations If infants are exposed to acetaminophen and codeine phosphate tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped.
 
 Pediatric Use
