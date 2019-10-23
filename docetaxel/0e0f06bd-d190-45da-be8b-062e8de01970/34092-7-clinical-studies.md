@@ -20,7 +20,7 @@ The following table summarizes the study results (See Table 12).
 | Median Survival | 11.4 months | 8.7 months | p=0.01Log Rank |
 | Risk RatioFor the risk ratio, a value less than 1.00 favors docetaxel., Mortality (Docetaxel: Control) | 0.73 |  |  |
 | 95% CI (Risk Ratio) | 0.58-0.93 |  |  |
-| Median Time to Progression | 4.3 months | 2.5 months | p=0.01 Log Rank |
+| Median Time to Progression | 4.3 months | 2.5 months |  |
 | Risk Ratio, Progression (Docetaxel: Control) | 0.75 |  | p=0.01Log Rank |
 | 95% CI (Risk Ratio) | 0.61-0.94 |  |  |
 | Overall Response Rate | 28.1% | 9.5% | p<0.0001Chi Square |
@@ -60,7 +60,7 @@ Among 26 patients whose best response to an anthracycline had been progression, 
 ## 14.2 Adjuvant Treatment of Breast Cancer
 
 A multicenter, open-label, randomized trial (TAX316) evaluated the efficacy and safety of docetaxel for the adjuvant treatment of patients with axillary-node-positive breast cancer and no evidence of distant metastatic disease.
-After stratification according to the number of positive lymph nodes (1-3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
+After stratification according to the number of positive lymph nodes (1-3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclophosphamide 500 mg/m2 (FAC arm).
 Both regimens were administered every 3 weeks for 6 cycles.
 Docetaxel was administered as a 1-hour infusion; all other drugs were given as intravenous bolus on day 1.
 In both arms, after the last cycle of chemotherapy, patients with positive estrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.
@@ -75,7 +75,7 @@ At the time of this interim analysis, based on 219 deaths, overall survival was 
 (See Figure 2).
 There will be further analysis at the time survival data mature.
 
-Figure 1 - TAX316 Disease Free Survival K-M curve
+Figure 1 - TAX316 Disease Free Survival K-M Curve
 
 Figure 2 - TAX316 Overall Survival K-M Curve
 
@@ -232,7 +232,7 @@ Figure 7 - Gastric Cancer Study (TAX325) Survival K-M Curve
 
 ## 14.6 Head and Neck Cancer
 
-Induction chemotherapy followed by Radiotherapy (TAX323)
+Induction Chemotherapy followed by Radiotherapy (TAX323)
 
 The safety and efficacy of docetaxel injection in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
 In this study, 358 patients with inoperable locally advanced SCCHN, and WHO performance status 0 or 1, were randomized to one of two treatment arms.
@@ -272,9 +272,9 @@ Figure 9 - TAX323 Overall Survival K-M Curve
 
 Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
-The safety and efficacy of docetaxel in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
+The safety and efficacy of docetaxel injection in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
 In this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomized to one of two treatment arms.
-Patients on the docetaxel arm received docetaxel (T) 75 mg/m2 by intravenous infusion on day 1 followed by cisplatin (P) 100 mg/m2 administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m2/day from day 1 to day 4.
+Patients on the docetaxel injection arm received docetaxel injection (T) 75 mg/m2 by intravenous infusion on day 1 followed by cisplatin (P) 100 mg/m2 administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m2/day from day 1 to day 4.
 The cycles were repeated every 3 weeks for 3 cycles.
 Patients on the comparator arm received cisplatin (P) 100 mg/m2 as a 30-minute to three-hour intravenous infusion on day 1 followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m2/day from day 1 to day 5.
 The cycles were repeated every 3 weeks for 3 cycles.
@@ -284,7 +284,7 @@ During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intrav
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70-72 Gy).
 Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
 
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 to 0.90].
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel injection-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 to 0.90].
 Overall survival results are presented in Table 21 and Figure 10.
 
 1. Table 21: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
@@ -293,6 +293,6 @@ Overall survival results are presented in Table 21 and Figure 10.
 | --- | --- | --- |
 | Median overall survival (months) (95% CI) | 70.6 (49.0-NE) | 30.1 (20.9-51.5) |
 | Hazard ratio: (95% CI) Un-adjusted log-rank testp-value | 0.70(0.54-0.90) 0.0058 |  |
-| A Hazard ratio of less than 1 favors docetaxel+cisplatin+fluorouracil NE - not estimable |  |  |
+| A Hazard ratio of less than 1 favors docetaxel injection+cisplatin+fluorouracil NE - not estimable |  |  |
 
 Figure 10 - TAX324 Overall Survival K-M Curve

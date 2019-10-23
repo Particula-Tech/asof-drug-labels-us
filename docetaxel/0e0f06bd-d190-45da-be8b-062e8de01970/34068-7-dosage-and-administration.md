@@ -44,7 +44,7 @@ Induction chemotherapy followed by radiotherapy (TAX323)
 
 Induction chemotherapy followed by chemoradiotherapy (TAX324)
 
-- For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+- For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1-hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
   This regimen is administered every 3 weeks for 3 cycles.
   Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
 
@@ -109,7 +109,7 @@ Recommended dose modifications for toxicities in patients treated with Docetaxel
 
 Table 1 Recommended Dose Modifications for Toxicities in Patients Treated with Docetaxel Injection in Combination with Cisplatin and Fluorouracil
 
-| Toxicity | Dosage adjustment |
+| Toxicity | Dosage Adjustment |
 | --- | --- |
 | Diarrhea grade 3 | First episode: reduce fluorouracil dose by 20%.Second episode: then reduce Docetaxel Injection dose by 20%. |
 | Diarrhea grade 4 | First episode: reduce Docetaxel Injection and fluorouracil doses by 20%.Second episode: discontinue treatment. |
@@ -140,11 +140,11 @@ For other cisplatin dosage adjustments, also refer to the manufacturers’ presc
 
 Table 2 Dose Reductions for Evaluation of Creatinine Clearance
 
-| Creatinine clearance result before next cycle | Cisplatin dose next cycle |
+| Creatinine Clearance Result Before Next Cycle | Cisplatin Dose Next Cycle |
 | --- | --- |
 | CrCl ≥60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |
 | CrCl between 40 and 59 mL/min | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle.If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |
-| CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only.If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued.If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle.If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle |
+| CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only.If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued.If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle.If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
 | CrCl = Creatinine clearance |  |
 
 Fluorouracil dose modifications and treatment delays
@@ -176,12 +176,10 @@ If Docetaxel Injection or diluted solution for intravenous infusion should come 
 Contact of the Docetaxel Injection with plasticized PVC equipment or devices used to prepare solutions for infusion is not recommended.
 In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may be leached from PVC infusion bags or sets, the Docetaxel Injection diluted solution for infusion should be stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered through polyethylene-lined administration sets.
 
-Docetaxel Injection requires dilution prior to administration.
+Docetaxel Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 Please follow the preparation instructions provided below.
 
 ## 2.9 Preparation and Administration
-
-Docetaxel Injection (10 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 
 Dilution for Infusion
 

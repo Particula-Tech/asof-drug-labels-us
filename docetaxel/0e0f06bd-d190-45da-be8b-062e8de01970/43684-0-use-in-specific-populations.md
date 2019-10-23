@@ -29,7 +29,7 @@ Docetaxel has been studied in a total of 289 pediatric patients: 239 in 2 trials
 Docetaxel Monotherapy
 
 Docetaxel monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1-22 years) with a variety of refractory solid tumors.
-The recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 days.
+The recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 day.
 The primary dose limiting toxicity was neutropenia.
 
 The recommended dose for docetaxel monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1-26 years) with a variety of recurrent/refractory solid tumors.
@@ -88,7 +88,7 @@ Head and Neck Cancer
 
 Among the 174 and 251 patients who received the induction treatment with docetaxel injection in combination with cisplatin and fluorouracil (TPF) for SCCHN in the TAX323 and TAX324 studies, 18 (10%) and 32 (13%) of the patients were 65 years of age or older, respectively.
 
-These clinical studies of docetaxel in combination with cisplatin and fluorouracil in patients with SCCHN did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+These clinical studies of docetaxel injection in combination with cisplatin and fluorouracil in patients with SCCHN did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 Other reported clinical experience with this treatment regimen has not identified differences in responses between elderly and younger patients.
 
 ## 8.6 Hepatic Impairment

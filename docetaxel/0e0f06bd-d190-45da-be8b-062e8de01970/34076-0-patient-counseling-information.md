@@ -20,17 +20,17 @@ See FDA-Approved Patient Labeling
 
 Manufactured by:
 
-Ebewe Pharma Ges.m.b.H.
+EBEWE Pharma Ges.m.b.H.
 Nfg.KG
 
 A-4866 Unterach, Austria
 
 Distributed by
 
-Baxter Healthcare Corporaton
+Baxter Healthcare Corporation
 
 Deerfield, IL 60015 USA
 
 Baxter is a registered trademark of Baxter International Inc.
 
-Rev.: September 2018
+Rev.: March 2019

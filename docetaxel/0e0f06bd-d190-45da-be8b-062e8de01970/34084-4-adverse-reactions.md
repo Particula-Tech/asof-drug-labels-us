@@ -10,7 +10,7 @@ The most serious adverse reactions from docetaxel are:
 - •Acute Myeloid Leukemia [see Warnings and Precautions (5.6)]
 - •Cutaneous Reactions [see Warnings and Precautions (5.7)]
 - •Neurologic Reactions [see Warnings and Precautions (5.8)]
-- •Eye Disorders [see Warnings and Precautions (5.9)]
+- •Eye Disorders [seeWarnings and Precautions (5.9)]
 - •Asthenia [see Warnings and Precautions (5.10)]
 - •Alcohol Intoxication [see Warnings and Precautions (5.12)]
 
@@ -119,7 +119,7 @@ Severe nail disorders were characterized by hypo- or hyperpigmentation, and occa
 
 Neurologic Reactions
 
-Neurologic reactions are discussed elsewhere in the label [see Warnings and Precautions (5.8)]
+Neurologic reactions are discussed elsewhere in the label [see Warnings and Precautions (5.8)].
 
 Gastrointestinal Reactions
 
@@ -423,7 +423,7 @@ Table 8 Adverse Reactions Regardless of Relationship to Treatment in Chemotherap
 Deaths within 30 days of last study treatment occurred in 31 patients (7.6%) in the docetaxel+cisplatin arm and 37 patients (9.3%) in the vinorelbine+cisplatin arm.
 Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2%) in the vinorelbine+cisplatin arm.
 
-The second comparison in the study, vinorelbine+cisplatin versus docetaxel+carboplatin (which did not demonstrate a superior survival associated with docetaxel, [see Clinical Studies (14.3)])demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the docetaxel+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
+The second comparison in the study, vinorelbine+cisplatin versus docetaxel+carboplatin (which did not demonstrate a superior survival associated with docetaxel, [see Clinical Studies (14.3)] demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the docetaxel+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
 
 Prostate Cancer
 
@@ -439,11 +439,11 @@ Table 9 Clinically Important Treatment Emergent Adverse Reactions (Regardless of
 | Anemia | 67 | 5 | 58 | 2 |
 | Neutropenia | 41 | 32 | 48 | 22 |
 | Thrombocytopenia | 3 | 1 | 8 | 1 |
-| Febrile neutropenia | 3 | N/A | 2 | N/A |
+| Febrile Neutropenia | 3 | N/A | 2 | N/A |
 | Infection | 32 | 6 | 20 | 4 |
 | Epistaxis | 6 | 0 | 2 | 0 |
 | Allergic Reactions | 8 | 1 | 1 | 0 |
-| Fluid RetentionRelated to treatment.Weight GainPeripheral Edema | 24 818 | 100 | 532 | 000 |
+| Fluid RetentionRelated to treatment.Weight GainPeripheralEdema | 24 818 | 100 | 532 | 000 |
 | Neuropathy Sensory | 30 | 2 | 7 | 0 |
 | Neuropathy Motor | 7 | 2 | 3 | 1 |
 | Rash/Desquamation | 6 | 0 | 3 | 1 |
@@ -517,7 +517,7 @@ The treatment regimens are described in Section 14.6.
 
 |  | TAX323(n=355) |  |  |  | TAX324(n=494) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Docetaxel arm (n=174) |  | Comparator arm (n=181) |  | Docetaxel arm (n=251) |  | Comparator arm (n=243) |  |
+|  | Docetaxel Injection arm (n=174) |  | Comparator arm (n=181) |  | Docetaxel Injectionarm (n=251) |  | Comparator arm (n=243) |  |
 | Adverse Reaction(by Body System) | Any% | Grade3/4 % | Any% | Grade3/4 % | Any% | Grade3/4 % | Any% | Grade3/4 % |
 | Neutropenia | 93 | 76 | 87 | 53 | 95 | 84 | 84 | 56 |
 | Anemia | 89 | 9 | 88 | 14 | 90 | 12 | 86 | 10 |
