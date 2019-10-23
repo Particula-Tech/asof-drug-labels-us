@@ -9,8 +9,7 @@
 - •Pulmonary Toxicity [see Warnings and Precautions (5.4)]
 - •Secondary Malignancies [see Warnings and Precautions (5.5)]
 - •Veno-occlusive Liver Disease [see Warnings and Precautions (5.6)]
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.7)]
-- •Reproductive System Toxicity [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4 and 8.6)]
+- •Infertility [see Warnings and Precautions (5.8) and Use in Specific Populations (8.3) and (8.4)]
 - •Impaired Wound Healing [see Warnings and Precautions (5.9)]
 - •Hyponatremia [see Warnings and Precautions (5.10)]
 
@@ -51,7 +50,7 @@ Eye: visual impairment, conjunctivitis, lacrimation.
 
 Gastrointestinal: gastrointestinal hemorrhage, acute pancreatitis, colitis, enteritis, cecitis, stomatitis, constipation, parotid gland inflammation.
 
-General Disorders and Administrative Site Conditions: multiorgan failure, general physical deterioration, influenza-like illness, injection/infusion site reactions (thrombosis, necrosis, phlebitis, inflammation, pain, swelling, erythema), pyrexia, edema, chest pain, mucosal inflammation, asthenia, pain, chills, fatigue, malaise, headache.
+General Disorders and Administrative Site Conditions: multiorgan failure, general physical deterioration, influenza-like illness, pyrexia, edema, chest pain, mucosal inflammation, asthenia, pain, chills, fatigue, malaise, headache.
 
 Hematologic: myelosuppression, bone marrow failure, disseminated intravascular coagulation and hemolytic uremic syndrome (with thrombotic microangiopathy).
 
