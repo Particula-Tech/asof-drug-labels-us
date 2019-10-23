@@ -172,12 +172,10 @@ Active ingredient: testosterone undecanoate Inactive ingredients: refined castor
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Endo Pharmaceuticals Solutions Inc. Malvern, PA 19355
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-AVEED is a registered trademark of Endo Pharmaceuticals Inc.
+AVEED is a registered trademark of Endo Pharmaceuticals Inc. or one of its affiliates
 
-© 2018 Endo Pharmaceuticals Solutions Inc. All rights reserved.
+© 2019 Endo Pharmaceuticals Inc. All rights reserved.
 
-Revised: 01/2018
-
-119487
+Revised: 10/2019
