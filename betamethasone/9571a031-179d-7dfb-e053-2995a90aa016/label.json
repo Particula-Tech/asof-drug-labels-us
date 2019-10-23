@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA073552"
+  ],
+  "inn": "betamethasone",
+  "labeler": "Golden State Medical Supply, Inc.",
+  "package_ndcs": [
+    "51407-273-15",
+    "51407-273-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "betamethasone dipropionate",
+      "name": "Betamethasone Dipropionate"
+    }
+  ],
+  "setid": "9571a031-179d-7dfb-e053-2995a90aa016",
+  "source": "dailymed"
+}
