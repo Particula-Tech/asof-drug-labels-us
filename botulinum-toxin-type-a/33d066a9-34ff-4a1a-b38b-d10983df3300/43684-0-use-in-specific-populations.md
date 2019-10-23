@@ -5,7 +5,7 @@
 Risk Summary
 
 There are no studies or adequate data from postmarketing surveillance on the developmental risk associated with use of BOTOX in pregnant women.
-In animal studies, administration of BOTOX during pregnancy resulted in adverse effects on fetal growth (decreased fetal weight and skeletal ossification) at clinically relevant doses, which were associated with maternal toxicity [see Data)].
+In animal studies, administration of BOTOX during pregnancy resulted in adverse effects on fetal growth (decreased fetal weight and skeletal ossification) at clinically relevant doses, which were associated with maternal toxicity [see Data].
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated populations is unknown.
@@ -44,11 +44,23 @@ Safety and effectiveness in patients below the age of 18 years have not been est
 In a 12-week, multicenter, double-blind, placebo-controlled clinical trial, 123 adolescent patients (ages 12 to below 18 years) with chronic migraine were randomized to receive BOTOX 74 Units, BOTOX 155 Units, or placebo, for one injection cycle.
 This trial did not establish the efficacy of BOTOX, compared with placebo, for the prophylaxis of headaches in adolescents with chronic migraine.
 
+Spasticity
+
 Upper Limb Spasticity
 
-Safety and effectiveness for the treatment of upper limb spasticity have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.2), Adverse Reactions (6.1), and Clinical Studies (14.5)].
+Safety and effectiveness have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.5)].
+The safety and effectiveness of BOTOX have been established by evidence from adequate and well-controlled studies of BOTOX in patients 2 to 17 years of age with upper limb spasticity.
 
-Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
+Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
+
+Lower Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+
+Safety and effectiveness have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.5)].
+The safety and effectiveness of BOTOX have been established by evidence from adequate and well-controlled studies of BOTOX in patients 2 to 17 years of age with lower limb spasticity.
+A pediatric assessment for BOTOX demonstrates that BOTOX is safe and effective in another pediatric population.
+However, BOTOX is not approved for such patient population due to marketing exclusivity for another botulinum toxin.
+
+Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Juvenile Animal Data
 
@@ -56,10 +68,6 @@ In a study in which juvenile rats received intramuscular injection of BOTOX (0, 
 Impairment of fertility and male reproductive organ histopathology (degeneration of seminiferous tubules of the testis) were observed at the mid and high doses.
 Bone and male reproductive organ effects showed evidence of reversibility after dosing cessation.
 The no-effect dose for adverse developmental effects in juvenile animals (8 Units/kg) is similar to the human dose (400 Units) on a body weight (kg) basis.
-
-Lower Limb Spasticity
-
-Safety and effectiveness for the treatment of lower limb spasticity in pediatric patients has not been established.
 
 Axillary Hyperhidrosis
 
@@ -84,10 +92,10 @@ Other reported clinical experience has not identified differences in responses b
 Overactive Bladder
 
 Of 1242 overactive bladder patients in placebo-controlled clinical studies of BOTOX, 41.4% were 65 years of age or older, and 14.7% were 75 years of age or older.
-Adverse reactions of UTI and urinary retention were more common in patients 65 years of age or older in both placebo and BOTOX groups compared to younger patients (see Table 20).
+Adverse reactions of UTI and urinary retention were more common in patients 65 years of age or older in both placebo and BOTOX groups compared to younger patients (see Table 22).
 Otherwise, there were no overall differences in the safety profile following BOTOX treatment between patients aged 65 years and older compared to adult patients younger than 65 years of age in these studies.
 
-Table 20: Incidence of Urinary Tract Infection and Urinary Retention according to Age Group during First Placebo-controlled Treatment, Placebo-controlled Clinical Trials in Patients with OAB
+Table 22: Incidence of Urinary Tract Infection and Urinary Retention according to Age Group during First Placebo-Controlled Treatment, Placebo-Controlled Clinical Trials in Patients with OAB
 
 |  | <65 Years |  | 65 to 74 Years |  | ≥75 Years |  |
 | --- | --- | --- | --- | --- | --- | --- |

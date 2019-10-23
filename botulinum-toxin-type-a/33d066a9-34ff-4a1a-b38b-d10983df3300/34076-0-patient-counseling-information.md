@@ -4,7 +4,7 @@ Advise the patient or caretaker to read the FDA-approved patient labeling (Medic
 
 Swallowing, Speaking or Breathing Difficulties, or Other Unusual Symptoms
 
-Advise patients or their caretaker(s) to inform their doctor or pharmacist if they develop any unusual symptoms (including difficulty with swallowing, speaking, or breathing), or if any existing symptom worsens [see Boxed Warning and Warnings and Precautions (5.2, 5.6)].
+Advise patients or their caretaker(s) to inform their doctor or pharmacist if they develop any unusual symptoms (including difficulty with swallowing, speaking, or breathing), or if any existing symptom worsens [see Boxed Warning and Warnings and Precautions (5.1, 5.6)].
 
 Ability to Operate Machinery or Vehicles
 
@@ -29,6 +29,7 @@ All rights reserved.
 
 All trademarks are the property of their respective owners.
 
-Patented. www.allergan.com/patents
+Patented.
+See: www.allergan.com/patents
 
-v3.0USPI1145
+v4.0USPI1145

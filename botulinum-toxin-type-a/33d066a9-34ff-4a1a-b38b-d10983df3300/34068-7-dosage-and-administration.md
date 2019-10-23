@@ -1,14 +1,14 @@
 # 2DOSAGE AND ADMINISTRATION
 
-## 2.1 Instructions for Safe Use
+## 2.1Instructions for Safe Use
 
 The potency Units of BOTOX (onabotulinumtoxinA) for injection are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.1) and Description (11)].
+They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.2) and Description (11)].
 
 Indication specific dosage and administration recommendations should be followed.
 When initiating treatment, the lowest recommended dose should be used.
 In treating adult patients for one or more indications, the maximum cumulative dose should not exceed 400 Units, in a 3-month interval.
-In pediatric patients, the total dose should not exceed the lower of 8 Units/kg body weight or 300 Units, in a 3-month interval [see Dosage and Administration (2.6)].
+In pediatric patients, the total dose should not exceed the lower of 10 Units/kg body weight or 340 Units, in a 3-month interval [see Dosage and Administration (2.6)].
 
 The safe and effective use of BOTOX depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
 An understanding of standard electromyographic techniques is also required for treatment of strabismus, upper or lower limb spasticity, and may be useful for the treatment of cervical dystonia.
@@ -22,7 +22,7 @@ Do not use BOTOX and contact Allergan (1-800-890-4345) if:
 
 • the U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)].
 
-## 2.2 Preparation and Dilution Technique
+## 2.2Preparation and Dilution Technique
 
 Prior to injection, reconstitute each vacuum-dried vial of BOTOX with only sterile, preservative-free 0.9% Sodium Chloride Injection, USP.
 Draw up the proper amount of diluent in the appropriate size syringe (see Table 1, or for specific instructions for detrusor overactivity associated with a neurologic condition, see Section 2.3), and slowly inject the diluent into the vial.
@@ -55,7 +55,7 @@ A new, sterile needle and syringe should be used to enter the vial on each occas
 Reconstituted BOTOX should be clear, colorless, and free of particulate matter.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration and whenever the solution and the container permit.
 
-## 2.3 Bladder Dysfunction
+## 2.3Bladder Dysfunction
 
 General
 
@@ -88,7 +88,7 @@ The patient should be observed for at least 30 minutes post-injection and until 
 
 Patients should be considered for reinjection when the clinical effect of the previous injection has diminished (median time until patients qualified for the second treatment of BOTOX in double-blind, placebo-controlled clinical studies was 169 days [~24 weeks]), but no sooner than 12 weeks from the prior bladder injection.
 
-Figure 1:Injection Pattern for Intradetrusor Injections for Treatment of Overactive Bladder and Detrusor Overactivity associated with a Neurologic Condition
+Figure 1:Injection Pattern for Intradetrusor Injections for Treatment of Overactive Bladder and Detrusor Overactivity Associated with a Neurologic Condition
 
 Detrusor Overactivity associated with a Neurologic Condition
 
@@ -128,7 +128,7 @@ The patient should be observed for at least 30 minutes post-injection.
 
 Patients should be considered for re-injection when the clinical effect of the previous injection diminishes (median time to qualification for re-treatment in the double-blind, placebo-controlled clinical studies was 295-337 days [42-48 weeks] for BOTOX 200 Units), but no sooner than 12 weeks from the prior bladder injection.
 
-## 2.4 Chronic Migraine
+## 2.4Chronic Migraine
 
 The recommended dilution is 200 Units/4 mL or 100 Units/2 mL, with a final concentration of 5 Units per 0.1 mL (see Table 1).
 The recommended dose for treating chronic migraine is 155 Units administered intramuscularly using a sterile 30-gauge, 0.5 inch needle as 0.1 mL (5 Units) injections per each site.
@@ -156,7 +156,7 @@ a Each IM injection site = 0.1 mL = 5 Units BOTOX
 
 b Dose distributed bilaterally
 
-## 2.5 Adult Spasticity
+## 2.5Adult Spasticity
 
 General
 
@@ -205,13 +205,13 @@ Table 4: BOTOX Dosing by Muscle for Adult Lower Limb Spasticity
 
 Figure 3: Injection Sites for Adult Lower Limb Spasticity
 
-## 2.6 Pediatric Upper Limb Spasticity
+## 2.6 Pediatric Spasticity
 
 General
 
 Localization of the involved muscles with techniques such as needle electromyographic guidance, nerve stimulation, or ultrasound is recommended.
-The maximum cumulative dose should not exceed the lower of 8 Units/kg body weight or 300 Units, in a 3-month interval [see Boxed Warning and Warnings and Precautions (5.2, 5.6)].
-Additional general adult spasticity dosing information is also applicable to pediatric upper limb spasticity patients [see Dosage and Administration (2.5)].
+When treating both lower limbs or the upper and lower limbs in combination, the total dose should not exceed the lower of 10 Units/kg body weight or 340 Units, in a 3-month interval [see Boxed Warning and Warnings and Precautions (5.1, 5.6)].
+Additional general adult spasticity dosing information is also applicable to pediatric spasticity patients [see Dosage and Administration (2.5)].
 
 Pediatric Upper Limb Spasticity
 
@@ -223,14 +223,30 @@ Table 5: BOTOX Dosing by Muscle for Pediatric Upper Limb Spasticity
 | Muscle | Recommended Dose and Number of Sites |
 | --- | --- |
 | Biceps Brachii | 1.5 Units/kg to 3 Units/kg divided in 4 sites |
-| Brachialis | 1 Units/kg to 2 Units/kg divided in 2 sites |
-| Brachioradialis | 0.5 Units/kg to 1 Units/kg divided in 2 sites |
-| Flexor Carpi Radialis | 1 Units/kg to 2 Units/kg divided in 2 sites |
-| Flexor Carpi Ulnaris | 1 Units/kg to 2 Units/kg divided in 2 sites |
-| Flexor Digitorum Profundus | 0.5 Units/kg to 1 Units/kg divided in 2 sites |
-| Flexor Digitorum Sublimis | 0.5 Units/kg to 1 Units/kg divided in 2 sites |
+| Brachialis | 1 Unit/kg to 2 Units/kg divided in 2 sites |
+| Brachioradialis | 0.5 Units/kg to 1 Unit/kg divided in 2 sites |
+| Flexor Carpi Radialis | 1 Unit/kg to 2 Units/kg divided in 2 sites |
+| Flexor Carpi Ulnaris | 1 Unit/kg to 2 Units/kg divided in 2 sites |
+| Flexor Digitorum Profundus | 0.5 Units/kg to 1 Unit/kg divided in 2 sites |
+| Flexor Digitorum Sublimis | 0.5 Units/kg to 1 Unit/kg divided in 2 sites |
 
 Figure 4: Injection Sites for Pediatric Upper Limb Spasticity
+
+Pediatric Lower Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+
+The recommended dose for treating pediatric lower limb spasticity is 4 Units/kg to 8 Units/kg divided among the affected muscles (see Table 6 and Figure 5).
+The total dose of BOTOX administered per treatment session in the lower limb should not exceed 8 Units/kg or 300 Units, whichever is lower.
+
+Table 6: BOTOX Dosing by Muscle for Pediatric Lower Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+
+| Muscle | Recommended Dose Total Dosage (Number of Sites) |
+| --- | --- |
+| Gastrocnemius medial head | 1 Unit/kg to 2 Units/kg divided in 2 sites |
+| Gastrocnemius lateral head | 1 Unit/kg to 2 Units/kg divided in 2 sites |
+| Soleus | 1 Unit/kg to 2 Units/kg divided in 2 sites |
+| Tibialis Posterior | 1 Unit/kg to 2 Units/kg divided in 2 sites |
+
+Figure 5: Injection Sites for Pediatric Lower Limb Spasticity
 
 ## 2.7Cervical Dystonia
 
@@ -240,7 +256,7 @@ The BOTOX dose was divided among the affected muscles [see Clinical Studies (14.
 
 Dosing in initial and sequential treatment sessions should be tailored to the individual patient based on the patient’s head and neck position, localization of pain, muscle hypertrophy, patient response, and adverse event history.
 The initial dose for a patient without prior use of BOTOX should be at a lower dose, with subsequent dosing adjusted based on individual response.
-Limiting the total dose injected into the sternocleidomastoid muscle to 100 Units or less may decrease the occurrence of dysphagia [see Warnings and Precautions (5.2, 5.5, 5.6)].
+Limiting the total dose injected into the sternocleidomastoid muscle to 100 Units or less may decrease the occurrence of dysphagia [see Warnings and Precautions (5.1, 5.5, 5.6)].
 
 The recommended dilution is 200 Units/2 mL, 200 Units/4 mL, 100 Units/1 mL, or 100 Units/2 mL with preservative-free 0.9% Sodium Chloride Injection, USP, depending on volume and number of injection sites desired to achieve treatment objectives (see Table 1).
 In general, no more than 50 Units per site should be administered using a sterile needle (e.g., 25-30 gauge) of an appropriate length.
@@ -268,9 +284,9 @@ Gently blow off any excess starch powder.
 The hyperhidrotic area will develop a deep blue-black color over approximately 10 minutes.
 
 Each injection site has a ring of effect of up to approximately 2 cm in diameter.
-To minimize the area of no effect, the injection sites should be evenly spaced as shown in Figure 5.
+To minimize the area of no effect, the injection sites should be evenly spaced as shown in Figure 6.
 
-Figure 5: Injection Pattern for Primary Axillary Hyperhidrosis
+Figure 6: Injection Pattern for Primary Axillary Hyperhidrosis
 
 Each dose is injected to a depth of approximately 2 mm and at a 45° angle to the skin surface, with the bevel side up to minimize leakage and to ensure the injections remain intradermal.
 If injection sites are marked in ink, do not inject BOTOX directly through the ink mark to avoid a permanent tattoo effect.

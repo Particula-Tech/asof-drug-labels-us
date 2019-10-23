@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Bladder Dysfunction
+## 1.1Bladder Dysfunction
 
 Overactive Bladder
 
@@ -10,7 +10,7 @@ Detrusor Overactivity associated with a Neurologic Condition
 
 BOTOX is indicated for the treatment of urinary incontinence due to detrusor overactivity associated with a neurologic condition (e.g., SCI, MS) in adults who have an inadequate response to or are intolerant of an anticholinergic medication.
 
-## 1.2 Chronic Migraine
+## 1.2Chronic Migraine
 
 BOTOX is indicated for the prophylaxis of headaches in adult patients with chronic migraine (≥15 days per month with headache lasting 4 hours a day or longer).
 
@@ -18,7 +18,7 @@ Limitations of Use
 
 Safety and effectiveness have not been established for the prophylaxis of episodic migraine (14 headache days or fewer per month) in seven placebo-controlled studies.
 
-## 1.3 Adult Spasticity
+## 1.3Adult Spasticity
 
 Adult Upper Limb Spasticity
 
@@ -30,19 +30,22 @@ BOTOX is indicated for the treatment of lower limb spasticity in adult patients 
 
 Limitations of Use Safety and effectiveness of BOTOX have not been established for the treatment of other upper or lower limb muscle groups.
 BOTOX has not been shown to improve upper extremity functional abilities, or range of motion at a joint affected by a fixed contracture.
-Treatment with BOTOX is not intended to substitute for usual standard of care rehabilitation regimens.
 
-## 1.4 Pediatric Upper Limb Spasticity
+## 1.4 Pediatric Spasticity
+
+Pediatric Upper Limb Spasticity
 
 BOTOX is indicated for the treatment of upper limb spasticity in pediatric patients 2 to 17 years of age.
 
-Limitations of Use Treatment with BOTOX is not intended to substitute for usual standard of care rehabilitation regimens.
+Pediatric Lower Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
 
-## 1.5 Cervical Dystonia
+BOTOX is indicated for the treatment of lower limb spasticity in pediatric patients 2 to 17 years of age, excluding spasticity caused by cerebral palsy.
+
+## 1.5Cervical Dystonia
 
 BOTOX is indicated for the treatment of adults with cervical dystonia, to reduce the severity of abnormal head position and neck pain associated with cervical dystonia.
 
-## 1.6 Primary Axillary Hyperhidrosis
+## 1.6Primary Axillary Hyperhidrosis
 
 BOTOX is indicated for the treatment of severe primary axillary hyperhidrosis that is inadequately managed with topical agents.
 
@@ -52,6 +55,6 @@ Patients should be evaluated for potential causes of secondary hyperhidrosis (e.
 
 Safety and effectiveness of BOTOX have not been established for the treatment of axillary hyperhidrosis in pediatric patients under age 18.
 
-## 1.7 Blepharospasm and Strabismus
+## 1.7Blepharospasm and Strabismus
 
 BOTOX is indicated for the treatment of strabismus and blepharospasm associated with dystonia, including benign essential blepharospasm or VII nerve disorders in patients 12 years of age and older.

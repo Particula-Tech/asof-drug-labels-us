@@ -1,11 +1,6 @@
 # 5WARNINGS AND PRECAUTIONS
 
-## 5.1Lack of Interchangeability between Botulinum Toxin Products
-
-The potency Units of BOTOX are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
-
-## 5.2Spread of Toxin Effect
+## 5.1Spread of Toxin Effect
 
 Postmarketing safety data from BOTOX and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence, and breathing difficulties.
@@ -17,7 +12,12 @@ Patients or caregivers should be advised to seek immediate medical care if swall
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below), severe primary axillary hyperhidrosis at the recommended dose (100 Units), strabismus, or for chronic migraine at the labeled doses have been reported.
 
-## 5.3 Serious Adverse Reactions with Unapproved Use
+## 5.2 Lack of Interchangeability between Botulinum Toxin Products
+
+The potency Units of BOTOX are specific to the preparation and assay method utilized.
+They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
+
+## 5.3Serious Adverse Reactions with Unapproved Use
 
 Serious adverse reactions, including excessive weakness, dysphagia, and aspiration pneumonia, with some adverse reactions associated with fatal outcomes, have been reported in patients who received BOTOX injections for unapproved uses.
 In these cases, the adverse reactions were not necessarily related to distant spread of toxin, but may have resulted from the administration of BOTOX to the site of injection and/or adjacent structures.
@@ -25,23 +25,23 @@ In several of the cases, patients had pre-existing dysphagia or other significan
 There is insufficient information to identify factors associated with an increased risk for adverse reactions associated with the unapproved uses of BOTOX.
 The safety and effectiveness of BOTOX for unapproved uses have not been established.
 
-## 5.4 Hypersensitivity Reactions
+## 5.4Hypersensitivity Reactions
 
 Serious and/or immediate hypersensitivity reactions have been reported.
 These reactions include anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea.
 If such a reaction occurs, further injection of BOTOX should be discontinued and appropriate medical therapy immediately instituted.
 One fatal case of anaphylaxis has been reported in which lidocaine was used as the diluent, and consequently the causal agent cannot be reliably determined.
 
-## 5.5 Increased Risk of Clinically Significant Effects with Pre-Existing Neuromuscular Disorders
+## 5.5Increased Risk of Clinically Significant Effects with Pre-Existing Neuromuscular Disorders
 
 Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored when given botulinum toxin.
-Patients with known or unrecognized neuromuscular disorders or neuromuscular junction disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from therapeutic doses of BOTOX [see Warnings and Precautions (5.2, 5.6)].
+Patients with known or unrecognized neuromuscular disorders or neuromuscular junction disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from therapeutic doses of BOTOX [see Warnings and Precautions (5.1, 5.6)].
 
-## 5.6 Dysphagia and Breathing Difficulties
+## 5.6Dysphagia and Breathing Difficulties
 
 Treatment with BOTOX and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
-In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or oropharyngeal muscles that control swallowing or breathing [see Warnings and Precautions (5.2)].
+In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or oropharyngeal muscles that control swallowing or breathing [see Warnings and Precautions (5.1)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
 Dysphagia may persist for several months, and require use of a feeding tube to maintain adequate nutrition and hydration.
@@ -56,14 +56,14 @@ Limiting the dose injected into the sternocleidomastoid muscle may reduce the oc
 Injections into the levator scapulae may be associated with an increased risk of upper respiratory infection and dysphagia.
 
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
-These reactions can occur within hours to weeks after injection with botulinum toxin [see Warnings and Precautions (5.2)].
+These reactions can occur within hours to weeks after injection with botulinum toxin [see Warnings and Precautions (5.1)].
 
-## 5.7 Pulmonary Effects of BOTOX in Patients with Compromised Respiratory Status Treated for Spasticity or for Detrusor Overactivity associated with a Neurologic Condition
+## 5.7Pulmonary Effects of BOTOX in Patients with Compromised Respiratory Status Treated for Spasticity or for Detrusor Overactivity Associated with a Neurologic Condition
 
 Patients with compromised respiratory status treated with BOTOX for spasticity should be monitored closely.
-In a double-blind, placebo-controlled, parallel group study in adult patients treated for upper limb spasticity with stable reduced pulmonary function (defined as FEV1 40-80% of predicted value and FEV1/FVC ≤ 0.75), the event rate in change of Forced Vital Capacity (FVC) ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 6).
+In a double-blind, placebo-controlled, parallel group study in adult patients treated for upper limb spasticity with stable reduced pulmonary function (defined as FEV1 40-80% of predicted value and FEV1/FVC ≤ 0.75), the event rate in change of Forced Vital Capacity (FVC) ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 7).
 
-Table 6: Event Rate Per Patient Treatment Cycle Among Adult Upper Limb Spasticity Patients with Reduced Lung Function Who Experienced at Least a 15% or 20% Decrease in FVC From Baseline at Week 1, 6, 12 Post-injection with Up to Two Treatment Cycles with BOTOX or Placebo
+Table 7: Event Rate Per Patient Treatment Cycle Among Adult Upper Limb Spasticity Patients with Reduced Lung Function Who Experienced at Least a 15% or 20% Decrease in FVC From Baseline at Week 1, 6, 12 Post-injection with Up to Two Treatment Cycles with BOTOX or Placebo
 
 |  | BOTOX 360 Units |  | BOTOX 240 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -76,9 +76,9 @@ Differences from placebo were not statistically significant
 
 In adult spasticity patients with reduced lung function, upper respiratory tract infections were also reported more frequently as adverse reactions in patients treated with BOTOX than in patients treated with placebo [see Warnings and Precautions (5.10)].
 
-In a double-blind, placebo-controlled, parallel group study in adult patients with detrusor overactivity associated with a neurologic condition and restrictive lung disease of neuromuscular etiology [defined as FVC 50-80% of predicted value in patients with spinal cord injury between C5 and C8, or MS] the event rate in change of Forced Vital Capacity ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 7).
+In a double-blind, placebo-controlled, parallel group study in adult patients with detrusor overactivity associated with a neurologic condition and restrictive lung disease of neuromuscular etiology [defined as FVC 50-80% of predicted value in patients with spinal cord injury between C5 and C8, or MS] the event rate in change of Forced Vital Capacity ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 8).
 
-Table 7: Number and Percent of Patients Experiencing at Least a 15% or 20% Decrease in FVC From Baseline at Week 2, 6, 12 Post-injection with BOTOX or Placebo
+Table 8: Number and Percent of Patients Experiencing at Least a 15% or 20% Decrease in FVC From Baseline at Week 2, 6, 12 Post-Injection with BOTOX or Placebo
 
 |  | BOTOX 200 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- |
@@ -104,8 +104,9 @@ Bronchitis was reported more frequently as an adverse reaction in adult patients
 In adult patients with reduced lung function treated for upper limb spasticity, upper respiratory tract infections were also reported more frequently as adverse reactions in patients treated with BOTOX (11% at 360 Units total dose; 8% at 240 Units total dose) compared to placebo (6%).
 In adult patients treated for lower limb spasticity, upper respiratory tract infections were reported more frequently as an adverse reaction in patients treated with BOTOX (2% at 300 Units to 400 Units total dose) compared to placebo (1%).
 In pediatric patients treated for upper limb spasticity, upper respiratory tract infections were reported more frequently as an adverse reaction in patients treated with BOTOX (17% at 6 Units/kg and 10% at 3 Units/kg) compared to placebo (9%).
+In pediatric patients treated for lower limb spasticity, upper respiratory tract infection was not reported with an incidence greater than placebo.
 
-## 5.11Autonomic Dysreflexia in Patients Treated for Detrusor Overactivity associated with a Neurologic Condition
+## 5.11Autonomic Dysreflexia in Patients Treated for Detrusor Overactivity Associated with a Neurologic Condition
 
 Autonomic dysreflexia associated with intradetrusor injections of BOTOX could occur in patients treated for detrusor overactivity associated with a neurologic condition and may require prompt medical therapy.
 In clinical trials, the incidence of autonomic dysreflexia was greater in patients treated with BOTOX 200 Units compared with placebo (1.5% versus 0.4%, respectively).
@@ -128,10 +129,10 @@ The incidence and duration of urinary retention is described below for patients 
 
 Overactive Bladder
 
-In double-blind, placebo-controlled trials in patients with OAB, the proportion of subjects who initiated clean intermittent catheterization (CIC) for urinary retention following treatment with BOTOX or placebo is shown in Table 8.
+In double-blind, placebo-controlled trials in patients with OAB, the proportion of subjects who initiated clean intermittent catheterization (CIC) for urinary retention following treatment with BOTOX or placebo is shown in Table 9.
 The duration of post-injection catheterization for those who developed urinary retention is also shown.
 
-Table 8: Proportion of Patients Catheterizing for Urinary Retention and Duration of Catheterization Following an Injection in Double-blind, Placebo-controlled Clinical Trials in OAB
+Table 9: Proportion of Patients Catheterizing for Urinary Retention and Duration of Catheterization Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials in OAB
 
 | Timepoint | BOTOX 100 Units (N=552) | Placebo (N=542) |
 | --- | --- | --- |
@@ -141,9 +142,9 @@ Table 8: Proportion of Patients Catheterizing for Urinary Retention and Duration
 | Median | 63 | 11 |
 | Min, Max | 1, 214 | 3, 18 |
 
-Patients with diabetes mellitus treated with BOTOX were more likely to develop urinary retention than those without diabetes, as shown in Table 9.
+Patients with diabetes mellitus treated with BOTOX were more likely to develop urinary retention than those without diabetes, as shown in Table 10.
 
-Table 9: Proportion of Patients Experiencing Urinary Retention Following an Injection in Double-blind, Placebo-controlled Clinical Trials in OAB According to History of Diabetes Mellitus
+Table 10: Proportion of Patients Experiencing Urinary Retention Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials in OAB According to History of Diabetes Mellitus
 
 |  | Patients with Diabetes |  | Patients without Diabetes |  |
 | --- | --- | --- | --- | --- |
@@ -152,10 +153,10 @@ Table 9: Proportion of Patients Experiencing Urinary Retention Following an Inje
 
 Detrusor Overactivity associated with a Neurologic Condition
 
-In two double-blind, placebo-controlled trials in patients with detrusor overactivity associated with a neurologic condition (NDO-1 and NDO-2), the proportion of subjects who were not using clean intermittent catheterization (CIC) prior to injection and who subsequently required catheterization for urinary retention following treatment with BOTOX 200 Units or placebo is shown in Table 10.
+In two double-blind, placebo-controlled trials in patients with detrusor overactivity associated with a neurologic condition (NDO-1 and NDO-2), the proportion of subjects who were not using clean intermittent catheterization (CIC) prior to injection and who subsequently required catheterization for urinary retention following treatment with BOTOX 200 Units or placebo is shown in Table 11.
 The duration of post-injection catheterization for those who developed urinary retention is also shown.
 
-Table 10: Proportion of Patients Not Using CIC at Baseline and then Catheterizing for Urinary Retention and Duration of Catheterization Following an Injection in Double-blind, Placebo-controlled Clinical Trials
+Table 11: Proportion of Patients Not Using CIC at Baseline and then Catheterizing for Urinary Retention and Duration of Catheterization Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials
 
 | Timepoint | BOTOX 200 Units (N=108) | Placebo (N=104) |
 | --- | --- | --- |
@@ -165,9 +166,9 @@ Table 10: Proportion of Patients Not Using CIC at Baseline and then Catheterizin
 | Median | 289 | 358 |
 | Min, Max | 1, 530 | 2, 379 |
 
-Among patients not using CIC at baseline, those with Multiple Sclerosis (MS) were more likely to require CIC post-injection than those with Spinal Cord Injury (SCI) (see Table 11).
+Among patients not using CIC at baseline, those with Multiple Sclerosis (MS) were more likely to require CIC post-injection than those with Spinal Cord Injury (SCI) (see Table 12).
 
-Table 11: Proportion of Patients by Etiology (MS and SCI) Not Using CIC at Baseline and then Catheterizing for Urinary Retention Following an Injection in Double-blind, Placebo-controlled Clinical Trials
+Table 12: Proportion of Patients by Etiology (MS and SCI) Not Using CIC at Baseline and then Catheterizing for Urinary Retention Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials
 
 | Timepoint | MS |  | SCI |  |
 | --- | --- | --- | --- | --- |
@@ -178,7 +179,7 @@ A placebo-controlled, double-blind post-approval 52 week study with BOTOX 100 Un
 Catheterization for urinary retention was initiated in 15.2% (10/66) of patients following treatment with BOTOX 100 Units versus 2.6% (2/78) on placebo at any time during the complete treatment cycle.
 The median duration of post-injection catheterization for those who developed urinary retention was 64 days for BOTOX 100 Units and 2 days for placebo.
 
-## 5.14 Human Albumin and Transmission of Viral Diseases
+## 5.14Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
 Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).
