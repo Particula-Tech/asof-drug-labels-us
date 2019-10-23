@@ -23,9 +23,9 @@ These effects seemed to be more prominent in ambulatory patients and in those wh
 
 Other adverse reactions include the following:
 
-Body as a Whole:asthenia (weakness), edema, headache
+Body as a Whole: asthenia (weakness), edema, headache
 
-Cardiovascular:arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extra systoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia
+Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extra systoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia
 
 Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances
 
@@ -55,4 +55,4 @@ Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in DISKETS.
 
-Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [seeClinical Pharmacology (12.2)].

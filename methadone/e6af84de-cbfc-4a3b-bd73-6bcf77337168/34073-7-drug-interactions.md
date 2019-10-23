@@ -20,7 +20,7 @@
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Warnings and Precautions (5.9)]. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue DISKETS if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.1)]. |
 | Intervention: | The use of DISKETS is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
@@ -39,19 +39,19 @@
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
 | Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when DISKETS are used concomitantly with anticholinergic drugs. |
 
-Paradoxical Effects of Antiretroviral Agents on Methadone
+Paradoxical Effects of Antiretroviral Agents on Methadone:
 
 Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranavir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
 This may result in reduced efficacy of DISKETS Dispersible Tablets and could precipitate a withdrawal syndrome.
 Monitor patients receiving DISKETS Dispersible Tablets and any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the DISKETS Dispersible Tablets dose accordingly.
 
-Effects of Methadone on Antiretroviral Agents
+Effects of Methadone on Antiretroviral Agents:
 
-Didanosine and Stavudine:Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
+Didanosine and Stavudine: Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered.
 
 Zidovudine: Experimental evidence demonstrated that methadone increased the AUC of zidovudine, which could result in toxic effects.
 
-Effects of Methadone on Antidepressants
+Effects of Methadone on Antidepressants:
 
-Desipramine:Blood levels of desipramine have increased with concurrent methadone administration.
+Desipramine: Blood levels of desipramine have increased with concurrent methadone administration.

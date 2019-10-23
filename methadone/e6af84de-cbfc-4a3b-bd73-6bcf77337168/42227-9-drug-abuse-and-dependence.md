@@ -25,7 +25,7 @@ Careful record-keeping of prescribing information, including quantity and freque
 
 Proper assessment and selection of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to DISKETS
+Risks Specific to DISKETS:
 
 Abuse of methadone poses a risk of overdose and death.
 This risk is increased with concurrent abuse of methadone with alcohol and other substances.

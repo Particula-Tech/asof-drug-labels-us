@@ -25,6 +25,10 @@ To further reduce the risk of respiratory depression, consider the following:
   Follow induction directions closely to avoid inadvertent overdose [see Dosage and Administration (2.4)].
 - •Proper dosing and titration are essential and methadone should be overseen only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2)].
+
 ## 5.2 Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants with Methadone
 
 Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
@@ -102,11 +106,11 @@ When using DISKETS with CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontin
 
 The use of DISKETS in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease
+Patients with Chronic Pulmonary Disease:
 
 DISKETS-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of DISKETS [see Warnings and Precautions (5.1)].
 
-Elderly, Cachectic, or Debilitated Patients
+Elderly, Cachectic, or Debilitated Patients:
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.1)].
 
@@ -115,7 +119,7 @@ Monitor such patients closely, particularly when initiating and titrating DISKET
 ## 5.9 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of DISKETS with serotonergic drugs.
-Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
 This may occur within the recommended dosage range.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -134,11 +138,11 @@ The information available does not identify any particular opioids as being more
 
 ## 5.11 Severe Hypotension
 
-- Methadone may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-  There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7)].
-  Monitor these patients for signs of hypotension after initiating or titrating the dosage of DISKETS Dispersible Tablets.
-  In patients with circulatory shock, DISKETS may cause vasodilation that can further reduce cardiac output and blood pressure.
-  Avoid the use of DISKETS in patients with circulatory shock.
+Methadone may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see DrugInteractions (7)].
+Monitor these patients for signs of hypotension after initiating or titrating the dosage of DISKETS Dispersible Tablets.
+In patients with circulatory shock, DISKETS may cause vasodilation that can further reduce cardiac output and blood pressure.
+Avoid the use of DISKETS in patients with circulatory shock.
 
 ## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 

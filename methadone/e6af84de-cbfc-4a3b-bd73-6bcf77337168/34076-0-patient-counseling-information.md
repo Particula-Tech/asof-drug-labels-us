@@ -2,32 +2,32 @@
 
 Provide the following information to patients receiving DISKETS Dispersible Tablets or to their caregivers:
 
-Life-Threatening Respiratory Depression
+Life-Threatening Respiratory Depression:
 
 Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting DISKETS Dispersible Tablets or when the dose is increased [see Warnings and Precautions (5.1)].
 Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
 
-Interactions with Benzodiazepines and Other CNS Depressants
+Interactions with Benzodiazepines and Other CNS Depressants:
 
 Inform patients and caregivers that potentially fatal additive effects may occur if DISKETS Dispersible Tablets are used with benzodiazepines or other CNS depressants, including alcohol.
 Counsel patients that such medications should not be used concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.2)].
 
-Symptoms of Arrhythmia
+Symptoms of Arrhythmia:
 
 Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking DISKETS Dispersible Tablets [see Warnings and Precautions (5.3)].
 
-Accidental Ingestion
+Accidental Ingestion:
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4)].
 Instruct patients to take steps to store DISKETS Dispersible Tablets securely.
 Advise patients to dispose of unused DISKETS Dispersible Tablets by flushing the tablets down the toilet.
 
-Abuse Potential
+Abuse Potential:
 
 Inform patients that DISKETS Dispersible Tablets contain methadone, a Schedule II controlled substance that is subject to abuse [see Warnings and Precautions (5.5)].
 Instruct patients not to share DISKETS Dispersible Tablets with others and to take steps to protect DISKETS Dispersible Tablets from theft or misuse.
 
-Important Administration Instructions [see Dosage and Administration (2)]
+Important Administration Instructions [see Dosage and Administration (2)]:
 
 Instruct patients how to properly take DISKETS Dispersible Tablets, including the following:
 
@@ -38,13 +38,13 @@ Instruct patients how to properly take DISKETS Dispersible Tablets, including th
 - •Apprise patients seeking to discontinue treatment with methadone for opioid dependence of the high risk of relapse to illicit drug use associated with discontinuation of DISKETS Dispersible Tablets maintenance treatment.
 - •Advise patients not to discontinue DISKETS Dispersible Tablets without first discussing the need for a tapering regimen with the prescriber.
 
-Serotonin Syndrome
+Serotonin Syndrome:
 
 Inform patients that DISKETS could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.9), Drug Interactions (7)].
 
-MAOI Interaction
+MAOI Interaction:
 
 Inform patients to avoid taking DISKETS while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking DISKETS [see Drug Interactions (7)].
@@ -55,32 +55,32 @@ Inform patients that DISKETS could cause adrenal insufficiency, a potentially li
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms [seeWarnings and Precautions (5.10)].
 
-Hypotension
+Hypotension:
 
 Inform patients that DISKETS Dispersible Tablets may cause orthostatic hypotension and syncope.
 Instruct patients on how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.11)].
 
-Anaphylaxis
+Anaphylaxis:
 
 Inform patients that anaphylaxis has been reported with ingredients contained in DISKETS Dispersible Tablets.
 Advise patients how to recognize such a reaction and when to seek medical attention [see Adverse Reactions (6)].
 
-Neonatal Opioid Withdrawal
+Neonatal Opioid Withdrawal:
 
 Advise women that if they are pregnant while being treated with DISKETS, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.6), Specific Populations (8.1)].
 
-Lactation
+Lactation:
 
 Instruct nursing mothers using DISKETS Dispersible Tablets to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
 Instruct nursing mothers to talk to their baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) [see Use in Specific Populations (8.2)].
 
-Driving or Operating Heavy Machinery
+Driving or Operating Heavy Machinery:
 
 Inform patients that DISKETS Dispersible Tablets may impair the ability to perform potentially hazardous activities such as driving or operating heavy machinery.
 Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
 
-Constipation
+Constipation:
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
@@ -90,6 +90,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10000879/10
+10000879/11
 
-Revised January 2018
+Revised October 2019

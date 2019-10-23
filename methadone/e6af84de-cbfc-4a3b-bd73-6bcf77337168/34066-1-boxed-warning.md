@@ -11,9 +11,7 @@ Risks From Concomitant Use With Benzodiazepines or Other CNS Depressants
 
 Concomitant use with benzodiazepines or other central nervous system (CNS) depressants,
 
-including alcohol, is a risk factor for respiratory depression and death [see Warnings and
-
-Precautions (5.2), Drug Interactions (7)].
+including alcohol, is a risk factor for respiratory depression and death [see Warnings and Precautions (5.2), Drug Interactions (7)].
 
 - •Reserve concomitant prescribing of benzodiazepines or other CNS depressants in patients in methadone treatment to those for whom alternatives to benzodiazepines or other CNS depressants are inadequate.
 - •Follow patients for signs and symptoms of respiratory depression and sedation.
