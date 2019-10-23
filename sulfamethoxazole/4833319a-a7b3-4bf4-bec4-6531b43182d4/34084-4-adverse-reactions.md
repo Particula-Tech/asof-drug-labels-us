@@ -25,7 +25,7 @@ Diuresis and hypoglycemia have occurred rarely in patients receiving sulfonamide
 Musculoskeletal: Arthralgia and myalgia.
 Isolated cases of rhabdomyolysis have been reported with sulfamethoxazole and trimethoprim, mainly in AIDS patients.
 
-Respiratory: Cough, shortness of breath and pulmonary infiltrates (see WARNINGS).
+Respiratory: Cough, shortness of breath and pulmonary infiltrates (seeWARNINGS).
 
 Miscellaneous: Weakness, fatigue, insomnia.
 
@@ -34,6 +34,6 @@ Miscellaneous: Weakness, fatigue, insomnia.
 The following adverse reactions have been identified during post-approval use of trimethoprim-sulfamethoxazole.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- Thrombotic thrombocytopenia purpura
-- Idiopathic thrombocytopenic purpura
-- QT prolongation resulting in ventricular tachycardia and torsade de pointes
+- •Thrombotic thrombocytopenia purpura
+- •Idiopathic thrombocytopenic purpura
+- •QT prolongation resulting in ventricular tachycardia and torsade de pointes

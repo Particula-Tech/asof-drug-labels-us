@@ -78,8 +78,7 @@ As with all drugs containing sulfonamides, caution is advisable in patients with
 Use in the Treatment of and Prophylaxis for Pneumocystis jiroveci Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim in the same manner as non-AIDS patients.
 The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim therapy in AIDS patients who are being treated for P. jiroveci pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim in non-AIDS patients.
 Adverse effects are generally less severe in patients receiving sulfamethoxazole and trimethoprim for prophylaxis.
-A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.
-7 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
+A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.7 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
 
 Co-administration of sulfamethoxazole/trimethoprim and leucovorin should be avoided with P. jiroveci pneumonia (see WARNINGS).
 
@@ -221,4 +220,4 @@ Sulfamethoxazole and trimethoprim tablets contain 1.8 mg sodium (0.08 mEq) of so
 Sulfamethoxazole and trimethoprim DS tablets contain 3.6 mg (0.16 mEq) of sodium per tablet.
 
 Pharmacokinetics parameters for sulfamethoxazole were similar for geriatric subjects and younger adult subjects.
-The mean maximum serum trimethoprim concentration was higher and mean renal clearance of trimethoprim was lower in geriatric subjects compared with younger subjects (see CLINICAL PHARMACOLOGY: Geriatric Pharmacokinetics).
+The mean maximum serum trimethoprim concentration was higher and mean renal clearance of trimethoprim was lower in geriatric subjects compared with younger subjects (seeCLINICAL PHARMACOLOGY: Geriatric Pharmacokinetics).

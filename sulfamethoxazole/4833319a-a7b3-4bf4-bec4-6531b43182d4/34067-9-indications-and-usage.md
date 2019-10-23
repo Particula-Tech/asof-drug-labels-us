@@ -13,7 +13,7 @@ Sulfamethoxazole and trimethoprim is not indicated for prophylactic or prolonged
 
 Acute Exacerbations of Chronic Bronchitis in Adults: For the treatment of acute exacerbations of chronic bronchitis due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when a physician deems that sulfamethoxazole and trimethoprim could offer some advantage over the use of a single antimicrobial agent.
 
-Shigellosis: For the treatment of enteritis caused by susceptible strains of Shigella flexneri and Shigella sonnei when antibacterial therapy is indicated.
+Shigellosis: For the treatment of enteritis caused by susceptible strains of Shigella flexneri andShigella sonnei when antibacterial therapy is indicated.
 
 Pneumocystis jiroveci Pneumonia: For the treatment of documented Pneumocystis jiroveci pneumonia and for prophylaxis against P. jiroveci pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing P. jiroveci pneumonia.
 
