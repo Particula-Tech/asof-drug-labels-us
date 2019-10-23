@@ -14,6 +14,4 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Alcami Corporation Charleston, SC 29405 U.S.A.
 
-PC-3374G
-
-Revised: 12/2016 MI:MTHDIJ:R4
+PC-3374H Revised: 10/2019 MI:MTHDIJ:R5
