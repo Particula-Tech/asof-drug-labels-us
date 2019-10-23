@@ -17,7 +17,7 @@ Methadose™ also contains Artificial Cherry Flavor, Citric Acid, FD&C Red 40, D
 
 Rx only
 
-DO NOT USE IF SEAL AROUND BOTTLE CAP IS BROKEN OR MISSING
+DO NOT USE IF SEAL AROUND BOTTLE CAP IS BROKEN OR MISSING.
 
 USUAL DOSE: To be determined by the physician; to be diluted with water or other liquid to 30 mL (1 fl. oz.) or more before oral administration.
 
