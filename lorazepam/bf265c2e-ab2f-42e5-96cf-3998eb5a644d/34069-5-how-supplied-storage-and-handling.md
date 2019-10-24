@@ -1,12 +1,14 @@
 # HOW SUPPLIED
 
-2 mg per mL Lorazepam Oral Concentrate USP
+Lorazepam Oral Concentrate USP, 2 mg per mL, is available as a clear, colorless solution.
+It is supplied as follows:
 
-NDC 65162-687-84: Bottles of 30 mL with calibrated dropper (graduations of 0.25 mL [0.5 mg], 0.5 mL [1 mg], 0.75 mL 1.5 [mg] and 1 mL [2 mg] on the dropper).
+NDC 65162-687-84: Bottles of 30 mL with calibrated dropper (graduations of 0.25 mL [0.5 mg], 0.5 mL [1 mg], 0.75 mL [1.5 mg] and 1 mL [2 mg] on the dropper).
 
 PROTECT FROM LIGHT
 
-Store at Cold Temperature–Refrigerate 2° to 8°C (36° to 46°F).
+Store at cold temperature.
+Refrigerate at 2° to 8°C (36° to 46°F).
 
 Dispense only in the bottle and only with the calibrated dropper provided.
 
@@ -14,8 +16,13 @@ Discard opened bottle after 90 days.
 
 Rx Only
 
-Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
+Manufactured by: Amneal Pharmaceuticals LLC Branchburg, NJ 08876
 
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by:
 
-Revised: 04-2016-01
+Amneal Pharmaceuticals LLC
+
+Glasgow, KY 42141
+
+Rev.
+09-2019-02

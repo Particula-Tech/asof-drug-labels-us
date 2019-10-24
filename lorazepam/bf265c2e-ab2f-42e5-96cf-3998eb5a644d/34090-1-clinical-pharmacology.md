@@ -6,6 +6,7 @@ Lorazepam is readily absorbed with an absolute bioavailability of 90 percent.
 Peak concentrations in plasma occur approximately two hours following administration.
 
 The peak plasma level of lorazepam from a 2 mg dose is approximately 20 ng/mL.
+
 The mean half-life of unconjugated lorazepam in human plasma is about 12 hours and for its major metabolite, lorazepam glucuronide, about 18 hours.
 At clinically relevant concentrations, lorazepam is approximately 85% bound to plasma proteins.
 Lorazepam is rapidly conjugated at its 3-hydroxy group into lorazepam glucuronide which is then excreted in the urine.
