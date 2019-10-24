@@ -2,7 +2,7 @@
 
 ## 14.1 Oncology
 
-The efficacy of Fludeoxyglucose F 18 Injection in positron emission tomography cancer imaging was demonstrated in 16 independent studies.
+The efficacy of Fludeoxyglucose F 18 Injectionin positron emission tomography cancer imaging was demonstrated in 16 independent studies.
 These studies prospectively evaluated the use of Fludeoxyglucose F 18 in patients with suspected or known malignancies, including non-small cell lung cancer, colo-rectal, pancreatic, breast, thyroid, melanoma, Hodgkin's and non-Hodgkin's lymphoma, and various types of metastatic cancers to lung, liver, bone, and axillary nodes.
 All these studies had at least 50 patients and used pathology as a standard of truth.
 The Fludeoxyglucose F 18 Injection doses in the studies ranged from 200 MBq to 740 MBq with a median and mean dose of 370 MBq.
@@ -10,7 +10,7 @@ The Fludeoxyglucose F 18 Injection doses in the studies ranged from 200 MBq to 7
 In the studies, the diagnostic performance of Fludeoxyglucose F 18 Injection varied with the type of cancer, size of cancer, and other clinical conditions.
 False negative and false positive scans were observed.
 Negative Fludeoxyglucose F 18 Injection PET scans do not exclude the diagnosis of cancer.
-Positive Fludeoxyglucose F 18 Injection PET scans can not replace pathology to establish a diagnosis of cancer.
+Positive Fludeoxyglucose F 18 Injection PET scans cannot replace pathology to establish a diagnosis of cancer.
 Non-malignant conditions such as fungal infections, inflammatory processes and benign tumors have patterns of increased glucose metabolism that may give rise to false-positive scans.
 The efficacy of Fludeoxyglucose F 18 Injection PET imaging in cancer screening was not studied.
 
