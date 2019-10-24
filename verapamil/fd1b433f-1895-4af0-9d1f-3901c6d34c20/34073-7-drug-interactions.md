@@ -86,7 +86,7 @@ There has been a report of increased quinidine levels during verapamil therapy.
 
 In a few reported cases, coadministration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
 
-## 7.12 Antihypertensive agents
+## 7.12 Antihypertensive Agents
 
 Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta blockers) will usually have an additive effect on lowering blood pressure.
 Monitor patients receiving these combinations appropriately.
@@ -148,3 +148,10 @@ Variable results on clearance have been obtained in acute studies of healthy vol
 
 Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.
 The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.
+
+## 7.25 Mammalian Target of Rapamycin (mTOR) Inhibitors
+
+In a study of 25 healthy volunteers with co-administration of verapamil with sirolimus, whole blood sirolimus Cmax and AUC were increased 130% and 120%, respectively.
+Plasma S(-) verapamil Cmax and AUC were both increased 50%.
+Co-administration of verapamil with everolimus in 16 healthy volunteers increased the Cmax and AUC of everolimus by 130% and 250%, respectively.
+With concomitant use of mTOR inhibitors (e.g., sirolimus, temsirolimus, and everolimus) and verapamil, consider appropriate dose reductions of both medications.

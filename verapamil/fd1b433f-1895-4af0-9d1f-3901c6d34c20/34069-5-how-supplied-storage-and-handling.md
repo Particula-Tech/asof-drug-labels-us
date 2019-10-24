@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Verelan PM (verapamil hydrochloride) extended-release pellet filled capsules are supplied in three dosage strengths:
+Verapamil Hydrochloride Extended-release Capsules (PM) (verapamil hydrochloride) extended-release pellet filled capsules are supplied in three dosage strengths:
 
 | 100 mg: | Two piece size 2 hard gelatin capsule, white opaque cap and amethyst body imprinted KU/485 100 mg. Product identification printed in black ink, supplied as follows: NDC 62175-570-37 Bottle of 100s |
 | --- | --- |

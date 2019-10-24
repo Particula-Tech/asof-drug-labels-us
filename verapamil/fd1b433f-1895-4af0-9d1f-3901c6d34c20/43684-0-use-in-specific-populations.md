@@ -44,7 +44,7 @@ Monitor for abnormal prolongation of the PR interval or other signs of excessive
 
 ## 8.7 Impaired Renal Function
 
-About 70% of an administered dose of verapamil is excreted as metabolites in the urine.
+70% of an administered dose of verapamil is excreted as metabolites in the urine.
 Until further data are available, monitor these patients for abnormal prolongation of the PR interval or other signs of overdosage [see Overdosage (10)].
 
 ## 8.8 Attenuated (decreased) Neuromuscular Transmission
