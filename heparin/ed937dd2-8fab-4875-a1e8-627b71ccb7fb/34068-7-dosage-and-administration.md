@@ -49,7 +49,7 @@ In general, the following dosage schedule may be used as a guideline:
 
 Initial Dose: 50 units/kg (IV, infusion)
 
-Maintenance Dose: 100 units/kg (IV, infusion) every four hours, or 20,000 units/m2/24 hours continuously
+Maintenance Dose: 100 units/kg (IV, infusion) every four hours, or 20,000 units/m 2/24 hours continuously
 
 ## Geriatric Use
 
