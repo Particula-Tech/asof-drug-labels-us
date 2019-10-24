@@ -18,9 +18,9 @@ Pilocarpine toxicity is characterized by an exaggeration of its parasympathomime
 These may include: headache, visual disturbance, lacrimation, sweating, respiratory distress, gastrointestinal spasm, nausea, vomiting, diarrhea, atrioventricular block, tachycardia, bradycardia, hypotension, hypertension, shock, mental confusion, cardiac arrhythmia, and tremors.
 
 The dose-related cardiovascular pharmacologic effects of pilocarpine include hypotension, hypertension, bradycardia, and tachycardia.
-Pilocarpine should be administered with caution to patients with known or suspected cholelithiasis or biliary tract disease.
 
-Contractions of the gallbladder or biliary smooth muscle could precipitate complications including cholecystitis, cholangitis, and biliary obstruction.
+Pilocarpine should be administered with caution to patients with known or suspected cholelithiasis or biliary tract disease.Contractions of the gallbladder or biliary smooth muscle could precipitate complications including cholecystitis, cholangitis, and biliary obstruction.
+
 Pilocarpine may increase ureteral smooth muscle tone and could theoretically precipitate renal colic (or "ureteral reflux"), particularly in patients with nephrolithiasis.
 
 Cholinergic agonists may have dose-related central nervous system effects.
@@ -69,7 +69,7 @@ While no formal drug interaction studies have been performed, the following conc
 
 Lifetime oral carcinogenicity studies were conducted in CD-1 mice and Sprague-Dawley rats.
 Pilocarpine did not induce tumors in mice at any dosage studied (up to 30 mg/kg/day, which yielded a systemic exposure approximately 50 times larger than the maximum systemic exposure observed clinically).
-In rats, a dosage of 18mg/kg/day, which yielded a systemic exposure approximately 100 times larger than the maximum systemic exposure observed clinically, resulted in a statistically significant increase in the incidence of benign pheochromocytomas in both males and females, and a statistically significant increase in the incidence of hepatocellular adenomas in female rats.
+In rats, a dosage of 18 mg/kg/day, which yielded a systemic exposure approximately 100 times larger than the maximum systemic exposure observed clinically, resulted in a statistically significant increase in the incidence of benign pheochromocytomas in both males and females, and a statistically significant increase in the incidence of hepatocellular adenomas in female rats.
 The tumorigenicity observed in rats was observed only at a large multiple of the maximum labeled clinical dose, and may not be relevant to clinical use.
 
 No evidence that pilocarpine has the potential to cause genetic toxicity was obtained in a series of studies that included: 1) bacterial assays (Salmonella and E. coli) for reverse gene mutations; 2) an in vitro chromosome aberration assay in a Chinese hamster ovary cell line; 3) an in vivo chromosome aberration assay (micronucleus test) in mice; and 4) a primary DNA damage assay (unscheduled DNA synthesis) in rat hepatocyte primary cultures.
@@ -82,13 +82,11 @@ Pilocarpine hydrochloride tablets should be administered to individuals who are 
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Pregnancy:Teratogenic Effects
 
-Pregnancy Category C: Pilocarpine was associated with a reduction in the mean fetal body weight and an increase in the incidence of skeletal variations when given to pregnant rats at a dosage of 90 mg/kg/day (approximately 26 times the maximum recommended dose for a 50 kg human when compared on the basis of body surface area (mg/m2) estimates).
+Pilocarpine was associated with a reduction in the mean fetal body weight and an increase in the incidence of skeletal variations when given to pregnant rats at a dosage of 90 mg/kg/day (approximately 26 times the maximum recommended dose for a 50 kg human when compared on the basis of body surface area (mg/m2) estimates).
 These effects may have been secondary to maternal toxicity.
-In another study, oral administration of pilocarpine to female rats during gestation and lactation at a dosage of 36 mg/kg/day (approximately 10 times the maximum recommended dose for a 50 kg human when compared on the basis of body surface area (mg/m2) estimates) resulted in an increased incidence of stillbirths; decreased neonatal survival and reduced mean body
-
-weight of pups were observed at dosages of 18 mg/kg/day (approximately 5 times the maximum recommended dose for a 50 kg human when compared on the basis of body surface area (mg/m2) estimates) and above.
+In another study, oral administration of pilocarpine to female rats during gestation and lactation at a dosage of 36 mg/kg/day (approximately 10 times the maximum recommended dose for a 50 kg human when compared on the basis of body surface area (mg/m2) estimates) resulted in an increased incidence of stillbirths; decreased neonatal survival and reduced mean body weight of pups were observed at dosages of 18 mg/kg/day (approximately 5 times the maximum recommended dose for a 50 kg human when compared on the basis of body surface area (mg/m2) estimates) and above.
 There are no adequate and well-controlled studies in pregnant women.
 Pilocarpine hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -103,7 +101,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Head & Neck Cancer Patients: In the placebo-controlled clinical trials (see Clinical Studies section) the mean age of patients was approximately 58 years (range 19 to 80).
+Head and Neck Cancer Patients: In the placebo-controlled clinical trials (see Clinical Studies section) the mean age of patients was approximately 58 years (range 19 to 80).
 Of these patients, 97/369 (61/217 receiving pilocarpine) were over the age of 65 years.
 In the healthy volunteer studies, 15/150 subjects were over the age of 65 years.
 In both study populations, the adverse events reported by those over 65 years and those 65 years and younger were comparable.

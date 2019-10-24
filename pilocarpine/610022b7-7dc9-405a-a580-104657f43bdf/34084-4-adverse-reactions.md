@@ -70,7 +70,7 @@ Mean age was 55 years.
 The majority of patients were between 40 and 69 years (70%), 16% were 70 years and older and 14% were younger than 40 years of age.
 Of these patients, 161/629 (89/376 receiving pilocarpine) were over the age of 65 years.
 The adverse events reported by those over 65 years and those 65 years and younger were comparable except for notable trends for urinary frequency, diarrhea, and dizziness.
-The incidences of urinary frequency and diarrhea in the elderly were about double those in the non-elderly.
+The incidences of urinary frequency and diarrhea in the elderly were about double those of the non-elderly.
 The incidence of dizziness was about three times as high in the elderly as in the non-elderly.
 These adverse experiences were not considered to be serious.
 In the 2 placebo-controlled studies, the most common adverse events related to drug use were sweating, urinary frequency, chills, and vasodilatation (flushing).
@@ -139,12 +139,12 @@ Urogenital: breast pain, dysuria, mastitis, menorrhagia, metrorrhagia, ovarian d
 
 The following adverse experiences have been reported rarely with ocular pilocarpine: A-V block, agitation, ciliary congestion, confusion, delusion, depression, dermatitis, middle ear disturbance, eyelid twitching, malignant glaucoma, iris cysts, macular hole, shock, and visual hallucination.
 
-MANAGEMENT OF OVERDOSE
+To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceuticals at 1-877-370-1142 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+
+MANAGMENT OF OVERDOSE
 
 Fatal overdosage with pilocarpine has been reported in the scientific literature at doses presumed to be greater than 100 mg in two hospitalized patients.
 100 mg of pilocarpine is considered potentially fatal.
 Overdosage should be treated with atropine titration (0.5 mg to 1.0 mg given subcutaneously or intravenously) and supportive measures to maintain respiration and circulation.
-Epinephrine
-
-(0.3 mg to 1.0 mg, subcutaneously or intramuscularly) may also be of value in the presence of severe cardiovascular depression or bronchoconstriction.
+Epinephrine (0.3 mg to 1.0 mg, subcutaneously or intramuscularly) may also be of value in the presence of severe cardiovascular depression or bronchoconstriction.
 It is not known if pilocarpine is dialyzable.

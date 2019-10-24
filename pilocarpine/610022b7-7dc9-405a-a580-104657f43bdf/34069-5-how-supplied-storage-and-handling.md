@@ -16,20 +16,10 @@ NDC 0228-2837-11 bottles of 100 with a child-resistant closure.
 
 Store up to 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
 
-Manufactured for:
+Manufactured for: Activis Pharma, Inc. Parsippany, NJ 07054
 
-Activis Elizabeth LLC
+by: Patheon Inc. Ontario,Canada L5N 7K9
 
-200 Elmora Avenue,
+LF-118617-01 Revised-September 2019
 
-Elizabeth, NJ 07207 USA
-
-by: Patheon Inc.
-
-Toronto, Ontario, L5N 7K9
-
-40-9055
-
-Rev – Jan 2009
-
-201371
+2000011736
