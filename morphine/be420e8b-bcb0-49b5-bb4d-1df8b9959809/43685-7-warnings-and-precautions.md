@@ -33,6 +33,10 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Injection are essential [see Dosage and Administration (2.3)].
 Overestimating the Morphine Sulfate Injection dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.3)].
+
 ## 5.3 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of Morphine Sulfate Injection during pregnancy can result in withdrawal in the neonate.
