@@ -20,12 +20,10 @@ a subsidiary of: Allergan, Inc.
 
 Irvine, CA 92612
 
-2017 Allergan.
+© 2017 Allergan.
 All rights reserved.
 
 All trademarks are the property of their respective owners.
 
 Patented.
 See: www.allergan.com/patents
-
-72715US10
