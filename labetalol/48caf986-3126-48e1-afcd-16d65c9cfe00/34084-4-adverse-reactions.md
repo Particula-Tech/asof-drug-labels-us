@@ -40,6 +40,6 @@ Certain of the side effects increased with increasing oral dose, as shown in the
 
 In addition, a number of other less common adverse events have been reported: Cardiovascular: Hypotension, and rarely, syncope, bradycardia, heart block.
 Liver and Biliary System: Hepatic necrosis, hepatitis, cholestatic jaundice, elevated liver function tests.
-Hypersensitivity: Rare reports of hypersensitivity ( e.g., rash, urticaria, pruritus, angioedema, dyspnea) and anaphylactoid reactions.
+Hypersensitivity: Rare reports of hypersensitivity (e.g., rash, urticaria, pruritus, angioedema, dyspnea) and anaphylactoid reactions.
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with labetalol HCl during investigational use and extensive foreign marketing experience.
 Clinical Laboratory Tests: Among patients dosed with labetalol hydrochloride Tablets, there have been reversible increases of serum transaminases in 4% of patients tested and, more rarely, reversible increases in blood urea.

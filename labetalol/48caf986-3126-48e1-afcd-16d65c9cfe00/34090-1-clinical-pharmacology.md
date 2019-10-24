@@ -1,12 +1,12 @@
 # CLINICAL PHARMACOLOGY
 
-Labetalol HCl combines both selective, competitive, alpha 1 -adrenergic blocking and nonselective, competitive, beta-adrenergic blocking activity in a single substance.
+Labetalol HCl combines both selective, competitive, alpha1-adrenergic blocking and nonselective, competitive, beta-adrenergic blocking activity in a single substance.
 In man, the ratios of alpha- to beta-blockade have been estimated to be approximately 1:3 and 1:7 following oral and intravenous administration, respectively.
-Beta 2 -agonist activity has been demonstrated in animals with minimal beta 1 -agonist (ISA) activity detected.
+Beta2-agonist activity has been demonstrated in animals with minimal beta1-agonist (ISA) activity detected.
 In animals, at doses greater than those required for alpha-or beta-adrenergic blockade, a membrane stabilizing effect has been demonstrated.
 Pharmacodynamics: The capacity of labetalol HCl to block alpha receptors in man has been demonstrated by attenuation of the pressor effect of phenylephrine and by a significant reduction of the pressor response caused by immersing the hand in ice-cold water (“cold-pressor test”).
-Labetalol HCl’s beta 1 -receptor blockade in man was demonstrated by a small decrease in the resting heart rate, attenuation of tachycardia produced by isoproterenol or exercise, and by attenuation of the reflex tachycardia to the hypotension produced by amyl nitrite.
-Beta 2 -receptor blockade was demonstrated by inhibition of the isoproterenol-induced fall in diastolic blood pressure.
+Labetalol HCl’s beta1-receptor blockade in man was demonstrated by a small decrease in the resting heart rate, attenuation of tachycardia produced by isoproterenol or exercise, and by attenuation of the reflex tachycardia to the hypotension produced by amyl nitrite.
+Beta2-receptor blockade was demonstrated by inhibition of the isoproterenol-induced fall in diastolic blood pressure.
 Both the alpha- and beta-blocking actions of orally administered labetalol HCl contribute to a decrease in blood pressure in hypertensive patients.
 Labetalol HCl consistently, in dose-related fashion, blunted increases in exercise-induced blood pressure and heart rate, and in their double product.
 The pulmonary circulation during exercise was not affected by labetalol HCl dosing.

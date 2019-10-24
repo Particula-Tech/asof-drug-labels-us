@@ -3,13 +3,13 @@
 Overdosage with labetalol HCl causes excessive hypotension that is posture sensitive and, sometimes, excessive bradycardia.
 Patients should be placed supine and their legs raised if necessary to improve the blood supply to the brain.
 If overdosage with labetalol HCl follows oral ingestion, gastric lavage or pharmacologically induced emesis (using syrup of ipecac) may be useful for removal of the drug shortly after ingestion.
-The following additional measures should be employed if necessary: Excessive bradycardia -administer atropine or epinephrine.
-Cardiac failure -administer a digitalis glycoside and a diuretic.
+The following additional measures should be employed if necessary: Excessive bradycardia-administer atropine or epinephrine.
+Cardiac failure-administer a digitalis glycoside and a diuretic.
 Dopamine or dobutamine may also be useful.
-Hypotension -administer vasopressors, e.g., norepinephrine.
+Hypotension-administer vasopressors, e.g., norepinephrine.
 There is pharmacologic evidence that norepinephrine may be the drug of choice.
-Bronchospasm -administer epinephrine and/or an aerosolized beta 2 -agonist.
-Seizures -administer diazepam.
+Bronchospasm-administer epinephrine and/or an aerosolized beta2-agonist.
+Seizures-administer diazepam.
 In severe beta-blocker overdose resulting in hypotension and/or bradycardia, glucagon has been shown to be effective when administered in large doses (5 to 10 mg rapidly over 30 seconds, followed by continuous infusion of 5 mg/h that can be reduced as the patient improves).
 
 Neither hemodialysis nor peritoneal dialysis removes a significant amount of labetalol from the general circulation (<1%).

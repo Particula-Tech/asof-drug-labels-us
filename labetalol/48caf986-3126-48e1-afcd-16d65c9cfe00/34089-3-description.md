@@ -1,7 +1,9 @@
 # DESCRIPTION
 
-Labetalol hydrochloride injection is an adrenergic receptor blocking agent that has both selective alpha 1 adrenergic and nonselective beta-adrenergic receptor blocking actions in a single substance.
-Labetalol hydrochloride (HCl) is a racemate chemically designated as 2-hydroxy-5-[1-hydroxy-2-[(1-methyl-3-phenylpropyl)amino]ethyl]benzamide monohydrochloride, and it has the following structure: Labetalol HCl has the empirical formula C 19 H 24 N 2 O 3 •HCl and a molecular weight of 364.9.
+Labetalol hydrochloride injection is an adrenergic receptor blocking agent that has both selective alpha1adrenergic and nonselective beta-adrenergic receptor blocking actions in a single substance.
+Labetalol hydrochloride (HCl) is a racemate chemically designated as 2-hydroxy-5-[1-hydroxy-2-[(1-methyl-3-phenylpropyl)amino]ethyl]benzamide monohydrochloride, and it has the following structure:
+
+Labetalol HCl has the empirical formula C19H24N2O3•HCl and a molecular weight of 364.9.
 It has two asymmetric centers and therefore exists as a molecular complex of two diastereoisomeric pairs.
 Dilevalol, the R,R' stereoisomer, makes up 25% of racemic labetalol.
 

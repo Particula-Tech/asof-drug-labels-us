@@ -37,7 +37,7 @@ Beta-blockade also reduces the release of insulin in response to hyperglycemia; 
 Major Surgery: Do not routinely withdraw chronic beta blocker therapy prior to surgery.
 The effect of labetalol’s alpha adrenergic activity has not been evaluated in this setting.
 Several deaths have occurred when labetalol hydrochloride injection was used during surgery (including when used in cases to control bleeding).
-A synergism between labetalol HCl and halothane anesthesia has been shown (see PRECAUTIONS: Drug Interactions ).
+A synergism between labetalol HCl and halothane anesthesia has been shown (see PRECAUTIONS: Drug Interactions).
 
 Rapid Decreases of Blood Pressure: Caution must be observed when reducing severely elevated blood pressure.
 A number of adverse reactions, including cerebral infarction, optic nerve infarction, angina, and ischemic changes in the electrocardiogram, have been reported with other agents when severely elevated blood pressure was reduced over time courses of several hours to as long as 1 or 2 days.
@@ -60,7 +60,7 @@ One of these patients developed hypotension following labetalol treatment.
 Therefore, use of labetalol HCl should be avoided in such patients.
 
 High Dose Labetalol: Administration of up to 3 g/d as an infusion for up to 2 to 3 days has been anecdotally reported; several patients have experienced hypotension or bradycardia.
-Jaundice or Hepatic Dysfunction: (see WARNINGS ).
+Jaundice or Hepatic Dysfunction: (see WARNINGS).
 
 ## Information for Patients
 
@@ -69,11 +69,11 @@ It is not a disclosure of all possible adverse or intended effects.
 During and immediately following (for up to 3 hours) labetalol hydrochloride injection, the patient should remain supine.
 Subsequently, the patient should be advised on how to proceed gradually to become ambulatory and should be observed at the time of first ambulation.
 
-When the patient is started on labetalol hydrochloride Tablets following adequate control of blood pressure with Labetalol hydrochloride injection, appropriate directions for titration of dosage should be provided (see DOSAGE AND ADMINISTRATION ).
+When the patient is started on labetalol hydrochloride Tablets following adequate control of blood pressure with Labetalol hydrochloride injection, appropriate directions for titration of dosage should be provided (see DOSAGE AND ADMINISTRATION).
 As with all drugs with beta-blocking activity, certain advice to patients being treated with labetalol HCl is warranted.
 While no incident of the abrupt withdrawal phenomenon (exacerbation of angina pectoris) has been reported with labetalol HCl, dosing with labetalol hydrochloride Tablets should not be interrupted or discontinued without a physician’s advice.
-Patients being treated with labetalol hydrochloride Tablets should consult a physician at any signs or symptoms of impending cardiac failure or hepatic dysfunction (see WARNINGS ).
-Also, transient scalp tingling may occur, usually when treatment with labetalol hydrochloride Tablets is initiated (see ADVERSE REACTIONS ).
+Patients being treated with labetalol hydrochloride Tablets should consult a physician at any signs or symptoms of impending cardiac failure or hepatic dysfunction (see WARNINGS).
+Also, transient scalp tingling may occur, usually when treatment with labetalol hydrochloride Tablets is initiated (see ADVERSE REACTIONS).
 
 ## Laboratory Tests
 
@@ -106,8 +106,8 @@ Such patients may be unresponsive to the usual doses of epinephrine used to trea
 ## Drug & OR Laboratory Test Interactions
 
 The presence of labetalol metabolites in the urine may result in falsely elevated levels of urinary catecholamines, metanephrine, normetanephrine, and vanillylmandelic acid when measured by fluorimetric or photometric methods.
-In screening patients suspected of having a pheochromocytoma and being treated with labetalol HCl, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction ( e.g., J Chromatogr 385:241,1987) should be employed in determining levels of catecholamines.
-Labetalol HCl has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods Toxi-Lab ® A (thin-layer chromatographic assay) and Emit-d.a.u. ® (radioenzymatic assay).
+In screening patients suspected of having a pheochromocytoma and being treated with labetalol HCl, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction (e.g., J Chromatogr 385:241,1987) should be employed in determining levels of catecholamines.
+Labetalol HCl has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods Toxi-Lab® A (thin-layer chromatographic assay) and Emit-d.a.u.® (radioenzymatic assay).
 When patients being treated with labetalol have a positive urine test for amphetamine using these techniques, confirmation should be made by using more specific methods, such as a gas chromatographic-mass spectrometer technique.
 
 ## Carcinogenesis & Mutagenesis & Impairment Of Fertility
