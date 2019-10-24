@@ -60,14 +60,14 @@ Since this effect was not observed in other mouse strains or in other species, t
 
 ## Nursing Mothers
 
-Clindamycin has been detected in human breast milk in ranges from <0.5 to 3.8 µg/mL following systemic use.
+Limited published data based on breast milk sampling reports that clindamycin appears in human breast milk in the range of less than 0.5 to 3.8 mcg/mL at dosages of 150 mg orally to 600 mg intravenously.
 It is not known if clindamycin is excreted in human breast milk following the use of vaginally administered clindamycin phosphate.
 
-Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
+Clindamycin has the potential to cause adverse effects on the breast-fed infant's gastrointestinal flora.
 If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
-Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+Monitor the breast-fed infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breastfed child from clindamycin or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breast-fed child from clindamycin or from the underlying maternal condition.
 
 ## Pediatric Use
 

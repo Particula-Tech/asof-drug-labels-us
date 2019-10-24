@@ -33,6 +33,6 @@ Rx only
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0047-10.0
+LAB-0047-11.0
 
-12/2018
+Revised 10/2019
