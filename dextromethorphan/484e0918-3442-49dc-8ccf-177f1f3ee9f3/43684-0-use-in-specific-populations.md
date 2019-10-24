@@ -2,34 +2,42 @@
 
 ## 8.1Pregnancy
 
-Pregnancy Category C:
+Risk Summary
 
-There are no adequate and well-controlled studies of NUEDEXTA in pregnant women.
-In oral studies conducted in rats and rabbits, a combination of dextromethorphan/quinidine demonstrated developmental toxicity, including teratogenicity (rabbits) and embryolethality, when given to pregnant animals.
-NUEDEXTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no adequate data on the developmental risk associated with the use of NUEDEXTA in pregnant women.
+In oral studies conducted in rats and rabbits, a combination of dextromethorphan/quinidine demonstrated developmental toxicity, including teratogenicity (rabbits) and embryolethality, when given to pregnant animals (see Data).
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+Data
 
 Animal Data
 
 When dextromethorphan/quinidine was administered orally (0/0, 5/100, 15/100, and 50/100 mg/kg/day) to pregnant rats during the period of organogenesis, embryo-fetal deaths were observed at the highest dose tested and reduced skeletal ossification was observed at all doses.
 The lowest dose tested (5/100 mg/kg/day) is approximately 1/50 times the recommended human dose (RHD) of 40/20 mg/day on a mg/m2 basis.
-Oral administration (0/0, 5/60, 15/60, and 30/60 mg/kg/day) to pregnant rabbits during organogenesis resulted in an increased incidence of fetal malformations at all but the lowest dose tested.
-The no-effect dose (5/60 mg/kg/day) is approximately 2/60 times the RHD on a mg/m2 basis.
+Oral administration to pregnant rabbits during organogenesis in two separate studies (0/0, 5/60, 15/60, and 30/60 mg/kg/day; 0/0, 5/100, 15/100, and 50/100 mg/kg/day) resulted in an increased incidence of fetal malformations at all but the lowest dose tested.
+The no-effect dose (5/100 mg/kg/day) is approximately 2/100 times the RHD on a mg/m2 basis.
 
-When dextromethorphan/quinidine was orally administered (0/0, 5/100, 15/100, and 30/100 mg/kg/day) to female rats during pregnancy and lactation, pup survival and pup weight were decreased at all doses and developmental delay was seen in offspring at the mid- and high-doses.
+When dextromethorphan/quinidine was orally administered to female rats during pregnancy and lactation in two separate studies (0/0, 5/100, 15/100, and 30/100 mg/kg/day; 0/0, 5/100, 15/100, and 50/100 mg/kg/day), pup survival and pup weight were decreased at all doses, and developmental delay was observed in offspring at the mid and high doses.
+A no-effect dose for adverse developmental effects was not identified.
 The lowest dose tested (5/100 mg/kg/day) is approximately 1/50 times the RHD on a mg/m2 basis.
 
-## 8.2Labor and Delivery
+When dextromethorphan/quinidine was orally administered (0/0, 5/50, 15/50, 25/50 mg/kg) to male and female rats on postnatal day (PND) 7, the highest dose resulted in neuronal death in brain (thalamus and medulla oblongata).
+PND 7 in rat corresponds to the third trimester of the gestation through the first several months of life but may extend to approximately three years of age in humans.
 
-The effects of NUEDEXTA on labor and delivery are unknown.
+## 8.2Lactation
 
-## 8.3Nursing Mothers
+Risk Summary
 
-It is not known whether dextromethorphan and/or quinidine are excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when NUEDEXTA is administered to a nursing mother.
+Quinidine is excreted in human milk.
+It is not known whether dextromethorphan is excreted in human milk.
+There are no data on the effects of quinidine or dextromethorphan on the breastfed infant or the effects on milk production.
+The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for NUEDEXTA and any potential adverse effects on the breastfed infant from NUEDEXTA or from the underlying material condition.
 
 ## 8.4Pediatric Use
 
-The safety and effectiveness of NUEDEXTA in pediatric patients below the age of 18 have not been established.
+The safety and effectiveness in pediatric patients below the age of 18 have not been established.
 
 ## 8.5Geriatric Use
 

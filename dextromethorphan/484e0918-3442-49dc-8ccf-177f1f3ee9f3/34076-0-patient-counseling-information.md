@@ -34,9 +34,15 @@ Advise patients to contact their healthcare provider if their PBA symptoms persi
 
 Advise patients to keep this and all medications out of reach of children and pets.
 
-Marketed by: Avanir Pharmaceuticals, Inc. Aliso Viejo, CA 92656 1-949-389-6700 Revised January 2019
+Marketed by:
 
-Part No. XXXXXXXXXX
+Avanir Pharmaceuticals, Inc.
+
+Aliso Viejo, CA 92656
+
+1-855-4NUEDEX (468-3339)
+
+Part No. MS-04305B
 
 AVANIR and NUEDEXTA are trademarks or registered trademarks of
 
