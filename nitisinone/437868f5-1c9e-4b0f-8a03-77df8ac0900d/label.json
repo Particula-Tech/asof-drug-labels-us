@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211041"
+  ],
+  "inn": "nitisinone",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "0254-3020-02",
+    "0254-3021-20",
+    "0254-3022-02"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitisinone",
+      "name": "Nitisinone"
+    }
+  ],
+  "setid": "437868f5-1c9e-4b0f-8a03-77df8ac0900d",
+  "source": "dailymed"
+}
