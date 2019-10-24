@@ -33,7 +33,7 @@ The available data from published case reports over two decades of postmarketing
 Animal data
 
 Embryo-fetal developmental toxicology studies were performed in pregnant rats and rabbits with doses up to 500 and 300 mg/kg/day, respectively, administered during organogenesis.
-These doses, corresponding to 65 and 78 times the recommended daily human dose, respectively, on a mg/m 2 basis, revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
+These doses, corresponding to 65 and 78 times the recommended daily human dose, respectively, on a mg/m2 basis, revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
 
 ## 8.2 Lactation
 
@@ -58,13 +58,13 @@ It cannot be ruled out that a trial with a different design would demonstrate a 
 Of the total number of subjects in the CAPRIE and CURE controlled clinical studies, approximately 50% of patients treated with clopidogrel bisulfate were 65 years of age and older, and 15% were 75 years and older.
 In COMMIT, approximately 58% of the patients treated with clopidogrel bisulfate were 60 years and older, 26% of whom were 70 years and older.
 
-The observed risk of bleeding events with clopidogrel bisulfate plus aspirin versus placebo plus aspirin by age category is provided in Table 1 and Table 2 for the CURE and COMMIT trials, respectively [seeAdverseReactions(6.1)].
+The observed risk of bleeding events with clopidogrel bisulfate plus aspirin versus placebo plus aspirin by age category is provided in Table 1 and Table 2 for the CURE and COMMIT trials, respectively [see Adverse Reactions (6.1)].
 No dosage adjustment is necessary in elderly patients.
 
 ## 8.6 Renal Impairment
 
-Experience is limited in patients with severe and moderate renal impairment [seeClinicalPharmacology(12.2)].
+Experience is limited in patients with severe and moderate renal impairment [see Clinical Pharmacology (12.2)].
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment is necessary in patients with hepatic impairment [seeClinicalPharmacology(12.2)].
+No dosage adjustment is necessary in patients with hepatic impairment [see Clinical Pharmacology (12.2)].

@@ -14,7 +14,7 @@ Dexlansoprazole, lansoprazole, and pantoprazole had less effect on the antiplate
 
 ## 7.2 Opioids
 
-As with other oral P2Y 12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3)].
+As with other oral P2Y12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3)].
 Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring coadministration of morphine or other opioid agonists.
 
 ## 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
@@ -25,7 +25,7 @@ Coadministration of clopidogrel bisulfate and NSAIDs increases the risk of gastr
 
 Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of clopidogrel bisulfate with warfarin increases the risk of bleeding because of independent effects on hemostasis.
 
-However, at high concentrations invitro, clopidogrel inhibits CYP2C9.
+However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
 
 ## 7.5 SSRIs and SNRIs
 

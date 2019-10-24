@@ -6,4 +6,4 @@ Clopidogrel tablets are contraindicated in patients with active pathological ble
 
 ## 4.2 Hypersensitivity
 
-Clopidogrel tablets are contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to clopidogrel or any component of the product [seeAdverseReactions(6.2)].
+Clopidogrel tablets are contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to clopidogrel or any component of the product [see Adverse Reactions (6.2)].
