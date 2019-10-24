@@ -8,6 +8,13 @@ In in vivo and in vitro studies, rosuvastatin produces its lipid-modifying effec
 First, it increases the number of hepatic LDL receptors on the cell-surface to enhance uptake and catabolism of LDL.
 Second, rosuvastatin inhibits hepatic synthesis of VLDL, which reduces the total number of VLDL and LDL particles.
 
+## 12.2 Pharmacodynamics
+
+Rosuvastatin dose dependently reduces elevated LDL-cholesterol and reduces total cholesterol and triglycerides and increases HDL-cholesterol [see Clinical Studies (14)].
+A therapeutic response to Rosuvastatin is evident within 1 week of commencing therapy and 90% of maximum response is usually achieved in 2 weeks.
+The maximum response is usually achieved by 4 weeks and is maintained after that.
+Individualization of drug dosage should be based on the therapeutic response [see Dosage and Administration (2)].
+
 ## 12.3 Pharmacokinetics
 
 Absorption
@@ -16,7 +23,7 @@ In clinical pharmacology studies in man, peak plasma concentrations of rosuvasta
 Both C max and AUC increased in approximate proportion to rosuvastatin dose.
 The absolute bioavailability of rosuvastatin is approximately 20%.
 
-Administration of rosuvastatin calcium tablet with food did not affect the AUC of rosuvastatin.
+Administration of rosuvastatin tablet with food did not affect the AUC of rosuvastatin.
 
 The AUC of rosuvastatin does not differ following evening or morning drug administration.
 
@@ -25,6 +32,11 @@ Distribution
 Mean volume of distribution at steady-state of rosuvastatin is approximately 134 liters.
 Rosuvastatin is 88% bound to plasma proteins, mostly albumin.
 This binding is reversible and independent of plasma concentrations.
+
+Elimination
+
+Rosuvastatin is primarily eliminated by excretion in the feces.
+The elimination half-life of rosuvastatin is approximately 19 hours.
 
 Metabolism
 
@@ -35,29 +47,27 @@ Overall, greater than 90% of active plasma HMG-CoA reductase inhibitory activity
 Excretion
 
 Following oral administration, rosuvastatin and its metabolites are primarily excreted in the feces (90%).
-The elimination half-life (t 1/2) of rosuvastatin is approximately 19 hours.
-
 After an intravenous dose, approximately 28% of total body clearance was via the renal route, and 72% by the hepatic route.
 
 Specific Populations
 
-Race
+Racial or Ethnic Groups
 
 A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among Caucasian, Hispanic, and Black or Afro-Caribbean groups.
 However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2-fold elevation in median exposure (AUC and C max) in Asian subjects when compared with a Caucasian control group.
 
-Gender
+Male and Female Patients
 
 There were no differences in plasma concentrations of rosuvastatin between men and women.
 
 Pediatric use information for patients ages 8 to less than 10 years is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-Geriatric
+Geriatric Patients
 
 There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥ 65 years).
 
-Renal Impairment
+Patients with Renal Impairment
 
 Mild to moderate renal impairment (CL cr ≥ 30 mL/min/1.73 m 2) had no influence on plasma concentrations of rosuvastatin.
 However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3-fold) in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m 2) not receiving hemodialysis compared with healthy subjects (CL cr > 80 mL/min/1.73 m 2).
@@ -66,21 +76,19 @@ Hemodialysis
 
 Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function.
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 In patients with chronic alcohol liver disease, plasma concentrations of rosuvastatin were modestly increased.
 
 In patients with Child-Pugh A disease, C max and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function.
 In patients with Child-Pugh B disease, C max and AUC were increased 100% and 21%, respectively, compared with patients with normal liver function.
 
-Drug-Drug Interactions
+Drug Interactions Studies
 
 Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent.
 
 Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP).
-Concomitant administration of rosuvastatin with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations and an increased risk of myopathy [see Dosage and Administration (2.4)].
-
-It is recommended that prescribers consult the relevant product information when considering administration of such products together with rosuvastatin.
+Concomitant administration of rosuvastatin with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations [see Dosage and Administration (2.4) and Drug Interactions (7.1, 7.3)].
 
 Table 4.
 Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure

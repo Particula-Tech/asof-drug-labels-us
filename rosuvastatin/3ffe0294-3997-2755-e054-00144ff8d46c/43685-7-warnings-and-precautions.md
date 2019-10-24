@@ -5,10 +5,10 @@
 Cases of myopathy and rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with HMG-CoA reductase inhibitors, including rosuvastatin.
 These risks can occur at any dose level, but are increased at the highest dose (40 mg).
 
-Rosuvastatin calcium tablets should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
+Rosuvastatin tablets should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
 
 The risk of myopathy during treatment with rosuvastatin may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, atazanavir/ritonavir, lopinavir/ritonavir, or simeprevir [see Dosage and Administration (2) and Drug Interactions (7)].
-Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing rosuvastatin calcium tablets with colchicine [see Drug Interactions (7.7)].
+Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing rosuvastatin tablets with colchicine [see Drug Interactions (7.7)].
 
 Rosuvastatin therapy should be discontinued if markedly elevated creatine kinase levels occur or myopathy is diagnosed or suspected.
 Rosuvastatin therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
@@ -16,11 +16,11 @@ Rosuvastatin therapy should also be temporarily withheld in any patient with an 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
 
-All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing rosuvastatin calcium tablets.
+All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing rosuvastatin tablets.
 
 ## 5.2 Liver Enzyme Abnormalities
 
-It is recommended that liver enzyme tests be performed before the initiation of rosuvastatin calcium tablets, and if signs or symptoms of liver injury occur.
+It is recommended that liver enzyme tests be performed before the initiation of rosuvastatin tablets, and if signs or symptoms of liver injury occur.
 
 Increases in serum transaminases [AST (SGOT) or ALT (SGPT)] have been reported with HMG‑CoA reductase inhibitors, including rosuvastatin.
 In most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
@@ -31,9 +31,9 @@ In a pooled analysis of placebo-controlled trials, increases in serum transamina
 
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including rosuvastatin.
 If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with rosuvastatin, promptly interrupt therapy.
-If an alternate etiology is not found, do not restart rosuvastatin calcium tablets.
+If an alternate etiology is not found, do not restart rosuvastatin tablets.
 
-Rosuvastatin calcium tablets should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of chronic liver disease [see Clinical Pharmacology (12.3)].
+Rosuvastatin tablets should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of chronic liver disease [see Clinical Pharmacology (12.3)].
 Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of rosuvastatin [see Contraindications (4)].
 
 ## 5.3 Concomitant Coumarin Anticoagulants
@@ -44,7 +44,7 @@ In patients taking coumarin anticoagulants and rosuvastatin concomitantly, INR s
 ## 5.4 Proteinuria and Hematuria
 
 In the rosuvastatin clinical trial program, dipstick-positive proteinuria and microscopic hematuria were observed among rosuvastatin treated patients.
-These findings were more frequent in patients taking rosuvastatin calcium tablets 40 mg, when compared to lower doses of rosuvastatin calcium tablets or comparator HMG‑CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
+These findings were more frequent in patients taking rosuvastatin tablets 40 mg, when compared to lower doses of rosuvastatin tablets or comparator HMG‑CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
 Although the clinical significance of this finding is unknown, a dose reduction should be considered for patients on rosuvastatin therapy with unexplained persistent proteinuria and/or hematuria during routine urinalysis testing.
 
 ## 5.5 Endocrine Effects

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Rosuvastatin calcium tablets are supplied as:
+Rosuvastatin tablets, USP are supplied as:
 
 - NDC 16729-284: 5 mg.
   Yellow, round, biconvex, film-coated tablet, debossed “5” on one side and “FI” on other side;

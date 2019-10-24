@@ -4,7 +4,7 @@ NDC 16729-284-10
 
 30 tablets
 
-Rosuvastatin Calcium
+Rosuvastatin
 
 5 mg tablets
 
@@ -16,7 +16,7 @@ NDC 16729-285-10
 
 30 tablets
 
-Rosuvastatin Calcium
+Rosuvastatin
 
 10 mg tablets
 
@@ -28,7 +28,7 @@ NDC 16729-286-10
 
 30 tablets
 
-Rosuvastatin Calcium
+Rosuvastatin
 
 20 mg tablets
 
@@ -40,7 +40,7 @@ NDC 16729-287-10
 
 30 tablets
 
-Rosuvastatin Calcium
+Rosuvastatin
 
 10 mg tablets
 
