@@ -224,13 +224,13 @@ Folate Inhibitors
 Lamotrigine is a weak inhibitor of dihydrofolate reductase.
 Prescribers should be aware of this action when prescribing other medications that inhibit folate metabolism.
 
-Lacosamide
-
-Plasma concentrations of lamotrigine were not affected by concomitant lacosamide (200, 400, or 600 mg/day) in placebo-controlled clinical trials in patients with partial-onset seizures.
-
 Gabapentin
 
 Based on a retrospective analysis of plasma levels in 34 subjects who received lamotrigine both with and without gabapentin, gabapentin does not appear to change the apparent clearance of lamotrigine.
+
+Lacosamide
+
+Plasma concentrations of lamotrigine were not affected by concomitant lacosamide (200, 400, or 600 mg/day) in placebo-controlled clinical trials in patients with partial-onset seizures.
 
 Levetiracetam
 
@@ -342,7 +342,7 @@ Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in 
 Population pharmacokinetic analyses involving subjects aged 2 to 18 years demonstrated that lamotrigine clearance was influenced predominantly by total body weight and concurrent AED therapy.
 The oral clearance of lamotrigine was higher, on a body weight basis, in pediatric patients than in adults.
 Weight-normalized lamotrigine clearance was higher in those subjects weighing <30 kg compared with those weighing >30 kg.
-Accordingly, patients weighing <30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing more than 30 kg being administered the same AEDs [see Dosage and Administration (2.2)].
+Accordingly, patients weighing <30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing ˃ 30 kg being administered the same AEDs [see Dosage and Administration (2.2)].
 These analyses also revealed that, after accounting for body weight, lamotrigine clearance was not significantly influenced by age.
 Thus, the same weight-adjusted doses should be administered to children irrespective of differences in age.
 Concomitant AEDs which influence lamotrigine clearance in adults were found to have similar effects in children.

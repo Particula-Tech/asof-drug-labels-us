@@ -3,14 +3,13 @@
 The following serious adverse reactions are described in more detail in the Warnings and Precautions section of the labeling:
 
 - Serious Skin Rashes [see Warnings and Precautions (5.1)]
-- Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)]
-- Multiorgan Hypersensitivity Reactions and Organ Failure [see Warnings and Precautions (5.3)]
+- Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)] Multiorgan Hypersensitivity Reactions and Organ Failure [see Warnings and Precautions (5.3)]
 - Blood Dyscrasias [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Aseptic Meningitis [see Warnings and Precautions (5.6)]
-- Withdrawal Seizures [see Warnings and Precautions (5.9)]
+- Withdrawal Seizures[see Warnings and Precautions (5.9)]
 - Status Epilepticus [see Warnings and Precautions (5.10)]
-- Sudden Unexplained Death in Epilepsy[see Warnings and Precautions (5.11)]
+- Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -393,18 +392,34 @@ Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatin
 The following adverse reactions have been identified during postapproval use of lamotrigine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic: Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
+Blood and Lymphatic
 
-Gastrointestinal: Esophagitis.
+Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
 
-Hepatobiliary Tract and Pancreas: Pancreatitis.
+Gastrointestinal
 
-Immunologic: Lupus-like reaction, vasculitis.
+Esophagitis.
 
-Lower Respiratory: Apnea.
+Hepatobiliary Tract and Pancreas
 
-Musculoskeletal: Rhabdomyolysis has been observed in patients experiencing hypersensitivity reactions.
+Pancreatitis.
 
-Nervous System: Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson's disease, tics.
+Immunologic
 
-Non-site Specific: Progressive immunosuppression.
+Hypogammaglobulinemia, Lupus-like reaction, vasculitis.
+
+Lower Respiratory
+
+Apnea.
+
+Musculoskeletal
+
+Rhabdomyolysis has been observed in patients experiencing hypersensitivity reactions.
+
+Nervous System
+
+Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson's disease, tics.
+
+Non-site Specific
+
+Progressive immunosuppression.

@@ -4,7 +4,7 @@ Cadila Healthcare Ltd.
 
 India
 
-Rev.: 08/18
+Rev.: 09/19
 
 Medication Guide
 
@@ -140,7 +140,7 @@ What is lamotrigine?
 - It is not known if lamotrigine is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
 - It is not known if lamotrigine is safe or effective when used alone as the first treatment of seizures.
 - It is not known if lamotrigine is safe or effective for people with mood episodes who have not already been treated with other medicines.
-- Lamotrigine should not be used for acute treatment of manic or mixed mood episodes.
+- Lamotrigine should not be used for acute treatment of manic or mixed mood episodes
 
 Do not take lamotrigine:
 
@@ -150,7 +150,8 @@ Do not take lamotrigine:
 Before taking lamotrigine, tell your healthcare provider about all of your health conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
-- have or have had depression, mood problems, or suicidal thoughts or behavior. have had aseptic meningitis after taking lamotrigine.
+- have or have had depression, mood problems, or suicidal thoughts or behavior.
+- have had aseptic meningitis after taking lamotrigine.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
