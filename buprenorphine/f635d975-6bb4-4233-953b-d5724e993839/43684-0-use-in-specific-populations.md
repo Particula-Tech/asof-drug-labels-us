@@ -64,13 +64,13 @@ A total of 28 of the 86 women in the buprenorphine group (33%) and 16 of the 89 
 
 Among women who remained in treatment until delivery, there was no difference between buprenorphine-treated and methadone-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
 Buprenorphine-exposed neonates required less morphine (mean total dose, 1.1 mg vs 10.4 mg), had shorter hospital stays (10.0 days vs 17.5 days), and shorter duration of treatment for NOWS (4.1 days vs 9.9 days) compared to the methadone-exposed group.
-There were no differences between groups in other primary outcomes (neonatal head circumference,) or secondary outcomes (weight and length at birth, preterm birth, gestational age at delivery, and 1-minute and 5-minute Apgar scores), or in the rates of maternal or neonatal adverse events.
+There were no differences between groups in other primary outcomes (neonatal head circumference), or secondary outcomes (weight and length at birth, preterm birth, gestational age at delivery, and 1-minute and 5-minute Apgar scores), or in the rates of maternal or neonatal adverse events.
 The outcomes among mothers who discontinued treatment before delivery and may have relapsed to illicit opioid use are not known.
 Because of the imbalance in discontinuation rates between the buprenorphine and methadone groups, the study findings are difficult to interpret.
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to the human sublingual dose of 16 mg buprenorphine via SUBOXONE sublingual tablet.
+The exposure margins listed below are based on body surface area comparisons (mg/m 2) to the human sublingual dose of 16 mg buprenorphine via SUBOXONE sublingual tablet.
 
 Effects on embryo-fetal development were studied in Sprague-Dawley rats and Russian white rabbits following oral (1:1) and intramuscular (IM; 3:2) administration of mixtures of buprenorphine and naloxone during the period of organogenesis.
 Following oral administration to rats, no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 150 times the human sublingual dose of 16 mg) in the presence of maternal toxicity (mortality).
@@ -112,7 +112,7 @@ Data were consistent from two studies (N=13) of breastfeeding infants whose moth
 
 In a study of six lactating women who were taking a median sublingual buprenorphine dose of 0.29 mg/kg/day 5 to 8 days after delivery, breast milk provided a median infant dose of 0.42 mcg/kg/day of buprenorphine and 0.33 mcg/kg/day of norbuprenorphine, equal to 0.2% and 0.12% respectively, of the maternal weight-adjusted dose (relative dose/kg (%) of norbuprenorphine was calculated from the assumption that buprenorphine and norbuprenorphine are equipotent).
 
-Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (Cavg) of buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
+Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (C avg) of buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
 Based on the study data, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean absolute infant dose (AID) of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, or a mean relative infant dose (RID) of 0.38% and 0.18%, respectively, of the maternal weight-adjusted dose.
 
 ## 8.3. Females and Males of Reproductive Potential

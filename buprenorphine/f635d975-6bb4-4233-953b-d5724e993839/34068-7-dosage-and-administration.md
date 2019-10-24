@@ -29,7 +29,6 @@ All Healthcare Providers performing insertions and/or removals of PROBUPHINE mus
 
 Information concerning the insertion and removal procedures can be obtained by calling 1-844-859-6341.
 The basis for successful use and subsequent removal of PROBUPHINE is a correct and carefully-performed subdermal insertion of the four implants in accordance with the instructions.
-
 As a prerequisite for participating in the live training program leading to certification, the Healthcare Provider must have performed at least one qualifying surgical procedure in the last 3 months.
 Qualifying procedures are those performed under local anesthesia using aseptic technique, and include, at a minimum, making skin incisions, or placing sutures [see Warnings and Precautions (5.2)].
 
@@ -173,8 +172,7 @@ Step 13.
 Lift the edge of the incision opening with a toothed forceps.
 While applying counter- traction to the skin, insert only the tip of the applicator at a slight angle (no greater than 20 degrees), into the subdermal space (depth of 3-4 mm below the skin), with the bevel-up stop marking on the cannula facing upwards and visible with the obturator locked fully into the cannula (Figure 5).
 
-| Figure 5 | Figure 6 |
-| --- | --- |
+Figure 5 Figure 6
 
 Figure 7
 
@@ -190,8 +188,7 @@ Insert one implant into the cannula (Figure 8), re-insert the obturator, and gen
 Do not force the implant beyond the end of the cannula with the obturator.
 There should be at least 5 mm between the incision and the implant when the implant is properly positioned.
 
-| Figure 8 | Figure 9 |
-| --- | --- |
+Figure 8 Figure 9
 
 Step 17.
 While holding the obturator fixed in place on the arm, retract the cannula along the obturator, leaving the implant in place (Figure 10).
@@ -219,7 +216,7 @@ By palpating both ends of the implant, you should be able to confirm the presenc
 If you cannot feel each of the four implants, or are in doubt of their presence, use other methods to confirm the presence of the implant.
 Suitable methods to locate are: Ultrasound with a high frequency linear array transducer (10 MHz or greater) or Magnetic Resonance Imaging (MRI).
 Please note that the PROBUPHINE implants are not radiopaque and cannot be seen by X-ray or CT scan.
-If ultrasound and MRI fail, call 1-844-859- 6341.
+If ultrasound and MRI fail, call 1-844-859-6341.
 
 Figure 13
 
@@ -352,10 +349,7 @@ Use the technique of spreading and closing with either the iris scissors or mosq
 If the implant is encapsulated use the scalpel to shave the tissue sheath and carefully dissect the tissue around the implant.
 The implant can then be removed.
 
-| Figure 15 | Figure 16 |
-| --- | --- |
-
-Step 12.
+Figure 15 Figure 16 Step 12.
 Retract the next visible implant toward the incisional opening.
 You may see tenting of the skin at this point if the surrounding tissue is still adhering to the implant.
 Maintain gentle traction on the implant while you continue to dissect proximally and distally until the implant is free of all adhering tissue.
@@ -372,6 +366,7 @@ Therefore, it is important to measure the implant to ensure the entire implant h
 
 Step 14.
 After removal of all four implants, clean the incision site.
+
 Step 15.
 Close the incision with sutures.
 

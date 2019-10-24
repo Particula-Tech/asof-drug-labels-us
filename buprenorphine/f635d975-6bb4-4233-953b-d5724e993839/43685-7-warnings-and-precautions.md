@@ -48,7 +48,7 @@ Buprenorphine is sought by people with opioid use disorders and is subject to cr
 Consider these risks and the patient's stability in treatment for opioid dependence when determining whether PROBUPHINE is appropriate for the patient.
 Monitor all patients receiving PROBUPHINE for conditions indicative of diversion or progression of opioid dependence and addictive behaviors.
 
-## 5.4. Risk of Respiratory and Central Nervous System (CNS) Depression
+## 5.4. Risk of Life-Threatening Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine, has been associated with life-threatening respiratory depression and death.
 Many, but not all, post-marketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of buprenorphine and benzodiazepines or other CNS depressants, including alcohol.
@@ -56,6 +56,10 @@ Many, but not all, post-marketing reports regarding coma and death involved misu
 Warn patients of the potential danger of self-administration of benzodiazepines or other CNS depressants while under treatment with PROBUPHINE [see Warnings and Precautions (5.5), Drug Interactions (7), Patient Counseling Information (17)].
 
 Use PROBUPHINE with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, removal of PROBUPHINE may be required.
 
 ## 5.5. Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants with Buprenorphine
 
