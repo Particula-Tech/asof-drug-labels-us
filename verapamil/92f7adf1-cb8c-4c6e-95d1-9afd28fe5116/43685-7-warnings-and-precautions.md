@@ -213,6 +213,10 @@ Phenobarbital therapy may increase verapamil clearance.
 
 Verapamil therapy may increase serum levels of cyclosporine.
 
+##### Theophylline
+
+Verapamil may inhibit the clearance and increase the plasma levels of theophylline.
+
 ##### Inhalation Anesthetics
 
 Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions.
@@ -222,6 +226,13 @@ When used concomitantly, inhalation anesthetics and calcium antagonists, such as
 
 Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing).
 It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
+
+##### Mammalian target of rapamycin (mTOR) inhibitors
+
+In a study of 25 healthy volunteers with co-administration of verapamil with sirolimus, whole blood sirolimus Cmax and AUC were increased 130% and 120%, respectively.
+Plasma S (-) verapamil Cmax and AUC were both increased 50%.
+Co-administration of verapamil with everolimus in 16 healthy volunteers increased the Cmax and AUC of everolimus by 130% and 250%, respectively.
+With concomitant use of mTOR inhibitors (e.g., sirolimus, temsirolimus, and everolimus) and verapamil, consider appropriate dose reductions of both medications.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

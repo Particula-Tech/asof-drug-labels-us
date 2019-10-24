@@ -2,9 +2,11 @@ Rx only
 
 Rxonly
 
-Distributed by: Kremers Urban Pharmaceuticals Inc., a subsidiary of Lannett Company, Inc. Seymour, IN 47274, USA
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
 
-Verelan® is a registered trademark of Recro Technology LLC Manufactured by: Recro™ Gainesville LLC Gainesville, GA 30504, USA
+Verelan® is a registered trademark of Recro Gainesville LLC.
 
-6002422-04 Rev.
-11/2016 Printed in USA
+Manufactured by: Recro™ Gainesville LLC Gainesville, GA 30504, USA
+
+6002422-05 Rev.
+10/2019 Printed in USA
