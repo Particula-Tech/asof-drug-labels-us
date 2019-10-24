@@ -129,6 +129,7 @@ No clinically significant changes in exposure were observed for the following dr
 Mechanism of Action
 
 Doravirine: Doravirine is a pyridinone non-nucleoside reverse transcriptase inhibitor of HIV-1 and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT).
+The inhibitory concentration at 50% (IC50) of doravirine for RNA-dependent DNA polymerization of recombinant wild-type HIV-1 RT in a biochemical assay was 12.2±2.0 nM (n=3).
 Doravirine does not inhibit the human cellular DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
 Lamivudine: Lamivudine is a synthetic nucleoside analogue.
@@ -143,25 +144,27 @@ Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, a
 
 Antiviral Activity in Cell Culture
 
-Doravirine: Doravirine exhibited an EC50 value of 12.0±4.4 nM against wild-type laboratory strains of HIV-1 when tested in the presence of 100% normal human serum (NHS) using MT4-GFP reporter cells.
+Doravirine: Doravirine exhibited an EC50 value of 12.0±4.4 nM against wild-type laboratory strains of HIV-1 when tested in the presence of 100% normal human serum (NHS) using MT4-GFP reporter cells and a median EC50 value for HIV-1 subtype B primary isolates (n=118) of 4.1 nM (range: 1.0 nM-16.0 nM).
 Doravirine demonstrated antiviral activity against a broad panel of primary HIV-1 isolates (A, A1, AE, AG, B, BF, C, D, G, H) with EC50 values ranging from 1.2 nM to 10.0 nM.
 The antiviral activity of doravirine was not antagonistic when combined with lamivudine and TDF.
 
 Lamivudine: The antiviral activity of lamivudine against HIV-1 was assessed in a number of cell lines including monocytes and peripheral blood mononuclear cells (PBMCs) using standard susceptibility assays.
 EC50 values were in the range of 3 to 15,000 nM (1,000 nM = 230 ng per mL).
 The median EC50 values of lamivudine were 60 nM (range: 20 to 70 nM), 35 nM (range: 30 to 40 nM), 30 nM (range: 20 to 90 nM), 20 nM (range: 3 to 40 nM), 30 nM (range: 1 to 60 nM), 30 nM (range: 20 to 70 nM), 30 nM (range: 3 to 70 nM), and 30 nM (range: 20 to 90 nM) against HIV-1 clades A-G and group O viruses (n = 3 except n = 2 for clade B) respectively.
-Ribavirin (50 µM) used in the treatment of chronic HCV infection decreased the anti-HIV-1 activity of lamivudine by 3.5-fold in MT-4 cells.
+Ribavirin (50,000 nM) used in the treatment of chronic HCV infection decreased the anti-HIV-1 activity of lamivudine by 3.5-fold in MT-4 cells.
 
 TDF: The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in T lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
-The EC50 values for tenofovir were in the range of 0.04–8.5 µM.
-Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 0.5–2.2 µM).
+The EC50 values for tenofovir were in the range of 40-8,500 nM.
+Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 500-2,200 nM).
 
 Resistance
 
 In Cell Culture
 
 Doravirine: Doravirine-resistant strains were selected in cell culture starting from wild-type HIV-1 of different origins and subtypes, as well as NNRTI-resistant HIV-1.
-Observed emergent amino acid substitutions in RT included: V106A, V106M, V106I, V108I, H221Y, F227C, F227I, F227L, F227V, M230I, L234I, P236L, and Y318F.
+Observed emergent amino acid substitutions in RT included: V106A, V106I, V106M, V108I, H221Y, F227C, F227I, F227L, F227V, M230I, L234I, P236L, and Y318F.
+The V106A, V106M, V108I, H221Y, F227C, M230I, P236L, and Y318F substitutions conferred 3.4-fold to 70-fold reductions in susceptibility to doravirine.
+Y318F in combination with V106A, V106M, V108I, and F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
 
 Lamivudine: Lamivudine-resistant variants of HIV-1 have been selected in cell culture and in subjects treated with lamivudine.
 Genotypic analysis showed that substitutions M184I or V cause resistance to lamivudine.
@@ -173,17 +176,17 @@ In Clinical Trials
 
 Clinical Trial Results in Adults with No Antiretroviral Treatment History
 
-Doravirine: In the doravirine treatment arm of the DRIVE-AHEAD trial (n=364) at Week 48, 9 subjects showed the emergence of doravirine-associated resistance substitutions among 20 (45%) subjects in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having resistance data).
-Emergent doravirine resistance-associated substitutions in RT included one or more of the following: A98G, V106I, V106A, V106M/T, V108I, E138G/K, Y188L, H221Y, P225H, F227C, F227C/R, and Y318Y/F.
-Six of the 9 subjects with emergent doravirine-associated resistance substitutions showed doravirine phenotypic resistance and all of them had a greater than 100-fold reduction in doravirine susceptibility (range >103 to >211).
-The other 3 virologic failures who had only amino acid mixtures of NNRTI resistance substitutions showed doravirine phenotypic fold-changes of less than 2-fold.
+Doravirine: In the doravirine treatment arm of the DRIVE-AHEAD trial (n=364) through 96 weeks, 10 subjects showed the emergence of doravirine resistance-associated substitutions among 24 (42%) subjects in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having post-baseline resistance samples).
+Emergent doravirine resistance-associated substitutions in RT included one or more of the following: V90V/G, A98G, V106A, V106I, V106M/T, V108I, E138G, Y188L, H221Y, P225H, P225L, P225P/S, F227C, F227C/R, Y318Y/F, and Y318Y/S.
+Six of the 10 subjects with emergent doravirine resistance-associated substitutions showed doravirine phenotypic resistance and all of them had a greater than 100-fold reduction in doravirine susceptibility (range >103 to >211).
+The other 4 virologic failures who had only amino acid mixtures of NNRTI resistance substitutions showed doravirine phenotypic fold-changes of less than 2-fold.
 
-In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364), 12 subjects showed the emergence of efavirenz-associated resistance substitutions among 20 (60%) subjects in the resistance analysis subset.
+In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364) through Week 96, 15 subjects showed the emergence of efavirenz resistance-associated substitutions among 25 (60%) subjects in the resistance analysis subset.
 
-Lamivudine and TDF: In a pooled analysis of antiretroviral-naïve subjects who received doravirine, lamivudine, and TDF, genotyping was performed on plasma HIV-1 isolates from all subjects with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure, at Week 48, or at time of early study drug discontinuation.
-Genotypic resistance developed in 7 evaluable subjects.
-The resistance–associated substitutions that emerged were RT M41L (n=1), A62V (n=1), K65R (n=2), T69T/A (n=1) and M184V (n=4).
-In comparison, genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable subjects who received EFV/FTC/TDF in DRIVE-AHEAD; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1) and M184V/I (n=5).
+Lamivudine and TDF: In a pooled analysis of antiretroviral-naïve subjects who received doravirine, lamivudine, and TDF, genotyping was performed on plasma HIV-1 isolates from all subjects with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure or at time of early study drug discontinuation.
+Genotypic resistance developed in 8 evaluable subjects who received DOR/3TC/TDF through Week 96.
+The resistance–associated substitutions that emerged were RT M41L (n=1), A62A/V (n=1), K65R (n=2), T69T/A (n=1), V75V/I (n=1), and M184V (n=5).
+In comparison, genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable subjects who received EFV/FTC/TDF in DRIVE-AHEAD; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1), M184I or V (n=5), and K219K/E (n=1).
 
 Clinical Trial Results in Virologically-Suppressed Adults
 
@@ -195,15 +198,18 @@ Cross-Resistance
 
 No significant cross-resistance has been demonstrated between doravirine-resistant HIV-1 variants and lamivudine/emtricitabine or tenofovir or between lamivudine or tenofovir-resistant variants and doravirine.
 
-Doravirine: A panel of 96 diverse clinical isolates containing NNRTI-associated substitutions was evaluated for susceptibility to doravirine.
+Doravirine: Cross-resistance has been observed among NNRTIs.
+Treatment-emergent doravirine resistance-associated substitutions can confer cross resistance to efavirenz, etravirine, nevirapine, and rilpivirine.
+Of the 6 virologic failures who developed doravirine phenotypic resistance, all had phenotypic resistance to efavirenz and nevirapine, 4 had phenotypic resistance to rilpivirine, and 3 had resistance to etravirine in the Monogram PhenoSense assay.
+Of the 11 virologic failure subjects phenotypically resistant to efavirenz, 2 (18%) had decreased susceptibility to doravirine (18- and 36-fold).
+
+The treatment-emergent doravirine resistance-associated substitution Y318F did not confer reduced susceptibility to efavirenz, etravirine, or rilpivirine.
+
+A panel of 96 diverse clinical isolates containing NNRTI resistance-associated substitutions was evaluated for susceptibility to doravirine.
 Clinical isolates containing the Y188L substitution alone or in combination with K103N or V106I, V106A in combination with G190A and F227L, or E138K in combination with Y181C and M230L showed greater than 100-fold reduced susceptibility to doravirine.
 
-Cross-resistance has been observed among NNRTIs.
-Treatment-emergent doravirine resistance associated substitutions can confer cross resistance to efavirenz, etravirine, nevirapine, and rilpivirine.
-Of the 6 virologic failures who developed doravirine phenotypic resistance, all had phenotypic resistance to efavirenz and nevirapine, 4 had phenotypic resistance to rilpivirine, and 3 had partial resistance to etravirine based on the Monogram PhenoSense assay.
-
 Lamivudine: Cross-resistance has been observed among NRTIs.
-The M184I/V lamivudine resistance substitution confers resistance to abacavir, didanosine and emtricitabine.
+The M184I/V lamivudine resistance-associated substitution confers resistance to abacavir, didanosine and emtricitabine.
 Lamivudine also has reduced susceptibility against the K65R substitution.
 
 TDF: Cross-resistance has been observed among NRTIs.
@@ -211,6 +217,6 @@ The K65R substitution in HIV-1 RT selected by tenofovir is also selected in some
 HIV-1 isolates with the K65R substitution also showed reduced susceptibility to emtricitabine and lamivudine.
 Therefore, cross-resistance among these NRTIs may occur in patients whose virus harbors the K65R substitution.
 The K70E substitution selected clinically by TDF results in reduced susceptibility to abacavir, didanosine, emtricitabine, lamivudine, and tenofovir.
-HIV-1 isolates from patients (n=20) whose HIV-1 expressed a mean of 3 zidovudine-associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
-Subjects whose virus expressed an L74V RT substitution without zidovudine resistance-associated substitutions (n=8) had reduced response to TDF.
+HIV-1 isolates from patients (n=20) whose HIV-1 expressed a mean of 3 zidovudine resistance-associated substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
+Subjects whose virus expressed an RT L74V substitution without zidovudine resistance-associated substitutions (n=8) had reduced response to TDF.
 Limited data are available for patients whose virus expressed a Y115F substitution (n=3), Q151M substitution (n=2), or T69 insertion (n=4) in HIV-1 RT, all of whom had a reduced response in clinical trials.

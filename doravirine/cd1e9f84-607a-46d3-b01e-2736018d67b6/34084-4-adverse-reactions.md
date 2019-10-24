@@ -13,28 +13,29 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions in Adults with No Antiretroviral Treatment History
 
-The safety assessment of DELSTRIGO is based on Week 48 data from two Phase 3, randomized, international, multicenter, double-blind, active-controlled trials.
+The safety assessment of DELSTRIGO is based on Week 96 data from two Phase 3, randomized, international, multicenter, double-blind, active-controlled trials.
 A total of 747 subjects received doravirine either as the single entity in combination with other antiretroviral drugs as background regimens (n=383) or as the fixed-dose DELSTRIGO (n=364), and a total of 747 subjects were randomized to control arms.
 
 In DRIVE-AHEAD (Protocol 021), 728 adult subjects received either DELSTRIGO (n=364) or EFV/FTC/TDF once daily (n=364).
-By Week 48, 3% in the DELSTRIGO group and 6% in the EFV/FTC/TDF group had adverse events leading to discontinuation of study medication.
+By Week 96, 3% in the DELSTRIGO group and 7% in the EFV/FTC/TDF group had adverse events leading to discontinuation of study medication.
 
 Adverse reactions reported in greater than or equal to 5% of subjects in any treatment group in DRIVE-AHEAD are presented in Table 1.
 
 Table 1: Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to trial drugs by the investigator.
-(All Grades) Reported in ≥5%No adverse reactions of Grade 2 or higher (moderate or severe) occurred in ≥2% of subjects treated with DELSTRIGO. of Subjects in Any Treatment Group in Adults with No Antiretroviral Treatment History in DRIVE-AHEAD (Week 48)
+(All Grades) Reported in ≥5%No adverse reactions of Grade 2 or higher (moderate or severe) occurred in ≥2% of subjects treated with DELSTRIGO. of Subjects in Any Treatment Group in Adults with No Antiretroviral Treatment History in DRIVE-AHEAD (Week 96)
 
 |  | DELSTRIGO Once Daily N=364 | EFV/FTC/TDF Once Daily N=364 |
 | --- | --- | --- |
 | Dizziness | 7% | 32% |
 | Nausea | 5% | 7% |
-| Abnormal Dreams | 5% | 9% |
+| Abnormal Dreams | 5% | 10% |
+| Headache | 4% | 5% |
 | Insomnia | 4% | 5% |
-| Diarrhea | 3% | 5% |
+| Diarrhea | 4% | 6% |
 | Somnolence | 3% | 7% |
 | RashRash: includes rash, rash erythematous, rash generalized, rash macular, rash maculo-papular, rash papular, rash pruritic. | 2% | 12% |
 
-The majority (65%) of adverse reactions associated with DELSTRIGO occurred at severity Grade 1 (mild).
+The majority (66%) of adverse reactions associated with DELSTRIGO occurred at severity Grade 1 (mild).
 
 Neuropsychiatric Adverse Events
 
@@ -59,49 +60,52 @@ In DRIVE-AHEAD through 48 weeks of treatment, the majority of subjects who repor
 Neuropsychiatric adverse events led to treatment discontinuation in 1% (2/364) and 1% (5/364) of subjects in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
 The proportion of subjects who reported neuropsychiatric adverse events through Week 4 was 17% (62/364) in the DELSTRIGO group and 49% (177/364) in the EFV/FTC/TDF group.
 At Week 48, the prevalence of neuropsychiatric adverse events was 12% (44/364) in the DELSTRIGO group and 22% (81/364) in the EFV/FTC/TDF group.
+At Week 96, the prevalence of neuropsychiatric adverse events was 13% (47/364) in the DELSTRIGO group and 23% (82/364) in the EFV/FTC/TDF group.
 
 Laboratory Abnormalities
 
 The percentages of subjects with selected laboratory abnormalities (that represent a worsening from baseline) who were treated with DELSTRIGO or EFV/FTC/TDF in DRIVE-AHEAD are presented in Table 3.
 
-Table 3: Selected Laboratory Abnormalities Reported in Adult Subjects with No Antiretroviral Treatment History in DRIVE-AHEAD (Week 48)
+Table 3: Selected Laboratory Abnormalities Reported in Adult Subjects with No Antiretroviral Treatment History in DRIVE-AHEAD (Week 96)
 
 | Blood Chemistry |  |  |
 | --- | --- | --- |
 | Laboratory Parameter Preferred Term (Unit)/Limit | DELSTRIGO Once Daily N=364 | EFV/FTC/TDF Once Daily N=364 |
 | Total bilirubin |  |  |
-| 1.1 - <1.6 × ULN | 4% | 0% |
+| 1.1 - <1.6 × ULN | 5% | 0% |
 | 1.6 - <2.6 × ULN | 2% | 0% |
-| ≥2.6 × ULN | <1% | <1% |
+| ≥2.6 × ULN | 1% | <1% |
 | Creatinine (mg/dL) |  |  |
-| >1.3 - 1.8 × ULN or Increase of >0.3 mg/dL above baseline | 2% | 1% |
-| >1.8 × ULN or Increase of ≥1.5 × above baseline | 2% | 1% |
+| >1.3 - 1.8 × ULN or Increase of >0.3 mg/dL above baseline | 3% | 2% |
+| >1.8 × ULN or Increase of ≥1.5 × above baseline | 3% | 2% |
 | Aspartate aminotransferase (IU/L) |  |  |
-| 2.5 - <5.0 × ULN | 2% | 2% |
-| ≥5.0 × ULN | <1% | 2% |
+| 2.5 - <5.0 × ULN | 3% | 3% |
+| ≥5.0 × ULN | 1% | 4% |
 | Alanine aminotransferase (IU/L) |  |  |
-| 2.5 - <5.0 × ULN | 3% | 4% |
-| ≥5.0 × ULN | <1% | 2% |
+| 2.5 - <5.0 × ULN | 4% | 4% |
+| ≥5.0 × ULN | 1% | 3% |
 | Alkaline phosphatase (IU/L) |  |  |
-| 2.5 - <5.0 × ULN | 0% | <1% |
+| 2.5 - <5.0 × ULN | <1% | 1% |
 | ≥5.0 × ULN | 0% | <1% |
 | Lipase |  |  |
-| 1.5 - <3.0 × ULN | 5% | 4% |
-| ≥3.0 × ULN | 1% | 2% |
+| 1.5 - <3.0 × ULN | 6% | 4% |
+| ≥3.0 × ULN | 2% | 3% |
 | Creatine kinase (IU/L) |  |  |
-| 6.0 - <10.0 × ULN | 2% | 2% |
-| ≥10.0 × ULN | 2% | 3% |
+| 6.0 - <10.0 × ULN | 3% | 3% |
+| ≥10.0 × ULN | 4% | 6% |
 | Cholesterol, fasted (mg/dL) |  |  |
-| ≥300 mg/dL | <1% | <1% |
+| ≥300 mg/dL | 1% | <1% |
 | LDL cholesterol, fasted (mg/dL) |  |  |
 | ≥190 mg/dL | <1% | 2% |
 | Triglycerides, fasted (mg/dL) |  |  |
-| >500 mg/dL | <1% | 3% |
+| >500 mg/dL | 1% | 3% |
+| Each subject is only counted once per parameter at the highest toxicity grade. Only subjects with a baseline value and at least one on-treatment value for a given laboratory parameter are included. |  |  |
 | ULN = Upper limit of normal range. |  |  |
 
 Change in Lipids from Baseline
 
 For DRIVE-AHEAD, changes from baseline at Week 48 in LDL-cholesterol, non-HDL-cholesterol, total cholesterol, triglycerides, and HDL-cholesterol are shown in Table 4.
+Changes from baseline at Week 96 were similar to findings at Week 48.
 
 The LDL and non-HDL comparisons were pre-specified and are summarized in Table 4.
 The differences were statistically significant, showing superiority of DELSTRIGO for both parameters.
@@ -135,7 +139,7 @@ In comparison, 4% and 4% of subjects in the delayed switch group experienced ALT
 Change in Lipids from Baseline
 
 Changes from baseline at Week 24 in LDL-cholesterol, non-HDL-cholesterol, total cholesterol, triglycerides, and HDL-cholesterol in subjects on a PI plus ritonavir-based regimen at baseline are shown in Table 5.
-The LDL and non-LDL comparisons were pre-specified, and the differences were statistically significant, showing superiority for an immediate switch to DELSTRIGO for both parameters.
+The LDL and non-HDL comparisons were pre-specified, and the differences were statistically significant, showing superiority for an immediate switch to DELSTRIGO for both parameters.
 The clinical benefit of these findings has not been demonstrated.
 
 Table 5: Mean Change from Baseline in Fasting Lipids in Adult Virologically-Suppressed Subjects on a PI plus Ritonavir-based Regimen at Baseline in DRIVE-SHIFT (Week 24)
