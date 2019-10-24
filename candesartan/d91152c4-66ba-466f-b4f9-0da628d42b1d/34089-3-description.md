@@ -20,6 +20,6 @@ ATACAND HCT is available for oral administration in three tablet strengths of ca
 
 ATACAND HCT 16-12.5 contains 16 mg of candesartan cilexetil and 12.5 mg of hydrochlorothiazide.
 ATACAND HCT 32-12.5 contains 32 mg of candesartan cilexetil and 12.5 mg of hydrochlorothiazide.
-ATACAND HCT 32–25 contains 32 mg of candesartan cilexetil and 25 mg of hydrochlorothiazide.
+ATACAND HCT 32-25 contains 32 mg of candesartan cilexetil and 25 mg of hydrochlorothiazide.
 The inactive ingredients of the tablets are carboxymethylcellulose calcium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, cornstarch, polyethylene glycol 8000, and ferric oxide (yellow).
-Ferric oxide (reddish brown) is also added to the 16-12.5 mg and 32–25 mg tablets as colorant.
+Ferric oxide (reddish brown) is also added to the 16-12.5 mg and 32-25 mg tablets as colorant.
