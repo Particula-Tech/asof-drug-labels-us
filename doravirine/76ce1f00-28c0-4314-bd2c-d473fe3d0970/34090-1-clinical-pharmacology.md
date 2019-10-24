@@ -101,11 +101,12 @@ Based on drug interaction studies conducted with doravirine, no clinically signi
 Mechanism of Action
 
 Doravirine is a pyridinone non-nucleoside reverse transcriptase inhibitor of HIV-1 and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT).
-Doravirine does not inhibit the human cellular DNA polymerases α, ß, and mitochondrial DNA polymerase γ.
+The inhibitory concentration at 50% (IC50) of doravirine for RNA-dependent DNA polymerization of recombinant wild-type HIV-1 RT in a biochemical assay was 12.2±2.0 nM (n=3).
+Doravirine does not inhibit the human cellular DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
 Antiviral Activity in Cell Culture
 
-Doravirine exhibited an EC50 value of 12.0±4.4 nM against wild-type laboratory strains of HIV-1 when tested in the presence of 100% normal human serum (NHS) using MT4-GFP reporter cells.
+Doravirine exhibited an EC50 value of 12.0±4.4 nM against wild-type laboratory strains of HIV-1 when tested in the presence of 100% normal human serum (NHS) using MT4-GFP reporter cells and a median EC50 value for HIV-1 subtype B primary isolates (n=118) of 4.1 nM (range: 1.0 nM-16.0 nM).
 Doravirine demonstrated antiviral activity against a broad panel of primary HIV-1 isolates (A, A1, AE, AG, B, BF, C, D, G, H) with EC50 values ranging from 1.2 nM to 10.0 nM.
 
 Antiviral Activity in Combination with other HIV Antiviral Agents
@@ -117,21 +118,23 @@ Resistance
 In Cell Culture
 
 Doravirine-resistant strains were selected in cell culture starting from wild-type HIV-1 of different origins and subtypes, as well as NNRTI-resistant HIV-1.
-Observed emergent amino acid substitutions in RT included: V106A, V106M, V106I, V108I, H221Y, F227C, F227I, F227L, F227V, M230I, L234I, P236L, and Y318F.
+Observed emergent amino acid substitutions in RT included: V106A, V106I, V106M, V108I, H221Y, F227C, F227I, F227L, F227V, M230I, L234I, P236L, and Y318F.
+The V106A, V106M, V108I, H221Y, F227C, M230I, P236L, and Y318F substitutions conferred 3.4-fold to 70-fold reductions in susceptibility to doravirine.
+Y318F in combination with V106A, V106M, V108I, and F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
 
 In Clinical Trials
 
 Clinical Trial Results in Adults with No Antiretroviral Treatment History
 
-In the doravirine treatment arms of the DRIVE-FORWARD and DRIVE-AHEAD trials (n=747) at Week 48, 11 subjects showed the emergence of doravirine-associated resistance substitutions in their HIV among 28 (39%) subjects in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having resistance data).
-Emergent doravirine resistance-associated substitutions in RT included one or more of the following: A98G, V106I, V106A, V106M/T, V108I, E138G/K, Y188L, H221Y, P225H, F227C, F227C/R, and Y318Y/F.
-Seven of 11 (64%) subjects with emergent doravirine-associated resistance substitutions showed doravirine phenotypic resistance and all of them had at least a 100-fold reduction in doravirine susceptibility (range >97- to >211–fold reduction in doravirine susceptibility).
-The other 4 virologic failures who had only amino acid mixtures of NNRTI resistance substitutions showed doravirine phenotypic fold-changes of less than 2-fold.
-Of the 28 subjects in the resistance analysis subset, 8 subjects (29%) developed genotypic and/or phenotypic resistance to the other drugs (abacavir, lamivudine, emtricitabine, or TDF) in the regimens of the DRIVE-FORWARD and DRIVE-AHEAD trials.
-The resistance-associated substitutions that emerged were RT M41L (n=1), A62V (n=1), K65R (n=2), T69T/A (n=1), and M184V (n=5).
+In the doravirine treatment arms of the DRIVE-FORWARD and DRIVE-AHEAD trials (n=747) through Week 96, 13 subjects showed the emergence of doravirine resistance-associated substitutions in their HIV among 36 (36%) subjects in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having post-baseline resistance samples).
+Emergent doravirine resistance-associated substitutions in RT included one or more of the following: V90G/I, A98G, V106A, V106I, V106M/T, V108I, E138G, Y188L, H221Y, P225H, P225L, P225P/S, F227C, F227C/R, Y318Y/F and Y318Y/S.
+Eight of 13 (62%) subjects with emergent doravirine resistance-associated substitutions showed doravirine phenotypic resistance and most of them had at least a 100-fold reduction in doravirine susceptibility (range >95- to >211–fold reduction in doravirine susceptibility).
+The other 5 virologic failures who had only amino acid mixtures of NNRTI resistance substitutions showed doravirine phenotypic fold-changes of less than 2-fold.
+Of the 36 subjects in the resistance analysis subset, 10 subjects (28%) developed genotypic and/or phenotypic resistance to the other drugs (abacavir, emtricitabine, lamivudine, or tenofovir) in the regimens of the DRIVE-FORWARD and DRIVE-AHEAD trials.
+The resistance-associated substitutions that emerged were RT M41L (n=1), A62A/V (n=1), K65R (n=2), T69T/A (n=1), V75V/I (n=1), and M184I or V (n=7).
 
-In the DRV+r treatment arm of the DRIVE-FORWARD trial (n=383) at Week 48, no subjects showed the emergence of darunavir-associated resistance substitutions among 9 subjects with resistance data and none of the subjects had emergent resistance to lamivudine or TDF.
-In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364), 12 subjects showed the emergence of efavirenz-associated resistance substitutions among 20 (60%) subjects in the resistance analysis subset and genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable subjects; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1), and M184V/I (n=5).
+In the DRV/r treatment arm of the DRIVE-FORWARD trial (n=383) through Week 96, no subjects showed the emergence of darunavir resistance-associated substitutions among 15 subjects with resistance data and 2 of the subjects had emergent genotypic or phenotypic resistance to lamivudine or tenofovir.
+In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364) through Week 96, 15 subjects showed the emergence of efavirenz resistance-associated substitutions among 25 (60%) subjects in the resistance analysis subset and genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable subjects; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1), M184I or V (n=5), and K219K/E (n=1).
 
 Clinical Trial Results in Virologically-Suppressed Adults
 
@@ -141,9 +144,12 @@ One of the two virologic failure subjects in the delayed switch group who had av
 
 Cross-Resistance
 
-A panel of 96 diverse clinical isolates containing NNRTI-associated substitutions was evaluated for susceptibility to doravirine.
-Clinical isolates containing the Y188L substitution alone or in combination with K103N or V106I, V106A in combination with G190A and F227L, or E138K in combination with Y181C and M230L showed greater than 100-fold reduced susceptibility to doravirine.
-
 Cross-resistance has been observed among NNRTIs.
-Treatment-emergent doravirine resistance-associated substitutions can confer cross resistance to efavirenz, etravirine, nevirapine, and rilpivirine.
-Of the 7 virologic failures who developed doravirine phenotypic resistance, all had phenotypic resistance to nevirapine, 6 had phenotypic resistance to efavirenz, 4 had phenotypic resistance to rilpivirine, and 3 had partial resistance to etravirine based on the Monogram PhenoSense assay.
+Treatment-emergent doravirine resistance-associated substitutions can confer cross-resistance to efavirenz, etravirine, nevirapine, and rilpivirine.
+Of the 8 virologic failures who developed doravirine phenotypic resistance, all had phenotypic resistance to nevirapine, 6 had phenotypic resistance to efavirenz, 4 had phenotypic resistance to rilpivirine, and 3 had resistance to etravirine in the Monogram PhenoSense assay.
+Of the 11 virologic failure subjects in DRIVE-AHEAD phenotypically resistant to efavirenz, 2 (18%) had decreased susceptibility to doravirine (18- and 36-fold).
+
+The treatment-emergent doravirine resistance-associated substitution Y318F did not confer reduced susceptibility to efavirenz, etravirine, or rilpivirine.
+
+A panel of 96 diverse clinical isolates containing NNRTI resistance-associated substitutions was evaluated for susceptibility to doravirine.
+Clinical isolates containing the Y188L substitution alone or in combination with K103N or V106I, V106A in combination with G190A and F227L, or E138K in combination with Y181C and M230L showed greater than 100-fold reduced susceptibility to doravirine.
