@@ -5,7 +5,7 @@ The efficacy of NEXPLANON does not depend on daily, weekly or monthly administra
 All healthcare providers should receive instruction and training prior to performing insertion and/or removal of NEXPLANON.
 
 A single NEXPLANON implant is inserted subdermally just under the skin at the inner side of the non-dominant upper arm.
-The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to the sulcus (groove) between the biceps and triceps muscles.
+The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to (below) the sulcus (groove) between the biceps and triceps muscles.
 This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus (See Figures 2a, 2b and 2c).
 An implant inserted more deeply than subdermally (deep insertion) may not be palpable and the localization and/or removal can be difficult or impossible [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 
@@ -88,7 +88,7 @@ Videos demonstrating insertion and removal are available online for trained heal
 
 Before insertion of NEXPLANON, the healthcare provider should confirm that:
 
-- The woman is not pregnant nor has any other contraindication for the use of NEXPLANON [see Contraindications (4)].
+- The woman is not pregnant and has no other contraindication for the use of NEXPLANON [see Contraindications (4)].
 - The woman has had a medical history and physical examination, including a gynecologic examination, performed.
 - The woman understands the benefits and risks of NEXPLANON.
 - The woman has received a copy of the Patient Labeling included in packaging.
@@ -116,7 +116,7 @@ Have the woman lie on her back on the examination table with her non-dominant ar
 
 Step 2.
 Identify the insertion site, which is at the inner side of the non-dominant upper arm.
-The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to the sulcus (groove) between the biceps and triceps muscles (Figures 2a, 2b and 2c).
+The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to (below) the sulcus (groove) between the biceps and triceps muscles (Figures 2a, 2b and 2c).
 This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus.
 If it is not possible to insert the implant in this location (e.g., in women with thin arms), it should be inserted as far posterior from the sulcus as possible.
 [See Warnings and Precautions (5.1).]
@@ -128,7 +128,7 @@ This second mark (guiding mark) will later serve as a direction guide during ins
 | Figure 2a P - Proximal (toward the shoulder) D - Distal (toward the elbow) |
 | --- |
 
-|  | Figure 2b | Figure 2c: Cross section of the upper left arm, as viewed from the elbow |  |
+|  | Figure 2b | Figure 2c: Cross section of the upper left arm, as viewed from the elbow Medial (inner side of the arm) Lateral (outer side of the arm) |  |
 | --- | --- | --- | --- |
 
 Step 4.
@@ -152,22 +152,25 @@ You should see the white colored implant by looking into the tip of the needle.
 Do not touch the purple slider until you have fully inserted the needle subdermally, as doing so will retract the needle and prematurely release the implant from the applicator.
 
 Step 9.
-With your free hand, stretch the skin around the insertion site towards the elbow (Figure 4).
+If the purple slider is released prematurely, restart the procedure with a new applicator.
 
 Step 10.
+With your free hand, stretch the skin around the insertion site towards the elbow (Figure 4).
+
+Step 11.
 The implant should be inserted subdermally just under the skin (see Warnings and Precautions (5.1))
 
 To help make sure the implant is inserted just under the skin, you should position yourself to see the advancement of the needle by viewing the applicator from the side and not from above the arm.
 From the side view (see Figure 6), you can clearly see the insertion site and the movement of the needle just under the skin.
 
-Step 11.
+Step 12.
 Puncture the skin with the tip of the needle slightly angled less than 30° (Figure 5a).
 
-Step 12.
-Insert the needle until the bevel (slanted opening of the tip) is just under the skin (and no further) (Figure 5b).
-If you insert the needle past the bevel, withdraw it until only the bevel is beneath the skin.
-
 Step 13.
+Insert the needle until the bevel (slanted opening of the tip) is just under the skin (and no further) (Figure 5b).
+If you inserted the needle deeper than the bevel, withdraw the needle until only the bevel is beneath the skin.
+
+Step 14.
 Lower the applicator to a nearly horizontal position.
 To facilitate subdermal placement, lift the skin with the needle while sliding the needle to its full length (Figure 6).
 You may feel slight resistance but do not exert excessive force.
@@ -175,12 +178,12 @@ If the needle is not inserted to its full length, the implant will not be insert
 
 If the needle tip emerges from the skin before needle insertion is complete, the needle should be pulled back and be readjusted to subdermal position before completing the insertion procedure.
 
-Step 14.
+Step 15.
 Keep the applicator in the same position with the needle inserted to its full length (Figure 7).
 If needed, you may use your free hand to stabilize the applicator.
 Unlock the purple slider by pushing it slightly down (Figure 8a).
 Move the slider fully back until it stops.
-Do not move the applicator while moving the purple slider (Figure 8b).
+Do not move () the applicator while moving the purple slider (Figure 8b).
 The implant is now in its final subdermal position, and the needle is locked inside the body of the applicator.
 The applicator can now be removed (Figure 8c).
 
@@ -192,26 +195,26 @@ If the applicator is not kept in the same position during this procedure or if t
 If the implant is protruding from the insertion site, remove the implant and perform a new procedure at the same insertion site using a new applicator.
 Do not push the protruding implant back into the incision.
 
-Step 15.
+Step 16.
 Apply a small adhesive bandage over the insertion site.
 
-Step 16.
+Step 17.
 Always verify the presence of the implant in the woman's arm immediately after insertion by palpation.
 By palpating both ends of the implant, you should be able to confirm the presence of the 4 cm rod (Figure 9).
 See "If the rod is not palpable after insertion" below.
 
-Step 17.
+Step 18.
 Request that the woman palpate the implant.
 
-Step 18.
+Step 19.
 Apply a pressure bandage with sterile gauze to minimize bruising.
 The woman may remove the pressure bandage in 24 hours and the small adhesive bandage over the insertion site after 3 to 5 days.
 
-Step 19.
+Step 20.
 Complete the USER CARD and give it to the woman to keep.
 Also, complete the PATIENT CHART LABEL and affix it to the woman's medical record.
 
-Step 20.
+Step 21.
 The applicator is for single use only and should be disposed in accordance with the Center for Disease Control and Prevention guidelines for handling of hazardous waste.
 
 If the rod is not palpable after insertion:
@@ -303,7 +306,7 @@ If the implant tip is not exposed following blunt dissection, make an incision i
 | --- | --- | --- | --- |
 
 Step 7.
-If the tip of the implant does not become visible in the incision, insert a forceps (preferably curved mosquito forceps, with the tips pointed up) superficially into the incision (Figure 16).
+If the tip of the implant does not become visible in the incision, insert forceps (preferably curved mosquito forceps, with the tips pointed up) superficially into the incision (Figure 16).
 Gently grasp the implant and then flip the forceps over into your other hand (Figure 17).
 
 |  | Figure 16 | Figure 17 |  |
@@ -355,7 +358,7 @@ Exploratory surgery without knowledge of the exact location of the implant is st
 
 Immediate replacement can be done after removal of the previous implant and is similar to the insertion procedure described in section 2.2 Insertion of NEXPLANON.
 
-The new implant may be inserted in the same arm, and through the same incision from which the previous implant was removed, as long as the site is in the correct location [see Dosage and Administration (2.2)].
+The new implant may be inserted in the same arm, and through the same incision from which the previous implant was removed, as long as the site is in the correct location, i.e., 8-10 cm from the medial epicondyle of the humerus and 3-5 cm posterior to (below) the sulcus [see Dosage and Administration (2.2)].
 If the same incision is being used to insert a new implant, anesthetize the insertion site [for example, 2 mL lidocaine (1%)] applying it just under the skin along the 'insertion canal.'
 
 Follow the subsequent steps in the insertion instructions [see Dosage and Administration (2.2)].

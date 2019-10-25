@@ -99,7 +99,7 @@ When you are using NEXPLANON, tell all of your healthcare providers that you hav
 How is the NEXPLANON implant placed and removed?
 
 Your healthcare provider will place and remove the NEXPLANON implant in a minor surgical procedure in his or her office.
-The implant is placed just under the skin on the inner side of your upper arm.
+The implant is placed just under the skin on the inner side of your non-dominant upper arm.
 
 The timing of insertion is important.
 Your healthcare provider may:
@@ -171,7 +171,7 @@ Other common side effects include:
 - Pain
 - Pain at the site of insertion
 
-Implants have been reported to be found in a blood vessel, including a blood vessel in the lung.
+Implants have been reported to be found in a blood vessel, including a blood vessel in the lung which can be associated with shortness of breath, cough and/or the coughing up of blood or blood-stained mucus.
 
 This is not a complete list of possible side effects.
 For more information, ask your healthcare provider for advice about any side effects that concern you.
@@ -267,7 +267,7 @@ Call your healthcare provider right away if you have:
 - Sudden severe headache unlike your usual headaches
 - Weakness or numbness in your arm, leg, or trouble speaking
 - Sudden partial or complete blindness
-- Yellowing of your skin or whites of your eyes, especially with fever, tiredness, loss of appetite, dark colored urine, or light colored bowel movements
+- Yellowing of your skin or whites of your eyes, especially with fever, tiredness, loss of appetite, dark colored urine, or light-colored bowel movements
 - Severe pain, swelling, or tenderness in the lower stomach (abdomen)
 - Lump in your breast
 - Problems sleeping, lack of energy, tiredness, or you feel very sad
