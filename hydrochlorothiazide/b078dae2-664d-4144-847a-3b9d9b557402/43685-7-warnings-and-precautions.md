@@ -2,12 +2,16 @@
 
 ## 5.1 Fetal Toxicity
 
-Telmisartan Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Telmisartan
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue MICARDIS HCT as soon as possible.
 
-Hydrochlorothiazide Thiazides cross the placental barrier and appear in cord blood.
+Hydrochlorothiazide
+
+Thiazides cross the placental barrier and appear in cord blood.
 Adverse reactions include fetal or neonatal jaundice and thrombocytopenia [see Use in Specific Populations (8.1)].
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
@@ -42,7 +46,9 @@ Because telmisartan decreases uric acid, telmisartan in combination with hydroch
 
 ## 5.5 Hypersensitivity Reaction
 
-Hydrochlorothiazide Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history [see Contraindications (4)].
+Hydrochlorothiazide
+
+Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history [see Contraindications (4)].
 
 ## 5.6 Acute Myopia and Secondary Angle-Closure Glaucoma
 

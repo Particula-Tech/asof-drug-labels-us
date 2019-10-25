@@ -1,4 +1,4 @@
-Patient Information MICARDIS® HCT (my-CAR-dis HCT) (telmisartan and hydrochlorothiazide) Tablets
+# Patient Information MICARDIS® HCT (my-CAR-dis HCT) (telmisartan and hydrochlorothiazide) Tablets
 
 Read this Patient Information before you start taking MICARDIS HCT tablets and each time you get a refill.
 There may be new information.
@@ -22,6 +22,8 @@ Your doctor may prescribe other medicines for you to take along with MICARDIS HC
 
 It is not known if MICARDIS HCT is safe and effective in children.
 
+Do not take MICARDIS HCT tablets if you:
+
 - have low or no urine output
 - are allergic (hypersensitive) to the active ingredients (telmisartan or hydrochlorothiazide) or any of the other ingredients listed at the end of this leaflet
 
@@ -30,7 +32,7 @@ What should I tell my doctor before using MICARDIS HCT tablets?
 Before you take MICARDIS HCT tablets, tell your doctor if you:
 
 - are pregnant or are planning to become pregnant.
-  See “What is the most important information I should know about MICARDIS HCT tablets?”
+  See "What is the most important information I should know about MICARDIS HCT tablets?"
 - are breast-feeding or plan to breast-feed.
   MICARDIS HCT can pass into your breast milk and may harm your baby.
   You and your doctor should decide if you will take MICARDIS HCT or breast-feed.
@@ -77,7 +79,7 @@ How should I take MICARDIS HCT tablets?
 - Take MICARDIS HCT once each day.
 - Take MICARDIS HCT tablets with or without food.
 - If you take too much MICARDIS HCT, call your doctor, or go to the nearest hospital emergency room right away.
-- Read the “How to open the blister” at the end of this leaflet before you use MICARDIS HCT.
+- Read the "How to open the blister" at the end of this leaflet before you use MICARDIS HCT.
   Talk with your doctor if you do not understand the instructions.
 
 What are the possible side effects of MICARDIS HCT tablets?
@@ -85,7 +87,7 @@ What are the possible side effects of MICARDIS HCT tablets?
 MICARDIS HCT tablets may cause serious side effects, including:
 
 - Injury or death to your unborn baby.
-  See “What is the most important information I should know about MICARDIS HCT tablets?”
+  See "What is the most important information I should know about MICARDIS HCT tablets?"
 - Low blood pressure (hypotension) is most likely to happen if you also:If you feel faint or dizzy, lie down and call your doctor right away.
   - take water pills (diuretics)
   - are on a low-salt diet
@@ -116,8 +118,10 @@ MICARDIS HCT tablets may cause serious side effects, including:
   Your doctor may do tests to check your blood.
   Call your doctor right away if you have:
 
-| dry mouththirsttirednesssleepinessrestlessnessconfusion | seizuresfast heartbeatsweaknessmuscle pain or crampsvery low urine outputnausea or vomiting |
-| --- | --- |
+|  | dry mouththirsttirednesssleepinessrestlessnessconfusion | seizuresfast heartbeatsweaknessmuscle pain or crampsvery low urine outputnausea or vomiting |
+| --- | --- | --- |
+
+The most common side effects of MICARDIS HCT tablets include:
 
 - upper respiratory tract infections, including sinus pain/congestion and sore throat
 - dizziness
@@ -173,14 +177,9 @@ MICARDIS HCT tablets can help your blood vessels relax so your blood pressure is
 
 How to open the blister:
 
-1.
-Tear (You may also use scissors to tear the blister apart)
-
-2.
-Peel (Peel off the paper layer from the aluminum foil)
-
-3.
-Push (Push the tablet through the foil)
+1. Tear (You may also use scissors to tear the blister apart)
+2. Peel (Peel off the paper layer from the aluminum foil)
+3. Push (Push the tablet through the foil)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -191,7 +190,6 @@ Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
 MICARDIS® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
-
 The other brands listed are trademarks of their owners.
 
 Revised: February 2018

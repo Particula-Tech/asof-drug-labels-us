@@ -12,13 +12,17 @@ Monitor lithium levels in patients receiving MICARDIS HCT and lithium.
 
 ## 7.3 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors
 
-Telmisartan Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ARBs, including telmisartan, may result in deterioration of renal function, including possible acute renal failure.
+Telmisartan
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ARBs, including telmisartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 The antihypertensive effect of ARBs may be attenuated by NSAIDs.
 Therefore, monitor renal function and blood pressure periodically in patients receiving MICARDIS HCT and NSAIDs.
 
-Hydrochlorothiazide Administration of a non-steroidal anti-inflammatory agent, including a selective COX‑2 inhibitor, can reduce the diuretic, natriuretic, and antihypertensive effects of diuretics.
-Therefore, when MICARDIS HCT and non-steroidal anti-inflammatory agents including selective COX‑2 inhibitors are used concomitantly, observe closely to determine if the desired effect of the diuretic is obtained.
+Hydrochlorothiazide
+
+Administration of a non-steroidal anti-inflammatory agent, including a selective COX-2 inhibitor, can reduce the diuretic, natriuretic, and antihypertensive effects of diuretics.
+Therefore, when MICARDIS HCT and non-steroidal anti-inflammatory agents including selective COX-2 inhibitors are used concomitantly, observe closely to determine if the desired effect of the diuretic is obtained.
 
 ## 7.4 Dual Blockade of the Renin-Angiotensin-Aldosterone System and Changes in Renal Function
 
