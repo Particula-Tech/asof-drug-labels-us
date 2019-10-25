@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212473"
+  ],
+  "inn": "desonide",
+  "labeler": "Alembic Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62332-485-15",
+    "62332-485-60"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "desonide",
+      "name": "Desonide"
+    }
+  ],
+  "setid": "9eade7ae-effc-49b5-af7d-8caa183ff252",
+  "source": "dailymed"
+}
