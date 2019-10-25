@@ -4,7 +4,7 @@ PRINCIPAL DISPLAY PANEL
 
 Coherus BioSciences
 
-6 mg/0.6 mL
+6 mg/ 0.6 mL
 
 NDC 70114-101-01
 
