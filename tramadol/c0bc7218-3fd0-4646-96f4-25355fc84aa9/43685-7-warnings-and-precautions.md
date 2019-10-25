@@ -12,7 +12,7 @@ Addiction can occur at recommended dosages and if the drug is misused or abused.
 Assess each patient’s risk for opioid addiction, abuse or misuse prior to prescribing Tramadol Hydrochloride Extended-Release Capsules, and monitor all patients receiving Tramadol Hydrochloride Extended-Release Capsules for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients are increased risk may be prescribed opioids such as Tramadol Hydrochloride Extended-Release Capsules, but use in such patients necessitates intensive counseling about the risks and proper use of Tramadol Hydrochloride Extended-Release Capsules along with intensive monitoring for signs of addiction, abuse and misuse.
+Patients at increased risk may be prescribed opioids such as Tramadol Hydrochloride Extended-Release Capsules, but use in such patients necessitates intensive counseling about the risks and proper use of Tramadol Hydrochloride Extended-Release Capsules along with intensive monitoring for signs of addiction, abuse and misuse.
 
 Abuse or misuse of Tramadol Hydrochloride Extended-Release Capsules by splitting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see Overdosage (10)].
 
@@ -24,10 +24,10 @@ Strategies to reduce these risks include prescribing the drug in smallest approp
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
-Prescribers are strongly encouraged to do all of the following:
+Healthcare providers are strongly encouraged to do all of the following:
 
-- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
-- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCD.
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
 - Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
@@ -48,6 +48,10 @@ To reduce the risk of respiratory depression, proper dosing and titration of Tra
 Overestimating the Tramadol Hydrochloride Extended-Release Capsules dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of Tramadol Hydrochloride Extended-Release Capsules, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
 
 ## 5.4 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
@@ -128,10 +132,10 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-## 5.8 Serotonin Syndrome Risk
+## 5.8 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported with the use of tramadol, including Tramadol Hydrochloride Extended-Release Capsules, particularly during concomitant use with serotonergic drugs.
-Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
 This may occur within the recommended dosage range.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -226,11 +230,12 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 ## 5.17 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Tramadol Hydrochloride Extended-Release Capsules.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue Tramadol Hydrochloride Extended-Release Capsules in a patient physically dependent on opioids.
+When discontinuing Tramadol Hydrochloride Extended-Release Capsules in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of tramadol in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing Tramadol Hydrochloride Extended-Release Capsules, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue Tramadol Hydrochloride Extended-Release Capsules [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Tramadol Hydrochloride Extended-Release Capsules.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.18 Risks of Driving and Operating Machinery
 

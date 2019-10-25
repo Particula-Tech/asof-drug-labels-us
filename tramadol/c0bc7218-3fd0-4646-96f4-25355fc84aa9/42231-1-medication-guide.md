@@ -18,8 +18,8 @@ Important information about Tramadol Hydrochloride Extended-Release Capsules:
 - Taking Tramadol Hydrochloride Extended-Release Capsules with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your Tramadol Hydrochloride Extended-Release Capsules.
   They could die from taking it.
-  Store Tramadol Hydrochloride Extended-Release Capsules away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away Tramadol Hydrochloride Extended-Release Capsules are against the law.
+- Store Tramadol Hydrochloride Extended-Release Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 
 Important Information Guiding Use in Pediatric Patients:
 
@@ -59,7 +59,8 @@ When taking Tramadol Hydrochloride Extended-Release Capsules:
   Do not split, break, chew, crush, dissolve, snort, or inject Tramadol Hydrochloride Extended-Release Capsules because this may cause you to overdose and die.
 - Call your healthcare provider if the dose you are taking does not control your pain.
 - Do not stop taking Tramadol Hydrochloride Extended-Release Capsules without talking to your healthcare provider.
-- After you stop taking Tramadol Hydrochloride Extended-Release Capsules, dispose the unused Tramadol Hydrochloride Extended-Release Capsules in accordance with the local state guidelines and/or regulations.
+- Dispose of expired, unwanted, or unused Tramadol Hydrochloride Extended-Release Capsules by taking your drug to an authorized DEA-registered collector or drug take-back program.
+  If one is not available, you can dispose of Tramadol Hydrochloride Extended-Release Capsules by mixing the product with dirt, cat litter, or coffee grounds; placing the mixture in a sealed plastic bag and throwing the bag in your trash.
 
 While taking Tramadol Hydrochloride Extended-Release Capsules DO NOT:
 
@@ -79,11 +80,11 @@ Get emergency medical help if you have:
 
 These are not all the possible side effects of Tramadol Hydrochloride Extended-Release Capsules.
 Call your doctor for medical advice about side effects.
-You may report side effects to Trigen Laboratories, LLC at (888) 987-4436 or FDA at 1-800-FDA-1088.
+You may report side effects to Trigen Laboratories, LLC at 1-877-482-3788 or FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
-Manufactured for: Trigen Laboratories, LLC, Bridgewater, NJ 08807 USA, call 1-888-987-4436
+Manufactured for: Trigen Laboratories, LLC, Bridgewater, NJ 08807 USA, call 1-877-482-3788
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 09/2018
+Issued: 10/2019

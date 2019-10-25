@@ -2,6 +2,23 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Tramadol Hydrochloride Extended-Release Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving Tramadol Hydrochloride Extended-Release Capsules unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+
+Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
+If no take back programs or DEA-registered collectors are available, instruct patients to dispose of Tramadol Hydrochloride Extended-Release Capsules by following these four steps:
+
+- Mix Tramadol Hydrochloride Extended-Release Capsules (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
+- Place the mixture in a container such as a sealed plastic bag;
+- Throw the container in the household trash;
+- Delete all personal information on the prescription label of the empty bottle
+
+Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of Tramadol Hydrochloride Extended-Release Capsules even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -16,7 +33,6 @@ Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death.
 [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store Tramadol Hydrochloride Extended-Release Capsules securely and to dispose of unused Tramadol Hydrochloride Extended-Release Capsules in accordance with the local state guidelines and/or regulations.
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
@@ -57,7 +73,10 @@ Instruct patients how to properly take Tramadol Hydrochloride Extended-Release C
 - Advise patients not to exceed the single-dose and 24-hour dose limit and the time interval between doses, since exceeding these recommendations can result in respiratory depression, seizures, hepatic toxicity, and death.
 
 - Tramadol Hydrochloride Extended-Release Capsules should not be taken with alcohol containing beverages.
-- Do not discontinue Tramadol Hydrochloride Extended-Release Capsules without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Tramadol Hydrochloride Extended-Release Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -97,16 +116,9 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
 
-Disposal of Unused Tramadol Hydrochloride Extended-Release Capsules
-
-Advise patients to properly dispose of unused Tramadol Hydrochloride Extended-Release Capsules.
-Advise patients to throw the drug in the household trash following these steps.
-1) Remove them from their original containers and mix them with an undesirable substance, such as used coffee grounds or kitty litter (this makes the drug less appealing to children and pets, and unrecognizable to people who may intentionally go through the trash seeking drugs).
-2) Place the mixture in a sealable bag, empty can, or other container to prevent the drug from leaking or breaking out of a garbage bag, or to dispose of in accordance with local state guidelines and/or regulations.
-
 Manufactured by: Galephar P.R., Inc. Juncos, Puerto Rico 00777
 
 Manufactured for: Trigen Laboratories, LLC Bridgewater, NJ 08807, USA
 
 Rev.
-04/2019
+10/2019

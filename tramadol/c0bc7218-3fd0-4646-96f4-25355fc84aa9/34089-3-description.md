@@ -4,6 +4,8 @@ Tramadol Hydrochloride Extended-Release Capsules are an opioid agonist in an ext
 The chemical name for tramadol hydrochloride USP is (±)cis-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl) cyclohexanol hydrochloride.
 Its structural formula is:
 
+Figure 1
+
 The molecular weight of tramadol hydrochloride USP is 299.8.
 It is a white, bitter, crystalline and odorless powder that is readily soluble in water and ethanol and has a pKa of 9.41.
 The n-octanol/water log partition coefficient (logP) is 1.35 at pH 7.
