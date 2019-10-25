@@ -2,6 +2,23 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Tramadol Hydrochloride Extended-Release Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving Tramadol Hydrochloride Extended-Release Capsules unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+
+Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
+If no take back programs or DEA-registered collectors are available, instruct patients to dispose of Tramadol Hydrochloride Extended-Release Capsules by following these four steps:
+
+- Mix Tramadol Hydrochloride Extended-Release Capsules (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
+- Place the mixture in a container such as a sealed plastic bag;
+- Throw the container in the household trash;
+- Delete all personal information on the prescription label of the empty bottle
+
+Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of CONZIP even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -56,7 +73,10 @@ Instruct patients how to properly take CONZIP, including the following:
   Taking cut, broken, chewed, crushed, or dissolved CONZIP tablets can result in a fatal overdose [see Dosage and Administration (2.1)]
 - Advise patients not to exceed the single-dose and 24-hour dose limit and the time interval between doses, since exceeding these recommendations can result in respiratory depression, seizures, hepatic toxicity, and death.
 - CONZIP should not be taken with alcohol containing beverages.
-- Do not discontinue CONZIP without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue CONZIP without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)]
 
 Hypotension
 
@@ -96,16 +116,9 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
 
-Disposal of Unused CONZIP
-
-Advise patients to properly dispose of unused CONZIP.
-Advise patients to throw the drug in the household trash following these steps.
-1) Remove them from their original containers and mix them with an undesirable substance, such as used coffee grounds or kitty litter (this makes the drug less appealing to children and pets, and unrecognizable to people who may intentionally go through the trash seeking drugs).
-2) Place the mixture in a sealable bag, empty can, or other container to prevent the drug from leaking or breaking out of a garbage bag, or to dispose of in accordance with local state guidelines and/or regulations.
-
 | Manufactured by: | Galephar P.R., Inc. |
 | --- | --- |
 |  | Juncos, Puerto Rico 00777 |
 | Distributed by: | Vertical Pharmaceuticals, LLC |
 |  | Bridgewater, NJ 08807, USA |
-|  | Rev. 09/2018 |
+|  | Rev. 10/2019 |

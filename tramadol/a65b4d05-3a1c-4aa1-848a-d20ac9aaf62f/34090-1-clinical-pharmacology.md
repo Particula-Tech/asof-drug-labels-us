@@ -89,7 +89,7 @@ Table 3.
 
 | Mean (%CV) Steady-State Pharmacokinetic Parameter Values (N= 38) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Tramadol |  | O-Desmethyltramadol (M1 Metabolite) |  |
+|  | Tramadol |  | O-Desmethyl-ramadol (M1 Metabolite) |  |
 | Parameter | Tramadol hydrochloride Extended- Release Capsules 200 mg | A Reference Extended- Release Tramadol Product 200 mg | Tramadol hydrochloride Extended- Release Capsules 200 mg | A Reference Extended- Release Tramadol Product 200 mg |
 | AUC0-24 (ng.hr/mL) | 5678 (27%) | 5563 (32%) | 1319 (34%) | 1302 (40%) |
 | Cmax (ng/mL) | 332 (25%) | 350 (31%) | 70 (34%) | 74 (41%) |

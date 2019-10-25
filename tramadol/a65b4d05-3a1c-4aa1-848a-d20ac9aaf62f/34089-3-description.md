@@ -4,8 +4,7 @@ CONZIP (tramadol hydrochloride) is an opioid agonist in an extended-release oral
 The chemical name for tramadol hydrochloride USP is (±)cis-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl) cyclohexanol hydrochloride.
 Its structural formula is:
 
-| C16 H25 NO2 ⋅ HCl |
-| --- |
+Figure 1
 
 The molecular weight of tramadol hydrochloride USP is 299.8.
 It is a white, bitter, crystalline and odorless powder that is readily soluble in water and ethanol and has a pKa of 9.41.

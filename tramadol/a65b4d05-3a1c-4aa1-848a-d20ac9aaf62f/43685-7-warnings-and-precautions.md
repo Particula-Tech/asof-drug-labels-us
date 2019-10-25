@@ -26,7 +26,7 @@ To ensure that the benefits of opioid analgesics outweigh the risks of addiction
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
 - Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
   The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
@@ -49,6 +49,10 @@ To reduce the risk of respiratory depression, proper dosing and titration of CON
 Overestimating the CONZIP dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of CONZIP, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
 
 ## 5.4 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
@@ -129,10 +133,10 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-## 5.8 Serotonin Syndrome Risk
+## 5.8 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported with the use of tramadol, including CONZIP, particularly during concomitant use with serotonergic drugs.
-Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
 This may occur within the recommended dosage range.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -220,7 +224,10 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 ## 5.17 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including CONZIP.
+Do not abruptly discontinue tramadol in a patient physically dependent on opioids.
+When discontinuing CONZIP in a physcially dependent patient, gradually taper the dosage.Rapid tapering of tramadol in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+
+Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including CONZIP.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing CONZIP, gradually taper the dosage [see Dosage and Administration (2.4)].

@@ -24,7 +24,7 @@ Table 2: Clinically Significant Drug Interactions with CONZIP
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue CONZIP if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome [see Warnings and Precautions (5.9)] or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.3)]. |
 | Intervention: | Do not use CONZIP in patients taking MAOIs or within 14 days of stopping such treatment. |
