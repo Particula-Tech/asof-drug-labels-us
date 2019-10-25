@@ -14,13 +14,15 @@ Protect from light.
 
 Dispense in a tight, light-resistant container (as defined in USP) with a child-resistant closure.
 
+Store hydrocodone bitartrate and acetaminophen tablets securely and dispose of properly (see PRECAUTIONS, Information for Patients).
+
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2018 Mallinckrodt.
+© 2019 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 07/2018
+Rev 10/2019
 
 Mallinckrodt™ Pharmaceuticals
 

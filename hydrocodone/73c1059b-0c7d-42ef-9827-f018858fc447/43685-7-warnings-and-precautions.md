@@ -48,6 +48,10 @@ Overestimating the hydrocodone bitartrate and acetaminophen tablets dosage when 
 
 Accidental ingestion of hydrocodone bitartrate and acetaminophen tablets, especially by children, can result in respiratory depression and death due to an overdose of hydrocodone bitartrate and acetaminophen tablets.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper (see Dosage and Administration).
+
 ## Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of hydrocodone bitartrate and acetaminophen tablets during pregnancy can result in withdrawal in the neonate.
@@ -159,11 +163,12 @@ Follow patients with a history of seizure disorders for worsened seizure control
 
 ## Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydrocodone bitartrate and acetaminophen tablets.
-In these patients, mixed agonist/antagonist and partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+Do not abruptly discontinue hydrocodone bitartrate and acetaminophen tablets in a patient physically dependent on opioids.
+When discontinuing hydrocodone bitartrate and acetaminophen tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of hydrocodone bitartrate and acetaminophen tablets in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain (see DOSAGE AND ADMINISTRATION, DRUG ABUSE AND DEPENDENCE).
 
-When discontinuing hydrocodone bitartrate and acetaminophen tablets, gradually taper the dosage (see DOSAGE AND ADMINISTRATION).
-Do not abruptly discontinue hydrocodone bitartrate and acetaminophen tablets (see DRUG ABUSE AND DEPENDENCE) in patients who have been using hydrocodone bitartrate and acetaminophen tablets around the clock for more than 5 days.
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydrocodone bitartrate and acetaminophen tablets.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms (see PRECAUTIONS, Drug Interactions).
 
 # PRECAUTIONS
 
@@ -176,6 +181,13 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store hydrocodone bitartrate and acetaminophen tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home (see WARNINGS, DRUG ABUSE AND DEPENDENCE).
+Inform patients that leaving hydrocodone bitartrate and acetaminophen tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused hydrocodone bitartrate and acetaminophen tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse Inform patients that the use of hydrocodone bitartrate and acetaminophen tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death (see WARNINGS).
 Instruct patients not to share hydrocodone bitartrate and acetaminophen tablets with others and to take steps to protect hydrocodone bitartrate and acetaminophen tablets from theft or misuse.
 
@@ -183,7 +195,6 @@ Life-Threatening Respiratory Depression Inform patients of the risk of life-thre
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS).
-Instruct patients to take steps to store hydrocodone bitartrate and acetaminophen tablets securely and to dispose of unused hydrocodone bitartrate and acetaminophen tablets by flushing down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if hydrocodone bitartrate and acetaminophen tablets are used with benzodiazepines and other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
@@ -199,6 +210,8 @@ Adrenal insufficiency may present with non-specific symptoms and signs such as n
 Advise patients to seek medical attention if they experience a constellation of these symptoms (see WARNINGS).
 
 Important Administration Instructions Instruct patients how to properly take hydrocodone bitartrate and acetaminophen tablets (see DOSAGE AND ADMINISTRATION and WARNINGS).
+
+Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue hydrocodone bitartrate and acetaminophen tablets without first discussing a tapering plan with the prescriber (see DOSAGE AND ADMINISTRATION).
 
 Maximum Daily Dose of Acetaminophen Inform patients not to take more than 4,000 milligrams of acetaminophen per day.
 Advise patients to call their prescriber if they take more than the recommended dose.
@@ -225,8 +238,6 @@ Driving or Operating Heavy Machinery Inform patients that hydrocodone bitartrate
 Advise patients not to perform such tasks until they know how they will react to the medication (see WARNINGS).
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
-
-Disposal of Unused Hydrocodone Bitartrate and Acetaminophen Tablets Advise patients to dispose of unused hydrocodone bitartrate and acetaminophen tablets by flushing unused tablets down the toilet.
 
 ## Laboratory Tests
 
@@ -258,7 +269,7 @@ Reserve concomitant prescribing of these drugs for use in patients for whom alte
 Limit dosages and durations to the minimum required.
 Follow patients closely for signs of respiratory depression and sedation (see WARNINGS).
 
-Serotonergic Drugs The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome (see PRECAUTIONS, Information for Patients).
+Serotonergic Drugs The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome (see PRECAUTIONS, Information for Patients).
 
 If concomitant use is warranted, carefully follow the patient, particularly during treatment initiation and dose adjustment.
 Discontinue hydrocodone bitartrate and acetaminophen tablets if serotonin syndrome is suspected.
