@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA019125"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Xttrium Laboratories, Inc.",
+  "package_ndcs": [
+    "0116-0200-01",
+    "0116-0200-04",
+    "0116-0200-08",
+    "0116-0200-16",
+    "0116-0200-30",
+    "0116-0200-32"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "antiseptic surgical scrub",
+      "name": "BETASEPT"
+    }
+  ],
+  "setid": "4a6451d7-b347-37ac-e054-00144ff8d46c",
+  "source": "dailymed"
+}
