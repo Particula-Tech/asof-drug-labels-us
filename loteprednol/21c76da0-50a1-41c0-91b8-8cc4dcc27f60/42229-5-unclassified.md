@@ -1,7 +1,7 @@
-Revised: May 2016
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured by: Bausch and & Lomb Incorporated Tampa, FL 33637 USA
 
-©Bausch & Lomb Incorporated Alrex is a registered trademark of Bausch & Lomb Incorporated or its affiliates.
+ALREX is a trademark of Bausch & Lomb Incorporated or its affiliates. © 2019 Bausch & Lomb Incorporated or its affiliates Revised: 08/2019
 
-9007905 (Folded) 9005505 (Flat)
+9007906 (Folded) 9005506 (Flat)

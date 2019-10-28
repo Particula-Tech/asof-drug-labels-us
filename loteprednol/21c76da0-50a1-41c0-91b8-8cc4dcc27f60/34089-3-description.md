@@ -3,13 +3,7 @@
 ALREX® (loteprednol etabonate ophthalmic suspension) contains a sterile, topical anti-inflammatory corticosteroid for ophthalmic use.
 Loteprednol etabonate is a white to off-white powder.
 
-Loteprednol etabonate is represented by the following structural formula:
-
-C24H31ClO7 Mol.
-Wt.
-466.96
-
-Chemical Name:
+Loteprednol etabonate is represented by the following structural formula: Chemical Name:
 
 chloromethyl 17α-[(ethoxycarbonyl)oxy]-11β-hydroxy-3-oxoandrosta-1,4-diene-17β-carboxylate
 
