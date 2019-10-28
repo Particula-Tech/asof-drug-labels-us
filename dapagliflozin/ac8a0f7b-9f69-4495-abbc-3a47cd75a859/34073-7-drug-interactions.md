@@ -22,7 +22,7 @@ Consider more frequent monitoring of these patients.
 
 ## 7.4 Drugs that Reduce Metformin Clearance
 
-Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2]/multidrug and toxin extrusion [MATE] inhibitors, such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
 Consider the benefits and risks of concomitant use.
 
 ## 7.5 Alcohol
@@ -30,13 +30,11 @@ Consider the benefits and risks of concomitant use.
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Warn patients against excessive alcohol intake while receiving XIGDUO XR.
 
-## 7.6 Use with Other Drugs
+## 7.6 Drugs Affecting Glycemic Control
 
-Metformin hydrochloride
+Metformin HCl
 
-Some medications can predispose to hyperglycemia and may lead to loss of glycemic control.
-These medications include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
-When such drugs are administered to a patient receiving XIGDUO XR, the patient should be observed closely for loss of glycemic control.
-When such drugs are withdrawn from a patient receiving XIGDUO XR, the patient should be observed closely for hypoglycemia.
-
-In healthy volunteers, the pharmacokinetics of metformin and propranolol, and of metformin and ibuprofen were not affected when coadministered in single-dose interaction studies.
+Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
+These medications include thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
+When such drugs are administered to a patient receiving XIGDUO XR, observe the patient closely for loss of blood glucose control.
+When such drugs are withdrawn from a patient receiving XIGDUO XR, observe the patient closely for hypoglycemia.

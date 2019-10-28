@@ -10,7 +10,7 @@ Metformin decreases liver uptake of lactate increasing lactate blood levels whic
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of XIGDUO XR.
 
-In XIGDUO XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
+In XIGDUO XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin HCl is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
 Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue XIGDUO XR and report these symptoms to their healthcare provider.
@@ -22,7 +22,7 @@ The risk of metformin accumulation and metformin-associated lactic acidosis incr
 Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1, 2.3) and Clinical Pharmacology (12.3)]:
 
 - •Before initiating XIGDUO XR, obtain an estimated glomerular filtration rate (eGFR).
-- •XIGDUO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Contraindications (4)].
+- •XIGDUO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
 - •Obtain an eGFR at least annually in all patients taking XIGDUO XR.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
@@ -60,35 +60,34 @@ Monitor for signs and symptoms of hypotension after initiating therapy.
 
 ## 5.3 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus taking sodium-glucose co transporter 2 (SGLT2) inhibitors, including dapagliflozin.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus taking sodium-glucose co transporter 2 (SGLT2) inhibitors, including dapagliflozin [see Adverse Reactions (6.1)].
 Fatal cases of ketoacidosis have been reported in patients taking dapagliflozin.
-XIGDUO XR is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1.1)].
+XIGDUO XR is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with XIGDUO XR who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of blood glucose levels as ketoacidosis associated with XIGDUO XR may be present even if blood glucose levels are less than 250 mg/dL.
-If ketoacidosis is suspected, XIGDUO XR should be discontinued, the patient should be evaluated and prompt treatment should be instituted.
-Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacement.
+If ketoacidosis is suspected, XIGDUO XR should be discontinued, the patient should be evaluated, and prompt treatment should be instituted.
+Treatment of ketoacidosis may require insulin, fluid, and carbohydrate replacement.
 
-In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
+In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized, and the institution of treatment was delayed because the presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
 Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
-In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+In some but not all cases, factors predisposing to ketoacidosis, such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
 
-Before initiating XIGDUO XR, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction and alcohol abuse.
+Before initiating XIGDUO XR, consider factors in the patient history that may predispose to ketoacidosis, including pancreatic insulin deficiency from any cause, caloric restriction and alcohol abuse.
 In patients treated with XIGDUO XR consider monitoring for ketoacidosis and temporarily discontinuing XIGDUO XR in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.4 Acute Kidney Injury and Impairment in Renal Function
+## 5.4 Acute Kidney Injury
 
-Dapagliflozin causes intravascular volume contraction [see Warning and Precautions (5.1)] and can cause renal impairment [see Adverse Reactions (6.1)].
-There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving dapagliflozin: some reports involved patients younger than 65 years of age.
+Dapagliflozin causes intravascular volume contraction [see Warning and Precautions (5.1)], and can cause actue kidney injury.
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving dapagliflozin.
 
-Before initiating XIGDUO XR, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure, and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing XIGDUO XR in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
-If acute kidney injury occurs, discontinue XIGDUO XR promptly and institute treatment.
-
-Dapagliflozin increases serum creatinine and decreases eGFR.
+Increases in serum creatinine and decreases in estimated GFR may also be observed with initiation of dapagliflozin.
 Elderly patients and patients with impaired renal function may be more susceptible to these changes.
-Adverse reactions related to renal function can occur after initiating XIGDUO XR [see Adverse Reactions (6.1)].
+Before initiating dapagliflozin, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
+Consider temporarily discontinuing dapagliflozin in the setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
+If acute kidney injury occurs, discontinue dapagliflozin promptly and institute treatment.
+
 Renal function should be evaluated prior to initiation of XIGDUO XR and monitored periodically thereafter.
-Use of XIGDUO XR is not recommended when eGFR is less than 45 mL/min/1.73 m2.
+Use of XIGDUO XR is not recommended when the eGFR is less than 45 mL/min/1.73 m2.
 XIGDUO XR is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2[see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
 ## 5.5 Urosepsis and Pyelonephritis
@@ -97,24 +96,24 @@ There have been postmarketing reports of serious urinary tract infections includ
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.2)].
 
-## 5.6 Use with Medications Known to Cause Hypoglycemia
+## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Dapagliflozin
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
-Dapagliflozin can increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
+Dapagliflozin may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with XIGDUO XR.
 
-Metformin hydrochloride
+Metformin HCl
 
-Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
-Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
-Hypoglycemia may be difficult to recognize in the elderly and in people who are taking beta-adrenergic blocking drugs.
+Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia.
+XIGDUO XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue.
+Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with XIGDUO XR [see Drug Interactions (7.6)].
 
 ## 5.7 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier’s gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin.
-Cases have been reported in females and males.
+Reports of necrotizing fasciitis of the perineum (Fournier’s Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin.
+Cases have been reported in both females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 
 Patients treated with XIGDUO XR presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
@@ -124,34 +123,12 @@ Discontinue XIGDUO XR, closely monitor blood glucose levels, and provide appropr
 ## 5.8 Vitamin B12 Concentrations
 
 In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-This decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [see Adverse Reactions (6.1)].
-
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-In these patients, routine serum vitamin B12 measurements at 2- to 3-year intervals may be useful.
+Measure hematologic parameters on an annual basis and vitamin B12 at 2- to 3-year intervals in patients on XIGDUO XR and manage any abnormalities [see Adverse Reactions (6.1)].
 
 ## 5.9 Genital Mycotic Infections
 
 Dapagliflozin increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
-
-## 5.10 Increases in Low-Density Lipoprotein Cholesterol (LDL-C)
-
-Increases in LDL-C occur with dapagliflozin [see Adverse Reactions (6.1)].
-Monitor LDL-C and treat per standard of care after initiating XIGDUO XR.
-
-## 5.11 Bladder Cancer
-
-Across 22 clinical studies, newly diagnosed cases of bladder cancer were reported in 10/6045 patients (0.17%) treated with dapagliflozin and 1/3512 patient (0.03%) treated with placebo/comparator.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 4 cases with dapagliflozin and no cases with placebo/comparator.
-Bladder cancer risk factors and hematuria (a potential indicator of pre-existing tumors) were balanced between treatment arms at baseline.
-There were too few cases to determine whether the emergence of these events is related to dapagliflozin.
-
-There are insufficient data to determine whether dapagliflozin has an effect on pre-existing bladder tumors.
-Consequently, XIGDUO XR should not be used in patients with active bladder cancer.
-In patients with prior history of bladder cancer, the benefits of glycemic control versus unknown risks for cancer recurrence with XIGDUO XR should be considered.
-
-## 5.12 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with XIGDUO XR.

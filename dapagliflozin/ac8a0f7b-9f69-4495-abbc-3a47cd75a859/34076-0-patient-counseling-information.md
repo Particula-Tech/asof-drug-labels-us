@@ -13,7 +13,7 @@ Counsel patients against excessive alcohol intake while receiving XIGDUO XR [see
 
 Inform patients about the importance of regular testing of renal function and hematological parameters when receiving treatment with XIGDUO XR [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Instruct patients to inform their doctor that they are taking XIGDUO XR prior to any surgical or radiological procedure, as temporary discontinuation of XIGDUO XR may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
+Instruct patients to inform their healthcare provider that they are taking XIGDUO XR prior to any surgical or radiological procedure, as temporary discontinuation of XIGDUO XR may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 
 Hypotension
 
@@ -44,7 +44,7 @@ Inform patients that the incidence of hypoglycemia may be increased when XIGDUO 
 
 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 
-Inform patients that necrotizing infections of the perineum (Fournier’s gangrene) have occurred with dapagliflozin, a component of XIGDUO XR.
+Inform patients that necrotizing infections of the perineum (Fournier’s Gangrene) have occurred with dapagliflozin, a component of XIGDUO XR.
 Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.7)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
@@ -60,12 +60,8 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 
 Hypersensitivity Reactions
 
-Inform patients that serious hypersensitivity reactions (e.g., urticaria and angioedema) have been reported with the components of XIGDUO XR.
+Inform patients that serious hypersensitivity reactions (e.g., urticarial, anaphylactic reactions, and angioedema) have been reported with the components of XIGDUO XR.
 Advise patients to immediately report any signs or symptoms suggesting allergic reaction or angioedema, and to take no more of the drug until they have consulted prescribing physicians.
-
-Bladder Cancer
-
-Inform patients to promptly report any signs of macroscopic hematuria or other symptoms potentially related to bladder cancer.
 
 Pregnancy
 
@@ -88,9 +84,14 @@ Laboratory Tests
 
 Due to the mechanism of action of dapagliflozin, patients taking XIGDUO XR will test positive for glucose in their urine.
 
+Missed Dose
+
+If a dose is missed, advise patients to take it as soon as it is remembered unless it is almost time for the next dose, in which case patients should skip the missed dose and take the medicine at the next regularly scheduled time.
+Advise patients not to take two doses of XIGDUO XR at the same time.
+
 GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., a subsidiary of Merck KGaA of Darmstadt, Germany, licensed to Bristol-Myers Squibb Company.
 
-FARXIGA® is a trademark of the AstraZeneca group of companies.
+FARXIGA® is a registered trademark of the AstraZeneca group of companies.
 
 Distributed by:
 

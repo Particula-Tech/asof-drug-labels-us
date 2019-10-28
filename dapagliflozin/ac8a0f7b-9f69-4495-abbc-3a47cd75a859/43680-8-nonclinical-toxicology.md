@@ -21,7 +21,7 @@ There was no carcinogenicity or mutagenicity signal in animal studies, suggestin
 
 Dapagliflozin had no effects on mating, fertility, or early embryonic development in treated male or female rats at exposure multiples less than or equal to 1708-times and 998-times the maximum recommended human dose in males and females, respectively.
 
-Metformin hydrochloride
+Metformin HCl
 
 Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 and 1500 mg/kg/day, respectively.
 These doses are both approximately 4 times the maximum recommended human dose of 2000 mg based on body surface area comparisons.

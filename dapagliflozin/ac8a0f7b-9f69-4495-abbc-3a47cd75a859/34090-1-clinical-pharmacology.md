@@ -4,20 +4,21 @@
 
 XIGDUO XR
 
-XIGDUO XR combines two antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: dapagliflozin, a sodium-glucose cotransporter 2 (SGLT2) inhibitor, and metformin hydrochloride, a biguanide.
+XIGDUO XR combines two antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: dapagliflozin, a sodium-glucose cotransporter 2 (SGLT2) inhibitor, and metformin HCl, a biguanide.
 
 Dapagliflozin
 
 Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
 Dapagliflozin is an inhibitor of SGLT2.
 By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
+Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
+This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity.
 
-Metformin hydrochloride
+Metformin HCl
 
-Metformin improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
+Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or in healthy subjects, except in unusual circumstances [see Warnings and Precautions (5.6)], and does not cause hyperinsulinemia.
-With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
+With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
 
 ## 12.2 Pharmacodynamics
 
@@ -34,14 +35,12 @@ Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinar
 
 ### Cardiac Electrophysiology
 
-Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15 times the recommended dose) in a study of healthy subjects.
-In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50 times the recommended dose) dapagliflozin in healthy subjects.
+Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15-times the recommended maximum dose) in a study of healthy subjects.
+In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50-times the recommended maximum dose) of dapagliflozin in healthy subjects.
 
 ## 12.3 Pharmacokinetics
 
 XIGDUO XR
-
-XIGDUO XR combination tablets are considered to be bioequivalent to coadministration of corresponding doses of dapagliflozin (FARXIGA®) and metformin hydrochloride extended-release (GLUCOPHAGE® XR) administered together as individual tablets.
 
 The administration of XIGDUO XR in healthy subjects after a standard meal compared to the fasted state resulted in the same extent of exposure for both dapagliflozin and metformin extended-release.
 Compared to the fasted state, the standard meal resulted in 35% reduction and a delay of 1 to 2 hours in the peak plasma concentrations of dapagliflozin.
@@ -58,7 +57,7 @@ The absolute oral bioavailability of dapagliflozin following the administration 
 Administration of dapagliflozin with a high-fat meal decreases its Cmax by up to 50% and prolongs Tmax by approximately 1 hour, but does not alter AUC as compared with the fasted state.
 These changes are not considered to be clinically meaningful and dapagliflozin can be administered with or without food.
 
-Metformin hydrochloride
+Metformin HCl
 
 Following a single oral dose of metformin extended-release, Cmax is achieved with a median value of 7 hours and a range of 4 to 8 hours.
 The extent of metformin absorption (as measured by AUC) from the metformin extended-release tablet increased by approximately 50% when given with food.
@@ -71,7 +70,7 @@ Dapagliflozin
 Dapagliflozin is approximately 91% protein bound.
 Protein binding is not altered in patients with renal or hepatic impairment.
 
-Metformin hydrochloride
+Metformin HCl
 
 Distribution studies with extended-release metformin have not been conducted; however, the apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
 Metformin partitions into erythrocytes.
@@ -84,7 +83,7 @@ The metabolism of dapagliflozin is primarily mediated by UGT1A9; CYP-mediated me
 Dapagliflozin is extensively metabolized, primarily to yield dapagliflozin 3-O-glucuronide, which is an inactive metabolite.
 Dapagliflozin 3-O-glucuronide accounted for 61% of a 50 mg [14C]-dapagliflozin dose and is the predominant drug-related component in human plasma.
 
-Metformin hydrochloride
+Metformin HCl
 
 Intravenous single-dose studies in healthy subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion.
 
@@ -100,7 +99,7 @@ In urine, less than 2% of the dose is excreted as parent drug.
 In feces, approximately 15% of the dose is excreted as parent drug.
 The mean plasma terminal half-life (t½) for dapagliflozin is approximately 12.9 hours following a single oral dose of dapagliflozin 10 mg.
 
-Metformin hydrochloride
+Metformin HCl
 
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
@@ -112,12 +111,12 @@ In blood, the elimination half-life is approximately 17.6 hours, suggesting that
 
 Dapagliflozin
 
-At steady-state (20 mg once-daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 2.04-fold, and 3.03-fold higher, respectively, as compared to patients with type 2 diabetes with normal renal function.
-Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour glucose excretion.
-The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than in patients with type 2 diabetes with normal renal function.
+At steady-state (20 mg once daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 2.04-fold, and 3.03-fold higher, respectively, as compared to patients with type 2 diabetes with normal renal function.
+Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour urinary glucose excretion.
+The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than patients with type 2 diabetes with normal renal function.
 The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.3), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
-Metformin hydrochloride
+Metformin HCl
 
 In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
@@ -125,11 +124,11 @@ In patients with decreased renal function, the plasma and blood half-life of met
 
 Dapagliflozin
 
-In patients with mild and moderate hepatic impairment (Child-Pugh Classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, as compared to healthy matched control subjects following single-dose administration of 10 mg dapagliflozin.
+In patients with mild and moderate hepatic impairment (Child-Pugh classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, as compared to healthy matched control subjects following single-dose administration of 10 mg dapagliflozin.
 These differences were not considered to be clinically meaningful.
-In patients with severe hepatic impairment (Child-Pugh Class C), mean Cmax and AUC of dapagliflozin were up to 40% and 67% higher, respectively, as compared to healthy matched controls.
+In patients with severe hepatic impairment (Child-Pugh class C), mean Cmax and AUC of dapagliflozin were up to 40% and 67% higher, respectively, as compared to healthy matched controls.
 
-Metformin hydrochloride
+Metformin HCl
 
 No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
 
@@ -139,7 +138,7 @@ Dapagliflozin
 
 Based on a population pharmacokinetic analysis, age does not have a clinically meaningful effect on systemic exposures of dapagliflozin; thus, no dose adjustment is recommended.
 
-Metformin hydrochloride
+Metformin HCl
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
@@ -154,7 +153,7 @@ Dapagliflozin
 
 Based on a population pharmacokinetic analysis, gender does not have a clinically meaningful effect on systemic exposures of dapagliflozin; thus, no dose adjustment is recommended.
 
-Metformin hydrochloride
+Metformin HCl
 
 Metformin pharmacokinetic parameters did not differ significantly between healthy subjects and patients with type 2 diabetes when analyzed according to gender (males=19, females=16).
 Similarly, in controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin was comparable in males and females.
@@ -165,7 +164,7 @@ Dapagliflozin
 
 Based on a population pharmacokinetic analysis, race (White, Black, or Asian) does not have a clinically meaningful effect on systemic exposures of dapagliflozin; thus, no dose adjustment is recommended.
 
-Metformin hydrochloride
+Metformin HCl
 
 No studies of metformin pharmacokinetic parameters according to race have been performed.
 In controlled clinical studies of metformin in patients with type 2 diabetes, the antihyperglycemic effect was comparable in Whites (n=249), Blacks (n=51), and Hispanics (n=24).
@@ -184,16 +183,16 @@ Specific pharmacokinetic drug interaction studies with XIGDUO XR have not been p
 
 Dapagliflozin
 
-In in vitro studies, dapagliflozin and dapagliflozin 3-O-glucuronide neither inhibited CYP 1A2, 2C9, 2C19, 2D6, 3A4, nor induced CYP 1A2, 2B6, or 3A4.
+In in vitro studies, dapagliflozin and dapagliflozin 3-O-glucuronide neither inhibited CYP 1A2, 2C9, 2C19, 2D6, or 3A4, nor induced CYP 1A2, 2B6, or 3A4.
 Dapagliflozin is a weak substrate of the P-glycoprotein (P‑gp) active transporter, and dapagliflozin 3-O-glucuronide is a substrate for the OAT3 active transporter.
 Dapagliflozin or dapagliflozin 3-O-glucuronide did not meaningfully inhibit P-gp, OCT2, OAT1, or OAT3 active transporters.
 Overall, dapagliflozin is unlikely to affect the pharmacokinetics of concurrently administered medications that are P-gp, OCT2, OAT1, or OAT3 substrates.
 
 #### Effects of Other Drugs on Metformin
 
-Table 7 shows the effect of other coadministered drugs on metformin.
+Table 5 shows the effect of other coadministered drugs on metformin.
 
-Table 7: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+Table 5: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 | Coadministered Drug (Dose Regimen)All metformin and coadministered drugs were given as single doses. | Metformin(Dose Regimen) | Metformin |  |
 | --- | --- | --- | --- |
@@ -209,9 +208,9 @@ Table 7: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 #### Effects of Metformin on Other Drugs
 
-Table 8 shows the effect of metformin on other coadministered drugs.
+Table 6 shows the effect of metformin on other coadministered drugs.
 
-Table 8: Effect of Metformin on Coadministered Drug Systemic Exposure
+Table 6: Effect of Metformin on Coadministered Drug Systemic Exposure
 
 | ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively. in AUCAUC = AUC(INF) unless otherwise noted. | Change in Cmax |  |  |
 | --- | --- | --- | --- |
@@ -226,39 +225,39 @@ Table 8: Effect of Metformin on Coadministered Drug Systemic Exposure
 
 #### Effects of Other Drugs on Dapagliflozin
 
-Table 9 shows the effect of coadministered drugs on dapagliflozin.
+Table 7 shows the effect of coadministered drugs on dapagliflozin.
 No dose adjustments are recommended for dapagliflozin.
 
-Table 9: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
+Table 7: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
-| No dosing adjustments required for the following: |  |  |  |
-| --- | --- | --- | --- |
 | Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Dapagliflozin |  |
+| --- | --- | --- | --- |
 | ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively. in AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |  |  |
+| No dosing adjustments required for the following: |  |  |  |
 | Oral Antidiabetic Agents |  |  |  |
 | Metformin (1000 mg) | 20 mg | ↓1% | ↓7% |
 | Pioglitazone (45 mg) | 50 mg | 0% | ↑9% |
 | Sitagliptin (100 mg) | 20 mg | ↑8% | ↓4% |
 | Glimepiride (4 mg) | 20 mg | ↓1% | ↑1% |
 | Voglibose (0.2 mg three times daily) | 10 mg | ↑1% | ↑4% |
-| Cardiovascular Agents |  |  |  |
+| Other Medications |  |  |  |
 | Hydrochlorothiazide (25 mg) | 50 mg | ↑7% | ↓1% |
 | Bumetanide (1 mg) | 10 mg once daily for 7 days | ↑5% | ↑8% |
 | Valsartan (320 mg) | 20 mg | ↑2% | ↓12% |
 | Simvastatin (40 mg) | 20 mg | ↓1% | ↓2% |
 | Anti-infective Agent |  |  |  |
 | Rifampin (600 mg once daily for 6 days) | 10 mg | ↓22% | ↓7% |
-| Non-Steroidal Anti-inflammatory Agent |  |  |  |
+| Nonsteroidal Anti-inflammatory Agent |  |  |  |
 | Mefenamic Acid (loading dose of 500 mg followed by 14 doses of 250 mg every 6 hours) | 10 mg | ↑51% | ↑13% |
 
 #### Effects of Dapagliflozin on Other Drugs
 
-Table 10 shows the effect of dapagliflozin on other coadministered drugs.
+Table 8 shows the effect of dapagliflozin on other coadministered drugs.
 Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadministered drugs.
 
-Table 10: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
+Table 8: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
-| ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively.inAUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |  |  |
+| ChangeinAUCPercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively. | Change in Cmax |  |  |
 | --- | --- | --- | --- |
 | Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Coadministered Drug |  |
 | No dosing adjustments required for the following: |  |  |  |
@@ -267,7 +266,7 @@ Table 10: Effects of Dapagliflozin on the Systemic Exposures of Coadministered D
 | Pioglitazone (45 mg) | 50 mg | 0% | ↓7% |
 | Sitagliptin (100 mg) | 20 mg | ↑1% | ↓11% |
 | Glimepiride (4 mg) | 20 mg | ↑13% | ↑4% |
-| Cardiovascular Agents |  |  |  |
+| Other Medications |  |  |  |
 | Hydrochlorothiazide (25 mg) | 50 mg | ↓1% | ↓5% |
 | Bumetanide (1 mg) | 10 mg once daily for 7 days | ↑13% | ↑13% |
 | Valsartan (320 mg) | 20 mg | ↑5% | ↓6% |
