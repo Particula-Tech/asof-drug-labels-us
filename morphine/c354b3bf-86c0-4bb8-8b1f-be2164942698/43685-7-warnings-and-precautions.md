@@ -51,6 +51,10 @@ Overestimating the MS CONTIN dosage when converting patients from another opioid
 
 Accidental ingestion of even one dose of MS CONTIN, especially by children, can result in respiratory depression and death due to an overdose of morphine.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
+
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of MS CONTIN during pregnancy can result in withdrawal in the neonate.
@@ -132,7 +136,10 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including MS CONTIN.
+Do not abruptly discontinue MS CONTIN in a patient physically dependent on opioids.
+Rapid tapering of MS CONTIN in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
+
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including MS CONTIN.
 In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing MS CONTIN, gradually taper the dosage [see Dosage and Administration (2.4)].
