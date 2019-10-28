@@ -139,4 +139,4 @@ Distributed by Pfizer Labs Division of Pfizer, Inc. New York, NY 10017
 
 LAB-0703-1.0
 
-11/2013
+Revised: 11/2013
