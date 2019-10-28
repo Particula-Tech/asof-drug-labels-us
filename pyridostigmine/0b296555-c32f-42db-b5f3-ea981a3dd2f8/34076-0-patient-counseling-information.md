@@ -22,7 +22,7 @@ The following information and advice should be discussed with personnel when Pyr
   Based on the animal studies, it is thought that any potential benefits from use of pyridostigmine bromide occur only if:
   - (1)It is taken within 8 hours before, but not right before, exposure to the nerve agent soman.
     If it is taken right before (when the nerve gas attack alarm is given) or during nerve agent exposure, it may not work and may make the effects of soman worse.
-  - (2)Atropine and 2-PAM are used when symptoms of nerve agent poisoning occur.
+  - (2) Atropine and 2-PAM are used when symptoms of nerve agent poisoning occur.
     The two antidotes are part of the ATNAA (Antidote Treatment – Nerve Agent Autoinjector).
     See Dosage and Administration (2).
 
@@ -34,7 +34,7 @@ The following information and advice should be discussed with personnel when Pyr
   The dose must not be doubled if a dose has been missed.
 - There is no known advantage to taking extra pyridostigmine bromide right before soman exposure.
 - No further pyridostigmine bromide should be taken after nerve agent exposure has occurred, instead:
-- Persons experiencing most or all of the MILD symptoms of nerve agent poisoning (runny nose; watery eyes; small, pinpoint pupils; eye pain; blurred vision; drooling and excessive sweating; cough; chest tightness; rapid breathing; diarrhea; increased urination; confusion; drowsiness; weakness; headache; nausea, vomiting, and/or abdominal pain; slow or fast heart rate; and/or abnormally low or high blood pressure) should IMMEDIATELY AVOID INHALATION (hold their breath) AND PUT ON THEIR PROTECTIVE MASK.
+- Persons experiencing most or all of the MILD symptoms of nerve agent poisoning (runny nose; watery eyes; small, pinpoint pupils; eye pain; blurred vision; drooling and excessive sweating; cough; chest tightness; rapid breathing; diarrhea; increased urination; confusion; drowsiness; weakness; headache; nausea, vomiting, and/ or abdominal pain; slow or fast heart rate; and/or abnormally low or high blood pressure) should IMMEDIATELY AVOID INHALATION (hold their breath) AND PUT ON THEIR PROTECTIVE MASK.
   Then atropine and 2 PAM (one ATNAA) must be administered.
   See Dosage and Administration (2).
   Personnel should contact their unit medical officer if adverse reactions from pyridostigmine bromide continue and limit duty performance.
@@ -96,7 +96,7 @@ However, the FDA may review any data collected by DoD for the purpose of evaluat
 
 ## 17.6 Questions and Requests for Information
 
-Questions about personnel rights and welfare should be directed to the unit medical officer, or e-mailed to usarmy.detrick.medcom-usammda.mbx.usamrmc-regulatory-affairs@mail.mil.
+Questions about personnel rights and welfare should be directed to the unit medical officer, or e-mailed to usamrmcregulatoryaffairs@mail.mil.
 
 Personnel can receive information about pyridostigmine bromide from unit medical officers or medics.
 Questions about pyridostigmine bromide can also be e-mailed directly to the US Army Medical Research and Materiel Command at address usarmy.detrick.medcom-usammda.mbx.usamrmc-regulatory-affairs@mail.mil.

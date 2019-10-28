@@ -34,7 +34,7 @@ The groups given pyridostigmine bromide as well as atropine and 2 PAM showed inc
 The two dose levels of pyridostigmine bromide showed similar effectiveness.
 
 Additional studies in rhesus monkeys and guinea pigs also showed effectiveness of pyridostigmine bromide (in the presence of post-soman administration of atropine and 2-PAM).
-The magnitude of effect in guinea pigs was smaller than that in monkeys (soman LD50 increased 4 to 7 fold compared to untreated control and 2- to 4-fold compared to atropine/2-PAM alone).
+The magnitude of effect in guinea pigs was smaller than that in monkeys (soman LD50 increased 4 to 7 fold compared to untreated control and 2- to 4-fold compared to atropine/ 2-PAM alone).
 
 Pyridostigmine bromide produced only small and inconsistent effects in studies in rats, mice, and rabbits.
 It is thought that the effect of pyridostigmine bromide in rats and mice is masked by high blood levels of the enzyme carboxylesterase, which eliminates soman from blood and makes those species highly resistant to soman.
