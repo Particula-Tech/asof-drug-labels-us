@@ -48,16 +48,20 @@ Overestimating the tramadol hydrochloride dosage when converting patients from a
 
 Accidental ingestion of even one dose of tramadol hydrochloride, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+
 ## 5.4 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
 Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
-Based upon post-marketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
+Based upon postmarketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
 Furthermore, children with obstructive sleep apnea who are treated with opioids for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to their respiratory depressant effect.
 Because of the risk of life-threatening respiratory depression and death:
 
 - Tramadol hydrochloride is contraindicated for all children younger than 12 years of age [see Contraindications (4)].
-- Tramadol hydrochloride is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+- Tramadol hydrochloride is contraindicated for postoperative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 - Avoid the use of tramadol hydrochloride in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
 - As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose [see Use in Specific Populations (8.4), Overdosage (10)].
@@ -72,8 +76,7 @@ For this reason, breastfeeding is not recommended during treatment with tramadol
 CYP2D6 Genetic Variability: Ultra-rapid Metabolizer
 
 Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
-The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1% to 10% for Whites (European, North American), 3% to 4% for Blacks (African Americans), 1% to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e.
-Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
+The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1% to 10% for Whites (European, North American), 3% to 4% for Blacks (African Americans), 1% to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
 This rapid conversion results in higher than expected serum M1 levels.
 Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
@@ -130,7 +133,7 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 ## 5.8 Serotonin Syndrome Risk
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported with the use of tramadol, particularly during concomitant use with serotonergic drugs.
-Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
 This may occur within the recommended dosage range.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -140,7 +143,7 @@ Discontinue tramadol hydrochloride if serotonin syndrome is suspected.
 ## 5.9 Increased Risk of Seizure
 
 Seizures have been reported in patients receiving tramadol hydrochloride within the recommended dosage range.
-Spontaneous post-marketing reports indicate that seizure risk is increased with doses of tramadol hydrochloride above the recommended range.
+Spontaneous postmarketing reports indicate that seizure risk is increased with doses of tramadol hydrochloride above the recommended range.
 
 Concomitant use of tramadol hydrochloride increases the seizure risk in patients taking [see Drug Interactions (7)]:
 
@@ -175,11 +178,11 @@ The information available does not identify any particular opioids as being more
 
 The use of tramadol hydrochloride in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease:
+Patients with Chronic Pulmonary Disease
 
 Tramadol hydrochloride-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of tramadol hydrochloride [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients:
+Elderly, Cachectic, or Debilitated Patients
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
@@ -221,11 +224,12 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 ## 5.17 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue tramadol hydrochloride in a patient physically dependent on opioids.
+When discontinuing tramadol hydrochloride in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of tramadol in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing tramadol hydrochloride in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue tramadol hydrochloride in these patients [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including tramadol hydrochloride.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.18 Driving and Operating Machinery
 

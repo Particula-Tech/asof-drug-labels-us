@@ -17,8 +17,8 @@ Important information about tramadol hydrochloride tablets:
 
 - Never give anyone else your tramadol hydrochloride tablets.
   They could die from taking it.
-  Store tramadol hydrochloride tablets away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away tramadol hydrochloride tablets is against the law.
+- Store tramadol hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 
 Important Information Guiding Use in Pediatric Patients:
 
@@ -51,28 +51,24 @@ Tell your healthcare provider if you are:
 
 When taking tramadol hydrochloride tablets:
 
-Do not change your dose.
-Take tramadol hydrochloride tablets exactly as prescribed by your healthcare provider.
-Use the lowest dose possible for the shortest time needed.
-
-Take your prescribed dose as indicated by your healthcare provider.
-The maximum dosage is 1 or 2 tablets every 4 to 6 hours, as needed for pain relief.
-Do not take more than your prescribed dose and do not take more than 8 tablets per day.
-If you miss a dose, take your next dose at your usual time.
-
-Call your healthcare provider if the dose you are taking does not control your pain.
-
-If you have been taking tramadol hydrochloride tablets regularly, do not stop taking tramadol hydrochloride tablets without talking to your healthcare provider.
-
-After you stop taking tramadol hydrochloride tablets, ask your pharmacist how to dispose of any unused tablets.
+- Do not change your dose.
+  Take tramadol hydrochloride tablets exactly as prescribed by your healthcare provider.
+  Use the lowest dose possible for the shortest time needed.
+- Take your prescribed dose as indicated by your healthcare provider.
+  The maximum dosage is 1 or 2 tablets every 4 to 6 hours, as needed for pain relief.
+  Do not take more than your prescribed dose and do not take more than 8 tablets per day.
+  If you miss a dose, take your next dose at your usual time.
+- Call your healthcare provider if the dose you are taking does not control your pain.
+- If you have been taking tramadol hydrochloride tablets regularly, do not stop taking tramadol hydrochloride tablets without talking to your healthcare provider.
+- Dispose of expired, unwanted, or unused tramadol hydrochloride tablets by taking your drug to an authorized Drug Enforcement Administration (DEA)-registered collector or drug take-back program.
+  If one is not available, you can dispose of tramadol hydrochloride tablets by mixing the product with dirt, cat litter, or coffee grounds; placing the mixture in a sealed plastic bag, and throwing the bag in your trash.
 
 While taking tramadol hydrochloride tablets DO NOT:
 
-Drive or operate heavy machinery, until you know how tramadol hydrochloride tablets affect you.
-Tramadol hydrochloride tablets can make you sleepy, dizzy, or lightheaded.
-
-Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
-Using products containing alcohol during treatment with tramadol hydrochloride tablets may cause you to overdose and die.
+- Drive or operate heavy machinery, until you know how tramadol hydrochloride tablets affect you.
+  Tramadol hydrochloride tablets can make you sleepy, dizzy, or lightheaded.
+- Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
+  Using products containing alcohol during treatment with tramadol hydrochloride tablets may cause you to overdose and die.
 
 The possible side effects of tramadol hydrochloride tablets:
 
@@ -101,6 +97,6 @@ Amneal Pharmaceuticals LLC
 Glasgow, KY 42141
 
 Rev.
-04-2019-02
+10-2019-03
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

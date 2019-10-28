@@ -46,7 +46,7 @@ Table 1: Cumulative Incidence of Adverse Reactions for Tramadol Hydrochloride in
 | Diarrhea | 5% | 6% | 10% |
 | 1 “CNS Stimulation” is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional lability and hallucinations |  |  |  |
 
-Incidence 1% to less than 5% possibly causally related
+Incidence 1% to Less than 5% Possibly Causally Related
 
 The following lists adverse reactions that occurred with an incidence of 1% to less than 5% in clinical trials, and for which the possibility of a causal relationship with tramadol hydrochloride exists.
 
@@ -66,9 +66,9 @@ Special Senses: Visual disturbance.
 
 Urogenital: Menopausal symptoms, Urinary frequency, Urinary retention.
 
-Incidence less than 1%, possibly causally related
+Incidence Less than 1%, Possibly Causally Related
 
-The following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials of tramadol and/or reported in post-marketing experience with tramadol-containing products.
+The following lists adverse reactions that occurred with an incidence of less than 1% in clinical trials of tramadol and/or reported in postmarketing experience with tramadol-containing products.
 
 Body as a Whole: Accidental injury, Allergic reaction, Anaphylaxis, Death, Suicidal tendency, Weight loss, Serotonin syndrome (mental status change, hyperreflexia, fever, shivering, tremor, agitation, diaphoresis, seizures and coma).
 
@@ -84,9 +84,9 @@ Special Senses: Dysgeusia.
 
 Urogenital: Dysuria, Menstrual disorder.
 
-Other adverse experiences, causal relationship unknown
+Other Adverse Experiences, Causal Relationship Unknown
 
-A variety of other adverse events were reported infrequently in patients taking tramadol hydrochloride during clinical trials and/or reported in post-marketing experience.
+A variety of other adverse events were reported infrequently in patients taking tramadol hydrochloride during clinical trials and/or reported in postmarketing experience.
 A causal relationship between tramadol hydrochloride and these events has not been determined.
 However, the most significant events are listed below as alerting information to the physician.
 

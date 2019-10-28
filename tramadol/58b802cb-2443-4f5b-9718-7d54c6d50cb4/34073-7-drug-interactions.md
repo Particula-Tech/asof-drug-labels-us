@@ -22,7 +22,7 @@ Table 2: Clinically Significant Drug Interactions with Tramadol Hydrochloride
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue tramadol hydrochloride immediately if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome [see Warnings and Precautions (5.9)] or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.3)]. |
 | Intervention: | Do not use tramadol hydrochloride in patients taking MAOIs or within 14 days of stopping such treatment. |
@@ -41,8 +41,8 @@ Table 2: Clinically Significant Drug Interactions with Tramadol Hydrochloride
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
 | Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when tramadol hydrochloride is used concomitantly with anticholinergic drugs. |
 | Digoxin |  |
-| Clinical Impact: | Post-marketing surveillance of tramadol has revealed rare reports of digoxin toxicity. |
+| Clinical Impact: | Postmarketing surveillance of tramadol has revealed rare reports of digoxin toxicity. |
 | Intervention: | Follow patients for signs of digoxin toxicity and adjust dosage of digoxin as needed. |
 | Warfarin |  |
-| Clinical Impact: | Post-marketing surveillance of tramadol has revealed rare reports of alteration of warfarin effect, including elevation of prothrombin times. |
+| Clinical Impact: | Postmarketing surveillance of tramadol has revealed rare reports of alteration of warfarin effect, including elevation of prothrombin times. |
 | Intervention: | Monitor the prothrombin time of patients on warfarin for signs of an interaction and adjust the dosage of warfarin as needed. |
