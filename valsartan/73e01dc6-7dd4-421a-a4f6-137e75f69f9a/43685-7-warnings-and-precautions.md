@@ -2,8 +2,7 @@
 
 ## 5.1 Fetal Toxicity
 
-### Pregnancy Category D
-
+Valsartan tablets can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
@@ -15,12 +14,11 @@ Excessive hypotension was rarely seen (0.1%) in patients with uncomplicated hype
 In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur.
 This condition should be corrected prior to administration of valsartan tablets, or the treatment should start under close medical supervision.
 
-Caution should be observed when initiating therapy in patients with heart failure or post-myocardial infarction patients.
 Patients with heart failure or post-myocardial infarction patients given valsartan tablets commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed.
 In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients.
-In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
+In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
 
-If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
+If excessive hypotension occurs, place the patient in the supine position and, if necessary, give intravenous normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
 ## 5.3 Impaired Renal Function

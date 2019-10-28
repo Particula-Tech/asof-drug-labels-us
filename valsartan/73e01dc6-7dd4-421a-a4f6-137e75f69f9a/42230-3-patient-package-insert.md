@@ -10,8 +10,7 @@ If you have any questions about valsartan tablets, ask your doctor or pharmacist
 What is the most important information I should know about valsartan tablets?
 
 Valsartan tablets can cause harm or death to an unborn baby.
-Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
-If you get pregnant while taking valsartan tablets, tell your doctor right away.
+Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.If you get pregnant while taking valsartan tablets, tell your doctor right away.
 
 What are valsartan tablets?
 
@@ -52,8 +51,8 @@ Tell your doctor about all your medical conditions including whether you:
 - •are pregnant or planning to become pregnant.
   See “What is the most important information I should know about valsartan tablets?”
 - •are breastfeeding.
-  It is not known if valsartan passes into your breast milk.
-  You and your doctor should decide if you will take valsartan tablets or breastfeed, but not both.
+  It is not known if valsartan passes into your breast milk or affects your breastfed baby or milk production.
+  Do not breastfeed while you are taking valsartan tablets.
   Talk with your doctor about the best way to feed your baby if you take valsartan tablets.
 - •have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
@@ -163,7 +162,7 @@ This leaflet summarizes the most important information about valsartan tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about valsartan tablets that is written for health professionals.
 
-For more information about valsartan tablets, ask your pharmacist or doctor, or call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information about valsartan tablets, ask your pharmacist or doctor, or call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in valsartan tablets?
 
@@ -174,8 +173,8 @@ The 160 mg and 320 mg tablets also contain black iron oxide.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75061224
+75069061
 
-Revised: 4/2017 MX:VALS:R10p
+Revised: 8/2019 MX:VALS:R11p/MX:PL:VALS:R10p
