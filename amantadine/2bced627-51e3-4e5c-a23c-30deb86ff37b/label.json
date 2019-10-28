@@ -5,18 +5,20 @@
   "inn": "amantadine",
   "labeler": "Vertical Pharmaceuticals, LLC",
   "package_ndcs": [
-    "68025-075-07",
-    "68025-075-14",
+    "68025-074-62",
     "68025-075-30",
     "68025-075-90",
-    "68025-076-07",
-    "68025-076-14",
     "68025-076-30",
     "68025-076-90",
     "68025-077-30",
     "68025-077-90"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "amantadine",
+      "name": "Osmolex ER"
+    },
     {
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "amantadine",

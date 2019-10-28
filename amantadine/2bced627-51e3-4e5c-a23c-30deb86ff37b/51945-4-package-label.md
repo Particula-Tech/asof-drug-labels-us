@@ -24,16 +24,4 @@ NDC 68025-077-90 Osmolex™ ER 258 mg 90 Tablets Bottle Label
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 68025-075-07 Osmolex™ ER 129 mg 7 Tablets Sample Blister Pack
-
-# PRINCIPAL DISPLAY PANEL
-
-NDC 68025-075-14 Osmolex™ ER 129 mg 14 Tablets Sample Carton
-
-# PRINCIPAL DISPLAY PANEL
-
-NDC 68025-076-07 Osmolex™ ER 193 mg 7 Tablets Sample Blister Pack
-
-# PRINCIPAL DISPLAY PANEL
-
-NDC 68025-076-14 Osmolex™ ER 193 mg 14 Tablets Sample Carton
+NDC 68025-074-62 Osmolex™ ER 322 mg Dosing Kit

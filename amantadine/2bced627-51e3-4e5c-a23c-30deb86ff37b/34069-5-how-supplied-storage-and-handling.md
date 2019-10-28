@@ -8,15 +8,27 @@ OSMOLEX ER is available as extended-release tablets in the following configurati
 
 Round, biconvex, white coated tablets, imprinted on one side with a black “VP” over “075”
 
-- Unit-dose cards of 10: NDC 68025-075-11
 - Bottles of 30: NDC 68025-075-30
-- Bottles of 90: NDC 68025-075-90193 mg tablets:Round, biconvex, green coated tabled, imprinted on one side with a black “VP” over “076”
-- Unit-dose cards of 10: NDC 68025-076-11
+- Bottles of 90: NDC 68025-075-90
+
+193 mg tablets:
+
+Round, biconvex, green coated tabled, imprinted on one side with a black “VP” over “076”
+
 - Bottles of 30: NDC 68025-076-30
-- Bottles of 90: NDC 68025-076-90258 mg tablets:Round, biconvex, blue coated tablets, imprinted on one side with a black “VP” over “077”
-- Unit-dose cards of 10: NDC 68025-077-11
+- Bottles of 90: NDC 68025-076-90
+
+258 mg tablets:
+
+Round, biconvex, blue coated tablets, imprinted on one side with a black “VP” over “077”
+
 - Bottles of 30: NDC 68025-077-30
+
 - Bottles of 90: NDC 68025-077-90
+
+322 mg dosing kit:
+
+- Dosing kit containing 2 bottles of 30 tablets each; NDC 68025-074-62 (1 bottle of 129 mg tablets and 1 bottle of 193 mg tablets)
 
 ## 16.2 Storage and Handling
 
