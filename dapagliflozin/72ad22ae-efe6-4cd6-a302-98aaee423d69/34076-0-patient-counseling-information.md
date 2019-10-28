@@ -7,11 +7,6 @@ Hypotension
 Inform patients that symptomatic hypotension may occur with FARXIGA and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.1)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
-Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
-
-Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
-
 Ketoacidosis
 
 Inform patients that ketoacidosis is a serious life-threatening condition.
@@ -32,8 +27,13 @@ Advise them to seek medical advice promptly if such symptoms occur [see Warnings
 
 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 
-Inform patients that necrotizing infections of the perineum (Fournier’s gangrene) have occurred with FARXIGA.
+Inform patients that necrotizing infections of the perineum (Fournier’s Gangrene) have occurred with FARXIGA.
 Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.6)].
+
+Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
+
+Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis)
 
@@ -43,12 +43,8 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 
 Hypersensitivity Reactions
 
-Inform patients that serious hypersensitivity reactions (e.g., urticaria and angioedema) have been reported with FARXIGA.
+Inform patients that serious hypersensitivity reactions (e.g., urticarial, anaphylactic reactions, and angioedema) have been reported with FARXIGA.
 Advise patients to immediately report any signs or symptoms suggesting allergic reaction or angioedema, and to take no more of the drug until they have consulted prescribing physicians.
-
-Bladder Cancer
-
-Inform patients to promptly report any signs of macroscopic hematuria or other symptoms potentially related to bladder cancer.
 
 Pregnancy
 
@@ -62,3 +58,8 @@ Advise patients that use of FARXIGA is not recommended while breastfeeding [see 
 Laboratory Tests
 
 Due to its mechanism of action, patients taking FARXIGA will test positive for glucose in their urine.
+
+Missed Dose
+
+If a dose is missed, advise patients to take it as soon as it is remembered unless it is almost time for the next dose, in which case patients should skip the missed dose and take the medicine at the next regularly scheduled time.
+Advise patients not to take two doses of FARXIGA at the same time.

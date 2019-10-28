@@ -7,9 +7,9 @@
 Based on animal data showing adverse renal effects, FARXIGA is not recommended during the second and third trimesters of pregnancy.
 
 Limited data with FARXIGA in pregnant women are not sufficient to determine drug-associated risk for major birth defects or miscarriage.
-There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
-In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose [see Data].
+In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose (see Data).
 
 The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a HbA1c greater than 7% and has been reported to be as high as 20 to 25% in women with HbA1c greater than 10%.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -17,7 +17,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo-fetal risk
+Disease-associated maternal and/or embryofetal risk
 
 Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
@@ -36,7 +36,7 @@ Dose-related reductions in pup body weights were observed at greater or equal to
 No adverse effects on developmental endpoints were noted at 1 mg/kg/day (19-times the 10 mg clinical dose, based on AUC).
 These outcomes occurred with drug exposure during periods of renal development in rats that corresponds to the late second and third trimester of human development.
 
-In embryo-fetal development studies in rats and rabbits, dapagliflozin was administered throughout organogenesis, corresponding to the first trimester of human pregnancy.
+In embryofetal development studies in rats and rabbits, dapagliflozin was administered throughout organogenesis, corresponding to the first trimester of human pregnancy.
 In rats, dapagliflozin was neither embryolethal nor teratogenic at doses up to 75 mg/kg/day (1441-times the 10 mg clinical dose, based on AUC).
 Dose related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, equal to or greater than 150 mg/kg (more than 2344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity.
 No developmental toxicities were observed in rabbits at doses up to 180 mg/kg/day (1191-times the 10 mg clinical dose, based on AUC).
@@ -46,8 +46,8 @@ No developmental toxicities were observed in rabbits at doses up to 180 mg/kg/da
 Risk Summary
 
 There is no information regarding the presence of dapagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
-Dapagliflozin is present in the milk of lactating rats [see Data].
-However, due to species-specific differences in lactation physiology, the clinical relevance of these data are not clear.
+Dapagliflozin is present in the milk of lactating rats (see Data).
+However, due to species specific differences in lactation physiology, the clinical relevance of these data are not clear.
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in breastfed infants, advise women that use of FARXIGA is not recommended while breastfeeding.
@@ -64,19 +64,19 @@ Safety and effectiveness of FARXIGA in pediatric patients under 18 years of age 
 ## 8.5 Geriatric Use
 
 No FARXIGA dosage change is recommended based on age.
-A total of 1424 (24%) of the 5936 FARXIGA-treated patients were 65 years and older and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical safety and efficacy studies of FARXIGA.
+A total of 1424 (24%) of the 5936 FARXIGA-treated patients were 65 years and older and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical studies assessing the efficacy of FARXIGA in improving glycemic control.
 After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older.
-In patients ≥65 years of age, a higher proportion of patients treated with FARXIGA had adverse reactions related to volume depletion and renal impairment or failure compared to patients treated with placebo [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+In patients ≥65 years of age, a higher proportion of patients treated with FARXIGA had adverse reactions of hypotension [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
 ## 8.6 Renal Impairment
 
-In clinical studies, FARXIGA was associated with increases in serum creatinine and decreases in eGFR [see Adverse Reactions (6.1)].
-Use of FARXIGA is not recommended when eGFR is less than 45 mL/min/1.73 m2[see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Adverse Reactions (6.1)] and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
+Use of FARXIGA is not recommended when eGFR is less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.3) and Warnings and Precautions (5.3)] and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
 
-FARXIGA was evaluated in two studies that included patients with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2[see Clinical Studies (14.7)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively).
+FARXIGA was evaluated in two glycemic control studies that included patients with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2 [see Clinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively).
 The safety profile of FARXIGA in the study of patients with an eGFR of 45 to less than 60 mL/min/1.73 m2 was similar to the general population of patients with type 2 diabetes.
 Although patients in the FARXIGA arm had reduction in eGFR compared to the placebo arm, eGFR generally returned towards baseline after treatment discontinuation.
-In the study of patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving FARXIGA experienced bone fractures and compared to none receiving placebo [see Adverse Reactions (6.1)].
+Patients with renal impairment using FARXIGA for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury.
+In the study of patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving FARXIGA experienced bone fractures compared to none receiving placebo.
 
 ## 8.7 Hepatic Impairment
 

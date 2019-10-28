@@ -5,6 +5,8 @@
 Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
 Dapagliflozin is an inhibitor of SGLT2.
 By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
+Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
+This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity.
 
 ## 12.2 Pharmacodynamics
 
@@ -19,8 +21,8 @@ Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinar
 
 ### Cardiac Electrophysiology
 
-Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15 times the recommended maximum dose) in a study of healthy subjects.
-In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50 times the recommended maximum dose) of dapagliflozin in healthy subjects.
+Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15-times the recommended maximum dose) in a study of healthy subjects.
+In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50-times the recommended maximum dose) of dapagliflozin in healthy subjects.
 
 ## 12.3 Pharmacokinetics
 
@@ -55,10 +57,10 @@ The mean plasma terminal half-life (t½) for dapagliflozin is approximately 12.9
 
 #### Renal Impairment
 
-At steady state (20 mg once-daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 2.04-fold, and 3.03-fold higher, respectively, as compared to patients with type 2 diabetes with normal renal function.
+At steady-state (20 mg once daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 2.04-fold, and 3.03-fold higher, respectively, as compared to patients with type 2 diabetes with normal renal function.
 Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour urinary glucose excretion.
 The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than patients with type 2 diabetes with normal renal function.
-The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Studies (14.7)].
+The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Studies (14)].
 
 #### Hepatic Impairment
 
@@ -85,10 +87,10 @@ Overall, dapagliflozin is unlikely to affect the pharmacokinetics of concurrentl
 
 #### Effects of Other Drugs on Dapagliflozin
 
-Table 6 shows the effect of coadministered drugs on the pharmacokinetics of dapagliflozin.
+Table 4 shows the effect of coadministered drugs on the pharmacokinetics of dapagliflozin.
 No dose adjustments are recommended for dapagliflozin.
 
-Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
+Table 4: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
 | Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | --- | --- | --- | --- |
@@ -113,10 +115,10 @@ Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
 #### Effects of Dapagliflozin on Other Drugs
 
-Table 7 shows the effect of dapagliflozin on other coadministered drugs.
+Table 5 shows the effect of dapagliflozin on other coadministered drugs.
 Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadministered drugs.
 
-Table 7: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
+Table 5: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
 | Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | --- | --- | --- | --- |

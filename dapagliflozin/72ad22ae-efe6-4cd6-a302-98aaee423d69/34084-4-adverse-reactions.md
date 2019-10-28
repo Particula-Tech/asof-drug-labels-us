@@ -4,22 +4,20 @@ The following important adverse reactions are described below and elsewhere in t
 
 - •Hypotension [see Warnings and Precautions (5.1)]
 - •Ketoacidosis [see Warnings and Precautions (5.2)]
-- •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
+- •Acute Kidney Injury [see Warnings and Precautions (5.3)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.6)]
 - •Genital Mycotic Infections [see Warnings and Precautions (5.7)]
-- •Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.8)]
-- •Bladder Cancer [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-### Pool of 12 Placebo-Controlled Studies for FARXIGA 5 and 10 mg
+### Pool of 12 Placebo-Controlled Studies for FARXIGA 5 and 10 mg for Glycemic Control
 
 The data in Table 1 is derived from 12 placebo-controlled studies ranging from 12 to 24 weeks.
-In 4 studies FARXIGA was used as monotherapy, and in 8 studies FARXIGA was used as add-on to background antidiabetic therapy or as combination therapy with metformin [see Clinical Studies (14)].
+In 4 studies FARXIGA was used as monotherapy, and in 8 studies FARXIGA was used as add-on to background antidiabetic therapy or as combination therapy with metformin [see Clinical Studies (14.1)].
 
 These data reflect exposure of 2338 patients to FARXIGA with a mean exposure duration of 21 weeks.
 Patients received placebo (N=1393), FARXIGA 5 mg (N=1145), or FARXIGA 10 mg (N=1193) once daily.
@@ -50,7 +48,7 @@ Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 | Discomfort with urination | 0.7 | 1.6 | 2.1 |
 | Pain in extremity | 1.4 | 2.0 | 1.7 |
 
-### Pool of 13 Placebo-Controlled Studies for FARXIGA 10 mg
+### Pool of 13 Placebo-Controlled Studies for FARXIGA 10 mg for Glycemic Control
 
 FARXIGA 10 mg was also evaluated in a larger placebo-controlled study pool.
 This pool combined 13 placebo-controlled studies, including 3 monotherapy studies, 9 add-on to background antidiabetic therapy studies, and an initial combination with metformin study.
@@ -63,114 +61,51 @@ Baseline renal function was normal or mildly impaired in 88% of patients and mod
 ### Volume Depletion
 
 FARXIGA causes an osmotic diuresis, which may lead to reductions in intravascular volume.
-Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) are shown in Table 2 for the 12-study and 13-study, short-term, placebo-controlled pools [see Warnings and Precautions (5.1)].
+Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) for the 12-study and 13-study, short-term, placebo-controlled pools and for the DECLARE study are shown in Table 2 [see Warnings and Precautions (5.1)].
 
 Table 2: Adverse Reactions of Volume DepletionVolume depletion includes reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension. in Clinical Studies with FARXIGA
 
-|  | Placebo | FARXIGA 5 mg | FARXIGA 10 mg | Placebo | FARXIGA 10 mg |
-| --- | --- | --- | --- | --- | --- |
-|  | Pool of 12 Placebo-Controlled Studies |  |  | Pool of 13 Placebo-Controlled Studies |  |
-| Overall population N (%) | N=13935 (0.4%) | N=11457 (0.6%) | N=11939 (0.8%) | N=229517 (0.7%) | N=236027 (1.1%) |
-| Patient Subgroup n (%) |  |  |  |  |  |
-| Patients on loop diuretics | n=55 1 (1.8%) | n=40 0 | n=31 3 (9.7%) | n=267 4 (1.5%) | n=236 6 (2.5%) |
-| Patients with moderate renal impairment with eGFR ≥30 and <60 mL/min/1.73 m2 | n=107 2 (1.9%) | n=107 1 (0.9%) | n=89 1 (1.1%) | n=268 4 (1.5%) | n=265 5 (1.9%) |
-| Patients ≥65 years of age | n=276 1 (0.4%) | n=216 1 (0.5%) | n=204 3 (1.5%) | n=711 6 (0.8%) | n=665 11 (1.7%) |
-
-### Impairment of Renal Function
-
-Use of FARXIGA was associated with increases in serum creatinine and decreases in eGFR (see Table 3).
-In patients with normal or mildly impaired renal function at baseline, serum creatinine and eGFR returned to baseline values at Week 24.
-Renal-related adverse reactions, including renal failure and blood creatinine increase, were more frequent in patients treated with FARXIGA (see Table 4).
-Elderly patients and patients with impaired renal function were more susceptible to these adverse reactions (see Table 4).
-Sustained decreases in eGFR were seen in patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2).
-
-Table 3: Changes in Serum Creatinine and eGFR Associated with FARXIGA in the Pool of 12 Placebo-Controlled Studies and Moderate Renal Impairment Studies
-
-|  |  | Pool of 12 Placebo-Controlled Studies |  |  |
-| --- | --- | --- | --- | --- |
-|  |  | Placebo N=1393 | FARXIGA 5 mg N=1145 | FARXIGA 10 mg N=1193 |
-| Baseline Mean | Serum Creatinine (mg/dL) | 0.853 | 0.860 | 0.847 |
-| eGFR (mL/min/1.73 m2) | 86.0 | 85.3 | 86.7 |  |
-| Week 1 Change | Serum Creatinine (mg/dL) | −0.003 | 0.029 | 0.041 |
-| eGFR (mL/min/1.73 m2) | 0.4 | −2.9 | −4.1 |  |
-| Week 24 Change | Serum Creatinine (mg/dL) | −0.005 | −0.001 | 0.001 |
-| eGFR (mL/min/1.73 m2) | 0.8 | 0.8 | 0.3 |  |
-|  |  | Moderate Renal Impairment Study(eGFR 30 to less than 60 mL/min/1.73 m2) |  |  |
-|  |  | Placebo N=84 | FARXIGA 5 mg N=83 | FARXIGA 10 mg N=85 |
-| Baseline Mean | Serum Creatinine (mg/dL) | 1.46 | 1.53 | 1.52 |
-| eGFR (mL/min/1.73 m2) | 45.6 | 44.2 | 43.9 |  |
-| Week 1 Change | Serum Creatinine (mg/dL) | 0.01 | 0.13 | 0.18 |
-| eGFR (mL/min/1.73 m2) | 0.5 | −3.8 | −5.5 |  |
-| Week 24 Change | Serum Creatinine (mg/dL) | 0.02 | 0.08 | 0.16 |
-| eGFR (mL/min/1.73 m2) | 0.03 | −4.0 | −7.4 |  |
-| Week 52 Change | Serum Creatinine (mg/dL) | 0.10 | 0.06 | 0.15 |
-| eGFR (mL/min/1.73 m2) | −2.6 | −4.2 | −7.3 |  |
-|  |  | Moderate Renal Impairment Study(eGFR 45 to less than 60 mL/min/1.73 m2) |  |  |
-|  |  | PlaceboN=161 | FARXIGA 10 mgN=160 |  |
-| Baseline Mean | Serum Creatinine (mg/dL) | 1.25 | 1.25 |  |
-| eGFR (mL/min/1.73 m2) | 53.6 | 53.3 |  |  |
-| Week 4 Change | Serum Creatinine (mg/dL) | -0.02 | 0.09 |  |
-| eGFR (mL/min/1.73 m2) | 1.3 | -3.8 |  |  |
-| Week 12 Change | Serum Creatinine (mg/dL) | -0.02 | 0.08 |  |
-| eGFR (mL/min/1.73 m2) | 1.5 | -3.2 |  |  |
-| Week 24 Change | Serum Creatinine (mg/dL) | -0.003 | 0.06 |  |
-| eGFR (mL/min/1.73 m2) | 0.8 | -2.0 |  |  |
-
-Table 4: Proportion of Patients with at Least One Renal Impairment-Related Adverse Reaction
-
-| Baseline Characteristic | Placebo | FARXIGA 5 mg | FARXIGA 10 mg | Placebo | FARXIGA 10 mg |
-| --- | --- | --- | --- | --- | --- |
-|  | Pool of 6 Placebo-Controlled Studies (up to 104 weeks)Subset of patients from the pool of 12 placebo-controlled studies with long-term extensions. |  |  | Pool of 9 Placebo-Controlled Studies (up to 104 weeks)Subset of patients from the pool of 13 placebo-controlled studies with long-term extensions. |  |
-| Overall population Patients (%) with at least one event | n=785 13 (1.7%) | n=767 14 (1.8%) | n=859 16 (1.9%) | n=1956 82 (4.2%) | n=2026 136 (6.7%) |
-| 65 years of age and older Patients (%) with at least one event | n=190 4 (2.1%) | n=162 5 (3.1%) | n=159 6 (3.8%) | n=655 52 (7.9%) | n=620 87 (14.0%) |
-| eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=77 5 (6.5%) | n=88 7 (8.0%) | n=75 9 (12.0%) | n=249 40 (16.1%) | n=251 71 (28.3%) |
-| 65 years of age and older and eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=41 2 (4.9%) | n=43 3 (7.0%) | n=35 4 (11.4%) | n=141 27 (19.1%) | n=134 47 (35.1%) |
-
-In the pool of 12 clinical studies a subgroup analysis assessed the safety of patients with eGFR between 30 to less than 60 mL/min/1.73 m2.
-At Week 24, the safety was similar to that seen in the overall program, although a higher proportion of patients had at least one event related to renal impairment or failure.
-
-### Fractures
-
-In a study of patients with eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients experienced bone fractures for treatment durations up to 104 weeks.
-No fractures occurred in the placebo group, 5 occurred in the FARXIGA 5 mg group, and 8 occurred in the FARXIGA 10 mg group.
-Eight of these 13 fractures were in patients who had a baseline eGFR of 30 to 45 mL/min/1.73 m2.
-Ten of the 13 fractures were reported within the first 52 weeks.
-There was no apparent pattern with respect to the anatomic site of fracture.
+|  | Pool of 12 Placebo-Controlled Studies |  |  | Pool of 13 Placebo-Controlled Studies |  | DECLARE Study |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo | FARXIGA5 mg | FARXIGA10 mg | Placebo | FARXIGA10 mg | Placebo | FARXIGA10 mg |
+| Overall population N (%) | N=13935(0.4%) | N=11457(0.6%) | N=11939(0.8%) | N=229517(0.7%) | N=236027(1.1%) | N=8569207(2.4%) | N=8574213(2.5%) |
+| Patient Subgroup n (%) |  |  |  |  |  |  |  |
+| Patients on loop diuretics | n=551(1.8%) | n=400 | n=313(9.7%) | n=2674(1.5%) | n=2366(2.5%) | n=93457(6.1%) | n=86657(6.6%) |
+| Patients with moderate renal impairment with eGFR ≥30 and <60 mL/min/1.73 m2 | n=1072(0.9%) | n=1071(0.9%) | n=891(1.1%) | n=2684(1.5%) | n=2655(1.9%) | n=65830(4.6%) | n=60435(5.8%) |
+| Patients ≥65 years of age | n=2761(0.4%) | n=2161(0.5%) | n=2043(1.5%) | n=7116(0.8%) | n=66511(1.7%) | n=3950121(3.1%) | n=3948117(3.0%) |
 
 ### Hypoglycemia
 
-The frequency of hypoglycemia by study [see Clinical Studies (14)] is shown in Table 5.
-Hypoglycemia was more frequent when FARXIGA was added to sulfonylurea or insulin [see Warnings and Precautions (5.3)].
+The frequency of hypoglycemia by study [see Clinical Studies (14.1)] is shown in Table 3.
+Hypoglycemia was more frequent when FARXIGA was added to sulfonylurea or insulin [see Warnings and Precautions (5.5)].
 
-Table 5: Incidence of MajorMajor episodes of hypoglycemia were defined as symptomatic episodes requiring external (third party) assistance due to severe impairment in consciousness or behavior with a capillary or plasma glucose value <54 mg/dL and prompt recovery after glucose or glucagon administration. and MinorMinor episodes of hypoglycemia were defined as either a symptomatic episode with a capillary or plasma glucose measurement <63 mg/dL regardless of need for external assistance, or an asymptomatic capillary or plasma glucose measurement <63 mg/dL that does not qualify as a major episode.
-Hypoglycemia in Controlled Clinical Studies
+Table 3: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were defined as episodes of severe impairment in consciousness or behavior, requiring external (third party) assistance, and with prompt recovery after intervention regardless of glucose level. and Hypoglycemia with Glucose < 54 mg/dLEpisodes of hypoglycemia with glucose < 54 mg/dL (3 mmol/L) were defined as reported episodes of hypoglycemia meeting the glucose criteria that did not also qualify as a severe episode. in Controlled Clinical Studies
 
 |  | Placebo/Active Control | FARXIGA 5 mg | FARXIGA 10 mg |
 | --- | --- | --- | --- |
 | Monotherapy (24 weeks) | N=75 | N=64 | N=70 |
-| Major [n (%)] | 0 | 0 | 0 |
-| Minor [n (%)] | 0 | 0 | 0 |
+| Severe [n (%)] | 0 | 0 | 0 |
+| Glucose <54 mg/dL [n (%)] | 0 | 0 | 0 |
 | Add-on to Metformin (24 weeks) | N=137 | N=137 | N=135 |
-| Major [n (%)] | 0 | 0 | 0 |
-| Minor [n (%)] | 0 | 2 (1.5) | 1 (0.7) |
-| Active Control Add-on to Metformin versus Glipizide (52 weeks) | N=408 | – | N=406 |
-| Major [n (%)] | 3 (0.7) | – | 0 |
-| Minor [n (%)] | 147 (36.0) | – | 7 (1.7) |
+| Severe [n (%)] | 0 | 0 | 0 |
+| Glucose <54 mg/dL [n (%)] | 0 | 0 | 0 |
 | Add-on to Glimepiride (24 weeks) | N=146 | N=145 | N=151 |
-| Major [n (%)] | 0 | 0 | 0 |
-| Minor [n (%)] | 3 (2.1) | 8 (5.5) | 9 (6.0) |
+| Severe [n (%)] | 0 | 0 | 0 |
+| Glucose <54 mg/dL [n (%)] | 1 (0.7) | 3 (2.1) | 5 (3.3) |
 | Add-on to Metformin and a Sulfonylurea (24 Weeks) | N=109 | - | N=109 |
-| Major [n (%)] | 0 | - | 0 |
-| Minor [n (%)] | 4 (3.7) | - | 14 (12.8) |
+| Severe [n (%)] | 0 | - | 0 |
+| Glucose <54 mg/dL [n (%)] | 3 (2.8) | - | 7 (6.4) |
 | Add-on to Pioglitazone (24 weeks) | N=139 | N=141 | N=140 |
-| Major [n (%)] | 0 | 0 | 0 |
-| Minor [n (%)] | 0 | 3 (2.1) | 0 |
+| Severe [n (%)] | 0 | 0 | 0 |
+| Glucose <54 mg/dL [n (%)] | 0 | 1 (0.7) | 0 |
 | Add-on to DPP4 inhibitor (24 weeks) | N=226 | – | N=225 |
-| Major [n (%)] | 0 | – | 1 (0.4) |
-| Minor [n (%)] | 3 (1.3) | – | 4 (1.8) |
-| Add-on to Insulin with or without other OADsOAD = oral antidiabetic therapy. (24 weeks) | N=197 | N=212 | N=196 |
-| Major [n (%)] | 1 (0.5) | 1 (0.5) | 1 (0.5) |
-| Minor [n (%)] | 67 (34.0) | 92 (43.4) | 79 (40.3) |
+| Severe [n (%)] | 0 | – | 1 (0.4) |
+| Glucose <54 mg/dL [n (%)] | 1 (0.4) | – | 1 (0.4) |
+| Add-on to Insulin with or without other OADsOAD = oral antidiabetic therapy (24 weeks) | N=197 | N=212 | N=196 |
+| Severe [n (%)] | 1 (0.5) | 2 (0.9) | 2 (1.0) |
+| Glucose <54 mg/dL [n (%)] | 43 (21.8) | 55 (25.9) | 45 (23.0) |
+
+In the DECLARE study [see Clinical Studies (14.2)], severe events of hypoglycemia were reported in 58 (0.7%) out of 8574 patients treated with FARXIGA and 83 (1.0%) out of 8569 patients treated with placebo.
 
 ### Genital Mycotic Infections
 
@@ -180,6 +115,8 @@ Discontinuation from study due to genital infection occurred in 0% of placebo-tr
 Infections were more frequently reported in females than in males (see Table 1).
 The most frequently reported genital mycotic infections were vulvovaginal mycotic infections in females and balanitis in males.
 Patients with a history of genital mycotic infections were more likely to have a genital mycotic infection during the study than those with no prior history (10.0%, 23.1%, and 25.0% versus 0.8%, 5.9%, and 5.0% on placebo, FARXIGA 5 mg, and FARXIGA 10 mg, respectively).
+In the DECLARE study [see Clinical Studies (14.2)], serious genital mycotic infections were reported in <0.1% of patients treated with FARXIGA and <0.1% of patients treated with placebo.
+Genital mycotic infections that caused study drug discontinuation were reported in 0.9% of patients treated with FARXIGA and <0.1% of patients treated with placebo.
 
 ### Hypersensitivity Reactions
 
@@ -187,23 +124,30 @@ Hypersensitivity reactions (e.g., angioedema, urticaria, hypersensitivity) were 
 Across the clinical program, serious anaphylactic reactions and severe cutaneous adverse reactions and angioedema were reported in 0.2% of comparator-treated patients and 0.3% of FARXIGA-treated patients.
 If hypersensitivity reactions occur, discontinue use of FARXIGA; treat per standard of care and monitor until signs and symptoms resolve.
 
+### Ketoacidosis
+
+In the DECLARE study [see Clinical Studies (14.2)], events of diabetic ketoacidosis (DKA) were reported in 27 out of 8574 patients in the FARXIGA-treated group and 12 out of 8569 patients in the placebo group.
+The events were evenly distributed over the study period.
+
 ### Laboratory Tests
+
+#### Increases in Serum Creatinine and Decreases in eGFR
+
+Initiation of FARXIGA causes an increase in serum creatinine and decrease in eGFR.
+In patients with normal or mildly impaired renal function at baseline, serum creatinine and eGFR returned to baseline at Week 24.
+Sustained decreases in eGFR were seen in patients with moderate renal impairment (eGFR 30 to less than 60 ml/min/1.73 m2) [see Warnings and Precautions (5.3) and Mechanism of Action (12.1)].
 
 #### Increase in Hematocrit
 
 In the pool of 13 placebo-controlled studies, increases from baseline in mean hematocrit values were observed in FARXIGA-treated patients starting at Week 1 and continuing up to Week 16, when the maximum mean difference from baseline was observed.
-At Week 24, the mean changes from baseline in hematocrit were −0.33% in the placebo group and 2.30% in the FARXIGA 10 mg group.
+At Week 24, the mean changes from baseline in hematocrit were -0.33% in the placebo group and 2.30% in the FARXIGA 10 mg group.
 By Week 24, hematocrit values >55% were reported in 0.4% of placebo-treated patients and 1.3% of FARXIGA 10 mg–treated patients.
-
-#### Increase in Serum Inorganic Phosphorus
-
-In the pool of 13 placebo-controlled studies, increases from baseline in mean serum phosphorus levels were reported at Week 24 in FARXIGA-treated patients compared with placebo-treated patients (mean increase of 0.13 versus −0.04 mg/dL, respectively).
-Higher proportions of patients with marked laboratory abnormalities of hyperphosphatemia (≥5.6 mg/dL for age 17-65 years or ≥5.1 mg/dL for age ≥66 years) were reported on FARXIGA at Week 24 (0.9% versus 1.7% for placebo and FARXIGA 10 mg, respectively).
 
 #### Increase in Low-Density Lipoprotein Cholesterol
 
 In the pool of 13 placebo-controlled studies, changes from baseline in mean lipid values were reported in FARXIGA-treated patients compared to placebo-treated patients.
-Mean percent changes from baseline at Week 24, were 0.0% versus 2.5% for total cholesterol and −1.0% versus 2.9% for LDL cholesterol, in the placebo and FARXIGA 10 mg groups, respectively.
+Mean percent changes from baseline at Week 24 were 0.0% versus 2.5% for total cholesterol, and -1.0% versus 2.9% for LDL cholesterol in the placebo and FARXIGA 10 mg groups groups, respectively.
+In the DECLARE study [see Clinical Studies (14.2)], mean changes from baseline after 4 years were 0.4 mg/dL versus -4.1 mg/dL for total cholesterol, and -2.5 mg/dL versus -4.4 mg/dL for LDL cholesterol, in FARXIGA-treated and the placebo groups, respectively.
 
 #### Decrease in Serum Bicarbonate
 
@@ -215,7 +159,7 @@ Additional adverse reactions have been identified during postapproval use of FAR
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - •Ketoacidosis
-- •Acute Kidney Injury and Impairment in Renal Function
+- •Acute Kidney Injury
 - •Urosepsis and Pyelonephritis
 - •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 - •Rash
