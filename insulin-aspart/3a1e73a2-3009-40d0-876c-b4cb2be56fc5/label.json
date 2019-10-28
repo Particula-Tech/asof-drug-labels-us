@@ -5,6 +5,7 @@
   "inn": "insulin-aspart",
   "labeler": "Novo Nordisk",
   "package_ndcs": [
+    "0169-2001-90",
     "0169-3303-12",
     "0169-3303-90",
     "0169-3303-91",
@@ -19,6 +20,11 @@
     "0169-7501-90"
   ],
   "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "water injection",
+      "name": "Insulin Diluting Medium for NovoLog"
+    },
     {
       "form": "INJECTION, SOLUTION",
       "generic": "insulin aspart",
