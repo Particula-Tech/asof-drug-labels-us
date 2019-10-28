@@ -8,3 +8,8 @@ Patient efficacy ratings are shown in Table 3.
 
 Table 3.
 Summary of patient evaluations following application of PLIAGLIS Cream and placebo
+
+|  | Mean VAS Score |  |
+| --- | --- | --- |
+| Dermatologic Procedure | PLIAGLIS Cream | Placebo |
+| 20 Min Application Pulse Dye Laser Therapy (N=80) 30 Min Application Non-Ablative Laser Facial Resurfacing (N=54) Dermal Filer Injections (N=70) 60 Min Application Laser-Assisted Tattoo Removal (N=62) | 16 21 24 39 | 31 38 37 59 |

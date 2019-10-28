@@ -36,12 +36,12 @@ Avoid contact of PLIAGLIS Cream with the eyes based on the findings of severe ey
 Also, the loss of protective reflexes may predispose to corneal irritation and potential abrasion.
 If eye contact occurs, immediately wash out the eye with water or saline and protect the eye until sensation returns.
 
-## 5.6 Vaccinations
+## 5.6 Vaccination
 
 Lidocaine has been shown to inhibit viral and bacterial growth.
 The effect of PLIAGLIS Cream on intradermal injections of live vaccines has not been determined.
 
-## 5.7 Special patient populations
+## 5.7 Special patient population
 
 - Use PLIAGLIS Cream with caution in patients who may be more sensitive to the systemic effects of lidocaine and tetracaine particularly the acutely ill or debilitated.
 - Patients with severe hepatic disease or pseudocholinesterase deficiency, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations of lidocaine and tetracaine.

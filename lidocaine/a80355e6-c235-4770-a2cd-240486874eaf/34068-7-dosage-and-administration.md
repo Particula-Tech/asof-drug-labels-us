@@ -30,6 +30,20 @@ The amount (length) of PLIAGLIS Cream that should be dispensed is determined by 
 Table 1.
 Amount of PLIAGLIS Cream According to Treatment Site Surface Area
 
+| Surface Area of Treatment Site (cm2) | Length of PLIAGLIS Cream for 1mm Thickness (cm) | Weight of PLIAGLIS Cream Dispensed (g) |
+| --- | --- | --- |
+| 10 | 3 | 1 |
+| 20 | 6 | 3 |
+| 40 | 12 | 5 |
+| 80 | 24 | 11 |
+| 100 | 30 | 13 |
+| 150 | 46 | 20 |
+| 200 | 61 | 26 |
+| 250 | 76 | 33 |
+| 300 | 91 | 40 |
+| 350 | 106 | 46 |
+| 400 | 121 | 53 |
+
 ## 2.3 Important Dosage and Administration Instructions
 
 Important Dosage and Administration instructions include:

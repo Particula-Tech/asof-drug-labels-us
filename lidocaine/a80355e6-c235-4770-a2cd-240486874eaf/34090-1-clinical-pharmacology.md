@@ -24,6 +24,15 @@ Systemic exposure to lidocaine, as measured by Cmax and AUC0-24, was proportiona
 Table 2.
 Absorption of lidocaine and tetracaine following application of PLIAGLIS Cream
 
+| PLIAGLIS Cream (g) | Area (cm2) | Age range (yr) | n | Application Time (min) | Drug Content (g) | Mean Cmax (ng/mL) | Mean Tmax (hr) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 21 | 400 | 18-64 | 4 | 30 | Lidocaine, 1.5 | 49 | 4.0 |
+| Tetracaine, 1.5 | <0.9 | na |  |  |  |  |  |
+| 33 | 400 | 18-64 | 4 | 60 | Lidocaine, 2.3 | 96 | 2.8 |
+| Tetracaine, 2.3 | <0.9 | na |  |  |  |  |  |
+| 31 | 400 | ≥ 65 | 6 | 60 | Lidocaine, 2.2 | 48 | 3.8 |
+| Tetracaine, 2.2 | <0.9 | na |  |  |  |  |  |
+
 Distribution: When lidocaine is administered intravenously to healthy volunteers, the steady-state volume of distribution is approximately 0.8 to 1.3 L/kg.
 At lidocaine concentrations observed following the recommended product application, approximately 75% of lidocaine is bound to plasma proteins, primarily alpha-1-acid glycoprotein.
 At much higher plasma concentrations (1 to 4 mg/mL of free base) the plasma protein binding of lidocaine is concentration dependent.
