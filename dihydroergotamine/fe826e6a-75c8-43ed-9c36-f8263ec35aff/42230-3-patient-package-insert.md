@@ -99,47 +99,48 @@ How to use the D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP
 
 1. 1.Use Available Training Materials
-   1. •Read and follow the instructions in the patient instruction booklet which is provided with the D.H.E.
+   1. 1.Read and follow the instructions in the patient instruction booklet which is provided with the D.H.E.
       45® (dihydroergotamine mesylate) Injection, USP package before attempting to use the product.
-   2. •If there are any questions concerning the use of your D.H.E.
+   2. 2.If there are any questions concerning the use of your D.H.E.
       45® (dihydroergotamine mesylate) Injection, USP, ask your doctor or pharmacist.
 2. 2.Preparing for the Injection
-   1. •Carefully examine the ampul (glass vial) of D.H.E.
+   1. 3.Carefully examine the ampul (glass vial) of D.H.E.
       45® (dihydroergotamine mesylate) Injection, USP for any cracks or breaks, and the liquid for discoloration, cloudiness, or particles.
       If any of these defects are present, use a new ampul, make certain it is intact, and return the defective ampul to your doctor or pharmacy.
       Once you open an ampul, if it is not used within an hour, it should be thrown away.
 3. 3.Locating an Injection Site
-   1. •Administer your subcutaneous injection in the middle of your thigh, well above the knee.
+   1. 4.Administer your subcutaneous injection in the middle of your thigh, well above the knee.
 4. 4.Drawing the Medication into the Syringe
-   1. a.Wash your hands thoroughly with soap and water.
-   2. b. Check the dose of your medication.
-   3. c.Look to see if there is any liquid at the top of the ampul.
+   1. 5.Wash your hands thoroughly with soap and water.
+   2. 6.
+      Check the dose of your medication.
+   3. 7.Look to see if there is any liquid at the top of the ampul.
       If there is, gently flick the ampul with your finger to get all the liquid into the bottom portion of the ampul.
-   4. d.Hold the bottom of the ampul in one hand.
+   4. 8.Hold the bottom of the ampul in one hand.
       Clean the ampul neck with an alcohol wipe using the other hand.
       To break, place the alcohol wipe around the neck of the ampul and break it open by pressing your thumb against the neck of the ampul.
-   5. e.Tilt the ampul down at a 45° angle.
+   5. 9.Tilt the ampul down at a 45° angle.
       Insert the needle into the solution in the ampul.
-   6. f.Draw up the medication by pulling back the plunger slowly and steadily until you reach your dose.
-   7. g.Check the syringe for air bubbles.
+   6. 10.Draw up the medication by pulling back the plunger slowly and steadily until you reach your dose.
+   7. 11.Check the syringe for air bubbles.
       Hold it with the needle pointing upward.
       If there are air bubbles, tap your finger against the barrel of the syringe to get the bubbles to the top.
       Slowly and carefully push the plunger up so that the bubbles are pushed out through the needle and you see a drop of medication.
-   8. h.When there are no air bubbles, check the dose of the medication.
+   8. 12.When there are no air bubbles, check the dose of the medication.
       If the dose is incorrect, repeat steps e, f, g and h until you draw up the right dose.
 5. 5.Preparing the Injection Site
-   1. •With a new alcohol wipe, clean the selected injection site thoroughly with a firm, circular motion from inside to outside.
+   1. 13.With a new alcohol wipe, clean the selected injection site thoroughly with a firm, circular motion from inside to outside.
       Wait for the injection site to dry before injecting.
 6. 6.Administering the Injection
-   1. •Hold the syringe/needle in your right hand.
-   2. •With your left hand, firmly grasp about a 1-inch fold of skin at the injection site.
-   3. •Push the needle shaft, bevel side up, all the way into the fold of skin at a 45° to 90° angle, then release the fold of skin.
-   4. •While holding the syringe with your left hand, use your right hand to draw back slightly on the plunger.
-   5. •If you do not see any blood coming back into the syringe, inject the medication by pushing down on the plunger.
+   1. 14.Hold the syringe/needle in your right hand.
+   2. 15.With your left hand, firmly grasp about a 1-inch fold of skin at the injection site.
+   3. 16.Push the needle shaft, bevel side up, all the way into the fold of skin at a 45° to 90° angle, then release the fold of skin.
+   4. 17.While holding the syringe with your left hand, use your right hand to draw back slightly on the plunger.
+   5. 18.If you do not see any blood coming back into the syringe, inject the medication by pushing down on the plunger.
       If you do see blood in the syringe, that means the needle has penetrated a vein.
       If this happens, pull the needle/syringe out of the skin slightly and draw back on the plunger again.
       If no blood is seen this time, inject the medication.
-   6. •Use your right hand to pull the needle out of your skin quickly at the same angle you injected it.
+   6. 19.Use your right hand to pull the needle out of your skin quickly at the same angle you injected it.
       Immediately press the alcohol wipe on the injection site and rub.
 
 Check the expiration date printed on the ampul containing medication.
