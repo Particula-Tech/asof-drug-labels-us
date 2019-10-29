@@ -51,4 +51,4 @@ Bryhali and Ortho Dermatologics are trademarks of Valeant Pharmaceuticals Intern
 
 © 2018 Valeant Pharmaceuticals North America LLC
 
-1. 9652102
+- 9652102

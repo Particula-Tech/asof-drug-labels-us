@@ -65,7 +65,7 @@ These are not all the possible side effects of BRYHALI.
 Call your doctor for medical advice about side effects.
 You may report side effects to
 
-1. FDA at 1-800-FDA-1088.
+- FDA at 1-800-FDA-1088.
 
 How should I store BRYHALI?
 
@@ -75,11 +75,11 @@ How should I store BRYHALI?
 
 General information about the safe and effective use of BRYHALI.
 
-1. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-   Do not use BRYHALI for a condition for which it was not prescribed.
-   Do not give BRYHALI to other people, even if they have the same condition you have.
-   It may harm them.
-   You can ask your pharmacist or doctor for information about BRYHALI that is written for health professionals.
+- Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+  Do not use BRYHALI for a condition for which it was not prescribed.
+  Do not give BRYHALI to other people, even if they have the same condition you have.
+  It may harm them.
+  You can ask your pharmacist or doctor for information about BRYHALI that is written for health professionals.
 
 What are the ingredients in BRYHALI?
 
@@ -97,7 +97,8 @@ Bryhali and Ortho Dermatologics are trademarks of Valeant Pharmaceuticals Intern
 
 © 2018 Valeant Pharmaceuticals North America LLC
 
-1. For more information, go to www.bauschhealth.com or call 1-800-321-4576
-2. This Patient Information has been approved by the U.S. Food and Drug Administration.
+- For more information, go to www.bauschhealth.com or call 1-800-321-4576
+
+1. This Patient Information has been approved by the U.S. Food and Drug Administration.
    Issued: 11/2018
-3. 9652102
+2. 9652102
