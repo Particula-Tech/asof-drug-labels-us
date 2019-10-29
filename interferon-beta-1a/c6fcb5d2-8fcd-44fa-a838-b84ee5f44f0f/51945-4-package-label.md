@@ -20,11 +20,11 @@ NDC 44087-0188-1
 
 6 single-use 8.8 mcg / 0.2 mL autoinjectors 6 single-use 22 mcg / 0.5 mL autoinjectors
 
+Rx only
+
 8.8 mcg / 0.2 mL 22 mcg / 0.5 mL
 
 Titration Pack For subcutaneous injection
-
-Rx only
 
 Attention pharmacist: Each patient is required to receive the enclosed Medication Guide
 
@@ -60,13 +60,13 @@ NDC 44087-3322-1
 
 Rebif® Rebidose® (interferon beta-1a) Injection
 
-22 mcg / 0.5 mL
-
-For subcutaneous injection
-
 12 single-use autoinjectors
 
+22 mcg / 0.5 mL
+
 Rx only
+
+For subcutaneous injection
 
 Attention pharmacist: Each patient is required to receive the enclosed Medication Guide
 
@@ -78,13 +78,13 @@ NDC 44087-3344-1
 
 Rebif® Rebidose® (interferon beta-1a) Injection
 
-44 mcg / 0.5 mL
-
-For subcutaneous injection
-
 12 single-use autoinjectors
 
+44 mcg / 0.5 mL
+
 Rx only
+
+For subcutaneous injection
 
 Attention pharmacist: Each patient is required to receive the enclosed Medication Guide
 
