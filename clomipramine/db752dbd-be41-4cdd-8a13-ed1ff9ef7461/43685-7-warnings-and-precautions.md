@@ -17,9 +17,9 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 
 Table 1
 
-| Increases Compared to Placebo |  |
-| --- | --- |
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| --- | --- |
+| Increases Compared to Placebo |  |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
 | Decreases Compared to Placebo |  |
@@ -91,6 +91,11 @@ Thus a causal association between clomipramine treatment and these fatalities ha
 
 Physicians should discuss with patients the risk of taking clomipramine while engaging in activities in which sudden loss of consciousness could result in serious injury to the patient or others, e.g., the operation of complex machinery, driving, swimming, climbing.
 
+## DRESS
+
+Rare cases of drug rash with eosinophilia and systemic symptoms (DRESS) have been reported with the use of clomipramine.
+In the event of severe acute reactions such as DRESS, discontinue clomipramine therapy immediately and institute appropriate treatment.
+
 # PRECAUTIONS
 
 ## General
@@ -133,7 +138,7 @@ As is the case with tricyclic antidepressants to which clomipramine is closely r
 
 ### Central Nervous System
 
-More than 30 cases of hyperthermia have been recorded by nondomestic post-marketing surveillance systems.
+More than 30 cases of hyperthermia have been recorded by nondomestic postmarketing surveillance systems.
 Most cases occurred when clomipramine was used in combination with other drugs.
 When clomipramine and a neuroleptic were used concomitantly, the cases were sometimes considered to be examples of a neuroleptic malignant syndrome.
 
@@ -141,6 +146,16 @@ When clomipramine and a neuroleptic were used concomitantly, the cases were some
 
 The rate of sexual dysfunction in male patients with OCD who were treated with clomipramine in the premarketing experience was markedly increased compared with placebo controls (i.e., 42% experienced ejaculatory failure and 20% experienced impotence, compared with 2.0% and 2.6%, respectively, in the placebo group).
 Approximately 85% of males with sexual dysfunction chose to continue treatment.
+
+### Hyponatremia
+
+Hyponatremia has occurred as a result of treatment with clomipramine.
+In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Elderly patients may be at greater risk of developing hyponatremia with a serotonergic antidepressant.
+Also, patients taking diuretics or who are otherwise volume-depleted can be at greater risk.
+Discontinuation of clomipramine in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
+More severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 ### Weight Changes
 
@@ -227,7 +242,7 @@ Fluvoxamine has also been shown to inhibit P450 1A2, an isoform also involved in
 The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.
 Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.
 Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).
-Concomitant use of agents in tricyclic antidepressant class (which includes clomipramine) with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant agent or the other drug.
+Concomitant use of agents in the tricyclic antidepressant class (which includes clomipramine) with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant agent or the other drug.
 Furthermore, whenever one of these drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant agent may be required.
 It is desirable to monitor TCA plasma levels whenever an agent of the tricyclic antidepressant class including clomipramine is going to be co-administered with another drug known to be an inhibitor of P450 2D6 (and/or P450 1A2).
 
@@ -286,3 +301,5 @@ Clinical studies of clomipramine did not include sufficient numbers of subjects 
 No unusual age-related adverse events were identified in this population.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+Clomipramine has been associated with cases of clinically significant hyponatremia.
+Elderly patients may be at greater risk for this adverse reaction (see PRECAUTIONS, Hyponatremia).

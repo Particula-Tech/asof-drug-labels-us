@@ -1,10 +1,8 @@
 # Medication Guide
 
-Clomipramine Hydrochloride Capsules USP (kloe mip' ra meen hye'' droe klor' ide)
+Clomipramine Hydrochloride Capsules USP (kloe mip' ra meen hye'' droe klor' ide) Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
-
-Read the Medication Guide that comes with you or your family member's antidepressant medicine.
+Read the Medication Guide that comes with your or your family member's antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 Talk to your, or your family member's, healthcare provider about:
 
@@ -38,6 +36,14 @@ Call a healthcare provider right away if you or your family member has any of th
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
+
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- headache
+- weakness or feeling unsteady
+- confusion, problems concentrating or thinking or memory problems
 
 Visual problems
 
@@ -77,3 +83,5 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: July 2019 71009-0719-10

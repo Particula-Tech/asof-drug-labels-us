@@ -15,10 +15,11 @@ The bioavailability of CMI from capsules is not significantly affected by food.
 In a dose proportionality study involving multiple CMI doses, steady-state plasma concentrations (Css) and area-under-plasma-concentration-time curves (AUC) of CMI and CMI's major active metabolite, desmethylclomipramine (DMI), were not proportional to dose over the ranges evaluated, i.e., between 25 to 100 mg/day and between 25 to 150 mg/day, although Css and AUC are approximately linearly related to dose between 100 to 150 mg/day.
 The relationship between dose and CMI/DMI concentrations at higher daily doses has not been systematically assessed, but if there is significant dose dependency at doses above 150 mg/day, there is the potential for dramatically higher Css and AUC even for patients dosed within the recommended range.
 This may pose a potential risk to some patients (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
 After a single 50 mg oral dose, maximum plasma concentrations of CMI occur within 2 to 6 hours (mean, 4.7 hr) and range from 56 ng/mL to 154 ng/mL (mean, 92 ng/mL).
 After multiple daily doses of 150 mg of clomipramine hydrochloride, steady-state maximum plasma concentrations range from 94 ng/mL to 339 ng/mL (mean, 218 ng/mL) for CMI and from 134 ng/mL to 532 ng/mL (mean, 274 ng/mL) for DMI.
 Additional information from a rising dose study of doses up to 250 mg suggests that DMI may exhibit nonlinear pharmacokinetics over the usual dosing range.
-At a dose of Clomipramine Hydrochloride Capsules, 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both.
+At a dose of clomipramine hydrochloride capsules, 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both.
 
 ### Distribution
 

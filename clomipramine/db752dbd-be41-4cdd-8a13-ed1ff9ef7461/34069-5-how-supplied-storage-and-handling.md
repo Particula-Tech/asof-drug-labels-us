@@ -26,6 +26,6 @@ Clomipramine Hydrochloride Capsules USP are supplied as follows:
 | Bottles of 90 | NDC 51672-4013-5 |
 | Bottles of 100 | NDC 51672-4013-1 |
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Dispense in well-closed containers with a child-resistant closure.
 Protect from moisture.
