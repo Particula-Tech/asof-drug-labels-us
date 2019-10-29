@@ -11,8 +11,8 @@ The following serious adverse reactions described elsewhere in the labeling incl
 - Severe Hypotension [see Warnings and Precautions (5.9)]
 - Hepatotoxicity [see Warnings and Precautions (5.11)]
 - Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.13)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.14)]
-- Seizures [see Warnings and Precautions (5.15)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.15)]
+- Seizures [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -97,7 +97,7 @@ Vascular disorders: hot flush, hypertension
 
 Least common (<1%) adverse reactions:
 
-Abdominal discomfort, acute sinusitis, dyspepsia, toothache, asthenia, chills, cellulitis, tooth abscess, excoriation, laceration, aspartate aminotransferase increased, blood pressure increased, blood testosterone decreased, electrocardiogram QT prolonged, liver function test abnormal, musculoskeletal pain, neck pain, hypoesthesia, lethargy, migraine, tremor, cough, dyspnea, nasal congestion, rhinorrhea
+Abdominal discomfort, acute sinusitis, dyspepsia, toothache, asthenia, chills, cellulitis, tooth abscess, excoriation, laceration, aspartate aminotransferase increased, blood pressure increased, blood testosterone decreased, electrocardiogram QT prolonged, liver function test abnormal, musculoskeletal pain, neck pain, hypoesthesia, lethargy, migraine, tremor, cough, dyspnea, nasal congestion, rhinorrhea.
 
 ## 6.2 Postmarketing Experience
 

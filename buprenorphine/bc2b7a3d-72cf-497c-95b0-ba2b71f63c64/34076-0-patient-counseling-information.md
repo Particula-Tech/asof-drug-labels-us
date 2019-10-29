@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store BELBUCA securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving BELBUCA unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused BELBUCA should be disposed of by removing the BELBUCA film from the foil packaging and flushing the unused medication down the toilet (if a drug take-back option is not readily available).
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of BELBUCA, even when taken as recommended, can result in addiction, abuse, and misuse, which could lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -15,7 +24,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Exposure
 
 Inform patients that accidental exposure, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store BELBUCA securely and to dispose of unused BELBUCA by opening unused packages and flushing the film down the toilet [see Dosage and Administration (2.8)].
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -45,6 +53,10 @@ Instruct patients how to properly use BELBUCA, including the following:
 - To apply BELBUCA once daily, or every twelve (12) hours at the same time or times each day.
 - To avoid applying BELBUCA to areas of the mouth with any open sores or lesions.
 - To not use BELBUCA if the pouch seal is broken or the buccal film is cut, damaged, or changed in any way.
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue BELBUCA without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -77,17 +89,4 @@ Advise patients of the potential for severe constipation, including management i
 Driving or Operating Heavy Machinery
 
 Inform patients that BELBUCA may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.17)].
-
-Disposal of Unused BELBUCA
-
-Instruct patients to dispose of BELBUCA as soon as it is no longer needed.
-To dispose of unused BELBUCA film, inform the patient to:
-
-1. Remove all BELBUCA films from their foil packages.
-2. Drop the BELBUCA films into toilet and flush.
-3. Discard foil packaging in trash.
-
-Instruct patients not to flush BELBUCA down the toilet in the foil packages or cartons [see Dosage and Administration (2.8)].
-
-Healthcare professionals can telephone BioDelivery Sciences International, Inc. at 1-800-469-0261 or access www.BELBUCA.com for information on this product.
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.18)].

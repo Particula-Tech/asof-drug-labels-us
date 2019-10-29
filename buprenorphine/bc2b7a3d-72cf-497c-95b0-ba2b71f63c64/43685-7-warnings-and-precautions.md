@@ -43,12 +43,16 @@ Management of respiratory depression may include close observation, supportive m
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening or fatal respiratory depression can occur at any time during the use of BELBUCA, the risk is greatest during initiation of therapy or following a dosage increase.
-Monitor patients closely for respiratory depression when initiating therapy with BELBUCA and following a dosage increases.
+Monitor patients closely for respiratory depression when initiating therapy with BELBUCA and following dosage increases.
 
 To reduce the risk of respiratory depression, proper dosing and titration of BELBUCA are essential [see Dosage and Administration (2)].
 Overestimating the dose of BELBUCA when converting patients from another opioid product may result in fatal overdose with the first dose.
 
 Accidental exposure to BELBUCA, especially in children, can result in respiratory depression and death due to an overdose of buprenorphine.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
@@ -137,7 +141,16 @@ The most common signs and symptoms include rashes, hives, and pruritus.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 BELBUCA is contraindicated in patients with a history of hypersensitivity to buprenorphine.
 
-## 5.14 Risk of Use in Patients with Gastrointestinal Conditions
+## 5.14 Withdrawal
+
+Do not abruptly discontinue BELBUCA in a patient physically dependent on opioids.
+When discontinuing BELBUCA in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of buprenorphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+
+Additionally, the use of BELBUCA, a partial agonist opioid analgesic, in patients who are receiving a full opioid agonist analgesic may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+Avoid concomitant use of BELBUCA with a full opioid agonist analgesic.
+
+## 5.15 Risk of Use in Patients with Gastrointestinal Conditions
 
 BELBUCA is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -145,18 +158,18 @@ BELBUCA may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in the serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-## 5.15 Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.16 Increased Risk of Seizures in Patients with Seizure Disorders
 
 The buprenorphine in BELBUCA may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during BELBUCA therapy.
 
-## 5.16 Risks of Use in Cancer Patients with Oral Mucositis
+## 5.17 Risks of Use in Cancer Patients with Oral Mucositis
 
 Cancer patients with oral mucositis may absorb buprenorphine more rapidly than intended and are likely to experience higher plasma levels of the opioid.
 For patients with known or suspected mucositis, a dose reduction is recommended.
 Monitor these patients carefully for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
-## 5.17 Risks of Driving and Operating Machinery
+## 5.18 Risks of Driving and Operating Machinery
 
 BELBUCA may impair the mental and physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to side effects of BELBUCA and know how they will react to the medication.

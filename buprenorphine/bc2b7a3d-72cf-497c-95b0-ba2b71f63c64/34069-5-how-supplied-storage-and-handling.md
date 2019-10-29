@@ -14,5 +14,4 @@ BELBUCA (buprenorphine buccal film) films are supplied in cartons containing 60 
 
 Store at 20°C to 25°C (68°F to 77°F), with excursions permitted between 15°C and 30°C (59°F and 86°F).
 
-Advise patients to store buprenorphine-containing medications safely and out of sight and reach of children.
-Destroy any unused medication appropriately [see Patient Counseling Information (17)].
+Store BELBUCA securely and dispose of properly [see Patient Counseling Information (17)].

@@ -156,4 +156,4 @@ Table 8: Changes in Pharmacokinetic Parameters in Subjects with Moderate and Sev
 
 Oral Mucositis
 
-In an open-label pharmacokinetic study in 6 cancer patients with Grade 3 mucositis, buprenorphine was absorbed more rapidly from BELBUCA resulting in a higher Cmax (~79%) and AUC (~56%) compared to age- and gender-matched healthy control subjects [see Dosage and Administration (2.6), Warnings and Precautions (5.16)].
+In an open-label pharmacokinetic study in 6 cancer patients with Grade 3 mucositis, buprenorphine was absorbed more rapidly from BELBUCA resulting in a higher Cmax (~79%) and AUC (~56%) compared to age- and gender-matched healthy control subjects [see Dosage and Administration (2.6), Warnings and Precautions (5.17)].
