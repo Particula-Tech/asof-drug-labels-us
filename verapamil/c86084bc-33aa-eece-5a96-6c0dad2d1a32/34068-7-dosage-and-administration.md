@@ -3,7 +3,7 @@
 ## Essential Hypertension
 
 The dose of verapamil hydrochloride extended-release capsules should be individualized by titration.
-The usual daily dose of extended-release verapamil, verapamil hydrochloride capsules, in clinical trials has been 240 mg given by mouth once daily in the morning.
+The usual daily dose of extended-release, verapamil hydrochloride capsules, in clinical trials has been 240 mg given by mouth once daily in the morning.
 However, initial doses of 120 mg a day may be warranted in patients who may have an increased response to verapamil (e.g., elderly, small people, etc.). Upward titration should be based on therapeutic efficacy and safety evaluated approximately 24 hours after dosing.
 The antihypertensive effects of verapamil hydrochloride extended-release capsules are evident within the first week of therapy.
 

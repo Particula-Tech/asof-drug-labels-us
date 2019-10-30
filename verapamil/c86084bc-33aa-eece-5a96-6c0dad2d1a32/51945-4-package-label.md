@@ -1,10 +1,10 @@
 PRINCIPAL DISPLAY PANEL - 120 mg
 
-NDC 0378-6320-77
+NDC 0378-6320-01
 
 Verapamil HCl Extended-Release Capsules, USP 120 mg
 
-Rx only 90 Capsules
+Rx only 100 Capsules
 
 Each capsule contains: Verapamil hydrochloride, USP 120 mg
 
@@ -23,19 +23,19 @@ Avoid excessive heat.
 
 Protect from moisture.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM6320MM
+RM6320A7
 
 PRINCIPAL DISPLAY PANEL - 180 mg
 
-NDC 0378-6380-77
+NDC 0378-6380-01
 
 Verapamil HCl Extended-Release Capsules, USP 180 mg
 
-Rx only 90 Capsules
+Rx only 100 Capsules
 
 Each capsule contains: Verapamil hydrochloride, USP 180 mg
 
@@ -54,19 +54,19 @@ Avoid excessive heat.
 
 Protect from moisture.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM6380MM
+RM6380A7
 
 PRINCIPAL DISPLAY PANEL - 240 mg
 
-NDC 0378-6440-77
+NDC 0378-6440-01
 
 Verapamil HCl Extended-Release Capsules, USP 240 mg
 
-Rx only 90 Capsules
+Rx only 100 Capsules
 
 Each capsule contains: Verapamil hydrochloride, USP 240 mg
 
@@ -85,8 +85,8 @@ Avoid excessive heat.
 
 Protect from moisture.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM6440MM
+RM6440A7

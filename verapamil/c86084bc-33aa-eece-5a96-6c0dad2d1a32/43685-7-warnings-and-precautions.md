@@ -52,8 +52,7 @@ Most adverse effects responded well to dose reduction and only rarely did verapa
 # PRECAUTIONS
 
 THE CONTENTS OF THE VERAPAMIL HYDROCHLORIDE EXTENDED-RELEASE CAPSULE SHOULD NOT BE CRUSHED OR CHEWED.
-VERAPAMIL HYDROCHLORIDE EXTENDED-RELEASE CAPSULES ARE TO BE SWALLOWED WHOLE OR THE ENTIRE CONTENTS OF THE CAPSULE SPRINKLED ONTO APPLESAUCE.
-(See DOSAGE AND ADMINISTRATION.)
+VERAPAMIL HYDROCHLORIDE EXTENDED-RELEASE CAPSULES ARE TO BE SWALLOWED WHOLE OR THE ENTIRE CONTENTS OF THE CAPSULE SPRINKLED ONTO APPLESAUCE (see DOSAGE AND ADMINISTRATION).
 
 ## General
 
@@ -92,7 +91,7 @@ Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patient
 
 #### Ivabradine
 
-Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
+Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conductions disturbances.
 Avoid concomitant use of ivabradine and verapamil.
 
 #### HMG-CoA Reductase Inhibitors
@@ -216,6 +215,10 @@ Phenobarbital therapy may increase verapamil clearance.
 
 Verapamil therapy may increase serum levels of cyclosporine.
 
+##### Theophylline
+
+Verapamil may inhibit the clearance and increase the plasma levels of theophylline.
+
 ##### Inhalation Anesthetics
 
 Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions.
@@ -225,6 +228,13 @@ When used concomitantly, inhalation anesthetics and calcium antagonists, such as
 
 Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing).
 It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
+
+##### Mammalian Target of Rapamycin (mTOR) Inhibitors
+
+In a study of 25 healthy volunteers with co-administration of verapamil with sirolimus, whole blood sirolimus Cmax and AUC were increased 130% and 120%, respectively.
+Plasma S (-) verapamil Cmax and AUC were both increased 50%.
+Co-administration of verapamil with everolimus in 16 healthy volunteers increased the Cmax and AUC of everolimus by 130% and 250%, respectively.
+With concomitant use of mTOR inhibitors (e.g., sirolimus, temsirolimus, and everolimus) and verapamil, consider appropriate dose reductions of both medications.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -237,8 +247,6 @@ Studies in female rats at daily dietary doses up to 5.5 times (55 mg/kg/day) the
 Effects on male fertility have not been determined.
 
 ## Pregnancy
-
-### Pregnancy Category C
 
 Reproduction studies have been performed in rabbits and rats at oral doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the maximum recommended human daily dose, respectively, and have revealed no evidence of teratogenicity.
 In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams.
@@ -268,14 +276,11 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Aging may affect the pharmacokinetics of verapamil.
-Elimination half-life may be prolonged in the elderly.
-(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism.)
+Elimination half-life may be prolonged in the elderly (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
 
 Verapamil is highly metabolized by the liver, and about 70% of the administered dose is excreted as metabolites in the urine.
-Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered.
-(See PRECAUTIONS: General.)
-In general, lower initial doses of verapamil hydrochloride extended-release capsules may be warranted in the elderly.
-(See DOSAGE AND ADMINISTRATION.)
+Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered (see PRECAUTIONS: General).
+In general, lower initial doses of verapamil hydrochloride extended-release capsules may be warranted in the elderly (see DOSAGE AND ADMINISTRATION).
 
 ## Animal Pharmacology and/or Animal Toxicology
 

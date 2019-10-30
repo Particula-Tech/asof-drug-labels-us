@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Verapamil hydrochloride extended-release capsules are a calcium ion influx inhibitor (slow channel blocker or calcium ion antagonist) which exerts its pharmacologic effects by modulating the influx of ionic calcium across the cell membrane of the arterial smooth muscle as well as in conductile and contractile myocardial cells.
+Verapamil hydrochloride extended-release capsules are a calcium ion influx inhibitor (slow channel blocker or calcium ion antagonist) which exert its pharmacologic effects by modulating the influx of ionic calcium across the cell membrane of the arterial smooth muscle as well as in conductile and contractile myocardial cells.
 
 Normal sinus rhythm is usually not affected by verapamil HCl.
 However in patients with sick sinus syndrome, verapamil HCl may interfere with sinus node impulse generation and may induce sinus arrest or sinoatrial block.
@@ -81,7 +81,7 @@ Older subjects had mean AUCs that were approximately 1.7-2.0 times higher than t
 Verapamil HCl reduces afterload and myocardial contractility.
 Improved left ventricular diastolic function in patients with IHSS and those with coronary heart disease has also been observed with verapamil HCl therapy.
 In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil HCl is countered by reduction of afterload and cardiac index is usually not reduced.
-In patients with severe left ventricular dysfunction however, (e.g., pulmonary wedge pressure above 20 mmHg or ejection fraction lower than 30%), or in patients on beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur.
+In patients with severe left ventricular dysfunction however, (e.g., pulmonary wedge pressure above 20 mmHg or ejection fraction lower than 30%), or in patients on beta-adrenergic blocking agents or other cardio-depressant drugs, deterioration of ventricular function may occur.
 (See PRECAUTIONS: Drug Interactions.)
 
 ## Pulmonary Function

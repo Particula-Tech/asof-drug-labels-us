@@ -45,7 +45,7 @@ Digestive System: diarrhea, dry mouth, gastrointestinal distress, gingival hyper
 
 Hemic and Lymphatic: ecchymosis or bruising.
 
-Nervous System: cerebrovascular accident, confusion, equilibrium disorders, extrapyramidal symptoms, insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence.
+Nervous System: cerebrovascular accident, confusion, equilibrium disorders, extrapyramidal symptoms insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence.
 
 Respiratory: dyspnea.
 
