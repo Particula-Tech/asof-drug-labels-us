@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212932"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1637-1",
+    "70121-1637-5",
+    "70121-1637-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Ephedrine Sulfate"
+    }
+  ],
+  "setid": "765ed48b-b381-418a-9847-068f7f4cc838",
+  "source": "dailymed"
+}
