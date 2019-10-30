@@ -34,7 +34,7 @@ Day 7
 Lung Function
 
 The clinical development program for INCRUSE ELLIPTA included 2 randomized, double‑blind, placebo-controlled, parallel-group trials in subjects with COPD designed to evaluate the efficacy of INCRUSE ELLIPTA on lung function.
-Trial 1 (NCT #01313650) was a 24-week placebo‑controlled trial, and Trial 2 (NCT #01772147) was a 12-week placebo‑controlled trial.
+Trial 1 (NCT #01313650) was a 24-week placebo‑controlled trial, and Trial 2 (NCT #01387230) was a 12-week placebo‑controlled trial.
 These trials treated subjects that had a clinical diagnosis of COPD, were 40 years of age or older, had a history of smoking ≥10 pack-years, had a post-albuterol FEV1 ≤70% of predicted normal values, had a ratio of FEV1/FVC of <0.7, and had a Modified Medical Research Council (mMRC) score ≥2.
 Subjects in Trial 1 had a mean age of 63 years and an average smoking history of 46 pack-years, with 50% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted FEV1 was 47% (range: 13% to 74%), the mean postbronchodilator FEV1/FVC ratio was 0.47 (range: 0.20 to 0.74), and the mean percent reversibility was 15% (range: -35% to 109%).
@@ -103,7 +103,8 @@ Least Squares Mean Change from Baseline in Trough FEV1 (mL) at Day 85 in the Int
 | --- | --- | --- |
 | Difference from Placebo + FF/VI(95% CI)n = 206 |  |  |
 | INCRUSE ELLIPTA + FF/VI | n = 206 | 124 (93, 154) |
-| FF/VI = fluticasone furoate/vilanterol. n = Number in intent-to-treat population. |  |  |
+| FF/VI = fluticasone furoate/vilanterol. |  |  |
+| n = Number in intent-to-treat population. |  |  |
 
 Combination with Fluticasone Propionate + Salmeterol
 
@@ -125,7 +126,8 @@ Least Squares Mean Change from Baseline in Trough FEV1 (mL) at Day 85 in the Int
 | --- | --- | --- | --- | --- | --- |
 | Difference from Placebo + FP/SAL(95% CI)n = 205 |  |  |  |  |  |
 | INCRUSE ELLIPTA+FP/SAL | n = 204 | 147 (107, 187) |  |  |  |
-| FP/SAL = fluticasone propionate/salmeterol. n = Number in intent-to-treat population. |  |  |  |  |  |
+| FP/SAL = fluticasone propionate/salmeterol. |  |  |  |  |  |
+| n = Number in intent-to-treat population. |  |  |  |  |  |
 
 Exacerbations
 
@@ -150,4 +152,5 @@ Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations (Trial 8
 | FF/UMEC/VI | 4,145 | 0.91 |  |  |  |  |  |  |  |  |  |
 | FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |  |  |  |  |  |  |
 | UMEC/VI | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |  |  |  |  |  |  |
-| FF/UMEC/VI = Fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg, FF/VI = Fluticasone furoate/vilanterol 100 mcg/25 mcg, UMEC/VI = Umeclidinium/vilanterol 62.5 mcg/25 mcg. a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |  |  |  |  |  |  |
+| FF/UMEC/VI = Fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg, FF/VI = Fluticasone furoate/vilanterol 100 mcg/25 mcg, UMEC/VI = Umeclidinium/vilanterol 62.5 mcg/25 mcg. |  |  |  |  |  |  |  |  |  |  |  |
+| a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |  |  |  |  |  |  |

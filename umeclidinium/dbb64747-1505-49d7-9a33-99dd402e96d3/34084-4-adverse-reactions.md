@@ -14,7 +14,7 @@ In the 8 clinical trials conducted to support initial approval of INCRUSE ELLIPT
 In the 4 randomized, double-blind, placebo- or active-controlled, efficacy clinical trials, 1,185 subjects received umeclidinium for up to 24 weeks, of which 487 subjects received the recommended dose of umeclidinium 62.5 mcg.
 In a 12-month, randomized, double-blind, placebo-controlled, long-term safety trial, 227 subjects received umeclidinium 125 mcg for up to 52 weeks [see Clinical Studies (14)].
 
-The incidence of adverse reactions associated with INCRUSE ELLIPTA in Table 1 is based upon 2 placebo-controlled efficacy trials: one 24-week trial (Trial 1, NCT #01313650) and one 12-week trial (Trial 2, NCT #01772147).
+The incidence of adverse reactions associated with INCRUSE ELLIPTA in Table 1 is based upon 2 placebo-controlled efficacy trials: one 24-week trial (Trial 1, NCT #01313650) and one 12-week trial (Trial 2, NCT #01387230).
 
 Table 1.
 Adverse Reactions with INCRUSE ELLIPTA with ≥1% Incidence and More Common than Placebo in Subjects with Chronic Obstructive Pulmonary Disease
