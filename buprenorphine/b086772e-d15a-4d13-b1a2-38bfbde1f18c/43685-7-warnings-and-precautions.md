@@ -31,6 +31,10 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of BUPRENEX are essential.
 Overestimating the BUPRENEX dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration].
+
 ## Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of BUPRENEX during pregnancy can result in withdrawal in the neonate.
@@ -179,7 +183,7 @@ Clinically significant drug interactions with BUPRENEX.
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue BUPRENEX if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome opioid toxicity (e.g., respiratory depression, coma). |
 | Intervention: | The use of BUPRENEX is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |

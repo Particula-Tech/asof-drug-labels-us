@@ -10,4 +10,6 @@ Protect from prolonged exposure to light.
 
 Manufactured by:
 
-Reckitt Benckiser Healthcare (UK) Ltd., Hull, England, HU8 7DS Distributed by: Indivior Inc., North Chesterfield, VA 23235 Revised January 2018
+Reckitt Benckiser Healthcare (UK) Ltd., Hull, England, HU8 7DS Distributed by: Indivior Inc., North Chesterfield, VA 23235
+
+Revised October 2019

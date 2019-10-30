@@ -10,7 +10,7 @@ Monitor patients closely for respiratory depression, especially within the first
 
 ### Adults and Pediatric Patients over 12 years of age
 
-The initial starting dose is 1 ml BUPRENEX (0.3 mg buprenorphine) given by deep intramuscular or slow (over at least 2 minutes) intravenous injection at up to 6-hour intervals, as needed.
+The initial starting dose is 1 mL BUPRENEX (0.3 mg buprenorphine) given by deep intramuscular or slow (over at least 2 minutes) intravenous injection at up to 6-hour intervals, as needed.
 
 Repeat once (up to 0.3 mg) if required, 30 to 60 minutes after initial dosage, giving consideration to previous dose pharmacokinetics, and thereafter only as needed.
 In high-risk patients (e.g., elderly, debilitated, presence of respiratory disease, etc.) and/or in patients where other CNS depressants are present, such as in the immediate postoperative period, the dose should be limited to the minimum required.
