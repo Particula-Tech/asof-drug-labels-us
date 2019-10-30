@@ -17,18 +17,18 @@ Indocyanine green as an index of hepatic drug extraction has been tested and no 
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a 106 week study in rats and a 92 week study in mice given oral doses of up to 2000 mg/kg/day (approximately 2500 times the recommended human dose for active duodenal ulcer), there was no evidence of carcinogenic potential for famotidine.
+In a 106 week study in rats and a 92 week study in mice given oral doses of up to 2,000 mg/kg/day (approximately 2,500 times the recommended human dose for active duodenal ulcer), there was no evidence of carcinogenic potential for famotidine.
 
 Famotidine was negative in the microbial mutagen test (Ames test) using Salmonella typhimurium and Escherichia coli with or without rat liver enzyme activation at concentrations up to 10,000 mcg/plate.
 In in vivo studies in mice, with a micronucleus test and a chromosomal aberration test, no evidence of a mutagenic effect was observed.
 
-In studies with rats given oral doses of up to 2000 mg/kg/day or intravenous doses of up to 200 mg/kg/day, fertility and reproductive performance were not affected.
+In studies with rats given oral doses of up to 2,000 mg/kg/day or intravenous doses of up to 200 mg/kg/day, fertility and reproductive performance were not affected.
 
 ## Pregnancy
 
 Pregnancy Category B
 
-Reproductive studies have been performed in rats and rabbits at oral doses of up to 2000 and 500 mg/kg/day, respectively, and in both species at IV doses of up to 200 mg/kg/day, and have revealed no significant evidence of impaired fertility or harm to the fetus due to famotidine.
+Reproductive studies have been performed in rats and rabbits at oral doses of up to 2,000 and 500 mg/kg/day, respectively, and in both species at IV doses of up to 200 mg/kg/day, and have revealed no significant evidence of impaired fertility or harm to the fetus due to famotidine.
 While no direct fetotoxic effects have been observed, sporadic abortions occurring only in mothers displaying marked decreased food intake were seen in some rabbits at oral doses of 200 mg/kg/day (250 times the usual human dose) or higher.
 There are, however, no adequate or well-controlled studies in pregnant women.
 Because animal reproductive studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

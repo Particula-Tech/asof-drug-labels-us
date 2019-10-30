@@ -7,5 +7,5 @@ Unabsorbed material should be removed from the gastrointestinal tract, the patie
 
 The intravenous LD 50 of famotidine for mice and rats ranged from 254 to 563 mg/kg and the minimum lethal single IV dose in dogs was approximately 300 mg/kg.
 Signs of acute intoxication in IV treated dogs were emesis, restlessness, pallor of mucous membranes or redness of mouth and ears, hypotension, tachycardia and collapse.
-The oral LD 50 of famotidine in male and female rats and mice was greater than 3000 mg/kg and the minimum lethal acute oral dose in dogs exceeded 2000 mg/kg.
+The oral LD 50 of famotidine in male and female rats and mice was greater than 3,000 mg/kg and the minimum lethal acute oral dose in dogs exceeded 2,000 mg/kg.
 Famotidine did not produce overt effects at high oral doses in mice, rats, cats and dogs, but induced significant anorexia and growth depression in rabbits starting with 200 mg/kg/day orally.

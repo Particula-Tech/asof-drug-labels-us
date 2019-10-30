@@ -1,6 +1,8 @@
 # ADVERSE REACTIONS
 
-The adverse reactions listed below have been reported during domestic and international clinical trials in approximately 2500 patients.
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+The adverse reactions listed below have been reported during domestic and international clinical trials in approximately 2,500 patients.
 In those controlled clinical trials in which famotidine tablets were compared to placebo, the incidence of adverse experiences in the group which received famotidine tablets, 40 mg at bedtime, was similar to that in the placebo group.
 
 The following adverse reactions have been reported to occur in more than 1% of patients on therapy with famotidine in controlled clinical trials, and may be causally related to the drug: headache (4.7%), dizziness (1.3%), constipation (1.2%) and diarrhea (1.7%).

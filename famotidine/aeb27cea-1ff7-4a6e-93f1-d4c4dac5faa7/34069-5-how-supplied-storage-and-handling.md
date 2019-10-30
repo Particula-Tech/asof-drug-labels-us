@@ -4,9 +4,9 @@ FOR INTRAVENOUS USE ONLY AFTER DILUTION.
 
 Famotidine Injection, USP, 10 mg per 1 mL is a non-preserved, clear, colorless solution and is supplied as:
 
-| Product No. | NDC No. |  |
-| --- | --- | --- |
-| 730912 | 63323-739-12 | Famotidine Injection, USP, 10 mg/mL, 2 mL single dose vial, 25 vials per tray. |
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| 730912 | NDC 63323-739-12 Unit of 25 | 20 mg per 2 mL (10 mg per mL) | NDC 63323-739-11 2 mL Single Dose Vial |
 
 ## Storage
 
