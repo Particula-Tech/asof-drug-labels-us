@@ -6,6 +6,6 @@ Distributed by Roerig Division of Pfizer, Inc. New York, NY 10017
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-LAB-0748-3.0
+LAB-0748-4.0
 
-6/2018
+Revised: 10/2019

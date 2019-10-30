@@ -1,10 +1,19 @@
 # WARNINGS
 
+## Anaphylaxis
+
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy.
 These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
 There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins.
 Before initiating therapy with penicillin G, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, or other allergens.
 If an allergic reaction occurs, penicillin G should be discontinued and appropriate therapy instituted.
+
+## Severe cutaneous adverse reactions
+
+Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking beta-lactam antibiotics.
+When SCAR is suspected, Penicillin G Potassium for Injection, USP should be discontinued immediately and an alternative treatment should be considered.
+
+## Clostridium difficile associated diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Penicillin G Potassium for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
