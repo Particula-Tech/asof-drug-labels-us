@@ -9,7 +9,7 @@ Do not administer intravenously or intramuscularly.
 ## 5.2 SUBLOCADE Risk Evaluation and Mitigation Strategy (REMS) Program
 
 SUBLOCADE is available only through a restricted program called the SUBLOCADE REMS Program because of the risk of serious harm or death that could result from intravenous self-administration.
-The goal of the REMS is to mitigate serious harm or death that could result from intravenous self-administration by ensuring that healthcare settings and pharmacies are certified and only dispense SUBLOCADE directly to a healthcare provider for administration by a health care provider.
+The goal of the REMS is to mitigate serious harm or death that could result from intravenous self-administration by ensuring that healthcare settings and pharmacies are certified and only dispense SUBLOCADE directly to a healthcare provider for administration by a healthcare provider.
 
 Notable requirements of the SUBLOCADE REMS Program include the following:
 
@@ -25,7 +25,7 @@ SUBLOCADE contains buprenorphine, a Schedule III controlled substance that can b
 Buprenorphine is sought by people with opioid use disorder and is subject to criminal diversion.
 Monitor all patients for progression of opioid use disorder and addictive behaviors [see Drug Abuse and Dependence (9.2)].
 
-## 5.4 Risk of Respiratory and Central Nervous System (CNS) Depression
+## 5.4 Risk of Life-Threatening Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
 Many, but not all, postmarketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of buprenorphine and benzodiazepines or other CNS depressants, including alcohol.
@@ -34,6 +34,10 @@ Warn patients of the potential danger of self-administration of benzodiazepines 
 Use SUBLOCADE with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
 
 Due to its extended-release characteristics, if SUBLOCADE is discontinued as a result of compromised respiratory function, monitor patients for ongoing buprenorphine effects for several months.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
 
 ## 5.5 Managing Risks From Concomitant Use of Benzodiazepines Or Other CNS Depressants With Buprenorphine
 

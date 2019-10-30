@@ -31,7 +31,7 @@ Patients appropriate for SUBLOCADE are adults who have initiated treatment on a 
 The patient may only be transitioned to SUBLOCADE after a minimum of 7 days.
 
 Initiation of treatment with transmucosal buprenorphine-containing products should be based on instructions in their appropriate product label.
-One SUBOXONE® (buprenorphine and naloxone) 8 mg/2 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBUTEX® (buprenorphine HCl) 8 mg sublingual tablet or one Bunavail® (buprenorphine and naloxone) 4.2mg/0.7 mg buccal film or one Zubsolv® (buprenorphine and naloxone) 5.7 mg/1.4 mg sublingual tablet.
+One SUBOXONE® (buprenorphine and naloxone) 8 mg/2 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBUTEX® (buprenorphine HCl) 8 mg sublingual tablet or one Bunavail® (buprenorphine and naloxone) 4.2 mg/0.7 mg buccal film or one Zubsolv® (buprenorphine and naloxone) 5.7 mg/1.4 mg sublingual tablet.
 
 ## 2.5 Clinical Supervision
 
@@ -166,7 +166,7 @@ Instruct the patient not to rub or massage the injection site and to be aware of
 ## 2.7 Limits on Distribution
 
 SUBLOCADE is subject to a risk evaluation and mitigation strategy (REMS) program that includes, among other elements, a restricted distribution system.
-The purpose of the restricted distribution system is to ensure that SUBLOCADE is only administered by a health care provider [see Warnings and Precautions (5.2)].
+The purpose of the restricted distribution system is to ensure that SUBLOCADE is only administered by a healthcare provider [see Warnings and Precautions (5.2)].
 
 ## 2.8 Removal of the Depot
 
