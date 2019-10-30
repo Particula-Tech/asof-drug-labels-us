@@ -14,8 +14,6 @@ LYOPHILIZED
 
 # VIAL LABEL 100 mg
 
-​
-
 NDC 0143-9554-01
 
 Rx only
