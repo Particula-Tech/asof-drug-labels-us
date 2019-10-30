@@ -15,7 +15,7 @@ The drug is practically insoluble in water and in ether; slightly soluble in dil
 LANOXIN Injection and Injection Pediatric are sterile solutions of digoxin for intravenous or intramuscular injection.
 The vehicle contains 40% propylene glycol and 10% alcohol.
 The injection is buffered to a pH of 6.8-7.2 with 0.17% dibasic sodium phosphate and 0.08% anhydrous citric acid.
-Each 2-mL ampule of LANOXIN Injection contains 500 mcg (0.5 mg) digoxin (250 mcg [0.25 mg] per mL).
+Each 2-mL ampule or vial of LANOXIN Injection contains 500 mcg (0.5 mg) digoxin (250 mcg [0.25 mg] per mL).
 Dilution is not required.
-Each 1-mL ampule of LANOXIN Injection Pediatric contains 100 mcg (0.1 mg) digoxin.
+Each 1-mL ampule or vial of LANOXIN Injection Pediatric contains 100 mcg (0.1 mg) digoxin.
 Dilution is not required.
