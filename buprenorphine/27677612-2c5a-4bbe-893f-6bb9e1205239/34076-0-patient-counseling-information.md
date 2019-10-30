@@ -1,41 +1,52 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
-Safe Use
+## Storage and Disposal
 
-Before initiating treatment with SUBUTEX sublingual tablet, explain the points listed below to caregivers and patients.
-Instruct patients to read the Medication Guide each time SUBUTEX sublingual tablet is dispensed because new information may be available.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store SUBUTEX securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.4), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving SUBUTEX unsecured can pose a deadly risk to others in the home.
 
-- Patients should be warned that it is extremely dangerous to self-administer non-prescribed benzodiazepines or other CNS depressants (including alcohol) while taking SUBUTEX sublingual tablet.
-  Patients prescribed benzodiazepines or other CNS depressants should be cautioned to use them only as directed by their physicians [see Warnings and Precautions (5.2), Drug Interactions (7.3)].
-- Patients should be advised that SUBUTEX sublingual tablet contains an opioid that can be a target for people who abuse prescription medications or street drugs.
-  Patients should be cautioned to keep their tablets in a safe place, and to protect them from theft.
-- Patients should be instructed to keep SUBUTEX sublingual tablet in a secure place, out of the sight and reach of children.
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused SUBUTEX should be disposed of by flushing the unused medication down the toilet (if a drug take-back option is not readily available).
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
+## Safe Use
+
+Before initiating treatment with SUBUTEX, explain the points listed below to caregivers and patients.
+Instruct patients to read the Medication Guide each time SUBUTEX is dispensed because new information may be available.
+
+- Inform patients and caregivers that potentially fatal additive effects may occur if SUBUTEX are used with benzodiazepines or other CNS depressants, including alcohol.
+  Counsel patients that such medications should not be used concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
+- Advise patients that SUBUTEX contains an opioid that can be a target for people who abuse prescription medications or street drugs, to keep their tablets in a safe place, and to protect them from theft.
+- Instruct patients to keep SUBUTEX in a secure place, out of the sight and reach of children.
   Accidental or deliberate ingestion by a child may cause respiratory depression that can result in death.
-  Patients should be advised that if a child is exposed to SUBUTEX sublingual tablet, medical attention should be sought immediately.
-- Patients should be advised never to give SUBUTEX sublingual tablet to anyone else, even if he or she has the same signs and symptoms.
+  Advise patients to seek medical attention immediately if a child is exposed to SUBUTEX.
+- Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+  Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
+  Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
+- Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+  Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+  Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.6)].
+- Advise patients to never give SUBUTEX to anyone else, even if he or she has the same signs and symptoms.
   It may cause harm or death.
-- Patients should be advised that selling or giving away this medication is against the law.
-- Patients should be cautioned that SUBUTEX sublingual tablet may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving or operating hazardous machinery.
-  Caution should be taken especially during drug induction and dose adjustment and until individuals are reasonably certain that buprenorphine therapy does not adversely affect their ability to engage in such activities [see Warnings and Precautions (5.12)].
-- Patients should be advised not to change the dosage of SUBUTEX sublingual tablet without consulting their physicians.
-- Patients should be advised to take SUBUTEX sublingual tablet once a day.
-- Patients should be informed that SUBUTEX sublingual tablet can cause drug dependence and that withdrawal signs and symptoms may occur when the medication is discontinued.
-- Patients seeking to discontinue treatment with buprenorphine for opioid dependence should be advised to work closely with their physicians on a tapering schedule and should be apprised of the potential to relapse to illicit drug use associated with discontinuation of opioid agonist/partial agonist medication-assisted treatment.
-- Patients should be cautioned that, like other opioids, SUBUTEX sublingual tablet may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.13)].
-- Patients should inform their physicians if any other prescription medications, over-the-counter medications, or herbal preparations are prescribed or currently being used [see Drug Interactions (7.1, 7.2 and 7.3)].
-- Women of childbearing potential who become pregnant or are planning to become pregnant, should be advised to consult their physician regarding the possible effects of using SUBUTEX sublingual tablet during pregnancy [see Specific Populations (8.1)].
-- Patients should be warned that buprenorphine passes into breast milk.
-  Breast-feeding is therefore not advised in mothers treated with buprenorphine products [see Specific Populations (8.3)].
-- Patients should inform their family members that, in the event of emergency, the treating physician or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with SUBUTEX sublingual tablet.
-- Refer to the Medication Guide for additional information regarding the counseling information.
-
-Disposal of Unused SUBUTEX Sublingual Tablets
-
-Unused SUBUTEX sublingual tablets should be disposed of as soon as they are no longer needed.
-Flush unused tablets down the toilet.
+- Advise patients that selling or giving away this medication is against the law.
+- Caution patients that SUBUTEX may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving or operating hazardous machinery.
+  Caution should be taken especially during drug induction and dose adjustment and until individuals are reasonably certain that buprenorphine therapy does not adversely affect their ability to engage in such activities [see Warnings and Precautions (5.13)].
+- Advise patients not to change the dosage of SUBUTEX without consulting their healthcare providers.
+- Advise patients that if they miss a dose of SUBUTEX they should take it as soon as they remember.
+  If it is almost time for the next dose, they should skip the missed dose and take the next dose at the regular time.
+- Advise patients to take SUBUTEX once a day.
+- Inform patients that SUBUTEX can cause drug dependence and that withdrawal signs and symptoms may occur when the medication is discontinued.
+- Advise patients seeking to discontinue treatment with buprenorphine for opioid dependence to work closely with their healthcare providers on a tapering schedule and inform them of the potential to relapse to illicit drug use associated with discontinuation of opioid agonist/partial agonist medication-assisted treatment.
+- Advise patients that, like other opioids, SUBUTEX may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.14)].
+- Advise patients to inform their healthcare providers if any other prescription medications, over-the-counter medications, or herbal preparations are prescribed or currently being used [see Drug Interactions (7)].
+- Advise women that if they are pregnant while being treated with SUBUTEX, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
+- Advise women who are breastfeeding to monitor the infant for drowsiness and difficulty breathing [see Specific Populations (8.2)].
+- Inform patients that chronic use of opioids may cause reduced fertility.
+  It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
+- Advise patients to inform their family members that, in the event of emergency, the treating healthcare providers or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with SUBUTEX.
 
 Manufactured by: Reckitt Benckiser Healthcare (UK) Ltd. Hull, UK, HU8 7DS
 
-Distributed by: Reckitt Benckiser Pharmaceuticals Inc. Richmond, VA 23235
+Distributed by: Indivior Inc. North Chesterfield, VA 23235

@@ -1,6 +1,10 @@
 # 10 OVERDOSAGE
 
+Clinical Presentation
+
 The manifestations of acute overdose include pinpoint pupils, sedation, hypotension, respiratory depression, and death.
+
+Treatment of Overdose
 
 In the event of overdose, the respiratory and cardiac status of the patient should be monitored carefully.
 When respiratory or cardiac functions are depressed, primary attention should be given to the re-establishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.

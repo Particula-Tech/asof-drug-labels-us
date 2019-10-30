@@ -1,31 +1,30 @@
-MEDICATION GUIDE
+MEDICATION GUIDE SUBUTEX® (Sub-u-tex) (buprenorphine) Sublingual Tablet (CIII)
 
-SUBUTEX® (Sub-u-tex) (buprenorphine)
-
-Sublingual Tablet (CIII)
-
-| IMPORTANT: Keep SUBUTEX in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses SUBUTEX, get emergency help right away. |
+| IMPORTANT:Keep SUBUTEX in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses SUBUTEX, get emergency help right away. |
 | --- |
 
-Read this Medication Guide before you start taking SUBUTEX and each time you get a refill.
+Read this Medication Guide that comes with SUBUTEX before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor.
 Talk to your doctor or pharmacist if you have questions about SUBUTEX.
 
 Share the important information in this Medication Guide with members of your household.
 
-What is the most important information I should know about SUBUTEX Sublingual Tablets?
+What is the most important information I should know about SUBUTEX?
 
 - SUBUTEX can cause serious and life-threatening breathing problems.
-  Call your doctor right away or get emergency help if:These can be signs of an overdose or other serious problems.
+  Call your doctor right away or get emergency help if:
   - You feel faint, dizzy or confused
-  - Your breathing gets much slower than is normal for you
+  - Your breathing gets much slower than is normal for you These can be signs of an overdose or other serious problems.
+- Do not switch from SUBUTEX to other medicines that contain buprenorphine without talking with your doctor.
+  The amount of buprenorphine in a dose of SUBUTEX may not be the same as the amount of buprenorphine in other medicines that contain buprenorphine.
+  Your doctor will prescribe a starting dose of SUBUTEX that may be different than other buprenorphine containing medicines you may have been taking.
 - SUBUTEX contains an opioid that can cause physical dependence.
   - Do not stop taking SUBUTEX without talking to your doctor.
     You could become sick with uncomfortable withdrawal signs and symptoms because your body has become used to this medicine
   - Physical dependence is not the same as drug addiction
   - SUBUTEX is not for occasional or “as needed” use
-- An overdose, and even death, can happen if you take benzodiazepines, sedatives, tranquilizers, or alcohol while using SUBUTEX.
+- An overdose, and even death, can happen if you take benzodiazepines, sedatives, tranquilizers, antidepressants, or alcohol while using SUBUTEX.
   Ask your doctor what you should do if you are taking one of these.
 - Call a doctor or get emergency help right away if you:
   - Feel sleepy and uncoordinated
@@ -34,11 +33,15 @@ What is the most important information I should know about SUBUTEX Sublingual Ta
   - Cannot think well or clearly
   - Have slowed reflexes and breathing
 - Do not inject (“shoot-up”) SUBUTEX.
-  - Injecting this medicine may cause life-threatening infections and other serious health problems.
-  - Injecting SUBUTEX may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems and cravings.
+  - Injecting SUBUTEX may cause life-threatening infections and other serious health problems.
+  - Injecting SUBUTEX may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
 - In an emergency, have family members tell the emergency department staff that you are physically dependent on an opioid and are being treated with SUBUTEX.
+- Never give anyone else your SUBUTEX.
+  They could die from taking it.
+  Selling or giving away SUBUTEX is against the law.
+- Store SUBUTEX securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 
-What is SUBUTEX Sublingual Tablet?
+What is SUBUTEX?
 
 - SUBUTEX is a prescription medicine used to begin treatment in adults who are addicted to (dependent on) opioid drugs (either prescription or illegal drugs), as part of a complete treatment program that also includes counseling and behavioral therapy.
 - SUBUTEX is most often used for the first 1 or 2 days to help you start with treatment.
@@ -48,21 +51,21 @@ What is SUBUTEX Sublingual Tablet?
 
 - It is not known if SUBUTEX is safe or effective in children.
 
-Who should not take SUBUTEX Sublingual Tablets?
+Who should not take SUBUTEX?
 
 Do not take SUBUTEX if you are allergic to buprenorphine.
 
-What should I tell my doctor before taking SUBUTEX Sublingual Tablets?
+What should I tell my doctor before taking SUBUTEX?
 
 SUBUTEX may not be right for you.
 Before taking SUBUTEX, tell your doctor if you:
 
+- Have liver or kidney problems
 - Have trouble breathing or lung problems
 - Have an enlarged prostate gland (men)
 - Have a head injury or brain problem
 - Have problems urinating
 - Have a curve in your spine that affects your breathing
-- Have liver or kidney problems
 - Have gallbladder problems
 - Have adrenal gland problems
 - Have Addison's disease
@@ -71,28 +74,30 @@ Before taking SUBUTEX, tell your doctor if you:
 - Have mental problems such as hallucinations (seeing or hearing things that are not there)
 - Have any other medical condition
 - Are pregnant or plan to become pregnant.
-  It is not known if SUBUTEX will harm your unborn baby.
-  If you take SUBUTEX while pregnant, your baby may have symptoms of withdrawal at birth.
+  If you take SUBUTEX while pregnant, your baby may have symptoms of opioid withdrawal or respiratory depression at birth.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- Are breast feeding or plan to breast feed.
-  SUBUTEX can pass into your milk and may harm the baby.
+- Are breastfeeding or plan to breastfeed.
+  SUBUTEX can pass into your milk and may harm your baby.
   Talk to your doctor about the best way to feed your baby if you take SUBUTEX.
-  Breast feeding is not recommended while taking SUBUTEX.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Monitor your baby for increased sleepiness and breathing problems.
+
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 SUBUTEX may affect the way other medicines work, and other medicines may affect how SUBUTEX works.
 Some medicines may cause serious or life-threatening medical problems when taken with SUBUTEX.
 
 Sometimes the doses of certain medicines and SUBUTEX may need to be changed if used together.
-Do not take any medicine while using SUBUTEX until you have talked with your doctor.
-Your doctor will tell you if it is safe to take other medicines while you are using SUBUTEX.
+Do not take any medicine while using SUBUTEX until you have talked with
+
+your doctor.
+Your doctor will tell you if it is safe to take other medicines while you are taking SUBUTEX.
 
 Be especially careful about taking other medicines that may make you sleepy, such as pain medicines, tranquilizers, sleeping pills, anxiety medicines or antihistamines.
 
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist each time you get a new medicine.
 
-How should I take SUBUTEX Sublingual Tablets?
+How should I take SUBUTEX?
 
 - Always take SUBUTEX exactly as your doctor tells you.
   Your doctor may change your dose after seeing how it affects you.
@@ -116,18 +121,17 @@ How should I take SUBUTEX Sublingual Tablets?
   To have fewer withdrawal symptoms, ask your doctor how to stop using SUBUTEX the right way.
 - If you take too much SUBUTEX or overdose, call Poison Control or get emergency medical help right away.
 
-What should I avoid while taking SUBUTEX Sublingual Tablets?
+What should I avoid while taking SUBUTEX?
 
 - Do not drive, operate heavy machinery, or perform any other dangerous activities until you know how this medication affects you.
   Buprenorphine can cause drowsiness and slow reaction times.
   This may happen more often in the first few weeks of treatment when your dose is being changed, but can also happen if you drink alcohol or take other sedative drugs when you take SUBUTEX.
 - You should not drink alcohol while using SUBUTEX, as this can lead to loss of consciousness or death.
 
-What are the possible side effects of SUBUTEX Sublingual Tablets?
-
+What are the possible side effects of SUBUTEX?
 SUBUTEX can cause serious side effects including:
 
-- See “What is the most important information I should know about SUBUTEX Sublingual Tablets?”
+- See “What is the most important information I should know about SUBUTEX?”
 - Respiratory problems.
   You have a higher risk of death and coma if you take SUBUTEX with other medicines, such as benzodiazepines.
 - Sleepiness, dizziness, and problems with coordination
@@ -136,7 +140,7 @@ SUBUTEX can cause serious side effects including:
   Call your doctor right away if you notice any of these signs of liver problems: Your skin or the white part of your eyes turning yellow (jaundice), urine turning dark, stools turning light in color, you have less of an appetite, or you have stomach (abdominal) pain or nausea.
   Your doctor should do tests before you start taking and while you take SUBUTEX.
 - Allergic reaction.
-  You may have a rash, hives, swelling of your face, wheezing, or loss of blood pressure and consciousness.
+  You may have a rash, hives, swelling of the face, wheezing, or loss of blood pressure and consciousness.
   Call a doctor or get emergency help right away.
 - Opioid withdrawal.
   This can include: shaking, sweating more than normal, feeling hot or cold more than normal, runny nose, watery eyes, goose bumps, diarrhea, vomiting and muscle aches.
@@ -144,63 +148,80 @@ SUBUTEX can cause serious side effects including:
 - Decrease in blood pressure.
   You may feel dizzy if you get up too fast from sitting or lying down.
 
-Common side effects of SUBUTEX Sublingual Tablets include:
+Common side effects of SUBUTEX include:
 
-- Headache
 - Nausea
 - Vomiting
-- Increased sweating
-- Constipation
 - Drug withdrawal syndrome
+- Headache
+- Sweating
+- Numb mouth
+- Constipation
+- Swollen and/or painful tongue
+- The inside of your mouth is more red than normal
+- Intoxication (feeling lightheaded or drunk)
+- Disturbance in attention
+- Irregular heart beat (palpitations)
 - Decrease in sleep (insomnia)
-- Pain
+- Blurred vision
+- Back pain
+- Fainting
+- Dizziness
+- Sleepiness
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
-These are not all the possible side effects of SUBUTEX Sublingual Tablet.
+These are not all the possible side effects of SUBUTEX.
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at
 
-How should I store SUBUTEX Sublingual Tablets?
+1-800-FDA-1088.
 
-- Store SUBUTEX between 59°F and 86°F (15°C to 30°C).
+How should I store SUBUTEX?
+
+- Store SUBUTEX at room temperature between 68°F and 77°F (20°C to 25°C).
 - Keep SUBUTEX in a safe place, out of the sight and reach of children.
 
-How should I dispose of unused SUBUTEX Sublingual Tablets?
+How should I dispose of unused SUBUTEX?
 
-- Dispose of unused SUBUTEX Sublingual Tablets as soon as you no longer need them.
-- Flush unused tablets down the toilet.
+- Dispose of unused SUBUTEX as soon as you no longer need them.
+- Dispose of expired, unwanted or unused SUBUTEX by promptly flushing down the toilet (if a drug take-back option is not readily available).
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
-General information about the safe and effective use of SUBUTEX Sublingual Tablets
+If you need help with disposal of SUBOXONE, call 1-877-782-6966.
+
+General information about the safe and effective use of SUBUTEX
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use SUBUTEX for a condition for which it was not prescribed.
+Do not take SUBUTEX for a condition for which it was not prescribed.
 Do not give SUBUTEX to other people, even if they have the same symptoms you have.
 It may harm them and it is against the law.
 
-This Medication Guide summarizes the most important information about SUBUTEX Sublingual Tablet.
+This Medication Guide summarizes the most important information about SUBUTEX.
 If you would like more information, talk to your doctor or pharmacist.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
 
 For more information call 1-877-782-6966.
 
-What are the ingredients in SUBUTEX Sublingual Tablets?
+What are the ingredients in SUBUTEX sublingual tablets?
 
-Active Ingredient: buprenorphine Inactive Ingredients: lactose, mannitol, cornstarch, povidone K30, citric acid, sodium citrate, and magnesium stearate
+Active Ingredient: buprenorphine
 
-Issued December 2011
+Inactive Ingredients: lactose, mannitol, cornstarch, povidone K30, citric acid, sodium citrate, and magnesium stearate
 
-Manufactured by: Reckitt Benckiser Healthcare (UK) Ltd., Hull, HU8 7DS.
-UK Dist. by: Reckitt Benckiser Pharmaceuticals Inc., Richmond, VA 23235
+Manufactured for Indivior Inc. North Chesterfield, VA 23235
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+SUBUTEX® is a registered trademark of Indivior UK Limited
 
-SUBUTEX® is a registered trademark of Reckitt Benckiser Healthcare (UK) Ltd.
+Revised: October 2019
 
-Copyright © 2012 Reckitt Benckiser Pharmaceuticals Inc.
+Copyright © 2018 Indivior Inc.
 
 Printed in USA
 
-1-1278-009-US-0112
+Per FDA's Safety Labeling Change Notification (09APR2019) –
+
+Indivior proposes to remove “Unused tablets should be flushed down the toilet.” as it is duplicated in FDA's requested language.
