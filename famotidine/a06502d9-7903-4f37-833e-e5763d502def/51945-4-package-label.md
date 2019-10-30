@@ -1,12 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 20 MG TABLETS
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0187-4420-30
+NDC 0187-4420-30 Rx only
 
-Rx only
-
-Pepcid (Famotidine)
-
-Tablets, USP
+Pepcid (Famotidine) Tablets, USP
 
 20 mg
 
@@ -14,15 +10,11 @@ Tablets, USP
 
 VALEANT
 
-PRINCIPAL DISPLAY PANEL - 40 MG TABLETS
+# Package/Label Display Panel
 
-NDC 0187-4440-30
+NDC 0187-4440-30 Rx only
 
-Rx only
-
-Pepcid (Famotidine)
-
-Tablets, USP
+Pepcid (Famotidine) Tablets, USP
 
 40 mg
 

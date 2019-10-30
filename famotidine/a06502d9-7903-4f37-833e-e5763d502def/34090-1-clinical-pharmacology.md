@@ -1,130 +1,99 @@
-# CLINICAL PHARMACOLOGY IN ADULTS
+# 12 CLINICAL PHARMACOLOGY
 
-## GI Effects
+## 12.1 Mechanism of Action
 
-PEPCID is a competitive inhibitor of histamine H2‑receptors.
-The primary clinically important pharmacologic activity of PEPCID is inhibition of gastric secretion.
-Both the acid concentration and volume of gastric secretion are suppressed by PEPCID, while changes in pepsin secretion are proportional to volume output.
+Famotidine is a competitive inhibitor of histamine-2 (H2) receptors.
+The primary clinically important pharmacologic activity of famotidine is inhibition of gastric secretion.
+Both the acid concentration and volume of gastric secretion are suppressed by famotidine, while changes in pepsin secretion are proportional to volume output.
 
-In normal volunteers and hypersecretors, PEPCID inhibited basal and nocturnal gastric secretion, as well as secretion stimulated by food and pentagastrin.
-After oral administration, the onset of the antisecretory effect occurred within one hour; the maximum effect was dose-dependent, occurring within one to three hours.
-Duration of inhibition of secretion by doses of 20 and 40 mg was 10 to 12 hours.
+## 12.2 Pharmacodynamics
 
-Single evening oral doses of 20 and 40 mg inhibited basal and nocturnal acid secretion in all subjects; mean nocturnal gastric acid secretion was inhibited by 86% and 94%, respectively, for a period of at least 10 hours.
+Adults
+
+PEPCID inhibited both basal and nocturnal gastric secretion, as well as secretion stimulated by food and pentagastrin.
+After oral administration of PEPCID, the onset of the antisecretory effect occurred within one hour; the maximum effect was dose-dependent, occurring within one to three hours.
+Duration of inhibition of secretion by doses of 20 mg and 40 mg was 10 to 12 hours.
+
+Single evening oral doses of 20 mg and 40 mg inhibited basal and nocturnal acid secretion in all subjects; mean nocturnal gastric acid secretion was inhibited by 86% and 94%, respectively, for a period of at least 10 hours.
 The same doses given in the morning suppressed food-stimulated acid secretion in all subjects.
 The mean suppression was 76% and 84%, respectively, 3 to 5 hours after administration, and 25% and 30%, respectively, 8 to 10 hours after administration.
-In some subjects who received the 20-mg dose, however, the antisecretory effect was dissipated within 6‑8 hours.
+In some subjects who received the 20 mg dose, however, the antisecretory effect was dissipated within 6 to 8 hours.
 There was no cumulative effect with repeated doses.
-The nocturnal intragastric pH was raised by evening doses of 20 and 40 mg of PEPCID to mean values of 5.0 and 6.4, respectively.
-When PEPCID was given after breakfast, the basal daytime interdigestive pH at 3 and 8 hours after 20 or 40 mg of PEPCID was raised to about 5.
+The nocturnal intragastric pH was raised by evening doses of 20 mg and 40 mg of PEPCID to mean values of 5.0 and 6.4, respectively.
+When PEPCID was given after breakfast, the basal daytime interdigestive pH at 3 and 8 hours after 20 mg or 40 mg of PEPCID was raised to about 5.
 
 PEPCID had little or no effect on fasting or postprandial serum gastrin levels.
 Gastric emptying and exocrine pancreatic function were not affected by PEPCID.
 
-## Other Effects
-
-Systemic effects of PEPCID in the CNS, cardiovascular, respiratory or endocrine systems were not noted in clinical pharmacology studies.
-Also, no antiandrogenic effects were noted.
-(See ADVERSE REACTIONS.)
+In clinical pharmacology studies, systemic effects of PEPCID in the CNS, cardiovascular, respiratory or endocrine systems were not noted.
+Also, no anti-androgenic effects were noted.
 Serum hormone levels, including prolactin, cortisol, thyroxine (T4), and testosterone, were not altered after treatment with PEPCID.
 
-## Pharmacokinetics
+Pediatric Patients
 
-PEPCID is incompletely absorbed.
-The bioavailability of oral doses is 40-45%.
+Pharmacodynamics of famotidine, assessed by gastric pH, were evaluated in 5 pediatric patients 2 to 13 years of age using the sigmoid Emax model.
+These data suggest that the relationship between serum concentration of famotidine and gastric acid suppression is similar to that observed in adults (see Table 3).
+
+Table 3: Serum Concentrations of Famotidine Associated with Gastric Acid Reduction in PEPCID-Treated Pediatric and Adult PatientsUsing the Sigmoid Emax model, serum concentrations of famotidine associated with 50% maximum gastric acid reduction are presented as means ± SD.
+
+|  | EC50 (ng/mL)a |
+| --- | --- |
+| Pediatric Patients | 26 ± 13 |
+| Adults |  |
+| Healthy adult subjects | 26.5 ± 10.3 |
+| Adult patients with upper GI bleeding | 18.7 ± 10.8 |
+
+In a study examining the effect of famotidine on gastric pH and duration of acid suppression in pediatric patients, four pediatric patients ages 11 to 15 years of age using the oral formulation at a dose of 0.5 mg/kg, maintained a gastric pH above 5 for 13.5 ± 1.8 hours.
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+Famotidine is incompletely absorbed.
+The bioavailability of oral doses is 40 to 45%.
 Bioavailability may be slightly increased by food, or slightly decreased by antacids; however, these effects are of no clinical consequence.
-PEPCID undergoes minimal first-pass metabolism.
-After oral doses, peak plasma levels occur in 1-3 hours.
-Plasma levels after multiple doses are similar to those after single doses.
-Fifteen to 20% of PEPCID in plasma is protein bound.
-PEPCID has an elimination half-life of 2.5-3.5 hours.
-PEPCID is eliminated by renal (65-70%) and metabolic (30-35%) routes.
-Renal clearance is 250-450 mL/min, indicating some tubular excretion.
-Twenty-five to 30% of an oral dose and 65-70% of an intravenous dose are recovered in the urine as unchanged compound.
-The only metabolite identified in man is the S-oxide.
 
-There is a close relationship between creatinine clearance values and the elimination half-life of PEPCID.
-In patients with severe renal insufficiency, i.e., creatinine clearance less than 10 mL/min, the elimination half-life of PEPCID may exceed 20 hours and adjustment of dose or dosing intervals in moderate and severe renal insufficiency may be necessary (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Peak famotidine plasma levels occur in 1 to 3 hours.
+Plasma levels after multiple dosages are similar to those after single doses.
 
-In elderly patients, there are no clinically significant age-related changes in the pharmacokinetics of PEPCID.
-However, in elderly patients with decreased renal function, the clearance of the drug may be decreased (see PRECAUTIONS, Geriatric Use).
+Distribution
 
-## Clinical Studies Duodenal Ulcer
+Fifteen to 20% of famotidine in plasma is protein bound.
 
-In a U.S. multicenter, double-blind study in outpatients with endoscopically confirmed duodenal ulcer, orally administered PEPCID was compared to placebo.
-As shown in Table 1, 70% of patients treated with PEPCID 40 mg h.s. were healed by week 4.
+Elimination
 
-| Table 1 Outpatients with Endoscopically Confirmed Healed Duodenal Ulcers |  |  |  |
-| --- | --- | --- | --- |
-|  | PEPCID 40 mg h.s. (N = 89) | PEPCID 20 mg b.i.d. (N = 84) | Placebo h.s. (N = 97) |
-| Week 2 Week 4 | **32% **70% | **38% **67% | 17% 31% |
-| ** Statistically significantly different than placebo (p<0.001) |  |  |  |
+Metabolism
 
-Patients not healed by week 4 were continued in the study.
-By week 8, 83% of patients treated with PEPCID had healed versus 45% of patients treated with placebo.
-The incidence of ulcer healing with PEPCID was significantly higher than with placebo at each time point based on proportion of endoscopically confirmed healed ulcers.
+Famotidine undergoes minimal first-pass metabolism.
+Twenty-five to 30% of an oral dose was recovered in the urine as unchanged compound.
+The only metabolite identified in humans is the S-oxide.
 
-In this study, time to relief of daytime and nocturnal pain was significantly shorter for patients receiving PEPCID than for patients receiving placebo; patients receiving PEPCID also took less antacid than the patients receiving placebo.
+Excretion
 
-## Long-Term Maintenance Treatment of Duodenal Ulcers
+Famotidine has an elimination half-life of 2.5-3.5 hours.
+Famotidine is eliminated by renal (65 to 70%) and metabolic (30 to 35%) routes.
+Renal clearance is 250 to 450 mL/minute, indicating some tubular excretion.
 
-PEPCID, 20 mg p.o. h.s., was compared to placebo h.s. as maintenance therapy in two double-blind, multicenter studies of patients with endoscopically confirmed healed duodenal ulcers.
-In the U.S. study the observed ulcer incidence within 12 months in patients treated with placebo was 2.4 times greater than in the patients treated with PEPCID.
-The 89 patients treated with PEPCID had a cumulative observed ulcer incidence of 23.4% compared to an observed ulcer incidence of 56.6% in the 89 patients receiving placebo (p<0.01).
-These results were confirmed in an international study where the cumulative observed ulcer incidence within 12 months in the 307 patients treated with PEPCID was 35.7%, compared to an incidence of 75.5% in the 325 patients treated with placebo (p<0.01).
+Specific Populations
 
-## Gastric Ulcer
+Pediatric Patients
 
-In both a U.S. and an international multicenter, double-blind study in patients with endoscopically confirmed active benign gastric ulcer, orally administered PEPCID, 40 mg h.s., was compared to placebo h.s.
-Antacids were permitted during the studies, but consumption was not significantly different between the PEPCID and placebo groups.
-As shown in Table 2, the incidence of ulcer healing (dropouts counted as unhealed) with PEPCID was statistically significantly better than placebo at weeks 6 and 8 in the U.S. study, and at weeks 4, 6 and 8 in the international study, based on the number of ulcers that healed, confirmed by endoscopy.
+Bioavailability studies of 8 pediatric patients (11 to 15 years of age) showed a mean oral bioavailability of 0.5 compared to adult values of 0.42 to 0.49.
+Oral doses of 0.5 mg per kg achieved AUCs of 580 ± 60 ng•hr/mL in pediatric patients 11 to 15 years of age, compared to 482 ± 181 ng•hr/mL in adults treated with 40 mg orally.
 
-| Table 2 Patients with Endoscopically Confirmed Healed Gastric Ulcers |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | U.S. Study |  | International Study |  |
-|  | PEPCID 40 mg h.s. (N=74) | Placebo h.s. (N=75) | PEPCID 40 mg h.s. (N=149) | Placebo h.s. (N=145) |
-| Week 4 Week 6 Week 8 | 45% †66% ***78% | 39% 44% 64% | †47% †65% †80% | 31% 46% 54% |
-| ***,† Statistically significantly better than placebo (p≤0.05, p≤0.01 respectively) |  |  |  |  |
+Patients with Renal Impairment
 
-Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving PEPCID than for patients receiving placebo; however, in neither study was there a statistically significant difference in the proportion of patients whose pain was relieved by the end of the study (week 8).
+In adult patients with severe renal impairment (creatinine clearance less than 30 mL/minute), the systemic exposure (AUC) of famotidine increased at least 5-fold.
+In patients with moderate renal impairment (creatinine clearance between 30 to 60 mL/minute), the AUC of famotidine increased at least 2-fold [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
 
-## Gastroesophageal Reflux Disease (GERD)
+Drug Interaction Studies
 
-Orally administered PEPCID was compared to placebo in a U.S. study that enrolled patients with symptoms of GERD and without endoscopic evidence of erosion or ulceration of the esophagus.
-PEPCID 20 mg b.i.d. was statistically significantly superior to 40 mg h.s. and to placebo in providing a successful symptomatic outcome, defined as moderate or excellent improvement of symptoms (Table 3).
+Human Organic Anion Transporter (OAT) 1 and 3: In vitro studies indicate that famotidine is a substrate for OAT1 and OAT3.
+Following coadministration of probenecid (1500 mg), an inhibitor of OAT1 and OAT3, with a single oral 20 mg dose of famotidine in 8 healthy subjects, the serum AUC0-10h of famotidine increased from 424 to 768 ng•hr/mL and the maximum serum concentration (Cmax) increased from 73 to 113 ng/mL.
+Renal clearance, urinary excretion rate and amount of famotidine excreted unchanged in urine were decreased.
+The clinical relevance of this interaction is unknown.
 
-| Table 3 % Successful Symptomatic Outcome |  |  |  |
-| --- | --- | --- | --- |
-|  | PEPCID 20 mg b.i.d. (N=154) | PEPCID 40 mg h.s. (N=149) | Placebo (N=73) |
-| Week 6 | 82†† | 69 | 62 |
-| †† p≤0.01 vs Placebo |  |  |  |
+Multidrug and Toxin Extrusion Protein 1 (MATE-1): An in vitro study showed that famotidine is an inhibitor of MATE-1.
+However, no clinically significant interaction with metformin, a substrate for MATE-1, was observed.
 
-By two weeks of treatment, symptomatic success was observed in a greater percentage of patients taking PEPCID 20 mg b.i.d. compared to placebo (p≤0.01).
-
-Symptomatic improvement and healing of endoscopically verified erosion and ulceration were studied in two additional trials.
-Healing was defined as complete resolution of all erosions or ulcerations visible with endoscopy.
-The U.S. study comparing PEPCID 40 mg p.o. b.i.d. to placebo and PEPCID 20 mg p.o. b.i.d. showed a significantly greater percentage of healing for PEPCID 40 mg b.i.d. at weeks 6 and 12 (Table 4).
-
-| Table 4 % Endoscopic Healing - U.S. Study |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | PEPCID 40 mg b.i.d. (N=127) | PEPCID 20 mg b.i.d. (N=125) | Placebo (N=66) |  |  |  |  |
-| Week 6 Week 12 | 48†††,‡‡ 69†††,‡ | 32 54††† | 18 29 |  |  |  |  |
-| ††† p≤0.01 vs Placebo ‡ p≤0.05 vs PEPCID 20 mg b.i.d. ‡‡ p≤0.01 vs PEPCID 20 mg b.i.d. |  |  |  |  |  |  |  |
-
-As compared to placebo, patients who received PEPCID had faster relief of daytime and nighttime heartburn and a greater percentage of patients experienced complete relief of nighttime heartburn.
-These differences were statistically significant.
-
-In the international study, when PEPCID 40 mg p.o. b.i.d. was compared to ranitidine 150 mg p.o. b.i.d., a statistically significantly greater percentage of healing was observed with PEPCID 40 mg b.i.d. at week 12 (Table 5).
-There was, however, no significant difference among treatments in symptom relief.
-
-| Table 5 % Endoscopic Healing - International Study |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | PEPCID 40 mg b.i.d. (N=175) | PEPCID 20 mg b.i.d. (N=93) | Ranitidine 150 mg b.i.d. (N=172) |  |  |  |  |  |  |  |  |
-| Week 6 Week 12 | 48 71‡‡‡ | 52 68 | 42 60 |  |  |  |  |  |  |  |  |
-| ‡‡‡ p≤0.05 vs Ranitidine 150 mg b.i.d. |  |  |  |  |  |  |  |  |  |  |  |
-
-## Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
-
-In studies of patients with pathological hypersecretory conditions such as Zollinger-Ellison Syndrome with or without multiple endocrine adenomas, PEPCID significantly inhibited gastric acid secretion and controlled associated symptoms.
-Orally administered doses from 20 to 160 mg q 6 h maintained basal acid secretion below 10 mEq/hr; initial doses were titrated to the individual patient need and subsequent adjustments were necessary with time in some patients.
-PEPCID was well tolerated at these high dose levels for prolonged periods (greater than 12 months) in eight patients, and there were no cases reported of gynecomastia, increased prolactin levels, or impotence which were considered to be due to the drug.
+CYP1A2: Famotidine is a weak CYP1A2 inhibitor.

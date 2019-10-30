@@ -1,42 +1,54 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The adverse reactions listed below have been reported during domestic and international clinical trials in approximately 2500 patients.
-In those controlled clinical trials in which PEPCID Tablets were compared to placebo, the incidence of adverse experiences in the group which received PEPCID Tablets, 40 mg at bedtime, was similar to that in the placebo group.
+## 6.1 Clinical Trial Experience
 
-The following adverse reactions have been reported to occur in more than 1% of patients on therapy with PEPCID in controlled clinical trials, and may be causally related to the drug: headache (4.7%), dizziness (1.3%), constipation (1.2%) and diarrhea (1.7%).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The following other adverse reactions have been reported infrequently in clinical trials or since the drug was marketed.
-The relationship to therapy with PEPCID has been unclear in many cases.
-Within each category the adverse reactions are listed in order of decreasing severity:
+PEPCID was studied in 7 US and international placebo- and active-controlled trials in approximately 2500 patients [see Clinical Studies (14)].
+A total of 1442 patients were treated with PEPCID, including 302 treated with 40 mg twice daily, 456 treated with 20 mg twice daily, 461 treated with 40 mg once daily, and 396 treated with 20 mg once daily.
+The population was 17-91 years old, fairly well distributed between gender and race; however, the predominant race treated was Caucasian.
+
+The following adverse reactions occurred in greater than or equal to 1% of PEPCID-treated patients: headache, dizziness and constipation.
+
+The following other adverse reactions were reported in less than 1% of patients in clinical trials:
 
 Body as a Whole: fever, asthenia, fatigue
 
-Cardiovascular: arrhythmia, AV block, palpitation.
-Prolonged QT interval, in patients with impaired renal function, has been reported very rarely.
+Cardiovascular: palpitations
 
-Gastrointestinal: cholestatic jaundice, hepatitis, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
+Gastrointestinal: elevated liver enzymes, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
 
-Hematologic: rare cases of agranulocytosis, pancytopenia, leukopenia, thrombocytopenia
+Hematologic: thrombocytopenia
 
-Hypersensitivity: anaphylaxis, angioedema, orbital or facial edema, urticaria, rash, conjunctival injection
+Hypersensitivity: orbital edema, rash, conjunctival injection, bronchospasm
 
-Musculoskeletal: rhabdomyolysis, musculoskeletal pain including muscle cramps, arthralgia
+Musculoskeletal: musculoskeletal pain, arthralgia
 
-Nervous System/Psychiatric: grand mal seizure; psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence.
-Convulsions, in patients with impaired renal function, have been reported very rarely.
+Nervous System/Psychiatric: seizure, hallucinations, depression, anxiety, decreased libido, insomnia, somnolence
 
-Respiratory: bronchospasm, interstitial pneumonia
-
-Skin: toxic epidermal necrolysis/Stevens-Johnson syndrome (very rare), alopecia, acne, pruritus, dry skin, flushing
+Skin: pruritus, dry skin, flushing
 
 Special Senses: tinnitus, taste disorder
 
-Other: rare cases of impotence and rare cases of gynecomastia have been reported; however, in controlled clinical trials, the incidences were not greater than those seen with placebo.
+Other: impotence
 
-The adverse reactions reported for PEPCID Tablets may also occur with PEPCID for Oral Suspension.
+## 6.2 Postmarketing Experience
 
-## Pediatric Patients
+The following adverse reactions have been identified during post-approval use of famotidine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-In a clinical study in 35 pediatric patients <1 year of age with GERD symptoms [e.g., vomiting (spitting up), irritability (fussing)], agitation was observed in 5 patients on famotidine that resolved when the medication was discontinued.
+Cardiovascular: arrhythmia, AV block, prolonged QT interval
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+Gastrointestinal: cholestatic jaundice, hepatitis
+
+Hematologic: agranulocytosis, pancytopenia, leukopenia
+
+Hypersensitivity: anaphylaxis, angioedema, facial edema, urticaria
+
+Musculoskeletal: rhabdomyolysis, muscle cramps
+
+Nervous System/Psychiatric: confusion, agitation, paresthesia
+
+Respiratory: interstitial pneumonia
+
+Skin: toxic epidermal necrolysis/Stevens-Johnson syndrome
