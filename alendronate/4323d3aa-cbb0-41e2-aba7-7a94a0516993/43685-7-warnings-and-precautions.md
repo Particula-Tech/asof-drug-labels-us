@@ -10,7 +10,7 @@ Physicians should therefore be alert to any signs or symptoms signaling a possib
 The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates including alendronate sodium and/or who fail to swallow oral bisphosphonates including alendronate sodium with the recommended full glass (6 to 8 ounces) of water, and/or who continue to take oral bisphosphonates including alendronate sodium after developing symptoms suggestive of esophageal irritation.
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2.6)].
 In patients who cannot comply with dosing instructions due to mental disability, therapy with alendronate sodium should be used under appropriate supervision.
-There have been postmarketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials [see Adverse Reactions (6.2)].
+There have been post-marketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials [see Adverse Reactions (6.2)].
 
 ## 5.2 Mineral Metabolism
 
@@ -22,7 +22,7 @@ Ensuring adequate calcium and vitamin D intake is especially important in patien
 
 ## 5.3 Musculoskeletal Pain
 
-In postmarketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates that are approved for the prevention and treatment of osteoporosis [see Adverse Reactions (6.2)].
+In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates that are approved for the prevention and treatment of osteoporosis [see Adverse Reactions (6.2)].
 This category of drugs includes alendronate sodium.
 Most of the patients were postmenopausal women.
 The time to onset of symptoms varied from one day to several months after starting the drug.

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Alendronate Sodium Tablets, USP (a len'droe nate soe'dee um) Read the Medication Guide that comes with alendronate sodium tablets before you start taking them and each time you get a refill.
+Alendronate Sodium Tablets, USP (a len' droe nate soe' dee um) Read the Medication Guide that comes with alendronate sodium tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or treatment.
 Talk to your doctor if you have any questions about alendronate sodium tablets.
@@ -25,7 +25,7 @@ These problems include irritation, inflammation, or ulcers of the esophagus whic
 2.
 Low calcium levels in your blood (hypocalcemia).
 Alendronate sodium tablets may lower the calcium levels in your blood.
-If you have low blood calcium before you start taking alendronate sodium tablets, it may get worse during treatment.
+If you have low blood calcium before you start taking alendronate sodium tablets, they may get worse during treatment.
 Your low blood calcium must be treated before you take alendronate sodium tablets.
 Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
 Call your doctor right away if you have symptoms of low blood calcium such as:
@@ -79,9 +79,10 @@ Before you start alendronate sodium tablets, be sure to talk to your doctor if y
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Are pregnant, trying to become pregnant or suspect that you are pregnant.
+  If you become pregnant while taking alendronate sodium tablets, stop taking them and contact your doctor.
   It is not known if alendronate sodium tablets can harm your unborn baby.
-- Are breastfeeding or plan to breastfeed.
+- Are breast-feeding or plan to breast-feed.
   It is not known if alendronate sodium passes into your milk and may harm your baby.
 
 Especially tell your doctor if you take:
@@ -151,7 +152,8 @@ How do I store alendronate sodium tablets?
 - Keep alendronate sodium tablets in a tightly closed container.
 
 Keep alendronate sodium tablets and all medicines out of the reach of children.
-General information about the safe and effective use of alendronate sodium tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+General information about the safe and effective use of alendronate sodium tablets.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use alendronate sodium tablets for a condition for which it was not prescribed.
 Do not give alendronate sodium tablets to other people, even if they have the same symptoms you have.
 They may harm them.
@@ -165,4 +167,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 12/2017
+M.L.No.: 19/HD/AP/95/F/R Revised: 10/2019

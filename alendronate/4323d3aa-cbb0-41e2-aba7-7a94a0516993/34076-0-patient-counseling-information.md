@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Instruct patients to read the Medication Guide before starting therapy with alendronate sodium and to reread it each time the prescription is renewed.
 
 ## 17.1 Osteoporosis Recommendations, Including Calcium and Vitamin D Supplementation
@@ -23,4 +23,4 @@ They should not take two doses on the same day but should return to taking one d
 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 12/2017
+M.L.No.: 19/HD/AP/95/F/R Revised: 10/2019

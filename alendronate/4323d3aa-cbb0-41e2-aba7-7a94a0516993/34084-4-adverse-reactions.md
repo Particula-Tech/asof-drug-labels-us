@@ -136,7 +136,7 @@ One case of esophagitis and two cases of gastritis resulted in discontinuation o
 Additionally, musculoskeletal (bone, muscle or joint) pain, which has been described in patients with Paget's disease treated with other bisphosphonates, was considered by the investigators as possibly, probably, or definitely drug related in approximately 6% of patients treated with alendronate 40 mg/day versus approximately 1% of patients treated with placebo, but rarely resulted in discontinuation of therapy.
 Discontinuation of therapy due to any clinical adverse events occurred in 6.4% of patients with Paget's disease treated with alendronate 40 mg/day and 2.4% of patients treated with placebo.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of alendronate sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
