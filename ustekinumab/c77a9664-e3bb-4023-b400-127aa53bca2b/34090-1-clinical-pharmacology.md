@@ -5,12 +5,19 @@
 Ustekinumab is a human IgG1қ monoclonal antibody that binds with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines.
 IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation.
 In in vitro models, ustekinumab was shown to disrupt IL-12 and IL-23 mediated signaling and cytokine cascades by disrupting the interaction of these cytokines with a shared cell-surface receptor chain, IL-12Rβ1.
-The cytokines IL-12 and IL-23 have been implicated as important contributors to the chronic inflammation that is a hallmark of Crohn's disease.
+The cytokines IL-12 and IL-23 have been implicated as important contributors to the chronic inflammation that is a hallmark of Crohn's disease and ulcerative colitis.
 In animal models of colitis, genetic absence or antibody blockade of the p40 subunit of IL-12 and IL-23, the target of ustekinumab, was shown to be protective.
 
 ## 12.2 Pharmacodynamics
 
+Psoriasis
+
 In a small exploratory study, a decrease was observed in the expression of mRNA of its molecular targets IL-12 and IL-23 in lesional skin biopsies measured at baseline and up to two weeks post-treatment in subjects with psoriasis.
+
+Ulcerative Colitis
+
+In both study UC-1 (induction) and study UC-2 (maintenance), a positive relationship was observed between exposure and rates of clinical remission, clinical response, and endoscopic improvement.
+The response rate approached a plateau at the ustekinumab exposures associated with the recommended dosing regimen for maintenance treatment [see Clinical Studies (14.5)].
 
 ## 12.3 Pharmacokinetics
 
@@ -23,20 +30,23 @@ Following multiple subcutaneous doses of STELARA® in adult subjects with psoria
 The mean (±SD) steady-state trough serum ustekinumab concentrations were 0.69 ± 0.69 mcg/mL for patients less than or equal to 100 kg receiving a 45 mg dose and 0.74 ± 0.78 mcg/mL for patients greater than 100 kg receiving a 90 mg dose.
 There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
-In patients with Crohn's disease, following the recommended intravenous induction dose, mean ±SD peak serum ustekinumab concentration was 125.2 ± 33.6 mcg/mL.
+Following the recommended intravenous induction dose, mean ±SD peak serum ustekinumab concentration was 125.2 ± 33.6 mcg/mL in patients with Crohn's disease, and 129.1 ± 27.6 mcg/mL in patients with ulcerative colitis.
 Starting at Week 8, the recommended subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 weeks.
 Steady state ustekinumab concentration was achieved by the start of the second maintenance dose.
 There was no apparent accumulation in ustekinumab concentration over time when given subcutaneously every 8 weeks.
-Mean ±SD steady-state trough concentration was 2.51 ± 2.06 mcg/mL for 90 mg ustekinumab administered every 8 weeks.
+Mean ±SD steady-state trough concentration was 2.5 ± 2.1 mcg/mL in patients with Crohn's disease, and 3.3 ± 2.3 mcg/mL in patients with ulcerative colitis for 90 mg ustekinumab administered every 8 weeks.
 
 Distribution
 
-In a population pharmacokinetic analysis of ustekinumab, the volume of distribution of the central compartment was 2.74 L (95% CI: 2.69, 2.78), and the total volume of distribution at steady-state was 4.62 L in patients with Crohn's disease.
+Population pharmacokinetic analyses showed that the volume of distribution of ustekinumab in the central compartment was 2.7 L (95% CI: 2.69, 2.78) in patients with Crohn's disease and 3.0 L (95% CI: 2.96, 3.07) in patients with ulcerative colitis.
+The total volume of distribution at steady-state was 4.6 L in patients with Crohn's disease and 4.4 L in patients with ulcerative colitis.
 
 Elimination
 
 The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across all psoriasis studies following subcutaneous administration.
-In a population pharmacokinetic analysis of ustekinumab, the clearance was 0.19 L/day (95% CI: 0.185, 0.197) with an estimated median terminal half-life of approximately 19 days in patients with Crohn's disease.
+Population pharmacokinetic analyses showed that the clearance of ustekinumab was 0.19 L/day (95% CI: 0.185, 0.197) in patients with Crohn's disease and 0.19 L/day (95% CI: 0.179, 0.192) in patients with ulcerative colitis with an estimated median terminal half-life of approximately 19 days for both IBD (Crohn's disease and ulcerative colitis) populations.
+
+These results indicate the pharmacokinetics of ustekinumab were similar between patients with Crohn's disease and ulcerative colitis.
 
 Metabolism
 
@@ -67,4 +77,6 @@ However, the clinical relevance of in vitro data has not been established [see D
 
 No in vivo drug interaction studies have been conducted with STELARA®.
 
-Population pharmacokinetic data analyses indicated that the clearance of ustekinumab was not impacted by concomitant MTX, NSAIDs, and oral corticosteroids, or prior exposure to a TNF blocker in patients with psoriatic arthritis.
+Population pharmacokinetic analyses indicated that the clearance of ustekinumab was not impacted by concomitant MTX, NSAIDs, and oral corticosteroids, or prior exposure to a TNF blocker in patients with psoriatic arthritis.
+
+In patients with Crohn's disease and ulcerative colitis, population pharmacokinetic analyses did not indicate changes in ustekinumab clearance with concomitant use of corticosteroids or immunomodulators (AZA, 6-MP, or MTX); and serum ustekinumab concentrations were not impacted by concomitant use of these medications.

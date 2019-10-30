@@ -5,10 +5,12 @@
 STELARA® may increase the risk of infections and reactivation of latent infections.
 Serious bacterial, fungal, and viral infections were observed in subjects receiving STELARA® [see Adverse Reactions (6.1)].
 
-Serious infections requiring hospitalization occurred in patients with psoriasis, psoriatic arthritis and Crohn's disease in clinical studies.
-In patients with psoriasis, serious infections included diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis and urinary tract infections.
-In patients with psoriatic arthritis, serious infections included cholecystitis.
-In patients with Crohn's disease, serious or other clinically significant infections included anal abscess, gastroenteritis, ophthalmic herpes, pneumonia, and listeria meningitis.
+Serious infections requiring hospitalization, or otherwise clinically significant infections, reported in clinical studies included the following:
+
+- Psoriasis: diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis and urinary tract infections.
+- Psoriatic arthritis: cholecystitis.
+- Crohn's disease: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
+- Ulcerative colitis: gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
 
 Treatment with STELARA® should not be initiated in patients with any clinically important active infection until the infection resolves or is adequately treated.
 Consider the risks and benefits of treatment prior to initiating use of STELARA® in patients with a chronic infection or a history of recurrent infection.
@@ -54,7 +56,7 @@ If an anaphylactic or other clinically significant hypersensitivity reaction occ
 One case of reversible posterior leukoencephalopathy syndrome (RPLS) was observed in clinical studies of psoriasis and psoriatic arthritis.
 The subject, who had received 12 doses of STELARA® over approximately two years, presented with headache, seizures and confusion.
 No additional STELARA® injections were administered and the subject fully recovered with appropriate treatment.
-No cases of RPLS were observed in clinical studies of Crohn's disease.
+No cases of RPLS were observed in clinical studies of Crohn's disease or ulcerative colitis.
 
 RPLS is a neurological disorder, which is not caused by demyelination or a known infectious agent.
 RPLS can present with headache, seizures, confusion and visual disturbances.

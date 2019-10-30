@@ -53,7 +53,7 @@ Figure A
 
 Figure B
 
-To prevent premature activation of the needle safety guard, do not touch the NEEDLE GUARD ACTIVATION CLIPS at any time during use.
+To prevent early activation of the needle safety guard, do not touch the NEEDLE GUARD ACTIVATION CLIPS at any time during use.
 
 Step 1: Prepare the injection.
 
@@ -152,7 +152,7 @@ Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2017
+Revised: 10/2019
 
 © 2012 Janssen Pharmaceutical Companies
 
@@ -201,7 +201,7 @@ Gather the supplies you will need to prepare STELARA and to give your injection.
 
 You will need:
 
-- a syringe with the needle attached, provided by your pharmacy
+- a syringe with the needle attached, you will need a prescription from your healthcare provider to get syringes with the needles attached from by your pharmacy.
 - antiseptic wipes
 - cotton balls or gauze pads
 - adhesive bandage
@@ -339,6 +339,6 @@ Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US License No. 1
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2017
+Revised: 10/2019
 
 © 2012, 2016 Janssen Pharmaceutical Companies

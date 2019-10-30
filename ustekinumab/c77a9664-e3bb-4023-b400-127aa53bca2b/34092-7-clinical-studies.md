@@ -61,13 +61,14 @@ The median time to loss of PASI 75 response among the subjects randomized to tre
 
 ## 14.2 Adolescent Subjects with Plaque Psoriasis
 
-A multicenter, randomized, double blind, placebo controlled study (Ps STUDY 3) enrolled 110 adolescent subjects 12 to 17 years of age with a minimum BSA involvement of 10%, a PASI score greater than or equal to 12, and a PGA score greater than or equal to 3, who were candidates for phototherapy or systemic therapy and whose disease was inadequately controlled by topical therapy.
+A multicenter, randomized, double blind, placebo-controlled study (Ps STUDY 3) enrolled 110 adolescent subjects 12 to 17 years of age with a minimum BSA involvement of 10%, a PASI score greater than or equal to 12, and a PGA score greater than or equal to 3, who were candidates for phototherapy or systemic therapy and whose disease was inadequately controlled by topical therapy.
 
 Subjects were randomized to receive placebo (n = 37), the recommended dose of STELARA® (n = 36), or one-half the recommended dose of STELARA® (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by dosing every 12 weeks (q12w).
 The recommended dose of STELARA® was 0.75 mg/kg for subjects weighing less than 60 kg, 45 mg for subjects weighing 60 kg to 100 kg, and 90 mg for subjects weighing greater than 100 kg.
 At Week 12, subjects who received placebo were crossed over to receive STELARA® at the recommended dose or one-half the recommended dose.
 
 Of the adolescent subjects, approximately 63% had prior exposure to phototherapy or conventional systemic therapy and approximately 11% had prior exposure to biologics.
+
 The endpoints were the proportion of patients who achieved a PGA score of cleared (0) or minimal (1), PASI 75, and PASI 90 at Week 12.
 Subjects were followed for up to 60 weeks following first administration of study agent.
 
@@ -123,10 +124,9 @@ Table 10: ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY 1 and PsA ST
 
 The percent of patients achieving ACR 20 responses by visit is shown in Figure 1.
 
-Figure 1: Percent of patients achieving ACR 20 response through Week 24
-
-| PsA STUDY 1 |
+| Figure 1: Percent of patients achieving ACR 20 response through Week 24 |
 | --- |
+| PsA STUDY 1 |
 
 The results of the components of the ACR response criteria are shown in Table 11.
 
@@ -169,6 +169,7 @@ In both studies, the proportion of HAQ-DI responders (≥0.3 improvement in HAQ-
 
 STELARA® was evaluated in three randomized, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of 220 to 450).
 There were two 8-week intravenous induction studies (CD-1 and CD-2) followed by a 44-week subcutaneous randomized withdrawal maintenance study (CD-3) representing 52 weeks of therapy.
+Patients in CD-1 had failed or were intolerant to treatment with one or more TNF blockers, while patients in CD-2 had failed or were intolerant to treatment with immunomodulators or corticosteroids, but never failed treatment with a TNF blocker.
 
 Studies CD-1 and CD-2
 
@@ -178,18 +179,18 @@ In both studies, patients were randomized to receive a single intravenous admini
 
 In Study CD-1, patients had failed or were intolerant to prior treatment with a TNF blocker: 29% patients had an inadequate initial response (primary non-responders), 69% responded but subsequently lost response (secondary non-responders) and 36% were intolerant to a TNF blocker.
 Of these patients, 48% failed or were intolerant to one TNF blocker and 52% had failed 2 or 3 prior TNF blockers.
-At baseline and throughout the study, approximately 46% of the patients were receiving corticosteroids and 31% of the patients were receiving immunomodulators (azathioprine, 6-mercaptopurine, methotrexate).
+At baseline and throughout the study, approximately 46% of the patients were receiving corticosteroids and 31% of the patients were receiving immunomodulators (AZA, 6-MP, MTX).
 The median baseline CDAI score was 319 in the STELARA® approximately 6 mg/kg group and 313 in the placebo group.
 
-In Study CD-2, patients had failed or were intolerant to prior treatment with corticosteroids (81% of patients), at least one immunomodulator (6-mercaptopurine, azathioprine, methotrexate; 68% of patients), or both (49% of patients).
+In Study CD-2, patients had failed or were intolerant to prior treatment with corticosteroids (81% of patients), at least one immunomodulator (6-MP, AZA, MTX; 68% of patients), or both (49% of patients).
 Additionally, 69% never received a TNF blocker and 31% previously received but had not failed a TNF blocker.
-At baseline, and throughout the study, approximately 39% of the patients were receiving corticosteroids and 35% of the patients were receiving immunomodulators (azathioprine, 6-mercaptopurine, methotrexate).
+At baseline, and throughout the study, approximately 39% of the patients were receiving corticosteroids and 35% of the patients were receiving immunomodulators (AZA, 6-MP, MTX).
 The median baseline CDAI score was 286 in the STELARA® and 290 in the placebo group.
 
-In these induction studies, a greater proportion of patients treated with STELARA® achieved clinical response at Week 6 and clinical remission at Week 8 compared to placebo (see Table 12 for clinical response and remission rates).
+In these induction studies, a greater proportion of patients treated with STELARA® (at the recommended dose of approximately 6 mg/kg dose) achieved clinical response at Week 6 and clinical remission at Week 8 compared to placebo (see Table 12 for clinical response and remission rates).
 Clinical response and remission were significant as early as Week 3 in STELARA®-treated patients and continued to improve through Week 8.
 
-Table 12: Induction of Clinical Response and Remission in CD-1Patient population consisted of patients who failed or were intolerant to TNF blocker therapy and CD-2Patient population consisted of patients who failed or were intolerant to corticosteroids or immunomodulators (e.g., 6-mercaptopurine, azathioprine, methotrexate) and previously received but not failed a TNF blocker or were never treated with a TNF blocker.
+Table 12: Induction of Clinical Response and Remission in CD-1Patient population consisted of patients who failed or were intolerant to TNF blocker therapy and CD-2Patient population consisted of patients who failed or were intolerant to corticosteroids or immunomodulators (e.g., 6-MP, AZA, MTX) and previously received but not failed a TNF blocker or were never treated with a TNF blocker.
 
 |  | Placebo N=247 | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3. N=249 | Treatment difference and 95% CI | Placebo N=209 | STELARA® N=209 | Treatment difference and 95% CI |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -199,12 +200,11 @@ Table 12: Induction of Clinical Response and Remission in CD-1Patient population
 | Clinical Response (100 point), Week 8 | 50 (20%) | 94 (38%) | 18% (10%, 25%) | 67 (32%) | 121 (58%) | 26% (17%, 35%) |
 | 70 Point Response, Week 6 | 75 (30%) | 109 (44%) | 13% (5%, 22%) | 81 (39%) | 135 (65%) | 26% (17%, 35%) |
 | 70 Point Response, Week 3 | 67 (27%) | 101 (41%) | 13% (5%, 22%) | 66 (32%) | 106 (51%) | 19% (10%, 28%) |
-| Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission: |  |  |  |  |  |  |
-| 70 point response is defined as reduction in CDAI score by at least 70 points |  |  |  |  |  |  |
+| Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission: 70 point response is defined as reduction in CDAI score by at least 70 points |  |  |  |  |  |  |
 
 Study CD-3
 
-The maintenance study (CD-3), evaluated 388 patients who achieved clinical response (≥100 point reduction in CDAI score) at Week 8 of induction with STELARA® in studies CD-1 or CD-2.
+The maintenance study (CD-3), evaluated 388 patients who achieved clinical response (≥100 point reduction in CDAI score) at Week 8 with either induction dose of STELARA® in studies CD-1 or CD-2.
 Patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks or placebo for 44 weeks (see Table 13).
 
 Table 13: Clinical Response and Remission in CD-3 (Week 44; 52 weeks from initiation of the induction dose)
@@ -228,3 +228,106 @@ In the subset of these patients who were also naïve to TNF blockers, 34/52 (65%
 
 Patients who were not in clinical response 8 weeks after STELARA® induction were not included in the primary efficacy analyses for Study CD-3; however, these patients were eligible to receive a 90 mg subcutaneous injection of STELARA® upon entry into Study CD-3.
 Of these patients, 102/219 (47%) achieved clinical response eight weeks later and were followed for the duration of the study.
+
+## 14.5 Ulcerative Colitis
+
+STELARA® was evaluated in two randomized, double-blind, placebo-controlled clinical studies [UC-1 and UC-2 (NCT02407236)] in adult patients with moderately to severely active ulcerative colitis who had an inadequate response to or failed to tolerate a biologic (i.e., TNF blocker and/or vedolizumab), corticosteroids, and/or 6-MP or AZA therapy.
+The 8-week intravenous induction study (UC-1) was followed by the 44-week subcutaneous randomized withdrawal maintenance study (UC-2) for a total of 52 weeks of therapy.
+
+Disease assessment was based on the Mayo score, which ranged from 0 to 12 and has four subscores that were each scored from 0 (normal) to 3 (most severe): stool frequency, rectal bleeding, findings on centrally-reviewed endoscopy, and physician global assessment.
+Moderately to severely active ulcerative colitis was defined at baseline (Week 0) as Mayo score of 6 to 12, including a Mayo endoscopy subscore ≥2.
+An endoscopy score of 2 was defined by marked erythema, absent vascular pattern, friability, erosions; and a score of 3 was defined by spontaneous bleeding, ulceration.
+At baseline, patients had a median Mayo score of 9, with 84% of patients having moderate disease (Mayo score 6–10) and 15% having severe disease (Mayo score 11–12).
+
+Patients in these studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents (AZA, 6-MP, or MTX), and oral corticosteroids (prednisone).
+
+Study UC-1
+
+In UC-1, 961 patients were randomized at Week 0 to a single intravenous administration of STELARA® of approximately 6 mg/kg, 130 mg (a lower dose than recommended), or placebo.
+Patients enrolled in UC-1 had to have failed therapy with corticosteroids, immunomodulators or at least one biologic.
+A total of 51% had failed at least one biologic and 17% had failed both a TNF blocker and an integrin receptor blocker.
+Of the total population, 46% had failed corticosteroids or immunomodulators but were biologic-naïve and an additional 3% had previously received but had not failed a biologic.
+At induction baseline and throughout the study, approximately 52% patients were receiving oral corticosteroids, 28% patients were receiving immunomodulators (AZA, 6-MP, or MTX) and 69% patients were receiving aminosalicylates.
+
+The primary endpoint was clinical remission at Week 8.
+Clinical remission with a definition of: Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0 (no rectal bleeding), and Mayo endoscopy subscore of 0 or 1 (Mayo endoscopy subscore of 0 defined as normal or inactive disease and Mayo subscore of 1 defined as presence of erythema, decreased vascular pattern and no friability) is provided in Table 14.
+
+The secondary endpoints were clinical response, endoscopic improvement, and histologic-endoscopic mucosal improvement.
+Clinical response with a definition of (≥ 2 points and ≥ 30% decrease in modified Mayo score, defined as 3-component Mayo score without the Physician's Global Assessment, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1), endoscopic improvement with a definition of Mayo endoscopy subscore of 0 or 1, and histologic-endoscopic mucosal improvement with a definition of combined endoscopic improvement and histologic improvement of the colon tissue [neutrophil infiltration in <5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue]) are provided in Table 14.
+
+In UC-1, a significantly greater proportion of patients treated with STELARA® (at the recommended dose of approximately 6 mg/kg dose) were in clinical remission and response and achieved endoscopic improvement and histologic-endoscopic mucosal improvement compared to placebo (see Table 14).
+
+Table 14: Proportion of Patients Meeting Efficacy Endpoints at Week 8 in UC-1
+
+| N | % | N | % |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Endpoint | Placebo N = 319 |  | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3. N = 322 |  | Treatment difference and 97.5% CIAdjusted treatment difference (97.5% CI) |
+| Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 22 | 7% | 62 | 19% | 12% (7%, 18%) p < 0.001 |
+| Bio-naïveAn additional 7 patients on placebo and 9 patients on STELARA® (6 mg/kg) had been exposed to, but had not failed, biologics. | 14/151 | 9% | 36/147 | 24% |  |
+| Prior biologic failure | 7/161 | 4% | 24/166 | 14% |  |
+| Endoscopic ImprovementEndoscopic improvement was defined as Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 40 | 13% | 80 | 25% | 12% (6%, 19%) |
+| Bio-naïve | 28/151 | 19% | 43/147 | 29% |  |
+| Prior biologic failure | 11/161 | 7% | 34/166 | 20% |  |
+| Clinical ResponseClinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. | 99 | 31% | 186 | 58% | 27% (18%, 35%) |
+| Bio-naïve | 55/151 | 36% | 94/147 | 64% |  |
+| Prior biologic failure | 42/161 | 26% | 86/166 | 52% |  |
+| Histologic-Endoscopic Mucosal Improvement | 26 | 8% | 54 | 17% | 9% (3%, 14%) |
+| Bio-naïve | 19/151 | 13% | 30/147 | 20% |  |
+| Prior biologic failure | 6/161 | 4% | 21/166 | 13% |  |
+| ‡ Histologic-endoscopic mucosal improvement was defined as combined endoscopic improvement (Mayo endoscopy subscore of 0 or 1) and histologic improvement of the colon tissue (neutrophil infiltration in <5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue). |  |  |  |  |  |
+
+The relationship of histologic-endoscopic mucosal improvement, as defined in UC-1, at Week 8 to disease progression and long-term outcomes was not evaluated during UC-1.
+
+Rectal Bleeding and Stool Frequency Subscores
+
+Decreases in rectal bleeding and stool frequency subscores were observed as early as Week 2 in STELARA® treated patients.
+
+Study UC-2
+
+The maintenance study (UC-2) evaluated 523 patients who achieved clinical response 8 weeks following the intravenous administration of either induction dose of STELARA® in UC-1.
+These patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks, or every 12 weeks (a lower dose than recommended), or placebo for 44 weeks.
+
+The primary endpoint was the proportion of patients in clinical remission at Week 44.
+The secondary endpoints included the proportion of patients maintaining clinical response at Week 44, the proportion of patients with endoscopic improvement at Week 44, the proportion of patients with corticosteroid-free clinical remission at Week 44, and the proportion of patients maintaining clinical remission at Week 44 among patients who achieved clinical remission 8 weeks after induction.
+
+Results of the primary and secondary endpoints at Week 44 in patients treated with STELARA® at the recommended dosage (90 mg every 8 weeks) compared to the placebo are shown in Table 15.
+
+Table 15: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from Initiation of the Induction Dose)
+
+| N | % | N | % |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Endpoint | PlaceboThe placebo group consisted of patients who were in response to STELARA® and were randomized to receive placebo at the start of maintenance therapy. N = 175Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. |  | 90 mg STELARA® every 8 weeks N = 176 |  | Treatment difference and 95% CI |
+| Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 46 | 26% | 79 | 45% | 19% (9%, 28%) p =<0.001 |
+| Bio-naïveAn additional 3 patients on placebo and 6 patients on STELARA® had been exposed to, but had not failed, biologics. | 30/84 | 36% | 39/79 | 49% |  |
+| Prior biologic failure | 16/88 | 18% | 37/91 | 41% |  |
+| Maintenance of Clinical Response at Week 44 | 84 | 48% | 130 | 74% | 26% (16%, 36%) |
+| Bio-naïve | 49/84 | 58% | 62/79 | 78% |  |
+| Prior biologic failure | 35/88 | 40% | 64/91 | 70% |  |
+| Endoscopic ImprovementEndoscopic improvement was defined as Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 47 | 27% | 83 | 47% | 20% (11%, 30%) |
+| Bio-naïve | 29/84 | 35% | 42/79 | 53% |  |
+| Prior biologic failure | 18/88 | 20% | 38/91 | 42% |  |
+| Corticosteroid-free Clinical RemissionCorticosteroid-free clinical remission was defined as patients in clinical remission and not receiving corticosteroids at Week 44. | 45 | 26% | 76 | 43% | 17% (8%, 27%) |
+| Bio-naïve | 30/84 | 36% | 38/79 | 48% |  |
+| Prior biologic failure | 15/88 | 17% | 35/91 | 38% |  |
+| Maintenance of Clinical Remission at Week 44 in patients who achieved clinical remission 8 weeks after induction | 18/50 | 36% | 27/41 | 66% | 31% (12%, 50%) p=0.004 |
+| Bio-naïve | 12/27 | 44% | 14/20 | 70% |  |
+| Prior biologic failure | 6/23 | 26% | 12/18 | 67% |  |
+
+Other Endpoints
+
+Week 16 Responders to Ustekinumab Induction
+
+Patients who were not in clinical response 8 weeks after induction with STELARA® in UC-1 were not included in the primary efficacy analyses for Study UC-2; however, these patients were eligible to receive a 90 mg subcutaneous injection of STELARA® at Week 8.
+Of these patients, 55/101 (54%) achieved clinical response eight weeks later (Week 16) and received STELARA® 90 mg subcutaneously every 8 weeks during the UC-2 trial.
+At Week 44, there were 97/157 (62%) patients who maintained clinical response and there were 51/157 (32%) who achieved clinical remission.
+
+Histologic-Endoscopic Mucosal Improvement at Week 44
+
+The proportion of patients achieving histologic-endoscopic mucosal improvement during maintenance treatment in UC-2 was 75/172 (44%) among patients on STELARA® and 40/172 (23%) in patients on placebo at Week 44.
+The relationship of histologic-endoscopic mucosal improvement, as defined in UC-2, at Week 44 to progression of disease or long-term outcomes was not evaluated in UC-2.
+
+Endoscopic Normalization
+
+Normalization of endoscopic appearance of the mucosa was defined as a Mayo endoscopic subscore of 0.
+At Week 8 in UC-1, endoscopic normalization was achieved in 25/322 (8%) of patients treated with STELARA and 12/319 (4%) of patients in the placebo group.
+At Week 44 of UC-2, endoscopic normalization was achieved in 51/176 (29%) of patients treated with STELARA® and in 32/175 (18%) of patients in placebo group.

@@ -47,11 +47,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of STELARA® have been established in pediatric subjects 12 to 17 years old with moderate to severe plaque psoriasis.
-Use of STELARA® in this age group is supported by evidence from a multicenter, randomized, 60-week trial that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
-The safety and effectiveness of STELARA® for pediatric patients less than 12 years of age have not been established.
+The safety and effectiveness of STELARA® have been established in pediatric patients 12 to 17 years old with moderate to severe plaque psoriasis.
+Use of STELARA® in this age group is supported by evidence from a multicenter, randomized, 60-week trial that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+The safety and effectiveness of STELARA® for pediatric patients less than 12 years of age with psoriasis have not been established.
+
+The safety and effectiveness of STELARA® have not been established in pediatric patients with psoriatic arthritis, Crohn's disease or ulcerative colitis.
 
 ## 8.5 Geriatric Use
 
-Of the 5884 subjects exposed to STELARA®, a total of 306 were 65 years or older (183 patients with psoriasis, 65 patients with psoriatic arthritis and 58 with Crohn's disease), and 34 subjects were 75 years or older.
-Although no differences in safety or efficacy were observed between older and younger subjects, the number of subjects aged 65 and over is not sufficient to determine whether they respond differently from younger subjects.
+Of the 6709 patients exposed to STELARA®, a total of 340 were 65 years or older (183 patients with psoriasis, 65 patients with psoriatic arthritis, 58 patients with Crohn's disease and 34 patients with ulcerative colitis), and 40 patients were 75 years or older.
+Although no overall differences in safety or efficacy were observed between older and younger patients, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.

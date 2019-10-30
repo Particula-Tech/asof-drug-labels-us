@@ -72,7 +72,7 @@ The safety of STELARA® was assessed in 1407 patients with moderately to severel
 These 1407 patients included 40 patients who received a prior investigational intravenous ustekinumab formulation but were not included in the efficacy analyses.
 In Studies CD-1 and CD-2 there were 470 patients who received STELARA® 6 mg/kg as a weight-based single intravenous induction dose and 466 who received placebo [see Dosage and Administration (2.3)].
 Patients who were responders in either Study CD-1 or CD-2 were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks, or placebo for 44 weeks in Study CD-3.
-Patients in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
+Patients in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), MTX], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
 
 The overall safety profile of STELARA® was consistent with the safety profile seen in the adult psoriasis and psoriatic arthritis clinical studies.
 Common adverse reactions in Studies CD-1 and CD-2 and in Study CD-3 are listed in Tables 5 and 6, respectively.
@@ -102,7 +102,7 @@ Table 6: Common adverse reactions through Week 44 in Study CD-3 occurring in ≥
 Infections
 
 In patients with Crohn's disease, serious or other clinically significant infections included anal abscess, gastroenteritis, and pneumonia.
-In addition, listeria meningitis and ophthalmic herpes were reported in one patient each.
+In addition, listeria meningitis and ophthalmic herpes zoster were reported in one patient each [see Warnings and Precautions (5.1)].
 
 Malignancies
 
@@ -116,6 +116,25 @@ One patient experienced signs and symptoms consistent with anaphylaxis (tightnes
 In addition, one patient experienced signs and symptoms consistent with or related to a hypersensitivity reaction (chest discomfort, flushing, urticaria, and increased body temperature) after the initial intravenous STELARA® dose (0.08% of patients receiving intravenous STELARA®).
 These patients were treated with oral antihistamines or corticosteroids and in both cases symptoms resolved within an hour.
 
+Ulcerative Colitis
+
+The safety of STELARA® was evaluated in two randomized, double-blind, placebo-controlled clinical studies (UC-1 [IV induction] and UC-2 [SC maintenance]) in 960 adult patients with moderately to severely active ulcerative colitis [see Clinical Studies (14.5)].
+The overall safety profile of STELARA® in patients with ulcerative colitis was consistent with the safety profile seen across all approved indications.
+Adverse reactions reported in at least 3% of STELARA®-treated patients and at a higher rate than placebo were:
+
+- Induction (UC-1): nasopharyngitis (7% vs 4%).
+- Maintenance (UC-2): nasopharyngitis (24% vs 20%), headache (10% vs 4%), abdominal pain (7% vs 3%), influenza (6% vs 5%), fever (5% vs. 4%), diarrhea (4% vs 1%), sinusitis (4% vs 1%), fatigue (4% vs 2%), and nausea (3% vs 2%).
+
+Infections
+
+In patients with ulcerative colitis, serious or other clinically significant infections included gastroenteritis and pneumonia.
+In addition, listeriosis and ophthalmic herpes zoster were reported in one patient each [see Warnings and Precautions (5.1)].
+
+Malignancies
+
+With up to one year of treatment in the ulcerative colitis clinical studies, 0.4% of STELARA®-treated patients (0.48 events per hundred patient-years) and 0.0% of placebo-treated patients (0.00 events per hundred patient-years) developed non-melanoma skin cancer.
+Malignancies other than non-melanoma skin cancers occurred in 0.5% of STELARA®-treated patients (0.64 events per hundred patient-years) and 0.2% of placebo-treated patients (0.40 events per hundred patient-years).
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is potential for immunogenicity.
@@ -123,11 +142,12 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications and underlying disease.
 For these reasons, comparison of the incidence of antibodies to ustekinumab in the studies described below with the incidence of antibodies to other products may be misleading.
 
-Approximately 6–12.4% of subjects treated with STELARA® in psoriasis and psoriatic arthritis clinical studies developed antibodies to ustekinumab, which were generally low-titer.
-In Crohn's disease clinical studies, less than 3% of patients treated with STELARA® developed antibodies to ustekinumab.
+Approximately 6 to 12.4% of subjects treated with STELARA® in psoriasis and psoriatic arthritis clinical studies developed antibodies to ustekinumab, which were generally low-titer.
 In psoriasis clinical studies, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
-No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
 In psoriasis studies, the majority of patients who were positive for antibodies to ustekinumab had neutralizing antibodies.
+
+In Crohn's disease and ulcerative colitis clinical studies, 2.9% and 4.6% of patients, respectively, developed antibodies to ustekinumab when treated with STELARA® for approximately one year.
+No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
 
 ## 6.3 Postmarketing Experience
 

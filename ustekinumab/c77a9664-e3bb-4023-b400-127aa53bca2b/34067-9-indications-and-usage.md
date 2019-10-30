@@ -11,7 +11,8 @@ STELARA® can be used alone or in combination with methotrexate (MTX).
 
 ## 1.3 Crohn's Disease (CD)
 
-STELARA® is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have:
+STELARA® is indicated for the treatment of adult patients with moderately to severely active Crohn's disease.
 
-- failed or were intolerant to treatment with immunomodulators or corticosteroids, but never failed treatment with a tumor necrosis factor (TNF) blocker or
-- failed or were intolerant to treatment with one or more TNF blockers.
+## 1.4 Ulcerative Colitis
+
+STELARA® is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis.
