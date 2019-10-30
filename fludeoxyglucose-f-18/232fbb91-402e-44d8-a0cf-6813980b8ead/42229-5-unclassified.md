@@ -1,5 +1,3 @@
-Caution: Rx ONLY
-
 Manufactured and Distributed by:
 
 Massachusetts General Hospital

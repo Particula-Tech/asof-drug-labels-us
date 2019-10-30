@@ -11,7 +11,7 @@ Within the oncology, cardiology and neurology settings, the recommended dose for
 
 ## 2.2 Recommended Dose for Pediatric Patients
 
-Within the neurology setting, the recommended dose for pediatric patients is 2.6 mCi (96.2 MBq), as an intravenous injection.
+Within the neurology setting, the recommended dose for pediatric patients is 2.6 mCi, as an intravenous injection.
 The optimal dose adjustment on the basis of body size or weight has not been determined [see Use in Special Populations (8.4)].
 
 ## 2.3 Patient Preparation
@@ -26,17 +26,17 @@ The optimal dose adjustment on the basis of body size or weight has not been det
 ## 2.4 Radiation Dosimetry
 
 The estimated human absorbed radiation doses (rem/mCi) to a newborn (3.4 kg), 1-year old (9.8 kg), 5-year old (19 kg), 10-year old (32 kg), 15-year old (57 kg), and adult (70 kg) from intravenous administration of Fludeoxyglucose F 18 Injection are shown in Table 1.
-These estimates were calculated based on human2 data and using the data published by the International Commission on Radiological Protection4 for Fludeoxyglucose 18F.
+These estimates were calculated based on human1 data and using the data published by the International Commission on Radiological Protection2 for Fludeoxyglucose 18F.
 The dosimetry data show that there are slight variations in absorbed radiation dose for various organs in each of the age groups.
 These dissimilarities in absorbed radiation dose are due to developmental age variations (e.g., organ size, location, and overall metabolic rate for each age group).
 The identified critical organs (in descending order) across all age groups evaluated are the urinary bladder, heart, pancreas, spleen, and lungs.
 
 Table 1.
-Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of Fludeoxyglucose F 18 Injection
+Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of Fludeoxyglucose F 18 Injectiona
 
 | Organ | Newborn (3.4 kg) | 1-year old (9.8 kg) | 5-year old (19 kg) | 10-year old (32 kg) | 15-year old (57 kg) | Adult (70 kg) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bladder wall | 4.3 | 1.7 | 0.93 | 0.60 | 0.40 | 0.32 |
+| Bladder wallb | 4.3 | 1.7 | 0.93 | 0.60 | 0.40 | 0.32 |
 | Heart wall | 2.4 | 1.2 | 0.70 | 0.44 | 0.29 | 0.22 |
 | Pancreas | 2.2 | 0.68 | 0.33 | 0.25 | 0.13 | 0.096 |
 | Spleen | 2.2 | 0.84 | 0.46 | 0.29 | 0.19 | 0.14 |
@@ -63,7 +63,8 @@ Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of
 | Other tissues | 0.59 | 0.25 | 0.13 | 0.083 | 0.052 | 0.042 |
 
 aMIRDOSE 2 software was used to calculate the radiation absorbed dose.
-Assumptions on the biodistribution based on data from Gallagher et al.1 and Jones et al.2bThe dynamic bladder model with a uniform voiding frequency of 1.5 hours was used.
+
+bThe dynamic bladder model with a uniform voiding frequency of 1.5 hours was used.
 
 *LLI = lower large intestine; **ULI = upper large intestine
 
