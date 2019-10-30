@@ -31,6 +31,10 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of Hydromorphone Hydrochloride Injection are essential [see Dosage and Administration (2.1)].
 Overestimating the Hydromorphone Hydrochloride Injection dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.1)].
+
 ## 5.3 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of Hydromorphone Hydrochloride Injection during pregnancy can result in withdrawal in the neonate.
