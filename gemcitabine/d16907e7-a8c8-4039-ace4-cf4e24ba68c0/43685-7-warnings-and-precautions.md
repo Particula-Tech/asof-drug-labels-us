@@ -28,6 +28,7 @@ Permanently discontinue gemcitabine in patients who develop unexplained dyspnea,
 Hemolytic uremic syndrome (HUS), including fatalities from renal failure or the requirement for dialysis, can occur with gemcitabine.
 In clinical trials, HUS occurred in 0.25% of 2,429 patients.
 Most fatal cases of renal failure were due to HUS [see Adverse Reactions (6.1)].
+Serious cases of thrombotic microangiopathy other than HUS have been reported with gemcitabine for injection [see Adverse Reactions (6.2)].
 
 Assess renal function prior to initiation of gemcitabine and periodically during treatment.
 Consider the diagnosis of HUS in patients who develop anemia with evidence of microangiopathic hemolysis; increased bilirubin or LDH; reticulocytosis; severe thrombocytopenia; or renal failure (increased serum creatinine or BUN).
@@ -37,7 +38,7 @@ Renal failure may not be reversible even with the discontinuation of therapy.
 ## 5.5 Hepatic Toxicity
 
 Drug-induced liver injury, including liver failure and death, has been reported in patients receiving gemcitabine alone or with other potentially hepatotoxic drugs [see Adverse Reactions (6.1, 6.2)].
-Administration of gemcitabine in patients with concurrent liver metastases or a pre-existing medical history or hepatitis, alcoholism, or liver cirrhosis can lead to exacerbation of the underlying hepatic insufficiency.
+Administration of gemcitabine in patients with concurrent liver metastases or a pre-existing medical history of hepatitis, alcoholism, or liver cirrhosis can lead to exacerbation of the underlying hepatic insufficiency.
 Assess hepatic function prior to initiation of gemcitabine and periodically during treatment.
 Permanently discontinue gemcitabine in patients who develop severe hepatic toxicity.
 
@@ -45,7 +46,8 @@ Permanently discontinue gemcitabine in patients who develop severe hepatic toxic
 
 Based on animal data and its mechanism of action, gemcitabine can cause fetal harm when administered to a pregnant woman.
 Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
-Advise women of the potential risk to a fetus.
+
+Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with gemcitabine and for 6 months after the final dose.
 Advise male patients with female partners of reproductive potential to use effective contraception during treatment with gemcitabine and for 3 months following the final dose [see Use in Specific Populations (8.1, 8.3)].
 
@@ -60,7 +62,7 @@ Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a
 Non-concurrent (given >7 days apart)
 
 Excessive toxicity has not been observed when gemcitabine is administered more than 7 days before or after radiation.
-Radiation recall has been reported in patients who receive gemcitabine after prior radiation.
+Radiation recall has been reported in patients who received gemcitabine after prior radiation.
 
 ## 5.8 Capillary Leak Syndrome
 

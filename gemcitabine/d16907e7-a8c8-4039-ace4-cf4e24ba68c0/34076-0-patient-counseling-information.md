@@ -10,9 +10,9 @@ Pulmonary Toxicity
 Advise patients of the risks of pulmonary toxicity, including respiratory failure and death.
 Instruct patients to immediately contact their healthcare provider for development of shortness of breath, wheezing, or cough [see Warnings and Precautions (5.3)].
 
-Hemolytic-Uremic Syndrome and Renal Failure
+Hemolytic Uremic Syndrome and Renal Failure
 
-Advise patients of the risks of hemolytic-uremic syndrome and associated renal failure.
+Advise patients of the risks of hemolytic uremic syndrome and associated renal failure.
 Instruct patients to immediately contact their healthcare provider for changes in the color or volume of urine output or for increased bruising or bleeding [see Warnings and Precautions (5.4)].
 
 Hepatic Toxicity
@@ -24,7 +24,7 @@ Embryo-Fetal Toxicity
 
 Advise females and males of reproductive potential that gemcitabine can cause fetal harm.
 Advise females of reproductive potential to use effective contraception during treatment with gemcitabine and for 6 months after the final dose.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment with gemcitabine and for 3 months after the final dose [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with gemcitabine and for 3 months after the final dose [see Warnings and Precaution (5.6), Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 

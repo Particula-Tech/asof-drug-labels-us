@@ -9,7 +9,7 @@ There are no available data on the use of gemcitabine in pregnant women.
 In animal reproduction studies, gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits (see Data).
 Advise pregnant women of the potential risk to a fetus [see Use in Special Populations (8.3)].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies 2–4% and 15–20% respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2–4% and 15–20% respectively.
 
 Data
 
@@ -43,14 +43,14 @@ Because of the potential for genotoxicity, advise females of reproductive potent
 
 Males
 
-Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with gemcitabine and for 3 months after the last dose of gemcitabine [see Nonclinical Toxicology (13.1)].
+Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with gemcitabine and for 3 months after the final dose [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
 Males
 
-Based on animal studies, gemcitabine may impair fertility in males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Nonclinical Toxicology (13.1)].
+Based on animal studies, gemcitabine may impair fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
+It is not known whether these effects on fertility are reversible.
 
 ## 8.4 Pediatric Use
 

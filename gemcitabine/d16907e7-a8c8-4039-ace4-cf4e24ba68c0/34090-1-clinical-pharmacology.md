@@ -46,7 +46,7 @@ Geriatric Patients
 Clearance of gemcitabine was affected by age.
 The lower clearance in geriatric patients results in higher concentrations of gemcitabine for any given dose.
 Differences in either clearance or volume of distribution based on patient characteristics or the duration of infusion result in changes in half-life and plasma concentrations.
-Table 15 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and gender.
+Table 15 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and sex.
 
 Table 15: Gemcitabine Clearance and Half-Life for the "Typical" Patient
 
@@ -57,7 +57,7 @@ Table 15: Gemcitabine Clearance and Half-Life for the "Typical" Patient
 | 65 | 55.1 | 41.5 | 61 | 73 |
 | 79 | 40.7 | 30.7 | 79 | 94 |
 
-Gemcitabine half-life for short infusions ranged from 42 to 94 minutes and for long infusions varied from 245 to 638 minutes, depending on age and gender, reflecting a greatly increased volume of distribution with longer infusions.
+Gemcitabine half-life for short infusions ranged from 42 to 94 minutes and for long infusions varied from 245 to 638 minutes, depending on age and sex, reflecting a greatly increased volume of distribution with longer infusions.
 
 Male and Female Patients
 
