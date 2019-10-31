@@ -81,7 +81,7 @@ Safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients 
 
 Pediatric Patients 12 Years of Age and Older with Chronic Hepatitis B
 
-The safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients 12 years to less than 18 years of age is supported by data from one randomized trials (Trial 115) in which tenofovir disoproxil fumarate was administered to HBV-infected treatment-experienced subjects.
+The safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients 12 years to less than 18 years of age is supported by data from one randomized trial (Trial 115) in which tenofovir disoproxil fumarate was administered to HBV-infected treatment-experienced subjects.
 
 In Trial 115, 106 HBeAg negative (9%) and positive (91%) subjects 12 years to less than 18 years of age with chronic HBV infection were randomized to receive blinded treatment with tenofovir disoproxil fumarate or placebo for 72 weeks.
 At Week 72, 88% of subjects in the tenofovir disoproxil fumarate group and 0% of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).

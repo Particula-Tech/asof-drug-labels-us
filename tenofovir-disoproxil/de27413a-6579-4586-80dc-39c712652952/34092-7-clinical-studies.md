@@ -15,6 +15,7 @@ Table 19 Trials Conducted with Tenofovir Disoproxil Fumarate in Adults and Pedia
 | Trial 0103b (NCT00116805) | HBeAg-positive adults with chronic HBV | tenofovir disoproxil fumarate (176) HEPSERA (90) | 48 |
 | Trial 121b (NCT00737568) | Adults with lamivudine-resistant chronic HBV | tenofovir disoproxil fumarate (141) | 96 |
 | Trial 0108b (NCT00298363) | Adults with chronic HBV and decompensated liver disease | tenofovir disoproxil fumarate (45) | 48 |
+| Trial 352c (NCT00528957) | HIV-1 treatment experienced pediatric subjects 2 years to <12 years | tenofovir disoproxil fumarate (44) stavudine or zidovudine (48) | 48 |
 | Trial 321d (NCT00352053) | HIV-1 treatment-experienced pediatric subjects 12 years to <18 years | tenofovir disoproxil fumarate (45) Placebo (42) | 48 |
 | Trial 115d (NCT00734162) | Pediatric subjects 12 years to <18 years with chronic HBV | tenofovir disoproxil fumarate (52) Placebo (54) | 72 |
 | a. Randomized and dosed. |  |  |  |
@@ -122,6 +123,12 @@ Mean change in absolute CD4+ cell counts by Week 48 was +4 cells/mm3 for the ten
 Through Week 24, one subject in the tenofovir disoproxil fumarate group and no subjects in the placebo group experienced a new CDC Class C event.
 
 ## 14.3 Clinical Trial Results in Pediatric Subjects with HIV-1 Infection
+
+In Trial 352, 92 treatment-experienced subjects 2 years to less than 12 years of age with stable, virologic suppression on a stavudine (d4T)- or zidovudine (AZT)-containing regimen were randomized to either replace d4T or AZT with tenofovir disoproxil fumarate (N=44) or continue their original regimen (N=48) for 48 weeks.
+Five additional subjects over the age of 12 years were enrolled and randomized (tenofovir disoproxil fumarate N=4, original regimen N=1) but are not included in the efficacy analysis.
+After 48 weeks, all eligible subjects were allowed to continue in the trial receiving open-label tenofovir disoproxil fumarate.
+At Week 48, 89% of subjects in the tenofovir disoproxil fumarate treatment group and 90% of subjects in the d4T or AZT treatment group had HIV-1 RNA concentrations <400 copies/mL.
+During the 48-week randomized phase of the trial, 1 subject in the tenofovir disoproxil fumarate group discontinued the trial prematurely because of virologic failure/lack of efficacy and 3 subjects (2 subjects in the tenofovir disoproxil fumarate group and 1 subject in the d4T or AZT group) discontinued for other reasons.
 
 In Trial 321, 87 treatment-experienced subjects 12 years to less than 18 years of age were treated with tenofovir disoproxil fumarate (N=45) or placebo (N=42) in combination with an optimized background regimen (OBR) for 48 weeks.
 The mean baseline CD4 cell count was 374 cells/mm3and the mean baseline plasma HIV-1 RNA was 4.6 log10 copies/mL.

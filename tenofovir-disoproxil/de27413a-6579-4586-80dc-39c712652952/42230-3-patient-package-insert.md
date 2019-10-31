@@ -27,9 +27,9 @@ What is tenofovir disoproxil fumarate tablet?
 
 Tenofovir disoproxil fumarate is a prescription medicine that is used to:
 
-- treat HIV-1 infection when used with other anti-HIV-1 medicines in adults and children 2 years of age and older who weigh at least 77 pounds (35 kg).
+- treat HIV-1 infection when used with other anti-HIV-1 medicines in adults and children 2 years of age and older who weigh at least 22 pounds (10 kg).
   HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
-- treat HBV infection in adults and children 12 years of age and older who weigh at least 77 pounds (35 kg).
+- treat HBV infection in adults and children 12 years of age and older who weigh at least 22 pounds (10 kg).
   It is not known if tenofovir disoproxil fumarate is safe and effective in children under 2 years of age.
 
 What should I tell my healthcare provider before taking tenofovir disoproxil fumarate tablets?
@@ -68,7 +68,7 @@ How should I take tenofovir disoproxil fumarate tablets?
   Stay under a healthcare provider's care when taking tenofovir disoproxil fumarate.
 - Take tenofovir disoproxil fumarate tablets at the same time every day.
 - For adults and children 2 years of age and older who weigh at least 77 pounds (35 kg), the usual dose of tenofovir disoproxil fumarate tablet is one 300 mg tablet each day.
-- For children 2 years of age and older who weigh at least 35 kg, your healthcare provider will prescribe the right dose of tenofovir disoproxil fumarate tablets based on your child's body weight.
+- For children 2 years of age and older who weigh between 37 pounds (17 kg) and 77 pounds (35 kg), your healthcare provider will prescribe the right dose of tenofovir disoproxil fumarate tablets based on your child's body weight.
 - Tell your healthcare provider if you or your child has problems with swallowing tablets.
 - Take tenofovir disoproxil fumarate tablets by mouth, with or without food.
 - Do not miss a dose of tenofovir disoproxil fumarate tablet.
@@ -99,25 +99,18 @@ Tenofovir disoproxil fumarate may cause serious side effects, including:
 
 The most common side effects in all people taking tenofovir disoproxil fumarate are:
 
-| nausea | pain |
+| ● nausea | ● pain |
 | --- | --- |
-| rash | depression |
-| diarrhea | weakness |
-| headache |  |
-
-fever
-
-dizziness
-
-itching
-
-stomach-area pain
-
-vomiting
-
-sleeping problems
+| ● rash | ● depression |
+| ● diarrhea | ● weakness |
+| ● headache |  |
 
 In some people with advanced HBV-infection, other common side effects may include:
+
+| ● fever | ● stomach-area pain |
+| --- | --- |
+| ● itching | ● dizziness |
+| ● vomiting | ● sleeping problems |
 
 These are not all the possible side effects of tenofovir disoproxil fumarate.
 
@@ -171,8 +164,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-1560 Sawgrass Corporate Parkway,
+10 Independence Boulevard, Suite 300
 
-Suite 130, Sunrise, FL 33323
+Warren, NJ 07059
 
-Revised: 6/2019
+Revised: 10/2019
