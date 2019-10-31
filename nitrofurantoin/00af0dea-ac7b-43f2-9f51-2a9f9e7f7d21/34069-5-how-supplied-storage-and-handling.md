@@ -14,8 +14,8 @@ Use within 30 days.
 
 Keep out of reach of children.
 
-Rx only Manufactured by Halo Pharmaceutical Canada Inc. Mirabel, Quebec, Canada J7J1P3 Manufactured for Casper Pharma LLC Suite -1101C 2 Tower Center Blvd East Brunswick NJ 08816
+Rx only Manufactured by Halo Pharmaceutical Canada Inc. Mirabel, Quebec, Canada J7J1P3 Manufactured for Casper Pharma LLC East Brunswick NJ 08816
 
-PICN02182016
+PIB00632-00
 
-Issued: 02/2016
+Revised: 10/2018
