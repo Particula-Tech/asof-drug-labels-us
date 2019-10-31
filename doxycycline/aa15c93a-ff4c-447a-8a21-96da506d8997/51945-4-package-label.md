@@ -15,22 +15,3 @@ GALDERMA
 30 Capsules
 
 Rx Only
-
-INERT INGREDIENTS: Hypromellose, Iron Oxide Red, Iron Oxide Yellow, Methacrylic Acid Copolymer, Polyethylene Glycol, Polysorbate 80, Sugar Spheres, Talc, Titanium Dioxide, and Triethyl Citrate
-
-DOSAGE: ONE CAPSULE PER DAY
-
-Store at controlled room temperature of 15°C - 30°C (59°F - 86°F).
-
-Keep out of reach of children
-
-Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners.
-
-www.oracea.com
-
-P52630-1
-
-LOT
-
-EXP

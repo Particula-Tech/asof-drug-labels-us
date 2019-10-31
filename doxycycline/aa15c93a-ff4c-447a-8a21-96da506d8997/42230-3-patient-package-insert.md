@@ -46,7 +46,7 @@ Use sunscreen and wear clothes that cover your skin while out in sunlight.
 
 What are the possible side effects of ORACEA?
 ORACEA may cause serious side effects, including: • Harm to an unborn baby.
-See “What should I tell my doctor before taking ORACEA?” • Permanent teeth discoloration.
+See "What should I tell my doctor before taking ORACEA?" • Permanent teeth discoloration.
 ORACEA may permanently turn a baby or child's teeth yellow-grey-brown during tooth development.
 ORACEA should not be used during tooth development.
 Tooth development happens in the last half of pregnancy, and from birth to 8 years of age.
