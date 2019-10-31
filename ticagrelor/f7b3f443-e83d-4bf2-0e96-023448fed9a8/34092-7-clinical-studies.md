@@ -45,7 +45,7 @@ The Kaplan-Meier curve (Figure 8) shows time to first occurrence of the primary 
 
 Figure 8 - Time to first occurrence of CV death, MI, or stroke (PLATO)
 
-The curves separate by 30 days [relative risk reduction (RRR) 12%] and continue to diverge throughout the 12-month treatment period (RRR 16%).
+The curves separate by 30 days [relative risk reduction (RRR) 12%] and continue to diverge throughout the 12‑month treatment period (RRR 16%).
 
 Among 11289 patients with PCI receiving any stent during PLATO, there was a lower risk of stent thrombosis (1.3% for adjudicated “definite”) than with clopidogrel (1.9%) (HR 0.67, 95% CI 0.50-0.91; p=0.009).
 The results were similar for drug-eluting and bare metal stents.

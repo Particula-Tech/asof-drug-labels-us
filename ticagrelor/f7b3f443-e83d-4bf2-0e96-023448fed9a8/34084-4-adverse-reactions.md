@@ -135,6 +135,9 @@ The frequency of renal related adverse events was similar for ticagrelor and asp
 The following adverse reactions have been identified during post-approval use of BRILINTA.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Blood and lymphatic system disorders: Thrombotic Thrombocytopenic Purpura (TTP) has been rarely reported with the use of BRILINTA.
+TTP is a serious condition which can occur after a brief exposure (<2 weeks) and requires prompt treatment.
+
 Immune system disorders: Hypersensitivity reactions including angioedema [see Contraindications (4.3)].
 
 Skin and subcutaneous tissue disorders: Rash

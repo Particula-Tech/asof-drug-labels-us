@@ -41,3 +41,12 @@ Patients with a history of sick sinus syndrome, 2nd or 3rd degree AV block or br
 Avoid use of BRILINTA in patients with severe hepatic impairment.
 Severe hepatic impairment is likely to increase serum concentration of ticagrelor.
 There are no studies of BRILINTA patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+
+## 5.7 Laboratory Test Interferences
+
+False negative functional tests for Heparin Induced Thrombocytopenia (HIT)
+
+BRILINTA has been reported to cause false negative results in platelet functional tests (to include, but may not be limited to, the heparin-induced platelet aggregation (HIPA) assay) for patients with Heparin Induced Thrombocytopenia (HIT).
+This is related to inhibition of the P2Y12-receptor on the healthy donor platelets in the test by ticagrelor in the affected patient’s serum/plasma.
+Information on concomitant treatment with BRILINTA is required for interpretation of HIT functional tests.
+Based on the mechanism of BRILINTA interference, BRILINTA is not expected to impact PF4 antibody testing for HIT.
