@@ -2,14 +2,17 @@
 
 ## 5.1 Never Share a FIASP FlexTouch Pen, PenFill Cartridge or PenFill Cartridge Device Between Patients
 
-FIASP FlexTouch disposable prefilled pen, PenFill cartridge and PenFill cartridge devices should never be shared between patients, even if the needle is changed.
+FIASP FlexTouch disposable pen, PenFill cartridge and PenFill cartridge devices should never be shared between patients, even if the needle is changed.
 Patients using FIASP vials should never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Changes in insulin, insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia or hyperglycemia.
-These changes should be made cautiously and only under close medical supervision and the frequency of blood glucose monitoring should be increased.
+Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to an unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6.1, 6.3)].
+
+Make any changes to a patient’s insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
+Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
 For patients with type 2 diabetes, dosage adjustments in concomitant oral anti-diabetic treatment may be needed.
 
 ## 5.3 Hypoglycemia
@@ -60,3 +63,10 @@ Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor 
 Fluid retention may lead to or exacerbate heart failure.
 Patients treated with insulin, including FIASP, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
+
+## 5.8 Hyperglycemia and Ketoacidosis Due to Insulin Pump Device Malfunction
+
+Pump or infusion set malfunctions can lead to a rapid onset of hyperglycemia and ketoacidosis.
+Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
+Interim therapy with subcutaneous injection of FIASP may be required.
+Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see Dosage and Administration (2.2), How Supplied/Storage and Handling (16.2), and Patient Counseling Information (17)].

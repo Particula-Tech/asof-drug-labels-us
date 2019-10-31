@@ -46,7 +46,7 @@ Adverse Reactions (%*) in Patients with Type 2 Diabetes
 
 Hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including FIASP [see Warnings and Precautions (5.3)].
+Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including FIASP.
 The rates of reported hypoglycemia depend on the definition of hypoglycemia used, diabetes type, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
 For these reasons, comparing rates of hypoglycemia in clinical trials for FIASP with the incidence of hypoglycemia for other products may be misleading and also, may not be representative of hypoglycemia rates that occur in clinical practice.
 
@@ -55,30 +55,33 @@ Incidence rates for severe hypoglycemia in adults with type 1 and type 2 diabete
 Table 3.
 Proportion (%) of Patients with Type 1 Diabetes and Type 2 Diabetes Experiencing at Least One Episode of Severe Hypoglycemia in Adult Clinical Trials
 
-|  | Study A (Type 1) |  | Study B (Type 2) |
-| --- | --- | --- | --- |
-|  | Mealtime FIASP + Insulin detemir(N=386) | Postmeal FIASP + Insulin detemir(N=377) | FIASP + Insulin glargine(N=341) |
-| Severe hypoglycemia* | 6.7 | 8.0 | 3.2 |
+|  | Study A (Type 1) |  | Study B (Type 2) | Study D (Type 1 CSII) |
+| --- | --- | --- | --- | --- |
+|  | Mealtime FIASP + Insulin detemir(N=386) | Postmeal FIASP + Insulin detemir(N=377) | FIASP + Insulin glargine(N=341) | FIASP(N=236) |
+| Severe hypoglycemia* | 6.7 | 8.0 | 3.2 | 4.7 |
 
 - *Severe hypoglycemia: an episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions
+- In Study D, patients with type 1 diabetes treated with FIASP in a pump reported a higher rate of blood glucose confirmed hypoglycemic episodes (where self-measured glucose calibrated to plasma was less than 56 mg/dL) within first hour after a meal compared to patients treated with NovoLog [see Clincial Trials (14.4)].
 
 Allergic Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including FIASP, and may be life threatening [see Warnings and Precautions (5.6)].
-In the clinical program, generalized hypersensitivity reactions (manifested by generalized skin rash and facial edema) was reported in 0.4% of patients treated with FIASP.
+Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including FIASP, and may be life threatening.
+In the clinical program, generalized hypersensitivity reactions (manifested by generalized skin rash and facial edema) were reported in 0.4% of patients treated with FIASP.
 Allergic skin manifestations reported with FIASP in 1.7% of patients from the clinical program include eczema, rash, rash pruritic, urticaria and dermatitis.
+In Study D, allergic reactions were reported in 4.2% of patients with type 1 diabetes treated with FIASP.
 
 Lipodystrophy
 
 Administration of insulin, including FIASP, has resulted in lipohypertrophy (enlargement or thickening of tissue) and lipoatrophy (depression in the skin).
 In the clinical program, lipodystrophy was reported in 0.4% of patients treated with FIASP [see Dosage and Administration (2.2)].
 
-Injection Site Reactions
+Injection/Infusion Site Reactions
 
-As with other insulin therapy, patients may experience rash, redness, inflammation, bruising or itching at the site of FIASP injection.
+As with other insulin therapy, patients may experience rash, redness, inflammation, pain, bruising or itching at the site of FIASP injection or infusion.
 These reactions usually resolve in a few days to a few weeks, but in some occasions, may require discontinuation of FIASP.
 In the clinical program, injection site reactions occurred in 1.6% of patients treated with FIASP.
 In Study A, patients with type 1 diabetes treated with FIASP reported 2.2% injection site reactions.
+In Study D, infusion site reactions were reported in 10.2% of patients with type 1 diabetes treated with FIASP.
 
 Weight Gain
 
@@ -98,3 +101,11 @@ For these reasons, comparison of the incidence of antibodies to FIASP in the stu
 
 In a 26-week study in adult subjects with type 1 diabetes (Study A [see Clinical Studies (14)]), among the 763 subjects who received FIASP, 97.2% were positive for cross-reacting anti-insulin antibodies (AIA) at least once during the study, including 90.3% that were positive at baseline.
 A total of 24.8% of patients who received FIASP were positive for anti-drug (insulin aspart) antibodies (ADA) at least once during the study, including 17.3% that were positive at baseline.
+
+## 6.3 Postmarketing Experience
+
+The following additional adverse reactions have been identified during post-approval use of insulin aspart.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

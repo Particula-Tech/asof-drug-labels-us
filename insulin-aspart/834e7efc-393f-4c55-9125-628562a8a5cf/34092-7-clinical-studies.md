@@ -8,6 +8,8 @@ In adult patients with type 1 diabetes, mealtime FIASP and postmeal FIASP led to
 In adult patients with type 2 diabetes, mealtime FIASP provided non-inferior glycemic control compared to mealtime NovoLog, both in combination with metformin.
 In addition, mealtime FIASP in a basal-bolus regimen with metformin also provided statistically significant improvement in the overall glycemic control compared to basal insulin therapy alone with metformin in adult patients with type 2 diabetes.
 
+In adults with type 1 diabetes (N=472), FIASP led to non-inferior glycemic control compared to NovoLog when both were administered by continuous subcutaneous insulin infusion (CSII) pump.
+
 ## 14.2 Type 1 Diabetes - Adults
 
 Study A (NCT01831765): FIASP added to insulin detemir in patients with Type 1 DM inadequately controlled at baseline.
@@ -106,3 +108,36 @@ Baseline is based on the mean of the observed last available values prior to ran
 *p<0.0001, 1-sided p-value evaluated at 2.5% level for superiority.
 
 6.0% of subjects on the mealtime FIASP arm and 3.3% of subjects on the placebo arm were missing the final HbA1c assessment.
+
+## 14.4 Type 1 Diabetes – Adult Continuous Subcutaneous Insulin Infusion (CSII)
+
+Study D (NCT02825251): FIASP in Continuous Subcutaneous Insulin Infusion (CSII) in Adults with Type 1 DM
+
+The efficacy and safety of FIASP vs. NovoLog in CSII in adult subjects with T1DM (N=472) was evaluated in a randomized, multicenter, multinational, active controlled, treat-to-target, parallel group trial with a 4-week run-in and a 16-week treatment period.
+Meal-time bolus insulin infusion was initiated 0-2 minutes before a meal.
+
+The mean age of the randomized subjects was 43 years and the mean duration of diabetes was 24 years.
+43% were male.
+89% were Caucasian, 1% were Black or African American, 1% were Asian, and 3% were Hispanic.
+The mean BMI was 26.3 kg/m2.
+
+After 16 weeks of treatment, the treatment difference in HbA1c reduction from baseline between FIASP and NovoLog was 0.10 with 95%CI [0.02, 0.18] (Table 9).
+
+Table 9.
+Results from Study D: 16-Week Trial FIASP in Adults with Type 1 Diabetes
+
+|  | FIASP | NovoLog |
+| --- | --- | --- |
+| Number of subjects randomized (N) | 236 | 236 |
+| HbA1c (%) |  |  |
+| Baseline | 7.5 | 7.5 |
+| Adjusted change from baseline | -0.04 | -0.14 |
+| Estimated treatment difference FIASP vs. NovoLog [95%CI]* | 0.10 [0.02; 0.18] |  |
+| Proportion of patients Achieving HbA1c < 7% at Trial End | 20.3% | 23.3% |
+
+Baseline is based on the mean of the observed last available values prior to randomization.
+
+*Tested for non-inferiority using a margin of 0.4%.
+
+2.1% of subjects on the FIASP arm and 2.5% of subjects on the NovoLog arm were missing the final HbA1c assessment.
+Missing values were imputed using multiple imputation with a mean equal to the baseline value of the corresponding patient.

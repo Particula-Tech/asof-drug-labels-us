@@ -46,6 +46,13 @@ How should I take FIASP?
   Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 - •Do not reuse or share needles with other people.
   You may give other people a serious infection or get a serious infection from them.
+- •FIASP can be injected under the skin(subcutaneously) of your stomach area, upper legs, or upper arms, or by continuous infusion under the skin (subcutaneously) through an insulin pump into an area of your body recommended in the instructions that come with your insulin pump.
+- •Change (rotate) your injection sites within the area you choose with each dose to reduce your risk of
+- getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at
+- the injection sites.
+- oDo not use the exact same spot for each injection.
+- oDo not inject where the skin has pits, is thickened, or has lumps.
+- oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 What should I avoid while taking FIASP?
 While taking FIASP do not:
@@ -58,36 +65,34 @@ FIASP may cause serious side effects that can lead to death, including:
 
 - •low blood sugar (hypoglycemia).
   Signs and symptoms that may indicate low blood sugar include:
-- •dizziness or light-headedness
-- •blurred vision
-- •anxiety, irritability, or mood changes
-- •sweating
-- •slurred speech
-- •hunger
-- •confusion
-- •shakiness
-- •headache
-- •fast heart beat
+- 
 
-Your insulin dose may need to change because of:
+| odizziness or light-headedness | oblurred vision | oanxiety, irritability, or mood changes |
+| --- | --- | --- |
+| osweating | oslurred speech | ohunger |
+| oconfusion | oshakiness | oheadache |
+| ofast heart beat |  |  |
 
-- •change in level of physical activity or exercise
-- •increased stress
-- •change in diet
-- •weight gain or loss
-- •illness
 - •low potassium in your blood (hypokalemia).
 - •serious allergic reactions (whole body reactions).
   Get emergency medical help right away, if you have any of these signs or symptoms of a severe allergic reaction:
-  - •a rash over your whole body, trouble breathing, a fast heartbeat, swelling of your face, tongue or throat, sweating, extreme drowsiness, dizziness, confusion.
+  - oa rash over your whole body, trouble breathing, a fast heartbeat, swelling of your face, tongue or throat, sweating, extreme drowsiness, dizziness, confusion.
 - •heart failure.
   Taking certain diabetes pills called TZDs (thiazolidinediones) with FIASP may cause heart failure in some people.
   This can happen even if you have never had heart failure or heart problems before.
   If you already have heart failure it may get worse while you take TZDs with FIASP.
   Your healthcare provider should monitor you closely while you are taking TZDs with FIASP.
   Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
-  - •Shortness of breath, swelling of your ankles or feet, sudden weight gain.
-- Treatment with TZDs and FIASP may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+  - oShortness of breath, swelling of your ankles or feet, sudden weight gain.
+
+Treatment with TZDs and FIASP may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+
+Your insulin dose may need to change because of:
+
+| •change in level of physical activity or exercise | •increased stress |
+| --- | --- |
+| •change in diet | •weight gain or loss |
+| •illness |  |
 
 Common side effects of FIASP may include:
 
@@ -120,7 +125,7 @@ For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 09/2017
+Revised: 10/2019
 
 Instructions for Use
 
@@ -128,7 +133,7 @@ FIASP (fee’ asp)
 
 (insulin aspart injection)
 
-10 mL vial (100 units/mL, U-100)
+10 mL multiple-dose vial (100 units/mL, U-100)
 
 Read this Instructions for Use before you start taking FIASP and each time you get a refill.
 There may be new information.
@@ -177,13 +182,19 @@ Giving your FIASP injection:
 - •Inject your FIASP exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •You should take your dose of FIASP at the start of a meal or within 20 minutes after starting a meal.
-- •FIASP can be injected under the skin (subcutaneously) of your stomach area, upper legs, or upper arms.
+- •FIASPcan be injected under the skin (subcutaneously) of your stomach area, upper legs, or upper arms, infused in an insulin pump into an area of your body recommended in the instructions that come with your insulin pump, or given through a needle in your arm (intravenously) by your healthcare provider.
   Do not inject FIASP into your muscle.
-- •Change (rotate) your injection site for each injection.
+- •If you use FIASP in an insulin pump, you should change the infusion sets and the infusion set insertion site according to the pump manufacturers’ user manual.
+  The insulin in the reservoir should be changed at least every 6 days even if you have not used all of the insulin.
+- •If you use FIASP in an insulin pump, see your insulin pump manual for instructions or talk to your healthcare provider.
+  Your healthcare provider should provide recommendations for appropriate basal and meal time infusion rates.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - •Do not dilute or mix FIASP with any other type of insulin products or solutions.
 
-| Step 10: Choose your injection site and wipe the skin with an alcohol swab (See Figure J). Let the injectionsite dry before you inject your dose. | (Figure J) |
+| Step 10: Choose your injection site and wipe the skin with an alcohol swab (See Figure J). Let the injection site dry before you inject your dose. | (Figure J) |
 | --- | --- |
 | Step 11: Insert the needle into your skin. Push down on the plunger to inject your dose (See Figure K).Make sure you have injected all the insulin in the syringe. | (Figure K) |
 | Step 12: Pull the needle out of your skin. After your injection you may see a drop of FIASP at the needle tip. This is normal and does not affect the dose you just received (See Figure L). •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. | (Figure L) |
@@ -200,30 +211,34 @@ Do not throw away (dispose of) loose needles and syringes in your household tras
 
 If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
 
-- •made of a heavy-duty plastic;
-- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out;
-- •upright and stable during use;
-- •leak-resistant, and
-- •properly labeled to warn of hazardous waste inside the container.
-
-When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-There may be state or local laws about how you should throw away used needles and syringes.
-Do not reuse or share needles or syringes with another person.
-For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
-
-Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
-Do not recycle your used sharps disposal container.
+- omade of a heavy-duty plastic;
+- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out;
+- oupright and stable during use;
+- oleak-resistant, and
+- oproperly labeled to warn of hazardous waste inside the container.
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  Do not reuse or share needles or syringes with another person.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
 How should I store FIASP?
 
 - •Do not freeze FIASP.
   Do not use FIASP if it has been frozen.
 - •Keep FIASP away from excessive heat or light.
+
+All unopened vials:
+
 - •Store unopened FIASP vials in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
-- •Store opened FIASP vials in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
-- •Unopened FIASP vials may be used until the expiration date printed on the label, if they are kept in the refrigerator.
-- •If FIASP vials are stored at room temperature prior to first use, they should be used or thrown away within 28 days.
-- •Opened FIASP vials should be thrown away after 28 days, even if they still have insulin left in them.
+- •If unopened vials have been stored in the refrigerator, vials may be used until the expiration date printed on the label.
+- •If unopened vials have been stored at room temperature, vials should be thrown away after 28 days.
+
+After vials have been opened:
+
+- •Opened FIASPvials can be stored in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
+- •Throw away all opened FIASP vials after 28 days (including 6 days pump in-use time), even if they still have insulin left in them.
 
 General information about the safe and effective use of FIASP
 
@@ -244,7 +259,7 @@ FIASP® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2017 Novo Nordisk
+© 2019 Novo Nordisk
 
 For information about FIASP® contact:
 
@@ -258,7 +273,7 @@ Plainsboro, New Jersey 08536
 
 www.novonordisk-us.com
 
-Revised: 09/2017
+Revised: 10/2019
 
 Instructions for Use
 
@@ -268,7 +283,7 @@ FIASP® (fee’ asp) FlexTouch® Pen
 
 - •Do not share your FIASP FlexTouch Pen with other people, even if the needle is changed.
   You may give other people a serious infection, or get a serious infection from them.
-- •FIASP FlexTouch Pen (“Pen”) is a prefilled disposable pen containing 300 units of U-100 FIASP (insulin aspart injection).
+- •FIASP FlexTouch Pen (“Pen”) is a prefilled disposable, single-patient-use pen containing 300 units of U-100 FIASP (insulin aspart injection).
   You can inject from 1 to 80 units in a single injection.
   The units can be increased by 1 unit at a time.
 - •People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
@@ -284,37 +299,41 @@ Supplies you will need to give your FIASP injection:
 
 Preparing your FIASP FlexTouch Pen:
 
-- •Wash your hands with soap and water.
-- •Before you start to prepare your injection, check the FIASP FlexTouch Pen label to make sure you are taking the right type of insulin.
-  This is especially important if you take more than 1 type of insulin.
-- •FIASP should look clear and colorless.
-  Do not use FIASP if it is thick, cloudy, or is colored.
-- •Do not use FIASP past the expiration date printed on the label or 28 days after you start using the Pen.
-- •Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
-  Do not reuse or share needles with another person.
-  You may give other people a serious infection, or get a serious infection from them.
+Wash your hands with soap and water.
 
-| Step 1: •Pull Pen cap straight off (See Figure B). |  |
+Before you start to prepare your injection, check the FIASP FlexTouch Pen label to make sure you are taking the right type of insulin.
+This is especially important if you take more than 1 type of insulin.
+
+FIASP should look clear and colorless.
+Do not use FIASP if it is thick, cloudy, or is colored.
+
+Do not use FIASP past the expiration date printed on the label or 28 days after you start using the Pen.
+
+Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
+Do not reuse or share needles with another person.
+You may give other people a serious infection, or get a serious infection from them.
+
+| Step 1:Pull Pen cap straight off (See Figure B). |  |
 | --- | --- |
 | Step 2: •Check the liquid in the Pen (See Figure C). FIASP should look clear and colorless. Do not use it if it looks cloudy or colored. |  |
 | Step 3: •Select a new needle.•Pull off the paper tab from the outer needle cap (See Figure D). |  |
-| Step 4 •Push the capped needle straight onto the Pen and twist the needle on until it is tight (See Figure E). |  |
-| Step 5: •Pull off the outer needle cap. Do not throw it away (See Figure F). |  |
-| Step 6: •Pull off the inner needle cap and throw it away (See Figure G). |  |
+| Step 4:Push the capped needle straight onto the Pen and twist the needle on until it is tight (See Figure E). |  |
+| Step 5:Pull off the outer needle cap. Do not throw it away (See Figure F). |  |
+| Step 6:Pull off the inner needle cap and throw it away (See Figure G). |  |
 
 Priming your FIASP FlexTouch Pen:
 
-| Step 7: •Turn the dose selector to select 2 units (See Figure H). |  |
+| Step 7:Turn the dose selector to select 2 units (See Figure H). |  |
 | --- | --- |
-| Step 8: •Hold the Pen with the needle pointing up. Tap the top of the Pen gently a few times to let any air bubbles rise to the top (See Figure I). |  |
-| Step 9: •Hold the Pen with the needle pointing up. Press and hold in the dose button until the dose counter shows “0”. The “0” must line up with the dose pointer. •A drop of insulin should be seen at the needle tip (See Figure J). •If you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.•If you still do not see a drop of insulin, change the needle and repeat steps 7 to 9. |  |
+| Step 8:Hold the Pen with the needle pointing up. Tap the top of the Pen gently a few times to let any air bubbles rise to the top (See Figure I). |  |
+| Step 9:Hold the Pen with the needle pointing up. Press and hold in the dose button until the dose counter shows “0”. The “0” must line up with the dose pointer. A drop of insulin should be seen at the needle tip (See Figure J). oIf you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.oIf you still do not see a drop of insulin, change the needle and repeat steps 7 to 9. |  |
 
 Selecting your dose:
 
-| Step 10:Check to make sure the dose selector is set at 0. •Turn the dose selector to select the number of units you need to inject. The dose pointer should line up with your dose (See Figure K). •If you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.•The even numbers are printed on the dial.•The odd numbers are shown as lines. |  |
+| Step 10:Check to make sure the dose selector is set at 0.Turn the dose selector to select the number of units you need to inject. The dose pointer should line up with your dose (See Figure K). oIf you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.oThe even numbers are printed on the dial.oThe odd numbers are shown as lines. |  |
 | --- | --- |
 | The FIASP FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L). |  |
-| •To see how much insulin is left in your FIASP FlexTouch Pen: •Turn the dose selector until it stops. The dose counter will line up with the number of units of insulin that is left in your Pen. If the dose counter shows 80, there are at least 80 units left in your Pen.•If the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen. |  |
+| To see how much insulin is left in your FIASP FlexTouch Pen: oTurn the dose selector until it stops. The dose counter will line up with the number of units of insulin that is left in your Pen. If the dose counter shows 80, there are at least 80 units left in your Pen.oIf the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen. |  |
 
 Giving your injection:
 
@@ -323,15 +342,17 @@ Giving your injection:
 - •You should take your dose of FIASP at the start of a meal or within 20 minutes after starting a meal.
 - •FIASP can be injected under the skin (subcutaneously) of your stomach area (abdomen), upper legs (thighs) or upper arms.
   Do not inject FIASP into your muscle.
-- •Change (rotate) your injection sites within the area you choose for each dose.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 | Step 11: •Choose your injection site and wipe the skin with an alcohol swab. Let the injection site dry before you inject your dose (See Figure M). |  |
 | --- | --- |
-| Step 12: •Insert the needle into your skin (See Figure N). •Make sure you can see the dose counter. Do not cover it with your fingers; this can stop your injection. |  |
-| Step 13: •Press and hold down the dose button until the dose counter shows “0” (See Figure O). •The “0” must line up with the dose pointer. You may then hear or feel a click. •Keep the needle in your skin after the dose counter has returned to “0” and slowly count to 6 (See Figure P). •When the dose counter returns to “0”, you will not get your full dose until 6 seconds later.•If the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.•If you see a stream of insulin coming from the needle tip you will not get your full dose. If this happens you should check your blood sugar levels more often because you may need more insulin. |  |
-| Step 14: •Pull the needle out of your skin (See Figure Q). •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |
-| Step 15: •Carefully remove the needle from the Pen and throw it away (See Figure R). •Do not recap the needle. Recapping the needle can lead to needle stick injury. •If you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can. •Do not store the Pen with the needle attached. Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen. |  |
+| Step 12: •Insert the needle into your skin (See Figure N). oMake sure you can see the dose counter. Do not cover it with your fingers; this can stop your injection. |  |
+| Step 13: •Press and hold down the dose button until the dose counter shows “0” (See Figure O). oThe “0” must line up with the dose pointer. You may then hear or feel a click. •Keep the needle in your skin after the dose counter has returned to “0” and slowly count to 6 (See Figure P). oWhen the dose counter returns to “0”, you will not get your full dose until 6 seconds later.oIf the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.oIf you see a stream of insulin coming from the needle tip you will not get your full dose. If this happens you should check your blood sugar levels more often because you may need more insulin. |  |
+| Step 14: •Pull the needle out of your skin (See Figure Q). oIf you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |
+| Step 15: •Carefully remove the needle from the Pen and throw it away (See Figure R). oDo not recap the needle. Recapping the needle can lead to needle stick injury. •If you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can. oDo not store the Pen with the needle attached. Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen. |  |
 | Step 16: •Replace the Pen cap by pushing it straight on (See Figure T). |  |
 
 After your injection:
@@ -339,11 +360,11 @@ After your injection:
 - •Put your used FIASP FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-- •made of a heavy-duty plastic
-- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-- •upright and stable during use
-- •leak-resistant
-- •properly labeled to warn of hazardous waste inside the container
+- omade of a heavy-duty plastic
+- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- oupright and stable during use
+- oleak-resistant
+- oproperly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share needles or syringes with another person.
@@ -382,24 +403,24 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 09/2018
+Revised: 10/2019
 
 For more information go to
 
 www.FIASPflextouch.com
 
-© 2018 Novo Nordisk
+© 2019 Novo Nordisk
 
 Instructions for Use
 
-Fiasp®(fee’asp) PenFill® 3 mL cartridge 100 Units/mL (U-100)
+Fiasp® (fee’asp) PenFill® 3 mL cartridge 100 Units/mL (U-100)
 
 (insulin aspart injection)
 
 - •Do not share your PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
   You may give other people a serious infection, or get a serious infection from them.
 - •Your healthcare provider should show you or your caregiver how to inject FIASP the right way before you inject it for the first time.
-- •FIASP PenFillcartridge 100 Units/mL is a prefilled cartridge containing 300 units of U-100 FIASP (insulin aspart injection).
+- •FIASP PenFillcartridge 100 Units/mL is a prefilled single-patient-use cartridge containing 300 units of U-100 FIASP (insulin aspart injection).
 - •After you insert the PenFill cartridge in your device, you can use it for multiple injections.
   Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill cartridge with the device.
 - •This PenFill cartridge is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product and your insulin delivery device.
@@ -429,8 +450,8 @@ How to use the FIASP PenFill cartridge
   Call Novo Nordisk at 1-800-727-6500.
 - •Carefully look at the cartridge and the insulin inside it.
   Check that the FIASP cartridge:
-  - •is not damaged, for example cracked or leaking
-  - •is not loose on the threaded end
+  - ois not damaged, for example cracked or leaking
+  - ois not loose on the threaded end
 - •FIASP should look clear and colorless.
   Do not use FIASP if it is cloudy or colored or if the threaded end is loose (See Figure B).
 
@@ -512,8 +533,10 @@ Step 7:
 
 (Figure I)
 
-- •For each injection, change (rotate) your injection site within the area of skin that you use.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - •Clean your injection site with an alcohol swab.
   Let your skin dry.
   Do not touch this area again before injecting.
@@ -546,11 +569,11 @@ Step 8:
 - •Put your empty FIASP PenFill cartridge and used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and PenFill cartridges in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-- •made of a heavy-duty plastic
-- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-- •upright and stable during use
-- •leak-resistant
-- •properly labeled to warn of hazardous waste inside the container
+- omade of a heavy-duty plastic
+- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- oupright and stable during use
+- oleak-resistant
+- oproperly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share your needles or syringes with other people.
@@ -593,7 +616,7 @@ General Information about the safe and effective use of FIASP.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-© 2018 Novo Nordisk
+© 2019 Novo Nordisk
 
 Manufactured by:
 
@@ -601,4 +624,4 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 09/2018
+Revised: 10/2019

@@ -20,8 +20,8 @@ Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo-Fetal Risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
-Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data
 

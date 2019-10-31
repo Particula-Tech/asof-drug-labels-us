@@ -4,7 +4,7 @@
 
 FIASP (insulin aspart injection) 100 units of insulin aspart per mL (U-100) is available as a clear and colorless solution in the following presentations and packaging configurations:
 
-1. Carton of one 10 mL multiple-dose vial NDC 0169-3201-11
+1. Carton of one 10 mL multiple-dose vials NDC 0169-3201-11
 2. Carton of five 3 mL single-patient use FIASP FlexTouch pens NDC 0169-3204-15
 3. Carton of five 3 mL single-patient-use PenFill cartridges* NDC 0169-3205-15
 4. The FIASP FlexTouch pen dials in 1 unit increments.
@@ -25,16 +25,23 @@ Always remove the needle after each injection and store FIASP FlexTouch without 
 This prevents contamination and/or infection, or leakage of insulin, and will ensure accurate dosing.
 Always use a new needle for each injection to prevent contamination.
 
-The storage conditions for vials and FIASP FlexTouch pens are summarized in Table 9:
+The storage conditions for vials, FIASP FlexTouch pens, and 3 mL PenFill cartridges are summarized in Table 10:
 
-Table 9.
+Table 10.
 Storage Conditions for Vial, FIASP FlexTouch, and PenFill Cartridges
 
 | FIASP presentation | Not in-use (unopened) |  | In-use (opened) |  |
 | --- | --- | --- | --- | --- |
 |  | Room Temperature (below 30°C) | Refrigerated (2°C to 8°C) | Room Temperature (below 30°C) | Refrigerated (2°C to 8°C) |
-| 10 mL vial | 28 days | Until expiration date | 28 days | 28 days |
-| 3 mL FIASP FlexTouch | 28 days | Until expiration date | 28 days | 28 days |
-| 3 mL PenFill cartridges | 28 days | Until expiration date | 28 days | Do not refrigerate |
+| 10 mL multiple-dose vial | 28 days | Until expiration date | 28 days* | 28 days* |
+| 3 mL single-patient-use FIASP FlexTouch pen | 28 days | Until expiration date | 28 days | 28 days |
+| 3 mL single-patient-use PenFill cartridges | 28 days | Until expiration date | 28 days | Do not refrigerate |
+
+*For insulin pump use, the total in-use time is 28 days, including 6 days pump in-use time
+
+Storage of FIASP in Insulin Pump:
+
+FIASP in the pump reservoir should be replaced at least every 6 days, or according to the pump user manual, whichever is shorter, to avoid insulin degradation or after exposure to temperatures that exceed 37°C (98.6°F).
+The infusion set and infusion set insertion sites should be changed according to the manufacturers’ user manual.
 
 Storage of FIASP in Intravenous Infusion Fluids: Infusion bags prepared as indicated under Dosage and Administration (2.2) are stable at room temperature for 24 hours.
