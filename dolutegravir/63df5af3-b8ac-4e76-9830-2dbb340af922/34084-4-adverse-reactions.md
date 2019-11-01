@@ -29,7 +29,7 @@ Treatment-Emergent Adverse Reactions of at Least Moderate Intensity (Grades 2 to
 
 | System Organ Class/ Preferred Term | SPRING-2 |  | SINGLE |  |
 | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs (n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs (n = 405) | TIVICAY 50 mg + EPZICOM Once Daily (n = 414) | ATRIPLA Once Daily (n = 419) |  |
+| TIVICAY 50 mg Once Daily + 2 NRTIs (n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs (n = 405) | TIVICAY 50 mg + EPZICOM Once Daily (n = 414) | ATRIPLA Once Daily (n = 419) |  |
 | Psychiatric |  |  |  |  |
 | Insomnia | <1% | <1% | 3% | 3% |
 | Depression | <1% | <1% | 1% | 2% |

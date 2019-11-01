@@ -9,14 +9,15 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Preliminary data from an observational study has identified a possible increased risk of neural tube defects when TIVICAY is administered at the time of conception compared with non-dolutegravir-containing antiretroviral regimens.
+Data from a birth outcome surveillance study has identified an increased risk of neural tube defects when TIVICAY is administered at the time of conception compared with non-dolutegravir-containing antiretroviral regimens.
 As defects related to closure of the neural tube occur from conception through the first 6 weeks of gestation, embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk.
-In addition, 2 of the 4 birth defects (encephalocele and iniencephaly), which have been observed with dolutegravir use, although often termed neural tube defects, may occur post-neural tube closure, the time period of which may be later than 6 weeks of gestation, but within the first trimester.
-Due to the limited understanding of the types of reported neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, avoid use of TIVICAY at the time of conception through the first trimester of pregnancy.
-No neural tube defects have been reported in infants born to mothers who have started TIVICAY after the first trimester of pregnancy (see Data).
+In addition, 2 of the 5 birth defects (encephalocele and iniencephaly), which have been observed with dolutegravir use, although often termed neural tube defects, may occur post-neural tube closure, the time period of which may be later than 6 weeks of gestation, but within the first trimester.
+Due to the limited understanding of the types of reported neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, an alternative treatment to TIVICAY should be considered at the time of conception through the first trimester of pregnancy.
+Initiation of TIVICAY is not recommended in adolescents and adults actively trying to become pregnant unless there is no suitable alternative (see Data).
 
-If there are plans to become pregnant or if pregnancy is confirmed while on TIVICAY during the first trimester, if possible, switch to an alternative regimen.
+In adolescents and adults of childbearing potential currently on TIVICAY who are actively trying to become pregnant, or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing TIVICAY versus switching to another antiretroviral regimen and consider switching to an alternative regimen.
 Advise pregnant adolescents and adults of the potential risk to the embryo exposed to TIVICAY from the time of conception through the first trimester of pregnancy.
+A benefit-risk assessment should consider factors such as feasibility of switching, tolerability, ability to maintain viral suppression, and risk of transmission to the infant against the risk of neural tube defects [see Warnings and Precaution (5.3)].
 
 There are insufficient human data on the use of TIVICAY during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
 The background risk for major birth defects for the indicated population is unknown.
@@ -26,12 +27,14 @@ In animal reproduction studies, no evidence of adverse developmental outcomes wa
 
 Data
 
-Human Data: As of May 2018, in an ongoing birth outcome surveillance study in Botswana, there have been 4 cases of neural tube defects reported out of 426 births (0.94%) to mothers who were exposed to dolutegravir-containing regimens at the time of conception.
-In comparison, the neural tube defect prevalence rates were 0.12% (14/11,300) in the non-dolutegravir arm and 0.09% (61/66,057) in the HIV-uninfected arm.
-Four cases reported with dolutegravir included one case each of encephalocele, anencephaly, myelomeningocele, and iniencephaly.
-No infant born to a woman who started dolutegravir during pregnancy had a neural tube defect (n = 2,812).
+Human Data: In a birth outcome surveillance study in Botswana, there were 5 cases of neural tube defects reported out of 1,683 deliveries (0.3%) to women who were exposed to dolutegravir-containing regimens at the time of conception.
+In comparison, the neural tube defect prevalence rates were 0.1% (15/14,792 deliveries) in the non-dolutegravir arm and 0.08% (70/89,372 deliveries) in the HIV-uninfected arm.
+Five cases reported with dolutegravir included one case each of encephalocele, anencephaly, and iniencephaly, and 2 cases of myelomeningocele.
+In the same study, one infant out of 3,840 (0.03%) deliveries to women who started dolutegravir during pregnancy had a neural tube defect, compared with 3 infants out of 5,952 (0.05%) deliveries to women who started non-dolutegravir-containing regimens during pregnancy.
 
 Data analyzed to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to address the risk of neural tube defects with dolutegravir.
+
+Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
 
 Animal Data: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on gestation Days 6 to 17 and 6 to 18, respectively, and to rats on gestation Day 6 to lactation/post-partum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) or pre/post-natal (rats) development were observed at up to the highest dose tested.
@@ -57,13 +60,13 @@ Animal Data: Dolutegravir was the primary drug-related component excreted into t
 
 Pregnancy Testing
 
-Perform pregnancy testing in adolescents and adults of childbearing potential before initiation of TIVICAY.
+Perform pregnancy testing in adolescents and adults of childbearing potential before initiation of TIVICAY [see Dosage and Administration (2.1)].
 
 Contraception
 
-Adolescents and adults of childbearing potential should avoid use of TIVICAY at the time of conception through the first trimester of pregnancy because of the potential risk of neural tube defects [see Use in Specific Populations (8.1)].
+In adolescents and adults of childbearing potential currently on TIVICAY who are actively trying to become pregnant, or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing TIVICAY versus switching to another antiretroviral regimen and consider switching to an alternative regimen [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
 
-Advise adolescents and adults of childbearing potential who are taking TIVICAY to consistently use effective contraception.
+Counsel adolescents and adults of childbearing potential who are taking TIVICAY to consistently use effective contraception.
 
 ## 8.4 Pediatric Use
 

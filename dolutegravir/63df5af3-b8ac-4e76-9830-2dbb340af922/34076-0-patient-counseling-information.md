@@ -18,10 +18,10 @@ Advise patients that laboratory monitoring for hepatoxicity during therapy with 
 
 Embryo-Fetal Toxicity
 
-Advise adolescents and adults of childbearing potential to avoid use of TIVICAY at the time of conception through the first trimester of pregnancy.
-Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with TIVICAY [see Warnings and Precaution (5.3)].
+Advise adolescents and adults of childbearing potential to consider an alternative treatment to TIVICAY at the time of conception through the first trimester of pregnancy.
+Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with TIVICAY [see Warnings and Precaution (5.3), Use in Specific Populations (8.1, 8.3)].
 
-Advise adolescents and adults of childbearing potential taking TIVICAY to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+Counsel adolescents and adults of childbearing potential taking TIVICAY to consistently use effective contraception [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
 
 Immune Reconstitution Syndrome
 
@@ -64,6 +64,6 @@ Research Triangle Park, NC 27709
 
 ©2019 ViiV Healthcare group of companies or its licensor.
 
-TVC:11PI
+TVC:12PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

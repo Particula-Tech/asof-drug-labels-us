@@ -99,7 +99,7 @@ Drug Interaction Studies
 Drug interaction trials were performed with TIVICAY and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions.
 The effects of dolutegravir on the exposure of coadministered drugs are summarized in Table 9 and the effects of coadministered drugs on the exposure of dolutegravir are summarized in Table 10.
 
-Dosing or regimen recommendations as a result of established and other potentially significant drug-drug interactions with TIVICAY are provided in Table 6[see Dosage and Administration (2.2), Drug Interactions (7.3)].
+Dosing or regimen recommendations as a result of established and other potentially significant drug-drug interactions with TIVICAY are provided in Table 6 [see Dosage and Administration (2.2), Drug Interactions (7.3)].
 
 Table 9.
 Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
