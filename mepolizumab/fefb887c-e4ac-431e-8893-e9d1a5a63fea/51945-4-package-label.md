@@ -6,7 +6,7 @@ NDC 0173-0881-01
 
 Nucala
 
-(mepolizuma
+(mepolizumab)
 
 for Injection
 
@@ -31,9 +31,11 @@ No U.S. standard of potency.
 
 Do not accept if plastic overseal is missing or not securely fitted.
 
-©2018 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-- DFT-01011-3270152
+- Rev.
+  9/19
+- 62000000043659
 
 PRINCIPAL DISPLAY PANEL
 
