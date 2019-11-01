@@ -102,4 +102,4 @@ ALTRENO is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 © 2019 Bausch Health Companies Inc. or its affiliates This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-9650301 Revised: 04/2019
+9650302 Revised: 11/2019
